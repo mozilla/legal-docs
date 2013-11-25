@@ -87,8 +87,7 @@ através da página de listagem do Conteúdo do Marketplace.
 Você também poderá encaminhar solicitações de suporte a partir de sua
 operadora de rede móvel na qual você esteja acessando o Firefox Marketplace
 (uma lista dos websites das operadoras está disponível
-[aqui](https://support.mozilla.org/kb/firefox-os-carrier-support-contact-
-information)). Para as informações sobre o Firefox Marketplace e artigos com
+[aqui](https://support.mozilla.org/kb/firefox-os-carrier-support-contact-information)). Para as informações sobre o Firefox Marketplace e artigos com
 as perguntas mais frequentes, visite o site de suporte do Mozilla
 [aqui](https://support.mozilla.org/kb/what-firefox-marketplace).
 

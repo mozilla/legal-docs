@@ -84,11 +84,9 @@ contenido del Marketplace a traves de la lista de Contenido del Marketplace.
 
 Tambien puede solicitar el soporte del operador de red movil en el que usted
 esta ingresando al Firefox Marketplace (una lista de los sitios web de soporte
-esta disponible [aqui](https://support.mozilla.org/es/kb/firefoxos-carrier-
-support-contact-information)). Para mas informaciones sobre el Firefox
+esta disponible [aqui](https://support.mozilla.org/es/kb/firefoxos-carrier-support-contact-information)). Para mas informaciones sobre el Firefox
 Marketplace, asi como los articulos sobre las preguntas mas frecuentes, entre
-en [soporte oficial del marketplace](https://support.mozilla.org/es/kb/what-
-firefox-marketplace).
+en [soporte oficial del marketplace](https://support.mozilla.org/es/kb/what-firefox-marketplace).
 
 Si su Contenido Comprado tiene defecto, codigos maliciosos (Malware), este
 indisponible o caso contrario no ejecuta conforme a lo adecuado, puede

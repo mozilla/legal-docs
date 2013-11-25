@@ -93,11 +93,9 @@ Mozilla για να συνδέσει το Αγοραζόμενο από εσάς
 Μπορείτε επίσης να ζητήσετε υποστήριξη από τον φορέα του δικτύου κινητής
 τηλεφωνίας μέσω του οποίου έχετε πρόσβαση στο Firefox Marketplace (κατάλογος
 ιστοσελίδων υποστήριξης φορέων του Firefox OS υπάρχει
-[εδώ](https://support.mozilla.org/el/kb/firefox-os-carrier-support-contact-
-information)). Για πληροφορίες σχετικά με το Firefox Marketplace όπως και
+[εδώ](https://support.mozilla.org/el/kb/firefox-os-carrier-support-contact-information)). Για πληροφορίες σχετικά με το Firefox Marketplace όπως και
 άρθρα σχετικά με συχνές ερωτήσεις, παρακαλούμε επισκεφθείτε τον ιστότοπο
-υποστήριξης του Mozilla Firefox OS [εδώ](https://support.mozilla.org/el/kb
-/what-firefox-marketplace).
+υποστήριξης του Mozilla Firefox OS [εδώ](https://support.mozilla.org/el/kb/what-firefox-marketplace).
 
 Εάν το Αγοραζόμενο από εσάς Περιεχόμενο είναι ελαττωματικό, περιέχει κακόβουλο
 λογισμικό (malware), δεν είναι διαθέσιμο ή δεν λειτουργεί κατά τα άλλα όπως
@@ -121,8 +119,7 @@ Marketplace ενός Δημιουργού Περιεχομένου), συμφω�
 παράδειγμα, τα στοιχεία ταυτότητας ή επικοινωνίας σας) σε μας ως μέρος της
 διαδικασίας εγγραφής σας και της χρήσης του Firefox Marketplace από εσάς. Θα
 αντιμετωπίζουμε τις πληροφορίες που μας παρέχετε όπως αναφέρεται στην
-[Πολιτική Προστασίας Προσωπικών Δεδομένων του Firefox Marketplace](/privacy-
-policy).
+[Πολιτική Προστασίας Προσωπικών Δεδομένων του Firefox Marketplace](/privacy-policy).
 
 Η Πολιτική Προστασίας Firefox Marketplace έχει εφαρμογή στο Firefox
 Marketplace αλλά δεν καλύπτει κανένα Περιεχόμενο του Marketplace. Θα πρέπει να
