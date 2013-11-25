@@ -67,7 +67,7 @@ To the extent some of the content on the Firefox Marketplace are covered by sepa
 
 ### Privacy
 
-You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace <a href="/privacy-policy">Privacy Policy</a>.
+You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).
 
 Please see our [Privacy Policy](/privacy-policy) for more detail.
 
