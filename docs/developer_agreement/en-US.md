@@ -2,7 +2,7 @@ July 3, 2013
 
 This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
-1. You must be at least 18 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
+1. You must be at least 21 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
 2. You must comply with all applicable terms and policies, including guidelines around privacy and content.
 3. We can remove your Marketplace Content from the Firefox Marketplace if we find it harmful or objectionable or if you violate our policies or these Terms.
 4. You are solely responsible for your Marketplace Content, which means you&rsquo;re responsible for export regulations, compliance with laws, refunds and support. If you sell your Marketplace Content, you are also responsible for taxes, pricing, and refunds. If you use our integrated payment system, the integrated payment processors may agree to take on sale/VAT, refunds and other payment associated issues for you.
