@@ -1,6 +1,8 @@
 ### Firefox Marketplace Privacy Policy
 July 3, 2013
 
+This is an edit.
+
 We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
 <u>Things you should know</u>
