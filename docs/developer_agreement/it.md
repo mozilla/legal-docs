@@ -1,4 +1,3 @@
-# Contratto con lo Sviluppatore
 12 luglio 2013
 
 Questa prima parte è una sintesi delle condizioni che seguono. È messa a disposizione come ausilio alla comprensione, ma si consiglia di leggere l’intero documento, in quanto dando il proprio consenso si accetta l’intero documento e non solamente questa sintesi.
