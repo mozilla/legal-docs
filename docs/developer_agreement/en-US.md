@@ -1,4 +1,4 @@
-July 3, 2013
+October 30, 2013
 
 This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
@@ -12,7 +12,7 @@ This top section is a summary of the terms below. It is provided as an aid to yo
 
 ## Introduction
 
-Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;) is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
+Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;), located at 650 Castro St #300, Mountain View, CA 94041, United States of America, is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
 
 ## Definitions
 
@@ -23,7 +23,7 @@ As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace
 
 ## Terms Governing Your Use of Firefox Marketplace
 
-As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/terms-of-use) as well as the related Firefox Marketplace policies referred to in this agreement as well as posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;).
+As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/terms-of-use) and the Firefox Marketplace policies referred to in this agreement and posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;), each of which are incorporated herein by reference.
 
 
 ## Acceptance of Terms
@@ -35,51 +35,57 @@ As we innovate and introduce new features for the Firefox Marketplace, these Ter
 
 ## Firefox Marketplace Privacy Policy
 
-You will be required to provide information about yourself (such as identification or contact details) as part of your registration for and use of the Firefox Marketplace as a Developer. Integrated payment processors may also require you to provide them with payment information and you agree that any payment information provided to payment providers will always be accurate, correct and up to date. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).
+You will be required to provide information about yourself (such as identification or contact details) to Mozilla as part of your registration for and use of the Firefox Marketplace as a Developer.  We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).  Certain features of the Firefox Marketplace are operated by third party services. For example, we use third party providers to generate app ratings and to process app payments. You agree that any information provided to these third party providers will always be accurate, correct and up to date. Third party providers have their own privacy policies and terms of use, and you are encouraged to read them.
 
 
 ## Management of Firefox Marketplace
 
-As between you and Mozilla, you are solely responsible for your Marketplace Content. Because we need to be able to manage the Firefox Marketplace (including preventing abuse), the inclusion and display of any Marketplace Content in the Firefox Marketplace is at Mozilla&rsquo;s sole discretion. Mozilla or its community may at any time review or test any of your Marketplace Content for compliance with these Terms and any other applicable policies, contractual obligations, laws, or regulations.
+As between you and Mozilla, you are solely responsible for your Marketplace Content. Because we need to be able to manage the Firefox Marketplace (including preventing abuse), the inclusion and display of any Marketplace Content in the Firefox Marketplace is at Mozilla&rsquo;s sole discretion. Mozilla, its community, or Mozilla’s third party providers may at any time review or test any of your Marketplace Content for compliance with these Terms and any other applicable policies.
 
-While you may be able to specify which country store you&rsquo;d like to distribute your content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Apps to specific devices.
+While you may be able to specify which country store you&rsquo;d like to distribute your Marketplace Content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Marketplace Content to specific devices.
+
+You are solely responsible for the relationship between you and the end users of your Marketplace Content. 
 
 
 ## Payments
 
-You may choose to provide your Marketplace Content for free. If you would like to charge a fee for your Marketplace Content, you can do so by either using your own payment processing system or using the Firefox Marketplace&rsquo;s integrated payment processing system. In either case, Mozilla does not take on any merchant of record or other obligations with respect to your Marketplace Content.
+You may choose to provide your Marketplace Content for free. If you would like to charge a fee for your Marketplace Content, you can do so by either using the Firefox Marketplace&rsquo;s integrated payment processing system or usingyour own payment processing system. In either case, Mozilla does not take on any merchant of record or other obligations with respect to your Marketplace Content.
 
-If you use the Firefox Marketplace integrated payment processing system, you will need to sign up for a payment account with the applicable integrated payment processor. As used here, a &ldquo;payment account&rdquo; means an account issued by an integrated payment processor to you pursuant to a separate agreement between you and that integrated payment processor, which authorizes the integrated payment processor to collect and remit payments on the your behalf for Marketplace Content sold via the Firefox Marketplace. Our payment processing system may offer you different payment processors in different jurisdictions - a list of integrated payment processors and their standard terms are [available here](/media/docs/pay-providers/all.html?v1). When you use an integrated payment processor, to the extent necessary for that payment processor to provide you with services, you authorize us to share your information with that integrated payment processor.
+If you choose to use the Firefox Marketplace integrated payment processing system, you will need to sign up for a payment account with the applicable integrated payment processor. As used here, a &ldquo;payment account&rdquo; means an account issued by an integrated payment processor to you pursuant to a separate agreement between you and that integrated payment processor, which authorizes the integrated payment processor to collect and remit payments on the your behalf for Marketplace Content sold via the Firefox Marketplace. Our payment processing system may offer you different payment processors in different jurisdictions - a list of integrated payment processors and their standard terms are [available here](/media/docs/pay-providers/all.html?v1). When you use an integrated payment processor, to the extent necessary for that payment processor to provide you with services, you authorize us to share your information with that integrated payment processor.  Payment Processors are third parties, and by using their services, you agree to abide by their Privacy Policies and Terms of Service.
+
+If you choose to use the Firefox Marketplace&rsquo;s integrated payment system, you will also be charged a transaction fee for end user purchases of your Marketplace Content. You can find our current fee schedule
+at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
 
 If you sell your Marketplace Content, you are also responsible for taxes (including sales tax/VAT), pricing, refunds and any other payment obligations. If you use the integrated payment system, the integrated payment processor may agree to take on sale/VAT, merchant of record, refunds and other payment associated issues for you. The fees you charge, refunds, sales/VAT taxes you owe and other payment related issues are solely between you, that payment processor and the purchasers of your Marketplace Content.
 
 If you use your own payment processing system, you or your payment processor will be the merchant of record for the sale of your Marketplace Content, depending on your relationship with your payment processor.
 
-If you use the Firefox Marketplace&rsquo;s integrated payment system, you will be charged a fee for every purchase. You can find our current fee schedule at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
-
 
 ## Taxes
 
-Since you, not Mozilla, are selling your Marketplace Content, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. The integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
+Since you, not Mozilla, are selling your Marketplace Content  to end users of the Firefox Marketplace&rsquo;, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. 
+
+If you use the Firefox Marketplace&rsquo; integrated payment processing system, the integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
 
 
 ## Refunds
 
-You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. Additionally, if you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
+You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. If you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
 
 1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
 2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
 
 ## Support
 
-You are solely responsible for providing reasonable technical support to end users and you will make appropriate support contact information available (including by displaying it in each Marketplace Content&rsquo;s detail page) for customer support purposes. Failure to provide adequate support for your Marketplace Content(s) may result in low Marketplace Content ratings, less prominent Marketplace Content exposure, low sales, billing disputes, and even suspension or removal from the Firefox Marketplace.
+You are solely responsible for providing reasonable technical support to end users and you will make appropriate support contact information available (including by displaying it in each Marketplace Content&rsquo;s detail page) for customer support purposes. Failure to provide adequate support for your Marketplace Content(s) may result in low Marketplace Content reviews, less prominent Marketplace Content exposure, low sales, billing disputes, and even suspension or removal from the Firefox Marketplace.
 
 
 ## Privacy-Related Obligations
 
-You agree to provide end users with a legally adequate privacy notice that accurately describes any collection, use or disclosure of information provided by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with a user&rsquo;s consent and your privacy policy.
+You agree to provide end users with a legally adequate privacy policy that accurately describes any collection, use or disclosure of information provided to you by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with your privacy policy and applicable privacy and data protection laws.
 
-You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms. For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
+You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms and your privacy policy in accordance with applicable privacy and data
+protection laws.  For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
 
 
 ## Marketing Your App in Firefox Marketplace
@@ -89,7 +95,7 @@ You are responsible for uploading your Marketplace Content to the Firefox Market
 
 ## Content Restrictions
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies here: [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).
+Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
 
 
 ## Persona and Marketplace Content
@@ -155,7 +161,7 @@ THE FIREFOX MARKETPLACE IS PROVIDED &ldquo;AS IS&rdquo;. MOZILLA, ITS CONTRIBUTO
 
 ## Limitation of Liability
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT AS REQUIRED BY LAW, MOZILLA, ITS CONTRIBUTORS, LICENSORS, SUBSIDIARIES, AFFILIATES AND DISTRIBUTORS WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT MOZILLA OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. IN NO EVENT SHALL MOZILLA&rsquo;S AGGREGATE LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS BE IN EXCESS OF THE GREATER OF (i) $100 OR (ii) THE TOTAL AMOUNTS PAID TO YOU BY MOZILLA IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT AS REQUIRED BY LAW, MOZILLA, ITS CONTRIBUTORS, LICENSORS, SUBSIDIARIES, AFFILIATES AND DISTRIBUTORS WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT MOZILLA OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. IN NO EVENT SHALL MOZILLA&rsquo;S AGGREGATE LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS BE IN EXCESS OF THE GREATER OF (i) $100 OR (ii) THE TOTAL AMOUNTS PAID TO YOU BY MOZILLA IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN TYPES OF LIABILITY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
 
 ## Release; Indemnification
@@ -175,4 +181,7 @@ If any court of law, having the jurisdiction to decide on this matter, rules tha
 EXPORT RESTRICTIONS. YOUR DISTRIBUTION OF MARKETPLACE CONTENT ON THE FIREFOX MARKETPLACE MAY BE SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO YOUR DISTRIBUTION OF MARKETPLACE CONTENT. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, USERS AND END USE.
 
 The rights granted in these Terms may not be assigned or transferred by you without the prior written approval of Mozilla. You are not permitted to delegate your responsibilities or obligations under these Terms without the prior written approval of Mozilla.
-These Terms, and your relationship with Mozilla under these Terms, shall be governed by the laws of the State of California without regard to its conflict of laws provisions. You and Mozilla agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms. Notwithstanding this, you agree that Mozilla shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+
+## Governing Law and Jurisdiction
+
+THESE TERMS, AND YOUR RELATIONSHIP WITH MOZILLA UNDER THESE TERMS, SHALL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA IN THE UNITED STATES OF AMERICA WITHOUT REGARD TO ITS CONFLICT OF LAWS PROVISIONS. You and Mozilla agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, in the state of California to resolve any legal matter arising from these Terms. Notwithstanding this, you agree that Mozilla shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
