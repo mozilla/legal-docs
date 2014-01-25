@@ -1,178 +1,169 @@
-July 3, 2013
+30. října 2013
 
-This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
+Tato úvodní část je souhrnem podmínek uvedených níže. Jejím úkolem je umožnit snazší porozumění; přečtěte si však celý dokument, jelikož když s ním souhlasíte, znamená to, že ho přijímáte celý, nejen toto shrnutí:
 
-1. You must be at least 18 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
-2. You must comply with all applicable terms and policies, including guidelines around privacy and content.
-3. We can remove your Marketplace Content from the Firefox Marketplace if we find it harmful or objectionable or if you violate our policies or these Terms.
-4. You are solely responsible for your Marketplace Content, which means you&rsquo;re responsible for export regulations, compliance with laws, refunds and support. If you sell your Marketplace Content, you are also responsible for taxes, pricing, and refunds. If you use our integrated payment system, the integrated payment processors may agree to take on sale/VAT, refunds and other payment associated issues for you.
-5. Don&rsquo;t do anything illegal or that could hurt us or others.
-6. We&rsquo;re not responsible for your use of the Firefox Marketplace, your Marketplace Content, or the actions of other users, including other developers.
-7. You&rsquo;ll be responsible for your Marketplace Content and your use or misuse of the Firefox Marketplace.
+1. Abyste mohli být vývojářem Obsahu Marketplace, musí vám být alespoň 18 let nebo musíte mít souhlas rodičů, kteří budou dohlížet a jednat s našimi službami vaším jménem. 
+2. Musíte splňovat všechny platné podmínky a zásady, a to včetně směrnic ohledně ochrany soukromí a obsahu. 
+3. Pokud váš Obsah Marketplace shledáme škodlivým nebo nežádoucím nebo pokud porušíte naše zásady nebo tyto Podmínky, můžeme ho odstranit z Firefox Marketplace. 
+4. Za váš Obsah Marketplace odpovídáte výhradně vy, což znamená, že jste zodpovědní za dodržování vývozních předpisů, zákonů, poskytování náhrad a podpory. Pokud svůj Obsah Marketplace prodáváte, zodpovídáte za daně, tvorbu cen a náhrady. Pokud používáte náš integrovaný platební systém, integrovaní zpracovatelé plateb mohou souhlasit s převzetím vrácení daní z obratu/DPH a další otázky související s platbami. 
+5. Nepodnikejte nic ilegálního ani nic, co by mohlo ublížit nám nebo ostatním. 
+6. Neodpovídáme za vaše použití Firefox Marketplace, váš Obsah Marketplace ani za akce ostatních uživatelů, a to včetně ostatních vývojářů. 
+7. Za svůj Obsah Marketplace a vaše použití nebo zneužití Firefox Marketplace odpovídáte vy.
 
-## Introduction
+## Úvod
 
-Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;) is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
+Společnost Mozilla Corporation, sídlem 650 Castro St \#300, Mountain View, CA 94041, Spojené státy americké („společnost Mozilla“, „my“) se zavázala nabízet výběr a inovaci na internetu. Proto jsme vytvořili Firefox Marketplace – veřejně dostupnou webovou stránku umožňující distribuci Obsahu Marketplace uživatelům k použití na jejich zařízeních.
 
-## Definitions
+## Definice
 
-As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
+Jako vývojář můžete prostřednictvím Firefox Marketplace distribuovat doplňky (Add-on) nebo aplikace (společně „Obsah Marketplace“).
 
-- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
-- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
+- Doplňky „Add-on“ jsou rozšíření, témata, vyhledávače, slovníky a jazykové sady, které vám umožní rozšířit funkčnost prohlížeče Firefox. 
+- Aplikace „Apps“ jsou aplikacemi vytvořenými otevřenými webovými technologiemi, které lze spustit na více platformách.
 
-## Terms Governing Your Use of Firefox Marketplace
+## Podmínky upravující použití Firefox Marketplace
 
-As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/terms-of-use) as well as the related Firefox Marketplace policies referred to in this agreement as well as posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;).
+Jako vývojář jste zváni, abyste k distribuci vašeho Obsahu Marketplace použili Firefox Marketplace. Vaše použití Firefox Marketplace je upraveno podmínkami této smlouvy s vývojářem, [podmínkami použití Firefox Marketplace](/terms-of-use), a zásadami Firefox Marketplace uvedeným v této smlouvě a zveřejněným na Firefox Marketplace; které jsou zde uvedeny pro referenci (společně označovány jako „Podmínky“).
 
+## Přijetí Podmínek
 
-## Acceptance of Terms
+Použitím Firefox Marketplace souhlasíte, že je vám alespoň 18 let nebo jednáte se souhlasem a pod dohledem vašeho rodiče; že máte plné právo, oprávnění a pravomoc přijmout tyto Podmínky svým jménem nebo případně jménem svého zaměstnavatele nebo jiného subjektu, který zastupujete.
 
-By using the Firefox Marketplace, you agree that you are at least 18 years old or are acting with the consent and supervision of your parent; and you have full power, capacity, and authority to accept these Terms on behalf of yourself, or if applicable, your employer or other entity that you represent.
+Tyto Podmínky se mohou změnit v důsledku inovací nebo zavedení nových funkcí Firefox Marketplace. Vyhrazujeme si právo změnit tyto podmínky podle našeho uvážení; pokud budeme dělat významné změny, budeme vás informovat. 
 
-As we innovate and introduce new features for the Firefox Marketplace, these Terms may need to change. We reserve the right to change these Terms at our sole discretion and if we make material changes, we will provide you notice.
+## Zásady ochrany soukromí Firefox Marketplace
 
+Bude třeba, abyste společnosti Mozilla v rámci registrace a používání Firefox Marketplace jako vývojář poskytli informace o vás (jako jdou identifikační a kontaktní údaje). S vašimi informacemi budeme zacházet v souladu se [zásadami ochrany soukromí Firefox Marketplace](/privacy-policy). Některé funkce Firefox Marketplace zajišťují třetí strany. Služeb třetích stran využíváme například ke generování hodnocení aplikací a zpracovávání plateb za aplikace. Souhlasíte, že veškeré informace poskytnuté těmto třetím stranám budou vždy přesné, správné a aktuální. Nezávislí poskytovatelé služeb mají vlastní zásady ochrany soukromí a podmínky použití; doporučujeme vám, abyste si je přečetli.
 
-## Firefox Marketplace Privacy Policy
+## Správa Firefox Marketplace
 
-You will be required to provide information about yourself (such as identification or contact details) as part of your registration for and use of the Firefox Marketplace as a Developer. Integrated payment processors may also require you to provide them with payment information and you agree that any payment information provided to payment providers will always be accurate, correct and up to date. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).
+Ve vztahu mezi vámi a společností Mozilla odpovídáte za váš Obsah Marketplace jedině vy. Vzhledem k tomu, že poztřebujeme spravovat Firefox Marketplace (včetně prevence zneužívání), zařazení a zobrazení jakéhokoliv Obsahu Marketplace na Firefox Marketplace je na uvážení společnosti Mozilla. Mozilla, její komunita, nebo ostatní poskytovatelé společnosti Mozilla mohou kdykoli revidovat nebo testovat libovolný váš Obsah Marketplace za účelem ověření souladu s těmito Podmínkami a jinými příslušnými zásadami.
 
+I když můžete mít možnost určit, ve které zemi chcete Obsah Marketplace distribuovat, berte na vědomí, že Firefox Marketplace je navržen tak, aby byl k dispozici na všech zařízení, na kterých lze spustit Open Web technologii a v současnosti nepovoluje příjem Obsahu Marketplace na konkrétní zařízení.
 
-## Management of Firefox Marketplace
+Jedině vy zodpovídáte za vztah mezi vámi a koncovými uživateli vašeho Obsahu Marketplace.
 
-As between you and Mozilla, you are solely responsible for your Marketplace Content. Because we need to be able to manage the Firefox Marketplace (including preventing abuse), the inclusion and display of any Marketplace Content in the Firefox Marketplace is at Mozilla&rsquo;s sole discretion. Mozilla or its community may at any time review or test any of your Marketplace Content for compliance with these Terms and any other applicable policies, contractual obligations, laws, or regulations.
+## Platby
 
-While you may be able to specify which country store you&rsquo;d like to distribute your content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Apps to specific devices.
+Můžete se rozhodnout svůj Obsah Marketplace poskytnout zdarma.
 
+Pokud si přejete účtovat za váš Obsah Marketplace poplatek, můžete tak udělat prostřednictvím integrovaného systému zpracovávání plateb Firefox Marketplace nebo prostřednictvím vašeho vlastního systému zpracovávání plateb. V žádném případě na sebe však společnost Mozilla nebere zodpovědnost prodejce ani jiné povinnosti s ohledem na váš Obsah Marketplace.
 
-## Payments
+Pokud se rozhodnete používat integrovaný systém zpracovávání plateb Firefox Marketplace, budete si muset zaregistrovat platební účet u příslušného integrovaného zpracovatele plateb. Pojem „platební účet” používaný v tomto dokumentu znamená účet u integrovaného zpracovatele plateb v souladu se samostatnou smlouvou mezi vámi a integrovaným zpracovatelem plateb, která opravňuje integrovaného zpracovatele plateb ke shromažďování a vyřizování plateb týkajících se vašeho Obsahu Marketplace na portálu Firefox Marketplace vaším jménem. Náš systém zpracovávání plateb vám může nabízet různé zpracovatele plateb v různých právních řádech - seznam integrovaných zpracovatelů plateb a jejich standardní podmínky jsou k dispozici [zde](/media/docs/pay-providers/all.html?v1). Když používáte integrovan=ého zpracovatele plateb, opravňujete nás sdílet vaše informace s integrovaným zpracovatelem plateb v rozsahu nutném pro poskytnutí služeb zpracovatele plateb. Zpracovatelé plateb jsou třetí strany a využitím jejich služeb souhlasíte s dodržováním jejich zásad ochrany soukromí a podmínek poskytování služeb.
 
-You may choose to provide your Marketplace Content for free. If you would like to charge a fee for your Marketplace Content, you can do so by either using your own payment processing system or using the Firefox Marketplace&rsquo;s integrated payment processing system. In either case, Mozilla does not take on any merchant of record or other obligations with respect to your Marketplace Content.
+Pokud se rozhodnete používat integrovaný systém plateb Firefox Marketplace, bude vám také účtován poplatek za transakce za nákupy vašeho Obsahu Marketplace koncovými uživateli. Současný přehled poplatků naleznete [zde](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments) Vyhrazujeme si právo občas upravovat poplatky podle našeho uvážení.
 
-If you use the Firefox Marketplace integrated payment processing system, you will need to sign up for a payment account with the applicable integrated payment processor. As used here, a &ldquo;payment account&rdquo; means an account issued by an integrated payment processor to you pursuant to a separate agreement between you and that integrated payment processor, which authorizes the integrated payment processor to collect and remit payments on the your behalf for Marketplace Content sold via the Firefox Marketplace. Our payment processing system may offer you different payment processors in different jurisdictions - a list of integrated payment processors and their standard terms are [available here](/media/docs/pay-providers/all.html?v1). When you use an integrated payment processor, to the extent necessary for that payment processor to provide you with services, you authorize us to share your information with that integrated payment processor.
+Pokud prodáváte Obsah Marketplace, zodpovídáte také za daně (včetně daně z obratu/DPH), stanovení cen, náhrad a všech dalších povinností týkajících se plateb. Pokud používáte integrovaný platební systém, integrovaný zpracovatel plateb může souhlasit s převzetím daně z obratu/DPH, záznamů obchodníka, náhrad a dalších otázek souvisejících s platbami místo vás. Poplatky, které si účtujete, náhrady, daň z obratu/DPH, které dlužíte, a další záležitosti související s platbami, jsou výhradně záležitostí vyjednávání mezi vámi, zpracovatelem platby a kupujícím vašeho Obsahu Marketplace.
 
-If you sell your Marketplace Content, you are also responsible for taxes (including sales tax/VAT), pricing, refunds and any other payment obligations. If you use the integrated payment system, the integrated payment processor may agree to take on sale/VAT, merchant of record, refunds and other payment associated issues for you. The fees you charge, refunds, sales/VAT taxes you owe and other payment related issues are solely between you, that payment processor and the purchasers of your Marketplace Content.
+Pokud používáte svůj vlastní systém zpracovávání plateb, vy nebo váš zpracovatel plateb budete obchodníkem pro daný nákup Obsahu Marketplace, a to podle vašeho vztahu se zpracovatelem platby.
 
-If you use your own payment processing system, you or your payment processor will be the merchant of record for the sale of your Marketplace Content, depending on your relationship with your payment processor.
+## Daně
 
-If you use the Firefox Marketplace&rsquo;s integrated payment system, you will be charged a fee for every purchase. You can find our current fee schedule at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
+Jelikož prodávajícím Obsahu Marketplace koncovému uživateli Firefox Marketplace jste vy, nikoliv společnost Mozilla, musíte stanovit, zda je účtovaný poplatek uživatele za stažení obsahu Marketplace zdanitelný a určit i příslušnou daňovou sazbu. Také zodpovídáte za odvádění daní příslušným finančním úřadům, a to v závislosti na transakcích.
 
+Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, integrovaní zpracovatelé plateb mohou poskytovat služby stanovení a odvodu daně z obratu/DPH vaším jménem. Společnost Mozilla nemá vůči vám s ohledem na Obsah Marketplace žádné daňové povinnosti, a to včetně například povinností sledovat a zpracovávat platby, ověřovat placené nebo dříve zaplacené stažení, vést záznamy o platbách, nebo hradit, vykazovat nebo účtovat daně z obratu, použití nebo spotřební daně. Další informace si prostudujte na stránkách [Nejčastější daňové dotazy](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) společnosti Mozilla a ohledně výběru a odvodu daní se poraďte se svým advokátem nebo správcem daně.
 
-## Taxes
+## Náhrady
 
-Since you, not Mozilla, are selling your Marketplace Content, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. The integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
+Zodpovídáte za veškeré náhrady, zpětné poplatky a jiné zpětné platby kupujícímu vašeho Obsahu Marketplace, a to podle platného zákona.
+Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, tímto souhlasíte s následujícím:
 
+1. Tímto společnosti Mozilla a našim partnerům dáváte svolení poskytnout kupujícímu plnou náhradu ceny Obsahu Marketplace na váš účet v případě, že kupující požádá o vrácení do 30 minut po zakoupení nebo později (v případě potřeby podle platných právních předpisů). Po uplynutí této lhůty mohou být schváleny nebo odmítnuty žádosti o náhradu v závislosti na jejich zdůvodnění. Náhrady lze vyplatit po 30minutovém období pro náhradu, a to pokud bude zjištěno, že váš Obsah je vadný, obsahuje malware, porušuje naše zásady (včetně našich [kritérií kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), není dostupný nebo nefunguje dle informací; a 
+2. Společnost Mozzila může vyšetřit a určit odpovídající opatření pro abnormální objemy požadavků na náhradu pro případ konkrétního Obsahu Marketplace, aby se zajistila kvalita a přesnost uvádění obsahu.
 
-## Refunds
+## Podpora
 
-You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. Additionally, if you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
+Za poskytnutí odpovídající technické podpory koncovým uživatelům a poskytnutí odpovídajících kontaktních informací podpory (včetně zobrazení na každé stránce podrobností Obsahu Marketplace) pro podporu zákazníků odpovídáte jedině vy. Pokud neposkytnete odpovídající podporu ke svému Obsahu Marketplace, výsledkem mohou být špatné recenze Obsahu Marketplace, méně výrazné umístění Obsahu Marketplace, nižší prodeje, spory ohledně fakturace nebo dokonce stažení nebo odstranění z Firefox Marketplace.
 
-1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
-2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
+## Povinnosti související s ochranou soukromí
 
-## Support
+Souhlasíte s tím, že koncovým uživatelům poskytnete právně odpovídající zásady ochrany osobních údajů, které budou přesně popisovat veškeré shromažďování, používání nebo zpřístupňování informací, které od koncových uživatelů získáte. Všechny aplikace musejí mít zásady ochrany soukromí. Doplňky „Add-on“ musí mít zásady ochrany soukromí, pokud se shromažďují nebo přenášejí libovolné informace o uživateli nebo o použití doplňku „Add-on“ mimo zařízení, na němž je doplněk nainstalován. Tímto prohlašujete a zaručujete, že veškeré informace, které jsou poskytovány společností Mozilla o uživatelích, budou použity výhradně v souladu s vašimi zásadami ochrany osobních údajů a soukromí a platnými zákony na ochranu osobních údajů.
 
-You are solely responsible for providing reasonable technical support to end users and you will make appropriate support contact information available (including by displaying it in each Marketplace Content&rsquo;s detail page) for customer support purposes. Failure to provide adequate support for your Marketplace Content(s) may result in low Marketplace Content ratings, less prominent Marketplace Content exposure, low sales, billing disputes, and even suspension or removal from the Firefox Marketplace.
+Souhlasíte s tím, že zajistíte, aby veškerá reklama prezentovaná koncovým uživatelům vašeho Obsahu Marketplace splňovala všechny požadavky těchto Podmínek a zásad ochrany osobních údajů, a to v souladu s platnými zásadami na ochranu soukromí a ochranu osobních údajů. Například, (i) vložené reklamy a vaše používání údajů získaných z takové reklamy musí být v souladu s platnými právními předpisy, (ii) vložená reklama nesmí obsahovat žádný „spyware“, „malware“ nebo škodlivý kód a nesmí způsobit újmu na zdraví osob nebo poškození jakéhokoliv majetku, a (iii) musíte nabídnout smysluplné oznámení a možnosti případného sledování, které vede k vám nebo třetím stranám při zprostředkování reklamy nebo propagace uživatelům.
 
+## Prodej vašich aplikací na portálu Firefox Marketplace
 
-## Privacy-Related Obligations
+Odpovídáte za nahrání Obsahu Marketplace na portál Firefox Marketplace, poskytnutí přesných informací o produktu a službách Obsahu Marketplace uživatelům, pokud jde o vlastnosti a funkce vašeho Obsahu Marketplace, a přesné sdělování oprávnění zabezpečení a uživatelských dat nezbytných pro Obsah Marketplace a jeho fungování na uživatelských zařízení. Pokud produkt či služba jsou nepřesné nebo vyžadují aktualizaci či úpravu, zavazujete se provést tyto aktualizace či úpravy rychle. Pokud vy a společnost Mozilla nemáte písemnou smlouvu uvádějící jinak, váš Obsah Marketplace nesmí nijak naznačovat, že je vyráběn či schválen společností Mozilla.
 
-You agree to provide end users with a legally adequate privacy notice that accurately describes any collection, use or disclosure of information provided by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with a user&rsquo;s consent and your privacy policy.
+## Omezení obsahu
 
-You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms. For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
+Veškerý vámi distribuovaný Obsah Marketplace na portálu Firefox Marketplace musí splňovat podmínky souhlasu společnosti Mozilla a další vývojářské zásady. Naše stávající zásady jsou uvedeny v našich [kritériích kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review). Kromě toho Firefox Marketplace vyžaduje, aby všechny aplikace byly ohodnoceny International Age Rating Coalition („IARC“). Vývojáři Firefox Marketplace mají přístup k certifikačnímu nástroji hodnocení IARC, a to zdarma jako součást postupu nahrávání aplikace. IARC je třetí stranou a použitím jejího nástroje k certifikaci hodnocení se zavazujete, že se budete řídit [podmínkami ochrany soukromí IARC](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) a [podmínkami použití IARC](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
 
+## Persona a Obsah Marketplace
 
-## Marketing Your App in Firefox Marketplace
+[Persona](http://persona.org) je přihlašovací systém společnosti Mozilla. Některý Obsah Marketplace využívá pro ověření systém Persona. Poskytneme vám stvrzenky nákupů vašeho Obsahu Marketplace uživateli.
 
-You are responsible for uploading your Marketplace Content to the Firefox Marketplace, providing accurate Marketplace Content product and service information to users regarding the features and functionality of your Marketplace Content, and accurately disclosing the security permissions and user data necessary for the Marketplace Content to function on user devices. If any product or service information is inaccurate or needs to be updated or modified, you agree to promptly make such updates or modifications. Unless you and Mozilla have a written agreement stating otherwise, your Marketplace Content shall not imply in any way that it is produced or endorsed by Mozilla.
+## Hodnocení aplikací a statistiky
 
+Firefox Marketplace umožňuje koncovým uživatelům, kteří si instalují Obsah Marketplace, aby ho hodnotili a komentovali. Společnost Mozilla vám může poskytovat souhrnné statistiky týkající se využití vašeho Obsahu Marketplace. Podskupina těchto informací může být použita pro určení umístění Obsahu Marketplace v portálu Firefox Marketplace a může být zveřejněna na portálu Firefox Marketplace a prostřednictvím našich API. Zatímco společnost Mozilla bude mít k těmto údajům přístup, některé funkce Firefox Marketplace vám umožňují vedení soukromých hrubých statistik, které budou dalším vývojářům a uživatelům nepřístupné.
 
-## Content Restrictions
+## Odstranění, odebrání a vymazání
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies here: [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).
+### Odebrání vámi
 
+Libovolný váš Obsah Marketplace můžete odebrat, aby nadále nebyl distribuován prostřednictvím Firefox Marketplace, nicméně musíte i nadále dodržovat tyto podmínky a smlouvu s vašimi koncovými uživateli. Souhlasíte s tím, že odstranění Obsahu Marketplace z distribuce prostřednictvím Firefox Marketplace (a) nebude mít vliv na licenční práva uživatelů, kteří již dříve zakoupili nebo stáhli Obsah Marketplace, (b) nezpůsobí odebrání Obsahu Marketplace z počítačů, hardwaru nebo jiných zařízení uživatelů nebo z jakékoliv části Firefox Marketplace, kde jsou dříve stažené aplikace uložené jménem uživatelů (pokud existují), nebo (c) nemění vaši povinnost dodávat nebo zajišťovat podporu pro takový Obsah Marketplace nebo služby, které byly dříve zakoupené nebo stažené uživateli.
 
-## Persona and Marketplace Content
+Společnost Mozilla nebude udržovat žádnou část Obsahu Marketplace na Firefox Marketplace, který jste z portálu Firefox Marketplace odstranili a u něhož jste spolenčosti Mozilla zaslali písemné oznámení, že k takovému odstranění došlo z důvodu (i) obvinění z porušení nebo skutečného porušení libovolných autorských práv, ochranných známek, obchodních tajemství, obchodních úprav, patentů nebo jiných práv duševního vlastnictví jakékoli osoby, (ii) obvinění z pomluvy nebo skutečné pomluvě, (iii) tvrzení o porušení nebo skutečnému porušení práva jakékoli třetí strany ohledně publicity nebo ochrany soukromí, nebo (iv) obvinění nebo zjištění, že tento Obsah Marketplace není v souladu s platnými právními předpisy. Pokud je váš Obsah Marketplace odstraněn z portálu Firefox Marketplace kvůli porušení práva, pomluvě, porušení publicity nebo práv na ochranu soukromí a platných právních předpisů, jak je popsáno výše, odškodníte každého koncového uživatele, který takový Obsah Marketplace zakoupil v období 60 dnů předcházejících stažení, a to částkou zaplacenou tímto koncovým uživatelem za daný Obsah Marketplace.
 
-[Persona](http://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
+Pokud odeberete veškerý svůj Obsah Marketplace, můžete tyto Podmínky vypovědět tím, že společnosti Mozilla zašlete písemnou výpověď s 30-denní výpovědní lhůtou. Všechny vaše povinnosti vyplývající z těchto Podmínek související s vaším Obsahem Marketplace zůstávají v platnosti i po jakémkoliv ukončení těchto Podmínek, a to včetně vašeho závazku s ohledem na nesplacené náhrady, veškerá prohlášení a záruky, jakož i odškodnění společnosti Mozilla.
 
+### Odstranění společností Mozilla
 
-## App Ratings & Statistics
+Společnost Mozilla má právo (nikoli však povinnost) podle vlastního uvážení odstranit libovolný obsah, který podle rozumného uvážení společnosti Mozilla porušuje libovolnou zásadu společnosti Mozilla, nebo je nějakým způsobem škodlivý nebo nežádoucí.
 
-Firefox Marketplace allows end users who install Marketplace Content to rate that Marketplace Content and provide commentary. Mozilla may provide aggregate statistics regarding your Marketplace Content usage to you. A subset of this information may be used to determine the placement of Marketplace Content in the Firefox Marketplace and may be displayed publicly in the Firefox Marketplace and through our APIs. While Mozilla will have access to this data, certain features of the Firefox Marketplace allow you to keep some of the raw statistics private from other developers and users.
+Aniž by tím bylo omezeno výše uvedené, pokud společnost Mozilla upozorníte nebo jinak zjistí a určí na základě svého vlastního uvážení, že jakýkoliv Obsah Marketplace nebo jeho část (zejména jakékoliv ochranné známky, loga nebo jiné funkce značky spojené s takovým obsahem Marketplace): (a) porušuje naše [kritéria kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) nebo jinou zásadu Firefox Marketplace, (b) může zakládat závazek pro společnost Mozilla nebo někoho jiného, nebo (c) poruší tyto Podmínky, může společnost Mozilla zrušit dostupnost Obsahu Marketplace prostřednictvím portálu Firefox Marketplace, odstranit obsah z portálu Firefox Marketplace, označit, filtrovat, upravit související materiály (včetně například popisů, snímků obrazovky nebo metadat), přeřadit Obsah Marketplace nebo podniknout jiná nápravná opatření, a to dle vlastního uvážení. Máte-li jakékoli dotazy nebo obavy týkající se odstraňování, můžete nás kontaktovat na adrese [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org)
 
+Společnost Mozilla může kdykoli pozastavit nebo ukončit platnost těchto Podmínek s vámi, pokud společnost Mozilla již nebude poskytovat Firefox Marketplace nebo pokud bude společnost Mozilla přesvědčena, že jste porušili některé zásady nebo porušili tyto Podmínky.
 
-## Withdrawals, Takedowns and Termination
+## Licence
 
-### Removal by You
+Společnost Mozilla vám doporučuje zpřístupnit váš obsah Marketplace s licencí open source jako MPL pro zdrojový kód a licencí Creative Commons pro tvůrčí práce. Společnost Mozilla také vyvinula operační systém, kterým lze nativně spouštět webové aplikace („Firefox OS“). Při použití Firefox OS mohou společnost Mozilla a třetí strany vytvořit zařízení používající Firefox OS („Zařízení Firefox OS“). Tímto poskytujete společnosti Mozilla a jejím přidruženým společnostem nevýhradní, celosvětové, bezplatné, sublicencovatelné licence na všechna vaše práva nezbytná ke zpřístupnění obsahu Marketplace ve spojení s portálem Firefox Marketplace a zařízeními Firefox OS. Výše uvedená licence zahrnuje, v příslušných případech, právo (nikoliv však povinnost) předběžně nahrát takový obsah Marketplace do zařízení Firefox OS a poskytnout obsah Marketplace v souvislosti se službami dostupnými prostřednictvím zařízení Firefox OS.
 
-You may remove any of your Marketplace Content from future distribution via the Firefox Marketplace at any time, but you must comply with these Terms and your agreement with your end users. You agree that removing Marketplace Content from future distribution via the Firefox Marketplace does not (a) affect the license rights of users who have previously purchased or downloaded the Marketplace Content, (b) remove your Marketplace Content from user machines, hardware, or other devices, or from any part of the Firefox Marketplace where previously downloaded applications are stored on behalf of users (if any), or (c) change your obligation to deliver or support such Marketplace Content or services that have been previously purchased or downloaded by users.
+Ve vztahu mezi společností Mozilla a vámi vlastní každá ze smluvních stran veškerá práva, nároky a zájmy, zejména všechna práva duševního vlastnictví, vztahující se k Atributům značky. Pod pojmem „Atributy značky“ se rozumí obchodní názvy, ochranné známky, servisní značky, loga, doménová jména a jiné charakteristické znaky značky každé strany tak, jak je příslušná smluvní strana případně vlastní (nebo používá v rámci licence). S výjimkou omezeného rozsahu výslovně upraveného těmito Podmínkami, ani neudílí ani jedna ze smluvních stran , ani druhá smluvní strana nenabývá žádné právo, nárok ani podíl (včetně například jakýchkoliv odvozených licencí) k jakýmkoli atributům značky druhé smluvní strany. V souladu s těmito podmínkami dáváte společnosti Mozilla a jejím propojeným společnostem omezenou, nevýhradní licenci po dobu platnosti této smlouvy zobrazovat vaše Atributy značky k použití ve spojení s Firefox Marketplace. Nic v těchto Podmínkách vám nedává právo užívat jakákoliv obchodní názvy, ochranné známky, servisní značky, loga, doménová jména ani jiné charakteristické atributy značky společnosti Mozilla.
 
-Mozilla will not maintain on any portion of the Firefox Marketplace any Marketplace Content that you have removed from the Firefox Marketplace and provided written notice to Mozilla that such removal was due to (i) an allegation of infringement, or actual infringement, of any copyright, trademark, trade secret, trade dress, patent or other intellectual property right of any person, (ii) an allegation of defamation or actual defamation, (iii) an allegation of violation, or actual violation, of any third party's right of publicity or privacy, or (iv) an allegation or determination that such Marketplace Content does not comply with applicable law. If your Marketplace Content is removed from the Firefox Marketplace because of infringement, defamation, violation of publicity or privacy rights or applicable law as described above, you will refund to each end user who purchased such Marketplace Content in the 60 days preceding the date of takedown, the amount paid by such end user for such affected Marketplace Content.
+## Publicita
 
-If you remove all your Marketplace Content from the Firefox Marketplace, you may terminate these Terms by providing Mozilla with 30 days prior written notice of such termination. All of your obligations under these Terms related to your Marketplace Content shall survive any termination of these Terms, including your obligation with respect to outstanding refunds, any representations and warranties as well as indemnification to Mozilla.
+Společnost Mozilla a její propojené osoby mohou zahrnout vaše Atributy značky, snímky obrazovky, videa a ukázky vašeho obsahu Marketplace a libovolného obsahu přístupného nebo přenášeného skrze obsah Marketplace v prezentacích, marketingových materiálech, marketingových akcích, setkáních vývojářů, finančních zprávách, výpisech webových stránek (včetně odkazů na vaše webové stránky), tiskových zprávách a seznamech zákazníků (což zahrnuje zejména seznamy zákazníků zveřejněné na webových stránkách společnosti Mozilla) pro účely marketingu Firefox Marketplace, produktů a služeb společnosti Mozilla, nebo zveřejňování vašeho Obsahu Marketplace.
 
+## Doplňky Firefox Sync
 
-### Mozilla Takedowns
+Pokud váš Obsah Marketplace využívá některé API nebo software Firefox Sync , souhlasíte s tím, že (a) vy a váš Obsah Marketplace budete používat API Firefox Sync výhradně ke stanovenému účelu; (b), váš Obsah Marketplace nebude skrývat ani maskovat svou identitu a bude používat hostované služby Mozilla Firefox Sync nebo API Firefox Sync, včetně toho, že se bude řídit potřebnými identifikačními konvencemi, a (c) vy a váš Obsah Marketplace nesmíte používat API Firefox Sync pro žádnou aplikaci ani službu, které se snaží oklamat uživatele (včetně pokusu o replikaci zkušenosti s hostovanou službou Mozilla Firefox Sync).
 
-Mozilla has the right (though not the obligation) to, in Mozilla&rsquo;s sole discretion, remove any content that, in Mozilla&rsquo;s reasonable opinion, violates any Mozilla policy or is in any way harmful or objectionable.
+## Prohlášení a záruky
 
-Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+Prohlašujete a zaručujete, že:
 
-Mozilla may at any time suspend or terminate these Terms with you if Mozilla is no longer going to provide the Firefox Marketplace or Mozilla believes you have violated any policies or breached these Terms.
+1. Máte a budete mít všechna práva nutná ke zveřejňování, uvádění, provádění, použití, reprodukci a přenášení vašeho Obsahu Marketplace po celém světě, stejně jako práva poskytnout takové právo ostatním (včetně společnosti Mozilla):
+2. Pokud váš Obsah Marketplace obsahuje některé komerční identifikátory, jako jsou ochranné známky, servisní známky nebo obchodní úpravy, máte po celém světě zákonná práva k užívání a opravňování k používání díla, designu, emblémů, názvů a dalších prvků.
+3. Popisy a další údaje, které poskytujete o Obsahu Marketplace jsou pravdivé podle vašeho nejlepšího vědomí a
+4. váš Obsah Marketplace je doprovázen dostupnou smlouvou, která popisuje práva uživatelů.
 
+## Vyloučení záruk
 
-## Licenses
+Portál Firefox Marketplace je poskytován "tak jak je". Společnost Mozilla, její přispěvatelé, poskytovatelé licencí a distributoři odmítají veškeré záruky, ať výslovné nebo odvozené, včetně například odvozených záruk obchodovatelnosti, vhodnosti pro určitý účel a neporušení práv. Některé právní řády neumožňují výjimky nebo omezení odvozených záruk, takže toto vyloučení se na vás nemusí vztahovat.
 
-Mozilla encourages you to make your Marketplace Content available under an open source license such as the MPL for source code and a Creative Commons license for creative works. Mozilla has also developed an operating system that can natively run web applications (&ldquo;Firefox OS&rdquo;). Using Firefox OS, Mozilla and third parties can create devices that run Firefox OS (&ldquo;Firefox OS Devices&rdquo;). You hereby grant to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license under all of your rights necessary to make the Marketplace Content available in connection with the Firefox Marketplace and Firefox OS Devices. The foregoing license includes, if applicable, the right (but not obligation) to pre-load such Marketplace Content on Firefox OS Devices and provide Marketplace Content in connection with services available through Firefox OS Devices.
+## Omezení odpovědnosti
 
-Between Mozilla and you, each party shall own all right, title and interest, including without limitation all intellectual property rights, relating to its Brand Features. "Brand Features" means the trade names, trade marks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time. Except to the limited extent expressly provided in these Terms, neither party grants, nor shall the other party acquire, any right, title or interest (including, without limitation, any implied license) in or to any Brand Features of the other party. Subject to these Terms, you grant to Mozilla and its affiliates a limited, non-exclusive license during the term to display your Brand Features for use in connection with the Firefox Marketplace. Nothing in these Terms gives you a right to use any of Mozilla&rsquo;s trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+VÝSLOVNĚ ROZUMÍTE A SOUHLASÍTE S TÍM, ŽE S VÝJIMKOU ZÁKONNÝCH USTANOVENÍ, NENESOU SPOLEČNOST MOZILLA, JEJÍ SPOLUPRACOVNÍCI, POSKYTOVATELÉ LICENCÍ, DCEŘINÉ SPOLEČNOSTI, PŘIDRUŽENÉ SPOLEČNOSTI ANI DISTRIBUTOŘI VŮČI VÁM ŽÁDNOU ODPOVĚDNOST V SOULADU S JAKOUKOLIV TEORIÍ O ODPOVĚDNOSTI ZA ŽÁDNÉ PŘÍMÉ, ZVLÁŠTNÍ, NÁHODNÉ, NÁSLEDNÉ, PENĚŽNÍ NEBO EXEMPLÁRNÍ ŠKODY, KTERÉ VÁM PŘÍPADNĚ VZNIKNOU, VČETNĚ ZTRÁTY DAT, AŤ UŽ SI SPOLEČNOST MOZILLA NEBO JEJÍ ZÁSTUPCI BYLI UPOZORNĚNI NEBO MĚLI BÝT VĚDOMI MOŽNOSTI VZNIKU TAKOVÝCH ŠKOD. SPOLEČNOST MOZILLA V ŽÁDNÉM PŘÍPADĚ NENESE CELKOVOU ODPOVĚDNOST ZA ŽÁDNÉ ŠKODY VYPLÝVAJÍCÍ Z NEBO TÝKAJÍCÍ SE TĚCHTO PODMÍNEK VYŠŠÍ NEŽ (I) 100 DOLARŮ NEBO (II) CELKOVÉ ČÁSTKY VYPLACENÉ VÁM SPOLEČNOSTÍ MOZILLA ZA POSLEDNÍCH DVANÁCT MĚSÍCŮ BEZPROSTŘEDNĚ PŘEDCHÁZEJÍCÍCH ÚVODNÍMU UPLATNĚNÍ JAKÉHOKOLIV NÁROKU(PLATÍ VYŠŠÍ Z UVEDENÝCH MOŽNOSTÍ). Některé právní řády neumožňují vyloučení nebo omezení určitých typů odpovědnosti, takže omezení se na vás nemusí vztahovat.
 
+## Vyvázání; Odškodnění
 
-## Publicity
+Vyvazujete společnost Mozilla, její vedoucí pracovníky, zaměstnance, zástupce a nástupce z nároků, požadavků a škod všeho druhu či povahy vyplývající z nebo související s případnými spory s ostatními uživateli, včetně vývojářů obsahu Marketplace.
 
-Mozilla and its affiliates may include your Brand Features, screenshots, videos, and demonstrations of your Marketplace Content and any content contained in, accessed by, or transmitted through your Marketplace Content in presentations, marketing materials, marketing events, developer events, financial reports, website listings (including links to your website), press releases, and customer lists (which includes, without limitation, customer lists posted on Mozilla web sites) for purposes of marketing the Firefox Marketplace, Mozilla products and services, or publicizing your Marketplace Content.
+Pokud některá třetí strana vznese stížnost proti společnosti Mozilla z důvodu vašeho použití portálu Firefox Marketplace nebo použití vašeho obsahu Marketplace, budete bránit společnost Mozilla před jakoukoliv újmou, ztrátami a výdaji všeho druhu (včetně nákladů právního zastoupení v rozumné výši) souvisejících s daným nárokem.
 
+## Obecné právní podmínky
 
-## Firefox Sync Add-ons
+Tyto podmínky představují úplnou dohodu mezi vámi a společností Mozilla a upravují vaše používání portálu Firefox Marketplace a zcela nahrazují veškeré předchozí dohody mezi vámi a společností Mozilla ve vztahu k portálu Firefox Marketplace. Nic v těchto Podmínkách vám neposkytuje žádné právo na používání ochranných známek, obchodních názvů, servisních značek nebo obchodních úprav společnosti Mozilla nebo jejích poskytovatelů licence; společnost Mozilla si vyhrazuje veškerá práva, nároky a podíly. Pro informace o našich ochranných známkách, viz naše zásady o použití ochranné známky a loga.
 
-If your Marketplace Content utilizes any Firefox Sync APIs or software, you agree (a) that you and your Marketplace Content will use the Firefox Sync API solely for its intended purpose; (b) that your Marketplace Content will not hide or mask its identity as it uses Mozilla&rsquo;s hosted Firefox Sync services and/or Firefox Sync APIs, including by failing to follow required identification conventions; and (c) that you and your Marketplace Content will not use the Firefox Sync APIs for any application or service that attempts to mislead users (including by attempting to replicate Mozilla&rsquo;s hosted Firefox Sync services experience).
+Souhlasíte s tím, že i v případě, že společnost Mozilla neuplatní nebo nebude vymáhat jakékoliv právo nebo opravný prostředek, který je obsažen v těchto Podmínkách (nebo na které má společnost Mozilla nárok podle platného práva), nebudete to považovat za formální vzdání se práv společnosti Mozilla, a že tato práva nebo opravné prostředky budou společnosti Mozilla i nadále k dispozici.
 
+Pokud kterýkoli soud, který má pravomoc rozhodovat o této záležitosti, rozhodne, že jakékoliv ustanovení těchto Podmínek je neplatné, bude takové ustanovení odebráno z těchto podmínek, aniž by to ovlivnilo zbývající část těchto Podmínek. Zbývající ustanovení těchto Podmínek zůstane i nadále platná a vymahatelná.
 
-## Representations and Warranties
+OMEZENÍ VÝVOZU. VAŠE DISTRIBUCE OBSAHU MARKETPLACE NA PORTÁLU FIREFOX MARKETPLACE MŮŽE PODLÉHAT ZÁKONŮM A PŘEDPISŮM USA O VÝVOZU. MUSÍTE DODRŽOVAT VŠECHNY PŘÍSLUŠNÉ MÍSTNÍ I MEZINÁRODNÍ ZÁKONY A PŘEDPISY o vývozu, KTERÉ SE VZTAHUJÍ NA DISTRIBUCI OBSAHU MARKETPLACE. MEZI TYTO ZÁKONY PATŘÍ OMEZENÍ MÍST URČENÍ, UŽIVATELŮ A KONCOVÉHO UŽÍVÁNÍ.
 
-You represent and warrant that:
+Práva upravená v těchto podmínkách nesmíte postoupit ani převést na jinou osobu bez předchozího písemného souhlasu společnosti Mozilla. Své povinnosti nebo povinnosti vyplývající z těchto Podmínek nesmíte delegovat bez předchozího písemného souhlasu společnosti Mozilla.
 
-1. You have and will maintain all necessary rights to post, display, perform, use, reproduce and transmit your Marketplace Content, worldwide, as well as the rights to authorize others (including Mozilla) to do the same;
-2. If your Marketplace Content contains any commercial identifiers such as a trademark, service mark, or trade dress, you have worldwide legal rights to use and authorize the use of the artwork, design, emblems, names, and other elements.
-3. The descriptions and other data you provide about the Marketplace Content are true to the best of your knowledge; and
-4. Your Marketplace Content is accompanied by an accessible agreement that describes the rights of its users.
+## Rozhodné právo a soudní pravomoc
 
-## Disclaimer of Warranties
-
-THE FIREFOX MARKETPLACE IS PROVIDED &ldquo;AS IS&rdquo;. MOZILLA, ITS CONTRIBUTORS, LICENSORS AND DISTRIBUTORS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
-
-
-## Limitation of Liability
-
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT AS REQUIRED BY LAW, MOZILLA, ITS CONTRIBUTORS, LICENSORS, SUBSIDIARIES, AFFILIATES AND DISTRIBUTORS WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT MOZILLA OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. IN NO EVENT SHALL MOZILLA&rsquo;S AGGREGATE LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS BE IN EXCESS OF THE GREATER OF (i) $100 OR (ii) THE TOTAL AMOUNTS PAID TO YOU BY MOZILLA IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.
-
-
-## Release; Indemnification
-
-You release Mozilla, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other users, including developers of Marketplace Content.
-
-If any third party brings a claim against Mozilla related to your use of the Firefox Marketplace or your Marketplace Content, you will defend and hold Mozilla harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
-
-
-## General Legal Terms
-
-These Terms constitute the whole legal agreement between you and Mozilla and governs your use of the Firefox Marketplace, and completely supercedes any prior agreements between you and Mozilla in relation to the Firefox Marketplace. Nothing in these Terms shall be deemed to grant you any right to use the trademarks, trade names, service marks, or trade dress of Mozilla or its licensors and Mozilla hereby reserves all right, title and interest therein. For information on our trademarks, please see our Trademark and Logo Usage Policies.
-
-You agree that if Mozilla does not exercise or enforce any legal right or remedy which is contained in these Terms (or which Mozilla has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mozilla's rights and that those rights or remedies will still be available to Mozilla.
-
-If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms are invalid, then that provision will be removed from these Terms without affecting the rest of these Terms. The remaining provisions of these Terms will continue to be valid and enforceable.
-EXPORT RESTRICTIONS. YOUR DISTRIBUTION OF MARKETPLACE CONTENT ON THE FIREFOX MARKETPLACE MAY BE SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO YOUR DISTRIBUTION OF MARKETPLACE CONTENT. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, USERS AND END USE.
-
-The rights granted in these Terms may not be assigned or transferred by you without the prior written approval of Mozilla. You are not permitted to delegate your responsibilities or obligations under these Terms without the prior written approval of Mozilla.
-These Terms, and your relationship with Mozilla under these Terms, shall be governed by the laws of the State of California without regard to its conflict of laws provisions. You and Mozilla agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms. Notwithstanding this, you agree that Mozilla shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+TYTO PODMÍNKY A VÁŠ VZTAH SE SPOLEČNOSTÍ MOZILLA PODLE TĚCHTO PODMÍNEK SE ŘÍDÍ ZÁKONY STÁTU KALIFORNIE VE SPOJENÝCH STÁTECH AMERICKÝCH, S VYLOUČENÍM USTANOVENÍ KOLIZNÍCH NOREM. Vy i společnost Mozilla souhlasíte, že výhradní pravomoc pro řešení veškerých právních otázek vyplývajících z těchto Podmínek budou mít soudy v okrese Santa Clara ve státě Kalifornie. Bez ohledu na výše uvedené souhlasíte s tím, že společnost Mozilla bude přesto oprávněna podat žádost o vydání předběžného soudního opatření (nebo ekvivalentního typu bezodkladného opravného prostředku) v jakémkoli právním řádu.
