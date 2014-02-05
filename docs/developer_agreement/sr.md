@@ -1,26 +1,28 @@
-30. oktobar 2013. godine
+## Ugovor sa programerom
+
+30 oktobar 2013. godine
 
 Ovaj gornji deo predstavlja skraćeni prikaz donjih odredbi. On služi kako bi Vam pomogao u razumevanju - ali obavezno pročitajte ceo dokument, jer kada se saglasite sa istim to znači da ga prihvatate u celosti, a ne samo ovaj skraćeni prikaz:
 
 1. Morate imati najmanje 18 godina da biste bili Programer Marketplace sadržaja, ili se Vaši roditelji moraju u Vaše ime saglasiti, vršiti nadzor i imati interakciju sa našim uslugama.
 2. Dužni ste da postupate u skladu sa svim važećim uslovima i pravilima, uključujući smernice vezane za čuvanje privatnosti i sadržaj.
-3. Možemo ukloniti Vaš Marketplace sadržaj sa Firefox Marketplace-a ako zaključimo da je štetan ili nepoželjan, ili ako izvršite povredu naših pravila ili ovih Uslova.
+3. Možemo ukloniti Vaš Marketplace sadržaj sa Firefox Marketplace-a ako zaključimo da je štetan ili nepoželjan, ili ako prekršite naša pravila ili ove Uslove.
 4. Snosite isključivu odgovornost za Vaš Marketplace sadržaj, što znači da ste odgovorni za izvozne propise, poštovanje zakona, povraćaj sredstava i podršku. Ako prodajete svoj Marketplace sadržaj, takođe ste odgovorni za poreze, određivanje cena i povraćaj sredstava. Ako koristite naš sistem objedinjene naplate, pružalac usluge obrade računa objedinjene naplate može pristati da preuzme prodaju/povraćaj PDV-a i druga pitanja vezana za plaćanja umesto Vas.
 5. Ne smete učiniti bilo koju protivzakonitu radnju, ili bilo šta što bi moglo povrediti nas ili druge.
 6. Ne odgovaramo za Vaše korišćenje Firefox Marketplace-a, za Vaš Marketplace sadržaj ili radnje drugih korisnika, uključujući druge programere.
-7. Bićete odgovorni za svoj Marketplace sadržaj, i za korišćenje ili zloupotrebu Firefox Marketplace-a koje izvršite.
+7. Bićete odgovorni za svoj Marketplace sadržaj, i za korišćenje ili zloupotrebu Firefox Marketplace-a.
 
 ## Uvodni deo
 
-Korporacija Mozilla, sa sedištem u Ulici Castro 650 \#300, Mauntin Vju, 94041, Kalifornija, SAD, ("Mozilla", ili "mi") posvećena je promovisanju izbora i inovacija na internetu. U tom cilju, kreirali smo "Firefox Marketplace" - javno dostupan web sajt koji Vam omogućava da vršite distribuciju svog Marketplace sadržaja korisnicima koji će ga koristiti na svojim uređajima.
+Korporacija Mozilla, sa sedištem u Ulici Castro 650 \#300, Mauntin Vju, 94041, Kalifornija, SAD, ("Mozilla", ili "mi") posvećena je promovisanju izbora i inovacija na internetu. U tom cilju, kreirali smo "Firefox Marketplace" - javno dostupan veb sajt koji Vam omogućava da vršite distribuciju svog Marketplace sadržaja korisnicima koji će ga koristiti na svojim uređajima.
 
 ## Definicije
 
-Kao Programer, možete vršiti distribuciju Programskih dodataka ili Aplikacija (zajednički, "Marketplace sadržaj") preko Firefox Marketplace-a:
+Kao programer, možete vršiti distribuciju dodataka ili aplikacija (zajednički, "Marketplace sadržaj") preko Firefox Marketplace-a:
 
-- "Programski dodaci" su ekstenzije, teme, pretraživači, rečnici i jezički paketi koji Vam omogućavaju da proširite funkcionalnost Firefox pregledača.
+- "Dodaci" su ekstenzije, teme, pretraživači, rečnici i jezički paketi koji Vam omogućavaju da proširite funkcionalnost Firefox pregledača.
 
-- "Aplikacije" su aplikacije nastale korišćenjem otvorenih web tehnologija koje se mogu pokrenuti na više platformi.
+- "Aplikacije" su aplikacije nastale korišćenjem otvorenih veb tehnologija koje se mogu pokrenuti na više platformi.
 
 ## Uslovi koji se primenjuju na Vaše korišćenje Firefox Marketplace-a
 
@@ -30,17 +32,17 @@ Kao programer, slobodno možete koristiti Firefox Marketplace u cilju olakšavan
 
 Korišćenjem Firefox Marketplace-a, potvrđujete da imate najmanje 18 godina ili da nastupate uz saglasnost i nadzor roditelja; i da ste u potpunosti ovlašćeni i sposobni da prihvatite ove Uslove u svoje ime, ili ako je to primenjivo, u ime svog poslodavca ili drugog subjekta koji predstavljate.
 
-Kako budemo unosili inovacije i nove funkcije u Firefox Marketplace, možda će biti potrebno da se ovi Uslovi izmene. Zadržavamo diskreciono pravo izmene ovih Uslova, i ako izvršimo bitne izmene, dostavićemo Vam obaveštenje o tome. 
+Kako budemo unosili inovacije i nove funkcije u Firefox Marketplace, možda će biti potrebno da se ovi Uslovi izmene. Zadržavamo pravo potpune diskrecije na izmene ovih Uslova, i ako izvršimo bitne izmene, dostavićemo Vam obaveštenje o tome. 
 
 ## Firefox Marketplace Pravila privatnosti
 
-Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog u ulozi Programera, od Vas će se tražiti da dostavite Mozilla-i podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti Firefox Marketplace-a](/privacy-policy). Određene funkcije Firefox Marketplace-a su rukovođene od strane nezavisnih pružalaca usluga. Na primer, mi koristimo nezavisne pružaoce usluga zaradi generisanja rang lista aplikacija i za obradu naplate aplikacija. Ovim potvrđujete da će svi podaci koji budu dostavljeni nezavisnim pružaocima usluga naplate uvek biti tačni, ispravni i ažurni. Nezavisni pružaoci usluga imaju svoja pravila privatnosti i uslove korišćenja, te Vam savetujemo da ih pročitate.
+Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog u ulozi programera, od Vas će se tražiti da dostavite Mozilla-i podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti Firefox Marketplace-a](/privacy-policy). Određene funkcije Firefox Marketplace-a su rukovođene od strane nezavisnih pružalaca usluga. Na primer, koristimo nezavisne pružaoce usluga radi generisanja rang liste aplikacija i za obradu naplate aplikacija. Ovim potvrđujete da će svi podaci koji budu dostavljeni nezavisnim pružaocima usluga naplate uvek biti tačni, ispravni i ažurni. Nezavisni pružaoci usluga imaju svoja pravila privatnosti i uslove korišćenja, te Vam savetujemo da ih pročitate.
 
 ## Upravljanje Firefox Marketplace-om
 
 U odnosu između Vas i Mozilla-e, Vi ste isključivo odgovorni za svoj Marketplace sadržaj. Imajući u vidu da moramo biti u mogućnosti da upravljamo Firefox Marketplace-om, (uključujući sprečavanje zloupotrebe), o uključivanju i prikazu bilo kojeg Marketplace sadržaja na Firefox Marketplace-u odlučuje isključivo Mozilla po svom nahođenju. Mozilla, ili njena zajednica, ili nezavisni pružaoci usluga mogu u bilo kom momentu pregledati ili testirati bilo koji od Vašeg Marketplace sadržaja radi provere usklađenosti sa ovim Uslovima ili bilo kojim drugim primenjivim pravilima.
 
-Iako ćete možda imati mogućnost da navedete zemlju u čijoj prodavnici želite da vršite distribuciju svog Marketplace sadržaja, primate na znanje da je Firefox Marketplace zamišljen tako da mu se može pristupiti na bilo kojem uređaju koji može da pokrene otvorenu web tehnologiju, i da trenutno ne dozvoljava izbor isporuke Marketplace sadržaja na naznačene uređaje.
+Iako ćete možda imati mogućnost da navedete zemlju u čijoj prodavnici želite da vršite distribuciju svog Marketplace sadržaja, primate na znanje da je Firefox Marketplace zamišljen tako da mu se može pristupiti na bilo kojem uređaju koji može da pokrene otvorenu veb tehnologiju, i da trenutno ne dozvoljava izbor isporuke Marketplace sadržaja na naznačene uređaje.
 
 Imate isključivu odgovornost za odnos između Vas i krajnjih korisnika Vašeg Marketplace sadržaja.
 
@@ -50,7 +52,7 @@ Možete odabrati da svoj Marketplace sadržaj nudite besplatno.
 
 Ako želite da naplaćujete svoj Marketplace sadržaj, to možete učiniti korišćenjem sistema obrade računa objedinjene naplate Firefox Marketplace-a ili preko svog sistema obrade računa. Ni u jednom od tih slučajeva Mozilla ne preuzima bilo koje obaveze registrovanog trgovca ili druge obaveze u pogledu Vašeg Marketplace sadržaja.
 
-Ako izaberete da koristite sistem obrade računa objedinjene naplate Firefox Marketplace-a, biće potrebno da se prijavite za račun kod odgovarajućeg pružaoca usluga obrade računa objedinjene naplate. Kada se ovde koristi termin "račun", on označava račun koji Vam otvori pružalac usluga obrade računa objedinjene naplate u skladu sa zasebnim ugovorom između Vas i tog pružaoca usluga obrade računa objedinjene naplate, kojim se ovlašćuje pružalac usluga obrade računa objedinjene naplate da vrši naplate i plaćanja u Vaše ime za Marketplace sadržaj koji se prodaje preko Firefox Marketplace-a. Naš sistem obrade računa može Vam ponuditi različite pružaoce usluga obrade računa u raznim jurisdikcijama - spisak pružalaca usluga obrade računa objedinjene naplate i njihovi standardni uslovi mogu se videti [ovde](/media/docs/pay-providers/all.html?v1). Kada koristite pružaoca usluga obrade računa objedinjene naplate, ovlašćujete nas da, ako je to neophodno da bi isti mogao da Vam pruža te usluge, delimo Vaše podatke sa tim pružaocem usluga obrade računa objedinjene naplate. Pružaoci usluga obrade računa objedinjene naplate su nezavisni pružaoci usluga, i korišćenjem njihovih usluga, potvrđujete da ćete se pridržavati njihovih pravila privatnosti i uslova korišćenja.
+Ako izaberete da koristite sistem obrade računa objedinjene naplate Firefox Marketplace-a, biće potrebno da se prijavite za račun kod odgovarajućeg pružaoca usluga obrade računa objedinjene naplate. Kada se ovde koristi termin "račun", on označava račun koji Vam otvori pružalac usluga obrade računa objedinjene naplate u skladu sa zasebnim ugovorom između Vas i tog pružaoca usluga obrade računa objedinjene naplate, kojim se ovlašćuje pružalac usluga obrade računa objedinjene naplate da vrši naplate i plaćanja u Vaše ime za Marketplace sadržaj koji se prodaje preko Firefox Marketplace-a. Naš sistem obrade računa može Vam ponuditi različite pružaoce usluga obrade računa u raznim nadležnostima - spisak pružalaca usluga obrade računa objedinjene naplate i njihovi standardni uslovi mogu se videti [ovde](/media/docs/pay-providers/all.html?v1). Kada koristite pružaoca usluga obrade računa objedinjene naplate, ovlašćujete nas da, ako je to neophodno da bi isti mogao da Vam pruža te usluge, delimo Vaše podatke sa tim pružaocem usluga obrade računa objedinjene naplate. Pružaoci usluga obrade računa objedinjene naplate su nezavisni pružaoci usluga, i korišćenjem njihovih usluga, potvrđujete da ćete se pridržavati njihovih pravila privatnosti i uslova korišćenja.
 
 Ako izaberete da koristite sistem obrade računa objedinjene naplate Firefox Marketplace-a, prilikom kupovine Vašeg Marketplace sadržaja od strane krajnjih korisnika biće Vam naplaćena provizija na transakciju. Trenutne iznose koje naplaćujemo možete naći [ovde](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). Zadržavamo pravo da menjamo iznos taksi sa vremena na vreme, po svom nahođenju.
 
@@ -80,9 +82,9 @@ Imate isključivu odgovornost za pružanje razumne tehničke podrške krajnjim k
 
 ## Obaveze vezane za privatnost
 
-Prihvatate da dostavite krajnjim korisnicima zakonski ispravna pravila o zaštiti privatnosti u kojem će biti detaljno opisana bilo koja naplata, korišćenje ili otkrivanje podataka koji su dostavljeni Vama od strane krajnjih korisnika. Sve Aplikacije moraju imati pravila privatnosti. Programski dodaci moraju imati pravila privatnosti ako se prikupljaju ili prenose bilo koji podaci o korisniku ili korišćenju Programskih dodataka izvan korisnikovog uređaja na kojem je Programski dodatak instaliran. Izjavljujete i garantujete da će se svaki podatak koji dobijete od Mozilla-e o korisnicima koristiti isključivo uz saglasnost sa Vašim pravilima privatnosti i primenjivim zakonima o zaštiti podataka i privatnosti.
+Prihvatate da dostavite krajnjim korisnicima zakonski ispravna pravila o zaštiti privatnosti u kojem će biti detaljno opisana bilo koja naplata, korišćenje ili otkrivanje podataka koji su dostavljeni Vama od strane krajnjih korisnika. Sve aplikacije moraju imati pravila privatnosti. Dodaci moraju imati pravila privatnosti ako se prikupljaju ili prenose bilo koji podaci o korisniku ili korišćenju dodataka izvan korisnikovog uređaja na kojem je dodatak instaliran. Izjavljujete i garantujete da će se svaki podatak koji dobijete od Mozilla-e o korisnicima koristiti isključivo uz saglasnost sa Vašim pravilima privatnosti i primenjivim zakonima o zaštiti podataka i privatnosti.
 
-Prihvatate da ćete obezbediti da sve reklame koje se prikazuju krajnjim korisnicima Vašeg Marketplace sadržaja budu u skladu sa svim odredbama ovih Uslova i Vašim Pravilnikom privatnosti saglasnim sa važećim zakonima o zaštiti podataka i privatnosti. Na primer, (i) ugrađene (*embedded*) reklame i Vaše korišćenje podataka izvedenih iz tih reklama moraju biti u skladu sa primenjivim zakonima; (ii) ugrađene reklame ne smeju sadržavati bilo koji "spyware", "malware" ili štetni kod, i ne sme izazvati povredu bilo kog lica ili štetu na bilo kojoj imovini; i (iii) dužni ste da dostavite osmišljeno obaveštenje i izbor za bilo koje praćenje koje vodi do Vas ili trećih strana koje se bave reklamiranjem ili promocijama za korisnike.
+Prihvatate da ćete obezbediti da sve reklame koje se prikazuju krajnjim korisnicima Vašeg Marketplace sadržaja budu u skladu sa svim odredbama ovih Uslova i Vašim Pravilnikom privatnosti saglasnim sa važećim zakonima o zaštiti podataka i privatnosti. Na primer, (i) ugrađene (*embedded*) reklame i Vaše korišćenje podataka izvedenih iz tih reklama moraju biti u skladu sa primenjivim zakonima; (ii) ugrađene reklame ne smeju sadržati bilo koji "spyware", "malware" ili štetni kod, i ne sme izazvati povredu bilo kog lica ili štetu na bilo kojoj imovini; i (iii) dužni ste da dostavite osmišljeno obaveštenje i izbor za bilo koje praćenje koje vodi do Vas ili trećih strana koje se bave reklamiranjem ili promocijama za korisnike.
 
 ## Reklamiranje Vaših Aplikacija na Firefox Marketplace-u
 
@@ -112,11 +114,11 @@ Ako uklonite sav svoj Marketplace sadržaj sa Firefox Marketplace-a, možete ras
 
 ### Uklanjanje od strane Mozilla-e
 
-Mozilla ima pravo (ali ne i obavezu) da, po nahođenju Mozilla-e, ukloni bilo koji sadržaj kojim se, po razumnom mišljenju Mozilla-e, vrši povreda bilo kojih pravila Mozilla-e ili koji je na bilo koji način štetan ili sporan.
+Mozilla ima pravo (ali ne i obavezu) da, po nahođenju Mozilla-e, ukloni bilo koji sadržaj kojim se, po razumnom mišljenju Mozilla-e, vrši prekršaj bilo kojih pravila Mozilla-e ili koji je na bilo koji način štetan ili sporan.
 
 Bez ograničenja gore navedenog, ako obavestite Mozilla-u, ili Mozilla na bilo koji način sazna i ustanovi po svom razumnom nahođenju, da bilo koji Marketplace sadržaj ili bilo koji deo istog (uključujući bez ograničenja, bilo koji žig, znak ili drugu odliku brenda koji su povezani sa tim Marketplace sadržajem): (a) vrši povredu [kriterijuma provere marketplace-a](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) ili drugih Firefox Marketplace pravila; (b) može prouzrokovati odgovornost za Mozilla-u ili bilo koje drugo lice; ili (c) vrši povredu ovih Uslova, Mozilla može sprečiti dostupnost Marketplace sadržaja na Firefox Marketplace-u, ukloniti Marketplace sadržaj sa Firefox Marketplace-a, obeležiti zastavicom, filtrirati, izmeniti povezane materijale (uključujući ali ne ograničavajući se na opise, slike ekrana ili meta podatke), izvršiti reklasifikaciju Marketplace sadržaja, ili preduzeti druge korektivne radnje, po svom nahođenju. Ako imate bilo kakva pitanja ili nedoumice u vezi sa uklanjanjem, možete nas kontaktirati na [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
 
-Mozilla može u bilo kom momentu suspendovati ili raskinuti ove Uslove sa Vama, ako Mozilla više neće obezbeđivati Firefox Marketplace ili ako Mozilla smatra da ste izvršili povredu bilo kojih pravila ili da ste povredili ove Uslove.
+Mozilla može u bilo kom momentu suspendovati ili raskinuti ove Uslove sa Vama, ako Mozilla više neće obezbeđivati Firefox Marketplace ili ako Mozilla smatra da ste izvršili prekršaj bilo kojih pravila ili da ste prekršili ove Uslove.
 
 ## Dozvole
 
@@ -126,11 +128,11 @@ između Mozilla-e i Vas, svaka strana će imati sva prava, vlasništvo i interes
 
 ## Reklamiranje
 
-Mozilla i njena povezana društva mogu uključiti Vaše Odlike brenda, slike ekrana, video snimke i demonstracije Vašeg Marketplace sadržaja i bilo kog sadržaja koji je uključen, kojem se pristupa ili koji se prenosi preko Vašeg Marketplace sadržaja u prezentacije, marketinški materijal, marketinške događaje, događaje organizovane za programere, finansijske izveštaje, spiskove web sajtova (uključujući veze na Vaš web sajt), izjave za štampu i liste klijenata (koje uključuju, bez ograničenja, liste klijenata postavljene na Mozilla-inim web sajtovima) za potrebe marketinga Firefox Marketplace-a, Mozilla proizvoda i usluga, ili reklamiranja Vašeg Marketplace sadržaja.
+Mozilla i njena povezana društva mogu uključiti Vaše Odlike brenda, slike ekrana, video snimke i demonstracije Vašeg Marketplace sadržaja i bilo kog sadržaja koji je uključen, kojem se pristupa ili koji se prenosi preko Vašeg Marketplace sadržaja u prezentacije, marketinški materijal, marketinške događaje, događaje organizovane za programere, finansijske izveštaje, spiskove veb sajtova (uključujući veze na Vaš web sajt), izjave za štampu i liste klijenata (koje uključuju, bez ograničenja, liste klijenata postavljene na Mozilla-inim web sajtovima) za potrebe marketinga Firefox Marketplace-a, Mozilla proizvoda i usluga, ili reklamiranja Vašeg Marketplace sadržaja.
 
-## Programski dodaci Firefox Sync
+## Firefox Sync dodaci
 
-Ako Vaš Marketplace sadržaj koristi bilo koje Firefox Sync APIs ili softver, saglašavate se (a) da ćete Vi i Vaš Marketplace sadržaj koristiti Firefox Sync API isključivo za njegovu predviđenu namenu; (b) da Vaš Marketplace sadržaj neće prikrivati ili maskirati svoj identitet kada koristi usluge Firefox Sync i/ili Firefox Sync APIs koje hostuje Mozilla, uključujući nepoštovanje konvencija o identifikaciji; i (c) da Vi i Vaš Marketplace sadržaj nećete koristiti Firefox Sync API za bilo koju aplikaciju ili uslugu koja pokušava da dovede korisnike u zabludu (uključujući pokušaj kopiranja usluga Firefox Sync koje hostuje Mozilla).
+Ako Vaš Marketplace sadržaj koristi bilo koje Firefox Sync API-ije ili softver, saglašavate se (a) da ćete Vi i Vaš Marketplace sadržaj koristiti Firefox Sync API isključivo za njegovu predviđenu namenu; (b) da Vaš Marketplace sadržaj neće prikrivati ili maskirati svoj identitet kada koristi usluge Firefox Sync i/ili Firefox Sync APIs koje hostuje Mozilla, uključujući nepoštovanje konvencija o identifikaciji; i (c) da Vi i Vaš Marketplace sadržaj nećete koristiti Firefox Sync API za bilo koju aplikaciju ili uslugu koja pokušava da dovede korisnike u zabludu (uključujući pokušaj kopiranja usluga Firefox Sync koje hostuje Mozilla).
 
 ## Izjave i garancije
 
@@ -139,17 +141,17 @@ Izjavljujete i garantujete:
 1. da imate i da ćete održavati sva potrebna prava za objavljivanje, prikazivanje, izvršenje, korišćenje, reprodukovanje i prenos Vašeg Marketplace sadržaja na celom svetu, kao i prava da ovlastite druga lica (uključujući Mozilla-u) da učini to isto;
 2. Ako Vaš Marketplace sadržaj uključuje bilo kakve komercijalne identifikatore, kao što su žig, oznaka usluge, ili dizajn, imate zakonska prava u celom svetu da koristite i da odobrite korišćenje umetničkih elemenata, dizajna, amblema, imena i drugih elemenata.
 3. Opisi i drugi podaci koje dostavite o Marketplace sadržaju su po Vašem saznanju istiniti; i
-4. Uz Vaš Marketplace sadržaj je priključen dostupan ugovor u kojem se opisuju prava njegovih korisnika.
+4. Uz Vaš Marketplace sadržaj je priključen ugovor u kojem se opisuju prava njegovih korisnika.
 
 ## Odricanje garancija
 
-Firefox Marketplace se obezbeđuje "kakav jeste". Mozilla, ljudi koji doprinose njenom razvoju, njeni davaoci licenci i distributeri NE PRIZNAJU BILO KAKVE garancije, eksplicitne ili implicitne, ukljčujući bez ograničenja, implicitne garancije vezane za PODOBNOST ZA PROMET, prikladnost za određenu svrhu i nepovređivanje prava. Neke jurisdikcije ne dozvoljavaju isključenje ili ograničenje ImPLICITNIH garancija, tako da se ove GARANCIJE možda neće primeniti na Vas.
+FIREFOX MARKETPLACE SE OBEZBEĐUJE "KAKAV JESTE". MOZILLA, LJUDI KOJI DOPRINOSE NJENOM RAZVOJU, NJENI DAVAOCI LICENCI I DISTRIBUTERI NE PRIZNAJU BILO KAKVE GARANCIJE, EKSPLICITNE ILI IMPLICITNE, UKLJČUJUĆI BEZ OGRANIČENJA, IMPLICITNE GARANCIJE VEZANE ZA PODOBNOST ZA PROMET, PRIKLADNOST ZA ODREĐENU SVRHU I NEPOVREĐIVANJE PRAVA. NEKE JURISDIKCIJE NE DOZVOLJAVAJU ISKLJUČENJE ILI OGRANIČENJE IMPLICITNIH GARANCIJA, TAKO DA SE OVE GARANCIJE MOŽDA NEĆE PRIMENITI NA VAS.
 
 ## Ograničenje odgovornosti
 
-U POTPUNOSTI STE RAZUMELI I IZRIČITO SE SAGLAŠAVATE DA, OSIM KAKO NALAŽE ZAKON, MOZILLA, LJUDI KOJI DOPRINOSE NJENOM RAZVOJU, DAVAOCI LICENCI, ZAVISNA DRUŠTVA, POVEZANA DRUŠTVA I DISTRIBUTERI NEĆE BITI ODGOVORNI PREMA VAMA PO BILO KOJOJ TEORIJI ODGOVORNOSTI ZA BILO KOJU INDIREKTNU, SPECIJALNU, SLUČAJNU, POSLEDIČNU, KAZNENU ŠTETU ILI ODŠTETU KOJIMA SE MOŽETE IZLOŽITI, UKLJUČUJUĆI GUBITAK PODATAKA, BEZ OBZIRA DA LI SU MOZILLA ILI NJENI ZASTUPNICI OBAVEŠTENI O MOGUĆNOSTI, ILI JE TREBALO DA BUDU SVESNI MOGUĆNOSTI NASTANKA TAKVIH GUBITAKA. UKUPNA ODGOVORNOST MOZILLA-E PREMA VAMA ZA BILO KOJU ŠTETU KOJA NASTANE IZ ILI U VEZIS A OVIM USLOVIMA NE MOŽE PREĆI IZNOS KOJI JE VEĆI IZMEĐU (i) 100\$ ILI (ii) UKUPNE IZNOSE KOJE VAM PLATI MOZILLA TOKOM DVANAEST MESECI KOJI NEPOSREDNO PRETHODE INICIJALNOM OBAVEŠTENJU O BILO KOM POTRAŽIVANJU. NEKE JURISDIKCIJE NE DOZVOLJAVAJU ISKLJUČENJE ILI OGRANIČENJE ODREĐENIH VRSTA ODGOVORNOSTI, TAKO DA SE OVE ODGOVORNOSTI MOŽDA NEĆE PRIMENITI NA VAS.
+U POTPUNOSTI STE RAZUMELI I IZRIČITO SE SAGLAŠAVATE DA, OSIM KAKO NALAŽE ZAKON, MOZILLA, LJUDI KOJI DOPRINOSE NJENOM RAZVOJU, DAVAOCI LICENCI, ZAVISNA DRUŠTVA, POVEZANA DRUŠTVA I DISTRIBUTERI NEĆE BITI ODGOVORNI PREMA VAMA PO BILO KOJOJ TEORIJI ODGOVORNOSTI ZA BILO KOJU INDIREKTNU, SPECIJALNU, SLUČAJNU, POSLEDIČNU, KAZNENU ŠTETU ILI ODŠTETU KOJIMA SE MOŽETE IZLOŽITI, UKLJUČUJUĆI GUBITAK PODATAKA, BEZ OBZIRA DA LI SU MOZILLA ILI NJENI ZASTUPNICI OBAVEŠTENI O MOGUĆNOSTI, ILI JE TREBALO DA BUDU SVESNI MOGUĆNOSTI NASTANKA TAKVIH GUBITAKA. UKUPNA ODGOVORNOST MOZILLA-E PREMA VAMA ZA BILO KOJU ŠTETU KOJA NASTANE IZ ILI U VEZIS A OVIM USLOVIMA NE MOŽE PREĆI IZNOS KOJI JE VEĆI IZMEĐU (i) 100$ ILI (ii) UKUPNE IZNOSE KOJE VAM PLATI MOZILLA TOKOM DVANAEST MESECI KOJI NEPOSREDNO PRETHODE INICIJALNOM OBAVEŠTENJU O BILO KOM POTRAŽIVANJU. NEKE JURISDIKCIJE NE DOZVOLJAVAJU ISKLJUČENJE ILI OGRANIČENJE ODREĐENIH VRSTA ODGOVORNOSTI, TAKO DA SE OVE ODGOVORNOSTI MOŽDA NEĆE PRIMENITI NA VAS.
 
-## Oslobađanje od potraživanja; Obeštećenje
+## Oslobađanje od potraživanja; Odšteta
 
 Oslobađate Mozilla-u, njene službenike, zaposlene, zastupnike i sledbenike od bilo kojih potraživanja, zahteva i odštete bilo koje vrste koji nastanu iz ili u vezi sa bilo kojim sporovima sa drugim korisnicima, uključujući programere Marketplace sadržaja.
 
@@ -159,7 +161,7 @@ Ako bilo koja treća strana istakne potraživanje protiv Mozilla-e u vezi sa Va�
 
 Ovi Uslovi predstavljaju celovit pravni ugovor između Vas i Mozilla-e, i istima se uređuje Vaše korišćenje Firefox Marketplace-a, i njihovim stupanjem na snagu prestaju da važe bilo koji raniji ugovori između Vas i Mozilla-e u vezi sa Firefox Marketplace-om. Ništa u ovim Uslovima neće se tumačiti kao davanje Vama bilo kog prava korišćenja žigova, trgovinskih naziva, oznaka usluga ili dizajna Mozilla-e ili njenih davaoca licenci, i Mozilla ovim zadržava sva prava, vlasništvo i interese na istima. Za informacije o našim žigovima, molimo Vas da pogledate Pravila korišćenja žigova i logoa.
 
-Saglasni ste da, ako Mozilla ne izvrši ili ne primeni bilo koje zakonsko pravo ili pravni lek, koji su sadržani u ovim Uslovima (ili od kojih Mozilla ima koristi po bilo kojem primenjivom zakonu), to se neće tumačiti kao formalno odricanje od Mozilla-inih prava i da će ta prava ili pravna sredstva i dalje biti Mozilla-i na raspolaganju.
+Saglasni ste da, ako Mozilla ne izvrši ili ne primeni bilo koje zakonsko pravo ili pravno sredstvo, koji su sadržani u ovim Uslovima (ili od kojih Mozilla ima koristi po bilo kojem primenjivom zakonu), to se neće tumačiti kao formalno odricanje od Mozilla-inih prava i da će ta prava ili pravna sredstva i dalje biti Mozilla-i na raspolaganju.
 
 Ako bilo koji sud, nadležan za odlučivanje o ovom pitanju, ustanovi da je bilo koja odredba ovih Uslova nevažeća, ta odredba će biti uklonjena iz ovih Uslova bez uticaja na druge odredbe Uslova. Preostale odredbe ovih Uslova će nastaviti da budu važeće i izvršive.
 
@@ -167,6 +169,6 @@ OGRANIČENJA IZVOZA. NA VAŠU DISTRIBUCIJU MARKETPLACE SADRŽAJA NA FIREFOX MARK
 
 Prava data u ovim Uslovima ne možete ustupiti ili preneti bez prethodnog pisanog odobrenja Mozilla-e. Nije Vam dozvoljeno da delegirate svoje odgovornosti ili obaveze po ovim Uslovima bez prethodnog pisanog odobrenja Mozilla-e.
 
-## Merodavno pravo i jurisdikcija
+## Merodavno pravo i nadležnost
 
-OVI USLOVI, I VAŠA VEZA SA MOZILLA-OM POD OVOM USLOVIMA, BIĆE PRIMENJIVANI PREMA ZAKONU DRŽAVE KALIFORNIJE U SJEDINJENIM AMERIČKIM DRŽAVAMA BEZ OBZIRA NA NJENE ODREDBE O SUKOBU ZAKONA. Vi i Mozilla se saglašavate da ćete prihvatiti isključivu nadležnost sudova koji se nalaze u okrugu Santa Klara, u državi Kalifornija, za rešavanje bilo kojih pravnih pitanja koja nastanu u vezi sa ovim Uslovima. Izuzetno od toga, prihvatate da će Mozilla i dalje imati pravo da traži sudske naloge (ili odgovarajuću vrstu hitnih pravnih lekova) u bilo kojoj jurisdikciji.
+OVI USLOVI, I VAŠA VEZA SA MOZILLA-OM POD OVOM USLOVIMA, BIĆE PRIMENJIVANI PREMA ZAKONU DRŽAVE KALIFORNIJE U SJEDINJENIM AMERIČKIM DRŽAVAMA BEZ OBZIRA NA NJENE ODREDBE O SUKOBU ZAKONA. Vi i Mozilla se saglašavate da ćete prihvatiti isključivu nadležnost sudova koji se nalaze u okrugu Santa Klara, u državi Kalifornija, za rešavanje bilo kojih pravnih pitanja koja nastanu u vezi sa ovim Uslovima. Izuzetno od toga, prihvatate da će Mozilla i dalje imati pravo da traži sudske naloge (ili odgovarajuću vrstu hitnih pravnih sredstava) u bilo kojoj nadležnosti.
