@@ -1,5 +1,4 @@
-
-2013. július 3
+2013\. július 3
 
 ### Összefoglaló
 
