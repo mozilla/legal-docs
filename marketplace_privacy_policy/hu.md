@@ -1,6 +1,6 @@
 ### Firefox Marketplace Adatvédelmi Tájékoztató
 
-2013. július 3.
+2013\. július 3.
 
 Fontos számunkra az Ön személyes adatainak védelme. Amikor Mi, a Mozilla (Mozilla Corporation, 650 Castro Street, Suite 300, Mountain View, CA 94041, USA) Önről adatot gyűjtünk a Firefox Marketplace használatával összefüggésben, úgy ezeket az információkat a [Mozilla Adatvédelmi Szabályzata](https://www.mozilla.org/en-US/privacy/policies/firefox-os/#top) szerint kezeljük.
 <u> Amit tudnia érdemes: </u>
