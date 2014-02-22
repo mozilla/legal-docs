@@ -20,7 +20,7 @@ Kao razvojni programer, možete distribuirati dodatke ili aplikacije (zajedno - 
 
 - „Dodaci“ se odnose na proširenja, teme, tražilice, rječnike i jezične pakete kojima možete proširiti funkcionalnost web preglednika Firefox.
 
-- „Aplikacije“ su programi napisani s tehnologijama otvorenog wega, koje se mogu pokretati na različitim platformama.
+- „Aplikacije“ su programi napisani s tehnologijama otvorenog weba, koje se mogu pokretati na različitim platformama.
 
 ## Uvjeti koji određuju korištenje Firefox Marketplacea
 
