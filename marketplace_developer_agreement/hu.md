@@ -1,4 +1,4 @@
-2013. október 30.
+2013\. október 30.
 
 Jelen bevezető rész az alábbi felhasználási feltételek összefoglalása, célja pedig ezek egyszerűbb áttekintését szolgálja. Mindazonáltal arra kérjük, hogy mindenképpen olvassa át a teljes dokumentumot, mivel az abban foglalt feltételek elfogadásával nemcsak a jelen összefoglalót, hanem a dokumentum teljes tartalmát magára nézve kötelezőnek fogadja el:
 
