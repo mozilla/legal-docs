@@ -1,66 +1,66 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Zásady ochrany soukromí Firefox Marketplace
+3. července 2013
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Na vašem soukromí nám záleží. Pokud společnost Mozilla (tedy my) shromažďuje informace o vás na Firefox Marketplace, naše [zásady ochrany soukromí](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi zacházíme.
 
-<u>Things you should know</u>
+<u>Věci, které byste měli vědět</u>
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
+- Většinu aplikací na Firefox Marketplace jsme nevytvořili my a před jejich použitím byste se měli seznámit se zásadami ochrany soukromí, které se na ně vztahují.
+- Platby zpracovávají jiní (nikoliv Mozilla) a vy byste měli seznámit se zásadami ochrany soukromí poskytovatele a informovat se o jeho postupech.
+  - Mozilla neshromažďuje, neuchovává ani nepoužívá žádné finanční informace (jako např. informace o kreditní kartě, kterou jste použili pro nákupy na Firefox Marketplace).
+- Firefox Marketplace používá soubory cookies a další webové technologie pro zajišťování svých funkcí (jako např. zapamatování vašich nastavení mezi relacemi). Současně nám díky souhrnným analýzám pomáhají pochopit způsob využívání služby uživateli.
+- Marketplace může při přizpůsobení vašeho používání využívat data o vašem operátorovi a místě.
+  - U zařízení s OS Firefox využíváme informace o používání sítě z vašeho zařízení ke zjištění místa vašeho pobytu a sítě operátora, abychom přizpůsobili vaše zkušenosti a mohli vám nabízet speciální obsah operátora.
+  - Na všech našich platformách můžeme využívat vaši IP adresu ke stanovení země místa vašeho pobytu pro přizpůsobení vaší zkušenosti.
+- Pro instalaci bezplatných aplikací se přihlašovat nemusíte, ale pro placené aplikace se přihlášení vyžaduje. Pomáháme vám také vést historii vašich transakčních aktivit (jako např. které Aplikace jste koupili).
+- Můžete se rozhodnout přijímat od nás e-maily a přijímání veškeré e-mailové marketingové komunikace, kterou jste dříve schválili, můžete kdykoliv zrušit.
 
-### Mozilla Privacy Policy
+### Zásady ochrany soukromí společnosti Mozilla
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Zavázali jsme se, že budeme transparentní a otevřená společnost a chceme, abyste věděli, jakým způsobem získáváme informace o vás a co s těmito informacemi po jejich získání děláme.
 
-### What do we mean by "personal information?"
+### Co máme na mysli pod pojmem „osobní údaje”?
 
-For us, "personal information" means information which identifies you, like your name or email address.
+Pro nás „osobní údaje” znamenají informace, které vás identifikují, jako jsou vaše jméno nebo e-mailová adresa.
 
-Any information that falls outside of this is "non-personal information."
+Veškeré informace spadající mimo tuto definici jsou „neosobní informace”.
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+Pokud uchováváme vaše osobní údaje s informacemi, které jsou neosobního charakteru, považujeme takovou kombinaci za osobní údaje. Pokud ze souboru dat odstraníme veškeré vaše osobní údaje, zbývající část představuje neosobní informace.
 
-### How do we learn information about you?
+### Jak získáváme informace o vás?
 
-We learn information about you when:
+Informace o vás získáváme, když:
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+- nám je přímo poskytnete (např. pokud se rozhodnete nám poslat hlášení o poruše z Firefoxu),
+- je shromažďujeme automaticky prostřednictvím našich produktů a služeb (např. když kontrolujeme, zda je vaše verze programu Firefox aktuální),
+- nám někdo jiný poskytne informace o vás (např. Thunderbird spolupracuje s poskytovateli e-mailů na založení vašeho účtu) nebo 
+- se vám pokoušíme lépe porozumět na základě informací, které jste nám poskytli (např. když používáme vaši adresu IP k přizpůsobení jazyka některých našich služeb).
 
-### What do we do with your information once we have it?
+### Co děláme s vašimi údaji ve chvíli, kdy je získáme?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+Když nám poskytnete své osobní údaje, budeme je používat způsoby, ke kterým jste nám poskytli svolení. Obecně vaše údaje používáme, aby nám pomohly nabízet a zlepšovat naše produkty a služby pro vás.
 
-### When do we share your information with others?
+### Kdy vaše údaje sdílíme s ostatními?
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](http://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+- Pokud jsme s jejich sdílením od vás získali souhlas.
+- Ke zpracování nebo poskytování produktů a služeb pro vás, nicméně pouze v případě, že příslušné subjekty přijímající údaje od nás přijaly smluvní závazek zacházet s daty způsobem schváleným společností Mozilla.
+- Při plnění našeho poslání [zachování otevřenosti](http://www.mozilla.org/about/manifesto.html). Někdy poskytujeme informace ke zlepšení našich produktů a podpoře otevřené sítě, nicméně pokud tak činíme, odstraníme vaše osobní údaje a pokoušíme se je zveřejňovat tak, abychom minimalizovali riziko vaší zpětné identifikace.
+- Pokud to vyžaduje zákon. Zákony dodržujeme vždy, kdy obdržíme dotaz na vás od některé vlády nebo v souvislosti se soudním řízením. Budeme-li požádání o poskytnutí vašich osobních údajů tímto způsobem, budeme vás o tom informovat, pokud nám to zákon nezakazuje. Pokud podobnou žádost obdržíme, poskytneme vaše osobní údaje pouze pokud se v dobré víře domníváme, že to od nás vyžaduje zákon. Nic, co je uvedeno v těchto zásadách, nemá v úmyslu omezovat jakoukoliv vaši dostupnou právní obranu proti žádostem třetích osob o poskytnutí vašich údajů.
+- Pokud se domníváme, že je nezbytné zabránit vzniku škod vám či někomu jinému. Tímto způsobem budeme poskytovat pouze informace, u nichž se v dobré víře domníváme, že jsou rozumně nezbytné k ochraně práv, majetku nebo bezpečnosti vás, našich dalších uživatelů, společnosti Mozilla nebo veřejnosti.
+- Pokud dojde ke změně naší organizační struktury nebo statusu (pokud u nás proběhne restrukturalizace, dojde k našemu převzetí nebo vstoupíme do konkurzu), může dojít k poskytnutí vašich údajů našim nástupcům nebo dceřiným společnostem.
 
-### How do we store and protect your personal information?
+### Jak ukládáme a chráníme vaše osobní údaje?
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+Zavázali jsme se chránit vaše osobní údaje po jejich získání. Zavedli jsme fyzická, obchodní a technická bezpečnostní opatření. Pokud se navzdory našim snahám dozvíme o porušení zabezpečení, budeme vás informovat, abychom mohli přijmout vhodné nápravné kroky.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+Vaše osobní údaje nechceme uchovávat po dobu delší než je nezbytná, takže si je ponecháváme jenom tak dlouho, abychom splnili účel, pro který jsme je získali. Když už je nepotřebujeme, přijímáme kroky k jejich likvidaci, pokud nejsme ze zákona povinni je uchovávat delší dobu.
 
-### What else do we want you know?
+### Co dále chceme vědět?
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+Jsme globální organizací a naše počítače se nacházejí na několika různých místech po celém světě. Využíváme rovněž poskytovatele služeb, jejichž počítače se mohou rovněž nacházet v různých zemích. To znamená, že vaše údaje mohou skončit v některém z těchto počítačů v jiné zemi a daná země může nabízet jinou míru ochrany dat než vaše země. Pokud nám poskytnete informace, souhlasíte s tímto druhem převodu vašich údajů. Bez ohledu na to, v jaké zemi se vaše údaje nacházejí, dodržujeme platné právo a veškeré závazky, které uvádíme v těchto zásadách ochrany soukromí.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) to have your child's information removed.
+Jste-li mladší 13 let, nemáme zájem o vaše osobní údaje, a vy nám je nesmíte poskytovat. Pokud jste rodič a domníváte se, že vaše dítě mladší 13 let nám poskytlo osobní údaje, [kontaktujte nás ](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) prosím, abychom údaje vašeho dítěte odstranili.
 
-### What if we change this policy?
+### Co se stane, pokud tyto zásady změníme?
 
-We may need to change this policy and when we do, we'll notify you.
+Může se stát, že tyto zásady budeme muset změnit a pokud tak učiníme, budeme vás o tom informovat.
