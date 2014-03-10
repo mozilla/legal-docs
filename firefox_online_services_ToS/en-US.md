@@ -1,57 +1,78 @@
 Last Updated January 31, 2014
 
-We care about your privacy. When Firefox cloud services sends information to Mozilla (that's us), the Mozilla Privacy Policy below describes how we handle that information.
+Thanks for choosing Firefox cloud services!
 
-Things you should know:
+#### Summary
 
-- Firefox cloud services uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- Firefox accounts sends Mozilla your email address and password. Firefox Sync sends Mozilla your tabs, awesome bar, passwords, bookmarks, and certain browser preferences. We do not share this data with others and we use it solely to provide you with Firefox cloud services. If you request to have your Firefox account deleted, we will no longer retain this information.
+This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
 
-#### Mozilla Privacy Policy
+- Firefox cloud services is a suite of services provided to you by Mozilla. You must be over the age of 13 to use Firefox cloud services or have your parent or guardian consent and supervise your use.
+- Firefox cloud services is designed to be a secure and easy way to connect with Mozilla and non-Mozilla services across devices so that you can access your profile whenever you need, from wherever you are.
+- Firefox cloud services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of Firefox cloud services.
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+#### Terms of Service
 
-#### What do we mean by "personal information?"
-For us, "personal information" means information which identifies you, like your name or email address.
+1. #### Introduction
 
-Any information that falls outside of this is "non-personal information."
+    At Mozilla, we are committed to promoting choice and innovation on the web. That's why we created Firefox cloud services – a safe and easy way to connect your profile across devices whenever you need, from wherever you are. These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services ("<u>Firefox Cloud Services</u>" or the "<u>Services</u>").
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+2. #### Firefox Accounts
 
-#### How do we learn information about you?
+    A Firefox account is needed to use the Services. You must be at least 13 years old to register for a Firefox account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
 
-We learn information about you when:
+3. #### Firefox Sync
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+    Firefox Sync allows you to access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and certain browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
 
-#### What do we do with your information once we have it?
+4. #### Your Data
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+    You own any data that you submit to the Services. We encourage you to read our [Privacy Notice](/legal/privacy) for details on our data practices. The Services connect to Mozilla and Non-Mozilla Services that may subject you to separate terms and privacy policies, and you are encouraged to read those documents.
 
-#### When do we share your information with others?
+5. #### Your Content in our Services
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of <a href="http://www.mozilla.org/en-US/about/manifesto/" target="_blank">being open</a>. We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+    You are responsible for any intellectual property rights in content that you submit to our Services. By submitting content, you agree that you have the necessary rights to grant us and our applicable third party providers a license to use your content for the purpose of offering you the Services. This license includes the rights to reproduce, transmit, display, perform, modify, and store such content. You can terminate this license by removing your content from our Services.
 
-#### How do we store and protect your personal information?
+6. #### Mozilla's Proprietary Rights
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+7. #### Term; Termination
 
-#### What else do we want you know?
+    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please <a href="https://www.mozilla.org/en-US/privacy/policies/firefox-os/" target="_blank">contact us</a> to have your child's information removed.
+    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Release and Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
 
-#### What if we change this policy?
+8. #### Third Party Services
 
-We may need to change this policy and when we do, we'll notify you.
+    Third Party Services may have their own Privacy Policies and Terms of Use. You are encouraged to read these, because your use of Third Party Services may subject you to terms, policies, and practices that are separate from Mozilla's. Mozilla does not represent or imply that it endorses any Third Party Services nor that it believes the operation of any Third Party Services will be accurate, useful, or non-harmful. Third Party Services may have technical inaccuracies, may cause mistakes or errors, and may transmit, store, or otherwise manipulate data in a manner that you find objectionable. You are responsible for taking precautions to protect yourself and your computer systems in connection with the use of Third Party Services.
+
+9. #### Release and Indemnification
+
+    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of your use of the Services.
+
+10. #### Disclaimer; Limitation of Liability
+
+    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE USES YOUR USERNAME AND PASSWORD TO ACCESS YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+
+    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+
+11. #### Modifications to these Terms
+
+    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+
+12. #### Miscellaneous
+
+    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+
+13. #### Contact Us
+
+    Contact Mozilla at
+
+    <address>
+      Mozilla Corporation 
+      Attn: Mozilla – Legal Notices 
+      2 Harrison St, 
+      San Francisco, CA 94105
+    </address>
