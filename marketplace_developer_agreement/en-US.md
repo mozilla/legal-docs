@@ -2,15 +2,6 @@ October 30, 2013
 
 This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
-1. You must be at least 18 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
-2. You must comply with all applicable terms and policies, including guidelines around privacy and content.
-3. We can remove your Marketplace Content from the Firefox Marketplace if we find it harmful or objectionable or if you violate our policies or these Terms.
-4. You are solely responsible for your Marketplace Content, which means you&rsquo;re responsible for export regulations, compliance with laws, refunds and support. If you sell your Marketplace Content, you are also responsible for taxes, pricing, and refunds. If you use our integrated payment system, the integrated payment processors may agree to take on sale/VAT, refunds and other payment associated issues for you.
-5. Don&rsquo;t do anything illegal or that could hurt us or others.
-6. We&rsquo;re not responsible for your use of the Firefox Marketplace, your Marketplace Content, or the actions of other users, including other developers.
-7. You&rsquo;ll be responsible for your Marketplace Content and your use or misuse of the Firefox Marketplace.
-
-## Introduction
 
 Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;), located at 650 Castro St #300, Mountain View, CA 94041, United States of America, is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
 
@@ -44,7 +35,7 @@ As between you and Mozilla, you are solely responsible for your Marketplace Cont
 
 While you may be able to specify which country store you&rsquo;d like to distribute your Marketplace Content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Marketplace Content to specific devices.
 
-You are solely responsible for the relationship between you and the end users of your Marketplace Content. 
+You are solely responsible for the relationship between you and the end users of your Marketplace Content.
 
 
 ## Payments
@@ -63,7 +54,7 @@ If you use your own payment processing system, you or your payment processor wil
 
 ## Taxes
 
-Since you, not Mozilla, are selling your Marketplace Content  to end users of the Firefox Marketplace&rsquo;, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. 
+Since you, not Mozilla, are selling your Marketplace Content  to end users of the Firefox Marketplace&rsquo;, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction.
 
 If you use the Firefox Marketplace&rsquo; integrated payment processing system, the integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
 
@@ -95,7 +86,7 @@ You are responsible for uploading your Marketplace Content to the Firefox Market
 
 ## Content Restrictions
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
+Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
 
 
 ## Persona and Marketplace Content
