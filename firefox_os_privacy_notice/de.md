@@ -1,6 +1,6 @@
 # Datenschutzhinweis für Firefox OS
 
-8. Mai 2013
+8\. Mai 2013
 {: datetime="2013-05-08" }
 
 Wir nehmen den Schutz Ihrer Daten sehr ernst. In unserer [Datenschutzerklärung](http://www.mozilla.org/de/privacy/) erläutern wir Ihnen, wie Mozilla (das sind wir) mit Ihren Daten, die wir über den Firefox Marketplace erheben, umgeht.
