@@ -1,6 +1,6 @@
 # Firefox OS Adatvédelmi Tájékoztató
 
-2013. május 8.
+2013\. május 8.
 {: datetime="2013-05-08" }
 
 Fontos számunkra az Ön személyes adatainak védelme. Amikor a Firefox OS részünkre, azaz a Mozilla (Mozilla Corporation, 650 Castro Street, Suite 300, Mountain View, CA 94041) részére információkat küld, akkor a [Mozilla Adatvédelmi Szabályzata](http://www.mozilla.org/hu/privacy/) szerint kezeljük az információkat.
