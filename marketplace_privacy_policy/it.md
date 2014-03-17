@@ -20,7 +20,7 @@ Per Mozilla, la privacy degli utenti è importante. La [Informativa sulla privac
 ### Informativa sulla privacy di Mozilla
 31 ottobre 2013
 
-La privacy è un aspetto importante di cui Mozilla Corporation, con sede a 650 Castro St #300, Mountain View, CA 94041 (“Mozilla”), tiene conto nello sviluppo di ciascuno dei propri prodotti e servizi. Mozilla si impegna a essere trasparente e aperta a tal riguardo e desidera che gli utenti sappiano in che modo Mozilla riceve le informazioni che li riguardano e come vengono utilizzate una volta acquisite.
+La privacy è un aspetto importante di cui Mozilla Corporation, con sede a 331 E. Evelyn Avenue, Mountain View, CA 94041 (“Mozilla”), tiene conto nello sviluppo di ciascuno dei propri prodotti e servizi. Mozilla si impegna a essere trasparente e aperta a tal riguardo e desidera che gli utenti sappiano in che modo Mozilla riceve le informazioni che li riguardano e come vengono utilizzate una volta acquisite.
 
 ### Cosa si intende per "dati personali?"
 
@@ -75,8 +75,8 @@ Per rettificare i propri dati o porre domande sulle informative sulla privacy, �
 <address>
   Mozilla Corporation<br>
   Att.: Legal Notices - Privacy<br>
-  650 Castro Street, Suite 300<br>
-  Mountain View, CA 94041-2072<br>
+  331 E. Evelyn Avenue<br>
+  Mountain View, CA 94041<br>
   Telefono: [+1-650-903-0800](tel:+1-650-903-0800)<br>
   Utilizzare il presente modulo per inviare domande, dubbi o opinioni sulla <br>Informativa sulla privacy di Mozilla.<br>
   Nome:

@@ -98,7 +98,7 @@ Pověřený zástupce pro autorská práva společnosti Mozilla oprávněný př
 <address>
   Úřad generálního poradce (Office of the General Counsel)<br>
   Mozilla Corporation<br>
-  650 Castro Street, Suite 300<br>
+  331 E. Evelyn Avenue<br>
   Mountain View, CA 94041<br>
   E-mail: dmcanotice at mozilla dot com<br>
   Telefonní číslo: [650-903-0800](tel:6509030800)<br>
