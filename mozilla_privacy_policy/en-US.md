@@ -1,9 +1,9 @@
 # Mozilla Privacy Policy
 
-February 19, 2014
+February 19, 2014 
 {: datetime="2014-02-19" }
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. Our Product Privacy Notices are more specific with respect to how each product and service receives information, how we use it, and your choices. 
+At Mozilla, we consider your privacy when we develop our products and services. This Mozilla Privacy Policy explains  how we receive information about you, and what we do with that information once we have it. There are also product privacy notices and FAQs that help give you more detail with respect to each of our products. 
 
 ## What do we mean by "personal information?"
 
@@ -17,14 +17,14 @@ If we store your personal information with information that is non-personal, we 
 
 We learn information about you when:
 
-* you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-* we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-* someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
+* you give it to us directly (e.g., when you choose to send us crash reports);
+* we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if is up to date);
+* someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
 * when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
 
 ## What do we do with your information once we have it?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
 
 ## When do we share your information with others?
 
