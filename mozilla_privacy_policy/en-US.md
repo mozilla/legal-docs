@@ -1,7 +1,7 @@
 # Mozilla Privacy Policy
 
-February 19, 2014 
-{: datetime="2014-02-19" }
+March 17, 2014 
+{: datetime="2014-03-17" }
 
 At Mozilla, we consider your privacy when we develop our products and services. This Mozilla Privacy Policy explains  how we receive information about you, and what we do with that information once we have it. There are also product privacy notices and FAQs that help give you more detail with respect to each of our products. 
 
