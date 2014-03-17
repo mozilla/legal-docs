@@ -2,7 +2,7 @@
 
 2013\. július 3.
 
-Fontos számunkra az Ön személyes adatainak védelme. Amikor Mi, a Mozilla (Mozilla Corporation, 650 Castro Street, Suite 300, Mountain View, CA 94041, USA) Önről adatot gyűjtünk a Firefox Marketplace használatával összefüggésben, úgy ezeket az információkat a [Mozilla Adatvédelmi Szabályzata](https://www.mozilla.org/en-US/privacy/policies/firefox-os/#top) szerint kezeljük.
+Fontos számunkra az Ön személyes adatainak védelme. Amikor Mi, a Mozilla (Mozilla Corporation, 331 E. Evelyn Avenue, Mountain View, CA 94041, USA) Önről adatot gyűjtünk a Firefox Marketplace használatával összefüggésben, úgy ezeket az információkat a [Mozilla Adatvédelmi Szabályzata](https://www.mozilla.org/en-US/privacy/policies/firefox-os/#top) szerint kezeljük.
 <u> Amit tudnia érdemes: </u>
 
 - A Firefox Marketplace-en található alkalmazások legtöbbjét nem Mi készítettük, ezért ezek használata előtt kérjük, olvassa el ezek adatvédelmi szabályzatait.
@@ -17,7 +17,7 @@ Fontos számunkra az Ön személyes adatainak védelme. Amikor Mi, a Mozilla (Mo
 
 ### Mozilla Adatvédelmi Szabályzat
 
-Az Ön személyes adatainak védelme fontos, ezért azt Mi, a Mozilla (Mozilla Corporation, 650 Castro Street, Suite 300, Mountain View, CA 94041, USA) minden egyes termékünk és szolgáltatásunk kifejlesztésénél figyelembe veszünk. Elkötelezettek vagyunk amellett, hogy tevékenységünk átlátható és nyitott legyen, ezért szeretnénk, ha tudná milyen módon gyűjtjük személyes adatait, valamint azt, hogy azokat milyen célokra használjuk fel. 
+Az Ön személyes adatainak védelme fontos, ezért azt Mi, a Mozilla (Mozilla Corporation, 331 E. Evelyn Avenue, Mountain View, CA 94041, USA) minden egyes termékünk és szolgáltatásunk kifejlesztésénél figyelembe veszünk. Elkötelezettek vagyunk amellett, hogy tevékenységünk átlátható és nyitott legyen, ezért szeretnénk, ha tudná milyen módon gyűjtjük személyes adatait, valamint azt, hogy azokat milyen célokra használjuk fel. 
 
 ### Mit értünk „személyes adat” alatt?
 

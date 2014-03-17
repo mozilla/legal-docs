@@ -12,7 +12,7 @@ Ovaj početni odjeljak sažetak je uvjeta navedenih u nastavku. Služi kao pomo�
 
 ## Uvod
 
-Mozilla Corporation, sa sjedištem na adresi 650 Castro St \#300, Mountain View, CA 94041, SAD („Mozilla“, „nas/nam“ ili „mi“) bavi se promoviranjem opcija i inovacija na Internetu. U tu smo svrhu osmislili uslugu „Firefox Marketplace“ – web-mjesto dostupno javnosti pomoću kojega možete distribuirati korisnicima svoj sadržaj Marketplacea za korištenje na njihovim uređajima.
+Mozilla Corporation, sa sjedištem na adresi 331 E. Evelyn Avenue, Mountain View, CA 94041, SAD („Mozilla“, „nas/nam“ ili „mi“) bavi se promoviranjem opcija i inovacija na Internetu. U tu smo svrhu osmislili uslugu „Firefox Marketplace“ – web-mjesto dostupno javnosti pomoću kojega možete distribuirati korisnicima svoj sadržaj Marketplacea za korištenje na njihovim uređajima.
 
 ## Definicije
 
