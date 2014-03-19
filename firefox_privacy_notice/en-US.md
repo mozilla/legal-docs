@@ -1,6 +1,6 @@
 # Firefox Browser Privacy Notice
 
-March 17, 2014
+March 19, 2014
 {: datetime="2014-03-17" }
 
 We care about your privacy. When Firefox sends information to Mozilla (that’s us), our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
@@ -11,7 +11,7 @@ Firefox automatically connects to us and our service providers to provide the fe
 
 ### To provide browser and add-ons updates {: #auto-updates }
 
-**Browser Updates**. Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, and operating system and version. You can turn off updates by following instructions [here](https://support.mozilla.org/en-US/kb/how-stop-firefox-automatically-making-connections?redirectlocale=en-US&redirectslug=Firefox+makes+unrequested+connections#Auto_update_checking) but it may leave you open to security vulnerabilities.
+**Browser Updates**. Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system and version. You can turn off updates by following instructions [here](https://support.mozilla.org/en-US/kb/how-stop-firefox-automatically-making-connections?redirectlocale=en-US&redirectslug=Firefox+makes+unrequested+connections#Auto_update_checking) but it may leave you open to security vulnerabilities.
 
 **Add-ons Blocklist**. Your Firefox browser contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can turn off this functionality at any time by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), but it may leave you open to security vulnerabilities.
 
@@ -23,7 +23,7 @@ To help display relevant snippets, your Firefox browser sends Mozilla a monthly 
 
 ### To provide Firefox Health Report {: #health-report .inproduct-link }
 
-Firefox Health Report (“FHR”) is designed to provide you with insights about your browser’s stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users to send it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
+Firefox Health Report (“FHR”) is designed to provide you with insights about your browser’s stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
 
 We use the data sent through FHR to provide users with FHR’s functionality, such as helping you analyze and address performance issues with your browser. We also use what we learn from the FHR data in the aggregate to make Firefox better. You can choose to [turn data sharing off](https://support.mozilla.org/en-US/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -35,7 +35,7 @@ We use the data sent through FHR to provide users with FHR’s functionality, su
 
 ### To send Mozilla usage statistics (also called "Telemetry") in non-release builds {: #telemetry .inproduct-link}
 
-Usage statistics or "Telemetry" is a feature of in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory and hardware configuration. Your IP is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors.
+Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors.
 
 This feature is turned on by default in Nightly, Aurora and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
 
@@ -51,7 +51,7 @@ When you ask it to, Firefox also connects to Mozilla to provide the following fe
 
 ### Location services {: #location-services }
 
-Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, wifi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google’s geolocation service, which has it’s own [privacy policy](https://www.google.com/privacy/lsf.html).
+Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, WiFi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google’s geolocation service, which has it’s own [privacy policy](https://www.google.com/privacy/lsf.html).
 
 ### Crash reporting {: #crash-reporter .inproduct-link }
 
