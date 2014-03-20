@@ -1,4 +1,4 @@
-Last Updated January 31, 2014
+Last Updated March 19, 2014
 
 Thanks for choosing Firefox cloud services!
 
@@ -6,27 +6,28 @@ Thanks for choosing Firefox cloud services!
 
 This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
 
-- Firefox cloud services is a suite of services provided to you by Mozilla. You must be over the age of 13 to use Firefox cloud services or have your parent or guardian consent and supervise your use.
-- Firefox cloud services is designed to be a secure and easy way to connect with Mozilla and non-Mozilla services across devices so that you can access your profile whenever you need, from wherever you are.
-- Firefox cloud services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of Firefox cloud services.
+- Firefox cloud services (the "Services") are a suite of features provided to you by Mozilla. 
+- You must be over the age of 13 to use the Services, or if you are between the ages of 13 and 18, you must have your parent or guardian consent and supervise your use.
+- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
 
 #### Terms of Service
 
 1. #### Introduction
 
-    At Mozilla, we are committed to promoting choice and innovation on the web. That's why we created Firefox cloud services – a safe and easy way to connect your profile across devices whenever you need, from wherever you are. These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services ("<u>Firefox Cloud Services</u>" or the "<u>Services</u>").
+    At Mozilla, we are committed to promoting choice and innovation on the web. That's why we offer Firefox cloud services ("Services") – a suite of features designed to improve your cross-device experience.  These Terms of Service ("<u>Terms</u>") govern your use of the Services.
 
 2. #### Firefox Accounts
 
     A Firefox account is needed to use the Services. You must be at least 13 years old to register for a Firefox account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
 
-3. #### Firefox Sync
+3. #### Features
 
-    Firefox Sync allows you to access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and certain browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    (a) Firefox Sync allows you to access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
 
-4. #### Your Data
+4. #### Privacy Policy
 
-    You own any data that you submit to the Services. We encourage you to read our [Privacy Notice](/legal/privacy) for details on our data practices. The Services connect to Mozilla and Non-Mozilla Services that may subject you to separate terms and privacy policies, and you are encouraged to read those documents.
+    We encourage you to read our [Privacy Notice](/legal/privacy) for details on what we receive from your use of the Services and how we use that information. You can also learn more about our privacy practices and principles at our <a href="http://www.mozilla.org/privacy/" target="_blank">Privacy Hub</a>.  
+    
 
 5. #### Your Content in our Services
 
@@ -46,7 +47,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 8. #### Third Party Services
 
-    Third Party Services may have their own Privacy Policies and Terms of Use. You are encouraged to read these, because your use of Third Party Services may subject you to terms, policies, and practices that are separate from Mozilla's. Mozilla does not represent or imply that it endorses any Third Party Services nor that it believes the operation of any Third Party Services will be accurate, useful, or non-harmful. Third Party Services may have technical inaccuracies, may cause mistakes or errors, and may transmit, store, or otherwise manipulate data in a manner that you find objectionable. You are responsible for taking precautions to protect yourself and your computer systems in connection with the use of Third Party Services.
+    Third Party Services are services provided by an entity other than Mozilla ("Third Party Services"). Your use of Third Party Services may subject you to terms, policies, and practices that are separate from Mozilla's and you are encouraged to read them. Mozilla does not represent or imply that it endorses any Third Party Services nor that it believes the operation of any Third Party Services will be accurate, useful, or non-harmful. Third Party Services may have technical inaccuracies, may cause mistakes or errors, and may transmit, store, or otherwise manipulate data in a manner that you find objectionable. You are responsible for taking precautions to protect yourself and your computer systems in connection with the use of Third Party Services.
 
 9. #### Release and Indemnification
 
@@ -54,7 +55,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 10. #### Disclaimer; Limitation of Liability
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE USES YOUR USERNAME AND PASSWORD TO ACCESS YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
     EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
