@@ -26,7 +26,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    We encourage you to read our [Privacy Notice](/legal/privacy) for details on what we receive from your use of the Services and how we use that information. You can also learn more about our privacy practices and principles at our <a href="http://www.mozilla.org/privacy/" target="_blank">Privacy Hub</a>.  
+    We encourage you to read our <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Privacy Notice</a>for details on what we receive from your use of the Services and how we use that information. You can also learn more about our privacy practices and principles at our <a href="http://www.mozilla.org/privacy/" target="_blank">Privacy Hub</a>.  
     
 
 5. #### Your Content in our Services
