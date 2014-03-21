@@ -1,7 +1,7 @@
 # Firefox Browser Privacy Notice
 
-March 19, 2014
-{: datetime="2014-03-17" }
+March 21, 2014
+{: datetime="2014-03-21" }
 
 We care about your privacy. When Firefox sends information to Mozilla (thatâ€™s us), our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
@@ -13,13 +13,13 @@ Firefox automatically connects to us and our service providers to provide the fe
 
 	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system and version. You can turn off updates by following instructions [here](https://support.mozilla.org/en-US/kb/how-stop-firefox-automatically-making-connections?redirectlocale=en-US&redirectslug=Firefox+makes+unrequested+connections#Auto_update_checking) but it may leave you open to security vulnerabilities.
 
-	Add-ons Blocklist: Your Firefox browser contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can turn off this functionality at any time by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), but it may leave you open to security vulnerabilities.
+	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can turn off this functionality at any time by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), but it may leave you open to security vulnerabilities.
 
 * Snippets {: #snippets }
 
 	Firefoxâ€™s default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these â€œsnippetsâ€. About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla aggregates how often snippets are clicked, snippet name, browser locale, and which version of Firefox youâ€™re using.
 
-	To help display relevant snippets, your Firefox browser sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to your Firefox browser, where itâ€™s stored locally. Your Firefox browser will then choose snippets to show you based on the locally stored country information.
+	To help display relevant snippets, Firefox sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where itâ€™s stored locally.  Firefox will then choose snippets to show you based on the locally stored country information.
 
 * Firefox Health Report {: #health-report .inproduct-link } 
 
@@ -47,18 +47,10 @@ Firefox automatically connects to us and our service providers to provide the fe
 
 When you ask it to, Firefox also connects to Mozilla to provide you with features such as Sync, location services, crash reporting, and add-ons.  
 
-* Sync {: #sync }
+* **Sync**: [Firefox Sync](http://www.mozilla.org/en-US/mobile/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the Firefox Sync privacy notice [here](https://services.mozilla.com/privacy-policy/).
 
-	[Firefox Sync](http://www.mozilla.org/en-US/mobile/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the Firefox Sync privacy notice [here](https://services.mozilla.com/privacy-policy/).
+* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, WiFi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Googleâ€™s geolocation service, which has itâ€™s own [privacy policy](https://www.google.com/privacy/lsf.html).
 
-* Location services {: #location-services }
+* **Crash reporting**: You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at [http://crash-stats.mozilla.com/](http://crash-stats.mozilla.com/.). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
 
-	Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, WiFi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Googleâ€™s geolocation service, which has itâ€™s own [privacy policy](https://www.google.com/privacy/lsf.html).
-
-* Crash reporting {: #crash-reporter .inproduct-link }
-
-	You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at [http://crash-stats.mozilla.com/](http://crash-stats.mozilla.com/.). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
-
-* Add-ons {: #get-addons }
-
-	Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
+* **Add-ons**: Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
