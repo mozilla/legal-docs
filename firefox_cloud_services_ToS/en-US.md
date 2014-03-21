@@ -31,7 +31,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 5. #### Your Content in our Services
 
-    You are responsible for any intellectual property rights in content that you submit to our Services. By submitting content, you agree that you have the necessary rights to grant us and our applicable third party providers a license to use your content for the purpose of offering you the Services. This license includes the rights to reproduce, transmit, display, perform, modify, and store such content. You can terminate this license by removing your content from our Services.
+    You are responsible for your content, including any intellectual property rights therein, that you submit to our Services. By submitting content, you agree that you have the necessary rights to grant us and our applicable third party providers a license to use your content for the purpose of offering you the Services. This license includes the rights to reproduce, transmit, display, perform, modify, and store such content. You can terminate this license by removing your content from our Services.
 
 6. #### Mozilla's Proprietary Rights
 
