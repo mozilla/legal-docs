@@ -21,7 +21,7 @@ Firefox automatically connects to us and our service providers to provide the fe
 
 	To help display relevant snippets, your Firefox browser sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to your Firefox browser, where itâ€™s stored locally. Your Firefox browser will then choose snippets to show you based on the locally stored country information.
 
-* Firefox Health Report {: #health-report .inproduct-link }
+* Firefox Health Report {: #health-report .inproduct-link } 
 
 	Firefox Health Report (â€œFHRâ€) is designed to provide you with insights about your browserâ€™s stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
 
