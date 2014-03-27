@@ -14,7 +14,7 @@ You send us different types of data depending on what features of the Services y
 
 ---------------------------------------
 
-We use cookies, clear gifs and other web technologies to offer and improve our products and services.  Learn More.
+We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
 
 * **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
 
