@@ -1,9 +1,23 @@
-Last Updated March 12, 2014
+# Firefox Cloud Services Privacy Notice
 
-We care about your privacy. This Privacy Notice describes the data that Mozilla (that's us) receives from your use of Firefox online services (the "Services"), how we use it, and your choices.  The [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) explains our general practices with respect to receiving, using, and storing data across all of our products and services.
+March 26, 2014
+{: datetime="2014-03-26" }
 
-Things you should know about the Services:
+We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
 
-- Firefox accounts sends us your email address and password. Sync sends us your tabs, awesome bar, passwords, bookmarks, and browser preferences.
-- We use this data solely to provide you with the Services.  If you request to have your Firefox account deleted, we will delete the data associated with your account.
-- The Services use cookies and other web technologies to provide functionality (such as remembering you between sessions).  We use aggregate analytics to help us understand how users engage with the Services.
+## Things you should know:
+
+You send us different types of data depending on what features of the Services you use.  Learn More.
+
+* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
+* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+
+---------------------------------------
+
+We use cookies, clear gifs and other web technologies to offer and improve our products and services.  Learn More.
+
+* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+
+* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+
+
