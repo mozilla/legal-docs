@@ -1,72 +1,72 @@
-Last Updated March 26, 2014
+Poslední aktualizace 26. března 2014
 
-#### Summary
+#### Shrnutí
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí se uvádí jako pomůcka při pochopení podmínek, nicméně nezapomeňte si přečíst celý dokument, protože pokud s ním vyslovíte souhlas, vyslovujete souhlas s veškerými podmínkami a nikoliv pouze s tímto souhrnem.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Firefox cloud services (dále jen „Služby”) představují soubor služeb poskytovaných společností Mozilla. 
+- Služby jsou poskytovány „tak jak jsou” a neposkytují se záruky žádného druhu. Odpovědnost společnosti Mozilla vůči vám za škody vyplývající z vašeho používání Služeb je silně omezena.
 
-#### Terms of Service
+#### Podmínky poskytování služeb
 
-1. #### Introduction
+1. #### Úvod
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    Tyto podmínky poskytování služeb (dále jen „<u>Podmínky</u>”) upravují vaše používání Firefox cloud services, souboru online služeb poskytovaných společností Mozilla (dále jen „Služby”).
 
-2. #### Firefox Accounts
+2. #### Účty Firefox
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    Pro používání Služeb si budete muset zřídit účet Firefox.  Během registrace budete požádáni o nastavení hesla. Jste povinni udržovat své heslo v důvěrnosti a nesete odpovědnost za činnost probíhající na vašem účtu Firefox. Mozilla nenese odpovědnost za ztráty vyplývající z neoprávněného používání vašeho účtu Firefox.
 
-3. #### Features
+3. #### Funkce
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Firefox Sync vám umožňuje přístup k informacím uloženým na Firefox pomocí zařízení, včetně vašich karet, skvělé lišty, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat pomocí části Nástroje aplikace Firefox.
 
-4. #### Privacy Policy
+4. #### Zásady ochrany soukromí
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.  
+    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.  
     
 
-5. #### Your Content in our Services
+5. #### Váš obsah na našich Službách
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    Obsah můžete nahrávat v rámci využití funkcí Služeb. Nahráním obsahu nám tímto udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání vašeho obsahu v souvislosti s poskytováním Služeb. Tímto prohlašujete a zaručujete, že váš obsah nebude porušovat práva žádných třetích osob a bude odpovídat veškerým pokynům pro obsah stanoveným společností Mozilla.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných odlišných znaků značky společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí <a href="http://www.mozilla.org/MPL/" target="_blank">Veřejné licence Mozilla</a>.
 
-7. #### Term; Termination
+7. #### Doba platnosti, ukončení
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    Tyto Podmínky zůstanou v platnosti až do jejich výpovědi z vaší strany či ze strany společnosti Mozilla. Vypovědět je můžete kdykoliv bez udání důvodu tím, že deaktivujete svůj účet Firefox a přestanete využívat Služby.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Váš přístup ke Službám můžeme kdykoliv pozastavit nebo ukončit z jakéhokoliv důvodu, včetně například případů, kdy se rozumně domníváme, že: (i) jste se dopustili porušení těchto Podmínek, (ii) představujete riziko či případné vystavení právním rizikům pro naši společnost nebo (iii) naše poskytování Služeb pro vás již není ekonomicky únosné. Vynaložíme maximální úsilí, abychom vás informovali na e-mailovou adresu přiřazenou k vašemu účtu Firefox nebo při vašem příštím pokusu o přístup ke Službám.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    Ve všech takových případech bude platnost těchto Podmínek ukončena včetně například vaší licence k užívání Služeb a v platnosti zůstanou pouze následující části: Odškodnění, prohlášení, omezení odpovědnosti, různá ustanovení.
 
-8. #### Indemnification
+8. #### Odškodnění
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Souhlasíte, že budete bránit a odškodníte společnost Mozilla, její dodavatele, přispěvatele, poskytovatele licence a partnery a jejich příslušné ředitele, úředníky, zaměstnance a zástupce (dále společně jen „Odškodněné strany”) proti všem nárokům třetích osob a výdajům, včetně nákladů právního zastoupení, vyplývajícím z vašeho používání Služeb (včetně například jakéhokoliv vámi nahraného obsahu).
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Prohlášení, omezení odpovědnosti
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    SLUŽBY SE POSKYTUJÍ „TAK JAK JSOU” S VEŠKERÝMI PŘÍPADNÝMI CHYBAMI. V ROZSAHU POVOLENÉM ZÁKONEM TÍMTO SPOLEČNOST MOZILLA A VŠECHNY ODŠKODNĚNÉ STRANY ODMÍTAJÍ VEŠKERÉ VÝSLOVNÉ ČI ODVOZENÉ ZÁRUKY, ŽE SLUŽBY BUDOU PROSTY VAD, PRODEJNÉ, VHODNÉ PRO KONKRÉTNÍ ÚČEL A ŽE NEBUDOU PORUŠOVAT PRÁVA. NESETE VEŠKERÁ RIZIKA SOUVISEJÍCÍ S VOLBOU SLUŽEB PRO VAŠE ÚČELY A S KVALITOU A VÝKONEM SLUŽEB, VČETNĚ NAPŘÍKLAD RIZIKA, ŽE DOJDE K ODSTRANĚNÍ NEBO NARUŠENÍ VAŠEHO OBSAHU NEBO RIZIKA, ŽE K VAŠEMU ÚČTU ZÍSKÁ PŘÍSTUP KDOKOLIV JINÝ. TATO OMEZENÍ SE UPLATNÍ BEZ OHLEDU NA SELHÁNÍ ZÁKLADNÍHO DŮVODU JAKÉKOLIV NÁHRADY. NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ ODVOZENÝCH ZÁRUK, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    S VÝJIMKOU USTANOVENÍ ZÁKONA NEPONESOU SPOLEČNOST MOZILLA ANI ODŠKODNĚNÉ STRANY NENESOU ODPOVĚDNOST ZA ŽÁDNÉ NEPŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO EXEMPLÁRNÍ ŠKODY VYPLÝVAJÍCÍ Z TĚCHTO PODMÍNEK ČI S NIMI JAKÝMKOLIV ZPŮSOBEM SOUVISEJÍCÍ NEBO VYPLÝVAJÍCÍ ČI SOUVISEJÍCÍ S POUŽÍVÁNÍM NEBO NEMOŽNOSTÍ POUŽÍVAT SLUŽBY, VČETNĚ NAPŘÍKLAD PŘÍMÝCH ČI NEPŘÍMÝCH ŠKOD ZE ZTRÁT GOODWILLU, POZASTAVENÍ PRÁCE, ZTRÁTY ZISKU, ZTRÁTY DAT A SELHÁNÍ ČI PORUCHY POČÍTAČE, A TO ANI V PŘÍPADĚ, ŽE BYLY NA MOŽNOST VZNIKU TAKOVÝCH ŠKOD UPOZORNĚNI A BEZ OHLEDU NA PRÁVNÍ TEORII (SMLUVNÍ, PŘEČIN NEBO JINAK), Z NÍ´Ž TAKOVÝ NÁROK VYCHÁZÍ. SOUHRNNÁ ODPOVĚDNOST SPOLEČNOSTI MOZILLA A ODŠKODNĚNÝCH STRAN V SOULADU S TOUTO SMLOUVOU NEPŘESÁHNE 500 USD (PĚT SET AMERICKÝCH DOLARŮ). NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ NÁHODNÝCH, NÁSLEDNÝCH NEBO SPECIÁLNÍCH ŠKOD, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
 
-10. #### Modifications to these Terms
+10. #### Změny těchto Podmínek
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Společnost Mozilla je oprávněna tyto Podmínky čas od času aktualizovat za účelem úpravy nových funkcí Služeb nebo vyjasnění ustanovení. Aktualizované znění Podmínek bude zveřejněno online. Pokud budou změny podstatného charakteru, aktuální znění oznámíme prostřednictvím běžných kanálů společnosti Mozilla pro taková oznámení, jako jsou uveřejnění na blogu nebo ve fórech. Budete-li pokračovat v používání Služeb po datu účinnosti takových změn, bude to vykládáno jako váš souhlas s těmito změnami. Aby bylo sledování aktualizací pohodlnější, v horní části stránky budeme uvádět datum účinnosti.
 
-11. #### Miscellaneous
+11. #### Různá ustanovení
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    Tyto Podmínky představují úplnou dohodu mezi vámi a společností Mozilla ohledně Služeb a řídí se zákony státu Kalifornie, USA, s vyloučením ustanovení kolizních norem. V případě, že bude kterákoliv část těchto Podmínek považována za neplatnou či nevymahatelnou, zbývající ustanovení zůstanou plně v platnosti a účinnosti. V případě rozporu mezi přeloženou verzí těchto Podmínek a anglickou jazykovou verzí bude mít anglická verze přednost.
 
-12. #### Contact Us
+12. #### Kontaktujte nás
 
-    Contact Mozilla at
+    Kontaktujte společnost Mozilla na adrese
 
     <address>
       Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
+      k rukám: Mozilla – Legal Notices 
       331 E. Evelyn Ave., 
       Mountain View, CA 94041 
     </address>
