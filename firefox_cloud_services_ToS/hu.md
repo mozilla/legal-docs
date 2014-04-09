@@ -1,72 +1,72 @@
-Last Updated March 26, 2014
+Utoljára frissítve: 2014. március 26.
 
-#### Summary
+#### Összefoglaló
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az összefoglaló célja, hogy segítséget nyújtson Önnek a feltételek megismerésében. Ennek ellenére olvassa el a teljes dokumentumot, mert az elfogadással az összes feltételhez hozzájárul, nem csupán az összefoglaló elfogadását jelzi.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- A Firefox Cloud Services (a „Szolgáltatások”) a Mozilla által Önnek nyújtott szolgáltatáscsomag. 
+- A Szolgáltatásokat a megadott formában biztosítjuk bármilyen típusú garancia nélkül. A Mozilla felelőssége jelentős mértékben korlátozott bármilyen, a Szolgáltatások használatából eredő kár tekintetében.
 
-#### Terms of Service
+#### Szolgáltatási feltételek
 
-1. #### Introduction
+1. #### Bevezetés
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    A jelen Szolgáltatási feltételek („<u>Feltételek</u>”) szabályozzák a Firefox Cloud Services – a Mozilla által nyújott online szolgáltatáscsomag (a „Szolgáltatások”) Ön általi használatát.
 
-2. #### Firefox Accounts
+2. #### Firefox-fiókok
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    A Szolgáltatások használatához létre kell hoznia egy Firefox-fiókot.  A regisztráció során meg kell adnia egy jelszót. Ön felel jelszava titokban tartásáért és a Firefox-fiókon keresztül történő tevékenységekért. A Mozilla nem felel semmilyen, a Firefox-fiók jogosulatlan használatából eredő kárért.
 
-3. #### Features
+3. #### Funkciók
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    A Firefox Sync révén hozzáférhet a különböző Firefox eszközökön tárolt információkhoz, beleértve a lapokat, az Awesome Bar funkciót, a jelszavakat, a könyvjelzőket és a böngészőbeállításokat. A Firefox Sync funkciót a Firefox Eszközök részében engedélyezheti és tilthatja le.
 
-4. #### Privacy Policy
+4. #### Adatvédelmi irányelvek
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.  
+    A <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Adatvédelmi Nyilatkozat</a> részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Adatvédelmi Irányelvek</a> részben leírtak szerint használjuk fel.  
     
 
-5. #### Your Content in our Services
+5. #### A Szolgáltatások használata során keletkezett saját tartalom
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    A Szolgáltatások funkcióinak köszönhetően saját tartalmat is feltölthet. Tartalom feltöltésével nem kizárólagos, jogdíjmentes, az egész világra kiterjedő engedélyt ad számunkra a feltöltött saját tartalom Szolgáltatásokkal kapcsolatos felhasználására. Ön ezúton kijelenti és garantálja, hogy az Ön által feltöltött saját tartalom nem sérti harmadik fél jogait és minden, a Mozilla által meghatározott tartalmi irányelvnek megfelel.
 
-6. #### Mozilla's Proprietary Rights
+6. #### A Mozilla tulajdonjogai
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    A jelen Szerződés feltételei szerint meghatározottak kivételével a Mozilla nem ad Önnek semmilyen, a Szolgáltatásokra vonatkozó szellemi tulajdonjogot. Például a jelen Feltételek nem adnak jogot a Mozilla szerzői jogai, márkanevei, védjegyei, szolgáltatási védjegyei, logói, domainnevei vagy más megkülönböztető márkajelzések használatára. A Szolgáltatások nyújtására a <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a> jelenlegi változatának feltételei szerint kerül sor.
 
-7. #### Term; Termination
+7. #### Időtartam; Felmondás
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    A jelen Feltételek az Ön vagy Mozilla általi felmondásig maradnak érvényben. Bármikor, bármilyen okból dönthet felmondásról a Firefox fiók megszüntetése és a Szolgáltatások használatával való felhagyás révén.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Bármikor, bármilyen okból felfüggeszthetjük vagy felmondhatjuk a Szolgáltatásokhoz való hozzáférést, beleértve nem kizárólagosan abban az estben, ha ésszerű okunk van a következőket feltételezni: (i) Ön megszegte a feltételeket, (ii) kockázatot vagy lehetséges jogi kitettséget okoz számunkra; vagy (iii) a Szolgáltatások nyújtása Ön számára már kereskedelmileg nem életképes. Minden ésszerű erőfeszítést megteszünk, hogy értesítsük erről a Firefox fiókjához kapcsolódó e-mail címen vagy a Szolgáltatások elérésére irányuló következő kísérlete alkalmával.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    A jelen Feltételek minden ilyen esetben megszűntnek tekintendők, beleértve korlátozás nélkül a Szolgáltatások használatára vonatkozó engedélyét, kivéve a következő részeket, amelyek továbbra is érvényben maradnak: Kártalanítás, Jogi nyilatkozat, A felelősség korlátozása, Vegyes rendelkezések.
 
-8. #### Indemnification
+8. #### Kártalanítás
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Ön vállalja, hogy megvédi, kártalanítja és mentesíti a Mozilla vállalatot, vállalkozóit, közreműködőit, licencpartnereit és partnereit, valamint azok igazgatóit, tisztségviselőit, munkavállalóit és ügynökeit (a „Biztosított felek”) minden harmadik féltől származó követelés és költség ellen, beleértve az ügyvédi díjakat, amelyek a Szolgáltatások Ön általi használatából erednek vagy ahhoz kapcsolódnak (beleértve nem kizárólagosan bármely Ön által feltöltött tartalmat).
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Jogi nyilatkozat, A felelősség korlátozása
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    A SZOLGÁLTATÁSOK A MEGADOTT FORMÁBAN BIZTOSÍTJUK  MINDEN HIBÁVAL EGYÜTT. A TÖRVÉNY SZERINT MEGENGEDETT MÉRTÉKBEN A MOZILLA ÉS A BIZTOSÍTOTT FELEK EZÚTON ELHÁRÍTANAK MINDEN KIFEJEZETT VAGY HALLGATÓLAGOS GARANCIÁT, BELEÉRTVE KORLÁTOZÁS NÉLKÜL A GARANCIÁT ARRA VONATKOZÓAN, HOGY A SZOLGÁLTATÁSOK HIBÁKTÓL MENTESEK, ÉRTÉKESÍTHETŐK, MEGFELELNEK A MEGADOTT CÉLNAK ÉS NEM JOGSÉRTŐ TERMÉSZETŰEK. ÖN VISELI A TELJES KOCKÁZATOT A SZOLGÁLTATÁSOK CÉLNAK MEGFELELŐ KIVÁLASZTÁSÁÉRT, VALAMINT A SZOLGÁLTATÁSOK MINŐSÉGÉÉRT ÉS TELJESÍTMÉNYÉÉRT, BELEÉRTVE KORLÁTOZÁS NÉLKÜL ANNAK A KOCKÁZATÁT, HOGY AZ ÖN ÁLTAL FELTÖLTÖTT TARTALOM TÖRLÉSRE KERÜL VAGY MEGSÉRÜL, VAGY VALAKI MÁS HOZZÁFÉR A FIÓKJÁHOZ. A JELEN KORLÁTOZÁS ABBAN AZ ESETBEN IS ÉRVÉNYBEN MARAD, HA BÁRMELY JOGORVOSLAT NEM ÉRI EL AZ EREDETI CÉLJÁT. EGYES ÁLLAMOK NEM TESZIK LEHETŐVÉ A HALLGATÓLAGOS GARANCIÁK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT ELŐFORDULHAT, HOGY A JELEN JOGI NIYLATKOZAT NEM VONATKOZIK ÖNRE.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    A TÖRVÉNY ÁLTAL MEGKÍVÁNT MÉRTÉKEN KÍVÜL A MOZILLA ÉS A BIZTOSÍTOTT FELEK NEM FELELŐSEK SEMMILYEN, A JELEN FELTÉTELEKBŐL EREDŐ VAGY AZOKHOZ KAPCSOLÓDÓ KÖZVETETT, KÜLÖNLEGES, VÉLETLEN, KÖVETKEZMÉNYI VAGY BÜNTETŐ JELLEGŰ, ILLETVE A SZOLGÁLTATÁSOK HASZNÁLATÁBÓL VAGY HASZNÁLATÁNAK ELLEHETETLENÜLÉSÉBŐL EREDŐ KÁRÉRT, BELEÉRTVE KORLÁTOZÁS NÉLKÜL A KÖZVETETT VAGY KÖZVETLEN HÍRNÉVVESZTÉST, MUNKABESZÜNTETÉST, HASZONVESZTÉST, ADATVESZTÉST, SZÁMÍTÓGÉPES MEGHIBÁSODÁST VAGY MŰKÖDÉSI ZAVART, MÉG ABBAN AZ ESETBEN SEM, HA TÁJÉKOZTATÁST KAPOTT AZ ILYEN JELLEGŰ VESZÉLYEK LEHETŐSÉGÉRŐL, VALAMINT A KÁRIGÉNY ALAPJÁUL SZOLGÁLÓ ELMÉLETTŐL (SZERZŐDÉS, MAGÁNVÉTEK VAGY EGYÉB) FÜGGETLENÜL. A MOZILLA ÉS A BIZTOSÍTOTT FELEK KOLLEKTÍV FELELŐSSÉGE A JELEN MEGÁLLAPODÁS SZERINT NEM HALADJA MEG AZ 500$ (ÖTSZÁZ DOLLÁR) ÉRTÉKET. EGYES ÁLLAMOK NEM TESZIK LEHETŐVÉ A VÉLETLEN, KÖVETKEZMÉNYES VAGY KÜLÖNLEGES KÁROK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT ELŐFORDULHAT, HOGY A JELEN JOGI NIYLATKOZAT NEM VONATKOZIK ÖNRE.
 
-10. #### Modifications to these Terms
+10. #### A jelen Feltételek módosítása
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    A Mozilla időről időre frissítheti a jelen Feltételeket a Szolgáltatások új funkciójának kezelése vagy egy rendelkezés tisztázása érdekében. A frissített Feltételeket online közzétesszük. Érdemi változások esetén a frissítést bejelentjük a Mozilla bejelentések céljára használt szokásos csatornáin, például blogbejegyzésben és fórumokon. A Szolgáltatások használatának folytatása a változások hatályba lépésének dátumát követően a változások elfogadását jelenti. A kényelmesebb áttekintés érdekében a jelen oldal tetején közzétesszük a hatályba lépés dátumát.
 
-11. #### Miscellaneous
+11. #### Vegyes rendelkezések
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    A jelen Feltételek képezik az Ön és a Mozilla közötti teljes megállapodást a Szolgáltatások vonatkozásában; a jogi kollíziós rendelkezéseket kivéve az egyesült államokbeli Kalifornia törvényei az irányadók.  Amennyiben a jelen Feltételek egy része érvénytelennek vagy végrehajthatatlannak bizonyul, a fennmaradó rendelkezések továbbra is érvényben és hatályban maradnak. A jelen feltételek lefordított változata és az angol nyelvű változat közötti ellentmondás esetén az angol nyelvű változat az irányadó.
 
-12. #### Contact Us
+12. #### Kapcsolat
 
-    Contact Mozilla at
+    A következő címen fordulhat a Mozilla vállalathoz:
 
     <address>
       Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
+      Címzett: Mozilla – Legal Notices 
       331 E. Evelyn Ave., 
       Mountain View, CA 94041 
     </address>
