@@ -1,23 +1,23 @@
-# Firefox Cloud Services Privacy Notice
+# Firefox Cloud Services Zásady ochrany osobních údajů
 
-March 26, 2014
+26. března 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen „Služby”) zašle informace společnosti Mozilla (tedy nám), naše [Zásady ochrany osobních údajů Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak můžeme takové informace používat.
 
-## Things you should know:
+## Věci, které byste měli vědět:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby využíváte.  Podrobnější informace
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Účet Firefox**: Pokud si založíte účet, obdržíte e-mail s heslem. 
+* **Sync**: Pokud používáte službu Sync, získáváme různé informace pro synchronizaci vašich karet, skvělé lišty, hesel, záložek a předvoleb prohlížeče a další data prostřednictvím různých zařízení.  
 
 ---------------------------------------
 
-We use cookies, clear gifs and other web technologies to offer and improve our products and services.  Learn More.
+Pro nabídku a zlepšení našich výrobků a služeb používáme soubory cookies, čisté GIFy a další webové technologie.  Podrobnější informace
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Online nástroje pro data**: „Online nástroje pro data” jako jsou soubory cookies, čisté GIFy a webové majáčky (web beacons) používáme k zajišťování funkcí našich výrobků a služeb. Soubory cookies nám například pomáhají s přihlášením uživatele a ověřením. Stejná nástroje používáme rovněž ke sběru dat pro zlepšení našich výrobků a služeb. Soubory cookies například používáme k zajištění webové analýzy. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+* **Možnosti**: Podrobnější informace o tom, co jsou soubory cookies a jak spravovat cookies v programu Firefox kliknutím [sem](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) Dovolujeme si upozornit, že některé funkce našich a dalších výrobků a služeb nemusí bez pomoci souborů cookies fungovat správně.
 
 
