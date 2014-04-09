@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Napomena o privatnosti usluge Firefox Cloud Services
 
-March 26, 2014
+26. ožujka 2014.
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Stalo nam je do vaše privatnosti. Kada Firefox Cloud Services („Usluga“) pošalje podatke Mozilli (to smo mi), [Pravila privatnosti Mozille](http://www.mozilla.org/en-US/privacy/) opisuju kako se koristimo tim podacima.
 
-## Things you should know:
+## Što biste trebali znati:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Ovisno o sadržajima Usluga kojima se koristite, šaljete nam različite vrste podataka.  Saznajte više.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Firefox račun**: Kada se prijavljujete za korisnički račun, primamo vašu adresu e-pošte i zaporku. 
+* **Sync**: Ako se koristite uslugom Sync, primamo različite podatke radi sinkroniziranja vaših kartica, fenomenalnih traka, zaporki, zabilješki, postavki preglednika i drugih podataka među uređajima.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Koristimo kolačiće, čiste GIF-ove i druge web-tehnologije radi ponude i poboljšanja naših proizvoda i usluga.  Saznajte više.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Mrežni alati za obradu podataka**: Koristimo mrežne alate za obradu podataka kao što su kolačići, čisti GIF-ovi i web-pratilice kako bismo osigurali funkcionalnost naših proizvoda i usluga. Primjerice, kolačići nam pomažu prilikom prijave i provjere autentičnosti korisnika. Iste alate koristimo i za prikupljanje podataka radi poboljšanja naših proizvoda i usluga. Primjerice, kolačiće koristimo za prikupljanje podataka za web-analize. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Opcije**: Saznajte više o kolačićima i njihovom upravljanju u pregledniku Firefox tako da kliknete [ovdje](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Imajte na umu da neke značajke naših i drugih proizvoda i usluga možda neće ispravno funkcionirati bez kolačića.
