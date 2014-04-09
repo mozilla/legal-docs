@@ -1,72 +1,72 @@
-Last Updated March 26, 2014
+Zuletzt aktualisiert am 26. März 2014
 
-#### Summary
+#### Zusammenfassung
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingungen zusammen. Diese Zusammenfassung ist eine Hilfe zum besseren Verständnis der Bedingungen. Sie sollten aber auf jeden Fall das gesamte Dokument lesen, denn mit Ihrer Zustimmung geben Sie an, dass Sie alle Bedingungen akzeptieren, nicht nur die Zusammenfassung.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden. 
+- Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
 
-#### Terms of Service
+#### Servicebedingungen
 
-1. #### Introduction
+1. #### Einführung
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    Diese Servicebedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
 
-2. #### Firefox Accounts
+2. #### Firefox-Konten
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    Um die Services nutzen zu können, müssen Sie ein Firefox-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Firefox-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Firefox-Kontos ergeben.
 
-3. #### Features
+3. #### Funktionen
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren.
 
-4. #### Privacy Policy
+4. #### Datenschutzerklärung
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.  
+    Im <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services – Datenschutz-Hinweis</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.  
     
 
-5. #### Your Content in our Services
+5. #### Ihre Inhalte in unseren Services
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie, weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Content-Richtlinien von Mozilla entsprechen.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Eigentumsrechte von Mozilla
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Servicebedingungen keine Rechte an den Copyrights oder Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
 
-7. #### Term; Termination
+7. #### Laufzeit; Kündigung
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Firefox-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    In all diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
 
-8. #### Indemnification
+8. #### Schadloshaltung
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Sie stimmen zu, Mozilla, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen hochgeladenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Haftungsablehnung; Haftungsbeschränkung
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    DIE SERVICES WERDEN IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLER FEHLER. SOWEIT GESETZLICH ZULÄSSIG, LEHNEN MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN JEGLICHE GEWÄHRLEISTUNG AB, OB AUSDRÜCKLICHE ODER STILLSCHWEIGENDE, INSBESONDERE DIE GEWÄHRLEISTUNG DER FEHLERFREIHEIT, MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER. SIE TRAGEN DAS GESAMTE RISIKO DER AUSWAHL DER SERVICES FÜR IHRE ZWECKE SOWIE IN BEZUG AUF QUALITÄT UND LEISTUNG DES PRODUKTS, INSBESONDERE DAS RISIKO, DASS IHRE INHALTE GELÖSCHT ODER BESCHÄDIGT WERDEN ODER DASS DRITTE ZUGRIFF AUF IHR KONTO ERLANGEN. DIESE BESCHRÄNKUNG GILT UNGEACHTET DER NICHTERFÜLLUNG DES WESENTLICHEN ZWECKS ETWAIGER RECHTSMITTEL. IN EINIGEN RECHTSSYSTEMEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG STILLSCHWEIGENDER GEWÄHRLEISTUNGEN NICHT ZULÄSSIG, SODASS DIE HIER DARGELEGTE BESCHRÄNKUNG AUF SIE MÖGLICHERWEISE NICHT ZUTRIFFT.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER SERVICES ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN SCHADLOS GEHALTENEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
 
-10. #### Modifications to these Terms
+10. #### Änderungen dieser Bedingungen
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderung angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
 
-11. #### Miscellaneous
+11. #### Verschiedenes
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und Mozilla bezüglich der Services dar und unterliegen den Gesetzen des Bundesstaates Kalifornien, USA, ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte eine dieser Bestimmungen für ungültig oder nicht durchsetzbar erklärt werden, bleiben die übrigen Bestimmungen davon unberührt. Im Falle eines Konflikts zwischen der übersetzten Version dieser Bedingungen und der englischen Fassung gilt die englische Fassung.
 
-12. #### Contact Us
+12. #### Kontakt
 
-    Contact Mozilla at
+    Kontaktadresse Mozilla:
 
     <address>
       Mozilla Corporation 
       Attn: Mozilla – Legal Notices 
-      331 E. Evelyn Ave., 
-      Mountain View, CA 94041 
+      331 E. Evelyn Ave. 
+      Mountain View, CA 94041, USA 
     </address>
