@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Firefox Cloud Services Adatvédelmi nyilatkozat
 
-March 26, 2014
+2014. március 26.
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Fontos számunkra az Ön adatainak védelme. A Firefox Cloud Services (a „Szolgáltatások”) információkat küld a Mozilla vállalatnak (azaz nekünk), amelyek felhasználásáról [Mozilla Adatvédelmi Irányelveinkben](http://www.mozilla.org/en-US/privacy/) olvashat.
 
-## Things you should know:
+## Tudnivalók:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Attól függően, hogy a Szolgáltatások mely funkcióit használja, Ön különböző típusú adatokat küld nekünk.  További információk
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Firefox-fiók**: Amikor fiókot nyit, megkapjuk e-mail címét és jelszavát. 
+* **Sync**: A Sync használata esetén számos információt kapunk a lapok, az Awesome Bar, a jelszavak, a könyvjelzők, a böngészőbeállítások és a különböző Firefox eszközökön tárolt egyéb adatok szinkronizálása érdekében.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Cookie-kat, clear GIF-eket és egyéb webes technológiákat alkalmazunk termékeink és szolgáltatásaink biztosítása és fejlesztése érdekében.  További információk
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Online adateszközök**: Ún. „online adateszközöket”, pl. cookie-kat, clear GIF-eket és webes irányjelzőket használunk termékeink és szolgáltatásaink biztosítása érdekében. A cookie-k például a bejelentkezés és hitelesítés során nyújtanak segítséget. Ugyanezeket az eszközöket használjuk a termékeink és szolgáltatásaink fejlesztése érdekében történő adatgyűjtés során is. Például a cookie-k segítségével készítünk webes elemzést. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Beállítások**: [Ide](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) kattintva többet tudhat meg a cookie-król és a cookie-k kezeléséről a Firefox rendszerben. Előfordulhat, hogy a cookie-k nélkül vállalatunk és mások termékeinek és szolgáltatásainak bizonyos funkciói nem működnek megfelelően.
