@@ -1,72 +1,72 @@
-Last Updated March 26, 2014
+Τελευταία ενημέρωση 26 Μαρτίου 2014
 
-#### Summary
+#### Σύνοψη
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+Αυτή η κορυφαία ενότητα συνοψίζει τους παρακάτω όρους. Αυτή η σύνοψη παρέχεται ως βοήθημα για να σας βοηθήσει να κατανοήσετε τους όρου. Ωστόσο, θα πρέπει να βεβαιωθείτε ότι θα διαβάσετε ολόκληρο το έγγραφο, διότι η συμφωνία σας με τους όρους του υποδηλώνει ότι τους αποδέχεστε όλους και όχι μόνον την παρούσα σύνοψη.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Οι υπηρεσίες Firefox Cloud Services (οι "Υπηρεσίες") είναι μια σειρά υπηρεσιών που παρέχονται σε εσάς από τη Mozilla. 
+- Οι Υπηρεσίες παρέχονται "ως έχουν" και δεν παρέχονται εγγυήσεις κανενός είδους. Υπάρχουν σημαντικοί περιορισμοί στην ευθύνη της Mozilla για οποιεσδήποτε ζημιές ενδέχεται να προκύψουν από τη χρήση των Υπηρεσιών εκ μέρους σας.
 
-#### Terms of Service
+#### Όροι παροχής Υπηρεσίας
 
-1. #### Introduction
+1. #### Εισαγωγή
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    Οι παρόντες Όροι παροχής Υπηρεσίας ("<u>Όροι</u>") διέπουν τη χρήση εκ μέρους σας των υπηρεσιών Firefox Cloud Services, μιας σειράς online υπηρεσιών που παρέχονται από τη Mozilla (οι "Υπηρεσίες").
 
-2. #### Firefox Accounts
+2. #### Λογαριασμοί Firefox
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    Για να χρησιμοποιήσετε τις Υπηρεσίες, θα χρειαστεί να δημιουργήσετε έναν Λογαριασμό Firefox.  Κατά τη διάρκεια της εγγραφής, θα σας ζητηθεί να ορίσετε έναν κωδικό πρόσβασης. Φέρετε την ευθύνη να διατηρείτε τον κωδικό πρόσβασής σας εμπιστευτικό και για τη δραστηριότητα που λαμβάνει χώρα μέσω του λογαριασμού σας Firefox. Η Mozilla δεν φέρει ευθύνη για οποιεσδήποτε απώλειες που οφείλονται σε μη εξουσιοδοτημένη χρήση του λογαριασμού σας Firefox.
 
-3. #### Features
+3. #### Δυνατότητες
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Το Firefox Sync σας επιτρέπει να έχετε πρόσβαση από διαφορετικές συσκευές σε πληροφορίες αποθηκευμένες στο Firefox, συμπεριλαμβανομένων των καρτελών σας, της γραμμής διευθύνσεων, των κωδικών πρόσβασης, των σελιδοδεικτών και των προτιμήσεων του προγράμματος περιήγησης. Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε το Firefox Sync μέσω της ενότητας Εργαλεία του Firefox.
 
-4. #### Privacy Policy
+4. #### Πολιτική απορρήτου
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.  
+    Η <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Πολιτική απορρήτου υπηρεσιών Firefox Cloud Services</a> περιγράφει λεπτομερώς τι δεδομένα λαμβάνουμε από τη χρήση των Υπηρεσιών εκ μέρους σας και με ποιον τρόπο χρησιμοποιούμε αυτές τις πληροφορίες. Χρησιμοποιούμε τις πληροφορίες που λαμβάνουμε μέσω των Υπηρεσιών όπως περιγράφεται στην <a href="http://www.mozilla.org/privacy/" target="_blank">Πολιτική απορρήτου της Mozilla</a>.  
     
 
-5. #### Your Content in our Services
+5. #### Το περιεχόμενό σας στις υπηρεσίες μας
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    Στο πλαίσιο των δυνατοτήτων των Υπηρεσιών, μπορείτε να κάνετε αποστολή περιεχομένου. Με την αποστολή περιεχομένου, μας παρέχετε μια μη αποκλειστική, απαλλαγμένη από δικαιώματα royalty, παγκόσμια άδεια χρήσης του περιεχομένου σας σε σύνδεση με την παροχή των Υπηρεσιών. Με το παρόν δηλώνετε και εγγυάστε ότι το περιεχόμενό σας δεν θα παραβιάζει τα δικαιώματα οποιουδήποτε τρίτου και ότι θα συμμορφώνεται με οποιεσδήποτε οδηγίες περιεχομένου παρέχονται από την Mozilla.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Ιδιοκτησιακά δικαιώματα της Mozilla
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Η Mozilla δεν σας εκχωρεί με τις Υπηρεσίες οποιοδήποτε δικαίωμα πνευματικής ιδιοκτησίας, το οποίο δεν αναφέρεται ρητά στους παρόντες Όρους. Για παράδειγμα, οι παρόντες Όροι δεν σας δίνουν το δικαίωμα να κάνετε χρήση οποιωνδήποτε από τα δικαιώματα copyright, τις εμπορικές επωνυμίες, τα εμπορικά σήματα, τα σήματα υπηρεσιών, τα λογότυπα, τα ονόματα τομέα ή τα λοιπά διακριτικά χαρακτηριστικά εμπορικών σημάτων της Mozilla. Οι Υπηρεσίες διανέμονται βάσει της τρέχουσας έκδοσης της <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a> και διέπονται από αυτήν.
 
-7. #### Term; Termination
+7. #### Διάρκεια ισχύος, τερματισμός
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    Αυτοί οι Όροι θα παραμείνουν σε ισχύ μέχρι να τερματιστεί η ισχύς τους, είτε από εσάς είτε από την Mozilla. Μπορείτε να επιλέξετε να τερματίσετε την ισχύ τους για οποιαδήποτε αιτία, απενεργοποιώντας το λογαριασμό σας Firefox και διακόπτοντας τη χρήση των Υπηρεσιών.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Μπορεί να αναστείλουμε ή να τερματίσουμε την πρόσβασή σας στις Υπηρεσίες οποιαδήποτε στιγμή για οποιαδήποτε αιτία, συμπεριλαμβανομένων, όχι αποκλειστικά, αν εύλογα θεωρήσουμε: (i) ότι παραβιάσατε τους παρόντες Όρους, (ii) ότι δημιουργήσατε κίνδυνο ή πιθανή νομική έκθεση για εμάς ή (iii) ότι η παροχή εκ μέρους μας των Υπηρεσιών προς εσάς δεν είναι πλέον εμπορικά βιώσιμη. Θα καταβάλουμε εύλογες προσπάθειες για να σας ειδοποιήσουμε μέσω της διεύθυνσης email που σχετίζεται με το λογαριασμό σας Firefox ή την επόμενη φορά που θα προσπαθήσετε να αποκτήσετε πρόσβαση στις Υπηρεσίες.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    Σε όλες αυτές τις περιπτώσεις, η ισχύς των παρόντων Όρων θα τερματιστεί, συμπεριλαμβανομένης, όχι αποκλειστικά, της άδειάς σας να χρησιμοποιείτε τις υπηρεσίες, εξαιρουμένων των παρακάτω ενοτήτων που θα συνεχίσουν να ισχύουν: Αποζημίωση, αποποίηση ευθυνών, περιορισμός της ευθύνης, διάφορα.
 
-8. #### Indemnification
+8. #### Αποζημίωση
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Συμφωνείτε να υπερασπίζεστε, να αποζημιώνετε και να μην εγείρετε απαιτήσεις εναντίον της Mozilla, των εργολάβων, των χορηγών άδειας και των συνεργατών της, καθώς και των αντίστοιχων διευθυντών, στελεχών, εργαζομένων και πρακτόρων τους ("Αποζημιούμενα μέρη"), από και έναντι οποιωνδήποτε αξιώσεων και δαπανών τρίτων, συμπεριλαμβανομένων δικηγορικών αμοιβών, που οφείλονται σε ή προκύπτουν από τη χρήση εκ μέρους σας των Υπηρεσιών (συμπεριλαμβανομένης, όχι αποκλειστικά, από την αποστολή οποιουδήποτε περιεχομένου εκ μέρους σας).
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Αποποίηση ευθυνών, περιορισμός της ευθύνης
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    ΟΙ ΥΠΗΡΕΣΙΕΣ ΠΑΡΕΧΕΤΑΙ "ΩΣ ΕΧΟΥΝ", ΜΕ ΟΛΑ ΤΑ ΣΦΑΛΜΑΤΑ. ΣΤΗΝ ΕΚΤΑΣΗ ΠΟΥ ΕΠΙΤΡΕΠΕΤΑΙ ΑΠΟ ΤΟ ΝΟΜΟ, Η MOZILLA ΚΑΙ ΤΑ ΑΠΟΖΗΜΙΟΥΜΕΝΑ ΜΕΡΗ ΑΠΟΠΟΙΟΥΝΤΑΙ ΔΙΑ ΤΟΥ ΠΑΡΟΝΤΟΣ ΟΠΟΙΕΣΔΗΠΟΤΕ ΕΓΓΥΗΣΕΙΣ, ΡΗΤΕΣ Ή ΣΙΩΠΗΡΕΣ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΟΧΙ ΑΠΟΚΛΕΙΣΤΙΚΑ, ΕΓΓΥΗΣΕΩΝ ΟΤΙ ΟΙ ΥΠΗΡΕΣΙΕΣ ΕΙΝΑΙ ΕΛΕΥΘΕΡΕΣ ΣΦΑΛΜΑΤΩΝ, ΕΜΠΟΡΕΥΣΙΜΕΣ, ΚΑΤΑΛΛΗΛΕΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΟ ΣΚΟΠΟ ΚΑΙ ΟΤΙ ΔΕΝ ΑΠΟΤΕΛΟΥΝ ΠΑΡΑΒΙΑΣΗ. ΦΕΡΕΤΕ ΟΛΟ ΤΟΝ ΚΙΝΔΥΝΟ ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΕΠΙΛΟΓΗ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΟΥΣ ΣΚΟΠΟΥΣ ΣΑΣ ΚΑΙ ΩΣ ΠΡΟΣ ΤΗΝ ΠΟΙΟΤΗΤΑ ΚΑΙ ΑΠΟΔΟΣΗ ΤΩΝ ΥΠΗΡΕΣΙΩΝ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΟΧΙ ΑΠΟΚΛΕΙΣΤΙΚΑ, ΤΟΥ ΚΙΝΔΥΝΟΥ ΤΟ ΠΕΡΙΕΧΟΜΕΝΟ ΣΑΣ ΝΑ ΔΙΑΓΡΑΦΕΙ Ή ΝΑ ΚΑΤΑΣΤΡΑΦΕΙ Ή ΝΑ ΑΠΟΚΤΗΣΕΙ ΠΡΟΣΒΑΣΗ ΣΤΟ ΛΟΓΑΡΙΑΣΜΟ ΣΑΣ ΚΑΠΟΙΟΣ ΤΡΙΤΟΣ. ΑΥΤΟΣ Ο ΠΕΡΙΟΡΙΣΜΟΣ ΘΑ ΙΣΧΥΕΙ ΑΝΕΞΑΡΤΗΤΑ ΑΠΟ ΤΗΝ ΑΠΟΤΥΧΙΑ ΤΟΥ ΒΑΣΙΚΟΥ ΣΚΟΠΟΥ ΟΠΟΙΑΣΔΗΠΟΤΕ ΕΠΑΝΟΡΘΩΤΙΚΗΣ ΕΝΕΡΓΕΙΑΣ. ΟΡΙΣΜΕΝΕΣ ΔΙΚΑΙΟΔΟΣΙΕΣ ΔΕΝ ΕΠΙΤΡΕΠΟΥΝ ΤΗΝ ΕΞΑΙΡΕΣΗ Ή ΤΟΝ ΠΕΡΙΟΡΙΣΜΟ ΤΩΝ ΣΙΩΠΗΡΩΝ ΕΓΓΥΗΣΕΩΝ, ΣΥΝΕΠΩΣ Η ΠΑΡΟΥΣΑ ΑΠΟΠΟΙΗΣΗ ΕΝΔΕΧΟΜΕΝΩΣ ΝΑ ΜΗΝ ΙΣΧΥΕΙ ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΣΑΣ.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    ΜΕ ΕΞΑΙΡΕΣΗ ΤΑ ΟΣΑ ΑΠΑΙΤΟΥΝΤΑΙ ΑΠΟ ΤΟ ΝΟΜΟ, Η MOZILLA ΚΑΙ ΤΑ ΑΠΟΖΗΜΙΟΥΜΕΝΑ ΜΕΡΗ ΔΕΝ ΘΑ ΦΕΡΟΥΝ ΕΥΘΥΝΗ ΓΙΑ ΟΠΟΙΕΣΔΗΠΟΤΕ ΕΜΜΕΣΕΣ, ΕΙΔΙΚΕΣ, ΠΕΡΙΣΤΑΣΙΑΚΕΣ, ΘΕΤΙΚΕΣ, ΑΠΟΘΕΤΙΚΕΣ Ή ΠΑΡΑΔΕΙΓΜΑΤΙΚΟΥ ΧΑΡΑΚΤΗΡΑ ΖΗΜΙΕΣ ΠΟΥ ΠΡΟΚΥΠΤΟΥΝ ΑΠΟ Ή ΠΟΥ ΣΧΕΤΙΖΟΝΤΑΙ ΜΕ ΟΠΟΙΟΝΔΗΠΟΤΕ ΤΡΟΠΟ ΜΕ ΤΟΥΣ ΠΑΡΟΝΤΕΣ ΟΡΟΥΣ Ή ΤΗ ΧΡΗΣΗ Ή ΤΗΝ ΑΔΥΝΑΜΙΑ ΧΡΗΣΗΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΟΧΙ ΑΠΟΚΛΕΙΣΤΙΚΑ, ΑΜΕΣΩΝ ΚΑΙ ΕΜΜΕΣΩΝ ΖΗΜΙΩΝ ΑΠΟ ΑΠΩΛΕΙΑ ΦΗΜΗΣ, ΔΙΑΚΟΠΕΣ ΕΡΓΑΣΙΩΝ, ΑΠΩΛΕΙΑ ΚΕΡΔΩΝ, ΑΠΩΛΕΙΑ ΔΕΔΟΜΕΝΩΝ ΚΑΙ ΑΣΤΟΧΙΑ Ή ΔΥΣΛΕΙΤΟΥΡΓΙΑ ΥΠΟΛΟΓΙΣΤΗ, ΑΚΟΜΑ ΚΑΙ ΑΝ ΕΧΕΙ ΔΟΘΕΙ ΠΡΟΕΙΔΟΠΟΙΗΣΗ ΓΙΑ ΤΟ ΕΝΔΕΧΟΜΕΝΟ ΤΩΝ ΕΝ ΛΟΓΩ ΖΗΜΙΩΝ ΚΑΙ ΑΝΕΞΑΡΤΗΤΑ ΑΠΟ ΤΗ ΘΕΩΡΙΑ (ΒΑΣΕΙ ΣΥΜΒΑΣΗΣ, ΑΔΙΚΟΠΡΑΞΙΑΣ Ή ΑΛΛΩΣ) ΣΤΗΝ ΟΠΟΙΑ ΒΑΣΙΖΕΤΑΙ Η ΕΝ ΛΟΓΩ ΑΞΙΩΣΗ. Η ΣΥΛΛΟΓΙΚΗ ΕΥΘΥΝΗ ΤΗΣ MOZILLA ΚΑΙ ΤΩΝ ΑΠΟΖΗΜΙΟΥΜΕΝΩΝ ΜΕΡΩΝ ΒΑΣΕΙ ΤΟΥ ΠΑΡΟΝΤΟΣ ΣΥΜΦΩΝΗΤΙΚΟΥ ΔΕΝ ΘΑ ΥΠΕΡΒΑΙΝΕΙ ΤΑ $500 (ΠΕΝΤΑΚΟΣΙΑ ΔΟΛΑΡΙΑ Η.Π.Α.). ΟΡΙΣΜΕΝΕΣ ΔΙΚΑΙΟΔΟΣΙΕΣ ΔΕΝ ΕΠΙΤΡΕΠΟΥΝ ΤΗΝ ΕΞΑΙΡΕΣΗ Ή ΤΟΝ ΠΕΡΙΟΡΙΣΜΟ ΤΩΝ ΘΕΤΙΚΩΝ, ΑΠΟΘΕΤΙΚΩΝ Ή ΕΙΔΙΚΩΝ ΖΗΜΙΩΝ, ΣΥΝΕΠΩΣ Η ΠΑΡΟΥΣΑ ΕΞΑΙΡΕΣΗ ΚΑΙ ΠΕΡΙΟΡΙΣΜΟΣ ΕΝΔΕΧΟΜΕΝΩΣ ΝΑ ΜΗΝ ΙΣΧΥΟΥΝ ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΣΑΣ.
 
-10. #### Modifications to these Terms
+10. #### Τροποποιήσεις στους παρόντες Όρους
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Η Mozilla μπορεί να ενημερώνει κατά καιρούς τους παρόντες Όρους ώστε να αντιμετωπίζεται μια νέα δυνατότητα των Υπηρεσιών ή να διευκρινίζεται μια πρόβλεψη. Οι ενημερωμένοι Όροι θα αναρτώνται online. Αν οι αλλαγές είναι ουσιαστικές, θα ανακοινώνουμε την ενημέρωση μέσω των συνήθων καναλιών της Mozilla, όπως μέσω αναρτήσεων σε blog και μέσω forum. Συνεχίζοντας τη χρήση των Υπηρεσιών μετά την ημερομηνία θέσης σε ισχύ των εν λόγω αλλαγών αποτελεί αποδοχή εκ μέρους σας των εν λόγω αλλαγών. Για να διευκολύνεστε στον έλεγχό σας, θα αναρτούμε μια ημερομηνία θέσης σε ισχύ στο επάνω μέρος αυτής της σελίδας.
 
-11. #### Miscellaneous
+11. #### Διάφορα
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    Οι παρόντες Όροι αποτελούν τη συνολική συμφωνία ανάμεσα σε εσάς και Mozilla όσον αφορά τις Υπηρεσίες και διέπονται από τους νόμους της πολιτείας της Καλιφόρνια, Η.Π.Α., εξαιρουμένων των διατάξεων περί διένεξης νόμων. Αν οποιοδήποτε τμήμα των παρόντων Όρων κριθεί μη έγκυρο ή μη εφαρμόσιμο, τα υπόλοιπα τμήματα εξακολουθούν να διατηρούν πλήρως την ισχύ τους. Σε περίπτωση διένεξης μεταξύ μιας μεταφρασμένης έκδοσης των παρόντων όρων και της έκδοσης στην αγγλική γλώσσα, θα υπερισχύει η έκδοση στην αγγλική γλώσσα.
 
-12. #### Contact Us
+12. #### Επικοινωνήστε μαζί μας
 
-    Contact Mozilla at
+    Επικοινωνήστε με τη Mozilla στη διεύθυνση
 
     <address>
       Mozilla Corporation 
       Attn: Mozilla – Legal Notices 
       331 E. Evelyn Ave., 
-      Mountain View, CA 94041 
+      Mountain View, CA 94041, Η.Π.Α. 
     </address>
