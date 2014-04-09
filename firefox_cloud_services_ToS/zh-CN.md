@@ -1,72 +1,72 @@
-Last Updated March 26, 2014
+最后更新于 2014 年 3 月 26 日
 
-#### Summary
+#### 摘要
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+本文首先对下文条款进行了概括。本摘要旨在帮助您了解各项条款，但请务必阅读整个文件，因为当您同意时，即表示您接受所有条款，而不仅是接受本摘要。
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Firefox Cloud Services（以下简称“Services”）是 Mozilla 向您提供的一套服务。 
+- 服务以“现状”提供，并不以任何形式提供担保。对于因您使用 Services 造成的任何损害，Mozilla 承担的责任极其有限。
 
-#### Terms of Service
+#### 服务条款
 
-1. #### Introduction
+1. #### 简介
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    下列服务条款（以下简称“<u>条款</u>”）管辖您对 Firefox Cloud Services — Mozilla 提供的一套在线服务（以下简称“Services”）的使用。
 
-2. #### Firefox Accounts
+2. #### Firefox 帐户
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    要使用服务，您将需要创建一个 Firefox 帐户。在注册过程中，系统将提示您设置密码。您有责任对自己的密码保密，并对通过 Firefox 帐户进行的活动负责。对于因您的 Firefox 帐户遭到未经授权使用而造成的任何损失，Mozilla 概不负责。
 
-3. #### Features
+3. #### 功能
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Firefox Sync 允许您跨设备访问存储在 Firefox 中的信息，包括您的选项卡、智能地址栏、密码、书签和浏览器首选项。您可以通过 Firefox 的“工具”部分启用和禁用 Firefox Sync。
 
-4. #### Privacy Policy
+4. #### 隐私政策
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.  
+    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services 隐私声明</a>说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla 隐私政策</a>的规定使用通过 Services 接收的信息。  
     
 
-5. #### Your Content in our Services
+5. ####  Services 中您的内容
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    您可能会上传内容作为 Services 功能的一部分。上传内容，即表示您授予我们根据 Services 规定使用您提供的内容的，非独占的、免版税的、全球性许可。您谨此确认并保证，您的内容不会侵犯任何第三方的权利并遵守 Mozilla 提出的任何内容准则。
 
-6. #### Mozilla's Proprietary Rights
+6. #### Mozilla 的专有权利
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla 不在 Services 中向您授予本文条款未明确规定的任何知识产权。例如，本文条款不提供使用 Mozilla 的任何版权、商标名称、商标、服务标识、徽标、域名或其他独特品牌特征的权利。 Services 将按照当前版本的 <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla 公共许可</a>进行分发并受其约束。
 
-7. #### Term; Termination
+7. #### 期限；终止
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    在您或 Mozilla 终止之前，本文条款将一直适用。您可以因为任何原因，选择通过停用 Firefox 帐户和停止使用 Services 随时终止条款。
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    我们可能会随时因故暂停或终止您访问 Services，包括但不限于我们有理由认为发生以下情况：(i) 您违反了本文条款；(ii) 您给我们造成了风险或潜在的法律风险；(iii) 我们向您提供 Services 不再具有商业利益。我们将通过与您的 Firefox 帐户相关联的电子邮件地址或在您下次尝试访问服务时尽合理努力通知您。
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    在所有上述情况下，本文条款应终止，包括但不限于您使用 Services 的许可，但下列部分仍应继续适用：赔偿、免责声明、责任限制、杂项。
 
-8. #### Indemnification
+8. #### 赔偿
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    您同意对因您使用 Services 引起的或与之相关（包括但不限于通过您上传的任何内容）的任何和所有第三方索赔和费用（包括律师费），为 Mozilla 及其承包商、赞助商、许可方和合作伙伴以及各自的总监、主管、员工和代理（以下简称“受补偿方”）作出抗辩和赔偿并使他们免受损害。
 
-9. #### Disclaimer; Limitation of Liability
+9. #### 免责声明；责任限制
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+     SERVICES 连同本身具有的一切瑕疵按“现状”提供。在法律容许的范围内，MOZILLA 和受补偿方谨此声明不承担所有明示或暗示担保的责任，包括但不限于 SERVICES 无瑕疵、适销、适用于特殊目的和不侵权担保。您自行承担选择使用 SERVICES 及 SERVICES 质量和性能的全部风险，包括但不限于您的内容被删除或损坏或他人访问您的帐户的风险。即使任何补救措施未能达到其基本目的，本条限制仍将适用。某些司法辖区可能不允许排除或限制暗示担保，因此，本免责声明可能对您不适用。
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    除法律另有规定外，对于因本文条款或者使用或无法使用 SERVICES 或以任何相关形式所产生的任何间接、特殊、附带、继发或惩罚性损害（包括但不限于商誉损失、营业中断、利润损失、数据丢失和计算机失灵或故障或所产生的直接或间接损害），MOZILLA 和受赔偿方概不负责，即使事先被告知发生此类损害的可能性，且不论索偿所依据的理据（合约、侵权或其他理由）。MOZILLA 和受补偿方依据本协议所负的全部责任将不超过 500 美元（五百美元）。某些辖区不允许排除或限制附带、继发或特殊损害，因此本条排除和限制可能对您不适用。
 
-10. #### Modifications to these Terms
+10. #### 对本文条款的修改
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla 可随时更新本文条款，以体现 Services 的新功能或澄清规定。更新的条款将在线发布。如有重大变更，我们将通过 Mozilla 对于此类通告的正常渠道（如博客文章和论坛）公布更新。您在此类变更生效日期之后继续使用 Services，即表示您接受此类变更。为方便您查阅，我们将在此页顶部发布生效日期。
 
-11. #### Miscellaneous
+11. #### 杂项
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    本协议条款构成您与 Mozilla 之间就 Services 签署的完整协议，受美国加利福尼亚州法律的管辖，冲突的法律规定除外。如果本协议条款的任何部分被认定为无效或不能执行，其余部分仍将保持全部效力。如果本协议条款的翻译版本与英文版本存在冲突，应以英文版本为准。
 
-12. #### Contact Us
+12. #### 联系我们
 
-    Contact Mozilla at
+    Mozilla 联系地址
 
     <address>
       Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
+      Attn:Mozilla – Legal Notices 
       331 E. Evelyn Ave., 
       Mountain View, CA 94041 
     </address>
