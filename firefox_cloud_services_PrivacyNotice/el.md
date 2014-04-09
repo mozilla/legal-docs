@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Πολιτική απορρήτου υπηρεσιών Firefox Cloud Services
 
-March 26, 2014
+26 Μαρτίου 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Το απόρρητο των προσωπικών σας στοιχείων είναι προτεραιότητά μας. Όταν οι υπηρεσίες Firefox Cloud Services (οι "Υπηρεσίες") στέλνουν πληροφορίες στην Mozilla (δηλ. σε εμάς), η [Πολιτική απορρήτου της Mozilla](http://www.mozilla.org/en-US/privacy/) περιγράφει με ποιον τρόπο θα χρησιμοποιήσουμε αυτές τις πληροφορίες.
 
-## Things you should know:
+## Τι πρέπει να γνωρίζετε:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Μας στέλνετε δεδομένα διαφόρων τύπων, ανάλογα με τις δυνατότητες των Υπηρεσιών που χρησιμοποιείτε.  Μάθετε περισσότερα.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Λογαριασμός Firefox**: Όταν εγγράφεστε για έναν λογαριασμό, λαμβάνουμε τη διεύθυνση email και τον κωδικό πρόσβασής σας. 
+* **Sync**: Αν κάνετε χρήση του Sync (Συγχρονισμός), λαμβάνουμε διάφορες πληροφορίες για να συγχρονίσουμε τις καρτέλες, τη γραμμή διευθύνσεων, τους κωδικούς πρόσβασης, τους σελιδοδείκτες, τις προτιμήσεις του προγράμματος περιήγησης και άλλα δεδομένα μεταξύ συσκευών.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Χρησιμοποιούμε cookies, διαφανή GIF και άλλες τεχνολογίες web για να προσφέρουμε και να βελτιώνουμε τα προϊόντα και τις υπηρεσίες μας.  Μάθετε περισσότερα.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Online εργαλεία δεδομένων**: Χρησιμοποιούμε “online εργαλεία δεδομένων” όπως τα cookies, τα διαφανή GIF και τα web beacons, για να παρέχουμε τις λειτουργίες των προϊόντων και των υπηρεσιών μας. Για παράδειγμα, τα cookies βοηθούν στην είσοδο και τον έλεγχο ταυτότητας των χρηστών. Επίσης, χρησιμοποιούμε αυτά τα ίδια εργαλεία για να συλλέγουμε δεδομένα για τη βελτίωση των προϊόντων και των υπηρεσιών μας. Για παράδειγμα, χρησιμοποιούμε τα cookies για να παρέχουμε αναλυτικά στοιχεία web. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Επιλογές**: Μπορείτε να μάθετε περισσότερα σχετικά με το τι είναι τα cookies και με τον τρόπο διαχείρισης των cookies, αν κάνετε κλικ [εδώ](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) Σημειώστε ότι ορισμένες λειτουργίες των προϊόντων και των υπηρεσιών, δικών μας και άλλων, ίσως να μην λειτουργούν σωστά χωρίς τη βοήθεια των cookies.
