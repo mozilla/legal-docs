@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Zasady prywatności usług Firefox Cloud Services
 
-March 26, 2014
+26 marca 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli usługi Firefox Cloud Services („Usługi”) obejmują przesyłanie informacji do firmy Mozilla (to my), [Polityka prywatności firmy Mozilla](http://www.mozilla.org/en-US/privacy/) reguluje wykorzystywanie takich danych przez nas.
 
-## Things you should know:
+## Co warto wiedzieć:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanych funkcji Usług.  Więcej informacji.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Konto Firefox**: Kiedy użytkownik dokona rejestracji w celu uzyskania konta, otrzymujemy informacje obejmujące jego adres e-mail i utworzone hasło. 
+* **Funkcja Sync**: Jeśli użytkownik korzysta z funkcji Sync, otrzymujemy określone informacje umożliwiające synchronizowanie kart, dodatku awesome bar, haseł, zakładek, preferencji przeglądarki i innych danych między różnymi urządzeniami.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Korzystamy z ciasteczek, przezroczystych plików GIF i innych technologii internetowych, aby ulepszać nasze produkty i usługi.  Więcej informacji.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Narzędzia obsługi danych w Internecie**: Korzystamy z „narzędzi obsługi danych w Internecie”, takich jak ciasteczka, przezroczyste pliki GIF i internetowe sygnały nawigacyjne, aby zapewniać określoną funkcjonalność naszych produktów i usług. Na przykład ciasteczka służą do obsługi logowania się i uwierzytelniania użytkowników. Korzystamy również z tych samych narzędzi, aby ulepszać nasze produkty i usługi. Na przykład używamy ciasteczek podczas analizy ruchu internetowego. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Opcje**: Więcej informacji na temat ciasteczek i zarządzania nimi w przeglądarce Firefox można uzyskać, klikając [tutaj](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Należy pamiętać, że określone funkcje naszych produktów i produktów innych firm mogą działać nieprawidłowo bez obsługi ciasteczek.
