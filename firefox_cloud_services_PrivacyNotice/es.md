@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Aviso de privacidad de Firefox Cloud Services
 
-March 26, 2014
+26 de marzo de 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Nos importa su privacidad. El uso que hacemos de la información que Firefox Cloud Services (en adelante, los "Servicios") envía a Mozilla (es decir, a nosotros) se recoge en la [Política de privacidad de Mozilla](http://www.mozilla.org/en-US/privacy/).
 
-## Things you should know:
+## Aspectos que debe conocer:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Usted nos envía distintos tipos de datos, dependiendo de las funciones de los Servicios que utilice.  Más información.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Cuenta de Firefox**: Cuando crea una cuenta, recibimos su dirección de correo electrónico y contraseña. 
+* **Sync**: Si utiliza Sync, recibiremos información diversa que nos permitirá sincronizar sus pestañas, su barra alucinante, sus contraseñas, sus marcadores, sus preferencias de navegación y otros datos en los dispositivos.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Utilizamos cookies, GIF transparentes y otras tecnologías web para ofrecer y mejorar nuestros productos y servicios.  Más información.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Herramientas de datos en línea**: Utilizamos "herramientas de datos en línea", por ejemplo, cookies, GIF transparentes y balizas web, para que nuestros productos y servicios cuenten con una funcionalidad total. Por ejemplo, las cookies colaboran en el inicio de sesión y la autenticación del usuario. Además, utilizamos estas mismas herramientas para recopilar datos con el fin de mejorar nuestros productos y servicios. Por ejemplo, las cookies nos permiten realizar análisis web. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Opciones**: Para obtener más información sobre las cookies y aprenda a gestionarlas en Firefox, haga clic [aquí](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Tenga en cuenta que es posible que algunas características de nuestros productos y servicios, y de los de terceros, no funcionen correctamente si no se utilizan las cookies.
