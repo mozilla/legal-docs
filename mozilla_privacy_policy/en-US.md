@@ -1,6 +1,6 @@
 # Mozilla Privacy Policy
 
-February 19, 2014
+April 15, 2014
 {: datetime="2014-02-19" }
 
 Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. Our Product Privacy Notices are more specific with respect to how each product and service receives information, how we use it, and your choices. 
@@ -47,6 +47,6 @@ We're a global organization and our computers are in several different places ar
 
 If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](http://www.mozilla.org/en-US/privacy/#contact) to have your child's information removed.
 
-## What if we change this policy?
+## What if we change this privacy policy or any of our privacy notices?
 
-We may need to change this policy and when we do, we'll notify you.
+We may need to change this policy and our notices.  The updates will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
