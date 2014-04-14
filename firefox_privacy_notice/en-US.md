@@ -1,13 +1,13 @@
 # Firefox Browser Privacy Notice
 
-March 21, 2014
+April 15, 2014
 {: datetime="2014-03-21" }
 
 We care about your privacy. When Firefox sends information to Mozilla (thatâ€™s us), our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
 ## Things you should know
 
-Firefox automatically connects to us and our service providers to provide the features below. 
+Firefox automatically connects to us and our service providers to provide updates, security, Snippets, Firefox Health Report and other features. 
 
 * Browser and add-ons updates {: #auto-updates }
 
