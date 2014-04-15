@@ -1,7 +1,7 @@
 # Websites Privacy Notice
 
-March 21, 2014
-{: datetime="2014-03-21" }
+April 15, 2014
+{: datetime="2014-04-15" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
@@ -22,12 +22,14 @@ We may receive personal information from you based on your interaction with us o
 
 ---------------------------------------
 
-We use cookies, clear GIFs, web analytics, and IP addresses for functionality and to improve our products, services, and communications. 
+We use cookies, clear GIFs, third party web analytics, and IP addresses for functionality and to improve our products, services, and communications. 
 {: #data-tools }
 
 * **Cookies & IP addresses**: We use these to enhance functionality of certain products and services. For example, cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on websites that use Persona.  IP addresses are used to customize content for your specific country.
 
-* **Online Data Tools**: We use clear GIFs and web analytics to understand in the aggregate how users engage with our products, services, and communications on our websites, online campaigns, snippets, devices, and other platforms.
+* **Online Data Tools**: We use clear GIFs and web analytics to understand in the aggregate how users engage with our products, services, and communications on our websites, online campaigns, snippets, devices, and other platforms. 
+
+* **Third party Services** We use third party services provided by Google Analytics and Optimizely.  They use cookies, IP addresses, and online data tools in relation to our websites.  
 
 ---------------------------------------
 
@@ -36,11 +38,11 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
 
-* **Do Not Track**: You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.
+* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.  
 
-* **Email**: Our marketing communications are optional to receive and you can unsubscribe at any time. You can disable the functionality of clear GIFs by viewing emails from us in â€œtext onlyâ€ format.
+* **Email**: Our marketing communications are optional to receive and you can unsubscribe at any time. You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
 
-* **Google Analytic**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
+* **Google Analytics**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
 
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
 
