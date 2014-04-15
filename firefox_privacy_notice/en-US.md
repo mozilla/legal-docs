@@ -1,7 +1,7 @@
 # Firefox Browser Privacy Notice
 
 April 15, 2014
-{: datetime="2014-03-21" }
+{: datetime="2014-04-15" }
 
 We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
