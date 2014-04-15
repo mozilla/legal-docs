@@ -1,9 +1,9 @@
 # Mozilla Privacy Policy
 
 April 15, 2014
-{: datetime="2014-02-19" }
+{: datetime="2014-04-15" }
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. Our Product Privacy Notices are more specific with respect to how each product and service receives information, how we use it, and your choices. 
+Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. You can also read our product privacy notices and FAQs to get more detail with respect to each of our products and services. 
 
 ## What do we mean by "personal information?"
 
