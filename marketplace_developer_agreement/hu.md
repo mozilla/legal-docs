@@ -12,7 +12,7 @@ Jelen bevezető rész az alábbi felhasználási feltételek összefoglalása, c
 
 ## Bevezetés
 
-A Mozilla Corporation (székhely: 650 Castro St \#300, Mountain View, CA 94041, Amerikai Egyesült Államok, a továbbiakban „Mozilla” vagy „Mi”) elkötelezett azért, hogy az interneten biztosított legyen a szabad választás és az innováció lehetősége. Ennek érekében alkottuk meg a „Firefox Marketplace” elnevezésű, bárki számára elérhető weboldalt, ahol Önnek lehetősége van a saját Marketplace Tartalmát felkínálni felhasználóknak, hogy azok azt saját eszközeiken használhassák.
+A Mozilla Corporation (székhely: 331 E. Evelyn Avenue, Mountain View, CA 94041, Amerikai Egyesült Államok, a továbbiakban „Mozilla” vagy „Mi”) elkötelezett azért, hogy az interneten biztosított legyen a szabad választás és az innováció lehetősége. Ennek érekében alkottuk meg a „Firefox Marketplace” elnevezésű, bárki számára elérhető weboldalt, ahol Önnek lehetősége van a saját Marketplace Tartalmát felkínálni felhasználóknak, hogy azok azt saját eszközeiken használhassák.
 
 ## Definíciók
 

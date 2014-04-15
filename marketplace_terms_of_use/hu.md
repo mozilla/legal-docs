@@ -12,7 +12,7 @@ Jelen bevezető rész az alábbi felhasználási feltételek összefoglalása, c
 
 ### Bevezetés
 
-A Mozilla (Mozilla Corporation, 650 Castro Street, Suite 300, Mountain View, CA 94041) elkötelezett azért, hogy az Interneten biztosított legyen a szabad választás és az innováció lehetősége. E célból alkottuk meg a szabadon elérhető Firefox Marketplace-t, amely lehetővé teszi, hogy a Fejlesztők az Alkalmazásaikat és Kiegészítőiket eljuttassák a felhasználókhoz, akik ezeket bármely olyan készüléken használhassák, amelyről elérhető a világháló.
+A Mozilla (Mozilla Corporation, 331 E. Evelyn Avenue, Mountain View, CA 94041) elkötelezett azért, hogy az Interneten biztosított legyen a szabad választás és az innováció lehetősége. E célból alkottuk meg a szabadon elérhető Firefox Marketplace-t, amely lehetővé teszi, hogy a Fejlesztők az Alkalmazásaikat és Kiegészítőiket eljuttassák a felhasználókhoz, akik ezeket bármely olyan készüléken használhassák, amelyről elérhető a világháló.
 
 A Firefox Marketplace használata kizárólag a jelen Felhasználási Feltételekben foglalt feltételekkel és előírásokkal, továbbá a kapcsolódó, jelen Felhasználási Feltételekben vagy a Firefox Marketplace-en hivatkozott Firefox Marketplace szabályzatokkal összhangban történhet (ezekre a továbbiakban együttesen „Feltételekként” hivatkozunk).
 
@@ -84,7 +84,7 @@ A Mozilla Szerzői Jogi Ügynök, akinek részére a jogsértésekkel kapcsolato
 <address>
 A Vezető Jogtanácsos Irodája (Office of the General Counsel)
 Mozilla Corporation
-650 Castro Street, Suite 300
+331 E. Evelyn Avenue
 Mountain View, CA 94041
 Email: dmcanotice at mozilla pont com
 Telefonszám: +1-650-903-0800

@@ -12,7 +12,7 @@ Tato úvodní část je souhrnem podmínek uvedených níže. Jejím úkolem je 
 
 ## Úvod
 
-Společnost Mozilla Corporation, sídlem 650 Castro St \#300, Mountain View, CA 94041, Spojené státy americké („společnost Mozilla“, „my“) se zavázala nabízet výběr a inovaci na internetu. Proto jsme vytvořili Firefox Marketplace – veřejně dostupnou webovou stránku umožňující distribuci Obsahu Marketplace uživatelům k použití na jejich zařízeních.
+Společnost Mozilla Corporation, sídlem 331 E. Evelyn Avenue, Mountain View, CA 94041, Spojené státy americké („společnost Mozilla“, „my“) se zavázala nabízet výběr a inovaci na internetu. Proto jsme vytvořili Firefox Marketplace – veřejně dostupnou webovou stránku umožňující distribuci Obsahu Marketplace uživatelům k použití na jejich zařízeních.
 
 ## Definice
 

@@ -84,7 +84,7 @@ Mozilla-in Zastupnik za autorska prava koji će primati obaveštenja o tvrdnjama
 <address>
   Office of the General Counsel<br>
   Mozilla Corporation<br>
-  650 Castro Street, Suite 300<br>
+  331 E. Evelyn Avenue<br>
   Mountain View, CA 94041<br>
   Email: dmcanotice at mozilla dot com<br>
   Phone Number: [650-903-0800](tel:6509030800)<br>

@@ -12,7 +12,7 @@ Esta seção constitui um resumo dos termos abaixo e pretende ajudar sua compree
 
 ## Introdução
 
-A Mozilla Corporation , localizada em 650 Castro St \#300, Mountain View, CA 94041, Estados Unidos da América (“Mozilla”, “nos” ou “nós”) tem um compromisso com a promoção da escolha e inovação na web. Para tanto, criamos o “Firefox Marketplace” – um website disponível ao público, o qual permite que você distribua seu Conteúdo do Marketplace aos usuários, para serem usados em seus dispositivos.
+A Mozilla Corporation , localizada em 331 E. Evelyn Avenue, Mountain View, CA 94041, Estados Unidos da América (“Mozilla”, “nos” ou “nós”) tem um compromisso com a promoção da escolha e inovação na web. Para tanto, criamos o “Firefox Marketplace” – um website disponível ao público, o qual permite que você distribua seu Conteúdo do Marketplace aos usuários, para serem usados em seus dispositivos.
 
 ## Definições
 

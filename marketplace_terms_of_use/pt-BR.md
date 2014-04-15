@@ -173,7 +173,7 @@ notificações de reivindicação de infração é:
 <address>
   Diretor Jurídico<br>
   Mozilla Corporation<br>
-  650 Castro Street, Suite 300<br>
+  331 E. Evelyn Avenue<br>
   Mountain View, CA 94041<br>
   Email: dmcanotice arroba mozilla ponto com<br>
   Telefone: [650-903-0800](tel:6509030800)<br>

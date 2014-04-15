@@ -13,7 +13,7 @@ This top section is a summary of the terms below. It is provided as an aid to yo
 
 ### Introduction
 
-At Mozilla, we are committed to promoting choice and innovation on the web. That&rsquo;s why we created the Firefox Marketplace – a publicly available market that allowing developers to distribute their Apps or Add-ons to users for use on any device that can access the open web.
+At Mozilla, we are committed to promoting choice and innovation on the web. That&rsquo;s why we created the Firefox Marketplace – a publicly available market that allows developers to distribute their Apps or Add-ons to users for use on any device that can access the open web.
 
 Your use of the Firefox Marketplace is subject to the terms and conditions of this Terms of Use as well as the related Firefox Marketplace policies referred to in these Terms or in the Firefox Marketplace (we will refer to these collectively as the &ldquo;Terms&rdquo;).
 
@@ -98,7 +98,7 @@ Mozilla&rsquo;s designated Copyright Agent to receive notifications of claimed i
 <address>
   Office of the General Counsel<br>
   Mozilla Corporation<br>
-  650 Castro Street, Suite 300<br>
+  331 E. Evelyn Avenue<br>
   Mountain View, CA 94041<br>
   Email: dmcanotice at mozilla dot com<br>
   Phone Number: [650-903-0800](tel:6509030800)<br>

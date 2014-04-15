@@ -1,9 +1,9 @@
 # Websites Privacy Notice
 
 April 15, 2014
-{: datetime="2014-03-21" }
+{: datetime="2014-04-15" }
 
-We care about your privacy. When Mozilla (that’s us) collects information about you, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
 
 This privacy notice applies to Mozilla operated websites, which include the domains mozillians.org, mozilla.org, openbadges.org and webmaker.org. This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
 

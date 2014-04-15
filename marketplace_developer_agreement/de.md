@@ -12,7 +12,7 @@ Im folgenden Abschnitt finden Sie eine Zusammenfassung der weiter unten dargeste
 
 ## Einleitung
 
-Die Mozilla Corporation, Geschäftsadresse: 650 Castro St \#300, Mountain View, CA 94041, Vereinigte Staaten von Amerika, („Mozilla“, „uns“ oder „wir“) ist bestrebt, Wahlfreiheit und Innovation im Internet zu fördern. Zu diesem Zweck haben wir den „Firefox Marketplace“ geschaffen – eine für jedermann erreichbare Plattform, die Ihnen den Vertrieb Ihrer Marketplace-Inhalte an Nutzer zur Verwendung auf deren Endgeräten ermöglicht.
+Die Mozilla Corporation, Geschäftsadresse: 331 E. Evelyn Avenue, Mountain View, CA 94041, Vereinigte Staaten von Amerika, („Mozilla“, „uns“ oder „wir“) ist bestrebt, Wahlfreiheit und Innovation im Internet zu fördern. Zu diesem Zweck haben wir den „Firefox Marketplace“ geschaffen – eine für jedermann erreichbare Plattform, die Ihnen den Vertrieb Ihrer Marketplace-Inhalte an Nutzer zur Verwendung auf deren Endgeräten ermöglicht.
 
 ## Definitionen
 
