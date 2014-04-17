@@ -23,8 +23,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 4. #### Zásady ochrany soukromí
 
-    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.  
-    
+    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.
 
 5. #### Váš obsah na našich Službách
 
