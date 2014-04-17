@@ -24,7 +24,6 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 4. #### Pravila Privatnosti
 
     <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services obaveštenja o privatnosti</a> opisuju koje vrste informacija dobijamo od Vašeg korišćenja Usluga i na koji način koristimo te informacije. Koristimo informacije koje dobijamo preko Usluga na način na koji je to opisano u <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Pravilima Privatnosti</a>.
-    
 
 5. #### Vaš Sadržaj u Uslugama
 

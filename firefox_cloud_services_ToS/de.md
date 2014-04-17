@@ -23,8 +23,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 4. #### Datenschutzerklärung
 
-    Im <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services – Datenschutz-Hinweis</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.  
-    
+    Im <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services – Datenschutz-Hinweis</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.
 
 5. #### Ihre Inhalte in unseren Services
 

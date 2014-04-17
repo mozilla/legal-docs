@@ -23,8 +23,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 4. #### Polityka prywatności
 
-    Dokument <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Zasady prywatności usług Firefox Cloud Services</a> opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu <a href="http://www.mozilla.org/privacy/" target="_blank">Polityka prywatności firmy Mozilla</a>.  
-    
+    Dokument <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Zasady prywatności usług Firefox Cloud Services</a> opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu <a href="http://www.mozilla.org/privacy/" target="_blank">Polityka prywatności firmy Mozilla</a>.
 
 5. #### Zawartość użytkownika w naszych Usługach
 

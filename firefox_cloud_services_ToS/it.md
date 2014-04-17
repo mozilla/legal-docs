@@ -24,7 +24,6 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 4. #### Politica sulla privacy
 
     L'<a href="https://accounts-latest.dev.lcip.org/legal/privacy">Avviso sulla privacy nella pagina Firefox Cloud Services </a> descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella <a href="http://www.mozilla.org/privacy/" target="_blank">Politica sulla Privacy di Mozilla</a>.
-    
 
 5. #### Contenuti dell'utente nei nostri Servizi
 
