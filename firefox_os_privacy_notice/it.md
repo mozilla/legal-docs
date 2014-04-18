@@ -7,11 +7,12 @@ Per Mozilla, la privacy degli utenti è importante. La [Informativa sulla privac
 
 ## Cose da sapere
 
-Firefox OS si connette a Mozilla e ad altri soggetti per scaricare aggiornamenti e fornire servizi di localizzazione.
+Firefox OS si connette a noi e ad altri per fornire funzionalità di prodotto.
 {: #location-services }
 
 * Aggiornamenti: per scaricare aggiornamenti, Firefox OS si connette automaticamente a un servizio operato da o per conto del produttore del dispositivo dell’utente. Firefox OS cerca inoltre automaticamente gli aggiornamenti relativi alle app installate inviando una richiesta a Firefox Marketplace o, se l’utente ha installato l’app utilizzando un altro servizio, quelli relativi ai servizi dello sviluppatore di tale app.
 * Posizione: attivando i servizi di localizzazione, Firefox OS può utilizzare molteplici punti e soggetti che forniscono dati per individuare la posizione dell’utente, inclusi i provider di servizi di geolocalizzazione GPS, AGPS e altri. L’utente può disabilitare i servizi di localizzazione sul proprio dispositivo andando nelle “Impostazioni” di Firefox OS.
+* Attivazione iniziale: per poter fornire aggiornamenti e applicazioni appropriate, Firefox OS invia a Mozilla un unico ping di dati quando viene inizialmente attivato. [Ulteriori informazioni](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
