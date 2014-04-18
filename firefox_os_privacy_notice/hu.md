@@ -7,11 +7,12 @@ Fontos számunkra az Ön személyes adatainak védelme. Amikor a Firefox OS rés
 
 ## Amit tudnia érdemes:
 
-A Firefox OS kapcsolódik a Mozillához és másokhoz, annak érdekében, hogy frissítéseket és tartózkodási helyhez kapcsolódó szolgáltatásokat nyújtson, kivéve ha Ön kikapcsolta ezeket a funkciókat.
+A Firefox OS kapcsolódik a Mozillához és másokhoz, annak érdekében, hogy termékjellemzőkkel kapcsolatos szolgáltatásokat nyújtson.
 {: #location-services }
 
 * Frissítések: Annak érdekében, hogy mindig a legfrissebb verzió álljon rendelkezésre, a Firefox OS automatikusan rákapcsolódik egy szolgáltatásra, amelyet az Ön készülékének gyártója vagy annak megbízásából más nyújt. A Firefox OS ugyancsak automatikusan ellenőrzi a letöltött alkalmazásokhoz tartozó frissítéseket azáltal, hogy lekérdezést küld a Firefox Marketplace-nek vagy, ha az alkalmazást máshonnan töltötte le, annak az alkalmazásnak a fejlesztőjéhez.
 * Tartózkodási hely: Amikor bekapcsolja a tartózkodási hely meghatározására szolgáló szolgáltatást, a Firefox OS többféle adatforrást és szolgáltatást (ideértve a GPS-t, AGPS-t és más geolokalizációs szolgáltatást) használhat annak érdekében, hogy az Ön tartózkodási helye meghatározható legyen. A tartózkodási hely meghatározására szolgáló szolgáltatást a készülékén található Firefox OS „Beállítások” alkalmazásban tudja kikapcsolni.
+* Kezdeti aktiválás: A megfelelő frissítések és alkalmazások rendelkezésre bocsátásához a Firefox OS az első bekapcsoláskor egy egyszeri pinget küld a Mozillához. [További információ](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
