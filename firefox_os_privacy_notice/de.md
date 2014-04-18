@@ -7,11 +7,12 @@ Wir nehmen den Schutz Ihrer Daten sehr ernst. In unserer [Datenschutzerklärung]
 
 ## Dinge, die Sie wissen sollten
 
-Firefox OS verbindet sich mit uns und Dritten (wie etwa Ihrem Telekommunikationsanbieter, den jeweiligen Zahlungsdiensteanbietern, Ihrem Gerätehersteller oder dem App-Entwickler), um Updates und Standortdienste anbieten zu können.
+Firefox OS verbindet sich mit uns und Dritten, um Produktfunktionen anbieten zu können.
 {: #location-services }
 
 * Updates: Firefox OS verbindet sich automatisch mit dem von Ihrem Hersteller Ihres Endgeräts oder dem durch einen Dritten in dessen Auftrag betriebenen Dienst, um sich insoweit auf dem aktuellen Stand zu halten. Firefox OS überprüft auch, ob Updates für installierte Apps bereitstehen, indem eine entsprechende Anfrage an Firefox Marketplace gesendet wird. Haben Sie die App von einem anderen Ort als dem Firefox Marketplace installiert, wird die Anfrage an den entsprechenden App-Entwicklerdienst gesendet.
 * Standort: Wenn Sie die Standortdienste aktivieren und solche Dienste erlauben, kann Firefox OS verschiedene Datenpunkte und Einrichtungen verwenden, um Ihren Standort zu bestimmen, einschließlich GPS, AGPS sowie anderer Standortbestimmungsanbieter. Wenn Sie sich später entscheiden sollten, dass Sie solche Standortdienste nicht weiter nutzen möchten, können Sie die Standortdienste in der „Einstellungen“-App von Firefox OS auf Ihrem Endgerät deaktivieren.
+* Erste Aktivierung: Um geeignete Updates und Anwendungen anbieten zu können, sendet Firefox OS beim ersten Starten einen einmaligen Daten-Ping an Mozilla. [Weitere Informationen](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
