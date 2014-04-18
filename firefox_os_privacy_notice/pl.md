@@ -7,11 +7,12 @@ Mozilla dba o Państwa prywatność. Jeśli System Operacyjny Firefox przesyła 
 
 ## Co powinien wiedzieć Użytkownik
 
-System Operacyjny Firefox łączy się z Mozilla oraz innymi podmiotami w celu zapewnienia dostępu do uaktualnień oraz usług lokalizacji.
+System Operacyjny Firefox łączy się z firmą Mozilla oraz innymi podmiotami w celu zapewnienia dostępu do funkcji produktu.
 {: #location-services }
 
 * Uaktualnienia: Aby być na bieżąco ze wszystkimi uaktualnieniami, System Operacyjny Firefox automatycznie łączy się z usługą oferowaną przez lub w imieniu producenta urządzenia, z którego korzysta Użytkownik. System Operacyjny Firefox sprawdza także automatycznie dostępność uaktualnień dla zainstalowanych aplikacji poprzez przesłanie zapytania na platformę Firefox Marketplace albo, jeśli Użytkownik zainstalował aplikację pochodzącą z innego źródła, poprzez połączenie z usługami dostawcy tej aplikacji.
 * Lokalizacja: W przypadku uruchomienia przez Użytkownika usług lokalizacji, System Operacyjny Firefox może korzystać z wielu punktów danych oraz podmiotów w celu określenia lokalizacji Użytkownika, w tym GPS, AGPS i innych dostawców usług geolokacyjnych. Użytkownik może deaktywować usługi lokalizacji za pośrednictwem aplikacji „Ustawienia” Systemu Operacyjnego Firefox na swoim urządzeniu.
+* Pierwsza aktywacja: aby zapewnić dostęp do odpowiednich aktualizacji i aplikacji System Operacyjny Firefox przy pierwszym włączeniu wysyła jednorazowo do firmy Mozilla pakiet (ping) danych. [Więcej informacji](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
