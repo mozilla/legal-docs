@@ -1,6 +1,6 @@
 # Firefox Cloud Services Zásady ochrany osobních údajů
 
-26. března 2014
+26\. března 2014
 {: datetime="2014-03-26" }
 
 Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen „Služby”) zašle informace společnosti Mozilla (tedy nám), naše [Zásady ochrany osobních údajů Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak můžeme takové informace používat.
