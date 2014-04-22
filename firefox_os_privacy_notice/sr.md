@@ -7,11 +7,12 @@ Brinemo za Vašu privatnosti Kada Firefox OS šalje informacije Mozilla-i (to sm
 
 ## Šta treba da znate
 
-Firefox OS se povezuje sa nama i sa drugima kako bi obezbedio ažuriranja i usluge lociranja.
+Firefox OS se povezuje sa nama i sa drugima kako bi Vam obezbedio funkcije proizvoda.
 {: #location-services }
 
 * Ažuriranja: Kako bi stalno bio ažuriran, Firefox OS se automatski povezuje sa servisom koji se uređuje od strane ili u ime proizvođača Vašeg uređaja. Firefox OS takođe automatski proverava ažuriranja instaliranih aplikacija slanjem zahteva Firefox Marketplace-u ili, ako ste instalirali aplikaciju sa druge lokacije, servisu članova razvojnog tima za tu aplikaciju.
 * Lokacija: Kada uključite usluge lociranja, Firefox OS može koristiti više tačaka podataka i subjekata kako bi procenio Vašu lokaciju, uključujući pružaoce GPS, AGPS i drugih geolokacijskih usluga. Usluge lociranja možete isključiti u aplikaciji Firefox OS "Podešavanja" na svom uređaju.
+* Početna aktivacija: Kako bi obezbedio odgovarajuća ažuriranja i aplikacije, Firefox OS šalje Mozilla-i jednovremenski data ping prilikom prvog uključenja. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
