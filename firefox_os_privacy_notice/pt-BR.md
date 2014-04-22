@@ -7,11 +7,12 @@ Prezamos a sua privacidade. Quando o Sistema Operativo do Firefox envia informa�
 
 ## O que você deve saber
 
-O Sistema Operativo do Firefox conecta-se a nós e a outros, por forma a fornecer atualizações e serviços de localização.
+O Firefox OS conecta-se a nós e a outros para fornecer recursos de produtos.
 {: #location-services }
 
 * Atualizações: Para se manter atualizado, o Sistema Operativo do Firefox conecta-se automaticamente a um serviço operado por ou em nome do fabricante do aparelho. O Sistema Operativo do Firefox também verifica automaticamente se há atualizações para os aplicativos instalados através do envio de uma solicitação para o Firefox Marketplace ou, o aplicativo que você instalou a partir de outro local, que não os serviços do desenvolvedor do aplicativo.
 * Localização: Quando você liga os serviços de localização, o Sistema Operativo do Firefox pode usar vários dados e entidades para calcular sua localização, incluindo GPS, AGPS e outros prestadores de serviços de geolocalização. Você pode desativar os serviços de localização nos “Settings” do aplicativo do Sistema Operativo do Firefox no seu aparelho.
+* Ativação inicial: Para fornecer aplicativos e atualizações adequadas, o Firefox OS envia ao Mozilla um ping em tempo real, assim que ligar. [Saiba mais](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
