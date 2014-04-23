@@ -7,11 +7,12 @@ Nos preocupa su privacidad. Cuando Firefox OS envía información a Mozilla (nos
 
 ## Información que debe conocer
 
-Firefox OS se conecta con nosotros y otros proveedores con el fin de proporcionar información actualizada y servicios de localización.
+Firefox OS se conecta con nosotros y otros proveedores con el fin de proporcionar funciones del producto.
 {: #location-services }
 
 * Actualizaciones: Para mantenerse actualizado, Firefox OS se conecta automáticamente a un servicio operado por o en nombre del fabricante de su dispositivo. Firefox OS también comprueba automáticamente si hay actualizaciones para las aplicaciones instaladas mediante el envío de una solicitud a Firefox Marketplace o, si Ud. ha instalado una aplicación desde otro lugar, se comprobarán también los servicios de los desarrolladores de esa aplicación.
 * Localización: Al activar los servicios de localización, Firefox OS puede utilizar datos procedentes de distintos puntos y entidades para determinar su ubicación, entre ellos GPS, AGPS y otros proveedores de servicios de geolocalización. Puede desactivar los servicios de localización en la aplicación "Ajustes" de su dispositivo Firefox OS.
+* Activación inicial: Con el fin de proporcionar las actualizaciones y aplicaciones adecuadas, Firefox OS envía a Mozilla un ping de datos una sola vez al ponerse en funcionamiento inicialmente. [Encontrará más información en](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
