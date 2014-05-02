@@ -5,7 +5,7 @@ July 3, 2013
 This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
 - You must be at least 18 years old to have an account on the Marketplace or have your parent consent and supervise your use of the Marketplace.
-- Our use of your data will be in accordance with our [Firefox Marketplace privacy policy](/privacy-policy). Apps or Add-ons provided by others may have their own privacy policy.
+- Our use of your data will be in accordance with our [Firefox Marketplace privacy policy](/media/docs/privacy/bn-IN.html). Apps or Add-ons provided by others may have their own privacy policy.
 - Developers (not Mozilla) are solely responsible for each App or Add-on, including providing you with support.
 - Don&rsquo;t do anything illegal or that could hurt us or others.
 - We&rsquo;re not responsible for your use of the Firefox Marketplace or the actions of other users, including Developers.
@@ -67,11 +67,11 @@ To the extent some of the content on the Firefox Marketplace are covered by sepa
 
 ### Privacy
 
-You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).
+You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/bn-IN.html).
 
-Please see our [Privacy Policy](/privacy-policy) for more detail.
+Please see our [Privacy Policy](/media/docs/privacy/bn-IN.html) for more detail.
 
-The Firefox Marketplace [Privacy Policy](/privacy-policy) applies to the Firefox Marketplace but does not cover any Marketplace Content. You should check the privacy policy of a piece of Marketplace Content to discover the privacy practices concerning such Marketplace Content and be comfortable with them before purchasing, installing or using that Marketplace Content.
+The Firefox Marketplace [Privacy Policy](/media/docs/privacy/bn-IN.html) applies to the Firefox Marketplace but does not cover any Marketplace Content. You should check the privacy policy of a piece of Marketplace Content to discover the privacy practices concerning such Marketplace Content and be comfortable with them before purchasing, installing or using that Marketplace Content.
 
 If you believe that a Developer is not adhering to the [Firefox Marketplace Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement) or the Firefox Marketplace Terms of Use, please let us know through the &ldquo;Report Abuse&rdquo; link for the relevant Marketplace Content and we will investigate your request and take action as we think appropriate.
 

@@ -24,7 +24,7 @@ A Mozilla Corporation (székhely: 331 E. Evelyn Avenue, Mountain View, CA 94041,
 
 ## A Firefox Marketplace használatának feltételei
 
-Ön, mint Fejlesztő a Marketplace Tartalmának megosztása érdekében szabadon használhatja a Firefox Marketplace-t. A Firefox Marketplace használta során Ön köteles betartani a jelen Fejlesztői Szerződés feltételeit, a [Firefox Marketplace Felhasználási feltételeit](/terms-of-use), valamint a jelen szerződésben hivatkozott, és a Firefox Marketplace oldalán közzétett szabályzatokat, amelyek mindegyike megtalálható a jelen dokumentumban referenciaként (együttesen „Feltételek”).
+Ön, mint Fejlesztő a Marketplace Tartalmának megosztása érdekében szabadon használhatja a Firefox Marketplace-t. A Firefox Marketplace használta során Ön köteles betartani a jelen Fejlesztői Szerződés feltételeit, a [Firefox Marketplace Felhasználási feltételeit](/media/docs/terms/hu.html), valamint a jelen szerződésben hivatkozott, és a Firefox Marketplace oldalán közzétett szabályzatokat, amelyek mindegyike megtalálható a jelen dokumentumban referenciaként (együttesen „Feltételek”).
 
 ## A Feltételek elfogadása
 
@@ -34,7 +34,7 @@ A Firefox Marketplace fejlesztése és újabb funkciók bevezetése esetén szü
 
 ## Firefox Marketplace Adatvédelmi Szabályzat
 
-Ahhoz, hogy a Firefox Marketplace-en mint Fejlesztő regisztráljon és azt használja, Önnek személyes adatokat (mint például azonosítási vagy elérhetőségi adatok) kell megadnia a Mozilla részére. Az Ön személyes adatait a [Firefox Marketplace Adatvédelmi irányelvekben](/privacy-policy) foglaltak szerint kezeljük. A Firefox Marketplace bizonyos funkcióit külső szolgáltatók működtetik. Például külső szolgáltatók készítik az alkalmazásértékeléseket és dolgozzák fel az alkalmazásokkal kapcsolatos kifizetéseket. Ön vállalja, hogy az ilyen külső szolgáltatók részére megadott valamennyi információ pontos, naprakész és helytálló. A külső szolgáltatók saját adatvédelmi szabályzattal és használati feltételekkel rendelkeznek, amelyek elolvasása ajánlott.
+Ahhoz, hogy a Firefox Marketplace-en mint Fejlesztő regisztráljon és azt használja, Önnek személyes adatokat (mint például azonosítási vagy elérhetőségi adatok) kell megadnia a Mozilla részére. Az Ön személyes adatait a [Firefox Marketplace Adatvédelmi irányelvekben](/media/docs/privacy/hu.html) foglaltak szerint kezeljük. A Firefox Marketplace bizonyos funkcióit külső szolgáltatók működtetik. Például külső szolgáltatók készítik az alkalmazásértékeléseket és dolgozzák fel az alkalmazásokkal kapcsolatos kifizetéseket. Ön vállalja, hogy az ilyen külső szolgáltatók részére megadott valamennyi információ pontos, naprakész és helytálló. A külső szolgáltatók saját adatvédelmi szabályzattal és használati feltételekkel rendelkeznek, amelyek elolvasása ajánlott.
 
 ## A Firefox Marketplace üzemeltetése
 

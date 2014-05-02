@@ -24,7 +24,7 @@ Na qualidade de Desenvolvedor, você pode distribuir os Add-ons ou Apps (em conj
 
 ## Termos que Regem Seu Uso do Firefox Marketplace
 
-Na qualidade de desenvolvedor, você pode usar o Firefox Marketplace para facilitar a distribuição do seu Conteúdo do Marketplace. Seu uso do Firefox Marketplace está sujeito aos termos e condições deste Contrato de Desenvolvedor, aos [Termos de Uso do Firefox Marketplace](/terms-of-use) e às políticas do Firefox Marketplace referidas neste contrato e postadas no Firefox Marketplace, sendo que todas ficam incorporadas a este instrumento por referência (conjuntamente, os “Termos”).
+Na qualidade de desenvolvedor, você pode usar o Firefox Marketplace para facilitar a distribuição do seu Conteúdo do Marketplace. Seu uso do Firefox Marketplace está sujeito aos termos e condições deste Contrato de Desenvolvedor, aos [Termos de Uso do Firefox Marketplace](/media/docs/terms/pt-BR.html) e às políticas do Firefox Marketplace referidas neste contrato e postadas no Firefox Marketplace, sendo que todas ficam incorporadas a este instrumento por referência (conjuntamente, os “Termos”).
 
 ## Aceitação dos Termos
 
@@ -34,7 +34,7 @@ Na medida em que inovamos e introduzimos novas características para o Firefox M
 
 ## Política de Privacidade do Firefox Marketplace
 
-Você será obrigado a prestar informações sobre você (tais como informações de identificação ou contato) à Mozilla durante seu registro e uso do Firefox Marketplace na qualidade de Desenvolvedor. Suas informações serão usadas conforme descrito na [Política de Privacidade do Firefox Marketplace](/privacy-policy). Alguns recursos do Firefox Marketplace são operados por serviços de terceiros. Por exemplo, usamos fornecedores terceiros para gerar classificações de apps e para processar pagamentos de apps. Você concorda que qualquer informação fornecida a esses fornecedores terceiros serão sempre exatas, corretas e atualizadas. Os fornecedores terceiros possuem suas próprias políticas de privacidade e termos de uso, e o encorajamos a lê-las.
+Você será obrigado a prestar informações sobre você (tais como informações de identificação ou contato) à Mozilla durante seu registro e uso do Firefox Marketplace na qualidade de Desenvolvedor. Suas informações serão usadas conforme descrito na [Política de Privacidade do Firefox Marketplace](/media/docs/privacy/pt-BR.html). Alguns recursos do Firefox Marketplace são operados por serviços de terceiros. Por exemplo, usamos fornecedores terceiros para gerar classificações de apps e para processar pagamentos de apps. Você concorda que qualquer informação fornecida a esses fornecedores terceiros serão sempre exatas, corretas e atualizadas. Os fornecedores terceiros possuem suas próprias políticas de privacidade e termos de uso, e o encorajamos a lê-las.
 
 ## Administração do Firefox Marketplace
 

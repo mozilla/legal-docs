@@ -23,7 +23,7 @@ Lo Sviluppatore può distribuire Componenti aggiuntivi o App (collettivamente, i
 
 ## Condizioni d’uso del Firefox Marketplace
 
-Lo sviluppatore è invitato a utilizzare il Firefox Marketplace per favorire la distribuzione dei propri Contenuti del Marketplace. L’utilizzo del Firefox Marketplace è soggetto ai termini e alle condizioni del presente Contratto per lo Sviluppatore, alle [Condizioni d’uso del Firefox Marketplace](/terms-of-use) e ai regolamenti del Firefox Marketplace a cui si fa riferimento nel presente contratto e nel Firefox Marketplace stesso (collettivamente, le “Condizioni”).
+Lo sviluppatore è invitato a utilizzare il Firefox Marketplace per favorire la distribuzione dei propri Contenuti del Marketplace. L’utilizzo del Firefox Marketplace è soggetto ai termini e alle condizioni del presente Contratto per lo Sviluppatore, alle [Condizioni d’uso del Firefox Marketplace](/media/docs/terms/it.html) e ai regolamenti del Firefox Marketplace a cui si fa riferimento nel presente contratto e nel Firefox Marketplace stesso (collettivamente, le “Condizioni”).
 
 ## Accettazione delle Condizioni
 
@@ -33,7 +33,7 @@ Dato che innoviamo e inseriamo nuove funzioni per il Firefox Marketplace, potreb
 
 ## Informativa sulla Privacy del Firefox Marketplace
 
-All’utente è richiesto di fornire dati personali (come un identificativo o un recapito) nell’ambito della registrazione al Firefox Marketplace e del suo utilizzo in qualità di Sviluppatore. I gestori dei pagamenti integrati potranno inoltre richiedere di fornire informazioni sui pagamenti. A tale riguardo, lo sviluppatore conviene che tutte le informazioni sui pagamenti fornite ai prestatori di servizi di pagamento saranno sempre precise, corrette e aggiornate. Mozilla tratterà i dati nel rispetto della [Informativa sulla Privacy del Firefox Marketplace](/privacy-policy).
+All’utente è richiesto di fornire dati personali (come un identificativo o un recapito) nell’ambito della registrazione al Firefox Marketplace e del suo utilizzo in qualità di Sviluppatore. I gestori dei pagamenti integrati potranno inoltre richiedere di fornire informazioni sui pagamenti. A tale riguardo, lo sviluppatore conviene che tutte le informazioni sui pagamenti fornite ai prestatori di servizi di pagamento saranno sempre precise, corrette e aggiornate. Mozilla tratterà i dati nel rispetto della [Informativa sulla Privacy del Firefox Marketplace](/media/docs/privacy/it.html).
 
 ## Gestione del Firefox Marketplace
 

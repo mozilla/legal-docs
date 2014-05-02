@@ -52,7 +52,7 @@ charakterze Twórcy. Administratorzy zintegrowanego systemu płatniczego mogą
 żądać również podania informacji dotyczących płatności, zaś Twórca zobowiązuje
 się, że podane przez niego informacje dotyczące płatności będą prawidłowe,
 poprawne i aktualne. Informacje podane przez Twórcę będą przetwarzane zgodnie
-z zasadami opisanymi w [Polityce Prywatności](https://marketplace.firefox.com/privacy-policy) Firefox Marketplace.
+z zasadami opisanymi w [Polityce Prywatności](/media/docs/privacy/pl.html) Firefox Marketplace.
 
 ## Zarządzanie Firefox Marketplace
 

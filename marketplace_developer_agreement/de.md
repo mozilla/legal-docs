@@ -24,7 +24,7 @@ Als Entwickler können Sie Add-ons oder Apps (im Folgenden zusammen als „Marke
 
 ## Geschäftsbedingungen für Ihre Nutzung des Firefox Marketplace
 
-Als Entwickler heißen wir Sie auf dem Firefox Marketplace herzlich willkommen. Wir möchten Sie bei dem Vertrieb Ihrer Marketplace-Inhalte unterstützen. Die Nutzung des Firefox Marketplace unterliegt den Geschäftsbedingungen dieser Entwicklervereinbarung, den [Nutzungsbedingungen für den Firefox Marketplace](/terms-of-use) und den Richtlinien für Firefox Marketplace, auf die in dieser Vereinbarung verwiesen wird und die auch auf dem Firefox Marketplace veröffentlicht sind. Sie sind durch Verweis Teil dieses Dokuments (zusammen: die „Geschäftsbedingungen“).
+Als Entwickler heißen wir Sie auf dem Firefox Marketplace herzlich willkommen. Wir möchten Sie bei dem Vertrieb Ihrer Marketplace-Inhalte unterstützen. Die Nutzung des Firefox Marketplace unterliegt den Geschäftsbedingungen dieser Entwicklervereinbarung, den [Nutzungsbedingungen für den Firefox Marketplace](/media/docs/terms/de.html) und den Richtlinien für Firefox Marketplace, auf die in dieser Vereinbarung verwiesen wird und die auch auf dem Firefox Marketplace veröffentlicht sind. Sie sind durch Verweis Teil dieses Dokuments (zusammen: die „Geschäftsbedingungen“).
 
 ## Zustimmung zu den Geschäftsbedingungen
 
@@ -34,7 +34,7 @@ Wir sind ständig bestrebt, den Firefox Marketplace für Sie zu verbessern. Sofe
 
 ## Datenschutzerklärung für Firefox Marketplace
 
-Im Rahmen des Registrierungsprozesses für die Nutzung des Firefox Marketplace als Entwickler verlangen wir von Ihnen die Angabe personenbezogener Daten gegenüber Mozilla (z.B. Identifikations- und Kontaktdaten). Wir werden Ihre Daten so behandeln, wie es in der [Datenschutzerklärung des Firefox Marketplace](/privacy-policy) beschrieben ist. Bestimmte Funktionen des Firefox Marketplace werden von externen Dienstleistern angeboten. Beispielsweise nutzen wir externe Dienstleister, um App-Bewertungen zu erzeugen und App-Käufe zu verarbeiten. Sie verpflichten sich, dass die Daten, die Sie diesen externen Dienstleistern zur Verfügung stellen, immer korrekt, fehlerfrei und auf dem aktuellsten Stand sein werden. Externe Dienstleister verwenden ihre eigenen Datenschutzerklärungen und wir empfehlen Ihnen, diese zu lesen.
+Im Rahmen des Registrierungsprozesses für die Nutzung des Firefox Marketplace als Entwickler verlangen wir von Ihnen die Angabe personenbezogener Daten gegenüber Mozilla (z.B. Identifikations- und Kontaktdaten). Wir werden Ihre Daten so behandeln, wie es in der [Datenschutzerklärung des Firefox Marketplace](/media/docs/privacy/de.html) beschrieben ist. Bestimmte Funktionen des Firefox Marketplace werden von externen Dienstleistern angeboten. Beispielsweise nutzen wir externe Dienstleister, um App-Bewertungen zu erzeugen und App-Käufe zu verarbeiten. Sie verpflichten sich, dass die Daten, die Sie diesen externen Dienstleistern zur Verfügung stellen, immer korrekt, fehlerfrei und auf dem aktuellsten Stand sein werden. Externe Dienstleister verwenden ihre eigenen Datenschutzerklärungen und wir empfehlen Ihnen, diese zu lesen.
 
 ## Management des Firefox Marketplace
 

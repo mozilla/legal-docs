@@ -23,7 +23,7 @@ Jako vývojář můžete prostřednictvím Firefox Marketplace distribuovat dopl
 
 ## Podmínky upravující použití Firefox Marketplace
 
-Jako vývojář jste zváni, abyste k distribuci vašeho Obsahu Marketplace použili Firefox Marketplace. Vaše použití Firefox Marketplace je upraveno podmínkami této smlouvy s vývojářem, [podmínkami použití Firefox Marketplace](/terms-of-use), a zásadami Firefox Marketplace uvedeným v této smlouvě a zveřejněným na Firefox Marketplace; které jsou zde uvedeny pro referenci (společně označovány jako „Podmínky“).
+Jako vývojář jste zváni, abyste k distribuci vašeho Obsahu Marketplace použili Firefox Marketplace. Vaše použití Firefox Marketplace je upraveno podmínkami této smlouvy s vývojářem, [podmínkami použití Firefox Marketplace](/media/docs/terms/cs.html), a zásadami Firefox Marketplace uvedeným v této smlouvě a zveřejněným na Firefox Marketplace; které jsou zde uvedeny pro referenci (společně označovány jako „Podmínky“).
 
 ## Přijetí Podmínek
 
@@ -33,7 +33,7 @@ Tyto Podmínky se mohou změnit v důsledku inovací nebo zavedení nových funk
 
 ## Zásady ochrany soukromí Firefox Marketplace
 
-Bude třeba, abyste společnosti Mozilla v rámci registrace a používání Firefox Marketplace jako vývojář poskytli informace o vás (jako jdou identifikační a kontaktní údaje). S vašimi informacemi budeme zacházet v souladu se [zásadami ochrany soukromí Firefox Marketplace](/privacy-policy). Některé funkce Firefox Marketplace zajišťují třetí strany. Služeb třetích stran využíváme například ke generování hodnocení aplikací a zpracovávání plateb za aplikace. Souhlasíte, že veškeré informace poskytnuté těmto třetím stranám budou vždy přesné, správné a aktuální. Nezávislí poskytovatelé služeb mají vlastní zásady ochrany soukromí a podmínky použití; doporučujeme vám, abyste si je přečetli.
+Bude třeba, abyste společnosti Mozilla v rámci registrace a používání Firefox Marketplace jako vývojář poskytli informace o vás (jako jdou identifikační a kontaktní údaje). S vašimi informacemi budeme zacházet v souladu se [zásadami ochrany soukromí Firefox Marketplace](/media/docs/privacy/cs.html). Některé funkce Firefox Marketplace zajišťují třetí strany. Služeb třetích stran využíváme například ke generování hodnocení aplikací a zpracovávání plateb za aplikace. Souhlasíte, že veškeré informace poskytnuté těmto třetím stranám budou vždy přesné, správné a aktuální. Nezávislí poskytovatelé služeb mají vlastní zásady ochrany soukromí a podmínky použití; doporučujeme vám, abyste si je přečetli.
 
 ## Správa Firefox Marketplace
 

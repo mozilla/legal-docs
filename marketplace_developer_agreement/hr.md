@@ -24,7 +24,7 @@ Kao razvojni programer, možete distribuirati dodatke ili aplikacije (zajedno - 
 
 ## Uvjeti koji određuju korištenje Firefox Marketplacea
 
-Kao razvojnom programeru, Firefox Marketplace vam je dostupan kao pomoć u distribuciji vašeg sadržaja Marketplacea. Vaše korištenje Firefox Marketplacea podliježe odredbama i uvjetima ovog Ugovora s razvojnim programerom tj. dokumentu [Uvjeti korištenja Firefox Marketplacea](/terms-of-use)i Pravilima Firefox Marketplacea na koje ukazuje ovaj ugovor te koji su objavljeni na Firefox Marketplaceu, od kojih je svaki postao njegovim sastavnim dijelom (zajednički naziv „Uvjeti“).
+Kao razvojnom programeru, Firefox Marketplace vam je dostupan kao pomoć u distribuciji vašeg sadržaja Marketplacea. Vaše korištenje Firefox Marketplacea podliježe odredbama i uvjetima ovog Ugovora s razvojnim programerom tj. dokumentu [Uvjeti korištenja Firefox Marketplacea](/media/docs/terms/hr.html)i Pravilima Firefox Marketplacea na koje ukazuje ovaj ugovor te koji su objavljeni na Firefox Marketplaceu, od kojih je svaki postao njegovim sastavnim dijelom (zajednički naziv „Uvjeti“).
 
 ## Prihvaćanje uvjeta
 
@@ -34,7 +34,7 @@ Ovisno o novim rješenjima koje donosimo i novim mogućnostima Firefox Marketpla
 
 ## Pravila privatnosti Firefox Marketplacea
 
-U sklopu prijave za korištenje te korištenja usluge Firefox Marketplace u svojstvu razvojnog programera, Mozilli je potrebno dostaviti osobne podatke (poput identifikacijskih i podataka za kontakt). S vašim podacima postupamo na način opisan u dokumentu[Pravila privatnosti Firefox Marketplacea](/privacy-policy). Nekim sadržajima Firefox Marketplacea upravljaju usluge trećih strana. Primjerice, služimo se uslugama trećih strana pri ocjenjivanju i obradi plaćanja aplikacija. Vi jamčite za točnost, ispravnost i ažurnost podataka koji se prosljeđuju trećim stranama. Davatelji usluga trećih strana imaju vlastita pravila privatnosti i uvjete korištenja te vas potičemo da ih proučite.
+U sklopu prijave za korištenje te korištenja usluge Firefox Marketplace u svojstvu razvojnog programera, Mozilli je potrebno dostaviti osobne podatke (poput identifikacijskih i podataka za kontakt). S vašim podacima postupamo na način opisan u dokumentu[Pravila privatnosti Firefox Marketplacea](/media/docs/privacy/hr.html). Nekim sadržajima Firefox Marketplacea upravljaju usluge trećih strana. Primjerice, služimo se uslugama trećih strana pri ocjenjivanju i obradi plaćanja aplikacija. Vi jamčite za točnost, ispravnost i ažurnost podataka koji se prosljeđuju trećim stranama. Davatelji usluga trećih strana imaju vlastita pravila privatnosti i uvjete korištenja te vas potičemo da ih proučite.
 
 ## Upravljanje uslugom Firefox Marketplace
 

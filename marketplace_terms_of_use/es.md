@@ -8,7 +8,7 @@ leer todo el documento, pues al concordar con el mismo, usted estara de
 acuerdo con la totalidad del documento y no solamente con este resumen:
 
 - Usted necesita tener, al menos, 18 años de edad para tener una cuenta en el Marketplace o tener el consentimiento y supervision de sus padres o responsables para la utilizacion del Marketplace.
-- El uso de sus datos sera de acuerdo con nuestra politica de privacidad del Firefox Marketplace Los Apps o Add-ons (Aplicativos) suministrados por terceros tendran su propia [politica de privacidad](/privacy-policy).
+- El uso de sus datos sera de acuerdo con nuestra politica de privacidad del Firefox Marketplace Los Apps o Add-ons (Aplicativos) suministrados por terceros tendran su propia [politica de privacidad](/media/docs/privacy/es.html).
 - Los Desarrolladores (no Mozilla) son exclusivamente responsables por cada App o Add-on, incluyendo el soporte.
 - No haga nada ilegal o que pueda perjudicarnos o perjudicar a otros.
 - Nosotros no seremos responsables por su utilizacion del Firefox Marketplace o por las acciones de otros usuarios, incluyendo los Desarrolladores.
@@ -110,9 +110,9 @@ del Marketplace.
 Se le solicitara que provea informaciones sobre usted (como identificacion y
 detalles de contacto) como parte de su registro y utilizacion del Firefox
 Marketplace. Nosotros mantendremos su informacion como descripto en la
-[Politica de privacidad](/privacy-policy) del Firefox Marketplace.
+[Politica de privacidad](/media/docs/privacy/es.html) del Firefox Marketplace.
 
-La [Politica de privacidad](/privacy-policy) del Firefox Marketplace se aplica
+La [Politica de privacidad](/media/docs/privacy/es.html) del Firefox Marketplace se aplica
 para el Firefox Marketplace, pero no cubre ningun Contenido del Marketplace.
 Usted debe verificar la politica de privacidad de la parte del Contenido del
 Marketplace para descubrir las practicas de privacidad sobre el Contenido del
@@ -121,7 +121,7 @@ utilizar el Contenido del Marketplace.
 
 Si usted cree que el Desarrollador no esta de acuerdo con el [Acuerdo con el
 Desarrollador del Firefox Marketplace](/developers/docs/policies/agreement) o
-con los [Terminos de Uso del Firefox Marketplace](/terms-of-use), entre en
+con los [Terminos de Uso del Firefox Marketplace](/media/docs/terms/es.html), entre en
 contacto con nosotros a traves del link de "Denunciar Abuso" para el Contenido
 relevante del Market y nosotros investigaremos su solicitacion y tomaremos las
 medidas, en caso que creemos apropiado.

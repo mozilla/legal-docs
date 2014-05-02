@@ -9,7 +9,7 @@ Regulamin, zgadza się także na pozostałe postanowienia Regulaminu, które nie
 zostały zawarte w podsumowaniu:
 
 - Użytkownik musi mieć co najmniej 18 lat, aby założyć konto na Platformie Firefox Marketplace, w przeciwnym razie jego rodzic musi wyrazić na to zgodę i nadzorować korzystanie z Platformy Firefox Marketplace.
-- Korzystanie przez Mozillę z danych osobowych Użytkownika będzie odbywało się zgodnie z Polityką Prywatności Platformy Firefox Marketplace. Aplikacje lub Dodatki umieszczane na Platformie przez inne osoby mogą podlegać odrębnym politykom ochrony prywatności.
+- Korzystanie przez Mozillę z danych osobowych Użytkownika będzie odbywało się zgodnie z [Polityką Prywatności Platformy Firefox Marketplace](/media/docs/privacy/pl.html). Aplikacje lub Dodatki umieszczane na Platformie przez inne osoby mogą podlegać odrębnym politykom ochrony prywatności.
 - Twórcy (nie zaś Mozilla) są wyłącznie odpowiedzialni za wszystkie Aplikacje i Dodatki, w tym świadczenie pomocy technicznej na rzecz Użytkownika.
 - Użytkownikowi nie wolno podejmować działań, które są niezgodne z prawem lub mogą doprowadzić do powstania szkody po stronie Mozilli lub innych podmiotów.
 - Mozilla nie odpowiada za korzystanie przez Użytkownika z Platformy Firefox Marketplace oraz za działania innych Użytkowników, w tym również Twórców.

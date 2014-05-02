@@ -26,7 +26,7 @@ Kao programer, možete vršiti distribuciju dodataka ili aplikacija (zajednički
 
 ## Uslovi koji se primenjuju na Vaše korišćenje Firefox Marketplace-a
 
-Kao programer, slobodno možete koristiti Firefox Marketplace u cilju olakšavanja distribucije Vašeg Marketplace sadržaja. Na Vaše korišćenje Firefox Marketplace-a se primenjuju odredbe i uslovi ovog Ugovora sa programerom, [Pravila korišćenja Firefox Marketplace-a](/terms-of-use) i pravila Firefox Marketplace-a na koja se upućuje u ovom ugovoru, a koja su objavljena na Firefox Marketplace-u, svaka od navedenih su ovde uključena kao referenca (zajednički, "Uslovi").
+Kao programer, slobodno možete koristiti Firefox Marketplace u cilju olakšavanja distribucije Vašeg Marketplace sadržaja. Na Vaše korišćenje Firefox Marketplace-a se primenjuju odredbe i uslovi ovog Ugovora sa programerom, [Pravila korišćenja Firefox Marketplace-a](/media/docs/terms/sr.html) i pravila Firefox Marketplace-a na koja se upućuje u ovom ugovoru, a koja su objavljena na Firefox Marketplace-u, svaka od navedenih su ovde uključena kao referenca (zajednički, "Uslovi").
 
 ## Prihvatanje Uslova
 
@@ -36,7 +36,7 @@ Kako budemo unosili inovacije i nove funkcije u Firefox Marketplace, možda će 
 
 ## Firefox Marketplace Pravila privatnosti
 
-Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog u ulozi programera, od Vas će se tražiti da dostavite Mozilla-i podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti Firefox Marketplace-a](/privacy-policy). Određene funkcije Firefox Marketplace-a su rukovođene od strane nezavisnih pružalaca usluga. Na primer, koristimo nezavisne pružaoce usluga radi generisanja rang liste aplikacija i za obradu naplate aplikacija. Ovim potvrđujete da će svi podaci koji budu dostavljeni nezavisnim pružaocima usluga naplate uvek biti tačni, ispravni i ažurni. Nezavisni pružaoci usluga imaju svoja pravila privatnosti i uslove korišćenja, te Vam savetujemo da ih pročitate.
+Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog u ulozi programera, od Vas će se tražiti da dostavite Mozilla-i podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti Firefox Marketplace-a](/media/docs/privacy/sr.html). Određene funkcije Firefox Marketplace-a su rukovođene od strane nezavisnih pružalaca usluga. Na primer, koristimo nezavisne pružaoce usluga radi generisanja rang liste aplikacija i za obradu naplate aplikacija. Ovim potvrđujete da će svi podaci koji budu dostavljeni nezavisnim pružaocima usluga naplate uvek biti tačni, ispravni i ažurni. Nezavisni pružaoci usluga imaju svoja pravila privatnosti i uslove korišćenja, te Vam savetujemo da ih pročitate.
 
 ## Upravljanje Firefox Marketplace-om
 

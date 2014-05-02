@@ -122,8 +122,8 @@ werden, auf der Informationsseite des jeweiligen Marktplatzinhaltes abrufen.
 Während des Registrierungsprozesses für die Nutzung des Firefox Marektplace
 als Nutzer müssen Sie personenbezogenen Daten (wie Identifikations- und
 Kontaktdaten) angeben. Wir werden mit Ihren Daten wie in der Marketplace
-Datenschutzerklärung [https://marketplace.firefox.com/privacy-policy
-](/privacy-policy) beschrieben umgehen.
+Datenschutzerklärung [privacy policy]
+](/media/docs/privacy/de.html) beschrieben umgehen.
 
 Die Firefox Marketplace Datenschutzerklärung gilt nur für den Firefox
 Marketplace und nicht für die einzelnen Marktplatzinhalte. Sie sollten die
