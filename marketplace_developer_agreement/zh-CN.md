@@ -23,7 +23,7 @@ As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace
 
 ## Terms Governing Your Use of Firefox Marketplace
 
-As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/terms-of-use) as well as the related Firefox Marketplace policies referred to in this agreement as well as posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;).
+As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/media/docs/terms/zh-CN.html) as well as the related Firefox Marketplace policies referred to in this agreement as well as posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;).
 
 
 ## Acceptance of Terms
@@ -35,7 +35,7 @@ As we innovate and introduce new features for the Firefox Marketplace, these Ter
 
 ## Firefox Marketplace Privacy Policy
 
-You will be required to provide information about yourself (such as identification or contact details) as part of your registration for and use of the Firefox Marketplace as a Developer. Integrated payment processors may also require you to provide them with payment information and you agree that any payment information provided to payment providers will always be accurate, correct and up to date. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/privacy-policy).
+You will be required to provide information about yourself (such as identification or contact details) as part of your registration for and use of the Firefox Marketplace as a Developer. Integrated payment processors may also require you to provide them with payment information and you agree that any payment information provided to payment providers will always be accurate, correct and up to date. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/zh-CN.html).
 
 
 ## Management of Firefox Marketplace

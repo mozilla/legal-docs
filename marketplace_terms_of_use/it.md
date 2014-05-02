@@ -7,7 +7,7 @@ Condizioni d’uso
 Questa prima parte è una sintesi delle condizioni che seguono. È messa a disposizione come ausilio alla comprensione, ma si consiglia di leggere l'intero documento, perché dando il consenso si accetta l'intero documento e non solamente questa sintesi.
 
 - L'utente deve avere almeno 18 anni di età per poter avere un account sul Marketplace o avere il consenso dei genitori all'utilizzo da parte dell'utente minore del Marketplace e la loro supervisione.
-- L'utilizzo da parte di Mozilla dei dati dell'utente avverrà nel rispetto della [Informativa sulla privacy del Firefox Marketplace](/privacy-policy). Le app o i componenti aggiuntivi forniti da altri potrebbero attenersi a informative sulla privacy diverse.
+- L'utilizzo da parte di Mozilla dei dati dell'utente avverrà nel rispetto della [Informativa sulla privacy del Firefox Marketplace](/media/docs/privacy/it.html). Le app o i componenti aggiuntivi forniti da altri potrebbero attenersi a informative sulla privacy diverse.
 - Gli sviluppatori (e non Mozilla) rispondono totalmente per ciascuna app o ciascun componente aggiuntivo, compresa la fornitura di assistenza all'utente.
 - All'utente non è consentito compiere atti illegali o che potrebbero danneggiare Mozilla o terzi.
 - Mozilla non è responsabile dell'utilizzo del Firefox Marketplace né delle azioni di altri utilizzatori, compresi gli sviluppatori.
@@ -61,9 +61,9 @@ Nella misura in cui alcuni contenuti sul Firefox Marketplace sono disciplinati d
 
 ### Privacy
 
-All'utente è richiesto di fornire a Mozilla dati personali (come un identificativo o un recapito) nell'ambito della registrazione al Firefox Marketplace e del suo utilizzo. Mozilla tratterà i dati dell'utente nel rispetto della [Informativa sulla privacy del Firefox Marketplace](/privacy-policy).
+All'utente è richiesto di fornire a Mozilla dati personali (come un identificativo o un recapito) nell'ambito della registrazione al Firefox Marketplace e del suo utilizzo. Mozilla tratterà i dati dell'utente nel rispetto della [Informativa sulla privacy del Firefox Marketplace](/media/docs/privacy/it.html).
 
-La [Informativa sulla privacy del Firefox Marketplace](/privacy-policy) si applica al Firefox Marketplace ma non agli specifici contenuti del Marketplace. Si invita l'utente a esaminare la informativa sulla privacy di un contenuto del Marketplace per informarsi sulle relative prassi in materia di riservatezza ed esserne a conoscenza prima di acquistare, installare o utilizzare quel contenuto del Marketplace.
+La [Informativa sulla privacy del Firefox Marketplace](/media/docs/privacy/it.html) si applica al Firefox Marketplace ma non agli specifici contenuti del Marketplace. Si invita l'utente a esaminare la informativa sulla privacy di un contenuto del Marketplace per informarsi sulle relative prassi in materia di riservatezza ed esserne a conoscenza prima di acquistare, installare o utilizzare quel contenuto del Marketplace.
 
 Se l'utente ritiene che uno sviluppatore non rispetti il [Contratto con lo sviluppatore del Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) o le presenti condizioni d'uso del Firefox Marketplace, è invitato a darne comunicazione a Mozilla tramite il collegamento “Report Abuse” (Segnala un abuso) per il relativo contenuto del Marketplace; Mozilla si impegna a esaminare la richiesta e a intervenire se lo ritiene opportuno.
 

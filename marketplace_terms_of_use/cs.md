@@ -5,7 +5,7 @@
 Tato úvodní část je souhrnem podmínek uvedených níže. Jejím úkolem je umožnit snazší porozumění; přečtěte si však celý dokument, jelikož když s ním souhlasíte, znamená to, že ho přijímáte celý, nejen toto shrnutí:
 
 - Pro založení účtu na Marketplace musíte být starší 18 let nebo musíte mít souhlas rodičů a jejich dohled nad vašim používáním Marketplace.
-- Naše využití vašich údajů bude v souladu s našimi [zásadami ochrany soukromí Firefox Marketplace](/privacy-policy). Aplikace a Doplňky nabízené jinými mohou mít vlastní zásady ochrany soukromí.
+- Naše využití vašich údajů bude v souladu s našimi [zásadami ochrany soukromí Firefox Marketplace](/media/docs/privacy/cs.html). Aplikace a Doplňky nabízené jinými mohou mít vlastní zásady ochrany soukromí.
 - Vývojáři (a nikoliv společnost Mozilla) nesou výhradní odpovědnost za jednotlivé Aplikace a Doplňky, a to včetně poskytování podpory.
 - Nepodnikejte nic ilegálního ani nic, co by mohlo ublížit nám nebo ostatním.
 - Neodpovídáme za vaše použití Firefox Marketplace ani za akce ostatních uživatelů, a to včetně Vývojářů.
@@ -67,11 +67,11 @@ V rozsahu, v jakém se na určitý obsah Firefox Marketplace vztahují samostatn
 
 ### Soukromí
 
-Bude třeba, abyste nám v rámci registrace a používání Firefox Marketplace poskytli informace o vás (jako jdou identifikační a kontaktní údaje). S vašimi informacemi budeme zacházet v souladu se [zásadami ochrany soukromí Firefox Marketplace](/privacy-policy).
+Bude třeba, abyste nám v rámci registrace a používání Firefox Marketplace poskytli informace o vás (jako jdou identifikační a kontaktní údaje). S vašimi informacemi budeme zacházet v souladu se [zásadami ochrany soukromí Firefox Marketplace](/media/docs/privacy/cs.html).
 
-Podrobnější informace najdete v našich [zásadách ochrany soukromí](/privacy-policy).
+Podrobnější informace najdete v našich [zásadách ochrany soukromí](/media/docs/privacy/cs.html).
 
-[Zásady ochrany soukromí ](/privacy-policy)Firefox Marketplace se vztahují na Firefox Marketplace, nicméně nikoliv na veškerý Obsah Marketplace. Měli byste si přečíst zásady ochrany soukromí pro daný produkt Obsahu Marketplace, seznámit se s postupy ochrany soukromí příslušného Obsahu Marketplace a vyjádřit s nimi spokojenost ještě před nákupem, instalací či používáním daného Obsahu Marketplace.
+[Zásady ochrany soukromí ](/media/docs/privacy/cs.html)Firefox Marketplace se vztahují na Firefox Marketplace, nicméně nikoliv na veškerý Obsah Marketplace. Měli byste si přečíst zásady ochrany soukromí pro daný produkt Obsahu Marketplace, seznámit se s postupy ochrany soukromí příslušného Obsahu Marketplace a vyjádřit s nimi spokojenost ještě před nákupem, instalací či používáním daného Obsahu Marketplace.
 
 Pokud se domníváte, že Vývojář nedodržel [Smlouvu s vývojářem Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) nebo Podmínky používání Firefox Marketplace, informujte nás prosím prostřednictvím odkazu „Nahlásit porušení” příslušného Obsahu Marketplace a my vaši žádost posoudíme a přijmeme kroky, které považujeme za vhodné.
 

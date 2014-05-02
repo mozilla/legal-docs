@@ -5,7 +5,7 @@
 Ovaj gornji deo predstavlja skraćeni prikaz donjih odredbi. On služi kako bi Vam pomogao u razumevanju - ali obavezno pročitajte ceo dokument, jer kada se saglasite sa istim to znači da ga prihvatate u celosti, a ne samo ovaj skraćeni prikaz:
 
 - Morate imati najmanje 18 godina da biste imali nalog na Marketplace-u, ili Vaši roditelji moraju dati saglasnost i vršiti nadzor Vašeg korišćenja Marketplace-a.  
-- Naše korišćenje Vaših podataka biće u skladu sa našim Firefox Marketplace [Pravilima privatnosti](https://marketplace.firefox.com/privacy-policy). Aplikacije i Programski dodaci koja obezbede druge strane mogu imati svoja pravila privatnosti.
+- Naše korišćenje Vaših podataka biće u skladu sa našim Firefox Marketplace [Pravilima privatnosti](/media/docs/privacy/sr.html). Aplikacije i Programski dodaci koja obezbede druge strane mogu imati svoja pravila privatnosti.
 - Programeri (a ne Mozilla) su isključivo odgovorni za svaku Aplikaciju ili Programski dodatak, uključujući podršku za Vas. 
 - Ne smete učiniti bilo koju protivzakonitu radnju, ili bilo šta što bi moglo povrediti nas ili druge.
 - Ne odgovaramo za Vaše korišćenje Firefox Marketplace-a ili radnje drugih korisnika, uključujući Programere.
@@ -57,9 +57,9 @@ Ako se na neki od sadržaja na Firefox Marketplace-u odnose zasebna pravila (kao
 
 ### Čuvanje privatnosti
 
-Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog, od Vas će se tražiti da dostavite podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti](https://marketplace.firefox.com/privacy-policy) Firefox Marketplace. 
+Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog, od Vas će se tražiti da dostavite podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti](/media/docs/privacy/sr.html) Firefox Marketplace. 
 
- Firefox Marketplace [Pravila privatnosti](https://marketplace.firefox.com/privacy-policy) se primenjuju na Firefox Marketplace, ali se ne odnose na bilo koji Marketplace sadržaj. Potrebno je da proverite pravila privatnosti konkretnog Marketplace sadržaja kako biste otkrili praksu čuvanja privatnosti u vezi sa tim Marketplace sadržajem, i upoznali se sa istom pre kupovine, instaliranja ili korišćenja tog Marketplace sadržaja.
+ Firefox Marketplace [Pravila privatnosti](/media/docs/privacy/sr.html) se primenjuju na Firefox Marketplace, ali se ne odnose na bilo koji Marketplace sadržaj. Potrebno je da proverite pravila privatnosti konkretnog Marketplace sadržaja kako biste otkrili praksu čuvanja privatnosti u vezi sa tim Marketplace sadržajem, i upoznali se sa istom pre kupovine, instaliranja ili korišćenja tog Marketplace sadržaja.
 
 Ako smatrate da se neki Programer ne pridržava [Firefox Marketplace Ugovora sa programerom](https://marketplace.firefox.com/developers/docs/policies/agreement) ili ovim Firefox Marketplace Pravilima korišćenja, molimo Vas da nas o tome obavestite preko veze "Prijava zloupotrebe" za relevantni Marketplace sadržaj, a mi ćemo proveriti Vaš zahtev i preduzeti korake koje smatramo odgovarajućim.
 

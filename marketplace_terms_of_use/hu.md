@@ -4,7 +4,7 @@
 
 Jelen bevezető rész az alábbi felhasználási feltételek összefoglalása, célja pedig ezek egyszerűbb áttekintését szolgálja. Mindazonáltal arra kérjük, hogy mindenképpen olvassa át a teljes dokumentumot, mivel az abban foglalt feltételek elfogadásával nemcsak a jelen összefoglalót, hanem a dokumentum teljes tartalmát magára nézve kötelezőnek fogadja el:
 - A Marketplace-en való felhasználói profil létrehozásának és használatának feltétele, hogy Ön betöltötte 18. életévét vagy rendelkezik a törvényes képviselőjének hozzájárulásával és a törvényes képviselője felügyeli az Ön tevékenységét a Marketplace-en.
-- Az Ön adatainak használata, feldolgozása a [Firefox Marketplace Adatvédelmi Szabályzat](https://marketplace.firefox.com/privacy-policy) tal összhangban történik. Harmadik személyek által rendelkezésre bocsátott Alkalmazások vagy Kiegészítők saját adatvédelmi szabályzattal rendelkezhetnek.
+- Az Ön adatainak használata, feldolgozása a [Firefox Marketplace Adatvédelmi Szabályzat](/media/docs/privacy/hu.html) tal összhangban történik. Harmadik személyek által rendelkezésre bocsátott Alkalmazások vagy Kiegészítők saját adatvédelmi szabályzattal rendelkezhetnek.
 - A Mozilla személyétől különböző Fejlesztők kizárólagos felelősséggel tartoznak Alkalmazásaikért és Kiegészítőikért, beleértve az azokhoz biztosított támogatást (support) is.
 - Kérjük, tartózkodjon minden jogellenes vagy olyan cselekménytől, amely a Mozilla vagy harmadik személyek számára hátrányos lehet.
 - A Mozilla nem felelős a Firefox Marketplace Ön által történő használatáért vagy a felhasználók cselekményeiért, ideértve a Fejlesztőket is.
@@ -58,9 +58,9 @@ Amennyiben a Firefox Marketplace-en elérhető tartalmakat további felhasznál�
 
 ### Adatvédelem
 
-A Firefox Marketplace-hez kapcsolódó regisztráció és használat keretében Önnek személyes adatokat (mint például azonosítási vagy elérhetőségi adatok) kell megadnia a Mozilla részére. Az Ön személyes adatait a [Firefox Marketplace Adatvédelmi Szabályzat](https://marketplace.firefox.com/privacy-policy) ában foglaltak szerint kezeljük.
+A Firefox Marketplace-hez kapcsolódó regisztráció és használat keretében Önnek személyes adatokat (mint például azonosítási vagy elérhetőségi adatok) kell megadnia a Mozilla részére. Az Ön személyes adatait a [Firefox Marketplace Adatvédelmi Szabályzat](/media/docs/privacy/hu.html) ában foglaltak szerint kezeljük.
 
-A [Firefox Marketplacei Adatvédelmi Szabályzat](https://marketplace.firefox.com/privacy-policy) a Firefox Marketplace-re vonatkozik, azonban nem vonatkozik bármilyen Marketplace Tartalomra. Kérjük, hogy tekintse át az adott Marketplace Tartalomra irányadó adatvédelmi szabályzatot annak érdekében, hogy tisztában legyen az érintett Marketplace Tartalommal kapcsolatos adatvédelmi gyakorlattal az adott Marketplace Tartalom megvásárlása, telepítése vagy használata előtt. 
+A [Firefox Marketplacei Adatvédelmi Szabályzat](/media/docs/privacy/hu.html) a Firefox Marketplace-re vonatkozik, azonban nem vonatkozik bármilyen Marketplace Tartalomra. Kérjük, hogy tekintse át az adott Marketplace Tartalomra irányadó adatvédelmi szabályzatot annak érdekében, hogy tisztában legyen az érintett Marketplace Tartalommal kapcsolatos adatvédelmi gyakorlattal az adott Marketplace Tartalom megvásárlása, telepítése vagy használata előtt. 
 
 Ha úgy véli, hogy egy Fejlesztő nem teljesíti a [Firefox Marketplace Fejlesztői Szerződés](https://marketplace.firefox.com/developers/docs/policies/agreement) ben foglaltakat vagy jelen Firefox Marketplace Felhasználási Feltételeket, kérjük, tájékoztasson minket az érintett Marketplace Tartalomhoz kapcsolódó „Jogsértés Bejelentése” ("Report Abuse") linken keresztül. Megkeresését megvizsgáljuk és szükség esetén megtesszük az általunk szükségesnek vélt intézkedéseket.
 

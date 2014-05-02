@@ -36,7 +36,7 @@ navegador Firefox.
 Como desarrollador usted esta invitado a utilizar el Firefox Marketplace para
 facilitar la distribucion de su Contenido del Marketplace. El uso del Firefox
 Marketplace esta sujeto a los terminos y condiciones de este Acuerdo con el
-Desarrollador, a los [Terminos de Uso](https://marketplace.firefox.com/terms-of-use) del Firefox Marketplace, asi como, a las politicas relacionadas con el
+Desarrollador, a los [Terminos de Uso](/media/docs/terms/es.html) del Firefox Marketplace, asi como, a las politicas relacionadas con el
 Firefox Marketplace contempladas en este contrato o publicadas en este Firefox
 Marketplace (colectivamente, los "Terminos").
 
@@ -62,7 +62,7 @@ podran solicitar que usted proporcione informaciones de pago y usted acepta
 que cualquier informacion de pago proporcionada a los prestadores de servicios
 de pago sera siempre exacta, correcta y actualizada. Nosotros mantendremos su
 informacion conforme a lo descripto en la [Politica de
-privacidad](https://marketplace.firefox.com/privacy-policy) del Firefox
+privacidad](/media/docs/privacy/es.html) del Firefox
 Marketplace.
 
 ## Gestion del Firefox Marketplace

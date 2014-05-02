@@ -8,7 +8,7 @@ concordar com o documento, você estará indicando sua aceitação ao documento
 todo, e não só a este resumo:
 
 - Você deve ser maior de 18 anos para possuir uma conta no Marketplace ou seus pais deverão autorizar e supervisionar seu uso do Marketplace.
-- Seus dados serão utilizados de acordo com a nossa [política de privacidade](/privacy-policy) para o Firefox Marketplace. Os Apps ou Add-ons de terceiros poderão ter sua própria política de privacidade.
+- Seus dados serão utilizados de acordo com a nossa [política de privacidade](/media/docs/privacy/pt-BR.html) para o Firefox Marketplace. Os Apps ou Add-ons de terceiros poderão ter sua própria política de privacidade.
 - Os desenvolvedores (não o Mozilla) são exclusivamente responsáveis por todos os Apps ou Add-ons, inclusive qualquer suporte aos usuários.
 - Não faça nada ilegal ou que poderia prejudicar a Mozilla ou terceiros.
 - Não temos responsabilidade pelo seu uso do Firefox Marketplace ou pelos atos de outros usuários, inclusive dos Desenvolvedores.
@@ -110,9 +110,9 @@ distribuído na página de informações do respectivo Conteúdo do Marketplace.
 Você será obrigado a prestar informações sobre você (tais como informações de
 identificação ou contato) durante seu registro e uso do Firefox Marketplace.
 Suas informações serão usadas conforme descrito na [Política de Privacidade
-](/privacy-policy) do Firefox Marketplace.
+](/media/docs/privacy/pt-BR.html) do Firefox Marketplace.
 
-A [Política de Privacidade](/privacy-policy) do Firefox Marketplace se aplica
+A [Política de Privacidade](/media/docs/privacy/pt-BR.html) do Firefox Marketplace se aplica
 ao Firefox Marketplace, mas não abrange nenhum Conteúdo do Marketplace. Você
 deverá verificar a política de privacidade de um Conteúdo do Marketplace para
 verificar as práticas de privacidade desse Conteúdo do Marketplace e confirmar
