@@ -24,14 +24,15 @@ File a pull request that updates your locale's markdown file to match the `en-US
 
 Following is a list of directories in this repository and either their URL counterparts on the web or directions to see the document in case it isn't easily linkable.  The URLs below will link to the *English (US)* versions of the document but replacing *en-US* in the URL with an available language code will show alternative languages.
 
-* /facebook_privacy_info
 * /firefox_cloud_services_PrivacyNotice
+  * http://www.mozilla.org/en-US/privacy/firefox-cloud/
 * /firefox_cloud_services_ToS
 * /firefox_os_privacy_notice
+  * http://www.mozilla.org/en-US/privacy/firefox-os/
 * /firefox_privacy_notice
+  * http://www.mozilla.org/en-US/privacy/firefox/
 * /marketplace_developer_agreement
   * https://marketplace.firefox.com/developers/docs/policies/agreement?lang=en-US
-* /marketplace_preloaded_apps_terms
 * /marketplace_privacy_policy
   * https://marketplace.firefox.com/privacy-policy?lang=en-US
 * /marketplace_terms_of_use
@@ -39,3 +40,4 @@ Following is a list of directories in this repository and either their URL count
 * /mozilla_privacy_policy
   * http://www.mozilla.org/en-US/privacy/
 * /websites_privacy_notice
+  * http://www.mozilla.org/en-US/privacy/websites/
