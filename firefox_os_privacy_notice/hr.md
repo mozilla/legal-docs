@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Napomena o privatnosti Firefox OS
 
-May 8, 2013
+08. svibnja 2013.
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Stalo nam je do vaše privatnosti. Kada nam Firefox OS šalje informacije, naša [Mozillina pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
-## Things you should know
+## Što biste trebali znati
 
-Firefox OS connects to us and others in order to provide product features.
+Firefox OS povezuje nas i druge kako bismo omogućili funkcije proizvoda.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Ažuriranje: Kako bi bio ažuriran, Firefox OS automatski se povezuje na uslugu kojom upravlja ili u ime proizvođača uređaja. Firefox OS također automatski provjerava za ažuriranja  za instalirane aplikacije tako da šalje zahtjev na Firefox Marketplace ili, ako ste instalirali aplikaciju s druge lokacije, na uslugu tog razvojnog programera.
+* Lokacija: Kada uključite usluge lokacije, Firefox OS može koristiti više točaka podataka i entitete za procjenu položaja, uključujući GPS, AGPS i druge geolokacije davatelja usluge. Usluge lokacije možete onemogućiti u „Postavkama“ aplikacija Firefox OS u svom uređaju.
+* Početna aktivacija: Kako biste omogućili odgovarajuća ažuriranja i aplikacije, Firefox OS šalje Mozilli jednokratni signal s podacima prilikom početnog uključivanja. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+Uređaj koji koristite, kao većina mobilnih uređaja, izrađen je od nekoliko strana. Ova obavijest pokriva samo kako Mozilla postupa s vašim informacijama za službene verzije Firefox OS ovlašten od strane Mozille.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* Ako koristite aplikacije koje netko drugi izradio a nije Mozilla, primjenjuju se njihova pravila privatnosti.
+* Funkcija traženja dinamičke aplikacije Firefox OS pokreće se preko Everything.me te se primjenjuju njezina pravila privatnosti koje možete pronaći na [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Firefox OS omogućuje vam da koristite nekoliko integriranih usluga trećih strana, poput e-pošte ili davatelja društvenih mreža. Pravila privatnosti ovih usluga primjenjuju se prilikom njihovog korištenja.
