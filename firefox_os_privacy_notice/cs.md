@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Prohlášení o ochraně osobních údajů ve Firefox OS
 
-May 8, 2013
+8. května 2013
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Společnosti Mozilla záleží na vašem soukromí. Když nám Firefox OS odesílá informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
-## Things you should know
+## Co byste měli vědět
 
-Firefox OS connects to us and others in order to provide product features.
+Operační systém Firefox OS se připojuje k nám a jiným společnostem za účelem poskytování funkcí daného produktu.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Aktualizace: Za účelem vlastní aktualizace se Firefox OS automaticky připojuje ke službě provozované výrobcem vašeho zařízení nebo jeho jménem. Firefox OS také automaticky vyhledává aktualizace nainstalovaných aplikací odesláním požadavku obchodu Firefox Marketplace nebo, pokud máte nainstalovánu aplikaci odjinud, službám vývojáře této aplikace.
+* Poloha: Když zapnete služby zjišťování polohy, Firefox OS může za pomocí sady datových bodů a entit odhadnout vaši polohu. K tomu může využít GPS, AGPS a další poskytovatele geolokalizačních služeb. Lokalizační služby můžete zakázat v aplikaci s nastavením systému Firefox OS na svém zařízení.
+* První aktivace: Za účelem poskytování příslušných aktualizací a aplikací odešle Firefox OS společnosti Mozilla při prvním spuštění jednorázový datový příkaz ping. [Další informace](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+Zařízení, které používáte, je – jak je to u většiny mobilních zařízení běžné – dílem více výrobců. Toto prohlášení se vztahuje pouze na to, jak společnost Mozilla nakládá s vašimi údaji v oficiálních verzích systému Firefox OS autorizovaných touto společností.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* Pokud vaše aplikace pocházejí od někoho jiného, než je Mozilla, budou se na vás vztahovat zásady ochrany osobních údajů tohoto výrobce.
+* Funkci dynamického vyhledávání aplikací v systému Firefox OS technicky zajišťuje Everything.me za podmínek vlastních zásad ochrany osobních údajů, které naleznete na [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Firefox OS vám umožňuje používat různé integrované služby třetích stran, např. poskytovatelů emailových služeb nebo sociálních sítí. Na vaše používání těchto služeb se budou vztahovat zásady ochrany osobních údajů těchto služeb.
