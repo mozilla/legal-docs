@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Firefox OS गोपनीयता सूचना
 
-May 8, 2013
+8 मई, 2013
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Mozilla आपकी गोपनीयता का ध्‍यान रखता है. Firefox OS द्वारा हमें जानकारी भेजे जाने पर, हमारी [Mozilla गोपनीयता नीति](http://www.mozilla.org/en-US/privacy/) यह बताती है कि हम उस जानकारी को कैसे प्रबंधित करते हैं.
 
-## Things you should know
+## वे बातें जो आपको जानना चाहिए:
 
-Firefox OS connects to us and others in order to provide product features.
+Firefox OS, उत्पाद की सुविधाएं प्रदान करने के लिए हमसे और अन्य लोगों से कनेक्ट होता है.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* अपडेट: स्वयं को अप-टू-डेट रखने के लिए, Firefox OS स्वचालित रूप से आपके उपकरण के निर्माता द्वारा या उसकी ओर से संचालित की जाने वाली सेवा से कनेक्ट होता है. Firefox OS, Firefox Marketplace को अनुरोध भेजकर इंस्टॉल किए गए ऐप्स हेतु या, यदि आपने किसी अन्य स्थान से एप को डाउनलोड किया है, तो उस एप के डेवलपर की सेवाओं के लिए स्वचालित रूप से अपडेट की जांच करता है.
+* स्थान: आपके द्वारा स्थान सेवाएं चालू करने पर, Firefox OS आपके स्थान का अनुमान लगाने के लिए GPS, AGPS और अन्य भौगोलिक स्थान सेवा प्रदाताओं सहित एकाधिक डेटा बिंदुओं और निकायों का उपयोग कर सकता है. आप अपने उपकरण पर Firefox OS 鉄ettings・एप में स्थान सेवाओं को अक्षम कर सकते हैं.
+* प्रारंभिक सक्रियण: उपयुक्त अपडेट और एप्लिकेशन प्रदान करने के लिए, Firefox OS, पहली बार प्रारंभ करने पर Mozilla को एक बारगी डेटा पिंग भेजता है. [अधिक जानें](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+आपके द्वारा उपयोग किए जा रहे उपकरण, जैसे अधिकांश मोबाइल उपकरण, को कई पक्षों द्वारा बनाया जाता है. यह सूचना केवल इस बात को कवर करती है कि Mozilla, Mozilla द्वारा अधिकृत Firefox OS के आधिकारिक संस्करणों के लिए आपकी जानकारी को कैसे प्रबंधित करता है.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* यदि आप Mozilla के अलावा किसी अन्य के द्वारा बनाए गए ऐप्स का उपयोग करते हैं, तो उनकी गोपनीयता नीतियां लागू होंगी.
+* Firefox OS की डायनामिक एप खोज सुविधा Everything.me और उसकी गोपनीयता नीतियों द्वारा संचालित हैं, जिसे आप [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/) पर प्राप्त कर सकते हैं.
+* Firefox OS आपको कई एकीकृत तृतीक्ष पक्ष सेवाओं, जैसे आपका ईमेल या सामाजिक प्रदाता का उपयोग करने देता है. उन सेवाओं की गोपनीयता नीति आपके द्वारा किए जाने वाले उनके उपयोग पर लागू होगी.
