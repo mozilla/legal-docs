@@ -1,66 +1,66 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Firefox Marketplace தனியுரிமைக் கொள்கை
+ஜூலை 3, 2013
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+உங்கள் தனியுரிமையில் அக்கறை கொண்டுள்ளோம். MOZILLA (அதாவது நாங்கள்) FIREFOX MARKETPLACE இலிருந்து உங்களைப் பற்றிய தகவல்களைச் சேகரிக்கும்போது, அதை நாங்கள் எப்படி கையாள்கிறோம் என்பதைப் பற்றி எங்கள் [தனியுரிமைக் கொள்கை](http://www.mozilla.org/en-US/privacy/) விளக்குகிறது.
 
-<u>Things you should know</u>
+<u>தெரிந்து கொள்ள வேண்டிய விஷயங்கள்</u>
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
+- Firefox Marketplace இல் உள்ள பெரும்பாலான பயன்பாடுகள் எங்களால் உருவாக்கப்பட்டவை அல்ல, அவற்றை பயன்படுத்தும் முன் அவற்றின் தனியுரிமைக் கொள்கைகளை நீங்கள் சரிபார்க்க வேண்டும்.
+- பணம் செலுத்துதல் பிறரால் செயல்படுத்தப்படுகிறது (Mozilla அல்ல), மேலும் அவர்களின் நடைமுறைகளைப் புரிந்துகொள்வதற்கு பொருத்தமான பணம் வழங்குநரின் தனியுரிமைக் கொள்கையை நீங்கள் சரிபார்க்க வேண்டும்.
+  - எந்த நிதி தகவலும் (அதாவது Firefox Marketplace இல் வாங்குவதற்கு பயன்படுத்திய கிரெடிட் கார்டு தகவல் போன்ற) Mozilla ஆல் சேகரிக்கப்படுவதோ, தக்கவைக்கப்படுவதோ அல்லது பயன்படுத்தப்படுவதோ இல்லை.
+- Firefox Marketplace, அதன் செயல்பாடுகளை வழங்க (அமர்வுகளுக்கு இடையே உங்களை நினைத்தல் போன்ற) மற்றும் மொத்த பகுப்பாய்வுகள் மூலம் பயனாளிகள் எவ்வாறு சேவைகளை பயன்படுத்துகிறார்கள் என்பதைப் புரிந்துகொள்வதற்கு உதவ குக்கீகள் மற்றும் பிற இணைய தொழில்நுட்பங்களைப் பயன்படுத்துகிறது.
+- உங்கள் அனுபவத்தைத் தனிப்பயனாக்க, உங்கள் கேரியர் மற்றும் இடத்தரவை Marketplace பயன்படுத்தலாம்.
+  - உங்கள் அனுபவத்தைத் தனிப்பயனாக்குவதற்கு, உங்கள் நாட்டு இடம் மற்றும் கேரியர் நெட்வொர்க்கைப் புரிந்துகொள்ள, Firefox OS சாதனங்களில், உங்கள் சாதனங்கள் வழங்கும் நெட்வொர்க் தகவலை நாங்கள் பயன்படுத்துகிறோம்.
+  - எல்லா தளங்களிலும், உங்கள் அனுபவத்தைத் தனிப்பயனாக்குவதற்கு, உங்கள் நாட்டு இடத்தைத் தீர்மானிக்க உங்கள் IP முகவரியை நாங்கள் பயன்படுத்தலாம்.
+- ஒரு புதிய பயன்பாட்டை நிறுவ நீங்கள் உள்நுழைய வேண்டாம், ஆனால் பணம் செலுத்திய பயன்பாடுகளுக்கு உள்நுழைய வேண்டும். உங்கள் தொழில்முறை செயல்பாட்டின் வரலாற்றை (எந்த பயன்பாடுகளை வாங்கினீர்கள் போன்ற) நீங்கள் பராமரிக்க உதவுகிறோம்.
+- எங்களிடமிருந்து மின்னஞ்சல் பெற நீங்கள் தேர்வுசெய்யலாம், மேலும் ஏதேனும் மின்னஞ்சல் மார்க்கெட்டிங் தகவல்களைப் பெறுவதற்கு தேர்வுசெய்ததில் இருந்து சந்தா விலகலாம்.
 
-### Mozilla Privacy Policy
+### Mozilla தனியுரிமைக் கொள்கை
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+MOZILLA வின் (அதாவது எங்களின்) ஒவ்வொரு தயாரிப்புகள் மற்றும் சேவைகளின் வளர்ச்சியில் உங்கள் தனியுரிமை ஒரு முக்கிய காரணியாக உள்ளது என MOZILLA கருதுகிறது. ஒளிவு மறைவின்றி வெளிப்படையாக இருப்பதில் நாங்கள் உறுதியாக உள்ளோம், மேலும் நாங்கள் எவ்வாறு உங்களைப் பற்றிய தகவல்களைப் பெறுகிறோம், பெற்ற பின் அதை வைத்து என்ன செய்கிறோம் என்பதை நீங்கள் அறிய விரும்புகிறோம்.
 
-### What do we mean by "personal information?"
+### "தனிப்பட்ட தகவல்" பற்றி நாங்கள் கூறுவது என்ன?
 
-For us, "personal information" means information which identifies you, like your name or email address.
+எங்களைப் பொறுத்தவரை, "தனிப்பட்ட தகவல்" என்பது உங்கள் பெயர் அல்லது மின்னஞ்சல் முகவரி போல உங்களை அடையாளம் காண்பிக்கும் ஒரு தகவல் ஆகும்.
 
-Any information that falls outside of this is "non-personal information."
+இதற்கு அப்பாற்பட்டு வரும் எந்த தகவலும் "தனிப்பட்ட தகவல்கள் அல்லாதவை" ஆகிறது.
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+உங்கள் தகவலை தனிப்பட்ட தகவல்கள் அல்லாதவற்றில் சேமித்தால், நாங்கள் அதைத் தனிப்பட்ட தகவலின் சேர்க்கையாகக் கருதுவோம். நாங்கள் தரவுத் தொகுப்பிலிருந்து எல்லா தனிப்பட்ட தகவல்களையும் அகற்றினால், மீதமுள்ள தகவல்கள் தனிப்பட்ட தகவல்கள் அல்லாதவை ஆகின்றன.
 
-### How do we learn information about you?
+### நாங்கள் எவ்வாறு உங்களைப் பற்றிய தகவலை அறிகிறோம்?
 
-We learn information about you when:
+உங்களைப் பற்றிய தகவல்களை இப்போதெல்லாம் அறிகிறோம்:
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+- நீங்கள் எங்களுக்கு நேரடியாக கொடுக்கிறீர்கள் (எ.கா., Firefox இலிருந்து எங்களுக்கு சிதைவு புகார்களை அனுப்ப தேர்வுசெய்யும்போது);
+- எங்கள் தயாரிப்புகள் மற்றும் சேவைகள் மூலம் தானாகவே இதைச் சேகரிக்கிறோம் (எ.கா., நாங்கள் உங்கள் Firefox பதிப்பானது புத்தம் புதிதாக இருக்கிறதா என்பதைச் சோதிக்கும் போது);
+- வேறு யாராவது எங்களுக்கு உங்களைப் பற்றிய தகவல்களைச் சொல்லும்போது (எ.கா., உங்கள் கணக்கை அமைக்க Thunderbird உங்கள் மின்னஞ்சல் வழங்குநருடன் செயல்புரிகிறது); அல்லது
+- நீங்கள் எங்களுக்கு கொடுத்த தகவலின் அடிப்படையில் நாங்கள் முயற்சித்து உங்களைப் பற்றி மேலும் அறியும்போது (எ.கா., எங்கள் சேவைகள் சிலவற்றிற்கு, மொழியைத் தனிப்பயனாக்க உங்கள் IP முகவரியைப் பயன்படுத்தும்போது).
 
-### What do we do with your information once we have it?
+### உங்களைப் பற்றிய எங்களிடம் உள்ள தகவலை வைத்து நாங்கள் என்ன செய்கிறோம்?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+நீங்கள் எங்களுக்கு தனிப்பட்ட தகவலை கொடுக்கும்போது, அதை நீங்கள் எங்களுக்கு அனுமதி அளித்த வழிகளில் பயன்படுத்துவோம். பொதுவாக, உங்களுக்கு, எங்கள் தயாரிப்புகள் மற்றும் சேவைகளை வழங்குவதில் மற்றும் மேம்படுத்துவதில் எங்களுக்கு உதவ, உங்கள் தகவல்களை பயன்படுத்துகிறோம்.
 
-### When do we share your information with others?
+### எப்போது உங்கள் தகவல்களை பிறருடன் பகிர்கிறோம்?
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](http://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+- அதைப் பகிர்வதற்கான உங்கள் அனுமதியைப் பெற்றிருக்கும்போது.
+- தயாரிப்புகளையும் சேவைகளையும் உங்களுக்கு செயல்படுத்துவதற்கு அல்லது வழங்குவதற்கு பயன்படுத்துகிறோம், அதுவும், உங்கள் தரவைப் பெறும் நிறுவனங்கள் Mozilla ஆல் அங்கீகரிக்கப்பட்ட வழிகளில் தரவைக் கையாள்வதற்கு ஒப்பந்த அடிப்படையில் கடமைப்பட்டிருக்கிறோம் என்றால் மட்டுமே.
+- [வெளிப்படையாக இருத்தல் என்ற எங்கள் ](http://www.mozilla.org/about/manifesto.html)நோக்கத்தை நிறைவேற்றும்போது. எங்கள் தயாரிப்புகளை சிறப்பாக்க நாங்கள் சில வேளைகளில் தகவல்களை வெளியிட்டு ஒரு திறந்த நிலை இணையத்தை ஊக்குவிக்கிறோம், ஆனால் அப்படி செய்யும்போது, உங்களைப் பற்றிய தகவலை அகற்றிடுவோம், மேலும் உங்களை மீண்டும் அடையாளம் காண்பதற்கான மிகக் குறைந்த அபாயத்தை மட்டுமே வெளியிட முயற்சிப்போம்.
+- சட்டத்திற்கு தேவைப்படும்போது. உங்களைப் பற்றிய தகவல்களைக் கேட்டு அரசாங்கத்திடமிருந்தோ அல்லது வழக்கு தொடர்பாகவோ கோரிக்கையைப் பெறும்போதெல்லாம் நாங்கள் சட்டத்தைப் பின்பற்றுவோம். இவ்வாறு, உங்கள் தனிப்பட்ட தகவலை ஒப்படைக்கக் கேட்டிருக்கும்போது, சட்டப்பூர்வமாக தடுக்கப்படாதவரை நாங்கள் உங்களுக்கு அறிவிப்போம். இது மாதிரியான கோரிக்கைகளைப் பெறும்போது, அவ்வாறு செய்வது சட்டத்திற்கு தேவைப்படுகிறது என்ற நல்ல நம்பிக்கை இருந்தால் மட்டுமே உங்கள் தனிப்பட்ட தகவலை வெளியிடுவோம். உங்கள் தகவலை வெளியிட, மூன்றாம் தரப்பினரிடமிருந்து வரும் கோரிக்கையை, சட்டப்படி பாதுகாப்பதை அல்லது ஆட்சேபிப்பதைக் குறைப்பதற்கான நோக்கம் இந்தக் கொள்கையில் இல்லை.
+- உங்களுக்கோ அல்லது வேறு யாருக்கோ தீங்கைத் தடுக்க வேண்டும் என்று நம்பும்போது. உங்களுடைய, MOZILLA வின் பிற பயனாளிகளுடைய அல்லது பொதுமக்களுடைய உரிமைகள், உடைமைகள் அல்லது பாதுபாப்பு போன்றவற்றைக் காப்பாற்ற நியாயமாகத் தேவைப்படுகிறது என்பதில் நல்ல நம்பிக்கை இருந்தால் மட்டுமே இவ்வாறு உங்கள் தகவலைப் பகிர்வோம்.
+- எங்கள் நிறுவனக் கட்டமைப்பு அல்லது நிலை மாறினால், (மறுகட்டமைப்பு செய்தாலோ, அடைந்தாலோ, அல்லது திவாலாகிப் போனாலோ) பின்வருபவருக்கோ அல்லது சார்பு நிறுவனத்திற்கோ உங்கள் தகவலைக் கொடுப்போம்.
 
-### How do we store and protect your personal information?
+### எவ்வாறு உங்கள் தனிப்பட்ட தகவலை சேமித்து பாதுகாக்கிறோம்?
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+உங்கள் தனிப்பட்ட தகவலைப் பெற்றவுடன் அவற்றை பாதுகாப்பதில் உறுதியாக உள்ளோம். நாங்கள் கட்டமைப்பு, வணிக மற்றும் தொழில்நுட்ப பாதுகாப்பு நடவடிக்கைகளை செயல்படுத்துகிறோம். எங்கள் முயற்சிகள் இருந்த போதிலும், பாதுகாப்பு மீறல் இருப்பதாக அறிந்தால், தக்க பாதுகாப்பு நடவடிக்கைகளை நீங்கள் எடுப்பதற்காக நாங்கள் உங்களுக்கு அறிவிப்போம்.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+நாங்கள் உங்கள் தனிப்பட்ட தகவலை எங்களுக்கு தேவைப்படும் நேரத்திற்கு மேல் வைத்துக்கொள்ள விரும்பவில்லை, எனவே எதற்காக அது சேகரிக்கப்பட்டதோ அது வரை மட்டுமே அதை வைத்திருக்கிறோம். ஒரு வேளை அது எங்களுக்கு தேவையில்லை, அதிக காலம் வைத்திருக்க சட்டம் எங்களைக் கேட்கவில்லை என்றால், அதை அழிக்க நாங்கள் நடவடிக்கைகள் எடுக்கிறோம்.
 
-### What else do we want you know?
+### வேறு என்ன நீங்கள் தெரிந்துகொள்ள விரும்புகிறோம்?
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+நாங்கள் ஒரு உலகளாவிய அமைப்பு, எங்களுடைய கணினிகள் உலகம் முழுவதும் பல்வேறு இடங்களில் உள்ளன. பல்வேறு நாடுகளில் பயன்படுத்தப்படும் கணினிகளை வழங்கும் சேவை வழங்குநர்களையும் நாங்கள் பயன்படுத்துகிறோம். அப்படியென்றால் மற்றொரு நாட்டிலுள்ள அந்த கணினிகளில் ஒன்றில் உங்கள் தகவல்கள் சென்று சேரலாம், மேலும் அந்த நாடு உங்களுடையதை விட வேறு வகையான தரவுப் பாதுகாப்பு நடவடிக்கைகளை வைத்திருக்கலாம். எங்களுக்கு தகவலைக் கொடுப்பதன் மூலம், இந்த வகையான உங்கள் தகவலின் பரிமாற்றத்தை நீங்கள் ஏற்கிறீர்கள். உங்கள் தகவல் எந்த நாட்டில் இருந்தாலும் பரவாயில்லை, அதனுடன் பொருந்தும் சட்டங்களுக்கு நாங்கள் இணங்குகிறோம், மேலும் இந்த தனியுரிமைக் கொள்கையில் நாங்கள் எடுக்கும் அனைத்து உறுதிப்பாடுகளையும் கடைபிடிப்போம்.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) to have your child's information removed.
+நீங்கள் 13 வயதிற்கு கீழ் இருந்தால், உங்களுடைய தனிப்பட்ட தகவல்கள் எங்களுக்கு தேவையில்லை, மேலும் அதை நீங்கள் எங்களுக்கு வழங்க வேண்டாம். நீங்கள் ஒரு பெற்றோராக இருந்து 13 வயதிற்கு கீழ் உள்ள உங்கள் குழந்தை அதன் தனிப்பட்ட தகவலைக் கொடுத்திருப்பதாக நம்பினால் தயவுசெய்து உங்கள் குழந்தையின் தகவலை அகற்ற [எங்களை அழைக்கவும்](https://www.mozilla.org/en-US/privacy/policies/firefox-os/).
 
-### What if we change this policy?
+### இந்த கொள்கையை மாற்றினால் என்ன ஆகும்?
 
-We may need to change this policy and when we do, we'll notify you.
+நாங்கள் இந்த கொள்கையை மாற்ற வேண்டி இருக்கலாம், மாற்றும்போது உங்களுக்கு அறிவிப்போம்.
