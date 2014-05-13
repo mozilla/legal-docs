@@ -1,172 +1,172 @@
-July 3, 2013
+3 जुलाई 2013
 
-### Summary
+### सारांश
 
-This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
+यह शीर्ष अनुभाग नीचे दी गई शर्तों का सार है. यह समझने में आपकी सहायता करने के लिए प्रदान किया गया है - लेकिन संपूर्ण दस्तावेज़ अवश्य पढ़ें, क्योंकि जब आप इससे सहमत होते हैं, तब आप यह दर्शाते हैं कि आप सभी शर्तों को स्वीकार करते हैं, न कि केवल इस सारांश को:
 
-- You must be at least 18 years old to have an account on the Marketplace or have your parent consent and supervise your use of the Marketplace.
-- Our use of your data will be in accordance with our [Firefox Marketplace privacy policy](/media/docs/privacy/hi.html). Apps or Add-ons provided by others may have their own privacy policy.
-- Developers (not Mozilla) are solely responsible for each App or Add-on, including providing you with support.
-- Don&rsquo;t do anything illegal or that could hurt us or others.
-- We&rsquo;re not responsible for your use of the Firefox Marketplace or the actions of other users, including Developers.
-- You&rsquo;ll be responsible for your use or misuse of the Firefox Marketplace, Apps or Add-ons.
+- Marketplace में खाता बनाने के लिए आपको कम से कम 18 वर्ष का होना चाहिए या आपके पास  Marketplace के उपयोग के लिए अपने माता-पिता की सहमति होनी चाहिए और उसका उपयोग उनके निरीक्षण में होना चाहिए.
+- आपके डेटा का हमारा द्वारा उपयोग [Firefox Marketplace गोपनीयता नीति](/media/docs/privacy/en-US.html)के अनुसार किया जाएगा. दूसरों के द्वारा उपलब्ध कराए गए ऐप्स या एड-ऑन की अपनी स्वयं की गोपनीयता नीति हो सकती है.
+- डेवलपर (न कि Mozilla) प्रत्येक ऐप और एड-ऑन के लिए पूरी तरह से उत्तरदायी होते हैं जिसमें आपके लिए सहायता प्रदान करना शामिल है.
+- ऐसा कुछ गैरकानूनी न करें या जो हमें या दूसरों को नुकसान पहुंचाता हो.
+- हम डेवलपर सहित आपके Firefox Marketplace के उपयोग या अन्य उपयोगकर्ताओं की कार्यवाहियों के लिए उत्तरदायी नहीं हैं.
+- Firefox Marketplace, ऐप्स या एड-ऑन के आपके उपयोग या दुरुपयोग के लिए आप उत्तरदायी होंगे.
 
-### Introduction
+### परिचय
 
-At Mozilla, we are committed to promoting choice and innovation on the web. That&rsquo;s why we created the Firefox Marketplace – a publicly available market that allows developers to distribute their Apps or Add-ons to users for use on any device that can access the open web.
+Mozilla में, हम वेब पर पसंद और नवोत्पाद को प्रोत्साहित करने के लिए प्रतिबद्ध हैं. इसलिए हमने Firefox Marketplace बनाया है – सार्वजनिक रूप से उपलब्ध एक ऐसा मार्केट जो डेवलपर को किसी भी ऐसे डिवाइस पर उपयोग करने के लिए उनके ऐप्स या एड-ऑन उपयोगकर्ताओं हेतु वितरित करने देता है जो ओपन वेब को एक्सेस कर सकता है.
 
-Your use of the Firefox Marketplace is subject to the terms and conditions of this Terms of Use as well as the related Firefox Marketplace policies referred to in these Terms or in the Firefox Marketplace (we will refer to these collectively as the &ldquo;Terms&rdquo;).
-
-
-### Eligibility
-
-By using the Firefox Marketplace, you agree that you are at least 18 years old or are acting with the consent and supervision of your parent; and you have full power, capacity, and authority to accept these Terms on behalf of yourself, or if applicable, your employer or other entity that you represent.
+Firefox Marketplace का आपका उपयोग इस उपयोग के नियम और शर्तों के साथ ही इन शर्तों या Firefox Marketplace की संदर्भित संबंधित Firefox Marketplace नीतियों के अधीन है (हम इन्हें सामूहिक रूप से “शर्तों” के रूप में देखते हैं).
 
 
-### Modifications to the Terms
+### पात्रता
 
-We reserve the right to change these Terms at our sole discretion, and if we do make material changes, we will notify you.
-
-
-### Definitions
-
-When we use the word &ldquo;Developers&rdquo;, we mean third party developers who make their Marketplace Content available through the Firefox Marketplace.
-
-You can install Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
-
-- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
-- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
-- Some Apps and Add-ons may be purchased from developers through the Firefox Marketplace (each, a &ldquo;Purchased&rdquo; App or Add-on and together, &ldquo;Purchased Content&rdquo;).
+Firefox Marketplace का उपयोग करके, आप यह सहमति देते हैं कि आप कम से कम 18 वर्ष की आयु के हैं या अपने अभिभावक की सहमति और उनकी देखरेख में कार्य कर रहे हैं; और आपके पास अपनी ओर से या यदि लागू हो, तो अपने नियोक्ता या अन्य किसी ऐसी इकाई की ओर से, जिसका आप प्रतिनिधित्व करते हैं, इन शर्तों को स्वीकार करने की पूरी शक्ति, क्षमता और प्राधिकार है.
 
 
-### Marketplace Content
+### शर्तों में संशोधन
 
-Each Developer, not Mozilla (except where we develop our own Apps or Add-ons), is solely responsible for their Add-ons and Apps.
-
-
-### Purchased Content
-
-The Firefox Marketplace uses Mozilla [Persona](https://persona.org/) to tie your Purchased Content to your account. You won&rsquo;t be able to use any Purchased Content without logging in with your Persona account. If you delete your Persona account, you may lose your Purchased Content. Developers may offer products and services that require you to log in or authenticate using additional credentials aside from Persona.
-
-By purchasing Purchased Content, you agree not to intentionally circumvent any authentication mechanism. We may stop providing access to the Firefox Marketplace or suspend your access to Purchased Content if we believe that you have violated these terms.
+हम इन शर्तों को अपने विवेक से परिवर्तित करने का सर्वाधिकार सुरक्षित रखते हैं और यदि हम कोई महत्वपूर्ण परिवर्तन करते हैं, तो हम आपको सूचित करेंगे.
 
 
-### Refunds & Support
+### परिभाषाएं
 
-Unless otherwise noted, the Marketplace Content listed in the Firefox Marketplace is developed and sold by third-party Developers, not Mozilla. For this reason, any support requests you have that are related to Marketplace Content have to be made to the Developer of that Marketplace Content. To request support for Marketplace Content you have purchased, please contact the Developer of that Marketplace content through that Marketplace Content&rsquo;s listing page.
+जब हम ?डेवलपर? शब्द का उपयोग करते हैं, तब हमारा अर्थ तृतीय पक्ष डेवलपर से होता है जो Firefox Marketplace के माध्यम से अपनी Marketplace सामग्री उपलब्ध कराते हैं.
 
-You can also request support from the mobile network operator on which you are accessing the Firefox Marketplace (a list of carrier support websites are available [here](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). For information on the Firefox Marketplace as well as articles about commonly asked questions, please visit the Mozilla support site [here](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
+आप Firefox Marketplace के माध्यम से एड-ऑन या ऐप्स (एकसाथ, ?Marketplace सामग्री?) इंस्टॉल कर सकते हैं:
 
-If your Purchased Content is defective, contains malware, is unavailable or otherwise does not perform as stated, you may request a refund [here](https://support.mozilla.org/en-US/questions/marketplace/refund) within 10 days of purchase.
-
-
-### Additional Terms regarding Marketplace Content
-
-To the extent some of the content on the Firefox Marketplace are covered by separate terms (such as an end user license agreement, an open source license and/or a terms of use for Marketplace Content from a Developer), you agree to comply with such terms. You can find the terms under which Marketplace Content is being distributed on the information page of that piece of Marketplace Content.
+- ?एड-ऑन? एक्सटेंशन, थीम, खोज प्रदाता, शब्दकोष, और भाषा पैक होते हैं जो आपको Firefox ब्राउज़र की कार्यक्षमता बढ़ाने देते हैं.
+- ?ऐप्स? ओपन वेब तकनीकों का उपयोग करके लिखे गए एप्लिकेशन होते हैं जो एकधिक प्लेटफ़ॉर्म पर चल सकते हैं.
+- कुछ ऐप्स और एड-ऑन को Firefox Marketplace (प्रत्येक, ?खरीदा गया? ऐप या एड-ऑन और एक साथ, ?खरीदी गई सामग्री?) के माध्यम से डेवलपर से खरीदा जा सकता है.
 
 
-### Privacy
+### Marketplace सामग्री
 
-You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/hi.html).
-
-Please see our [Privacy Policy](/media/docs/privacy/hi.html) for more detail.
-
-The Firefox Marketplace [Privacy Policy](/media/docs/privacy/hi.html) applies to the Firefox Marketplace but does not cover any Marketplace Content. You should check the privacy policy of a piece of Marketplace Content to discover the privacy practices concerning such Marketplace Content and be comfortable with them before purchasing, installing or using that Marketplace Content.
-
-If you believe that a Developer is not adhering to the [Firefox Marketplace Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement) or the Firefox Marketplace Terms of Use, please let us know through the &ldquo;Report Abuse&rdquo; link for the relevant Marketplace Content and we will investigate your request and take action as we think appropriate.
+प्रत्येक डेवलपर, Mozilla नहीं (उसे छो़ड़कर जहां हम अपने स्वयं के ऐप्स या एड-ऑन बनाते हैं), अपने एड-ऑन और ऐप्स के लिए पूरी तरह से जिम्मेदार है.
 
 
-### Your Submissions
+### खरीदी गई सामग्री
 
-You may upload comments, profile pictures and other content as a part of the features of the Firefox Marketplace (&ldquo;Your Submissions&rdquo;). For clarity, if you are a Developer, &ldquo;Your Submissions&rdquo; don&rsquo;t include any Apps or Add-ons that you upload to the Firefox Marketplace – terms regarding Apps or Add-ons you upload are covered by the [Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement). By uploading Your Submissions, you hereby grant us a non-exclusive, worldwide, royalty free license to use Your Submissions in connection with the provision and promotion of the Firefox Marketplace. You represent and warrant that Your Submissions will not infringe the rights of any third party and will comply with our [App Review Guidelines](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria).
+Firefox Marketplace आपके खाते की खरीदी गई सामग्री को संबद्ध करने के लिए Mozilla [Persona](https://persona.org/) का उपयोग करता है. आप Persona खाते से लॉगिन किए बिना किसी खरीदी गई सामग्री का उपयोग नहीं कर सकेंगे. यदि आप अपना Persona खाता हटा देते हैं, तो आप अपनी खरीदी गई सामग्री को खो सकते हैं. डेवलपर ऐसे उत्पाद और सेवाएं ऑफ़र कर सकते हैं जिनके लिए आपको Persona के अलावा अतिरिक्त क्रेडेंशियल का उपयोग करके लॉगिन या प्रमाणित करने की आवश्यकता होती है.
+
+खरीदी गई सामग्री को खरीदकर, आप किसी प्रमाणन क्रियाविधि में जानबूझकर गतिरोध उत्पन्न नहीं करने के लिए सहमत होते हैं. यदि हमें लगता है कि आपने इन शर्तों का उल्लंघन किया है तो हम Firefox Marketplace की एक्सेस देना बंद कर सकते हैं या खरीदी गई सामग्री पर आपकी एक्सेस को निलंबित कर सकते हैं.
 
 
-### Digital Millennium Copyright Act Notice
+### धनवापसी और सहायता
 
-If you are a copyright owner or an agent of a copyright owner and believe that content available by means of one of Mozilla&rsquo;s websites infringes one or more of your copyrights, please immediately notify Mozilla's Copyright Agent by means of emailed, mailed, or faxed notice (&ldquo;DMCA Notice&rdquo;) and include the information described below. You can review 17 U.S.C. &sect; 512(c)(3) of the Digital Millennium Copyright Act for authoritative detail, or consult your own attorney if you need assistance. If Mozilla takes action in response to a DMCA Notice, it will make a good faith attempt to contact the party that made such content available by means of the most recent email address, if any, provided by such party to Mozilla. You may be held liable for damages based on certain material misrepresentations contained in a DMCA Notice. Thus, if you are not sure content located on or linked to by the website infringes your copyright, you should consider first contacting an attorney.
+जब तक कि अन्यथा ज्ञात न हो, कि Firefox Marketplace में सूचीबद्ध Marketplace सामग्री तृतीय-पक्ष डेवलपर द्वारा बनाई गई या बेची गई है, Mozilla द्वारा नहीं. इस कारण से, आपके किसी सहायता के अनुरोध जो Marketplace सामग्री से संबंधित हैं उन्हें उस Marketplace सामग्री के डेवलपर से करना होगा. आपके द्वारा खरीदी गई Marketplace सामग्री के लिए सहायता अनुरोध करने के लिए, कृपया उस Marketplace सामग्री के सूची पृष्ठ के डेवलपर से संपर्क करें.
 
-All DMCA Notices should include the following:
+आप उस मोबाइल नेटवर्क से भी सहायता का अनुरोध कर सकते हैं जिस पर Firefox Marketplace एक्सेस कर रहे हैं (कैरियर सहायता वेबसाइटों की सूची [यहां](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)उपलब्ध है). अकसर पूछे जाने वाले सामान्य प्रश्नों के बारे में लेखों के साथ ही Firefox Marketplace की अधिक जानकारी के लिए, कृपया Mozilla सहायता साइट [यहां](https://support.mozilla.org/en-US/kb/what-firefox-marketplace)जाएं.
 
-1. A signature, electronic or physical, of the owner, or a person authorized to act on behalf of the owner, of an exclusive copyright right that is being infringed;
-2. An identification of the copyrighted work or works that you claim have been infringed;
-3. A description of the nature and location of the material that you claim to infringe your copyright, in sufficient detail to permit Mozilla to find and positively identify that content, including the URL where it is located;
-4. Your name, address, telephone number, and email address where we can contact you; and
-5. A statement by you: **(i)** that you believe in good faith that the use of the material that you claim infringes your copyright is not authorized by law, or by the copyright owner or such owner&rsquo;s agent; and, **(ii)** that all of the information contained in your DMCA Notice is accurate, and under penalty of perjury, that you are either the owner of, or a person authorized to act on behalf an owner of, the exclusive copyright right that is being infringed.
+यदि आपकी खरीदी गई सामग्री में दोष, मैलवेयर है, अनुपलब्ध है या अन्यथा बनाए अनुसार प्रदर्शन नहीं करती है, तो आप खरीदी के 10 दिनों के भीतर धनवापसी का [यहां](https://support.mozilla.org/en-US/questions/marketplace/refund) अनुरोध कर सकते हैं.
 
-Mozilla&rsquo;s designated Copyright Agent to receive notifications of claimed infringement is as follows:
+
+### Marketplace सामग्री के संबंध में अतिरिक्त शर्तें
+
+कुछ हद तक Firefox Marketplace पर सामग्री अलग शर्तों द्वारा कवर की जाती है (जैसे अंतिम उपयोगकर्ता लाइसेंस अनुबंध, ओपन सोर्स लाइसेंस और/या डेवलपर की और से Marketplace सामग्री के उपयोग की शर्तें), आप उन शर्तों का पालन करने की सहमति देते हैं. आप शर्तों को Marketplace सामग्री के भाग के जानकारी पृष्ठ पर वितरित की जा रही Marketplace सामग्री के अंतर्गत प्राप्त कर सकते हैं.
+
+
+### गोपनीयता
+
+आपको अपने पंजीकरण के भाग के रूप में और Firefox Marketplace का उपयोग करने के लिए अपने बारे में जानकारी (जैसे पहचान या संपर्क विवरण)  हमें देनी होगी. हम आपकी जानकारी का प्रबंधन Firefox Marketplace [गोपनीयता नीति](/media/docs/privacy/en-US.html)में बताए गए अनुसार करेंगे.
+
+कृपया अधिक विवरण के लिए हमारी [गोपनीयता नीति](/media/docs/privacy/en-US.html) देखें.
+
+Firefox Marketplace [गोपनीयता नीति](/media/docs/privacy/en-US.html) Firefox Marketplace पर लागू होती है लेकिन किसी Marketplace सामग्री को कवर नहीं करती है. आपको Marketplace सामग्री जैसी गोपनीयता अभ्यासों के बारे में पता लगाने के लिए Marketplace सामग्री के भाग की गोपनीयता नीति की जांच करनी चाहिए और उस Marketplace सामग्री की खरीदारी करने, इंस्टॉल करने और उसका उपयोग करने से पहले उनके साथ सुविधापूर्ण होना चाहिए.
+
+यदि आपको लगता है कि डेवलपर [Firefox Marketplace डेवलपर अनुबंध](https://marketplace.firefox.com/developers/docs/policies/agreement) या Firefox Marketplace की उपयोग की शर्तो का पालन नहीं कर रहा है, तो कृपया प्रासंगिक Marketplace सामग्री के लिए “दुरुपयोग की रिपोर्ट करें” लिंक के माध्यम से हमें बताएं और हम आपके अनुरोध की जांच करेंगे और हमारे अनुसार उपयुक्त कार्यवाही करेंगे.
+
+
+### आपके सबमिशन
+
+आप Firefox Marketplace (“आपके सबमिशन”) की सुविधाओं के भाग के रूप में टिप्पणियां, प्रोफ़ाइल चित्र और अन्य सामग्री अपलोड कर सकते हैं . स्पष्टता के लिए, यदि आप डेवलपर हैं, तो ?आपके सबमिशन? में कोई ऐप्स या एड-ऑन शामिल नहीं होते हैं जो आप Firefox Marketplace में अपलोड करते हैं– आपके द्वारा अपलोड किए जाने वाले ऐप्स या एड-ऑन से संबंधित शर्तें [डेवलपर अनुबंध](https://marketplace.firefox.com/developers/docs/policies/agreement)द्वारा कवर की जाती हैं. अपने सबमिशन अपलोड करके, आप एतद्वारा हमें Firefox Marketplace के प्रावधान और प्रचार के संबंध में अपने सबमिशन का उपयोग करने के लिए गैर-विशिष्ट, वैश्विक, रॉयल्टी मुक्त लाइसेंस प्रदान करते हैं. आप दर्शाते हैं और वारंटी देते हैं कि आपके सबमिशन किसी तृतीय पक्ष के अधिकारों का उल्लंघन नहीं करेंगे और आपके [ऐप समीक्षा दिशानिर्देशों](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria)का पालन करेंगे.
+
+
+### डिजिटल मिलेनियम कॉपीराइट अधिनियम सूचना
+
+यदि कॉपीराइट स्वामी हैं या कॉपीराइट स्वामी के एजेंट हैं और लगता है कि Mozilla की किसी वेबसाइट में उपलब्ध सामग्री आपके एक या अधिक कॉपीराइट का उल्लंघन करती है, तो कृपया Mozilla के कॉपीराइट एजेंट को ईमेल करके, मेल भेजकर या फ़ैक्स से सूचना देकर (?DMCA सूचना?) और नीचे वर्णित जानकारी को शामिल करके तुरंत सूचित करें. आप आधिकारिक विवरण के लिए डिजिटल मिलेनियम कॉपराइट अधिनियम के 17 U.S.C. ｧ 512(c)(3)  की समीक्षा कर सकते हैं या यदि आपको सहायता चाहिए तो अपने अटॉर्नी से सलाह ले सकते हैं. यदि Mozilla, DMCA सूचना के प्रतिसाद स्वरूप कार्यवाही करता है, तो यह उस पक्ष से संपर्क करने का विश्वासपूर्ण प्रयास होगा जिसने Mozilla को ऐसे पक्ष द्वारा प्रदान किए गए यदि कोई है, सबसे हाल ही के ईमेल पते के माध्यम से ऐसी सामग्री उपलब्ध कराई है. DMCA सूचना में शामिल निश्चित सामग्री की गलत प्रस्तुति पर आधारित क्षति के लिए आपको उत्तरदायी ठहराया जा सकता है. इसलिए, यदि आप वेबसाइट पर मौजूद या उससे लिंक की गई सामग्री द्वारा अपने कॉपीराइट के लिए सुनिश्चित नहीं हैं, तो किसी अटॉर्नी को संपर्क करने से पहले आपको विचार कर लेना चाहिए.
+
+सभी DMCA सूचनाओं में निम्न शामिल होना चाहिए:
+
+1. जिस अनन्य कॉपीराइट अधिकार का उल्लंघन किया जा रहा है उसके स्वामी या स्वामी की ओर से कार्य करने वाले अधिकृत व्यक्ति का इलेक्ट्रॉनिक या भौतिक हस्ताक्षर;
+2. कॉपीराइट किए गए कार्य कार्यों की एक पहचान, जिसके उल्लंघन का आपने दावा किया है;
+3. सामग्री की प्रकृति और स्थान का विवरण जिसके द्वारा आपने अपने कॉपीराइट के उल्लंघन का दावा किया है, Mozilla द्वारा उस सामग्री को ढूंढने और ठीक तरीके से उसकी पहचान करने के लिए पर्याप्त विवरण, जिसमें सामग्री के स्थान का URL शामिल है;
+4. आपका नाम, पता, टेलीफ़ोन नंबर और ईमेल पता जिसमें हम आपसे संपर्क कर सकें; और
+5. आपके द्वारा कथन: **(i)** कि आप सद्भावपूर्ण तरीके से मानते हैं कि उस सामग्री का उपयोग कानून द्वारा या कॉपीराइट स्वामी या ऐसे स्वामी के एजेंट द्वारा अधिकृत नहीं है जिसके उल्लंघन का आपने दावा किया है; और, **(ii)** यह कि आपकी DMCA सूचना में शामिल पूरी जानकारी सटीक है, और झूठी गवाही की पेनाल्टी के अंतर्गत है, अर्थात आप उस अनन्य कॉपीराइट अधिकार के या तो स्वामी हैं या स्वामी की ओर से कार्य करने वाले अधिकृत व्यक्ति हैं.
+
+दावा किए गए उल्लंघन की सूचना प्राप्त करने वाले Mozilla के नामित कॉपीराइट एजेंट का पता निम्न है:
 
 <address>
-  Office of the General Counsel<br>
-  Mozilla Corporation<br>
-  331 E. Evelyn Ave.,<br>
-  Mountain View, CA 94041<br>
-  Email: dmcanotice at mozilla dot com<br>
-  Phone Number: [650-903-0800](tel:6509030800)<br>
-  Fax: 650-903-0875
+Office of the General Counsel<br>
+Mozilla Corporation<br>
+331 E. Evelyn Ave.,<br>
+Mountain View, CA 94041<br>
+ईमेल: dmcanotice at mozilla dot com<br>
+फ़ोन नंबर: [650-903-0800](tel:6509030800)<br>
+फ़ैक्स: 650-903-0875
 </address>
 
-If you fail to comply with all of the requirements of a DMCA notice, Mozilla may not act upon your notice.
+यदि आप DMCA सूचना की सभी आवश्यकताओं का पालन करने में विफल रहते हैं, तो हो सकता है कि Mozilla आपकी सूचना पर कार्यवाही न करे.
 
-Mozilla will terminate a user&rsquo;s account if, under appropriate circumstances, they are determined to be a repeat infringer.
+यदि उपयुक्त परिस्थितियों में, किसी उपयोगकर्ता द्वारा बार-बार उल्लंघन करते हुए पाया जाता है, तो Mozilla उस उपयोगकर्ता के खाते को समाप्त कर देगा.
 
-The contact information provided above also applies to notices that are based on non-U.S. copyrights or trademarks.
+ऊपर उपलब्ध कराई गई संपर्क जानकारी उन सूचनाओं पर भी लागू होती है जो गैर-U.S. कॉपीराइट और ट्रेडमार्क पर आधारित होती हैं.
 
-Only DMCA Notices, Trademark Notices (which are defined below), and international copyright or trademark notices should go to the copyright agent.
+DMCA सूचनाएं, ट्रेडमार्क सूचनाएं (जो नीचे परिभाषित की गई हैं), और अंतर्राष्ट्रीय कॉपीराइट या ट्रेडमार्क सूचनाएं कॉपीराइट एजेंट के पास जानी चाहिए.
 
-Please be advised that any DMCA Notices sent to Mozilla may be sent to third parties (including the accused) and posted on the Internet (including at [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
-
-
-### Trademark Notices
-
-If you are a trademark owner or an agent of a trademark owner and believe that content available by means of one of Mozilla&rsquo;s websites infringes one or more of your trademarks, please immediately notify Mozilla&rsquo;s Copyright Agent by means of emailed, mailed, or faxed notice (&ldquo;Trademark Notice&rdquo;) and include the information described above for DMCA notices. Mozilla handles notices it receives of trademark violations via a process very similar to the DMCA Notice process that is described above for copyrights. In addition to the DMCA Notice requirements, Mozilla requires that the entire Trademark Notice be made by the trademark owner (or her agent) under penalty of perjury.
+कृपया अवगत रहें कि Mozilla को भेजी गई कोई DMCA सूचना तृतीय पक्षों (अभियुक्त सहित) को भेजी जा सकती है और ( [http://www.chillingeffects.org/](http://www.chillingeffects.org/) सहित) इंटरनेट पर पोस्ट की जा सकती है. 
 
 
-### Export
+### ट्रेडमार्क सूचनाएं
 
-Some of the content you may download through the Firefox Marketplace may have legal restrictions on its export. You agree to comply with all applicable export and re-export control laws and regulations and you confirm that you are not prohibited from receiving exports and services under US or other export laws.
-
-
-### General Representation and Warranty
-
-You represent and warrant that your use of the Firefox Marketplace will be in accordance with these Terms, with any applicable laws and regulations, and with any other applicable policy or terms and conditions. For example, if you decide to become a Developer yourself, you must agree to the [Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement).
+यदि ट्रेडमार्क स्वामी हैं या ट्रेडमार्क स्वामी के एजेंट हैं और लगता है कि Mozilla की किसी वेबसाइट में उपलब्ध सामग्री आपके एक या अधिक ट्रेडमार्क का उल्लंघन करती है, तो कृपया Mozilla के ट्रेडमार्क एजेंट को ईमेल करके, मेल भेजकर या फ़ैक्स से सूचना देकर (?ट्रेडमार्क सूचना?) और DMCA सूचनाओं के ऊपर वर्णित जानकारी को शामिल करके तुरंत सूचित करें. Mozilla को जो ट्रेडमार्क उल्लंघन की सूचनाएं प्राप्त होती हैं उन्हें वह कॉपीराइट के लिए ऊपर वर्णित DMCA सूचना प्रक्रिया के लगभग समान ही एक प्रक्रिया के माध्यम से हैंडल करता है. DMCA सूचना आवश्यकताओं के अतिरिक्त, Mozilla के लिए आवश्यक है कि समग्र ट्रेडमार्क सूचना, झूठी गवाही की पेनाल्टी के अंतर्गत ट्रेडमार्क स्वामी (या उसके एजेंट) द्वारा बनाई जाए.
 
 
-### Release and Indemnification
+### निर्यात
 
-You release Mozilla, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other users, including Developers.
-
-You agree to defend, indemnify and hold harmless Mozilla, its contractors and its licensors, and their respective directors, officers, employees and agents from and against any and all third party claims and expenses, including attorneys&rsquo; fees, arising out of your use of the Firefox Marketplace and Marketplace Content, including but not limited to out of your violation of any representation or warranty contained in these Terms.
+हो सकता है आपके द्वारा Firefox Marketplace से डाउनलोड की गई कुछ सामग्री के निर्यात पर कानूनी प्रतिबंध हों. आप लागू होने वाले सभी निर्यात और पुनः-निर्यात नियंत्रण कानून और विनियमों का पालन करने की सहमति देते हैं और पुष्टि करते हैं कि आप यूएस या अन्य निर्यात के कानूनों के अंतर्गत निर्यात और सेवाओं को प्राप्त करने के लिए निषिद्ध नहीं हैं.
 
 
-### Term; Termination
+### सामान्य निरूपण और वारंटी
 
-The Terms will continue to apply until terminated by either you or Mozilla.
-
-You may end your legal agreement with Mozilla regarding the Firefox Marketplace at any time for any reason by deactivating your accounts and discontinuing your use of the Firefox Marketplace. You do not need to specifically inform Mozilla when you stop using the Firefox Marketplace. If you stop using the Firefox Marketplace without deactivating your accounts, your accounts may be deactivated due to prolonged inactivity.
-
-We may suspend or terminate your accounts or cease providing you with all or part of the Firefox Marketplace at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Firefox Marketplace to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account.
-
-In all such cases, the Terms shall terminate, including, without limitation, your license to use the Firefox Marketplace, except that the following sections shall continue to apply: Release and Indemnification, Disclaimer; Limitation of Liability, Governing Law, Miscellaneous.
-
-In addition, Mozilla may stop (permanently or temporarily) providing the Firefox Marketplace (or any of its features) to you or to users generally and may not be able to provide you with prior notice.
+आप दर्शाते और वारंटी देते हैं कि Firefox Marketplace का आपका उपयोग इन शर्तों, किसी भी लागू होने वाले कानून और विनियम, किसी अन्य लागू होने वाली नीति या नियम और शर्तों के अनुसार होगा. उदाहरण के लिए, यदि आप डेवलपर बनने का निर्णय लेते हैं, तो आपको [डेवलपर अनुबंध](https://marketplace.firefox.com/developers/docs/policies/agreement)से सहमत होना होगा. 
 
 
-### Disclaimer; Limitation of Liability
+### रिलीज़ और क्षतिपूर्ति
 
-For clarity, as used herein, &ldquo;Content&rdquo; includes, without limitation, &ldquo;Marketplace Content&rdquo;.
+आप Mozilla, इसके अधिकारियों, कर्मचारियों, एजेंट और उत्तराधिकारियों को डेवलपर सहित अन्य उपयोगकर्ताओं के साथ उत्पन्न हुए या उनसे संबंधित किसी भी तरह या किसी भी प्रकार के मतभेद के दावों, मांग और क्षतियों से मुक्त करते हैं.
 
-EXCEPT AS OTHERWISE EXPRESSLY STATED, INCLUDING BUT NOT LIMITED TO IN A LICENSE OR OTHER AGREEMENT GOVERNING THE USE OF SPECIFIC CONTENT, ALL CONTENT LOCATED AT OR AVAILABLE FROM THE Firefox Marketplace IS PROVIDED &quot;AS IS,&quot; AND MOZILLA, ITS CONTRACTORS AND ITS LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT OF PROPRIETARY RIGHTS. WITHOUT LIMITING THE FOREGOING, MOZILLA, ITS CONTRACTORS AND ITS LICENSORS MAKE NO REPRESENTATION OR WARRANTY THAT CONTENT LOCATED ON THE Firefox Marketplace IS FREE FROM ERROR OR SUITABLE FOR ANY PURPOSE; NOR THAT THE USE OF SUCH CONTENT WILL NOT INFRINGE ANY THIRD PARTY COPYRIGHTS, TRADEMARKS OR OTHER INTELLECTUAL PROPERTY RIGHTS. YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN CONTENT THROUGH MOZILLA&#39;S WEBSITES AT YOUR OWN DISCRETION AND RISK, AND THAT MOZILLA, ITS CONTRACTORS AND ITS LICENSORS WILL HAVE NO LIABILITY OR RESPONSIBILITY FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF SUCH CONTENT.
-
-EXCEPT AS OTHERWISE EXPRESSLY STATED, INCLUDING BUT NOT LIMITED TO IN A LICENSE OR OTHER AGREEMENT GOVERNING THE USE OF SPECIFIC CONTENT, IN NO EVENT WILL MOZILLA, ITS CONTRACTORS OR ITS LICENSORS BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, REGARDLESS OF THE BASIS OR NATURE OF THE CLAIM, RESULTING FROM ANY USE OF THE Firefox Marketplace, OR THE CONTENTS THEREOF OR OF ANY HYPERLINKED WEB SITE, INCLUDING WITHOUT LIMITATION ANY LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA OR OTHERWISE, EVEN IF MOZILLA, ITS CONTRACTORS OR ITS LICENSORS WERE EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-SOME JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CERTAIN INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+आप अटॉर्नी के शुल्क,  Marketplace और Marketplace सामग्री के आपके उपयोग से उत्पन्न हुए खर्चे जिनमें इन शर्तों में शामिल प्रस्तुतिकरण या वारंटी शामिल है लेकिन उन तक ही सीमित नहीं होकर, Mozilla, उसके अनुबंधकर्ताओं और उसके लाइसेंसर और उनके संबंधित निदेशक, अधिकारी, कर्मचारी और एजेंट को तृतीय पक्ष के सभी दावों और खर्चों से बचाने, क्षतिपूर्ति करने और नुकसानरहित बनाए रखने की सहमति देते हैं.
 
 
-### Governing Law
+### शर्त; निष्कासन
 
-These Terms shall be governed by the laws of the State of California without regard to conflict of law principles. The provisions of the United Nations Convention on the International Sale of Goods and the Uniform Computer Information Transactions Act, however designated, are excluded and shall not apply to this Agreement or any transactions hereunder. You agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within Santa Clara County, California for the purpose of litigating any claims or disputes.
+शर्तें आपके या Mozilla के द्वारा समाप्त नहीं किए जाने तक सतत लागू रहेंगी.
+
+आप अपने खाते को निष्क्रिय करके और Firefox Marketplace के अपने उपयोग को बंद करके किसी भी कारण से किसी समय Firefox Marketplace से संबंधित Mozilla के साथ अपने कानूनी अनुबंध को समाप्त कर सकते हैं. आपके द्वारा Firefox Marketplace का उपयोग करना बंद करते समय Mozilla को विशेष रूप से सूचित करने की आवश्यकता नहीं है. यदि आप अपने खातों को निष्क्रिय किए बिना Firefox Marketplace का उपयोग करना बंद कर देते हैं, तो दीर्घकालीन निष्क्रियता के कारण आपके खाते निष्क्रिय किए जा सकते हैं.
+
+हम निम्नलिखित में से किसी भी कारण से किसी भी समय आपके खातों को निलंबित या समाप्त कर सकते हैं या संपूर्ण Firefox Marketplace का उसके किसी भाग को उपलब्ध कराना बंद कर सकते हैं, लेकिन यह इन्हीं तक सीमित नहीं है: (i) आपने इन शर्तों का उल्लंघन किया है, (ii) आपने हमारे लिए जोख़िम उत्पन्न किया है या संभावित कानूनी खुलासा किया है; (iii) आपके लिए Firefox Marketplace का हमारा प्रावधान अब व्यवसायिक रूप से व्यवहार्य नहीं है. हम आपके खाते से संबद्ध ईमेल पते द्वारा या आपके द्वारा अगली बार खाते पर पहुंचने का प्रयास करने पर आपको सूचित करने के लिए उचित प्रयास करेंगे.
+
+ऐसे सभी मामलों में, शर्तें बिना किसी सीमा के समाप्त हो जाएंगी, Firefox Marketplace को उपयोग करने का आपका लाइसेंस, निम्न अनुभागों को छोड़कर, लागू रहेगा: मोचन और क्षतिपूर्ति, अस्वीकरण; दायित्व की सीमा, नियंत्रण कानून, विविध.
+
+इसके अतिरिक्त, सामान्यतः Mozilla आपको या उपयोगकर्ताओं को Firefox Marketplace (या इसकी किसी सुविधा) को (स्थायी रूप से या अस्थायी रूप से) उपलब्ध कराना बंद कर सकता है और आपको पहले से सूचना उपलब्ध नहीं करा सकेगा.
 
 
-### Miscellaneous
+### अस्वीकरण; उत्तरदायित्व की सीमा
 
-You may not assign your rights or delegate its obligations under these Terms. These Terms are not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party. These Terms will be governed and construed in accordance with the laws of California, without regard to conflict of law principles. Our relationship is that of independent contractors: these Terms shall not be construed to create a joint venture or partnership between the parties. Neither party shall be deemed to be an employee, agent, partner or legal representative of the other for any purpose and neither shall have any right, power or authority to create any obligation or responsibility on behalf of the other. These Terms constitute the entire agreement between the parties with respect to the subject matter hereof. These Terms supersede, and govern, any other prior or collateral agreements with respect to the subject matter hereof. If any provision of these Terms are held or made invalid or unenforceable for any reason, such invalidity shall not affect the remainder of these Terms, and the invalid or unenforceable provisions shall be replaced by a mutually acceptable provision, which being valid, legal and enforceable comes closest to the original intentions of the parties hereto and has like economic effect. The failure of either party at any time or times to require performance of any provision hereof shall in no manner affect the right at a later time to enforce the same. No waiver by either party of the breach of any term or covenant contained in these Terms, whether by conduct or otherwise, in any one or more instances, shall be deemed to be, or construed as, a further or continuing waiver of any such breach or a waiver of the breach of any other term or covenant contained in these Terms.
+यहां उपयोग किए गए अनुसार, स्पष्टता के लिए, "सामग्री" में ?Marketplace सामग्री? शामिल है लेकिन यह इस तक ही सीमित नहीं है.
+
+विशिष्ट सामग्री के उपयोग को नियंत्रित करने वाले लाइसेंस या अन्य अनुबंध में स्पष्ट रूप से अन्यथा बताए गए को छोड़कर लेकिन इन तक ही सीमित नहीं होकर, Firefox Marketplace में मौजूद या उसकी ओर से उपलब्ध कराई गई पूरी सामग्री "जैसी है" वैसी ही उपलब्ध कराई जाती है और बिक्री, विशेष प्रयोजन की उपयुक्तता, ट्रेडमार्क संबंधी अधिकार का थोड़ा या गैर-उल्लंघन सहित लेकिन इन तक ही सीमित नहीं होकर, MOZILLA, उसके अनुबंधकर्ता और उसके लाइसेंसर कोई स्षष्ट या निहित प्रस्तुतिकरण या वारंटियां नहीं देते हैं. पूर्ववर्ती को सीमित किए बिना, MOZILLA, उसके अनुबंधकर्ता और उसके लाइसेंसर ऐसा कोई प्रस्तुतिकरण या वारंटी नहीं देते कि Firefox Marketplace में मौजूद सामग्री त्रुटि रहित है या किसी भी प्रयोजन के लिए उपयुक्त है; न कि यह कि ऐसी सामग्री का उपयोग किसी तृतीय पक्ष के कॉपीराइट, ट्रेडमार्क या अन्य बौद्धिक संपदा अधिकारों का उल्लंघन नहीं करेगा. आप समझते हैं और सहमति देते हैं कि आप MOZILLA की वेबसाइटों से सामग्री को अपने स्वयं के विवेक और जोखिम पर डाउनलोड या अन्यथा प्राप्त करते हैं और यह कि ऐसी सामग्री के डाउनलोड या उपयोग के परिणामस्वरूप आपके कंप्यूटर सिस्टम या डेटा को होने वाली किसी क्षति के लिए MOZILLA, उसके अनुबंधकर्ता और उसके लाइसेंसर का कोई उत्तरदायित्व नहीं होगा.
+
+विशिष्ट सामग्री के उपयोग को नियंत्रित करने वाले लाइसेंस या अन्य अनुबंध में स्पष्ट रूप से अन्यथा बताए गए को छोड़कर लेकिन इन तक ही सीमित नहीं होकर, MOZILLA, उसके अनुबंधकर्ता या उसके लाइसेंसर किसी भी स्थिति में दावे के आधार या उसकी प्रकृति पर ध्यान दिए बिना, Firefox Marketplace के या उसकी सामग्री के या किसी भी हाइपरलिंक वेबसाइट के किसी-भी उपयोग के परिणामस्वरूप सीमारहित रूप से खोए हुए किसी-भी लाभ, व्यावसायिक अवरोध, डेटा की हानि या अन्यथा सहित किसी भी प्रत्यक्ष, अप्रत्यक्ष, विशेष या परिणामी या अनुकरणीय क्षतियों के लिए आपके या किसी भी अन्य पक्ष के प्रति उत्तरदायी नहीं होंगे, चाहे  mozilla को, उसके अनुबंधकर्ताओं को या इसके लाइसेंसर को ऐसी क्षति की संभावना के बारे में स्पष्ट रूप से बता दिया गया हो.
+
+हो सकता है कुछ क्षेत्राधिकार कुछ आकस्मिक या अनुकरणीय क्षतियों के लिए निहित वारंटियों के अपवर्जन या उत्तरदायित्व के अपवर्जन या सीमा की अनुमति न दें, इसलिए हो सकता है उपरोक्त सीमाओं में से कुछ आप पर लागू न हों.
+
+
+### नियंत्रण कानून
+
+इन शर्तों को कानूनी सिद्धांतों के विरोध पर किसी संबंध के बिना कैलिफ़ोर्निया राज्य के कानूनों द्वारा नियंत्रित किया जाना चाहिए. अंतर्राष्ट्रीय माल विक्रय पर संयुक्त राष्ट्र सम्मेलन और कंप्यूटर सूचना विनिमय अधिनियम के प्रावधान, हालांकि नामित किए गए हैं, लेकिन बाहर किए गए हैं और इसके अंतर्गत इस समझौते या किसी भी लेनदेन के लिए लागू नहीं होंगे. आप किन्हीं भी दावों या विवादों की मुकदमेबाज़ी करने के लिए कैलिफ़ोर्निया राज्य के सांता क्लारा में स्थित राज्य न्यायालयों और फेडरल न्यायालयों के व्यक्तिगत और अनन्य क्षेत्राधिकार में सबमिट करने के लिए सहमत हैं.
+
+
+### विविध
+
+आप इन शर्तों के अंतर्गत अपने अधिकार आवंटित नहीं कर सकते है या उसके उत्तरदायित्व नहीं सौंप सकते. ये शर्तें किसी को लाभ पहुंचाने के लिए अभिप्रेत नहीं है, न ही किसी तृतीय पक्ष में किन्हीं अधिकारों को, उत्पन्न करने के लिए है. इन शर्तों को कानूनी सिद्धांतों के विरोध को समझे बिना, कैलिफ़ोर्निया के कानूनों के अनुसार नियंत्रित और अनुवादित किया जाएगा. हमारे संबंध स्वतंत्र अनुबंधकर्ताओं के हैं: ये शर्तें पक्षों के मध्य संयुक्त उद्यम या साझेदारी बनाने के लिए नहीं बनाई जाएंगी. न तो पक्ष को किसी भी उद्देश्य के लिए दूसरे का कोई कर्मचारी, एजेंट, साझेदार या कानूनी प्रतिनिधि समझा जाएगा और न ही उसके पास दूसरे की की ओर से किसी भी दायित्व या जिम्मेदारी उत्पन्न करने का कोई अधिकार, शक्ति या प्रधिकार होगा. इन शर्तों में विषय सामग्री के संबंध में पक्षों के मध्य का संपूर्ण अनुबंध है. ये शर्तें विषय सामग्री के संबंध में किसी पूर्व के या जमानत के समझौतों, का अधिलंघन करते हैं, औऱ नियंत्रित करते हैं. यदि इन शर्तों का कोई भी प्रावधान किसी भी कारण से अमान्य या अप्रवर्तनीय होता है या किया जाता है, तो ऐसी अमान्यता इन शर्तों के शेष को प्रभावित नहीं करेगी, और अमान्य या अप्रवर्तनीय प्रावधान को पारस्परिक रूप से स्वीकार्य प्रावधान, द्वारा प्रतिस्थापित किया जाएगा, जो कि मान्य, कानूनी और प्रवर्तनीय होते हुए पक्षों के मूल इरादों के करीब हो साथ ही और जिसके उसी तरह के आर्थिक प्रभाव हो. किसी भी पक्ष द्वारा किसी भी समय या समयों पर संबंधित किसी प्रावधान के आवश्यक निष्पादन की विफलता, समान प्रावधान को बाद में लागू करने के अधिकार को किसी भी तरीके से प्रभावित नहीं करेगी. इन शर्तों के या इन शर्तों में शामिल किसी भी प्रसंविदा के किसी-भी पक्ष द्वारा उल्लंघन के अधित्याग को, चाहे वह व्यवहार में या अन्यथा किया गया हो, इन शर्तों के या इन शर्तों में शामिल किसी भी प्रसंविदा के ऐसे किसी भी उल्लंघन का या उल्लंघन का सतत अधित्याग या जारी रहना नहीं माना जाएगा.
