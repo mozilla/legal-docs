@@ -1,71 +1,72 @@
-Last Updated March 26, 2014
+மார்ச் 26, 2014 அன்று இறுதியாகப் புதுப்பிக்கப்பட்டது
 
-#### Summary
+#### சுருக்கம்
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+இந்த மேல் பிரிவு கீழேயுள்ள விதிமுறைகளைக் சுருக்கமாகக் கூறுகின்றது. இந்தச் சுருக்கமான விதிமுறைகள் உங்கள் புரிதல் உதவிக்காக வழங்கப்படுகிறது, எனினும் முழு ஆவணத்தையும் படிக்க வேண்டும், ஏனெனில் நீங்கள் இதனை ஏற்றுக்கொள்ளும் போது, இந்தச் சுருக்கத்தை மட்டுமின்றி, இந்த விதிமுறைகள் அனைத்தையும் ஏற்பதாகக் குறிப்பிடப்படுகிறது.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Firefox கிளவுட் சேவைகள் ("சேவைகள்") என்பது Mozilla வழங்கிய சேவைகளின் ஒரு தொகுப்பாகும். 
+- எந்த வகையான உத்தரவாதங்களும் இன்றி, "உள்ளபடியே" சேவைகள் வழங்கப்படுகின்றன. உங்களின் சேவைகள் பயன்பாட்டால் ஏற்படும் எந்த பாதிப்பிலும் MOZILLA இன் பொறுப்பிற்கு குறிப்பிடத்தக்க வரம்புகள் உள்ளன.
 
-#### Terms of Service
+#### சேவை விதிமுறைகள்
 
-1. #### Introduction
+1. #### அறிமுகம்
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+Mozilla வழங்கிய ஆன்லைன் சேவைகளின் தொகுப்பான, Firefox கிளவுட் சேவைகளின் ("சேவைகள்") உங்கள் பயன்பாடு இந்தச் சேவை விதிமுறைகளால் ("<u>விதிமுறைகள்</u>") நிர்வகிக்கப்படுகின்றன.
 
-2. #### Firefox Accounts
+2. #### Firefox கணக்குகள்
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+சேவைகளைப் பயன்படுத்த வேண்டுமெனில், நீங்கள் ஒரு FIREFOX கணக்கை உருவாக்க வேண்டும்.  பதிவுசெய்யும் போது, கடவுச்சொல்லை அமைக்க வேண்டியிருக்கும். இரகசியமாக உங்கள் கடவுச்சொல்லை வைத்திருப்பதுடன், உங்கள் FIREFOX கணக்கு மூலம் நடக்கும் செயல்பாடிற்கும் நீங்களே பொறுப்பாவீர்கள். உங்கள் FIREFOX கணக்கின் அங்கீகரிக்கப்படாத பயன்பாட்டினால் எழும் எந்த இழப்புகளுக்கும் MOZILLA பொறுப்பு அல்ல.
 
-3. #### Features
+3. #### அம்சங்கள்
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+FIREFOX ஒத்திசைவானது உங்கள் தாவல்கள், அற்புதப் பட்டி, கடவுச்சொற்கள், புக்மார்க்குகள் மற்றும் உலாவி முன்னுரிமைகள் உட்பட சாதனங்கள் முழுவதும் உள்ள FIREFOX இல் சேமிக்கப்படும் தகவல்களை அணுக உதவுகிறது. FIREFOX கருவிகள் பிரிவு மூலம் FIREFOX ஒத்திசைவை இயக்க மற்றும் முடக்க முடியும்.
 
-4. #### Privacy Policy
+4. #### தனியுரிமைக் கொள்கை
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
+<a href="https://accounts-latest.dev.lcip.org/legal/privacy">FIREFOX கிளவுட் சேவைகள் தனியுரிமை அறிவிப்பானது</a> உங்களின் சேவைகள் பயன்பாட்டிலிருந்து நாங்கள் பெறும் தகவல்களையும், அவற்றை எவ்வாறு பயன்படுத்துவோம் என்பதையும் விளக்கமாக விவரிக்கிறது. எங்கள் <a href="http://www.mozilla.org/privacy/" target="_blank">MOZILLA தனியுரிமைக் கொள்கையில்</a> குறிப்பிடப்பட்டுள்ளதுபோல் சேவைகள் மூலம் கிடைக்கும் தகவல்களைப் பயன்படுத்துவோம்.
 
-5. #### Your Content in our Services
+5. #### எங்கள் சேவைகளில் உங்கள் உள்ளடக்கம்
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+நீங்கள் சேவைகளில் உள்ள அம்சங்களின் பகுதியாக உள்ளடக்கத்தைப் பதிவேற்றலாம். உள்ளடக்கத்தைப் பதிவேற்றுவதன் மூலம், எங்களுக்குச் சேவைகள் வழங்குவது தொடர்பாக உங்கள் உள்ளடக்கத்தைப் பயன்படுத்த ஒரு பிரத்யேகமற்ற, ஆதாயமற்ற உலகளாவிய உரிமத்தை அளிக்கின்றீர்கள். உங்கள் உள்ளடக்கம், எந்த மூன்றாம் தரப்பினரின் உரிமங்களையும் மீறவில்லை என்பதையும், Mozilla வழங்கிய எந்த உள்ளடக்க வழிமுறைகளுடனும் இணங்குகின்றன என்பதையும் குறிப்பிட்டு உத்தரவாதம் அளிக்கிறீர்கள்.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Mozilla இன் உரிமையாளர் உரிமைகள்
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+குறிப்பாக இந்த விதிமுறைகளில் கூறப்படாத சேவைகளின் எந்த அறிவுசார் சொத்து உரிமைகளையும் Mozilla வழங்கவில்லை. உதாரணமாக, இந்த விதிமுறைகள் Mozilla இன் காப்புரிமைகள், வர்த்தகப் பெயர்கள், முத்திரைகள், சேவை முத்திரைகள், லோகோக்கள், டொமைன் பெயர்கள் அல்லது பிற தனிப்பட்ட பிராண்ட் அம்சங்களைப் பயன்படுத்த எந்த உரிமையையும் வழங்கவில்லை. <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla பொது உரிமத்தின்</a> தற்போதைய பதிப்பிற்கு உட்பட்டு சேவைகள் வழங்கப்படுகின்றன.
 
-7. #### Term; Termination
+7. #### காலவரை; முடிவுறுதல்
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+இந்த விதிமுறைகள் MOZILLA அல்லது உங்களால் முடிவுக்கு கொண்டு வரும் வரை தொடர்ந்து பயன்படுத்தப்படும். உங்கள் FIREFOX கணக்கை முடக்குவது மற்றும் சேவைகளைப் பயன்படுத்துவதை நிறுத்துவதன் மூலம் எந்த காரணத்திற்காகவும் எந்த நேரத்திலும் முடிக்கத் தேர்வு செய்யலாம்.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+எந்த காரணத்திற்காகவும் எந்த நேரத்திலும் சேவைகளில் உங்கள் அணுகலைத் இடைநிறுத்தலாம் அல்லது முறித்துக் கொள்ளலாம், வரம்பின்றி இவை உட்பட, நாங்கள் சரியானதாக இவற்றை நம்பினால்: (i) இந்த விதிமுறைகள் மீறினால், (ii) நீங்கள் எங்களுக்கு ஆபத்தான அல்லது சாத்தியமான சில சட்ட வெளிப்பாட்டை உருவாக்கினால்; அல்லது (iii) உங்களுக்கான எங்கள் சேவைகளின் வழங்கல் வணிகரீதியான சாத்தியங்களை இழந்தால். நீங்கள் இந்தச் சேவைகளை அடுத்த முறை அணுக முயற்சிக்கும் போது அல்லது உங்கள் Firefox கணக்கு தொடர்புடைய மின்னஞ்சல் முகவரி மூலம் தெரிவிக்க பொருத்தமான முயற்சிகளை மேற்கொள்வோம்.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+இத்தகைய நேரங்களில், இந்த விதிமுறைகள் வரம்பின்றி நீங்கள் சேவைகளைப் பயன்படுத்துதல் உரிமம் உட்பட அனைத்திலும் நிறுத்தப்படும், எனினும் பின்வரும் பிரிவுகளில் தொடரும் என்பதைத் தவிர: நஷ்ட ஈடு, மறுதலிப்பு; பொறுப்பிற்கான வரம்பு, மேல்முறையீடு.
 
-8. #### Indemnification
+8. #### நஷ்ட ஈடு
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+நீங்கள் Mozilla, அதன் ஒப்பந்ததாரர்கள், பங்களிப்பாளர்கள், உரிமதாரர்கள் மற்றும் கூட்டாளிகள், மற்றும் அதன் இயக்குனர்கள், அதிகாரிகள், ஊழியர்கள் மற்றும் முகவர்கள் ("காப்புறுதி கட்சிகள்") உட்பட்டவர்களை உங்களின் சேவைகள் பயன்பாட்டினால் ஏற்படும் அல்லது அதிலிருந்து எழும் (நீங்கள் பதிவேற்றிய எந்த உள்ளடக்கத்தை இருந்து மட்டுமே உட்பட, ஆனால்,) எந்த எதிரான மற்றும் அனைத்து மூன்றாம் தரப்பு வழக்கறிஞரின் கட்டணம் உட்பட கோரல்கள் மற்றும் செலவுகளில் பாதுகாக்க, நஷ்ட ஈடு அளிக்க மற்றும் பாதிப்பில்லாதவாறு வைப்பதாக ஏற்றுக் கொள்கிறீர்கள்.
 
-9. #### Disclaimer; Limitation of Liability
+9. #### மறுதலிப்பு; பொறுப்பிற்கான வரம்பு
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+சேவைகள் அனைத்து பிழைகளுடன் "உள்ளபடியே" வழங்கப்படும். சட்டத்தின் வரம்பிற்குட்பட்டு, MOZILLA மற்றும் காப்புறுதிக் கட்சிகளுக்கு, வெளிப்படையாகவோ அல்லது மறைமுகமாகவோ, வரம்பின்றி குறைபாடுகள் அற்ற, வணிகரீதியான, ஒரு குறிப்பிட்ட நோக்கத்திற்கு பொருத்தமான, அறிவுசார் சொத்துக்களை மீறாதவரை அனைத்து உத்தரவாதங்களையும் மறுதலிக்கும் உரிமையுள்ளது. உங்கள் உள்ளடக்கம் நீக்கப்படுதல் அல்லது சிதைதல் அல்லது யாரோ ஒருவர் உங்கள் கணக்கை அணுகுதல் ஆபத்து உட்பட வரம்பின்றி, உங்கள் தேவைகளுக்காகச் சேவைகளைத் தேர்வுசெய்யும் முழு அபாயமும் உங்களைச் சார்ந்ததாகும். இந்த வரையறை எந்தத் தீர்வின் அடிப்படை நோக்கம் தோல்வியடைந்த போதிலும் செயல்படுத்தப்படும். சில சட்ட அதிகாரங்கள், உத்தரவாத காப்புறுதிகளின் விலக்கத்தையோ அல்லது வரம்புகளையோ அனுமதிப்பதில்லை, ஆதலால் இந்த கைதுறப்பு உங்களுக்கு பொருந்தாது.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+சட்டத்தால் கோரப்பட்டால் தவிர, MOZILLA மற்றும் அதன் காப்புறுதி தரப்பினர் இந்த விதிமுறைகளுக்கு வெளியே அல்லது தொடர்புடையதாக அல்லது சேவைகளைப் பயன்படுத்துதல் அல்லது பயன்படுத்த முடியாமல் போதல் ஆகியவற்றால் எழும் எந்த மறைமுக, சிறப்பு, தற்செயலான, விளைவாக அல்லது முன்மாதிரி சேதங்களுக்கு பொறுப்பன்று, இது வரம்பின்றி நற்பெயருக்கு ஊறுவிளைவிக்கும் நேரடி மற்றும் மறைமுக பாதிப்பு, வேலை நிறுத்தம், இலாப இழப்பு, தரவு இழப்பு மற்றும் கணினி தோல்வி அல்லது செயலிழப்பு என அத்தகைய சேதங்களின் சாத்தியக்கூறுகள் பற்றிய ஆலோசனை மற்றும் கோட்பாட்டைப் பொருட்படுத்தாமல் (ஒப்பந்தம், அநீதி அல்லது மற்றபடி) அத்தகைய கோரலிற்கும் கூடப் பொருந்தும். இந்த ஒப்பந்தத்தின் கீழ் MOZILLA மற்றும் காப்புறுதி தரப்புகளின் கூட்டுப் பொறுப்பானது $500 (ஐந்நூறு டாலர்கள்) மிகக் கூடாது. சில சட்ட வரம்புகள், தவிர்ப்பு அல்லது தற்செயலின் வரம்பு, விளைவுகள் அல்லது சிறப்பு பாதிப்புகளை அனுமதிப்பதில்லை, எனவே இந்தத் தவிர்ப்பு மற்றும் வரையறை உங்களுக்குப் பொருந்தாது.
 
-10. #### Modifications to these Terms
+10. #### இந்த விதிமுறைகளின் திருத்தங்கள்
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+Mozilla சேவைகளில் ஒரு புதிய அம்சத்தைக் குறிப்பிடும் போதோ அல்லது ஒரு நிபந்தனையை தெளிவுபடுத்த வேண்டியோ இந்த விதிமுறைகளை அவ்வப்போது புதுப்பிக்கலாம். புதுப்பிக்கப்பட்ட விதிமுறைகள் ஆன்லைனில் வெளியிடப்படும். முக்கியமான மாற்றங்கள் என்றால், இடுகைகள் மற்றும் மன்றங்கள் போன்ற Mozilla அறிவிப்புகளின் வழக்கமான சேனல்கள் மூலம் புதுப்பிப்பைப் பற்றி அறிவிப்போம். அத்தகைய மாற்றங்களை அமல்படுத்திய தேதிக்கு பின்னர் நீங்கள் தொடர்ந்து சேவைகளைப் பயன்படுத்துதல் மாற்றங்களை நீங்கள் ஏற்றுக்கொண்டதாகக் கொள்ளப்படும். உங்கள் வசதிக்காக, இந்தப் பக்கத்தின் மேல் பகுதியில் அமலாகும் தேதியை இடுகையிடுவோம்.
 
-11. #### Miscellaneous
+11. #### மேல்முறையீடு
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+சேவைகளின் இந்த விதிமுறைகள் பற்றிய நீங்கள் மற்றும் Mozilla இடையேயான முழு உடன்பாடும், சட்ட முரண்பாடுகளைத் தவிர, அமெரிக்க கலிபோர்னியா மாகாணச் சட்டங்கள் மூலம் நிர்வகிக்கப்படுகிறது. இந்த விதிமுறைகளின் எந்த பகுதியும் தவறாக அல்லது நடைமுறைப்படுத்த முடியாததாக இருப்பின், மீதமுள்ள பகுதிகள் அனைத்தும் முழு அமலில் இருக்கும். இந்த வகையில், ஆங்கில மொழி பதிப்பிற்கும் மொழிபெயர்க்கப்பட்ட பதிப்பிற்கும் இடையே முரண்பாடு ஏற்பட்டால், ஆங்கில மொழி பதிப்பே கட்டுப்படுத்தும்.
 
-12. #### Contact Us
+12. #### எங்களைத் தொடர்புகொள்ள
 
-    Contact Mozilla at
+Mozilla ஐத் தொடர்புகொள்ள
 
-    <address>
-      Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
-      331 E. Evelyn Ave., 
-      Mountain View, CA 94041 
-    </address>
+<address>
+Mozilla Corporation 
+ATTN: MOZILLA – LEGAL NOTICES 
+331 E. Evelyn Ave., 
+Mountain View, CA 94041 
+</address>
+
