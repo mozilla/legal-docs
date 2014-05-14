@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Уведомление о конфиденциальности Firefox OS
 
-May 8, 2013
+8 мая 2013 г.
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Mozilla заботится о вашей конфиденциальности. Когда Firefox OS отправляет нам информацию, обработка нами этой информации описывается [Политикой конфиденциальности Mozilla](http://www.mozilla.org/en-US/privacy/).
 
-## Things you should know
+## Вот что вам следует знать
 
-Firefox OS connects to us and others in order to provide product features.
+Firefox OS подключается к нам и другим адресатам для обеспечения работы функций продукта.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Обновления. Для загрузки обновлений Firefox OS автоматически подключается к сервису, работа которого регулируется производителем вашего устройства или от его имени. Firefox OS также автоматически проверяет наличие обновлений для установленных приложений, отправляя запросы в Firefox Marketplace или, если вы установили приложение из другого место, в сервисы разработчика этого приложения.
+* Местоположение. Если вы включили функции геолокации, Firefox OS может использовать для определения вашего местоположения данные из различных источников, в том числе GPS, AGPS и других поставщиков услуг геолокации. Функции геолокации можно отключить в приложении «Настройки» Firefox OS на вашем устройстве.
+* Начальная активация. Чтобы обеспечить получение необходимых обновлений и приложений, Firefox OS при первом включении питания отправляет в Mozilla одноразовый пакет данных. [Подробнее](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+Используемое вами устройство, как и большинство мобильных устройств, создано с участием нескольких производителей. Настоящее уведомление касается только обработки ваших данных для официальных версий Firefox OS, одобренных корпорацией Mozilla.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* При использовании приложений другого производителя будет применяться политика конфиденциальности этого производителя.
+* Функция динамического поиска приложений в Firefox OS работает на платформе Everything.me и регулируется политикой конфиденциальности этой платформы, опубликованной по адресу [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Firefox OS позволяет использовать несколько интегрированных сторонних сервисов, таких как поставщик услуг электронной почты или социальной сети. При использовании этих сервисов действует установленная для них политика конфиденциальности.
