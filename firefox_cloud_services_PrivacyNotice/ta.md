@@ -1,23 +1,26 @@
-# Firefox Cloud Services Privacy Notice
+# Firefox கிளவுட் சேவைகள் தனியுரிமை அறிவிப்பு
 
-March 26, 2014
+மார்ச் 26, 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+உங்கள் தனியுரிமையில் அக்கறை கொண்டுள்ளோம். FIREFOX கிளவுட் சேவைகள் ("சேவைகள்") தகவல்களை MOZILLA க்கு (அதாவது எங்களுக்கு) அனுப்பும் போது, எங்கள் [MOZILLA தனியுரிமைக் கொள்கை ](http://www.mozilla.org/en-US/privacy/) அந்தத் தகவலை நாங்கள் எவ்வாறு பயன்படுத்தலாம் என்பதை விவரிக்கிறது.
 
-## Things you should know:
+## தெரிந்து கொள்ள வேண்டிய விஷயங்கள்:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+நீங்கள் பயன்படுத்தும் சேவைகளின் அம்சங்களைப் பொறுத்து எங்களுக்கு பல்வேறு வகையான தரவை அனுப்புகிறீர்கள்.  மேலும் அறிக.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **FIREFOX கணக்கு**: ஒரு கணக்கிற்காகப் பதிவுபெறும் போது, உங்கள் மின்னஞ்சல் முகவரி மற்றும் கடவுச்சொல்லைப் பெறுகிறோம். 
+* **ஒத்திசைவு**: நீங்கள் ஒத்திசைவைப் பயன்படுத்தினால், உங்கள் தாவல்கள், அற்புத பட்டி, கடவுச்சொற்கள், புக்மார்க்குகள், உலாவி விருப்பங்கள் மற்றும் பிற சாதனங்கள் முழுவதிலும் ஒத்திசைக்க பல்வேறு தகவல்களைப் பெறுகிறோம்.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+எங்கள் தயாரிப்புகள் மற்றும் சேவைகளை வழங்கவும், மேம்படுத்தவும் குக்கீகள், GIFகளை அழித்தல் மற்றும் பிற வலை தொழில்நுட்பங்களைப் பயன்படுத்துகின்றோம்.  மேலும் அறிக.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **ஆன்லைன் தரவு கருவிகள்**: எங்கள் தயாரிப்புகள் மற்றும் சேவைகளின் செயல்பாடுகளை வழங்க, குக்கீகள், GIFகளை அழித்தால் மற்றும் வலை வழிகாட்டிகள் போன்ற “ஆன்லைன் தரவு கருவிகளை” பயன்படுத்துகின்றோம். உதாரணமாக, குக்கீகள் பயனர் உள்நுழைவு மற்றும் அங்கீகாரமளிப்பில் உதவுகின்றன. எங்கள் தயாரிப்புகள் மற்றும் சேவைகளை மேம்படுத்துவதற்காகத் தரவைச் சேகரிக்க இதே கருவிகளையும் பயன்படுத்துவோம். உதாரணமாக, வலை பகுப்பாய்வை வழங்கக் குக்கீகளைப் பயன்படுத்துகிறோம். 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+* **விருப்பங்கள்**: [இங்கு](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) கிளிக் செய்வதன் மூலம் குக்கீகள் என்றால் என்ன என்பது பற்றி மேலும் அறியலாம் மற்றும் Firefox இல் குக்கீகளை நிர்வகிக்கலாம். எமது மற்றும் பிற பொருட்கள் மற்றும் சேவைகளின் குறிப்பிட்ட அம்சங்கள் குக்கீகளின் உதவி இல்லாமல் சரியாகச் செயல்பட முடியாது என்பதைக் கவனத்தில் கொள்ளவும்.
+
+
+
 
 
