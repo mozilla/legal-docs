@@ -1,23 +1,24 @@
-# Firefox Cloud Services Privacy Notice
+# Уведомление о конфиденциальности облачных сервисов Firefox
 
-March 26, 2014
+26 марта 2014 г.
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Мы заботимся о вашей конфиденциальности. Когда облачные сервисы Firefox («Сервисы») отправляют информацию в Mozilla (то есть нам), использование этой информации регулируется нашей [Политикой конфиденциальности Mozilla](http://www.mozilla.org/en-US/privacy/).
 
-## Things you should know:
+## Вот что вам следует знать:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+В зависимости от того, какими функциями Сервисов вы пользуетесь, вы отправляете нам данные различных типов.  Подробнее.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Учетная запись Firefox**: Когда вы регистрируете учетную запись, мы получаем ваш электронный адрес и пароль. 
+* **Синхронизация**: Если вы пользуетесь функцией синхронизации, мы получаем разнообразную информацию для синхронизации между устройствами ваших вкладок, панели инструментов, паролей, закладок, настроек браузера и других данных.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Мы используем файлы cookie, веб-маяки и другие технологии для распространения и совершенствования наших продуктов и сервисов.  Подробнее.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Онлайн-инструменты данных**: Мы используем «онлайн-инструменты данных», такие как файлы cookie, веб-маяки и однопиксельные GIF-файлы, для предоставления возможностей наших продуктов и сервисов. Например, файлы cookie применяются при входе в сервис и авторизации пользователей. Эти же инструменты применяются для сбора данных с целью улучшения наших продуктов и сервисов. Например, файлы cookie используются для проведения веб-анализа. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+* **Параметры**: Подробнее узнать о файлах cookie и получить возможность управления ими в Firefox можно, щелкнув [здесь](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Помните, что без помощи файлов cookie некоторые функции наших и других продуктов и сервисов не могут действовать как следует.
+
 
 
