@@ -1,67 +1,67 @@
-Last Updated March 26, 2014
+Последнее обновление: 26 марта 2014 г.
 
-#### Summary
+#### Сводка
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+В этом разделе содержится сводка перечисленных ниже условий. Она поможет вам понять смысл этих условий, но вы должны прочитать весь документ полностью, чтобы, соглашаясь с ним, вы приняли все его условия, а не только эту сводку.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Облачные сервисы Firefox («Сервисы») – это совокупность услуг, которые вам предоставляет Mozilla. 
+- Сервисы предоставляются «как есть» и без гарантий любого рода. Существуют значительные ограничения ответственности Mozilla за любой ущерб, возникший в результате пользования Сервисами.
 
-#### Terms of Service
+#### Условия использования
 
-1. #### Introduction
+1. #### Введение
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    Настоящие Условия использования («<u>Условия</u>») регулируют использование вами облачных сервисов Firefox – комплекта сетевых услуг, которые предоставляет Mozilla («Сервисов»).
 
-2. #### Firefox Accounts
+2. #### Учетные записи Firefox
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    Для пользования Сервисами вам необходимо создать учетную запись Firefox  Во время регистрации вам будет предложено задать пароль. Вы несете ответственность за хранение пароля в секрете и за действия, совершаемые с помощью вашей учетной записи Firefox. Mozilla не несет ответственности за любой ущерб, понесенный вследствие несанкционированного использования вашей учетной записи Firefox.
 
-3. #### Features
+3. #### Функции
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Синхронизация Firefox позволяет обращаться к информации, хранящейся в Firefox на различных устройствах, в том числе к информации о вкладках, панели инструментов, паролях, закладках и настройках браузера. Синхронизацию Firefox можно включить и отключить в разделе «Инструменты».
 
-4. #### Privacy Policy
+4. #### Политика конфиденциальности
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
+    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Уведомление о конфиденциальности облачных сервисов Firefox</a> описывает, какую информацию мы получаем при использовании вами Сервисов и как мы используем эту информацию. Информация, полученная с помощью Сервисов, используется в соответствии с нашей <a href="http://www.mozilla.org/privacy/" target="_blank">Политикой конфиденциальности Mozilla</a>.
 
-5. #### Your Content in our Services
+5. #### Ваш контент в наших Сервисах
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    Вы можете передавать свой контент в составе функций Сервисов. Передавая контент, вы тем самым предоставляете нам неисключительную, безвозмездную, всемирную лицензию на использование вашего контента в связи с предоставлением Сервисов. Настоящим Вы заявляете и гарантируете, что ваш контент не нарушает права третьих лиц и будет соответствовать всем требованиям Mozilla в отношении контента.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Права собственности Mozilla
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla не предоставляет вам никаких прав интеллектуальной собственности на Сервисы, не оговоренных особо настоящими Условиями. Например, эти Условия не дают права использовать любые авторские права, фирменные наименования, товарные знаки, знаки обслуживания, логотипы, доменные имена или другие отличительные признаки бренда Mozilla. Сервисы распространяются в соответствии с текущей версией <a href="http://www.mozilla.org/MPL/" target="_blank">Общедоступной лицензии Mozilla</a> и регулируются ею.
 
-7. #### Term; Termination
+7. #### Срок действия; прекращение
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    Настоящие Условия применяются до тех пор, пока их действие не будет прекращено вами или со стороны Mozilla. Вы можете прекратить их действие в любое время и по любой причине, деактивировав свою учетную запись Firefox и прекратив пользование Сервисами.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Мы можем приостановить или прекратить ваш доступ к Сервисам в любое время и по любой причине, включая, без ограничения, случаи, когда у нас есть обоснованные предположения, что: (i) вы нарушили настоящие Условия; (ii) вы создаете для нас риск подверженности судебным действиям; или (iii) предоставление Вам сервисов больше не является коммерчески целесообразным. Мы приложим разумные усилия, чтобы уведомить вас об этом по адресу электронной почты, связанному с вашей учетной записью Firefox, или при вашей следующей попытке доступа к Сервисам.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    Во всех таких случаях действие настоящих Условий прекращается, включая, без ограничения, лицензию на использование вами Сервисов, за исключением того, что продолжается применение следующих разделов: «Возмещение убытков», «Юридическая оговорка», «Ограничение ответственности», «Разное».
 
-8. #### Indemnification
+8. #### Возмещение убытков
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Вы соглашаетесь ограждать корпорацию Mozilla, ее подрядчиков, сотрудников, лицензиаров и партнеров, а также их директоров, должностных лиц, работников и агентов («Стороны, освобожденные от ответственности») от любых претензий третьих лиц и расходов, в том числе судебных издержек, вытекающих из использования вами данных Сервисов или связанных с ним (включая, в частности, любой переданный вами контент).
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Юридическая оговорка; ограничение ответственности
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    СЕРВИСЫ ПРЕДОСТАВЛЯЮТСЯ «КАК ЕСТЬ», СО ВСЕМИ НЕИСПРАВНОСТЯМИ. В СТЕПЕНИ, РАЗРЕШЕННОЙ ЗАКОНОМ, КОРПОРАЦИЯ MOZILLA И СТОРОНЫ, ОСВОБОЖДЕННЫЕ ОТ ОТВЕТСТВЕННОСТИ, НАСТОЯЩИМ ОТКАЗЫВАЮТСЯ ОТ ВСЕХ ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, БЕЗ ОГРАНИЧЕНИЯ, ГАРАНТИИ ОТСУТСТВИЯ ДЕФЕКТОВ, ТОВАРНОГО СОСТОЯНИЯ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНЫХ ЦЕЛЕЙ ИЛИ ОТСУТСТВИЯ НАРУШЕНИЯ ПРАВ ТРЕТЬИХ ЛИЦ. ВЫ ПРИНИМАЕТЕ НА СЕБЯ ВЕСЬ РИСК В ОТНОШЕНИИ ВЫБОРА СЕРВИСОВ ДЛЯ ВАШИХ ЦЕЛЕЙ И В ОТНОШЕНИИ КАЧЕСТВА И ПРОИЗВОДИТЕЛЬНОСТИ СЕРВИСОВ, ВКЛЮЧАЯ, БЕЗ ОГРАНИЧЕНИЙ, РИСК УДАЛЕНИЯ ИЛИ ПОВРЕЖДЕНИЯ ВАШЕГО КОНТЕНТА ИЛИ ДОСТУПА ПОСТОРОННИХ ЛИЦ К ВАШЕЙ УЧЕТНОЙ ЗАПИСИ. ЭТО ОГРАНИЧЕНИЕ ДЕЙСТВУЕТ НЕСМОТРЯ НА ОТСУТСТВИЕ СУЩЕСТВЕННОГО ПРИМЕНЕНИЯ ЛЮБЫХ СРЕДСТВ ПРАВОВОЙ ЗАЩИТЫ. В НЕКОТОРЫХ ЮРИСДИКЦИЯХ НЕ ДОПУСКАЕТСЯ ИСКЛЮЧЕНИЕ ИЛИ ОГРАНИЧЕНИЕ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ, ПОЭТОМУ НАСТОЯЩАЯ ОГОВОРКА МОЖЕТ НЕ КАСАТЬСЯ ВАС.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    КРОМЕ СЛУЧАЕВ, ТРЕБУЕМЫХ ПО ЗАКОНУ, MOZILLA И СТОРОНЫ, ОСВОБОЖДЕННЫЕ ОТ ОТВЕТСТВЕННОСТИ, НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПРЯМЫЕ, КОСВЕННЫЕ, ФАКТИЧЕСКИЕ, РЕАЛЬНЫЕ ИЛИ ПОБОЧНЫЕ УБЫТКИ, ПОНЕСЕННЫЕ ВСЛЕДСТВИЕ ИЛИ В ЛЮБОЙ СВЯЗИ С НАСТОЯЩИМИ УСЛОВИЯМИ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТЬЮ ИСПОЛЬЗОВАНИЯ СЕРВИСОВ, ВКЛЮЧАЯ, БЕЗ ОГРАНИЧЕНИЯ, ПРЯМЫЕ И НЕПРЯМЫЕ УБЫТКИ ИЗ-ЗА ПОТЕРИ РЕПУТАЦИИ, УПУЩЕННОЙ ВЫГОДЫ, ПОТЕРИ ДАННЫХ И ОТКАЗА ИЛИ НЕПОЛАДКИ КОМПЬЮТЕРА, ДАЖЕ ЕСЛИ БЫЛО ИЗВЕСТНО О ВОЗМОЖНОСТИ ТАКИХ УБЫТКОВ, И НЕЗАВИСИМО ОТ ТЕОРИИ (КОНТРАКТА, ГРАЖДАНСКОГО ПРАВОНАРУШЕНИЯ ИЛИ ДРУГОЙ), НА КОТОРОЙ ОСНОВАНА ПРЕТЕНЗИЯ. СОВОКУПНАЯ ОТВЕТСТВЕННОСТЬ MOZILLA И СТОРОН, ОСВОБОЖДЕННЫХ ОТ ОТВЕТСТВЕННОСТИ, ПО НАСТОЯЩЕМУ СОГЛАШЕНИЮ НЕ ПРЕВЫШАЕТ $500 (ПЯТИСОТ ДОЛЛАРОВ). В НЕКОТОРЫХ СТРАНАХ НЕ РАЗРЕШЕНО ИСКЛЮЧЕНИЕ ИЛИ ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ ЗА СЛУЧАЙНЫЕ ИЛИ КОСВЕННЫЕ УБЫТКИ, ПОЭТОМУ ВЫШЕУКАЗАННЫЕ ОГРАНИЧЕНИЯ МОГУТ НЕ ОТНОСИТЬСЯ К ВАМ.
 
-10. #### Modifications to these Terms
+10. #### Изменения в настоящих Условиях
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla может время от времени обновлять настоящие Условия с целью описания новой функции Сервисов или уточнения определенного положения. Обновленные Условия будут опубликованы в Интернете. Если изменения являются существенными, мы объявим об обновлении по обычным каналам Mozilla, таким как сообщения в блоге и форумы. Дальнейшее использование вами Сервисов после дня вступления в силу таких изменений означает ваше согласие с этими изменениями. Для удобства дата вступления в силу будет указана в начала этой страницы.
 
-11. #### Miscellaneous
+11. #### Разное
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    Настоящие Условия составляют соглашение между вами и Mozilla в отношении Сервисов и регулируются законами штата Калифорния, США, за исключением положений о конфликте норм права. Если какое-либо положение настоящих Условий будет признано недействительным или неисполнимым, остальные положения остаются в полной силе и действии. В случае конфликта между переведенной версией настоящих условий и версией на английском языке приоритет имеет версия на английском языке.
 
-12. #### Contact Us
+12. #### Обратитесь к нам
 
-    Contact Mozilla at
+    Адрес корпорации Mozilla:
 
     <address>
       Mozilla Corporation 
