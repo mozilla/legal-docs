@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Firefox OS தனியுரிமை அறிவிப்பு
 
-May 8, 2013
+மே 8, 2013
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+MOZILLA உங்கள் தனியுரிமையில் அக்கறை கொண்டுள்ளது. FIREFOX OS எங்களுக்கு தகவல் அனுப்புகின்ற போது, எங்கள் [MOZILLA தனியுரிமைக் கொள்கை](http://www.mozilla.org/en-US/privacy/) அந்தத் தகவல்களைக் நாங்கள் கையாளும் விதத்தை விவரிக்கிறது.
 
-## Things you should know
+## தெரிந்து கொள்ள வேண்டிய விஷயங்கள்
 
-Firefox OS connects to us and others in order to provide product features.
+தயாரிப்பு அம்சங்களை வழங்கும் பொருட்டு எங்களையும் மற்றவர்களையும் Firefox OS இணைக்கிறது.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* புதுப்பிப்புகள்: புதுப்பித்த நிலையில் இருக்க, Firefox OS தானாகவே உங்கள் சாதனம் உற்பத்தியாளர் அல்லது அவரின் சார்பில் இயக்கப்படும் ஒரு சேவையுடன் இணைக்கிறது. Firefox OS தானாகவே Firefox Marketplace அல்லது மற்றொரு இடத்திலிருந்து பயன்பாட்டை நிறுவியிருந்தால், அந்த பயன்பாட்டின் டெவலப்பரின் சேவைகளுக்கு ஒரு கோரிக்கையை அனுப்பி நிறுவப்பட்ட பயன்பாடுகளின் புதுப்பித்தல்களுக்காகப் பார்க்கிறது.
+* இருப்பிடம்: நீங்கள் இருப்பிடச் சேவைகளை இயக்கும் போது, GPS, AGPS மற்றும் பிற நில இருப்பிடச் சேவை வழங்குநர்கள் உட்பட பல தரவுப் புள்ளிகள் மற்றும் அமைப்புகளை Firefox OS பயன்படுத்தலாம். உங்கள் சாதனத்தில் Firefox OS "அமைப்புகள்" பயன்பாட்டில் இருப்பிடச் சேவைகளை முடக்கலாம்.
+* ஆரம்ப செயலாக்கம்: பொருத்தமான புதுப்பிப்புகள் மற்றும் பயன்பாடுகளை வழங்கும் பொருட்டு, தொடங்கும் போது Mozilla க்கு Firefox OS ஒருமுறை தரவு பிங்கை அனுப்பும். [மேலும் அறிக](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+பெரும்பாலான மொபைல் சாதனங்கள் போன்று, நீங்கள் பயன்படுத்தும் சாதனம், பல தரப்பினரால் உருவாக்கப்பட உள்ளது. இந்த அறிவிப்பு MOZILLA ஆல் அங்கீகரிக்கப்பட்ட FIREFOX OS அதிகாரப்பூர்வ பதிப்புகளில் மட்டும் எவ்வாறு உங்கள் தகவல்களை MOZILLA கையாளும் என்பதை நிர்வகிக்கிறது.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* நீங்கள் Mozilla தவிர பிறரால் உருவாக்கப்பட்ட பயன்பாடுகளைப் பயன்படுத்தினால், அவர்களின் தனியுரிமைக் கொள்கைகளும் பொருந்தும்.
+* [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/)Firefox OS இன் ஆற்றல்மிகு பயன்பாடு தேடல் வசதி, Everything.me ஆல் நிர்வகிக்கப்படுகிறது மேலும் அதன் தனியுரிமைக் கொள்கைக்கு பொருத்தமானவற்றை இங்கே காணலாம் .
+* மின்னஞ்சல் அல்லது சமூக வழங்குநர் எனப் பல ஒருங்கிணைந்த மூன்றாம் தரப்பு சேவைகளைப் பயன்படுத்த FIREFOX OS உங்களை அனுமதிக்கிறது. அந்தச் சேவைகளின் தனியுரிமைக் கொள்கை அவற்றின் உங்கள் பயன்பாட்டிற்குப் பொருந்தும்.
