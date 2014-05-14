@@ -1,66 +1,66 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Firefox Marketplace गोपनीयता नीति
+3 जुलाई 2013
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+हम आपकी गोपनीयता का ध्यान रखते हैं. जब Mozilla (मतलब हम), Firefox Marketplace से आपके बारे में जानकारी एकत्र करते हैं, तो हमारी [गोपनीयता नीति](http://www.mozilla.org/en-US/privacy/) व्याख्या करती है कि हम इस जानकारी को किसतरह से प्रबंधित करते हैं.
 
-<u>Things you should know</u>
+<u>वे बातें जो आपको जानना चाहिए:</u>
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
+- Firefox Marketplace के अधिकतर ऐप्स हमारे द्वारा नहीं बनाए गए हैं और इनका उपयोग करने के पहले आपको हमारी गोपनीयता नीतियों की जांच करना चाहिए.
+- भुगतान किसी अन्य के द्वारा (Mozilla द्वारा नहीं) संसाधित किए जाते हैं और उनके व्यवहार को समझने के लिए आपको लागू भुगतान प्रदाता की गोपनीयता नीति का जांच करना चाहिए.
+  - Mozilla द्वारा किसी भी वित्तीय जानकारी (जैसे क्रेडिट कार्ड की जानकारी जिसका उपयोग आपने Firefox Marketplace में खरीदी के लिए किया है) को एकत्र किया गया, रखा गया या उपयोग नहीं किया गया है.
+- Firefox Marketplace, इसकी क्रियाशीलता (जैसे सत्रों के बीच आपको याद करना) और यह समझने में सहायता करने के लिए कि किसतरह से उपयोगकर्ता एकीकृत विश्लेषणों के माध्यम से सेवा का उपयोग करते हैं, के लिए कुकी और अन्य वेब तकनीकियों का उपयोग करता है.
+- Marketplace,  आपके अनुभव को कस्टमाइज़ करने के लिए आपके वाहक या स्थान डेटा का उपयोग कर सकता है.
+  - Firefox OS उपकरणों पर, आपके अनुभव को कस्टमाइज़ करने के लिए आपके देश के स्थान और वाहक नेटवर्क को समझने और विशेष वाहक सामग्री ऑफ़र करने के लिए हम आपके उपकरण की नेटवर्क जानकारी का उपयोग करते हैं.
+  - सभी प्लेटफ़ॉर्म पर, हम आपके अनुभव को कस्टमाइज़ करने के लिए आपके देश का स्थान निर्धारित करने के लिए आपका IP पता उपयोग कर सकते हैं.
+- आपको निःशुल्क ऐप स्थापित करने के लिए लॉगिन नहीं करना होगा, लेकिन भुगतान योग्य ऐप्स के लिए लॉगिन आवश्यक है. हम आपके लेन-देन की गतिविधि के इतिहास को प्रबंधित करने में भी आपकी सहायता करते हैं (जैसे आपने कौन से ऐप्स खरीदे हैं).
+- आप हमारे द्वारा ईमेल प्राप्त किए जाने को भी चुन सकते हैं और किसी भी ईमेल विपणन संचारों की सदस्यता रद्द कर सकते हैं, जिन्हें प्राप्त करने के लिए आपने चुना था.
 
-### Mozilla Privacy Policy
+### Mozilla गोपनीयता नीति
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+आपकी गोपनीयता महत्वपूर्ण कारक है जिसका Mozilla (हम) अपने प्रत्येक उत्पाद और सेवा के विकास में विचार करता है. हम पारदर्शी और स्पष्ट बने रहने के लिए प्रतिबद्ध हैं और आपको बताना चाहते हैं कि हम आपके बारे में जानकारी कैसे प्राप्त करते हैं, और उस जानकारी के हमारे पास आ जाने के बाद हम उसके साथ क्या करते हैं.
 
-### What do we mean by "personal information?"
+### "निजी जानकारी" से हमारा क्या अर्थ है?
 
-For us, "personal information" means information which identifies you, like your name or email address.
+हमारे लिए, "निजी जानकारी" का अर्थ उस जानकारी से है जो आपकी पहचान करती है जैसे आपका नाम और ईमेल पता.
 
-Any information that falls outside of this is "non-personal information."
+ऐसी कोई जानकारी जो इृससे बाहर की होती है वह "गैर-निजी जानकारी" है.
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+यदि हम उस जानकारी के साथ आपकी जानकारी संग्रहीत करते हैं जो गैर-निजी है, तो हम उसे निजी जानकारी के रूप में संयोजन मानेंगे. यदि हम डेटा के सेट से सभी निजी जानकारी निकाल देते हैं तो शेष जानकारी गैर-निजी जानकारी होती है.
 
-### How do we learn information about you?
+### हम आपके बारे में जानकारी प्राप्त करते हैं?
 
-We learn information about you when:
+हम आपके बारे में तब जानकारी प्राप्त करते हैं जब:
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+- आप इसे हमें सीधे तौर पर प्रदान करते हैं (उदा., जब आप Firefox से हमें क्रैश रिपोर्ट भेजना चुनते हैं);
+- हम इसे अपने उत्पाद और सेवाओं के माध्यम से स्वचालित रूप से एकत्रित करते हैं (उदा., जब हम जांच करते हैं कि आपके Firefox का संस्करण अद्यतित है या नहीं);
+- कोई और व्यक्ति हमें आपके बारे में जानकारी देता है (उदा., Thunderbird आपके ईमेल प्रदाताओं के साथ आपके खाते को सेट करने के लिए कार्य करता है); या
+- जब हम आपके द्वारा हमें प्रदान की गई जानकारी के आधार पर आपके बारे में अधिक समझने का प्रयास करते हैं (उदा., जब हम अपनी कुछ सेवाओं की भाषा को कस्टमाइज़ करने के लिए आपके IP पते का उपयोग करते हैं).
 
-### What do we do with your information once we have it?
+### आपकी जानकारी हमारे पास आ जाने के बाद हम उससे क्या करते हैं?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+जब आप हमें निजी जानकारी प्रदान करते हैं, तब हम इसका उपयोग आपके द्वारा दी गई अनुमति के अनुसार करते हैं. सामान्यतः, हम आपकी जानकारी का उपयोग आपके लिए अपने उत्पाद और सेवाओं को प्रदान करने और उनमें सुधार करने में सहायता के लिए करते हैं.
 
-### When do we share your information with others?
+### हम कब आपकी जानकारी दूसरों के साथ साझा करते हैं?
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](http://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+- जब हमें आपसे इसे साझा करने की अनुमति मिलती है.
+- आपको उत्पाद और सेवाओं को प्रोसेस करने और प्रदान करने के लिए, लेकिन केवल तभी यदि वे निकाय Mozilla द्वारा स्वीकृत तरीके से डेटा प्रबंधित करने हेतु आपकी जानकारी प्राप्त करने के लिए संविदा के तहत बाध्य हों.
+- जब हम अपने [स्पष्ट रहने](http://www.mozilla.org/about/manifesto.html) के लक्ष्य को पूरा करते हैं. कभी-कभी हम ओपन वेब पर अपने उत्पादों को बेहतर बनाने और प्रोत्साहित करने के लिए जानकारी रिलीज़ करते हैं, लेकिन जब हम ऐसा करते हैं, तब हम आपकी निजी जानकारी निकाल देंगे और इसे उस तरीके से प्रकट करने का प्रयास करते हैं जिससे कि आपके पहचाने जाने का जोखिम कम होता है.
+- जब कानून को इसकी आवश्यकता हो. जब भी हमें सरकार से या अभियोग से संबंधित आपके बारे में अनुरोध मिलता है हम कानून का पालन करते हैं. जब हमसे इस तरीके से आपकी निजी जानकारी सौंपने के लिए कहा जाएगा हम आपको सूचित करेंगे जब तक कि हमें ऐसे करने के लिए कानूनी रूप से प्रतिबंधित न कर दिया जाए. जब हमें इस तरह के अनुरोध मिलते हैं, तो यदि हमें सद्भावपूर्ण विश्वास है कि ऐसा करना कानून के लिए आवश्यक है तो हम केवल आपकी निजी जानकारी रिलीज़ करेंगे. इस नीति में ऐसा कुछ नहीं है जिसका उद्देश्य किसी कानूनी सुरक्षा या आपत्ति को सीमित करना नहीं है जिसके लिए हो सकता है आपके पास अपनी जानकारी प्रकट करने के लिए तृतीय-पक्ष का अनुरोध हो.
+- जब हमें लगता है कि आपको या किसी और व्यक्ति को नुकसान पहुंचने से बचाने के लिए इसकी आवश्यकता है. हम आपकी जानकारी केवल उस तरीके से साझा करते हैं यदि हमें सद्भावपूर्ण विश्वास है कि यह आपके लिए, हमारे अन्य उपयोगकर्ताओं के, Mozilla या लोगों के अधिकारों, संपदा या सुरक्षा के लिए पूरी तरह से आवश्यक है.
+- यदि हमारी संगठनात्मक संरचना या स्थिति परिवर्तित होती है (यदि हम नवीनीकरण कि स्थिति से गुजरते हैं, अधिगृहीत किया जाता है, या दिवालिया हो जाते हैं), तो हम आपकी जानकारी क्रमानुयायी या संबंधित कंपनी को सौंप सकते हैं.
 
-### How do we store and protect your personal information?
+### हम आपकी निजी जानकारी को कैसे संग्रहीत और सुरक्षित रखते हैं?
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+हम आपकी जानकारी हमारे पास आ जाने के बाद उसे सुरक्षित रखने के लिए प्रतिबद्ध हैं. हम भौतिक, व्यवसायिक और तकनीकी सुरक्षा उपाय कार्यान्वित करते हैं. हमारे प्रयासों के वाबजूद भी यदि हमें सुरक्षा उल्लंघन की जानकारी मिलती है, तो हम आपको सूचित करेंगे ताकि आप उचित सुरक्षात्मक कदम उठा सकें.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+साथ ही हम आपकी जानकारी हमारे लिए आवश्यक समय से अधिक के लिए नहीं चाहते हैं, इसलिए हम इसे केवल उतने समय के लिए ही रखेंगे जिसके लिए हमने इसे एकत्रित किया था. जब हमें इसकी आवश्यकता नहीं होती है, तो हम इसे नष्ट करने के लिए कदम उठाते हैं जब तक कि कानून द्वारा इसे अधिक समय तक रखने की आवश्यकता न हो.
 
-### What else do we want you know?
+### हम आपसे और क्या जानकारी चाहते हैं?
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+हम एक वैश्विक संगठन है और हमारे कंप्यूटर विश्वभर में कई भिन्न स्थानों में हैं. हम उन सेवा प्रदाताओं का भी उपयोग करते हैं जिनके कंप्यूटर भी विभिन्न देशों में हो सकते हैं. इसका अर्थ है कि आपकी जानकारी अन्य देश के उन कंप्यूटर पर समाप्त हो सकती है, और वह देश में आपके देश की अपेक्षा डेटा संरक्षण का भिन्न स्तर हो सकता है. हमें जानकारी देकर, आप अपनी जानकारी के इस प्रकार के स्थानांतरण की सहमति देते हैं. इससे कोई फर्क नहीं पड़ता कि आपकी जानकारी किस देश में है, हम लागू होने वाले कानून का पालन करते हैं और इस गोपनीयता नीति में किए गए प्रतिबद्धताओं को पूर्ण करते हैं.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) to have your child's information removed.
+यदि आप 13 वर्ष से कम आयु के हैं, तो हम आपकी निजी जानकारी नहीं चाहते हैं और आपको से हमें प्रदान नहीं करना चाहिए. यदि आप माता-पिता हैं और आपको लगता है कि आपके 13 वर्ष से कम आयु के बच्चे ने हमें निजी जानकारी उपलब्ध कराई है, तो कृपया अपने बच्चे की जानकारी निकालने के लिए [हमसे संपर्क करें](https://www.mozilla.org/en-US/privacy/policies/firefox-os/).
 
-### What if we change this policy?
+### क्या होता है यदि हम इस नीति को परिवर्तित करते हैं?
 
-We may need to change this policy and when we do, we'll notify you.
+हमें इस नीति को परिवर्तित करने की आवश्यकता हो सकती है और जब हम ऐसा करते हैं, तो हम आपको सूचित करेंगे.
