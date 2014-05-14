@@ -1,187 +1,187 @@
-October 30, 2013
+30 अक्टूबर, 2013
 
-This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
+यह शीर्ष अनुभाग नीचे दी गई शर्तों का सार है. यह समझने में आपकी सहायता करने के लिए प्रदान किया गया है - लेकिन संपूर्ण दस्तावेज़ अवश्य पढ़ें, क्योंकि जब आप इससे सहमत होते हैं, तब आप यह दर्शाते हैं कि आप सभी शर्तों को स्वीकार करते हैं, न कि केवल इस सारांश को:
 
-1. You must be at least 18 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
-2. You must comply with all applicable terms and policies, including guidelines around privacy and content.
-3. We can remove your Marketplace Content from the Firefox Marketplace if we find it harmful or objectionable or if you violate our policies or these Terms.
-4. You are solely responsible for your Marketplace Content, which means you&rsquo;re responsible for export regulations, compliance with laws, refunds and support. If you sell your Marketplace Content, you are also responsible for taxes, pricing, and refunds. If you use our integrated payment system, the integrated payment processors may agree to take on sale/VAT, refunds and other payment associated issues for you.
-5. Don&rsquo;t do anything illegal or that could hurt us or others.
-6. We&rsquo;re not responsible for your use of the Firefox Marketplace, your Marketplace Content, or the actions of other users, including other developers.
-7. You&rsquo;ll be responsible for your Marketplace Content and your use or misuse of the Firefox Marketplace.
+1. Marketplace सामग्री का डेवलपर बनने के लिए आपकी आयु न्यूनतम 18 वर्ष होनी चाहिए या आपकी ओर से हमारी सेवाओं के प्रबंध और उनसे सहभागिता के लिए आपके अभिभावक की सहमति होनी चाहिए.
+2. आपको सभी लागू शर्तों और नीतियों का अनुपालन करना होगा, जिसमें गोपनीयता और सामग्री के दिशा-निर्देश शामिल होते हैं.
+3. यदि हमें पता चलता है कि आपकी Marketplace सामग्री हानिकारक या आपत्तिजनक है या यदि आप हमारी नीतियों या इन शर्तों का उल्लंघन करते हैं, तो हम उसे Firefox Marketplace से निकाल सकते हैं.
+4. आपकी Marketplace सामग्री के लिए केवल आप ज़िम्मेदार हैं, इसका अर्थ है कि आप निर्यात विनियमों, कानूनों के साथ अनुपालन, धनवापसी और सहायता के लिए ज़िम्मेदार हैं. यदि आप अपनी Marketplace सामग्री की बिक्री करते हैं, तो आप करों, मूल्य निर्धारण, और धनवापसी के लिए भी ज़िम्मेदार हैं. यदि आप हमारी एकीकृत भुगतान प्रणाली का उपयोग करते हैं, तो एकीकृत भुगतान प्रोसेसर आपके लिए बिक्री/VAT, धन वापसी और अन्य भुगतान संबंधी समस्याओं से निपटने के लिए सहमत हो सकता है.
+5. ऐसा कुछ गैरकानूनी न करें या जो हमें या दूसरों को नुकसान पहुंचाता हो.
+6. हम डेवलपर सहित आपके Firefox Marketplace के उपयोग, आपकी Marketplace सामग्री, या अन्य उपयोगकर्ताओं की कार्यवाहियों के लिए उत्तरदायी नहीं हैं.
+7. आपकी Marketplace सामग्री और Firefox Marketplace के आपके उपयोग या दुरूपयोग के लिए आप ज़िम्मेदार होंगे.
 
-## Introduction
+## परिचय
 
-Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;), located at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America, is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
+Mozilla Corporation (?Mozilla?, ?हमें? या ?हम?), 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America,में स्थित है और वेब पर चयन और नवप्रवर्तन को प्रोत्साहित करने के लिए प्रतिबद्ध है. इस स्थिति में, हमने ?Firefox Marketplace? बनाया है– जो सार्वजनिक रूप से उपलब्ध वेबसाइट है और यह आपको अपनी Marketplace सामग्री को उपयोगकर्ताओं को वितरित करने देती है जिससे कि अपने उपकरणों पर उसका उपयोग कर सकें.
 
-## Definitions
+## परिभाषाएं
 
-As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
+डेवलपर के रूप में, आप Firefox Marketplace के माध्यम से एड-ऑन या ऐप्स (एकसाथ, ?Marketplace सामग्री?) वितरित कर सकते हैं:
 
-- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
-- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
+- ?एड-ऑन? एक्सटेंशन, थीम, खोज प्रदाता, शब्दकोष, और भाषा पैक होते हैं जो आपको Firefox ब्राउज़र की कार्यक्षमता बढ़ाने देते हैं.
+- ?ऐप्स? ओपन वेब तकनीकों का उपयोग करके लिखे गए एप्लिकेशन होते हैं जो एकधिक प्लेटफ़ॉर्म पर चल सकते हैं.
 
-## Terms Governing Your Use of Firefox Marketplace
+## आपके Firefox Marketplace के उपयोग को संचालित करने वाली शर्तें
 
-As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/media/docs/terms/hi.html) and the Firefox Marketplace policies referred to in this agreement and posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;), each of which are incorporated herein by reference.
+डेवलपर के रूप में, आपकी Marketplace सामग्री के वितरण को सुविधाजनक बनाने के लिए Firefox Marketplace का उपयोग करने हेतु आपका स्वागत है. आपके Firefox Marketplace का उपयोग इस डेवलपर अनुबंध, Firefox Marketplace [उपयोग की शर्तें](/media/docs/terms/en-US.html)के नियमों और शर्तों और इस अनुबंध में संदर्भित और Firefox Marketplace में पोस्ट की गई Firefox Marketplace नीतियों (समग्र रूप से,・शर्तें・) के अधीन है , जिनमें से प्रत्येक को संदर्भ के रूप में यहां शामिल किया गया है.
 
 
-## Acceptance of Terms
+## शर्तों की स्वीकृति
 
-By using the Firefox Marketplace, you agree that you are at least 18 years old or are acting with the consent and supervision of your parent; and you have full power, capacity, and authority to accept these Terms on behalf of yourself, or if applicable, your employer or other entity that you represent.
+Firefox Marketplace का उपयोग करके, आप यह सहमति देते हैं कि आप कम से कम 18 वर्ष की आयु के हैं या अपने अभिभावक की सहमति और उनकी देखरेख में कार्य कर रहे हैं; और आपके पास अपनी ओर से या यदि लागू हो, तो अपने नियोक्ता या अन्य किसी ऐसी इकाई की ओर से, जिसका आप प्रतिनिधित्व करते हैं, इन शर्तों को स्वीकार करने की पूरी शक्ति, क्षमता और प्राधिकार है.
 
-As we innovate and introduce new features for the Firefox Marketplace, these Terms may need to change. We reserve the right to change these Terms at our sole discretion and if we make material changes, we will provide you notice.
+जैसे-जैसे हम परिवर्तन करेंगे और Firefox Marketplace के लिए नई सुविधाएं लाएंगे, इन शर्तों में बदलाव की आवश्यकता हो सकती है. हम अपने पूर्ण एकाधिकार में इन शर्तों को बदलने का अधिकार सुरक्षित रखते हैं और यदि हम महत्वपूर्ण बदलाव करते हैं, तो हम आपको सूचना देंगे.
 
 
-## Firefox Marketplace Privacy Policy
+## Firefox Marketplace गोपनीयता नीति
 
-You will be required to provide information about yourself (such as identification or contact details) to Mozilla as part of your registration for and use of the Firefox Marketplace as a Developer.  We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/hi.html).  Certain features of the Firefox Marketplace are operated by third party services. For example, we use third party providers to generate app ratings and to process app payments. You agree that any information provided to these third party providers will always be accurate, correct and up to date. Third party providers have their own privacy policies and terms of use, and you are encouraged to read them.
+आपके पंजीकरण के भाग के रूप में और डेवलपर के रूप में Firefox Marketplace का उपयोग करने के लिए आपको अपने बारे में जानकारी (जैसे पहचान या संपर्क विवरण)  Mozilla को देनी होगी.  हम आपकी जानकारी का प्रबंधन Firefox Marketplace [गोपनीयता नीति](/media/docs/privacy/en-US.html)में बताए गए अनुसार करेंगे.  Firefox Marketplace की कुछ सुविधाएं तृतीय पक्ष सेवाओं द्वारा संचालित की जाती हैं. उदाहरण के लिए, हम ऐप रेटिंग जनरेट करने और ऐप भुगतान संसाधित करने के लिए तृतीय पक्ष प्रदाताओं का उपयोग करते हैं. आप सहमति देते हैं कि इन तृतीय पक्ष प्रदाताओं को दी गई सभी जानकारी हमेशा सटीक, सही और अद्यतन होगी. तृतीय पक्ष प्रदाताओं की अपनी गोपनीयता नीतियां और उपयोग की शर्तें हैं और उन्हें पढ़ने के लिए आपको प्रोत्साहित किया जाता है.
 
 
-## Management of Firefox Marketplace
+## Firefox Marketplace का प्रबंधन
 
-As between you and Mozilla, you are solely responsible for your Marketplace Content. Because we need to be able to manage the Firefox Marketplace (including preventing abuse), the inclusion and display of any Marketplace Content in the Firefox Marketplace is at Mozilla&rsquo;s sole discretion. Mozilla, its community, or Mozilla’s third party providers may at any time review or test any of your Marketplace Content for compliance with these Terms and any other applicable policies.
+आपके और Mozilla के बीच, अपनी Marketplace सामग्री के लिए आप स्वयं ही जिम्मेदार हैं. चूंकि हमारे लिए Firefox Marketplace (दुरुपयोग को रोकने सहित) को प्रबंधित करना आवश्यक है, इसलिए Firefox Marketplace में किसी भी Marketplace सामग्री का समावेशन और प्रदर्शन पूर्णतः Mozilla के विवेकाधीन है. Mozilla, इसका समुदाय, या Mozilla के तृतीय-पक्ष प्रदाता इन शर्तों और अन्य लागू नीतियों के अनुपालन के लिए किसी भी समय आपकी Marketplace सामग्री की समीक्षा या परीक्षण कर सकते हैं.
 
-While you may be able to specify which country store you&rsquo;d like to distribute your Marketplace Content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Marketplace Content to specific devices.
+जबकि आप यह निर्दिष्ट कर सकते हैं कि आप किस देश के स्टोर में अपनी Marketplace सामग्री वितरित करना चाहते हैं, आप यह स्वीकार करते हैं कि Firefox Marketplace को ऐसे किन्हीं भी डिवाइस पर एक्सेस करने के लिए डिज़ाइन किया गया है जो खुली वेब तकनीक में चल सकता है और यह वर्तमान में विशिष्ट डिवाइस पर Marketplace सामग्री के वितरण के चयन को अनुमति नहीं देता.
 
-You are solely responsible for the relationship between you and the end users of your Marketplace Content. 
+आप और आपकी Marketplace सामग्री के अंतिम उपयोगकर्ताओं के बीच संबंधों की जिम्मेदारी पूर्णतः आप पर है. 
 
 
-## Payments
+## भुगतान
 
-You may choose to provide your Marketplace Content for free. If you would like to charge a fee for your Marketplace Content, you can do so by either using the Firefox Marketplace&rsquo;s integrated payment processing system or usingyour own payment processing system. In either case, Mozilla does not take on any merchant of record or other obligations with respect to your Marketplace Content.
+आप अपनी Marketplace सामग्री को निःशुल्क प्रदान करने का विकल्प चुन सकते हैं. यदि आप अपनी Marketplace सामग्री के लिए शुल्क लगाना चाहते हैं, तो आप Firefox Marketplace की एकीकृत भुगतान प्रोसेसिंग प्रणाली या आपकी स्वयं की भुगतान प्रोसेसिंग प्रणाली का उपयोग करके ऐसा कर सकते हैं. किसी भी मामले में, Mozilla आपकी Marketplace सामग्री के संबंध में कोई भी मर्चेंट रिकॉर्ड या अन्य बाध्यताएं नहीं लेता.
 
-If you choose to use the Firefox Marketplace integrated payment processing system, you will need to sign up for a payment account with the applicable integrated payment processor. As used here, a &ldquo;payment account&rdquo; means an account issued by an integrated payment processor to you pursuant to a separate agreement between you and that integrated payment processor, which authorizes the integrated payment processor to collect and remit payments on the your behalf for Marketplace Content sold via the Firefox Marketplace. Our payment processing system may offer you different payment processors in different jurisdictions - a list of integrated payment processors and their standard terms are [available here](/media/docs/pay-providers/all.html?v1). When you use an integrated payment processor, to the extent necessary for that payment processor to provide you with services, you authorize us to share your information with that integrated payment processor.  Payment Processors are third parties, and by using their services, you agree to abide by their Privacy Policies and Terms of Service.
+यदि आप Firefox Marketplace एकीकृत भुगतान प्रोसेसिंग प्रणाली का उपयोग करने का विकल्प चुनते हैं, तो आपको लागू एकीकृत भुगतान प्रोसेसर वाले किसी भुगतान खाते में साइन अप करना होगा. जैसा कि यहां उपयोग किया गया है, ・भुगतान खाते・ का अर्थ किसी एकीकृत भुगतान प्रोसेसर द्वारा आपको आपके और उस एकीकृत भुगतान प्रोसेसर के बीच हुए पृथक अनुबंध के अनुरूप जारी किया गया खाता है, जो Firefox Marketplace द्वारा बेची गई Marketplace सामग्री के भुगतान एकत्र करने या उसमें छूट देने के लिए आपकी ओर से एकीकृत भुगतान प्रोसेसर को प्राधिकृत करता है. हमारी भुगतान प्रोसेसिंग प्रणाली आपको विभिन्न क्षेत्राधिकारों में विभिन्न भुगतान प्रोसेसर का प्रस्ताव दे सकती है – एकीकृत भुगतान प्रोसेसर और उनकी मानक अवधियों की एक सूची [यहां उपलब्ध है](/media/docs/pay-providers/all.html?v1). जब आप किसी एकीकृत भुगतान प्रोसेसर का उपयोग करते हैं, तो आपको सेवाएं प्रदान करने हेतु भुगतान प्रोसेसर के लिए आवश्यक सीमा तक आप अपनी जानकारी एकीकृत भुगतान प्रोसेसर के साथ साझा करने के लिए हमें प्राधिकृत करते हैं.  भुगतान प्रोसेसर तृतीय पक्ष हैं, और उनकी सेवाओं का उपयोग करके, आप उनकी भुगतान नीतियों और सेवा की शर्तों का पालन करने की सहमति देते हैं. 
 
-If you choose to use the Firefox Marketplace&rsquo;s integrated payment system, you will also be charged a transaction fee for end user purchases of your Marketplace Content. You can find our current fee schedule
-at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
+यदि आप Firefox Marketplace की एकीकृत भुगतान प्रणाली का उपयोग करते हैं, तो अंतिम उपयोगकर्ताओं द्वारा आपकी Marketplace सामग्री की खरीदारी पर आप पर भी लेन-देन शुल्क लगाया जाएगा. आपको हमारी वर्तमान शुल्क सूची
+[https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments)पर मिल सकती है. पूर्णतः अपने विवेक से समय-समय पर शुल्कों को संशोधित करने का अधिकार हमारे पास सुरक्षित है.
 
-If you sell your Marketplace Content, you are also responsible for taxes (including sales tax/VAT), pricing, refunds and any other payment obligations. If you use the integrated payment system, the integrated payment processor may agree to take on sale/VAT, merchant of record, refunds and other payment associated issues for you. The fees you charge, refunds, sales/VAT taxes you owe and other payment related issues are solely between you, that payment processor and the purchasers of your Marketplace Content.
+यदि आप अपनी Marketplace सामग्री का विक्रय करते हैं, तो आप करों (बिक्री कर/VAT सहित), मूल्य निर्धारण, धन-वापसी और अन्य भुगतान बाध्यताओं के लिए भी जिम्मेदार होंगे. यदि आप एकीकृत भुगतान प्रणाली का उपयोग करते हैं, तो एकीकृत भुगतान प्रोसेसर आपके लिए बिक्री/VAT, मर्चेंट ऑफ़ रिकॉर्ड, धन वापसी और भुगतान संबंधी अन्य मामलों को स्वीकार करने के लिए सहमत हो सकता है. आपके द्वारा लगाया जाने वाला शुल्क, धन-वापसी, बिक्री/VAT आपके द्वारा चुकाए जाने वाले कर और अन्य भुगतान संबंधी मामले केवल आपके, उस भुगतान प्रोसेसर के और Marketplace की आपकी सामग्री के खरीदारों के बीच होंगे.
 
-If you use your own payment processing system, you or your payment processor will be the merchant of record for the sale of your Marketplace Content, depending on your relationship with your payment processor.
+यदि आप स्वयं की भुगतान प्रोसेसिंग प्रणाली का उपयोग करते हैं, तो आप या आपका भुगतान प्रोसेसर आपकी Marketplace सामग्री की बिक्री के लिए मर्चेंट ऑफ़ रिकॉर्ड होगा, जो आपके, अपने भुगतान प्रोसेसर के साथ संबंध पर निर्भर होगा.
 
 
-## Taxes
+## कर
 
-Since you, not Mozilla, are selling your Marketplace Content  to end users of the Firefox Marketplace&rsquo;, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. 
+चूंकि अंतिम उपयोगकर्ताओं को अपनी Marketplace सामग्री का विक्रय आप कर रहे हैं, आप, Mozilla नहीं, इसलिए यह निर्धारित करने की जिम्मेदारी आपकी है कि किसी Marketplace सामग्री को किसी उपयोगकर्ता द्वारा डाउनलोड करने पर शुल्क लगाया जाना करयोग्य है या नहीं और उस पर लागू कर की दर क्या है. इसके साथ ही, आप लेन-देन के आधार पर उपयुक्त कर प्राधिकरण को कर जमा करने के लिए जिम्मेदार हैं. 
 
-If you use the Firefox Marketplace&rsquo; integrated payment processing system, the integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
+यदि आप Firefox Marketplace की एकीकृत भुगतान प्रणाली का उपयोग करते हैं, तो एकीकृत भुगतान प्रोसेसर आपकी ओर से बिक्री और/या VAT करों को निर्धारित करने और उसे जमा करने की सेवाएं दे सकते हैं. किसी भी Marketplace सामग्री के संबंध में सीमारहित रूप से, भुगतानों को ट्रैक करने और उन्हें संसाधित करने, भुगतान किए गए या पूर्व में भुगतान किए गए डाउनलोड प्रमाणित करने, भुगतान रिकॉर्ड बनाए रखने, या बिक्री के, उपयोग के या एक्साइज़ करों का भुगतान करने, उनकी रिपोर्ट करने, उन पर शुल्क लगाने सहित Mozilla पर आपकी कोई भी कर बाध्यताएं नहीं हैं. अधिक जानकारी के लिए कृपया Mozilla के [कर FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) देखें और करों को एकत्र करने या उनमें छूट देने की आवश्यकता को निर्धारित करने के लिए अपने अटॉर्नी या कर बोर्ड से परामर्श लेना सुनिश्चित करें.
 
 
-## Refunds
+## धनवापसी
 
-You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. If you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
+लागू कानून के अनुपालन के लिए Marketplace सामग्री के खरीदार को की जाने वाली किसी भी धनवापसी, शुल्कवापसी या भुगतानों की अन्य वापसी की जिम्मेदारी आपकी है. यदि आप Firefox Marketplace एकीकृत भुगतान प्रोसेसिंग प्रणाली का उपयोग करते हैं, तो आप एतद्वारा निम्न की सहमति देते हैं:
 
-1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
-2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
+1. यदि खरीदार अपनी खरीदी के 30 मिनट या इससे अधिक अवधि के बाद धनवापसी का अनुरोध करता है, तो आप एतद्द्वारा अपनी ओर से Marketplace सामग्री के मूल्य की धनवापसी खरीदार को करने (यदि लागू कानून द्वारा ऐसा करना आवश्यक हो) के लिए Mozilla और हमारे सहयोगियों को प्राधिकृत करते हैं. इस अवधि के बाद, धनवापसी अनुरोधों को उनके क्षेत्राधिकार के आधार पर स्वीकृत या अस्वीकृत किया जा सकता है. आपकी सामग्री के दोषपूर्ण होने, उसमें मैलवेयर होने, सामग्री के हमारी नीतियों के उल्लंघनकारी निर्धारित होने (हमारे marketplace [समीक्षा का मानदंड](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) सहित, सामग्री के अनुपलब्ध होने या बताए अनुसार प्रदर्शन न करने पर यह निर्धारित होने के 30 मिनट के बाद धनवापसी की जा सकती है; और
+2. Mozilla,  Marketplace सामग्री के किसी विशिष्ट भाग के लिए किए गए असामान्य धनवापसी अनुरोधों की गुणवत्ता और सूचीकरण सटीकता को सुनिश्चित करने के लिए उसकी जांच कर सकता है और उपयुक्त कार्रवाई का निर्धारण कर सकता है.
 
-## Support
+## सहायता
 
-You are solely responsible for providing reasonable technical support to end users and you will make appropriate support contact information available (including by displaying it in each Marketplace Content&rsquo;s detail page) for customer support purposes. Failure to provide adequate support for your Marketplace Content(s) may result in low Marketplace Content reviews, less prominent Marketplace Content exposure, low sales, billing disputes, and even suspension or removal from the Firefox Marketplace.
+आप अंतिम उपयोगकर्ताओं को यथोचित तकनीकी सहायता प्रदान करने के लिए पूर्णतः जिम्मेदार हैं और आप ग्राहक सहायता के उद्देश्यों हेतु उचित सहायता संपर्क जानकारी (प्रत्येक Marketplace सामग्री के विवरण पृष्ठ पर इसे प्रदर्शित करने सहित) उपलब्ध कराएंगे. Marketplace सामग्री के लिए यथोचित सहायता प्रदान करने में विफल रहने के परिणामस्वरूप Marketplace सामग्री की कम समीक्षाएं, Marketplace सामग्री का कम प्रभावी प्रदर्शन, कम बिक्री, बिलिंग के विवाद और यहां तक कि Firefox Marketplace से निलंबन या निष्कासन भी हो सकता है.
 
 
-## Privacy-Related Obligations
+## गोपनीयता-संबंधी बाध्यताएं
 
-You agree to provide end users with a legally adequate privacy policy that accurately describes any collection, use or disclosure of information provided to you by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with your privacy policy and applicable privacy and data protection laws.
+आप अंतिम-उपयोगकर्ताओं को कानूनी रूप से उचित ऐसी गोपनीयता नीति प्रदान करने पर सहमत हैं जो अंतिम-उपयोगकर्ताओं द्वारा आपको प्रदान की गई किसी भी जानकारी के संग्रहण, उपयोग या उसके प्रकटीकरण का सटीक वर्णन करती हो. सभी अनुप्रयोगों के लिए गोपनीयता नीति होना आवश्यक है. यदि उपयोगकर्ता की या किसी ऐड-ऑन के उपयोग की जानकारी उपयोगकर्ता के उस डिवाइस के बाहर एकत्रित या प्रसारित की जाती है, जिस पर ऐड-ऑन इंस्टॉल है, तो ऐसे ऐड-ऑन के लिए गोपनीयता नीति होना आवश्यक है. आप इस बात का प्रतिनिधित्व करते हैं और यह वारंटी देते हैं कि उपयोगकर्ताओं के बारे में Mozilla द्वारा आपको दी गई किसी-भी जानकारी का उपयोग पूर्णतः आपकी गोपनीयता नीति और लागू गोपनीयता और डेटा सुरक्षा कानूनों के अनुपालन में किया जाएगा.
 
-You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms and your privacy policy in accordance with applicable privacy and data
-protection laws.  For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
+आप यह सुनिश्चित करने की सहमति देते हैं कि Marketplace की आपकी सामग्री के अंतिम उपयोगकर्ताओं को प्रस्तुत सभी विज्ञापन, लागू गोपनीयता और डेटा सुरक्षा कानूनों के संगत इन शर्तों और आपकी गोपनीयता नीति की आवश्यकताओं का
+अनुपालन करते हैं.  उदाहरण के लिए, (i) एम्बेड किया गया विज्ञापन और ऐसे विज्ञापन से उत्पन्न डेटा के आपके उपयोग को लागू कानून का पालन करना चाहिए; (ii) एम्बेड किए गए विज्ञापन में कोई  ・स्पायवेयर,箔मैलवेयर・ या नुकसानदायक कोड नहीं होना चाहिए और इसके कारण किसी व्यक्ति को चोट या किसी संपत्ति को क्षति नहीं पहुंचना चाहिए; और (iii) आपको ऐसी किसी भी ट्रैकिंग के लिए सार्थक सूचना और चुनाव देना चाहिए जो आपके या तृतीय पक्ष द्वारा उपयोगकर्ताओं के लिए बनाए जा रहे विज्ञापनों या प्रोत्साहनों को अनुकूल बनाने को प्रेरित करती है. 
 
 
-## Marketing Your App in Firefox Marketplace
+## Firefox Marketplace में आपके ऐप का विपणन
 
-You are responsible for uploading your Marketplace Content to the Firefox Marketplace, providing accurate Marketplace Content product and service information to users regarding the features and functionality of your Marketplace Content, and accurately disclosing the security permissions and user data necessary for the Marketplace Content to function on user devices. If any product or service information is inaccurate or needs to be updated or modified, you agree to promptly make such updates or modifications. Unless you and Mozilla have a written agreement stating otherwise, your Marketplace Content shall not imply in any way that it is produced or endorsed by Mozilla.
+आप अपनी Marketplace सामग्री को Firefox Marketplace पर अपलोड करने, Marketplace सामग्री की विशेषताओं और कार्यात्मकता के संबंध में Marketplace सामग्री उत्पाद और सेवाओं की सटीक जानकारी देने, और उपयोगकर्ता डिवाइस पर कार्य करने हेतु Marketplace सामग्री के लिए आवश्यक सुरक्षा अनुमतियों और उपयोगकर्ता डेटा को प्रकट करने के लिए जिम्मेदार हैं. यदि कोई उत्पाद या सेवा जानकारी गलत है या उसका अद्यतन करना या उसमें संशोधन किया जाना आवश्यक है, तो आप ऐसे अद्यतन और संशोधन तुरंत किए जाने की सहमति देते हैं. जब तक अन्यथा कथन वाला आपका और Mozilla का कोई लिखित अनुबंध न हो, आपकी Marketplace सामग्री का किसी भी प्रकार से यह तात्पर्य नहीं निकाला जाएगा कि ये Mozilla द्वारा उत्पादित या उसके द्वारा समर्थित है.
 
 
-## Content Restrictions
+## सामग्री की सीमाएं
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
+Firefox Marketplace में आपके द्वारा वितरित सभी Marketplace सामग्री Mozilla की सामग्री के  और डेवलपर हेतु अन्य नीतियों के अनुपालन में होनी चाहिए. आपको हमारी वर्तमान नीतियां [marketplace समीक्षा मानदंड](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review)पर मिल सकती हैं.  साथ ही, Firefox Marketplace के लिए यह आवश्यक है कि सभी ऐप्स को इंटरनेशनल एज रेटिंग कोएलेशन ("IARC") द्वारा रेट किया जाए.  Firefox Marketplace के डेवलपर, IARC रेटिंग प्रमाण पत्र टूल को ऐप सबमिशन प्रक्रिया के भाग के रूप में निःशुल्क एक्सेस कर सकते हैं.  IARC तृतीय पक्ष है, और उनके रेटिंग प्रमाण पत्र टूल का उपयोग करके, आप [IARC गोपनीयता नीति](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) और [IARC सेवा की शर्तों](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx)से बाध्य होने की सहमति देते हैं. 
 
 
-## Persona and Marketplace Content
+## Persona और Marketplace सामग्री
 
-[Persona](http://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
+[Persona](http://persona.org) Mozilla की लॉगिन प्रणाली है.  कुछ Marketplace सामग्री प्रमाणीकरण के लिए Persona का उपयोग करती है. आपकी Marketplace सामग्री की उपयोगकर्ताओं द्वारा की गई खरीदी की हम आपको रसीद प्रदान करेंगे.
 
 
-## App Ratings & Statistics
+## ऐप रेटिंग और आंकड़े
 
-Firefox Marketplace allows end users who install Marketplace Content to rate that Marketplace Content and provide commentary. Mozilla may provide aggregate statistics regarding your Marketplace Content usage to you. A subset of this information may be used to determine the placement of Marketplace Content in the Firefox Marketplace and may be displayed publicly in the Firefox Marketplace and through our APIs. While Mozilla will have access to this data, certain features of the Firefox Marketplace allow you to keep some of the raw statistics private from other developers and users.
+Firefox Marketplace, Marketplace सामग्री इंस्टॉल करने वाले अंतिम उपयोगकर्ताओं को उस Marketplace सामग्री को रेट करने और टिप्पणियां देने देता है. Mozilla आपको आपकी Marketplace सामग्री के उपयोग से संबंधित सकल आंकड़े प्रदान कर सकता है. इस जानकारी के एक सबसेट का उपयोग Firefox Marketplace में Marketplace सामग्री में स्थापन निर्धारित करने में किया जा सकता है और इसे Firefox Marketplace में और हमारे API के माध्यम से सार्वजनिक रूप से प्रदर्शित किया जा सकता है. यद्यपि Mozilla के पास इस डेटा की एक्सेस होगी, लेकिन Firefox Marketplace की कुछ विशेषताएं आपको कुछ अपरिष्कृत आंकड़ों को दूसरे डेवलपर और उपयोगकर्ताओं से गुप्त रखने देंगी.
 
 
-## Withdrawals, Takedowns and Termination
+## निकासी, टेकडाउन और समाप्ति
 
-### Removal by You
+### आपके द्वारा निष्कासन
 
-You may remove any of your Marketplace Content from future distribution via the Firefox Marketplace at any time, but you must comply with these Terms and your agreement with your end users. You agree that removing Marketplace Content from future distribution via the Firefox Marketplace does not (a) affect the license rights of users who have previously purchased or downloaded the Marketplace Content, (b) remove your Marketplace Content from user machines, hardware, or other devices, or from any part of the Firefox Marketplace where previously downloaded applications are stored on behalf of users (if any), or (c) change your obligation to deliver or support such Marketplace Content or services that have been previously purchased or downloaded by users.
+आप अपनी किसी-भी Marketplace सामग्री को Firefox Marketplace के माध्यम से किए जाने वाले भावी वितरण से कभी-भी निकाल सकते हैं, लेकिन आपको इन शर्तों का और अपने अंतिम उपयोगकर्ताओं से हुए अपने अनुबंध का पालन करना होगा. आप सहमति देते हैं कि Firefox Marketplace के माध्यम से Marketplace सामग्री के भावी वितरण को निकालने से (a) ऐसे उपयोगकर्ताओं के लाइसेंस अधिकारों पर प्रभाव नहीं पड़ेगा जिन्होंने पूर्व में Marketplace सामग्री को खरीदा या डाउनलोड किया है, (b) उपयोगकर्ता की मशीन, हार्डवेयर, या दूसरी डिवाइस या Firefox Marketplace के ऐसे किसी भी भाग से आपकी Marketplace सामग्री नहीं निकाली जाएगी जहां उपयोगकर्ताओं की ओर से (यदि कोई हो) पूर्व में डाउनलोड किए गए एप्लिकेशन संग्रहीत हैं, या (c) ऐसी Marketplace सामग्री या सेवाओं को वितरित करने या उनमें सहायता करने की आपकी बाध्यता में कोई परिवर्तन नहीं आएगा जिन्हें पूर्व में उपयोगकर्ताओं द्वारा खरीदा या डाउनलोड किया गया था.
 
-Mozilla will not maintain on any portion of the Firefox Marketplace any Marketplace Content that you have removed from the Firefox Marketplace and provided written notice to Mozilla that such removal was due to (i) an allegation of infringement, or actual infringement, of any copyright, trademark, trade secret, trade dress, patent or other intellectual property right of any person, (ii) an allegation of defamation or actual defamation, (iii) an allegation of violation, or actual violation, of any third party's right of publicity or privacy, or (iv) an allegation or determination that such Marketplace Content does not comply with applicable law. If your Marketplace Content is removed from the Firefox Marketplace because of infringement, defamation, violation of publicity or privacy rights or applicable law as described above, you will refund to each end user who purchased such Marketplace Content in the 60 days preceding the date of takedown, the amount paid by such end user for such affected Marketplace Content.
+Mozilla, Firefox Marketplace की ऐसी किसी भी Marketplace सामग्री को बनाए नहीं रखेगा जिसे आपके द्वारा Firefox Marketplace से निकाल दिया गया हो और आपके द्वारा Mozilla को इस बात की लिखित सूचना दी गई हो कि ऐसा निष्कासन (i) किसी कॉपीराइट, ट्रेडमार्क, ट्रेड सीक्रेट, ट्रेड ड्रेस, पेटेंट या किसी व्यक्ति के अन्य बौद्धिक संपदा अधिकार के उल्लंघन के लगने वाले आरोप, या उसके वास्तविक उल्लंघन के कारण किया गया था, (ii) मानहानि के आरोप या वास्तविक मानहानि के कारण किया गया था, (iii) aकिसी तृतीय पक्ष के प्रचार या गोपनीयता के अधिकार के उल्लंघन का आरोप या वास्तविक उल्लंघन के कारण किया गया था, या (iv) किसी ऐसे आरोप या निर्धारण के कारण था कि ऐसी Marketplace सामग्री लागू कानून का अनुपालन नहीं करती. यदि आपकी Marketplace सामग्री प्रचार या गोपनीयता अधिकारों या ऊपर वर्णित लागू कानूनों के अतिलंघन, मानहानि, उल्लंघन के कारण Firefox Marketplace से निकाली गई है, तो आप ऐसी प्रभावित Marketplace सामग्री के लिए, Marketplace खरीदारी करने वाले प्रत्येक उपयोगकर्ता को टेकडाउन के ठीक पहले की तिथि से 60 दिनों के भीतर ऐसे अंतिम उपयोगकर्ता द्वारा भुगतान किए गए धन की धनवापसी करेंगे.
 
-If you remove all your Marketplace Content from the Firefox Marketplace, you may terminate these Terms by providing Mozilla with 30 days prior written notice of such termination. All of your obligations under these Terms related to your Marketplace Content shall survive any termination of these Terms, including your obligation with respect to outstanding refunds, any representations and warranties as well as indemnification to Mozilla.
+यदि आप Firefox Marketplace से अपनी सभी Marketplace सामग्री निकाल देते हैं, तो आप Mozilla को 30 दिन पूर्व लिखित सूचना देकर इन शर्तों को समाप्त कर सकते हैं. इन शर्तों की समाप्ति पर आपकी Marketplace सामग्री से संबंधित इन शर्तों के तहत बकाया धन की वापसी, सभी प्रतिनिधित्व और वारंटी और साथ-ही Mozilla को क्षतिपूर्ति करने की आपकी बाध्यता सहित सभी बाध्यताएं जारी रहेगी.
 
 
-### Mozilla Takedowns
+### Mozilla टेकडाउन
 
-Mozilla has the right (though not the obligation) to, in Mozilla&rsquo;s sole discretion, remove any content that, in Mozilla&rsquo;s reasonable opinion, violates any Mozilla policy or is in any way harmful or objectionable.
+Mozilla को (यद्यपि बाध्यता नहीं) , Mozilla के पूर्ण स्वविवेक से, ऐसी किसी भी सामग्री को निकालने का अधिकार है जो, Mozilla के उचित मत से, Mozilla की किसी नीति का उल्लंघन करती है या किसी तरीके से हानिकारक या आपत्तिजनक है.
 
-Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+आगे की बातों को सीमित किए बिना, यदि Mozilla को आपके द्वारा या अन्यथा इस बात का पता चलता है और वह अपने पूर्ण एवं उचित स्वविवेक से यह निर्धारित करता है कि कोई Marketplace सामग्री या उसका कोई भी भाग (ट्रेडमार्क, लोगों से या ऐसी Marketplace सामग्री से संबद्ध किसी ब्रांड विशेषता को शामिल करते हुए पर इसी तक सीमित नहीं होकर): (a) हमारी marketplace [समीक्षा मानदंड](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) या Firefox Marketplace की अन्य नीति का उल्लंघन करता है; (b) Mozilla या अन्य किसी व्यक्ति के लिए दायित्व निर्मित कर सकता है; या (c) इन शर्तों का उल्लंघन करता है, तो Mozilla, Marketplace सामग्री को Firefox Marketplace में उपलब्ध किए जाने से रोक सकता है, तो Firefox Marketplace से Marketplace सामग्री निकाल सकता है, संबंधित सामग्रियों (सीमारहित रूप से वर्णनों, स्क्रीनशॉट, या मेटाडेटा सहित) को फ़्लैग, फ़िल्टर, संशोधित कर सकता है , Marketplace सामग्री को पुनः वर्गीकृत कर सकता है, या अपने पूर्ण स्वत्वाधिकार में अन्य सुधारात्मक कार्रवाई कर सकता है. यदि निष्कासन से संबंधित आपके कोई प्रश्न या चिंताएं हैं, तो आप [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org)पर हमसे संपर्क कर सकते हैं.
 
-Mozilla may at any time suspend or terminate these Terms with you if Mozilla is no longer going to provide the Firefox Marketplace or Mozilla believes you have violated any policies or breached these Terms.
+यदि Mozilla आगे आपको Firefox Marketplace उपलब्ध नहीं करने वाला है या यदि Mozilla को लगता है कि आपने किसी नीति का उल्लंघन किया है या इन शर्तों का अतिक्रमण किया है, तो Mozilla आपके साथ इन शर्तों को कभी-भी निलंबित या समाप्त कर सकता है.
 
 
-## Licenses
+## लाइसेंस
 
-Mozilla encourages you to make your Marketplace Content available under an open source license such as the MPL for source code and a Creative Commons license for creative works. Mozilla has also developed an operating system that can natively run web applications (&ldquo;Firefox OS&rdquo;). Using Firefox OS, Mozilla and third parties can create devices that run Firefox OS (&ldquo;Firefox OS Devices&rdquo;). You hereby grant to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license under all of your rights necessary to make the Marketplace Content available in connection with the Firefox Marketplace and Firefox OS Devices. The foregoing license includes, if applicable, the right (but not obligation) to pre-load such Marketplace Content on Firefox OS Devices and provide Marketplace Content in connection with services available through Firefox OS Devices.
+Mozilla, आपको अपनी Marketplace सामग्री सोर्स कोड के लिए MPL और रचनात्मक कार्यों के लिए क्रिएटिव कॉमंस जैसे ओपन सोर्स लाइसेंस के अंतर्गत उपलब्ध कराने के लिए प्रोत्साहित करता है. Mozilla ने एक ऑपरेटिंग सिस्टम भी बनाया है जिसमें वेब एप्लिकेशन (・Firefox OS・) को स्वाभाविक रूप से चलाया जा सकता है. Firefox OS के उपयोग से, Mozilla और तृतीय पक्ष ऐसे उपकरण बना सकते हैं जिन पर Firefox OS चलता है (・Firefox OS उपकरण・). Firefox Marketplace और Firefox OS उपकरणों के संबंध में Marketplace सामग्री उपलब्ध कराने के लिए आप एतद् द्वारा Mozilla और उसके सहयोगियों को अपने समस्त अधिकारों के अंतर्गत एक गैर-विशिष्ट, विश्वव्यापी, रॉयल्टी-मुक्त, उप-लाइसेंस किए जाने योग्य लाइसेंस प्रदान करते हैं. पूर्ववर्ती लाइसेंस में, यदि लागू हो, ऐसी Marketplace सामग्री Firefox OS उपकरणों पर पहले से लोड करने और Marketplace सामग्री को Firefox OS उपकरणों के माध्यम से उपलब्ध कराई जाने वाली सेवाओं के संबंध में उपलब्ध कराए जाने का अधिकार (लेकिन दायित्व नहीं) शामिल है.
 
-Between Mozilla and you, each party shall own all right, title and interest, including without limitation all intellectual property rights, relating to its Brand Features. "Brand Features" means the trade names, trade marks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time. Except to the limited extent expressly provided in these Terms, neither party grants, nor shall the other party acquire, any right, title or interest (including, without limitation, any implied license) in or to any Brand Features of the other party. Subject to these Terms, you grant to Mozilla and its affiliates a limited, non-exclusive license during the term to display your Brand Features for use in connection with the Firefox Marketplace. Nothing in these Terms gives you a right to use any of Mozilla&rsquo;s trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+Mozilla और आपके बीच, प्रत्येक पक्ष के पास सभी अधिकार, स्वत्वाधिकार और हित होंगे, जिनमें सीमित किए बिना उसकी ब्रांड सुविधाओं से संबंधित सभी बौद्धिक संपत्ति अधिकार शामिल होंगे. "ब्रांड सुविधाएं" का तात्पर्य क्रमश: व्यापार नामों, व्यापार चिह्नों, सेवा चिह्नों, लोगो, डोमेन नामों और प्रत्येक पक्ष की ऐसी विशिष्ट ब्रांड सुविधाओं से है, जो कि समय-समय पर उस पक्ष के स्वामित्व (या लाइसेंसीकृत) में आती हो. इन शर्तों में प्रदत्त सीमित सीमा को छोड़कर, न तो कोई पक्ष दूसरे पक्ष की ब्रांड सुविधाओं में या उसके लिए कोई भी अधिकार, स्वत्वाधिकार या हित प्रदान करता है, न ही दूसरा पक्ष उसे प्राप्त करता है. इन शर्तों के अधीन, आप Firefox Marketplace के संबंध में उपयोग के लिए अपनी ब्रांड सुविधाएं प्रदर्शित किए जाने की अवधि के दौरान Mozilla और उसके सहयोगियों को एक सीमित, गैर-विशिष्ट लाइसेंस प्रदान करते हैं. इन शर्तों में से कोई भी चीज़ आपको Mozilla के व्यापार नामों, ट्रेडमार्क, सेवा चिह्नों, लोगो, डोमेन नामों या अन्य विशिष्ट ब्रांड सुविधाओं को उपयोग करने का अधिकार नहीं देती है.
 
 
-## Publicity
+## प्रचार
 
-Mozilla and its affiliates may include your Brand Features, screenshots, videos, and demonstrations of your Marketplace Content and any content contained in, accessed by, or transmitted through your Marketplace Content in presentations, marketing materials, marketing events, developer events, financial reports, website listings (including links to your website), press releases, and customer lists (which includes, without limitation, customer lists posted on Mozilla web sites) for purposes of marketing the Firefox Marketplace, Mozilla products and services, or publicizing your Marketplace Content.
+Firefox Marketplace और Mozilla के उत्पादों व सेवाओं का विपणन करने या आपकी Marketplace सामग्री का प्रचार करने के लिए Mozilla और उसके सहयोगी प्रस्तुतिकरणों, विपणन सामग्रियों, विपणन ईवेंट, डेवलपर ईवेंट, वित्तीय रिपोर्ट, वेबसाइट प्रविष्टियों (आपकी वेबसाइट के लिंक सहित), प्रेस विज्ञप्तियों और ग्राहक सूचियों (जिनमें, सीमित किए बिना, Mozilla वेब साइटों पर पोस्ट की गई ग्राहक सूचियां शामिल हैं) में, आपकी Marketplace सामग्री में शामिल, उसके द्वारा एक्सेस की जाने वाली या उसके माध्यम से प्रसारित की जाने वाली ब्रांड सुविधाओं, स्क्रीनशॉट, वीडियो और प्रदर्शनों को शामिल कर सकते हैं.
 
 
-## Firefox Sync Add-ons
+## Firefox Sync ऐड-ऑन
 
-If your Marketplace Content utilizes any Firefox Sync APIs or software, you agree (a) that you and your Marketplace Content will use the Firefox Sync API solely for its intended purpose; (b) that your Marketplace Content will not hide or mask its identity as it uses Mozilla&rsquo;s hosted Firefox Sync services and/or Firefox Sync APIs, including by failing to follow required identification conventions; and (c) that you and your Marketplace Content will not use the Firefox Sync APIs for any application or service that attempts to mislead users (including by attempting to replicate Mozilla&rsquo;s hosted Firefox Sync services experience).
+यदि आपकी Marketplace सामग्री किसी भी Firefox Sync API या सॉफ़्टवेयर का उपयोग करती है, तो आप सहमति देते हैं (अ) कि आप और आपकी Marketplace सामग्री Firefox Sync API का उपयोग केवल उसके नियत उद्देश्य के लिए ही करेंगे; (ब) कि चूंकि आपकी Marketplace सामग्री Mozilla की होस्ट की गई Firefox Sync सेवाओं और/या Firefox Sync API का उपयोग करती है, इसलिए वह अपनी पहचान नहीं छिपाएगी या उसे प्रतिरूपित नहीं करेगी, इसमें आवश्यक पहचान व्यवहारों का अनुसरण करने में विफल रहना भी शामिल है; और (स) कि आप और आपकी Marketplace सामग्री, Firefox Sync API का उपयोग ऐसे किसी भी एप्लिकेशन या सेवा के लिए नहीं करेगी जो उपयोगकर्ताओं को भ्रमित करने का प्रयास करती है (इसमें Mozilla की होस्ट की गई Firefox Sync सेवाओं के अनुभव की नकल करने का प्रयास करना भी शामिल है).
 
 
-## Representations and Warranties
+## प्रतिनिधित्व और वारंटियां
 
-You represent and warrant that:
+आप प्रतिनिधित्व करते हैं और वारंटी देते हैं कि:
 
-1. You have and will maintain all necessary rights to post, display, perform, use, reproduce and transmit your Marketplace Content, worldwide, as well as the rights to authorize others (including Mozilla) to do the same;
-2. If your Marketplace Content contains any commercial identifiers such as a trademark, service mark, or trade dress, you have worldwide legal rights to use and authorize the use of the artwork, design, emblems, names, and other elements.
-3. The descriptions and other data you provide about the Marketplace Content are true to the best of your knowledge; and
-4. Your Marketplace Content is accompanied by an accessible agreement that describes the rights of its users.
+1. आप अपनी Marketplace सामग्री को विश्वभर में पोस्ट करने, प्रदर्शित करने, निष्पादित करने, उपयोग करने, पुनर्निर्मित करने और संचारित करने के अपने सभी आवश्यक अधिकारों के साथ ही किसी अन्य (Mozilla सहित) को भी ऐसा ही करने हेतु अधिकृत करने के अधिकारों को बनाए रखते हैं और बनाए रखेंगे;
+2. यदि आपकी Marketplace सामग्री में ट्रेडमार्क, सेवा चिह्न या व्यापार ड्रेस जैसे कोई भी व्यावसायिक पहचानकर्ता जैसे शामिल हैं, तो आपके पास कला, डिज़ाइन, प्रतीकों, नामों और अन्य तत्वों का उपयोग विश्वभर में करने और उसे अधिकृत करने के कानूनी अधिकार होते हैं.
+3. आपके द्वारा Marketplace सामग्री के बारे में प्रदान किए जाने वाले विवरण और अन्य डेटा आपकी श्रेष्ठ जानकारी के अनुसार सही हैं; और
+4. आपकी Marketplace सामग्री ऐसे पहुंच-योग्य अनुबंध के साथ आती है जो उसके उपयोगकर्ताओं के अधिकारों की व्याख्या करती है.
 
-## Disclaimer of Warranties
+## वारंटियों का अस्वीकरण
 
-THE FIREFOX MARKETPLACE IS PROVIDED &ldquo;AS IS&rdquo;. MOZILLA, ITS CONTRIBUTORS, LICENSORS AND DISTRIBUTORS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+FIREFOX MARKETPLACE ・जैसा है वैसा・उपलब्ध कराया जाता है. MOZILLA, उसके सहयोगी, लाइसेंसकर्ता और वितरक सभी वारंटियों को अस्वीकार करते हैं, चाहे वे व्यक्ति हों अथवा निहित, जिनमें सीमित किए बिना, व्यापारिकता की निहित वारंटियां, किसी विशेष प्रयोजन के लिए योग्यता और गैर-उल्लंघन शामिल हैं. कुछ क्षेत्राधिकार निहित वारंटियों के अपवर्जन या परिसीमन की अनुमति नहीं देते हैं, इसलिए हो सकता है कि यह अस्वीकरण आप पर लागू न हो.
 
 
-## Limitation of Liability
+## दायित्व की सीमा
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT AS REQUIRED BY LAW, MOZILLA, ITS CONTRIBUTORS, LICENSORS, SUBSIDIARIES, AFFILIATES AND DISTRIBUTORS WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT MOZILLA OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. IN NO EVENT SHALL MOZILLA&rsquo;S AGGREGATE LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS BE IN EXCESS OF THE GREATER OF (i) $100 OR (ii) THE TOTAL AMOUNTS PAID TO YOU BY MOZILLA IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN TYPES OF LIABILITY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+आप स्पष्टत: यह समझते हैं और सहमति देते हैं कि कानूनी रूप से आवश्यक को छोड़कर, MOZILLA, उसके योगदानकर्ता, लाइसेंसकर्ता, अनुषंगी, सहयोगी और वितरक डेटा की हानि सहित किसी भी अप्रत्यक्ष, विशेष, आकस्मिक, परिणामी, दंडात्मक या अनुकरणीय क्षतिपूर्ति, जो आपके द्वारा व्यय की गई हो, के लिए किसी भी उत्तरदायित्व के सिद्धांत के अंतर्गत आपके प्रति उत्तरदायी नहीं होंगे, भले ही MOZILLA या उसके प्रतिनिधियों को ऐसी किसी भी हानि के होने की संभावना के बारे में सूचित कर दिया गया हो या उन्हें इसके बारे में अवगत होना चाहिए था. किसी भी परिस्थिति में इन शर्तों से या इनके संबंध में होने वाली किसी भी क्षति के लिए आपके प्रति MOZILLA का एकीकृत उत्तरदायित्व, (i) $100 या (ii) किसी भी दावे के ठीक पूर्ववर्ती बारह महीनों में MOZILLA द्वारा आपको भुगतान की गई कुल राशि में से अधिकतम से अधिक नहीं होगा.  कुछ क्षेत्राधिकार निश्चित प्रकार के उत्तरदायित्व के अपवर्जन या परिसीमन की अनुमति नहीं देते हैं, इसलिए हो सकता है कि यह अस्वीकरण आप पर लागू न हो.
 
 
-## Release; Indemnification
+## मोचन; क्षतिपूर्ति
 
-You release Mozilla, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other users, including developers of Marketplace Content.
+आप Mozilla, उसके अधिकारियों, कर्मचारियों, एजेंट और उत्तराधिकारियों को अन्य उपयोगकर्ताओं, जिनमें Marketplace सामग्री के डेवलपर भी शामिल हैं, के साथ होने वाले किसी भी विवाद के संबंध में या उससे उत्पन्न होने वाले किसी भी दावे, मांग और किसी भी प्रकार की क्षतियों से मुक्त करते हैं.
 
-If any third party brings a claim against Mozilla related to your use of the Firefox Marketplace or your Marketplace Content, you will defend and hold Mozilla harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+यदि कोई भी तृतीय पक्ष Firefox Marketplace के आपके उपयोग या आपकी Marketplace सामग्री के संबंध में Mozilla के विरुद्ध दावा प्रस्तुत करता है, तो ऐसे दावे से संबंधित सभी क्षतियों, हानियों और किसी भी प्रकार के व्ययों (जिसमें यथोचित कानूनी शुल्क और लागतें शामिल हैं) से Mozilla का बचाव करेंगे और उसे हानिरहित रखेंगे.
 
 
-## General Legal Terms
+## सामान्य कानूनी शर्तें
 
-These Terms constitute the whole legal agreement between you and Mozilla and governs your use of the Firefox Marketplace, and completely supercedes any prior agreements between you and Mozilla in relation to the Firefox Marketplace. Nothing in these Terms shall be deemed to grant you any right to use the trademarks, trade names, service marks, or trade dress of Mozilla or its licensors and Mozilla hereby reserves all right, title and interest therein. For information on our trademarks, please see our Trademark and Logo Usage Policies.
+ये शर्तें Mozilla और आपके बीच एक पूर्णत: कानूनी अनुबंध का गठन करती हैं तथा Firefox Marketplace के आपके उपयोग को प्रबंधित करती हैं तथा Firefox Marketplace के संबंध में Mozilla और आपके बीच पूर्व में हुए किसी भी अनुबंध पर पूरी तरह वरीयता प्राप्त करती हैं. इन शर्तों में दी गई किसी भी चीज़ को ऐसा नहीं माना जाना चाहिए कि वह आपको Mozilla या उसके लाइसेंसकर्ताओं के ट्रेडमार्क, व्यापार नामों, सेवा चिह्नों या व्यापार ड्रेस का उपयोग करने का अधिकार देती है और उसके सभी अधिकार, स्वत्वाधिकार और हित एतद् द्वारा Mozilla के पास सुरक्षित हैं. हमारे ट्रेडमार्क के संबंध में जानकारी के लिए, कृपया ट्रेडमार्क और लोगो उपयोग संबंधी हमारी नीतियां देखें.
 
-You agree that if Mozilla does not exercise or enforce any legal right or remedy which is contained in these Terms (or which Mozilla has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mozilla's rights and that those rights or remedies will still be available to Mozilla.
+आप सहमति देते हैं कि यदि Mozilla इन शर्तों में शामिल किसी भी कानूनी अधिकार या उपचार को व्यवहार में नहीं लाता या लागू नहीं करता (या जिससे Mozilla को किसी भी लागू कानून के अंतर्गत लाभ होता हो), तो इसे Mozilla के अधिकारों के औपचारिक अधित्याग के रूप में नहीं लिया जाएगा और यह कि वे अधिकार एवं उपचार Mozilla के लिए अभी भी उपलब्ध होंगे.
 
-If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms are invalid, then that provision will be removed from these Terms without affecting the rest of these Terms. The remaining provisions of these Terms will continue to be valid and enforceable.
-EXPORT RESTRICTIONS. YOUR DISTRIBUTION OF MARKETPLACE CONTENT ON THE FIREFOX MARKETPLACE MAY BE SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO YOUR DISTRIBUTION OF MARKETPLACE CONTENT. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, USERS AND END USE.
+यदि कोई भी न्यायालय जिसे इस मामले पर निर्णय लेने का अधिकार हो, यह निर्णय देता है कि इन शर्तों का कोई भी प्रावधान अमान्य है, तो शेष शर्तों को प्रभावित किए बिना उस प्रावधान को इन शर्तों में से निकाल दिया जाएगा. इन शर्तों के शेष प्रावधान मान्य और प्रवर्तनीय बने रहेंगे.
+निर्यात प्रतिबंध. FIREFOX MARKETPLACE पर आपकी MARKETPLACE सामग्री का वितरण अमेरिकी निर्यात कानूनों और विनियमों के अधीन हो सकता है. आपको अपनी MARKETPLACE सामग्री के वितरण पर लागू होने वाले सभी घरेलू और निर्यात कानूनों और विनियमों का पालन करना होगा. इन कानूनों में गंतव्यों, उपयोगकर्ताओं और अंतिम उपयोग पर लगाए जाने वाले प्रतिबंध शामिल हैं.
 
-The rights granted in these Terms may not be assigned or transferred by you without the prior written approval of Mozilla. You are not permitted to delegate your responsibilities or obligations under these Terms without the prior written approval of Mozilla.
+इन शर्तों में प्रदान किए गए अधिकार आपके द्वारा, Mozilla की अग्रिम लिखित सहमति के बिना सौंपे या स्थानांतरित नहीं किए जा सकते हैं. आपको Mozilla की अग्रिम लिखित स्वीकृति के बिना इन शर्तों के अंतर्गत आने वाले अपने उत्तरदायित्वों या कर्तव्यों को सौंपने की अनुमति नहीं है.
 
-## Governing Law and Jurisdiction
+## नियंत्रक कानून और क्षेत्राधिकार
 
-THESE TERMS, AND YOUR RELATIONSHIP WITH MOZILLA UNDER THESE TERMS, SHALL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA IN THE UNITED STATES OF AMERICA WITHOUT REGARD TO ITS CONFLICT OF LAWS PROVISIONS. You and Mozilla agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, in the state of California to resolve any legal matter arising from these Terms. Notwithstanding this, you agree that Mozilla shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+ये शर्तें, और इन शर्तों के अंतर्गत MOZILLA के साथ आपका संबंध संयुक्त राज्य अमेरिका के केलिफ़ोर्निया राज्य के कानूनी प्रावधानों के विरोध को ध्यान में न रखते हुए उसके कानूनों द्वारा प्रबंधित होगा. आप और Mozilla इन शर्तों से उत्पन्न होने वाले किसी भी कानूनी मामले को हल करने के लिए केलिफ़ोर्निया राज्य के सांता क्लारा में स्थित न्यायालयों के विशिष्ट क्षेत्राधिकार में उपस्थित होने की सहमति देते हैं. इसके बावज़ूद, आप सहमति देते हैं कि Mozilla को अभी भी किसी भी क्षेत्राधिकार में निषेधाज्ञा उपचारों (या समतुल्य अत्यावश्यक कानूनी राहत) को लागू किए जाने के लिए अनुमति दी जानी चाहिए.
