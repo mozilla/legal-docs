@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Изјава за приватност за интернет-услугите на Firefox
 
-March 26, 2014
+26 март, 2014 г.
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+Се грижиме за вашата приватност. Кога услугите Cloud на Firefox („Услугите“) испраќаат информации до Mozilla (тоа сме ние), нашата [Политика на приватност на Mozilla](http://www.mozilla.org/en-US/privacy/) опишува како ги користиме тие информации.
 
-## Things you should know:
+## Работи што треба да ги знаете:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+Во зависност од тоа кои карактеристики на Услугите ги користите, ни испраќате различни типови податоци.  Дознајте повеќе.
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Сметка за Firefox**: Кога регистрирате сметка, ги добиваме вашата адреса на е-пошта и лозинка. 
+* **Sync**: Ако ја користите функцијата Sync, примаме повеќе информации за синхронизирање на вашите јазичиња, лентата „awesome“, лозинките, обележувачите, претпочитаните опции за прелистувачот и други податоци од разните уреди.  
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Користиме колачиња (cookies), проѕирни GIF-датотеки (clear GIFs) и други веб-технологии за да ги понудиме и подобриме нашите производи и услуги.  Дознајте повеќе.
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **Интернет-алатки за податоци**: Користиме интернет-алатки за собирање податоци, какви што се колачиња, проѕирни GIF-датотеки и веб-светилници (web beacons) за да ја обезбедиме функционалноста на нашите производи и услуги. На пример, колачињата помагаат при најавувањето и автентикацијата на корисникот. Овие алатки ги користиме и за собирање податоци, за да ги подобриме нашите производи и услуги. На пример, користиме колачиња за да обезбедиме веб-аналитика. 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **Опции**: Може да дознаете повеќе за тоа што се колачиња и да управувате со колачињата во Firefox кликнувајќи [овде](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Имајте предвид дека одредени функции на нашите и на други производи и услуги може да не функционираат правилно без помош на колачињата.
