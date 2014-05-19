@@ -1,66 +1,66 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Политика на приватност на Firefox Marketplace
+3 јули, 2013 г.
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Се грижиме за вашата приватност. Кога Mozilla (тоа сме ние) собира информации за вас од Firefox Marketplace, нашата [Политика на приватност](http://www.mozilla.org/en-US/privacy/) опишува како ракуваме со тие информации.
 
-<u>Things you should know</u>
+<u>Работи што треба да ги знаете</u>
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
+- Повеќето од апликациите на Firefox Marketplace не се произведени од нас и пред да ги користите треба да ги проверите нивните политики на приватност.
+- Плаќањата ги обработуваат други (а не Mozilla) и треба да ја проверите политиката на приватност на соодветниот давател на услуги за обработка на плаќања за да ги разберете неговите практики.
+  - Mozilla не собира, не задржува и не користи финансиски информации (какви што се информации за кредитната картичка што сте ја користеле за купувања од Firefox Marketplace).
+- Firefox Marketplace користи колачиња и други веб-технологии за да ја понуди својата функционалност (на пр. да ве запомни од една до друга сесија) и користи акумулирана аналитика за да ни помогне да разбереме како корисниците ја користат услугата.
+- За да го приспособи вашето доживување, Marketplace може да користи податоци од вашиот мобилен оператор и податоци за вашата локација.
+  - На уреди со Firefox OS, користиме информации за мрежата од вашиот уред за да ја дознаеме локацијата на вашата земја и мрежата на операторот, а со цел да го приспособиме вашето искуство и да понудиме специјални содржини од операторот.
+  - На сите платформи, може да ја користиме вашата ИП-адреса за да ја утврдиме локацијата на вашата земја, со цел да го приспособиме вашето доживување.
+- Не мора да се најавите за да инсталирате бесплатна апликација, но најавувањето е потребно за платените апликации. Исто така, ви помагаме да одржувате историја од вашата трансакциска активност (на пр. кои апликации сте ги купиле).
+- Може да изберете да добивате е-пораки од нас, но може и да ја откажете претплатата на кои било рекламни е-пораки што сте избрале да ги добивате.
 
-### Mozilla Privacy Policy
+### Политика на приватност на Mozilla
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+Вашата приватност е важен фактор што Mozilla (тоа сме ние) го зема предвид при развивањето на сите наши производи и услуги. Наша цел е да бидеме транспарентни и отворени во работењето и сакаме да знаете на кој начин ги добиваме информациите за вас и што правиме со тие информации откако ќе ги добиеме.
 
-### What do we mean by "personal information?"
+### Што значат „лични информации“ за нас?
 
-For us, "personal information" means information which identifies you, like your name or email address.
+За нас, „лични информации“ се информациите што ве идентификуваат, на пр. вашето име или адреса на е-пошта.
 
-Any information that falls outside of this is "non-personal information."
+Сите други информации се „нелични информации“.
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+Ако ги меморираме вашите лични информации со информации што не се лични, оваа комбинација ќе ја сметаме за лични информации. Ако ги отстраниме сите лични информации од одреден збир податоци, тогаш преостанатите информации се не-лични.
 
-### How do we learn information about you?
+### Како дознаваме информации за вас?
 
-We learn information about you when:
+Информации за вас дознаваме кога:
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+- ни ги давате директно (на пр. кога ќе изберете да ни испратите извештај за уривање од Firefox); 
+- ги собираме автоматски преку нашите производи и услуги (на пр. кога проверуваме дали вашата верзија на Firefox е ажурирана);
+- некој друг ни соопштува информации за вас (на пр. Thunderbird работи со вашите провајдери на е-пошта при поставувањето на вашата сметка); или
+- кога се обидуваме и дознаваме повеќе за вас врз основа на информациите што сте ни ги дале (на пр. кога ја користиме вашата ИП-адреса за да го приспособиме јазикот за некои од нашите услуги).
 
-### What do we do with your information once we have it?
+### Што правиме со вашите информации откако ќе ги добиеме?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+Кога ни давате лични информации, ќе ги користиме на начини за кои сте ни дале дозвола. Генерално, вашите информации ги користиме за да ни помогнат во обезбедувањето и подобрувањето на нашите производи и услуги наменети за вас.
 
-### When do we share your information with others?
+### Кога ги споделуваме вашите информации со други?
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](http://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+- Кога ќе добиеме ваша дозвола да ги споделуваме.
+- За обработување или обезбедување производи и услуги за вас, но само доколку субјектите што ги добиваат вашите информации се договорно обврзани да ракуваат со податоците на начини што се одобрени од Mozilla.
+- Кога ја исполнуваме нашата [мисија за отвореност](http://www.mozilla.org/about/manifesto.html). Понекогаш објавуваме информации за да ги подобриме нашите производи и за да поттикнуваме отворен интернет, но кога го правиме тоа, ги отстрануваме сите ваши лични информации и се обидуваме да ги откриеме информациите на начин со којшто се минимизира ризикот да бидете повторно идентификувани.
+- Кога тоа се бара со закон. Го почитуваме законот секогаш кога добиваме барања за вас од влада или барања во врска со тужба. Кога на овој начин ќе ни биде побарано да предадеме ваши лични информации, ќе ве известиме, освен ако е законски забрането да го сториме тоа. Кога добиваме вакви барања, вашите лични информации ќе ги откриеме само ако добронамерно сметаме дека тоа го бара законот. Во оваа политика нема ништо што е наменето за ограничување на какви било законски одбрани или приговори што би можеле да ги имате на барањето од трета страна за откривање информации.
+- Кога сметаме дека тоа е потребно за да спречиме ваша или нечија друга повреда. Вашите информации ќе ги споделиме на овој начин само доколку добронамерно сметаме дека тоа е навистина потребно за заштита на вашите права, имот или безбедност или на другите наши корисници, Mozilla или јавноста.
+- Доколку се промени нашата организациска структура или статус (ако претрпиме преструктуирање, преземање или банкротирање) може да ги пренесеме вашите информации на наследник или партнер.
 
-### How do we store and protect your personal information?
+### Како ги меморираме и штитиме вашите лични информации?
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+Откако ќе ги добиеме вашите лични информации, ние сме посветени на нивната заштита. Спроведуваме физички, деловни и технички безбедносни мерки. Доколку дознаеме дека безбедноста била загрозена и покрај нашите напори, ќе ве известиме за да можете да преземете соодветни мерки за заштита.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+Исто така, не сакаме да ги чуваме вашите лични информации подолго отколку што ни се потребни, па ги чуваме само доволно долго за да го направиме тоа за што биле собрани тие информации. Кога информациите повеќе нема да ни бидат потребни, преземаме чекори за нивно уништување, освен ако законски се бара од нас да ги чуваме подолг период.
 
-### What else do we want you know?
+### Што друго сакаме да знаете?
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+Ние сме глобална организација и нашите компјутери се наоѓаат на неколку различни локации во светот. Користиме и даватели на услуги чиишто компјутери исто така може да се наоѓаат во различни земји. Тоа значи дека вашите информации можат да завршат на некој од тие компјутери во друга земја, а таа земја може да има различно ниво на прописи за заштита на податоци, во споредба со прописите во вашата земја. Со самото давање на информациите, се согласувате со овој вид пренесување на вашите информации. Без разлика во која земја се наоѓаат вашите информации, ги почитуваме применливите закони, а ќе се придржуваме и до нашите обврски од оваа политика на приватност.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) to have your child's information removed.
+Доколку имате помалку од 13 години не сакаме да добиваме ваши лични информации и не смеете да ни ги давате. Ако сте родител и сметате дека вашето дете под 13-годишна возраст ни има дадено лични информации, [контактирајте со нас](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) за да ги отстраниме информациите на вашето дете.
 
-### What if we change this policy?
+### Што ако ја смениме оваа политика?
 
-We may need to change this policy and when we do, we'll notify you.
+Може да има потреба да ја смениме оваа политика, а доколку го сториме тоа, ќе ве известиме.
