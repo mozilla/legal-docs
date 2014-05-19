@@ -23,7 +23,7 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
 
 4. #### Pravila privatnosti
 
-    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Napomena o privatnosti usluge Firefox Cloud Services</a> navodi pojedinosti o podacima koje primamo vašim korištenjem Usluge te kako se njima koristimo. Podatke koje primamo preko Usluge koristimo na način opisan u <a href="http://www.mozilla.org/privacy/" target="_blank">Mozillinim Pravilima privatnosti</a>.
+    <a href="https://accounts.firefox.com/legal/privacy">Napomena o privatnosti usluge Firefox Cloud Services</a> navodi pojedinosti o podacima koje primamo vašim korištenjem Usluge te kako se njima koristimo. Podatke koje primamo preko Usluge koristimo na način opisan u <a href="http://www.mozilla.org/privacy/" target="_blank">Mozillinim Pravilima privatnosti</a>.
 
 5. #### Vaš Sadržaj na našoj Usluzi
 
