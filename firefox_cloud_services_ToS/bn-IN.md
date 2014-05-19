@@ -23,7 +23,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
+    The <a href="https://accounts.firefox.com/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
 
 5. #### Your Content in our Services
 

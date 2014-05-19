@@ -23,7 +23,7 @@
 
 4. #### 隐私政策
 
-    <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services 隐私声明</a>说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla 隐私政策</a>的规定使用通过 Services 接收的信息。
+    <a href="https://accounts.firefox.com/legal/privacy">Firefox Cloud Services 隐私声明</a>说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla 隐私政策</a>的规定使用通过 Services 接收的信息。
 
 5. ####  Services 中您的内容
 
