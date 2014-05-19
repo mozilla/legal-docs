@@ -1,67 +1,67 @@
-Last Updated March 26, 2014
+Последно ажурирање на 26 март, 2014 г.
 
-#### Summary
+#### Резиме
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+Во овој горен дел се резимираат условите наведени подолу. Ова резиме има за цел да ви помогне да ги разберете условите, но прочитајте го целиот документ, затоа што кога ќе се согласите со документот укажувате дека ги прифаќате сите услови, а не само ова резиме.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Услугите Cloud на Firefox („Услугите“) се пакет услуги што ви ги обезбедува Mozilla. 
+- Услугите се обезбедени „какви што се“ и нема никакви гаранции. Има значителни ограничувања на одговорноста на Mozilla за какви било штети што би произлегле од вашето користење на Услугите.
 
-#### Terms of Service
+#### Услови за користење
 
-1. #### Introduction
+1. #### Вовед
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    Овие Услови за користење („<u>Услови</u>“) го регулираат вашето користење на услугите cloud на Firefox, пакет од интернет-услуги што ги обезбедува Mozilla („Услугите“).
 
-2. #### Firefox Accounts
+2. #### Сметки за Firefox
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    За да ги користите Услугите, ќе треба да креирате сметка за Firefox.  Во текот на регистрацијата, ќе ви биде побарано да поставите лозинка. Вие сте одговорни за чување на тајноста на лозинката и за активноста што се случува преку вашата сметка за Firefox. Mozilla не одговара за какви било загуби што произлегуваат од неовластено користење на вашата сметка за Firefox.
 
-3. #### Features
+3. #### Функции
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Firefox Sync ви овозможува да пристапувате од разни уреди до информации зачувани во Firefox, вклучувајќи ги вашите јазичиња, лентата „awesome“, лозинките, обележувачите и претпочитаните опции за прелистувачот. Функцијата Firefox Sync може да ја овозможите и оневозможите преку делот Алатки на Firefox.
 
-4. #### Privacy Policy
+4. #### Политика на приватност
 
-    The <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
+    Во <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Изјавата за приватност за услугите Cloud на Firefox</a> се објаснува какви информации добиваме од вашето користење на Услугите и како ги користиме тие информации. Информациите што ги добиваме преку Услугите ги користиме како што е опишано во нашата <a href="http://www.mozilla.org/privacy/" target="_blank">Политика на приватност на Mozilla</a>.
 
-5. #### Your Content in our Services
+5. #### Вашите Содржини во нашите Услуги
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    Дел од функциите на Услугите е и можноста да поставувате содржини. Со самото поставување содржини ни доделувате не-ексклузивна лиценца важечка во целиот свет и без надомест за авторски права, за да ги користиме вашите содржини во врска со обезбедувањето на Услугите. Со ова гарантирате дека вашите содржини нема да ги прекршат правата на која било трета страна и дека ќе бидат во согласност со сите упатства за содржини претставени од Mozilla.
 
-6. #### Mozilla's Proprietary Rights
+6. #### Сопственички права на Mozilla
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla не ви доделува никакви права на интелектуална сопственост за Услугите, коишто не се конкретно наведени во овие Услови. На пример, овие Услови не ви даваат право да ги користите авторските права на Mozilla, нејзините трговски имиња, трговски марки, услужни марки, логоа, имиња на домени или други препознатливи карактеристики на брендот Mozilla. Услугите се дистрибуираат под и подлежат на тековната верзија на <a href="http://www.mozilla.org/MPL/" target="_blank">Јавната лиценца на Mozilla</a>.
 
-7. #### Term; Termination
+7. #### Услов; Прекинување
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    Овие Услови ќе продолжат да важат додека не ги прекинете вие или Mozilla. Може да изберете да ги прекинете во кое било време и поради каква било причина со деактивирање на вашата сметка за Firefox и со прекинување на вашата употреба на Услугите.
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Може да го суспендираме или да го прекинеме вашиот пристап до Услугите во кое било време и поради каква било причина, вклучително, но без ограничување, доколку разумно сметаме дека: (i) сте ги прекршиле овие Услови, (ii) создавате ризик или можна законска одговорност за нас; или (iii) нашето обезбедување на Услугите повеќе не е исплатливо. Ќе направиме разумни напори да ве известиме преку адресата на е-пошта поврзана со вашата сметка за Firefox или следниот пат кога ќе се обидете да пристапите до Услугите.
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    Во сите такви случаи, овие Услови ќе престанат да важат, вклучително, но без ограничување и вашата лиценца за користење на Услугите, но ќе продолжат да важат следниве делови: Обесштетување, Одрекување од одговорност; Ограничување на одговорност, Разно.
 
-8. #### Indemnification
+8. #### Обесштетување
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    Се согласувате да ги браните, обесштетите и чувате од штета Mozilla, нејзините изведувачи, соработници, даватели на лиценци и партнери, како и нивните директори, претставници, вработени и застапници („Обесштетени страни“) од и против какви било побарувања и трошоци на трети страни, вклучително и адвокатски хонорари, што произлегуваат од или се поврзани со вашата употреба на Услугите (вклучително, но без ограничување, од какви било содржини што сте ги поставиле). 
 
-9. #### Disclaimer; Limitation of Liability
+9. #### Одрекување од одговорност; Ограничување на одговорност
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    УСЛУГИТЕ СЕ ОБЕЗБЕДЕНИ „КАКВИ ШТО СЕ“ СО СИТЕ ГРЕШКИ. MOZILLA И ОБЕСШТЕТЕНИТЕ СТРАНИ НЕМА ДА БИДАТ ОДГОВОРНИ ЗА НИКАКВИ ГАРАНЦИИ, ДИРЕКТНИ ИЛИ ИНДИРЕКТНИ, ВКЛУЧИТЕЛНО ГАРАНЦИИ ДЕКА УСЛУГИТЕ НЕМААТ ДЕФЕКТИ, ГАРАНЦИИ ЗА МОЖНОСТ ЗА ПРОДАЖБА НА ПАЗАР, ЗА СООДВЕТНОСТ ЗА ОДРЕДЕНА НАМЕНА И ЗА НЕПОВРЕДУВАЊЕ НА ПРАВА, ДО СТЕПЕН ДОЗВОЛЕН СО ЗАКОН. ВИЕ ГО ПОДНЕСУВАТЕ ЦЕЛИОТ РИЗИК ЗА ИЗБИРАЊЕ НА УСЛУГИТЕ ЗА ВАШИТЕ ЦЕЛИ И ЗА КВАЛИТЕТОТ И ИЗВЕДБАТА НА УСЛУГИТЕ, ВКЛУЧИТЕЛНО РИЗИКОТ ОД БРИШЕЊЕ ИЛИ ОШТЕТУВАЊЕ НА ВАШИТЕ СОДРЖИНИ ИЛИ РИЗИКОТ ОД ПРИСТАПУВАЊЕ ДО ВАШАТА СМЕТКА НА ДРУГО ЛИЦЕ. ОВА ОГРАНИЧУВАЊЕ ЌЕ ВАЖИ И ДОКОЛКУ НЕ СЕ ОСТВАРИ ОСНОВНАТА ЦЕЛ НА КАКОВ БИЛО ПРАВЕН ЛЕК. НЕКОИ ЈУРИСДИКЦИИ НЕ ДОЗВОЛУВААТ ИСКЛУЧУВАЊЕ ИЛИ ОГРАНИЧУВАЊЕ НА ИНДИРЕКТНИТЕ ГАРАНЦИИ, ТАКА ШТО ОВА ОДРЕКУВАЊЕ МОЖЕ ДА НЕ ВАЖИ ЗА ВАС.
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    ОСВЕН КАКО ШТО Е ПРЕДВИДЕНО СО ЗАКОН, MOZILLA И ОБЕСШТЕТЕНИТЕ СТРАНИ НЕМА ДА БИДАТ ОДГОВОРНИ ЗА НИКАКВИ ИНДИРЕКТНИ, ПОСЕБНИ, СЛУЧАЈНИ, ПОСЛЕДИЧНИ ИЛИ КАЗНЕНИ ШТЕТИ ШТО ПРОИЗЛЕГУВААТ ОД ИЛИ СЕ НА КАКОВ БИЛО НАЧИН ПОВРЗАНИ СО ОВИЕ УСЛОВИ ИЛИ СО КОРИСТЕЊЕТО ИЛИ НЕМОЖНОСТА ЗА КОРИСТЕЊЕ НА УСЛУГИТЕ, ВКЛУЧИТЕЛНО ДИРЕКТНИ И ИНДИРЕКТНИ ШТЕТИ ЗА ЗАГУБА НА ГУДВИЛ, ЗАСТОЈ НА РАБОТАТА, ЗАГУБА НА ПРОФИТ, ЗАГУБА НА ПОДАТОЦИ И КОМПЈУТЕРСКИ ДЕФЕКТ ИЛИ ГРЕШКА, ДУРИ И АКО БИЛЕ СОВЕТУВАНИ ЗА МОЖНОСТА ЗА ТАКВИ ШТЕТИ И БЕЗ ОГЛЕД НА ТЕОРИЈАТА (ДОГОВОР, ПРЕКРШОК ИЛИ ДРУГО) ВРЗ КОИ СЕ ЗАСНОВА ТАКВОТО ПОБАРУВАЊЕ. КОЛЕКТИВНАТА ОДГОВОРНОСТ НА MOZILLA И ОБЕСШТЕТЕНИТЕ СТРАНИ СОГЛАСНО ОВОЈ ДОГОВОР НЕМА ДА НАДМИНЕ 500 $ (ПЕТСТОТИНИ ДОЛАРИ). НЕКОИ ЈУРИСДИКЦИИ НЕ ДОЗВОЛУВААТ ИСКЛУЧУВАЊЕ ИЛИ ОГРАНИЧУВАЊЕ НА СЛУЧАЈНИТЕ, ПОСЛЕДИЧНИТЕ ИЛИ ПОСЕБНИТЕ ШТЕТИ, ТАКА ШТО ОВА ИСКЛУЧУВАЊЕ И ОГРАНИЧУВАЊЕ МОЖЕ ДА НЕ ВАЖАТ ЗА ВАС.
 
-10. #### Modifications to these Terms
+10. #### Измени на овие Услови
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla може да ги ажурира овие Услови од време на време за да опфати нова функција на Услугите или да објасни некоја одредба. Ажурираните Услови ќе бидат објавени на интернет. Ако станува збор за поголеми промени, ажурирањето ќе го објавиме преку вообичаените канали на Mozilla за такви објави, какви што се блоговите и форумите. Доколку продолжите да ги користите Услугите по датумот на стапување во сила на таквите промени, тоа значи дека ги прифаќате таквите промени. За полесно прегледување, датумот на стапување во сила ќе го поставуваме во горниот дел на оваа страница.
 
-11. #### Miscellaneous
+11. #### Разно
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    Овие Услови го сочинуваат целиот договор меѓу вас и Mozilla во врска со Услугите и за нив важат законите на државата Калифорнија, САД, исклучувајќи ги нејзините одредби за конфликт на закони. Доколку се утврди дека некој дел од овие Услови е неважечки или не може да се спроведе, преостанатите делови ќе останат во сила. Во случај на конфликт меѓу преведена верзија на овие услови и верзијата на англиски јазик, ќе важи верзијата на англиски јазик.
 
-12. #### Contact Us
+12. #### Контактирајте со нас
 
-    Contact Mozilla at
+    Контактирајте со Mozilla на
 
     <address>
       Mozilla Corporation 
