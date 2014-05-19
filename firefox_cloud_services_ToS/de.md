@@ -7,11 +7,11 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 - Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden. 
 - Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
 
-#### Servicebedingungen
+#### Nutzungsbedingungen
 
 1. #### Einführung
 
-    Diese Servicebedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
+    Diese Nutzungsbedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
 
 2. #### Firefox-Konten
 
@@ -19,41 +19,41 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 3. #### Funktionen
 
-    Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren.
+    Mit Firefox-Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browser-Einstellungen. Firefox-Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren.
 
 4. #### Datenschutzerklärung
 
-    Im <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Firefox Cloud Services – Datenschutz-Hinweis</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.
+    Im <a href="https://accounts-latest.dev.lcip.org/legal/privacy">Datenschutzhinweis für Firefox Cloud Services</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.
 
 5. #### Ihre Inhalte in unseren Services
 
-    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie, weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Content-Richtlinien von Mozilla entsprechen.
+    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie und weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Inhalterichtlinien von Mozilla entsprechen.
 
 6. #### Eigentumsrechte von Mozilla
 
-    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Servicebedingungen keine Rechte an den Copyrights oder Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
 
 7. #### Laufzeit; Kündigung
 
-    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
+    Diese Nutzungsbedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
 
     Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Firefox-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
 
-    In all diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
+    In allen diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
 
 8. #### Schadloshaltung
 
-    Sie stimmen zu, Mozilla, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen hochgeladenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
+    Sie stimmen zu, Mozilla, seine Auftragnehmer, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („von der Haftung freigestellte Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen hochgeladenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
 
 9. #### Haftungsablehnung; Haftungsbeschränkung
 
-    DIE SERVICES WERDEN IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLER FEHLER. SOWEIT GESETZLICH ZULÄSSIG, LEHNEN MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN JEGLICHE GEWÄHRLEISTUNG AB, OB AUSDRÜCKLICHE ODER STILLSCHWEIGENDE, INSBESONDERE DIE GEWÄHRLEISTUNG DER FEHLERFREIHEIT, MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER. SIE TRAGEN DAS GESAMTE RISIKO DER AUSWAHL DER SERVICES FÜR IHRE ZWECKE SOWIE IN BEZUG AUF QUALITÄT UND LEISTUNG DES PRODUKTS, INSBESONDERE DAS RISIKO, DASS IHRE INHALTE GELÖSCHT ODER BESCHÄDIGT WERDEN ODER DASS DRITTE ZUGRIFF AUF IHR KONTO ERLANGEN. DIESE BESCHRÄNKUNG GILT UNGEACHTET DER NICHTERFÜLLUNG DES WESENTLICHEN ZWECKS ETWAIGER RECHTSMITTEL. IN EINIGEN RECHTSSYSTEMEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG STILLSCHWEIGENDER GEWÄHRLEISTUNGEN NICHT ZULÄSSIG, SODASS DIE HIER DARGELEGTE BESCHRÄNKUNG AUF SIE MÖGLICHERWEISE NICHT ZUTRIFFT.
+    DIE SERVICES WERDEN IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLER FEHLER. SOWEIT GESETZLICH ZULÄSSIG, LEHNEN MOZILLA UND DIE VON DER HAFTUNG FREIGESTELLTEN PARTEIEN JEGLICHE GEWÄHRLEISTUNG AB, OB AUSDRÜCKLICHE ODER STILLSCHWEIGENDE, INSBESONDERE DIE GEWÄHRLEISTUNG DER FEHLERFREIHEIT, MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER. SIE TRAGEN DAS GESAMTE RISIKO DER AUSWAHL DER SERVICES FÜR IHRE ZWECKE SOWIE IN BEZUG AUF QUALITÄT UND LEISTUNG DES PRODUKTS, INSBESONDERE DAS RISIKO, DASS IHRE INHALTE GELÖSCHT ODER BESCHÄDIGT WERDEN ODER DASS DRITTE ZUGRIFF AUF IHR KONTO ERLANGEN. DIESE BESCHRÄNKUNG GILT UNGEACHTET DER NICHTERFÜLLUNG DES WESENTLICHEN ZWECKS ETWAIGER RECHTSMITTEL. IN EINIGEN RECHTSSYSTEMEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG STILLSCHWEIGENDER GEWÄHRLEISTUNGEN NICHT ZULÄSSIG, SODASS DIE HIER DARGELEGTE BESCHRÄNKUNG AUF SIE MÖGLICHERWEISE NICHT ZUTRIFFT.
 
-    AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER SERVICES ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN SCHADLOS GEHALTENEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
+    AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE VON DER HAFTUNG FREIGESTELLTEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER SERVICES ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN VON DER HAFTUNG FREIGESTELLTEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
 
 10. #### Änderungen dieser Bedingungen
 
-    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderung angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
+    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderungen angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
 
 11. #### Verschiedenes
 
