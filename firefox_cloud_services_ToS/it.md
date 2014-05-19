@@ -2,9 +2,9 @@ Ultimo aggiornamento 26 marzo 2014
 
 #### Riepilogo
 
-La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene fornito per aiutarvi a comprendere i termini; tuttavia, assicuratevi di leggere l'intero documento, perché, quando lo accetterete, indicherete che accettate tutti i termini, non solo quanto scritto nel riepilogo.
+La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo viene fornito per aiutare gli utenti a comprendere i termini di servizio; assicurarsi tuttavia di leggere l'intero documento perché, accettandolo, vengono considerati accettati tutti i termini, non solo quanto descritto nel riepilogo.
 
-- Firefox Cloud Services (i "Servizi") consistono in una suite di servizi forniti all'utente da Mozilla. 
+- Firefox Cloud Services (i "Servizi") consiste in una suite di servizi forniti all'utente da Mozilla.
 - I servizi sono forniti "così come sono" e senza garanzie di alcun tipo. Esistono una serie di importanti limitazioni della responsabilità di Mozilla per eventuali danni derivanti dall'uso dei Servizi da parte dell'utente.
 
 #### Termini di servizio
@@ -13,17 +13,17 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     I presenti Termini di servizio ("<u>Termini</u>") governano l'utilizzo da parte dell'utente dei Firefox Cloud Services, suite di servizi online offerta da Mozilla ("Servizi").
 
-2. #### Account Firefox
+2. #### Firefox Account
 
-    Per utilizzare i Firefox Cloud Services, l'utente dovrà creare un Account Firefox.  Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Firefox. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Firefox dell'utente.
+    Per utilizzare i Firefox Cloud Services, l'utente dovrà creare un Firefox Account. Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Firefox. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Firefox dell'utente.
 
 3. #### Funzioni
 
-    Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, Awesome Bar, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Strumenti di Firefox.
+    Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, barra degli indirizzi, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Strumenti di Firefox.
 
 4. #### Politica sulla privacy
 
-    L'<a href="https://accounts-latest.dev.lcip.org/legal/privacy">Avviso sulla privacy nella pagina Firefox Cloud Services </a> descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella <a href="http://www.mozilla.org/privacy/" target="_blank">Politica sulla Privacy di Mozilla</a>.
+    L'<a href="https://accounts.firefox.com/it/legal/privacy">informativa sulla privacy nella pagina Firefox Cloud Services</a> descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella <a href="https://www.mozilla.org/privacy/" target="_blank">informativa sulla privacy di Mozilla</a>.
 
 5. #### Contenuti dell'utente nei nostri Servizi
 
@@ -31,13 +31,13 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
 6. #### Diritti di proprietà di Mozilla
 
-    Mozilla non concede all'utente alcun diritto di proprietà intellettuale sui Servizi non specificamente indicato nei presenti Termini. Per esempio, questi Termini non concedono il diritto di usare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di dominio o qualsiasi altra caratteristica distintiva del marchio Mozilla. I Servizi sono distribuiti in base alla <a href="http://www.mozilla.org/MPL/" target="_blank">Licenza Pubblica Mozilla</a> e sono soggetti alla versione attuale della stessa.
+    Mozilla non concede all'utente alcun diritto di proprietà intellettuale sui Servizi non specificamente indicato nei presenti Termini. Per esempio, questi Termini non concedono il diritto di usare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di dominio o qualsiasi altra caratteristica distintiva del marchio Mozilla. I Servizi sono distribuiti in base alla <a href="https://www.mozilla.org/MPL/" target="_blank">Licenza Pubblica Mozilla</a> e sono soggetti alla versione attuale della stessa.
 
 7. #### Fine; Cessazione
 
     I presenti Termini continueranno a essere applicabili fino alla loro cessazione da parte dell'utente o di Mozilla. L'utente potrà scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, disattivando il proprio account Firefox e interrompendo l'uso dei Servizi.
 
-    Possiamo sospendere o interrompere l'accesso ai Servizi dal parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo e-mail associato al suo account Firefox, oppure al suo successivo tentativo di accesso ai Servizi.
+    Possiamo sospendere o interrompere l'accesso ai Servizi da parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo email associato al suo account Firefox, oppure al suo successivo tentativo di accesso ai Servizi.
 
     In tutti questi casi, i presenti Termini saranno considerati conclusi, inclusa, senza limitazioni, la licenza dell'utente all'utilizzo dei Servizi, fatta eccezione per le seguenti sezioni, che continueranno a essere applicabili: Indennizzo, Esclusione di garanzia, Limitazione di responsabilità, Varie ed eventuali.
 
@@ -59,13 +59,13 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     I presenti Termini costituiscono l'intero accordo tra Mozilla e l'utente relativamente all'uso dei Servizi e sono governati dalle leggi dello Stato della California, USA, con esclusione delle disposizioni in materia di conflitto di leggi. Se una qualsiasi parte dei presenti Termini sarà ritenuta non valida o non applicabile, le parti rimanenti resteranno in vigore a tutti gli effetti. In caso di conflitto tra una versione tradotta dei presenti Termini e la versione in lingua inglese, prevarrà la versione in lingua inglese.
 
-12. #### Contattateci 
+12. #### Contatti
 
-    Potete contattare Mozilla presso
+    È possibile contattare Mozilla presso
 
     <address>
-      Mozilla Corporation 
-      Att.: Mozilla - Avvisi legali 
-      331 E. Evelyn Ave., 
-      Mountain View, CA 94041 
+      Mozilla Corporation
+      Att.: Mozilla - Avvisi legali
+      331 E. Evelyn Ave.,
+      Mountain View, CA 94041
     </address>

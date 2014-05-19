@@ -1,21 +1,21 @@
-# Firefox Cloud Services – Avviso sulla Privacy
+# Firefox Cloud Services – Informativa sulla privacy
 
 26 marzo 2014
 {: datetime="2014-03-26" }
 
-La vostra privacy ci sta a cuore. Quando i Firefox Cloud Services (i "Servizi") inviano informazioni a Mozilla (noi), la nostra [Politica sulla Privacy Mozilla](http://www.mozilla.org/en-US/privacy/) descrive in che modo vengono utilizzati tali informazioni.
+La privacy degli utenti è importante. L'[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive in quale modo vengono utilizzate le informazioni trasmesse dai Firefox Cloud Services (i "Servizi") a Mozilla (noi).
 
-## Dovete sapere che:
+## Informazioni importanti
 
-Ci inviate tipi di dati differenti, in base alle funzionalità dei Servizi che utilizzate.  Per saperne di più.
+Il tipo di dati trasmessi varia a seconda delle funzioni dei vari servizi che vengono utilizzate.
 
-* **Account Firefox**: quando create un account, riceviamo il vostro indirizzo e-mail e la password. 
-* **Sync**: se usate Sync, riceveremo diverse informazioni necessarie per sincronizzare le vostre schede, l'Awesome Bar, le password, i preferiti, le preferenze del browser e altri dati nei vari dispositivi.  
+* **Firefox Account**: quando si crea un account, riceviamo l'indirizzo email dell'utente e la password.
+* **Sync**: nel momento in cui si utilizza Sync, riceviamo diverse informazioni necessarie per sincronizzare le schede, la barra degli indirizzi, le password, i segnalibri, le impostazioni del browser e altri dati nei vari dispositivi.
 
 ---------------------------------------
 
-Usiamo inoltre cookie, GIF trasparenti e altre tecnologie web per offrire e migliorare i nostri prodotti e servizi.  Per saperne di più.
+Usiamo inoltre cookie, GIF trasparenti e altre tecnologie web per offrire e migliorare i nostri prodotti e servizi.
 
-* **Strumenti di dati online**: utilizziamo una serie di "strumenti di dati online", quali cookie, GIF trasparenti e web beacon, per garantire la funzionalità dei nostri prodotti e servizi. Ad esempio, i cookie aiutano gli utenti in fase di accesso e autenticazione. Utilizziamo gli stessi strumenti anche per raccogliere dati e migliorare i nostri prodotti e servizi. Ad esempio, utilizziamo i cookie per offrire dati di web analytics. 
+* **Strumenti di dati online**: per garantire la funzionalità dei nostri prodotti e servizi utilizziamo una serie di "strumenti di dati online" quali cookie, GIF trasparenti e *web beacon*. Ad esempio i cookie aiutano gli utenti in fase di accesso e autenticazione. Utilizziamo gli stessi strumenti anche per raccogliere dati e migliorare i nostri prodotti e servizi. Ad esempio, utilizziamo i cookie per offrire dati di web analytics.
 
-* **Opzioni**: per maggiori informazioni sui cookie e su come gestirli in Firefox, fate clic [qui ](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Tenete presente che alcune funzioni dei nostri prodotti e servizi, così come di prodotti e servizi altrui, possono non funzionare correttamente senza l'aiuto dei cookie.
+* **Opzioni**: per ulteriori informazioni sui cookie e su come gestirli in Firefox, consultare [questa pagina](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). È importante notare che alcune funzioni dei nostri prodotti e servizi, così come di prodotti e servizi di terze parti, potrebbero non funzionare correttamente senza il supporto dei cookie.
