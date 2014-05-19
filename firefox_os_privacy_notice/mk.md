@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Изјава за приватност за Firefox OS
 
-May 8, 2013
+8 мај, 2013 г.
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Mozilla се грижи за вашата приватност. Кога Firefox OS ни испраќа информации, нашата [Политика на приватност на Mozilla](http://www.mozilla.org/en-US/privacy/) опишува како ракуваме со тие информации.
 
-## Things you should know
+## Работи што треба да ги знаете
 
-Firefox OS connects to us and others in order to provide product features.
+Firefox OS се поврзува со нас и со други за да ги обезбедува функциите на производите.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Ажурирања: За да се ажурира постојано, Firefox OS се поврзува автоматски со услуга со којашто управува производителот на вашиот уред или со којашто се управува во негово име. Исто така, Firefox OS автоматски проверува дали за инсталираните апликации има ажурирања испраќајќи барање до Firefox Marketplace или доколку сте инсталирале апликација од друга локација, испраќа барање до услугите од производителот на таа апликација.
+* Локација: Кога ги вклучувате услугите за лоцирање, Firefox OS може да користи повеќе податочни точки и субјекти за да ја пресмета вашата локација, вклучително и GPS, AGPS и други даватели на услуги за геолоцирање. Услугите за лоцирање може да ги оневозможите во апликацијата Firefox OS Settings на вашиот уред.
+* Првична активација: За да обезбеди соодветни ажурирања и апликации, Firefox OS до Mozilla испраќа еднократен податочен пинг при првото вклучување. [Дознајте повеќе](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+Како и повеќето мобилни уреди, уредот што го користите е создаден од повеќе производители. Оваа изјава го опфаќа само начинот на кој Mozilla ракува со вашите информации за официјалните верзии на Firefox OS овластени од Mozilla.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* Ако користите апликации што не се произведени од Mozilla, ќе важат политиките на приватност на соодветните производители.
+* Функцијата за динамично пребарување апликации на Firefox OS е поддржана од Everything.me и важи нивната политика на приватност, којашто може да ја најдете на [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Firefox OS ви овозможува да користите неколку интегрирани услуги од други производители, како што се вашата е-пошта или друштвена мрежа. За користење на овие услуги ќе важи политиката на приватност на тие услуги.
