@@ -18,4 +18,4 @@ Utilizamos cookies, GIFs transparentes e outras tecnologias da web para oferecer
 
 * **Ferramentas de dados on-line**: Usamos “ferramentas de dados on-line”, como cookies, GIFs transparentes e web beacons para oferecer a funcionalidade de nossos produtos e serviços. Por exemplo, cookies ajudam no início de sessão e autenticação de usuários. Também usamos essas mesmas ferramentas para coletar dados para melhorar nossos produtos e serviços. Por exemplo, usamos cookies para fornecer análises da web. 
 
-* **Opções**: Para saber mais sobre o que são cookies e como gerenciá-los no Firefox, clique [aqui](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Observe que alguns recursos de nossos e outros produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
+* **Opções**: Para saber mais sobre o que são cookies e como gerenciá-los no Firefox, clique [aqui](https://support.mozilla.org/pt-BR/kb/cookies-informacoes-armazenadas-por-sites-em-seu-c). Observe que alguns recursos de nossos e outros produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
