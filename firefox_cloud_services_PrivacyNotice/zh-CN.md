@@ -18,4 +18,4 @@
 
 * **在线数据工具**：我们采用 Cookie、透明 GIF 和网络信标等“在线数据工具”来提供产品和服务的功能。例如，帮助客户登录和身份验证的 Cookie。我们还使用这些工具收集数据，以便改进产品和服务。例如，我们利用 Cookie 提供 Web 分析。 
 
-* **选项**：欲了解有关 Firefox 中的 Cookie 以及如何进行管理的更多信息，请单击 [此处](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)。请注意，若没有 Cookie 的帮助，我们的产品和服务以及其他产品和服务的某些功能可能无法正常工作。
+* **选项**：欲了解有关 Firefox 中的 Cookie 以及如何进行管理的更多信息，请单击 [此处](https://support.mozilla.org/zh-CN/kb/Cookies)。请注意，若没有 Cookie 的帮助，我们的产品和服务以及其他产品和服务的某些功能可能无法正常工作。
