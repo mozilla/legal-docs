@@ -18,5 +18,5 @@ Wir verwenden Cookies, transparente GIFs (Ein-Pixel-Bilder) und andere Internett
 
 * **Online-Datentools**: Bei der Bereitstellung unserer Produkte und Services verwenden wir „Online-Datentools“ wie Cookies, transparente GIFs und Web-Beacons. Cookies helfen uns beispielsweise bei der Benutzeranmeldung und Überprüfung der Zugangsdaten. Die gleichen Tools verwenden wir auch zur Sammlung von Daten zur Verbesserung unserer Produkte und Services. Zum Beispiel setzen wir Cookies ein, um Besucherdaten auszuwerten. 
 
-* **Optionen**: Mehr über Cookies und ihre Verwaltung in Firefox erfahren Sie [hier](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Bitte beachten Sie, dass einige Funktionen unserer und anderer Produkte und Services ohne Cookies möglicherweise nicht richtig funktionieren.
+* **Optionen**: Mehr über Cookies und ihre Verwaltung in Firefox erfahren Sie [hier](https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer). Bitte beachten Sie, dass einige Funktionen unserer und anderer Produkte und Services ohne Cookies möglicherweise nicht richtig funktionieren.
 
