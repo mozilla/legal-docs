@@ -18,4 +18,4 @@ Koristimo kolačiće, prazne GiF-ove i ostale veb tehnologije da bismo Vam omogu
 
 * **Onlajn alatke za podatke**: Koristimo “Onlajn alatke za podatke” kao što su kolačići, prazni GIF-ovi i veb označivači da bismo omogućili funkcionalnost naših proizvoda i usluga. Na primer, kolačići Vam pomažu prilikom prijavljivanja i identifikacije. Iste alatke koristimo da prikupimo podatke u cilju poboljšanja naših proizvoda i usluga. Primera radi, koristimo kolačiće da bismo Vam omogućili veb analitiku. 
 
-* **Opcije**: Možete saznati više o tome šta su kolačići i kako njima da upravljate u Firefox-u klikom na [ovaj link](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Imajte na umu da neke funkcije naših i ostalih proizvoda i usluga možda neće pravilno raditi bez pomoći kolačića.
+* **Opcije**: Možete saznati više o tome šta su kolačići i kako njima da upravljate u Firefox-u klikom na [ovaj link](https://support.mozilla.org/sr-Cyrl/kb/kolachii-informaci-koy-veb-sat-chuva-na-vashem-rac). Imajte na umu da neke funkcije naših i ostalih proizvoda i usluga možda neće pravilno raditi bez pomoći kolačića.
