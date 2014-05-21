@@ -19,7 +19,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 3. #### Funkce
 
-    Firefox Sync vám umožňuje přístup k informacím uloženým na Firefox pomocí zařízení, včetně vašich karet, skvělé lišty, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat pomocí části Nástroje aplikace Firefox.
+    Firefox Sync vám umožňuje přístup k informacím uloženým ve Firefoxu z různých zařízení, včetně vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat pomocí části Možnosti aplikace Firefox.
 
 4. #### Zásady ochrany soukromí
 
@@ -31,7 +31,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných odlišných znaků značky společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí <a href="http://www.mozilla.org/MPL/" target="_blank">Veřejné licence Mozilla</a>.
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí <a href="http://www.mozilla.org/MPL/" target="_blank">Veřejné licence Mozilla</a>.
 
 7. #### Doba platnosti, ukončení
 
@@ -47,9 +47,9 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 9. #### Prohlášení, omezení odpovědnosti
 
-    SLUŽBY SE POSKYTUJÍ „TAK JAK JSOU” S VEŠKERÝMI PŘÍPADNÝMI CHYBAMI. V ROZSAHU POVOLENÉM ZÁKONEM TÍMTO SPOLEČNOST MOZILLA A VŠECHNY ODŠKODNĚNÉ STRANY ODMÍTAJÍ VEŠKERÉ VÝSLOVNÉ ČI ODVOZENÉ ZÁRUKY, ŽE SLUŽBY BUDOU PROSTY VAD, PRODEJNÉ, VHODNÉ PRO KONKRÉTNÍ ÚČEL A ŽE NEBUDOU PORUŠOVAT PRÁVA. NESETE VEŠKERÁ RIZIKA SOUVISEJÍCÍ S VOLBOU SLUŽEB PRO VAŠE ÚČELY A S KVALITOU A VÝKONEM SLUŽEB, VČETNĚ NAPŘÍKLAD RIZIKA, ŽE DOJDE K ODSTRANĚNÍ NEBO NARUŠENÍ VAŠEHO OBSAHU NEBO RIZIKA, ŽE K VAŠEMU ÚČTU ZÍSKÁ PŘÍSTUP KDOKOLIV JINÝ. TATO OMEZENÍ SE UPLATNÍ BEZ OHLEDU NA SELHÁNÍ ZÁKLADNÍHO DŮVODU JAKÉKOLIV NÁHRADY. NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ ODVOZENÝCH ZÁRUK, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
+    SLUŽBY JSOU POSKYTOVÁNY „TAK JAK JSOU” S VEŠKERÝMI PŘÍPADNÝMI CHYBAMI. V ROZSAHU POVOLENÉM ZÁKONEM TÍMTO SPOLEČNOST MOZILLA A VŠECHNY ODŠKODNĚNÉ STRANY ODMÍTAJÍ VEŠKERÉ VÝSLOVNÉ ČI ODVOZENÉ ZÁRUKY, ŽE SLUŽBY BUDOU PROSTY VAD, PRODEJNÉ, VHODNÉ PRO KONKRÉTNÍ ÚČEL A ŽE NEBUDOU PORUŠOVAT PRÁVA. NESETE VEŠKERÁ RIZIKA SOUVISEJÍCÍ S VOLBOU SLUŽEB PRO VAŠE ÚČELY A S KVALITOU A VÝKONEM SLUŽEB, VČETNĚ NAPŘÍKLAD RIZIKA, ŽE DOJDE K ODSTRANĚNÍ NEBO NARUŠENÍ VAŠEHO OBSAHU NEBO RIZIKA, ŽE K VAŠEMU ÚČTU ZÍSKÁ PŘÍSTUP KDOKOLIV JINÝ. TATO OMEZENÍ SE UPLATNÍ BEZ OHLEDU NA SELHÁNÍ ZÁKLADNÍHO DŮVODU JAKÉKOLIV NÁHRADY. NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ ODVOZENÝCH ZÁRUK, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
 
-    S VÝJIMKOU USTANOVENÍ ZÁKONA NEPONESOU SPOLEČNOST MOZILLA ANI ODŠKODNĚNÉ STRANY NENESOU ODPOVĚDNOST ZA ŽÁDNÉ NEPŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO EXEMPLÁRNÍ ŠKODY VYPLÝVAJÍCÍ Z TĚCHTO PODMÍNEK ČI S NIMI JAKÝMKOLIV ZPŮSOBEM SOUVISEJÍCÍ NEBO VYPLÝVAJÍCÍ ČI SOUVISEJÍCÍ S POUŽÍVÁNÍM NEBO NEMOŽNOSTÍ POUŽÍVAT SLUŽBY, VČETNĚ NAPŘÍKLAD PŘÍMÝCH ČI NEPŘÍMÝCH ŠKOD ZE ZTRÁT GOODWILLU, POZASTAVENÍ PRÁCE, ZTRÁTY ZISKU, ZTRÁTY DAT A SELHÁNÍ ČI PORUCHY POČÍTAČE, A TO ANI V PŘÍPADĚ, ŽE BYLY NA MOŽNOST VZNIKU TAKOVÝCH ŠKOD UPOZORNĚNI A BEZ OHLEDU NA PRÁVNÍ TEORII (SMLUVNÍ, PŘEČIN NEBO JINAK), Z NÍ´Ž TAKOVÝ NÁROK VYCHÁZÍ. SOUHRNNÁ ODPOVĚDNOST SPOLEČNOSTI MOZILLA A ODŠKODNĚNÝCH STRAN V SOULADU S TOUTO SMLOUVOU NEPŘESÁHNE 500 USD (PĚT SET AMERICKÝCH DOLARŮ). NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ NÁHODNÝCH, NÁSLEDNÝCH NEBO SPECIÁLNÍCH ŠKOD, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
+    S VÝJIMKOU USTANOVENÍ ZÁKONA NEPONESE SPOLEČNOST MOZILLA ANI ODŠKODNĚNÉ STRANY ODPOVĚDNOST ZA ŽÁDNÉ NEPŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO EXEMPLÁRNÍ ŠKODY VYPLÝVAJÍCÍ Z TĚCHTO PODMÍNEK ČI S NIMI JAKÝMKOLIV ZPŮSOBEM SOUVISEJÍCÍ NEBO VYPLÝVAJÍCÍ ČI SOUVISEJÍCÍ S POUŽÍVÁNÍM NEBO NEMOŽNOSTÍ POUŽÍVAT SLUŽBY, VČETNĚ NAPŘÍKLAD PŘÍMÝCH ČI NEPŘÍMÝCH ŠKOD ZE ZTRÁT GOODWILLU, POZASTAVENÍ PRÁCE, ZTRÁTY ZISKU, ZTRÁTY DAT A SELHÁNÍ ČI PORUCHY POČÍTAČE, A TO ANI V PŘÍPADĚ, ŽE BYLY NA MOŽNOST VZNIKU TAKOVÝCH ŠKOD UPOZORNĚNI A BEZ OHLEDU NA PRÁVNÍ TEORII (SMLUVNÍ, PŘEČIN NEBO JINAK), Z NÍŽ TAKOVÝ NÁROK VYCHÁZÍ. SOUHRNNÁ ODPOVĚDNOST SPOLEČNOSTI MOZILLA A ODŠKODNĚNÝCH STRAN V SOULADU S TOUTO SMLOUVOU NEPŘESÁHNE 500 USD (PĚT SET AMERICKÝCH DOLARŮ). NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ NÁHODNÝCH, NÁSLEDNÝCH NEBO SPECIÁLNÍCH ŠKOD, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
 
 10. #### Změny těchto Podmínek
 
