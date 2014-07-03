@@ -1,5 +1,5 @@
 Poslední aktualizace 26. března 2014
-
+ 
 #### Shrnutí
 
 Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí se uvádí jako pomůcka při pochopení podmínek, nicméně nezapomeňte si přečíst celý dokument, protože pokud s ním vyslovíte souhlas, vyslovujete souhlas s veškerými podmínkami a nikoliv pouze s tímto souhrnem.
