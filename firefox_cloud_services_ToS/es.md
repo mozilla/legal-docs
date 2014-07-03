@@ -23,7 +23,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 4. #### Política de privacidad
 
-    El <a href="https://accounts.firefox.com/legal/privacy">Aviso de privacidad de Firefox Cloud Services</a> describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la <a href="http://www.mozilla.org/privacy/" target="_blank">Política de privacidad de Mozilla</a>.
+    El <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Aviso de privacidad de Firefox Cloud Services</a> describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la <a href="http://www.mozilla.org/privacy/" target="_blank">Política de privacidad de Mozilla</a>.
 
 5. #### Su contenido en nuestros Servicios
 
