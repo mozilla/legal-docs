@@ -23,7 +23,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 4. #### Adatvédelmi irányelvek
 
-    A <a href="https://accounts.firefox.com/legal/privacy">Firefox Cloud Services Adatvédelmi Nyilatkozat</a> részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Adatvédelmi Irányelvek</a> részben leírtak szerint használjuk fel.
+    A <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Firefox Cloud Services Adatvédelmi Nyilatkozat</a> részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Adatvédelmi Irányelvek</a> részben leírtak szerint használjuk fel.
 
 5. #### A Szolgáltatások használata során keletkezett saját tartalom
 

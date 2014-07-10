@@ -1,5 +1,5 @@
 Poslední aktualizace 26. března 2014
-
+ 
 #### Shrnutí
 
 Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí se uvádí jako pomůcka při pochopení podmínek, nicméně nezapomeňte si přečíst celý dokument, protože pokud s ním vyslovíte souhlas, vyslovujete souhlas s veškerými podmínkami a nikoliv pouze s tímto souhrnem.
@@ -23,7 +23,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 4. #### Zásady ochrany soukromí
 
-    <a href="https://accounts.firefox.com/legal/privacy">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.
+    <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.
 
 5. #### Váš obsah na našich Službách
 

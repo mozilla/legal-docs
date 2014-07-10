@@ -23,7 +23,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
 4. #### Política de privacidade
 
-    O <a href="https://accounts.firefox.com/legal/privacy">Aviso de privacidade do Firefox Cloud Services</a> detalha quais informações recebemos quando você usa os Serviços e de que forma usamos essas informações. Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa <a href="http://www.mozilla.org/privacy/" target="_blank">Política de privacidade da Mozilla</a>.
+    O <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Aviso de privacidade do Firefox Cloud Services</a> detalha quais informações recebemos quando você usa os Serviços e de que forma usamos essas informações. Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa <a href="http://www.mozilla.org/privacy/" target="_blank">Política de privacidade da Mozilla</a>.
 
 5. #### Seu conteúdo em nossos Serviços
 
