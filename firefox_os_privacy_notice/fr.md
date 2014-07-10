@@ -1,24 +1,24 @@
-# Firefox OS Privacy Notice
+# Politique de confidentialité de Firefox OS
 
-May 8, 2013
+8 mai 2013
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Mozilla veille sur votre vie privée. Lorsque Firefox OS nous envoie des informations, la [politique de confidentialité de Mozilla](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
 
-## Things you should know
+## Voici ce que vous devriez savoir
 
-Firefox OS connects to us and others in order to provide product features.
+Firefox OS se connecte à nous et à d'autres pour nous fournir les caractéristiques du produit.
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Mises à jour : Pour bénéficier des mises à jour les plus récentes, Firefox OS se connecte automatiquement à un service fourni par ou pour le compte du fabricant de votre appareil. Firefox OS vérifie automatiquement l'existence éventuelle de mises à jour pour les applis installées en envoyant une requête au Firefox Marketplace ou aux services du développeur d'applications, si vous avez installé une appli d'un autre site.
+* Localisation : Lorsque vous activez les services de localisation, Firefox OS pourra utiliser plusieurs points de données ou entités pour évaluer votre emplacement, y compris les services GPS, AGPS et d'autres services de géolocalisation. Vous pouvez désactiver les services de localisation dans l'Appli « Paramètres » de Firefox OS sur votre appareil.
+* Activation initiale : Pour fournir les applications et mises à jour correctes, Firefox OS envoie à Mozilla un seul ping de données lors du premier allumage. [En savoir plus](https://wiki.mozilla.org/FirefoxOS/Metrics)
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+L'appareil que vous utilisez, comme la plupart des appareils mobiles, est construit par plusieurs parties. La présente notification décrit uniquement comment Mozilla gère vos informations pour les versions officielles de Firefox OS autorisées par Mozilla.
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* En cas d'utilisation d'Applis réalisées par des développeurs autres que ceux de Mozilla, la politique de confidentialité applicable sera celle du développeur concerné.
+* La fonction de recherche dynamique des Applis de Firefox OS est effectuée par Everything.me, qui applique sa propre politique de confidentialité disponible à l'adresse [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Firefox OS vous permet d'utiliser plusieurs services de tiers intégrés, tels que votre fournisseur de messagerie (e-mail) ou de réseaux sociaux. La politique de confidentialité de ces services s'applique à l'utilisation de votre partie de ces services.
