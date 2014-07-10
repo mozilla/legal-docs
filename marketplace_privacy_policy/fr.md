@@ -1,66 +1,66 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Politique de confidentialité du Firefox Marketplace
+3 juillet 2013
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations de Firefox Marketplace vous concernant, notre [politique de confidentialité](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations..
 
-<u>Things you should know</u>
+<u>Voici ce que vous devriez savoir</u>
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
+- La plupart des Applis du Firefox Marketplace ne sont pas réalisées par Mozilla et vous devriez vérifier leur politique de confidentialité avant de les utiliser.
+- Les paiements sont traités par des entités autres que Mozilla et vous devriez vérifier la politique de confidentialité du service de paiement concerné pour comprendre ses pratiques.
+  - Aucune information financière (par exemple, informations sur la carte de crédit que vous avez utilisée pour vos achats sur le Firefox Marketplace) n'est recueillie, conservée ou utilisée par Mozilla.
+- Firefox Marketplace utilise les cookies et d'autres technologies web pour offrir ses fonctionnalités (par exemple, se rappeler de vous entre les sessions) et nous aider à comprendre comment les utilisateurs utilisent le service grâce aux systèmes d'analytique globale.
+- Le Marketplace peut utiliser les données de votre opérateur et vos données de localisation pour personnaliser votre expérience.
+  - Sur les appareils Firefox OS, nous utilisons les informations de réseau de votre appareil pour connaître le pays d'utilisation et le réseau de votre opérateur pour personnaliser votre expérience et vous offrir des contenus spécifiques de votre opérateur.
+  - Sur toutes les plateformes, nous pourrons utiliser votre adresse IP pour repérer votre pays et personnaliser votre expérience.
+- Vous n'avez pas besoin de vous connecter pour installer une appli gratuite, mais vous devrez le faire pour les applis payantes. Nous vous aidons également à maintenir un historique de vos transactions (par exemple, les applis que vous avez achetées).
+- Vous pouvez décider de recevoir nos e-mails et d'annuler votre inscription aux e-mails de communications commerciales préalablement sélectionnées.
 
-### Mozilla Privacy Policy
+### Politique de confidentialité de Mozilla
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+Votre confidentialité constitue un facteur important dont Mozilla (nous) se soucie dans le développement de ses produits et services. Nous nous engageons à être transparent et ouvert et nous voulons que vous sachiez comment nous recevons vos informations et ce que nous en faisons une fois qu'elles sont en notre possession.
 
-### What do we mean by "personal information?"
+### Qu'entendons-nous par « informations personnelles » ?
 
-For us, "personal information" means information which identifies you, like your name or email address.
+Pour nous, les « informations personnelles » désignent toutes les informations qui vous identifient, par exemple, votre nom ou adresse e-mail.
 
-Any information that falls outside of this is "non-personal information."
+Toute information en dehors de ce cadre constitue une « information non-personnelle ».
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+Si nous stockons vos informations personnelles avec des informations non-personnelles, nous considérerons l'ensemble comme des informations personnelles. Si nous éliminons toutes les informations personnelles d'un ensemble de données, les informations restantes seront non-personnelles.
 
-### How do we learn information about you?
+### Comment avons-nous connaissance d'informations à votre sujet ?
 
-We learn information about you when:
+Nous prenons connaissance d'informations vous concernant dans les situations suivantes :
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+- lorsque vous nous les donnez directement (vous choisissez de nous envoyer des rapports de « plantage » de Firefox, par exemple) ;
+- lorsque nous les collectons directement par nos produits et services (lors d'une vérification de mise à jour de votre version de Firefox, par exemple) ;
+- lorsque quelqu'un d'autre nous donne des informations sur votre compte (par ex., Thunderbird opère avec votre fournisseur de messagerie pour configurer votre compte) ; ou
+- lorsque nous essayons d'en savoir plus en fonction des informations que vous nous avez données (par ex., lorsque nous utilisons votre adresse IP pour personnaliser la langue de certains de vos services).
 
-### What do we do with your information once we have it?
+### Que faisons-nous avec vos informations une fois obtenues ?
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+Lorsque vous nous donnez des informations personnelles, nous les utilisons conformément aux autorisations que vous nous avez fournies. De manière générale, nous utilisons vos informations pour nous permettre de vous offrir de nouveaux produits et services et/ou d'améliorer les existants.
 
-### When do we share your information with others?
+### Dans quels cas partageons-nous vos informations avec d'autres ?
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](http://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+- Lorsque vous nous avez autorisé à le faire.
+- Pour le traitement ou la fourniture des produits et services, mais uniquement si les entités qui reçoivent vos informations sont obligées contractuellement d'utiliser les procédures de gestion des données approuvées par Mozilla.
+- Lorsque nous accomplissons notre mission qui est celle [d'être ouvert](http://www.mozilla.org/about/manifesto.html). Parfois, nous publions des informations pour améliorer nos produits et favoriser un web ouvert. Cependant, nous éliminons vos informations personnelles et essayons de divulguer des informations tout en minimisant le risque que vous soyez ré-identifié(e).
+- Lorsque la loi l'exige. Nous respectons la loi chaque fois que nous recevons des requêtes d'informations sur vous de la part d'un gouvernement ou dans le cadre d'un procès. Nous vous avertirons dans ces cas de la transmission de vos informations personnelles, sauf si ceci est interdit par la loi. Lorsque nous recevons ce type de requête, nous ne communiquons vos informations personnelles que si nous estimons de bonne foi que la loi l'exige. Dans cette politique, rien n'entend limiter votre droit de défense ou opposition légale à divulguer vos informations sur la requête d'une tierce partie.
+- Lorsque nous jugeons qu'il est nécessaire d'éviter tout préjudice à votre personne ou à un tiers. Nous ne partagerons vos informations de cette manière que si nous estimons de bonne foi qu'il est raisonnablement nécessaire de protéger vos droits, votre propriété ou votre sécurité ou ceux d'autres utilisateurs, de Mozilla ou du public.
+- Si notre structure organisationnelle ou notre statut change (si nous sommes soumis à une restructuration, acquisition ou faisons faillite), nous pourrions passer  vos informations à un successeur ou affilié.
 
-### How do we store and protect your personal information?
+### Comment conservons-nous et protégeons-nous vos informations personnelles ?
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+Nous nous engageons à protéger vos informations personnelles une fois que nous les avons obtenues. Nous mettons en place des mesures de sécurité physiques, commerciales et techniques. Malgré nos efforts, si nous avons connaissance d'une effraction dans notre sécurité, nous vous avertirons pour que vous puissiez adopter des mesures de protection adéquates.
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n'en avons plus besoin. Par conséquent nous ne les garderons que le temps nécessaire pour réaliser les actions pour lesquelles nous les avons collectées. Lorsque nous n'en avons plus besoin, nous les détruisons sauf si la loi exige que nous les conservions plus longtemps.
 
-### What else do we want you know?
+### Que souhaitons-nous que vous sachiez encore ?
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+Nous sommes une organisation mondiale et nos ordinateurs se trouvent dans des emplacements divers dans le monde entier. Nous faisons aussi appel à des fournisseurs de services dont les ordinateurs peuvent également se trouver dans divers pays. Ceci signifie que vos informations peuvent « atterrir » sur l'un des ordinateurs situés dans un autre pays, et ce pays peut avoir des réglementations différentes des nôtres en matière de protection des données. En nous communiquant vos informations, vous nous autorisez à effectuer ce transfert d'informations. Quel que soit le pays où se trouvent vos informations, nous respectons le droit applicable ainsi que les engagements que nous avons pris dans cette politique de confidentialité.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) to have your child's information removed.
+Si vous avez moins de 13 ans, nous ne voulons pas vos informations personnelles et vous ne devez pas nous les communiquer. Si vous êtes parent d'un enfant de moins de 13 ans et pensez qu'il nous a communiqué ses informations personnelles, veuillez [nous contacter](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) pour éliminer ces informations.
 
-### What if we change this policy?
+### Que se passe-t-il si nous modifions cette politique ?
 
-We may need to change this policy and when we do, we'll notify you.
+Nous pourrions être amenés à modifier cette politique : dans ce cas, nous vous avertirons.
