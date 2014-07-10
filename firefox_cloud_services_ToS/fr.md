@@ -23,7 +23,7 @@ Cette première section offre un résumé des conditions d'utilisation. Ce résu
 
 4. #### Politique de confidentialité
 
-    La <a href="https://accounts.firefox.com/legal/privacy">Politique de confidentialité des services cloud de Firefox</a> explique en détail les informations que nous recevons lorsque vous utilisez les Services et comment nous les utilisons. Les informations que nous recevons via les Services sont utilisées conformément à la <a href="http://www.mozilla.org/privacy/" target="_blank">Politique de confidentialité de Mozilla</a>.
+    La <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Politique de confidentialité des services cloud de Firefox</a> explique en détail les informations que nous recevons lorsque vous utilisez les Services et comment nous les utilisons. Les informations que nous recevons via les Services sont utilisées conformément à la <a href="http://www.mozilla.org/privacy/" target="_blank">Politique de confidentialité de Mozilla</a>.
 
 5. #### Vos contenus dans nos services
 
