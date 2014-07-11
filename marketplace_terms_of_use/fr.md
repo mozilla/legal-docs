@@ -13,7 +13,7 @@ Cette première section présente un résumé des conditions d'utilisation. Elle
 
 ### Introduction
 
-Chez Mozilla, nous nous engageons à promouvoir le choix et l'innovation sur le Web. C'est la raison pour laquelle nous avons créé le Firefox Marketplace, un marché publique où les développeurs peuvent distribuer leurs applis ou modules pour que les utilisateurs puissent les utiliser sur tout appareil pouvant accéder au Web ouvert.
+Chez Mozilla, nous nous engageons à promouvoir le choix et l'innovation sur le Web. C'est la raison pour laquelle nous avons créé le Firefox Marketplace, un marché public où les développeurs peuvent distribuer leurs applis ou modules pour que les utilisateurs puissent les utiliser sur tout appareil pouvant accéder au Web ouvert.
 
 L'utilisation de Firefox Marketplace est soumise aux termes et conditions de ces Conditions d'utilisation ainsi qu'aux politiques de Firefox Marketplace y afférentes et mentionnées dans les présentes Conditions ou dans le Firefox Marketplace (nous les nommerons collectivement « Conditions »).
 
