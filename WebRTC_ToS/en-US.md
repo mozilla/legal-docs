@@ -1,7 +1,6 @@
 # Mozilla and TokBox Web RTC Product Terms of Use
 
 June 30, 2014
-{: datetime="2014-06-30" }
 
 ## Summary
 
