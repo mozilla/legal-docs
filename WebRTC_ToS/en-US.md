@@ -114,4 +114,4 @@ These Terms constitute the entire agreement between you, Mozilla and TokBox conc
 
 ### 15. Contact Us
 
-Contact Mozilla at: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) or via e-mail to: [legal@mozilla.com](mailto:legal@mozilla.com).
+Contact Mozilla at: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) or via e-mail to: [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com).
