@@ -1,23 +1,21 @@
-# Firefox Cloud Services Privacy Notice
+# Firefox ক্লাউড পরিষেবাগুলির গোপনীয়তা বিজ্ঞপ্তি
 
-March 26, 2014
+মার্চ 26, 2014
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we use that information.
+আমরা আপনার গোপনীয়তা রক্ষার বিষয়ে যত্নবান৷ যখন Firefox ক্লাউড পরিষেবাগুলি ("পরিষেবাগুলি") Mozilla এ (আমাদেরকে) তথ্যগুলি পাঠায় তখন আমাদের [Mozilla গোপনীয়তা নীতি](http://www.mozilla.org/en-US/privacy/) আমরা সেই তথ্য কীভাবে ব্যবহার করি তার ব্যাখ্যা করে৷
 
-## Things you should know:
+## যে বিষয়গুলি আপনার জানা প্রয়োজন:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+পরিষেবাগুলির কোন বৈশিষ্ট্যগুলি আপনি ব্যবহার করেন তার উপরে ভিত্তি করে আপনি আমাদের কাছে বিভিন্ন রকমের ডেটা পাঠান৷   আরো জানুন৷
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password. 
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Firefox অ্যাকাউন্ট**: যখন আপনি কোনো অ্যাকাউন্টে সাইন আপ করেন, আমরা আপনার ইমেল ঠিকানা ও পাসওয়ার্ড পাই৷ 
+* **সিঙ্ক**: যখন আপনি সিঙ্ক ব্যবহার করেন, তখন আমার আপনার ট্যাবগুলি সিঙ্ক্রোনাইজ করতে ডিভাইসগুলি জুড়ে ট্যাবগুলি, অসাধারণ বার, পাসওয়ার্ড, বুকমার্ক, ব্রাউজারের কর্মক্ষমতা এবং অন্যান্য ডেটার মতো রকমারি তথ্য গ্রহণ করি৷    
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+আমরা আমাদের পণ্য ও পরিষেবাগুলি অফার ও উন্নতি করতে কুকিজ, পরিস্কার GIFগুলি এবং অন্যান্য ওয়েব প্রযুক্তিগুলি ব্যবহার করি৷  আরো জানুন৷
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics. 
+* **অনলাইন ডেটা সরঞ্জাম**: আমরা আমাদের পণ্য ও পরিষেবাগুলির কার্যকারিতা প্রদান করতে অনলাইন ডেটা সরঞ্জাম ব্যবহার করি・যেমন কুকিজ, পরিস্কার GIF এবং ওয়েব বীকন৷ উদাহরণস্বরূপ, কুকিজ ব্যবহারকারীর সাইন-ইন ও প্রমাণীকরণে সহায়তা করে৷ এছাড়াও আমরা আমাদের পণ্য ও পরিষেবাগুলির উন্নতির উদ্দেশ্যে ডেটা সংগ্রহ করতে এই একই ধরণের সরঞ্জামগুলি করি৷ উদাহরণস্বরূপ, আমরা ওয়েবে বিশ্লেষণ প্রদান করতে কুকিজ ব্যবহার করি৷ 
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
-
-
+* **বিকল্পগুলি**: আপনি [এখানে](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) ক্লিক করার মাধ্যমে কুকিজ আসলে কি এবং Firefox এ কুকিজের পরিচালনার বিষয়ে আরো জানতে পারবেন৷ মনে রাখবেন কুকিজের সাহায্য ছাড়া আমাদের এবং অন্যান্য পণ্য ও পরিষেবাগুলির কিছু নির্দিষ্ট বৈশিষ্ট্য সঠিকভাবে কাজ নাও করতে পারে৷ 
