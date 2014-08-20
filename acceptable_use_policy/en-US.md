@@ -22,7 +22,7 @@ others
  * Is deceptive, misleading, fraudulent or is designed to phish or perform other identity theft
  * Is intended to promote gambling
  * Engages in the advertisement of or encourages illegal or controlled products or services
- * Degrades, intimidates, incites violence against, or encourages prejudicial action against someone or a group based on age, gender, race, ethnicity, national origin, religion, sexual orientation, disability, religion, geographic location or other protected category or constitutes hate speech; or
+ * Degrades, intimidates, incites violence against, or encourages prejudicial action against someone or a group based on age, gender, race, ethnicity, national origin, religion, sexual orientation, disability, religion, geographic location or other protected category or constitutes hate speech
 
 This list is illustrative, not definitive, and may be updated.
 
