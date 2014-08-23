@@ -4,7 +4,7 @@ Poslednje ažuriranje obavljeno 26. marta 2014.
 
 Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled služi kako bi Vam pomogao u razumevanju odredbi, ali obavezno pročitajte ceo dokument, jer kada se saglasite sa istim to znači da ga prihvatate u celosti, a ne samo ovaj skraćeni prikaz.
 
-- Firefox Cloud Services ("Usluge") je paket usluga koje Vam pruža Mozilla. 
+- Firefox Cloud Services ("Usluge") je paket usluga koje Vam pruža Mozilla.
 - Usluge se pružaju "kakve jesu" i ne postoje bilo kakve vrste garancija. Postoje značajna ograničenja odgovornosti Mozilla-e za bilo kakve vrste štete koje proizilaze iz Vašeg korišćenja Usluga.
 
 #### Uslovi korišćenja
@@ -23,7 +23,7 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 
 4. #### Pravila Privatnosti
 
-    <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Firefox Cloud Services obaveštenja o privatnosti</a> opisuju koje vrste informacija dobijamo od Vašeg korišćenja Usluga i na koji način koristimo te informacije. Koristimo informacije koje dobijamo preko Usluga na način na koji je to opisano u <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Pravilima Privatnosti</a>.
+    [Firefox Cloud Services obaveštenja o privatnosti](http://www.mozilla.org/en-US/privacy/firefox-cloud/) opisuju koje vrste informacija dobijamo od Vašeg korišćenja Usluga i na koji način koristimo te informacije. Koristimo informacije koje dobijamo preko Usluga na način na koji je to opisano u [Mozilla Pravilima Privatnosti](http://www.mozilla.org/privacy/).
 
 5. #### Vaš Sadržaj u Uslugama
 
@@ -31,7 +31,7 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 
 6. #### Mozilla Vlasnička Prava
 
-    Mozilla Vam ne dodeljuje nikakva prava intelektualne svojine u Uslugama koja nisu prethodno navedena u ovim Uslovima. Na primer, ovi Uslovi ne dodeljuju pravo korišćenja bilo kojih autorskih prava, trgovinskih naziva, žigova, oznaka usluga, logoa, naziva domena, ili drugih karakterističnih odlika brenda Mozilla. Uslovi su dostavljeni u okviru i zavise od važeće verzije <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Javne Dozvole</a>.
+    Mozilla Vam ne dodeljuje nikakva prava intelektualne svojine u Uslugama koja nisu prethodno navedena u ovim Uslovima. Na primer, ovi Uslovi ne dodeljuju pravo korišćenja bilo kojih autorskih prava, trgovinskih naziva, žigova, oznaka usluga, logoa, naziva domena, ili drugih karakterističnih odlika brenda Mozilla. Uslovi su dostavljeni u okviru i zavise od važeće verzije [Mozilla Javne Dozvole](http://www.mozilla.org/MPL/).
 
 7. #### Rok; Raskid obaveza
 

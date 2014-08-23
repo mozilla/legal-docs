@@ -23,7 +23,7 @@ Cette première section offre un résumé des conditions d'utilisation. Ce résu
 
 4. #### Politique de confidentialité
 
-    La <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Politique de confidentialité des services en ligne de Firefox</a> explique en détail les informations que nous recevons lorsque vous utilisez les Services et comment nous les utilisons. Les informations que nous recevons via les Services sont utilisées conformément à la <a href="http://www.mozilla.org/privacy/" target="_blank">Politique de confidentialité de Mozilla</a>.
+    La [Politique de confidentialité des services en ligne de Firefox](http://www.mozilla.org/en-US/privacy/firefox-cloud/) explique en détail les informations que nous recevons lorsque vous utilisez les Services et comment nous les utilisons. Les informations que nous recevons via les Services sont utilisées conformément à la [Politique de confidentialité de Mozilla](http://www.mozilla.org/privacy/).
 
 5. #### Vos contenus dans nos services
 
@@ -31,7 +31,7 @@ Cette première section offre un résumé des conditions d'utilisation. Ce résu
 
 6. #### Droits de propriété de Mozilla
 
-    Mozilla ne vous cède aucun droit de propriété intellectuelle sur les Services, qui ne soit expressément déclaré dans les présentes Conditions. Par exemple, ces Conditions ne vous accordent pas le droit d'utiliser les copyrights, noms commerciaux, marques déposées, marques de service, logos, noms de domaine ou toute autre caractéristique distinctive de la marque Mozilla. Les Services sont distribués sous licence et soumis aux termes de la version actuelle de la licence <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla ne vous cède aucun droit de propriété intellectuelle sur les Services, qui ne soit expressément déclaré dans les présentes Conditions. Par exemple, ces Conditions ne vous accordent pas le droit d'utiliser les copyrights, noms commerciaux, marques déposées, marques de service, logos, noms de domaine ou toute autre caractéristique distinctive de la marque Mozilla. Les Services sont distribués sous licence et soumis aux termes de la version actuelle de la licence [Mozilla Public License](http://www.mozilla.org/MPL/).
 
 7. #### Durée ; Résiliation
 

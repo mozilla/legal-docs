@@ -4,7 +4,7 @@ Zuletzt aktualisiert am 26. März 2014
 
 Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingungen zusammen. Diese Zusammenfassung ist eine Hilfe zum besseren Verständnis der Bedingungen. Sie sollten aber auf jeden Fall das gesamte Dokument lesen, denn mit Ihrer Zustimmung geben Sie an, dass Sie alle Bedingungen akzeptieren, nicht nur die Zusammenfassung.
 
-- Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden. 
+- Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden.
 - Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
 
 #### Nutzungsbedingungen
@@ -23,7 +23,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 4. #### Datenschutzerklärung
 
-    Im <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Datenschutzhinweis für Firefox Cloud Services</a> ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla-Datenschutzerklärung</a> beschrieben.
+    Im [Datenschutzhinweis für Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](http://www.mozilla.org/privacy/) beschrieben.
 
 5. #### Ihre Inhalte in unseren Services
 
@@ -31,7 +31,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 6. #### Eigentumsrechte von Mozilla
 
-    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der [Mozilla Public License](http://www.mozilla.org/MPL/).
 
 7. #### Laufzeit; Kündigung
 

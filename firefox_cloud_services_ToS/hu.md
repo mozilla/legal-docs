@@ -4,7 +4,7 @@ Utoljára frissítve: 2014. március 26.
 
 Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az összefoglaló célja, hogy segítséget nyújtson Önnek a feltételek megismerésében. Ennek ellenére olvassa el a teljes dokumentumot, mert az elfogadással az összes feltételhez hozzájárul, nem csupán az összefoglaló elfogadását jelzi.
 
-- A Firefox Cloud Services (a „Szolgáltatások”) a Mozilla által Önnek nyújtott szolgáltatáscsomag. 
+- A Firefox Cloud Services (a „Szolgáltatások”) a Mozilla által Önnek nyújtott szolgáltatáscsomag.
 - A Szolgáltatásokat a megadott formában biztosítjuk bármilyen típusú garancia nélkül. A Mozilla felelőssége jelentős mértékben korlátozott bármilyen, a Szolgáltatások használatából eredő kár tekintetében.
 
 #### Szolgáltatási feltételek
@@ -23,7 +23,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 4. #### Adatvédelmi irányelvek
 
-    A <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Firefox Cloud Services Adatvédelmi Nyilatkozat</a> részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Adatvédelmi Irányelvek</a> részben leírtak szerint használjuk fel.
+    A [Firefox Cloud Services Adatvédelmi Nyilatkozat](http://www.mozilla.org/en-US/privacy/firefox-cloud/) részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a [Mozilla Adatvédelmi Irányelvek](http://www.mozilla.org/privacy/) részben leírtak szerint használjuk fel.
 
 5. #### A Szolgáltatások használata során keletkezett saját tartalom
 
@@ -31,7 +31,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 6. #### A Mozilla tulajdonjogai
 
-    A jelen Szerződés feltételei szerint meghatározottak kivételével a Mozilla nem ad Önnek semmilyen, a Szolgáltatásokra vonatkozó szellemi tulajdonjogot. Például a jelen Feltételek nem adnak jogot a Mozilla szerzői jogai, márkanevei, védjegyei, szolgáltatási védjegyei, logói, domainnevei vagy más megkülönböztető márkajelzések használatára. A Szolgáltatások nyújtására a <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a> jelenlegi változatának feltételei szerint kerül sor.
+    A jelen Szerződés feltételei szerint meghatározottak kivételével a Mozilla nem ad Önnek semmilyen, a Szolgáltatásokra vonatkozó szellemi tulajdonjogot. Például a jelen Feltételek nem adnak jogot a Mozilla szerzői jogai, márkanevei, védjegyei, szolgáltatási védjegyei, logói, domainnevei vagy más megkülönböztető márkajelzések használatára. A Szolgáltatások nyújtására a [Mozilla Public License](http://www.mozilla.org/MPL/) jelenlegi változatának feltételei szerint kerül sor.
 
 7. #### Időtartam; Felmondás
 

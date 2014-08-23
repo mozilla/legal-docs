@@ -23,7 +23,7 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 
 4. #### Politica sulla privacy
 
-    L'<a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">informativa sulla privacy nella pagina Firefox Cloud Services</a> descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella <a href="https://www.mozilla.org/privacy/" target="_blank">informativa sulla privacy di Mozilla</a>.
+    L'[informativa sulla privacy nella pagina Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella [informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Contenuti dell'utente nei nostri Servizi
 
@@ -31,7 +31,7 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 
 6. #### Diritti di proprietà di Mozilla
 
-    Mozilla non concede all'utente alcun diritto di proprietà intellettuale sui Servizi non specificamente indicato nei presenti Termini. Per esempio, questi Termini non concedono il diritto di usare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di dominio o qualsiasi altra caratteristica distintiva del marchio Mozilla. I Servizi sono distribuiti in base alla <a href="https://www.mozilla.org/MPL/" target="_blank">Licenza Pubblica Mozilla</a> e sono soggetti alla versione attuale della stessa.
+    Mozilla non concede all'utente alcun diritto di proprietà intellettuale sui Servizi non specificamente indicato nei presenti Termini. Per esempio, questi Termini non concedono il diritto di usare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di dominio o qualsiasi altra caratteristica distintiva del marchio Mozilla. I Servizi sono distribuiti in base alla [Licenza Pubblica Mozilla](https://www.mozilla.org/MPL/) e sono soggetti alla versione attuale della stessa.
 
 7. #### Fine; Cessazione
 
@@ -64,8 +64,8 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
     È possibile contattare Mozilla presso
 
     <address>
-      Mozilla Corporation
-      Att.: Mozilla - Avvisi legali
-      331 E. Evelyn Ave.,
+      Mozilla Corporation 
+      Att.: Mozilla - Avvisi legali 
+      331 E. Evelyn Ave., 
       Mountain View, CA 94041
     </address>

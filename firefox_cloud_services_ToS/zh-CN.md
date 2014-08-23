@@ -4,7 +4,7 @@
 
 本文首先对下文条款进行了概括。本摘要旨在帮助您了解各项条款，但请务必阅读整个文件，因为当您同意时，即表示您接受所有条款，而不仅是接受本摘要。
 
-- Firefox Cloud Services（以下简称“Services”）是 Mozilla 向您提供的一套服务。 
+- Firefox Cloud Services（以下简称“Services”）是 Mozilla 向您提供的一套服务。
 - 服务以“现状”提供，并不以任何形式提供担保。对于因您使用 Services 造成的任何损害，Mozilla 承担的责任极其有限。
 
 #### 服务条款
@@ -23,7 +23,7 @@
 
 4. #### 隐私政策
 
-    <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Firefox Cloud Services 隐私声明</a>说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla 隐私政策</a>的规定使用通过 Services 接收的信息。
+    [Firefox Cloud Services 隐私声明](http://www.mozilla.org/en-US/privacy/firefox-cloud/)说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 [Mozilla 隐私政策](http://www.mozilla.org/privacy/)的规定使用通过 Services 接收的信息。
 
 5. ####  Services 中您的内容
 
@@ -31,7 +31,7 @@
 
 6. #### Mozilla 的专有权利
 
-    Mozilla 不在 Services 中向您授予本文条款未明确规定的任何知识产权。例如，本文条款不提供使用 Mozilla 的任何版权、商标名称、商标、服务标识、徽标、域名或其他独特品牌特征的权利。 Services 将按照当前版本的 <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla 公共许可</a>进行分发并受其约束。
+    Mozilla 不在 Services 中向您授予本文条款未明确规定的任何知识产权。例如，本文条款不提供使用 Mozilla 的任何版权、商标名称、商标、服务标识、徽标、域名或其他独特品牌特征的权利。 Services 将按照当前版本的 [Mozilla 公共许可](http://www.mozilla.org/MPL/)进行分发并受其约束。
 
 7. #### 期限；终止
 
