@@ -51,7 +51,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 * Tiles 
 
-Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information and tile specific data (e.g., position and size of grid). 
+	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information and tile specific data (e.g., position and size of grid). 
 
 ---------------------------------------
 
