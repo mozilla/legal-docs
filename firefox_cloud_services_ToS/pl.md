@@ -4,7 +4,7 @@ Ostatnia aktualizacja: 26 marca 2014
 
 Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszczenie ma na celu ułatwienie zrozumienia warunków, należy jednak przeczytać cały dokument, ponieważ wyrażając zgodę na jego postanowienia, użytkownik akceptuje wszystkie jego warunki, a nie tylko wymienione w streszczeniu.
 
-- Usługi Firefox Cloud Services („Usługi”) to pakiet usług świadczonych użytkownikowi przez firmę Mozilla. 
+- Usługi Firefox Cloud Services („Usługi”) to pakiet usług świadczonych użytkownikowi przez firmę Mozilla.
 - Usługi są świadczone w stanie „takie jakie są”, bez udzielania jakichkolwiek gwarancji. Mają zastosowanie istotne ograniczenia odpowiedzialności firmy Mozilla w zakresie jakichkolwiek szkód wynikających z użytkowania Usług.
 
 #### Warunki świadczenia usług
@@ -23,7 +23,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 4. #### Polityka prywatności
 
-    Dokument <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Zasady prywatności usług Firefox Cloud Services</a> opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu <a href="http://www.mozilla.org/privacy/" target="_blank">Polityka prywatności firmy Mozilla</a>.
+    Dokument [Zasady prywatności usług Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](http://www.mozilla.org/privacy/).
 
 5. #### Zawartość użytkownika w naszych Usługach
 
@@ -31,7 +31,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 6. #### Prawa własności firmy Mozilla
 
-    Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących Usług, których nie nadano wyraźnie na mocy niniejszych Warunków. Na przykład niniejsze Warunki nie pozwalają na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych i usługowych, logo, nazw domen i innych cech marki Mozilla. Usługi są rozpowszechniane na mocy aktualnej wersji <a href="http://www.mozilla.org/MPL/" target="_blank">Licencji publicznej firmy Mozilla</a> i podlegają jej postanowieniom.
+    Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących Usług, których nie nadano wyraźnie na mocy niniejszych Warunków. Na przykład niniejsze Warunki nie pozwalają na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych i usługowych, logo, nazw domen i innych cech marki Mozilla. Usługi są rozpowszechniane na mocy aktualnej wersji [Licencji publicznej firmy Mozilla](http://www.mozilla.org/MPL/) i podlegają jej postanowieniom.
 
 7. #### Okres obowiązywania; Wypowiedzenie
 

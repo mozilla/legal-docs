@@ -1,10 +1,10 @@
 Poslední aktualizace 26. března 2014
- 
+
 #### Shrnutí
 
 Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí se uvádí jako pomůcka při pochopení podmínek, nicméně nezapomeňte si přečíst celý dokument, protože pokud s ním vyslovíte souhlas, vyslovujete souhlas s veškerými podmínkami a nikoliv pouze s tímto souhrnem.
 
-- Firefox cloud services (dále jen „Služby”) představují soubor služeb poskytovaných společností Mozilla. 
+- Firefox cloud services (dále jen „Služby”) představují soubor služeb poskytovaných společností Mozilla.
 - Služby jsou poskytovány „tak jak jsou” a neposkytují se záruky žádného druhu. Odpovědnost společnosti Mozilla vůči vám za škody vyplývající z vašeho používání Služeb je silně omezena.
 
 #### Podmínky poskytování služeb
@@ -23,7 +23,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 4. #### Zásady ochrany soukromí
 
-    <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Zásady ochrany osobních údajů Firefox cloud services</a> uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich <a href="http://www.mozilla.org/privacy/" target="_blank">Zásadách ochrany osobních údajů Mozilla</a>.
+    [Zásady ochrany osobních údajů Firefox cloud services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich [Zásadách ochrany osobních údajů Mozilla](http://www.mozilla.org/privacy/).
 
 5. #### Váš obsah na našich Službách
 
@@ -31,7 +31,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí <a href="http://www.mozilla.org/MPL/" target="_blank">Veřejné licence Mozilla</a>.
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](http://www.mozilla.org/MPL/).
 
 7. #### Doba platnosti, ukončení
 

@@ -4,7 +4,7 @@ Last Updated March 26, 2014
 
 This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
+- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla.
 - The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
 
 #### Terms of Service
@@ -23,7 +23,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    The <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
+    The [Firefox Cloud Services Privacy Notice](http://www.mozilla.org/en-US/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](http://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
@@ -31,7 +31,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 6. #### Mozilla's Proprietary Rights
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
+    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](http://www.mozilla.org/MPL/).
 
 7. #### Term; Termination
 

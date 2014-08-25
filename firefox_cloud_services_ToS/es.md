@@ -4,7 +4,7 @@
 
 Esta sección inicial resume las condiciones descritas a continuación. El presente resumen tiene como objetivo ayudarlo a comprender las condiciones. No obstante, no olvide leer el documento completo, ya que, al aceptarlo, aprobará todas las condiciones recogidas en el mismo, no únicamente las de este resumen.
 
-- Firefox Cloud Services (en adelante, los "Servicios") es un paquete de servicios que Mozilla le ofrece. 
+- Firefox Cloud Services (en adelante, los "Servicios") es un paquete de servicios que Mozilla le ofrece.
 - Los Servicios se prestan "tal y como están", sin garantía de ningún tipo. Existen límites significativos a la responsabilidad de Mozilla ante los daños que puedan derivar del uso que haga de los Servicios.
 
 #### Condiciones del servicio
@@ -23,7 +23,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 4. #### Política de privacidad
 
-    El <a href="http://www.mozilla.org/en-US/privacy/firefox-cloud/">Aviso de privacidad de Firefox Cloud Services</a> describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la <a href="http://www.mozilla.org/privacy/" target="_blank">Política de privacidad de Mozilla</a>.
+    El [Aviso de privacidad de Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la [Política de privacidad de Mozilla](http://www.mozilla.org/privacy/).
 
 5. #### Su contenido en nuestros Servicios
 
@@ -31,7 +31,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 6. #### Derechos de propiedad intelectual de Mozilla
 
-    Mozilla no le otorga ningún derecho de propiedad intelectual en los Servicios que no se haya incluido específicamente en las presentes Condiciones. Por ejemplo, las presentes Condiciones no le otorgan el derecho a utilizar ninguno de los derechos de autor, nombres comerciales, marcas comerciales, marcas de servicio, logotipos, nombres de dominio u otras características distintivas de la marca Mozilla. Los Servicios se distribuyen bajo la versión actual de la <a href="http://www.mozilla.org/MPL/" target="_blank">Licencia Pública de Mozilla</a>, a la que están sujetos.
+    Mozilla no le otorga ningún derecho de propiedad intelectual en los Servicios que no se haya incluido específicamente en las presentes Condiciones. Por ejemplo, las presentes Condiciones no le otorgan el derecho a utilizar ninguno de los derechos de autor, nombres comerciales, marcas comerciales, marcas de servicio, logotipos, nombres de dominio u otras características distintivas de la marca Mozilla. Los Servicios se distribuyen bajo la versión actual de la [Licencia Pública de Mozilla](http://www.mozilla.org/MPL/), a la que están sujetos.
 
 7. #### Vigencia y rescisión
 
