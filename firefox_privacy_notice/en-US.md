@@ -38,7 +38,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Secure Website Certificates: When you visit a secure website (i.e. "https"), Firefox will validate the website's certificate. This may involve communicating with a third-party status provider specified by the certificate. Firefox sends to this third-party information identifying the site's [certificate](https://support.mozilla.org/kb/secure-website-certificate). You can [change your preferences](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), but if you disable the online verification feature, Firefox cannot confirm the identity of the website you are visiting. Turning off this feature may increase the risk of your private information being intercepted. If you encounter an [untrusted connection](https://support.mozilla.org/kb/connection-untrusted-error-message), you can also choose to send Mozilla the associated certificates.
 
-	Firefox Forgery and Attack Protection: About twice per hour, Firefox downloads Google's SafeBrowsing lists to help block access to sites and downloads that are malicious or forged (Google's privacy policy is at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)). For downloaded executables that do not appear in these lists, Firefox may send metadata, including URLs associated with the downloaded file, to the SafeBrowsing service. Visit [https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) to learn more about or disable Safe Browsing. If you disable these features, Firefox cannot warn you of a potentially illegitimate or malicious websites or downloaded files.
+	Firefox Forgery and Attack Protection: About twice per hour, Firefox downloads Google's SafeBrowsing lists to help block access to sites and downloads that are malicious or forged (Google's privacy policy is at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)). For downloaded executables that do not appear in these lists, Firefox may send metadata, including URLs associated with the downloaded file, to the SafeBrowsing service. Visit [https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) to learn more about or disable Safe Browsing. If you disable these features, Firefox cannot warn you of potentially illegitimate or malicious websites or downloaded files.
 
 * Usage statistics (also called "Telemetry" in non-release builds)
   {: #telemetry .inproduct-link}
@@ -49,7 +49,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it. 
 
-*Tiles 
+* Tiles 
 
 Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information and tile specific data (e.g., position and size of grid). 
 
