@@ -3,7 +3,7 @@
 26 mars 2014
 {: datetime="2014-03-26" }
 
-Nous nous soucions de votre vie privée. Quand les Services en ligne de Firefox (les « Services ») envoient des informations à Mozilla (c'est nous), la [politique de confidentialité de Mozilla](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
+Nous nous soucions de votre vie privée. Quand les Services en ligne de Firefox (les « Services ») envoient des informations à Mozilla (c'est nous), la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) vous explique comment nous gérons ces informations.
 
 ## Voici ce que vous devriez savoir :
 
@@ -18,6 +18,6 @@ Nous utilisons les cookies, « clear GIFs » (pixels transparents ou pixels i
 
 * **Outils de données en ligne** : Nous utilisons des « outils de données en ligne », tels que les cookies, pixels invisibles ou transparents (« clear GIFs ») et les balises web (« web beacons ») pour que nos produits et services puissent disposer de cette fonctionnalité. Par exemple, les cookies facilitent les procédures d'inscription et d'authentification des utilisateurs. Nous utilisons aussi ces mêmes outils pour recueillir les données qui nous permettent d'améliorer nos produits et services. Les cookies, par exemple, nous permettent de fournir le service d'analyse web.
 
-* **Options** : Vous pouvez en savoir plus sur les cookies et leur gestion dans Firefox en cliquant [sur ce lien](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). Veuillez noter que certaines fonctions de nos produits et services et d'autres produits et services risquent de ne pas fonctionner correctement sans l'aide des cookies.
+* **Options** : Vous pouvez en savoir plus sur les cookies et leur gestion dans Firefox en cliquant [sur ce lien](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). Veuillez noter que certaines fonctions de nos produits et services et d'autres produits et services risquent de ne pas fonctionner correctement sans l'aide des cookies.
 
 
