@@ -1,4 +1,4 @@
-30. Oktober 2013
+30\. Oktober 2013
 
 Im folgenden Abschnitt finden Sie eine Zusammenfassung der weiter unten dargestellten geltenden Geschäftsbedingungen. Die Informationen, die Sie dem folgenden Abschnitt entnehmen können, dienen als Verständnishilfe. Sie sollten jedoch die gesamte Vereinbarung lesen, weil Sie sich durch Ihre Zustimmung mit den gesamten Nutzungsbedingungen einverstanden erklären und nicht nur mit der folgenden Zusammenfassung:
 

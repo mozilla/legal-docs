@@ -1,4 +1,4 @@
-30. října 2013
+30\. října 2013
 
 Tato úvodní část je souhrnem podmínek uvedených níže. Jejím úkolem je umožnit snazší porozumění; přečtěte si však celý dokument, jelikož když s ním souhlasíte, znamená to, že ho přijímáte celý, nejen toto shrnutí:
 

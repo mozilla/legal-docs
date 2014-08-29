@@ -1,4 +1,4 @@
-30. listopada 2013.
+30\. listopada 2013.
 
 Ovaj početni odjeljak sažetak je uvjeta navedenih u nastavku. Služi kao pomoć u razumijevanju - no obavezno pročitajte cijeli dokument, jer svojim pristankom označavate prihvaćanje cijelog ugovora, a ne samo sažetka:
 

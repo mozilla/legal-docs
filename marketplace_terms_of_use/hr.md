@@ -1,4 +1,4 @@
-3. srpnja 2013.
+3\. srpnja 2013.
 
 ### Sažetak
 
