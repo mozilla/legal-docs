@@ -1,4 +1,4 @@
-3. jul 2013
+3\. jul 2013
 
 ### Skraćeni prikaz
 

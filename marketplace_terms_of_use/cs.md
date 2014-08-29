@@ -1,4 +1,4 @@
-3. července 2013
+3\. července 2013
 
 ### Shrnutí
 
