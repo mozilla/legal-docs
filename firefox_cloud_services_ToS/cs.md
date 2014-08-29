@@ -31,7 +31,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozzila. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](http://www.mozilla.org/MPL/).
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozilla. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](http://www.mozilla.org/MPL/).
 
 7. #### Doba platnosti, ukončení
 
