@@ -69,7 +69,7 @@ Zodpovídáte za veškeré náhrady, zpětné poplatky a jiné zpětné platby k
 Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, tímto souhlasíte s následujícím:
 
 1. Tímto společnosti Mozilla a našim partnerům dáváte svolení poskytnout kupujícímu plnou náhradu ceny Obsahu Marketplace na váš účet v případě, že kupující požádá o vrácení do 30 minut po zakoupení nebo později (v případě potřeby podle platných právních předpisů). Po uplynutí této lhůty mohou být schváleny nebo odmítnuty žádosti o náhradu v závislosti na jejich zdůvodnění. Náhrady lze vyplatit po 30minutovém období pro náhradu, a to pokud bude zjištěno, že váš Obsah je vadný, obsahuje malware, porušuje naše zásady (včetně našich [kritérií kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), není dostupný nebo nefunguje dle informací; a 
-2. Společnost Mozzila může vyšetřit a určit odpovídající opatření pro abnormální objemy požadavků na náhradu pro případ konkrétního Obsahu Marketplace, aby se zajistila kvalita a přesnost uvádění obsahu.
+2. Společnost Mozilla může vyšetřit a určit odpovídající opatření pro abnormální objemy požadavků na náhradu pro případ konkrétního Obsahu Marketplace, aby se zajistila kvalita a přesnost uvádění obsahu.
 
 ## Podpora
 

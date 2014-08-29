@@ -256,7 +256,7 @@ que fueron previamente comprados o bajados por los usuarios.
 
 Mozilla no mantendra ninguna parte del Contenido del Marketplace en el Firefox
 Marketplace que usted haya eliminado del Firefox Marketplace y enviado a
-Mozzila una notificacion por escrito que dicha retirada se debio a (i) una
+Mozilla una notificacion por escrito que dicha retirada se debio a (i) una
 alegacion de infraccion o una infraccion real de cualquier derecho de autor,
 marca registrada, secreto comercial, imagen comercial, patente u otro derecho
 de propiedad intelectual de cualquier persona, (ii) una acusacion de
