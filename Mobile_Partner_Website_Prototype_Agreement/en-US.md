@@ -11,24 +11,24 @@ Since you would like to use the Mozilla Brand Kit to create a Prototype device, 
 
 2. **DEFINITIONS**
 
-	1. ”**Agreement**” means this Prototype Agreement.
-	2. “**Brand Kit”** means the documentation and materials containing specific Powered by Firefox OS Brand Assets and how to use them, which are available at <https://mobilepartners.mozilla.org/market>.
-	3. ”**B2G**” means Mozilla’s Boot2Gecko open source operating system.
-	4. **Firefox Marketplace**” means Mozilla’s online marketplace that allows registered developers in certain countries to distribute applications, services and content to customers for use on the Prototype. If you choose to integrate the Firefox Marketplace onto your Prototype, the Firefox Marketplace user experience and functionality will be available through the Firefox Marketplace application preinstalled by you on the Prototype.
-	5. ”**Mozilla**” means the Mozilla Corporation, a California corporation with offices at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America.
-	6. ”**Mozilla Brand Certification Process**” means the certification process to which you will submit your Prototype. The Mozilla Brand Certification Process may consist of several steps, including the Open Web Device Compliance Review Board.
-	7. “**Mozilla Indemnified Parties**” means Mozilla and its directors, parents, subsidiaries, affiliates, officers, employees, independent contractors and agents.
-	8. “**Mozilla Marks**” means any trademark, trade name, application for trademark registration, service mark, application for service mark registration, domain name, registration and application for registration relating to the same, a strapline or slogan, trade dress or look and feel or component, licensed, owned or controlled by Mozilla.
-	9. ”**Powered by Firefox OS Brand Assets**” means the brand assets as described in the Brand Kit. For clarity, the Powered by Firefox OS Brand Assets do not include the Firefox “globe” or “fox” logos. The Powered by Firefox OS Brand Assets contain Mozilla Marks.
-	10. “**Powered by Firefox OS Branding Requirements**” means the requirements described in Exhibit A that your Prototype device must meet before you can submit it for approval through the Mozilla Brand Certification Process.
-	11. ”**Prototype”** means a cellphone, television or tablet prototype device running B2G that you have created, in compliance with the Powered by Firefox OS Branding Requirements, for submission to the Mozilla Brand Certification Process.
+	1. "**Agreement**" means this Prototype Agreement.
+	2. "**Brand Kit**" means the documentation and materials containing specific Powered by Firefox OS Brand Assets and how to use them, which are available at <https://mobilepartners.mozilla.org/market>.
+	3. "**B2G**" means Mozilla's Boot2Gecko open source operating system.
+	4. "**Firefox Marketplace**" means Mozilla's online marketplace that allows registered developers in certain countries to distribute applications, services and content to customers for use on the Prototype. If you choose to integrate the Firefox Marketplace onto your Prototype, the Firefox Marketplace user experience and functionality will be available through the Firefox Marketplace application preinstalled by you on the Prototype.
+	5. "**Mozilla**" means the Mozilla Corporation, a California corporation with offices at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America.
+	6. "**Mozilla Brand Certification Process**" means the certification process to which you will submit your Prototype. The Mozilla Brand Certification Process may consist of several steps, including the Open Web Device Compliance Review Board.
+	7. "**Mozilla Indemnified Parties**" means Mozilla and its directors, parents, subsidiaries, affiliates, officers, employees, independent contractors and agents.
+	8. "**Mozilla Marks**" means any trademark, trade name, application for trademark registration, service mark, application for service mark registration, domain name, registration and application for registration relating to the same, a strapline or slogan, trade dress or look and feel or component, licensed, owned or controlled by Mozilla.
+	9. "**Powered by Firefox OS Brand Assets**" means the brand assets as described in the Brand Kit. For clarity, the Powered by Firefox OS Brand Assets do not include the Firefox "globe" or "fox" logos. The Powered by Firefox OS Brand Assets contain Mozilla Marks.
+	10. "**Powered by Firefox OS Branding Requirements**" means the requirements described in Exhibit A that your Prototype device must meet before you can submit it for approval through the Mozilla Brand Certification Process.
+	11. "**Prototype**" means a cellphone, television or tablet prototype device running B2G that you have created, in compliance with the Powered by Firefox OS Branding Requirements, for submission to the Mozilla Brand Certification Process.
 
 3. **LICENSES**
 
-	1. **Open Source Code**. B2G is made available to the public under the Mozilla Public License (MPL) and other open source licenses that are compatible with the MPL. You can find more information about B2G’s open source licenses by visiting here: <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Use of the Mozilla Brand Features and/or Mozilla Marks are not licensed under the MPL.
+	1. **Open Source Code**. B2G is made available to the public under the Mozilla Public License (MPL) and other open source licenses that are compatible with the MPL. You can find more information about B2G's open source licenses by visiting here: <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Use of the Mozilla Brand Features and/or Mozilla Marks are not licensed under the MPL.
 	2. **Trademark License for Prototypes**. The Brand Kit contains the Powered by Firefox OS Brand Assets and describes how to use them in conjunction with your Prototype. Mozilla hereby grants you a limited, revocable, non-exclusive license to use the Powered by Firefox OS Brand Assets for the sole purpose of developing a Prototype in preparation of submitting such Prototype for approval through the Mozilla Brand Certification Process. **You may not use the Powered by Firefox OS Brand Asset for any other purpose, including, but not limited to promotion of your entity, your Prototype or any relationship with Mozilla or distribution of a device using any Powered by Firefox OS Brand Assets.**
 
-4. **MOZILLA MARKS** You acknowledge Mozilla’s rights in the Mozilla Marks and agree that any use of Mozilla Marks by you shall inure to the sole benefit of Mozilla. You agree not to (a) challenge Mozilla’s ownership or use of; (b) register; or (c) infringe any Mozilla Marks, nor shall you incorporate any Mozilla Marks into your trademarks, service marks, names, Internet addresses, domain names, or any other similar designations. Regardless of the foregoing, should you acquire any rights in any Mozilla Marks by operation of law or otherwise, you will immediately and at no expense to Mozilla assign the rights to Mozilla along with any associated goodwill, applications, and/or registrations.
+4. **MOZILLA MARKS** You acknowledge Mozilla's rights in the Mozilla Marks and agree that any use of Mozilla Marks by you shall inure to the sole benefit of Mozilla. You agree not to (a) challenge Mozilla's ownership or use of; (b) register; or (c) infringe any Mozilla Marks, nor shall you incorporate any Mozilla Marks into your trademarks, service marks, names, Internet addresses, domain names, or any other similar designations. Regardless of the foregoing, should you acquire any rights in any Mozilla Marks by operation of law or otherwise, you will immediately and at no expense to Mozilla assign the rights to Mozilla along with any associated goodwill, applications, and/or registrations.
 
 5. **YOUR REPRESENTATIONS AND WARRANTIES**. You hereby represent and warrant that:
    	1. Your Prototype does not infringe any third party's intellectual property, privacy, publicity or other proprietary rights; and
@@ -36,11 +36,11 @@ Since you would like to use the Mozilla Brand Kit to create a Prototype device, 
 
 6. **NO WARRANTIES BY MOZILLA**. B2G, THE BRAND KIT, THE MOZILLA BRAND CERTIFICATION PROCESS, THE POWERED BY FIREFOX OS BRAND ASSETS AND OTHER INFORMATION IS DELIVERED BY MOZILLA "AS IS" AND ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, AND NON INFRINGEMENT, ARE HEREBY DISCLAIMED BY MOZILLA.
 
-7. **INDEMNIFICATION**. You agree to indemnify and hold harmless, and upon Mozilla’s request, defend, each Mozilla Indemnified Party from any and all claims, losses, liabilities, damages, taxes, expenses and costs, including without limitation, attorneys' fees and court costs (collectively, "**Losses**"), incurred by a Mozilla and arising from or related to any of the following: (i) your breach of any certification, covenant, obligation, representation or warranty in this Agreement; (ii) any claims that your Prototype (whether alone or as an essential part of a combination) violates or infringes any third party intellectual property or proprietary rights; (iii) your use of Mozilla Marks; or (iv) development and distribution of any Prototype.
+7. **INDEMNIFICATION**. You agree to indemnify and hold harmless, and upon Mozilla's request, defend, each Mozilla Indemnified Party from any and all claims, losses, liabilities, damages, taxes, expenses and costs, including without limitation, attorneys' fees and court costs (collectively, "**Losses**"), incurred by a Mozilla and arising from or related to any of the following: (i) your breach of any certification, covenant, obligation, representation or warranty in this Agreement; (ii) any claims that your Prototype (whether alone or as an essential part of a combination) violates or infringes any third party intellectual property or proprietary rights; (iii) your use of Mozilla Marks; or (iv) development and distribution of any Prototype.
 
 8. **NO CRITICAL USE**. B2G is not intended for use in the development of products in which errors or inaccuracies or the failure of the product, could lead to death, personal injury, or severe physical, economic or environmental damage. To the extent permitted by law, you hereby agree to indemnify, defend and hold harmless each Mozilla Indemnified Party from any Losses incurred by such Mozilla Indemnified Party by reason of any such use.
 
-9. **LIMITATION OF LIABILITY**. IN NO EVENT WILL THE MOZILLA INDEMNIFIED PARTIES BE LIABLE TO THE YOU FOR THE YOUR SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES REGARDLESS OF WHETHER MOZILLA WAS MADE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. Except as otherwise may be required by law, in no event shall Mozilla’s total liability to you under this Agreement for all damages in the aggregate exceed the amount of ten dollars ($10.00).
+9. **LIMITATION OF LIABILITY**. IN NO EVENT WILL THE MOZILLA INDEMNIFIED PARTIES BE LIABLE TO THE YOU FOR THE YOUR SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES REGARDLESS OF WHETHER MOZILLA WAS MADE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. Except as otherwise may be required by law, in no event shall Mozilla's total liability to you under this Agreement for all damages in the aggregate exceed the amount of ten dollars ($10.00).
 
 10. **Term and Termination**. This Agreement commences on the date you accept these terms and continues for a period of one (1) year. This Agreement shall continue for successive one (1) year periods unless terminated earlier pursuant to this Section.
     1. **For Convenience**. Either party may terminate this Agreement for convenience, for any or no reason, effective 30 days after providing the other party written notice of its intent to terminate.
@@ -48,7 +48,7 @@ Since you would like to use the Mozilla Brand Kit to create a Prototype device, 
 
 	    1. you breach this Agreement or make any unauthorized use of the Brand Kit, Powered by Firefox OS Brand Assets or Mozilla Marks;
 
-	    2. You commence an action alleging patent or other IPR infringement against the Mozilla Indemnified Parties or Mozilla’s community of volunteers.
+	    2. You commence an action alleging patent or other IPR infringement against the Mozilla Indemnified Parties or Mozilla's community of volunteers.
 
 	    3. become insolvent, dissolve or cease to do business, file for bankruptcy, or have filed against you a petition in bankruptcy.
 
@@ -70,7 +70,7 @@ Since you would like to use the Mozilla Brand Kit to create a Prototype device, 
 
 	7. **Governing Law; Venue**. This Agreement shall be governed by and construed in accordance with the laws of the State of California, excluding conflict of law rules and principles. The United Nations Convention on Contracts for the International Sale of Goods (1980) is specifically excluded and shall not apply. This Agreement is prepared, executed and will be interpreted in English only.
 
-		Any dispute arising out of or connected with this Agreement shall be subject to the sole and exclusive jurisdiction of the California courts, or if you are located or headquartered in: (a) Asia, resolved by arbitration in Hong Kong pursuant to the Hong Kong International Arbitration Centre (“**HKIAC**”) Administered Arbitration Rules (“**Rules**”) in force when the Notice of Arbitration is received by the HKIAC; or (b) outside the U.S. and not in Asia, administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules in New York, New York. Any such arbitration shall be conducted in English by three arbitrators. Nothing contained in this Section shall preclude either party from seeking or obtaining preliminary injunctive relief pending resolution of the dispute in issue. Each party acknowledges that any actual or threatened breach of this Agreement may constitute immediate, irreparable harm to the other party for which monetary damages would be an inadequate remedy, and that injunctive relief may be an appropriate remedy for such breach. Accordingly, in the event of any breach of this Agreement, the non- breaching party may seek immediate injunctive relief without the necessity of posting bonds.
+		Any dispute arising out of or connected with this Agreement shall be subject to the sole and exclusive jurisdiction of the California courts, or if you are located or headquartered in: (a) Asia, resolved by arbitration in Hong Kong pursuant to the Hong Kong International Arbitration Centre ("**HKIAC**") Administered Arbitration Rules ("**Rules**") in force when the Notice of Arbitration is received by the HKIAC; or (b) outside the U.S. and not in Asia, administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules in New York, New York. Any such arbitration shall be conducted in English by three arbitrators. Nothing contained in this Section shall preclude either party from seeking or obtaining preliminary injunctive relief pending resolution of the dispute in issue. Each party acknowledges that any actual or threatened breach of this Agreement may constitute immediate, irreparable harm to the other party for which monetary damages would be an inadequate remedy, and that injunctive relief may be an appropriate remedy for such breach. Accordingly, in the event of any breach of this Agreement, the non- breaching party may seek immediate injunctive relief without the necessity of posting bonds.
 
 	8. **Invalidity**. If any provision, or part thereof, in this Agreement, is held to be invalid, void or illegal, it shall be severed from the Agreement, and shall not affect, impair, or invalidate any other provision, or part thereof, and it shall be replaced by a provision which comes closest to such severed provision, or part thereof, in language and intent, without being invalid, void or illegal.
 	9. **Entire Agreement**. This Agreement constitutes the entire agreement between you and Mozilla relating to the subject matter hereof and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to its subject matter. This Agreement may be modified only: (a) by a written amendment signed by both parties, or (b) to the extent expressly permitted by this Agreement (for example, by Mozilla through email notice to you).
@@ -84,12 +84,12 @@ Powered by Firefox OS Branding Requirements
 ===========================================
 
 
-This document contains obligations you must meet in order to use the Powered by Firefox OS Brand Assets in conjunction with your Prototype. The names “Mozilla”, “Firefox” and “Firefox OS” identifies Mozilla’s brand and represents Mozilla’s values and ideals. This document may be updated from time to time by Mozilla to reflect current requirements.
+This document contains obligations you must meet in order to use the Powered by Firefox OS Brand Assets in conjunction with your Prototype. The names "Mozilla", "Firefox" and "Firefox OS" identifies Mozilla's brand and represents Mozilla's values and ideals. This document may be updated from time to time by Mozilla to reflect current requirements.
 
 
 | &nbsp; | **Powered by: Firefox OS** |
 | ------ | --------- |
-| **Brand Assets available** | Brand assets available: “Powered by Firefox OS” tier as described in the Brand Kit. |
+| **Brand Assets available** | Brand assets available: "Powered by Firefox OS" tier as described in the Brand Kit. |
 | **Your use cases** | Prototypes that meet minimum compatibility requirements |
 | **Requirements** | Prototypes must pass the following requirements: | 
 | |*Open Source License Compliance | 
@@ -99,29 +99,29 @@ This document contains obligations you must meet in order to use the Powered by 
 
 1. **Definitions**.
 
-    1. “**APIs**” are application programming interfaces that allow other programs, such as web apps, to interact with a given program.
+    1. "**APIs**" are application programming interfaces that allow other programs, such as web apps, to interact with a given program.
 
-    2. “**Open Web Device Compliance Review Board**” or “**OWDCRB**” means a third party entity created by Mozilla and other third parties to encourage API compatibility and performance baselines for Prototypes.
+    2. "**Open Web Device Compliance Review Board**" or "**OWDCRB**" means a third party entity created by Mozilla and other third parties to encourage API compatibility and performance baselines for Prototypes.
 
-    3. “**Mozilla Contact**” means a contact Mozilla may designate from time to time (you may also check the website for contact information).
+    3. "**Mozilla Contact**" means a contact Mozilla may designate from time to time (you may also check the website for contact information).
 
-    4. “**Web APIs**” are APIs in the operating system that are exposed for access by a web application and does not include private internal facing APIs not exposed for access by a web application.
+    4. "**Web APIs**" are APIs in the operating system that are exposed for access by a web application and does not include private internal facing APIs not exposed for access by a web application.
 
 2. **Branding Tiers**.
 
-    1. “**Powered by Firefox OS**”
+    1. "**Powered by Firefox OS**"
 
-        1. You may create a Prototype bearing the “Powered By Firefox OS” tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Branded Device.
+        1. You may create a Prototype bearing the "Powered By Firefox OS" tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Branded Device.
 
-        2. Should you wish to use the “Powered by Firefox OS” brand tier, you must adhere to the following requirements:
+        2. Should you wish to use the "Powered by Firefox OS" brand tier, you must adhere to the following requirements:
 
             1. Open Source License Compliance (requirements below)
 
             2. Performance and Web Compatibility Requirements (see below)
 
-	3. You must follow the Review and Approval Processes for “Powered by Firefox OS” described in Section 5 of this Exhibit A.
+	3. You must follow the Review and Approval Processes for "Powered by Firefox OS" described in Section 5 of this Exhibit A.
 
-	4. Once you have met the requirements above, you may use the applicable branding for the “Powered by Firefox OS” tier in the manner described in the Brand Kit. **NOTE**: You may ONLY use the assets detailed under “Powered by Firefox OS” tier in the Firefox OS Brand Identity Guidelines for a Prototype meeting this tier of branding and not any other Mozilla Marks or brand assets.
+	4. Once you have met the requirements above, you may use the applicable branding for the "Powered by Firefox OS" tier in the manner described in the Brand Kit. **NOTE**: You may ONLY use the assets detailed under "Powered by Firefox OS" tier in the Firefox OS Brand Identity Guidelines for a Prototype meeting this tier of branding and not any other Mozilla Marks or brand assets.
 
 3. **Open Source License Compliance**. Your distribution of any open source object or source code must comply with the requirements for each of the open source licenses governing that code. There is more information about the open source in Boot2Gecko available at <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Mozilla strongly recommends you getting involved in and consider making open source contributions back to the Boot 2 Gecko project. To find out more about how to get involved, please see the following resources:
 
@@ -141,7 +141,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     2. *Minimum Hardware Requirements*. All Prototypes must meet the following minimum hardware and software requirements:
 
-        1. **Mobile phones** (for “Firefox OS 1.x”):
+        1. **Mobile phones** (for "Firefox OS 1.x"):
 
             1. CPU: Minimum 1GHz, single-core, equivalent to ARM Cortex A5 processor
 
@@ -205,7 +205,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
 	        3. The default operation of any Mozilla Services integrated into the Prototypes (such as update data pings and crash reporting).
 
-	    5. You will not introduce any spyware or malware into the Prototype. Additionally, you will not use other means, without an end user’s consent, for you or any third parties to access a user’s personal information.
+	    5. You will not introduce any spyware or malware into the Prototype. Additionally, you will not use other means, without an end user's consent, for you or any third parties to access a user's personal information.
 
 	    6. You will not make any modifications to the Prototype that would cause the Firefox OS privacy policy (available at <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
 
@@ -217,7 +217,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
         2. You shall complete the Powered by Firefox OS Self Certification Checklist (to be made available here at: <https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>) and shall submit such checklist along with a sample of the Prototype being together with mocks of final packaging to the address specified by Mozilla.
 
-    2. *Of Marketing*. Mozilla provides the Brand Kit for the Prototype by the “Powered by Firefox OS” level of branding (“**Firefox OS Brand Toolkit**”). You may only use such assets provided under the Firefox OS Brand Toolkit in the manner described therein **with no modifications**. For clarity, nothing in the Firefox OS Co-branded Brand Toolkit described below may be used. Questions regarding the Firefox OS Brand Toolkit may be directed to the <fxos-crt@mozilla.com>.
+    2. *Of Marketing*. Mozilla provides the Brand Kit for the Prototype by the "Powered by Firefox OS" level of branding ("**Firefox OS Brand Toolkit**"). You may only use such assets provided under the Firefox OS Brand Toolkit in the manner described therein **with no modifications**. For clarity, nothing in the Firefox OS Co-branded Brand Toolkit described below may be used. Questions regarding the Firefox OS Brand Toolkit may be directed to the <fxos-crt@mozilla.com>.
 
     3. *Audit*. Mozilla shall have the right to audit your compliance with this Exhibit A. Mozilla shall advise you of any non-conformity with these Firefox OS Brand Requirements, and you will promptly update the Prototype to resolve such non-conformity. Mozilla has the right to take all action that it deems necessary to ensure that your activities under and uses of the Mozilla Marks are consistent with the reputation for quality and prestige of products bearing the Mozilla Marks, including any quality standards.
 
