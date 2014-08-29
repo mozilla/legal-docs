@@ -1,7 +1,7 @@
 # Firefox Cloud Services Privacy Notice
 
-March 26, 2014
-{: datetime="2014-03-26" }
+August 29, 2014
+{: datetime="2014-08-29" }
 
 We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we use that information.
 
@@ -11,6 +11,7 @@ You send us different types of data depending on what features of the Services y
 
 * **Firefox Account**: When you sign up for an account, we receive your email address and password.
 * **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.
+* **Find My Device**: If you enable Find My Device, we receive the approximate location of your device only when you sign into your Firefox Account and specifically request us to locate a connected device.  While signed in, you can see your device’s last known locations on a map.  We regularly delete these locations and will not collect further locations until you request us to.
 
 ---------------------------------------
 
