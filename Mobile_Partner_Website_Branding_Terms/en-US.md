@@ -12,29 +12,29 @@ Mozilla hereby grants you a license to use the Brand Kit and Powered by Firefox 
 
 2.  **DEFINITIONS**
 
-    2.1.  ”**Agreement**” means these Firefox OS Branding Terms and each Mozilla Brand Certification Letter issued to you by Mozilla.
+    2.1.  “**Agreement**” means these Firefox OS Branding Terms and each Mozilla Brand Certification Letter issued to you by Mozilla.
 
-    2.2.  “**Brand Kit”** means the documentation and materials containing specific Powered by Firefox OS Brand Assets and how to use them, which are available at <https://mobilepartners.mozilla.org/market>.
+    2.2.  “**Brand Kit**” means the documentation and materials containing specific Powered by Firefox OS Brand Assets and how to use them, which are available at <https://mobilepartners.mozilla.org/market>.
 
-    2.3.  ”**B2G**” means Mozilla’s Boot2Gecko open source operating system.
+    2.3.  “**B2G**” means Mozilla’s Boot2Gecko open source operating system.
 
-    2.4.  ”**Branded Device**” means a cell phone, television or tablet device powered by B2G that has (i) successfully completed the Mozilla Brand Certification Process and for which you have received a Branded Device ID, (ii) is branded with Powered by Firefox OS Brand Assets, (iii) is manufactured by you or on your behalf, and (iv) complies with and is distributed in accordance with all the terms and conditions of this Agreement.
+    2.4.  “**Branded Device**” means a cell phone, television or tablet device powered by B2G that has (i) successfully completed the Mozilla Brand Certification Process and for which you have received a Branded Device ID, (ii) is branded with Powered by Firefox OS Brand Assets, (iii) is manufactured by you or on your behalf, and (iv) complies with and is distributed in accordance with all the terms and conditions of this Agreement.
 
-    2.5.  ”**Branded Device ID**” means a Mozilla provided identifier for your Branded Device.
+    2.5.  “**Branded Device ID**” means a Mozilla provided identifier for your Branded Device.
 
-    2.6.  ”**Certification Date**” is the date identified in your Mozilla Brand Certification Letter.
+    2.6.  “**Certification Date**” is the date identified in your Mozilla Brand Certification Letter.
 
     2.7.  “**Firefox Marketplace**” means Mozilla’s online marketplace that allows registered developers in certain countries to distribute applications, services and content to customers for use on Branded Devices. If you choose to integrate the Firefox Marketplace onto your Branded Device, the Firefox Marketplace user experience and functionality will be available through the Firefox Marketplace application preinstalled by you on Branded Devices.
 
     2.8.  “**Intellectual Property Rights**” or “**IPR**” will mean all, and any applications for all, rights, title and interest in patents, trademarks, service marks, trade and business names, rights in design, utility models, copyright, database rights and all other intellectual property rights, whether registered or not and existing anywhere in the world.
 
-    2.9.  ”**Mozilla**” means the Mozilla Corporation, a California corporation with offices at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America.
+    2.9.  “**Mozilla**” means the Mozilla Corporation, a California corporation with offices at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America.
 
-    2.10. ”**Powered by Firefox OS Brand Assets**” means the “Firefox OS” word mark as described in the Brand Kit. For clarity, the Powered by Firefox OS Brand Assets do not include the Firefox “globe” logo or “young fox” logo.
+    2.10. “**Powered by Firefox OS Brand Assets**” means the “Firefox OS” word mark as described in the Brand Kit. For clarity, the Powered by Firefox OS Brand Assets do not include the Firefox “globe” logo or “young fox” logo.
 
-    2.11. ”**Mozilla Brand Certification Process**” means the certification process to which your Branded Device must comply.
+    2.11. “**Mozilla Brand Certification Process**” means the certification process to which your Branded Device must comply.
 
-    2.12. ”**Mozilla Brand Certification Letter”** means a Mozilla issued certification letter notifying you that your Branded Device is compliant and that you may exercise the rights in this Agreement.
+    2.12. “**Mozilla Brand Certification Letter**” means a Mozilla issued certification letter notifying you that your Branded Device is compliant and that you may exercise the rights in this Agreement.
 
     2.13. “**Mozilla Indemnified Parties**” means Mozilla and its directors, parents, subsidiaries, affiliates, officers, employees, independent contractors and agents.
 
@@ -42,7 +42,7 @@ Mozilla hereby grants you a license to use the Brand Kit and Powered by Firefox 
 
     2.15. “**Powered by Firefox OS Branding Requirements**” means the requirements your Branded Device must meet to comply with the terms of this Distribution Agreement as described in Exhibit A.
 
-    2.16. ”**Territories**” means either (i) the Firefox Marketplace supported territories if your Branded Device includes the Firefox Marketplace or (ii) worldwide, if your Branded Device does not include the Firefox Marketplace.
+    2.16. “**Territories**” means either (i) the Firefox Marketplace supported territories if your Branded Device includes the Firefox Marketplace or (ii) worldwide, if your Branded Device does not include the Firefox Marketplace.
 
 3.  **LICENSES**
 
@@ -80,11 +80,11 @@ Mozilla hereby grants you a license to use the Brand Kit and Powered by Firefox 
 
     12.2.  **By Mozilla**. Mozilla may terminate this Agreement immediately upon notice to you if:
 
-        12.2.1.  You breach this Agreement or make any unauthorized use of the Brand Kit or Powered by Firefox OS Brand Assets.
+      12.2.1.  You breach this Agreement or make any unauthorized use of the Brand Kit or Powered by Firefox OS Brand Assets.
 
-        12.2.2.  You commence an action alleging patent or other IPR infringement against the Mozilla Indemnified Parties or Mozilla’s community of volunteers.
+      12.2.2.  You commence an action alleging patent or other IPR infringement against the Mozilla Indemnified Parties or Mozilla’s community of volunteers.
 
-        12.2.3.  You become insolvent, dissolve or cease to do business, file for bankruptcy, or have filed against you a petition in bankruptcy.
+      12.2.3.  You become insolvent, dissolve or cease to do business, file for bankruptcy, or have filed against you a petition in bankruptcy.
 
     12.3.  **Effect of Termination**. Upon the termination of this Agreement for any reason, you agree to immediately cease all use of the Brand Kit and Powered by Firefox OS Brand Assets. Sections 4-11, and 13 as applicable shall survive any termination or expiration of this Agreement for any reason.
 
@@ -106,7 +106,7 @@ Mozilla hereby grants you a license to use the Brand Kit and Powered by Firefox 
 
     13.8.  **Governing Law; Venue**. This Agreement shall be governed by and construed in accordance with the laws of the State of California, excluding conflict of law rules and principles. The United Nations Convention on Contracts for the International Sale of Goods (1980) is specifically excluded and shall not apply. This Agreement is prepared, executed and will be interpreted in English only.
 
-        Any dispute arising out of or connected with this Agreement shall be subject to the sole and exclusive jurisdiction of the California courts, or if you are located or headquartered in: (a) Asia, resolved by arbitration in Hong Kong pursuant to the Hong Kong International Arbitration Centre (“**HKIAC**”) Administered Arbitration Rules (“**Rules**”) in force when the Notice of Arbitration is received by the HKIAC; or (b) outside the U.S. and not in Asia, administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules in New York, New York. Any such arbitration shall be conducted in English by three arbitrators. Nothing contained in this Section shall preclude either party from seeking or obtaining preliminary injunctive relief pending resolution of the dispute in issue. Each party acknowledges that any actual or threatened breach of this Agreement may constitute immediate, irreparable harm to the other party for which monetary damages would be an inadequate remedy, and that injunctive relief may be an appropriate remedy for such breach. Accordingly, in the event of any breach of this Agreement, the non-breaching party may seek immediate injunctive relief without the necessity of posting bonds.
+      Any dispute arising out of or connected with this Agreement shall be subject to the sole and exclusive jurisdiction of the California courts, or if you are located or headquartered in: (a) Asia, resolved by arbitration in Hong Kong pursuant to the Hong Kong International Arbitration Centre (“**HKIAC**”) Administered Arbitration Rules (“**Rules**”) in force when the Notice of Arbitration is received by the HKIAC; or (b) outside the U.S. and not in Asia, administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules in New York, New York. Any such arbitration shall be conducted in English by three arbitrators. Nothing contained in this Section shall preclude either party from seeking or obtaining preliminary injunctive relief pending resolution of the dispute in issue. Each party acknowledges that any actual or threatened breach of this Agreement may constitute immediate, irreparable harm to the other party for which monetary damages would be an inadequate remedy, and that injunctive relief may be an appropriate remedy for such breach. Accordingly, in the event of any breach of this Agreement, the non-breaching party may seek immediate injunctive relief without the necessity of posting bonds.
 
     13.9.  **Invalidity**. If any provision, or part thereof, in this Agreement, is held to be invalid, void or illegal, it shall be severed from the Agreement, and shall not affect, impair, or invalidate any other provision, or part thereof, and it shall be replaced by a provision which comes closest to such severed provision, or part thereof, in language and intent, without being invalid, void or illegal.
 
@@ -124,10 +124,7 @@ This document contains obligations you must meet in order to use the Powered by 
 | ------------- | ------------- |
 | **Brand Assets available** | Brand assets available: “Powered by Firefox OS” tier as described in the Brand Kit. |
 | **Your use cases** | Branded Devices that meet minimum compatibility requirements |
-| **Requirements** | Branded Devices must pass the following requirements:
-| |* Open Source License Compliance |
-| |* Pass the Open Web Device Compliance Review Board |
-| |* Meet Performance and Compatibility Requirements |
+| **Requirements** | Branded Devices must pass the following requirements:<ul><li>Open Source License Compliance</li><li>Pass the Open Web Device Compliance Review Board</li><li>”Meet Performance and Compatibility Requirements</li></ul> |
 | **Firefox Marketplace and Mozilla services** | Firefox Marketplace and other Mozilla Services available. |
 
 1.  **Definitions**.
@@ -144,17 +141,17 @@ This document contains obligations you must meet in order to use the Powered by 
 
     a.  “**Powered by Firefox OS**”
 
-        a.i.  You may create Branded Devices bearing the “Powered By Firefox OS” tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Branded Device.
+      a.i.  You may create Branded Devices bearing the “Powered By Firefox OS” tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Branded Device.
 
-        a.ii.  Should you wish to use the “Powered by Firefox OS” brand tier, you must adhere to the following requirements:
+      a.ii.  Should you wish to use the “Powered by Firefox OS” brand tier, you must adhere to the following requirements:
 
-            a.ii.1.  Open Source License Compliance (requirements below)
+      a.ii.1.  Open Source License Compliance (requirements below)
 
-            a.ii.2.  Performance and Web Compatibility Requirements (see below)
+      a.ii.2.  Performance and Web Compatibility Requirements (see below)
 
-        a.iii.  You must follow the Review and Approval Processes for “Powered by Firefox OS” described in Section 5 of this Exhibit A.
+      a.iii.  You must follow the Review and Approval Processes for “Powered by Firefox OS” described in Section 5 of this Exhibit A.
 
-        a.iv.  Once you have met the requirements above, you may use the applicable branding for the “Powered by Firefox OS” tier in the manner described in the Brand Kit. **NOTE**: You may ONLY use the assets detailed under “Powered by Firefox OS” tier in the Firefox OS Brand Identity Guidelines for Branded Devices meeting this tier of branding and not any other Mozilla Marks or brand assets.
+      a.iv.  Once you have met the requirements above, you may use the applicable branding for the “Powered by Firefox OS” tier in the manner described in the Brand Kit. **NOTE**: You may ONLY use the assets detailed under “Powered by Firefox OS” tier in the Firefox OS Brand Identity Guidelines for Branded Devices meeting this tier of branding and not any other Mozilla Marks or brand assets.
 
 3.  **Open Source License Compliance**. Your distribution of any open source object or source code must comply with the requirements for each of the open source licenses governing that code. There is more information about the open source in Boot2Gecko available at <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Mozilla strongly recommends you getting involved in and consider making open source contributions back to the Boot 2 Gecko project. To find out more about how to get involved, please see the following resources:
 
@@ -166,7 +163,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     d.  <https://wiki.mozilla.org/B2G/Architecture>
 
-    d.  <https://wiki.mozilla.org/WebAPI>
+    e.  <https://wiki.mozilla.org/WebAPI>
 
 4.  **Platform Compatibility and Performance**. Should you wish to create Branded Devices, they must adhere to the following requirements:
 
@@ -174,81 +171,81 @@ This document contains obligations you must meet in order to use the Powered by 
 
     B.  *Minimum Hardware Requirements*. All Branded Devices must meet the following minimum hardware and software requirements:
 
-        a.  **Mobile phones** (for “Firefox OS 1.x”):
+    a.  **Mobile phones** (for “Firefox OS 1.x”):
 
-            a.i.  CPU: Minimum 1GHz, single-core, equivalent to ARM Cortex A5 processor
+      a.i.  CPU: Minimum 1GHz, single-core, equivalent to ARM Cortex A5 processor
 
-            a.ii.  Storage: 256MB
+      a.ii.  Storage: 256MB
 
-            a.iii.  System RAM: 128MB
+      a.iii.  System RAM: 128MB
 
-            a.iv.  Display: 262k color, 3.5-inch HVGA (480x320) capacitive multi-touch display (minimum two points)
+      a.iv.  Display: 262k color, 3.5-inch HVGA (480x320) capacitive multi-touch display (minimum two points)
 
-            a.v.  GPU: WebGL-capable GPU capable of rendering H.264 video at 30FPS
+      a.v.  GPU: WebGL-capable GPU capable of rendering H.264 video at 30FPS
 
-            a.vi.  Hardware Buttons: Home, Power, Volume up, Volume down. Back, Menu, and Search hardware buttons may NOT be present on a Firefox OS Co-branded.
+      a.vi.  Hardware Buttons: Home, Power, Volume up, Volume down. Back, Menu, and Search hardware buttons may NOT be present on a Firefox OS Co-branded.
 
-        b.  **Other devices (televisions and tablets)**: Requirements for other devices are to be approved by Mozilla in writing.
+    b.  **Other devices (televisions and tablets)**: Requirements for other devices are to be approved by Mozilla in writing.
 
     C.  *Web API Compatibility*
 
-        a.  Requirement: Because cross compatibility of Firefox OS is critical to the success of the platform, without obtaining prior written approval from Mozilla, you shall not add, remove or modify any default functionality regarding the compatibility of web sites and web applications in Branded Devices. Mozilla welcomes innovation across the open source Firefox OS platform. If you see a need to add, remove or modify Web APIs, you will reach out to your Mozilla Contact to discuss alternatives or work with Mozilla to standardize such changes in a mutually acceptable way.
+      a.  Requirement: Because cross compatibility of Firefox OS is critical to the success of the platform, without obtaining prior written approval from Mozilla, you shall not add, remove or modify any default functionality regarding the compatibility of web sites and web applications in Branded Devices. Mozilla welcomes innovation across the open source Firefox OS platform. If you see a need to add, remove or modify Web APIs, you will reach out to your Mozilla Contact to discuss alternatives or work with Mozilla to standardize such changes in a mutually acceptable way.
 
-        b.  Clarifications: The following are further clarifications regarding the foregoing requirement:
+      b.  Clarifications: The following are further clarifications regarding the foregoing requirement:
 
-            b.i.  Unless approved in writing by Mozilla (including via email), you shall not add, remove or modify any APIs found in files in Branded Devices which are exposed to web content, including certified, privileged or regular apps and general web pages.  For example:
+      b.i.  Unless approved in writing by Mozilla (including via email), you shall not add, remove or modify any APIs found in files in Branded Devices which are exposed to web content, including certified, privileged or regular apps and general web pages.  For example:
 
-                b.i.1.  You shall not modify APIs declared in files with "idl" or "webidl" extensions. 
+      b.i.1.  You shall not modify APIs declared in files with "idl" or "webidl" extensions. 
 
-                b.i.2.  You shall not add, remove, or modify HTML elements and their attributes, other Web languages such as SVG and MathML, CSS properties, application manifests, permissions, and any other similar functionality available to web pages and applications.
+      b.i.2.  You shall not add, remove, or modify HTML elements and their attributes, other Web languages such as SVG and MathML, CSS properties, application manifests, permissions, and any other similar functionality available to web pages and applications.
 
-            b.ii.  You shall not modify the default user agent string and shall ensure the Gecko user agent string is accurate to the appropriate version of Gecko. More information may be found here:
+      b.ii.  You shall not modify the default user agent string and shall ensure the Gecko user agent string is accurate to the appropriate version of Gecko. More information may be found here:
 
-                b.ii.1.  [https://wiki.mozilla.org/B2G/User\_Agent/OEM\_Changes\_Policy](https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy)
+      b.ii.1.  [https://wiki.mozilla.org/B2G/User\_Agent/OEM\_Changes\_Policy](https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy)
 
-                b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+      b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
 
-            b.iii.  You shall not modify the behavior of existing Web APIs. For example, you shall not change the semantics of a function or its side effects.
+      b.iii.  You shall not modify the behavior of existing Web APIs. For example, you shall not change the semantics of a function or its side effects.
 
-            b.iv.  You shall not remove any functionality found in existing Web APIs (such as removing media formats, HTML elements, DOM properties or methods, etc.) or any Web APIs themselves.
+      b.iv.  You shall not remove any functionality found in existing Web APIs (such as removing media formats, HTML elements, DOM properties or methods, etc.) or any Web APIs themselves.
 
     D.  *Ongoing Compatibility Through Updates*. You shall ensure that Branded Devices are provided with the following update requirements for a period of at least **1 year** (or longer if required by applicable law) from the first commercial launch date of each applicable such Branded Device:
 
-        Mozilla will release source code for upgrades and updates, including any security fixes, according to the release schedule and process it generally uses for software development. For each such update or upgrade, you will comply with the update testing, certification and deployment schedule set forth in Appendix 1 below. All updates will be made available by Mozilla in source code form and you will complete all builds into executable form. For any update deployed by you, you will give end users notice and choice over whether to accept such update, including without limitation by the end user enabling default updating. This requirement shall survive any termination or expiration of the Agreement.
+      Mozilla will release source code for upgrades and updates, including any security fixes, according to the release schedule and process it generally uses for software development. For each such update or upgrade, you will comply with the update testing, certification and deployment schedule set forth in Appendix 1 below. All updates will be made available by Mozilla in source code form and you will complete all builds into executable form. For any update deployed by you, you will give end users notice and choice over whether to accept such update, including without limitation by the end user enabling default updating. This requirement shall survive any termination or expiration of the Agreement.
 
     E.  *Compatibility Through not Modifying Permission Architecture or Data Management Features*. You will not make modifications to Branded Devices in such a way that any security or data management feature (or their respective default configurations) are changed, including:
 
-        a.  Branded Devices must implement the permission model and trust levels documented here:
+    a.  Branded Devices must implement the permission model and trust levels documented here:
 
-            a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+      a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-            a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+      a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
 
-        b.  Branded Devices must gate access to Web APIs by appropriate permission checks. Current permissions checks are documented here:
+    b.  Branded Devices must gate access to Web APIs by appropriate permission checks. Current permissions checks are documented here:
 
-            b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+      b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
 
-        c.  Applications that are pre-installed on a Branded Device that are derived from the Firefox Marketplace should ship with the app signing certificate provided for Firefox Marketplace and pre-installed applications that do not derive from the Firefox Marketplace must not use the Firefox Marketplace signing certificate.
+    c.  Applications that are pre-installed on a Branded Device that are derived from the Firefox Marketplace should ship with the app signing certificate provided for Firefox Marketplace and pre-installed applications that do not derive from the Firefox Marketplace must not use the Firefox Marketplace signing certificate.
 
-        d.  You must not modify the operation of the following features in Branded Devices:
+    d.  You must not modify the operation of the following features in Branded Devices:
 
-            d.i.  Do Not Track flag
+      d.i.  Do Not Track flag
 
-            d.ii.  The user-controlled clearing of application data (including, without limitation, for any pre-installed applications)
+      d.ii.  The user-controlled clearing of application data (including, without limitation, for any pre-installed applications)
 
-            d.iii.  The default operation of any Mozilla Services integrated into the Branded Devices (such as update data pings and crash reporting).
+      d.iii.  The default operation of any Mozilla Services integrated into the Branded Devices (such as update data pings and crash reporting).
 
-        e.  You will not introduce any spyware or malware into Branded Devices. Additionally, you will not use other means, without an end user’s consent, for you or any third parties to access a user’s personal information.
+    e.  You will not introduce any spyware or malware into Branded Devices. Additionally, you will not use other means, without an end user’s consent, for you or any third parties to access a user’s personal information.
 
-        f.  You will not make any modifications to Branded Devices that would cause the Firefox OS privacy policy (available at <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
+    f.  You will not make any modifications to Branded Devices that would cause the Firefox OS privacy policy (available at <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
 
 5.  **Review Process; Audit.**
 
     A.  *Of Devices/Builds*.
 
-        a.  When available, you shall complete the OWDCRB certification process (available at <https://www.openwebdevice.org>).
+      a.  When available, you shall complete the OWDCRB certification process (available at <https://www.openwebdevice.org>).
 
-        b.  You shall complete the Powered by Firefox OS Self Certification Checklist (to be made available here at: <https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>) and shall submit such checklist along with a sample of the Branded Device being together with mocks of final packaging to the address specified by Mozilla.
+      b.  You shall complete the Powered by Firefox OS Self Certification Checklist (to be made available here at: <https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>) and shall submit such checklist along with a sample of the Branded Device being together with mocks of final packaging to the address specified by Mozilla.
 
     B.  *Of Marketing*. Mozilla provides the Brand Kit for Branded Devices by the “Powered by Firefox OS” level of branding (“**Firefox OS Brand Toolkit**”). You may only use such assets provided under the Firefox OS Brand Toolkit in the manner described therein **with no modifications**. For clarity, nothing in the Firefox OS Co-branded Brand Toolkit described below may be used. Questions regarding the Firefox OS Brand Toolkit may be directed to the Mozilla Contact.
 
