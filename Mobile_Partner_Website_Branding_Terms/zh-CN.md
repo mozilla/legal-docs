@@ -34,7 +34,7 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
     2.11. “**Mozilla 品牌认证流程**”指的是您的品牌定制设备必须遵守的认证流程。
 
-    2.12. “**Mozilla 品牌认证书”**指的是 Mozilla 签发的一种认证书，用于通知您的品牌定制设备符合要求，您可以行使本协议中的权利。
+    2.12. “**Mozilla 品牌认证书**”指的是 Mozilla 签发的一种认证书，用于通知您的品牌定制设备符合要求，您可以行使本协议中的权利。
 
     2.13. “**Mozilla 受补偿方**”指的是 Mozilla 及其董事、母公司、子公司、联营公司、官员、雇员、独立承包商和代理。
 
@@ -80,11 +80,11 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
     12.2.  **由 Mozilla 终止**。如果出现以下情况，Mozilla 可以立即通知您终止本协议：
 
-        12.2.1.  您违反了本协议或在未经授权的情况下使用 Brand Kit 或 Powered by Firefox OS 品牌资产。
+      12.2.1.  您违反了本协议或在未经授权的情况下使用 Brand Kit 或 Powered by Firefox OS 品牌资产。
 
-        12.2.2.  您以专利侵权或侵犯其他知识产权为由起诉 Mozilla 受补偿方或 Mozilla 志愿者社区。
+      12.2.2.  您以专利侵权或侵犯其他知识产权为由起诉 Mozilla 受补偿方或 Mozilla 志愿者社区。
 
-        12.2.3.  您无力偿还债务、被迫解散公司或停止业务，申请破产或被起诉进行破产申请。
+      12.2.3.  您无力偿还债务、被迫解散公司或停止业务，申请破产或被起诉进行破产申请。
 
     12.3.  **终止效力**。一旦本协议出于任何原因终止，您同意立即停止使用所有的 Brand Kit 和 Powered by Firefox OS 品牌资产。在本协议因故终止或到期后，条款 4-11 和 13 仍然有效（如适用）。
 
@@ -106,7 +106,7 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
     13.8.  **管辖法律；审判地**。本协议受加利福尼亚州的法律管辖并按其解释，不需要考虑法律规则和原则冲突。联合国国际货物销售合同公约 (1980) 不适用，已明确排除在外。本协议以英文拟定、执行，并将以英文版为准进行解释。
 
-        因本协议产生的或与本协议有关的任何争议受加利福尼亚州法院的专属管辖；如果您位于或总部设在以下地区：(a) 亚洲，当香港国际仲裁中心（“**HKIAC**”）收到仲裁通知后，应依据 HKIAC 现行的机构仲裁规则（“**规则**”）在香港以仲裁的方式解决；或 (b) 在美国境外且不在亚洲，应依据国际争议解决中心制定的国际仲裁规则由国际争议解决中心在纽约市受理。任何此类仲裁程序都应由三位仲裁员以英文进行。本条款中包含的任何内容都不应阻碍任何一方针对尚在审理的争议寻求或获取初步禁令救济。各缔约方应确认，任何实际违反或可能违反本协议可能会对另一方构成直接的、无法弥补的伤害，无法通过金钱补偿时，对于此类违约，禁令救济可能是适当的弥补方式。因此，如果出现违反本协议的情况，非违约方可以立即寻求禁令救济，无需提交保函。
+      因本协议产生的或与本协议有关的任何争议受加利福尼亚州法院的专属管辖；如果您位于或总部设在以下地区：(a) 亚洲，当香港国际仲裁中心（“**HKIAC**”）收到仲裁通知后，应依据 HKIAC 现行的机构仲裁规则（“**规则**”）在香港以仲裁的方式解决；或 (b) 在美国境外且不在亚洲，应依据国际争议解决中心制定的国际仲裁规则由国际争议解决中心在纽约市受理。任何此类仲裁程序都应由三位仲裁员以英文进行。本条款中包含的任何内容都不应阻碍任何一方针对尚在审理的争议寻求或获取初步禁令救济。各缔约方应确认，任何实际违反或可能违反本协议可能会对另一方构成直接的、无法弥补的伤害，无法通过金钱补偿时，对于此类违约，禁令救济可能是适当的弥补方式。因此，如果出现违反本协议的情况，非违约方可以立即寻求禁令救济，无需提交保函。
 
     13.9.  **无效**。如果本协议的任何条款或部分被认定为无效、失效或不合法，则应从本协议中分离出来，不应影响、损害或废除任何其他条款或其中一部分，应由与分离的条款或其中一部分在语言和意图上最接近的条款明确取代，而不视为无效、失效或不合法。
 
@@ -141,17 +141,17 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
     a.  “**Powered by Firefox OS**”
 
-        a.i.  您可以生产 Brand Kit 中规定的标有“Powered By Firefox OS”品牌分层的品牌定制设备。尽管 Mozilla 鼓励按照 Firefox OS 品牌识别准则和本协议大量使用 Mozilla 标识，但此类使用不应表现为向最终用户或公众充分表明 Mozilla 是品牌定制设备的来源/提供商。
+      a.i.  您可以生产 Brand Kit 中规定的标有“Powered By Firefox OS”品牌分层的品牌定制设备。尽管 Mozilla 鼓励按照 Firefox OS 品牌识别准则和本协议大量使用 Mozilla 标识，但此类使用不应表现为向最终用户或公众充分表明 Mozilla 是品牌定制设备的来源/提供商。
 
-        a.ii.  如果您希望使用“Powered by Firefox OS”品牌分层，您必须遵守以下要求：
+      a.ii.  如果您希望使用“Powered by Firefox OS”品牌分层，您必须遵守以下要求：
 
-            a.ii.1.  开源许可证合规（请参见下面的要求）
+      a.ii.1.  开源许可证合规（请参见下面的要求）
 
-            a.ii.2.  性能和 Web 兼容性要求（请参见下文）
+      a.ii.2.  性能和 Web 兼容性要求（请参见下文）
 
-        a.iii.  您务必遵守附录 A 第 5 条中规定的“Powered by Firefox OS”的审核与批准流程。
+      a.iii.  您务必遵守附录 A 第 5 条中规定的“Powered by Firefox OS”的审核与批准流程。
 
-        a.iv.  在符合上述要求后，您可以按 Brand Kit 中规定的方式将适用的品牌用于“Powered by Firefox OS”分层。**注意**：您只能将 Firefox OS 品牌标识准则中“Powered by Firefox OS”分层下详细说明的资产用于符合此品牌分层的品牌定制设备，而非其他 Mozilla 标识或品牌资产。
+      a.iv.  在符合上述要求后，您可以按 Brand Kit 中规定的方式将适用的品牌用于“Powered by Firefox OS”分层。**注意**：您只能将 Firefox OS 品牌标识准则中“Powered by Firefox OS”分层下详细说明的资产用于符合此品牌分层的品牌定制设备，而非其他 Mozilla 标识或品牌资产。
 
 3.  **开源许可证合规**。分销任何开源对象或源代码必须符合管辖该代码的每个开源许可证的要求。有关 Boot2Gecko 中开源的更多信息，请参见 <https://wiki.mozilla.org/Boot2Gecko/Licensing>。Mozilla 强烈建议您参与 Boot 2 Gecko 项目并考虑为其做出开源贡献。如需了解如何参与的更多信息，请参见下列资源：
 
@@ -171,81 +171,81 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
     B.  *最低硬件要求*。所有品牌定制设备必须符合下列最低硬件和软件要求：
 
-        a.  **手机**（适用于“Firefox OS 1.x”）：
+      a.  **手机**（适用于“Firefox OS 1.x”）：
 
-            a.i.  CPU：最低 1GHz，单核，相当于 ARM Cortex A5 处理器
+      a.i.  CPU：最低 1GHz，单核，相当于 ARM Cortex A5 处理器
 
-            a.ii.  存储空间：256MB
+      a.ii.  存储空间：256MB
 
-            a.iii.  系统 RAM：128MB
+      a.iii.  系统 RAM：128MB
 
-            a.iv.  显示器：262k 彩色、3.5 英寸 HVGA (480x320) 电容式多触点显示屏（最少两个点）
+      a.iv.  显示器：262k 彩色、3.5 英寸 HVGA (480x320) 电容式多触点显示屏（最少两个点）
 
-            a.v.  GPU：启用 WebGL 的 GPU，应能够以 30FPS 呈现 H.264 视频
+      a.v.  GPU：启用 WebGL 的 GPU，应能够以 30FPS 呈现 H.264 视频
 
-            a.vi.  硬件按钮：Home（主屏幕）、Power（电源）、Volume up（增大音量）、Volume down（减小音量）。Back（返回）、Menu（菜单）和 Search（搜索）硬件按钮可能不会出现在 Firefox OS 联合品牌上。
+      a.vi.  硬件按钮：Home（主屏幕）、Power（电源）、Volume up（增大音量）、Volume down（减小音量）。Back（返回）、Menu（菜单）和 Search（搜索）硬件按钮可能不会出现在 Firefox OS 联合品牌上。
 
-        b.  **其他设备（电视和平板电脑）**：其他设备的要求须经 Mozilla 书面批准。
+      b.  **其他设备（电视和平板电脑）**：其他设备的要求须经 Mozilla 书面批准。
 
     C.  *Web API 兼容性*
 
-        a.  要求：由于 Firefox OS 的交叉兼容性对于平台的成功至关重要，因此，事先未获得 Mozilla 的书面批准，您不得添加、删除或修改与品牌定制设备中的网站和 web 应用程序兼容性有关的任何默认功能。Mozilla 欢迎跨开源 Firefox OS 平台的创新。如果您认为需要添加、删除或修改 Web API，您需要联系您的 Mozilla 联系人，讨论替代方案或与 Mozilla 合作，以双方接受的方式标准化此类更改。
+      a.  要求：由于 Firefox OS 的交叉兼容性对于平台的成功至关重要，因此，事先未获得 Mozilla 的书面批准，您不得添加、删除或修改与品牌定制设备中的网站和 web 应用程序兼容性有关的任何默认功能。Mozilla 欢迎跨开源 Firefox OS 平台的创新。如果您认为需要添加、删除或修改 Web API，您需要联系您的 Mozilla 联系人，讨论替代方案或与 Mozilla 合作，以双方接受的方式标准化此类更改。
 
-        b.  澄清：下文进一步澄清了上述要求：
+      b.  澄清：下文进一步澄清了上述要求：
 
-            b.i.  除非获得 Mozilla 的书面批准（包括通过电子邮件），否则您不得添加、删除或修改在品牌定制设备的文件（可访问 web 内容，包括认证的应用、特权应用或常规应用以及一般网页）中发现的任何 API。例如：
+      b.i.  除非获得 Mozilla 的书面批准（包括通过电子邮件），否则您不得添加、删除或修改在品牌定制设备的文件（可访问 web 内容，包括认证的应用、特权应用或常规应用以及一般网页）中发现的任何 API。例如：
 
-                b.i.1.  不得修改带有“idl”或“webidl”扩展名的文件中声明的 API。
+      b.i.1.  不得修改带有“idl”或“webidl”扩展名的文件中声明的 API。
 
-                b.i.2.  不得添加、删除或修改 HTML 元素及其属性，其他 Web 语言（如 SVG 和 MathML）、CSS 属性、应用程序清单、权限以及任何其他可供网页和应用程序使用的类似功能。
+      b.i.2.  不得添加、删除或修改 HTML 元素及其属性，其他 Web 语言（如 SVG 和 MathML）、CSS 属性、应用程序清单、权限以及任何其他可供网页和应用程序使用的类似功能。
 
-            b.ii.  不得修改默认用户代理字符串，并应确保 Gecko 用户代理字符串精确到相应的 Gecko 版本。如需更多信息，请参见：
+      b.ii.  不得修改默认用户代理字符串，并应确保 Gecko 用户代理字符串精确到相应的 Gecko 版本。如需更多信息，请参见：
 
-                b.ii.1.  [https://wiki.mozilla.org/B2G/User\_Agent/OEM\_Changes\_Policy](https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy)
+      b.ii.1.  [https://wiki.mozilla.org/B2G/User\_Agent/OEM\_Changes\_Policy](https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy)
 
-                b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+      b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
 
-            b.iii.  不得修改现有 Web API 的行为。例如，不得更改某一函数的语义或其副作用。
+      b.iii.  不得修改现有 Web API 的行为。例如，不得更改某一函数的语义或其副作用。
 
-            b.iv.  不得删除在现有 Web API 中找到的任何功能（如删除媒体格式、HTML 元素、DOM 属性或方法等）或任何 Web API 本身。
+      b.iv.  不得删除在现有 Web API 中找到的任何功能（如删除媒体格式、HTML 元素、DOM 属性或方法等）或任何 Web API 本身。
 
     D.  *通过更新保持兼容性*。您应确保提供的品牌定制设备在至少 **1 年**（或更长，适用法律如有要求）的时间内符合以下更新要求（自每台相关品牌定制设备首次上市日期开始）：
 
-        Mozilla 将按照它通常用于软件开发的发布计划和流程，发布用于升级和更新的源代码，包括所有的安全修复。对于每一更新或升级，您应遵守下面附录 1 中规定的更新测试、认证和部署计划。所有更新应均由 Mozilla 以源代码的形式提供，并且您应将所有内部版本转换为可执行的形式。对于您部署的任何更新，您应通知最终用户，让他们选择是否接受此类更新，包括但不限于启用默认更新的最终用户。该要求在本协议终止或期满后应继续有效。
+      Mozilla 将按照它通常用于软件开发的发布计划和流程，发布用于升级和更新的源代码，包括所有的安全修复。对于每一更新或升级，您应遵守下面附录 1 中规定的更新测试、认证和部署计划。所有更新应均由 Mozilla 以源代码的形式提供，并且您应将所有内部版本转换为可执行的形式。对于您部署的任何更新，您应通知最终用户，让他们选择是否接受此类更新，包括但不限于启用默认更新的最终用户。该要求在本协议终止或期满后应继续有效。
 
     E.  *通过不修改权限架构或数据管理功能实现兼容性*。不应以更改任何安全或数据管理功能（或其各自的默认配置）的方式修改品牌定制设备，包括：
 
-        a.  品牌定制设备必须实现下面所示的权限模型和信任级别：
+      a.  品牌定制设备必须实现下面所示的权限模型和信任级别：
 
-            a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+      a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-            a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+      a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
 
-        b.  品牌定制设备必须能够通过相应的权限检查访问 Web API。下面所示为当前的权限检查：
+      b.  品牌定制设备必须能够通过相应的权限检查访问 Web API。下面所示为当前的权限检查：
 
-            b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+      b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
 
-        c.  源自 Firefox Marketplace、预安装在品牌定制设备上的应用程序应附带为 Firefox Marketplace 提供的应用程序签名证书，预安装的非源自 Firefox Marketplace 的应用程序不得使用 Firefox Marketplace 签名证书。
+      c.  源自 Firefox Marketplace、预安装在品牌定制设备上的应用程序应附带为 Firefox Marketplace 提供的应用程序签名证书，预安装的非源自 Firefox Marketplace 的应用程序不得使用 Firefox Marketplace 签名证书。
 
-        d.  不得修改品牌定制设备中下列功能的操作：
+      d.  不得修改品牌定制设备中下列功能的操作：
 
-            d.i.  Do Not Track（请勿跟踪）标记
+      d.i.  Do Not Track（请勿跟踪）标记
 
-            d.ii.  用户控制的应用程序数据清除（包括但不限于任何预先安装的应用程序）
+      d.ii.  用户控制的应用程序数据清除（包括但不限于任何预先安装的应用程序）
 
-            d.iii.  集成到品牌定制设备的任何 Mozilla 服务的默认操作（如更新数据 ping 和崩溃报告）。
+      d.iii.  集成到品牌定制设备的任何 Mozilla 服务的默认操作（如更新数据 ping 和崩溃报告）。
 
-        e.  不得将任何间谍软件或恶意软件引入品牌定制设备。此外，未经终端用户同意，您或任何第三方不得使用其他方式访问用户的个人信息。
+      e.  不得将任何间谍软件或恶意软件引入品牌定制设备。此外，未经终端用户同意，您或任何第三方不得使用其他方式访问用户的个人信息。
 
-        f.  不得对品牌定制设备进行会导致 Firefox OS 隐私政策（参见 <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>）或 Firefox Marketplace 隐私政策（参见 <https://marketplace.firefox.com/privacy-policy>）不再准确的任何修改（这两项政策都会不定期修改）。
+      f.  不得对品牌定制设备进行会导致 Firefox OS 隐私政策（参见 <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>）或 Firefox Marketplace 隐私政策（参见 <https://marketplace.firefox.com/privacy-policy>）不再准确的任何修改（这两项政策都会不定期修改）。
 
 5.  **审查流程；审核。**
 
     A.  *设备/内部版本*。
 
-        a.  方便时，请务必完成 OWDCRB 认证流程（参见 <https://www.openwebdevice.org>）。
+      a.  方便时，请务必完成 OWDCRB 认证流程（参见 <https://www.openwebdevice.org>）。
 
-        b.  您应填写在以下网址提供的 Powered by Firefox OS 自认证核对清单：<https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>，并应将此核对清单及品牌定制设备的样品连同成品包装提交到 Mozilla 指定的地址。
+      b.  您应填写在以下网址提供的 Powered by Firefox OS 自认证核对清单：<https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>，并应将此核对清单及品牌定制设备的样品连同成品包装提交到 Mozilla 指定的地址。
 
     B.  *营销*。Mozilla 按“Powered by Firefox OS”品牌级别提供用于品牌定制设备的 Brand Kit（“**Firefox OS 品牌工具包**”）。您只能按此处规定的方式使用 Firefox OS 品牌工具包下提供的此类资产，**不得进行修改**。需要澄清的是，不得使用下面介绍的 Firefox OS 联名品牌工具包。有关 Firefox OS 品牌工具包的问题可提交给 Mozilla 联系人。
 
