@@ -20,5 +20,5 @@ Urządzenie, z którego korzysta Użytkownik, jak większość urządzeń mobiln
 {: #external-parties }
 
 * Jeśli korzystają Państwo z aplikacji innych firm niż Mozilla, zastosowanie mieć będą polityki prywatności opracowane przez ich producentów.
-* Funkcja wyszukiwania adaptacyjnego Systemu Operacyjnego Firefox jest dostarczana przez Everything.me i ma do niej zastosowanie jej własna polityka prywatności dostępna pod adresem: [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/)
+* Funkcja wyszukiwania adaptacyjnego Systemu Operacyjnego Firefox jest dostarczana przez Everything.me i ma do niej zastosowanie jej własna polityka prywatności dostępna pod adresem: <http://everything.me/privacy/firefox-os>
 * System Operacyjny Firefox pozwala Użytkownikowi na korzystanie z wielu zintegrowanych usług podmiotów trzecich, takich jak poczta elektroniczna czy usługi społecznościowe. Ich własne polityki prywatności będą miały zastosowanie do korzystania z tych usług.

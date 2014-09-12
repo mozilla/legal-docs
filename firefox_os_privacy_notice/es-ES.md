@@ -20,5 +20,5 @@ En la creación del dispositivo que está utilizando, como en la mayoría de los
 {: #external-parties }
 
 * Si utiliza aplicaciones hechas por otro que no sea Mozilla, se aplicarán las políticas de privacidad de aquél.
-* La característica de búsqueda dinámica de aplicaciones de Firefox OS la desarrolla Everything.me y es, por tanto, su política de privacidad la que se aplica. Se puede consultar en [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/)
+* La característica de búsqueda dinámica de aplicaciones de Firefox OS la desarrolla Everything.me y es, por tanto, su política de privacidad la que se aplica. Se puede consultar en <http://everything.me/privacy/firefox-os>
 * Firefox OS le permite utilizar varios servicios integrados de terceras partes, como, por ejemplo, correo electrónico o proveedor de redes sociales. La política de privacidad de esos servicios se aplicará al uso que Ud. haga de ellos.

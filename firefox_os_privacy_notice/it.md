@@ -20,5 +20,5 @@ Il dispositivo utilizzato dall’utente, come la maggior parte dei dispositivi m
 {: #external-parties }
 
 * Se l’utente utilizza app prodotte da soggetti diversi da Mozilla, si applicheranno le politiche sulla privacy ad esse relative.
-* La funzione di ricerca adattiva delle app di Firefox OS utilizza Everything.me e applica la politica sulla privacy di tale servizio, che può essere consultata alla pagina [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* La funzione di ricerca adattiva delle app di Firefox OS utilizza Everything.me e applica la politica sulla privacy di tale servizio, che può essere consultata alla pagina <http://everything.me/privacy/firefox-os>.
 * Firefox OS consente all’utente di utilizzare diversi servizi integrati di terzi, quali l’email o il social provider dell’utente. In questo caso, la politica sulla privacy che si applica è quella di questi servizi.

@@ -20,5 +20,5 @@ Das von Ihnen genutzte Endgerät wird, wie die meisten mobilen Endgeräte auch, 
 {: #external-parties }
 
 * Wenn Sie Apps nutzen, die von Dritten (und nicht von Mozilla) entwickelt wurden, gelten die Datenschutzerklärungen dieser Drittentwickler.
-* Die dynamische App-Suchfunktion von Firefox OS wird von Everything.me betrieben, so dass deren Datenschutzerklärung, die Sie unter Everything.me Privacy Policy abrufen können, Anwendung findet. [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/)
+* Die dynamische App-Suchfunktion von Firefox OS wird von Everything.me betrieben, so dass deren Datenschutzerklärung, die Sie unter Everything.me Privacy Policy abrufen können, Anwendung findet. <http://everything.me/privacy/firefox-os>
 * Firefox OS erlaubt Ihnen die Nutzung verschiedener Dienste von Drittanbietern, wie etwa E-Mail-Dienste oder Dienste sozialer Netzwerke. Für die Nutzung dieser Dienste gelten die entsprechenden Datenschutzerklärungen.

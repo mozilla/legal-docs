@@ -20,5 +20,5 @@ The device you are using, like most mobile devices, is created by several partie
 {: #external-parties }
 
 * If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at <http://everything.me/privacy/firefox-os>.
 * Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.

@@ -20,5 +20,5 @@ L'appareil que vous utilisez, comme la plupart des appareils mobiles, est constr
 {: #external-parties }
 
 * En cas d'utilisation d'applications réalisées par des développeurs autres que ceux de Mozilla, la politique de confidentialité applicable sera celle du développeur concerné.
-* La fonction de recherche dynamique des applications de Firefox OS est effectuée par Everything.me, qui applique sa propre politique de confidentialité disponible à l'adresse [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* La fonction de recherche dynamique des applications de Firefox OS est effectuée par Everything.me, qui applique sa propre politique de confidentialité disponible à l'adresse <http://everything.me/privacy/firefox-os>.
 * Firefox OS vous permet d'utiliser plusieurs services de tiers intégrés, tels que votre fournisseur de messagerie (e-mail) ou de réseaux sociaux. La politique de confidentialité de ces services s'applique à l'utilisation de votre partie de ces services.
