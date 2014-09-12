@@ -1,187 +1,189 @@
-October 30, 2013
+2013 年 10 月 30 日
 
-This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
+［この文書は、日本の Firefox Marketplace コンテンツの開発者の便宜を図るために掲載している、Firefox Marketplace Developer Agreement の参考訳です。］
 
-1. You must be at least 18 to be a Developer of Marketplace Content or have your parent consent, supervise and interact with our services on your behalf.
-2. You must comply with all applicable terms and policies, including guidelines around privacy and content.
-3. We can remove your Marketplace Content from the Firefox Marketplace if we find it harmful or objectionable or if you violate our policies or these Terms.
-4. You are solely responsible for your Marketplace Content, which means you&rsquo;re responsible for export regulations, compliance with laws, refunds and support. If you sell your Marketplace Content, you are also responsible for taxes, pricing, and refunds. If you use our integrated payment system, the integrated payment processors may agree to take on sale/VAT, refunds and other payment associated issues for you.
-5. Don&rsquo;t do anything illegal or that could hurt us or others.
-6. We&rsquo;re not responsible for your use of the Firefox Marketplace, your Marketplace Content, or the actions of other users, including other developers.
-7. You&rsquo;ll be responsible for your Marketplace Content and your use or misuse of the Firefox Marketplace.
+本概要は、以下に記載されている開発者規約の概要です。本概要は、皆様の理解を深める一助として提供していますが、必ず本開発者規約全体をお読みください。皆様が、本開発者規約に同意する場合、本概要だけではなく、本開発者規約全体に同意することになります。
 
-## Introduction
+1. Marketplace コンテンツの開発者となるには 18 歳以上であるか、または親権者の同意を得て、親権者の監督下で、親権者が皆様の代理人としてMozillaのサービスを利用する 必要があります。
+2. 皆様は、プライバシーおよびコンテンツに関連するガイドラインを含み、適用ある条件およびポリシーのすべてを遵守する必要があります。
+3. 皆様の Marketplace コンテンツが有害である、もしくは好ましくないと Mozilla が判断した場合、または皆様が Mozilla のポリシーもしくは本開発者規約の条件に違反した場合、Mozilla は Firefox Marketplace から皆様の Marketplace コンテンツを削除することができます。
+4. 皆様は、ご自身の Marketplace コンテンツについて単独で責任を負うものであり、輸出規制、法令順守、返金およびサポートに対し責任を負うこととなります。ご自身の Marketplace コンテンツを販売する場合、税金、価格設定および返金についても責任を負います。Mozilla の統合決済システム (integrated payment system) をご利用になる場合、統合決済会社が、皆様に代わり、売上税／消費税（VAT）、返金その他の決済事項について引き受ける場合があります。
+5. 違法な行為または Mozilla もしくは第三者を害する行為を行ってはなりません。
+6. 皆様による Firefox Marketplace の使用、皆様の Marketplace コンテンツ、または他のユーザ（他の開発者を含みます。）による行為について、Mozilla はいかなる責任も負いません。
+7.　皆様の Marketplace コンテンツおよび皆様による Firefox Marketplace の使用や誤用については、皆様自身が責任を負います。
 
-Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;), located at 331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America, is committed to promoting choice and innovation on the web. To this end, we created the &ldquo;Firefox Marketplace&rdquo; &ndash; a publicly available website allowing you to distribute your Marketplace Content to users for use on their devices.
+## はじめに
 
-## Definitions
+Mozilla Corporation（以下「Mozilla」または「当社」といいます。）は、331 E. Evelyn Avenue, Mountain View, CA 94041, United States of America に所在し、インターネットの世界に選択肢と革新をもたらすことに全力を挙げて取り組んでいます。かかる目的を達成するため、Mozilla は、Firefox Marketplace、すなわち「各ユーザが端末上で利用する Marketplace コンテンツを皆様自身が提供できる、誰もが利用可能なウェブサイト」を開発しました。
 
-As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
+## 定義
 
-- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
-- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
+皆様は、開発者として、アドオンまたはアプリ（以下総称して「Marketplace コンテンツ」といいます。）を、Firefox Marketplace を通じて提供することができます。
 
-## Terms Governing Your Use of Firefox Marketplace
+- 「アドオン」とは、皆様によるFirefoxブラウザの機能性の拡張を可能にする、拡張機能、テーマ、検索エンジン、辞書および言語パックをいいます。
+- 「アプリ」とは、オープンウェブテクノロジー (open web technologies) を使用して書かれている様々なプラットフォーム上にて実行可能なアプリケーションをいいます。
 
-As a developer, you are welcome to use the Firefox Marketplace to facilitate the distribution of your Marketplace Content. Your use of the Firefox Marketplace is subject to the terms and conditions of this Developer Agreement, the Firefox Marketplace [Terms of Use](/media/docs/terms/en-US.html) and the Firefox Marketplace policies referred to in this agreement and posted in the Firefox Marketplace (collectively, the &ldquo;Terms&rdquo;), each of which are incorporated herein by reference.
+## Firefox Marketplace の利用条件
 
+皆様は、開発者として、ご自身の Marketplace コンテンツの提供を促進するため、Firefox Marketplace を利用することができます。Firefox Marketplace をご利用の際は、本開発者規約、本開発者規約において引用され、Firefox Marketplace に掲載される Firefox Marketplace[利用規約](/media/docs/terms/ja.html)および Firefox Marketplace ポリシーの各条件（それぞれ引用をもって本開発者規約に組み込まれたものとみなし、以下総称して「本開発者規約」といいます。）に従うものとします。
 
-## Acceptance of Terms
 
-By using the Firefox Marketplace, you agree that you are at least 18 years old or are acting with the consent and supervision of your parent; and you have full power, capacity, and authority to accept these Terms on behalf of yourself, or if applicable, your employer or other entity that you represent.
+## 本開発者規約の受諾
 
-As we innovate and introduce new features for the Firefox Marketplace, these Terms may need to change. We reserve the right to change these Terms at our sole discretion and if we make material changes, we will provide you notice.
+皆様は、Firefox Marketplace を利用することにより、18 歳以上であること、または、親権者の同意および監督の下で利用することに同意するものとします。また、皆様は、皆様ご自身、または、場合に応じ、皆様の雇用主または皆様が代理するその他の団体を代理して、本開発者規約に同意する完全な能力、資格および権限を有することに同意するものとします。
 
+Firefox Marketplace の新機能を採用し導入するため、本開発者規約の変更が必要となる場合があります。Mozilla は、その単独の裁量で、本開発者規約を変更する権利を留保します。本開発者規約に重大な変更を加える場合、皆様にお知らせいたします。
 
-## Firefox Marketplace Privacy Policy
 
-You will be required to provide information about yourself (such as identification or contact details) to Mozilla as part of your registration for and use of the Firefox Marketplace as a Developer.  We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/en-US.html).  Certain features of the Firefox Marketplace are operated by third party services. For example, we use third party providers to generate app ratings and to process app payments. You agree that any information provided to these third party providers will always be accurate, correct and up to date. Third party providers have their own privacy policies and terms of use, and you are encouraged to read them.
+## Firefox Marketplace プライバシーポリシー
 
+Firefox Marketplace への開発者としてのご登録およびご利用の一環として、皆様には情報（ID または連絡先等）を Mozilla に提供して頂く必要がございます。Mozilla は、Firefox Marketplace [プライバシーポリシー](/media/docs/privacy/ja.html)に記載のとおり、皆様の個人情報を取扱います。Firefox Marketplace の一部の機能は、第三者により運営されています。たとえば、Mozilla は、アプリの評価およびアプリの決済処理について、第三者であるサービスプロバイダを利用しています。皆様は、これらの第三者であるサービスプロバイダに提供するすべての情報が、常に正確であり、誤りのない最新の情報であることに同意するものとします。第三者であるサービスプロバイダは、それぞれ独自のプライバシーポリシーおよび利用規約を設定しているため、皆様には当該プライバシーポリシーおよび利用規約をお読み頂くことを推奨いたします。
 
-## Management of Firefox Marketplace
 
-As between you and Mozilla, you are solely responsible for your Marketplace Content. Because we need to be able to manage the Firefox Marketplace (including preventing abuse), the inclusion and display of any Marketplace Content in the Firefox Marketplace is at Mozilla&rsquo;s sole discretion. Mozilla, its community, or Mozilla’s third party providers may at any time review or test any of your Marketplace Content for compliance with these Terms and any other applicable policies.
+## Firefox Marketplace の管理
 
-While you may be able to specify which country store you&rsquo;d like to distribute your Marketplace Content, you acknowledge that the Firefox Marketplace is designed to be accessed on any devices that can run open web technology and does not currently allow the selection of delivery of Marketplace Content to specific devices.
+皆様と Mozilla の間においては、ご自身の Marketplace コンテンツについては、皆様が単独で責任を負います。Mozilla は、Firefox Marketplace の管理（不正利用の防止を含みます。）を行う必要があるため、Firefox Marketplace 内に Marketplace コンテンツを含ませるかどうか及び表示するかどうかは、Mozilla 単独の裁量によります。Mozilla、そのコミュニティまたは Mozilla の第三者たるサービスプロバイダは、常時、皆様の Marketplace コンテンツが本開発者規約その他適用のあるポリシーを遵守しているかを確認または検査する場合があります。
 
-You are solely responsible for the relationship between you and the end users of your Marketplace Content. 
+皆様は、ご自身の Marketplace コンテンツの提供を希望する国の店舗を指定できる場合があります。但し、Firefox Marketplace は、オープンウェブテクノロジー (open web technology) を動作することができるあらゆる端末上でアクセスできるように考案されたものであるため、皆様は、現在、特定の端末に対し Marketplace コンテンツを提供するよう指定できないことを了解するものとします。
 
+皆様は、ご自身のMarketplaceコンテンツのエンドユーザと皆様の関係について、単独で責任を負います。
 
-## Payments
 
-You may choose to provide your Marketplace Content for free. If you would like to charge a fee for your Marketplace Content, you can do so by either using the Firefox Marketplace&rsquo;s integrated payment processing system or usingyour own payment processing system. In either case, Mozilla does not take on any merchant of record or other obligations with respect to your Marketplace Content.
+## 決済
 
-If you choose to use the Firefox Marketplace integrated payment processing system, you will need to sign up for a payment account with the applicable integrated payment processor. As used here, a &ldquo;payment account&rdquo; means an account issued by an integrated payment processor to you pursuant to a separate agreement between you and that integrated payment processor, which authorizes the integrated payment processor to collect and remit payments on the your behalf for Marketplace Content sold via the Firefox Marketplace. Our payment processing system may offer you different payment processors in different jurisdictions - a list of integrated payment processors and their standard terms are [available here](/media/docs/pay-providers/all.html?v1). When you use an integrated payment processor, to the extent necessary for that payment processor to provide you with services, you authorize us to share your information with that integrated payment processor.  Payment Processors are third parties, and by using their services, you agree to abide by their Privacy Policies and Terms of Service.
+皆様は、ご自身の Marketplace コンテンツを無償で提供することを選択することができます。ご自身の Marketplace コンテンツを有料にて提供することを希望する場合には、Firefox Marketplace の統合決済システムまたはご自身の決済システムのいずれかを利用することができます。いずれの場合も、Mozillaは、皆様の Marketplace コンテンツに関し、商人としての最終販売責任 (merchant of record) その他の義務を負うものではありません。
 
-If you choose to use the Firefox Marketplace&rsquo;s integrated payment system, you will also be charged a transaction fee for end user purchases of your Marketplace Content. You can find our current fee schedule
-at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
+Firefox Marketplace 統合決済システムのご利用の際には、適用されている統合決済会社における決済アカウントを申し込む必要があります。本開発者規約において、「決済アカウント」とは、皆様と統合決済会社との間で別途締結する契約に従って当該統合決済会社が発行するアカウントをいい、当該統合決済会社は、当該契約に従い、Firefox Marketplace を通じて販売された Marketplace コンテンツについて、皆様に代わり、集金し送金することが許可されます。Mozilla の決済システムでは、法域ごとに異なる決済会社を提示する場合があります。統合決済会社および統合決済会社毎の標準約款の一覧は[こちらから入手可能です](/media/docs/pay-providers/all.html?v1)。皆様は、統合決済会社をご利用になる場合、当該統合決済会社がサービスを提供するために必要な限度において、Mozilla が皆様に関する情報を当該統合決済会社と共有することを承認するものとします。第三者たる決済会社のサービスを利用することにより、当該決済会社のプライバシーポリシーおよび利用規約に同意するものとします。
 
-If you sell your Marketplace Content, you are also responsible for taxes (including sales tax/VAT), pricing, refunds and any other payment obligations. If you use the integrated payment system, the integrated payment processor may agree to take on sale/VAT, merchant of record, refunds and other payment associated issues for you. The fees you charge, refunds, sales/VAT taxes you owe and other payment related issues are solely between you, that payment processor and the purchasers of your Marketplace Content.
+Firefox Marketplaceの統合決済システムをご利用になる場合、ご自身の Marketplace コンテンツをエンドユーザが購入した際、取扱手数料がかかります。現行の手数料表は、[https://developer.mozilla.org/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/docs/Apps/Marketplace_Payments)でご覧いただけます。Mozilla は、随時、その単独の裁量をもって上記手数料を改定する権利を留保します。
 
-If you use your own payment processing system, you or your payment processor will be the merchant of record for the sale of your Marketplace Content, depending on your relationship with your payment processor.
+ご自身の Marketplace コンテンツを販売する場合、皆様は、税金（売上税／消費税（VAT）を含みます。）、価格設定、返金その他あらゆる支払義務についても責任を負います。統合決済システムをご利用になる場合、統合決済会社が売上税／消費税 (VAT)、商人としての最終販売責任 (merchant of record)、返金、その他皆様の決裁関連事項について引き受ける場合があります。皆様が請求する料金、返金、皆様が納税義務を負う売上税／消費税 (VAT) およびその他の決済関連事項の一切は、皆様、ご自身の決済会社およびご自身の Marketplace コンテンツの購入者の間で決済されるものとします。
 
+ご自身の決済システムをご利用になる場合、皆様とご自身の決済会社との関係に応じて、そのいずれかが、皆様のMarketplaceコンテンツの販売について商人としての最終販売責任を負うことになります。
 
-## Taxes
 
-Since you, not Mozilla, are selling your Marketplace Content  to end users of the Firefox Marketplace&rsquo;, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. 
+## 税金等
 
-If you use the Firefox Marketplace&rsquo; integrated payment processing system, the integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
+ご自身の Marketplace コンテンツは Mozilla ではなく皆様が Firefox Marketplace のエンドユーザに販売するものであるため、Marketplace コンテンツをダウンロードするユーザに対する料金の請求が課税対象となるか否かの判断、および課税される場合の適用税率の決定については、皆様が責任を負います。さらに、皆様は、取引に基づき管轄の税務当局に納税する義務も負います。
 
+Firefox Marketplace 統合決済システムをご利用になる場合、統合決済会社は、皆様に代わり、売上税および／または消費税 (VAT) を確定し納付するサービスを提供する場合があります。Mozilla は、皆様に対し、Marketplace コンテンツに関する一切の納税義務（決済金額の追跡および処理、支払いが行われたまたは過去に支払済みのダウンロードの証明、決済記録の保存、または売上税、使用税もしくは消費税の納付、申告もしくは請求を含みますがこれらに限定されません。）を負いません。より詳細な情報には Mozilla の [Tax FAQ](https://developer.mozilla.org/docs/Apps/Marketplace_Payments/Tax_FAQ) をご覧いただき、ご自身で税金を徴収し納税する必要があるか否かについては、必ず、ご自身の弁護士または管轄の税務当局 にご相談ください。
 
-## Refunds
 
-You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. If you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
+## 返金
 
-1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
-2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
+皆様は、適用法令を遵守するため、ご自身の Marketplace コンテンツの購入者に対するあらゆる返金、支払取消しその他の料金の返還について責任を負います。Firefox Marketplace 統合決済システムをご利用になる場合、皆様は、以下に同意するものとします。
 
-## Support
+1. 皆様は、購入者が購入後30分以内（または適用法令により要求される場合にはより長い時間内）に返金を要求した場合、Mozilla および Mozilla のパートナーが、皆様に代わり、購入者に対し Marketplace コンテンツ料金を全額返金することを許可するものとします。上記時間経過後の返金要求については、その理由に応じて承認または拒否することができます。皆様のコンテンツに欠陥があったり、マルウェアが含まれていたり、Mozilla のポリシー（当社の Marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)を含みます。）に違反していたり、または記載通りに利用又は実行できないと判断された場合、30分の経過後であっても返金が行われる場合があります。さらに、
 
-You are solely responsible for providing reasonable technical support to end users and you will make appropriate support contact information available (including by displaying it in each Marketplace Content&rsquo;s detail page) for customer support purposes. Failure to provide adequate support for your Marketplace Content(s) may result in low Marketplace Content reviews, less prominent Marketplace Content exposure, low sales, billing disputes, and even suspension or removal from the Firefox Marketplace.
+2. Mozilla は、特定の Marketplace コンテンツについて異常な数の返金要求があった場合、その品質およびリスティング (listing) の正確性を確保するため、調査を開始し、適切な措置を決定する場合があります。
 
+## サポート
 
-## Privacy-Related Obligations
+皆様は、エンドユーザに対し合理的な技術サポートを提供し、カスタマーサポートのための適切なサポート窓口情報を提供すること（各 Marketplace コンテンツの詳細ページへの当該窓口情報の掲載を含みます。）について単独で責任を負います。ご自身の Marketplace コンテンツについて十分なサポートが提供されない場合、Marketplace コンテンツのレビューにおける低評価、Marketplace Content 上での露出の低下、売上の落ち込み、請求に関する紛争、さらには Firefox Marketplace における取扱いの停止または削除となる場合があります。
 
-You agree to provide end users with a legally adequate privacy policy that accurately describes any collection, use or disclosure of information provided to you by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with your privacy policy and applicable privacy and data protection laws.
 
-You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms and your privacy policy in accordance with applicable privacy and data
-protection laws.  For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
+## プライバシーに関する義務
 
+皆様は、エンドユーザに対し、エンドユーザが皆様に提供する情報の収集、利用または開示について正確に説明した、法律に適ったプライバシーポリシーを提供することに同意するものとします。すべてのアプリにプライバシーポリシーを設定することが必要です。アドオンについては、アドオンのユーザまたは利用方法に関する情報が、当該アドオンがインストールされているユーザの端末以外において収集または送信される場合、プライバシーポリシーを設定することが必要となります。皆様は、Mozillaから提供を受けたユーザに関する情報を、ご自身のプライバシーポリシーならびに適用するプライバシーおよびデータの保護に関する法律に必ず従って利用することを表明し保証するものとします。
 
-## Marketing Your App in Firefox Marketplace
+皆様は、エンドユーザに提示するご自身のMarketplaceコンテンツの広告が、適用あるプライバシーおよびデータの保護に関する法律に従うものであり、かつ、本開発者規約およびご自身のプライバシーポリシーの全ての条件を満たしていることを確約することに同意するものとします。たとえば、(i) 埋め込み広告および当該広告から得られるデータのご利用は、適用法を遵守することを要し、(ii) 埋め込み広告には、スパイウェア、マルウェア、その他有害なコードが一切含まれていてはならず、人的または物的損害を引き起こすものであってはならず、(iii) ユーザに対する個別の広告やプロモーションのために皆様又は第三者に誘導するようなトラッキングが行われる場合、明確な通知およびオプションを提供しなくてはなりません。
 
-You are responsible for uploading your Marketplace Content to the Firefox Marketplace, providing accurate Marketplace Content product and service information to users regarding the features and functionality of your Marketplace Content, and accurately disclosing the security permissions and user data necessary for the Marketplace Content to function on user devices. If any product or service information is inaccurate or needs to be updated or modified, you agree to promptly make such updates or modifications. Unless you and Mozilla have a written agreement stating otherwise, your Marketplace Content shall not imply in any way that it is produced or endorsed by Mozilla.
 
+## Firefox Marketplace における皆様のアプリのマーケティング
 
-## Content Restrictions
+皆様は、ご自身の Marketplace コンテンツの特徴および機能に関する正確な Marketplace コンテンツのプロダクトおよびサービスの情報の提供、並びにユーザの端末上で Marketplace コンテンツを機能させるために必要なセキュリティ許可およびユーザデータの正確な開示と共に、ご自身の Marketplace コンテンツを Firefox Marketplace にアップロードする責任を負います。プロダクトまたはサービスに関する情報が不正確であり、更新または修正する必要がある場合、皆様は、速やかに当該更新または修正を行うことに同意するものとします。皆様および Mozilla が書面により別途合意する場合を除き、皆様の Marketplace コンテンツは、いかなる方法においても Mozilla が作成または承認したものと示唆することはできません。
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
 
+## コンテンツの規制
 
-## Persona and Marketplace Content
+皆様が Firefox Marketplace 上で提供するMarketplaceコンテンツは、Mozilla のコンテンツ及び開発者向けのその他ポリシーに従う必要があります。現行のポリシーについては、[marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review) からご覧いただけます。また、Firefox Marketplace では、全てのアプリについて International Age Rating Coalition （国際年齢評価連合）（以下「IARC」といいます。）による評価を取得しなければなりません。Firefox Marketplace の開発者は、アプリ投稿プロセスの一環として、無料で IARC 評価ツールにアクセスすることができます。IARC は、第三者機関であり、その評価ツールを使用することにより、皆様は、[IARCプライバシーポリシー](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) および [IARC 評価ツールとウェブサイト利用規約](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx)を遵守することに同意するものとします。
 
-[Persona](http://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
 
+## Persona および Marketplace コンテンツ
 
-## App Ratings & Statistics
+[Persona](http://persona.org) は、Mozilla のログインシステムです。一部のMarketplaceコンテンツは、認証の際に Persona を利用しています。Mozilla は、皆様に対し、ユーザによる皆様の Marketplace コンテンツの購入の受領証を提供します。
 
-Firefox Marketplace allows end users who install Marketplace Content to rate that Marketplace Content and provide commentary. Mozilla may provide aggregate statistics regarding your Marketplace Content usage to you. A subset of this information may be used to determine the placement of Marketplace Content in the Firefox Marketplace and may be displayed publicly in the Firefox Marketplace and through our APIs. While Mozilla will have access to this data, certain features of the Firefox Marketplace allow you to keep some of the raw statistics private from other developers and users.
 
+## アプリの評価および統計
 
-## Withdrawals, Takedowns and Termination
+Firefox Marketplace では、Marketplace コンテンツをインストールしたエンドユーザが当該 Marketplace コンテンツを評価し、コメントを提供できるようにしています。Mozilla は、皆様の Marketplace Content 利用に関する総統計を皆様に提供することがあります。当該統計の一部は、Firefox Marketplace 内の Marketplace コンテンツの表示位置の決定に利用され、MozillaのAPI を通じて Firefox Marketplace 上で公開される場合があります。Firefox Marketplace の一部の機能により、皆様は、他の開発者およびユーザに対し、一部の未加工の統計データを非開示とすることができます（但し、この場合でも Mozilla は当該データにアクセスすることができます。）。
 
-### Removal by You
 
-You may remove any of your Marketplace Content from future distribution via the Firefox Marketplace at any time, but you must comply with these Terms and your agreement with your end users. You agree that removing Marketplace Content from future distribution via the Firefox Marketplace does not (a) affect the license rights of users who have previously purchased or downloaded the Marketplace Content, (b) remove your Marketplace Content from user machines, hardware, or other devices, or from any part of the Firefox Marketplace where previously downloaded applications are stored on behalf of users (if any), or (c) change your obligation to deliver or support such Marketplace Content or services that have been previously purchased or downloaded by users.
+## 撤回、削除および終了
 
-Mozilla will not maintain on any portion of the Firefox Marketplace any Marketplace Content that you have removed from the Firefox Marketplace and provided written notice to Mozilla that such removal was due to (i) an allegation of infringement, or actual infringement, of any copyright, trademark, trade secret, trade dress, patent or other intellectual property right of any person, (ii) an allegation of defamation or actual defamation, (iii) an allegation of violation, or actual violation, of any third party's right of publicity or privacy, or (iv) an allegation or determination that such Marketplace Content does not comply with applicable law. If your Marketplace Content is removed from the Firefox Marketplace because of infringement, defamation, violation of publicity or privacy rights or applicable law as described above, you will refund to each end user who purchased such Marketplace Content in the 60 days preceding the date of takedown, the amount paid by such end user for such affected Marketplace Content.
+### ご自身による削除
 
-If you remove all your Marketplace Content from the Firefox Marketplace, you may terminate these Terms by providing Mozilla with 30 days prior written notice of such termination. All of your obligations under these Terms related to your Marketplace Content shall survive any termination of these Terms, including your obligation with respect to outstanding refunds, any representations and warranties as well as indemnification to Mozilla.
+皆様は、ご自身の Marketplace コンテンツを、いつでも Firefox Marketplace を通じた将来における提供対象から削除することができますが、本開発者規約および皆様のエンドユーザとの合意条件に従うものとします。皆様は、今後、Firefox Marketplace を通じた提供対象から Marketplace コンテンツを削除する場合、(a) 当該 Marketplace コンテンツを既に購入またはダウンロードしているユーザのライセンスの権利に影響せず、(b) ユーザのマシン、ハードウェアその他端末から、またはユーザのために既にダウンロードしたアプリが保管されている Firefox Marketplaceの 一部（該当する場合）から、ご自身の Marketplace コンテンツを削除せず、また (c) ユーザが既に購入しまたはダウンロードしている当該Marketplaceコンテンツまたはサービスを引き渡し、またはサポートする皆様の義務を変更しないことに同意するものとします。
 
+Mozilla は、皆様が Firefox Marketplace から削除したMarketplaceコンテンツ及び、当該削除が (i) 他者の著作権、商標、企業秘密、トレードドレス、特許その他知的財産権に対する侵害の申立てまたは侵害の事実、(ii) 名誉棄損の申立てまたは名誉棄損の事実、(iii) 第三者のパブリシティ権またはプライバシー権の侵害の申立てまたは侵害の事実、あるいは (iv) 当該 Marketplace コンテンツが適用法を遵守していないとする申立てまたは決定のいずれかに該当することを理由とする旨の書面による通知のいずれも、Firefox Marketplace 上のいかなる場所においても保存しません。ご自身の Marketplace コンテンツが、上記の侵害行為、名誉毀損、パブリシティ権またはプライバシー権の侵害、もしくは適用ある法令の違反を理由として Firefox Marketplace から削除される場合、皆様は、削除日前 60 日以内に当該 Marketplace コンテンツを購入した各エンドユーザに対し、各エンドユーザが当該 Marketplace コンテンツに対し支払った金額を返金するものとします。
 
-### Mozilla Takedowns
+皆様は、Firefox Marketplace からご自身のMarketplaceコンテンツすべてを削除する場合、Mozilla に対し 30 日前までに書面をもって通知することにより、本開発者規約を解約することができます。Marketplace コンテンツに関する皆様の本開発者規約に基づく一切の義務（Mozilla への補償に加え、未払いの返金額ならびに表明および保証に関する義務を含みます。）は、本開発者規約の解約後も存続します。
 
-Mozilla has the right (though not the obligation) to, in Mozilla&rsquo;s sole discretion, remove any content that, in Mozilla&rsquo;s reasonable opinion, violates any Mozilla policy or is in any way harmful or objectionable.
 
-Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+### Mozillaによる削除
 
-Mozilla may at any time suspend or terminate these Terms with you if Mozilla is no longer going to provide the Firefox Marketplace or Mozilla believes you have violated any policies or breached these Terms.
+Mozillaは、その単独の裁量により、Mozillaのポリシーに違反し、もしくは方法を問わず有害又は好ましくないと合理的に判断するすべてのコンテンツを削除する権利（ただし義務ではありません。）を有しています。
 
+上記を制限することなく、Marketplaceコンテンツまたはその一部（商標、ロゴマークその他当該Marketplaceコンテンツに関するブランドの形態を含みますがこれらに限定されません。）が、(a) 当社の Marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) その他 Firefox Marketplace のポリシーに違反し、(b) Mozilla またはその他の者に債務を負わせる可能性があり、または (c) 本開発者規約に違反している旨、Mozilla が皆様から通知を受け、または認識した上単独かつ合理的な裁量をもって判断する場合、Mozillaは、自身の単独の裁量により Firefox Marketplace 上での当該 Marketplace コンテンツの提供を禁止し、当該 Marketplace コンテンツを削除し、関連するマテリアル（記述、スクリーンショットまたはメタデータを含みますがこれらに限定されません。）についてフラッグで警告し、フィルタを設定し、修正し、当該 Marketplace コンテンツを再分類し、またはその他の是正措置を実行する場合があります。削除に関するご質問またはご懸念については、[app-reviews@mozilla.org](mailto:app-reviews@mozilla.org) までお問い合わせください。
 
-## Licenses
+Mozilla は、Firefox Marketplace の提供の停止を予定する場合、または皆様がいずれかのポリシーもしくは本開発者規約に違反していると判断した場合はいつでも、皆様との本開発者規約を停止または解約する場合があります。
 
-Mozilla encourages you to make your Marketplace Content available under an open source license such as the MPL for source code and a Creative Commons license for creative works. Mozilla has also developed an operating system that can natively run web applications (&ldquo;Firefox OS&rdquo;). Using Firefox OS, Mozilla and third parties can create devices that run Firefox OS (&ldquo;Firefox OS Devices&rdquo;). You hereby grant to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license under all of your rights necessary to make the Marketplace Content available in connection with the Firefox Marketplace and Firefox OS Devices. The foregoing license includes, if applicable, the right (but not obligation) to pre-load such Marketplace Content on Firefox OS Devices and provide Marketplace Content in connection with services available through Firefox OS Devices.
 
-Between Mozilla and you, each party shall own all right, title and interest, including without limitation all intellectual property rights, relating to its Brand Features. "Brand Features" means the trade names, trade marks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time. Except to the limited extent expressly provided in these Terms, neither party grants, nor shall the other party acquire, any right, title or interest (including, without limitation, any implied license) in or to any Brand Features of the other party. Subject to these Terms, you grant to Mozilla and its affiliates a limited, non-exclusive license during the term to display your Brand Features for use in connection with the Firefox Marketplace. Nothing in these Terms gives you a right to use any of Mozilla&rsquo;s trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+## ライセンス
 
+Mozilla は、皆様に、ご自身の Marketplace コンテンツを、ソースコードのための MPL 及び独創的作品のためのクリエイティブ・コモンズ・ライセンス等のオープンソースライセンスに基づき利用可能とすることを推奨します。Mozilla は、また、ウェブアプリケーションを自然に起動させることができるオペレーティング・システム（「Firefox OS」）も開発しています。Firefox OS を使用することにより、Mozilla および第三者は、Firefox OS を実行する端末（「Firefox OS端末」）を製造することができるようになります。皆様は、Mozilla および Mozilla の関係会社に対し、Firefox Marketplace および Firefox OS 端末において Marketplace コンテンツの利用を可能とするために必要となる皆様の一切の権利について、非排他的かつ世界的な無償のサブライセンス可能なライセンスを許諾するものとします。当該ライセンスには、該当する場合、Firefox OS 端末上に当該Marketplace コンテンツを予め組み込み、Firefox OS 端末を通じて利用可能なサービスに関連して[当該] Marketplace コンテンツを提供する権利（ただし義務ではありません。）が含まれます。
 
-## Publicity
+Mozilla および皆様との間においては、それぞれが自身の Brand Features（ブランド形態）にかかるすべての権利、権原および持分（あらゆる知的財産権を含みますがこれに限定されません。）を所有するものとします。Brand Features（ブランド形態）とは、各自が随時所有する（またはライセンスを許諾する）商号、商標、サービスマーク、ロゴマーク、ドメイン名その他各自のブランドを特徴づけるものをいいます。本開発者規約において明示的に規定される場合のみを除き、Mozilla および皆様のいずれも、相手の Brand Features にかかる権利、権原または持分（黙示によるライセンスを含みますがこれに限定されません。）を付与せず、取得しないものとします。本開発者規約に従って、皆様は、Mozilla および Mozilla の関係会社に対し、本開発者規約の有効期間中、Firefox Marketplace に関連して使用するためにご自身の Brand Features を表示する限定的な非排他的ライセンスを許諾するものとします。本開発者規約のいずれの規定も、皆様に対し、Mozilla の商号、商標、サービスマーク、ロゴマーク、ドメイン名その他ブランドを特徴づけるものを使用する権利を付与するものではありません。
 
-Mozilla and its affiliates may include your Brand Features, screenshots, videos, and demonstrations of your Marketplace Content and any content contained in, accessed by, or transmitted through your Marketplace Content in presentations, marketing materials, marketing events, developer events, financial reports, website listings (including links to your website), press releases, and customer lists (which includes, without limitation, customer lists posted on Mozilla web sites) for purposes of marketing the Firefox Marketplace, Mozilla products and services, or publicizing your Marketplace Content.
 
+## パブリシティ
 
-## Firefox Sync Add-ons
+Mozilla および Mozilla の関係会社は、Firefox Marketplace、Mozilla の製品およびサービスのマーケティングまたは皆様の Marketplace コンテンツの宣伝を目的として、皆様の Marketplace コンテンツに含まれ、当該コンテンツがアクセスし、または当該コンテンツを通じて配信される、皆様の Marketplace コンテンツの Brand Features、スクリーンショット、ビデオおよびデモンストレーションを、プレゼンテーション、マーケティング資料、マーケティングイベント、開発者イベント、決算報告、ウェブサイト一覧（皆様のウェブサイトへのリンクを含みます。）、プレスリリースおよびカスタマーリスト（Mozilla のウェブサイトに掲載されるカスタマーリストを含みますがこれに限定されません。）に使用する場合があります。
 
-If your Marketplace Content utilizes any Firefox Sync APIs or software, you agree (a) that you and your Marketplace Content will use the Firefox Sync API solely for its intended purpose; (b) that your Marketplace Content will not hide or mask its identity as it uses Mozilla&rsquo;s hosted Firefox Sync services and/or Firefox Sync APIs, including by failing to follow required identification conventions; and (c) that you and your Marketplace Content will not use the Firefox Sync APIs for any application or service that attempts to mislead users (including by attempting to replicate Mozilla&rsquo;s hosted Firefox Sync services experience).
+
+## Firefox Syncアドオン
+
+ご自身の Marketplace コンテンツが、Firefox Sync API またはそのソフトウェアを使用するものである場合、皆様は、(a) 皆様およびご自身の Marketplace コンテンツが、当該コンテンツにおいて意図された目的に限り、Firefox Sync を使用すること、(b) ご自身の Marketplace コンテンツが、Mozilla が提供する Firefox Sync サービスおよび／または Firefox Sync API の利用時において、身元を非表示としたり隠したりしないこと（必要な ID 確認規約に従わない場合を含みます。）、(c) 皆様およびご自身の Marketplace コンテンツが、ユーザを誤認させることを企図したアプリまたはサービス（Mozillaが提供する Firefox Sync サービスエクスペリエンスの再現を含みます。）のためにFirefox Sync API を使用しないことに同意するものとします。
 
 
 ## Representations and Warranties
 
-You represent and warrant that:
+皆様は、次の事項を表明し保証するものとします。
 
-1. You have and will maintain all necessary rights to post, display, perform, use, reproduce and transmit your Marketplace Content, worldwide, as well as the rights to authorize others (including Mozilla) to do the same;
-2. If your Marketplace Content contains any commercial identifiers such as a trademark, service mark, or trade dress, you have worldwide legal rights to use and authorize the use of the artwork, design, emblems, names, and other elements.
-3. The descriptions and other data you provide about the Marketplace Content are true to the best of your knowledge; and
-4. Your Marketplace Content is accompanied by an accessible agreement that describes the rights of its users.
+1. ご自身のMarketplaceコンテンツを、世界各地で掲載し、表示し、実行し、使用し、再生し、および送信するために必要なすべての権利ならびに他者（Mozillaを含みます。）に対しこれらを許可する権利を有し、今後も維持すること。
+2. ご自身のMarketplaceコンテンツに、商標、サービスマークまたはトレードドレス等の商業上の識別標章（commercial identifier）が含まれる場合、当該図柄、デザイン、記章、名称その他の構成要素を世界各地で使用し、またその使用を許諾する法的権利を有していること。
+3. Marketplace コンテンツについて提供する説明その他データは、ご自身が知り得る限り、真正であること。
+4. ご自身の Marketplace コンテンツには、ユーザの権利について規定した容易に理解可能な契約書が添付されていること。
 
-## Disclaimer of Warranties
+## 保証の否認
 
-THE FIREFOX MARKETPLACE IS PROVIDED &ldquo;AS IS&rdquo;. MOZILLA, ITS CONTRIBUTORS, LICENSORS AND DISTRIBUTORS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
-
-
-## Limitation of Liability
-
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT AS REQUIRED BY LAW, MOZILLA, ITS CONTRIBUTORS, LICENSORS, SUBSIDIARIES, AFFILIATES AND DISTRIBUTORS WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT MOZILLA OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. IN NO EVENT SHALL MOZILLA&rsquo;S AGGREGATE LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS BE IN EXCESS OF THE GREATER OF (i) $100 OR (ii) THE TOTAL AMOUNTS PAID TO YOU BY MOZILLA IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN TYPES OF LIABILITY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+Firefox Marketplace は、「現状有姿 (as is)」で提供されています。Mozilla、Mozilla の貢献者、ライセンサーおよびディストリビュータのいずれも、明示または黙示を問わず、一切の保証（商品適格性、特定の目的との適合性および侵害行為のないことについての黙示の保証を含みますがこれに限定されません。）を行いません。ただし、一部の法域では、黙示保証の排除又は限定が認められていないため、上記の免責条項が、皆様に適用されない場合があります。
 
 
-## Release; Indemnification
+## 限定責任
 
-You release Mozilla, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other users, including developers of Marketplace Content.
-
-If any third party brings a claim against Mozilla related to your use of the Firefox Marketplace or your Marketplace Content, you will defend and hold Mozilla harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+法が要求する場合を除き、Mozilla、Mozilla の貢献者、ライセンサー、子会社、関係会社およびディストリビュータは、皆様が被る間接的、特別、偶発的、派生的、懲罰的な損害（データの損失を含み、Mozilla または Mozilla を代理する者が当該損失の可能性について知らされていた、または気づくべきであったか否かを問いません。）について、あらゆる責任の法理において皆様に対しいかなる責任も負わないことを、皆様は明示的に了解し同意するものとします。いかなる場合も、Mozilla が、本開発者規約に起因しまたは関連して発生するあらゆる損害について皆様に対し負う責任の総額の上限は、(i)100 ドルまたは (ii) 損害の申立てにかかる最初の通知の直前 12 ヶ月間に Mozilla が皆様にお支払いした総額のいずれか高額な方とします。ただし、一部の法域では、特定の責任の排除または限定が認められていないため、本項の責任の否認が、皆様に適用されない場合があります。
 
 
-## General Legal Terms
+## 免責；補償
 
-These Terms constitute the whole legal agreement between you and Mozilla and governs your use of the Firefox Marketplace, and completely supercedes any prior agreements between you and Mozilla in relation to the Firefox Marketplace. Nothing in these Terms shall be deemed to grant you any right to use the trademarks, trade names, service marks, or trade dress of Mozilla or its licensors and Mozilla hereby reserves all right, title and interest therein. For information on our trademarks, please see our Trademark and Logo Usage Policies.
+皆様は、Marketplace コンテンツの開発者を含む他のユーザと皆様との間の紛争から発生した、これに関連する一切のクレーム、請求および損害について、Mozilla、その役員、従業員、代理人およびその承継人を免責するものとします。
 
-You agree that if Mozilla does not exercise or enforce any legal right or remedy which is contained in these Terms (or which Mozilla has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mozilla's rights and that those rights or remedies will still be available to Mozilla.
+第三者が皆様による Firefox Marketplace のご利用または皆様の Marketplace コンテンツについて、Mozilla に対し請求を申し立てた場合、皆様は、当該請求に関するあらゆる種類の損害、損失および費用（合理的な訴訟費用を含みます。）の一切について、Mozilla を防御し補償するものとします。
 
-If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms are invalid, then that provision will be removed from these Terms without affecting the rest of these Terms. The remaining provisions of these Terms will continue to be valid and enforceable.
-EXPORT RESTRICTIONS. YOUR DISTRIBUTION OF MARKETPLACE CONTENT ON THE FIREFOX MARKETPLACE MAY BE SUBJECT TO UNITED STATES EXPORT LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT LAWS AND REGULATIONS THAT APPLY TO YOUR DISTRIBUTION OF MARKETPLACE CONTENT. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, USERS AND END USE.
 
-The rights granted in these Terms may not be assigned or transferred by you without the prior written approval of Mozilla. You are not permitted to delegate your responsibilities or obligations under these Terms without the prior written approval of Mozilla.
+## 一般的な規定
 
-## Governing Law and Jurisdiction
+本開発者規約は、皆様と Mozilla との間の完全な法的合意を構成します。また、皆様の Firefox Marketplace のご利用は、本開発者規約に準拠し、本開発者規約は、Firefox Marketplace に関する皆様と Mozilla との間の従前の合意事項の一切に完全に優先します。本開発者規約のいずれの規定も、皆様に対し、Mozilla または Mozilla のライセンサーの商標、商号、サービスマークまたはトレードドレスの使用を許諾するものとはみなされず、Mozilla は、上記に対するあらゆる権利、権原および持分を留保します。Mozilla の商標に関する情報については、Mozilla の Trademark and Logo Usage Policies (商標およびロゴの利用ポリシー)をご覧ください。
 
-THESE TERMS, AND YOUR RELATIONSHIP WITH MOZILLA UNDER THESE TERMS, SHALL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA IN THE UNITED STATES OF AMERICA WITHOUT REGARD TO ITS CONFLICT OF LAWS PROVISIONS. You and Mozilla agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, in the state of California to resolve any legal matter arising from these Terms. Notwithstanding this, you agree that Mozilla shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+皆様は、Mozilla が本開発者規約に含まれる法律上の権利または救済手段（または Mozilla が適用法に基づき有するその利益）を行使又は主張しない場合でも、Mozilla が正式に権利を放棄したものとはみなされず、当該権利または救済手段について、Mozilla は引き続き行使できることに同意するものとします。
+
+当該事項について判断する管轄裁判所が、本開発者規約のいずれかの規定が無効と判断した場合、当該規定は、本開発者規約のその他の規定に影響することなく、本開発者規約から除外されます。本開発者規約のその他残りの規定は、有効かつ法的強制力を有するものとして存続します。
+
+輸出規制：Firefox Marketplace 上における皆様のMarketplace コンテンツの提供は、アメリカ合衆国の輸出に関する法令の適用対象となる場合があります。皆様は、皆様による Marketplace コンテンツの提供に適用される国内外の輸出に関するすべての法令を遵守しなくてはなりません。当該法令には、輸出先、ユーザおよび最終使用（end use）に関する規制も含まれます。
+
+本開発者規約において皆様に付与される権利は、Mozilla の書面による事前の承認なしに譲渡または移転することができません。皆様は、本開発者規約に基づく皆様の責任または義務について、Mozilla の書面による事前の承認なしに委託することはできません。
+
+## 準拠法および管轄
+
+本開発者規約および本開発者規約に基づく皆様と Mozilla の関係は、抵触法の規定に関わらず、アメリカ合衆国カリフォルニア州の州法に準拠するものとします。皆様および Mozilla は、本開発者規約に起因して発生する法的事項の解決に際して、カリフォルニア州 Santa Clara County に属する裁判所の専属管轄に従うことに合意するものとします。上記に関わらず、皆様は、Mozillaが管轄を問わず、差し止めによる救済措置（または同等の緊急の法的救済）を申請できることに同意するものとします。
