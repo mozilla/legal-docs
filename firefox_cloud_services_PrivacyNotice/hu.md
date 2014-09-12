@@ -1,6 +1,6 @@
 # Firefox Cloud Services Adatvédelmi nyilatkozat
 
-2014. augusztus 29.
+2014\. augusztus 29.
 {: datetime="2014-08-29" }
 
 Fontos számunkra az Ön adatainak védelme. A Firefox Cloud Services (a „Szolgáltatások”) információkat küld a Mozilla vállalatnak (azaz nekünk), amelyek felhasználásáról [Mozilla Adatvédelmi Irányelveinkben](https://www.mozilla.org/privacy/) olvashat.
