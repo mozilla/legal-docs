@@ -37,7 +37,7 @@ We are always trying to find new ways to improve the experience for our users. A
 
 ### 4. Privacy Policy
 
-The [Mozilla Privacy Notice](http://www.mozilla.org/privacy/) and [TokBox Privacy Notice](http://tokbox.com/support/privacy-policy) apply to your use of the Services and describe details on (a) what Mozilla or TokBox respectively receive from you due to your use of the Services and (b) how Mozilla or TokBox use that information. Mozilla and TokBox use the information we receive through the Services as described in our respective privacy notices. 
+The [Mozilla Privacy Notice](https://www.mozilla.org/privacy/) and [TokBox Privacy Notice](https://tokbox.com/support/privacy-policy) apply to your use of the Services and describe details on (a) what Mozilla or TokBox respectively receive from you due to your use of the Services and (b) how Mozilla or TokBox use that information. Mozilla and TokBox use the information we receive through the Services as described in our respective privacy notices.
 
 ### 5. Services Acceptable Use Policy
 
@@ -49,8 +49,8 @@ You may not use the Services to:
 * Send unsolicited communications (referred to as SPAM) or use the Services or your accounts to help other people send SPAM
 * Intercept or monitor, damage or modify communications not intended for you
 * Harm Mozilla, TokBox or users such as by using viruses, spyware or malware, worms, trojan-horses, time bombs or any other such malicious codes or instructions
-* Engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services) 
-* Reproduce, duplicate, copy, sell, trade or resell the Services for any purpose 
+* Engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services)
+* Reproduce, duplicate, copy, sell, trade or resell the Services for any purpose
 * Violate the copyright, trademark, confidence, privacy or infringes the intellectual property rights of others
 * Upload, download, transmit, or display content that is:
   * Inappropriate such as obscene pornographic materials, graphic depictions of sexuality or violence, or images that exploit or harm children
@@ -66,13 +66,13 @@ Failure to comply may result in loss of access to, or cancellation of, your acco
 
 ### 6. Transmitted Content
 
-You understand that the Services allow users to transmit certain information (such as data files, written text or other video or images) (“Content”). You agree that you are solely responsible for the Content you transmit and the consequences. 
+You understand that the Services allow users to transmit certain information (such as data files, written text or other video or images) (“Content”). You agree that you are solely responsible for the Content you transmit and the consequences.
 
 We may (but are not obligated) to monitor Content. You understand that by using the Services you may be exposed to Content that you may find offensive, indecent or objectionable and that, in this respect, you use the Services at your own risk. There are commercially available services and software to limit access to material that you may find objectionable.
 
 ### 7. Mozilla's and TokBox’s Proprietary Rights
 
-Neither Mozilla nor TokBox grant you any intellectual property rights in the Services. For example, these Terms do not provide the right to use any of Mozilla's or TokBox’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Mozilla Software is distributed under and subject to the current version of the Mozilla Public License. 
+Neither Mozilla nor TokBox grant you any intellectual property rights in the Services. For example, these Terms do not provide the right to use any of Mozilla's or TokBox’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Mozilla Software is distributed under and subject to the current version of the Mozilla Public License.
 
 ### 8. Term; Termination
 
@@ -88,15 +88,15 @@ You agree to defend, indemnify and hold harmless Mozilla and TokBox, including e
 
 ### 10. Disclaimer; Limitation of Liability
 
-THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. 
+THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
 
-YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. 
+YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT.
 
 THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
 EXCEPT AS REQUIRED BY LAW, MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
-### 11. Services Interruption 
+### 11. Services Interruption
 
 From time to time, we may need to perform maintenance on or upgrade the Services, or temporarily suspend the Services (including for the avoidance of doubt any part of it), for operational or security reasons, in accordance with these Terms or in an emergency. Notice is not always possible. You will not be entitled to claim expenses or damages for such suspension or limitation of the use of the Services.
 
@@ -114,4 +114,4 @@ These Terms constitute the entire agreement between you, Mozilla and TokBox conc
 
 ### 15. Contact Us
 
-Contact Mozilla at: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) or via e-mail to: [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com).
+Contact Mozilla at: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) or via e-mail to: <mailto:legal-notices@mozilla.com>.

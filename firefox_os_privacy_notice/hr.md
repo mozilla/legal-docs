@@ -3,7 +3,7 @@
 08. svibnja 2013.
 {: datetime="2013-05-08" }
 
-Stalo nam je do vaše privatnosti. Kada nam Firefox OS šalje informacije, naša [Mozillina pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
+Stalo nam je do vaše privatnosti. Kada nam Firefox OS šalje informacije, naša [Mozillina pravila privatnosti](https://www.mozilla.org/privacy/) opisuju kako postupamo s tim informacijama.
 
 ## Što biste trebali znati
 

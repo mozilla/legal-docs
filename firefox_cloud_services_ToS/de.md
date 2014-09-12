@@ -23,7 +23,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 4. #### Datenschutzerklärung
 
-    Im [Datenschutzhinweis für Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](http://www.mozilla.org/privacy/) beschrieben.
+    Im [Datenschutzhinweis für Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
 
 5. #### Ihre Inhalte in unseren Services
 
@@ -31,7 +31,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 6. #### Eigentumsrechte von Mozilla
 
-    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der [Mozilla Public License](http://www.mozilla.org/MPL/).
+    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 7. #### Laufzeit; Kündigung
 

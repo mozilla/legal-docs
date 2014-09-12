@@ -1,7 +1,7 @@
 ### Zásady ochrany soukromí Firefox Marketplace
 3. července 2013
 
-Na vašem soukromí nám záleží. Pokud společnost Mozilla (tedy my) shromažďuje informace o vás na Firefox Marketplace, naše [zásady ochrany soukromí](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi zacházíme.
+Na vašem soukromí nám záleží. Pokud společnost Mozilla (tedy my) shromažďuje informace o vás na Firefox Marketplace, naše [zásady ochrany soukromí](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi zacházíme.
 
 <u>Věci, které byste měli vědět</u>
 
@@ -44,7 +44,7 @@ Když nám poskytnete své osobní údaje, budeme je používat způsoby, ke kte
 
 - Pokud jsme s jejich sdílením od vás získali souhlas.
 - Ke zpracování nebo poskytování produktů a služeb pro vás, nicméně pouze v případě, že příslušné subjekty přijímající údaje od nás přijaly smluvní závazek zacházet s daty způsobem schváleným společností Mozilla.
-- Při plnění našeho poslání [zachování otevřenosti](http://www.mozilla.org/about/manifesto.html). Někdy poskytujeme informace ke zlepšení našich produktů a podpoře otevřené sítě, nicméně pokud tak činíme, odstraníme vaše osobní údaje a pokoušíme se je zveřejňovat tak, abychom minimalizovali riziko vaší zpětné identifikace.
+- Při plnění našeho poslání [zachování otevřenosti](https://www.mozilla.org/about/manifesto.html). Někdy poskytujeme informace ke zlepšení našich produktů a podpoře otevřené sítě, nicméně pokud tak činíme, odstraníme vaše osobní údaje a pokoušíme se je zveřejňovat tak, abychom minimalizovali riziko vaší zpětné identifikace.
 - Pokud to vyžaduje zákon. Zákony dodržujeme vždy, kdy obdržíme dotaz na vás od některé vlády nebo v souvislosti se soudním řízením. Budeme-li požádání o poskytnutí vašich osobních údajů tímto způsobem, budeme vás o tom informovat, pokud nám to zákon nezakazuje. Pokud podobnou žádost obdržíme, poskytneme vaše osobní údaje pouze pokud se v dobré víře domníváme, že to od nás vyžaduje zákon. Nic, co je uvedeno v těchto zásadách, nemá v úmyslu omezovat jakoukoliv vaši dostupnou právní obranu proti žádostem třetích osob o poskytnutí vašich údajů.
 - Pokud se domníváme, že je nezbytné zabránit vzniku škod vám či někomu jinému. Tímto způsobem budeme poskytovat pouze informace, u nichž se v dobré víře domníváme, že jsou rozumně nezbytné k ochraně práv, majetku nebo bezpečnosti vás, našich dalších uživatelů, společnosti Mozilla nebo veřejnosti.
 - Pokud dojde ke změně naší organizační struktury nebo statusu (pokud u nás proběhne restrukturalizace, dojde k našemu převzetí nebo vstoupíme do konkurzu), může dojít k poskytnutí vašich údajů našim nástupcům nebo dceřiným společnostem.
@@ -59,7 +59,7 @@ Vaše osobní údaje nechceme uchovávat po dobu delší než je nezbytná, tak�
 
 Jsme globální organizací a naše počítače se nacházejí na několika různých místech po celém světě. Využíváme rovněž poskytovatele služeb, jejichž počítače se mohou rovněž nacházet v různých zemích. To znamená, že vaše údaje mohou skončit v některém z těchto počítačů v jiné zemi a daná země může nabízet jinou míru ochrany dat než vaše země. Pokud nám poskytnete informace, souhlasíte s tímto druhem převodu vašich údajů. Bez ohledu na to, v jaké zemi se vaše údaje nacházejí, dodržujeme platné právo a veškeré závazky, které uvádíme v těchto zásadách ochrany soukromí.
 
-Jste-li mladší 13 let, nemáme zájem o vaše osobní údaje, a vy nám je nesmíte poskytovat. Pokud jste rodič a domníváte se, že vaše dítě mladší 13 let nám poskytlo osobní údaje, [kontaktujte nás ](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) prosím, abychom údaje vašeho dítěte odstranili.
+Jste-li mladší 13 let, nemáme zájem o vaše osobní údaje, a vy nám je nesmíte poskytovat. Pokud jste rodič a domníváte se, že vaše dítě mladší 13 let nám poskytlo osobní údaje, [kontaktujte nás ](https://www.mozilla.org/privacy/policies/firefox-os/) prosím, abychom údaje vašeho dítěte odstranili.
 
 ### Co se stane, pokud tyto zásady změníme?
 

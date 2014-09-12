@@ -1,7 +1,7 @@
 ### Pravila privatnosti Firefox Marketplacea
 3. srpnja 2013.
 
-Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama s Firefox Marketplacea, naša [Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
+Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama s Firefox Marketplacea, naša [Pravila privatnosti](https://www.mozilla.org/privacy/) opisuju kako postupamo s tim informacijama.
 
 <u>Što biste trebali znati</u>
 
@@ -44,7 +44,7 @@ Kada nam date osobne podatke, koristimo ih na načine za koje ste nam dali dopu�
 
 - Kada imamo vaše dopuštenje za to.
 - Za pripremanje ili pružanje proizvoda i usluga, no samo ako su primatelji vaših podataka ugovorno obvezni postupati s njima na načine koje je odobrila Mozilla.
-- Kada ispunjavamo svoju zadaću [otvorenosti](http://www.mozilla.org/about/manifesto.html). Ponekad objavljujemo neku informaciju kako bismo poboljšali naše proizvode i promicali otvorenost Interneta, no u tom slučaju uklanjamo vaše osobne podatke te ih nastojimo otkrivati na način koji predstavlja najmanju opasnost od ponovnog otkrivanja vašeg identiteta.
+- Kada ispunjavamo svoju zadaću [otvorenosti](https://www.mozilla.org/about/manifesto.html). Ponekad objavljujemo neku informaciju kako bismo poboljšali naše proizvode i promicali otvorenost Interneta, no u tom slučaju uklanjamo vaše osobne podatke te ih nastojimo otkrivati na način koji predstavlja najmanju opasnost od ponovnog otkrivanja vašeg identiteta.
 - Kada to zakon zahtijeva. Kada od vlasti primimo zahtjeve u vezi s vama ili sa sudskim procesom, postupamo prema zakonu. Obavijestit ćemo vas kada dobijemo zahtjev o predaji vaših podataka u navedenu svrhu, osim ako nam to zakon ne dopusti. Kada primimo takav zahtjev, vaše osobne podatke pružamo samo ako iskreno smatramo da to od nas traži zakon. Ova pravila ni u kojem pogledu ne ograničavaju bilo koju pravnu obranu ili prigovore koje biste mogli imati s obzirom na zahtjev treće strane za otkrivanje vaših podataka.
 - Kada smatramo da je potrebno spriječiti nanošenje štete vama ili nekome drugome. Vaše ćemo podatke otkriti drugima u ovu svrhu samo ako iskreno smatramo da je to neophodno radi zaštite prava, vlasništva ili sigurnosti vas, drugih korisnika, Mozille ili javnosti.
 - Ako se promijeni naša organizacijska struktura ili status (ako dođe do restrukturiranja, preuzimanja ili stečaja), vaše podatke možemo proslijediti pravnom nasljedniku ili pridruženom društvu.
@@ -59,7 +59,7 @@ Vaše podatke ne želimo čuvati dulje nego što su nam potrebni, stoga ih zadr�
 
 Mi smo globalna organizacija i naša su računala raspoređena na različitim mjestima širom svijeta. Koristimo davatelje usluga čija računala mogu također biti smještena u različitim zemljama. To znači da se vaši podaci mogu naći na jednom od računala u nekoj drugoj zemlji koja može imati drugačiju razinu propisa o zaštiti podataka od vaše. Dajući nam svoje podatke, pristajete na ovu vrstu njihovog prijenosa. Bez obzira na to u kojoj se zemlji vaši podaci nalaze, postupamo u skladu s primjenjivim zakonom te se pridržavamo obveza koje proizlaze iz ovih pravila privatnosti.
 
-Ako imate manje od 13 godina, ne želimo posjedovati vaše osobne podatke i ne smijete nam ih davati. Ako ste roditelj i mislite da nam je vaše dijete koje je mlađe od 13 godina dalo svoje osobne podatke, [obratite nam se](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) kako bismo uklonili podatke o vašem djetetu.
+Ako imate manje od 13 godina, ne želimo posjedovati vaše osobne podatke i ne smijete nam ih davati. Ako ste roditelj i mislite da nam je vaše dijete koje je mlađe od 13 godina dalo svoje osobne podatke, [obratite nam se](https://www.mozilla.org/privacy/policies/firefox-os/) kako bismo uklonili podatke o vašem djetetu.
 
 ### Što ako se ova pravila promijene?
 

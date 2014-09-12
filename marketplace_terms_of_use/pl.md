@@ -94,9 +94,7 @@ powinien skontaktować się z Twórcą Materiału, korzystając z informacji
 zawartych na stronie dotyczącej danego Materiału.
 
 Użytkownik może także zwrócić się z prośbą o wparcie techniczne do operatora
-sieci komórkowej [https://support.mozilla.org/pl/kb/firefoxos-carrier-support-
-contact-information](https://support.mozilla.org/pl/kb/firefoxos-carrier-
-support-contact-information), za pośrednictwem którego korzysta z Platformy
+sieci komórkowej <https://support.mozilla.org/pl/kb/firefoxos-carrier-support-contact-information>, za pośrednictwem którego korzysta z Platformy
 Firefox Marketplace (lista stron internetowych operatorów sieci świadczących
 wsparcie techniczne jest dostępna [tu]). W celu uzyskania informacji
 dotyczących Platformy Firefox Marketplace, jak również przejrzenia odpowiedzi
@@ -216,7 +214,7 @@ naruszeń praw autorskich i znaków towarowych.
 Zgłoszenia składane w trybie ustawy DMCA skierowane do Mozilli mogą być
 przekazywane osobom trzecim (w tym również osobom, którym zarzuca się
 dokonanie naruszenia) lub mogą być umieszczone w internecie (w tym na stronie
-[http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+<https://www.chillingeffects.org>).
 
 ## Zawiadomienia o naruszeniu praw do znaku towarowego
 

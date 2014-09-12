@@ -3,7 +3,7 @@
 8\. мај 2013. године
 {: datetime="2013-05-08" }
 
-Brinemo za Vašu privatnosti Kada Firefox OS šalje informacije Mozilla-i (to smo mi), [Mozilla Pravila privatnosti](http://www.mozilla.org/sr/privacy/) opisuju kako postupamo sa tim informacijama.
+Brinemo za Vašu privatnosti Kada Firefox OS šalje informacije Mozilla-i (to smo mi), [Mozilla Pravila privatnosti](https://www.mozilla.org/sr/privacy/) opisuju kako postupamo sa tim informacijama.
 
 ## Šta treba da znate
 

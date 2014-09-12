@@ -23,7 +23,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
 4. #### Política de privacidade
 
-    O [Aviso de privacidade do Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) detalha quais informações recebemos quando você usa os Serviços e de que forma usamos essas informações. Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa [Política de privacidade da Mozilla](http://www.mozilla.org/privacy/).
+    O [Aviso de privacidade do Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) detalha quais informações recebemos quando você usa os Serviços e de que forma usamos essas informações. Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Seu conteúdo em nossos Serviços
 
@@ -31,7 +31,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
 6. #### Direitos de propriedade da Mozilla
 
-    A Mozilla não concede a você quaisquer direitos de propriedade intelectual sobre os Serviços que não estejam especificamente declarados nestes Termos. Por exemplo, estes Termos não oferecem o direito de uso de quaisquer direitos autorais, denominações sociais, marcas registradas, marcas de serviço, logotipos, nomes de domínio ou outras características distintivas de marcas da Mozilla. Os Serviços são distribuídos sob a versão atual da [Licença Pública Mozilla](http://www.mozilla.org/MPL/) e sujeitos a ela.
+    A Mozilla não concede a você quaisquer direitos de propriedade intelectual sobre os Serviços que não estejam especificamente declarados nestes Termos. Por exemplo, estes Termos não oferecem o direito de uso de quaisquer direitos autorais, denominações sociais, marcas registradas, marcas de serviço, logotipos, nomes de domínio ou outras características distintivas de marcas da Mozilla. Os Serviços são distribuídos sob a versão atual da [Licença Pública Mozilla](https://www.mozilla.org/MPL/) e sujeitos a ela.
 
 7. #### Vigência; Rescisão
 

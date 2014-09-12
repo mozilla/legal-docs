@@ -93,7 +93,7 @@ Jeder Marketplace-Inhalt, der über den Firefox Marketplace vertrieben wird, mus
 
 ## Persona und Marketplace-Inhalte
 
-[Persona](http://persona.org) ist Mozillas Anmeldesystem. Einige Marketplace-Inhalte nutzen Persona zum Zwecke der Authentifizierung. Wir werden Ihnen Nachweise über die Verkaufszahlen Ihrer Marketplace-Inhalte durch Nutzer zur Verfügung stellen.
+[Persona](https://persona.org) ist Mozillas Anmeldesystem. Einige Marketplace-Inhalte nutzen Persona zum Zwecke der Authentifizierung. Wir werden Ihnen Nachweise über die Verkaufszahlen Ihrer Marketplace-Inhalte durch Nutzer zur Verfügung stellen.
 
 ## App-Bewertungen & Statistiken
 
@@ -113,7 +113,7 @@ Wenn Sie Ihre gesamten Marketplace-Inhalte vom Firefox Marketplace zurückziehen
 
 Mozilla hat das Recht (nicht aber die Pflicht), jegliche Inhalte nach eigenem Ermessen zu entfernen, die nach Mozillas begründeter Auffassung eine Mozilla-Richtlinie verletzen oder in anderer Weise schädlich oder beanstandungswürdig sind.
 
-Unbeschadet dessen kann Mozilla nach Benachrichtigung durch Sie oder anderweitige Kenntnisnahme in alleinigem Ermessen feststellen, dass Marketplace-Inhalte ganz oder in Teilen (unter anderem mit dem Marketplace-Inhalt in Verbindung stehende Marken, Logos oder andere Markenzeichen): (a) unsere [Marketplace-Überprüfungskriterien](https://developer.mozilla.org/de/docs/Apps/Publishing/Marketplace_review_criteria) oder andere Firefox Marketplace-Richtlinien verletzen; (b) zu einer Haftung durch Mozilla oder einen Dritten führen können; oder (c) diese Bestimmungen verletzen. In diesen Fällen kann Mozilla den Abruf der Marketplace-Inhalte über den Firefox Marketplace stoppen, die Marketplace-Inhalte vom Firefox Marketplace entfernen, zugehörige Materialien markieren, herausfiltern oder ändern (einschließlich, aber ohne Beschränkung auf Beschreibungen, Screenshots oder Metadaten), Marketplace-Inhalte neu bewerten oder nach eigenem Ermessen andere korrigierende Maßnahmen ergreifen. Sollten Sie Fragen oder Bedenken im Hinblick auf die Entfernung haben, können Sie uns kontaktieren: [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+Unbeschadet dessen kann Mozilla nach Benachrichtigung durch Sie oder anderweitige Kenntnisnahme in alleinigem Ermessen feststellen, dass Marketplace-Inhalte ganz oder in Teilen (unter anderem mit dem Marketplace-Inhalt in Verbindung stehende Marken, Logos oder andere Markenzeichen): (a) unsere [Marketplace-Überprüfungskriterien](https://developer.mozilla.org/de/docs/Apps/Publishing/Marketplace_review_criteria) oder andere Firefox Marketplace-Richtlinien verletzen; (b) zu einer Haftung durch Mozilla oder einen Dritten führen können; oder (c) diese Bestimmungen verletzen. In diesen Fällen kann Mozilla den Abruf der Marketplace-Inhalte über den Firefox Marketplace stoppen, die Marketplace-Inhalte vom Firefox Marketplace entfernen, zugehörige Materialien markieren, herausfiltern oder ändern (einschließlich, aber ohne Beschränkung auf Beschreibungen, Screenshots oder Metadaten), Marketplace-Inhalte neu bewerten oder nach eigenem Ermessen andere korrigierende Maßnahmen ergreifen. Sollten Sie Fragen oder Bedenken im Hinblick auf die Entfernung haben, können Sie uns kontaktieren: <app-reviews@mozilla.org>.
 
 Mozilla darf jederzeit diese Geschäftsbedingungen außer Kraft setzen oder kündigen, wenn Mozilla den Firefox Marketplace nicht länger anbietet oder Mozilla aus begründetem Anlass annimmt, dass Sie Richtlinien verletzt oder gegen diese Geschäftsbedingungen verstoßen haben.
 

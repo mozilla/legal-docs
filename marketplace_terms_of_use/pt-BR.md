@@ -132,7 +132,7 @@ conteúdo, dentre as características do Firefox Marketplace (“Seu Conteúdo�
 Para fins de esclarecimento, se você for um Desenvolvedor, “Seu Conteúdo” não
 inclui nenhum App ou Add-on que você tenha uploaded ao Firefox Marketplace –
 os termos sobre os Apps ou Add-ons que sejam uploaded estão abrangidos pelo
-[Contrato de Desenvolvedor](/developers/docs/policies/agreement). Ao realizar
+[Contrato de Desenvolvedor](https://marketplace.firefox.com/developers/docs/policies/agreement). Ao realizar
 o upload de Seu Conteúdo, você outorga a nós uma licença sem exclusividade,
 mundial e gratuita de uso de Seu Conteúdo em relação ao fornecimento e
 promoção do Firefox Marketplace. Você declara e garante que Seu Conteúdo não
@@ -196,7 +196,7 @@ agente de direitos autorais.
 
 Alertamos que qualquer Notificação de Direitos Autorais encaminhada ao Mozilla
 poderá ser enviada a terceiros (inclusive ao acusado) e postada na Internet
-(incluindo em http://www.chillingeffects.org/).
+(incluindo em <https://www.chillingeffects.org>).
 
 ## Notificações de Marcas Registradas
 

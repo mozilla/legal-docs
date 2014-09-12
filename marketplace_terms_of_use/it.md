@@ -51,9 +51,9 @@ Comprando contenuti acquistati, l'utente accetta di non aggirare intenzionalment
 
 Salvo diversa indicazione, i contenuti del Marketplace elencati nel Firefox Marketplace sono sviluppati e venduti da sviluppatori terzi, non da Mozilla. Per questo motivo eventuali richieste di assistenza riguardanti contenuti del Marketplace devono essere inviate allo sviluppatore dello specifico contenuto del Marketplace. Per richiedere assistenza per contenuti del Marketplace acquistati, contattare lo sviluppatore di quel contenuto attraverso la pagina in cui sono elencati i contenuti del Marketplace.
 
-È possibile anche richiedere assistenza all'operatore di telefonia mobile dal quale si accede al Firefox Marketplace (un elenco dei siti web di supporto degli operatori per Firefox OS è disponibile [qui](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). Per maggior informazioni sul Firefox Marketplace e articoli sulle domande frequenti, si rimanda al sito di supporto di Mozilla Firefox OS [a questo indirizzo](https://support.mozilla.org/en-US/questions/marketplace/refund).
+È possibile anche richiedere assistenza all'operatore di telefonia mobile dal quale si accede al Firefox Marketplace (un elenco dei siti web di supporto degli operatori per Firefox OS è disponibile [qui](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). Per maggior informazioni sul Firefox Marketplace e articoli sulle domande frequenti, si rimanda al sito di supporto di Mozilla Firefox OS [a questo indirizzo](https://support.mozilla.org/questions/marketplace/refund).
 
-Se il contenuto acquistato è difettoso, contiene malware, non è disponibile o comunque non funziona secondo quanto dichiarato, entro 10 giorni dall'acquisto l'utente può chiedere un rimborso [a questo indirizzo](https://support.mozilla.org/en-US/questions/marketplace/refund).
+Se il contenuto acquistato è difettoso, contiene malware, non è disponibile o comunque non funziona secondo quanto dichiarato, entro 10 giorni dall'acquisto l'utente può chiedere un rimborso [a questo indirizzo](https://support.mozilla.org/questions/marketplace/refund).
 
 ### Condizioni aggiuntive relative al contenuto del Marketplace
 
@@ -103,7 +103,7 @@ I recapiti forniti in precedenza riguardano anche le comunicazioni relative a di
 
 All'agente per il diritto d'autore devono essere indirizzate solo le comunicazioni DMCA, sui marchi commerciali (definite di seguito), e le comunicazioni per diritti d'autore o marchi internazionali.
 
-Si ricorda che le eventuali comunicazioni DMCA inviate a Mozilla possono essere inoltrate a terzi compreso l'accusato) e pubblicate su Internet (anche su [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Si ricorda che le eventuali comunicazioni DMCA inviate a Mozilla possono essere inoltrate a terzi compreso l'accusato) e pubblicate su Internet (anche su <https://www.chillingeffects.org>).
 
 ### Comunicazioni su marchi commerciali
 

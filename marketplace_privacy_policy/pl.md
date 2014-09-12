@@ -4,7 +4,7 @@
 
 Mozilla dba o Twoją prywatność. Jeśli Mozilla pobiera informacje o
 Użytkownikach z Platformy Transakcyjnej Firefox, są one przetwarzane zgodnie z
-[niniejszą Polityką prywatności](http://www.mozilla.org/en-US/privacy/).
+[niniejszą Polityką prywatności](https://www.mozilla.org/privacy/).
 
 ### Co powinien wiedzieć Użytkownik
 
@@ -121,7 +121,7 @@ Mozilla nie zbiera informacji od Użytkowników poniżej 13 roku życia,
 Użytkownicy poniżej 13 roku życia nie są zobowiązani do powierzania informacji
 o sobie Mozilla. Przedstawiciele prawni Użytkowników poniżej 13 roku życia,
 którzy podejrzewają, że Użytkownik taki przekazał Mozilla swoje informacje
-osobowe, są [proszeni o kontakt z](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) Mozilla w celu usunięcia informacji osobowych
+osobowe, są [proszeni o kontakt z](https://www.mozilla.org/privacy/policies/firefox-os/) Mozilla w celu usunięcia informacji osobowych
 dziecka.
 
 ### Co jeśli nastąpi zmiana niniejszej Polityki prywatności?

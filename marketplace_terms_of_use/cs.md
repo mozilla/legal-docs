@@ -55,9 +55,9 @@ Nákupem Zakoupeného obsahu souhlasíte, že nebudete úmyslně obcházet žád
 
 Není-li uvedeno jinak, Obsah Marketplace nabízený na Firefox Marketplace byl vyvinut a je prodáván nezávislými Vývojáři a nikoliv společností Mozilla. Z tohoto důvodu je třeba veškeré žádosti o podporu ohledně jakéhokoliv Obsahu Marketplace zasílat Vývojáři daného Obsahu Marketplace. Pro žádost o podporu pro zakoupený Obsah Marketplace se prosím obraťte na Vývojáře daného Obsahu Marketplace prostřednictvím stránky nabídek Obsahu Marketplace.
 
-O podporu můžete rovněž požádat operátora mobilní sítě, jejímž prostřednictvím vstupujete na Firefox Marketplace (seznam webových stránek podpory operátorů je k dispozici [zde](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). Pro informace o Firefox Marketplace, jakož i články o nejčastějších otázkách navštivte prosím stránku podpory společnosti Mozilla [zde](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
+O podporu můžete rovněž požádat operátora mobilní sítě, jejímž prostřednictvím vstupujete na Firefox Marketplace (seznam webových stránek podpory operátorů je k dispozici [zde](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). Pro informace o Firefox Marketplace, jakož i články o nejčastějších otázkách navštivte prosím stránku podpory společnosti Mozilla [zde](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-Pokud je Zakoupený obsah vadný, obsahuje malware, není dostupný nebo jinak neodpovídá tvrzením, můžete požadovat vrácení peněz [zde](https://support.mozilla.org/en-US/questions/marketplace/refund) do 10 dní od nákupu.
+Pokud je Zakoupený obsah vadný, obsahuje malware, není dostupný nebo jinak neodpovídá tvrzením, můžete požadovat vrácení peněz [zde](https://support.mozilla.org/questions/marketplace/refund) do 10 dní od nákupu.
 
 
 ### Dodatečné podmínky ohledně Obsahu Marketplace
@@ -113,7 +113,7 @@ Kontaktní informace uvedené výše platí rovněž pro oznámení vycházejíc
 
 Zástupci pro ochranné známky budou zasílána pouze Oznámení DMCA, Oznámení o ochranných známkách (dle definice níže) a oznámení o mezinárodních autorských právech nebo ochranných známkách.
 
-Dovolujeme si upozornit, že veškerá Oznámení DMCA zaslaná společnosti Mozilla mohou být přeposlána třetím osobám (včetně obviněných) a zveřejněna na internetu (včetně adresy [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Dovolujeme si upozornit, že veškerá Oznámení DMCA zaslaná společnosti Mozilla mohou být přeposlána třetím osobám (včetně obviněných) a zveřejněna na internetu (včetně adresy <https://www.chillingeffects.org>).
 
 
 ### Oznámení o ochranných známkách

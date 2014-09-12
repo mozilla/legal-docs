@@ -1,7 +1,7 @@
 ### Avviso sulla privacy del Firefox Marketplace
 2 luglio 2013
 
-Per Mozilla, la privacy degli utenti è importante. La [Informativa sulla privacy di Mozilla](http://www.mozilla.org/en-US/privacy/) descrive in che modo Mozilla tratta le informazioni che raccoglie sugli utenti dal Firefox Marketplace.
+Per Mozilla, la privacy degli utenti è importante. La [Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive in che modo Mozilla tratta le informazioni che raccoglie sugli utenti dal Firefox Marketplace.
 
 <u>Cose da sapere</u>
 
@@ -47,7 +47,7 @@ Quando l’utente fornisce a Mozilla dati personali, essi vengono utilizzati nei
 
 - Quando l’utente ha espresso il proprio consenso alla loro condivisione.
 - Per elaborare o fornire prodotti e servizi per l’utente, ma soltanto nel caso in cui i soggetti che ricevono i dati dell'utente sia contrattualmente obbligati a trattarli secondo le modalità approvate da Mozilla.
-- Nel perseguire la propria [missione di rete aperta](http://www.mozilla.org/about/manifesto.html). Per migliorare i servizi e promuovere una rete aperta, Mozilla può talvolta rendere pubbliche alcune informazioni ma, prima di farlo, elimina i dati personali dell’utente e cerca di divulgarle in modo da minimizzare il rischio che l’utente possa essere nuovamente identificato.
+- Nel perseguire la propria [missione di rete aperta](https://www.mozilla.org/about/manifesto.html). Per migliorare i servizi e promuovere una rete aperta, Mozilla può talvolta rendere pubbliche alcune informazioni ma, prima di farlo, elimina i dati personali dell’utente e cerca di divulgarle in modo da minimizzare il rischio che l’utente possa essere nuovamente identificato.
 - Nei casi previsti dalla legge. Ogni volta vengano richieste informazioni sugli utenti da parte di organi governativi o in  relazione a una causa legale, Mozilla si attiene alla legge. Nel caso in cui vengano richiesti a Mozilla dati personali sull’utente, l’utente ne verrà informato salvo laddove la legge non autorizzi Mozilla a farlo. Nel caso in cui Mozilla riceva richieste di questo tipo, divulgherà unicamente i dati personali che, in buona fede, abbia ragione di credere che debbano essere forniti per legge. Nulla di quanto contenuto nella presente informativa intende limitare la difesa in giudizio o le obiezioni dell’utente relativamente alla richiesta avanzata da terzi di ottenere dati sull’utente.
 - Quando Mozilla ritiene che sia necessario per evitare di causare pregiudizio all'utente o ad altri. In questo caso, Mozilla condividerà i dati sull'utente soltanto laddove abbia in buona fede ragione di credere che ciò sia ragionevolmente necessario per tutelare i diritti, i beni o la sicurezza dell'utente, di altri utenti, di Mozilla o del pubblico in generale.
 - Nel caso in cui la struttura organizzativa o lo status di Mozilla subisca modifiche (in caso di ristrutturazione, acquisizione o fallimento), Mozilla potrà trasferire le informazioni sull'utente a un successore o a una collegata.

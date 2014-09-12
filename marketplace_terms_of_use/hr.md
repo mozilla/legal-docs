@@ -55,9 +55,9 @@ Kupnjom Kupljenog sadržaja potvrđujete da nećete namjerno zaobilaziti mehaniz
 
 Ako nije drugačije napomenuto, Marketplace sadržaj naveden u Firefox Marketplaceu razvili su i prodali razvojni programeri treće strane, a ne Mozilla. Zbog toga sve svoje zahtjeve za podršku koji su povezani sa sadržajem usluge Marketplace treba uputiti razvojnom programeru tog sadržaja. Kako biste zatražili podršku za sadržaj Marketplacea koji ste kupili, obratite se razvojnom programeru tog sadržaja preko stranice s podacima o tom sadržaju Marketplacea.
 
-Podršku možete zatražiti i od operatera mobilne mreže putem kojeg pristupate Firefox Marketplaceu (popis web-mjesta za podršku operatora dostupan je [ovdje](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). Kako biste saznali više o usluzi Firefox Marketplace te pronašli članke o često postavljanim pitanjima, posjetite Mozillino web-mjesto za podršku [ovdje](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
+Podršku možete zatražiti i od operatera mobilne mreže putem kojeg pristupate Firefox Marketplaceu (popis web-mjesta za podršku operatora dostupan je [ovdje](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). Kako biste saznali više o usluzi Firefox Marketplace te pronašli članke o često postavljanim pitanjima, posjetite Mozillino web-mjesto za podršku [ovdje](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-Ako vaš Kupljeni sadržaj nije ispravan, sadrži zlonamjerni softver, nije dostupan ili ne radi kako je navedeno, možete zatražiti povrat novca [ovdje](https://support.mozilla.org/en-US/questions/marketplace/refund) u roku od 10 dana od datuma kupnje.
+Ako vaš Kupljeni sadržaj nije ispravan, sadrži zlonamjerni softver, nije dostupan ili ne radi kako je navedeno, možete zatražiti povrat novca [ovdje](https://support.mozilla.org/questions/marketplace/refund) u roku od 10 dana od datuma kupnje.
 
 
 ### Dodatni uvjeti koji se odnose na sadržaj Marketplacea
@@ -113,7 +113,7 @@ Ranije navedeni podaci za kontakt vrijede i za prijave koje se odnose na autorsk
 
 Zastupniku za autorska prava treba slati samo prijave DMCA, prijave o zaštitnim znakovima (koje su opisane u nastavku) i međunarodne prijave o autorskim pravima ili zaštitnim znakovima.
 
-Imajte na umu da se Prijave DCMA poslane Mozilli mogu proslijediti trećim stranama (uključujući i optuženima) te objaviti na Internetu (uključujući na [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Imajte na umu da se Prijave DCMA poslane Mozilli mogu proslijediti trećim stranama (uključujući i optuženima) te objaviti na Internetu (uključujući na <https://www.chillingeffects.org>).
 
 
 ### Prijave o zaštitnim znakovima

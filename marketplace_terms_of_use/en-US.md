@@ -55,9 +55,9 @@ By purchasing Purchased Content, you agree not to intentionally circumvent any a
 
 Unless otherwise noted, the Marketplace Content listed in the Firefox Marketplace is developed and sold by third-party Developers, not Mozilla. For this reason, any support requests you have that are related to Marketplace Content have to be made to the Developer of that Marketplace Content. To request support for Marketplace Content you have purchased, please contact the Developer of that Marketplace content through that Marketplace Content&rsquo;s listing page.
 
-You can also request support from the mobile network operator on which you are accessing the Firefox Marketplace (a list of carrier support websites are available [here](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). For information on the Firefox Marketplace as well as articles about commonly asked questions, please visit the Mozilla support site [here](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
+You can also request support from the mobile network operator on which you are accessing the Firefox Marketplace (a list of carrier support websites are available [here](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). For information on the Firefox Marketplace as well as articles about commonly asked questions, please visit the Mozilla support site [here](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-If your Purchased Content is defective, contains malware, is unavailable or otherwise does not perform as stated, you may request a refund [here](https://support.mozilla.org/en-US/questions/marketplace/refund) within 10 days of purchase.
+If your Purchased Content is defective, contains malware, is unavailable or otherwise does not perform as stated, you may request a refund [here](https://support.mozilla.org/questions/marketplace/refund) within 10 days of purchase.
 
 
 ### Additional Terms regarding Marketplace Content
@@ -113,7 +113,7 @@ The contact information provided above also applies to notices that are based on
 
 Only DMCA Notices, Trademark Notices (which are defined below), and international copyright or trademark notices should go to the copyright agent.
 
-Please be advised that any DMCA Notices sent to Mozilla may be sent to third parties (including the accused) and posted on the Internet (including at [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Please be advised that any DMCA Notices sent to Mozilla may be sent to third parties (including the accused) and posted on the Internet (including at <https://www.chillingeffects.org>).
 
 
 ### Trademark Notices

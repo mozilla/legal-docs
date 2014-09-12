@@ -1,16 +1,16 @@
-### Firefox Marketplace Pravila privatnosti  
+### Firefox Marketplace Pravila privatnosti
 3. jul 2013
 
-Brinemo za Vašu privatnost. Kada Mozilla (a to smo mi) prikuplja podatke o Vama sa Firefox Marketplace-a, naša [pravila privatnosti] opisuju kako rukujemo tim podacima. 
+Brinemo za Vašu privatnost. Kada Mozilla (a to smo mi) prikuplja podatke o Vama sa Firefox Marketplace-a, naša [pravila privatnosti] opisuju kako rukujemo tim podacima.
 
 <u>Šta treba da znate</u>
 
-- Većinu aplikacija na Firefox Marketplace-u nismo napravili mi, i potrebno je da proverite njihova pravila privatnosti pre korišćenja istih. 
-- Uplate obrađuju druga lica (ne Mozilla), i potrebno je da proverite pravila privatnosti konkretnog pružaoca usluga plaćanja kako biste razumeli njegovu praksu. 
-  - Mozilla ne prikuplja, ne zadržava niti koristi bilo kakve finansijske informacije (kao što su podaci o kreditnoj kartici koju ste koristili za kupovinu na Firefox Marketplace-u). 
-- Firefox Marketplace koristi kolačiće (cookies) i druge web tehnologije u cilju obezbeđivanja funkcionalnosti (na primer, da Vas zapamti između sesija) i kao pomoć u razumevanju kako korisnici koriste servis putem združene analize. 
+- Većinu aplikacija na Firefox Marketplace-u nismo napravili mi, i potrebno je da proverite njihova pravila privatnosti pre korišćenja istih.
+- Uplate obrađuju druga lica (ne Mozilla), i potrebno je da proverite pravila privatnosti konkretnog pružaoca usluga plaćanja kako biste razumeli njegovu praksu.
+  - Mozilla ne prikuplja, ne zadržava niti koristi bilo kakve finansijske informacije (kao što su podaci o kreditnoj kartici koju ste koristili za kupovinu na Firefox Marketplace-u).
+- Firefox Marketplace koristi kolačiće (cookies) i druge web tehnologije u cilju obezbeđivanja funkcionalnosti (na primer, da Vas zapamti između sesija) i kao pomoć u razumevanju kako korisnici koriste servis putem združene analize.
 - Marketplace može koristiti podatke o Vašem prenosiocu podataka i lokaciji kako bi prilagodilo Vaše korisničko iskustvo.
-  - Na Firefox OS uređajima koristimo podatke o mreži sa Vašeg uređaja da bismo razumeli lokaciju Vaše zemlje i mrežu prenosioca podataka kako bismo prilagodili Vaše korisničko iskustvo i ponudili Vam sadržaj specifičan za datog prenosioca. 
+  - Na Firefox OS uređajima koristimo podatke o mreži sa Vašeg uređaja da bismo razumeli lokaciju Vaše zemlje i mrežu prenosioca podataka kako bismo prilagodili Vaše korisničko iskustvo i ponudili Vam sadržaj specifičan za datog prenosioca.
   - Na svim platformama možemo koristiti Vašu IP adresu kako bismo odredili lokaciju Vaše zemlje, i prilagodili Vaše korisničko iskustvo.
 - Ne morate da se prijavite da biste instalirali besplatne aplikacije, ali u slučaju plaćenih aplikacija, prijava je potrebna. Isto tako, pomažemo Vam da vodite istoriju svojih transakcija (kao što su Aplikacije koje ste kupili).
 - Možete odabrati da primite e-mail od nas, i možete se odjaviti sa bilo koje e-mail marketing komunikacije koju ste odabrali da primate.
@@ -44,7 +44,7 @@ Kada nam date svoje lične podatke, mi ćemo ih koristiti na način za koji ste 
 
 - Kada imamo Vaše odobrenje da ih delimo.
 - Za obradu ili obezbeđivanje proizvoda i pružanje usluga Vama, ali samo ako su subjekti koji dobijaju Vaše podatke ugovorom obavezani da rukuju podacima na načine koje Mozilla odobrava.
-- Kada ispunjavamo svoju [misiju otvorenosti](http://www.mozilla.org/about/manifesto.html) Ponekad otkrivamo podatke u cilju poboljšanja naših proizvoda i podsticanja otvorenog interneta, ali kada to činimo, uklonićemo Vaše lične podatke i potruditi se da ih otkrijemo na način kojim se rizik vaše ponovne identifikacije svodi na minimum.
+- Kada ispunjavamo svoju [misiju otvorenosti](https://www.mozilla.org/about/manifesto.html) Ponekad otkrivamo podatke u cilju poboljšanja naših proizvoda i podsticanja otvorenog interneta, ali kada to činimo, uklonićemo Vaše lične podatke i potruditi se da ih otkrijemo na način kojim se rizik vaše ponovne identifikacije svodi na minimum.
 - Kada to nalaže zakon. Postupamo u skladu sa zakonom kada god primimo zahtev o Vama od Vlade ili u vezi sa nekom tužbom. Obavestićemo Vas kada dobijemo zahtev da prenesemo Vaše lične podatke na ovaj način, osim ako nam to zakon zabranjuje. Kada primimo ovakve zahteve, otkrićemo Vaše lične podatke samo ako smo uvereni u dobroj veri da nam zakon nalaže da to učinimo. Ništa u ovim pravilima nema za cilj da ograniči bilo koju zakonsku odbranu ili prigovore koje možete imati na zahtev treće strane o otkrivanju Vaših podataka.
 - Kada smatramo da je to potrebno kako bismo sprečili nanošenje štete Vama ili drugom licu. Delićemo Vaše podatke na ovaj način samo ako smo uvereni u dobroj veri da je to razumno potrebno za zaštitu Vaših prava, imovine ili bezbednosti, ili prava, imovine ili bezbednosti drugih korisnika, Mozilla-e ili javnosti.
 - Ako se naša organizaciona struktura ili status izmene (ako izvršimo restrukturiranje, ako nas kupi drugo lice, ili ako padnemo pod stečaj), možemo preneti Vaše podatke našem nasledniku ili sledbeniku.
@@ -59,7 +59,7 @@ Takođe, ne želimo da zadržavamo Vaše lične podatke duže nego što su nam p
 
 Mi smo globalna organizacija, i naši kompjuteri se nalaze na nekoliko različitih mesta širom sveta. Isto tako, koristimo pružaoce usluga čiji kompjuteri takođe mogu biti u raznim zemljama. To znači da Vaše informacije mogu završiti na nekom od tih kompjutera u nekoj drugoj zemlji, a ta zemlja može imati različit stepen uređenja zaštite podataka u odnosu na Vašu zemlju. Davanjem podataka nama, saglašavate se sa ovom vrstom prenosa Vaših podataka. Bez obzira na to u kojoj zemlji se nalaze Vaši podaci, mi ćemo postupati u skladu sa primenjivim pravom i poštovati sve na šta smo se obavezali u ovim pravilima privatnosti.
 
-Ako imate manje od 13 godina, ne želimo da dobijemo Vaše lične podatke, i ne smete nam ih dati. Ako ste roditelj, i smatrate da nam je Vaše dete koje je mlađe od 13 godina, dalo lične podatke, molimo Vas da nas [kontaktirate](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) kako bismo uklonili podatke Vašeg deteta.
+Ako imate manje od 13 godina, ne želimo da dobijemo Vaše lične podatke, i ne smete nam ih dati. Ako ste roditelj, i smatrate da nam je Vaše dete koje je mlađe od 13 godina, dalo lične podatke, molimo Vas da nas [kontaktirate](https://www.mozilla.org/privacy/policies/firefox-os/) kako bismo uklonili podatke Vašeg deteta.
 
 ### Šta se dešava ako izmenimo ova pravila?
 

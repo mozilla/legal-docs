@@ -155,11 +155,11 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
 3.  **开源许可证合规**。分销任何开源对象或源代码必须符合管辖该代码的每个开源许可证的要求。有关 Boot2Gecko 中开源的更多信息，请参见 <https://wiki.mozilla.org/Boot2Gecko/Licensing>。Mozilla 强烈建议您参与 Boot 2 Gecko 项目并考虑为其做出开源贡献。如需了解如何参与的更多信息，请参见下列资源：
 
-    a.  <https://developer.mozilla.org/en-US/docs/Introduction>
+    a.  <https://developer.mozilla.org/docs/Introduction>
 
-    b.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
+    b.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS>
 
-    c.  <http://mozilla.github.io/process-releases/draft/development_overview>
+    c.  <https://mozilla.github.io/process-releases/draft/development_overview>
 
     d.  <https://wiki.mozilla.org/B2G/Architecture>
 
@@ -201,9 +201,9 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
       b.ii.  不得修改默认用户代理字符串，并应确保 Gecko 用户代理字符串精确到相应的 Gecko 版本。如需更多信息，请参见：
 
-      b.ii.1.  [https://wiki.mozilla.org/B2G/User\_Agent/OEM\_Changes\_Policy](https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy)
+      b.ii.1.  <https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy>
 
-      b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+      b.ii.2.  <https://developer.mozilla.org/docs/Gecko_user_agent_string_reference>
 
       b.iii.  不得修改现有 Web API 的行为。例如，不得更改某一函数的语义或其副作用。
 
@@ -217,13 +217,13 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
       a.  品牌定制设备必须实现下面所示的权限模型和信任级别：
 
-      a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+      a.i.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-      a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+      a.ii.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/System_security>
 
       b.  品牌定制设备必须能够通过相应的权限检查访问 Web API。下面所示为当前的权限检查：
 
-      b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+      b.i.  <https://developer.mozilla.org/docs/Web/Apps/App_permissions>
 
       c.  源自 Firefox Marketplace、预安装在品牌定制设备上的应用程序应附带为 Firefox Marketplace 提供的应用程序签名证书，预安装的非源自 Firefox Marketplace 的应用程序不得使用 Firefox Marketplace 签名证书。
 
@@ -237,7 +237,7 @@ Mozilla 特此授予您 Brand Kit 和 Powered by Firefox OS 品牌资产的使�
 
       e.  不得将任何间谍软件或恶意软件引入品牌定制设备。此外，未经终端用户同意，您或任何第三方不得使用其他方式访问用户的个人信息。
 
-      f.  不得对品牌定制设备进行会导致 Firefox OS 隐私政策（参见 <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>）或 Firefox Marketplace 隐私政策（参见 <https://marketplace.firefox.com/privacy-policy>）不再准确的任何修改（这两项政策都会不定期修改）。
+      f.  不得对品牌定制设备进行会导致 Firefox OS 隐私政策（参见 <https://www.mozilla.org/privacy/policies/firefox-os/>）或 Firefox Marketplace 隐私政策（参见 <https://marketplace.firefox.com/privacy-policy>）不再准确的任何修改（这两项政策都会不定期修改）。
 
 5.  **审查流程；审核。**
 

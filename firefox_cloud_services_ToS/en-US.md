@@ -23,11 +23,11 @@ This top section summarizes the terms below. This summary is provided to help yo
     
     Find My Device allows you to remotely locate and control certain features of a Firefox OS device, such as viewing recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message. To use these functions, you must enable Find My Device in the settings of your device.  Find My Device will work even if the sound and location settings on your device are silent or turned off. You can disable this feature in the settings of your device.
     
-    If your device is misplaced, you can log into http://www.find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal. If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information because messages displayed on your device are publicly available. 
+    If your device is misplaced, you can log into https://find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal. If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information because messages displayed on your device are publicly available.
 
 4. #### Privacy Policy
 
-    The [Firefox Cloud Services Privacy Notice](http://www.mozilla.org/en-US/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](http://www.mozilla.org/privacy/).
+    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
@@ -35,7 +35,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 6. #### Mozilla's Proprietary Rights
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](http://www.mozilla.org/MPL/).
+    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 7. #### Term; Termination
 

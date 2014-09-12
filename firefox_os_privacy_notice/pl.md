@@ -3,7 +3,7 @@
 8 maja 2013
 {: datetime="2013-05-08" }
 
-Mozilla dba o Państwa prywatność. Jeśli System Operacyjny Firefox przesyła informacje do Mozilla, niniejsza [polityka prywatności](http://www.mozilla.org/pl/privacy/) opisuje, w jaki sposób wykorzystujemy te informacje.
+Mozilla dba o Państwa prywatność. Jeśli System Operacyjny Firefox przesyła informacje do Mozilla, niniejsza [polityka prywatności](https://www.mozilla.org/pl/privacy/) opisuje, w jaki sposób wykorzystujemy te informacje.
 
 ## Co powinien wiedzieć Użytkownik
 

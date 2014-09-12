@@ -120,7 +120,7 @@ Marketplace y sentirse comodo con estos terminos antes de comprar, instalar o
 utilizar el Contenido del Marketplace.
 
 Si usted cree que el Desarrollador no esta de acuerdo con el [Acuerdo con el
-Desarrollador del Firefox Marketplace](/developers/docs/policies/agreement) o
+Desarrollador del Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) o
 con los [Terminos de Uso del Firefox Marketplace](/media/docs/terms/es.html), entre en
 contacto con nosotros a traves del link de "Denunciar Abuso" para el Contenido
 relevante del Market y nosotros investigaremos su solicitacion y tomaremos las
@@ -133,7 +133,7 @@ como parte de los recursos del Firefox Marketplace ("Sus Alegaciones"). Para
 aclarar, si usted es un Desarrollador, "Sus Alegaciones" no incluyen ningun
 App o Add-on que usted haya enviado al Firefox Marketplace - los terminos en
 relacion a los Apps o Add-ons que usted haya enviado son cubiertos por el
-[Acuerdo con el Desarrollador](/developers/docs/policies/agreement). Al enviar
+[Acuerdo con el Desarrollador](https://marketplace.firefox.com/developers/docs/policies/agreement). Al enviar
 Sus Alegaciones, nos concede una licencia gratuita, no exclusiva y general
 para utilizar Sus Alegaciones en relacion a las disposiciones y promocion del
 Firefox Marketplace. Usted declara y garantiza que Sus Alegaciones no violaran
@@ -200,7 +200,7 @@ derechos de autor.
 Informamos que cualquier Notificacion de la DMCA enviada a Mozilla puede ser
 enviada a terceros (incluyendo el acusado) y publicada en la Internet
 (incluyendo el sitio web
-[http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+<https://www.chillingeffects.org>).
 
 ## Notificaciones de Marca Registrada
 
@@ -232,8 +232,7 @@ exportacion.
 Usted declara y garantiza que el uso del Firefox Marketplace sera de acuerdo
 con estos Terminos, con cualquier ley y reglamento aplicable y con cualquier
 otra politica o termino y condicion aplicable. Por ejemplo, si usted decide
-tornarse un Desarrollador, debe concordar con el [Acuerdo con el
-Desarrollador](/developers/docs/policies/agreement).
+tornarse un Desarrollador, debe concordar con el [Acuerdo con el Desarrollador](https://marketplace.firefox.com/developers/docs/policies/agreement).
 
 ## Liberacion e Indemnizacion
 

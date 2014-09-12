@@ -116,9 +116,7 @@ administratorem systemu płatności.
 
 Jeśli Twórca korzysta ze zintegrowanego systemu płatności Firefox Marketplace,
 ponosi opłatę z tytułu każdej sprzedaży. Z wysokością obowiązujących aktualnie
-opłat można zapoznać się na stronie [https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Payments). Mozilla zastrzega sobie prawo zmiany
+opłat można zapoznać się na stronie <https://developer.mozilla.org/docs/Apps/Marketplace_Payments>. Mozilla zastrzega sobie prawo zmiany
 wysokości obowiązujących opłat w każdym czasie, według swojego uznania.
 
 ## Podatki
@@ -231,13 +229,11 @@ Wszelkie Materiały umieszczone na w Firefox Marketplace w celu
 rozpowszechniania muszą być zgodne z regulaminami Mozilli dotyczącymi treści
 oraz innymi regulacjami Mozilli, które mają zastosowanie do Twórców. Z
 aktualnymi regulacjami można zapoznać się na stronie:
-[https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Review](https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Review).
+<https://developer.mozilla.org/docs/Apps/Marketplace_Review>.
 
 ## Persona i Materiały umieszczone w Firefox Marketplace
 
-[Persona](http://persona.org) jest to system logowania Mozilli. W przypadku
+[Persona](https://persona.org) jest to system logowania Mozilli. W przypadku
 niektórych Materiałów umieszczonych w Firefox Marketplace Persona jest
 niezbędna do dokonania weryfikacji. Mozilla dostarczy Twórcy potwierdzenie
 zakupu przez użytkownika Materiałów umieszczonych w Firefox Marketplace.
@@ -313,7 +309,7 @@ ustali według własnego uznania, że jakiekolwiek Materiały umieszczone w
 Firefox Marketplace lub ich część (w tym w szczególności jakikolwiek znak
 towarowy, logo lub inne oznaczenie związane z Materiałem): (a) narusza zbiór
 wymagań dla materiałów umieszczanych w Firefox Marketplace
-[https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria]
+<https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria>
 lub inny regulacje mające zastosowanie do Firefox Marketplace; (b) może
 stanowić podstawę odpowiedzialności Mozilli lub innego podmiotu; lub (c)
 narusza Umowę, Mozilla może zablokować taki Materiał, usunąć z Firefox
@@ -322,7 +318,7 @@ szczególności dotyczy to opisów, zrzutów z ekranu, metadanych), w inny spos�
 sklasyfikować Materiał umieszczony w Firefox Marketplace w lub podjąć inne
 działania, według swojego uznania. Twórca, który ma pytania dotyczące
 usunięcia swojego Materiału umieszczonego w Firefox Marketplace, może
-skontaktować się z Mozillą mailowo na adres [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+skontaktować się z Mozillą mailowo na adres <app-reviews@mozilla.org>.
 
 Mozilla może w każdym czasie zawiesić stosowanie postanowień niniejszej Umowy
 lub ją rozwiązać, jeśli nie zamierza dłużej prowadzić Firefox Marketplace lub

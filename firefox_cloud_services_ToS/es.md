@@ -23,7 +23,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 4. #### Política de privacidad
 
-    El [Aviso de privacidad de Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la [Política de privacidad de Mozilla](http://www.mozilla.org/privacy/).
+    El [Aviso de privacidad de Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Su contenido en nuestros Servicios
 
@@ -31,7 +31,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 6. #### Derechos de propiedad intelectual de Mozilla
 
-    Mozilla no le otorga ningún derecho de propiedad intelectual en los Servicios que no se haya incluido específicamente en las presentes Condiciones. Por ejemplo, las presentes Condiciones no le otorgan el derecho a utilizar ninguno de los derechos de autor, nombres comerciales, marcas comerciales, marcas de servicio, logotipos, nombres de dominio u otras características distintivas de la marca Mozilla. Los Servicios se distribuyen bajo la versión actual de la [Licencia Pública de Mozilla](http://www.mozilla.org/MPL/), a la que están sujetos.
+    Mozilla no le otorga ningún derecho de propiedad intelectual en los Servicios que no se haya incluido específicamente en las presentes Condiciones. Por ejemplo, las presentes Condiciones no le otorgan el derecho a utilizar ninguno de los derechos de autor, nombres comerciales, marcas comerciales, marcas de servicio, logotipos, nombres de dominio u otras características distintivas de la marca Mozilla. Los Servicios se distribuyen bajo la versión actual de la [Licencia Pública de Mozilla](https://www.mozilla.org/MPL/), a la que están sujetos.
 
 7. #### Vigencia y rescisión
 

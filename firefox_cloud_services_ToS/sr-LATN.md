@@ -23,7 +23,7 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 
 4. #### Pravila Privatnosti
 
-    [Firefox Cloud Services obaveštenja o privatnosti](http://www.mozilla.org/en-US/privacy/firefox-cloud/) opisuju koje vrste informacija dobijamo od Vašeg korišćenja Usluga i na koji način koristimo te informacije. Koristimo informacije koje dobijamo preko Usluga na način na koji je to opisano u [Mozilla Pravilima Privatnosti](http://www.mozilla.org/privacy/).
+    [Firefox Cloud Services obaveštenja o privatnosti](https://www.mozilla.org/privacy/firefox-cloud/) opisuju koje vrste informacija dobijamo od Vašeg korišćenja Usluga i na koji način koristimo te informacije. Koristimo informacije koje dobijamo preko Usluga na način na koji je to opisano u [Mozilla Pravilima Privatnosti](https://www.mozilla.org/privacy/).
 
 5. #### Vaš Sadržaj u Uslugama
 
@@ -31,7 +31,7 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 
 6. #### Mozilla Vlasnička Prava
 
-    Mozilla Vam ne dodeljuje nikakva prava intelektualne svojine u Uslugama koja nisu prethodno navedena u ovim Uslovima. Na primer, ovi Uslovi ne dodeljuju pravo korišćenja bilo kojih autorskih prava, trgovinskih naziva, žigova, oznaka usluga, logoa, naziva domena, ili drugih karakterističnih odlika brenda Mozilla. Uslovi su dostavljeni u okviru i zavise od važeće verzije [Mozilla Javne Dozvole](http://www.mozilla.org/MPL/).
+    Mozilla Vam ne dodeljuje nikakva prava intelektualne svojine u Uslugama koja nisu prethodno navedena u ovim Uslovima. Na primer, ovi Uslovi ne dodeljuju pravo korišćenja bilo kojih autorskih prava, trgovinskih naziva, žigova, oznaka usluga, logoa, naziva domena, ili drugih karakterističnih odlika brenda Mozilla. Uslovi su dostavljeni u okviru i zavise od važeće verzije [Mozilla Javne Dozvole](https://www.mozilla.org/MPL/).
 
 7. #### Rok; Raskid obaveza
 

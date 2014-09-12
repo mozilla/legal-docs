@@ -2,7 +2,7 @@
 
 2.July 2013
 
-Wir nehmen den Schutz Ihrer Daten sehr ernst. In unserer [Datenschutzerklärung](http://www.mozilla.org/de/privacy/)
+Wir nehmen den Schutz Ihrer Daten sehr ernst. In unserer [Datenschutzerklärung](https://www.mozilla.org/de/privacy/)
 erläutern wir Ihnen, wie Mozilla (das sind wir) mit Ihren Daten, die wir über
 den Firefox Marketplace erheben, umgeht.
 
@@ -59,7 +59,7 @@ unsere Produkte und Dienste zur Verfügung zu stellen und diese zu verbessern.
 
 - Wenn wir Ihre Erlaubnis zur Weitergabe haben.
 - Zum Zwecke der Auftragsdatenverarbeitung und um Ihnen Produkte und Dienste anbieten zu können, aber nur unter der Voraussetzung, dass sich die Ihre Daten empfangende Stelle vertraglich dazu verpflichtet hat, die Daten nur so zu verarbeiten bzw. zu nutzen wie dies durch Mozilla genehmigt wurde.
-- Wenn wir unserem Ziel zur [Offenheit](http://www.mozilla.org/about/manifesto.html) nachkommen wollen. Wir veröffentlichen gelegentlich Informationen, um unsere Produkte zu verbessern und um ein offenes Internet zu fördern. Dies alles tun wir allerdings nur unter der Prämisse, dass wir zuvor Ihre personenbezogenen Daten entfernen und versuchen, sie in einer Art und Weise offenzulegen, die das Risiko der Re-Identifikation minimiert.
+- Wenn wir unserem Ziel zur [Offenheit](https://www.mozilla.org/about/manifesto.html) nachkommen wollen. Wir veröffentlichen gelegentlich Informationen, um unsere Produkte zu verbessern und um ein offenes Internet zu fördern. Dies alles tun wir allerdings nur unter der Prämisse, dass wir zuvor Ihre personenbezogenen Daten entfernen und versuchen, sie in einer Art und Weise offenzulegen, die das Risiko der Re-Identifikation minimiert.
 - Wenn dies nach Recht und Gesetz erforderlich ist. Wir verhalten uns gesetzesgemäß und geben Ihre Daten weiter, sobald wir eine entsprechende behördliche oder (im Zusammenhang mit einer Klage) gerichtliche Aufforderung erhalten. Sobald wir dazu aufgefordert werden, Ihre personenbezogenen Daten weiterzugeben, werden wir Ihnen dies mitteilen, sofern uns dies rechtlich nicht untersagt ist. Wenn wir entsprechende Aufforderungen erhalten, werden wir Ihre personenbezogenen Daten nur dann weitergeben, wenn wir in gutem Glauben davon ausgehen dürfen, dass wir hierzu rechtlich verpflichtet sind. Nichts in dieser Erklärung soll aber die Ihnen zustehenden Rechtsschutzmittel oder Widerspruchsmöglichkeiten einschränken, die Sie gegenüber einer solchen Aufforderung eines Dritten Ihre Daten offenzulegen haben könnten.
 - Wenn wir annehmen, dass dies erforderlich ist, um Schäden von Ihnen oder Dritten abzuwenden. Wir werden Ihre Daten insoweit nur dann weitergeben, wenn wir in gutem Glauben davon ausgehen dürfen, dass es nach vernünftigem Ermessen notwendig ist, um Rechte, Ihr Eigentum oder Ihre Sicherheit, unsere anderen Nutzer, Mozilla oder die Allgemeinheit zu schützen.
 - Wenn sich unsere Organisationsstruktur oder unser Rechtsstatus ändert (wenn wir eine Restrukturierung vollziehen, gekauft, oder insolvent werden), können wir Ihre Daten an einen Rechtsnachfolger oder ein verbundenes Unternehmen weitergeben.
@@ -95,7 +95,7 @@ Wir wollen keine personenbezogenen Daten von Ihnen, sofern Sie das 13.
 Lebensjahr noch nicht vollendet haben. Sie dürfen uns Ihre personenbezogenen
 Daten dann nicht übermitteln. Wenn Sie ein Erziehungsberechtigter sind und
 glauben, dass ihr Kind, welches das 13. Lebensjahr noch nicht vollendet hat,
-uns seine personenbezogenen Daten übermittelt hat, [kontaktieren Sie uns bitte](https://www.mozilla.org/en-US/privacy/policies/firefox-os/),
+uns seine personenbezogenen Daten übermittelt hat, [kontaktieren Sie uns bitte](https://www.mozilla.org/privacy/policies/firefox-os/),
 damit wir die Daten Ihres Kindes löschen können.
 
 ### Was geschieht im Falle von Änderungen dieser Datenschutzerklärung?

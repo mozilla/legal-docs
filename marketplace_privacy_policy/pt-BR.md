@@ -4,7 +4,7 @@
 
 Prezamos sua privacidade. Quando o Mozilla (ou seja, nós) coletamos
 informações sobre você a partir do Firefox Marketplace, nossa [política de
-privacidade](http://www.mozilla.org/privacy/) descreve a maneira pela qual
+privacidade](https://www.mozilla.org/privacy/) descreve a maneira pela qual
 essas informações são por nós tratadas.
 
 <u>O que você deve saber</u>
@@ -58,7 +58,7 @@ auxiliar a melhorar nossos produtos e serviços para você.
 
 - Se tivermos sua autorização para compartilhar essas informações.
 - Para o processamento ou fornecimento de produtos e serviços a você, mas somente se as pessoas que venham a receber suas informações estiverem contratualmente obrigadas a manter os dados da forma aprovada pelo Mozilla.
-- Ao atendermos nossa [missão de transparência](http://www.mozilla.org/about/manifesto/). Algumas vezes, divulgamos informações para melhorar nossos produtos e fomentar a transparência na Internet, mas, nesse caso, iremos excluir suas informações pessoais e tentaremos divulgar as informações de forma a minimizar o risco de sua identificação.
+- Ao atendermos nossa [missão de transparência](https://www.mozilla.org/about/manifesto/). Algumas vezes, divulgamos informações para melhorar nossos produtos e fomentar a transparência na Internet, mas, nesse caso, iremos excluir suas informações pessoais e tentaremos divulgar as informações de forma a minimizar o risco de sua identificação.
 - Se obrigatório por lei. Observamos as leis sempre que recebemos uma solicitação envolvendo nossos usuários, de uma autoridade governamental ou de natureza judicial. Iremos notificá-lo se formos solicitados a entregar suas informações pessoais, salvo se estivermos legalmente proibidos. Ao recebermos uma solicitação dessa natureza, somente serão divulgadas suas informações pessoais se entendermos, em boa-fé, que estamos obrigados por lei. Nenhuma disposição nesta política pretende limitar quaisquer defesas legais ou objeções que você possa ter em relação a um pedido de terceiros de divulgação de suas informações.
 - Se entendermos que é necessário para impedir danos a você ou a terceiros. Somente serão compartilhadas suas informações se entendermos, em boa-fé, que isto é razoavelmente necessário para proteger os seus e nossos direitos, bens ou segurança ou aqueles de outros usuários, do Mozilla ou do público.
 - Se nossa estrutura organizacional ou situação sofrer uma alteração (se sofrermos uma reestruturação, no caso de aquisição ou falência), podemos transmitir suas informações a um sucessor ou coligada.

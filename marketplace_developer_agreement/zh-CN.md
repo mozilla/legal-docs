@@ -55,19 +55,19 @@ If you sell your Marketplace Content, you are also responsible for taxes (includ
 
 If you use your own payment processing system, you or your payment processor will be the merchant of record for the sale of your Marketplace Content, depending on your relationship with your payment processor.
 
-If you use the Firefox Marketplace&rsquo;s integrated payment system, you will be charged a fee for every purchase. You can find our current fee schedule at [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments). We reserve the right to modify the fees from time to time at our sole discretion.
+If you use the Firefox Marketplace&rsquo;s integrated payment system, you will be charged a fee for every purchase. You can find our current fee schedule at <https://developer.mozilla.org/docs/Apps/Marketplace_Payments>. We reserve the right to modify the fees from time to time at our sole discretion.
 
 
 ## Taxes
 
-Since you, not Mozilla, are selling your Marketplace Content, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. The integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
+Since you, not Mozilla, are selling your Marketplace Content, you are responsible for determining whether charging a fee to a user for downloading Marketplace Content is taxable and the applicable tax rate. Additionally, you are responsible for remitting taxes to the appropriate taxing authority based on the transaction. The integrated payment processors may provide services to determine and remit sales and/or VAT taxes on your behalf. Mozilla does not have any tax obligations to you with respect to any Marketplace Content, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge sales, use or excise taxes. Please see Mozilla&rsquo;s [Tax FAQ](https://developer.mozilla.org/docs/Apps/Marketplace_Payments/Tax_FAQ) for more information and make sure to consult your attorney or tax board to determine whether you need to collect and remit taxes.
 
 
 ## Refunds
 
 You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. Additionally, if you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
 
-1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
+1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
 2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
 
 ## Support
@@ -89,12 +89,12 @@ You are responsible for uploading your Marketplace Content to the Firefox Market
 
 ## Content Restrictions
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies here: [https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review).
+Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies here: <https://developer.mozilla.org/docs/Apps/Marketplace_Review>.
 
 
 ## Persona and Marketplace Content
 
-[Persona](http://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
+[Persona](https://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
 
 
 ## App Ratings & Statistics
@@ -117,7 +117,7 @@ If you remove all your Marketplace Content from the Firefox Marketplace, you may
 
 Mozilla has the right (though not the obligation) to, in Mozilla&rsquo;s sole discretion, remove any content that, in Mozilla&rsquo;s reasonable opinion, violates any Mozilla policy or is in any way harmful or objectionable.
 
-Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at <app-reviews@mozilla.org>.
 
 Mozilla may at any time suspend or terminate these Terms with you if Mozilla is no longer going to provide the Firefox Marketplace or Mozilla believes you have violated any policies or breached these Terms.
 
