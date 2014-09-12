@@ -1,6 +1,6 @@
 # Napomena o privatnosti usluge Firefox Cloud Services
 
-29. kolovoza, 2014.
+29\. kolovoza, 2014.
 {: datetime="2014-08-29" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox Cloud Services („Usluga“) pošalje podatke Mozilli (to smo mi), [Pravila privatnosti Mozille](https://www.mozilla.org/privacy/) opisuju kako se koristimo tim podacima.
