@@ -1,7 +1,7 @@
 # Firefox Cloud Services Obaveštenje o privatnosti
 
-26\. mart 2014.
-{: datetime="2014-03-26" }
+29\. avgust 2014.
+{: datetime="2014-08-29" }
 
 Mi brinemo o Vašoj privatnosti. Kada Firefox Cloud Services ("Usluge") šalju informacije Mozilla-i (to smo mi) naša [Mozilla Pravila Privatnosti](https://www.mozilla.org/privacy/) opisuju kako mi koristimo te informacije.
 
@@ -11,6 +11,7 @@ U zavisnosti od funkcije Usluga koje koristite, šaljete nam različite vrste po
 
 * **Firefox nalog**: Kada otvarate nalog, šaljete nam svoju e-adresu i lozinku.
 * **Sync**: Ako koristite Sync, mi dobijamo različite vrste informacija kako bismo sinhronizovali vaše kartice, awesome bar, lozinke, obeleživače, podešavanja obeleživača i druge podatke sa različitih uređaja.
+* **Pronađite moj uređaj**: Ako uključite opciju „Pronađite moj uređaj“, dobijamo približnu lokaciju vašeg uređaja samo kada se prijavite na svoj Firefox nalog i namenski zahtevate od nas da lociramo povezani uređaj. Dok ste prijavljeni, možete da vidite poslednje poznate lokacije vašeg uređaja na mapi. Redovno brišemo ove lokacije i ne prikupljamo dodatne lokacije sve dok to ne zatražite od nas.
 
 ---------------------------------------
 

@@ -1,7 +1,7 @@
 # Aviso de privacidade do Firefox Cloud Services
 
-26 de março de 2014
-{: datetime="2014-03-26" }
+29.08.14
+{: datetime="2014-08-29" }
 
 Sua privacidade é importante para nós. Quando o Firefox Cloud Services (os "Serviços") envia informações para a Mozilla (ou seja, para nós), nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma usamos essas informações.
 
@@ -11,6 +11,7 @@ Você envia diferentes tipos de dados para nós dependendo de quais recursos dos
 
 * **Conta do Firefox**: Quando você cria uma conta, recebemos seu endereço de e-mail e senha.
 * **Sync**: Caso você use o Sync, recebemos várias informações para sincronizar suas abas, awesome bar, senhas, favoritos, preferências do navegador e outros dados entre os dispositivos.
+* **Encontrar Meu Dispositivo**: Quando você ativa a função Encontrar Meu Dispositivo, recebemos a localização aproximada do seu dispositivo apenas quando você entra na sua conta do Firefox e solicita especificamente que localizemos um dispositivo conectado.  Enquanto estiver conectado, você poder ver as últimas localizações conhecidas do seu dispositivo em um mapa.  Nós apagamos essas localizações regularmente e não coletaremos outras localizações até que você nos peça.
 
 ---------------------------------------
 
