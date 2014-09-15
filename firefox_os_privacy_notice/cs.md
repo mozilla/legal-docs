@@ -20,5 +20,5 @@ Zařízení, které používáte, je – jak je to u většiny mobilních zaří
 {: #external-parties }
 
 * Pokud vaše aplikace pocházejí od někoho jiného, než je Mozilla, budou se na vás vztahovat zásady ochrany osobních údajů tohoto výrobce.
-* Funkci dynamického vyhledávání aplikací v systému Firefox OS technicky zajišťuje Everything.me za podmínek vlastních zásad ochrany osobních údajů, které naleznete na [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* Funkci dynamického vyhledávání aplikací v systému Firefox OS technicky zajišťuje Everything.me za podmínek vlastních zásad ochrany osobních údajů, které naleznete na <http://everything.me/privacy/firefox-os>.
 * Firefox OS vám umožňuje používat různé integrované služby třetích stran, např. poskytovatelů emailových služeb nebo sociálních sítí. Na vaše používání těchto služeb se budou vztahovat zásady ochrany osobních údajů těchto služeb.

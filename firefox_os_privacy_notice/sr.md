@@ -20,5 +20,5 @@ Uređaj koji koristite, kao što je većina mobilnih uređaja, napravilo je viš
 {: #external-parties }
 
 * Ako koristite aplikacije koje je napravilo neko drugo lice osim Mozilla-e, primenjivaće se pravila privatnosti tog drugog lica.
-* Funkcija Firefox OS za dinamičku pretragu aplikacija je obezbeđena od strane Everything.me, i primenjuju se njihova pravila privatnosti, koja možete naći na adresiEverything.me Pravila privatnosti. [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/)
+* Funkcija Firefox OS za dinamičku pretragu aplikacija je obezbeđena od strane Everything.me, i primenjuju se njihova pravila privatnosti, koja možete naći na adresiEverything.me Pravila privatnosti. <http://everything.me/privacy/firefox-os>
 * Firefox OS Vam dozvoljava da koristite više integrisanih usluga trećih strana, kao što je Vaš dobavljač usluga e-pošte ili pristupa socijalnim mrežama. Pravila privatnosti tih servisa će se primenjivati na Vaše korišćenje istih.

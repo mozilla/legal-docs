@@ -20,5 +20,5 @@ O aparelho que você está usando, como a maioria dos aparelhos móveis, é cria
 {: #external-parties }
 
 * Se você usar aplicativos feitos por alguém que não seja o Mozilla, as políticas de privacidade desse terceiro aplicar-se-ão.
-* A funcionalidade de pesquisa de aplicativos de adaptação do Sistema Operativo do Firefox é desenvolvido pela Everything.me e sua política de privacidade aplica-se, a qual você poderá encontrar em [http://corp.everything.me/ffos-privacy/](http://corp.everything.me/ffos-privacy/).
+* A funcionalidade de pesquisa de aplicativos de adaptação do Sistema Operativo do Firefox é desenvolvido pela Everything.me e sua política de privacidade aplica-se, a qual você poderá encontrar em <http://everything.me/privacy/firefox-os>.
 * O Sistema Operativo do Firefox permite que você use vários serviços de terceiros integrados, como o seu e-mail ou suas redes sociais. A política de privacidade desses serviços aplicar-se-ão ao uso que você faça deles.
