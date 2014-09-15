@@ -1,7 +1,7 @@
 # Zasady prywatności usług Firefox Cloud Services
 
-26 marca 2014
-{: datetime="2014-03-26" }
+29 sierpnia 2014 r.
+{: datetime="2014-08-29" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli usługi Firefox Cloud Services („Usługi”) obejmują przesyłanie informacji do firmy Mozilla (to my), [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/) reguluje wykorzystywanie takich danych przez nas.
 
@@ -11,6 +11,7 @@ Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanyc
 
 * **Konto Firefox**: Kiedy użytkownik dokona rejestracji w celu uzyskania konta, otrzymujemy informacje obejmujące jego adres e-mail i utworzone hasło.
 * **Funkcja Sync**: Jeśli użytkownik korzysta z funkcji Sync, otrzymujemy określone informacje umożliwiające synchronizowanie kart, dodatku awesome bar, haseł, zakładek, preferencji przeglądarki i innych danych między różnymi urządzeniami.
+* **Znajdź moje urządzenie**: Jeśli użytkownik włączy funkcję Znajdź moje urządzenie, otrzymamy przybliżoną lokalizację jego urządzenia, tylko jeśli zaloguje się na konto Firefox i poprosi o zlokalizowanie połączonego urządzenia.  Po zalogowaniu się użytkownik może zobaczyć ostatnie znane lokalizacje urządzenia na mapie.  Regularnie usuwamy te lokalizacje i nie zbieramy informacji o kolejnych, o ile nie poprosi o to użytkownik.
 
 ---------------------------------------
 

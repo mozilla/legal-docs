@@ -1,7 +1,7 @@
 # Politique de confidentialité des Services en ligne de Firefox
 
-26 mars 2014
-{: datetime="2014-03-26" }
+29 août 2014
+{: datetime="2014-08-29" }
 
 Nous nous soucions de votre vie privée. Quand les Services en ligne de Firefox (les « Services ») envoient des informations à Mozilla (c'est nous), la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) vous explique comment nous gérons ces informations.
 
@@ -11,6 +11,7 @@ Vous nous transmettez différents types de données selon les fonctions des Serv
 
 * **Compte Firefox** : Lorsque vous vous inscrivez pour ouvrir un compte, nous recevons votre adresse électronique et mot de passe.
 * **Sync** : Si vous utilisez Sync, nous recevons une variété d'informations pour synchroniser vos onglets, votre barre d'adresse, vos mots de passe, vos marque-pages, les préférences du navigateur et d'autres données présentes sur les appareils.
+* **Localiser mon appareil** : Si vous activez Localiser mon appareil, nous recevons la position approximative de votre appareil uniquement si vous vous connectez à votre compte Firefox et nous demandez expressément de localiser un appareil connecté. Lorsque vous êtes connecté, vous pouvez visualiser sur une carte les dernières positions connues de votre appareil. Nous supprimons régulièrement ces positions et nous ne collecterons d’autres positions que sur votre demande.
 
 ---------------------------------------
 

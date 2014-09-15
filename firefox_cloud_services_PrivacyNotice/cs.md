@@ -1,7 +1,7 @@
 # Firefox Cloud Services Zásady ochrany osobních údajů
 
-26\. března 2014
-{: datetime="2014-03-26" }
+29\. srpna 2014
+{: datetime="2014-08-29" }
 
 Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen „Služby”) zašle informace společnosti Mozilla (tedy nám), naše [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/) popisují, jak můžeme takové informace používat.
 
@@ -11,6 +11,7 @@ Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby vyu�
 
 * **Účet Firefox**: Pokud si založíte účet, obdržíte e-mail s heslem.
 * **Sync**: Pokud používáte službu Sync, získáváme různé informace pro synchronizaci vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče a další data prostřednictvím různých zařízení.
+* **Najdi mé zařízení**: Pokud aktivujete funkci Najdi mé zařízení, získáme přibližné místo výskytu vašeho zařízení pouze pokud se přihlásíte ke svému účtu Firefox a výslovně nás požádáte o lokalizaci propojeného zařízení.  Během přihlášení vidíte poslední známou lokalizaci vašeho zařízení na mapě.  Přehled těchto míst pravidelně mažeme a další místa nebudeme shromažďovat, dokud nás o to nepožádáte.
 
 ---------------------------------------
 
