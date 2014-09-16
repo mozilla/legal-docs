@@ -1,4 +1,4 @@
-# Report Copyright Abuse
+# Report Copyright & Trademark Abuse
 
 If you are a copyright owner, or agent of the owner, and believe that content available by means of one or more of our websites infringes one or more of your copyrights, please immediately notify us with a notice containing the information below (**“DMCA Notice”**).
 
