@@ -23,7 +23,7 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
 
 4. #### Pravila privatnosti
 
-    [Napomena o privatnosti usluge Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) navodi pojedinosti o podacima koje primamo vašim korištenjem Usluge te kako se njima koristimo. Podatke koje primamo preko Usluge koristimo na način opisan u [Mozillinim Pravilima privatnosti](http://www.mozilla.org/privacy/).
+    [Napomena o privatnosti usluge Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) navodi pojedinosti o podacima koje primamo vašim korištenjem Usluge te kako se njima koristimo. Podatke koje primamo preko Usluge koristimo na način opisan u [Mozillinim Pravilima privatnosti](https://www.mozilla.org/privacy/).
 
 5. #### Vaš Sadržaj na našoj Usluzi
 
@@ -31,7 +31,7 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
 
 6. #### Mozillina vlasnička prava
 
-    Mozilla vam ne dodjeljuje prava intelektualnog vlasništva na Usluzi koja nisu posebno navedena u ovim Uvjetima. Primjerice, ovi Uvjeti ne omogućuju pravo korištenja bilo kojeg od Mozillinih autorskih prava, zaštitnog nazivlja, zaštitih znakova, oznaka usluga, logotipa, naziva domena ili drugih prepoznatljivih značajki brenda. Usluga se pruža u skladu i prema uvjetima trenutačne verzije [Mozilline javne licence](http://www.mozilla.org/MPL/).
+    Mozilla vam ne dodjeljuje prava intelektualnog vlasništva na Usluzi koja nisu posebno navedena u ovim Uvjetima. Primjerice, ovi Uvjeti ne omogućuju pravo korištenja bilo kojeg od Mozillinih autorskih prava, zaštitnog nazivlja, zaštitih znakova, oznaka usluga, logotipa, naziva domena ili drugih prepoznatljivih značajki brenda. Usluga se pruža u skladu i prema uvjetima trenutačne verzije [Mozilline javne licence](https://www.mozilla.org/MPL/).
 
 7. #### Prekid primjenjivanja Uvjeta
 

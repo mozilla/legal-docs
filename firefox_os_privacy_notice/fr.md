@@ -3,7 +3,7 @@
 8 mai 2013
 {: datetime="2013-05-08" }
 
-Mozilla veille sur votre vie privée. Lorsque Firefox OS nous envoie des informations, la [politique de confidentialité de Mozilla](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
+Mozilla veille sur votre vie privée. Lorsque Firefox OS nous envoie des informations, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) vous explique comment nous gérons ces informations.
 
 ## Voici ce que vous devriez savoir
 

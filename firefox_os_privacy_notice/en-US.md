@@ -3,7 +3,7 @@
 May 8, 2013
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](http://www.mozilla.org/en-US/privacy/) describes how we handle that information.
+Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
 ## Things you should know
 

@@ -23,7 +23,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    The [Firefox Cloud Services Privacy Notice](http://www.mozilla.org/en-US/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](http://www.mozilla.org/privacy/).
+    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
@@ -31,7 +31,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 6. #### Mozilla's Proprietary Rights
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](http://www.mozilla.org/MPL/).
+    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 7. #### Term; Termination
 

@@ -48,11 +48,11 @@ A Vásárolt Tartalom megvásárlásával kifejezetten elfogadja, hogy szándék
 
 Amennyiben más módon nem kerül megjelölésre, a Firefox Marketplace-en található Marketplace Tartalmat harmadik személy Fejlesztők (tehát nem a Mozilla) fejlesztik és értékesítik. Ezért valamennyi, az Ön részéről a Marketplace Tartalommal összefüggésben felmerült támogatásra vonatkozó igényt az érintett Marketplace Tartalom Fejlesztőjéhez kell intézni. Az Ön által vásárolt Marketplace Tartalomhoz kapcsolódó támogatás iránti igényével kérjük, forduljon a Marketplace Tartalom Fejlesztőjéhez az érintett Marketplace Tartalom listaoldalán keresztül.
 
-Támogatás kérésére lehetősége van azon mobilhálózat szolgáltatójától is, melynek segítségével a Firefox Piacteret használja (a Firefox OS-t támogató szolgáltatói honlapok listája elérhető [itt](https://support.mozilla.org/en-US/kb/firefox-os-carrier-support-contact-information?redirectlocale=en-US&redirectslug=firefoxos-carrier-support-contact-information)) A Firefox Marketplace-re, továbbá gyakran felmerülő kérdésekre vonatkozó cikkekkel kapcsolatos információért kérjük, látogasson el a Mozilla Firefox OS támogatói oldalára  [itt](https://support.mozilla.org/en-US/kb/what-firefox-marketplace). 
+Támogatás kérésére lehetősége van azon mobilhálózat szolgáltatójától is, melynek segítségével a Firefox Piacteret használja (a Firefox OS-t támogató szolgáltatói honlapok listája elérhető [itt](https://support.mozilla.org/kb/firefox-os-carrier-support-contact-information?redirectlocale=en-US&redirectslug=firefoxos-carrier-support-contact-information)) A Firefox Marketplace-re, továbbá gyakran felmerülő kérdésekre vonatkozó cikkekkel kapcsolatos információért kérjük, látogasson el a Mozilla Firefox OS támogatói oldalára  [itt](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-Amennyiben az Ön által megvásárolt Vásárolt Tartalom hibás, rosszindulatú programot tartalmaz, elérhetetlen vagy másmilyen okból nem megfelelően működik, a vásárlástól számított 10 napon belül visszatérítést [itt](https://support.mozilla.org/en-US/questions/marketplace/refund) kérhet.
+Amennyiben az Ön által megvásárolt Vásárolt Tartalom hibás, rosszindulatú programot tartalmaz, elérhetetlen vagy másmilyen okból nem megfelelően működik, a vásárlástól számított 10 napon belül visszatérítést [itt](https://support.mozilla.org/questions/marketplace/refund) kérhet.
 
-### A Marketplace Taralomra vonatkozó további Feltételek 
+### A Marketplace Taralomra vonatkozó további Feltételek
 
 Amennyiben a Firefox Marketplace-en elérhető tartalmakat további felhasználási feltételek szabályozzák (mint például végfelhasználói felhasználási szerződés, nyílt forrású licencia és/vagy egy adott Fejlesztő Marketplace Tartalmának felhasználási feltételei), akkor Ön egyúttal aláveti magát ezeknek a feltételeknek. A feltételek, amelyek az adott Marketplace Tartalom terjesztésére vonatkoznak, az adott Marketplace Tartalom információs oldalán érhetők el. 
 
@@ -99,7 +99,7 @@ A feltüntetett kapcsolattartási adatok a nem egyesült államokbeli szerzői j
 
 Kizárólag DMCA Értesítések, az alább meghatározott Védjegyértesítések, valamint nemzetközi szerzői jogi vagy védjegyjogi megkeresések címezhetők a Mozilla Szerzői Jogi Ügynökéhez.
 
-Kérjük vegye figyelembe, hogy a Mozilla részére küldött DMCA Értesítések harmadik személyek (beleértve a jogsértéssel gyanúsított személyeket is) részére továbbításra és az Interneten közzétételre kerülhetnek (beleértve a [http://www.chillingeffects.org/](http://www.chillingeffects.org/) címen).
+Kérjük vegye figyelembe, hogy a Mozilla részére küldött DMCA Értesítések harmadik személyek (beleértve a jogsértéssel gyanúsított személyeket is) részére továbbításra és az Interneten közzétételre kerülhetnek (beleértve a <https://www.chillingeffects.org> címen).
 
 ### Védjegyértesítések
 

@@ -23,7 +23,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 4. #### Zásady ochrany soukromí
 
-    [Zásady ochrany osobních údajů Firefox cloud services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich [Zásadách ochrany osobních údajů Mozilla](http://www.mozilla.org/privacy/).
+    [Zásady ochrany osobních údajů Firefox cloud services](https://www.mozilla.org/privacy/firefox-cloud/) uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich [Zásadách ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Váš obsah na našich Službách
 
@@ -31,7 +31,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozilla. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](http://www.mozilla.org/MPL/).
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozilla. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](https://www.mozilla.org/MPL/).
 
 7. #### Doba platnosti, ukončení
 

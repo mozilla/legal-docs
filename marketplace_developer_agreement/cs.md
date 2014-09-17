@@ -2,12 +2,12 @@
 
 Tato úvodní část je souhrnem podmínek uvedených níže. Jejím úkolem je umožnit snazší porozumění; přečtěte si však celý dokument, jelikož když s ním souhlasíte, znamená to, že ho přijímáte celý, nejen toto shrnutí:
 
-1. Abyste mohli být vývojářem Obsahu Marketplace, musí vám být alespoň 18 let nebo musíte mít souhlas rodičů, kteří budou dohlížet a jednat s našimi službami vaším jménem. 
-2. Musíte splňovat všechny platné podmínky a zásady, a to včetně směrnic ohledně ochrany soukromí a obsahu. 
-3. Pokud váš Obsah Marketplace shledáme škodlivým nebo nežádoucím nebo pokud porušíte naše zásady nebo tyto Podmínky, můžeme ho odstranit z Firefox Marketplace. 
-4. Za váš Obsah Marketplace odpovídáte výhradně vy, což znamená, že jste zodpovědní za dodržování vývozních předpisů, zákonů, poskytování náhrad a podpory. Pokud svůj Obsah Marketplace prodáváte, zodpovídáte za daně, tvorbu cen a náhrady. Pokud používáte náš integrovaný platební systém, integrovaní zpracovatelé plateb mohou souhlasit s převzetím vrácení daní z obratu/DPH a další otázky související s platbami. 
-5. Nepodnikejte nic ilegálního ani nic, co by mohlo ublížit nám nebo ostatním. 
-6. Neodpovídáme za vaše použití Firefox Marketplace, váš Obsah Marketplace ani za akce ostatních uživatelů, a to včetně ostatních vývojářů. 
+1. Abyste mohli být vývojářem Obsahu Marketplace, musí vám být alespoň 18 let nebo musíte mít souhlas rodičů, kteří budou dohlížet a jednat s našimi službami vaším jménem.
+2. Musíte splňovat všechny platné podmínky a zásady, a to včetně směrnic ohledně ochrany soukromí a obsahu.
+3. Pokud váš Obsah Marketplace shledáme škodlivým nebo nežádoucím nebo pokud porušíte naše zásady nebo tyto Podmínky, můžeme ho odstranit z Firefox Marketplace.
+4. Za váš Obsah Marketplace odpovídáte výhradně vy, což znamená, že jste zodpovědní za dodržování vývozních předpisů, zákonů, poskytování náhrad a podpory. Pokud svůj Obsah Marketplace prodáváte, zodpovídáte za daně, tvorbu cen a náhrady. Pokud používáte náš integrovaný platební systém, integrovaní zpracovatelé plateb mohou souhlasit s převzetím vrácení daní z obratu/DPH a další otázky související s platbami.
+5. Nepodnikejte nic ilegálního ani nic, co by mohlo ublížit nám nebo ostatním.
+6. Neodpovídáme za vaše použití Firefox Marketplace, váš Obsah Marketplace ani za akce ostatních uživatelů, a to včetně ostatních vývojářů.
 7. Za svůj Obsah Marketplace a vaše použití nebo zneužití Firefox Marketplace odpovídáte vy.
 
 ## Úvod
@@ -18,7 +18,7 @@ Společnost Mozilla Corporation, sídlem 331 E. Evelyn Avenue, Mountain View, CA
 
 Jako vývojář můžete prostřednictvím Firefox Marketplace distribuovat doplňky (Add-on) nebo aplikace (společně „Obsah Marketplace“).
 
-- Doplňky „Add-on“ jsou rozšíření, témata, vyhledávače, slovníky a jazykové sady, které vám umožní rozšířit funkčnost prohlížeče Firefox. 
+- Doplňky „Add-on“ jsou rozšíření, témata, vyhledávače, slovníky a jazykové sady, které vám umožní rozšířit funkčnost prohlížeče Firefox.
 - Aplikace „Apps“ jsou aplikacemi vytvořenými otevřenými webovými technologiemi, které lze spustit na více platformách.
 
 ## Podmínky upravující použití Firefox Marketplace
@@ -29,7 +29,7 @@ Jako vývojář jste zváni, abyste k distribuci vašeho Obsahu Marketplace pou
 
 Použitím Firefox Marketplace souhlasíte, že je vám alespoň 18 let nebo jednáte se souhlasem a pod dohledem vašeho rodiče; že máte plné právo, oprávnění a pravomoc přijmout tyto Podmínky svým jménem nebo případně jménem svého zaměstnavatele nebo jiného subjektu, který zastupujete.
 
-Tyto Podmínky se mohou změnit v důsledku inovací nebo zavedení nových funkcí Firefox Marketplace. Vyhrazujeme si právo změnit tyto podmínky podle našeho uvážení; pokud budeme dělat významné změny, budeme vás informovat. 
+Tyto Podmínky se mohou změnit v důsledku inovací nebo zavedení nových funkcí Firefox Marketplace. Vyhrazujeme si právo změnit tyto podmínky podle našeho uvážení; pokud budeme dělat významné změny, budeme vás informovat.
 
 ## Zásady ochrany soukromí Firefox Marketplace
 
@@ -51,7 +51,7 @@ Pokud si přejete účtovat za váš Obsah Marketplace poplatek, můžete tak ud
 
 Pokud se rozhodnete používat integrovaný systém zpracovávání plateb Firefox Marketplace, budete si muset zaregistrovat platební účet u příslušného integrovaného zpracovatele plateb. Pojem „platební účet” používaný v tomto dokumentu znamená účet u integrovaného zpracovatele plateb v souladu se samostatnou smlouvou mezi vámi a integrovaným zpracovatelem plateb, která opravňuje integrovaného zpracovatele plateb ke shromažďování a vyřizování plateb týkajících se vašeho Obsahu Marketplace na portálu Firefox Marketplace vaším jménem. Náš systém zpracovávání plateb vám může nabízet různé zpracovatele plateb v různých právních řádech - seznam integrovaných zpracovatelů plateb a jejich standardní podmínky jsou k dispozici [zde](/media/docs/pay-providers/all.html?v1). Když používáte integrovan=ého zpracovatele plateb, opravňujete nás sdílet vaše informace s integrovaným zpracovatelem plateb v rozsahu nutném pro poskytnutí služeb zpracovatele plateb. Zpracovatelé plateb jsou třetí strany a využitím jejich služeb souhlasíte s dodržováním jejich zásad ochrany soukromí a podmínek poskytování služeb.
 
-Pokud se rozhodnete používat integrovaný systém plateb Firefox Marketplace, bude vám také účtován poplatek za transakce za nákupy vašeho Obsahu Marketplace koncovými uživateli. Současný přehled poplatků naleznete [zde](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments) Vyhrazujeme si právo občas upravovat poplatky podle našeho uvážení.
+Pokud se rozhodnete používat integrovaný systém plateb Firefox Marketplace, bude vám také účtován poplatek za transakce za nákupy vašeho Obsahu Marketplace koncovými uživateli. Současný přehled poplatků naleznete [zde](https://developer.mozilla.org/docs/Apps/Marketplace_Payments) Vyhrazujeme si právo občas upravovat poplatky podle našeho uvážení.
 
 Pokud prodáváte Obsah Marketplace, zodpovídáte také za daně (včetně daně z obratu/DPH), stanovení cen, náhrad a všech dalších povinností týkajících se plateb. Pokud používáte integrovaný platební systém, integrovaný zpracovatel plateb může souhlasit s převzetím daně z obratu/DPH, záznamů obchodníka, náhrad a dalších otázek souvisejících s platbami místo vás. Poplatky, které si účtujete, náhrady, daň z obratu/DPH, které dlužíte, a další záležitosti související s platbami, jsou výhradně záležitostí vyjednávání mezi vámi, zpracovatelem platby a kupujícím vašeho Obsahu Marketplace.
 
@@ -61,14 +61,14 @@ Pokud používáte svůj vlastní systém zpracovávání plateb, vy nebo váš 
 
 Jelikož prodávajícím Obsahu Marketplace koncovému uživateli Firefox Marketplace jste vy, nikoliv společnost Mozilla, musíte stanovit, zda je účtovaný poplatek uživatele za stažení obsahu Marketplace zdanitelný a určit i příslušnou daňovou sazbu. Také zodpovídáte za odvádění daní příslušným finančním úřadům, a to v závislosti na transakcích.
 
-Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, integrovaní zpracovatelé plateb mohou poskytovat služby stanovení a odvodu daně z obratu/DPH vaším jménem. Společnost Mozilla nemá vůči vám s ohledem na Obsah Marketplace žádné daňové povinnosti, a to včetně například povinností sledovat a zpracovávat platby, ověřovat placené nebo dříve zaplacené stažení, vést záznamy o platbách, nebo hradit, vykazovat nebo účtovat daně z obratu, použití nebo spotřební daně. Další informace si prostudujte na stránkách [Nejčastější daňové dotazy](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Payments/Tax_FAQ) společnosti Mozilla a ohledně výběru a odvodu daní se poraďte se svým advokátem nebo správcem daně.
+Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, integrovaní zpracovatelé plateb mohou poskytovat služby stanovení a odvodu daně z obratu/DPH vaším jménem. Společnost Mozilla nemá vůči vám s ohledem na Obsah Marketplace žádné daňové povinnosti, a to včetně například povinností sledovat a zpracovávat platby, ověřovat placené nebo dříve zaplacené stažení, vést záznamy o platbách, nebo hradit, vykazovat nebo účtovat daně z obratu, použití nebo spotřební daně. Další informace si prostudujte na stránkách [Nejčastější daňové dotazy](https://developer.mozilla.org/docs/Apps/Marketplace_Payments/Tax_FAQ) společnosti Mozilla a ohledně výběru a odvodu daní se poraďte se svým advokátem nebo správcem daně.
 
 ## Náhrady
 
 Zodpovídáte za veškeré náhrady, zpětné poplatky a jiné zpětné platby kupujícímu vašeho Obsahu Marketplace, a to podle platného zákona.
 Pokud používáte integrovaný systém zpracování plateb Firefox Marketplace, tímto souhlasíte s následujícím:
 
-1. Tímto společnosti Mozilla a našim partnerům dáváte svolení poskytnout kupujícímu plnou náhradu ceny Obsahu Marketplace na váš účet v případě, že kupující požádá o vrácení do 30 minut po zakoupení nebo později (v případě potřeby podle platných právních předpisů). Po uplynutí této lhůty mohou být schváleny nebo odmítnuty žádosti o náhradu v závislosti na jejich zdůvodnění. Náhrady lze vyplatit po 30minutovém období pro náhradu, a to pokud bude zjištěno, že váš Obsah je vadný, obsahuje malware, porušuje naše zásady (včetně našich [kritérií kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), není dostupný nebo nefunguje dle informací; a 
+1. Tímto společnosti Mozilla a našim partnerům dáváte svolení poskytnout kupujícímu plnou náhradu ceny Obsahu Marketplace na váš účet v případě, že kupující požádá o vrácení do 30 minut po zakoupení nebo později (v případě potřeby podle platných právních předpisů). Po uplynutí této lhůty mohou být schváleny nebo odmítnuty žádosti o náhradu v závislosti na jejich zdůvodnění. Náhrady lze vyplatit po 30minutovém období pro náhradu, a to pokud bude zjištěno, že váš Obsah je vadný, obsahuje malware, porušuje naše zásady (včetně našich [kritérií kontroly Marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), není dostupný nebo nefunguje dle informací; a
 2. Společnost Mozilla může vyšetřit a určit odpovídající opatření pro abnormální objemy požadavků na náhradu pro případ konkrétního Obsahu Marketplace, aby se zajistila kvalita a přesnost uvádění obsahu.
 
 ## Podpora
@@ -87,11 +87,11 @@ Odpovídáte za nahrání Obsahu Marketplace na portál Firefox Marketplace, pos
 
 ## Omezení obsahu
 
-Veškerý vámi distribuovaný Obsah Marketplace na portálu Firefox Marketplace musí splňovat podmínky souhlasu společnosti Mozilla a další vývojářské zásady. Naše stávající zásady jsou uvedeny v našich [kritériích kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review). Kromě toho Firefox Marketplace vyžaduje, aby všechny aplikace byly ohodnoceny International Age Rating Coalition („IARC“). Vývojáři Firefox Marketplace mají přístup k certifikačnímu nástroji hodnocení IARC, a to zdarma jako součást postupu nahrávání aplikace. IARC je třetí stranou a použitím jejího nástroje k certifikaci hodnocení se zavazujete, že se budete řídit [podmínkami ochrany soukromí IARC](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) a [podmínkami použití IARC](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
+Veškerý vámi distribuovaný Obsah Marketplace na portálu Firefox Marketplace musí splňovat podmínky souhlasu společnosti Mozilla a další vývojářské zásady. Naše stávající zásady jsou uvedeny v našich [kritériích kontroly Marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_Review). Kromě toho Firefox Marketplace vyžaduje, aby všechny aplikace byly ohodnoceny International Age Rating Coalition („IARC“). Vývojáři Firefox Marketplace mají přístup k certifikačnímu nástroji hodnocení IARC, a to zdarma jako součást postupu nahrávání aplikace. IARC je třetí stranou a použitím jejího nástroje k certifikaci hodnocení se zavazujete, že se budete řídit [podmínkami ochrany soukromí IARC](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) a [podmínkami použití IARC](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
 
 ## Persona a Obsah Marketplace
 
-[Persona](http://persona.org) je přihlašovací systém společnosti Mozilla. Některý Obsah Marketplace využívá pro ověření systém Persona. Poskytneme vám stvrzenky nákupů vašeho Obsahu Marketplace uživateli.
+[Persona](https://persona.org) je přihlašovací systém společnosti Mozilla. Některý Obsah Marketplace využívá pro ověření systém Persona. Poskytneme vám stvrzenky nákupů vašeho Obsahu Marketplace uživateli.
 
 ## Hodnocení aplikací a statistiky
 
@@ -111,7 +111,7 @@ Pokud odeberete veškerý svůj Obsah Marketplace, můžete tyto Podmínky vypov
 
 Společnost Mozilla má právo (nikoli však povinnost) podle vlastního uvážení odstranit libovolný obsah, který podle rozumného uvážení společnosti Mozilla porušuje libovolnou zásadu společnosti Mozilla, nebo je nějakým způsobem škodlivý nebo nežádoucí.
 
-Aniž by tím bylo omezeno výše uvedené, pokud společnost Mozilla upozorníte nebo jinak zjistí a určí na základě svého vlastního uvážení, že jakýkoliv Obsah Marketplace nebo jeho část (zejména jakékoliv ochranné známky, loga nebo jiné funkce značky spojené s takovým obsahem Marketplace): (a) porušuje naše [kritéria kontroly Marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria) nebo jinou zásadu Firefox Marketplace, (b) může zakládat závazek pro společnost Mozilla nebo někoho jiného, nebo (c) poruší tyto Podmínky, může společnost Mozilla zrušit dostupnost Obsahu Marketplace prostřednictvím portálu Firefox Marketplace, odstranit obsah z portálu Firefox Marketplace, označit, filtrovat, upravit související materiály (včetně například popisů, snímků obrazovky nebo metadat), přeřadit Obsah Marketplace nebo podniknout jiná nápravná opatření, a to dle vlastního uvážení. Máte-li jakékoli dotazy nebo obavy týkající se odstraňování, můžete nás kontaktovat na adrese [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org)
+Aniž by tím bylo omezeno výše uvedené, pokud společnost Mozilla upozorníte nebo jinak zjistí a určí na základě svého vlastního uvážení, že jakýkoliv Obsah Marketplace nebo jeho část (zejména jakékoliv ochranné známky, loga nebo jiné funkce značky spojené s takovým obsahem Marketplace): (a) porušuje naše [kritéria kontroly Marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) nebo jinou zásadu Firefox Marketplace, (b) může zakládat závazek pro společnost Mozilla nebo někoho jiného, nebo (c) poruší tyto Podmínky, může společnost Mozilla zrušit dostupnost Obsahu Marketplace prostřednictvím portálu Firefox Marketplace, odstranit obsah z portálu Firefox Marketplace, označit, filtrovat, upravit související materiály (včetně například popisů, snímků obrazovky nebo metadat), přeřadit Obsah Marketplace nebo podniknout jiná nápravná opatření, a to dle vlastního uvážení. Máte-li jakékoli dotazy nebo obavy týkající se odstraňování, můžete nás kontaktovat na adrese <app-reviews@mozilla.org>
 
 Společnost Mozilla může kdykoli pozastavit nebo ukončit platnost těchto Podmínek s vámi, pokud společnost Mozilla již nebude poskytovat Firefox Marketplace nebo pokud bude společnost Mozilla přesvědčena, že jste porušili některé zásady nebo porušili tyto Podmínky.
 

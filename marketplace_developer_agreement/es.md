@@ -126,10 +126,7 @@ pago.
 
 Si usted utiliza el sistema integrado de pago del Firefox Marketplace, sera
 cobrada una tasa por cada compra. Usted puede encontrar nuestra informacion de
-precios en el web site [https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Payments). Nos reservamos el derecho de alterar las
-tasas periodicamente, a nuestro criterio exclusivo.
+precios en el web site <https://developer.mozilla.org/docs/Apps/Marketplace_Payments>. Nos reservamos el derecho de alterar las tasas periodicamente, a nuestro criterio exclusivo.
 
 ## Impuestos
 
@@ -158,7 +155,7 @@ vuelta al comprador de su Contenido del Marketplace, con el fin de cumplir con
 la ley aplicable. Ademas, si usted utiliza el sistema de procesamiento
 integrado de pago del Firefox Marketplace, consiente con lo siguiente:
 
-1. Por este acto usted autoriza a Mozilla y a nuestros socios a dar al comprador un reembolso completo del precio del Contenido del Marketplace en su nombre si el comprador solicita el reembolso dentro de 30 minutos despues de la compra o mas (si es exigido por la ley aplicable). Despues de este periodo, las solicitaciones de reembolso pueden ser aprobadas o rechazadas dependiendo de su justificacion. Los reembolsos pueden ser efectuados en 30 minutos despues del periodo de reembolso si su Contenido es considerado defectuoso, con codigos maliciosos (malware) no cumple con nuestras politicas (incluyendo nuestro criterio de [revision del marketplace](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_review_criteria)), no esta disponible o no ejecuta como se ha indicado; y
+1. Por este acto usted autoriza a Mozilla y a nuestros socios a dar al comprador un reembolso completo del precio del Contenido del Marketplace en su nombre si el comprador solicita el reembolso dentro de 30 minutos despues de la compra o mas (si es exigido por la ley aplicable). Despues de este periodo, las solicitaciones de reembolso pueden ser aprobadas o rechazadas dependiendo de su justificacion. Los reembolsos pueden ser efectuados en 30 minutos despues del periodo de reembolso si su Contenido es considerado defectuoso, con codigos maliciosos (malware) no cumple con nuestras politicas (incluyendo nuestro criterio de [revision del marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), no esta disponible o no ejecuta como se ha indicado; y
 2. Mozilla puede investigar y determinar la accion adecuada para volumenes anormales de solicitaciones de reembolsos para una determinada parte del Contenido del Marketplace para garantizar su calidad y precision.
 
 ## Soporte
@@ -213,13 +210,11 @@ implicara de forma alguna que el mismo fue producido o probado por Mozilla.
 Cualquier Contenido del Marketplace que usted distribuya en el Firefox
 Marketplace debera estar de acuerdo con el contenido y las otras politicas de
 Mozilla para los desarrolladores. Usted encontrara nuestras politicas actuales
-aqui: [https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Review](https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_Review).
+aqui: <https://developer.mozilla.org/docs/Apps/Marketplace_Review>.
 
 ## Contenido del Marketplace y Persona
 
-[Persona](http://persona.org) es el sistema de login de Mozilla. Algunos
+[Persona](https://persona.org) es el sistema de login de Mozilla. Algunos
 Contenidos del Marketplace utilizan el Persona para autenticacion. Nosotros
 proporcionaremosle con los recibos de compras de su Contenido del Marketplace
 por los usuarios.
@@ -289,8 +284,7 @@ contrario si se da cuenta y determina, a su criterio exclusivo, que algun
 Contenido del Marketplace o alguna parte del mismo (incluyendo entre otros,
 cualquier marca registrada, logotipo o otra caracteristica de la marca
 asociada a este Contenido del Marketplace): (a) viola nuestro [criterio de
-revision del marketplace](https://developer.mozilla.org/en-
-US/docs/Apps/Marketplace_review_criteria) o otra politica de Firefox
+revision del marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) o otra politica de Firefox
 Marketplace; (b) puede crear responsabilidad a Mozilla o cualquier otra
 persona; o (c) viola estos terminos, Mozilla podra impedir que el Contenido
 del Marketplace quede disponible en el Firefox Marketplace, eliminar el
@@ -299,7 +293,7 @@ modificar los materiales relacionados (incluyendo entre otros las
 descripciones, screenshots o metadatos), reclasificar el Contenido del
 Marketplace o tomar otras medidas correctivas, a su criterio exclusivo. En
 caso de que tenga dudas o preguntas sobre la eliminacion, entre en contacto
-con nosotros en [app-reviews@mozilla.org](mailto:app-reviews@mozilla.org).
+con nosotros en <app-reviews@mozilla.org>.
 
 Mozilla podra, en cualquier momento, suspender o rescindir estos Terminos con
 usted si no dispone mas el Firefox Marketplace o cree que usted violo

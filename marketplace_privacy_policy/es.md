@@ -3,7 +3,7 @@
 03 de Julio de 2013
 
 Estamos comprometidos con su privacidad. Nuestra [Política de
-Privacidad](http://www.mozilla.org/privacy/) describe como lidiamos con sus
+Privacidad](https://www.mozilla.org/privacy/) describe como lidiamos con sus
 informaciones personales recolectadas por Mozilla (nosotros) del Firefox
 Marketplace.
 
@@ -59,7 +59,7 @@ para proveer y mejorar los productos y servicios destinados a Ud.
 
 - Cuando tenemos su permiso para eso.
 - Para procesar o suministrarle productos y servicios a Ud.; sin embargo, solamente si las entidades receptoras de sus informaciones están contractualmente obligadas a tratar los datos conforme a lo previsto por Mozilla.
-- Cuando estamos en el cumplimiento de nuestra [misión de transparencia](http://www.mozilla.org/about/manifesto.html). Eventualmente divulgamos informaciones para mejorar nuestros productos y promover una Internet abierta, pero cuando lo hacemos, excluimos sus informaciones personales e intentamos divulgarlas de forma de minimizar el riesgo de identificación de los usuarios.
+- Cuando estamos en el cumplimiento de nuestra [misión de transparencia](https://www.mozilla.org/about/manifesto.html). Eventualmente divulgamos informaciones para mejorar nuestros productos y promover una Internet abierta, pero cuando lo hacemos, excluimos sus informaciones personales e intentamos divulgarlas de forma de minimizar el riesgo de identificación de los usuarios.
 - Cuando es exigido por ley. Seguimos la ley siempre que recibimos solicitaciones sobre Ud. por parte de un gobierno o relacionadas a alguna acción judicial. Vamos a notificarlo cuando sus informaciones personales sean solicitadas de esta forma, a menos que estemos legalmente prohibidos de hacerlo. Cuando recibimos solicitaciones como esa, sólo liberamos las informaciones personales del usuario cuando creemos de buena fe que la ley nos obliga a hacerlo. Ningún aspecto de esta política se destina a limitar ninguna defensa legal u objeción que Ud. pueda tener con el pedido de terceros para la divulgación de sus informaciones.
 - Cuando creemos que es necesario para evitarle daños a Ud. u otra persona. Sus informaciones sólo son divulgadas de esa manera cuando creemos de buena fe que se hace necesario para proteger los derechos, la propiedad o la seguridad del usuario en cuestión, de nuestros otros usuarios, de Mozilla o del público.
 - Si hay cambios en nuestra estructura organizacional o status (en el caso de una reestructuración, adquisición, o falencia), sus informaciones pueden ser transmitidas a un sucesor o empresa afiliada.
@@ -92,7 +92,7 @@ los compromisos previstos en esta política de privacidad.
 
 Si Ud. es menor de 13 años, no queremos sus informaciones personales y Ud. no
 debe proveérnoslas. Si Ud. es un padre y cree que su hijo menor de 13 años nos
-suministró informaciones personales, [entre en contacto con nosotros](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) para que
+suministró informaciones personales, [entre en contacto con nosotros](https://www.mozilla.org/privacy/policies/firefox-os/) para que
 las informaciones de su hijo sean excluidas.
 
 ### ¿Y si estas políticas son alteradas?

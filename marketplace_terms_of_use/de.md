@@ -94,19 +94,14 @@ Angaben kontaktieren können.
 Sie können zudem Support-Leistungen von dem Mobilfunkbetreiber beanspruchen,
 mit dem Sie auf den Firefox Marketplace zugreifen (eine Liste mit Firefox OS
 Mobilfunkbetreiber Support-Webseiten ist hier
-[https://support.mozilla.org/es/kb/firefoxos-carrier-support-contact-
-information](https://support.mozilla.org/es/kb/firefoxos-carrier-support-
-contact-information) verfügbar). Für Informationen über den Firefox
+<https://support.mozilla.org/es/kb/firefoxos-carrier-support-contact-information> verfügbar). Für Informationen über den Firefox
 Marketplace und Antworten auf häufig gestellte Fragen besuchen Sie bitte hier
-[https://support.mozilla.org/de/kb/what-firefox-
-marketplace](https://support.mozilla.org/de/kb/what-firefox-marketplace) die
+<https://support.mozilla.org/de/kb/what-firefox-marketplace> die
 Mozilla OS Support Webseite.
 
 Ist ihr Gekaufter Inhalt mangelhaft, mit Schadsoftware behaftet, nicht
 verfügbar oder funktioniert anderweitig nicht wie vom Entwickler beschrieben,
-können Sie eine Rückerstattung des Kaufpreises hier [https://support.mozilla.o
-rg/de/questions/marketplace/refund](https://support.mozilla.org/de/questions/m
-arketplace/refund) innerhalb von 10 Tagen ab dem Datum des Kaufs verlangen.
+können Sie eine Rückerstattung des Kaufpreises hier <https://support.mozilla.org/de/questions/marketplace/refund> innerhalb von 10 Tagen ab dem Datum des Kaufs verlangen.
 
 ### Zusätzliche Bedingungen im Hinblick auf Marktplatzinhalte
 
@@ -122,8 +117,7 @@ werden, auf der Informationsseite des jeweiligen Marktplatzinhaltes abrufen.
 Während des Registrierungsprozesses für die Nutzung des Firefox Marektplace
 als Nutzer müssen Sie personenbezogenen Daten (wie Identifikations- und
 Kontaktdaten) angeben. Wir werden mit Ihren Daten wie in der Marketplace
-Datenschutzerklärung [privacy policy]
-](/media/docs/privacy/de.html) beschrieben umgehen.
+Datenschutzerklärung [privacy policy](/media/docs/privacy/de.html) beschrieben umgehen.
 
 Die Firefox Marketplace Datenschutzerklärung gilt nur für den Firefox
 Marketplace und nicht für die einzelnen Marktplatzinhalte. Sie sollten die
@@ -209,7 +203,7 @@ internationale Urheberrechts- oder Markenrechtsmitteilungen übersandt werden.
 Wir weisen Sie darauf hin, dass jede an Mozilla gesandte DMCA-Mitteilung an
 Dritte (auch an den Beschuldigten) weitergeleitet und im Internet
 veröffentlicht werden kann (einschließlich unter:
-[http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+<https://www.chillingeffects.org>).
 
 ### Markenrechtsmitteilungen
 

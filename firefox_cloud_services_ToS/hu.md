@@ -23,7 +23,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 4. #### Adatvédelmi irányelvek
 
-    A [Firefox Cloud Services Adatvédelmi Nyilatkozat](http://www.mozilla.org/en-US/privacy/firefox-cloud/) részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a [Mozilla Adatvédelmi Irányelvek](http://www.mozilla.org/privacy/) részben leírtak szerint használjuk fel.
+    A [Firefox Cloud Services Adatvédelmi Nyilatkozat](https://www.mozilla.org/privacy/firefox-cloud/) részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a [Mozilla Adatvédelmi Irányelvek](https://www.mozilla.org/privacy/) részben leírtak szerint használjuk fel.
 
 5. #### A Szolgáltatások használata során keletkezett saját tartalom
 
@@ -31,7 +31,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 6. #### A Mozilla tulajdonjogai
 
-    A jelen Szerződés feltételei szerint meghatározottak kivételével a Mozilla nem ad Önnek semmilyen, a Szolgáltatásokra vonatkozó szellemi tulajdonjogot. Például a jelen Feltételek nem adnak jogot a Mozilla szerzői jogai, márkanevei, védjegyei, szolgáltatási védjegyei, logói, domainnevei vagy más megkülönböztető márkajelzések használatára. A Szolgáltatások nyújtására a [Mozilla Public License](http://www.mozilla.org/MPL/) jelenlegi változatának feltételei szerint kerül sor.
+    A jelen Szerződés feltételei szerint meghatározottak kivételével a Mozilla nem ad Önnek semmilyen, a Szolgáltatásokra vonatkozó szellemi tulajdonjogot. Például a jelen Feltételek nem adnak jogot a Mozilla szerzői jogai, márkanevei, védjegyei, szolgáltatási védjegyei, logói, domainnevei vagy más megkülönböztető márkajelzések használatára. A Szolgáltatások nyújtására a [Mozilla Public License](https://www.mozilla.org/MPL/) jelenlegi változatának feltételei szerint kerül sor.
 
 7. #### Időtartam; Felmondás
 

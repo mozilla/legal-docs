@@ -55,9 +55,9 @@ En achetant des contenus, vous vous engagez à ne pas contourner intentionnellem
 
 Sauf indication contraire, les Contenus du marketplace répertoriés dans le Firefox Marketplace sont développés et vendus par des développeurs tiers, non par Mozilla. Pour cette raison, toute demande d'assistance liée aux Contenus du marketplace doit être faite au développeur concerné. Pour une demande d'assistance concernant les contenus achetés sur le marketplace, veuillez contacter le développeur concerné via la page contenant la liste des contenus du marketplace.
 
-Vous pouvez également demander de l'aide depuis votre opérateur de réseau mobile qui vous a fourni l'accès au Firefox Marketplace (une liste des sites web d'assistance des opérateurs est disponible [ici](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). Pour des renseignements sur le Firefox Marketplace ainsi que sur les questions les plus fréquentes, veuillez accéder au site d'assistance de Mozilla [ici](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
+Vous pouvez également demander de l'aide depuis votre opérateur de réseau mobile qui vous a fourni l'accès au Firefox Marketplace (une liste des sites web d'assistance des opérateurs est disponible [ici](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). Pour des renseignements sur le Firefox Marketplace ainsi que sur les questions les plus fréquentes, veuillez accéder au site d'assistance de Mozilla [ici](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-Si le contenu de votre achat est défectueux, s'il contient un logiciel malveillant, n'est pas disponible ou ne fonctionne pas comme prévu, vous pouvez demander le remboursement [ici](https://support.mozilla.org/en-US/questions/marketplace/refund) dans les 10 jours suivant votre achat.
+Si le contenu de votre achat est défectueux, s'il contient un logiciel malveillant, n'est pas disponible ou ne fonctionne pas comme prévu, vous pouvez demander le remboursement [ici](https://support.mozilla.org/questions/marketplace/refund) dans les 10 jours suivant votre achat.
 
 
 ### Conditions supplémentaires concernant les contenus du marketplace
@@ -113,7 +113,7 @@ Les informations de contact fournies ci-dessus concernent aussi les notification
 
 Seules les Notifications DMCA, Notifications de Marques déposées (définies ci-après) ainsi que les notifications internationales de marques déposées et des droits d'auteur doivent être envoyées à l'agent des droits d'auteur.
 
-Sachez que les Notifications DMCA envoyées à Mozilla pourront être transmises à des tiers (y compris l'accusé) et publiées sur Internet (y compris sur le site [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Sachez que les Notifications DMCA envoyées à Mozilla pourront être transmises à des tiers (y compris l'accusé) et publiées sur Internet (y compris sur le site <https://www.chillingeffects.org>).
 
 
 ### Notifications des marques déposées

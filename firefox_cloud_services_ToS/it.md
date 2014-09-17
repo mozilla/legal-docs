@@ -23,7 +23,7 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 
 4. #### Politica sulla privacy
 
-    L'[informativa sulla privacy nella pagina Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella [informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
+    L'[informativa sulla privacy nella pagina Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) descrive nel dettaglio i dati che riceviamo attraverso l'uso dei Servizi da parte dell'utente e in che modo utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella [informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Contenuti dell'utente nei nostri Servizi
 

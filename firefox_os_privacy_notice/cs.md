@@ -3,7 +3,7 @@
 8. května 2013
 {: datetime="2013-05-08" }
 
-Společnosti Mozilla záleží na vašem soukromí. Když nám Firefox OS odesílá informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
+Společnosti Mozilla záleží na vašem soukromí. Když nám Firefox OS odesílá informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
 ## Co byste měli vědět
 

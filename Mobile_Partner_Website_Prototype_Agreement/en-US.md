@@ -129,7 +129,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     2. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
 
-    3. <http://mozilla.github.io/process-releases/draft/development_overview>
+    3. <https://mozilla.github.io/process-releases/draft/development_overview>
 
     4. <https://wiki.mozilla.org/B2G/Architecture>
 
@@ -207,7 +207,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
 	    5. You will not introduce any spyware or malware into the Prototype. Additionally, you will not use other means, without an end user's consent, for you or any third parties to access a user's personal information.
 
-	    6. You will not make any modifications to the Prototype that would cause the Firefox OS privacy policy (available at <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
+	    6. You will not make any modifications to the Prototype that would cause the Firefox OS privacy policy (available at <https://www.mozilla.org/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
 
 5. **Review Process; Audit.**
 

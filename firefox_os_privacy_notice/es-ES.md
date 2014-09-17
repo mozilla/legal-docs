@@ -3,7 +3,7 @@
 8 de mayo de 2013
 {: datetime="2013-05-08" }
 
-Nos preocupa su privacidad. Cuando Firefox OS envía información a Mozilla (nosotros), nuestra [política de privacidad](http://www.mozilla.org/es-ES/privacy/) describe cómo tratamos dicha información.
+Nos preocupa su privacidad. Cuando Firefox OS envía información a Mozilla (nosotros), nuestra [política de privacidad](https://www.mozilla.org/es-ES/privacy/) describe cómo tratamos dicha información.
 
 ## Información que debe conocer
 

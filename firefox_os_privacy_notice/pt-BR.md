@@ -3,7 +3,7 @@
 8 de Maio de 2013
 {: datetime="2013-05-08" }
 
-Prezamos a sua privacidade. Quando o Sistema Operativo do Firefox envia informação ao Mozilla (ou seja, nós), a [Politica de Privacidade do Mozilla](http://www.mozilla.org/pt-BR/privacy/) descreve a maneira como nós tratamos essas informações.
+Prezamos a sua privacidade. Quando o Sistema Operativo do Firefox envia informação ao Mozilla (ou seja, nós), a [Politica de Privacidade do Mozilla](https://www.mozilla.org/pt-BR/privacy/) descreve a maneira como nós tratamos essas informações.
 
 ## O que você deve saber
 

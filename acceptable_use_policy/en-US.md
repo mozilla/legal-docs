@@ -6,7 +6,7 @@ You may not use any of Mozilla’s services and products to:
 * Threaten, harass, or violate the privacy rights of others; send unsolicited
 communications; or intercept, monitor, or modify communications not intended for you
 * Violate Mozilla’s Community participation Guidelines (for reference, see
-http://www.mozilla.org/about/governance/policies/participation/ )
+<https://www.mozilla.org/about/governance/policies/participation/>)
 * Harm users such as by using viruses, spyware or malware, worms, trojan horses,
 time bombs or any other such malicious codes or instructions
 * Engage in any activity that interferes with or disrupts Mozilla’s services or

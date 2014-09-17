@@ -2,7 +2,7 @@
 
 Mozilla Firefox is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:
 
-* Firefox is made available to you under the terms of the [Mozilla Public License](http://www.mozilla.org/MPL/). This means you may use, copy and distribute Firefox to others. You are also welcome to modify the source code of Firefox as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
+* Firefox is made available to you under the terms of the [Mozilla Public License](https://www.mozilla.org/MPL/). This means you may use, copy and distribute Firefox to others. You are also welcome to modify the source code of Firefox as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
 * You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found [here](https://www.mozilla.org/foundation/trademarks/policy/).
 * Some features in Firefox, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
 * How we use your personal information and feedback submitted to Mozilla through Firefox is described in the [Firefox Privacy Policy](https://www.mozilla.org/privacy/firefox/).

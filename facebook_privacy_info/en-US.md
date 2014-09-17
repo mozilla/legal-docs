@@ -4,7 +4,7 @@ At Mozilla, an important part of our mission is to help people understand and co
 
 Mozilla offers Facebook pages, Facebook apps, and Facebook ads primarily as a communication channel to introduce, inform, educate and encourage. To help us manage these Facebook activities, we work with vendors who have contractually promised to handle or use the data in ways that are approved by Mozilla.
 
-When you interact with us through Facebook, the information that we can access and store is affected by the permissions you grant and the privacy settings you maintain through Facebook. We will handle your information in accordance with our [privacy policy](http://www.mozilla.org/en-US/privacy/).
+When you interact with us through Facebook, the information that we can access and store is affected by the permissions you grant and the privacy settings you maintain through Facebook. We will handle your information in accordance with our [privacy policy](https://www.mozilla.org/privacy/).
 
 There are three key ways that Mozilla obtains information about you through our Facebook pages and all are voluntary. These include comments that you post (typically in response to our posts); photos that you tag for consideration as Fan of the Week, and personal information you submit either via a Facebook application on one of our pages or participation in one of our Facebook contests/giveaways. The privacy implications of each are outlined below.
 
@@ -58,6 +58,6 @@ You can opt-in to allow your Affiliates banner to become one of our paid Faceboo
 
 If you remove the application, we will delete your Affiliates Facebook profile and the information associated it from our database.
 
-To view Mozilla’s Online Privacy Policy, [click here](http://www.mozilla.org/en-US/privacy/).
+To view Mozilla’s Online Privacy Policy, [click here](https://www.mozilla.org/privacy/).
 
 For an FAQ on the Affiliates Facebook App, [click here](https://affiliates.mozilla.org/fb/faq).

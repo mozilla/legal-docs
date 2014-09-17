@@ -23,7 +23,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 4. #### Polityka prywatności
 
-    Dokument [Zasady prywatności usług Firefox Cloud Services](http://www.mozilla.org/en-US/privacy/firefox-cloud/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](http://www.mozilla.org/privacy/).
+    Dokument [Zasady prywatności usług Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Zawartość użytkownika w naszych Usługach
 
@@ -31,7 +31,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 6. #### Prawa własności firmy Mozilla
 
-    Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących Usług, których nie nadano wyraźnie na mocy niniejszych Warunków. Na przykład niniejsze Warunki nie pozwalają na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych i usługowych, logo, nazw domen i innych cech marki Mozilla. Usługi są rozpowszechniane na mocy aktualnej wersji [Licencji publicznej firmy Mozilla](http://www.mozilla.org/MPL/) i podlegają jej postanowieniom.
+    Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących Usług, których nie nadano wyraźnie na mocy niniejszych Warunków. Na przykład niniejsze Warunki nie pozwalają na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych i usługowych, logo, nazw domen i innych cech marki Mozilla. Usługi są rozpowszechniane na mocy aktualnej wersji [Licencji publicznej firmy Mozilla](https://www.mozilla.org/MPL/) i podlegają jej postanowieniom.
 
 7. #### Okres obowiązywania; Wypowiedzenie
 

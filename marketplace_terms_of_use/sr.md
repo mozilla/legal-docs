@@ -6,7 +6,7 @@ Ovaj gornji deo predstavlja skraćeni prikaz donjih odredbi. On služi kako bi V
 
 - Morate imati najmanje 18 godina da biste imali nalog na Marketplace-u, ili Vaši roditelji moraju dati saglasnost i vršiti nadzor Vašeg korišćenja Marketplace-a.  
 - Naše korišćenje Vaših podataka biće u skladu sa našim Firefox Marketplace [Pravilima privatnosti](/media/docs/privacy/sr.html). Aplikacije i Programski dodaci koja obezbede druge strane mogu imati svoja pravila privatnosti.
-- Programeri (a ne Mozilla) su isključivo odgovorni za svaku Aplikaciju ili Programski dodatak, uključujući podršku za Vas. 
+- Programeri (a ne Mozilla) su isključivo odgovorni za svaku Aplikaciju ili Programski dodatak, uključujući podršku za Vas.
 - Ne smete učiniti bilo koju protivzakonitu radnju, ili bilo šta što bi moglo povrediti nas ili druge.
 - Ne odgovaramo za Vaše korišćenje Firefox Marketplace-a ili radnje drugih korisnika, uključujući Programere.
 - Odgovorni ste za Vaše korišćenje ili zloupotrebu Firefox Marketplace-a, Aplikacija ili Programskih dodataka.
@@ -19,16 +19,16 @@ Na Vaše korišćenje Firefox Marketplace-a se primenjuju odredbe i uslovi ovih 
 
 ### Podobnost
 
-Korišćenjem Firefox Marketplace-a, potvrđujete da imate najmanje 18 godina ili da nastupate uz saglasnost i nadzor roditelja; i da ste u potpunosti ovlašćeni i sposobni da prihvatite ova Pravila u svoje ime, ili ako je to primenjivo, u ime svog poslodavca ili drugog subjekta koji predstavljate. 
+Korišćenjem Firefox Marketplace-a, potvrđujete da imate najmanje 18 godina ili da nastupate uz saglasnost i nadzor roditelja; i da ste u potpunosti ovlašćeni i sposobni da prihvatite ova Pravila u svoje ime, ili ako je to primenjivo, u ime svog poslodavca ili drugog subjekta koji predstavljate.
 
 ### Izmene Pravila
 
-Zadržavamo diskreciono pravo izmene ovih Pravila, i ako izvršimo bitne izmene, dostavićemo Vam obaveštenje o tome pre nego što te izmene stupe na snagu. 
+Zadržavamo diskreciono pravo izmene ovih Pravila, i ako izvršimo bitne izmene, dostavićemo Vam obaveštenje o tome pre nego što te izmene stupe na snagu.
 
 ### Definicije
 
 Termin "Programer" uključuje programere - treća lica koja stavljaju svoj Marketplace sadržaj na raspolaganje preko Firefox Marketplace-a.
-Možete da instalirate Programske dodatke ili Aplikacije (zajednički, "Marketplace sadržaj") preko Firefox Marketplace-a: 
+Možete da instalirate Programske dodatke ili Aplikacije (zajednički, "Marketplace sadržaj") preko Firefox Marketplace-a:
 
 - "Programski dodaci" su ekstenzije, teme, pretraživači, rečnici i jezički paketi koji Vam omogućavaju da proširite funkcionalnost Firefox pregledača.
 - "Aplikacije" su aplikacije nastale korišćenjem otvorenih web tehnologija koje se mogu pokrenuti na više platformi.
@@ -38,18 +38,18 @@ Možete da instalirate Programske dodatke ili Aplikacije (zajednički, "Marketpl
 
 Svaki Programer, a ne Mozilla (osim kada mi razvijemo svoje Aplikacije i Programske dodatke) je isključivo odgovoran za svoje Programske dodatke i Aplikacije.
 
-### Kupljeni sadržaj 
+### Kupljeni sadržaj
 
-Firefox Marketplace koristi Mozilla [Persona](https://persona.org) kako bi povezao Vaš Kupljeni sadržaj sa Vašim nalogom. Nećete moći da koristite Kupljeni sadržaj bez prijave sa svojim Persona nalogom. Ako obrišete svoj Persona nalog, možete izgubiti svoj Kupljeni sadržaj. Programeri mogu nuditi proizvode i usluge koji od Vas traže da se prijavite ili autorizujete korišćenjem dodatnih akreditacija pored Persona-e. 
+Firefox Marketplace koristi Mozilla [Persona](https://persona.org) kako bi povezao Vaš Kupljeni sadržaj sa Vašim nalogom. Nećete moći da koristite Kupljeni sadržaj bez prijave sa svojim Persona nalogom. Ako obrišete svoj Persona nalog, možete izgubiti svoj Kupljeni sadržaj. Programeri mogu nuditi proizvode i usluge koji od Vas traže da se prijavite ili autorizujete korišćenjem dodatnih akreditacija pored Persona-e.
 
-Kupovinom Kupljenog sadržaja, potvrđujete da nećete namerno izbegavati bilo koji mehanizam akreditacije. Možemo Vam zabraniti pristup Firefox Marketplace-u ili suspendovati Vaš pristup Kupljenom sadržaju ako smatramo da ste povredili ova pravila. 
+Kupovinom Kupljenog sadržaja, potvrđujete da nećete namerno izbegavati bilo koji mehanizam akreditacije. Možemo Vam zabraniti pristup Firefox Marketplace-u ili suspendovati Vaš pristup Kupljenom sadržaju ako smatramo da ste povredili ova pravila.
 
 ### Povraćaj sredstava i Podrška
 
-Osim ako je navedeno drugačije, Marketplace sadržaj naveden u Firefox Marketplace-u razvijaju i prodaju Programeri - treća lica, a ne Mozilla. Iz tog razloga, sva pitanja u pogledu podrške koja imate, a koja su vezana za Marketplace sadržaj treba uputiti Programeru tog Marketplace sadržaja. Ako Vam je potrebna podrška za Marketplace sadržaj koji ste kupili, molimo Vas da kontaktirate Programera tog Marketplace sadržaja preko strane sa listingom Marketplace sadržaja. 
+Osim ako je navedeno drugačije, Marketplace sadržaj naveden u Firefox Marketplace-u razvijaju i prodaju Programeri - treća lica, a ne Mozilla. Iz tog razloga, sva pitanja u pogledu podrške koja imate, a koja su vezana za Marketplace sadržaj treba uputiti Programeru tog Marketplace sadržaja. Ako Vam je potrebna podrška za Marketplace sadržaj koji ste kupili, molimo Vas da kontaktirate Programera tog Marketplace sadržaja preko strane sa listingom Marketplace sadržaja.
 
-Takođe možete zatražiti podršku od operatera mobilne mreže preko koje pristupate Firefox Marketplace-u (lista web strana podrške prenosilaca podataka može se dobiti [ovde](https://support.mozilla.org/en-US/kb/firefoxos-carrier-support-contact-information)). Za informacije o Firefox Marketplace-u kao i tekstove sa najčešće postavljanim pitanjima, molimo Vas da posetite stranu podrške Mozilla-e [ovde](https://support.mozilla.org/en-US/kb/what-firefox-marketplace).
-Ako je Vaš Kupljen sadržaj neispravan, ako sadrži malware, ako mu ne možete pristupiti ili na drugi način nije u skladu sa navedenim, možete tražiti povraćaj sredstava [ovde](https://support.mozilla.org/en-US/kb/report-issues-marketplace-apps) u roku od 10 dana od kupovine.
+Takođe možete zatražiti podršku od operatera mobilne mreže preko koje pristupate Firefox Marketplace-u (lista web strana podrške prenosilaca podataka može se dobiti [ovde](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). Za informacije o Firefox Marketplace-u kao i tekstove sa najčešće postavljanim pitanjima, molimo Vas da posetite stranu podrške Mozilla-e [ovde](https://support.mozilla.org/kb/what-firefox-marketplace).
+Ako je Vaš Kupljen sadržaj neispravan, ako sadrži malware, ako mu ne možete pristupiti ili na drugi način nije u skladu sa navedenim, možete tražiti povraćaj sredstava [ovde](https://support.mozilla.org/kb/report-issues-marketplace-apps) u roku od 10 dana od kupovine.
 
 ### Dodatna Pravila u vezi sa Marketplace sadržajem
 
@@ -57,7 +57,7 @@ Ako se na neki od sadržaja na Firefox Marketplace-u odnose zasebna pravila (kao
 
 ### Čuvanje privatnosti
 
-Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog, od Vas će se tražiti da dostavite podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti](/media/docs/privacy/sr.html) Firefox Marketplace. 
+Tokom Vaše registracije na Firefox Marketplace-u i za korišćenje istog, od Vas će se tražiti da dostavite podatke o sebi (kao što su identifikacija ili kontakt podaci). Vašim podacima ćemo rukovati na način kako je opisano u [Pravilima privatnosti](/media/docs/privacy/sr.html) Firefox Marketplace.
 
  Firefox Marketplace [Pravila privatnosti](/media/docs/privacy/sr.html) se primenjuju na Firefox Marketplace, ali se ne odnose na bilo koji Marketplace sadržaj. Potrebno je da proverite pravila privatnosti konkretnog Marketplace sadržaja kako biste otkrili praksu čuvanja privatnosti u vezi sa tim Marketplace sadržajem, i upoznali se sa istom pre kupovine, instaliranja ili korišćenja tog Marketplace sadržaja.
 
@@ -65,7 +65,7 @@ Ako smatrate da se neki Programer ne pridržava [Firefox Marketplace Ugovora sa 
 
 ### Sadržaji koje dostavljate
 
-Možete postaviti komentare, profilne slike i drugi sadržaj kao deo funkcija Firefox Marketplace-a ("Sadržaji koje dostavljate"). Radi pojašnjenja, ako ste Programer, "Sadržaji koje dostavljate" ne uključuju bilo koje Aplikacije ili Programske dodatke koje postavite na Firefox Marketplace - pravila koja se odnose na Aplikacije ili Programske dodatke koje postavljate uređena su u [Ugovoru sa Programerom](https://marketplace.firefox.com/developers/docs/policies/agreement). Postavljanjem Sadržaja koji dostavljate, dajete nam neekskluzivnu licencu koja važi u celom svetu, bez plaćanja autorskih naknada, da koristimo Sadržaje koje dostavljate u vezi sa obezbeđivanjem i promovisanjem Firefox Marketplace-a. Izjavljujete i garantujete da Sadržaji koje dostavljate neće povrediti prava bilo koje treće strane, i da će biti u skladu sa našim [Smernicama za proveru Aplikacija](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/Marketplace_review_criteria).
+Možete postaviti komentare, profilne slike i drugi sadržaj kao deo funkcija Firefox Marketplace-a ("Sadržaji koje dostavljate"). Radi pojašnjenja, ako ste Programer, "Sadržaji koje dostavljate" ne uključuju bilo koje Aplikacije ili Programske dodatke koje postavite na Firefox Marketplace - pravila koja se odnose na Aplikacije ili Programske dodatke koje postavljate uređena su u [Ugovoru sa Programerom](https://marketplace.firefox.com/developers/docs/policies/agreement). Postavljanjem Sadržaja koji dostavljate, dajete nam neekskluzivnu licencu koja važi u celom svetu, bez plaćanja autorskih naknada, da koristimo Sadržaje koje dostavljate u vezi sa obezbeđivanjem i promovisanjem Firefox Marketplace-a. Izjavljujete i garantujete da Sadržaji koje dostavljate neće povrediti prava bilo koje treće strane, i da će biti u skladu sa našim [Smernicama za proveru Aplikacija](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria).
 
 ### Obaveštenje o Zakonu o autorskim pravima u digitalnom milenijumu (Digital Millennium Copyright Act)
 
@@ -73,7 +73,7 @@ Ako ste nosilac autorskih prava ili zastupnik nosioca autorskih prava i smatrate
 
 Sva DMCA obaveštenja treba da sadrže sledeće:
 
-1. Potpis, elektronski ili fizički, nosioca ili lica ovlašćenog da nastupa u ime nosioca isključivog autorskog prava čija povreda je izvršena: 
+1. Potpis, elektronski ili fizički, nosioca ili lica ovlašćenog da nastupa u ime nosioca isključivog autorskog prava čija povreda je izvršena:
 2. Identifikaciju rada ili radova zaštićenih autorskim pravom za koje tvrdite da su povređeni;
 3. Opis prirode i lokacije materijala za koji tvrdite da vrši povredu Vašeg autorskog prava, u dovoljnom broju detalja kako bi se omogućilo Mozilla-i da nađe i pozitivno identifikuje taj sadržaj, uključujući i URL na kojem se nalazi;
 4.  Vaše ime, adresu, broj telefona i e-mail adresu na koje možemo da Vas kontaktiramo; i
@@ -98,7 +98,7 @@ Gore dati kontakt podaci takođe se primenjuju na obaveštenja zasnovana na ne-a
 
 Samo DMCA obaveštenja, Obaveštenja o povredi žiga (koja su definisana u daljem tekstu) i obaveštenja o međunarodnim autorskim pravima ili pravu na žig treba uputiti zastupniku za autorska prava.
 
-Imajte u vidu da DMCA obaveštenja poslata Mozilla-i mogu biti poslata trećim stranama (uključujući optuženog) i objavljena na internetu (uključujući adresu [http://www.chillingeffects.org/](http://www.chillingeffects.org/)).
+Imajte u vidu da DMCA obaveštenja poslata Mozilla-i mogu biti poslata trećim stranama (uključujući optuženog) i objavljena na internetu (uključujući adresu <https://www.chillingeffects.org>).
 
 ### Obaveštenja o povredi žiga
 
@@ -127,9 +127,9 @@ Možete raskinuti svoj ugovorni odnos sa Mozilla-om u vezi sa Firefox Marketplac
 Možemo suspendovati ili ukinuti Vaše naloge ili prestati da Vam obezbeđujemo celokupan ili deo Firefox Marketplace-a u bilo kom momentu iz bilo kog razloga, uključujući ali ne ograničavajući se na, ako smo razumno uvereni: (i) da ste izvršili povredu ovih Pravila, (ii) da predstavljate rizik ili moguće izlaganje pravnom riziku za nas; ili (iii) da naše obezbeđivanje Firefox Marketplace-a za Vas više nije komercijalno održivo. Uložićemo razuman napor da Vas o tome obavestimo na e-mail adresu povezanu sa Vašim nalogom ili sledeći put kada pokušate da pristupite svom nalogu.
 
 U svim tim slučajevima, Pravila će prestati da važe, uključujući bez ograničenja, Vašu licencu za korišćenje Firefox Marketplace-a, s tim što će sledeći odeljci nastaviti da se primenjuju: Oslobađanje od potraživanja i obeštećenje, Odricanje odgovornosti; Ograničenje odgovornosti; Merodavno pravo, Ostale odredbe.
-Pored toga, Mozilla može prestati (trajno ili privremeno) da obezbeđuje Firefox Marketplace (ili bilo koju od njegovih funkcija) Vama ili korisnicima generalno, i možda neće moći da Vam dostavi prethodno obaveštenje. 
+Pored toga, Mozilla može prestati (trajno ili privremeno) da obezbeđuje Firefox Marketplace (ili bilo koju od njegovih funkcija) Vama ili korisnicima generalno, i možda neće moći da Vam dostavi prethodno obaveštenje.
 
-### Odricanje odgovornosti; Ograničenje odgovornosti; 
+### Odricanje odgovornosti; Ograničenje odgovornosti;
 
 Radi pojašnjenja, kada se koristi u ovom odeljku, "Sadržaj" uključuje bez ograničenja "Marketplace sadržaj".
 
@@ -144,4 +144,4 @@ Ova Pravila će se uređivati zakonima Države Kalifornije bez obzira na pravila
 
 ### Ostale odredbe
 
-Ne možete ustupiti svoja prava ili delegirati svoje obaveze po ovim Pravilima.  Ova pravila nemaju za cilj korist, niti će se smatrati da daju, bilo koja prava za bilo koju treću stranu. Naš odnos je odnos nezavisnih izvođača:  ova Pravila neće se tumačiti kao stvaranje zajedničkog ulaganja ili ortačkog društva između strana.  Neće se smatrati da je bilo koja strana zaposleni, zastupnik, partner ili zakonski zastupnik druge strane za bilo koje potrebe, i nijedna strana neće imati bilo koje pravo ili ovlašćenje za stvaranje bilo koje obaveze ili odgovornosti u ime druge strane. Ova Pravila predstavljaju celovit ugovor između strana u pogledu predmeta istog.  Stupanjem ovih Pravila na snagu, prestaju da važe svi prethodni ili paralelni ugovori u pogledu predmeta istih. U slučaju da se ustanovi ili zaključi da je bilo koja odredba ovih Pravila nevažeća ili neizvršiva iz bilo kog razloga, to nevaženje neće imati uticaja na preostale odredbe ovih Pravila, i nevažeće ili neizvršive odredbe će biti zamenjene zajednički prihvatljivim odredbama koja, kao važeća, zakonita i izvršiva najbliže odražava originalne namere strana u ovim Pravilima, i ima sličan ekonomski efekat.  U slučaju da bilo koja strana u bilo kom momentu ne zatraži izvršenje bilo koje odredbe ovih Pravila, to ni na koji način neće uticati na pravo da se ista izvrši kasnije.  Nijedno odricanje bilo koje strane od povrede bilo koje odredbe ili obaveze sadržane u ovim Pravilima, u vidu ponašanja ili na drugi način, u jednoj ili više instanci, neće se smatrati ili tumačiti kao dalje ili trajno odricanje od te povrede ili odricanje od povrede bilo koje druge odredbe ili obaveze sadržane u ovim Pravilima. 
+Ne možete ustupiti svoja prava ili delegirati svoje obaveze po ovim Pravilima.  Ova pravila nemaju za cilj korist, niti će se smatrati da daju, bilo koja prava za bilo koju treću stranu. Naš odnos je odnos nezavisnih izvođača:  ova Pravila neće se tumačiti kao stvaranje zajedničkog ulaganja ili ortačkog društva između strana.  Neće se smatrati da je bilo koja strana zaposleni, zastupnik, partner ili zakonski zastupnik druge strane za bilo koje potrebe, i nijedna strana neće imati bilo koje pravo ili ovlašćenje za stvaranje bilo koje obaveze ili odgovornosti u ime druge strane. Ova Pravila predstavljaju celovit ugovor između strana u pogledu predmeta istog.  Stupanjem ovih Pravila na snagu, prestaju da važe svi prethodni ili paralelni ugovori u pogledu predmeta istih. U slučaju da se ustanovi ili zaključi da je bilo koja odredba ovih Pravila nevažeća ili neizvršiva iz bilo kog razloga, to nevaženje neće imati uticaja na preostale odredbe ovih Pravila, i nevažeće ili neizvršive odredbe će biti zamenjene zajednički prihvatljivim odredbama koja, kao važeća, zakonita i izvršiva najbliže odražava originalne namere strana u ovim Pravilima, i ima sličan ekonomski efekat.  U slučaju da bilo koja strana u bilo kom momentu ne zatraži izvršenje bilo koje odredbe ovih Pravila, to ni na koji način neće uticati na pravo da se ista izvrši kasnije.  Nijedno odricanje bilo koje strane od povrede bilo koje odredbe ili obaveze sadržane u ovim Pravilima, u vidu ponašanja ili na drugi način, u jednoj ili više instanci, neće se smatrati ili tumačiti kao dalje ili trajno odricanje od te povrede ili odricanje od povrede bilo koje druge odredbe ili obaveze sadržane u ovim Pravilima.

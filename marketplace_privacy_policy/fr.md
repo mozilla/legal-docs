@@ -1,7 +1,7 @@
 ### Politique de confidentialité du Firefox Marketplace
 3 juillet 2013
 
-Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations de Firefox Marketplace vous concernant, notre [politique de confidentialité](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
+Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations de Firefox Marketplace vous concernant, notre [politique de confidentialité](https://www.mozilla.org/privacy/) vous explique comment nous gérons ces informations.
 
 <u>Voici ce que vous devriez savoir</u>
 
@@ -44,7 +44,7 @@ Lorsque vous nous donnez des informations personnelles, nous les utilisons confo
 
 - Lorsque vous nous avez autorisé à le faire.
 - Pour le traitement ou la fourniture des produits et services, mais uniquement si les entités qui reçoivent vos informations sont obligées contractuellement d'utiliser les procédures de gestion des données approuvées par Mozilla.
-- Lorsque nous accomplissons notre mission qui est celle [d'être ouvert](http://www.mozilla.org/about/manifesto.html). Parfois, nous publions des informations pour améliorer nos produits et favoriser un Web ouvert. Cependant, nous éliminons vos informations personnelles et essayons de divulguer des informations tout en minimisant le risque que vous soyez ré-identifié(e).
+- Lorsque nous accomplissons notre mission qui est celle [d'être ouvert](https://www.mozilla.org/about/manifesto.html). Parfois, nous publions des informations pour améliorer nos produits et favoriser un Web ouvert. Cependant, nous éliminons vos informations personnelles et essayons de divulguer des informations tout en minimisant le risque que vous soyez ré-identifié(e).
 - Lorsque la loi l'exige. Nous respectons la loi chaque fois que nous recevons des requêtes d'informations sur vous de la part d'un gouvernement ou dans le cadre d'un procès. Nous vous avertirons dans ces cas de la transmission de vos informations personnelles, sauf si ceci est interdit par la loi. Lorsque nous recevons ce type de requête, nous ne communiquons vos informations personnelles que si nous estimons de bonne foi que la loi l'exige. Dans cette politique, rien n'entend limiter votre droit de défense ou opposition légale à divulguer vos informations sur la requête d'une tierce partie.
 - Lorsque nous jugeons qu'il est nécessaire d'éviter tout préjudice à votre personne ou à un tiers. Nous ne partagerons vos informations de cette manière que si nous estimons de bonne foi qu'il est raisonnablement nécessaire de protéger vos droits, votre propriété ou votre sécurité ou ceux d'autres utilisateurs, de Mozilla ou du public.
 - Si notre structure organisationnelle ou notre statut change (si nous sommes soumis à une restructuration, acquisition ou faisons faillite), nous pourrions passer vos informations à un successeur ou affilié.
@@ -59,7 +59,7 @@ Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n'
 
 Nous sommes une organisation mondiale et nos ordinateurs se trouvent dans des emplacements divers dans le monde entier. Nous faisons aussi appel à des fournisseurs de services dont les ordinateurs peuvent également se trouver dans divers pays. Ceci signifie que vos informations peuvent « atterrir » sur l'un des ordinateurs situés dans un autre pays, et ce pays peut avoir des réglementations différentes des nôtres en matière de protection des données. En nous communiquant vos informations, vous nous autorisez à effectuer ce transfert d'informations. Quel que soit le pays où se trouvent vos informations, nous respectons le droit applicable ainsi que les engagements que nous avons pris dans cette politique de confidentialité.
 
-Si vous avez moins de 13 ans, nous ne voulons pas vos informations personnelles et vous ne devez pas nous les communiquer. Si vous êtes parent d'un enfant de moins de 13 ans et pensez qu'il nous a communiqué ses informations personnelles, veuillez [nous contacter](https://www.mozilla.org/en-US/privacy/policies/firefox-os/) pour éliminer ces informations.
+Si vous avez moins de 13 ans, nous ne voulons pas vos informations personnelles et vous ne devez pas nous les communiquer. Si vous êtes parent d'un enfant de moins de 13 ans et pensez qu'il nous a communiqué ses informations personnelles, veuillez [nous contacter](https://www.mozilla.org/privacy/policies/firefox-os/) pour éliminer ces informations.
 
 ### Que se passe-t-il si nous modifions cette politique ?
 
