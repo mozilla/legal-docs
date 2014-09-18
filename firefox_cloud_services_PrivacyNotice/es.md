@@ -11,7 +11,7 @@ Usted nos envía distintos tipos de datos, dependiendo de las funciones de los S
 
 * **Cuenta de Firefox**: Cuando crea una cuenta, recibimos su dirección de correo electrónico y contraseña.
 * **Sync**: Si utiliza Sync, recibiremos información diversa que nos permitirá sincronizar sus pestañas, su barra alucinante, sus contraseñas, sus marcadores, sus preferencias de navegación y otros datos en los dispositivos.
-* **Buscar mi dispositivo**: Si activa Buscar mi dispositivo, inicia sesión en su cuenta de Firefox y solicita específicamente que ubiquemos un dispositivo conectado, recibiremos información sobre la ubicación aproximada de su dispositivo.  Si inicia sesión, podrá ver las últimas ubicaciones conocidas de su dispositivo en un mapa.  Nosotros eliminamos regularmente estas ubicaciones y no recogeremos más ubicaciones hasta que usted lo solicite expresamente.
+* **Encontrar mi dispositivo**: Si activa Encontrar mi dispositivo, inicia sesión en su cuenta de Firefox y solicita específicamente que ubiquemos un dispositivo conectado, recibiremos información sobre la ubicación aproximada de su dispositivo.  Si inicia sesión, podrá ver las últimas ubicaciones conocidas de su dispositivo en un mapa.  Nosotros eliminamos regularmente estas ubicaciones y no recogeremos más ubicaciones hasta que usted lo solicite expresamente.
 
 ---------------------------------------
 

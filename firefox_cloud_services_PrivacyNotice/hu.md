@@ -11,7 +11,7 @@ Attól függően, hogy a Szolgáltatások mely funkcióit használja, Ön külö
 
 * **Firefox-fiók**: Amikor fiókot nyit, megkapjuk e-mail címét és jelszavát.
 * **Sync**: A Sync használata esetén számos információt kapunk a lapok, az Awesome Bar, a jelszavak, a könyvjelzők, a böngészőbeállítások és a különböző Firefox eszközökön tárolt egyéb adatok szinkronizálása érdekében.
-* **Eszköz keresése**: Ha bekapcsolja az Eszközkereső funkciót, csak akkor kapjuk meg eszköze hozzávetőleges helyét, ha Ön bejelentkezik Firefox-fiókjába, és kifejezetten felkér minket csatlakoztatott eszköze helyének megállapítására. Amíg bejelentkezve marad, a térképen láthatja eszköze legutóbbi ismert helyeit. Ezeket a helyeket rendszeresen töröljük, és amíg nem kér fel rá minket, nem gyűjtjük a további helyeket.
+* **Eszközkereső**: Ha bekapcsolja az Eszközkereső funkciót, csak akkor kapjuk meg eszköze hozzávetőleges helyét, ha Ön bejelentkezik Firefox-fiókjába, és kifejezetten felkér minket csatlakoztatott eszköze helyének megállapítására. Amíg bejelentkezve marad, a térképen láthatja eszköze legutóbbi ismert helyeit. Ezeket a helyeket rendszeresen töröljük, és amíg nem kér fel rá minket, nem gyűjtjük a további helyeket.
 
 ---------------------------------------
 
