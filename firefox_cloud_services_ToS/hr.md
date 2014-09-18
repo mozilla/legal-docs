@@ -1,4 +1,4 @@
-Posljednja izmjena: 26. ožujka 2014.
+Posljednja izmjena 29. kolovoza 2014.
 
 #### Sažetak
 
@@ -20,6 +20,10 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
 3. #### Značajke
 
     Značajka Firefox Sync omogućava pristup informacijama pohranjenima u pregledniku Firefox svim vašim uređajima, uključujući i vašim karticama, fenomenalnoj traci, zaporkama, zabilješkama i postavkama preglednika. Značajku Firefox Sync možete omogućiti ili onemogućiti pomoću odjeljka Alati preglednika Firefox.
+
+    Nađi moj uređaj omogućuje vam da daljinski locirate i kontrolirate određene funkcije uređaja s Firefox OS-om., kao što je pregled najnovijih lokacija, brisanje lokalnog sadržaja, omogućavanje zvuka zvona ili zaključavanje zaslona, ili prikazivanje poruke. Za korištenje ovih funkcija, morate omogućiti Find My Device u postavkama uređaja.  Nađi moj uređaj funkcionira čak i ako su postavke zvuka i lokacije na vašem uređaju nečujne ili isključene. Ovu funkciju možete onemogućiti u postavkama svog uređaja.
+
+    Ako je vaš uređaj izgubljen, možete se prijaviti u http://www.find.firefox.com korištenjem pristupnih podataka vašeg Firefox računa za lokaciju i daljinsko upravljanje vašim uređajem. Približna lokacija vašeg uređaja bit će nam prijavljena čim se uređaj uključi i spoji na Internet.   Ako se primjenjuje, vi ste odgovorni za sve naknade proizašle od prijenosa podataka. Ako smatrate da je vaš uređaj ukraden, trebate se obratiti policijskoj postaji. Budite oprezni prilikom dijeljenja osobnih podataka budući da su poruke prikazane na vašem uređaju dostupne javnosti.
 
 4. #### Pravila privatnosti
 

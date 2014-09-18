@@ -1,4 +1,4 @@
-Dernière mise à jour le 26 mars 2014.
+Dernière mise à jour le 29 août 2014.
 
 #### Résumé
 
@@ -20,6 +20,10 @@ Cette première section offre un résumé des conditions d'utilisation. Ce résu
 3. #### Fonctions
 
     Firefox Sync vous permet d'accéder aux informations stockées dans Firefox sur tous les appareils, y compris vos onglets, la barre d'adresse, les mots de passe, marque-pages et préférences du navigateur. Vous pouvez activer et désactiver la fonction Firefox Sync dans la section Outils de Firefox.
+
+    Localiser mon appareil vous permet de localiser et de contrôler à distance certaines fonctionnalités d’un appareil Firefox OS, notamment visualiser les positions récentes, effacer du contenu local, activer la sonnerie ou l’écran de verrouillage, ou encore afficher un message. Pour utiliser ces fonctionnalités, vous devez activer Localiser mon appareil dans les paramètres de votre appareil. Localiser mon appareil fonctionnera même si les paramètres de son et de géolocalisation sont en mode silencieux ou sont désactivés. Vous pouvez désactiver cette fonctionnalité dans les paramètres de votre appareil.
+
+    Si vous avez égaré votre téléphone, vous pouvez vous connecter sur http://www.find.firefox.com à l’aide des identifiants de votre compte Firefox pour localiser et contrôler à distance votre appareil. La position approximative de votre appareil nous sera indiquée s’il est allumé et connecté à Internet. Le cas échéant, il vous incombe de payer tous les éventuels frais associés à la transmission des données. Si vous pensez que votre appareil a été volé, contactez la police. Soyez vigilant lorsque vous partagez des informations personnelles, car les messages affichés sur votre appareil sont visibles par tous.
 
 4. #### Politique de confidentialité
 

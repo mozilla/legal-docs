@@ -1,4 +1,4 @@
-Ostatnia aktualizacja: 26 marca 2014
+Ostatnia aktualizacja: 29 sierpnia 2014 r.
 
 #### Streszczenie
 
@@ -20,6 +20,10 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 3. #### Funkcje
 
     Funkcja Firefox Sync umożliwia dostęp za pośrednictwem wielu urządzeń do informacji zapisanych w przeglądarce Firefox, między innymi kart, dodatku awesome bar, haseł, zakładek i preferencji przeglądarki. Funkcję Firefox Sync można włączać i wyłączać z poziomu sekcji Narzędzia w przeglądarce Firefox.
+
+    Funkcja Znajdź moje urządzenie umożliwia zdalne lokalizowanie urządzeń z systemem Firefox OS oraz kontrolowanie niektórych ich funkcji, takich jak wyświetlanie ostatnich lokalizacji, kasowanie zawartości lokalnej, włączanie dzwonka lub ekranu blokady czy wyświetlanie wiadomości. Aby korzystać z tych funkcji, należy włączyć funkcję Znajdź moje urządzenie w ustawieniach urządzenia.  Funkcja Znajdź moje urządzenie będzie działać nawet po wyciszeniu lub wyłączeniu dźwięku i ustawień lokalizacji w urządzeniu. Funkcję można wyłączyć w ustawieniach urządzenia.
+
+    W przypadku zagubienia urządzenia można zalogować się na stronę http://www.find.firefox.com przy użyciu danych konta Firefox, aby zlokalizować i zdalnie kontrolować urządzenie. Jeśli urządzenie jest włączone i połączone z Internetem, otrzymamy jego przybliżoną lokalizację.  Za wszelkie ewentualne opłaty związane z transmisją danych odpowiada użytkownik. W razie podejrzeń, że urządzenie zostało skradzione, należy skontaktować się z organami ścigania. Przy udostępnianiu danych osobowych należy zachować ostrożność, ponieważ wiadomości wyświetlane na urządzeniu są publicznie dostępne.
 
 4. #### Polityka prywatności
 
