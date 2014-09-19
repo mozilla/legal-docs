@@ -1,4 +1,4 @@
-Última atualização em 26 de março de 2014
+Última atualização em 29.08.14
 
 #### Resumo
 
@@ -20,6 +20,10 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 3. #### Recursos
 
     O Firefox Sync permite acessar informações armazenadas no Firefox entre dispositivos, incluindo abas, awesome bar, senhas, favoritos e preferências do navegador. Você pode ativar e desativar o Firefox Sync na seção Ferramentas do Firefox.
+
+    A função Encontrar Meu Dispositivo permite que você localize e controle remotamente determinados recursos de um dispositivo Firefox OS, como por exemplo visualizar localizações recentes, apagar conteúdo local, ativar o toque ou a tela de bloqueio ou exibir uma mensagem. Para usar essas funções, você deve ativar a função Encontrar Meu Dispositivo nas configurações do seu dispositivo.  A função Encontrar Meu Dispositivo funcionará mesmo que seu dispositivo esteja com as configurações de som e localização silenciosas ou desligadas. Você pode desativar esse recurso nas configurações do seu dispositivo.
+
+    Caso seu dispositivo tenha sido perdido, você pode entrar em https://find.firefox.com/' usando os dados de acesso da sua conta do Firefox para localizar e controlar remotamente o seu dispositivo. A localização aproximada do seu dispositivo nos será enviada enquanto o dispositivo estiver ligado e conectado à Internet.  Se aplicável, você será responsável por quaisquer taxas associadas à transmissão de dados. Se achar que o seu dispositivo foi roubado, você deve entrar em contato com as autoridades policiais. Cuidado ao compartilhar informações pessoais, pois as mensagens exibidas no seu dispositivo são disponibilizadas publicamente.
 
 4. #### Política de privacidade
 

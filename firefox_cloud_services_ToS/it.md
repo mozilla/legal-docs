@@ -1,4 +1,4 @@
-Ultimo aggiornamento 26 marzo 2014
+Ultimo aggiornamento 29 agosto 2014
 
 #### Riepilogo
 
@@ -20,6 +20,10 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 3. #### Funzioni
 
     Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, barra degli indirizzi, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Strumenti di Firefox.
+
+    Trova il mio dispositivo consente di localizzare a distanza un dispositivo Firefox OS e di controllarne alcune funzioni, come la visualizzazione delle posizioni recenti, la cancellazione di contenuti locali, l'attivazione della suoneria o del blocco schermo e la visualizzazione di messaggi. Per poter utilizzare queste funzioni, devi abilitare Trova il mio dispositivo nelle impostazioni del tuo dispositivo. Trova il mio dispositivo funziona anche se i suoni e le impostazioni di localizzazione del dispositivo sono disattivati. Per disattivare questa funzione, accedi alle impostazioni del dispositivo.
+
+    Se non riesci più a trovare il tuo dispositivo, puoi accedere a https://find.firefox.com/' utilizzando le credenziali del tuo account Firefox per localizzare e controllare a distanza il tuo dispositivo. Se il tuo dispositivo è acceso e connesso a Internet, saremo in grado di rilevarne la posizione approssimativa. Se previsto, sarai responsabile di eventuali spese associate alla trasmissione dei dati. Se pensi che il tuo dispositivo sia stato rubato, ti consigliamo di contattare le forze dell'ordine. Fai attenzione a condividere eventuali informazioni personali, in quanto i messaggi visualizzati sul dispositivo potranno essere letti da chiunque.
 
 4. #### Politica sulla privacy
 

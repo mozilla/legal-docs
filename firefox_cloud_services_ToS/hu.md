@@ -1,4 +1,4 @@
-Utoljára frissítve: 2014. március 26.
+Utoljára frissítve: 2014. augusztus 29-én
 
 #### Összefoglaló
 
@@ -20,6 +20,10 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 3. #### Funkciók
 
     A Firefox Sync révén hozzáférhet a különböző Firefox eszközökön tárolt információkhoz, beleértve a lapokat, az Awesome Bar funkciót, a jelszavakat, a könyvjelzőket és a böngészőbeállításokat. A Firefox Sync funkciót a Firefox Eszközök részében engedélyezheti és tilthatja le.
+
+    Az Eszközkereső opció lehetővé teszi, hogy megállapítsa a Firefox OS eszköz helyét, és hogy bizonyos funkcióit vezérelje, például a jelenlegi hely megtekintését, a helyi tartalmak törlését, a csengőhang bekapcsolását, vagy üzenet megjelenítését. Ezeket a funkciókat akkor tudja használni, ha eszköze beállításaiban bekapcsolta az Eszközkeresés opciót. Az Eszközkeresés akkor is működik, ha eszközén a hangjelzéseket és a helymeghatározási beállításokat némára állították vagy kikapcsolták. Ezt a funkciót eszköze beállításai között kapcsolhatja ki.
+
+    Ha eszköze elvész, jelentkezzen be erre a címre: https://find.firefox.com/' saját Firefox-fiókjának hitelesítő adataival, hogy megtalálhassa és távolról vezérelhesse eszközét. A rendszer jelenti nekünk az eszköz hozzávetőleges helyét, amint az eszközt bekapcsolták és csatlakoztatták az internetre. Az esetlegesen felmerülő adatátvitellel kapcsolatos díjak Önt terhelik. Ha úgy véli, hogy eszközét eltulajdonították, vegye fel a kapcsolatot a rendészeti szervekkel. A személyes adatok megadásakor legyen körültekintő, mivel az eszközén megjelenő üzenetek elérhetőek a nyilvánosság számára.
 
 4. #### Adatvédelmi irányelvek
 

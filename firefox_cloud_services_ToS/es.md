@@ -1,4 +1,4 @@
-Última actualización: 26 de marzo de 2014
+Última actualización: 29 de agosto de 2014
 
 #### Resumen
 
@@ -20,6 +20,10 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 3. #### Características
 
     Firefox Sync le permite acceder desde distintos dispositivos a la información almacenada en Firefox, como las pestañas, la barra alucinante, las contraseñas, los marcadores y las preferencias del navegador. Es posible habilitar y deshabilitar Firefox Sync mediante la sección de herramientas de Firefox.
+
+    Buscar mi dispositivo le permite ubicar de forma remota y controlar algunas funciones de un dispositivo Firefox OS, como la visualización de ubicaciones recientes, eliminar contenido local, activar el tono de llamada o el bloqueo de pantalla, o mostrar un mensaje. Para usar estas funciones, debe activar Buscar mi dispositivo en los ajustes de su dispositivo.  Buscar mi dispositivo funcionará incluso si los ajustes de sonido y ubicación de su dispositivo están silenciados o apagados. Puede desactivar esta función en los ajustes de su dispositivo.
+
+    Si ha perdido su dispositivo, puede entrar en https://find.firefox.com/' usando las credenciales de su cuenta de Firefox para localizar y controlar de forma remota su dispositivo. Se nos informará sobre la ubicación aproximada de su dispositivo en cuanto el dispositivo esté activado y conectado a Internet.  En caso pertinente, se deberá hacer cargo del coste asociado con la transmisión de datos. Si cree que su dispositivo ha sido robado, póngase en contacto con la policía local. Tenga cuidado a la hora de compartir información personal porque los mensajes mostrados en su dispositivo son accesibles públicamente.
 
 4. #### Política de privacidad
 
