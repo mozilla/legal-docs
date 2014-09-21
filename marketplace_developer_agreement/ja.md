@@ -55,7 +55,7 @@ Firefox Marketplace への開発者としてのご登録およびご利用の一
 
 Firefox Marketplace 統合決済システムのご利用の際には、適用されている統合決済会社における決済アカウントを申し込む必要があります。本開発者規約において、「決済アカウント」とは、皆様と統合決済会社との間で別途締結する契約に従って当該統合決済会社が発行するアカウントをいい、当該統合決済会社は、当該契約に従い、Firefox Marketplace を通じて販売された Marketplace コンテンツについて、皆様に代わり、集金し送金することが許可されます。Mozilla の決済システムでは、法域ごとに異なる決済会社を提示する場合があります。統合決済会社および統合決済会社毎の標準約款の一覧は[こちらから入手可能です](/media/docs/pay-providers/all.html?v1)。皆様は、統合決済会社をご利用になる場合、当該統合決済会社がサービスを提供するために必要な限度において、Mozilla が皆様に関する情報を当該統合決済会社と共有することを承認するものとします。第三者たる決済会社のサービスを利用することにより、当該決済会社のプライバシーポリシーおよび利用規約に同意するものとします。
 
-Firefox Marketplaceの統合決済システムをご利用になる場合、ご自身の Marketplace コンテンツをエンドユーザが購入した際、取扱手数料がかかります。現行の手数料表は、[https://developer.mozilla.org/docs/Apps/Marketplace_Payments](https://developer.mozilla.org/docs/Apps/Marketplace_Payments)でご覧いただけます。Mozilla は、随時、その単独の裁量をもって上記手数料を改定する権利を留保します。
+Firefox Marketplaceの統合決済システムをご利用になる場合、ご自身の Marketplace コンテンツをエンドユーザが購入した際、取扱手数料がかかります。現行の手数料表は、<https://developer.mozilla.org/docs/Apps/Marketplace_Payments>でご覧いただけます。Mozilla は、随時、その単独の裁量をもって上記手数料を改定する権利を留保します。
 
 ご自身の Marketplace コンテンツを販売する場合、皆様は、税金（売上税／消費税（VAT）を含みます。）、価格設定、返金その他あらゆる支払義務についても責任を負います。統合決済システムをご利用になる場合、統合決済会社が売上税／消費税 (VAT)、商人としての最終販売責任 (merchant of record)、返金、その他皆様の決裁関連事項について引き受ける場合があります。皆様が請求する料金、返金、皆様が納税義務を負う売上税／消費税 (VAT) およびその他の決済関連事項の一切は、皆様、ご自身の決済会社およびご自身の Marketplace コンテンツの購入者の間で決済されるものとします。
 
@@ -96,12 +96,12 @@ Firefox Marketplace 統合決済システムをご利用になる場合、統合
 
 ## コンテンツの規制
 
-皆様が Firefox Marketplace 上で提供するMarketplaceコンテンツは、Mozilla のコンテンツ及び開発者向けのその他ポリシーに従う必要があります。現行のポリシーについては、[marketplace review criteria](https://developer.mozilla.org/en-US/docs/Apps/Marketplace_Review) からご覧いただけます。また、Firefox Marketplace では、全てのアプリについて International Age Rating Coalition （国際年齢評価連合）（以下「IARC」といいます。）による評価を取得しなければなりません。Firefox Marketplace の開発者は、アプリ投稿プロセスの一環として、無料で IARC 評価ツールにアクセスすることができます。IARC は、第三者機関であり、その評価ツールを使用することにより、皆様は、[IARCプライバシーポリシー](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) および [IARC 評価ツールとウェブサイト利用規約](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx)を遵守することに同意するものとします。
+皆様が Firefox Marketplace 上で提供するMarketplaceコンテンツは、Mozilla のコンテンツ及び開発者向けのその他ポリシーに従う必要があります。現行のポリシーについては、[marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_Review) からご覧いただけます。また、Firefox Marketplace では、全てのアプリについて International Age Rating Coalition （国際年齢評価連合）（以下「IARC」といいます。）による評価を取得しなければなりません。Firefox Marketplace の開発者は、アプリ投稿プロセスの一環として、無料で IARC 評価ツールにアクセスすることができます。IARC は、第三者機関であり、その評価ツールを使用することにより、皆様は、[IARCプライバシーポリシー](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) および [IARC 評価ツールとウェブサイト利用規約](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx)を遵守することに同意するものとします。
 
 
 ## Persona および Marketplace コンテンツ
 
-[Persona](http://persona.org) は、Mozilla のログインシステムです。一部のMarketplaceコンテンツは、認証の際に Persona を利用しています。Mozilla は、皆様に対し、ユーザによる皆様の Marketplace コンテンツの購入の受領証を提供します。
+[Persona](https://persona.org) は、Mozilla のログインシステムです。一部のMarketplaceコンテンツは、認証の際に Persona を利用しています。Mozilla は、皆様に対し、ユーザによる皆様の Marketplace コンテンツの購入の受領証を提供します。
 
 
 ## アプリの評価および統計
