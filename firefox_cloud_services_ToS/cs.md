@@ -1,4 +1,4 @@
-Poslední aktualizace 26. března 2014
+Poslední aktualizace 29. srpna 2014
 
 #### Shrnutí
 
@@ -20,6 +20,10 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 3. #### Funkce
 
     Firefox Sync vám umožňuje přístup k informacím uloženým ve Firefoxu z různých zařízení, včetně vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat pomocí části Možnosti aplikace Firefox.
+
+    Funkce Najdi mé zařízení vám umožňuje na dálku lokalizovat a ovládat některé funkce zařízení s OS Firefox, jako například prohlížení posledních míst výskytu, mazání místního obsahu, zapínání vyzváněcího tónu nebo uzamčení obrazovky či zobrazení zprávy. K použití těchto funkcí musíte aktivovat funkci Najdi mé zařízení v nastaveních zařízení.  Funkce Najdi mé zařízení bude fungovat i v případě, že nastavení zvuku a místa v zařízení jsou ztišena nebo vypnuta. Tuto funkci můžete deaktivovat v nastaveních zařízení.
+
+    Pokud své zařízení nemůžete najít, můžete se přihlásit na https://find.firefox.com/ pomocí přihlašovacích údajů vašeho účtu Firefox a lokalizovat své zařízení a dálkově ho ovládat. Přibližné místo výskytu zařízení nám bude nahlášeno, pokud je zařízení zapnuté a připojeno k internetu.  V příslušných případech ponesete veškeré náklady související s přenosem dat. Pokud se domníváte, že zařízení bylo ukradeno, měli byste se obrátit na příslušné orgány. Při sdílení osobních údajů buďte opatrní, protože zprávy zobrazované v zařízení jsou veřejně dostupné.
 
 4. #### Zásady ochrany soukromí
 
