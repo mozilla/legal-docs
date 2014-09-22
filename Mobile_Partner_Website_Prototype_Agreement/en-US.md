@@ -111,7 +111,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     1. "**Powered by Firefox OS**"
 
-        1. You may create a Prototype bearing the "Powered By Firefox OS" tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Protogype.
+        1. You may create a Prototype bearing the "Powered By Firefox OS" tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Prototype.
 
         2. Should you wish to use the "Powered by Firefox OS" brand tier, you must adhere to the following requirements:
 
