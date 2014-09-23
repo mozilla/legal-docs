@@ -111,7 +111,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     1. "**Powered by Firefox OS**"
 
-        1. You may create a Prototype bearing the "Powered By Firefox OS" tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Branded Device.
+        1. You may create a Prototype bearing the "Powered By Firefox OS" tier of branding described in the Brand Kit. While Mozilla encourages the prominent use of the Mozilla Marks in accordance with the Firefox OS Brand Identity Guidelines and this Agreement, such use should not be done in a manner that would reasonably indicate to end users or the public that Mozilla is the source/provider of the Prototype.
 
         2. Should you wish to use the "Powered by Firefox OS" brand tier, you must adhere to the following requirements:
 
@@ -137,7 +137,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
 4. **Platform Compatibility and Performance**. Should you wish to create a Prototype, it must adhere to the following requirements:
 
-    1. *Open Web Device Compliance Review Board*. Mozilla, along with operators, chipset manufacturers and other third parties have created the Open Web Device Compliance Review Board to encourage web API compatibility and performance baselines for devices. The OWDCRB is slated to fully launch in Q3 of 2014. Once the OWDCRB is launched, in order to create Prototypes using either tier, each Device must first pass the OWDCRB. There are limited exceptions to this requirement that Mozilla may grant in its sole discretion (such as if there are no performance metrics for the type of device you are creating) and you should contact the Mozilla Contact if you believe a Branded Device may qualify for such an exception. You can learn more and start the OWDCRB process by visiting <https://www.openwebdevice.org>.
+    1. *Open Web Device Compliance Review Board*. Mozilla, along with operators, chipset manufacturers and other third parties have created the Open Web Device Compliance Review Board to encourage web API compatibility and performance baselines for devices. When the OWDCRB is fully launched, in order to create Prototypes, each device must first pass the OWDCRB. There are limited exceptions to this requirement that Mozilla may grant in its sole discretion (such as if there are no performance metrics for the type of device you are creating) and you should contact the Mozilla Contact if you believe a Prototype may qualify for such an exception. You can learn more and start the OWDCRB process by visiting <https://www.openwebdevice.org>.
 
     2. *Minimum Hardware Requirements*. All Prototypes must meet the following minimum hardware and software requirements:
 
