@@ -43,8 +43,8 @@
 9. **责任限制**。对于您遭受的任何特殊、间接、附带或继发性损害，MOZILLA 受补偿方概不负责，无论 MOZILLA 事先是否被告知发生此类损害的可能性。除非法律另有要求，Mozilla 在本协议项下对所有损坏的赔偿责任累计不超过十美元 ($10.00)。
 
 10. **协议期限和终止**。本协议自您接受这些条款之日起生效，持续生效一 (1) 年。并且本协议应延长一 (1) 年的期限，除非依据本条款提前终止。
-1. **为方便起见**。为方便起见，本协议的任何一方都可以因故或无故终止本协议，在向另一方提供有意终止协议的书面通知 30 天后生效。
-2. **由 Mozilla 终止**。如果出现以下情况，Mozilla 可以立即通知您终止本协议：
+    1. **为方便起见**。为方便起见，本协议的任何一方都可以因故或无故终止本协议，在向另一方提供有意终止协议的书面通知 30 天后生效。
+    2. **由 Mozilla 终止**。如果出现以下情况，Mozilla 可以立即通知您终止本协议：
 
 	    1. 您违反了本协议或在未经授权的情况下使用 Brand Kit、Powered by Firefox OS 品牌资产或 Mozilla 标识。
 
@@ -52,7 +52,7 @@
 
 	    3. 无力偿还债务、被迫解散公司或停止业务，申请破产或被起诉进行破产申请。
 
-3. **终止效力**。一旦本协议出于任何原因终止，您同意立即停止使用所有的 Brand Kit 和 Powered by Firefox OS 品牌资产。在本协议因故终止或到期后，条款 3-9 和 11 仍然有效（如适用）。
+    3. **终止效力**。一旦本协议出于任何原因终止，您同意立即停止使用所有的 Brand Kit 和 Powered by Firefox OS 品牌资产。在本协议因故终止或到期后，条款 3-9 和 11 仍然有效（如适用）。
 
 11. **总则**。
 
@@ -99,25 +99,25 @@ Powered by Firefox OS 品牌使用要求
 
 1. **定义**。
 
-1. "**API**”是应用程序编程接口，它允许其他程序（如 web 应用程序）与给定的程序交互。
+    1. "**API**”是应用程序编程接口，它允许其他程序（如 web 应用程序）与给定的程序交互。
 
-2. "**开放网络设备执行审查委员会**“或”**OWDCRB**”指的是由 Mozilla 和其他一些第三方公司共同组建的一个第三方实体，以推动原型的 API 兼容性和性能基准。
+    2. "**开放网络设备执行审查委员会**“或”**OWDCRB**”指的是由 Mozilla 和其他一些第三方公司共同组建的一个第三方实体，以推动原型的 API 兼容性和性能基准。
 
-3. "**Mozilla 联系人**”指的是 Mozilla 随时指定的联系人（您也可以查阅网站获取联系人信息）。
+    3. "**Mozilla 联系人**”指的是 Mozilla 随时指定的联系人（您也可以查阅网站获取联系人信息）。
 
-4. "**Web API**”是操作系统中的 API，可通过 web 应用程序进行访问，不包括未暴露给 web 应用程序进行访问的面向内部的私有 API。
+    4. "**Web API**”是操作系统中的 API，可通过 web 应用程序进行访问，不包括未暴露给 web 应用程序进行访问的面向内部的私有 API。
 
 2. **品牌分层**。
 
-1. "**Powered by Firefox OS**”
+    1. "**Powered by Firefox OS**”
 
-1. 您可以生产 Brand Kit 中规定的标有“Powered By Firefox OS”品牌分层的原型。尽管 Mozilla 鼓励按照 Firefox OS 品牌识别准则和本协议大量使用 Mozilla 标识，但此类使用不应表现为向最终用户或公众充分表明 Mozilla 是原型的来源/提供商。
+        1. 您可以生产 Brand Kit 中规定的标有“Powered By Firefox OS”品牌分层的原型。尽管 Mozilla 鼓励按照 Firefox OS 品牌识别准则和本协议大量使用 Mozilla 标识，但此类使用不应表现为向最终用户或公众充分表明 Mozilla 是原型的来源/提供商。
 
-2. 如果您希望使用“Powered by Firefox OS”品牌分层，必须遵守以下要求：
+        2. 如果您希望使用“Powered by Firefox OS”品牌分层，必须遵守以下要求：
 
-1. 开源许可证合规（请参见下面的要求）
+            1. 开源许可证合规（请参见下面的要求）
 
-2. 性能和 Web 兼容性要求（请参见下文）
+            2. 性能和 Web 兼容性要求（请参见下文）
 
 	3. 您务必遵守附录 A 第 5 条中规定的“Powered by Firefox OS”的审核与批准流程。
 
@@ -137,25 +137,25 @@ Powered by Firefox OS 品牌使用要求
 
 4. **平台兼容性及性能**。如果您要生产原型，它们必须遵守下列要求：
 
-1. *开放网络设备执行审查委员会*。Mozilla 与运营商、芯片生产商和其他第三方组建了开放网络设备执行审查委员会，以鼓励针对设备的 web API 兼容性和性能基准。在 OWDCRB 完全启动后，为了使用分层生产原型，每台设备必须先通过 OWDCRB 流程。本要求存在少数例外，Mozilla 可以自行决定是否授权（例如，如果没有针对您正在生产的设备类型的性能指标），如果您认为您的原型可能符合此例外，请联系 Mozilla 联系人。访问 <https://www.openwebdevice.org> 了解更多信息并开始 OWDCRB 流程。
+    1. *开放网络设备执行审查委员会*。Mozilla 与运营商、芯片生产商和其他第三方组建了开放网络设备执行审查委员会，以鼓励针对设备的 web API 兼容性和性能基准。在 OWDCRB 完全启动后，为了使用分层生产原型，每台设备必须先通过 OWDCRB 流程。本要求存在少数例外，Mozilla 可以自行决定是否授权（例如，如果没有针对您正在生产的设备类型的性能指标），如果您认为您的原型可能符合此例外，请联系 Mozilla 联系人。访问 <https://www.openwebdevice.org> 了解更多信息并开始 OWDCRB 流程。
 
-2. *最低硬件要求*。所有原型必须符合下列最低硬件和软件要求：
+    2. *最低硬件要求*。所有原型必须符合下列最低硬件和软件要求：
 
-1. **手机**（适用于“Firefox OS 1.x”）：
+        1. **手机**（适用于“Firefox OS 1.x”）：
 
-1. CPU：最低 1GHz，单核，相当于 ARM Cortex A5 处理器
+            1. CPU：最低 1GHz，单核，相当于 ARM Cortex A5 处理器
 
-2. 存储空间：256MB
+            2. 存储空间：256MB
 
-3. 系统 RAM：128MB
+            3. 系统 RAM：128MB
 
-4. 显示器：262k 彩色、3.5 英寸 HVGA (480x320) 电容式多触点显示屏（最少两个点）
+            4. 显示器：262k 彩色、3.5 英寸 HVGA (480x320) 电容式多触点显示屏（最少两个点）
 
-5. GPU：启用 WebGL 的 GPU，应能够以 30FPS 呈现 H.264 视频
+            5. GPU：启用 WebGL 的 GPU，应能够以 30FPS 呈现 H.264 视频
 
-6. 硬件按钮：Home（主屏幕）、Power（电源）、Volume up（增大音量）、Volume down（减小音量）。Back（返回）、Menu（菜单）和 Search（搜索）硬件按钮可能不会出现在 Firefox OS 联合品牌上。
+            6. 硬件按钮：Home（主屏幕）、Power（电源）、Volume up（增大音量）、Volume down（减小音量）。Back（返回）、Menu（菜单）和 Search（搜索）硬件按钮可能不会出现在 Firefox OS 联合品牌上。
 
-2. **其他设备（电视和平板电脑）**：其他设备的要求须经 Mozilla 书面批准。
+        2. **其他设备（电视和平板电脑）**：其他设备的要求须经 Mozilla 书面批准。
 
 	3. *Web API 兼容性*
 
@@ -211,15 +211,15 @@ Powered by Firefox OS 品牌使用要求
 
 5. **审查流程；审核。**
 
-1. *设备/内部版本*。
+    1. *设备/内部版本*。
 
-1. 方便时，请务必完成 OWDCRB 认证流程（参见 <https://www.openwebdevice.org/>）。
+        1. 方便时，请务必完成 OWDCRB 认证流程（参见 <https://www.openwebdevice.org/>）。
 
-2. 您应填写在以下网址提供的 Powered by Firefox OS 自认证核对清单：<https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>，并应将此核对清单及原型的样品连同成品包装提交到 Mozilla 指定的地址。
+        2. 您应填写在以下网址提供的 Powered by Firefox OS 自认证核对清单：<https://mobilepartners.mozilla.org/accounts/login/?next=/market/certify-your-ffos-device>，并应将此核对清单及原型的样品连同成品包装提交到 Mozilla 指定的地址。
 
-2. *营销*。Mozilla 按“Powered by Firefox OS”品牌级别提供用于原型的 Brand Kit（“**Firefox OS 品牌工具包**”）。您只能按此处规定的方式使用 Firefox OS 品牌工具包下提供的此类资产，**不得进行修改**。需要澄清的是，不得使用下面介绍的 Firefox OS 联名品牌工具包。有关 Firefox OS 品牌工具包的问题可提交给 <fxos-crt@mozilla.com>。
+    2. *营销*。Mozilla 按“Powered by Firefox OS”品牌级别提供用于原型的 Brand Kit（“**Firefox OS 品牌工具包**”）。您只能按此处规定的方式使用 Firefox OS 品牌工具包下提供的此类资产，**不得进行修改**。需要澄清的是，不得使用下面介绍的 Firefox OS 联名品牌工具包。有关 Firefox OS 品牌工具包的问题可提交给 <fxos-crt@mozilla.com>。
 
-3. *审核*。Mozilla 有权审核您是否符合附录 A 要求。如果不符合这些 Firefox OS 品牌要求，Mozilla 会通知您立即更新原型以解决此问题。Mozilla 有权采取一切必要行动，确保您使用 Mozilla 标识及与其相关的行为符合具有 Mozilla 标识的产品的质量和声誉要求，包括任何质量标准。
+    3. *审核*。Mozilla 有权审核您是否符合附录 A 要求。如果不符合这些 Firefox OS 品牌要求，Mozilla 会通知您立即更新原型以解决此问题。Mozilla 有权采取一切必要行动，确保您使用 Mozilla 标识及与其相关的行为符合具有 Mozilla 标识的产品的质量和声誉要求，包括任何质量标准。
 
 # 附录 1：更新计划 #
 
