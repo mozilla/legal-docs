@@ -92,9 +92,9 @@ Powered by Firefox OS 品牌使用要求
 | **可用的品牌资产** | 可用的品牌资产：Brand Kit 中规定的“Powered by Firefox OS”分层。 |
 | **您的使用案例** | 符合最低兼容性要求的原型 |
 | **要求** | 原型必须符合以下要求： | 
-| |*开源许可证合规 | 
-| |*通过开放网络设备执行审查委员会审查 | 
-| |*符合性能与兼容性要求 |
+| |* 开源许可证合规 | 
+| |* 通过开放网络设备执行审查委员会审查 | 
+| |* 符合性能与兼容性要求 |
 | **Firefox Marketplace 和 Mozilla 服务** | Firefox Marketplace 和其他可用的 Mozilla 服务。 |
 
 1. **定义**。
@@ -125,9 +125,9 @@ Powered by Firefox OS 品牌使用要求
 
 3. **开源许可证合规**。分销任何开源对象或源代码必须符合管辖该代码的每个开源许可证的要求。有关 Boot2Gecko 中开源的更多信息，请参见 <https://wiki.mozilla.org/Boot2Gecko/Licensing>。Mozilla 强烈建议您参与 Boot 2 Gecko 项目并考虑为其做出开源贡献。如需了解如何参与的更多信息，请参见下列资源：
 
-    1. <https://developer.mozilla.org/en-US/docs/Introduction>
+    1. <https://developer.mozilla.org/docs/Introduction>
 
-    2. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
+    2. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS>
 
     3. <https://mozilla.github.io/process-releases/draft/development_overview>
 
@@ -173,7 +173,7 @@ Powered by Firefox OS 品牌使用要求
 	
 	            1. <https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy>
 	
-	            2. <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+	            2. <https://developer.mozilla.org/docs/Gecko_user_agent_string_reference>
 	
 	        3. 不得修改现有 Web API 的行为。例如，不得更改某一函数的语义或其副作用。
 	
@@ -187,13 +187,13 @@ Powered by Firefox OS 品牌使用要求
 
 	    1. 原型必须实现下面所示的权限模型和信任级别：
 
-	        1. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+	        1. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-	        2. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+	        2. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/System_security>
 
 	    2. 原型必须能够通过相应的权限检查访问 Web API。下面所示为当前的权限检查：
 
-	        1. <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+	        1. <https://developer.mozilla.org/docs/Web/Apps/App_permissions>
 
 	    3. 源自 Firefox Marketplace、预安装在原型上的应用程序应附带为 Firefox Marketplace 提供的应用程序签名证书，预安装的非源自 Firefox Marketplace 的应用程序不得使用 Firefox Marketplace 签名证书。
 
