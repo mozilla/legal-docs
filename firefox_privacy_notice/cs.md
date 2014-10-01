@@ -1,6 +1,6 @@
 # Oznámení o zásadách ochrany osobních údajů prohlížeče Firefox
 
-15. dubna 2014
+15\. dubna 2014
 {: datetime="2014-04-15" }
 
 Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox zasílá informace společnosti Mozilla (tedy nám), naše [zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak budeme s takovými informacemi nakládat.
