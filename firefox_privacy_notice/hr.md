@@ -1,6 +1,6 @@
 # Pravila o privatnosti preglednika Firefox
 
-15. travnja 2014.
+15\. travnja 2014.
 {: datetime="2014-04-15" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox pošalje podatke Mozilli (to smo mi), naša [Pravila o privatnosti](https://www.mozilla.org/privacy/) opisuju kako koristimo te podatke.

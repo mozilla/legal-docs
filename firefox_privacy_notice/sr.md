@@ -1,6 +1,6 @@
 # Obaveštenje o privatnosti pretraživača Firefox
 
-15. april 2014.
+15\. april 2014.
 {: datetime="2014-04-15" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox šalje informacije kompaniji Mozilla (to smo mi) u našim [Pravilima privatnosti](https://www.mozilla.org/privacy/) opisuje se način na koji koristimo te informacije.

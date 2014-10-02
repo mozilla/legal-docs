@@ -1,6 +1,6 @@
 # Firefox böngésző Adatvédelmi tájékoztató
 
-2014. április 15.
+2014\. április 15.
 {: datetime="2014-04-15" }
 
 Fontos számunkra az Ön adatainak védelme. Ha a Firefox adatokat küld a Mozilla (ez minket jelent) számára, akkor [adatvédelmi irányelveink](https://www.mozilla.org/privacy/) írják le ezek kezelésének módját.
