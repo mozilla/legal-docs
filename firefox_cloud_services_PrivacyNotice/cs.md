@@ -11,7 +11,7 @@ Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby vyu�
 
 * **Účet Firefox**: Pokud si založíte účet, obdržíte e-mail s heslem.
 * **Sync**: Pokud používáte službu Sync, získáváme různé informace pro synchronizaci vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče a další data prostřednictvím různých zařízení.
-* **Nalézt mé zařízení**: Pokud aktivujete funkci Nalézt mé zařízení, získáme přibližné místo výskytu vašeho zařízení pouze pokud se přihlásíte ke svému účtu Firefox a výslovně nás požádáte o lokalizaci propojeného zařízení.  Během přihlášení vidíte poslední známou lokalizaci vašeho zařízení na mapě.  Přehled těchto míst pravidelně mažeme a další místa nebudeme shromažďovat, dokud nás o to nepožádáte.
+* **Nalézt mé zařízení**: Pokud aktivujete funkci Nalézt mé zařízení, získáme přibližné místo výskytu vašeho zařízení, pouze pokud se přihlásíte ke svému účtu Firefox a výslovně nás požádáte o nalezení propojeného zařízení. Během přihlášení vidíte poslední známou pozici vašeho zařízení na mapě. Přehled těchto míst pravidelně mažeme a další místa nebudeme shromažďovat, dokud nás o to nepožádáte.
 
 ---------------------------------------
 
