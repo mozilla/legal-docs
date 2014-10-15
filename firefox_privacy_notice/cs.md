@@ -7,13 +7,13 @@ Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox
 
 ## Záležitosti, kterých byste si měli být vědomi
 
-Firefox se s námi a našimi poskytovcateli služev automaticky propojuje za účelem poskytování aktualizací, bezpečnosti, snippets, hlášení o stavu Firefoxu a ostatních funkcí. 
+Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za účelem poskytování aktualizací, bezpečnosti, snippets, hlášení o stavu Firefoxu a ostatních funkcí. 
 {: #essential-features }
 
 * Aktualizace prohlížeče a přídavných funkcí
   {: #auto-updates }
 
-	Aktualizace prohlížeče: Jednou denně Firefox při kontrpole aktualizací prohlížeče zasílá Mozille následující informace: informace o verzi vašeho Firefoxu, jazykovém nastavení, operačním systému a verzi. [Aktualizace můžete vypnout dle tohoto návodu](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking). V takovém případě však můžete být vystaveni bezpečnostním rizikům.
+	Aktualizace prohlížeče: Jednou denně Firefox při kontrole aktualizací prohlížeče zasílá Mozille následující informace: informace o verzi vašeho Firefoxu, jazykovém nastavení, operačním systému a verzi. [Aktualizace můžete vypnout dle tohoto návodu](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking). V takovém případě však můžete být vystaveni bezpečnostním rizikům.
 
 	Seznam blokování přídavných funkcí: Firefox kontaktuje Mozillu jednou za den, aby zkontroloval informace o přídavných funkcích za účelem kontroly škodlivých přídavných funkcí. To zahrnuje například verzi prohlížeče, OS a jeho verzi, místo, celkový počet požadavků, doba od posledního požadavku, denní dobu, IP adresu a seznam přídavných funkcí, které jste nainstalovali. [Aktualizace metadat můžete kdykoliv vypnout](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), nicméně v takovém případě můžete být vystaveni bezpečnostním rizikům.
 
@@ -43,7 +43,7 @@ Firefox se s námi a našimi poskytovcateli služev automaticky propojuje za ú�
 * Statistika používání (u nevydaných verzí rovněž označovaná jako "Telemetrie")
   {: #telemetry .inproduct-link}
 
-	Statistika používání neboli „Telemetrie”  je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcích rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti.
+	Statistika používání neboli „Telemetrie”  je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcí rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti.
 
 	Tato funkce je ve výchozím nastavení zapnuta ve službách Nightly, Aurora a Beta buildy Firefoxu, aby pomohla uživatelům poskytovat Mozille zpětnou vazbu. V obecné verzi Firefoxu je tato funkce ve výchozím nastavení vypnuta.
 
