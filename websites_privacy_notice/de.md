@@ -9,12 +9,12 @@ Dieser Datenschutz-Hinweis gilt für von Mozilla betriebene Websites einschließ
 
 ## Folgendes sollten Sie wissen
 
-Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um einen Arbeitsplatz, ein Praktikum oder eine Hospitantenstelle bewerben, unentgeltlich als Mitglied der Mozilla-Community tätig sind oder uns Benutzer-Feedback oder Anfragen senden, erhalten wir persönliche Daten von Ihnen. 
+Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um einen Arbeitsplatz, ein Praktikum oder ein Stipendium bewerben, unentgeltlich als Mitglied der Mozilla-Community tätig sind oder uns Benutzer-Feedback oder Anfragen senden, erhalten wir persönliche Daten von Ihnen. 
 {: #personal-info }
 
 * **Social Media**: Wenn Sie mit unseren Social-Media-Konten wie Twitter und Facebook kommunizieren, erhalten wir evtl. persönliche Informationen über Sie. Wenn Sie diese Netzwerke verwenden, gelten deren Datenschutzrichtlinien. Diese sollten Sie lesen.  
 
-* **Stellen-, Praktikums- und Hospitantenbewerber**: Bewerber für Arbeitsstellen, Praktika oder Hospitantenplätze bei Mozilla müssen ihren Namen, ihre Postanschrift, Telefonnummer, E-Mail-Adresse und ihren Lebenslauf bei uns einreichen. Wir nutzen diese Informationen zur Bearbeitung und Beurteilung von Bewerbungen und für die Kommunikation mit Bewerbern in Bezug auf ihre Bewerbung. Mit der Bearbeitung von Bewerbungen haben wir einen externen Dienstleister beauftragt. Weitere Informationen über unsere Datenpraktiken in Bezug auf Drittanbieter finden Sie in unserer [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/).
+* **Stellen-, Praktikums- und Stipendienbewerber**: Bewerber für Arbeitsstellen, Praktika oder Stipendien bei Mozilla müssen ihren Namen, ihre Postanschrift, Telefonnummer, E-Mail-Adresse und ihren Lebenslauf bei uns einreichen. Wir nutzen diese Informationen zur Bearbeitung und Beurteilung von Bewerbungen und für die Kommunikation mit Bewerbern in Bezug auf ihre Bewerbung. Mit der Bearbeitung von Bewerbungen haben wir einen externen Dienstleister beauftragt. Weitere Informationen über unsere Datenpraktiken in Bezug auf Drittanbieter finden Sie in unserer [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/).
 
 * **Community-Beiträge**: Wenn Sie Mozilla freiwillig mit Community-Beiträgen unterstützen, kann es notwendig werden, dass Mozilla oder andere sich mit Ihnen unter der angegebenen E-Mail-Adresse in Verbindung setzen, um Einzelheiten zu besprechen oder Ihre Bemühungen anzuerkennen. Wenn Sie Beiträge zu Bugzilla, Mozilla Reps oder unserer Code-Datenbank leisten, sind Ihre E-Mail-Adresse und möglicherweise Ihr Name für alle Internetbenutzer öffentlich sichtbar. Wenn Sie auf Mozillians.org ein Profil erstellen, ist dieses für Mozilla-Mitarbeiter und Benutzer, die Beiträge zu Mozilla leisten, zugänglich. Sie können Ihre Profildaten unter [Profileinstellungen](https://mozillians.org/user/edit) bearbeiten. Wir nutzen gelegentlich Informationen über Beitragende von Quellen wie Bugzilla in Dashboards, um visuell aufbereitete Daten über die Mozilla-Community zu veröffentlichen. Ein Beispiel ist <https://wiki.mozilla.org/Contribute/Dashboards>. Wenn möglich, versuchen wir, die öffentlich angezeigten Kontaktinformationen zu minimieren.
 
@@ -29,17 +29,17 @@ Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen
 
 * **Online-Datenwerkzeuge**: Wir verwenden Clear-GIFs und Web-Analysefunktionen, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services und Mitteilungen auf unseren Websites, in Online-Kampagnen, Snippets, auf Geräten und anderen Plattformen interagieren. 
 
-* **Dienste Dritter** Wir nutzen Dienste Dritter wie Google Analytics und Optimizely.  Sie benutzen Cookies, IP-Adressen und Online-Datenwerkzeuge in Verbindung mit unseren Websites.  
+* **Dienste Dritter**: Wir nutzen Dienste Dritter wie Google Analytics und Optimizely.  Sie benutzen Cookies, IP-Adressen und Online-Datenwerkzeuge in Verbindung mit unseren Websites.  
 
 ---------------------------------------
 
 Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellungen anderen mitteilen, Nur-Text-E-Mails auswählen und sich von Web-Analyse- und Optimierungs-Werkzeugen abmelden. 
 {: #user-choices }
 
-* **Cookie-Chronik**: Sie können einzelne Cookies in Ihren Firefox-Einstellungen im Bereich „Extras/Einstellungen/Datenschutz/Chronik“ akzeptieren oder ablehnen. Bitte beachten Sie, dass einige Funktionen unserer Produkte und Dienste ohne Cookies möglicherweise nicht richtig funktionieren.
+* **Cookie-Chronik**: Sie können einzelne Cookies in Ihren Firefox-Einstellungen im Bereich „Einstellungen/Datenschutz/Chronik“ akzeptieren oder ablehnen. Bitte beachten Sie, dass einige Funktionen unserer Produkte und Dienste ohne Cookies möglicherweise nicht richtig funktionieren.
 {: #cookies }
 
-* **Keine Verfolgung von Aktivitäten**: Mozilla verfolgt Benutzer nicht über Websites Dritter hinweg, um speziell auf sie abzielende Werbung anzuzeigen.  Sie können die Option „Websites mitteilen, meine Aktivitäten nicht zu verfolgen“ in Firefox im Bereich „Extras/Einstellungen/Datenschutz“ unter „Verfolgung von Nutzeraktivitäten“ aktivieren. So teilen Sie Websites Dritter mit, wie Ihre Informationen online erfasst und verwendet werden sollen.  
+* **Keine Verfolgung von Aktivitäten**: Mozilla verfolgt Benutzer nicht über Websites Dritter hinweg, um speziell auf sie abzielende Werbung anzuzeigen.  Sie können die Option „Websites mitteilen, meine Aktivitäten nicht zu verfolgen“ in Firefox im Bereich „Einstellungen/Datenschutz“ unter „Verfolgung von Nutzeraktivitäten“ aktivieren. So teilen Sie Websites Dritter mit, wie Ihre Informationen online erfasst und verwendet werden sollen.  
 
 * **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen.  
 

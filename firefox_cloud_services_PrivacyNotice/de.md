@@ -11,7 +11,7 @@ Sie senden uns unterschiedliche Arten von Daten, je nach genutzten Funktionen de
 
 * **Firefox-Konto**: Wenn Sie sich für ein Konto registrieren, erhalten wir Ihre E-Mail-Adresse und Ihr Passwort.
 * **Sync**: Wenn Sie die Synchronisierungsfunktion verwenden, erhalten wir eine Reihe von Daten zur Synchronisierung Ihrer Tabs, Adressleiste, Passwörter, Lesezeichen, Browser-Einstellungen und anderen Daten von mehreren Geräten.
-* **Mein Gerät finden**: Wenn Sie „Mein Gerät finden“ aktivieren, erhalten wir nur dann eine ungefähre Standortangabe Ihres Geräts, wenn Sie sich bei Ihrem Firefox-Konto anmelden und uns ausdrücklich mit der Suche nach einem verbundenen Gerät beauftragen. Solange Sie angemeldet sind, können Sie den letzten bekannten Standort des Geräts auf einer Karte anzeigen. Wir löschen diese Standortdaten in regelmäßigen Abständen und sammeln keine weiteren Standorte, es sei denn, Sie erteilen uns den Auftrag dazu.
+* **Mein Gerät finden**: Wenn Sie „Mein Gerät finden“ aktivieren, erhalten wir nur dann eine ungefähre Standortangabe Ihres Geräts, wenn Sie sich bei Ihrem Firefox-Konto anmelden und uns ausdrücklich mit der Suche nach einem verbundenen Gerät beauftragen. Solange Sie angemeldet sind, können Sie sich den letzten bekannten Standort des Geräts auf einer Karte anzeigen lassen. Wir löschen diese Standortdaten in regelmäßigen Abständen und sammeln keine weiteren Standorte, es sei denn, Sie erteilen uns den Auftrag dazu.
 
 ---------------------------------------
 
