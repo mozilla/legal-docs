@@ -10,7 +10,7 @@ Sua privacidade é importante para nós. Quando o Firefox Cloud Services (os "Se
 Você envia diferentes tipos de dados para nós dependendo de quais recursos dos Serviços você utiliza.  Saiba mais.
 
 * **Conta do Firefox**: Quando você cria uma conta, recebemos seu endereço de e-mail e senha.
-* **Sync**: Caso você use o Sync, recebemos várias informações para sincronizar suas abas, awesome bar, senhas, favoritos, preferências do navegador e outros dados entre os dispositivos.
+* **Sync**: Caso você use o Sync, recebemos várias informações para sincronizar suas abas, barra de endereços inteligente, senhas, favoritos, preferências do navegador e outros dados entre os dispositivos.
 * **Encontre Meu Dispositivo**: Quando você ativa a função Encontre Meu Dispositivo, recebemos a localização aproximada do seu dispositivo apenas quando você entra na sua conta do Firefox e solicita especificamente que localizemos um dispositivo conectado.  Enquanto estiver conectado, você poder ver as últimas localizações conhecidas do seu dispositivo em um mapa.  Nós apagamos essas localizações regularmente e não coletaremos outras localizações até que você nos peça.
 
 ---------------------------------------
