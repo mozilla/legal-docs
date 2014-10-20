@@ -3,7 +3,7 @@
 15 de abril de 2014
 {: datetime="2014-04-15" }
 
-Nós nos importamos com sua privacidade. Quando o Firefox envia informações para a Mozilla (nós), nossa [política de privacidade](https://www.mozilla.org/privacy/)descreve de que forma usamos essas informações.
+Nós nos importamos com sua privacidade. Quando o Firefox envia informações para a Mozilla (nós), nossa [política de privacidade](https://www.mozilla.org/privacy/) descreve de que forma usamos essas informações.
 
 ## O que você deve saber
 
