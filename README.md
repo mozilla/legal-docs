@@ -14,6 +14,12 @@ At this point, you'll be presented with a form to submit a pull request. The bot
 
 Once you've submitted a pull request, your colleagues can review the work under the Pull Requests tab on the right-hand side, and a contributor to the repo can merge your changes.
 
+### Markdown
+
+These files are written in the [Markdown syntax](http://daringfireball.net/projects/markdown/syntax). In some languages, the date format contains dots like `15. travnja 2014.` but this may end up as an ordered list according to the syntax. The workaround is using a backslash to escape a dot after the leading digit(s) like `15\. travnja 2014.`
+
+Some Markdown files use the [Attribute Lists extension](https://pythonhosted.org/Markdown/extensions/attr_list.html) of the [Python Markdown library](https://pypi.python.org/pypi/Markdown). This is useful when you'd like to set the ID or class of an element, but the extended syntax may cause an error if your parser doesn't support this extension.
+
 ### Localizers
 
 As a localizer, you're encouraged to find and fix translation issues. All document translations should match the precise meaning in the corresponding `en-US.md` version of the document. Additionally, we're always interested in finding errors in markup, broken links, etc.
