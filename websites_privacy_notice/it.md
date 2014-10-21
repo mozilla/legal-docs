@@ -37,6 +37,7 @@ Potete controllare le preferenze relative a singoli cookie, indicare le vostre p
 {: #user-choices }
 
 * **Cronologia dei cookie** Potete accettare o rifiutare cookie a livello individuale nelle preferenze di Firefox, alla sezione Cronologia, selezionando Strumenti/Opzioni/Privacy. Nota: determinate caratteristiche dei nostri prodotti e servizi potrebbero non funzionare correttamente senza l'aiuto dei cookie.
+{: #cookies }
 
 * **Antitracciamento** Mozilla non traccia gli utenti nei siti Web di terze parti al fine di fornire pubblicità mirata.  Potete attivare la funzione antitracciamento in Firefox nella sezione Strumenti/Opzioni/Privacy, in corrispondenza di Tracciamento. Questo vi consentirà di indicare ai siti Web di terze parti una preferenza sul modo in cui le vostre informazioni devono essere raccolte e utilizzate online.  
 

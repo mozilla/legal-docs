@@ -37,6 +37,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 {: #user-choices }
 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
+{: #cookies }
 
 * **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.
 
