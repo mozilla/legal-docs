@@ -37,6 +37,7 @@ Vous pouvez garder le contrôle sur vos préférences individuelles en matière 
 {: #user-choices }
 
 * **Historique des cookies** : Vous pouvez accepter ou refuser les cookies individuels dans vos préférences Firefox, à la section Outils/Options/Historique de confidentialité. Veuillez noter que certaines fonctions de nos produits et certains services risquent de ne pas fonctionner correctement sans l'aide de cookies.
+{: #cookies }
 
 * **Aucun suivi** : Mozilla n'effectue pas de suivi des utilisateurs sur les sites Web de tiers pour procéder à de la publicité ciblée.  Vous pouvez activer « Aucun suivi » dans Firefox, à la section Outils/Options/Confidentialité. Cela vous permet d'indiquer aux sites Web de tiers vos préférences à propos de la façon dont vos informations sont recueillies et utilisées en ligne.  
 

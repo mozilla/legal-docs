@@ -37,6 +37,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 {: #user-choices }
 
 * **Cookie-Chronik**: Sie können einzelne Cookies in Ihren Firefox-Einstellungen im Bereich „Extras/Einstellungen/Datenschutz/Chronik“ akzeptieren oder ablehnen. Bitte beachten Sie, dass einige Funktionen unserer Produkte und Dienste ohne Cookies möglicherweise nicht richtig funktionieren.
+{: #cookies }
 
 * **Keine Verfolgung von Aktivitäten**: Mozilla verfolgt Benutzer nicht über Websites Dritter hinweg, um speziell auf sie abzielende Werbung anzuzeigen.  Sie können die Option „Websites mitteilen, meine Aktivitäten nicht zu verfolgen“ in Firefox im Bereich „Extras/Einstellungen/Datenschutz“ unter „Verfolgung von Nutzeraktivitäten“ aktivieren. So teilen Sie Websites Dritter mit, wie Ihre Informationen online erfasst und verwendet werden sollen.  
 

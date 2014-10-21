@@ -37,6 +37,7 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
 {: #user-choices }
 
 * **Historial de cookies**: Puede aceptar o rechazar las cookies individualmente en las preferencias de Firefox, en la sección Historial disponible en Herramientas > Opciones > Privacidad. Tenga en cuenta que es posible que algunas características de nuestros productos y servicios no funcionen correctamente si no se tiene las cookies habilitadas.
+{: #cookies }
 
 * **No quiero ser rastreado**: Mozilla no rastrea a los usuarios hasta sitios web de terceros para ofrecer publicidad personalizada.  Puede activar la opción "Indicar a los sitios que no quiero ser rastreado" en la sección Rastreo de Herramientas > Opciones > Privacidad. Esto le permite indicar a los sitios web de terceros su preferencia en relación a la recolección y al tratamiento de su información.
 

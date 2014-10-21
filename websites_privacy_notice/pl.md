@@ -37,6 +37,7 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 {: #user-choices }
 
 * **Historia ciasteczek**: użytkownik może zaakceptować lub odrzucić poszczególne ciasteczka w przeglądarce Firefox w sekcji Historia na karcie Narzędzia/Opcje/Prywatność. Należy pamiętać, że określone funkcje naszych produktów i usług mogą działać nieprawidłowo bez obsługi ciasteczek.
+{: #cookies }
 
 * **Ograniczanie śledzenia**: Mozilla nie śledzi użytkowników w witrynach firm zewnętrznych w celu wyświetlania reklam kierowanych. Ograniczanie śledzenia można włączyć w przeglądarce Firefox w sekcji Śledzenie na karcie Narzędzia/Opcje/Prywatność. Pozwala to wskazać witrynom zewnętrznym, jak mają zbierać i wykorzystywać online dane użytkownika.
 

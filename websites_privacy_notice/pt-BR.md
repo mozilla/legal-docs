@@ -37,6 +37,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 {: #user-choices }
 
 * **Histórico de cookies**: você pode aceitar ou recusar cookies em particular nas suas preferências do Firefox na seção Ferramentas/Opções/Privacidade e histórico. Observe que alguns recursos de nossos produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
+{: #cookies }
 
 * **Antirrastreamento**: a Mozilla não rastreia os usuários em sites de terceiros para oferecer anúncios direcionados.  É possível aceitar o Antirrastreamento no Firefox, na seção Ferramentas/Opções/Privacidade sobre Rastreamento. Isso permite indicar uma preferência a sites de terceiros sobre a forma com que suas informações são coletadas e utilizadas on-line.  
 
