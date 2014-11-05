@@ -43,7 +43,7 @@ Hierdie boonste gedeelte is 'n opsomming van die onderstaande bepalings. Hierdie
 
     Ons kan jou toegang tot die dienste te enige tyd opskort of beëindig, om enige rede, waaronder onder meer indien ons redelikerwys meen dat: (i) jy hierdie bepalings oortree het, (ii) jy 'n risiko of moontlike wetlike blootstelling vir ons is; of (iii) die voorsiening van ons dienste aan jou nie meer kommersieel lewensvatbaar is nie. Ons sal billike pogings aanwend om jou daarvan in kennis te stel, hetsy by die e-posadres wat met jou Firefox-rekening geassosieer is of wanneer jy die volgende keer probeer om die dienste te gebruik.
 
-In alle sulke gevalle sal hierdie bepalings beëindig word, asook onder meer jou lisensie om die dienste te gebruik, behalwe dat die volgende afdelings steeds van toepassing sal bly: vrywaring, ontkenning, beperking van aanspreeklikheid en diverse.
+    In alle sulke gevalle sal hierdie bepalings beëindig word, asook onder meer jou lisensie om die dienste te gebruik, behalwe dat die volgende afdelings steeds van toepassing sal bly: vrywaring, ontkenning, beperking van aanspreeklikheid en diverse.
 
 8. #### Vrywaring
 
