@@ -1,67 +1,70 @@
-# Firefox Browser Privacy Notice
+# Firefox ブラウザ　プライバシーに関する通知
 
-April 15, 2014
+2014年4月15日
 {: datetime="2014-04-15" }
 
-We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+［この文書は、日本のFirefoxブラウザのユーザ等の便宜を図るために掲載している、Firefox Brower Privacy Noticeの参考訳です。］
 
-## Things you should know
+Mozilla は、皆様のプライバシーを尊重します。Mozillaの[プライバシーポリシー](https://www.mozilla.org/privacy/)は、Mozilla（当社）（以下「Mozilla」といいます。）が Firefox から情報を受信する場合に、収集した情報をどのように取り扱うかについて、説明しています。
 
-Firefox automatically connects to us and our service providers to provide updates, security, Snippets, Firefox Health Report and other features. 
+
+## 留意事項
+
+Firefox は自動的に Mozilla および Mozilla のサービスプロバイダに接続し、更新、セキュリティ、スニペット（Snippets）、Firefox ヘルスレポートおよびその他機能を提供します。
 {: #essential-features }
 
-* Browser and add-ons updates
+* ブラウザおよびアドオンの更新
   {: #auto-updates }
 
-	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system and version. You can [turn off updates by following these instructions](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) but it may leave you open to security vulnerabilities.
+	ブラウザの更新：1 日に 1 度、Firefox は、ブラウザの更新を確認するため、Firefox のバージョン情報、優先言語、オペレーティングシステム（OS）およびバージョンに関する情報をMozillaに送信します。[以下の説明](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)に従うことにより、更新機能を無効にすることができますが、無効化することにより、セキュリティの脆弱性にさらされる可能性があります。
 
-	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off meta data updates](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) at any time, but it may leave you open to security vulnerabilities.
+	アドオンのブロックリスト：1 日に 1 度、Firefox は、悪意のあるアドオンを確認するため、Mozilla に接続し、アドオン情報を確認します。これには、例えば、ブラウザのバージョン、OS およびそのバージョン、ロケール、合計要求回数、最終要求時間、要求日、IPアドレスおよびインストールされたアドオンのリストが含まれます。いつでも[メタデータの更新を無効](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)にすることができますが、無効化することにより、セキュリティの脆弱性にさらされる可能性があります。
 
-* Snippets
+* スニペット（Snippets）
   {: #snippets }
 
-	Firefox's default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these "snippets". About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla aggregates how often snippets are clicked, snippet name, browser locale, and which version of Firefox you're using.
+	Firefox の初期設定ホームページ（<about:home>）では、検索バーのすぐ下に、Mozilla が皆様にとって有益であると考える情報がロードされます。Mozilla はこれを「スニペット（Snippets）」と呼びます。１日に１度、Firefox は Mozilla に接続し、入手可能であれば、新しいスニペットを提供します。Mozilla は、スニペットがクリックされた回数、スニペットの名称、ブラウザのロケールおよび皆様がお使いの Firefox バージョンを収集します。
 
-	To help display relevant snippets, Firefox sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally.  Firefox will then choose snippets to show you based on the locally stored country information.
+	関連するスニペットを表示させるため、Firefox は、皆様の IP アドレスを利用して、皆様の所在地を国レベルで調査するリクエストを月に一度 Mozilla に送信します。Mozilla は、かかる国レベルでの所在地情報を Firefox に返信し、この情報は Firefox のローカルに保存されます。Firefox は、ローカルに保存された国情報に基づき、皆様にお知らせするスニペットを選択します。
 
-* Firefox Health Report
+* Firefoxヘルスレポート
   {: #health-report .inproduct-link } 
 
-	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
+	Firefox ヘルスレポート（FHR）は、ブラウザの安定性およびパフォーマンスに関する洞察ならびに度重なるクラッシュおよび遅い起動に遭遇する場合のサポートヒントを提供するため作成されます。Mozilla は、皆様が Firefox のパフォーマンスの変化を確認できるよう、皆様のデータを他の Firefox ユーザのデータとともに収集して情報統合し、皆様のブラウザに返信します。このデータには、例えば、デバイスハードウェア、オペレーティングシステム、Firefox のバージョン、アドオン（数および種類）、ブラウザイベント（browser event）の時期、レンダリング、セッションの復元、セッションの長さ、プロファイルの古さ、クラッシュの回数およびページ数が含まれます。FHR は、皆様が閲覧する URL 履歴を Mozilla に送信しません。
 
-	We use the data sent through FHR to provide users with FHR's functionality, such as helping you analyze and address performance issues with your browser. We also use what we learn from the FHR data in the aggregate to make Firefox better. You can choose to [turn data sharing off](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
+	Mozilla は、ブラウザのパフォーマンスに関する問題の分析および対処へのサポートなどの FHR の機能をユーザに提供するため、FHR を通じて送信されたデータを利用します。また Mozilla は、Firefox をより良いものにするため、FHR から得られたデータを収集して利用します。皆様は、[データシェア機能の無効化](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off)を選択することができます。
 
-* Security
+* セキュリティ
   {: #security }
 
-	Firefox automatically checks for malicious or forged web pages, broken add-ons, and third-party issued SSL certificates.
+	Firefox は、悪意のあるまたは偽装されているウェブサイト、壊れているアドオンおよび第三者が発行するSSL 証明書を自動的にチェックします。
 
-	Secure Website Certificates: When you visit a secure website (i.e. "https"), Firefox will validate the website's certificate. This may involve communicating with a third-party status provider specified by the certificate. Firefox sends to this third-party information identifying the site's [certificate](https://support.mozilla.org/kb/secure-website-certificate). You can [change your preferences](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), but if you disable the online verification feature, Firefox cannot confirm the identity of the website you are visiting. Turning off this feature may increase the risk of your private information being intercepted. If you encounter an [untrusted connection](https://support.mozilla.org/kb/connection-untrusted-error-message), you can also choose to send Mozilla the associated certificates.
+	安全なウェブサイト証明：安全なウェブサイト（すなわち「https」）を閲覧する際、Firefox はウェブサイトの証明書を認証します。これには、証明書によって指定される第三者のプロバイダとの通信が介される場合があります。Firefox は、この第三者に、情報を送信し、サイトの[証明書](https://support.mozilla.org/kb/secure-website-certificate)を特定します。皆様は[設定の変更](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)を行うことができますが、オンライン認証機能を無効にすると、Firefox は皆様が閲覧するウェブサイトの同一性を確認することができません。本機能を無効にすることによって、皆様の個人情報が傍受される危険性が増大する場合があります。[接続の安全性を確認できない](https://support.mozilla.org/kb/connection-untrusted-error-message)場合、皆様は、Mozilla に対して、関連する証明書を送信することもできます。
 
-	Firefox Forgery and Attack Protection: About twice per hour, Firefox downloads Google's SafeBrowsing lists to help block access to sites and downloads that are malicious or forged (Google's privacy policy is at <https://www.google.com/policies/privacy/>). For downloaded executables that do not appear in these lists, Firefox may send metadata to the SafeBrowsing service to determine if the download is malicious. Visit <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> to learn more about or disable Safe Browsing. If you disable these features, Firefox cannot warn you of a potentially illegitimate or malicious websites or downloaded files.
+	Firefox 偽装サイトおよび攻撃サイトからの防護：1 時間に 2 回、Firefox は、悪意のあるまたは偽装されているウェブサイトへのアクセスおよびダウンロードを防御するため、Google のセーフブラウジングリストをダウンロードします（Google のプライバシーポリシーはこちらです<https://www.google.com/policies/privacy/>）。このリストに記載されていないダウンロードされた実行ファイルについて、Firefoxは、かかるダウンロードに悪意があるかどうかを判断するため、セーフブラウジングサービスにメタデータを送信します。セーフブラウジング機能およびこの無効化に関する詳しい情報については、<https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> をご覧ください。かかる機能が無効化される場合、Firefox は、違法または悪意のあるウェブサイトまたはダウンロードファイルである可能性を警告することができません。
 
-* Usage statistics (also called "Telemetry" in non-release builds)
+* 使用統計情報の利用（リリースされていないビルドにおいては「Telementry」とも呼びます）
   {: #telemetry .inproduct-link}
 
-	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors.
+	使用統計情報の利用または「Telementry」は、ユーザインターフェース機能、メモリおよびハードウェアコンフィギュレーションの使用情報、パフォーマンスおよび応答性の統計を Mozilla に送信する Firefox の機能です。皆様の IP アドレスも標準ウェブログ（web log）の一部として収集されます。使用統計情報は SSL を通じて送信され、Firefoxの将来のバージョンを改良するために役立てられます。Mozilla に送信された使用統計情報は、集合状態で保存され、Mozilla の従業員および一般の貢献者を含む幅広い開発者に公開されます。
 
-	This feature is turned on by default in Nightly, Aurora and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
+	本機能は、FirefoxのNightly、AuroraおよびBetaビルドにおいては、ユーザがMozillaにフィードバックするようにするため、初期設定で有効化されています。Firefoxの通常リリース版においては、本機能は初期設定で無効化されています。
 
-	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it.
+	Telementry およびその有効化または無効化に関する詳しい情報については、[こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox) にてご覧ください。
 
 ---------------------------------------
 
-When you ask it to, Firefox also connects to Mozilla to provide you with features such as Sync, location services, crash reporting, and add-ons.
+また、リクエストがある場合、Firefox は、皆様に Sync、位置情報サービス、クラッシュレポートおよびアドオンなどの機能を皆様に提供するため、Mozilla に接続します。
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) は、皆様の Firefox ブックマーク、ブラウジング履歴、パスワードおよび皆様の全ての端末設定を同期化することができる機能です。Syncサービスをご利用になる場合、[Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/)をお読み頂くことができます。
 {: #sync }
 
-* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, WiFi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
+* **位置情報サービス**: Firefox には、サイトが皆様の位置情報をたずねる（例：サイトが地図上に皆様の現在地を表示できるようにする）ことができるようにする機能があります。サイトが皆様に位置情報をたずねる場合、Firefox は位置情報を確定および共有する前に、皆様に許可を求めます。位置情報を確定するため、Firefox は、オペレーティングシステムのジオロケーション機能、Wi-Fiネットワーク、携帯電話基地局またはIPアドレスを含む複数のデータを利用する場合があります。位置情報の推定にあたって、別途[プライバシーポリシー](https://www.google.com/privacy/lsf.html) が定められる GoogleのLocation Service にかかる情報が送信されます。
 {: #location-services }
 
-* **Crash reporting**: You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>. Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
+* **クラッシュレポート**: Firefox がクラッシュした場合、皆様は、Mozilla にクラッシュレポートを送信するかどうかを選択することができます。このレポートには、Mozilla が Firefox を改良するために必要なFirefoxがクラッシュした理由、クラッシュ時の有効なURL、クラッシュ中のコンピュータメモリ状態を含む技術情報が含まれます。Mozillaが受信するクラッシュレポートには、個人情報が含まれる場合があります。Mozilla は、クラッシュレポートの一部を <https://crash-stats.mozilla.com/> にて一般公開します。クラッシュレポートを一般公開する前に、Mozilla は、自動的な個人情報の編集を図ります。Mozilla は、皆様がコメント欄に記入できる内容については、これを編集しません。
 {: #crash-reporter .inproduct-link }
 
-* **Add-ons**: Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
+* **アドオン**: Firefox は、すでにインストールされているアドオンに基づき人気のあるアドオンの特集およびパーソナライズされたおすすめを表示するアドオンマネージャの Get Add-onsサイト (Get Add-ons pages) を提供します。パーソナライズされたおすすめを表示するため、Firefox はインストールされているアドオンのリスト、Firefox のバージョン情報および皆様の IP アドレスを含む情報を Mozilla に送信します。本送信は、Get Add-ons エリアがオープン（Open）である場合に限り行われ、[以下の説明](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)に従うことにより無効化することができます。Firefox のアドオンマネージャには、キーワードを入力することにより検索を実行できる検索バーがあり、Mozilla は、皆様におすすめを表示するために、キーワード検索、Firefox バージョン情報、ロケールおよび OS 情報を収集します。
 {: #addons }
