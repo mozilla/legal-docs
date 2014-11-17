@@ -31,7 +31,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 5. #### Ihre Inhalte in unseren Services
 
-    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie und weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Inhalterichtlinien von Mozilla entsprechen.
+    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie und weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Inhaltsrichtlinien von Mozilla entsprechen.
 
 6. #### Eigentumsrechte von Mozilla
 
@@ -57,7 +57,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 10. #### Änderungen dieser Bedingungen
 
-    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderungen angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
+    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit diesen Änderungen angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
 
 11. #### Verschiedenes
 
