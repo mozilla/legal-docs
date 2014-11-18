@@ -98,9 +98,9 @@ You are responsible for uploading your Marketplace Content to the Firefox Market
 Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
 
 
-## Persona and Marketplace Content
+## Accounts
 
-[Persona](https://persona.org) is Mozilla&rsquo;s login system. Some Marketplace Content uses Persona for authentication. We will provide you with receipts for purchases of your Marketplace Content by users.
+A [Firefox Account](https:accounts.firefox.com) is required to submit apps to the Firefox Marketplace. You are responsible for all activities under your account and agree to abide by the Firefox Accounts [Terms of Service](https://www.mozilla.org/about/legal) and [Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud).
 
 
 ## App Ratings & Statistics
@@ -173,7 +173,7 @@ If any third party brings a claim against Mozilla related to your use of the Fir
 
 ## General Legal Terms
 
-These Terms constitute the whole legal agreement between you and Mozilla and governs your use of the Firefox Marketplace, and completely supercedes any prior agreements between you and Mozilla in relation to the Firefox Marketplace. Nothing in these Terms shall be deemed to grant you any right to use the trademarks, trade names, service marks, or trade dress of Mozilla or its licensors and Mozilla hereby reserves all right, title and interest therein. For information on our trademarks, please see our Trademark and Logo Usage Policies.
+These Terms constitute the whole legal agreement between you and Mozilla and governs your use of the Firefox Marketplace, and completely supersedes any other agreements between you and Mozilla in relation to the Firefox Marketplace unless you have a separately negotiated and signed agreement with Mozilla for the Firefox Marketplace ("Custom Agreement"), in which case the Custom Agreement controls. Nothing in these Terms shall be deemed to grant you any right to use the trademarks, trade names, service marks, or trade dress of Mozilla or its licensors and Mozilla hereby reserves all right, title and interest therein. For information on our trademarks, please see our Trademark and Logo Usage Policies.
 
 You agree that if Mozilla does not exercise or enforce any legal right or remedy which is contained in these Terms (or which Mozilla has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mozilla's rights and that those rights or remedies will still be available to Mozilla.
 
