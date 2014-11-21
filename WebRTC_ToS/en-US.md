@@ -21,7 +21,7 @@ Please reference our [support site](https://support.mozilla.org/products/firefox
 
 ### 4. Privacy Policy
 
-The [Mozilla Privacy Notice](https://www.mozilla.org/privacy/) and [TokBox Privacy Notice](https://tokbox.com/support/privacy-policy) each explain what information Mozilla and TokBox respectively receive from your use of the Service and how that information is handled.
+The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/) and [TokBox Privacy Policy](https://tokbox.com/support/privacy-policy) each explain what information Mozilla and TokBox respectively receive from your use of the Service and how that information is handled.
 
 ### 5. Content & Use 
 
