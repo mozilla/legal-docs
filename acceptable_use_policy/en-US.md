@@ -1,4 +1,4 @@
-# Acceptable Use Policy
+# Conditions of Use
 
 You may not use any of Mozilla’s services and products to:
 
@@ -28,4 +28,4 @@ others
 
 This list is illustrative, not definitive, and may be updated.
 
-Mozilla reserves the right to remove any content or suspend any users that it deems in violation of these guidelines or the applicable product terms of service. 
+Mozilla reserves the right to remove any content or suspend any users that it deems in violation of these conditions or the applicable product terms of service. 
