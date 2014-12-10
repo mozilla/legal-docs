@@ -5,33 +5,31 @@ November 25, 2014
 
 ### 1. Introduction 
 
-Please read this entire document ("Terms") carefully because it explains your rights and responsibilities when you use Firefox Hello to send or receive communications.  You must be over the age of 13 or have your parent or guardian consent to and supervise your use of the Service.
-
-Hello is an end-to-end real-time communications video and voice service (“Service”) provided to you by Mozilla Corporation (“Mozilla”) in collaboration with TokBox, Inc. (“TokBox”).  The Service is currently in “Beta” phase, which means that features are still undeveloped and being improved based on user feedback.
+Firefox Hello is an end-to-end real-time communications video and voice service (“Service”) by Mozilla.  Please read this entire document (“Terms”) carefully because it explains your rights and responsibilities when you use Firefox Hello to send or receive communications.
 
 ### 2. Account Registration
 
-A Firefox Account is required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  You are responsible for all activities under your account and agree to abide by the Firefox Accounts [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to the Firefox Accounts [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
 
 ### 3. Features
 
-The Service is currently offered for free in “Beta” phase which means that features and functionality may change.  The Service is integrated into Firefox so you can easily make voice and video calls between Firefox and users of any WebRTC-enabled browser, such as Firefox, Chrome, Opera, or Internet Explorer (with the installation of the OpenTok Plugin for Internet Explorer). 
-
-Please reference our [support site](https://support.mozilla.org/products/firefox) for questions on features. 
+The Service is provided to you in collaboration with TokBox, Inc. (ToxBox is also referred to in this document as a licensor).  The Service is integrated into Firefox so you can easily make voice and video calls between Firefox and users of any WebRTC-enabled browser or device.  The Service is subject to change.  Please reference Mozilla's [support site](https://support.mozilla.org/products/firefox) for questions on features. 
 
 ### 4. Privacy Policy
 
-The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/) and [TokBox Privacy Policy](https://tokbox.com/support/privacy-policy) each explain what information Mozilla and TokBox respectively receive from your use of the Service and how that information is handled.
+The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/) explains what information is sent when you use the Service and how that information is handled.
 
 ### 5. Content & Use 
 
-You understand that the Service allows users to transmit certain information (such as video or images) (“Content”). You agree that you are solely responsible for the Content you transmit and the consequences. You agree that your use of the Service will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use).
+You understand that the Service allows users to transmit certain information (such as video or images) (“Content”).  You hereby grant Mozilla and our licensors all rights necessary to provide the Service and you agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use). You are solely responsible for the Content you transmit and the consequences. 
+
+For more information on how to report a claim of copyright or trademark abuse, please see [here](https://www.mozilla.org/about/legal/report-abuse/).
 
 ### 6. Mozilla's and TokBox’s Proprietary Rights
 
-Neither Mozilla nor TokBox grant you any intellectual property rights in the Services. For example, these Terms do not provide the right to use any of Mozilla's or TokBox’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. 
+Neither Mozilla nor its licensors grant you any intellectual property rights in the Service that are not specifically stated in these Terms.  For example, these Terms do not provide the right to use any copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features of Mozilla or its licensors.  
 
-The Mozilla Software is distributed under and subject to the current version of the Mozilla Public License. The TokBox Platform includes the OpenTok Plugin for Internet Explorer, which if installed, will subject you to [ToxBox’s end user license agreement](https://tokbox.com/support/ie-eula).
+The Mozilla software is distributed under and subject to the current version of the Mozilla Public License, or other similarly permissive licenses.
 
 ### 7. Services Interruption; Term; Termination
 
@@ -45,17 +43,17 @@ In all such cases, these Terms shall terminate, including, without limitation, y
 
 ### 8. Indemnification
 
-You agree to defend, indemnify and hold harmless Mozilla and TokBox, including each of their respective contractors, contributors, licensors, partners, directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Service (including, but not limited to, from any content uploaded by you).
+You agree to defend, indemnify and hold harmless Mozilla, TokBox and their respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services (including, but not limited to, from any Content transmitted by you).
 
 ### 9. Disclaimer; Limitation of Liability
 
-THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
+THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, THE INDEMNIFIED PARTIES, HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
 
 YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT.
 
 THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA, TOKBOX, AND THE INDEMNIFIED PARTIES, UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+EXCEPT AS REQUIRED BY LAW, THE INDEMNIFIED PARTIES, WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF THE INDEMNIFIED PARTIES, UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
 ### 10. Modifications to these Terms
 
