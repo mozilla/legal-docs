@@ -30,7 +30,7 @@ Some Content in our Communications is acquired from sources that prohibit furthe
 
 * Some Content expressly indicates that the author does not intend for an open license to apply.  You should contact the author or author’s agent for permission to use such Content.  Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
 * Some Content contains trademarks, trade dress, logos and brand assets of Mozilla and other parties (“Trademarks”).  Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark.  [Learn more on Mozilla trademarks.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software used by our Websites is licensed under the MPL and under similarly permissive open source licenses.  For more information on the specific license, please see the applicable GitHub repository. 
+* Software used by our Websites is licensed under the MPL or similarly permissive open source licenses.  For more information on the specific license, please see the applicable GitHub repository. 
 
 
 #### 4\. Content Submissions
@@ -42,7 +42,7 @@ You agree to the following in connection with each Submission:
 * You represent and warrant that your Submission will comply with these Terms, the Mozilla [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
 * You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
 * You acknowledge that your Submissions may be accessible by other registered users of the applicable service or the public.
-* If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to.  For example, some of our Websites specify that Content submissions are required to be licensed under a specific Creative Commons license. 
+* If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to. 
 * You represent and warrant that you have the rights necessary to grant the rights granted herein, and further, that the uses contemplated under these Terms will not infringe the proprietary or intellectual property rights of any third party.
 * You understand and agree that Mozilla reserves the right, at its discretion, to review, modify, or remove any Submission that it deems is objectionable or in violation of these Terms.
 
