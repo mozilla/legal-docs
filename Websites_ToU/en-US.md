@@ -9,7 +9,7 @@ October 15, 2014
 
 Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”) or related feeds, social media, newsletters and emails(together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
 
-Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as MozillaBugzilla, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
+Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
 Some of our Websites connect you with links, apps or add-ons that are provided by other parties and are subject to separate Terms.
 
 
@@ -30,7 +30,7 @@ Some Content in our Communications is acquired from sources that prohibit furthe
 
 * Some Content expressly indicates that the author does not intend for an open license to apply.  You should contact the author or author’s agent for permission to use such Content.  Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
 * Some Content contains trademarks, trade dress, logos and brand assets of Mozilla and other parties (“Trademarks”).  Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark.  [Learn more on Mozilla trademarks.](https://www.mozilla.org/foundation/trademarks/policy/)
-* The WordPress software used by certain Websites is licensed under the GPLv2 (or later). Learn more: [https://wordpress.org/about/gpl/](https://wordpress.org/about/gpl/)
+* Software used by our Websites is licensed under the MPL and under similarly permissive open source licenses.  For more information on the specific license, please see the applicable GitHub repository. 
 
 
 #### 4\. Content Submissions
@@ -39,10 +39,10 @@ You may contribute Content when interacting with our Communications, including b
    
 You agree to the following in connection with each Submission:
 
-* You represent and warrant that your Submission will comply with these Terms, the Mozilla [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
-* You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
+* You represent and warrant that your Submission will comply with these Terms, the Mozilla [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
+* You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
 * You acknowledge that your Submissions may be accessible by other registered users of the applicable service or the public.
-* If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to.  For example, some of our Websites specify that Content submissions are required be licensed under a specific Creative Commons license.  On the other hand, an open license may be inappropriate if you upload a profile picture and wish to prohibit others from using your picture. 
+* If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to.  For example, some of our Websites specify that Content submissions are required to be licensed under a specific Creative Commons license. 
 * You represent and warrant that you have the rights necessary to grant the rights granted herein, and further, that the uses contemplated under these Terms will not infringe the proprietary or intellectual property rights of any third party.
 * You understand and agree that Mozilla reserves the right, at its discretion, to review, modify, or remove any Submission that it deems is objectionable or in violation of these Terms.
 
@@ -58,7 +58,7 @@ If you subscribe to receive our newsletters or register for an account in connec
 
 Some of our Websites have online tools that allow you to send emails to others. For example, you can invite your contacts to events using your Webmaker account.  You agree not to misuse others’ email addresses (for example, by spamming them). 
 
-Other Websites, like MozReps and Webmaker, provide tools that enable users to arrange physical events. Unless the event is an officially sponsored Mozilla event, we do not supervise these meetings and have no control over the identity or actions of the individuals who are present. Please exercise caution and good judgment when attending events.
+Other Websites, like MozReps and Webmaker, provide tools that enable users to arrange physical events for anyone to attend. Please exercise caution and good judgment when attending events.
 
 
 #### 7\. Abuse Reports
