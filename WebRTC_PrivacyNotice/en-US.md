@@ -29,4 +29,4 @@ We automatically receive certain metrics from use of the Service.
 
 ---------------------------------------
 
-Firefox Hello uses technology by TokBox, Inc. ("TokBox") and sends data to TokBox as a part of the function of the service.  This notice only describes how Mozilla handles information we receive from you. For more information on TokBox’s handling of data, you should read their [Privacy Policy]( https://tokbox.com/support/privacy-policy)
+Firefox Hello is provided to you in collaboration with TokBox, Inc. ("TokBox") and sends data to TokBox as a part of the function of the service.  This notice only describes how Mozilla handles information we receive from you. For more information on TokBox’s handling of data, you should read their [Privacy Policy]( https://tokbox.com/support/privacy-policy)
