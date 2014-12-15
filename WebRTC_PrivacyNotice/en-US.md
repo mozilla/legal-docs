@@ -13,7 +13,7 @@ When you make calls, some information is sent to Mozilla in order to connect the
 
 * **Contacts**: You can import or add new contacts to create an address book with email addresses, profile pictures, and names of people you may call.  This information is stored locally on your device.
 
-* **Conversations**: In order to direct calls, your Firefox browser encrypts and sends us information associated with the contact you are trying to reach and the conversation URL. We delete this information once the call is finished.
+* **Conversation URLs & Direct Calls**: Your Firefox browser encrypts and sends us information associated with the contact you are trying to reach.  If your communication is through a conversation URL that you generate, we delete the associated contact information every month.  You can delete it sooner by revoking the conversation URL.  If your communication is through a direct call, we delete this information once the call is finished.
 
 * **Feedback & Support**: Sending feedback to Mozilla is optional.  You can provide us with information if you submit a crash report or a report on our support forum.
 
