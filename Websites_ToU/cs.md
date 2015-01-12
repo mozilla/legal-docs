@@ -1,0 +1,107 @@
+# Podmínky používání webů a sdělení
+
+15\. října 2014
+
+### Podmínky používání
+
+
+#### 1\. Úvod
+
+Přečtěte si podmínky celého tohoto dokumentu (dále jen „Podmínky“) pozorně, jelikož vysvětluje vaše práva a povinnosti při návštěvě kteréhokoli webu společnosti Mozilla (dále jen „Weby“) nebo souvisejících kanálů, sociálních médií, informačních zpravodajů a e-mailů (společně s Weby se souhrnně označují jako „Sdělení“). Přístupem nebo přihlášením se k odběru Sdělení souhlasíte, že se budete řídit těmito Podmínkami.
+
+Naše Weby se nacházejí na řadě domén, například mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org a webmaker.org. Naše Weby rozeznáte i pomocí názvů jako Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO a AMO.
+Některé Weby vás propojují s odkazy, aplikacemi nebo doplňky, které poskytují jiní poskytovatelé a pro které platí zvláštní Podmínky.
+
+
+#### 2\. Registrace účtu
+
+Některé Weby vyžadují registraci účtu v případě, že chcete používat doplňkové funkce Webu nebo jiné služby společnosti Mozilla. Případné další podmínky vám budou sděleny. Nesete odpovědnost za všechny činnosti prováděné pod vaším účtem.
+
+Některé Weby vám umožňují při registraci vytvořit uživatelské jméno. Používání uživatelského jména musí být v souladu s našimi [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/). 
+
+
+#### 3\. Poskytování licence k obsahu
+
+Naše Sdělení zahrnují obsah, jako jsou články, obrázky, fotografie, komentáře, softwarový kód, audio a video klipy a další materiály (souhrnně jako „Obsah“).  Autorem Obsahu je společnost Mozilla, přispěvatelé do jejích projektů a další zdroje. 
+
+Obsah vytvořený společností Mozilla se obecně dává k dispozici k veřejnému sdílení a opětovnému použití prostřednictvím otevřených licencí, jako je Creative Commons (pro obsahové materiály) nebo Mozilla Public License (pro softwarový kód).  Ve většině případů přispěvatele do projektů Mozilla žádáme o zveřejnění Obsahu v rámci otevřených licencí. 
+
+Některý Obsah v našich Sděleních je získán ze zdrojů, které zakazují další používání Obsahu bez předchozího souhlasu.  Kde je to možné, v Obsahu nebo patičce Webu bude uvedena informace o příslušné licencí. Zavazujete se těmito oznámeními řídit.  Vezměte na vědomí následující specifika:
+
+* Některý Obsah výslovně uvádí, že záměrem autora je, aby se na obsah nevztahovala otevřená licence.  Pokud chcete získat povolení k použití takového Obsahu, obraťte se na autora nebo jeho zástupce.  Dotazy ohledně autorského obsahu můžete společnosti Mozilla zasílat na: licensing@mozilla.org.
+* Některý Obsah obsahuje ochranné známky, vizuální podobu, loga a značky společnosti Mozilla a jiných subjektů (dále jen „Ochranné známky“).  Kromě omezeného počtu situací nelze Ochranné známky používat bez předchozího písemného souhlasu jejich majitele.  [Další informace o ochranných známkách společnosti Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Software používaný našimi Weby je chráněn licencí MPL nebo podobnou permisivní licencí open source.  Další informace o konkrétních licencích naleznete v příslušném úložišti na webu GitHub. 
+
+
+#### 4\. Přispívání Obsahu
+
+Obsah můžete poskytnout při interakci s našimi Sděleními, například komentováním článku, blogováním, přispěním kódem nebo přispěním grafikou nebo písemným materiálem (každé z nich dále jako „Příspěvek“).
+   
+V souvislosti s každým Příspěvkem se zavazujete k následujícímu:
+
+* Prohlašujete a zaručujete, že Příspěvek bude v souladu s těmito Podmínkami, [Podmínkami používání společnosti Mozilla](https://www.mozilla.org/about/legal/acceptable-use/) a veškerými dalšími podmínkami, kterými se Příspěvek řídí.
+* Tímto nám udílíte nevýhradní, bezplatnou, celosvětovou, sublicencovatelnou (těm, se kterými spolupracujeme) licenci k používání Příspěvku v souvislosti se Sděleními a online a offline propagaci mise, produktů a služeb společnosti Mozilla.
+* Berete na vědomí, že k vašim Příspěvkům mohou mít přístup ostatní registrovaní uživatelé příslušné služby nebo veřejnost.
+* Pokud váš Příspěvek obsahuje obsahový materiál nebo softwarový kód, zavazujete se poskytnout k němu licenci způsobem, který je v souladu s konkrétním Webem, na nějž Příspěvek přidáváte. 
+* Prohlašujete a zaručujete, že máte práva potřebná k udělení práv udělovaných podle těchto Podmínek a že použití zamýšlené v těchto Podmínkách nebude porušovat vlastnická práva ani práva k duševnímu vlastnictví žádné třetí osoby.
+* Berete na vědomí a souhlasíte, že společnost Mozilla si vyhrazuje právo dle svého uvážení přezkoumat, upravit nebo odebrat jakýkoli Příspěvek, který považuje za nevhodný nebo v rozporu s těmito Podmínkami.
+
+
+#### 5\. Ochrana osobních údajů a soubory cookie
+
+[Prohlášení společnosti Mozilla o ochraně osobních údajů na Webech, ve Sděleních a souborech cookie](https://www.mozilla.org/privacy/websites/) popisuje, jak nakládáme s údaji, jež od vás získáváme v souvislosti s našimi Sděleními. Toto Prohlášení o ochraně osobních údajů například vysvětluje, jak na své weby umisťujeme určité soubory cookie a jak můžete jejich použití vyloučit.
+
+
+#### 6\. Sdělení a akce
+
+Pokud se přihlásíte k odběru našich informačních zpravodajů nebo se zaregistrujete k účtu v souvislosti s některým z našich Webů, můžete od nás dostávat transakční e-maily týkající se vašeho účtu (například aktualizace právních podmínek, ochrany osobních údajů nebo zabezpečení).
+
+Některé naše Weby mají online nástroje, jež vám umožňují odesílat e-maily ostatním uživatelům. Pomocí účtu Webmakes můžete například svoje kontakty pozvat na akci.  Zavazujete se, že e-mailové adresy ostatních uživatelů nebudete zneužívat (například pro nevyžádanou poštu). 
+
+Jiné Weby, například MozReps nebo Webmaker, poskytují nástroje, díky nimž mohou uživatelé organizovat reálné akce, jichž se může kdokoli zúčastnit. Při účasti na těchto akcích buďte opatrní a použijte zdravý úsudek.
+
+
+#### 7\. Oznámení zneužití
+
+Více informací o tom, jak oznámit zneužití autorských práv nebo ochranné známky, naleznete na adrese: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+
+#### 8\. Doba platnosti, ukončení
+
+Tyto Podmínky zůstanou v platnosti až do jejich výpovědi z vaší strany či ze strany společnosti Mozilla. Vypovědět je můžete kdykoliv bez udání důvodu tím, přestanete Sdělení používat a případně smažete svůj účet.
+
+Váš přístup ke Sdělením můžeme kdykoliv pozastavit nebo ukončit z jakéhokoliv důvodu, včetně například případů, kdy se rozumně domníváme, že: (i) jste se dopustili porušení těchto Podmínek, našich Zásad přijatelného používání či jiných příslušných zásad, (ii) představujete pro nás riziko či případné vystavení právním rizikům nebo (iii) to, že vám poskytujeme Sdělení, již není ekonomicky únosné.
+
+Ve všech takových případech bude platnost těchto Podmínek ukončena a v platnosti zůstanou pouze následující části: Odškodnění, prohlášení, omezení odpovědnosti, různá ustanovení.
+
+
+#### 9\. Odškodnění
+
+Zavazujete se, že budete bránit a odškodníte společnost Mozilla, její dodavatele, přispěvatele, poskytovatele licence a partnery a jejich příslušné ředitele, vedoucí zaměstnance, zaměstnance a zástupce (dále společně jen „Odškodněné strany”) za všechny nároky třetích osob a výdaje, včetně nákladů na právní zastoupení, vyplývající z vašeho používání Sdělení (včetně například z vašich Příspěvků nebo vašeho porušení kterýchkoli těchto Podmínek).
+
+
+#### 10\. Prohlášení, omezení odpovědnosti
+
+SDĚLENÍ SE POSKYTUJÍ „TAK JAK JSOU” S VEŠKERÝMI PŘÍPADNÝMI CHYBAMI. V ROZSAHU POVOLENÉM ZÁKONEM TÍMTO SPOLEČNOST MOZILLA A VŠECHNY ODŠKODNĚNÉ STRANY ODMÍTAJÍ VEŠKERÉ VÝSLOVNÉ ČI ODVOZENÉ ZÁRUKY, ŽE SDĚLENÍ BUDOU PROSTA VAD, PRODEJNÁ, VHODNÁ PRO KONKRÉTNÍ ÚČEL A ŽE NEBUDOU PORUŠOVAT PRÁVA. NESETE VEŠKERÁ RIZIKA SOUVISEJÍCÍ S POUŽÍVÁNÍM SDĚLENÍ PRO VAŠE ÚČELY A S KVALITOU A VÝKONEM SDĚLENÍ, VČETNĚ NAPŘÍKLAD RIZIKA, ŽE DOJDE K ODSTRANĚNÍ NEBO POŠKOZENÍ VAŠEHO HARDWARU, SOFTWARU NEBO OBSAHU, NEBO RIZIKA, ŽE K VAŠIM ÚDAJŮM ZÍSKÁ NEOPRÁVNĚNÝ PŘÍSTUP KDOKOLIV JINÝ, NEBO RIZIKA, ŽE VÁS PŘÍSPĚVEK ZNEUŽIJE NEBO SI NEPRÁVEM PŘIVLASTNÍ JINÝ UŽIVATEL. TATO OMEZENÍ SE UPLATNÍ BEZ OHLEDU NA SELHÁNÍ ZÁKLADNÍHO DŮVODU JAKÉKOLIV NÁHRADY. NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ ODVOZENÝCH ZÁRUK, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
+
+S VÝJIMKOU USTANOVENÍ ZÁKONA NEPONESE SPOLEČNOST MOZILLA ANI ODŠKODNĚNÉ STRANY ODPOVĚDNOST ZA ŽÁDNÉ NEPŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO EXEMPLÁRNÍ ŠKODY VYPLÝVAJÍCÍ Z TĚCHTO PODMÍNEK ČI S NIMI JAKÝMKOLIV ZPŮSOBEM SOUVISEJÍCÍ NEBO VYPLÝVAJÍCÍ ČI SOUVISEJÍCÍ S POUŽÍVÁNÍM NEBO NEMOŽNOSTÍ POUŽÍVAT SDĚLENÍ, VČETNĚ NAPŘÍKLAD PŘÍMÝCH ČI NEPŘÍMÝCH ŠKOD ZE ZTRÁT GOODWILLU, POZASTAVENÍ PRÁCE, ZTRÁTY ZISKU, ZTRÁTY DAT A SELHÁNÍ ČI PORUCHY POČÍTAČE, A TO ANI V PŘÍPADĚ, ŽE BYLY NA MOŽNOST VZNIKU TAKOVÝCH ŠKOD UPOZORNĚNI A BEZ OHLEDU NA PRÁVNÍ TEORII (SMLUVNÍ, PŘEČIN NEBO JINAK), Z NÍ´Ž TAKOVÝ NÁROK VYCHÁZÍ. SOUHRNNÁ ODPOVĚDNOST SPOLEČNOSTI MOZILLA A ODŠKODNĚNÝCH STRAN V SOULADU S TOUTO SMLOUVOU NEPŘESÁHNE 500 USD (PĚT SET AMERICKÝCH DOLARŮ). NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ ČI OMEZENÍ NÁHODNÝCH, NÁSLEDNÝCH NEBO SPECIÁLNÍCH ŠKOD, TAKŽE TOTO PROHLÁŠENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
+
+
+#### 11\. Změny těchto Podmínek  
+
+Tyto Podmínky můžeme čas od času aktualizovat za účelem úpravy nových funkcí Sdělení nebo vyjasnění ustanovení. Aktualizované znění Podmínek bude zveřejněno online. Pokud budou změny podstatného charakteru, aktuální znění oznámíme prostřednictvím našich běžných kanálů pro taková oznámení, jako jsou příspěvky na blogu, bannery, e-maily nebo fóra. Budete-li pokračovat v používání našich Sdělení po datu účinnosti takových změn, bude to vykládáno jako váš souhlas s těmito změnami. Aby bylo sledování aktualizací pohodlnější, v horní části stránky budeme uvádět datum účinnosti.
+
+#### 12\. Různé  
+
+Tyto Podmínky představují úplnou dohodu mezi vámi a společností Mozilla ohledně našich Sdělení a nahrazují veškeré předchozí verze těchto Podmínek. Tyto Podmínky se řídí zákony státu Kalifornie, USA, s vyloučením ustanovení kolizních norem. Veškeré nároky a spory vyplývající ze Sdělení nebo těchto Podmínek budou rozhodovány výhradně soudy v okrese Santa Clara ve státě Kalifornie a vy souhlasíte s osobní soudní příslušností těchto soudů. V případě, že bude kterákoliv část těchto Podmínek shledána neplatnou či nevymahatelnou, zbývající ustanovení zůstanou plně v platnosti a účinnosti. V případě rozporu mezi přeloženou verzí těchto Podmínek a anglickou jazykovou verzí bude mít přednost anglická verze. V případě rozporu mezi těmito Podmínkami a příslušnými dalšími podmínkami budou mít přednost další podmínky.
+
+#### 13\. Kontaktujte nás
+
+Mozilla Corporation  
+Attn: Mozilla – Legal Notices  
+331 E. Evelyn Ave.,  
+Mountain View, CA 94041  
+USA  
+Telefon: 650-903-0800  
+Fax: 650-903-0875  
+Právní oznámení na mozilla.com
+
