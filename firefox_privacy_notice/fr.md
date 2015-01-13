@@ -47,11 +47,11 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 	Cette fonction est activée par défaut dans les compilations Nightly, Aurora et Beta de Firefox pour que leurs utilisateurs puissent faire part à Mozilla de leurs commentaires. Dans la version générale de Firefox, cette fonction est désactivée par défaut.
 
-	Vous pouvez en [savoir plus sur la Télémétrie et comment l'activer ou la désactiver sur la page ](https://support.mozilla.org/kb/send-performance-data-improve-firefox).
+	Vous pouvez [en savoir plus sur la Télémétrie ici](https://support.mozilla.org/kb/send-performance-data-improve-firefox) et comment l'activer ou la désactiver.
 
-* <placeholder (TBD)> 
+* Tuiles 
 
-	<placeholder (TBD)> Dans Firefox Beta, certaines expériences de télémétrie à court terme (voir ci-dessus) pour les tuiles peuvent recueillir des informations à propos des domaines fréquemment visités.
+	Les tuiles sont une fonctionnalité de Firefox ; elles s'affichent dans les nouvelles pages d'onglets. Pour fournir cette fonctionnalité de tuiles, Firefox envoie à Mozilla des données relatives aux tuiles, telles que le nombre de clics et d'impressions, votre adresse IP, des informations linguistiques et régionales et des données spécifiques aux tuiles (par exemple, position et taille de grille). Dans Firefox Beta, certaines expériences de télémétrie à court terme (voir ci-dessus) pour les tuiles peuvent recueillir des informations à propos des domaines fréquemment visités.
 
 ---------------------------------------
 
