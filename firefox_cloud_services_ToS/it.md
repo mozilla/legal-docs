@@ -57,7 +57,7 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 
 10. #### Modifiche ai presenti Termini
 
-    Mozilla potrà aggiornare i presenti Termini di volta in volta per integrare una nuova funzione dei Servizi o per chiarire un provvedimento. I Termini aggiornati saranno pubblicati online. Se le modifiche sono sostanziali, annunceremo la loro pubblicazione mediante i canali solitamente utilizzati da Mozilla per questa funzione, come i blog e i forum. L’uso continuato dei Servizi da parte dell’utente dopo la data di entrata in vigore di tali modifiche costituisce l’accettazione delle stesse. Per una maggiore praticità, pubblicheremo la decorrenza della revisione in cima a questa pagina.
+    Mozilla potrà aggiornare i presenti Termini di volta in volta per integrare una nuova funzione dei Servizi o per chiarire un provvedimento. I Termini aggiornati saranno pubblicati online. Se le modifiche sono sostanziali, annunceremo la loro pubblicazione mediante i canali solitamente utilizzati da Mozilla per questa funzione, come i blog e i forum. L’uso continuato dei Servizi da parte dell’utente dopo la data di entrata in vigore di tali modifiche costituisce l’accettazione delle stesse. Per una maggiore praticità, pubblicheremo la decorrenza della revisione all’inizio di questa pagina.
 
 11. #### Varie ed eventuali
 
