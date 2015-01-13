@@ -3,31 +3,31 @@
 25 novembre 2014
 {: datetime="2014-11-25" }
 
-### 1. Introduzione 
+### 1. Introduzione
 
-Firefox Hello è un servizio di comunicazioni voce e video end-to-end e in tempo reale (“Servizio”) offerto da Mozilla.  Leggere attentamente e per intero il presente documento (“Termini”), poiché illustra i diritti e le responsabilità dell’utente relativamente all’utilizzo di Firefox Hello per inviare o ricevere comunicazioni.
+Firefox Hello è un servizio di comunicazioni voce e video end-to-end e in tempo reale (“Servizio”) offerto da Mozilla. Leggere attentamente e per intero il presente documento (“Termini”), poiché illustra i diritti e le responsabilità dell’utente relativamente all’utilizzo di Firefox Hello per inviare o ricevere comunicazioni.
 
 ### 2. Registrazione account
 
-Potrebbe essere necessario creare un account Firefox per utilizzare determinate funzioni del Servizio, come l’importazione dei contatti da un altro servizio o la creazione di nuovi contatti.  Quando si registra un account Firefox, è necessario accettare i relativi [Termini di servizio](https://www.mozilla.org/en-US/about/legal/terms/services) e l’[Informativa sulla privacy](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Potrebbe essere necessario creare un account Firefox per utilizzare determinate funzioni del Servizio, come l’importazione dei contatti da un altro servizio o la creazione di nuovi contatti. Quando si registra un account Firefox, è necessario accettare i relativi [Termini di servizio](https://www.mozilla.org/about/legal/terms/services) e l’[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox-cloud).
 
 ### 3. Funzioni
 
-Il Servizio viene offerto all’utente in collaborazione con TokBox, Inc. (Nel documento si fa riferimento a ToxBox anche come licenziatario.)  Il Servizio è integrato in Firefox, per consentire di effettuare facilmente chiamate vocali e video tra Firefox e utenti di qualsiasi browser o dispositivo abilitato per WebRTC.  Il Servizio è soggetto a modifiche.  Consultare il [sito dell'assistenza](https://support.mozilla.org/products/firefox) di Mozilla per domande sulle funzioni. 
+Il Servizio viene offerto all’utente in collaborazione con TokBox, Inc. (Nel documento si fa riferimento a ToxBox anche come licenziatario.) Il Servizio è integrato in Firefox, per consentire di effettuare facilmente chiamate vocali e video tra Firefox e utenti di qualsiasi browser o dispositivo compatibile con WebRTC. Il Servizio è soggetto a modifiche. Consultare il [sito dell’assistenza](https://support.mozilla.org/products/firefox) di Mozilla per domande sulle funzioni.
 
 ### 4. Informativa sulla privacy
 
 L’[Informativa sulla privacy di Firefox Hello](https://www.mozilla.org/privacy/) spiega quali informazioni vengono inviate quando si utilizza il Servizio e in che modo vengono gestite queste informazioni.
 
-### 5. Contenuti e utilizzo 
+### 5. Contenuti e utilizzo
 
-L’utente è a conoscenza che il Servizio consente di trasmettere determinate informazioni (come video o immagini) (“Contenuti”).  Con il presente atto, l’utente concede a Mozilla e ai suoi licenziatari tutti i diritti necessari per offrire il Servizio e accetta di utilizzare il Servizio in conformità alle [Condizioni d’uso](https://www.mozilla.org/about/legal/acceptable-use) di Mozilla. L’utente è l’unico responsabile dei Contenuti trasmessi e delle relative conseguenze. 
+L’utente è a conoscenza che il Servizio consente di trasmettere determinate informazioni (come video o immagini) (“Contenuti”). Con il presente atto, l’utente concede a Mozilla e ai suoi licenziatari tutti i diritti necessari per offrire il Servizio e accetta di utilizzare il Servizio in conformità alle [Condizioni d’uso](https://www.mozilla.org/about/legal/acceptable-use) di Mozilla. L’utente è l’unico responsabile dei Contenuti trasmessi e delle relative conseguenze.
 
-Per ulteriori informazioni su come segnalare una violazione di copyright o del marchio commerciale, fare clic [qui](https://www.mozilla.org/about/legal/report-abuse/).
+Per ulteriori informazioni su come segnalare una violazione di copyright o di marchi commerciali, utilizzare [questa pagina](https://www.mozilla.org/about/legal/report-abuse/).
 
 ### 6. Diritti di proprietà di Mozilla e TokBox
 
-Né Mozilla né i suoi licenziatari concedono all’utente alcun diritto di proprietà intellettuale sul Servizio non specificamente indicato nei presenti Termini.  Ad esempio, i presenti Termini non concedono il diritto di utilizzare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di domini o altre caratteristiche distintive del brand Mozilla o dei suoi licenziatari.  
+Né Mozilla né i suoi licenziatari concedono all’utente alcun diritto di proprietà intellettuale sul Servizio non specificamente indicato nei presenti Termini. Ad esempio, i presenti Termini non concedono il diritto di utilizzare copyright, nomi commerciali, marchi commerciali, marchi di servizio, loghi, nomi di domini o altre caratteristiche distintive del brand Mozilla o dei suoi licenziatari.
 
 Il software Mozilla viene distribuito in base alla versione corrente della Mozilla Public License, o di altre licenze similmente permissive.
 
@@ -37,7 +37,7 @@ Di tanto in tanto, potrebbe essere necessario eseguire interventi di manutenzion
 
 I presenti Termini sono applicabili all’utilizzo del Servizio da parte dell’utente e continueranno a essere applicabili fino a quando l’utente non cesserà detto utilizzo oppure in seguito a notifica da parte di Mozilla o di TokBox. L’utente può scegliere di interrompere il Servizio in qualsiasi momento e per qualsiasi ragione, terminandone l’utilizzo.
 
-Mozilla può sospendere o interrompere l’accesso al Servizio o all’account Firefox dal parte dell’utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ritenga che: (i) l’utente abbia violato i presenti Termini (ii) l’utente abbia creato un rischio di fatto o abbia esposto Mozilla o TokBox a possibili rischi legali; oppure (iii) la fornitura dei Servizi all’utente non sia più commercialmente giustificabile. Verrò fatto il possibile per inviare una notifica all’utente utilizzando l’indirizzo email associato all’account Firefox, oppure al suo successivo tentativo di accesso al Servizio.
+Mozilla può sospendere o interrompere l’accesso al Servizio o all’account Firefox dal parte dell’utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ritenga che: (i) l’utente abbia violato i presenti Termini (ii) l’utente abbia creato un rischio di fatto o abbia esposto Mozilla o TokBox a possibili rischi legali; oppure (iii) la fornitura dei Servizi all’utente non sia più commercialmente giustificabile. Verrà fatto il possibile per inviare una notifica all’utente utilizzando l’indirizzo email associato all’account Firefox, oppure al suo successivo tentativo di accesso al Servizio.
 
 In tutti questi casi, i presenti Termini saranno considerati conclusi, inclusa, senza limitazioni, la licenza dell’utente per l’utilizzo del Servizio, fatta eccezione per le seguenti sezioni, che continueranno a essere applicabili: Indennizzo, Esclusione di garanzia, Limitazione di responsabilità, Varie ed eventuali.
 
@@ -57,7 +57,7 @@ FATTA ECCEZIONE PER QUANTO PREVISTO DALLA LEGGE, LE PARTI INDENNIZZATE NON SARAN
 
 ### 10. Modifiche ai presenti Termini
 
-I presenti Termini potranno essere aggiornati di volta in volta per integrare una nuova funzione del Servizio o per chiarire un provvedimento. I Termini aggiornati saranno pubblicati online. Se le modifiche sono sostanziali, annunceremo la loro pubblicazione mediante i canali solitamente utilizzati da Mozilla per questa funzione, come i blog e i forum. L’utilizzo continuato del Servizio da parte dell’utente dopo la data di entrata in vigore delle modifiche citate costituisce l’accettazione delle stesse. Per una maggiore praticità, la decorrenza della revisione verrà pubblicata in cima a questa pagina.
+I presenti Termini potranno essere aggiornati di volta in volta per integrare una nuova funzione del Servizio o per chiarire un provvedimento. I Termini aggiornati saranno pubblicati online. Se le modifiche sono sostanziali, annunceremo la loro pubblicazione mediante i canali solitamente utilizzati da Mozilla per questa funzione, come i blog e i forum. L’utilizzo continuato del Servizio da parte dell’utente dopo la data di entrata in vigore delle modifiche citate costituisce l’accettazione delle stesse. Per una maggiore praticità, la decorrenza della revisione verrà pubblicata all’inizio di questa pagina.
 
 ### 11. Varie ed eventuali
 
