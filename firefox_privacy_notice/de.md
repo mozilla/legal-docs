@@ -51,7 +51,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 * Kacheln
 
-	Kacheln sind eine Firefox-Funktion, das auf neuen Tab-Seiten angezeigt wird. Um die Kachelfunktion bereitzustellen, sendet Firefox Daten über die Kacheln an Mozilla, wie z. B. die Anzahl der Klicks, Anzeigehäufigkeit, Ihre IP-Adresse, Informationen zur Sprache der Benutzeroberfläche und kachelspezifische Daten (z. B. Position und Größe des Rasters).
+	Kacheln sind eine Firefox-Funktion, das auf neuen Tab-Seiten angezeigt wird. Um die Kachelfunktion bereitzustellen, sendet Firefox Daten über die Kacheln an Mozilla, wie z. B. die Anzahl der Klicks, Anzeigehäufigkeit, Ihre IP-Adresse, Informationen zur Sprache der Benutzeroberfläche und kachelspezifische Daten (z. B. Position und Größe des Rasters). In Firefox Beta können bestimmte kurzzeitige Telemetrie-Versuche (siehe oben) für Kacheln Informationen zu häufig besuchten Domains erfassen.
 
 ---------------------------------------
 
