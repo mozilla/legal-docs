@@ -51,7 +51,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 
 * Pločice
 
-	Pločice su značajka Firefoxa koja se prikazuje na stranicama u novim karticama. Kako bi omogućio ovu značajku, Firefox šalje Mozilli podatke povezane s pločicama kao što su broj klikova, broj posjeta stranici, vaša IP adresa, lokalne informacije i specifični podaci o pločicama (npr. položaj i veličina rešetke).
+	Pločice su značajka Firefoxa koja se prikazuje na stranicama u novim karticama. Kako bi omogućio ovu značajku, Firefox šalje Mozilli podatke povezane s pločicama kao što su broj klikova, broj posjeta stranici, vaša IP adresa, lokalne informacije i specifični podaci o pločicama (npr. položaj i veličina rešetke). U Firefox Beta, određeni eksperimenti Telemetrije kratkih pojmova (pogledajte iznad) za Pločice mogu prikupljati informacije o često posjećenim domenama.
 
 ---------------------------------------
 

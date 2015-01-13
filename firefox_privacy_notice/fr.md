@@ -49,6 +49,10 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 	Vous pouvez en [savoir plus sur la Télémétrie et comment l'activer ou la désactiver sur la page ](https://support.mozilla.org/kb/send-performance-data-improve-firefox).
 
+* <placeholder (TBD)> 
+
+	<placeholder (TBD)> Dans Firefox Beta, certaines expériences de télémétrie à court terme (voir ci-dessus) pour les tuiles peuvent recueillir des informations à propos des domaines fréquemment visités.
+
 ---------------------------------------
 
 Lorsque vous le demandez, Firefox se connecte aussi à Mozilla pour vous fournir des fonctions telles que Sync, les services de localisation, les rapports de « plantage » et les modules.

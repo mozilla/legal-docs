@@ -51,7 +51,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 * Dlaždice
 
-	Dlaždice jsou funkce Firefoxu zobrazené na nových záložkách stránek. Za účelem zajištění lepších funkcí dlaždice Firefox zasílá Mozille data vztahující se k dlaždicím, jako je počet kliknutí, dojmy, vaše IP adresa, informace o poloze a zvláštní údaje k dlaždicím (např. umístění a velikost mřížky).
+	Dlaždice jsou funkce Firefoxu zobrazené na nových záložkách stránek. Za účelem zajištění lepších funkcí dlaždice Firefox zasílá Mozille data vztahující se k dlaždicím, jako je počet kliknutí, dojmy, vaše IP adresa, informace o poloze a zvláštní údaje k dlaždicím (např. umístění a velikost mřížky). Ve verzi Firefox Beta mohou nekteré krátkodobé Telemetrické pokusy (viz výše) pro Dlažnice shromaždovat informace o casto navštevovaných doménách.
 
 ---------------------------------------
 

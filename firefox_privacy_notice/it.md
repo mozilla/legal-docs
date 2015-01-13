@@ -51,7 +51,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 
 * Riquadri
 
-	I riquadri sono una funzione di Firefox visualizzata quando si apre una nuova scheda. Per fornire questa funzione, Firefox invia a Mozilla dati relativi ai riquadri, quali numero di clic, visualizzazioni, l’indirizzo IP, le informazioni sulla lingua corrente e i dati specifici sui riquadri (ad es. posizione e dimensioni della griglia).
+	I riquadri sono una funzione di Firefox visualizzata quando si apre una nuova scheda. Per fornire questa funzione, Firefox invia a Mozilla dati relativi ai riquadri, quali numero di clic, visualizzazioni, l’indirizzo IP, le informazioni sulla lingua corrente e i dati specifici sui riquadri (ad es. posizione e dimensioni della griglia). In Firefox Beta, alcuni esperimenti di telemetria a breve termine (vedere sopra) sui riquadri possono raccogliere informazioni sui domini normalmente visitati.
 
 ---------------------------------------
 

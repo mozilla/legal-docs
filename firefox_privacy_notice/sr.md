@@ -51,7 +51,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 * Pločice
 
-	Pločice predstavljaju opciju u okviru pretraživača Firefox koja se prikazuje na stranicama novih kartica. U cilju prikazivanja opcije pločica, Firefox šalje podatke kompaniji Mozilla u pogledu pločica, kao što su broj klikova, impresija, vaša IP adresa, podaci o jeziku i podaci koji se odnose konkretno na pločicu (npr. položaj i veličina mreže).
+	Pločice predstavljaju opciju u okviru pretraživača Firefox koja se prikazuje na stranicama novih kartica. U cilju prikazivanja opcije pločica, Firefox šalje podatke kompaniji Mozilla u pogledu pločica, kao što su broj klikova, impresija, vaša IP adresa, podaci o jeziku i podaci koji se odnose konkretno na pločicu (npr. položaj i veličina mreže). U Beta verziji pretraživača Firefox, određeni kratkoročni telemetrijski eksperimenti (vidite gore) u slučaju Pločica mogu prikupljati informacije o najčešće posećivanim domenima.
 
 ---------------------------------------
 

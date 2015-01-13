@@ -51,7 +51,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 
 * Csempék
 
-	A csempe a Firefox által az új oldalakon megjelenített funkciót jelenti. A csempe funkció biztosítása érdekében a Firefox elküldi a Mozillának a csempékkel kapcsolatos adatokat, például a kattintások és megjelenítések számát, az Ön IP-címét, a területi beállításokra vonatkozó adatokat és a csempe specifikus adatokat (pl. a rács helyzete és mérete).
+	A csempe a Firefox által az új oldalakon megjelenített funkciót jelenti. A csempe funkció biztosítása érdekében a Firefox elküldi a Mozillának a csempékkel kapcsolatos adatokat, például a kattintások és megjelenítések számát, az Ön IP-címét, a területi beállításokra vonatkozó adatokat és a csempe specifikus adatokat (pl. a rács helyzete és mérete). A Firefox Beta változatánál bizonyos rövid távú Telemetriás kísérletek (lásd fenn) adatokat gyűjthetnek a gyakran látogatott domainekről a csempe funkcióhoz.
 
 ---------------------------------------
 

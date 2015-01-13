@@ -51,7 +51,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 
 * Miniatury
 
-	Miniatury to funkcja przeglądarki Firefox wyświetlana na stronach nowych kart. Aby udostępniać funkcję miniatur, Firefox przesyła do firmy Mozilla powiązane z nimi dane, takie jak liczba kliknięć i wyświetleń, adres IP użytkownika, informacje o ustawieniach regionalnych i dane miniatur (np. położenie i rozmiar siatki).
+	Miniatury to funkcja przeglądarki Firefox wyświetlana na stronach nowych kart. Aby udostępniać funkcję miniatur, Firefox przesyła do firmy Mozilla powiązane z nimi dane, takie jak liczba kliknięć i wyświetleń, adres IP użytkownika, informacje o ustawieniach regionalnych i dane miniatur (np. położenie i rozmiar siatki). W przeglądarce Firefox Beta pewne krótkoterminowe eksperymenty związane z Telemetrią (patrz wyżej) dla funkcji Miniatury mogą zbierać informacje o często odwiedzanych domenach.
 
 ---------------------------------------
 

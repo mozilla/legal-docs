@@ -51,7 +51,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 
 * Blocos
 
-	Os blocos são um recurso do Firefox exibido em páginas de nova aba. Para oferecer o recurso de blocos, o Firefox envia à Mozilla dados relacionados aos blocos, como número de cliques, visualizações de anúncios, seu endereço IP, informações sobre o idioma e dados específicos de cada bloco (por exemplo, posição e tamanho da grade).
+	Os blocos são um recurso do Firefox exibido em páginas de nova aba. Para oferecer o recurso de blocos, o Firefox envia à Mozilla dados relacionados aos blocos, como número de cliques, visualizações de anúncios, seu endereço IP, informações sobre o idioma e dados específicos de cada bloco (por exemplo, posição e tamanho da grade). No Firefox Beta, alguns experimentos de Telemetria de curto prazo (consulte o texto acima) para os Blocos poderão coletar informações sobre domínios visitados com frequência.
 
 ---------------------------------------
 

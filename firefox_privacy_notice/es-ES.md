@@ -51,7 +51,7 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 
 * Mosaicos
 
-	Los mosaicos son una característica de Firefox que aparece en las páginas de nuevas pestañas. Para poder ofrecer esta función, Firefox envía a Mozilla información relacionada con los mosaicos, como por ejemplo, cantidad de veces que se hace clic, impresiones, su dirección IP, información local y datos relativos a los mosaicos, como la posición y el tamaño de la cuadrícula.
+	Los mosaicos son una característica de Firefox que aparece en las páginas de nuevas pestañas. Para poder ofrecer esta función, Firefox envía a Mozilla información relacionada con los mosaicos, como por ejemplo, cantidad de veces que se hace clic, impresiones, su dirección IP, información local y datos relativos a los mosaicos, como la posición y el tamaño de la cuadrícula. En Firefox Beta, ciertos experimentos de Telemetry a corto plazo (véase arriba) para mosaicos podrían recopilar información acerca de dominios frecuentemente visitados.
 
 ---------------------------------------
 
