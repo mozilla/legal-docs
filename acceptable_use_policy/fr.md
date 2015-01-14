@@ -20,12 +20,12 @@ intellectuelle d'autres individus
     * Illégal ou qui encourage des activités illégales
     * Inapproprié tel que des documents obscènes ou pornographiques, des représentations graphiques de la sexualité ou violence, ou des images qui exploitent des enfants ou leur sont préjudiciables
     * Qui porte atteinte aux droits d'autres individus, y compris les droits de la propriété intellectuelle ou d'autres droits de propriété, confidentialité ou publicité
-    * Trompeur, qui induit en erreur, frauduleux, ou dont l'objectif est de faire de l’hameçonnage (phishing) ou d’effectuer d'autres activités de vol d'identité
+    * Trompeur, qui induit en erreur, frauduleux, ou dont l'objectif est de faire de l'hameçonnage (phishing) ou d'effectuer d'autres activités de vol d'identité
     * Conçu pour promouvoir des activités de jeu
-    * Qui fait de la publicité ou encourage l’utilisation de produits ou services illégaux ou soumis à un contrôle
-    * Dégrade, intimide, incite à la violence ou encourage des actes préjudiciables contre un individu ou groupe d'individus en fonction de l'âge, du sexe, de la race, de l'ethnicité, de l'origine nationale, de la religion, de l'orientation sexuelle, du handicap, de la religion, du lieu géographique ou de toute autre catégorie protégée ou constituant des propos haineux
+    * Qui fait de la publicité ou encourage l'utilisation de produits ou services illégaux ou soumis à un contrôle
+    * Dégrade, intimide, incite à la violence ou encourage des actes préjudiciables contre un individu ou groupe d'individus en fonction de l'âge, du sexe, de la race, de l'ethnie, de l'origine nationale, de la religion, de l'orientation sexuelle, du handicap, de la religion, du lieu géographique ou de toute autre catégorie protégée ou constituant des propos haineux
     * Qui trompe un utilisateur pour l'inciter à prendre une décision d'achat
 
-Cette liste n’est qu’une illustration : elle n'est pas définitive et elle est susceptible d'être mise à jour.
+Cette liste n'est qu'une illustration : elle n'est pas définitive et elle est susceptible d'être mise à jour.
 
 Mozilla se réserve le droit de retirer tout consentement ou suspendre tout utilisateur qui est considéré violer les présentes conditions ou conditions de service du produit applicable. 

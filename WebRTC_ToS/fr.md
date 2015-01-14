@@ -9,11 +9,11 @@ Firefox Hello est un service (« Service ») de communications vidéo et audio
 
 ### 2. Inscription à un compte
 
-Un compte Firefox peut être nécessaire pour utiliser certaines fonctions du Service, tel qu'importer vos contacts d'un autre service ou créer de nouveaux contacts.  Si vous ouvrez un compte Firefox, vous acceptez les [Conditions de service](https://www.mozilla.org/about/legal/terms/services) et [la Politique de Confidentialité](https://www.mozilla.org/privacy/firefox-cloud) du compte Firefox.
+Un compte Firefox peut être nécessaire pour utiliser certaines fonctions du Service, telles qu'importer vos contacts d'un autre service ou créer de nouveaux contacts.  Si vous ouvrez un compte Firefox, vous acceptez les [Conditions de service](https://www.mozilla.org/about/legal/terms/services) et la [Politique de confidentialité](https://www.mozilla.org/privacy/firefox-cloud) du compte Firefox.
 
 ### 3. Fonctions
 
-Le Service vous est fourni en collaboration avec TokBox, Inc. (TokBox est également appelé concédant de licence dans le présent document).  Le Service est intégré à Firefox afin que vous puissiez facilement passer des appels audio (voice) et vidéo entre Firefox et les utilisateurs sur tous les navigateurs ou appareils WebRTC.  Le Service peut faire l'objet de changements.  Veuillez vous reporter au [site de soutien](https://support.mozilla.org/products/firefox) de Mozilla si vous avez des questions à propos des fonctions. 
+Le Service vous est fourni en collaboration avec TokBox, Inc. (ToxBox est également appelé concédant de licence dans le présent document).  Le Service est intégré à Firefox afin que vous puissiez facilement passer des appels audio (voice) et vidéo entre Firefox et les utilisateurs sur tous les navigateurs ou appareils WebRTC.  Le Service peut faire l'objet de changements.  Veuillez vous reporter au [site d'assistance](https://support.mozilla.org/products/firefox) de Mozilla si vous avez des questions à propos des fonctions. 
 
 ### 4. Politique de confidentialité
 
@@ -21,7 +21,7 @@ La [Politique de confidentialité de Firefox Hello](https://www.mozilla.org/priv
 
 ### 5. Contenu et utilisation 
 
-Vous comprenez que le Service permet aux utilisateurs de transmettre certaines informations (telles que des vidéos ou des images) (le « Contenu »).  Par les suivantes, vous octroyez à Mozilla et nos concédant de licence tous les droits nécessaires pour fournir le Service et vous acceptez que votre utilisation du Service soit conforme aux [Conditions d'utilisation](https://www.mozilla.org/about/legal/acceptable-use) de Mozilla. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences. 
+Vous comprenez que le Service permet aux utilisateurs de transmettre certaines informations (telles que des vidéos ou des images) (le « Contenu »).  Par les suivantes, vous octroyez à Mozilla et nos concédants de licence tous les droits nécessaires pour fournir le Service et vous acceptez que votre utilisation du Service soit conforme aux [Conditions d'utilisation](https://www.mozilla.org/about/legal/acceptable-use) de Mozilla. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences. 
 
 Pour de plus amples renseignements sur la façon de signaler un abus de droit d'auteur ou de marque de commerce, veuillez consulter le document [suivant](https://www.mozilla.org/about/legal/report-abuse/).
 
