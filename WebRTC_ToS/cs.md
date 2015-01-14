@@ -9,7 +9,7 @@ Firefox Hello je služba pro video a hlasovou komunikaci mezi koncovými uživat
 
 ### 2. Registrace účtu
 
-K používání určitých funkcí Služby, například importu kontaktů z jiné služby nebo vytvoření nových kontaktů, může být vyžadován účet Firefox.  Registrací k účtu Firefox vyslovujete souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/en-US/about/legal/terms/services) a [Prohlášením o ochraně osobních údajů](https://www.mozilla.org/en-US/privacy/firefox-cloud) účtů Firefox.
+K používání určitých funkcí Služby, například importu kontaktů z jiné služby nebo vytvoření nových kontaktů, může být vyžadován účet Firefox.  Registrací k účtu Firefox vyslovujete souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/about/legal/terms/services) a [Prohlášením o ochraně osobních údajů](https://www.mozilla.org/privacy/firefox-cloud) účtů Firefox.
 
 ### 3. Funkce
 
