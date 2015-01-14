@@ -5,7 +5,7 @@
 
 ### 1. Introdução 
 
-O Firefox Hello é um serviço completo de comunicações em tempo real por vídeo e voz (“Serviço”) da Mozilla.  Leia todo este documento (“Termos”) com atenção, pois ele explica os seus direitos e responsabilidades quanto ao uso do Firefox Hello para enviar ou receber comunicações.
+O Firefox Hello é um serviço de comunicações em tempo real por vídeo e voz da Mozilla (“Serviço”). Por favor, leia todo este documento (“Termos”) com atenção, pois ele explica os seus direitos e responsabilidades quanto ao uso do Firefox Hello para enviar ou receber comunicações.
 
 ### 2. Registro da conta
 
@@ -27,7 +27,7 @@ Para mais informações sobre como informar uma reivindicação de uso indevido 
 
 ### 6. Direitos de propriedade da Mozilla e da TokBox
 
-A Mozilla e seus licenciantes não concedem a você quaisquer direitos de propriedade intelectual sobre o Serviço que não estejam especificamente declarados nestes Termos.  Por exemplo, estes Termos não oferecem o direito de uso de quaisquer direitos autorais, denominações sociais, marcas registradas, marcas de serviço, logotipos, nomes de domínio ou outras características distintivas de marcas da Mozilla ou de seus licenciantes.  
+A Mozilla e seus licenciantes não concedem a você quaisquer direitos de propriedade intelectual sobre o Serviço que não estejam especificamente declarados nestes Termos. Por exemplo, estes Termos não oferecem o direito de uso de quaisquer direitos autorais, denominações sociais, marcas registradas, marcas de serviço, logotipos, nomes de domínio ou outras características distintivas de marcas da Mozilla ou de seus licenciantes.  
 
 O software da Mozilla é distribuído sob a versão atual da Licença Pública Mozilla ou licenças permissivas semelhantes e está sujeito a elas.
 
@@ -37,7 +37,7 @@ De tempos em tempos, podemos ter de realizar manutenção ou atualização do Se
 
 Estes Termos se aplicam ao seu uso do Serviço e continuarão aplicáveis até que sejam finalizados por você ou, mediante aviso prévio, pela Mozilla ou pela TokBox. Você pode decidir finalizá-los a qualquer momento, por qualquer motivo, cessando o seu uso do Serviço.
 
-Podemos suspender ou encerrar o seu acesso ao Serviço ou à sua conta Firefox a qualquer momento por qualquer motivo, incluindo, entre outros motivos, caso tenhamos justificativa para crer: (i) que você violou estes Termos; (ii) que você cria risco ou possível exposição legal para a Mozilla ou TokBox; ou (iii) que nossa prestação do Serviço a você não é mais comercialmente viável. Se possível, envidaremos esforços razoáveis para notificá-lo pelo endereço de email associado à sua conta Firefox ou na próxima vez em que você tentar acessar o Serviço.
+Podemos suspender ou encerrar o seu acesso ao Serviço ou à sua conta Firefox a qualquer momento por qualquer motivo, incluindo, entre outros motivos, caso tenhamos justificativa para crer: (i) que você violou estes Termos; (ii) que você cria risco ou possível exposição legal para a Mozilla ou TokBox; ou (iii) que nossa prestação do Serviço a você não é mais comercialmente viável. Se possível, enviaremos uma notificação pelo endereço de email associado à sua conta Firefox ou na próxima vez em que você tentar acessar o Serviço.
 
 Em todos os casos, estes Termos serão rescindidos, incluindo, sem limitação, sua licença de uso do Serviço, com exceção das seguintes seções, que continuarão aplicáveis: Indenização, Isenção de Responsabilidade; Limite de Responsabilidade e Disposições Gerais.
 
