@@ -7,7 +7,7 @@ October 15, 2014
 
 #### 1\. Introduction
 
-Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”) or related feeds, social media, newsletters and emails(together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
+Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”) or related feeds, social media, newsletters and emails (together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
 
 Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
 Some of our Websites connect you with links, apps or add-ons that are provided by other parties and are subject to separate Terms.
