@@ -1,15 +1,15 @@
-# Firefox Hello-Servicebedingungen
+# Firefox-Hello-Servicebedingungen
 
 25\.11\.2014
 {: datetime="2014-11-25" }
 
 ### 1. Einführung 
 
-Firefox Hello ist ein Video- und Telefoniedienst für die End-to-End-Echtzeit-Kommunikation (hier als „Service“ bezeichnet) und wird von Mozilla bereitgestellt.  Bitte lesen Sie dieses gesamte Dokument („Bedingungen“) sorgfältig durch, weil darin Ihre Rechte und Pflichten bei der Verwendung von Firefox Hello zum Senden oder Empfangen von Kommunikation erläutert werden.
+Firefox Hello ist ein Video- und Telefoniedienst für die Ende-zu-Ende-Echtzeit-Kommunikation (hier als „Service“ bezeichnet) und wird von Mozilla bereitgestellt.  Bitte lesen Sie dieses gesamte Dokument („Bedingungen“) sorgfältig durch, weil darin Ihre Rechte und Pflichten bei der Verwendung von Firefox Hello zum Senden oder Empfangen von Kommunikation erläutert werden.
 
 ### 2. Kontoregistrierung
 
-Um bestimmte Funktionen des Service zu verwenden, ist eventuell ein Firefox-Konto erforderlich, wie z. B. für den Import Ihrer Kontakte aus einem anderen Service oder das Erstellen neuer Kontakte.  Wenn Sie sich für ein Firefox-Konto registrieren, stimmen Sie den [Servicebedingungen](https://www.mozilla.org/en-US/about/legal/terms/services) und dem [Datenschutzhinweis](https://www.mozilla.org/en-US/privacy/firefox-cloud) für Firefox-Konten zu.
+Um bestimmte Funktionen des Service zu verwenden, ist eventuell ein Firefox-Konto erforderlich, wie z. B. für den Import Ihrer Kontakte aus einem anderen Service oder das Erstellen neuer Kontakte.  Wenn Sie sich für ein Firefox-Konto registrieren, stimmen Sie den [Servicebedingungen](https://www.mozilla.org/de/about/legal/terms/services) und dem [Datenschutzhinweis](https://www.mozilla.org/de/privacy/firefox-cloud) für Firefox-Konten zu.
 
 ### 3. Funktionen
 
@@ -17,7 +17,7 @@ Der Service wird Ihnen in Zusammenarbeit mit TokBox, Inc. bereitgestellt (TokBox
 
 ### 4. Datenschutzerklärung
 
-Der [Firefox Hello-Datenschutzhinweis](https://www.mozilla.org/privacy/) erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie diese Informationen verarbeitet werden.
+Der [Firefox-Hello-Datenschutzhinweis](https://www.mozilla.org/de/privacy/firefox-hello/) erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie diese Informationen verarbeitet werden.
 
 ### 5. Inhalt und Nutzung 
 
@@ -43,7 +43,7 @@ In all diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz z
 
 ### 8. Schadloshaltung
 
-Sie stimmen zu, Mozilla, TokBox und Mutter- und Partnergesellschaften, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen übertragenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
+Sie stimmen zu, Mozilla, TokBox und Mutter- und Partnergesellschaften, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitende Angestellte, Mitarbeiter und Vertreter („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen übertragenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
 
 ### 9. Haftungsablehnung; Haftungsbeschränkung
 
