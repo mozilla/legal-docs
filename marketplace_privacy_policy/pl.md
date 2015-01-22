@@ -1,131 +1,35 @@
-### Polityka Prywatności Platformy Transakcyjnej Firefox
+### Zasady prywatności usługi Firefox Marketplace
+14 stycznia 2015 r.
 
-3 lipca 2013
+Mozilla dba o Twoją prywatność. Jeśli Mozilla (czyli my) zbiera w usłudze Firefox Marketplace informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
-Mozilla dba o Twoją prywatność. Jeśli Mozilla pobiera informacje o
-Użytkownikach z Platformy Transakcyjnej Firefox, są one przetwarzane zgodnie z
-[niniejszą Polityką prywatności](https://www.mozilla.org/privacy/).
+<u>Co powinien wiedzieć Użytkownik</u>
 
-### Co powinien wiedzieć Użytkownik
-
-Większość Aplikacji dostępnych na Platformie Transakcyjnej Firefox nie została
+- Większość Aplikacji dostępnych na Platformie Transakcyjnej Firefox nie została
 stworzona przez Mozilla, dlatego przed ich użyciem należy zapoznać się z
 dotyczącymi ich politykami prywatności.
-
-Płatności są realizowane przez inne podmioty (nie przez Mozilla), dlatego w
+- Płatności są realizowane przez inne podmioty (nie przez Mozilla), dlatego w
 celu zrozumienia praktyki konkretnego dostawcy usług płatniczych należy
 zapoznać się z jego polityką prywatności.
-
-Żadne informacje finansowe (takie jak dane karty kredytowej, która została
+  - Żadne informacje finansowe (takie jak dane karty kredytowej, która została
 użyta do zakupu na Platformie Transakcyjnej Firefox) nie są zbierane,
 przechowywane lub wykorzystywane przez Mozilla.
-
-Platforma Transakcyjna Firefox używa plików Cookies oraz innych rozwiązań
+- Platforma Transakcyjna Firefox używa plików Cookies oraz innych rozwiązań
 sieciowych w celu zapewnienia funkcjonalności (takich jak zapamiętywanie
 użytkowników pomiędzy sesjami) oraz umożliwienia zbiorczego analizowania
 sposobu korzystania z usługi.
-
-Platforma Transakcyjna może wykorzystywać dane dotyczące operatora oraz
+- Platforma Transakcyjna może wykorzystywać dane dotyczące operatora oraz
 lokalizacji Użytkownika w celu dostosowania usługi do potrzeb Użytkownika.
-
-Na urządzeniach wykorzystujących system Firefox OS Mozilla wykorzystuje
+  - Na urządzeniach wykorzystujących system Firefox OS Mozilla wykorzystuje
 informacje sieciowe z urządzenia końcowego Użytkownika dotyczące lokalizacji
 oraz operatora sieci Użytkownika w celu dostosowania usługi do potrzeb
 Użytkownika i oferowania dodatkowych usług operatora.
-
-Na wszystkich platformach Mozilla może wykorzystywać numer IP użytkownika w
+  - Na wszystkich platformach Mozilla może wykorzystywać numer IP użytkownika w
 celu określenia lokalizacji Użytkownika oraz dostosowania usługi do potrzeb
 Użytkownika.
-
-Użytkownik nie musi się logować, aby zainstalować darmową Aplikację, jednak
+- Użytkownik nie musi się logować, aby zainstalować darmową Aplikację, jednak
 instalacja płatnej Aplikacji wymaga logowania. Ponadto, Mozilla prowadzi
 historię tranzakcji Użytkownika (np. jakie Aplikacje zostały zakupione).
-
-Użytkownik może zgodzić się na otrzymywanie od Mozilla wiadomości email o
+- W przypadku zalogowanych użytkowników usługa Firefox Marketplace wykorzystuje ich język, kraj i zainstalowane aplikacje, by polecić dodatkowe aplikacje, które mogą ich zainteresować.  Można to wyłączyć w ustawieniach konta. [Więcej informacji](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Użytkownik może zgodzić się na otrzymywanie od Mozilla wiadomości email o
 zawartości marketingowej i w każdym momencie może cofnąć taką zgodę.
-
-### Polityka prywatności Mozilla
-
-Prywatność użytkownika jest ważnym czynnikiem, który Mozilla bierze pod uwagę
-przy rozwoju każdego produktu i usługi. Mozilla przykłada szczególną wagę do
-przejrzystości i otwartości oraz chce, aby Użytkownicy wiedzieli, w jaki
-sposób Mozilla pozyskuje informacje o nich i jak wykorzystuje pozyskane
-informacje.
-
-### Co Mozilla uznaje za „informacje osobowe”?
-
-W rozumieniu Mozilla, „informacje osobowe” to wszystkie informacje, na
-podstawie których można zidentyfikować Użytkownika, takie jak imię i nazwisko
-lub adres email Użytkownika.
-
-Informacje nienależące do tej kategorią są „informacjami nieosobowymi”.
-
-Jeżeli informacje osobowe są przechowywane razem z informacjami nieosobowymi,
-Mozilla uważa cały zbiór za informacje osobowe. Jeżeli Mozilla usunie
-wszystkie informacje osobowe ze zbioru, pozostałe informacje uważa się za
-informacje nieosobowe.
-
-### Jak zbierane są informacje na temat Użytkownika?
-
-Informacje na temat Użytkownika są zbierane:
-
-1. gdy Użytkownik przekazuje je bezpośrednio do Mozilla (np. gdy wysyła do Mozilla raport o błędach w funkcjonowaniu systemu Firefox);
-2. automatycznie w związku z korzystaniem z produktów oraz usług Mozilla (np. gdy Mozilla weryfikuje, czy system Firefox jest aktualny);
-3. gdy zostaną przekazuje Mozilla przez osobę trzecią (np. gdy Thunderbird współpracuje z operatorem skrzynki pocztowej Użytkownika przy zakładaniu konta Użytkownika);
-4. gdy Mozilla wyciąga wnioski z informacji wcześniej pozyskanych od Użytkownika (np. gdy Mozilla wykorzystuje numer IP Użytkownika do ustawienia języka niektórych usług).
-
-### Do czego Mozilla wykorzystuje zebrane informacje?
-
-Otrzymane informacje osobowe Mozilla wykorzystuje wyłącznie w celu, na który
-Użytkownik wyraził zgodę. Generalnie, informacje o Użytkowniku są
-wykorzystywane w celu zapewnienia i udoskonalania produktów i usługi Mozilla.
-
-### Kiedy Mozilla przekazuje informacje podmiotom trzecim?
-
-1. Kiedy Użytkownik wyrazi zgodę na przekazanie informacji.
-2. Podczas przetwarzania lub zapewnienia produktów i usług Użytkownikowi, ale wyłącznie gdy podmioty, którym przekazywane są informacje Użytkownika są umownie zobowiązane do zarządzania otrzymanymi informacjami w sposób zaakceptowany przez Mozilla.
-3. Kiedy Mozilla realizuje swoją misję otwartości. Mozilla sporadycznie publikuje posiadane informacje, aby ulepszyć swoje produkty i przyczynić się do otwarcia sieci. W takich przypadkach informacje osobowe Użytkownika są usuwane i udostępniane w sposób, który minimalizuje ryzyko identyfikacji Użytkownika.
-4. Kiedy wymaga tego prawo. Mozilla jest zobowiązana przestrzegać prawa i ujawniać posiadane dane Użytkownika na każde żądania władz lub w związku z powództwem. Każdorazowo Mozilla powiadomi Użytkownika o przekazaniu jego informacji osobowych w powyższy sposób, o ile nie będzie to zakazane przez prawo. Po otrzymaniu wezwania do ujawnienia informacji osobowych Użytkownika Mozilla ujawnia je tylko wtedy, gdy jest przekonana, że spoczywa na niej taki obowiązek. Postanowienia niniejszej Polityki nie ograniczają możliwości podniesienia przez Użytkownika zarzutów lub wniesienia sprzeciwu wobec żądania osób trzecich dotyczącego udostępnienia informacji osobowych Użytkownika.
-5. Kiedy jest to niezbędne w celu zapewnienia bezpieczeństwa Użytkownika lub osoby trzeciej. Mozilla udostępnia informacje o Użytkowniku w powyższy sposób tylko jeżeli jest przekonana, że jest to niezbędne dla ochrony praw, własności lub bezpieczeństwa Użytkownika, którego dotyczą informacje, innych Użytkowników, Mozilla lub innych podmiotów.
-6. W przypadku zmian w odniesieniu do organizacji lub statusu Mozilla (w przypadku restrukturyzacji Mozilla, fuzji lub upadłości) informacje osobowe mogą zostać przekazane następcy prawnemu lub podmiotowi przejmowanemu.
-
-### Jak przechowujemy i zabezpieczamy informacje osobowe Użytkowników?
-
-Mozilla przykłada szczególną wagę do ochrony pozyskanych informacji osobowych
-Użytkowników. Mozilla wprowadza fizyczne, biznesowe i techniczne środki
-zabezpieczające. Jeżeli pomimo starań Mozilla, dojdzie do naruszenia
-bezpieczeństwa informacji osobowych, Mozilla powiadomi Użytkownika, aby mógł
-on przedsięwziąć odpowiednie kroki.
-
-Mozilla nie wykorzystuje informacji osobowych dłużej niż jest to konieczne.
-Mozilla przechowuje informacje osobowe tak długo, jak jest to konieczne dla
-osiągnięcia celu, w którym zostały one zebrane. Kiedy nie jest to już
-konieczne, Mozilla podejmuje kroki w celu usunięcia informacji osobowych, o
-ile właściwe prawo nie przewiduje obowiązku ich dłuższego przechowywania.
-
-### Co jeszcze powinien wiedzieć Użytkownik
-
-Mozilla jest organizacją o zasięgu globalnym a jej komputery rozmieszczone są
-w różnych miejscach na całym świecie. Ponadto, Mozilla współpracuje z
-usługodawcami, których komputery mogą znajdować się w innych miejscach niż
-komputery Mozilla. Oznacza to, że informacje osobowe Użytkownika mogą zostać
-zapisane na tych komputerze, zlokalizowanych w państwie, w którym obowiązuje
-inny poziom ochrony danych osobowych, niż w kraju Użytkownika. Powierzając
-informacje osobowe Mozilla, Użytkownik wyraża zgodę na dokonanie przekazania
-informacji osobowych do państw trzecich. Bez względu na to, w którym państwie
-znajdują się informacje osobowe Użytkownika, Mozilla przestrzega właściwych
-przepisów prawa oraz postępuje zgodnie z zobowiązaniami określonymi w
-niniejszej Polityce prywatności.
-
-Mozilla nie zbiera informacji od Użytkowników poniżej 13 roku życia,
-Użytkownicy poniżej 13 roku życia nie są zobowiązani do powierzania informacji
-o sobie Mozilla. Przedstawiciele prawni Użytkowników poniżej 13 roku życia,
-którzy podejrzewają, że Użytkownik taki przekazał Mozilla swoje informacje
-osobowe, są [proszeni o kontakt z](https://www.mozilla.org/privacy/policies/firefox-os/) Mozilla w celu usunięcia informacji osobowych
-dziecka.
-
-### Co jeśli nastąpi zmiana niniejszej Polityki prywatności?
-
-W wypadku gdy niniejsza Polityka prywatności ulegnie zmianie, Użytkownicy
-zostaną o tym powiadomieni.
-

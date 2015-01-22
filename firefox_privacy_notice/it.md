@@ -43,7 +43,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 * Statistiche d’uso (chiamate anche "telemetria" nelle versioni non “release”)
   {: #telemetry .inproduct-link}
 
-	Le statistiche d’uso, o "telemetria", sono una funzione di Firefox che invia a Mozilla statistiche su uso, prestazioni e reattività delle funzioni di interfaccia utente, memoria e configurazione hardware. Anche l’indirizzo IP dell’utente viene raccolto quale parte di un registro web standard. Le statistiche d’uso sono trasmesse utilizzando una connessione SSL e ci aiutano a migliorare le future versioni di Firefox. Una volta inviate a Mozilla, le statistiche d’uso vengono aggregate e rese disponibili a una vasta gamma di sviluppatori, inclusi dipendenti di Mozilla e collaboratori pubblici.
+	Le statistiche d’uso, o "telemetria", sono una funzione di Firefox che invia a Mozilla statistiche su uso, prestazioni e reattività delle funzioni di interfaccia utente, memoria e configurazione hardware. Anche l’indirizzo IP dell’utente viene raccolto quale parte di un registro web standard. Le statistiche d’uso sono trasmesse utilizzando una connessione SSL e ci aiutano a migliorare le future versioni di Firefox. Una volta inviate a Mozilla, le statistiche d’uso vengono aggregate e rese disponibili a una vasta gamma di sviluppatori, inclusi dipendenti di Mozilla e collaboratori pubblici. Se la telemetria è abilitata, alcuni esperimenti a breve termine possono raccogliere informazioni sui siti visitati.
 
 	Questa funzione è attivata per impostazione predefinita nelle build Nightly, Aurora e Beta di Firefox per aiutare gli utenti a fornire commenti a Mozilla. Nella versione “release” di Firefox, questa funzione è disattivata per impostazione predefinita.
 
