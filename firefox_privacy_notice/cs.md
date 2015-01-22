@@ -43,7 +43,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * Statistika používání (u nevydaných verzí rovněž označovaná jako "Telemetrie")
   {: #telemetry .inproduct-link}
 
-	Statistika používání neboli „Telemetrie”  je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcí rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti.
+	Statistika používání neboli „Telemetrie”  je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcí rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti. Pokud je aktivována volba Telemetrie, některé krátkodobé experimenty mohou shromažďovat informace o navštívených stránkách.
 
 	Tato funkce je ve výchozím nastavení zapnuta ve službách Nightly, Aurora a Beta buildy Firefoxu, aby pomohla uživatelům poskytovat Mozille zpětnou vazbu. V obecné verzi Firefoxu je tato funkce ve výchozím nastavení vypnuta.
 

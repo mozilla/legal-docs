@@ -43,7 +43,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 * Statistike o korištenju (nazvane i „telemetrija“ u neizdanim međuverzijama)
   {: #telemetry .inproduct-link}
 
-	Statistika o korištenju ili „telemetrija“ značajka je Firefoxa koja šalje Mozilli statistike o korištenju, radu i odzivu funkcija sučelja, memorije i konfiguracije hardvera. Vaša IP adresa također se prikuplja kao dio standardnog web-zapisnika. Statistika o korištenju prenosi se SSL-om i pomaže nam u poboljšavanju budućih verzija Firefoxa. Kada se pošalje Mozilli, statistika o korištenju prikuplja se i stavlja na raspolaganje širem krugu razvojnih programera, uključujući zaposlenike Mozille i vanjske suradnike.
+	Statistika o korištenju ili „telemetrija“ značajka je Firefoxa koja šalje Mozilli statistike o korištenju, radu i odzivu funkcija sučelja, memorije i konfiguracije hardvera. Vaša IP adresa također se prikuplja kao dio standardnog web-zapisnika. Statistika o korištenju prenosi se SSL-om i pomaže nam u poboljšavanju budućih verzija Firefoxa. Kada se pošalje Mozilli, statistika o korištenju prikuplja se i stavlja na raspolaganje širem krugu razvojnih programera, uključujući zaposlenike Mozille i vanjske suradnike. Kada je omogućena telemetrija, određena kratka ispitivanja mogu prikupljati informacije o posjećenim mrežnim mjestima.
 
 	Ova je značajka uključena po zadanoj postavci u međuverzijama Firefoxa Nightly, Aurora i Beta, kako bi njihovi korisnici mogli poslati povratnu informaciju Mozilli. U općoj verziji izdanja Firefoxa, ova je značajka po zadanoj postavci isključena.
 
