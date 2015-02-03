@@ -9,7 +9,7 @@ jedoch die gesamte Vereinbarung lesen, weil Sie sich durch Ihre Zustimmung mit
 den gesamten Nutzungsbedingungen einverstanden erklären und nicht bloß mit der
 folgenden Zusammenfassung:
 
-- Sie müssen mindestens 18 Jahre alt sein, um eine Konto auf dem Firefox Marketplace eröffnen zu dürfen. Sind Sie noch keine 18 Jahre alt, benötigen Sie die Zustimmung der/eines Erziehungsberechtigten, die/der Ihre Nutzung des Marktplatzes beaufsichtigt.
+- Sie müssen mindestens 18 Jahre alt sein, um ein Konto auf dem Firefox Marketplace eröffnen zu dürfen. Sind Sie noch keine 18 Jahre alt, benötigen Sie die Zustimmung der/eines Erziehungsberechtigten, die/der Ihre Nutzung des Marktplatzes beaufsichtigt.
 - Die Nutzung Ihrer Daten durch uns erfolgt im Einklang mit unserer [Datenschutzerklärung für den Firefox Marketplace](/media/docs/privacy/de.html). Apps oder Add-ons Dritter können eigene Datenschutzerklärungen enthalten.
 - Ausschließlich die Entwickler (nicht Mozilla) sind für ihre App oder ihr Add-on verantwortlich, einschließlich des Anbietens von Hilfestellungen.
 - Verhalten Sie sich gesetzestreu und tun Sie nichts, was uns oder anderen schaden könnte.
@@ -192,7 +192,7 @@ Wenn Sie die erforderlichen Inhalte in der DMCA-Mitteilung nicht angeben, kann
 Mozilla davon absehen, Maßnahmen zu ergreifen.
 
 Mozilla wird das Konto eines Nutzers sperren, wenn der Nutzer – unter
-angemessenen Umständen - als Wiederholungstäter anzusehen ist.
+angemessenen Umständen – als Wiederholungstäter anzusehen ist.
 
 Die oben genannte Kontaktadresse gilt auch für solche Mitteilungen, die sich
 auf Verletzungen anderer als der US-amerikanischen Urheber- oder Markenrechte beziehen.
@@ -365,7 +365,7 @@ Vertragsgegenstand die gesamte Vertragsbeziehung zwischen den Parteien. Sie
 gehen allen vorherigen oder begleitenden Vereinbarungen bezüglich des vorliegenden
 Vertragsgegenstandes vor. Sofern eine Vorschrift dieser Geschäftsbedingungen
 aus einem bestimmten Grund als unwirksam oder nicht durchsetzbar betrachtet
-wird, bleiben übrigen Regelungen davon unberührt. Die unwirksamen oder nicht
+wird, bleiben die übrigen Regelungen davon unberührt. Die unwirksamen oder nicht
 durchsetzbaren Regelungen sollen durch eine einvernehmlich getroffene,
 wirksame und durchsetzbare Regelung ersetzt werden. Inhaltlich soll sich die
 neue Regelung an den ursprünglichen Absichten der Parteien orientieren und den
@@ -375,7 +375,7 @@ Geschäftsbedingungen beeinflusst in keiner Art und Weise das Recht dieser
 Partei, diese Rechte zu einem späteren Zeitpunkt zu beanspruchen bzw.
 durchzusetzen. Der Verzicht einer Partei auf die Durchsetzung ihrer Rechte
 aufgrund der Verletzung einer Klausel dieser Geschäftsbedingungen in einem
-oder mehreren Fällen, gilt nicht als Verzicht auf die künftige Geltendmachung
+oder mehreren Fällen gilt nicht als Verzicht auf die künftige Geltendmachung
 einer solchen Verletzung oder von anderen Klauseln dieser
 Geschäftsbedingungen. Dabei ist unerheblich, wie dieser Verzicht ausgeübt
 wurde.
