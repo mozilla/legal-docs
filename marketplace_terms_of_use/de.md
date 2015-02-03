@@ -1,4 +1,4 @@
-3. Juli 2013
+3\. Juli 2013
 
 ### Zusammenfassung
 
