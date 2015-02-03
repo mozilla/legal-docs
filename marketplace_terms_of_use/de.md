@@ -6,7 +6,7 @@ Im folgenden Abschnitt finden Sie eine Zusammenfassung der weiter unten
 dargestellten geltenden Geschäftsbedingungen. Die Informationen, die Sie dem
 folgenden Abschnitt entnehmen können, dienen als Verständnishilfe. Sie sollten
 jedoch die gesamte Vereinbarung lesen, weil Sie sich durch Ihre Zustimmung mit
-den gesamten Nutzungsbedingungen einverstanden erklären und nicht bloß mit der
+den gesamten Nutzungsbedingungen einverstanden erklären und nicht nur mit der
 folgenden Zusammenfassung:
 
 - Sie müssen mindestens 18 Jahre alt sein, um ein Konto auf dem Firefox Marketplace eröffnen zu dürfen. Sind Sie noch keine 18 Jahre alt, benötigen Sie die Zustimmung der/eines Erziehungsberechtigten, die/der Ihre Nutzung des Marktplatzes beaufsichtigt.
@@ -87,7 +87,7 @@ Mozilla. Aus diesem Grund müssen Hilfeanfragen im Zusammenhang mit den
 Marktplatzinhalten an den jeweiligen Entwickler dieser Marktplatzinhalte
 gerichtet werden. Für Hilfeanfragen bezüglich erworbener Marktplatzinhalte wenden
 Sie sich an den jeweiligen Entwickler der Marktplatzinhalte, den Sie über die
-auf der Entwicklerseite des entsprechenden Marktplatzinhaltes angegebenen
+auf der Entwicklerseite des entsprechenden Marktplatzinhaltes aufgeführten
 Angaben kontaktieren können.
 
 Sie können zudem Hilfestellung von dem Mobilfunkbetreiber erfragen,
@@ -118,7 +118,7 @@ als Nutzer müssen Sie personenbezogene Daten (wie Identifikations- und
 Kontaktdaten) angeben. Wir werden mit Ihren Daten wie in der
 [Marketplace-Datenschutzerklärung](/media/docs/privacy/de.html) beschrieben umgehen.
 
-Die Firefox Marketplace Datenschutzerklärung gilt nur für den Firefox
+Die Firefox-Marketplace-Datenschutzerklärung gilt nur für den Firefox
 Marketplace und nicht für die einzelnen Marktplatzinhalte. Sie sollten die
 Datenschutzerklärung des jeweiligen Marktplatzinhaltes vor dem Kauf, der
 Installation oder der Nutzung der Marktplatzinhalte überprüfen, um sich über
@@ -128,7 +128,7 @@ entscheiden, ob Sie damit einverstanden sind.
 Wenn Sie der Meinung sind, dass
 sich ein Entwickler nicht an die [Geschäftsbedingungen der Entwicklervereinbarung
 des Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) oder dessen Nutzungsbedingungen
-hält, teilen Sie uns dies bitte über den Link „Missbrauchsbericht“ für den
+hält, teilen Sie uns dies bitte über den Link „Missbrauch melden“ für den
 jeweiligen Marktplatzinhalt mit, sodass wir Untersuchungen beginnen und
 angemessene Maßnahmen ergreifen können.
 
@@ -215,7 +215,7 @@ Markenrechte verletzen, teilen Sie dies bitte per E-Mail, Post oder Fax
 unverzüglich Mozillas Urheberrechtsbeauftragtem unter Beifügung der oben für
 DMCA-Mitteilungen aufgeführten Informationen mit („Markenrechtsmitteilung“).
 Mitteilungen über Markenrechtsverletzungen werden von Mozilla in einem
-ähnlichen Prozess gehandhabt, wie oben für DCMA-Mitteilungen beschrieben
+ähnlichen Prozess gehandhabt, wie er oben für DCMA-Mitteilungen beschrieben
 wurde. Zusätzlich zu den Modalitäten der DMCA-Mitteilung verlangen wir, dass
 die gesamte Markenrechtsmitteilung durch den Markenrechtsinhaber (oder seinen
 Vertreter) unter eidesstattlicher Versicherung abgegeben wird.
@@ -295,7 +295,7 @@ Zur Klarstellung weisen wir Sie darauf hin, dass der in diesem Abschnitt
 benutzte Begriff „Inhalt“ „Marktplatzinhalte“ einschließt, nicht aber darauf
 beschränkt ist.
 
-SOFERN NICHT AUSDRÜCKLICH ANDERS IN EINEM VERTRAG, EINSCHLIEßLICH EINES
+SOFERN NICHT AUSDRÜCKLICH ANDERS IN EINEM VERTRAG, EINSCHLIESSLICH EINES
 LIZENZVERTRAGES, ABER NICHT HIERAUF BESCHRÄNKT, ODER IN EINEM ANDEREN VERTRAG,
 DER DIE NUTZUNG BESTIMMTER INHALTE REGELT, BESTIMMT, WIRD DER GESAMTE INHALT
 DES FIREFOX MARKETPLACE UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG („WIE
