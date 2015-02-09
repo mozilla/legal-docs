@@ -21,6 +21,8 @@ Firefox’s default home page (&lt;about:home&gt;) loads small bits of informati
 
 To help display relevant snippets, your Firefox browser sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to your Firefox browser, where it’s stored locally. Your Firefox browser will then choose snippets to show you based on the locally stored country information.
 
+Some Mozilla sponsored snippets are interactive and allow you to optionally share your phone number or email address.  For example, you can enter your phone number to receive an SMS to install Firefox on Android.  Your information is received and handled by our email and mobile marketing vendor. 
+
 ### To provide Firefox Health Report {: #health-report .inproduct-link }
 
 Firefox Health Report (“FHR”) is designed to provide you with insights about your browser’s stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users to send it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
@@ -45,6 +47,9 @@ See [here](https://support.mozilla.org/en-US/kb/send-performance-data-improve-fi
 
 Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, URLs, locale information and tile specific data (e.g., position and size of grid).
 
+###Default Search
+To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
+
 ---------------------------------------
 
 When you ask it to, Firefox also connects to Mozilla to provide the following features:
@@ -60,6 +65,8 @@ Firefox has a feature that allows sites to request your location (e.g., to allow
 ### Crash reporting {: #crash-reporter .inproduct-link }
 
 You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at [http://crash-stats.mozilla.com/](http://crash-stats.mozilla.com/.). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
+
+###SSL Errors: You have the option to send Mozilla an error report when a secure website connection is broken. This report records the website certificate as well as diagnostic error codes. This information helps Mozilla monitor the effectiveness of "pinned" website certificates and detect potential phishing attacks against our users
 
 ### Get Add-ons Page {: #get-addons }
 
