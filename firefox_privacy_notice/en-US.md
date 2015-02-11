@@ -23,6 +23,8 @@ Firefox automatically connects to us and our service providers to provide update
 	Firefox's default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these "snippets". About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla aggregates how often snippets are clicked, snippet name, browser locale, and which version of Firefox you're using.
 
 	To help display relevant snippets, Firefox sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally.  Firefox will then choose snippets to show you based on the locally stored country information.
+	
+	Some Mozilla sponsored snippets are interactive and allow you to optionally share your phone number or email address. For example, you can enter your phone number to receive an SMS to install Firefox on Android. Your information is received and handled by our email and mobile marketing vendor.
 
 * Firefox Health Report
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox automatically connects to us and our service providers to provide update
 * Tiles 
 
 	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information and tile specific data (e.g., position and size of grid). In Firefox Beta, certain short-term Telemetry experiments (see above) for Tiles may collect information about commonly visited domains.
+	
+* Default Search
+	To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 
 * **Crash reporting**: You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
 {: #crash-reporter .inproduct-link }
+
+* **SSL Errors**: You have the option to send Mozilla an error report when a secure website connection is broken. This report records the website certificate as well as diagnostic error codes. This information helps Mozilla monitor the effectiveness of "pinned" website certificates and detect potential phishing attacks against our users.
 
 * **Add-ons**: Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
 {: #addons }
