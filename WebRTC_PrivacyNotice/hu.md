@@ -1,6 +1,6 @@
 # Firefox Hello Adatvédelmi tájékoztató
 
-2014. november 25.
+2014\. november 25.
 {: datetime="2014-11-25" }
 
 Fontos számunkra az Ön adatainak védelme. A Hello információkat küld a Mozilla vállalatnak (azaz nekünk), ezek felhasználásáról Mozilla Adatvédelmi Irányelveinkben olvashat.
