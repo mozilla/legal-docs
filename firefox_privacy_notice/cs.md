@@ -23,6 +23,8 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 	Domovská stránka Firefoxu (&lt;about:home&gt;) načítá malé množství informací hned pod vyhledávací lištou, o kterých se domníváme, že pro vás mohou být užitečné. Nazýváme je "snippets". Přibližně jednou za den Firefox kontaktuje Mozillu a poskytne vám nové snippets, jsou-li k dispozici. Mozilla shromažďuje informace, jak často bylo na snippets kliknuto, název snippet, umístění prohlížeče a v jakou verzi Firefoxu používáte.
 
 	Za účelem pomoci zobrazení relevantních snippets Firefox zasílá Mozille měsíčně požadavek, aby zjistila, v které zemi se nacházíte, a to za pomoci vaší IP adresy. Tuto informaci o státě místa pohybu zasíláme zpět Firefoxu, který je uchovává lokálně.  Firefox poté na základě lokálně uchovávané informace o státě zvolí snippets, které se vám mají zobrazit.
+	
+	Některé snippety sponzorované společností Mozilla jsou interaktivní a umožňují vám možnost sdílení vašeho telefonního čísla nebo e-mailové adresy. Například při instalaci Firwfoxu na zařízení Android můžete zadat vaše telefonní číslo pro doručení SMS. Vaše informace obdrží a zpracuje váš prodejce e-mailového a mobilního marketingu.
 
 * Hlášení o stavu Firefoxu
   {: #health-report .inproduct-link } 
@@ -52,7 +54,9 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * Dlaždice
 
 	Dlaždice jsou funkce Firefoxu zobrazené na nových záložkách stránek. Za účelem zajištění lepších funkcí dlaždice Firefox zasílá Mozille data vztahující se k dlaždicím, jako je počet kliknutí, dojmy, vaše IP adresa, informace o poloze a zvláštní údaje k dlaždicím (např. umístění a velikost mřížky). Ve verzi Firefox Beta mohou některé krátkodobé Telemetrické pokusy (viz výše) pro Dlažnice shromažďovat informace o často navštěvovaných doménách.
-
+	
+* Výchozí vyhledávání
+	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi.
 
 ---------------------------------------
 
@@ -67,6 +71,8 @@ Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako
 
 * **Hlášení o pádu**: Po pádu Firefox máte možnost zaslat Mozille hlášení o pádu. Toto hlášení obsahuje technické informace pro nás pro účely vylepšení Firefoxu, včetně toho, proč Firefox spadl, aktivní URL v době pádu a stav paměti počítače během pádu. Toto hlášení o pádu, které obdržíme, může zahrnovat osobní údaje. Části hlášení o pádu zveřejňujeme na <https://crash-stats.mozilla.com/>. Před zveřejněním hlášení o pádu přijímáme opatření k automatické úpravě osobních údajů. Případné informace poskytnuté vámi v poli komentářů nijak neupravujeme.
 {: #crash-reporter .inproduct-link }
+
+* **Chyby SSL**: V případě přerušení zabezpečeného připojení na webové stránky máte možnost zaslat společnosti Mozilla chybovou hlášku. Tato hláška zaznamenává certifikát webové stránky, jakož i diagnostické chybové kódy. Tato informace pomáhá společnosti Mozilla monitorovat efektivitu „vložených” certifikátů webových stránek a zjišťovat potenciální útoky typu phishing proti našim uživatelům.
 
 * **Přídavné funkce**: Firefox nabízí ve správci přídavných funkcí stránku Get Add-on (stáhněte si přídavné funkce), který třídí populární přídavné funkce a zobrazuje přizpůsobená doporučení na základě přídavných funkcí, které jste již instalovali. Za účelem zobrazení přizpůsobených doporučení Firefox zasílá informace Mozille, včetně seznamu přídavných funkcí, které jste si instalovali, informace o verzi Firefoxu a vaší IP adrese. K této komunikaci dochází pouze tehdy, když je oblast Get Add-ons otevřená a může být vypnuta dle následujících [pokynů](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Správce přídavných funkcí ve Firefoxu má vyhledávací pole, kam můžete uvést klíčová slova za účelem hledání, a Mozilla shromažďuje tato vyhledávání klíčových slov, jakož i informace o vaší verzi Firefoxu, poloze a operačním systému, aby vám zobrazil doporučení.
 {: #addons }

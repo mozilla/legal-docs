@@ -23,6 +23,8 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 	La page d'accueil par défaut de Firefox (&lt;about:home&gt;) charge de petits fragments d'informations juste au-dessous de la barre de recherche, informations susceptibles, selon nous, de vous être utiles. Nous les appelons « snippets ». Environ une fois par jour, Firefox se connecte à Mozilla pour vous fournir de nouveaux snippets, s'il y en a. Mozilla rassemble les informations sur le nombre de fois où vous avez cliqué sur les snippets, le nom des snippets, les paramètres régionaux du navigateur et la version de Firefox que vous utilisez.
 
 	Afin d'afficher des snippets pertinents, Firefox envoie mensuellement à Mozilla une requête pour trouver votre emplacement au niveau du pays en utilisant votre adresse IP. Nous retournons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Firefox choisira alors les snippets à afficher pour vous en fonction des informations sur les pays stockées localement.
+	
+	Certains petits articles de Mozilla sont interactifs et vous donnent la possibilité de partager votre numéro de téléphone et votre adresse de courrier électronique. Par exemple, vous pouvez entrer votre numéro de téléphone pour recevoir un SMS pour installer Firefox sur Android. Vos informations sont reçues et traitées par notre fournisseur de courrier électronique et de marketing mobile.
 
 * Bilan de santé de Firefox
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 * Tuiles 
 
 	Les tuiles sont une fonctionnalité de Firefox ; elles s'affichent dans les nouvelles pages d'onglets. Pour fournir cette fonctionnalité de tuiles, Firefox envoie à Mozilla des données relatives aux tuiles, telles que le nombre de clics et d'impressions, votre adresse IP, des informations linguistiques et régionales et des données spécifiques aux tuiles (par exemple, position et taille de grille). Dans Firefox Beta, certaines expériences de télémétrie à court terme (voir ci-dessus) pour les tuiles peuvent recueillir des informations à propos des domaines fréquemment visités.
+	
+* Recherche par défaut
+	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Lorsque vous le demandez, Firefox se connecte aussi à Mozilla pour vous fournir
 
 * **Rapports de « plantage »** : Vous avez la possibilité de transmettre à Mozilla un rapport de « plantage » suite à une défaillance de Firefox. Ce rapport contient des renseignements techniques qui nous permettent d'améliorer Firefox, et notamment de connaître les raisons du « plantage » de Firefox, l'adresse URL active au moment du « plantage » et l'état de la mémoire de l'ordinateur pendant ce fâcheux incident. Le rapport de « plantage » que nous recevons peut contenir des informations personnelles. Nous publions des portions de rapports de « plantage » sur la page <https://crash-stats.mozilla.com/>. Avant de publier les rapports de « plantage », nous prenons des mesures pour censurer automatiquement les informations personnelles. Nous ne censurons aucune information que vous avez écrite dans la boîte de commentaires.
 {: #crash-reporter .inproduct-link }
+
+* **Erreurs SSL ** : Vous avez la possibilité d'envoyer à Mozilla un rapport d'erreur lorsqu'une connexion à un site Web sécurisé est perdue. Ce rapport enregistre le certificat du site Web ainsi que les codes d'erreur de diagnostic. Ces informations permettent à Mozilla de surveiller l'efficacité des certificats de sites Web « épinglés » et de détecter des attaques d’hameçonnage potentielles contre nos utilisateurs.
 
 * **Modules** : Le Gestionnaire des modules de Firefox fournit dans sa page Catalogue (Get Add-ons) une liste des modules courants et affiche des recommandations personnalisées en fonction des modules que vous avez déjà installés. Pour afficher les recommandations personnalisées, Firefox envoie les informations à Mozilla, y compris la liste des modules que vous avez installés, la version de Firefox et votre adresse IP. Cette communication ne se produit que lorsque la page Catalogue est ouverte, et elle peut être désactivée en suivant [ces instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Le gestionnaire des modules de Firefox contient un champ de recherche où vous pouvez entrer des mots clés pour effectuer des recherches. Mozilla recueille ces recherches par mot clé, ainsi que la version, les paramètres régionaux de Firefox et le système d'exploitation pour afficher à votre intention ces recommandations.
 {: #addons }

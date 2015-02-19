@@ -23,6 +23,8 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 	Na standardnoj početnoj stranici pretraživača Firefox (&lt;about:home&gt;) učitavaju se određene informacije odmah ispod trake za pretragu za koje verujemo da vam mogu biti korisne. Zovemo ih „isečci“. Otprilike jednom dnevno, Firefox se povezuje sa sajtom Mozilla i pruža vam nove isečke, ako postoje. Mozilla prikuplja podatke o tome koliko se često klikne na isečke, o nazivu isečaka, jeziku pretraživača i o tome koju verziju pretraživača Firefox koristite.
 
 	U cilju prikazivanja relevantnih isečaka, Firefox šalje sajtu Mozilla mesečni zahtev da pogleda vašu lokaciju na nivou zemlje koristeći vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno.  Firefox zatim bira koje isečke da vam prikazuje na osnovu lokalno uskladištenih podataka o zemlji.
+	
+	Neki od isečaka koje sponzoriše Mozilla su interaktivni i dozvoljavaju vam da opcionalno delite svoj broj telefona ili adresu e-pošte. Na primer, možete uneti svoj broj telefona da biste dobili SMS za instalaciju pregledača Firefox na uređaju Android. Vaše podatke prima i obrađuje naš dobavljač za mobilni marketing i e-poštu.
 
 * Izveštaj o oštećenjima pretraživača Firefox
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 * Pločice
 
 	Pločice predstavljaju opciju u okviru pretraživača Firefox koja se prikazuje na stranicama novih kartica. U cilju prikazivanja opcije pločica, Firefox šalje podatke kompaniji Mozilla u pogledu pločica, kao što su broj klikova, impresija, vaša IP adresa, podaci o jeziku i podaci koji se odnose konkretno na pločicu (npr. položaj i veličina mreže). U Beta verziji pretraživača Firefox, određeni kratkoročni telemetrijski eksperimenti (vidite gore) u slučaju Pločica mogu prikupljati informacije o najčešće posećivanim domenima.
+	
+* Standardna pretraga
+	U cilju odabira najboljeg standardnog pretraživača za Vašu lokaciju, Firefox jednom šalje sajtu Mozilla zahtev da pogleda Vašu lokaciju na nivou zemlje koristeći Vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koji pretraživač da koristi kao standardni na osnovu lokalno uskladištenih podataka o zemlji.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio 
 
 * **Izveštavanje o padovima**: Imate opciju da pošaljete kompaniji Mozilla izveštaj o padu nakon što pretraživač Firefox padne. Ovaj izveštaj sadrži tehničke informacije koje nam pomažu da unapredimo Firefox, uključujući razloge zbog kojih je došlo do pada pretraživača Firefox, aktivni URL u vreme pada i stanje računarske memorije tokom pada. Izveštaj o padu koji dobijemo može sadržati lične podatke. Delove izveštaja o padu javno objavljujemo na adresi <https://crash-stats.mozilla.com/>. Pre nego što javno objavimo izveštaje o padu, preduzimamo mere da automatski izbrišemo lične podatke. Ne brišemo ništa od onoga što eventualno napišete u polju za komentare.
 {: #crash-reporter .inproduct-link }
+
+* **SSL greške**: Imate opciju da pošaljete kompaniji Mozilla izveštaj o greškama kada dođe do narušavanja bezbedne veze sa nekim veb sajtom. U ovom izveštaju beleže se sertifikat veb sajta, kao i dijagnostički kodovi grešaka. Ove informacije pomažu kompaniji Mozilla da prati efektivnost „zakačenih“ sertifikata veb sajtova i da detektuje potencijalne napade krađe identiteta („phishing“) našim korisnicima.
 
 * **Dodaci**: Firefox nudi stranicu „Preuzmite dodatke“ u okviru „Menadžera dodataka“ na kojoj su dati popularni dodaci i prikazuje personalizovane preporuke na osnovu dodataka koje ste već instalirali. Radi prikazivanja personalizovanih preporuka, Firefox šalje informacije kompaniji Mozilla, uključujući i listu dodataka koje ste instalirali, podatke o verziji pretraživača Firefox i vašu IP adresu. Ova komunikacija se dešava samo kada je deo „Preuzmite dodatke“ otvoren, a može se isključiti tako što ćete pratiti [ova uputstva](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Menadžer dodataka u pretraživaču Firefox ima polje za pretragu u koje možete uneti ključne reči za pretraživanje, a Mozilla prikuplja pretrage po ovim ključnim rečima, kao i informacije o verziji pretraživača Firefox, jeziku i OS kako bi vam prikazao preporuke.
 {: #addons }
