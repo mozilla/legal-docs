@@ -23,6 +23,8 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 	A Firefox alapértelmezett kezdőlapja (&lt;about:home&gt;) közvetlenül a keresősáv alatt olyan rövid tájékoztatásokat jelenít meg, amelyeket az Ön számára hasznosnak ítélünk. Ezeket „kódrészleteknek” nevezzük. Körülbelül naponta egy alkalommal a Firefox csatlakozik a Mozillához és új kódrészleteket nyújt Önnek, ha vannak ilyenek. A Mozilla összesíti, hogy milyen gyakran kattintanak rá a kódrészletekre, a kódrészlet nevét, a böngésző területi beállításait és hogy a Firefox melyik verzióját használja.
 
 	Annak érdekében, hogy megfelelő kódrészleteket jelenítsen meg, a Firefox IP-címe segítségével havonta lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. A Firefox az Önnek megjelenő kódrészleteket a helyileg tárolt országszintű adat alapján fogja kiválasztani.
+	
+	Bizonyos a Mozilla által támogatott kódrészletek interaktív módon működnek és lehetőséget nyújtanak Önnek telefonszámai és e-mail címei megosztására. Például megadhatja a telefonszámát, erre kap egy sms-t, amellyel a Firefox-ot Android alkalmazásra is feltöltheti. Az Ön adatait az Ön e-mail és mobiltelefon szolgáltatója fogja megkapni és kezelni.
 
 * Firefox állapotjelentés
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 * Csempék
 
 	A csempe a Firefox által az új oldalakon megjelenített funkciót jelenti. A csempe funkció biztosítása érdekében a Firefox elküldi a Mozillának a csempékkel kapcsolatos adatokat, például a kattintások és megjelenítések számát, az Ön IP-címét, a területi beállításokra vonatkozó adatokat és a csempe specifikus adatokat (pl. a rács helyzete és mérete). A Firefox Beta változatánál bizonyos rövid távú Telemetriás kísérletek (lásd fenn) adatokat gyűjthetnek a gyakran látogatott domainekről a csempe funkcióhoz.
+	
+* Alapértelmezett keresés
+	Annak érdekében, hogy tartózkodási helyén a legjobb alapértelmezett keresőszolgáltatást válassza, a Firefox IP-címe segítségével egyszeri alkalommal lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. Ezután a helyileg tárolt országszintű adat alapján a Firefox kiválasztja, hogy melyik keresőszolgáltatást használja alapértelmezettként.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Az Ön kérésére is csatlakozik a Firefox a Mozillához, hogy Önnek funkciók
 
 * **Összeomlási jelentés**: Önnek lehetősége van rá, hogy a Firefox összeomlása után összeomlási jelentést küldjön a Mozillának. Ebben a jelentésben műszaki adatok szerepelnek, amelyek segítségével fejleszthetjük a Firefox-ot, beleértve a Firefox összeomlásának okát, az összeomlás idején aktív URL-t, és a számítógép memóriájának állapotát az összeomlás idején. Az összeomlási jelentés részeként személyes adatok is eljuthatnak hozzánk. Az összeomlási jelentések egyes részeit nyilvánosságra hozzuk itt: <https://crash-stats.mozilla.com/>. Az összeomlási jelentések közzétételét megelőzően lépéseket teszünk a személyes adatok automatikus kivonása érdekében. Nem távolítunk el semmit, amit Ön írt a megjegyzés mezőbe.
 {: #crash-reporter .inproduct-link }
+
+* **SSL hibák**: Önnek lehetősége van hibajelentést küldeni a Mozilla részére, ha biztonságos webhellyel szakadt meg a kapcsolat. Ez a jelentés magában foglalja a webhely tanúsítványát, valamint a diagnosztikai hibakódokat. Ezek az adatok segítik a Mozillát a „rögzített“ webhely tanúsítványok hatékonyságának nyomon követésében, és a felhasználói ellen irányuló esetleges adathalászati kísérletek észlelésében.
 
 * **Kiegészítők**: A Firefox a kiegészítőkezelő a népszerű kiegészítőket tartalmazó kiegészítők letöltése oldalát ajánlja, és személyes ajánlásokat jelenít meg az Ön által már telepített kiegészítőkre vonatkozóan. A személyes ajánlások megjelenítéséhez a Firefox adatokat küld a Mozillának, beleértve az Ön által telepített kiegészítők listáját, a Firefox verzióadatait és az Ön IP-címét. Erre a közlésre csak akkor kerül sor, ha a Kiegészítők letöltése terület meg van nyitva, és ki lehet kapcsolni a következő [utasításokat követve](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). A Firefox kiegészítőkezelője olyan keresési mezővel rendelkezik, amelyben megadhatja a keresés kulcsszavait, és a Mozilla összegyűjti ezeket a keresési kulcsszavakat, valamint az Ön Firefox verziójának adatait, területi beállításait, és operációs rendszerét, hogy ajánlásokat mutathasson Önnek.
 {: #addons }

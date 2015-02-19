@@ -23,6 +23,8 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 	Domyślna strona główna przeglądarki Firefox (&lt;about:home&gt;) wczytuje tuż pod paskiem wyszukiwania niewielkie porcje informacji, które naszym zdaniem mogą być przydatne dla użytkownika. Nazywamy je „wycinkami”. Około raz dziennie Firefox łączy się z firmą Mozilla i pobiera informacje o nowych wycinkach, jeśli są dostępne. Mozilla agreguje dane dotyczące częstotliwości kliknięć wycinków, ich nazw, ustawień regionalnych przeglądarki oraz używanej wersji Firefoksa.
 
 	Aby umożliwić wyświetlanie właściwych wycinków, Firefox co miesiąc wysyła do firmy Mozilla żądanie wyszukiwania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox dobiera wyświetlane użytkownikowi wycinki.
+	
+	Niektóre sponsorowane przez firmę Mozilla wycinki są interaktywne i umożliwiają opcjonalne udostępnienie numeru telefonu bądź adresu e-mail. Można na przykład podać numer telefonu, by otrzymać SMS-a w celu zainstalowania przeglądarki Firefox w systemie Android. Informacje użytkownika są odbierane i przetwarzane przez naszego dostawcę usług marketingowych dla urządzeń mobilnych i poczty e-mail.
 
 * Raport o kondycji przeglądarki Firefox
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 * Miniatury
 
 	Miniatury to funkcja przeglądarki Firefox wyświetlana na stronach nowych kart. Aby udostępniać funkcję miniatur, Firefox przesyła do firmy Mozilla powiązane z nimi dane, takie jak liczba kliknięć i wyświetleń, adres IP użytkownika, informacje o ustawieniach regionalnych i dane miniatur (np. położenie i rozmiar siatki). W przeglądarce Firefox Beta pewne krótkoterminowe eksperymenty związane z Telemetrią (patrz wyżej) dla funkcji Miniatury mogą zbierać informacje o często odwiedzanych domenach.
+	
+* Wyszukiwarka domyślna
+	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Jeśli użytkownik o to poprosi, Firefox łączy się także z firmą Mozilla,
 
 * **Zgłaszanie awarii**: po awarii przeglądarki Firefox użytkownik ma możliwość wysłania do firmy Mozilla raportu o awarii. Zawiera on informacje techniczne pozwalające nam udoskonalić przeglądarkę, w tym przyczynę awarii, aktywny adres URL oraz stan pamięci komputera w momencie awarii. Otrzymany przez nas raport o awarii może zawierać dane osobowe. Fragmenty raportów o awariach udostępniamy publicznie na stronie <https://crash-stats.mozilla.com/>. Przed ich opublikowaniem automatycznie usuwamy dane osobowe. Nie redagujemy treści, które użytkownicy wpisują w polu komentarzy.
 {: #crash-reporter .inproduct-link }
+
+* **Błędy SSL**: Po przerwaniu bezpiecznego połączenia z witryną użytkownik ma możliwość wysłania do firmy Mozilla raportu o błędzie. Raport zawiera certyfikat witryny oraz diagnostyczne kody błędów. Informacje te pomagają firmie Mozilla monitorować skuteczność „przypiętych” certyfikatów witryn i wykrywać potencjalne ataki mające na celu wyłudzenie danych osobowych naszych użytkowników.
 
 * **Dodatki**: Firefox udostępnia stronę Pobierz dodatki w Menedżerze dodatków. Zawiera ona popularne dodatki i wyświetla spersonalizowane rekomendacje na podstawie zainstalowanych już przez użytkownika dodatków. Aby wyświetlać spersonalizowane rekomendacje, Firefox wysyła do firmy Mozilla informacje, w tym listę zainstalowanych dodatków, informacje o wersji przeglądarki Firefox i adres IP użytkownika. Komunikacja ma miejsce tylko wtedy, gdy otwarty jest obszar Pobierz dodatki. Można ją wyłączyć, wykonując [te instrukcje](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). W Menedżerze dodatków w przeglądarce Firefox dostępne jest pole wyszukiwania, w którym można wprowadzać hasła do wyszukania. Mozilla zbiera informacje o wyszukiwanych hasłach, a także o wersji przeglądarki Firefox, ustawieniach regionalnych oraz systemie operacyjnym, by wyświetlać rekomendacje dla użytkownika.
 {: #addons }

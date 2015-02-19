@@ -23,6 +23,8 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 	La pagina iniziale predefinita di Firefox (&lt;about:home&gt;) visualizza informazioni che riteniamo utili per gli utenti in uno spazio di piccole dimensioni posizionato sotto alla barra di ricerca. Chiamiamo questi elementi “snippet”. Almeno una volta al giorno, Firefox si collega a Mozilla per visualizzare nuovi snippet, se disponibili. Mozilla aggrega i dati relativi alla frequenza con cui si fa clic sugli snippet, il nome degli snippet, le impostazioni della lingua del browser e la versione di Firefox che si sta utilizzando.
 
 	Per visualizzare snippet utili per gli utenti, Firefox invia ogni mese a Mozilla una richiesta con la posizione a livello di nazione, rilevata sulla base dell’indirizzo IP. Successivamente, reinviamo le informazioni sulla nazione a Firefox, che le memorizza localmente. Firefox, infine, sceglierà gli snippet da visualizzare in base alle informazioni sulla nazione memorizzate localmente.
+	
+	Alcuni snippet sponsorizzati da Mozilla sono interattivi e permettono, facoltativamente, di condividere il proprio numero telefonico o indirizzo e-mail. Ad esempio, è possibile inserire il proprio numero telefonico per ricevere un SMS per l’installazione di Firefox su Android. Le informazioni vengono gestite dal nostro fornitore di servizi marketing e-mail e mobili.
 
 * Analisi integrità di Firefox
   {: #health-report .inproduct-link }
@@ -52,6 +54,9 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 * Riquadri
 
 	I riquadri sono una funzione di Firefox visualizzata quando si apre una nuova scheda. Per fornire questa funzione, Firefox invia a Mozilla dati relativi ai riquadri, quali numero di clic, visualizzazioni, l’indirizzo IP, le informazioni sulla lingua corrente e i dati specifici sui riquadri (ad es. posizione e dimensioni della griglia). In Firefox Beta, alcuni esperimenti di telemetria a breve termine (vedere sopra) sui riquadri possono raccogliere informazioni sui domini normalmente visitati.
+	
+* Motore di ricerca predefinito
+	Per facilitare la scelta del migliore motore di ricerca predefinito per la propria località, Firefox invia a Mozilla una richiesta di ricerca della posizione dell’utente a livello di paese, utilizzando l’indirizzo IP. Successivamente, le informazioni a livello paese vengono reinviate a Firefox, che le memorizza localmente. Firefox sceglierà quindi il motore di ricerca da utilizzare come predefinito, sulla base delle informazioni sul paese memorizzate localmente.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Se richiesto dall’utente, Firefox si connette a Mozilla per fornire funzioni q
 
 * **Invio segnalazioni**: è possibile scegliere di inviare una segnalazione a Mozilla in seguito a un arresto anomalo di Firefox. Tale segnalazione contiene informazioni tecniche che serviranno a migliorare Firefox, incluso il motivo dell’arresto, l’URL attivo al momento dell’arresto e lo stato della memoria del computer durante l’arresto. La segnalazione dell’arresto che riceveremo potrà includere informazioni personali. Rendiamo parti delle segnalazioni disponibili al pubblico alla pagina <https://crash-stats.mozilla.com/>. Prima di pubblicare le segnalazioni di arresto, adottiamo misure per rimuovere automaticamente le informazioni personali. Le informazioni inserite nella sezione dedicati ai commenti non vengono rimosse.
 {: #crash-reporter .inproduct-link }
+
+* **Errori SSL**: È possibile inviare a Mozilla una segnalazione di errore quando si interrompe la connessione a un sito web sicuro. Tale segnalazione registra il certificato del sito web, così come eventuali codici di errore diagnostici. Queste informazioni aiutano Mozilla a monitorare l’efficacia di certificati di siti web “bloccati” e a rilevare potenziali attacchi di phishing indirizzati ai propri utenti.
 
 * **Componenti aggiuntivi**: Firefox offre una pagina Esplora nel Gestore componenti aggiuntivi che presenta componenti aggiuntivi popolari e visualizza consigli personalizzati in base ai componenti già installati. Per visualizzare i consigli personalizzati, Firefox invia informazioni a Mozilla, incluso l’elenco dei componenti aggiuntivi installati, informazioni sulla versione di Firefox e indirizzo IP. Questa comunicazione avviene solo quando l’area Esplora è aperta e può essere disattivata seguendo [queste istruzioni](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Il Gestore dei componenti aggiuntivi di Firefox dispone di un campo di ricerca in cui si possono inserire delle parole chiave per eseguire ricerche; Mozilla raccoglie queste ricerche mediante parole chiave, oltre a informazioni sulla versione di Firefox, la lingua corrente e il sistema operativo in uso, per mostrare i consigli.
 {: #addons }

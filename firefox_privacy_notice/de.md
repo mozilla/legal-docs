@@ -23,6 +23,8 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 	Die Standard-Homepage von Firefox (&lt;about:home&gt;) lädt direkt unterhalb der Suchleiste kleine Informationseinheiten, die unserer Meinung nach für Sie nützlich sein können. Diese nennen wir „Snippets“. Ungefähr einmal am Tag stellt Firefox eine Verbindung mit Mozilla her und liefert Ihnen ggf. neue Snippets (falls vorhanden). Mozilla erfasst, wie oft auf Snippets geklickt wird, den Snippet-Namen, die Sprache der Oberfläche und welche Version von Firefox Sie verwenden.
 
 	Damit nur relevante Snippets angezeigt werden, sendet Firefox eine monatliche Anfrage an Mozilla, um Ihren Ort auf Landesebene mithilfe Ihrer IP-Adresse zu ermitteln. Dann senden wir die Information über Ihre Landesebene zurück an Firefox, wo sie lokal gespeichert wird. Firefox wählt dann anhand der lokal gespeicherten Landesinformation Snippets zur Anzeige aus.
+	
+	Einige von Mozilla gesponserte Snippets sind interaktiv und ermöglichen Ihnen, wahlweise Ihre Telefonnummer oder E-Mail-Adresse freizugeben. Sie können z. B. Ihre Telefonnummer eingeben, um eine SMS zur Installation von Firefox auf Android zu erhalten. Ihre Informationen gehen an unseren E-Mail- und Mobilmarketing-Anbieter und werden von diesem bearbeitet.
 
 * Firefox-Statusbericht
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * Kacheln
 
 	Kacheln sind eine Firefox-Funktion, das auf neuen Tab-Seiten angezeigt wird. Um die Kachelfunktion bereitzustellen, sendet Firefox Daten über die Kacheln an Mozilla, wie z. B. die Anzahl der Klicks, Anzeigehäufigkeit, Ihre IP-Adresse, Informationen zur Sprache der Benutzeroberfläche und kachelspezifische Daten (z. B. Position und Größe des Rasters). In Firefox Beta können bestimmte kurzzeitige Telemetrie-Versuche (siehe oben) für Kacheln Informationen zu häufig besuchten Domains erfassen.
+	
+* Standardsuche
+	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergeste
 
 * **Absturzberichte**: Sie haben die Option, Mozilla einen Absturzbericht zu senden, wenn Firefox abgestürzt ist. Dieser Bericht enthält technische Informationen, mit denen wir Firefox verbessern können, zum Beispiel den Grund für den Absturz, die zum Absturzzeitpunkt aktive Adresse (URL) und den Zustand des Computerspeichers während des Absturzes. Der Absturzbericht, den wir erhalten, kann persönliche Informationen enthalten. Wir stellen Teile der Absturzberichte unter <https://crash-stats.mozilla.com/> der Öffentlichkeit zur Verfügung. Bevor Absturzberichte veröffentlicht werden, unternehmen wir Schritte, um persönliche Informationen automatisch zu entfernen. Wir entfernen nichts, was Sie eventuell in das Kommentarfeld geschrieben haben.
 {: #crash-reporter .inproduct-link }
+
+* **SSL-Fehler**: Sie können Mozilla einen Fehlerbericht senden, wenn eine Verbindung mit einer sicheren Website unterbrochen wurde. In diesem Bericht werden das Website-Zertifikat sowie diagnostische Fehlercodes aufgezeichnet. Mithilfe dieser Informationen kann Mozilla die Effektivität von per Zertifikat-Pinning festgelegten Website-Zertifikaten überwachen und potentielle Phishing-Angriffe auf unsere Benutzer erfassen.
 
 * **Add-ons**: Firefox bietet im Add-ons-Manager die Seite „Add-ons suchen“. Hier können Sie beliebte Add-ons abrufen und es werden personalisierte Empfehlungen angezeigt, die auf den bereits von Ihnen installierten Add-ons basieren. Um die personalisierten Empfehlungen anzuzeigen, sendet Firefox Informationen an Mozilla, darunter die Liste der von Ihnen installierten Add-ons, Firefox-Versionsinformationen und Ihre IP-Adresse. Diese Kommunikation erfolgt nur, wenn der Bereich zum Abrufen von Add-ons geöffnet ist, und kann mithilfe [dieser Anweisungen](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) deaktiviert werden. Der Add-ons-Manager in Firefox weist ein Suchfeld auf, in das Sie Schlüsselbegriffe für die Suche eingeben können. Mozilla erfasst diese Schlüsselwortsuche sowie Ihre Firefox-Versionsinformationen, die Sprache Ihrer Oberfläche und Betriebssystem, um speziell auf Sie zugeschnittene Empfehlungen anzuzeigen.
 {: #addons }

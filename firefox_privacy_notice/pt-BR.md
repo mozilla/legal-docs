@@ -23,6 +23,8 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 	A página inicial padrão do Firefox (&lt;about:home&gt;) carrega pequenas informações abaixo da barra de busca e achamos que elas podem ser úteis para você. Elas são chamadas “trechos de código”. Cerca de uma vez por dia, o Firefox se conecta à Mozilla e oferece novos trechos de código para você, caso estejam disponíveis. A Mozilla reúne a frequência com que os trechos de código são clicados, o nome do trecho de código, idioma do navegador e a versão do Firefox que você está utilizando.
 
 	Para ajudar a exibir trechos de código relevantes, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você está. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente.  Depois disso, o Firefox escolherá os trechos de código que serão exibidos de acordo com as informações sobre o país armazenadas localmente.
+	
+	Alguns trechos de código patrocinados são interativos e permitem que você opte por compartilhar o número do seu telefone ou o seu endereço de email. Por exemplo, você pode fornecer o número do seu telefone para receber um SMS para instalar o Firefox no Android. Suas informações serão recebidas e utilizadas por nossa empresa de marketing de email e dispositivos móveis.
 
 * Relatório de integridade do Firefox
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 * Blocos
 
 	Os blocos são um recurso do Firefox exibido em páginas de nova aba. Para oferecer o recurso de blocos, o Firefox envia à Mozilla dados relacionados aos blocos, como número de cliques, visualizações de anúncios, seu endereço IP, informações sobre o idioma e dados específicos de cada bloco (por exemplo, posição e tamanho da grade). No Firefox Beta, alguns experimentos de Telemetria de curto prazo (consulte o texto acima) para os Blocos poderão coletar informações sobre domínios visitados com frequência.
+	
+* Pesquisa padrão
+	Para ajudar a escolher o melhor mecanismo de pesquisa para a sua localização, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você se encontra. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente. Em seguida o Firefox escolherá o mecanismo de pesquisa a ser usado como padrão, de acordo com as informações sobre o país armazenadas localmente.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Quando for solicitado, o Firefox também se conecta à Mozilla para oferecer rec
 
 * **Relatórios de travamento**: Você tem a opção de enviar à Mozilla um relatório de travamento quando o Firefox travar. Esse relatório contém informações técnicas para melhorarmos o Firefox, incluindo o motivo do travamento do Firefox, a URL ativa no momento do travamento e o estado da memória do computador durante o travamento. Os relatórios de travamento que recebemos podem incluir informações pessoais. Nós disponibilizamos partes dos relatórios de travamento publicamente em <https://crash-stats.mozilla.com/>. Antes de disponibilizar publicamente os relatórios de travamento, tomamos medidas para remover as informações pessoais automaticamente. Não removemos nada que você escrever na caixa de comentários.
 {: #crash-reporter .inproduct-link }
+
+* **Erros de SSL**: Você pode optar por enviar um relatório de erro à Mozilla, caso uma conexão com um website seguro esteja corrompida. Esse relatório grava o certificado do website, além dos códigos de erro do diagnóstico. Essas informações ajudam a Mozilla a monitorar a eficiência dos certificados dos websites "fixos" e a detectar possíveis ataques de phishing contra nossos usuários.
 
 * **Complementos**: o Firefox oferece uma página Adicionar, em Complementos, que traz os complementos populares e exibe recomendações personalizadas de acordo com os complementos que você já instalou. Para exibir recomendações personalizadas, o Firefox envia informações à Mozilla, inclusive a lista de complementos instalados, informações sobre a versão do Firefox e seu endereço IP. Essa comunicação só ocorre quando a página Adicionar está aberta e pode ser desativada seguindo [estas instruções](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). O gerenciador de complementos do Firefox possui um campo de pesquisa em que é possível fornecer palavras-chave para realizar pesquisas e a Mozilla coleta essas pesquisas por palavras-chave, além de informações sobre sua versão do Firefox, idioma e sistema operacional para exibir recomendações a você.
 {: #addons }

@@ -23,6 +23,8 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 	La página de inicio predeterminada de Firefox (&lt;about:home&gt;) carga pequeñas porciones de información justo debajo de la barra de búsqueda que consideramos puede resultarle útil. Son los llamados "fragmentos de código". Aproximadamente una vez al día, Firefox se conecta a Mozilla para ofrecerle nuevos fragmentos de código, si están disponibles. Mozilla recopila información sobre la frecuencia con la que se hace clic en dichos fragmentos, su nombre, la ubicación del navegador y la versión de Firefox que utiliza.
 
 	Con el fin de mostrarle fragmentos de código que sean de su interés, Firefox envía a Mozilla una solicitud mensual para que busque el país en el que se ubica a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Firefox podrá, entonces, mostrarle fragmentos de código de acuerdo con la información almacenada sobre el país en el que se encuentre.
+	
+	Algunos fragmentos de código patrocinados por Mozilla son interactivos y le permitirán compartir su número de teléfono y su dirección de correo electrónico si lo desea. Por ejemplo, puede introducir su número de teléfono a fin de recibir un SMS para instalar Firefox en Android. Nuestro proveedor de marketing en dispositivos móviles y por correo electrónico recibirá y gestionará sus datos.
 
 * Informe sobre la salud de Firefox
   {: #health-report .inproduct-link } 
@@ -52,6 +54,9 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 * Mosaicos
 
 	Los mosaicos son una característica de Firefox que aparece en las páginas de nuevas pestañas. Para poder ofrecer esta función, Firefox envía a Mozilla información relacionada con los mosaicos, como por ejemplo, cantidad de veces que se hace clic, impresiones, su dirección IP, información local y datos relativos a los mosaicos, como la posición y el tamaño de la cuadrícula. En Firefox Beta, ciertos experimentos de Telemetry a corto plazo (véase arriba) para mosaicos podrían recopilar información acerca de dominios frecuentemente visitados.
+	
+* Búsqueda predeterminada
+	Con el fin de escoger el mejor motor de búsqueda predeterminado para su ubicación, Firefox envía a Mozilla una solicitud para que busque su ubicación a nivel nacional a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Entonces, Firefox podrá escoger cuál es el motor de búsqueda que se utilizará como predeterminado según la información almacenada localmente sobre el país.
 
 ---------------------------------------
 
@@ -66,6 +71,8 @@ Si usted así lo solicita, Firefox también se conecta con Mozilla para ofrecerl
 
 * **Informes de error**: Tiene a su disposición la posibilidad de enviar a Mozilla un informe de error en caso de que Firefox falle. Dicho informe contiene información técnica que nos será útil para mejorar Firefox, como por ejemplo, el motivo del fallo, la URL que se encontraba activa y el estado de la memoria del equipo en ese momento. El informe de error también puede contener información personal. Algunos fragmentos de los informes de error los publicamos en <https://crash-stats.mozilla.com/>. Antes de publicarlos, eliminamos de forma automática los datos personales. Lo que escriba en el cuadro de comentarios no se eliminará.
 {: #crash-reporter .inproduct-link }
+
+* **Errores de SSL**: Si la conexión segura del sitio web se interrumpe, podrá enviar a Mozilla un informe de errores. Este informe registra el certificado del sitio web y los códigos de error de diagnóstico. Estos datos ayudan a Mozilla a comprobar la eficacia de los certificados "anclados" del sitio web y a detectar posibles ataques de suplantación de identidad contra sus usuarios.
 
 * **Complementos**: Firefox ofrece una página donde obtener complementos, en el administrador de complementos, en la que encontrará complementos populares y recomendaciones personalizadas de acuerdo con los que ya tenga instalados. Para que pueda consultar las recomendaciones personalizadas, Firefox envía a Mozilla información como la lista de complementos que ya tiene instalados, su versión de Firefox y dirección IP. El envío de esta información solo se produce si el área Obtener complementos está abierta. Para desactivarla, [siga estas instrucciones](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). El administrador de complementos de Firefox dispone de un campo de búsqueda en el que puede introducir palabras clave para realizar búsquedas; Mozilla recopila dichas búsquedas de palabras clave, así como información sobre su versión de Firefox, su ubicación y sistema operativo para mostrarle recomendaciones.
 {: #addons }
