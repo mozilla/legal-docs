@@ -1,4 +1,4 @@
-October 30, 2013
+This version of the Developer Agreement will go into effect on April 1, 2015
 
 This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
@@ -16,10 +16,12 @@ Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;
 
 ## Definitions
 
-As a Developer, you can distribute Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
+- &ldquo;Brand Features&rdquo; means the trade names, trade marks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time.
+- &ldquo;Firefox Marketplace&rdquo; refers to our online platform for developers to distribute Marketplace Content to end users.
+- &ldquo;FirefoxOS Devices&rdquo; refers to devices distributed by Mozilla Partners using the FirefoxOS operating system developed by Mozilla.
+- &ldquo;Marketplace Content&rdquo; means apps and games that are developed with open web technologies that can run on multiple platforms.
+- &ldquo;Mozilla Partners&rdquo; means providers of telecommunication services, device manufacturers, and device distributers.
 
-- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
-- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
 
 ## Terms Governing Your Use of Firefox Marketplace
 
@@ -35,7 +37,7 @@ As we innovate and introduce new features for the Firefox Marketplace, these Ter
 
 ## Firefox Marketplace Privacy Policy
 
-You will be required to provide information about yourself (such as identification or contact details) to Mozilla as part of your registration for and use of the Firefox Marketplace as a Developer.  We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/en-US.html).  Certain features of the Firefox Marketplace are operated by third party services. For example, we use third party providers to generate app ratings and to process app payments. You agree that any information provided to these third party providers will always be accurate, correct and up to date. Third party providers have their own privacy policies and terms of use, and you are encouraged to read them.
+You will be required to provide information about yourself (such as identification or contact details) to Mozilla as part of your registration for and use of the Firefox Marketplace as a Developer.  We will handle your information as we describe in the [Firefox Marketplace Privacy Notice](/media/docs/privacy/en-US.html).  Certain features of the Firefox Marketplace are operated by third party services. For example, we use third party providers to generate app ratings and to process app payments. You agree that any information provided to these third party providers will always be accurate, correct and up to date. Third party providers have their own privacy policies and terms of use, and you are encouraged to read them.
 
 
 ## Management of Firefox Marketplace
@@ -72,7 +74,7 @@ If you use the Firefox Marketplace&rsquo; integrated payment processing system, 
 
 You are responsible for any refunds, chargebacks or other payments back to a purchaser of your Marketplace Content in order to comply with applicable law. If you use the Firefox Marketplace integrated payment processing system, you hereby consent to the following:
 
-1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
+1. You hereby authorize Mozilla and our partners to give the buyer a full refund of the Marketplace Content price on your behalf if the buyer requests the refund within 30 minutes after purchase or longer (if required by applicable law). After such period, refund requests may be approved or rejected depending on their justification. Refunds may be made after the 30 minute refund period your Content is determined to be defective, contain malware, is in violation of our policies (including our [marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), is unavailable or does not perform as stated; and
 2. Mozilla may investigate and determine appropriate action for abnormal volumes of refund requests for a particular piece of Marketplace Content to ensure its quality and listing accuracy.
 
 ## Support
@@ -82,7 +84,7 @@ You are solely responsible for providing reasonable technical support to end use
 
 ## Privacy-Related Obligations
 
-You agree to provide end users with a legally adequate privacy policy that accurately describes any collection, use or disclosure of information provided to you by end users. All Apps are required to have a privacy policy. Add-ons are required to have a privacy policy if any information about the user or usage of an Add-on is collected or transmitted outside of the user&rsquo;s device on which the Add-on is installed. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with your privacy policy and applicable privacy and data protection laws.
+You agree to provide end users with a legally adequate privacy policy that accurately describes any collection, use or disclosure of information provided to you by end users. All Apps are required to have a privacy policy. You represent and warrant that any information you are provided from Mozilla about users will be used solely in accordance with your privacy policy and applicable privacy and data protection laws.
 
 You agree to ensure that any advertising presented to end users of your Marketplace Content complies with all requirements of these Terms and your privacy policy in accordance with applicable privacy and data
 protection laws.  For example, (i) embedded advertising and your use of data derived from such advertising must comply with applicable law; (ii) embedded advertising must not contain any &ldquo;spyware,&rdquo; &ldquo;malware&rdquo; or harmful code and must not cause injury to any person or damage to any property; and (iii) you must provide meaningful notice and choice for any tracking that leads to you or third parties tailoring advertisements or promotions to users.
@@ -95,7 +97,7 @@ You are responsible for uploading your Marketplace Content to the Firefox Market
 
 ## Content Restrictions
 
-Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s content and other policies for developers. You can find our current policies at our [marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_Review).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
+Any Marketplace Content you distribute in the Firefox Marketplace must adhere to Mozilla&rsquo;s [marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_Review) and [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use).  In addition, Firefox Marketplace requires all apps to be rated by the International Age Rating Coalition ("IARC").  Developers of the Firefox Marketplace can access the IARC ratings certificate tool for free as part of the app submission process.  The IARC is a third party, and by using their ratings certificate tool, you agree to abide by the [IARC Privacy Policy](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) and [IARC Terms of Use](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
 
 
 ## Accounts
@@ -123,26 +125,27 @@ If you remove all your Marketplace Content from the Firefox Marketplace, you may
 
 Mozilla has the right (though not the obligation) to, in Mozilla&rsquo;s sole discretion, remove any content that, in Mozilla&rsquo;s reasonable opinion, violates any Mozilla policy or is in any way harmful or objectionable.
 
-Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our marketplace [review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. If you have any questions or concerns regarding a removal, you may contact us at <app-reviews@mozilla.org>.
+Without limiting the foregoing, if Mozilla is notified by you or otherwise becomes aware and determines in its sole and reasonable discretion that any Marketplace Content or any portion thereof (including without limitation any trademark, logo or other brand feature associated with such Marketplace Content): (a) violates our [marketplace review criteria](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria), [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use) or other Firefox Marketplace policy; (b) may create liability for Mozilla or anyone else; or (c) violates these Terms, Mozilla may prevent the Marketplace Content from being made available in the Firefox Marketplace, remove the Marketplace Content from the Firefox Marketplace, flag, filter, modify related materials (including but not limited to descriptions, screenshots, or metadata), reclassify the Marketplace Content, or take other corrective action, at its sole discretion. 
+
+For information on how to notify us in connection with claimed copyright or trademark infringement see [here](https://www.mozilla.org/about/legal/report-abuse/).
 
 Mozilla may at any time suspend or terminate these Terms with you if Mozilla is no longer going to provide the Firefox Marketplace or Mozilla believes you have violated any policies or breached these Terms.
 
 
 ## Licenses
 
-Mozilla encourages you to make your Marketplace Content available under an open source license such as the MPL for source code and a Creative Commons license for creative works. Mozilla has also developed an operating system that can natively run web applications (&ldquo;Firefox OS&rdquo;). Using Firefox OS, Mozilla and third parties can create devices that run Firefox OS (&ldquo;Firefox OS Devices&rdquo;). You hereby grant to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license under all of your rights necessary to make the Marketplace Content available in connection with the Firefox Marketplace and Firefox OS Devices. The foregoing license includes, if applicable, the right (but not obligation) to pre-load such Marketplace Content on Firefox OS Devices and provide Marketplace Content in connection with services available through Firefox OS Devices.
+Mozilla encourages you to make your Marketplace Content available under an open source license such as the MPL for source code and a Creative Commons license for creative works. 
 
-Between Mozilla and you, each party shall own all right, title and interest, including without limitation all intellectual property rights, relating to its Brand Features. "Brand Features" means the trade names, trade marks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time. Except to the limited extent expressly provided in these Terms, neither party grants, nor shall the other party acquire, any right, title or interest (including, without limitation, any implied license) in or to any Brand Features of the other party. Subject to these Terms, you grant to Mozilla and its affiliates a limited, non-exclusive license during the term to display your Brand Features for use in connection with the Firefox Marketplace. Nothing in these Terms gives you a right to use any of Mozilla&rsquo;s trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+You hereby grant to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license under all of your rights necessary to make the Marketplace Content and related Brand Features available in connection with the Firefox Marketplace and devices that support Firefox Marketplace Content. For clarity, this license means that we can distribute and promote your Marketplace Content so that it can be (a) discovered and installed by users directly from the Firefox Marketplace (b) discovered and installed by users from a third party marketplace that distributes Marketplace Content, or (c) discovered and used as a preload on a FirefoxOS device.  Marketplace Content may be accessible on any platform capable of running open web technologies and on multiple devices, such as phones, tablets, desktop computers and tvs.
+
+You hereby grant to Mozilla Partners a non-exclusive, worldwide, royalty-free, sublicensable and transferable license under all of your rights necessary to make the Marketplace Content and related Brand Features available in connection with the Firefox Marketplace and on any devices that support Firefox Marketplace Content.  The foregoing license includes, if applicable, the right (but not obligation) for Mozilla Partners to preload such Marketplace Content on Firefox OS Devices and provide Marketplace Content in connection with services available through Firefox OS Devices.
+
+Between Mozilla and you, each party shall own all right, title and interest, including without limitation all intellectual property rights, relating to its Brand Features. Except to the limited extent expressly provided in these Terms, neither party grants, nor shall the other party acquire, any right, title or interest (including, without limitation, any implied license) in or to any Brand Features of the other party. Nothing in these Terms gives you a right to use any of Mozilla&rsquo;s trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
 
 
 ## Publicity
 
-Mozilla and its affiliates may include your Brand Features, screenshots, videos, and demonstrations of your Marketplace Content and any content contained in, accessed by, or transmitted through your Marketplace Content in presentations, marketing materials, marketing events, developer events, financial reports, website listings (including links to your website), press releases, and customer lists (which includes, without limitation, customer lists posted on Mozilla web sites) for purposes of marketing the Firefox Marketplace, Mozilla products and services, or publicizing your Marketplace Content.
-
-
-## Firefox Sync Add-ons
-
-If your Marketplace Content utilizes any Firefox Sync APIs or software, you agree (a) that you and your Marketplace Content will use the Firefox Sync API solely for its intended purpose; (b) that your Marketplace Content will not hide or mask its identity as it uses Mozilla&rsquo;s hosted Firefox Sync services and/or Firefox Sync APIs, including by failing to follow required identification conventions; and (c) that you and your Marketplace Content will not use the Firefox Sync APIs for any application or service that attempts to mislead users (including by attempting to replicate Mozilla&rsquo;s hosted Firefox Sync services experience).
+Mozilla and its affiliates, or Mozilla Partners, may include your Brand Features, screenshots, videos, and demonstrations of your Marketplace Content and any content contained in, accessed by, or transmitted through your Marketplace Content in presentations, marketing materials, marketing events, developer events, financial reports, website listings (including links to your website), digital and print communications (such as social media, newsletters, blogs, webpages, press releases, brochures, etc.), packaging and customer lists (which includes, without limitation, customer lists posted on Mozilla web sites) for purposes of marketing the Firefox Marketplace, FirefoxOS, Mozilla products and services, or publicizing your Marketplace Content.
 
 
 ## Representations and Warranties
