@@ -9,7 +9,7 @@ Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Firma Mozill
 
 Podczas wykonywania przez użytkownika połączeń do firmy Mozilla są wysyłane określone informacje potrzebne do ich nawiązania. Po nawiązaniu połączenia komunikacja jest szyfrowana.
 
-* **Konta Firefox**: Używanie kont w usłudze Firefox Hello jest opcjonalne.  Jeśli użytkownik zaloguje się na konto Firefox, przeglądarka Firefox prześle firmie Mozilla nazwę jego konta, by umożliwić kierowanie do niego połączeń. Aby uzyskać więcej informacji o sposobie wykorzystywania danych przez konta Firefox, kliknij [tutaj](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Konta Firefox**: Używanie kont w usłudze Firefox Hello jest opcjonalne.  Jeśli użytkownik zaloguje się na konto Firefox, przeglądarka Firefox prześle firmie Mozilla nazwę jego konta, by umożliwić kierowanie do niego połączeń. Aby uzyskać więcej informacji o sposobie wykorzystywania danych przez konta Firefox, kliknij [tutaj](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Kontakty**: Użytkownik może importować i dodawać nowe kontakty, aby utworzyć książkę adresową zawierającą adresy e-mail, zdjęcia profilowe i nazwiska osób, do których może wykonywać połączenia.  Informacje te są przechowywane lokalnie na jego urządzeniu.
 

@@ -9,7 +9,7 @@ Firefox Hello to świadczona przez firmę Mozilla usługa komunikacji przy użyc
 
 ### 2. Rejestracja konta
 
-Korzystanie z niektórych funkcji Usługi, takich importowanie kontaktów z innych usług lub tworzenie nowych, może wymagać konta Firefox.  Zakładając konto Firefox, użytkownik wyraża zgodę na dotyczące kont Firefox [Warunki świadczenia usługi](https://www.mozilla.org/en-US/about/legal/terms/services) oraz [Zasady prywatności](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Korzystanie z niektórych funkcji Usługi, takich importowanie kontaktów z innych usług lub tworzenie nowych, może wymagać konta Firefox.  Zakładając konto Firefox, użytkownik wyraża zgodę na dotyczące kont Firefox [Warunki świadczenia usługi](https://www.mozilla.org/about/legal/terms/services/) oraz [Zasady prywatności](https://www.mozilla.org/privacy/firefox-cloud/).
 
 ### 3. Funkcje
 
