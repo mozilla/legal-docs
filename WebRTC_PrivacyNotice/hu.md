@@ -29,4 +29,4 @@ Bizonyos mérőszámokat automatikusan megkapunk a Szolgáltatások használatá
 
 ---------------------------------------
 
-A Firefox Hello-t a TokBox, Inc. vállalattal („TokBox”) közösen biztosítjuk, így a Szolgáltatása működtetésének részeként elküldjük az adatokat a ToxBox részére.  Ez a tájékoztató csak azt írja le, hogy hogyan kezeli a Mozilla az Öntől kapott adatokat. A TokBox adatkezelésére vonatkozó további adatokért olvassa el [Adatvédelmi Irányelvüket]( https://tokbox.com/support/privacy-policy)
+A Firefox Hello-t a TokBox, Inc. vállalattal („TokBox”) közösen biztosítjuk, így a Szolgáltatása működtetésének részeként elküldjük az adatokat a TokBox részére.  Ez a tájékoztató csak azt írja le, hogy hogyan kezeli a Mozilla az Öntől kapott adatokat. A TokBox adatkezelésére vonatkozó további adatokért olvassa el [Adatvédelmi Irányelvüket]( https://tokbox.com/support/privacy-policy)
