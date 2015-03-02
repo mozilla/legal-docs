@@ -13,7 +13,7 @@ Firefox fiókra van szükség a Szolgáltatás bizonyos funkcióinak használat�
 
 ### 3. Funkciók
 
-A Firefox Hello-t a TokBox, Inc. vállalattal („TokBox”) közösen biztosítjuk, (a jelen dokumentumban a ToxBox megnevezése licencpartnerként is előfordulhat).  A Szolgáltatás a Firefox szerves része, így egyszerűen kezdeményezhet hang- és videóhívásokat a Firefox és bármely WebRTC-kompatibilis böngésző vagy eszköz használója között.  A Szolgáltatás változtatás tárgyát képezheti.  A funkciókkal kapcsolatos kérdésekkel forduljon a Mozilla [támogatási oldalához](https://support.mozilla.org/products/firefox). 
+A Firefox Hello-t a TokBox, Inc. vállalattal („TokBox”) közösen biztosítjuk, (a jelen dokumentumban a TokBox megnevezése licencpartnerként is előfordulhat).  A Szolgáltatás a Firefox szerves része, így egyszerűen kezdeményezhet hang- és videóhívásokat a Firefox és bármely WebRTC-kompatibilis böngésző vagy eszköz használója között.  A Szolgáltatás változtatás tárgyát képezheti.  A funkciókkal kapcsolatos kérdésekkel forduljon a Mozilla [támogatási oldalához](https://support.mozilla.org/products/firefox). 
 
 ### 4. Adatvédelmi irányelvek
 

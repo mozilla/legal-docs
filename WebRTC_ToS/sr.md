@@ -13,7 +13,7 @@ Za korišćenje nekih funkcija Servisa može vam biti potreban Firefox nalog, np
 
 ### 3. Funkcije
 
-Ovaj Servis je omogućen u saradnji sa kompanijom TokBox, Inc. (ToxBox se takođe pominje u ovom dokumentu kao davalac licence). Servis je integrisan u Firefox tako da lako možete ostvariti glasovne i video pozive između Firefox-a i korisnika bilo kog pregledača ili uređaja koji podržava WebRTC. Servis je podložan izmenama. Molimo pregledajte [veb-sajt za podršku](https://support.mozilla.org/sr-Cyrl/products/firefox) kompanije Mozilla za pitanja o funkcijama.
+Ovaj Servis je omogućen u saradnji sa kompanijom TokBox, Inc. (TokBox se takođe pominje u ovom dokumentu kao davalac licence). Servis je integrisan u Firefox tako da lako možete ostvariti glasovne i video pozive između Firefox-a i korisnika bilo kog pregledača ili uređaja koji podržava WebRTC. Servis je podložan izmenama. Molimo pregledajte [veb-sajt za podršku](https://support.mozilla.org/sr-Cyrl/products/firefox) kompanije Mozilla za pitanja o funkcijama.
 
 ### 4. Pravila privatnosti
 

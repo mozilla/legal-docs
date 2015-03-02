@@ -13,7 +13,7 @@ Firefox račun može se zahtijevati za korištenje određenih značajki Usluge, 
 
 ### 3. Značajke
 
-Usluga vam se pruža u suradnji s tvrtkom TokBox (na ToxBox se u ovom dokumentu također ukazuje kao na davatelja licencije).  Usluga je integrirana u preglednik Firefox tako da možete jednostavno uspostavljati glasovne pozive i videopozive između Firefoxa i korisnika bilo kojeg preglednika ili uređaja koji podržava WebRTC tehnologiju.  Usluga podliježe promjenama.  Obratite se [lokaciji za podršku](https://support.mozilla.org/products/firefox) tvrtke Mozilla s pitanjima o značajkama usluge. 
+Usluga vam se pruža u suradnji s tvrtkom TokBox (na TokBox se u ovom dokumentu također ukazuje kao na davatelja licencije).  Usluga je integrirana u preglednik Firefox tako da možete jednostavno uspostavljati glasovne pozive i videopozive između Firefoxa i korisnika bilo kojeg preglednika ili uređaja koji podržava WebRTC tehnologiju.  Usluga podliježe promjenama.  Obratite se [lokaciji za podršku](https://support.mozilla.org/products/firefox) tvrtke Mozilla s pitanjima o značajkama usluge. 
 
 ### 4. Pravila privatnosti
 

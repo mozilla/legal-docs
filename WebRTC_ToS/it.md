@@ -13,7 +13,7 @@ Potrebbe essere necessario creare un account Firefox per utilizzare determinate 
 
 ### 3. Funzioni
 
-Il Servizio viene offerto all’utente in collaborazione con TokBox, Inc. (Nel documento si fa riferimento a ToxBox anche come licenziatario.) Il Servizio è integrato in Firefox, per consentire di effettuare facilmente chiamate vocali e video tra Firefox e utenti di qualsiasi browser o dispositivo compatibile con WebRTC. Il Servizio è soggetto a modifiche. Consultare il [sito dell’assistenza](https://support.mozilla.org/products/firefox) di Mozilla per domande sulle funzioni.
+Il Servizio viene offerto all’utente in collaborazione con TokBox, Inc. (Nel documento si fa riferimento a TokBox anche come licenziatario.) Il Servizio è integrato in Firefox, per consentire di effettuare facilmente chiamate vocali e video tra Firefox e utenti di qualsiasi browser o dispositivo compatibile con WebRTC. Il Servizio è soggetto a modifiche. Consultare il [sito dell’assistenza](https://support.mozilla.org/products/firefox) di Mozilla per domande sulle funzioni.
 
 ### 4. Informativa sulla privacy
 
