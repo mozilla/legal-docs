@@ -9,11 +9,11 @@ Firefox Hello is an end-to-end real-time communications video and voice service 
 
 ### 2. Account Registration
 
-A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to the Firefox Accounts [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to its [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
 
 ### 3. Features
 
-The Service is provided to you in collaboration with TokBox, Inc. (ToxBox is also referred to in this document as a licensor).  The Service is integrated into Firefox so you can easily make voice and video calls between Firefox and users of any WebRTC-enabled browser or device.  The Service is subject to change.  Please reference Mozilla's [support site](https://support.mozilla.org/products/firefox) for questions on features. 
+The Service is provided to you in collaboration with TokBox, Inc. (TokBox is also referred to in this document as a licensor).  The Service is integrated into Firefox so you can easily make voice and video calls between Firefox and users of any WebRTC-enabled browser or device.  The Service is subject to change.  Please reference Mozilla's [support site](https://support.mozilla.org/products/firefox) for questions on features. 
 
 ### 4. Privacy Policy
 
