@@ -1,329 +1,172 @@
-03 de julio de 2013
+3 de julio de 2013
 
-## Resumen
+### Resumen
 
-Esta seccion superior es un resumen de los terminos que siguen abajo. Estos
-terminos se utilizan como ayuda para su comprension - pero certifiquese de
-leer todo el documento, pues al concordar con el mismo, usted estara de
-acuerdo con la totalidad del documento y no solamente con este resumen:
+La sección superior es el resumen de las condiciones que aparecen a continuación. Tiene como objetivo ayudarlo a comprender las condiciones. No obstante, no olvide leer el documento completo, ya que, al aceptarlo, aceptará todas las condiciones recogidas en el mismo, no únicamente las de este resumen:
 
-- Usted necesita tener, al menos, 18 años de edad para tener una cuenta en el Marketplace o tener el consentimiento y supervision de sus padres o responsables para la utilizacion del Marketplace.
-- El uso de sus datos sera de acuerdo con nuestra politica de privacidad del Firefox Marketplace Los Apps o Add-ons (Aplicativos) suministrados por terceros tendran su propia [politica de privacidad](/media/docs/privacy/es.html).
-- Los Desarrolladores (no Mozilla) son exclusivamente responsables por cada App o Add-on, incluyendo el soporte.
-- No haga nada ilegal o que pueda perjudicarnos o perjudicar a otros.
-- Nosotros no seremos responsables por su utilizacion del Firefox Marketplace o por las acciones de otros usuarios, incluyendo los Desarrolladores.
-- Usted sera responsable por el uso o uso indebido del Marketplace, Apps o Add-ons.
+- Debe tener, al menos, 18 años de edad para abrir una cuenta en el Marketplace o bien contar con el consentimiento y la supervisión de sus progenitores para utilizarlo.
+- Utilizaremos sus datos de acuerdo con la [Política de privacidad del Firefox Marketplace](/media/docs/privacy/en-US.html). Es posible que las Aplicaciones o los Complementos de terceros tengan sus propias políticas de privacidad.
+- Los Desarrolladores (no Mozilla) son los únicos responsables de las Aplicaciones y Complementos, así como de la prestación de asistencia.
+- No actúe de forma ilegal o de manera que pueda perjudicarnos o perjudicar a otros.
+- No somos responsables del uso que usted haga del Firefox Marketplace ni de las acciones de terceros, incluidos los Desarrolladores.
+- Usted será responsable del uso, indebido o no, que haga del Firefox Marketplace, de las Aplicaciones y de los Complementos.
 
-## Introduccion
+### Introducción
 
-En Mozilla, estamos comprometidos en fomentar la eleccion y innovacion en la
-Internet. Por eso creamos el Firefox Marketplace - un mercado a disposicion
-del publico que permite que los desarrolladores puedan distribuir sus
-aplicativos o add-ons entre los usuarios para el uso en cualquier dispositivo
-que pueda acceder a Internet abierta.
+En Mozilla, nos comprometemos a promocionar la posibilidad de elección y la innovación en Internet. Por este motivo, hemos creado el Firefox Marketplace: un mercado a disposición del público a través del que los Desarrolladores pueden distribuir sus Aplicaciones y Complementos, de manera que el usuario los utilice en dispositivos con acceso a la web abierta.
 
-El uso del Firefox Marketplace esta sujeto a los terminos y condiciones de
-estos Terminos de Uso, asi como las politicas relacionadas con el Firefox
-Marketplace en estos Terminos o en el Firefox Marketplace (colectivamente los
-"Terminos").
+El uso que haga del Firefox Marketplace está sujeto a los términos y condiciones recogidos en las presentes Condiciones de uso, así como a las políticas relacionadas con el Firefox Marketplace mencionadas en dichas Condiciones o en el Firefox Marketplace (en conjunto, las &ldquo;Condiciones&rdquo;).
 
-## Elegibilidad
 
-Al utilizar el Firefox Marketplace, usted acepta que tiene al menos 18 años de
-edad o esta utilizando el aplicativo con el consentimiento y supervision de
-sus padres o responsables; y tendra pleno poder, capacidad y autoridad para
-aceptar estos Terminos en su nombre, o conforme sea aplicable, en nombre de su
-empleador o otra entidad que represente.
+### Elegibilidad
 
-## Alteraciones a estos Terminos
+Al utilizar el Firefox Marketplace, acepta que tiene al menos 18 años o que actúa con el consentimiento y la supervisión de sus progenitores, y que tiene pleno poder, capacidad y autoridad para aceptar las presentes Condiciones en su propio nombre o, según corresponda, en nombre de su empleador o de otra entidad a la que represente.
 
-Nos reservamos el derecho de alterar estos terminos, a nuestra discrecion
-exclusiva, y si hacemos cambios sustanciales, vamos a notificarlo.
 
-## Definiciones
+### Modificaciones de las Condiciones
 
-Cuando utilizamos la palabra "Desarrolladores", significa los desarrolladores
-tercerizados que disponen del Contenido del Marketplace a traves del Firefox
-Marketplace.
+Nos reservamos el derecho a cambiar las presentes Condiciones a nuestra entera discreción. En caso de que realicemos modificaciones sustanciales, se lo notificaremos.
 
-Usted puede instalar los Add-ons o Apps (colectivamente, "Contenido del
-Marketplace") a traves del Firefox Marketplace:
 
-- Los "Add-ons" son extensiones, temas, proveedores de busqueda, diccionarios y paquetes de idiomas que permiten extender la funcionalidad del navegador Firefox.
-- Los "Apps" son aplicativos escritos que utilizan la tecnologia de la Internet abierta y que pueden ser ejecutados en varias plataformas.
-- Algunos Apps y Add-ons pueden ser comprados a los desarrolladores a traves del Firefox Marketplace (cada uno como App o Add-on "Comprado" y colectivamente como "Contenido Comprado").
+### Definiciones
 
-## Contenido del Marketplace
+Con la palabra &ldquo;Desarrolladores&rdquo;, nos referimos a los desarrolladores independientes que publican su Contenido del Marketplace a través del Firefox Marketplace.
 
-Cada Desarrollador, no Mozilla (salvo cuando desarrollamos nuestros propios
-Apps o Add-ons) es exclusivamente responsable por sus Add-ons y Apps.
+El Firefox Marketplace le permite instalar Complementos y Aplicaciones (en conjunto, &ldquo;Contenido del Marketplace&rdquo;):
 
-## Contenido Comprado
+- Los &ldquo;Complementos&rdquo; son extensiones, temas, proveedores de búsqueda, diccionarios y paquetes de idiomas que permiten ampliar la funcionalidad del navegador de Firefox.
+- Las &ldquo;Aplicaciones&rdquo; son aplicaciones escritas con tecnología de web abierta y que pueden ejecutarse en diversas plataformas.
+- Es posible comprar algunas Aplicaciones y Complementos a los desarrolladores a través del Firefox Marketplace (nos referiremos a cada uno como Aplicación Comprada o Complemento &ldquo;Comprado&rdquo; y, en conjunto, como &ldquo;Contenido Comprado&rdquo;).
 
-El Firefox Marketplace utiliza [Mozilla Persona](https://persona.org) para
-colocar el Contenido Comprado en su cuenta. Usted no podra utilizar ningun
-Contenido Comprado sin hacer el login con su cuenta Persona. Si usted cancela
-su cuenta Persona, podra perder su Contenido Comprado. Los Desarrolladores
-podran ofrecer productos y servicios que exigen que usted haga el login usando
-las credenciales adicionales, ademas de la Persona.
 
-Al adquirir el Contenido Comprado, usted esta de acuerdo en no burlar ningun
-mecanismo de autenticacion. Nosotros podemos interrumpir el acceso al Firefox
-Marketplace o suspender su acceso al Contenido Comprado si creemos que usted
-violo estos terminos.
+### Contenido del Marketplace
 
-## Reembolsos y Soporte
+Los Desarrolladores, no Mozilla (salvo cuando desarrollamos nuestras propias Aplicaciones o Complementos), son los únicos responsables de las Aplicaciones y los Complementos que publiquen.
 
-Salvo disposicion en contrario, el Contenido enumerado del Marketplace en el
-Firefox Marketplace es desarrollado y vendido por los Desarrolladores
-tercerizados, no por Mozilla. Por este razon, cualquier solicitud de soporte
-relacionada al Contenido del Marketplace debera ser hecha al Desarrollador de
-aquel Contenido del Marketplace. Para solicitar el soporte al Contenido del
-Marketplace que usted compro, entre en contacto con el Desarrollador de aquel
-contenido del Marketplace a traves de la lista de Contenido del Marketplace.
 
-Tambien puede solicitar el soporte del operador de red movil en el que usted
-esta ingresando al Firefox Marketplace (una lista de los sitios web de soporte
-esta disponible [aqui](https://support.mozilla.org/es/kb/firefoxos-carrier-support-contact-information)). Para mas informaciones sobre el Firefox
-Marketplace, asi como los articulos sobre las preguntas mas frecuentes, entre
-en [soporte oficial del marketplace](https://support.mozilla.org/es/kb/what-firefox-marketplace).
+### Contenido Comprado
 
-Si su Contenido Comprado tiene defecto, codigos maliciosos (Malware), este
-indisponible o caso contrario no ejecuta conforme a lo adecuado, puede
-solicitar un reembolso
-[aqui](https://support.mozilla.org/es/questions/marketplace/refund) dentro de
-los 10 dias posteriores a la compra. Mozilla, a su criterio exclusivo,
-determinara si un reembolso es adecuado con base en las circunstancias.
+El Firefox Marketplace utiliza Mozilla [Persona](https://persona.org/) para vincular su Contenido Comprado a su cuenta. No podrá utilizar el Contenido Comprado sin iniciar sesión con su cuenta de Persona. Si elimina la cuenta de Persona, es posible que pierda el Contenido Comprado. Los desarrolladores pueden ofrecer productos y servicios que exijan el inicio de sesión o la autenticación mediante credenciales adicionales, además de las de Persona.
 
-## Terminos Adicionales en relacion al Contenido del Marketplace
+Al adquirir Contenido Comprado, acepta no evadir los mecanismos de autenticación intencionadamente. Podremos interrumpir su acceso al Firefox Marketplace o cancelar su acceso al Contenido Comprado si creemos que incumple las presentes Condiciones.
 
-En la medida en que algunos de los contenidos en el Firefox Marketplace son
-cubiertos por terminos distintos (como un contrato de licencia del usuario
-final, una licencia de open source y/ o terminos de uso del Contenido del
-Marketplace de un Desarrollador), usted acepta cumplir con estos terminos.
-Usted puede encontrar los terminos en los que el Contenido del Marketplace
-esta siendo distribuido en la pagina de informacion de la parte del Contenido
-del Marketplace.
 
-## Privacidad
+### Reembolsos y asistencia
 
-Se le solicitara que provea informaciones sobre usted (como identificacion y
-detalles de contacto) como parte de su registro y utilizacion del Firefox
-Marketplace. Nosotros mantendremos su informacion como descripto en la
-[Politica de privacidad](/media/docs/privacy/es.html) del Firefox Marketplace.
+Salvo que se estipule lo contrario, serán Desarrolladores externos, y no Mozilla, quienes desarrollen y vendan el Contenido del Marketplace publicado en el Firefox Marketplace. Por este motivo, las solicitudes de asistencia relacionadas con el Contenido del Marketplace deberá dirigirse al Desarrollador de dicho Contenido. Para solicitar asistencia con respecto al Contenido del Marketplace que haya comprado, póngase en contacto con el Desarrollador del mismo a través de la página del Contenido.
 
-La [Politica de privacidad](/media/docs/privacy/es.html) del Firefox Marketplace se aplica
-para el Firefox Marketplace, pero no cubre ningun Contenido del Marketplace.
-Usted debe verificar la politica de privacidad de la parte del Contenido del
-Marketplace para descubrir las practicas de privacidad sobre el Contenido del
-Marketplace y sentirse comodo con estos terminos antes de comprar, instalar o
-utilizar el Contenido del Marketplace.
+Asimismo, podrá solicitar asistencia al operador de red móvil que utiliza para acceder al Firefox Marketplace ([aquí](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information) encontrará una lista de los sitios web de asistencia de los operadores). Para obtener más información sobre el Firefox Marketplace, así como sobre artículos de preguntas frecuentes, visite el sitio web de asistencia de Mozilla [aquí](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-Si usted cree que el Desarrollador no esta de acuerdo con el [Acuerdo con el
-Desarrollador del Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) o
-con los [Terminos de Uso del Firefox Marketplace](/media/docs/terms/es.html), entre en
-contacto con nosotros a traves del link de "Denunciar Abuso" para el Contenido
-relevante del Market y nosotros investigaremos su solicitacion y tomaremos las
-medidas, en caso que creemos apropiado.
+Si el Contenido Comprado es defectuoso, contiene malware, no está disponible o no funciona del modo indicado, podrá solicitar un reembolso [aquí](https://support.mozilla.org/questions/marketplace/refund) en un plazo de 10 días desde la compra.
 
-## Sus Alegaciones
 
-Usted podra enviar los comentarios, imagenes del perfil y otros contenidos
-como parte de los recursos del Firefox Marketplace ("Sus Alegaciones"). Para
-aclarar, si usted es un Desarrollador, "Sus Alegaciones" no incluyen ningun
-App o Add-on que usted haya enviado al Firefox Marketplace - los terminos en
-relacion a los Apps o Add-ons que usted haya enviado son cubiertos por el
-[Acuerdo con el Desarrollador](https://marketplace.firefox.com/developers/docs/policies/agreement). Al enviar
-Sus Alegaciones, nos concede una licencia gratuita, no exclusiva y general
-para utilizar Sus Alegaciones en relacion a las disposiciones y promocion del
-Firefox Marketplace. Usted declara y garantiza que Sus Alegaciones no violaran
-los derechos de cualquier tercero y cumpliran con nuestras [Directrices de
-Revision del App](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marke
-tplace_review_criteria).
+### Condiciones adicionales en relación con el Contenido del Marketplace
 
-## Ley de Derechos de Autor del Milenio Digital
+En la medida en que ciertos contenidos del Firefox Marketplace están cubiertos por términos independientes (como contratos de licencia de usuario final, licencias de código abierto y/o términos de uso de un Desarrollador para el Contenido del Marketplace), usted acepta cumplir dichos términos. Encontrará las condiciones que rigen la distribución del Contenido del Marketplace en la página de información del Contenido en cuestión.
 
-Si usted es un propietario de un derecho de autor o un representante de un
-propietario de un derecho de autor y cree que el contenido disponible por
-medio de uno de los sitios web de Mozilla viola uno o mas de sus derechos de
-autor, notifiquelo inmediatamente al Representante de Derechos de Autor de
-Mozilla a traves de una notificacion enviada por e-mail, enviada por correo o
-por fax ("Notificacion de la DMCA [Ley de Derechos de Autor del Milenio
-Digital]") y incluya la informacion descripta abajo. Usted puede revisar el 17
-U.S.C. § 512(c) (3) de la Ley de Derechos de Autor del Milenio Digital para el
-detalle autorizado o consultar a su propio abogado si necesita de asistencia.
-Si Mozilla toma medidas en respuesta a una notificacion de la DMCA, el hara
-una tentativa de buena fe para entrar en contacto con la parte que coloco el
-contenido disponible por medio de la direccion de e-mail mas reciente, si la
-hay, provida por esta parte a Mozilla. Usted sera responsable por los daños
-basados en determinadas declaraciones falsas contenidas en una Notificacion de
-la DMCA. Por lo tanto, si usted cree que el contenido localizado por el sitio
-web viola sus derechos de autor, debe entrar en contacto con un abogado.
 
-Todas las Notificaciones de la DMCA deben incluir lo siguiente:
+### Privacidad
 
-1. una firma, electronica o fisica, del propietario o de la persona autorizada a actuar en nombre del propietario, de un derecho de autor exclusivo que esta siendo violado;
-2. una identificacion de los derechos de autor de la obra o obras que usted dice ser violada;
-3. una descripcion de la naturaleza y lugar del material que usted dice que viola sus derechos de autor, en detalles suficientes para permitir que Mozilla encuentre y identifique aquel contenido de forma positiva, incluyendo el URL en que esta localizado;
-4. Su nombre, direccion, telefono y e-mail a traves del que podemos contactar; y
-5. una declaracion suya: (i) que usted cree de buena fe que el uso del material que usted dice que viola sus derechos de autor no esta autorizado por ley o por el propietario del derecho de autor o por el representante del propietario; y (ii) que toda la informacion contenida en su Notificacion de la DMCA es verdadera y bajo pena de perjurio, que usted es el propietario o la persona autorizada a actuar en nombre de un propietario del derecho de autor exclusivo que esta siendo violado.
+Al registrarse en el Firefox Marketplace y utilizarlo, tendrá que proporcionarnos información sobre usted mismo, como datos de identificación o información de contacto. Sus datos se tratarán del modo descrito en la [Política de privacidad] del Firefox Marketplace(/media/docs/privacy/en-US.html).
 
-El Representante de los Derechos de Autor designado por Mozilla debe recibir
-notificaciones de las supuestas violaciones a traves de la siguiente
-direccion:
+Consulte nuestra [Política de privacidad](/media/docs/privacy/en-US.html) para obtener más información.
+
+La [Política de privacidad] del Firefox Marketplace(/media/docs/privacy/en-US.html) se aplica al Firefox Marketplace, pero no cubre el Contenido del mismo. Deberá consultar la política de privacidad del Contenido del Marketplace en cuestión para conocer las prácticas de privacidad correspondientes al mismo y comprobar si está de acuerdo con ellas antes de comprar, instalar o utilizar dicho Contenido.
+
+Si cree que el Desarrollador no respeta el [Acuerdo para desarrolladores del Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) o sus Condiciones de uso, póngase en contacto con nosotros a través del enlace &ldquo;Denunciar infracciones&rdquo; para el Contenido en cuestión. Investigaremos la denuncia y tomaremos las medidas que consideremos necesarias.
+
+
+### Aportaciones
+
+Como parte de las funciones del Firefox Marketplace, podrá cargar comentarios, imágenes de perfil y otros contenidos (sus &ldquo;Aportaciones&rdquo;). Para fines de claridad, si usted es Desarrollador, en el término &ldquo;Aportaciones&rdquo; no se incluyen las Aplicaciones ni los Complementos que cargue en el Firefox Marketplace. Las condiciones con respecto a las Aplicaciones o los Complementos se tratan en el [Acuerdo para desarrolladores](https://marketplace.firefox.com/developers/docs/policies/agreement). Al cargar Aportaciones, usted nos otorga una licencia no exclusiva, exenta de derechos y de ámbito internacional mediante la que podemos emplear sus Aportaciones en relación con la prestación de servicios y la promoción del Firefox Marketplace. Usted manifiesta y garantiza que las Aportaciones que cargue no infringirán los derechos de terceros y que cumplirán las [Directrices de revisión de aplicaciones](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria).
+
+
+### Notificación sobre la Ley estadounidense de derechos de autor en el milenio digital (DMCA)
+
+Si es titular de derechos de autor o representante de un titular y considera que el contenido disponible en alguno de los sitios web de Mozilla incumple uno o varios de sus derechos de autor, notifíqueselo de inmediato al encargado de derechos de autor de Mozilla por correo electrónico, correo postal o fax (&ldquo;Notificación sobre la DMCA&rdquo;), e incluya la información descrita a continuación. Si desea obtener más información, consulte el título 17 del Código de los Estados Unidos, sección 512(c)(3) sobre la Ley de derechos de autor en el milenio digital. También puede consultar a su abogado en caso de que necesite ayuda. Al tomar medidas como respuesta a una Notificación sobre la DMCA, Mozilla intentará de buena fe ponerse en contacto con la parte que publicó el contenido a través del correo electrónico más reciente, en caso de que dicha parte se lo haya proporcionado. Es posible que se le considere responsable de los daños ocasionados por las declaraciones engañosas recogidas en una Notificación sobre la DMCA. Así pues, si no está seguro de que el contenido del sitio web o vinculado al mismo no infringe los derechos de autor, consulte primero a un abogado.
+
+Las Notificaciones sobre la DMCA deberán incluir lo siguiente:
+
+1. La firma electrónica o física del propietario, o de la persona autorizada a actuar en su nombre, del derecho exclusivo que se haya infringido.
+2. La identificación de las obras protegidas por derechos de autor que hayan sufrido la infracción.
+3. La descripción de la naturaleza y la ubicación del material cuyos derechos de autor considere que han sido infringidos. Deberá contener detalles suficientes para que Mozilla pueda encontrar e identificar el contenido, incluida la URL donde esté localizado.
+4. Su nombre, domicilio, número de teléfono y dirección de correo electrónico para que podamos ponernos en contacto con usted.
+5. Su declaración, en la que se incluya lo siguiente: **(i)** que cree de buena fe que el uso del material que, a su parecer, infringe los derechos de autor, no está autorizado por ley ni por el propietario de los derechos de autor o su representante; y **(ii)** que toda la información incluida en su Notificación sobre la DMCA es verdadera y, so pena de condena por falso testimonio, que usted es el propietario, o la persona autorizada a actuar en su nombre, del derecho exclusivo infringido.
+
+El encargado de derechos de autor designado por Mozilla deberá recibir las notificaciones de las supuestas infracciones a través de la siguiente dirección:
 
 <address>
-  Gabinete del Procurador-General<br>
+  Departamento de Asesoría Jurídica<br>
   Mozilla Corporation<br>
-  331 E. Evelyn Avenue<br>
+  331 E. Evelyn Ave.,<br>
   Mountain View, CA 94041<br>
-  Email: dmcanotice at mozilla dot com<br>
-  Telefono: [650-903-0800](tel:6509030800)<br>
+  Correo electrónico: dmcanotice at mozilla dot com<br>
+  Número de teléfono: [650-903-0800](tel:6509030800)<br>
   Fax: 650-903-0875
 </address>
 
-Si usted no cumple con todos los requisitos de una notificacion de la DMCA,
-Mozilla no actuara de acuerdo con su notificacion.
+Si no cumple todos los requisitos de las Notificaciones sobre la DMCA, es posible que Mozilla no investigue su notificación.
 
-Mozilla cancelara la cuenta del usuario si, bajo las circunstancias adecuadas,
-el esta determinado a ser un infractor reincidente.
+Mozilla cancelará la cuenta de los usuarios que, en las circunstancias adecuadas, se consideren infractores reincidentes.
 
-La informacion de contacto provida arriba tambien se aplica a las
-notificaciones que se basan en los derechos de autor o marcas registradas
-fuera de los Estados Unidos.
+También podrá dirigir a la dirección de contacto proporcionada anteriormente las notificaciones sobre derechos de autor o marcas comerciales que no sean estadounidenses.
 
-Solamente las Notificaciones de la DMCA, las Notificaciones de la Marca
-Registrada (que estan definidas abajo) y las notificaciones internacionales de
-derechos de autor y marcas registradas deben estar con el representante de
-derechos de autor.
+Solo podrá dirigir al encargado de derechos de autor Notificaciones sobre la DMCA, Notificaciones sobre marcas comerciales (definidas a continuación) y notificaciones sobre derechos de autor o marcas comerciales internacionales.
 
-Informamos que cualquier Notificacion de la DMCA enviada a Mozilla puede ser
-enviada a terceros (incluyendo el acusado) y publicada en la Internet
-(incluyendo el sitio web
-<https://www.chillingeffects.org>).
+Tenga en cuenta que podemos remitir las Notificaciones sobre la DMCA enviadas a Mozilla a terceros (incluida la parte acusada), así como publicarlas en Internet (incluso en <https://www.chillingeffects.org>).
 
-## Notificaciones de Marca Registrada
 
-Si usted es un propietario de una marca registrada o un representante de un
-propietario de una marca registrada y cree que el contenido disponible por
-medio de uno de los sitios web de Mozilla viola una o mas de sus marcas
-registradas, notifiquelo inmediatamente al Representante de Derechos de Autor
-de Mozilla a traves de una notificacion enviada por e-mail, enviada por correo
-o por fax ("Notificacion de Marca registrada") y incluya la informacion
-descripta abajo para las Notificaciones de la DMCA. Mozilla controla las
-notificaciones recibidas de las violaciones de marcas registradas a traves de
-un proceso muy semejante al proceso de Notificacion de la DMCA que se
-describio arriba para los derechos de autor. Ademas de los requisitos de la
-Notificacion de la DMCA, Mozilla exige que todas las Notificaciones de Marca
-Registrada sean hechas por los propietarios de la marca registrada (o su
-representante) bajo pena de perjurio.
+### Notificaciones sobre marcas comerciales
 
-## Exportacion
+Si es titular de marcas comerciales o representante de un titular y considera que el contenido disponible por medio de alguno de los sitios web de Mozilla incumple una o varias de sus marcas comerciales, notifíqueselo de inmediato al encargado de derechos de autor de Mozilla por correo electrónico, correo postal o fax (&ldquo;Notificación sobre marcas comerciales&rdquo;) e incluya la información descrita anteriormente para las Notificaciones sobre la DMCA. Mozilla gestiona las notificaciones recibidas con respecto al incumplimiento de marcas comerciales a través de un proceso semejante al de las Notificaciones sobre la DMCA, anteriormente descrito en el apartado de los derechos de autor. Además de los requisitos de las Notificaciones sobre la DMCA, Mozilla exige, so pena de condena por falso testimonio, que las Notificaciones sobre marcas comerciales las realicen los propietarios de dichas marcas (o sus representantes).
 
-Algunos de los contenidos de los que usted puede hacer el download a traves
-del Firefox Marketplace pueden tener restricciones en su exportacion. Usted
-acepta cumplir con todas las exportaciones aplicables y leyes y reglamentos de
-control de reexportacion y confirma que no tiene prohibido recibir
-exportaciones y servicios bajo las leyes de EE.UU. o otras leyes de
-exportacion.
 
-## Declaraciones y Garantias Generales
+### Exportación
 
-Usted declara y garantiza que el uso del Firefox Marketplace sera de acuerdo
-con estos Terminos, con cualquier ley y reglamento aplicable y con cualquier
-otra politica o termino y condicion aplicable. Por ejemplo, si usted decide
-tornarse un Desarrollador, debe concordar con el [Acuerdo con el Desarrollador](https://marketplace.firefox.com/developers/docs/policies/agreement).
+Es posible que algunos de los contenidos disponibles para su descarga en el Firefox Marketplace estén sujetos a restricciones legales para la exportación. Usted acepta respetar las leyes y normativas aplicables con respeto al control de exportaciones y reexportaciones. Asimismo, confirma que no tiene prohibido recibir exportaciones y servicios de acuerdo con la legislación estadounidense u otra legislación sobre exportaciones.
 
-## Liberacion e Indemnizacion
 
-Usted libera a Mozilla, sus directores, empleados, representantes y sucesores
-de reclamaciones, exigencias y daños de cualquier tipo o naturaleza derivados
-o relacionados a cualquier conflicto con otros usuarios, incluyendo los
-desarrolladores.
+### Declaración y garantía generales
 
-Usted acepta defender, indemnizar y exentar a Mozilla, sus contratantes y sus
-licenciadores, y sus respectivos directores, empleados y representantes contra
-cualquier reclamacion y gasto de terceros, incluyendo honorarios de abogados
-derivados de su uso del Firefox Marketplace y del Contenido del Marketplace,
-incluyendo entre otros, la violacion de cualquier declaracion o garantia
-contenida en estos Terminos.
+Usted declara y garantiza que el uso que haga del Firefox Marketplace respetará las presentes Condiciones, las leyes y normativas aplicables, y las demás políticas o términos y condiciones que correspondan. Por ejemplo, si decide convertirse en Desarrollador, debe aceptar el [Acuerdo para desarrolladores](https://marketplace.firefox.com/developers/docs/policies/agreement).
 
-## Exencion; Limitacion de Responsabilidad
 
-Para aclarar, como utilizado en esta secciÓn, "Contenido" incluye, entre
-otros, "Contenido del Marketplace".
+### Exención de responsabilidad e indemnización
 
-SALVO DISPOSICIÓN EN CONTRARIO, INCLUYENDO ENTRE OTROS, UNA LICENCIA O OTRO
-ACUERDO QUE RIJA EL USO DEL CONTENIDO ESPECÍFICO, TODO EL CONTENIDO LOCALIZADO
-O DISPONIBLE POR FIREFOX MARKETPLACE SERÁ SUMINISTRADO "COMO ESTÁ" Y MOZILLA,
-SUS CONTRATANTES Y SUS LICENCIADORES NO HARÁN NINGUNA DECLARACIÓN O GARANTÍA,
-EXPRESA O IMPLÍCITA, INCLUYENDO ENTRE OTROS, LAS GARANTÍAS DE
-COMERCIALIZACIÓN, ADECUACIÓN PARA UNA FINALIDAD PARTICULAR, TÍTULO O NO
-VIOLACIÓN DE DERECHOS DE PROPIEDAD. SIN LIMITAR LAS DISPOSICIONES ARRIBA,
-MOZILLA, SUS CONTRATANTES Y SUS LICENCIADORES NO HARÁN NINGUNA DECLARACIÓN O
-GARANTÍA DE QUE EL CONTENIDO LOCALIZADO EN EL FIREFOX MARKETPLACE ESTÉ LIBRE
-DE ERRORES O ESTÉ ADECUADO PARA CUALQUIER FINALIDAD; NI QUE EL USO DE ESTE
-CONTENIDO NO VIOLARÁ NINGÚN DERECHO DE AUTOR, MARCAS REGISTRADAS O DERECHO DE
-PROPIEDAD INTELECTUAL DE TERCEROS. USTED COMPRENDE Y ESTÁ DE ACUERDO QUE HIZO
-EL DOWNLOAD O, DE OTRA FORMA, OBTUVO EL CONTENIDO A TRAVÉS DEL SITIO WEB DE
-MOZILLA, A SU CRITERIO Y RIESGO EXCLUSIVO, Y QUE MOZILLA, SUS CONTRATANTES Y
-SUS LICENCIADORES NO SERÁN RESPONSABLES DE NINGÚN DAÑO AL SISTEMA O DATOS EN
-SU COMPUTADOR QUE PUEDA RESULTAR DEL DOWNLOAD O USO DE ESTE CONTENIDO.
+Usted acepta eximir de responsabilidad a Mozilla y a sus contratistas, empleados, representantes y sucesores ante reclamaciones, demandas y daños de cualquier naturaleza derivados de conflictos con otros usuarios (incluidos los Desarrolladores) o que estén relacionados con los mismos.
 
-SALVO DISPOSICIÓN EN CONTRARIO, INCLUYENDO ENTRE OTROS, EN UNA LICENCIA O OTRO
-ACUERDO QUE RIJA EL USO DEL CONTENIDO ESPECÍFICO, DE FORMA NINGUNA, MOZILLA,
-SUS CONTRATANTES O SUS LICENCIADORES SERÁN RESPONSABLES POR USTED O CUALQUIER
-OTRA PARTE SOBRE CUALQUIER DAÑO PUNITIVO, CONSECUENCIAL, ESPECIAL, DIRECTO O
-INDIRECTO, INDEPENDIENTEMENTE DE LA BASE O NATURALEZA DE LA RECLAMACIÓN,
-RESULTANTE DE CUALQUIER USO DEL FIREFOX MARKETPLACE O DEL CONTENIDO DEL MISMO
-O DE CUALQUIER HIPERLINK DEL SITIO WEB, INCLUYENDO ENTRE OTROS, CUALQUIER
-PÉRDIDA DE LUCROS, INTERRUPCIÓN DE NEGOCIOS, PÉRDIDA DE DATOS O, DE OTRA
-FORMA, INCLUSO SI MOZILLA, SUS CONTRATANTES O LICENCIADORES FUERON
-EXPRESAMENTE AVISADOS DE LA RESPONSABILIDAD DE ESTOS DAÑOS.
+Usted acepta defender, indemnizar y eximir de responsabilidad a Mozilla y a sus contratistas, a sus otorgantes de licencias y a sus respectivos directivos y empleados frente a las reclamaciones o los gastos de terceros (incluidos los honorarios de los abogados) derivados del uso que usted haga del Firefox Marketplace y del Contenido del Marketplace (incluidos, entre otros, los ocasionados por su incumplimiento de las declaraciones o garantías descritas en las presentes Condiciones).
 
-ALGUNAS JURISDICCIONES PUEDEN NO PERMITIR LA EXCLUSIÓN DE LAS GARANTÍAS
-IMPLÍCITAS O LA EXCLUSIÓN O LIMITACIÓN DE LAS RESPONSABILIDADES POR
-DETERMINADOS DAÑOS CONSECUENCIALES O INCIDENTALES, POR LO TANTO, ALGUNAS DE
-LAS LIMITACIONES ANTERIORES PUEDEN NO SER APLICADAS A USTED.
 
-## Ley Regente
+### Vigencia y rescisión
 
-Estos Terminos deberan ser regidos por las leyes del Estado de California,
-independientemente de los conflictos de los principios de la ley. Las
-disposiciones de la Convencion de las Naciones Unidas en la Compra y Venta
-Internacional de Mercaderias y la Ley para Uniformizacion de las Transacciones
-por Ordinadores, no obstante designadas, son excluidas y no deberan ser
-aplicadas a este Acuerdo o cualquier transaccion en los terminos de este
-acuerdo. Usted acepta someterse a la jurisdiccion personal y exclusiva de los
-tribunales estaduales y tribunales federales localizados en el condado de
-Santa Clara, California, con la finalidad de litigar cualquier reivindicacion
-o conflicto.
+Se aplicarán las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas.
 
-## Disposiciones Generales
+Podrá rescindir el acuerdo legal que tiene con Mozilla en relación con el Firefox Marketplace en cualquier momento y por cualquier motivo al desactivar las cuentas y dejar de utilizar el Firefox Marketplace. No es necesario que informe a Mozilla cuando deje de utilizar el Firefox Marketplace. Si deja de usar el Firefox Marketplace sin desactivar las cuentas, estas podrán desactivarse por inactividad prolongada.
 
-Usted no puede ceder sus derechos o delegar sus obligaciones bajo estos
-Terminos. Estos Terminos no se destinan a beneficiar, ni deben ser
-considerados como origen de cualquier derecho de terceros. Estos Terminos
-seran regidos y interpretados de acuerdo con las leyes de California,
-independiente de conflictos de los principios de la ley. La relacion sera de
-contratados independientes: estos Terminos no deberan ser interpretados para
-la creacion de una joint venture o asociacion entre las partes. Ninguna parte
-debera ser considerada empleada, representante, socia o representante legal de
-la otra parte por ninguna finalidad y no tendra el derecho, poder o autoridad
-de crear ninguna obligacion o responsabilidad en nombre de la otra parte.
-Estos Terminos constituyen la integridad del contrato entre las partes en
-relacion al asunto en cuestion. Estos Terminos sustituyen y rigen cualquier
-acuerdo anterior o garantia en relacion al asunto en cuestion. Si cualquiera
-de estos Terminos fueran invalidos o inexequibles por cualquier motivo, dicha
-no validad no debera afectar el restante de estos Terminos, y las
-disposiciones invalidas o inexequibles deberan ser sustituidas por una
-disposicion mutualmente aceptable, que siendo valida, legal y ejecutable se
-aproxime a las intenciones originales de las partes contratantes y tenga como
-efecto economico. El incumplimiento de cualquier parte, en cualquier momento,
-en exigir el cumplimiento de cualquier clausula del contrato no debera, de
-ninguna forma, perjudicar el derecho en un momento posterior para aplicar el
-mismo. Ninguna renuncia por cualquiera de las partes de la violacion de
-cualquier termino o acuerdo contenido en estos Terminos, sea por la conducta o
-de otra forma, en cualquiera o mas instancias, debe ser considerada como una
-renuncia adicional o continua de esta violacion o la renuncia de la violacion
-de cualquier otro termino o acuerdo contenido en estos Terminos.
+Podemos suspender o cancelar sus cuentas o el acceso total o parcial al Firefox Marketplace en cualquier momento y por cualquier motivo, incluyendo, entre otros casos, si consideramos que: (i) ha incumplido las presentes Condiciones; (ii) genera un riesgo o una posible responsabilidad legal para nosotros; o (iii) la prestación del Firefox Marketplace deja de ser viable a nivel comercial. Realizaremos los esfuerzos razonables para informarlo de ello a través de la dirección de correo electrónico asociada a su cuenta o la siguiente vez que intente acceder a la misma.
+
+En dichos casos, se rescindirán las presentes Condiciones, incluyendo, entre otras, su licencia de uso del Firefox Marketplace, excepto las siguientes secciones, que seguirán vigentes: Exención de responsabilidad e indemnización; Exclusión de garantías; Limitación de responsabilidad; Legislación aplicable y Aspectos varios.
+
+Asimismo, Mozilla podrá interrumpir el acceso (de forma temporal o permanente) al Firefox Marketplace (o a cualquiera de sus funciones) por parte de usted o de los usuarios en general, y es posible que no pueda notificarle de ello con antelación.
+
+
+### Exclusión de garantías y limitación de responsabilidad
+
+Para fines de claridad, en &ldquo;Contenido&rdquo; se incluye, entre otros aspectos, el &ldquo;Contenido del Marketplace&rdquo;.
+
+SALVO QUE SE INDIQUE LO CONTRARIO EXPRESAMENTE EN UNA LICENCIA U OTRO ACUERDO (ENTRE OTROS DOCUMENTOS) QUE RIJA EL USO DE DETERMINADO CONTENIDO, EL CONTENIDO LOCALIZADO EN EL Firefox Marketplace U OFRECIDO A TRAVÉS DEL MISMO SE FACILITA &quot;TAL Y COMO ESTÁ&quot;. MOZILLA, SUS CONTRATISTAS Y SUS OTORGANTES DE LICENCIAS NO CONCEDEN GARANTÍAS NI DECLARACIONES CON RESPECTO A GARANTÍAS EXPRESAS O IMPLÍCITAS, COMO GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN PARA UN FIN EN PARTICULAR, TITULARIDAD O NO INFRACCIÓN DE DERECHOS DE PROPIEDAD INTELECTUAL, ENTRE OTRAS. SIN PERJUICIO DE LO ANTERIOR, MOZILLA, SUS CONTRATISTAS Y SUS OTORGANTES DE LICENCIAS NO GARANTIZAN NI DECLARAN QUE EL CONTENIDO DEL Firefox Marketplace NO CONTENGA ERRORES O QUE SEA ADECUADO PARA UN FIN EN PARTICULAR, NI QUE EL USO DE DICHO CONTENIDO NO INFRINJA LOS DERECHOS DE AUTOR DE TERCEROS, ASÍ COMO MARCAS COMERCIALES U OTROS DERECHOS DE PROPIEDAD INTELECTUAL. USTED COMPRENDE Y ACEPTA QUE DESCARGA U OBTIENE POR OTRO MEDIO CONTENIDO A TRAVÉS DE LOS SITIOS WEB DE MOZILLA POR SU PROPIA CUENTA Y RIESGO Y QUE MOZILLA, SUS CONTRATISTAS Y SUS OTORGANTES DE LICENCIAS NO SE RESPONSABILIZARÁN DE LOS DAÑOS QUE PUEDAN SUFRIR LOS SISTEMAS DE SUS EQUIPOS O SUS DATOS DEBIDO A LA DESCARGA Y AL USO DE TAL CONTENIDO.
+
+SALVO QUE SE ESTIPULE LO CONTRARIO EXPRESAMENTE EN UNA LICENCIA U OTRO ACUERDO QUE RIJA EL USO DE DETERMINADO CONTENIDO (ENTRE OTROS DOCUMENTOS), EN NINGÚN CASO MOZILLA, SUS CONTRATISTAS O SUS OTORGANTES DE LICENCIAS SERÁN RESPONSABLES ANTE USTED O TERCEROS DE LOS DAÑOS DIRECTOS, INDIRECTOS, ESPECIALES, RESULTANTES O EJEMPLARES (INDEPENDIENTEMENTE DEL ORIGEN O DE LA NATURALEZA DE LA RECLAMACIÓN) QUE DERIVEN DEL USO DEL Firefox Marketplace, DE SU CONTENIDO O DE LOS SITIOS WEB VINCULADOS, INCLUYENDO, ENTRE OTROS, PÉRDIDAS DE BENEFICIOS, INTERRUPCIÓN DE LA ACTIVIDAD EMPRESARIAL O PÉRDIDAS DE DATOS, INCLUSO SI MOZILLA, SUS CONTRATISTAS O SUS OTORGANTES DE LICENCIAS HUBIERAN SIDO NOTIFICADOS EXPRESAMENTE SOBRE LA POSIBILIDAD DE QUE SURGIESEN DICHOS DAÑOS.
+
+ALGUNAS JURISDICCIONES NO ADMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS O LA EXCLUSIÓN O LIMITACIÓN DE LA RESPONSABILIDAD DE DETERMINADOS DAÑOS FORTUITOS O RESULTANTES, POR LO QUE ES POSIBLE QUE ALGUNAS DE LAS LIMITACIONES ANTERIORMENTE DESCRITAS NO LE AFECTEN.
+
+
+### Legislación aplicable
+
+Las presentes Condiciones se rigen por las leyes del estado de California, sin consideración de los principios sobre conflictos de leyes. Las disposiciones de la Convención de las Naciones Unidas sobre la compraventa internacional de mercaderías y la Ley uniforme de transacciones de información computarizada, sea cual sea la manera en que se designen, se excluyen y no se aplican al presente Contrato ni a las transacciones celebradas en virtud del mismo. Usted acepta someterse a la jurisdicción personal y exclusiva de los tribunales estatales y federales ubicados en el condado de Santa Clara, California, en caso de que se produzca cualquier demanda o litigio.
+
+
+### Aspectos varios
+
+En virtud de las presentes Condiciones, no podrá ceder sus derechos ni obligaciones. Las presentes Condiciones no beneficiarán ni darán derecho alguno a terceros. Las presentes Condiciones se rigen y se interpretan de acuerdo con las leyes de California, sin consideración de los principios sobre conflictos de leyes. Nuestra relación será la de contratistas independientes: las presentes Condiciones no se interpretarán como la creación de una asociación conjunta o sociedad entre las partes. Ninguna de las partes deberá ser considerada empleada, representante, socia ni representante legal de la otra con ninguna finalidad y no tendrá el derecho, el poder ni la autoridad de crear obligaciones o responsabilidades en nombre de la otra parte. Las presentes Condiciones constituyen la totalidad del acuerdo entre las partes con respecto al asunto aquí tratado. Las Condiciones sustituyen a cualquier garantía o acuerdo anterior, y prevalecen sobre los mismos, en relación con el objeto del presente documento. En caso de que alguna de las disposiciones de las Condiciones se considere nula o no ejecutable por cualquier motivo, dicha invalidez no deberá afectar al resto de las Condiciones; las disposiciones nulas o no ejecutables serán sustituidas por otras aceptadas por ambas partes cuya validez, legalidad y ejecutabilidad se aproxime a las intenciones originales de las partes, y que tengan un efecto económico similar. Si, en un determinado momento, una de las partes no exige el cumplimiento de alguna de las presentes disposiciones, este hecho no influirá en el derecho que la parte tiene de exigir dicho cumplimiento posteriormente. La renuncia al cumplimiento de alguna de las disposiciones o cláusulas de las presentes Condiciones (ya sea mediante conducta o de otro modo y en uno o varios casos) no se considerará ni se interpretará como la renuncia permanente a dicho cumplimiento o al de otras disposiciones o cláusulas aquí recogidas.
