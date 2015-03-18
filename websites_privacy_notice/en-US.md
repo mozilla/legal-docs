@@ -22,6 +22,7 @@ We may receive personal information from you based on your interaction with us o
 
 * **Product & Policy Campaigns**:  Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.  
 {: #campaigns }
+
 ---------------------------------------
 
 We use cookies, clear GIFs, third party web analytics, and IP addresses for functionality and to improve our products, services, and communications. 
