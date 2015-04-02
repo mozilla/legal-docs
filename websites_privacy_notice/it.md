@@ -1,6 +1,6 @@
 # Informativa sulla privacy dei siti web, comunicazioni e cookie
 
-27 agosto 2014
+18 marzo, 2015
 {: datetime="2014-08-27" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
@@ -9,7 +9,7 @@ Questa informativa sulla privacy si applica ai siti web gestiti da Mozilla, che 
 
 ## Cose da sapere
 
-Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi su piattaforme di social media, inviano una domanda di lavoro, tirocinio o borsa di studio, si offrono per collaborare come volontari al progetto Mozilla o inviano commenti, suggerimenti o richieste di vario genere.
+Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi su piattaforme di social media, inviano una domanda di lavoro, tirocinio o borsa di studio, si offrono per collaborare come volontari al progetto Mozilla o inviano commenti, suggerimenti o richieste di vario genere o se si relazionano a una campagna relativa a una politica o a un prodotto.
 {: #personal-info }
 
 * **Social media** Interagendo con i nostri account sui social media quali Twitter e Facebook, potremo ricevere delle informazioni personali. Se si utilizzano questi network, si applicheranno le rispettive politiche sulla privacy e pertanto ne consigliamo la lettura.
@@ -20,6 +20,9 @@ Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi
 
 * **Commenti e suggerimenti degli utenti** È possibile inviarci commenti e suggerimenti sui prodotti e servizi da noi offerti usando pagine web come [input.mozilla.org](https://input.mozilla.org/), mediante un’esperienza in-product o canali quali email, Bugzilla, IRC, account sui social media, la nostra pagina Collabora, o attraverso un gruppo come Student Ambassadors. Consigliamo di ridurre al minimo le informazioni personali condivise su questi forum, poiché i commenti potrebbero essere accessibili al pubblico.
 
+* **Campagne relative a politiche e prodotti**  Alcune delle nostre pagine Web ospitano campagne relative a politiche o prodotti. Ad esempio, è possibile richiedere un link via e-mail o SMS per installare Firefox sul proprio dispositivo mobile o per presentare una petizione ai legislatori su problemi che riguardano Internet. Per gestire questo tipo di campagne e i relativi dati che gli utenti decidono di inviare ci appoggiamo a terze parti.
+{: #campaigns }
+
 ---------------------------------------
 
 Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizzi IP per garantire la funzionalità del nostro sito e per migliorare i nostri prodotti, servizi e comunicazioni.
@@ -27,9 +30,9 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 
 * **Cookie e indirizzi IP** Utilizziamo cookie e indirizzi IP per aumentare la funzionalità di determinati prodotti e servizi. Ad esempio, utilizziamo i cookie per ricordare le preferenze di lingua e i componenti aggiuntivi su Firefox. I cookie ci aiutano anche con le procedure di registrazione e autenticazione; in questo modo è possibile evitare di inserire la password sui siti web che utilizzano Persona. Gli indirizzi IP vengono utilizzati per personalizzare contenuti relativi al Paese specifico dell’utente.
 
-* **Strumenti di dati online** Utilizziamo *GIF trasparenti* e dati di Web analytics per comprendere nell’insieme il modo in cui gli utenti si relazionano ai nostri prodotti, servizi e comunicazioni sui nostri siti web, campagne online, frammenti di codice, dispositivi e altre piattaforme.
+* **Strumenti di dati online** Utilizziamo GIF trasparenti e dati di Web analytics per comprendere nell'insieme il modo in cui gli utenti si relazionano ai nostri prodotti, servizi, comunicazioni, siti Web, campagne online, frammenti di codice, dispositivi e altre piattaforme.
 
-* **Servizi di terze parti** Utilizziamo servizi di terze parti quali Google Analytics e Optimizely. Questi servizi, a loro volta, utilizzano cookie, indirizzi IP e strumenti di dati online in relazione ai nostri siti web.
+* **Servizi di terze parti** Usiamo servizi di terze parti quali Google Analytics e Optimizely. Tali servizi possono impiegare cookie, indirizzi IP e strumenti di dati online.
 
 ---------------------------------------
 
@@ -44,7 +47,7 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 * **Email** La ricezione delle nostre comunicazioni di marketing è facoltativa: è possibile annullare l’iscrizione nel piè di pagina dell’email oppure aggiornando le proprie [preferenze email Mozilla](https://www.mozilla.org/newsletter/recovery/). È possibile disattivare la funzionalità delle GIF trasparenti visualizzando le nostre email in formato “solo testo”.
 
 * **Analytics e ottimizzazione** Se non si desidera che i dati sulle proprie visite ai siti Mozilla siano raccolti da Google Analytics, consigliamo di installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). Il componente aggiuntivo mantiene anonime le visite e blocca la trasmissione dei dati a Google Analytics.
-Se non si desidera che i dati sulle visite ai siti web Mozilla siano raccolti da Optimizely, visitare il [sito web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni.
+Se non si desidera che i dati sulle proprie visite ai siti Mozilla siano raccolti da Optimizely, consigliamo di [scegliere di disattivare il servizio su www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) oppure di visitare il [sito Web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni.
 
 * **Social media** I pulsanti di condivisione sui social media presenti nei siti web Mozilla sono progettati in modo da non condividere dati con il social network fino a quando non si fa esplicitamente clic sul pulsante.
 
