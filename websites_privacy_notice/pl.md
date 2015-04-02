@@ -1,6 +1,6 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-27 sierpnia 2014 r.
+18 marca 2015 r.
 {: datetime="2014-08-27" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
@@ -9,7 +9,7 @@ Zasady prywatności dotyczą witryn obsługiwanych przez firmę Mozilla, znajduj
 
 ## Co warto wiedzieć
 
-Informacje o użytkownikach możemy otrzymywać w wyniku ich interakcji z nami na platformach mediów społecznościowych, jeśli złożą podanie o pracę, staż lub stypendium, podejmą wolontariat w ramach społeczności Mozilla lub prześlą nam swoje opinie lub prośby. 
+Informacje o użytkownikach możemy otrzymywać w wyniku ich interakcji z nami na platformach mediów społecznościowych, jeśli złożą podanie o pracę, staż lub stypendium, podejmą wolontariat w ramach społeczności Mozilla, prześlą nam swoje opinie lub prośby bądź też wezmą udział w kampanii dotyczącej zasad lub produktów.
 {: #personal-info }
 
 * **Media społecznościowe**: jeśli użytkownik korzysta z naszych kont w serwisach społecznościowych, takich jak Twitter czy Facebook, możemy otrzymać jego dane osobowe. Zasady korzystania z tych serwisów regulują ich polityki prywatności, do których przeczytania zachęcamy.
@@ -20,6 +20,9 @@ Informacje o użytkownikach możemy otrzymywać w wyniku ich interakcji z nam
 
 * **Opinie użytkowników**: użytkownicy mogą dzielić się swoimi opiniami na temat naszych produktów i usług na stronach takich jak [input.mozilla.org](https://input.mozilla.org/), przy użyciu funkcji dostępnych w produktach lub za pośrednictwem takich kanałów komunikacji, jak poczta e-mail, serwis Bugzilla, usługa IRC lub konta w serwisach społecznościowych, na stronie Dołącz do nas lub za pośrednictwem grup, takich jak Student Ambassadors. Podając informacje na tych forach, należy podawać jak najmniej danych osobowych, ponieważ komentarze mogą być dostępne publicznie.
 
+* **Kampanie dotyczące zasad i produktów**:  na niektórych z naszych stron internetowych znajdują się kampanie dotyczące zasad lub produktów. Użytkownicy mogą na przykład poprosić w wiadomości e-mail lub SMS o łącze umożliwiające zainstalowanie przeglądarki Firefox na urządzeniu przenośnym albo wysłać do ustawodawców petycję w sprawach dotyczących Internetu. Obsługą tego rodzaju kampanii zajmują się firmy zewnętrzne, które także obsługują przesłane przez użytkowników dane.
+{: #campaigns }
+
 ---------------------------------------
 
 Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, korzystamy z ciasteczek, przezroczystych plików GIF, narzędzi analitycznych firm zewnętrznych oraz adresów IP. 
@@ -27,9 +30,9 @@ Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, kor
 
 * **Ciasteczka i adresy IP**: używamy ich do zwiększania funkcjonalności niektórych produktów i usług. Ciasteczek używamy na przykład do zapamiętywania preferencji językowych użytkowników i dodatków przeglądarki Firefox. Pomagają również przy logowaniu i uwierzytelnianiu, dzięki czemu nie trzeba podawać haseł w witrynach używających systemu Persona. Adresy IP są wykorzystywane do dostosowania treści do danego kraju.
 
-* **Narzędzia obsługi danych w Internecie**: używamy przezroczystych plików GIF i narzędzi analitycznych, by dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług oraz metod komunikacji w naszych witrynach, kampaniach internetowych, wstawkach, urządzeniach i na innych platformach. 
+* **Narzędzia obsługi danych w Internecie**: używamy przezroczystych plików GIF i narzędzi analitycznych, by dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług, metod komunikacji, witryn, kampanii internetowych, wycinków, urządzeń i innych platform.
 
-* **Usługi firm zewnętrznych** Korzystamy z usług firm zewnętrznych, takich jak Google Analytics czy Optimizely. Używają one ciasteczek, adresów IP oraz internetowych narzędzi analizy danych do obsługi naszych witryn.  
+* **Usługi firm zewnętrznych**: korzystamy z usług firm zewnętrznych, takich jak Google Analytics czy Optimizely. Używają one ciasteczek, adresów IP oraz internetowych narzędzi analizy danych.  
 
 ---------------------------------------
 
@@ -44,7 +47,7 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 * **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/). Funkcjonalność przezroczystych plików GIF można wyłączyć, wyświetlając wiadomości od nas w formacie czysto tekstowym.
 
 * **Analityka i optymalizacja**: jeśli użytkownik nie chce, by usługa Google Analytics zbierała informacje o jego wizytach w witrynach firmy Mozilla, może zainstalować [dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatek dba o anonimowość wizyt i uniemożliwia przesyłanie danych do usługi Google Analytics.
-Jeśli użytkownik nie chce, by usługa Optimizely zbierała informacje o jego wizytach w witrynach firmy Mozilla, więcej informacji znajdzie w [witrynie rezygnacji z usługi Optimizely](https://www.optimizely.com/opt_out).
+Jeśli użytkownik nie chce, by usługa Optimizely zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [zrezygnować z tej usługi na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub uzyskać więcej informacji w [witrynie rezygnacji z usług Optimizely](https://www.optimizely.com/opt_out).
 
 * **Media społecznościowe**: przyciski społecznościowe w witrynach firmy Mozilla zostały zaprojektowane tak, by nie udostępniać żadnych danych dostawcom usług społecznościowych, dopóki nie kliknie ich użytkownik.
 
