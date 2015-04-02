@@ -1,4 +1,4 @@
-# Firefox OS правила приватности
+# Firefox OS pravila privatnosti
 
 8\. мај 2013. године
 {: datetime="2013-05-08" }
@@ -13,6 +13,8 @@ Firefox OS se povezuje sa nama i sa drugima kako bi Vam obezbedio funkcije proiz
 * Ažuriranja: Kako bi stalno bio ažuriran, Firefox OS se automatski povezuje sa servisom koji se uređuje od strane ili u ime proizvođača Vašeg uređaja. Firefox OS takođe automatski proverava ažuriranja instaliranih aplikacija slanjem zahteva Firefox Marketplace-u ili, ako ste instalirali aplikaciju sa druge lokacije, servisu članova razvojnog tima za tu aplikaciju.
 * Lokacija: Kada uključite usluge lociranja, Firefox OS može koristiti više tačaka podataka i subjekata kako bi procenio Vašu lokaciju, uključujući pružaoce GPS, AGPS i drugih geolokacijskih usluga. Usluge lociranja možete isključiti u aplikaciji Firefox OS "Podešavanja" na svom uređaju.
 * Početna aktivacija: Kako bi obezbedio odgovarajuća ažuriranja i aplikacije, Firefox OS šalje Mozilla-i ping podatke samo jednom prilikom prvog uključenja. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* Korišćenje aplikacije: Radi lakšeg pronalaženja sadržaja na aplikaciji Firefox Marketplace, Firefox OS kompaniji Mozilla šalje „Podatke o korišćenju aplikacije“ (npr. vreme aktivnog korišćenja, broj otvaranja/zatvaranja/padova, listu deinstaliranih aplikacija na uređajima Firefox OS). Slanje Podataka o korišćenju aplikacije možete isključiti u okviru „Podešavanja“ u aplikaciji Firefox OS na vašem uređaju. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
+* Podaci o pružaocu usluge pretraživača: U cilju poboljšanja pretrage na uređajima koji koriste Firefox OS, Firefox OS kompaniji Mozilla šalje podatke o pretraživaču koji je korišćen za dobijanje rezultata pretrage na uređaju. Slanje Podataka o rezultatima pretrage putem pretraživača možete isključiti u okviru „Podešavanja“ u aplikaciji Firefox OS na vašem uređaju. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
 
 ---------------------------------------
 
