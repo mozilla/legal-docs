@@ -1,7 +1,7 @@
 # Aviso de Privacidade sobre sites, comunicação e cookies
 
 18.03.15
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 

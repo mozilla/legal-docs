@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Cookie
 
 18 Maret 2015
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Kami peduli dengan privasi Anda. Apabila Mozilla (berarti itu kami) mengumpulkan informasi tentang Anda, [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut.
 

@@ -1,7 +1,7 @@
 # Informativa sulla privacy dei siti web, comunicazioni e cookie
 
-18 marzo, 2015
-{: datetime="2014-08-27" }
+18 marzo 2015
+{: datetime="2015-03-18" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
 
@@ -9,7 +9,7 @@ Questa informativa sulla privacy si applica ai siti web gestiti da Mozilla, che 
 
 ## Cose da sapere
 
-Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi su piattaforme di social media, inviano una domanda di lavoro, tirocinio o borsa di studio, si offrono per collaborare come volontari al progetto Mozilla o inviano commenti, suggerimenti o richieste di vario genere o se si relazionano a una campagna relativa a una politica o a un prodotto.
+Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi su piattaforme di social media, inviano una domanda di lavoro, tirocinio o borsa di studio, si offrono per collaborare come volontari al progetto Mozilla, inviano commenti, suggerimenti o richieste di vario genere o se partecipano a una campagna relativa a politiche o prodotti.
 {: #personal-info }
 
 * **Social media** Interagendo con i nostri account sui social media quali Twitter e Facebook, potremo ricevere delle informazioni personali. Se si utilizzano questi network, si applicheranno le rispettive politiche sulla privacy e pertanto ne consigliamo la lettura.
@@ -20,7 +20,7 @@ Possiamo ricevere informazioni personali quando gli utenti interagiscono con noi
 
 * **Commenti e suggerimenti degli utenti** È possibile inviarci commenti e suggerimenti sui prodotti e servizi da noi offerti usando pagine web come [input.mozilla.org](https://input.mozilla.org/), mediante un’esperienza in-product o canali quali email, Bugzilla, IRC, account sui social media, la nostra pagina Collabora, o attraverso un gruppo come Student Ambassadors. Consigliamo di ridurre al minimo le informazioni personali condivise su questi forum, poiché i commenti potrebbero essere accessibili al pubblico.
 
-* **Campagne relative a politiche e prodotti**  Alcune delle nostre pagine Web ospitano campagne relative a politiche o prodotti. Ad esempio, è possibile richiedere un link via e-mail o SMS per installare Firefox sul proprio dispositivo mobile o per presentare una petizione ai legislatori su problemi che riguardano Internet. Per gestire questo tipo di campagne e i relativi dati che gli utenti decidono di inviare ci appoggiamo a terze parti.
+* **Campagne relative a politiche e prodotti**  Alcune delle nostre pagine Web ospitano campagne relative a politiche o prodotti. Ad esempio, è possibile richiedere un link via e-mail o SMS per installare Firefox sul proprio dispositivo *mobile* o per presentare una petizione ai legislatori su problemi che riguardano Internet. Per gestire questo tipo di campagne e i relativi dati che gli utenti decidono di inviare ci appoggiamo a terze parti.
 {: #campaigns }
 
 ---------------------------------------
@@ -30,7 +30,7 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 
 * **Cookie e indirizzi IP** Utilizziamo cookie e indirizzi IP per aumentare la funzionalità di determinati prodotti e servizi. Ad esempio, utilizziamo i cookie per ricordare le preferenze di lingua e i componenti aggiuntivi su Firefox. I cookie ci aiutano anche con le procedure di registrazione e autenticazione; in questo modo è possibile evitare di inserire la password sui siti web che utilizzano Persona. Gli indirizzi IP vengono utilizzati per personalizzare contenuti relativi al Paese specifico dell’utente.
 
-* **Strumenti di dati online** Utilizziamo GIF trasparenti e dati di Web analytics per comprendere nell'insieme il modo in cui gli utenti si relazionano ai nostri prodotti, servizi, comunicazioni, siti Web, campagne online, frammenti di codice, dispositivi e altre piattaforme.
+* **Strumenti di dati online** Utilizziamo GIF trasparenti e dati di Web analytics per comprendere nell'insieme il modo in cui gli utenti si relazionano ai nostri prodotti, servizi, comunicazioni, siti web, campagne online, frammenti di codice, dispositivi e altre piattaforme.
 
 * **Servizi di terze parti** Usiamo servizi di terze parti quali Google Analytics e Optimizely. Tali servizi possono impiegare cookie, indirizzi IP e strumenti di dati online.
 

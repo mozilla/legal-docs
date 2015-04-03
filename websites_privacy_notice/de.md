@@ -1,7 +1,7 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
 18.03.2015
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
