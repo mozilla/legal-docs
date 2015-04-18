@@ -56,9 +56,9 @@ Die [Datenschutzerklärung zu Mozilla-Websites, Kommunikation und Cookies](https
 
 Falls Sie unsere Newsletter abonnieren oder sich in Verbindung mit einer unserer Websites für ein Konto registrieren, erhalten Sie eventuell Transaktions-E-Mails von uns in Verbindung mit Ihrem Konto (z. B. Updates zu juristischen Fragen, Datenschutz und Sicherheit).
 
-Manche unserer Websites verwenden Online-Tools, mit denen Sie E-Mails an Andere senden können. Sie können z. B. Ihre Kontakte über Ihr Webmaker-Konto zu Veranstaltungen einladen. Sie sagen zu, die E-Mail-Adressen Anderer nicht zu missbrauchen (z. B. durch Senden von Spam). 
+Manche unserer Websites verwenden Online-Werkzeuge, mit denen Sie E-Mails an Andere senden können. Sie können z. B. Ihre Kontakte über Ihr Webmaker-Konto zu Veranstaltungen einladen. Sie sagen zu, die E-Mail-Adressen Anderer nicht zu missbrauchen (z. B. durch Senden von Spam). 
 
-Andere Websites, wie MozReps und Webmaker, stellen Tools bereit, mit denen Benutzer Veranstaltungen organisieren können, an denen alle anderen Benutzer teilnehmen können. Bitte lassen Sie hinsichtlich der Teilnahme an solchen Veranstaltungen Vorsicht walten und vertrauen Sie niemandem leichtfertig.
+Andere Websites, wie MozReps und Webmaker, stellen Werkzeuge bereit, mit denen Benutzer Veranstaltungen organisieren können, an denen alle anderen Benutzer teilnehmen können. Bitte lassen Sie hinsichtlich der Teilnahme an solchen Veranstaltungen Vorsicht walten und vertrauen Sie niemandem leichtfertig.
 
 
 #### 7\. Meldung von Missbrauch
@@ -76,7 +76,7 @@ In all diesen Fällen endet diese Vereinbarung, mit Ausnahme der folgenden Absch
 
 #### 9\. Schadloshaltung
 
-Sie stimmen zu, Mozilla, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter der vorgenannten („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Kommunikation (unter anderem aus Ihren Einreichungen oder einer Verletzung dieser Bedingungen) ergeben, zu schützen, schadlos zu halten und freizustellen.
+Sie stimmen zu, Mozilla, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitende Angestellte, Mitarbeiter und Vertreter der vorgenannten („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Kommunikation (unter anderem aus Ihren Einreichungen oder einer Verletzung dieser Bedingungen) ergeben, zu schützen, schadlos zu halten und freizustellen.
 
 
 #### 10\. Haftungsablehnung; Haftungsbeschränkung
@@ -103,5 +103,5 @@ Mountain View, CA 94041
 USA  
 Tel.: +1-650-903-0800  
 Fax: +1-650-903-0875  
-Legal-Notices (bei) mozilla.com
+Legal-Notices (at) mozilla.com
 
