@@ -9,7 +9,7 @@ Na ochraně vašeho soukromí nám záleží. Když Hello odešle informace spol
 
 Když provádíte hovory, společnosti Mozilla se odesílají některé informace, aby mohl být hovor spojen. Jakmile ke spojení dojde, vaše komunikace je šifrována.
 
-* **Účty Firefox**: U Firefox Hello je použití účtů dobrovolné.  Když se přihlásíte pomocí účtu Firefox, Firefox odešle společnosti Mozilla název vašeho účtu, aby k vám mohly být směrovány hovory přímo. Další informace o tom, jak účty Firefox používají data, najdete [zde](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Účty Firefox**: U Firefox Hello je použití účtů dobrovolné.  Když se přihlásíte pomocí účtu Firefox, Firefox odešle společnosti Mozilla název vašeho účtu, aby k vám mohly být směrovány hovory přímo. Další informace o tom, jak účty Firefox používají data, najdete [zde](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Kontakty**: Můžete importovat nebo přidat nové kontakty a vytvořit si adresář s e-mailovými adresami, profilovými obrázky a jmény lidí, kterým můžete volat.  Tyto informace jsou uloženy lokálně ve vašem zařízení.
 

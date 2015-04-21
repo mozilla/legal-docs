@@ -9,7 +9,7 @@ Firefox Hello cjelovita je usluga video i glasovnog komuniciranja u stvarnom vre
 
 ### 2. Registracija računa
 
-Firefox račun može se zahtijevati za korištenje određenih značajki Usluge, kao što je uvoz vaših kontakata iz druge usluge ili izrađivanje novih kontakata.  Ako se prijavite za Firefox račun, pristajete na [Uvjete pružanja usluge](https://www.mozilla.org/en-US/about/legal/terms/services) Firefox računa i [Napomenu o privatnosti](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Firefox račun može se zahtijevati za korištenje određenih značajki Usluge, kao što je uvoz vaših kontakata iz druge usluge ili izrađivanje novih kontakata.  Ako se prijavite za Firefox račun, pristajete na [Uvjete pružanja usluge](https://www.mozilla.org/about/legal/terms/services) Firefox računa i [Napomenu o privatnosti](https://www.mozilla.org/privacy/firefox-cloud).
 
 ### 3. Značajke
 

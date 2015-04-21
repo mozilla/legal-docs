@@ -9,7 +9,7 @@ Firefox Hello ist ein Video- und Telefoniedienst für die End-to-End-Echtzeit-Ko
 
 ### 2. Kontoregistrierung
 
-Um bestimmte Funktionen des Service zu verwenden, ist eventuell ein Firefox-Konto erforderlich, wie z. B. für den Import Ihrer Kontakte aus einem anderen Service oder das Erstellen neuer Kontakte.  Wenn Sie sich für ein Firefox-Konto registrieren, stimmen Sie den [Servicebedingungen](https://www.mozilla.org/en-US/about/legal/terms/services) und dem [Datenschutzhinweis](https://www.mozilla.org/en-US/privacy/firefox-cloud) für Firefox-Konten zu.
+Um bestimmte Funktionen des Service zu verwenden, ist eventuell ein Firefox-Konto erforderlich, wie z. B. für den Import Ihrer Kontakte aus einem anderen Service oder das Erstellen neuer Kontakte.  Wenn Sie sich für ein Firefox-Konto registrieren, stimmen Sie den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox-cloud) für Firefox-Konten zu.
 
 ### 3. Funktionen
 

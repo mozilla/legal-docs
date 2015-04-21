@@ -9,7 +9,7 @@ Fontos számunkra az Ön adatainak védelme. A Hello információkat küld a Moz
 
 Ha Ön hívásokat kezdeményez, bizonyos adatokat a Mozillához küldenek a kapcsolat létrehozása érdekében. A csatlakozás létrehozását követően az Ön kommunikációja titkosításra kerül.
 
-* **Firefox-fiókok**: A Firefox Hello esetében a fiókok használata tetszőleges. Ha Ön Firefox-fiókkal jelentkezik be, az Ön Firefox böngészője elküldi a Mozillának fiókja megnevezését azért, hogy a hívásokat közvetlenül Önhöz irányítsák. [Ide](https://www.mozilla.org/en-US/privacy/firefox-cloud/) kattintva tudhat meg többet arról, hogy a Firefox-fiókok hogyan használják az adatokat.
+* **Firefox-fiókok**: A Firefox Hello esetében a fiókok használata tetszőleges. Ha Ön Firefox-fiókkal jelentkezik be, az Ön Firefox böngészője elküldi a Mozillának fiókja megnevezését azért, hogy a hívásokat közvetlenül Önhöz irányítsák. [Ide](https://www.mozilla.org/privacy/firefox-cloud/) kattintva tudhat meg többet arról, hogy a Firefox-fiókok hogyan használják az adatokat.
 
 * **Partnerek**: E-mail címeket, profilképeket és a felhívható emberek neveit tartalmazó címjegyzéket hozhat létre a partnerek importálása és újak hozzáadása révén. Ezek az adatok az Ön eszközén, helyi szinten kerülnek tárolásra.
 

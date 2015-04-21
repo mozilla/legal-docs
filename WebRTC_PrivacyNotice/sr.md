@@ -9,7 +9,7 @@ Stalo nam je do vaše privatnosti. Kada Hello šalje informacije kompaniji Mozil
 
 Kada pozivate neki broj, određene informacije se šalju kompaniji Mozilla u cilju ostvarivanja veze. Nakon povezivanja, vaša komunikacija je kodirana.
 
-* **Firefox nalozi**: Korišćenje naloga uz Firefox Hello nije obavezno.  Ako se prijavite sa Firefox nalogom, vaš Firefox pretraživač šalje kompaniji Mozilla ime naloga radi preusmeravanja poziva na vas. Da biste saznali više o tome kako Firefox nalozi koriste podatke, kliknite [ovde](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Firefox nalozi**: Korišćenje naloga uz Firefox Hello nije obavezno.  Ako se prijavite sa Firefox nalogom, vaš Firefox pretraživač šalje kompaniji Mozilla ime naloga radi preusmeravanja poziva na vas. Da biste saznali više o tome kako Firefox nalozi koriste podatke, kliknite [ovde](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Kontakti**: Možete da uvezete ili dodate nove kontakte za kreiranje adresara sa adresama e-pošte, profilne slike i imena ljudi koje pozivate.  Ova informacija se čuva lokalno na vašem uređaju.
 

@@ -9,7 +9,7 @@ Firefox Hello, Mozilla की एक एंड-टु-एंड रियल-ट
 
 ### 2. खाता पंजीकरण
 
-किसी अन्य सेवा से संपर्कों को आयात करने या नए संपर्क बनाने जैसी इस सेवा की कुछ सुविधाओं के लिए Firefox खाते की आवश्यकता पड़ सकती है.  यदि आप Firefox खाते के लिए साइन अप करते हैं तो आप Firefox खाते [सेवा की शर्तों](https://www.mozilla.org/en-US/about/legal/terms/services) और [गोपनीयता नीति](https://www.mozilla.org/en-US/privacy/firefox-cloud)स्वीकार करते हैं.
+किसी अन्य सेवा से संपर्कों को आयात करने या नए संपर्क बनाने जैसी इस सेवा की कुछ सुविधाओं के लिए Firefox खाते की आवश्यकता पड़ सकती है.  यदि आप Firefox खाते के लिए साइन अप करते हैं तो आप Firefox खाते [सेवा की शर्तों](https://www.mozilla.org/about/legal/terms/services) और [गोपनीयता नीति](https://www.mozilla.org/privacy/firefox-cloud)स्वीकार करते हैं.
 
 ### 3. सुविधाएं
 

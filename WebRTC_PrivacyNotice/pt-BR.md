@@ -9,7 +9,7 @@ Nós nos importamos com sua privacidade. Quando o Hello envia informações para
 
 Quando você fizer uma chamada, algumas informações são enviadas à Mozilla para conectar a chamada. Depois que estiver conectado, suas comunicações serão criptografadas.
 
-* **Contas Firefox**: O uso das contas com o Firefox Hello é opcional.  Caso entre usando uma conta Firefox, seu navegador Firefox envia o nome da sua conta à Mozilla para direcionar as chamadas a você. Para saber mais sobre como os dados são utilizados pelas contas Firefox, clique [aqui](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Contas Firefox**: O uso das contas com o Firefox Hello é opcional.  Caso entre usando uma conta Firefox, seu navegador Firefox envia o nome da sua conta à Mozilla para direcionar as chamadas a você. Para saber mais sobre como os dados são utilizados pelas contas Firefox, clique [aqui](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Contatos**: É possível importar ou adicionar novos contatos para criar uma agenda com endereços de email, fotos de perfil e nomes das pessoas a quem você pode fazer uma chamada.  Essas informações são armazenadas localmente em seu dispositivo.
 

@@ -9,7 +9,7 @@ Nous nous soucions de votre vie privée. Quand Hello envoie des informations à 
 
 Lorsque vous passez des appels, certaines informations sont envoyées à Mozilla afin de connecter l'appel. Une fois connecté, vos communications sont chiffrées.
 
-* **Comptes Firefox** : L’utilisation des comptes avec Firefox Hello est facultative.  Si vous ouvrez un compte Firefox, votre navigateur Firefox envoie à Mozilla le nom de votre compte afin que les appels vous soient adressés. Pour de plus amples renseignements sur la façon dont les données sont utilisées par les comptes Firefox, cliquez [ici](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Comptes Firefox** : L’utilisation des comptes avec Firefox Hello est facultative.  Si vous ouvrez un compte Firefox, votre navigateur Firefox envoie à Mozilla le nom de votre compte afin que les appels vous soient adressés. Pour de plus amples renseignements sur la façon dont les données sont utilisées par les comptes Firefox, cliquez [ici](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Contacts** : Vous pouvez importer ou ajouter des contacts pour créer un carnet d'adresses avec les adresses de courrier électronique, la photo et le nom des personnes que vous êtes susceptible d'appeler.  Ces informations sont stockées localement sur votre appareil.
 
