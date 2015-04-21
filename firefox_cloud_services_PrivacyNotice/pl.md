@@ -7,7 +7,7 @@ Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli usłu
 
 ## Co warto wiedzieć:
 
-Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanych funkcji Usług.  Więcej informacji.
+Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanych funkcji Usług.
 
 * **Konto Firefox**: Kiedy użytkownik dokona rejestracji w celu uzyskania konta, otrzymujemy informacje obejmujące jego adres e-mail i utworzone hasło.
 * **Funkcja Sync**: Jeśli użytkownik korzysta z funkcji Sync, otrzymujemy określone informacje umożliwiające synchronizowanie kart, dodatku awesome bar, haseł, zakładek, preferencji przeglądarki i innych danych między różnymi urządzeniami.
@@ -15,7 +15,7 @@ Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanyc
 
 ---------------------------------------
 
-Korzystamy z ciasteczek, przezroczystych plików GIF i innych technologii internetowych, aby ulepszać nasze produkty i usługi.  Więcej informacji.
+Korzystamy z ciasteczek, przezroczystych plików GIF i innych technologii internetowych, aby ulepszać nasze produkty i usługi.
 
 * **Narzędzia obsługi danych w Internecie**: Korzystamy z „narzędzi obsługi danych w Internecie”, takich jak ciasteczka, przezroczyste pliki GIF i internetowe sygnały nawigacyjne, aby zapewniać określoną funkcjonalność naszych produktów i usług. Na przykład ciasteczka służą do obsługi logowania się i uwierzytelniania użytkowników. Korzystamy również z tych samych narzędzi, aby ulepszać nasze produkty i usługi. Na przykład używamy ciasteczek podczas analizy ruchu internetowego.
 
