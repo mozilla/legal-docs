@@ -13,5 +13,5 @@ Na vašem soukromí nám záleží. Pokud Mozilla (tedy my) shromažďuje inform
   - U zařízení s OS Firefox využíváme informace o používání sítě z vašeho zařízení ke zjištění místa vašeho pobytu a sítě operátora, abychom přizpůsobili vaše zkušenosti a mohli vám nabízet speciální obsah operátora.
   - Na všech našich platformách můžeme využívat vaši IP adresu ke stanovení země místa vašeho pobytu pro přizpůsobení vaší zkušenosti.
 - Pro instalaci bezplatných aplikací se přihlašovat nemusíte, ale pro placené aplikace se přihlášení vyžaduje. Pomáháme vám také vést historii vašich transakčních aktivit (jako např. které Aplikace jste koupili).
-- Pro přihlášené uživatele Firefox Marketplace využívá váš jazyk, zemi a nainstalované aplikace pro doporučení dalších aplikací, které by vás mohly zajímat.  To lze deaktivovat v Nastavení účtu. [Podrobnější informace](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Pro přihlášené uživatele Firefox Marketplace využívá váš jazyk, zemi a nainstalované aplikace pro doporučení dalších aplikací, které by vás mohly zajímat.  To lze deaktivovat v Nastavení účtu. [Podrobnější informace](https://support.mozilla.org/kb/recommendations-marketplace).
 - Můžete se rozhodnout přijímat od nás e-maily a přijímání veškeré e-mailové marketingové komunikace, kterou jste dříve schválili, můžete kdykoliv zrušit.

@@ -9,7 +9,7 @@ O Firefox Hello é um serviço de comunicações em tempo real por vídeo e voz 
 
 ### 2. Registro da conta
 
-Uma conta Firefox pode ser necessária para utilizar determinados recursos do Serviço, como importar seus contatos de outro serviço ou criar novos contatos.  Ao se inscrever para uma conta Firefox, você concorda com os [Termos de serviço](https://www.mozilla.org/en-US/about/legal/terms/services) e com o [Aviso de privacidade](https://www.mozilla.org/en-US/privacy/firefox-cloud) das contas Firefox.
+Uma conta Firefox pode ser necessária para utilizar determinados recursos do Serviço, como importar seus contatos de outro serviço ou criar novos contatos.  Ao se inscrever para uma conta Firefox, você concorda com os [Termos de serviço](https://www.mozilla.org/about/legal/terms/services) e com o [Aviso de privacidade](https://www.mozilla.org/privacy/firefox-cloud) das contas Firefox.
 
 ### 3. Recursos
 

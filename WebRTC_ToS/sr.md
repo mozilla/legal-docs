@@ -9,7 +9,7 @@ Firefox Hello je servis („Servis“) za video i audio komunikaciju u realnom v
 
 ### 2. Registracija naloga
 
-Za korišćenje nekih funkcija Servisa može vam biti potreban Firefox nalog, npr. za uvoz kontakata iz drugog servisa ili kreiranje novih kontakata. Ako se prijavite za Firefox nalog, saglasni ste sa [Uslovima korišćenja](https://www.mozilla.org/en-US/about/legal/terms/servicesFirefox naloga i [Obaveštenjem o privatnosti](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Za korišćenje nekih funkcija Servisa može vam biti potreban Firefox nalog, npr. za uvoz kontakata iz drugog servisa ili kreiranje novih kontakata. Ako se prijavite za Firefox nalog, saglasni ste sa [Uslovima korišćenja](https://www.mozilla.org/about/legal/terms/servicesFirefox naloga i [Obaveštenjem o privatnosti](https://www.mozilla.org/privacy/firefox-cloud).
 
 ### 3. Funkcije
 

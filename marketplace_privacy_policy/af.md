@@ -13,5 +13,5 @@ Ons gee om oor jou privaatheid. Mozilla (dit is ons) se [privaatheidsbeleid](htt
   - Op Firefox OS-toestelle gebruik ons netwerkinligting uit jou toestel om jou landligging en draernetwerk te weet, om jou ervaring te pasmaak en spesiale draerinhoud te lewer.
   - Op alle platforms kan ons moontlik jou IP-adres gebruik om jou landligging te bepaal om jou ervaring te pasmaak.
 - Jy hoef nie aan te meld om 'n gratis program te installeer nie, maar betaalde programme vereis aanmelding. Ons help jou ook om 'n geskiedenis van jou transaksieaktiwiteit te hou (byvoorbeeld watter programme jy gekoop het).
-- Wanneer jy aangemeld is, gebruik Firefox Markplek jou taal, jou streek en jou bestaande programme om bykomende programme voor te stel.  Dit kan in Rekeninginstellings gedeaktiveer word.  [Kom meer te wete](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Wanneer jy aangemeld is, gebruik Firefox Markplek jou taal, jou streek en jou bestaande programme om bykomende programme voor te stel.  Dit kan in Rekeninginstellings gedeaktiveer word.  [Kom meer te wete](https://support.mozilla.org/kb/recommendations-marketplace).
 - Jy kan besluit om e-pos van ons af te ontvang en jy kan van enige bemarking-e-pos afteken wat jy vroeër gesê het jy wil ontvang.

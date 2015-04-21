@@ -30,6 +30,6 @@ Użytkownika.
 - Użytkownik nie musi się logować, aby zainstalować darmową Aplikację, jednak
 instalacja płatnej Aplikacji wymaga logowania. Ponadto, Mozilla prowadzi
 historię tranzakcji Użytkownika (np. jakie Aplikacje zostały zakupione).
-- W przypadku zalogowanych użytkowników usługa Firefox Marketplace wykorzystuje ich język, kraj i zainstalowane aplikacje, by polecić dodatkowe aplikacje, które mogą ich zainteresować.  Można to wyłączyć w ustawieniach konta. [Więcej informacji](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- W przypadku zalogowanych użytkowników usługa Firefox Marketplace wykorzystuje ich język, kraj i zainstalowane aplikacje, by polecić dodatkowe aplikacje, które mogą ich zainteresować.  Można to wyłączyć w ustawieniach konta. [Więcej informacji](https://support.mozilla.org/kb/recommendations-marketplace).
 - Użytkownik może zgodzić się na otrzymywanie od Mozilla wiadomości email o
 zawartości marketingowej i w każdym momencie może cofnąć taką zgodę.

@@ -13,5 +13,5 @@ Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o 
   - Na uređajima s operativnim sustavom Firefox koristimo mrežne podatke vašeg uređaja kako bismo saznali iz koje ste zemlje i mrežu operatera radi prilagodbe vašem korištenju i ponudili poseban sadržaj operatera.
   - Vašu IP adresu koristimo na svim platformama kako bismo utvrdili u kojoj se zemlji nalazite te tako prilagodili vaše iskustvo.
 - Za instaliranje besplatnih aplikacija nije potrebna prijava, no ona se zahtijeva za instaliranje plaćenih aplikacija. Također vam pomažemo da spremite povijest vaših transakcijskih aktivnosti (poput kupovine vaših aplikacija).
-- Za prijavljene korisnike, Firefox Marketplace koristi jezik, zemlju i instalirane aplikacije za preporuku dodatnih aplikacija koje vas mogu zanimati.  Ovo može biti onemogućeno u postavkama računa. [Saznajte više](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Za prijavljene korisnike, Firefox Marketplace koristi jezik, zemlju i instalirane aplikacije za preporuku dodatnih aplikacija koje vas mogu zanimati.  Ovo može biti onemogućeno u postavkama računa. [Saznajte više](https://support.mozilla.org/kb/recommendations-marketplace).
 - Možete zatražiti primanje naše e-pošte i odjaviti ranije zatraženo primanje marketinških poruka e-poštom.

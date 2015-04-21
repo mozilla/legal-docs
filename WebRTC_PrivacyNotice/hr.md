@@ -9,7 +9,7 @@ Stalo nam je do vaše privatnosti. Kada usluga Hello pošalje podatke Mozilli (t
 
 Kada upućujete pozive, neke informacije šalju se Mozilli kako bi uspostavila poziv. Kada se poziv uspostavi, vaša je komunikacija kodirana.
 
-* **Firefox računi**: Računi se po vašem izboru mogu koristiti uz uslugu Firefox Hello.  Kada se prijavite na Firefox račun, vaš Firefox preglednik šalje Mozilli naziv vašeg računa kako bi usmjerila pozive prema vama. Kako biste saznali više o tome kako Firefox računi koriste podatke, kliknite [ovdje](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Firefox računi**: Računi se po vašem izboru mogu koristiti uz uslugu Firefox Hello.  Kada se prijavite na Firefox račun, vaš Firefox preglednik šalje Mozilli naziv vašeg računa kako bi usmjerila pozive prema vama. Kako biste saznali više o tome kako Firefox računi koriste podatke, kliknite [ovdje](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Kontakti**: Možete uvesti ili dodati nove kontakte kako biste načinili imenik s adresama e-pošte, slikama profila i imenima osoba kojima možete upućivati pozive.  Ove informacije pohranjuju se lokalno na vašem uređaju.
 

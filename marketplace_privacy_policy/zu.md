@@ -13,5 +13,5 @@ Sibunakekela ubumfihlo bakho. Uma i-Mozilla (okuyithi) iqoqa ulwazi mayelana naw
   - Kumadivayisi we-Firefox OS, sisebenzisa ulwazi lwenethiwekhi kusuka kudivayisi yakho ukuqonda indawo yezwe lakho nenkampani yenethiwekhi ukwenza ngezifiso umuzwa wakho nokunikezela ngokuqukethwe kwenkampani yenethiwekhi okukhethekile.
   - Kuzo zonke izinkundla, singasebenzisa ikheli lakho le-IP ukunquma indawo yezwe lakho ukwenza ngezifiso umuzwa wakho.
 - Akudingeki ukuthi ungene ngemvume ukuze ufake uhlelo mahhala, kodwa izinhlelo ezikhokhelwayo zidinga ukungena. Futhi sikusiza ukunakekela umlando womsebenzi wakho (njengokuthi uluphi uhlelo oluthengile).
-- Kubasebenzisi abangene ngemvume, i-Firefox Marketplace isebenzisa ulimi lakho, izwe, nezinhlelo zokusebenza ezifakiwe ongazithanda.  Lokhu kungakhutshazwa Kumasethingi we-Akhawunti.  [Funda kabanzi](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Kubasebenzisi abangene ngemvume, i-Firefox Marketplace isebenzisa ulimi lakho, izwe, nezinhlelo zokusebenza ezifakiwe ongazithanda.  Lokhu kungakhutshazwa Kumasethingi we-Akhawunti.  [Funda kabanzi](https://support.mozilla.org/kb/recommendations-marketplace).
 - Ungahle ukhethe ukuthola i-imeyili evela kithi futhi ungasusa ukubhalisa ekuxhumaneni kokumaketha nge-imeyili okhethe ukukuthola.

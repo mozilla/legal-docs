@@ -9,7 +9,7 @@ Firefox Hello es un servicio de mensajería en tiempo real mediante vídeo y voz
 
 ### 2. Registro de cuentas
 
-Es posible que deba crearse una cuenta de Firefox para usar determinadas funciones del Servicio, como la importación de contactos de otro servicio o la creación de nuevos contactos.  Si crea una cuenta de Firefox, acepta las [Condiciones del servicio](https://www.mozilla.org/en-US/about/legal/terms/services) y el [Aviso de privacidad](https://www.mozilla.org/en-US/privacy/firefox-cloud) de las cuentas de Firefox.
+Es posible que deba crearse una cuenta de Firefox para usar determinadas funciones del Servicio, como la importación de contactos de otro servicio o la creación de nuevos contactos.  Si crea una cuenta de Firefox, acepta las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox-cloud) de las cuentas de Firefox.
 
 ### 3. Características
 

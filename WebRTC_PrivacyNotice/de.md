@@ -9,7 +9,7 @@ Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Hello Daten an Mozilla (an un
 
 Wenn Sie Anrufe tätigen, werden Informationen an Mozilla gesendet, die zur Herstellung der Verbindung erforderlich sind. Nach der Herstellung der Verbindung erfolgt Ihre Kommunikation verschlüsselt.
 
-* **Firefox-Konten**: Sie brauchen nicht unbedingt ein Konto, um Firefox Hello zu verwenden.  Wenn Sie sich mit einem Firefox-Konto anmelden, sendet Ihr Firefox-Browser Ihren Kontonamen an Mozilla, sodass Sie Anrufe erhalten können. Weitere Informationen über die Verwendung von Daten durch Firefox-Konten erhalten Sie [hier](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Firefox-Konten**: Sie brauchen nicht unbedingt ein Konto, um Firefox Hello zu verwenden.  Wenn Sie sich mit einem Firefox-Konto anmelden, sendet Ihr Firefox-Browser Ihren Kontonamen an Mozilla, sodass Sie Anrufe erhalten können. Weitere Informationen über die Verwendung von Daten durch Firefox-Konten erhalten Sie [hier](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Kontakte**: Sie können Kontakte importieren oder neue hinzufügen, um ein Adressbuch mit E-Mail-Adressen, Profilbildern und Namen der Personen zu erstellen, die Sie anrufen möchten.  Diese Informationen werden lokal auf Ihrem Gerät gespeichert.
 

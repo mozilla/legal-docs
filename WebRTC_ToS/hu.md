@@ -9,7 +9,7 @@ A Firefox Hello a Mozilla által nyújtott, végponttól végpontig terjedő, va
 
 ### 2. Fiók regisztráció
 
-Firefox fiókra van szükség a Szolgáltatás bizonyos funkcióinak használatához, például partnerei adatainak más szolgáltatásból történő importálásához, vagy új kapcsolatok létrehozásához.  Amennyiben Firefox fiók létrehozására regisztrál, azzal elfogadja a Firefox fiókokra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/en-US/about/legal/terms/services) és az [Adatvédelmi tájékoztatót](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Firefox fiókra van szükség a Szolgáltatás bizonyos funkcióinak használatához, például partnerei adatainak más szolgáltatásból történő importálásához, vagy új kapcsolatok létrehozásához.  Amennyiben Firefox fiók létrehozására regisztrál, azzal elfogadja a Firefox fiókokra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services) és az [Adatvédelmi tájékoztatót](https://www.mozilla.org/privacy/firefox-cloud).
 
 ### 3. Funkciók
 

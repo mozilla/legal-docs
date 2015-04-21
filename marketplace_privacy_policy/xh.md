@@ -13,5 +13,5 @@ Sibukhathelele ezabucala lwakho. Xa iMozilla (sithi ke abo) iqokelela inkcazelo 
   - Kwizixhobo zeFirefox OS, ukusebenzisa inkcazelo yenetwekhi evela kwisixhobo esisiqondayo selizwe okulo kunye nokukhetha inethiwekhi yokusebenzisa ukonwabisa nasekunikeleni ngokuthwala okuqulethweyo.
   - Kuzo zonke iindawo, unokusebenzisa idilesi yeIP ukufumanisa ilizwe lendawo okuyo ukulungiselela ulonwabo lwakho.
 - Akuyo mfuneko ukuba uphinde ungene ukufaka usetyenziso olusimahla, kodwa hlawula usetyenziswa ube namagama okungena. Sikunceda ukuba ungcine imbali yezinto ezenziwayo (ezifana nosetyenziso oluthengiweyo).
-- Kubasebenzisi abangenileyo, iFirefox Markeplace isebenzisa ulwimi, ilizwe, ize ifake usetyenziso lokuncomela usetyenziso olongezelelekileyo nolubangela umdla.  Oku kunokuba kwiSethingi Zeakhawunti.  [Funda Okungakumbi](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- Kubasebenzisi abangenileyo, iFirefox Markeplace isebenzisa ulwimi, ilizwe, ize ifake usetyenziso lokuncomela usetyenziso olongezelelekileyo nolubangela umdla.  Oku kunokuba kwiSethingi Zeakhawunti.  [Funda Okungakumbi](https://support.mozilla.org/kb/recommendations-marketplace).
 - Unokukhetha ufumana imeyile evela kuthi uze uyeke ukurhumela nayiphi na imeyile yonxibelelwano yentengiselwano ukuba ukhetha ukuyifumana.
