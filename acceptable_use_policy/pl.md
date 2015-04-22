@@ -9,7 +9,7 @@ niezamówionych wiadomości ani przechwytywania, monitorowania lub modyfikowania
 <https://www.mozilla.org/about/governance/policies/participation/>)
 * Szkodzenia użytkownikom, np. przy użyciu wirusów, oprogramowania szpiegującego 
 lub szkodliwych programów, robaków internetowych, koni trojańskich, bomb zegarowych ani innych szkodliwych kodów lub instrukcji.
-•	Zbierania danych osobowych, w tym m.in. nazw kont i adresów e-mail.
+*	Zbierania danych osobowych, w tym m.in. nazw kont i adresów e-mail.
 * Podejmowania działań zakłócających działanie usług lub produktów firmy Mozilla 
 (lub powiązanych z nimi serwerów i sieci).
 * Reprodukowania, powielania, kopiowania, sprzedaży lub odsprzedaży usług lub produktów 

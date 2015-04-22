@@ -9,7 +9,7 @@ obaveštenja; ili presretanje, praćenje ili modifikovanje obaveštenja koja nis
 <https://www.mozilla.org/about/governance/policies/participation/>)
 * Nanošenje štete korisnicima pomoću virusa, špijunskog ili zloćudnog softvera, crva, 
 trojanaca, vremenske bombe ili bilo kojih drugih sličnih zlonamernih kodova ili uputstava
-•	Prikupljanje ličnih identifikacionih podataka uključujući, ali ne ograničavajući se na imena naloga ili adrese e-pošte
+* Prikupljanje ličnih identifikacionih podataka uključujući, ali ne ograničavajući se na imena naloga ili adrese e-pošte
 * Preduzimanje bilo koje radnje koja ometa ili remeti usluge ili proizvode kompanije 
 Mozilla (ili servera i mreža koji su povezani sa uslugama kompanije Mozilla)
 * Reprodukovanje, dupliranje, kopiranje, prodaja, trgovina ili preprodaja usluga ili 

@@ -9,7 +9,7 @@ slanje neželjenih poruka te presretanje, praćenje i modificiranje poruka namij
 <https://www.mozilla.org/about/governance/policies/participation/>)
 * Svrhe kojima se šteti korisnicima kao što su korištenje virusa, špijunskih ili 
 zlonamjernih softvera, crva, trojanskih konja, tempiranih bombi ili drugih sličnih zlonamjernih kodova i uputa
-•	Sabiranje ili prikupljanje osobnih identifikacijskih podataka, uključujući, između ostalog, nazive računa ili adrese e-pošte
+*	Sabiranje ili prikupljanje osobnih identifikacijskih podataka, uključujući, između ostalog, nazive računa ili adrese e-pošte
 * Sudjelovanje u bilo kojoj aktivnosti koja ometa ili remeti Mozilline usluge ili 
 proizvode (ili poslužitelje i mreže povezane s njezinim uslugama)
 * Reproduciranje, umnožavanje, kopiranje, prodavanje, trgovanje ili preprodaju Mozillinih 

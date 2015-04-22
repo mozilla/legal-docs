@@ -9,7 +9,7 @@ enviar comunicações não solicitadas; ou interceptar, monitorar ou modificar c
 <https://www.mozilla.org/about/governance/policies/participation/>)
 * Prejudicar os usuários, por exemplo, utilizando vírus, spyware ou malware, worms, 
 Cavalos de Troia, vírus do tipo bomba-relógio ou qualquer outro tipo de códigos ou instruções maliciosos
-•	Coletar ou obter informações de identificação pessoal, incluindo, entre outros, nomes de contas ou endereços de email
+* Coletar ou obter informações de identificação pessoal, incluindo, entre outros, nomes de contas ou endereços de email
 * Realizar qualquer atividade que interfira ou interrompa os serviços ou produtos 
 da Mozilla (ou os servidores e redes conectados aos serviços da Mozilla)
 * Reproduzir, duplicar, copiar, vender, comercializar ou revender os serviços ou produtos 

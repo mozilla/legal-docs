@@ -9,7 +9,7 @@ bármilyen nem kívánt tájékoztatás, vagy a nem Önnek szánt kommunikáció
 <https://www.mozilla.org/about/governance/policies/participation/>)
 * Károkozás a felhasználók felé vírusok, kémprogramok és kártevő programok, férgek, 
 trójai vírusok, időbombák vagy bármely hasonló jellegű rosszindulatú kód vagy utasítás segítségével
-•	Beazonosításra alkalmas személyes adatok gyűjtése vagy lehívása, ideértve például a fiókneveket vagy e-mail címeket
+*	Beazonosításra alkalmas személyes adatok gyűjtése vagy lehívása, ideértve például a fiókneveket vagy e-mail címeket
 * Bármely olyan tevékenységben való részvétel, amely zavarja vagy megszakítja a 
 Mozilla szolgáltatásainak nyújtását vagy termékeinek rendelkezésre bocsátását (vagy a Mozilla szolgáltatásaival kapcsolatos szervereket vagy hálózatokat)
 * A Mozilla szolgáltatásainak vagy termékeinek bármely céllal végzett reprodukálása, 

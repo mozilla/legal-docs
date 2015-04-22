@@ -9,7 +9,7 @@ zasílání nevyžádaných sdělení; ani zachycování, sledování či upravo
 <https://www.mozilla.org/about/governance/policies/participation/>),
 * poškozování uživatelů například používáním virů, spywaru či malwaru, trojských koní,
 časovaných bomb nebo jiného škodlivého kódu nebo pokynů,
-•	sběru nebo shromažďování osobně identifikovatelných údajů, zejména názvů účtu nebo e-mailových adres,
+*	sběru nebo shromažďování osobně identifikovatelných údajů, zejména názvů účtu nebo e-mailových adres,
 * zapojení se do jakékoli činnosti, která by ovlivňovala či narušovala služby 
 nebo produkty společnosti Mozilla (nebo servery a sítě spojené se službami společnosti Mozilla),
 * reprodukci, duplikaci, kopírování, prodeji, obchodování nebo opětovnému prodeji služeb
