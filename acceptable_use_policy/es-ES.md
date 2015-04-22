@@ -9,7 +9,7 @@ publicitarios no solicitados o interceptar, controlar o modificar mensajes no di
 <https://www.mozilla.org/about/governance/policies/participation/>).
 * Perjudicar a los usuarios mediante el uso de virus, spyware, malware, gusanos, 
 troyanos, bombas de tiempo o cualquier otro tipo de instrucción o código malicioso.
-•	Recoger o recopilar información personal identificable, la cual incluye, entre otros, nombres de cuentas o direcciones de correo electrónico.
+*	Recoger o recopilar información personal identificable, la cual incluye, entre otros, nombres de cuentas o direcciones de correo electrónico.
 * Participar en cualquier actividad que interfiera en los servicios o productos de Mozilla 
 (o los servidores y las redes relacionados con los servicios de Mozilla), o que los interrumpa.
 * Reproducir, duplicar, copiar, vender, comercializar o revender los servicios o productos 

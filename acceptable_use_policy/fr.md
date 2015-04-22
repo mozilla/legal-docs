@@ -9,7 +9,7 @@ Vous ne pouvez pas utiliser les services et produits de Mozilla pour :
 consultez <https://www.mozilla.org/about/governance/policies/participation/>)
 * Agir de façon préjudiciable à l'égard des utilisateurs en utilisant des virus, 
 logiciels espions ou logiciels malveillants, vers, chevaux de Troie, bombes à retardement ou d'autres instructions ou codes malveillants
-•	Recueillir ou obtenir des informations permettant d'identifier des personnes, y compris mais pas de façon limitative, les noms de compte ou adresses de courrier électronique
+*	Recueillir ou obtenir des informations permettant d'identifier des personnes, y compris mais pas de façon limitative, les noms de compte ou adresses de courrier électronique
 * Participer à des activités qui empêchent ou interrompent les services ou produits 
 de Mozilla (ou les serveurs et réseaux connectés aux services de Mozilla)
 * Reproduire, dupliquer, copier, vendre, échanger ou revendre les services ou produits 
