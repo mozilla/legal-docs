@@ -1,7 +1,7 @@
 # Aviso de privacidad sobre sitios web, mensajes y cookies
 
 18 de marzo de 2015
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Nos importa su privacidad. El uso que hacemos de la información que recopila Mozilla (es decir, nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 

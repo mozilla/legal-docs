@@ -1,7 +1,7 @@
 # Avis de confidentialité relatif aux sites Web, communications et cookies
 
 Mercredi 18 mars 2015
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations vous concernant, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) décrit la façon dont nous gérons ces informations.
 

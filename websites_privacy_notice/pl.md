@@ -1,7 +1,7 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
 18 marca 2015 r.
-{: datetime="2014-08-27" }
+{: datetime="2015-03-18" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
