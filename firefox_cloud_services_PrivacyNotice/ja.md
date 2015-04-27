@@ -1,21 +1,24 @@
-# Firefox Cloud Services Privacy Notice
+# Firefoxクラウドサービス　プライバシーに関する通知
 
-March 26, 2014
+
+2014年3月26日
 {: datetime="2014-03-26" }
 
-We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we use that information.
+［この文書は、日本の Firefox クラウドサービスのユーザ等の便宜を図るために掲載している、Firefox Cloud Services Privacy Noticeの参考訳です。なお、この文書の訳注で引用している URL についての訳文はありません。］
 
-## Things you should know:
+Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/)は、Mozilla（当社）（以下「Mozilla」といいます。）がFirefoxクラウドサービス（以下「本サービス」といいます。）から情報を受信する場合に、収集した情報をどのように取り扱うかについて、説明しています。
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+## 留意事項：
 
-* **Firefox Account**: When you sign up for an account, we receive your email address and password.
-* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.
+ご利用になる本サービスの機能によって、Mozilla に送信されるデータの種類が異なります。より詳しい情報については、こちらをご覧ください。
+
+* **Firefoxアカウント**：皆様がアカウントを登録するとき、Mozilla は皆様の電子メールアドレスおよびパスワードを受信します。
+* **Sync**: 皆様が Sync をご利用になるとき、Mozilla は、複数の端末間で、タブ、ロケーションバー、パスワード、ブックマーク、ブラウザの設定およびその他データを同期させるため、様々な情報を受信します。
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+Mozilla は、Mozilla の製品およびサービスを提供し向上させるため、Cookie、クリア GIF およびその他ウェブテクノロジーを使用します。より詳しい情報については、こちらをご覧ください。
 
-* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics.
+* **オンラインデータツール**：Mozilla は、Mozilla の製品およびサービスの機能性を提供するため、Cookie、クリア GIF およびウェブビーコンといった「オンラインデータツール」を使用します。たとえば、Cookieは、ユーザのサインインおよび認証に役立てられます。また Mozilla は、Mozilla の製品およびサービスを向上させるため、オンラインデータツールを使用してデータを収集します。たとえば、Mozilla は、ウェブアナリティクスを提供するために Cookie を使用します。
 
-* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+* **オプション**：[こちら](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer) をクリックすることにより、Cookie について理解を深めるとともに、Firefox の Cookie を管理することができます。Cookie が無効になっている状態では、Mozillaその他製品およびサービスの一部機能は、正しく動作しない場合があることにご留意ください。

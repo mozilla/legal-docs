@@ -1,24 +1,26 @@
-# Firefox OS Privacy Notice
+# Firefox OS　プライバシーに関する通知
 
-May 8, 2013
+2013 年 5 月 8 日
 {: datetime="2013-05-08" }
 
-Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+［この文書は、日本のFirefox OSのユーザ等の便宜を図るために掲載している、Firefox OS Privacy Noticeの参考訳です。なお、この文書の訳注で引用しているURLについての訳文はありません。］
 
-## Things you should know
+Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/)は、Mozilla（当社）（以下「Mozilla」といいます。）がFirefox OSから情報を受信する場合に、収集した情報をどのように取り扱うかについて、説明しています。
 
-Firefox OS connects to us and others in order to provide product features.
+## 留意事項
+
+Firefox OS は、製品の機能を提供するため、Mozilla およびその他に接続します。
 {: #location-services }
 
-* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
-* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device.
-* Initial Activation: In order to provide appropriate updates and applications, Firefox OS sends Mozilla a one time data ping when initially powered up. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics)
+* アップデート：Firefox OS は、自らを最新の状態に保つため、端末の製造者自身又は製造者に代わる者が運営するサービスに自動的に接続します。また Firefox OS は、Firefox Marketplace に対して、または別の提供元からアプリがインストールされた場合は当該アプリの開発者のサービスに対して、要求を送信することによって、インストールされたアプリの更新の有無を自動的に確認します。
+* 位置情報：皆様が位置情報サービスを有効化する場合、Firefox OS は、皆様の現在位置を推測するため、GPS、AGPS およびその他ジオロケーションサービスプロバイダを含む複数のデータポイントおよび提供者を利用する場合があります。
+* 初期起動：アップデートおよびアプリケーションの提供を適切に行うため、Firefox OS は、初期起動されたときに一度だけ、Mozilla に対してデータピンを送信します。より詳しい情報については、[こちら](https://wiki.mozilla.org/FirefoxOS/Metrics)をご覧ください。
 
 ---------------------------------------
 
-The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
+皆様がお使いになっている端末は、多くの携帯端末と同様に、複数の業者によって製造されています。本通知は、Mozilla が許可する Firefox OS の正式バージョンを対象として、Mozilla が皆様の個人情報をどのように取り扱うかについてのみ、説明しています。
 {: #external-parties }
 
-* If you use apps made by someone other than Mozilla, their privacy policies will apply.
-* The dynamic app search feature of Firefox OS is powered by Everything.me and its privacy policy applies, which you can find at <http://everything.me/privacy/firefox-os>.
-* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
+* Mozilla 以外の第三者によって開発されたアプリをご利用になる場合、当該第三者のプライバシーポリシーが別途適用されます。
+* Firefox OS のダイナミックアプリ検索機能は、Everything.me によって運営されており、この機能をご利用になる場合、Everything.me のプライバシーポリシー（http://everything.me/privacy/firefox-os にてご覧ください）が適用されます。
+* Firefox OS をご利用頂くことにより、皆様は、電子メールまたはソーシャルプロバイダといった複数の統合された第三者サービスを利用することができます。かかるサービスの利用にあたっては、別途当該サービスのプライバシーポリシーが適用されます。

@@ -1,71 +1,72 @@
-Last Updated March 26, 2014
+最終更新　2014 年 3 月 26 日
+［この文書は、日本の Firefox クラウドサービスのユーザ等の便宜を図るために掲載している、Firefox Cloud Services Terms of Service の参考訳です。］
 
-#### Summary
+#### 概要
 
-This top section summarizes the terms below. This summary is provided to help your understanding of the terms, but be sure to read the entire document, because when you agree to it, you are indicating you accept all of the terms, not just this summary.
+本概要は、以下に記載されているサービス規約の概要です。本概要は、皆様のサービス規約に対する理解を深める目的で提供されていますが、必ず本サービス規約全体をお読みください。皆様が、本サービス規約に同意する場合、本概要だけではなく、本サービス規約全体に同意することになります。
 
-- Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla.
-- The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+‐ Firefox クラウドサービス（以下「本サービス」といいます。）とは、Mozilla が皆様に提供する一連のサービスです。
+‐ 本サービスは、「現状有姿（as is）」のままで提供され、いかなる種類の保証も付されていません。皆様による本サービスの利用に起因して発生する損害についての Mozilla の責任には、非常に大きな限定があります。
 
-#### Terms of Service
+#### サービス規約
 
-1. #### Introduction
+1. #### はじめに
 
-    These Terms of Service ("<u>Terms</u>") govern your use of Firefox cloud services, a suite of online services provided by Mozilla (the "Services").
+    本サービス規約（以下「本規約」といいます。）は、Mozilla が提供する一連のオンラインサービスである Firefox クラウドサービスのご利用に適用されます。
 
-2. #### Firefox Accounts
+2. #### Firefox アカウント
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    本サービスのご利用にあたって、Firefox アカウントを作成する必要があります。登録中、皆様はパスワードの設定を求められます。皆様は、パスワードを秘密に保管すること、および Firefox アカウントを通じて発生するアクティビティに責任を負います。Mozilla は、皆様の Firefox アカウントの不正使用に起因して発生するいかなる損失にも責任を負いません。
 
-3. #### Features
+3. #### 機能
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    Firefox Sync をご利用頂くことにより、皆様は、あらゆる端末間で、タブ、ロケーションバー、パスワード、ブックマーク、ブラウザの設定といった Firefox に保存されている情報へアクセスできるようになります。Firefox のツールセクションを通じて、Firefox Sync を有効化および無効化することができます。
 
-4. #### Privacy Policy
+4. #### プライバシーポリシー
 
-    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+    [Firefox クラウドサービスプライバシーに関する通知](https://www.mozilla.org/privacy/firefox-cloud/)は、皆様が本サービスをご利用になる場合に、Mozilla に送信される情報および Mozilla による当該情報の取扱方法について説明しています。Mozilla は、本サービスを通じて受信する情報を、Mozilla プライバシーポリシーの記載にしたがって、利用します。
 
-5. #### Your Content in our Services
+5. #### 本サービスのコンテンツ
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
+    本サービスの機能の一つとして、皆様はコンテンツをアップロードすることができます。皆様は、コンテンツをアップロードすることにより、Mozilla に対して、本サービスの提供に関連してコンテンツを使用する非排他的かつ世界的な無償のライセンスを許諾するものとします。また、皆様は、自己のアップロードしたコンテンツがいかなる第三者の権利も侵害していないことおよび Mozilla が公開するコンテンツガイドラインを遵守していることを表明し、保証するものとします。
 
-6. #### Mozilla's Proprietary Rights
+6. #### Mozilla に関する財産的権利
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](https://www.mozilla.org/MPL/).
+    Mozilla は、本サービスにおいて本規約に特段記載されていない知的財産権を皆様に付与するものではありません。たとえば、本規約は、Mozilla の著作権、商号、商標、サービスマーク、ロゴ、ドメイン名その他特徴的なブランドの出所の表示を使用する権利について何ら規定しておりません。本サービスは、[Mozilla Public License](https://www.mozilla.org/MPL/) の現行バージョンに基づき配布されます。
 
-7. #### Term; Termination
+7. #### 有効期間；終了
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    本規約は、皆様または Mozilla が終了するまで、継続して適用されます。皆様は、Firefox アカウントを解除し本サービスの利用を中止することによって、理由の如何を問わず、いつでも本規約の終了を選択することができます。
 
-    We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
+    Mozilla は、理由の如何を問わず、いつでも、皆様の本サービスへのアクセスを停止または終了することができます。Mozilla が、(i) 皆様が本規約に違反している、(ii) 皆様がMozillaに対し、リスクや法的な請求をうける可能性を生ぜしめている、または (iii) Mozilla が皆様に対して本サービスを提供することが商業的に不可能である、と合理的に判断する場合を含みますが、これらに限られません。Mozilla は、Firefox アカウントに登録されているメールアドレスを通じて、または皆様による本サービスへの次回アクセスの際に、皆様に対して通知を行うための合理的な努力を行います。
 
-    In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+    かかる全ての場合において、本規約（本サービスをご利用頂くライセンスを含みますが、これに限定されません。）は終了するものとします。ただし、「補償」、「免責条項；限定責任」「その他」の条項は、継続して適用されるものとします。
 
-8. #### Indemnification
+8. #### 補償
 
-    You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
+    皆様は、皆様による本サービスの利用（皆様がアップロードするコンテンツを含みますが、これに限られません。）に起因または関連する一切の第三者によるクレーム、費用（弁護士費用を含みます。）について、Mozilla、Mozilla の取引先、コントリビューター、ライセンサーおよびパートナーならびにそれらの取締役、役員、従業員およびその代理人（以下「被補償当事者」といいます。）を、防御し、補償し、免責せしめることに合意するものとします。
 
-9. #### Disclaimer; Limitation of Liability
+9. #### 免責条項；限定責任
 
-    THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+    本サービスは、すべての不具合を含む「現状有姿 (as is)」で提供されます。法によって認められる範囲において、Mozilla および被補償当事者は、明示または黙示を問わず、一切の保証（本サービスに欠陥がないこと、商品性、特定の目的との適合性および侵害を構成しないことについての保証を含みますがこれに限定されません。）をいたしません。皆様は、目的に応じて本サービスを選択することならびに本サービスの品質およびパフォーマンスについて、すべてのリスクを負っています。これらには、皆様のコンテンツが削除もしくは破壊されるリスクまたは第三者が皆様のアカウントにアクセスするリスクを含みますがこれに限定されません。かかる限定条項は、救済策が本質的な目的を達成できない場合にあっても適用されます。裁判管轄によっては、黙示保証の排除または限定が認められていないため、上記の免責条項が皆様に適用されない場合があります。
 
-    EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    法が要求する場合を除き、Mozilla および被補償当事者は、本規約または本サービスの利用もしくはこれを利用できなかったことに起因するか何らかの形で関連する間接的、特別、付随的、派生的、懲罰的損害（信用の毀損、休業、逸失利益、データ損失およびコンピュータの故障または不具合に関する直接的および間接的な損害を含むがこれらに限られません。）について、そのような損害発生の可能性について事前に知らされていたかどうか、また、かかるクレームの根拠となっている法的責任の根拠（契約、不法行為もしくはその他であるか）を問わず、いかなる責任も負いません。本契約に基づくMozilla および被補償当事者の責任の総額は、500ドルを超えることはありません。裁判管轄によっては、付随的、派生的または特別損害に対する排除および限定が認められていないため、上記の排除および限定条項が皆様に適用されない場合があります。
 
-10. #### Modifications to these Terms
+10. #### 本規約の修正
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla は、本サービスの新しい機能を公開し、また提供を明確にするため随時本規約を更新することがあります。更新された本規約はオンラインに投稿されます。変更が実質的なものである場合、Mozilla はブログ投稿およびフォーラムなどといった Mozilla が通常同様のお知らせに使用している媒体を通じて、更新をお知らせいたします。皆様が、かかる変更の効力発生日後も引き続き本サービスをご利用になる場合には、皆様はかかる変更を承諾したものとみなされます。皆様により便利にご確認頂くため、Mozilla は効力発生日を本ページの上部に投稿します。
 
-11. #### Miscellaneous
+11. #### その他
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    本規約は、本サービスに関する皆様および Mozilla 間の完全なる合意を構成し、法の抵触に関する規定の適用を除外し、アメリカ合衆国カリフォルニア州法に準拠します。本規約のいずれかの条項が無効または執行不能である場合でも、その他の条項は引き続き完全かつ有効に存続します。本規約の翻訳版と英語版との間に相違がある場合、英語版が優先するものとします。
 
 12. #### Contact Us
 
-    Contact Mozilla at
+    Mozillaへのお問い合わせは、以下までご連絡ください。
 
     <address>
       Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
+      宛先：Mozilla – Legal Notices 
       331 E. Evelyn Ave., 
       Mountain View, CA 94041 
     </address>
