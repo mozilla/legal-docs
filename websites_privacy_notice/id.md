@@ -25,7 +25,7 @@ Kami mungkin menerima informasi pribadi dari Anda berdasarkan interaksi Anda den
 
 ---------------------------------------
 
-Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan alamat IP untuk fungsionalitas untuk dan meningkatkan kualitas produk, layanan, dan komunikasi kami. 
+Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan alamat IP untuk fungsionalitas dan untuk meningkatkan kualitas produk, layanan, dan komunikasi kami. 
 {: #data-tools }
 
 * **Kuki & Alamat IP**: Kami menggunakan keduanya untuk meningkatkan fungsionalitas produk dan layanan tertentu. Misalnya, kuki digunakan untuk mengingat preferensi bahasa Firefox dan pengaya Firefox. Keduanya juga membantu proses masuk dan otentikasi pengguna sehingga Anda bisa melewati proses memasukkan sandi di situs web yang menggunakan Persona. Alamat IP digunakan untuk menyesuaikan konten untuk negara tertentu.
