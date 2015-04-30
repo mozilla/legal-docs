@@ -9,7 +9,7 @@ te, które składają się na niniejsze podsumowanie:
 2. Twórca powinien przestrzegać wszelkich obowiązujących regulaminów oraz polityk, w tym także wytycznych dotyczących ochrony prywatności i treści materiałów.
 3. Mozilla może usunąć z Firefox Marketplace Materiały Twórcy, jeśli uzna ona, że Materiały są szkodliwe lub niepożądane albo jeśli Twórca naruszy postanowienia polityki Mozilli lub niniejszą Umowę.
 4. Twórca ponosi wyłączną odpowiedzialność za Materiały umieszczone w Firefox Marketplace, co oznacza, że jest zobowiązany do spełnienia wymogów wynikających z przepisów regulujących eksport, przestrzegania prawa, dokonywania zwrotu uiszczonej ceny i udzielanie wsparcia technicznego. Jeśli Twórca sprzeda Materiały umieszczone na Firefox Marketplace, jest on także odpowiedzialny za uiszczenie podatków, ustalenie ceny i dokonanie zwrotu uiszczonej ceny. Jeśli Twórca korzysta ze zintegrowanego systemu płatniczego Mozilla, administratorzy tego systemu mogą przejąć obowiązki Twórcy w kwestiach związanych ze sprzedażą/ VAT-em, zwrotem uiszczonej ceny i inne obowiązki związane z płatnością.
-5. Twórca nie może zachowywać się w sposób niezgodny z prawem lub podejmować działań, które mogłyby zaszkodzić Mozilia lub osobom trzecim.
+5. Twórca nie może zachowywać się w sposób niezgodny z prawem lub podejmować działań, które mogłyby zaszkodzić Mozilli lub osobom trzecim.
 6. Mozilla nie ponosi odpowiedzialności za korzystanie przez Twórcę z Firefox Marketplace, Materiałów Twórcy umieszczonych Transakcyjnej Firefox Marketplace lub działania innych użytkowników, w tym także innych twórców.
 7. Twórca ponosi odpowiedzialność za swoje Materiały umieszczone w Firefox Marketplace oraz odpowiada za korzystanie lub niewłaściwe korzystanie z Firefox Marketplace.
 8. Wstęp Mozilla Corporation („Mozilla”), stawia sobie za cel różnorodność wyboru i innowacyjność w sieci. W tym celu Mozilla stworzyła „Firefox Marketplace” – powszechnie dostępną stronę internetową, która pozwala na rozpowszechnianie Materiałów umieszczonych w Firefox Marketplace wśród użytkowników w celu korzystania przez użytkowników z tych Materiałów na własnych urządzeniach.
@@ -246,7 +246,7 @@ zamieszczanie na ich temat komentarzy. Mozilla może przekazywać Twórcy
 zbiorcze statystyki dotyczące korzystania z Materiałów umieszczonych w Firefox
 Marketplace. Część tych informacji może być wykorzystywana w celu określenia
 miejsca umieszczenia Materiałów w Firefox Marketplace i może być ujawniania
-publicznie w Firefox Marketplace oraz za pośrednictwem APIs (interfejs
+publicznie w Firefox Marketplace oraz za pośrednictwem API (interfejs
 programowania aplikacji). Mozilla posiada dostęp do takich informacji, jednak
 określone właściwości w Firefox Marketplace pozwalają Twórcy zablokować dostęp
 innych twórców lub użytkowników do części nieprzetworzonych statystyk.

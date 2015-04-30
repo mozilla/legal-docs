@@ -4,7 +4,7 @@ Prywatność użytkownika jest ważnym czynnikiem, który Mozilla bierze pod uwa
 
 ## Co Mozilla uznaje za „informacje osobowe”?
 
-W rozumieniu Mozilla, „informacje osobowe” to wszystkie informacje, na podstawie których można zidentyfikować Użytkownika, takie jak imię i nazwisko lub adres email Użytkownika.
+W rozumieniu Mozilla, „informacje osobowe” to wszystkie informacje, na podstawie których można zidentyfikować Użytkownika, takie jak imię i nazwisko lub adres e-mail Użytkownika.
 
 Informacje nienależące do tej kategorią są „informacjami nieosobowymi”.
 

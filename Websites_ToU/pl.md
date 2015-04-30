@@ -17,32 +17,32 @@ Niektóre z naszych Witryn udostępniają użytkownikowi łącza, aplikacje i 
 
 Niektóre Witryny wymagają rejestracji konta w celu dostępu do dodatkowych ich funkcji lub innych usług firmy Mozilla. Użytkownikowi zostaną w niektórych przypadkach przedstawione dodatkowe, dotyczące ich regulaminy. Odpowiedzialność za wszelkie działania związane z kontem ponosi jego użytkownik.
 
-Niektóre Witryny umożliwiają podczas rejestracji utworzenie nazwy użytkownika. Korzystanie z nazwy użytkownika musi być zgodne z naszą [Polityką dozwolonego użytku](https://www.mozilla.org/about/legal/acceptable-use/). 
+Niektóre Witryny umożliwiają podczas rejestracji utworzenie nazwy użytkownika. Korzystanie z nazwy użytkownika musi być zgodne z naszą [Polityką dozwolonego użytku](https://www.mozilla.org/about/legal/acceptable-use/).
 
 
 #### 3\. Licencjonowanie zawartości
 
-Nasze Kanały komunikacyjne zawierają m.in. artykuły, zdjęcia, fotografie, komentarze, kod oprogramowania, klipy audio i wideo oraz inne materiały (zbiorczo określane „Zawartością”). Autorami Zawartości jest firma Mozilla, uczestnicy projektów firmy Mozilla oraz inne źródła. 
+Nasze Kanały komunikacyjne zawierają m.in. artykuły, zdjęcia, fotografie, komentarze, kod oprogramowania, klipy audio i wideo oraz inne materiały (zbiorczo określane „Zawartością”). Autorami Zawartości jest firma Mozilla, uczestnicy projektów firmy Mozilla oraz inne źródła.
 
-Zawartość autorstwa firmy Mozilla jest z zasady udostępniana publicznie z przeznaczeniem do użytku na warunkach licencji otwartych, takich jak Creative Commons (w przypadku środków wyrazu) czy Licencji publicznej firmy Mozilla (w przypadku kodu oprogramowania). W większości przypadków prosimy uczestników projektów firmy Mozilla o udostępnianie Zawartości na podstawie licencji otwartych. 
+Zawartość autorstwa firmy Mozilla jest z zasady udostępniana publicznie z przeznaczeniem do użytku na warunkach licencji otwartych, takich jak Creative Commons (w przypadku środków wyrazu) czy Licencji publicznej firmy Mozilla (w przypadku kodu oprogramowania). W większości przypadków prosimy uczestników projektów firmy Mozilla o udostępnianie Zawartości na podstawie licencji otwartych.
 
 Część Zawartości w naszych Kanałach komunikacyjnych pochodzi jednak ze źródeł, które zabraniają dalszego jej wykorzystanie bez uprzedniej zgody. W miarę możliwości informacje o obowiązującej w danym przypadku licencji można znaleźć w stopce Witryny lub w samej Zawartości. Użytkownik wyraża zgodę na przestrzeganie tego rodzaju zastrzeżeń prawnych. Należy zwrócić uwagę, że:
 
-* Niekiedy Zawartość jednoznacznie wskazuje, że jej Autor nie zamierza stosować licencji otwartej.  W celu wykorzystania tego rodzaju Zawartości należy uprzednio skontaktować się z jej autorem lub jego przedstawicielem i uzyskać jego zgodę. Zapytania dotyczące zawartości autorstwa firmy Mozilla można wysyłać na adres: licensing@mozilla.org.
+* Niekiedy Zawartość jednoznacznie wskazuje, że jej Autor nie zamierza stosować licencji otwartej. W celu wykorzystania tego rodzaju Zawartości należy uprzednio skontaktować się z jej autorem lub jego przedstawicielem i uzyskać jego zgodę. Zapytania dotyczące zawartości autorstwa firmy Mozilla można wysyłać na adres: licensing@mozilla.org.
 * Niekiedy Zawartość zawiera znaki towarowe, oznaczenia handlowe, logotypy i zasoby marki firmy Mozilla i innych firm (zwane dalej „Znakami towarowymi”). Poza nielicznymi, ograniczonymi przypadkami, Znaków towarowych nie wolno używać bez uprzedniej pisemnej zgody ich właściciela.  [Więcej informacji o znakach towarowych firmy Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Oprogramowanie używane przez Witryny jest objęte licencją MPL lub podobnymi, mało restryktywnymi licencjami typu open source.  Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim repozytoriach GitHub. 
+* Oprogramowanie używane przez Witryny jest objęte licencją MPL lub podobnymi, mało restryktywnymi licencjami typu open source. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim repozytoriach GitHub.
 
 
 #### 4\. Przesyłana Zawartość
 
 Podczas interakcji z naszymi Kanałami komunikacyjnymi użytkownik może przesyłać własną Zawartość, np. komentując artykuły, blogując lub przesyłając kod, grafikę lub materiały pisemne (w każdym przypadku określane dalej jako „Przesyłany materiał”).
-   
+
 W związku z Przesyłanymi materiałami użytkownik wyraża zgodę na następujące postanowienia:
 
 * Użytkownik zaświadcza, że Przesyłany materiał jest zgodny z niniejszymi Warunkami, [Warunkami użytkowania](https://www.mozilla.org/about/legal/acceptable-use/) usług firmy Mozilla oraz wszelkimi innymi dodatkowymi warunkami, jaki mogą obowiązywać w przypadku danego Przesyłanego materiału.
 * Użytkownik niniejszym udziela nam niewyłącznej, bezpłatnej, ogólnoświatowej licencji z prawem do sublicencjonowania Przesyłanego materiału (podmiotom, z którymi współpracujemy), zezwalającej na jego wykorzystywanie w związku z Kanałem komunikacyjnym oraz w celach promujących misję, produkty i usługi firmy Mozilla, tak w Internecie, jak i poza nim.
 * Użytkownik przyjmuje do wiadomości, że Przesłane materiały mogą być dostępne dla innych zarejestrowanych użytkowników danej usługi lub dostępne publicznie.
-* Jeśli Przesyłany materiał zawiera środki wyrazu lub kod oprogramowania, użytkownik wyraża zgodę na ich licencjonowanie na zasadach zgodnych z Witryną, do jakiej go przesyła. 
+* Jeśli Przesyłany materiał zawiera środki wyrazu lub kod oprogramowania, użytkownik wyraża zgodę na ich licencjonowanie na zasadach zgodnych z Witryną, do jakiej go przesyła.
 * Użytkownik zaświadcza, że jest w posiadaniu wszelkich praw niezbędnych do udzielenia przekazywanych niniejszym praw i że rozważane w ramach niniejszych Warunków zastosowania nie naruszają praw własności ani własności intelektualnej żadnych osób trzecich.
 * Użytkownik przyjmuje do wiadomości i zgadza się, że firma Mozilla zastrzega sobie wedle własnego uznania prawo do rewizji, zmiany lub usunięcia dowolnego Przesłanego materiału, który uzna za niewłaściwy lub naruszający niniejsze Warunki.
 
@@ -56,7 +56,7 @@ W związku z Przesyłanymi materiałami użytkownik wyraża zgodę na następu
 
 Jeśli użytkownik zasubskrybuje nasze biuletyny lub zarejestruje konto związane z którąś z naszych Witryn, może otrzymywać od nas powiązane ze swoim kontem wiadomości e-mail (na przykład aktualizacje bezpieczeństwa czy też informacji prawnych lub zasad prywatności).
 
-Niektóre z naszych Witryn zawierają narzędzia online, które umożliwiają użytkownikowi wysyłanie wiadomości e-mail do innych osób. Użytkownik może np. zaprosić swoje kontakty na zdarzenia, korzystając z konta Webmaker. Użytkownik zobowiązuje się nie nadużywać adresów e-mail innych osób (na przykład poprzez wysyłanie spamu). 
+Niektóre z naszych Witryn zawierają narzędzia online, które umożliwiają użytkownikowi wysyłanie wiadomości e-mail do innych osób. Użytkownik może np. zaprosić swoje kontakty na zdarzenia, korzystając z konta Webmaker. Użytkownik zobowiązuje się nie nadużywać adresów e-mail innych osób (na przykład poprzez wysyłanie spamu).
 
 Inne Witryny, np. MozReps i Webmaker, udostępniają narzędzia, które umożliwiają użytkownikom organizowanie poza Internetem wydarzeń, w których każdy może wziąć udział. Biorąc udział w takich wydarzeniach, należy kierować się ostrożnością i zdrowym rozsądkiem.
 
@@ -86,22 +86,22 @@ KANAŁY KOMUNIKACYJNE SĄ UDOSTĘPNIANE „W TAKIEJ FORMIE, W JAKIEJ SĄ”, ZE 
 Z WYJĄTKIEM PRZYPADKÓW WYMAGANYCH PRZEZ PRAWO, FIRMA MOZILLA I STRONY ZABEZPIECZONE NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY POŚREDNIE, SZCZEGÓLNE, WYPADKOWE LUB WYNIKOWE CZY ODSZKODOWANIA RETORSYJNE, WYNIKAJĄCE Z WARUNKÓW LUB POWIĄZANE Z NINIEJSZYMI WARUNKAMI, UŻYTKOWANIEM KANAŁÓW KOMUNIKACYJNYCH LUB NIEMOŻNOŚCIĄ ICH UŻYTKOWANIA, WŁĄCZNIE Z BEZPOŚREDNIMI I POŚREDNIMI SZKODAMI OBEJMUJĄCYMI UTRATĘ WARTOŚCI, PRZERWY W PRACY, UTRATĘ ZYSKÓW, UTRATĘ DANYCH, AWARIE SPRZĘTU KOMPUTEROWEGO I INNE AWARIE, NAWET JEŚLI ZGŁOSZONO MOŻLIWOŚĆ WYSTĄPIENIA TAKICH SZKÓD I BEZ WZGLĘDU NA CHARAKTER ODPOWIEDZIALNOŚCI (KONTRAKTOWY, DELIKTOWY CZY INNY), NA KTÓRYM OPARTO ROSZCZENIE. ZBIORCZA ODPOWIEDZIALNOŚĆ FIRMY MOZILLA I STRON ZABEZPIECZONYCH NA MOCY TEJ UMOWY NIE PRZEKROCZY KWOTY 500 USD (PIĘCIUSET DOLARÓW AMERYKAŃSKICH). NIEKTÓRE JURYSDYKCJE NIE POZWALAJĄ NA WYŁĄCZENIE LUB OGRANICZENIE SZKÓD WYPADKOWYCH, WYNIKOWYCH LUB SZCZEGÓLNYCH; W TAKIM PRZYPADKU WYŁĄCZENIA I OGRANICZENIA MOGĄ NIE MIEĆ W PRZYPADKU UŻYTKOWNIKA MOCY PRAWNEJ.
 
 
-#### 11\. Zmiany w postanowieniach niniejszych Warunków  
+#### 11\. Zmiany w postanowieniach niniejszych Warunków
 
 Niniejsze Warunki mogą być przez nas co jakiś czas aktualizowane, na przykład po to, aby uwzględnić w nich nowe funkcje Kanałów komunikacyjnych lub objaśnić określone postanowienia. Zaktualizowane Warunki zostaną opublikowane w Internecie. Jeśli zmiany będą istotne, ogłosimy aktualizację za pośrednictwem typowych kanałów firmy służących do tego typu ogłoszeń, takich jak wpisy na blogach, banery, wiadomości e-mail czy fora. Dalsze użytkowanie Kanałów komunikacyjnych po dacie wejścia w życie takich zmian jest równoważne z ich akceptacją przez użytkownika. Aby ułatwić zapoznawanie się ze zmianami, zamieścimy datę ich wejścia w życie u góry niniejszej strony.
 
-#### 12\. Inne postanowienia  
+#### 12\. Inne postanowienia
 
 Niniejsze Warunki stanowią całość umowy pomiędzy użytkownikiem a firmą Mozilla odnośnie do Kanałów komunikacyjnych i zastępują wszystkie wcześniejsze wersje niniejszych Warunków. Kanały komunikacyjne i niniejsze Warunki podlegają prawu stanu Kalifornia (Stany Zjednoczone), z wyłączeniem przepisów o konflikcie norm prawnych. Wyłącznymi sądami właściwymi dla wszelkich roszczeń i sporów wynikających z Kanałów komunikacyjnych lub niniejszych Warunków są sądy w okręgu Santa Clara w stanie Kalifornia. Użytkownik wyraża zgodę na jurysdykcję personalną tych sądów. Jeśli jakakolwiek część niniejszych Warunków zostanie uznana za nieważną lub niemożliwą do wyegzekwowania, pozostałe ich postanowienia pozostaną w pełni mocy. W przypadku rozbieżności między przetłumaczoną wersją Warunków a wersją w języku angielskim, za nadrzędną uznaje ich wersję w języku angielskim. W przypadku konfliktu między niniejszymi Warunkami a obowiązującymi w danym przypadku warunkami dodatkowymi, nadrzędne są warunki dodatkowe.
 
 #### 13\. Kontakt z nami
 
-Mozilla Corporation  
-Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
-Stany Zjednoczone  
-Telefon: 650-903-0800  
-Faks: 650-903-0875  
+Mozilla Corporation 
+Attn: Mozilla – Legal Notices 
+331 E. Evelyn Ave., 
+Mountain View, CA 94041 
+Stany Zjednoczone 
+Telefon: 650-903-0800 
+Faks: 650-903-0875 
 Legal-notices at mozilla.com
 

@@ -3,31 +3,31 @@
 25 listopada 2014 r.
 {: datetime="2014-11-25" }
 
-### 1. Wstęp 
+### 1. Wstęp
 
-Firefox Hello to świadczona przez firmę Mozilla usługa komunikacji przy użyciu obrazu wideo i głosu, realizowanej w czasie rzeczywistym między dwoma punktami (zwana dalej „Usługą”).  Należy dokładnie zapoznać się z całym niniejszym dokumentem (zwanym dalej „Warunkami”), ponieważ wyjaśnia on prawa i obowiązki użytkownika korzystającego z usługi Firefox Hello do wysyłania i odbierania komunikacji.
+Firefox Hello to świadczona przez firmę Mozilla usługa komunikacji przy użyciu obrazu wideo i głosu, realizowanej w czasie rzeczywistym między dwoma punktami (zwana dalej „Usługą”). Należy dokładnie zapoznać się z całym niniejszym dokumentem (zwanym dalej „Warunkami”), ponieważ wyjaśnia on prawa i obowiązki użytkownika korzystającego z usługi Firefox Hello do wysyłania i odbierania komunikacji.
 
 ### 2. Rejestracja konta
 
-Korzystanie z niektórych funkcji Usługi, takich importowanie kontaktów z innych usług lub tworzenie nowych, może wymagać konta Firefox.  Zakładając konto Firefox, użytkownik wyraża zgodę na dotyczące kont Firefox [Warunki świadczenia usługi](https://www.mozilla.org/about/legal/terms/services/) oraz [Zasady prywatności](https://www.mozilla.org/privacy/firefox-cloud/).
+Korzystanie z niektórych funkcji Usługi, takich importowanie kontaktów z innych usług lub tworzenie nowych, może wymagać konta Firefox. Zakładając konto Firefox, użytkownik wyraża zgodę na dotyczące kont Firefox [Warunki świadczenia usługi](https://www.mozilla.org/about/legal/terms/services/) oraz [Zasady prywatności](https://www.mozilla.org/privacy/firefox-cloud/).
 
 ### 3. Funkcje
 
-Usługa jest świadczona użytkownikom we współpracy z firmą TokBox, Inc. (określaną w tym dokumencie także jako „licencjodawca”).  Usługa jest zintegrowana z przeglądarką Firefox, co umożliwia łatwe przeprowadzanie połączeń głosowych i wideo pomiędzy przeglądarką Firefox a użytkownikami dowolnych innych przeglądarek i urządzeń z obsługą WebRTC.  Usługa może ulec zmianie.  Pytania dotyczące dostępnych funkcji należy kierować do [witryny pomocy technicznej](https://support.mozilla.org/products/firefox) firmy Mozilla. 
+Usługa jest świadczona użytkownikom we współpracy z firmą TokBox, Inc. (określaną w tym dokumencie także jako „licencjodawca”). Usługa jest zintegrowana z przeglądarką Firefox, co umożliwia łatwe przeprowadzanie połączeń głosowych i wideo pomiędzy przeglądarką Firefox a użytkownikami dowolnych innych przeglądarek i urządzeń z obsługą WebRTC. Usługa może ulec zmianie. Pytania dotyczące dostępnych funkcji należy kierować do [witryny pomocy technicznej](https://support.mozilla.org/products/firefox) firmy Mozilla.
 
 ### 4. Zasady prywatności
 
 [Zasady prywatności usługi Firefox Hello](https://www.mozilla.org/privacy/) wyjaśniają, jakie informacje są wysyłane podczas korzystania z Usługi i jak są one traktowane.
 
-### 5. Zawartość i użytkowanie 
+### 5. Zawartość i użytkowanie
 
-Użytkownik przyjmuje do wiadomości, że Usługa umożliwia przekazywanie pewnych informacji (takich jak wideo lub zdjęcia – zwanych dalej „Zawartością”).  Niniejszym użytkownik udziela firmie Mozilla i jej licencjodawcom wszelkich praw koniecznych do świadczenia Usługi i zgadza się korzystać z niej w zgodzie z [Warunkami usługi](https://www.mozilla.org/about/legal/acceptable-use) firmy Mozilla. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje. 
+Użytkownik przyjmuje do wiadomości, że Usługa umożliwia przekazywanie pewnych informacji (takich jak wideo lub zdjęcia – zwanych dalej „Zawartością”). Niniejszym użytkownik udziela firmie Mozilla i jej licencjodawcom wszelkich praw koniecznych do świadczenia Usługi i zgadza się korzystać z niej w zgodzie z [Warunkami usługi](https://www.mozilla.org/about/legal/acceptable-use) firmy Mozilla. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje.
 
 Więcej informacji na temat zgłaszania roszczeń do praw autorskich lub naruszeń znaków towarowych można znaleźć [tutaj](https://www.mozilla.org/about/legal/report-abuse/).
 
 ### 6. Prawa własności firm Mozilla i TokBox
 
-Ani firma Mozilla, ani jej licencjodawcy nie nadają użytkownikowi żadnych praw własności intelektualnej dotyczących Usług poza jednoznacznie wskazanymi w niniejszych Warunkach.  Niniejsze Warunki nie pozwalają na przykład na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych lub usługowych, logotypów, nazw domenowych ani innych cech charakterystycznych marek należących do firmy Mozilla lub jej licencjodawców.  
+Ani firma Mozilla, ani jej licencjodawcy nie nadają użytkownikowi żadnych praw własności intelektualnej dotyczących Usług poza jednoznacznie wskazanymi w niniejszych Warunkach. Niniejsze Warunki nie pozwalają na przykład na korzystanie przez użytkownika z jakichkolwiek praw autorskich, nazw handlowych, znaków towarowych lub usługowych, logotypów, nazw domenowych ani innych cech charakterystycznych marek należących do firmy Mozilla lub jej licencjodawców.
 
 Oprogramowanie firmy Mozilla jest rozpowszechniane na podstawie bieżącej wersji licencji publicznej firmy Mozilla (określaną dalej także skrótem „MPL”) lub innej licencji o podobnym zakresie nadawanych nią uprawnień, której podlega.
 

@@ -3,19 +3,13 @@
 Usług ani produktów firmy Mozilla nie wolno używać w celu:
 
 * Prowadzenia nielegalnych działań ani naruszania obowiązującego prawa na inne sposoby.
-* Grożenia ani nękania innych osób, naruszania ich prawa do prywatności; wysyłania 
-niezamówionych wiadomości ani przechwytywania, monitorowania lub modyfikowania wiadomości przeznaczonych dla innych osób.
-* Naruszania zasad uczestnictwa w społeczności Mozilla (patrz 
-<https://www.mozilla.org/about/governance/policies/participation/>)
-* Szkodzenia użytkownikom, np. przy użyciu wirusów, oprogramowania szpiegującego 
-lub szkodliwych programów, robaków internetowych, koni trojańskich, bomb zegarowych ani innych szkodliwych kodów lub instrukcji.
-*	Zbierania danych osobowych, w tym m.in. nazw kont i adresów e-mail.
-* Podejmowania działań zakłócających działanie usług lub produktów firmy Mozilla 
-(lub powiązanych z nimi serwerów i sieci).
-* Reprodukowania, powielania, kopiowania, sprzedaży lub odsprzedaży usług lub produktów 
-firmy Mozilla, bez względu na cel.
-* Naruszania praw autorskich, znaków towarowych lub praw własności intelektualnej 
-innych osób.
+* Grożenia ani nękania innych osób, naruszania ich prawa do prywatności; wysyłania niezamówionych wiadomości ani przechwytywania, monitorowania lub modyfikowania wiadomości przeznaczonych dla innych osób.
+* Naruszania zasad uczestnictwa w społeczności Mozilla (patrz <https://www.mozilla.org/about/governance/policies/participation/>)
+* Szkodzenia użytkownikom, np. przy użyciu wirusów, oprogramowania szpiegującego lub szkodliwych programów, robaków internetowych, koni trojańskich, bomb zegarowych ani innych szkodliwych kodów lub instrukcji.
+    * Zbierania danych osobowych, w tym m.in. nazw kont i adresów e-mail.
+* Podejmowania działań zakłócających działanie usług lub produktów firmy Mozilla (lub powiązanych z nimi serwerów i sieci).
+* Reprodukowania, powielania, kopiowania, sprzedaży lub odsprzedaży usług lub produktów firmy Mozilla, bez względu na cel.
+* Naruszania praw autorskich, znaków towarowych lub praw własności intelektualnej innych osób.
 * Przesyłania, pobierania, transmitowania, wyświetlania lub udostępniania treści, które:
     * są niedozwolone lub promują niedozwolone działania;
     * są nieodpowiednie, np. stanowią materiały wulgarne lub pornograficzne, obrazowo przedstawiające seksualność lub przemoc lub zawierają obrazy, które wiążą się z wykorzystywaniem dzieci lub ich krzywdzeniem;
