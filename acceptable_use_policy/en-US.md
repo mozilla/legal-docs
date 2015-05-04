@@ -14,8 +14,7 @@ time bombs or any other such malicious codes or instructions
 products (or the servers and networks which are connected to Mozilla’s services)
 * Reproduce, duplicate, copy, sell, trade or resell Mozilla’s services or products for
 any purpose
-* Violate the copyright, trademark, or infringes the intellectual property rights of
-others
+* Violate the copyright, trademark or infringe upon the intellectual property rights of others
 * Upload, download, transmit, display, or grant access to content that:
     * Is illegal or promotes illegal activities
     * Is inappropriate such as obscene or pornographic materials, graphic depictions of sexuality or violence, or images that exploit or harm children
