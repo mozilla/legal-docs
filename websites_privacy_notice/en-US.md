@@ -1,15 +1,15 @@
 # Websites, Communications & Cookies Privacy Notice
 
-March 18, 2015
-{: datetime="2015-03-18" }
+June 1, 2015
+{: datetime="2015-06-01" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
-This privacy notice applies to Mozilla operated websites, which include the domains mozillians.org, mozilla.org, firefox.com, openbadges.org and webmaker.org. This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
+This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, openbadges.org and webmaker.org, among others. This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
 
 ## Things you should know
 
-We may receive personal information from you based on your interaction with us on social media platforms, if you submit a job, intern or fellow application, if you volunteer as a Mozilla community member, if you submit user feedback or a request to us, or if you engage with a product or policy campaign. 
+We may receive personal information from you based on your interaction with us on social media platforms; if you submit a job, intern or fellow application; if you volunteer as a Mozilla community member; if you submit user feedback or a request to us; if you sign-up for an account; or if you engage with a product or policy campaign. 
 {: #personal-info }
 
 * **Social Media**: If you engage with our social media accounts, such as Twitter and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
@@ -20,19 +20,25 @@ We may receive personal information from you based on your interaction with us o
 
 * **User Feedback**:  You can provide feedback to us on our products and services on webpages like [input.mozilla.org](https://input.mozilla.org/), through an in-product experience, or through channels such as email, Bugzilla, IRC, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.
 
+* **Accounts**: Some websites, for example Marketplace, AMO, MDN, and Webmaker, require account creation to submit developer content; submit user reviews or comments; or install certain types of apps.  You may periodically receive emails in connection with your account. 
+
 * **Product & Policy Campaigns**:  Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.  
 {: #campaigns }
 
 ---------------------------------------
 
-We use cookies, clear GIFs, third party web analytics, and IP addresses for functionality and to improve our products, services, and communications. 
+We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. 
 {: #data-tools }
 
-* **Cookies & IP addresses**: We use these to enhance functionality of certain products and services. For example, cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on websites that use Persona.  IP addresses are used to customize content for your specific country.
+* **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
+  * Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  
+  * IP addresses are used to customize communications by language and country.  
+  * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
 
-* **Online Data Tools**: We use clear GIFs and web analytics to understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
-
-* **Third party Services** We use third party services such as Google Analytics and Optimizely.  They use cookies, IP addresses, and online data tools.
+* **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+  * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
+  * Optimizely, which places a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
+  * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
 
 ---------------------------------------
 
@@ -47,7 +53,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
 
 * **Analytics & Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
-If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can [opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information.
+If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can [opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information. Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.  You can opt-out by going to the “Your Choices” section of [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) and selecting “Click here to opt-out”.
 
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
 
