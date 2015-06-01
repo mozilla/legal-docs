@@ -76,3 +76,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 
 * **Add-ons**: Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
 {: #addons }
+
+---------------------------------------
+For Firefox for Android only:
+In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Our vendor must adhere to strict confidentiality obligations consistent with this Privacy Notice and our agreements with them. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies.
