@@ -47,7 +47,7 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
 * **Correo electrónico**: Nuestros mensajes de publicidad son opcionales y puede cancelar su suscripción desde el pie de página del mensaje de correo electrónico o actualizando las [preferencias de correo de Mozilla](https://www.mozilla.org/newsletter/recovery/). Puede desactivar la función de los GIF transparentes si visualiza nuestros mensajes de correo electrónicos en el formato de solo texto.
 
 * **Análisis y optimización**: Si no desea que Google Analytics recoja información sobre sus visitas a los sitios web de Mozilla, puede instalar el [Complemento de inhabilitación para navegadores de Google Analytics](https://tools.google.com/dlpage/gaoptout). Este complemento le permite realizar visitas anónimas y prohíbe la transmisión de datos a Google Analytics.
-Si no desea que Optimizely recoja información sobre sus visitas a los sitios web de Mozilla, puede [cancelar su suscripción en www.mozilla.org] (https://www.mozilla.org/?optimizely_opt_out=true) o visitar [Exclusión del seguimiento de Optimizely] (https://www.optimizely.com/opt_out) para obtener más información.
+Si no desea que Optimizely recoja información sobre sus visitas a los sitios web de Mozilla, puede [cancelar su suscripción en www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o visitar [Exclusión del seguimiento de Optimizely](https://www.optimizely.com/opt_out) para obtener más información.
 
 * **Redes sociales**: Los botones para compartir en las redes sociales de los sitios web de Mozilla están diseñados para que no se comparta información con el proveedor de estos medios mientras no haga clic en el botón.
 
