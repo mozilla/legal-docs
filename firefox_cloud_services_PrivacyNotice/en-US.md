@@ -7,7 +7,7 @@ We care about your privacy. When Firefox Cloud Services (the "Services") sends i
 
 ## Things you should know:
 
-You send us different types of data depending on what features of the Services you use.  Learn More.
+You send us different types of data depending on what features of the Services you use.
 
 * **Firefox Account**: When you sign up for an account, we receive your email address and a hash of your password.  In addition, you may optionally add a profile image.  If you choose Gravatar, we'll share your email address with Gravatar to obtain your profile image.
 * **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.
@@ -15,7 +15,7 @@ You send us different types of data depending on what features of the Services y
 
 ---------------------------------------
 
-We use cookies, clear GIFs and other web technologies to offer and improve our products and services.  Learn More.
+We use cookies, clear GIFs and other web technologies to offer and improve our products and services.
 
 * **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics.
 
