@@ -7,7 +7,7 @@ Nos importa su privacidad. El uso que hacemos de la información que Firefox Clo
 
 ## Aspectos que debe conocer:
 
-Usted nos envía distintos tipos de datos, dependiendo de las funciones de los Servicios que utilice.  Más información.
+Usted nos envía distintos tipos de datos, dependiendo de las funciones de los Servicios que utilice.
 
 * **Cuenta de Firefox**: Cuando crea una cuenta, recibimos su dirección de correo electrónico y contraseña.
 * **Sync**: Si utiliza Sync, recibiremos información diversa que nos permitirá sincronizar sus pestañas, su barra alucinante, sus contraseñas, sus marcadores, sus preferencias de navegación y otros datos en los dispositivos.
@@ -15,7 +15,7 @@ Usted nos envía distintos tipos de datos, dependiendo de las funciones de los S
 
 ---------------------------------------
 
-Utilizamos cookies, GIF transparentes y otras tecnologías web para ofrecer y mejorar nuestros productos y servicios.  Más información.
+Utilizamos cookies, GIF transparentes y otras tecnologías web para ofrecer y mejorar nuestros productos y servicios.
 
 * **Herramientas de datos en línea**: Utilizamos "herramientas de datos en línea", por ejemplo, cookies, GIF transparentes y balizas web, para que nuestros productos y servicios cuenten con una funcionalidad total. Por ejemplo, las cookies colaboran en el inicio de sesión y la autenticación del usuario. Además, utilizamos estas mismas herramientas para recopilar datos con el fin de mejorar nuestros productos y servicios. Por ejemplo, las cookies nos permiten realizar análisis web.
 

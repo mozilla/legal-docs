@@ -7,7 +7,7 @@ Fontos számunkra az Ön adatainak védelme. A Firefox Cloud Services (a „Szol
 
 ## Tudnivalók:
 
-Attól függően, hogy a Szolgáltatások mely funkcióit használja, Ön különböző típusú adatokat küld nekünk.  További információk
+Attól függően, hogy a Szolgáltatások mely funkcióit használja, Ön különböző típusú adatokat küld nekünk.
 
 * **Firefox-fiók**: Amikor fiókot nyit, megkapjuk e-mail címét és jelszavát.
 * **Sync**: A Sync használata esetén számos információt kapunk a lapok, az Awesome Bar, a jelszavak, a könyvjelzők, a böngészőbeállítások és a különböző Firefox eszközökön tárolt egyéb adatok szinkronizálása érdekében.
@@ -15,7 +15,7 @@ Attól függően, hogy a Szolgáltatások mely funkcióit használja, Ön külö
 
 ---------------------------------------
 
-Cookie-kat, clear GIF-eket és egyéb webes technológiákat alkalmazunk termékeink és szolgáltatásaink biztosítása és fejlesztése érdekében.  További információk
+Cookie-kat, clear GIF-eket és egyéb webes technológiákat alkalmazunk termékeink és szolgáltatásaink biztosítása és fejlesztése érdekében.
 
 * **Online adateszközök**: Ún. „online adateszközöket”, pl. cookie-kat, clear GIF-eket és webes irányjelzőket használunk termékeink és szolgáltatásaink biztosítása érdekében. A cookie-k például a bejelentkezés és hitelesítés során nyújtanak segítséget. Ugyanezeket az eszközöket használjuk a termékeink és szolgáltatásaink fejlesztése érdekében történő adatgyűjtés során is. Például a cookie-k segítségével készítünk webes elemzést.
 

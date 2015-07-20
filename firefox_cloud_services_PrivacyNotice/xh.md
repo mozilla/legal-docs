@@ -7,7 +7,7 @@ Sibukhathelele ezabucala lwakho. Xa Iinkonzo ZeFirefox Cloud ("Iinkonzo") zithum
 
 ## Izinto omele uzazi:
 
-Usinika iintlobo ezahlukeneyo zenkcazelo kuxhomekeka inkalo yeNkonzo oyisebenzisayo.  Funda Okungakumbi
+Usinika iintlobo ezahlukeneyo zenkcazelo kuxhomekeka inkalo yeNkonzo oyisebenzisayo.
 
 * **Iakhawunti YeFirefox**: Xa usayina ukuze ube neakhawunti, sifumana idilesi yemeyile yakho nephasiwedi.
 * **ISync**: Ukuba usebenzisa iSync, sifumana inkcazelo eyahlukeneyo ukuze zihambisane iithebhu zakho, ibha entle, iphasiwedi, isiphawuli sephepha, ukhetho lokubrawuza kunye nenye inkcazelo kwisixhobo
@@ -15,7 +15,7 @@ Usinika iintlobo ezahlukeneyo zenkcazelo kuxhomekeka inkalo yeNkonzo oyisebenzis
 
 ---------------------------------------
 
-Ukuba usebenzisa iicookie, cima iGIF kwaye obunye ubuchwepheshe bokugcina iimveliso zethu kunye neenkonzo.  Funda Okungakumbi
+Ukuba usebenzisa iicookie, cima iGIF kwaye obunye ubuchwepheshe bokugcina iimveliso zethu kunye neenkonzo.
 
 * **Izixhobo Zenkcazelo Kwintanethi**: Sisebenzisa "izixhobo zenkcazelo kwintanethi" ezifana neecookie, ukususa iiGIF kunye neebhikhoni zewebhu ukunikezela ngokusebenziseka kweemveliso neenkonzo zethu. Umzekelo, iicookie zisinceda ngokusayina komsebenzi ukumqinisekisa. Sikwazsebenzisa nezixhobo ezifana kwingqokelela yenkcazelo ukuphucula iimveliso neenkonzo zethu. Umzekelo, ukusebenzisa iicookie kulungiselela ukuhlalutywa kwewebhu. 
 

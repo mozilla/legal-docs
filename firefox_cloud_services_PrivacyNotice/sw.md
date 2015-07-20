@@ -7,7 +7,7 @@ Tunajali kuhusu faragha yako. Wakati Huduma za Wingu za Firefox ("Huduma") hutum
 
 ## Mambo unayofaa kujua:
 
-Umetutumia aina tofauti za data kulingana na vipengele vya Huduma unazotumia.  Jifunze Zaidi.
+Umetutumia aina tofauti za data kulingana na vipengele vya Huduma unazotumia.
 
 * **Akaunti ya Firefox**: Unapojisajili kwa akaunti, tunapokea anwani yako ya barua pepe na nenosiri.
 * **Landanisha**: Iwapo utatumia Ulandanishaji, tunapokea maelezo mbalimbali ya kulandanisha vichupo, upau bora, maalamisho, mapendeleo ya kivinjari na data yako nyingine kwenye vifaa.
@@ -15,7 +15,7 @@ Umetutumia aina tofauti za data kulingana na vipengele vya Huduma unazotumia.  J
 
 ---------------------------------------
 
-Tunatumia vidakuzi, GIF wazi na teknolojia nyingine ya wavuti kutoa na kuboresha bidhaa na huduma zetu.  Jifunze Zaidi.
+Tunatumia vidakuzi, GIF wazi na teknolojia nyingine ya wavuti kutoa na kuboresha bidhaa na huduma zetu.
 
 * **Zana za Data ya Mtandaoni**: Tunatumia "zana za data ya mtandaoni" kama vile vidakuzi, GIF wazi na violezo vya wavuti ili kutoa utendaji wa bidhaa na huduma zetu. Kwa mfano, vidakuzi husaidia kwa kuingia na uhalalishaji wa mtumiaji. Pia tunatumia zana zizi hizi kukusanya data ili kuboresha bidhaa na huduma zetu. Kwa mfano, tunatumia vidakuzi kutoa uchanguzi wa wavuti.
 

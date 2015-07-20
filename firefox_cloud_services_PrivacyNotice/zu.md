@@ -7,7 +7,7 @@ Sayabunakekela ubumfihlo bakho. Uma amasevisi we-Firefox Cloud ("amasevisi") ath
 
 ## Izinto okufanele uzazi:
 
-Usithumela izinhlobo ezahlukahlukene zedatha kuye ngokuthi yiziphi izici Zamasevisi ozisebenzisayo.  Funda kabanzi.
+Usithumela izinhlobo ezahlukahlukene zedatha kuye ngokuthi yiziphi izici Zamasevisi ozisebenzisayo.
 
 * **I-akhawunti ye-Firefox**: Uma ubhalisela i-akhawunti, sithola ikheli lakho le-imeyili nephasiwedi.
 * **Ukuvumelanisa**: Uma usebenzisa Ukuvumelanisa, sithola ulwazi oluhlukahlukene ukuvumelanisa amathebhu wakho, ibha enhle, amaphasiwedi, amabhukhimakhi, izinketho zesiphequluli nenye idatha kuwo wonke amadivayisi.
@@ -15,7 +15,7 @@ Usithumela izinhlobo ezahlukahlukene zedatha kuye ngokuthi yiziphi izici Zamasev
 
 ---------------------------------------
 
-Sisebenzisa amakhukhi, ama-GIF acacile nobunye ubuchwepheshe bewebhu ukunikezela nokuthuthukisa imikhiqizo namasevisi wethu.  Funda kabanzi.
+Sisebenzisa amakhukhi, ama-GIF acacile nobunye ubuchwepheshe bewebhu ukunikezela nokuthuthukisa imikhiqizo namasevisi wethu.
 
 * **Amathuluzi Wedatha Waku-inthanethi**: Sisebenzisa "amathuluzi wedatha waku-inthanethi" njengamakhukhi, ama-GIF acacile namabhekhoni wewebhu ukuhlinzeka umsebenzi wemikhiqizo namasevisi wethu. Isibonelo, amakhukhi asiza ngokungena ngemvume komsebenzisi nokugunyaza. Futhi sisebenzisa lawo mathuluzi ukuqoqa idatha nokuthuthukisa imikhiqizo namasevisi wethu. Isibonelo, sisebenzisa amakhukhi ukuhlinzeka ukuhlaziya kwewebhu. 
 
