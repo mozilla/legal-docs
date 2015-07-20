@@ -7,7 +7,7 @@ Mi brinemo o Vašoj privatnosti. Kada Firefox Cloud Services ("Usluge") šalju i
 
 ## Stvari koje bi trebalo da znate:
 
-U zavisnosti od funkcije Usluga koje koristite, šaljete nam različite vrste podataka.  Saznajte više.
+U zavisnosti od funkcije Usluga koje koristite, šaljete nam različite vrste podataka.
 
 * **Firefox nalog**: Kada otvarate nalog, šaljete nam svoju e-adresu i lozinku.
 * **Sync**: Ako koristite Sync, mi dobijamo različite vrste informacija kako bismo sinhronizovali vaše kartice, awesome bar, lozinke, obeleživače, podešavanja obeleživača i druge podatke sa različitih uređaja.
@@ -15,7 +15,7 @@ U zavisnosti od funkcije Usluga koje koristite, šaljete nam različite vrste po
 
 ---------------------------------------
 
-Koristimo kolačiće, prazne GiF-ove i ostale veb tehnologije da bismo Vam omogućili i poboljšali naše proizvode i usluge.  Saznajte više.
+Koristimo kolačiće, prazne GiF-ove i ostale veb tehnologije da bismo Vam omogućili i poboljšali naše proizvode i usluge.
 
 * **Onlajn alatke za podatke**: Koristimo “Onlajn alatke za podatke” kao što su kolačići, prazni GIF-ovi i veb označivači da bismo omogućili funkcionalnost naših proizvoda i usluga. Na primer, kolačići Vam pomažu prilikom prijavljivanja i identifikacije. Iste alatke koristimo da prikupimo podatke u cilju poboljšanja naših proizvoda i usluga. Primera radi, koristimo kolačiće da bismo Vam omogućili veb analitiku.
 

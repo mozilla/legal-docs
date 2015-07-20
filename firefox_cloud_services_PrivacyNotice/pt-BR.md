@@ -7,7 +7,7 @@ Sua privacidade é importante para nós. Quando o Firefox Cloud Services (os "Se
 
 ## O que você deve saber:
 
-Você envia diferentes tipos de dados para nós dependendo de quais recursos dos Serviços você utiliza.  Saiba mais.
+Você envia diferentes tipos de dados para nós dependendo de quais recursos dos Serviços você utiliza.
 
 * **Conta do Firefox**: Quando você cria uma conta, recebemos seu endereço de e-mail e senha.
 * **Sync**: Caso você use o Sync, recebemos várias informações para sincronizar suas abas, barra de endereços inteligente, senhas, favoritos, preferências do navegador e outros dados entre os dispositivos.
@@ -15,7 +15,7 @@ Você envia diferentes tipos de dados para nós dependendo de quais recursos dos
 
 ---------------------------------------
 
-Utilizamos cookies, GIFs transparentes e outras tecnologias da web para oferecer e melhorar nossos produtos e serviços.  Saiba mais.
+Utilizamos cookies, GIFs transparentes e outras tecnologias da web para oferecer e melhorar nossos produtos e serviços.
 
 * **Ferramentas de dados on-line**: Usamos “ferramentas de dados on-line”, como cookies, GIFs transparentes e web beacons para oferecer a funcionalidade de nossos produtos e serviços. Por exemplo, cookies ajudam no início de sessão e autenticação de usuários. Também usamos essas mesmas ferramentas para coletar dados para melhorar nossos produtos e serviços. Por exemplo, usamos cookies para fornecer análises da web.
 

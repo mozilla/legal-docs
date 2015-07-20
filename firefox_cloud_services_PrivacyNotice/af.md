@@ -7,7 +7,7 @@ Ons gee om oor jou privaatheid. Wanneer Firefox-wolkdienste (die "dienste") inli
 
 ## Dinge wat jy moet weet:
 
-Jy stuur vir ons verskillende soorte data, afhangende van watter kenmerke van die dienste u gebruik. Kom meer te wete.
+Jy stuur vir ons verskillende soorte data, afhangende van watter kenmerke van die dienste u gebruik.
 
 * **Firefox-rekening**: Wanneer jy vir 'n rekening aansluit, ontvang ons jou e-posadres en wagwoord.
 * **Sinchro**: Indien jy Sinchro gebruik, ontvang ons 'n verskeidenheid inligting om jou oortjies, Awesome-balk, wagwoorde, boekmerke, blaaiervoorkeure en ander data oor verskeie toestelle heen te sinchroniseer.
@@ -15,7 +15,7 @@ Jy stuur vir ons verskillende soorte data, afhangende van watter kenmerke van di
 
 ---------------------------------------
 
-Ons gebruik koekies, deursigtige GIF's en ander webtegnologie om ons produkte en dienste te lewer en te verbeter. Kom meer te wete.
+Ons gebruik koekies, deursigtige GIF's en ander webtegnologie om ons produkte en dienste te lewer en te verbeter.
 
 * **Aanlyndata-nutsgoed**: Ons gebruik "aanlyndata-nutsgoed" soos koekies, deursigtige GIF's en webbakens om die funksies van ons produkte en dienste te lewer. 'n Voorbeeld is koekiesbystand by gebruiker-aanmelding en -stawing. Ons gebruik ook hierdie selfde nutsgoed om data te versamel om ons produkte en dienste te verbeter. Ons gebruik byvoorbeeld koekies om webanalise te voorsien.
  

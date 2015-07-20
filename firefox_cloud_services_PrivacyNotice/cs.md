@@ -7,7 +7,7 @@ Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen
 
 ## Věci, které byste měli vědět:
 
-Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby využíváte.  Podrobnější informace
+Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby využíváte.
 
 * **Účet Firefox**: Pokud si založíte účet, obdržíte e-mail s heslem.
 * **Sync**: Pokud používáte službu Sync, získáváme různé informace pro synchronizaci vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče a další data prostřednictvím různých zařízení.
@@ -15,7 +15,7 @@ Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby vyu�
 
 ---------------------------------------
 
-Pro nabídku a zlepšení našich výrobků a služeb používáme soubory cookies, čisté GIFy a další webové technologie.  Podrobnější informace
+Pro nabídku a zlepšení našich výrobků a služeb používáme soubory cookies, čisté GIFy a další webové technologie.
 
 * **Online nástroje pro data**: „Online nástroje pro data” jako jsou soubory cookies, čisté GIFy a webové majáčky (web beacons) používáme k zajišťování funkcí našich produktů a služeb. Soubory cookies nám například pomáhají s přihlášením uživatele a ověřením. Stejné nástroje používáme rovněž ke sběru dat pro zlepšení našich produktů a služeb. Soubory cookies například používáme k zajištění webové analýzy.
 

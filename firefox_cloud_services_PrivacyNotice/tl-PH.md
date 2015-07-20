@@ -7,7 +7,7 @@ Pinahahalagahan namin ang inyong privacy. Kapag nagpadala ng impormasyon ang Mga
 
 ## Mga bagay na dapat ninyong malaman:
 
-Nagpapadala kayo sa amin ng iba't ibang uri ng data depende sa kung anong mga feature ng Mga Serbisyo ang ginagamit ninyo.  Matuto nang Higit Pa.
+Nagpapadala kayo sa amin ng iba't ibang uri ng data depende sa kung anong mga feature ng Mga Serbisyo ang ginagamit ninyo.
 
 * **Firefox Account**: Kapag nag-sign up kayo para sa isang account, matatanggap namin ang inyong email address at password.
 * **Sync**: Kung ginamit ninyo ang Sync, makakatanggap kami ng iba't ibang impormasyon upang i-synchronize ang inyong mga tab, awesome bar, password, bookmark, kagustuhan sa browser at iba pang data sa maraming device.
@@ -15,7 +15,7 @@ Nagpapadala kayo sa amin ng iba't ibang uri ng data depende sa kung anong mga fe
 
 ---------------------------------------
 
-Gumagamit kami ng cookies, mga clear na GIF at iba pang mga teknolohiya sa web upang ialok at pahusayin ang aming mga produkto at serbisyo.  Matuto nang Higit Pa.
+Gumagamit kami ng cookies, mga clear na GIF at iba pang mga teknolohiya sa web upang ialok at pahusayin ang aming mga produkto at serbisyo.
 
 * **Mga Online na Tool ng Data**: Gumagamit kami ng “mga online na tool ng data” gaya ng cookies, mga clear na GIF at web beacon upang ibigay ang functionality ng aming mga produkto at serbisyo. Halimbawa, nakakatulong ang cookies sa pag-sign in at pagpapatotoo ng user. Ginagamit din namin ang mga parehong tool na ito upang mangolekta ng data upang mapahusay ang aming mga produkto at serbisyo. Halimbawa, gumagamit kami ng cookies upang magbigay ng web analytics.
 
