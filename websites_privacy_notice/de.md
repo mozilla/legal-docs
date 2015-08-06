@@ -47,7 +47,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 * **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen.  
 
 * **Analyse und Optimierung**: Wenn Sie nicht möchten, dass Daten zu Ihren Besuchen von Mozilla-Websites von Google Analytics erfasst werden, können Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout) installieren. Mithilfe des Add-ons bleiben Ihre Besuche anonym, und es werden keine Daten an Google Analytics übertragen.
-Wenn Sie nicht möchten, dass Daten über Ihre Besuche von Mozilla-Websites von Optimizely erfasst werden, können Sie sich [auf www.mozilla.org abmelden] (https://www.mozilla.org/?optimizely_opt_out=true) oder die [Opt-out-Website von Optimizely](https://www.optimizely.com/opt_out) besuchen. Dort finden Sie weitere Informationen. 
+Wenn Sie nicht möchten, dass Daten über Ihre Besuche von Mozilla-Websites von Optimizely erfasst werden, können Sie sich [auf www.mozilla.org abmelden](https://www.mozilla.org/?optimizely_opt_out=true) oder die [Opt-out-Website von Optimizely](https://www.optimizely.com/opt_out) besuchen. Dort finden Sie weitere Informationen. 
 
 * **Social Media**: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für Social-Media-Anbieter freigegeben werden, wenn Sie auf die Schaltfläche klicken.
 
