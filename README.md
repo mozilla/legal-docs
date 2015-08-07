@@ -31,19 +31,19 @@ File a pull request that updates your locale's markdown file to match the `en-US
 Following is a list of directories in this repository and either their URL counterparts on the web or directions to see the document in case it isn't easily linkable.  The URLs below will link to the *English (US)* versions of the document but replacing *en-US* in the URL with an available language code will show alternative languages.
 
 * /firefox_cloud_services_PrivacyNotice
-  * https://www.mozilla.org/en-US/privacy/firefox-cloud/
+    * https://www.mozilla.org/en-US/privacy/firefox-cloud/
 * /firefox_cloud_services_ToS
 * /firefox_os_privacy_notice
-  * https://www.mozilla.org/en-US/privacy/firefox-os/
+    * https://www.mozilla.org/en-US/privacy/firefox-os/
 * /firefox_privacy_notice
-  * https://www.mozilla.org/en-US/privacy/firefox/
+    * https://www.mozilla.org/en-US/privacy/firefox/
 * /marketplace_developer_agreement
-  * https://marketplace.firefox.com/developers/docs/policies/agreement?lang=en-US
+    * https://marketplace.firefox.com/developers/docs/policies/agreement?lang=en-US
 * /marketplace_privacy_policy
-  * https://marketplace.firefox.com/privacy-policy?lang=en-US
+    * https://marketplace.firefox.com/privacy-policy?lang=en-US
 * /marketplace_terms_of_use
-  * https://marketplace.firefox.com/terms-of-use?lang=en-US
+    * https://marketplace.firefox.com/terms-of-use?lang=en-US
 * /mozilla_privacy_policy
-  * https://www.mozilla.org/en-US/privacy/
+    * https://www.mozilla.org/en-US/privacy/
 * /websites_privacy_notice
-  * https://www.mozilla.org/en-US/privacy/websites/
+    * https://www.mozilla.org/en-US/privacy/websites/
