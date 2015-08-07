@@ -31,14 +31,14 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 {: #data-tools }
 
 * **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
-  * Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  
-  * IP addresses are used to customize communications by language and country.  
-  * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
+    * Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  
+    * IP addresses are used to customize communications by language and country.  
+    * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
 
 * **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
-  * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
-  * Optimizely, which places a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
-  * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+    * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
+    * Optimizely, which places a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
+    * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
 
 ---------------------------------------
 

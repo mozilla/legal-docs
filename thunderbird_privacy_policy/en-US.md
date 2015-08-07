@@ -14,14 +14,14 @@ In this privacy policy, we talk about:
 * [Information Thunderbird Sends to Websites, Email Providers, and ISPs](#disclosed)
 * [Tracking and Cookies](#tracking)
 * [Data Practices for Interactive Product Features](#features), including
-  * [Addons](#addons),
-  * [Personas](#personas), and
-  * [Usage Statistics](#telemetry)
+    * [Addons](#addons),
+    * [Personas](#personas), and
+    * [Usage Statistics](#telemetry)
 * [What Mozilla Does to Secure Data](#security)
 * [Legal Process and Others Disclosures](#legal)
-  * [What and When We Share with Third Parties](#third-parties)
-  * [Transfer of Data to the U.S.](#stateside)
-  * [Mozilla’s Approach to Data Retention](#retention)
+    * [What and When We Share with Third Parties](#third-parties)
+    * [Transfer of Data to the U.S.](#stateside)
+    * [Mozilla’s Approach to Data Retention](#retention)
 * [How Mozilla Discloses Changes to this Policy](#changes)
 * [How to Contact Mozilla about this Policy](#contact)
 
