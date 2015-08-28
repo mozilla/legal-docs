@@ -1,4 +1,4 @@
-# Avviso sulla privacy del browser Firefox
+# Informativa sulla privacy del browser Firefox
 
 15 aprile 2014
 {: datetime="2014-04-15" }
