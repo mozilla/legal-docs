@@ -1,7 +1,7 @@
 # Napomena o privatnosti Firefox OS
 
-08\. svibnja 2013.
-{: datetime="2013-05-08" }
+26\. kolovoza 2015\.
+{: datetime="2015-08-26" }
 
 Stalo nam je do vaše privatnosti. Kada nam Firefox OS šalje informacije, naša [Mozillina pravila privatnosti](https://www.mozilla.org/privacy/) opisuju kako postupamo s tim informacijama.
 
@@ -11,7 +11,7 @@ Firefox OS povezuje nas i druge kako bismo omogućili funkcije proizvoda.
 {: #location-services }
 
 * Ažuriranje: Kako bi bio ažuriran, Firefox OS automatski se povezuje na uslugu kojom upravlja ili u ime proizvođača uređaja. Firefox OS također automatski provjerava za ažuriranja  za instalirane aplikacije tako da šalje zahtjev na Firefox Marketplace ili, ako ste instalirali aplikaciju s druge lokacije, na uslugu tog razvojnog programera.
-* Lokacija: Kada uključite usluge lokacije, Firefox OS može koristiti više točaka podataka i entitete za procjenu položaja, uključujući GPS, AGPS i druge geolokacije davatelja usluge. Usluge lokacije možete onemogućiti u „Postavkama“ aplikacija Firefox OS u svom uređaju.
+* Lokacija: Kada uključite usluge lokacije, Firefox OS može koristiti više točaka podataka i entitete za procjenu položaja, uključujući GPS, AGPS i druge geolokacije davatelja usluge. Usluge lokacije možete onemogućiti u „Postavkama“ aplikacija Firefox OS u svom uređaju. [Saznajte više o uvjetima pružanja usluge operatera AGPS](https://wiki.mozilla.org/Firefox_OS/AGPS_service_provider_terms).
 * Početna aktivacija: Kako biste omogućili odgovarajuća ažuriranja i aplikacije, Firefox OS šalje Mozilli jednokratni signal s podacima prilikom početnog uključivanja. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics)
 * Korištenje aplikacije: kako bi se poboljšalo otkrivanje sadržaja na usluzi Firefox Marketplace, operativni sustav Firefox šalje Mozilli "Informacije o uporabi aplikacije" (npr, vrijeme aktivne uporabe, broj otvaranja/zatvaranja/prekida, popis neinstalirane aplikacije na uređajima s operativnim sustavom Firefox OS). Možete onemogućiti dijeljenje informacija o uporabi aplikacije u aplikaciji “Postavke” na uređaju s operativnim sustavom Firefox. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
 * Informacije o pružatelju tražilice: kako biste poboljšali pretraživanje na uređajima s operativnim sustavom Firefox, operativni sustav Firefox šalje informacije Mozilli o tome koja je tražilica pružila rezultate pretraživanja uređaju. Možete onemogućiti dijeljenje informacija o rezultatima pretraživanja putem tražilice u aplikaciji “Postavke” na uređaju s operativnom sustavom Firefox. [Saznajte više](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
@@ -22,5 +22,4 @@ Uređaj koji koristite, kao većina mobilnih uređaja, izrađen je od nekoliko s
 {: #external-parties }
 
 * Ako koristite aplikacije koje netko drugi izradio a nije Mozilla, primjenjuju se njihova pravila privatnosti.
-* Funkcija traženja dinamičke aplikacije Firefox OS pokreće se preko Everything.me te se primjenjuju njezina pravila privatnosti koje možete pronaći na <http://everything.me/privacy/firefox-os>.
 * Firefox OS omogućuje vam da koristite nekoliko integriranih usluga trećih strana, poput e-pošte ili davatelja društvenih mreža. Pravila privatnosti ovih usluga primjenjuju se prilikom njihovog korištenja.
