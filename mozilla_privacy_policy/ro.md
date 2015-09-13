@@ -3,11 +3,11 @@
 15 aprilie 2014
 {: datetime="2014-04-15" }
 
-Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre. 
+Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre.
 
-## Ce înseamnă „date personal”?
+## Ce înseamnă „date personale”?
 
-Pentru noi, „datele personal” sunt datele care vă identifică, precum numele sau adresa dvs. de e-mail.
+Pentru noi, „datele personale” sunt datele care vă identifică, precum numele sau adresa dvs. de e-mail.
 
 Orice informație care nu se încadrează în această definiție constituie „date fără caracter personal”.
 
@@ -29,7 +29,7 @@ Atunci când ne furnizați informații, noi le utilizăm în scopurile pentru ca
 ## Când partajăm informațiile dvs. cu alții?
 
 * După ce vă solicităm și primim permisiunea dvs. de a le partaja.
-* Pentru procesarea sau furnizarea produselor și serviciilor către dvs., însă numai dacă entitățile care primesc informațiile dvs. sunt obligate prin contract să trateze datele prin metodele aprobate de Mozilla.
+* Pentru procesarea sau furnizarea produselor și serviciilor către dvs., însă numai dacă entitățile care primesc informațiile dvs. sunt obligate prin contract să prelucreze datele prin metodele aprobate de Mozilla.
 * Atunci când ne îndeplinim [misiunea de a fi deschiși](https://www.mozilla.org/about/manifesto/). Uneori difuzăm informații pentru a ne îmbunătăți produsele și a promova un web deschis, însă, atunci când o facem, ștergem datele dvs. personale și încercăm să le divulgăm în așa fel încât riscul ca dvs. să fiți identificat(ă) să fie minim.
 * Atunci când legislația ne impune acest lucru. Ne conformăm legislației ori de câte ori primim cereri legate de dvs. de la un guvern sau în cazul unui proces. Vă vom informa atunci când ni se va cere să oferim datele dvs. personale în acest mod, cu excepția cazului în care acest lucru ni se interzice prin lege. Atunci când primim astfel de cereri, difuzăm datele personale numai dacă suntem convinși, cu bună credință, că legea ne cere să o facem. Nimic din această politică nu vizează limitarea mijloacelor legale de apărare sau obiecțiile pe care le-ați putea avea față de solicitarea unui terț de a divulga informațiile dvs.
 * Atunci când credem că este necesar pentru a împiedica prejudicierea dvs. sau a altor persoane. Vom partaja cu dvs. informații în această manieră numai dacă apreciem în mod rezonabil, cu bună credință, că este necesar pentru protejarea drepturilor, proprietății și securității dvs., ale altor utilizatori, ale Mozilla sau publice.
