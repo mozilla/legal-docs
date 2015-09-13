@@ -2,7 +2,7 @@ Ultima actualizare 29 august 2014
 
 #### Rezumat
 
-Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă ajuta să înțelegeți termenii, însă citiți documentul în întregime, deoarece, atunci când sunteți de acord cu acesta, indicați faptul că acceptați toți termenii, nu doar acest rezumat.
+Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă ajuta să înțelegeți termenii, însă citiți documentul în întregime, deoarece, atunci când vă dați acordul pentru acesta, indicați faptul că acceptați toți termenii, nu doar acest rezumat.
 
 - Serviciile cloud Firefox („Serviciile”) sunt o suită de servicii oferite dvs. de Mozilla.
 - Serviciile sunt furnizate „ca atare” și nu se oferă niciun fel de garanții. Există limite semnificative privind răspunderea Mozilla pentru orice prejudicii rezultate ca urmare a folosirii Serviciilor de către dvs.
@@ -31,11 +31,11 @@ Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă
 
 5. #### Conținutul dvs. în cadrul Serviciilor noastre
 
-    Puteți să încărcați conținut ca parte a funcțiilor Serviciilor. Prin încărcarea conținutului, ne acordați dreptul neexclusiv, gratuit, internațional de utilizare a conținutului dvs. în cadrul furnizării Serviciilor. Prin aceasta garantați faptul că respectivul conținut al dvs. nu va încălca drepturile vreunui terț și va respecta toate orientările referitoare la conținut, menționate de Mozilla.
+    Puteți să încărcați conținut ca parte a funcțiilor Serviciilor. Prin încărcarea conținutului, ne acordați dreptul neexclusiv, gratuit, internațional de utilizare a conținutului dvs. în cadrul furnizării Serviciilor. Prin aceasta garantați faptul că respectivul conținut al dvs. nu va încălca drepturile vreunui terț și va respecta toate indicațiile referitoare la conținut, menționate de Mozilla.
 
 6. #### Drepturile de proprietate ale Mozilla
 
-    Mozilla nu vă acordă niciun drept de proprietate intelectuală asupra Serviciilor care nu este menționat în mod explicit în acești Termeni. De exemplu, acești Termeni nu conferă dreptul de a utiliza niciunul dintre drepturile de autor, denumirile comerciale, mărcile înregistrate, mărcile de servicii, siglele, numele de domenii sau alte caracteristici distinctive ale mărcii aparținând Mozilla. Serviciile se distribuie în baza și fac obiectul versiunii curente a [licenței publice Mozilla](https://www.mozilla.org/MPL/).
+    Mozilla nu vă acordă niciun drept de proprietate intelectuală asupra Serviciilor care nu este menționat în mod explicit în acești Termeni. De exemplu, acești Termeni nu conferă dreptul de a utiliza niciunul dintre drepturile de autor, denumirile comerciale, mărcile înregistrate, mărcile de servicii, siglele, numele de domenii sau alte caracteristici distinctive ale mărcii aparținând Mozilla. Serviciile se distribuie în baza și fac obiectul versiunii actuale a [Licenței publice Mozilla](https://www.mozilla.org/MPL/).
 
 7. #### Termen; Reziliere
 
