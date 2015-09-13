@@ -1,7 +1,7 @@
 ### Politica de confidențialitate a Firefox Marketplace
 14 ianuarie 2015
 
-Ne pasă de confidențialitatea dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs. de pe Firefox Maketplace, [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care tratăm aceste informații.
+Ne pasă de confidențialitatea dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs. de pe Firefox Maketplace, [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
 <u>Iată câteva lucruri pe care ar trebui să le știți:</u>
 
