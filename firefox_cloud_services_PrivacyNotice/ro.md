@@ -1,22 +1,24 @@
-# Politica de confidențialitate a serviciilor cloud Firefox
+# Firefox Cloud Services Privacy Notice
 
-17 iulie 2015
+July 17, 2015
 {: datetime="2015-07-17" }
 
-Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când serviciile cloud Firefox („Serviciile”) transmit informații către Mozilla (adică noi), [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care folosim informațiile.
+We care about your privacy. When Firefox Cloud Services (the "Services") sends information to Mozilla (that's us) our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we use that information.
 
-## Câteva lucruri pe care ar trebui să le știți:
+## Things you should know:
 
-Ne trimiteți diferite tipuri de date în funcție de funcțiile Serviciilor pe care le utilizați.
+You send us different types of data depending on what features of the Services you use.
 
-* **Cont Firefox**: Atunci când vă înregistrați pentru un cont, noi primim adresa dvs. de e-mail și un cod hash al parolei dvs.  În plus, puteți adăuga în mod opțional o imagine de profil.  Dacă alegeți Gravatar, vom partaja adresa dvs. de e-mail cu Gravatar pentru a obține imaginea dvs. de profil.
-* **Sincronizare**: Dacă folosiți funcția Sincronizare, vom primi o varietate de informații pentru sincronizarea filelor dvs., a barei inteligente, a parolelor, a preferințelor de browser și a altor date prin intermediul dispozitivelor.
-* **Găsește-mi dispozitivul**: Dacă activați funcția Găsește-mi dispozitivul, vom primi locația aproximativă a dispozitivului dvs. numai dacă vă autentificați în contul dvs. de Firefox și ne solicitați în mod specific să localizăm un dispozitiv conectat.  Atunci când sunteți autentificat(ă), puteți vizualiza ultimele locații cunoscute ale dispozitivului dvs. pe o hartă.  Ștergem în mod regulat aceste locații și nu colectăm noi locații până când nu ne solicitați acest lucru.
+* **Firefox Account**: When you sign up for an account, we receive your email address and a hash of your password.  In addition, you may optionally add a profile image.  If you choose Gravatar, we'll share your email address with Gravatar to obtain your profile image.
+* **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.
+* **Find My Device**: If you enable Find My Device, we receive the approximate location of your device only when you sign into your Firefox Account and specifically request us to locate a connected device.  While signed in, you can see your device’s last known locations on a map.  We regularly delete these locations and will not collect further locations until you request us to.
 
 ---------------------------------------
 
-Folosim cookie-uri și GIF-uri curate și alte tehnologii pentru a oferi și îmbunătăți produsele și serviciile noastre.
+We use cookies, clear GIFs and other web technologies to offer and improve our products and services.
 
-* **Instrumente de date online**: Folosim „instrumente de date online” precum cookie-urile, GIF-urile curate și semnalizatoarele web pentru a asigura funcționalitatea produselor și serviciilor noastre. De exemplu, cookie-urile ajută la autentificarea utilizatorului. Folosim aceste instrumente, de asemenea, pentru a colecta date în vederea îmbunătățirii produselor și serviciilor noastre. De exemplu, folosim cookie-uri pentru a furniza statistici web.
+* **Online Data Tools**: We use “online data tools” such as cookies, clear GIFs and web beacons to provide the functionality of our products and services. For example, cookies assist with user sign-in and authentication. We also use these same tools to collect data to improve our products and services. For example, we use cookies to provide web analytics.
 
-* **Opțiuni**: Puteți gestiona cookie-urile în Firefox și afla mai multe despre ele făcând clic [aici](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). Rețineți că anumite funcții ale produselor și serviciilor noastre, precum și ale altor produse și servicii, nu pot funcționa corect fără ajutorul cookie-urilor.
+* **Options**: You can learn more about what cookies are and manage cookies in Firefox by clicking [here](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). Note that certain features of our and other products and services may not function properly without the aid of cookies.
+
+

@@ -1,52 +1,52 @@
-# Politica de confidențialitate a Mozilla
+# Mozilla Privacy Policy
 
-15 aprilie 2014
+April 15, 2014
 {: datetime="2014-04-15" }
 
-Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre.
+Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. You can also read our product privacy notices and FAQs to get more detail with respect to each of our products and services. 
 
-## Ce înseamnă „date personale”?
+## What do we mean by "personal information?"
 
-Pentru noi, „datele personale” sunt datele care vă identifică, precum numele sau adresa dvs. de e-mail.
+For us, "personal information" means information which identifies you, like your name or email address.
 
-Orice informație care nu se încadrează în această definiție constituie „date fără caracter personal”.
+Any information that falls outside of this is "non-personal information."
 
-Dacă stocăm datele dvs. personale împreună cu date fără caracter personal, vom considera combinația acestora ca fiind date personale. Dacă ștergem toate datele personale dintr-un set de date, ceea ce rămâne sunt date fără caracter personal.
+If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
 
-## Cum obținem informații despre dvs.?
+## How do we learn information about you?
 
-Aflăm informații despre dvs. atunci când:
+We learn information about you when:
 
-* ni le furnizați în mod direct (de ex., atunci când optați să ne trimiteți rapoarte de eroare);
-* le colectăm în mod automat prin intermediul produselor și serviciilor (de ex., atunci când browserul dvs. Firefox verifică cu noi dacă este actualizat);
-* altcineva ne oferă informații despre dvs. (de ex., atunci când Thunderbird colaborează cu furnizorii dvs. de e-mail pentru a vă configura contul); sau
-* atunci când încercăm să înțelegem mai multe lucruri despre dvs. pe baza informațiilor pe care ni le oferiți (de ex., atunci când folosim adresa dvs. IP pentru a particulariza limba pentru unele dintre serviciile noastre).
+* you give it to us directly (e.g., when you choose to send us crash reports);
+* we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if is up to date);
+* someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
+* when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
 
-## Ce facem cu informațiile dvs. după ce intrăm în posesia lor?
+## What do we do with your information once we have it?
 
-Atunci când ne furnizați informații, noi le utilizăm în scopurile pentru care ne-ați acordat permisiunea dvs. În general, informațiile dvs. sunt folosite de noi pentru a vă putea oferi produsele și serviciile noastre și pentru a le îmbunătăți pentru dvs.
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
 
-## Când partajăm informațiile dvs. cu alții?
+## When do we share your information with others?
 
-* După ce vă solicităm și primim permisiunea dvs. de a le partaja.
-* Pentru procesarea sau furnizarea produselor și serviciilor către dvs., însă numai dacă entitățile care primesc informațiile dvs. sunt obligate prin contract să prelucreze datele prin metodele aprobate de Mozilla.
-* Atunci când ne îndeplinim [misiunea de a fi deschiși](https://www.mozilla.org/about/manifesto/). Uneori difuzăm informații pentru a ne îmbunătăți produsele și a promova un web deschis, însă, atunci când o facem, ștergem datele dvs. personale și încercăm să le divulgăm în așa fel încât riscul ca dvs. să fiți identificat(ă) să fie minim.
-* Atunci când legislația ne impune acest lucru. Ne conformăm legislației ori de câte ori primim cereri legate de dvs. de la un guvern sau în cazul unui proces. Vă vom informa atunci când ni se va cere să oferim datele dvs. personale în acest mod, cu excepția cazului în care acest lucru ni se interzice prin lege. Atunci când primim astfel de cereri, difuzăm datele personale numai dacă suntem convinși, cu bună credință, că legea ne cere să o facem. Nimic din această politică nu vizează limitarea mijloacelor legale de apărare sau obiecțiile pe care le-ați putea avea față de solicitarea unui terț de a divulga informațiile dvs.
-* Atunci când credem că este necesar pentru a împiedica prejudicierea dvs. sau a altor persoane. Vom partaja cu dvs. informații în această manieră numai dacă apreciem în mod rezonabil, cu bună credință, că este necesar pentru protejarea drepturilor, proprietății și securității dvs., ale altor utilizatori, ale Mozilla sau publice.
-* Dacă structura noastră organizațională sau statutul nostru se modifică (dacă inițiem un proces de restructurare, dacă suntem achiziționați sau dacă declarăm faliment), putem transmite datele dvs. unei societăți succesoare sau afiliate.
+* When we have asked and received your permission to share it.
+* For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
+* When we are fulfilling our [mission of being open](https://www.mozilla.org/about/manifesto/). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
+* When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
+* When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
+* If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
 
-## Cum stocăm și protejăm datele dvs. personale?
+## How do we store and protect your personal information?
 
-Ne angajăm să protejăm datele dvs. personale de îndată ce suntem în posesia lor. Implementăm măsuri de securitate fizice, economice și tehnice. În ciuda eforturilor noastre, în cazul în care vom depista o breșă de securitate, vă vom informa, în așa fel încât să puteți iniția măsuri de protecție adecvate.
+We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
 
-De asemenea, nu păstrăm datele dvs. personale mai mult decât este necesar, astfel că le păstrăm numai o perioadă suficient de lungă pentru a îndeplini scopul în care le-am colectat. De îndată ce nu mai avem nevoie de ele, inițiem acțiuni de distrugere a acestora, cu excepția cazului în care legislația ne impune să le păstrăm o perioadă mai lungă de timp.
+We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
 
-## Ce altceva ar trebui să știți?
+## What else should you know?
 
-Suntem o organizație mondială, iar computerele noastre se află în diferite locuri de pe glob. De asemenea, utilizăm furnizori de servicii ale căror computere se pot afla, de asemenea, în diferite țări. Aceasta înseamnă că datele dvs. ar putea ajunge pe unul dintre computerele din altă țară și că țara respectivă ar putea prezenta un nivel de reglementare a protecției datelor diferit de cel din țara dvs. Furnizându-ne date, sunteți de acord cu acest tip de transfer al datelor dvs. Indiferent de țara în care se află datele dvs., ne conformăm legislației aplicabile și vom respecta angajamentele pe care ni le asumăm în cadrul acestei politici de confidențialitate.
+We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
 
-Dacă aveți mai puțin de 13 ani, nu avem nevoie de datele dvs. personale, iar dvs. nu aveți obligația de a ni le furniza. Dacă sunteți părinte și considerați că copilul dvs., a cărui vârstă este mai mică de 13 ani, ne-a furnizat date personale, vă rugăm să [ne contactați](https://www.mozilla.org/privacy/#contact) pentru a dispune ștergerea datelor copilului dvs.
+If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/privacy/#contact) to have your child's information removed.
 
-## Ce se întâmplă în cazul în care modificăm prezenta politică de confidențialitate sau oricare dintre politicile noastre de confidențialitate?
+## What if we change this privacy policy or any of our privacy notices?
 
-S-ar putea să fie nevoie să modificăm această politică și alte politici ale noastre.  Actualizările vor fi publicate online. Dacă modificările sunt substanțiale, vom anunța actualizarea prin canalele Mozilla obișnuite pentru astfel de anunțuri, precum publicări pe blog sau forumuri. Continuarea utilizării de către dvs. a produsului sau serviciului după data intrării în vigoare a acestor modificări constituie acceptarea de către dvs. a acestor modificări. Pentru a vă ușura efortul de examinare, vom publica o dată de intrare în vigoare în partea superioară a paginii.
+We may need to change this policy and our notices.  The updates will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.

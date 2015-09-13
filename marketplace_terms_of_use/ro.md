@@ -1,99 +1,99 @@
-3 iulie 2013
+July 3, 2013
 
-### Rezumat
+### Summary
 
-Această secțiune superioară reprezintă o sinteză a termenilor de mai jos. Ea are rolul de a vă ajuta să înțelegeți termenii, însă citiți documentul în întregime, deoarece, atunci când sunteți de acord cu acesta, indicați faptul că acceptați toți termenii, nu doar această sinteză:
+This top section is a summary of the terms below. It is provided as an aid to your understanding - but be sure to read the entire document, because when you agree to it, you are indicating you accept all of it, not just this summary:
 
-- Trebuie să aveți cel puțin 18 ani pentru a deține un cont pe Marketplace sau să vă convingeți părintele să fie de acord și să supravegheze utilizarea de către dvs. a Marketplace.
-- Utilizarea de către noi a datelor dvs. va fi conformă cu [politica de confidențialitate a Firefox Marketplace](/media/docs/privacy/en-US.html). Aplicațiile sau suplimentele furnizate de alții pot avea propria lor politică de confidențialitate.
-- Dezvoltatorii (nu Mozilla) sunt singurii responsabili pentru fiecare aplicație sau supliment, inclusiv pentru acordarea de asistență.
-- Nu comiteți fapte ilicite sau alte fapte care ne-ar putea crea prejudicii nouă sau altora.
-- Nu suntem responsabili pentru utilizarea de către dvs. a Firefox Marketplace sau pentru acțiunile altor utilizatori, inclusiv dezvoltatori.
-- Veți fi responsabil(ă) pentru utilizarea sau utilizarea abuzivă de către dvs. a Firefox Marketplace, a aplicațiilor sau a suplimentelor.
+- You must be at least 18 years old to have an account on the Marketplace or have your parent consent and supervise your use of the Marketplace.
+- Our use of your data will be in accordance with our [Firefox Marketplace privacy policy](/media/docs/privacy/en-US.html). Apps or Add-ons provided by others may have their own privacy policy.
+- Developers (not Mozilla) are solely responsible for each App or Add-on, including providing you with support.
+- Don&rsquo;t do anything illegal or that could hurt us or others.
+- We&rsquo;re not responsible for your use of the Firefox Marketplace or the actions of other users, including Developers.
+- You&rsquo;ll be responsible for your use or misuse of the Firefox Marketplace, Apps or Add-ons.
 
-### Introducere
+### Introduction
 
-La Mozilla, ne angajăm să promovăm alegerea și inovația pe web. Iată de ce am creat Firefox Marketplace – o piață disponibilă publicului, care permite dezvoltatorilor să își distribuie aplicațiile sau suplimentele utilizatorilor pentru a le utiliza pe orice dispozitiv care poate accesa webul deschis.
+At Mozilla, we are committed to promoting choice and innovation on the web. That&rsquo;s why we created the Firefox Marketplace – a publicly available market that allows developers to distribute their Apps or Add-ons to users for use on any device that can access the open web.
 
-Utilizarea de către dvs. a Firefox Marketplace face obiectul termenilor și condițiilor acestor Termeni de utilizare și al politicilor Firefox Marketplace conexe menționate în acești Termeni sau pe Firefox Marketplace (pe care îi vom denumi în mod colectiv &ldquo;Termeni&rdquo;).
-
-
-### Eligibilitate
-
-Prin utilizarea Firefox Marketplace, sunteți de acord că aveți cel puțin 18 ani sau că acționați cu consimțământul și sub supravegherea părintelui; și că aveți puterea, capacitatea și autoritatea deplină de a accepta acești Termeni în numele dvs. sau, după caz, al angajatorului dvs. sau al altei entități pe care o reprezentați.
+Your use of the Firefox Marketplace is subject to the terms and conditions of this Terms of Use as well as the related Firefox Marketplace policies referred to in these Terms or in the Firefox Marketplace (we will refer to these collectively as the &ldquo;Terms&rdquo;).
 
 
-### Modificări ale termenilor
+### Eligibility
 
-Ne rezervăm dreptul de a modifica acești Termeni la libera noastră alegere și, dacă operăm modificări materiale, vă vom informa.
-
-
-### Definiții
-
-Atunci când folosim cuvântul &ldquo;Dezvoltatori&rdquo;, ne referim la dezvoltatori terți care își publică conținutul Marketplace prin Firefox Marketplace.
-
-Puteți instala suplimente sau aplicații (denumite împreună &ldquo;conținut Marketplace&rdquo;) prin Firefox Marketplace:
-
-- &ldquo;Suplimentele&rdquo; sunt extensii, teme, instrumente de căutare, dicționare și pachete lingvistice care vă permit să extindeți funcționalitatea browserului Firefox.
-- &ldquo;Aplicațiile&rdquo; sunt aplicații scrise cu ajutorul tehnologiilor web deschise, care pot rula pe mai multe platforme.
-- Unele aplicații și suplimente pot fi achiziționate de la dezvoltatori prin Firefox Marketplace (separat, o Aplicație sau un Supliment &ldquo;achiziționat(ă)&rdquo;, și, împreună, &ldquo;Conținut achiziționat&rdquo;).
+By using the Firefox Marketplace, you agree that you are at least 18 years old or are acting with the consent and supervision of your parent; and you have full power, capacity, and authority to accept these Terms on behalf of yourself, or if applicable, your employer or other entity that you represent.
 
 
-### Conținut Marketplace
+### Modifications to the Terms
 
-Fiecare Dezvoltator, nu Mozilla (cu excepția cazului în care dezvoltăm propriile noastre aplicații sau suplimente) este unicul responsabil pentru propriile sale suplimente și aplicații.
-
-
-### Conținut achiziționat
-
-Firefox Marketplace folosește Mozilla [Persona](https://persona.org/) pentru a asocia conținutul achiziționat cu contul dvs. Nu veți putea folosi niciun conținut achiziționat fără autentificarea în contul dvs. Persona. Dacă ștergeți contul dvs. Persona, puteți pierde conținutul achiziționat de dvs. Dezvoltatorii pot oferi produse și servicii care vă solicită să vă autentificați folosind acreditări suplimentare pe lângă cele de la Persona.
-
-Prin cumpărarea de Conținut achiziționat, sunteți de acord să nu eludați în mod intenționat niciun mecanism de autentificare. Putem opri furnizarea accesului la Firefox Marketplace sau suspenda accesul dvs. la conținutul achiziționat dacă suntem convinși că ați încălcat acești termeni.
+We reserve the right to change these Terms at our sole discretion, and if we do make material changes, we will notify you.
 
 
-### Rambursări și asistență
+### Definitions
 
-Dacă nu se specifică contrariul, conținutul Marketplace listat în Firefox Marketplace este dezvoltat și vândut de Dezvoltatori terți, nu de Mozilla. Din acest motiv, orice solicitare de asistență care vizează conținutul Marketplace trebuie efectuată către Dezvoltatorul respectivului conținut Marketplace. Pentru a solicita asistență pentru un conținut Marketplace pe care l-ați achiziționat, vă rugăm să contactați Dezvoltatorul respectivului conținut Marketplace prin pagina de listare a conținutului Marketplace.
+When we use the word &ldquo;Developers&rdquo;, we mean third party developers who make their Marketplace Content available through the Firefox Marketplace.
 
-De asemenea, puteți solicita asistență de la operatorul rețelei mobile de pe care accesați Firefox Marketplace ([aici](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information) găsiți o listă cu site-urile web de asistență ale operatorilor). Pentru informații privind Firefox Marketplace și articole despre întrebări adresate în mod frecvent, vizitați site-ul nostru de asistență Mozilla [aici](https://support.mozilla.org/kb/what-firefox-marketplace).
+You can install Add-ons or Apps (together, &ldquo;Marketplace Content&rdquo;) through the Firefox Marketplace:
 
-În cazul în care conținutul achiziționat de dvs. este defectuos, conține malware, nu este disponibil sau nu funcționează astfel cum se stipulează, puteți solicita o rambursare [aici](https://support.mozilla.org/questions/marketplace/refund) în termen de 10 zile de la achiziționare.
-
-
-### Termeni suplimentari privind conținutul Marketplace
-
-În măsura în care o parte din conținutul de pe Firefox Marketplace este reglementat de termeni separați (precum un acord de licență pentru utilizatori finali, o licență de sursă deschisă și/sau termeni de utilizare pentru conținut Marketplace de la un Dezvoltator), sunteți de acord să respectați acești termeni. Puteți găsi acești termeni pe baza cărora se distribuie conținut Marketplace pe pagina de informații a respectivului conținut Marketplace.
+- &ldquo;Add-ons&rdquo; are extensions, themes, search providers, dictionaries, and language packs that allow you to extend the functionality of the Firefox browser.
+- &ldquo;Apps&rdquo; are applications written using open web technologies that can run on multiple platforms.
+- Some Apps and Add-ons may be purchased from developers through the Firefox Marketplace (each, a &ldquo;Purchased&rdquo; App or Add-on and together, &ldquo;Purchased Content&rdquo;).
 
 
-### Confidențialitate
+### Marketplace Content
 
-Vi se va solicita să ne furnizați informații despre dvs. (precum date de identificare sau de contact) ca parte a procesului de înregistrare pentru și utilizare de către dvs. a Firefox Marketplace. Vom prelucra informațiile dvs. în conformitate cu [Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace.
-
-Pentru mai multe detalii, consultați-ne [Politica de confidențialitate](/media/docs/privacy/en-US.html).
-
-[Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace se aplică pentru Firefox Marketplace, însă nu acoperă niciun conținut Marketplace. Ar trebui să consultați politica de confidențialitate a unei părți din conținutul Marketplace pentru a descoperi practicile în materie de confidențialitate privind respectivul conținut Marketplace și pentru a vă familiariza cu ele înainte de a achiziționa, instala sau utiliza respectivul conținut Marketplace.
-
-Dacă sunteți convins că un Dezvoltator nu respectă [Acordul pentru dezvoltatori al Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) sau Termenii de utilizare ai Firefox Marketplace, informați-ne prin linkul de &ldquo;Raportare abuz&rdquo; pentru conținutul Marketplace relevant și vom analiza cererea dvs. și vom acționa după cum considerăm că este oportun.
+Each Developer, not Mozilla (except where we develop our own Apps or Add-ons), is solely responsible for their Add-ons and Apps.
 
 
-### Remiterile dvs.
+### Purchased Content
 
-Puteți încărca comentarii, imagini de profil și alt conținut ca parte a funcționalităților Firefox Marketplace (&ldquo;Remiterile dvs.&rdquo;). Pentru a garanta claritatea, dacă sunteți Dezvoltator, &ldquo;Remiterile&rdquo; dvs. nu includ nicio aplicație sau supliment pe care o/îl încărcați pe Firefox Marketplace – termenii privind aplicațiile sau suplimentele pe care le încărcați sunt acoperiți de[Acordul pentru dezvoltatori](https://marketplace.firefox.com/developers/docs/policies/agreement). Prin încărcarea Remiterilor dvs., acordați prin prezenta o licență neexclusivă, internațională, gratuită de utilizare a Remiterilor dvs. în legătură cu furnizarea și promovarea Firefox Marketplace. Garantați faptul că Remiterile dvs. nu vor încălca drepturile vreunui terț și vor respecta [Orientările noastre privind revizuirea aplicațiilor] (https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria).
+The Firefox Marketplace uses Mozilla [Persona](https://persona.org/) to tie your Purchased Content to your account. You won&rsquo;t be able to use any Purchased Content without logging in with your Persona account. If you delete your Persona account, you may lose your Purchased Content. Developers may offer products and services that require you to log in or authenticate using additional credentials aside from Persona.
+
+By purchasing Purchased Content, you agree not to intentionally circumvent any authentication mechanism. We may stop providing access to the Firefox Marketplace or suspend your access to Purchased Content if we believe that you have violated these terms.
 
 
-### Notificare referitoare la Legea americană privind drepturile de autor&ldquo; (&ldquo;Digital Millennium Copyright Act&rdquo;)
+### Refunds & Support
 
-Dacă sunteți deținător de drepturi de autor sau un agent al unui deținător de drepturi de autor și considerați că conținutul disponibil prin intermediul unuia dintre site-urile web ale Mozilla încalcă unul sau mai multe dintre drepturile dvs. de autor, informați imediat agentul pentru drepturi de autor al Mozilla prin e-mail, poștă sau fax (&ldquo;Notificare DMCA&rdquo;) și includeți informația prezentată mai jos. Puteți examina 17 U.S.C. &sect; 512(c)(3) din Legea americană privind drepturile de autor (Digital Millennium Copyright Act) pentru detalii recunoscute sau consultați-vă propriul avocat dacă aveți nevoie de consiliere. Dacă Mozilla ia măsuri ca răspuns la o Notificare DMCA, va încerca să contacteze cu bună credință partea care a publicat respectivul conținut prin intermediul celei mai recente adrese de e-mail, dacă este cazul, făcute cunoscută de partea respectivă companiei Mozilla. Puteți fi tras(ă) la răspundere pentru prejudicii care au la bază anumite declarații mincinoase conținute într-o notificare DMCA. Astfel, dacă nu sunteți sigur(ă) că conținutul aflat pe sau la care se face trimitere prin link de pe site-ul web încalcă drepturile dvs. de autor, ar trebui să contactați mai întâi un avocat.
+Unless otherwise noted, the Marketplace Content listed in the Firefox Marketplace is developed and sold by third-party Developers, not Mozilla. For this reason, any support requests you have that are related to Marketplace Content have to be made to the Developer of that Marketplace Content. To request support for Marketplace Content you have purchased, please contact the Developer of that Marketplace content through that Marketplace Content&rsquo;s listing page.
 
-Toate notificările DMCA ar trebui să conțină următoarele:
+You can also request support from the mobile network operator on which you are accessing the Firefox Marketplace (a list of carrier support websites are available [here](https://support.mozilla.org/kb/firefoxos-carrier-support-contact-information)). For information on the Firefox Marketplace as well as articles about commonly asked questions, please visit the Mozilla support site [here](https://support.mozilla.org/kb/what-firefox-marketplace).
 
-1. O semnătură electronică sau fizică a unui titular sau a unei persoane autorizate să acționeze în numele titularului unui drept de autor exclusiv care este încălcat;
-2. O identificare a operei sau operelor supuse drepturilor de autor care pretindeți că au fost încălcate;
-3. O descriere a naturii și locației materialului care pretindeți că încălcă drepturile dvs. de autor, cu suficiente detalii, astfel încât să permită Mozilla să găsească și să identifice cu siguranță conținutul respectiv, inclusiv URL-ul unde se află acesta;
-4. Numele, adresa, numărul de telefon și adresa de e-mail unde vă putem contacta; și
-5. O declarație dată de dvs.: **(i)** conform căreia sunteți convins(ă), cu bună credință, că materialul care pretindeți că vă încalcă drepturile de autor nu este autorizat prin lege sau de către titlularul drepturilor de autor sau de către agentul acestui titular; și, **(ii)** că toate informațiile conținute în notificarea dvs. DMCA sunt exacte și, cunoscând prevederile legii care condamnă sperjurul, sunteți fie titularul, fie persoana autorizată să acționeze în numele titularului dreptului de autor exclusiv care este încălcat.
+If your Purchased Content is defective, contains malware, is unavailable or otherwise does not perform as stated, you may request a refund [here](https://support.mozilla.org/questions/marketplace/refund) within 10 days of purchase.
 
-Agentul pentru drepturi de autor desemnat de Mozilla să primească notificările privind presupuse încălcări este următorul;
+
+### Additional Terms regarding Marketplace Content
+
+To the extent some of the content on the Firefox Marketplace are covered by separate terms (such as an end user license agreement, an open source license and/or a terms of use for Marketplace Content from a Developer), you agree to comply with such terms. You can find the terms under which Marketplace Content is being distributed on the information page of that piece of Marketplace Content.
+
+
+### Privacy
+
+You will be required to provide information about yourself (such as identification or contact details) to us as part of your registration for and use of the Firefox Marketplace. We will handle your information as we describe in the Firefox Marketplace [Privacy Policy](/media/docs/privacy/en-US.html).
+
+Please see our [Privacy Policy](/media/docs/privacy/en-US.html) for more detail.
+
+The Firefox Marketplace [Privacy Policy](/media/docs/privacy/en-US.html) applies to the Firefox Marketplace but does not cover any Marketplace Content. You should check the privacy policy of a piece of Marketplace Content to discover the privacy practices concerning such Marketplace Content and be comfortable with them before purchasing, installing or using that Marketplace Content.
+
+If you believe that a Developer is not adhering to the [Firefox Marketplace Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement) or the Firefox Marketplace Terms of Use, please let us know through the &ldquo;Report Abuse&rdquo; link for the relevant Marketplace Content and we will investigate your request and take action as we think appropriate.
+
+
+### Your Submissions
+
+You may upload comments, profile pictures and other content as a part of the features of the Firefox Marketplace (&ldquo;Your Submissions&rdquo;). For clarity, if you are a Developer, &ldquo;Your Submissions&rdquo; don&rsquo;t include any Apps or Add-ons that you upload to the Firefox Marketplace – terms regarding Apps or Add-ons you upload are covered by the [Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement). By uploading Your Submissions, you hereby grant us a non-exclusive, worldwide, royalty free license to use Your Submissions in connection with the provision and promotion of the Firefox Marketplace. You represent and warrant that Your Submissions will not infringe the rights of any third party and will comply with our [App Review Guidelines](https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_review_criteria).
+
+
+### Digital Millennium Copyright Act Notice
+
+If you are a copyright owner or an agent of a copyright owner and believe that content available by means of one of Mozilla&rsquo;s websites infringes one or more of your copyrights, please immediately notify Mozilla's Copyright Agent by means of emailed, mailed, or faxed notice (&ldquo;DMCA Notice&rdquo;) and include the information described below. You can review 17 U.S.C. &sect; 512(c)(3) of the Digital Millennium Copyright Act for authoritative detail, or consult your own attorney if you need assistance. If Mozilla takes action in response to a DMCA Notice, it will make a good faith attempt to contact the party that made such content available by means of the most recent email address, if any, provided by such party to Mozilla. You may be held liable for damages based on certain material misrepresentations contained in a DMCA Notice. Thus, if you are not sure content located on or linked to by the website infringes your copyright, you should consider first contacting an attorney.
+
+All DMCA Notices should include the following:
+
+1. A signature, electronic or physical, of the owner, or a person authorized to act on behalf of the owner, of an exclusive copyright right that is being infringed;
+2. An identification of the copyrighted work or works that you claim have been infringed;
+3. A description of the nature and location of the material that you claim to infringe your copyright, in sufficient detail to permit Mozilla to find and positively identify that content, including the URL where it is located;
+4. Your name, address, telephone number, and email address where we can contact you; and
+5. A statement by you: **(i)** that you believe in good faith that the use of the material that you claim infringes your copyright is not authorized by law, or by the copyright owner or such owner&rsquo;s agent; and, **(ii)** that all of the information contained in your DMCA Notice is accurate, and under penalty of perjury, that you are either the owner of, or a person authorized to act on behalf an owner of, the exclusive copyright right that is being infringed.
+
+Mozilla&rsquo;s designated Copyright Agent to receive notifications of claimed infringement is as follows:
 
 <address>
   Office of the General Counsel<br>
@@ -101,72 +101,72 @@ Agentul pentru drepturi de autor desemnat de Mozilla să primească notificăril
   331 E. Evelyn Ave.,<br>
   Mountain View, CA 94041<br>
   Email: dmcanotice at mozilla dot com<br>
-  Număr de telefon: [650-903-0800](tel:6509030800)<br>
+  Phone Number: [650-903-0800](tel:6509030800)<br>
   Fax: 650-903-0875
 </address>
 
-Dacă nu respectați toate cerințele unei notificări DMCA, Mozilla nu poate acționa în baza notificării dvs.
+If you fail to comply with all of the requirements of a DMCA notice, Mozilla may not act upon your notice.
 
-Mozilla va rezilia contul unui utilizator dacă, în condiții adecvate, acesta se dovedește a fi un contravenient recidivist.
+Mozilla will terminate a user&rsquo;s account if, under appropriate circumstances, they are determined to be a repeat infringer.
 
-Datele de contact indicate mai sus se aplică și pentru notificările bazate pe drepturi de autor sau mărci comerciale non-americane.
+The contact information provided above also applies to notices that are based on non-U.S. copyrights or trademarks.
 
-Numai notificările DMCA, notificările privind mărcile comerciale (care sunt definite mai jos) și notificările internaționale privind drepturile de autor și mărcile comerciale ar trebui trimise la agentul pentru drepturi de autor.
+Only DMCA Notices, Trademark Notices (which are defined below), and international copyright or trademark notices should go to the copyright agent.
 
-Rețineți faptul că orice notificare DMCA trimisă la Mozilla poate fi trimisă terților (inclusiv persoanei acuzate) și publicate pe internet (inclusiv la <https://www.chillingeffects.org>).
+Please be advised that any DMCA Notices sent to Mozilla may be sent to third parties (including the accused) and posted on the Internet (including at <https://www.chillingeffects.org>).
 
 
-### Notificări privind mărcile comerciale
+### Trademark Notices
 
-Dacă sunteți deținător de marcă comercială sau un agent al unui deținător de marcă comercială și considerați că conținutul disponibil prin intermediul unuia dintre site-urile web ale Mozilla încalcă una sau mai multe dintre mărcile dvs. comerciale, informați imediat agentul pentru drepturi de autor al Mozilla prin e-mail, poștă sau fax (&ldquo;Notificare privind mărcile comerciale&rdquo;) și includeți informațiile prezentate mai sus pentru notificările DMCA. Mozilla prelucrează notificările pe care le primește cu privire la încălcări ale mărcilor comerciale printr-un proces foarte similar cu cel al notificării DMCA care este descris mai sus pentru drepturi de autor. Suplimentar față de cerințele notificării DMCA, Mozilla cere ca întreaga notificare referitoare la mărcile comerciale să fie făcută de titularul mărcii comerciale (sau de agentul său), cunoscând prevederile legii care condamnă sperjurul.
+If you are a trademark owner or an agent of a trademark owner and believe that content available by means of one of Mozilla&rsquo;s websites infringes one or more of your trademarks, please immediately notify Mozilla&rsquo;s Copyright Agent by means of emailed, mailed, or faxed notice (&ldquo;Trademark Notice&rdquo;) and include the information described above for DMCA notices. Mozilla handles notices it receives of trademark violations via a process very similar to the DMCA Notice process that is described above for copyrights. In addition to the DMCA Notice requirements, Mozilla requires that the entire Trademark Notice be made by the trademark owner (or her agent) under penalty of perjury.
 
 
 ### Export
 
-O parte din conținutul pe care îl puteți descărca prin Firefox Marketplace poate prezenta restricții legale privind exportul său. Sunteți de acord să respectați toate legile aplicabile în materie de control al exportului și reexportului și confirmați că nu aveți interdicție să primiți exporturi și servicii în temeiul legislației americane sau al altor legi privind exporturile.
+Some of the content you may download through the Firefox Marketplace may have legal restrictions on its export. You agree to comply with all applicable export and re-export control laws and regulations and you confirm that you are not prohibited from receiving exports and services under US or other export laws.
 
 
-### Garanție generală
+### General Representation and Warranty
 
-Garantați că utilizarea de către dvs. a Firefox Marketplace va fi în conformitate cu acești Termeni, cu legislația și normele în vigoare și cu orice altă politică sau termeni și condiții aplicabile. De exemplu, dacă decideți să deveniți chiar dvs. Dezvoltator, trebuie să acceptați [Acordul pentru dezvoltatori](https://marketplace.firefox.com/developers/docs/policies/agreement).
-
-
-### Exonerare și despăgubire
-
-Exonerați Mozilla, funcționarii, angajații, agenții și succesorii săi de orice pretenții, cereri și daune de orice natură rezultate din sau în legătură cu orice dispută cu alți utilizatori, inclusiv dezvoltatori.
-
-Sunteți de acord să protejați, să despăgubiți și să exonerați de orice răspundere Mozilla, contractanții, contributorii, licențiatorii, partenerii, directorii, funcționarii, angajații și agenții acesteia față de pretențiile și cheltuielile de orice natură din partea oricăror terți, inclusiv onorariile avocaților, care decurg din sau au legătură cu utilizarea de către dvs. a Firefox Marketplace și a conținutului Marketplace, incluzând, dar fără limitare la încălcarea de către dvs. a oricărei garanții cuprinse în acești Termeni.
+You represent and warrant that your use of the Firefox Marketplace will be in accordance with these Terms, with any applicable laws and regulations, and with any other applicable policy or terms and conditions. For example, if you decide to become a Developer yourself, you must agree to the [Developer Agreement](https://marketplace.firefox.com/developers/docs/policies/agreement).
 
 
-### Termen; Reziliere
+### Release and Indemnification
 
-    Acești termeni se vor aplica până la rezilierea de către dvs. sau Mozilla.
+You release Mozilla, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other users, including Developers.
 
-Puteți rezilia oricând, din orice motiv, acordul dvs. juridic cu Mozilla privind Firefox Marketplace prin dezactivarea conturilor dvs. și încetarea utilizării de către dvs. a Firefox Marketplace. Nu trebuie să informați în mod specific Mozilla atunci când încetați utilizarea Firefox Marketplace. Dacă încetați utilizarea Firefox Marketplace fără să vă dezactivați conturile, acestea vor fi dezactivate ca urmare a inactivității prelungite.
-
-Putem suspenda sau restricționa conturile dvs. sau putem întrerupe furnizarea Firefox Marketplace, în tot sau în parte, în orice moment și din orice motiv, inclusiv, dar fără a ne limita la acestea, dacă suntem convinși că: (i) ați încălcat acești Termeni, (ii) generați un risc sau o posibilă expunere juridică pentru noi; sau (iii) furnizarea Firefox Marketplace către dvs. nu mai este viabilă din punct de vedere comercial. Vom depune eforturi rezonabile să vă informăm prin adresa de e-mail asociată contului dvs. sau la următoarea dvs. încercare de accesare a contului dvs.
-
-În toate aceste cazuri, Termenii vor înceta, inclusiv, dar fără limitare la aceasta, licența dvs. de a utiliza Firefox Marketplace, cu excepția faptului că secțiunile următoare continuă să se aplice: Exonerare și despăgubire, Declinarea responsabilității; Limitarea răspunderii, Legea aplicabilă, Diverse.
-
-În plus, Mozilla poate înceta (permanent sau temporar) furnizarea Firefox Marketplace (sau a oricăreia dintre funcționalitățile sale) către dvs. sau către utilizatori în general, și este posibil să nu vă poată pune la dispoziție o notificare prealabilă.
+You agree to defend, indemnify and hold harmless Mozilla, its contractors and its licensors, and their respective directors, officers, employees and agents from and against any and all third party claims and expenses, including attorneys&rsquo; fees, arising out of your use of the Firefox Marketplace and Marketplace Content, including but not limited to out of your violation of any representation or warranty contained in these Terms.
 
 
-### Declinarea responsabilității; Limitarea răspunderii
+### Term; Termination
 
-Pentru clarificare, așa cum este utilizat în prezentul, &ldquo;Conținutul&rdquo; include, fără limitare la acesta, &ldquo;conținutul Marketplace&rdquo;.
+The Terms will continue to apply until terminated by either you or Mozilla.
 
-CU EXCEPȚIA CAZULUI ÎN CARE SE PREVEDE CONTRARIUL, INCLUSIV, DAR FĂRĂ LIMITARE LA ACEASTA, ÎNTR-O LICENȚĂ SAU ALT ACORD CARE REGLEMENTEAZĂ UTILIZAREA DE CONȚINUT SPECIFIC, ÎNTREGUL CONȚINUT AFLAT PE SAU DISPONIBIL DE LA Firefox Marketplace SE FURNIZEAZĂ &quot;CA ATARE,&quot; IAR MOZILLA, CONTRACTORII ȘI LICENȚIATORII SĂI NU OFERĂ GARANȚII, EXPRESE SAU IMPLICITE, INCLUSIV, DAR FĂRĂ LIMITARE LA ACESTEA, GARANȚII PRIVIND VANDABILITATEA, ADECVAREA PENTRU UN ANUMIT SCOP, TITLUL SAU NEÎNCĂLCAREA DREPTURILOR DE PROPRIETATE. FĂRĂ A LIMITA PREVEDEREA ANTERIOARĂ, MOZILLA, CONTRACTANȚII ȘI LICENȚIATORII SĂI NU FAC NICIO REPREZENTARE SAU GARANȚIE CONFORM CĂREIA CONȚINUTUL AFLAT PE Firefox Marketplace NU CONȚINE ERORI SAU ESTE ADECVAT ORICĂRUI SCOP, ȘI NICI CĂ UTILIZAREA CONȚINUTULUI RESPECTIV NU VA ÎNCĂLCA DREPTURILE DE AUTOR, MĂRCILE COMERCIALE SAU ALTE DREPTURI DE PROPRIETATE INTELECTUALĂ APARȚINÂND UNOR TERȚI. ÎNȚELEGEȚI ȘI SUNTEȚI DE ACORD CĂ DESCĂRCAȚI SAU OBȚINEȚI ÎN ALT MOD CONȚINUT PRIN SITE-URILE WEB ALE MOZILLA, LA PROPRIA DVS. ALEGERE ȘI PE PROPRIUL DVS. RISC, ȘI CĂ MOZILLA, CONTRACTANȚII ȘI LICENȚIATORII SĂI NU VOR FI RĂSPUNZĂTORI PENTRU NICIO DAUNĂ SUFERITĂ DE SISTEMUL DVS.  INFORMATIC SAU DATELE DVS. CA URMARE A DESCĂRCĂRII SAU UTILIZĂRII RESPECTIVULUI CONȚINUT.
+You may end your legal agreement with Mozilla regarding the Firefox Marketplace at any time for any reason by deactivating your accounts and discontinuing your use of the Firefox Marketplace. You do not need to specifically inform Mozilla when you stop using the Firefox Marketplace. If you stop using the Firefox Marketplace without deactivating your accounts, your accounts may be deactivated due to prolonged inactivity.
 
-CU EXCEPȚIA CAZULUI ÎN CARE SE PREVEDE CONTRARIUL, INCLUSIV, DAR FĂRĂ LIMITARE LA ACEASTA, ÎNTR-O LICENȚĂ SAU ALT ACORD CARE REGLEMENTEAZĂ UTILIZAREA DE CONȚINUT SPECIFIC, MOZILLA, CONTRACTANȚII SAU LICENȚIATORII SĂI NU VOR FI TRAȘI LA RĂSPUNDERE ÎN NICIUN CAZ PENTRU DAUNE DIRECTE, INDIRECTE, SPECIALE, CONSECUTIVE SAU EXEMPLARE, INDIFERENT DE TEMEIUL SAU NATURA PRETENȚIEI, CE DECURG DIN UTILIZAREA Firefox Marketplace SAU A CONȚINUTURILOR ACESTUIA SAU A ORICĂRUI SITE WEB CARE CONȚINE HYPERLINKURI, INCLUSIV, DAR FĂRĂ LIMITARE LA ACESTEA, PROFITUL NEREALIZAT, ÎNTRERUPEREA LUCRULUI, PIERDEREA DE DATE ETC., CHIAR DACĂ MOZILLA, CONTRACTANȚII SAU LICENȚIATORII SĂI AU FOST INFORMAȚI ÎN MOD EXPRES DE POSIBILITATEA ACESTOR DAUNE.
+We may suspend or terminate your accounts or cease providing you with all or part of the Firefox Marketplace at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Firefox Marketplace to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account.
 
-ÎN ANUMITE JURISDICȚII NU ESTE PERMISĂ EXCLUDEREA GARANȚIILOR IMPLICITE SAU EXCLUDEREA LIMITĂRII RĂSPUNDERII PENTRU ANUMITE DAUNE ACCESORII SAU CONSECUTIVE, ASTFEL ÎNCÂT ESTE POSIBIL CA UNELE DINTRE LIMITĂRILE DE MAI SUS SĂ NU SE APLICE ÎN CAZUL DVS.
+In all such cases, the Terms shall terminate, including, without limitation, your license to use the Firefox Marketplace, except that the following sections shall continue to apply: Release and Indemnification, Disclaimer; Limitation of Liability, Governing Law, Miscellaneous.
 
-
-### Legea aplicabilă
-
-Acești termeni vor fi reglementați de legislația statului California, indiferent de conflictele dintre principiile de drept. Prevederile Convenției ONU cu privire la schimburile internaționale de mărfuri și cele ale UCITA (Legea americană privind uniformizarea tranzacțiilor informatice), indiferent care sunt acestea, sunt excluse și nu se aplică prezentului acord sau tranzacțiilor efectuate în baza acestuia. Sunteți de acord să apelați la competența personală și exclusivă a instanțelor statale și federale aflate în comitatul Santa Clara, California, pentru soluționarea oricăror conflicte sau dispute.
+In addition, Mozilla may stop (permanently or temporarily) providing the Firefox Marketplace (or any of its features) to you or to users generally and may not be able to provide you with prior notice.
 
 
-### Diverse
+### Disclaimer; Limitation of Liability
 
-Nu aveți voie să cedați drepturile dvs. sau delega obligațiile ce vă revin în temeiul acestor Termeni. Acești Termeni nu conferă niciun beneficiu și niciun drept pentru terți. Acești Termeni vor fi guvernați și interpretați în conformitate cu legislația statului California, indiferent de conflictele dintre principiile de drept. Relația noastră este aceea de contractanți independenți: acești Termeni nu vor fi interpretați ca dând naștere unei întreprinderi comune sau unui parteneriat între părți. Niciuna dintre părți nu va fi considerată ca fiind angajat, agent, partener sau reprezentant legal al celeilalte părți, indiferent de scop, și niciuna dintre acestea nu va avea dreptul, puterea sau autoritatea de a crea obligații sau responsabilități în numele celeilalte. Acești Termeni constituie întregul acord dintre părți în ceea ce privește obiectul prezentului acord. Acești Termeni înlocuiesc și reglementează orice alte acorduri anterioare sau colaterale cu privire la obiectul prezentului acord. Dacă, indiferent de motiv, vreuna dintre dispozițiile acestor Termeni este considerată sau declarată nulă sau inaplicabilă, nulitatea acestora nu va afecta aplicabilitatea celorlalte dispoziții ale acestor Termeni, iar dispozițiile nule sau inaplicabile vor fi înlocuite cu o dispoziție acceptabilă pentru ambele părți, care, fiind validă, legală și aplicabilă, se aproprie cel mai mult de intențiile inițiale ale părților și are efect economic similar. Nesolicitarea în vreun moment de către vreuna dintre părți a punerii în aplicare a vreuneia dintre dispozițiile prezentului acord nu va afecta în niciun fel dreptul de punere în aplicare a acesteia ulterior. Nicio renunțare a vreuneia dintre părți la invocarea încălcării vreunui termen sau pact cuprins în acești Termeni, fie prin comportament sau în alt mod, o dată sau de mai multe ori, nu va fi considerată sau interpretată ca fiind o nouă renunțare sau o renunțare permanentă la invocarea oricărei astfel de încălcări sau o renunțare la invocarea încălcării oricărui alt termen sau pact cuprins în acești termeni.
+For clarity, as used herein, &ldquo;Content&rdquo; includes, without limitation, &ldquo;Marketplace Content&rdquo;.
+
+EXCEPT AS OTHERWISE EXPRESSLY STATED, INCLUDING BUT NOT LIMITED TO IN A LICENSE OR OTHER AGREEMENT GOVERNING THE USE OF SPECIFIC CONTENT, ALL CONTENT LOCATED AT OR AVAILABLE FROM THE Firefox Marketplace IS PROVIDED &quot;AS IS,&quot; AND MOZILLA, ITS CONTRACTORS AND ITS LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT OF PROPRIETARY RIGHTS. WITHOUT LIMITING THE FOREGOING, MOZILLA, ITS CONTRACTORS AND ITS LICENSORS MAKE NO REPRESENTATION OR WARRANTY THAT CONTENT LOCATED ON THE Firefox Marketplace IS FREE FROM ERROR OR SUITABLE FOR ANY PURPOSE; NOR THAT THE USE OF SUCH CONTENT WILL NOT INFRINGE ANY THIRD PARTY COPYRIGHTS, TRADEMARKS OR OTHER INTELLECTUAL PROPERTY RIGHTS. YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN CONTENT THROUGH MOZILLA&#39;S WEBSITES AT YOUR OWN DISCRETION AND RISK, AND THAT MOZILLA, ITS CONTRACTORS AND ITS LICENSORS WILL HAVE NO LIABILITY OR RESPONSIBILITY FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF SUCH CONTENT.
+
+EXCEPT AS OTHERWISE EXPRESSLY STATED, INCLUDING BUT NOT LIMITED TO IN A LICENSE OR OTHER AGREEMENT GOVERNING THE USE OF SPECIFIC CONTENT, IN NO EVENT WILL MOZILLA, ITS CONTRACTORS OR ITS LICENSORS BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, REGARDLESS OF THE BASIS OR NATURE OF THE CLAIM, RESULTING FROM ANY USE OF THE Firefox Marketplace, OR THE CONTENTS THEREOF OR OF ANY HYPERLINKED WEB SITE, INCLUDING WITHOUT LIMITATION ANY LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA OR OTHERWISE, EVEN IF MOZILLA, ITS CONTRACTORS OR ITS LICENSORS WERE EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+SOME JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CERTAIN INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+
+### Governing Law
+
+These Terms shall be governed by the laws of the State of California without regard to conflict of law principles. The provisions of the United Nations Convention on the International Sale of Goods and the Uniform Computer Information Transactions Act, however designated, are excluded and shall not apply to this Agreement or any transactions hereunder. You agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within Santa Clara County, California for the purpose of litigating any claims or disputes.
+
+
+### Miscellaneous
+
+You may not assign your rights or delegate its obligations under these Terms. These Terms are not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party. These Terms will be governed and construed in accordance with the laws of California, without regard to conflict of law principles. Our relationship is that of independent contractors: these Terms shall not be construed to create a joint venture or partnership between the parties. Neither party shall be deemed to be an employee, agent, partner or legal representative of the other for any purpose and neither shall have any right, power or authority to create any obligation or responsibility on behalf of the other. These Terms constitute the entire agreement between the parties with respect to the subject matter hereof. These Terms supersede, and govern, any other prior or collateral agreements with respect to the subject matter hereof. If any provision of these Terms are held or made invalid or unenforceable for any reason, such invalidity shall not affect the remainder of these Terms, and the invalid or unenforceable provisions shall be replaced by a mutually acceptable provision, which being valid, legal and enforceable comes closest to the original intentions of the parties hereto and has like economic effect. The failure of either party at any time or times to require performance of any provision hereof shall in no manner affect the right at a later time to enforce the same. No waiver by either party of the breach of any term or covenant contained in these Terms, whether by conduct or otherwise, in any one or more instances, shall be deemed to be, or construed as, a further or continuing waiver of any such breach or a waiver of the breach of any other term or covenant contained in these Terms.

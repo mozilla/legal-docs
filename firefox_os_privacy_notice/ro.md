@@ -1,26 +1,25 @@
-# Notă cu privire la politica de confidențialitate Firefox OS
+# Firefox OS Privacy Notice
 
-8 mai 2013
-{: datetime="2013-05-08" }
+August  26, 2015
+{: datetime="2015-08-26" }
 
-Companiei Mozilla îi pasă de confidențialitatea dvs. Atunci când Firefox OS ne transmite informații, [politica noastră de confidențialitate Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
+Mozilla cares about your Privacy. When Firefox OS sends information to us, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
-## Iată câteva lucruri pe care ar trebui să le știți
+## Things you should know
 
-Firefox OS se conectează la noi și la alții pentru a furniza funcționalitățile produsului.
+Firefox OS connects to us and others in order to provide product features.
 {: #location-services }
 
-* Actualizări: Pentru a se menține actualizat, Firefox OS se conectează în mod automat la un serviciu operat de producătorul sau în numele producătorului dispozitivului dvs. De asemenea, Firefox OS caută în mod automat actualizările pentru aplicațiile instalate transmițând o cerere la Firefox Marketplace sau, dacă ați instalat o aplicație dintr-o altă locație, la serviciile dezvoltatorului aplicației respective.
-* Locație: Atunci când activați serviciile de locație, Firefox OS poate utiliza mai multe puncte de date și entități pentru a estima locația dvs., inclusiv GPS, AGPS sau alți furnizori de servicii de geolocație. Puteți dezactiva serviciile de locație din aplicația „Setări” a Firefox OS de pe dispozitivul dvs.
-* Activare inițială: La activarea inițială a dispozitivului dvs. Firefox OS, Firefox OS trimite către Mozilla un ping de date unic (de ex., date privind informații specifice despre dispozitiv precum versiunea de lansare a software-ului, ID-ul partener, țara și dimensiunea ecranului) care ajută Mozilla să stabilească dacă sunt necesare actualizări de securitate și reparații critice pentru utilizatorii și partenerii noștri, să stabilească cerințe pentru dezvoltatorii de aplicații, în așa fel încât aceștia să poată construi aplicații mai bune pentru utilizatorii noștri, și ajută Mozilla cu analize de piață (de ex., determinarea numărului de dispozitive care au fost activate). [Află mai multe](https://wiki.mozilla.org/Firefox_OS/Metrics/activationping)
-* Utilizarea de aplicații: Pentru a îmbunătăți găsirea de conținut pe Firefox Marketplace, Firefox OS transmite către Mozilla „Informații privind utilizarea de aplicații” (de ex., timpul de utilizare activă, numărul de deschideri/închideri/erori fatale, lista cu aplicații neinstalate pe dispozitivele Firefox OS). Puteți dezactiva partajarea informațiilor privind utilizarea de aplicații în aplicația „Setări” a Firefox OS de pe dispozitivul dvs. [Află mai multe](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
-* Informații despre furnizorii de motoare de căutare: Pentru a îmbunătăți căutarea pe dispozitivele Firefox OS, Firefox OS trimite către Mozilla informații despre motoarele de căutare care  au returnat rezultate pe dispozitiv. Puteți dezactiva partajarea infomațiilor privind rezultatele căutării cu motoare de căutare din aplicația „Setări” a Firefox OS de pe dispozitivul dvs. [Află mai multe](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
+* Updates: To keep itself up to date, Firefox OS automatically connects to a service operated by or on behalf of the manufacturer of your device. Firefox OS also automatically checks for updates to installed apps by sending a request to the Firefox Marketplace or, if you installed an app from another location, that app’s developer’s services.
+* Location: When you turn location services on, Firefox OS may use multiple data points and entities to estimate your location, including GPS, AGPS and other geolocation service providers. You can disable location services in the Firefox OS “Settings” app on your device. [Learn more about AGPS Service Provider Terms](https://wiki.mozilla.org/Firefox_OS/AGPS_service_provider_terms).
+* Initial Activation: Upon initial activation of your Firefox OS device, Firefox OS sends to Mozilla a one-time data ping (e.g., data relating to device specific information such as software release version, partner ID, country and screen size) which helps Mozilla determine if security updates and critical fixes are needed for our users and partners, determine requirements for app developers so they can build better apps for our users, and helps Mozilla with market analysis (e.g., determine how many devices have been activated). [Learn more](https://wiki.mozilla.org/Firefox_OS/Metrics/activationping)
+* App Usage: In order to improve content discovery on Firefox Marketplace, Firefox OS sends "Application Usage Information" (e.g., active use time, counts of opens/closes/crashes, list of uninstalled apps on Firefox OS devices) to Mozilla. You can disable the sharing of App Usage Information in the Firefox OS “Settings” app on your device. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
+* Search Engine Provider Information: In order to improve search on Firefox OS devices, Firefox OS sends information to Mozilla about which search engine provided search results to the device. You can disable the sharing of search engine search result information in the Firefox OS “Settings” app on your device. [Learn more](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
 
 ---------------------------------------
 
-Precum majoritatea dispozitivelor mobile, dispozitivul pe care-l utilizați este creat prin contribuția mai multor părți. Această notificare abordează doar modul în care Mozilla tratează informațiile dvs. pentru versiunile oficiale de Firefox OS autorizate de Mozilla.
+The device you are using, like most mobile devices, is created by several parties. This notice only covers how Mozilla handles your information for official versions of Firefox OS authorized by Mozilla.
 {: #external-parties }
 
-* Dacă utilizați aplicații create de alte companii decât Mozilla, se vor aplica politicile de confidențialitate ale acestora.
-* Funcția de căutare dinamică de aplicații a Firefox OS este susținută de Everything.me și se aplică politica de confidențialitate a acesteia, pe care o puteți găsi la <http://everything.me/privacy/firefox-os>.
-* Firefox OS vă permite să folosiți mai multe servicii terțe integrate, precum furnizorul dvs. de e-mail sau rețea socială. Pentru utilizarea de către dvs. a acestor servicii se va aplica politica de confidențialitate a acestora.
+* If you use apps made by someone other than Mozilla, their privacy policies will apply.
+* Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.

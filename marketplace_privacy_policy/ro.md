@@ -1,17 +1,17 @@
-### Politica de confidențialitate a Firefox Marketplace
-14 ianuarie 2015
+### Firefox Marketplace Privacy Notice
+January 14, 2015
 
-Ne pasă de confidențialitatea dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs. de pe Firefox Maketplace, [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
+We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
-<u>Iată câteva lucruri pe care ar trebui să le știți:</u>
+<u>Things you should know</u>
 
-- Majoritatea aplicațiilor de pe Firefox Marketplace nu sunt create de noi și ar trebui să consultați politicile de confidențialitate ale acestora înainte de le utiliza.
-- Plățile sunt procesate de alții (nu de Mozilla), astfel că ar trebui să consultați politica de confidențialitate a respectivului furnizor de servicii de plată pentru a-i înțelege practicile.
-  - Mozilla nu colectează, reține sau utilizează informații de natură financiară (precum informațiile de pe cardul de credit pe care l-ați utilizat pentru a efectua achiziții de pe Firefox Marketplace).
-- Firefox Marketplace folosește cookie-uri și alte tehnologii web pentru furnizarea funcționalității sale (precum reținerea informațiilor dvs. între sesiuni) și pentru a ne ajuta să înțelegem modul în care utilizatorii folosesc serviciul prin statistici agregate.
-- Marketplace poate utiliza date privind operatorul dvs. și locația dvs. pentru a personaliza experiența dvs.
-  - Pe dispozitivele Firefox OS folosim informații de rețea din dispozitivul dvs. pentru a vă afla locația și rețeaua operatorului, pentru vă personaliza experiența și pentru a vă oferi conținut de operator special.
-  - Utilizăm adresa dvs. IP pe toate platformele pentru a stabili locația dvs. și pentru a personaliza experiența dvs.
-- Nu trebuie să vă autentificați pentru a instala o aplicație gratuită, însă aplicațiile cu plată necesită autentificare. De asemenea, vă ajutăm să mențineți un istoric al activității dvs. tranzacționale (de ex., ce aplicații ați achiziționat).
-- Pentru utilizatorii autentificați, Firefox Marketplace folosește limba dvs., țara și aplicațiile instalate pentru a vă recomanda aplicații suplimentare care v-ar putea interesa.  Această funcționalitate poate fi dezactivată din setările contului.  [Află mai multe](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
-- Puteți opta să primiți e-mailuri de la noi și vă puteți dezabona de la orice comunicate de marketing prin e-mail pe care ați optat să le primiți.
+- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
+- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
+  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
+- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
+- The Marketplace may use your carrier and location data to customize your experience.
+  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
+  - On all platforms, we may use your IP address to determine your country location to customize your experience.
+- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
+- For logged-in users, Firefox Marketplace uses your language, country, and installed apps to recommend additional apps that may be of interest.  This can be disabled in Account Settings.  [Learn More](https://support.mozilla.org/en-US/kb/recommendations-marketplace).
+- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
