@@ -2,7 +2,7 @@ Ultima actualizare 29 august 2014
 
 #### Rezumat
 
-Această secțiune rezumă termenii de mai jos.. Acest rezumat are rolul de a vă ajuta să înțelegeți termenii, însă citiți documentul în întregime, deoarece, atunci când sunteți de acord cu acesta, indicați faptul că acceptați toți termenii, nu doar acest rezumat.
+Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă ajuta să înțelegeți termenii, însă citiți documentul în întregime, deoarece, atunci când sunteți de acord cu acesta, indicați faptul că acceptați toți termenii, nu doar acest rezumat.
 
 - Serviciile cloud Firefox („Serviciile”) sunt o suită de servicii oferite dvs. de Mozilla.
 - Serviciile sunt furnizate „ca atare” și nu se oferă niciun fel de garanții. Există limite semnificative privind răspunderea Mozilla pentru orice prejudicii rezultate ca urmare a folosirii Serviciilor de către dvs.
@@ -15,15 +15,15 @@ Această secțiune rezumă termenii de mai jos.. Acest rezumat are rolul de a v�
 
 2. #### Conturi Firefox
 
-    Pentru a folosi Serviciile, trebuie să creați un cont Firefox.  În timpul înregistrării vi se va cere să setați o parolă. Sunteți responsabil(ă) pentru păstrarea confidențialității parolei dvs. și pentru activitatea desfășurată prin contul dvs. Firefox. Mozilla nu își asumă răspunderea pentru pierderile cauzate de folosirea neautorizată a contului dvs. Firefox.
+    Pentru a folosi Serviciile, va trebui să creați un cont Firefox. În timpul înregistrării vi se va cere să setați o parolă. Sunteți responsabil(ă) pentru păstrarea confidențialității parolei dvs. și pentru activitatea desfășurată prin contul dvs. Firefox. Mozilla nu își asumă răspunderea pentru pierderile cauzate de folosirea neautorizată a contului dvs. Firefox.
 
 3. #### Funcții
 
-    Funcția de Sincronizare a Firefox vă permite accesul la informațiile stocate în Firefox prin intermediul dispozitivelor, inclusiv la filele, bara inteligentă, parolele, semnele de carte și preferințele de browser ale dvs. Puteți activa și dezactiva Sincronizarea Firefox din secțiunea Unelte a Firefox.
+    Funcția de Sincronizare a Firefox vă permite accesul la informațiile stocate în Firefox prin intermediul dispozitivelor, inclusiv la filele, bara inteligentă, parolele, semnele de carte și preferințele de browser ale dvs. Puteți activa și dezactiva Sincronizare Firefox din secțiunea Unelte a Firefox.
     
-    Găsește-mi dispozitivul vă permite să localizați de la distanță și să controlați anumite funcții ale unui dispozitiv Firefox OS precum vizualizarea locațiilor recente, ștergerea conținutului local, activarea tonului de apel sau a ecranului de blocare sau afișarea unui mesaj. Pentru a folosi aceste funcții, trebuie să activați Găsește-mi dispozitivul din setările dispozitivului dvs.  Găsește-mi dispozitivul va funcționa chiar dacă setările de sunet și locație ale dispozitivului dvs. sunt dezactivate. Puteți dezactiva această funcție din setările dispozitivului dvs.
+    Găsește-mi dispozitivul vă permite să localizați de la distanță și să controlați anumite funcții ale unui dispozitiv Firefox OS precum vizualizarea locațiilor recente, ștergerea conținutului local, activarea tonului de apel sau a ecranului de blocare sau afișarea unui mesaj. Pentru a folosi aceste funcții, trebuie să activați Găsește-mi dispozitivul din setările dispozitivului dvs. Găsește-mi dispozitivul va funcționa chiar dacă setările de sunet și locație ale dispozitivului dvs. sunt dezactivate. Puteți dezactiva această funcție din setările dispozitivului dvs.
     
-    Dacă dispozitivul dvs. este rătăcit, vă puteți conecta la https://find.firefox.com folosind acreditările contului dvs. de Firefox pentru a localiza și controla de la distanță dispozitivul dvs. Ni se va raporta locația aproximativă a dispozitivului dvs. atunci când dispozitivul va fi pornit sau conectat la internet.  După caz, sunteți responsabil(ă) pentru orice costuri asociate transmisiei de date. În cazul în care considerați că dispozitivul a fost furat, trebuie să contactați organele de ordine. Fiți atent(ă) atunci când partajați informații, întrucât mesajele afișate pe dispozitivul dvs. sunt accesibile publicului.
+    Dacă dispozitivul dvs. este rătăcit, vă puteți autentifica la https://find.firefox.com folosind acreditările contului dvs. Firefox pentru a localiza și controla de la distanță dispozitivul dvs. Ni se va raporta locația aproximativă a dispozitivului dvs. atunci când dispozitivul va fi pornit sau conectat la internet.  După caz, sunteți responsabil(ă) pentru orice costuri asociate transmisiei de date. În cazul în care considerați că dispozitivul a fost furat, trebuie să contactați organele de ordine. Fiți atent(ă) atunci când partajați informații, întrucât mesajele afișate pe dispozitivul dvs. sunt accesibile publicului.
 
 4. #### Politica de confidențialitate
 
