@@ -15,8 +15,8 @@ Ne trimiteți diferite tipuri de date în funcție de funcțiile Serviciilor pe 
 
 ---------------------------------------
 
-Folosim cookie-uri și „clean GIF” și alte tehnologii pentru a oferi și îmbunătăți produsele și serviciile noastre.
+Folosim cookie-uri, „clear GIF”-uri și alte tehnologii pentru a oferi și îmbunătăți produsele și serviciile noastre.
 
-* **Instrumente de date online**: Folosim „instrumente de date online” precum cookie-uri, „clean GIFs” și „web beacons” pentru a asigura funcționalitatea produselor și serviciilor noastre. De exemplu, cookie-urile ajută la autentificarea utilizatorului. Folosim aceste instrumente, de asemenea, pentru a colecta date în vederea îmbunătățirii produselor și serviciilor noastre. De exemplu, folosim cookie-uri pentru a furniza date analitice pentru web.
+* **Instrumente de date online**: Folosim „instrumente de date online” precum cookie-uri, „clear GIF”-uri și „web beacons” pentru a asigura funcționalitatea produselor și serviciilor noastre. De exemplu, cookie-urile ajută la autentificarea utilizatorului. Folosim aceste instrumente, de asemenea, pentru a colecta date în vederea îmbunătățirii produselor și serviciilor noastre. De exemplu, folosim cookie-uri pentru a furniza date analitice pentru web.
 
 * **Opțiuni**: Puteți gestiona cookie-urile în Firefox și afla mai multe despre ele printr-un clic [aici](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer). Rețineți că anumite funcții ale produselor și serviciilor noastre, precum și ale altor produse și servicii, nu pot funcționa corect fără ajutorul cookie-urilor.
