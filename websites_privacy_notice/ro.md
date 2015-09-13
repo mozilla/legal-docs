@@ -1,65 +1,65 @@
-# Websites, Communications & Cookies Privacy Notice
+# Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
-June 1, 2015
+1 iunie 2015
 {: datetime="2015-06-01" }
 
-We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
-This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, openbadges.org and webmaker.org, among others. This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
+Această politică de confidențialitate se aplică site-urilor web și aplicațiilor mobile operate de Mozilla, care includ, printre altele, domeniile mozillians.org, mozilla.org, firefox.com, openbadges.org și webmaker.org. Aceasta include, de exemplu, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org și wiki.mozilla.org.
 
-## Things you should know
+## Iată câteva lucruri pe care ar trebui să le știți
 
-We may receive personal information from you based on your interaction with us on social media platforms; if you submit a job, intern or fellow application; if you volunteer as a Mozilla community member; if you submit user feedback or a request to us; if you sign-up for an account; or if you engage with a product or policy campaign. 
+S-ar putea să primim date personale de la dvs. în urma interacțiunii cu dvs. pe platforme de socializare; dacă depuneți o cerere pentru angajare, stagiu intern sau bursă; dacă sunteți voluntar în calitate de membru al comunității Mozilla; dacă remiteți un feedback de utilizator sau o cerere către noi; dacă vă înregistrați pentru un cont; sau dacă vă implicați într-o campanie de promovare a unui produs sau a unei politici. 
 {: #personal-info }
 
-* **Social Media**: If you engage with our social media accounts, such as Twitter and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
+* **Rețea socială**: Dacă vă implicați pe conturile noastre de socializare precum Twitter și Facebook, este posibil să primim date personale despre dvs. Dacă utilizați aceste rețele, se aplică politicile lor de confidențialitate și sunteți încurajat(ă) să le citiți.
 
-* **Job, Intern & Fellow Applicants**: Applicants for employment, internship or fellowship opportunities with Mozilla are required to give us a name, street address, telephone number, email address, and resume. We use this information to process and evaluate applications and to communicate with applicants about opportunities. We use a third party vendor to assist us with employment applications. For more information on our data practices with third party vendors, see our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+* **Candidați pentru locuri de muncă, stagii interne și burse**: Candidații pentru locuri de muncă, stagii interne și burse oferite de Mozilla trebuie să specifice un nume, o adresă, un număr de telefon, o adresă de e-mail și un curriculum vitae. Folosim aceste informații pentru a procesa și evalua candidaturi și pentru a le comunica candidaților oportunități. Recurgem la un furnizor terț care ne ajută cu cererile de angajare. Pentru informații suplimentare privind practicile noastre legate de date în raport cu furnizorii terți, consultați [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/).
 
-* **Contributors**: Volunteering for Mozilla as a community contributor may require Mozilla and others to communicate with you at the email address that you provide in connection to your contribution and to recognize your efforts. If you contribute to Bugzilla, Mozilla Reps, or our code base, then your email address and possibly your name will be publicly available to all internet users. If you create a profile at Mozillians.org, it will be accessible to Mozilla employees and Mozilla contributors. You can edit your profile data at [Profile Settings](https://mozillians.org/user/edit). We sometimes use contributor information from sources (such as Bugzilla) in dashboards to visually share aggregated data on the Mozilla community. An example is <https://wiki.mozilla.org/Contribute/Dashboards>. If possible, we try to minimize contact information that is publicly displayed.
+* **Contribuitori**: Activitatea de voluntariat în calitate de contribuitor al comunității Mozilla ar putea necesita ca Mozilla și alții să comunice cu dvs. la adresa de e-mail pe care o furnizați în ceea ce privește contribuția dvs. și recunoașterea eforturilor dvs. În cazul în care contribuiți la Bugzilla, Mozilla Reps sau la codul nostru de bază, adresa dvs. de e-mail și probabil numele dvs. vor fi accesibile public tuturor utilizatorilor de internet. În cazul în care creați un profil la Mozillians.org, acesta va fi accesibil angajaților și contribuitorilor Mozilla. Puteți edita datele dvs. de profil din [Setări profil](https://mozillians.org/user/edit). Uneori folosim informații de la contribuitori din surse (precum Bugzilla) în tablouri de bord pentru a partaja vizual date agregate despre comunitatea Mozilla. Un exemplu îl constituie <https://wiki.mozilla.org/Contribute/Dashboards>. Dacă este posibil, vom încerca să reducem la minimum datele de contact afișate public.
 
-* **User Feedback**:  You can provide feedback to us on our products and services on webpages like [input.mozilla.org](https://input.mozilla.org/), through an in-product experience, or through channels such as email, Bugzilla, IRC, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.
+* **Feedback de utilizator**:  Ne puteți furniza feedback cu privire la produsele și serviciile noastre pe pagini web precum [input.mozilla.org](https://input.mozilla.org/) – pe baza unei experiențe de utilizare a produsului – sau prin canale precum e-mail, Bugzilla, IRC, cont de socializare, pagina noastră Get Involved sau printr-un grup precum Students Ambassadors. Vă rugăm să reduceți la minimum cantitatea de date personale pe care optați să le partajați pe aceste forumuri, întrucât comentariile dvs. pot fi accesibile publicului.
 
-* **Accounts**: Some websites, for example Marketplace, AMO, MDN, and Webmaker, require account creation to submit developer content; submit user reviews or comments; or install certain types of apps.  You may periodically receive emails in connection with your account. 
+* **Conturi**: Unele site-uri web, de exemplu, Marketplace, AMO, MDN și Webmaker, necesită crearea unui cont pentru remiterea de conținut de la dezvoltatori; remiterea de evaluări sau comentarii de la utilizatori; sau instalarea anumitor tipuri de aplicații.  S-ar putea să primiți periodic e-mailuri legate de contul dvs. 
 
-* **Product & Policy Campaigns**:  Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.  
+* **Campanii de promovare a unor produse și politici**:  Unele dintre paginile noastre web găzduiesc campanii de promovare a unor produse sau politici. De exemplu, puteți solicita un link prin e-mail sau SMS pentru a instala Firefox pe dispozitivul dvs. mobil sau a transmite legiuitorilor dvs. petiții privind aspecte legate de internet. Folosim terți pentru administrarea acestor campanii și prelucrarea datelor pe care optați să ni le remiteți.  
 {: #campaigns }
 
 ---------------------------------------
 
-We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. 
+Putem folosi cookie-uri, „clear GIF”-uri, date analitice web terțe, informații despre dispozitiv și adrese IP pentru funcționalitate și pentru a înțelege mai bine interacțiunea utilizatorilor cu produsele, serviciile și comunicările noastre. 
 {: #data-tools }
 
-* **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
-    * Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  
-    * IP addresses are used to customize communications by language and country.  
-    * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
+* **Funcționalitate**: S-ar putea să folosim cookie-uri, informații despre dispozitiv și adrese IP pentru a îmbunătăți funcționalitatea anumitor produse, servicii și comunicări. De exemplu:
+  * Cookie-urile se utilizează pentru a reține preferințele dvs. de limbă și suplimente Firefox. De asemenea, ele ne ajută la autentificarea utilizatorilor, în așa fel încât să puteți ocoli introducerea parolei dvs. pe anumite site-uri web Mozilla.  
+  * Adresele IP se folosesc pentru particularizarea comunicărilor după limbă și țară.  
+  * Informațiile despre dispozitiv precum țara, limba, operatorul și OEM, ar putea fi utilizate pentru particularizarea experienței dvs. pe Firefox Marketplace și Webmaker.
 
-* **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
-    * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
-    * Optimizely, which places a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
-    * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+* **Indicatori metrici**: „Clear GIF”-urile, cookie-urile și serviciile terțe ne ajută să înțelegem în ansamblu modul în care utilizatorii abordează produsele, serviciile, comunicările, site-urile web, campaniile online, fragmentele (snippets), dispozitivele și alte platforme ale noastre. Noi folosim:
+    * Google Analytics, care plasează un cookie pe dispozitivul dvs. pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web.      Acesta ne ajută să îmbunătățim conținutul site-urilor.  
+    * Optimizely, care plasează un cookie pe dispozitivul dvs. pentru a ne ajuta să testăm variații ale conținutului web.  Acesta ne ajută să îmbunătățim experiențele web ale utilizatorilor.
+    * Flashtalking, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
 
 ---------------------------------------
 
-You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools. 
+Puteți controla preferințele individuale legate de cookie-uri, le puteți indica altora preferințele dvs. legate de cookie-uri, puteți selecta e-mailuri doar text și puteți refuza statistici web și unelte de optimizare. 
 {: #user-choices }
 
-* **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
+* **Istoricul cookie-urilor**: Puteți accepta sau respinge cookie-uri individuale în preferințele dvs. Firefox din panoul Istoric al secțiunii Unelte/Opțiuni/Confidențialitate. Rețineți că anumite funcții ale produselor și serviciilor noastre s-ar putea să nu funcționeze corect fără ajutorul cookie-urilor.
 {: #cookies }
 
-* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.
+* **Nu mă urmări**: Mozilla nu urmărește utilizatorii pe site-uri web terțe pentru a furniza publicitate direcționată.  În Firefox, puteți activa opțiunea „Nu mă urmări” din secțiunea Unelte/Opțiuni/Confidențialitate, de la Monitorizare. Aceasta vă permite să indicați unui site web terț o preferință privind modul în care să fie colectate și folosite online informațiile dvs.
 
-* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
+* **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/). Puteți dezactiva funcționalitatea „clear GIF”-urilor prin vizualizarea e-mailurilor în format „numai text”.
 
-* **Analytics & Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
-If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can [opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information. Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.  You can opt-out by going to the “Your Choices” section of [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) and selecting “Click here to opt-out”.
+* **Statistici și optimizare**: Dacă nu doriți ca Google Analytics să colecteze date privind vizitele dvs. pe site-urile web Mozilla, puteți instala[suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout). Suplimentul păstrează anonime vizitele și interzice transmiterea de date către Google Analytics.
+Dacă nu doriți ca Optimizely să colecteze date despre vizitele dvs. pe site-urile web Mozilla, puteți [refuza din www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizita [site-ul web de refuzare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Unele pagini Mozilla.org folosesc, de asemenea, „clear GIF”-uri pentru a înțelege eficiența campaniilor noastre publicitare.  Puteți refuza mergând la secțiunea „Your Choices” (Alegerile dvs.) din [politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând „Click here to opt-out” (Clic aici pentru dezabonare).
 
-* **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
+* **Rețea socială**: Butoanele de partajare socială de pe site-urile web Mozilla sunt concepute pentru a nu partaja date cu furnizorii de rețele sociale până când nu se face clic pe buton.
 
 ---------------------------------------
 
-Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. 
+Unele site-uri web Mozilla vă permit să efectuați achiziții (precum aplicații sau accesorii) sau să faceți o donație. Aceste tranzacții sunt procesate de terți, nu de Mozilla. 
 {: #donations }
 
-* **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.  For more information on our data practices with third party vendors, see our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+* **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.  Pentru mai multe informații privind practicile noastre legate de date în raport cu furnizorii terți, consultați [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/).
