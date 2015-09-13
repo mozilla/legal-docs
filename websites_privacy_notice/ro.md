@@ -3,7 +3,7 @@
 1 iunie 2015
 {: datetime="2015-06-01" }
 
-Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care tratăm aceste informații.
+Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
 Această politică de confidențialitate se aplică site-urilor web și aplicațiilor mobile operate de Mozilla, care includ, printre altele, domeniile mozillians.org, mozilla.org, firefox.com, openbadges.org și webmaker.org. Aceasta include, de exemplu, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org și wiki.mozilla.org.
 
@@ -38,14 +38,14 @@ Putem folosi cookie-uri, clear GIF-uri, statistici web terțe, informații despr
 * **Indicatori metrici**: Clear GIF-urile, cookie-urile și serviciile terțe ne ajută să înțelegem în ansamblu modul în care utilizatorii abordează produsele, serviciile, comunicările, site-urile web, campaniile online, fragmentele (snippets), dispozitivele și alte platforme ale noastre. Noi folosim:
   * Google Analytics, care plasează un cookie pe dispozitivul dvs. pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web.      Acesta ne ajută să îmbunătățim conținutul site-urilor.  
   * Optimizely, care plasează un cookie pe dispozitivul dvs. pentru a ne ajuta să testăm variații ale conținutului web.  Acesta ne ajută să îmbunătățim experiențele web ale utilizatorilor.
-  * Flashtalking, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare     .
+  * Flashtalking, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
 
 ---------------------------------------
 
 Puteți controla preferințele individuale legate de cookie-uri, le puteți indica altora preferințele dvs. legate de cookie-uri, puteți selecta e-mailuri doar text și puteți refuza statistici web și unelte de optimizare. 
 {: #user-choices }
 
-* **Istoric cookie-uri**: Puteți accepta sau respinge cookie-uri individuale în preferințele dvs. Firefox din panoul Istoric al secțiunii Unelte/Opțiuni/Confidențialitate. Rețineți că anumite funcții ale produselor și serviciilor noastre s-ar putea să nu funcționeze corect fără ajutorul cookie-urilor.
+* **Istoricul cookie-urilor**: Puteți accepta sau respinge cookie-uri individuale în preferințele dvs. Firefox din panoul Istoric al secțiunii Unelte/Opțiuni/Confidențialitate. Rețineți că anumite funcții ale produselor și serviciilor noastre s-ar putea să nu funcționeze corect fără ajutorul cookie-urilor.
 {: #cookies }
 
 * **Nu mă urmări**: Mozilla nu urmărește utilizatorii pe site-uri web terțe pentru a furniza publicitate direcționată.  În Firefox, puteți activa opțiunea Nu mă urmări din secțiunea Unelte/Opțiuni/Confidențialitate, de la Monitorizare. Aceasta vă permite să indicați unui site web terț o preferință privind modul în care să fie colectate și folosite online informațiile dvs.
@@ -53,7 +53,7 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 * **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/). Puteți dezactiva funcționalitatea clear GIF-urilor prin vizualizarea e-mailurilor în format „numai text”.
 
 * **Statistici și optimizare**: Dacă nu doriți ca Google Analytics să colecteze date privind vizitele dvs. pe site-urile web Mozilla, puteți instala[suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout). Suplimentul păstrează anonime vizitele și interzice transmiterea de date către Google Analytics.
-Dacă nu doriți ca Optimizely să colecteze date despre vizitele dvs. pe site-urile web Mozilla, puteți [refuza din www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizita [site-ul web de refuzare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Unele pagini Mozilla.org folosesc, de asemenea, clear GIF-uri pentru a înțelege eficiența campaniilor noastre publicitare.  Puteți refuza mergând la secțiunea „Your Choices” (Alegerile dvs.) din [politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând „Click here to opt-out” (Faceți clic aici pentru dezabonare).
+Dacă nu doriți ca Optimizely să colecteze date despre vizitele dvs. pe site-urile web Mozilla, puteți [refuza din www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizita [site-ul web de refuzare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Unele pagini Mozilla.org folosesc, de asemenea, clear GIF-uri pentru a înțelege eficiența campaniilor noastre publicitare.  Puteți refuza mergând la secțiunea „Your Choices” (Alegerile dvs.) din [politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând „Click here to opt-out” (Clic aici pentru dezabonare).
 
 * **Rețea socială**: Butoanele de partajare socială de pe site-urile web Mozilla sunt concepute pentru a nu partaja date cu furnizorii de rețele sociale până când nu se face clic pe buton.
 
@@ -62,4 +62,4 @@ Dacă nu doriți ca Optimizely să colecteze date despre vizitele dvs. pe site-u
 Unele site-uri web Mozilla vă permit să efectuați achiziții (precum aplicații sau accesorii) sau să faceți o donație. Aceste tranzacții sunt procesate de terți, nu de Mozilla. 
 {: #donations }
 
-* **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.  Pentru informații suplimentare privind practicile noastre legate de date în raport cu furnizorii terți, consultați [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/).
+* **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.  Pentru mai multe informații privind practicile noastre legate de date în raport cu furnizorii terți, consultați [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/).
