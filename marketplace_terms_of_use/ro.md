@@ -1,4 +1,4 @@
-July 3, 2013
+3 iulie 2013
 
 ### Rezumat
 
@@ -13,7 +13,7 @@ Această secțiune superioară reprezintă o sinteză a termenilor de mai jos. E
 
 ### Introducere
 
-La Mozilla, ne angajăm să promovăm alegerea și inovația pe web. Iată de ce am creat Firefox Marketplace – o piață disponibilă publicului, care permite dezvoltatorilor să își distribuie aplicațiile sau suplimentele utilizatorilor pentru a le utiliza pe orice dispozitiv care poate accesa web-ul deschis.
+La Mozilla, ne angajăm să promovăm alegerea și inovația pe web. Iată de ce am creat Firefox Marketplace – o piață disponibilă publicului, care permite dezvoltatorilor să își distribuie aplicațiile sau suplimentele utilizatorilor pentru a le utiliza pe orice dispozitiv care poate accesa webul deschis.
 
 Utilizarea de către dvs. a Firefox Marketplace face obiectul termenilor și condițiilor acestor Termeni de utilizare și al politicilor Firefox Marketplace conexe menționate în acești Termeni sau pe Firefox Marketplace (pe care îi vom denumi în mod colectiv &ldquo;Termeni&rdquo;).
 
@@ -67,13 +67,13 @@ De asemenea, puteți solicita asistență de la operatorul rețelei mobile de pe
 
 ### Confidențialitate
 
-Vi se va solicita să ne furnizați informații despre dvs. (precum date de identificare sau de contact) ca parte a procesului de înregistrare pentru și utilizare de către dvs. a Firefox Marketplace. Vom trata informațiile dvs. în conformitate cu [Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace.
+Vi se va solicita să ne furnizați informații despre dvs. (precum date de identificare sau de contact) ca parte a procesului de înregistrare pentru și utilizare de către dvs. a Firefox Marketplace. Vom prelucra informațiile dvs. în conformitate cu [Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace.
 
 Pentru mai multe detalii, consultați-ne [Politica de confidențialitate](/media/docs/privacy/en-US.html).
 
 [Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace se aplică pentru Firefox Marketplace, însă nu acoperă niciun conținut Marketplace. Ar trebui să consultați politica de confidențialitate a unei părți din conținutul Marketplace pentru a descoperi practicile în materie de confidențialitate privind respectivul conținut Marketplace și pentru a vă familiariza cu ele înainte de a achiziționa, instala sau utiliza respectivul conținut Marketplace.
 
-Dacă sunteți convins că un Dezvoltator nu respectă [Acordul pentru dezvoltatori al Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) sau Termenii de utilizare ai Firefox Marketplace, informați-ne prin link-ul de &ldquo;Raportare abuz&rdquo; pentru conținutul Marketplace relevant și vom analiza cererea dvs. și vom acționa după cum considerăm că este oportun.
+Dacă sunteți convins că un Dezvoltator nu respectă [Acordul pentru dezvoltatori al Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) sau Termenii de utilizare ai Firefox Marketplace, informați-ne prin linkul de &ldquo;Raportare abuz&rdquo; pentru conținutul Marketplace relevant și vom analiza cererea dvs. și vom acționa după cum considerăm că este oportun.
 
 
 ### Remiterile dvs.
@@ -118,7 +118,7 @@ Rețineți faptul că orice notificare DMCA trimisă la Mozilla poate fi trimis�
 
 ### Notificări privind mărcile comerciale
 
-Dacă sunteți deținător de marcă comercială sau un agent al unui deținător de marcă comercială și considerați că conținutul disponibil prin intermediul unuia dintre site-urile web ale Mozilla încalcă una sau mai multe dintre mărcile dvs. comerciale, informați imediat agentul pentru drepturi de autor al Mozilla prin e-mail, poștă sau fax (&ldquo;Notificare privind mărcile comerciale&rdquo;) și includeți informațiile prezentate mai sus pentru notificările DMCA. Mozilla tratează notificările pe care le primește cu privire la încălcări ale mărcilor comerciale printr-un proces foarte similar cu cel al notificării DMCA care este descris mai sus pentru drepturi de autor. Suplimentar față de cerințele notificării DMCA, Mozilla cere ca întreaga notificare referitoare la mărcile comerciale să fie făcută de titularul mărcii comerciale (sau de agentul său), cunoscând prevederile legii care condamnă sperjurul.
+Dacă sunteți deținător de marcă comercială sau un agent al unui deținător de marcă comercială și considerați că conținutul disponibil prin intermediul unuia dintre site-urile web ale Mozilla încalcă una sau mai multe dintre mărcile dvs. comerciale, informați imediat agentul pentru drepturi de autor al Mozilla prin e-mail, poștă sau fax (&ldquo;Notificare privind mărcile comerciale&rdquo;) și includeți informațiile prezentate mai sus pentru notificările DMCA. Mozilla prelucrează notificările pe care le primește cu privire la încălcări ale mărcilor comerciale printr-un proces foarte similar cu cel al notificării DMCA care este descris mai sus pentru drepturi de autor. Suplimentar față de cerințele notificării DMCA, Mozilla cere ca întreaga notificare referitoare la mărcile comerciale să fie făcută de titularul mărcii comerciale (sau de agentul său), cunoscând prevederile legii care condamnă sperjurul.
 
 
 ### Export
