@@ -1,4 +1,4 @@
-# Notă cu privire la politica de confidențialitate Firefox OS
+# Politica de confidențialitate Firefox OS
 
 8 mai 2013
 {: datetime="2013-05-08" }
