@@ -20,7 +20,7 @@ Firefox automatically connects to us and our service providers to provide update
 * Snippets
   {: #snippets }
 
-	Firefox's default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these "snippets". About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla aggregates how often snippets are clicked, snippet name, browser locale, and which version of Firefox you're using.
+	Firefox's default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these "snippets". About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla may collect how often snippets are clicked, snippet name, browser locale, and which version of Firefox you're using. We only retain this information after 60 days in aggregate form.
 
 	To help display relevant snippets, Firefox sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally.  Firefox will then choose snippets to show you based on the locally stored country information.
 	
