@@ -73,7 +73,7 @@ Pentru mai multe detalii, consultați-ne [Politica de confidențialitate](/media
 
 [Politica de confidențialitate](/media/docs/privacy/en-US.html) a Firefox Marketplace se aplică pentru Firefox Marketplace, însă nu acoperă niciun conținut Marketplace. Ar trebui să consultați politica de confidențialitate a unei părți din conținutul Marketplace pentru a descoperi practicile în materie de confidențialitate privind respectivul conținut Marketplace și pentru a vă familiariza cu ele înainte de a achiziționa, instala sau utiliza respectivul conținut Marketplace.
 
-Dacă sunteți convins că un Dezvoltator nu respectă [Acordul pentru dezvoltatori al Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) sau Termenii de utilizare ai Firefox Marketplace, informați-ne prin linkul de &ldquo;Raportare abuz&rdquo; pentru conținutul Marketplace relevant și vom analiza cererea dvs. și vom acționa după cum considerăm că este oportun.
+Dacă sunteți convins că un Dezvoltator nu respectă [Acordul pentru dezvoltatori al Firefox Marketplace](https://marketplace.firefox.com/developers/docs/policies/agreement) sau Termenii de utilizare ai Firefox Marketplace, informați-ne prin linkul de &ldquo;Raportează abuz&rdquo; pentru conținutul Marketplace relevant și vom analiza cererea dvs. și vom acționa după cum considerăm că este oportun.
 
 
 ### Remiterile dvs.
