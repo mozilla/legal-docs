@@ -12,15 +12,15 @@ Această secțiune superioară reprezintă o sinteză a termenilor de mai jos. E
 
 ## Introducere
 
-Compania Mozilla (&ldquo;Mozilla&rdquo;, &ldquo;noi&rdquo;), cu sediul în 331 E. Evelyn Avenue, Mountain View, CA 94041, Statele Unite ale Americii, se angajează să promoveze alegerea și inovația pe web. În acest scop, am creat &ldquo;Firefox Marketplace&rdquo; &ndash; un site web accesibil publicului, care vă permite să distribuiți utilizatorilor conținutul dvs. Marketplace pentru a-l utiliza pe dispozitivele lor.
+Compania Mozilla („Mozilla”, „noi”), cu sediul în 331 E. Evelyn Avenue, Mountain View, CA 94041, Statele Unite ale Americii, se angajează să promoveze alegerea și inovația pe web. În acest scop, am creat „Firefox Marketplace” &ndash; un site web accesibil publicului, care vă permite să distribuiți utilizatorilor conținutul dvs. Marketplace pentru a-l utiliza pe dispozitivele lor.
 
 ## Definiții
 
-- &ldquo;Caracteristicile mărcii&rdquo; înseamnă denumirile comerciale, mărcile comerciale, mărcile de servicii, numele de domenii și alte caracteristici distinctive ale mărcii fiecărei părți, respectiv, astfel cum este deținută (sau licențiată) periodic de partea respectivă.
-- &ldquo;Firefox Marketplace&rdquo; se referă la platforma noastră online destinată distribuirii de conținut Marketplace de către dezvoltatori către utilizatorii finali.
-- &ldquo;Dispozitive FirefoxOS&rdquo; se referă la dispozitivele distribuite de partenerii Mozilla, care utilizează sistemul de operare FirefoxOS dezvoltat de Mozilla.
-- &ldquo;Conținut Marketplace&rdquo; înseamnă aplicații și jocuri care sunt dezvoltate cu ajutorul tehnologiilor web deschise care pot rula pe mai multe platforme.
-- &ldquo;Partenerii Mozilla&rdquo; înseamnă furnizorii de servicii de telecomunicații și producătorii și distribuitorii de dispozitive.
+- „Caracteristicile mărcii” înseamnă denumirile comerciale, mărcile comerciale, mărcile de servicii, numele de domenii și alte caracteristici distinctive ale mărcii fiecărei părți, respectiv, astfel cum este deținută (sau licențiată) periodic de partea respectivă.
+- „Firefox Marketplace” se referă la platforma noastră online destinată distribuirii de conținut Marketplace de către dezvoltatori către utilizatorii finali.
+- „Dispozitive FirefoxOS” se referă la dispozitivele distribuite de partenerii Mozilla, care utilizează sistemul de operare FirefoxOS dezvoltat de Mozilla.
+- „Conținut Marketplace” înseamnă aplicații și jocuri care sunt dezvoltate cu ajutorul tehnologiilor web deschise care pot rula pe mai multe platforme.
+- „Partenerii Mozilla” înseamnă furnizorii de servicii de telecomunicații și producătorii și distribuitorii de dispozitive.
 
 
 ## Termeni de reglementare a utilizării de către dvs. a Firefox Marketplace
