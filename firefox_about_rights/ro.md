@@ -1,37 +1,37 @@
 # About Your Rights
 
-Mozilla Firefox is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:
+Mozilla Firefox este liber și în sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Aici sunt câteva lucruri pe care ar trebui să le știți:
 
-* Firefox is made available to you under the terms of the [Mozilla Public License](https://www.mozilla.org/MPL/). This means you may use, copy and distribute Firefox to others. You are also welcome to modify the source code of Firefox as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
-* You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found [here](https://www.mozilla.org/foundation/trademarks/policy/).
-* Some features in Firefox, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
-* How we use your personal information and feedback submitted to Mozilla through Firefox is described in the [Firefox Privacy Policy](https://www.mozilla.org/privacy/firefox/).
-* Some Firefox features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the service terms (below).
+* Firefox este disponibil sub termenii [Mozilla Public License](https://www.mozilla.org/MPL/). Aceasta înseamnă că puteți folosi, copia și distribui Firefox altora. Sunteți de asemenea bine veniți să modificați codul sursă al Firefox, cum doriți, pentru a vă satisface nevoile dumneavoastră. Mozilla Public License vă oferă și dreptul de a distribui versiunile modificate ale dumneavoastră.
+* Nu vă oferim niciun drept de a folosi mărcile sau licențele de mărci ale Mozilla sau ale oricărui alt terț, inclusiv, fără a se limita la numele Firefox sau logoul acesta. Informații suplimentare despre mărci se mai pot găsi [aici](https://www.mozilla.org/foundation/trademarks/policy/).
+* Unele funcționalități din Firefox, cum ar fi Raportorul de defecțiuni vă oferă opțiunea de a oferi feedback către Mozilla. Dacă alegeți să trimiteți feedback, oferiți Mozilla permisiunea de a folosi feedback-ul pentru a îmbunătăți produsele sale, pentru a publica feedbackul pe site-urile sale și pentru a distribui feedback-ul.
+* Modul în care folosim informațiile personale ale dumneavoastră și feedback-ul trimis la Mozilla prin Firefox este descris în [Politica de confidențialitate Firefox](https://www.mozilla.org/privacy/firefox/).
+* Unele funcționalități din Firefox folosesc servicii de informații bazate pe web, totuși nu putem garanta că acestea sunt 100% exacte sau lipsite de erori. Puteți găsi mai jos, în cadrul „Termenilor serviciului” mai multe detalii, inclusiv informații despre cum să dezactivați funcționalitățile care folosesc aceste servicii.
 
-## Mozilla Firefox Web-Based Information Services
+## Servicii de informații Mozilla Firefox bazate pe web
 
-Mozilla Firefox uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of Firefox under the terms described below.
+Mozilla Firefox utilizează servicii de informații bazate pe web („Servicii”) pentru a vă oferi o parte din funcționalitățile incluse pentru uzul dumneavoastră în această versiune binară de Firefox, sub termenii descriși mai jos.
 
-1. Mozilla and its contributors, licensors and partners work to provide the most accurate and up-to-date Services. However, we cannot guarantee that this information is comprehensive and error-free. For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.
-1. Mozilla may discontinue or change the Services at its discretion.
-1. You are welcome to use these Services with the accompanying version of Firefox, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. These terms are not intended to limit any rights granted under open source licenses applicable to Firefox and to corresponding source code versions of Firefox.
-1. **The Services are provided "as-is." Mozilla, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.**
-1. Except as required by law, Mozilla, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of Firefox and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.
-1. Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement.
-1. These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+1. Mozilla și contribuitorii săi, licențiatorii și partenerii lucrează pentru a oferi cele mai precise și actualizate Servicii. Totuși, nu putem garanta că această informație este completă sau lipsită de eroare. De exemplu, serviciul de „Navigare în siguranță” ar putea să nu identifice anumite site-uri sigure ca nefiind sigure și „serviciul conștient de locație” oferit de furnizorii noștri returnează numai estimări iar nici noi, nici furnizorii noștri nu garantează acuratețea locațiilor oferite.
+1. Mozilla poate întrerupe sau schimba Serviciile la discreția sa.
+1. Sunteți bine veniți să folosiți aceste Servicii împreună cu versiunea de Firefox ce ține de acestea și Mozilla vă oferă acest drept. Mozilla și licențiatorii își rezervă toate drepturile asupra Serviciilor. Acești termeni nu au ca scop limitarea oricăror drepturi garantate de licențele cu sursă deschisă („open source”) aplicabile pentru Firefox sau versiunilor respective de cod sursă ale Firefox.
+1. **Serviciile sunt oferite „ca atare”. Mozilla, contribuitorii săi, licențiatorii și distribuitorii își declină toate garanțiile, explicite ori implicite, inclusiv, fără a se limita la acestea, garanțiile conform cărora Serviciile ar comercializabile și potrivite scopurilor dumneavoastră particulare. Vă asumați în totalitate riscul cu privire la selectarea Serviciilor în scopurile dumneavoastră, precum și în privința calității și performanței. Unele jurisdicții nu permit excluderea sau limitarea garanțiilor implicite, astfel încât este posibil ca declinarea responsabilității să nu se aplice în cazul dumneavoastră.**
+1. Cu excepția situațiilor prevăzute de lege, Mozilla, contribuitorii, licențiatorii și distribuitorii săi nu pot fi trași la răspundere pentru pagube indirecte, speciale, accidentale, consecutive, punitive sau exemplare ce decurg sau pot fi atribuite în vreun fel utilizării Firefox și a Serviciilor. Răspunderea colectivă în baza prezenților termeni nu va depăși 500$ (cinci sute de dolari). Unele jurisdicții nu permit excluderea sau limitarea anumitor pagube, astfel încât este posibil ca această excludere și limitare să nu se aplice în cazul dumneavoastră.
+Mozilla poate actualiza acești termeni din când în când după cum este necesar. Acești termeni nu pot fi modificați sau anulați fără acordul scris dat de Mozilla.
+1. Termenii aceștia sunt sub incidența legilor statului California din SUA, cu excepția conflictelor cu prevederile legii. Dacă orice porțiune a acestor termeni este declarată invalidă sau neimpozabilă, celelalte porțiuni rămân în vigoare. În cazul unui conflict între o versiune tradusă a acestor termeni și versiunea în limba engleză, se aplică prevederile versiunii în engleză.
 
-If you do not want to use one or more of the Services or the terms above are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found below. Other features and Services can be disabled in the application preferences.
+Dacă nu doriți să utilizați unul sau mai multe dintre Servicii sau termenii de mai sus nu sunt acceptabili, puteți dezactiva funcționalitatea sau serviciile respective. Puteți găsi mai jos instrucțiuni despre cum să dezactivați o funcționalitate anumită sau un Serviciu. Alte funcționalități și Servicii pot fi dezactivate din preferințele aplicației.
 
-> **SafeBrowsing:** Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites. If you wish to disable the feature completely, follow these steps:
+> **Navigarea în siguranță:** Dezactivarea funcționalității de „Navigare în siguranță” nu este recomandată pentru că poate rezulta în vizitarea de site-uri nesigure. Dacă doriți să dezactivați această funcționalitate, urmați următorii pași:
 >
->* Open the application preferences
->* Select the Security selection
->* Uncheck the options to "Block reported attack sites" and "Block reported web forgeries"
->* Safe Browsing is now disabled
+>* Deschideți preferințele aplicației
+>* Selectați selecția de Securitate
+>* Debifați opțiunile „Blochează site-urile raportate ca fiind de atac” și "Blochează site-urile raportate ca fiind falsuri"
+>* Navigarea în siguranță este dezactivată
 >
-> **Location Aware Browsing:** is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:
+> **Navigarea conștientă de locație:** este întotdeauna activată doar la inițiativa utilizatorului. Nu este transmisă informația referitoare la locație niciodată fără permisiunea dumneavoastră. Dacă doriți să dezactivați această funcționalitate complet, urmați următorii pași:
 >
->In the URL bar, type about:config
->* Type geo.enabled
->* Double click on the geo.enabled preference
->* Location-Aware Browsing is now disabled
+>În bara de adrese, tastați about:config
+>* Tastați geo.enabled
+>* Dubli clic pe preferința geo.enabled
+>* Navigarea conștientă de locație este acum dezactivată
