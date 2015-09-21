@@ -20,7 +20,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * Snippets
   {: #snippets }
 
-	Die Standard-Homepage von Firefox (&lt;about:home&gt;) lädt direkt unterhalb der Suchleiste kleine Informationseinheiten, die unserer Meinung nach für Sie nützlich sein können. Diese nennen wir „Snippets“. Ungefähr einmal am Tag stellt Firefox eine Verbindung mit Mozilla her und liefert Ihnen ggf. neue Snippets (falls vorhanden). Mozilla erfasst, wie oft auf Snippets geklickt wird, den Snippet-Namen, die Sprache der Oberfläche und welche Version von Firefox Sie verwenden.
+	Die Standard-Homepage von Firefox (&lt;about:home&gt;) lädt direkt unterhalb der Suchleiste kleine Informationseinheiten, die unserer Meinung nach für Sie nützlich sein können. Diese nennen wir „Snippets“. Ungefähr einmal am Tag stellt Firefox eine Verbindung mit Mozilla her und liefert Ihnen ggf. neue Snippets (falls vorhanden). Mozilla kann erfassen, wie oft auf Snippets geklickt wird, den Snippet-Namen, die Sprache der Oberfläche und welche Version von Firefox Sie verwenden. Wir speichern diese Daten nach 60 Tagen nur in aggregierter Form.
 
 	Damit nur relevante Snippets angezeigt werden, sendet Firefox eine monatliche Anfrage an Mozilla, um Ihren Ort auf Landesebene mithilfe Ihrer IP-Adresse zu ermitteln. Dann senden wir die Information über Ihre Landesebene zurück an Firefox, wo sie lokal gespeichert wird. Firefox wählt dann anhand der lokal gespeicherten Landesinformation Snippets zur Anzeige aus.
 	
