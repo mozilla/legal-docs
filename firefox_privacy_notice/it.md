@@ -20,7 +20,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 * Snippet
   {: #snippets }
 
-	La pagina iniziale predefinita di Firefox (&lt;about:home&gt;) visualizza informazioni che riteniamo utili per gli utenti in uno spazio di piccole dimensioni posizionato sotto alla barra di ricerca. Chiamiamo questi elementi “snippet”. Almeno una volta al giorno, Firefox si collega a Mozilla per visualizzare nuovi snippet, se disponibili. Mozilla aggrega i dati relativi alla frequenza con cui si fa clic sugli snippet, il nome degli snippet, le impostazioni della lingua del browser e la versione di Firefox che si sta utilizzando.
+	La pagina iniziale predefinita di Firefox (&lt;about:home&gt;) visualizza informazioni che riteniamo utili per gli utenti in uno spazio di piccole dimensioni posizionato sotto alla barra di ricerca. Chiamiamo questi elementi “snippet”. Almeno una volta al giorno, Firefox si collega a Mozilla per visualizzare nuovi snippet, se disponibili. Mozilla potrebbe raccogliere i dati relativi alla frequenza con cui si fa clic sugli snippet, il nome degli snippet, le impostazioni della lingua del browser e la versione di Firefox che si sta utilizzando. Trascorsi 60 giorni queste informazioni vengono conservate solo in forma aggregata.
 
 	Per visualizzare snippet utili per gli utenti, Firefox invia ogni mese a Mozilla una richiesta con la posizione a livello di nazione, rilevata sulla base dell’indirizzo IP. Successivamente, reinviamo le informazioni sulla nazione a Firefox, che le memorizza localmente. Firefox, infine, sceglierà gli snippet da visualizzare in base alle informazioni sulla nazione memorizzate localmente.
 
