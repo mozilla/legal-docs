@@ -15,7 +15,7 @@ Wenn Sie Anrufe tätigen, werden Informationen an Mozilla gesendet, die zur Hers
 
 * **Gespräche**: Um Anrufe durchzustellen, verschlüsselt Ihr Firefox-Browser Informationen in Verbindung mit dem Kontakt, den Sie zu erreichen versuchen, sowie die Gesprächs-URL, und sendet diese Informationen an uns. Wir löschen diese Informationen, wenn der Anruf beendet ist.
 
-* **Feedback und Support**: Sie können Feedback an Mozilla senden.  Sie können uns Informationen bereitstellen, wenn Sie uns einen Absturzbericht senden oder einen Bericht auf unserem Support-Forum einreichen.
+* **Feedback und Support**: Sie können Feedback an Mozilla senden. Sie können uns Informationen bereitstellen, wenn Sie uns einen Absturzbericht senden oder einen Bericht in unserem Support-Forum einreichen.
 
 ---------------------------------------
 
