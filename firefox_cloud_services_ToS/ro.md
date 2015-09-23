@@ -35,7 +35,7 @@ Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă
 
 6. #### Drepturile de proprietate ale Mozilla
 
-    Mozilla nu vă acordă niciun drept de proprietate intelectuală asupra Serviciilor care nu este menționat în mod explicit în acești Termeni. De exemplu, acești Termeni nu conferă dreptul de a utiliza niciunul dintre drepturile de autor, denumirile comerciale, mărcile înregistrate, mărcile de servicii, siglele, numele de domenii sau alte caracteristici distinctive ale mărcii aparținând Mozilla. Serviciile se distribuie în baza și fac obiectul versiunii actuale a [Licenței publice Mozilla](https://www.mozilla.org/MPL/).
+    Mozilla nu vă acordă niciun drept de proprietate intelectuală asupra Serviciilor care nu este menționat în mod explicit în acești Termeni. De exemplu, acești Termeni nu conferă dreptul de a utiliza niciunul dintre drepturile de autor, denumirile comerciale, mărcile înregistrate, mărcile de servicii, logourile, numele de domenii sau alte caracteristici distinctive ale mărcii aparținând Mozilla. Serviciile se distribuie în baza și fac obiectul versiunii actuale a [Licenței publice Mozilla](https://www.mozilla.org/MPL/).
 
 7. #### Termen; Reziliere
 

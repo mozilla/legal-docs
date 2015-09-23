@@ -3,7 +3,7 @@
 17 iulie 2015
 {: datetime="2015-07-17" }
 
-Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când serviciile cloud Firefox („Serviciile”) transmit informații către Mozilla (adică noi), [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care folosim informațiile.
+Ne pasă de confidențialitatea datelor dvs. Atunci când serviciile cloud Firefox („Serviciile”) transmit informații către Mozilla (adică noi), [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care folosim informațiile.
 
 ## Câteva lucruri pe care ar trebui să le știți:
 

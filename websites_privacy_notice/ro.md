@@ -3,7 +3,7 @@
 1 iunie 2015
 {: datetime="2015-06-01" }
 
-Confidențialitatea datelor dvs. este importantă pentru noi. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
+Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
 Această politică de confidențialitate se aplică site-urilor web și aplicațiilor mobile operate de Mozilla, care includ, printre altele, domeniile mozillians.org, mozilla.org, firefox.com, openbadges.org și webmaker.org. Aceasta include, de exemplu, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org și wiki.mozilla.org.
 
