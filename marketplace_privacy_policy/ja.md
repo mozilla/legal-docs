@@ -1,66 +1,69 @@
-### Firefox Marketplace Privacy Policy
-July 3, 2013
+### Firefox Marketplaceプライバシーポリシー
+2013年7月3日
 
-We care about your privacy. When Mozilla (that's us) collects information about you from the Firefox Marketplace, our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+［この文書は、日本のFirefox Marketplaceユーザ等の便宜を図るために掲載している、Firefox Marketplace Privacy Policyの参考訳です。］
 
-<u>Things you should know</u>
+Mozillaは、皆様のプライバシーを尊重します。[Mozillaのプライバシーポリシー](http://www.mozilla.org/en-US/privacy/)は、Mozilla（当社）（以下「Mozilla」といいます。）が皆様の個人情報をFirefox Marketplaceから収集する場合に、収集した情報をどのように取り扱うかについて、説明しています。
 
-- Most of the apps on the Firefox Marketplace are not made by us and you should check their privacy policies before using them.
-- Payments are processed by others (not Mozilla) and you should check the privacy policy of the applicable payment provider to understand their practices.
-  - No financial information (such as credit card info that you have used to make purchases in the Firefox Marketplace) is collected, retained or used by Mozilla.
-- The Firefox Marketplace uses cookies and other web technologies to provide its functionality (such as remembering you between sessions) and to help us understand how users use the service through aggregate analytics.
-- The Marketplace may use your carrier and location data to customize your experience.
-  - On Firefox OS devices, we use network information from your device to understand your country location and carrier network to customize your experience and offer special carrier content.
-  - On all platforms, we may use your IP address to determine your country location to customize your experience.
-- You don't have to log in to install a free app, but paid apps require login. We also help you maintain a history of your transactional activity (like which Apps you have purchased).
-- You may elect to receive email from us and can unsubscribe from any email marketing communications you elected to receive.
 
-### Mozilla Privacy Policy
+<u>留意事項</u>
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+- Firefox Marketplaceにおいて提供されるアプリの大半は、Mozillaが開発したものではありません。したがって、アプリをご利用になる前に、開発者のプライバシーポリシーをご確認下さい。
+- Mozillaは決済処理を行わず、第三者が行います。したがって、決済にかかる個人情報の取扱いについては、当該決済サービスを提供する各社のプライバシーポリシーをご確認下さい。
+- Mozillaは、決済情報（Firefox Marketplaceにおいて購入に利用したクレジットカード情報等）を収集することはなく、これを保持または利用することもありません。
+- Firefox Marketplaceでは、各セッションにおける情報を記憶する等の機能を提供するため、また、ユーザがどのようにサービスを利用しているかを統計分析を通じて把握するため、Cookieおよびその他ウェブテクノロジーを使用します。
+- Firefox Marketplaceは、ユーザの使用履歴に応じた体験を提供する、通信事業者情報および位置情報を利用する場合があります。
+- Firefox OS端末において、Mozillaは、ユーザの使用履歴に応じたカスタマイズをなし、特別な通信事業者のコンテンツを提供するため、ユーザの所在国および通信事業者ネットワークを把握するべく、Firefox OS端末からのネットワーク情報を利用します。
+- すべてのプラットフォームにおいて、Mozillaは、ユーザの所在国を特定してユーザの使用履歴に応じたカスタマイズをするため、皆様のIPアドレスを利用する場合があります。
+- 無料アプリをインストールするにあたって、ログインする必要はありませんが、有料アプリをインストールするには、ログインする必要があります。Mozillaは、皆様の取引履歴（アプリの購入履歴等）を保存するお手伝いもいたします。
+- 皆様は、MozillaからのEメールを受信するかどうかを選択することができます。また、受信を希望したEメールマーケティングの受信を中止することができます。
 
-### What do we mean by "personal information?"
+### Mozillaプライバシーポリシー
 
-For us, "personal information" means information which identifies you, like your name or email address.
+Mozilla（当社）は、皆様の個人情報がMozillaの製品およびサービスの開発における重要な要素だと考えています。Mozillaは、透明性が高くかつ開かれた組織であるよう全力を挙げて取り組んでおり、Mozillaがどのように個人情報を入手し、また、入手した個人情報をどのように利用するかを皆様に知って頂きたいと考えています。
 
-Any information that falls outside of this is "non-personal information."
+### 「個人情報」の定義
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+Mozillaにおいて「個人情報」とは、氏名やメールアドレスなど、その提供者個人を特定する情報をいいます。
 
-### How do we learn information about you?
+この定義に該当しない情報は、すべて「非個人情報」となります。
 
-We learn information about you when:
+Mozillaは、個人情報と共に非個人情報を保有する場合、これらの情報を合わせて個人情報とみなします。個人情報を含む一連のデータからすべての個人情報が削除された場合、残りの情報は非個人情報となります。
 
-- you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-- we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-- someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-- when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+### 情報の入手方法
 
-### What do we do with your information once we have it?
+Mozillaは、次の場合に皆様の情報を入手します。
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+- 直接提供を受けた場合（Firefoxにおいてクラッシュレポートの送信が選択された場合等）
+- Mozillaの製品およびサービスを通じて自動的に収集する場合（お使いのFirefoxのバージョンが最新のものであるかを確認する場合等）
+- 第三者から情報を受領する場合（Thunderbirdが、アカウント設定のためにお使いのメールサービスプロバイダと情報を照合する場合等）、または
+- 直接提供された情報を元により詳細な情報を得ようとする場合（Mozillaがサービスを提供する際に使用する言語を皆様のIPアドレスから判断する場合等）
 
-### When do we share your information with others?
+### 入手した情報の利用目的
 
-- When we have gotten your permission to share it.
-- For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-- When we are fulfilling our mission of [being open](https://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-- When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-- When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-- If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+Mozillaは、皆様が許可した方法に従い、個人情報を利用します。通常は、皆様Mozillaの製品およびサービスの提供ならびに品質向上のためにこれらの情報を利用します。
 
-### How do we store and protect your personal information?
+### Mozillaが情報を第三者と共有する場合
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+- 事前に Mozilla が皆様の許可を得た場合。
+- 皆様のために製品およびサービスを処理または提供する場合。ただし、情報を共有する第三者が、Mozilla が承認する方法に従って当該情報を取り扱う契約上の義務を負う場合に限ります。
+- Mozilla の[開かれた組織](http://www.mozilla.org/about/manifesto.html)という使命に適う場合。Mozilla の製品の改良およびオープンウェブ（Open Web）の発展のため、情報を公開する場合があります。ただし、その場合でも、個人情報を削除し、また、皆様が特定されるリスクを最小限に抑えるよう努めます。
+- 法令に基づく場合。Mozilla は、政府機関から、または訴訟に関連して情報開示請求を受けた場合には法令に従います。情報開示請求を受けた際、法律上禁止されない限り、その皆様に通知します。上記のような情報開示請求があった場合、Mozilla は、法令に従い必要であると誠実に判断した場合に限り、個人情報を開示します。このプライバシーポリシーは、第三者からの情報開示請求に対する、皆様の法的防御または異議申立てを制限するものではありません。
+- 皆様その他の第三者に害を及ばさないために必要と判断する場合。Mozilla は、皆様、Mozilla のその他ユーザ、Mozilla 自身または公共の権利、財産または安全を守るため合理的に必要であると誠実に判断する場合に限り、個人情報を共有します。
+- Mozilla の組織の体制または状況が変わる場合（組織再編、買収また倒産等）、Mozilla は個人情報を承継人または関連会社へ移転させる場合があります。
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+### 個人情報の保管および保護の方法
 
-### What else do we want you know?
+Mozilla は、入手した個人情報の保護に全力を挙げて取り組みます。物理的、ビジネス上、かつ技術的なセキュリティ対策を講じています。それにもかかわらずセキュリティ侵害が発生した場合、皆様が適切な自衛手段を講じることができるよう当該皆様に通知します。
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+Mozilla は、個人情報について、必要とする期間に限り保管を希望するものであり、個人情報を収集したその目的を達成する上で十分な期間に限り、当該情報を保管します。Mozillaは、法律上保管が義務づけられている場合を除き、不要となり次第、個人情報の破棄を実施します。
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/privacy/policies/firefox-os/) to have your child's information removed.
+### その他の留意事項
 
-### What if we change this policy?
+Mozilla はグローバルな組織であり、世界各地にコンピュータを有し、また、様々な国にコンピュータを有するサービスプロバイダを利用しています。つまり、入手した個人情報は、国外に設置されたコンピュータへ最終的に送信される場合があり、送信先の国において適用されるデータ保護規制のレベルが、皆様の居住国における保護規制のレベルとは異なる場合があります。Mozilla に対する個人情報の提供をもって、当該情報が上記のとおり、国外に送信されることについて同意したこととなります。個人情報が所在する国を問わず、Mozilla は、適用法令に加え、このプライバシーポリシーにおける Mozilla の誓約事項を遵守します
 
-We may need to change this policy and when we do, we'll notify you.
+Mozilla は、13 歳未満の方の個人情報の提供を拒否するものであり、また 13 歳未満の方は Mozilla に対し個人情報を提供してはなりません。ご自身の13歳未満のお子さんが Mozilla に対し個人情報を提供したと思われる場合は、当該個人情報を削除しますので [Mozillaまでお知らせください](http://www.mozilla.org/en-US/privacy/policies/firefox-os)。
+
+### 本プライバシーポリシーの変更
+
+本プライバシーポリシーを変更する必要がある場合があります。本プライバシーポリシーを変更する場合は、皆様にお知らせいたします。
