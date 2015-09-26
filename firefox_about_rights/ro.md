@@ -2,7 +2,7 @@
 
 Mozilla Firefox este un program liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Sunt câteva lucruri pe care ar trebui să le știți:
 
-* Firefox este disponibil sub termenii [Mozilla Public License](https://www.mozilla.org/MPL/). Acest lucru înseamnă că puteți folosi, copia și distribui Firefox altora. Sunteți, de asemenea, binevenit să modificați codul sursă al Firefox, cum doriți, pentru a vă satisface nevoile. Mozilla Public License vă oferă și dreptul de a vă distribui versiunile modificate.
+* Firefox este disponibil sub termenii [Mozilla Public License](https://www.mozilla.org/MPL/). Acest lucru înseamnă că puteți folosi, copia și distribui Firefox altora. Sunteți, de asemenea, binevenit să modificați codul sursă al Firefox, cum doriți, pentru a răspunde nevoilor dvs. Mozilla Public License vă oferă și dreptul de a vă distribui versiunile modificate.
 * Nu vi se acordă niciun drept asupra mărcii comerciale sau asupra licențelor referitor la mărcile comerciale ale Mozilla Foundation sau ale oricărei părți, inclusiv, dar fără a se limita la numele Firefox sau logo. Informații suplimentare privind mărcile comerciale pot fi găsite [aici](https://www.mozilla.org/foundation/trademarks/policy/).
 * Unele funcționalități din Firefox, cum ar fi Raportorul de defecțiuni vă oferă posibilitatea să furnizați feedback la Mozilla. Alegând să trimiteți feedback, îi dați permisiunea lui Mozilla să folosească feedbackurile pentru a-și îmbunătăți produsele, să publice feedbackurile pe propriile site-uri web și să distribuie feedbackurile.
 * Modul în care folosim informațiile personale ale dvs. și feedbackul trimis la Mozilla prin Firefox este descris în [Politica de confidențialitate Firefox](https://www.mozilla.org/privacy/firefox/).
@@ -31,7 +31,7 @@ Dacă nu doriți să utilizați unul sau mai multe dintre Servicii sau termenii 
 >
 > **Navigarea conștientă de locație:** este întotdeauna opțională. Nu sunt transmise informații referitoare la locație niciodată fără permisiunea dvs. Dacă doriți să dezactivați această funcționalitate complet, urmați acești pași:
 >
->În bara de adrese, tastați about:config
->* Tastați geo.enabled
+>* Tastați about:config în bara de adrese
+>* Tastați geo.enabled în câmpul de căutare
 >* Dublu clic pe preferința geo.enabled
 >* Navigarea conștientă de locație este acum dezactivată
