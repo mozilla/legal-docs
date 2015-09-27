@@ -20,7 +20,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 * Snippets
   {: #snippets }
 
-	La page d’accueil par défaut de Firefox (&lt;about:home&gt;) charge de petits fragments d’informations juste au-dessous de la barre de recherche, informations susceptibles, selon nous, de vous être utiles. Nous les appelons « snippets ». Environ une fois par jour, Firefox se connecte à Mozilla pour vous fournir de nouveaux snippets, s’il y en a. Mozilla rassemble les informations sur le nombre de fois où vous avez cliqué sur les snippets, le nom des snippets, les paramètres régionaux du navigateur et la version de Firefox que vous utilisez.
+	La page d’accueil par défaut de Firefox (&lt;about:home&gt;) charge de petits fragments d’informations juste au-dessous de la barre de recherche, informations susceptibles, selon nous, de vous être utiles. Nous les appelons « snippets ». Environ une fois par jour, Firefox se connecte à Mozilla pour vous fournir de nouveaux snippets, s’il y en a. Mozilla peut collecter les informations sur le nombre de fois où vous avez cliqué sur les snippets, le nom des snippets, les paramètres régionaux du navigateur et la version de Firefox que vous utilisez. Nous ne conservons ces informations sous forme d’agrégats que 60 jours.
 
 	Afin d’afficher des snippets pertinents, Firefox envoie mensuellement à Mozilla une requête pour trouver votre emplacement au niveau du pays en utilisant votre adresse IP. Nous retournons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Firefox choisira alors les snippets à afficher pour vous en fonction des informations sur les pays stockées localement.
 	
