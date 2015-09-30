@@ -5,7 +5,7 @@
 
 Ne pasă de confidențialitatea dvs. Atunci când Firefox trimite informații la Mozilla (adică noi), [politica de confidențialitate](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm acele informații.
 
-## Câteva lucruri pe care ar trebui să le știți
+## Lucruri pe care ar trebui să le știți
 
 Firefox se conectează automat la noi și la furnizorii noștri de servicii pentru a furniza actualizări, securitate, fragmente (snippets), raportul de stare Firefox și alte funcționalități.
 {: #essential-features }

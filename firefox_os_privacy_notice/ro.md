@@ -5,7 +5,7 @@
 
 Companiei Mozilla îi pasă de confidențialitatea dvs. Atunci când Firefox OS ne transmite informații, [politica noastră de confidențialitate Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
-## Iată câteva lucruri pe care ar trebui să le știți
+## Lucruri pe care ar trebui să le știți
 
 Firefox OS se conectează la noi și la alții pentru a furniza funcționalitățile produsului.
 {: #location-services }
