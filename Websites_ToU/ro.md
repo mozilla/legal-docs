@@ -30,7 +30,7 @@ Anumite Conținuturi din Comunicările noastre se obțin din surse care interzic
 
 * Anumite Conținuturi indică în mod expres faptul că autorul nu dorește aplicarea unei licențe deschise.  Ar trebui să contactați autorul sau reprezentantul acestuia pentru permisiunea de a utiliza astfel de Conținuturi. Întrebările privind conținutul creat de Mozilla pot fi trimise la: licensing@mozilla.org.
 * Anumite Conținuturi cuprind mărci comerciale, prezentări comerciale, logouri și portofolii de mărci ale Mozilla și ale altor părți („Mărci comerciale”). Cu excepția câtorva circumstanțe limitate, Mărcile comerciale nu pot fi utilizate fără permisiunea în scris a proprietarului Mărcii comerciale.  [Aflați mai multe despre mărcile comerciale ale Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.  Pentru informații suplimentare privind licența specifică, consultați depozitul GitHub aplicabil. 
+* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.  Pentru mai multe informații privind licența specifică, consultați depozitul GitHub aplicabil. 
 
 
 #### 4\. Remiteri de conținut
@@ -63,7 +63,7 @@ Alte site-uri web precum MozReps și Webmaker furnizează unelte care permit uti
 
 #### 7\. Raportarea abuzurilor
 
-Pentru informații suplimentare privind raportarea folosirii abuzive a unor drepturi de autor sau a unei mărci comerciale, vă rugăm să consultați: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Pentru mai multe informații privind raportarea folosirii abuzive a unor drepturi de autor sau a unei mărci comerciale, vă rugăm să consultați: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
 
 #### 8. Termen; Reziliere
 

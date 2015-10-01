@@ -5,7 +5,7 @@
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când serviciile cloud Firefox („Serviciile”) transmit informații către Mozilla (adică noi), [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care folosim informațiile.
 
-## Câteva lucruri pe care ar trebui să le știți:
+## Lucruri pe care ar trebui să le știți:
 
 Ne trimiteți diferite tipuri de date în funcție de funcțiile Serviciilor pe care le utilizați.
 
