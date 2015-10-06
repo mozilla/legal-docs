@@ -1,4 +1,4 @@
-# Mozilla Datenschutzerklärung
+# Mozilla-Datenschutzerklärung
 
 Der Schutz Ihrer Daten ist für uns ein wichtiges Anliegen und Mozilla (das sind wir) nimmt diesen Schutz bei der Entwicklung aller unserer Produkte und Dienste ernst. Wir verpflichten uns zu Transparenz und Offenheit und möchten deshalb, dass Sie wissen, wie wir Daten erheben und was wir mit den erhobenen Daten machen, nachdem wir sie erhoben haben.
 
