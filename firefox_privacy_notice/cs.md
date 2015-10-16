@@ -20,7 +20,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * Snippets
   {: #snippets }
 
-	Domovská stránka Firefoxu (&lt;about:home&gt;) načítá malé množství informací hned pod vyhledávací lištou, o kterých se domníváme, že pro vás mohou být užitečné. Nazýváme je "snippets". Přibližně jednou za den Firefox kontaktuje Mozillu a poskytne vám nové snippets, jsou-li k dispozici. Mozilla shromažďuje informace, jak často bylo na snippets kliknuto, název snippet, umístění prohlížeče a v jakou verzi Firefoxu používáte.
+	Výchozí domovská stránka Firefox (&lt;about:home&gt;) načítá krátké informace přímo pod vyhledávací lištou, o nichž se domníváme, že pro vás mohou být užitečné. Říkáme jim „snippety”. přibližně jednou denně se Firefox spojí s Mozillou a nabídne vám případné nové snippety. Mozilla může shromažďovat informace o počtu kliknutí na snippety, místě prohlížeče a  používané verzi Firefox. Tyto informace uchováváme pouze po dobu 60 dní v souhrnné formě.
 
 	Za účelem pomoci zobrazení relevantních snippets Firefox zasílá Mozille měsíčně požadavek, aby zjistila, v které zemi se nacházíte, a to za pomoci vaší IP adresy. Tuto informaci o státě místa pohybu zasíláme zpět Firefoxu, který je uchovává lokálně.  Firefox poté na základě lokálně uchovávané informace o státě zvolí snippets, které se vám mají zobrazit.
 	
