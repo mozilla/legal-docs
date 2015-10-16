@@ -1,7 +1,7 @@
 # Firefox-wolkdienste se privaatheidskennisgewing 
 
-29 Augustus 2014
-{: datetime="2014-08-29" }
+17 Julie 2015
+{: datetime="2015-07-17" }
 
 Ons gee om oor jou privaatheid. Wanneer Firefox-wolkdienste (die "dienste") inligting na Mozilla (dit is ons)stuur, beskryf ons [Mozilla privaatheidsbeleid](https://www.mozilla.org/privacy/) hoe ons daardie inligting gebruik.
 
@@ -9,7 +9,7 @@ Ons gee om oor jou privaatheid. Wanneer Firefox-wolkdienste (die "dienste") inli
 
 Jy stuur vir ons verskillende soorte data, afhangende van watter kenmerke van die dienste u gebruik.
 
-* **Firefox-rekening**: Wanneer jy vir 'n rekening aansluit, ontvang ons jou e-posadres en wagwoord.
+* **Firefox-rekening**: Wanneer jy vir 'n rekening registreer, ontvang ons jou e-posadres en 'n gekodeerde weergawe van jou wagwoord. Jy kan ook 'n profielprent byvoeg, as jy wil. As jy Gravatar kies, sal ons jou e-posadres met Gravatar deel, om jou profielprent te kan kry.
 * **Sinchro**: Indien jy Sinchro gebruik, ontvang ons 'n verskeidenheid inligting om jou oortjies, Awesome-balk, wagwoorde, boekmerke, blaaiervoorkeure en ander data oor verskeie toestelle heen te sinchroniseer.
 * **Toestelvinder**: Indien jy Toestelvinder aktiveer, ontvang ons die benaderde ligging van jou toestel net wanneer jy by jou Firefox-rekening aanmeld en ons spesifiek versoek om 'n gekoppelde toestel te vind. Terwyl jy aangemeld is, kan ons jou toestel se mees onlangse bekende liggings op 'n kaart sien. Ons skrap hierdie liggings gereeld en sal nie verdere liggings versamel totdat jy ons versoek om dit te doen nie.
 
