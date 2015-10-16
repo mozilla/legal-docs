@@ -20,7 +20,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 * Trechos de código
   {: #snippets }
 
-	A página inicial padrão do Firefox (&lt;about:home&gt;) carrega pequenas informações abaixo da barra de busca e achamos que elas podem ser úteis para você. Elas são chamadas “trechos de código”. Cerca de uma vez por dia, o Firefox se conecta à Mozilla e oferece novos trechos de código para você, caso estejam disponíveis. A Mozilla reúne a frequência com que os trechos de código são clicados, o nome do trecho de código, idioma do navegador e a versão do Firefox que você está utilizando.
+	A página inicial padrão do Firefox (&lt;about:home&gt;) carrega pequenas informações abaixo da barra de busca e achamos que elas podem ser úteis para você. Elas são chamadas “trechos de código”. Cerca de uma vez por dia, o Firefox se conecta à Mozilla e oferece novos trechos de código para você, caso estejam disponíveis. A Mozilla pode coletar a frequência com que os trechos de código são clicados, o nome do trecho de código, o idioma do navegador e a versão do Firefox que você está utilizando. Somente retemos essas informações após 60 dias de forma agregada.
 
 	Para ajudar a exibir trechos de código relevantes, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você está. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente.  Depois disso, o Firefox escolherá os trechos de código que serão exibidos de acordo com as informações sobre o país armazenadas localmente.
 	
