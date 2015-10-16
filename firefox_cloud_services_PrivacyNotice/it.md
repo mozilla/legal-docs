@@ -1,7 +1,7 @@
 # Firefox Cloud Services – Informativa sulla privacy
 
-29 agosto 2014
-{: datetime="2014-08-29" }
+17 luglio, 2015
+{: datetime="2015-07-17" }
 
 La privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui vengono utilizzate le informazioni trasmesse dai Firefox Cloud Services (i “Servizi”) a Mozilla (noi).
 
@@ -9,7 +9,7 @@ La privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla
 
 Il tipo di dati trasmessi varia a seconda delle funzioni dei vari servizi che vengono utilizzate.
 
-* **Firefox Account**: quando si crea un account riceviamo l’indirizzo email dell’utente e la password.
+* **Account Firefox**: quando si crea un account, Mozilla riceve il relativo indirizzo e-mail e un'impronta (hash) della password. È inoltre possibile aggiungere un'immagine del profilo. Se si sceglie Gravatar, l'indirizzo e-mail verrà condiviso con Gravatar per ottenere l'immagine del profilo.
 * **Sync**: nel momento in cui si utilizza Sync riceviamo diverse informazioni necessarie per sincronizzare le schede, la barra degli indirizzi, le password, i segnalibri, le impostazioni del browser e altri dati nei vari dispositivi.
 * **Trova dispositivo**: attivando la funzione *Trova dispositivo* saremo in grado di rilevare la posizione approssimativa del dispositivo solo dopo che l’utente avrà effettuato l’accesso al proprio account Firefox ed esplicitamente richiesto di localizzare un dispositivo connesso. Quando si è connessi sarà possibile visualizzare su una mappa le ultime posizioni conosciute del dispositivo. Eliminiamo regolarmente tali informazioni e non acquisiamo ulteriori dati sulla posizione fino a quando non viene espressamente richiesto dall’utente.
 
