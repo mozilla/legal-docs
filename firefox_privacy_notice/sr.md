@@ -20,7 +20,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 * Isečci
   {: #snippets }
 
-	Na standardnoj početnoj stranici pretraživača Firefox (&lt;about:home&gt;) učitavaju se određene informacije odmah ispod trake za pretragu za koje verujemo da vam mogu biti korisne. Zovemo ih „isečci“. Otprilike jednom dnevno, Firefox se povezuje sa sajtom Mozilla i pruža vam nove isečke, ako postoje. Mozilla prikuplja podatke o tome koliko se često klikne na isečke, o nazivu isečaka, jeziku pretraživača i o tome koju verziju pretraživača Firefox koristite.
+	Na standardnoj početnoj stranici pregledača Firefox (&lt;about:home&gt;) učitavaju se određene informacije odmah ispod trake za pretragu za koje verujemo da vam mogu biti korisne. Zovemo ih „isečci“. Otprilike jednom dnevno, Firefox se povezuje sa sajtom Mozilla i pruža vam nove isečke, ako postoje. Mozilla može da prikuplja podatke o tome koliko se često klikne na isečke, o nazivu isečaka, jeziku pregledača i o tome koju verziju pregledača Firefox koristite. Ove podatke zadržavamo samo nakon 60 dana u zbirnom obliku.
 
 	U cilju prikazivanja relevantnih isečaka, Firefox šalje sajtu Mozilla mesečni zahtev da pogleda vašu lokaciju na nivou zemlje koristeći vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno.  Firefox zatim bira koje isečke da vam prikazuje na osnovu lokalno uskladištenih podataka o zemlji.
 	
