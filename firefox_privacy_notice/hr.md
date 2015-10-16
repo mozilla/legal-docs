@@ -20,7 +20,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 * Isječci
   {: #snippets }
 
-	Zadana početna stranica Firefoxa (&lt;about:home&gt;) učitava odmah ispod trake pretraživanja dijelove informacija za koje smatramo da vam mogu biti korisne. Nazivamo ih „isječci“. Otprilike jednom dnevno, Firefox se povezuje s Mozillom i, ako su dostupni, pruža vam nove isječke. Mozilla zbraja koliko se često klikne na isječke, sakuplja podatke o nazivu isječka, regionalnim postavkama preglednika, te o verziji  Firefox preglednika koju koristite.
+	Zadana početna stranica Firefoxa (&lt;about:home&gt;) učitava odmah ispod trake pretraživanja dijelove informacija za koje smatramo da vam mogu biti korisne. Nazivamo ih „isječci“. Otprilike jednom dnevno, Firefox se povezuje s Mozillom i, ako su dostupni, pruža vam nove isječke. Mozilla može prikupljati koliko se često klikne na isječke, sakuplja podatke o nazivu isječka, regionalnim postavkama preglednika, te o verziji  Firefox preglednika koju koristite. Ove informacije zadržavamo 60 dana nakon forme prikupljanja.
 
 	Kako bi vam prikazivao važne isječke, Firefox šalje Mozilli mjesečni zahtjev pretraživanja vaše lokacije za zemlju korištenjem vaše IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje.  Firefox zatim na temelju lokalno pohranjenih podataka o zemlji odabrati koje će vam isječke prikazati.
 	
