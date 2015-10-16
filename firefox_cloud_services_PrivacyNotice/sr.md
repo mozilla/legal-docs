@@ -1,7 +1,7 @@
 # Firefox Cloud Services Obaveštenje o privatnosti
 
-29\. avgust 2014.
-{: datetime="2014-08-29" }
+17. jul, 2015
+{: datetime="2015-07-17" }
 
 Mi brinemo o Vašoj privatnosti. Kada Firefox Cloud Services ("Usluge") šalju informacije Mozilla-i (to smo mi) naša [Mozilla Pravila Privatnosti](https://www.mozilla.org/privacy/) opisuju kako mi koristimo te informacije.
 
@@ -9,7 +9,7 @@ Mi brinemo o Vašoj privatnosti. Kada Firefox Cloud Services ("Usluge") šalju i
 
 U zavisnosti od funkcije Usluga koje koristite, šaljete nam različite vrste podataka.
 
-* **Firefox nalog**: Kada otvarate nalog, šaljete nam svoju e-adresu i lozinku.
+* **Firefox nalog**: Kada otvarate nalog, šaljete nam svoju e-adresu i heš svoje lozinke. Pored toga, možete dodati i profilnu sliku, ako to želite. Ako odaberete Gravatar, poslaćemo vašu e-adresu servisu Gravatar kako bismo preuzeli vašu profilnu sliku.
 * **Sync**: Ako koristite Sync, mi dobijamo različite vrste informacija kako bismo sinhronizovali vaše kartice, awesome bar, lozinke, obeleživače, podešavanja obeleživača i druge podatke sa različitih uređaja.
 * **Pronađi moj uređaj**: Ako uključite opciju „Pronađi moj uređaj“, dobijamo približnu lokaciju vašeg uređaja samo kada se prijavite na svoj Firefox nalog i namenski zahtevate od nas da lociramo povezani uređaj. Dok ste prijavljeni, možete da vidite poslednje poznate lokacije vašeg uređaja na mapi. Redovno brišemo ove lokacije i ne prikupljamo dodatne lokacije sve dok to ne zatražite od nas.
 
