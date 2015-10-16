@@ -20,7 +20,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 * Wycinki
   {: #snippets }
 
-	Domyślna strona główna przeglądarki Firefox (&lt;about:home&gt;) wczytuje tuż pod paskiem wyszukiwania niewielkie porcje informacji, które naszym zdaniem mogą być przydatne dla użytkownika. Nazywamy je „wycinkami”. Około raz dziennie Firefox łączy się z firmą Mozilla i pobiera informacje o nowych wycinkach, jeśli są dostępne. Mozilla agreguje dane dotyczące częstotliwości kliknięć wycinków, ich nazw, ustawień regionalnych przeglądarki oraz używanej wersji Firefoksa.
+	Domyślna strona główna przeglądarki Firefox (&lt;about:home&gt;) wczytuje tuż pod paskiem wyszukiwania niewielkie porcje informacji, które naszym zdaniem mogą być przydatne dla użytkownika. Nazywamy je „wycinkami”. Około raz dziennie Firefox łączy się z firmą Mozilla i pobiera informacje o nowych wycinkach, jeśli są dostępne. Mozilla może gromadzić dane dotyczące częstotliwości kliknięć wycinków, ich nazw, ustawień regionalnych przeglądarki oraz używanej wersji Firefoksa. Dane te są przechowywane po 60 dniach jedynie w formie zagregowanej.
 
 	Aby umożliwić wyświetlanie właściwych wycinków, Firefox co miesiąc wysyła do firmy Mozilla żądanie wyszukiwania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox dobiera wyświetlane użytkownikowi wycinki.
 	
