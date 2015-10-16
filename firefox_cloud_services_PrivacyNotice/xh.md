@@ -1,7 +1,7 @@
 # Iinkonzo Zabucala ZeFirefox Cloud Isaziso
 
-Agasti 29, 2014
-{: datetime="2014-08-29" }
+Julayi 17, 2015
+{: datetime="2015-07-17" }
 
 Sibukhathelele ezabucala lwakho. Xa Iinkonzo ZeFirefox Cloud ("Iinkonzo") zithumela inkcazelo kwiMozilla (sithi ke abo) [Umgaqo-nkqubo Wabucala](https://www.mozilla.org/privacy/) uchaza indlela yokusebenzisa loo nkcazelo.
 
@@ -9,7 +9,7 @@ Sibukhathelele ezabucala lwakho. Xa Iinkonzo ZeFirefox Cloud ("Iinkonzo") zithum
 
 Usinika iintlobo ezahlukeneyo zenkcazelo kuxhomekeka inkalo yeNkonzo oyisebenzisayo.
 
-* **Iakhawunti YeFirefox**: Xa usayina ukuze ube neakhawunti, sifumana idilesi yemeyile yakho nephasiwedi.
+* **Iakhawunti YeFirefox**: Xa usayinela iakhawunti, sifumana idilesi yemeyile nesishunqulelo sephasiwedi yakho. Ukongezelela, unokongezelela ifoto yeprofayile. Ukuba ukhetha iGravatar, siza kuwabelana ngedilesi yakho yemeyile kwiGravatar ukuze sifumaneka umfanekiso weprofayile yakho.
 * **ISync**: Ukuba usebenzisa iSync, sifumana inkcazelo eyahlukeneyo ukuze zihambisane iithebhu zakho, ibha entle, iphasiwedi, isiphawuli sephepha, ukhetho lokubrawuza kunye nenye inkcazelo kwisixhobo
 * **Fumana Isixhobo Sam**: Ukuba uvulelele Fumana Isixhobo Sam, sifumana indawo efanelekileyo yesixhobo sakho kuphela xa usayina kwiAkhawunti YeFirefox kunye nesicelo sokuba sisifune isixhobo esiqhagamshelweyo.  Ngoxa usayinile, unokubona indawo esigqityelwe kuyo isixhobo sakho kwimephu.  Sisoloko sizicima ezi ndawo kwaye asiqokeleli nkcazelo ingaphezulu kwaye de wena uyicele kuthi.
 
