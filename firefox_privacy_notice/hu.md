@@ -20,7 +20,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 * Kódrészletek
   {: #snippets }
 
-	A Firefox alapértelmezett kezdőlapja (&lt;about:home&gt;) közvetlenül a keresősáv alatt olyan rövid tájékoztatásokat jelenít meg, amelyeket az Ön számára hasznosnak ítélünk. Ezeket „kódrészleteknek” nevezzük. Körülbelül naponta egy alkalommal a Firefox csatlakozik a Mozillához és új kódrészleteket nyújt Önnek, ha vannak ilyenek. A Mozilla összesíti, hogy milyen gyakran kattintanak rá a kódrészletekre, a kódrészlet nevét, a böngésző területi beállításait és hogy a Firefox melyik verzióját használja.
+	A Firefox alapértelmezett kezdőlapja (&lt;about:home&gt;) közvetlenül a keresősáv alatt olyan rövid tájékoztatásokat jelenít meg, amelyeket az Ön számára hasznosnak ítélünk. Ezeket „kódrészleteknek” nevezzük. Körülbelül naponta egy alkalommal a Firefox csatlakozik a Mozillához, és új kódrészleteket nyújt Önnek, ha vannak ilyenek. A Mozilla az alábbi adatokat gyűjtheti össze: milyen gyakran kattintanak rá a kódrészletekre, a kódrészlet nevét, a böngésző területi beállításait és hogy a Firefox melyik verzióját használja. Ezeket az adatokat 60 nap elteltével kizárólag összesített formában őrizzük meg.
 
 	Annak érdekében, hogy megfelelő kódrészleteket jelenítsen meg, a Firefox IP-címe segítségével havonta lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. A Firefox az Önnek megjelenő kódrészleteket a helyileg tárolt országszintű adat alapján fogja kiválasztani.
 	
