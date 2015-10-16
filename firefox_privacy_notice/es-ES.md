@@ -20,7 +20,7 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 * Fragmentos de código
   {: #snippets }
 
-	La página de inicio predeterminada de Firefox (&lt;about:home&gt;) carga pequeñas porciones de información justo debajo de la barra de búsqueda que consideramos puede resultarle útil. Son los llamados "fragmentos de código". Aproximadamente una vez al día, Firefox se conecta a Mozilla para ofrecerle nuevos fragmentos de código, si están disponibles. Mozilla recopila información sobre la frecuencia con la que se hace clic en dichos fragmentos, su nombre, la ubicación del navegador y la versión de Firefox que utiliza.
+	La página de inicio predeterminada de Firefox (&lt;about:home&gt;) carga justo debajo de la barra de búsqueda pequeños fragmentos de información que consideramos podrían serle útil. Son los llamados "snippets" o fragmentos de código. Aproximadamente una vez al día, Firefox conecta con Mozilla para proporcionarle nuevos “snippets”, si están disponibles. Mozilla recopila información sobre la frecuencia con la que se hace clic en dichos “snippets”, su nombre, la ubicación del navegador y la versión de Firefox que utiliza. Esta información solo la almacenamos a los 60 días de forma recopilada.
 
 	Con el fin de mostrarle fragmentos de código que sean de su interés, Firefox envía a Mozilla una solicitud mensual para que busque el país en el que se ubica a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Firefox podrá, entonces, mostrarle fragmentos de código de acuerdo con la información almacenada sobre el país en el que se encuentre.
 	
