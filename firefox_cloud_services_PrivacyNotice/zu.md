@@ -1,7 +1,7 @@
 # Isaziso Sobumfihlo Samasevisi we-Firefox Cloud
 
-Agasti 29, 2014
-{: datetime="2014-08-29" }
+Julayi 17, 2015
+{: datetime="2015-07-17" }
 
 Sayabunakekela ubumfihlo bakho. Uma amasevisi we-Firefox Cloud ("amasevisi") athumela ulwazi ku-Mozilla (thina) [Inqubomgomo Yethu Yobumfihlo ye-Mozilla](https://www.mozilla.org/privacy/)ichaza ukuthi silusebenzisa kanjani lolo lwazi.
 
@@ -9,7 +9,7 @@ Sayabunakekela ubumfihlo bakho. Uma amasevisi we-Firefox Cloud ("amasevisi") ath
 
 Usithumela izinhlobo ezahlukahlukene zedatha kuye ngokuthi yiziphi izici Zamasevisi ozisebenzisayo.
 
-* **I-akhawunti ye-Firefox**: Uma ubhalisela i-akhawunti, sithola ikheli lakho le-imeyili nephasiwedi.
+* **I-akhawuti ye-Firefox**: Uma ubhalisela i-akhawunti, sithola ikheli lakho le-imeyili no-hash wephasiwedi yakho. Ngokwengeziwe, ungakhetha ukwengeza isithombe sephrofayela. Uma ukhetha i-Gravatar, sizokwabelana ngekheli lakho le-imeyili ne-Gravatar ukuthola isithombe sakho sephrofayela.
 * **Ukuvumelanisa**: Uma usebenzisa Ukuvumelanisa, sithola ulwazi oluhlukahlukene ukuvumelanisa amathebhu wakho, ibha enhle, amaphasiwedi, amabhukhimakhi, izinketho zesiphequluli nenye idatha kuwo wonke amadivayisi.
 * **Thola Idivayisi Yami**: Uma unike amandla okuthi Thola Idivayisi Yami, sithola cishe indawo yedivayisi yakho kuphela uma ungena ngemvume ku-Akhawunti yakho ye-Firefox futhi usicela ukuthi sibeke idivayisi exhunyiwe.  Ngenkathi ungene ngemvume,ungabona izindawo ezaziwayo zokugcina zedivayisi yakho kumephu.  Sisusa njalo lezo zindawo futhi ngeke siqoqe ezinye izindawo uze usicele ukuthi senze kanjalo.
 
