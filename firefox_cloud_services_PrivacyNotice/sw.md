@@ -1,7 +1,7 @@
 # Ilani ya Faragha ya Huduma za Wingu za Firefox
 
-Agosti 29, 2014
-{: datetime="2014-08-29" }
+Julai 17, 2015
+{: datetime="2015-07-17" }
 
 Tunajali kuhusu faragha yako. Wakati Huduma za Wingu za Firefox ("Huduma") hutuma maelezo kwenye Mozilla (sisi) [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/) hufafanua jinsi tunavyotumia maelezo hayo.
 
@@ -9,7 +9,7 @@ Tunajali kuhusu faragha yako. Wakati Huduma za Wingu za Firefox ("Huduma") hutum
 
 Umetutumia aina tofauti za data kulingana na vipengele vya Huduma unazotumia.
 
-* **Akaunti ya Firefox**: Unapojisajili kwa akaunti, tunapokea anwani yako ya barua pepe na nenosiri.
+* **Akaunti ya Firefox**: Ukijisajili kwa akaunti, tunapokea anwani yako ya barua pepe na reli ya nenosiri lako. Mbali na hayo, unaweza kuongeza picha ya wasifu kwa hiari. Ukichagua Gravatar, tutashiriki anwani yako ya barua pepe na Gravatar ili kupata picha ya wasifu wako.
 * **Landanisha**: Iwapo utatumia Ulandanishaji, tunapokea maelezo mbalimbali ya kulandanisha vichupo, upau bora, maalamisho, mapendeleo ya kivinjari na data yako nyingine kwenye vifaa.
 * **Tafuta Kifaa Changu**: Iwapo utawezesha Pata Kifaa Changu, tunapokea makadirio ya eneo ya kifaa chako tu wakati unaingia kwenye Akaunti yako ya Firefox na kutuomba kibinafsi kutambua kifaa kilichounganishwa.  Wakati umeingia, unaweza kuona maeneo yaliyojulikana mwisho kwenye ramani.  Kila mara tunafuta maeneo haya na kutokusanya maeneo zaidi hadi utuombe kufanya hivyo.
 
