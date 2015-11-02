@@ -7,15 +7,15 @@ We care about your privacy. When Firefox sends information to Mozilla (that's us
 
 ## Things you should know
 
-Firefox automatically connects to us and our service providers to provide updates, security, Snippets, Firefox Health Report and other features. 
+Firefox automatically connects to us and our service providers to provide updates, security, Snippets, Firefox Health Report, and other features. 
 {: #essential-features }
 
 * Browser and add-ons updates
   {: #auto-updates }
 
-	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system and version. You can [turn off updates by following these instructions](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) but it may leave you open to security vulnerabilities.
+	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system, and version. You can [turn off updates by following these instructions](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) but it may leave you open to security vulnerabilities.
 
-	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off meta data updates](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) at any time, but it may leave you open to security vulnerabilities.
+	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off metadata updates](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) at any time, but it may leave you open to security vulnerabilities.
 
 * Snippets
   {: #snippets }
@@ -45,15 +45,15 @@ Firefox automatically connects to us and our service providers to provide update
 * Usage statistics (also called "Telemetry" in non-release builds)
   {: #telemetry .inproduct-link}
 
-	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors. When Telemetry is enabled, certain short-term experiments may collect information about visited sites.
+	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory, and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors. When Telemetry is enabled, certain short-term experiments may collect information about visited sites.
 
-	This feature is turned on by default in Nightly, Developer Edition (Aurora) and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
+	This feature is turned on by default in Nightly, Developer Edition (Aurora), and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
 
 	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it. 
 
 * Tiles 
 
-	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information and tile specific data (e.g., position and size of grid). In Firefox Beta, certain short-term Telemetry experiments (see above) for Tiles may collect information about commonly visited domains.
+	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information, and tile specific data (e.g., position and size of grid). In Firefox Beta, certain short-term Telemetry experiments (see above) for Tiles may collect information about commonly visited domains.
 	
 * Default Search
 	To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
@@ -69,7 +69,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 * **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/).
 {: #sync }
 
-* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, Wi-Fi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
+* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, Wi-Fi networks, cell phone towers, or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
 {: #location-services }
 
 * **Crash reporting**: You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
