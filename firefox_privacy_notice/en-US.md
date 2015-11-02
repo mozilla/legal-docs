@@ -36,7 +36,7 @@ Firefox automatically connects to us and our service providers to provide update
 * Security
   {: #security }
 
-	Firefox automatically checks for malicious or forged web pages, broken add-ons, and third-party issued SSL certificates.
+	Firefox automatically checks for malicious or forged web pages, bad add-ons, and third-party issued SSL certificates.
 
 	Secure Website Certificates: When you visit a secure website (i.e. "https"), Firefox will validate the website's certificate. This may involve communicating with a third-party status provider specified by the certificate. Firefox sends to this third-party information identifying the site's [certificate](https://support.mozilla.org/kb/secure-website-certificate). You can [change your preferences](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), but if you disable the online verification feature, Firefox cannot confirm the identity of the website you are visiting. Turning off this feature may increase the risk of your private information being intercepted. If you encounter an [untrusted connection](https://support.mozilla.org/kb/connection-untrusted-error-message), you can also choose to send Mozilla the associated certificates.
 
@@ -47,7 +47,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors. When Telemetry is enabled, certain short-term experiments may collect information about visited sites.
 
-	This feature is turned on by default in Nightly, Developer Edition, Aurora and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
+	This feature is turned on by default in Nightly, Developer Edition (Aurora) and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
 
 	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it. 
 
@@ -69,7 +69,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 * **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/).
 {: #sync }
 
-* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, WiFi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
+* **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, Wi-Fi networks, cell phone towers or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
 {: #location-services }
 
 * **Crash reporting**: You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
