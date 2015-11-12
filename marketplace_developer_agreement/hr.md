@@ -1,4 +1,6 @@
-30\. listopada 2013.
+﻿Ova verzija ugovora za razvojnog programera stupa na snagu 2. studenog 2015.
+
+Ako ste poslali Firefox OS dodatke (definirane u nastavku), sljedeći odjeljci razvojnog programera se na vas ne primjenjuju: plaćanja, porezi i povrati.
 
 Ovaj početni odjeljak sažetak je uvjeta navedenih u nastavku. Služi kao pomoć u razumijevanju - no obavezno pročitajte cijeli dokument, jer svojim pristankom označavate prihvaćanje cijelog ugovora, a ne samo sažetka:
 
@@ -16,15 +18,18 @@ Mozilla Corporation, sa sjedištem na adresi 331 E. Evelyn Avenue, Mountain View
 
 ## Definicije
 
-Kao razvojni programer, možete distribuirati dodatke ili aplikacije (zajedno - „sadržaj Marketplacea“) preko Firefox Marketplacea:
+- &ldquo;Značajke marke&rdquo; znači da zaštitni nazivi, zaštitni znakovi, oznake usluge, logotipovi, nazivi domena i druge odgovarajuće značajke brenda svake strane, odgovarajuće, su vlasništvo (ili licenca) takve strane.
+- &ldquo;Firefox Marketplace&rdquo; odnosi se na našu internetsku platformu za razvojne programere radi distribucije Marketplace sadržaja krajnjim korisnicima.
+- &ldquo;Firefox OS uređaji&rdquo; odnosi se na uređaje distribuirane od strane Mozilla partnera korištenjem operativnog sustava Firefox OS koji je razvila Mozilla.
+- &ldquo;Firefox OS dodaci&rdquo; odnosi se na softver razvijen korištenjem WebExtensions koji proširuje funkcionalnost OS. Dodaci se često prikazuju kao proširenja ili dodaci.
+- &ldquo;Marketplace sadržaj&rdquo; označava aplikacije (uključujući igrice) koje su razvijene s tehnologijom otvorenog weba koje se mogu pokretati na više platformi kao i Firefox OS dodaci.
+- &ldquo;Mozilla partneri&rdquo; odnosi se na davatelje telekomunikacijskih usluga, proizvođače uređaja i distributere uređaja.
 
-- „Dodaci“ se odnose na proširenja, teme, tražilice, rječnike i jezične pakete kojima možete proširiti funkcionalnost web preglednika Firefox.
-
-- „Aplikacije“ su programi napisani s tehnologijama otvorenog weba, koje se mogu pokretati na različitim platformama.
 
 ## Uvjeti koji određuju korištenje Firefox Marketplacea
 
 Kao razvojnom programeru, Firefox Marketplace vam je dostupan kao pomoć u distribuciji vašeg sadržaja Marketplacea. Vaše korištenje Firefox Marketplacea podliježe odredbama i uvjetima ovog Ugovora s razvojnim programerom tj. dokumentu [Uvjeti korištenja Firefox Marketplacea](/media/docs/terms/hr.html)i Pravilima Firefox Marketplacea na koje ukazuje ovaj ugovor te koji su objavljeni na Firefox Marketplaceu, od kojih je svaki postao njegovim sastavnim dijelom (zajednički naziv „Uvjeti“).
+
 
 ## Prihvaćanje uvjeta
 
@@ -32,9 +37,11 @@ Korištenjem Firefox Markerplacea potvrđujete da ste punoljetni ili da djelujet
 
 Ovisno o novim rješenjima koje donosimo i novim mogućnostima Firefox Marketplacea koje predstavljamo, ovi Uvjeti mogu biti podložni promjenama. Zadržavamo pravo izmjene ovih Uvjeta prema vlastitoj ocjeni, a o svim važnim promjenama ćemo vas obavijestiti. 
 
+
 ## Pravila privatnosti Firefox Marketplacea
 
 U sklopu prijave za korištenje te korištenja usluge Firefox Marketplace u svojstvu razvojnog programera, Mozilli je potrebno dostaviti osobne podatke (poput identifikacijskih i podataka za kontakt). S vašim podacima postupamo na način opisan u dokumentu[Pravila privatnosti Firefox Marketplacea](/media/docs/privacy/hr.html). Nekim sadržajima Firefox Marketplacea upravljaju usluge trećih strana. Primjerice, služimo se uslugama trećih strana pri ocjenjivanju i obradi plaćanja aplikacija. Vi jamčite za točnost, ispravnost i ažurnost podataka koji se prosljeđuju trećim stranama. Davatelji usluga trećih strana imaju vlastita pravila privatnosti i uvjete korištenja te vas potičemo da ih proučite.
+
 
 ## Upravljanje uslugom Firefox Marketplace
 
@@ -44,19 +51,19 @@ Iako možete odrediti u Marketplaceu u kojim zemljama želite distribuirati svoj
 
 Vi snosite isključivu odgovornost za odnos s krajnjim korisnicima vašeg sadržaja Marketplacea.
 
+
 ## Plaćanja
 
-Svoj sadržaj Marketplacea možete nuditi besplatno.
-
-Ako želite naplaćivati naknadu za svoj sadržaj Marketplacea, to možete činiti koristeći integrirani sustav za obradu plaćanja Firefox Marketplacea ili vlastiti sustav za obradu plaćanja. U bilo kojem slučaju, Mozilla ne preuzima odgovornost za financijsku transakciju ili druge obveze koje se odnose na vaš sadržaj Marketplacea.
+Svoj sadržaj Marketplacea možete nuditi besplatno. Ako želite naplaćivati naknadu za svoj sadržaj Marketplacea, to možete činiti koristeći integrirani sustav za obradu plaćanja Firefox Marketplacea ili vlastiti sustav za obradu plaćanja. U bilo kojem slučaju, Mozilla ne preuzima odgovornost za financijsku transakciju ili druge obveze koje se odnose na vaš sadržaj Marketplacea.
 
 Ako želite koristiti integrirani sustav za obradu plaćanja Firefox Marketplacea, morate zatražiti račun za plaćanje s odgovarajućim integriranim procesorom plaćanja. Izraz „račun za plaćanje“ koji se ovdje koristi odnosi se na račun koji vam dodjeljuje integrirani procesor plaćanja na temelju posebnog ugovora između vas i integriranog procesora plaćanja, kojim se integrirani procesor plaćanja ovlašćuje za primanje i slanje isplata u vaše ime za sadržaj na usluzi Marketplace koji je prodan preko portala Firefox Marketplace. Naš sustav obrade plaćanja može vam ponuditi različite procesore plaćanja različitih nadležnosti - popis integriranih procesora plaćanja i njihove standardne uvjete možete pronaći[ovdje](/media/docs/pay-providers/all.html?v1). Korištenjem integriranog procesora plaćanja, u mjeri u kojoj je procesoru plaćanja potrebno kako bi mogao pružiti uslugu, ovlašćujete nas za razmjenu vaših podataka s navedenim integriranim procesorom plaćanja. Procesori plaćanja treće su strane i korištenjem njihovih usluga pristajete na suglasnost s njihovim pravilima o privatnosti i uvjetima pružanja usluga.
 
-Ako želite koristiti integrirani sustav za plaćanje Firefox Marketplacea, naplaćivat će vam se naknada za prodaju vašeg sadržaja na usluzi Marketplace krajnjim korisnicima. Pregled trenutnih naknada možete pronaći[ovdje](https://developer.mozilla.org/docs/Apps/Marketplace_Payments). Zadržavamo pravo povremenih izmjena naknada prema vlastitoj odluci.
+Ako želite koristiti integrirani sustav za plaćanje Firefox Marketplacea, naplaćivat će vam se naknada za prodaju vašeg sadržaja na usluzi Marketplace krajnjim korisnicima. Pregled trenutnih naknada možete pronaći[ovdje](https://developer.mozilla.org/docs/Apps/Marketplace_Payments). Zadržavamo pravo povremenih izmjena iznosa naknada prema vlastitoj odluci.
 
 Ako prodajete svoj sadržaj na usluzi Marketplace, odgovorni ste i za plaćanje poreza (uključujući i porez na prodaju/PDV), određivanje cijene, povrata sredstava i druge obveze plaćanja. Ako koristite integrirani sustav za plaćanje, ugrađeni procesor plaćanja može pristati preuzeti pitanja prodaje/PDV-a, odgovornost za financijsku transakciju, povrat sredstava i druge aktivnosti vezane za plaćanje. Naknade koje naplaćujete, povrate sredstva, plaćanje poreza na prodaju/PDV-a i druga pitanja koja se odnose na plaćanje ostaju isključivo između vas, procesora plaćanja i kupaca vašeg sadržaja Marketplacea.
 
 Ako koristite vlastiti sustav obrade plaćanja, Vi ili vaš procesor plaćanja odgovarate za financijsku transakciju koja se odnosi na prodaju vašeg sadržaja na usluzi Marketplace, ovisno o dogovorenom odnosu s procesorom plaćanja.
+
 
 ## Porez
 
@@ -77,27 +84,33 @@ Ako koristite integrirani sustav obrade plaćanja na usluzi Firefox Marketplace,
 
 Vi snosite isključivu odgovornost za osiguranje razumne tehnološke podrške krajnjim korisnicima te stavljanje na raspolaganje odgovarajućeg kontakta za podršku (uključujući i prikazivanje kontakta na svakoj stranici s pojedinostima sadržaja na usluzi Marketplace) u svrhe pružanja korisničke podrške. Uskraćivanje prikladne podrške za vaše sadržaje na usluzi Marketplace može imati za posljedicu loše ocjene sadržaja Marketplacea, slabiju izloženost sadržaja Marketplacea, lošu prodaju, osporavanje naplate te čak obustavljanje ili uklanjanje s portala Firefox Marketplace.
 
+
 ## Obveze povjerljivosti
 
-Ovime pristajete krajnje korisnike zaštiti zakonski odgovarajućim pravilima privatnosti koja točno opisuju prikupljanje, korištenje ili otkrivanje podataka koje vam krajnji korisnici dostave. Sve aplikacije moraju sadržavati pravila privatnosti. Dodaci trebaju imati pravila privatnosti ako se podaci o korisniku ili korištenju dodatka prikupljaju ili prenose izvan uređaja korisnika na koji su dodaci instalirani. Ovime zastupate i jamčite da se svi podaci koje vam Mozilla dostavi o korisnicima koriste isključivo u skladu s vašim pravilima privatnosti i odgovarajućim zakonima o zaštiti privatnosti i podataka.
+Ovime pristajete krajnje korisnike zaštiti zakonski odgovarajućim pravilima privatnosti koja točno opisuju prikupljanje, korištenje ili otkrivanje podataka koje vam krajnji korisnici dostave. Sve aplikacije moraju sadržavati pravila privatnosti. Ovime zastupate i jamčite da se svi podaci koje vam Mozilla dostavi o korisnicima koriste isključivo u skladu s vašim pravilima privatnosti i odgovarajućim zakonima o zaštiti privatnosti i podataka.
 
 Pristajete se osigurati da reklame predstavljene krajnjim korisnicima vašeg sadržaja Marketplacea udovoljavaju svim zahtjevima ovih Uvjeta te vašim pravilima privatnosti u skladu s odgovarajućim zakonima o zaštiti privatnosti i podataka. Primjerice, (i) umetnute reklame i vaše korištenje podataka dobivenih iz takvog oglašavanja moraju biti sukladni odgovarajućem zakonu; (ii) umetnute reklame ne smiju sadržavati špijunski ili zlonamjerni softver, ili štetne oznake te ne smiju povrijediti osobe ili oštetiti imovinu i (iii) morate osigurati razumljivu obavijest i omogućiti izbor za svako praćenje korisnika koje vodi do vas ili treće strane koja sastavlja reklame ili promidžbu za korisnike.
 
-## Prodavanje vaše aplikacije preko usluge Firefox Marketplace
+
+## Prodavanje vašeg  sadržaja preko usluge Firefox Marketplace
 
 Prilikom slanja Marketplace sadržaja na Firefox Marketplace obvezujete se da ćete pružiti ispravan proizvod, sadržaje i usluge informiranja korisnika vezano uz mogućnosti i funkcionalnost vašeg sadržaja na usluzi Marketplace te da ćete točno i ispravno otkriti sigurnosna dopuštenja i korisničke podatke potrebne za sadržaj na usluzi Marketplace kako bi mogli funkcionirati na korisničkim uređajima. Ako je bilo koji podatak o proizvodu ili usluzi netočan ili ga treba ažurirati ili izmijeniti, suglasni ste da ćete odmah napraviti takve nadopune ili izmjene. Vaš sadržaj na usluzi Marketplace ne smije ni na koji način sadržavati u sebi naznaku da je proizveden ili podržan od strane Mozille, osim ako je tako regulirano pisanim ugovorom između vas i Mozille.
 
+
 ## Ograničenja sadržaja
 
-Svaki sadržaj na usluzi Marketplace koji distribuirate preko Firefox Marketplacea mora biti u skladu sa sadržajima Mozille i drugim pravilima za razvojne programere. Naša važeća pravila možete pronaći na [kriteriji za recenziju Marketplacea](https://developer.mozilla.org/docs/Apps/Marketplace_Review). Osim toga, Firefox Marketplace zahtijeva da se sve aplikacije ocijene prema Međunarodnoj klasifikaciji za dobnu standardizaciju („IARC“). Razvojni programeri Firefox Marketplacea mogu besplatno pristupiti alatu za ocjenjivanje prema IARC protokolu, kao dio procesa slanja aplikacije. IARC je treća strana te se podrazumijeva da korištenjem njihovog ocjenjivačkog alata prihvaćate [Pravila privatnosti IARC-a](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) i [IARC-ove uvjete korištenja](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
+Svaki sadržaj na usluzi Marketplace koji distribuirate preko Firefox Marketplacea mora biti u skladu sa kriterijima za recenziju [Kriteriji za recenziju] (https://developer.mozilla.org/en-US/Marketplace/Publishing/Marketplace_review_criteria), [Kriteriji za recenziju Firefox OS dodataka](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Add-ons/Review_criteria) &#40;ako je vaš Marketplace sadržaj Firefox OS dodatak, i [Uvjeta korištenja](https://www.mozilla.org/about/legal/acceptable-use). Osim toga, Firefox Marketplace zahtijeva da se sve aplikacije ocijene prema Međunarodnoj klasifikaciji za dobnu standardizaciju („IARC“). Razvojni programeri Firefox Marketplacea mogu besplatno pristupiti alatu za ocjenjivanje prema IARC protokolu, kao dio procesa slanja aplikacije. IARC je treća strana te se podrazumijeva da korištenjem njihovog ocjenjivačkog alata prihvaćate [Pravila privatnosti IARC-a](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) i [IARC-ove uvjete korištenja](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx).
 
-## Usluga Persona i Marketplace sadržaj
 
-[Persona](https://persona.org) je Mozillin sustav za prijavu. Neki Marketplace sadržaji koriste sustav Persona prilikom provjere autentičnosti. Pružat ćemo vam potvrde o kupnji vašeg Marketplace sadržaja kada ga kupci kupe.
+## Računi
+
+[Firefox račun](https:accounts.firefox.com) potreban je za slanje Marketplace sadržaja na Firefox Marketplace. Odgovorni ste za sve aktivnosti u vašem računu i slažete se da ćete se pridržavati [Uvjeti usluge](https://www.mozilla.org/about/legal) Firefox računa i [Obavijestima o privatnosti](https://www.mozilla.org/privacy/firefox-cloud).
+
 
 ## Ocjena aplikacije i statistika
 
-Usluga Firefox Marketplace omogućuje krajnjim korisnicima koji preuzmu sadržaj s Marketplacea da isti ocijene i daju komentar. Mozilla može osigurati skupnu statistiku o korištenju vašeg sadržaja na usluzi Marketplace. Dio ovih informacija može se koristiti za određivanje plasmana Marketplace sadržaja u Firefox Marketplace i može biti javno prikazan u Firefox Marketplaceu te kroz naše API-je. Premda Mozilla ima pristup tim podacima, određene značajke Firefox Marketplacea vam omogućuju da neke neobrađene statistike zadržite u privatnosti pred drugim razvojnim programerima i korisnicima.
+Usluga Firefox Marketplace omogućuje krajnjim korisnicima koji preuzmu sadržaj s Marketplacea da ocijene i daju komentar. Mozilla može osigurati skupnu statistiku o korištenju vašeg sadržaja na usluzi Marketplace. Dio ovih informacija može se koristiti za određivanje plasmana Marketplace sadržaja u Firefox Marketplace i može biti javno prikazan u Firefox Marketplaceu te kroz naše API-je. Premda Mozilla ima pristup tim podacima, određene značajke Firefox Marketplacea vam omogućuju da neke neobrađene statistike zadržite u privatnosti pred drugim razvojnim programerima i korisnicima.
+
 
 ## Povlačenje sredstava, uklanjanje sadržaja i raskid ugovora
 
@@ -109,27 +122,36 @@ Mozilla neće održavati u bilo kojem dijelu Firefox Marketplacea bilo kakav Mar
 
 Ovi Uvjeti za vas prestaju vrijediti ako 30 dana unaprijed pošaljete Mozilli pismenu obavijest o raskidu i uklonite sve svoje Marketplace sadržaje iz Firefox Marketplacea. Sve vaše obveze koje proizlaze iz Uvjeta, a koje se odnose na vaš Marketplace sadržaj vrijedit će i nakon raskidanja Uvjeta, uključujući obveze u pogledu nepodmirenih naknada, bilo kakvih izjava i jamstava, kao i naknadu štete Mozille.
 
+
 ### Uklanjanje sadržaja koje provodi Mozilla
 
 Mozilla ima pravo (ali ne i obvezu) da, prema vlastitoj odluci, ukloni sve sadržaje koji prema opravdanim razlozima krše Mozillina pravila ili su na bilo koji način štetni ili neprimjereni.
 
-Bez ograničavanja prethodno navedenog, ako Mozilla dobije obavijest od vas ili na drugi način sazna ili prema vlastitom i razumnom nahođenju utvrdi da Marketplace sadržaj ili bilo koji njegov dio (uključujući, bez ograničenja, zaštitni znak, logotip ili druge značajke marke povezane s takvim Marketplace sadržajem): (a) krši naše [kriterije recenzije usluge Marketplace](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria) ili druga pravila Firefox Marketpacea, (b) nameće odgovornost Mozille ili bilo kome drugome; ili (c) krši Uvjete, Mozilla ima pravo spriječiti da Marketplace sadržaj bude dostupan u Marketplaceu, ukloniti Marketplace sadržaj iz Marketplacea, obilježiti, filtrirati, izmijeniti srodne materijale (uključujući snimke zaslona ili metapodatake, istovremeno ne ograničavajući se na opisima programskih elemenata), ponovno klasificirati Marketplace sadržaj, ili poduzeti druge korektivne akcije, po vlastitom nahođenju. Ako imate kakvih pitanja ili primjedbi vezanih uz uklanjanje, možete nam se obratiti putem adrese e-pošte <app-reviews@mozilla.org>.
+Bez ograničavanja navedenog, ako Mozilla dobije obavijest od vas ili na drugi način sazna ili prema vlastitom i razumnom nahođenju utvrdi da Marketplace sadržaj ili bilo koji njegov dio (uključujući, bez ograničenja, zaštitni znak, logotip ili druge značajke marke povezane s takvim Marketplace sadržajem): (a) krši naše [kriterije recenzije usluge Marketplace](https://developer.mozilla.org/en-US/Marketplace/Publishing/Marketplace_review_criteria) [Recenzija kriterija Firefox OS dodataka](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Add-ons/Review_criteria, [Uvjeti korištenja](https://www.mozilla.org/about/legal/acceptable-use)ili druga pravila Firefox Marketpacea, (b) nameće odgovornost Mozille ili bilo kome drugome; ili (c) krši Uvjete, Mozilla ima pravo spriječiti da Marketplace sadržaj bude dostupan u Marketplaceu, ukloniti Marketplace sadržaj iz Marketplacea, obilježiti, filtrirati, izmijeniti srodne materijale (uključujući snimke zaslona ili metapodatake, istovremeno ne ograničavajući se na opisima programskih elemenata), ponovno klasificirati Marketplace sadržaj, ili poduzeti druge korektivne akcije, po vlastitom nahođenju. 
 
-Mozilla može u svako doba obustaviti ili raskinuti navedene Uvjete s vama ako odluči prestati podržavati uslugu Firefox Marketplace ili smatra da ste prekršili pravila ili Uvjete.
+Ako imate kakvih pitanja ili primjedbi vezanih uz kršenje autorskih prava ili prava zaštićenih brendova, potražite više informacija [ovdje] (https://www.mozilla.org/about/legal/report-abuse/).
+
+Mozilla može u svakom trenutku obustaviti ili raskinuti navedene Uvjete s vama ako odluči prestati podržavati uslugu Firefox Marketplace ili smatra da ste prekršili pravila ili Uvjete.
+
 
 ## Licence
 
-Mozilla vas potiče da vaš Marketplace sadržaj bude dostupan pod licencom otvorenog kôda, kao što su MPL za izvorni kôd i Creative Commons licenca za kreativne radove. Mozilla je također razvila operativni sustav koji nativno može pokrenuti web aplikacije („Firefox OS“). Korištenjem operativnog sustava Firefox, Mozilla i treće strane mogu stvoriti uređaje koji se pokreću putem Firefox OS („Firefox OS uređaji“). Ovime, bez naknade, dodjeljujete Mozilli i njezinim pridruženim tvrtkama neisključivu, širom svijeta prenosivu podlicencu i sva prava potrebna kako bi Marketplace sadržaj mogao biti dostupan u Firefox Marketplaceu i Firefox OS uređajima. Navedena licenca uključuje, ako je primjenjivo, pravo (ali ne i obvezu) da se takav Marketplace sadržaj unaprijed učita u Firefox OS uređaje i omogući njegovo korištenje putem usluga dostupnih putem Firefox OS uređaja.
+Mozilla vas potiče da vaš Marketplace sadržaj bude dostupan pod licencom otvorenog koda, kao što su MPL za izvorni kod i Creative Commons licenca za kreativne radove. 
 
-Mozilla i Vi, morate posjedovati sva prava, ovlaštenja i interese, uključujući bez ograničenja sva prava intelektualnog vlasništva, koja se odnose na značajke marke. Pod pojmom „Značajke marke“ podrazumijeva se zaštitno nazivlje, zaštitni znakovi, znakovi usluga, logotipi, imena domena i druge prepoznatljive autorske značajke svake stranke, odnosno, u vlasništvu (ili zaštićeno licencom) preko dotične strane. Nijedna strana ne dodjeljuje, niti druga strana stječe kakvo pravo, ovlaštenje ili interes (uključujući bez ograničenja bilo kakvu podrazumijevanu licencu) ili bilo koje značajke marke druge stranke, osim u ograničenoj mjeri izričito navedenoj u ovim uvjetima. U skladu s ovim uvjetima, Mozilli i njezinim pridruženim tvrtkama dodjeljujete ograničenu, neisključivu licencu za prikaz vaše marke i njezinih značajki tijekom korištenja u Firefox Marketplaceu. Ništa u ovim Uvjetima ne daje vam pravo na korištenje bilo kojeg zaštitnog nazivlja, zaštitnih znakova, znakova usluga, logotipa, naziva domena, ili drugih prepoznatljivih autorskih značajki Mozille.
+Ovime, bez naknade, dodjeljujete Mozilli i njezinim pridruženim tvrtkama neisključivu, širom svijeta prenosivu podlicencu i sva prava potrebna kako bi Marketplace sadržaj i povezane značajke brenda mogle biti dostupne u Firefox Marketplaceu, nezavisnim tržištima i svim uređajima koji podržavaju Marketplace sadržaj. 
+Da bi bilo jasnije, ne ograničavajući se na navedeno, ova dozvola znači da možemo distribuirati i promovirati Vaš Marketplace sadržaj (a) kako bi ga korisnici mogli direktno otkriti i instalirati s Firefox Marketplacea, (b) kako bi bio dostupan za preuzimanje/distribuciju s tržišta nezavisnih pružatelja usluga i kako bi ga korisnici s tih tržišta koja distribuiraju Marketplace sadržaj mogli otkriti i instalirati, i (c) kako bi ga partneri tvrtke Mozilla prethodno učitali na uređajima s Firefox OS, i stavili ga na raspolaganje kao prethodno učitan sadržaj na tim uređajima s Firefox OS. Marketplace sadržaj može biti dostupan na bilo kojoj platformi koja može pokrenuti otvorene web tehnologije na raznim uređajima, kao što su telefoni, tableti, stolna računala i TV-aparati.
+
+Ovim dajete partnerima tvrtka Mozilla neekskluzivnu licencu primjenjivu u cijelom svijetu, bez autorskih naknada i koju je moguće podlicencirati i prenositi, po svim Vašim pravima koja su potrebna, da na raspolaganje stavi Vaš Marketplace sadržaj i sve značajke brenda u vezi s Firefox Marketplaceom, tržištima nezavisnih pružatelja usluga i Uređajima koji podržavaju Marketplace sadržaj. Navedena licenca uključuje, ako je to primenjivo, pravo (ali ne i obvezu) Mozillinih partnera na prethodno učitavanje dotičnog Marketplace sadržaja na uređajima s Firefox OS i osiguravanje Marketplace sadržaja u vezi s uslugama koje su na raspolaganju preko uređaja sa Firefox OS.
+
+Ovim dajete Mozilli, njenim pridruženim društvima i partnerima kao i njihovim partnerima, neekskluzivnu licencu primjenjivu u cijelom svijetu, bez autorskih naknada i koju je moguće podlicencirati, da koriste značajke brenda vezane uz Marketplace sadržaj u marketinškim, prodajnim i promotivnim materijalima u vezi s Marketplace sadržajem. 
+
+
+Mozilla i Vi, morate posjedovati sva prava, ovlaštenja i interese, uključujući bez ograničenja sva prava intelektualnog vlasništva, koja se odnose na značajke marke. Nijedna strana ne dodjeljuje, niti druga strana stječe kakvo pravo, ovlaštenje ili interes (uključujući bez ograničenja bilo kakvu podrazumijevanu licencu) ili bilo koje značajke marke druge stranke, osim u ograničenoj mjeri izričito navedenoj u ovim uvjetima.. Ništa u ovim Uvjetima ne daje vam pravo na korištenje bilo kojeg zaštitnog nazivlja, zaštitnih znakova, znakova usluga, logotipa, naziva domena, ili drugih prepoznatljivih autorskih značajki Mozille.
 
 ## Promidžba
 
-Mozilla i njezine pridružene tvrtke smiju koristiti značajke vaših marki, snimke zaslona, videozapise i demonstracije vašeg Marketplace sadržaja kao i bilo koji sadržaj unutar vašeg Marketplace sadržaja ili je njemu priključen, a koji je isporučen kroz prezentacije, marketinške materijale, marketinške događaje, razvojne događaje, financijska izvješća, web-oglase (uključujući i poveznice na vaše mrežno mjesto), priopćenja za javnost, kao i popise korisnika (što uključuje, bez ograničenja, popis korisnika objavljen na internetskim stranicama Mozille) za potrebe marketinga Firefox Marketplacea, proizvoda i usluga Mozille ili reklamiranja vašeg Marketplace sadržaja.
+Mozilla,njezine pridružene tvrtke ili Mozillini partneri smiju koristiti značajke vaših marki, snimke zaslona, videozapise i demonstracije vašeg Marketplace sadržaja kao i bilo koji sadržaj unutar vašeg Marketplace sadržaja ili je njemu priključen, a koji je isporučen kroz prezentacije, marketinške materijale, marketinške događaje, razvojne događaje, financijska izvješća, web-oglase (uključujući i poveznice na vaše mrežno mjesto), digitalnu i tiskanu komunikaciju (kao što su društveni mediji, bilteni, blogovi, web stranice, izjave za tisak, brošure itd.),  popise korisnika (između ostalog, popis korisnika objavljen na internetskim stranicama Mozille) za potrebe marketinga Firefox Marketplacea, Firefox OS, proizvoda i usluga Mozille ili reklamiranja vašeg Marketplace sadržaja.
 
-## Dodaci Firefox Sync
-
-Ako vaš Marketplace sadržaj koristi bilo koji API za sinkronizaciju ili softver Firefoxa, slažete se: (a) da ćete Vi i vaš Marketplace sadržaj koristiti API za sinkronizaciju Firefoxa isključivo u skladu s predviđenom namjenom, (b) da vaš Marketplace sadržaj neće sakriti ili prikriti svoj identitet dok koristi Mozillinu uslugu Firefox Sync i/ili API-Sync Firefox te da će se pridržavati potrebne konvencije o identifikaciji, i (c) da Vi ili vaš Marketplace sadržaj nećete za sinkronizaciju API Firefoxa koristiti program ili uslugu koja korisnika pokušava dovesti u zabludu (uključujući pokušaj repliciranja iskustva usluge Mozilla Firefox Sync).
 
 ## Izjave i jamstva
 
@@ -156,7 +178,7 @@ Ako bilo koja treća strana iznosi tužbu protiv Mozille vezano s vašim korišt
 
 ## Opći pravni uvjeti
 
-Ovi Uvjeti predstavljaju cjelovit ugovor između Vas i Mozille i reguliraju vaše korištenje Firefox Marketplacea i potpuno zamjenjuju sve prethodne ugovore između vas i Mozille u odnosu na Firefox Marketplace. Ništa u ovim Uvjetima ne podrazumijeva da vam dajemo bilo kakvo pravo korištenja zaštitnih znakova, zaštitnog nazivlja, oznaka usluga, ukupnih predodžbi o proizvodima Mozille ili njezinih davatelja licenci te Mozilla ovime zadržava sva prava, vlasništvo i utjecaj nad proizvodom. Za više informacija o našim zaštitnim znakovima, pogledajte naš zaštitni znak i pravila korištenja logotipa.
+Ovi Uvjeti predstavljaju cjelovit ugovor između Vas i Mozille i reguliraju vaše korištenje Firefox Marketplacea i potpuno zamjenjuju sve prethodne ugovore između vas i Mozille u odnosu na Firefox Marketplace, osim ako imate posebno ugovoreni i potpisani ugovor s Mozillom o Firefox Marketplaceu ("Prilagođeni ugovor"). Ništa u ovim Uvjetima ne podrazumijeva da vam dajemo bilo kakvo pravo korištenja zaštitnih znakova, zaštitnog nazivlja, oznaka usluga, ukupnih predodžbi o proizvodima Mozille ili njezinih davatelja licenci te Mozilla ovime zadržava sva prava, vlasništvo i utjecaj nad proizvodom. Za više informacija o našim zaštitnim znakovima, pogledajte naš zaštitni znak i pravila korištenja logotipa.
 
 Slažete se da, ako Mozilla ne iskoristi ili primijeni neko zakonsko pravo ili pravni lijek koji se nalaze u ovim uvjetima (ili na kojeg Mozilla ima pravo u sklopu bilo kojeg mjerodavnog propisa), to nećete smatrati formalnim odricanjem prava Mozille te da su ta prava i pravni lijekovi i nadalje na raspolaganju Mozilli.
 
@@ -164,9 +186,14 @@ Ako bilo koji sud, koji je nadležan za odlučivanje o tom pitanju, odluči da j
 
 OGRANIČENJA IZVOZA. VAŠA DISTRIBUCIJA MARKETPLACE SADRŽAJA U FIREFOX MARKETPLACEU MOŽE PODLIJEGATI ZAKONIMA I PROPISIMA SAD-a O IZVOZU. MORATE SE PRIDRŽAVATI SVIH DOMAĆIH I MEĐUNARODNIH IZVOZNIH ZAKONA I PROPISA KOJI SE PRIMJENJUJU ZA VAŠU DISTRIBUCIJU MARKETPLACE SADRŽAJA. OVI ZAKONI UKLJUČUJU OGRANIČENJA O DESTINACIJAMA, KORISNICIMA I KRAJNJEM KORIŠTENJU.
 
+Ako ste dobili prevedeni primjerak engleske verzije ovih Uvjeta, slažete se da vam je ovaj prevedeni primjerak omogućen samo radi pogodnosti. U slučaju da se prevedeni primjerak ne slaže s verzijom ovih Uvjeta na engleskom jeziku, verzija na engleskom jeziku imat će prioritet.
+
+Ako ste preveli kopiju verzije na engleskom jeziku ovih uvjeta koja vam je isporučena, slažete se da vam je takva prevedena kopija dana samo kao informacija. Radi izbjegavanja sukoba u kopiranoj verziji engleskog jezika ovih uvjeta, engleska verzija se smatra valjanom.
+
 Prava iz ovih Uvjeta ne mogu se dodijeliti ili prenijeti s vašeg imena bez prethodnog pismenog odobrenja Mozille. Nije dopušteno prenijeti svoje odgovornosti ili obveze iz ovih Uvjeta bez prethodnog pisanog odobrenja Mozille.
 
 ## Mjerodavni zakon i nadležnost
 
 OVI UVJETI I VAŠ ODNOS S MOZILLOM POD OVIM UVJETIMA BIT ĆE REGULIRANI ZAKONIMA DRŽAVE KALIFORNIJE U SAD-u BEZ OBZIRA NA SUKOB ZAKONSKIH ODREDBI. Vi i Mozilla pristajete na isključivu nadležnost sudova u okrugu Santa Clara (Kalifornija) za rješavanje svih pravnih pitanja koja proizlaze iz ovih Uvjeta. Neovisno o tome, sporazumni ste da Mozilla i nadalje ima pravo podnijeti zahtjev za sudski pravni lijek (ili ekvivalentnu hitnu pravnu potporu) u bilo kojem zakonodavstvu.
+
 
