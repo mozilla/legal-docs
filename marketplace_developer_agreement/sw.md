@@ -1,190 +1,198 @@
-Toleo hili la Makubaliano ya Msanidi program litaanza kufanya kazi mnamo Aprili 15, 2015
+﻿Toleo hili la Makubaliano ya Waendelezaji litaanza kutumika tarehe 2 November, 2015
 
-Sehemu hii ni muhtasari wa masharti ya hapa chini. Umetolewa ili kusaidia kuelewa kwako - lakini hakikisha umesoma waraka wote, kwa sababu unapokubaliana kwayo, unaashiria unakubali masharti yote, sio muhtasari huu tu:
+Ikiwa unawasilisha programu-nyongeza ya OS (imefafanuliwa hapa chini), mafungu yanayofuata ya Makubaliano ya Waendelezaji hayatumiki kwako: Malipo, Kodi, na Marejesho ya Fedha. 
 
-1. Lazima uwe angalau na umri wa miaka18 ili kuwa Msanidi programu wa Maudhui ya Soko au kuna ridhaa ya mzazi, kusimamia na kuingiliana na huduma zetu kwa niaba yako.
-2. Lazima uzingatie masharti na sera zote zinazotekelezwa, ikijumuisha maelekezo katika faragha na maudhui.
-3. Tunaweza kuondoa Maudhui ya Soko kutoka kwenye Soko la Firefox iwapo tutayapata kuwa ya uharibifu au yenye pingamizi au iwapo yanakiuka sera au Masharti yetu haya.
-4. Unawajibika tu kwa Maudhui ya Soko lako, ambayo humaanisha unawajibika kwa kanuni za kuhamisha, uzingatiaji wa sheria, kurejeshewa pesa na auni. Iwapo utauza Maudhui yako ya Soko, pia unawajibika kwa kodi, kuweka bei, na kurejesha pesa. Iwapo utatumia mfumo wetu jumuishi wa malipo, wachakataji wa malipo jumuishi wanaweza kukubali kuuza katika kurejeshewa fedha kwenye uuzaji/VAT na masuala mengine yanayohusiana kwako.
-5. Usifanye jambo lolote kinyume cha sheria au ambalo linawe kutuumiza au wengine.
-6. Hatuwajibikii matumizi yako ya Eneo la soko la Firefox, maudhui yako ya Eneo la soko, au vitendo vya watumiaji wengine, pamoja na wasanidi programu wengine.
-7. Utawajibika kwa Maudhui ya Soko lako na matumizi au matumizi yako mabaya ya Soko la Firefox.
+Fungu hili la juu ni muhtasari wa masharti yaliyo hapa chini. Limetolewa kukusaidia kuelewa - lakini hakikisha unasoma hati nzima, kwa sababu unapokubaliana nayo, unakubali hati nzima, sio muhtasari huu tu.
+
+1. Lazime uwe na umri wa miaka 18 kuwa Mwendelezaji wa Maudhui ya Soko au wazazi wako wakubali, wasimamie, na wawasiliane na huduma zetu kwa niaba yako.
+2. Lazima utii masharti na sera zote husika, ikiwa ni pamoja na miongozo inayohusu sera na maudhui.
+3. Tutaondoa Maudhui yako ya Soko kutoka kwa Soko la Firefox ikiwa tutayaona kama ya kudhuru au kuchukiza au ikiwa unakiuka sera zetu au masharti haya.
+4. Una wajibu wa kipekee wa Maudhui yako ya Soko, yaani unawajibika kwa kanuni za uhamishaji, utiifu wa sheria, marejesho ya fedha, na usaidizi. Ikiwa unauza Maudhui yako ya Soko, pia unawajibika kwa kodi, bei, na marejesho ya fedha. Ikiwa unatumia mfumo wetu wa malipo uliounganishwa, wachakataji wa malipo waliounganishwa wanaweza kukubali kushughulikia mauzo/kodi ya nyongeza ya thamani, na masuala mengine yanayohusiana na malipo.
+5. Usifanye kitu chochote kinyume na sheria au kinachoweza kutudhuru au kuwadhuru watu wengine.
+6. Hatuwajibiki kwa matumizi yako ya Soko la Firefox, Maudhui yako ya Soko, au hatua za watumiaji wengine, ikiwa ni pamoja na waendelezaji.
+7. Utawajibika kwa Maudhui yako ya Soko na matumizi yako au matumizi yako mabaya ya Soko la Firefox.
 
 ## Utangulizi
 
-Shirika la Mozilla (&ldquo;Mozilla&rdquo;, &ldquo;sisi&rdquo; au &ldquo;kampuni&rdquo;), inayopatikana katika 331 E. Evelyn Avenue, Mountain View, CA 94041, Marekani, imejitolea kukuza chaguo na uvumbuzi kwenye wavuti. Kufikia hapa, tuliunda &ldquo;Soko la Firefox&rdquo;&ndash; tovuti inayopatikana kwa umma inayokuruhusu kusambaza Maudhui yako ya Soko kwa watumiaji kwa matumizi ya vifaa vyao.
+Shirika la Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldquo;we&rdquo;), lenye makao yake katika 331 E. Evelyn Avenue, Mountain View, CA 94041, Marekani, limejitolea kukuza uwezo wa kuchagua na ubunifu mtandaoni. Kutimiza jambo hilo, tuliunda &ldquo;Soko la Firefox&rdquo; &ndash;  tovuti inayopatikana kwa umma inayokuruhusu kusambaza Maudhui yako ya Soko kwa watumiaji kutumia kwenye vifaa vyao.
 
 ## Ufafanuzi
 
-- &ldquo;Vipengele vya Chapa&rdquo; humaanisha majina ya biashara, alama za biashara, alama za huduma, nembo, majina ya vikoa na vipengele vingine vya chapa tofauti vya kila shirika, mtawalia, kama inavyomilikiwa (au kupewa leseni) na shirika hilo kila mara.
-- &ldquo;Soko la Firefox&rdquo; hurejelea jukwaa letu la mtandaoni kwa wasanidi programu kusambaza Maudhui ya Soko kwa watumiaji wa mwisho.
-- &ldquo;Vifaa vya Mfumo wa Uendeshaji wa Firefox&rdquo; rhurejelea vifaa vilivyosambazwa na Washirika ya Mozilla kwa kutumia Mfumo wa Uendeshaji wa Firefox uliozinduliwa na Mozilla.
-- &ldquo;Maudhui ya Soko&rdquo; mhumaanisha programu na michezo ambayo imezinduliwa na teknolojia za wavuti wazi ambazo zinaweza kuendesha kwa majukwaa anuwai.
-- &ldquo;Mozilla Partners&rdquo; means providers of telecommunication services, device manufacturers, and device distributers.
+- &ldquo;Vipengele vya Chapa&rdquo; inamaanisha majina ya biasahra, alama za biashara, alama za huduma, nembo, majina ya vikoa, na vipengele vingine mtofauti vya chapa vya kila mhusika, mtawaliwa, kama inavyomilikiwa (au kutoa leseni) na mshiriki kama huyo mara kwa mara.
+- &ldquo;Soko la Firefox&rdquo; linamaanisha jukwaa letu mtandaoni la waendelezaji kusambaza Maudhui ya Soko kwa watumiaji wanaolengwa.
+- &ldquo;Vifaa vya Firefox OS&rdquo; inamaanisha vifaa vinavyosambazwa na Wabia ya Mozilla kwa kutumia programu endeshi ya Firefox OS iliyoundwa na Mozilla.
+- &ldquo;Programu-nyongeza za Firefox OS&rdquo; inamaanisha programu zilizoundwa kwa kutumia Matawi ya Tovuti yanayotumiwa kukuza utendaji wa Firefox OS. Programu-nyongeza pia zinajulikana kama matawi au programu-jalizi.
+- &ldquo;Maudhui ya Soko&rdquo; inamaanisha programu (ikiwa ni pamoja na michezo) zinazoundwa kwa teknolojia huria ya tovuti inayoweza kuendeshwa katika majukwaa tofuati pamoja na Nyongeza za Firefox OS.
+- &ldquo;Wabia wa Mozilla&rdquo; inamaanisha watoa huduma za mawasiliano, watengenezaji wa vifaa, na wasambazaji wa vifaa.
 
 
-## Masharti Yanayolinda Matumizi Yako ya Soko la Firefox
+## Masharti Yanayosimamia Matumizi Yako ya Soko la Firefox
 
-Kama msanidi programu, umekaribishwa kutumia Soko la Firefox ili kuwezesha usambazaji wa Maudhui yako ya Soko. Matumizi yako ya Soko la Firefox yanategemea sheria na masharti ya Makubaliano haya ya Msanidi programu, Masharti ya Matumizi ya [Soko la Firefox](/media/docs/terms/en-US.html) na sera za Soko la Firefox zilizorejelewa kwenye mkataba huu na kuchapishwa kwenye Soko la Firefox (kwa pamoja, &ldquo;Masharti&rdquo;), ambayo kila moja yameshirikishwa hapa ndani na marejeleo.
+Kama mwendelezaji, unakaribishwa kutumia Soko la Firefox kurahisisha Maudhui yako ya Soko. Matumizi yako ya Soko la Firefox yanategemea masharti na makubaliano ya Makubaliano haya ya Waendelezaji, Soko la Firefox [Masharti ya Matumizi] (/media/docs/terms/en-US.html) na sera za Soko la Firefox zilizotajwa katika makubaliano haya na kuchapishwa katika Soko la Firefox (kwa pamoja, &ldquo;Masharti&rdquo;), yote ambayo yamejumuishwa hapa kama marejeleo.
 
 
-## Kukubaliwa kwa Masharti
+## Kukubali Masharti
 
-Kwa kutumia Soko la Firefox, unakubali kuwa uko na angalau umri wa miaka 18 au unatenda kwa ridha na usimamizi wa mzazi wako; na una nguvu, uwezo na mamlaka kamili ya kukubali Mashati hayakwa niaba yako mwenyewe, au iwapo inatekelezwa, mwajiri wako au shirika jingine unalowakilisha.
+Kwa kutumia Soko la Firefox, unakubali kwamba una angalau umri wa miaka 18 na unatenda kwa kubali na usimamizi wa mzazi wako; na una uamuzi, uwezi, na mamlaka kamili kukubali Masharti haya kwa niaba yako mwenywe, ikiwa inatumika, mwajiri wako au shirika lingine unalowakilisha.
 
-Tunavyovumbua na kuanzisha vipengele vipya kwa Soko la Firefox, Masharti haya yanaweza kuhitaji kubadilika. Tunahifadhi haki ya kubadilisha Masharti haya kwa busara yetu pekee na iwapo tunafanya mabadiliko ya nyenzo, tutakupa ilani.
+Tunapendelea kukua na kuleta vipengele vipya kwa Soko la Firefox, Masharti haya huenda yakabadilika. Tuna haki ya kubadilisha Masharti haya kwa hairi yetu na tukifanya mabadiliko muhimu, tutakuarifu.
 
 
 ## Sera ya Faragha ya Soko la Firefox
 
-Utahitajika kutoa maelezo kujihusu (kama vile maelezo ya utambulisho au mwasiliani) kwa Mozilla kama sehemu ya usajili wako kwa na matumizi ya Soko la Firefox kama Msanidi programu.  Tutashughulikia maelezo yako kama tuvyofafanua kwenye [Ilani ya Faragha ya Soko la Firefox](/media/docs/privacy/en-US.html).  Vipengele fulani vya Soko la Firefox vinaendeshwa na huduma nyingine. Kwa mfano, tunatumia watoaji wengine kuzalisha ukadiriaji wa programu na kuchakata malipo ya programu. Unakubali kuwa maelezo yoyote yaliyotolewa kwa mtoaji huyu mwengine kila mara yatakuwa sahihi, sawa na ya sasa. Watoa huduma wengine wana sera yao wenyewe ya faragha na masharti ya matumizi, na unahimizwa kuyasoma.
+Utahitajika kutoa taarifa inayokuhusu (kama vile utambulisho au taarifa ya mawasiliano) kwa Mozilla kama sehemu ya usajili wako kwa na matumizi ya Soko la Firefox kama Mwendelezaji.  Tutashughulikia taarifa yako kama ilivyofafanuliwa katika [Notisi ya Sera ya Soko la Firefox](/media/docs/privacy/en-US.html).  Vipengele fulani vya Soko la Firefox vinaendeshwa na huduma za watu wa tatu. Kwa mfano, tunatumia watu wa tatu kutengeneza makadirio ya programu na kuchakata malipo ya programu. Unakubali kwamba taarifa yoyote inayotolewa kwa watu hawa wa tatu itakuwa sahihi na iliyosasishwa wakati wote. Watu wa tatu wana sera zao za faragha na masharti ya matumizi, na inapendekezwa uyasome.
 
 
-## Udhibiti wa Soko la Firefox
+## Usimamizi wa Soko la Firefox
 
-Kama kati yako na Mozilla, unawajibika pekee yako kwa Maudhui yako ya Soko. Kwa sababu tunahitaji kuweza kudhibiti Soko la Firefox (ikijumuisha kuzuia matumizi mabaya), ujumuishaji na uonyeshaji wa Maudhui yoyote ya Soko kwenye Soko la Firefox ni katika mwelekeo wa Mozilla pekee. Mozilla, jumuiya yake, au watoa huduma wengine wa Mozilla wakati wowote wanaweza kuhakiki na kujaribu Maudhui yako yoyote ya Soko kwa uzingatiaji wa Masharti haya na sera nyingine zinazotekelezwa.
+Kati yako na Mozilla, una wajibu wa kipekee wa Maudhui yako ya Soko. Kwa sababu tunahitaji kuweza kudhibiti Soko la Firefox (ikiwa ni pamoja na kuzuia matumizi mabaya), ujumuishaji na uonyeshaji wa Maudhui yoyote ya Soko katika Soko la Firefox ni kwa uamuzi wa Mozilla peke yake. Wakati mwingine Mozilla, jamii yako, au watoa huduma wake watu wa tatu huenda wakakagua au kujaribu Maudhui yoyote yako ya Soko kwa uzingatiaji wa Masharti na sera zozote zingine husika.
 
-Ingawa unaweza kubainisha duka la nchi ipi ungependa kusambaza Maudhui yako ya Soko, unakubali kuwa Soko la Firefox limebuniwa kufikiwa kwenye vifaa vyovyote ambavyo vinaweza kuendesha teknolojia ya wavuti wazi na kwa sasa hairuhusu uteuzi wa uwasilishaji wa Maudhui ya Soko kwa vifaa maalum.
+Ingawa unaweza kusema ni duka gani ungependa kusambaza Maudhui yako ya Soko, unakiri kwamba Soko la Firefox limeundwa kufikiwa kwenye vifaa vyovyote vunavyoweza kuendesha teknolojia huria ya tovuti na kwa sasa hairuhusu uchaguzi wa uwasilishaji wa Maudhui ya Soko kwenye vifaa mahsusi.
 
-Wewe pekee unawajibika kwa uhusiano kati yako na watumiaji wa mwisho wa Maudhui yako ya Soko. 
+Una wajibu wa kipekee kwa uhusiano kati yako na watumiaji wanaolengwa wa Maudhui yako ya Soko. 
 
 
 ## Malipo
 
-Unaweza kuchagua kutoa Maudhui yako ya Soko bila malipo. Iwapo ungependa kutoza ada kwa Maudhui yako ya Soko, unaweza kufanya hivyo kwa kutumia mfumo wa uchakataji uliounganishwa kwenye Soko la Firefox au kwa kutumia mfumo wako mwenyewe wa uchakataji wa malipo. Katika kesi yoyote, Mozilla haichukui biashara yoyote ya rekodi au wajibu mwingine kwa kuzingatia Maudhui yako ya Soko.
+Unaweza kuchagua kutoa Maudhui yako ya Soko bila malipo. Ikiwa ungependa kutoza ada kwa Maudhui yako ya Soko, unaweza kufanya hivyo kwa aidha kutumia mfumo wa uchakataji  wa malipo uliounganishwa wa Soko la Firefox au kutumia mfumo wako binafsi wa uchakataji wa malipo. Katika hali yoyote, Mozilla haihifadhi rekodi zozote za wafanyabiashara au wajibu mwingine kuhusu Maudhui yako ya Soko.
 
-Iwapo utachagua kutumia mfumo wa uchakataji wa malipo uliounganishwa kwenye Soko la Firefox, utahitaji kujisajili kwa akaunti ya malipo kwa mchakataji wa malipo anayeaminika kutumiwa. Kama ilivyotumika hapa, akaunti ya malipo ya &ldquo;humaanisha&rdquo; kaunti iliyotolewa na mchakataji wa malipo aliyeunganishwa kwako kwa kutofautisha makubaliano kati yako na mchakataji huyo wa malipo aliyeunganishwa, ambayo inatoa amri kwa mchakataji wa malipo aliyeunganishwa kukusanya na kuwasilisha malipo kwa niaba yako kwa Maudhui ya Soko yaliyouzwa kwa Soko la Firefox. Mfumo wetu wa uchakataji wa malipo unaweza kukupa wachakataji tofauti wa malipo katika mamlaka tofauti – orodha ya wachakataji wa malipo waliounganishwa na masharti wastani [yanapatikana hapa](/media/docs/pay-providers/all.html?v1). Unapotumia mchakataji wa malipo aliyeunganishwa, kwa kiwango kinachohitajika kwa mchakataji huyo wa malipo kukutolea huduma, unatuamrisha kushiriki maelezo yako na mchakataji huyo wa malipo aliyeunganishwa.  Wachakataji wa Malipo ni watu wengine, na kwa kutumia huduma zao, unakubali kutii Sera zao za Faragha na Sheria na Masharti.
+Ukiamua kutumia mfumo wa uchakataji wa malipo uliounganishwa wa Soko la Firefox, utahitaji kujisajili kwa akaunti ya amlipo na mchakataji husika wa malipo aliyeunganishwa. Kama inavyotumiwa hapa &ldquo;akaunti ya malipo&rdquo; inamaanisha akaunti iliyotolewa kwako na mchakataji wa malipo aliyeunganishwa kufuatia makubaliano tofauti kati yako na mchakataji huyo wa malipo aliyeunganishwa, yanyaomwidhibisha mchakataji wa malipo aliyeunganishwa kukusanya na kutuma pesa kwa niaba yako kwa Maudhui ya Soko yaliyouzwa kupitia Soko la Firefox. Mfumo wetu wa kuchakata malipo unaweza kukupa wachakataji tofauti wa malipo katika maeneo tofauti - orodha ya wachakataji wa malipo walioungansihwa na masharti yao ya kawaida [yanapatikana hapa](/media/docs/pay-providers/all.html?v1). Unapotumia mchakataji wa malipo aliyeunganishwa, kwa kiwango kinachohitajika kwa mchakataji huyo wa malipo kukuhudumia, unatuidhinishwa kushiriki taarifa yako na mchakataji huyo wa malipo aliyeunganishwa.  Wachakataji wa Malipo ni watuwa tatu, na kwa kutumia huduma zao, unakubali kutii Sera zao za Faragha na Masharti ya Huduma.
 
-Iwapo utachagua kutumia mfumo wa malipo uliounganishwa kwa Soko la Firefox, pia utatozwa ada ya muamala kwa ununuzi wa mtumiaji wa mwisho wa Maudhui ya Soko. Unaweza kupata ratiba ya ada zetu za sasa
-katika <https://developer.mozilla.org/docs/Apps/Marketplace_Payments>. Tunahifadhi haki ya kurekebisha ada kila mara katika busara yetu pekee.
+Ukichagua kutumia mfumo wa malipo uliounganishwa wa Soko la Firefox, basi utatuozwa ada ya mualama kwa ununuzi kutoka kwa watumiaji wanaolengwa wa Maudhui yako ya Soko. Unaweza kupata ratiba yetu ya ada ya sasa
+katika <https://developer.mozilla.org/docs/Apps/Marketplace_Payments>. Tunahifadhi haki ya kubadilisha ada hivi mara kwa mara kwa hiari yetu peke yake.
 
-Iwapo utauza Maudhui yako ya Soko, pia utawajibika kwa ushuru (ikijumuisha ushuru wa mauzo/VAT), uwekaji bei, kurejeshewa fedha na wajibu mwingine wa malipo. Iwapo utatumia mfumo wa malipo uliounganishwa, mchakataji wa malipo aliyeunganishwa anaweza kukubali kuchukua kwa mauzo/VAT, rekodi za biashara, kurejeshewa fedha na masuala mengine ya malipo yanayohusiana kwa niaba yako. Ada unazotoza, kurejesha fedha, ushuru wa mauzo/VAT unayodaiwa na masuala mengine yanayohusiana na malipo ni ya pekee kati yako, mchakati huyo wa malipo na wanunuzi wa Maudhui yako ya Soko.
+Ikiwa unauza Maudhui yako ya Soko, una wajibu wa kodi (ikiwa ni pamoja na kodi ya mauzi/kodi ya nyongeza ya thamani, bei, marejesho ya fedha, na wajibu wowote mwingino wa malipo. Ikiwa unatumia mfumo wa malipo uliounganishwa, mchakataji wa malipo aliyeunganishwa anaweza kukubali kushughulikia mauzo/kodi ya nyongeza ya thamani, rekodi za wafanyabiashara, marejesho ya fedha, na masuala mengine yanayohusiana na malipo. Ada unazolipisha, marejesho ya fedha, mauzo/kodi yanyongeza ya thamani unayodaiwa, na masuala mengine yanayohusiana na malipo ni kati yako, mchakataji huyo wa malipo, na mnunuzi wa Maudhui yako ya Soko.
 
-Iwapo utatumia mfumo wako mwenyewe wa uchakataji wa malipo, wewe au mchakataji wako wa malipo mtakuwa rekodi ya biashara kwa mauzo ya Maudhui yako ya Soko, kuzingatia uhusiano wako na mchakataji wako wa malipo.
-
-
-## Ushuru
-
-Kwa kuwa wewe, sio Mozilla, unauza Maudhui yako ya Soko kwa watumiaji wa mwisho wa Soko la Firefox, unawajibika kwa kutambua iwapo kutoza ada kwa mtumiaji kwa kupakua Maudhui ya Soko kunatozwa ushuru na kiwango cha ushuru kinachotekelezwa. Kwa kuongezea, unawajibika kuondoa ushuru kwenye mamlaka sahihi ya kutoza ushuru kulingana na mwamala. 
-
-Iwapo utatumia mfumo wa uchakataji wa malipo uliounganishwa kwenye Soko la Firefox, wachakataji wa malipo waliounganishwa wanaweza kutoa huduma ili kutambua na kuondoa mauzo na/au ushuru wa VAT kwa niaba yako. Mozilla haina wajibu wowote wa ushuru kwako kwa kuzingatia Maudhui yoyote ya Soko, yakijumuisha bila vizuizi vya wajibu wa kufuatilia na kuchakata malipo, kuhalalisha vipakuliwa vilivyolipiwa au vilivyolipiwa awali, kudumisha rekodi za malipo, au kulipa, kuripoti, au kutoza mauzo, kutumia au kutekeleza ushuru. Tafadhali ona Maswali ya Mozilla [ya Ushuru Yanayoulizwa Kila mara](https://developer.mozilla.org/docs/Apps/Marketplace_Payments/Tax_FAQ) kwa maelezo zaidi na uhakikishe kupata ushauri kutoka kwa mwanasheria au bodi ya ushuru ili kutambua iwapo unahitaji kukusanya na kutoa ushuru.
+Ukitumia mfumo wako mwenyewe wa uchakataji wa malipo, wewe au mchakataji wako wa malipo atakuwa mfanyabiashara katika rekodi kwa mauzo ya Maudhui yako ya Soko, kulingana na uhusiano wako na mchakataji wako wa malipo.
 
 
-## Kurejesha fedha
+## Kodi
 
-Unawajibika kwa kurejesha fedha, gharama au malipo mengine yoyote kurudi kwa mnunuzi wa Maudhui yako ya Soko ili kuzingatia sheria zinazotekelezwa. Iwapo unatumia mfumo wa kuchakata malipo yaliyounganishwa kwenye Soko la Firefox, unatoa ridhaa kwa yafuatayo:
+Kwa sababu ni wewe, na sio Mozilla, unayeuza Maudhui yako ya Soko kwa watumiaji wanaolengwa wa Soko la Firefox&rsquo;, una wajibu wa kuamua kama ada unayotoza mtumiaji kwa upakuzi wa Maudhui ya Soko inalipishwa kodi na kiwango cha kodi husika. Zaidi ya haiyo, una wajibu wa kulipa kodi kwa mamlaka husika ya kodi kulingana na muamala. 
 
-1. Unaidhinisha Mozilla na washirika wetu kumpa mnunuzi fedha zote za bei ya Maudhui ya Soko kwa niaba yako iwapo mnunuzi ataomba kurejeshewa fedha ndani ya dakika 30 baada ya ununuzi au zaidi (iwapo inahitajika na sheria inayotekelezwa). Baada ya kipindi hicho, maombi ya kurejeshewa fedha yanaweza kuidhinishwa au kukataliwa kuzingatia mamlaka yao. Kurejeshewa fedha kunaweza kufanywa baada ya kipindi cha dakika 30 za kurejeshewa fedha ambacho Maudhui yako yatatambuliwa kuharibika, kuwa na programu hasidi, yanakiuka sera zetu (ikijumuisha [kigezo chetu cha uhakiki wa soko](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), hakipatikani au hakitekelezi kama ilivyofafanuliwa; na
-2. Mozilla inaweza kuchunguza na kutambua kitendo sahihi kwa viwango visivyo vya kawaida vya maombi ya kurejesha fedha kwa kipande maalum cha Maudhui ya Soko ili kuhakikisha usahihi wa ubora na uwekaji orodha wake.
+Ikiwa unatumia mfumo wa uchakataji wa malipo uliounganishwa wa Soko la Forefox, wachakataji wa malipo waliounganishwa wanaweza kutoa huduma kuhesabu na kulipa kodi ya mauzo na/au ya nyongeza ya thamani kwa niaba yako. Mozilla haina wajibu wowote wa kodi kwako kuhusu Maudhui yoyote ya Soko, ikiwa ni pamoja na, lakini bila kikomo kwa wajibu wa, kufuatilia na kuchakata malipo, kuhakakisha malipo au upakuzi uliolipiwa hapo awali, kudumisha rekodi za malipo, kulipa, kuripoti, au kutoza mauzo, matumizi au kodi. Tafadhali angalia [Maswali Yanayoulizwa Mara kwa Mara Kuhusu Kodi] ya Mazilla (https://developer.mozilla.org/docs/Apps/Marketplace_Payments/Tax_FAQ) kwa maelezo zaidi na uhakikishe kushautiana na wakoli wako au bodi lako la kodi iki uamue kama unahitaji kukusanya na kulipa kodi.
 
-## Auni
 
-Unawajibika kibinafsi kwa kutoa usaidizi wa kiufundi unaofaa kwa watumiaji na utatoa maelezo ya mawasiliano ya usaidizi bora (yakiwemo, kwa kuyaonyesha katika kila ukurasa wa maelezo ya Maudhui ya Soko) kwa madhumuni ya usaidizi kwa wateja. Kukosa kutoa usaidizi wa kutosha kwa Maudhui yako ya Soko kunaweza kusababisha ukaguzi mdogo wa Maudhui ya Soko, ufichuaji mdogo wa Maudhui maarufu ya Soko, mauzo madogo, bili, migogoro, na hata usitishaji au uondoaji kutoka kwenye Soko la Firefox.
+## Marejesho ya Fedha
+
+Una wajibu wa marejesho yoyote ya fedha, au marudisho marudisho mengine ya malipo kwa mnunuzi wa Maudhui yako ya Soko ili kutii shetia husika. Ukitumia mfumo wa uchakataji wa malipo uliounganishwa wa Soko la Firefox, unakubalia yanyaofuata:
+
+1. Unaidhinisha Mozilla na wabia wetu kumpa mununuzi marejesho kamili ya bei ya Maudhui ya Soko kwa niaba yako ikiwa mnunuzi ataomba marejesho hayo ndani ya dakika 30 baada ya ununuzi au zaidi (ikiwa inahitajika na sheria husika). Baada ya muda huo, maombi ya marejesho yanaweza kuidhinishwa au kukataliwa kulingana na eneo lako. Marejesho ya fedha yanaweza kufanywa baada ya muda wa marejesho wa dakika 30 ikiwa Maudhui yako yatagunduliwa kuwa yana kasoro, virusi, yanakuika sera zatu (ikiwa ni pamoja na [vigezo vyetu vya ukaguzi wa soko](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria)), hayapatikani au hayatenda kama ilivyoajwa; na
+2. Mozilla inaweza kuchunguza na kuamua hatua inayofaa kwa viwango visivyo vya kawaida vya marejesho ya fedha vya Maudhui fulani ya Soko ili kuhakikisha ubora wake na usahihi wa orodha.
+
+## Usaidizi
+
+Una wajibu wa kupekee wa kutoka usaidizi busara wa kiufundi kwa watumiaji wanaolengwa na utatoa taarifa ya mawasiliano ya usaidizi (ikiwa ni pmaoja na kuionyesha katika kila ukusara wa Maudhui ya Soko) kwa madhumuni ya usaidizi kwa wateja. Kutotoa usaidizi wa kutosha kwa Maudhui yako ya Soko kunaweza kusababisha uhakiki kodogo wa Maudhui ya Soko, uonekanaji kuodogo wa Maudhui mashuhuri ya Soko, kiango kidogo cha mauzo, mizzozo ya malipo, na usimamishaji au uondolewaji kutoka kwa Soko la Firefox.
 
 
 ## Majukumu Yanayohusiana na Faragha
 
-Unakubali kuwapa watumiaji sera ya faragha inayofaa kisheria ambayo inaeleza kisahihi ukusanyaji wowote, au matumizi au ufichuaji wa maelezo unayopewa na watumiaji. Programu zote zinahitajika kuwa na sera ya faragha. Unawakilisha na kuthibitisha kuwa maelezo yoyote unayopewa kutoka Mozilla kuhusu watumiaji yatatumiwa kibinafsi kwa mujibu wa sera yako ya faragha na sheria zinazotumika za sera na ulinzi wa data.
+Unakubali kuwapa watumiaji wanaolengwa sera za faragha za kutosha kisheria zinazoeleza kwa usahihi ukusanyaji wowote, matumizi, au ufichuzi wa taarifa iliyotolewa kwako na watumiaji wanaolengwa. Programu zote zinahitaji kuwa na sera ya faragha. Unawakilisha na kuhakikisha kwamba taarifa yoyote uliyopewa katika Mozilla kuhusu watumiaji itatumiwa kulingana na sera yako ya faragha na sera husika na sheria za kulinda data peke yake.
 
-Unakubali kuhakikisha kuwa tangazo lolote linalowasilishwa kwa watumiaji wa Maudhui ya Soko linatii mahitaji yote ya Masharti haya na sera yako ya faragha kwa mujibu wa sheria zinazotumika
-za sera na ulinzi wa data.  Kwa mfano, (i) utangazaji uliopachikwa na matumizi yako ya data kutoka kwenye utangazaji kama huo, lazima utii sheria inayotumika; (ii) lazima utangazji uliopachikwa usiwe na &ldquo;zanatepe chakura,&rdquo; &ldquo;programu hasidi yoyote&rdquo; au msimbo unaodhuru na isisababishe jeraha lolote kwa mtu yeyote au uharibifu kwa mali yoyote; na (iii) lazima utoe ilani na chaguo linalofaa kwa ufuatiliaji wowote unaokufanya au mtu mwingine kutoa matangazo au upandishaji.
-
-
-## Kutangaza Programu Yako kwenye Soko la Firefox
-
-Unawajibika kwa upakiaji wa Maudhui yako ya Soko kwenye Soko la Firefox, kutoa maelezo sahihi ya huduma na bidhaa za Maudhui ya Soko kwa watumiaji kuzingatia vipengele na utendaji wa Maudhui yako ya Soko, na kufichua kwa usahihi idhini za usalama na data ya mtumiaji inayohitajika kwa Maudhui ya Soko kufanya kazi kwenye vifaa vya mtumiaji. Iwapo maelezo ya bidhaa au huduma yoyote siyo sahihi au yanahitaji kusasishwa au kurekebishwa, unakubali kufanya usasisho au marekebisho hayo mara moja. Isipokuwa wewe au Mozilla na makubaliano yaliyo kwenye maandishi yanayosema vinginevyo, Maudhui yako ya Soko hayataashiria kwa njia yoyote kuwa yalitengenezwa au kuidhinishwa na Mozilla.
+Unakubali kuhakikisha kwamba utangazaji wowote unaotolewa kwa watumiaji wanaolengwa wa Maudhui yako ya Soko unatii mahitaji yote ya Masharti haya na sera yako ya faragha kulingana na sera husika na
+sheria za ulinzi wa data.  Kwa mfano, (i) lazima utangazaji uliofutikwa na matumizi yako ya data iliyopatikana kutoka kwa utangazaji kama huo yatii sheria husika; (ii) utangazaji uliofutikwa haufai kuwa na &ldquo;programu pelelezi,&rdquo; &ldquo;programu hasidi&rdquo; au msimbo hatari na haufai kusabbaisha majetaha kwa mtu yoyote au uharibifu wa mali yoyote; na (iii) lazima utoe notisi muhimu na chaguo la ufuatiliajo wowote unaoelekeza kwako au watu wa tatu wanaolenga matangazo au ukuzaji kwa watumiajia.
 
 
-## Vizuizi vya Maudhui
+## Kuuza Maudhui Yako Katika Soko la Firefox
 
-Maudhui yoyote ya Soko unayosambaza kwenye Soko la Firefox lazima yazingatie kigezo cha uhakiki cha [soko la Mozilla](https://developer.mozilla.org/docs/Apps/Marketplace_Review) na [Masharti ya Matumizi](https://www.mozilla.org/about/legal/acceptable-use).  Kwa kuongezea, Soko la Firefox linahitaji programu zote kukadiriwa na Muungano wa Ukadiriaji wa Umri wa Kimataifa ("IARC").  Wasanidi programu wa Soko la Firefox wanaweza kufikia zana ya cheti cha ukadiriaji ya IARC bila malipo kama sehemu ya mchakato wa uwasilishaji wa programu.  IARC ni mtu mwingine, na kwa kutumia zana yake ya cheti cha ukadiriaji, unakubali kuzingatia [Sera ya Faragha ya IARC](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) na[Masharti ya Matumizi ya IARC](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
+Una wajibu wa kupakia Maudhui yako ya Soko kwenye Soko la Firefox, kutoa taarifa sahihi ya bidhaa ya huduma ya Maudhui ya Soko kwa watumiaji kuhusus vipengele na utendaji wa Maudhui yako ya Soko, na ufichue kwa usahihi ruhusa za usalama na data ya watumiaji inayohitajika kwa Maudhui ya Soko kufafanya kazi katika vifaa vya watumiaji. Ikiwa taarifa yoyote ya bidhaa au huduma sio sahihi au inahitaji kusasishwa au kurekebsihwa, unakubali kufanya usasisho au marekebisho hiyo mara moja. Maudhui yako ya Soko hayataonyesha kwa namna yoyote ile kwamba yametengenezwa au kuidhibishwa na Mozilla, isipokuwa kuwe na mkataba kati yako na Mozilla unaosema vingine.
+
+
+## Vikwazo vya Maudhui
+
+Lazima Maudhui yoyote ya Soko unayosambaza katika Soko la Firefox  yatii [Vigezo vya Ukaguvi wa Soko] vya Mozilla(https://developer.mozilla.org/en-US/Marketplace/Publishing/Marketplace_review_criteria), [Vigezo vya Ukaguzi wa Programu-nyongeza ya Firefox OS(https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Add-ons/Review_criteria) &#40;ikiwa Maudhui yako ay Soko ni Programu-nyongeza ya Girefox OS&#41;, na [Masharti ya Matumizi](https://www.mozilla.org/about/legal/acceptable-use). Zaida ya hayo, Soko la Firefox linahitaji programu zote kukadiriwa na Muungano wa Makadirio ya Umri wa Kimataifa (”IARC”).  Waendelezaji wa Soko la Firefox wanaweza kufikia zana ya cheti cha makadirio ya IARC bila amlipo kama sehemu ya mchakato wa uwasilishaji wa programu.  IARC ni mtu wa tatu, na kwa kutumia zana yao cheti cha makaditio, unakubali kutika [Sera ya Faragha ya IARC](https://www.globalratings.com/IARCPRODClient/privacypolicy.aspx) na [Masharti ya Matumizi ya IARC ](https://www.globalratings.com/IARCPRODClient/termsofuse.aspx). 
 
 
 ## Akaunti
 
-[Akaunti ya Firefox](https:accounts.firefox.com) inahitajika ili kuwasilisha programu kwenye Soko la Firefox. Unawajibika kwa shughuli zozote chini ya akaunti yako na kukubali kutii Masharti ya Matumizi ya Akaunti za [Firefox](https://www.mozilla.org/about/legal) na [Ilani ya Faragha](https://www.mozilla.org/privacy/firefox-cloud).
+[Akaunti ya Firefox](https:accounts.firefox.com) inahitajika kuwasilisha Maudhui ya Soko kwa Soko la Firefox. Una wajibu wa shughuli zote katika akaunti yako na unakubali kutii [Masharti ya Huduma] ya Akaunti za Firefox(https://www.mozilla.org/about/legal) na [Notisi ya Faragha](https://www.mozilla.org/privacy/firefox-cloud).
 
 
-## Takwimu na Ukadiriaji wa Programu
+## Makadirio na Takwimu za Programu
 
-Soko la Firefox huruhusu watumiaji wa mwisho ambao wanasakinisha Maudhui ya Soko ili kukadiria Maudhui hayo ya Soko na kutoa tangazo. Mozilla inaweza kutoa jumla ya takwimu kuhusiana na matumizi ya Maudhui yako ya Soko kwako. Seti ndogo ya maelezo haya inaweza kutumiwa kutambua upangaji wa Maudhui ya Soko kwenye Soko la Firefox na inaweza kuonyeshwa kwa umma kwenye Soko la Firefox na kupitia kwenye API yetu. Wakati Mozilla itakuwa na ufikiaji kwenye data hii, vipengele fulani vya Soko la Firefox vitakuruhusu kuhifadhi baadhi ya takwimu ghafi kwa siri kutoka kwa wasanidi programu na watumiaji wengine.
-
-
-## Kujiuzulu, Kujiondoa na Ukomeshaji
-
-### Kuondolewa na Wewe
-
-Unaweza kuondoa Maudhui yako yoyote ya Soko kutokana na usambazaji wowote wa siku za usoni kupitia Soko la Firefox wakati wowote, lakini lazima uzingatie Masharti haya na makubaliano yako kwa watumiaji wako wa mwisho. Unakubali kuwa kuondoa Maudhui ya Soko kutokana na usambazaji wa siku za usoni kupitia Soko la Firefox (a) hakuathiri haki za leseni za watumiaji ambayo wamenunua au kupakua Maudhui ya Soko hapo awali, (b) hakuondoi Maudhui yako ya Soko kutoka kwenye mashine, maunzi, au vifaa vingine vya mtumiaji, au kutoka kwenye sehemu yoyote ya Soko la Firefox ambapo programu zilizopakuliwa awali zinahifadhiwa kwa niaba ya watumiaji (iwapo wapo), au (c) hakubadilishi wajibu wako wa kuwasilisha au kuauni Maudhui au huduma hizo za Soko ambazo zilinunuliwa au kupakuliwa awali na watumiaji.
-
-Mozilla haitadumisha kwenye sehemu yoyote ya Soko la Firefox Maudhui yoyote ya Soko ambayo umeondoa kutoka kwenye Soko la Firefox na ilani ya maandishi iliyotolewa kwa Mozilla ambayo kuondolewa huko kulitokana na (i) kwa madai ya ukiukaji au ukiukaji kamili, wa hakimiliki, alama ya biashara, siri ya biashara, nguo za biashara, hataza au haki yoyote ya mali ya akili ya mtu yeyote, (ii) madai ya kashfa au kashfa kamili, (iii) madai ya ukiukaji, au ukiukaji kamili, wa haki yoyote ya mtu mwingine ya umma au faragha, au (iv) madai au utambuzi kuwa Maudhui hayo ya Soko hayazingatii sheria inayotekelezwa. Iwapo Maudhui yako ya Soko yameondolewa kutoka kwenye Soko la Firefox kwa sababu ya Uvunjaji sheria, kashfa, ukiukaji wa haki za uwekaji umma au faragha au sheria inayotekelezwa kama ilivyoelezwa hapo juu, utarejesha fedha kwa kila mtumiaji wa mwisho aliyenunua Maudhui hayo ya Soko katika siku 60 kabla ya tarehe ya uondoaji, kiwango kilicholipwa na mtumiaji huyo wa mwisho kwa Maudhui hayo ya Soko yaliyoathirika.
-
-Iwapo utaondoa Maudhui yako yote ya Soko kutoka kwenye Soko la Firefox, unaweza kutambua Masharti haya kwa kuipa Mozilla siku 30 kabla ya ilani ya maandishi ya ukatishaji huo. Wajibu wako wote chini ya Masharti haya yanayohusiana na Maudhui yako ya Soko yataponea ukatishaji wowote wa Masharti haya, ikijumuisha wajibu wako kwa kuzingatia kurejeshewa fedha kulioko, uwakilishaji na dhamana zozote vilevile fidia kwa Mozilla.
+Soko la Firefox huwaruhusu watumiaji wanaolengwa waliosakinisha Maudhui ya Soko kukadiri Maudhui hayo ya Soko na kutoa maoni. Mozilla inaweza kukupatia takwimu kwa ujumla kuhusu matumizi yako ya Maudhui ya Soko. Sehemu ndogo ya taarifa hii inaweza kutumiwa kujua uwekaji wa Maudhui ya Soko katika Soko la Firefox na inaweza kuonyesha kwa umma katika Soko la Firefox an kupitia API zetu. Ingawa Mozilla itafikia data hii, vipengele fulani vya Soko la Firefox hukuruhusu kuweka baadhi ya takwimu ghafi ikiwa ya siri mbali na waendelezaji na watumiaji wengine.
 
 
-### Uondoaji wa Mozilla
+## Oundoaji, Uteremshaji na Ukatizaji
 
-Mozilla ina haki (ingawa sio wajibu) ya, kwenye uamuzi wa kipekee, kuondoa maudhui yoyote ambayo, kwa maoni ya kuridhisha ya Mozilla, hukiuka sera yoyote ya Mozilla au ni uharibifu kwa njia yoyote au yanachukiza.
+### Kuondoa Wewe Mwenyewe
 
-Bila kuweka vipimo vya kufutwa zamani, iwapo umearifu Mozilla au vinginevyo ifahamu na kutambua kwa uamuzi wake wa kipekee na wa kuridhisha kuwa Maudhui yoyote ya Soko au sehemu yoyote yake (ikijumuisha bila vizuizi vya alama ya biashara, nembo, au kipengele kingine chochote cha chapa kinachohusiana na Maudhui hayo ya Soko): (a) hukiuka [kigezo chetu cha ukaguzi wa soko](https://developer.mozilla.org/docs/Apps/Marketplace_review_criteria), [Sheria za Matumizi](https://www.mozilla.org/about/legal/acceptable-use) au sera nyingine za Soko la Firefox; (b) kinaweza kuunda dhima kwa Mozilla au mtu mwingine yeyote; au (c) hukiuka Masharti haya, Mozilla inaweza kuzuia Maudhui ya Soko kutokana na kufanywa kupatikana kwenye Soko la Firefox, kuondoa Maudhui ya Soko kutoka kwenye Soko la Firefox, kualamisha, kuchuja, kurekebisha nyenzo husika (ikijumuisha lakini bila kuweka vipimo vya ufafanuzi, picha kiwamba, au metadata), kubainisha upya Maudhui ya Soko, au kuchukua hatua nyingine za marekebisho, katika uamuzi wake wa kipekee. 
+Unaweza kuondoa Maudhui yako yoyote ya Soko yasisambazwe siku zijazo kupitia Soko la Firefox wakati wowote, lakini lazima ufuate Masharti hayana makubaliano yako na watumiaji unaowalenga. Unakubali kwamba uondoaji wa Maudhui ya Soko yasisambazwe siku zijazo kupitia Soko la Firefox (a) hakuathiri haki za leseni za watumiaji walionunua au kupakua Maudhui ya Soko awali, (b) hakuondoi Maudhui yako ya Soko kutoka kwa mashine, maunzi, au vifaa vinigne vya watumiaji, au kutoka sehemu yoyote ya Soko la Firefox ambapo programu zilizopakuliwa awali zinahifadhiwa kwa niamba ya watumiaji (ikiwa kunayo), au (c) hakubadilishi jukumu lako kuwasilisha au kusaidia Maudhui hayo ya Soko au huduma zilizonunuliwa au kupakuliwa awali na watumiaji.
 
-Kwa maelezo kuhusu jinsi ya kutuarifu kwa kuhusiana na uvunjaji sheria wa hakimiliki au alama ya biashara uliodaiwa tazama [hapa](https://www.mozilla.org/about/legal/report-abuse/).
+Mozilla haitadumisha sehemu yoyote ya Soko la Firefox, Maudhui yoyote ya Soko uliyoondoa kutoka kwa Soko la Firefox na umetoa notisi iliyoandikwa kwa Mozilla kwamba uondoaji huo ni kwa sababu ya (a) madai ya uvunjaji sheria au uvunjaji sheria, wa hakimiliki yoyote, alama yoyote ya biashara, siri ya biashara, umbo la biashara, hataza au haki nyingine ya umiliki ya mtu yoyote, (ii) madai ya kukashfu, au kukashfu, (iii) madai ya ukiukaji, au ukiukaji, wa hako ya mtu wa tatu ya utangazaji au faragha, au (iv) madai au uamuzi kwamba Maudhui kama hayo ya Soko hayatii sheria husika. Ikiwa Maudhui yako ya Soko yataondolewa kutoka Soko la Firefox kwa sababu ya uvunjiaji sheria, kuakshifu, ukiukaji wa haki za utangazaji au faragha au sheria husika kama ilivyofafanuliwa hapa juu, utamrejeshea kila mtumiaji wa mwisho aliyennunua Maudhui yako ya Soko ndani ya siku 60 kuanzia tarehe ya kuteremshwa, kiwango kilicholipwa na mtumiaji huyo wa mwisho kwa Maudhui hayo ya Soko yaliyoathiriwa.
 
-Mozilla inaweza kuahirisha au kusimamisha Masharti haya wakati wowote na wewe iwapo Mozilla haitatoa tena Soko la Firefox au Mozilla inaamini ulikiuka sera zozote au ulivunja Masharti haya.
+Ukiondoa Maudhui yako yote ya Soko kutoka wka Soko la Firefox, huenda ukakatiza Masharti haya kwa kuipa Mozilla notisi iliyoandikwa siku 30 kabla ya ukatizaji huo. Majukumu yako yote katika Masharti haya yanayohusiana na Maudhui yako ya Soko yatabakia baada ya ukatizaji wowote wa Masharti haya, ikiwa ni pmaoja na jukumu linalohusu marejesho ya fedha yanayosalia, uwakilishaji na dhamana zozote pamoja na fidia kwa Mozilla.
+
+
+### Uteremshaji Unaofanywa na Mozilla
+
+Mozilla ina haki (lakini sio wajibu) wa, kwa hiari ya Mozilla peke yake, kuondoa maudhui yote ambayo, katika maoni ya Mozilla peke uake, yanakiuka sera yoyote ya Mozilla au ni ya kuhduru au kuchukiza kwa namna yoyote ile.
+
+Bila kukanusha yaliyotangulia, ikiwa utaiarifu Mozilla au kwa namna nyingine itagundua na kuamua kwa hiari yake pekee ya busara kwamba Maudhui yoyote ya Soko au sehemu yoyote (ikiwa ni pamoja na, lakini bila kikomo kwa alama yoyote ya biashara, nembo, au kipengele kingine cha chapa kinachohusiana na Maudhui hayo ya Soko): (a) yanakiuka [Vigezo Vyetu vya Ukaguzi wa Soko](https://developer.mozilla.org/en-US/Marketplace/Publishing/Marketplace_review_criteria), [Vigezo vya Ukaguzi wa Programu-nyongeza za Firefox OS](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Add-ons/Review_criteria),  [Hali za Matumizi](https://www.mozilla.org/about/legal/acceptable-use) au sera nyingine ya Soko la Firefox; (b) yanaweza kuleta dhima kwa Mozilla au mtu mwingine yoyote; au (c) yanakiuka Masharti haya, Mozilla inaweza kuzuia Maudhui hayo ya Soko kuchapishwa katika Soko la Firefox, kuondoa Maudhui hayo ya Soko kutoka kwa Soko la Firefox, kuonya, kuchuja, kurekebisha nyenzo husika (ikiwa ni pamoja na, lakini bila kikomo kwa maelezo, kielelezo-skrini, au metadata), kubadilisha aina ya Maudhui ya Soko, au kuchukua hatua zingine za urekebishaji, kwa hiari yake pekee. 
+
+Kwa maelezo kuhusu jinsi ya kutuarifu kuhusu madai ya ukiukaji wa hakimiliki au alama ya biashara angalia [hapa](https://www.mozilla.org/about/legal/report-abuse/).
+
+Mozilla inaweza kusimamisha au kukatiza Masharti haya na wewe wakati wowote ikiwa Mozilla haitaendelea kutoa Soko la Firefox au Mozilla inaamini umekiuka sera zozote au kuvunja masharti haya.
 
 
 ## Leseni
 
-Mozilla inakuhimiza kufanya Maudhui yako ya Soko kupatikana chini ya leseni ya chanzo wazi kama vile MPL kwa msimbo wa chanzo na leseni za Ubunifu Huru kwa kazi za ubunifu. 
+Mozilla inakuhamasisha uchapishe Maudhui yako ya Soko chini ya leseni ya chanzo huria kama vile MPL ya msimbo wa chanzo na leseni ya Creative Commons ya kazi ya ubunifu. 
 
-Unaipa Mozilla na vyama tanzu vyake leseni isiyo ya kipekee, ya ulimwenguni kote, na isiyo ya kifahari, leseni ndogo chini ya haki zako zote kufanya Maudhui ya Soko na Vipengele vya Chapa husika kupatikana kwa uhusiano na Soko la Firefox na vifaa ambavyo vinaauni Maudhui ya Soko la Firefox. Kwa ufafanuzi, leseni hii humaanisha kuwa tunaweza kusambaza na kutangaza Maudhui yako ya Soko ili yaweze (a) kutambuliwa na kusakinishwa na watumiaji moja kwa moja kutoka kwenye Soko la Firefox (b) kutambuliwa na kusakinishwa na watumiaji kutoka kwenye soko jingine ambalo husambaza Maudhui ya Soko, au (c) kutambuliwa na kutumiwa kama upakiaji wa kabla kwenye kifaa cha Mfumo wa Uendeshaji wa Firefox.  Maudhui ya Soko yanaweza kufikiwa kwenye jukwaa lolote linaloweza kuendesha teknolojia ya wavuti wazi na kwenye vifaa anuwai, kama vile simu, kompyuta ndogo, kompyuta za eneo-kazi na televisheni.
+Unaipa Mozilla na washiriki wake leseni isiyo ya kipekee, ya duniani kote, isiyo na mrahaba, inayoweza kutolewa tena, na kuhamishwa chini ya haki zako zote zinazohitajika kufanya Maudhui yako ya Soko na Vipengele husika vya Chapa vinavyopatikana kulingana na Soko la Firefox, masoko ya watu tatu, na kwenye vifaa vyovyote vinavyokubali Maudhui ya soko. Kwa ubayana, bila kukanusha yaliyotangulia leseni hii inamaanisha kwamba tunaweza kusambaza au kukuza Maudhui yako ya Soko ili yaweze (a) kugunduliwa na kusakinishwa na watumiaji moja kwa moja kutoka wka Soko la Firefox (b) kuchapishwa kwa upakuzi/usambazaji kutoka kwa masoko ya watu wa tatu yanayosambaza Maudhui ya Soko, na (c) kupakiwa upya na Wabia wa Mozilla kwenye vifaa vya Firefox OS, na kugunduliwa na kutumiwa kama upakiaji upya kwenye vifaa kama hivyo vya Firefox OS.  Maudhui ya Soko yanaweza kufikiwa kwenye jukwaa lolote linaloweza kuendesha teknolojia huria za wavuti na kwenye vifaa mbalimbali, kama vile simu, vijilaptopu, kompyuta za mezani, na runinga.
 
-Unaipa Mozilla na vyama tanzu vyake leseni isiyo ya kipekee, ya ulimwenguni kote, isiyo ya kifahari leseni ndogo na inayoweza kuhamishwa chini ya haki zako zote kufanya Maudhui ya Soko na Vipengele vya Chapa husika kupatikana kwa uhusiano na Soko la Firefox na vifaa ambavyo vinaauni Maudhui ya Soko la Firefox.  Leseni zilifutwa zamani hujumuisha, iwapo inatekelezwa, haki (lakini sio wajibu) kwa Washirika wa Mozilla kupakia kabla Maudhui hayo ya Soko kwenye Vifaa vya Mfumo wa Uendeshaji wa Firefox na kutoa Maudhui ya Soko kwa uhusiano na huduma zinazopatikana kupitia Vifaa vya Mfumo wa Uendeshaji wa Firefox.
+Unawapa Wabia wa Mozilla wake leseni isiyo ya kipekee, ya duniani kote, isiyo na mrahaba, inayoweza kutolewa tena, na kuhamishwa chini ya haki zako zote zinazohitajika kufanya Maudhui yako ya Soko na Vipengele husika vya Chapa vinavyopatikana kulingana na Soko la Firefox, masoko ya watu tatu, na kwenye vifaa vyovyote vinavyokubali Maudhui ya soko.  Leseni hii inajumuisha, ikiwa inatumika, haki (lakini sio jukumu) kwa Wabia wa Mozilla kupakia Maudhui hayo ya Soko upya kwenye Vifaa vya Firefox OS na kutoka Maudhui ya Soko kulingana na huduma zinazopatikana kupitia Vifaa vya Firefox OS.
 
-Kati ya Mozilla na wewe, kisha mshirika atamiliki haki zote, kichwa na mapendeleo, ikijumuisha bila vizuizi vya haki zote za mali ya akili, zinazohusiana na Vipengele vya Chapa yake. Isipokuwa kwa kiwango kilichowekewa kipimo kilichowekwa wazi kwenye Masharti haya, hakuna chapa za shiriki, au shirika jingine litapata, haki yoyote, kichwa au mapendeleo (ikijumuisha, bila vizuizi, leseni yoyote inayoashiriwa) kwenye au katika Vipengele vyovyote vya Chapa ya shirika jingine. Hakuna chochote kwenye Masharti haya ambacho hukupa haki ya kutumia majina ya biashara, alama za biashara, alama za huduma, nembo, majina ya vikoa au vipengele vingine vyovyote bainifu vya chapa ya Mozilla.
+Unaipa Mozilla, washiriki wake, Wabia wa Mozilla, na wabia wao husika, leseni isiyo ya kipekee, ya duniani kote, isiyo na mrahaba, inayoweza kutolewa tena kutumia Vipengele vya Chapa vinavyohusika na Maudhui ako ya Soko katika nyenzo za uuzaji, mauzo, na ukuzaji zinazohusiana na Maudhui ya Soko.
+
+Kati ya Mozilla na wewe, kila mhusika atamiliki haki zote, nafasi na manufaa, ikiwa ni pamoja na, lakini bila kikomo kwa haki zote za umiliki, zinazohusiana na Vipengele vya Chapa yake. Isispokuwa kwa kiwango chenye kikomo kilichotolewa katika Masharti haya, hakuna mhusika anatoa, au mhusika huyo mwingine atachukua, haki yoyote, nafasi au manufaa (ikiwa ni pamoja, lakini bila kikomo kwa leseni yoyote inayodokezwa) katika au kwa Vipengele vyovyote vya chapa ya mhusika huyo mwingine. Hakuna kitu katika Masharti haya kinakupa haki ya kutumia majina yoyota ya biashara ya Mozilla, alama zozote za baishara, nembo, majina ya vikoa, au vipengele vingine vya kipekee vya chapa vya Mozilla.
 
 
 ## Utangazaji
 
-Mozilla na vyama tanzu vyake, au Washirika wa Mozilla , inaweza kujumuisha Vipengele vya Chapa, picha kiwambo, video, na maonyesho yako ya Maudhui ya Soko na maudhui yoyote yaliyo ndani, kufikiwa na, au kuhamishwa kupitia Maudhui yako ya Soko kwenye uwasilishaji, nyenzo za kutangaza, matukio ya kutangaza, matukio ya msanidi programu, ripoti za kifedha, orodha za tovuti (ikijumuisha viungo vya tovuti yako); mawasiliano ya dijitali na kuchapisha (kama vile mitandao ya kijamii, majarida, blogu, kurasa za wavuti, taarifa kwa vyombo vya habari, vipeperushi, n.k.), ufungaji na orodha za wateja (zinazojumuisha, bila vizuizi, orodha za wateja zilizochapishwa kwenye tovuti za Mozilla) kwa malengo ya kutangaza Soko la Firefox, Mfumo wa Uendeshaji wa Firefox, bidhaa na huduma za Mozilla, au kutangaza Maudhui yako ya Soko.
+Mozilla na washiriki wake, Wabia wa Mozilla, wanaweza kujumuisha Vipengele vya Chapa yako, vielelezo-skirni, video, na maonyesho ya Maudhui yako ya Soko na maudhui yoyote yaliyo ndani yake, yanayofikiwa na, au kusambazwa kupitia Maudhui yako ya Soko katika maonyesho, nyenzo za uuzaji, matukio ya uuzaji, matukio ya waendelezaji, ripoti za kifedha, orodha za tovuti (kama vile mitandao ya kijamii, majarida, blogu, kurasa za tovuti, matangazo ya vyombo vya habari, brosha, nk.). Upakiaji na orodha za wateja (inayojumuisha, bila kikomo kw aotodha za wateja zilizochapishwa kwenye tovuti za Mozilla) kwa maudhuni ya uuzaji wa Soko la Firefox, Firefox OS, bidhaa na huduma za Mozilla, au utangazaji wa Maudhui yako ya Soko.
 
 
-## Uwakilishaji na Dhamana
+## Uwakilishaji na Uhakikishaji
 
-Unawakilisha na kuthibitisha kuwa:
+Unawakilisha na kuhakikisha kwamba:
 
-1. Unafaa na utadumisha haki zote zinazohitajika ili kuchapisha, kuonyesha, kutekeleza, kutumia, kuzalisha upya na kusambaza Maudhui yako ya Soko, ulimwenguni kote, vilevile haki za kuidhinisha wengine (ikijumuisha Mozilla) kufanya hivyo;
-2. Iwapo Maudhui ya Soko yana vitambulisho vyovyote vya kibiashara kama vile alama ya biashara, alama ya huduma, au nguo ya biashara, una haki za kisheria za ulimwenguni kote kutumia na kuidhinisha matumizi ya kazi ya sanaa, muundo, nembo, majina, na vipengele vingine.
-3. Ufafanuzi na data nyingine unayotoa kuhusu Maudhui ya Soko ni ya ukweli kuzingatia ufahamu wako; na
-4. Maudhui yako ya Soko yanaandamana na mkataba wa ufikiaji ambao hufafanua haki za watumiaji wake.
+1. Una na utadumisha haki zote husika za kuchapisha, kuonyesha, kutekeleza, kutumia, kunakili na kusambaza Maudhui yako ya Soko, duniani, pamoja na haki ya kuidhinisha watu wenigne (ikiwa ni pmaoja na Moazilla) kifanya hivyo;
+2. Ikiwa Maudhui yako ya Soko ya vitambulishi vyovyote vya kibiashara kama vile alama ya biashara, alama ya huduma, au umbo la biashara, una haki za kisheria duniani kutuma na kuidhinisha matumizi ya mchoro, umbo, nembo, majina, na vipengele vingine.
+3. Ufafanuzi na data nyingine unayotoa kuhusu Maudhui ya Soko ni ya kweli kwa kiwango unachoelewa; na
+4. Maudhui yako ya Soko yanaambatanishwa na makubaliano yanayoweza kufikiwa yanayoeleza haki za watumiaji wake.
 
-## Kanusho la Dhamana
+## Kanusha la Uthibitisho
 
-SOKO LA FIREFOX LIMETOLEWA &ldquo;KAMA NI&rdquo;. MOZILLA, WACHANGIAJI, WATOAJI LESENI NA WASAMBAZAJI WAKE WANAONDOA LAWAMA YA DHAMANA ZOTE, IWAPO KWA KUONYESHA AU KUTEKELEZWA, IKIJUMUISHA BILA VIZUIZI , DHAMANA ZILIZOTEKELEZWA ZA KIBIASHARA, KUWA SAWA KWA MALENGO YOTE MAALUM NA YASIYOVUNJA SHERIA. BAADHI YA MAMLAKA HAYARUHUSU KUTOJUMU ISHA AU VIZUIZI VYA DHAMANA ILIYODOKEZWA, KWA HIVYO MSAMAHA HUU WA MKATABA HUENDA USITEKELZWA KWAKO.
-
-
-## Kizuizi cha Dhima
-
-UNAELEWA NA KUKUBALI WAZI KUWA, ISIPOKUWA KAMA INAVYOHITAJIKA KISHERIA, MOZILLA, WACHANGIAJI, WATOAJI LESENI, WASAIDIZI, MASHIRIKA TANZUNA WASAMBAZAJI WAKE HAWATAWAJIBIKA KWAKO CHINI YA NADHARIA YA DHIMA KWA UHARIBIFU WOWOTE USIO WA MOJA KWA MOJA, MAALUM, WA KIAJALI, WA TUKIO WA ADHABU AU WA MFANO KUWA INAWEZA KUTOZWA NA WEWE, IKIJUMUISHA UPOTEAJI WOWOTE WA DATA, IWAPO AU SIO MOZILLA AU WAWAKILISHI WAKE WAMESHAURIWA KUHUSU AU WANAFAA KUFAHAMU UWEZEKANO WA HASARA ZOZOTE HIZO ZINAZOTOKEA. HAKUNA TUKIO AMBALO JUMLA YA DHIMA YA MOZILLA KWAKO KWA UHARIBIFU WOWOTE UNAOTOKANA NA AU UNAOHUSIANA NA MASHARTI HAYA KUWA KWA WINGI WA ZAIDI YA (i) $100 AU (ii) JUMLA YA KIWANGO KILICHOLIPWA KWAKO NA MOZILLA KATIKA MIEZI KUMI NA MIWILI MARA MOJA KABLA YA ILANI YA KWANZA YA MADAI YOYOTE.  BAADHI YA MAMLAKA HAYARUHUSU KUTOJUMUISHA AU VIZUIZI VYA AINA FULANI YA DHIMA, KWA HIVYO KANUSHO HILI HUENDA LISITEKELEZWE KWAKO.
+SOKO LA FIREFOX LINATOLEWA &ldquo;LILIVYO&rdquo;. MOZILLA, WACHANGIAJI WAKE, WENYE LESENI NA WASAMBAZAJI WAKE WANAKAUMUSHA UTHIBITISHO WOTE, AIDHA YA ULIOONYESHWA AU KUDHANIWA, IKIWA NI PAMOJA NA, LAKINI BILA KIKOMO, KWA UTHIBITISHO ULIDHANIWA WA UUZAJI, KUFAA KWA MADHUMUNI FULANI NA KUTOKUWA NA UKIUKAJI. MAENEO MENGINE HAYARUHUSU UTENGAJI AU VIKOMO VYA UTHIBITISHO UNAODHANIWA, KWA HIVYO KANUSHO HILI HUENDA LISITUMIKE KWAKO.
 
 
-## Uondoaji; Fidia
+## Kikomo cha Wajibu
 
-Unaondoa Mozilla, maafisa, wafanyakazi, mawakala na warithi wake kutokana na madai na uharibifu wa kila aina au asili unaohusiana na mabishano yoyote na watumiaji wengine, ikijumuisha wasanidi programu wa Maudhui ya Soko.
+UNAELEWA NA KUKUBALI KWAMBA, ISIPOKUWA INAPOHITAJIKA NA SHERIA, MOZILLA, WACHANGIAJI WAKE, WENYE LESENI, MASHIRIKA TANZU, WASHIRIKI WAKE NA WASAMBAZAJI WAKE HAWATAWAJIBIKA KATIKA NADHARIA YOYOTE YA WAJIBU KWA HASARA YOYOTE ISIYO YA MOJA KWA MOJA, MAALUM, YA MATUKIO, INATOFUATA, YA KUADHIBU AU MFANO INAYOWEZA KUTOKEA KWAKO, IKIWA NI PAMOJA NA UPOTEAJI WA DATA, KAMA MOZILLA NA WAWAKILISHI WAKE WAMESHAURIWA AU LA AU WANAFAA KUWA WANAJUA UWEZEKANO WA HASARA HIYO KUTOKEA. HAKUNA HALI AMBAPO JUMLA YA WAJIBU WA MOZILLA KWAKO WA HASARA YOYOTE INAYOTOKANA AU INAYOHUSIANA NA MASHARTI HAYA ITAZIDI (i) $100 AU (ii) JUMLA YA VIWANGO VILIVYOLIPWA KWAKO NA MOZILLA MIEZI KUMI NA MIWILI ILIYOPITA INAYOFUATA NOTISI YA KWANZA YA MADAI YOYOTE.  MAENEO MENGINE HAYARUHUSU UKWEPAJI AU VIKOMO VYA AINA FULANI ZA WAJIBU, KWA HIVYO HUENDA KANUSHO HILI LISITUMIKE KWAKO.
 
-Iwapo mtu mwingine ataleta madai dhidi ya Mozilla yanayohusiana na matumizi yako ya Soko la Firefox, utajitetea na kushikilia Mozilla kutodhuru kutokana na dhidi ya uharibifu, hasara, na gharama zote za aina yoyote (ikijumuisha ada na gharama zinazoridhisha) zinazohusiana na madai kama hayo.
+
+## Wachilia; Ulipaji fidia
+
+Unaiwachuliwa Mozilla, ofisa wake, wafanyakazi, wakala na warithi wake kutokana na madai, matakwa na hasara ya kila aina inayotoka kwa au kuhusiana na mizozo yoyote na watumiaji wengine, ikiwa ni pmaoja na waendelezaji wa Maudhui ya Soko.
+
+Ikiwa mtu yoyote wa tatu ataleta madai dhidi ya Mozilla yanayohusiana na matumizi yako ya Soko la Firefox au Maudhui yako ya soko, utaitetea na kuilinda Mozilla kutokana na dhidi ya uharibifu, hasara, na gharama za aina zozote (ikiwa ni pamoja na ada na gharama busara za kisheria) zinazohusiana na madai hayo.
 
 
 ## Masharti ya Kisheria ya Kawaida
 
-Masharti haya yanatoa makubaliano yote kati yako na Mozilla na kulinda matumizi yako ya Soko la Firefox, na yanachukua nafasi kikamilifu mikataba mingine mingi kati yako na Mozilla kwa uhusiano wa Soko la Firefox isipokuwa ukiwa ulikubaliana tofauti na kutia sahihi mkataba na Mozilla kwa Soko la Firefox (“ Makubaliano Maalum”), ambapo Makubaliano haya Maalum yatadhibiti. Hakuna chochote kwenye Masharti haya kitachukuliwa kukupa haki yoyote ya kutumia alama za biashara, majina ya biashara, alama za huduma, au nguo za bishara za Mozilla au watoaji leseni wake na Mozilla inahifadhi haki, kichwa na mapendeleo yote hapo. Kwa maelezo kuhusu alama zetu za biashara, tafadhali tazama Sera zatu za Matumizi ya Nembo na Alama ya biashara.
+Masharti haya yanajumuisha makubaliano ya kisheria kati yako na Mozilla na yanasimamia matumizi yako ya Soko la Firefox, na yanashinda makubaliano mengine yoyote kati yako na Mozilla kuhusu Soko la Firefox isipokuwa uwe na makubaliano tofauti yaliyojadiliwa na kutiwa sahihi na Mozilla ya Soko la Firefox (”Makubaliano Maalum”), hali ambayo Makubaliano Maalum yatadhibiti. Hakuna kitu katika Masharti haya kitachukuliwa kukupa haki yoyote ya kutumia alama za biashara, majina ya baishara, alama za huduma, au umbo la biashara la Mozilla au watoa leseni na Mozilla inahifadhi haki zote, nafasi na manufaa yote yaliyomo. Kwa maelezo kuhusu alama zetu za biashara, tafadhali angalia sera zetu za Matumizi ya Alama ya Biashara na Nembo.
 
-Unakubali kuwa iwapo Mozilla haitumii au kutekeleza haki au marekebisho ambayo yako kwenye Masharti haya (au ni Mozilla ipi imefaidi chini ya sheria yoyote inayotekelezwa), hii haitakuchukuliwa kuwa mdeni msamaha rasmi wa mkataba wa haki za Mozilla na kuwa haki au marekebisho hayo bado yatapatikana kwenye Mozilla.
+Unakubali kwamba ikiwa Mozilla haitatumia au kutekeleza haki au suluhisho lolote la kisheria lililo ndani ya Masharti haya (au ambalo Mozilla ina manufaa chini ya sheria husika), haitachukuliwa kama kuondolewa rasmi kwa haki za Mozilla na kwamba haki hizo au usuluhisho huo bado zitapatikana kwa Mozilla.
 
-Iwapo mahakama yoyote ya kisheria, kuwa na mamlaka ya kuamua kuhusu suala hili, kanuni ambayo utoaji wowote wa Masharti haya ni batili, kwa hivyo utoaji huo utaondolewa kutoka kwenye Masharti haya bila kuathiri Masharti haya yaliyosalia. Utoaji unaosalia wa Masharti haya utaendelea kuwa halali na kuweza kutekelezwa.
-HAMISHA VIZUIZI. USAMBAZAJI WA MAUDHUI YA SOKO KWENYE SOKO LA FIREFOX UNAWEZA KUZINGATIA SHERIA NA KANUNI ZA UHAMISHAJI ZA MAREKANI. LAZIMA UZINGATIE SHERIA NA KANUNI ZOTE ZA UHAMISHAJI ZA NDANI NA KIMATAIFA AMBAZO ZINATEKELEZWA KWA USAMBAZAJI WAKO WA MAUDHUI YA SOKO. SHERIA HIZI ZINAJUMUISHA VIZUIZI KWENYE MAFIKIO, WATUMIAJI NA MATUMIZI YA MWISHO.
+Ikiwa mahakama yoyote ya kisheria, ikiwa na mamlaka ya kuamua jambo hili, inaamua kwamba sheria yoyote a Masharti haya sio halali, basi sheria hiyo itaondolewa kutoka kwa Masharti haya bila kuathiri Masharti haya mengine. Sheria za Masharti haya zinazosalia zitaendelea kuwa halali na kutekelezwa.
+VIKWAZO VYA UHAMISHAJI. USAMBAZAJI WAKO WA MAUDHUI YA SOKO KWENYE SOKO LA FIREFOX HUENDA YAKASIMAMIWA NA SHERIA NA KANUNI ZA UHAMISHAJI ZA MAREKANI. LAZIMA UTII SHERIA NA KANUNI ZOTE ZA NDANI NA KIMATAIFA ZA UHAMISHAJI ZINAZOTUMIKA KWA USAMBAZAJI WAKO WA MAUDHUI YA SOKO. SHERIA HIZI ZINAJUMUISHA VIZUIZI VYA MAENEO YA UHAMISHAJI, WATUMIAJI NA MATUMIZI YA MWISHO.
 
-Haki zilizotolewa kwenye Masharti haya zinaweza kutolewa au kuhamishwa na wewe bila uidhinishaji wa maandisi wa kabla wa Mozilla. Huruhusiwi kuwakilisha majukumu na wajibu wako chini ya Masharti bila uidhinishaji wa maandishi wa kabla wa Mozilla.
+Ikiwa nakala iliyotafsiriwa ya toleo la lugha ya Kiingereza ya Masharti haya imetolewa kwako, unakubali kwamba nakala hiyo iliyotafsiriwa imetolewa tu kwa matumizi yako. Ikiwa nakala hiyo iliyotafsiriwa itapingana na toleo la lugha ya Kiingereza la Masharti haya, toleo la lugha ya Kiingereza litatumika.
 
-## Sheria na Mamlaka Yanayolinda
+Huwezi kupeana au kuhamisha haki zilizotolewa katika Masharti haya bila idhini iliyoandikwa ya kabla kutoka kwa Mozilla. Huruhusiwi kugawa majukumu yako au wajibu wako chini ya Masharti haya kbala ya idhini iliyo andikwa ya kabla kutoka kwa Mozilla.
 
-MASHARTI HAYA, NA UHUSIANO WAKO NA MOZILLA CHINI YA MASHARTI HAYA, YATALINDWA NA SHERIA ZA JIMBO LA CALIFORNIA NCHINI MAREKANI BILA KUZINGATIA MGOGORO WAKE WA UTOAJI WA SHERIA. Wewe na Mozilla mnakubali kuwasilisha mamlaka ya kipekee ya mahakama yanayopatikana ndani ya mkoa wa Santa Clara, katika jimbo la California ili kutatua hoja yoyote ya kisheria inayotokea kutokana na Masharti haya. Bila kuzingatia hii, unakubali kuwa Mozilla bado itaruhusiwa kutekeleza marekebisho ya amri ya kisheria (au aina sawa ya msaada wa kisheria wa dharura) katika mamlaka yoyote.
+## Sheria Inayoongoza na Mamlaka
+
+MASHARTI HAYA, NA UHUSIANO WAKO NA MOZILLA CHINI YA MASHARTI HAYA, UTASIMAMIWA NA SHERIA ZA JIMBO LA CALIFORNIA NCHINI MAREKANI BILA KUJALI MGONGANO WAKE WA SHERIA. Wewe na Mozilla munakubali kutii mamlaka ya mahakama zilizo ndani ya kaunti ya Santa Clara, ndani ya jimbo la Carlifornia kutatua masuala yoyote ya kisheria yanayotokana kutoka kwa Masharti haya. Licha ya haya, unakubali kwamba Mozilla bado itaruhusiwa kuomba usuluhisho wa kuzuia (au aina sawa ya suluhisho la kisheria la haraka) katika mamlaka yoyote.
+
