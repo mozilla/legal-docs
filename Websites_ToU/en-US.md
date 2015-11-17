@@ -9,7 +9,7 @@ October 15, 2014
 
 Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”) or related feeds, social media, newsletters and emails(together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
 
-Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
+Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
 Some of our Websites connect you with links, apps or add-ons that are provided by other parties and are subject to separate Terms.
 
 
@@ -56,9 +56,9 @@ The [Mozilla Websites, Communications & Cookies Privacy Notice](https://www.mozi
 
 If you subscribe to receive our newsletters or register for an account in connection with any of our Websites, you may receive transactional emails from us in connection with your account (for example, legal, privacy, and security updates).
 
-Some of our Websites have online tools that allow you to send emails to others. For example, you can invite your contacts to events using your Webmaker account.  You agree not to misuse others’ email addresses (for example, by spamming them). 
+Some of our Websites have online tools that allow you to send emails to others. For example, you can invite your contacts to events on Mozillians.  You agree not to misuse others’ email addresses (for example, by spamming them). 
 
-Other Websites, like MozReps and Webmaker, provide tools that enable users to arrange physical events for anyone to attend. Please exercise caution and good judgment when attending events.
+Other Websites, like MozReps, provide tools that enable users to arrange physical events for anyone to attend. Please exercise caution and good judgment when attending events.
 
 
 #### 7\. Abuse Reports
