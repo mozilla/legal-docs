@@ -1,7 +1,7 @@
 # Firefox Hello Privacy Notice
 
-November 23, 2015
-{: datetime="2015-11-23" }
+November 30, 2015
+{: datetime="2015-11-30" }
 
 We care about your privacy. When Hello sends information to Mozilla (that's us) our Mozilla Privacy Policy describes how we use that information.
 
