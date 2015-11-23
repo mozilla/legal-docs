@@ -1,7 +1,7 @@
 # Firefox Hello Privacy Notice
 
-November 25, 2014
-{: datetime="2014-11-25" }
+November 23, 2015
+{: datetime="2015-11-23" }
 
 We care about your privacy. When Hello sends information to Mozilla (that's us) our Mozilla Privacy Policy describes how we use that information.
 
@@ -24,6 +24,30 @@ We automatically receive certain metrics from use of the Service.
 * **Usage metrics**: We receive data on how many people use the Service, types of operating systems and browsers, and countries in which the Service is used.  
 
 * **Reports**: We share aggregate information on performance and usage metrics.
+
+
+* **Analytics**: We may also use cookies and third party services to help us understand in the aggregate how users engage with Hello. We use: 
+
+    * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with Hello. This helps us to improve the Hello service. 
+    
+    * Optimizely, which places a cookie on your device, to help us test variations of Hello. This helps us offer better experiences to Hello users.
+
+---------------------------------------
+
+You can control individual cookie preferences and opt-out of web analytics and
+optimization tools. Learn More
+
+* **Cookie History**: You can accept or decline individual cookies in the preferences
+in the appropriate settings within your web browser. For Firefox, this can be
+found in the Tools/Options/Privacy history section. Note that certain features
+of Hello may not function properly without the aid of cookies.
+
+* **Analytics & Optimization**: If you do not want data about your interaction with
+Hello to be collected by Google Analytics, you can install the [Google Analytics
+Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits
+data transmission to Google Analytics. If you do not want data about your
+interaction with Hello to be collected by Optimizely, you can opt-out by
+visiting [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information.
 
 ---------------------------------------
 
