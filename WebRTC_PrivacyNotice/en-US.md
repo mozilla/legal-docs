@@ -26,7 +26,7 @@ We automatically receive certain metrics from use of the Service.
 * **Reports**: We share aggregate information on performance and usage metrics.
 
 
-* **Analytics**: We may also use cookies and third party services to help us understand in the aggregate how users engage with Hello. We use: 
+* **Analytics**: If you use the web-based Hello client to join a conversation by following a link to https://hello.firefox.com, we may also use cookies and third party services to help us understand in the aggregate how users engage with Hello. We use: 
 
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with Hello. This helps us to improve the Hello service. 
     
