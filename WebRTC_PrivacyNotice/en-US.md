@@ -35,7 +35,7 @@ We automatically receive certain metrics from use of the Service.
 ---------------------------------------
 
 You can control individual cookie preferences and opt-out of web analytics and
-optimization tools. Learn More
+optimization tools.
 
 * **Cookie History**: You can accept or decline individual cookies in the preferences
 in the appropriate settings within your web browser. For Firefox, this can be
