@@ -58,6 +58,9 @@ Firefox automatically connects to us and our service providers to provide update
 * Default Search
 	To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
 
+* Search Suggestions
+	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/en-US/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
+
 * Firefox for Android and Firefox for iOS:
 In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies.
 
