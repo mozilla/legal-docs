@@ -66,7 +66,7 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 当您提出要求时，Firefox 还能与 Mozilla 连线为您提供诸如同步、定位服务、故障报告和附加组件等功能。
 {: #optional-features }
 
-* **同步**：[Firefox 同步](https://www.mozilla.org/firefox/sync/) 是一项服务，允许您在所用各种设备上同步您的 Firefox 书签、浏览历史、密码和设置。如果您使用同步服务，请阅读[Firefox 同步服务隐私权政策通知](https://services.mozilla.com/privacy-policy/)。
+* **同步**：[Firefox 同步](https://www.mozilla.org/firefox/sync/) 是一项服务，允许您在所用各种设备上同步您的 Firefox 书签、浏览历史、密码和设置。如果您使用同步服务，请阅读[Firefox 同步服务隐私权政策通知](https://accounts.firefox.com/legal/privacy)。
 {: #sync }
 
 * **定位服务**：Firefox 的定位功能允许网站请求获得您所在地信息（例如，允许相关网站在地图上显示您所在位置）。若某网站请求您的位置信息，Firefox 会在向其提供该信息之前征求您的许可。为了确定您所在位置，Firefox 可能使用一些数据进行判断，包括您所用操作系统的地理定位功能、WiFi 网络、手机信号塔或 IP 地址。估测您所在位置时，系统需将其中一些信息发送给 Google 的地理定位服务，该项服务有其自己的[隐私权政策](https://www.google.com/privacy/lsf.html)。

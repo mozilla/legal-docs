@@ -63,7 +63,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 Jeśli użytkownik o to poprosi, Firefox łączy się także z firmą Mozilla, by udostępnić funkcje takie jak Sync, usługi lokalizacji, zgłaszanie awarii i dodatki.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) to usługa, która umożliwia synchronizowanie zakładek, historii przeglądania, haseł i ustawień przeglądarki Firefox na wszystkich urządzeniach użytkownika. Jeśli usługa Sync jest używana, warto zapoznać się z [Polityką prywatności usługi Firefox Sync](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) to usługa, która umożliwia synchronizowanie zakładek, historii przeglądania, haseł i ustawień przeglądarki Firefox na wszystkich urządzeniach użytkownika. Jeśli usługa Sync jest używana, warto zapoznać się z [Polityką prywatności usługi Firefox Sync](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Usługi lokalizacji**: w Firefox dostępna jest funkcja, która umożliwia witrynom wysłanie żądania ustalenia lokalizacji użytkownika (np. by umożliwić wyświetlenie jej na mapie). Jeśli witryna zażąda lokalizacji użytkownika, przed jej ustaleniem i udostępnieniem Firefox pyta użytkownika o pozwolenie. Aby określić lokalizację użytkownika, Firefox może wykorzystać kilka rodzajów danych, w tym funkcje lokalizacji geograficznej systemu operacyjnego, sieci Wi-Fi, stacje bazowe telefonii komórkowej i adres IP. Oszacowanie lokalizacji użytkownika wymaga wysłania części z tych informacji do usługi lokalizacji geograficznej firmy Google, która ma własną [politykę prywatności](https://www.google.com/privacy/lsf.html).

@@ -63,7 +63,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergestellt, um Ihnen Funktionen wie Sync, Standortdienste, Absturzberichte und Add-ons bereitzustellen.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) ist ein Dienst, mit dem Sie Ihre Firefox-Lesezeichen, Browserchronik, Passwörter und Einstellungen auf allen Ihren Geräten synchronisieren können. Wenn Sie den Sync-Dienst verwenden, lesen Sie bei Bedarf den [Firefox-Sync-Datenschutzhinweis](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) ist ein Dienst, mit dem Sie Ihre Firefox-Lesezeichen, Browserchronik, Passwörter und Einstellungen auf allen Ihren Geräten synchronisieren können. Wenn Sie den Sync-Dienst verwenden, lesen Sie bei Bedarf den [Firefox-Sync-Datenschutzhinweis](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Standortdienste**: Firefox weist eine Funktion auf, mit der Websites Ihren Standort anfordern können (z. B. damit diese Websites Ihren Standort auf einer Karte anzeigen können). Fordert eine Website Ihren Standort an, verlangt Firefox Ihre Genehmigung, bevor Ihr Standort bestimmt und weitergegeben wird. Um Ihren Standort zu bestimmen, kann Firefox mehrere Datenelemente nutzen, darunter die Standortortungsfunktionen Ihres Betriebssystems, WLAN-Netzwerke, Mobilfunktürme oder die IP-Adresse. Um Ihre Position zu schätzen, werden einige dieser Informationen an den Standortbestimmungsdienst von Google gesendet, für den eine eigene [Datenschutzerklärung](https://www.google.com/privacy/lsf.html) gilt.

@@ -63,7 +63,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako je Sync, lokalizační služby, hlášení o pádech a přídavné funkce.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) je služba, která vám umožňuje synchronizaci vašich záložek ve Firefoxu, historie prohlížení, hesel a nastavení napříč všemi vašimi zařízeními. Pokud používáte služby Sync, můžete si přečíst [zásady ochrany osobních údajů Firefox Sync](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) je služba, která vám umožňuje synchronizaci vašich záložek ve Firefoxu, historie prohlížení, hesel a nastavení napříč všemi vašimi zařízeními. Pokud používáte služby Sync, můžete si přečíst [zásady ochrany osobních údajů Firefox Sync](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Služby týkající se polohy**: Firefox má funkci, která umožňuje stránkám požádat o vaši polohu (např. aby těmto stránkám umožnila zobrazit vaši polohu na mapě). Pokud stránka požaduje vaši polohu, Firefox požádá před určením a sdílením vaší polohy o váš souhlas. Za účelem určení vaší polohy může Firefox používat různé údaje, včetně geolokačních funkcí vašeho operačního systému, sítí WiFi, vysílačů mobilních operátorů a IP adresy. Odhadnutí vaší polohy zahrnuje zaslání některých takových informací geolokační službě Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).

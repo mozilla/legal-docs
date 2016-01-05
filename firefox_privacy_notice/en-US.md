@@ -69,7 +69,7 @@ In order to understand the performance of certain Mozilla marketing campaigns, F
 When you ask it to, Firefox also connects to Mozilla to provide you with features such as Sync, location services, crash reporting, and add-ons.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Location services**: Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, Wi-Fi networks, cell phone towers, or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
