@@ -63,7 +63,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio opcije kao što su Sync, servisi lociranja, izveštavanje o padovima i dodaci.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) je servis koji vam omogućava da sinhronizujete obeleživače, istorijat pretrage, lozinke i podešavanja pretraživača Firefox na svim svojim uređajima. Ako koristite servis Sync, možete pročitati [Obaveštenje o privatnosti za Firefox Sync](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) je servis koji vam omogućava da sinhronizujete obeleživače, istorijat pretrage, lozinke i podešavanja pretraživača Firefox na svim svojim uređajima. Ako koristite servis Sync, možete pročitati [Obaveštenje o privatnosti za Firefox Sync](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Servisi lociranja**: Firefox ima opciju koja omogućava sajtovima da zahtevaju podatke o vašoj lokaciji (npr. da dozvoli datim sajtovima da prikažu vašu lokaciju na mapi). Ako neki sajt zahteva vašu lokaciju, Firefox od vas traži dozvolu pre nego što pruži informacije o vašoj lokaciji. Da bi odredio vašu lokaciju, Firefox može da iskoristi nekoliko podataka, uključujući opcije geolociranja vašeg operativnog sistema, mreže bežičnog interneta, tornjeve mobilne telefonije ili IP adrese. Procena vaše lokacije uključuje slanje nekih od ovih informacija servisu za geolociranje kompanije Google, koja ima sopstvena [Pravila privatnosti](https://www.google.com/privacy/lsf.html).

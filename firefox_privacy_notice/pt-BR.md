@@ -63,7 +63,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 Quando for solicitado, o Firefox também se conecta à Mozilla para oferecer recursos como Sync, serviços de localização, relatórios de travamento e complementos.
 {: #optional-features }
 
-* **Sync**: o [Firefox Sync](https://www.mozilla.org/firefox/sync/) é um serviço que possibilita sincronizar todos os favoritos, histórico, senhas e configurações em todos os seus dispositivos. Caso utilize o serviço Sync, você pode ler o [aviso de privacidade do Firefox Sync](https://services.mozilla.com/privacy-policy/).
+* **Sync**: o [Firefox Sync](https://www.mozilla.org/firefox/sync/) é um serviço que possibilita sincronizar todos os favoritos, histórico, senhas e configurações em todos os seus dispositivos. Caso utilize o serviço Sync, você pode ler o [aviso de privacidade do Firefox Sync](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Serviços de localização**: o Firefox possui um recurso que possibilita que os sites solicitem sua localização (por exemplo, para permitir que esses sites exibam sua localização em um mapa). Se um site solicitar sua localização, o Firefox pedirá sua autorização antes de determinar e compartilhá-la. Para determinar sua localização, o Firefox pode utilizar diversos dados, inclusive recursos de geolocalização do seu sistema operacional, redes Wi-Fi, torres de celular ou endereço IP. Determinar sua localização envolve o envio de algumas dessas informações ao serviço de geolocalização do Google, que possui sua própria [política de privacidade](https://www.google.com/privacy/lsf.html).

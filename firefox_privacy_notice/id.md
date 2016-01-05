@@ -66,7 +66,7 @@ Untuk memahami kinerja kampanye pemasaran Mozilla tertentu, Firefox mengirim dat
 Jika Anda memintanya, Firefox juga tersambung ke Mozilla untuk memberi Anda fitur-fitur seperti Sync, layanan lokasi, pelaporan kerusakan, dan pengaya.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) adalah layanan yang memungkinkan Anda untuk melakukan sinkronisasi markah Firefox, riwayat penjelajahan, sandi, dan pengaturan di semua perangkat Anda. Jika Anda menggunakan layanan Sync, Anda dapat membaca [pernyataan privasi Sync Firefox](https://services.mozilla.com/privacy-policy/).
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) adalah layanan yang memungkinkan Anda untuk melakukan sinkronisasi markah Firefox, riwayat penjelajahan, sandi, dan pengaturan di semua perangkat Anda. Jika Anda menggunakan layanan Sync, Anda dapat membaca [pernyataan privasi Sync Firefox](https://accounts.firefox.com/legal/privacy).
 {: #sync }
 
 * **Layanan lokasi**: Firefox memiliki fitur yang memungkinkan situs meminta lokasi Anda (misalnya, memungkinkan situs ini menampilkan lokasi Anda pada peta). Jika sebuah situs meminta lokasi Anda, Firefox mencari izin Anda sebelum menentukan dan membagikan lokasi Anda. Untuk menentukan lokasi Anda, Firefox bisa menggunakan berbagai data untuk menentukan lokasi Anda, termasuk fitur geolokasi sistem operasi Anda, jaringan WiFi, menara ponsel atau alamat IP. Untuk memperkirakan lokasi Anda, beberapa informasi ini dikirimkan ke layanan geolokasi Google, yang memiliki [kebijakan privasi](https://www.google.com/privacy/lsf.html) sendiri.

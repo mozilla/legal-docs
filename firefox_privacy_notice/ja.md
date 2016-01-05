@@ -65,7 +65,7 @@ Firefox は自動的に Mozilla および Mozilla のサービスプロバイダ
 また、リクエストがある場合、Firefox は、皆様に Sync、位置情報サービス、クラッシュレポートおよびアドオンなどの機能を皆様に提供するため、Mozilla に接続します。
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) は、皆様の Firefox ブックマーク、ブラウジング履歴、パスワードおよび皆様の全ての端末設定を同期化することができる機能です。Syncサービスをご利用になる場合、[Firefox Sync privacy notice](https://services.mozilla.com/privacy-policy/)をお読み頂くことができます。
+* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) は、皆様の Firefox ブックマーク、ブラウジング履歴、パスワードおよび皆様の全ての端末設定を同期化することができる機能です。Syncサービスをご利用になる場合、[Firefox Sync privacy notice](https://accounts.firefox.com/legal/privacy)をお読み頂くことができます。
 {: #sync }
 
 * **位置情報サービス**: Firefox には、サイトが皆様の位置情報をたずねる（例：サイトが地図上に皆様の現在地を表示できるようにする）ことができるようにする機能があります。サイトが皆様に位置情報をたずねる場合、Firefox は位置情報を確定および共有する前に、皆様に許可を求めます。位置情報を確定するため、Firefox は、オペレーティングシステムのジオロケーション機能、Wi-Fiネットワーク、携帯電話基地局またはIPアドレスを含む複数のデータを利用する場合があります。位置情報の推定にあたって、別途[プライバシーポリシー](https://www.google.com/privacy/lsf.html) が定められる GoogleのLocation Service にかかる情報が送信されます。
