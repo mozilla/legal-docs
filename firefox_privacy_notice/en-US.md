@@ -29,7 +29,7 @@ Firefox automatically connects to us and our service providers to provide update
 * Firefox Health Report
   {: #health-report .inproduct-link } 
 
-	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
+	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
 
 	We use the data sent through FHR to provide users with FHR's functionality, such as helping you analyze and address performance issues with your browser. We also use what we learn from the FHR data in the aggregate to make Firefox better. You can choose to [turn data sharing off](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -52,16 +52,19 @@ Firefox automatically connects to us and our service providers to provide update
 	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it. 
 
 * Tiles 
-
+  {: #tiles }
 	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information, and tile specific data (e.g., position and size of grid). In Firefox Beta, certain short-term Telemetry experiments (see above) for Tiles may collect information about commonly visited domains.
 	
 * Default Search
+  {: #defaultsearch }
 	To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
 
 * Search Suggestions
+  {: #searchsuggestions }
 	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/en-US/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
 
 * Firefox for Android and Firefox for iOS:
+  {: #thirdparty }
 In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies.
 
 ---------------------------------------
