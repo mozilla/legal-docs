@@ -61,7 +61,8 @@ Firefox automatically connects to us and our service providers to provide update
 
 * Search Suggestions
   {: #searchsuggestions }
-	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/en-US/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
+Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar
+) and how to enable or disable it.
 
 * Firefox for Android and Firefox for iOS:
   {: #thirdparty }
