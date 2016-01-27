@@ -1,4 +1,4 @@
-# Report Copyright & Trademark Infringement
+# Report Copyright or Trademark Infringement
 
 ## Copyright Notices
 
