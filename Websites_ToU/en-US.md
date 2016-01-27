@@ -61,9 +61,9 @@ Some of our Websites have online tools that allow you to send emails to others. 
 Other Websites, like MozReps, provide tools that enable users to arrange physical events for anyone to attend. Please exercise caution and good judgment when attending events.
 
 
-#### 7\. Abuse Reports
+#### 7\. Notice of Claimed Infringement
 
-For more information on how to report a claim of copyright or trademark abuse, please see: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+For more information on how to report claims of copyright or trademark infringement, please see: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8. Term; Termination
 
