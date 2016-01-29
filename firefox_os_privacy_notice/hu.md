@@ -1,9 +1,9 @@
-# Firefox OS Adatvédelmi Tájékoztató
+﻿# Firefox OS Adatvédelmi Tájékoztató
 
 2015\. augusztus 26\.
 {: datetime="2015-08-26" }
 
-Fontos számunkra az Ön személyes adatainak védelme. Amikor a Firefox OS részünkre, azaz a Mozilla (Mozilla Corporation, 331 E. Evelyn Avenue, Mountain View, CA 94041) részére információkat küld, akkor a [Mozilla Adatvédelmi Szabályzata](https://www.mozilla.org/hu/privacy/) szerint kezeljük az információkat.
+Fontos számunkra az Ön személyes adatainak védelme. Amikor a Firefox OS részünkre, azaz a Mozilla részére információkat küld, akkor a [Mozilla Adatvédelmi Szabályzata](https://www.mozilla.org/privacy/) szerint kezeljük az információkat.
 
 ## Amit tudnia érdemes:
 
@@ -12,9 +12,9 @@ A Firefox OS kapcsolódik a Mozillához és másokhoz, annak érdekében, hogy t
 
 * Frissítések: Annak érdekében, hogy mindig a legfrissebb verzió álljon rendelkezésre, a Firefox OS automatikusan rákapcsolódik egy szolgáltatásra, amelyet az Ön készülékének gyártója vagy annak megbízásából más nyújt. A Firefox OS ugyancsak automatikusan ellenőrzi a letöltött alkalmazásokhoz tartozó frissítéseket azáltal, hogy lekérdezést küld a Firefox Marketplace-nek vagy, ha az alkalmazást máshonnan töltötte le, annak az alkalmazásnak a fejlesztőjéhez.
 * Tartózkodási hely: Amikor bekapcsolja a tartózkodási hely meghatározására szolgáló szolgáltatást, a Firefox OS többféle adatforrást és szolgáltatást (ideértve a GPS-t, AGPS-t és más geolokalizációs szolgáltatást) használhat annak érdekében, hogy az Ön tartózkodási helye meghatározható legyen. A tartózkodási hely meghatározására szolgáló szolgáltatást a készülékén található Firefox OS „Beállítások” alkalmazásban tudja kikapcsolni. [További információk az AGPS szolgáltató szerződéses feltételeiről](https://wiki.mozilla.org/Firefox_OS/AGPS_service_provider_terms).
-* Kezdeti aktiválás: A megfelelő frissítések és alkalmazások rendelkezésre bocsátásához a Firefox OS az első bekapcsoláskor egy egyszeri pinget küld a Mozillához. [További információ](https://wiki.mozilla.org/FirefoxOS/Metrics)
-* Alkalmazás használata: a Firefox Marketplace-en lévő tartalmak látogatottságának növelése érdekében a Firefox operációs rendszer az „Alkalmazások kihasználtsági adatait” (pl. aktív használati idő, megnyitások/bezárások/összeomlások száma, a Firefox operációs rendszerrel futó eszközökön lévő nem telepített alkalmazások száma) elküld‎‏‎‎‎i a Mozillának. Letilthatja az alkalmazások kihasználtsági adatainak megosztását készüléke Firefox operációs rendszerének „Beállításai” segítségével. [További információk](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
-* Keresőmotor szolgáltató adatai: a Firefox operációs rendszer kereséseinek eredményesebbé tétele érdekében a Firefox operációs rendszer adatokat küld a Mozillának arról, hogy mely keresőmotor szolgáltatott keresési eredményeket az eszköz számára. Letilthatja a keresőmotor keresési eredményeire vonatkozó adatok megosztását készüléke Firefox operációs rendszerének „Beállításai” segítségével. [További információk](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
+* Kezdeti aktiválás: A Firefox OS készülék kezdeti aktiválásakor a Firefox OS a Mozilla számára egyszeri adatpinget küld (pl. készülékspecifikus információkkal kapcsolatos adatok, mint a szoftver kiadási verziója, a partnerazonosító, az ország és a képernyőméret), amely segít a Mozilla rendszernek meghatározni, hogy a felhasználóinknak és a partnereinknek szüksége van-e biztonsági frissítésekre és kritikus javításokra, illetve hogy az alkalmazásfejlesztőkkel szemben milyen követelmények merülnek fel, hogy azok a felhasználóink számára jobb alkalmazásokat feljeszthessenek ki, ezenkívül a Mozilla rendszernek segít a piaci analízisben is (pl. meghatározza, hány készüléket aktiváltak). [További információk](https://wiki.mozilla.org/Firefox_OS/Metrics/activationping)
+* Alkalmazás használata: A Firefox Marketplace-en lévő tartalmak látogatottságának növelése érdekében a Firefox operációs rendszer az „Alkalmazások kihasználtsági adatait” (pl. aktív használati idő, megnyitások/bezárások/összeomlások száma, a Firefox operációs rendszerrel futó eszközökön lévő nem telepített alkalmazások száma) elküld‎‏‎‎‎i a Mozillának. Letilthatja az alkalmazások kihasználtsági adatainak megosztását készüléke Firefox operációs rendszerének „Beállításai” segítségével. [További információk](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
+* Keresőmotor szolgáltató adatai: A Firefox operációs rendszer kereséseinek eredményesebbé tétele érdekében a Firefox operációs rendszer adatokat küld a Mozillának arról, hogy mely keresőmotor szolgáltatott keresési eredményeket az eszköz számára. Letilthatja a keresőmotor keresési eredményeire vonatkozó adatok megosztását készüléke Firefox operációs rendszerének „Beállításai” segítségével. [További információk](https://wiki.mozilla.org/FirefoxOS/Metrics/App_Usage)
 
 ---------------------------------------
 
