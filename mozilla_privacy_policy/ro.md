@@ -1,9 +1,9 @@
-# Politica de confidențialitate a Mozilla
+﻿# Politica de confidențialitate a Mozilla
 
 15 aprilie 2014
 {: datetime="2014-04-15" }
 
-Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre.
+Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre. 
 
 ## Ce înseamnă „date personale”?
 
@@ -18,9 +18,9 @@ Dacă stocăm datele dvs. personale împreună cu date fără caracter personal,
 Aflăm informații despre dvs. atunci când:
 
 * ni le furnizați în mod direct (de ex., atunci când optați să ne trimiteți rapoarte de eroare);
-* le colectăm în mod automat prin intermediul produselor și serviciilor (de ex., atunci când browserul dvs. Firefox verifică cu noi dacă este actualizat);
-* altcineva ne oferă informații despre dvs. (de ex., atunci când Thunderbird colaborează cu furnizorii dvs. de e-mail pentru a vă configura contul); sau
-* atunci când încercăm să înțelegem mai multe lucruri despre dvs. pe baza informațiilor pe care ni le oferiți (de ex., atunci când folosim adresa dvs. IP pentru a particulariza limba pentru unele dintre serviciile noastre).
+* le colectăm în mod automat prin intermediul produselor și serviciilor (de ex., atunci când browserul dvs.Firefox verifică cu noi dacă este actualizat);
+* altcineva ne oferă informații despre dvs.(de ex., atunci când Thunderbird colaborează cu furnizorii dvs. de e-mail pentru a vă configura contul); sau
+* atunci când încercăm să înțelegem mai multe lucruri despre dvs. pe baza informațiilor pe care ni le oferiți (de ex., atunci când folosim adresa dvs.IP pentru a particulariza limba pentru unele dintre serviciile noastre).
 
 ## Ce facem cu informațiile dvs. după ce intrăm în posesia lor?
 
