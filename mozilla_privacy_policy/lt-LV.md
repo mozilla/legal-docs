@@ -17,10 +17,10 @@ Ja mēs jūsu personas informāciju glabājam kopā ar informāciju, kas nav per
 
 Mēs jūsu informāciju iegūstam šādos gadījumos:
 
-* jūs mums to iesniedzat tieši (piemēram, izvēlaties nosūtīt mums avārijas ziņojumus);
-* mēs to apkopojam automātiski, izmantojot mūsu produktus un pakalpojumus (piemēram, kad jūsu Firefox pārlūkprogramma sazinās ar mums, lai meklētu atjauninājumus);
-* kāds cits mums sniedz informāciju par jums (piemēram, kad Thunderbird sadarbojas ar jūsu e-pasta pakalpojumu sniedzējiem, lai iestatītu jūsu kontu);
-* ja mēs mēģinām jūs labāk iepazīt, ņemot vērā informāciju, ko esat mums iesniedzis (piemēram, kad izmantojam jūsu IP adresi, lai pielāgotu valodu dažiem mūsu pakalpojumiem).
+* jūs mums to iesniedzat tieši (piemēram, izvēlaties nosūtīt mums avārijas ziņojumus);
+* mēs to apkopojam automātiski, izmantojot mūsu produktus un pakalpojumus (piemēram, kad jūsu Firefox pārlūkprogramma sazinās ar mums, lai meklētu atjauninājumus);
+* kāds cits mums sniedz informāciju par jums (piemēram, kad Thunderbird sadarbojas ar jūsu e-pasta pakalpojumu sniedzējiem, lai iestatītu jūsu kontu);
+* ja mēs mēģinām jūs labāk iepazīt, ņemot vērā informāciju, ko esat mums iesniedzis (piemēram, kad izmantojam jūsu IP adresi, lai pielāgotu valodu dažiem mūsu pakalpojumiem).
 
 ## Ko mēs darām ar jūsu informāciju, kas ir mūsu rīcībā?
 
@@ -28,12 +28,12 @@ Kad jūs mums iesniedzat informāciju, mēs to izmantojam tādos veidos, kādus 
 
 ## Kādos gadījumos mēs nododam jūsu informāciju citiem?
 
-* Ja esam jums palūguši atļauju dalīties ar to un esam šo atļauju saņēmuši.
-* Lai apstrādātu datus vai nodrošinātu jums produktus un pakalpojumus, bet šādi rīkojamies tikai tad, ja personas, kas saņem jūsu informāciju, ir uzņēmušās līgumiskas saistības rīkoties ar datiem Mozilla apstiprinātos veidos.
-* Ja mēs izpildām savu [apņemšanos darboties atklāti](https://www.mozilla.org/about/manifesto/). Dažreiz mēs atklājam informāciju, lai uzlabotu savus produktus un sekmētu atklāta tīmekļa attīstību, tomēr šādos gadījumos mēs noņemam jūsu personas informāciju un mēģinām to izpaust tā, lai pēc iespējas samazinātu jūsu atpazīšanas risku.
-* Atbilstoši likuma prasībām. Ikreiz, kad no kādas valsts iestādes vai saistībā ar tiesvedības procesu saņemam pieprasījumus par jums, mēs rīkojamies saskaņā ar likumu. Ja mēs saņemsim pieprasījumu nodot jūsu personas informāciju, mēs jums par to paziņosim, izņemot gadījumus, kad šādi rīkoties ir aizliegts ar likumu. Saņemot šādus pieprasījumus, mēs izpaužam jūsu personas informāciju tikai tad, ja esam labticīgi pārliecināti, ka tā tiek pieprasīta saskaņā ar likumu. Neviena šīs politikas satura daļa nav paredzēta, lai ierobežotu tiesisko aizsardzību vai iebildumus, kādi jums varētu rasties saistībā ar kādas trešās puses pieprasījumu izpaust jūsu informāciju.
-* Ja mēs uzskatām, ka šāda rīcība ir nepieciešama, lai novērstu kaitējumu jums vai kādai citai personai. Šāda iemesla dēļ mēs jūsu informāciju nododam tikai tad, ja esam labticīgi pārliecināti, ka šāda rīcība ir pamatoti nepieciešama, lai aizsargātu jūsu, citu mūsu lietotāju, korporācijas Mozilla vai sabiedrības tiesības, īpašumu vai drošību.
-* Ja tiek mainīta mūsu organizācijas struktūra vai statuss (mūsu korporācija tiek pārstrukturēta, iegādāta vai ir ierosināts tās bankrots), mēs varam nodot jūsu informāciju kādam tiesību pārņēmējam vai filiālei.
+* Ja esam jums palūguši atļauju dalīties ar to un esam šo atļauju saņēmuši.
+* Lai apstrādātu datus vai nodrošinātu jums produktus un pakalpojumus, bet šādi rīkojamies tikai tad, ja personas, kas saņem jūsu informāciju, ir uzņēmušās līgumiskas saistības rīkoties ar datiem Mozilla apstiprinātos veidos.
+* Ja mēs izpildām savu [apņemšanos darboties atklāti](https://www.mozilla.org/about/manifesto/). Dažreiz mēs atklājam informāciju, lai uzlabotu savus produktus un sekmētu atklāta tīmekļa attīstību, tomēr šādos gadījumos mēs noņemam jūsu personas informāciju un mēģinām to izpaust tā, lai pēc iespējas samazinātu jūsu atpazīšanas risku.
+* Atbilstoši likuma prasībām. Ikreiz, kad no kādas valsts iestādes vai saistībā ar tiesvedības procesu saņemam pieprasījumus par jums, mēs rīkojamies saskaņā ar likumu. Ja mēs saņemsim pieprasījumu nodot jūsu personas informāciju, mēs jums par to paziņosim, izņemot gadījumus, kad šādi rīkoties ir aizliegts ar likumu. Saņemot šādus pieprasījumus, mēs izpaužam jūsu personas informāciju tikai tad, ja esam labticīgi pārliecināti, ka tā tiek pieprasīta saskaņā ar likumu. Neviena šīs politikas satura daļa nav paredzēta, lai ierobežotu tiesisko aizsardzību vai iebildumus, kādi jums varētu rasties saistībā ar kādas trešās puses pieprasījumu izpaust jūsu informāciju.
+* Ja mēs uzskatām, ka šāda rīcība ir nepieciešama, lai novērstu kaitējumu jums vai kādai citai personai. Šāda iemesla dēļ mēs jūsu informāciju nododam tikai tad, ja esam labticīgi pārliecināti, ka šāda rīcība ir pamatoti nepieciešama, lai aizsargātu jūsu, citu mūsu lietotāju, korporācijas Mozilla vai sabiedrības tiesības, īpašumu vai drošību.
+* Ja tiek mainīta mūsu organizācijas struktūra vai statuss (mūsu korporācija tiek pārstrukturēta, iegādāta vai ir ierosināts tās bankrots), mēs varam nodot jūsu informāciju kādam tiesību pārņēmējam vai filiālei.
 
 ## Kā mēs glabājam un aizsargājam jūsu personas informāciju?
 
