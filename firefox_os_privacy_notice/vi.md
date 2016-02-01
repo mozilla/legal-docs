@@ -3,7 +3,7 @@
 Ngày 26 tháng 8 năm 2015
 {: datetime="2015-08-26" }
 
-Mozilla đảm nhiệm Quyền Riêng Tư của bạn. Khi Firefox OS gửi thông tin cho chúng tôi, [Chính sách Riêng Tư của Mozilla] của chúng tôi (https://www.mozilla.org/privacy/) mô tả cách chúng tôi xử lý thông tin đó.
+Mozilla đảm nhiệm Quyền Riêng Tư của bạn. Khi Firefox OS gửi thông tin cho chúng tôi, của chúng tôi [Chính sách Riêng Tư của Mozilla](https://www.mozilla.org/privacy/) mô tả cách chúng tôi xử lý thông tin đó.
 
 ## Những điều bạn cần biết
 
