@@ -3,7 +3,7 @@
 26 agosto 2015
 {: datetime="2015-08-26" }
 
-Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla gestisce le informazioni che le vengono inviate da Firefox OS.
+Per Mozilla la privacy degli utenti è importante. [L’informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla gestisce le informazioni che le vengono inviate da Firefox OS.
 
 ## Cose da sapere
 
