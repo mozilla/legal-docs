@@ -45,7 +45,7 @@ Vaše osobné údaje rovnako neudržiavam dlhšie, ako je treba, takže ich ucho
 
 Sme globálna organizácia a naše počítače sa nachádzajú na rôznych miestach po celom svete. Rovnako využívame poskytovateľov služieb, počítače ktorých sa tiež môžu vyskytovať v rôznych krajinách.  To znamená, že vaše údaje môžu skončiť v niektorom z týchto počítačov v inej krajine a taká krajina môže mať inú úroveň úpravy ochrany údajov ako vaša krajina. Pokiaľ nám poskytnete informácie, vyslovujete súhlas s týmto druhom prenosu vašich údajov. Bez ohľadu na to, v ktorej krajine sa vaše údaje nachádzajú, dodržujeme platné zákony a rovnako budeme dodržiavať záväzky, ktoré sme prevzali podľa týchto zásad ochrany súkromia.
 
-Pokiaľ ste mladší ako 13 rokov, nechceme vaše osobné údaje a vy nám ich nesmiete poskytnúť. Pokiaľ ste rodič a domnievate sa, že vaše dieťa, ktorá je mladšie ako 13 rokov, nám poskytlo osobné údaje, [kontaktujte nás] prosím (https://www.mozilla.org/privacy/#contact), aby sme údaje vášho dieťaťa odstránili.
+Pokiaľ ste mladší ako 13 rokov, nechceme vaše osobné údaje a vy nám ich nesmiete poskytnúť. Pokiaľ ste rodič a domnievate sa, že vaše dieťa, ktorá je mladšie ako 13 rokov, nám poskytlo osobné údaje, [kontaktujte nás](https://www.mozilla.org/privacy/#contact) prosím, aby sme údaje vášho dieťaťa odstránili.
 
 ## Čo ša stane keď zmeníme tieto zásady ochrany súkromia či niektoré z našich oznámení o ochrane súkromia?
 
