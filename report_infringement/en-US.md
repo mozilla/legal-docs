@@ -28,7 +28,7 @@ Mozilla’s Designated Agent’s fax is 650-903-0875 and phone is 650-903-0800.
 
 ### What happens after sending the DMCA Notice?
 
-If the Notice complies with the requirements of the DMCA, we will remove or disable access to the content that is allegedly infringing. We will make a good faith attempt to notify the alleged infringer of the takedown, with a copy of your DMCA Notice. We also may send a copy of your DMCA Notice, with personal information redacted, to [Chilling Effects](https://www.chillingeffects.org/) or post to our [wiki page](https://wiki.mozilla.org/Legal/Infringement_Notices).
+If the Notice complies with the requirements of the DMCA, we will remove or disable access to the content that is allegedly infringing. We will make a good faith attempt to notify the alleged infringer of the takedown, with a copy of your DMCA Notice. We also may send a copy of your DMCA Notice to [Lumen](https://lumendatabase.org/) or post to our [wiki page](https://wiki.mozilla.org/Legal/Infringement_Notices).
 
 Note: You can be held liable for damages, including costs and attorney fees, if certain material misrepresentations are contained in your DMCA Notice. Consult an attorney before filing a DMCA Notice if you are unsure if your copyrights have been infringed.
 
