@@ -7,34 +7,34 @@ Stalo nam je do vaše privatnosti. Kada Firefox šalje informacije kompaniji Moz
 
 ## Stvari koje bi trebalo da znate
 
-Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriranja, bezbednosti, isečaka, izveštaja o oštećenjima pretraživača Firefox i ostalih opcija. 
+Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriranja, bezbednosti, isečaka, izveštaja o oštećenjima pretraživača Firefox i ostalih opcija.
 {: #essential-features }
 
-* Ažuriranje pretraživača i dodataka
-  {: #auto-updates }
+* **Ažuriranje pretraživača i dodataka**
+{: #auto-updates }
 
 	Ažuriranje pretraživača: Jednom dnevno Firefox šalje sledeće podatke kompaniji Mozilla kada proverava da li postoje ažuriranja za pretraživač: podatke o verziji vašeg pretraživača Firefox, podešavanja jezika, informacije o operativnom sistemu i verziji. Možete [isključiti ažuriranja tako što ćete pratiti ova uputstva](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking), ali to može ugroziti bezbednost vašeg sistema.
 
 	Lista blokiranih dodataka: Firefox jednom dnevno kontaktira kompaniju Mozilla radi provere informacija o malicioznim dodacima. To obuhvata, na primer: verziju pretraživača, OS i verziju, jezik, ukupni broj zahteva, vreme poslednjeg zahteva, vreme u toku dana, IP adresu, kao i listu dodataka koje ste instalirali. Možete [isključiti ažuriranja meta podataka](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) u svakom trenutku, ali to može ugroziti bezbednost vašeg sistema.
 
-* Isečci
-  {: #snippets }
+* **Isečci**
+{: #snippets }
 
 	Na standardnoj početnoj stranici pregledača Firefox (&lt;about:home&gt;) učitavaju se određene informacije odmah ispod trake za pretragu za koje verujemo da vam mogu biti korisne. Zovemo ih „isečci“. Otprilike jednom dnevno, Firefox se povezuje sa sajtom Mozilla i pruža vam nove isečke, ako postoje. Mozilla može da prikuplja podatke o tome koliko se često klikne na isečke, o nazivu isečaka, jeziku pregledača i o tome koju verziju pregledača Firefox koristite. Ove podatke zadržavamo samo nakon 60 dana u zbirnom obliku.
 
-	U cilju prikazivanja relevantnih isečaka, Firefox šalje sajtu Mozilla mesečni zahtev da pogleda vašu lokaciju na nivou zemlje koristeći vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno.  Firefox zatim bira koje isečke da vam prikazuje na osnovu lokalno uskladištenih podataka o zemlji.
-	
+	U cilju prikazivanja relevantnih isečaka, Firefox šalje sajtu Mozilla mesečni zahtev da pogleda vašu lokaciju na nivou zemlje koristeći vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koje isečke da vam prikazuje na osnovu lokalno uskladištenih podataka o zemlji.
+
 	Neki od isečaka koje sponzoriše Mozilla su interaktivni i dozvoljavaju vam da opcionalno delite svoj broj telefona ili adresu e-pošte. Na primer, možete uneti svoj broj telefona da biste dobili SMS za instalaciju pregledača Firefox na uređaju Android. Vaše podatke prima i obrađuje naš dobavljač za mobilni marketing i e-poštu.
 
-* Izveštaj o oštećenjima pretraživača Firefox
-  {: #health-report .inproduct-link } 
+* **Izveštaj o oštećenjima pretraživača Firefox**
+{: #health-report .inproduct-link }
 
 	Izveštaj o oštećenjima pretraživača Firefox (FHR) je osmišljem tako da vam pruži uvid u stabilnost i performanse vašeg pretraživača, kao i da vam da savete u slučaju da doživite neku neprijatnost, kao što je visoka stopa pada ili dugo čekanje na podizanje pretraživača. Mozilla prikuplja i kombinuje vaše podatke s podacima ostalih korisnika pretraživača Firefox i šalje ih vašem pretraživaču kako biste mogli da vidite kako se performanse vašeg pretraživača Firefox menjaju vremenom. Ovi podaci obuhvataju, na primer: hardver uređaja, operativni sistem, verziju pretraživača Firefox, dodatke (broj i vrstu), vreme događaja koji se odnose na pretraživač, vizuelizaciju, vraćanja prethodnih sesija, trajanje sesija, starost profila, broj padova i broj stranica. FHR ne šalje sajtu Mozilla URL-ove koje posećujete.
 
 	Podatke koji se šalju preko FHR-a koristimo da bismo korisnicima pružili funkcionalnost FHR-a, kao što je pomoć pri analiziranju i rešavanju problema sa performansama vašeg pretraživača. Takođe, koristimo ono što saznamo iz zbirnih FHR podataka da bismo poboljšali Firefox. Možete odabrati da [isključite deljenje podataka](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
-* Bezbednost
-  {: #security }
+* **Bezbednost**
+{: #security }
 
 	Firefox automatski proverava da li je neka stranica maliciozna ili falsifikovana, da li postoje pokvareni dodaci i sertifikati SSL treće strane.
 
@@ -42,20 +42,23 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 	Zaštita od falsifikovanja i napada koju pruža Firefox: Oko dvaput na sat, Firefox preuzima od kompanije Google liste „SafeBrowsing“ kako bi vam pomogao da blokirate pristup sajtovima i preuzimanje sadržaja koji su maliciozni ili falsifikovani (Pravila privatnosti kompanije Google nalaze se na adresi <https://www.google.com/policies/privacy/>). U slučaju preuzetih izvršnih datoteka koje se ne pojavljuju na ovim listama, Firefox može slati meta podatke, uključujući i URL-ove povezane sa preuzetim datotekama, servisu SafeBrowsing. Posetite <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> da biste saznali više ili da biste isključili Safe Browsing. Ukoliko isključite ove opcije, Firefox vas ne može upozoriti na potencijalno nelegitimne ili maliciozne veb sajtove ili preuzete datoteke.
 
-* Statistika o korišćenju (koja se još zove „Telemetrija“ u verzijama koje se ne puštaju u opticaj)
-  {: #telemetry .inproduct-link}
+* **Statistika o korišćenju** (koja se još zove „Telemetrija“ u verzijama koje se ne puštaju u opticaj)
+{: #telemetry .inproduct-link}
 
 	Statistika o korišćenju ili „Telemetrija“ predstavlja opciju u pretraživaču Firefox koja šalje sajtu Mozilla statistiku o korišćenju, performansama i vremenu reakcije opcija korisničkog interfejsa, memorije i konfiguracije hardvera. Podaci o vašoj IP adresi se takođe prikupljaju u okviru standardne veb evidencije. Statistika korišćenja se prenosi putem SSL-a i pomaže nam da poboljšamo buduće verzije pretraživača Firefox. Kada se statistika korišćenja pošalje kompaniji Mozilla, podaci se zbirno obrađuju i dostavljaju širokom krugu programera, uključujući i zaposlene u kompaniji Mozilla i saradnike. Kada je uključena Telemetrija, određeni kratkoročni eksperimenti mogu prikupljati informacije o posećenim sajtovima.
 
 	Ova opcija je standardno uključena u verzijama Nightly, Aurora i Beta pretraživača Firefox kako bi ovi korisnici mogli da pruže povratnu informaciju kompaniji Mozilla. U opštim verzijama pretraživača Firefox koje se puštaju u opticaj, ova opcija je standardno isključena.
 
-	Više podataka o [Telemetriji možete saznati ovde](https://support.mozilla.org/kb/send-performance-data-improve-firefox), kao i o tome kako da je uključite ili isključite. 
+	Više podataka o [Telemetriji možete saznati ovde](https://support.mozilla.org/kb/send-performance-data-improve-firefox), kao i o tome kako da je uključite ili isključite.
 
-* Pločice
+* **Pločice**
+{: #searchsuggestions }
 
 	Predlozi pretrage predstavljaju opciju koja Vam pomaže da pronađete opšte sintagme koje su pretraživali i drugi. Ovakve predloge pretrage nude Vam i standardni pretraživači (kao što su Google, Yahoo, itd.), ali ne i Firefox. Ako omogućite ovu opciju i ako Vaš standardni pretraživač podržava predloge, Firefox može poslati termine koje ukucavate u traku „Awesome“ (Sjajno) ili u traku pretrage Vašem standardnom pretraživaču da bi dobio predloge, na koje se odnose važeća Pravila privatnosti Vašeg standardnog pretraživača. [Više informacija o predlozima pretrage možete dobiti ovde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) kao i o načinima da ih omogućite ili onemogućite.
-	
-* Standardna pretraga
+
+* **Standardna pretraga**
+{: #thirdparty }
+
 	U cilju odabira najboljeg standardnog pretraživača za Vašu lokaciju, Firefox jednom šalje sajtu Mozilla zahtev da pogleda Vašu lokaciju na nivou zemlje koristeći Vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koji pretraživač da koristi kao standardni na osnovu lokalno uskladištenih podataka o zemlji.
 
 ---------------------------------------
@@ -63,18 +66,32 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio opcije kao što su Sync, servisi lociranja, izveštavanje o padovima i dodaci.
 {: #optional-features }
 
-* **Sync**: [Firefox Sync](https://www.mozilla.org/firefox/sync/) je servis koji vam omogućava da sinhronizujete obeleživače, istorijat pretrage, lozinke i podešavanja pretraživača Firefox na svim svojim uređajima. Ako koristite servis Sync, možete pročitati [Obaveštenje o privatnosti za Firefox Sync](https://accounts.firefox.com/legal/privacy).
+* **Sync**
 {: #sync }
 
-* **Servisi lociranja**: Firefox ima opciju koja omogućava sajtovima da zahtevaju podatke o vašoj lokaciji (npr. da dozvoli datim sajtovima da prikažu vašu lokaciju na mapi). Ako neki sajt zahteva vašu lokaciju, Firefox od vas traži dozvolu pre nego što pruži informacije o vašoj lokaciji. Da bi odredio vašu lokaciju, Firefox može da iskoristi nekoliko podataka, uključujući opcije geolociranja vašeg operativnog sistema, mreže bežičnog interneta, tornjeve mobilne telefonije ili IP adrese. Procena vaše lokacije uključuje slanje nekih od ovih informacija servisu za geolociranje kompanije Google, koja ima sopstvena [Pravila privatnosti](https://www.google.com/privacy/lsf.html).
+	[Firefox Sync](https://www.mozilla.org/firefox/sync/) je servis koji vam omogućava da sinhronizujete obeleživače, istorijat pretrage, lozinke i podešavanja pretraživača Firefox na svim svojim uređajima. Ako koristite servis Sync, možete pročitati [Obaveštenje o privatnosti za Firefox Sync](https://accounts.firefox.com/legal/privacy).
+
+* **Servisi lociranja**
 {: #location-services }
 
-* **Izveštavanje o padovima**: Imate opciju da pošaljete kompaniji Mozilla izveštaj o padu nakon što pretraživač Firefox padne. Ovaj izveštaj sadrži tehničke informacije koje nam pomažu da unapredimo Firefox, uključujući razloge zbog kojih je došlo do pada pretraživača Firefox, aktivni URL u vreme pada i stanje računarske memorije tokom pada. Izveštaj o padu koji dobijemo može sadržati lične podatke. Delove izveštaja o padu javno objavljujemo na adresi <https://crash-stats.mozilla.com/>. Pre nego što javno objavimo izveštaje o padu, preduzimamo mere da automatski izbrišemo lične podatke. Ne brišemo ništa od onoga što eventualno napišete u polju za komentare.
+	Firefox ima opciju koja omogućava sajtovima da zahtevaju podatke o vašoj lokaciji (npr. da dozvoli datim sajtovima da prikažu vašu lokaciju na mapi). Ako neki sajt zahteva vašu lokaciju, Firefox od vas traži dozvolu pre nego što pruži informacije o vašoj lokaciji. Da bi odredio vašu lokaciju, Firefox može da iskoristi nekoliko podataka, uključujući opcije geolociranja vašeg operativnog sistema, mreže bežičnog interneta, tornjeve mobilne telefonije ili IP adrese. Procena vaše lokacije uključuje slanje nekih od ovih informacija servisu za geolociranje kompanije Google, koja ima sopstvena [Pravila privatnosti](https://www.google.com/privacy/lsf.html).
+
+* **Izveštavanje o padovima**
 {: #crash-reporter .inproduct-link }
 
-* **SSL greške**: Imate opciju da pošaljete kompaniji Mozilla izveštaj o greškama kada dođe do narušavanja bezbedne veze sa nekim veb sajtom. U ovom izveštaju beleže se sertifikat veb sajta, kao i dijagnostički kodovi grešaka. Ove informacije pomažu kompaniji Mozilla da prati efektivnost „zakačenih“ sertifikata veb sajtova i da detektuje potencijalne napade krađe identiteta („phishing“) našim korisnicima.
+	Imate opciju da pošaljete kompaniji Mozilla izveštaj o padu nakon što pretraživač Firefox padne. Ovaj izveštaj sadrži tehničke informacije koje nam pomažu da unapredimo Firefox, uključujući razloge zbog kojih je došlo do pada pretraživača Firefox, aktivni URL u vreme pada i stanje računarske memorije tokom pada. Izveštaj o padu koji dobijemo može sadržati lične podatke. Delove izveštaja o padu javno objavljujemo na adresi <https://crash-stats.mozilla.com/>. Pre nego što javno objavimo izveštaje o padu, preduzimamo mere da automatski izbrišemo lične podatke. Ne brišemo ništa od onoga što eventualno napišete u polju za komentare.
 
-* **Dodaci**: Firefox nudi stranicu „Preuzmite dodatke“ u okviru „Menadžera dodataka“ na kojoj su dati popularni dodaci i prikazuje personalizovane preporuke na osnovu dodataka koje ste već instalirali. Radi prikazivanja personalizovanih preporuka, Firefox šalje informacije kompaniji Mozilla, uključujući i listu dodataka koje ste instalirali, podatke o verziji pretraživača Firefox i vašu IP adresu. Ova komunikacija se dešava samo kada je deo „Preuzmite dodatke“ otvoren, a može se isključiti tako što ćete pratiti [ova uputstva](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Menadžer dodataka u pretraživaču Firefox ima polje za pretragu u koje možete uneti ključne reči za pretraživanje, a Mozilla prikuplja pretrage po ovim ključnim rečima, kao i informacije o verziji pretraživača Firefox, jeziku i OS kako bi vam prikazao preporuke.
+* **SSL greške**
+{: #ssl-errors }
+
+	Imate opciju da pošaljete kompaniji Mozilla izveštaj o greškama kada dođe do narušavanja bezbedne veze sa nekim veb sajtom. U ovom izveštaju beleže se sertifikat veb sajta, kao i dijagnostički kodovi grešaka. Ove informacije pomažu kompaniji Mozilla da prati efektivnost „zakačenih“ sertifikata veb sajtova i da detektuje potencijalne napade krađe identiteta („phishing“) našim korisnicima.
+
+* **Dodaci**
 {: #addons }
 
-* **Obaveštenja „Push“**: Obaveštenja „Push“ dozvoljavaju sajtovima da Vam šalju obaveštenja i ažuriranja ukoliko odaberete ovu opciju. Da bi dobio obaveštenja, Firefox šalje informacije kompaniji Mozilla o tome sa kojih sajtova ste prihvatili da dobijate obaveštenja „Push“. Ove podatke čuvamo u anonimnom obliku uz broj obaveštenja koje Vam svaki od sajtova šalje. Kako bi pomogla programerima da poboljšaju korišćenje obaveštenja „Push“, kompanija Mozilla može podeliti zbirne podatke sa određenim programerima, uključujući i broj posetilaca njihovog sajta koji su se prijavili ili odjavili za dobijanje njihovih obaveštenja „Push“. Možete upravljati svojim obaveštenjima „Push“ u pregledaču Firefox tako što ćete pratiti [ova uputstva](https://support.mozilla.org/kb/push-notifications-firefox).
+	Firefox nudi stranicu „Preuzmite dodatke“ u okviru „Menadžera dodataka“ na kojoj su dati popularni dodaci i prikazuje personalizovane preporuke na osnovu dodataka koje ste već instalirali. Radi prikazivanja personalizovanih preporuka, Firefox šalje informacije kompaniji Mozilla, uključujući i listu dodataka koje ste instalirali, podatke o verziji pretraživača Firefox i vašu IP adresu. Ova komunikacija se dešava samo kada je deo „Preuzmite dodatke“ otvoren, a može se isključiti tako što ćete pratiti [ova uputstva](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Menadžer dodataka u pretraživaču Firefox ima polje za pretragu u koje možete uneti ključne reči za pretraživanje, a Mozilla prikuplja pretrage po ovim ključnim rečima, kao i informacije o verziji pretraživača Firefox, jeziku i OS kako bi vam prikazao preporuke.
+
+* **Obaveštenja „Push“**
+{: #push-notifications }
+
+	Obaveštenja „Push“ dozvoljavaju sajtovima da Vam šalju obaveštenja i ažuriranja ukoliko odaberete ovu opciju. Da bi dobio obaveštenja, Firefox šalje informacije kompaniji Mozilla o tome sa kojih sajtova ste prihvatili da dobijate obaveštenja „Push“. Ove podatke čuvamo u anonimnom obliku uz broj obaveštenja koje Vam svaki od sajtova šalje. Kako bi pomogla programerima da poboljšaju korišćenje obaveštenja „Push“, kompanija Mozilla može podeliti zbirne podatke sa određenim programerima, uključujući i broj posetilaca njihovog sajta koji su se prijavili ili odjavili za dobijanje njihovih obaveštenja „Push“. Možete upravljati svojim obaveštenjima „Push“ u pregledaču Firefox tako što ćete pratiti [ova uputstva](https://support.mozilla.org/kb/push-notifications-firefox).
