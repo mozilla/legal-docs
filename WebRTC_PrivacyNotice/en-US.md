@@ -32,6 +32,8 @@ We automatically receive certain metrics from use of the Service.
     
     * Optimizely, which places a cookie on your device, to help us test variations of Hello. This helps us offer better experiences to Hello users.
 
+* **Tiles**: Tiles are a feature of Hello which may be displayed during a conversation or while a user is waiting for a conversation to begin. In order to provide the tiles feature, Hello sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, and locale information.
+
 ---------------------------------------
 
 You can control individual cookie preferences and opt-out of web analytics and
@@ -49,7 +51,6 @@ data transmission to Google Analytics. If you do not want data about your
 interaction with Hello to be collected by Optimizely, you can opt-out by
 visiting [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information.
 
-* **Tiles**: Tiles are a feature of Hello which may be displayed during a conversation or while a user is waiting for a conversation to begin. In order to provide the tiles feature, Hello sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, and locale information.
 
 ---------------------------------------
 
