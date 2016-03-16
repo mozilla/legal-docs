@@ -1,7 +1,7 @@
 # Firefox Hello Privacy Notice
 
-November 30, 2015
-{: datetime="2015-11-30" }
+March 16, 2016
+{: datetime="2016-03-16" }
 
 We care about your privacy. When Hello sends information to Mozilla (that's us) our Mozilla Privacy Policy describes how we use that information.
 
@@ -40,7 +40,7 @@ optimization tools.
 * **Cookie History**: You can accept or decline individual cookies in the preferences
 in the appropriate settings within your web browser. For Firefox, this can be
 found in the Tools/Options/Privacy history section. Note that certain features
-of Hello may not function properly without the aid of cookies.
+of Hello may not function properly without the aid of cookies. 
 
 * **Analytics & Optimization**: If you do not want data about your interaction with
 Hello to be collected by Google Analytics, you can install the [Google Analytics
@@ -48,6 +48,8 @@ Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on ke
 data transmission to Google Analytics. If you do not want data about your
 interaction with Hello to be collected by Optimizely, you can opt-out by
 visiting [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information.
+
+* **Tiles**: Tiles are a feature of Hello which may be displayed during a conversation or while a user is waiting for a conversation to begin. In order to provide the tiles feature, Hello sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, and locale information.
 
 ---------------------------------------
 
