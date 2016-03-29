@@ -13,7 +13,7 @@ Un compte Firefox peut être nécessaire pour utiliser certaines fonctions du Se
 
 ### 3. Fonctions
 
-Le Service vous est fourni en collaboration avec TokBox, Inc. (ToxBox est également appelé concédant de licence dans le présent document).  Le Service est intégré à Firefox afin que vous puissiez facilement passer des appels audio (voice) et vidéo entre Firefox et les utilisateurs sur tous les navigateurs ou appareils WebRTC.  Le Service peut faire l’objet de changements.  Veuillez vous reporter au [site d’assistance](https://support.mozilla.org/products/firefox) de Mozilla si vous avez des questions à propos des fonctions. 
+Le Service vous est fourni en collaboration avec TokBox, Inc. (TokBox est également appelé concédant de licence dans le présent document).  Le Service est intégré à Firefox afin que vous puissiez facilement passer des appels audio (voice) et vidéo entre Firefox et les utilisateurs sur tous les navigateurs ou appareils WebRTC.  Le Service peut faire l’objet de changements.  Veuillez vous reporter au [site d’assistance](https://support.mozilla.org/products/firefox) de Mozilla si vous avez des questions à propos des fonctions. 
 
 ### 4. Politique de confidentialité
 
