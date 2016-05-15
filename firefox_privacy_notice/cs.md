@@ -10,12 +10,12 @@ Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox
 Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za účelem poskytování aktualizací, bezpečnosti, snippets, hlášení o stavu Firefoxu a ostatních funkcí.
 {: #essential-features }
 
-* **Aktualizace prohlížeče a přídavných funkcí**
+* **Aktualizace prohlížeče a doplňků**
 {: #auto-updates }
 
 	Aktualizace prohlížeče: Jednou denně Firefox při kontrole aktualizací prohlížeče zasílá Mozille následující informace: informace o verzi vašeho Firefoxu, jazykovém nastavení, operačním systému a verzi. [Aktualizace můžete vypnout dle tohoto návodu](https://support.mozilla.org/cs/kb/jak-firefoxu-zabranit-v-automatickem-navazovani-sp#w_automatickaa-kontrola-aktualizacag). V takovém případě však můžete být vystaveni bezpečnostním rizikům.
 
-	Seznam blokování přídavných funkcí: Firefox kontaktuje Mozillu jednou za den, aby zkontroloval informace o přídavných funkcích za účelem kontroly škodlivých přídavných funkcí. To zahrnuje například verzi prohlížeče, OS a jeho verzi, místo, celkový počet požadavků, doba od posledního požadavku, denní dobu, IP adresu a seznam přídavných funkcí, které jste nainstalovali. [Aktualizace metadat můžete kdykoliv vypnout](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), nicméně v takovém případě můžete být vystaveni bezpečnostním rizikům.
+	Seznam blokování doplňků: Firefox kontaktuje Mozillu jednou za den, aby zkontroloval informace o doplňcích za účelem kontroly škodlivých doplňků. To zahrnuje například verzi prohlížeče, OS a jeho verzi, místo, celkový počet požadavků, doba od posledního požadavku, denní dobu, IP adresu a seznam doplňků, které jste nainstalovali. [Aktualizace metadat můžete kdykoliv vypnout](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), nicméně v takovém případě můžete být vystaveni bezpečnostním rizikům.
 
 * **Snippets**
 {: #snippets }
@@ -29,14 +29,14 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * **Hlášení o stavu Firefoxu**
 {: #health-report .inproduct-link }
 
-	Hlášení o stavu Firefoxu (HSF) je určeno k tomu, aby vám poskytovalo informace o stabilitě a výkonu vašeho prohlížeče a tipy pro podporu, pokud budete mít problémy, jako např. v případě vysoké míry pádů nebo při pomalém spouštění. Mozilla sbírá a shromažďuje vaše údaje a údaje jiných uživatelů Firefoxu a zasílá je zpět do vašeho prohlížeče, abyste viděli, jak se výkon vašeho Firefoxu v průběhu času mění. Tyto údaje zahrnují například: hardware zařízení, operační systém, verzi Firefoxu, přídavné funkce (počet a druh), načasování událostí prohlížeče, provedení, obnovení relací, délku relace, stáří profilu, počet pádů a počet stránek. HSF neodesílá Mozille URL, které navštěvujte.
+	Hlášení o stavu Firefoxu (HSF) je určeno k tomu, aby vám poskytovalo informace o stabilitě a výkonu vašeho prohlížeče a tipy pro podporu, pokud budete mít problémy, jako např. v případě vysoké míry pádů nebo při pomalém spouštění. Mozilla sbírá a shromažďuje vaše údaje a údaje jiných uživatelů Firefoxu a zasílá je zpět do vašeho prohlížeče, abyste viděli, jak se výkon vašeho Firefoxu v průběhu času mění. Tyto údaje zahrnují například: hardware zařízení, operační systém, verzi Firefoxu, seznam doplňků (počet a druh), načasování událostí prohlížeče, provedení, obnovení relací, délku relace, stáří profilu, počet pádů a počet stránek. HSF neodesílá Mozille URL, které navštěvujte.
 
 	Údaje zaslané prostřednictvím HSF používáme k poskytování funkce HSF uživatelům. Tato funkce zahrnuje pomoc při analýze a řešení problémů s výkonem vašeho prohlížeče. Souhrnná zjištění na základě údajů z HSF rovněž využíváme k vylepšení Firefoxu. [Sdílení údajů můžete vypnout](https://support.mozilla.org/cs/kb/hlaseni-o-zdravi-firefoxu-poznavame-vykon-sveho-pr#w_jak-zapnout-nebo-vypnout-sdaglenag-dat).
 
 * **Bezpečnost**
 {: #security }
 
-	Firefox automaticky kontroluje škodlivé nebo podvodné webové stránky, poškozené přídavné funkce a certifikáty SSL vydané třetími osobami.
+	Firefox automaticky kontroluje škodlivé nebo podvodné webové stránky, poškozené doplňky a certifikáty SSL vydané třetími osobami.
 
 	Zabezpečené webové certifikáty: Když navštívíte zabezpečenou webovou stránku (tj. „https“), Firefox prověří webový certifikát. To může zahrnovat komunikaci s nezávislými stavovými operátory uvedenými v certifikátu. Firefox zasílá této třetí osobě informace o identifikaci [certifikátu](https://support.mozilla.org/kb/secure-website-certificate) stránky. [Vaše nastavení můžete změnit](https://support.mozilla.org/cs/kb/nastaveni-firefoxu-sekce-rozsirene#w_karta-certifikaaty), nicméně pokud funkci on-line ověřování vypnete, Firefox nebude moci ověřit identitu navštívené webové stránky. Vypnutí této funkce může zvýšit riziko, že vaše soukromé informace budou zobrazeny třetími osobami. Pokud se setkáte s [nedůvěryhodným spojením](https://support.mozilla.org/kb/connection-untrusted-error-message), můžete se rovněž rozhodnout zaslat Mozille související certifikáty.
 
@@ -63,7 +63,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 ---------------------------------------
 
-Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako je Sync, lokalizační služby, hlášení o pádech a přídavné funkce.
+Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako je Sync, lokalizační služby, hlášení o pádech a doplňky.
 {: #optional-features }
 
 * **Sync**
@@ -84,12 +84,12 @@ Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako
 * **Chyby SSL**
 {: #ssl-errors }
 
-	V případě přerušení zabezpečeného připojení na webové stránky máte možnost zaslat společnosti Mozilla chybovou hlášku. Tato hláška zaznamenává certifikát webové stránky, jakož i diagnostické chybové kódy. Tato informace pomáhá společnosti Mozilla monitorovat efektivitu „vložených” certifikátů webových stránek a zjišťovat potenciální útoky typu phishing proti našim uživatelům.
+	V případě přerušení zabezpečeného připojení na webové stránky máte možnost zaslat společnosti Mozilla chybové hlášení. Toto hlášení zaznamenává certifikát webové stránky, jakož i diagnostické chybové kódy. Tato informace pomáhá společnosti Mozilla monitorovat efektivitu „vložených” certifikátů webových stránek a zjišťovat potenciální útoky typu phishing proti našim uživatelům.
 
-* **Přídavné funkce**
+* **Doplňky**
 {: #addons }
 
-	Firefox nabízí ve správci přídavných funkcí stránku Get Add-on (stáhněte si přídavné funkce), který třídí populární přídavné funkce a zobrazuje přizpůsobená doporučení na základě přídavných funkcí, které jste již instalovali. Za účelem zobrazení přizpůsobených doporučení Firefox zasílá informace Mozille, včetně seznamu přídavných funkcí, které jste si instalovali, informace o verzi Firefoxu a vaší IP adrese. K této komunikaci dochází pouze tehdy, když je oblast Get Add-ons otevřená a může být vypnuta dle následujících [pokynů](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Správce přídavných funkcí ve Firefoxu má vyhledávací pole, kam můžete uvést klíčová slova za účelem hledání, a Mozilla shromažďuje tato vyhledávání klíčových slov, jakož i informace o vaší verzi Firefoxu, poloze a operačním systému, aby vám zobrazil doporučení.
+	Firefox nabízí ve správci doplňků stránku Získání doplňků, která nabízí populární doplňky a zobrazuje přizpůsobená doporučení na základě těch doplňků, které jste již instalovali. Za účelem zobrazení přizpůsobených doporučení Firefox zasílá informace Mozille, včetně seznamu doplňků, které jste si instalovali, informace o verzi Firefoxu a vaší IP adrese. K této komunikaci dochází pouze tehdy, když je stránka Získání doplňků otevřená, a může být vypnuta dle následujících [pokynů](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Správce doplňků ve Firefoxu má vyhledávací pole, kam můžete zadat klíčová slova za účelem hledání, a Mozilla shromažďuje tato vyhledávání klíčových slov, jakož i informace o vaší verzi Firefoxu, poloze a operačním systému, aby vám zobrazil doporučení.
 
 * **Automaticky otevírané oznámení**
 {: #push-notifications }
