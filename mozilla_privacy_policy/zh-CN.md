@@ -1,49 +1,52 @@
-# Mozilla Privacy Policy
+﻿# Mozilla 隐私权政策
 
-Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open and want you to know how we receive information about you, and what we do with that information once we have it.
+2014 年 4 月 15 日
+{: datetime="2014-04-15" }
 
-## What do we mean by "personal information?"
+您的隐私是 Mozilla（即“我们”）在开发我们每款产品和服务的过程中要考虑的重要因素。我们致力于做到透明和开放。本 Mozilla 隐私权政策对我们如何收集您的信息以及如何处理这些收集到的信息进行总体说明。您还可以阅读我们产品的隐私权声明和常见问题解答，获得关于我们各个产品和服务的详细信息。 
 
-For us, "personal information" means information which identifies you, like your name or email address.
+## 我们所说的“个人信息”指什么？
 
-Any information that falls outside of this is "non-personal information."
+对我们来说，“个人信息”是指能够辨识您身份的信息，比如您的姓名或电子邮件地址。
 
-If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+此范围之外的任何信息都属于“非个人信息”。
 
-## How do we learn information about you?
+如果我们把您的个人信息与非个人信息一起存储，我们会把这种组合视为个人信息。如果我们从一组数据中删除所有个人信息，则剩下的都是非个人信息。
 
-We learn information about you when:
+## 我们如何得知关于您的信息？
 
-* you give it to us directly (e.g., when you choose to send us crash reports from Firefox);
-* we collect it automatically through our products and services (e.g., when we check whether your version of Firefox is up to date);
-* someone else tells us information about you (e.g., Thunderbird works with your email providers to set up your account); or
-* when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+我们在以下情况下可以得知关于您的信息：
 
-## What do we do with your information once we have it?
+* 您直接向我们提供信息（例如，当您选择向我们发送崩溃报告时）；
+* 我们通过我们的产品和服务自动收集信息（例如，当您检查您的 Firefox 浏览器是否为最新时）；
+* 别人向我们提供关于您的信息（例如，当 Thunderbird 与您的电子邮件提供商配合设置您的帐户时）；或
+* 当我们尝试根据您提供给我们的信息了解更多关于您的情况时（例如，当我们使用您的 IP 地址定制适合我们的某些服务的语言时）。
 
-When you give us personal information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+## 我们如何处理获得的信息？
 
-## When do we share your information with others?
+您将信息提供给我们之后，我们会按照您授予我们的权限来使用这些信息。一般来说，我们使用您的信息来帮助提供和改进产品和服务。
 
-* When we have gotten your permission to share it.
-* For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-* When we are fulfilling our mission of [being open](https://www.mozilla.org/about/manifesto.html). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
-* When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
-* When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-* If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+## 我们会在什么情况下与他人共享您的信息？
 
-## How do we store and protect your personal information?
+* 当我们征询您的同意并获准共享信息后。
+* 用于为您处理或提供产品和服务，但是只有接收您的信息的这些实体在合同上有责任按照 Mozilla 批准的方式处理数据时才可以。
+* 当我们履行我们的 [开放使命](https://www.mozilla.org/about/manifesto/) 时。有时候，我们会为了改善产品和培育开放的网络而发布信息，但这种情况下我们会删除您的个人信息，并尽量采用稳妥的信息披露方式，将暴露您个人身份的风险降到最低。
+* 当法律要求时。当我们接到来自政府或与法律诉讼有关的索要您的信息的要求时，我们会按法律规定提供。当要求我们按这种方式转交您的个人信息时，我们会通知您，除非在法律上禁止我们这么做。当我们收到这样的请求时，只有我们真诚地相信法律要求我们这么做时，我们才会给出您的个人信息。本政策中的条款无意限制您对第三方对您提出信息披露要求可以拥有的任何法律抗辩或异议。
+* 当我们认为有必要防止对您或他人造成伤害时。只有当我们真诚地相信这是保护您、其他用户、Mozilla 或公众的权利、财产或安全的合理必要手段时，我们才会以这种方式共享您的信息。
+* 如果我们的组织结构或状态发生变化（例如重组、被收购或破产），我们可能会把您的信息转给继承者或附属机构。
 
-We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+## 我们如何存储和保护您的个人信息？
 
-We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+我们承诺在掌握您的个人信息后加以保护。我们采取了物理、商业和技术安全措施。尽管我们会竭尽所能保护您的隐私，但如果我们得知发生安全漏洞，我们会及时通知您，以便您可以采取适当的防护。
 
-## What else do we want you know?
+另外，我们并不想将您的个人信息保留过长时间，我们只需要该信息留存到足以完成相应收集目的。一旦不需要，我们即会采取相应措施销毁该信息，除非法律要求我们留存更长时间。
 
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+## 您还应知道什么？
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/privacy/policies/firefox-os/) to have your child's information removed.
+我们是一家全球性组织，我们的计算机分布在全世界多个不同的位置。我们还使用也在各个国家/地区拥有计算机的服务提供商。这意味着，您的信息可能最终在另一国家/地区的其中一个计算机上，该国家/地区可能采用与您的所在地不同级别的数据保护规定。向我们提供信息，即表明您同意以这种方式转移您的信息。无论您的信息在哪个国家/地区，我们都会遵守适用的法律，并信守我们在本隐私权政策中做出的承诺。
 
-## What if we change this policy?
+如果您未满 13 周岁，我们不希望接收您的个人信息，而且您不得向我们提供。如果您是家长，并且认为您的未满 13 周岁的孩子已向我们提供个人信息，请 [联系我们](https://www.mozilla.org/privacy/#contact) 以便删除您孩子的信息。
 
-We may need to change this policy and when we do, we'll notify you.
+## 如果我们更改了本隐私权政策或我们的任何隐私权声明，将会怎么做？
+
+我们可能需要更改本政策和我们的声明。届时将会在线发布这些更新。如果有重大变更，我们会通过 Mozilla 发布此类声明的通常渠道（比如博客发帖和论坛）宣布该更新。您在此类变更的生效日期后继续使用产品或服务，即表示您接受此类变更。为了便于您查询，我们将在该页面顶部公布生效日期。

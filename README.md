@@ -1,6 +1,6 @@
 # Firefox Marketplace Legal Documents
 
-This repository contains all legal documents and their applicable translations. The repository is organize within the `docs/` directory, where each subdirectory represents a single legal document. Within a document directory is a series of markdown files, each named for the language the document is written in. For instance, `docs/privacy_policy/de.md` is the German version of the Marketplace privacy policy.
+This repository contains all legal documents and their applicable translations. The repository is organized within the `docs/` directory, where each subdirectory represents a single legal document. Within a document directory is a series of markdown files, each named for the language the document is written in. For instance, `docs/privacy_policy/de.md` is the German version of the Marketplace privacy policy.
 
 ## Editing
 

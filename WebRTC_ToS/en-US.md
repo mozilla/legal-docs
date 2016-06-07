@@ -17,7 +17,7 @@ The Service is provided to you in collaboration with TokBox, Inc. (TokBox is als
 
 ### 4. Privacy Policy
 
-The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/) explains what information is sent when you use the Service and how that information is handled.
+The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/firefox-hello/) explains what information is sent when you use the Service and how that information is handled.
 
 ### 5. Content & Use 
 
