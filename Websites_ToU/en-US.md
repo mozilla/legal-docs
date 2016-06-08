@@ -7,7 +7,7 @@ February 11, 2016
 
 #### 1\. Introduction
 
-Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”) or related feeds, social media, newsletters and emails(together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
+Please read the terms of this entire document  (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”), or related feeds, social media, newsletters, source code repositories, and emails (together with Websites, these are collectively referred to as “Communications”). By accessing or signing up to receive Communications, you agree to be bound by these Terms.
 
 Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org. You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
 Some of our Websites connect you with links, apps or add-ons that are provided by other parties and are subject to separate Terms.
@@ -30,14 +30,17 @@ Some Content in our Communications is acquired from sources that prohibit furthe
 
 * Some Content expressly indicates that the author does not intend for an open license to apply.  You should contact the author or author’s agent for permission to use such Content.  Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
 * Some Content contains trademarks, trade dress, logos and brand assets of Mozilla and other parties (“Trademarks”).  Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark.  [Learn more on Mozilla trademarks.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software used by our Websites is licensed under the MPL or similarly permissive open source licenses.  For more information on the specific license, please see the applicable GitHub repository. 
+* Software used by our Websites is licensed under the MPL or similarly permissive open source licenses.  For more information on the specific license, please see the applicable source code or GitHub repository. 
 
 
 #### 4\. Content Submissions
 
-You may contribute Content when interacting with our Communications, including but not limited to commenting on an article, blogging, contributing code, or contributing graphics or written material (each a “Submission”).
+You may contribute Content when interacting with our Communications, including but not limited to commenting on an article, blogging, contributing code, or contributing graphics or written material (each a “Submission”). Unless your Submission is made under a separate agreement with Mozilla, in which case that agreement will govern, then
    
-You agree to the following in connection with each Submission:
+For Submissions to Mozilla's open source projects:
+* You agree to license your Submission under the corresponding license of the particular open source project to which you are contributing. For more information on the specific license, please see the applicable source code or GitHub repository.
+
+For all other Submissions, you agree to the following in connection with each:
 
 * You represent and warrant that your Submission will comply with these Terms, the Mozilla [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
 * You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
