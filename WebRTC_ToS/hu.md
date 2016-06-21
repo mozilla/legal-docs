@@ -17,7 +17,7 @@ A Firefox Hello-t a TokBox, Inc. vállalattal („TokBox”) közösen biztosít
 
 ### 4. Adatvédelmi irányelvek
 
-A [Firefox Cloud Services Adatvédelmi Nyilatkozat](https://www.mozilla.org/privacy/) részletesen leírja, hogy milyen adatokhoz férünk hozzá, amikor Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat.
+A [Firefox Cloud Services Adatvédelmi Nyilatkozat](https://www.mozilla.org/privacy/firefox-hello/) részletesen leírja, hogy milyen adatokhoz férünk hozzá, amikor Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat.
 
 ### 5. Tartalom és felhasználás 
 
