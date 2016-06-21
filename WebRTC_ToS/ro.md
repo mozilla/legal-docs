@@ -17,7 +17,7 @@ Serviciul este furnizat în colaborare cu TokBox, Inc. (TokBox este menționat, 
 
 ### 4. Politica de confidențialitate
 
-[Politica de confidențialitate a Firefox Hello](https://www.mozilla.org/privacy/) explică ce informații sunt trimise când utilizați Serviciul și cum sunt prelucrate aceste informații.
+[Politica de confidențialitate a Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) explică ce informații sunt trimise când utilizați Serviciul și cum sunt prelucrate aceste informații.
 
 ### 5. Conținut și utilizare 
 
