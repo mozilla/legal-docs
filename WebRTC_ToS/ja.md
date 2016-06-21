@@ -19,7 +19,7 @@ Firefox Helloは、Mozilla が提供するエンド・ツー・エンドのリ�
 
 ### 4. プライバシーポリシー
 
-[Firefox Helloプライバシーに関する通知](https://www.mozilla.org/privacy/)は、皆様が本サービスを利用するにあたって送信される情報および当該情報の取扱方法について説明しています。
+[Firefox Helloプライバシーに関する通知](https://www.mozilla.org/privacy/firefox-hello/)は、皆様が本サービスを利用するにあたって送信される情報および当該情報の取扱方法について説明しています。
 
 ### 5. コンテンツおよび利用
 
