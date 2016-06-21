@@ -17,7 +17,7 @@ Usługa jest świadczona użytkownikom we współpracy z firmą TokBox, Inc. (o
 
 ### 4. Zasady prywatności
 
-[Zasady prywatności usługi Firefox Hello](https://www.mozilla.org/privacy/) wyjaśniają, jakie informacje są wysyłane podczas korzystania z Usługi i jak są one traktowane.
+[Zasady prywatności usługi Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) wyjaśniają, jakie informacje są wysyłane podczas korzystania z Usługi i jak są one traktowane.
 
 ### 5. Zawartość i użytkowanie
 
