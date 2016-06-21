@@ -17,7 +17,7 @@ Ovaj Servis je omogućen u saradnji sa kompanijom TokBox, Inc. (TokBox se tako�
 
 ### 4. Pravila privatnosti
 
-[Obaveštenje o privatnosti servisa Firefox Hello](https://www.mozilla.org/sr/privacy/) objašnjava koje informacije se šalju kada koristite servis i kako se tim informacijama upravlja.
+[Obaveštenje o privatnosti servisa Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) objašnjava koje informacije se šalju kada koristite servis i kako se tim informacijama upravlja.
 
 ### 5. Sadržaj i korišćenje
 
