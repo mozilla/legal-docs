@@ -17,7 +17,7 @@ Der Service wird Ihnen in Zusammenarbeit mit TokBox, Inc. bereitgestellt (TokBox
 
 ### 4. Datenschutzerklärung
 
-Der [Firefox Hello-Datenschutzhinweis](https://www.mozilla.org/privacy/) erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie diese Informationen verarbeitet werden.
+Der [Firefox Hello-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox-hello/) erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie diese Informationen verarbeitet werden.
 
 ### 5. Inhalt und Nutzung 
 
