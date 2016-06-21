@@ -17,7 +17,7 @@ Le Service vous est fourni en collaboration avec TokBox, Inc. (TokBox est égale
 
 ### 4. Politique de confidentialité
 
-La [Politique de confidentialité de Firefox Hello](https://www.mozilla.org/privacy/) explique les informations qui sont envoyées lorsque vous utilisez le Service et la façon dont les informations sont traitées.
+La [Politique de confidentialité de Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) explique les informations qui sont envoyées lorsque vous utilisez le Service et la façon dont les informations sont traitées.
 
 ### 5. Contenu et utilisation 
 
