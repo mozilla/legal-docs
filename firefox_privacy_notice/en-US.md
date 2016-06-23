@@ -1,7 +1,7 @@
 # Firefox Browser Privacy Notice
 
-June 7, 2016
-{: datetime="2016-06-07" }
+June 24, 2016
+{: datetime="2016-06-24" }
 
 We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -106,7 +106,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 
 	Push Notifications allow sites to send notifications and updates to you if you opt-in. To receive notifications, Firefox sends information to Mozilla about what sites you have agreed to receive Push Notification from. We store this information in anonymized form, along with the number of notifications each site sends you. To help developers improve their use of Push Notifications, Mozilla may share aggregated information with certain developers including the number of visitors to their site that have subscribed or unsubscribed to their Push Notifications. You can manage Push Notifications in Firefox by following [these instructions](https://support.mozilla.org/kb/push-notifications-firefox).
 	
-## End "Things You Should Know"
+##
 
 Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta, Aurora/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics. Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
 {: #pre-release }
