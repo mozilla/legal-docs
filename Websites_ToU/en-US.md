@@ -1,6 +1,6 @@
 # Websites & Communications Terms of Use
 
-February 11, 2016
+June 23, 2016
 
 ### Terms of Use
 
