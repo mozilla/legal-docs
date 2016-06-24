@@ -1,6 +1,6 @@
 # Warunki użytkowania witryn i kanałów komunikacyjnych
 
-15 października 2014 r.
+11 lutego 2016 r.
 
 ### Warunki użytkowania
 
@@ -96,7 +96,7 @@ Niniejsze Warunki stanowią całość umowy pomiędzy użytkownikiem a firmą M
 
 #### 13\. Kontakt z nami
 
-Mozilla Corporation 
+Mozilla
 Attn: Mozilla – Legal Notices 
 331 E. Evelyn Ave., 
 Mountain View, CA 94041 
