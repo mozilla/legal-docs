@@ -1,6 +1,6 @@
 # Politica de confidențialitate a Firefox Hello
 
-25 noiembrie 2014
+23 noiembrie 2015
 {: datetime="2014-11-25" }
 
 Ne pasă de confidențialitatea dvs. Atunci când Hello trimite informații la Mozilla (adică noi), politica noastră de confidențialitate descrie modul în care prelucrăm acele informații.
@@ -24,6 +24,29 @@ Primim automat anumiți indicatori metrici de la utilizarea Serviciului.
 * **Indicatori metrici de utilizare**: Primim date cu privire la cât de multe persoane folosesc serviciul, tipurile de sisteme de operare și browsere și țările în care este utilizat Serviciul.
 
 * **Rapoarte**: Partajăm informații agregate privind performanța și indicatorii metrici de utilizare.
+
+
+* **Statistici**: Dacă utilizați clientul Hello pe web pentru a participa la o conversație accesând un link către https://hello.firefox.com, este posibil să folosim cookie-uri și servicii ale unor terțe părți pentru a înțelege mai bine modul în care utilizatorii interacționează cu Hello în general. Utilizăm:
+
+    * Google Analytics, care plasează un cookie pe dispozitivul dumneavoastră, pentru a obține indicatori metrici despre modul în care utilizatorii interacționează cu Hello.  În acest mod putem îmbunătăți serviciul Hello.  
+    
+    * Optimizely, care plasează un cookie pe dispozitivul dumneavoastră, pentru a ne ajuta să testăm diferite versiuni de Hello.  În acest mod putem îmbunătăți experiența oferită utilizatorilor Hello. 
+
+* **Miniaturi**: Miniaturile reprezintă o funcționalitate a Hello, și pot fi afișate în timpul unei conversații sau atunci când un utilizator așteaptă ca o conversație să înceapă.  Pentru a asigura funcționalitatea miniaturilor, Hello trimite către Mozilla date referitoare la miniaturi, cum ar fi numărul de click-uri, numărul de afișări, adresa IP și informații despre limba utilizată. 
+
+---------------------------------------
+
+Puteți stabili preferințe individuale pentru cookie-uri și puteți renunța la folosirea instrumentelor de analiză și 
+optimizare web. 
+
+* **Istoricul cookie-urilor**: Puteți accepta sau refuza cookie-uri individuale în meniul de preferințe 
+din setările corespunzătore ale browser-ului dumneavoastră web.  Pentru Firefox, acestea se află în 
+secțiunea Instrumente/Opțiuni/Confidențialitate și istoric. Rețineți că anumite funcționalități ale 
+serviciului Hello ar putea să fie dezactivate dacă nu se folosesc cookie-uri.  
+
+* **Statistici și optimizare**: Dacă nu doriți ca Google Analytics să colecteze date despre 
+modul în care interacționați cu Hello, puteți instala [Suplimentul de renunțare la
+Google Analytics](https://tools.google.com/dlpage/gaoptout). Suplimentul asigură anonimatul vizitelor dumneavoastră și împiedică transmiterea de date către Google Analytics.  Dacă nu doriți ca Optimizely să colecteze date despre modul în care interacționați cu Hello, vă puteți dezabona vizitând [ pagina de dezabonare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații.
 
 ---------------------------------------
 
