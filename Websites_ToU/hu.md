@@ -1,6 +1,6 @@
 # Webhelyekre és közleményekre vonatkozó Felhasználási feltételek
 
-2014\. október 15\.
+2016. február 11.
 
 ### Felhasználási feltételek
 
@@ -96,7 +96,7 @@ A jelen Feltételek képezik a teljes megállapodást Közleményeinkkel kapcsol
 
 #### 13\. Kapcsolat
 
-Mozilla Corporation  
+Mozilla
 Címzett: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
