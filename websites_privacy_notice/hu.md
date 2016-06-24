@@ -1,11 +1,11 @@
 # Webhelyekre, közleményekre és sütikre vonatkozó Adatvédelmi nyilatkozat
 
-2014. augusztus 27.
+2016. március 14.
 {: datetime="2014-08-27" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](http://www.mozilla.org/en-US/privacy/) olvashat az adatok kezelésének módjáról.
 
-Ez az Adatvédelmi nyilatkozat vonatkozik a Mozilla által működtetett webhelyekre, ezek körébe tartoznak a következő domainek: mozillians.org, mozilla.org, firefox.com, openbadges.org és webmaker.org. Ezek közé tartoznak például: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, és a wiki.mozilla.org.
+A jelen adatvédelmi nyilatkozat a Mozilla által üzemeltetett webhelyekre és mobilalkalmazásokra vonatkozik, többek között a mozillians.org, a mozilla.org, a firefox.com és a webmaker.org tartományokra. Ide tartoznak például a következők: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org és wiki.mozilla.org.
 
 ## Tudnivalók
 
@@ -43,7 +43,7 @@ Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja
 * **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/en-US/newsletter/recovery/) frissítésével. A clear GIF-ek működését letilthatja úgy, hogy a tőlünk kapott e-mail-eket „csak szöveg” formátumban tekinti meg. 
 
 * **Analitika és optimalizálás**: Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről a Google Analytics adatokat gyűjtsön, telepítheti a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) kiegészítőt. A kiegészítő segítségével látogatásai beazonosíthatatlanok maradnak, és a Google Analytics nem továbbíthat ezekkel kapcsolatos adatokat.
-Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről az Optimizely adatokat gyűjtsön, akkor további információkért keresse fel a [Optimizely lemondási oldalt](https://www.optimizely.com/opt_out). 
+Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről az Optimizely adatokat gyűjtsön, akkor küldje be [lemondását a www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) weboldalon, vagy további információkért keresse fel az [Optimizely lemondási oldalt](https://www.optimizely.com/opt_out). Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről a ShareProgress adatokat gyűjtsön, [engedélyezheti a Ne kövessenek funkciót a böngészőjében](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Egyes Mozilla.org oldalak Clear GIF-eket is használnak reklámkampányaink hatékonyságának megértésére.  Ennek lemondásához látogasson el a [Flashtalking Privacy Policy](http://www.flashtalking.com/us/privacypolicy) oldalának „Your Choices” részére, és kattintson a „Click here to opt-out” lehetőségre.
 
 * **Közösségi oldalak**: A Mozilla webhelyein a közösségi oldalakon történő megosztást szolgáló gombok célja az, hogy kizárólag azután ossza meg az adatait a közösségi oldal szolgáltatójával, miután rákattintott a gombra.
 
