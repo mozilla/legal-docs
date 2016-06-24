@@ -1,11 +1,11 @@
 # Напомена за приватност на веб-локации, комуникации и колачиња
 
-18 март, 2015 г.
+14 март, 2016 г.
 {: datetime="2015-03-18" }
 
 Се грижиме за вашата приватност. Кога Mozilla (тоа сме ние) собира информации за вас, нашата [Mozzila Политика на приватност](https://www.mozilla.org/privacy/) опишува како ракуваме со тие информации.
 
-Оваа напомена за приватност се однесува на веб-локации на Mozilla, во кои спаѓаат домените mozillians.org, mozilla.org, firefox.com, openbadges.org и webmaker.org. На пример, тука се вбројуваат bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, и wiki.mozilla.org.
+Оваа напомена за приватност важи за веб-локациите и мобилните апликации управувани од Mozilla, во коишто спаѓаат домените mozillians.org, mozilla.org, firefox.com и webmaker.org, меѓу другите. Тука спаѓаат и, на пр., bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org и wiki.mozilla.org.
 
 ## Работи што треба да ги знаете
 
@@ -47,7 +47,7 @@
 * **Е-пошта**: Приемот на нашите рекламни комуникации не е задолжителен и може да се откажете од нивно користење во подножјето на е-пораката или со ажурирање на вашите [Mozilla Претпочитани вредности за е-пошта](https://www.mozilla.org/newsletter/recovery/). Функцијата за чисти GIF-датотеки може да ја оневозможите со прикажување на нашите е-пораки во формат „само текст“.  
 
 * **Аналитика и оптимизација**: Ако не сакате податоците за вашите посети на веб-локациите на Mozilla да се собираат од страна на Google Analytics, може да инсталирате [Додаток за веб-прелистувачот за исклучување на Google Analytics ](https://tools.google.com/dlpage/gaoptout). Додатокот овозможува вашите посети да бидат анонимни и забранува пренос на податоци до Google Analytics.
-Ако не сакате податоците за вашите посети на веб-локациите на Mozilla да се собираат од страна на Optimizely, може [да се откажете од користење на www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) или да ја посетите [веб-локацијата за откажување од користење на Optimizely](https://www.optimizely.com/opt_out) за повеќе информации. 
+Ако не сакате Optimizely да собира податоци за вашите посети на веб-локациите на Mozilla, може да [откажете на www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) или да ја посетите [веб-локацијата за откажување на Optimizely](https://www.optimizely.com/opt_out) за повеќе информации. Ако не сакате ShareProgress да собира податоци за вашите посети на веб-локациите на Mozilla, може да ја [вклучите функцијата Без следење во вашиот прелистувач](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Некои страници на Mozilla.org користат и чисти GIF-датотеки за да ја анализираат ефективноста на нашите рекламни кампањи.  Може да се откажете одејќи во секцијата „Ваши избори“ на [Политиката на приватност на Flashtalking](http://www.flashtalking.com/us/privacypolicy) и избирајќи „Кликнете овде за да се откажете“.
 
 * **Друштвени медиуми**: Копчињата на веб-локациите на Mozilla што служат за споделување на друштвени медиуми се дизајнирани така што не споделуваат податоци со друштвениот медиум сѐ додека не го кликнете соодветното копче.
 
