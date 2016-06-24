@@ -1,6 +1,6 @@
 # Informativa sulla privacy di Firefox Hello
 
-25 novembre 2014
+23 novembre 2015
 {: datetime="2014-11-25" }
 
 Per Mozilla la privacy degli utenti è importante. L’Informativa sulla privacy descrive il modo in cui Mozilla utilizza le informazioni che le vengono inviate da Hello.
@@ -26,6 +26,29 @@ Mozilla riceve automaticamente una serie di metriche derivanti dall’utilizzo d
 * **Metriche di utilizzo**: Mozilla riceve informazioni aggregate sul numero di persone che utilizzano il Servizio, sui tipi di sistemi operativi e browser utilizzati e sui paesi in cui viene utilizzato il Servizio.
 
 * **Rapporti**: Mozilla riceve informazioni aggregate sul numero di persone che utilizzano il Servizio, sui tipi di sistemi operativi e browser impiegati e sui paesi in cui viene utilizzato il Servizio.
+
+
+* **Analytics**: Se utilizzate il client Hello basato sul Web per partecipare a una conversazione seguendo un link a https://hello.firefox.com, possiamo anche usare cookie e servizi di terze parti per comprendere nell’insieme come gli utenti si relazionano a Hello. Utilizziamo:
+
+    * Google Analytics, che inserisce un cookie nel vostro dispositivo per ottenere una serie di metriche relative al modo in cui vi relazionate a Hello. Questi dati ci aiutando a migliorare il servizio Hello. 
+    
+    * Optimizely, che inserisce un cookie nel vostro dispositivo per aiutarci a testare possibili variazioni di Hello. Questo ci aiuta a ottimizzare l’esperienza di utilizzo di Hello.
+
+* **Riquadri**: I riquadri sono una funzione di Hello che può essere visualizzata durante una conversazione o mentre l’utente aspetta che una conversazione venga avviata. Per fornire questa funzione, Hello invia a Mozilla dati relativi ai riquadri, quali numero di clic, impressioni, il vostro indirizzo IP e informazioni sulla lingua corrente.
+
+---------------------------------------
+
+Potete controllare le preferenze relative ai singoli cookie e scegliere di non utilizzare Web analytics e
+gli strumenti di ottimizzazione.
+
+* **Cronologia dei cookie** Potete accettare o rifiutare cookie a livello individuale nelle preferenze,
+selezionando le impostazioni appropriate all’interno del browser Web. In Firefox, tali preferenze
+si trovano nella sezione Cronologia, selezionando Strumenti/Opzioni/Privacy. Tenete presente che alcune funzioni
+di Hello potrebbero non funzionare correttamente senza l’aiuto dei cookie. 
+
+* **Analytics e ottimizzazione** Se non desiderate che i dati sulle vostre interazioni con
+Hello siano raccolti da Google Analytics, installate il [
+Componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). Il componente aggiuntivo mantiene anonime le vostre visite e proibisce la trasmissione dei dati a Google Analytics. Se non desiderate che i dati sulle vostre interazioni con Hello siano raccolti da Optimizely, potete specificarlo visitando il [sito Web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out).
 
 ---------------------------------------
 
