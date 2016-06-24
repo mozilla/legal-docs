@@ -1,6 +1,6 @@
 # Podmínky používání webů a sdělení
 
-15\. října 2014
+11. února 2016
 
 ### Podmínky používání
 
@@ -96,7 +96,7 @@ Tyto Podmínky představují úplnou dohodu mezi vámi a společností Mozilla o
 
 #### 13\. Kontaktujte nás
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
