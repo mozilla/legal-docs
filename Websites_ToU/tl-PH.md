@@ -1,6 +1,6 @@
 # Mga Tuntunin ng Paggamit ng Mga Website at Komunikasyon
 
-Mierkoles, Oktubre 15, 2014
+Pebrero 11, 2016
 
 ### Mga Tuntunin ng Paggamit
 
@@ -96,7 +96,7 @@ Binubuo ng Mga Tuntuning ito ang buong kasunduan sa pagitan ninyo at ng Mozilla 
 
 #### 13\. Makipag-ugnayan sa Amin
 
-Mozilla Corporation  
+Mozilla 
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
