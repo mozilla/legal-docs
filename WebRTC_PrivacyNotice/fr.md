@@ -1,6 +1,6 @@
 # Politique de confidentialité de Firefox Hello 
 
-Le 25 novembre 2014
+23 novembre 2015
 {: datetime="2014-11-25" }
 
 Nous nous soucions de votre vie privée. Quand Hello envoie des informations à Mozilla (il s’agit de nous), notre politique de confidentialité vous informe sur la façon dont nous gérons ces informations.
@@ -26,6 +26,29 @@ Nous recevons automatiquement certaines statistiques provenant de l’utilisatio
 * **Indicateurs d’utilisation** : Nous recevons des informations regroupées sur le nombre d’utilisateurs du Service, les types de système d’exploitation et de navigateur, et les pays dans lesquels le Service est utilisé.
 
 * **Rapports** : Nous recevons des informations regroupées sur le nombre d’utilisateurs du Service, les types de système d’exploitation et de navigateur, et les pays dans lesquels le Service est utilisé.
+
+
+* **Analytics** : Si vous utilisez le client Web Hello pour rejoindre une conversation en suivant un lien vers https://hello.firefox.com, nous pouvons utiliser des cookies et des services tiers pour mieux comprendre comment les utilisateurs interagissent avec Hello. Nous utilisons ce qui suit :
+
+    * Google Analytics, qui installe un cookie sur votre appareil, pour obtenir des informations sur la façon dont vous interagissez avec Hello. Cela nous aide à améliorer le service Hello. 
+    
+    * Optimizely, qui installe un cookie sur votre appareil, pour nous aider à tester plusieurs variantes de Hello. Cela nous aide à proposer une meilleure expérience aux utilisateurs de Hello.
+
+* **Vignettes** : Les vignettes sont une fonctionnalité de Hello ; elles peuvent s'afficher pendant une conversation ou lorsqu'un utilisateur attend le démarrage d'une conversation. Pour que les vignettes fonctionnent, Hello envoie à Mozilla des données relatives aux vignettes, comme le nombre de clics et d'impressions, votre adresse IP et des informations sur vos paramètres régionaux.
+
+---------------------------------------
+
+Vous pouvez contrôler les paramètres de vos cookies et désactiver les outils d'analyse Web et
+d'optimisation.
+
+* **Historique des cookies** : Vous pouvez accepter ou refuser des cookies dans les choix
+proposés dans les paramètres appropriés dans votre navigateur Web. Dans Firefox, accédez à
+Outils/Options/Vie privée, section Historique Notez que certaines fonctionnalités
+de Hello peuvent ne pas être actives si les cookies sont désactivés. 
+
+* **Analytics et Optimizely** : Si vous ne souhaitez pas que les données relatives à votre interaction avec
+Hello soient collectées par Google Analytics, vous pouvez installer le [Module complémentaire de navigateur
+pour la désactivation de Google Analytics](https://tools.google.com/dlpage/gaoptout). Le module complémentaire rend vos visites anonymes et empêche la transmission des données vers Google Analytics. Si vous ne souhaitez pas que les données relatives à votre interaction avec Hello soient collectées par Optimizely, vous pouvez annuler cette fonctionnalité sur le [site Web d'annulation Optimizely](https://www.optimizely.com/opt_out).
 
 ---------------------------------------
 
