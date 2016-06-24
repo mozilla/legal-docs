@@ -1,11 +1,11 @@
 # ওয়েবসাইট, যোগাযোগ এবং কুকি গোপনীয়তা বিজ্ঞপ্তি
 
-18 ই মার্চ, 2015
+14 मार्च 2016
 {: datetime="2015-03-18" }
 
 আমরা আপনার গোপনীয়তা রক্ষার বিষয়ে যত্নবান৷ যখন Mozilla (আমরা) আপনার সম্বন্ধে তথ্য সংগ্রহ করে, তখন আমাদের [Mozilla গোপনীয়তা নীতি](https://www.mozilla.org/privacy/) এই তথ্যকে আমরা কীভাবে কাজে লাগাই তার বর্ণনা করে৷
 
- এই গোপনীয়তা বিজ্ঞপ্তি Mozilla দ্বারা আপারেট করা ওয়েবসাইটগুলি, যেখানে mozillians.org, mozilla.org, firefox.com, openbadges.org এবং webmaker.org. ডোমেনগুলি রয়েছে, তাদের জন্য প্রযোজ্য। এটিতে রয়েছে উদাহরণস্বরুপ, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, এবং wiki.mozilla.org।
+এই গোপনীয়তা নোটিসটি Mozilla চালিত ওয়েবসাইট এবং মোবাইল অ্যাপস, এর প্রয়োগ হয় যার মধ্যে রয়েছে ডোমেনস mozillians.org, mozilla.org, firefox.com, এবং webmaker.org, অন্যান্যগুলির মধ্যে৷ এর মধ্যে রয়েছে, উদাহরণ স্বরূপ, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, এবং wiki.mozilla.org.
 
 ## যে বিষয়গুলি আপনার জানা প্রয়োজন
 
@@ -47,7 +47,7 @@
 * **ইমেল**: আমাদের বিপণন যোগাযোগ পেতে সম্মত হওয়া বাধ্যতামূলক নয় এবং আপনি আপনার ইমেলের ফুটারের থেকে অথবা আপনার [Mozilla ইমেল পছন্দসই](https://www.mozilla.org/newsletter/recovery/) আপডেট করার মাধ্যমে সদস্যতা ত্যাগ করতে পারেন। “কেবলমাত্র পাঠ্যযোগ্য” ফর্মাটে আমাদের ইমেল দেখার মাধ্যমে আপনি GIF সাফ করার কার্যকারিতা অক্ষম করতে পারেন।  
 
 * **অ্যানালিটিক্স ও অপ্টিমাইজেশান**: আপনি যদি Mozilla ওয়েবসাইট পরিদর্শন করার ডেটা Google Analytics-দ্বারা সংগৃহীত হোক এমনটি না চান, তাহলে[Google Analytics ব্রাউজার অ্যাড-ওন অনির্বাচন করুন](https://tools.google.com/dlpage/gaoptout) ইনস্টল করুন। অ্যাড-ওন আপনার পরিদর্শন বেনামী রাখে এবং Google Analytics-কে ডেটা পাঠানো নিষিদ্ধ করে।
-আপনি যদি Mozilla ওয়েবসাইট পরিদর্শন করার ডেটা Optimizely-দ্বারা সংগৃহীত হোক এমনটি না চান, তাহলে আরো তথ্যের জন্য [www.mozilla.org অনির্বাচন করতে পারেন](https://www.mozilla.org/?optimizely_opt_out=true) বা [Optimizely's ওয়েবসাইট অনির্বাচন করুনwww.mozilla.org](https://www.optimizely.com/opt_out) এ যেতে পারেন।ারেন। 
+যযদি আপনি চান না যে Mozilla ওয়েবসাইটে আপনার পরিদর্শন সম্পর্কিত ডেটা অপটিমাইজলি দ্বারা সংগৃহীত হোক, তবে আপনি আরও তথ্যের জন্য [www.mozilla.org এ অপট-আউট](https://www.mozilla.org/?optimizely_opt_out=true) করতে পারেন বা [অপটিমাইজলি এর অপট-আউট ওয়েবসাইট](https://www.optimizely.com/opt_out) পরিদর্শন করতে পারেন৷ ShareProgress, আপনি [আপনার ব্রাউজারে ডু নট ট্র্যাক চালু] করতে পারেন৷](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)  এছাড়া কিছু Mozilla.org পৃষ্ঠাগুলি আমাদের বিজ্ঞাপনের প্রচারের কার্যকারিতাকে উপলব্ধি করতে স্পষ্ট GIF গুলিও ব্যবহার করে৷  আপনি [ফ্ল্যাশটকিং এর গোপনীয়তা নীতি ](http://www.flashtalking.com/us/privacypolicy)এর "আপনার পছন্দগুলি" তে গিয়ে এবং "অপট-আউট" করতে এখানে ক্লিক করুন" নির্বাচন করে অপট-আউট করতে পারেন৷
 
 * **সোশ্যাল মিডিয়া**: Mozilla ওয়েবসাইটগুলিতে ডিজাইন করা সোশ্যাল ভাগ করার বোতামে যতক্ষণ না আপনি সেটিতে ক্লিক করেন ততক্ষণ সোশ্যাল মিডিয়া প্রদানকারীকে তথ্য ভাগ করা হয় না।
 
