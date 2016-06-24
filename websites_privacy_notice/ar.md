@@ -1,11 +1,11 @@
 # إشعار خصوصية المواقع الإلكترونية والمراسلات وملفات الكوكيز
 
-27 أغسطس 2014
+14 مارس، 2016
 {: datetime="2014-08-27" }
 
 نحن نهتم كثيرًا بخصوصيتك. وعندما تجمع Mozilla (موزيلا/نحن)‎ معلومات تتعلق بك، نُطبق ‎[سياسة خصوصية Mozilla‏](https://www.mozilla.org/privacy/) التي تصف كيفية تعاملنا مع هذه المعلومات.
 
-ويسري إشعار الخصوصية هذا على مواقع Mozilla الإلكترونية العاملة والتي تتضمن المجالات: mozillians.org وmozilla.org وfirefox.com وopenbadges.org وwebmaker.org. ويشمل هذا على سبيل المثال: bugzilla.mozilla.org وreps.mozilla.org وcareers.mozilla.org وdevelopers.mozilla.org وsupport.mozilla.org وaddons.mozilla.org وwiki.mozilla.org.
+يسري إشعار الخصوصية هذا على مواقع Mozilla الإلكترونية العاملة وتطبيقات الأجهزة المحمولة والتي تشتمل على المجالات mozillians.org وmozilla.org وfirefox.com وwebmaker.org من بين أخرى. ويشتمل هذا على سبيل المثال على، bugzilla.mozilla.org وreps.mozilla.org وcareers.mozilla.org وdevelopers.mozilla.org وsupport.mozilla.org وaddons.mozilla.org وwiki.mozilla.org.
 
 ## أمورٌ ينبغي أن تعرفها
 
@@ -44,7 +44,7 @@
 * **البريد الإلكتروني**: يمكنك بمطلق الحرية اختيار تلقي مراسلاتنا التسويقية أو إلغاء الاشتراك منها من خلال الرابط الموجود في تذييل الرسالة أو عن طريق تحديث ‎[تفضيلات البريد الإلكتروني لـ Mozilla‏](https://www.mozilla.org/newsletter/recovery/). ويمكنك تعطيل وظائف ملفات GIF الشفافة عن طريق عرض الرسائل الإلكترونية الواردة من جانبنا بتنسيق "نص فقط".
 
 * **التحليلات والتحسينات**: إذا كنت لا تريد أن يتم جمع البيانات المتعلقة بزياراتك إلى مواقع Mozilla الإلكترونية من قِبل Google Analytics، فيمكنك تثبيت [وظيفة المتصفح الإضافية لتعطيل التتبع في Google Analytics‏](https://tools.google.com/dlpage/gaoptout). فهذه الوظيفة الإضافية تحتفظ بزياراتك مجهولة الهوية وتمنع إرسال البيانات إلى Google Analytics‏.
-وإذا كنت لا تريد أن يتم جمع البيانات المتعلقة بزياراتك إلى مواقع Mozilla الإلكترونية من قِبل Optimizely، فيمكنك زيارة [الموقع الإلكتروني لتعطيل التعقب في Optimizely‏](https://www.optimizely.com/opt_out) للحصول على مزيدٍ من المعلومات.
+إذا كنت لا ترغب في تجميع البيانات المتعلقة بزياراتك إلى مواقع Mozilla الإلكترونية بواسطة Optimizely، فيمكنك [إلغاء الاشتراك على www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) أو زيارة [موقع Optimizely الإلكتروني الخاص بإلغاء الاشتراك](https://www.optimizely.com/opt_out) للمزيد من المعلومات إذا كنت لا ترغب في تجميع البيانات المتعلقة بزياراتك إلى مواقع Mozilla الإلكترونية بواسطة ShareProgress، فيمكنك [تشغيل ميزة عدم التعقب في المستعرض لديك](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). تستخدم بعض صفحات Mozilla.org أيضًا ملفات GIF الشفافة لتتفهم فعالية حملات الإعلان الخاصة بك.  يمكنك إلغاء الاشتراك من خلال الانتقال إلى القسم “الاختيارات الخاصة بك” في [سياسة خصوصية Flashtalking](http://www.flashtalking.com/us/privacypolicy) وتحديد “انقر هنا لإلغاء الاشتراك”.
 
 * **وسائل التواصل الاجتماعي**: صُممت أزرار المشاركة الاجتماعية على مواقع Mozilla الإلكترونية بحيث لا تشارك البيانات مع مزوّد خدمة التواصل الاجتماعي حتى تنقر تحديدًا على الزر.
 
