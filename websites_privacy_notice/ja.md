@@ -57,7 +57,10 @@ Mozillaは、機能性の向上、並びに Mozilla の製品、サービスお�
 * **電子メール**：皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla電子メール設定](https://www.mozilla.org/newsletter/recovery/)を通じて受信を中止することができます。皆様は、Mozilla からの電子メールを「テキスト専用」形式で閲覧することによって、クリア GIF の機能を無効化することができます
 
 * **解析および最適化**：Google アナリティクスによって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様は[Google アナリティクス オプトアウト アドオン](https://tools.google.com/dlpage/gaoptout)をインストールすることができます。このアドオンにより、皆様の閲覧情報は匿名化され、Google アナリティクスへのデータ送信は行われなくなります。
-Optimizely によって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様は [www.mozilla.org 上でオプトアウトするか]( https://www.mozilla.org/?optimizely_opt_out=true)、更に情報を取得するために [Optimizely のオプトアウトウェブサイト](https://www.optimizely.com/opt_out)を利用することができます。Mozilla.org のページでは、クリアGIFを利用し、Mozillaの広告キャンペーンの効果を把握していますが、[Flashtalkingのプライバシーポリシー ](http://www.flashtalking.com/us/privacypolicy) の「Your Choice」セクションへ行き、「オプトアウトするためにはここをクリックして下さい（Click here to opt-out）」を選択することで、オプトアウトすることができます。
+Optimizely によって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様は www.mozilla.org 上でオプトアウトできます。詳細については、Optimizely のオプトアウトウェブサイトをご覧ください。
+ShareProgress によって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様はお使いのブラウザでトラッキング拒否機能を有効にできます。
+Mozilla.org ページの中には、クリア GIF を利用して、Mozilla の広告キャンペーンの効果を把握しようとしているものがあります。
+この機能は、Flashtalkingのプライバシーポリシーへ行き、「オプトアウトするためにはここをクリックしてください（Click here to opt-out）」を選択することで、オプトアウトすることができます。
 
 * **ソーシャルメディア**：Mozilla のウェブサイトにおけるソーシャルメディア共有ボタンは、皆様がこれを明確にクリックしない限り、ソーシャルメディアプロバイダとデータを共有しないように設計されています。
 
