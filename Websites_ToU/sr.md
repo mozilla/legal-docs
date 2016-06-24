@@ -1,6 +1,6 @@
 # Uslovi korišćenja za veb-sajtove i obaveštenja
 
-15\. oktobar 2014\.
+11. februar, 2016
 
 ### Uslovi korišćenja
 
@@ -96,7 +96,7 @@ Ovi Uslovi čine celokupan sporazum između vas i kompanije Mozilla u vezi sa na
 
 #### 13\. Kontaktirajte nas
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
