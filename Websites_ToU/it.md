@@ -1,6 +1,6 @@
 # Termini di utilizzo di siti web e comunicazioni
 
-15 ottobre 2014
+11 febbraio 2016
 
 ### Termini di utilizzo
 
@@ -96,7 +96,7 @@ I presenti Termini costituiscono l’intero accordo tra Mozilla e l’utente rel
 
 #### 13\. Contattateci
 
-Mozilla Corporation
+Mozilla
 Att.: Mozilla - Avvisi legali
 331 E. Evelyn Ave.,
 Mountain View, CA 94041
