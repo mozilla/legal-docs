@@ -1,11 +1,11 @@
 # Abiso sa Privacy ng Mga Website, Komunikasyon at Cookies
 
-Mierkoles, Agosto 27, 2014
+Marso 14, 2016
 {: datetime="2014-08-27" }
 
 Pinahahalagahan namin ang inyong privacy. Kapag nangongolekta ng impormasyon ang Mozilla (kami iyon) tungkol sa inyo, inilalarawan ng aming [Patakaran sa Privacy sa Mozilla](https://www.mozilla.org/privacy/) kung paano namin pinapangasiwaan ang impormasyong iyon.
 
-Nalalapat ang abiso sa privacy na ito sa mga website na pinapatakbo ng Mozilla, na kinabibilangan ng mga domain na mozillians.org, mozilla.org, firefox.com, openbadges.org at webmaker.org. Kabilang dito, halimbawa, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, at wiki.mozilla.org.
+Nalalapat ang paunawa ng privacy na ito sa mga website at mobile app na pinapatakbo ng Mozilla, kung saan kabilang ang mga domain na mozillians.org, mozilla.org, firefox.com at webmaker.org, at marami pang iba. Halimbawa, kabilang dito ang, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org at wiki.mozilla.org.
 
 ## Mga bagay na dapat ninyong malaman
 
@@ -44,7 +44,7 @@ Maaari ninyong kontrolin ang mga indibidwal na kagustuhan sa cookie, isaad sa ib
 * **Email**: Opsyonal na matatanggap ang aming mga komunikasyon para sa marketing at maaari kayong mag-unsubscribe mula sa footer ng email o sa pamamagitan ng pag-update sa inyong [mga kagustuhan sa email sa Mozilla](https://www.mozilla.org/newsletter/recovery/). Maaari ninyong i-disable ang functionality ng mga clear na GIF sa pamamagitan ng pagbabasa ng mga email mula sa amin sa format na “text lang.”
 
 * **Analytics at Pag-optimize**: Kung ayaw ninyong kolektahin ng Google Analytics ang data tungkol sa inyong mga pagbisita sa mga webiste ng Mozilla, maaari ninyong i-install ang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Pinapanatili ng add-on na anonymous ang inyong mga pagbisita at pinagbabawalan ang pagpapadala ng data sa Google Analytics.
-Kung ayaw ninyong kolektahin ng Optimizely ang data tungkol sa inyong mga pagbisita sa mga webiste ng Mozilla, maaari ninyong bisitahin ang [website sa pag-opt out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon.
+Kung ayaw mong makakuha ang Optimizely ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari kang [mag-opt-out sa www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o bumisita sa [website sa pag-opt-out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon. Kung ayaw mong makakuha ang ShareProgress ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari mong [i-on ang Huwag Subaybayan sa iyong browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Gumagamit din ang ilang page ng Mozilla.org ng mga malinaw na GIF upang maunawaan ang pagiging epektibo ng aming mga campaign ng advertising.  Maaari kang mag-opt-out sa pamamagitan ng pagpunta sa seksyong “Mga Pagpipilian Mo” ng [Patakaran sa Privacy ng Flashtalking](http://www.flashtalking.com/us/privacypolicy) at pagpili sa “Mag-click dito upang mag-opt-out”..
 
 * **Social Media**: Dinisenyo ang mga button ng social sharing sa mga website ng Mozilla na huwag magbahagi ng data sa provider ng social media hanggang sa partikular ninyong i-click ang button.
 
