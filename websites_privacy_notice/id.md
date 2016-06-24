@@ -1,11 +1,11 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Kuki
 
-18 Maret 2015
+14 Maret 2016
 {: datetime="2015-03-18" }
 
 Kami peduli dengan privasi Anda. Jika Mozilla (yaitu kami) mengumpulkan informasi tentang Anda, [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan cara kami menangani informasi tersebut.
 
-Pemberitahuan privasi ini berlaku untuk situs web yang dioperasikan Mozilla, yang mencakup domain mozillians.org, mozilla.org, firefox.com, openbadges.org, dan webmaker.org. Domain tersebut mencakup, misalnya, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, dan wiki.mozilla.org.
+Pemberitahuan privasi ini berlaku untuk aplikasi situs web dan seluler yang dioperasikan Mozilla, yang meliputi domain mozillians.org, mozilla.org, firefox.com, dan webmaker.org, dan masih banyak lagi lainnya. Termasuk juga, misalnya, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, dan wiki.mozilla.org.
 
 ## Hal-hal yang perlu Anda ketahui
 
@@ -47,7 +47,7 @@ Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki
 * **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan lewat bagian kaki email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/). Anda dapat menonaktifkan fungsionalitas gambar GIF transparan dengan melihat email dari kami dalam format "teks saja".
 
 * **Analitika & Optimalisasi**: Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh Google Analytics, Anda dapat menginstal [Add-on Browser Penghentian Berlangganan Google Analytics](https://tools.google.com/dlpage/gaoptout). Add-on ini menjadikan kunjungan Anda bersifat anonim dan melarang transmisi data ke Google Analytics.
-Jika Anda tidak ingin data tentang kunjungan Anda ke situs web Mozilla dikumpulkan oleh Optimizely, Anda dapat [berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [situs web berhenti berlangganan Optimizely](https://www.optimizely.com/opt_out) untuk informasi selengkapnya.
+Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh Optimizely, Anda bisa [memilih berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [situs web berhenti berlangganan Optimizely](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya. Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh ShareProgress, Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Beberapa halaman Mozilla.org juga menggunakan gambar GIF yang jelas untuk memahami keefektifan program pemasaran iklan kami.  Anda bisa berhenti berlangganan dengan membuka bagian “Your Choices” (“Pilihan Anda”) dari [Kebijakan Privasi Flashtalking](http://www.flashtalking.com/us/privacypolicy) dan memilih “Click here to opt-out” (“Klik di sini untuk berhenti berlangganan”).
 
 * **Media Sosial**: Tombol berbagi sosial pada situs web Mozilla dirancang untuk tidak berbagi data dengan penyedia media sosial hingga Anda secara benar-benar mengeklik tombol tersebut.
 
