@@ -1,6 +1,6 @@
 # Termos de uso de Sites e Comunicações
 
-15 de outubro de 2014
+11 de fevereiro de 2016
 
 ### Termos de uso
 
@@ -96,7 +96,7 @@ Estes Termos constituem o acordo integral entre você e a Mozilla em relação �
 
 #### 13\. Entre em contato
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
