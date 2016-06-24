@@ -1,6 +1,6 @@
 # Termeni de utilizare a site-urilor web și comunicărilor
 
-15 octombrie 2014
+11 februarie, 2016
 
 ### Termeni de utilizare
 
@@ -96,7 +96,7 @@ Acești Termeni constituie întregul acord între dvs. și Mozilla privind Comun
 
 #### 13\. Contactați-ne
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
