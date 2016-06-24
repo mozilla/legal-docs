@@ -1,6 +1,6 @@
 # ウェブサイトおよびコミュニケーション　利用規約
 
-2014 年 10 月 15 日
+2016 年 2 月 11 日
 
 ［この文書は、日本のFirefoxブラウザのユーザ等の便宜を図るために掲載している、Websites & Communications Terms of Useの参考訳です。］
 
@@ -97,7 +97,7 @@ Mozilla は、理由の如何を問わず、いつでも、皆様による当社
 
 #### 13\. お問い合わせ先
 
-Mozilla Corporation  
+Mozilla 
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
