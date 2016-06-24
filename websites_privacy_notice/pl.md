@@ -1,11 +1,11 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-18 marca 2015 r.
+14 marca 2016 r.
 {: datetime="2015-03-18" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
-Zasady prywatności dotyczą witryn obsługiwanych przez firmę Mozilla, znajdujących się w domenach mozillians.org, mozilla.org, firefox.com, openbadges.org czy webmaker.org. Należą do nich między innymi witryny bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
+Zasady prywatności dotyczą aplikacji mobilnych i witryn obsługiwanych przez firmę Mozilla, znajdujących się między innymi w domenach mozillians.org, mozilla.org, firefox.com i webmaker.org. Należą do nich między innymi witryny bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
 ## Co warto wiedzieć
 
@@ -47,7 +47,7 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 * **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/). Funkcjonalność przezroczystych plików GIF można wyłączyć, wyświetlając wiadomości od nas w formacie czysto tekstowym.
 
 * **Analityka i optymalizacja**: jeśli użytkownik nie chce, by usługa Google Analytics zbierała informacje o jego wizytach w witrynach firmy Mozilla, może zainstalować [dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatek dba o anonimowość wizyt i uniemożliwia przesyłanie danych do usługi Google Analytics.
-Jeśli użytkownik nie chce, by usługa Optimizely zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [zrezygnować z tej usługi na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub uzyskać więcej informacji w [witrynie rezygnacji z usług Optimizely](https://www.optimizely.com/opt_out).
+Jeśli użytkownik nie chce, by usługa Optimizely zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [zrezygnować z tej usługi na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub przejść do [witryny rezygnacji z usługi Optimizely](https://www.optimizely.com/opt_out), gdzie znajdzie więcej informacji. Jeśli użytkownik nie chce, by usługa ShareProgress zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [włączyć w przeglądarce funkcję Ograniczanie śledzenia](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Niektóre strony Mozilla.org wykorzystują także przezroczyste pliki GIF, by badać skuteczność naszych kampanii reklamowych.  Użytkownik może z tego zrezygnować, przechodząc do sekcji „Your Choices” (Twoje wybory) w dokumencie [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) (Polityka prywatności Flashtalking) i wybierając opcję „Click here to opt-out” (Kliknij tutaj, by zrezygnować).
 
 * **Media społecznościowe**: przyciski społecznościowe w witrynach firmy Mozilla zostały zaprojektowane tak, by nie udostępniać żadnych danych dostawcom usług społecznościowych, dopóki nie kliknie ich użytkownik.
 
