@@ -1,6 +1,6 @@
 # Conditions d’utilisation des sites Web et Communications
 
-Le 15 octobre 2014
+11 février 2016
 
 ### Conditions d’utilisation
 
@@ -96,7 +96,7 @@ Les présentes Conditions constituent l’ensemble de l’accord entre vous et M
 
 #### 13\. Contactez-nous
 
-Mozilla Corporation  
+Mozilla
 À l’attention de : Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
