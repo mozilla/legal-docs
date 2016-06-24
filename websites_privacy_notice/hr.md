@@ -1,11 +1,11 @@
 # Napomene o privatnosti za web-mjesta, komunikacije i kolačiće
 
-27. kolovoza 2014.
+14. ožujka 2016.
 {: datetime="2014-08-27" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
-Ova napomena o pravilima primjenjuje se na web-mjesta koja rade s Mozillom, što uključuje domene mozillians.org, mozilla.org, firefox.com, openbadges.org i webmaker.org. Ovo uključuje, primjerice, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, i wiki.mozilla.org.
+Ova obavijest o privatnosti primjenjuje se na Mozilla radna web-mjesta i mobilne aplikacije, koje uključuju domene mozillians.org, mozilla.org, firefox.com i webmaker.org, između ostalog. Ovo uključuje, primjerice bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
 ## Što biste trebali znati
 
@@ -43,7 +43,7 @@ Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke
 * **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/). Možete onemogućiti funkciju čistih GIF-ova pregledom poruke e-pošte u samo tekstualnom formatu.  
 
 * **Analitike i optimizacija**: Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi Google Analytics, možete instalirati [Dodatak pregledniku za isključivanje usluge Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatak čuva anonimnost vaše posjete i zabranjuje prijenos podataka usluzi Google Analytics.
-Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi Optimizely, za više informacija možete posjetiti [Web-mjesto za isključivanje usluge Optimizely](https://www.optimizely.com/opt_out). 
+Ako ne želite da podaci o vašoj posjeti Mozilla web-mjestima budu prikupljeni od strane Optimizely, možete [uključiti na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posjetiti [Web-mjesto za isključivanje Optimizelya](https://www.optimizely.com/opt_out). Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi ShareProgress, možete [ uključiti Ne prati u pregledniku](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Neke Mozilla.org stranice također koriste čiste GIF-ove za razumijevanje učinkovitosti naših kampanja za oglašavanje.  Možete isključiti u odjeljku „Vaš izbor” od [Flashtalking’s Politike o privatnosti](http://www.flashtalking.com/us/privacypolicy) i odabirom „Klikni ovdje za isključenje”.
 
 * **Društveni mediji**: Gumbi za društveno dijeljenje na Mozilla web-mjestima dizajnirani su tako da ne dijele podatke s poslužiteljem društvenih medija dok ne kliknete na gumb.
 
