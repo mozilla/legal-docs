@@ -1,6 +1,6 @@
 # Услови за употреба на веб-локации и комуникации
 
-15 октомври 2014 г.
+11 февруари, 2016 г.
 
 ### Услови за употреба
 
@@ -96,7 +96,7 @@
 
 #### 13\. Контактирајте со нас
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
