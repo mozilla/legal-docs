@@ -1,11 +1,11 @@
 # Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-27. srpna 2014
+14. března 2016
 {: datetime="2014-08-27" }
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
-Tyto zásady ochrany osobních údajů platí pro webové stránky provozované společností Mozilla, což zahrnuje domény mozillians.org, mozilla.org, firefox.com, openbadges.org a webmaker.org. Patří mezi ně například bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
+Toto oznámení o ochraně osobních údajů se vztahují na webové stránky a mobilní aplikace provozované společností Mozilla, které, kromě jiného, zahrnují domény mozillians.org, mozilla.org, firefox.com a webmaker.org. To se týká například bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
 
 ## Co byste měli vědět
 
@@ -43,7 +43,7 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
 * **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/). Funkci jednopixelových gifů můžete deaktivovat tím, že si e-maily od nás budete prohlížet v „textovém“ formátu.  
 
 * **Analytika a optimalizace**: Nechcete-li, aby údaje o vašich návštěvách webových stránek Mozilla byly shromažďovány analytikou Googlu, můžete si nainstalovat doplněk [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Doplněk zachovává anonymitu vašich návštěv a brání přenosu dat do analytiky Googlu.
-Nechcete-li, aby údaje o vašich návštěvách webových stránek Mozilla byly shromažďovány platformou Optimizely, dozvíte se více informací na [webových stránkách Optimizely pro odhlášení ze služby](https://www.optimizely.com/opt_out). 
+Pokud si nepřejete, aby aplikace Optimizely neshromažďovala data o vašich návštěvách webových stránek společnosti Mozilla, můžete [registraci zrusit na stránkách on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) nebo navštívit [webové stránky zrušení registrace aplikace Optimizely,](https://www.optimizely.com/opt_out) kde najdete podrobnější informace. Pokud si nepřejete, aby aplikace ShareProgress neshromažďovala data o vašich návštěvách webových stránek společnosti Mozilla, můžete [zapněte v prohlížeči volbu Nesledovat](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Některé stránky společnosti Mozilla rovněž používají čistý GIF pro pochopení účinnosti našich reklamních kampaní.  Registraci můžete zrušit, když přejdete do části „Vaše volby” [Zásad ochrany soukromí aplikace Flashtalking](http://www.flashtalking.com/us/privacypolicy) a volbou možnosti „Kliknutím sem zrušíte registraci”.
 
 * **Sociální média**: Tlačítka pro sdílení na sociálních sítích na webových stránkách Mozilla jsou navržena tak, aby údaje nebyly sdíleny s poskytovatelem sociálních médií, dokud na tlačítko přímo nekliknete.
 
