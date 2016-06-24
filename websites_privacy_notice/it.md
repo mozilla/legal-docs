@@ -1,11 +1,11 @@
 # Informativa sulla privacy dei siti web, comunicazioni e cookie
 
-18 marzo 2015
+14 marzo 2016
 {: datetime="2015-03-18" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
 
-Questa informativa sulla privacy si applica ai siti web gestiti da Mozilla, che includono i domini mozillians.org, mozilla.org, firefox.com, openbadges.org e webmaker.org. Sono inclusi, per esempio, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Questo avviso sulla privacy si applica ai siti Web gestiti da Mozilla e alle app per dispositivi mobili, che includono i domini mozillians.org, mozilla.org, firefox.com e webmaker.org, solo per citarne alcuni.  Sono inclusi, per esempio, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## Cose da sapere
 
@@ -47,7 +47,7 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 * **Email** La ricezione delle nostre comunicazioni di marketing è facoltativa: è possibile annullare l’iscrizione nel piè di pagina dell’email oppure aggiornando le proprie [preferenze email Mozilla](https://www.mozilla.org/newsletter/recovery/). È possibile disattivare la funzionalità delle GIF trasparenti visualizzando le nostre email in formato “solo testo”.
 
 * **Analytics e ottimizzazione** Se non si desidera che i dati sulle proprie visite ai siti Mozilla siano raccolti da Google Analytics, consigliamo di installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). Il componente aggiuntivo mantiene anonime le visite e blocca la trasmissione dei dati a Google Analytics.
-Se non si desidera che i dati sulle proprie visite ai siti Mozilla siano raccolti da Optimizely, consigliamo di [scegliere di disattivare il servizio su www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) oppure di visitare il [sito Web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni.
+Se non desiderate che i dati sulle vostre visite ai siti Web di Mozilla siano raccolti da Optimizely, potete [scegliere di disattivare il servizio su www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) oppure visitare il [sito Web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni. Se non desiderate che i dati sulle vostre visite ai siti Web di Mozilla siano raccolti da ShareProgress, potete [attivare la funzione antitracciamento nel vostro browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Alcune pagine Mozilla.org usano inoltre GIF trasparenti per verificare l’efficacia delle nostre campagne pubblicitarie.  Potete scegliere di disattivare il servizio andando alla sezione “Le tue scelte” dell’[informativa sulla privacy di Flashtalking](http://www.flashtalking.com/us/privacypolicy) e selezionando “Fai clic qui per disattivare il servizio”.
 
 * **Social media** I pulsanti di condivisione sui social media presenti nei siti web Mozilla sono progettati in modo da non condividere dati con il social network fino a quando non si fa esplicitamente clic sul pulsante.
 
