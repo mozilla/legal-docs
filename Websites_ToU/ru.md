@@ -1,6 +1,6 @@
 # Условия использования веб-сайтов и коммуникаций
 
-15 октября 2014 г.
+11 февраля 2016 г.
 
 ### Условия использования
 
@@ -96,7 +96,7 @@
 
 #### 13\. Контактные данные
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
