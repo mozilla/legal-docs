@@ -1,11 +1,11 @@
 # Aviso de Privacidade sobre sites, comunicação e cookies
 
-18.03.15
+14 de março de 2016
 {: datetime="2015-03-18" }
 
 Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
-Este aviso de privacidade se aplica aos sites administrados pela Mozilla, inclusive os domínios mozillians.org, mozilla.org, firefox.com, openbadges.org e webmaker.org. Isso inclui, por exemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Esta Política de Privacidade se aplica a sites e aplicativos móveis operados pela Mozilla, inclusive os domínios mozillians.org, mozilla.org, firefox.com e webmaker.org, entre outros. Isso inclui, por exemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## O que você deve saber
 
@@ -47,7 +47,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 * **E-mail**: receber nossas comunicações de marketing é opcional e você pode cancelar a inscrição no rodapé do e-mail ou atualizando suas [preferências de e-mail do Mozilla](https://www.mozilla.org/newsletter/recovery/). É possível desativar a funcionalidade de GIFs transparentes ao exibir nossos e-mails no formato "somente texto".  
 
 * **Análises e otimização**: caso não deseje que os dados sobre suas visitas a sites da Mozilla sejam coletados pelo Google Analytics, é possível instalar o [Add-on do navegador para desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout). O complemento mantém o anonimato de suas visitas e proíbe a transmissão de dados para o Google Analytics.
-Caso não deseje que os dados sobre suas visitas a sites da Mozilla sejam coletados pelo Optimizely, é possível [optar por não participar em www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acessar o [site de Opção de não participação do Optimizely](https://www.optimizely.com/opt_out) para mais informações.
+Caso você não queira que o Optimizely colete dados das suas visitas nos sites da Mozilla, [cancele em www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acesse [o site de cancelamento do Optimizely](https://www.optimizely.com/opt_out) para obter mais informações. Caso você não queira que o ShareProgress colete dados sobre suas visitas nos sites da Mozilla, [habilite a opção "Não me rastreie" no navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Algumas páginas Mozilla.org também usam GIFs claros para entender a eficácia das nossas campanhas de publicidade.  Cancele na seção "Suas opções" da seção [Política de Privacidade da Flashtalking](http://www.flashtalking.com/us/privacypolicy). Selecione "Clique aqui para cancelar".
 
 * **Redes sociais**: os botões de compartilhamento em redes sociais dos sites da Mozilla foram desenvolvidos para não compartilhar os dados com o provedor da rede social até você realmente clicar no botão.
 
