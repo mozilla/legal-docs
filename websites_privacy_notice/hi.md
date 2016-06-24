@@ -1,11 +1,11 @@
 # वेबसाइटें, संचार और कुकी गोपनीयता सूचना
 
-18 मार्च 2015
+14 मार्च 2016
 {: datetime="2015-03-18" }
 
 हम आपकी गोपनीयता का ध्यान रखते हैं. जब Mozilla (मतलब हम) आपके बारे में जानकारी एकत्रित करते हैं, तो हमारी [Mozilla गोपनीयता नीति](https://www.mozilla.org/privacy/) व्याख्या करती है कि हम इस जानकारी को किस तरह से प्रबंधित करते हैं.
 
-यह गोपनीयता सूचना Mozilla द्वारा संचालित वेबसाइटों पर लागू होती है, जिसमें डोमेन mozillians.org, mozilla.org, firefox.com, openbadges.org और webmaker.org शामिल होते हैं. उदाहरण के लिए इसमें शामिल हैं, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org और wiki.mozilla.org.
+यह गोपनीयता सूचना Mozilla द्वारा संचालित वेबसाइटों और मोबाइल एप पर लागू होती है जो कि अन्य के बीच, mozillians.org, mozilla.org, firefox.com, और webmaker.org डोमेन को शामिल करती हैं. उदाहरण के लिए, यह bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, और wiki.mozilla.org को शामिल करता है.
 
 ## वे बातें जो आपको जानना चाहिए:
 
@@ -47,7 +47,7 @@
 * **ईमेल**: प्राप्त करने के लिए हमारे विपणन संचार वैकल्पिक हैं और आप उन्हें ईमेल के फ़ुटर से या अपनी [Mozilla ईमेल प्राथमिकताएं](https://www.mozilla.org/newsletter/recovery/)को अपडेट करके अनसब्सक्राइब कर सकते हैं. आप “text only” स्वरूप में हमारे द्वारा भेजे गए ईमेल को देखकर स्पष्ट GIF की कार्यक्षमता को अक्षम कर सकते हैं.  
 
 * **Analytics और Optimization**: यदि आप Google Analytics द्वारा Mozilla वेबसाइटों में की गई अपनी विज़िट के बारे में डेटा एकत्रित नहीं करने देना चाहते हैं, तो आप [Google Analytics ऑप्ट-आउट ब्राउज़र एड-ऑन](https://tools.google.com/dlpage/gaoptout) इंस्टॉल कर सकते हैं. एड-ऑन आपकी विज़िट को अज्ञात रखता है और Google Analytics पर डेटा प्रसारण प्रतिबंधित करता है.
-यदि आप Optimizely द्वारा Mozilla वेबसाइटों में की गई अपनी विज़िट के बारे में डेटा एकत्रित नहीं करने देना चाहते हैं, तो आप अधिक जानकारी के लिए, [ www.mozilla.org पर ऑप्ट-आउट](https://www.mozilla.org/?optimizely_opt_out=true)  या [Optimizely की ऑप्ट आउट वेबसाइट](https://www.optimizely.com/opt_out) पर जा सकते हैं.
+यदि आप नहीं चाहते कि Mozilla वेबसाइटों की विज़िट से संबंधित जो डेटा है उसे Optimizely द्वारा एकत्रित किया जाए, तो आप [ www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) पर ऑप्ट-आउट कर सकते हैं या अधिक जानकारी के लिए [Optimizely की ऑप्ट-आउट वेबसाइट](https://www.optimizely.com/opt_out) विज़िट कर सकते हैं. यदि आप नहीं चाहते कि Mozilla वेबसाइटों की विज़िट से संबंधित जो डेटा है उसे ShareProgress द्वारा एकत्रित किया जाए, तो आप [अपने ब्राउज़र](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) में डू नॉट ट्रैक चालू करें. कुछ Mozilla.org पृष्ठ भी हमारे विज्ञापन कैंपेन की प्रभावशीलता को समझने के लिए साफ GIFs का उपयोग करते हैं.  आप [Flashtalking की गोपनीयता नीति](http://www.flashtalking.com/us/privacypolicy) के  “आपकी पसंद” अनुभाग में जाकर और "ऑप्ट-आउट करने के लिए यहाँ क्लिक करें" का चयन करके ऑप्ट-आउट कर सकते हैं.
 
 * **सामाजिक मीडिया**: Mozilla वेबसाइटों पर सामाजिक साझाकरण बटन आपके द्वारा विशेष रूप से बटन क्लिक करने तक सामाजिक मीडिया प्रदाता के साथ डेटा साझा करने के लिए डिज़ाइन किया गया है.
 
