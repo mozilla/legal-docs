@@ -1,6 +1,6 @@
 # Uvjeti korištenja web-mjesta i usluga komunikacija
 
-15\. listopada 2014.
+11. siječnja 2016.
 
 ### Uvjeti korištenja
 
@@ -96,7 +96,7 @@ Ovi Uvjeti predstavljaju cjelovit ugovor o korištenju naših Komunikacija izme�
 
 #### 13\. Podaci za kontakt
 
-Mozilla Corporation  
+Mozilla 
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  
