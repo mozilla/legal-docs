@@ -1,6 +1,6 @@
 # Masharti ya Matumizi ya Tovuti na Mawasiliano
 
-Oktoba 15, 2014
+11 Frebruari, 2016
 
 ### Masharti ya Matumizi
 
