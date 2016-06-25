@@ -1,11 +1,11 @@
 # Ilani ya Faragha ya Tovuti, Mawasiliano na Vidakuzi
 
-Machi 18, 2015
-{: datetime="2015-03-18" }
+14 Machi, 2016
+{: datetime="2016-03-14" }
 
 Tunajali kuhusu faragha yako. Wakati Mozilla (sisi) hukusanya maelezo kukuhusu, [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/) hueleza jinsi tunavyoshughulikia maelezo hayo.
 
-Ilani hii ya faragha hutekelezwa kwenye tovuti inayoendeshwa na Mozilla, ambayo inajumuisha vikoa mozillians.org, mozilla.org, firefox.com, openbadges.org na webmaker.org. Hii hujumuisha, kwa mfano, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
+Notisi hii ya faragha inatumika kwenye tovuti na programu za simu zinazoendeshwa na Mozilla, ikijumuisha vikoa vya mozillians.org, mozilla.org, firefox.com, na webmaker.org, miongoni mwa vingine. Hii inajumuisha, kwa mfano, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, na wiki.mozilla.org.
 
 ## Mambo unayofaa kujua
 
@@ -47,7 +47,7 @@ Unaweza kudhibiti mapendeleo ya kidakuzi binafsi, kuashiria mapendeleo yako ya k
 * **Barua pepe**: Mawasiliano yetu ya kutangaza ni ya hiari kupokea na unaweza kujisanidua kutoka kwenye kijachini cha barua pepe au kwa kusasisha [mapendeleo yako ya barua pepe ya Mozilla](https://www.mozilla.org/newsletter/recovery/). Unaweza kulemaza utendaji wa GIF wazi kwa kutazama barua pepe kutoka kwetu kwenye umbizo la “matini tu”.
 
 * **Utathmini na Uboreshaji**: Iwapo hutaki data kuhusu ziara zako kwenye tovuti za Mozilla kukusanywa na Google Analytics, unaweza kusakinisha [Kijalizi cha Kivinjari cha Kuondoka kwenye Google Analytics](https://tools.google.com/dlpage/gaoptout). Kijalizi huhifadhi ziara zako kutoajulikana na kupiga marufuku usambazaji wa data kwenye Utathmini wa Google.
-Iwapo hutaki data kuhusu ziara zako kwenye tovuti za Mozilla kukusanywa na Uboreshaji, unaweza [kuondoka kwenye www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) au kutembelea [tovuti ya kuondoka kwenye Uboreshaji](https://www.optimizely.com/opt_out) kwa maelezo zaidi.
+Ikiwa hutaki data kuhusu uvinjari wako wa tuvoti za Mozilla kukusanywa na Optimizely, unaweza [kuchagua kutoka kwenye www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) au utembelee [tovuti ya kuchagua kutoka ya Optimizely](https://www.optimizely.com/opt_out) kwa maelezo zaidi. Ikiwa hutaki data kuhusu uvinjari wako wa tovuti za Mozilla kukusanywa na ShareProgress, unaweza [kuwasha Usinifuatilie katika kivinjari chako](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Baadhi ya kurasa za Mozilla.org pia hutumia GIF safi kuelewa ufanisi wa kampeni zetu za utangazaji.  Unaweza kuchagua kutoka kwa kuenda kwenye fungu la “Chaguo Zako” la [Sera ya Faragha ya Flashtalking](http://www.flashtalking.com/us/privacypolicy) na kuchagua “Bofya hapa ili uchague kutoka”.
 
 * **Mitandao ya Kijamii**: Kitufe cha kushiriki vy jamii kwenye tovuti za Mozilla vimebuniwa kutoshiriki data na mtoa huduma wa mitandao ya kijamii hadi ubofye kibainifu kwenye kitufe.
 

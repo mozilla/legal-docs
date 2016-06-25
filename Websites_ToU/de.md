@@ -1,6 +1,6 @@
 # Nutzungsbedingungen für Websites und Kommunikation
 
-15\.10\.2014
+11\. Februar 2016
 
 ### Nutzungsbedingungen
 
