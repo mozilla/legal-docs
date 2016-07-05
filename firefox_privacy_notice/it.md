@@ -1,6 +1,6 @@
 # Informativa sulla privacy del browser Firefox
 
-15 aprile 2014
+24 giugno 2016
 {: datetime="2014-04-15" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/it/privacy/) descrive il modo in cui Mozilla gestisce le informazioni che le vengono inviate da Firefox
@@ -95,3 +95,6 @@ Se richiesto dall’utente, Firefox si connette a Mozilla per fornire funzioni q
 {: #push-notifications }
 
 	Se attivate, le notifiche Push permettono ai siti web di inviare all’utente notifiche e aggiornamenti. Per ricevere tali notifiche, Firefox invia a Mozilla informazioni sui siti dai quali l'utente ha accettato di ricevere le notifiche Push. Tali informazioni vengono memorizzate in forma anonima, insieme al numero di notifiche inviate da ciascun sito. Per aiutare gli sviluppatori a migliorare l'uso delle notifiche Push, Mozilla può condividere con alcuni di essi informazioni aggregate quali il numero di visitatori del loro sito che hanno scelto di abbonarsi o non abbonarsi alle notifiche Push. Per gestire le notifiche Push in Firefox è possibile seguire [queste istruzioni](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Se non diversamente specificato, questa informativa sulla privacy riguarda le versioni "release" generali più recenti di Firefox. Le nostre versioni "pre-release" (Beta, Aurora/Edizione dello sviluppatore, Nightclub e TestFlight) sono ancora in fase di sviluppo attivo e potrebbero contenere nuove funzionalità o essere caratterizzate da note sulla privacy diverse. Queste versioni inviano automaticamente [dati telemetrici](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) a Mozilla per aiutarci a migliorare Firefox.
+{: #pre-release }
