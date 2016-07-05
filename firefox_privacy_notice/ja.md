@@ -1,6 +1,6 @@
 # Firefox ブラウザのプライバシーに関する通知
 
-2016 年 1 月 26 日
+2016 年 6 月 24 日
 {: datetime="2016-01-26" }
 
 Mozilla はあなたのプライバシーを尊重します。Mozilla が Firefox を通じて情報を受け取る場合、[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) に従ってそれらの情報を取り扱います。
@@ -105,3 +105,6 @@ Firefox は、あなたのリクエストに応じて、Sync、位置情報サ�
 {: #push-notifications }
 
 	プッシュ通知は、サイトがあなたに対して通知や更新を送信できるようにするオプトイン機能です。Firefox は、通知を受け取るため、あなたがプッシュ通知を受け取ることを許可したサイトに関する情報を Mozilla へ送信します。これらの情報は、各サイトが送信する通知の回数とともに匿名形式で保存されます。Mozilla は、開発者がプッシュ通知の使用方法を改善できるようにするため、彼らのサイトでプッシュ通知の購読を開始あるいは解除した訪問者数を含む集計情報を、特定の開発者と共有する場合があります。Firefox のプッシュ通知は [こちらの説明](https://support.mozilla.org/kb/push-notifications-firefox) に従うことで管理できます。
+
+特に明記されていない限り、このプライバシーに関する通知は、Firefox の最新の一般リリースバージョンに対するものです。Mozilla のプレリリースバージョン (Beta、Aurora/Developer Edition、Nightly、および TestFlight) は開発中のものであり、新機能や異なるプライバシー特性を含んでいる場合があります。プレリリースバージョンは [Telemetry データ](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html)を自動的に Mozilla に送信します。このデータは Mozilla が Firefox を改善していく上で役立ちます。
+{: #pre-release }
