@@ -1,13 +1,13 @@
 # Podmínky používání webů a sdělení
 
-11. února 2016
+23. června 2016
 
 ### Podmínky používání
 
 
 #### 1\. Úvod
 
-Přečtěte si podmínky celého tohoto dokumentu (dále jen „Podmínky“) pozorně, jelikož vysvětluje vaše práva a povinnosti při návštěvě kteréhokoli webu společnosti Mozilla (dále jen „Weby“) nebo souvisejících kanálů, sociálních médií, informačních zpravodajů a e-mailů (společně s Weby se souhrnně označují jako „Sdělení“). Přístupem nebo přihlášením se k odběru Sdělení souhlasíte, že se budete řídit těmito Podmínkami.
+Pečlivě si prosím přečtěte podmínky celého tohoto dokumentu (dále jen „Podmínky”), neboť vysvětlují vaše práva a povinnosti, pokud navštívíte některou z webových stránek společnosti Mozilla (dále jen „Webové stránky”) nebo související vysílání, sociální média, letáky, úložiště zdrojových kódů a e-maily (dále společně jen „Sdělení”). Přístupem nebo registrací k odběru Sdělení vyslovujete souhlas se závazností těchto Podmínek.
 
 Naše Weby se nacházejí na řadě domén, například mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org a webmaker.org. Naše Weby rozeznáte i pomocí názvů jako Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO a AMO.
 Některé Weby vás propojují s odkazy, aplikacemi nebo doplňky, které poskytují jiní poskytovatelé a pro které platí zvláštní Podmínky.
@@ -30,14 +30,18 @@ Některý Obsah v našich Sděleních je získán ze zdrojů, které zakazují d
 
 * Některý Obsah výslovně uvádí, že záměrem autora je, aby se na obsah nevztahovala otevřená licence.  Pokud chcete získat povolení k použití takového Obsahu, obraťte se na autora nebo jeho zástupce.  Dotazy ohledně autorského obsahu můžete společnosti Mozilla zasílat na: licensing@mozilla.org.
 * Některý Obsah obsahuje ochranné známky, vizuální podobu, loga a značky společnosti Mozilla a jiných subjektů (dále jen „Ochranné známky“).  Kromě omezeného počtu situací nelze Ochranné známky používat bez předchozího písemného souhlasu jejich majitele.  [Další informace o ochranných známkách společnosti Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software používaný našimi Weby je chráněn licencí MPL nebo podobnou permisivní licencí open source.  Další informace o konkrétních licencích naleznete v příslušném úložišti na webu GitHub. 
+* Software využívaný našimi Webovými stránkami je licencován v souladu s MPL nebo podobnými volnými licencemi typu volný zdroj. Pro podrobnější informace o jednotlivých licencích, viz prosím příslušný zdrojový kód nebo úložiště GitHub.
 
 
 #### 4\. Přispívání Obsahu
 
-Obsah můžete poskytnout při interakci s našimi Sděleními, například komentováním článku, blogováním, přispěním kódem nebo přispěním grafikou nebo písemným materiálem (každé z nich dále jako „Příspěvek“).
+Během interakce s našimi Sděleními můžete přispívat Obsahem, včetně například komentářů k článkům, psaním blogů, přispíváním kódy nebo přispíváním grafiky či písemných materiálů (dále jen „Příspěvky”). Pokud své Příspěvky neposkytujete v rámci samostatné smlouvy se společností Mozilla, přičemž v takovém případě se uplatní smlouva, pak
    
-V souvislosti s každým Příspěvkem se zavazujete k následujícímu:
+Pro Příspěvky do projektů typu otevřený zdroj společnosti Mozilla:
+* Souhlasíte, že poskytnete licenci ke svému příspěvku za podmínek odpovídajících licenci konkrétního projektu typu otevřený zdroj, do něhož přispíváte. Pro podrobnější informace o jednotlivých licencích, viz prosím příslušný zdrojový kód nebo úložiště GitHub.
+
+Pro všechny ostatní Příspěvky souhlasíte v souvislosti s každým z nich s náledujícím:
+
 
 * Prohlašujete a zaručujete, že Příspěvek bude v souladu s těmito Podmínkami, [Podmínkami používání společnosti Mozilla](https://www.mozilla.org/about/legal/acceptable-use/) a veškerými dalšími podmínkami, kterými se Příspěvek řídí.
 * Tímto nám udílíte nevýhradní, bezplatnou, celosvětovou, sublicencovatelnou (těm, se kterými spolupracujeme) licenci k používání Příspěvku v souvislosti se Sděleními a online a offline propagaci mise, produktů a služeb společnosti Mozilla.
