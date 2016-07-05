@@ -1,7 +1,7 @@
 # Firefox 浏览器隐私权保护事宜通知
 
 2016 年 6 月 24 日
-{: datetime="2014-04-15" }
+{: datetime="2016-06-24" }
 
 我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
 
