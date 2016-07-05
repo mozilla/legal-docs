@@ -18,6 +18,8 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 
 * **Spolupracovníci**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo kódové bázi, budou vaše emailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o Mozilla komunitě. Příkladem je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
 
+* **Účty**: některé webové stránky jako například Marketplace, AMO, MDN a Webmaker vyžadují založení účtu, abyste mohli zasílat obsah vývojáře, odesílat uživatelské recenze či komentáře či instalovat určité typy aplikací.  V souvislosti se svým účtem vám mohou být pravidelně zasílány e-maily.
+
 * **Uživatelská zpětná vazba**:  Zpětnou vazbu týkající se našich produktů a služeb nám můžete poskytovat na webových stránkách jako např. [input.mozilla.org](https://input.mozilla.org/), prostřednictvím integrovaných dotazníků na zkušenosti s produktem nebo prostřednictvím kanálů jako např. e-mail, Bugzilla, IRC, účet na sociálních médiích nebo stránky Get Involved nebo prostřednictvím skupiny jako např. Student Ambassadors. Omezte prosím na minimum osobní údaje, které budete na těchto fórech sdílet, protože vaše komentáře budou veřejně přístupné.
 
 ---------------------------------------
@@ -25,11 +27,15 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 Pro zajištění funkčnosti a vylepšení našich produktů, služeb a komunikace používáme soubory cookies, jednopixelové gify, nezávislou webovou analýzu a IP adresy . 
 {: #data-tools }
 
-* **Cookies a IP adresy**: Využíváme tyto technologie, abychom vylepšili funkčnost některých produktů a služeb. Například soubory cookies jsou využívány k tomu, abychom si zapamatovali, jaký jazyk preferujete u aplikace Firefox, a jaké doplňky aplikace Firefox používáte. Jsou rovněž nápomocné při přihlašování a ověřování uživatele, takže můžete vynechat zadávání vašich hesel na webových stránkách využívajících systém Persona.   IP adresy jsou využívány pro účely přizpůsobení obsahu pro vaši konkrétní zemi.
+* **Funkce**: Můžeme používat soubory cookie, informace a zařízení a adresy IP pro rozšíření funkcí některých produktů, služeb a sdělení. Například:
+    * Soubory cookie se používají, abychom si zapamatovali vaše jazykové předvolby Firefox a doplňky Firefox. Pomáhají i při přihlašování a ověřování uživatele, takže na některých webových stránkách Mozilla se můžete obejít bez zadávání hesel.  
+    * Adresy IP se používají pro přizpůsobení sdělení jazyku a zemi.  
+    * Informace o zařízení, jako např. země, jazyk, operátor a OEM mohou být využity pro přizpůsobení vaší interakce na Firefox Marketplace a Webmaker.
 
-* **Online nástroje pro data**: Abychom celkově porozuměli tomu, jak uživatelé pracují s našimi produkty, službami a sděleními na našich stránkách, online kampaních, snippetech, zařízeních a dalších platformách používáme jednopixelové gify a webovou analýzu. 
-
-* **Služby třetích stran** Využíváme služeb třetích stran jako např. Google Analytics a Optimizely.  Tyto služby používají ve vztahu k našim webovým stránkám soubory cookies, IP adresy a online nástroje pro data.  
+* **Metrika**: Čisté GIFy, soubory cookies a služby třetích osob nám pomáhají porozumět celkovému obrazu toho, jak uživatelé pracují s našimi produkty, službami, sděleními, webovými stránkami, online kampaněmi, snippety, zařízeními a dalšími platformami. Používáme:
+    * Google Analytics, která umisťuje soubor cookie do vašeho zařízení, pro získání metriky, jak uživatelé používají naše webové stránky.      To nám pomáhá vylepšovat obsah stránek.  
+    * Optimizely a ShareProgress, které umisťují soubor cookie do vašeho zařízení, jako pomůcku pro testování změn obsahu webových stránek.  To nám pomáhá uživatelům nabízet lepší zkušenosti s webovou stránkou.
+    * Flashtalking, který využívá čistý GIF na naší stránce stahování Firefox.  To nám pomáhá měřit efektivitu našich reklamních kampaní.
 
 ---------------------------------------
 
