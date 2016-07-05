@@ -1,13 +1,13 @@
 # Condiciones de uso de los sitios web y los mensajes
 
-11 de febrero de 2016
+23 de junio de 2016
 
 ### Condiciones de uso
 
 
 #### 1\. Introducción
 
-Lea detenidamente las condiciones del presente documento (en adelante, "Condiciones"), puesto que detallan los derechos y las responsabilidades que conlleva visitar los sitios web de Mozilla (en adelante, "Sitios web") o fuentes web, medios sociales, boletines de noticias y correos electrónicos relacionados (junto con los Sitios web, denominados "Mensajes"). Si accede o se suscribe para recibir Mensajes, acepta las presentes Condiciones.
+Por favor, lea detenidamente las condiciones del presente documento ("Condiciones"), puesto que indican sus derechos y responsabilidades al visitar los sitios web de Mozilla ("Sitios web") o fuentes, redes sociales, boletines de noticias, archivos de códigos fuente y correos electrónicos relacionados (junto con los sitios web, colectivamente denominados "Mensajes"). Si accede o se registra para recibir Mensajes, acepta las presentes Condiciones.
 
 Nuestros Sitios web incluyen varios dominios, como mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org y webmaker.org. Es posible que reconozca nuestros Sitios web por sus sobrenombres, como Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO y AMO.
 Algunos Sitios web incluyen enlaces, aplicaciones o complementos de terceros, y están sujetos a otras condiciones.
@@ -30,14 +30,17 @@ Parte del Contenido de los Mensajes se adquiere de fuentes que prohíben el uso 
 
 * Parte del Contenido indica expresamente que el autor no dispone de ninguna licencia libre.  Debe ponerse en contacto con el autor o su agente y solicitar la autorización necesaria para utilizar dicho Contenido.  Las dudas sobre el Contenido que pertenece a Mozilla pueden enviarse a: licensing@mozilla.org.
 * Parte del Contenido incluye marcas comerciales, imágenes de marca, logotipos y activos de marcas de Mozilla y terceros (en adelante, "Marcas comerciales").  Excepto en determinadas circunstancias, las Marcas comerciales no pueden utilizarse sin una autorización previa por escrito del titular de la Marca comercial.  [Más información sobre las Marcas comerciales de Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* El software de los Sitios web dispone de una licencia MPL o licencias de código abierto de permisividad similar.  Para obtener más información sobre una licencia concreta, consulte el archivo GitHub correspondiente. 
+* El software utilizado por nuestros sitios web dispone de una licencia MPL o licencias de código abierto de permisividad similar. Para obtener más información acerca de una licencia en concreto, consulte el código fuente o archivo GitHub correspondientes.
 
 
 #### 4\. Aportaciones de Contenido
 
-Puede aportar Contenido a partir de nuestros Mensajes mediante interacciones que incluyen, entre otras, comentarios en artículos, publicaciones en blogs, códigos de participación, gráficas de participación o material escrito (cada uno, una "Aportación").
+Puede aportar Contenido con interacciones relacionadas con nuestros Mensajes, que incluyen entre otros comentarios en artículos, publicaciones en blogs, códigos de participación, gráficas de participación y material escrito (cada uno, una "Aportación").  A menos que su Aportación se realice bajo un acuerdo por separado con Mozilla, en cuyo caso regirá ese acuerdo,... 
    
-Acepta las siguientes estipulaciones en relación con cada Aportación:
+Para Aportaciones a proyectos de código fuente de Mozilla:
+* Usted acepta otorgar licencia a su Aportación según las condiciones de la licencia correspondientes al proyecto de código fuente concreto para el que realiza la aportación. Para obtener más información sobre esta licencia en concreto, consulte el código fuente o archivo GitHub correspondientes.
+
+Para todas las Aportaciones, acepta lo siguiente en relación con cada una de ellas:
 
 * Asegura y garantiza que su Aportación cumplirá las presentes Condiciones, las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla y cualquier otra disposición adicional que pueda regir su Aportación.
 * Mediante el presente, usted nos otorga una licencia no exclusiva exenta de derechos, de ámbito internacional y transferible como sublicencia (a nuestros colaboradores) mediante la que podemos emplear su Aportación en relación con los Mensajes y la promoción, tanto en línea como sin conexión, de la misión, los productos y los servicios de Mozilla.
