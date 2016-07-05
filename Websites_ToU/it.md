@@ -1,13 +1,13 @@
 # Termini di utilizzo di siti web e comunicazioni
 
-11 febbraio 2016
+23 giugno 2016
 
 ### Termini di utilizzo
 
 
 #### 1\. Introduzione
 
-Si consiglia di leggere attentamente e per intero i termini contenuti nel presente documento (“Termini”), poiché illustrano i diritti e le responsabilità dell’utente quando visita uno dei siti web di Mozilla (“Siti web”) o i relativi feed, social media, newsletter e email (insieme ai siti web, collettivamente “Comunicazioni”). Accedendo o registrandosi per ricevere Comunicazioni, l’utente accetta di rispettare i presenti Termini.
+Leggere attentamente e per intero i termini contenuti nel presente documento ("Termini"), poiché illustrano i diritti e le responsabilità dell'utente quando visita uno dei siti web di Mozilla ("Siti web") o i relativi feed, social media, newsletter e email (insieme ai siti web, collettivamente "Comunicazioni"). Accedendo o registrandosi per ricevere Comunicazioni, l'utente accetta di rispettare i presenti Termini.
 
 I nostri siti web includono domini multipli come mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org e webmaker.org. L’utente potrà riconoscere i nostri siti web da soprannomi come Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO e AMO.
 Alcuni dei nostri siti web connettono l’utente a link, app o componenti aggiuntivi forniti da terze parti e soggetti a Termini separati.
@@ -30,14 +30,17 @@ Parte dei Contenuti delle nostre Comunicazioni viene acquisito da fonti che proi
 
 * Alcuni Contenuti indicano espressamente che l’autore non intende rendere applicabile una licenza aperta. In tal caso, l’utente dovrà contattare l’autore o un suo agente per ottenere l’autorizzazione all’utilizzo di tali Contenuti. Le domande sui contenuti creati da Mozilla possono essere inviate a: licensing@mozilla.org.
 * Alcuni Contenuti includono marchi commerciali, veste grafica aziendale, loghi ed elementi distintivi dei marchi di Mozilla e di altre parti (“Marchi commerciali”). A eccezione di qualche limitata circostanza, i Marchi commerciali non possono essere usati senza previa autorizzazione scritta dei titolari. [Ulteriori informazioni sui marchi commerciali di Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Il software utilizzato dai nostri siti web è concesso in licenza in base alla MPL o altre licenze open source analogamente permissive. Per ulteriori informazioni sulla licenza specifica, consultare l’archivio GitHub applicabile.
+* Il software utilizzato dai nostri siti web è concesso in licenza in base alla MPL o licenze open source analogamente permissive. Per ulteriori informazioni sulla licenza specifica, consultare il codice sorgente o l'archivio GitHub applicabile.
 
 
 #### 4\. Invii di Contenuti
 
-È possibile contribuire con propri Contenuti quando si interagisce con le nostre Comunicazioni, inviando, ad esempio, commenti su articoli, post su blog, codice, grafici o altro materiale scritto (individualmente “Invio”).
+È possibile contribuire con propri Contenuti quando si interagisce con le nostre Comunicazioni, inviando, ad esempio, commenti su articoli, post su blog, codice, grafici o altro materiale scritto (individualmente "Invio"). Tranne se l'Invio viene effettuato in base a un accordo con Mozilla separato, nel qual caso vengono applicate le condizioni di tale accordo, allora
+   
+Per gli Invii ai progetti open source di Mozilla:
+* L'utente accetta di concedere in licenza i propri Invii secondo i termini della licenza corrispondente del progetto open source specifico a cui sta contribuendo. Per ulteriori informazioni sulla licenza specifica, consultare il codice sorgente o l'archivio GitHub applicabile.
 
-L’utente accetta i termini elencati di seguito, in relazione a ciascun Invio.
+Per tutti gli altri Invii, l'utente accetta i termini elencati di seguito, in relazione a ciascun Invio:
 
 * L’utente dichiara e garantisce che ogni suo Invio sarà conforme ai presenti Termini, alle [Condizioni d’uso](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla e a eventuali altri termini che possono regolare l’Invio.
 * L’utente concede a Mozilla una licenza non esclusiva, gratuita, globale e trasferibile in sub-licenza (ai collaboratori di Mozilla) per l’utilizzo del proprio Invio in relazione alle Comunicazioni e alla promozione, online e offline, della missione, dei prodotti e dei servizi di Mozilla.
