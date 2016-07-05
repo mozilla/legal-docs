@@ -20,6 +20,8 @@ Podemos receber suas informações pessoais com base em sua interação conosco 
 
 * **Opiniões do usuário**:  você pode dar opiniões sobre nossos produtos e serviços em páginas como [input.mozilla.org](https://input.mozilla.org/), no próprio produto ou por canais como e-mail, Bugzilla, IRC, uma conta nas redes sociais, nossa página "Participe" ou um grupo, como Student Ambassadors. Tente dar menos informações pessoais nesses formulários, pois seus comentários poderão ser acessados pelo público.
 
+* **Contas**: Alguns sites, por exemplo, Marketplace, AMO, MDN e Webmaker, exigem que uma conta seja criada para enviar conteúdo de desenvolvedor, avaliações ou comentários de usuário ou instalar determinados tipos de aplicativos.  É possível que você receba e-mails periódicos relacionados à sua conta.
+
 * **Campanhas de produtos e políticas**:  Algumas de nossas páginas hospedam campanhas de produtos ou políticas. Por exemplo, você pode solicitar um link por e-mail ou SMS para instalar o Firefox em seu dispositivo móvel ou assinar petições relacionadas a questões sobre a Internet. Essas campanhas são gerenciadas por terceiros, que também gerenciam qualquer dado que você optar por enviar.
 {: #campaigns } 
 
@@ -28,11 +30,15 @@ Podemos receber suas informações pessoais com base em sua interação conosco 
 Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereços IP para oferecer a funcionalidade e para melhorar nossos produtos, serviços e comunicações. 
 {: #data-tools }
 
-* **Cookies e endereços IP**: são utilizados para melhorar a funcionalidade de determinados produtos e serviços. Por exemplo, os cookies são usados para lembrar sua preferência de idioma e complementos do Firefox. Eles também podem ajudar na identificação e autenticação de usuários, para que não seja necessário fornecer suas senhas em sites que utilizam o Persona.  Os endereços IP são utilizados para personalizar conteúdos para seu país específico.
+* **Funcionalidade**: Podemos usar cookies, informações do dispositivo e endereços IP para aprimorar a funcionalidade de determinados produtos, serviços e comunicações. Por exemplo:
+    * cookies são usados para lembrar sua preferência de idioma e add-ons do Firefox. Eles também ajudam no login e autenticação do usuário, a fim de que ele não precise inserir a senha em alguns sites da Mozilla.  
+    * Endereços IP são usados para personalizar a comunicação por idioma e país.  
+    * As informações do dispositivo, como país, idioma, operador e OEM, podem ser usadas para personalizar sua experiência no Firefox Marketplace e Webmaker.
 
-* **Ferramentas de dados on-line**: utilizamos GIFs transparentes e análises da web para entender, no geral, como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas.
-
-* **Serviços de terceiros**: utilizamos serviços de terceiros, como Google Analytics e Optimizely. Eles usam cookies, endereços IP e ferramentas de dados on-line. 
+* **Métricas**: GIFs claros, cookies e serviços de terceiros nos ajudam a entender, como um todo, como os usuários se engajam com nossos produtos, serviços, comunicações, sites, campanhas on-line, snippets, dispositivos e outras plataformas. Usamos:
+    * O Google Analytics, que adiciona um cookie no seu dispositivo a fim de obter as métricas de engajamento dos usuários nos nossos sites.      Ele nos ajuda a melhorar o conteúdo do site.  
+    * O Optimizely e o ShareProgress, que adicionam um cookie no seu dispositivo para nos ajudar a testar variações do conteúdo da web.  Ele nos ajuda a oferecer uma melhor experiência aos usuários.
+    * O Flashtalking, que usa um GIF claro no download do Firefox.  Ele nos ajuda a medir a eficácia das nossas campanhas de publicidade.
 
 ---------------------------------------
 
