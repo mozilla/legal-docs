@@ -20,6 +20,8 @@ Kami mungkin menerima informasi pribadi dari Anda berdasarkan interaksi Anda den
 
 * **Umpan Balik Pengguna**: Anda dapat memberikan umpan balik kepada kami tentang produk dan layanan kami di situs web seperti [input.mozilla.org](https://input.mozilla.org/), melalui pengalaman dari dalam produk, atau melalui saluran seperti email, Bugzilla, IRC, akun media sosial, halaman Mari Berperan kami, atau melalui grup seperti Duta Pelajar (Student Ambassadors). Harap minimalkan informasi pribadi yang Anda pilih untuk dibagikan pada forum-forum ini karena komentar Anda mungkin dapat diakses publik.
 
+* **Akun**: Beberapa situs web, misalnya Marketplace, AMO, MDN, dan Webmaker, memerlukan pembuatan akun untuk mengirim konten pengembang; mengirim ulasan atau komentar pengguna; atau menginstal jenis aplikasi tertentu.  Anda mungkin secara berkala menerima email terkait akun Anda.
+
 * **Kampanye Produk & Kebijakan**: Beberapa halaman web kami merupakan tempat kampanye produk atau kebijakan. Misalnya, Anda dapat meminta tautan melalui email atau SMS untuk menginstal Firefox di perangkat seluler Anda atau mengirimkan petisi kepada legislator tentang masalah internet. Kami menggunakan pihak ketiga untuk mengelola kampanye ini dan untuk menangani semua data yang Anda pilih untuk dikirimkan.
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Kami mungkin menerima informasi pribadi dari Anda berdasarkan interaksi Anda den
 Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan alamat IP untuk fungsionalitas dan untuk meningkatkan kualitas produk, layanan, dan komunikasi kami. 
 {: #data-tools }
 
-* **Kuki & Alamat IP**: Kami menggunakan keduanya untuk meningkatkan fungsionalitas produk dan layanan tertentu. Misalnya, kuki digunakan untuk mengingat preferensi bahasa Firefox dan pengaya Firefox. Keduanya juga membantu proses masuk dan otentikasi pengguna sehingga Anda bisa melewati proses memasukkan sandi di situs web yang menggunakan Persona. Alamat IP digunakan untuk menyesuaikan konten untuk negara tertentu.
+* **Fungsi**: Kami mungkin menggunakan cookie, informasi perangkat dan alamat IP untuk meningkatkan fungsi beberapa produk, layanan, dan media komunikasi. Misalnya:
+    * Cookie digunakan untuk mengingat preferensi bahasa Firefox dan add-on Firefox. Cookie juga membantu proses masuk dan otentikasi pengguna sehingga tidak perlu memasukkan kata sandi di beberapa situs web Mozilla.  
+    * Alamat IP digunakan untuk menyesuaikan media komunikasi berdasarkan bahasa dan negara.  
+    * Informasi perangkat seperti negara, bahasa, operator dan OEM, bisa digunakan untuk menyesuaikan pengalaman Anda di Firefox Marketplace dan Webmaker.
 
-* **Alat Data Daring**: Kami menggunakan gambar GIF transparan dan analitika web untuk memahami secara agregat bagaimana pengguna berinteraksi dengan produk, layanan, komunikasi, situs web, kampanye daring, snippet, perangkat, dan platform lain.
-
-* **Layanan Pihak Ketiga** Kami menggunakan layanan pihak ketiga seperti Google Analytics dan Optimizely. Layanan tersebut menggunakan kuki, alamat IP, dan alat data daring.
+* **Metrik**: GIF transparan, cookie dan layanan pihak ketiga membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, media komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
+    * Google Analytics, yang menempatkan cookie di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
+    * Optimizely dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
+    * Flashtalking, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program pemasaran iklan kami.
 
 ---------------------------------------
 
