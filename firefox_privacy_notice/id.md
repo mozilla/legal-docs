@@ -1,6 +1,6 @@
 # Pernyataan Privasi Peramban Firefox
 
-15 April 2014
+24 Juni 2016
 {: datetime="2014-04-15" }
 
 Kami peduli pada privasi Anda. Ketika Firefox mengirimkan informasi ke Mozilla (itu kami), [kebijakan privasi](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut.
@@ -100,3 +100,6 @@ Jika Anda memintanya, Firefox juga tersambung ke Mozilla untuk memberi Anda fitu
 {: #push-notifications }
 
 	Notifikasi Push memungkinkan situs mengirimkan notifikasi dan pembaruan kepada Anda jika Anda berlangganan. Untuk menerima notifikasi, Firefox akan mengirimkan informasi ke Mozilla tentang situs yang sudah Anda setujui Notifikasi Push-nya. Kami menyimpan informasi ini dalam formulir anonim, beserta jumlah notifikasi yang dikirimkan oleh masing-masing situs. Untuk membantu pengembang meningkatkan penggunaan Notifikasi Push, Mozilla mungkin memberikan informasi yang dikumpulkan kepada pengembang tertentu termasuk jumlah pengunjung situs mereka yang berlangganan atau berhenti berlangganan Notifikasi Push mereka. Anda bisa mengelola Notifikasi Push di Firefox dengan mengikuti [petunjuk ini](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Kecuali disebutkan lain, pemberitahuan privasi ini khusus Firefox versi rilis umum terbaru. Versi rilis awal (Beta, Aurora/Developer Edition, Nightly, dan TestFlight) masih mengalami pengembangan aktif dan mungkin memuat fitur baru atau memiliki karakteristik privasi berbeda. Versi rilis awal akan otomatis mengirim [data Telemetri](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) ke Mozilla untuk membantu kami meningkatkan Firefox.
+{: #pre-release }
