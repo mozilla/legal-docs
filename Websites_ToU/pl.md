@@ -1,13 +1,13 @@
 # Warunki użytkowania witryn i kanałów komunikacyjnych
 
-11 lutego 2016 r.
+23 czerwca 2016 r.
 
 ### Warunki użytkowania
 
 
 #### 1\. Wstęp
 
-Należy uważnie zapoznać się z całością postanowień niniejszego dokumentu (zwanego dalej „Warunkami”), ponieważ wyjaśnia on prawa i obowiązki użytkownika podczas korzystania z witryn firmy Mozilla (zwanych dalej „Witrynami”) oraz powiązanych kanałów, mediów społecznościowych, biuletynów oraz wiadomości e-mail (razem z Witrynami określanych zbiorczo terminem „Kanały komunikacyjne”). Uzyskując dostęp do Kanałów komunikacyjnych lub rejestrując się w celu jego otrzymania, użytkownik wyraża zgodę na związanie się tymi Warunkami.
+Należy uważnie zapoznać się z całością postanowień niniejszego dokumentu (zwanego dalej „Warunkami”), ponieważ wyjaśnia on prawa i obowiązki użytkownika podczas korzystania z witryn firmy Mozilla (zwanych dalej „Witrynami”) oraz powiązanych kanałów, mediów społecznościowych, biuletynów, repozytoriów kodu źródłowego oraz wiadomości e-mail (razem z Witrynami określanych zbiorczo terminem „Kanały komunikacyjne”). Uzyskując dostęp do Kanałów komunikacyjnych lub rejestrując się w celu jego otrzymania, użytkownik wyraża zgodę na związanie się tymi Warunkami.
 
 Nasze Witryny obejmują szereg domen, takich jak mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org i webmaker.org. Nasze witryny można również rozpoznać po nazwach, takich jak Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO czy AMO.
 Niektóre z naszych Witryn udostępniają użytkownikowi łącza, aplikacje i dodatki pochodzące od innych firm i podlegające odrębnym Warunkom.
@@ -30,14 +30,17 @@ Część Zawartości w naszych Kanałach komunikacyjnych pochodzi jednak ze źr
 
 * Niekiedy Zawartość jednoznacznie wskazuje, że jej Autor nie zamierza stosować licencji otwartej. W celu wykorzystania tego rodzaju Zawartości należy uprzednio skontaktować się z jej autorem lub jego przedstawicielem i uzyskać jego zgodę. Zapytania dotyczące zawartości autorstwa firmy Mozilla można wysyłać na adres: licensing@mozilla.org.
 * Niekiedy Zawartość zawiera znaki towarowe, oznaczenia handlowe, logotypy i zasoby marki firmy Mozilla i innych firm (zwane dalej „Znakami towarowymi”). Poza nielicznymi, ograniczonymi przypadkami, Znaków towarowych nie wolno używać bez uprzedniej pisemnej zgody ich właściciela.  [Więcej informacji o znakach towarowych firmy Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Oprogramowanie używane przez Witryny jest objęte licencją MPL lub podobnymi, mało restryktywnymi licencjami typu open source. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim repozytoriach GitHub.
+* Oprogramowanie używane przez Witryny jest objęte licencją MPL lub podobnymi, mało restryktywnymi licencjami typu open source. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim kodzie źródłowym lub w repozytorium GitHub.
 
 
 #### 4\. Przesyłana Zawartość
 
-Podczas interakcji z naszymi Kanałami komunikacyjnymi użytkownik może przesyłać własną Zawartość, np. komentując artykuły, blogując lub przesyłając kod, grafikę lub materiały pisemne (w każdym przypadku określane dalej jako „Przesyłany materiał”).
+Podczas interakcji z naszymi Kanałami komunikacyjnymi użytkownik może przesyłać własną Zawartość, np. komentując artykuły, blogując lub przesyłając kod, grafikę lub materiały pisemne (w każdym przypadku określane dalej jako „Przesyłany materiał”). O ile Przesyłane materiały nie podlegają odrębnej umowie z firmą Mozilla, która w takim przypadku będzie obowiązującą, to:
+   
+W przypadku Materiałów przesyłanych do prowadzonych przez firmę Mozilla projektów open source:
+* Użytkownik zgadza się udzielić licencji na Przesyłane materiały na warunkach określonych w licencji projektu open source, w którym uczestniczy. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim kodzie źródłowym lub w repozytorium GitHub.
 
-W związku z Przesyłanymi materiałami użytkownik wyraża zgodę na następujące postanowienia:
+W przypadku wszystkich pozostałych Przesyłanych materiałów użytkownik wyraża zgodę na następujące postanowienia:
 
 * Użytkownik zaświadcza, że Przesyłany materiał jest zgodny z niniejszymi Warunkami, [Warunkami użytkowania](https://www.mozilla.org/about/legal/acceptable-use/) usług firmy Mozilla oraz wszelkimi innymi dodatkowymi warunkami, jaki mogą obowiązywać w przypadku danego Przesyłanego materiału.
 * Użytkownik niniejszym udziela nam niewyłącznej, bezpłatnej, ogólnoświatowej licencji z prawem do sublicencjonowania Przesyłanego materiału (podmiotom, z którymi współpracujemy), zezwalającej na jego wykorzystywanie w związku z Kanałem komunikacyjnym oraz w celach promujących misję, produkty i usługi firmy Mozilla, tak w Internecie, jak i poza nim.
