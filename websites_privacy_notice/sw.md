@@ -20,6 +20,8 @@ Tunaweza kupokea maelezo ya binafsi kutoka kwako kuzingatia mwingiliano wako na 
 
 * **Majibu ya Mtumiaji**:  Unaweza kutupa majibu kuhusu bidhaa na huduma zetu kwenye kurasa wavuti kama [input.mozilla.org](https://input.mozilla.org/), kupitia hali ya utumiaji wa ndani wa bidhaa, au kupitia njia kama vile barua pepe, Bugzilla, IRC, akaunti ya mtandao wa kijamii, ukurasa wetu wa Get Involved, au kupitia kikundi kama Mabalozi wa Wanafunzi. Tafadhali punguza maelezo ya binafsi unayochagua kushiriki kwenye majukwaa haya kwa sababu maoni yako yanaweza kufikiwa kwa umma.
 
+* **Akaunti**: Baadhi ya tovuti kama vile Marketplace, AMO, MDN na Webmaker huhitaji ufungue akaunti ili kuwasilisha maudhui ya msanidi programu; kuwasilisha maoni ya mtumiaji; au kusakinisha aina fulani za programu.  Huenda Ukapokea barua pepe mara kwa mara kuhusu akaunti yako.
+
 * **Kampeni za Bidhaa na Sera**:  Baadhi ya kurasa wavuti zetu zinapangisha kampeni za bidhaa au sera. Kwa mfano, unaweza kuomba kiungo kwa barua pepe au SMS ili kusakinisha Firefox kwenye kifaa chako cha simu au ombi la wabunge kwenye masuala ya mtandao. Tunatumia watu wengine ili kudhibiti kampeni hizi na kushughulikia data yoyote ambayo unachagua kuwasilisha.  
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Tunaweza kupokea maelezo ya binafsi kutoka kwako kuzingatia mwingiliano wako na 
 Tunatumia vidakuzi, GIF wazi, uchanganuzi wa wavuti nyingine, na anwani za IP kwa utendaji na kuboresha bidhaa, huduma na mawasiliano yetu. 
 {: #data-tools }
 
-* **Vidakuzi na anwani za IP**: Tunatumia hivi kuboresha utendaji wa bidhaa na huduma fulani. Kwa mfano, vidakuzi vinatumiwa kukumbuka mapendeleo yako ya lugha ya Firefox na vijalizi vya Firefox. Pia vinasaidia kwa kuingia kwa mtumiaji na uhalalishaji ili uweze kuruka kuingiza nenosiri lako kwenye tovuti ambayo inatumia Mteja.  Anwani za IP zinatumiwa kugeuza maudhui yako kukufaa kwa nchi yako bainifu.
+* **Utendaji**: Huenda tukatumia vidakuzi, maelezo ya kifaa na anwani za mtoa huduma ili kuboresha utendaji wa baadhi ya vifaa, huduma na mawasiliano. Kwa mfano:
+    * Vidakuzi hutumika kukumbuka mapendeleo ya lugha ya Firefox na programu jalizi za Firefox. Pia, vinasaidia mtumiaji kuthibitisha na kuingia katika akaunti bila haja ya kuweka manenosiri kwenye baadhi ya tovuti za Mozilla.  
+    * Anwani za mtoa huduma hutumika kuweka mapendeleo ya mawasiliano kulingana na lugha na nchi.  
+    * Huenda maelezo ya kifaa kama vile nchi, lugha, mhudumu na OEM yakatumika ili uweze kubadilisha upendavyo hali ya matumizi kwenye Firefox Marketplace na Webmaker.
 
-* **Zana za Data ya Mtandaoni**: Tunatumia GIF wazi kwenye uchanganuzi wa wavuti katika mkusanyiko wa jinsi watumiaji wanavyohusika na bidhaa na huduma, mawasiliano, tovuti, kampeni za mtandaoni, madondoo, vifaa na majukwaa yetu mengine.
-
-* **Huduma Nyingine** Tunatumia huduma nyingine kama vile Utathmini wa Google na Uboreshaji.  Zinatumia vidakuzi, anwani za IP, na zana za data ya mtandaoni.
+* **Vipimo**: GIF angavu, vidakuzi na huduma kutoka kampuni nyingine hutusaidia kujumlisha jinsi watumiaji wanavyotumia bidhaa, huduma, mawasiliano, tovuti, kampeni za mtandaoni, vijisehemu vya maandishi, vifaa na mifumo mingine. Tunatumia:
+    * Google Analytics, ambayo huweka vidakuzi kwenye kifaa, ili kupata vipimo kuhusu jinsi wateja wanavyotumia tovuti zetu.      Hali hii hutusaidia kuboresha maudhui ya tovuti.  
+    * Optimizely and ShareProgress, ambazo huweka vidakuzi kwenye kifaa chako, ili kutusaidia kujaribu jinsi maudhui ya tovuti yanavyobadilika.  Hii hutusaidia kuwapa wateja wetu hali bora ya matumizi kwenye wavuti.
+    * Flashtalking, ambayo hutumia GIF angavu kwenye ukurasa wa Firefox wa kupakua.  Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
 
 ---------------------------------------
 
