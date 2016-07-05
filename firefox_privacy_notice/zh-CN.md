@@ -1,6 +1,6 @@
 # Firefox 浏览器隐私权保护事宜通知
 
-2014 年 4 月 15 日
+2016 年 6 月 24 日
 {: datetime="2014-04-15" }
 
 我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
@@ -100,3 +100,8 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 {: #push-notifications }
 
 	如果您启用了推送通知，网站就可以向您发送通知和更新。为了获取通知，Firefox 会将您同意接受推送通知的网站信息发送给 Mozilla。 我们会在匿名表格中存储这一信息，以及每个网站向您发送的通知数量。 为了帮助开发者改进他们对于推送通知的使用，Mozilla 可能会与某些开发者分享汇总信息，包括有多少网站访问者订阅了或者取消订阅了他们的推送通知。您可以遵照[这些说明](https://support.mozilla.org/kb/push-notifications-firefox)在 Firefox 中管理推送通知。
+	
+##
+
+除非另有说明，否则本隐私权政策通知旨在用于最近全面发行的几个 Firefox 版本。我们推出的几个预发行版本 (Beta、Aurora/Developer Edition、Nightly 以及 TestFlight) 目前仍处于开发阶段，可能会有一些新功能，或在隐私保护方面各有不同的特点。这些预发行版本会自动将[遥测数据](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) 传给 Mozilla，用以帮助我们改进 Firefox。
+{: #pre-release }
