@@ -18,6 +18,8 @@ Možemo doći u posed vaših ličnih podataka na osnovu vaše interakcije s nama
 
 * **Saradnici**: Ukoliko volontirate za kompaniju Mozilla kao saradnik zajednice, radi komunikacije sa kompanijom Mozilla i drugima može biti potrebna vaša adresa e-pošte koju ste uneli u vezi sa svojim doprinosom, kako bi vam se priznao trud. Ukoliko dajete svoj doprinos servisima Bugzilla, Mozilla Reps ili našoj bazi programera, onda će vaša adresa e-pošte, a možda i ime, biti javno dostupni svim korisnicima interneta. Ukoliko kreirate profil na portalu Mozillians.org, zaposleni kompanije Mozilla i njeni saradnici moći će da mu pristupe. Svoje podatke na profilu možete izmeniti u okviru [Podešavanja profila](https://mozillians.org/user/edit). Ponekad koristimo podatke o saradniku od izvora (kao što su Bugzilla) na kontrolnim tablama kako bismo vizuelno predstavili zbirne podatke o zajednici Mozilla. Primer je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Ako je moguće, trudimo se da svedemo na minimum kontakt podatke koji se javno prikazuju.
 
+* **Nalozi**: Neki veb sajtovi, na primer, Marketplace, AMO, MDN i Webmaker, zahtevaju kreiranje naloga pre slanja programerskih sadržaja, slanja analiza ili komentara korisnika ili instaliranja određenih vrsta aplikacija.  S vremena na vreme možete dobijati poruke e-pošte u vezi sa Vašim nalogom. 
+
 * **Korisnički komentari**:  Možete nam slati komentare o našim proizvodima i uslugama na veb stranicama kao što je [input.mozilla.org](https://input.mozilla.org/), preko iskustva u okviru samog proizvoda, ili putem kanala kao što su e-pošta, Bugzilla, IRC, nalog na društvenoj mreži, na našoj stranici „Priključi se“ ili putem grupe kao što su „Studentski ambasadori“. Molimo vas da svedete na minimum lične podatke koje objavljujete na ovim forumima jer vaši komentari mogu biti dostupni javnosti.
 
 ---------------------------------------
@@ -25,11 +27,15 @@ Možemo doći u posed vaših ličnih podataka na osnovu vaše interakcije s nama
 Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i IP adrese radi funkcionalnosti i da bismo poboljšali svoje proizvode, usluge i komunikaciju. 
 {: #data-tools }
 
-* **Kolačići i IP adrese**: Koristimo ih da bismo unapredili funkcionalnost određenih proizvoda i usluga. Na primer, kolačići se koriste da pamte vaš željeni odabir jezika za Firefox i dodataka za Firefox. Pomažu vam i prilikom prijavljivanja korisnika i potvrde identiteta, tako da možete da zaobiđete unošenje lozinki na sajtovima koji koriste servis Persona.  IP adrese se koriste za prilagođavanje sadržaja za vašu konkretnu zemlju.
+* **Funkcionalnost**: Možemo koristiti kolačiće, podatke o uređaju i IP adrese radi poboljšanja funkcionalnosti određenih proizvoda, usluga i komunikacije. Na primer:
+    * Kolačići se koriste kako bi se zapamtio jezik pregledača Firefox i dodaci Firefox. Oni pomažu i prilikom prijavljivanja i autentikacije korisnika tako da možete da zaobiđete unošenje lozinki na određenim veb sajtovima kompanije Mozilla.  
+    * IP adrese se koriste za prilagođavanje obaveštenja prema jeziku i zemlji.  
+    * Podaci o uređaju, kao što su zemlja, jezik, operater i OEM, mogu se koristiti za prilagođavanje sadržaja na sajtovima Marketplace i Webmaker kompanije Firefox.
 
-* **Onlajn alatke za podatke**: Koristimo prazne GIF-ove i veb analitiku da bismo razumeli zbirno kako korisnici ulaze u interakciju s našim proizvodima, uslugama i saopštenjima na našim sajtovima, internet kampanjama, isečcima, uređajima i drugim platformama. 
-
-* **Servisi treće strane** Koristimo servise treće strane, kao što su Google Analytics i Optimizely.  Oni koriste kolačiće, IP adrese i onlajn alatke za podatke u pogledu naših sajtova.  
+* **Podaci**: Čisti GIF-ovi, kolačići i servisi treće strane nam pomažu da razumemo zbirno kako korisnici koriste naše proizvode, servise, komunikacije, veb sajtove, internet kampanje, isečke, uređaje i druge platforme. Koristimo:
+    * Google Analytics, koji postavlja kolačić na Vaš uređaj, kako bismo dobili podatke o interakciji korisnika sa našim veb sajtovima.      To nam pomaže da unapredimo sadržaj sajta.  
+    * Optimizely i ShareProgress, koji postavljaju kolačić na Vaš uređaj, pomažu nam da testiramo varijacije veb sadržaja.  To nam pomaže da ponudimo bolje veb iskustvo korisnicima.
+    * Flashtalking, koji koristi čiste GIF-ove na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da izmerimo efektivnost naših reklamnih kampanja.
 
 ---------------------------------------
 
