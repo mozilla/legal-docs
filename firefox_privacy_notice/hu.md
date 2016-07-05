@@ -1,6 +1,6 @@
 # Firefox böngésző Adatvédelmi tájékoztató
 
-2014\. április 15.
+2016. június 24.
 {: datetime="2014-04-15" }
 
 Fontos számunkra az Ön adatainak védelme. Ha a Firefox adatokat küld a Mozilla (ez minket jelent) számára, akkor [adatvédelmi irányelveink](https://www.mozilla.org/privacy/) írják le ezek kezelésének módját.
@@ -95,3 +95,6 @@ Az Ön kérésére is csatlakozik a Firefox a Mozillához, hogy Önnek funkciók
 {: #push-notifications }
 
 	A leküldéses értesítések engedélyezik az oldalaknak, hogy értesítéseket és frissítéseket küldjenek Önnek, ha engedélyezi ezt az opciót. Annak érdekében, hogy értesítéseket kapjon, a Firefox információt küld a Mozilla számára arról, hogy Ön mely oldalak esetében engedélyezte a leküldéses értesítéseket. Ezt az információt, illetve az egyes oldalak által küldött értesítések számát névtelenül tároljuk. A Mozilla segít a fejlesztőknek a leküldéses értesítések minél hatékonyabb használatában, ezért összesített információkat oszthat meg bizonyos fejlesztőkkel, többek között azt, hogy az oldalukra látogatók közül hányan iratkoztak fel a leküldéses értesítésekre vagy iratkoztak le azokról. A Firefox böngészőben az [alábbi utasítások](https://support.mozilla.org/kb/push-notifications-firefox) betartásával kezelheti a leküldéses értesítéseket.
+
+Egyéb megjegyzés hiányában ez az adatvédelmi tájékoztató a Firefox legfrissebb általánosan kibocsátott verzióira vonatkozik. A kibocsátás előtti verziók (Beta, Aurora/Developer Edition, Nightly és TestFlight) még fejlesztés alatt állnak, ezért új funkciókat tartalmazhatnak és eltérő adatvédelmi jellemzők vonatkozhatnak rájuk. A kibocsátás előtti verziók automatikusan [telemetriai adatokat](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) küldenek a Mozillának, amelyek segítenek nekünk a Firefox további fejlesztésében.
+{: #pre-release }
