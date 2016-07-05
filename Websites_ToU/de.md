@@ -1,13 +1,13 @@
 # Nutzungsbedingungen für Websites und Kommunikation
 
-11\. Februar 2016
+23.06.2016
 
 ### Nutzungsbedingungen
 
 
 #### 1\. Einführung
 
-Bitte lesen Sie die Bedingungen dieses gesamten Dokuments („Bedingungen“) sorgfältig durch, weil darin Ihre Rechte und Pflichten erläutert werden, die bei Ihrem Besuch einer der Websites von Mozilla („Websites“) oder damit zusammenhängender Feeds, sozialer Medien, Newslettern und E-Mails gelten (zusammen mit den Websites werden diese in ihrer Gesamtheit als „Kommunikation“ bezeichnet). Indem Sie auf Kommunikation zugreifen oder sich für deren Erhalt registrieren, erklären Sie sich mit diesen Bedingungen einverstanden.
+Bitte lesen Sie die Bedingungen dieses gesamten Dokuments („Bedingungen“) sorgfältig durch, weil darin Ihre Rechte und Pflichten erläutert werden, die bei Ihrem Besuch einer der Websites von Mozilla („Websites“) oder damit zusammenhängender Feeds, sozialer Medien, Newslettern, Quellcode-Repositories und E-Mails gelten (zusammen mit den Websites werden diese in ihrer Gesamtheit als „Kommunikation“ bezeichnet). Indem Sie auf Kommunikation zugreifen oder sich für deren Erhalt registrieren, erklären Sie sich mit diesen Bedingungen einverstanden.
 
 Unsere Websites umfassen mehrere Domains, wie mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org und webmaker.org. Sie können unsere Websites auch an Spitznamen wie Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO und AMO erkennen.
 Manche unserer Websites verbinden Sie mit Links, Apps oder Add-ons, die von anderen Parteien bereitgestellt werden und separaten Bedingungen unterliegen.
@@ -30,14 +30,17 @@ Manche Inhalte in unserer Kommunikation stammen von Quellen, die eine weitere Ve
 
 * Für manche Inhalte ist ausdrücklich angegeben, dass der Autor keine offene Lizenz vergeben hat.  Wenden Sie sich an den Autor oder dessen Vertreter und bitten Sie um die Genehmigung, solche Inhalte verwenden zu dürfen. Fragen zu von Mozilla erstellten Inhalten senden Sie bitte an: licensing@mozilla.org.
 * Manche Inhalte enthalten Marken, Firmen- oder Produktaufmachungen, Logos und Markenwerte von Mozilla und anderen Parteien („Marken“). Außer in sehr beschränktem Rahmen dürfen Marken nicht ohne vorherige schriftliche Zustimmung durch den Markeneigentümer verwendet werden.  [Weitere Informationen über Mozilla-Marken](https://www.mozilla.org/foundation/trademarks/policy/)
-* Die von unseren Websites verwendete Software wird im Rahmen der MPL oder ähnlichen permissiven Open-Source-Lizenzen lizenziert.  Weitere Informationen zur jeweiligen Lizenz finden Sie im entsprechenden GitHub-Repository. 
+* Die von unseren Websites verwendete Software wird im Rahmen der MPL oder ähnlichen permissiven Open-Source-Lizenzen lizenziert. Weitere Informationen zur jeweiligen Lizenz finden Sie im entsprechenden Quellcode- oder GitHub-Repository.
 
 
 #### 4\. Eingereichte Inhalte
 
-Sie können Inhalte einreichen, wenn Sie mit unserer Kommunikation interagieren. Dazu zählen u. a. Kommentare zu einem Artikel, Blogbeiträge, Codebeiträge oder Grafik- oder schriftliche Beiträge (werden jeweils als „Einreichung“ bezeichnet).
+Sie können Inhalte einreichen, wenn Sie mit unserer Kommunikation interagieren. Dazu zählen u. a. Kommentare zu einem Artikel, Blogbeiträge, Codebeiträge oder Grafik- oder schriftliche Beiträge (werden jeweils als „Einreichung“ bezeichnet). Wenn Ihre Einreichung nicht im Rahmen einer separaten Vereinbarung mit Mozilla erfolgt, die in diesem Falle Vorrang hat, gilt:
    
-Sie stimmen den folgenden Punkten in Verbindung mit jeder Einreichung zu:
+Für Einreichungen bei Open-Source-Projekten von Mozilla:
+* Sie stimmen zu, Ihre Einreichung den Bedingungen der jeweiligen Lizenz oder des jeweiligen Open-Source-Projekts entsprechend, zu dem Sie beitragen, zu lizenzieren. Weitere Informationen zur jeweiligen Lizenz finden Sie im entsprechenden Quellcode- oder GitHub-Repository.
+
+Für alle Einreichungen stimmen Sie den folgenden Punkten in Verbindung mit jeder Einreichung zu:
 
 * Sie sagen zu, dass Ihre Einreichung diesen Bedingungen, den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla und allen sonstigen Bedingungen entsprechen wird, die für Ihre Einreichung gelten.
 * Sie erteilen uns hiermit eine nicht ausschließliche, tantiemenfreie, weltweite und unterlizenzierbare (für die Partner, mit denen wir arbeiten) Lizenz zur Nutzung Ihrer Einreichung in Verbindung mit der Kommunikation und Online- wie Offline-Förderung der Mission, Produkte und Services von Mozilla.
