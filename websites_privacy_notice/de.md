@@ -20,6 +20,8 @@ Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um eine
 
 * **Benutzer-Feedback**:  Auf Webseiten wie [input.mozilla.org](https://input.mozilla.org/), über eine produktinterne Funktion oder Kanäle wie E-Mail, Bugzilla, IRC, ein Social-Media-Konto, eine „Machen Sie mit“-Seite oder eine Gruppe wie Student Ambassadors können Sie uns Feedback zu unseren Produkten und Services geben. Bitte halten Sie die persönlichen Informationen, die Sie auf diesen Foren preisgeben, so knapp wie möglich, weil Ihre Anmerkungen evtl. öffentlich zugänglich sind.
 
+* **Konten**: Manche Websites wie Marketplace, AMO, MDN und Webmaker erfordern, dass ein Konto erstellt wird, um Entwicklerinhalte, Benutzerrezensionen oder Kommentare einreichen oder bestimmte Arten von Anwendungen installieren zu können.  Sie erhalten evtl. von Zeit zu Zeit E-Mails in Verbindung mit Ihrem Konto.
+
 * **Produkt- und politische Kampagnen**:  Einige unserer Webseiten enthalten Produkt- oder politische Kampagnen. Zum Beispiel können Sie per E-Mail oder SMS einen Link zur Installation von Firefox auf Ihrem Mobilgerät anfordern oder eine Petition zur Internetpolitik unterzeichnen. Diese Kampagnen wickeln wir über Drittanbieter ab, die die Daten verarbeiten, die Sie einsenden.
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um eine
 Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen aus Gründen der Funktionalität und zur Verbesserung unserer Produkte, Services und Mitteilungen. 
 {: #data-tools }
 
-* **Cookies und IP-Adressen**: Wir verwenden diese, um die Funktionalität bestimmter Produkte und Services zu verbessern. Cookies dienen z. B . dazu, Ihre Firefox-Spracheinstellung und Firefox-Add-ons zu speichern. Außerdem helfen sie bei der Benutzeranmeldung und -authentifizierung, sodass Sie Ihre Passwörter auf Websites, die Persona verwenden, nicht immer wieder erneut eingeben müssen.  IP-Adressen dienen dazu, Inhalte für Ihr jeweiliges Land spezifisch anzupassen.
+* **Funktionalität**: Wir verwenden evtl. Cookies, Geräteinformationen und IP-Adressen, um die Funktionalität bestimmter Produkte, Dienste und Mitteilungen („Kommunikation“) zu erweitern. Beispiele:
+    * Cookies dienen dazu, Ihre Firefox-Spracheinstellung und Firefox-Add-ons zu speichern. Außerdem helfen sie bei der Benutzeranmeldung und -authentifizierung, sodass Sie Ihre Passwörter auf bestimmten Mozilla-Websites nicht immer wieder erneut eingeben müssen.  
+    * IP-Adressen dienen dazu, Kommunikation nach Land und Sprache spezifisch anzupassen.  
+    * Geräteinformationen wie Land, Sprache, Betreiber und OEM können verwendet werden, um Ihre Erfahrung auf Firefox Marketplace und Webmaker spezifisch anzupassen.
 
-* **Online-Datenwerkzeuge**: Wir verwenden Clear-GIFs und Web-Analysefunktionen, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren.
-
-* **Dienste Dritter** Wir nutzen Dienste Dritter wie Google Analytics und Optimizely. Diese verwenden Cookies, IP-Adressen und Online-Datenwerkzeuge. 
+* **Metriken**: Wir verwenden Zählpixel (Clear-GIFs), Cookies und Dienste von Drittanbietern, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
+    * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren.      Dadurch können wir die Website-Inhalte verbessern.  
+    * Optimizely und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können.  Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
+    * Flashtalking, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet.  Damit können wir die Effektivität unserer Werbekampagnen messen.
 
 ---------------------------------------
 
