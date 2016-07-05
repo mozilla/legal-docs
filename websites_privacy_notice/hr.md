@@ -18,18 +18,24 @@ Možemo primiti vaše osobne podatke temeljem interakcije s nama na platformi dr
 
 * **Suradnici**: Volontiranjem kao društveni suradnik, Mozilla i ostali mogu tražiti od vas da komunicirate putem adrese e-pošte koju ste pružili vezano za vašu suradnju i prepoznavanje vaših napora.  Ako sudjelujete na uslugama Bugzilla, Mozilla Reps ili našoj osnovnoj bazi, postoji mogućnost da vaša adresa e-pošte i ime budu javno dostupni svim korisnicima Interneta. Ako izradite profil na Mozillians.org, bit će dostupan zaposlenicima i suradnicama Mozille. Vaše podatke profila možete urediti na [Postavke profila](https://mozillians.org/user/edit). Povremeno koristimo podatke o suradniku iz izvora (poput Bugzilla) u kontrolnoj ploči za vizualno dijeljenje prikupljenih podataka na zajednici Mozilla. Primjer [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Po mogućnosti, pokušavamo minimizirati podatke za kontakt koji su javno prikazani.
 
+* **Računi**: Neke web stranice primjerice Marketplace, AMO, MDN i Webmaker, zahtijevaju izradu računa za slanje sadržaja razvojnog programera; slanje korisničkih pregleda ili komentara; ili instalaciju određenih vrsta aplikacija.  Možete povremeno primiti poruke e-pošte vezano za vaš račun.
+
 * **Povratne informacije korisnika**:  Možete nam pružiti povratne informacije o našim proizvodima i uslugama na web-mjestu poput [input.mozilla.org](https://input.mozilla.org/), kroz iskustva s proizvodom ili kroz kanale poput e-pošte, Bugzilla, IRC, račune društvenih medija, naše stranice Get Involved ili kroz grupu kao što je Studenti ambasadori. Molimo da minimizirate osobne podatke koje odaberete za dijeljenje na ovim forumima budući da vaši komentari mogu biti dostupni javnosti.
 
 ---------------------------------------
 
 Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adrese za funkcioniranje i poboljšanje naših proizvoda, usluga i komunikacija. 
-{: #alati za podatke }
+{: #data-tools }
 
-* **Kolačići i IP adrese**: Ovo koristimo za poboljšanje funkcioniranja određenih proizvoda i usluga. Primjerice, kolačići se koriste za memoriju postavki jezika Firefoxa i dodataka Firefoxa. Također pomažu s prijavom korisnika i autentifikacijom, tako da možete zaobići unos zaporke na web-mjestima koja koriste Persona.  IP adrese su korištene za prilagodbu sadržaja za određenu zemlju.
+* **Funkcionalnost**: Možemo koristiti kolačiće, podatke o uređaju i IP adrese za poboljšanje funkcionalnosti određenih proizvoda, usluga i komunikacija. Na primjer:
+    * Kolačići se koriste za memoriju postavki jezika Firefoxa i dodataka Firefoxa. Također pomažu s prijavom korisnika i autentifikacijom, tako da možete zaobići unos zaporke na određenim Mozilla web-mjestima.  
+    * IP adrese su korištene za prilagodbu sadržaja za određeni jezik i zemlju.  
+    * Podaci o uređaju poput zemlje, jezika, operatera i OEM-a, mogu se koristiti za prilagodbu iskustva na Firefox Marketplaceu i Webmakeru.
 
-* **Mrežni alati za obradu podataka**: Koristimo čiste GIF-ove i analitiku interneta za razumijevanje kod prikupljanja podataka o tome kako korisnici koriste naše proizvode, usluge i komunikacije na našim web-mjestima, mrežnim kampanjama, isječcima, uređajima i drugim platformama. 
-
-* **Usluge treće strane** Koristimo se uslugama treće strane poput Google Analytics i Optimizely.  One primjenjuju kolačiće, IP adrese i mrežne alate za obradu podataka o našim web-stranicama.  
+* **Metrike**: Čisti GIF-ovi, kolačići i usluge treće strane pomažu nam u razumijevanju prikupljanja podataka o tome kako korisnici koriste naše proizvode, usluge i komunikacije, web-mjesta, mrežne kampanje, isječke, uređaje i druge platforme. Koristimo:
+    * Google Analytics, koja postavlja kolačiće na vaš uređaj, za dobivanje metrika o tome kako koristite naše web stranice.      Ovo pomaže poboljšati sadržaj stranice.  
+    * Optimizely i ShareProgress, koji postavlja kolačiće na vaš uređaj, pomaže nam testirati različite web sadržaje.  Ovo nam pomaže ponuditi bolje iskustvo korisnicima.
+    * Flashtalking, koji koristi čiste GIF-ove na našoj Firefox stranici za preuzimanje..  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje. 
 
 ---------------------------------------
 
