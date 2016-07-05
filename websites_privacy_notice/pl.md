@@ -20,6 +20,8 @@ Informacje o użytkownikach możemy otrzymywać w wyniku ich interakcji z nam
 
 * **Opinie użytkowników**: użytkownicy mogą dzielić się swoimi opiniami na temat naszych produktów i usług na stronach takich jak [input.mozilla.org](https://input.mozilla.org/), przy użyciu funkcji dostępnych w produktach lub za pośrednictwem takich kanałów komunikacji, jak poczta e-mail, serwis Bugzilla, usługa IRC lub konta w serwisach społecznościowych, na stronie Dołącz do nas lub za pośrednictwem grup, takich jak Student Ambassadors. Podając informacje na tych forach, należy podawać jak najmniej danych osobowych, ponieważ komentarze mogą być dostępne publicznie.
 
+* **Konta**: Niektóre witryny, na przykład Marketplace, AMO, MDN i Webmaker, wymagają utworzenia konta, by umożliwić przesyłanie zawartości programistów, przesyłanie opinii i komentarzy użytkowników czy instalowanie określonych typów aplikacji.  Użytkownik może od czasu do czasu otrzymywać związane ze swoim kontem wiadomości e-mail.
+
 * **Kampanie dotyczące zasad i produktów**: na niektórych z naszych stron internetowych znajdują się kampanie dotyczące zasad lub produktów. Użytkownicy mogą na przykład poprosić w wiadomości e-mail lub SMS o łącze umożliwiające zainstalowanie przeglądarki Firefox na urządzeniu przenośnym albo wysłać do ustawodawców petycję w sprawach dotyczących Internetu. Obsługą tego rodzaju kampanii zajmują się firmy zewnętrzne, które także obsługują przesłane przez użytkowników dane.
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Informacje o użytkownikach możemy otrzymywać w wyniku ich interakcji z nam
 Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, korzystamy z ciasteczek, przezroczystych plików GIF, narzędzi analitycznych firm zewnętrznych oraz adresów IP.
 {: #data-tools }
 
-* **Ciasteczka i adresy IP**: używamy ich do zwiększania funkcjonalności niektórych produktów i usług. Ciasteczek używamy na przykład do zapamiętywania preferencji językowych użytkowników i dodatków przeglądarki Firefox. Pomagają również przy logowaniu i uwierzytelnianiu, dzięki czemu nie trzeba podawać haseł w witrynach używających systemu Persona. Adresy IP są wykorzystywane do dostosowania treści do danego kraju.
+* **Funkcjonalność**: Aby zwiększyć funkcjonalność niektórych produktów, usług i kanałów komunikacji, możemy używać ciasteczek, danych urządzeń i adresów IP. Na przykład:
+    * Ciasteczek używamy do zapamiętywania preferencji językowych użytkowników i dodatków przeglądarki Firefox. Pomagają również przy logowaniu i uwierzytelnianiu użytkowników, dzięki czemu w niektórych witrynach firmy Mozilla nie trzeba podawać haseł.  
+    * Adresy IP są wykorzystywane do dostosowania kanałów komunikacji do języka i kraju użytkownika.  
+    * Dane urządzeń, takie jak kraj, język, operator i producent, mogą być wykorzystywane do dostosowania interfejsu witryn Firefox Marketplace i Webmaker.
 
-* **Narzędzia obsługi danych w Internecie**: używamy przezroczystych plików GIF i narzędzi analitycznych, by dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług, metod komunikacji, witryn, kampanii internetowych, wycinków, urządzeń i innych platform.
-
-* **Usługi firm zewnętrznych**: korzystamy z usług firm zewnętrznych, takich jak Google Analytics czy Optimizely. Używają one ciasteczek, adresów IP oraz internetowych narzędzi analizy danych.
+* **Dane**: Przezroczyste pliki GIF, ciasteczka i narzędzia analityczne pomagają nam dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług oraz metod komunikacji w naszych witrynach, kampaniach internetowych, wstawkach, urządzeniach i na innych platformach. Używamy:
+    * Google Analytics, które umieszcza ciasteczka na urządzeniu użytkownika, by uzyskać dane o sposobie korzystania przez użytkowników z naszych witryn.      Pomaga to nam ulepszać ich treść.  
+    * Optimizely i ShareProgress, które to usługi umieszczają na urządzeniu użytkownika ciasteczka, by pomóc nam w testowaniu różnych wariantów zawartości internetowej.  Pozwala to nam oferować użytkownikom lepsze treści internetowe.
+    * Flashtalking, usługi, która używa przezroczystych plików GIF na stronie pobierania przeglądarki Firefox.  Pomaga to nam mierzyć skuteczność kampanii reklamowych.
 
 ---------------------------------------
 
