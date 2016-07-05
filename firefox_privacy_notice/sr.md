@@ -1,6 +1,6 @@
 # Obaveštenje o privatnosti pretraživača Firefox
 
-15\. april 2014.
+24. jun, 2016
 {: datetime="2014-04-15" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox šalje informacije kompaniji Mozilla (to smo mi) u našim [Pravilima privatnosti](https://www.mozilla.org/privacy/) opisuje se način na koji koristimo te informacije.
@@ -95,3 +95,6 @@ Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio 
 {: #push-notifications }
 
 	Obaveštenja „Push“ dozvoljavaju sajtovima da Vam šalju obaveštenja i ažuriranja ukoliko odaberete ovu opciju. Da bi dobio obaveštenja, Firefox šalje informacije kompaniji Mozilla o tome sa kojih sajtova ste prihvatili da dobijate obaveštenja „Push“. Ove podatke čuvamo u anonimnom obliku uz broj obaveštenja koje Vam svaki od sajtova šalje. Kako bi pomogla programerima da poboljšaju korišćenje obaveštenja „Push“, kompanija Mozilla može podeliti zbirne podatke sa određenim programerima, uključujući i broj posetilaca njihovog sajta koji su se prijavili ili odjavili za dobijanje njihovih obaveštenja „Push“. Možete upravljati svojim obaveštenjima „Push“ u pregledaču Firefox tako što ćete pratiti [ova uputstva](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Osim u slučajevima kada je drugačije navedeno, ovo obaveštenje o privatnosti se odnosi na većinu najnovijih opštih verzija izdanja pregledača Firefox. Naše verzije pre izdanja (Beta, Aurora/Developer Edition, Nightly i TestFlight) još uvek su u fazi aktivnog razvoja i mogu sadržati nove funkcije ili imati drugačije karakteristike privatnosti. Verzije pre izdanja automatski šalju [Telemetrijske podatke](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) kompaniji Mozilla koji nam pomažu da unapredimo Firefox.
+{: #pre-release }
