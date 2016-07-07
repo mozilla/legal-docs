@@ -69,7 +69,7 @@ Firefox automatically connects to us and our service providers to provide update
 * **Firefox for Android and Firefox for iOS**
 {: #thirdparty }
 
-	In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies.
+	In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies. You can [learn more here](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), including how to disable it.
 
 ---------------------------------------
 
