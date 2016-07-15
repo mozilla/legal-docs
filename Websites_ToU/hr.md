@@ -38,6 +38,7 @@ Neki Sadržaj naših Komunikacija dolaze iz izvora koji ne dopuštaju daljnju up
 Našem Sadržaju možete doprinijeti interakcijom s našim Komunikacijama, uključujući između ostalog komentiranjem članaka, pisanjem blogova, prilaganjem kodova ili grafičkog, ili pisanog materijala (sve pod nazivom „Poslani materijal”). Osim ako vaš Poslani materijal nije izvršen u odvojenom ugovoru s Mozillom, a u tom slučaju taj ugovor je važeći, potom
    
 Za Slanje materijala u projekt Mozila otvorenog izvora: 
+
 * Slažete se s licenciranjem vašeg Poslanog materijala pod uvjetima odgovarajuće licence određenog projekta otvorenog izvora u kojem sudjelujete. Za više informacija o specifičnoj licenci, pogledajte kôd izvora koji se primjenjuje GitHub.
 
 Za sva druga Slanja materijala, slažete se sa sljedećim:

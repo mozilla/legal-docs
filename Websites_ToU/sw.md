@@ -38,6 +38,7 @@ Baadhi ya Maudhui kwenye Mawasiliano yetu yanapatikana kutoka kwenye vyanzo amba
 Unaweza kuchangia Maudhui unapotumia Mawasiliano yetu, ikiwa ni pamoja na kutoa maoni kuhusu makala, kuandika blogu, kuchangia msimbo au kuchangia nyenzo za picha au za maandishi (kila mojawapo ni “Wasilisho”). Isipokuwa Wasilisho lako liwe chini ya mkataba tofauti wa Mozilla, hali ambapo mkataba huo utatumika, basi
    
 Kuhusu Mawasilisho yanayotumwa kwenye miradi ya Mozilla ya programu huria:
+
 * Unakubali kuidhinisha Wasilisho lako chini ya sheria na masharti ya leseni husika ya mradi mahususi wa programu huria ambako unachangia. Kwa maelezo zaidi kuhusu leseni mahususi, tafadhali angalia misimbo husika ya programu au hifadhi husika ya GitHub.
 
 Kwa Mawasilisho mengine yote, unakubaliana na mambo yafuatayo kulingana na kila:

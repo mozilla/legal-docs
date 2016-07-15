@@ -38,6 +38,7 @@ A Közleményinkben szereplő tartalmak egy része olyan forrásokból származi
 Ön Tartalmakkal is hozzájárulhat a Kommunikációkhoz, többek között megjegyzést fűzhet egy cikkhez, blogolhat, valamint kódot, grafikai elemet vagy írott anyagot oszthat meg („Benyújtott anyag”). Ha a Benyújtott anyagra nem vonatkozik a Mozillával kötött külön megállapodás, amely ilyen esetben irányadó, akkor
    
 A Mozilla nyílt forrású projektjeivel kapcsolatban:
+
 * Ön elfogadja, hogy Benyújtott anyagát az adott nyílt forrású projekthez tartozó licencre vonatkozó feltételekkel licenceli. Konkrét licencekkel kapcsolatban az adott forráskódtár vagy GitHub-tár nyújt további információt.
 
 Minden más Benyújtott anyag tekintetében Ön elfogadja a következő feltételeket:

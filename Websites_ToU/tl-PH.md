@@ -38,6 +38,7 @@ Ang ilang Content sa aming Mga Komunikasyon ay kinuha mula sa mga pinagmumulan n
 Maaari kang mag-ambag ng Content kapag ginagamit mo ang aming Komunikasyon, kasama ang, pero hindi limitado sa, pagkomento sa isang artikulo, pagba-blog, pag-aambag ng code, o pag-aambag ng graphics o pagsusulat (ang bawat isa ay tinatawag na “Pagsusumite”). Maliban kung isasagawa ang iyong Pagsusumite sa ilalim ng isang hiwalay na kasunduan sa Mozilla, kung saan mangingibabaw ang kasunduang iyon,
    
 Para sa Mga Pagsusumite sa mga open source na proyekto ng Mozilla:
+
 * Sumasang-ayon kang ilisensya ang iyong Pagsusumite sa ilalim ng mga tuntunin ng kaugnay na lisensya ng partikular na open source na proyektong inaambagan mo. Para sa higit pang impormasyon sa partikular na lisensya, pakitingnan ang nauugnay na source code o GitHub repository.
 
 Para sa lahat ng iba pang Mga Pagsusumite, sumasang-ayon ka sa sumusunod kaugnay ng bawat isa:

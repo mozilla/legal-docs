@@ -38,6 +38,7 @@ Parte dei Contenuti delle nostre Comunicazioni viene acquisito da fonti che proi
 È possibile contribuire con propri Contenuti quando si interagisce con le nostre Comunicazioni, inviando, ad esempio, commenti su articoli, post su blog, codice, grafici o altro materiale scritto (individualmente "Invio"). Tranne se l'Invio viene effettuato in base a un accordo con Mozilla separato, nel qual caso vengono applicate le condizioni di tale accordo, allora
    
 Per gli Invii ai progetti open source di Mozilla:
+
 * L'utente accetta di concedere in licenza i propri Invii secondo i termini della licenza corrispondente del progetto open source specifico a cui sta contribuendo. Per ulteriori informazioni sulla licenza specifica, consultare il codice sorgente o l'archivio GitHub applicabile.
 
 Per tutti gli altri Invii, l'utente accetta i termini elencati di seguito, in relazione a ciascun Invio:

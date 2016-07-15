@@ -38,6 +38,7 @@ Některý Obsah v našich Sděleních je získán ze zdrojů, které zakazují d
 Během interakce s našimi Sděleními můžete přispívat Obsahem, včetně například komentářů k článkům, psaním blogů, přispíváním kódy nebo přispíváním grafiky či písemných materiálů (dále jen „Příspěvky”). Pokud své Příspěvky neposkytujete v rámci samostatné smlouvy se společností Mozilla, přičemž v takovém případě se uplatní smlouva, pak
    
 Pro Příspěvky do projektů typu otevřený zdroj společnosti Mozilla:
+
 * Souhlasíte, že poskytnete licenci ke svému příspěvku za podmínek odpovídajících licenci konkrétního projektu typu otevřený zdroj, do něhož přispíváte. Pro podrobnější informace o jednotlivých licencích, viz prosím příslušný zdrojový kód nebo úložiště GitHub.
 
 Pro všechny ostatní Příspěvky souhlasíte v souvislosti s každým z nich s náledujícím:

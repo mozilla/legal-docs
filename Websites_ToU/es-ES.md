@@ -38,6 +38,7 @@ Parte del Contenido de los Mensajes se adquiere de fuentes que prohíben el uso 
 Puede aportar Contenido con interacciones relacionadas con nuestros Mensajes, que incluyen entre otros comentarios en artículos, publicaciones en blogs, códigos de participación, gráficas de participación y material escrito (cada uno, una "Aportación").  A menos que su Aportación se realice bajo un acuerdo por separado con Mozilla, en cuyo caso regirá ese acuerdo,... 
    
 Para Aportaciones a proyectos de código fuente de Mozilla:
+
 * Usted acepta otorgar licencia a su Aportación según las condiciones de la licencia correspondientes al proyecto de código fuente concreto para el que realiza la aportación. Para obtener más información sobre esta licencia en concreto, consulte el código fuente o archivo GitHub correspondientes.
 
 Para todas las Aportaciones, acepta lo siguiente en relación con cada una de ellas:

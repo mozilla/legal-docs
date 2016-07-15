@@ -38,6 +38,7 @@ Certains Contenus de nos Communications sont acquis auprès de sources qui inter
 Vous pouvez contribuer au Contenu lorsque vous interagissez avec nos Communications, y compris mais sans limitation, avec des commentaires sur un article, des articles de blog, du code, des graphiques ou des documents écrits (chaque élément représente une « Soumission ») À moins que votre soumission ne s'effectue selon un accord spécifique avec Mozilla, auquel cas cet accord prévaut, alors
    
 Pour les soumissions aux projets Mozilla open source :
+
 * Vous acceptez octroyer une licence pour votre soumission selon les conditions de la licence correspondante du projet open source auquel vous contribuez. Pour plus d'informations sur une licence spécifique, veuillez consulter le code source applicable ou l'entrepôt GitHub.
 
 Pour toute autre soumission, vous acceptez ce qui suit en relation avec chaque :
