@@ -38,6 +38,7 @@ Određeni Sadržaj u našim Obaveštenjima dolazi iz izvora koji zabranjuju dalj
 Možete dodati sopstvene Sadržaje kada koristite naše Komunikacije, uključujući ali se ne ograničavajući na komentarisanje članaka, pisanje blogova, programiranje ili slanje grafičkih sadržaja ili pisanih materijala (pri čemu se svako od ovih naziva „Poslati materijal“). Osim u slučaju da je Vaš Poslati materijal nastao u skladu sa posebnim ugovorom sa kompanijom Mozilla, u kom slučaju takav ugovor reguliše međusobne odnose, onda
    
 U slučaju Poslatog materijala za projekte otvorenog koda kompanije Mozilla:
+
 * Saglasni ste da licencirate Vaš Poslati materijal u skladu sa uslovima odgovarajuće licence konkretnog projekta otvorenog koda za koji šaljete sadržaj. Za više informacija o konkretnoj licenci, molimo Vas da pogledate odgovarajući izvorni kod ili ostavu GitHub.
 
 U slučaju svih ostalih Poslatih materijala, saglasni ste sa sledećim u vezi sa svakim od njih:

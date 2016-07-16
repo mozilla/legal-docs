@@ -38,6 +38,7 @@ Anumite Conținuturi din Comunicările noastre se obțin din surse care interzic
 Este posibil să contribuiți cu conținut atunci când interacționați cu Comunicările noastre, inclusiv, dar fără limitare la acestea, comentariile cu privire la un articol, blogurile, codurile contributorii sau reprezentările grafice ori materialele scrise contributorii (denumite individual „Remitere”). Cu excepția cazului în care Remiterea este efectuată de dumneavoastră ca parte a unui acord separat cu Mozilla, caz în care se va aplica respectivul acord, atunci
    
 Pentru Remiterile pentru proiectele Mozilla cu sursă deschisă:
+
 * Sunteți de acord să licențiați Remiterea conform cu termenii licenței corespunzătoare respectivului proiect cu sursă deschisă la care contribuiți.  Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil.
 
 Pentru toate celelalte Remiteri, sunteți de acord cu următoarele în ceea ce privește fiecare remitere: 

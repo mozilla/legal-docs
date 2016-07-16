@@ -38,6 +38,7 @@ Manche Inhalte in unserer Kommunikation stammen von Quellen, die eine weitere Ve
 Sie können Inhalte einreichen, wenn Sie mit unserer Kommunikation interagieren. Dazu zählen u. a. Kommentare zu einem Artikel, Blogbeiträge, Codebeiträge oder Grafik- oder schriftliche Beiträge (werden jeweils als „Einreichung“ bezeichnet). Wenn Ihre Einreichung nicht im Rahmen einer separaten Vereinbarung mit Mozilla erfolgt, die in diesem Falle Vorrang hat, gilt:
    
 Für Einreichungen bei Open-Source-Projekten von Mozilla:
+
 * Sie stimmen zu, Ihre Einreichung den Bedingungen der jeweiligen Lizenz oder des jeweiligen Open-Source-Projekts entsprechend, zu dem Sie beitragen, zu lizenzieren. Weitere Informationen zur jeweiligen Lizenz finden Sie im entsprechenden Quellcode- oder GitHub-Repository.
 
 Für alle Einreichungen stimmen Sie den folgenden Punkten in Verbindung mit jeder Einreichung zu:

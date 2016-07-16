@@ -38,6 +38,7 @@ Determinados Conteúdos em nossas Comunicações são adquiridos de fontes que p
 Você poderá contribuir com Conteúdo ao interagir com nossas Comunicações, inclusive, entre outros, ao comentar em um artigo, escrever no blog, contribuir com um código ou contribuir com um gráfico ou material escrito (cada um deles denominado "Envio"). Exceto se seu Envio for feito nos termos de um contrato separado com a Mozilla, em cujo caso esse contrato terá precedência,
    
 para Envios para projetos de código aberto da Mozilla:
+
 * você concorda em licenciar seu Envio nos termos da licença correspondente do projeto de código aberto específico para o qual está contribuindo. Para obter mais informações sobre uma licença específica, consulte o código fonte ou repositório GitHub aplicável.
 
 Para todos os demais Envios, você concorda com o que segue com relação a cada um deles:

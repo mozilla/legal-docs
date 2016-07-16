@@ -38,6 +38,7 @@ Część Zawartości w naszych Kanałach komunikacyjnych pochodzi jednak ze źr
 Podczas interakcji z naszymi Kanałami komunikacyjnymi użytkownik może przesyłać własną Zawartość, np. komentując artykuły, blogując lub przesyłając kod, grafikę lub materiały pisemne (w każdym przypadku określane dalej jako „Przesyłany materiał”). O ile Przesyłane materiały nie podlegają odrębnej umowie z firmą Mozilla, która w takim przypadku będzie obowiązującą, to:
    
 W przypadku Materiałów przesyłanych do prowadzonych przez firmę Mozilla projektów open source:
+
 * Użytkownik zgadza się udzielić licencji na Przesyłane materiały na warunkach określonych w licencji projektu open source, w którym uczestniczy. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim kodzie źródłowym lub w repozytorium GitHub.
 
 W przypadku wszystkich pozostałych Przesyłanych materiałów użytkownik wyraża zgodę na następujące postanowienia:

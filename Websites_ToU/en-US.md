@@ -38,6 +38,7 @@ Some Content in our Communications is acquired from sources that prohibit furthe
 You may contribute Content when interacting with our Communications, including but not limited to commenting on an article, blogging, contributing code, or contributing graphics or written material (each a “Submission”). Unless your Submission is made under a separate agreement with Mozilla, in which case that agreement will govern, then
    
 For Submissions to Mozilla's open source projects:
+
 * You agree to license your Submission under the terms of the corresponding license of the particular open source project to which you are contributing. For more information on the specific license, please see the applicable source code or GitHub repository.
 
 For all other Submissions, you agree to the following in connection with each:
