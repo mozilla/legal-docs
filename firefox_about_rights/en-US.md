@@ -26,7 +26,7 @@ If you do not want to use one or more of the Services or the terms above are una
 >
 >* Open the application preferences
 >* Select the Security selection
->* Uncheck the options to "Block reported attack sites" and "Block reported web forgeries"
+>* Uncheck the option to "Block dangerous and deceptive content"
 >* Safe Browsing is now disabled
 >
 > **Location Aware Browsing:** is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:
