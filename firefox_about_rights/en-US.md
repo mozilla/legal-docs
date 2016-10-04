@@ -24,14 +24,14 @@ If you do not want to use one or more of the Services or the terms above are una
 
 > **SafeBrowsing:** Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites. If you wish to disable the feature completely, follow these steps:
 >
->* Open the application preferences
->* Select the Security selection
+>* Open Firefox Preferences
+>* Select the Security panel
 >* Uncheck the option to "Block dangerous and deceptive content"
 >* Safe Browsing is now disabled
 >
 > **Location Aware Browsing:** is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:
 >
->In the URL bar, type about:config
+>*In the URL bar, type about:config
 >* Type geo.enabled
 >* Double click on the geo.enabled preference
 >* Location-Aware Browsing is now disabled
