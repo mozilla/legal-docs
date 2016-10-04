@@ -31,7 +31,7 @@ If you do not want to use one or more of the Services or the terms above are una
 >
 > **Location Aware Browsing:** is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:
 >
->*In the URL bar, type about:config
+>* In the URL bar, type about:config
 >* Type geo.enabled
 >* Double click on the geo.enabled preference
 >* Location-Aware Browsing is now disabled
