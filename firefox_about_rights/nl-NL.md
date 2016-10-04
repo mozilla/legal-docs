@@ -26,7 +26,7 @@ Als u een of meer van de diensten niet wilt gebruiken of de bovenstaande voorwaa
 >
 >* Open de toepassingsvoorkeuren
 >* Selecteer de sectie Beveiliging
->* Vink de opties ‘Gerapporteerde aanvalsites blokkeren’ en ‘Gerapporteerde webvervalsingen blokkeren’ uit
+>* Vink de optie ‘Gevaarlijke en misleidende inhoud blokkeren’ uit
 >* Veilig surfen is nu uitgeschakeld
 >
 > **Locatiebewust navigeren:** vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
