@@ -24,8 +24,8 @@ Als u een of meer van de diensten niet wilt gebruiken of de bovenstaande voorwaa
 
 > **Veilig surfen:** uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
 >
->* Open de toepassingsvoorkeuren
->* Selecteer de sectie Beveiliging
+>* Open de voorkeuren van Firefox
+>* Selecteer het paneel Beveiliging
 >* Vink de optie ‘Gevaarlijke en misleidende inhoud blokkeren’ uit
 >* Veilig surfen is nu uitgeschakeld
 >
