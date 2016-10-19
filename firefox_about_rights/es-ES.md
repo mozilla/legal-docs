@@ -26,7 +26,7 @@ Si no quiere usar uno o más de los Servicios, o los términos anteriores no son
 >
 >* Abra las preferencias de la aplicación
 >* Seleccione el panel Seguridad
->* Desmarque las opciones "Bloquear los sitios identificados como atacantes" y "Bloquear los sitios identificados como falsificaciones web"
+>* Desmarque la opción para “Bloquear contenido peligroso y engañoso”.
 >* La navegación segura está ahora desactivada
 >
 > **Navegación basada en ubicación:** siempre es a elección del usuario. Nunca se envía información sobre su ubicación sin su permiso. Si desea desactivar la característica completamente, siga estos pasos:
