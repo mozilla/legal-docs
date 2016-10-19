@@ -59,7 +59,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * Výchozí vyhledávání
 {: #thirdparty }
 
-	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi.
+	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi. [Podrobnější informace zjistíte zde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), včetně postupu deaktivace.
 
 ---------------------------------------
 
