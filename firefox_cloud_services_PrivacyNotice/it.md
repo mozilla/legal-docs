@@ -1,6 +1,6 @@
 # Firefox Cloud Services – Informativa sulla privacy
 
-17 luglio, 2015
+16 agosto 2016
 {: datetime="2015-07-17" }
 
 La privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui vengono utilizzate le informazioni trasmesse dai Firefox Cloud Services (i “Servizi”) a Mozilla (noi).
@@ -9,9 +9,13 @@ La privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla
 
 Il tipo di dati trasmessi varia a seconda delle funzioni dei vari servizi che vengono utilizzate.
 
-* **Account Firefox**: quando si crea un account, Mozilla riceve il relativo indirizzo e-mail e un'impronta (hash) della password. È inoltre possibile aggiungere un'immagine del profilo. Se si sceglie Gravatar, l'indirizzo e-mail verrà condiviso con Gravatar per ottenere l'immagine del profilo.
-* **Sync**: nel momento in cui si utilizza Sync riceviamo diverse informazioni necessarie per sincronizzare le schede, la barra degli indirizzi, le password, i segnalibri, le impostazioni del browser e altri dati nei vari dispositivi.
-* **Trova dispositivo**: attivando la funzione *Trova dispositivo* saremo in grado di rilevare la posizione approssimativa del dispositivo solo dopo che l’utente avrà effettuato l’accesso al proprio account Firefox ed esplicitamente richiesto di localizzare un dispositivo connesso. Quando si è connessi sarà possibile visualizzare su una mappa le ultime posizioni conosciute del dispositivo. Eliminiamo regolarmente tali informazioni e non acquisiamo ulteriori dati sulla posizione fino a quando non viene espressamente richiesto dall’utente.
+* **Indirizzo e-mail**: quando si crea un account Firefox, Mozilla riceve il relativo indirizzo e-mail e un’impronta (hash) della password. È inoltre possibile aggiungere un’immagine del profilo o usare Gravatar (nel qual caso, l’indirizzo e-mail verrà condiviso con Gravatar per ottenere l’immagine del profilo).
+
+* **Sincronizzazione**: se viene attivato Sync, Mozilla riceve, in formato criptato, i dati che vengono sincronizzati nei vari dispositivi (che possono includere schede Firefox, componenti aggiuntivi, password, segnalibri, cronologia e altre preferenze).  Nonostante queste informazioni non possano essere decifrate da Mozilla, è consigliabile utilizzare una password efficace per impedire l’accesso non autorizzato ai dati sincronizzati.  Vengono inoltre memorizzate informazioni sul sistema operativo dei dispositivi e sulla versione di Firefox utilizzata, per mostrare quali dispositivi sono sincronizzati all’account. 
+
+* **Dati di localizzazione**: per finalità di sicurezza, memorizziamo gli indirizzi IP utilizzati per accedere all’account Firefox e risalire alla città e alla provincia di residenza dell’utente.  Tali dati vengono utilizzati per inviare avvisi e-mail nel caso vengano rilevate attività sospette, come accessi all’account da altre località.
+    
+	* **Trova dispositivo**: se si attiva la funzione Trova dispositivo, saremo in grado di rilevare la posizione approssimativa del dispositivo solo dopo che l’utente avrà eseguito l'accesso al proprio account Firefox ed esplicitamente richiesto di localizzare un dispositivo connesso. Mentre si è connessi, è possibile visualizzare su una mappa le ultime posizioni conosciute del dispositivo. Cancelliamo regolarmente tali informazioni e non acquisiremo altri dati sulla posizione fino a quando non viene espressamente richiesto dall’utente.
 
 ---------------------------------------
 
