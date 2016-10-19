@@ -26,7 +26,7 @@ Se você não quiser usar um ou mais Serviços ou não aceitar os termos a segui
 >
 >* Abra as preferências do aplicativo
 >* Selecione o painel Segurança
->* Desmarque as opções “Bloquear sites avaliados como focos de ataques” e “Bloquear sites avaliados como falsos”
+>* Desmarque a opção “Bloquear conteúdo perigoso e enganoso”
 >* A navegação segura agora está desativada
 >
 > **Navegação sensível à localização:** é sempre alertado antes. Nenhuma informação de localização é enviada sem a sua autorização. Caso deseje desativar totalmente este recurso, siga este passos:
