@@ -59,7 +59,7 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 * **Búsqueda predeterminada**
 {: #thirdparty }
 
-	Con el fin de escoger el mejor motor de búsqueda predeterminado para su ubicación, Firefox envía a Mozilla una solicitud para que busque su ubicación a nivel nacional a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Entonces, Firefox podrá escoger cuál es el motor de búsqueda que se utilizará como predeterminado según la información almacenada localmente sobre el país.
+	Con el fin de escoger el mejor motor de búsqueda predeterminado para su ubicación, Firefox envía a Mozilla una solicitud para que busque su ubicación a nivel nacional a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Entonces, Firefox podrá escoger cuál es el motor de búsqueda que se utilizará como predeterminado según la información almacenada localmente sobre el país. Para [obtener más información] visite (https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices). Allí también podrá encontrar instrucciones para desactivar esta función.
 
 ---------------------------------------
 
