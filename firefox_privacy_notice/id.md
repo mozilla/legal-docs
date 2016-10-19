@@ -64,7 +64,7 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 * **Untuk Firefox for Android saja**
 {: #thirdparty }
 
-	Untuk memahami kinerja kampanye pemasaran Mozilla tertentu, Firefox mengirim data, termasuk ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, versi aplikasi, kepada vendor pihak ketiga kami. Data ini memungkinkan kami untuk menghubungkan instalasi dengan saluran iklan tertentu dan mengoptimalkan strategi kampanye pemasaran.
+	Untuk memahami kinerja kampanye pemasaran Mozilla tertentu, Firefox mengirim data, termasuk ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, versi aplikasi, kepada vendor pihak ketiga kami. Data ini memungkinkan kami untuk menghubungkan instalasi dengan saluran iklan tertentu dan mengoptimalkan strategi kampanye pemasaran. Anda bisa [mempelajari selengkapnya di sini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), termasuk cara menonaktifkannya.
 
 ---------------------------------------
 
