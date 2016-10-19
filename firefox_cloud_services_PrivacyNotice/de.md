@@ -1,7 +1,7 @@
 # Firefox Cloud Services – Datenschutz-Hinweis
 
 16. August 2016
-{: datetime="2015-07-17" }
+{: datetime="2016-08-16" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn die Firefox Cloud Services (die „Services“) Daten an Mozilla (an uns) senden, verarbeiten wir diese Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
 
