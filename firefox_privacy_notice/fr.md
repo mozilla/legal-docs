@@ -59,7 +59,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 * **Recherche par défaut**
 {: #thirdparty }
 
-	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement.
+	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement. Vous pouvez [en savoir plus ici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), notamment sur la procédure de désactivation.
 
 ---------------------------------------
 
