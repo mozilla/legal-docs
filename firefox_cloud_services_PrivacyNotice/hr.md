@@ -1,6 +1,6 @@
 # Napomena o privatnosti usluge Firefox Cloud Services
 
-17. srpnja 2015.
+16. kolovoza 2016.
 {: datetime="2015-07-17" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox Cloud Services („Usluga“) pošalje podatke Mozilli (to smo mi), [Pravila privatnosti Mozille](https://www.mozilla.org/privacy/) opisuju kako se koristimo tim podacima.
@@ -9,9 +9,13 @@ Stalo nam je do vaše privatnosti. Kada Firefox Cloud Services („Usluga“) po
 
 Ovisno o sadržajima Usluga kojima se koristite, šaljete nam različite vrste podataka.
 
-* **Firefox račun**: Kada se prijavljujete za račun, primamo vašu adresu e-pošte i zaporku. Možete još dodati i sliku profila. Ako odaberete Gravatar, dijelit ćemo vašu adresu e-pošte s uslugom Gravatar radi dobivanja slike profila.
-* **Sync**: Ako se koristite uslugom Sync, primamo različite podatke radi sinkroniziranja vaših kartica, fenomenalnih traka, zaporki, zabilješki, postavki preglednika i drugih podataka među uređajima.
-* **Nađi moj uređaj**: Ako onemogućite Nađi moj uređaj, primit ćemo približnu lokaciju vašeg uređaja samo kada se prijavite u vaš Firefox račun i izričito zatražite od nas da lociramo povezani uređaj.  Tijekom prijave, na mapi možete vidjeti zadnje poznate lokacije svojeg uređaja.  Redovito brišemo te lokacije i nećemo prikupljati daljnje lokacije sve dok to ne zatražite od nas. 
+* **Adresa e-pošte**: kada se prijavite na Firefox korisnički račun, primit ćemo vašu adresu e-pošte i šifru raspršivanja vaše lozinke. Također možete dodati sliku profila ili koristiti Gravatar (u tom slučaju dijelit ćemo vašu adresu e-pošte s uslugom Gravatar kako bismo pristupili slici vašeg profila).
+
+* **Sync**: ako omogućite funkciju Sync, primit ćemo u kriptiranom obliku podatke koje sinkronizirate na svim uređajima (mogu uključivati Firefox tablice, dodatke, lozinke, knjižne oznake, povijest i postavke). Budući da kriptiranje ne možemo obaviti sami, trebate koristiti sigurnu lozinku kako biste onemogućili neovlašteni pristup vašim sinkroniziranim podacima. Također pohranjujemo informacije o operativnom sustavu vašeg uređaja i verziji programa Firefox kako bismo vam pokazali koji su uređaji sinkronizirani s vašim korisničkim računom. 
+
+* **Podaci o lokaciji**: radi sigurnosti pohranjujemo IP adrese s kojih možete pristupiti vašem korisničkom računu na usluzi Firefox te kako biste približno odredili grad i zemlju. Te podatke koristimo za slanje upozorenja e-poštom ako otkrijemo sumnjivu aktvivnost, kao što je prijava na korisnički račun s drugih lokacija.
+    
+	* **Pronađi moj uređaj**: ako omogućite funkciju Pronađi moj uređaj, primit ćemo približnu lokaciju vašeg uređaja samo kada se prijavite na vaš korisnički račun na usluzi Firefox Account i posebno zatražite od nas da otkrijemo položaj povezanog uređaja. Dok ste prijavljeni, možete vidjeti posljednju otkrivenu lokaciju vašeg uređaja na karti. Redovito brišemo te lokacije i nećemo sakupljati dodatne lokacije ako to od nas ne zatražite.
 
 ---------------------------------------
 
