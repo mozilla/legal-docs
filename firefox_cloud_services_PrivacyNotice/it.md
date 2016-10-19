@@ -3,7 +3,7 @@
 16 agosto 2016
 {: datetime="2016-08-16" }
 
-La privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui vengono utilizzate le informazioni trasmesse dai Firefox Cloud Services (i “Servizi”) a Mozilla (noi).
+La privacy degli utenti è importante. [L’informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui vengono utilizzate le informazioni trasmesse dai Firefox Cloud Services (i “Servizi”) a Mozilla (noi).
 
 ## Cose da sapere
 
