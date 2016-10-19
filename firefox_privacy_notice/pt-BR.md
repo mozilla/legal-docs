@@ -59,7 +59,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 * **Pesquisa padrão**
 {: #thirdparty }
 
-	Para ajudar a escolher o melhor mecanismo de pesquisa para a sua localização, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você se encontra. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente. Em seguida o Firefox escolherá o mecanismo de pesquisa a ser usado como padrão, de acordo com as informações sobre o país armazenadas localmente.
+	Para ajudar a escolher o melhor mecanismo de pesquisa para a sua localização, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você se encontra. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente. Em seguida o Firefox escolherá o mecanismo de pesquisa a ser usado como padrão, de acordo com as informações sobre o país armazenadas localmente. [Saiba mais aqui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusive como desativá-lo.
 
 ---------------------------------------
 
