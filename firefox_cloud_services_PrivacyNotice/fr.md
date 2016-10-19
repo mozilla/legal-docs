@@ -1,7 +1,7 @@
 # Politique de confidentialité des Services en ligne de Firefox
 
 16 août 2016
-{: datetime="2015-07-17" }
+{: datetime="2016-08-16" }
 
 Nous nous soucions de votre vie privée. Quand les Services en ligne de Firefox (les « Services ») envoient des informations à Mozilla (c’est nous), la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) vous explique comment nous gérons ces informations.
 
