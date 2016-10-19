@@ -26,7 +26,7 @@ Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasa
 >
 >* Otwórz opcje programu
 >* Przejdź do sekcji Bezpieczeństwo
->* Odznacz pola „Blokowanie witryn zgłoszonych jako stwarzające zagrożenie” i „Blokowanie witryn zgłoszonych jako próby oszustwa internetowego”
+>* Usuń zaznaczenie opcji „Blokowanie niebezpiecznych i podejrzanych treści”
 >* Funkcja „Bezpieczne przeglądanie” zostanie wówczas wyłączona
 >
 > **Udostępnianie witrynom położenia geograficznego:** ta funkcja przesyła dane tylko za zgodą użytkownika. Bez wyrażenia zgody żadne informacje o położeniu nie są przesyłane. Aby całkowicie wyłączyć tę funkcję:
