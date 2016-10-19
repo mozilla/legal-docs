@@ -64,7 +64,7 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 * **Doar în cazul lui Firefox pentru Android**
 {: #thirdparty }
 
-	Pentru a putea înțelege performanța anumitor campanii de marketing ale Mozilla, Firefox trimite date, inclusiv un identificator (ID) publicitar Google, adresă IP, marcaj de timp (timestamp), țara, limba/localizarea, sistemul de operare, versiunea aplicației către vânzătorul nostru terț. Aceste date ne permit să atribuim o instalare unui canal specific de publicitate și pentru a optimiza strategiile ce privesc campaniile de marketing.
+	Pentru a putea înțelege performanța anumitor campanii de marketing ale Mozilla, Firefox trimite date, inclusiv un identificator (ID) publicitar Google, adresă IP, marcaj de timp (timestamp), țara, limba/localizarea, sistemul de operare, versiunea aplicației către vânzătorul nostru terț. Aceste date ne permit să atribuim o instalare unui canal specific de publicitate și pentru a optimiza strategiile ce privesc campaniile de marketing. Puteți [afla mai multe aici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusiv cum să dezactivați această opțiune.
 
 ---------------------------------------
 
