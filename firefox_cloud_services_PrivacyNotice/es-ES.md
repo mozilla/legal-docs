@@ -1,7 +1,7 @@
 # Aviso de privacidad de Firefox Cloud Services
 
 16 de agosto, 2016
-{: datetime="2015-07-17" }
+{: datetime="2016-08-16" }
 
 Nos importa su privacidad. El uso que hacemos de la información que Firefox Cloud Services (en adelante, los "Servicios") envía a Mozilla (es decir, a nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
