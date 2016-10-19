@@ -26,7 +26,7 @@ Dacă nu doriți să utilizați unul sau mai multe dintre Servicii sau termenii 
 >
 >* Deschideți preferințele aplicației
 >* Selectați secțiunea Securitate
->* Debifați opțiunile „Blochează site-urile raportate ca fiind de atac” și „Blochează site-urile raportate ca fiind falsuri”
+>* Debifați opțiunea „Blochează conținutul periculos și înșelător”
 >* Navigarea în siguranță este dezactivată
 >
 > **Navigarea conștientă de locație:** este întotdeauna opțională. Nu sunt transmise informații referitoare la locație niciodată fără permisiunea dvs. Dacă doriți să dezactivați această funcționalitate complet, urmați acești pași:
