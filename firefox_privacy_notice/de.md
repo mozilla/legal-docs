@@ -59,7 +59,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * **Standardsuche**
 {: #thirdparty }
 
-	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird.
+	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird. Sie können [hier mehr erfahren](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), beispielsweise auch wie Sie dies deaktivieren können.
 
 ---------------------------------------
 
