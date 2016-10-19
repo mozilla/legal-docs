@@ -26,7 +26,7 @@ Si vous ne voulez pas utiliser l’un ou l’autre de ces Services ou si vous tr
 >
 >* Ouvrez les préférences ou options de l’application.
 >* Sélectionnez le panneau *Sécurité*.
->* Désélectionnez les options « Bloquer les sites signalés comme étant des sites d’attaque » et « Bloquer les sites signalés comme étant des contrefaçons ».
+>* Désélectionnez l'option « Bloquer les contenus dangereux ou trompeurs ».
 >* Le blocage de sites malveillants est alors désactivé.
 >
 > **Navigation selon la localisation géographique :** se fait toujours à la demande. Aucune information concernant votre localisation n’est envoyée sans votre consentement. Si vous souhaitez désactiver la fonctionnalité complètement, suivez ces instructions :
