@@ -59,7 +59,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 * **Wyszukiwarka domyślna**
 {: #thirdparty }
 
-	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie.
+	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie. [Tutaj dowiesz się więcej](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), w tym jak wyłączyć tę funkcję.
 
 ---------------------------------------
 
