@@ -1,7 +1,7 @@
 # Firefox Cloud Services Zásady ochrany osobních údajů
 
-17. července 2015
-{: datetime="2015-07-17" }
+úterý 16. srpna 2016.
+{: datetime="2016-08-16" }
 
 Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen „Služby”) zašle informace společnosti Mozilla (tedy nám), naše [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/) popisují, jak můžeme takové informace používat.
 
@@ -9,9 +9,13 @@ Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen
 
 Zasílat nám můžete různé typy dat v závislosti na tom, jaké Služby využíváte.
 
-* **Účet Firefox**: Když si založíte účet, obdržíme vaši e-mailovou adresu a hash vašeho hesla. Navíc můžete volitelně doplnit obrázek profilu. Pokud si vyberete Gravatar, budeme vaši e-mailovou adresu sdílet s Gravatar, abychom váš profilový obrázek získali.
-* **Sync**: Pokud používáte službu Sync, získáváme různé informace pro synchronizaci vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče a další data prostřednictvím různých zařízení.
-* **Nalézt mé zařízení**: Pokud aktivujete funkci Nalézt mé zařízení, získáme přibližné místo výskytu vašeho zařízení, pouze pokud se přihlásíte ke svému účtu Firefox a výslovně nás požádáte o nalezení propojeného zařízení. Během přihlášení vidíte poslední známou pozici vašeho zařízení na mapě. Přehled těchto míst pravidelně mažeme a další místa nebudeme shromažďovat, dokud nás o to nepožádáte.
+* **E-mailová adresa**: Pokud si založíte účet Firefox, obdržíte e-mail s heslem. Navíc můžete volitelně nastavit profilový obrázek nebo použít Gravatar (v takovém případě poskytneme vaši e-mailovou adresu společnosti Gravatar, abychom získali váš profilový obrázek).
+
+* **Synchronizace**: Pokud Synchronizaci aktivujete, obdržíme v šifrovaném formátu data, která mezi zařízeními synchronizujete (která mohou zahrnovat karty Firefox, doplňky, hesla, záložky, historii a předvolby).  Ačkoliv je nemůžeme dešifrovat, měli byste použít silné heslo pro zabránění neoprávněnému přístupu k vašim synchronizovaným datům.  Ukládáme rovněž informace o operačním systému vašeho zařízení a verzi Firefox, abychom vám mohli zobrazit zařízení, která jsou s vašim účtem synchronizována. 
+
+* **Údaje o místě**: Pro bezpečnostní účely ukládáme adresy IP, z nichž přistupujete k vašemu účtu Firefox pro přibližné stanovení města a země.  Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
+    
+	* **Najít mé zařízení**: Pokud aktivujete funkci Najít mé zařízení, zjistíme přibližné místo vašeho zařízení pouze pokud se přihlásíte ke svému účtu Firefox a pokud nás výslovně požádáte o vyhledání připojeného zařízení. Pokud jste přihlášeni, uvidíte poslední známé místo vašeho zařízení na mapě. Tato místa pravidelně vymazáváme a další místa nebudeme shromažďovat, dokud nás o to nepožádáte.
 
 ---------------------------------------
 
