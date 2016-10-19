@@ -59,7 +59,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 * **Alapértelmezett keresés**
 {: #thirdparty }
 
-	Annak érdekében, hogy tartózkodási helyén a legjobb alapértelmezett keresőszolgáltatást válassza, a Firefox IP-címe segítségével egyszeri alkalommal lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. Ezután a helyileg tárolt országszintű adat alapján a Firefox kiválasztja, hogy melyik keresőszolgáltatást használja alapértelmezettként.
+	Annak érdekében, hogy tartózkodási helyén a legjobb alapértelmezett keresőszolgáltatást válassza, a Firefox IP-címe segítségével egyszeri alkalommal lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. Ezután a helyileg tárolt országszintű adat alapján a Firefox kiválasztja, hogy melyik keresőszolgáltatást használja alapértelmezettként. További információkat [itt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) talál, a kikapcsolással együtt.
 
 ---------------------------------------
 
