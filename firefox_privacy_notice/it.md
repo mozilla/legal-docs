@@ -59,7 +59,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 * **Motore di ricerca predefinito**
 {: #thirdparty }
 
-	Per facilitare la scelta del migliore motore di ricerca predefinito per la propria località, Firefox invia a Mozilla una richiesta di ricerca della posizione dell’utente a livello di Paese, utilizzando l’indirizzo IP. Successivamente le informazioni a livello di Paese vengono reinviate a Firefox e memorizzate localmente. Firefox sceglierà quindi il motore di ricerca da utilizzare come predefinito sulla base delle informazioni memorizzate localmente.
+	Per facilitare la scelta del migliore motore di ricerca predefinito per la propria località, Firefox invia a Mozilla una richiesta di ricerca della posizione dell’utente a livello di Paese, utilizzando l’indirizzo IP. Successivamente le informazioni a livello di Paese vengono reinviate a Firefox e memorizzate localmente. Firefox sceglierà quindi il motore di ricerca da utilizzare come predefinito sulla base delle informazioni memorizzate localmente. [Fare clic qui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)  per ulteriori informazioni, incluse istruzioni per la disattivazione.
 
 ---------------------------------------
 
