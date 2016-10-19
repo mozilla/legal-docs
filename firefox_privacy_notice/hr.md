@@ -59,7 +59,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 * **Zadano pretraživanje**
 {: #thirdparty }
 
-	Za pomoć u odabiru najbolje zadane tražilice za vašu lokaciju, Firefox šalje Mozilli zahtjev kada ste označili svoju lokaciju na razini zemlje korištenjem IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje. Firefox potom odabire koju tražilicu koristi kao zadanu na temelju lokalno pohranjenih podataka o zemlji.
+	Za pomoć u odabiru najbolje zadane tražilice za vašu lokaciju, Firefox šalje Mozilli zahtjev kada ste označili svoju lokaciju na razini zemlje korištenjem IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje. Firefox potom odabire koju tražilicu koristi kao zadanu na temelju lokalno pohranjenih podataka o zemlji. Možete [saznati više ovdje](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući upute o deaktivaciji.
 
 ---------------------------------------
 
