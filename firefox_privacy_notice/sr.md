@@ -59,7 +59,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 * **Standardna pretraga**
 {: #thirdparty }
 
-	U cilju odabira najboljeg standardnog pretraživača za Vašu lokaciju, Firefox jednom šalje sajtu Mozilla zahtev da pogleda Vašu lokaciju na nivou zemlje koristeći Vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koji pretraživač da koristi kao standardni na osnovu lokalno uskladištenih podataka o zemlji.
+	U cilju odabira najboljeg standardnog pretraživača za Vašu lokaciju, Firefox jednom šalje sajtu Mozilla zahtev da pogleda Vašu lokaciju na nivou zemlje koristeći Vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koji pretraživač da koristi kao standardni na osnovu lokalno uskladištenih podataka o zemlji. Više informacija možete [dobiti ovde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući i kako da onemogućite ovu opciju.
 
 ---------------------------------------
 
