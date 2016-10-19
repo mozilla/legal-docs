@@ -26,7 +26,7 @@ Als u een of meer van de diensten niet wilt gebruiken of de bovenstaande voorwaa
 >
 >* Open de voorkeuren van Firefox
 >* Selecteer het paneel Beveiliging
->* Vink de optie ‘Gevaarlijke en misleidende inhoud blokkeren’ uit
+>* Schakel de optie Gevaarlijke en misleidende inhoud blokkeren in
 >* Veilig surfen is nu uitgeschakeld
 >
 > **Locatiebewust navigeren:** vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
