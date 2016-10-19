@@ -26,7 +26,7 @@ Se non si desidera utilizzare uno o più di tali Servizi oppure i termini di uti
 >
 >* Aprire le preferenze dell’applicazione.
 >* Selezionare la sezione *Sicurezza*.
->* Deselezionare le opzioni “Blocca i siti segnalati come minaccia” e “Blocca i siti segnalati come contraffazione”.
+>* Deselezionare l'opzione “Blocca contenuti a rischio e ingannevoli”
 >* Da questo momento il servizio Safe Browsing è disattivato.
 >
 > **Navigazione geolocalizzata:** richiede sempre un consenso esplicito. Nessuna informazione sulla posizione viene mai trasmessa senza consenso. Per disattivare completamente questa funzione procedere nel seguente modo:
