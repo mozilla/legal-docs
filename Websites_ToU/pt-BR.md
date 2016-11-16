@@ -1,13 +1,13 @@
 # Termos de uso de Sites e Comunicações
 
-15 de outubro de 2014
+23 de junho de 2016
 
 ### Termos de uso
 
 
 #### 1\. Introdução
 
-Leia todos os termos deste documento (“Termos”) com atenção, pois eles explicam os seus direitos e responsabilidades ao acessar qualquer site da Mozilla (“Sites”) ou feeds, redes sociais, informativos e emails relacionados (denominados, em conjunto com os Sites, “Comunicações”). Ao acessar ou se inscrever para receber Comunicações, você concorda em estar vinculado por estes Termos.
+Leia todos termos deste documento ("Termos") com atenção, porque ele explica seus direitos e responsabilidades ao acessar os sites da Mozilla ("Sites") ou feeds, redes sociais, boletins informativos, repositórios de código fonte e e-mails relacionados (com Sites, são coletivamente denominados "Comunicações"). Ao acessar ou se inscrever para receber Comunicações, você estará concordando com estes Termos.
 
 Nossos Sites incluem diversos domínios, como mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org e webmaker.org. Também é possível reconhecer nossos Sites por apelidos como Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO e AMO.
 Alguns dos nossos Sites conectam você com links, aplicativos ou complementos fornecidos por terceiros e que estão sujeitos a outros Termos.
@@ -30,14 +30,18 @@ Determinados Conteúdos em nossas Comunicações são adquiridos de fontes que p
 
 * Alguns Conteúdos indicam expressamente que o autor não deseja que uma licença aberta seja aplicável.  Você deve entrar em contato com o autor ou com o representante do autor para obter autorização para utilizar tal Conteúdo. Perguntas sobre conteúdos criados pela Mozilla podem ser enviadas para: licensing@mozilla.org.
 * Determinados Conteúdos contêm marcas registradas, apresentações comerciais, logotipos e propriedades de marca da Mozilla e de terceiros (“Marcas Registradas”). Salvo em circunstâncias específicas, as Marcas Registradas não poderão ser utilizadas sem autorização prévia, por escrito, do detentor da Marca Registrada.  [Saiba mais sobre as marcas registradas da Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* O software utilizado por nossos Sites é licenciado por meio da MPL ou outras licenças de código aberto permissivas semelhantes.  Para mais informações sobre a licença específica, consulte o repositório do GitHub aplicável. 
+* Os softwares usados por nossos Sites são licenciados nos termos da MPL ou de licenças de código aberto com permissão semelhante. Para obter mais informações sobre uma licença específica, consulte o código fonte ou repositório GitHub aplicável.
 
 
 #### 4\. Envio de Conteúdo
 
-É possível contribuir com Conteúdo ao interagir com nossas Comunicações, incluindo, entre outros, ao comentar em um artigo, fazer um blog, contribuir com códigos ou contribuir com gráficos ou materiais escritos (cada uma dessas ações constitui um “Envio”).
+Você poderá contribuir com Conteúdo ao interagir com nossas Comunicações, inclusive, entre outros, ao comentar em um artigo, escrever no blog, contribuir com um código ou contribuir com um gráfico ou material escrito (cada um deles denominado "Envio"). Exceto se seu Envio for feito nos termos de um contrato separado com a Mozilla, em cujo caso esse contrato terá precedência,
+   
+para Envios para projetos de código aberto da Mozilla:
 
-Em relação a cada Envio, você concorda com o seguinte:
+* você concorda em licenciar seu Envio nos termos da licença correspondente do projeto de código aberto específico para o qual está contribuindo. Para obter mais informações sobre uma licença específica, consulte o código fonte ou repositório GitHub aplicável.
+
+Para todos os demais Envios, você concorda com o que segue com relação a cada um deles:
 
 * Você declara e garante que seu Envio cumprirá estes Termos, as [Condições de uso](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla e quaisquer outros termos que possam reger seu Envio.
 * Neste ato, você nos concede uma licença sem exclusividade, isenta de direitos autorais, mundial e que pode ser sublicenciada (a quem trabalha conosco) para usar o seu Envio em relação às Comunicações e à divulgação da missão, dos produtos e serviços da Mozilla, online e offline.
@@ -96,7 +100,7 @@ Estes Termos constituem o acordo integral entre você e a Mozilla em relação �
 
 #### 13\. Entre em contato
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

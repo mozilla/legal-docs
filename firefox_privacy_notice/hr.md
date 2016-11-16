@@ -1,6 +1,6 @@
 # Pravila o privatnosti preglednika Firefox
 
-15\. travnja 2014.
+24. lipnja 2016.
 {: datetime="2014-04-15" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox pošalje podatke Mozilli (to smo mi), naša [Pravila o privatnosti](https://www.mozilla.org/privacy/) opisuju kako koristimo te podatke.
@@ -59,7 +59,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 * **Zadano pretraživanje**
 {: #thirdparty }
 
-	Za pomoć u odabiru najbolje zadane tražilice za vašu lokaciju, Firefox šalje Mozilli zahtjev kada ste označili svoju lokaciju na razini zemlje korištenjem IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje. Firefox potom odabire koju tražilicu koristi kao zadanu na temelju lokalno pohranjenih podataka o zemlji.
+	Za pomoć u odabiru najbolje zadane tražilice za vašu lokaciju, Firefox šalje Mozilli zahtjev kada ste označili svoju lokaciju na razini zemlje korištenjem IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje. Firefox potom odabire koju tražilicu koristi kao zadanu na temelju lokalno pohranjenih podataka o zemlji. Možete [saznati više ovdje](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući upute o deaktivaciji.
 
 ---------------------------------------
 
@@ -95,3 +95,6 @@ Ako zatražite, Firefox će se povezati s Mozillom kako bi vam omogućio korišt
 {: #push-notifications }
 
 	Push obavijesti omogućuju stranicama slanje obavijesti i ažuriranja ako ih uključite. Za primanje obavijesti, Firefox šalje informacije u Mozillu s kojih stranica ste se složili primati Push obavijesti. Pohranjujemo ove informacije u anonimnom obliku, zajedno s brojem obavijesti svake strane koja vam je poslala. Za pomoć razvojnim programerima radi poboljšanja korištenja Push obavijesti, Mozilla može dijeliti prikupljene informacije s određenim razvojnim programerima uključujući broj posjetitelja njihovim stranicama koji su se pretplatili ili odbili pretplatu na njihovih Push obavijesti. Push obavijestima u Firefoxu možete upravljati tako da slijedite [ove upute](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Osima ako drugačije nije navedeno, ova obavijest o privatnosti važi za većinu najnoviji verzija izdanja Firefox.  Naše prethodne verzije Beta, Aurora/Developer Edition, Nightly i TestFlight) i dalje se aktivno razvijaju i mogu sadržavati nove značajke ili imati drugačije karakteristike privatnosti. Prethodna verzije automatski šalju [Telemetrijske podatke](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) u Mozillu za pomoćž u poboljšanju Firefoxa.
+{: #pre-release }

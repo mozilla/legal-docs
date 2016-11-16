@@ -1,11 +1,11 @@
 # Abiso sa Privacy ng Mga Website, Komunikasyon at Cookies
 
-Mierkoles, Agosto 27, 2014
+Marso 14, 2016
 {: datetime="2014-08-27" }
 
 Pinahahalagahan namin ang inyong privacy. Kapag nangongolekta ng impormasyon ang Mozilla (kami iyon) tungkol sa inyo, inilalarawan ng aming [Patakaran sa Privacy sa Mozilla](https://www.mozilla.org/privacy/) kung paano namin pinapangasiwaan ang impormasyong iyon.
 
-Nalalapat ang abiso sa privacy na ito sa mga website na pinapatakbo ng Mozilla, na kinabibilangan ng mga domain na mozillians.org, mozilla.org, firefox.com, openbadges.org at webmaker.org. Kabilang dito, halimbawa, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, at wiki.mozilla.org.
+Nalalapat ang paunawa ng privacy na ito sa mga website at mobile app na pinapatakbo ng Mozilla, kung saan kabilang ang mga domain na mozillians.org, mozilla.org, firefox.com at webmaker.org, at marami pang iba. Halimbawa, kabilang dito ang, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org at wiki.mozilla.org.
 
 ## Mga bagay na dapat ninyong malaman
 
@@ -18,6 +18,8 @@ Maaari kaming makatanggap ng personal na impormasyon mula sa inyo batay sa inyon
 
 * **Mga Contributor**: Kapag magboboluntaryo para sa Mozilla bilang isang contributor ng komunidad, maaaring kailanganin ng Mozilla at ng iba pa na makipag-ugnayan sa inyo sa email address na ibinigay ninyo kaugnay sa inyong pag-aambag at upang makilala ang inyong mga pagsusumikap. Kung nag-ambag kayo sa Bugzilla, Mozilla Reps o sa aming code base, magiging available sa publiko sa lahat ng user ng internet ang inyong email address at posibleng pati pangalan ninyo. Kung gumawa kayo ng profile sa Mozillians.org, maa-access ito ng mga empleyado ng Mozilla at contributor ng Mozilla. Maaari ninyong i-edit ang data ng inyong profile sa [Mga Setting ng Profile](https://mozillians.org/user/edit). Ginagamit namin kung minsan ang impormasyon ng contributor mula sa mga pinagmulan (gaya ng Bugzilla) sa mga dashboard upang visual na magbahagi ng pinagsama-samang data sa komunidad ng Mozilla. Ang isang halimbawa ay <https://wiki.mozilla.org/Contribute/Dashboards>. Kung posible, sinusubukan naming bawasan hangga't maaari ang impormasyon sa pakikipag-ugnayan na ipinapakita sa publiko.
 
+* **Mga Account**: Ang ilang website, halimbawa Marketplace, AMO, MDN, at Webmaker, ay nangangailangan ng paggawa ng account para makapagsumite ng developer content; makapagsumite ng mga review o komento ng user; o makapag-install ng mga partikular na uri ng app.  Maaari kang regular na makatanggap ng mga email na nauugnay sa iyong account.
+
 * **Feedback ng User**:  Maaari kayong magbigay sa amin ng feedback tungkol sa aming mga produkto at serbisyo sa mga webpage tulad ng [input.mozilla.org](https://input.mozilla.org/), sa pamamagitan ng karanasan sa produkto, o sa pamamagitan ng mga channel gaya ng email, Bugzilla, IRC, isang social media account, aming page na Makisali, o sa pamamagitan ng pangkat tulad ng Mga Student Ambassador. Pakibawasan hangga't maaari ang personal na impormasyon na pipiliin ninyong ibahagi sa mga forum na ito dahil maaaring ma-access ng publiko ang inyong mga komento.
 
 ---------------------------------------
@@ -25,11 +27,15 @@ Maaari kaming makatanggap ng personal na impormasyon mula sa inyo batay sa inyon
 Gumagamit kami ng cookies, mga clear na GIF, third party web analytics at IP address para sa functionality at upang pahusayin ang aming mga produkto, serbisyo at komunikasyon. 
 {: #data-tools }
 
-* **Cookies at Mga IP address**: Ginagamit namin ang mga ito upang pahusayin ang functionality ng ilang partikular na produkto at serbisyo. Halimbawa, gumagamit ng cookies upang tandaan ang inyong gustong wika ng Firefox at mga add-on sa Firefox. Nakakatulong din ang mga ito sa pag-sign in at pagpapatotoo ng user upang malaktawan ninyo ang paglalagay ng inyong mga password sa mga website na gumagamit ng Persona.  Ginagamit ang mga IP address upang i-customize ang content para sa inyong partikular na bansa.
+* **Functionality**: Maaari kaming gumamit ng cookies, impormasyon ng device at mga IP address para pahusayin ang functionality ng mga partikular na produkto, serbisyo, at komunikasyon. Halimbawa:
+    * Ginagamit ang cookies para matandaan ang gusto mong wika sa Firefox at iyong mga Firefox add-on. Nakakatulong din ang mga iyon sa pagsa-sign in at authentication ng user nang sa gayon ay hindi mo na kailangang ilagay ang iyong mga password sa mga partikular na website ng Mozilla.  
+    * Ginagamit ang mga IP address para i-customize ang aming komunikasyon ayon sa wika at bansa.  
+    * Maaaring gamitin ang impormasyon ng device gaya ng bansa, wika, operator at OEM, para i-customize ang iyong karanasan sa Firefox Marketplace at Webmaker.
 
-* **Mga Online na Tool ng Data**: Ginagamit namin ang mga clear na GIF at web analytics upang maunawaan nang sama-sama kung paano nakikipag-ugnayan ang mga user sa aming mga produkto, serbisyo at komunikasyon sa aming mga website, online campaign, snippet, device at iba pang mga platform.
-
-* **Mga Third party na Serbisyo** Gumagamit kami ng mga third party na serbisyo gaya ng Google Analytics at Optimizely.  Gumagamit ang mga ito ng cookies, mga IP address at online na tool ng data kaugnay sa aming mga website.
+* **Mga sukatan**: Tinutulungan kami ng mga clear GIF, cookies at mga third party na serbisyo na maunawaan sa kabuuan kung paano ginagamit ng mga user ang aming mga produkto, serbisyo, komunikasyon, website, online campaign, snippet, device, at iba pang platform. Ginagamit namin ang:
+    * Google Analytics, na naglalagay ng cookie sa iyong device, para makakuha ng mga sukatan sa kung paano ginagamit ng mga user ang aming mga website.      Tinutulungan kami nitong pagandahin ang content ng site.  
+    * Optimizely at ShareProgress, na naglalagay ng cookie sa iyong  device, para matulungan kaming sumubok ng iba’t ibang web content.  Tinutulungan kami nitong magbigay sa mga user ng mas magagandang karanasan sa web.
+    * Flashtalking, na gumagamit ng clear GIF sa aming page para sa pag-download ng Firefox.  Tinutulungan kami nitong sukatin ang bisa ang aming mga advertising campaign.
 
 ---------------------------------------
 
@@ -44,7 +50,7 @@ Maaari ninyong kontrolin ang mga indibidwal na kagustuhan sa cookie, isaad sa ib
 * **Email**: Opsyonal na matatanggap ang aming mga komunikasyon para sa marketing at maaari kayong mag-unsubscribe mula sa footer ng email o sa pamamagitan ng pag-update sa inyong [mga kagustuhan sa email sa Mozilla](https://www.mozilla.org/newsletter/recovery/). Maaari ninyong i-disable ang functionality ng mga clear na GIF sa pamamagitan ng pagbabasa ng mga email mula sa amin sa format na “text lang.”
 
 * **Analytics at Pag-optimize**: Kung ayaw ninyong kolektahin ng Google Analytics ang data tungkol sa inyong mga pagbisita sa mga webiste ng Mozilla, maaari ninyong i-install ang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Pinapanatili ng add-on na anonymous ang inyong mga pagbisita at pinagbabawalan ang pagpapadala ng data sa Google Analytics.
-Kung ayaw ninyong kolektahin ng Optimizely ang data tungkol sa inyong mga pagbisita sa mga webiste ng Mozilla, maaari ninyong bisitahin ang [website sa pag-opt out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon.
+Kung ayaw mong makakuha ang Optimizely ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari kang [mag-opt-out sa www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o bumisita sa [website sa pag-opt-out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon. Kung ayaw mong makakuha ang ShareProgress ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari mong [i-on ang Huwag Subaybayan sa iyong browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Gumagamit din ang ilang page ng Mozilla.org ng mga malinaw na GIF upang maunawaan ang pagiging epektibo ng aming mga campaign ng advertising.  Maaari kang mag-opt-out sa pamamagitan ng pagpunta sa seksyong “Mga Pagpipilian Mo” ng [Patakaran sa Privacy ng Flashtalking](http://www.flashtalking.com/us/privacypolicy) at pagpili sa “Mag-click dito upang mag-opt-out”..
 
 * **Social Media**: Dinisenyo ang mga button ng social sharing sa mga website ng Mozilla na huwag magbahagi ng data sa provider ng social media hanggang sa partikular ninyong i-click ang button.
 

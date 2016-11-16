@@ -1,11 +1,11 @@
 # Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
-1 iunie 2015
+14 martie 2016
 {: datetime="2015-06-01" }
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
-Această politică de confidențialitate se aplică site-urilor web și aplicațiilor mobile operate de Mozilla, care includ, printre altele, domeniile mozillians.org, mozilla.org, firefox.com, openbadges.org și webmaker.org. Aceasta include, de exemplu, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org și wiki.mozilla.org.
+Această politică de confidențialitate este valabilă pentru site-urile web și aplicațiile mobile operate de Mozilla, inclusiv domeniile mozillians.org, mozilla.org, firefox.com, și webmaker.org, printre altele. Acestea includ, de exemplu, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, și wiki.mozilla.org.
 
 ## Lucruri pe care ar trebui să le știți
 
@@ -37,7 +37,7 @@ Putem folosi cookie-uri, „clear GIF”-uri, date analitice web terțe, informa
 
 * **Indicatori metrici**: „Clear GIF”-urile, cookie-urile și serviciile terțe ne ajută să înțelegem în ansamblu modul în care utilizatorii abordează produsele, serviciile, comunicările, site-urile web, campaniile online, fragmentele (snippets), dispozitivele și alte platforme ale noastre. Noi folosim:
     * Google Analytics, care plasează un cookie pe dispozitivul dvs. pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web.      Acesta ne ajută să îmbunătățim conținutul site-urilor.  
-    * Optimizely, care plasează un cookie pe dispozitivul dvs. pentru a ne ajuta să testăm variații ale conținutului web.  Acesta ne ajută să îmbunătățim experiențele web ale utilizatorilor.
+     * Optimizely și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră, ne ajută să testăm diferite variante de conținut web.   Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
     * Flashtalking, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
 
 ---------------------------------------
@@ -53,7 +53,7 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 * **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/). Puteți dezactiva funcționalitatea „clear GIF”-urilor prin vizualizarea e-mailurilor în format „numai text”.
 
 * **Statistici și optimizare**: Dacă nu doriți ca Google Analytics să colecteze date privind vizitele dvs. pe site-urile web Mozilla, puteți instala[suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout). Suplimentul păstrează anonime vizitele și interzice transmiterea de date către Google Analytics.
-Dacă nu doriți ca Optimizely să colecteze date despre vizitele dvs. pe site-urile web Mozilla, puteți [refuza din www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizita [site-ul web de refuzare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Unele pagini Mozilla.org folosesc, de asemenea, „clear GIF”-uri pentru a înțelege eficiența campaniilor noastre publicitare.  Puteți refuza mergând la secțiunea „Your Choices” (Alegerile dvs.) din [politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând „Click here to opt-out” (Clic aici pentru dezabonare).
+Dacă nu doriți ca Optimizely să colecteze date despre vizitele dumneavoastră pe site-urile Mozilla, puteți [refuza acest lucru pe www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizitați [pagina de dezabonare Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Dacă nu doriți ca ShareProgress să colecteze date despre vizitele dumneavoastră pe site-urile Mozilla, puteți [activa opțiunea „Nu mă urmări” în browser-ul dumneavoastră](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Unele pagini Mozilla.org folosesc și clear GIFs pentru a înțelege eficiența campaniilor noastre publicitare.   Puteți refuza navigând la secțiunea „Opțiunile dumneavoastră” din [Politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând “Click here to opt-out” („Click aici pentru a refuza”).
 
 * **Rețea socială**: Butoanele de partajare socială de pe site-urile web Mozilla sunt concepute pentru a nu partaja date cu furnizorii de rețele sociale până când nu se face clic pe buton.
 

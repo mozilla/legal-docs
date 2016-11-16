@@ -1,13 +1,13 @@
 # Uslovi korišćenja za veb-sajtove i obaveštenja
 
-15\. oktobar 2014\.
+23. jun, 2016
 
 ### Uslovi korišćenja
 
 
 #### 1\. Uvod
 
-Molimo vas da pažljivo pročitate ceo ovaj dokument („Uslovi“), jer opisuje vaša prava i odgovornosti kada posetite bilo koji veb-sajt kompanije Mozilla („Veb-sajtovi“) ili povezane kanale, društvene medije, biltene i e-poruke (uz Veb-sajtove, oni se zajedno nazivaju „Obaveštenja“). Pristupom ili prijavljivanjem da primate Obaveštenja, slažete se sa ovim Uslovima.
+Molimo Vas da pažljivo pročitate uslove celog ovog dokumenta („Uslovi“) jer on objašnjava Vaša prava i odgovornost kada posećujete bilo koji od veb sajtova („Veb sajtovi“) kompanije Mozilla ili bilo koju od povezanih vesti, društvenih medija, biltena, ostava izvornog koda i poruka e-pošte (uz Veb sajtove, ovi se zbirno nazivaju „Komunikacije“). Pristupanjem ili registrovanjem za prijem Komunikacija, saglasni ste da se obavežete ovim Uslovima.
 
 Naši veb-sajtovi obuhvataju mnoge domene, kao što su: mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org i webmaker.org. Takođe možete prepoznati naše veb-sajtove preko nadimaka kao što su Bugzilla@Mozilla: BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO i AMO.
 Neki od naših veb-sajtova povezuju vas sa linkovima, aplikacijama ili dodacima koje pružaju druge strane i podležu posebnim Uslovima.
@@ -30,14 +30,18 @@ Određeni Sadržaj u našim Obaveštenjima dolazi iz izvora koji zabranjuju dalj
 
 * Neki Sadržaj izričito ukazuje na to da autor ne želi da se primenjuje otvorena licenca.  Trebalo bi da kontaktirate autora ili njegovog zastupnika da biste dobili dozvolu za korišćenje takvog sadržaja. Pitanja o autorskom sadržaju kompanije Mozilla mogu da se šalju na: . licensing@mozilla.org.
 * Neki Sadržaj sadrži zaštitne znakove, trgovačke oznake, logotipe i oznake brenda Mozilla i drugih strana („Zaštitni znakovi“). Izuzev u nekoliko ograničenih okolnosti, Zaštitni znakovi se ne mogu koristiti bez prethodnog pisanog odobrenja vlasnika Zaštitnog znaka.   [Saznajte više o zaštitnim znakovima kompanije Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Softver koji koriste naši veb-sajtovi licenciran je pod MPL ili sličnom permisivnom licencom otvorenog koda.  Za više informacija o konkretnoj licenci, pogledajte odgovarajuće spremište GitHub. 
+* Softver koji koriste naši Veb sajtovi licenciran je u skladu sa MPL ili licencama otvorenog koda sa sličnim dozvolama. Za više informacija o konkretnoj licenci, molimo Vas da pogledate odgovarajući izvorni kod ili ostavu GitHub. 
 
 
 #### 4\. Doprinos Sadržaju
 
-Možete dati doprinos Sadržaju prilikom interakcije sa našim Obaveštenjima, uključujući ali ne ograničavajući se na komentarisanje članaka, blogovanje, doprinos kodu, ili doprinos grafici ili pisanom materijalu (svaki od njih je „Doprinos“) .
+Možete dodati sopstvene Sadržaje kada koristite naše Komunikacije, uključujući ali se ne ograničavajući na komentarisanje članaka, pisanje blogova, programiranje ili slanje grafičkih sadržaja ili pisanih materijala (pri čemu se svako od ovih naziva „Poslati materijal“). Osim u slučaju da je Vaš Poslati materijal nastao u skladu sa posebnim ugovorom sa kompanijom Mozilla, u kom slučaju takav ugovor reguliše međusobne odnose, onda
    
-Slažete se sa sledećim u vezi sa svakim Doprinosom:
+U slučaju Poslatog materijala za projekte otvorenog koda kompanije Mozilla:
+
+* Saglasni ste da licencirate Vaš Poslati materijal u skladu sa uslovima odgovarajuće licence konkretnog projekta otvorenog koda za koji šaljete sadržaj. Za više informacija o konkretnoj licenci, molimo Vas da pogledate odgovarajući izvorni kod ili ostavu GitHub.
+
+U slučaju svih ostalih Poslatih materijala, saglasni ste sa sledećim u vezi sa svakim od njih:
 
 * Izjavljujete i garantujete da će vaš doprinos biti u skladu sa ovim Uslovima, [Uslovima korišćenja](https://www.mozilla.org/about/legal/acceptable-use/) kompanije Mozilla i svim dodatnim uslovima koji se eventualno odnose na vaš doprinos.
 * Vi nam ovim putem dajete neekskluzivnu, globalnu licencu, bez rojaltija, sa pravom izdavanja podlicence (onima sa kojima radimo) za korišćenje vašeg Doprinosa u vezi sa Obaveštenjima i promocijom misije, proizvoda i usluga kompanije Mozilla na mreži i van mreže.
@@ -96,7 +100,7 @@ Ovi Uslovi čine celokupan sporazum između vas i kompanije Mozilla u vezi sa na
 
 #### 13\. Kontaktirajte nas
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

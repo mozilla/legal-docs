@@ -1,13 +1,13 @@
 # Mga Tuntunin ng Paggamit ng Mga Website at Komunikasyon
 
-Mierkoles, Oktubre 15, 2014
+Hunyo 23, 2016
 
 ### Mga Tuntunin ng Paggamit
 
 
 #### 1\. Panimula
 
-Pakibasa nang mabuti ang mga tuntunin ng buong dokumentong ito (“Mga Tuntunin”) dahil ipinapaliwanag nito ang inyong mga karapatan at responsibilidad kapag bumisita kayo sa alinman sa mga website ng Mozilla (“Mga Website”) o mga nauugnay na feed, social media, newsletter at email(kasama ang mga Mga Website, ang mga ito ay tinatawag na “Mga Komunikasyon” kung sama-sama). Sa pamamagitan ng pag-access o pag-sign up upang makatanggap ng Mga Komunikasyon, sumasang-ayon kayong mapailalim sa Mga Tuntuning ito.
+Pakibasa nang mabuti ang mga tuntunin ng buong dokumentong ito  (“Mga Tuntunin”) dahil ipinapaliwanag nito ang iyong mga karapatan at responsibilidad kapag binibisita mo ang alinman sa mga website ng Mozilla (“Mga Website”), o mga nauugnay na feed, social media, newsletter, source code repository, at email (sama-samang tinatawag ang mga ito at ang Mga Website na “Komunikasyon”). Sa pamamagitan ng pag-access o pagsa-sign up para makatanggap ng Komunikasyon, sumasang-ayon kang sumailalim sa Mga Tuntuning ito.
 
 Kabilang sa aming Mga Website ang maraming domain gaya ng mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org at webmaker.org. Maaari niyo ring makilala ang aming Mga Website sa pamamagitan ng mga palayaw gaya ng Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO at AMO.
 Ikinokonekta kayo ng ilan sa aming Mga Website sa mga link, app o add-on na ibinibigay ng ibang mga partido at napapailalim sa hiwalay na Mga Tuntunin.
@@ -30,14 +30,18 @@ Ang ilang Content sa aming Mga Komunikasyon ay kinuha mula sa mga pinagmumulan n
 
 * Hayagang isinasaad ng ilang Content na hindi layunin ng may-akda na maglapat ng open license.  Dapat kayong makipag-ugnayan sa may-akda o ahente ng may-akda para sa pahintulot na magamit ang nasabing Content.  Ang mga tanong tungkol sa content na isinulat ng Mozilla ay maaaring ipadala sa: licensing@mozilla.org.
 * Ang ilang Content ay naglalaman ng mga trademark, trade dress, logo at asset ng brand ng Mozilla at iba pang mga partido (“Mga Trademark”).  Maliban sa ilang limitadong pagkakataon, hindi magagamit ang Mga Trademark nang walang paunang nakasulat na pahintulot ng may-ari ng Trademark.  [Matuto nang higit pa tungkol sa mga trademark ng Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Ang software na ginamit ng aming Mga Website ay binigyan ng lisensya sa ilalim ng MPL o mga katulad na nagpapahintulot na lisensya ng open source.  Para sa higit pang impormasyon tungkol sa partikular na lisensya, pakitingnan ang naaangkop na GitHub repository. 
+* Ang software na ginagamit ng aming Mga Website ay nililisensya sa ilalim ng MPL o iba pang mga katulad na permissive open source license. Para sa higit pang impormasyon sa partikular na lisensya, pakitingnan ang nauugnay na source code o GitHub repository.
 
 
 #### 4\. Mga Pagsusumite ng Content
 
-Maaari kayong mag-ambag ng Content habang nakikipag-ugnayan sa aming Mga Komunikasyon, kabilang ngunit hindi limitado sa pagkomento sa isang artikulo, pagba-blog, pag-aambag ng code o pag-aambag ng graphics o nakasulat na materyal (ang bawat isa ay “Pagsusumite”).
+Maaari kang mag-ambag ng Content kapag ginagamit mo ang aming Komunikasyon, kasama ang, pero hindi limitado sa, pagkomento sa isang artikulo, pagba-blog, pag-aambag ng code, o pag-aambag ng graphics o pagsusulat (ang bawat isa ay tinatawag na “Pagsusumite”). Maliban kung isasagawa ang iyong Pagsusumite sa ilalim ng isang hiwalay na kasunduan sa Mozilla, kung saan mangingibabaw ang kasunduang iyon,
    
-Sumasang-ayon kayo sa mga sumusunod kaugnay sa bawat Pagsusumite:
+Para sa Mga Pagsusumite sa mga open source na proyekto ng Mozilla:
+
+* Sumasang-ayon kang ilisensya ang iyong Pagsusumite sa ilalim ng mga tuntunin ng kaugnay na lisensya ng partikular na open source na proyektong inaambagan mo. Para sa higit pang impormasyon sa partikular na lisensya, pakitingnan ang nauugnay na source code o GitHub repository.
+
+Para sa lahat ng iba pang Mga Pagsusumite, sumasang-ayon ka sa sumusunod kaugnay ng bawat isa:
 
 * Kinakatawan at pinapatunayan ninyo na ang inyong Pagsusumite ay susunod sa Mga Tuntuning ito, sa [Mga Kundisyon ng Paggamit]ng Mozilla(https://www.mozilla.org/about/legal/acceptable-use/) at anumang mga karagdagang tuntunin na maaaring mamahala sa inyong Pagsusumite.
 * Binibigyan ninyo kami ng hindi eksklusibo, walang royalty, pandaigdigan, sublicensable (sa mga nakatrabaho namin) na lisensya na gamitin ang inyong Pagsusumite kaugnay sa Mga Komunikasyon at online at offline na pag-promote ng misyon, mga produkto at serbisyo ng Mozilla.
@@ -96,7 +100,7 @@ Binubuo ng Mga Tuntuning ito ang buong kasunduan sa pagitan ninyo at ng Mozilla 
 
 #### 13\. Makipag-ugnayan sa Amin
 
-Mozilla Corporation  
+Mozilla 
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

@@ -1,6 +1,6 @@
 # Politica de confidențialitate a browserului Firefox
 
-15 aprilie 2014
+24 iunie 2016
 {: datetime="2014-04-15" }
 
 Ne pasă de confidențialitatea dvs. Atunci când Firefox trimite informații la Mozilla (adică noi), [politica de confidențialitate](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm acele informații.
@@ -64,7 +64,7 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 * **Doar în cazul lui Firefox pentru Android**
 {: #thirdparty }
 
-	Pentru a putea înțelege performanța anumitor campanii de marketing ale Mozilla, Firefox trimite date, inclusiv un identificator (ID) publicitar Google, adresă IP, marcaj de timp (timestamp), țara, limba/localizarea, sistemul de operare, versiunea aplicației către vânzătorul nostru terț. Aceste date ne permit să atribuim o instalare unui canal specific de publicitate și pentru a optimiza strategiile ce privesc campaniile de marketing.
+	Pentru a putea înțelege performanța anumitor campanii de marketing ale Mozilla, Firefox trimite date, inclusiv un identificator (ID) publicitar Google, adresă IP, marcaj de timp (timestamp), țara, limba/localizarea, sistemul de operare, versiunea aplicației către vânzătorul nostru terț. Aceste date ne permit să atribuim o instalare unui canal specific de publicitate și pentru a optimiza strategiile ce privesc campaniile de marketing. Puteți [afla mai multe aici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusiv cum să dezactivați această opțiune.
 
 ---------------------------------------
 
@@ -100,3 +100,6 @@ Când solicitați acest lucru, Firefox se conectează la Mozilla pentru a vă of
 {: #push-notifications }
 
 	Notificările Push permit site-urilor să vă trimită notificări și actualizări dacă ați optat pentru aceasta. Pentru a primi notificările, Firefox trimite către Mozilla informații despre site-urile de la care ați acceptat să primiți notificări Push. Stocăm aceste informații într-o formă anonimă, împreună cu numărul de notificări pe care le primiți de la fiecare site. Pentru a ajuta dezvoltatorii să-și îmbunătățească modul în care folosesc notificările Push, Mozilla poate să împărtășească date agregate cu diferiți dezvoltatori, inclusiv numărul de vizitatori de pe site-ul lor care s-au abonat sau dezabonat de la serviciul de notificări Push. Puteți gestiona notificările Push în Firefox urmând [aceste instrucțiuni](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Cu excepția cazurilor în care se specifică altceva, prezenta politică de confidențialitate se aplică ultimelor versiuni generale de Firefox. Versiunile care nu au fost lansate oficial (Beta, Aurora, Developer Edition, Nightly și TestFlight) sunt în continuare parte a ciclului de dezvoltare și pot conține funcționalități diferite sau alte opțiuni de confidențialitate. Versiunile care nu au fost lansate oficial trimit [date de Telemetrie](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) către Mozilla pentru a ne ajuta să îmbunătățim Firefox.
+{: #pre-release }

@@ -1,6 +1,6 @@
 # Firefox Hello Adatvédelmi tájékoztató
 
-2014\. november 25.
+2015.november 23.
 {: datetime="2014-11-25" }
 
 Fontos számunkra az Ön adatainak védelme. A Hello információkat küld a Mozilla vállalatnak (azaz nekünk), ezek felhasználásáról Mozilla Adatvédelmi Irányelveinkben olvashat.
@@ -26,6 +26,28 @@ Bizonyos mérőszámokat automatikusan megkapunk a Szolgáltatások használatá
 * **Használatra vonatkozó mérőszámok**: Összesített adatokat kapunk arra vonatkozóan, hogy hány ember használja a Szolgáltatást, az operációs rendszerek és böngészők típusairól, és arról, hogy mely országokban használják a Szolgáltatást.
 
 * **Jelentések**: Összesített adatokat kapunk arra vonatkozóan, hogy hány ember használja a Szolgáltatást, az operációs rendszerek és böngészők típusairól, és arról, hogy mely országokban használják a Szolgáltatást.
+
+* **Analitika**: Amennyiben a webalapú Hello klienst használja a beszélgetésekhez való csatlakozáshoz a https://hello.firefox.com hivatkozáson keresztül, sütiket és harmadik felek szolgáltatásait is használhatjuk, hogy az összesített adatok segítségével jobban megértsük, hogyan használják a felhasználók a Hellót. Az alábbiakat használjuk:
+
+    * Google Analytics: sütit helyez el a készülékén, és mérőszámokat gyűjt arról, hogyan használják a felhasználók a Hellót. Ez segít nekünk abban, hogy továbbfejleszthessük a Hello szolgáltatást. 
+    
+    * Optimizely: sütit helyez el a készülékén, amelynek segítségével a Hello változatait teszteljük. Ez segít nekünk abban, hogy jobb felhasználói élményt nyújthassunk a Hello felhasználói számára.
+
+* **Csempék**: A csempék a Hello egyik funkciója alá tartoznak, és a beszélgetések alatt jelennek meg, vagy akkor, amikor a felhasználó egy beszélgetés kezdetére vár. A funkció működéséhez a Hello a csempékkel kapcsolatban adatokat küld a Mozillának, például a kattintások számát, a megjelenéseket, az Ön IP-címét és nyelvi környezeti információit.
+
+---------------------------------------
+
+Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, valamint lehetősége van a web analytics jelentések és
+az optimalizáló eszközök lemondására.
+
+* **Sütielőzmények**: Az egyes sütiket a megfelelő beállítások alatt található
+egyéni beállításokban engedélyezheti vagy tilthatja le. A Firefoxban ez az
+Eszközök/Beállítások/Adatvédelem/Előzmények részben található. Ne feledje:
+előfordulhat, hogy a sütik nélkül a Hello bizonyos funkciói nem működnek megfelelően. 
+
+* **Analitika és optimalizálás**: Ha nem szeretné, hogy a Hellóval folytatott interakcióiról
+a Google Analytics adatokat gyűjtsön, telepítheti a [Google Analytics
+Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) kiegészítőt. A kiegészítő segítségével látogatásai beazonosíthatatlanok maradnak, és a Google Analytics nem továbbíthat ezekkel kapcsolatos adatokat. Ha nem szeretné, hogy a Hellóval folytatott interakcióiról az Optimizely adatokat gyűjtsön, akkor további információkért keresse fel az [Optimizely lemondási oldalt](https://www.optimizely.com/opt_out).
 
 ---------------------------------------
 

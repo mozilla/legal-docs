@@ -26,7 +26,7 @@ Wenn Sie einen oder mehrere Dienste nicht nutzen oder die obenstehenden Bedingun
 >
 >* Öffnen Sie die Einstellungen der Anwendung.
 >* Öffnen Sie den Bereich „Sicherheit“.
->* Deaktivieren Sie die Optionen „Webseite blockieren, wenn sie als attackierend gemeldet wurde“ und „Webseite blockieren, wenn sie als Betrugsversuch gemeldet wurde“.
+>* Deaktivieren Sie die Option „Gefährliche und betrügerische Inhalte blockieren“.
 >* Der Phishingschutz ist nun deaktiviert.
 >
 > **Standortbezogenes Browsing:** funktioniert immer nur mit Ihrem Einverständnis. Ohne Ihre Erlaubnis werden keine Standortdaten gesendet. Befolgen Sie zur vollständigen Deaktivierung dieser Funktion die folgenden Schritte:

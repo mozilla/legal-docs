@@ -1,6 +1,6 @@
 # Oznámení o zásadách ochrany osobních údajů prohlížeče Firefox
 
-15\. dubna 2014
+24. června 2016
 {: datetime="2014-04-15" }
 
 Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox zasílá informace společnosti Mozilla (tedy nám), naše [zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak budeme s takovými informacemi nakládat.
@@ -59,7 +59,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * Výchozí vyhledávání
 {: #thirdparty }
 
-	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi.
+	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi. [Podrobnější informace zjistíte zde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), včetně postupu deaktivace.
 
 ---------------------------------------
 
@@ -95,3 +95,6 @@ Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako
 {: #push-notifications }
 
 	Automaticky otevírané oznámení umožňuje stránkám zasílat oznámení a aktuální informace pro vás, pokud se zaregistrujete. Aby vám byla oznámení doručována, Firefox zasílá společnosti Mozilla informace o tom, u kterých stránek jste souhlasili s přijímáním Automaticky otevíraných oznámení. Tyto informace uchováme v anonymizované formě společně s počtem oznámení, které vám jednotlivé stránky zobrazují. Abychom vývojářům umožnili vylepšit jejich používání Automaticky otevíraných oznámení, společnost Mozilla sdílí souhrnné informace s některými vývojáři, včetně počtu návštěvníků stránek, kteří se zaregistrovali nebo zrušili svou registraci pro odběr Automaticky otevíraných oznámení. Správu Automaticky otevíraných oznámení ve Firefoxu můžete provádět podle [těchto pokynů](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Není-li uvedeno jinak, toto oznámení o ochraně osobních údajů platí pro nejnovější vydanou verzi Firefox. Naše předběžně vydané verze (Beta, Aurora/Vývojářská verze, Nightly a TestFlight) jsou dosud předmětem vývoje a mohou obsahovat některé nové funkce nebo nabízet odlišné charakteristiky ochrany osobních údajů. Předběžně vydané verze automaticky zasílají [telemetrická data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) společnosti Mozilla jako pomoc při vylepšování Firefox.
+{: #pre-release }

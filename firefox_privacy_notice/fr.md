@@ -1,6 +1,6 @@
 # Politique de confidentialité du navigateur Firefox
 
-15 avril 2014
+24 juin 2016
 {: datetime="2014-04-15" }
 
 Nous nous soucions de votre vie privée. Quand Firefox envoie des informations à Mozilla (c’est nous), notre [politique de confidentialité](https://www.mozilla.org/privacy/) vous informe sur la façon dont nous gérons ces informations.
@@ -59,7 +59,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 * **Recherche par défaut**
 {: #thirdparty }
 
-	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement.
+	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement. Vous pouvez [en savoir plus ici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), notamment sur la procédure de désactivation.
 
 ---------------------------------------
 
@@ -95,3 +95,6 @@ Lorsque vous le demandez, Firefox se connecte aussi à Mozilla pour vous fournir
 {: #push-notifications }
 
 	Les notifications push permettent aux sites de vous envoyer des notifications et des mises à jour si vous choisissez de les accepter. Pour vous permettre de recevoir des notifications, Firefox envoie des informations à Mozilla concernant les sites à partir desquels vous avez accepté de recevoir des notifications push. Nous enregistrons ces informations sous forme anonyme, et enregistrons également le nombre de notifications que chaque site vous envoie. Pour aider les développeurs à améliorer l'utilisation des notifications push, Mozilla peut décider de partager des informations avec certains développeurs, notamment le nombre de visiteurs qui ont opté pour les notifications push ou qui ont refusé de les recevoir. Vous pouvez gérer les notifications push dans Firefox en suivant ces [instructions](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Sauf si mentionné par ailleurs, cet avis de confidentialité concerne les versions génériques les plus récentes de Firefox. Nos versions officieuses (Beta, Aurora/Developer Edition, Nightly et TestFlight) sont en cours de développement actif et peuvent inclure de nouvelles fonctionnalités ou d'autres caractéristiques de confidentialité. Les versions officieuses envoient automatiquement des [données télémétriques](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) à Mozilla pour nous aider à améliorer Firefox.
+{: #pre-release }

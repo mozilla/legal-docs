@@ -1,11 +1,11 @@
 # Aviso de privacidad sobre sitios web, mensajes y cookies
 
-18 de marzo de 2015
+14 de marzo de 2016
 {: datetime="2015-03-18" }
 
 Nos importa su privacidad. El uso que hacemos de la información que recopila Mozilla (es decir, nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
-Este aviso de privacidad se aplica a los sitios web propiedad de Mozilla, es decir, los dominios mozillians.org, mozilla.org, firefox.com, openbadges.org y webmaker.org. También se incluyen, por ejemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org y wiki.mozilla.org.
+Este aviso de privacidad se aplica a los sitios web y las aplicaciones móviles operados por Mozilla, es decir, los dominios mozillians.org, mozilla.org, firefox.com y webmaker.org, entre otros. También se incluyen, por ejemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org y wiki.mozilla.org.
 
 ## Aspectos que debe conocer
 
@@ -20,6 +20,8 @@ Es posible que recibamos información personal sobre usted de acuerdo con su int
 
 * **Opinión del usuario**:  Puede enviarnos su opinión sobre nuestros productos y servicios de páginas web, como [input.mozilla.org](https://input.mozilla.org/), a través de la experiencia con el producto o mediante canales como correo electrónico, Bugzilla, IRC, cuentas de redes sociales, nuestra página Involúcrate o grupos como Student Ambassadors. Trate de compartir la menor cantidad posible de información personal en estos foros, ya que todo el mundo podrá acceder a sus comentarios.
 
+* **Cuentas**: Algunos sitios web, como por ejemplo, Marketplace, AMO, MDN y Webmaker, requieren la creación de una cuenta para enviar contenido del desarrollador, enviar opiniones y comentarios de los usuarios, e instalar algunos tipos de aplicaciones.  Recibirá periódicamente mensajes de correo electrónico relacionados con su cuenta.
+
 * **Campañas de productos o políticas**: Algunas de nuestras páginas web acogen campañas de productos o políticas. Por ejemplo, puede solicitar por correo electrónico o mensaje de texto un enlace para instalar Firefox en su dispositivo móvil o participar en peticiones legislativas en relación con Internet. Utilizamos los servicios de terceros para supervisar estas campañas y gestionar los datos que recibimos.
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Es posible que recibamos información personal sobre usted de acuerdo con su int
 Utilizamos cookies, GIF transparentes y otros análisis web de terceros, así como direcciones IP, para comprobar la funcionalidad y mejorar nuestros productos, servicios y mensajes.
 {: #data-tools }
 
-* **Cookies y direcciones IP**: Se utilizan para mejorar la funcionalidad de determinados productos y servicios. Por ejemplo, las cookies se utilizan para recordar las preferencias de idioma y los complementos de Firefox. También ayudan al usuario a iniciar sesión e identificarse, eliminando así la necesidad de introducir contraseñas en los sitios web que utilizan Mozilla Persona.  Las direcciones IP se utilizan para personalizar el contenido específico del país.
+* **Funcionalidad**: Utilizamos cookies, información del dispositivo y direcciones IP para mejorar la funcionalidad de ciertos productos, servicios y mensajes. Por ejemplo:
+    * Se utilizan cookies para recordar su preferencia de idioma para Firefox y complementos de Firefox. Además ayudan con el inicio de sesión y la autenticación de usuario para evitar que tenga que introducir sus contraseñas en ciertos sitios web de Mozilla.   
+    * Las direcciones IP se usan para personalizar los mensajes con el idioma y el país.  
+    * La información del dispositivo como país, idioma, operador y el fabricante de equipos originales (OEM), se utiliza para personalizar el servicio de Firefox Marketplace y Webmaker.
 
-* **Herramientas de datos en línea**: Utilizamos GIF transparentes y análisis web para comprender, en conjunto, el modo en que los usuarios utilizan los productos, los servicios, los mensajes, los sitios web, las campañas en línea, los fragmentos de código, los dispositivos y otras plataformas.
-
-* **Servicios de terceros** Utilizamos servicios de terceros como Google Analytics y Optimizely. Estos servicios utilizan cookies, direcciones IP y otras herramientas de datos en línea.
+* **Indicadores**: GIF transparentes, cookies y servicios de terceros nos ayudan a comprender los datos agregados sobre el uso que hacen los usuario de los productos, servicios, mensajes, páginas web, campañas en línea, snippets, dispositivos y otras plataformas.  Utilizamos:
+    * Google Analytics, que coloca una cookie en su dispositivo para obtener indicadores sobre el modo en el que los usuarios usan nuestras páginas web.      Esto ayuda a mejorar el contenido del sitio web.  
+    * Optimizely y ShareProgress, que colocan una cookie en su dispositivo para ayudarnos a probar distintos tipos de contenido web.  Esto nos ayuda a ofrecer a los usuarios un mejor servicio web.
+    * Flashtalking, que utiliza un GIF transparente en nuestra página de descarga de Firefox.  Esto nos ayuda a medir la eficacia de nuestras campañas publicitarias.
 
 ---------------------------------------
 
@@ -47,7 +53,7 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
 * **Correo electrónico**: Nuestros mensajes de publicidad son opcionales y puede cancelar su suscripción desde el pie de página del mensaje de correo electrónico o actualizando las [preferencias de correo de Mozilla](https://www.mozilla.org/newsletter/recovery/). Puede desactivar la función de los GIF transparentes si visualiza nuestros mensajes de correo electrónicos en el formato de solo texto.
 
 * **Análisis y optimización**: Si no desea que Google Analytics recoja información sobre sus visitas a los sitios web de Mozilla, puede instalar el [Complemento de inhabilitación para navegadores de Google Analytics](https://tools.google.com/dlpage/gaoptout). Este complemento le permite realizar visitas anónimas y prohíbe la transmisión de datos a Google Analytics.
-Si no desea que Optimizely recoja información sobre sus visitas a los sitios web de Mozilla, puede [cancelar su suscripción en www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o visitar [Exclusión del seguimiento de Optimizely](https://www.optimizely.com/opt_out) para obtener más información.
+Si no desea que Optimizely recoja información sobre sus visitas a los sitios web de Mozilla, [inhabilite este servicio en www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o visite [la página de exclusión de seguimiento de Optimizely](https://www.optimizely.com/opt_out) para obtener más información. Si no desea que Optimizely recoja información sobre sus visitas a los sitios web de Mozilla, [active la protección contra el rastreo en su navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Algunas páginas de Mozilla.org utilizan también GIF transparentes para averiguar la eficacia de nuestras campañas publicitarias.  Si desea inhabilitar el servicio vaya a la sección de preferencias “Your Choices” de [la Política de privacidad de Flashtalking](http://www.flashtalking.com/us/privacypolicy) y seleccione “Click here to opt-out”.
 
 * **Redes sociales**: Los botones para compartir en las redes sociales de los sitios web de Mozilla están diseñados para que no se comparta información con el proveedor de estos medios mientras no haga clic en el botón.
 

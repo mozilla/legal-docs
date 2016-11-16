@@ -1,13 +1,13 @@
 # Uvjeti korištenja web-mjesta i usluga komunikacija
 
-15\. listopada 2014.
+23. lipnja 2016.
 
 ### Uvjeti korištenja
 
 
 #### 1\. Uvod
 
-Pažljivo pročitajte sve uvjete navedene u ovom dokumentu (u nastavku „Uvjeti”) jer oni objašnjavaju vaša prava i odgovornosti prilikom posjećivanja Mozillinih web-mjesta (u nastavku „Web-mjesta”) ili povezanih sažetaka sadržaja, društvenih mreža, biltena i e-pošte (s Web-mjestima, u nastavku pod zajedničkim nazivom „Komunikacije”). Pristupanjem ili prijavljivanjem za primanje Komunikacija obvezujete se na pridržavanje ovih Uvjeta.
+Pažljivo pročitajte sve uvjete navedene u ovom dokumentu (u nastavku „Uvjeti”) jer oni objašnjavaju vaša prava i odgovornosti prilikom posjećivanja Mozillinih web-mjesta (u nastavku „Web-mjesta”) ili povezanih sažetaka sadržaja, društvenih mreža, biltena, repozitorija izvornog koda i e-pošte (s Web-mjestima, u nastavku pod zajedničkim nazivom „Komunikacije”). Pristupanjem ili prijavljivanjem za primanje Komunikacija obvezujete se na pridržavanje ovih Uvjeta.
 
 Naša Web-mjesta sadrže više domena poput mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com openbadges.org i webmaker.org. Naša Web-mjesta možete prepoznati i po nadimcima kao što su Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO i AMO.
 Neka od naših Web-mjesta povezuju vas s vezama, aplikacijama ili dodacima koje omogućuju druge strane te podliježu zasebnim Uvjetima.
@@ -30,14 +30,18 @@ Neki Sadržaj naših Komunikacija dolaze iz izvora koji ne dopuštaju daljnju up
 
 * Neki Sadržaji izričito navode da autor ne predviđa primjenu otvorene licencije.  Kako biste dobili dopuštenje za korištenje takvog Sadržaja, trebate se obratiti autoru ili njegovom zastupniku.  Svoja pitanja o sadržaju koji odobrava Mozilla šaljite na: licensing@mozilla.org.
 * Neki Sadržaj sadrži zaštitne znakove, obilježja proizvoda, logotipe i obilježja marke tvrtke Mozilla i drugih strana (u nastavku „Zaštitni znakovi”).  Osim u rijetkim slučajevima, Zaštitni se znakovi ne mogu koristiti bez prethodnog pisanog dopuštenja vlasnika Zaštitnog znaka.  [Saznajte više o Mozillinim zaštitnim znakovima.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Softver koji se koristi na našim Web-mjestima licenciran je Mozillinom javnom licencijom ili sličnim licencijama s dopuštenjem otvorenog izvora.  Kako biste saznali više o pojedinoj licenci, pogledajte mjerodavno spremište GitHub. 
+* Softver koji se koristi na našim Web-mjestima licenciran je Mozillinom javnom licencijom ili sličnim licencijama s dopuštenjem otvorenog izvora. Za više informacija o specifičnoj licenci, pogledajte kôd izvora koji se primjenjuje GitHub.
 
 
 #### 4\. Slanje sadržaja
 
-Našem Sadržaju možete doprinijeti interakcijom s našim Komunikacijama, uključujući između ostalog komentiranjem članaka, pisanjem blogova, prilaganjem kodova ili grafičkog, ili pisanog materijala (sve pod nazivom „Poslani materijal”).
+Našem Sadržaju možete doprinijeti interakcijom s našim Komunikacijama, uključujući između ostalog komentiranjem članaka, pisanjem blogova, prilaganjem kodova ili grafičkog, ili pisanog materijala (sve pod nazivom „Poslani materijal”). Osim ako vaš Poslani materijal nije izvršen u odvojenom ugovoru s Mozillom, a u tom slučaju taj ugovor je važeći, potom
    
-S obzirom na svaki Poslani materijal, pristajete na sljedeće:
+Za Slanje materijala u projekt Mozila otvorenog izvora: 
+
+* Slažete se s licenciranjem vašeg Poslanog materijala pod uvjetima odgovarajuće licence određenog projekta otvorenog izvora u kojem sudjelujete. Za više informacija o specifičnoj licenci, pogledajte kôd izvora koji se primjenjuje GitHub.
+
+Za sva druga Slanja materijala, slažete se sa sljedećim:
 
 * Izjavljujete i jamčite da će vaš Poslani materijal poštovati ove Uvjete, Mozilline [Uvjete korištenja](https://www.mozilla.org/about/legal/acceptable-use/), te sve dodatne uvjete koji mogu regulirati vaš Poslani materijal.
 * Ovime nam, bez naknade, dodjeljujete neisključivu, širom svijeta prenosivu (na one s kojima surađujemo) podlicenciju za korištenje vašeg Poslanog sadržaja povezanog s Komunikacijama te za mrežnu i izvanmrežnu promociju Mozilline misije, proizvoda i usluga.
@@ -96,7 +100,7 @@ Ovi Uvjeti predstavljaju cjelovit ugovor o korištenju naših Komunikacija izme�
 
 #### 13\. Podaci za kontakt
 
-Mozilla Corporation  
+Mozilla 
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

@@ -1,11 +1,11 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-18.03.2015
-{: datetime="2015-03-18" }
+14\. März 2016
+{: datetime="2016-03-14" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
-Dieser Datenschutz-Hinweis gilt für von Mozilla betriebene Websites einschließlich der Domains mozillians.org, mozilla.org, firefox.com, openbadges.org und webmaker.org. Dies umfasst z. B. bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org und wiki.mozilla.org.
+Dieser Datenschutzhinweis gilt für von Mozilla betriebene Websites und mobile Apps, darunter die Domains mozillians.org, mozilla.org, firefox.com und webmaker.org. Dies umfasst beispielsweise bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org und wiki.mozilla.org.
 
 ## Folgendes sollten Sie wissen
 
@@ -20,6 +20,8 @@ Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um eine
 
 * **Benutzer-Feedback**:  Auf Webseiten wie [input.mozilla.org](https://input.mozilla.org/), über eine produktinterne Funktion oder Kanäle wie E-Mail, Bugzilla, IRC, ein Social-Media-Konto, eine „Machen Sie mit“-Seite oder eine Gruppe wie Student Ambassadors können Sie uns Feedback zu unseren Produkten und Services geben. Bitte halten Sie die persönlichen Informationen, die Sie auf diesen Foren preisgeben, so knapp wie möglich, weil Ihre Anmerkungen evtl. öffentlich zugänglich sind.
 
+* **Konten**: Manche Websites wie Marketplace, AMO, MDN und Webmaker erfordern, dass ein Konto erstellt wird, um Entwicklerinhalte, Benutzerrezensionen oder Kommentare einreichen oder bestimmte Arten von Anwendungen installieren zu können.  Sie erhalten evtl. von Zeit zu Zeit E-Mails in Verbindung mit Ihrem Konto.
+
 * **Produkt- und politische Kampagnen**:  Einige unserer Webseiten enthalten Produkt- oder politische Kampagnen. Zum Beispiel können Sie per E-Mail oder SMS einen Link zur Installation von Firefox auf Ihrem Mobilgerät anfordern oder eine Petition zur Internetpolitik unterzeichnen. Diese Kampagnen wickeln wir über Drittanbieter ab, die die Daten verarbeiten, die Sie einsenden.
 {: #campaigns }
 
@@ -28,11 +30,15 @@ Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um eine
 Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen aus Gründen der Funktionalität und zur Verbesserung unserer Produkte, Services und Mitteilungen. 
 {: #data-tools }
 
-* **Cookies und IP-Adressen**: Wir verwenden diese, um die Funktionalität bestimmter Produkte und Services zu verbessern. Cookies dienen z. B . dazu, Ihre Firefox-Spracheinstellung und Firefox-Add-ons zu speichern. Außerdem helfen sie bei der Benutzeranmeldung und -authentifizierung, sodass Sie Ihre Passwörter auf Websites, die Persona verwenden, nicht immer wieder erneut eingeben müssen.  IP-Adressen dienen dazu, Inhalte für Ihr jeweiliges Land spezifisch anzupassen.
+* **Funktionalität**: Wir verwenden evtl. Cookies, Geräteinformationen und IP-Adressen, um die Funktionalität bestimmter Produkte, Dienste und Mitteilungen („Kommunikation“) zu erweitern. Beispiele:
+    * Cookies dienen dazu, Ihre Firefox-Spracheinstellung und Firefox-Add-ons zu speichern. Außerdem helfen sie bei der Benutzeranmeldung und -authentifizierung, sodass Sie Ihre Passwörter auf bestimmten Mozilla-Websites nicht immer wieder erneut eingeben müssen.  
+    * IP-Adressen dienen dazu, Kommunikation nach Land und Sprache spezifisch anzupassen.  
+    * Geräteinformationen wie Land, Sprache, Betreiber und OEM können verwendet werden, um Ihre Erfahrung auf Firefox Marketplace und Webmaker spezifisch anzupassen.
 
-* **Online-Datenwerkzeuge**: Wir verwenden Clear-GIFs und Web-Analysefunktionen, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren.
-
-* **Dienste Dritter** Wir nutzen Dienste Dritter wie Google Analytics und Optimizely. Diese verwenden Cookies, IP-Adressen und Online-Datenwerkzeuge. 
+* **Metriken**: Wir verwenden Zählpixel (Clear-GIFs), Cookies und Dienste von Drittanbietern, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
+    * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren.      Dadurch können wir die Website-Inhalte verbessern.  
+    * Optimizely und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können.  Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
+    * Flashtalking, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet.  Damit können wir die Effektivität unserer Werbekampagnen messen.
 
 ---------------------------------------
 
@@ -47,7 +53,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 * **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen.  
 
 * **Analyse und Optimierung**: Wenn Sie nicht möchten, dass Daten zu Ihren Besuchen von Mozilla-Websites von Google Analytics erfasst werden, können Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout) installieren. Mithilfe des Add-ons bleiben Ihre Besuche anonym, und es werden keine Daten an Google Analytics übertragen.
-Wenn Sie nicht möchten, dass Daten über Ihre Besuche von Mozilla-Websites von Optimizely erfasst werden, können Sie sich [auf www.mozilla.org abmelden](https://www.mozilla.org/?optimizely_opt_out=true) oder die [Opt-out-Website von Optimizely](https://www.optimizely.com/opt_out) besuchen. Dort finden Sie weitere Informationen. 
+Wenn Sie nicht möchten, dass Optimizely Daten über Ihre Besuche auf Mozilla-Websites erfasst, können Sie dies [auf www.mozilla.org deaktivieren (Opt-out)](https://www.mozilla.org/?optimizely_opt_out=true) oder besuchen Sie die [Optimizely-Website für die Deaktivierung (Opt-out)](https://www.optimizely.com/opt_out), um nähere Informationen hierzu zu erhalten. Wenn Sie nicht möchten, dass ShareProgress Daten über Ihre Besuche auf Mozilla-Websites erfasst, können Sie [in Ihrem Browser die Option für das Nichtverfolgen aktivieren.](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Auf einigen Seiten verwendet Mozilla.org Clear GIFs, um mehr Erkenntnisse über die Wirksamkeit seiner Werbekampagnen zu erlangen.  Um sich hiervon abzumelden, gehen Sie in den [Datenschutzbestimmungen von Flashtalking](http://www.flashtalking.com/us/privacypolicy) zum Abschnitt "Ihre Opt-out Lösung" und klicken dort auf "Hier klicken, um sich ... abzumelden.".
 
 * **Social Media**: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für Social-Media-Anbieter freigegeben werden, wenn Sie auf die Schaltfläche klicken.
 

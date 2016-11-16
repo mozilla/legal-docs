@@ -1,13 +1,13 @@
 # Conditions d’utilisation des sites Web et Communications
 
-Le 15 octobre 2014
+23 juin 2016
 
 ### Conditions d’utilisation
 
 
 #### 1\. Introduction
 
-Veuillez lire attentivement toutes les conditions de ce document (les « Conditions ») car elles expliquent vos droits et responsabilités lorsque vous consultez les sites Web de Mozilla (les « Sites Web ») ou les flux, médias sociaux, bulletins d’information et courriers électroniques associés (ensemble avec les Sites Web, collectivement appelés les « Communications »). En accédant aux Communications, ou en vous inscrivant pour les recevoir, vous acceptez d’être lié par les présentes Conditions.
+Veuillez lire attentivement toutes les conditions de ce document (les « Conditions ») car elles expliquent vos droits et responsabilités lorsque vous consultez les sites Web de Mozilla (les « Sites Web ») ou les flux, médias sociaux, bulletins d’information, entrepôts de code source et courriers électroniques associés (ensemble avec les Sites Web, collectivement appelés les « Communications »). En accédant aux Communications, ou en vous inscrivant pour les recevoir, vous acceptez d’être lié par les présentes Conditions.
 
 Nos Sites Web comprennent de nombreux domaines tels que mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org et webmaker.org. Vous pouvez également reconnaître nos Sites Web par leurs surnoms tels que Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO et AMO.
 Certains de nos Sites Web vous permettent de vous connecter à des liens, applications ou modules complémentaires fournis par d’autres entités et sont soumis à des Conditions séparées.
@@ -30,14 +30,18 @@ Certains Contenus de nos Communications sont acquis auprès de sources qui inter
 
 * Certains Contenus indiquent expressément que l’auteur ne souhaite pas qu’une licence ouverte soit applicable.  Vous devez contacter l’auteur ou l’agent de l’auteur pour obtenir la permission d’utiliser ce Contenu. Les questions à propos du contenu créé par Mozilla doivent être envoyées à : licensing@mozilla.org.
 * Certains contenus contiennent des marques de commerce, emballages, logos et actifs de la marque de Mozilla et d’autres parties (« Marques de commerce »). Sauf dans certains cas limités, les Marques de commerce ne peuvent pas être utilisées sans une autorisation préalable écrite du propriétaire de la Marque de commerce.  [En savoir plus sur les marques de commerce de Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Le logiciel utilisé par nos sites Web est octroyé sous licence dans le cadre de la MPL (licence publique Mozilla) ou dans le cadre de licences de source libre donnant des types d’autorisation similaires.   Pour de plus amples renseignements à propos d’une licence spécifique, veuillez consulter le référentiel GitHub applicable. 
+* Les logiciels utilisés par nos Sites Web sont fournis sous licence MPL ou autres licences open source libres. Pour plus d'informations sur une licence spécifique, veuillez consulter le code source applicable ou l'entrepôt GitHub.
 
 
 #### 4\. Soumissions de Contenu
 
-Vous pouvez contribuer au Contenu lorsque vous interagissez avec nos Communications, y compris mais sans limitation, avec des commentaires sur un article, des articles de blog, du code, des graphiques ou des documents écrits (chaque élément représente une « Soumission »).
+Vous pouvez contribuer au Contenu lorsque vous interagissez avec nos Communications, y compris mais sans limitation, avec des commentaires sur un article, des articles de blog, du code, des graphiques ou des documents écrits (chaque élément représente une « Soumission ») À moins que votre soumission ne s'effectue selon un accord spécifique avec Mozilla, auquel cas cet accord prévaut, alors
    
-Vous acceptez ce qui suit en ce qui concerne chaque Soumission :
+Pour les soumissions aux projets Mozilla open source :
+
+* Vous acceptez octroyer une licence pour votre soumission selon les conditions de la licence correspondante du projet open source auquel vous contribuez. Pour plus d'informations sur une licence spécifique, veuillez consulter le code source applicable ou l'entrepôt GitHub.
+
+Pour toute autre soumission, vous acceptez ce qui suit en relation avec chaque :
 
 * Vous indiquez et garantissez que votre Soumission sera conforme aux présentes Conditions, aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla et à toutes les conditions supplémentaires pouvant gouverner votre Soumission.
 * Vous nous octroyez par les suivantes une licence non exclusive, sans redevance, mondiale, et pouvant faire l’objet d’une sous-licence (aux entités avec lesquelles nous travaillons) d’utiliser votre Soumission en rapport avec les Communications et pour les promotions en ligne et hors ligne de la mission, des produits et services de Mozilla.
@@ -96,7 +100,7 @@ Les présentes Conditions constituent l’ensemble de l’accord entre vous et M
 
 #### 13\. Contactez-nous
 
-Mozilla Corporation  
+Mozilla
 À l’attention de : Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

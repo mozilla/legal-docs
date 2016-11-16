@@ -1,13 +1,13 @@
 # Termeni de utilizare a site-urilor web și comunicărilor
 
-15 octombrie 2014
+23 iunie 2016
 
 ### Termeni de utilizare
 
 
 #### 1\. Introducere
 
-Citiți cu atenție, în întregime, termenii acestui document („Termeni”), întrucât acest document vă explică drepturile și responsabilitățile pe care le aveți atunci când vizitați oricare dintre site-urile web ale Mozilla („Site-uri web”) sau fluxuri, rețele sociale, buletine de știri și e-mailuri conexe (împreună cu site-urile web, acestea sunt denumite colectiv „Comunicări”). Accesând sau înregistrându-vă pentru a primi Comunicări, sunteți de acord să vă asumați obligații în temeiul acestor Termeni.
+Citiți cu atenție acest document („Termeni”) în întregime, deoarece vă explică drepturile și responsabilitățile pe care le aveți atunci când vizitați oricare dintre site-urile web ale Mozilla („Site-uri web”) sau fluxuri, rețele sociale, buletine de știri, baze de date cu cod sursă și e-mailuri conexe (împreună cu site-urile web, acestea sunt denumite colectiv „Comunicări”).  Accesând sau înregistrându-vă pentru a primi Comunicări, sunteți de acord să vă asumați obligații în temeiul acestor Termeni.
 
 Site-urile noastre web includ mai multe domenii, cum ar fi mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org și webmaker.org. S-ar putea să recunoașteți site-urile noastre web și după porecle precum Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO și AMO.
 Unele dintre site-urile noastre web vă conectează la linkuri, aplicații sau suplimente care vă sunt furnizate de alte părți și fac obiectul unor Termeni separați.
@@ -30,14 +30,18 @@ Anumite Conținuturi din Comunicările noastre se obțin din surse care interzic
 
 * Anumite Conținuturi indică în mod expres faptul că autorul nu dorește aplicarea unei licențe deschise.  Ar trebui să contactați autorul sau reprezentantul acestuia pentru permisiunea de a utiliza astfel de Conținuturi. Întrebările privind conținutul creat de Mozilla pot fi trimise la: licensing@mozilla.org.
 * Anumite Conținuturi cuprind mărci comerciale, prezentări comerciale, logouri și portofolii de mărci ale Mozilla și ale altor părți („Mărci comerciale”). Cu excepția câtorva circumstanțe limitate, Mărcile comerciale nu pot fi utilizate fără permisiunea în scris a proprietarului Mărcii comerciale.  [Aflați mai multe despre mărcile comerciale ale Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.  Pentru mai multe informații privind licența specifică, consultați depozitul GitHub aplicabil. 
+* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.   Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil. 
 
 
 #### 4\. Remiteri de conținut
 
-S-ar putea să contribuiți cu conținut atunci când interacționați cu Comunicările noastre, inclusiv, dar fără limitare la acestea, comentariile cu privire la un articol, blogurile, codurile contributorii sau reprezentările grafice ori materialele scrise contributorii (denumite individual „Remitere”).
+Este posibil să contribuiți cu conținut atunci când interacționați cu Comunicările noastre, inclusiv, dar fără limitare la acestea, comentariile cu privire la un articol, blogurile, codurile contributorii sau reprezentările grafice ori materialele scrise contributorii (denumite individual „Remitere”). Cu excepția cazului în care Remiterea este efectuată de dumneavoastră ca parte a unui acord separat cu Mozilla, caz în care se va aplica respectivul acord, atunci
    
-Sunteți de acord cu următoarele aspecte în ceea ce privește fiecare remitere:
+Pentru Remiterile pentru proiectele Mozilla cu sursă deschisă:
+
+* Sunteți de acord să licențiați Remiterea conform cu termenii licenței corespunzătoare respectivului proiect cu sursă deschisă la care contribuiți.  Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil.
+
+Pentru toate celelalte Remiteri, sunteți de acord cu următoarele în ceea ce privește fiecare remitere: 
 
 * Garantați că Remiterea dvs. va respecta acești Termeni, [Condițiile de utilizare](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla și orice termeni suplimentari care ar putea reglementa Remiterea dvs.
 * Ne acordați prin prezenta licența neexclusivă, gratuită, internațională, sublicențiabilă (către cei cu care lucrăm) de utilizare a Remiterii dvs. legate de Comunicări și promovarea online și offline a misiunii, produselor și serviciilor Mozilla.
@@ -96,7 +100,7 @@ Acești Termeni constituie întregul acord între dvs. și Mozilla privind Comun
 
 #### 13\. Contactați-ne
 
-Mozilla Corporation  
+Mozilla
 Attn: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

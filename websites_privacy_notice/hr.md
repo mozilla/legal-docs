@@ -1,11 +1,11 @@
 # Napomene o privatnosti za web-mjesta, komunikacije i kolačiće
 
-27. kolovoza 2014.
+14. ožujka 2016.
 {: datetime="2014-08-27" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
-Ova napomena o pravilima primjenjuje se na web-mjesta koja rade s Mozillom, što uključuje domene mozillians.org, mozilla.org, firefox.com, openbadges.org i webmaker.org. Ovo uključuje, primjerice, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, i wiki.mozilla.org.
+Ova obavijest o privatnosti primjenjuje se na Mozilla radna web-mjesta i mobilne aplikacije, koje uključuju domene mozillians.org, mozilla.org, firefox.com i webmaker.org, između ostalog. Ovo uključuje, primjerice bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
 ## Što biste trebali znati
 
@@ -18,18 +18,24 @@ Možemo primiti vaše osobne podatke temeljem interakcije s nama na platformi dr
 
 * **Suradnici**: Volontiranjem kao društveni suradnik, Mozilla i ostali mogu tražiti od vas da komunicirate putem adrese e-pošte koju ste pružili vezano za vašu suradnju i prepoznavanje vaših napora.  Ako sudjelujete na uslugama Bugzilla, Mozilla Reps ili našoj osnovnoj bazi, postoji mogućnost da vaša adresa e-pošte i ime budu javno dostupni svim korisnicima Interneta. Ako izradite profil na Mozillians.org, bit će dostupan zaposlenicima i suradnicama Mozille. Vaše podatke profila možete urediti na [Postavke profila](https://mozillians.org/user/edit). Povremeno koristimo podatke o suradniku iz izvora (poput Bugzilla) u kontrolnoj ploči za vizualno dijeljenje prikupljenih podataka na zajednici Mozilla. Primjer [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Po mogućnosti, pokušavamo minimizirati podatke za kontakt koji su javno prikazani.
 
+* **Računi**: Neke web stranice primjerice Marketplace, AMO, MDN i Webmaker, zahtijevaju izradu računa za slanje sadržaja razvojnog programera; slanje korisničkih pregleda ili komentara; ili instalaciju određenih vrsta aplikacija.  Možete povremeno primiti poruke e-pošte vezano za vaš račun.
+
 * **Povratne informacije korisnika**:  Možete nam pružiti povratne informacije o našim proizvodima i uslugama na web-mjestu poput [input.mozilla.org](https://input.mozilla.org/), kroz iskustva s proizvodom ili kroz kanale poput e-pošte, Bugzilla, IRC, račune društvenih medija, naše stranice Get Involved ili kroz grupu kao što je Studenti ambasadori. Molimo da minimizirate osobne podatke koje odaberete za dijeljenje na ovim forumima budući da vaši komentari mogu biti dostupni javnosti.
 
 ---------------------------------------
 
 Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adrese za funkcioniranje i poboljšanje naših proizvoda, usluga i komunikacija. 
-{: #alati za podatke }
+{: #data-tools }
 
-* **Kolačići i IP adrese**: Ovo koristimo za poboljšanje funkcioniranja određenih proizvoda i usluga. Primjerice, kolačići se koriste za memoriju postavki jezika Firefoxa i dodataka Firefoxa. Također pomažu s prijavom korisnika i autentifikacijom, tako da možete zaobići unos zaporke na web-mjestima koja koriste Persona.  IP adrese su korištene za prilagodbu sadržaja za određenu zemlju.
+* **Funkcionalnost**: Možemo koristiti kolačiće, podatke o uređaju i IP adrese za poboljšanje funkcionalnosti određenih proizvoda, usluga i komunikacija. Na primjer:
+    * Kolačići se koriste za memoriju postavki jezika Firefoxa i dodataka Firefoxa. Također pomažu s prijavom korisnika i autentifikacijom, tako da možete zaobići unos zaporke na određenim Mozilla web-mjestima.  
+    * IP adrese su korištene za prilagodbu sadržaja za određeni jezik i zemlju.  
+    * Podaci o uređaju poput zemlje, jezika, operatera i OEM-a, mogu se koristiti za prilagodbu iskustva na Firefox Marketplaceu i Webmakeru.
 
-* **Mrežni alati za obradu podataka**: Koristimo čiste GIF-ove i analitiku interneta za razumijevanje kod prikupljanja podataka o tome kako korisnici koriste naše proizvode, usluge i komunikacije na našim web-mjestima, mrežnim kampanjama, isječcima, uređajima i drugim platformama. 
-
-* **Usluge treće strane** Koristimo se uslugama treće strane poput Google Analytics i Optimizely.  One primjenjuju kolačiće, IP adrese i mrežne alate za obradu podataka o našim web-stranicama.  
+* **Metrike**: Čisti GIF-ovi, kolačići i usluge treće strane pomažu nam u razumijevanju prikupljanja podataka o tome kako korisnici koriste naše proizvode, usluge i komunikacije, web-mjesta, mrežne kampanje, isječke, uređaje i druge platforme. Koristimo:
+    * Google Analytics, koja postavlja kolačiće na vaš uređaj, za dobivanje metrika o tome kako koristite naše web stranice.      Ovo pomaže poboljšati sadržaj stranice.  
+    * Optimizely i ShareProgress, koji postavlja kolačiće na vaš uređaj, pomaže nam testirati različite web sadržaje.  Ovo nam pomaže ponuditi bolje iskustvo korisnicima.
+    * Flashtalking, koji koristi čiste GIF-ove na našoj Firefox stranici za preuzimanje..  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje. 
 
 ---------------------------------------
 
@@ -43,7 +49,7 @@ Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke
 * **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/). Možete onemogućiti funkciju čistih GIF-ova pregledom poruke e-pošte u samo tekstualnom formatu.  
 
 * **Analitike i optimizacija**: Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi Google Analytics, možete instalirati [Dodatak pregledniku za isključivanje usluge Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatak čuva anonimnost vaše posjete i zabranjuje prijenos podataka usluzi Google Analytics.
-Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi Optimizely, za više informacija možete posjetiti [Web-mjesto za isključivanje usluge Optimizely](https://www.optimizely.com/opt_out). 
+Ako ne želite da podaci o vašoj posjeti Mozilla web-mjestima budu prikupljeni od strane Optimizely, možete [uključiti na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posjetiti [Web-mjesto za isključivanje Optimizelya](https://www.optimizely.com/opt_out). Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi ShareProgress, možete [ uključiti Ne prati u pregledniku](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Neke Mozilla.org stranice također koriste čiste GIF-ove za razumijevanje učinkovitosti naših kampanja za oglašavanje.  Možete isključiti u odjeljku „Vaš izbor” od [Flashtalking’s Politike o privatnosti](http://www.flashtalking.com/us/privacypolicy) i odabirom „Klikni ovdje za isključenje”.
 
 * **Društveni mediji**: Gumbi za društveno dijeljenje na Mozilla web-mjestima dizajnirani su tako da ne dijele podatke s poslužiteljem društvenih medija dok ne kliknete na gumb.
 

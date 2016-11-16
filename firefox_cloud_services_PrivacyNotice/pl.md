@@ -1,7 +1,7 @@
 # Zasady prywatności usług Firefox Cloud Services
 
-17.07.15 r.
-{: datetime="2015-07-17" }
+16 sierpnia 2016 r.
+{: datetime="2016-08-16" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli usługi Firefox Cloud Services („Usługi”) obejmują przesyłanie informacji do firmy Mozilla (to my), [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/) reguluje wykorzystywanie takich danych przez nas.
 
@@ -9,9 +9,13 @@ Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli usłu
 
 Użytkownik przesyła do nas dane różnego rodzaju, w zależności od używanych funkcji Usług.
 
-* **Konto Firefox**: Kiedy użytkownik dokona rejestracji w celu uzyskania konta, otrzymujemy informacje obejmujące jego adres e-mail i zaszyfrowany skrót hasła. Użytkownik może także opcjonalnie dodać zdjęcie profilowe. Jeśli użytkownik wybierze obraz Gravatar, udostępnimy jego adres e-mail usłudze Gravatar, by uzyskać zdjęcie profilowe.
-* **Funkcja Sync**: Jeśli użytkownik korzysta z funkcji Sync, otrzymujemy określone informacje umożliwiające synchronizowanie kart, historii paska adresu, haseł, zakładek, preferencji przeglądarki i innych danych między różnymi urządzeniami.
-* **Znajdź moje urządzenie**: Jeśli użytkownik włączy funkcję Znajdź moje urządzenie, otrzymamy przybliżoną lokalizację jego urządzenia, tylko jeśli zaloguje się na konto Firefox i poprosi o zlokalizowanie połączonego urządzenia. Po zalogowaniu się użytkownik może zobaczyć ostatnie znane lokalizacje urządzenia na mapie. Regularnie usuwamy te lokalizacje i nie zbieramy informacji o kolejnych, o ile nie poprosi o to użytkownik.
+* **Adres e-mail**: Kiedy użytkownik dokona rejestracji w celu uzyskania konta Firefox, otrzymujemy informacje obejmujące jego adres e-mail i zaszyfrowany skrót hasła. Oprócz tego można opcjonalnie dodać zdjęcie profilowe lub użyć gravatara (w tym przypadku udostępnimy usłudze Gravatar adres e-mail użytkownika, by uzyskać jego zdjęcie profilowe).
+
+* **Sync**: Jeśli użytkownik włączy funkcję Sync, otrzymujemy w zaszyfrowanym formacie dane synchronizowane pomiędzy urządzeniami (mogą one obejmować informacje o kartach, dodatkach, hasłach, zakładkach, historii i preferencjach przeglądarki Firefox).  Choć dane te nie mogą zostać przez nas odszyfrowane, należy użyć silnego hasła, by zapobiec nieautoryzowanemu dostępowi do synchronizowanych danych.  Przechowujemy również informacje o systemie operacyjnym i wersji przeglądarki Firefox użytkownika, by pokazywać użytkownikowi, które urządzenia są zsynchronizowane z jego kontem. 
+
+* **Dane lokalizacji**: Ze względów bezpieczeństwa przechowujemy adresy IP, z których użytkownik uzyskuje dostęp do konta Firefox, by w przybliżeniu określić jego kraj i miejscowość.  Używamy tych danych, by wysyłać alerty e-mail w przypadku wykrycia podejrzanej aktywności, np. logowania na konto z innych lokalizacji.
+    
+	* **Znajdź moje urządzenie**: Jeśli użytkownik włączy funkcję Znajdź moje urządzenie, otrzymamy przybliżoną lokalizację jego urządzenia, tylko jeśli zaloguje się na konto Firefox i poprosi o zlokalizowanie połączonego urządzenia. Po zalogowaniu się użytkownik może zobaczyć ostatnie znane lokalizacje urządzenia na mapie. Regularnie usuwamy te lokalizacje i nie zbieramy informacji o kolejnych, o ile nie poprosi o to użytkownik.
 
 ---------------------------------------
 

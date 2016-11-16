@@ -1,6 +1,6 @@
 # Obaveštenje o privatnosti za Firefox Hello
 
-25\. novembar 2014\.
+23. novembar, 2015
 {: datetime="2014-11-25" }
 
 Stalo nam je do vaše privatnosti. Kada Hello šalje informacije kompaniji Mozilla (to smo mi) naša Pravila privatnosti kompanije Mozilla opisuju način na koji koristimo te informacije.
@@ -26,6 +26,29 @@ Automatski dobijamo određene merne parametre korišćenja Usluge.
 * **Merni parametri korišćenja**: Dobijamo zbirne informacije o tome koliko ljudi koristi Uslugu, vrstama operativnih sistema i pretraživača i zemljama u kojima se koristi Usluga.
 
 * **Izveštaji**: Dobijamo zbirne informacije o tome koliko ljudi koristi Uslugu, vrstama operativnih sistema i pretraživača i zemljama u kojima se koristi Usluga.
+
+
+* **Analitika**: Ako koristite veb servis Hello da biste pristupili konverzaciji tako što pratite link prema https://hello.firefox.com, možemo koristiti kolačiće i servise treće strane koji nam pomažu da razumemo zbirno interakciju korisnika sa servisom Hello. Koristimo:
+
+    * Google Analytics, koji postavlja kolačić na Vaš uređaj, kako bismo dobili podatke o interakciji korisnika sa servisom Hello. To nam pomaže da unapredimo servis Hello. 
+    
+    * Optimizely, koji postavlja kolačić na Vaš uređaj, pomaže nam da testiramo varijacije servisa Hello. To nam pomaže da ponudimo bolje iskustvo korisnicima Hello.
+
+* **Pločice**: Pločice predstavljaju funkcionalnost servisa Hello i mogu se prikazati tokom konverzacije ili dok korisnik čeka da konverzacija počne. Da bi se omogućila funkcija pločica, Hello šalje kompaniji Mozilla podatke koji se odnose na pločice, kao što su broj klikova, prikaza, Vašu IP adresu i informacije o jeziku.
+
+---------------------------------------
+
+Možete kontrolisati pojedinačna željena podešavanja kolačića ili se odjaviti od analitike veba i
+alata za optimizaciju.
+
+* **Istorijat kolačića**: Možete prihvatiti ili odbiti pojedinačne kolačiće u željenim podešavanjima
+u odgovarajućim podešavanjima Vašeg veb pregledača. U slučaju pregledača Firefox, ona se mogu
+naći u delu Alati/Opcije/Istorijat privatnosti. Napomena: može se desiti da određene funkcionalnosti
+Hello ne rade valjano bez pomoći kolačića. 
+
+* **Analitika i optimizacija**: Ako ne želite da Google Analytics prikuplja podatke o Vašoj interakciji sa
+servisom Hello, možete instalirati dodatak za odjavu sa servisa [Google Analytics
+u okviru pregledača](https://tools.google.com/dlpage/gaoptout). Dodatak čuva anonimnost Vaših poseta i sprečava prenos podataka servisu Google Analytics. Ako ne želite da Optimizer prikuplja podatke o Vašoj interakciji sa servisom Hello, možete se odjaviti tako što ćete posetiti [Veb sajt za odjavu sa servisa Optimizely](https://www.optimizely.com/opt_out) za više informacija.
 
 ---------------------------------------
 

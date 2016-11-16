@@ -1,7 +1,7 @@
 # Firefox 浏览器隐私权保护事宜通知
 
-2014 年 4 月 15 日
-{: datetime="2014-04-15" }
+2016 年 6 月 24 日
+{: datetime="2016-06-24" }
 
 我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
 
@@ -64,7 +64,7 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 * **仅适用于 Android 版 Firefox**
 {: #thirdparty }
 
-	为了了解某些 Mozilla 营销活动的效果，Firefox 会将包括 Google 广告 ID、IP 地址、时间戳、国家或地区、语言或语言环境、操作系统、应用程序版本在内的数据发送给我们的第三方供应商。这些数据有助于我们确认某一安装具体是来源于哪个广告渠道，并有助于我们优化营销活动策略。
+	为了了解某些 Mozilla 营销活动的效果，Firefox 会将包括 Google 广告 ID、IP 地址、时间戳、国家或地区、语言或语言环境、操作系统、应用程序版本在内的数据发送给我们的第三方供应商。这些数据有助于我们确认某一安装具体是来源于哪个广告渠道，并有助于我们优化营销活动策略。您可以点击[此处了解详情](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices),，包括如何将其禁用。
 
 ---------------------------------------
 
@@ -100,3 +100,8 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 {: #push-notifications }
 
 	如果您启用了推送通知，网站就可以向您发送通知和更新。为了获取通知，Firefox 会将您同意接受推送通知的网站信息发送给 Mozilla。 我们会在匿名表格中存储这一信息，以及每个网站向您发送的通知数量。 为了帮助开发者改进他们对于推送通知的使用，Mozilla 可能会与某些开发者分享汇总信息，包括有多少网站访问者订阅了或者取消订阅了他们的推送通知。您可以遵照[这些说明](https://support.mozilla.org/kb/push-notifications-firefox)在 Firefox 中管理推送通知。
+	
+##
+
+除非另有说明，否则本隐私权政策通知旨在用于最近全面发行的几个 Firefox 版本。我们推出的几个预发行版本 (Beta、Aurora/Developer Edition、Nightly 以及 TestFlight) 目前仍处于开发阶段，可能会有一些新功能，或在隐私保护方面各有不同的特点。这些预发行版本会自动将[遥测数据](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) 传给 Mozilla，用以帮助我们改进 Firefox。
+{: #pre-release }

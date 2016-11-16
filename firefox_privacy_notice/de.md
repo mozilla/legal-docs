@@ -1,6 +1,6 @@
 # Firefox-Browser – Datenschutz-Hinweis
 
-15.04.14
+24.06.2016
 {: datetime="2014-04-15" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Firefox Daten an Mozilla (an uns) sendet, verarbeiten wir diese Daten wie in der [Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
@@ -59,7 +59,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * **Standardsuche**
 {: #thirdparty }
 
-	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird.
+	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird. Sie können [hier mehr erfahren](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), beispielsweise auch wie Sie dies deaktivieren können.
 
 ---------------------------------------
 
@@ -95,3 +95,6 @@ Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergeste
 {: #push-notifications }
 
 	Push-Benachrichtigungen ermöglichen es Websites, Ihnen, sofern Sie diese Funktion aktiviert haben, Benachrichtigungen und Updates zu senden. Um Benachrichtigungen zu erhalten, sendet Firefox Mozilla Informationen zu den Websites, bei denen Sie zugestimmt haben, Push-Benachrichtigungen zu erhalten. Wir speichern diese Informationen zusammen mit der Anzahl der Benachrichtigungen, die jede Website Ihnen sendet, in anonymisierter Form. Um Entwicklern zu helfen, ihre Verwendung von Push-Benachrichtigungen zu verbessern, kann Mozilla bestimmten Entwicklern aggregierte Informationen zur Verfügung stellen, so z. B. die Anzahl der Besucher auf ihrer Website, die ihre Push-Benachrichtigungen abonniert bzw. sich davon abgemeldet haben. Push-Benachrichtigungen können Sie in Firefox mithilfe [dieser Anweisungen](https://support.mozilla.org/kb/push-notifications-firefox) verwalten.
+
+Wenn nicht anderweitig angegeben, gilt dieser Datenschutzhinweis für die neuesten allgemeinen Release-Versionen von Firefox. Unsere Pre-Release-Versionen (Beta, Aurora/Developer Edition, Nightly und TestFlight) sind noch in der aktiven Entwicklung und können neue Features enthalten oder andere Datenschutzmerkmale aufweisen. Pre-Release-Versionen senden automatisch [Telemetrie-Daten](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) an Mozilla, damit wir Firefox verbessern können.
+{: #pre-release }

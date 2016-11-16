@@ -17,7 +17,7 @@ Služba vám je poskytována ve spolupráci se společností TokBox, Inc. (spole
 
 ### 4. Zásady ochrany osobních údajů
 
-[Prohlášení o ochraně osobních údajů ve Firefox Hello](https://www.mozilla.org/privacy/) uvádí, jaké informace se odesílají, když používáte Službu, a jak se s těmito informacemi nakládá.
+[Prohlášení o ochraně osobních údajů ve Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) uvádí, jaké informace se odesílají, když používáte Službu, a jak se s těmito informacemi nakládá.
 
 ### 5. Obsah a použití 
 

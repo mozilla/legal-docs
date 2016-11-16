@@ -17,7 +17,7 @@ El Servicio se ofrece en colaboración con TokBox, Inc. (TokBox también se menc
 
 ### 4. Política de privacidad
 
-El [Aviso de privacidad de Firefox Hello](https://www.mozilla.org/privacy/) explica qué información se envía durante el uso del Servicio y cómo se gestiona dicha información.
+El [Aviso de privacidad de Firefox Hello](https://www.mozilla.org/privacy/firefox-hello/) explica qué información se envía durante el uso del Servicio y cómo se gestiona dicha información.
 
 ### 5. Contenido y uso 
 

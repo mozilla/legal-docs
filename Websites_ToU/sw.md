@@ -1,13 +1,13 @@
 # Masharti ya Matumizi ya Tovuti na Mawasiliano
 
-Oktoba 15, 2014
+23 Juni 2016
 
 ### Masharti ya Matumizi
 
 
 #### 1\. Utangulizi
 
-Tafadhali soma masharti ya waraka huu wote  (“Masharti”) kwa makini kwa sababu yanafafanua haki na majukumu yako wakati unapotembelea tovuti zozote za Mozilla (“Tovuti”) au majarida na barua pepe (pamoja na Tovuti, haya kwa pamoja yanajulikana kama “Mawasiliano”). Kwa kufikia au kujisajili ili kupokea Mawasiliano unayokubali kutii Masharti haya.
+Tafadhali soma kwa makini sheria na masharti katika hati hii yote (“Sheria na Masharti”) kwa sababu yanaelezea haki na majukumu yako unapotembelea tovuti zozote za Mozilla (“Tovuti”), au mipasho, mitandao jamii, majarida, hifadhi za misimbo ya programu na barua pepe husika (pamoja na Tovuti, kwa jumla zinarejelewa kama “Mawasiliano”). Kwa kupata Mawasiliano au kujisajili ili kupokea Mawasiliano, unakubali kufuata Sheria na Masharti haya.
 
 Tovuti zetu zinajumuisha vikoa anuwai kama vile mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org na webmaker.org. Pia unaweza kutambua Tovuti zetu kwa majina ya lakabu kama vile Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, na AMO.
 Baadhi ya tovuti zetu zinaunganisha kwako kwa viungo, programu au viongezo ambavyovimetolewa na mashirika mengine na zinazingatia Masharti tofauti.
@@ -30,14 +30,18 @@ Baadhi ya Maudhui kwenye Mawasiliano yetu yanapatikana kutoka kwenye vyanzo amba
 
 * Baadhi ya maudhui yanaashiria kwa kujieleza kuwa mwandishi hakusudii leseni wazi kutekelezwa.  Unafaa kuwasiliana na mwandishi au wakala wa mwandishi kwa idhini ya matumizi ya Maudhui hayo. Maswali kuhusu maudhui ya Mozilla yaliyoandikwa yanaweza kutumwa kwa: licensing@mozilla.org.
 * Baadhi ya Maudhui yana alama za biashara, nguo za biashara, nembo na chapa ya mali ya Mozilla na mashirika mengine (“Alama za biashara”). Isipokuwa kwa matukia machache yaliyowekewa vipimo, Alama za biashara haziwei kutumiwa bila idhini ya maandishi ya mwanzo ya mmiliki wa Alama ya biashara.  [Learn more on Mozilla trademarks.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Programu iliyotumiwa na Tovuti zetu imetolewa leseni chini ya MPL ua leseni sawa za chanzo wazi.  Kwa maelezo zaidi kuhusu leseni maalum, tafadhali tazama hazina ya GitHub. 
+* Programu inayotumiwa na Tovuti imeidhinishwa kupitia leseni za MPL au leseni husika za programu huria. Kwa maelezo zaidi kuhusu leseni mahususi, tafadhali angalia misimbo husika ya programu au hifadhi husika ya GitHub.
 
 
 #### 4\. Mawasilisho ya Maudhui
 
-Unaweza kuchangua Maudhui wakati unaposhirikiana kwa Mawasiliano yetu, ikijumuisha lakini bila vipimo vya kutoa maoni kwenye makala, kublogu, msimbo wa kuchangia, au michoro ya kuchangia au nyenzo zilizoandikwa (kila moja “Wasilisho”).
+Unaweza kuchangia Maudhui unapotumia Mawasiliano yetu, ikiwa ni pamoja na kutoa maoni kuhusu makala, kuandika blogu, kuchangia msimbo au kuchangia nyenzo za picha au za maandishi (kila mojawapo ni “Wasilisho”). Isipokuwa Wasilisho lako liwe chini ya mkataba tofauti wa Mozilla, hali ambapo mkataba huo utatumika, basi
    
-Unakubaaliana na yafuatayo kuhusiana na kila Uwasilishaji:
+Kuhusu Mawasilisho yanayotumwa kwenye miradi ya Mozilla ya programu huria:
+
+* Unakubali kuidhinisha Wasilisho lako chini ya sheria na masharti ya leseni husika ya mradi mahususi wa programu huria ambako unachangia. Kwa maelezo zaidi kuhusu leseni mahususi, tafadhali angalia misimbo husika ya programu au hifadhi husika ya GitHub.
+
+Kwa Mawasilisho mengine yote, unakubaliana na mambo yafuatayo kulingana na kila:
 
 * Unawakilisha na kuthibitisha kuwa Wasilisho lako litazingatia Masharti haya, [Kanuni za Matumizi za Mozilla](https://www.mozilla.org/about/legal/acceptable-use/), na masharti yoyote ya ziada ambayo yanaweza kulinda Wasilisho lako.
 * Unatupa leseni isiyo ya kipekee, isiyo ya kifahari, ya ulimwengu, leseni ndogo (kwa hizo tunazofanya kazi nazo) ili kutumia Uwasilishaji wako kwenye muunganisho kwa Mawasiliano na utangazaji wa mtandaoni na nje ya mtandao wa lengo la Mozilla, bidhaa na huduma.

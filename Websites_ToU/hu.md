@@ -1,13 +1,13 @@
 # Webhelyekre és közleményekre vonatkozó Felhasználási feltételek
 
-2014\. október 15\.
+2016. június 23.
 
 ### Felhasználási feltételek
 
 
 #### 1\. Bevezetés
 
-Kérjük, hogy figyelmesen olvassa el a teljes dokumentumot („Feltételek”), mivel ez ismerteti az Ön jogait és kötelezettségeit a Mozilla webhelyek („Webhelyek”) vagy a kapcsolódó hírcsatornák, közösségi oldalak, hírlevelek and emailek használata során (együttes megnevezésük a Webhelyek, mindegyikre „Közlemények” néven hivatkozunk). A Közleményekhez való hozzáféréssel vagy azok fogadásával Ön saját magára kötelező érvényűnek fogadja el a jelen Feltételeket.
+Kérjük figyelmesen olvassa el ezt a dokumentumot („Feltételek”), amely ismerteti, hogy milyen jogai és kötelezettségei vannak Önnek, amikor meglátogatja a Mozilla valamelyik webhelyét („Webhelyek”), vagy megnyit egy kapcsolódó hírfolyamot, közösségi oldalt, hírlevelet, forráskódtárat vagy e-mailt (a Webhelyekkel együtt: „Kommunikációk”). Azzal, hogy megnyitja ezeket a Kommunikációkat vagy kéri rendszeres küldésüket, Ön elfogadja ezeket a Feltételeket.
 
 Az általunk működtetett webhelyek körébe tartoznak a következő domainek: mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org és a webmaker.org. Webhelyeinkkel a következő beceneveken is találkozhat: Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO és AMO.
 Némelyik webhelyünk kapcsolódhat harmadik fél által biztosított linkhez, alkalmazáshoz vagy bővítő eszközhöz, ezekre külön Feltételek vonatkoznak.
@@ -30,14 +30,18 @@ A Közleményinkben szereplő tartalmak egy része olyan forrásokból származi
 
 * Némely tartalom kifejezetten jelzi, hogy a szerzőnek nem áll szándékában nyitott licencet alkalmazni.  Az ilyen tartalmak használatához vegye fel a kapcsolatot a szerzővel vagy annak képviselőjével. A Mozilla által engedélyezett tartalom esetén kérdésit ide címezze: licensing@mozilla.org.
 * Bizonyos Tartalmak a Mozilla és harmadik felek tulajdonát képező védjegyeket, kereskedelmi arculatot, logókat és márkaeszközöket tartalmaznak („Védjegyek”). Pár korlátozott eset kivételével a Védjegyeket tilos felhasználni a Védjegy tulajdonosának előzetes írásbeli hozzájárulása nélkül.  [További információk a Mozilla védjegyeiről.](https://www.mozilla.org/foundation/trademarks/policy/)
-* A Webhelyeink által használt szoftver alkalmazása az MPL vagy más hasonló mértékben megengedő licenc alapján történik.  Az adott licencekkel kapcsolatos információkért kérjük, tekintse meg a GitHub tárházat. 
+* A Webhelyeink által használt szoftvereket az MPL vagy valamely hasonlóan megengedő nyílt forrású licenc alapján használjuk. Konkrét licencekkel kapcsolatban az adott forráskódtár vagy GitHub-tár nyújt további információt.
 
 
 #### 4\. Tartalom Feltöltések
 
-A Tartalmakhoz Ön is hozzájárulhat, amikor Közleményeinkkel lép interakcióba, beleértve például az egyes cikkhez írt hozzászólásokat, a blogok vezetését, kóddal, grafikával vagy írásos anyaggal történő hozzájárulást (mindegyik: „Feltöltés” a továbbiakban).
+Ön Tartalmakkal is hozzájárulhat a Kommunikációkhoz, többek között megjegyzést fűzhet egy cikkhez, blogolhat, valamint kódot, grafikai elemet vagy írott anyagot oszthat meg („Benyújtott anyag”). Ha a Benyújtott anyagra nem vonatkozik a Mozillával kötött külön megállapodás, amely ilyen esetben irányadó, akkor
+   
+A Mozilla nyílt forrású projektjeivel kapcsolatban:
 
-Ön minden Feltöltésre vonatkozóan elfogadja a következőket:
+* Ön elfogadja, hogy Benyújtott anyagát az adott nyílt forrású projekthez tartozó licencre vonatkozó feltételekkel licenceli. Konkrét licencekkel kapcsolatban az adott forráskódtár vagy GitHub-tár nyújt további információt.
+
+Minden más Benyújtott anyag tekintetében Ön elfogadja a következő feltételeket:
 
 * Ön ezúton kijelenti és garantálja, hogy az Ön Feltöltése megfelel ezeknek a Feltételeknek, a Mozilla [Felhasználási feltételeknek](https://www.mozilla.org/about/legal/acceptable-use/), és bármely további feltételnek, amely vonatkozhat az Ön Feltöltésére.
 * A Feltöltéssel nem kizárólagos, jogdíjmentes, az egész világra kiterjedő, licencbe adható (azoknak, akikkel együtt dolgozunk) engedélyt ad számunkra Feltöltésének a Közleményekkel kapcsolatos felhasználására, valamint a Mozilla küldetésének, termékeinek és szolgáltatásainak offline promóciójára.
@@ -96,7 +100,7 @@ A jelen Feltételek képezik a teljes megállapodást Közleményeinkkel kapcsol
 
 #### 13\. Kapcsolat
 
-Mozilla Corporation  
+Mozilla
 Címzett: Mozilla – Legal Notices  
 331 E. Evelyn Ave.,  
 Mountain View, CA 94041  

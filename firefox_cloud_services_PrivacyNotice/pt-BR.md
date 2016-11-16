@@ -1,7 +1,7 @@
 # Aviso de privacidade do Firefox Cloud Services
 
-17 de julho de 2015
-{: datetime="2015-07-17" }
+16 de agosto de 2016
+{: datetime="2016-08-16" }
 
 Sua privacidade é importante para nós. Quando o Firefox Cloud Services (os "Serviços") envia informações para a Mozilla (ou seja, para nós), nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma usamos essas informações.
 
@@ -9,9 +9,13 @@ Sua privacidade é importante para nós. Quando o Firefox Cloud Services (os "Se
 
 Você envia diferentes tipos de dados para nós dependendo de quais recursos dos Serviços você utiliza.
 
-* **Conta Firefox**: Quando você cria uma conta, recebemos seu endereço de e-mail e uma hash de sua senha. Além disso, como opção, você pode adicionar uma imagem de perfil. Se você escolher Gravatar, compartilharemos seu endereço de e-mail com Gravatar para obter sua imagem de perfil.
-* **Sync**: Caso você use o Sync, recebemos várias informações para sincronizar suas abas, barra de endereços inteligente, senhas, favoritos, preferências do navegador e outros dados entre os dispositivos.
-* **Encontre Meu Dispositivo**: Quando você ativa a função Encontre Meu Dispositivo, recebemos a localização aproximada do seu dispositivo apenas quando você entra na sua conta do Firefox e solicita especificamente que localizemos um dispositivo conectado.  Enquanto estiver conectado, você poder ver as últimas localizações conhecidas do seu dispositivo em um mapa.  Nós apagamos essas localizações regularmente e não coletaremos outras localizações até que você nos peça.
+* **Endereço de e-mail**: Ao criar uma conta do Firefox, recebemos seu endereço de e-mail e um hash da sua senha. Além disso, você pode adicionar uma imagem de perfil ou usar um Gravatar (nesse caso, compartilharemos seu endereço de e-mail com o Gravatar para obter sua imagem de perfil).
+
+* **Sincronização**: Se você habilitar a Sincronização, receberemos os dados sincronizados entre seus dispositivos (que podem incluir guias do Firefox, add-ons, senhas, favoritos, histórico e preferências) em formato criptografado. Embora não seja possível descriptografar esse conteúdo, use uma senha forte para evitar acesso não autorizado aos seus dados sincronizados. Também armazenamos informações sobre o sistema operacional e a versão do Firefox do seu dispositivo para mostrar quais deles estão sincronizados com sua conta. 
+
+* **Dados de localização**: Para fins de segurança, armazenamos os endereços IP que você usa para acessar sua conta do Firefox para obter uma aproximação da sua cidade ou do seu país. Usamos esses dados para enviar a você alertas por e-mail caso detectemos atividades suspeitas, como logins na conta de outras localidades.
+    
+	* **Encontrar meu dispositivo**: Se você habilitar o recurso Encontrar meu dispositivo, receberemos a localização aproximada do seu dispositivo somente quando você fazer login na sua conta do Firefox e solicitar especificamente que localizemos um dispositivo conectado. Quando estiver conectado, você poderá ver as últimas localizações conhecidas do seu dispositivo em um mapa. Nós regularmente excluímos essas localizações e não coletamos outras enquanto você não solicitar.
 
 ---------------------------------------
 

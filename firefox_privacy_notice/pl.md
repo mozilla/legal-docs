@@ -1,6 +1,6 @@
 # Zasady prywatności przeglądarki Firefox
 
-15.04.2014
+24 czerwca 2016 r.
 {: datetime="2014-04-15" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Gdy przeglądarka Firefox przesyła informacje do firmy Mozilla (to my), sposób ich wykorzystania przez nas reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
@@ -59,7 +59,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 * **Wyszukiwarka domyślna**
 {: #thirdparty }
 
-	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie.
+	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie. [Tutaj dowiesz się więcej](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), w tym jak wyłączyć tę funkcję.
 
 ---------------------------------------
 
@@ -95,3 +95,6 @@ Jeśli użytkownik o to poprosi, Firefox łączy się także z firmą Mozilla,
 {: #push-notifications }
 
 	Powiadomienia wypychane umożliwiają witrynom wysyłanie powiadomień i aktualizacji, jeśli użytkownik wyrazi na to zgodę. Aby otrzymywać powiadomienia, Firefox wysyła do firmy Mozilla informacje o witrynach, z których użytkownik zgodził się je otrzymywać. Informacje te przechowujemy w formie zanonimizowanej wraz z liczbą powiadomień, które wysyła użytkownikowi każda z witryn. Aby pomóc programistom lepiej wykorzystywać powiadomienia wypychane, Mozilla może udostępniać niektórym programistom zagregowane dane, w tym liczbę użytkowników odwiedzających witrynę, którzy zasubskrybowali jej powiadomienia wypychane lub anulowali ich subskrypcję. Powiadomieniami wypychanymi w Firefoksie można zarządzać, wykonując [te instrukcje](https://support.mozilla.org/kb/push-notifications-firefox).
+
+Poza wskazanymi wyjątkami te zasady prywatności dotyczą najnowszej wersji ogólnie dostępnego wydania przeglądarki Firefox. Wersje przedpremierowe (Beta, Aurora/Developer Edition, Nightly i TestFlight) są w trakcie aktywnych prac rozwojowych i mogą zawierać nowe funkcje lub podlegać innym zasadom prywatności. Wersje przedpremierowe automatycznie wysyłają do firmy Mozilla [dane telemetryczne](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html), które pomagają ulepszać przeglądarkę Firefox.
+{: #pre-release }
