@@ -1,6 +1,6 @@
 # Uslovi korišćenja
 
-Nije dozvoljeno da koristite usluge i proizvode kompanije Mozilla za sledeće:
+Nije dozvoljeno da koristite usluge kompanije Mozilla za sledeće:
 
 * Bilo kakve nelegalne radnje ili kršenje važećih zakona na bilo koji način
 * Pretnje, uznemiravanje, ili kršenje prava na privatnost drugih; slanje neželjenih 
