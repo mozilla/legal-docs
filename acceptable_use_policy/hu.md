@@ -1,6 +1,6 @@
 # Felhasználási feltételek
 
-A Mozilla szolgáltatásai és termékei nem használhatók a következőkre:
+A Mozilla egyik szolgáltatását sem használhatja a következőkre:
 
 * Bármilyen módon törvénybe ütköző vagy az érvényes törvényeket sértő cselekedet.
 * Mások adatvédelmi jogainak fenyegetése, adatokkal kapcsolatos zaklatás vagy törvénysértés; 
