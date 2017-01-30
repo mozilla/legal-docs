@@ -1,6 +1,6 @@
 # Podmínky používání
 
-Služby a produkty společnosti Mozilla nesmíte používat k:
+Žádnou ze služeb spolecnosti Mozilla nesmíte využívat k:
 
 * žádným nezákonným aktivitám ani jinému porušování platných právních předpisů,
 * ohrožování, obtěžování či porušování práva na soukromí druhých osob;
