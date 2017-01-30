@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Kuki
 
-14 Maret 2016
-{: datetime="2015-03-18" }
+23 Januari 2017
+{: datetime="2017-01-23" }
 
 Kami peduli dengan privasi Anda. Jika Mozilla (yaitu kami) mengumpulkan informasi tentang Anda, [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan cara kami menangani informasi tersebut.
 
@@ -38,7 +38,7 @@ Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan al
 * **Metrik**: GIF transparan, cookie dan layanan pihak ketiga membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, media komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
     * Google Analytics, yang menempatkan cookie di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
     * Optimizely dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
-    * Flashtalking, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program pemasaran iklan kami.
+    * DoubleClick, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program pemasaran iklan kami.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki
 
 * **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan lewat bagian kaki email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/). Anda dapat menonaktifkan fungsionalitas gambar GIF transparan dengan melihat email dari kami dalam format "teks saja".
 
-* **Analitika & Optimalisasi**: Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh Google Analytics, Anda dapat menginstal [Add-on Browser Penghentian Berlangganan Google Analytics](https://tools.google.com/dlpage/gaoptout). Add-on ini menjadikan kunjungan Anda bersifat anonim dan melarang transmisi data ke Google Analytics.
-Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh Optimizely, Anda bisa [memilih berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [situs web berhenti berlangganan Optimizely](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya. Jika Anda tidak ingin data kunjungan Anda ke situs web Mozilla dikumpulkan oleh ShareProgress, Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Beberapa halaman Mozilla.org juga menggunakan gambar GIF yang jelas untuk memahami keefektifan program pemasaran iklan kami.  Anda bisa berhenti berlangganan dengan membuka bagian “Your Choices” (“Pilihan Anda”) dari [Kebijakan Privasi Flashtalking](http://www.flashtalking.com/us/privacypolicy) dan memilih “Click here to opt-out” (“Klik di sini untuk berhenti berlangganan”).
+* **Analitika & Optimalisasi**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
+   *  Google: Instal [Add-on Browser Penghentian Berlangganan Google Analytics](https://tools.google.com/dlpage/gaoptout), yang membuat kunjungan Anda bersifat anonim dan melarang transmisi data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami keefektifan program pemasaran kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick dalam pengaturan iklan Google (Anda akan diminta masuk ke Akun Google Anda).
+   *  Optimizely: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [Situs web berhenti berlangganan Optimizely](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya. 
+   *  ShareProgress: Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media Sosial**: Tombol berbagi sosial pada situs web Mozilla dirancang untuk tidak berbagi data dengan penyedia media sosial hingga Anda secara benar-benar mengeklik tombol tersebut.
 
