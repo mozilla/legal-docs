@@ -1,7 +1,7 @@
 # ウェブサイト、コミュニケーションおよび Cookie プライバシーに関する通知
 
-June 1, 2015
-{: datetime="2015-06-01" }
+2017年1月23日
+{: datetime="2017-01-23" }
 
 ［この文書は、日本のFirefoxブラウザのユーザ等の便宜を図るために掲載している、Websites, Communications & Cookies Privacy Noticeの参考訳です。］
 
@@ -40,7 +40,7 @@ Mozillaは、機能性の向上、並びに Mozilla の製品、サービスお�
 * **メトリクス**: クリア GIF、Cookie、第三者によるサービスは、ユーザが Mozilla の製品、サービス、コミュニケーション、ウェブサイト、オンラインキャンペーン、スニペット、デバイス、およびその他のプラットフォームをどのように利用しているかを総体的に把握するのに役立ちます。Mozilla では、以下のものを使用しています。
     * Cookie をユーザのデバイスに設定し、ユーザが Mozilla のウェブサイトにどの程度関与しているかの基準を得るための Google アナリティクス。この機能は、Mozilla がウェブサイトのコンテンツを改善するのに役立ちます。  
     * Cookie をユーザのデバイスに設定し、ウェブコンテンツのバリエーションをテストするのに役立つ Optimizely および ShareProgress。この機能は、Mozilla がより良いウェブ経験をユーザに提供するのに役立ちます。
-    * ダウンロードした Firefox ページ上でクリア GIF を使用する Flashtalking。この機能は、Mozilla が広告キャンペーンの効果を把握するのに役立ちます。
+    * DoubleClick：当社のダウンロードFirefoxページでクリアGIFを使用します。これは、広告キャンペーンの効率を図るのに役立ちます。
 
 ---------------------------------------
 
@@ -54,11 +54,10 @@ Mozillaは、機能性の向上、並びに Mozilla の製品、サービスお�
 
 * **電子メール**：皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla電子メール設定](https://www.mozilla.org/newsletter/recovery/)を通じて受信を中止することができます。皆様は、Mozilla からの電子メールを「テキスト専用」形式で閲覧することによって、クリア GIF の機能を無効化することができます
 
-* **解析および最適化**：Google アナリティクスによって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様は[Google アナリティクス オプトアウト アドオン](https://tools.google.com/dlpage/gaoptout)をインストールすることができます。このアドオンにより、皆様の閲覧情報は匿名化され、Google アナリティクスへのデータ送信は行われなくなります。
-Optimizely によって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様は www.mozilla.org 上でオプトアウトできます。詳細については、Optimizely のオプトアウトウェブサイトをご覧ください。
-ShareProgress によって Mozilla ウェブサイトの閲覧情報を収集されたくない場合、皆様はお使いのブラウザでトラッキング拒否機能を有効にできます。
-Mozilla.org ページの中には、クリア GIF を利用して、Mozilla の広告キャンペーンの効果を把握しようとしているものがあります。
-この機能は、Flashtalkingのプライバシーポリシーへ行き、「オプトアウトするためにはここをクリックしてください（Click here to opt-out）」を選択することで、オプトアウトすることができます。
+* **解析および最適化**：Mozillaウェブサイトの閲覧情報を収集されたくない場合は、以下の手順に従ってください：
+   *  Google：[Googleアナリティクスオプトアウトアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、皆様の閲覧情報は匿名化され、Googleアナリティクスへのデータ送信は行われなくなります。一部のMozilla.orgページでは、 広告キャンペーンの有効性を理解するためにDoubleClickと通信するクリアGIFが使われています。皆様は、Googleの広告設定でDoubleClickからのパーソナライズ化された広告を制御できます（お持ちのGoogleアカウントにサインインするよう求められます）。
+   *  Optimizely：[www.mozilla.orgでオプトアウト](https://www.mozilla.org/?optimizely_opt_out=true)するか、[Optimizelyのオプトアウトウェブサイト](https://www.optimizely.com/opt_out)で詳細をご覧ください。
+   *  ShareProgress：[お使いのブラウザで追跡されないようにする機能を有効にできます](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
 
 * **ソーシャルメディア**：Mozilla のウェブサイトにおけるソーシャルメディア共有ボタンは、皆様がこれを明確にクリックしない限り、ソーシャルメディアプロバイダとデータを共有しないように設計されています。
 
