@@ -1,7 +1,7 @@
 # Avis de confidentialité relatif aux sites Web, communications et cookies
 
-14 mars 2016
-{: datetime="2015-03-18" }
+23 janvier 2017
+{: datetime="2017-01-23" }
 
 Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations vous concernant, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) décrit la façon dont nous gérons ces informations.
 
@@ -38,7 +38,7 @@ Nous utilisons des cookies, pixels transparents ou invisibles (clear GIF), analy
 * **Mesures** : Les pixels transparents (clear GIF), les cookies et les services tiers nous aident à comprendre comment les utilisateurs interagissent avec nos produits, services, communications, sites Web, campagnes en ligne, snippets, appareils et autres plateformes. Nous utilisons les outils suivants :
     * Google Analytics, qui installe un cookie sur votre appareil, afin d'obtenir des données sur la manière dont les utilisateurs interagissent avec nos sites Web.      Cela nous aide à améliorer le contenu de nos sites.  
     * Optimizely et ShareProgress, qui installent un cookie sur votre appareil, pour nous aider à tester des variantes de notre contenu Web.  Cela nous permet de proposer une meilleure expérience Web à nos utilisateurs.
-    * Flashtalking, qui utilise un pixel transparent sur notre page de téléchargement Firefox.  Cela nous aide à mesurer l'efficacité de nos campagnes commerciales.
+    * DoubleClick, qui utilise un GIF invisible sur notre page de téléchargement Firefox.  Cela nous aide à mesurer l'efficacité de nos campagnes commerciales.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Vous pouvez garder le contrôle sur vos préférences individuelles en matière 
 
 * **Courrier électronique** : Nos communications marketing sont facultatives et vous pouvez vous désabonner en bas de la page du courrier électronique ou en mettant à jour vos [préférences de courrier électronique Mozilla](https://www.mozilla.org/newsletter/recovery/). Vous pouvez désactiver la fonctionnalité des pixels transparents ou invisibles (clear GIF) en affichant les courriers électroniques que nous envoyons au format « texte seulement ».  
 
-* **Analyse et optimisation** : Si vous ne souhaitez pas que Google Analytics recueille de données sur vos visites de sites Web de Mozilla, vous pouvez installer le [module de non-adhésion de Google Analytics](https://tools.google.com/dlpage/gaoptout). Ce module vous permet de rendre anonymes vos visites et empêche la transmission de données à Google Analytics.
-Si vous ne souhaitez pas que les données relatives à vos visites sur les sites Web de Mozilla soient collectées par Optimizely, vous pouvez [désactiver cette fonctionnalité sur www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou visiter [le site Web d'annulation d'Optimizely](https://www.optimizely.com/opt_out) pour plus d'informations. Si vous ne souhaitez pas que les données relatives à vos visites sur les sites Web de Mozilla soient collectées par ShareProgress, vous pouvez choisir l'option [Ne pas me pister](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) dans les paramètres de Vie privée de votre navigateur. Certaines pages de Mozilla.org utilisent des GIF invisibles pour évaluer l'efficacité de nos campagnes publicitaires.  Vous pouvez annuler en accédant à la section « Your Choices » de [Flashtalking Privacy Policy](http://www.flashtalking.com/us/privacypolicy), puis en sélectionnant « Click here to opt-out ».
+* **Analyse et optimisation**: Si vous ne souhaitez pas que les données relatives à vos visites sur les sites Web de Mozilla soient collectées, procédez comme suit :
+   *  Google: Installez le [module de non-adhésion de Google Analytics](https://tools.google.com/dlpage/gaoptout). Ce module vous permet de rendre anonymes vos visites et empêche la transmission de données à Google Analytics. Certaines pages de Mozilla.org utilisent des GIF invisibles qui communiquent avec DoubleClick pour évaluer l'efficacité de nos campagnes publicitaires ; vous pouvez contrôler les annonces personnalisés de DoubleClick dans les paramètres des publicités de Google (il vous sera demandé de vous connecter à votre compte Google).
+   *  Optimizely : [Pour annuler, rendez-vous sur www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou le [site Web d'annulation de Optimizely](https://www.optimizely.com/opt_out) pour plus d'informations. 
+   *  ShareProgress : Vous pouvez [activer l'option Ne pas me pister dans votre navigateur](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Médias sociaux** : Les boutons de partage social sur les sites Web de Mozilla sont conçus pour ne communiquer des données avec le fournisseur de médias sociaux que lorsque vous avez spécifiquement cliqué sur le bouton.
 
