@@ -1,7 +1,7 @@
 # Obaveštenje o privatnosti po pitanju sajtova, komunikacije i kolačića
 
-14. mart, 2016
-{: datetime="2014-08-27" }
+23. januar, 2017.
+{: datetime="2017-01-23" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
 
@@ -35,7 +35,7 @@ Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i 
 * **Podaci**: Čisti GIF-ovi, kolačići i servisi treće strane nam pomažu da razumemo zbirno kako korisnici koriste naše proizvode, servise, komunikacije, veb sajtove, internet kampanje, isečke, uređaje i druge platforme. Koristimo:
     * Google Analytics, koji postavlja kolačić na Vaš uređaj, kako bismo dobili podatke o interakciji korisnika sa našim veb sajtovima.      To nam pomaže da unapredimo sadržaj sajta.  
     * Optimizely i ShareProgress, koji postavljaju kolačić na Vaš uređaj, pomažu nam da testiramo varijacije veb sadržaja.  To nam pomaže da ponudimo bolje veb iskustvo korisnicima.
-    * Flashtalking, koji koristi čiste GIF-ove na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da izmerimo efektivnost naših reklamnih kampanja.
+    * DoubleClick, koji koristi prazan GIF na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da merimo efektivnost naših reklamnih kampanja.
 
 ---------------------------------------
 
@@ -48,8 +48,10 @@ Možete kontrolisati pojedinačna podešavanja kolačića, naznačiti drugima sv
 
 * **E-pošta**: Naša marketinška saopštenja su fakultativna i možete se odjaviti u dnu poruke e-pošte ili izmenom svojih [željenih podešavanja e-pošte za servis Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/). Možete isključiti funkciju praznih GIF-ova tako što ćete naše poruke e-pošte primati samo u tekstualnom formatu.  
 
-* **Analitika i optimizacija**: Ako ne želite da Google Analytics prikuplja podatke o vašim posetama sajtovima kompanije Mozilla, možete da instalirate dodatak za pretraživač [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout). Dodatak omogućava anonimnost vaših poseta i zabranjuje prenos podataka servisu Google Analytics.
-Ako ne želite da Optimizer prikuplja podatke o Vašim posetama veb sajtovima Mozilla, možete se [odjaviti na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili tako što ćete posetiti [Veb sajt za odjavu sa servisa Optimizely](https://www.optimizely.com/opt_out) za više informacija. Ako ne želite da ShareProgress prikuplja podatke o Vašim posetama veb sajtovima Mozilla, možete [uključiti opciju Ne prati (Do Not Track) u svom pregledaču](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Neke od stranica Mozilla.org koriste i čiste GIF-ove u cilju razumevanja efektivnosti naših reklamnih kampanja.  Možete se odjaviti tako što ćete otići na deo „Vaši izbori“ u okviru [Pravila privatnosti Flashtalking](http://www.flashtalking.com/us/privacypolicy) i odabrati „Kliknite ovde da se odjavite“.
+* **Analitika i optimizacija**: Pratite uputstva u nastavku da biste sprečili prikupljanje podataka o Vašim posetama veb sajtovima Mozilla:
+   *  Google: Instalirajte [Dodatak pretraživaču za odjavu od servisa Google Analytics](https://tools.google.com/dlpage/gaoptout), koji omogućava anonimnost Vaših poseta i zabranjuje prenos podataka servisu Google Analytics. Neke stranice Mozilla.org koriste prazne GIF-ove koji komuniciraju sa servisom DoubleClick kako bismo razumeli efektivnost naših reklamnih kampanja; možete da kontrolišete personalizovane reklame servisa DoubleClick u podešavanjima reklama kompanije Google (pojaviće se poruka da se prijavite na svoj Google nalog).
+   *  Optimizely: [Odjavite se na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posetite [veb sajt za odjavu servisa Optimizely](https://www.optimizely.com/opt_out) za više informacija. 
+   *  ShareProgress: Možete da [uključite opciju Ne pratite u svom pregledaču](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Društveni mediji**: Dugmad na sajtovima Mozilla za podelu sadržaja na društvenim mrežama osmišljena su tako da se podaci sa provajderima društvenih medija ne dele dok ne kliknete na dugme.
 
