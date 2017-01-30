@@ -1,6 +1,6 @@
 # Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
-14 martie 2016
+23 ianuarie 2017
 {: datetime="2015-06-01" }
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
@@ -37,8 +37,8 @@ Putem folosi cookie-uri, „clear GIF”-uri, date analitice web terțe, informa
 
 * **Indicatori metrici**: „Clear GIF”-urile, cookie-urile și serviciile terțe ne ajută să înțelegem în ansamblu modul în care utilizatorii abordează produsele, serviciile, comunicările, site-urile web, campaniile online, fragmentele (snippets), dispozitivele și alte platforme ale noastre. Noi folosim:
     * Google Analytics, care plasează un cookie pe dispozitivul dvs. pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web.      Acesta ne ajută să îmbunătățim conținutul site-urilor.  
-     * Optimizely și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră, ne ajută să testăm diferite variante de conținut web.   Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
-    * Flashtalking, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
+    * Optimizely și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră, ne ajută să testăm diferite variante de conținut web.   Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
+    * DoubleClick, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 
 * **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/). Puteți dezactiva funcționalitatea „clear GIF”-urilor prin vizualizarea e-mailurilor în format „numai text”.
 
-* **Statistici și optimizare**: Dacă nu doriți ca Google Analytics să colecteze date privind vizitele dvs. pe site-urile web Mozilla, puteți instala[suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout). Suplimentul păstrează anonime vizitele și interzice transmiterea de date către Google Analytics.
-Dacă nu doriți ca Optimizely să colecteze date despre vizitele dumneavoastră pe site-urile Mozilla, puteți [refuza acest lucru pe www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizitați [pagina de dezabonare Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. Dacă nu doriți ca ShareProgress să colecteze date despre vizitele dumneavoastră pe site-urile Mozilla, puteți [activa opțiunea „Nu mă urmări” în browser-ul dumneavoastră](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Unele pagini Mozilla.org folosesc și clear GIFs pentru a înțelege eficiența campaniilor noastre publicitare.   Puteți refuza navigând la secțiunea „Opțiunile dumneavoastră” din [Politica de confidențialitate a Flashtalking](http://www.flashtalking.com/us/privacypolicy) și selectând “Click here to opt-out” („Click aici pentru a refuza”).
+* **Statistici și optimizare**: Dacă doriți să opriți colectarea de date privind vizitele dvs. pe site-urile web Mozilla, urmați instrucțiunile de mai jos:
+   *  Google: Instalați [suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), care păstrează vizitele dvs. anonime și interzice transmiterea de date către Google Analytics. Unele pagini Mozilla.org folosesc clear GIFs, care comunică cu DoubleClick pentru a ne ajuta să înțelegem eficiența campaniilor noastre publicitare; puteți controla reclamele personalizate din DoubleClick utilizând setările Google pentru reclame (va trebui să vă conectați la contul dvs. Google).
+   *  Optimizely: [Puteți refuza colectarea datelor dvs. pe  www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizitați [pagina de dezabonare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații. 
+   *  ShareProgress: Puteți [activa opțiunea „Nu mă urmări” în browser-ul dumneavoastră](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Rețea socială**: Butoanele de partajare socială de pe site-urile web Mozilla sunt concepute pentru a nu partaja date cu furnizorii de rețele sociale până când nu se face clic pe buton.
 
