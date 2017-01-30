@@ -1,6 +1,6 @@
 # Uvjeti korištenja
 
-Mozilline usluge i proizvodi ne smiju se koristiti u sljedeće svrhe:
+Mozilline usluge ne smiju se koristiti za:
 
 * Sve nedopuštene svrhe ili one kojima se krše mjerodavni zakoni
 * Svrhe kojima se ugrožavaju, narušavaju ili krše prava privatnosti drugih osoba, 
