@@ -1,6 +1,6 @@
 # Condiciones de uso
 
-No se permite utilizar ninguno de los servicios y productos de Mozilla para:
+No se permite el uso de ninguno de los servicios de Mozilla para:
 
 * Actuar de forma ilegal o que incumpla, de cualquier otro modo, la legislación vigente.
 * Amenazar, comprometer o violar los derechos de privacidad de otros, enviar mensajes 
