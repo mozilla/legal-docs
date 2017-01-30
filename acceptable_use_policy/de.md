@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-Services und Produkte von Mozilla dürfen nicht für Folgendes verwendet werden:
+Services von Mozilla dürfen nicht für Folgendes verwendet werden:
 
 * Illegale Handlungen oder sonstige Verletzung geltender Gesetze
 * Bedrohung oder Belästigung Anderer oder Verletzung der Datenschutzrechte Dritter; 
