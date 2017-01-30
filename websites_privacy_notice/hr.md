@@ -1,7 +1,7 @@
 # Napomene o privatnosti za web-mjesta, komunikacije i kolačiće
 
-14. ožujka 2016.
-{: datetime="2014-08-27" }
+23. siječnja 2017.
+{: datetime="2017-01-23" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
@@ -35,7 +35,7 @@ Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adr
 * **Metrike**: Čisti GIF-ovi, kolačići i usluge treće strane pomažu nam u razumijevanju prikupljanja podataka o tome kako korisnici koriste naše proizvode, usluge i komunikacije, web-mjesta, mrežne kampanje, isječke, uređaje i druge platforme. Koristimo:
     * Google Analytics, koja postavlja kolačiće na vaš uređaj, za dobivanje metrika o tome kako koristite naše web stranice.      Ovo pomaže poboljšati sadržaj stranice.  
     * Optimizely i ShareProgress, koji postavlja kolačiće na vaš uređaj, pomaže nam testirati različite web sadržaje.  Ovo nam pomaže ponuditi bolje iskustvo korisnicima.
-    * Flashtalking, koji koristi čiste GIF-ove na našoj Firefox stranici za preuzimanje..  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje. 
+    * DoubleClick, koji koristi jasni GIF na našoj Firefox stranici za preuzimanje.  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje.
 
 ---------------------------------------
 
@@ -48,8 +48,10 @@ Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke
 
 * **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/). Možete onemogućiti funkciju čistih GIF-ova pregledom poruke e-pošte u samo tekstualnom formatu.  
 
-* **Analitike i optimizacija**: Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi Google Analytics, možete instalirati [Dodatak pregledniku za isključivanje usluge Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatak čuva anonimnost vaše posjete i zabranjuje prijenos podataka usluzi Google Analytics.
-Ako ne želite da podaci o vašoj posjeti Mozilla web-mjestima budu prikupljeni od strane Optimizely, možete [uključiti na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posjetiti [Web-mjesto za isključivanje Optimizelya](https://www.optimizely.com/opt_out). Ako ne želite da podatke o vašoj posjeti Mozilla web-mjestima prikupi ShareProgress, možete [ uključiti Ne prati u pregledniku](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Neke Mozilla.org stranice također koriste čiste GIF-ove za razumijevanje učinkovitosti naših kampanja za oglašavanje.  Možete isključiti u odjeljku „Vaš izbor” od [Flashtalking’s Politike o privatnosti](http://www.flashtalking.com/us/privacypolicy) i odabirom „Klikni ovdje za isključenje”.
+* **Analitike i optimizacija**: Slijedite upute u nastavku za sprječavanje prikupljanja podataka o posjetu na Mozilla Web-mjesta:
+   *  Google: Instalirajte [Dodatak pregledniku za isključivanje usluge Google Analytics](https://tools.google.com/dlpage/gaoptout), koji vaše posjete drži anonimnim i zabranjuje prijenos podataka na Google Analytics. Neke Mozilla.org stranice koriste jasne GIF-ove koji komuniciraju s DoubleClick za razumijevanje učinkovitosti našim kampanja za oglašavanje; možete kontrolirati prilagođene oglase iz DoubleClick u postavkama Google oglasa (od vas će se tražiti da se prijavite u Google račun).
+   *  Optimizely: [Isključite www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posjetite [Web-mjesto za isključivanje usluge Optimizely](https://www.optimizely.com/opt_out) za više informacija. 
+   *  ShareProgress: Možete [uključite u pregledniku Ne prati](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Društveni mediji**: Gumbi za društveno dijeljenje na Mozilla web-mjestima dizajnirani su tako da ne dijele podatke s poslužiteljem društvenih medija dok ne kliknete na gumb.
 
