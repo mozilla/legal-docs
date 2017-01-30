@@ -1,7 +1,7 @@
 # Aviso de Privacidade sobre sites, comunicação e cookies
 
-14 de março de 2016
-{: datetime="2015-03-18" }
+23 de janeiro de 2017
+{: datetime="2017-01-23" }
 
 Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
@@ -38,7 +38,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 * **Métricas**: GIFs claros, cookies e serviços de terceiros nos ajudam a entender, como um todo, como os usuários se engajam com nossos produtos, serviços, comunicações, sites, campanhas on-line, snippets, dispositivos e outras plataformas. Usamos:
     * O Google Analytics, que adiciona um cookie no seu dispositivo a fim de obter as métricas de engajamento dos usuários nos nossos sites.      Ele nos ajuda a melhorar o conteúdo do site.  
     * O Optimizely e o ShareProgress, que adicionam um cookie no seu dispositivo para nos ajudar a testar variações do conteúdo da web.  Ele nos ajuda a oferecer uma melhor experiência aos usuários.
-    * O Flashtalking, que usa um GIF claro no download do Firefox.  Ele nos ajuda a medir a eficácia das nossas campanhas de publicidade.
+    * O DoubleClick usa GIFs transparentes na nossa página de download do Firefox. Eles nos ajudam a medir a eficácia das nossas campanhas de publicidade.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 
 * **E-mail**: receber nossas comunicações de marketing é opcional e você pode cancelar a inscrição no rodapé do e-mail ou atualizando suas [preferências de e-mail do Mozilla](https://www.mozilla.org/newsletter/recovery/). É possível desativar a funcionalidade de GIFs transparentes ao exibir nossos e-mails no formato "somente texto".  
 
-* **Análises e otimização**: caso não deseje que os dados sobre suas visitas a sites da Mozilla sejam coletados pelo Google Analytics, é possível instalar o [Add-on do navegador para desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout). O complemento mantém o anonimato de suas visitas e proíbe a transmissão de dados para o Google Analytics.
-Caso você não queira que o Optimizely colete dados das suas visitas nos sites da Mozilla, [cancele em www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acesse [o site de cancelamento do Optimizely](https://www.optimizely.com/opt_out) para obter mais informações. Caso você não queira que o ShareProgress colete dados sobre suas visitas nos sites da Mozilla, [habilite a opção "Não me rastreie" no navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Algumas páginas Mozilla.org também usam GIFs claros para entender a eficácia das nossas campanhas de publicidade.  Cancele na seção "Suas opções" da seção [Política de Privacidade da Flashtalking](http://www.flashtalking.com/us/privacypolicy). Selecione "Clique aqui para cancelar".
+* **Análise e otimização**: siga as instruções abaixo para impedir a coleta de dados relacionados ao seu acesso aos sites da Mozilla:
+   *  Google: instale o [complemento de navegador de cancelamento do Google Analytics](https://tools.google.com/dlpage/gaoptout). Ele mantém suas visitas anônimas e impede a transmissão de dados ao Google Analytics. Algumas páginas da Mozilla.org usam GIFs transparentes, que se comunicam com o DoubleClick para entender a eficácia das nossas campanhas de publicidade. É possível controlar anúncios personalizados do DoubleClick nas configurações de anúncios do Google. Você deverá fazer login com sua Conta do Google.
+   *  Optimizely: [cancele em www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acesse [site de cancelamento do Optimizely](https://www.optimizely.com/opt_out) para obter mais informações. 
+   *  ShareProgress: é possível [ativar o recurso “Não rastrear” no navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Redes sociais**: os botões de compartilhamento em redes sociais dos sites da Mozilla foram desenvolvidos para não compartilhar os dados com o provedor da rede social até você realmente clicar no botão.
 
