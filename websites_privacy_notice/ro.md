@@ -1,7 +1,7 @@
 # Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
 23 ianuarie 2017
-{: datetime="2015-06-01" }
+{: datetime="2017-01-23" }
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
