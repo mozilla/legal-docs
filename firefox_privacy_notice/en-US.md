@@ -1,7 +1,7 @@
 # Firefox Browser Privacy Notice
 
-July 8, 2016
-{: datetime="2016-07-8" }
+November 8, 2016
+{: datetime="2016-11-8" }
 
 We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -66,10 +66,16 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
 
-* **Firefox for Android and Firefox for iOS**
+* **Referral and Campaign Tracking**
+{: #referraltracking }
 {: #thirdparty }
 
-	In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. This data allows us to attribute an install to a specific advertising channel and optimize marketing campaign strategies. You can [learn more here](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), including how to disable it.
+	To help understand and improve our marketing campaigns, Firefox may send “Referral Data” such as the website domain or advertising campaign that referred you to download and install Firefox.
+ 
+	On Android and iOS, Firefox sends Referral Data to our mobile analytics vendor, and also includes a Google advertising ID, IP address, timestamp, country, locale, operating system, and app version. Learn more [here](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), including how to disable this reporting.
+
+	On desktop, Firefox records and sends Referral Data to Mozilla as part of Firefox Health Report.  Learn more [here](https://support.mozilla.org/kb/desktop-privacy), including how to opt-out or disable this reporting.
+
 
 ---------------------------------------
 
