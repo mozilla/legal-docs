@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-November 8, 2016
-{: datetime="2016-11-08" }
+February 9, 2017
+{: datetime="2017-02-09" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -38,6 +38,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 * **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
     * Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
+    * DoubleClick, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
     * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
     * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
 
@@ -53,8 +54,10 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
 
-* **Analytics & Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
-If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can [opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information. If you do not want data about your visits to Mozilla websites to be collected by ShareProgress, you can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.  You can opt-out by going to the “Your Choices” section of [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) and selecting “Click here to opt-out”.
+* **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
+   *  Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which keeps your visits anonymous and prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).
+   *  Optimizely: [Opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information. 
+   *  ShareProgress: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). 
 
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
 

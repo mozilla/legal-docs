@@ -1,7 +1,7 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-14 marca 2016 r.
-{: datetime="2015-03-18" }
+23 stycznia 2017 r.
+{: datetime="2017-01-23" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -38,7 +38,7 @@ Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, kor
 * **Dane**: Przezroczyste pliki GIF, ciasteczka i narzędzia analityczne pomagają nam dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług oraz metod komunikacji w naszych witrynach, kampaniach internetowych, wstawkach, urządzeniach i na innych platformach. Używamy:
     * Google Analytics, które umieszcza ciasteczka na urządzeniu użytkownika, by uzyskać dane o sposobie korzystania przez użytkowników z naszych witryn.      Pomaga to nam ulepszać ich treść.  
     * Optimizely i ShareProgress, które to usługi umieszczają na urządzeniu użytkownika ciasteczka, by pomóc nam w testowaniu różnych wariantów zawartości internetowej.  Pozwala to nam oferować użytkownikom lepsze treści internetowe.
-    * Flashtalking, usługi, która używa przezroczystych plików GIF na stronie pobierania przeglądarki Firefox.  Pomaga to nam mierzyć skuteczność kampanii reklamowych.
+    * Firma DoubleClick, która używa przezroczystych plików GIF na naszej stronie pobierania przeglądarki Firefox.  Pomaga nam to w ocenie skuteczności naszych kampanii reklamowych.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 
 * **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/). Funkcjonalność przezroczystych plików GIF można wyłączyć, wyświetlając wiadomości od nas w formacie czysto tekstowym.
 
-* **Analityka i optymalizacja**: jeśli użytkownik nie chce, by usługa Google Analytics zbierała informacje o jego wizytach w witrynach firmy Mozilla, może zainstalować [dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout). Dodatek dba o anonimowość wizyt i uniemożliwia przesyłanie danych do usługi Google Analytics.
-Jeśli użytkownik nie chce, by usługa Optimizely zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [zrezygnować z tej usługi na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub przejść do [witryny rezygnacji z usługi Optimizely](https://www.optimizely.com/opt_out), gdzie znajdzie więcej informacji. Jeśli użytkownik nie chce, by usługa ShareProgress zbierała informacje o jego wizytach w witrynach firmy Mozilla, może [włączyć w przeglądarce funkcję Ograniczanie śledzenia](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Niektóre strony Mozilla.org wykorzystują także przezroczyste pliki GIF, by badać skuteczność naszych kampanii reklamowych.  Użytkownik może z tego zrezygnować, przechodząc do sekcji „Your Choices” (Twoje wybory) w dokumencie [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) (Polityka prywatności Flashtalking) i wybierając opcję „Click here to opt-out” (Kliknij tutaj, by zrezygnować).
+* **Analityka i optymalizacja**: Aby zapobiec zbieraniu danych o przeglądaniu witryn firmy Mozilla, wykonaj poniższe instrukcje:
+   *  Google: Zainstaluj [dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout), który zachowuje anonimowość przeglądania stron i uniemożliwia transmisję danych do Google Analytics. Niektóre strony Mozilla.org wykorzystują przezroczyste pliki GIF, które komunikują się z usługą DoubleClick, by umożliwić ocenę skuteczności kampanii reklamowych. Ustawienia personalizowanych reklam z usługi DoubleClick można zmienić w ustawieniach reklam Google (konieczne będzie zalogowanie się na konto Google).
+   *  Optimizely: [Zrezygnuj na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub przejdź do [witryny rezygnacji Optimizely](https://www.optimizely.com/opt_out), by uzyskać więcej informacji 
+   *  ShareProgress: Możesz [wyłączyć śledzenie w przeglądarce](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media społecznościowe**: przyciski społecznościowe w witrynach firmy Mozilla zostały zaprojektowane tak, by nie udostępniać żadnych danych dostawcom usług społecznościowych, dopóki nie kliknie ich użytkownik.
 

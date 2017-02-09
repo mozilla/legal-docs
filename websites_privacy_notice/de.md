@@ -1,7 +1,7 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-14\. März 2016
-{: datetime="2016-03-14" }
+23.01.2017
+{: datetime="2017-01-23" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -38,7 +38,7 @@ Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen
 * **Metriken**: Wir verwenden Zählpixel (Clear-GIFs), Cookies und Dienste von Drittanbietern, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
     * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren.      Dadurch können wir die Website-Inhalte verbessern.  
     * Optimizely und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können.  Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
-    * Flashtalking, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet.  Damit können wir die Effektivität unserer Werbekampagnen messen.
+    * DoubleClick, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet.  Damit können wir die Effektivität unserer Werbekampagnen messen.
 
 ---------------------------------------
 
@@ -52,8 +52,10 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 
 * **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen.  
 
-* **Analyse und Optimierung**: Wenn Sie nicht möchten, dass Daten zu Ihren Besuchen von Mozilla-Websites von Google Analytics erfasst werden, können Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout) installieren. Mithilfe des Add-ons bleiben Ihre Besuche anonym, und es werden keine Daten an Google Analytics übertragen.
-Wenn Sie nicht möchten, dass Optimizely Daten über Ihre Besuche auf Mozilla-Websites erfasst, können Sie dies [auf www.mozilla.org deaktivieren (Opt-out)](https://www.mozilla.org/?optimizely_opt_out=true) oder besuchen Sie die [Optimizely-Website für die Deaktivierung (Opt-out)](https://www.optimizely.com/opt_out), um nähere Informationen hierzu zu erhalten. Wenn Sie nicht möchten, dass ShareProgress Daten über Ihre Besuche auf Mozilla-Websites erfasst, können Sie [in Ihrem Browser die Option für das Nichtverfolgen aktivieren.](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Auf einigen Seiten verwendet Mozilla.org Clear GIFs, um mehr Erkenntnisse über die Wirksamkeit seiner Werbekampagnen zu erlangen.  Um sich hiervon abzumelden, gehen Sie in den [Datenschutzbestimmungen von Flashtalking](http://www.flashtalking.com/us/privacypolicy) zum Abschnitt "Ihre Opt-out Lösung" und klicken dort auf "Hier klicken, um sich ... abzumelden.".
+* **Analyse und Optimierung**: Folgen Sie den nachstehenden Anweisungen, um zu verhindern, dass Daten zu Ihren Besuchen auf Mozilla-Websites erfasst werden:
+   *  Google: Installieren Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout), mit dem Ihre Besuche anonym bleiben und das eine Datenübertragung an Google Analytics unterbindet. Manche Mozilla.org-Seiten verwenden Clear-GIFs, die mit DoubleClick kommunizieren, um Informationen über die Effektivität Ihrer Werbekampagnen einzuholen. Sie können personalisierte Anzeigen von DoubleClick in den Anzeigeeinstellungen von Google steuern (Sie werden aufgefordert, sich bei Ihrem Google-Konto anzumelden).
+   *  Optimizely: [Melden Sie sich per Opt-out auf www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ab oder besuchen Sie die [Opt-out-Website von Optimizely](https://www.optimizely.com/opt_out), um weitere Informationen zu erhalten. 
+   *  ShareProgress: Sie können [in Ihrem Browser Do Not Track aktivieren](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Social Media**: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für Social-Media-Anbieter freigegeben werden, wenn Sie auf die Schaltfläche klicken.
 

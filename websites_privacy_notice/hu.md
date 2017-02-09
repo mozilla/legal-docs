@@ -1,7 +1,7 @@
 # Webhelyekre, közleményekre és sütikre vonatkozó Adatvédelmi nyilatkozat
 
-2016. március 14.
-{: datetime="2014-08-27" }
+2017. január 23.
+{: datetime="2017-01-23" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](http://www.mozilla.org/en-US/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -35,7 +35,7 @@ Sütiket, clear GIF-eket, egyéb harmadik fél által üzemeltetett webes techno
 * **Mérések**: A „clear GIF-ek”, a sütik és a harmadik felek szolgáltatásai abban segítenek nekünk, hogy átfogó képet kapjunk arról, hogyan használják a felhasználók termékeinket, szolgáltatásainkat, kommunikációinkat, webhelyeinket, online kampányainkat, az oldalakról vett rövid részleteket (snippet), valamint eszközeinket és más platformjainkat. Az alábbi eszközöket használjuk:
     * Google Analytics – ez az eszköz egy sütit helyez el a felhasználók eszközén, melynek segítségével adatokat gyűjt azzal kapcsolatban, hogyan használják a felhasználók webhelyeinket.      Az adatok lehetővé teszik számunkra az oldalakon megjelenő tartalmak fejlesztését.  
     * Optimizely és ShareProgress – ezek az eszközök sütit helyeznek el a felhasználók eszközén, ami lehetővé teszi számunkra a webes tartalmak különböző változatainak tesztelését.  Az eredmények segítségével javíthatjuk a webes felhasználói élményt felhasználóink számára.
-    * Flashtalking – ez az eszköz „clear GIF-eket” használ a Firefox letöltésére szolgáló oldalunkon.  A clear GIF-ek mérhetővé teszik reklámkampányaink hatékonyságát.
+    * A DoubleClick, amely egy egyértelmű GIF-et használ a letöltési Firefox oldalunkon.  Ez segít lemérni a reklámkampányunk hatékonyságát.
 
 ---------------------------------------
 
@@ -48,8 +48,10 @@ Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja
 
 * **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/en-US/newsletter/recovery/) frissítésével. A clear GIF-ek működését letilthatja úgy, hogy a tőlünk kapott e-mail-eket „csak szöveg” formátumban tekinti meg. 
 
-* **Analitika és optimalizálás**: Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről a Google Analytics adatokat gyűjtsön, telepítheti a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) kiegészítőt. A kiegészítő segítségével látogatásai beazonosíthatatlanok maradnak, és a Google Analytics nem továbbíthat ezekkel kapcsolatos adatokat.
-Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről az Optimizely adatokat gyűjtsön, akkor küldje be [lemondását a www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) weboldalon, vagy további információkért keresse fel az [Optimizely lemondási oldalt](https://www.optimizely.com/opt_out). Ha nem szeretné, hogy az Ön által felkeresett Mozilla webhelyekről a ShareProgress adatokat gyűjtsön, [engedélyezheti a Ne kövessenek funkciót a böngészőjében](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Egyes Mozilla.org oldalak Clear GIF-eket is használnak reklámkampányaink hatékonyságának megértésére.  Ennek lemondásához látogasson el a [Flashtalking Privacy Policy](http://www.flashtalking.com/us/privacypolicy) oldalának „Your Choices” részére, és kattintson a „Click here to opt-out” lehetőségre.
+* **Analitika és optimalizálás**: Kövesse a lenti utasításokat, hogy megakadályozza az adatgyűjtést a Mozilla weboldalainak felkereséséről.
+   *  Google: Telepítse a [Google Analytics működését letiltó böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), amelynek köszönhetően névtelenek maradhatnak a látogatásai, és amely letiltja a Google Analytics számára történő adatátvitelt. Néhány Mozilla.org oldal egyértelmű GIF-eket használ, amelyek kommunikálnak a DoubleClick szolgáltatással a reklámkampányunk hatékonyságának felmérése érdekében; a személye szabott hirdetéseseket a DoubleClick révén szabályozhatja a Google hirdetésbeállításainál (be kell majd jelentkeznie a Google-fiókjába).
+   *  Optimizely: [Tiltsa le www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) vagy még több információért keresse fel az [Optimizely letiltási](https://www.optimizely.com/opt_out) weboldalát. 
+   *  ShareProgress: A böngészőjében bekapcsolhatja a [„Követés letiltása” funkciót](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Közösségi oldalak**: A Mozilla webhelyein a közösségi oldalakon történő megosztást szolgáló gombok célja az, hogy kizárólag azután ossza meg az adatait a közösségi oldal szolgáltatójával, miután rákattintott a gombra.
 

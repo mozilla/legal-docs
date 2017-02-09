@@ -1,6 +1,6 @@
 # Warunki użytkowania
 
-Usług ani produktów firmy Mozilla nie wolno używać w celu:
+Usług firmy Mozilla nie wolno używać w celu:
 
 * Prowadzenia nielegalnych działań ani naruszania obowiązującego prawa na inne sposoby.
 * Grożenia ani nękania innych osób, naruszania ich prawa do prywatności; wysyłania niezamówionych wiadomości ani przechwytywania, monitorowania lub modyfikowania wiadomości przeznaczonych dla innych osób.
