@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-January 23, 2017
-{: datetime="2017-01-23" }
+February 9, 2017
+{: datetime="2017-02-09" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -35,10 +35,12 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * IP addresses are used to customize communications by language and country.  
     * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
 
-* **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+* **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
     * Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
     * DoubleClick, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+    * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+    * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
 
 ---------------------------------------
 
@@ -48,7 +50,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
 {: #cookies }
 
-* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.
+* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](#data-tools) section.
 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
 
