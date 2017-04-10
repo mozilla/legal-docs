@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-February 27, 2017
-{: datetime="2017-02-27" }
+April 6, 2017
+{: datetime="2017-04-06" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -41,6 +41,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
     * Yahoo Dot Pixel, which uses JavaScript on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns. 
     * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
+    * Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
 ---------------------------------------
 
