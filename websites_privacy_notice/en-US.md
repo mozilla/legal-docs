@@ -68,4 +68,4 @@ You can control individual cookie preferences, indicate your cookie preferences 
 Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. 
 {: #donations }
 
-* **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.  For more information on our data practices with third party vendors, see our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+* **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
