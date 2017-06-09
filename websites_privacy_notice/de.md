@@ -1,7 +1,7 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-23.01.2017
-{: datetime="2017-01-23" }
+11. April 2017
+{: datetime="2017-04-11" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -39,6 +39,7 @@ Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen
     * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren.      Dadurch können wir die Website-Inhalte verbessern.  
     * Optimizely und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können.  Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
     * DoubleClick, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet.  Damit können wir die Effektivität unserer Werbekampagnen messen.
+    * Andere Metriken-Werkzeuge von Zeit zu Zeit auf experimenteller Basis. Wir können diese z. B. bereitstellen, um die Evaluierung eines neuen Metriken-Werkzeugs zu unterstützen oder eine vorhandene Metriken-Sammlung zu testen.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 In manchen Mozilla-Websites können Sie etwas kaufen (Apps oder Ausrüstung) oder Geld spenden. Diese Transaktionen werden von Dritten verarbeitet, nicht von Mozilla. 
 {: #donations }
 
-* **Zahlungsverarbeitung**:   Mozilla erhält keine Finanzdaten, die von Ihnen an unseren Drittanbieter zur Verarbeitung übertragen werden. Der Name des Dritten wird zum Zeitpunkt der Transaktion angezeigt.  Weitere Informationen über unsere Datenpraktiken in Bezug auf Drittanbieter finden Sie in unserer [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/).  
+* **Zahlungsverarbeitung**:   Mozilla erhält keine Finanzdaten, die von Ihnen an unseren Drittanbieter zur Verarbeitung übertragen werden. Der Name des Dritten wird zum Zeitpunkt der Transaktion angezeigt.
