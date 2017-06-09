@@ -1,7 +1,7 @@
 # Firefox-Browser – Datenschutz-Hinweis
 
-24.06.2016
-{: datetime="2014-04-15" }
+5. Juni 2017
+{: datetime="2017-06-05" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Firefox Daten an Mozilla (an uns) sendet, verarbeiten wir diese Daten wie in der [Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
 
@@ -29,7 +29,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * **Firefox-Statusbericht**
 {: #health-report .inproduct-link }
 
-	Der Firefox-Statusbericht hat den Zweck, Ihnen Einblicke in die Stabilität und Performanz Ihres Browsers zu gewähren und Ihnen Support-Tipps zu liefern, falls Probleme wie hohe Absturzraten oder langsame Starts auftreten. Mozilla erfasst Ihre Daten gemeinsam mit denen anderer Firefox-Benutzer, fasst diese zusammen und sendet sie zurück an Ihren Browser, damit Sie sehen können, wie sich Ihre Firefox-Performanz im Lauf der Zeit entwickelt. Diese Daten umfassen zum Beispiel: Gerätehardware, Betriebssystem, Firefox-Version, Add-ons (Anzahl und Typ), Verzögerung und Dauer von Browser-Ereignissen, Darstellung, Sitzungswiederherstellungen, Länge einer Sitzung, Alter eines Profils, Anzahl der Abstürze und Anzahl der Seiten. Der Statusbericht sendet Mozilla keine von Ihnen besuchten Internetadressen.
+	Firefox Health Report (FHR) dient dazu, Ihnen Informationen über die Stabilität und Leistung Ihres Browsers sowie Support-Tipps zu vermitteln, falls Probleme wie etwa hohe Absturzraten oder langsames Starten auftreten sollten. Mozilla erfasst und aggregiert Ihre Daten mit denen anderer Firefox-Benutzer und schickt sie zurück an Ihren Browser, damit Sie sehen, wie Ihre Firefox-Leistung sich im Lauf der Zeit ändert. Diese Daten umfassen u. a. Hardware, Betriebssystem, Firefox-Version, Add-ons (Anzahl und Typ), Zeitpunkt von Browser-Ereignissen, Darstellung, Sitzungswiederherstellungen, Länge der Sitzung, Interaktion mit Suchzugangsknoten und Verwendung von Firefox-Suchpartnercodes, wie alt ein Profil ist, Anzahl der Abstürze und Anzahl der Seiten. FHR sendet keine von Ihnen besuchten Mozilla-URLs.
 
 	Wir verwenden die über den Statusbericht gesendeten Daten dazu, Benutzern die mit dem Statusbericht verbundenen Funktionen bereitzustellen und Ihnen z. B. bei der Analyse und Behebung von Performanzproblemen mit Ihrem Browser zu helfen. Die Ergebnisse des Statusberichts benutzen wir in aggregierter Form auch zur Verbesserung von Firefox. Sie können die [Datenfreigabe deaktivieren](https://support.mozilla.org/de/kb/firefox-statusbericht-beurteilen-sie-effizienz#w_datenweitergabe-aktivieren-oder-deaktivieren).
 
@@ -56,10 +56,15 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 	Die Suchvorschläge sollen Ihnen helfen, von anderen Benutzern häufig verwendete Suchbegriffe zu ermitteln. Diese Suchvorschläge werden von den Standardsuchmaschinen (wie Google, Yahoo usw.) und nicht von Firefox angeboten. Wenn Sie diese Funktion aktivieren und Ihre Standardsuchmaschine Suchvorschläge unterstützt, kann Firefox die Begriffe, die Sie in die Intelligente Adressleiste oder in die Suchleiste eingeben, an Ihre Standardsuchmaschine senden, um Vorschläge abzurufen. Der Vorgang unterliegt dabei den geltenden Datenschutzrichtlinien Ihrer Standardsuchmaschine. [Hier erfahren Sie mehr über Suchvorschläge](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) und dazu, wie Sie sie aktivieren oder deaktivieren.
 
-* **Standardsuche**
+* **Verweis- und Kampagnenverfolgung**
+{: #referraltracking }
 {: #thirdparty }
 
-	Damit Sie die optimale Standard-Suchmaschine für Ihren Standort auswählen können, sendet Firefox einmal eine Anfrage an Mozilla, Ihren Standort auf Länderebene mithilfe Ihrer IP-Adresse zu suchen. Dann senden wir Informationen auf Landesebene zurück an Firefox, wo sie lokal gespeichert werden. Firefox wählt dann anhand der lokal gespeicherten Landesinformationen, welche Suchmaschine standardmäßig verwendet wird. Sie können [hier mehr erfahren](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), beispielsweise auch wie Sie dies deaktivieren können.
+	Damit Sie unsere Marketing-Kampagnen verstehen und verbessern können, kann Firefox „Verweisdaten“ wie z. B. die Website-Domain oder Werbekampagne senden, mit denen Sie auf das Herunterladen und Installieren von Firefox hingewiesen wurden.
+ 
+	Unter Android und iOS sendet Firefox Verweisdaten an Ihren Mobilgeräte-Analytikanbieter und schließt Google Advertising-ID, IP-Adresse, Zeitstempel, Land, Gebietsschema, Betriebssystem und App-Version mit ein. Weitere Informationen [hier](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), einschließlich Informationen zum Deaktivieren dieser Berichte.
+
+	In der Desktop-Version zeichnet Firefox Verweisdaten auf und sendet sie als Teil des Firefox Health Report an Mozilla. Weitere Informationen [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), einschließlich Informationen zum Opt-out oder Deaktivieren dieser Berichte.
 
 ---------------------------------------
 
