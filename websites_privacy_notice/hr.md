@@ -1,7 +1,7 @@
 # Napomene o privatnosti za web-mjesta, komunikacije i kolačiće
 
-23. siječnja 2017.
-{: datetime="2017-01-23" }
+11. travnja 2017.
+{: datetime="2017-04-11" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
@@ -36,6 +36,7 @@ Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adr
     * Google Analytics, koja postavlja kolačiće na vaš uređaj, za dobivanje metrika o tome kako koristite naše web stranice.      Ovo pomaže poboljšati sadržaj stranice.  
     * Optimizely i ShareProgress, koji postavlja kolačiće na vaš uređaj, pomaže nam testirati različite web sadržaje.  Ovo nam pomaže ponuditi bolje iskustvo korisnicima.
     * DoubleClick, koji koristi jasni GIF na našoj Firefox stranici za preuzimanje.  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje.
+    * Naši alati za povremeno mjerenje, na eksperimentalnoj osnovi. Primjerice, ovo možemo učiniti kako bismo pomogli ocijeniti novi alat za mjerenje ili provjeriti postojeću kolekciju za mjerenje.
 
 ---------------------------------------
 
@@ -60,4 +61,4 @@ Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke
 
 Neka Mozilla web-mjesta omogućuju vam kupovinu (poput aplikacija ili dodataka) ili donaciju. Ove transakcije obrađuje treća stana, ne Mozilla. {: #donations }
 
-* **Obrada plaćanja**:   Mozilla ne prima nikakve financijske informacije koje ste prenijeli našim dobavljačima treće strane radi obrade. Naziv treće strane prikazuje se prilikom transakcije.  Za više informacija o našem korištenju podataka s trećom stranom dobavljača pogledajte naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/).  
+* **Obrada plaćanja**:   Mozilla ne prima nikakve financijske informacije koje ste prenijeli našim dobavljačima treće strane radi obrade. Naziv treće strane prikazuje se prilikom transakcije.
