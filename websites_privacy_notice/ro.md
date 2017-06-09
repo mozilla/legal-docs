@@ -1,7 +1,7 @@
 # Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
-23 ianuarie 2017
-{: datetime="2017-01-23" }
+11 aprilie 2017
+{: datetime="2017-04-11" }
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
@@ -39,6 +39,7 @@ Putem folosi cookie-uri, „clear GIF”-uri, date analitice web terțe, informa
     * Google Analytics, care plasează un cookie pe dispozitivul dvs. pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web.      Acesta ne ajută să îmbunătățim conținutul site-urilor.  
     * Optimizely și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră, ne ajută să testăm diferite variante de conținut web.   Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
     * DoubleClick, care folosește un clear GIF pe pagina noastră Firefox de descărcare.  Acesta ne ajută să măsurăm eficiența campaniilor noastre publicitare.
+    * Din când în când, alte instrumente pentru obținerea de indicatori metrici, în modul experimental. De exemplu, este posibil să fie nevoie să evaluăm un alt instrument pentru obținerea de indicatori metrici, sau să testăm metodele existente pentru colectarea indicatorilor metrici. 
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 Unele site-uri web Mozilla vă permit să efectuați achiziții (precum aplicații sau accesorii) sau să faceți o donație. Aceste tranzacții sunt procesate de terți, nu de Mozilla. 
 {: #donations }
 
-* **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.  Pentru mai multe informații privind practicile noastre legate de date în raport cu furnizorii terți, consultați [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/).
+* **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.
