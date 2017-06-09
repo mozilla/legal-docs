@@ -1,7 +1,7 @@
 # Obaveštenje o privatnosti po pitanju sajtova, komunikacije i kolačića
 
-23. januar, 2017.
-{: datetime="2017-01-23" }
+11. april 2017.
+{: datetime="2017-04-11" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
 
@@ -36,6 +36,7 @@ Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i 
     * Google Analytics, koji postavlja kolačić na Vaš uređaj, kako bismo dobili podatke o interakciji korisnika sa našim veb sajtovima.      To nam pomaže da unapredimo sadržaj sajta.  
     * Optimizely i ShareProgress, koji postavljaju kolačić na Vaš uređaj, pomažu nam da testiramo varijacije veb sadržaja.  To nam pomaže da ponudimo bolje veb iskustvo korisnicima.
     * DoubleClick, koji koristi prazan GIF na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da merimo efektivnost naših reklamnih kampanja.
+    * Ostali alati za merenje, s vremena na vreme, eksperimentalnog tipa. Na primer, ovo možemo uraditi kao pomoć u proceni novog alata za merenje ili prilikom testiranja postojeće kolekcije merenja.
 
 ---------------------------------------
 
@@ -60,4 +61,4 @@ Možete kontrolisati pojedinačna podešavanja kolačića, naznačiti drugima sv
 Na nekim sajtovima Mozilla možete da izvršite kupovinu (npr. aplikacija ili opreme) ili da donirate novac. Ove transakcije obrađuje treća strana, a ne Mozilla. 
 {: #donations }
 
-* **Obrada plaćanja**:   Mozilla ne dobija nikakve finansijske podatke koji se prenose od vas prema trećoj strani radi obrade. Ime treće strane se prikazuje u vreme transakcije.  Za više informacija o tretmanu podataka u slučaju saradnje sa trećom stranom, pogledajte [Pravila privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/).  
+* **Obrada plaćanja**:   Mozilla ne dobija nikakve finansijske podatke koji se prenose od vas prema trećoj strani radi obrade. Ime treće strane se prikazuje u vreme transakcije.
