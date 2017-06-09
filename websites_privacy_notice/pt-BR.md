@@ -1,7 +1,7 @@
 # Aviso de Privacidade sobre sites, comunicação e cookies
 
-23 de janeiro de 2017
-{: datetime="2017-01-23" }
+11 de abril de 2017
+{: datetime="2017-04-11" }
 
 Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
@@ -39,6 +39,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
     * O Google Analytics, que adiciona um cookie no seu dispositivo a fim de obter as métricas de engajamento dos usuários nos nossos sites.      Ele nos ajuda a melhorar o conteúdo do site.  
     * O Optimizely e o ShareProgress, que adicionam um cookie no seu dispositivo para nos ajudar a testar variações do conteúdo da web.  Ele nos ajuda a oferecer uma melhor experiência aos usuários.
     * O DoubleClick usa GIFs transparentes na nossa página de download do Firefox. Eles nos ajudam a medir a eficácia das nossas campanhas de publicidade.
+    * Outras ferramentas de medição ocasionalmente, com base experimental. Por exemplo, para ajudar a avaliar uma nova ferramenta de medição ou testar uma coleção de métricas existentes.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos) ou doações. Essas transações são processadas por terceiros, e não pela Mozilla. 
 {: #donations }
 
-* **Processamento de pagamentos**:   a Mozilla não recebe nenhuma informação financeira sua que é transferida às nossas empresas terceirizadas para processamento. O nome da empresa terceirizada será exibido no momento da transação.  Para mais informações sobre nossas práticas com relação a dados e empresas terceirizadas, consulte nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/).
+* **Processamento de pagamentos**:   a Mozilla não recebe nenhuma informação financeira sua que é transferida às nossas empresas terceirizadas para processamento. O nome da empresa terceirizada será exibido no momento da transação.
