@@ -1,7 +1,7 @@
 # Politica de confidențialitate a browserului Firefox
 
-24 iunie 2016
-{: datetime="2014-04-15" }
+June 5, 2017
+{: datetime="2017-06-05" }
 
 Ne pasă de confidențialitatea dvs. Atunci când Firefox trimite informații la Mozilla (adică noi), [politica de confidențialitate](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm acele informații.
 
@@ -29,7 +29,7 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 * **Raportul de stare Firefox**
 {: #health-report .inproduct-link }
 
-	Raportul de stare Firefox (FHR) este conceput să vă ofere o privire de ansamblu asupra stabilității și perfomanței și ponturi dacă întâmpinați probleme, precum rată crescută de de defecțiuni sau timpi lenți de pornire. Mozilla colectează și agregă datele dvs. cu cele ale altor utilizatori Firefox și le trimite înapoi la browserul dvs. astfel încât să puteți vedea cum se schimbă performanța lui Firefox în timp. Aceste date includ, spre exemplu: hardware-ul dispozitivului, sistemul de operare, versiunea Firefox, suplimentele (numărul și tipul), cronologia evenimentelor din browser, randarea, restaurări ale sesiunilor, durata sesiunii, cât de vechi este un profil, numărul de defecțiuni și pagini. FHR nu trimite la Mozilla URL-uri pe care le vizitați.
+	Raportul de stare Firefox (FHR) este conceput să vă ofere o privire de ansamblu asupra stabilității și perfomanței browser-ului și ponturi dacă întâmpinați probleme, cum ar fi un număr mare de defecte sau întârzieri la pornire. Mozilla colectează și agregă datele dvs. cu cele ale altor utilizatori Firefox și le trimite înapoi la browserul dvs. astfel încât să puteți vedea cum se schimbă performanța browser-ului dvs. Firefox în timp. Aceste date includ, spre exemplu: hardware-ul dispozitivului, sistemul de operare, versiunea Firefox, suplimentele (numărul și tipul), cronologia evenimentelor din browser, randarea, restaurări ale sesiunilor, durata sesiunii, interacțiunea cu punctele de acces prin intermediul căutărilor si utilizarea codurilor de partener Firefox pentru căutare, cât de vechi este un profil, numărul de defecte și pagini. FHR nu trimite către Mozilla URL-urile pe care le vizitați.
 
 	Utilizăm datele trimite prin intermediul FHR pentru a furniza utilizatorilor cu funcționalitate FHR ajutor, spre exemplu, în analizarea și abordarea problemelor de performanță cu browserul dvs. Utilizăm, de asemenea, ceea ce descoperim din datele agregate ale FHR pentru a face Firefox mai bun. Puteți alege să [opriți partajarea de date](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -61,10 +61,15 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 
 	Sugestiile de căutare reprezintă o funcție care vă ajută să găsiți sintagme uzuale, pe care le-au mai căutat și alte persoane. Aceste sugestii de căutare sunt oferite de motoarele dvs. de căutare implicite (cum ar fi Google, Yahoo, etc.), și nu de Firefox. Dacă activați această funcție, și motorul dvs. de căutare implicit suportă sugestiile, Firefox poate să trimită termenii pe care îi scrieți în bara inteligentă sau în bara de căutare către motorul dvs. de căutare implicit, pentru a prelua sugestiile, iar această acțiune este supusă Politicii de Confidențialitate aplicabile respectivului motor de căutare implicit. Puteți [afla mai multe despre sugestiile de căutare aici](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), inclusiv cum să le activați sau dezactivați.
 
-* **Doar în cazul lui Firefox pentru Android**
+* **Referral și urmărirea campaniei**
+{: #referraltracking }
 {: #thirdparty }
 
-	Pentru a putea înțelege performanța anumitor campanii de marketing ale Mozilla, Firefox trimite date, inclusiv un identificator (ID) publicitar Google, adresă IP, marcaj de timp (timestamp), țara, limba/localizarea, sistemul de operare, versiunea aplicației către vânzătorul nostru terț. Aceste date ne permit să atribuim o instalare unui canal specific de publicitate și pentru a optimiza strategiile ce privesc campaniile de marketing. Puteți [afla mai multe aici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusiv cum să dezactivați această opțiune.
+	Pentru a putea înțelege și îmbunătăți campaniile noastre de marketing, Firefox poate trimite „Date de referral”, cum ar fi domeniul site-ului web sau campania publicitară care v-a recomandat să descărcați și să instalați Firefox.
+ 
+	Pe Android și iOS, Firefox trimite Date de referral către furnizorul nostru de unelte analitice pentru dispozitive mobile, inclusiv ID-ul publicitar Google, adresa IP, marca de timp, țara, limba, sistemul de operare și versiunea aplicației. Puteți afla mai multe [aici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusiv cum puteți dezactiva această raportare.
+
+	Pe desktop, Firefox înregistrează și transmite Date de referral către Mozilla ca parte a Raportului de stare Firefox. Puteți afla mai multe [aici](https://support.mozilla.org/kb/desktop-attribution-privacy), inclusiv cum puteți renunța sau dezactiva această raportare.
 
 ---------------------------------------
 
