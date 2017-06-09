@@ -1,7 +1,7 @@
 # Politique de confidentialité du navigateur Firefox
 
-24 juin 2016
-{: datetime="2014-04-15" }
+ 5 juin 2017
+{: datetime="2017-06-05" }
 
 Nous nous soucions de votre vie privée. Quand Firefox envoie des informations à Mozilla (c’est nous), notre [politique de confidentialité](https://www.mozilla.org/privacy/) vous informe sur la façon dont nous gérons ces informations.
 
@@ -29,7 +29,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 * **Bilan de santé de Firefox**
 {: #health-report .inproduct-link }
 
-	Le bilan de santé de Firefox (FHR, Firefox Health Report) vous donne un aperçu sur la stabilité et les performances de votre navigateur et vous communique des astuces au cas où vous rencontreriez des problèmes, à savoir taux élevé de « plantages » ou haute fréquence et lenteur excessive au démarrage. Mozilla recueille et cumule vos données avec celles d’autres utilisateurs de Firefox et les renvoie à votre navigateur pour vous permettre de voir comment les performances de votre navigateur Firefox évoluent dans le temps. Ces données comprennent, par exemple : le matériel de votre dispositif, le système d’exploitation, la version de Firefox, les modules (nombre et type), la synchronisation des événements du navigateur, le rendu, les restaurations de sessions, la longueur des sessions, l’âge d’un profil, le nombre de « plantages » et le nombre de pages. Le FHR n’envoie pas à Mozilla les URL que vous visitez.
+	Le bilan de santé de Firefox (FHR, Firefox Health Report) vous donne un aperçu sur la stabilité et les performances de votre navigateur et vous communique des astuces au cas où vous rencontreriez des problèmes, à savoir un taux élevé de « plantages » ou une haute fréquence et lenteur excessive au démarrage. Mozilla recueille et cumule vos données avec celles d’autres utilisateurs de Firefox et les renvoie à votre navigateur pour vous permettre de voir comment les performances de votre navigateur Firefox évoluent dans le temps. Ces données comprennent, par exemple : le matériel de votre appareil, le système d’exploitation, la version de Firefox, les modules (nombre et type), la synchronisation des événements du navigateur, le rendu, les restaurations de sessions, la longueur des sessions, l’interaction avec des points d’accès de recherche et l’utilisation des codes des partenaires de recherche Firefox, l’âge d’un profil, le nombre de « plantages » et le nombre de pages. Le FHR n’envoie pas à Mozilla les URL que vous visitez.
 
 	Nous utilisons les données transmises via FHR pour offrir aux utilisateurs les fonctionnalités du FHR. Exemple : vous aider à analyser et résoudre les problèmes de performance de votre navigateur. Nous utilisons également les données agrégées du rapport FHR pour améliorer Firefox. Vous pouvez choisir de [désactiver le partage des données](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 	Suggestions de recherche est une fonctionnalité qui vous aide à trouver les expressions communes au sujet desquelles d'autres personnes ont effectué des recherches. Ces suggestions de recherche sont proposées par vos moteurs de recherche par défaut (tels que Google, Yahoo, etc.) et non pas par Firefox. Si vous activez cette fonctionnalité et que votre moteur de recherche par défaut prend en charge vos suggestions, Firefox pourra envoyer les termes que vous tapez dans la barre d'adresse intelligente ou dans la barre de recherche à votre moteur de recherche par défaut pour récupérer les suggestions. Son utilisation est régie par la politique de confidentialité applicable de votre moteur de recherche par défaut. Vous pouvez [en savoir plus sur l'option Suggestions de recherche ici](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) et découvrir comment l'activer ou la désactiver.
 
-* **Recherche par défaut**
+* **Suivi des redirections et des campagnes**
+{: #referraltracking }
 {: #thirdparty }
 
-	Pour choisir le meilleur moteur de recherche par défaut pour votre lieu, Firefox envoie à Mozilla une demande pour rechercher votre emplacement au niveau du pays en utilisant votre adresse IP. Nous renvoyons alors à Firefox ces informations au niveau du pays, où elles sont stockées localement. Ensuite, Firefox choisit le moteur de recherche à utiliser par défaut en fonction des informations de pays stockées localement. Vous pouvez [en savoir plus ici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), notamment sur la procédure de désactivation.
+	Pour nous aider à mieux comprendre et améliorer nos campagnes marketing, Firefox pourra envoyer des « Données de redirection », comme le domaine du site Web ou la campagne marketing qui vous a redirigé vers le téléchargement et l’installation de Firefox.
+ 
+	Sur Android et iOS, Firefox envoie des données de redirection à notre fournisseur d’analyses mobiles, et inclut par ailleurs un identifiant de publicité, l’adresse IP, l’horodatage, le pays, la langue, le système d’exploitation et la version de l’application. Pour en savoir plus,  [cliquez ici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), notamment pour savoir comment désactiver cet envoi d’informations.
+
+	Sur le bureau de l’ordinateur, Firefox enregistre et envoie les données de redirection à Mozilla en les intégrant au bilan de santé de Firefox (FHR, Firefox Health Report). Pour en savoir plus,  [cliquez ici](https://support.mozilla.org/kb/desktop-attribution-privacy), notamment pour savoir comment annuler ou désactiver cet envoi d’informations.
 
 ---------------------------------------
 
