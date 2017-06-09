@@ -1,7 +1,7 @@
 # Aviso de privacidade do navegador Firefox
 
-24 de junho de 2016
-{: datetime="2014-04-15" }
+5 de junho de 2017
+{: datetime="2017-06-05" }
 
 Nós nos importamos com sua privacidade. Quando o Firefox envia informações para a Mozilla (nós), nossa [política de privacidade](https://www.mozilla.org/privacy/) descreve de que forma usamos essas informações.
 
@@ -29,7 +29,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 * **Relatório de integridade do Firefox**
 {: #health-report .inproduct-link }
 
-	O Relatório de integridade do Firefox foi desenvolvido para oferecer informações sobre a estabilidade e o desempenho do seu navegador e dicas de suporte para o caso de você ter problemas, como altas taxas de travamento ou lentidão ao inicializar. A Mozilla coleta e reúne seus dados com os dos outros usuários do Firefox e os envia ao seu navegador, para que seja possível ver como o desempenho do seu Firefox muda com o passar do tempo. Esses dados incluem, por exemplo: hardware do dispositivo, sistema operacional, versão do Firefox, complementos (quantidade e tipo), tempos dos eventos do navegador, renderização, restaurações de sessão, duração da sessão, a idade de um perfil, quantidade de travamentos e quantidade de páginas. O Relatório de integridade do Firefox não envia à Mozilla as URLs visitadas.
+	O Relatório de integridade do Firefox (FHR) foi desenvolvido para fornecer informações sobre a estabilidade e o desempenho do seu navegador. Ele também fornece dicas de suporte em caso de problemas como altas taxas de falha ou tempos lentos de inicialização. A Mozilla coleta e agrega seus dados aos de outros usuários do Firefox e os envia para o navegador a fim de que você veja o desempenho do Firefox com o tempo. Esses dados incluem, por exemplo, o hardware do dispositivo, o sistema operacional, a versão do Firefox, as extensões (quantidade e tipo), os horários de eventos do navegador, a renderização, as restaurações de sessões, a duração da sessão, a interação com os pontos de acesso de pesquisa e o uso dos códigos de parceiros de pesquisa do Firefox, a idade do perfil, o número de falhas e de páginas. O FHR não envia os URLs acessados por você à Mozilla.
 
 	Utilizamos os dados enviados por meio do Relatório de integridade do Firefox para oferecer a funcionalidade do Relatório de integridade do Firefox aos usuários, por exemplo, para ajudá-los a analisar e resolver problemas de desempenho do navegador. Também utilizamos os dados recebidos pelo Relatório de integridade do Firefox para melhorar o Firefox de forma geral. Você pode optar por [desativar o compartilhamento de dados](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 
 	As sugestões de pesquisa ajudam a encontrar frases comuns pesquisadas por outras pessoas. Essas sugestões de pesquisa são fornecidas pelo seu mecanismo de pesquisa padrão (como o Google, Yahoo, etc.), não pelo Firefox. Se esse recurso for ativado e seu mecanismo de pesquisa padrão for compatível com sugestões, o Firefox poderá enviar os termos digitados na Barra de Endereços Inteligente ou no campo de pesquisa para obter as sugestões. Isso é regido pela Política de Privacidade aplicável do seu mecanismo de pesquisa padrão. [Saiba mais sobre as Sugestões de pesquisa aqui](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) e como ativá-la ou desativá-la.
 
-* **Pesquisa padrão**
+* **Rastreamento de referências e campanhas**
+{: #referraltracking }
 {: #thirdparty }
 
-	Para ajudar a escolher o melhor mecanismo de pesquisa para a sua localização, o Firefox envia à Mozilla um pedido para localizar, utilizando seu endereço IP, o país em que você se encontra. Em seguida, enviamos essas informações sobre o país para o Firefox, onde ficarão armazenadas localmente. Em seguida o Firefox escolherá o mecanismo de pesquisa a ser usado como padrão, de acordo com as informações sobre o país armazenadas localmente. [Saiba mais aqui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusive como desativá-lo.
+	Para ajudar a entender e melhorar nossas campanhas de marketing, o Firefox pode enviar “Dados de referência”, como o domínio do site ou campanhas de publicidade que solicitam que você baixe e instale o Firefox.
+ 
+	No Android e no iOS, o Firefox envia Dados de referência para nosso fornecedor de análises de dispositivos móveis e inclui um ID de publicidade do Google, endereço IP, carimbo de data e hora, país, localização, sistema operacional e versão do aplicativo. Saiba mais [aqui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusive como desabilitar esse relatório.
+
+	No desktop, o Firefox registra e envia Dados de referência para a Mozilla as como parte do Relatório de integridade do Firefox. Saiba mais [aqui](https://support.mozilla.org/kb/desktop-attribution-privacy), inclusive como recusar ou desabilitar esse relatório.
 
 ---------------------------------------
 
