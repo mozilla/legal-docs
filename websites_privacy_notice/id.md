@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Kuki
 
-23 Januari 2017
-{: datetime="2017-01-23" }
+11 April 2017
+{: datetime="2017-04-11" }
 
 Kami peduli dengan privasi Anda. Jika Mozilla (yaitu kami) mengumpulkan informasi tentang Anda, [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan cara kami menangani informasi tersebut.
 
@@ -39,6 +39,7 @@ Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan al
     * Google Analytics, yang menempatkan cookie di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
     * Optimizely dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
     * DoubleClick, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program pemasaran iklan kami.
+    * Alat metrik lainnya digunakan dari waktu ke waktu, berdasarkan eksperimen. Misalnya, kami mungkin melakukannya untuk membantu mengevaluasi alat metrik baru, atau menguji koleksi metrik yang ada.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki
 Beberapa situs web Mozilla memungkinkan Anda melakukan pembelian (seperti aplikasi atau suvenir) atau memberikan donasi. Transaksi ini diproses oleh pihak ketiga, bukan oleh Mozilla. 
 {: #donations }
 
-* **Pemrosesan Pembayaran**: Mozilla tidak menerima informasi keuangan, yang dikirimkan dari Anda kepada vendor pihak ketiga untuk diproses. Nama pihak ketiga akan ditampilkan pada saat transaksi. Untuk informasi selengkapnya tentang praktik data kami dengan vendor pihak ketiga, lihat [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami.
+* **Pemrosesan Pembayaran**: Mozilla tidak menerima informasi keuangan, yang dikirimkan dari Anda kepada vendor pihak ketiga untuk diproses. Nama pihak ketiga akan ditampilkan pada saat transaksi.
