@@ -1,7 +1,7 @@
 # Informativa sulla privacy del browser Firefox
 
-24 giugno 2016
-{: datetime="2014-04-15" }
+5 giugno 2017
+{: datetime="2017-06-05" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/it/privacy/) descrive il modo in cui Mozilla gestisce le informazioni che le vengono inviate da Firefox
 
@@ -29,7 +29,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 * **Analisi integrità di Firefox**
 {: #health-report .inproduct-link }
 
-	L’analisi integrità di Firefox (FHR) è stata pensata per fornire informazioni sul livello di stabilità e prestazioni del browser oltre a suggerimenti di supporto in caso di problemi, quali arresti anomali frequenti o lentezza in fase di avvio. Mozilla raccoglie e aggrega i dati con quelli di altri utenti di Firefox e li rinvia al browser, per mostrare il modo in cui le prestazioni di Firefox cambiano nel tempo. Questi dati includono, ad esempio: dispositivi hardware, sistema operativo, versione di Firefox, componenti aggiuntivi (numero e tipo), cronologia di eventi del browser, rendering, ripristino di sessioni, durata delle sessioni, da quanto tempo esiste il profilo in uso, numero degli arresti anomali e delle pagine. L’analisi FHR non invia a Mozilla gli URL visitati.
+	Lo strumento Analisi integrità di Firefox è stato pensato per fornire informazioni sulla stabilità e sulle prestazioni del browser oltre a suggerimenti di supporto in caso di problemi, quali arresti anomali frequenti o lentezza in fase di avvio. Mozilla raccoglie e aggrega i dati con quelli di altri utenti di Firefox e li rinvia al browser in uso, per mostrare il modo in cui le prestazioni di Firefox cambiano nel tempo. Questi dati includono, ad esempio: dispositivi hardware, sistema operativo, versione di Firefox, componenti aggiuntivi (numero e tipo), cronologia di eventi del browser, rendering, ripristino di sessioni, durata delle sessioni, interazione con i punti di accesso di ricerca e utilizzo dei codici partner di ricerca di Firefox, data di creazione di un profilo, numero di arresti anomali e di pagine. Analisi integrità di Firefox non invia a Mozilla gli URL visitati.
 
 	Utilizziamo i dati inviati mediante FHR per fornire agli utenti le funzionalità dell’analisi FHR, come la capacità di analizzare e affrontare problemi di prestazioni del browser. Utilizziamo inoltre ciò che apprendiamo dai dati dell’analisi FHR per migliorare Firefox. È possibile in qualunque momento [disattivare la condivisione dei dati](https://support.mozilla.org/it/kb/informazioni-su-analisi-integrita-di-firefox#w_attivazione-e-disattivazione-della-condivisione-dei-dati).
 
@@ -56,10 +56,15 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 
 	I suggerimenti di ricerca sono utili per trovare le frasi o i termini più comuni cercati da altri utenti. I suggerimenti di ricerca sono forniti dai motori di ricerca predefiniti (come Google, Yahoo e altri) e non da Firefox. Se il motore di ricerca predefinito supporta i suggerimenti, abilitando questa funzione, Firefox può inviare i termini digitati nella barra dell'indirizzo o nella barra di ricerca al motore di ricerca predefinito per recuperare i suggerimenti; la funzione è regolata dall'Informativa sulla privacy del motore di ricerca predefinito. Per [saperne di più sui suggerimenti di ricerca e su come attivare o disattivare la funzione, fare clic qui](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar).
 
-* **Motore di ricerca predefinito**
+* **Monitoraggio dei referral e delle campagne**
+{: #referraltracking }
 {: #thirdparty }
 
-	Per facilitare la scelta del migliore motore di ricerca predefinito per la propria località, Firefox invia a Mozilla una richiesta di ricerca della posizione dell’utente a livello di Paese, utilizzando l’indirizzo IP. Successivamente le informazioni a livello di Paese vengono reinviate a Firefox e memorizzate localmente. Firefox sceglierà quindi il motore di ricerca da utilizzare come predefinito sulla base delle informazioni memorizzate localmente. [Fare clic qui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)  per ulteriori informazioni, incluse istruzioni per la disattivazione.
+	Per comprendere e migliorare le nostre campagne di marketing, Firefox potrebbe inviare dati sui referral, come ad esempio il dominio di sito web o la campagna pubblicitaria che ha indirizzato l'utente alla pagina di download e installazione di Firefox.
+
+	In Android e iOS, Firefox invia i dati sui referral ai propri fornitori di mobile analytics, includendo anche informazioni su ID pubblicità di Google, indirizzo IP, data e ora, paese, impostazioni locali, sistema operativo e versione dell'app. Ulteriori informazioni, incluse le istruzioni su come disattivare l'invio di questi resoconti, sono disponibili [qui](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+
+	Sui computer desktop, Firefox registra e invia i dati sui referral a Mozilla nell'ambito dell'Analisi integrità di Firefox. Ulteriori informazioni, incluse le istruzioni su come eseguire l'opt-out o la disattivazione dell'invio di questi resoconti, sono disponibili [qui](https://support.mozilla.org/kb/desktop-attribution-privacy).
 
 ---------------------------------------
 
