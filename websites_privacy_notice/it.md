@@ -1,7 +1,7 @@
 # Informativa sulla privacy dei siti web, comunicazioni e cookie
 
-23 gennaio 2017
-{: datetime="2017-01-23" }
+11 aprile 2017
+{: datetime="2017-04-11" }
 
 Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
 
@@ -39,6 +39,7 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
     * Google Analytics, che inserisce un cookie nel dispositivo in uso per ottenere metriche relative alle modalità di interazione degli utenti con i nostri siti web.      Questo ci aiuta a migliorare i contenuti dei sito.  
     * Optimizely e ShareProgress, che inseriscono un cookie nel dispositivo in uso per aiutarci a testare le varianti di contenuti web.  Questo ci consente di offrire una migliore esperienza utente.
     * DoubleClick, che impiega un GIF trasparente nella nostra pagina Firefox di download. Questo ci aiuta a misurare l'efficacia delle nostre campagne pubblicitarie.
+    * Altri strumenti di analisi delle metriche, occasionalmente e in via sperimentale, ad esempio per valutarne di nuovi o per testare raccolte di metriche esistenti.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 Alcuni siti web di Mozilla consentono di effettuare acquisti (tipo applicazioni o articoli di vario genere) o di fare donazioni. Mozilla non gestisce direttamente questo tipo di transazioni ma delega a terze parti la loro gestione.
 {: #donations }
 
-* **Elaborazione pagamenti** Mozilla non riceve alcuna informazione di natura finanziaria; questo tipo di informazioni viene trasmesso dall’utente a fornitori esterni per l’elaborazione. I nomi di questi fornitori saranno visualizzati al momento della transazione. Per ulteriori informazioni sulle nostre pratiche riguardanti i dati e i fornitori indipendenti, consultare l’[informativa sulla privacy Mozilla](https://www.mozilla.org/privacy/).
+* **Elaborazione pagamenti** Mozilla non riceve alcuna informazione di natura finanziaria; questo tipo di informazioni viene trasmesso dall’utente a fornitori esterni per l’elaborazione. I nomi di questi fornitori saranno visualizzati al momento della transazione.
