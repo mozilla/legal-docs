@@ -1,7 +1,7 @@
 # Obaveštenje o privatnosti pretraživača Firefox
 
-24. jun, 2016
-{: datetime="2014-04-15" }
+5. jun 2017.
+{: datetime="2017-06-05" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox šalje informacije kompaniji Mozilla (to smo mi) u našim [Pravilima privatnosti](https://www.mozilla.org/privacy/) opisuje se način na koji koristimo te informacije.
 
@@ -29,7 +29,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 * **Izveštaj o oštećenjima pretraživača Firefox**
 {: #health-report .inproduct-link }
 
-	Izveštaj o oštećenjima pretraživača Firefox (FHR) je osmišljem tako da vam pruži uvid u stabilnost i performanse vašeg pretraživača, kao i da vam da savete u slučaju da doživite neku neprijatnost, kao što je visoka stopa pada ili dugo čekanje na podizanje pretraživača. Mozilla prikuplja i kombinuje vaše podatke s podacima ostalih korisnika pretraživača Firefox i šalje ih vašem pretraživaču kako biste mogli da vidite kako se performanse vašeg pretraživača Firefox menjaju vremenom. Ovi podaci obuhvataju, na primer: hardver uređaja, operativni sistem, verziju pretraživača Firefox, dodatke (broj i vrstu), vreme događaja koji se odnose na pretraživač, vizuelizaciju, vraćanja prethodnih sesija, trajanje sesija, starost profila, broj padova i broj stranica. FHR ne šalje sajtu Mozilla URL-ove koje posećujete.
+	Izveštaj o oštećenjima pretraživača Firefox (FHR) je osmišljem tako da vam pruži uvid u stabilnost i performanse vašeg pretraživača, kao i da vam da savete u slučaju da doživite neku neprijatnost, kao što je visoka stopa pada ili dugo čekanje na podizanje pretraživača. Mozilla prikuplja i kombinuje vaše podatke s podacima ostalih korisnika pretraživača Firefox i šalje ih vašem pretraživaču kako biste mogli da vidite kako se performanse vašeg pretraživača Firefox menjaju vremenom. Ovi podaci obuhvataju, na primer: hardver uređaja, operativni sistem, verziju pretraživača Firefox, dodatke (broj i vrstu), vreme događaja koji se odnose na pretraživač, vizuelizaciju, vraćanja prethodnih sesija, trajanje sesija, interakciju s pristupnim tačkama pretrage i korišćenje partnerskih kodova za pretragu uz pomoć pretraživača Firefox, starost profila, broj padova i broj stranica. FHR ne šalje sajtu Mozilla URL-ove koje posećujete.
 
 	Podatke koji se šalju preko FHR-a koristimo da bismo korisnicima pružili funkcionalnost FHR-a, kao što je pomoć pri analiziranju i rešavanju problema sa performansama vašeg pretraživača. Takođe, koristimo ono što saznamo iz zbirnih FHR podataka da bismo poboljšali Firefox. Možete odabrati da [isključite deljenje podataka](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 	Predlozi pretrage predstavljaju opciju koja Vam pomaže da pronađete opšte sintagme koje su pretraživali i drugi. Ovakve predloge pretrage nude Vam i standardni pretraživači (kao što su Google, Yahoo, itd.), ali ne i Firefox. Ako omogućite ovu opciju i ako Vaš standardni pretraživač podržava predloge, Firefox može poslati termine koje ukucavate u traku „Awesome“ (Sjajno) ili u traku pretrage Vašem standardnom pretraživaču da bi dobio predloge, na koje se odnose važeća Pravila privatnosti Vašeg standardnog pretraživača. [Više informacija o predlozima pretrage možete dobiti ovde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) kao i o načinima da ih omogućite ili onemogućite.
 
-* **Standardna pretraga**
+* **Praćenje preporuka i kampanji**
+{: #referraltracking }
 {: #thirdparty }
 
-	U cilju odabira najboljeg standardnog pretraživača za Vašu lokaciju, Firefox jednom šalje sajtu Mozilla zahtev da pogleda Vašu lokaciju na nivou zemlje koristeći Vašu IP adresu. Zatim šaljemo date podatke na nivou zemlje nazad kompaniji Firefox, a oni ih skladište lokalno. Firefox zatim bira koji pretraživač da koristi kao standardni na osnovu lokalno uskladištenih podataka o zemlji. Više informacija možete [dobiti ovde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući i kako da onemogućite ovu opciju.
+	Kao pomoć u razumevanju i poboljšanju naših marketinških kampanja, Firefox može slati „Podatke o preporukama“ kao što su domen veb sajta ili reklamna kampanja koja vas je uputila na preuzimanje i instaliranje pretraživača Firefox.
+ 
+	Na Android i iOS uređajima, Firefox šalje Podatke o preporukama našem pružaocu usluga mobilne analitike i uključuje i ID Google oglašavanja, IP adresu, vremensku oznaku, zemlju, jezik, operativni sistem i verziju aplikacije. Saznajte više [ovde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući i to kako da isključite izveštavanje.
+
+	Na desktop uređajima, Firefox beleži i šalje Podatke o preporukama kompaniji Mozilla kao deo Izveštaja o oštećenjima pretraživača Firefox.  Saznajte više [ovde](https://support.mozilla.org/kb/desktop-attribution-privacy), uključujući i to kako da se odjavite iz programa izveštavanja i kako da isključite izveštavanje.
 
 ---------------------------------------
 
