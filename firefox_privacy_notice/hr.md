@@ -1,7 +1,7 @@
 # Pravila o privatnosti preglednika Firefox
 
-24. lipnja 2016.
-{: datetime="2014-04-15" }
+05. lipnja 2017.
+{: datetime="2017-06-05" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox pošalje podatke Mozilli (to smo mi), naša [Pravila o privatnosti](https://www.mozilla.org/privacy/) opisuju kako koristimo te podatke.
 
@@ -29,7 +29,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 * **Firefox izvješće o zdravlju**
 {: #health-report .inproduct-link }
 
-	Firefox izvješće o zdravlju (FHR) pruža vam uvid u stabilnost i rad vašeg preglednika, te vam pruža potrebne savjete ako dođe do problema, poput visoke stope pada ili sporog pokretanja sustava. Mozilla prikuplja i zbraja vaše podatke s podacima drugih korisnika Firefoxa, te ih šalje natrag vašem pregledniku kako biste tijekom vremena uvidjeli promjene u radu vašeg Firefox preglednika. Ti podaci, primjerice, uključuju: podatke o hardveru uređaja, operativnom sustavu, verziji Firefoxa, dodacima (broj i vrsta), tempiranju događaja preglednika, renderiranju, obnavljanjima sesija, duljini sesija, starosti profila, broju pada sustava i broju stranica. Firefox izvješće o zdravlju ne šalje Mozilli URL-ove koje posjetite.
+	Firefox izvješće o zdravlju (FHR) pruža vam uvid u stabilnost i rad vašeg preglednika, te vam pruža potrebne savjete ako dođe do problema, poput visoke stope pada ili sporog pokretanja sustava. Mozilla prikuplja i zbraja vaše podatke s podacima drugih korisnika Firefoxa, te ih šalje natrag vašem pregledniku kako biste tijekom vremena uvidjeli promjene u radu vašeg Firefox preglednika. Ti podaci, primjerice, uključuju: podatke o hardveru uređaja, operativnom sustavu, verziji Firefoxa, dodacima (broj i vrsta), tempiranju događaja preglednika, obnavljanjima sesija, duljini sesija, interakciji s traženjem pristupnih točki i korištenju Firefox kodova partnera za traženje, starosti profila, broju pada sustava i broju stranica. Firefox izvješće o zdravlju ne šalje Mozilli URL-ove koje posjetite.
 
 	Podatke poslane u Firefox izvješću o zdravlju koristimo kako bismo korisnicima omogućili funkcionalnost Firefox izvješća o zdravlju, kao što je analiziranje i rješavanje problema s vašim preglednikom. Podatke koje dobivamo iz sakupljenih Firefox izvješća o zdravlju također koristimo kako bismo poboljšali rad Firefoxa. Možete odabrati [isključivanje dijeljenja podataka](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 
 	Traženje prijedloga je značajka koja vam pomaže tražiti česte fraze koje su drugi ljudi tražili. Ovi prijedlozi traženja ponudi su od strane vaše zadane tražilice (kao što je Google, Yahoo, itd.) a ne Firefox. Ako ovu značajku omogućite i vaša tražilica podrži prijedloge, Firefox može poslati uvjete koje upisujete u fenomenalnu traku ili traku za traženje zadane tražilice kako biste dohvatili prijedloge, a podliježe primjenjivim Pravilima o privatnosti vaše tražilice. O prijedlozima za traženje možete [saznati više ovdje](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) te kako ih omogućiti ili onemogućiti.
 
-* **Zadano pretraživanje**
+* **Uvod i praćenje kampanje**
+{: #referraltracking }
 {: #thirdparty }
 
-	Za pomoć u odabiru najbolje zadane tražilice za vašu lokaciju, Firefox šalje Mozilli zahtjev kada ste označili svoju lokaciju na razini zemlje korištenjem IP adrese. Tada šaljemo podatke za zemlju natrag Firefoxu, gdje se lokalno pohranjuje. Firefox potom odabire koju tražilicu koristi kao zadanu na temelju lokalno pohranjenih podataka o zemlji. Možete [saznati više ovdje](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući upute o deaktivaciji.
+	Za pomoć razumijevanju i poboljšanju naših maretinških kampanja, firefox može poslati „Refferal data” (Uvodni podaci) poput domene web stranice ili kampanje oglašavanja koji vas uvode u preuzimanje i instalaciju Firefoxa.
+ 
+	Na Android i iOS, Firefox šalje uvodne podatke našem mobilnom davatelju usluge, a također uključuje Google ID oglašavanja, IP adrese, vremenske oznake, zemlju, lokalno, operativni sustav i verziju aplikacije. Saznajte više [ovdje](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući kako onemogućiti ovo izvješćivanje.
+
+	Na stolnom računalu, Firefox bilježi I šalje uvodne podatke na Mozillu kao dio Firefox izvješća o zdravljut.  Saznajte više [ovdje](https://support.mozilla.org/kb/desktop-attribution-privacy), uključujući kako uključiti ili onemogućiti ovo izvješćivanje.
 
 ---------------------------------------
 
