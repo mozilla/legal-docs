@@ -1,7 +1,7 @@
 # Oznámení o zásadách ochrany osobních údajů prohlížeče Firefox
 
-24. června 2016
-{: datetime="2014-04-15" }
+5. června 2017
+{: datetime="2017-06-05" }
 
 Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox zasílá informace společnosti Mozilla (tedy nám), naše [zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak budeme s takovými informacemi nakládat.
 
@@ -29,7 +29,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * **Hlášení o stavu Firefoxu**
 {: #health-report .inproduct-link }
 
-	Hlášení o stavu Firefoxu (HSF) je určeno k tomu, aby vám poskytovalo informace o stabilitě a výkonu vašeho prohlížeče a tipy pro podporu, pokud budete mít problémy, jako např. v případě vysoké míry pádů nebo při pomalém spouštění. Mozilla sbírá a shromažďuje vaše údaje a údaje jiných uživatelů Firefoxu a zasílá je zpět do vašeho prohlížeče, abyste viděli, jak se výkon vašeho Firefoxu v průběhu času mění. Tyto údaje zahrnují například: hardware zařízení, operační systém, verzi Firefoxu, seznam doplňků (počet a druh), načasování událostí prohlížeče, provedení, obnovení relací, délku relace, stáří profilu, počet pádů a počet stránek. HSF neodesílá Mozille URL, které navštěvujte.
+	Zpráva Firefox Health Report (FHR) je určena k tomu, aby vám nabídla přehled o stabilitě a výkonu vašeho prohlížeče a tipy podpory v případě, že narazíte na problémy, jako jsou opakované padání nebo pomalé spouštění. Mozilla shromažďuje a shrnuje vaše data s daty od ostatních uživatelů Firefox a zasílá je zpět do vašeho prohlížeče, takže můžete sledovat, jak se výkon Firefox v čase mění. Tato data zahrnují například: hardwarové zařízení, operační systém, verze Firefoxu, přídavné moduly (počet a typ), načasování událostí prohlížeče, renderování, obnovení relace, délka relace, interakce s vyhledáváním přístupových bodů a používání kódů vyhledávání partnerů Firefox, stáří profilu, počet pádů a počet stránek. FHR nezasílá Mozilla adresy URL, které navštívíte.
 
 	Údaje zaslané prostřednictvím HSF používáme k poskytování funkce HSF uživatelům. Tato funkce zahrnuje pomoc při analýze a řešení problémů s výkonem vašeho prohlížeče. Souhrnná zjištění na základě údajů z HSF rovněž využíváme k vylepšení Firefoxu. [Sdílení údajů můžete vypnout](https://support.mozilla.org/cs/kb/hlaseni-o-zdravi-firefoxu-poznavame-vykon-sveho-pr#w_jak-zapnout-nebo-vypnout-sdaglenag-dat).
 
@@ -56,10 +56,15 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 	Návrhy vyhledávání je funkce, která vám pomůže vyhledávat nejběžnější fráze, které hledali jiní lidé. Tyto návrhy vyhledávání jsou nabízeny našimi Výchozími vyhledávači (jako jsou Google, Yahoo atd.) a nikoliv Firefoxem. Pokud tuto funkci aktivujete a váš Výchozí vyhledávač návrhy podporuje, Firefox může odeslat pojmy, které napíšete do Řádku Awesome nebo Vyhledávacího řádku do vašeho výchozího vyhledávače, aby získal návrhy. V tomto ohledu se uplatní platné Zásahy ochrany osobních údajů vašeho výchozího vyhledávače. [Podrobnější informace o Návrzích vyhledávání najdete zde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) stejně jako informace o tom, jak je aktivovat nebo deaktivovat.
 
-* Výchozí vyhledávání
+* Doporučení a sledování kampaně
+{: #referraltracking }
 {: #thirdparty }
 
-	Jako pomůcku při hledání nejlepšího výchozího vyhledávače Firefox zasílá společnosti Mozilla jednorázový dotaz na vyhledání vašeho místa na úrovni země dle vaší adresy IP. My následně tuto informaci na úrovni země zašleme Firefoxu, u nějž bude místně uložena. Firefox se následně rozhodne, který vyhledávač bude využívat jako výchozí, dle místně uložených informacích o zemi. [Podrobnější informace zjistíte zde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), včetně postupu deaktivace.
+	Jako pomoc pro pochopení a zlepšení vašich marketingových kampaní může Firefox „Data doporučení”, jako je doména webové stránky nebo reklamní kampaně, které vám doporučují stáhnout a nainstalovat Firefox.
+ 
+	U systémů Android a iOS Firefox odesílá Data doporučení našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, adresu IP, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), včetně toho, jak zasílání této zprávy deaktivovat.
+
+	U stolních počítačů Firefox zaznamenává a zasílá Data doporučení Mozilla v rámci zprávy Firefox Health Report.  Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo deaktivovat zasílání této zprávy deaktivovat.
 
 ---------------------------------------
 
