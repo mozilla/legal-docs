@@ -1,7 +1,7 @@
 # Pernyataan Privasi Peramban Firefox
 
-24 Juni 2016
-{: datetime="2014-04-15" }
+5 Juni 2017
+{: datetime="2017-06-05" }
 
 Kami peduli pada privasi Anda. Ketika Firefox mengirimkan informasi ke Mozilla (itu kami), [kebijakan privasi](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut.
 
@@ -29,7 +29,7 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 * **Laporan Kebugaran Firefox**
 {: #health-report .inproduct-link }
 
-	Laporan Kebugaran Firefox (FHR) dirancang untuk memberi Anda wawasan tentang stabilitas dan kinerja peramban Anda serta kiat dukungan ketika Anda mengalami masalah, seperti tingkat kerusakan yang tinggi atau waktu memulai yang lambat. Mozilla mengumpulkan dan menggabungkan data Anda dengan data pengguna Firefox lainnya dan mengirimkannya kembali ke peramban sehingga Anda dapat melihat bagaimana kinerja Firefox Anda berubah dari waktu ke waktu. Data ini termasuk, misalnya: perangkat keras peralatan, sistem operasi, versi Firefox, pengaya (jumlah dan jenis), waktu peristiwa peramban, perenderan, pemulihan sesi, panjang sesi, berapa umur profil, jumlah kerusakan, dan jumlah halaman. FHR tidak mengirimkan URL yang Anda kunjungi ke Mozilla.
+	Laporan Kebugaran Firefox (FHR) dirancang untuk memberi Anda wawasan tentang stabilitas dan kinerja peramban Anda serta kiat dukungan ketika Anda mengalami masalah, seperti tingkat kerusakan yang tinggi atau waktu memulai yang lambat. Mozilla mengumpulkan dan menggabungkan data Anda dengan data pengguna Firefox lainnya dan mengirimkannya kembali ke peramban sehingga Anda dapat melihat bagaimana kinerja Firefox Anda berubah dari waktu ke waktu. Data ini termasuk, misalnya: perangkat keras peralatan, sistem operasi, versi Firefox, pengaya (jumlah dan jenis), waktu peristiwa peramban, perenderan, pemulihan sesi, panjang sesi, interaksi dengan titik akses pencarian dan penggunaan kode mitra pencarian Firefox, berapa umur profil, jumlah kerusakan, dan jumlah halaman. FHR tidak mengirimkan URL yang Anda kunjungi ke Mozilla.
 
 	Kami menggunakan data yang dikirimkan melalui FHR untuk menyediakan fungsionalitas FHR bagi pengguna, seperti membantu Anda menganalisis dan mengatasi masalah kinerja peramban Anda. Kami juga menggunakan apa yang kami pelajari dari gabungan data FHR untuk menjadikan Firefox lebih baik. Anda dapat memilih untuk [menonaktifkan fitur berbagi data](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -61,10 +61,15 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 
 	Saran pencarian adalah fitur untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain. Saran pencarian ini ditawarkan oleh Mesin Pencari Default Anda (seperti Google, Yahoo, dll.) dan bukan oleh Firefox. Jika Anda mengaktifkan fitur ini, dan Mesin Pencari Default Anda mendukung pemberian saran, Firefox mungkin mengirimkan istilah yang Anda ketik di Bilah Alamat atau Bilah Pencarian ke Mesin Pencari Default Anda untuk mendapatkan saran, dan diatur oleh Kebijakan Privasi Mesin Pencari Default yang berlaku. Anda bisa [mempelajari lebih lanjut tentang Saran Pencarian di sini](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) dan cara mengaktifkan atau menonaktifkannya.
 
-* **Untuk Firefox for Android saja**
+* **Pelacakan Perujuk dan Kampanye Pemasaran**
+{: #referraltracking }
 {: #thirdparty }
 
-	Untuk memahami kinerja kampanye pemasaran Mozilla tertentu, Firefox mengirim data, termasuk ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, versi aplikasi, kepada vendor pihak ketiga kami. Data ini memungkinkan kami untuk menghubungkan instalasi dengan saluran iklan tertentu dan mengoptimalkan strategi kampanye pemasaran. Anda bisa [mempelajari selengkapnya di sini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), termasuk cara menonaktifkannya.
+	Untuk membantu memahami dan meningkatkan kinerja kampanye pemasaran kami, Firefox mungkin mengirimkan “Data Perujuk” seperti domain situs web atau pemasaran iklan yang mengarahkan Anda untuk mengunduh dan memasang Firefox.
+ 
+	Di perangkat Android dan iOS, Firefox mengirimkan Data Perujuk ke vendor analitika seluler, serta menyertakan ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), termasuk cara menonaktifkan pelaporan ini.
+
+	Di desktop, Firefox mencatat dan mengirimkan Data Perujuk ke Mozilla sebagai bagian dari Laporan Kebugaran Firefox.  Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara berhenti berlangganan atau menonaktifkan pelaporan ini.
 
 ---------------------------------------
 
