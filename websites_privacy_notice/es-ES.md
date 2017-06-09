@@ -1,7 +1,7 @@
 # Aviso de privacidad sobre sitios web, mensajes y cookies
 
-23 de enero de 2017
-{: datetime="2017-01-23" }
+11 de abril de 2017
+{: datetime="2017-04-11" }
 
 Nos importa su privacidad. El uso que hacemos de la información que recopila Mozilla (es decir, nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
@@ -39,6 +39,7 @@ Utilizamos cookies, GIF transparentes y otros análisis web de terceros, así co
     * Google Analytics, que coloca una cookie en su dispositivo para obtener indicadores sobre el modo en el que los usuarios usan nuestras páginas web.      Esto ayuda a mejorar el contenido del sitio web.  
     * Optimizely y ShareProgress, que colocan una cookie en su dispositivo para ayudarnos a probar distintos tipos de contenido web.  Esto nos ayuda a ofrecer a los usuarios un mejor servicio web.
     * DoubleClick, que utiliza un GIF transparente en nuestra página de descarga de Firefox.  Esto nos ayuda a medir la eficacia de nuestras campañas publicitarias.
+    * Otras herramientas métricas en ciertas ocasiones, a nivel experimental. Por ejemplo, para ayudar a evaluar una nueva herramienta métrica o probar una colección de métricas existentes.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
 Algunos sitios web de Mozilla permiten realizar compras (como las aplicaciones o Gear) o efectuar donaciones. El procesamiento de estas transacciones corre a cargo de terceros y no de Mozilla.
 {: #donations }
 
-* **Procesamiento de pagos**:   Mozilla no recibe la información financiera que usted facilita al proveedor tercero para dicho procesamiento. El nombre de este tercero se mostrará en el momento de la transacción.  Para obtener más información sobre el tratamiento de datos de los proveedores terceros, consulte la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
+* **Procesamiento de pagos**:   Mozilla no recibe la información financiera que usted facilita al proveedor tercero para dicho procesamiento. El nombre de este tercero se mostrará en el momento de la transacción.
