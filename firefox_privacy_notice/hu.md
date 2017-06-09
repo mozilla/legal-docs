@@ -1,7 +1,7 @@
 # Firefox böngésző Adatvédelmi tájékoztató
 
-2016. június 24.
-{: datetime="2014-04-15" }
+2017. június 5.
+{: datetime="2017-06-05" }
 
 Fontos számunkra az Ön adatainak védelme. Ha a Firefox adatokat küld a Mozilla (ez minket jelent) számára, akkor [adatvédelmi irányelveink](https://www.mozilla.org/privacy/) írják le ezek kezelésének módját.
 
@@ -29,7 +29,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 * **Firefox állapotjelentés**
 {: #health-report .inproduct-link }
 
-	A Firefox állapotjelentés (FHR) célja, hogy az Ön számára rálátást nyújtson saját böngészője stabilitására és teljesítményére, és hogy tippek formájában támogassa Önt, amikor problémát észlel, például gyakori összeomlást vagy lassú indítást. A Mozilla más Firefox felhasználókéval együtt és összesítve gyűjti az Ön adatait, és visszaküldi az Ön saját böngészőjére, hogy Ön láthassa, hogyan változik a Firefox teljesítménye az idő múlásával. Ezek az adatok magukban foglalják például a következőket: hardver eszköz, operációs rendszer, Firefox verzió, kiegészítők (száma és típusa), a böngészési események időzítése, feldolgozás, munkamenet helyreállítása, munkamenet hossza, profil kora, összeomlások száma és az oldalak száma. Az FHR nem tartalmazza az Ön által látogatott oldalak URL címeit.
+	A Firefox Health Report (FHR) elemzéseket kínál a böngészője stabilitására és teljesítményére vonatkozóan, továbbá támogatási tippeket ad olyan problémák esetén, mint például magas összeomlási arány vagy lassú indítási idők. A Mozilla összegyűjti és összesíti adatait más Firefox felhasználókéival együtt, azután pedig visszaküldi a böngészőnek, így láthatja, hogyan változik a Firefox példánya teljesítménye. Ezek az adatok tartalmazzák például a következőt: az eszköz hardverét, az operációs rendszert, a Firefox verziót, a bővítményeket (számukat és típusukat), a böngészőesemények idejét, a renderelést, a munkamenet-visszaállításokat, a munkamenet hosszát, a keresési hozzáférési pontokkal való interakciót és a Firefox keresési partnerkódjainak használatát, a profil korát, az összeomlások számát és az oldalak számát. Az FHR nem küldi el a meglátogatott Mozilla URL-eket.
 
 	Az FHR-en keresztül küldött adatokat arra használjuk, hogy biztosítsuk a felhasználók számára a működőképességet, és hogy megoldjuk böngészője teljesítménnyel kapcsolatos problémáit. Arra is felhasználjuk az FHR adatok alapján leszűrteket, hogy fejlesszük a Firefox-ot. Dönthet úgy, hogy [kikapcsolja az adatmegosztást](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 
 	A keresési javaslatok funkció segítségével megtalálhatja azokat a gyakori kifejezéseket, amelyekre mások rákerestek. Ezeket a keresési javaslatokat az Ön alapértelmezett keresőprogramja ajánlja fel (például Google, Yahoo stb.), nem a Firefox. Ha engedélyezi ezt a funkciót, és az alapértelmezett keresőprogramja támogatja a javaslatokat, a Firefox elküldheti az intelligens címsorba vagy a keresősávba begépelt kifejezéseket az alapértelmezett keresőprogramjának, hogy javaslatokat kérjen le. Ekkor az alapértelmezett keresőprogram vonatkozó Adatvédelmi szabályzata van érvényben. A [keresési javaslatokról, illetve ezek](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) engedélyezéséről vagy letiltásáról még több információt találhat itt.
 
-* **Alapértelmezett keresés**
+* **Ajánlás és kampánykövetés**
+{: #referraltracking }
 {: #thirdparty }
 
-	Annak érdekében, hogy tartózkodási helyén a legjobb alapértelmezett keresőszolgáltatást válassza, a Firefox IP-címe segítségével egyszeri alkalommal lekérdezi a Mozillától az Ön országszintű tartózkodási helyét. Utána az országszintű adatokat visszaküldjük a Firefox-nak, amely helyileg tárolja ezeket. Ezután a helyileg tárolt országszintű adat alapján a Firefox kiválasztja, hogy melyik keresőszolgáltatást használja alapértelmezettként. További információkat [itt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) talál, a kikapcsolással együtt.
+	Marketingkampányaink megismerésének és javításának elősegítése érdekében a Firefox „Ajánlási adatokat” küldhet, mint például a Firefox letöltését és telepítését ajánló weboldal tartományát vagy reklámkampányt.
+ 
+	Az Android és az iOS operációs rendszerek esetében a Firefox a mobilelemzési szolgáltatónak küldi el az ajánlási adatokat, és hozzátesz egy Google reklámazonosítót, IP-címet, időbélyeget, országot, területi beállítást, operációs rendszert és alkalmazásverziót. További tudnivalókat [itt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) találhat, beleértve a jelen jelentés letiltásával kapcsolatban is.
+
+	Az asztali gépek esetében a Firefox rögzíti az ajánlási adatokat, és a Firefox Health Report részeként elküldi a Mozillának.  További tudnivalókat [itt](https://support.mozilla.org/kb/desktop-attribution-privacy) találhat, beleértve a jelen jelentés elutasításával vagy letiltásával kapcsolatban is.
 
 ---------------------------------------
 
