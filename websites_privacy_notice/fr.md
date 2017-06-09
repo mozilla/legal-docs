@@ -1,7 +1,7 @@
 # Avis de confidentialité relatif aux sites Web, communications et cookies
 
-23 janvier 2017
-{: datetime="2017-01-23" }
+11 avril 2017
+{: datetime="2017-04-11" }
 
 Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations vous concernant, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) décrit la façon dont nous gérons ces informations.
 
@@ -39,6 +39,7 @@ Nous utilisons des cookies, pixels transparents ou invisibles (clear GIF), analy
     * Google Analytics, qui installe un cookie sur votre appareil, afin d'obtenir des données sur la manière dont les utilisateurs interagissent avec nos sites Web.      Cela nous aide à améliorer le contenu de nos sites.  
     * Optimizely et ShareProgress, qui installent un cookie sur votre appareil, pour nous aider à tester des variantes de notre contenu Web.  Cela nous permet de proposer une meilleure expérience Web à nos utilisateurs.
     * DoubleClick, qui utilise un GIF invisible sur notre page de téléchargement Firefox.  Cela nous aide à mesurer l'efficacité de nos campagnes commerciales.
+    * Autres outils de mesure de temps en temps, sur une base expérimentale. Par exemple, nous le ferons pour aider à évaluer un nouvel outil de mesure, ou tester la collecte de mesures existantes.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Vous pouvez garder le contrôle sur vos préférences individuelles en matière 
 Certains sites Web de Mozilla vous permettent d’effectuer des achats (tels que des applications ou du matériel) ou d’effectuer des dons. Ces transactions sont traitées par des tiers et non par Mozilla.
 {: #donations }
 
-* **Traitement des paiements** :   Mozilla ne reçoit pas d’informations financières : elles sont transmises à nos fournisseurs tiers qui les traitent. Le nom du fournisseur tiers sera affiché au moment de la transaction.  Pour de plus amples renseignements sur nos pratiques relatives à vos données avec des fournisseurs tiers, consultez la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/).
+* **Traitement des paiements** :   Mozilla ne reçoit pas d’informations financières : elles sont transmises à nos fournisseurs tiers qui les traitent. Le nom du fournisseur tiers sera affiché au moment de la transaction.
