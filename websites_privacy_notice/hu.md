@@ -1,7 +1,7 @@
 # Webhelyekre, közleményekre és sütikre vonatkozó Adatvédelmi nyilatkozat
 
-2017. január 23.
-{: datetime="2017-01-23" }
+2017. április 11.
+{: datetime="2017-04-11" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](http://www.mozilla.org/en-US/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -36,6 +36,7 @@ Sütiket, clear GIF-eket, egyéb harmadik fél által üzemeltetett webes techno
     * Google Analytics – ez az eszköz egy sütit helyez el a felhasználók eszközén, melynek segítségével adatokat gyűjt azzal kapcsolatban, hogyan használják a felhasználók webhelyeinket.      Az adatok lehetővé teszik számunkra az oldalakon megjelenő tartalmak fejlesztését.  
     * Optimizely és ShareProgress – ezek az eszközök sütit helyeznek el a felhasználók eszközén, ami lehetővé teszi számunkra a webes tartalmak különböző változatainak tesztelését.  Az eredmények segítségével javíthatjuk a webes felhasználói élményt felhasználóink számára.
     * A DoubleClick, amely egy egyértelmű GIF-et használ a letöltési Firefox oldalunkon.  Ez segít lemérni a reklámkampányunk hatékonyságát.
+    * Egyéb elemzési eszközök időnként kísérleti alapon. Csinálhatjuk ezt például egy új elemzési eszköz kiértékelésének elősegítése vagy meglévő elemzésgyűjtemények tesztelése céljából.
 
 ---------------------------------------
 
@@ -60,4 +61,4 @@ Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja
 Némelyik Mozilla webhelyen vásárolhat (például alkalmazásokat vagy eszközöket) vagy adományozhat. Ezeket a tranzakciókat harmadik felek dolgozzák fel, nem a Mozilla. 
 {: #donations }
 
-* **Fizetések feldolgozása**: A Mozilla nem jut olyan pénzügyi adat birtokába, amelyet Ön továbbít feldolgozásra a mi harmadik félként működő beszállítónknak. A tranzakció idején a rendszer megjeleníti a harmadik fél nevét. A harmadik félként működő beszállítókkal kapcsolatos adatokra vonatkozó gyakorlatunk leírása [Mozilla Adatvédelmi Irányelv] itt olvasható:(http://www.mozilla.org/en-US/privacy/). 
+* **Fizetések feldolgozása**: A Mozilla nem jut olyan pénzügyi adat birtokába, amelyet Ön továbbít feldolgozásra a mi harmadik félként működő beszállítónknak. A tranzakció idején a rendszer megjeleníti a harmadik fél nevét.
