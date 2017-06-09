@@ -1,7 +1,7 @@
 # Zasady prywatności przeglądarki Firefox
 
-24 czerwca 2016 r.
-{: datetime="2014-04-15" }
+5 czerwca 2017 r.
+{: datetime="2017-06-05" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Gdy przeglądarka Firefox przesyła informacje do firmy Mozilla (to my), sposób ich wykorzystania przez nas reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -29,7 +29,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 * **Raport o kondycji przeglądarki Firefox**
 {: #health-report .inproduct-link }
 
-	Raport o kondycji przeglądarki Firefox ma na celu udostępnienie użytkownikowi informacji o sprawności i stabilności przeglądarki oraz wskazówek dotyczących pomocy technicznej w przypadku problemów, takich jak duża liczba awarii lub długi czas uruchamiania. Mozilla gromadzi i agreguje dane użytkownika przeglądarki Firefox i wysyła je z powrotem do przeglądarki, aby pokazać użytkownikowi, jak sprawność przeglądarki zmienia się wraz z upływem czasu. Dane te obejmują na przykład: sprzęt, system operacyjny, wersję przeglądarki Firefox, dodatki (liczba i typ), czas zdarzeń przeglądarki, renderowanie, liczbę przywróconych sesji, długość sesji, wiek profilu, liczbę awarii oraz liczbę stron. W raporcie nie są wysyłane do firmy Mozilla odwiedzane przez użytkownika adresy URL.
+	Raport o kondycji przeglądarki Firefox ma na celu udostępnienie użytkownikowi informacji o sprawności i stabilności przeglądarki oraz wskazówek dotyczących pomocy technicznej w przypadku problemów, takich jak duża liczba awarii lub długi czas uruchamiania. Mozilla gromadzi i agreguje dane użytkownika przeglądarki Firefox i wysyła je z powrotem do przeglądarki, aby pokazać użytkownikowi, jak sprawność przeglądarki zmienia się wraz z upływem czasu. Dane te obejmują między innymi sprzęt, system operacyjny, wersję przeglądarki Firefox, dodatki (liczba i typ), czas zdarzeń przeglądarki, renderowanie, liczbę przywróconych sesji, długość sesji, interakcję z punktami dostępu do wyszukiwania i wykorzystanie kodów partnerów wyszukiwania przeglądarki Firefox, wiek profilu, liczbę awarii oraz liczbę stron. W raporcie nie są wysyłane do firmy Mozilla odwiedzane przez użytkownika adresy URL.
 
 	Dane wysyłane za pośrednictwem raportu wykorzystujemy, by udostępniać użytkownikom jego funkcje, takie jak możliwość analizowania i rozwiązywania problemów z działaniem przeglądarki. Informacji uzyskanych z danych raportu używamy także do ulepszania przeglądarki Firefox. Możesz [wyłączyć udostępnianie danych](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -56,10 +56,15 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 
 	Podpowiedzi wyszukiwania to funkcja, która pomaga znaleźć hasła, których często szukali inni użytkownicy. Podpowiedzi są dostarczane przez domyślną wyszukiwarkę (np. Google, Yahoo itp.), a nie przez Firefoksa. Jeśli używana domyślna wyszukiwarka obsługuje podpowiedzi, po włączeniu tej funkcji Firefox może wysyłać hasła wpisywane w pasku Awesome Bar lub w pasku wyszukiwania do domyślnej wyszukiwarki, by pobrać podpowiedzi. Podlega to Polityce prywatności domyślnej wyszukiwarki. [Więcej informacji o podpowiedziach wyszukiwania można znaleźć tutaj](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), razem z informacjami, jak włączyć i wyłączyć tę funkcję.
 
-* **Wyszukiwarka domyślna**
+* **Polecenia i śledzenie kampanii**
+{: #referraltracking }
 {: #thirdparty }
 
-	Aby ułatwić wybór najlepszej dla lokalizacji użytkownika wyszukiwarki domyślnej, Firefox wysyła do firmy Mozilla jednorazowe żądanie wyszukania lokalizacji użytkownika na poziomie kraju na podstawie adresu IP. Wysyłamy te informacje z powrotem do przeglądarki, gdzie są przechowywane lokalnie. Następnie na podstawie lokalnie przechowywanych informacji o kraju Firefox wybiera wyszukiwarkę, która będzie używana domyślnie. [Tutaj dowiesz się więcej](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), w tym jak wyłączyć tę funkcję.
+	Aby pomóc nam lepiej rozumieć i udoskonalać kampanie marketingowe, Firefox może wysyłać „dane poleceń”, takie jak informacje o domenie witryny lub kampanii reklamowej, która poleciła pobranie i zainstalowanie przeglądarki Firefox.
+ 
+	W systemach Android i iOS przeglądarka Firefox wysyła dane poleceń do naszego dostawcy analityki mobilnej i obejmują one także identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, ustawienia lokalne oraz wersję systemu operacyjnego i aplikacji. Więcej informacji znajdziesz[tutaj](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), w tym sposób wyłączania tych raportów.
+
+	Na komputerach przeglądarka Firefox rejestruje i wysyła dane poleceń do firmy Mozilla w ramach raportu o kondycji przeglądarki.  Więcej informacji znajdziesz[tutaj](https://support.mozilla.org/kb/desktop-attribution-privacy), w tym sposób rezygnacji z tych raportów lub ich wyłączenia.
 
 ---------------------------------------
 
