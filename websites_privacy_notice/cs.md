@@ -1,7 +1,7 @@
 # Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-23. ledna 2017
-{: datetime="2017-01-23" }
+11. dubna 2017
+{: datetime="2017-04-11" }
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
@@ -36,6 +36,7 @@ Pro zajištění funkčnosti a vylepšení našich produktů, služeb a komunika
     * Google Analytics, která umisťuje soubor cookie do vašeho zařízení, pro získání metriky, jak uživatelé používají naše webové stránky.      To nám pomáhá vylepšovat obsah stránek.  
     * Optimizely a ShareProgress, které umisťují soubor cookie do vašeho zařízení, jako pomůcku pro testování změn obsahu webových stránek.  To nám pomáhá uživatelům nabízet lepší zkušenosti s webovou stránkou.
     * DoubleClick, který využívá čistý GIF na našich stránkách stahování Firefox.  To nám pomáhá měřit efektivitu našich reklamních kampaní.
+    * Další metriky čas od času, na experimentální bázi. Například to mžeme využít jako pomůcku pro hodnocení nových nástrojů metriky nebo testování stávající shromážděné metriky.
 
 ---------------------------------------
 
@@ -60,4 +61,4 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
 Některé webové stránky Mozilla umožňují provádět nákupy (např. aplikací nebo zboží) nebo poskytovat dary. Tyto transakce jsou zpracovávány třetími stranami a nikoli společností Mozilla. 
 {: #donations }
 
-* **Zpracovávání plateb**:   Společnost Mozilla nezískává žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům. Název třetí strany se zobrazí v okamžiku transakce.  Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí společnosti Mozilla](http://www.mozilla.org/en-US/privacy/).  
+* **Zpracovávání plateb**:   Společnost Mozilla nezískává žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům. Název třetí strany se zobrazí v okamžiku transakce.  
