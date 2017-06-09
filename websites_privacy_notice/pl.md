@@ -1,7 +1,7 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-23 stycznia 2017 r.
-{: datetime="2017-01-23" }
+11 kwietnia 2017 r.
+{: datetime="2017-04-11" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -39,6 +39,7 @@ Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, kor
     * Google Analytics, które umieszcza ciasteczka na urządzeniu użytkownika, by uzyskać dane o sposobie korzystania przez użytkowników z naszych witryn.      Pomaga to nam ulepszać ich treść.  
     * Optimizely i ShareProgress, które to usługi umieszczają na urządzeniu użytkownika ciasteczka, by pomóc nam w testowaniu różnych wariantów zawartości internetowej.  Pozwala to nam oferować użytkownikom lepsze treści internetowe.
     * Firma DoubleClick, która używa przezroczystych plików GIF na naszej stronie pobierania przeglądarki Firefox.  Pomaga nam to w ocenie skuteczności naszych kampanii reklamowych.
+    * Inne narzędzia pomiarowe — co jakiś czas, na zasadach eksperymentalnych. Możemy ich na przykład użyć do oceny nowego narzędzia pomiarowego lub przetestowania obecnych zbiorów pomiarów.
 
 ---------------------------------------
 
@@ -64,4 +65,4 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 Niektóre witryny firmy Mozilla umożliwiają zakupy (np. aplikacji lub urządzeń) albo składanie datków. Transakcje tego rodzaju są obsługiwane przez firmy zewnętrzne, a nie przez firmę Mozilla. 
 {: #donations }
 
-* **Przetwarzanie płatności**: Mozilla nie otrzymuje żadnych danych finansowych, które użytkownik przesyła do usługodawców zewnętrznych w celu przetwarzania. W trakcie transakcji będzie widoczna nazwa firmy zewnętrznej. Więcej informacji o zasadach przetwarzania danych przy współpracy z firmami zewnętrznymi zawiera [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
+* **Przetwarzanie płatności**: Mozilla nie otrzymuje żadnych danych finansowych, które użytkownik przesyła do usługodawców zewnętrznych w celu przetwarzania. W trakcie transakcji będzie widoczna nazwa firmy zewnętrznej.
