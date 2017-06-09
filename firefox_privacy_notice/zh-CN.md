@@ -1,7 +1,7 @@
 # Firefox 浏览器隐私权保护事宜通知
 
-2016 年 6 月 24 日
-{: datetime="2016-06-24" }
+2017 年 6 月 5 日
+{: datetime="2017-06-05" }
 
 我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
 
@@ -29,7 +29,7 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 * **Firefox 系统状况报告**
 {: #health-report .inproduct-link }
 
-	Firefox 系统状况报告 (FHR) 旨在为您提供有关所用浏览器的稳定性和使用性能方面的信息，以及您在遇到故障率高或者启动时间长等问题时所需的支持提示。Mozilla 收集您和其他 Firefox 用户的数据，并将其发回给浏览器，以便您查看所用 Firefox 浏览器的性能在特定时间范围内的变化情况。这些数据包括但不限于：设备硬件、操作系统、Firefox 版本、附加组件（数目和类型）、浏览事件的发生时间、处理情况、会话恢复、会话时长、设置文件的新旧程度、故障次数和页面数等。FHR 不会向 Mozilla 发送您访问的网址 (URL)。
+	Firefox 系统状况报告 (FHR) 旨在为您提供有关所用浏览器的稳定性和使用性能方面的信息，以及您在遇到故障率高或者启动时间长等问题时所需的支持提示。Mozilla 收集并汇总您和其他 Firefox 用户的数据，并将其发回给浏览器，以便您查看所用 Firefox 浏览器的性能随时间推移的变化情况。这些数据包括但不限于：设备硬件、操作系统、Firefox 版本、附加组件（数目和类型）、浏览事件的发生时间、处理情况、会话恢复、会话时长、与搜索访问点的互动和使用 Firefox 搜索伙伴代码、设置文件的新旧程度、故障次数和页面数等。FHR 不会向 Mozilla 发送您访问的网址 (URL)。
 
 	我们使用通过 FHR 发送的数据为用户提供 FHR 功能方面的信息，用以帮助您分析和解决浏览器在使用性能方面的问题。我们还可用汇集的 FHR 数据改进 Firefox 的总体性能。您可以选择[关闭数据分享功能](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off)。
 
@@ -61,10 +61,15 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 
 	搜索建议功能可以帮助您找到其他人搜索过的常见短语。这些搜索建议是由您的默认搜索引擎（如 Google、Yahoo 等）提供的，并非来自 Firefox。如果您启用了这一功能，且您的默认搜索引擎支持搜索建议，则 Firefox 可能将您在智能地址栏或搜索栏中输入的词语发送给您的默认搜索引擎以获取建议。这一操作受到您默认搜索引擎适用的隐私政策的约束。您可以[在这里了解更多关于搜索建议的信息](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)以及如何启用或禁用这一功能。
 
-* **仅适用于 Android 版 Firefox**
+* **引荐和广告活动追踪**
+{: #referraltracking }
 {: #thirdparty }
 
-	为了了解某些 Mozilla 营销活动的效果，Firefox 会将包括 Google 广告 ID、IP 地址、时间戳、国家或地区、语言或语言环境、操作系统、应用程序版本在内的数据发送给我们的第三方供应商。这些数据有助于我们确认某一安装具体是来源于哪个广告渠道，并有助于我们优化营销活动策略。您可以点击[此处了解详情](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices),，包括如何将其禁用。
+	为帮助了解和改进我们的市场推广活动，Firefox 可能会发送“引荐数据”，如引荐您下载并安装 Firefox 的网站域名或广告宣传。
+ 
+	在 Android 和 iOS 设备上，Firefox 会将引荐数据发送给我们的移动分析供应商，包括 Google 广告 ID、IP 地址、时间戳、国家或地区、区域设置、操作系统和应用程序版本。您可以点击 [此处](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) 了解详情，包括如何禁用此报告。
+
+	在桌面设备上，Firefox 会记录引荐数据并将其作为 Firefox 系统状况报告的一部分发送给 Mozilla。您可以点击 [此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解详情，包括如何选择退出或禁用此报告。
 
 ---------------------------------------
 
