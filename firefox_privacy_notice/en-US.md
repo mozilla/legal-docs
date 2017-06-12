@@ -112,5 +112,5 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 	
 ##
 
-Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta, Aurora/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics. Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
+Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
 {: #pre-release }
