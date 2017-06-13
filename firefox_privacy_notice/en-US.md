@@ -47,7 +47,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory, and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors. When Telemetry is enabled, certain short-term experiments may collect information about visited sites.
 
-	This feature is turned on by default in Nightly, Developer Edition (Aurora), and Beta builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
+	This feature is turned on by default in Nightly and Beta/Developer Edition builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
 
 	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it.
 
