@@ -56,9 +56,7 @@ Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores
 
 	Sugerencias de búsqueda es una función que le ayuda a encontrar frases comunes que otras personas han buscado. Estas sugerencias de búsqueda las ofrece su buscador predeterminado (como Google, Yahoo, etc.) y no Firefox. Si activa esta función y su buscador predeterminado permite las sugerencias, Firefox envía los términos que escribe en la Barra Alucinante o en la Barra de búsqueda a su buscador predeterminado para obtener sugerencias. Esta función se rige por la Política de privacidad aplicable de su buscador predeterminado. Para [obtener más información sobre las Sugerencias de búsqueda y sobre cómo activar y desactivar esta función visite](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar).
 
-* **Datos de referencia y de seguimiento de campañas**
-{: #referraltracking }
-{: #thirdparty }
+* **Datos de referencia y de seguimiento de campañas**{: #thirdparty } ** **{: #referraltracking }
 
 	Para ayudar a entender y mejorar nuestras campañas de marketing, Firefox envía “Datos de referencia” como por ejemplo, el dominio del sitio web o la campaña publicitaria que le sugirieron descargar e instalar Firefox.
  

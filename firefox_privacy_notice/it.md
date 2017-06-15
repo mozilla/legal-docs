@@ -56,9 +56,7 @@ Firefox si connette automaticamente a noi e ai nostri fornitori di servizi al fi
 
 	I suggerimenti di ricerca sono utili per trovare le frasi o i termini più comuni cercati da altri utenti. I suggerimenti di ricerca sono forniti dai motori di ricerca predefiniti (come Google, Yahoo e altri) e non da Firefox. Se il motore di ricerca predefinito supporta i suggerimenti, abilitando questa funzione, Firefox può inviare i termini digitati nella barra dell'indirizzo o nella barra di ricerca al motore di ricerca predefinito per recuperare i suggerimenti; la funzione è regolata dall'Informativa sulla privacy del motore di ricerca predefinito. Per [saperne di più sui suggerimenti di ricerca e su come attivare o disattivare la funzione, fare clic qui](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar).
 
-* **Monitoraggio dei referral e delle campagne**
-{: #referraltracking }
-{: #thirdparty }
+* **Monitoraggio dei referral e delle campagne**{: #thirdparty } ** **{: #referraltracking }
 
 	Per comprendere e migliorare le nostre campagne di marketing, Firefox potrebbe inviare dati sui referral, come ad esempio il dominio di sito web o la campagna pubblicitaria che ha indirizzato l'utente alla pagina di download e installazione di Firefox.
 

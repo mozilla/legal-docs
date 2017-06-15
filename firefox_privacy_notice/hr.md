@@ -56,8 +56,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 
 	Traženje prijedloga je značajka koja vam pomaže tražiti česte fraze koje su drugi ljudi tražili. Ovi prijedlozi traženja ponudi su od strane vaše zadane tražilice (kao što je Google, Yahoo, itd.) a ne Firefox. Ako ovu značajku omogućite i vaša tražilica podrži prijedloge, Firefox može poslati uvjete koje upisujete u fenomenalnu traku ili traku za traženje zadane tražilice kako biste dohvatili prijedloge, a podliježe primjenjivim Pravilima o privatnosti vaše tražilice. O prijedlozima za traženje možete [saznati više ovdje](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) te kako ih omogućiti ili onemogućiti.
 
-* **Uvod i praćenje kampanje**
-{: #referraltracking }
+* **Uvod i praćenje kampanje**{: #thirdparty } ** **{: #referraltracking }
 {: #thirdparty }
 
 	Za pomoć razumijevanju i poboljšanju naših maretinških kampanja, firefox može poslati „Refferal data” (Uvodni podaci) poput domene web stranice ili kampanje oglašavanja koji vas uvode u preuzimanje i instalaciju Firefoxa.

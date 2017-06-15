@@ -56,9 +56,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 	Predlozi pretrage predstavljaju opciju koja Vam pomaže da pronađete opšte sintagme koje su pretraživali i drugi. Ovakve predloge pretrage nude Vam i standardni pretraživači (kao što su Google, Yahoo, itd.), ali ne i Firefox. Ako omogućite ovu opciju i ako Vaš standardni pretraživač podržava predloge, Firefox može poslati termine koje ukucavate u traku „Awesome“ (Sjajno) ili u traku pretrage Vašem standardnom pretraživaču da bi dobio predloge, na koje se odnose važeća Pravila privatnosti Vašeg standardnog pretraživača. [Više informacija o predlozima pretrage možete dobiti ovde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) kao i o načinima da ih omogućite ili onemogućite.
 
-* **Praćenje preporuka i kampanji**
-{: #referraltracking }
-{: #thirdparty }
+* **Praćenje preporuka i kampanji**{: #thirdparty } ** **{: #referraltracking }
 
 	Kao pomoć u razumevanju i poboljšanju naših marketinških kampanja, Firefox može slati „Podatke o preporukama“ kao što su domen veb sajta ili reklamna kampanja koja vas je uputila na preuzimanje i instaliranje pretraživača Firefox.
  

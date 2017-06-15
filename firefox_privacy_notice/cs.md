@@ -56,9 +56,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 	Návrhy vyhledávání je funkce, která vám pomůže vyhledávat nejběžnější fráze, které hledali jiní lidé. Tyto návrhy vyhledávání jsou nabízeny našimi Výchozími vyhledávači (jako jsou Google, Yahoo atd.) a nikoliv Firefoxem. Pokud tuto funkci aktivujete a váš Výchozí vyhledávač návrhy podporuje, Firefox může odeslat pojmy, které napíšete do Řádku Awesome nebo Vyhledávacího řádku do vašeho výchozího vyhledávače, aby získal návrhy. V tomto ohledu se uplatní platné Zásahy ochrany osobních údajů vašeho výchozího vyhledávače. [Podrobnější informace o Návrzích vyhledávání najdete zde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) stejně jako informace o tom, jak je aktivovat nebo deaktivovat.
 
-* Doporučení a sledování kampaně
-{: #referraltracking }
-{: #thirdparty }
+* Doporučení a sledování kampaně{: #thirdparty } ** **{: #referraltracking }
 
 	Jako pomoc pro pochopení a zlepšení vašich marketingových kampaní může Firefox „Data doporučení”, jako je doména webové stránky nebo reklamní kampaně, které vám doporučují stáhnout a nainstalovat Firefox.
  

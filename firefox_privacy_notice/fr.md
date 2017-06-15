@@ -56,9 +56,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 	Suggestions de recherche est une fonctionnalité qui vous aide à trouver les expressions communes au sujet desquelles d'autres personnes ont effectué des recherches. Ces suggestions de recherche sont proposées par vos moteurs de recherche par défaut (tels que Google, Yahoo, etc.) et non pas par Firefox. Si vous activez cette fonctionnalité et que votre moteur de recherche par défaut prend en charge vos suggestions, Firefox pourra envoyer les termes que vous tapez dans la barre d'adresse intelligente ou dans la barre de recherche à votre moteur de recherche par défaut pour récupérer les suggestions. Son utilisation est régie par la politique de confidentialité applicable de votre moteur de recherche par défaut. Vous pouvez [en savoir plus sur l'option Suggestions de recherche ici](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) et découvrir comment l'activer ou la désactiver.
 
-* **Suivi des redirections et des campagnes**
-{: #referraltracking }
-{: #thirdparty }
+* **Suivi des redirections et des campagnes**{: #thirdparty } ** **{: #referraltracking }
 
 	Pour nous aider à mieux comprendre et améliorer nos campagnes marketing, Firefox pourra envoyer des « Données de redirection », comme le domaine du site Web ou la campagne marketing qui vous a redirigé vers le téléchargement et l’installation de Firefox.
  

@@ -61,9 +61,7 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 
 	搜索建议功能可以帮助您找到其他人搜索过的常见短语。这些搜索建议是由您的默认搜索引擎（如 Google、Yahoo 等）提供的，并非来自 Firefox。如果您启用了这一功能，且您的默认搜索引擎支持搜索建议，则 Firefox 可能将您在智能地址栏或搜索栏中输入的词语发送给您的默认搜索引擎以获取建议。这一操作受到您默认搜索引擎适用的隐私政策的约束。您可以[在这里了解更多关于搜索建议的信息](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)以及如何启用或禁用这一功能。
 
-* **引荐和广告活动追踪**
-{: #referraltracking }
-{: #thirdparty }
+* **引荐和广告活动追踪**{: #thirdparty } ** **{: #referraltracking }
 
 	为帮助了解和改进我们的市场推广活动，Firefox 可能会发送“引荐数据”，如引荐您下载并安装 Firefox 的网站域名或广告宣传。
  

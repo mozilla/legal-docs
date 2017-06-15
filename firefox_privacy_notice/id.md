@@ -61,9 +61,7 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 
 	Saran pencarian adalah fitur untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain. Saran pencarian ini ditawarkan oleh Mesin Pencari Default Anda (seperti Google, Yahoo, dll.) dan bukan oleh Firefox. Jika Anda mengaktifkan fitur ini, dan Mesin Pencari Default Anda mendukung pemberian saran, Firefox mungkin mengirimkan istilah yang Anda ketik di Bilah Alamat atau Bilah Pencarian ke Mesin Pencari Default Anda untuk mendapatkan saran, dan diatur oleh Kebijakan Privasi Mesin Pencari Default yang berlaku. Anda bisa [mempelajari lebih lanjut tentang Saran Pencarian di sini](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) dan cara mengaktifkan atau menonaktifkannya.
 
-* **Pelacakan Perujuk dan Kampanye Pemasaran**
-{: #referraltracking }
-{: #thirdparty }
+* **Pelacakan Perujuk dan Kampanye Pemasaran**{: #thirdparty } ** **{: #referraltracking }
 
 	Untuk membantu memahami dan meningkatkan kinerja kampanye pemasaran kami, Firefox mungkin mengirimkan “Data Perujuk” seperti domain situs web atau pemasaran iklan yang mengarahkan Anda untuk mengunduh dan memasang Firefox.
  
