@@ -56,9 +56,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 	Die Suchvorschläge sollen Ihnen helfen, von anderen Benutzern häufig verwendete Suchbegriffe zu ermitteln. Diese Suchvorschläge werden von den Standardsuchmaschinen (wie Google, Yahoo usw.) und nicht von Firefox angeboten. Wenn Sie diese Funktion aktivieren und Ihre Standardsuchmaschine Suchvorschläge unterstützt, kann Firefox die Begriffe, die Sie in die Intelligente Adressleiste oder in die Suchleiste eingeben, an Ihre Standardsuchmaschine senden, um Vorschläge abzurufen. Der Vorgang unterliegt dabei den geltenden Datenschutzrichtlinien Ihrer Standardsuchmaschine. [Hier erfahren Sie mehr über Suchvorschläge](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) und dazu, wie Sie sie aktivieren oder deaktivieren.
 
-* **Verweis- und Kampagnenverfolgung**
-{: #referraltracking }
-{: #thirdparty }
+* **Verweis- und Kampagnenverfolgung**{: #thirdparty } ** **{: #referraltracking }
 
 	Damit Sie unsere Marketing-Kampagnen verstehen und verbessern können, kann Firefox „Verweisdaten“ wie z. B. die Website-Domain oder Werbekampagne senden, mit denen Sie auf das Herunterladen und Installieren von Firefox hingewiesen wurden.
  

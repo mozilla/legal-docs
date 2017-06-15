@@ -56,9 +56,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 
 	Podpowiedzi wyszukiwania to funkcja, która pomaga znaleźć hasła, których często szukali inni użytkownicy. Podpowiedzi są dostarczane przez domyślną wyszukiwarkę (np. Google, Yahoo itp.), a nie przez Firefoksa. Jeśli używana domyślna wyszukiwarka obsługuje podpowiedzi, po włączeniu tej funkcji Firefox może wysyłać hasła wpisywane w pasku Awesome Bar lub w pasku wyszukiwania do domyślnej wyszukiwarki, by pobrać podpowiedzi. Podlega to Polityce prywatności domyślnej wyszukiwarki. [Więcej informacji o podpowiedziach wyszukiwania można znaleźć tutaj](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), razem z informacjami, jak włączyć i wyłączyć tę funkcję.
 
-* **Polecenia i śledzenie kampanii**
-{: #referraltracking }
-{: #thirdparty }
+* **Polecenia i śledzenie kampanii**{: #thirdparty } ** **{: #referraltracking }
 
 	Aby pomóc nam lepiej rozumieć i udoskonalać kampanie marketingowe, Firefox może wysyłać „dane poleceń”, takie jak informacje o domenie witryny lub kampanii reklamowej, która poleciła pobranie i zainstalowanie przeglądarki Firefox.
  

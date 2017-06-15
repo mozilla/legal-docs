@@ -56,9 +56,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 
 	A keresési javaslatok funkció segítségével megtalálhatja azokat a gyakori kifejezéseket, amelyekre mások rákerestek. Ezeket a keresési javaslatokat az Ön alapértelmezett keresőprogramja ajánlja fel (például Google, Yahoo stb.), nem a Firefox. Ha engedélyezi ezt a funkciót, és az alapértelmezett keresőprogramja támogatja a javaslatokat, a Firefox elküldheti az intelligens címsorba vagy a keresősávba begépelt kifejezéseket az alapértelmezett keresőprogramjának, hogy javaslatokat kérjen le. Ekkor az alapértelmezett keresőprogram vonatkozó Adatvédelmi szabályzata van érvényben. A [keresési javaslatokról, illetve ezek](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) engedélyezéséről vagy letiltásáról még több információt találhat itt.
 
-* **Ajánlás és kampánykövetés**
-{: #referraltracking }
-{: #thirdparty }
+* **Ajánlás és kampánykövetés**{: #thirdparty } ** **{: #referraltracking }
 
 	Marketingkampányaink megismerésének és javításának elősegítése érdekében a Firefox „Ajánlási adatokat” küldhet, mint például a Firefox letöltését és telepítését ajánló weboldal tartományát vagy reklámkampányt.
  

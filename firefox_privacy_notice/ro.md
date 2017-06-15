@@ -61,9 +61,7 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 
 	Sugestiile de căutare reprezintă o funcție care vă ajută să găsiți sintagme uzuale, pe care le-au mai căutat și alte persoane. Aceste sugestii de căutare sunt oferite de motoarele dvs. de căutare implicite (cum ar fi Google, Yahoo, etc.), și nu de Firefox. Dacă activați această funcție, și motorul dvs. de căutare implicit suportă sugestiile, Firefox poate să trimită termenii pe care îi scrieți în bara inteligentă sau în bara de căutare către motorul dvs. de căutare implicit, pentru a prelua sugestiile, iar această acțiune este supusă Politicii de Confidențialitate aplicabile respectivului motor de căutare implicit. Puteți [afla mai multe despre sugestiile de căutare aici](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), inclusiv cum să le activați sau dezactivați.
 
-* **Referral și urmărirea campaniei**
-{: #referraltracking }
-{: #thirdparty }
+* **Referral și urmărirea campaniei**{: #thirdparty } ** **{: #referraltracking }
 
 	Pentru a putea înțelege și îmbunătăți campaniile noastre de marketing, Firefox poate trimite „Date de referral”, cum ar fi domeniul site-ului web sau campania publicitară care v-a recomandat să descărcați și să instalați Firefox.
  

@@ -56,9 +56,7 @@ O Firefox se conecta automaticamente a nós e a nossos prestadores de serviços 
 
 	As sugestões de pesquisa ajudam a encontrar frases comuns pesquisadas por outras pessoas. Essas sugestões de pesquisa são fornecidas pelo seu mecanismo de pesquisa padrão (como o Google, Yahoo, etc.), não pelo Firefox. Se esse recurso for ativado e seu mecanismo de pesquisa padrão for compatível com sugestões, o Firefox poderá enviar os termos digitados na Barra de Endereços Inteligente ou no campo de pesquisa para obter as sugestões. Isso é regido pela Política de Privacidade aplicável do seu mecanismo de pesquisa padrão. [Saiba mais sobre as Sugestões de pesquisa aqui](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) e como ativá-la ou desativá-la.
 
-* **Rastreamento de referências e campanhas**
-{: #referraltracking }
-{: #thirdparty }
+* **Rastreamento de referências e campanhas**{: #thirdparty } ** **{: #referraltracking }
 
 	Para ajudar a entender e melhorar nossas campanhas de marketing, o Firefox pode enviar “Dados de referência”, como o domínio do site ou campanhas de publicidade que solicitam que você baixe e instale o Firefox.
  
