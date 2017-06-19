@@ -5,7 +5,7 @@
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
-Toto oznámení o ochraně osobních údajů se vztahují na webové stránky a mobilní aplikace provozované společností Mozilla, které, kromě jiného, zahrnují domény mozillians.org, mozilla.org, firefox.com a webmaker.org. To se týká například bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
+Toto oznámení o ochraně osobních údajů se vztahuje na webové stránky a mobilní aplikace provozované společností Mozilla, k nimž patří kromě jiných domény mozillians.org, mozilla.org, firefox.com a webmaker.org. Patří sem například  bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
 
 ## Co byste měli vědět
 
@@ -32,11 +32,13 @@ Pro zajištění funkčnosti a vylepšení našich produktů, služeb a komunika
     * Adresy IP se používají pro přizpůsobení sdělení jazyku a zemi.  
     * Informace o zařízení, jako např. země, jazyk, operátor a OEM mohou být využity pro přizpůsobení vaší interakce na Firefox Marketplace a Webmaker.
 
-* **Metrika**: Čisté GIFy, soubory cookies a služby třetích osob nám pomáhají porozumět celkovému obrazu toho, jak uživatelé pracují s našimi produkty, službami, sděleními, webovými stránkami, online kampaněmi, snippety, zařízeními a dalšími platformami. Používáme:
-    * Google Analytics, která umisťuje soubor cookie do vašeho zařízení, pro získání metriky, jak uživatelé používají naše webové stránky.      To nám pomáhá vylepšovat obsah stránek.  
-    * Optimizely a ShareProgress, které umisťují soubor cookie do vašeho zařízení, jako pomůcku pro testování změn obsahu webových stránek.  To nám pomáhá uživatelům nabízet lepší zkušenosti s webovou stránkou.
-    * DoubleClick, který využívá čistý GIF na našich stránkách stahování Firefox.  To nám pomáhá měřit efektivitu našich reklamních kampaní.
-    * Další metriky čas od času, na experimentální bázi. Například to mžeme využít jako pomůcku pro hodnocení nových nástrojů metriky nebo testování stávající shromážděné metriky.
+* **Metriky**: Můžeme rovněž používat soubory cookies, informace o zařízení a adresy IP společně s čistými GIFy, soubory cookies a službami třetích osob, které nám pomohou shrnovat, jak uživatelé využívají naše produkty, služby, komunikace, webové stránky, online kampaně, snippety, zařízení a další platformy. Používáme:
+    * Google Analytics, která umisťuje soubory cookie do vašeho zařízení pro získání metrik toho, jak uživatelé využívají naše webové stránky.      To nám pomáhá vylepšovat obsah stránek.  
+    * Optimizely a ShareProgress, které umisťují soubory cookie do vašeho zařízení, které nám pomáhají testovat změny obsahu webu.  To nám pomáhá nabízet uživatelům lepší zkušenosti s webem.
+    * DoubleClick a Flashtalking, z nichž každá využívá čisté GIFy na stránkách stahování Firefox.  To nám pomáhá měřit efektivitu našich reklamních kampaní.
+    * Yahoo Dot Pixel, která využívá JavaScript na našich stránkách stahování Firefox. To nám pomáhá měřit efektivitu našich reklamních kampaní. 
+    * Referenční data HTTP, která mohou být součástí instalačního programu Firefox, které nám pomáhají pochopit domény webových stránek nebo reklamní kampaně, které vás na stránku stahování přivedly. Tato informace nám pomáhá pochopit efektivitu našich reklamních kampaní a jejich vylepšování.
+    * Další nástroje metriky čas od času, na experimentální bázi. Například to mžeme využít jako pomůcku pro hodnocení nových nástrojů metriky nebo testování stávající shromážděné metriky.
 
 ---------------------------------------
 
@@ -45,14 +47,15 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
 
 * **Historie souborů cookie**: Jednotlivé soubory cookies můžete přijmout nebo odmítnout v preferencích aplikace Firefox pod položkou Historie v části Nástroje/Možnosti/Soukromí. Dovolujeme si upozornit, že některé funkce našich produktů a služeb nemusí bez pomoci souborů cookies správně fungovat.
 
-* **Nesledovat**: Společnost Mozilla nesleduje uživatele napříč nezávislými webovými stránkami za účelem poskytování cílené reklamy.  Funkci Nesledovat můžete ve Firefoxu aktivovat pod položkou Sledování v části Nástroje/Možnosti/Soukromí. To vám umožní nastavit preferenci pro nezávislé webové stránky ohledně způsobu, jakým jsou informace shromažďovány a online využívány.  
+* **Nesledovat**: Mozilla nesleduje uživatele prostřednictvím webových stránek třetích osob pro zasílání cílené reklamy Pokud máte váš prohlížeč při vstupu na webové stránky nakonfigurovaný s nastavením signálu „Nesledovat”, Mozilla nebude používat žádný z nástrojů popsaných v části [Metriky](#data-tools) section.  
 
 * **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/). Funkci jednopixelových gifů můžete deaktivovat tím, že si e-maily od nás budete prohlížet v „textovém“ formátu.  
 
 * **Analýza a optimalizace**: Pro zabránění shromažďování dat o vašich návštěvách webových stránek Mozilla postupujte dle pokynů níže:
-   *  Google: Nainstalujte dodatek [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), který zachová anonymitu vašich návštěv a zakáže přenos dat do Google Analytics. Některé stránky Mozilla.org používají čisté soubory GIF, které komunikují s DoubleClick, aby umožnily pochopit účinnost našich reklamních kampaní; přizpůsobené reklamy z DoubleClick mžete ovládat v nastavení reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
-   *  Optimizely: [Zrušte odběr v www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) nebo navštivte [webové stránky zrušení odběru Optimizely](https://www.optimizely.com/opt_out), kde najdete podrobnější informace. 
-   *  ShareProgress: V prohlížeči můžete [zapnout funkci Nesledovat](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+    *  Google: Nainstalujte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), který zachová anonymitu vašich návštěv a zakáže přenos dat do Google Analytics. Některé stránky Mozilla.org používají čisté soubory GIF, které komunikují s DoubleClick, aby umožnily pochopit účinnost našich reklamních kampaní; přizpůsobené reklamy z DoubleClick mžete ovládat v nastavení reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
+    *  Optimizely: [Zrušte odběr v www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) nebo navštivte [webové stránky zrušení odběru Optimizely](https://www.optimizely.com/opt_out), kde najdete podrobnější informace.
+    *  Yahoo: pro zrušení volby navštivte [Správné reklamních zájmů](https://aim.yahoo.com/aim/us/en/optout/).
+    *  ShareProgress: V prohlížeči můžete [zapnout funkci Nesledovat](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Sociální média**: Tlačítka pro sdílení na sociálních sítích na webových stránkách Mozilla jsou navržena tak, aby údaje nebyly sdíleny s poskytovatelem sociálních médií, dokud na tlačítko přímo nekliknete.
 
