@@ -5,7 +5,7 @@
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
-Zasady prywatności dotyczą aplikacji mobilnych i witryn obsługiwanych przez firmę Mozilla, znajdujących się między innymi w domenach mozillians.org, mozilla.org, firefox.com i webmaker.org. Należą do nich między innymi witryny bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
+Niniejsze zasady prywatności mają zastosowanie do witryn i aplikacji mobilnych firmy Mozilla, w tym między innymi do domen mozillians.org, mozilla.org, firefox.com i webmaker.org. Obejmują one także na przykład takie witryny: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
 ## Co warto wiedzieć
 
@@ -35,11 +35,13 @@ Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, kor
     * Adresy IP są wykorzystywane do dostosowania kanałów komunikacji do języka i kraju użytkownika.  
     * Dane urządzeń, takie jak kraj, język, operator i producent, mogą być wykorzystywane do dostosowania interfejsu witryn Firefox Marketplace i Webmaker.
 
-* **Dane**: Przezroczyste pliki GIF, ciasteczka i narzędzia analityczne pomagają nam dowiedzieć się, jak użytkownicy korzystają z naszych produktów, usług oraz metod komunikacji w naszych witrynach, kampaniach internetowych, wstawkach, urządzeniach i na innych platformach. Używamy:
-    * Google Analytics, które umieszcza ciasteczka na urządzeniu użytkownika, by uzyskać dane o sposobie korzystania przez użytkowników z naszych witryn.      Pomaga to nam ulepszać ich treść.  
-    * Optimizely i ShareProgress, które to usługi umieszczają na urządzeniu użytkownika ciasteczka, by pomóc nam w testowaniu różnych wariantów zawartości internetowej.  Pozwala to nam oferować użytkownikom lepsze treści internetowe.
-    * Firma DoubleClick, która używa przezroczystych plików GIF na naszej stronie pobierania przeglądarki Firefox.  Pomaga nam to w ocenie skuteczności naszych kampanii reklamowych.
-    * Inne narzędzia pomiarowe — co jakiś czas, na zasadach eksperymentalnych. Możemy ich na przykład użyć do oceny nowego narzędzia pomiarowego lub przetestowania obecnych zbiorów pomiarów.
+* **Pomiary**: Możemy także używać ciasteczek, informacji o urządzeniu i adresów IP, przezroczystych plików GIF i usług podmiotów zewnętrznych. Pomaga nam to uzyskać ogólne zrozumienie tego, w jaki sposób użytkownicy korzystają z naszych produktów, usług, metod komunikacji, witryn, kampanii online, wstawek, urządzeń i innych platform. Używamy tych rozwiązań:
+    * Google Analytics — ta usługa umieszcza plik na urządzeniu w celu uzyskiwania pomiarów dotyczących korzystania przez użytkowników z naszych witryn.      Pomaga nam to zapewniać coraz lepszą zawartość witryn.  
+    * Optimizely i ShareProgress — te usługi umieszczają ciasteczko na urządzeniu. Umożliwia nam to testowanie różnych wariantów zawartości internetowej.  Usługi te pomagają nam zaoferować lepszą interakcję z witrynami.
+    * DoubleClick i Flashtalking — obie usługi używają przezroczystego pliku GIF na stronie z przeglądarką Firefox do pobrania.  Pomaga nam to mierzyć skuteczność naszych kampanii reklamowych.
+    * Yahoo Dot Pixel — ta usługa używa kodu JavaScript na naszej stronie z przeglądarką Firefox do pobrania. Pomaga nam to mierzyć skuteczność naszych kampanii reklamowych. 
+    * Dane odwołań HTTP — dane te może zawierać instalator przeglądarki Firefox. Umożliwiają one nam zrozumienie, która domena internetowa lub kampania reklamowa skierowała użytkownika na naszą stronę umożliwiającą pobranie. Dane te pomagają też nam zrozumieć skuteczność kampanii reklamowych i ulepszać je.
+    * Od czasu do czasu eksperymentalnie używamy też innych narzędzi pomiarowych. Na przykład w celu przetestowania nowego narzędzia lub sprawdzenia istniejących pomiarów.
 
 ---------------------------------------
 
@@ -49,14 +51,15 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 * **Historia ciasteczek**: użytkownik może zaakceptować lub odrzucić poszczególne ciasteczka w przeglądarce Firefox w sekcji Historia na karcie Narzędzia/Opcje/Prywatność. Należy pamiętać, że określone funkcje naszych produktów i usług mogą działać nieprawidłowo bez obsługi ciasteczek.
 {: #cookies }
 
-* **Ograniczanie śledzenia**: Mozilla nie śledzi użytkowników w witrynach firm zewnętrznych w celu wyświetlania reklam kierowanych. Ograniczanie śledzenia można włączyć w przeglądarce Firefox w sekcji Śledzenie na karcie Narzędzia/Opcje/Prywatność. Pozwala to wskazać witrynom zewnętrznym, jak mają zbierać i wykorzystywać online dane użytkownika.
+* **Ograniczenia dotyczące śledzenia**: Mozilla nie śledzi użytkowników w witrynach podmiotów zewnętrznych w celu kierowania reklam do określonych odbiorców. Jeśli przeglądarka ma skonfigurowaną funkcję wysyłania sygnału „Nie śledź” podczas otwierania witryn firmy Mozilla, nie korzystamy z żadnych narzędzi opisanych w sekcji [Pomiary](#data-tools) section.
 
 * **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/). Funkcjonalność przezroczystych plików GIF można wyłączyć, wyświetlając wiadomości od nas w formacie czysto tekstowym.
 
-* **Analityka i optymalizacja**: Aby zapobiec zbieraniu danych o przeglądaniu witryn firmy Mozilla, wykonaj poniższe instrukcje:
-   *  Google: Zainstaluj [dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout), który zachowuje anonimowość przeglądania stron i uniemożliwia transmisję danych do Google Analytics. Niektóre strony Mozilla.org wykorzystują przezroczyste pliki GIF, które komunikują się z usługą DoubleClick, by umożliwić ocenę skuteczności kampanii reklamowych. Ustawienia personalizowanych reklam z usługi DoubleClick można zmienić w ustawieniach reklam Google (konieczne będzie zalogowanie się na konto Google).
-   *  Optimizely: [Zrezygnuj na stronie www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) lub przejdź do [witryny rezygnacji Optimizely](https://www.optimizely.com/opt_out), by uzyskać więcej informacji 
-   *  ShareProgress: Możesz [wyłączyć śledzenie w przeglądarce](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Analityka i optymalizacja**: Aby zapobiec zbieraniu danych o przeglądaniu witryn firmy Mozilla, wykonaj poniższe instrukcje:
+    *  Google: zainstaluj [Dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout). Pozwala on zachować anonimowość dotyczącą przeglądania witryn i zapobiega przekazywaniu danych do usługi Google Analytics. Niektóre strony w domenie Mozilla.org używają przezroczystych plików GIF, które komunikują się z usługą DoubleClick. Pomaga nam to zrozumieć skuteczność naszych kampanii reklamowych. Spersonalizowane reklamy z usługi DoubleClick możesz konfigurować w ustawieniach reklam Google (zostanie wyświetlona prośba o zalogowanie się na swoim koncie Google).
+    *  Optimizely: [Możesz zrezygnować z tej usługi pod adresem www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true). Aby uzyskać więcej informacji, przejdź na [witrynę rezygnacji z usługi Optimizely](https://www.optimizely.com/opt_out).
+    *  Yahoo: aby zrezygnować ze śledzenia, przejdź na stronę [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/).
+    *  ShareProgress: Możesz [włączyć funkcję „Nie śledź” w przeglądarce](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media społecznościowe**: przyciski społecznościowe w witrynach firmy Mozilla zostały zaprojektowane tak, by nie udostępniać żadnych danych dostawcom usług społecznościowych, dopóki nie kliknie ich użytkownik.
 
