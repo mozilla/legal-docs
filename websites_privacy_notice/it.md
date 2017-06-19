@@ -3,9 +3,9 @@
 11 aprile 2017
 {: datetime="2017-04-11" }
 
-Per Mozilla la privacy degli utenti è importante. L’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
+Per Mozilla la privacy degli utenti è importante. [L’informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/) descrive il modo in cui Mozilla tratta le informazioni che raccoglie sugli utenti.
 
-Questo avviso sulla privacy si applica ai siti Web gestiti da Mozilla e alle app per dispositivi mobili, che includono i domini mozillians.org, mozilla.org, firefox.com e webmaker.org, solo per citarne alcuni.  Sono inclusi, per esempio, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Questa informativa sulla privacy si applica alle app per dispositivi mobili e ai siti web gestiti da Mozilla, che includono, tra gli altri, i domini mozillians.org, mozilla.org, firefox.com e webmaker.org, così come anche, per esempio, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## Cose da sapere
 
@@ -35,10 +35,12 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
     * Gli indirizzi IP vengono utilizzati per personalizzare le comunicazioni in base alla lingua e al Paese.  
     * Le informazioni sui dispositivi, come Paese, lingua operatore e OEM, vengono utilizzate per personalizzare l'esperienza dell'utente in Firefox Marketplace e Webmaker.
 
-* **Metriche**: GIF trasparenti, cookie e servizi di terze parti ci aiutano a comprendere complessivamente come gli utenti interagiscono con i nostri prodotti, servizi, comunicazioni, siti web, campagne online, snippet, dispositivi e altre piattaforme. Utilizziamo:
-    * Google Analytics, che inserisce un cookie nel dispositivo in uso per ottenere metriche relative alle modalità di interazione degli utenti con i nostri siti web.      Questo ci aiuta a migliorare i contenuti dei sito.  
-    * Optimizely e ShareProgress, che inseriscono un cookie nel dispositivo in uso per aiutarci a testare le varianti di contenuti web.  Questo ci consente di offrire una migliore esperienza utente.
-    * DoubleClick, che impiega un GIF trasparente nella nostra pagina Firefox di download. Questo ci aiuta a misurare l'efficacia delle nostre campagne pubblicitarie.
+* **Metriche**: utilizziamo anche cookie, informazioni sui dispositivi e indirizzi IP, oltre a GIF trasparenti, cookie e servizi di terze parti, per aiutarci a comprendere complessivamente come gli utenti interagiscono con i nostri prodotti, servizi, comunicazioni, siti web, campagne online, snippet, dispositivi e altre piattaforme. Utilizziamo:
+    * Google Analytics, che inserisce un cookie nel dispositivo in uso, per ottenere metriche relative alle modalità di interazione degli utenti con i nostri siti web.      Questo ci aiuta a migliorare i contenuti dei siti.  
+    * Optimizely e ShareProgress, che inseriscono un cookie nel dispositivo in uso, per aiutarci a testare le varianti di contenuti web.  Questo ci consente di offrire una migliore esperienza utente.
+    * DoubleClick e Flashtalking, ognuno dei quali impiega un GIF trasparente nella pagina di download di Firefox.  Questo ci aiuta a misurare l'efficacia delle nostre campagne pubblicitarie.
+    * Yahoo Dot Pixel, che utilizza JavaScript nella pagina di download di Firefox. Questo ci aiuta a misurare l'efficacia delle nostre campagne pubblicitarie. 
+    * Dati sui referral HTTP, che potrebbero essere inclusi con il programma di installazione di Firefox, per conoscere il dominio di sito web o la campagna pubblicitaria che ha indirizzato l'utente alla nostra pagina di download. Queste informazioni ci aiutano a valutare l'efficacia delle nostre campagne pubblicitarie e a migliorarle.
     * Altri strumenti di analisi delle metriche, occasionalmente e in via sperimentale, ad esempio per valutarne di nuovi o per testare raccolte di metriche esistenti.
 
 ---------------------------------------
@@ -49,14 +51,15 @@ Utilizziamo cookie, GIF trasparenti, Web analytics di terze parti e gli indirizz
 * **Cronologia dei cookie** È possibile accettare o rifiutare i singoli cookie nelle preferenze di Firefox, nella sezione Cronologia del pannello Privacy. Nota: determinate caratteristiche dei nostri prodotti e servizi potrebbero non funzionare correttamente senza il supporto dei cookie.
 {: #cookies }
 
-* **Antitracciamento** Mozilla non traccia gli utenti nei siti web di terze parti al fine di fornire pubblicità mirata. È possibile attivare la funzione antitracciamento in Firefox nel pannello Privacy delle preferenze, in corrispondenza di Tracciamento. Questo consentirà di indicare ai siti web di terze parti le proprie preferenze sulla raccolta e il trattamento dei dati personali.
+* **Antitracciamento**: Mozilla non tiene traccia degli utenti nei siti web di terze parti al fine di fornire pubblicità mirata. Se nel browser in uso è stata attivata la funzione di antitracciamento per i nostri siti web, Mozilla non utilizzerà alcuno strumento descritto nella sezione [Metriche](#data-tools) section.
 
 * **Email** La ricezione delle nostre comunicazioni di marketing è facoltativa: è possibile annullare l’iscrizione nel piè di pagina dell’email oppure aggiornando le proprie [preferenze email Mozilla](https://www.mozilla.org/newsletter/recovery/). È possibile disattivare la funzionalità delle GIF trasparenti visualizzando le nostre email in formato “solo testo”.
 
 * **Analytics e ottimizzazione**: attenersi alle istruzioni riportate di seguito per impedire la raccolta dei dati sulle proprie visite ai siti web Mozilla:
-   *  Google: installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout), che mantiene anonime le visite e blocca la trasmissione dei dati a Google Analytics. Alcune pagine Mozilla.org usano GIF trasparenti che comunicano con DoubleClick per verificare l'efficacia delle nostre campagne pubblicitarie; è possibile controllare gli annunci personalizzati di DoubleClick nelle impostazioni pubblicitarie di Google (verrà richiesto di eseguire l'accesso al proprio account Google).
-   *  Optimizely: [disattivare il servizio su www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) oppure visitare il [sito web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni. 
-   *  ShareProgress: è possibile [attivare la funzione antitracciamento nel proprio browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+    *  Google: installare [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), che mantiene anonime le visite e impedisce la trasmissione dei dati a Google Analytics. Alcune pagine di Mozilla.org usano GIF trasparenti che comunicano con DoubleClick per verificare l'efficacia delle nostre campagne pubblicitarie; è possibile controllare gli annunci personalizzati di DoubleClick nelle impostazioni pubblicitarie di Google (verrà richiesto di eseguire l'accesso al proprio account Google).
+    *  Optimizely: [disattivare il servizio su www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) oppure visitare il [sito web per la disattivazione di Optimizely](https://www.optimizely.com/opt_out) per ulteriori informazioni.
+    *  Yahoo: visitare la pagina di [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) per eseguire l'opt-out.
+    *  ShareProgress: è possibile [attivare la funzione di antitracciamento nel browser in uso](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Social media** I pulsanti di condivisione sui social media presenti nei siti web Mozilla sono progettati in modo da non condividere dati con il social network fino a quando non si fa esplicitamente clic sul pulsante.
 
