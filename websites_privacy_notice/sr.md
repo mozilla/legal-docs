@@ -5,7 +5,7 @@
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
 
-Ovo obaveštenje o privatnosti važi za veb sajtove i mobilne aplikacije koje vodi Mozilla, a koji obuhvataju domene mozillians.org, mozilla.org, firefox.com i webmaker.org, između ostalih. To obuhvata, na primer, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
+Ovo obaveštenje o privatnosti se odnosi na sajtove i mobilne aplikacije kojima upravlja Mozilla, a koji, između ostalog, obuhvataju domene mozillians.org, mozilla.org, firefox.com i webmaker.org. To obuhvata, na primer, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
 ## Stvari koje bi trebalo da znate
 
@@ -32,10 +32,12 @@ Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i 
     * IP adrese se koriste za prilagođavanje obaveštenja prema jeziku i zemlji.  
     * Podaci o uređaju, kao što su zemlja, jezik, operater i OEM, mogu se koristiti za prilagođavanje sadržaja na sajtovima Marketplace i Webmaker kompanije Firefox.
 
-* **Podaci**: Čisti GIF-ovi, kolačići i servisi treće strane nam pomažu da razumemo zbirno kako korisnici koriste naše proizvode, servise, komunikacije, veb sajtove, internet kampanje, isečke, uređaje i druge platforme. Koristimo:
-    * Google Analytics, koji postavlja kolačić na Vaš uređaj, kako bismo dobili podatke o interakciji korisnika sa našim veb sajtovima.      To nam pomaže da unapredimo sadržaj sajta.  
-    * Optimizely i ShareProgress, koji postavljaju kolačić na Vaš uređaj, pomažu nam da testiramo varijacije veb sadržaja.  To nam pomaže da ponudimo bolje veb iskustvo korisnicima.
-    * DoubleClick, koji koristi prazan GIF na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da merimo efektivnost naših reklamnih kampanja.
+* **Merni parametri**: Možemo koristiti i kolačiće, podatke o uređaju i IP adrese, uz prazne GIF-ove, kolačiće i usluge treće strane da bismo razumeli zbirno kako korisnici ulaze u interakciju s našim proizvodima, uslugama, saopštenjima, sajtovima, internet kampanjama, isečcima, uređajima i drugim platformama. Koristimo:
+    * Google Analytics, koji postavlja kolačić na vaš uređaj u cilju dobijanja mernih parametara o tome kako korisnici ulaze u interakciju s našim sajtovima.      To nam pomaže da poboljšamo sadržaj sajtova.  
+    * Optimizely i ShareProgress, koji postavljaju kolačić na vaš uređaj kako bi nam pomogli da testiramo varijacije internet sadržaja.  To nam pomaže da ponudimo korisnicima bolji veb doživljaj.
+    * DoubleClick i Flashtalking, koji koriste prazan GIF na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da merimo efektivnost naših reklamnih kampanja.
+    * Yahoo Dot Pixel, koji koristi JavaScript na našoj stranici za preuzimanje pregledača Firefox. To nam pomaže da merimo efektivnost naših reklamnih kampanja. 
+    * HTTP podatke o upućivanju, koji se mogu uključiti u instalacioni program Firefox, kako bismo razumeli domen sajta ili reklamnu kampanju koja vas je uputila na našu stranicu za preuzimanje. Ovi podaci nam pomažu da razumemo efektivnost naših reklamnih kampanja i da ih poboljšamo.
     * Ostali alati za merenje, s vremena na vreme, eksperimentalnog tipa. Na primer, ovo možemo uraditi kao pomoć u proceni novog alata za merenje ili prilikom testiranja postojeće kolekcije merenja.
 
 ---------------------------------------
@@ -45,14 +47,15 @@ Možete kontrolisati pojedinačna podešavanja kolačića, naznačiti drugima sv
 
 * **Istorijat kolačića**: U okviru podešavanja pretraživača Firefox, u delu Alati/Opcije/Istorijat privatnosti, možete prihvatiti ili odbiti pojedinačne kolačiće. Imajte na umu da neke funkcije naših proizvoda i usluga možda neće pravilno raditi bez pomoći kolačića.
 
-* **Ne pratite**: Mozilla ne prati korisnike na sajtovima trećih strana radi ciljanog oglašavanja.  Možete prebaciti opciju „Ne pratite“ u pretraživaču Firefox, u delu Alati/Opcije/Privatnost, na „Praćenje“. Ovim se sajtovi treće strane obaveštavaju o vašim željenim podešavanjima načina na koji se vaši podaci na internetu prikupljaju i koriste.  
+* **Ne pratite**: Mozilla ne prati korisnike na sajtovima trećih strana radi ciljanog oglašavanja. Ako ste konfigurisali svoj pregledač da šalje signal „Ne pratite“ prilikom posete našim sajtovima, Mozilla neće koristiti nijedan od alata opisanih u delu [Merni parametri](#data-tools) section.
 
 * **E-pošta**: Naša marketinška saopštenja su fakultativna i možete se odjaviti u dnu poruke e-pošte ili izmenom svojih [željenih podešavanja e-pošte za servis Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/). Možete isključiti funkciju praznih GIF-ova tako što ćete naše poruke e-pošte primati samo u tekstualnom formatu.  
 
 * **Analitika i optimizacija**: Pratite uputstva u nastavku da biste sprečili prikupljanje podataka o Vašim posetama veb sajtovima Mozilla:
-   *  Google: Instalirajte [Dodatak pretraživaču za odjavu od servisa Google Analytics](https://tools.google.com/dlpage/gaoptout), koji omogućava anonimnost Vaših poseta i zabranjuje prenos podataka servisu Google Analytics. Neke stranice Mozilla.org koriste prazne GIF-ove koji komuniciraju sa servisom DoubleClick kako bismo razumeli efektivnost naših reklamnih kampanja; možete da kontrolišete personalizovane reklame servisa DoubleClick u podešavanjima reklama kompanije Google (pojaviće se poruka da se prijavite na svoj Google nalog).
-   *  Optimizely: [Odjavite se na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posetite [veb sajt za odjavu servisa Optimizely](https://www.optimizely.com/opt_out) za više informacija. 
-   *  ShareProgress: Možete da [uključite opciju Ne pratite u svom pregledaču](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+    *  Google: Instalirajte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), koji omogućava anonimnost vaših poseta i zabranjuje prenos podataka servisu Google Analytics. Neke stranice Mozilla.org koriste prazne GIF-ove koji komuniciraju sa servisom DoubleClick kako bismo razumeli efektivnost naših reklamnih kampanja; možete da kontrolišete personalizovane reklame servisa DoubleClick u podešavanjima reklama kompanije Google (pojaviće se poruka da se prijavite na svoj Google nalog).
+    *  Optimizely: [Odjavite se na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posetite [veb sajt za odjavu servisa Optimizely](https://www.optimizely.com/opt_out) za više informacija.
+    *  Yahoo: posetite [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) za odjavu.
+    *  ShareProgress: Možete da [uključite opciju Ne pratite u svom pregledaču](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Društveni mediji**: Dugmad na sajtovima Mozilla za podelu sadržaja na društvenim mrežama osmišljena su tako da se podaci sa provajderima društvenih medija ne dele dok ne kliknete na dugme.
 
