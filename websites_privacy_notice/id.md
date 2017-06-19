@@ -35,10 +35,12 @@ Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan al
     * Alamat IP digunakan untuk menyesuaikan media komunikasi berdasarkan bahasa dan negara.  
     * Informasi perangkat seperti negara, bahasa, operator dan OEM, bisa digunakan untuk menyesuaikan pengalaman Anda di Firefox Marketplace dan Webmaker.
 
-* **Metrik**: GIF transparan, cookie dan layanan pihak ketiga membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, media komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
-    * Google Analytics, yang menempatkan cookie di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
-    * Optimizely dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
-    * DoubleClick, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program pemasaran iklan kami.
+* **Metrik**: Kami mungkin juga menggunakan kuki, informasi perangkat, dan alamat IP, beserta GIF transparan, kuki, dan layanan pihak ketiga untuk membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
+    * Google Analytics, yang menempatkan kuki di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
+    * Optimizely dan ShareProgress, yang menempatkan kuki di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
+    * DoubleClick dan Flashtalking, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program     pemasaran iklan kami.
+    * Yahoo Dot Pixel, yang menggunakan JavaScript di halaman unduh Firefox kami. Ini membantu kami mengukur keefektifan program pemasaran iklan kami. 
+    * Data Perujuk HTTP, yang mungkin disertakan dengan penginstal Firefox, untuk memahami domain situs web atau program pemasaran iklan yang mengarahkan Anda ke halaman unduhan kami. Informasi ini membantu kami memahami keefektifan program pemasaran iklan kami dan meningkatkannya.
     * Alat metrik lainnya digunakan dari waktu ke waktu, berdasarkan eksperimen. Misalnya, kami mungkin melakukannya untuk membantu mengevaluasi alat metrik baru, atau menguji koleksi metrik yang ada.
 
 ---------------------------------------
@@ -49,14 +51,15 @@ Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki
 * **Riwayat Kuki**: Anda dapat menerima atau menolak masing-masing kuki pada preferensi Firefox di bagian riwayat pada Alat/Opsi/Privasi. Perlu diperhatikan bahwa fitur-fitur tertentu dari produk dan layanan kami mungkin tidak berfungsi dengan baik tanpa bantuan kuki.
 {: #cookies }
 
-* **Jangan Lacak**: Mozilla tidak melacak pengguna di seluruh situs web pihak ketiga untuk menyediakan iklan yang ditargetkan. Anda dapat mengaktifkan fitur Jangan Lacak di Firefox di bagian Pelacakan pada Alat/Opsi/Privasi. Dengan fitur ini, Anda memberi petunjuk ke situs web pihak ketiga tentang bagaimana informasi Anda dikumpulkan dan digunakan secara daring.
+* **Jangan Lacak**: Mozilla tidak melacak pengguna di seluruh situs web pihak ketiga untuk menyediakan iklan yang ditargetkan. Jika Anda sudah mengonfigurasi browser Anda untuk mengirimkan sinyal “Jangan Lacak” saat mengakses situs web kami, Mozilla tidak akan menggunakan alat apa pun yang dijelaskan dalam [Metrik](#data-tools) section.
 
 * **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan lewat bagian kaki email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/). Anda dapat menonaktifkan fungsionalitas gambar GIF transparan dengan melihat email dari kami dalam format "teks saja".
 
 * **Analitika & Optimalisasi**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
-   *  Google: Instal [Add-on Browser Penghentian Berlangganan Google Analytics](https://tools.google.com/dlpage/gaoptout), yang membuat kunjungan Anda bersifat anonim dan melarang transmisi data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami keefektifan program pemasaran kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick dalam pengaturan iklan Google (Anda akan diminta masuk ke Akun Google Anda).
-   *  Optimizely: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [Situs web berhenti berlangganan Optimizely](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya. 
-   *  ShareProgress: Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+    *  Google: Pasang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), yang akan membuat kunjungan Anda anonim dan melarang pengiriman data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami keefektifan program pemasaran kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick dalam pengaturan iklan Google (Anda akan diminta masuk ke Akun Google Anda).
+    *  Optimizely: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [Situs web berhenti berlangganan](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya.
+    *  Yahoo: kunjungi [Pengelola Minat Iklan](https://aim.yahoo.com/aim/us/en/optout/) untuk berhenti berlangganan.
+    *  ShareProgress: Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media Sosial**: Tombol berbagi sosial pada situs web Mozilla dirancang untuk tidak berbagi data dengan penyedia media sosial hingga Anda secara benar-benar mengeklik tombol tersebut.
 
