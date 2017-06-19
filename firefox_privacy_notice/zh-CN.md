@@ -106,5 +106,5 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 	
 ##
 
-除非另有说明，否则本隐私权政策通知旨在用于最近全面发行的几个 Firefox 版本。我们推出的几个预发行版本 (Beta、Aurora/Developer Edition、Nightly 以及 TestFlight) 目前仍处于开发阶段，可能会有一些新功能，或在隐私保护方面各有不同的特点。这些预发行版本会自动将[遥测数据](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) 传给 Mozilla，用以帮助我们改进 Firefox。
+除非另有说明，否则本隐私权声明旨在用于最近全面发行的几个 Firefox 版本。我们推出的几个预发行版本 (Beta/Developer Edition、Nightly 以及 TestFlight) 目前仍处于积极开发中，可能会有一些新功能，或在隐私保护方面各有不同的特点。这些预发行版本会自动将[遥测数据](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) 发送给 Mozilla，用以帮助我们改进 Firefox。
 {: #pre-release }
