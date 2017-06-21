@@ -10,10 +10,8 @@ Weitere Informationen darüber, wie wir Informationen empfangen und damit umgehe
 ## Was Sie wissen sollten
 
 Klar sendet standardmäßig keine Informationen an Mozilla.
-{: #defaultinfo }
 
 * **Technische Daten**
-{: #events .inproduct-link }
 
 	Wir erhalten grundlegende Informationen über Ihr Gerät und Klar, wie z.&thinsp;B. die Version von Klar, die Sie installiert haben, Ihr Betriebssystem, die Zeitzone und das Gebietsschema Ihres Systems.
 
