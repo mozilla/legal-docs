@@ -1,23 +1,24 @@
 ﻿# Datenschutzhinweis für Firefox Klar
 
-Mittwoch, 16\. November 2016
-{: datetime="2016-11-16" }
+20. Juni 2017
+{: datetime="2017-06-20" }
 
-Falls Sie das noch nicht wussten: Uns liegt viel am Schutz Ihrer Daten! Wenn Firefox Klar Informationen an Mozilla sendet, gilt unsere [Datenschutzerklärung](https://www.mozilla.org/privacy/). Sie gibt vor, wie wir mit diesen Informationen umgehen.
+Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht. Dieser Datenschutzhinweis erläutert, welche Daten wir in Klar erfassen, weshalb wir das tun und welche Optionen Sie haben. 
+
+Weitere Informationen darüber, wie wir Informationen empfangen und damit umgehen, finden Sie in der [Mozilla-Datenschutzrichtlinie](https://www.mozilla.org/privacy/).
 
 ## Was Sie wissen sollten
 
-Firefox Klar sendet standardmäßig Informationen, um Mozilla zu helfen.
-{: #defaultinfo }
+Klar sendet standardmäßig keine Informationen an Mozilla.
 
-* **Nutzungsstatistik**
-{: #events .inproduct-link }
+* **Technische Daten**
 
-	Damit wir Firefox Klar weiter verbessern können, erfassen wir Informationen darüber, wie oft Sie Firefox Klar verwenden und mit bestimmten Funktionen interagieren. Dies umfasst Informationen darüber, wann Sie mit einer neuen Browser-Sitzung beginnen, wie oft Sie Funktionen im Einstellungsbildschirm aktivieren oder deaktivieren bzw. einen externen Browser über Firefox Klar starten. Diese Informationen sind den unten beschriebenen [Weiterleitungsdaten](#referraltracking) zugeordnet und werden an unseren Analytik-Anbieter gesendet. Mehr über diese Datenerfassung einschließlich deren Deaktivierung finden Sie [hier](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices). Die vollständige Dokumentation finden Sie [hier](https://github.com/mozilla-mobile/focus/wiki/Install-and-event-tracking-with-the-Adjust-SDK).
+	Wir erhalten grundlegende Informationen über Ihr Gerät und Klar, wie z.&thinsp;B. die Version von Klar, die Sie installiert haben, Ihr Betriebssystem, die Zeitzone und das Gebietsschema Ihres Systems.
 
-* **Weiterleitungs- und Kampagnenverfolgung**
-{: #referraltracking }
+* **Interaktionsdaten**
 
-	Um unsere Marketingkampagnen zu verbessern, kann Firefox Klar „Weiterleitungsdaten“ wie z. B. die Website-Domain oder Werbekampagne verwenden, die Sie auf den Download und die Installation von Firefox Klar verwiesen haben. Diese Daten werden von unserem Analytik-Anbieter gespeichert und bereitgestellt, wenn Sie Firefox Klar starten. Sie umfassen auch eine iOS-Anbieter-ID, einen Zeitstempel, das Land, die verwendete Sprache, das Betriebssystem und die App-Version. Weitere Informationen finden Sie [hier](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), unter anderem wie Sie diese Erfassung deaktivieren können. Die vollständige Dokumentation finden Sie [hier](https://github.com/mozilla-mobile/focus/wiki/Install-and-event-tracking-with-the-Adjust-SDK).
+	Wir erhalten Informationen darüber, wie oft Sie Klar verwenden und mit bestimmten Funktionen oder Eingabeaufforderungen interagieren. Dies umfasst Informationen über den Start einer neuen Browser-Sitzung, wie oft Sie die Suchfunktion in Klar verwenden oder über Klar einen externen Browser starten und welche Funktionen auf dem Bildschirm „Einstellungen“ aktiviert sind.
+	
+Informieren Sie sich über [technische Daten und Interaktionsdaten](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service) oder darüber, wie Sie per [Opt-in](https://support.mozilla.org/de/kb/anonyme-nutzungsdaten-zu-firefox-auf-mobilgeraten-) dieser Datenerfassung zustimmen.
 
 ---------------------------------------
