@@ -21,4 +21,3 @@ Klar sendet standardmäßig keine Informationen an Mozilla.
 	
 Informieren Sie sich über [technische Daten und Interaktionsdaten](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service) oder darüber, wie Sie per [Opt-in](https://support.mozilla.org/de/kb/anonyme-nutzungsdaten-zu-firefox-auf-mobilgeraten-) dieser Datenerfassung zustimmen.
 
----------------------------------------
