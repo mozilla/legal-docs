@@ -1,4 +1,4 @@
-# Firefox Browser Privacy Notice
+# Firefox + Cliqz Privacy Notice
 
 June 5, 2017
 {: datetime="2017-06-05" }
