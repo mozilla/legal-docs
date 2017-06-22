@@ -1,7 +1,7 @@
 # Firefox + Cliqz Privacy Notice
 
-June 5, 2017
-{: datetime="2017-06-05" }
+July, 2017
+{: datetime="2017-07-01" }
 
 We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -118,7 +118,7 @@ Some versions of Firefox automatically connect to Cliqz to display search result
 Cliqz GmbH is a German company offering a privacy oriented search experience.  Learn more at their [privacy policy](https://cliqz.com/en/privacy-browser).  When the Cliqz feature is enabled:
 
 * Firefox shares the following data with Cliqz to provide functionality and improve performance of the Cliqz feature for everyone:
-  * **Search Queries & Webpage Data:** This includes text as you type in the URL bar, queries you send to certain search engines, and data about the webpages you visit and interactions with those pages, such as mouse movements, scrolls, and time spent.
+  * **Search Queries and Webpage Data:** This includes text as you type in the URL bar, queries you send to certain search engines, and data about the webpages you visit and interactions with those pages, such as mouse movements, scrolls, and time spent.
   * **Interaction Data:** This includes your interactions with specific fields and buttons in the Cliqz feature. This data is tied to a unique identifier allowing Cliqz to understand performance over time.
  
 * Firefox shares the following data with Mozilla to better understand interactions between Firefox and the Cliqz feature:
