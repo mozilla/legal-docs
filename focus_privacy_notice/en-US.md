@@ -21,5 +21,4 @@ Focus, by default, sends data to Mozilla to help us improve our product.
 * __Referral and Campaign Data__: To help improve our marketing campaigns, Focus may use “Referral Data” such as the website domain or advertising campaign that referred you to download and install Focus. This data is kept by our analytics vendor and provided when you start Focus, and also includes an iOS Vendor ID or Google advertising ID, timestamp, country, locale, operating system, and app version.
 
 Learn more about [Technical and Interaction Data](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service), [Referral and Campaign Data](https://github.com/mozilla-mobile/focus/wiki/Install-Tracking-in-Firefox-Focus-with-the-Adjust-SDK), or how to [opt-out](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) of this data collection.
----------------------------------------
 
