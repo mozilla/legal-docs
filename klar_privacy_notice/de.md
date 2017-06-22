@@ -20,5 +20,3 @@ Klar sendet standardmäßig keine Informationen an Mozilla.
 	Wir erhalten Informationen darüber, wie oft Sie Klar verwenden und mit bestimmten Funktionen oder Eingabeaufforderungen interagieren. Dies umfasst Informationen über den Start einer neuen Browser-Sitzung, wie oft Sie die Suchfunktion in Klar verwenden oder über Klar einen externen Browser starten und welche Funktionen auf dem Bildschirm „Einstellungen“ aktiviert sind.
 	
 Informieren Sie sich über [technische Daten und Interaktionsdaten](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service) oder darüber, wie Sie per [Opt-in](https://support.mozilla.org/de/kb/anonyme-nutzungsdaten-zu-firefox-auf-mobilgeraten-) dieser Datenerfassung zustimmen.
-
----------------------------------------
