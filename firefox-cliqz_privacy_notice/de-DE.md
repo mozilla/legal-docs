@@ -124,7 +124,7 @@ Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der
 * Firefox teilt folgende Daten mit Mozilla, um besser über die Interaktionen zwischen Firefox und dem Cliqz-Feature informiert zu sein:
   * **Interaktionsdaten:** Dies umfasst Zählungen der Besuche von Suchmaschinenseiten, die Suchmaschinen, die Sie verwenden, und einen Cliqz-Identifikator.  
 	
-* [Weitere Informationen](https://cliqz.com/whycliqz/transparency)über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
+* [Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
   * Geben Sie „about:addons“ in Ihre Firefox-URL-Leiste ein.
   * Wählen Sie in der linken Menüleiste „Erweiterungen“ aus.
   * Ist Cliqz installiert, wird das Feature rechts angezeigt.  
