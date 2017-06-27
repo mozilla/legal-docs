@@ -115,7 +115,7 @@ Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergeste
 Einige Versionen von Firefox stellen automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der Adressleiste anzuzeigen.  
 {: #cliqz-features }
 
-Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht. Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/en/privacy-browser) von Cliqz. Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
+Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht. Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/privacy-browser) von Cliqz. Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
 
 * Firefox teilt die folgenden Daten mit Cliqz, um bestimmte Funktionen bereitzustellen und die Leistung des Cliqz-Features für alle zu verbessern:
   * **Suchanfragen und Webseitendaten:** Dies umfasst Text, den Sie in die Adressleiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden, und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
