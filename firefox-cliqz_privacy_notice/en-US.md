@@ -124,7 +124,7 @@ Cliqz GmbH is a German company offering a privacy oriented search experience.  L
 * Firefox shares the following data with Mozilla to better understand interactions between Firefox and the Cliqz feature:
   * **Interaction Data:** This includes counts of visits to search engine pages, which search engines you use, and a Cliqz identifier.  
 	
-* [Learn more](https://cliqz.com/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to stop data collection:
+* [Learn more](https://cliqz.com/en/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to stop data collection:
   * type “about:addons” into your Firefox URL bar
   * select “Extensions” on the left menu bar
   * if installed, Cliqz will appear on the right.  
