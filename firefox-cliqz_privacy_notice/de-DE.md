@@ -29,7 +29,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 * **Firefox-Statusbericht**
 {: #health-report .inproduct-link }
 
-	Firefox Health Report (FHR) dient dazu, Ihnen Informationen über die Stabilität und Leistung Ihres Browsers sowie Support-Tipps zu vermitteln, falls Probleme wie etwa hohe Absturzraten oder langsames Starten auftreten sollten. Mozilla erfasst und aggregiert Ihre Daten mit denen anderer Firefox-Benutzer und schickt sie zurück an Ihren Browser, damit Sie sehen, wie Ihre Firefox-Leistung sich im Lauf der Zeit ändert. Diese Daten umfassen u. a. Hardware, Betriebssystem, Firefox-Version, Add-ons (Anzahl und Typ), Zeitpunkt von Browser-Ereignissen, Darstellung, Sitzungswiederherstellungen, Länge der Sitzung, Interaktion mit Suchzugangsknoten und Verwendung von Firefox-Suchpartnercodes, wie alt ein Profil ist, Anzahl der Abstürze und Anzahl der Seiten. FHR sendet keine von Ihnen besuchten Mozilla-URLs.
+	Firefox-Statusbericht dient dazu, Ihnen Informationen über die Stabilität und Leistung Ihres Browsers sowie Tipps zur Fehlerbehebung zu vermitteln, falls Probleme wie etwa hohe Absturzraten oder langsames Starten auftreten sollten. Mozilla erfasst und aggregiert Ihre Daten mit denen anderer Firefox-Benutzer und schickt sie zurück an Ihren Browser, damit Sie sehen, wie Ihre Firefox-Leistung sich im Lauf der Zeit ändert. Diese Daten umfassen u. a. Hardware, Betriebssystem, Firefox-Version, Add-ons (Anzahl und Typ), Zeitpunkt von Browser-Ereignissen, Darstellung, Sitzungswiederherstellungen, Länge der Sitzung, Interaktion mit Suchzugangsknoten und Verwendung von Firefox-Suchpartnercodes, wie alt ein Profil ist, Anzahl der Abstürze und Anzahl der Seiten. FHR sendet keine von Ihnen besuchten Mozilla-URLs.
 
 	Wir verwenden die über den Statusbericht gesendeten Daten dazu, Benutzern die mit dem Statusbericht verbundenen Funktionen bereitzustellen und Ihnen z. B. bei der Analyse und Behebung von Performanzproblemen mit Ihrem Browser zu helfen. Die Ergebnisse des Statusberichts benutzen wir in aggregierter Form auch zur Verbesserung von Firefox. Sie können die [Datenfreigabe deaktivieren](https://support.mozilla.org/de/kb/firefox-statusbericht-beurteilen-sie-effizienz#w_datenweitergabe-aktivieren-oder-deaktivieren).
 
@@ -47,7 +47,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 	Nutzungsstatistiken oder „Telemetrie“ sind eine Funktion in Firefox, die Mozilla Nutzungs-, Performanz- und Reaktionsfähigkeits-Statistiken über Benutzeroberflächen-Funktionen sowie Speicher- und Hardwarekonfigurationen sendet. Ihre IP-Adresse wird als Teil eines Standard-Webprotokolls ebenfalls erfasst. Nutzungsstatistiken werden mithilfe von SSL übertragen und helfen uns, zukünftige Firefox-Versionen zu verbessern. Wenn sie an Mozilla gesendet werden, werden Nutzungsstatistiken aggregiert und verschiedenen Entwicklern zur Verfügung gestellt, darunter sowohl Mozilla-Mitarbeiter als auch externe Mitwirkende. Bei aktivierter Telemetrie können in bestimmten kurzfristigen Experimenten Informationen über besuchte Websites erfasst werden.
 
-	Diese Funktion ist in den Nightly-, Aurora- und Beta-Builds von Firefox standardmäßig aktiviert, sodass diese Benutzer leichter Feedback an Mozilla weiterleiten. In der allgemeinen Release-Version von Firefox ist diese Funktion standardmäßig deaktiviert.
+	Diese Funktion ist in den Nightly- und Beta/Developer Edition-Builds von Firefox standardmäßig aktiviert, sodass diese Benutzer leichter Feedback an Mozilla weiterleiten. In der allgemeinen Release-Version von Firefox ist diese Funktion standardmäßig deaktiviert.
 
 	Sie können [hier mehr über Telemetrie erfahren](https://support.mozilla.org/kb/send-performance-data-improve-firefox) und nachlesen, wie diese Funktion aktiviert bzw. deaktiviert wird.
 
@@ -68,11 +68,11 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 * **Verweis- und Kampagnenverfolgung**{: #thirdparty } ** **{: #referraltracking }
 
-	Damit Sie unsere Marketing-Kampagnen verstehen und verbessern können, kann Firefox „Verweisdaten“ wie z. B. die Website-Domain oder Werbekampagne senden, mit denen Sie auf das Herunterladen und Installieren von Firefox hingewiesen wurden.
+	Um uns bei der Interpretation und Verbesserung unserer Marketing-Kampagnen zu helfen, kann Firefox „Verweisdaten“ wie z. B. die Website-Domain oder Werbekampagne senden, mit denen Sie auf das Herunterladen und Installieren von Firefox hingewiesen wurden.
  
 	Unter Android und iOS sendet Firefox Verweisdaten an Ihren Mobilgeräte-Analytikanbieter und schließt Google Advertising-ID, IP-Adresse, Zeitstempel, Land, Gebietsschema, Betriebssystem und App-Version mit ein. Weitere Informationen [hier](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), einschließlich Informationen zum Deaktivieren dieser Berichte.
 
-	In der Desktop-Version zeichnet Firefox Verweisdaten auf und sendet sie als Teil des Firefox Health Report an Mozilla. Weitere Informationen [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), einschließlich Informationen zum Opt-out oder Deaktivieren dieser Berichte.
+	In der Desktop-Version zeichnet Firefox Verweisdaten auf und sendet sie als Teil des Firefox-Statusberichts an Mozilla. Weitere Informationen [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), einschließlich Informationen zum Opt-out oder Deaktivieren dieser Berichte.
 
 
 ---------------------------------------
@@ -112,20 +112,20 @@ Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergeste
 	
 ---------------------------------------
 
-Einige Versionen von Firefox stellen automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen.  
+Einige Versionen von Firefox stellen automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der Adressleiste anzuzeigen.  
 {: #cliqz-features }
 
-Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht. Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/en/privacy-browser)von Cliqz. Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
+Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht. Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/en/privacy-browser) von Cliqz. Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
 
 * Firefox teilt die folgenden Daten mit Cliqz, um bestimmte Funktionen bereitzustellen und die Leistung des Cliqz-Features für alle zu verbessern:
-  * **Suchanfragen und Webseitendaten:** Dies umfasst Text, den Sie in die URL-Leiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden, und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
+  * **Suchanfragen und Webseitendaten:** Dies umfasst Text, den Sie in die Adressleiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden, und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
   * **Interaktionsdaten:** Dies umfasst Ihre Interaktionen mit bestimmten Feldern und Schaltflächen im Cliqz-Feature. Diese Daten sind mit einem eindeutigen Identifikator verknüpft, sodass Cliqz Informationen über die Leistung über Zeit abrufen kann.
  
 * Firefox teilt folgende Daten mit Mozilla, um besser über die Interaktionen zwischen Firefox und dem Cliqz-Feature informiert zu sein:
   * **Interaktionsdaten:** Dies umfasst Zählungen der Besuche von Suchmaschinenseiten, die Suchmaschinen, die Sie verwenden, und einen Cliqz-Identifikator.  
 	
 * [Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
-  * Geben Sie „about:addons“ in Ihre Firefox-URL-Leiste ein.
+  * Geben Sie „about:addons“ in Ihre Firefox-Adressleiste ein.
   * Wählen Sie in der linken Menüleiste „Erweiterungen“ aus.
   * Ist Cliqz installiert, wird das Feature rechts angezeigt.  
   * Durch Auswählen von „Deaktivieren“ wird das Cliqz-Feature deaktiviert und die damit verbundene Datenerfassung eingestellt.
