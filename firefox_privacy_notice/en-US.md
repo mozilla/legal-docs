@@ -66,14 +66,18 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
 
-* **Referral and Campaign Tracking**{: #thirdparty } ** **{: #referraltracking }
+* **Referral and Campaign Tracking**
+{: #thirdparty } {: #referraltracking }
 
-	To help understand and improve our marketing campaigns, Firefox may send “Referral Data” such as the website domain or advertising campaign that referred you to download and install Firefox.
- 
-	On Android and iOS, Firefox sends Referral Data to our mobile analytics vendor, and also includes a Google advertising ID, IP address, timestamp, country, locale, operating system, and app version. Learn more [here](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), including how to disable this reporting.
+	To help us understand and improve our marketing campaigns, Firefox sends certain information by default. This includes “Referral Data” such as the website domain or advertising campaign that referred you to download and install Firefox, as well as “Interaction Data” about what features you use in Firefox.
 
-	On desktop, Firefox records and sends Referral Data to Mozilla as part of Firefox Health Report.  Learn more [here](https://support.mozilla.org/kb/desktop-attribution-privacy), including how to opt-out or disable this reporting.
+	__Referral Data__
+	On Android and iOS, Firefox sends Referral Data to our mobile analytics vendor, and also includes a Google advertising ID, IP address, timestamp, country, locale, operating system, and app version. Learn more [here](https://support.mozilla.org/kb/desktop-attribution-privacy), including how to disable this reporting.
 
+	On desktop, Firefox records and sends Referral Data to Mozilla as part of Firefox Health Report. Learn more [here](https://support.mozilla.org/kb/desktop-attribution-privacy), including how to opt-out or disable this reporting.
+
+	__Interaction Data__
+	On iOS, Firefox sends Interaction Data to Leanplum, our mobile marketing vendor, which has its own [privacy policy](https://www.leanplum.com/privacy/).  This data allows us to test different features and experiences, as well as provide customized messages and recommendations for improving your experience with Firefox. Learn more about this data collection [here](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), and how you can [disable this feature](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -110,7 +114,22 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 
 	Push Notifications allow sites to send notifications and updates to you if you opt-in. To receive notifications, Firefox sends information to Mozilla about what sites you have agreed to receive Push Notification from. We store this information in anonymized form, along with the number of notifications each site sends you. To help developers improve their use of Push Notifications, Mozilla may share aggregated information with certain developers including the number of visitors to their site that have subscribed or unsubscribed to their Push Notifications. You can manage Push Notifications in Firefox by following [these instructions](https://support.mozilla.org/kb/push-notifications-firefox).
 	
+* **Firefox Screenshots**
+{: #screenshots }
+
+	__Screenshot Uploads__
+	Screenshots you choose to upload are sent to Mozilla and stored for the limited amount of time indicated, which you can change.  We may access your uploaded screenshots when reasonably necessary for the operation of the service.  You can delete your uploaded screenshots at any time.  
+
+	__Interaction Data__
+	We receive data such as visits to the Firefox Screenshots website, how often uploaded screenshots are accessed and shared by you or others, and your interactions with buttons, tiles, and mouse movements related to capturing screenshots.  
+For visits to the Firefox Screenshots website, our [websites privacy notice](https://www.mozilla.org/privacy/websites/) describes the types of data we collect. 
+
+	__Technical Data__
+	We receive data such as the average size and number of your uploaded screenshots, your Firefox browser version, device operating system, and errors.  The IP address accessing the Firefox Screenshots website is temporarily collected as part of a standard server log. 
+
+	Read the full documentation [here](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) or delete all your screenshots [here](https://screenshots.firefox.com/leave-screenshots).
+	
 ##
 
-Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
+Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
 {: #pre-release }
