@@ -29,7 +29,7 @@ Firefox automatically connects to us and our service providers to provide update
 * **Firefox Health Report**
 {: #health-report .inproduct-link }
 
-	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, interaction with search access points and use of Firefox search partner codes, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
+	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, interaction with search access points and use of Firefox search partner codes, how old a profile is, basic information about errors and crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
 
 	We use the data sent through FHR to provide users with FHR's functionality, such as helping you analyze and address performance issues with your browser. We also use what we learn from the FHR data in the aggregate to make Firefox better. You can choose to [turn data sharing off](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
 
@@ -97,7 +97,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 * **Crash reporting**
 {: #crash-reporter .inproduct-link }
 
-	You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
+	You have the option to send Mozilla a report with more detailed information after Firefox crashes to help us improve Firefox. This includes technical information such as why Firefox crashed, the active URL and the state of Firefox's memory usage at the time of the crash, which may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
 
 * **SSL Errors**
 {: #ssl-errors }
