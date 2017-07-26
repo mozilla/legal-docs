@@ -97,7 +97,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 * **Crash reporting**
 {: #crash-reporter .inproduct-link }
 
-	You have the option to send Mozilla a report with more detailed information after Firefox crashes to help us improve Firefox. This includes technical information such as why Firefox crashed, the active URL and the state of Firefox's memory usage at the time of the crash, which may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
+	On desktop and Android, you have the option to send Mozilla a report with more detailed information after Firefox crashes to help us improve Firefox. This includes technical information such as why Firefox crashed, the active URL and the state of Firefox's memory usage at the time of the crash, which may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
 
 * **SSL Errors**
 {: #ssl-errors }
