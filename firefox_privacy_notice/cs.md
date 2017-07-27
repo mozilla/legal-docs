@@ -1,7 +1,7 @@
 # Oznámení o zásadách ochrany osobních údajů prohlížeče Firefox
 
-5. června 2017
-{: datetime="2017-06-05" }
+20\. července 2017
+{: datetime="2017-07-20" }
 
 Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox zasílá informace společnosti Mozilla (tedy nám), naše [zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak budeme s takovými informacemi nakládat.
 
@@ -47,7 +47,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 	Statistika používání neboli „Telemetrie” je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcí rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti. Pokud je aktivována volba Telemetrie, některé krátkodobé experimenty mohou shromažďovat informace o navštívených stránkách.
 
-	Tato funkce je ve výchozím nastavení zapnuta ve službách Nightly, Aurora a Beta buildy Firefoxu, aby pomohla uživatelům poskytovat Mozille zpětnou vazbu. V obecné verzi Firefoxu je tato funkce ve výchozím nastavení vypnuta.
+	Tato funkce je dle výchozího nastaven zapnutá ve verzích Nightly a Beta/Developer Edition aplikace Firefox, aby uživatelům pomohla poskytovat zpětnou vazbu společnosti Mozilla. V obecné verzi vydání aplikace Firefox je tato funkce dle výchozího nastavení vypnutá.
 
 	[O Telemetrii se můžete více dozvědět zde](https://support.mozilla.org/kb/send-performance-data-improve-firefox), včetně informace jak ji zapnout či vypnout.
 
@@ -58,11 +58,15 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 * Doporučení a sledování kampaně{: #thirdparty } ** **{: #referraltracking }
 
-	Jako pomoc pro pochopení a zlepšení vašich marketingových kampaní může Firefox „Data doporučení”, jako je doména webové stránky nebo reklamní kampaně, které vám doporučují stáhnout a nainstalovat Firefox.
- 
-	U systémů Android a iOS Firefox odesílá Data doporučení našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, adresu IP, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), včetně toho, jak zasílání této zprávy deaktivovat.
+	Abyste nám pomohli pochopit a zlepšit naše marketingové kampaně, aplikace Firefox zasílá dle výchozího nastavení některé informace. Patří k nim „Odkazová data” jako je webová stránka nebo reklamní kampaň, která vás odkázala na stažení a instalaci aplikace Firefox, stejně jako „Údaje o interakci” o tom, které funkce aplikace Firefox používáte.
 
-	U stolních počítačů Firefox zaznamenává a zasílá Data doporučení Mozilla v rámci zprávy Firefox Health Report.  Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo deaktivovat zasílání této zprávy deaktivovat.
+	__Odkazová data__
+	U systémů Android a iOS Firefox odesílá Data doporučení našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, adresu IP, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zasílání této zprávy deaktivovat.
+
+	U stolních počítačů Firefox zaznamenává a zasílá Data doporučení Mozilla v rámci zprávy Firefox Health Report. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo deaktivovat zasílání této zprávy deaktivovat.
+
+	__Údaje o interakci__
+	V systému iOS aplikace Firefox odesílá Údaje o interakci společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/).  Tyto údaje nám pomáhají testovat různé funkce a zkušenosti, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašich zkušeností s aplikací Firefox. Podrobnější informace o shromažďování těchto dat najdete [zde](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), stejně jako pokyny, jak lze [tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako
 {: #push-notifications }
 
 	Automaticky otevírané oznámení umožňuje stránkám zasílat oznámení a aktuální informace pro vás, pokud se zaregistrujete. Aby vám byla oznámení doručována, Firefox zasílá společnosti Mozilla informace o tom, u kterých stránek jste souhlasili s přijímáním Automaticky otevíraných oznámení. Tyto informace uchováme v anonymizované formě společně s počtem oznámení, které vám jednotlivé stránky zobrazují. Abychom vývojářům umožnili vylepšit jejich používání Automaticky otevíraných oznámení, společnost Mozilla sdílí souhrnné informace s některými vývojáři, včetně počtu návštěvníků stránek, kteří se zaregistrovali nebo zrušili svou registraci pro odběr Automaticky otevíraných oznámení. Správu Automaticky otevíraných oznámení ve Firefoxu můžete provádět podle [těchto pokynů](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Snímky obrazovky aplikace Firefox**
+{: #screenshots }
+
+	__Nahrávání snímků obrazovky__
+	Snímky obrazovky, které se rozhodnete nahrát, se odesílají společnosti Mozilla a jsou ukládány po uvedenou omezenou dobu, kterou můžete změnit.  Můžete využívat přístup k vašim nahraným snímkům obrazovky, pokud je to rozumně nezbytné pro poskytování služby.  Nahrané snímky obrazovky můžete kdykoliv odstranit.  
+
+	__Údaje o interakci__
+	Získáváme údaje, jako jsou návštěvy webových stránek Firefox Screenshots, jak často přistupujete ke snímkům obrazovky, které nahráváte a jak je sdílíte s ostatními, stejně jako vaše používání tlačítek, dlaždic a pohyby myší související s pořízením snímku obrazovky.  
+Pro návštěvy webových stránek Firefox Screenshots naše [zásady ochrany osobních údajů na webových stránkách](https://www.mozilla.org/privacy/websites/) popisují typy dat, které shromažďujeme. 
+
+	__Technická data__
+	Získáváme taková data jako je průměrná velikost a počet vámi nahraných snímků obrazovky, vaše verze prohlížeče Firefox, operační systém zařízení a chyby.  Adresa IP využitá pro přístup na webové stránky Firefox Screenshots je dočasně shromažďuje v rámci standardního protokolu serveru. 
+
+	Přečtěte si úplné znění dokumentace [zde](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) nebo odstraňte své snímky obrazovky [zde](https://screenshots.firefox.com/leave-screenshots).
 
 Pokud není uvedeno jinak, toto oznámení o ochraně osobních údajů se vztahuje k poslední obecné verzi vydání Firefox. Naše předběžné verze vydání (vydání Beta/Developer, Nightly a TestFlight) jsou dosud součástí aktivního vývoje a mohou obsahovat nové funkce nebo mít odlišné charakteristiky ochrany osobních údajů. Verze předběžných vydání automaticky zasílají společnosti Mozilla [Telemetrická data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html), která nám pomáhají Firefox vylepšovat.
 {: #pre-release }

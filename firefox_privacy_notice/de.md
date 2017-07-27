@@ -1,7 +1,7 @@
 # Firefox-Browser – Datenschutz-Hinweis
 
-5. Juni 2017
-{: datetime="2017-06-05" }
+20\. Juli 2017
+{: datetime="2017-07-20" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Firefox Daten an Mozilla (an uns) sendet, verarbeiten wir diese Daten wie in der [Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
 
@@ -47,7 +47,7 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 	Nutzungsstatistiken oder „Telemetrie“ sind eine Funktion in Firefox, die Mozilla Nutzungs-, Performanz- und Reaktionsfähigkeits-Statistiken über Benutzeroberflächen-Funktionen sowie Speicher- und Hardwarekonfigurationen sendet. Ihre IP-Adresse wird als Teil eines Standard-Webprotokolls ebenfalls erfasst. Nutzungsstatistiken werden mithilfe von SSL übertragen und helfen uns, zukünftige Firefox-Versionen zu verbessern. Wenn sie an Mozilla gesendet werden, werden Nutzungsstatistiken aggregiert und verschiedenen Entwicklern zur Verfügung gestellt, darunter sowohl Mozilla-Mitarbeiter als auch externe Mitwirkende. Bei aktivierter Telemetrie können in bestimmten kurzfristigen Experimenten Informationen über besuchte Websites erfasst werden.
 
-	Diese Funktion ist in den Nightly-, Aurora- und Beta-Builds von Firefox standardmäßig aktiviert, sodass diese Benutzer leichter Feedback an Mozilla weiterleiten. In der allgemeinen Release-Version von Firefox ist diese Funktion standardmäßig deaktiviert.
+	Diese Funktion ist in den Nightly- und Beta-/Developer Edition-Builds von Firefox standardmäßig aktiviert, damit diese Benutzer Feedback an Mozilla weiterleiten können. In der allgemeinen Release-Version von Firefox ist diese Funktion standardmäßig deaktiviert.
 
 	Sie können [hier mehr über Telemetrie erfahren](https://support.mozilla.org/kb/send-performance-data-improve-firefox) und nachlesen, wie diese Funktion aktiviert bzw. deaktiviert wird.
 
@@ -58,11 +58,15 @@ Firefox stellt automatisch eine Verbindung mit uns und unseren Dienstanbietern h
 
 * **Verweis- und Kampagnenverfolgung**{: #thirdparty } ** **{: #referraltracking }
 
-	Damit Sie unsere Marketing-Kampagnen verstehen und verbessern können, kann Firefox „Verweisdaten“ wie z. B. die Website-Domain oder Werbekampagne senden, mit denen Sie auf das Herunterladen und Installieren von Firefox hingewiesen wurden.
- 
-	Unter Android und iOS sendet Firefox Verweisdaten an Ihren Mobilgeräte-Analytikanbieter und schließt Google Advertising-ID, IP-Adresse, Zeitstempel, Land, Gebietsschema, Betriebssystem und App-Version mit ein. Weitere Informationen [hier](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), einschließlich Informationen zum Deaktivieren dieser Berichte.
+	Damit wir unsere Marketing-Kampagnen verbessern können, sendet Firefox standardmäßig bestimmte Informationen. Diese umfassen sog. Verweisdaten wie die Website-Domain oder Werbekampagne, wegen der Sie Firefox heruntergeladen und installiert haben, sowie Interaktionsdaten darüber, welche Funktionen Sie in Firefox verwenden.
 
-	In der Desktop-Version zeichnet Firefox Verweisdaten auf und sendet sie als Teil des Firefox Health Report an Mozilla. Weitere Informationen [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), einschließlich Informationen zum Opt-out oder Deaktivieren dieser Berichte.
+	__Verweisdaten__
+	Unter Android und iOS sendet Firefox Verweisdaten an Ihren Mobil-Analyse-Anbieter. Die Verweisdaten umfassen auch eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, das Gebietsschema, Betriebssystem und die App-Version. Weitere Informationen finden Sie [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), darunter Angaben dazu, wie Sie eine Berichterstattung dieser Art deaktivieren können.
+
+	Auf Desktop-Computern zeichnet Firefox Verweisdaten auf und sendet sie als Teil des Firefox Health Report an Mozilla. Weitere Informationen finden Sie [hier](https://support.mozilla.org/kb/desktop-attribution-privacy), darunter Angaben dazu, wie Sie eine Berichterstattung dieser Art per Opt-out abstellen oder deaktivieren können.
+
+	__Interaktionsdaten__
+	Unter iOS sendet Firefox Interaktionsdaten an Leanplum, unseren Mobil-Marketinganbieter, der eine eigene [Datenschutzerklärung](https://www.leanplum.com/privacy/) hat.  Mit diesen Daten können wir verschiedene Funktionen und Erfahrungen testen sowie speziell angepasste Nachrichten und Empfehlungen bereitstellen, um Ihre Firefox-Erfahrung zu verbessern. Weitere Informationen über diese Erfassung von Daten finden Sie [hier](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), sowie Angaben dazu, wie Sie [diese Funktion deaktivieren können](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Wenn Sie Firefox dazu auffordern, wird auch eine Verbindung mit Mozilla hergeste
 {: #push-notifications }
 
 	Push-Benachrichtigungen ermöglichen es Websites, Ihnen, sofern Sie diese Funktion aktiviert haben, Benachrichtigungen und Updates zu senden. Um Benachrichtigungen zu erhalten, sendet Firefox Mozilla Informationen zu den Websites, bei denen Sie zugestimmt haben, Push-Benachrichtigungen zu erhalten. Wir speichern diese Informationen zusammen mit der Anzahl der Benachrichtigungen, die jede Website Ihnen sendet, in anonymisierter Form. Um Entwicklern zu helfen, ihre Verwendung von Push-Benachrichtigungen zu verbessern, kann Mozilla bestimmten Entwicklern aggregierte Informationen zur Verfügung stellen, so z. B. die Anzahl der Besucher auf ihrer Website, die ihre Push-Benachrichtigungen abonniert bzw. sich davon abgemeldet haben. Push-Benachrichtigungen können Sie in Firefox mithilfe [dieser Anweisungen](https://support.mozilla.org/kb/push-notifications-firefox) verwalten.
+
+* **Firefox Screenshots**
+{: #screenshots }
+
+	__Screenshot-Uploads__
+	Bildschirmfotos, die Sie hochladen möchten, werden an Mozilla gesandt und die angegebene begrenzte Zeit lang gespeichert. Dieser Speicherzeitraum kann von Ihnen geändert werden.  Wir greifen evtl. auf die von Ihnen hochgeladenen Bildschirmfotos zu, wenn dies für den Betrieb des Dienstes notwendig erscheint.  Sie können die von Ihnen hochgeladenen Bildschirmfotos jederzeit löschen.  
+
+	__Interaktionsdaten__
+	Wir erhalten Daten wie Besuche der Firefox Screenshots-Website, wie oft durch Sie oder Andere auf die hochgeladenen Bildschirmfotos zugegriffen wurde oder diese freigegeben wurden, sowie Ihre Interaktionen mit Schaltflächen, Kacheln und Mausbewegungen in Bezug auf die Aufnahme von Screenshots.  
+Für Besuche der Firefox Screenshots-Website beschreibt unser [Website-Datenschutzhinweis](https://www.mozilla.org/privacy/websites/), welche Arten von Daten wir erfassen. 
+
+	__Technische Daten__
+	Wir erhalten Daten wie die durchschnittliche Größe und Anzahl der von Ihnen hochgeladenen Screenshots, Ihre Firefox-Browser-Version, das Gerätebetriebssystem und Fehler.  Die IP-Adresse für den Zugriff auf die Firefox Screenshots-Website wird temporär als Teil des Standardserver-Logs erfasst. 
+
+	Lesen Sie die vollständige Dokumentation [hier](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) oder löschen Sie alle Ihre Bildschirmfotos [hier](https://screenshots.firefox.com/leave-screenshots).
 
 Sofern nicht anders angegeben, gilt dieser Datenschutzhinweis für die neuesten allgemeinen Release-Versionen von Firefox. Unsere Pre-Release-Versionen (Beta/Developer Edition, Nightly und TestFlight) befinden sich noch in Entwicklung und können neue Funktionen enthalten oder andere Datenschutzmerkmale aufweisen. Pre-Release-Versionen senden automatisch [Telemetrie-Daten](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) an Mozilla, damit wir Firefox verbessern können.
 {: #pre-release }
