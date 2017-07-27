@@ -1,7 +1,7 @@
 # Firefox böngésző Adatvédelmi tájékoztató
 
-2017. június 5.
-{: datetime="2017-06-05" }
+2017\. július 20\.
+{: datetime="2017-07-20" }
 
 Fontos számunkra az Ön adatainak védelme. Ha a Firefox adatokat küld a Mozilla (ez minket jelent) számára, akkor [adatvédelmi irányelveink](https://www.mozilla.org/privacy/) írják le ezek kezelésének módját.
 
@@ -47,7 +47,7 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 
 	A használati statisztikák vagy „Telemetria” a Firefox azon funkciója, amely elküldi a Mozilla használati, teljesítményre és reakcióidőre vonatkozó statisztikáit a felhasználói felület funkcióival, memóriájával és hardverkonfigurációjával összefüggésben. A szokásos webes naplózás részként az Ön IP-címét is gyűjti a rendszer. A használati statisztikákat SSL alkalmazásával továbbítják, és ezek segítenek bennünket a Firefox jövőbeli verzióinak tökéletesítésében. A Mozillához küldést követően a használati statisztikákat összesítik, és fejlesztők széles köre számára teszik hozzáférhetővé, beleértve a Mozilla alkalmazottait és közreműködőit. Amikor a Telemetria be van kapcsolva, bizonyos rövid távú kísérletek adatokat gyűjthetnek a felkeresett webhelyekről.
 
-	Ez a funkció alapértelmezés szerint engedélyezett a Firefox Nightly, Aurora és Beta build változatainál, hogy segítse azokat a felhasználókat, akik visszajelzést adnak a Mozillának. A Firefox általános kiadott változatai esetében alapértelmezett beállításként ez a funkció ki van kapcsolva.
+	Ez a funkció alapértelmezett módon be van kapcsolva a Firefox Nightly és Beta/Developer kiadásaiban, annak érdekében, hogy segítsen a felhasználóknak visszajelzéseket küldeni a Mozillának. A Firefox általános verziójában ez a funkció alapértelmezett módon ki van kapcsolva.
 
 	Itt [tudhat meg többet a telemetriáról](https://support.mozilla.org/kb/send-performance-data-improve-firefox) és annak be- vagy kikapcsolásáról.
 
@@ -58,11 +58,15 @@ A Firefox automatikusan csatlakozik hozzánk és szolgáltatóinkhoz frissítés
 
 * **Ajánlás és kampánykövetés**{: #thirdparty } ** **{: #referraltracking }
 
-	Marketingkampányaink megismerésének és javításának elősegítése érdekében a Firefox „Ajánlási adatokat” küldhet, mint például a Firefox letöltését és telepítését ajánló weboldal tartományát vagy reklámkampányt.
- 
-	Az Android és az iOS operációs rendszerek esetében a Firefox a mobilelemzési szolgáltatónak küldi el az ajánlási adatokat, és hozzátesz egy Google reklámazonosítót, IP-címet, időbélyeget, országot, területi beállítást, operációs rendszert és alkalmazásverziót. További tudnivalókat [itt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) találhat, beleértve a jelen jelentés letiltásával kapcsolatban is.
+	Annak érdekében, hogy megértsük és javítsunk a marketingkampányainkon, a Firefox alapértelmezett módon információkat küld. Ebbe beletartoznak az olyan „Ajánlott adatok”, mint a weboldal domainek vagy hirdetőkampányok, amelyek a Firefox letöltésére és telepítésére buzdítják, valamint az „Interakciós adatok”, amelyek a Firefoxban használt funkciókkal kapcsolatos adatokat tartalmazzák.
 
-	Az asztali gépek esetében a Firefox rögzíti az ajánlási adatokat, és a Firefox Health Report részeként elküldi a Mozillának.  További tudnivalókat [itt](https://support.mozilla.org/kb/desktop-attribution-privacy) találhat, beleértve a jelen jelentés elutasításával vagy letiltásával kapcsolatban is.
+	__Ajánlott adatok__
+	A Firefox Androidon és iOS-en Ajánlott adatokat küld a mobilelemző vendorunknak, továbbá ez tartalmazza a Google-hirdetés azonosítóját, az IP-címet, az időjelzést, az országot, a helyszínt, az operációs rendszert és az alkalmazás verzióját. Tudjon meg többet [itt](https://support.mozilla.org/kb/desktop-attribution-privacy), beleértve a jelentés kikapcsolásával kapcsolatos információkat.
+
+	Asztali számítógépen a Firefox Ajánlott adatokat rögzít és küld a Firefox állapotjelentés részeként. Tudjon meg többet [itt](https://support.mozilla.org/kb/desktop-attribution-privacy), beleértve a jelentés visszamondásával vagy kikapcsolásával kapcsolatos információkat..
+
+	__Interakciós adatok__
+	A Firefox iOS-en Interakciós adatokat küld a Leanplumnak, a mobil marketinges vendorunknak, amely saját [adatvédelmi irányelvekkel](https://www.leanplum.com/privacy/) rendelkezik.  Ezen adatok segítségével különböző funkciókat és élményeket tesztelhetünk, valamint személyre szabott üzeneteket és ajánlásokat biztosíthatunk a Firefox-os tapasztalatai javításának érdekében. Tudjon meg többet az adatgyűjtésről [itt](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), beleértve a [funkció kikapcsolásával](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) kapcsolatos információkat.
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Az Ön kérésére is csatlakozik a Firefox a Mozillához, hogy Önnek funkciók
 {: #push-notifications }
 
 	A leküldéses értesítések engedélyezik az oldalaknak, hogy értesítéseket és frissítéseket küldjenek Önnek, ha engedélyezi ezt az opciót. Annak érdekében, hogy értesítéseket kapjon, a Firefox információt küld a Mozilla számára arról, hogy Ön mely oldalak esetében engedélyezte a leküldéses értesítéseket. Ezt az információt, illetve az egyes oldalak által küldött értesítések számát névtelenül tároljuk. A Mozilla segít a fejlesztőknek a leküldéses értesítések minél hatékonyabb használatában, ezért összesített információkat oszthat meg bizonyos fejlesztőkkel, többek között azt, hogy az oldalukra látogatók közül hányan iratkoztak fel a leküldéses értesítésekre vagy iratkoztak le azokról. A Firefox böngészőben az [alábbi utasítások](https://support.mozilla.org/kb/push-notifications-firefox) betartásával kezelheti a leküldéses értesítéseket.
+
+* **Firefox képernyőképek**
+{: #screenshots }
+
+	__Képernyőképek feltöltése__
+	A feltöltésre kiválasztott képernyőképeket elküldjük a Mozillának. Ezeket korlátozott ideig tároljuk, a tárolási időt módosíthatja.  Előfordulhat, hogy elérjük a feltöltött képernyőképeket felhasználjuk, amennyiben a szolgáltatás működtetéséhez szükséges.  Bármikor törölheti a feltöltött képernyőképeket.  
+
+	__Interakciós adatok__
+	Olyan adatokat kapunk, mint a Firefox képernyőképek weboldal látogatásai, milyen gyakran fér/osztja meg Ön vagy mások a feltöltött képernyőképeket, valamint a képernyőképek rögzítésével kapcsolatos interakció a gombokkal, csempékkel, továbbá az egérmozgás.  
+A Firefox képernyőképek weboldal látogatásával kapcsolatban a [weboldas adatvédelmi irányelveink](https://www.mozilla.org/privacy/websites/) tartalmazzák a begyűjtött adatok típusát. 
+
+	__Műszaki adatok__
+	Olyan adatokat kapunk, mint a feltöltött képernyőképek átlagos mérete és száma, a Firefox böngésző verziója, az eszköz operációs rendszere és a hibák.  A Firefox képernyőképek weboldalt elérő IP-címeket ideiglenesen tároljuk az általános szervernapló részeként. 
+
+	Olvassa el a teljes tartalmat [itt](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) vagy törölje az összes képernyőképét [itt](https://screenshots.firefox.com/leave-screenshots).
 
 Egyéb megjegyzés hiányában ez az adatvédelmi tájékoztató a Firefox legfrissebb általánosan kibocsátott verzióira vonatkozik. A kibocsátás előtti verziók (Beta/Developer Edition, Nightly és TestFlight) még fejlesztés alatt állnak, ezért új funkciókat tartalmazhatnak és eltérő adatvédelmi jellemzők vonatkozhatnak rájuk. A kibocsátás előtti verziók automatikusan [telemetriai adatokat](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) küldenek a Mozillának, amelyek segítenek nekünk a Firefox további fejlesztésében.
 {: #pre-release }

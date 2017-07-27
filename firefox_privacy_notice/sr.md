@@ -1,7 +1,7 @@
 # Obaveštenje o privatnosti pretraživača Firefox
 
-5. jun 2017.
-{: datetime="2017-06-05" }
+20\. jul, 2017
+{: datetime="2017-07-20" }
 
 Stalo nam je do vaše privatnosti. Kada Firefox šalje informacije kompaniji Mozilla (to smo mi) u našim [Pravilima privatnosti](https://www.mozilla.org/privacy/) opisuje se način na koji koristimo te informacije.
 
@@ -47,7 +47,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 	Statistika o korišćenju ili „Telemetrija“ predstavlja opciju u pretraživaču Firefox koja šalje sajtu Mozilla statistiku o korišćenju, performansama i vremenu reakcije opcija korisničkog interfejsa, memorije i konfiguracije hardvera. Podaci o vašoj IP adresi se takođe prikupljaju u okviru standardne veb evidencije. Statistika korišćenja se prenosi putem SSL-a i pomaže nam da poboljšamo buduće verzije pretraživača Firefox. Kada se statistika korišćenja pošalje kompaniji Mozilla, podaci se zbirno obrađuju i dostavljaju širokom krugu programera, uključujući i zaposlene u kompaniji Mozilla i saradnike. Kada je uključena Telemetrija, određeni kratkoročni eksperimenti mogu prikupljati informacije o posećenim sajtovima.
 
-	Ova opcija je standardno uključena u verzijama Nightly, Aurora i Beta pretraživača Firefox kako bi ovi korisnici mogli da pruže povratnu informaciju kompaniji Mozilla. U opštim verzijama pretraživača Firefox koje se puštaju u opticaj, ova opcija je standardno isključena.
+	Ova opcija je standardno uključena u verzijama Nightly i Beta/Developer Edition pregledača Firefox kako bi pomogla njihovim korisnicima da daju povratne informacije kompaniji Mozilla. U opštoj verziji izdanja pregledača Firefox, ova opcija je standardno isključena.
 
 	Više podataka o [Telemetriji možete saznati ovde](https://support.mozilla.org/kb/send-performance-data-improve-firefox), kao i o tome kako da je uključite ili isključite.
 
@@ -58,11 +58,15 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 * **Praćenje preporuka i kampanji**{: #thirdparty } ** **{: #referraltracking }
 
-	Kao pomoć u razumevanju i poboljšanju naših marketinških kampanja, Firefox može slati „Podatke o preporukama“ kao što su domen veb sajta ili reklamna kampanja koja vas je uputila na preuzimanje i instaliranje pretraživača Firefox.
- 
-	Na Android i iOS uređajima, Firefox šalje Podatke o preporukama našem pružaocu usluga mobilne analitike i uključuje i ID Google oglašavanja, IP adresu, vremensku oznaku, zemlju, jezik, operativni sistem i verziju aplikacije. Saznajte više [ovde](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), uključujući i to kako da isključite izveštavanje.
+	Kako bismo bolje razumeli i unapredili naše marketinške kampanje, Firefox standardno šalje određene informacije. To obuhvata „Podatke o preporukama“, kao što su domen sajta ili reklamna kampanja koja vas je uputila da preuzmete i instalirate Firefox, kao i „Podatke o interakciji“ u pogledu funkcija koje koristite u pregledaču Firefox.
 
-	Na desktop uređajima, Firefox beleži i šalje Podatke o preporukama kompaniji Mozilla kao deo Izveštaja o oštećenjima pretraživača Firefox.  Saznajte više [ovde](https://support.mozilla.org/kb/desktop-attribution-privacy), uključujući i to kako da se odjavite iz programa izveštavanja i kako da isključite izveštavanje.
+	__Podaci o preporukama__
+	Na Android i iOS uređajima, Firefox šalje Podatke o preporukama našem dobavljaču usluga mobilne analitike i uključuje reklamni ID kompanije Google, IP adresu, vremensku oznaku, zemlju, jezik, operativni sistem i verziju aplikacije. Više informacija možete dobiti [ovde](https://support.mozilla.org/kb/desktop-attribution-privacy), uključujući i kako da onemogućite ovu opciju.
+
+	Na desktop uređajima, Firefox snima i šalje Podatke o preporukama kompaniji Mozilla kao deo Izveštaja zdravlja pregledača Firefox. Više informacija možete dobiti [ovde](https://support.mozilla.org/kb/desktop-attribution-privacy), uključujući i kako da se odjavite ili da onemogućite ovakvo izveštavanje.
+
+	__Podaci o interakciji__
+	Na iOS uređajima, Firefox šalje Podatke o interakciji kompaniji Leanplum, našem dobavljaču usluga mobilnog marketinga, koji ima sopstvena [pravila privatnosti](https://www.leanplum.com/privacy/).  Ovi podaci nam omogućuju da testiramo različite funkcije i iskustva, kao i da šaljemo prilagođene poruke i preporuke za unapređenje vašeg iskustva sa pregledačem Firefox. Više informacija o prikupljanju ovih podataka možete dobiti [ovde](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), uključujući i kako da [onemogućite ovu funkciju](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio 
 {: #push-notifications }
 
 	Obaveštenja „Push“ dozvoljavaju sajtovima da Vam šalju obaveštenja i ažuriranja ukoliko odaberete ovu opciju. Da bi dobio obaveštenja, Firefox šalje informacije kompaniji Mozilla o tome sa kojih sajtova ste prihvatili da dobijate obaveštenja „Push“. Ove podatke čuvamo u anonimnom obliku uz broj obaveštenja koje Vam svaki od sajtova šalje. Kako bi pomogla programerima da poboljšaju korišćenje obaveštenja „Push“, kompanija Mozilla može podeliti zbirne podatke sa određenim programerima, uključujući i broj posetilaca njihovog sajta koji su se prijavili ili odjavili za dobijanje njihovih obaveštenja „Push“. Možete upravljati svojim obaveštenjima „Push“ u pregledaču Firefox tako što ćete pratiti [ova uputstva](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Snimci ekrana pregledača Firefox**
+{: #screenshots }
+
+	__Otpremanje snimaka ekrana__
+	Snimci ekrana koje odaberete da otpremite šalju se kompaniji Mozilla i čuvaju se u navedenom ograničenom vremenskom periodu, koji možete izmeniti.  Možemo pristupiti snimcima ekrana koje ste otpremili kada je to neophodno u razumnoj meri radi funkcionisanja usluge.  Otpremljene snimke ekrana možete obrisati u svakom trenutku.  
+
+	__Podaci o interakciji__
+	Dobijamo podatke kao što su posete veb sajtu za Snimke ekrana pregledača Firefox, koliko se često pristupa otpremljenim snimcima ekrana i koliko ih vi ili drugi često dele sa drugima, kao i pokrete mišom koji se odnose na pravljenje snimaka ekrana.  
+U slučaju poseta veb sajtu Snimaka ekrana pregledača Firefox, u našim [pravilima privatnosti veb sajtova](https://www.mozilla.org/privacy/websites/) opisani su tipovi podataka koje prikupljamo. 
+
+	__Tehnički podaci__
+	Dobijamo podatke kao što su prosečna veličina i broj snimaka ekrana koji ste otpremili, verzija vašeg pregledača Firefox, operativni sistem uređaja, kao i greške.  IP adresa sa koje se pristupa veb sajtu Snimaka ekrana pregledača Firefox se privremeno prikuplja kao deo standardnog dnevnika servera. 
+
+	Pročitajte kompletnu dokumentaciju [ovde](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) ili obrišite sve vaše snimke ekrana [ovde](https://screenshots.firefox.com/leave-screenshots).
 
 Osim ako nije drugačije napomenuto, ovo Obaveštenje o privatnosti se odnosi na najnovija opšta izdanja verzija pregledača Firefox. Naše verzije pred izdavanje (Beta/Programersko izdanje, Nightly i TestFlight) još uvek se aktivno razvijaju i mogu sadržati nove funkcije ili imati različite karakteristike privatnosti. Verzije pred izdavanje automatski šalju [Telemetrijske podatke](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) kompaniji Mozilla kako bi pomogle u poboljšanju pregledača Firefox.
 {: #pre-release }

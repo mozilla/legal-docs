@@ -1,7 +1,7 @@
 # Firefox ブラウザのプライバシーに関する通知
 
-2017 年 6 月 5 日
-{: datetime="2017-06-05" }
+2017 年 7 月 20 日
+{: datetime="2017-07-20" }
 
 Mozilla はあなたのプライバシーを尊重します。Mozilla が Firefox を通じて情報を受け取る場合、[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) に従ってそれらの情報を取り扱います。
 
@@ -68,11 +68,15 @@ Firefox は、Mozilla や Mozilla が契約するサービスプロバイダー�
 
 * **参照とキャンペーンの追跡**{: #thirdparty } ** **{: #referraltracking }
 
-	Mozilla のマーケティングキャンペーンを理解および改善できるよう、Firefox は、あなたに Firefox をダウンロードしてインストールするように言及したサイトのドメインや広告キャンペーンといった「参照データ」を送信することがあります。
- 
-	Android と iOS の場合、Firefox は Mozilla のモバイル分析ベンダーに参照データを送信します。これには、Google の広告 ID 、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーションシステム、アプリのバージョンも含まれます。この機能を無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください
+	Mozilla のマーケティングキャンペーンを理解および改善できるよう、Firefox は初期設定で特定の情報を送信します。これには、あなたに Firefox をダウンロードしてインストールするように言及したサイトのドメインや広告キャンペーンなどの「参照データ」、ならびにあなたが Firefox で使用する機能に関する「インタラクションデータ」が含まれます。
 
-	デスクトップの場合、Firefox は参照データを記録し、Firefox ヘルスレポートの一部として Mozilla に送信します。この機能を無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/desktop-attribution-privacy)をご覧ください
+	__参照データ__
+	Android と iOS の場合、Firefox は Mozilla のモバイル分析ベンダーに参照データを送信します。これには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーションシステム、アプリのバージョンも含まれます。 この機能を無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/desktop-attribution-privacy)をご覧ください。
+
+	デスクトップの場合、Firefox は参照データを記録し、Firefox ヘルスレポートの一部として Mozilla に送信します。この機能をオプトアウトまたは無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/desktop-attribution-privacy)をご覧ください。
+
+	__インタラクションデータ__
+	iOS の場合、Firefox はインタラクションデータを Mozilla のモバイルマーケティングベンダーである Leanplum に送信します。Leanplum には独自の[プライバシーポリシー](https://www.leanplum.com/privacy/)があります。このデータにより、Mozilla はさまざまな機能や体験をテストしたり、カスタマイズしたメッセージや推奨事項を提供したりして、Firefox の使い心地を改善することが可能になります。このデータ収集の詳細については、[こちら](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md)をご覧ください。また、この機能を無効にする方法については、[こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)を参照してください。
 
 ---------------------------------------
 
@@ -108,6 +112,21 @@ Firefox は、あなたのリクエストに応じて、Sync、位置情報サ�
 {: #push-notifications }
 
 	プッシュ通知は、サイトがあなたに対して通知や更新を送信できるようにするオプトイン機能です。Firefox は、通知を受け取るため、あなたがプッシュ通知を受け取ることを許可したサイトに関する情報を Mozilla へ送信します。これらの情報は、各サイトが送信する通知の回数とともに匿名形式で保存されます。Mozilla は、開発者がプッシュ通知の使用方法を改善できるようにするため、彼らのサイトでプッシュ通知の購読を開始あるいは解除した訪問者数を含む集計情報を、特定の開発者と共有する場合があります。Firefox のプッシュ通知は [こちらの説明](https://support.mozilla.org/kb/push-notifications-firefox) に従うことで管理できます。
+
+* **Firefox スクリーンショット**
+{: #screenshots }
+
+	__スクリーンショットのアップロード__
+	あなたがアップするように指定したスクリーンショットは Mozilla に送信され、示されている期間だけ保管されます。この期間は変更することが可能です。Mozilla は、サービスの運営上必要であると判断したとき、あなたがアップロードしたスクリーンショットにアクセスすることがあります。あなたはアップロードしたスクリーンショットをいつでも削除できます。
+
+	__インタラクションデータ__
+	Mozilla は、Firefox スクリーンショットウェブサイトへの訪問、アップロードされたスクリーンショットがあなたまたは他の人によってアクセスおよび共有される頻度、およびあなたによるボタンやタイトルの操作、ならびにスクリーンショットのキャプチャに関するマウスの動きなどのデータを受信します。
+Firefox スクリーンショットウェブサイトへの訪問については、Mozilla の[ウェブサイトのプライバシーに関する通知](https://www.mozilla.org/privacy/websites/)に、Mozilla が収集するデータの種類についての説明が記載されています。
+
+	__技術データ__
+	Mozilla は、あなたがアップロードしたスクリーンショットの平均のサイズや数、お使いの Firefox ブラウザのバージョン、デバイスのオペレーティングシステム、およびエラーなどのデータを受信します。Firefox スクリーンショットウェブサイトにアクセスする IP アドレスは、標準的なサーバログの一部として一時的に収集されます。
+
+	詳細なドキュメントについては[こちら](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)をご覧ください。または、[こちら](https://screenshots.firefox.com/leave-screenshots)でお持ちのスクリーンショットをすべて削除してください。
 
 特に明記されていない限り、このプライバシーに関する通知は、Firefox の最新の一般リリースバージョンに対するものです。Mozilla のプレリリースバージョン (Beta/Developer Edition、Nightly、および TestFlight) は開発中のものであり、新機能や異なるプライバシー特性を含んでいる場合があります。プレリリースバージョンは[Telemetry データ](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html)を自動的に Mozilla に送信します。このデータは Mozilla が Firefox を改善していく上で役立ちます。
 {: #pre-release }

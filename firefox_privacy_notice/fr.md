@@ -1,7 +1,7 @@
 # Politique de confidentialité du navigateur Firefox
 
- 5 juin 2017
-{: datetime="2017-06-05" }
+20 juillet 2017
+{: datetime="2017-07-20" }
 
 Nous nous soucions de votre vie privée. Quand Firefox envoie des informations à Mozilla (c’est nous), notre [politique de confidentialité](https://www.mozilla.org/privacy/) vous informe sur la façon dont nous gérons ces informations.
 
@@ -47,7 +47,7 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 	La fonction Statistiques d’utilisation ou « Télémétrie » de Firefox transmet à Mozilla les statistiques d’utilisation, de performances et réactivité concernant l’interface utilisateur, la mémoire et configuration matérielle. Votre adresse IP est également recueillie, faisant partie du journal Web standard. Les statistiques d’utilisation sont transmises via SSL et nous permettront d’améliorer les versions ultérieures de Firefox. Une fois transmises à Mozilla, les statistiques d’utilisation sont rassemblées et mises à la disposition d’un grand nombre de développeurs, y compris les employés de Mozilla et les contributeurs publics. Lorsque la télémétrie est activée, certaines expérimentations à court terme peuvent permettre de recueillir des informations à propos des sites visités.
 
-	Cette fonction est activée par défaut dans les compilations Nightly, Aurora et Beta de Firefox pour que leurs utilisateurs puissent faire part à Mozilla de leurs commentaires. Dans la version générale de Firefox, cette fonction est désactivée par défaut.
+	Cette fonction est activée par défaut dans les compilations Nightly, Beta et Developer de Firefox pour que leurs utilisateurs puissent faire part à Mozilla de leurs commentaires.
 
 	Vous pouvez [en savoir plus sur la Télémétrie ici](https://support.mozilla.org/kb/send-performance-data-improve-firefox) et comment l’activer ou la désactiver.
 
@@ -58,11 +58,15 @@ Firefox se connecte automatiquement à nous et nos fournisseurs de service afin 
 
 * **Suivi des redirections et des campagnes**{: #thirdparty } ** **{: #referraltracking }
 
-	Pour nous aider à mieux comprendre et améliorer nos campagnes marketing, Firefox pourra envoyer des « Données de redirection », comme le domaine du site Web ou la campagne marketing qui vous a redirigé vers le téléchargement et l’installation de Firefox.
- 
-	Sur Android et iOS, Firefox envoie des données de redirection à notre fournisseur d’analyses mobiles, et inclut par ailleurs un identifiant de publicité, l’adresse IP, l’horodatage, le pays, la langue, le système d’exploitation et la version de l’application. Pour en savoir plus,  [cliquez ici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), notamment pour savoir comment désactiver cet envoi d’informations.
+	Pour nous aider à mieux comprendre et améliorer nos campagnes marketing, Firefox envoie certaines informations par défaut. Ces informations incluent les « Données de redirection », comme le domaine du site web ou la campagne marketing qui vous a redirigé vers le téléchargement et l’installation de Firefox, ainsi que des « Données d’interaction » portant sur les fonctionnalités que vous utilisez dans Firefox.
 
-	Sur le bureau de l’ordinateur, Firefox enregistre et envoie les données de redirection à Mozilla en les intégrant au bilan de santé de Firefox (FHR, Firefox Health Report). Pour en savoir plus,  [cliquez ici](https://support.mozilla.org/kb/desktop-attribution-privacy), notamment pour savoir comment annuler ou désactiver cet envoi d’informations.
+	__Données de redirection__
+	Sur Android et iOS, Firefox envoie des données de redirection à notre fournisseur d’analyses mobiles, et inclut par ailleurs un identifiant de publicité Google, l’adresse IP, l’horodatage, le pays, la langue, le système d’exploitation et la version de l’application. Pour en savoir plus, [cliquez ici](https://support.mozilla.org/kb/desktop-attribution-privacy), notamment pour savoir comment désactiver cet envoi d’informations.
+
+	Sur le bureau de l’ordinateur, Firefox enregistre et envoie les données de redirection à Mozilla en les intégrant au bilan de santé de Firefox (FHR, Firefox Health Report). Pour en savoir plus, [cliquez ici](https://support.mozilla.org/kb/desktop-attribution-privacy), notamment pour savoir comment annuler ou désactiver cet envoi d’informations.
+
+	__Données d’interaction__
+	Sur iOS, Firefox envoie des données d’interaction à Leanplum, notre fournisseur de marketing mobile, qui dispose de sa propre [politique de confidentialité](https://www.leanplum.com/privacy/). Ces données nous permettent de tester différentes fonctionnalités et expériences et de fournir des messages et recommandations personnalisés pour améliorer votre expérience avec Firefox. Pour en savoir plus sur cette collecte de données, [cliquez ici](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) ; [cliquez ici pour désactiver cette fonctionnalité](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Lorsque vous le demandez, Firefox se connecte aussi à Mozilla pour vous fournir
 {: #push-notifications }
 
 	Les notifications push permettent aux sites de vous envoyer des notifications et des mises à jour si vous choisissez de les accepter. Pour vous permettre de recevoir des notifications, Firefox envoie des informations à Mozilla concernant les sites à partir desquels vous avez accepté de recevoir des notifications push. Nous enregistrons ces informations sous forme anonyme, et enregistrons également le nombre de notifications que chaque site vous envoie. Pour aider les développeurs à améliorer l'utilisation des notifications push, Mozilla peut décider de partager des informations avec certains développeurs, notamment le nombre de visiteurs qui ont opté pour les notifications push ou qui ont refusé de les recevoir. Vous pouvez gérer les notifications push dans Firefox en suivant ces [instructions](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Captures d’écran Firefox**
+{: #screenshots }
+
+	__Envoi de captures d’écran__
+	Les captures d’écran que vous décidez d’envoyer sont envoyées à Mozilla et stockées pendant la période indiquée, que vous pouvez modifier.  Nous nous réservons le droit d’accéder à vos captures d’écran lorsque cela est raisonnablement nécessaire pour le bon fonctionnement du service.  Vous pouvez supprimer vos captures d’écran envoyées à tout moment.  
+
+	__Données d’interaction__
+	Nous recevons des données telles les visites au site web Firefox Screenshots, le nombre de fois où les captures d’écran envoyées ont été consultées et partagées par vous ou d’autres utilisateurs, ainsi que vos interactions avec les boutons, vignettes et déplacements de souris relatifs à la capture des écrans.  
+Pour les visites au site web, consultez notre [Avis de confidentialité relatif aux sites web](https://www.mozilla.org/privacy/websites/) qui décrit les types de données que nous collectons. 
+
+	__Données techniques__
+	Nous recevons des données, comme la taille moyenne et le nombre de vos captures d’écran envoyées, la version de votre navigateur Firefox, le système d’exploitation de votre appareil et des erreurs.  L’adresse IP servant à accéder au site web Firefox Screenshots est momentanément collectée par le fichier journal de serveur standard. 
+
+	Lisez la documentation complète [ici](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) ou supprimez toutes vos captures d’écran [ici](https://screenshots.firefox.com/leave-screenshots).
 
 Sauf si mentionné par ailleurs, cet avis de confidentialité concerne les versions génériques les plus récentes de Firefox. Nos versions officieuses (Beta/Developer Edition, Nightly et TestFlight) sont en cours de développement actif et peuvent inclure de nouvelles fonctionnalités ou d'autres caractéristiques de confidentialité. Les versions officieuses envoient automatiquement des [données télémétriques](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) à Mozilla pour nous aider à améliorer Firefox.
 {: #pre-release }

@@ -1,7 +1,7 @@
 # Politica de confidențialitate a browserului Firefox
 
-June 5, 2017
-{: datetime="2017-06-05" }
+20 iulie 2017
+{: datetime="2017-07-20" }
 
 Ne pasă de confidențialitatea dvs. Atunci când Firefox trimite informații la Mozilla (adică noi), [politica de confidențialitate](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm acele informații.
 
@@ -47,7 +47,7 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 
 	Statisticile de utilizare sau „Telemetria” reprezintă o funcționalitate în Firefox care trimite la Mozilla statistici de utilizare, performantă și viteză de răspuns cu privire la funcționalitățile pentru interfața utilizatorului, memorie sau configurația hardware. Adresa dvs. IP este, de asemenea, colectată ca parte a unui registru web standard. Statisticile de utilizare sunt transmise folosind SSL și ne ajută să îmbunătățim versiunile viitoare de Firefox. Odată trimise la Mozilla, statisticile de utilizare sunt agregate și puse la dispoziția unei game largi de dezvoltatori, inclusiv atât angajați Mozilla, cât și contribuitori publici. Atunci când Telemetria este activată, anumite experimente pe termen scurt ar putea colecta informații despre site-urile vizitate.
 
-	Această funcționalitate este pornită în mod implicit în versiunile Nightly, Developer Edition, Aurora și Beta ale Firefox pentru a ajuta acei utilizatori să furnizeze feedback la Mozilla. În versiunea lansată pentru uz general a Firefox, această funcționalitate este oprită în mod implicit.
+	Această funcție este dezactivată implicit în versiunile  Nightly și Beta/Developer Edition ale Firefox pentru a ajuta utilizatorii lor să ofere feedback către Mozilla. În versiunea finală a Firefox această funcție este dezactivită implicit.
 
 	Puteți [afla mai multe despre Telemetrie aici](https://support.mozilla.org/kb/send-performance-data-improve-firefox) și despre cum să o activați sau să o dezactivați.
 
@@ -63,11 +63,15 @@ Firefox se conectează automat la noi și la furnizorii noștri de servicii pent
 
 * **Referral și urmărirea campaniei**{: #thirdparty } ** **{: #referraltracking }
 
-	Pentru a putea înțelege și îmbunătăți campaniile noastre de marketing, Firefox poate trimite „Date de referral”, cum ar fi domeniul site-ului web sau campania publicitară care v-a recomandat să descărcați și să instalați Firefox.
- 
-	Pe Android și iOS, Firefox trimite Date de referral către furnizorul nostru de unelte analitice pentru dispozitive mobile, inclusiv ID-ul publicitar Google, adresa IP, marca de timp, țara, limba, sistemul de operare și versiunea aplicației. Puteți afla mai multe [aici](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), inclusiv cum puteți dezactiva această raportare.
+	Pentru a putea înțelege și îmbunătăți campaniile noastre de marketing, Firefox trimite anumite informații implicit. Acestea include Datele despre referral, cum ar fi domeniul site-ului web sau campania publicitară care v-a indicat să descărcați și să instalați Firefox, ca și Datele despre interacțiuni despre ce funcții Firefox folosiți.
 
-	Pe desktop, Firefox înregistrează și transmite Date de referral către Mozilla ca parte a Raportului de stare Firefox. Puteți afla mai multe [aici](https://support.mozilla.org/kb/desktop-attribution-privacy), inclusiv cum puteți renunța sau dezactiva această raportare.
+	__Date despre referral__
+	Pe Android și iOS, Firefox trimite Datele despre referral către furnizorul nostru de date analitice pentru mobil, și acestea includ ID-ul publicitar al Google, adresa de IP, marcajul de timp, țara, limba, sistemul de operare și versiunea aplicației. Aflați mai multe[aici](https://support.mozilla.org/kb/desktop-attribution-privacy), inclusiv cum puteți dezactiva raportarea.
+
+	Pe desktop, Firefox înregistrează și trimite Datele despre referral ca parte a Firefox Health Report. Aflați mai multe [aici](https://support.mozilla.org/kb/desktop-attribution-privacy), inclusiv cum puteți dezactiva sau opta să nu mai folosiți această raportare.
+
+	__Date despre interacțiuni__
+	Pe iOS, Firefox trimite Date despre iteracțiuni către Leanplum, furnizorul nostru de marketing pentru dispozitive mobile, care are propria sa[politică de confidențialitate](https://www.leanplum.com/privacy/). Aceste date ne permit să testăm diferite funcții și experiențe și să oferim mesaje și recomandări personalizate pentru a vă îmbunătăți experiența cu Firefox. Aflați mai multe despre datele pe care le colectăm[aici](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), și cum puteți[dezactiva acestă funcție](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -103,6 +107,21 @@ Când solicitați acest lucru, Firefox se conectează la Mozilla pentru a vă of
 {: #push-notifications }
 
 	Notificările Push permit site-urilor să vă trimită notificări și actualizări dacă ați optat pentru aceasta. Pentru a primi notificările, Firefox trimite către Mozilla informații despre site-urile de la care ați acceptat să primiți notificări Push. Stocăm aceste informații într-o formă anonimă, împreună cu numărul de notificări pe care le primiți de la fiecare site. Pentru a ajuta dezvoltatorii să-și îmbunătățească modul în care folosesc notificările Push, Mozilla poate să împărtășească date agregate cu diferiți dezvoltatori, inclusiv numărul de vizitatori de pe site-ul lor care s-au abonat sau dezabonat de la serviciul de notificări Push. Puteți gestiona notificările Push în Firefox urmând [aceste instrucțiuni](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Capturi de ecran Firefox**
+{: #screenshots }
+
+	__Încărcarea capturilor de ecran__
+	Capturile de ecran pe care alegeți să le încărcați  sunt trimise către Mozilla și sunt stocate pentru perioada de timp indicată, pe care o puteți modifica.  Putem accesa capturile de ecran pe care le-ați încărcat atunci când acest lucru este necear pentru operarea serviciului nostru. Puteți șterge capturile de ecran pe care le-ați încărcat în orice moment.  
+
+	__Date despre interacțiuni__
+	Primim date, cum ar fi vizitele pe site-ul Capturi de ecran Firefox, cât de des au fost accesate capturile de ecran încărcate și cât de des au fost partajate de dvs. și de alții, felul în care ați interacționat cu butoanele și piesele de pe ecran, și mișcările mouse-ului asociate capturilor de ecran.  
+Pentru vizitele la site-ul Capturi de ecran Firefox, [politica noastră de confidențialitate pentru site-uri web](https://www.mozilla.org/privacy/websites/) descrie tipurile de date pe care le colectăm. 
+
+	__Date tehnice__
+	Primim date cun ar fi dimensiunea medie și numărul de capturi de ecran pe care le-ați încărcat, versiunea browser-ului dvs. Firefox, sistemul de operare al dispozitivului dvs. și erorile înregistrate. Adresele IP care accesează Capturi de ecran Firefox sunt colectate temporar ca parte a jurnalului de server standard. 
+
+	Citiți documentația completă[aici](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) sau ștergeți toate capturile dvs. de ecran [aici](https://screenshots.firefox.com/leave-screenshots).
 
 Cu excepția cazurilor în care se specifică altceva, prezenta politică de confidențialitate se aplică ultimelor versiuni generale de Firefox. Versiunile care nu au fost lansate oficial (Beta/Developer Edition, Nightly și TestFlight) sunt în continuare parte a ciclului de dezvoltare și pot conține funcționalități noi sau alte opțiuni de confidențialitate. Versiunile care nu au fost lansate oficial trimit automat [date de Telemetrie](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) către Mozilla pentru a ne ajuta să îmbunătățim Firefox.
 {: #pre-release }

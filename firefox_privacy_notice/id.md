@@ -1,7 +1,7 @@
 # Pernyataan Privasi Peramban Firefox
 
-5 Juni 2017
-{: datetime="2017-06-05" }
+20 Juli 2017
+{: datetime="2017-07-20" }
 
 Kami peduli pada privasi Anda. Ketika Firefox mengirimkan informasi ke Mozilla (itu kami), [kebijakan privasi](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut.
 
@@ -47,7 +47,7 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 
 	Statistik penggunaan atau "Telemetri" adalah fitur dalam Firefox yang mengirimkan statistik penggunaan, kinerja, dan daya tanggap fitur antarmuka pengguna, memori dan konfigurasi perangkat keras ke Mozilla. Alamat IP Anda juga dikumpulkan sebagai bagian dari log web standar. Statistik penggunaan dikirimkan menggunakan SSL dan membantu kami meningkatkan versi Firefox di masa mendatang. Setelah dikirimkan ke Mozilla, statistik penggunaan digabungkan dan disediakan untuk berbagai pengembang, termasuk karyawan Mozilla dan kontributor umum. Ketika Telemetri diaktifkan, eksperimen jangka pendek tertentu mungkin mengumpulkan informasi tentang situs yang dikunjungi.
 
-	Fitur ini diaktifkan secara baku dalam Nightly, Developer Edition, Aurora dan Firefox build Beta untuk membantu para pengguna memberikan umpan balik ke Mozilla. Dalam Firefox versi rilis umum, fitur ini dimatikan secara baku.
+	Fitur ini diaktifkan secara baku dalam Nightly dan Firefox build Beta/Developer Edition untuk membantu para pengguna memberikan umpan balik ke Mozilla. Dalam Firefox versi rilis umum, fitur ini dinonaktifkan secara baku.
 
 	Anda dapat [mempelajari lebih jauh tentang Telemetri di sini](https://support.mozilla.org/kb/send-performance-data-improve-firefox) dan cara untuk mengaktifkan atau menonaktifkannya.
 
@@ -63,11 +63,15 @@ Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk m
 
 * **Pelacakan Perujuk dan Kampanye Pemasaran**{: #thirdparty } ** **{: #referraltracking }
 
-	Untuk membantu memahami dan meningkatkan kinerja kampanye pemasaran kami, Firefox mungkin mengirimkan “Data Perujuk” seperti domain situs web atau pemasaran iklan yang mengarahkan Anda untuk mengunduh dan memasang Firefox.
- 
-	Di perangkat Android dan iOS, Firefox mengirimkan Data Perujuk ke vendor analitika seluler, serta menyertakan ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), termasuk cara menonaktifkan pelaporan ini.
+	Untuk membantu kami memahami dan meningkatkan kinerja kampanye pemasaran kami, Firefox secara baku mengirimkan informasi tertentu. Informasi ini termasuk “Data Perujuk” seperti domain situs web atau pemasaran iklan yang mengarahkan Anda untuk mengunduh dan memasang Firefox, serta “Data Interaksi” tentang apa saja fitur yang Anda gunakan di Firefox.
 
-	Di desktop, Firefox mencatat dan mengirimkan Data Perujuk ke Mozilla sebagai bagian dari Laporan Kebugaran Firefox.  Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara berhenti berlangganan atau menonaktifkan pelaporan ini.
+	__Data Perujuk__
+	Di perangkat Android dan iOS, Firefox mengirimkan Data Perujuk ke vendor analitika seluler, serta menyertakan ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara menonaktifkan pelaporan ini.
+
+	Di desktop, Firefox mencatat dan mengirimkan Data Perujuk ke Mozilla sebagai bagian dari Laporan Kebugaran Firefox. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara berhenti berlangganan atau menonaktifkan pelaporan ini.
+
+	__Data Interaksi__
+	Di iOS, Firefox mengirimkan Data Interaksi ke Leanplum, vendor pemasaran seluler kami, yang memiliki [kebijakan privasi](https://www.leanplum.com/privacy/) sendiri.  Data ini memungkinkan kami menguji fitur dan pengalaman berbeda, serta mengirimkan pesan dan rekomendasi yang disesuaikan untuk meningkatkan pengalaman Anda menggunakan Firefox. Pelajari selengkapnya tentang pengumpulan data ini [di sini](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), dan cara untuk [menonaktifkan fitur ini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -103,6 +107,21 @@ Jika Anda memintanya, Firefox juga tersambung ke Mozilla untuk memberi Anda fitu
 {: #push-notifications }
 
 	Notifikasi Push memungkinkan situs mengirimkan notifikasi dan pembaruan kepada Anda jika Anda berlangganan. Untuk menerima notifikasi, Firefox akan mengirimkan informasi ke Mozilla tentang situs yang sudah Anda setujui Notifikasi Push-nya. Kami menyimpan informasi ini dalam formulir anonim, beserta jumlah notifikasi yang dikirimkan oleh masing-masing situs. Untuk membantu pengembang meningkatkan penggunaan Notifikasi Push, Mozilla mungkin memberikan informasi yang dikumpulkan kepada pengembang tertentu termasuk jumlah pengunjung situs mereka yang berlangganan atau berhenti berlangganan Notifikasi Push mereka. Anda bisa mengelola Notifikasi Push di Firefox dengan mengikuti [petunjuk ini](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Tangkapan Layar Firefox**
+{: #screenshots }
+
+	__Unggahan Tangkapan Layar__
+	Tangkapan layar yang Anda pilih untuk diunggah akan dikirimkan ke Mozilla dan disimpan dalam waktu yang ditentukan, dan bisa Anda ubah.  Kami bisa mengakses tangkapan layar yang Anda unggah jika memang diperlukan untuk pengoperasian layanan.  Anda bisa menghapus tangkapan layar yang Anda unggah kapan saja.  
+
+	__Data Interaksi__
+	Kami menerima data seperti kunjungan ke situs web Tangkapan Layar Firefox, seberapa sering tangkapan layar yang diunggah diakses dan dibagikan oleh Anda atau orang lain, serta interaksi Anda dengan tombol, ubin, dan gerakan mouse yang terkait dengan pengambilan tangkapan layar.  
+Untuk kunjungan ke situs web Tangkapan Layar Firefox, [pemberitahuan privasi situs web kami](https://www.mozilla.org/privacy/websites/) menjelaskan jenis-jenis data yang kami kumpulkan. 
+
+	__Data Teknis__
+	Kami menerima data seperti ukuran dan jumlah rata-rata tangkapan layar yang Anda unggah, versi browser Firefox Anda, sistem operasi perangkat, dan kesalahan.  Alamat IP yang mengakses situs web Tangkapan Layar Firefox sementara dikumpulkan sebagai bagian dari log server standar. 
+
+	Baca dokumen lengkapnya [di sini](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) atau hapus semua tangkapan layar Anda [di sini](https://screenshots.firefox.com/leave-screenshots).
 
 Kecuali disebutkan lain, pemberitahuan privasi ini khusus Firefox versi rilis umum terbaru. Versi rilis awal (Beta/Developer Edition, Nightly, dan TestFlight) masih mengalami pengembangan aktif dan mungkin memuat fitur baru atau memiliki karakteristik privasi berbeda. Versi rilis awal akan otomatis mengirimkan [data Telemetri](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) ke Mozilla untuk membantu kami meningkatkan Firefox.
 {: #pre-release }

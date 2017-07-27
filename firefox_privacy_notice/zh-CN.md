@@ -1,7 +1,7 @@
 # Firefox 浏览器隐私权保护事宜通知
 
-2017 年 6 月 5 日
-{: datetime="2017-06-05" }
+2017 年 7 月 20 日
+{: datetime="2017-07-20" }
 
 我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
 
@@ -47,7 +47,7 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 
 	使用情况统计或“遥测”是 Firefox 的一项功能，用于向 Mozilla 传送有关用户界面功能、内存和硬件配置的使用、性能和响应方面的统计数据。您的 IP 地址也作为标准网络日志的一部分加以收集。使用情况统计通过 SSL 输送，用以帮助我们在将来的版本中对 Firefox 进行改进。发送给 Mozilla 后，使用情况统计将被汇总提供给各方开发者，其中包括 Mozilla 的员工和公益开发者。启用遥测功能时，某些短期实验项目可能会用之收集所访问网站的信息。
 
-	这一功能在 Nightly、Developer Edition、Aurora 和 Beta 版本的 Firefox 中为默认开启，以帮助这些用户向 Mozilla 提供反馈。在 Firefox 的一般发行版本中，此功能为默认关闭。
+	在 Nightly 和 Beta/Developer Edition 版本的 Firefox 中，此功能默认开启，以帮助这些用户向 Mozilla 提供反馈。在 Firefox 的一般发行版本中，此功能默认关闭。
 
 	您可[在此了解更多关于遥测功能的信息](https://support.mozilla.org/kb/send-performance-data-improve-firefox) 以及如何启用和关闭方面的说明。
 
@@ -63,11 +63,15 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 
 * **引荐和广告活动追踪**{: #thirdparty } ** **{: #referraltracking }
 
-	为帮助了解和改进我们的市场推广活动，Firefox 可能会发送“引荐数据”，如引荐您下载并安装 Firefox 的网站域名或广告宣传。
- 
-	在 Android 和 iOS 设备上，Firefox 会将引荐数据发送给我们的移动分析供应商，包括 Google 广告 ID、IP 地址、时间戳、国家或地区、区域设置、操作系统和应用程序版本。您可以点击 [此处](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) 了解详情，包括如何禁用此报告。
+	为了帮助我们了解和改进市场营销活动，Firefox 默认发送某些信息。这些信息包括“引荐数据”，例如引荐您下载并安装 Firefox 的网站域名或广告活动，以及关于您使用 Firefox 中哪些功能的“互动数据”。
 
-	在桌面设备上，Firefox 会记录引荐数据并将其作为 Firefox 系统状况报告的一部分发送给 Mozilla。您可以点击 [此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解详情，包括如何选择退出或禁用此报告。
+	__引荐数据__
+	在 Android 和 iOS 设备上，Firefox 向移动分析供应商发送引荐数据，并且包括 Google 广告 ID、IP 地址、时间戳、国家/地区、区域设置、操作系统及应用程序版本。点击[此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解更多，包括如何禁用此报告。
+
+	在桌面设备上，Firefox 记录并发送引荐数据到 Mozilla，以作为 Firefox 系统状况报告的一部分。点击[此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解更多，包括如何选择退出或禁用此报告。
+
+	__互动数据__
+	在 iOS 设备上，Firefox 将互动数据发送给 Leanplum — 我们的移动市场营销供应商，他们有自己的[隐私政策](https://www.leanplum.com/privacy/)。此数据可让我们测试不同的功能和体验，以及提供定制的消息和推荐，以便改进您使用 Firefox 的体验。点击[此处](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 了解关于此数据收集的更多信息，以及如何[禁用此功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
 ---------------------------------------
 
@@ -103,6 +107,21 @@ Firefox 可自动与我们和我们的服务提供商连线，以提供更新、
 {: #push-notifications }
 
 	如果您启用了推送通知，网站就可以向您发送通知和更新。为了获取通知，Firefox 会将您同意接受推送通知的网站信息发送给 Mozilla。 我们会在匿名表格中存储这一信息，以及每个网站向您发送的通知数量。 为了帮助开发者改进他们对于推送通知的使用，Mozilla 可能会与某些开发者分享汇总信息，包括有多少网站访问者订阅了或者取消订阅了他们的推送通知。您可以遵照[这些说明](https://support.mozilla.org/kb/push-notifications-firefox)在 Firefox 中管理推送通知。
+
+* **Firefox 截图**
+{: #screenshots }
+
+	__上传截图__
+	您选择上传的截图会发送给 Mozilla 并按照指示的限定时长保存。您可更改此时长。在服务运营的必要情况下，我们可能访问您上传的截图。您可以随时删除上传的截图。  
+
+	__互动数据__
+	我们收到多种数据，例如对 Firefox 截图网站的访问、您或他人访问和分享所上传截图的次数以及您与捕捉截图相关的按钮、磁贴及鼠标运动的互动。  
+关于对 Firefox 截图网站的访问，我们的[网站隐私声明](https://www.mozilla.org/privacy/websites/) 描述了我们所收集数据的类型。 
+
+	__技术数据__
+	我们接收不同的数据，例如您所上传截图的平均大小和数量、您的 Firefox 浏览器版本、设备操作系统及错误。访问 Firefox 截图网站的 IP 地址会暂时收集为标准服务器日志的一部分。 
+
+	阅读完整文档，点击[此处](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) 或删除您的所有截图，点击[此处](https://screenshots.firefox.com/leave-screenshots)。
 	
 ##
 

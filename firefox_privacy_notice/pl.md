@@ -1,7 +1,7 @@
 # Zasady prywatności przeglądarki Firefox
 
-5 czerwca 2017 r.
-{: datetime="2017-06-05" }
+20 lipca 2017 r\.
+{: datetime="2017-07-20" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Gdy przeglądarka Firefox przesyła informacje do firmy Mozilla (to my), sposób ich wykorzystania przez nas reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -47,7 +47,7 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 
 	Statystyki użytkowania (czy też „Telemetria”) to funkcja przeglądarki Firefox, która wysyła do firmy Mozilla statystyki użytkowania, wydajności i reaktywności dotyczące funkcji interfejsu, pamięci i konfiguracji sprzętowej. W ramach standardowego dziennika internetowego pobierany jest także adres IP użytkownika. Statystyki użytkowania są transmitowane przy użyciu protokołu SSL i pomagają nam udoskonalać przyszłe wersje przeglądarki Firefox. Po wysłaniu statystyk użytkowania do firmy Mozilla są one agregowane i udostępnianie szerokiemu gronu programistów, wśród których są zarówno pracownicy firmy Mozilla, jak i zewnętrzni twórcy. Gdy Telemetria jest włączona, niektóre krótkoterminowe eksperymenty mogą zbierać informacje na temat odwiedzanych witryn.
 
-	Funkcja ta jest włączona domyślnie w wersjach Nightly, Aurora i Beta przeglądarki Firefox, by ułatwić ich użytkownikom przesyłanie informacji do firmy Mozilla. W ogólnodostępnej finalnej wersji przeglądarki Firefox ta funkcja jest domyślnie wyłączona.
+	Funkcja ta jest włączona domyślnie w wersjach Nightly i Beta/Developer przeglądarki Firefox, by ułatwić ich użytkownikom przesyłanie informacji do firmy Mozilla. W ogólnodostępnej finalnej wersji przeglądarki Firefox ta funkcja jest domyślnie wyłączona.
 
 	[Tutaj można dowiedzieć się więcej o Telemetrii](https://support.mozilla.org/kb/send-performance-data-improve-firefox) oraz sposobach jej włączania i wyłączania.
 
@@ -58,11 +58,15 @@ Firefox automatycznie nawiązuje połączenia z nami i naszymi dostawcami usł
 
 * **Polecenia i śledzenie kampanii**{: #thirdparty } ** **{: #referraltracking }
 
-	Aby pomóc nam lepiej rozumieć i udoskonalać kampanie marketingowe, Firefox może wysyłać „dane poleceń”, takie jak informacje o domenie witryny lub kampanii reklamowej, która poleciła pobranie i zainstalowanie przeglądarki Firefox.
- 
-	W systemach Android i iOS przeglądarka Firefox wysyła dane poleceń do naszego dostawcy analityki mobilnej i obejmują one także identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, ustawienia lokalne oraz wersję systemu operacyjnego i aplikacji. Więcej informacji znajdziesz[tutaj](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), w tym sposób wyłączania tych raportów.
+	Aby pomóc nam zrozumieć i ulepszyć kampanie marketingowe, Firefox domyślnie wysyła pewne informacje. Obejmuje to „dane poleceń”, takie jak informacje o domenie witryny lub kampanii reklamowej, która poleciła pobranie i zainstalowanie przeglądarki Firefox, a także „dane interakcji” dotyczące wykorzystywanych funkcji przeglądarki.
 
-	Na komputerach przeglądarka Firefox rejestruje i wysyła dane poleceń do firmy Mozilla w ramach raportu o kondycji przeglądarki.  Więcej informacji znajdziesz[tutaj](https://support.mozilla.org/kb/desktop-attribution-privacy), w tym sposób rezygnacji z tych raportów lub ich wyłączenia.
+	__Dane poleceń__
+	W systemach Android i iOS przeglądarka Firefox wysyła dane poleceń do naszego dostawcy analityki mobilnej i obejmują one także identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, ustawienia lokalne oraz wersję systemu operacyjnego i aplikacji. Więcej informacji, w tym sposób wyłączania tych raportów, znajdziesz[tutaj](https://support.mozilla.org/kb/desktop-attribution-privacy).
+
+	Na komputerach przeglądarka Firefox rejestruje i wysyła dane poleceń do firmy Mozilla w ramach raportu o kondycji przeglądarki. Więcej informacji, w tym sposób rezygnacji z tych raportów lub ich wyłączenia, znajdziesz[tutaj](https://support.mozilla.org/kb/desktop-attribution-privacy).
+
+	__Dane interakcji__
+	W systemie iOS przeglądarka Firefox wysyła dane interakcji do naszego dostawcy usług marketingu mobilnego, firmy Leanplum, która ma własną [politykę prywatności](https://www.leanplum.com/privacy/). Dane te pozwalają nam testować różne funkcje i interfejsy, a także dostarczać personalizowane wiadomości i rekomendacje pozwalające użytkownikom lepiej korzystać z przeglądarki Firefox. Więcej informacji na temat zbierania tych danych znajdziesz [tutaj](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), możesz też [wyłączyć tę funkcję](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---------------------------------------
 
@@ -98,6 +102,21 @@ Jeśli użytkownik o to poprosi, Firefox łączy się także z firmą Mozilla,
 {: #push-notifications }
 
 	Powiadomienia wypychane umożliwiają witrynom wysyłanie powiadomień i aktualizacji, jeśli użytkownik wyrazi na to zgodę. Aby otrzymywać powiadomienia, Firefox wysyła do firmy Mozilla informacje o witrynach, z których użytkownik zgodził się je otrzymywać. Informacje te przechowujemy w formie zanonimizowanej wraz z liczbą powiadomień, które wysyła użytkownikowi każda z witryn. Aby pomóc programistom lepiej wykorzystywać powiadomienia wypychane, Mozilla może udostępniać niektórym programistom zagregowane dane, w tym liczbę użytkowników odwiedzających witrynę, którzy zasubskrybowali jej powiadomienia wypychane lub anulowali ich subskrypcję. Powiadomieniami wypychanymi w Firefoksie można zarządzać, wykonując [te instrukcje](https://support.mozilla.org/kb/push-notifications-firefox).
+
+* **Firefox Screenshots**
+{: #screenshots }
+
+	__Przesłane zrzuty ekranu__
+	Przesłane zrzuty ekranu są wysyłane do firmy Mozilla i przechowywane przez wskazany ograniczony czas, który można zmienić.  Przesłane zrzuty ekranu możemy wykorzystać, gdy będzie to niezbędne do świadczenia usługi. Przesłane zrzuty ekranu można w każdej chwili usunąć.  
+
+	__Dane interakcji__
+	Otrzymujemy dane, takie jak informacje o odwiedzeniu witryny Firefox Screenshots, jak często przesłane zrzuty ekranu są otwierane i udostępniane (przez użytkownika i inne osoby) oraz informacje o interakcji z przyciskami, kafelkami i ruchach myszy powiązanych z wykonywaniem zrzutów ekranu. 
+Dane zbierane podczas odwiedzin witryny Firefox Screenshots opisują nasze [zasady prywatności dotyczące witryn](https://www.mozilla.org/privacy/websites/). 
+
+	__Dane techniczne__
+	Otrzymujemy dane dotyczące przeciętnego rozmiaru i liczby przesłanych zrzutów ekranu, wersji przeglądarki Firefox, systemu operacyjnego urządzenia oraz błędów. Adres IP, z którego otwierana jest witryna Firefox Screenshots, jest przechowywany chwilowo jako element standardowego dziennika serwera. 
+
+	Pełną dokumentację znajdziesz [tutaj](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md), możesz też usunąć swoje zrzuty ekranu [tutaj](https://screenshots.firefox.com/leave-screenshots).
 
 Z wyjątkiem przypadków, w których stwierdzono inaczej, niniejsze zasady prywatności dotyczą najnowszych wersji publicznie dostępnego wydania przeglądarki Firefox. Wersje rozwojowe (Beta/Developer Edition, Nightly i TestFlight) są nadal aktywnie rozwijane i mogą zawierać nowe funkcje, a na prywatność związaną z ich używaniem wpływają inne kwestie. Wersje rozwojowe automatycznie wysyłają [dane telemetrii](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) do firmy Mozilla. Dane te pomagają nam w usprawnianiu przeglądarki Firefox.
 {: #pre-release }
