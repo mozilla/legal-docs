@@ -22,14 +22,14 @@ Mozilla Firefox maakt gebruik van webgebaseerde informatiediensten (‘Diensten�
 
 Als u een of meer van de diensten niet wilt gebruiken of de bovenstaande voorwaarden niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u hieronder vinden. Andere onderdelen en diensten kunnen worden uitgeschakeld in de voorkeuren van de toepassing.
 
-> **Veilig surfen:** uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
+> **Veilig surfen:** uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:
 >
 >* Open de voorkeuren van Firefox
 >* Selecteer het paneel Beveiliging
->* Schakel de optie Gevaarlijke en misleidende inhoud blokkeren in
+>* Vink de optie ‘Gevaarlijke en misleidende inhoud blokkeren’ uit
 >* Veilig surfen is nu uitgeschakeld
 >
-> **Locatiebewust navigeren:** vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:
+> **Locatiebewust navigeren:** vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:
 >
 >* Typ about:config in de URL-balk en druk op Enter
 >* Typ geo.enabled
