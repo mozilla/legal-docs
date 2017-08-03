@@ -29,7 +29,7 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 * **Hlášení o stavu Firefoxu**
 {: #health-report .inproduct-link }
 
-	Zpráva Firefox Health Report (FHR) je určena k tomu, aby vám nabídla přehled o stabilitě a výkonu vašeho prohlížeče a tipy podpory v případě, že narazíte na problémy, jako jsou opakované padání nebo pomalé spouštění. Mozilla shromažďuje a shrnuje vaše data s daty od ostatních uživatelů Firefox a zasílá je zpět do vašeho prohlížeče, takže můžete sledovat, jak se výkon Firefox v čase mění. Tato data zahrnují například: hardwarové zařízení, operační systém, verze Firefoxu, přídavné moduly (počet a typ), načasování událostí prohlížeče, renderování, obnovení relace, délka relace, interakce s vyhledáváním přístupových bodů a používání kódů vyhledávání partnerů Firefox, stáří profilu, počet pádů a počet stránek. FHR nezasílá Mozilla adresy URL, které navštívíte.
+	Zpráva Firefox Health Report (FHR) je určena k tomu, aby vám nabídla přehled o stabilitě a výkonu vašeho prohlížeče a tipy podpory v případě, že narazíte na problémy, jako jsou opakované padání nebo pomalé spouštění. Mozilla shromažďuje a shrnuje vaše data s daty od ostatních uživatelů Firefox a zasílá je zpět do vašeho prohlížeče, takže můžete sledovat, jak se výkon Firefox v čase mění. Tato data zahrnují například: hardwarové zařízení, operační systém, verze Firefoxu, doplňky (počet a typ), načasování událostí prohlížeče, renderování, obnovení relace, délka relace, interakce s přístupovými body k vyhledávání a používání kódů vyhledávání partnerů Firefox, stáří profilu, počet pádů a počet stránek. FHR nezasílá Mozille URL adresy, které navštívíte.
 
 	Údaje zaslané prostřednictvím HSF používáme k poskytování funkce HSF uživatelům. Tato funkce zahrnuje pomoc při analýze a řešení problémů s výkonem vašeho prohlížeče. Souhrnná zjištění na základě údajů z HSF rovněž využíváme k vylepšení Firefoxu. [Sdílení údajů můžete vypnout](https://support.mozilla.org/cs/kb/hlaseni-o-zdravi-firefoxu-poznavame-vykon-sveho-pr#w_jak-zapnout-nebo-vypnout-sdaglenag-dat).
 
@@ -56,14 +56,14 @@ Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za úč
 
 	Návrhy vyhledávání je funkce, která vám pomůže vyhledávat nejběžnější fráze, které hledali jiní lidé. Tyto návrhy vyhledávání jsou nabízeny našimi Výchozími vyhledávači (jako jsou Google, Yahoo atd.) a nikoliv Firefoxem. Pokud tuto funkci aktivujete a váš Výchozí vyhledávač návrhy podporuje, Firefox může odeslat pojmy, které napíšete do Řádku Awesome nebo Vyhledávacího řádku do vašeho výchozího vyhledávače, aby získal návrhy. V tomto ohledu se uplatní platné Zásahy ochrany osobních údajů vašeho výchozího vyhledávače. [Podrobnější informace o Návrzích vyhledávání najdete zde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) stejně jako informace o tom, jak je aktivovat nebo deaktivovat.
 
-* Doporučení a sledování kampaně{: #thirdparty } ** **{: #referraltracking }
+* Sledování odkazů a kampaní{: #thirdparty } ** **{: #referraltracking }
 
-	Abyste nám pomohli pochopit a zlepšit naše marketingové kampaně, aplikace Firefox zasílá dle výchozího nastavení některé informace. Patří k nim „Odkazová data” jako je webová stránka nebo reklamní kampaň, která vás odkázala na stažení a instalaci aplikace Firefox, stejně jako „Údaje o interakci” o tom, které funkce aplikace Firefox používáte.
+	Abyste nám pomohli pochopit a zlepšit naše marketingové kampaně, aplikace Firefox zasílá dle výchozího nastavení některé informace. Patří k nim „Data o odkazech” jako je webová stránka nebo reklamní kampaň, která vás odkázala na stažení a instalaci aplikace Firefox, stejně jako „Údaje o interakci” o tom, které funkce aplikace Firefox používáte.
 
-	__Odkazová data__
-	U systémů Android a iOS Firefox odesílá Data doporučení našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, adresu IP, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zasílání této zprávy deaktivovat.
+	__Data o odkazech__
+	U systémů Android a iOS Firefox odesílá Data o odkazech našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, IP adresu, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zasílání této zprávy deaktivovat.
 
-	U stolních počítačů Firefox zaznamenává a zasílá Data doporučení Mozilla v rámci zprávy Firefox Health Report. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo deaktivovat zasílání této zprávy deaktivovat.
+	U stolních počítačů Firefox zaznamenává a zasílá Data o odkazech Mozille v rámci zprávy Firefox Health Report. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo zasílání této zprávy deaktivovat.
 
 	__Údaje o interakci__
 	V systému iOS aplikace Firefox odesílá Údaje o interakci společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/).  Tyto údaje nám pomáhají testovat různé funkce a zkušenosti, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašich zkušeností s aplikací Firefox. Podrobnější informace o shromažďování těchto dat najdete [zde](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), stejně jako pokyny, jak lze [tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
@@ -118,5 +118,5 @@ Pro návštěvy webových stránek Firefox Screenshots naše [zásady ochrany os
 
 	Přečtěte si úplné znění dokumentace [zde](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) nebo odstraňte své snímky obrazovky [zde](https://screenshots.firefox.com/leave-screenshots).
 
-Pokud není uvedeno jinak, toto oznámení o ochraně osobních údajů se vztahuje k poslední obecné verzi vydání Firefox. Naše předběžné verze vydání (vydání Beta/Developer, Nightly a TestFlight) jsou dosud součástí aktivního vývoje a mohou obsahovat nové funkce nebo mít odlišné charakteristiky ochrany osobních údajů. Verze předběžných vydání automaticky zasílají společnosti Mozilla [Telemetrická data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html), která nám pomáhají Firefox vylepšovat.
+Pokud není uvedeno jinak, toto oznámení o ochraně osobních údajů se vztahuje k poslední obecné verzi vydání Firefoxu. Naše předběžné verze vydání (vydání Beta/Developer, Nightly a TestFlight) jsou dosud součástí aktivního vývoje a mohou obsahovat nové funkce nebo mít odlišné charakteristiky ochrany osobních údajů. Verze předběžných vydání automaticky zasílají společnosti Mozilla [Telemetrická data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html), která nám pomáhají Firefox vylepšovat.
 {: #pre-release }
