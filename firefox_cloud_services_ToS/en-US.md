@@ -1,4 +1,4 @@
-Last Updated August 29, 2014
+Last Updated August 8, 2017
 
 #### Summary
 
@@ -15,7 +15,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 2. #### Firefox Accounts
 
-    In order to use the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    In order to use some of the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
 
 3. #### Features
 
@@ -24,10 +24,12 @@ This top section summarizes the terms below. This summary is provided to help yo
     Find My Device allows you to remotely locate and control certain features of a Firefox OS device, such as viewing recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message. To use these functions, you must enable Find My Device in the settings of your device.  Find My Device will work even if the sound and location settings on your device are silent or turned off. You can disable this feature in the settings of your device.
     
     If your device is misplaced, you can log into https://find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal. If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information because messages displayed on your device are publicly available.
+    
+    Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. See [here](https://www.mozilla.org/en-US/about/legal/report-infringement/) to report claims of copyright or trademark infringement on Screenshots. To report abuse, email us a link to the shot at screenshots-report@mozilla.com.
 
 4. #### Privacy Policy
 
-    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) and, for Screenshots, the [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) describe details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
