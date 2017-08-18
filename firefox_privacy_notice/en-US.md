@@ -131,5 +131,5 @@ For visits to the Firefox Screenshots website, our [websites privacy notice](htt
 	
 ##
 
-Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
+Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
 {: #pre-release }
