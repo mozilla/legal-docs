@@ -1,4 +1,4 @@
-Last Updated August 8, 2017
+Last Updated September 26, 2017
 
 #### Summary
 
@@ -29,7 +29,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    The [Firefox Cloud Services Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud/) and, for Screenshots, the [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) describe details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+    The [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
