@@ -1,6 +1,6 @@
 # Websites, Communications & Cookies Privacy Notice
 
-April 11, 2017
+September 6, 2017
 {: datetime="2017-04-11" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
@@ -35,7 +35,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * IP addresses are used to customize communications by language and country.  
     * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
 
-* **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+* **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
     * Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
     * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
@@ -45,7 +45,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 
 ---------------------------------------
 
-You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools. 
+You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools. 
 {: #user-choices }
 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
@@ -53,7 +53,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 * **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](#data-tools) section.
 
-* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
+* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). 
 
 * **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     *  Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which keeps your visits anonymous and prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).
