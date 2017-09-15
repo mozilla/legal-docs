@@ -17,7 +17,8 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
 
-Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection. {: #telemetry }
+Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+{: #telemetry }
 
 ### Set a default search provider {: #defaultsearch }
 
@@ -35,7 +36,8 @@ Firefox displays content, such as “Snippets” (messages from Mozilla) and Top
 
 ### Improve security for users everywhere {: #security }
 
-* __Technical data for updates__: {: #auto-updates } Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+* __Technical data for updates__: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+{: #auto-updates }
 
 * __Technical data for add-ons blocklist__: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). 
 
@@ -60,7 +62,8 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ### Measure and support our marketing
 
-* __Campaign and Referral Data__: {: #referraltracking } This helps Mozilla understand the effectiveness of our marketing campaigns.   
+* __Campaign and Referral Data__: This helps Mozilla understand the effectiveness of our marketing campaigns.
+{: #referraltracking }
 
     _On Desktop_: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
@@ -141,10 +144,11 @@ You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox 
 * __Technical data for updates__: Firefox periodically connects with Mozilla to install updates to Add-ons.  Your installed Add-ons, Firefox version, language, and device operating system are used to apply the correct updates.  
 
 ---
+
 ### Footnote
 
-{: #pre-release }
 This privacy notice is for the most recent general release version of Firefox distributed by Mozilla.  If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.  
+{: #pre-release }
 
 Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, TestFlight and BuddyBuild) are under active development and may contain different privacy characteristics. 
 
