@@ -11,19 +11,19 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 ## Firefox by default shares data to:
 
-### Improve performance and stability for users everywhere {: #health-report } ** **{: #telemetry }
+### Improve performance and stability for users everywhere {: #health-report }
 
 * __Interaction data__: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).  
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
 
-Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection. {: #telemetry }
 
 ### Set a default search provider {: #defaultsearch }
 
 * __Location data__:  When you first use Firefox, it uses your IP address to set your default search provider based on your country.  [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Suggest relevant content {: #snippets } ** **{: #tiles }
+### Suggest relevant content 
 
 Firefox displays content, such as “Snippets” (messages from Mozilla) and Top Sites (websites suggested by Mozilla for first-time Firefox users).
 
@@ -31,7 +31,7 @@ Firefox displays content, such as “Snippets” (messages from Mozilla) and Top
 
 * __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content. This includes the number of times suggested content is displayed or clicked.
 
-* __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
+* __Webpage data for Snippets__: {: #snippets } When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 
 ### Improve security for users everywhere {: #security }
 
@@ -58,13 +58,13 @@ By default on desktop versions of Firefox, we will ask you to share a report wit
 
 Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-### Measure and support our marketing {: #thirdparty } ** **{: #referraltracking }
+### Measure and support our marketing
 
-* __Campaign and Referral Data__: This helps Mozilla understand the effectiveness of our marketing campaigns.   
+* __Campaign and Referral Data__: {: #referraltracking } This helps Mozilla understand the effectiveness of our marketing campaigns.   
 
     _On Desktop_: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _On iOS and Android_: Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/privacy_policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _On iOS and Android_:  {: #thirdparty } Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/privacy_policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
 
 * __Technical & Interaction Data__: 
 
