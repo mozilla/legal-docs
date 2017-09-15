@@ -1,4 +1,5 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
+
 *Effective September 26, 2017*
 {: datetime="2017-09-26" }
 
@@ -140,6 +141,7 @@ You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox 
 * __Technical data for updates__: Firefox periodically connects with Mozilla to install updates to Add-ons.  Your installed Add-ons, Firefox version, language, and device operating system are used to apply the correct updates.  
 
 ---
+### Footnote
 
 {: #pre-release }
 This privacy notice is for the most recent general release version of Firefox distributed by Mozilla.  If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.  
