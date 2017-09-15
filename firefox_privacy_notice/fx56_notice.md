@@ -92,7 +92,7 @@ You can perform searches directly from several places in Firefox, including the 
 
 ### Firefox Accounts
 
-* __Firefox Account data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). If you use your Firefox Account to log-into other websites or services (such as AMO or Pocket), we receive the timestamp of your log-in from those services. 
+* __Firefox Account data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of your log-in from those services. 
 
 * __Location data__: For security purposes, we store the IP addresses you use to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
 
@@ -108,7 +108,7 @@ Read the [full documentation](https://github.com/mozilla/fxa-auth-server/blob/ma
   
 * __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
-[Learn more](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) including how to enable or disable sync.
+[Learn more](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), including how to enable or disable sync.
 
 ### Location {: #location-services }
 
