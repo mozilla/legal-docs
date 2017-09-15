@@ -32,7 +32,8 @@ Firefox displays content, such as “Snippets” (messages from Mozilla) and Top
 
 * __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content. This includes the number of times suggested content is displayed or clicked.
 
-* __Webpage data for Snippets__: {: #snippets } When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
+* __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
+{: #snippets }
 
 ### Improve security for users everywhere {: #security }
 
@@ -83,7 +84,8 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab.  _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  
 
-* __Search Suggestions__: {: #searchsuggestions } Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+* __Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+{: #searchsuggestions } 
 
     [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
 
