@@ -1,122 +1,157 @@
-# Oznámení o zásadách ochrany osobních údajů prohlížeče Firefox
+﻿## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-20\. července 2017
-{: datetime="2017-07-20" }
+*Účinné od 28. září 2017*
+{: datetime="2017-09-28" }
 
-Na ochraně vašich osobních údajů nám záleží. V případech, kdy Firefox zasílá informace společnosti Mozilla (tedy nám), naše [zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak budeme s takovými informacemi nakládat.
+## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
-## Záležitosti, kterých byste si měli být vědomi
+Proto vytváříme Firefox a veškeré naše produkty tak, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. Snažíme se shromažďovat pouze to, co potřebujeme ke zlepšení Firefoxu pro každého.
 
-Firefox se s námi a našimi poskytovateli služeb automaticky propojuje za účelem poskytování aktualizací, bezpečnosti, snippets, hlášení o stavu Firefoxu a ostatních funkcí.
-{: #essential-features }
+V tomto Oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje Firefox sdílí, a představíme vám nastavení, které jich umožní sdílet ještě méně. Rovněž dodržujeme postupy stanovené v [zásadách ochrany osobních údajů](https://www.mozilla.org/privacy/) společnosti Mozilla pro to, jak získáváme vaše informace shromážděné z Firefoxu, jak s nimi zacházíme a jak je sdílíme.
 
-* **Aktualizace prohlížeče a doplňků**
-{: #auto-updates }
+## Dle výchozího nastavení Firefox sdílí údaje pro:
 
-	Aktualizace prohlížeče: Jednou denně Firefox při kontrole aktualizací prohlížeče zasílá Mozille následující informace: informace o verzi vašeho Firefoxu, jazykovém nastavení, operačním systému a verzi. [Aktualizace můžete vypnout dle tohoto návodu](https://support.mozilla.org/cs/kb/jak-firefoxu-zabranit-v-automatickem-navazovani-sp#w_automatickaa-kontrola-aktualizacag). V takovém případě však můžete být vystaveni bezpečnostním rizikům.
+### zvýšení výkonu a stability pro uživatele všude po světě,{: #health-report }
 
-	Seznam blokování doplňků: Firefox kontaktuje Mozillu jednou za den, aby zkontroloval informace o doplňcích za účelem kontroly škodlivých doplňků. To zahrnuje například verzi prohlížeče, OS a jeho verzi, místo, celkový počet požadavků, doba od posledního požadavku, denní dobu, IP adresu a seznam doplňků, které jste nainstalovali. [Aktualizace metadat můžete kdykoliv vypnout](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/), nicméně v takovém případě můžete být vystaveni bezpečnostním rizikům.
+* __Údaje o interakci__: Firefox zasílá data o vaší interakci s Firefoxem nám (jako je počet otevřených karet, počet navštívených webových stránek, počet a typ nainstalovaných Doplňků Firefox a délka relace) a s funkcemi Firefox nabízené společností Mozilla nebo našimi partnery (jako je interakce s funkcemi vyhledávání Firefoxu a odkazy na vyhledávané partnery).  
 
-* **Snippets**
+* __Technické údaje__: Firefox nám zasílá údaje o vaší verzi a jazyce Firefoxu; operačním systému zařízení a konfiguraci hardwaru; paměti, základních informací o pádech a chybách; výsledku automatizovaných procesů, jako jsou aktualizace, bezpečné procházení a aktivace.  Když nám Firefox zasílá údaje, dočasně se v protokolu našeho serveru shromažďuje vaše adresa IP.  
+
+Přečtěte si dokumentaci o telemetrii pro [stolní počítače](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
+{: #telemetry }
+
+### Nastavení výchozího poskytovatele vyhledávání {: #defaultsearch }
+
+* __Údaje o místě__:  Při prvním použití Firefoxu využívá vaši adresu IP pro nastavení vašeho výchozího poskytovatele vyhledávání podle vaší země.  [Podrobnější informace](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+
+### Návrh relevantního obsahu 
+
+Firefox zobrazuje obsah, jako jsou například „snippety“ (zprávy od společnosti Mozilla) a Nejlepší stránky (webové stránky navržené společností Mozilla pro první použití Firefoxu uživateli).
+
+* __Údaje o místě__: Firefox využívá vaší adresu IP pro návrh relevantního obsahu podle vaší země.
+
+* __Technické údaje a údaje o interakci__: Firefox nám zasílá údaje jako například o poloze, velikosti a umístění námi navrhovaného obsahu, jakož i základní údaje o vaší interakci s navrhovaným obsahem Firefoxu. To zahrnuje počet zobrazení navrhovaného obsahu nebo kliknutí na něj.
+
+* __Údaje o webové stránce pro snippety__: Pokud se rozhodnete kliknout na odkaz snippetu, mžeme získat údaje o odkazu, který jste použili. Tyto informace nesouvisí s žádnými jinými informacemi o vás. [Podrobnější informace](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-	Výchozí domovská stránka Firefox (&lt;about:home&gt;) načítá krátké informace přímo pod vyhledávací lištou, o nichž se domníváme, že pro vás mohou být užitečné. Říkáme jim „snippety”. přibližně jednou denně se Firefox spojí s Mozillou a nabídne vám případné nové snippety. Mozilla může shromažďovat informace o počtu kliknutí na snippety, místě prohlížeče a používané verzi Firefox. Tyto informace uchováváme pouze po dobu 60 dní v souhrnné formě.
+### Zlepšení bezpečnosti pro všechny uživatele na celém světě {: #security }
 
-	Za účelem pomoci zobrazení relevantních snippets Firefox zasílá Mozille měsíčně požadavek, aby zjistila, v které zemi se nacházíte, a to za pomoci vaší IP adresy. Tuto informaci o státě místa pohybu zasíláme zpět Firefoxu, který je uchovává lokálně. Firefox poté na základě lokálně uchovávané informace o státě zvolí snippets, které se vám mají zobrazit.
+* __Technické údaje pro aktualizace__: Verze Firefoxu pro stolní počítače pravidelně kontrolují aktualizace prohlížeče připojením se k serverům společnosti Mozilla. Informace o vaší verzi Firefoxu, jazyce a operačním systému zařízení se použijí pro aplikaci správné aktualizace. Mobilní verze Firefoxu se mohou připojovat k jiné službě, pokud jste ji použili ke stažení a instalaci Firefoxu. [Podrobnější informace](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+{: #auto-updates }
 
-	Některé snippety sponzorované společností Mozilla jsou interaktivní a umožňují vám možnost sdílení vašeho telefonního čísla nebo e-mailové adresy. Například při instalaci Firwfoxu na zařízení Android můžete zadat vaše telefonní číslo pro doručení SMS. Vaše informace obdrží a zpracuje váš prodejce e-mailového a mobilního marketingu.
+* __Technické údaje pro seznam blokování doplňků__: Firefox pro stolní počítače a systém Android se pravidelně připojuje ke společnosti Mozilla, aby vás i ostatní chránil před škodlivými doplňky.  Informace o vaší verzi a jazyce Firefoxu, o operačním systému zařízení, stejně jako seznam nainstalovaných doplňků jsou nezbytné pro aplikaci a aktualizaci seznamu blokovaných doplňků. [Podrobnější informace](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). 
 
-* **Hlášení o stavu Firefoxu**
-{: #health-report .inproduct-link }
+* __Údaje o webové stránce a technické údaje pro službu SafeBrowsing společnosti Google__: Jako pomůcku pro ochranu před škodlivými stahovanými soubory Firefox zasílá základní informace o nerozpoznaných stahovaných souborech do služby SafeBrowsing společnosti Google, a to včetně názvu souboru a adresy URL, z níž byl stažen.  
 
-	Zpráva Firefox Health Report (FHR) je určena k tomu, aby vám nabídla přehled o stabilitě a výkonu vašeho prohlížeče a tipy podpory v případě, že narazíte na problémy, jako jsou opakované padání nebo pomalé spouštění. Mozilla shromažďuje a shrnuje vaše data s daty od ostatních uživatelů Firefox a zasílá je zpět do vašeho prohlížeče, takže můžete sledovat, jak se výkon Firefox v čase mění. Tato data zahrnují například: hardwarové zařízení, operační systém, verze Firefoxu, doplňky (počet a typ), načasování událostí prohlížeče, renderování, obnovení relace, délka relace, interakce s přístupovými body k vyhledávání a používání kódů vyhledávání partnerů Firefox, stáří profilu, počet pádů a počet stránek. FHR nezasílá Mozille URL adresy, které navštívíte.
+    [Získejte podrobnější informace](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) nebo si přečtěte [Zásady ochrany osobních údajů společnosti Google](https://www.google.com/policies/privacy/). Zrušení této volby zabrání Firefoxu v tom, aby vás varoval před potenciálně nelegálními či škodlivými webovými stránkami či stahovanými soubory.
 
-	Údaje zaslané prostřednictvím HSF používáme k poskytování funkce HSF uživatelům. Tato funkce zahrnuje pomoc při analýze a řešení problémů s výkonem vašeho prohlížeče. Souhrnná zjištění na základě údajů z HSF rovněž využíváme k vylepšení Firefoxu. [Sdílení údajů můžete vypnout](https://support.mozilla.org/cs/kb/hlaseni-o-zdravi-firefoxu-poznavame-vykon-sveho-pr#w_jak-zapnout-nebo-vypnout-sdaglenag-dat).
+* __Údaje o webové stránce a technické údaje pro certifikační autority__: Pokud navštívíte zabezpečenou webovou stránku (obvykle označenou adresu URL začínající na „HTTPS“), Firefox ověří [certifikát](https://support.mozilla.org/kb/secure-website-certificate)webové stránky. To může být spojeno s tím, že Firefox zašle určité informace o webové stránce Certifikační autoritě uvedené na příslušné webové stránce.  
 
-* **Bezpečnost**
-{: #security }
+    Zrušením této volby riskujete zachycení vašich osobních informací. [Podrobnější informace](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-	Firefox automaticky kontroluje škodlivé nebo podvodné webové stránky, poškozené doplňky a certifikáty SSL vydané třetími osobami.
+### Zprávy o pádech {: #crash-reporter }
+Dle výchozího nastavení u verzí Firefoxu pro stolní počítače vás požádáme o sdílení podrobnějších informací o pádech společnosti Mozilla, nicméně vždy máte možnost to odmítnout.
 
-	Zabezpečené webové certifikáty: Když navštívíte zabezpečenou webovou stránku (tj. „https“), Firefox prověří webový certifikát. To může zahrnovat komunikaci s nezávislými stavovými operátory uvedenými v certifikátu. Firefox zasílá této třetí osobě informace o identifikaci [certifikátu](https://support.mozilla.org/kb/secure-website-certificate) stránky. [Vaše nastavení můžete změnit](https://support.mozilla.org/cs/kb/nastaveni-firefoxu-sekce-rozsirene#w_karta-certifikaaty), nicméně pokud funkci on-line ověřování vypnete, Firefox nebude moci ověřit identitu navštívené webové stránky. Vypnutí této funkce může zvýšit riziko, že vaše soukromé informace budou zobrazeny třetími osobami. Pokud se setkáte s [nedůvěryhodným spojením](https://support.mozilla.org/kb/connection-untrusted-error-message), můžete se rovněž rozhodnout zaslat Mozille související certifikáty.
+* __Citlivé údaje__:  Zprávy o pádech zahrnují „vyhozený soubor“ s obsahem pamětí Firefoxu v okamžiku pádu, který může obsahovat data, které vás identifikují nebo jsou pro vás jinak citlivé.
 
-	Ochrana proti podvodům a útokům: Přibližně dvakrát za hodinu Firefox stahuje seznamy SafeBrowsing od Googlu, aby mohl blokovat přístup ke stránkám a stahování, které jsou škodlivé nebo podvodné (Zásady ochrany osobních údajů Google jsou k dispozici na stránkách <https://www.google.com/policies/privacy/>). U stažených spustitelných souborů, které se neobjevují na těchto seznamech, Firefox zasílá metadata včetně URL týkající se staženého souboru službě SafeBrowsing. Prohlédněte si stránky [Jak funguje zabudovaná ochrana proti podvodným a útočným stránkám](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), kde se dozvíte více nebo službu Safe Browsing vypněte. Pokud tyto funkce vypnete, Firefox vás nemůže varovat před potenciálně nelegálními nebo škodlivými webovými stránkami nebo stahovanými soubory.
+* __Údaje o webové stránce__:  Zprávy o pádech zahrnují aktivní adresu URL v okamžiku pádu.
 
-* **Statistika používání** (u nevydaných verzí rovněž označovaná jako "Telemetrie")
-{: #telemetry .inproduct-link}
+* __Technické údaje__:  Zpráva o pádu zahrnuje data o tom, proč Firefox spadl, jakož i stav paměti zařízení a provádění během pádu.
 
-	Statistika používání neboli „Telemetrie” je funkce ve Firefoxu, která zasílá Mozille statistiky o používání, výkonu a odpovědích ohledně funkcí rozhraní uživatele, paměti a hardwarové konfiguraci. Součástí standardního protokolu z webu bude i informace o vaší IP adrese. Statistiky používání jsou přenášeny za použití SSL a pomáhají nám zlepšovat budoucí verze Firefoxu. Po zaslání statistik používání Mozille jsou tyto informace shromažďovány a k dispozici širokému okruhu vývojářů, včetně zaměstnanců Mozilly i přispěvatelů z řad veřejnosti. Pokud je aktivována volba Telemetrie, některé krátkodobé experimenty mohou shromažďovat informace o navštívených stránkách.
+Úplnou dokumentaci si přečtěte [zde](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-	Tato funkce je dle výchozího nastaven zapnutá ve verzích Nightly a Beta/Developer Edition aplikace Firefox, aby uživatelům pomohla poskytovat zpětnou vazbu společnosti Mozilla. V obecné verzi vydání aplikace Firefox je tato funkce dle výchozího nastavení vypnutá.
+### Měření a podporu našeho marketingu
 
-	[O Telemetrii se můžete více dozvědět zde](https://support.mozilla.org/kb/send-performance-data-improve-firefox), včetně informace jak ji zapnout či vypnout.
+* __Údaje o kampaních a doporučeních__: To společnosti Mozilla pomáhá pochopit efektivitu našich marketingových kampaní.
+{: #referraltracking }
 
-* Dlaždice
-{: #searchsuggestions }
+    _U stolních počítačů_: Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu.  To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si[dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo [zrušte volbu](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-	Návrhy vyhledávání je funkce, která vám pomůže vyhledávat nejběžnější fráze, které hledali jiní lidé. Tyto návrhy vyhledávání jsou nabízeny našimi Výchozími vyhledávači (jako jsou Google, Yahoo atd.) a nikoliv Firefoxem. Pokud tuto funkci aktivujete a váš Výchozí vyhledávač návrhy podporuje, Firefox může odeslat pojmy, které napíšete do Řádku Awesome nebo Vyhledávacího řádku do vašeho výchozího vyhledávače, aby získal návrhy. V tomto ohledu se uplatní platné Zásahy ochrany osobních údajů vašeho výchozího vyhledávače. [Podrobnější informace o Návrzích vyhledávání najdete zde](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) stejně jako informace o tom, jak je aktivovat nebo deaktivovat.
+    _Na iOS a Android_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/privacy_policy/).  Údaje o mobilních kampaních zahrnují ID reklamy Google, adresu IP, časovou značku, zemi, jazyk/místní variantu, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+{: #thirdparty }
 
-* Sledování odkazů a kampaní{: #thirdparty } ** **{: #referraltracking }
+* __Technické údaje a údaje o interakci__: 
 
-	Abyste nám pomohli pochopit a zlepšit naše marketingové kampaně, aplikace Firefox zasílá dle výchozího nastavení některé informace. Patří k nim „Data o odkazech” jako je webová stránka nebo reklamní kampaň, která vás odkázala na stažení a instalaci aplikace Firefox, stejně jako „Údaje o interakci” o tom, které funkce aplikace Firefox používáte.
+    _Na iOS a Android_: Firefox dle výchozího nastavení zasílá údaje o tom, jaké funkce ve Firefoxu využíváte, společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/).  Tyto údaje nám pomáhají testovat různé funkce a zkušenosti, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašich zkušeností s aplikací Firefox.
 
-	__Data o odkazech__
-	U systémů Android a iOS Firefox odesílá Data o odkazech našemu poskytovateli mobilní analytiky a zahrnuje i ID reklamy Google, IP adresu, časovou značku, zemi, místo, operační systém a verzi aplikace. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zasílání této zprávy deaktivovat.
+    Přečtěte si dokumentaci pro [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) nebo [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), či získejte podrobnější informace o tom, [jak tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
-	U stolních počítačů Firefox zaznamenává a zasílá Data o odkazech Mozille v rámci zprávy Firefox Health Report. Podrobnější informace najdete [zde](https://support.mozilla.org/kb/desktop-attribution-privacy), včetně toho, jak zrušit odběr nebo zasílání této zprávy deaktivovat.
+---
 
-	__Údaje o interakci__
-	V systému iOS aplikace Firefox odesílá Údaje o interakci společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/).  Tyto údaje nám pomáhají testovat různé funkce a zkušenosti, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašich zkušeností s aplikací Firefox. Podrobnější informace o shromažďování těchto dat najdete [zde](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), stejně jako pokyny, jak lze [tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+## Pokud tyto funkce používáte, Firefox bude sdílet údaje pro poskytování funkce:  {: #optional-features }
 
----------------------------------------
+### Vyhledávání
 
-Požádáte-li o to, Firefox se spojí s Mozillou, aby vám poskytl funkce, jako je Sync, lokalizační služby, hlášení o pádech a doplňky.
-{: #optional-features }
+Vyhledávání můžete provádět přímo na několika místech ve Firefoxu, včetně lišty Awesome, lišty vyhledávání nebo na Nové kartě.  _Společnost Mozilla vaše dotazy pro vyhledávání nezískává._ Údaje o dotazech jsou zasílány poskytovateli vyhledávání, který má své vlastní zásady ochrany osobních údajů.  
 
-* **Sync**
-{: #sync }
+* __Návrhy pro vyhledávání__: Firefox dle výchozího nastavení odesílá dotazy pro vyhledávání vašemu poskytovateli vyhledávání jako pomůcku pro zjištění nejčastějších frází, které jiní lidé vyhledávali, jakož i pro zlepšení vaší zkušenosti s vyhledáváním. Tyto údaje nebudou zasílány, pokud váš poskytovatel vyhledávání návrhy nepodporuje.
+{: #searchsuggestions } 
 
-	[Firefox Sync](https://www.mozilla.org/firefox/sync/) je služba, která vám umožňuje synchronizaci vašich záložek ve Firefoxu, historie prohlížení, hesel a nastavení napříč všemi vašimi zařízeními. Pokud používáte služby Sync, můžete si přečíst [zásady ochrany osobních údajů Firefox Sync](https://accounts.firefox.com/legal/privacy).
+    [Získejte podrobnější informace](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), včetně toho, jak tuto funkci deaktivovat.
 
-* **Služby týkající se polohy**
-{: #location-services }
+### Účty Firefox
 
-	Firefox má funkci, která umožňuje stránkám požádat o vaši polohu (např. aby těmto stránkám umožnila zobrazit vaši polohu na mapě). Pokud stránka požaduje vaši polohu, Firefox požádá před určením a sdílením vaší polohy o váš souhlas. Za účelem určení vaší polohy může Firefox používat různé údaje, včetně geolokačních funkcí vašeho operačního systému, sítí WiFi, vysílačů mobilních operátorů a IP adresy. Odhadnutí vaší polohy zahrnuje zaslání některých takových informací geolokační službě Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).
+* __Údaje o účtu Firefox __: Mozilla získává vaši e.mailovou adresu a šifrované heslo v okamžiku, kdy vytvoříte svůj účet Firefox.  Můžete se rozhodnout zahrnout i zobrazované jméno nebo profilový obrázek.  Vaše e-mailová adresa se zasílá našemu poskytovateli e-mailu, společnosti SalesForce Marketing Cloud, která má své vlastní [zásady ochrany osobních údajů](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Pokud používáte náš Účet Firefox pro přihlašování k webovým stránkám nebo službám (jako například AMO nebo Pocket), získáme časovou značku vašeho přihlášení od těchto služeb. 
 
-* **Hlášení o pádu**
-{: #crash-reporter .inproduct-link }
+* __Údaje o místě__: Pro bezpečnostní účely ukládáme adresy IP, které používáte pro přístup k vašemu účtu Firefox pro přibližné stanovení města a země.  Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
 
-	Po pádu Firefox máte možnost zaslat Mozille hlášení o pádu. Toto hlášení obsahuje technické informace pro nás pro účely vylepšení Firefoxu, včetně toho, proč Firefox spadl, aktivní URL v době pádu a stav paměti počítače během pádu. Toto hlášení o pádu, které obdržíme, může zahrnovat osobní údaje. Části hlášení o pádu zveřejňujeme na <https://crash-stats.mozilla.com/>. Před zveřejněním hlášení o pádu přijímáme opatření k automatické úpravě osobních údajů. Případné informace poskytnuté vámi v poli komentářů nijak neupravujeme.
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek účtů Firefox a interakci s nimi, jakož i o předvolbách nabídek a interakcích s registrací, e-mailem a SMS zprávami. [Získejte podrobnější informace](https://www.mozilla.org/privacy/websites/) o datových postupech společnosti Mozilla pro webové stránky a e-mail.  
 
-* **Chyby SSL**
-{: #ssl-errors }
+* __Technické údaje__: Pro zobrazení, která zařízení jsou synchronizována s vašim účtem Firefox a pro zajištění fungování, ukládáme informace o operačním systému vašeho zařízení, prohlížeči a verzi, časové značce, místě a stejné informace o zařízeních připojených k vašemu účtu.  
 
-	V případě přerušení zabezpečeného připojení na webové stránky máte možnost zaslat společnosti Mozilla chybové hlášení. Toto hlášení zaznamenává certifikát webové stránky, jakož i diagnostické chybové kódy. Tato informace pomáhá společnosti Mozilla monitorovat efektivitu „vložených” certifikátů webových stránek a zjišťovat potenciální útoky typu phishing proti našim uživatelům.
+Přečtěte si [úplnou dokumentaci](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), včetně toho, jak [váš účet vymazat](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
 
-* **Doplňky**
-{: #addons }
+### Synchronizaci {: #sync }
 
-	Firefox nabízí ve správci doplňků stránku Získání doplňků, která nabízí populární doplňky a zobrazuje přizpůsobená doporučení na základě těch doplňků, které jste již instalovali. Za účelem zobrazení přizpůsobených doporučení Firefox zasílá informace Mozille, včetně seznamu doplňků, které jste si instalovali, informace o verzi Firefoxu a vaší IP adrese. K této komunikaci dochází pouze tehdy, když je stránka Získání doplňků otevřená, a může být vypnuta dle následujících [pokynů](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Správce doplňků ve Firefoxu má vyhledávací pole, kam můžete zadat klíčová slova za účelem hledání, a Mozilla shromažďuje tato vyhledávání klíčových slov, jakož i informace o vaší verzi Firefoxu, poloze a operačním systému, aby vám zobrazil doporučení.
+* __Synchronizované údaje__: Pokud aktualizujete Synchronizaci, společnost Mozilla získává informace, které synchronizujete napříč zařízeními v šifrované formě. To může zahrnovat informace o kartách Firefoxu, doplňcích, heslech, automaticky vyplňované platební informace, záložky, historii a předvolby.  Vymazáním vašeho účtu Firefox vymažete související obsah synchronizace Firefox. Můžete si rovněž přečíst [dokumentaci](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+  
+* __Technické údaje a údaje o interakci__: Pokud aktivujete synchronizaci, Firefox bude pravidelně odesílat základní informace s pomocí Telemetrie o posledních pokusech o synchronizaci vašich dat, jako například kdy k nim došlo, zda byly úspěšné či nikoliv, a o tom, o synchronizaci jakého typu služby jste se pokoušeli. Můžete si rovněž přečíst [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
-* **Automaticky otevírané oznámení**
-{: #push-notifications }
+[Získejte podrobnější informace](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), včetně toho, jak synchronizaci aktivovat či deaktivovat.
 
-	Automaticky otevírané oznámení umožňuje stránkám zasílat oznámení a aktuální informace pro vás, pokud se zaregistrujete. Aby vám byla oznámení doručována, Firefox zasílá společnosti Mozilla informace o tom, u kterých stránek jste souhlasili s přijímáním Automaticky otevíraných oznámení. Tyto informace uchováme v anonymizované formě společně s počtem oznámení, které vám jednotlivé stránky zobrazují. Abychom vývojářům umožnili vylepšit jejich používání Automaticky otevíraných oznámení, společnost Mozilla sdílí souhrnné informace s některými vývojáři, včetně počtu návštěvníků stránek, kteří se zaregistrovali nebo zrušili svou registraci pro odběr Automaticky otevíraných oznámení. Správu Automaticky otevíraných oznámení ve Firefoxu můžete provádět podle [těchto pokynů](https://support.mozilla.org/kb/push-notifications-firefox).
+### Místo {: #location-services }
 
-* **Snímky obrazovky aplikace Firefox**
-{: #screenshots }
+* __Údaje o místě pro službu geolokace společnosti Google__: Firefox se vždy zeptá, než určí a sdílí vaše místo s požadovanou webovou stránkou (například, pokud webová stránka s mapou potřebuje znát vaše místo pro poskytnutí pokynů).  ke stanovení místa může Firefox používat funkci geolokace vašeho operačního systému, sítí WiFi, vysílače mobilních telefonů nebo adresy IP a tyto údaje může zasílat službě geolokace společnosti Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).
 
-	__Nahrávání snímků obrazovky__
-	Snímky obrazovky, které se rozhodnete nahrát, se odesílají společnosti Mozilla a jsou ukládány po uvedenou omezenou dobu, kterou můžete změnit.  Můžete využívat přístup k vašim nahraným snímkům obrazovky, pokud je to rozumně nezbytné pro poskytování služby.  Nahrané snímky obrazovky můžete kdykoliv odstranit.  
+[Podrobnější informace](https://www.mozilla.org/firefox/geolocation/).
 
-	__Údaje o interakci__
-	Získáváme údaje, jako jsou návštěvy webových stránek Firefox Screenshots, jak často přistupujete ke snímkům obrazovky, které nahráváte a jak je sdílíte s ostatními, stejně jako vaše používání tlačítek, dlaždic a pohyby myší související s pořízením snímku obrazovky.  
-Pro návštěvy webových stránek Firefox Screenshots naše [zásady ochrany osobních údajů na webových stránkách](https://www.mozilla.org/privacy/websites/) popisují typy dat, které shromažďujeme. 
+### Snímky obrazovky aplikace Firefox {: #screenshots }
 
-	__Technická data__
-	Získáváme taková data jako je průměrná velikost a počet vámi nahraných snímků obrazovky, vaše verze prohlížeče Firefox, operační systém zařízení a chyby.  Adresa IP využitá pro přístup na webové stránky Firefox Screenshots je dočasně shromažďuje v rámci standardního protokolu serveru. 
+* __Nahrávání snímků obrazovky__: Snímky obrazovky, které se rozhodnete nahrát, se odesílají společnosti Mozilla a jsou ukládány po uvedenou omezenou dobu, kterou můžete změnit.  Můžete využívat přístup k vašim nahraným snímkům obrazovky, pokud je to rozumně nezbytné pro poskytování služby.  Nahrané snímky obrazovky můžete kdykoliv odstranit.  
 
-	Přečtěte si úplné znění dokumentace [zde](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) nebo odstraňte své snímky obrazovky [zde](https://screenshots.firefox.com/leave-screenshots).
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek Firefox Screenshots, jak často přistupujete ke snímkům obrazovky, které nahráváte a jak je sdílíte s ostatními, stejně jako vaše používání tlačítek, dlaždic a pohyby myší související s pořízením snímku obrazovky.
 
-Pokud není uvedeno jinak, toto oznámení o ochraně osobních údajů se vztahuje k poslední obecné verzi vydání Firefoxu. Naše předběžné verze vydání (vydání Beta/Developer, Nightly a TestFlight) jsou dosud součástí aktivního vývoje a mohou obsahovat nové funkce nebo mít odlišné charakteristiky ochrany osobních údajů. Verze předběžných vydání automaticky zasílají společnosti Mozilla [Telemetrická data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html), která nám pomáhají Firefox vylepšovat.
+    Pro návštěvy webových stránek Firefox Screenshots naše [oznámení o zásadách ochrany osobních údajů na webových stránkách](https://www.mozilla.org/privacy/websites/) popisuje, které typy další dat shromažďujeme.
+
+* __Technické údaje__: Získáváme taková data jako je průměrná velikost a počet vámi nahraných snímků obrazovky, vaše verze prohlížeče Firefox, operační systém zařízení a chyby.  Adresa IP využitá pro přístup na webové stránky Firefox Screenshots je dočasně shromažďuje v rámci standardního protokolu serveru. 
+
+Přečtěte si [úplnou dokumentaci](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) nebo [získejte podrobnější informace](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
+
+### Oznámení na webových stránkách {: #push-notifications }
+
+* __Údaje o připojení__: Pokud povolíte webovým stránkám zasílat oznámení, Firefox se spojí se společností Mozilla a využije vaši adresu IP pro doručení zprávy.  Mozilla nemá přístup k obsahu zprávy.    
+
+* __Údaje o interakci__: Získáváme souhrnná data, jako je počet registrací a zrušení registrací odběrů Firefox pro oznámení webových stránek, počet zaslaných zpráv, časové značky a odesilatelé (což může zahrnovat poskytovatele konkrétních webových stránek).  
+
+Přečtěte si [úplnou dokumentaci](https://mozilla-push-service.readthedocs.io/en/latest/) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/push-notifications-firefox), včetně toho, jak oznámení webových stránek zrušit.
+
+### Doplňky {: #addons }
+
+Doplňky můžete nainstalovat ze stránky addons.mozilla.org („AMO“) nebo ze Správce doplňků Firefoxu, které je dostupný pomocí tlačítka nabídky Firefoxu v liště nástrojů.
+ 
+* __Dotazy vyhledávání__: Dotazy vyhledávání ve Správci doplňků jsou zasílány společnosti Mozilla, aby vám mohl zasílat doporučení na Doplňky.  
+
+* __Údaje o interakci__:  Získáváme souhrnné údaje o návštěvách webové stránky AMO a Správce doplňků Firefoxu, stejně jako o interakcích s obsahem těchto stránek. Přečtěte si o datových postupech na [webových stránkách Mozilla](https://www.mozilla.org/privacy/websites/).
+
+* __Technické údaje pro aktualizace__: Firefox se pravidelně spojuje se společností Mozilla za účelem instalace aktualizací Doplňků.  Informace o nainstalovaných Doplňcích, vaší verzi a jazyce Firefoxu a operačním systému zařízení se použijí pro aplikaci správné aktualizace.  
+
+---
+
+### Poznámka pod čarou
+
+Toto oznámen o ochraně osobních údajů platí pro nejnovější obecně vydanou verzi Firefoxu distribuovaného společností Mozilla.  Pokud získáte Firefox odjinud nebo pokud používáte starší verzi, vaše kopie Firefoxu může obsahovat odlišné charakteristiky ochrany osobních údajů.  
 {: #pre-release }
+
+Předběžná vydání verzí Firefoxu společnosti Mozilla (které jsou distribuovány kanály jako např. Nightly, Beta, TestFlight a BuddyBuild) jsou ve fázi aktivního vývoje a mohou obsahovat odlišné charakteristiky ochrany osobních údajů. 
+

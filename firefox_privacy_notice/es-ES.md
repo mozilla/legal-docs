@@ -1,122 +1,157 @@
-# Aviso de privacidad del navegador Firefox
+﻿## <span class="privacy-header-firefox"></span> <span class="privacy-header-policy">Aviso de privacidad de Firefox</span>
 
-20 de Julio de 2017
-{: datetime="2017-07-20" }
+*Vigente a partir del 28 de septiembre de 2017*
+{: datetime="2017-09-28" }
 
-Nos importa su privacidad. Nuestra [política de privacidad](https://www.mozilla.org/privacy/) describe cómo tratamos la información que Firefox envía a Mozilla, es decir, a nosotros.
+## En Mozilla, creemos que la privacidad es fundamental para tener un Internet sano.
 
-## Aspectos que debe conocer
+Por este motivo hemos creado Firefox y todos nuestros productos, para darle mayor control sobre la información que comparte online y la información que comparte con nosotros. Nuestro objetivo es recopilar la información que necesitamos para poder mejorar Firefox para todo el mundo.
 
-Firefox se pone automáticamente en contacto con nosotros y nuestros proveedores de servicios con el fin de ofrecer actualizaciones, funciones de seguridad, fragmentos de código, el Informe sobre el estado de Firefox y otras características.
-{: #essential-features }
+En este Aviso de privacidad, especificamos qué datos comparte Firefox y los ajustes que le permiten a usted compartir menos. Asimismo nos adherimos a las prácticas mencionadas en la [política de privacidad de Mozilla](https://www.mozilla.org/privacy/) sobre cómo recibir, usar y compartir la información que recopilamos de Firefox.
 
-* **Actualizaciones del navegador y complementos**
-{: #auto-updates }
+## Firefox comparte por defecto ciertos datos con el fin de:
 
-	Actualizaciones del navegador: Una vez al día, Firefox envía la siguiente información a Mozilla al comprobar si existen actualizaciones: información sobre su versión de Firefox, la preferencia de idioma, el sistema operativo y la versión del mismo. [Si desea desactivar las actualizaciones, siga estas instrucciones](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking). Si lo hace, debe tener en cuenta que su seguridad puede verse comprometida.
+### Mejorar el rendimiento y la estabilidad para los usuarios de todo el mundo {: #health-report }
 
-	Lista de complementos bloqueados: Firefox se pone en contacto con Mozilla una vez al día para verificar la información sobre los complementos y comprobar si hay alguno malintencionado. Ejemplos de información consultada: versión del navegador, sistema operativo y su versión, ubicación, número total de solicitudes, hora en la que se realizó la última solicitud, hora, dirección IP y lista de complementos instalados. Es posible [desactivar las actualizaciones de metadatos](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) en cualquier momento, pero debe tener en cuenta que su seguridad puede verse comprometida.
+* __Datos de interacción__: Firefox nos envía datos sobre su interacción con Firefox (p. ej., número de pestañas y ventanas abiertas, número de páginas web visitadas, número y tipo de complementos de Firefox instalados y duración de las sesiones) y las funciones de Firefox ofrecidas por Mozilla y nuestros socios (p. ej., interacción con las funciones de búsqueda de Firefox y referencias de búsqueda de socios).  
 
-* **Fragmentos de código**
+* __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación.  Cuando Firefox nos envía datos, su dirección de IP se guarda temporalmente como parte de los registros del servidor.  
+
+Consulte la documentación de telemetría para [ordenadores de escritorio](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o visite esta página [](https://support.mozilla.org/kb/send-performance-data-improve-firefox)para obtener información sobre cómo deshabilitar la recopilación de datos.
+{: #telemetry }
+
+### Establece un proveedor de búsquedas predeterminado {: #defaultsearch }
+
+* __Datos de ubicación__:  Cuando usa Firefox por pirmera vez, el navegador usa su dirección IP para establecer su proveedor de búsquedas predeterminado según su país.  [Visite esta página](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) para obtener más información.
+
+### Sugerir contenido relevante 
+
+Firefox muestra contenido como «Snippets» (mensajes de Mozilla) y Sitios preferidos (sitios web sugeridos por Mozilla a aquellos usuarios que usan Firefox por primera vez).
+
+* __Datos de ubicación__: Firefox usa su dirección IP para sugerir contenido relevante según su país.
+
+* __Datos técnicos y de interacción__: Firefox nos envía datos sobre la posición, el tamaño y la ubicación de contenido que sugerimos, además de datos básicos sobre su interacción con contenido sugerido por Firefox. Esto incluye la frecuencia con la que el contenido sugerido es visualizado y recibe clics.
+
+* __Datos de páginas web para Snippets__: Cuando decide pulsar sobre el enlace de un Snippet, recibimos datos sobre dicho enlace. Esta información no está asociada a ninguna otra información sobre usted. [Visite esta página](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html) para obtener más información.
 {: #snippets }
 
-	La página de inicio predeterminada de Firefox (&lt;about:home&gt;) carga justo debajo de la barra de búsqueda pequeños fragmentos de información que consideramos podrían serle útil. Son los llamados "snippets" o fragmentos de código. Aproximadamente una vez al día, Firefox conecta con Mozilla para proporcionarle nuevos “snippets”, si están disponibles. Mozilla recopila información sobre la frecuencia con la que se hace clic en dichos “snippets”, su nombre, la ubicación del navegador y la versión de Firefox que utiliza. Esta información solo la almacenamos a los 60 días de forma recopilada.
+### Mejorar la seguridad de todos los usuarios {: #security }
 
-	Con el fin de mostrarle fragmentos de código que sean de su interés, Firefox envía a Mozilla una solicitud mensual para que busque el país en el que se ubica a través de su dirección IP. Al finalizar, la información recopilada se devuelve a Firefox, que la almacena localmente. Firefox podrá, entonces, mostrarle fragmentos de código de acuerdo con la información almacenada sobre el país en el que se encuentre.
+* __Datos técnicos para actualizaciones__: Las versiones de Firefox para ordenadores de escritorio buscan periódicamente actualizaciones conectándose con los servidores de Mozilla. Su versión de Firefox, idioma y sistema operativo de su dispositivo se usan para aplicar las actualizaciones correctas. Es posible que las versiones de Firefox para dispositivos móviles se conecten a otro servicio en el caso que usara uno para descargar e instalar Firefox. [Visite esta página](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)para obtener más información.
+{: #auto-updates }
 
-	Algunos fragmentos de código patrocinados por Mozilla son interactivos y le permitirán compartir su número de teléfono y su dirección de correo electrónico si lo desea. Por ejemplo, puede introducir su número de teléfono a fin de recibir un SMS para instalar Firefox en Android. Nuestro proveedor de marketing en dispositivos móviles y por correo electrónico recibirá y gestionará sus datos.
+* __Datos técnicos para la lista de complementos bloqueados__: Firefox para ordenadores de escritorio y Android se conectan periódicamente con Mozilla para protegerle a usted y a otros usuarios de complementos malintencionados.  Se requieren datos como su versión de Firefox, idioma, el sistema operativo de su dispositivo, y la lista de los complementos instalados para aplicar y actualizar la lista de complementos bloqueados. [Visite esta página](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)para obtener más información. 
 
-* **Informe sobre la salud de Firefox**
-{: #health-report .inproduct-link }
+* __Datos técnicos y de páginas web para el servicio Google SafeBrowsing__: Para ayudar a protegerle de descargas malintencionadas, Firefox envía información básica sobre las descargas desconocidas al servicio Google SafeBrowsing, incluyendo el nombre del archivo y la dirección URL desde la cual se descargó.  
 
-	El informe de salud de Firefox (FHR, por sus siglas en inglés) se creó con el fin de proporcionarle información acerca de la estabilidad y el rendimiento del navegador y también para ofrecerle consejos en caso de que tenga algún problema, como por ejemplo, un elevado número de cierres inesperados o problemas de lentitud al iniciar el navegador. Mozilla recoge sus datos junto con los de otros usuarios de Firefox y los devuelve a su navegador para que pueda entender los cambios de rendimiento de su navegador de Firefox con el paso del tiempo. Estos datos incluyen por ejemplo: hardware del dispositivo, sistema operativo, versión de Firefox, complementos (cantidad y tipo), horas de las incidencias con el navegador, representación, restauración de sesiones, duración de sesiones, interacción con búsqueda de puntos de acceso y uso de códigos de los buscadores asociados de Firefox, la antigüedad de un perfil, número de fallos y número de páginas. El informe de salud de Firefox no le proporciona a Mozilla las direcciones URL que usted ha visitado.
+    [Visite esta página](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) para obtener más información al respecto. Para consultar la [Política de privacidad de Google, visite esta página](https://www.google.com/policies/privacy/). Si desactiva esta opción, Firefox no podrá advertirle de sitios web y archivos descargados potencialmente ilegítimos o maliciosos.
 
-	Utilizamos los datos recibidos a través del FHR para ofrecerle al usuario funcionalidades propias de este informe, como ayuda para analizar y resolver los problemas de rendimiento del navegador. Asimismo, empleamos el conocimiento extraído de los datos del FHR para mejorar Firefox. Si lo desea, puede [desactivar la opción de compartir datos](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
+* __Datos técnicos y de páginas web para Autoridades certificadoras__: Cuando visita un sitio web seguro (habitualmente identificado con una URL que compienza por "HTTPS"), Firefox valida el certificado [del sitio web](https://support.mozilla.org/kb/secure-website-certificate). Es posible que Firefox envíe cierta información sobre el sitio web a las Autoridades certificadores identificadas por ese sitio web.  
 
-* **Seguridad**
-{: #security }
+    Al desactivar esta opción aumenta el riesgo de que se intercepte su información privada. [Visite esta página](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)para obtener más información.
 
-	Firefox comprueba automáticamente la existencia de páginas web falsas o malintencionadas, complementos interrumpidos y certificados SSL emitidos por terceros.
+### Informes de error {: #crash-reporter }
+Las versiones de Firefox para ordenadores de escritorio le pedirán por defecto que envíe a Mozilla un informe con información detallada sobre el fallo, pero siempre tiene la opción de rechazar esta petición.
 
-	Certificados de sitios web seguros: Cada vez que visita un sitio web seguro, (es decir, que sea "https"), Firefox valida el certificado del sitio web. Para ello, es posible que deba ponerse en contacto con un tercer proveedor, indicado por el certificado. Firefox le envía a dicho proveedor información que identifique el [certificado del sitio](https://support.mozilla.org/kb/secure-website-certificate). Si lo desea, puede [modificar las preferencias](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), pero si deshabilita la función de verificación en línea, Firefox no podrá confirmar la identidad de los sitios web a los que acceda. Si desactiva esta función, es posible que aumente el riesgo de que sus datos privados sean interceptados. Si se encuentra con una [conexión no confiable](https://support.mozilla.org/kb/connection-untrusted-error-message), puede enviarle a Mozilla los certificados asociados.
+* __Datos confidenciales__:  Los informes de error incluyen un «archivo de volcado» del contenido de memoria de Firefox en el momento en el que se produce el fallo. Este archivo puede incluir datos que le identifiquen o que sean de alguna manera confidenciales.
 
-	Protección frente a ataques y falsificaciones de Firefox: Aproximadamente dos veces por hora, Firefox descarga las listas Safe Browsing de Google con el fin de bloquear el acceso a descargas y sitios malintencionados o falsos (consulte la política de privacidad de Google en <https://www.google.com/policies/privacy/>). Si los archivos ejecutables descargados no aparecen en dichas listas, es posible que Firefox envíe metadatos al servicio Safe Browsing, incluida las URL asociadas al archivo descargado. Vaya a <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> para obtener más información sobre Safe Browsing y el modo de deshabilitarlo. Si deshabilita estas funciones, Firefox no podrá avisarle acerca de archivos descargados o sitios web malintencionados o posiblemente falsos.
+* __Datos de páginas web__:  Los informes de error incluye la URLque se encontraba activa en el momento del fallo.
 
-* **Estadísticas de uso** (también conocidas como "Telemetry" en compilaciones sin lanzamiento)
-{: #telemetry .inproduct-link}
+* __Datos técnicos__:  Los informes de error incluyen datos sobre el motivo del fallo de Firefox y sobre el estado y ejecución de la memoria del dispositivo durante el fallo.
 
-	Las estadísticas de uso o "Telemetry" son una función de Firefox que envía a Mozilla datos estadísticos sobre el uso, el rendimiento y la capacidad de respuesta de la configuración del hardware, la memoria y las funciones de la interfaz del usuario. También se recopila su dirección IP como parte de un registro web estándar. Las estadísticas de uso se transmiten mediante SSL y nos resultan útiles para mejorar las próximas versiones de Firefox. Una vez enviadas a Mozilla, las estadísticas de uso se comparten con una gran variedad de desarrolladores, incluidos empleados de Mozilla y colaboradores públicos. Cuando la función Telemetry está habilitada, ciertos experimentos a corto plazo podrían recopilar información sobre los sitios visitados.
+La documentación completa está disponible [aquí](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-	Esta función está activada de forma predeterminada en las versiones Nightly y Beta/Developer Edition de Firefox para que los usuarios puedan enviar sus comentarios a Mozilla. Sin embargo, en la versión general de Firefox esta función está desactivada de forma predeterminada.
+### Apoya nuestra publicidad y mide su efectividad
 
-	[Si desea obtener más información sobre Telemetry y cómo habilitar o deshabilitar esta función, vaya a](https://support.mozilla.org/kb/send-performance-data-improve-firefox).
+* __Datos de campaña y de referencia__: Estos datos ayudan a Mozilla a entender la efectividad de nuestras campañas publicitarias.
+{: #referraltracking }
 
-* **Mosaicos**
-{: #searchsuggestions }
+    _En ordenadores de escritorio_: Firefox envía por defecto datos HTTP a Mozilla que pueden estar incluidos en el instalador de Firefox.  Esto nos permite determinar el dominio del sitio web o la campaña publicitaria (en caso dado) que le envió a nuestra página de descarga. Consulte la [documentación](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) o [visite la siguiente página](https://support.mozilla.org/kb/desktop-privacy) before installationsi desea inhabilitar este servicio.
 
-	Sugerencias de búsqueda es una función que le ayuda a encontrar frases comunes que otras personas han buscado. Estas sugerencias de búsqueda las ofrece su buscador predeterminado (como Google, Yahoo, etc.) y no Firefox. Si activa esta función y su buscador predeterminado permite las sugerencias, Firefox envía los términos que escribe en la Barra Alucinante o en la Barra de búsqueda a su buscador predeterminado para obtener sugerencias. Esta función se rige por la Política de privacidad aplicable de su buscador predeterminado. Para [obtener más información sobre las Sugerencias de búsqueda y sobre cómo activar y desactivar esta función visite](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar).
+    _En dispositivos iOS y Android_: Firefox envía por defecto datos de campañas móviles a Adjust, nuestro proveedor de análisis de datos, que tiene su propia [política de privacidad](https://www.adjust.com/privacy_policy/).  Los datos de campañas móviles incluyen la ID de publicidad de Google, la dirección IP, fecha y hora, país, idioma/provincia, sistema operativo y versión de la aplicación. Consulte la [documentación](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html)para obtener más información.
+{: #thirdparty }
 
-* **Datos de referencia y de seguimiento de campañas**{: #thirdparty } ** **{: #referraltracking }
+* __Datos técnicos y de interacción__: 
 
-	Para que podamos entender y mejorar nuestras campañas publicitarias, Firefox envía por defecto cierta información. Esta información incluye los “Datos de referencia” sobre el dominio del sitio web o la campaña publicitaria que le sugirieron descargar e instalar el navegador Firefox y los “Datos de interacción” sobre las funciones que utiliza en Firefox.
+    _En sistemas iOS y Android_: Firefox envía por defecto datos sobre las funciones que usa en Firefox a Leanplum, nuestro proveedor de marketing, que tiene su propia [política de privacidad](https://www.leanplum.com/privacy/).  Estos datos nos permiten probar distintas funciones y experiencias, así como proporcionar mensajes y recomendaciones personalizados para mejorar su experiencia con Firefox.
 
-	__Datos de referencia__
-	En dispositivos iOS y Android, Firefox envía los siguientes datos de referencia a nuestro proveedor de analítica móvil: ID de publicidad de Google, dirección IP, marca de hora, país, idioma, sistema operativo y versión de la aplicación. Haga clic [aquí](https://support.mozilla.org/kb/desktop-attribution-privacy)para obtener más información. En esta página también encontrará información sobre cómo desactivar este informe.
+    Consulte la documentación para sistemas[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) y [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) para obtener más información, o visite la siguiente página [](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)si desea deshabilitar esta función.
 
-	En ordenadores de escritorio, Firefox recopila y envía datos de referencia a Mozilla como parte del informe de salud de Firefox. Haga clic [aquí](https://support.mozilla.org/kb/desktop-attribution-privacy)para obtener más información. En esta página también encontrará información sobre cómo desactivar este informe.
+---
 
-	__Datos de interacción__
-	En dispositivos iOS, Firefox envía datos de interacción a Leanplum, nuestro proveedor de publicidad móvil, que tiene su propia [política de privacidad](https://www.leanplum.com/privacy/).  Estos datos nos permiten probar distintas funciones y funcionalidades, así como ofrecer mensajes y recomendaciones personalizadas para mejorar su servicio de Firefox. Haga clic [aquí](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) para más información sobre esta recopilación de datos y sobre cómo [desactivar esta función](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+## Si usa estas funciones, Firefox compartirá ciertos datos para ofrecer  funcionalidad:  {: #optional-features }
 
----------------------------------------
+### Search
 
-Si usted así lo solicita, Firefox también se conecta con Mozilla para ofrecerle características como Sync, servicios relacionados con su ubicación, informes de fallos o complementos.
-{: #optional-features }
+Puede realizar búsquedas directamente desde distintos lugares de Firefox, incluidas las barras de búsqueda Awesome Bar y Search Bar ubicadas en una pestaña nueva.  _Mozilla no recibe sus solicitudes de búsqueda._ Los datos de búsqueda se envían a su buscador, que tiene su propia política de privacidad.  
 
-* **Sync**
-{: #sync }
+* __Sugerencias de búsqueda__: Firefox envía por defecto las consultas a su buscador para ayudarle a descubrir frases comunes que otras personas han buscado y para mejorar su experiencia de búsqueda. Estos datos no se enviarán si el buscador que ha seleccionado no admite sugerencias de búsqueda.
+{: #searchsuggestions } 
 
-	[Firefox Sync](https://www.mozilla.org/firefox/sync/) es un servicio que le permite sincronizar sus marcadores, historial de navegación, contraseñas y ajustes en todos sus dispositivos. Si utiliza este servicio, consulte el [aviso de privacidad de Firefox Sync](https://accounts.firefox.com/legal/privacy).
+    [Consulte este artículo](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) para obtener más información. Aquí encontrará también información sobre cómo inhabilitar esta función.
 
-* **Servicios relacionados con su ubicación**
-{: #location-services }
+### Cuentas de Firefox
 
-	Firefox ofrece una función que le permite a los sitios web solicitar su ubicación (por ejemplo, para que le muestren su ubicación en un mapa). Si un sitio web desea saber su ubicación, Firefox solicita su autorización antes de determinarla y compartirla. Para determinar dónde se encuentra, es posible que Firefox utilice información diversa, como por ejemplo, funciones de geolocalización de su sistema operativo, redes Wi-Fi, torres de telefonía móvil o su dirección IP. Para calcular su ubicación, se envían algunos de estos datos al servicio de geolocalización de Google, que dispone de su propia [política de privacidad](https://www.google.com/privacy/lsf.html).
+* __Datos de cuentas de Firefox__: Al crear una cuenta de Firefox, Mozilla recibe su dirección de correo electrónico y un hash de su contraseña.  Puede elegir incluir un nombre para mostrar y una imagen de perfil.  Su dirección de correo electrónico se enviará a nuestro proveedor de correo electrónico, SalesForce Marketing Cloud, que tiene su propia [política de privacidad](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Si usa su cuenta de Firefox para acceder a otros sitios web o servicios (p. Ej., AMO y Pocket), estos servicios nos envían la fecha y hora de su inicio de sesión. 
 
-* **Informes de error**
-{: #crash-reporter .inproduct-link }
+* __Datos de ubicación__: Por motivos de seguridad, guardamos las direcciones IP que usa para acceder su cuenta de Firefox con el fin de localizar su ciudad y país.  Usamos estos datos para enviarle alertas de correo electrónica cuando detectamos actividad sospechosa, como inicios de sesión en su cuenta desde otras ubicaciones.
 
-	Tiene a su disposición la posibilidad de enviar a Mozilla un informe de error en caso de que Firefox falle. Dicho informe contiene información técnica que nos será útil para mejorar Firefox, como por ejemplo, el motivo del fallo, la URL que se encontraba activa y el estado de la memoria del equipo en ese momento. El informe de error también puede contener información personal. Algunos fragmentos de los informes de error los publicamos en <https://crash-stats.mozilla.com/>. Antes de publicarlos, eliminamos de forma automática los datos personales. Lo que escriba en el cuadro de comentarios no se eliminará.
+* __Datos de interacción__: Recibimos datos sobre sus visitas e interacciones con el sitio web de su cuenta de Firefox y sus preferencias de menú, e interacciones con contenido integrado, correo electrónico y mensajes SMS. [Consulte este artículo](https://www.mozilla.org/privacy/websites/) para obtener más información sobre las prácticas de datos de Mozilla relacionadas con sitios web y correo electrónico.  
 
-* **Errores de SSL**
-{: #ssl-errors }
+* __Datos técnicos__: Para mostrar qué dispositivos se sincronizan con su cuenta de Firefox y sus funcionalidades, guardamos información sobre el sistema operativo, navegador y versión de su dispositivo, fecha y hora, idioma, y la misma información para los dispositivos asociados a su cuenta.  
 
-	Si la conexión segura del sitio web se interrumpe, podrá enviar a Mozilla un informe de errores. Este informe registra el certificado del sitio web y los códigos de error de diagnóstico. Estos datos ayudan a Mozilla a comprobar la eficacia de los certificados "anclados" del sitio web y a detectar posibles ataques de suplantación de identidad contra sus usuarios.
+Consulte la [documentación completa](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) o [visite esta página](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts) para obtener más información al respecto. Aquí también encontrará información sobre cómo [eliminar su cuenta](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
 
-* **Complementos**
-{: #addons }
+### Sync {: #sync }
 
-	Firefox ofrece una página donde obtener complementos, en el administrador de complementos, en la que encontrará complementos populares y recomendaciones personalizadas de acuerdo con los que ya tenga instalados. Para que pueda consultar las recomendaciones personalizadas, Firefox envía a Mozilla información como la lista de complementos que ya tiene instalados, su versión de Firefox y dirección IP. El envío de esta información solo se produce si el área Obtener complementos está abierta. Para desactivarla, [siga estas instrucciones](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). El administrador de complementos de Firefox dispone de un campo de búsqueda en el que puede introducir palabras clave para realizar búsquedas; Mozilla recopila dichas búsquedas de palabras clave, así como información sobre su versión de Firefox, su ubicación y sistema operativo para mostrarle recomendaciones.
+* __Datos sincronizados__: Si habilita la función Sync, Mozilla recibe la información que se sincroniza entre sus dispositivos de forma cifrada. Esta información puede incluir pestañas, complementos, contraseñas, información de pago de autorelleno, marcadores, historial y preferencias de Firefox.  Al eliminar su cuenta de Firefox, se eliminará todo el contenido de sincronización de Firefox relacionado. Puede también consultar la siguiente [documentación](http://moz-services-docs.readthedocs.io/en/latest/sync/)para obtener más información.
+  
+* __Datos técnicos y de interacción__: Si habilita Sync, Firefox enviará periódicamente cierta información básica usando Telemetría sobre los intentos más recientes de sincronización de sus datos, como cuándo se realizó, si se realizó correctamente o no, y qué tipo de dispositivo intenta sincronizar. Puede también leer [esta documentación](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)para obtener más información.
 
-* **Notificaciones Push**
-{: #push-notifications }
+[Visite este página](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) para obtener más información. Aquí también encontrará información sobre cómo habilitar y deshabilitar Sync.
 
-	La función Notificaciones Push permite a los sitios web enviarle notificaciones y actualizaciones, si tiene activada esta opción. Para recibir notificaciones, Firefox envía información a Mozilla sobre las páginas para las que desea recibir Notificaciones Push. Nosotros guardamos esta información de forma anónima, junto con el número de notificaciones que le envía cada sitio web. Para ayudar a los desarrolladores a mejorar su uso de las Notificaciones Push, Mozilla comparte información adicional con algunos de los desarrolladores como el número de visitantes de sus sitios web que se han suscrito o han cancelado la suscripción a las Notificaciones Push. Para gestionar las Notificaciones Push en Firefox siga [estas instrucciones](https://support.mozilla.org/kb/push-notifications-firefox).
+### Ubicación{: #location-services }
 
-* **Capturas de pantalla de Firefox**
-{: #screenshots }
+* __Datos de ubicación para el servicio de geolocalización de Google__: Firefox siempre pregunta antes de determinar y compartir su ubicación con los sitios web que deseen conocerla (por ejemplo, si un sitio web de mapas requiere su ubicación para dar direcciones).  Para determinar su ubicación, es posible que Firefox use las funciones de geolocalización de su sistema operativo, redes de Wi-fi, antenas de telefonía móvil y su dirección IP, y que envíe estos datos al servicio de geolocalización de Google, que tiene su propia [política de privacidad](https://www.google.com/privacy/lsf.html).
 
-	__Cargar capturas de pantalla__
-	Las capturas de pantalla que elige para cargar se envían a Mozilla y se guardan durante el tiempo indicado (puede cambiar este ajuste).  Es posible que accedamos a las capturas de pantalla cargadas cuando sea preciso con el fin de asegurar el correcto funcionamiento del servicio. Puede eliminar sus capturas de pantalla en cualquier momento.  
+[Visite esta página](https://www.mozilla.org/firefox/geolocation/)para obtener más información.
 
-	__Datos de interacción__
-	Recibimos datos como el número de visitas a la página web de las capturas de pantalla de Firefox, el número de veces que usted u otros cargan, acceden y comparten las capturas de pantalla, y sus interacciones con botones, mosaicos y el ratón en  relación con las capturas de pantalla.  
-En la página de las capturas de pantalla de Firefox podrá acceder a nuestro [aviso de privacidad de sitios web](https://www.mozilla.org/privacy/websites/) que describe los tipos de datos que recopilamos. 
+### Firefox Screenshots {: #screenshots }
 
-	__Datos técnicos__
-	Recibimos datos como el tamaño medio y el número de las capturas de pantalla cargadas, la versión de su navegador de Firefox, el sistema operativo de su dispositivo y los errores producidos.  Se recopila temporalmente la dirección IP que accede a la página de las capturas de pantalla de Firefox como parte de un registro de servidor estándar. 
+* __Cargar capturas de pantalla__: Las capturas de pantalla que selecciona para cargar se envían a Mozilla y se guardan por un período de tiempo limitado, que usted puede cambiar.  Es posible que accedamos a las capturas de pantalla cargadas cuando sea necesario con el fin de asegurar el correcto funcionamiento del servicio.  Puede eliminar las capturas de pantalla cargadas en cualquier momento.  
 
-	Para acceder a la documentación completa, haga clic [aquí](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o si desea eliminar todas sus capturas de pantalla, haga clic [aquí](https://screenshots.firefox.com/leave-screenshots).
+* __Datos de interacción__: Recibimos datos como el número de visitas al sitio web de Firefox Screenshots, la frecuencia con la que usted y otros cargan, acceden y comparten las capturas de pantalla, y sus interacciones con botones, mosaicos y el ratón en  relación con las capturas de pantalla.
 
-El presente aviso de privacidad se aplica a la versión de lanzamiento más reciente de Firefox, a no ser que se informe de otra forma. Nuestras versiones prelanzamiento (Beta/Developer Edition, Nightly y TestFlight) se encuentran en continuo desarrollo y pueden incluir funciones nuevas y términos de privacidad distintos. Las versiones anteriores a la versión de lanzamiento envían automáticamente [estadísticas de uso](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) a Mozilla para ayudarnos a mejorar el navegador Firefox.
+    Nuestro[aviso de privacidad de sitios web](https://www.mozilla.org/privacy/websites/) describe los tipos de datos que se podrían recopilar adicionalmente para calcular el número de visitas que recibe el sitio web de Firefox Screenshots.
+
+* __Datos técnicos__: Recibimos datos como el tamaño medio y el número de las capturas de pantalla cargadas, la versión de su navegador de Firefox, el sistema operativo de su dispositivo y los errores producidos.  Se recopila temporalmente la dirección IP que accede al sitio web de Firefox Screenshots como parte de un registro de servidor estándar. 
+
+Consulte la [documentación completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o [la siguiente página](https://wiki.mozilla.org/Firefox/Screenshots/FAQs)para obtener más información.
+
+### Notificaciones de sitios web {: #push-notifications }
+
+* __Datos de conexión__: Si permite que un sitio web le envíe notificaciones, Firefox se conecta con Mozilla y usa su dirección IP para retransmitir el mensaje.  Mozilla no puede acceder al contenido de los mensajes.    
+
+* __Datos de interacción__: Recibimos datos como el número de suscripciones y cancelaciones de suscripciones a las notificaciones de sitios web de Firefox, el número de mensajes enviados, fecha y hora y los remitentes (que pueden incluir proveedores de sitios web específicos).  
+
+Consulte la [documentación completa](https://mozilla-push-service.readthedocs.io/en/latest/) o [esta página](https://support.mozilla.org/kb/push-notifications-firefox)para obtener más información. Aquí también encontrará información sobre cómo revocar las notificaciones de sitios web.
+
+### Complementos {: #addons }
+
+Puede instalar Complementos desde la página addons.mozilla.org (“AMO”) o a través del administrador de complementos de Firefox, al que puede acceder mediante el botón de menú de Firefox ubicado en la barra de herramientas.
+ 
+* __Solicitudes de búsqueda__: Las solicitudes de búsqueda en el Administrador de complementos se envían a Mozilla para proporcionarle complementos sugeridos.  
+
+* __Datos de interacción__:  Recibimos datos sobre las visitas al sitio web AMO y el Administrador de complementos en Firefox, así mismo que sobre las interacciones con el contenido de dichas páginas. [Visite esta página](https://www.mozilla.org/privacy/websites/)para obtener información sobre las prácticas relacionadas con datos en los sitios web de Mozilla.
+
+* __Datos técnicos para actualizaciones__: Firefox se conecta periódicamente con Mozilla para instalar las actualizaciones de Complementos.  Sus complementos instalados, versión de navegador , idioma y sistema operativo del dispositivo se usan para aplicar las actualizaciones correctas.  
+
+---
+
+### Nota a pie de página
+
+Este aviso de privacidad se aplica a la versión más reciente de lanzamiento general de Firefox distribuido por Mozilla.  Si adquiere Firefox de otro sitio, o está usando una versión anterior, su copia de Firefox puede incluir términos de privacidad distintos.  
 {: #pre-release }
+
+Las versiones de prelanzamiento de Firefox de Mozilla (distribuidas a través de canales como Nightly, Beta, TestFlight y BuddyBuild) se encuentran en continuo desarrollo y pueden incluir términos de privacidad distintos. 
+

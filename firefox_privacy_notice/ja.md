@@ -1,132 +1,157 @@
-# Firefox ブラウザのプライバシーに関する通知
+﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
 
-2017 年 7 月 20 日
-{: datetime="2017-07-20" }
+*有効日 2017 年 9 月 28 日*
+{: datetime="2017-09-28" }
 
-Mozilla はあなたのプライバシーを尊重します。Mozilla が Firefox を通じて情報を受け取る場合、[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) に従ってそれらの情報を取り扱います。
+##Mozilla は、プライバシーが健全なインターネットの基盤であると信じております。
 
-## 留意事項
+そのため、Mozilla では、お客様がオンライン上で共有する情報および弊社と共有する情報をより広範囲に制御できるように、Firefox およびすべての Mozilla 製品を構築しています。Mozilla は、皆様のために Firefox を改善することを目的として、必要な情報だけを収集するように努力しております。
 
-Firefox は、Mozilla や Mozilla が契約するサービスプロバイダーへ自動的に接続し、更新、セキュリティ、スニペット、Firefox ヘルスレポートなどの機能を提供します。
-{: #essential-features }
+本プライバシーに関する通知では、Firefox を通じて共有するデータについて説明しているとともに、共有するデータの量がより少なくなるような設定を促しています。また、Mozilla では、Firefox から収集した情報をどのように受信、処理、および共有するかに関し、Mozilla の[プライバシーポリシー](https://www.mozilla.org/privacy/)に記載されている実践を堅く守っております。
 
-* **ブラウザおよびアドオンの更新**
-{: #auto-updates }
+##Firefox は、以下の目的でデータを共有するよう初期設定されています。
 
-	ブラウザの更新: Firefox は、ブラウザの更新を確認するため、Firefox のバージョン情報、言語設定、オペレーティングシステム (OS) とそのバージョンに関する情報を 1 日に 1 回 Mozilla へ送信します。更新機能は [こちらの説明](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) に従うことで無効化できますが、それによってあなたはセキュリティ脆弱性にさらされる可能性があります。
+###あらゆるところで利用するユーザーのためにパフォーマンスと安全性を向上する{: #health-report }
 
-	アドオンのブロックリスト: Firefox は、悪意のあるアドオンを排除するため、1 日に 1 回 Mozilla へ接続し、アドオンの情報を確認します。これには、例えば、ブラウザのバージョン、OS とそのバージョン、ロケール、合計リクエスト回数、最終リクエスト日時、現在時刻、IP アドレス、インストールされているアドオンのリストが含まれます。メタデータの更新はいつでも [無効化](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) できますが、それによってあなたはセキュリティ脆弱性にさらされる可能性があります。
+*__インタラクションデータ__:Firefox は、お客様の Firefox とのインタラクション (開いているタブやウィンドウの数、訪問したウェブページの数、インストールされている Firefox アドオンの数や種類、セッションの長さなど)、および Mozilla または弊社パートナーにより提供された Firefox 機能とのインタラクション (Firefox 検索機能とのインタラクションや検索パートナーの参照など) に関するデータを Mozilla に送信します。
 
-* **スニペット**
+*__技術データ__:Firefox は、お使いの Firefox のバージョンおよび言語、デバイスのオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、アップデート、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、弊社サーバーログの一部として、お客様の IP アドレスが一時的に収集されます。
+
+[デスクトップ](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については、[こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox)をご覧ください。
+{: #telemetry }
+
+###検索プロバイダを初期設定する{: #defaultsearch }
+
+*__ロケーションデータ__:Firefox の初回使用時には、お客様の国に基づいてお客様の検索プロバイダを初期設定するために、お客様の IP アドレスが使用されます。[詳細については、こちらをご覧ください。](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+
+###関連コンテンツを推奨する
+
+Firefox は、“スニペット” (Mozilla からのメッセージ) や上位サイト (Firefox を初めて使用するユーザーのために Mozilla により推奨されるウェブサイト) などのコンテンツを表示します。
+
+*__ロケーションデータ__:Firefox は、お客様の国に基づいて関連コンテンツを推奨するために、お客様の IP アドレスを使用します。
+
+*__技術 & インタラクションデータ__:Firefox は、Mozilla が推奨するコンテンツの位置、サイズ、配置などのデータや、お客様の Firefox 推奨コンテンツとのインタラクションに関する基本データを Mozilla に送信します。これには、推奨コンテンツが表示またはクリックされた回数が含まれます。
+
+*__スニペットのウェブページデータ__:お客様がスニペットのリンクをクリックするとき、Mozilla はお客様がフォローしたリンクに関するデータを受信することがあります。この情報は、お客様に関する他のどの情報にも関連付けられていません。[詳細については、こちらをご覧ください。](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-	Firefox の既定のホームページ (&lt;about:home&gt;) では、検索バーのすぐ下に、Mozilla があなたにとって有益であると考える情報が読み込まれます。Mozilla ではこれを「スニペット」と呼んでいます。Firefox は 1 日に 1 回 Mozilla へ接続し、入手可能であれば新しいスニペットを提供します。Mozilla は、スニペットのクリック回数、スニペットの名称、ブラウザのロケール、Firefox のバージョンを収集することがあります。これらの情報は 60 日以降は集計状態でのみ保存されます。
+###あらゆるところで利用するユーザーのためにセキュリティを強化する {: #security }
 
-	Firefox は、関連性の高いスニペットを表示するため、IP アドレスを利用してあなたの所在地を国レベルで確認するリクエストを月に 1 回 Mozilla へ送信します。Mozilla はその国レベルの情報を送り返し、その情報は Firefox のローカルに保存されます。Firefox はそのローカルに保存された国情報に基づいて表示するスニペットを選択します。
+*__アップデート用の技術データ__:デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーのアップデートの有無を定期的に確認します。正しいアップデートを適用するために、お使いの Firefox のバージョン、言語、デバイスのオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。[詳細については、こちらをご覧ください。](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+{: #auto-updates }
 
-	Mozilla がスポンサーとなるスニペットの中には相互対話的なものが含まれており、あなたが自分の電話番号やメールアドレスを任意で提供できるようにするものがあります。例えば、あなたが Android 端末へ Firefox をインストールしたい場合、SMS を受信するために自分の電話番号を入力することができます。あなたが入力した情報は、Mozilla が契約するメール・モバイルマーケティングベンダーによって受信され取り扱われます。
+*__アドオンブロックリスト用の技術データ__:デスクトップ版および Android 版の Firefox は、お客様および他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、デバイスのオペレーティングシステム、およびインストールされているアドオンのリストが必要です。[詳細については、こちらをご覧ください。](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).
 
-* **Firefox ヘルスレポート**
-{: #health-report .inproduct-link }
+*__Google のセーフブラウジングサービスへのウェブページおよび技術データ__:Firefox は、お客様を悪意のあるダウンロードから守るために、認識されなかったダウンロードに関する基本的な情報を Google のセーフブラウジングサービスに送信します。これには、ファイル名やダウンロード元の URL が含まれます。
 
-	Firefox ヘルスレポート (FHR) は、ブラウザの安定性およびパフォーマンスに関する洞察や、ブラウザが頻繁にクラッシュしたり起動が遅くなったりといった問題が起きた場合に役立つサポート情報をあなたに提供するために設計された機能です。Mozilla は、お使いの Firefox のパフォーマンスの変化を確認できるよう、あなたのデータを他の Firefox ユーザのデータとともに収集して集計解析し、あなたのブラウザへ送り返します。これらのデータには、例えば、端末ハードウェア、オペレーティングシステム、Firefox のバージョン、アドオン (数と種類)、ブラウザイベントやレンダリング、セッション復元のタイミング、セッションの長さ、検索アクセスポイントとのインタラクションと Firefox 検索パートナーコードの使用、プロファイルの古さ、クラッシュ回数、ページ表示回数が含まれます。FHR によって、あなたが訪問した URL が Mozilla に送信されることはありません。
+[こちら](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)で詳細をご覧になるか、[Google のプライバシーポリシー](https://www.google.com/policies/privacy/)をお読みください。オプトアウトすると、違法または悪意があるかもしれないウェブサイトやダウンロードファイルに関する Firefox からの警告が表示されなくなります。
 
-	Mozilla は、ブラウザのパフォーマンスに関する問題の分析と解決を支援する FHR の機能をユーザへ提供するため、FHR を通じて送信されたデータを利用します。また、Firefox をより良いものにするため、FHR から得られたデータを集計解析して利用します。あなたは [データ共有を無効化](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off) することもできます。
+*__認証局へのウェブページおよび技術データ__:お客様が安全なウェブサイト (通常、URL が "HTTPS" から始まるサイト) を訪問するとき、Firefox はそのウェブサイトの[証明書](https://support.mozilla.org/kb/secure-website-certificate)を検証します。この検証は、Firefox がそのウェブサイトの特定の情報を、そのウェブサイトに関係している認証局に送信することによって行われます。
 
-* **セキュリティ**
-{: #security }
+オプトアウトすると、お客様の個人情報が傍受される危険性が高くなります。[詳細については、こちらをご覧ください。](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-	Firefox は、悪意のあるサイト、偽装されたサイト、有害なアドオンおよび第三者が発行する SSL 証明書を自動的に確認します。
+###クラッシュレポート {: #crash-reporter }
+デスクトップ版の Firefox の初期設定により、Mozilla はクラッシュに関するより詳細な情報を Mozilla に提供していただくようお客様にお願いしますが、お客様はいつでもこれを拒否できます。
 
-	安全なサイト証明書: あなたが安全なサイト (すなわち「https」で始まる URL) を訪れる際、Firefox はそのサイトの証明書を検証します。これには、証明書に記載された第三者ステータスプロバイダーとの通信が介在する場合があります。Firefox は、そのサイトの [証明書](https://support.mozilla.org/kb/secure-website-certificate) を特定する情報をこの第三者へ送信します。あなたは [設定を変更](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab) してオンライン検証機能を無効化することもできますが、その場合 Firefox はあなたが訪れるサイトの身元を確認することができません。この機能を無効にすることによって、あなたの個人情報が傍受される危険性が増す可能性があります。[接続の安全性を確認できない](https://support.mozilla.org/kb/connection-untrusted-error-message) というエラーページが表示された場合、あなたは関連する証明書を Mozilla へ送信することもできます。
+*__極秘データ__:クラッシュレポートには、クラッシュ時における Firefox のメモリーコンテンツである 'ダンプファイル' が含まれます。このファイルには、お客様を識別するデータ、またはお客様にとって極秘であるデータが含まれている可能性があります。
 
-	偽装サイトおよび攻撃サイトからの保護: Firefox は、悪意のある、あるいは偽装されたサイトへのアクセスやダウンロードを防ぐため、Google のセーフブラウジングリストを 1 時間に 2 回ダウンロードします (Google のプライバシーポリシーは https://www.google.com/policies/privacy/ にあります)。このリストに載っていないダウンロードされた実行可能ファイルについて、Firefox は、そのファイルに関連付けられた URL を含むメタデータをセーフブラウジングサービスへ送信する場合があります。セーフブラウジング機能の詳細とその無効化方法については [こちらの記事]( https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) をご覧ください。これらの機能が無効化された場合、Firefox は、正当ではない、あるいは悪意のあるサイトをあなたが訪れたり、そうしたファイルをダウンロードしたりした場合でも、その危険性を警告することができません。
+*__ウェブページデータ__:クラッシュレポートには、クラッシュ時のアクティブな URL が含まれます。
 
-* **使用統計情報** (非リリースビルドでは「Telemetry」とも呼ばれます)
-{: #telemetry .inproduct-link}
+*__技術データ__:クラッシュレポートには、Firefox がクラッシュした理由、およびクラッシュ時におけるデバイスメモリーと実行の状態が含まれます。
 
-	使用統計情報、別名「Telemetry」は、ユーザインタフェース機能の使用状況、パフォーマンス、応答性に関する統計情報や、メモリ、ハードウェアの設定情報を Mozilla へ送信する Firefox の機能です。あなたの IP アドレスも標準的な Web サーバログの一部として収集されます。使用統計情報は SSL を通じて送信され、Firefox の将来のバージョンを改良するために役立てられます。Mozilla へ送信された使用統計情報は、集計解析され、Mozilla の従業員および一般の貢献者を含む幅広い開発者に公開されます。Telemetry が有効化されている場合、短期的な実験の一環として、あなたが訪れたサイトに関する情報が収集される場合もあります。
+[こちら](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html)の完全なドキュメントをお読みください。
 
-	この機能は、Firefox の Nightly、Developer Edition (Aurora) および Beta ビルドにおいては、ユーザが Mozilla へフィードバックを提供できるよう、初期設定で有効化されています。Firefox の通常リリース版においては、この機能は初期設定で無効化されています。
+###Mozilla のマーケティングを測定およびサポートする
 
-	Telemetry に関する詳細と、その有効、無効を切り替える方法については、[こちらの記事](https://support.mozilla.org/kb/send-performance-data-improve-firefox) をご覧ください。
+*__キャンペーンおよび参照データ__:これは、Mozilla のマーケティングキャンペーンの有効性を理解するのに役立ちます。
+{: #referraltracking }
 
-* **タイル**
-{: #tiles }
+_デスクトップの場合_:Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、弊社のダウンロードページをお客様に紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)をお読みください。または、インストールの前に[オプトアウト](https://support.mozilla.org/kb/desktop-privacy) before installationしてください。
 
-	タイルは、新しいタブページ上に表示される Firefox の機能です。タイル機能を提供するため、Firefox は、クリック回数、表示回数、IP アドレス、ロケール情報、タイル固有のデータ (例えばグリッドの位置とサイズ) など、タイルに関するデータを Mozilla へ送信します。Firefox Beta においては、タイルのために実施される Telemetry の短期的な実験 (上記参照) の一環として、あなたがよく訪れるドメインに関する情報が収集される場合があります。
+_iOS および Android の場合_:Firefox は初期設定で、弊社の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の[プライバシーポリシー](https://www.adjust.com/privacy_policy/)があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語/ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの[ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html)をお読みください。
+{: #thirdparty }
 
-* **既定の検索エンジン**
-{: #defaultsearch }
+*__技術 & インタラクションデータ__:
 
-	あなたの所在地に最適な既定の検索エンジンを選択できるよう、Firefox は、IP アドレスを利用してあなたの所在地を国レベルで確認するリクエストを 1 回だけ Mozilla へ送信します。Mozilla はその国レベルの情報を送り返し、その情報は Firefox のローカルに保存されます。Firefox はそのローカルに保存された国情報に基づいて使用される既定の検索エンジンを選択します。
+_iOS および Android の場合_:Firefox は初期設定で、お客様が Firefox で使用した機能に関するデータを、弊社のモバイルマーケティングベンダーである Leanplum に送信します。このベンダーには、独自の[プライバシーポリシー](https://www.leanplum.com/privacy/)があります。このデータにより、Mozilla はさまざまな機能や体験をテストしたり、カスタマイズしたメッセージや推奨事項を提供したりして、お客様の Firefox の使い心地を改善できるようになります。
 
-* **検索候補**
-{: #searchsuggestions }
+[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 用または [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 用のドキュメントをお読みください。この機能を無効にする方法については、[こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください。
 
-	検索候補は、他の人々が検索している一般的な語句を知ることができる機能です。これらの検索候補はあなたの既定の検索エンジン (Google、Yahoo など) が提供するものであり、Firefox が提供するものではありません。この機能を有効にすると、既定の検索エンジンが候補表示に対応し、Firefox は候補を取得するためにあなたがロケーションバーもしくは検索バーに入力した語句を既定の検索エンジンへ送信する場合があり、その際には該当する検索エンジンのプライバシーポリシーが適用されます。検索候補に関する詳細と、その有効、無効を切り替える方法については、[こちらの記事](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) をご覧ください。
+---
 
-* **参照とキャンペーンの追跡**{: #thirdparty } ** **{: #referraltracking }
+##お客様が以下の機能を使用した場合、Firefox は機能を提供するためにデータを共有します。{: #optional-features }
 
-	Mozilla のマーケティングキャンペーンを理解および改善できるよう、Firefox は初期設定で特定の情報を送信します。これには、あなたに Firefox をダウンロードしてインストールするように言及したサイトのドメインや広告キャンペーンなどの「参照データ」、ならびにあなたが Firefox で使用する機能に関する「インタラクションデータ」が含まれます。
+###検索
 
-	__参照データ__
-	Android と iOS の場合、Firefox は Mozilla のモバイル分析ベンダーに参照データを送信します。これには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーションシステム、アプリのバージョンも含まれます。 この機能を無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/desktop-attribution-privacy)をご覧ください。
+お客様は、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。_Mozilla がお客様の検索クエリーを受信することはありません。_ クエリーデータはお客様の検索プロバイダに送信され、そのプロバイダには独自のプライバシーポリシーがあります。
 
-	デスクトップの場合、Firefox は参照データを記録し、Firefox ヘルスレポートの一部として Mozilla に送信します。この機能をオプトアウトまたは無効にする方法など、詳細については、[こちらの記事](https://support.mozilla.org/kb/desktop-attribution-privacy)をご覧ください。
+*__検索候補__:Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびお客様の検索体験を向上させるために、検索クエリーをお客様の検索プロバイダーに送信します。お客様の検索プロバイダが検索候補をサポートしていない場合、これらのデータは送信されません。
+{: #searchsuggestions } 
 
-	__インタラクションデータ__
-	iOS の場合、Firefox はインタラクションデータを Mozilla のモバイルマーケティングベンダーである Leanplum に送信します。Leanplum には独自の[プライバシーポリシー](https://www.leanplum.com/privacy/)があります。このデータにより、Mozilla はさまざまな機能や体験をテストしたり、カスタマイズしたメッセージや推奨事項を提供したりして、Firefox の使い心地を改善することが可能になります。このデータ収集の詳細については、[こちら](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md)をご覧ください。また、この機能を無効にする方法については、[こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)を参照してください。
+[この機能を無効にする方法など、詳細については、](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)こちらをご覧ください、
 
----------------------------------------
+###Firefox アカウント
 
-Firefox は、あなたのリクエストに応じて、Sync、位置情報サービス、クラッシュレポート、アドオンなどの機能を提供する場合にも Mozilla へ接続します。
-{: #optional-features }
+*__Firefox アカウントデータ__:お客様が Firefox アカウントを作成するとき、Mozilla はお客様のメールアドレスおよびパスワードのハッシュを受信します。お客様は、名前またはプロファイル画像を含めるように指定できます。お客様のメールアドレスは、弊社のメールベンダーである SalesForce Marketing Cloud に送信されます。このベンダーには、独自の[プライバシーポリシー](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)があります。お客様がご自分の Firefox アカウントを使用して他のウェブサイトまたはサービス (AMO や Pocket など) にログインする場合、Mozilla はそれらのサービスからお客様がログインしたときのタイムスタンプを受信します。
 
-* **Sync**
-{: #sync }
+*__ロケーションデータ__:セキュリティ上の理由により、Mozilla は、お客様のいる国および都市のおおよその位置を判断する目的で、お客様がお持ちの Firefox アカウントにアクセスしたときに使用した IP アドレスを保管します。Mozilla はこのデータを使用して、他の場所からのアカウントログインなど、不審なアクティビティが検出された場合に、お客様にメールによる通知を送信します。
 
-	[Firefox Sync](https://www.mozilla.org/firefox/sync/) は、Firefox のブックマーク、ブラウジング履歴、パスワード、設定を、お使いのすべての端末間で同期できるようにする機能です。Sync サービスをご利用になる場合は、[Firefox Sync のプライバシーに関する通知](https://accounts.firefox.com/legal/privacy) をご覧ください。
+*__インタラクションデータ__:Mozilla は、Firefox アカウントウェブサイトやメニュー設定への訪問および操作、ならびにオンボーディング、メール、SMS メッセージの操作などのデータを受信します。[Mozilla のウェブサイトやメールに関するデータ実践の詳細については、](https://www.mozilla.org/privacy/websites/) こちらをお読みください。
 
-* **位置情報サービス**
-{: #location-services }
+*__技術データ__:お客様の Firefox アカウントと同期しているデバイスを表示するため、および機能性を目的として、Mozilla はお客様のデバイスのオペレーティングシステム、ブラウザーとバージョン、タイムスタンプ、ロケール、およびお客様のアカウントに接続されているデバイスに関する同情報を保管します。
 
-	Firefox には、サイトがあなたの所在地を尋ねられるようにする (例えば、サイトが地図上にあなたの現在地を表示できるようにする) 機能があります。サイトから所在地を尋ねられた場合、Firefox は所在地を測定、共有する前に、あなたに許可を求めます。所在地を測定するため、Firefox は、オペレーティングシステムの位置情報機能、Wi-Fi ネットワーク、携帯電話基地局、IP アドレスを含む複数のデータを利用する場合があります。所在地の推定にあたって、別途 [プライバシーポリシー](https://www.google.com/privacy/lsf.html) が定められている Google の位置情報サービスへこれらの情報の一部が送信されます。
+完全なドキュメントについては、[こちら](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md)をお読みください。また、アカウントの詳細については[こちら](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts)、アカウントを削除する方法については[こちら](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account)をご覧ください。
 
-* **クラッシュレポート**
-{: #crash-reporter .inproduct-link }
+###同期{: #sync }
 
-	Firefox がクラッシュした場合、あなたは Mozilla へクラッシュレポートを送信するかどうかを選択することができます。このレポートには、Mozilla が Firefox を改良するために必要な、Firefox がクラッシュした理由、クラッシュ時に開かれていた URL、クラッシュ時のコンピュータメモリ状態を含む技術情報が含まれます。Mozilla が受け取るクラッシュレポートには個人情報が含まれる場合があります。クラッシュレポートの一部は https://crash-stats.mozilla.com/ で一般に公開されます。Mozilla は、クラッシュレポートを公開する前に、個人情報を自動的に取り除く措置を講じます。あなたがコメント欄に任意で記入した内容は編集されません。
+*__同期データ__:お客様が同期を有効にした場合、Mozilla は、お客様がデバイス間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの[ドキュメント](http://moz-services-docs.readthedocs.io/en/latest/sync/)もお読みください。
 
-* **SSL エラー**
-{: #ssl-errors }
+*__技術およびインタラクションデータ__:お客様が同期を有効にした場合、Firefox は Telemetry を使用して、同期が実行された日時、成功したか失敗したか、同期を試行したデバイスの種類など、お客様のデータに対する直近の同期試行に関する基本的な情報を定期的に送信します。こちらの[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)もお読みください。
 
-	安全なサイトへの接続が中断された場合、あなたは Mozilla へエラーレポートを送信するかどうかを選択することができます。このレポートには、そのサイトの証明書と診断されたエラーコードが記録されます。これらの情報は、Mozilla が「固定された」サイト証明書の有効性を監視したり、Firefox ユーザに対する潜在的なフィッシング攻撃を検知したりするために役立てられます。
+[同期を有効または無効にする方法については、](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)こちらをご覧ください。
 
-* **アドオン**
-{: #addons }
+###場所 {: #location-services }
 
-	Firefox は、アドオンマネージャの中で、人気のあるアドオンを紹介したり、インストールされているアドオンに基づいてパーソナライズされたおすすめのアドオンを表示したりする「アドオン入手」ページを提供します。Firefox は、パーソナライズされたおすすめのアドオンを表示するため、インストールされているアドオンのリスト、Firefox のバージョン情報、あなたの IP アドレスを含む情報を Mozilla へ送信します。この通信は「アドオン入手」ページが開かれた場合に限って行われ、[こちらの説明](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) に従うことで無効化することもできます。Firefox のアドオンマネージャには、キーワードを入力することにより検索を実行できる検索バーがあり、Mozilla は、おすすめのアドオンを表示するため、検索キーワード、Firefox のバージョン情報、ロケール、OS 情報を収集します。
+*__Google のジオロケーションサービスへの場所データ__:Firefox は必ず、お客様の場所を判断したり、お客様の場所を要求元のウェブサイト (たとえば、マップウェブサイトがルートを提供するためにお客様の場所を必要とする場合) と共有したりする前に、お客様にその旨を尋ねます。場所を判断するために、Firefox はお客様のオペレーティングシステムのジオロケーション機能、Wi-fi ネットワーク、携帯電話の基地局、または IP アドレスを使用する可能性があり、このデータを Google のジオロケーションサービスに送信する可能性があります。このサービスには、独自の[プライバシーポリシー](https://www.google.com/privacy/lsf.html)があります。
 
-* **プッシュ通知**
-{: #push-notifications }
+[詳細については、こちらをご覧ください。](https://www.mozilla.org/firefox/geolocation/).
 
-	プッシュ通知は、サイトがあなたに対して通知や更新を送信できるようにするオプトイン機能です。Firefox は、通知を受け取るため、あなたがプッシュ通知を受け取ることを許可したサイトに関する情報を Mozilla へ送信します。これらの情報は、各サイトが送信する通知の回数とともに匿名形式で保存されます。Mozilla は、開発者がプッシュ通知の使用方法を改善できるようにするため、彼らのサイトでプッシュ通知の購読を開始あるいは解除した訪問者数を含む集計情報を、特定の開発者と共有する場合があります。Firefox のプッシュ通知は [こちらの説明](https://support.mozilla.org/kb/push-notifications-firefox) に従うことで管理できます。
+###Firefox スクリーンショット {: #screenshots }
 
-* **Firefox スクリーンショット**
-{: #screenshots }
+*__スクリーンショットのアップロード__:お客様がアップするように指定したスクリーンショットは Mozilla に送信され、示されている期間だけ保管されます。この期間は変更することが可能です。Mozilla は、サービスの運営上必要であると判断したとき、お客様がアップロードしたスクリーンショットにアクセスすることがあります。お客様はアップロードしたスクリーンショットをいつでも削除できます。
 
-	__スクリーンショットのアップロード__
-	あなたがアップするように指定したスクリーンショットは Mozilla に送信され、示されている期間だけ保管されます。この期間は変更することが可能です。Mozilla は、サービスの運営上必要であると判断したとき、あなたがアップロードしたスクリーンショットにアクセスすることがあります。あなたはアップロードしたスクリーンショットをいつでも削除できます。
+*__インタラクションデータ__:Mozilla は、Firefox スクリーンショットウェブサイトへの訪問、アップロードされたスクリーンショットがお客様または他の人によってアクセスおよび共有される頻度、およびお客様によるボタンやタイトルの操作、ならびにスクリーンショットのキャプチャに関するマウスの動きなどのデータを受信します。
 
-	__インタラクションデータ__
-	Mozilla は、Firefox スクリーンショットウェブサイトへの訪問、アップロードされたスクリーンショットがあなたまたは他の人によってアクセスおよび共有される頻度、およびあなたによるボタンやタイトルの操作、ならびにスクリーンショットのキャプチャに関するマウスの動きなどのデータを受信します。
 Firefox スクリーンショットウェブサイトへの訪問については、Mozilla の[ウェブサイトのプライバシーに関する通知](https://www.mozilla.org/privacy/websites/)に、Mozilla が収集するデータの種類についての説明が記載されています。
 
-	__技術データ__
-	Mozilla は、あなたがアップロードしたスクリーンショットの平均のサイズや数、お使いの Firefox ブラウザのバージョン、デバイスのオペレーティングシステム、およびエラーなどのデータを受信します。Firefox スクリーンショットウェブサイトにアクセスする IP アドレスは、標準的なサーバログの一部として一時的に収集されます。
+*__技術データ__:Mozilla は、お客様がアップロードしたスクリーンショットの平均のサイズや数、お使いの Firefox ブラウザーのバージョン、デバイスのオペレーティングシステム、およびエラーなどのデータを受信します。Firefox スクリーンショットウェブサイトにアクセスする IP アドレスは、標準的なサーバーログの一部として一時的に収集されます。
 
-	詳細なドキュメントについては[こちら](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)をご覧ください。または、[こちら](https://screenshots.firefox.com/leave-screenshots)でお持ちのスクリーンショットをすべて削除してください。
+完全なドキュメントについては[こちら](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)を、さらに詳しい情報については[こちら](https://wiki.mozilla.org/Firefox/Screenshots/FAQs)をお読みください。
 
-特に明記されていない限り、このプライバシーに関する通知は、Firefox の最新の一般リリースバージョンに対するものです。Mozilla のプレリリースバージョン (Beta/Developer Edition、Nightly、および TestFlight) は開発中のものであり、新機能や異なるプライバシー特性を含んでいる場合があります。プレリリースバージョンは[Telemetry データ](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html)を自動的に Mozilla に送信します。このデータは Mozilla が Firefox を改善していく上で役立ちます。
+###ウェブサイト通知 {: #push-notifications }
+
+*__接続データ__:ウェブサイトからの通知を許可した場合、Firefox は Mozilla に接続し、お客様の IP アドレスを使用してメッセージを中継します。Mozilla がメッセージの内容にアクセスすることはできません。
+
+*__インタラクションデータ__:Mozilla は、ウェブサイト通知に対する Firefox 登録および登録解除の数、送信されたメッセージの数、タイムスタンプ、送信者 (特定のウェブサイトプロバイダを含む場合がある) など、集計データを受信します。
+
+完全なドキュメントについては[こちら](https://mozilla-push-service.readthedocs.io/en/latest/)を、ウェブサイト通知を無効にする方法など、詳細については[こちら](https://support.mozilla.org/kb/push-notifications-firefox)をお読みください。
+
+###アドオン {: #addons }
+
+お客様は、addons.mozilla.org (“AMO”)、またはツールバーの Firefox メニューボタンからアクセスできる Firefox アドオンマネージャーからアドオンをインストールできます。
+
+*__検索クエリー__:アドオンマネージャーの検索クエリーは、お客様に推奨のアドオンを提供するため、Mozilla に送信されます。
+
+*__インタラクションデータ__:Mozilla は AMO ウェブサイトおよび Firefox のアドオンマネージャーへの訪問、ならびにそれらのページのコンテンツの操作に関するデータを集計します。Mozilla ウェブサイトのデータ実践については、[こちら](https://www.mozilla.org/privacy/websites/)をお読みください。
+
+*__アップデート用の技術データ__:Firefox は、アップデートをアドオンにインストールするため、Mozilla に定期的に接続します。正しいアップデートを適用するために、お客様がインストールしたアドオン、Firefox のバージョン、言語、およびデバイスのオペレーティングシステムが使用されます。
+
+---
+
+###脚注
+
+このプライバシーに関する通知は、Mozilla により配布された最新一般バージョンの Firefox に対するものです。別のところで Firefox を入手された場合、または古いバージョンを実行されている場合、お使いの Firefox は異なるプライバシー特性を含んでいる可能性があります。
 {: #pre-release }
+
+Mozilla のプレリリース版の Firefox (Nightly、Beta、TestFlight、BuddyBuild などのチャンネルを通じて配布されたもの) は現在開発中であり、異なるプライバシー特性を含んでいる可能性があります。
+
