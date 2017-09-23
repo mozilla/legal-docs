@@ -1,127 +1,157 @@
-# Pernyataan Privasi Peramban Firefox
+﻿## <span class="privacy-header-firefox">Pemberitahuan</span> <span class="privacy-header-policy">Privasi Firefox</span>
 
-20 Juli 2017
-{: datetime="2017-07-20" }
+*Berlaku 28 September 2017*
+{: datetime="2017-09-28" }
 
-Kami peduli pada privasi Anda. Ketika Firefox mengirimkan informasi ke Mozilla (itu kami), [kebijakan privasi](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut.
+## Di Mozilla, kami yakin bahwa privasi sangat penting untuk menciptakan internet yang sehat.
 
-## Hal-hal yang perlu Anda ketahui
+Itulah sebabnya kami membuat Firefox, dan semua produk kami, untuk memberi Anda kontrol yang lebih besar atas informasi yang Anda bagikan di internet dan informasi yang Anda bagikan kepada kami. Kami berusaha untuk hanya mengumpulkan apa yang kami perlukan untuk meningkatkan Firefox bagi semua orang.
 
-Firefox secara otomatis tersambung kepada kami dan penyedia layanan kami untuk memberikan pembaruan, keamanan, Snippet, Laporan Kebugaran Firefox dan fitur lainnya.
-{: #essential-features }
+Dalam Kebijakan Privasi ini, kami menjelaskan apa saja data yang dibagikan Firefox dan mengarahkan Anda ke pengaturan untuk membagikan lebih sedikit informasi. Kami juga mematuhi praktik yang dijabarkan dalam [kebijakan privasi](https://www.mozilla.org/privacy/) Mozilla tentang cara kami menerima, menangani, dan membagikan informasi yang kami kumpulkan dari Firefox.
 
-* **Pembaruan peramban dan pengaya**
-{: #auto-updates }
+## Firefox secara baku membagikan data untuk:
 
-	Pembaruan Peramban: Sekali dalam sehari, Firefox mengirimkan informasi berikut ini ke Mozilla ketika memeriksa pembaruan peramban: informasi versi Firefox Anda, pengaturan bahasa, sistem operasi dan versi. Anda dapat [menonaktifkan pembaruan dengan mengikuti petunjuk berikut ini](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) namun hal tersebut dapat membuat Anda terbuka terhadap kerentanan keamanan.
+### Meningkatkan kinerja dan stabilitas bagi pengguna di mana pun berada {: #health-report }
 
-	Daftar Blokir Pengaya: Firefox menghubungi Mozilla sekali dalam sehari untuk memeriksa informasi pengaya guna memeriksa pengaya yang berbahaya. Ini mencakup, misalnya: versi peramban, sistem operasi dan versi, lokal, jumlah permintaan, waktu permintaan terakhir, jam, alamat IP, dan daftar pengaya yang sudah Anda instal. Anda dapat [menonaktifkan pembaruan meta data](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) kapan saja, namun hal tersebut dapat membuat Anda terbuka terhadap kerentanan keamanan.
+* __Data interaksi__: Firefox mengirimkan data tentang interaksi Anda dengan Firefox kepada kami (seperti jumlah tab dan jendela yang dibuka; jumlah laman web yang dikunjungi; jumlah dan jenis Pengaya Firefox yang dipasang; serta panjang sesi) dan fitur-fitur Firefox yang ditawarkan oleh Mozilla atau mitra kami (seperti interaksi dengan fitur pencarian dan perujuk mitra pencarian Firefox).  
 
-* **Snippet**
+* __Data teknis__: Firefox mengirimkan data tentang versi dan bahasa Firefox Anda; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang kerusakan dan kesalahan; hasil proses otomatis seperti pembaruan, penelusuran aman, dan aktivasi kepada kami.  Saat Firefox mengirimkan data kepada kami, alamat IP Anda akan sementara dikumpulkan sebagai bagian dari log server kami.  
+
+Baca dokumen telemetri untuk [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara [menonaktifkan fitur](https://support.mozilla.org/kb/send-performance-data-improve-firefox) pengumpulan data ini.
+{: #telemetry }
+
+### Mengatur penyedia pencarian baku {: #defaultsearch }
+
+* __Data lokasi__:  Saat Anda menggunakan Firefox untuk pertama kalinya, Firefox akan menggunakan alamat IP Anda untuk mengatur penyedia pencarian baku berdasarkan negara Anda.  [Pelajari selengkapnya](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+
+### Menyarankan konten yang relevan 
+
+Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla) dan Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox).
+
+* __Data lokasi__: Firefox menggunakan alamat IP Anda untuk menyarankan konten yang relevan berdasarkan negara Anda.
+
+* __Data Teknis & Interaksi__: Firefox mengirimi kami data seperti posisi, ukuran, dan letak konten yang kami sarankan, serta data dasar tentang interaksi Anda dengan konten yang disarankan Firefox. Data ini termasuk berapa kali konten yang disarankan tersebut ditampilkan atau diklik.
+
+* __Data laman web untuk Snippet__: Saat Anda memilih untuk mengeklik tautan Snippet, kami mungkin menerima data tentang tautan yang Anda ikuti. Informasi ini tidak terkait dengan informasi lain apa pun tentang Anda. [Pelajari selengkapnya](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-	Beranda baku Firefox (&lt;about:home&gt;) memuat sejumlah kecil informasi tepat di bawah bilah pencarian yang kami anggap akan berguna bagi Anda. Kami menyebutnya "snippet". Sekitar sekali sehari, Firefox tersambung ke Mozilla dan memberi Anda snippet baru, jika ada. Mozilla dapat mengumpulkan seberapa sering snippet dipilih, nama snippet, lokal peramban, dan versi Firefox mana yang Anda gunakan. Kami hanya menyimpan informasi ini setelah 60 hari secara agregat.
+### Meningkatkan keamanan bagi pengguna di mana pun berada {: #security }
 
-	Untuk membantu menampilkan snippet yang cocok, Firefox mengirimkan permintaan bulanan kepada Mozilla untuk mencari lokasi Anda di tingkat negara dengan menggunakan alamat IP. Kami lalu mengirimkan kembali informasi tingkat negara itu ke Firefox, dan disimpan di sana secara lokal. Firefox kemudian akan memilih snippet yang akan ditampilkan kepada Anda berdasarkan informasi negara yang disimpan secara lokal.
+* __Data teknis untuk pembaruan__: Versi Desktop Firefox secara berkala memeriksa pembaruan peramban dengan menyambung ke server Mozilla. Versi dan bahasa Firefox Anda, serta sistem operasi perangkat digunakan untuk menerapkan pembaruan yang tepat. Versi seluler Firefox bisa menyambung ke layanan lain jika Anda menggunakan layanan lain tersebut untuk mengunduh dan memasang Firefox. [Pelajari selengkapnya](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+{: #auto-updates }
 
-	Beberapa snippet Mozilla yang didukung sponsor bersifat interaktif dan memungkinkan Anda secara opsional untuk membagikan nomor telepon atau alamat surel Anda. Misalnya, Anda dapat memasukkan nomor telepon Anda untuk menerima SMS untuk memasang Firefox pada Android. Informasi Anda diterima dan ditangani oleh vendor pemasaran surel dan seluler kami.
+* __Data teknis untuk daftar blokir pengaya__: Firefox untuk Desktop dan Android secara berkala menyambung ke Mozilla untuk melindungi Anda dan pengguna lain dari pengaya berbahaya.  Versi dan bahasa Firefox Anda, serta sistem operasi perangkat, dan daftar pengaya yang dipasang diperlukan untuk menerapkan dan memperbarui daftar blokir pengaya. [Pelajari selengkapnya](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). 
 
-* **Laporan Kebugaran Firefox**
-{: #health-report .inproduct-link }
+* __Laman web dan data teknis untuk layanan SafeBrowsing Google__: Untuk membantu melindungi Anda dari unduhan berbahaya, Firefox akan mengirimkan informasi dasar tentang unduhan yang tidak dikenali ke Layanan SafeBrowsing Google, termasuk nama berkas dan URL tempat berkas itu diunduh.  
 
-	Laporan Kebugaran Firefox (FHR) dirancang untuk memberi Anda wawasan tentang stabilitas dan kinerja peramban Anda serta kiat dukungan ketika Anda mengalami masalah, seperti tingkat kerusakan yang tinggi atau waktu memulai yang lambat. Mozilla mengumpulkan dan menggabungkan data Anda dengan data pengguna Firefox lainnya dan mengirimkannya kembali ke peramban sehingga Anda dapat melihat bagaimana kinerja Firefox Anda berubah dari waktu ke waktu. Data ini termasuk, misalnya: perangkat keras peralatan, sistem operasi, versi Firefox, pengaya (jumlah dan jenis), waktu peristiwa peramban, perenderan, pemulihan sesi, panjang sesi, interaksi dengan titik akses pencarian dan penggunaan kode mitra pencarian Firefox, berapa umur profil, jumlah kerusakan, dan jumlah halaman. FHR tidak mengirimkan URL yang Anda kunjungi ke Mozilla.
+    [Pelajari selengkapnya](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) atau baca [Kebijakan Privasi Google](https://www.google.com/policies/privacy/). Jika fitur ini dinonaktifkan, Firefox tidak dapat memperingatkan Anda tentang situs web atau berkas unduhan yang berpotensi tidak sah atau berbahaya.
 
-	Kami menggunakan data yang dikirimkan melalui FHR untuk menyediakan fungsionalitas FHR bagi pengguna, seperti membantu Anda menganalisis dan mengatasi masalah kinerja peramban Anda. Kami juga menggunakan apa yang kami pelajari dari gabungan data FHR untuk menjadikan Firefox lebih baik. Anda dapat memilih untuk [menonaktifkan fitur berbagi data](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
+* __Data laman web dan teknis kepada Otoritas Sertifikat__: Jika Anda mengunjungi situs web aman (biasanya diidentifikasi dengan URL yang berawalan "HTTPS"), Firefox akan memvalidasi [sertifikat](https://support.mozilla.org/kb/secure-website-certificate) situs web tersebut. Firefox juga mungkin mengirimkan informasi tertentu tentang situs web tersebut kepada Otoritas Sertifikat yang diidentifikasi oleh situs web tersebut.  
 
-* **Keamanan**
-{: #security }
+    Menonaktifkan fitur ini akan meningkatkan risiko disadapnya informasi pribadi Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-	Firefox secara otomatis memeriksa laman web jahat atau palsu, pengaya bermasalah, dan sertifikat SSL yang diterbitkan pihak ketiga.
+### Laporan kerusakan {: #crash-reporter }
+Secara baku di versi desktop Firefox, kami akan menanyakan apakah Anda ingin memberikan laporan dengan informasi lebih rinci tentang kerusakan kepada Mozilla, tetapi Anda selalu bisa memilih untuk menolaknya.
 
-	Sertifikat Situs Web Aman: Ketika Anda mengunjungi situs web yang aman (yaitu "https"), Firefox akan melakukan validasi sertifikat situs web tersebut. Ini mungkin dilakukan setelah berkomunikasi dengan penyedia status pihak ketiga yang disebutkan oleh sertifikat itu. Firefox mengirimkan kepada pihak ketiga ini informasi yang mengidentifikasi [sertifikat](https://support.mozilla.org/kb/secure-website-certificate) situs ini. Anda dapat [mengubah preferensi Anda](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), tetapi jika Anda menonaktifkan fitur verifikasi daring, Firefox tidak dapat melakukan konfirmasi identitas situs web yang Anda kunjungi. Mematikan fitur ini dapat meningkatkan risiko informasi pribadi Anda diambil. Jika Anda menemukan [sambungan tidak tepercaya](https://support.mozilla.org/kb/connection-untrusted-error-message), Anda bisa juga memilih untuk mengirimkan sertifikat terkait ke Mozilla.
+* __Data sensitif__:  Laporan kerusakan meliputi ‘dump file’ konten memori Firefox pada saat terjadi kerusakan, yang mungkin berisi data yang mengidentifikasi Anda atau data sensitif Anda lainnya.
 
-	Perlindungan Pemalsuan dan Penyerangan Firefox: Sekitar dua kali per jam, Firefox mengunduh daftar SafeBrowsing Google untuk membantu memblokir akses ke situs dan unduhan yang berbahaya atau palsu (kebijakan privasi Google ada di <https://www.google.com/policies/privacy/>). Untuk unduhan eksekutabel yang tidak muncul dalam daftar ini, Firefox mungkin mengirimkan metadata, termasuk URL yang terkait dengan berkas yang sudah diunduh, ke layanan SafeBrowsing. Kunjungi <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> untuk mempelajari lebih jauh atau mematikan Safe Browsing. Jika Anda mematikan fitur ini, Firefox tidak dapat memperingatkan Anda tentang situs web atau berkas unduhan yang berpotensi tidak sah atau berbahaya.
+* __Data laman web__:  Laporan kerusakan meliputi URL yang aktif pada saat terjadi kerusakan.
 
-* **Statistik penggunaan** (disebut juga "Telemetri" dalam versi non-rilis)
-{: #telemetry .inproduct-link}
+* __Data teknis__:  Laporan kerusakan meliputi data mengapa Firefox mengalami kerusakan serta status memori perangkat dan eksekusi selama terjadi kerusakan.
 
-	Statistik penggunaan atau "Telemetri" adalah fitur dalam Firefox yang mengirimkan statistik penggunaan, kinerja, dan daya tanggap fitur antarmuka pengguna, memori dan konfigurasi perangkat keras ke Mozilla. Alamat IP Anda juga dikumpulkan sebagai bagian dari log web standar. Statistik penggunaan dikirimkan menggunakan SSL dan membantu kami meningkatkan versi Firefox di masa mendatang. Setelah dikirimkan ke Mozilla, statistik penggunaan digabungkan dan disediakan untuk berbagai pengembang, termasuk karyawan Mozilla dan kontributor umum. Ketika Telemetri diaktifkan, eksperimen jangka pendek tertentu mungkin mengumpulkan informasi tentang situs yang dikunjungi.
+Baca dokumen lengkapnya [di sini](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-	Fitur ini diaktifkan secara baku dalam Nightly dan Firefox build Beta/Developer Edition untuk membantu para pengguna memberikan umpan balik ke Mozilla. Dalam Firefox versi rilis umum, fitur ini dinonaktifkan secara baku.
+### Mengukur dan mendukung pemasaran kami
 
-	Anda dapat [mempelajari lebih jauh tentang Telemetri di sini](https://support.mozilla.org/kb/send-performance-data-improve-firefox) dan cara untuk mengaktifkan atau menonaktifkannya.
+* __Data Pemasaran dan Perujuk__: Ini membantu Mozilla mengukur keefektifan kampanye pemasaran iklan kami.
+{: #referraltracking }
 
-* **Ubin**
-{: #tiles }
+    _Di Desktop_: Firefox secara baku mengirimkan data HTTP Mozilla yang mungkin disertakan dengan pemasang Firefox.  Data ini memungkinkan kami menentukan domain situs web atau pemasaran iklan (jika ada) yang mengarahkan Anda ke laman unduhan kami. Baca [dokumen](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [nonaktifkan fitur ini](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-	Ubin adalah fitur Firefox yang ditampilkan pada laman tab baru. Untuk menyediakan fitur ubin ini, Firefox mengirimkan data yang terkait dengan ubin seperti jumlah klik, impresi, alamat IP Anda, informasi pelokalan dan data tertentu ubin (misalnya posisi dan ukuran grid) kepada Mozilla. Dalam Firefox Beta, eksperimen Telemetri jangka pendek tertentu (lihat di atas) untuk Ubin dapat mengumpulkan informasi tentang domain yang biasa dikunjungi.
+    _Di iOS dan Android_: Firefox secara baku mengirimkan data kampanye pemasaran seluler ke Adjust, vendor analitika kami, yang memiliki [kebijakan privasi sendiri](https://www.adjust.com/privacy_policy/).  Data program pemasaran iklan seluler meliputi ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Baca [dokumennya](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+{: #thirdparty }
 
-* **Pencarian Baku**
-{: #searchsuggestions }
+* __Data Teknis & Interaksi__: 
 
-	Saran pencarian adalah fitur untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain. Saran pencarian ini ditawarkan oleh Mesin Pencari Default Anda (seperti Google, Yahoo, dll.) dan bukan oleh Firefox. Jika Anda mengaktifkan fitur ini, dan Mesin Pencari Default Anda mendukung pemberian saran, Firefox mungkin mengirimkan istilah yang Anda ketik di Bilah Alamat atau Bilah Pencarian ke Mesin Pencari Default Anda untuk mendapatkan saran, dan diatur oleh Kebijakan Privasi Mesin Pencari Default yang berlaku. Anda bisa [mempelajari lebih lanjut tentang Saran Pencarian di sini](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) dan cara mengaktifkan atau menonaktifkannya.
+    _Di iOS dan Android_: Firefox secara baku mengirimkan data tentang fitur apa saja yang Anda gunakan di Firefox kepada Leanplum, vendor pemasaran seluler kami, yang memiliki [kebijakan privasi](https://www.leanplum.com/privacy/) sendiri.  Data ini memungkinkan kami menguji fitur dan pengalaman berbeda, serta memberikan pesan dan rekomendasi yang disesuaikan untuk meningkatkan pengalaman Anda menggunakan Firefox.
 
-* **Pelacakan Perujuk dan Kampanye Pemasaran**{: #thirdparty } ** **{: #referraltracking }
+    Baca dokumen untuk [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) atau [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), atau pelajari cara [menonaktifkan fitur ini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
-	Untuk membantu kami memahami dan meningkatkan kinerja kampanye pemasaran kami, Firefox secara baku mengirimkan informasi tertentu. Informasi ini termasuk “Data Perujuk” seperti domain situs web atau pemasaran iklan yang mengarahkan Anda untuk mengunduh dan memasang Firefox, serta “Data Interaksi” tentang apa saja fitur yang Anda gunakan di Firefox.
+---
 
-	__Data Perujuk__
-	Di perangkat Android dan iOS, Firefox mengirimkan Data Perujuk ke vendor analitika seluler, serta menyertakan ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara menonaktifkan pelaporan ini.
+## Jika Anda menggunakan fitur ini, Firefox akan membagikan data untuk menyediakan fungsi:  {: #optional-features }
 
-	Di desktop, Firefox mencatat dan mengirimkan Data Perujuk ke Mozilla sebagai bagian dari Laporan Kebugaran Firefox. Pelajari selengkapnya [di sini](https://support.mozilla.org/kb/desktop-attribution-privacy), termasuk cara berhenti berlangganan atau menonaktifkan pelaporan ini.
+### Pencarian
 
-	__Data Interaksi__
-	Di iOS, Firefox mengirimkan Data Interaksi ke Leanplum, vendor pemasaran seluler kami, yang memiliki [kebijakan privasi](https://www.leanplum.com/privacy/) sendiri.  Data ini memungkinkan kami menguji fitur dan pengalaman berbeda, serta mengirimkan pesan dan rekomendasi yang disesuaikan untuk meningkatkan pengalaman Anda menggunakan Firefox. Pelajari selengkapnya tentang pengumpulan data ini [di sini](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md), dan cara untuk [menonaktifkan fitur ini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk Bilah Alamat, Bilah Pencarian, atau di Tab Baru.  _Mozilla tidak menerima kueri pencarian Anda._ Data kueri dikirim ke penyedia pencarian Anda, yang memiliki kebijakan privasi sendiri.  
 
----------------------------------------
+* __Saran Pencarian__: Firefox secara baku mengirimkan kueri pencarian kepada penyedia pencarian Anda untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Data ini tidak akan dikirimkan jika penyedia pencarian yang Anda pilih tidak mendukung saran pencarian.
+{: #searchsuggestions } 
 
-Jika Anda memintanya, Firefox juga tersambung ke Mozilla untuk memberi Anda fitur-fitur seperti Sync, layanan lokasi, pelaporan kerusakan, dan pengaya.
-{: #optional-features }
+    [Pelajari selengkapnya](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), termasuk cara menonaktifkan fitur ini.
 
-* **Sync**
-{: #sync }
+### Akun Firefox
 
-	[Firefox Sync](https://www.mozilla.org/firefox/sync/) adalah layanan yang memungkinkan Anda untuk melakukan sinkronisasi markah Firefox, riwayat penjelajahan, sandi, dan pengaturan di semua perangkat Anda. Jika Anda menggunakan layanan Sync, Anda dapat membaca [pernyataan privasi Sync Firefox](https://accounts.firefox.com/legal/privacy).
+* __Data Akun Firefox__: Mozilla menerima alamat email dan hash kata sandi Anda saat Anda membuat Akun Firefox.  Anda bisa memilih untuk menyertakan nama tampilan atau gambar profil.  Alamat email Anda dikirimkan ke vendor email kami, SalesForce Marketing Cloud, yang memiliki [kebijakan privasi](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) sendiri. Jika Anda menggunakan Akun Firefox untuk masuk ke situs web atau layanan lain (seperti AMO atau Pocket), kami akan menerima stempel waktu saat Anda masuk dari layanan tersebut. 
 
-* **Layanan lokasi**
-{: #location-services }
+* __Data lokasi__: Demi keamanan, kami menyimpan alamat IP yang Anda gunakan untuk mengakses Akun Firefox untuk memperkirakan kota dan negara Anda.  Kami menggunakan data ini untuk mengirimkan email peringatan jika mendeteksi aktivitas mencurigakan, seperti aktivitas masuk ke akun dari lokasi lain.
 
-	Firefox memiliki fitur yang memungkinkan situs meminta lokasi Anda (misalnya, memungkinkan situs ini menampilkan lokasi Anda pada peta). Jika sebuah situs meminta lokasi Anda, Firefox mencari izin Anda sebelum menentukan dan membagikan lokasi Anda. Untuk menentukan lokasi Anda, Firefox bisa menggunakan berbagai data untuk menentukan lokasi Anda, termasuk fitur geolokasi sistem operasi Anda, jaringan WiFi, menara ponsel atau alamat IP. Untuk memperkirakan lokasi Anda, beberapa informasi ini dikirimkan ke layanan geolokasi Google, yang memiliki [kebijakan privasi](https://www.google.com/privacy/lsf.html) sendiri.
+* __Data interaksi__: Kami menerima data seperti kunjungan ke dan interaksi dengan situs web dan preferensi menu Akun Firefox, serta interaksi dengan pesan selamat datang, email dan SMS. [Baca selengkapnya](https://www.mozilla.org/privacy/websites/) tentang praktik data Mozilla untuk situs web dan email.  
 
-* **Pelaporan kerusakan**
-{: #crash-reporter .inproduct-link }
+* __Data teknis__: Untuk menampilkan perangkat mana yang disinkronkan ke Akun Firefox Anda dan untuk fungsionalitas, kami menyimpan sistem operasi perangkat Anda, peramban dan versinya, stempel waktu, bahasa, dan informasi yang sama untuk perangkat yang tersambung ke akun Anda.  
 
-	Anda memiliki opsi untuk mengirimkan laporan kerusakan ke Mozilla setelah Firefox mengalami kerusakan. Laporan ini berisi informasi teknis bagi kami untuk memperbaiki Firefox, termasuk penyebab kerusakan Firefox, URL aktif pada saat kerusakan terjadi, dan status memori komputer selama kerusakan. kerusakan crash yang kami terima bisa mengandung informasi pribadi. Kami mempublikasikan bagian-bagian dari laporan kerusakan di <https://crash-stats.mozilla.com/>). Sebelum mepmublikasikan laporan kerusakan, kami mengambil langkah-langkah untuk secara otomatis menyunting informasi pribadi. Kami tidak menyunting apa pun yang mungkin Anda tulis di kotak komentar.
+Baca [dokumen lengkapnya](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) atau [pelajari selengkapnya](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), termasuk cara [menghapus akun Anda](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
 
-* **Kesalahan SSL**
-{: #ssl-errors }
+### Sync {: #sync }
 
-	Anda memiliki opsi untuk mengirim laporan kesalahan ke Mozilla ketika koneksi situs web aman rusak. Laporan ini mencatat sertifikat situs web serta kode kesalahan diagnostik. Informasi ini membantu Mozilla memantau efektivitas sertifikat situs web "yang disematkan" dan mendeteksi potensi serangan penipuan terhadap para pengguna kami.
+* __Data yang disinkronkan__: Jika Anda mengaktifkan Sync, Mozilla akan menerima informasi yang Anda sinkronkan di seluruh perangkat dalam bentuk enkripsi. Informasi ini mungkin meliputi tab Firefox, pengaya, kata sandi, informasi pengisian otomatis pembayaran, markah, riwayat, dan preferensi.  Menghapus Akun Firefox Anda akan menghapus konten Firefox Sync terkait. Anda juga bisa membaca [dokumennya](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+  
+* __Data Teknis dan Interaksi__: Jika Anda mengaktifkan sync, Firefox akan secara berkala mengirimkan informasi dasar menggunakan Telemetri tentang upaya terbaru untuk menyinkronkan data Anda, seperti kapan, apakah berhasil atau gagal, dan jenis perangkat yang berusaha melakukan sinkronisasi. Anda juga bisa membaca [dokumennya](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
-* **Pengaya**
-{: #addons }
+[Pelajari selengkapnya](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), termasuk cara mengaktifkan atau menonaktifkan sync.
 
-	Firefox menawarkan laman Unduh Pengaya dari Pengelola Pengaya yang menampilkan pengaya populer dan memuat rekomendasi personal berdasarkan pengaya yang sudah Anda instal. Untuk menampilkan rekomendasi personal, Firefox mengirimkan informasi ke Mozilla, yang berisi daftar pengaya yang sudah Anda instal, informasi versi Firefox, dan alamat IP Anda. Komunikasi ini hanya terjadi ketika area Unduh Pengaya terbuka dan dapat dimatikan dengan mengikuti [petunjuk ini](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Pengelola pengaya dalam Firefox memiliki bidang pencarian yang dapat Anda gunakan untuk melakukan pencarian dengan cara memasukkan kata kunci dan Mozilla mengumpulkan pencarian kata kunci ini, serta informasi versi, lokal, dan sistem operasi untuk menampilkan rekomendasi bagi Anda.
+### Lokasi {: #location-services }
 
-* **Notifikasi Push**
-{: #push-notifications }
+* __Data lokasi ke layanan geolokasi Google__: Firefox akan selalu bertanya sebelum menentukan dan membagikan lokasi Anda kepada situs web yang memintanya (misalnya, jika situs web peta memerlukan lokasi Anda untuk memberikan petunjuk arah).  Untuk menentukan lokasi, Firefox bisa menggunakan fitur geolokasi sistem operasi Anda, jaringan Wi-fi, tower ponsel, atau alamat IP, dan mungkin mengirimkan data ini ke layanan geolokasi Google, yang memiliki [kebijakan privasi](https://www.google.com/privacy/lsf.html) sendiri.
 
-	Notifikasi Push memungkinkan situs mengirimkan notifikasi dan pembaruan kepada Anda jika Anda berlangganan. Untuk menerima notifikasi, Firefox akan mengirimkan informasi ke Mozilla tentang situs yang sudah Anda setujui Notifikasi Push-nya. Kami menyimpan informasi ini dalam formulir anonim, beserta jumlah notifikasi yang dikirimkan oleh masing-masing situs. Untuk membantu pengembang meningkatkan penggunaan Notifikasi Push, Mozilla mungkin memberikan informasi yang dikumpulkan kepada pengembang tertentu termasuk jumlah pengunjung situs mereka yang berlangganan atau berhenti berlangganan Notifikasi Push mereka. Anda bisa mengelola Notifikasi Push di Firefox dengan mengikuti [petunjuk ini](https://support.mozilla.org/kb/push-notifications-firefox).
+[Pelajari selengkapnya](https://www.mozilla.org/firefox/geolocation/).
 
-* **Tangkapan Layar Firefox**
-{: #screenshots }
+### Tangkapan Layar Firefox {: #screenshots }
 
-	__Unggahan Tangkapan Layar__
-	Tangkapan layar yang Anda pilih untuk diunggah akan dikirimkan ke Mozilla dan disimpan dalam waktu yang ditentukan, dan bisa Anda ubah.  Kami bisa mengakses tangkapan layar yang Anda unggah jika memang diperlukan untuk pengoperasian layanan.  Anda bisa menghapus tangkapan layar yang Anda unggah kapan saja.  
+* __Unggahan tangkapan layar__: Tangkapan layar yang Anda pilih untuk diunggah akan dikirimkan ke Mozilla dan disimpan dalam waktu yang ditentukan, dan bisa Anda ubah.  Kami bisa mengakses tangkapan layar yang Anda unggah jika memang diperlukan untuk pengoperasian layanan.  Anda bisa menghapus tangkapan layar yang Anda unggah kapan saja.  
 
-	__Data Interaksi__
-	Kami menerima data seperti kunjungan ke situs web Tangkapan Layar Firefox, seberapa sering tangkapan layar yang diunggah diakses dan dibagikan oleh Anda atau orang lain, serta interaksi Anda dengan tombol, ubin, dan gerakan mouse yang terkait dengan pengambilan tangkapan layar.  
-Untuk kunjungan ke situs web Tangkapan Layar Firefox, [pemberitahuan privasi situs web kami](https://www.mozilla.org/privacy/websites/) menjelaskan jenis-jenis data yang kami kumpulkan. 
+* __Data interaksi__: Kami menerima data seperti kunjungan ke situs web Tangkapan Layar Firefox, seberapa sering tangkapan layar yang diunggah diakses dan dibagikan oleh Anda atau orang lain, serta interaksi Anda dengan tombol, ubin, dan gerakan mouse yang terkait dengan pengambilan tangkapan layar.
 
-	__Data Teknis__
-	Kami menerima data seperti ukuran dan jumlah rata-rata tangkapan layar yang Anda unggah, versi browser Firefox Anda, sistem operasi perangkat, dan kesalahan.  Alamat IP yang mengakses situs web Tangkapan Layar Firefox sementara dikumpulkan sebagai bagian dari log server standar. 
+    Untuk kunjungan ke situs web Tangkapan Layar Firefox, [pemberitahuan privasi situs web](https://www.mozilla.org/privacy/websites/) kami menjelaskan jenis-jenis data yang kami kumpulkan.
 
-	Baca dokumen lengkapnya [di sini](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) atau hapus semua tangkapan layar Anda [di sini](https://screenshots.firefox.com/leave-screenshots).
+* __Data teknis__: Kami menerima data seperti ukuran dan jumlah rata-rata tangkapan layar yang Anda unggah, versi peramban Firefox Anda, sistem operasi perangkat, dan kesalahan.  Alamat IP yang mengakses situs web Tangkapan Layar Firefox sementara dikumpulkan sebagai bagian dari log server standar. 
 
-Kecuali disebutkan lain, pemberitahuan privasi ini khusus Firefox versi rilis umum terbaru. Versi rilis awal (Beta/Developer Edition, Nightly, dan TestFlight) masih mengalami pengembangan aktif dan mungkin memuat fitur baru atau memiliki karakteristik privasi berbeda. Versi rilis awal akan otomatis mengirimkan [data Telemetri](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) ke Mozilla untuk membantu kami meningkatkan Firefox.
+Baca [dokumen lengkapnya](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) atau [pelajari selengkapnya](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
+
+### Notifikasi situs web {: #push-notifications }
+
+* __Data koneksi__: Jika Anda mengizinkan situs web untuk mengirimi Anda notifikasi, Firefox akan menyambung ke Mozilla dan menggunakan alamat IP Anda untuk merelai pesan tersebut.  Mozilla tidak bisa mengakses konten pesan.    
+
+* __Data interaksi__: Kami menerima data agregat seperti jumlah langganan dan penghentian langganan Firefox untuk notifikasi situs web, jumlah pesan yang dikirim, stempel waktu, dan pengirim (yang bisa mencakup penyedia situs web spesifik).  
+
+Baca [dokumen lengkapnya](https://mozilla-push-service.readthedocs.io/en/latest/) atau [pelajari selengkapnya](https://support.mozilla.org/kb/push-notifications-firefox), termasuk cara membatalkan notifikasi situs web.
+
+### Pengaya {: #addons }
+
+Anda bisa memasang Pengaya dari addons.mozilla.org (“AMO”) atau dari Pengelola Pengaya Firefox, yang bisa diakses dari tombol menu Firefox di bilah alat.
+ 
+* __Kueri pencarian__: Kueri pencarian di Pengelola Pengaya dikirimkan ke Mozilla untuk menampilkan Pengaya yang disarankan.  
+
+* __Data interaksi__:  Kami menerima data agregat tentang kunjungan ke situs web AMO dan Pengelola Pengaya di Firefox, serta interaksi dengan konten di laman tersebut. Baca tentang praktik data di [situs web Mozilla](https://www.mozilla.org/privacy/websites/).
+
+* __Data teknis untuk pembaruan__: Firefox secara berkala menyambung ke Mozilla untuk memasang pembaruan pada Pengaya.  Pengaya yang dipasang, versi dan bahasa Firefox Anda, serta sistem operasi perangkat digunakan untuk menerapkan pembaruan yang tepat.  
+
+---
+
+### Catatan kaki
+
+Pemberitahuan privasi ini untuk versi rilis umum terbaru Firefox yang didistribusikan oleh Mozilla.  Jika Anda mendapatkan Firefox dari tempat lain, atau menjalankan versi yang lebih lama, salinan Firefox Anda mungkin memuat karakteristik privasi berbeda.  
 {: #pre-release }
+
+Firefox versi rilis Mozilla sebelumnya (yang didistribusikan melalui saluran seperti Nightly, Beta, TestFlight dan BuddyBuild) masih dalam pengembangan aktif dan mungkin memuat karakteristik privasi berbeda. 
+

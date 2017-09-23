@@ -1,129 +1,157 @@
-# Firefox 浏览器隐私权保护事宜通知
+﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-2017 年 7 月 20 日
-{: datetime="2017-07-20" }
+*生效时间：2017 年 9 月 28 日*
+{: datetime="2017-09-28" }
 
-我们关心您的隐私。当 Firefox 向 Mozilla（即本公司）发送信息时，我们的[隐私权政策](https://www.mozilla.org/privacy/) 会就我们如何处理相关信息加以说明。
+##在 Mozilla，我们认为隐私是健康互联网的基石。
 
-## 用户须知
+这就是我们创建 Firefox 以及所有产品的初衷，目的是让您能够更好地控制您在网上共享的信息以及与我们共享的信息。我们力求只收集为大家改进 Firefox 而需要的信息。
 
-Firefox 可自动与我们和我们的服务提供商连线，以提供更新、安全、片段 (Snippet)、Firefox 系统状况报告和其它功能。
-{: #essential-features }
+在本“隐私声明”中，我们会说明 Firefox 共享的数据，并帮助您设置，以减少共享内容。我们还遵守在 Mozilla [隐私政策](https://www.mozilla.org/privacy/)中规定的，有关如何获取、处理并共享我们从 Firefox 收集的信息的惯例。
 
-* **浏览器和附加组件更新**
-{: #auto-updates }
+##默认情况下，Firefox 会共享数据，以：
 
-	浏览器更新：每日一次；在检查浏览器是否有更新时，Firefox 会向 Mozilla 发送以下信息：您使用的 Firefox 版本信息、语言偏好、操作系统和版本。您可以[按照以下说明关闭更新功能](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)，但这可能会使您无法防范某些安全隐患。
+###为各地的用户改进性能和稳定性 {: #health-report }
 
-	附加组件黑名单：Firefox 每天例行与 Mozilla 联系一次，以检查附加组件信息，检查是否有恶意附加组件。这些信息包括但不限于：浏览器版本、操作系统和版本、系统语言环境、请求使用相关组件的总次数、上次请求时间、当日时间、IP 地址和您已安装的附加组件列表。您可以随时[关闭元数据更新功能](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)，但这可能会使您无法防范某些安全隐患。
+*__交互数据__：Firefox 会发送以下相关数据给我们：您与 Firefox 的交互（例如，打开的选项卡和窗口的数量；访问网页的数量；已安装 Firefox 附加组件的数量和类型；以及会话时长），以及由 Mozilla 或我们的合作伙伴所提供的 Firefox 功能（例如与 Firefox 搜索功能的交互以及搜索合作伙伴的推荐）。
 
-* **片段**
+*__技术数据__：Firefox 会发送以下相关信息给我们：您 Firefox 的版本和语言；设备操作系统和硬件配置；内存、有关崩溃和错误的基本信息；诸如更新、安全浏览和激活等自动化流程的结果。当 Firefox 向我们发送数据时，会临时收集您的 IP 地址作为我们服务器日志的一部分。
+
+阅读针对[桌面](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 的遥测技术文档，或者了解如何[选择退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)该数据收集功能。
+{: #telemetry }
+
+###设置默认的搜索引擎 {: #defaultsearch }
+
+*__位置数据__：当您第一次使用 Firefox 时，它会使用您的 IP 地址，根据您所在的国家来设置默认的搜索引擎。[了解更多信息](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
+
+###推荐相关内容
+
+Firefox 会显示诸如“Snippet”(来自 Mozilla 的消息）和常用网站（由 Mozilla 推荐给 Firefox 首次用户的网站）的内容。
+
+*__位置数据__：Firefox 会使用您的 IP 地址，根据您所在的国家来推荐相关内容。
+
+*__技术和交互数据__：Firefox 会向我们发送以下数据，如：我们推荐内容的位置、大小及放置，以及有关您与 Firefox 推荐内容的交互的基本数据。这包括显示或点击推荐内容的次数。
+
+*__Snippet 的网页数据__：当您选择点击 Snippet 链接时，我们可能会收到有关您所进入链接的数据。该信息与您的任何其他相关信息都无关。[了解更多信息](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
 
-	Firefox 的默认主页 (&lt;about:home&gt;) 会在搜索栏下方加载少量我们认为对您有用的信息。我们将其称为“片段”。Firefox 大约每天会与 Mozilla 连线一次，为您提供最新的片段（若有）。Mozilla 可收集片段的点击频率、片段名称、浏览器语言环境和您使用的 Firefox 的版本等信息。我们仅以汇总形式将这些信息保留 60 天。
+###为各地用户提高安全性 {: #security }
 
-	为了显示相关的片段，Firefox 每月会向 Mozilla 发送请求，通过您的 IP 地址查看您所在的国家或地区。我们随后会将这一信息发回给 Firefox，由其在当地储存。Firefox 然后将基于这一当地储存的国家或地区信息选择向您显示的片段。
+*__有关更新的技术数据__：Firefox 的桌面版本会通过连接到 Firefox 服务器，定期查看浏览器更新。要应用适当的更新，须使用您的 Firefox 版本、语言和设备操作系统等相关信息。如果您曾经使用一个 Firefox 的移动版本来下载和安装 Firefox，则可以用它连接到其他服务。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
+{: #auto-updates }
 
-	一些 Mozilla 赞助的片段是互动性的，您可以选择是否与其分享您的电话号码或电子邮件地址。例如，您可以输入您的电话号码来接收短信，以在所用 Android 手机上安装 Firefox。您的信息由我们的电子邮件和手机营销供应商负责接收和处理。
+*__附加组件黑名单的技术数据__：Firefox 桌面版本和 Android 版本会定期连接到 Mozilla 以保护您及其他人，免遭恶意附加组件的攻击。要应用和更新附加组件黑名单，需要您的 Firefox 版本和语言、设备操作系统以及已安装附加组件的列表等相关信息。[了解更多信息](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)。
 
-* **Firefox 系统状况报告**
-{: #health-report .inproduct-link }
+*__Google SafeBrowsing 服务的网页和技术数据__：为了保护您免遭恶意下载的攻击，Firefox 会将有关无法识别的下载的基本信息发送给 Google 的 SafeBrowsing 服务，包括文件名和下载的来源 URL。
 
-	Firefox 系统状况报告 (FHR) 旨在为您提供有关所用浏览器的稳定性和使用性能方面的信息，以及您在遇到故障率高或者启动时间长等问题时所需的支持提示。Mozilla 收集并汇总您和其他 Firefox 用户的数据，并将其发回给浏览器，以便您查看所用 Firefox 浏览器的性能随时间推移的变化情况。这些数据包括但不限于：设备硬件、操作系统、Firefox 版本、附加组件（数目和类型）、浏览事件的发生时间、处理情况、会话恢复、会话时长、与搜索访问点的互动和使用 Firefox 搜索伙伴代码、设置文件的新旧程度、故障次数和页面数等。FHR 不会向 Mozilla 发送您访问的网址 (URL)。
+[了解更多信息](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)或者阅读 [Google 的隐私政策](https://www.google.com/policies/privacy/)。选择退出会阻止 Firefox 提醒您有关潜在非法或恶意的网站或下载的文件。
 
-	我们使用通过 FHR 发送的数据为用户提供 FHR 功能方面的信息，用以帮助您分析和解决浏览器在使用性能方面的问题。我们还可用汇集的 FHR 数据改进 Firefox 的总体性能。您可以选择[关闭数据分享功能](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off)。
+*__证书颁发机构的网页和技术数据__：当您访问安全网站（通常以“HTTPS”开头的 URL 进行标识）时，Firefox 会验证该网站的[证书](https://support.mozilla.org/kb/secure-website-certificate)。该过程可能涉及 Firefox 向该网站所标识的证书颁发机构发送有关该网站的特定信息。
 
-* **安全**
-{: #security }
+选择退出会增加您的隐私信息被拦截的风险。[了解更多信息](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
-	Firefox 会自动检查恶意或伪造网页、损坏的附加组件和第三方颁发的 SSL 证书。
+###崩溃报告 {: #crash-reporter }
+默认情况下，在 Firefox 的桌面版本上，我们会要求您与 Mozilla 共享有关崩溃的，包含更多详细信息的报告，但是您永远可以选择拒绝。
 
-	安全网站证书：当您访问一个安全网站（即 https）时，Firefox 将验证该网站的证书。此项验证可能需与证书指定的第三方状态提供商通信。Firefox 将向所及第三方发送信息，以鉴定该网站的[证书](https://support.mozilla.org/kb/secure-website-certificate)。您可以[修改您的偏好](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)，但如果您禁用在线验证功能，Firefox 则无法识别您所到网站。关闭此功能可能会增加您的私人信息被截获的风险。若遇到[不受信任的连接](https://support.mozilla.org/kb/connection-untrusted-error-message)，您也可以选择将相关证书发送给 Mozilla。
+*__敏感数据__：崩溃报告包括 Firefox 内存内容在崩溃时的“转储文件”，其中可能包含标识您身份的数据或者在其他方面对您敏感的数据。
 
-	Firefox 对伪造和攻击的防护：Firefox 每小时大约两次下载 Google 的安全浏览列表，以助用户封锁这些恶意或伪造网站及其下载内容（Google 的隐私权政策请见 <https://www.google.com/policies/privacy/>）。对于不在此列表中的已下载的可执行文件，Firefox 可向安全浏览服务发送包括与下载文件相关 URL 在内的元数据。有关安全浏览功能或如何关闭这一功能方面的详细信息，请访问 <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work>。如果您禁用这些功能，Firefox 将无法就潜在非法或恶意网站及下载文件对您发出警报。
+*__网页数据__：崩溃报告包括崩溃时的活动 URL。
 
-* **使用情况统计**（在非发布版本中亦称“遥测”功能）
-{: #telemetry .inproduct-link}
+*__技术数据__：崩溃报告包括有关 Firefox 崩溃原因的数据，以及崩溃时设备内存的状态和执行情况。
 
-	使用情况统计或“遥测”是 Firefox 的一项功能，用于向 Mozilla 传送有关用户界面功能、内存和硬件配置的使用、性能和响应方面的统计数据。您的 IP 地址也作为标准网络日志的一部分加以收集。使用情况统计通过 SSL 输送，用以帮助我们在将来的版本中对 Firefox 进行改进。发送给 Mozilla 后，使用情况统计将被汇总提供给各方开发者，其中包括 Mozilla 的员工和公益开发者。启用遥测功能时，某些短期实验项目可能会用之收集所访问网站的信息。
+请在[此处](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html)阅读完整文档。
 
-	在 Nightly 和 Beta/Developer Edition 版本的 Firefox 中，此功能默认开启，以帮助这些用户向 Mozilla 提供反馈。在 Firefox 的一般发行版本中，此功能默认关闭。
+###市场营销的举措和支持
 
-	您可[在此了解更多关于遥测功能的信息](https://support.mozilla.org/kb/send-performance-data-improve-firefox) 以及如何启用和关闭方面的说明。
+*__营销活动和推荐数据__：这可以帮助 Mozilla 了解我们市场营销活动的成效。
+{: #referraltracking }
 
-* **磁贴**
-{: #tiles }
+_桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这可让我们确定推荐您到我们下载页面的网站域名或广告活动（如有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-	磁贴是 Firefox 在新标签页上显示的一项功能。为了提供磁贴功能，Firefox 会向 Mozilla 发送与磁贴相关的数据，如点击数、印记、您的 IP 地址、语言环境信息和磁贴的相关信息（如位置和方格尺寸）。在 Beta 版的 Firefox 中，磁贴功能的一些短期遥测实验项目（见上），可能会用来收集用户经常访问的域名。
+_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/privacy_policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html)。
+{: #thirdparty }
 
-* **默认搜索**
-{: #searchsuggestions }
+*__技术和交互数据__：
 
-	搜索建议功能可以帮助您找到其他人搜索过的常见短语。这些搜索建议是由您的默认搜索引擎（如 Google、Yahoo 等）提供的，并非来自 Firefox。如果您启用了这一功能，且您的默认搜索引擎支持搜索建议，则 Firefox 可能将您在智能地址栏或搜索栏中输入的词语发送给您的默认搜索引擎以获取建议。这一操作受到您默认搜索引擎适用的隐私政策的约束。您可以[在这里了解更多关于搜索建议的信息](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)以及如何启用或禁用这一功能。
+_iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使用了哪些功能的相关数据发送给我们的移动市场营销供应商 Leanplum，它拥有自己的[隐私政策](https://www.leanplum.com/privacy/)。该信息可让我们测试不同的功能和体验，并提供定制消息和建议，以改善您使用 Firefox 的体验。
 
-* **引荐和广告活动追踪**{: #thirdparty } ** **{: #referraltracking }
+阅读针对 [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 的文档，或者了解如何[禁用该功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
-	为了帮助我们了解和改进市场营销活动，Firefox 默认发送某些信息。这些信息包括“引荐数据”，例如引荐您下载并安装 Firefox 的网站域名或广告活动，以及关于您使用 Firefox 中哪些功能的“互动数据”。
+---
 
-	__引荐数据__
-	在 Android 和 iOS 设备上，Firefox 向移动分析供应商发送引荐数据，并且包括 Google 广告 ID、IP 地址、时间戳、国家/地区、区域设置、操作系统及应用程序版本。点击[此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解更多，包括如何禁用此报告。
+##如果您使用这些功能，Firefox 会共享数据以提供功能：{: #optional-features }
 
-	在桌面设备上，Firefox 记录并发送引荐数据到 Mozilla，以作为 Firefox 系统状况报告的一部分。点击[此处](https://support.mozilla.org/kb/desktop-attribution-privacy) 了解更多，包括如何选择退出或禁用此报告。
+###搜索
 
-	__互动数据__
-	在 iOS 设备上，Firefox 将互动数据发送给 Leanplum — 我们的移动市场营销供应商，他们有自己的[隐私政策](https://www.leanplum.com/privacy/)。此数据可让我们测试不同的功能和体验，以及提供定制的消息和推荐，以便改进您使用 Firefox 的体验。点击[此处](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 了解关于此数据收集的更多信息，以及如何[禁用此功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
+您可以从 Firefox 中的多个位置直接执行搜索，包括地址栏、搜索栏，或新建标签页。_Mozilla 不会接收您的搜索查询。_查询数据会被发送到您的搜索引擎，它拥有自己的隐私政策。
 
----------------------------------------
+*__搜索建议__：默认情况下，Firefox 会将您的搜索查询发送到您的搜索引擎，以帮助您查找其他人已经搜索过的常用词语，并改善您的搜索体验。如果您选择的搜索引擎不支持搜索建议，则不会发送这些数据。
+{: #searchsuggestions } 
 
-当您提出要求时，Firefox 还能与 Mozilla 连线为您提供诸如同步、定位服务、故障报告和附加组件等功能。
-{: #optional-features }
+[了解更多信息](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包括如何禁用该功能。
 
-* **同步**
-{: #sync }
+###Firefox 账户
 
-	[Firefox 同步](https://www.mozilla.org/firefox/sync/) 是一项服务，允许您在所用各种设备上同步您的 Firefox 书签、浏览历史、密码和设置。如果您使用同步服务，请阅读[Firefox 同步服务隐私权政策通知](https://accounts.firefox.com/legal/privacy)。
+*__Firefox 账户数据__：当您创建 Firefox 账户时，Mozilla 会收到您的电子邮件地址以及您密码的散列值。您可以选择包括显示名或个人资料图像。您的电子邮件地址会被发送到我们的电子邮件供应商 SalesForce Marketing Cloud，它拥有自己的[隐私政策](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)。如果您使用 Firefox 账户登录其他网站或服务（如 AMO 或 Pocket），我们会收到您登录这些服务的时间戳。
 
-* **定位服务**
-{: #location-services }
+*__位置数据__：出于安全目的，我们会存储您用于访问您的 Firefox 账户的 IP 地址，以大概了解您所在的城市和国家。在我们检测到可疑活动时，如从其他位置登录账户，我们会利用该数据向您发送电子邮件通知。
 
-	Firefox 的定位功能允许网站请求获得您所在地信息（例如，允许相关网站在地图上显示您所在位置）。若某网站请求您的位置信息，Firefox 会在向其提供该信息之前征求您的许可。为了确定您所在位置，Firefox 可能使用一些数据进行判断，包括您所用操作系统的地理定位功能、WiFi 网络、手机信号塔或 IP 地址。估测您所在位置时，系统需将其中一些信息发送给 Google 的地理定位服务，该项服务有其自己的[隐私权政策](https://www.google.com/privacy/lsf.html)。
+*__交互数据__：我们会收到以下数据，如：访问 Firefox 账户网站和菜单首选项以及与其交互的数据,以及与用户引导、电子邮件或短消息之间交互的数据。[阅读](https://www.mozilla.org/privacy/websites/)有关 Mozilla 网站和电子邮件之数据操作的更多信息。
 
-* **故障报告**
-{: #crash-reporter .inproduct-link }
+*__技术数据__：为了显示哪些设备与您的 Firefox 账户同步并为了功能要求,我们会存储您的设备操作系统、浏览器和版本、时间戳、区域设置，以及连接到您账户的设备的同样信息。
 
-	当 Firefox 出现故障时，您可通过相关选项，向 Mozilla 发送故障报告。此报告含能使我们改进 Firefox 的技术信息，其中包括 Firefox 出现故障的原因、出现故障时使用的 URL 以及出现故障时计算机内存的状态等资讯。我们所收到的故障报告中可能包含个人信息。我们会在 <https://crash-stats.mozilla.com/> 向公众提供部分故障报告。在向公众发布故障报告之前，我们会按操作步骤自动移除个人信息。我们不会移除您在评论栏中填写的任何内容。
+阅读[完整文档](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md)或者[了解更多信息](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts)，包括如何[删除您的账户](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account)。
 
-* **SSL 错误**
-{: #ssl-errors }
+###同步服务{: #sync }
 
-	当某一加密网站连接出现问题时，您可通过相关选项，向 Mozilla 发送错误报告。此报告将记录网站证书以及诊断用的错误代码。此信息有助于 Mozilla 监控“固定式”网站证书的效果并检测对用户的潜在钓鱼式攻击。
+*__同步数据__：如果您启用“同步服务”，Mozilla 会以加密形式收到您跨设备同步的信息。这可能包括 Firefox 标签页、附加组件、密码、付款自动填充信息、书签、历史记录以及首选项。删除您的 Firefox 账户也会删除相关的 Firefox 同步服务的内容。您也可以阅读[文档](http://moz-services-docs.readthedocs.io/en/latest/sync/)。
 
-* **附加组件**
-{: #addons }
+*__技术和交互数据__：如果您启用同步服务，Firefox 会使用遥测功能，定期发送有关最近试图同步您的数据的基本信息，例如，同步时间、是成功还是失败，以及试图同步的设备类型。您也可以阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)。
 
-	Firefox 在附加组件管理器中提供有“获取附加组件”页面，其中列有热门附加组件，并可根据您已经安装的附加组件显示相关的个性化推荐。为了显示个性化推荐，Firefox 会将相关信息发送给 Mozilla，其中包括您已经安装的附加组件列表、Firefox 版本信息以及您的 IP 地址。此通信只在“获取附加组件”页面打开时才会发生，而且您可在需要时按照[这里的说明](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)将其关闭。Firefox 的附加组件管理器里有一个搜索栏，您可以在此输入关键词进行搜索，Mozilla 会收集这些关键词搜索以及您所用的 Firefox 版本信息、语言环境和操作系统，用以为您显示相关推荐。
+[了解更多信息](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)，包括如何启用或禁用同步服务。
 
-* **推送通知**
-{: #push-notifications }
+###位置{: #location-services }
 
-	如果您启用了推送通知，网站就可以向您发送通知和更新。为了获取通知，Firefox 会将您同意接受推送通知的网站信息发送给 Mozilla。 我们会在匿名表格中存储这一信息，以及每个网站向您发送的通知数量。 为了帮助开发者改进他们对于推送通知的使用，Mozilla 可能会与某些开发者分享汇总信息，包括有多少网站访问者订阅了或者取消订阅了他们的推送通知。您可以遵照[这些说明](https://support.mozilla.org/kb/push-notifications-firefox)在 Firefox 中管理推送通知。
+*__Google 地理位置服务的位置数据__：在确定并与请求网站共享您的位置信息之前，Firefox 始终会询问您（例如，当地图网站需要您的地理位置来提供路线时）。为了确定位置，Firefox 可能会使用您操作系统的地理位置功能、Wi-fi 网络、手机信号发射塔或 IP 地址，而且可能将这些数据发送到 Google 的地理位置服务，它拥有自己的[隐私政策](https://www.google.com/privacy/lsf.html)。
 
-* **Firefox 截图**
-{: #screenshots }
+[了解更多信息](https://www.mozilla.org/firefox/geolocation/)。
 
-	__上传截图__
-	您选择上传的截图会发送给 Mozilla 并按照指示的限定时长保存。您可更改此时长。在服务运营的必要情况下，我们可能访问您上传的截图。您可以随时删除上传的截图。  
+###Firefox Screenshots {: #screenshots }
 
-	__互动数据__
-	我们收到多种数据，例如对 Firefox 截图网站的访问、您或他人访问和分享所上传截图的次数以及您与捕捉截图相关的按钮、磁贴及鼠标运动的互动。  
-关于对 Firefox 截图网站的访问，我们的[网站隐私声明](https://www.mozilla.org/privacy/websites/) 描述了我们所收集数据的类型。 
+*__上传截图__：您选择上传的截图会被发送到 Mozilla 并存储指示的限定时间，您可以更改该时间。在运行服务的合理必要时，我们可以访问您上传的截图。您可以随时删除您上传的截图。
 
-	__技术数据__
-	我们接收不同的数据，例如您所上传截图的平均大小和数量、您的 Firefox 浏览器版本、设备操作系统及错误。访问 Firefox 截图网站的 IP 地址会暂时收集为标准服务器日志的一部分。 
+*__交互数据__：我们会收到以下数据，如：对 Firefox Screenshots 网站的访问、您或其他人访问并共享上传截图的频率以及您与抓怕截图相关的按钮、方块和鼠标移动的交互。
 
-	阅读完整文档，点击[此处](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) 或删除您的所有截图，点击[此处](https://screenshots.firefox.com/leave-screenshots)。
-	
-##
+有关对 Firefox Screenshots 网站的访问，我们的[网站隐私声明](https://www.mozilla.org/privacy/websites/)介绍了我们可能额外收集的数据类型。
 
-除非另有说明，否则本隐私权声明旨在用于最近全面发行的几个 Firefox 版本。我们推出的几个预发行版本 (Beta/Developer Edition、Nightly 以及 TestFlight) 目前仍处于积极开发中，可能会有一些新功能，或在隐私保护方面各有不同的特点。这些预发行版本会自动将[遥测数据](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) 发送给 Mozilla，用以帮助我们改进 Firefox。
+*__技术数据__：我们会收到以下数据，如：您上传截图的平均大小和数量、您的 Firefox 浏览器版本、设备操作系统以及错误。访问 Firefox Screenshots 网站的 IP 地址会被临时收集，以作为标准服务器日志的一部分。
+
+阅读[完整文档](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)或者[了解更多信息](https://wiki.mozilla.org/Firefox/Screenshots/FAQs)。
+
+###网站通知 {: #push-notifications }
+
+*__连接数据__：如果您允许网站向您发送通知，Firefox 会连接 Mozilla 并使用您的 IP 地址来中继消息。Mozilla 无法访问这些消息的内容。
+
+*__交互数据__：我们会收到以下汇总数据，如：Firefox 订阅和取消订阅网站通知的数量、已发送消息的数量、时间戳和发件人（可能包括特定的建站资源）。
+
+阅读[完整文档](https://mozilla-push-service.readthedocs.io/en/latest/)或者[了解更多信息](https://support.mozilla.org/kb/push-notifications-firefox)，包括如何撤消网站通知。
+
+###附加组件 {: #addons }
+
+您可以从 addons.mozilla.org（“AMO”）或 “Firefox 附加组件管理器”安装附加组件，后者可以从工具栏的 Firefox 菜单按钮进行访问。
+
+*__搜索查询__：“附加组件管理器”中的搜索查询会被发送到 Mozilla，以为您提供推荐的附加组件。
+
+*__交互数据__：我们会收到以下汇总数据：对 AMO 网站和 Firefox 中“附加组件管理器”的访问，以及与这些页面上内容的交互。阅读有关 [Mozilla 网站](https://www.mozilla.org/privacy/websites/)上数据操作的信息。
+
+*__有关更新的技术数据__：Firefox 会定期连接到 Mozilla，以安装附加组件的更新。要应用适当的更新，须使用您安装的附加组件、Firefox 版本、语言和设备操作系统等相关信息。
+
+---
+
+###脚注
+
+本隐私声明适用于由 Mozilla 发布的 Firefox 最新一般发行版本。如果您从其他地方获得 Firefox，或者运行旧版，您的 Firefox 副本可能包含不同的隐私特性。
 {: #pre-release }
+
+Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、TestFlight 和 BuddyBuild 等渠道发布）正在积极的开发中，可能包含不同的隐私特性。
+
