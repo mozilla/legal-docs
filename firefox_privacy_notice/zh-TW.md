@@ -17,7 +17,7 @@
 
 *__技術資料__：Firefox 會傳送您的 Firefox 版本及語言、裝置作業系統及硬體配置、發生錯誤時的記憶體及基本資訊、更新、安全瀏覽、啟用等自動化程序執行的結果等資料給我們。Firefox 將資料傳送給我們的時候，我們也會暫時收集您的 IP 地址，列在我們伺服器的紀錄內。
 
-請閱讀 Telemtry 功能的說明文件：[桌機版](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
+請閱讀 Telemetry 功能的說明文件：[桌機版](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
 {: #telemetry }
 
 ###設定預設搜尋提供商{: #defaultsearch }
