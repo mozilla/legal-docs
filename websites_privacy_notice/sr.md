@@ -1,7 +1,7 @@
 # Obaveštenje o privatnosti po pitanju sajtova, komunikacije i kolačića
 
-11. april 2017.
-{: datetime="2017-04-11" }
+6. septembar 2017.
+{: datetime="2017-09-06" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
 
@@ -32,7 +32,7 @@ Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i 
     * IP adrese se koriste za prilagođavanje obaveštenja prema jeziku i zemlji.  
     * Podaci o uređaju, kao što su zemlja, jezik, operater i OEM, mogu se koristiti za prilagođavanje sadržaja na sajtovima Marketplace i Webmaker kompanije Firefox.
 
-* **Merni parametri**: Možemo koristiti i kolačiće, podatke o uređaju i IP adrese, uz prazne GIF-ove, kolačiće i usluge treće strane da bismo razumeli zbirno kako korisnici ulaze u interakciju s našim proizvodima, uslugama, saopštenjima, sajtovima, internet kampanjama, isečcima, uređajima i drugim platformama. Koristimo:
+* **Analitika**: Možemo koristiti kolačiće, podatke o uređaju i IP adrese, kao i čiste GIF-ove, kolačiće i servise treće strane koji nam pomažu da razumemo zbirno interakciju korisnika sa našim proizvodima, uslugama, komunikacijama, veb sajtovima, internet kampanjama, isečcima, uređajima i ostalim platformama. Koristimo:
     * Google Analytics, koji postavlja kolačić na vaš uređaj u cilju dobijanja mernih parametara o tome kako korisnici ulaze u interakciju s našim sajtovima.      To nam pomaže da poboljšamo sadržaj sajtova.  
     * Optimizely i ShareProgress, koji postavljaju kolačić na vaš uređaj kako bi nam pomogli da testiramo varijacije internet sadržaja.  To nam pomaže da ponudimo korisnicima bolji veb doživljaj.
     * DoubleClick i Flashtalking, koji koriste prazan GIF na našoj stranici za preuzimanje pregledača Firefox.  To nam pomaže da merimo efektivnost naših reklamnih kampanja.
@@ -42,14 +42,14 @@ Koristimo kolačiće, prazne GIF-ove, programe za veb analitiku treće strane i 
 
 ---------------------------------------
 
-Možete kontrolisati pojedinačna podešavanja kolačića, naznačiti drugima svoja željena podešavanja kolačića, odabrati samo tekstualne poruke e-pošte i odjaviti se od alata za veb analitiku i optimizaciju. 
+Možete kontrolisati pojedinačna željena podešavanja kolačića, naznačiti drugima svoja željena podešavanja kolačića ili se odjaviti od analitike veba i alata za optimizaciju. 
 {: #user-choices }
 
 * **Istorijat kolačića**: U okviru podešavanja pretraživača Firefox, u delu Alati/Opcije/Istorijat privatnosti, možete prihvatiti ili odbiti pojedinačne kolačiće. Imajte na umu da neke funkcije naših proizvoda i usluga možda neće pravilno raditi bez pomoći kolačića.
 
 * **Ne pratite**: Mozilla ne prati korisnike na sajtovima trećih strana radi ciljanog oglašavanja. Ako ste konfigurisali svoj pregledač da šalje signal „Ne pratite“ prilikom posete našim sajtovima, Mozilla neće koristiti nijedan od alata opisanih u delu [Merni parametri](#data-tools) section.
 
-* **E-pošta**: Naša marketinška saopštenja su fakultativna i možete se odjaviti u dnu poruke e-pošte ili izmenom svojih [željenih podešavanja e-pošte za servis Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/). Možete isključiti funkciju praznih GIF-ova tako što ćete naše poruke e-pošte primati samo u tekstualnom formatu.  
+* **E-pošta**: Naša marketinška saopštenja su fakultativna i možete se odjaviti u dnu poruke e-pošte ili izmenom svojih [željenih podešavanja e-pošte za servis Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/).
 
 * **Analitika i optimizacija**: Pratite uputstva u nastavku da biste sprečili prikupljanje podataka o Vašim posetama veb sajtovima Mozilla:
     *  Google: Instalirajte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), koji omogućava anonimnost vaših poseta i zabranjuje prenos podataka servisu Google Analytics. Neke stranice Mozilla.org koriste prazne GIF-ove koji komuniciraju sa servisom DoubleClick kako bismo razumeli efektivnost naših reklamnih kampanja; možete da kontrolišete personalizovane reklame servisa DoubleClick u podešavanjima reklama kompanije Google (pojaviće se poruka da se prijavite na svoj Google nalog).
