@@ -1,7 +1,7 @@
 # Politica de confidențialitate privind site-urile web, comunicările și cookie-urile
 
-11 aprilie 2017
-{: datetime="2017-04-11" }
+6 septembrie 2017
+{: datetime="2017-09-06" }
 
 Ne pasă de confidențialitatea datelor dvs. Atunci când Mozilla (adică noi) colectează informații despre dvs., [politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) descrie modul în care prelucrăm aceste informații.
 
@@ -53,7 +53,7 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 
 * **Nu mă urmări**: Mozilla nu urmărește utilizatorii pe site-uri web terțe pentru a furniza publicitate direcționată.  Dacă ați configurat browser-ul să transmită un semnal „Nu mă urmări” la accesarea site-urilor noastre, Mozilla nu va utiliza niciunul dintre instrumentele descrise în secțiunea [Indicatori metrici](#data-tools). 
 
-* **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/). Puteți dezactiva funcționalitatea „clear GIF”-urilor prin vizualizarea e-mailurilor în format „numai text”.
+* **E-mail**: Primirea comunicărilor noastre de marketing este opțională, putându-vă dezabona din subsolul e-mailului sau actualizând [preferințele dvs. de e-mail Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Statistici și optimizare**: Dacă doriți să opriți colectarea de date privind vizitele dvs. pe site-urile web Mozilla, urmați instrucțiunile de mai jos:
    *  Google: Instalați [suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), care păstrează vizitele dvs. anonime și interzice transmiterea de date către Google Analytics. Unele pagini Mozilla.org folosesc clear GIFs, care comunică cu DoubleClick pentru a ne ajuta să înțelegem eficiența campaniilor noastre publicitare; puteți controla reclamele personalizate din DoubleClick utilizând setările Google pentru reclame (va trebui să vă conectați la contul dvs. Google).
