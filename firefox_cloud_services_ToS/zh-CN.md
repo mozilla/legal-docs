@@ -1,4 +1,4 @@
-最后更新于 2014 年 3 月 26 日
+最后更新时间：2017 年 9 月 26 日
 
 #### 摘要
 
@@ -15,15 +15,17 @@
 
 2. #### Firefox 帐户
 
-    要使用服务，您将需要创建一个 Firefox 帐户。在注册过程中，系统将提示您设置密码。您有责任对自己的密码保密，并对通过 Firefox 帐户进行的活动负责。对于因您的 Firefox 帐户遭到未经授权使用而造成的任何损失，Mozilla 概不负责。
+    为了能够使用部分 Services，您需要创建一个 Firefox 帐户。在注册期间，会要求您设置密码。您有责任为您的密码保密，并且应对通过 Firefox 帐户发生的活动负责。对于因未经授权使用 Firefox 帐户而产生的任何损失，Mozilla 概不负责。
 
 3. #### 功能
 
     Firefox Sync 允许您跨设备访问存储在 Firefox 中的信息，包括您的选项卡、智能地址栏、密码、书签和浏览器首选项。您可以通过 Firefox 的“工具”部分启用和禁用 Firefox Sync。
+    
+    Firefox Screenshots 可让您抓怕网页内容，您或者其他人可以在日后查看这些内容。请参阅[此处](https://www.mozilla.org/en-US/about/legal/report-infringement/)以报告有关 Screenshots 版权或商标侵权的索赔。若要报告不当使用,请将截图链接用电子邮件发送给我们：screenshots-report@mozilla.com。
 
 4. #### 隐私政策
 
-    [Firefox Cloud Services 隐私声明](https://www.mozilla.org/privacy/firefox-cloud/)说明了有关我们从您使用 Services 而接收的信息以及我们如何使用此类信息的详细信息。我们将根据 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)的规定使用通过 Services 接收的信息。
+    [Firefox 隐私声明](https://www.mozilla.org/en-US/privacy/firefox/)详细介绍了我们会从您使用 Services 收到什么信息，以及我们会如何使用该信息。我们会按照 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)中的规定,使用通过 Services 收到的信息。
 
 5. ####  Services 中您的内容
 
