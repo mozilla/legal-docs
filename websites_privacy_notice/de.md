@@ -1,7 +1,7 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-11. April 2017
-{: datetime="2017-04-11" }
+6. September 2017
+{: datetime="2017-09-06" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -45,7 +45,7 @@ Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-Adressen
 
 ---------------------------------------
 
-Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellungen anderen mitteilen, Nur-Text-E-Mails auswählen und sich von Web-Analyse- und Optimierungs-Werkzeugen abmelden. 
+Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellungen Anderen gegenüber mitteilen und Web-Analyse- und Optimierungs-Werkzeuge per Opt-out deaktivieren. 
 {: #user-choices }
 
 * **Cookie-Chronik**: Sie können einzelne Cookies in Ihren Firefox-Einstellungen im Bereich „Einstellungen/Datenschutz/Chronik“ akzeptieren oder ablehnen. Bitte beachten Sie, dass einige Funktionen unserer Produkte und Dienste ohne Cookies möglicherweise nicht richtig funktionieren.
@@ -53,7 +53,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 
 * **Do Not Track**: Mozilla verfolgt Benutzer nicht über Websites Dritter hinweg, um speziell auf sie abzielende Werbung anzuzeigen. Falls Sie Ihren Browser so konfiguriert haben, dass ein „Do Not Track“-Signal gesendet wird, wenn auf unsere Websites zugegriffen wird, verwendet Mozilla keines der in den [Metriken](#data-tools) section beschriebenen Tools.
 
-* **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen.  
+* **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen.
 
 * **Analyse und Optimierung**: Folgen Sie den nachstehenden Anweisungen, um zu verhindern, dass Daten zu Ihren Besuchen auf Mozilla-Websites erfasst werden:
     *  Google: Installieren Sie das [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), mit dem Ihre Besuche anonym bleiben und keine Daten an Google Analytics übertragen werden. Manche Mozilla.org-Seiten verwenden Clear-GIFs, die mit DoubleClick kommunizieren, um Informationen über die Effektivität von Werbekampagnen einzuholen. Sie können personalisierte Anzeigen von DoubleClick in den Anzeigeeinstellungen von Google steuern (Sie werden aufgefordert, sich bei Ihrem Google-Konto anzumelden).
