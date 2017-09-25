@@ -1,4 +1,4 @@
-Utoljára frissítve: 2014. augusztus 29-én
+Utoljára frissítve: 2017. szeptember 26-án
 
 #### Összefoglaló
 
@@ -15,7 +15,7 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
 
 2. #### Firefox-fiókok
 
-    A Szolgáltatások használatához létre kell hoznia egy Firefox-fiókot.  A regisztráció során meg kell adnia egy jelszót. Ön felel jelszava titokban tartásáért és a Firefox-fiókon keresztül történő tevékenységekért. A Mozilla nem felel semmilyen, a Firefox-fiók jogosulatlan használatából eredő kárért.
+    Néhány Szolgáltatás használatához létre kell hoznia egy Firefox-fiókot.  A regisztráció során meg kell adnia egy jelszót. Ön felel jelszava titokban tartásáért és a Firefox-fiókján keresztül történő tevékenységekért. A Mozilla nem felel semmilyen, az Ön Firefox-fiókja jogosulatlan használatából eredő kárért.
 
 3. #### Funkciók
 
@@ -24,10 +24,12 @@ Az első fejezet az alábbiakban olvasható feltételek összefoglalása. Az ös
     Az Eszközkereső opció lehetővé teszi, hogy megállapítsa a Firefox OS eszköz helyét, és hogy bizonyos funkcióit vezérelje, például a jelenlegi hely megtekintését, a helyi tartalmak törlését, a csengőhang bekapcsolását, vagy üzenet megjelenítését. Ezeket a funkciókat akkor tudja használni, ha eszköze beállításaiban bekapcsolta az Eszközkeresés opciót. Az Eszközkeresés akkor is működik, ha eszközén a hangjelzéseket és a helymeghatározási beállításokat némára állították vagy kikapcsolták. Ezt a funkciót eszköze beállításai között kapcsolhatja ki.
 
     Ha eszköze elvész, jelentkezzen be erre a címre: https://find.firefox.com/' saját Firefox-fiókjának hitelesítő adataival, hogy megtalálhassa és távolról vezérelhesse eszközét. A rendszer jelenti nekünk az eszköz hozzávetőleges helyét, amint az eszközt bekapcsolták és csatlakoztatták az internetre. Az esetlegesen felmerülő adatátvitellel kapcsolatos díjak Önt terhelik. Ha úgy véli, hogy eszközét eltulajdonították, vegye fel a kapcsolatot a rendészeti szervekkel. A személyes adatok megadásakor legyen körültekintő, mivel az eszközén megjelenő üzenetek elérhetőek a nyilvánosság számára.
+    
+    A Firefox képernyőképekkel rögzítheti weboldalak tartalmát, hogy azokat később Ön vagy mások megtekinthessék. [Itt](https://www.mozilla.org/en-US/about/legal/report-infringement/) láthatja, hogy hogyan jelentheti be képernyőképeken, ha szerzői jogokat vagy védjegyeket sértenek meg. Visszaélések jelentéséhez küldje le nekünk a felvételhez vezető hivatkozást a screenshots-report@mozilla.com címre.
 
 4. #### Adatvédelmi irányelvek
 
-    A [Firefox Cloud Services Adatvédelmi Nyilatkozat](https://www.mozilla.org/privacy/firefox-cloud/) részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a [Mozilla Adatvédelmi Irányelvek](https://www.mozilla.org/privacy/) részben leírtak szerint használjuk fel.
+    A [Firefox Adatvédelmi Nyilatkozat](https://www.mozilla.org/en-US/privacy/firefox/) részletesen leírja, hogy milyen adatokhoz férünk hozzá azáltal, hogy Ön használja a Szolgáltatásokat, valamint kifejti, hogyan használjuk fel ezen információkat. A Szolgáltatások révén kapott információkat a [Mozilla Adatvédelmi Irányelvek](https://www.mozilla.org/privacy/) részben leírtak szerint használjuk fel.
 
 5. #### A Szolgáltatások használata során keletkezett saját tartalom
 
