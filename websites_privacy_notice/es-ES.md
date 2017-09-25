@@ -1,7 +1,7 @@
 # Aviso de privacidad sobre sitios web, mensajes y cookies
 
-11 de abril de 2017
-{: datetime="2017-04-11" }
+6 de septiembre de 2017
+{: datetime="2017-09-06" }
 
 Nos importa su privacidad. El uso que hacemos de la información que recopila Mozilla (es decir, nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
@@ -46,7 +46,7 @@ Utilizamos cookies, GIF transparentes y otros análisis web de terceros, así co
 
 ---------------------------------------
 
-Puede configurar las cookies individualmente, indicar sus preferencias de cookies en relación con terceros, seleccionar la opción de solo texto en mensajes de correo electrónico y denegar el uso de análisis web y herramientas de optimización.
+Puede configurar de forma individual las preferencias de cookies, mostrar sus preferencias de cookies a otros y desactivar el análisis web y las herramientas de optimización.
 {: #user-choices }
 
 * **Historial de cookies**: Puede aceptar o rechazar las cookies individualmente en las preferencias de Firefox, en la sección Historial disponible en Herramientas > Opciones > Privacidad. Tenga en cuenta que es posible que algunas características de nuestros productos y servicios no funcionen correctamente si no se tiene las cookies habilitadas.
@@ -54,7 +54,7 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
 
 * **No quiero ser rastreado**: Mozilla no rastrea a los usuarios hasta sitios web de terceros para ofrecer publicidad personalizada.  Si ha configurado su navegador para que envíe la señal de “No rastrear” al acceder a nuestras páginas web, Mozilla no utilizará ninguna de las herramientas mencionadas en la sección [Indicadores](#data-tools).
 
-* **Correo electrónico**: Nuestros mensajes de publicidad son opcionales y puede cancelar su suscripción desde el pie de página del mensaje de correo electrónico o actualizando las [preferencias de correo de Mozilla](https://www.mozilla.org/newsletter/recovery/). Puede desactivar la función de los GIF transparentes si visualiza nuestros mensajes de correo electrónicos en el formato de solo texto.
+* **Correo electrónico**: Nuestros mensajes de publicidad son opcionales y puede cancelar su suscripción desde el pie de página del mensaje de correo electrónico o actualizando las [preferencias de correo de Mozilla](https://www.mozilla.org/newsletter/recovery/). 
 
 * **Análisis y optimización**: Si no desea la recopilación de datos sobre sus visitas a los sitios web de Mozilla siga las instrucciones a continuación:
    *  Google: Instale el [complemento de exclusión para navegadores de Google Analytics](https://tools.google.com/dlpage/gaoptout), que mantiene sus visitas anónimas y prohíbe la transmisión de datos a Google Analytics. Algunas páginas de Mozilla.org usan GIF transparentes que se comunican con DoubleClick para averiguar la eficacia de nuestras campañas publicitarias. Puede controlar los anuncios personalizados de DoubleClick a través de los ajustes de Google (se le pedirá que inicie sesión en su cuenta de Google).
