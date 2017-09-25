@@ -1,4 +1,4 @@
-Última actualización: 29 de agosto de 2014
+Última actualización: 26 de septiembre de 2017
 
 #### Resumen
 
@@ -15,7 +15,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 2. #### Cuentas de Firefox
 
-    Para poder utilizar los Servicios, deberá crear una cuenta de Firefox.  Durante el proceso de registro, tendrá que definir una contraseña. Usted es el único responsable de la confidencialidad de su contraseña y la actividad de su cuenta. Mozilla no se responsabiliza de ninguna pérdida derivada de un uso no autorizado de su cuenta de Firefox.
+    Con el fin de usar algunos de los Servicios, deberá crear una cuenta de Firefox.  Durante el proceso de registro se le pedirá que cree una contraseña. Usted es responsable de mantener la confidencialidad de su contraseña y de la actividad realizada a través de su cuenta de Firefox. Mozilla no se responsabiliza de las pérdidas que se producen como consecuencia del uso no autorizado de su cuenta de Firefox.
 
 3. #### Características
 
@@ -24,10 +24,12 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     Buscar mi dispositivo le permite ubicar de forma remota y controlar algunas funciones de un dispositivo Firefox OS, como la visualización de ubicaciones recientes, eliminar contenido local, activar el tono de llamada o el bloqueo de pantalla, o mostrar un mensaje. Para usar estas funciones, debe activar Buscar mi dispositivo en los ajustes de su dispositivo.  Buscar mi dispositivo funcionará incluso si los ajustes de sonido y ubicación de su dispositivo están silenciados o apagados. Puede desactivar esta función en los ajustes de su dispositivo.
 
     Si ha perdido su dispositivo, puede entrar en https://find.firefox.com/' usando las credenciales de su cuenta de Firefox para localizar y controlar de forma remota su dispositivo. Se nos informará sobre la ubicación aproximada de su dispositivo en cuanto el dispositivo esté activado y conectado a Internet.  En caso pertinente, se deberá hacer cargo del coste asociado con la transmisión de datos. Si cree que su dispositivo ha sido robado, póngase en contacto con la policía local. Tenga cuidado a la hora de compartir información personal porque los mensajes mostrados en su dispositivo son accesibles públicamente.
+    
+    Firefox Screenshots le permite realizar capturas de pantalla de contenido web para que usted y otros usuarios puedan verlo en otro momento. Pulse [aquí](https://www.mozilla.org/en-US/about/legal/report-infringement/) para obtener información sobre cómo denunciar posibles infracciones de derechos de autor y de marcas comerciales en el servicio Screenshots. Para notificar un abuso, envíe un enlace a la captura de pantalla en screenshots-report@mozilla.com.
 
 4. #### Política de privacidad
 
-    El [Aviso de privacidad de Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) describe en detalle qué recibimos del uso que usted hace de los Servicios y cómo utilizamos dicha información. Utilizamos la información que recibimos a través de los Servicios del modo descrito en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
+    El [Aviso de privacidad de Firefox](https://www.mozilla.org/en-US/privacy/firefox/) especifica la información que recibimos sobre el uso que hace de los Servicios y cómo usamos dicha información. Usamos la información que recibimos a través de los Servicios tal y como describe nuestra [política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Su contenido en nuestros Servicios
 
