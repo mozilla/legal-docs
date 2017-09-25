@@ -1,4 +1,4 @@
-Ostatnia aktualizacja: 29 sierpnia 2014 r.
+Ostatnia aktualizacja: 26 września 2017 r.
 
 #### Streszczenie
 
@@ -15,7 +15,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 2. #### Konta Firefox
 
-    Do korzystania z Usług wymagane jest utworzenie konta Firefox. Podczas rejestracji użytkownik zostanie poproszony o ustawienie hasła. Użytkownik ponosi odpowiedzialność w zakresie zachowania poufności hasła oraz działań wykonywanych za pośrednictwem jego konta Firefox. Firma Mozilla nie ponosi odpowiedzialności za jakiekolwiek straty wynikające z nieautoryzowanego użycia konta Firefox użytkownika.
+    Do korzystania z niektórych Usług wymagane jest utworzenie konta Firefox.  Podczas rejestracji użytkownik zostanie poproszony o ustawienie hasła. Użytkownik ponosi odpowiedzialność w zakresie zachowania poufności hasła oraz działań wykonywanych za pośrednictwem jego konta Firefox. Firma Mozilla nie ponosi odpowiedzialności za jakiekolwiek straty wynikające z nieautoryzowanego użycia konta Firefox użytkownika.
 
 3. #### Funkcje
 
@@ -24,10 +24,12 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
     Funkcja Znajdź moje urządzenie umożliwia zdalne lokalizowanie urządzeń z systemem Firefox OS oraz kontrolowanie niektórych ich funkcji, takich jak wyświetlanie ostatnich lokalizacji, kasowanie zawartości lokalnej, włączanie dzwonka lub ekranu blokady czy wyświetlanie wiadomości. Aby korzystać z tych funkcji, należy włączyć funkcję Znajdź moje urządzenie w ustawieniach urządzenia. Funkcja Znajdź moje urządzenie będzie działać nawet po wyciszeniu lub wyłączeniu dźwięku i ustawień lokalizacji w urządzeniu. Funkcję można wyłączyć w ustawieniach urządzenia.
 
     W przypadku zagubienia urządzenia można zalogować się na stronę https://find.firefox.com/' przy użyciu danych konta Firefox, aby zlokalizować i zdalnie kontrolować urządzenie. Jeśli urządzenie jest włączone i połączone z Internetem, otrzymamy jego przybliżoną lokalizację. Za wszelkie ewentualne opłaty związane z transmisją danych odpowiada użytkownik. W razie podejrzeń, że urządzenie zostało skradzione, należy skontaktować się z organami ścigania. Przy udostępnianiu danych osobowych należy zachować ostrożność, ponieważ wiadomości wyświetlane na urządzeniu są publicznie dostępne.
+    
+    Funkcja Firefox Screenshots umożliwia wykonywanie, przeglądanie i udostępnianie zrzutów ekranu z zawartością strony. Nadużycia praw autorskich lub znaków towarowych w Firefox Screenshots można zgłaszać na [tej stronie](https://www.mozilla.org/en-US/about/legal/report-infringement/). Żeby dokonać zgłoszenia, wyślij wiadomość e-mail z odnośnikiem do zrzutu na adres screenshots-report@mozilla.com.
 
 4. #### Polityka prywatności
 
-    Dokument [Zasady prywatności usług Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
+    Dokument [Polityka prywatności Firefoksa](https://www.mozilla.org/en-US/privacy/firefox/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika, oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Zawartość użytkownika w naszych Usługach
 
