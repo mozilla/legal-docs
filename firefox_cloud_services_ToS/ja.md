@@ -26,8 +26,7 @@
 
 4. #### プライバシーポリシー
 
-    [Firefox のプライバシーに関する通知](https://www.mozilla.org/en-US/privacy/firefox/)では、皆様が本サービスをご利用になる場合に Mozilla に送信される情報ならびに Mozilla による当該情報の取り扱い方法について詳しく説明しています。
-Mozilla は、本サービスを通じて受信する情報を、Mozilla プライバシーポリシー[の記載に従って利用します](https://www.mozilla.org/privacy/)。
+    [Firefox のプライバシーに関する通知](https://www.mozilla.org/en-US/privacy/firefox/)では、皆様が本サービスをご利用になる場合に Mozilla に送信される情報ならびに Mozilla による当該情報の取り扱い方法について詳しく説明しています。Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。
 
 5. #### 本サービスのコンテンツ
 
