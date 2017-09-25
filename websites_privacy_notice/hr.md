@@ -1,7 +1,7 @@
 # Napomene o privatnosti za web-mjesta, komunikacije i kolačiće
 
-11. travnja 2017.
-{: datetime="2017-04-11" }
+6. rujna 2017.
+{: datetime="2017-09-06" }
 
 Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](http://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
 
@@ -32,7 +32,7 @@ Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adr
     * IP adrese su korištene za prilagodbu sadržaja za određeni jezik i zemlju.  
     * Podaci o uređaju poput zemlje, jezika, operatera i OEM-a, mogu se koristiti za prilagodbu iskustva na Firefox Marketplaceu i Webmakeru.
 
-* **Metričke**: Možemo koristiti kolačiće, podatke uređaja ili IP adrese, zajedno s čistim GIF-ovima, kolačićima i uslugama treće strane za pomoć kod prikupljanja podataka kako korisnici uključuju naše proizvode, usluge, komunikacije, web stranice, kampanje na mreži, isječke, uređaje i druge platforme. Koristimo:
+* **Metrički podaci**: Također možemo koristiti kolačiće, informacije o uređaju i IP-adrese, uz jasne GIF-ove, kolačiće i usluge treće strane kako bismo bolje shvatili cijelu sliku o tome kako korisnici dolaze u doticaj s našim proizvodima, uslugama, komunikacijom, internetskim stranicama, internetskim kampanjama, isječcima, uređajima i drugim platformama. Koristimo:
     * Google Analytics, koja postavlja kolačiće na vaš uređaj kako bi de dobile metrike o tome kako korisnik uključuje naše web stranice.      Ovo nam pomaže poboljšati sadržaj web mjesta.  
     * Optimizely i ShareProgress, koji postavljaju kolačiće na vaš uređaj za provjeru različitih web sadržaja.  Ovo nam pomaže ponuditi bolje web iskustvo za korisnike.
     * DoubleClick i Flashtalking, koji koriste čisti GIF na našoj Firefox stranici za preuzimanje.  To nam pomaže izmjeriti učinkovitost naših kampanja za oglašavanje.
@@ -42,14 +42,14 @@ Koristimo kolačiće, čiste GIF-ove, analitike interneta treće strane i IP adr
 
 ---------------------------------------
 
-Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke kolačića drugima, odabrati samo tekstualne poruke e-pošte i isključiti analitiku interneta i alate za optimizaciju. 
+Možete upravljati pojedinačnim postavkama kolačića, pokazati drugima na vaše postavke kolačića te se odjaviti iz analitičkih i optimizacijskih alata. 
 {: #user-choices }
 
 * **Povijest kolačića**: Možete prihvatiti ili odbiti pojedinačne kolačiće u postavkama Firefox u odjeljku Alati/Opcije/Povijest privatnosti. Imajte na umu da neke značajke naših proizvoda i usluga možda neće ispravno funkcionirati bez kolačića.
 
 * **Ne prati me**: Mozilla ne prati korisnike kroz web-mjesta treće strane radi omogućavanja ciljanog oglašavanja. Ako ste konfigurirali preglednik za slanje „Do Not Track” signala prilikom pristupa našim web stranicama, Mozilla neće koristiti nijedan alat opisan u [Metrike](#data-tools) section. 
 
-* **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/). Možete onemogućiti funkciju čistih GIF-ova pregledom poruke e-pošte u samo tekstualnom formatu.  
+* **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/).
 
 * **Analitike i optimizacija**: Slijedite upute u nastavku za sprječavanje prikupljanja podataka o posjetu na Mozilla Web-mjesta:
     *  Google: Instalirajte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), koji vaše posjete održava anonimnim I zabranjuje prijenos podataka na Google Analytics. Neke Mozilla.org stranice koriste jasne GIF-ove koji komuniciraju s DoubleClick za razumijevanje učinkovitosti našim kampanja za oglašavanje; možete kontrolirati prilagođene oglase iz DoubleClick u postavkama Google oglasa (od vas će se tražiti da se prijavite u Google račun).
