@@ -1,4 +1,4 @@
-Ultima actualizare 29 august 2014
+Ultima actualizare 26 septembrie 2017
 
 #### Rezumat
 
@@ -15,7 +15,7 @@ Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă
 
 2. #### Conturi Firefox
 
-    Pentru a folosi Serviciile, va trebui să creați un cont Firefox. În timpul înregistrării vi se va cere să setați o parolă. Sunteți responsabil(ă) pentru păstrarea confidențialității parolei dvs. și pentru activitatea desfășurată prin contul dvs. Firefox. Mozilla nu își asumă răspunderea pentru pierderile cauzate de folosirea neautorizată a contului dvs. Firefox.
+    Pentru a folosi unele dintre Serviciile oferite, va trebui să creați un cont Firefox.  În timpul înregistrării vi se va cere să setați o parolă. Sunteți responsabil(ă) pentru păstrarea confidențialității parolei dvs. și pentru activitatea desfășurată prin contul dvs. Firefox. Mozilla nu își asumă răspunderea pentru pierderile cauzate de folosirea neautorizată a contului dvs. Firefox.
 
 3. #### Funcții
 
@@ -24,10 +24,12 @@ Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă
     Găsește-mi dispozitivul vă permite să localizați de la distanță și să controlați anumite funcții ale unui dispozitiv Firefox OS precum vizualizarea locațiilor recente, ștergerea conținutului local, activarea tonului de apel sau a ecranului de blocare sau afișarea unui mesaj. Pentru a folosi aceste funcții, trebuie să activați Găsește-mi dispozitivul din setările dispozitivului dvs. Găsește-mi dispozitivul va funcționa chiar dacă setările de sunet și locație ale dispozitivului dvs. sunt dezactivate. Puteți dezactiva această funcție din setările dispozitivului dvs.
     
     Dacă dispozitivul dvs. este rătăcit, vă puteți autentifica la https://find.firefox.com folosind acreditările contului dvs. Firefox pentru a localiza și controla de la distanță dispozitivul dvs. Ni se va raporta locația aproximativă a dispozitivului dvs. atunci când dispozitivul va fi pornit sau conectat la internet.  După caz, sunteți responsabil(ă) pentru orice costuri asociate transmisiei de date. În cazul în care considerați că dispozitivul a fost furat, trebuie să contactați organele de ordine. Fiți atent(ă) atunci când partajați informații, întrucât mesajele afișate pe dispozitivul dvs. sunt accesibile publicului.
+    
+    Firefox Screenshots vă permite să capturați conținutul unei pagini web, astfel încât dvs. sau alte persoane să-l puteți vizualiza ulterior. Vedeți [aici](https://www.mozilla.org/en-US/about/legal/report-infringement/) cum puteți trimite rapoarte referitoare la încălcarea drepturilor de autor sau a drepturilor de marcă înregistrată pe Screenshots. Pentru raportarea unui abuz, vă rugăm să ne trimiteți un e-mail care să conțină un link către captura de ecran în cauză la screenshots-report@mozilla.com
 
 4. #### Politica de confidențialitate
 
-    [Politica de confidențialitate a serviciilor cloud Firefox](https://www.mozilla.org/privacy/firefox-cloud/) prezintă detalii legate de informațiile pe care le primim de la dvs. atunci când utilizați Serviciile și modul în care folosim aceste informații. Informațiile primite prin intermediul Serviciilor le folosim așa cum este descris în [Politica de confidențialitate Mozilla](https://www.mozilla.org/privacy/).
+    [Politica de confidențialitate Firefox](https://www.mozilla.org/en-US/privacy/firefox/) prezintă detalii legate de informațiile pe care le primim de la dvs. atunci când utilizați Serviciile și modul în care folosim aceste informații. Informațiile primite prin intermediul Serviciilor le folosim așa cum este descris în [Politica de confidențialitate Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Conținutul dvs. în cadrul Serviciilor noastre
 
