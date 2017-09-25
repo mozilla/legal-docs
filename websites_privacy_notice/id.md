@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Kuki
 
-11 April 2017
-{: datetime="2017-04-11" }
+6 September 2017
+{: datetime="2017-09-06" }
 
 Kami peduli dengan privasi Anda. Jika Mozilla (yaitu kami) mengumpulkan informasi tentang Anda, [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan cara kami menangani informasi tersebut.
 
@@ -35,7 +35,7 @@ Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan al
     * Alamat IP digunakan untuk menyesuaikan media komunikasi berdasarkan bahasa dan negara.  
     * Informasi perangkat seperti negara, bahasa, operator dan OEM, bisa digunakan untuk menyesuaikan pengalaman Anda di Firefox Marketplace dan Webmaker.
 
-* **Metrik**: Kami mungkin juga menggunakan kuki, informasi perangkat, dan alamat IP, beserta GIF transparan, kuki, dan layanan pihak ketiga untuk membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
+* **Metrik**: Kami mungkin juga menggunakan kuki, informasi perangkat dan alamat IP, beserta GIF transparan, kuki, dan layanan pihak ketiga untuk membantu kami mengetahui secara menyeluruh cara pengguna menggunakan produk, layanan, komunikasi, situs web, pemasaran online, snippet, perangkat, dan platform kami lainnya. Kami menggunakan:
     * Google Analytics, yang menempatkan kuki di perangkat Anda, untuk mendapatkan metrik bagaimana pengguna menggunakan situs web kami.      Ini membantu kami meningkatkan konten situs.  
     * Optimizely dan ShareProgress, yang menempatkan kuki di perangkat Anda, untuk membantu kami menguji berbagai konten web.  Ini membantu kami menghadirkan     pengalaman web yang lebih baik bagi pengguna.
     * DoubleClick dan Flashtalking, yang menggunakan GIF transparan di halaman unduh Firefox kami.  Ini membantu kami mengukur keefektifan program     pemasaran iklan kami.
@@ -45,7 +45,7 @@ Kami menggunakan kuki, gambar GIF transparan, analitika web pihak ketiga, dan al
 
 ---------------------------------------
 
-Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki Anda kepada pihak lain, memilih email yang berisi teks saja, dan berhenti berlangganan analitika web dan alat optimalisasi. 
+Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki Anda kepada pihak lain, dan berhenti berlangganan analitika web dan alat optimalisasi. 
 {: #user-choices }
 
 * **Riwayat Kuki**: Anda dapat menerima atau menolak masing-masing kuki pada preferensi Firefox di bagian riwayat pada Alat/Opsi/Privasi. Perlu diperhatikan bahwa fitur-fitur tertentu dari produk dan layanan kami mungkin tidak berfungsi dengan baik tanpa bantuan kuki.
@@ -53,7 +53,7 @@ Anda dapat mengontrol masing-masing preferensi kuki, menunjukkan preferensi kuki
 
 * **Jangan Lacak**: Mozilla tidak melacak pengguna di seluruh situs web pihak ketiga untuk menyediakan iklan yang ditargetkan. Jika Anda sudah mengonfigurasi browser Anda untuk mengirimkan sinyal “Jangan Lacak” saat mengakses situs web kami, Mozilla tidak akan menggunakan alat apa pun yang dijelaskan dalam [Metrik](#data-tools) section.
 
-* **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan lewat bagian kaki email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/). Anda dapat menonaktifkan fungsionalitas gambar GIF transparan dengan melihat email dari kami dalam format "teks saja".
+* **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan lewat bagian kaki email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analitika & Optimalisasi**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
     *  Google: Pasang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), yang akan membuat kunjungan Anda anonim dan melarang pengiriman data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami keefektifan program pemasaran kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick dalam pengaturan iklan Google (Anda akan diminta masuk ke Akun Google Anda).
