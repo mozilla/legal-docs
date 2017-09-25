@@ -1,7 +1,7 @@
 # Webhelyekre, közleményekre és sütikre vonatkozó Adatvédelmi nyilatkozat
 
-2017. április 11.
-{: datetime="2017-04-11" }
+2017. szeptember 6.
+{: datetime="2017-09-06" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](http://www.mozilla.org/en-US/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -32,7 +32,7 @@ Sütiket, clear GIF-eket, egyéb harmadik fél által üzemeltetett webes techno
     * Az IP-címek segítségével az adott nyelvnek és országnak megfelelően testre szabható a kommunikáció.  
     * Az eszközre vonatkozó információ – például ország, nyelv, üzemeltető és gyártó – arra szolgál, hogy ön személyre szabottan használhassa a Firefox Marketplace webhelyet és a Webmaker alkalmazást.
 
-* **Mérések**: A sütik, az eszközinformációk és az IP-címek, valamint „clear GIF-ek”, a sütik és a harmadik felek szolgáltatásai abban segítenek nekünk, hogy átfogó képet kapjunk arról, hogyan használják a felhasználók termékeinket, szolgáltatásainkat, kommunikációinkat, webhelyeinket, online kampányainkat, az oldalakról vett rövid részleteket (snippet), valamint eszközeinket és más platformjainkat. Az alábbi eszközöket használjuk:
+* **Mérések**: A sütik, az eszközinformációk és az IP-címek, valamint a „clear GIF-ek”, a sütik és a harmadik felek szolgáltatásai abban segítenek nekünk, hogy összesített formában képet kapjunk arról, hogyan használják a felhasználók a termékeinket, a szolgáltatásainkat, a kommunikációinkat, a webhelyeinket, az online kampányainkat, az oldalakról vett rövid részleteket (snippet), valamint az eszközeinket és más platformjainkat. Az alábbi eszközöket használjuk:
     * Google Analytics – ez az eszköz egy sütit helyez el a felhasználók eszközén, melynek segítségével adatokat gyűjt azzal kapcsolatban, hogyan használják a felhasználók webhelyeinket.      Az adatok lehetővé teszik számunkra az oldalakon megjelenő tartalmak fejlesztését.  
     * Optimizely és ShareProgress – ezek az eszközök sütit helyeznek el a felhasználók eszközén, ami lehetővé teszi számunkra a webes tartalmak különböző változatainak tesztelését.  Az eredmények segítségével javíthatjuk a webes felhasználói élményt felhasználóink számára.
     * A DoubleClick és Flashtalking, amely egy egyértelmű GIF-et használ a letöltési Firefox oldalunkon.  Ez segít lemérni a reklámkampányunk hatékonyságát.
@@ -42,14 +42,14 @@ Sütiket, clear GIF-eket, egyéb harmadik fél által üzemeltetett webes techno
 
 ---------------------------------------
 
-Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja, hogy mely sütiket részesíti előnyben másokkal szemben, lehetősége van kizárólag szöveges e-mailek fogadásának beállítására, a web analytics jelentések és az optimalizáló eszközök lemondására. 
+Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja, hogy mely sütiket részesíti előnyben másokkal szemben, lehetősége van a web analytics jelentések és az optimalizáló eszközök lemondására. 
 {: #user-choices }
 
 * **Süti előzmények**: Az egyes sütiket a Firefox Eszközök/Beállítások/Adatvédelem előzmények részében engedélyezheti vagy tilthatja le. Ne feledje, előfordulhat, hogy a sütik nélkül vállalatunk termékeinek és szolgáltatásainak bizonyos funkciói nem működnek megfelelően.
 
 * **Ne kövessenek**: A Mozilla nem követi nyomon felhasználóit harmadik felek webhelyein célzott hirdetések elhelyezése érdekében. Ha úgy állította be a böngészőjét, hogy „Ne kövessenek” jelet küldjön, amikor Ön a weboldalainkra lép, a Mozilla nem fogja használni a [Mérések](#data-tools) section résznél leírt egyik eszközt sem.
 
-* **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/en-US/newsletter/recovery/) frissítésével. A clear GIF-ek működését letilthatja úgy, hogy a tőlünk kapott e-mail-eket „csak szöveg” formátumban tekinti meg. 
+* **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/en-US/newsletter/recovery/) frissítésével.
 
 * **Analitika és optimalizálás**: Kövesse a lenti utasításokat, hogy megakadályozza az adatgyűjtést a Mozilla weboldalainak felkereséséről.
     *  Google: Telepítse a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), amelynek köszönhetően névtelenek maradhatnak a látogatásai, és amely letiltja a Google Analytics számára történő adatátvitelt. Néhány Mozilla.org oldal egyértelmű GIF-eket használ, amelyek kommunikálnak a DoubleClick szolgáltatással a reklámkampányunk hatékonyságának felmérése érdekében; a személye szabott hirdetéseseket a DoubleClick révén szabályozhatja a Google hirdetésbeállításainál (be kell majd jelentkeznie a Google-fiókjába).
