@@ -1,4 +1,4 @@
-Posljednja izmjena 29. kolovoza 2014.
+Posljednje ažuriranje: 26. rujna 2017.
 
 #### Sažetak
 
@@ -15,7 +15,7 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
 
 2. #### Firefox računi
 
-    Kako biste se koristili Uslugom, trebate otvoriti Firefox račun.  Tijekom registracije zatražit će se da postavite zaporku. Vi ste odgovorni za čuvanje tajnost zaporke te njezino spremanje za aktivnosti koje se odvijaju preko vašeg Firefox računa. Mozilla nije odgovorna za gubitke koji mogu nastati zbog neovlaštene uporabe vašeg Firefox računa.
+    Kako biste se koristili nekim uslugama, trebat ćete otvoriti Firefox račun.  Tijekom registracije bit ćete zamoljeni da odaberete lozinku. Odgovorni ste za to da čuvate povjerljivost vaše lozinke i aktivnosti na vašem Firefox računu. Usluga Mozilla neće biti odgovorna za gubitke zbog neovlaštene uporabe vašeg Firefox računa.
 
 3. #### Značajke
 
@@ -24,10 +24,12 @@ U gornjem odjeljku iznosi se sažetak uvjeta navedenih u nastavku. Sažetak slu�
     Nađi moj uređaj omogućuje vam da daljinski locirate i kontrolirate određene funkcije uređaja s Firefox OS-om., kao što je pregled najnovijih lokacija, brisanje lokalnog sadržaja, omogućavanje zvuka zvona ili zaključavanje zaslona, ili prikazivanje poruke. Za korištenje ovih funkcija, morate omogućiti Find My Device u postavkama uređaja.  Nađi moj uređaj funkcionira čak i ako su postavke zvuka i lokacije na vašem uređaju nečujne ili isključene. Ovu funkciju možete onemogućiti u postavkama svog uređaja.
 
     Ako je vaš uređaj izgubljen, možete se prijaviti u https://find.firefox.com/' korištenjem pristupnih podataka vašeg Firefox računa za lokaciju i daljinsko upravljanje vašim uređajem. Približna lokacija vašeg uređaja bit će nam prijavljena čim se uređaj uključi i spoji na Internet.   Ako se primjenjuje, vi ste odgovorni za sve naknade proizašle od prijenosa podataka. Ako smatrate da je vaš uređaj ukraden, trebate se obratiti policijskoj postaji. Budite oprezni prilikom dijeljenja osobnih podataka budući da su poruke prikazane na vašem uređaju dostupne javnosti.
+    
+    Firefox snimke zaslona omogućavaju vam da snimate sadržaj internetskih stranica koji kasnije možete pregledavati vi i drugi. Kliknite [ovdje](https://www.mozilla.org/en-US/about/legal/report-infringement/) za prijavu kršenja autorskih prava ili vlasništva trgovačke oznake na snimkama zaslona. Kako biste prijavili zlouporabu, pošaljite nam e-poštu s poveznicom na screenshots-report@mozilla.com.
 
 4. #### Pravila privatnosti
 
-    [Napomena o privatnosti usluge Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) navodi pojedinosti o podacima koje primamo vašim korištenjem Usluge te kako se njima koristimo. Podatke koje primamo preko Usluge koristimo na način opisan u [Mozillinim Pravilima privatnosti](https://www.mozilla.org/privacy/).
+    Dio [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) (Napomena o zaštiti privatnosti na usluzi Firefox) opisuje informacije koje primamo na temelju vašeg korištenja našim uslugama te kako se koristimo tim informacijama. Koristimo informacije koje primimo preko usluga na način opisan u dijelu [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) (Pravila zaštite privatnosti na usluzi Mozilla).
 
 5. #### Vaš Sadržaj na našoj Usluzi
 
