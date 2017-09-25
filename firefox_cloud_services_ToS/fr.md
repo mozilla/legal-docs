@@ -1,4 +1,4 @@
-Dernière mise à jour le 29 août 2014.
+Dernière mise à jour le 26 septembre 2017
 
 #### Résumé
 
@@ -15,7 +15,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
 
 2. #### Comptes Firefox
 
-    Pour pouvoir bénéficier des Services, vous devez créer un Compte Firefox. Lors de la procédure d’inscription, il vous est demandé de définir un mot de passe. Il vous incombe de préserver la confidentialité de votre mot de passe et vous êtes responsable des activités exécutées avec votre compte Firefox. Mozilla n’est pas tenu responsable de toutes pertes découlant d’une utilisation non autorisée de votre compte Firefox.
+    Afin de bénéficier de certains de nos services, vous devez créer un compte Firefox.  Lors de la procédure d’inscription, il vous est demandé de définir un mot de passe. Il vous incombe de préserver la confidentialité de votre mot de passe et vous êtes responsable des activités exécutées avec votre compte Firefox. Mozilla ne saurait être tenu responsable de toutes pertes découlant d’une utilisation non autorisée de votre compte Firefox.
 
 3. #### Fonctions
 
@@ -24,10 +24,12 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
     Localiser mon appareil vous permet de localiser et de contrôler à distance certaines fonctionnalités d’un appareil Firefox OS, notamment visualiser les positions récentes, effacer du contenu local, activer la sonnerie ou l’écran de verrouillage, ou encore afficher un message. Pour utiliser ces fonctionnalités, vous devez activer Localiser mon appareil dans les paramètres de votre appareil. Localiser mon appareil fonctionnera même si les paramètres de son et de géolocalisation sont en mode silencieux ou sont désactivés. Vous pouvez désactiver cette fonctionnalité dans les paramètres de votre appareil.
 
     Si vous avez égaré votre téléphone, vous pouvez vous connecter sur https://find.firefox.com/’ à l’aide des identifiants de votre compte Firefox pour localiser et contrôler à distance votre appareil. La position approximative de votre appareil nous sera indiquée s’il est allumé et connecté à Internet. Le cas échéant, il vous incombe de payer tous les éventuels frais associés à la transmission des données. Si vous pensez que votre appareil a été volé, contactez la police. Soyez vigilant lorsque vous partagez des informations personnelles, car les messages affichés sur votre appareil sont visibles par tous.
+    
+    Firefox Screenshots vous permet de capturer le contenu de pages web pour un affichage ultérieur par vous ou d’autres personnes. [Visitez ce site](https://www.mozilla.org/en-US/about/legal/report-infringement/) pour signaler des infractions au droit d’auteur ou aux marques déposées dans les captures d’écran. Pour signaler tout abus, envoyez-nous par courriel le lien à la capture d’écran concernée à screenshots-report@mozilla.com.
 
 4. #### Politique de confidentialité
 
-    La [Politique de confidentialité des services en ligne de Firefox](https://www.mozilla.org/privacy/firefox-cloud/) explique en détail les informations que nous recevons lorsque vous utilisez les Services et comment nous les utilisons. Les informations que nous recevons via les Services sont utilisées conformément à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/).
+    [L’Avis de confidentialité Firefox](https://www.mozilla.org/en-US/privacy/firefox/) décrit en détail ce que nous recevons de notre utilisation des Services et quel usage nous faisons de ces informations. Nous exploitons les informations que nous recevons via les Services tel que décrit dans notre [Avis de confidentialité Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Vos contenus dans nos services
 
