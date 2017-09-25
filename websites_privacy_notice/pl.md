@@ -1,7 +1,7 @@
 # Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-11 kwietnia 2017 r.
-{: datetime="2017-04-11" }
+6 września 2017 r.
+{: datetime="2017-09-06" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -45,7 +45,7 @@ Aby ulepszać nasze produkty i usługi oraz zapewnić ich funkcjonalność, kor
 
 ---------------------------------------
 
-Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wskazać swoje preferencje względem ciasteczek innym, wybrać otrzymywanie jedynie tekstowych wiadomości e-mail oraz zrezygnować ze stosowania internetowych narzędzi analitycznych i optymalizujących. 
+Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wskazać swoje preferencje względem ciasteczek innym oraz zrezygnować ze stosowania internetowych narzędzi analitycznych i optymalizujących.
 {: #user-choices }
 
 * **Historia ciasteczek**: użytkownik może zaakceptować lub odrzucić poszczególne ciasteczka w przeglądarce Firefox w sekcji Historia na karcie Narzędzia/Opcje/Prywatność. Należy pamiętać, że określone funkcje naszych produktów i usług mogą działać nieprawidłowo bez obsługi ciasteczek.
@@ -53,7 +53,7 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 
 * **Ograniczenia dotyczące śledzenia**: Mozilla nie śledzi użytkowników w witrynach podmiotów zewnętrznych w celu kierowania reklam do określonych odbiorców. Jeśli przeglądarka ma skonfigurowaną funkcję wysyłania sygnału „Nie śledź” podczas otwierania witryn firmy Mozilla, nie korzystamy z żadnych narzędzi opisanych w sekcji [Pomiary](#data-tools) section.
 
-* **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/). Funkcjonalność przezroczystych plików GIF można wyłączyć, wyświetlając wiadomości od nas w formacie czysto tekstowym.
+* **Wiadomości e-mail**: otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analityka i optymalizacja**: Aby zapobiec zbieraniu danych o przeglądaniu witryn firmy Mozilla, wykonaj poniższe instrukcje:
     *  Google: zainstaluj [Dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout). Pozwala on zachować anonimowość dotyczącą przeglądania witryn i zapobiega przekazywaniu danych do usługi Google Analytics. Niektóre strony w domenie Mozilla.org używają przezroczystych plików GIF, które komunikują się z usługą DoubleClick. Pomaga nam to zrozumieć skuteczność naszych kampanii reklamowych. Spersonalizowane reklamy z usługi DoubleClick możesz konfigurować w ustawieniach reklam Google (zostanie wyświetlona prośba o zalogowanie się na swoim koncie Google).
