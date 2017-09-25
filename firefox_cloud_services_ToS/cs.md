@@ -1,4 +1,4 @@
-Poslední aktualizace 29. srpna 2014
+Poslední aktualizace dne 26. září 2017
 
 #### Shrnutí
 
@@ -15,7 +15,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 2. #### Účty Firefox
 
-    Pro používání Služeb si budete muset zřídit účet Firefox.  Během registrace budete požádáni o nastavení hesla. Jste povinni udržovat své heslo v důvěrnosti a nesete odpovědnost za činnost probíhající na vašem účtu Firefox. Mozilla nenese odpovědnost za ztráty vyplývající z neoprávněného používání vašeho účtu Firefox.
+    Pro používání některých Služeb budete muset založit účet Firefox.  Během registrace budete požádáni o nastavení hesla. Jste povinni uchovat své heslo v důvěrnosti a pro činnosti prováděné prostřednictvím vašeho účtu Firefox. Společnost Mozilla nenese odpovědnost za žádné ztráty, k nimž dojde během neoprávněného používání vašeho účtu Firefox.
 
 3. #### Funkce
 
@@ -24,10 +24,12 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
     Funkce Najdi mé zařízení vám umožňuje na dálku nalézt a ovládat některé funkce zařízení s Firefox OS, jako například prohlížení posledních míst výskytu, mazání místního obsahu, zapínání vyzváněcího tónu nebo uzamčení obrazovky či zobrazení zprávy. K použití těchto funkcí musíte aktivovat funkci Najdi mé zařízení v nastaveních zařízení. Funkce Najdi mé zařízení bude fungovat i v případě, že nastavení zvuku a místa v zařízení jsou ztišena nebo vypnuta. Tuto funkci můžete deaktivovat v nastaveních zařízení.
 
     Pokud své zařízení nemůžete najít, můžete se přihlásit na https://find.firefox.com/ pomocí přihlašovacích údajů vašeho účtu Firefox a nalézt své zařízení a dálkově ho ovládat. Přibližné místo výskytu zařízení nám bude nahlášeno, pokud je zařízení zapnuté a připojeno k internetu. V příslušných případech ponesete veškeré náklady související s přenosem dat. Pokud se domníváte, že zařízení bylo ukradeno, měli byste se obrátit na příslušné orgány. Při sdílení osobních údajů buďte opatrní, protože zprávy zobrazované v zařízení jsou veřejně dostupné.
+    
+    Aplikace Firefox Screenshots vám umožňuje snímat obsah webových stránek, který si můžete později prohlížet vy sami či jiní lidé. Viz [zde](https://www.mozilla.org/en-US/about/legal/report-infringement/) kde můžete nahlásit nároky k porušení autorských práv nebo ochranných známek ve službě Screenshots. Pro nahlášení zneužití nám zašlete odkaz na snímek na adresu screenshots-report@mozilla.com.
 
 4. #### Zásady ochrany soukromí
 
-    [Zásady ochrany osobních údajů Firefox cloud services](https://www.mozilla.org/privacy/firefox-cloud/) uvádějí podrobné údaje o tom, jak získáváme informace na základě vašeho používání Služeb a jak je využíváme. Informace, které získáme prostřednictvím Služeb, využíváme dle popisu v našich [Zásadách ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
+    [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/en-US/privacy/firefox/) popisuje, co získáváme z vašeho používání Služeb, a jak s těmito informacemi zacházíme. Informace, které získáváme prostřednictvím Služeb, jsou popsány v našich [Zásadách ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Váš obsah na našich Službách
 
