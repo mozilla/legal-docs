@@ -1,7 +1,7 @@
 # Aviso de Privacidade sobre sites, comunicação e cookies
 
-11 de abril de 2017
-{: datetime="2017-04-11" }
+6 de setembro de 2017
+{: datetime="2017-09-06" }
 
 Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
@@ -35,7 +35,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
     * Endereços IP são usados para personalizar a comunicação por idioma e país.  
     * As informações do dispositivo, como país, idioma, operador e OEM, podem ser usadas para personalizar sua experiência no Firefox Marketplace e Webmaker.
 
-* **Medição**: também podemos usar cookies, informações do dispositivo e endereços IP. Além de GIFs transparentes, cookies e serviços de terceiros nos ajudam a entender, no geral, como os usuários se envolvem com nossos produtos, serviços, comunicações, sites, campanhas online, trechos de código, dispositivos e outras plataformas. Usamos:
+* **Medição**: Também podemos usar cookies, informações do dispositivo e endereços IP. Além de GIFs transparentes, cookies e serviços de terceiros nos ajudam a entender, no geral, como os usuários se envolvem com nossos produtos, serviços, comunicações, sites, campanhas online, trechos de código, dispositivos e outras plataformas. Usamos:
     * O Google Analytics, que insere um cookie no seu dispositivo para obter métricas sobre como os usuários se envolvem com nossos sites. Isso nos ajuda a melhorar o conteúdo do site.  
     * O Optimizely e o ShareProgress, que inserem um cookie no seu dispositivo para nos ajudar a testar variações do conteúdo da internet. Isso nos ajuda a proporcionar experiências melhores na internet para os usuários.
     * O DoubleClick e o Flashtalking, que usam, cada um deles, um GIF transparente na nossa página de download do Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade.
@@ -45,7 +45,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 
 ---------------------------------------
 
-É possível controlar preferências de cookies em particular, indicar suas preferências de cookies para outras pessoas, selecionar e-mails somente com texto e deixar de receber análises da web e ferramentas de otimização. 
+É possível controlar preferências individuais de cookies, indicar suas preferências de cookies para outras pessoas e cancelar o recebimento de análises da web e de ferramentas de otimização. 
 {: #user-choices }
 
 * **Histórico de cookies**: você pode aceitar ou recusar cookies em particular nas suas preferências do Firefox na seção Ferramentas/Opções/Privacidade e histórico. Observe que alguns recursos de nossos produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
@@ -53,7 +53,7 @@ Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereç
 
 * **Não rastrear**: a Mozilla não rastreia os usuários em sites de terceiros para fornecer publicidade segmentada. Caso você tenha configurado o navegador para enviar um sinal “Não rastrear” ao acessar seus sites, a Mozilla não utilizará nenhuma das ferramentas descritas em [Medição](#data-tools) section.
 
-* **E-mail**: receber nossas comunicações de marketing é opcional e você pode cancelar a inscrição no rodapé do e-mail ou atualizando suas [preferências de e-mail do Mozilla](https://www.mozilla.org/newsletter/recovery/). É possível desativar a funcionalidade de GIFs transparentes ao exibir nossos e-mails no formato "somente texto".  
+* **E-mail**: receber nossas comunicações de marketing é opcional e você pode cancelar a inscrição no rodapé do e-mail ou atualizando suas [preferências de e-mail do Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Análise e otimização**: siga as instruções abaixo para evitar a coleta de dados sobre seus acessos aos sites da Mozilla:
     *  Google: instale o [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), que mantém seus acessos anônimos e proíbe a transmissão de dados para o Google Analytics. Algumas páginas de Mozilla.org usam GIFs transparentes, que se comunicam com o DoubleClick para entender a eficácia das nossas campanhas de publicidade. É possível controlar os anúncios personalizados do DoubleClick nas configurações de anúncios do Google (você será solicitado a fazer login na sua Conta do Google).
