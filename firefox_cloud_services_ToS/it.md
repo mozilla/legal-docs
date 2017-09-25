@@ -1,4 +1,4 @@
-Ultimo aggiornamento 29 agosto 2014
+Ultimo aggiornamento: 26 settembre 2017
 
 #### Riepilogo
 
@@ -15,7 +15,7 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
 
 2. #### Firefox Account
 
-    Per utilizzare i Firefox Cloud Services, l’utente dovrà creare un Firefox Account. Durante la registrazione, all’utente sarà chiesto di impostare una password. L’utente è responsabile di mantenere riservata la password e delle attività svolte nell’ambito del proprio account Firefox. Mozilla non sarà responsabile di eventuali perdite derivanti da un utilizzo non autorizzato dell’account Firefox da parte dell’utente.
+    Per usare alcuni dei servizi, dovrete creare un account Firefox.  Durante la registrazione, vi sarà chiesto di impostare una password. Sarete responsabili di mantenere riservata la password e delle attività del vostro account Firefox. Mozilla non è responsabile di alcuna perdita causata dall’uso non autorizzato del vostro account  Firefox.
 
 3. #### Funzioni
 
@@ -24,10 +24,12 @@ La sezione iniziale riepiloga i termini descritti in seguito. Questo riepilogo v
     *Trova dispositivo* consente di localizzare a distanza un dispositivo Firefox OS e di controllarne alcune funzioni, come la visualizzazione delle posizioni recenti, la cancellazione di contenuti locali, l’attivazione della suoneria o del blocco schermo e la visualizzazione di messaggi. Per poter utilizzare queste funzioni è necessario attivare *Trova dispositivo* nelle impostazioni del dispositivo. *Trova dispositivo* funziona anche se i suoni e le impostazioni di localizzazione del dispositivo sono disattivati. È possibile disattivare questa funzione accedendo alle impostazioni del dispositivo.
 
     Se si è perso il proprio dispositivo, è possibile accedere a https://find.firefox.com/ utilizzando le credenziali dell’account Firefox per localizzare e controllare a distanza il dispositivo. Se il dispositivo è acceso e connesso a Internet, saremo in grado di rilevarne la posizione approssimativa. La trasmissione dei dati potrebbe comportare addebiti aggiuntivi, se previsti, da parte del proprio operatore telefonico. Se si ritiene che il proprio dispositivo sia stato rubato, consigliamo di contattare le forze dell’ordine. Fare attenzione a condividere eventuali informazioni personali, in quanto i messaggi visualizzati sul dispositivo potranno essere letti da chiunque.
+    
+    Firefox Screenshots vi consente di catturare il contenuto delle pagine web da visualizzare più tardi da voi o da altri. Vedere [qui](https://www.mozilla.org/en-US/about/legal/report-infringement/) per segnalare reclami di violazione di copyright o di marchi commerciali su Screenshots. Per segnalare un uso improprio, inviateci il link alla schermata all’indirizzo e-mail screenshots-report@mozilla.com.
 
 4. #### Politica sulla privacy
 
-    L’[informativa sulla privacy nella pagina Firefox Cloud Services](https://www.mozilla.org/privacy/firefox-cloud/) descrive nel dettaglio i dati che riceviamo attraverso l’utilizzo dei Servizi da parte dell’utente e il modo in cui utilizziamo queste informazioni. Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nell’[informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
+    [L’ Avviso sulla privacy di Firefox](https://www.mozilla.org/en-US/privacy/firefox/) descrive i dettagli su quanto riceviamo sul vostro uso dei servizi e su come utilizziamo queste informazioni. Utilizziamo le informazioni ricevute attraverso i Servizi come descritto nella nostra [Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Contenuti dell’utente nei nostri Servizi
 
