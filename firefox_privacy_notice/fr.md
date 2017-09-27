@@ -116,7 +116,7 @@ Lisez [la documentation complète](https://github.com/mozilla/fxa-auth-server/bl
 
 [En savoir plus](https://www.mozilla.org/firefox/geolocation/).
 
-### Captures d’écran Firefox {: #screenshots }
+### Firefox Screenshots {: #screenshots }
 
 * __Envoi de captures d’écran__ : les captures d’écran que vous décidez d’envoyer sont envoyées à Mozilla et stockées pendant la période indiquée, que vous pouvez modifier. Nous nous réservons le droit d’accéder à vos captures d’écran lorsque cela est raisonnablement nécessaire pour le bon fonctionnement du service. Vous pouvez supprimer vos captures d’écran envoyées à tout moment.
 
