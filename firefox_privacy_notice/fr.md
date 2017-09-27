@@ -37,10 +37,10 @@ Firefox affiche du contenu, tels les « snippets » (messages de Mozilla) et l
 
 ### Améliorer la sécurité des utilisateurs où qu’ils se trouvent {: #security }
 
-* __Données techniques des mises à jour__ : les versions de Firefox sur ordinateurs de bureau vérifient régulièrement la disponibilité de mises à jour en se connectant aux serveurs de Mozilla. Votre version de Firefox, langue, et système d’exploitation sont utilisés pour trouver les mises à jour appropriées. Les versions mobiles de Firefox peuvent se connecter à un autre service si vous en avez utilisé un pour télécharger et installer Firefox. [En savoir plus](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+* __Données techniques des mises à jour__ : les versions de Firefox sur ordinateurs de bureau vérifient régulièrement la disponibilité de mises à jour en se connectant aux serveurs de Mozilla. Votre version de Firefox, langue et système d’exploitation sont utilisés pour trouver les mises à jour appropriées. Les versions mobiles de Firefox peuvent se connecter à un autre service si vous en avez utilisé un pour télécharger et installer Firefox. [En savoir plus](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
-* __Données techniques pour la liste de blocage des modules complémentaires__ : Firefox pour les ordinateurs de bureau et appareils Android se connecte régulièrement à Mozilla pour protéger les utilisateurs contre les modules complémentaires dangereux. Votre version et langue de Firefox, système d’exploitation et liste des modules complémentaires installés sont nécessaires pour appliquer et mettre à jour la liste de blocage des modules complémentaires. [En savoir plus](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).
+* __Données techniques pour la liste de blocage des modules complémentaires__ : Firefox pour les ordinateurs de bureau et appareils Android se connecte régulièrement à Mozilla pour protéger les utilisateurs contre les modules complémentaires dangereux. Votre version de Firefox, langue, système d’exploitation et liste des modules complémentaires installés sont nécessaires pour appliquer et mettre à jour la liste de blocage des modules complémentaires. [En savoir plus](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).
 
 * __Données techniques et de pages web envoyées au service Safe Browsing de Google__ : pour vous aider à vous protéger contre les téléchargements dangereux, Firefox envoie des informations de base concernant les téléchargements non reconnus au service Safe Browsing de Google, notamment le nom du fichier et l’URL à partir de laquelle il a été téléchargé.
 
@@ -50,7 +50,7 @@ Firefox affiche du contenu, tels les « snippets » (messages de Mozilla) et l
 
     Si vous renoncez à ce service, vous augmentez le risque d’interception de vos informations personnelles. [En savoir plus](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Rapports de plantage{: #crash-reporter }
+### Rapports de plantage {: #crash-reporter }
 Par défaut, avec les versions pour ordinateurs de bureau de Firefox, nous vous demanderons de partager un rapport contenant plus d’informations détaillées sur les plantages de Mozilla, mais vous pouvez refuser de le faire à tout moment.
 
 * __Données sensibles__ : les rapports de plantage comprennent un fichier de « vidage » du contenu de la mémoire de Firefox au moment du plantage, pouvant contenir des données qui vous identifient ou que vous pouvez considérer comme sensibles.
@@ -59,9 +59,9 @@ Par défaut, avec les versions pour ordinateurs de bureau de Firefox, nous vous 
 
 * __Données techniques__ : un rapport de plantage comprend des données sur les raisons du plantage de Firefox et l’état de la mémoire de l’appareil et de son exécution au moment du plantage.
 
-Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
+Vous pouvez [lire la documentation complète](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-### Mesurez et soutenez notre
+### Mesurer et soutenir notre
 
 * __campagne marketing et nos données de référence__ : cela aide Mozilla à comprendre l’efficacité de nos campagnes marketing.
 {: #referraltracking }
@@ -73,7 +73,7 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
 * __Données techniques et d’interaction__ :
 
-    _Sur iOS et Android_ : par défaut, Firefox envoie des données relatives aux fonctionnalités que vous utilisez dans Firefox à Leanplum, notre prestataire de marketing mobile, qui dispose de sa propre [politique de confidentialité](https://www.leanplum.com/privacy/).  Ces données nous permettent de tester différentes fonctionnalités et expériences et de proposer des messages et des recommandations personnalisés pour améliorer la façon dont vous utilisez Firefox.
+    _Sur iOS et Android_ : par défaut, Firefox envoie des données relatives aux fonctionnalités que vous utilisez dans Firefox à Leanplum, notre prestataire de marketing mobile, qui dispose de sa propre [politique de confidentialité](https://www.leanplum.com/privacy/).  Ces données nous permettent de tester différentes fonctionnalités et expériences, et de proposer des messages et des recommandations personnalisés pour améliorer la façon dont vous utilisez Firefox.
 
     Lisez la documentation sur [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), ou apprenez à [désactiver cette fonctionnalité](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
@@ -96,7 +96,7 @@ Vous pouvez effectuer des recherches directement de plusieurs endroits dans Fire
 
 * __Données de géolocalisation__ : pour des raisons de sécurité, nous stockons les adresses IP que vous utilisez pour accéder à votre compte Firefox, afin de vous localiser au plus près (ville et pays). Nous utilisons ces données pour vous envoyer des courriels d’alerte si nous détectons des activités suspectes, comme des connexions à votre compte depuis d’autres lieux.
 
-* __Données d’interaction__ : nous recevons des données telles que les visites et les interactions avec le site web Comptes Firefox et les préférences des menus, ainsi que les interactions d’accueil, de messagerie et de SMS. [En savoir plus](https://www.mozilla.org/privacy/websites/) sur les pratiques de données de Mozilla concernant les sites web et la messagerie.
+* __Données d’interaction__ : nous recevons des données telles que les visites et les interactions avec le site web des comptes Firefox et les préférences des menus, ainsi que les interactions d’accueil, de messagerie et de SMS. [En savoir plus](https://www.mozilla.org/privacy/websites/) sur les pratiques de données de Mozilla concernant les sites web et la messagerie.
 
 * __Données techniques__ : pour afficher les services qui sont synchronisés avec votre compte Firefox et pour des raisons fonctionnelles, nous stockons votre système d’exploitation, navigateur et version, horodatage, langue (ainsi que les mêmes informations pour les appareils connectés à votre compte).
 
@@ -104,13 +104,13 @@ Lisez [la documentation complète](https://github.com/mozilla/fxa-auth-server/bl
 
 ### Sync {: #sync }
 
-* __Données synchronisées__ : si vous activez Sync, Mozilla reçoit les informations que vous synchronisez sur vos appareils sous forme chiffrée. Cela peut inclure : onglets, modules complémentaires, mots de passe, données préremplies de paiement, marque-pages, historique et préférences. Le fait de supprimer votre compte Firefox supprimera le contenu Firefox Sync associé. Vous pouvez également lire la [documentation](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Données synchronisées__ : si vous activez Sync, Mozilla reçoit les informations que vous synchronisez sur vos appareils sous forme chiffrée. Cela peut inclure : onglets, modules complémentaires, mots de passe, données préremplies de paiement, marque-pages, historique et préférences. Le fait de supprimer votre compte Firefox supprimera le contenu de Firefox Sync associé. Vous pouvez également lire la [documentation](http://moz-services-docs.readthedocs.io/en/latest/sync/).
 
 * __Données techniques et d’interaction__ : si vous activez Sync, Firefox enverra régulièrement des données de base à l’aide de la télémétrie, concernant la tentative la plus récente de synchroniser vos données, par exemple le moment où cela s’est produit, si la tentative a échoué ou réussi et le type d’appareil qui tente la synchronisation. Vous pouvez également lire la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
 [En savoir plus](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), notamment comment activer et désactiver la synchronisation.
 
-### géolocalisation {: #location-services }
+### Géolocalisation {: #location-services }
 
 * __Données de localisation pour le service de géolocalisation de Google__ : Firefox vous demandera toujours la permission avant de déterminer et partager votre localisation avec un site web qui la demande (par exemple, si un site de cartes routières a besoin de votre localisation pour vous proposer un itinéraire). Pour déterminer votre localisation, Firefox peut utiliser les fonctionnalités de géolocalisation de votre système d’exploitation, les réseaux Wi-Fi, les relais de réseaux mobiles ou les adresses IP, puis envoyer ces données au service de géolocalisation Google, qui dispose de sa propre [politique de confidentialité](https://www.google.com/privacy/lsf.html).
 
