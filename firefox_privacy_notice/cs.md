@@ -11,7 +11,7 @@ V tomto Oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje Fire
 
 ## Dle výchozího nastavení Firefox sdílí údaje pro:
 
-### zvýšení výkonu a stability pro uživatele všude po světě,{: #health-report }
+### zvýšení výkonu a stability pro uživatele všude po světě {: #health-report }
 
 * __Údaje o interakci__: Firefox zasílá data o vaší interakci s Firefoxem nám (jako je počet otevřených karet, počet navštívených webových stránek, počet a typ nainstalovaných Doplňků Firefox a délka relace) a s funkcemi Firefox nabízené společností Mozilla nebo našimi partnery (jako je interakce s funkcemi vyhledávání Firefoxu a odkazy na vyhledávané partnery).  
 
