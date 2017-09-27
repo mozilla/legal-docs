@@ -13,7 +13,7 @@ In questo Avviso sulla privacy illustreremo quali sono i dati che Firefox condiv
 
 ### Migliorare le prestazioni e la stabilità per gli utenti, ovunque si trovino. {: #health-report }
 
-* __Dati sull’interazione__: Firefox ci invia dati sulle vostre interazioni con il browser (ad esempio: numero di schede e schermate aperte, numero di pagine web visitate, numero e tipo di componenti aggiuntivi installati, lunghezza della sessione) e sulle funzioni offerte da Mozilla o dai nostri partner (ad esempio: interazione con le funzioni di ricerca di Firefox e riferimenti di partner di ricerca).
+* __Dati relativi all’interazione__: Firefox ci invia dati sulle vostre interazioni con il browser (ad esempio: numero di schede e schermate aperte, numero di pagine web visitate, numero e tipo di componenti aggiuntivi installati, lunghezza della sessione) e sulle funzioni offerte da Mozilla o dai nostri partner (ad esempio: interazione con le funzioni di ricerca di Firefox e riferimenti di partner di ricerca).
 
 * __Dati tecnici__: Firefox ci invia dati sulla versione di Firefox e sulla lingua usata; sul sistema operativo del dispositivo e sulla configurazione hardware, sulla memoria, su informazioni di base su arresti anomali ed errori; sul risultato di processi automatici quali aggiornamenti, servizio di safebrowing e attivazione. Quando Firefox ci invia i dati, il vostro indirizzo IP viene temporaneamente raccolto quale parte dei log del nostro server.
 
@@ -83,7 +83,7 @@ La documentazione completa è disponibile in [questa pagina](https://firefox-sou
 
 ### Ricerca
 
-È possibile eseguire ricerche in Firefox in diversi punti, inclusi la barra degli indirizzi, la barra di ricerca e la pagina Nuova scheda. _Mozilla non riceve le vostre richerche._ I dati delle richerche sono inviati al fornitore di servizi di ricerca, che ha la propria informativa sulla privacy.
+È possibile eseguire ricerche in Firefox in diversi punti, inclusi la barra degli indirizzi, la barra di ricerca e la pagina Nuova scheda. _Mozilla non riceve le vostre ricerche._ I dati delle ricerche sono inviati al fornitore di servizi di ricerca, che ha la propria informativa sulla privacy.
 
 * __Suggerimenti di ricerca__: per impostazione predefinita, Firefox invia le richieste al vostro fornitore di servizi di ricerca per aiutarvi a scoprire frasi comuni usate nelle ricerche da altri, per migliorare la vostra esperienza. Questi dati non saranno inviati se il vostro fornitore di servizi di ricerca selezionato non supporta i suggerimenti di ricerca.
 {: #searchsuggestions }
@@ -124,7 +124,7 @@ Leggere la [documentazione completa](https://github.com/mozilla/fxa-auth-server/
 
   Per visite al sito web Firefox Screenshots, il nostro avviso di [informativa sulla privacy dei siti web](https://www.mozilla.org/privacy/websites/) descrive i tipi di dati che si possono ulteriormente raccogliere.
 
-* __Dati tecnici__: riceviamo dati come le dimensioni medie, il numero di schermate caricate, la versione del browser Firefox, il sistema opertivo del dispositivo e gli errori. L’indirizzo IP che accede al sito web Firefox Screenshots viene raccolto temporaneamente quale parte di un log di server standard.
+* __Dati tecnici__: riceviamo dati come le dimensioni medie, il numero di schermate caricate, la versione del browser Firefox, il sistema operativo del dispositivo e gli errori. L’indirizzo IP che accede al sito web Firefox Screenshots viene raccolto temporaneamente quale parte di un log di server standard.
 
 Leggere la [documentazione completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o [ulteriori informazioni](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
