@@ -11,7 +11,7 @@
 
 ##預設情況下，Firefox 收集資料的目的為：
 
-###為所有使用者增進效能及穩定性。{: #health-report }
+###為所有使用者增進效能及穩定性。 {: #health-report }
 
 *__互動資料__：Firefox 會將您如何與 Firefox 互動的資料傳送給我們（例如開啟分頁及視窗的數量、瀏覽的網頁數量、您安裝的 Firefox 附加元件數量及類型、工作階段的長度等等），另外，您與由 Mozilla 或我們其他合作夥伴提供的 Firefox 功能互動的資料也會傳送給我們（例如與 Firefox 搜尋功能互動的過程，以及轉用的搜尋引擎夥伴等等）。
 
@@ -20,7 +20,7 @@
 請閱讀 Telemetry 功能的說明文件：[桌機版](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
 {: #telemetry }
 
-###設定預設搜尋提供商{: #defaultsearch }
+###設定預設搜尋提供商 {: #defaultsearch }
 
 *__位置資料__：當您首次使用 Firefox 時，Firefox 會使用您的 IP 地址，並依據您所在的國家為您設定預設的搜尋提供商。[進一步瞭解](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
@@ -50,7 +50,7 @@ Firefox 會顯示各種內容，如「Snippet」（來自 Mozilla 的訊息）�
 
 取消此項目將會增加您的私人資訊遭到攔截的風險。[進一步瞭解](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
-###錯誤報告{: #crash-reporter }
+###錯誤報告 {: #crash-reporter }
 預設情況下，桌機版 Firefox 會在發生錯誤時，要求您回傳含有更多詳細資訊的報告給 Mozilla，但您可隨時拒絕此要求。
 
 *__敏感性資料__：當機報告內含「傾印檔案」，即是發生錯誤時，Firefox 的記憶體內容，其中可能包含能夠識別您或對您較為敏感的資料。
@@ -79,7 +79,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 ---
 
-##若您使用這些功能，Firefox 將會分享為提供該功能所需的資料：{: #optional-features }
+##若您使用這些功能，Firefox 將會分享為提供該功能所需的資料： {: #optional-features }
 
 ###搜尋
 
@@ -110,7 +110,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 [進一步瞭解](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)，包含如何啟用或停用 Sync 功能的資訊。
 
-###位置{: #location-services }
+###位置 {: #location-services }
 
 *__傳送給 Google 地理位置服務的位置資料__：Firefox 在判斷並與網站分享您的位置資訊（例如地圖網站需要您的所在位置才能提供導航資訊時）之前，一定會詢問您的意願。為了為您定位，Firefox 可能會使用您作業系統的地理定位功能、Wi-fi 網路連線、行動網路基地台或 IP 地址，並可能會將這些資訊傳送給 Google 的地理位置服務，該服務有其自己的[隱私權政策](https://www.google.com/privacy/lsf.html)。
 
@@ -128,7 +128,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 請閱讀[完整說明文件](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)或[進一步瞭解](https://wiki.mozilla.org/Firefox/Screenshots/FAQs)。
 
-###網站通知{: #push-notifications }
+###網站通知 {: #push-notifications }
 
 *__連線資料__：如果您允許某網站向您傳送通知，Fierfox 會連線至 Mozilla 並使用您的 IP 位置，以便傳遞該訊息。Mozilla 無法存取訊息內容。
 
@@ -136,7 +136,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 請閱讀[完整說明文件](https://mozilla-push-service.readthedocs.io/en/latest/)或[進一步瞭解](https://support.mozilla.org/kb/push-notifications-firefox)，包含如何撤回網站通知的資訊。
 
-###附加元件{: #addons }
+###附加元件 {: #addons }
 
 您可以透過 addons.mozilla.org（「AMO」）或 Firefox 工具列，選單按鈕中的 Firefox 附加元件管理員來安裝附加元件。
 
