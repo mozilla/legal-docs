@@ -50,7 +50,7 @@ Firefox affiche du contenu, tels les « snippets » (messages de Mozilla) et l
 
     Si vous renoncez à ce service, vous augmentez le risque d’interception de vos informations personnelles. [En savoir plus](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Rapports de plantage{: #crash-reporter }
+### Rapports de plantage {: #crash-reporter }
 Par défaut, avec les versions pour ordinateurs de bureau de Firefox, nous vous demanderons de partager un rapport contenant plus d’informations détaillées sur les plantages de Mozilla, mais vous pouvez refuser de le faire à tout moment.
 
 * __Données sensibles__ : les rapports de plantage comprennent un fichier de « vidage » du contenu de la mémoire de Firefox au moment du plantage, pouvant contenir des données qui vous identifient ou que vous pouvez considérer comme sensibles.
@@ -61,7 +61,7 @@ Par défaut, avec les versions pour ordinateurs de bureau de Firefox, nous vous 
 
 Vous pouvez [lire la documentation complète](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
-### Mesurez et soutenez notre
+### Mesurer et soutenir notre
 
 * __campagne marketing et nos données de référence__ : cela aide Mozilla à comprendre l’efficacité de nos campagnes marketing.
 {: #referraltracking }
@@ -110,7 +110,7 @@ Lisez [la documentation complète](https://github.com/mozilla/fxa-auth-server/bl
 
 [En savoir plus](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), notamment comment activer et désactiver la synchronisation.
 
-### géolocalisation {: #location-services }
+### Géolocalisation {: #location-services }
 
 * __Données de localisation pour le service de géolocalisation de Google__ : Firefox vous demandera toujours la permission avant de déterminer et partager votre localisation avec un site web qui la demande (par exemple, si un site de cartes routières a besoin de votre localisation pour vous proposer un itinéraire). Pour déterminer votre localisation, Firefox peut utiliser les fonctionnalités de géolocalisation de votre système d’exploitation, les réseaux Wi-Fi, les relais de réseaux mobiles ou les adresses IP, puis envoyer ces données au service de géolocalisation Google, qui dispose de sa propre [politique de confidentialité](https://www.google.com/privacy/lsf.html).
 
