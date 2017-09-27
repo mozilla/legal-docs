@@ -92,7 +92,7 @@ La documentazione completa è disponibile in [questa pagina](https://firefox-sou
 
 ### Account Firefox
 
-* __ Dati degli account Firefox__: Mozilla riceve il vostro indirizzo email e una hash della vostra password quando create un account Firefox. Potete scegliere di includere un nome visualizzato o un’immagine per il profilo. Il vostro indirizzo email viene inviato al nostro rivenditore email, SalesForce Marketing Cloud, che ha la propria [informativa sulla privay](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Se usate l’account Firefox per accedere ad altri siti o servizi web (come AMO o Pocket), riceveremo il timestamp del vostro accesso a questi servizi.
+* __Dati degli account Firefox__: Mozilla riceve il vostro indirizzo email e una hash della vostra password quando create un account Firefox. Potete scegliere di includere un nome visualizzato o un’immagine per il profilo. Il vostro indirizzo email viene inviato al nostro rivenditore email, SalesForce Marketing Cloud, che ha la propria [informativa sulla privay](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Se usate l’account Firefox per accedere ad altri siti o servizi web (come AMO o Pocket), riceveremo il timestamp del vostro accesso a questi servizi.
 
 * __Dati sulla posizione__: per motivi di sicurezza memorizziamo l’indirizzo IP che usate per accedere al vostro account Firefox per avere i dati approssimati della vostra città e del vostro Paese. Utilizziamo questi dati per inviare avvisi via e-mail nel caso di individuazione di attività sospette, come accessi all’account da altre località.
 
@@ -112,7 +112,7 @@ Leggere la [documentazione completa](https://github.com/mozilla/fxa-auth-server/
 
 ### Posizione {: #location-services }
 
-* __Dati sulla posizione al servizio di geolocalizzazione di Google__: Firefox chiede sempre l’autorizzazione prima di determinare e condividere la vostra posizione con un sito web che la richiede (ad esempio, se un sito web di mappe ha bisogno della vostra posizione per fornire direzioni). Per determinare la posizione, Firefox può usare le funzioni di: sistema di geolocalizzazione, reti Wi-fi, ripetitori per cellulari o indirizzo IP e può inviare questi dati al servizio di geolocalizzazione di Google, che ha la sua [informativa sulla privacy](https://www.google.com/privacy/lsf.html).
+* __Dati sulla posizione al servizio di geolocalizzazione di Google__: Firefox chiede sempre l’autorizzazione prima di determinare e condividere la vostra posizione con un sito web che la richiede (ad esempio, se un sito web di mappe ha bisogno della vostra posizione per fornire direzioni). Per determinare la posizione, Firefox può usare le funzioni di: sistema di geolocalizzazione, reti Wi-Fi, ripetitori per cellulari o indirizzo IP e può inviare questi dati al servizio di geolocalizzazione di Google, che ha la sua [informativa sulla privacy](https://www.google.com/privacy/lsf.html).
 
 [Ulteriori informazioni](https://www.mozilla.org/firefox/geolocation/).
 
