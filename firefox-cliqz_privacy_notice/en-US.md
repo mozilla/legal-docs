@@ -1,137 +1,176 @@
-# Firefox + Cliqz Privacy Notice
+## <span class="privacy-header-firefox">Firefox</span> + Cliqz <span class="privacy-header-policy">Privacy Notice</span>
 
-July, 2017
-{: datetime="2017-07-01" }
+*Effective September 28, 2017*
+{: datetime="2017-09-28" }
 
-We care about your privacy. When Firefox sends information to Mozilla (that's us), our [privacy policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
-## Things you should know
+That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve Firefox for everyone. If you are using a version of Firefox with Cliqz search recommendations, your browsing data will be sent to Cliqz Gmbh, a German company. You can read more about this data [below](#cliqz-features), including how to disable data sharing and search recommendations.
 
-Firefox automatically connects to us and our service providers to provide updates, security, Snippets, Firefox Health Report, and other features.
-{: #essential-features }
+In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Firefox.
 
-* **Browser and add-ons updates**
-{: #auto-updates }
+## Firefox by default shares data to:
 
-	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system, and version. You can [turn off updates by following these instructions](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) but it may leave you open to security vulnerabilities.
+### Improve performance and stability for users everywhere {: #health-report }
 
-	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off metadata updates](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) at any time, but it may leave you open to security vulnerabilities.
+* __Interaction data__: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).  
 
-* **Snippets**
+* __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
+
+Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+{: #telemetry }
+
+### Set a default search provider {: #defaultsearch }
+
+* __Location data__:  When you first use Firefox, it uses your IP address to set your default search provider based on your country.  [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+
+### Suggest relevant content 
+
+Firefox displays content, such as "Snippets" (messages from Mozilla) and Top Sites (websites suggested by Mozilla for first-time Firefox users).
+
+* __Location data__: Firefox uses your IP address to suggest relevant content based on your country.
+
+* __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content. This includes the number of times suggested content is displayed or clicked.
+
+* __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-	Firefox's default home page (&lt;about:home&gt;) loads small bits of information right below the search bar that we think will be useful to you. We call these "snippets". About once per day, Firefox connects to Mozilla and provides you with new snippets, if available. Mozilla may collect how often snippets are clicked, snippet name, browser locale, and which version of Firefox you're using. We only retain this information after 60 days in aggregate form.
+### Use Cliqz Results {: #cliqz-features }
+Firefox with Cliqz by default connects to Cliqz to display search results in the URL bar. Cliqz GmbH is a German company offering a privacy oriented search experience.  Learn more at their [privacy policy](https://cliqz.com/en/privacy-browser).  When the Cliqz feature is enabled:
 
-	To help display relevant snippets, Firefox sends Mozilla a monthly request to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally.	Firefox will then choose snippets to show you based on the locally stored country information.
+* __Search Queries and Webpage Data to Cliqz__: This includes text as you type in the URL bar, queries you send to certain search engines, and data about the webpages you visit and interactions with those pages, such as mouse movements, scrolls, and time spent.
 
-	Some Mozilla sponsored snippets are interactive and allow you to optionally share your phone number or email address. For example, you can enter your phone number to receive an SMS to install Firefox on Android. Your information is received and handled by our email and mobile marketing vendor.
+* __Interaction Data to Cliqz__: This includes your interactions with specific fields and buttons in the Cliqz feature. This data is tied to a unique identifier allowing Cliqz to understand performance over time.
 
-* **Firefox Health Report**
-{: #health-report .inproduct-link }
-
-	Firefox Health Report (FHR) is designed to provide you with insights about your browser's stability and performance and with support tips should you experience issues, such as high crash rates or slow startup times. Mozilla collects and aggregates your data with that of other Firefox users and sends it back to your browser so you can see how your Firefox performance changes over time. This data includes, for example: device hardware, operating system, Firefox version, add-ons (count and type), timing of browser events, rendering, session restores, length of session, interaction with search access points and use of Firefox search partner codes, how old a profile is, count of crashes, and count of pages. FHR does not send Mozilla URLs that you visit.
-
-	We use the data sent through FHR to provide users with FHR's functionality, such as helping you analyze and address performance issues with your browser. We also use what we learn from the FHR data in the aggregate to make Firefox better. You can choose to [turn data sharing off](https://support.mozilla.org/kb/firefox-health-report-understand-your-browser-perf#w_how-to-turn-data-sharing-on-or-off).
-
-* **Security**
-{: #security }
-
-	Firefox automatically checks for malicious or forged web pages, bad add-ons, and third-party issued SSL certificates.
-
-	Secure Website Certificates: When you visit a secure website (i.e. "https"), Firefox will validate the website's certificate. This may involve communicating with a third-party status provider specified by the certificate. Firefox sends to this third-party information identifying the site's [certificate](https://support.mozilla.org/kb/secure-website-certificate). You can [change your preferences](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab), but if you disable the online verification feature, Firefox cannot confirm the identity of the website you are visiting. Turning off this feature may increase the risk of your private information being intercepted. If you encounter an [untrusted connection](https://support.mozilla.org/kb/connection-untrusted-error-message), you can also choose to send Mozilla the associated certificates.
-
-	Firefox Forgery and Attack Protection: About twice per hour, Firefox downloads Google's SafeBrowsing lists to help block access to sites and downloads that are malicious or forged (Google's privacy policy is at <https://www.google.com/policies/privacy/>). For downloaded executables that do not appear in these lists, Firefox may send metadata, including URLs associated with the downloaded file, to the SafeBrowsing service. Visit <https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work> to learn more about or disable Safe Browsing. If you disable these features, Firefox cannot warn you of potentially illegitimate or malicious websites or downloaded files.
-
-* **Usage statistics** (also called "Telemetry" in non-release builds)
-{: #telemetry .inproduct-link}
-
-	Usage statistics or "Telemetry" is a feature in Firefox that sends Mozilla usage, performance, and responsiveness statistics about user interface features, memory, and hardware configuration. Your IP address is also collected as a part of a standard web log. Usage statistics are transmitted using SSL and help us improve future versions of Firefox. Once sent to Mozilla, usage statistics are aggregated and made available to a broad range of developers, including both Mozilla employees and public contributors. When Telemetry is enabled, certain short-term experiments may collect information about visited sites.
-
-	This feature is turned on by default in Nightly and Beta/Developer Edition builds of Firefox to help those users provide feedback to Mozilla. In the general release version of Firefox, this feature is turned off by default.
-
-	You can [learn more about Telemetry here](https://support.mozilla.org/kb/send-performance-data-improve-firefox) and how to enable or disable it.
-
-* **Tiles**
-{: #tiles }
-
-	Tiles are a feature of Firefox displayed on new tab pages. In order to provide the tiles feature, Firefox sends to Mozilla data relating to the tiles such as number of clicks, impressions, your IP address, locale information, and tile specific data (e.g., position and size of grid). In Firefox Beta, certain short-term Telemetry experiments (see above) for Tiles may collect information about commonly visited domains.
-
-* **Default Search**
-{: #defaultsearch }
-
-	To help choose the best default search engine for your location, Firefox sends Mozilla a request once to look up your location at a country level using your IP address. We then send that country level information back to Firefox, where it's stored locally. Firefox will then choose which search engine to use as its default based on the locally stored country information.
-
-* **Search Suggestions**
-{: #searchsuggestions }
-
-	Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your Default Search Engines (such as Google, Yahoo, etc.) and not by Firefox. If you enable this feature, and your Default Search Engine supports suggestions, Firefox may send the terms you type in the Awesome Bar or Search Bar to your Default Search Engine to retrieve suggestions, and is governed by the applicable Privacy Policy from your Default Search Engine. You can [learn more about Search Suggestions here](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) and how to enable or disable it.
-
-* **Referral and Campaign Tracking**{: #thirdparty } ** **{: #referraltracking }
-
-	To help understand and improve our marketing campaigns, Firefox may send “Referral Data” such as the website domain or advertising campaign that referred you to download and install Firefox.
- 
-	On Android and iOS, Firefox sends Referral Data to our mobile analytics vendor, and also includes a Google advertising ID, IP address, timestamp, country, locale, operating system, and app version. Learn more [here](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices), including how to disable this reporting.
-
-	On desktop, Firefox records and sends Referral Data to Mozilla as part of Firefox Health Report.  Learn more [here](https://support.mozilla.org/kb/desktop-attribution-privacy), including how to opt-out or disable this reporting.
-
-
----------------------------------------
-
-When you ask it to, Firefox also connects to Mozilla to provide you with features such as Sync, location services, crash reporting, and add-ons.
-{: #optional-features }
-
-* **Sync**
-{: #sync }
-
-	[Firefox Sync](https://www.mozilla.org/firefox/sync/) is a service that allows you to sync your Firefox bookmarks, browsing history, passwords, and settings across all of your devices. If you use the Sync service, you can read the [Firefox Sync privacy notice](https://accounts.firefox.com/legal/privacy).
-
-* **Location services**
-{: #location-services }
-
-	Firefox has a feature that allows sites to request your location (e.g., to allow those sites to show your location on a map). If a site requests your location, Firefox seeks your permission before determining and sharing your location. In order to determine your location, Firefox may use several pieces of data to determine your location, including your operating systems geolocation features, Wi-Fi networks, cell phone towers, or IP address. Estimating your location involves sending some of this information to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
-
-* **Crash reporting**
-{: #crash-reporter .inproduct-link }
-
-	You have the option to send Mozilla a crash report after Firefox crashes. This report contains technical information for us to improve Firefox including why Firefox crashed, the active URL at time of crash, and the state of computer memory during the crash. The crash report we receive may include personal information. We make portions of crash reports available publicly at <https://crash-stats.mozilla.com/>). Before publicly posting crash reports, we take steps to automatically redact personal information. We do not redact anything you may write in the comments box.
-
-* **SSL Errors**
-{: #ssl-errors }
-
-	You have the option to send Mozilla an error report when a secure website connection is broken. This report records the website certificate as well as diagnostic error codes. This information helps Mozilla monitor the effectiveness of "pinned" website certificates and detect potential phishing attacks against our users.
-
-* **Add-ons**
-{: #addons }
-
-	Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
-
-* **Push Notifications**
-{: #push-notifications }
-
-	Push Notifications allow sites to send notifications and updates to you if you opt-in. To receive notifications, Firefox sends information to Mozilla about what sites you have agreed to receive Push Notification from. We store this information in anonymized form, along with the number of notifications each site sends you. To help developers improve their use of Push Notifications, Mozilla may share aggregated information with certain developers including the number of visitors to their site that have subscribed or unsubscribed to their Push Notifications. You can manage Push Notifications in Firefox by following [these instructions](https://support.mozilla.org/kb/push-notifications-firefox).
+* __Interaction Data to Mozilla__: This includes counts of visits to search engine pages, which search engines you use, and your Cliqz identifier.  
 	
----------------------------------------
+[Learn more](https://cliqz.com/en/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to disable data collection:
+  * type "about:addons" into your Firefox URL bar
+  * select "Extensions" on the left menu bar
+  * if installed, Cliqz will appear on the right
+  * selecting "Disable" will turn off the Cliqz feature and stop related data collection
+  * selecting "Remove" will uninstall the Cliqz feature from Firefox
 
-Some versions of Firefox automatically connect to Cliqz to display search results in the URL bar.  
-{: #cliqz-features }
 
-Cliqz GmbH is a German company offering a privacy oriented search experience.  Learn more at their [privacy policy](https://cliqz.com/en/privacy-browser).  When the Cliqz feature is enabled:
+### Improve security for users everywhere {: #security }
 
-* Firefox shares the following data with Cliqz to provide functionality and improve performance of the Cliqz feature for everyone:
-  * **Search Queries and Webpage Data:** This includes text as you type in the URL bar, queries you send to certain search engines, and data about the webpages you visit and interactions with those pages, such as mouse movements, scrolls, and time spent.
-  * **Interaction Data:** This includes your interactions with specific fields and buttons in the Cliqz feature. This data is tied to a unique identifier allowing Cliqz to understand performance over time.
+* __Technical data for updates__: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+{: #auto-updates }
+
+* __Technical data for add-ons blocklist__: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). 
+
+* __Webpage and technical data to Google’s SafeBrowsing service__: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from.  
+
+    [Learn more](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) or read [Google’s Privacy Policy](https://www.google.com/policies/privacy/). Opting out prevents Firefox from warning you of potentially illegitimate or malicious websites or downloaded files.
+
+* __Webpage and technical data to Certificate Authorities__: When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website.  
+
+    Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+
+### Crash reports {: #crash-reporter }
+By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.
+
+* __Sensitive data__:  Crash reports include a ‘dump file’ of Firefox’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.
+
+* __Webpage data__:  Crash reports include the active URL at time of crash.
+
+* __Technical data__:  Crash reports include data on why Firefox crashed and the state of device memory and execution during the crash.
+
+Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
+
+### Measure and support our marketing
+
+* __Campaign and Referral Data__: This helps Mozilla understand the effectiveness of our marketing campaigns.
+{: #referraltracking }
+
+    _On Desktop_: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation.
+
+    _On iOS and Android_: Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/privacy_policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+{: #thirdparty }
+
+* __Technical & Interaction Data__: 
+
+    _On iOS and Android_: Firefox by default sends data about what features you use in Firefox to Leanplum, our mobile marketing vendor, which has its own [privacy policy](https://www.leanplum.com/privacy/).  This data allows us to test different features and experiences, as well as provide customized messages and recommendations for improving your experience with Firefox.
+
+    Read the documentation for [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) or [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), or learn how to [disable this feature](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+
+---
+
+## If you use these features, Firefox will share data to provide functionality:  {: #optional-features }
+
+### Search
+
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab.  _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  
+
+* __Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+{: #searchsuggestions } 
+
+    [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
+
+* __Search Queries and Webpage Data to Cliqz__: Firefox with Cliqz by default connects to Cliqz to display search results in the URL bar. [Learn more](#cliqz-features)
+
+### Firefox Accounts
+
+* __Firefox Account data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of your log-in from those services. 
+
+* __Location data__: For security purposes, we store the IP addresses you use to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
+
+* __Interaction data__: We receive data such as visits to and interaction with the Firefox Accounts website and menu preferences, and interactions with onboarding, email and SMS messages. [Read more](https://www.mozilla.org/privacy/websites/) about Mozilla’s data practices for websites and email.  
+
+* __Technical data__: To display which devices are synced to your Firefox Account and for functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account.  
+
+Read the [full documentation](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) or [learn more](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), including how to [delete your account](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+
+### Sync {: #sync }
+
+* __Synced data__: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Firefox Account will delete related Firefox Sync content. You can also read the [documentation](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+  
+* __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
+
+[Learn more](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), including how to enable or disable sync.
+
+### Location {: #location-services }
+
+* __Location data to Google's geolocation service__: Firefox always asks before determining and sharing your location with a requesting website (for example, if a map website needs your location to provide directions).  To determine location, Firefox may use your operating system’s geolocation features, Wi-fi networks, cell phone towers, or IP address, and may send this data to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
+
+[Learn more](https://www.mozilla.org/firefox/geolocation/).
+
+### Firefox Screenshots {: #screenshots }
+
+* __Screenshot uploads__: Screenshots you choose to upload are sent to Mozilla and stored for the limited amount of time indicated, which you can change.  We may access your uploaded screenshots when reasonably necessary for the operation of the service.  You can delete your uploaded screenshots at any time.  
+
+* __Interaction data__: We receive data such as visits to the Firefox Screenshots website, how often uploaded screenshots are accessed and shared by you or others, and your interactions with buttons, tiles, and mouse movements related to capturing screenshots.
+
+    For visits to the Firefox Screenshots website, our [websites privacy notice](https://www.mozilla.org/privacy/websites/) describes the types of data we may additionally collect.
+
+* __Technical data__: We receive data such as the average size and number of your uploaded screenshots, your Firefox browser version, device operating system, and errors.  The IP address accessing the Firefox Screenshots website is temporarily collected as part of a standard server log. 
+
+Read the [full documentation](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) or [learn more](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
+
+### Website notifications {: #push-notifications }
+
+* __Connection data__: If you allow a website to send you notifications, Firefox connects with Mozilla and uses your IP address to relay the message.  Mozilla cannot access the content of messages.    
+
+* __Interaction data__: We receive aggregate data such as the number of Firefox subscriptions and unsubscriptions to website notifications, number of messages sent, timestamps, and senders (which may include specific website providers).  
+
+Read the [full documentation](https://mozilla-push-service.readthedocs.io/en/latest/) or [learn more](https://support.mozilla.org/kb/push-notifications-firefox), including how to revoke website notifications.
+
+### Add-ons {: #addons }
+
+You can install Add-ons from addons.mozilla.org ("AMO") or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar.
  
-* Firefox shares the following data with Mozilla to better understand interactions between Firefox and the Cliqz feature:
-  * **Interaction Data:** This includes counts of visits to search engine pages, which search engines you use, and a Cliqz identifier.  
-	
-* [Learn more](https://cliqz.com/en/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to stop data collection:
-  * type “about:addons” into your Firefox URL bar
-  * select “Extensions” on the left menu bar
-  * if installed, Cliqz will appear on the right.  
-  * selecting “Disable” will turn off the Cliqz feature and stop related data collection
-  * selecting “Remove” will uninstall the Cliqz feature from Firefox.   
+* __Search queries__: Search queries in the Add-on Manager are sent to Mozilla to provide you with suggested Add-ons.  
 
-##
+* __Interaction data__:  We receive aggregate data about visits to the AMO website and the Add-ons Manager in Firefox, as well as interactions with content on those pages. Read about data practices on [Mozilla websites](https://www.mozilla.org/privacy/websites/).
 
-Except as noted otherwise, this privacy notice is for the most recent general release versions of Firefox. Our pre-release versions (Beta/Developer Edition, Nightly, and TestFlight) are still under active development and may contain new features or have different privacy characteristics Pre-release versions automatically send [Telemetry data](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) to Mozilla to help us improve Firefox.
+* __Technical data for updates__: Firefox periodically connects with Mozilla to install updates to Add-ons.  Your installed Add-ons, Firefox version, language, and device operating system are used to apply the correct updates.  
+
+---
+
+### Footnote
+
+This privacy notice is for the most recent general release version of Firefox + Cliqz distributed by Mozilla.  If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.  
 {: #pre-release }
+
+Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, TestFlight and BuddyBuild) are under active development and may contain different privacy characteristics. 
+
