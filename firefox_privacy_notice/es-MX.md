@@ -20,7 +20,7 @@ En este Aviso de privacidad, te explicamos qué datos comparte Firefox y te indi
 Lee la documentación de telemetría para dispositivos de [Escritorio](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o aprende cómo [salirte](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de esta recopilación de datos.
 {: #telemetry }
 
-### Configura un proveedor de búsqueda predeterminado{: #defaultsearch }
+### Configura un proveedor de búsqueda predeterminado {: #defaultsearch }
 
 * __Datos de ubicación__:  Cuando usas Firefox por primera vez, este utiliza tu dirección IP para configurar tu proveedor de búsqueda predeterminado basándose en tu país.  [Obtén más información](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -79,7 +79,7 @@ Lee la documentación completa [aquí](https://firefox-source-docs.mozilla.org/t
 
 ---
 
-## Si usas estas funciones, Firefox compartirá datos para proporcionar funcionalidad:  {: #optional-features }
+## Si usas estas funciones, Firefox compartirá datos para proporcionar funcionalidad: {: #optional-features }
 
 ### Búsqueda
 
@@ -110,7 +110,7 @@ Lee la [documentación completa](https://github.com/mozilla/fxa-auth-server/blob
 
 [Obtén más información](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), incluido cómo habilitar o deshabilitar Sync.
 
-### Ubicación{: #location-services }
+### Ubicación {: #location-services }
 
 * __Datos de ubicación para el servicio de geolocalización de Google__: Firefox siempre te pregunta antes de determinar y compartir tu ubicación con un sitio web que la solicita (por ejemplo, si un sitio web de mapa necesita tu ubicación para proporcionar instrucciones sobre cómo llegar).  Para determinar la ubicación, Firefox podría usar las funciones de geolocalización de tu sistema operativo, redes Wi-fi, torres de teléfonos celulares, o dirección IP, y podría enviar estos datos al servicio de geolocalización de Google, que tiene su propia [política de privacidad](https://www.google.com/privacy/lsf.html).
 
@@ -128,7 +128,7 @@ Lee la [documentación completa](https://github.com/mozilla/fxa-auth-server/blob
 
 Lee la [documentación completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) u [obtén más información](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
-### Notificaciones del sitio web{: #push-notifications }
+### Notificaciones del sitio web {: #push-notifications }
 
 * __Datos de conexión__: Si permites que un sitio web te envíe notificaciones, Firefox se conecta con Mozilla y utiliza tu dirección IP para retransmitir el mensaje.  Mozilla no puede acceder al contenido de los mensajes.    
 
