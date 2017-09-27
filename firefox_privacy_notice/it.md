@@ -126,7 +126,7 @@ Leggere la [documentazione completa](https://github.com/mozilla/fxa-auth-server/
 
 * __Dati tecnici__: riceviamo dati come le dimensioni medie, il numero di schermate caricate, la versione del browser Firefox, il sistema opertivo del dispositivo e gli errori. L’indirizzo IP che accede al sito web Firefox Screenshots viene raccolto temporaneamente quale parte di un log di server standard.
 
-Leggere la [full documentazione](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o [ulteriori informazioni](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
+Leggere la [documentazione completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o [ulteriori informazioni](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
 ### Notifiche da siti web {: #push-notifications }
 
