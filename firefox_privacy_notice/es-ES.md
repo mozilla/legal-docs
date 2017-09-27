@@ -110,7 +110,7 @@ Consulte la [documentación completa](https://github.com/mozilla/fxa-auth-server
 
 [Visite este página](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) para obtener más información. Aquí también encontrará información sobre cómo habilitar y deshabilitar Sync.
 
-### Ubicación{: #location-services }
+### Ubicación {: #location-services }
 
 * __Datos de ubicación para el servicio de geolocalización de Google__: Firefox siempre pregunta antes de determinar y compartir su ubicación con los sitios web que deseen conocerla (por ejemplo, si un sitio web de mapas requiere su ubicación para dar direcciones).  Para determinar su ubicación, es posible que Firefox use las funciones de geolocalización de su sistema operativo, redes de Wi-fi, antenas de telefonía móvil y su dirección IP, y que envíe estos datos al servicio de geolocalización de Google, que tiene su propia [política de privacidad](https://www.google.com/privacy/lsf.html).
 
