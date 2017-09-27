@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Politique de confidentialité</span>
+﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">— Politique de confidentialité</span>
 
 *Date d’effet : 28 septembre 2017*
 {: datetime="2017-09-28" }
