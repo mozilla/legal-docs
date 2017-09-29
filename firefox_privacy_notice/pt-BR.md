@@ -3,7 +3,7 @@
 *Vigência em 28 de setembro de 2017*
 {: datetime="2017-09-28" }
 
-## Na Mozilla, acreditamos que a privacidade seja fundamental para uma Internet saudável.
+## Na Mozilla, acreditamos que a privacidade é fundamental para uma Internet saudável.
 
 É por isso que criamos o Firefox e todos os nossos produtos, a fim de proporcionar a você mais controle sobre as informações que você compartilha on-line e conosco. Nós nos esforçamos para coletar apenas o necessário para melhorar o Firefox para todos.
 
