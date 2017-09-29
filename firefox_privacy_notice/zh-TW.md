@@ -37,7 +37,7 @@ Firefox 會顯示各種內容，如「Snippet」（來自 Mozilla 的訊息）�
 
 ###為所有使用者增進安全性 {: #security }
 
-*__更新用技術資料__:桌機版的 Firefox 會定期連線至 Mozilla 檢查是否有瀏覽器更新。為了正確安裝更新，系統將會傳送您使用的 Firefox 版本、語言及裝置作業系統等資訊。若您使用其他服務下載安裝 Firefox 行動版，則 Firefox 可能會連線到其他服務上。[進一步瞭解](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
+*__更新用技術資料__：桌機版的 Firefox 會定期連線至 Mozilla 檢查是否有瀏覽器更新。為了正確安裝更新，系統將會傳送您使用的 Firefox 版本、語言及裝置作業系統等資訊。若您使用其他服務下載安裝 Firefox 行動版，則 Firefox 可能會連線到其他服務上。[進一步瞭解](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
 *__附加元件封鎖清單技術資料__：Firefox 桌機版及 Android 版會定期連線至 Mozilla，以便保護您及其他人不受惡意附加元件影響。為了套用並更新附加元件封鎖清單，系統需要您的 Firefox 版本、語言、裝置作業系統及已安裝的附加元件。[進一步瞭解](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)。
@@ -83,7 +83,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 ###搜尋
 
-您可以在 Firefox 當中的好幾個地方直接進行搜尋，包含 Awesome Bar、搜尋列或在「新分頁」內搜尋。_Mozilla 不會收到您的搜尋內容。_搜尋資料將會傳送給您的搜尋供應商，他們有自己的隱私權政策。
+您可以在 Firefox 當中的好幾個地方直接進行搜尋，包含 Awesome Bar、搜尋列或在「新分頁」內搜尋。 _Mozilla 不會收到您的搜尋內容。_ 搜尋資料將會傳送給您的搜尋供應商，他們有自己的隱私權政策。
 
 *__搜尋建議__：預設情況下，Firefox 會將搜尋內容傳送給您的搜尋供應商，以便協助您檢視其他人經常搜尋的句子，以及增進您的搜尋使用體驗。若您使用的搜尋提供商不支援搜尋建議功能，就不會傳送這些資訊。
 {: #searchsuggestions } 
@@ -130,7 +130,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 ###網站通知 {: #push-notifications }
 
-*__連線資料__：如果您允許某網站向您傳送通知，Fierfox 會連線至 Mozilla 並使用您的 IP 位置，以便傳遞該訊息。Mozilla 無法存取訊息內容。
+*__連線資料__：如果您允許某網站向您傳送通知，Fierfox 會連線至 Mozilla 並使用您的 IP 位置來轉遞訊息。Mozilla 無法存取訊息內容。
 
 *__互動資料__：我們收集的綜合資料包含 Firefox 訂閱或取消訂閱網站通知的數量、傳送訊息的數量、時間戳記及傳送者（其中可能包含特定的網站提供商）。
 
@@ -144,13 +144,13 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 *__互動資料__：我們會收到您瀏覽 AMO 網站及 Firefox 附加元件管理員的綜合資料，以及您如何與這些頁面內容互動的過程。請閱讀 [Mozilla 網站](https://www.mozilla.org/privacy/websites/)上的資料實踐方針。
 
-*__更新用技術資料__:Firefox 會定期連線到 Mozilla 更新附加元件。為了安裝正確的更新，系統會傳送您安裝的附加元件、Firefox 版本、語言及裝置作業系統等資訊。
+*__更新用技術資料__：Firefox 會定期連線到 Mozilla 更新附加元件。為了安裝正確的更新，系統會傳送您安裝的附加元件、Firefox 版本、語言及裝置作業系統等資訊。
 
 ---
 
 ###補充說明
 
-這項隱私權聲明適用於 Mozilla 最新發佈的 Firefox 一般版本。如果您的 Firefox 來自其他地方，或您使用較舊的版本時，您所使用的 Firefox 內可能會有不同的隱私權規定。
+這項隱私權聲明適用於 Mozilla 發佈的 Firefox 最新一般版本。如果您的 Firefox 來自不同發行管道，或您使用較舊的版本時，您所使用的 Firefox 內可能會有不同的隱私權規定。
 {: #pre-release }
 
 Mozilla 的預先發佈版 Firefox（發佈管道包含 Nightly、Beta、TestFlight 及 BuddyBuild）仍然處於開發狀態，並可能會有不同的隱私權規定。
