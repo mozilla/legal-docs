@@ -28,7 +28,7 @@ Přečtěte si dokumentaci o telemetrii pro [stolní počítače](http://firefox
 
 Firefox zobrazuje obsah, jako jsou například „snippety“ (zprávy od společnosti Mozilla) a Nejlepší stránky (webové stránky navržené společností Mozilla pro první použití Firefoxu uživateli).
 
-* __Údaje o místě__: Firefox využívá vaší adresu IP pro návrh relevantního obsahu podle vaší země.
+* __Údaje o místě__: Firefox využívá vaši adresu IP pro návrh relevantního obsahu podle vaší země.
 
 * __Technické údaje a údaje o interakci__: Firefox nám zasílá údaje jako například o poloze, velikosti a umístění námi navrhovaného obsahu, jakož i základní údaje o vaší interakci s navrhovaným obsahem Firefoxu. To zahrnuje počet zobrazení navrhovaného obsahu nebo kliknutí na něj.
 
