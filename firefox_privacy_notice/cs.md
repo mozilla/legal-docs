@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
+﻿## <span class="privacy-header-policy">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-firefox">Firefox</span>
 
 *Účinné od 28. září 2017*
 {: datetime="2017-09-28" }
