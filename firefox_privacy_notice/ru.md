@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox"></span> <span class="privacy-header-policy">Уведомление о конфиденциальности для веб-браузера Firefox</span>
+﻿## <span class="privacy-header-policy">Уведомление о конфиденциальности для веб-браузера</span> <span class="privacy-header-firefox">Firefox</span> 
 
 *Дата вступления в силу: 28 сентября 2017 г.*
 {: datetime="2017-09-28" }
