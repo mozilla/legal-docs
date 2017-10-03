@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox"></span> <span class="privacy-header-policy">Aviso de privacidad de Firefox</span>
+﻿## <span class="privacy-header-policy">Aviso de privacidad de</span> <span class="privacy-header-firefox">Firefox</span>
 
 *Vigente a partir del 28 de septiembre de 2017*
 {: datetime="2017-09-28" }
