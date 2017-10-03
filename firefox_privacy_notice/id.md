@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Pemberitahuan</span> <span class="privacy-header-policy">Privasi Firefox</span>
+﻿## <span class="privacy-header-policy">Pemberitahuan Privasi</span> <span class="privacy-header-firefox">Firefox</span>
 
 *Berlaku 28 September 2017*
 {: datetime="2017-09-28" }
