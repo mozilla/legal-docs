@@ -45,6 +45,8 @@ Firefox with Cliqz by default connects to Cliqz to display search results in the
 
 * __Interaction Data to Mozilla__: This includes counts of visits to search engine pages, which search engines you use, and your Cliqz identifier.
 
+* __Location Data to Cliqz__: This includes your location whenever you open a new window or type in the URL bar. You may opt-out of location sharing in the Cliqz Settings menu in the URL bar. 
+
 [Learn more](https://cliqz.com/en/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to disable data collection:
 
 * Type "about:addons" into your Firefox URL bar
