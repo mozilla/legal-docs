@@ -37,7 +37,7 @@ Firefox zeigt Inhalte wie beispielsweise „Snippets“ (Nachrichten von Mozilla
 
 ### Cliqz-Ergebnisse verwenden {: #cliqz-features }
 
-Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht.  Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/en/privacy-browser) von Cliqz.  Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
+Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht.  Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/privacy-browser) von Cliqz.  Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
 
 * __Suchanfragen und Webseitendaten an Cliqz__: Dies umfasst Text, den Sie in die URL-Leiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
 
@@ -47,7 +47,7 @@ Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergeb
 
 * __Standortdaten an Cliqz__: Dies umfasst deinen Standort, immer wenn du ein neues Fenster öffnest oder etwas in die Adressleiste eingibst. Das Teilen deines Standorts kannst du über das Cliqz-Menü für die Einstellungen in der Adressleiste per Opt-out deaktivieren. 
 
-[Weitere Informationen](https://cliqz.com/en/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
+[Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
 
 * Geben Sie „about:addons“ in Ihre Firefox-Adressleiste ein.
 * Wählen Sie in der linken Menüleiste „Erweiterungen“ aus.
