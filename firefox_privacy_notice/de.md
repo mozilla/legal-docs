@@ -13,7 +13,7 @@ In diesem Datenschutzhinweis erklären wir, welche Daten Firefox teilt und verwe
 
 ### Verbesserung der Leistung und Stabilität für Benutzer überall {: #health-report }
 
-* __Interaktionsdaten__: Firefox sendet Daten über Ihre Interaktionen mit dem Programm (z. B. die Anzahl offener Tabs und Fenster, die Anzahl der besuchten Webseiten, Anzahl und Typ der installierten Firefox-Add-ons sowie Sitzungslänge) sowie mit Firefox-Funktionen, die von Mozilla oder unseren Partnern angeboten werden (z. B. Interaktion mit Firefox-Suchfunktionen und Suchpartnerverweisen) an uns.  
+* __Interaktionsdaten__: Firefox sendet Daten über Ihre Interaktionen mit dem Firefox-Browser (z. B. die Anzahl offener Tabs und Fenster, die Anzahl der besuchten Webseiten, Anzahl und Typ der installierten Firefox-Add-ons sowie Sitzungslänge) sowie mit den Firefox-Funktionen, die von Mozilla oder unseren Partnern angeboten werden (z. B. Interaktion mit Firefox-Suchfunktionen und Suchpartnerverweisen) an uns.  
 
 * __Technische Daten__: Firefox sendet Daten über Firefox-Version und Sprache, Gerätebetriebssystem und Hardware-Konfiguration, Speicher, grundlegende Informationen über Systemabstürze und Fehler, Ergebnisse automatisierter Prozesse wie z. B. Updates, SafeBrowsing und Aktivierung an uns.  Wenn Firefox Daten an uns sendet, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst.  
 
@@ -22,7 +22,7 @@ Lesen Sie die Telemetrie-Dokumentation für [Desktop](http://firefox-source-docs
 
 ### Festlegen eines Standardsuchanbieters {: #defaultsearch }
 
-* __Standortdaten__:  Wenn Sie Firefox zum ersten Mal verwendet, legt das Programm anhand Ihrer IP-Adresse und Ihrem Land Ihren Standardsuchanbieter fest.  [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+* __Standortdaten__:  Wenn Sie Firefox zum ersten Mal verwenden, legt das Programm anhand Ihrer IP-Adresse und Ihrem Land Ihren Standardsuchanbieter fest.  [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Vorschlag relevanter Inhalte 
 
@@ -63,12 +63,12 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
 ### Messen und Unterstützen unseres Marketings
 
-* __Kampagnen- und Verweisdaten__: Damit kann Mozilla die Effektivität unserer Marketingkampagnen messen..
+* __Kampagnen- und Verweisdaten__: Damit kann Mozilla die Effektivität unserer Marketingkampagnen messen.
 {: #referraltracking }
 
     _Desktop_: Firefox sendet standardmäßig HTTP-Daten an Mozilla, die im Firefox-Installationsprogramm enthalten sein können.  Dadurch können wir die Website-Domain oder Werbekampagne (ggf.) bestimmen, die Sie auf unsere Download-Seite verwiesen hat. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oder stellen Sie dies per [Opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation ab.
 
-    _iOS und Android_: Firefox sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/privacy_policy/) hat.  Mobilkampagnendaten umfassen eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _iOS und Android_: Firefox sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/privacy_policy/) hat.  Mobilkampagnendaten umfassen eine Google-Werbe-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
 {: #thirdparty }
 
 * __Technische und Interaktionsdaten__: 
@@ -106,13 +106,13 @@ Lesen Sie die [vollständige Dokumentation](https://github.com/mozilla/fxa-auth-
 
 * __Synchronisierte Daten__: Wenn Sie Sync aktivieren, erhält Mozilla Informationen, die Sie über verschiedene Geräte hinweg in verschlüsselter Form synchronisieren. Dies kann Firefox-Tabs, Add-ons, Passwörter, Zahlungs-AutoFill-Informationen, Lesezeichen, Chronik und Einstellungen umfassen.  Durch Löschen Ihres Firefox-Kontos werden die damit verbundenen Firefox Sync-Inhalte gelöscht. Sie können auch die [Dokumentation](http://moz-services-docs.readthedocs.io/en/latest/sync/) lesen.
   
-* __Technische und Interaktionsdaten__: Wenn Sie Sync aktivieren, sendet Firefox in gewissen Abständen grundlegende Informationen über den jüngsten Versuch, Ihre Daten zu synchronisieren, mittels Telemetrie. Dies umfasst Informationen wann die Synchronisierung stattfand, ob sie erfolgreich war oder nicht und welche Art von Gerät die Synchronisierung versucht hat. Sie können auch die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lesen.
+* __Technische und Interaktionsdaten__: Wenn Sie Sync aktivieren, sendet Firefox in gewissen Abständen grundlegende Informationen über den jüngsten Versuch, Ihre Daten zu synchronisieren, mittels Telemetrie. Dies umfasst Informationen wann die Synchronisierung stattfand, ob sie erfolgreich war oder nicht und welche Art von Gerät die Synchronisierung versucht hat, vorzunehmen. Sie können auch die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lesen.
 
 [Weitere Informationen](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), darunter Angaben dazu, wie Sie Sync aktivieren oder deaktivieren.
 
 ### Standort {: #location-services }
 
-* __Standortdaten an den Standortortungsdienst von Google__: Firefox fragt stets, bevor Ihr Standort bestimmt und mit einer Website geteilt wird, die diese Daten anfordert (z. B. wenn eine Karten-Website Ihren Standort benötigt, um eine Wegbeschreibung anzuzeigen).  Um den Standort zu bestimmen, kann Firefox die Standortortungsfunktionen Ihres Betriebssystems, WLAN-Netzwerke, Mobilfunktürme oder die IP-Adresse verwenden und diese Daten an den Standortortungsdienst von Google senden, der eine eigene [Datenschutzerklärung](https://www.google.com/privacy/lsf.html)hat.
+* __Standortdaten an den Standortortungsdienst von Google__: Firefox fragt stets, bevor Ihr Standort bestimmt und mit einer Website geteilt wird, die diese Daten anfordert (z. B. wenn eine Karten-Website Ihren Standort benötigt, um eine Wegbeschreibung anzuzeigen).  Um den Standort zu bestimmen, kann Firefox die Standortortungsfunktionen Ihres Betriebssystems, WLAN-Netzwerke, Mobilfunktürme oder die IP-Adresse verwenden und diese Daten an den Standortortungsdienst von Google senden, der eine eigene [Datenschutzerklärung](https://www.google.com/privacy/lsf.html) hat.
 
 [Weitere Informationen](https://www.mozilla.org/firefox/geolocation/).
 
