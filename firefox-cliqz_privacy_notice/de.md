@@ -5,7 +5,7 @@
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
-Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontrolle über die Informationen haben, die Sie online teilen, sowie die Informationen, die Sie mit uns teilen. Wir haben das Ziel, nur das zu erfassen, was nötig ist, um Firefox für alle zu verbessern. Falls Sie eine Version von Firefox mit Cliqz-Suchempfehlungen verwenden, werden Ihre Browser-Daten an Cliqz GmbH geschickt, ein deutsches Unternehmen. Mehr über diese Daten, u. a. Angaben zum Deaktivieren der Datenfreigabe und Suchempfehlungen, finden Sie weiter [unten](#cliqz-features).
+Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontrolle über die Informationen haben, die Sie online teilen, sowie die Informationen, die Sie mit uns teilen. Wir haben das Ziel, nur das zu erfassen, was nötig ist, um Firefox für alle zu verbessern. Falls Sie eine Version von Firefox mit Cliqz-Suchempfehlungen verwenden, werden Ihre Browser-Daten an die Cliqz GmbH geschickt, ein deutsches Unternehmen. Mehr über diese Daten, u. a. Angaben zum Deaktivieren der Datenfreigabe und Suchempfehlungen, finden Sie weiter [unten](#cliqz-features).
 
 In diesem Datenschutzhinweis erklären wir, welche Daten Firefox teilt und verweisen Sie auf Einstellungen, mit denen Sie noch weniger teilen. Wir halten uns auch an die in der Mozilla-[Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen, die wir in Firefox erfassen.
 
@@ -13,7 +13,7 @@ In diesem Datenschutzhinweis erklären wir, welche Daten Firefox teilt und verwe
 
 ### Verbesserung der Leistung und Stabilität für Benutzer überall {: #health-report }
 
-* __Interaktionsdaten__: Firefox sendet Daten über Ihre Interaktionen mit Firefox (z. B. die Anzahl offener Tabs und Fenster, die Anzahl der besuchten Webseiten, Anzahl und Typ der installierten Firefox-Add-ons sowie Sitzungslänge) sowie mit Firefox-Funktionen, die von Mozilla oder unseren Partnern angeboten werden (z. B. Interaktion mit Firefox-Suchfunktionen und Suchpartnerverweisen) an uns.
+* __Interaktionsdaten__: Firefox sendet Daten über Ihre Interaktionen mit dem Firefox-Browser (z. B. die Anzahl offener Tabs und Fenster, die Anzahl der besuchten Webseiten, Anzahl und Typ der installierten Firefox-Add-ons sowie Sitzungslänge) sowie mit Firefox-Funktionen, die von Mozilla oder unseren Partnern angeboten werden (z. B. Interaktion mit Firefox-Suchfunktionen und Suchpartnerverweisen) an uns.
 
 * __Technische Daten__: Firefox sendet Daten über Firefox-Version und Sprache, Gerätebetriebssystem und Hardware-Konfiguration, Speicher, grundlegende Informationen über Systemabstürze und Fehler, Ergebnisse automatisierter Prozesse wie z. B. Updates, SafeBrowsing und Aktivierung an uns.  Wenn Firefox Daten an uns sendet, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst.
 
@@ -22,7 +22,7 @@ Lesen Sie die Telemetrie-Dokumentation für [Desktop](http://firefox-source-docs
 
 ### Festlegen eines Standardsuchanbieters {: #defaultsearch }
 
-* __Standortdaten__:  Wenn Sie Firefox zum ersten Mal verwendet, legt das Programm anhand Ihrer IP-Adresse und Ihrem Land Ihren Standardsuchanbieter fest.  [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+* __Standortdaten__:  Wenn Sie Firefox zum ersten Mal verwenden, legt das Programm anhand Ihrer IP-Adresse und Ihrem Land Ihren Standardsuchanbieter fest.  [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Vorschlag relevanter Inhalte
 
@@ -37,17 +37,17 @@ Firefox zeigt Inhalte wie beispielsweise „Snippets“ (Nachrichten von Mozilla
 
 ### Cliqz-Ergebnisse verwenden {: #cliqz-features }
 
-Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht.  Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/privacy-browser) von Cliqz.  Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
+Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. Die Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht.  Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/privacy-browser) von Cliqz.  Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
 
 * __Suchanfragen und Webseitendaten an Cliqz__: Dies umfasst Text, den Sie in die URL-Leiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
 
-* __Interaktionsdaten an Cliqz__: Dies umfasst Ihre Interaktionen mit bestimmten Feldern und Schaltflächen im Cliqz-Feature. Diese Daten sind mit einem eindeutigen Identifikator verknüpft, sodass Cliqz Informationen über die Leistung über Zeit abrufen kann.
+* __Interaktionsdaten an Cliqz__: Dies umfasst Ihre Interaktionen mit bestimmten Feldern und Schaltflächen im Cliqz-Feature. Diese Daten sind mit einer eindeutigen Kennung (sog. Unique Identifier) verknüpft, die es Cliqz ermöglicht, die Nutzung im Laufe der Zeit zu verstehen.
 
-* __Interaktionsdaten an Mozilla__: Dies umfasst Zählungen der Besuche von Suchmaschinenseiten, welche Suchmaschinen Sie verwenden und Ihren Cliqz-Identifikator.
+* __Interaktionsdaten an Mozilla__: Dies umfasst die Anzahl der Besuche auf Suchmaschinenseiten, welche Suchmaschinen Sie verwenden und Ihre Cliqz-Kennung.
 
-* __Standortdaten an Cliqz__: Dies umfasst deinen Standort, immer wenn du ein neues Fenster öffnest oder etwas in die Adressleiste eingibst. Das Teilen deines Standorts kannst du über das Cliqz-Menü für die Einstellungen in der Adressleiste per Opt-out deaktivieren. 
+* __Standortdaten an Cliqz__: Dies umfasst deinen Standort, immer wenn du ein neues Fenster öffnest oder etwas in die Adressleiste eingibst. Das Teilen deines Standorts kannst du mittels der Einstellungen im Cliqz-Menü in der Adressleiste deaktivieren. 
 
-[Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist, oder so können Sie die Datenerfassung stoppen:
+[Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist und können die Datenerfassung stoppen:
 
 * Geben Sie „about:addons“ in Ihre Firefox-Adressleiste ein.
 * Wählen Sie in der linken Menüleiste „Erweiterungen“ aus.
@@ -88,7 +88,7 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
 _Desktop_: Firefox sendet standardmäßig HTTP-Daten an Mozilla, die im Firefox-Installationsprogramm enthalten sein können.  Dadurch können wir die Website-Domain oder Werbekampagne (ggf.) bestimmen, die Sie auf unsere Download-Seite verwiesen hat. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oder stellen Sie dies per [Opt-out](https://support.mozilla.org/kb/desktop-privacy) vor der Installation ab.
 
-_iOS und Android_: Firefox sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/privacy_policy/) hat.  Mobilkampagnendaten umfassen eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+_iOS und Android_: Firefox sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/privacy_policy/) hat.  Mobilkampagnendaten umfassen eine Google-Werbe-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
 {: #thirdparty }
 
 * __Technische und Interaktionsdaten__:
@@ -128,7 +128,7 @@ Lesen Sie die [vollständige Dokumentation](https://github.com/mozilla/fxa-auth-
 
 * __Synchronisierte Daten__: Wenn Sie Sync aktivieren, erhält Mozilla Informationen, die Sie über verschiedene Geräte hinweg in verschlüsselter Form synchronisieren. Dies kann Firefox-Tabs, Add-ons, Passwörter, Zahlungs-AutoFill-Informationen, Lesezeichen, Chronik und Einstellungen umfassen.  Durch Löschen Ihres Firefox-Kontos werden die damit verbundenen Firefox Sync-Inhalte gelöscht. Sie können auch die [Dokumentation](http://moz-services-docs.readthedocs.io/en/latest/sync/) lesen.
 
-* __Technische und Interaktionsdaten__: Wenn Sie Sync aktivieren, sendet Firefox in gewissen Abständen grundlegende Informationen über den jüngsten Versuch, Ihre Daten zu synchronisieren, mittels Telemetrie. Dies umfasst Informationen wann die Synchronisierung stattfand, ob sie erfolgreich war oder nicht und welche Art von Gerät die Synchronisierung versucht hat. Sie können auch die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lesen.
+* __Technische und Interaktionsdaten__: Wenn Sie Sync aktivieren, sendet Firefox in gewissen Abständen grundlegende Informationen über den jüngsten Versuch, Ihre Daten zu synchronisieren, mittels Telemetrie. Dies umfasst Informationen wann die Synchronisierung stattfand, ob sie erfolgreich war oder nicht und welche Art von Gerät die Synchronisierung versucht hat, vorzunehmen. Sie können auch die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lesen.
 
 [Weitere Informationen](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), darunter Angaben dazu, wie Sie Sync aktivieren oder deaktivieren.
 
