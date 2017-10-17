@@ -3,7 +3,7 @@
 6. septembar 2017.
 {: datetime="2017-09-06" }
 
-Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
+Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja informacije o vama, u [Pravilima privatnosti kompanije Mozilla](https://www.mozilla.org/en-US/privacy/) opisan je način na koji koristimo te informacije.
 
 Ovo obaveštenje o privatnosti se odnosi na sajtove i mobilne aplikacije kojima upravlja Mozilla, a koji, između ostalog, obuhvataju domene mozillians.org, mozilla.org, firefox.com i webmaker.org. To obuhvata, na primer, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org i wiki.mozilla.org.
 
@@ -14,7 +14,7 @@ Možemo doći u posed vaših ličnih podataka na osnovu vaše interakcije s nama
 
 * **Društveni mediji**: Ukoliko stupite u interakciju sa našim nalozima na društvenim mrežama, kao što su Twitter i Facebook, možemo dobiti vaše lične podatke. Ako koristite ove mreže, važe njihova pravila privatnosti, pa vam savetujemo da ih pročitate.  
 
-* **Kandidati za posao pripravnika i saradnika**: Od kandidata za posao, pripravničku poziciju ili mesto saradnika u kompaniji Mozilla zahteva se da nam dostave ime, adresu ulice, broj telefona, adresu e-pošte i biografiju. Ove podatke koristimo da bismo obradili i ocenili prijave i da bismo obaveštavali kandidate o novim konkursima. Koristimo servis treće strane za obradu prijava za posao. Za više informacija o tretmanu podataka u slučaju saradnje sa trećom stranom, pogledajte [Pravila privatnosti kompanije Mozilla](http://www.mozilla.org/en-US/privacy/).
+* **Kandidati za posao pripravnika i saradnika**: Od kandidata za posao, pripravničku poziciju ili mesto saradnika u kompaniji Mozilla zahteva se da nam dostave ime, adresu ulice, broj telefona, adresu e-pošte i biografiju. Ove podatke koristimo da bismo obradili i ocenili prijave i da bismo obaveštavali kandidate o novim konkursima. Koristimo servis treće strane za obradu prijava za posao. Za više informacija o tretmanu podataka u slučaju saradnje sa trećom stranom, pogledajte [Pravila privatnosti kompanije Mozilla](https://www.mozilla.org/en-US/privacy/).
 
 * **Saradnici**: Ukoliko volontirate za kompaniju Mozilla kao saradnik zajednice, radi komunikacije sa kompanijom Mozilla i drugima može biti potrebna vaša adresa e-pošte koju ste uneli u vezi sa svojim doprinosom, kako bi vam se priznao trud. Ukoliko dajete svoj doprinos servisima Bugzilla, Mozilla Reps ili našoj bazi programera, onda će vaša adresa e-pošte, a možda i ime, biti javno dostupni svim korisnicima interneta. Ukoliko kreirate profil na portalu Mozillians.org, zaposleni kompanije Mozilla i njeni saradnici moći će da mu pristupe. Svoje podatke na profilu možete izmeniti u okviru [Podešavanja profila](https://mozillians.org/user/edit). Ponekad koristimo podatke o saradniku od izvora (kao što su Bugzilla) na kontrolnim tablama kako bismo vizuelno predstavili zbirne podatke o zajednici Mozilla. Primer je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Ako je moguće, trudimo se da svedemo na minimum kontakt podatke koji se javno prikazuju.
 

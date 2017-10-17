@@ -17,7 +17,7 @@ Dalam Kebijakan Privasi ini, kami menjelaskan apa saja data yang dibagikan Firef
 
 * __Data teknis__: Firefox mengirimkan data tentang versi dan bahasa Firefox Anda; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang kerusakan dan kesalahan; hasil proses otomatis seperti pembaruan, penelusuran aman, dan aktivasi kepada kami.  Saat Firefox mengirimkan data kepada kami, alamat IP Anda akan sementara dikumpulkan sebagai bagian dari log server kami.  
 
-Baca dokumen telemetri untuk [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara [menonaktifkan fitur](https://support.mozilla.org/kb/send-performance-data-improve-firefox) pengumpulan data ini.
+Baca dokumen telemetri untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara [menonaktifkan fitur](https://support.mozilla.org/kb/send-performance-data-improve-firefox) pengumpulan data ini.
 {: #telemetry }
 
 ### Mengatur penyedia pencarian baku {: #defaultsearch }
@@ -104,7 +104,7 @@ Baca [dokumen lengkapnya](https://github.com/mozilla/fxa-auth-server/blob/master
 
 ### Sync {: #sync }
 
-* __Data yang disinkronkan__: Jika Anda mengaktifkan Sync, Mozilla akan menerima informasi yang Anda sinkronkan di seluruh perangkat dalam bentuk enkripsi. Informasi ini mungkin meliputi tab Firefox, pengaya, kata sandi, informasi pengisian otomatis pembayaran, markah, riwayat, dan preferensi.  Menghapus Akun Firefox Anda akan menghapus konten Firefox Sync terkait. Anda juga bisa membaca [dokumennya](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Data yang disinkronkan__: Jika Anda mengaktifkan Sync, Mozilla akan menerima informasi yang Anda sinkronkan di seluruh perangkat dalam bentuk enkripsi. Informasi ini mungkin meliputi tab Firefox, pengaya, kata sandi, informasi pengisian otomatis pembayaran, markah, riwayat, dan preferensi.  Menghapus Akun Firefox Anda akan menghapus konten Firefox Sync terkait. Anda juga bisa membaca [dokumennya](https://moz-services-docs.readthedocs.io/en/latest/sync/).
   
 * __Data Teknis dan Interaksi__: Jika Anda mengaktifkan sync, Firefox akan secara berkala mengirimkan informasi dasar menggunakan Telemetri tentang upaya terbaru untuk menyinkronkan data Anda, seperti kapan, apakah berhasil atau gagal, dan jenis perangkat yang berusaha melakukan sinkronisasi. Anda juga bisa membaca [dokumennya](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 

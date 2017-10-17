@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
 
-Read the telemetry documentation for [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
 {: #telemetry }
 
 ### Set a default search provider {: #defaultsearch }
@@ -104,7 +104,7 @@ Read the [full documentation](https://github.com/mozilla/fxa-auth-server/blob/ma
 
 ### Sync {: #sync }
 
-* __Synced data__: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Firefox Account will delete related Firefox Sync content. You can also read the [documentation](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Synced data__: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Firefox Account will delete related Firefox Sync content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
   
 * __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 

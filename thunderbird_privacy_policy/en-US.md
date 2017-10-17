@@ -97,7 +97,7 @@ Thunderbird has a crash-reporting feature that sends a report to Mozilla when Th
 
 By default, this feature sends a variety of Non-Personal Information to Mozilla, including the stack trace (a detailed description of which parts of the Thunderbird code were active at the time of the crash) and the type of computer you are using. It also gives you have the option to include Personal Information (including your email address), Potentially Personal Information (including your IP address and the URL of the site you were visiting when Thunderbird crashed), and a comment. Thunderbird Crash Reporter also sends a list of all add-ons that you were using at the time of the crash, and the time since: the start-up of the program, the last crash, and the last install.
 
-Mozilla only makes Non-Personal Information (i.e., generic information about your computer, the stack trace, and any comment given by the user) available in the public reports available online at [http://crash-stats.mozilla.com/](http://crash-stats.mozilla.com/). We recommend you not include any personal information in comments in crash reporter.
+Mozilla only makes Non-Personal Information (i.e., generic information about your computer, the stack trace, and any comment given by the user) available in the public reports available online at [https://crash-stats.mozilla.com/](https://crash-stats.mozilla.com/). We recommend you not include any personal information in comments in crash reporter.
 
 ### Personas ### {: #personas }
 

@@ -162,7 +162,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
     b.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
 
-    c.  <http://mozilla.github.io/process-releases/draft/development_overview>
+    c.  <https://mozilla.github.io/process-releases/draft/development_overview>
 
     d.  <https://wiki.mozilla.org/B2G/Architecture>
 
@@ -240,7 +240,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
         e.  You will not introduce any spyware or malware into Branded Devices. Additionally, you will not use other means, without an end user’s consent, for you or any third parties to access a user’s personal information.
 
-        f.  You will not make any modifications to Branded Devices that would cause the Firefox OS privacy policy (available at <http://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
+        f.  You will not make any modifications to Branded Devices that would cause the Firefox OS privacy policy (available at <https://www.mozilla.org/en-US/privacy/policies/firefox-os/>) or the Firefox Marketplace Privacy Policy (available at <https://marketplace.firefox.com/privacy-policy>), in each case as modified from time to time, to no longer be accurate.
 
 5.  **Review Process; Audit.**
 

@@ -17,7 +17,7 @@
 
 * __技術情報__: Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
-[デスクトップ](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については [こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox) をご覧ください。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については [こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox) をご覧ください。
 {: #telemetry }
 
 ### 既定の検索プロバイダーを設定する {: #defaultsearch }
@@ -104,7 +104,7 @@ Firefox は、「スニペット」(Mozilla からのメッセージ) や上位�
 
 ### 同期 {: #sync }
 
-* __同期データ__: あなたが同期を有効にした場合、Mozilla は、あなたが端末間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの [ドキュメント](http://moz-services-docs.readthedocs.io/en/latest/sync/) もお読みください。
+* __同期データ__: あなたが同期を有効にした場合、Mozilla は、あなたが端末間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの [ドキュメント](https://moz-services-docs.readthedocs.io/en/latest/sync/) もお読みください。
 
 * __技術およびインタラクションデータ__: あなたが同期を有効にした場合、Firefox は Telemetry を使用して、同期が実行された日時、成功したか失敗したか、同期を試行した端末の種類など、あなたのデータに対する直近の同期試行に関する基本的な情報を定期的に送信します。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) もお読みください。
 

@@ -17,7 +17,7 @@ V tomto Oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje Fire
 
 * __Technické údaje__: Firefox nám zasílá údaje o vaší verzi a jazyce Firefoxu; operačním systému zařízení a konfiguraci hardwaru; paměti, základních informací o pádech a chybách; výsledku automatizovaných procesů, jako jsou aktualizace, bezpečné procházení a aktivace.  Když nám Firefox zasílá údaje, dočasně se v protokolu našeho serveru shromažďuje vaše adresa IP.  
 
-Přečtěte si dokumentaci o telemetrii pro [stolní počítače](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
+Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
 {: #telemetry }
 
 ### Nastavení výchozího poskytovatele vyhledávání {: #defaultsearch }
@@ -104,7 +104,7 @@ Přečtěte si [úplnou dokumentaci](https://github.com/mozilla/fxa-auth-server/
 
 ### Synchronizaci {: #sync }
 
-* __Synchronizované údaje__: Pokud aktualizujete Synchronizaci, společnost Mozilla získává informace, které synchronizujete napříč zařízeními v šifrované formě. To může zahrnovat informace o kartách Firefoxu, doplňcích, heslech, automaticky vyplňované platební informace, záložky, historii a předvolby.  Vymazáním vašeho účtu Firefox vymažete související obsah synchronizace Firefox. Můžete si rovněž přečíst [dokumentaci](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Synchronizované údaje__: Pokud aktualizujete Synchronizaci, společnost Mozilla získává informace, které synchronizujete napříč zařízeními v šifrované formě. To může zahrnovat informace o kartách Firefoxu, doplňcích, heslech, automaticky vyplňované platební informace, záložky, historii a předvolby.  Vymazáním vašeho účtu Firefox vymažete související obsah synchronizace Firefox. Můžete si rovněž přečíst [dokumentaci](https://moz-services-docs.readthedocs.io/en/latest/sync/).
   
 * __Technické údaje a údaje o interakci__: Pokud aktivujete synchronizaci, Firefox bude pravidelně odesílat základní informace s pomocí Telemetrie o posledních pokusech o synchronizaci vašich dat, jako například kdy k nim došlo, zda byly úspěšné či nikoliv, a o tom, o synchronizaci jakého typu služby jste se pokoušeli. Můžete si rovněž přečíst [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 

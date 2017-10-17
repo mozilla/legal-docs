@@ -17,7 +17,7 @@
 
 *__技術資料__：Firefox 會傳送您的 Firefox 版本及語言、裝置作業系統及硬體配置、發生錯誤時的記憶體及基本資訊、更新、安全瀏覽、啟用等自動化程序執行的結果等資料給我們。Firefox 將資料傳送給我們的時候，我們也會暫時收集您的 IP 地址，列在我們伺服器的紀錄內。
 
-請閱讀 Telemetry 功能的說明文件：[桌機版](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
+請閱讀 Telemetry 功能的說明文件：[桌機版](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
 {: #telemetry }
 
 ###設定預設搜尋提供商 {: #defaultsearch }
@@ -104,7 +104,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 ###Sync {: #sync }
 
-*__同步資料__：如果您使用 Sync 功能，Mozilla 會以加密過的形式接收您在不同裝置間的同步資訊。這可能包含 Firefox 的分頁、附加元件、密碼、自動完成的付款資訊、書籤、瀏覽紀錄及偏好設定。刪除 Firefox 帳號也會刪除相關的 Firefox Sync 內容。您也可以閱讀[說明文件](http://moz-services-docs.readthedocs.io/en/latest/sync/)。
+*__同步資料__：如果您使用 Sync 功能，Mozilla 會以加密過的形式接收您在不同裝置間的同步資訊。這可能包含 Firefox 的分頁、附加元件、密碼、自動完成的付款資訊、書籤、瀏覽紀錄及偏好設定。刪除 Firefox 帳號也會刪除相關的 Firefox Sync 內容。您也可以閱讀[說明文件](https://moz-services-docs.readthedocs.io/en/latest/sync/)。
 
 *__技術及互動資料__：如果您使用 Sync 功能，Firefox 會定期透過 Telemetry 功能傳送您最近一次同步過程的資訊，例如發生時間、結果是成功或失敗，以及進行同步的裝置類型等等。您也可以閱讀[說明文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)。
 
