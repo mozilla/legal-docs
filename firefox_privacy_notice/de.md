@@ -17,7 +17,7 @@ In diesem Datenschutzhinweis erklären wir, welche Daten Firefox teilt und verwe
 
 * __Technische Daten__: Firefox sendet Daten über Firefox-Version und Sprache, Gerätebetriebssystem und Hardware-Konfiguration, Speicher, grundlegende Informationen über Systemabstürze und Fehler, Ergebnisse automatisierter Prozesse wie z. B. Updates, SafeBrowsing und Aktivierung an uns.  Wenn Firefox Daten an uns sendet, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst.  
 
-Lesen Sie die Telemetrie-Dokumentation für [Desktop](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) oder [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) bzw. erfahren Sie, wie Sie diese Datenerfassung per [Opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) einstellen können.
+Lesen Sie die Telemetrie-Dokumentation für [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) oder [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) bzw. erfahren Sie, wie Sie diese Datenerfassung per [Opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) einstellen können.
 {: #telemetry }
 
 ### Festlegen eines Standardsuchanbieters {: #defaultsearch }
@@ -104,7 +104,7 @@ Lesen Sie die [vollständige Dokumentation](https://github.com/mozilla/fxa-auth-
 
 ### Sync {: #sync }
 
-* __Synchronisierte Daten__: Wenn Sie Sync aktivieren, erhält Mozilla Informationen, die Sie über verschiedene Geräte hinweg in verschlüsselter Form synchronisieren. Dies kann Firefox-Tabs, Add-ons, Passwörter, Zahlungs-AutoFill-Informationen, Lesezeichen, Chronik und Einstellungen umfassen.  Durch Löschen Ihres Firefox-Kontos werden die damit verbundenen Firefox Sync-Inhalte gelöscht. Sie können auch die [Dokumentation](http://moz-services-docs.readthedocs.io/en/latest/sync/) lesen.
+* __Synchronisierte Daten__: Wenn Sie Sync aktivieren, erhält Mozilla Informationen, die Sie über verschiedene Geräte hinweg in verschlüsselter Form synchronisieren. Dies kann Firefox-Tabs, Add-ons, Passwörter, Zahlungs-AutoFill-Informationen, Lesezeichen, Chronik und Einstellungen umfassen.  Durch Löschen Ihres Firefox-Kontos werden die damit verbundenen Firefox Sync-Inhalte gelöscht. Sie können auch die [Dokumentation](https://moz-services-docs.readthedocs.io/en/latest/sync/) lesen.
   
 * __Technische und Interaktionsdaten__: Wenn Sie Sync aktivieren, sendet Firefox in gewissen Abständen grundlegende Informationen über den jüngsten Versuch, Ihre Daten zu synchronisieren, mittels Telemetrie. Dies umfasst Informationen wann die Synchronisierung stattfand, ob sie erfolgreich war oder nicht und welche Art von Gerät die Synchronisierung versucht hat, vorzunehmen. Sie können auch die [Dokumentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lesen.
 

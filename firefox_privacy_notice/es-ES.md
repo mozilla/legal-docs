@@ -17,7 +17,7 @@ En este Aviso de privacidad, especificamos qué datos comparte Firefox y los aju
 
 * __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación.  Cuando Firefox nos envía datos, su dirección de IP se guarda temporalmente como parte de los registros del servidor.  
 
-Consulte la documentación de telemetría para [ordenadores de escritorio](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o visite esta página [](https://support.mozilla.org/kb/send-performance-data-improve-firefox)para obtener información sobre cómo deshabilitar la recopilación de datos.
+Consulte la documentación de telemetría para [ordenadores de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o visite esta página [](https://support.mozilla.org/kb/send-performance-data-improve-firefox)para obtener información sobre cómo deshabilitar la recopilación de datos.
 {: #telemetry }
 
 ### Establece un proveedor de búsquedas predeterminado {: #defaultsearch }
@@ -104,7 +104,7 @@ Consulte la [documentación completa](https://github.com/mozilla/fxa-auth-server
 
 ### Sync {: #sync }
 
-* __Datos sincronizados__: Si habilita la función Sync, Mozilla recibe la información que se sincroniza entre sus dispositivos de forma cifrada. Esta información puede incluir pestañas, complementos, contraseñas, información de pago de autorelleno, marcadores, historial y preferencias de Firefox.  Al eliminar su cuenta de Firefox, se eliminará todo el contenido de sincronización de Firefox relacionado. Puede también consultar la siguiente [documentación](http://moz-services-docs.readthedocs.io/en/latest/sync/)para obtener más información.
+* __Datos sincronizados__: Si habilita la función Sync, Mozilla recibe la información que se sincroniza entre sus dispositivos de forma cifrada. Esta información puede incluir pestañas, complementos, contraseñas, información de pago de autorelleno, marcadores, historial y preferencias de Firefox.  Al eliminar su cuenta de Firefox, se eliminará todo el contenido de sincronización de Firefox relacionado. Puede también consultar la siguiente [documentación](https://moz-services-docs.readthedocs.io/en/latest/sync/)para obtener más información.
   
 * __Datos técnicos y de interacción__: Si habilita Sync, Firefox enviará periódicamente cierta información básica usando Telemetría sobre los intentos más recientes de sincronización de sus datos, como cuándo se realizó, si se realizó correctamente o no, y qué tipo de dispositivo intenta sincronizar. Puede también leer [esta documentación](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)para obtener más información.
 

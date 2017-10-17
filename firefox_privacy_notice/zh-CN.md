@@ -17,7 +17,7 @@
 
 * __技术数据__：Firefox 会发送以下相关信息给我们：您 Firefox 的版本和语言；设备操作系统和硬件配置；内存、有关崩溃和错误的基本信息；诸如更新、安全浏览和激活等自动化流程的结果。当 Firefox 向我们发送数据时，会临时收集您的 IP 地址作为我们服务器日志的一部分。
 
-阅读针对[桌面](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 的遥测技术文档，或者了解如何[选择退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)该数据收集功能。
+阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 的遥测技术文档，或者了解如何[选择退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)该数据收集功能。
 {: #telemetry }
 
 ### 设置默认的搜索引擎 {: #defaultsearch }
@@ -104,7 +104,7 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使
 
 ### 同步服务 {: #sync }
 
-* __同步数据__：如果您启用“同步服务”，Mozilla 会以加密形式收到您跨设备同步的信息。这可能包括 Firefox 标签页、附加组件、密码、付款自动填充信息、书签、历史记录以及首选项。删除您的 Firefox 账户也会删除相关的 Firefox 同步服务的内容。您也可以阅读[文档](http://moz-services-docs.readthedocs.io/en/latest/sync/)。
+* __同步数据__：如果您启用“同步服务”，Mozilla 会以加密形式收到您跨设备同步的信息。这可能包括 Firefox 标签页、附加组件、密码、付款自动填充信息、书签、历史记录以及首选项。删除您的 Firefox 账户也会删除相关的 Firefox 同步服务的内容。您也可以阅读[文档](https://moz-services-docs.readthedocs.io/en/latest/sync/)。
 
 * __技术和交互数据__：如果您启用同步服务，Firefox 会使用遥测功能，定期发送有关最近试图同步您的数据的基本信息，例如，同步时间、是成功还是失败，以及试图同步的设备类型。您也可以阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)。
 

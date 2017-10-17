@@ -3,7 +3,7 @@
 6. září 2017
 {: datetime="2017-09-06" }
 
-Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](http://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
+Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
 Toto oznámení o ochraně osobních údajů se vztahuje na webové stránky a mobilní aplikace provozované společností Mozilla, k nimž patří kromě jiných domény mozillians.org, mozilla.org, firefox.com a webmaker.org. Patří sem například  bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
 
@@ -14,7 +14,7 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 
 * **Sociální média**: Přihlásíte-li se k účtům našich sociálních médií jako např. Twitter a Facebook, můžeme získat vaše osobní údaje. Používáte-li tyto sítě, platí jejich zásady ochrany osobních údajů a doporučujeme vám se s nimi seznámit.  
 
-* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí společnosti Mozilla](http://www.mozilla.org/en-US/privacy/).
+* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí společnosti Mozilla](https://www.mozilla.org/en-US/privacy/).
 
 * **Spolupracovníci**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo kódové bázi, budou vaše emailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o Mozilla komunitě. Příkladem je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
 

@@ -17,7 +17,7 @@ Dans cette Politique de confidentialité, nous expliquons quelles données Firef
 
 * __Données techniques__ : Firefox nous envoie des données à propos de la version et de la langue de votre Firefox, du système d’exploitation de votre appareil et sa configuration matérielle, de la mémoire, des informations de base sur les plantages et les erreurs, le résultat de processus automatiques comme les mises à jour, le blocage de sites malveillants et l’activation. Lorsque Firefox nous envoie des données, votre adresse IP est temporairement collectée dans les fichiers journaux de nos serveurs.
 
-Lisez la documentation de télémétrie pour [ordinateur](http://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](http://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou apprenez à [vous retirer](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de cette collecte de données.
+Lisez la documentation de télémétrie pour [ordinateur](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou apprenez à [vous retirer](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de cette collecte de données.
 {: #telemetry }
 
 ### Définir un prestataire de recherche par défaut {: #defaultsearch }
@@ -104,7 +104,7 @@ Lisez [la documentation complète](https://github.com/mozilla/fxa-auth-server/bl
 
 ### Sync {: #sync }
 
-* __Données synchronisées__ : si vous activez Sync, Mozilla reçoit les informations que vous synchronisez sur vos appareils sous forme chiffrée. Cela peut inclure : onglets, modules complémentaires, mots de passe, données préremplies de paiement, marque-pages, historique et préférences. Le fait de supprimer votre compte Firefox supprimera le contenu de Firefox Sync associé. Vous pouvez également lire la [documentation](http://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Données synchronisées__ : si vous activez Sync, Mozilla reçoit les informations que vous synchronisez sur vos appareils sous forme chiffrée. Cela peut inclure : onglets, modules complémentaires, mots de passe, données préremplies de paiement, marque-pages, historique et préférences. Le fait de supprimer votre compte Firefox supprimera le contenu de Firefox Sync associé. Vous pouvez également lire la [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
 
 * __Données techniques et d’interaction__ : si vous activez Sync, Firefox enverra régulièrement des données de base à l’aide de la télémétrie, concernant la tentative la plus récente de synchroniser vos données, par exemple le moment où cela s’est produit, si la tentative a échoué ou réussi et le type d’appareil qui tente la synchronisation. Vous pouvez également lire la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
