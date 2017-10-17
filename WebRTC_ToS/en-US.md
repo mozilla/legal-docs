@@ -9,7 +9,7 @@ Firefox Hello is an end-to-end real-time communications video and voice service 
 
 ### 2. Account Registration
 
-A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to its [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to its [Terms of Service](https://www.mozilla.org/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/privacy/firefox-cloud).
 
 ### 3. Features
 

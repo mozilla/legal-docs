@@ -155,9 +155,9 @@ This document contains obligations you must meet in order to use the Powered by 
 
 3.  **Open Source License Compliance**. Your distribution of any open source object or source code must comply with the requirements for each of the open source licenses governing that code. There is more information about the open source in Boot2Gecko available at <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Mozilla strongly recommends you getting involved in and consider making open source contributions back to the Boot 2 Gecko project. To find out more about how to get involved, please see the following resources:
 
-    a.  <https://developer.mozilla.org/en-US/docs/Introduction>
+    a.  <https://developer.mozilla.org/docs/Introduction>
 
-    b.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
+    b.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS>
 
     c.  <https://mozilla.github.io/process-releases/draft/development_overview>
 
@@ -203,7 +203,7 @@ This document contains obligations you must meet in order to use the Powered by 
 
       b.ii.1.  <https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy>)
 
-      b.ii.2.  <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+      b.ii.2.  <https://developer.mozilla.org/docs/Gecko_user_agent_string_reference>
 
       b.iii.  You shall not modify the behavior of existing Web APIs. For example, you shall not change the semantics of a function or its side effects.
 
@@ -217,13 +217,13 @@ This document contains obligations you must meet in order to use the Powered by 
 
     a.  Branded Devices must implement the permission model and trust levels documented here:
 
-      a.i.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+      a.i.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-      a.ii.  <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+      a.ii.  <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/System_security>
 
     b.  Branded Devices must gate access to Web APIs by appropriate permission checks. Current permissions checks are documented here:
 
-      b.i.  <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+      b.i.  <https://developer.mozilla.org/docs/Web/Apps/App_permissions>
 
     c.  Applications that are pre-installed on a Branded Device that are derived from the Firefox Marketplace should ship with the app signing certificate provided for Firefox Marketplace and pre-installed applications that do not derive from the Firefox Marketplace must not use the Firefox Marketplace signing certificate.
 

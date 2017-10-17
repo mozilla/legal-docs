@@ -97,4 +97,4 @@ Attn: Legal Notices – Privacy<br>
 331 E. Evelyn Avenue<br>
 Mountain View, CA 94041<br>
 Phone: +1-650-903-0800<br>
-[Send us an email](https://www.mozilla.org/en-US/privacy/#contact)
+[Send us an email](https://www.mozilla.org/privacy/#contact)
