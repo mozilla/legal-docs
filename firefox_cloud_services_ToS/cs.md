@@ -13,39 +13,39 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
     Tyto podmínky poskytování služeb (dále jen „<u>Podmínky</u>”) upravují vaše používání Firefox cloud services, souboru online služeb poskytovaných společností Mozilla (dále jen „Služby”).
 
-2. #### Účty Firefox
+2. #### Účet Firefoxu
 
-    Pro používání některých Služeb budete muset založit účet Firefox.  Během registrace budete požádáni o nastavení hesla. Jste povinni uchovat své heslo v důvěrnosti a pro činnosti prováděné prostřednictvím vašeho účtu Firefox. Společnost Mozilla nenese odpovědnost za žádné ztráty, k nimž dojde během neoprávněného používání vašeho účtu Firefox.
+    Pro používání některých Služeb si budete muset založit účet Firefox. Během registrace budete požádáni o nastavení hesla. Jste povinni uchovat své heslo v důvěrnosti a nesete odpovědnost za činnosti prováděné prostřednictvím vašeho účtu Firefoxu. Společnost Mozilla nenese odpovědnost za žádné ztráty, k nimž dojde během neoprávněného používání vašeho účtu Firefoxu.
 
 3. #### Funkce
 
-    Firefox Sync vám umožňuje přístup k informacím uloženým ve Firefoxu z různých zařízení, včetně vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat pomocí části Možnosti aplikace Firefox.
+    Firefox Sync vám umožňuje přístup k informacím uloženým ve Firefoxu z různých zařízení, včetně vašich panelů, chytrého adresního řádku, hesel, záložek a předvoleb prohlížeče. Službu Firefox Sync můžete aktivovat či deaktivovat v Možnostech Firefoxu.
 
-    Funkce Najdi mé zařízení vám umožňuje na dálku nalézt a ovládat některé funkce zařízení s Firefox OS, jako například prohlížení posledních míst výskytu, mazání místního obsahu, zapínání vyzváněcího tónu nebo uzamčení obrazovky či zobrazení zprávy. K použití těchto funkcí musíte aktivovat funkci Najdi mé zařízení v nastaveních zařízení. Funkce Najdi mé zařízení bude fungovat i v případě, že nastavení zvuku a místa v zařízení jsou ztišena nebo vypnuta. Tuto funkci můžete deaktivovat v nastaveních zařízení.
+    Funkce Najít mé zařízení vám umožňuje na dálku nalézt a ovládat některé funkce zařízení s Firefox OS, jako například prohlížení posledních míst výskytu, mazání místního obsahu, zapínání vyzváněcího tónu nebo uzamčení obrazovky či zobrazení zprávy. K použití těchto funkcí musíte aktivovat funkci Najít mé zařízení v nastavení zařízení. Funkce Najít mé zařízení bude fungovat i v případě, že nastavení zvuku a místa v zařízení jsou ztišena nebo vypnuta. Tuto funkci můžete deaktivovat v nastavení zařízení.
 
-    Pokud své zařízení nemůžete najít, můžete se přihlásit na https://find.firefox.com/ pomocí přihlašovacích údajů vašeho účtu Firefox a nalézt své zařízení a dálkově ho ovládat. Přibližné místo výskytu zařízení nám bude nahlášeno, pokud je zařízení zapnuté a připojeno k internetu. V příslušných případech ponesete veškeré náklady související s přenosem dat. Pokud se domníváte, že zařízení bylo ukradeno, měli byste se obrátit na příslušné orgány. Při sdílení osobních údajů buďte opatrní, protože zprávy zobrazované v zařízení jsou veřejně dostupné.
-    
-    Aplikace Firefox Screenshots vám umožňuje snímat obsah webových stránek, který si můžete později prohlížet vy sami či jiní lidé. Viz [zde](https://www.mozilla.org/en-US/about/legal/report-infringement/) kde můžete nahlásit nároky k porušení autorských práv nebo ochranných známek ve službě Screenshots. Pro nahlášení zneužití nám zašlete odkaz na snímek na adresu screenshots-report@mozilla.com.
+    Pokud své zařízení nemůžete najít, můžete se přihlásit na https://find.firefox.com/ pomocí přihlašovacích údajů vašeho účtu Firefoxu, své zařízení nalézt a vzdáleně ho ovládat. Přibližné místo výskytu zařízení nám bude nahlášeno, pokud je zařízení zapnuté a připojeno k internetu. V příslušných případech ponesete veškeré náklady související s přenosem dat. Pokud se domníváte, že zařízení bylo ukradeno, měli byste se obrátit na příslušné orgány. Při sdílení osobních údajů buďte opatrní, protože zprávy zobrazované v zařízení jsou veřejně dostupné.
+
+    Služba Firefox Screenshots vám umožňuje snímat obsah webových stránek, který si můžete později prohlížet vy sami či jiní lidé. [Zde](https://www.mozilla.org/about/legal/report-infringement/) můžete nahlásit nároky k porušení autorských práv nebo ochranných známek ve službě Screenshots. Pro nahlášení zneužití nám zašlete odkaz na snímek na adresu screenshots-report@mozilla.com.
 
 4. #### Zásady ochrany soukromí
 
-    [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/en-US/privacy/firefox/) popisuje, co získáváme z vašeho používání Služeb, a jak s těmito informacemi zacházíme. Informace, které získáváme prostřednictvím Služeb, jsou popsány v našich [Zásadách ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
+    [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/) popisuje, co získáváme z vašeho používání Služeb, a jak tyto informace používáme. Informace, které získáváme prostřednictvím Služeb, jsou popsány v našich [Zásadách ochrany osobních údajů](https://www.mozilla.org/privacy/).
 
 5. #### Váš obsah na našich Službách
 
-    Obsah můžete nahrávat v rámci využití funkcí Služeb. Nahráním obsahu nám tímto udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání vašeho obsahu v souvislosti s poskytováním Služeb. Tímto prohlašujete a zaručujete, že váš obsah nebude porušovat práva žádných třetích osob a bude odpovídat veškerým pokynům pro obsah stanoveným společností Mozilla.
+    V rámci využívání funkcí Služeb můžete nahrávat svůj obsah. Nahráním obsahu nám tímto udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání vašeho obsahu v souvislosti s poskytováním Služeb. Tímto prohlašujete a zaručujete, že váš obsah nebude porušovat práva žádných třetích osob a bude odpovídat veškerým pokynům pro obsah stanoveným společností Mozilla.
 
 6. #### Vlastnická práva společnosti Mozilla
 
-    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních firem, ochranných známek, servisních známek, log, název domén či jiných dalších znaků nebo značek společnosti Mozilla. Služby jsou distribuovány v souladu se stávající verzí [Veřejné licence Mozilla](https://www.mozilla.org/MPL/).
+    Mozilla vám neposkytuje žádná práva duševního vlastnictví ke Službám, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, obchodních značek, ochranných známek, značek služeb, log, názvů domén či jiných dalších znaků nebo značek společnosti Mozilla. Služby jsou distribuovány v souladu se stávající verzí [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 7. #### Doba platnosti, ukončení
 
-    Tyto Podmínky zůstanou v platnosti až do jejich výpovědi z vaší strany či ze strany společnosti Mozilla. Vypovědět je můžete kdykoliv bez udání důvodu tím, že deaktivujete svůj účet Firefox a přestanete využívat Služby.
+    Tyto Podmínky zůstanou v platnosti až do jejich výpovědi z vaší strany či ze strany společnosti Mozilla. Vypovědět je můžete kdykoliv bez udání důvodu tím, že deaktivujete svůj účet Firefoxu a přestanete Služby využívat.
 
-    Váš přístup ke Službám můžeme kdykoliv pozastavit nebo ukončit z jakéhokoliv důvodu, včetně například případů, kdy se rozumně domníváme, že: (i) jste se dopustili porušení těchto Podmínek, (ii) představujete riziko či případné vystavení právním rizikům pro naši společnost nebo (iii) naše poskytování Služeb pro vás již není ekonomicky únosné. Vynaložíme maximální úsilí, abychom vás informovali na e-mailovou adresu přiřazenou k vašemu účtu Firefox nebo při vašem příštím pokusu o přístup ke Službám.
+    Váš přístup ke Službám můžeme kdykoliv pozastavit nebo ukončit z jakéhokoliv důvodu, včetně například případů, kdy se rozumně domníváme, že: (i) jste se dopustili porušení těchto Podmínek, (ii) představujete riziko či případné vystavení právním rizikům pro naši společnost nebo (iii) naše poskytování Služeb pro vás již není ekonomicky únosné. Vynaložíme přiměřené úsilí, abychom vás informovali na e-mailovou adresu přiřazenou k vašemu účtu Firefoxu nebo při vašem příštím pokusu o přístup ke Službám.
 
-    Ve všech takových případech bude platnost těchto Podmínek ukončena včetně například vaší licence k užívání Služeb a v platnosti zůstanou pouze následující části: Odškodnění, prohlášení, omezení odpovědnosti, různá ustanovení.
+    Ve všech takových případech bude platnost těchto Podmínek ukončena včetně například vaší licence k užívání Služeb a v platnosti zůstanou pouze následující části: Odškodnění, Prohlášení, omezení odpovědnosti, Různá ustanovení.
 
 8. #### Odškodnění
 
