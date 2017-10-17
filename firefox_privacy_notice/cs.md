@@ -71,7 +71,7 @@ Dle výchozího nastavení u verzí Firefoxu pro počítač vás požádáme o s
     _Na systémech iOS a Android_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/privacy_policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google, IP adresu, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
 {: #thirdparty }
 
-* __Technické údaje a údaje o interakci__: 
+* __Technické údaje a údaje o interakci__:
 
     _Na systémech iOS a Android_: Firefox dle výchozího nastavení zasílá údaje o tom, jaké funkce ve Firefoxu využíváte, společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/). Tyto údaje nám pomáhají testovat různé funkce a chování, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašeho prožitku s aplikací Firefox.
 
@@ -79,79 +79,78 @@ Dle výchozího nastavení u verzí Firefoxu pro počítač vás požádáme o s
 
 ---
 
-## Pokud tyto funkce používáte, Firefox bude sdílet údaje pro poskytování funkce:  {: #optional-features }
+## Pokud tyto funkce používáte, Firefox bude sdílet údaje pro poskytování funkcí: {: #optional-features }
 
 ### Vyhledávání
 
-Vyhledávání můžete provádět přímo na několika místech ve Firefoxu, včetně lišty Awesome, lišty vyhledávání nebo na Nové kartě.  _Společnost Mozilla vaše dotazy pro vyhledávání nezískává._ Údaje o dotazech jsou zasílány poskytovateli vyhledávání, který má své vlastní zásady ochrany osobních údajů.  
+Přímé vyhledávání můžete ve Firefoxu provádět na několika místech, včetně chytrého adresního řádku, lišty vyhledávání nebo na stránce nového panelu. _Společnost Mozilla vaše dotazy pro vyhledávání nezískává._ Údaje o dotazech jsou zasílány poskytovateli vyhledávání, který má své vlastní zásady ochrany osobních údajů.
 
-* __Návrhy pro vyhledávání__: Firefox dle výchozího nastavení odesílá dotazy pro vyhledávání vašemu poskytovateli vyhledávání jako pomůcku pro zjištění nejčastějších frází, které jiní lidé vyhledávali, jakož i pro zlepšení vaší zkušenosti s vyhledáváním. Tyto údaje nebudou zasílány, pokud váš poskytovatel vyhledávání návrhy nepodporuje.
-{: #searchsuggestions } 
+* __Návrhy pro vyhledávání__: Firefox dle výchozího nastavení odesílá dotazy pro vyhledávání vašemu poskytovateli vyhledávání jako pomůcku pro zjištění nejčastějších frází, které vyhledávali jiní lidé, jakož i pro zlepšení vaší zkušenosti s vyhledáváním. Tyto údaje nebudou zasílány, pokud váš poskytovatel návrhy pro vyhledávání nepodporuje.
+{: #searchsuggestions }
 
     [Získejte podrobnější informace](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), včetně toho, jak tuto funkci deaktivovat.
 
-### Účty Firefox
+### Účet Firefoxu
 
-* __Údaje o účtu Firefox __: Mozilla získává vaši e.mailovou adresu a šifrované heslo v okamžiku, kdy vytvoříte svůj účet Firefox.  Můžete se rozhodnout zahrnout i zobrazované jméno nebo profilový obrázek.  Vaše e-mailová adresa se zasílá našemu poskytovateli e-mailu, společnosti SalesForce Marketing Cloud, která má své vlastní [zásady ochrany osobních údajů](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Pokud používáte náš Účet Firefox pro přihlašování k webovým stránkám nebo službám (jako například AMO nebo Pocket), získáme časovou značku vašeho přihlášení od těchto služeb. 
+* __Údaje o účtu Firefoxu__: Mozilla obdrží vaši e-mailovou adresu a hash vašeho hesla v okamžiku, kdy si vytvoříte svůj účet Firefoxu. Můžete se rozhodnout zahrnout i zobrazované jméno nebo profilový obrázek. Vaše e-mailová adresa se zasílá našemu poskytovateli e-mailu, společnosti SalesForce Marketing Cloud, která má své vlastní [zásady ochrany osobních údajů](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Pokud používáte náš účet Firefoxu pro přihlašování k webovým stránkám nebo službám (jako například AMO nebo Pocket), získáme časovou značku vašeho přihlášení k těmto službám.
 
-* __Údaje o místě__: Pro bezpečnostní účely ukládáme adresy IP, které používáte pro přístup k vašemu účtu Firefox pro přibližné stanovení města a země.  Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
+* __Údaje o místě__: Pro bezpečnostní účely ukládáme IP adresy, z nichž přistupujete k vašemu účtu Firefoxu pro přibližné stanovení města a země. Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
 
-* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek účtů Firefox a interakci s nimi, jakož i o předvolbách nabídek a interakcích s registrací, e-mailem a SMS zprávami. [Získejte podrobnější informace](https://www.mozilla.org/privacy/websites/) o datových postupech společnosti Mozilla pro webové stránky a e-mail.  
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek účtu Firefoxu a interakci s nimi, jakož i o předvolbách a interakcích při registraci registraci a nabídkami nastavní e-mailu a SMS zpráv. [Získejte podrobnější informace](https://www.mozilla.org/privacy/websites/) o datových postupech společnosti Mozilla pro webové stránky a e-mail.
 
-* __Technické údaje__: Pro zobrazení, která zařízení jsou synchronizována s vašim účtem Firefox a pro zajištění fungování, ukládáme informace o operačním systému vašeho zařízení, prohlížeči a verzi, časové značce, místě a stejné informace o zařízeních připojených k vašemu účtu.  
+* __Technické údaje__: Abychom vám mohli zobrazit zařízení, která jsou s vašim účtem Firefoxu synchronizována, ukládáme informace o operačním systému vašeho zařízení, prohlížeči a verzi, časové značce, místě a stejné informace o zařízeních připojených k vašemu účtu.
 
-Přečtěte si [úplnou dokumentaci](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), včetně toho, jak [váš účet vymazat](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+Přečtěte si [úplnou dokumentaci](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts) včetně toho, jak můžete [svůj účet zrušit](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
 
-### Synchronizaci {: #sync }
+### Synchronizace {: #sync }
 
-* __Synchronizované údaje__: Pokud aktualizujete Synchronizaci, společnost Mozilla získává informace, které synchronizujete napříč zařízeními v šifrované formě. To může zahrnovat informace o kartách Firefoxu, doplňcích, heslech, automaticky vyplňované platební informace, záložky, historii a předvolby.  Vymazáním vašeho účtu Firefox vymažete související obsah synchronizace Firefox. Můžete si rovněž přečíst [dokumentaci](https://moz-services-docs.readthedocs.io/en/latest/sync/).
-  
-* __Technické údaje a údaje o interakci__: Pokud aktivujete synchronizaci, Firefox bude pravidelně odesílat základní informace s pomocí Telemetrie o posledních pokusech o synchronizaci vašich dat, jako například kdy k nim došlo, zda byly úspěšné či nikoliv, a o tom, o synchronizaci jakého typu služby jste se pokoušeli. Můžete si rovněž přečíst [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
+* __Synchronizované údaje__: Pokud Sync aktivujete, společnost Mozilla obdrží v šifrovaném formátu data, které synchronizujete mezi zařízeními. To může zahrnovat informace o panelech Firefoxu, doplňcích, heslech, automaticky vyplňovaných platebních informacích, záložkách, historii a předvolbách. Smazání vašeho účtu Firefoxu vymažete související obsah služby Firefox Sync. Můžete si rovněž přečíst [dokumentaci](https://moz-services-docs.readthedocs.io/en/latest/sync/).
+
+* __Technické údaje a údaje o interakci__: Pokud Sync aktivujete, Firefox bude pravidelně v rámci telemetrie odesílat základní informace o posledních pokusech o synchronizaci vašich dat, jako například kdy k nim došlo, zda byly úspěšné či nikoliv, a o typu zařízení. Můžete si rovněž přečíst [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
 [Získejte podrobnější informace](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), včetně toho, jak synchronizaci aktivovat či deaktivovat.
 
-### Místo {: #location-services }
+### Pro zjišťování polohy {: #location-services }
 
-* __Údaje o místě pro službu geolokace společnosti Google__: Firefox se vždy zeptá, než určí a sdílí vaše místo s požadovanou webovou stránkou (například, pokud webová stránka s mapou potřebuje znát vaše místo pro poskytnutí pokynů).  ke stanovení místa může Firefox používat funkci geolokace vašeho operačního systému, sítí WiFi, vysílače mobilních telefonů nebo adresy IP a tyto údaje může zasílat službě geolokace společnosti Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).
+* __Údaje o místě pro službu geolokace společnosti Google__: Před určením a sdílením vaší pozice s webovou stránkou se vás Firefox vždy dotáže (např. pokud webová stránka s mapou potřebuje znát vaše místo pro vaši navigaci). Ke stanovení místa může Firefox používat funkci geolokace vašeho operačního systému, Wi-Fi sítě, vysílače mobilní sítě nebo IP adresy, a tyto údaje může zasílat službě geolokace společnosti Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).
 
 [Podrobnější informace](https://www.mozilla.org/firefox/geolocation/).
 
-### Snímky obrazovky aplikace Firefox {: #screenshots }
+### Firefox Screenshots {: #screenshots }
 
-* __Nahrávání snímků obrazovky__: Snímky obrazovky, které se rozhodnete nahrát, se odesílají společnosti Mozilla a jsou ukládány po uvedenou omezenou dobu, kterou můžete změnit.  Můžete využívat přístup k vašim nahraným snímkům obrazovky, pokud je to rozumně nezbytné pro poskytování služby.  Nahrané snímky obrazovky můžete kdykoliv odstranit.  
+* __Nahrávání snímků__: Snímky, které se rozhodnete nahrát, se odesílají společnosti Mozilla a jsou ukládány po uvedenou omezenou dobu, kterou můžete změnit. K vašim nahraným snímkům můžeme přistupovat, pokud je to rozumně nezbytné pro poskytování služby. Nahrané snímky můžete kdykoliv odstranit.
 
-* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek Firefox Screenshots, jak často přistupujete ke snímkům obrazovky, které nahráváte a jak je sdílíte s ostatními, stejně jako vaše používání tlačítek, dlaždic a pohyby myší související s pořízením snímku obrazovky.
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek Firefox Screenshots, jak často přistupujete ke svým snímkům, které nahrajete, a jak je sdílíte s ostatními, stejně jako vaše interakce při používání tlačítek, dlaždic a pohyby myší související s pořízováním snímků.
 
-    Pro návštěvy webových stránek Firefox Screenshots naše [oznámení o zásadách ochrany osobních údajů na webových stránkách](https://www.mozilla.org/privacy/websites/) popisuje, které typy další dat shromažďujeme.
+    Pro návštěvy webových stránek Firefox Screenshots, naše [oznámení o zásadách ochrany osobních údajů na webových stránkách](https://www.mozilla.org/privacy/websites/) popisuje, které typy další dat shromažďujeme.
 
-* __Technické údaje__: Získáváme taková data jako je průměrná velikost a počet vámi nahraných snímků obrazovky, vaše verze prohlížeče Firefox, operační systém zařízení a chyby.  Adresa IP využitá pro přístup na webové stránky Firefox Screenshots je dočasně shromažďuje v rámci standardního protokolu serveru. 
+* __Technické údaje__: Získáváme taková údaje, jako je průměrná velikost a počet vámi nahraných snímků, vaše verze prohlížeče Firefox, operační systém zařízení a chyby. IP adresa využitá pro přístup na webové stránky Firefox Screenshots je dočasně uložena v rámci standardního protokolu serveru.
 
 Přečtěte si [úplnou dokumentaci](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) nebo [získejte podrobnější informace](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
-### Oznámení na webových stránkách {: #push-notifications }
+### Oznámení z webových stránek {: #push-notifications }
 
-* __Údaje o připojení__: Pokud povolíte webovým stránkám zasílat oznámení, Firefox se spojí se společností Mozilla a využije vaši adresu IP pro doručení zprávy.  Mozilla nemá přístup k obsahu zprávy.    
+* __Údaje o připojení__: Pokud povolíte webovým stránkám zasílat vám oznámení, Firefox se spojí se společností Mozilla a využije vaši IP adresu pro doručení zprávy. Mozilla nemá přístup k obsahu zprávy.
 
-* __Údaje o interakci__: Získáváme souhrnná data, jako je počet registrací a zrušení registrací odběrů Firefox pro oznámení webových stránek, počet zaslaných zpráv, časové značky a odesilatelé (což může zahrnovat poskytovatele konkrétních webových stránek).  
+* __Údaje o interakci__: Získáváme souhrnná data, jako je počet registrací a zrušení registrací odběrů oznámení webových stránek, počet zaslaných zpráv, časové značky a odesilatele (což může zahrnovat poskytovatele konkrétních webových stránek).
 
 Přečtěte si [úplnou dokumentaci](https://mozilla-push-service.readthedocs.io/en/latest/) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/push-notifications-firefox), včetně toho, jak oznámení webových stránek zrušit.
 
 ### Doplňky {: #addons }
 
-Doplňky můžete nainstalovat ze stránky addons.mozilla.org („AMO“) nebo ze Správce doplňků Firefoxu, které je dostupný pomocí tlačítka nabídky Firefoxu v liště nástrojů.
- 
-* __Dotazy vyhledávání__: Dotazy vyhledávání ve Správci doplňků jsou zasílány společnosti Mozilla, aby vám mohl zasílat doporučení na Doplňky.  
+Doplňky můžete nainstalovat ze stránky addons.mozilla.org („AMO“) nebo ze Správce doplňků Firefoxu, který je dostupný pomocí tlačítka nabídky Firefoxu v liště nástrojů.
 
-* __Údaje o interakci__:  Získáváme souhrnné údaje o návštěvách webové stránky AMO a Správce doplňků Firefoxu, stejně jako o interakcích s obsahem těchto stránek. Přečtěte si o datových postupech na [webových stránkách Mozilla](https://www.mozilla.org/privacy/websites/).
+* __Dotazy vyhledávání__: Dotazy vyhledávání ve Správci doplňků jsou zasílány společnosti Mozilla, aby vám mohla zasílat doporučení na další doplňky.
 
-* __Technické údaje pro aktualizace__: Firefox se pravidelně spojuje se společností Mozilla za účelem instalace aktualizací Doplňků.  Informace o nainstalovaných Doplňcích, vaší verzi a jazyce Firefoxu a operačním systému zařízení se použijí pro aplikaci správné aktualizace.  
+* __Údaje o interakci__:  Získáváme souhrnné údaje o návštěvách webové stránky AMO a Správce doplňků Firefoxu, stejně jako o interakcích s obsahem těchto stránek. Přečtěte si o datových postupech na [webových stránkách Mozilly](https://www.mozilla.org/privacy/websites/).
+
+* __Technické údaje pro aktualizace__: Firefox se pravidelně spojuje se společností Mozilla za účelem instalace aktualizací doplňků. Informace o nainstalovaných doplňcích, verze a jazyk Firefoxu a operačního systému zařízení se použijí pro aplikaci správné aktualizace.
 
 ---
 
 ### Poznámka pod čarou
 
-Toto oznámen o ochraně osobních údajů platí pro nejnovější obecně vydanou verzi Firefoxu distribuovaného společností Mozilla.  Pokud získáte Firefox odjinud nebo pokud používáte starší verzi, vaše kopie Firefoxu může obsahovat odlišné charakteristiky ochrany osobních údajů.  
+Toto Prohlášení o ochraně osobních údajů platí pro nejnovější obecně vydanou verzi Firefoxu distribuovaného společností Mozilla. Pokud získáte Firefox odjinud nebo pokud používáte starší verzi, vaše kopie Firefoxu může obsahovat odlišné charakteristiky ochrany osobních údajů.
 {: #pre-release }
 
-Předběžná vydání verzí Firefoxu společnosti Mozilla (které jsou distribuovány kanály jako např. Nightly, Beta, TestFlight a BuddyBuild) jsou ve fázi aktivního vývoje a mohou obsahovat odlišné charakteristiky ochrany osobních údajů. 
-
+Předběžná vydání verzí Firefoxu společnosti Mozilla (které jsou distribuovány kanály jako např. Nightly, Beta, TestFlight a BuddyBuild) jsou ve fázi aktivního vývoje a mohou obsahovat odlišné charakteristiky ochrany osobních údajů.
