@@ -25,11 +25,11 @@ This top section summarizes the terms below. This summary is provided to help yo
     
     If your device is misplaced, you can log into https://find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal. If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information because messages displayed on your device are publicly available.
     
-    Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. See [here](https://www.mozilla.org/en-US/about/legal/report-infringement/) to report claims of copyright or trademark infringement on Screenshots. To report abuse, email us a link to the shot at screenshots-report@mozilla.com.
+    Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. See [here](https://www.mozilla.org/about/legal/report-infringement/) to report claims of copyright or trademark infringement on Screenshots. To report abuse, email us a link to the shot at screenshots-report@mozilla.com.
 
 4. #### Privacy Policy
 
-    The [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+    The [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/) describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
 5. #### Your Content in our Services
 
