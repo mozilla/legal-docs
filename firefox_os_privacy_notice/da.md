@@ -3,7 +3,7 @@
 26. august 2015
 {: datetime="2015-08-26" }
 
-Mozilla ønsker at beskytte dine personlige oplysninger. Når Firefox OS sender oplysninger til os, beskriver vores [Mozilla privatlivspolitik] (https://www.mozilla.org/privacy/), hvordan vi håndterer de pågældende oplysninger.
+Mozilla ønsker at beskytte dine personlige oplysninger. Når Firefox OS sender oplysninger til os, beskriver vores [Mozilla privatlivspolitik](https://www.mozilla.org/privacy/), hvordan vi håndterer de pågældende oplysninger.
 
 ## Ting du bør vide
 

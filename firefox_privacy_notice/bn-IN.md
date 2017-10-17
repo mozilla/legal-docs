@@ -66,7 +66,7 @@ Firefox স্বয়ংক্রিয়ভাবে আমাদের এবং 
 	ডেস্কটপে, Firefox, Firefox স্বাস্থ্য রিপোর্টের অংশ হিসাবে রেফারেল ডেটা রেকর্ড করে এবং Mozilla-এর কাছে পাঠায়৷ এই রিপোর্টটিকে কীভাবে অনির্বাচন বা অক্ষম করবেন তা সহ [এখানে](https://support.mozilla.org/kb/desktop-attribution-privacy) –এর সম্পর্কে আরও জানুন৷
 
 	__ইন্টারঅ্যাকশন ডেটা__
-	iOS এ, Firefox আমাদের মোবাইল বিপণন বিক্রেতা Leanplum এ ইন্টারঅ্যাকশন ডেটা পাঠায়, যার নিজস্ব [গোপনীয়তা নীতি] (https://www.leanplum.com/privacy/) রয়েছে।  এই ডেটার মাধ্যমে আমারা বিভিন্ন বৈশিষ্ট্য এবং অভিজ্ঞতা পরীক্ষা করতে, তারসাথে Firefox এ আপনার অভিজ্ঞতার উন্নতির জন্য কাস্টমাইজ করা বার্তা এবং সুপারিশগুলি প্রদান করতে পারি।[এখানে](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) এই ডেটা সংগ্রহের বিষয়ে এবং আপনি কীভাবে[এই বৈশিষ্ট্যটি অক্ষম করবেন](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)-এ সেই বিষয়ে আরো জানুন।
+	iOS এ, Firefox আমাদের মোবাইল বিপণন বিক্রেতা Leanplum এ ইন্টারঅ্যাকশন ডেটা পাঠায়, যার নিজস্ব [গোপনীয়তা নীতি](https://www.leanplum.com/privacy/) রয়েছে।  এই ডেটার মাধ্যমে আমারা বিভিন্ন বৈশিষ্ট্য এবং অভিজ্ঞতা পরীক্ষা করতে, তারসাথে Firefox এ আপনার অভিজ্ঞতার উন্নতির জন্য কাস্টমাইজ করা বার্তা এবং সুপারিশগুলি প্রদান করতে পারি।[এখানে](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) এই ডেটা সংগ্রহের বিষয়ে এবং আপনি কীভাবে[এই বৈশিষ্ট্যটি অক্ষম করবেন](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)-এ সেই বিষয়ে আরো জানুন।
 
 ---------------------------------------
 

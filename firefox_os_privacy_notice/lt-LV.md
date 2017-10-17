@@ -3,7 +3,7 @@
 2015\. gada 26\. augusts
 {: datetime="2015-08-26" }
 
-Mozilla rūpējas par jūsu konfidencialitātes ievērošanu. Mūsu [Mozilla konfidencialitātes politikā] (https://www.mozilla.org/privacy/) ir izklāstīts, kā mēs apstrādājam no Firefox OS saņemto informāciju.
+Mozilla rūpējas par jūsu konfidencialitātes ievērošanu. Mūsu [Mozilla konfidencialitātes politikā](https://www.mozilla.org/privacy/) ir izklāstīts, kā mēs apstrādājam no Firefox OS saņemto informāciju.
 
 ## Kas jums jāzina
 
