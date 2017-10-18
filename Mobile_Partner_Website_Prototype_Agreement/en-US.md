@@ -125,9 +125,9 @@ This document contains obligations you must meet in order to use the Powered by 
 
 3. **Open Source License Compliance**. Your distribution of any open source object or source code must comply with the requirements for each of the open source licenses governing that code. There is more information about the open source in Boot2Gecko available at <https://wiki.mozilla.org/Boot2Gecko/Licensing>. Mozilla strongly recommends you getting involved in and consider making open source contributions back to the Boot 2 Gecko project. To find out more about how to get involved, please see the following resources:
 
-    1. <https://developer.mozilla.org/en-US/docs/Introduction>
+    1. <https://developer.mozilla.org/docs/Introduction>
 
-    2. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS>
+    2. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS>
 
     3. <https://mozilla.github.io/process-releases/draft/development_overview>
 
@@ -173,7 +173,7 @@ This document contains obligations you must meet in order to use the Powered by 
 	
 	            1. <https://wiki.mozilla.org/B2G/User_Agent/Partner_Changes_Policy>
 	
-	            2. <https://developer.mozilla.org/en-US/docs/Gecko_user_agent_string_reference>
+	            2. <https://developer.mozilla.org/docs/Gecko_user_agent_string_reference>
 	
 	        3. You shall not modify the behavior of existing Web APIs. For example, you shall not change the semantics of a function or its side effects.
 	
@@ -187,13 +187,13 @@ This document contains obligations you must meet in order to use the Powered by 
 
 	    1. The Prototype must implement the permission model and trust levels documented here:
 
-	        1. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/Security_model>
+	        1. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/Security_model>
 
-	        2. <https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Security/System_security>
+	        2. <https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Security/System_security>
 
 	    2. The Prototype must gate access to Web APIs by appropriate permission checks. Current permissions checks are documented here:
 
-	        1. <https://developer.mozilla.org/en-US/docs/Web/Apps/App_permissions>
+	        1. <https://developer.mozilla.org/docs/Web/Apps/App_permissions>
 
 	    3. Applications that are pre-installed on a Prototype that are derived from the Firefox Marketplace should ship with the app signing certificate provided for Firefox Marketplace and pre-installed applications that do not derive from the Firefox Marketplace must not use the Firefox Marketplace signing certificate.
 

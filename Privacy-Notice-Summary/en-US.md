@@ -3,7 +3,7 @@
 March 17, 2016
 {: datetime="2016-03-17" }
 
-* This notice is a summary of our privacy practices. To learn more about the information we collect from users and how we handle that information please read our [Mozilla Website Privacy Notice](https://www.mozilla.org/en-US/privacy/websites/) and our [Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/mozilla/).
+* This notice is a summary of our privacy practices. To learn more about the information we collect from users and how we handle that information please read our [Mozilla Website Privacy Notice](https://www.mozilla.org/privacy/websites/) and our [Terms of Use](https://www.mozilla.org/about/legal/terms/mozilla/).
 
 * Unless indicated otherwise, the Web Apps on the Web Apps Discovery Portal are not made by us and you should check their privacy policies before using them.
 

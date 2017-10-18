@@ -9,7 +9,7 @@ We care about your privacy. When Hello sends information to Mozilla (that's us) 
 
 When you make calls, the data below is sent to Mozilla in order to connect the call. Once connected, your communications are encrypted.  
 
-* **Firefox Accounts**: Accounts are optional to use with Firefox Hello.  If you sign-in with a Firefox Account, your Firefox browser sends Mozilla your account name in order to direct calls to you. To learn more about how data is used by Firefox Accounts, click [here](https://www.mozilla.org/en-US/privacy/firefox-cloud/).
+* **Firefox Accounts**: Accounts are optional to use with Firefox Hello.  If you sign-in with a Firefox Account, your Firefox browser sends Mozilla your account name in order to direct calls to you. To learn more about how data is used by Firefox Accounts, click [here](https://www.mozilla.org/privacy/firefox-cloud/).
 
 * **Contact Information**: You can import or add new contacts to create an address book with email addresses, profile pictures, and names of people you may call.  This contact information is stored locally on your device. When you use the Service, your Firefox browser encrypts your contact's information and sends it to us to connect calls.  If your call is through a conversation URL that you generate, we delete the contact information after 30 days but you can delete it sooner by revoking the conversation URL.  Otherwise, for direct calls, we delete this information once the call is finished.
 
