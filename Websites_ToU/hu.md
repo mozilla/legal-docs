@@ -17,7 +17,7 @@ Némelyik webhelyünk kapcsolódhat harmadik fél által biztosított linkhez, a
 
 A webhely vagy más Mozilla szolgáltatás eléréséhez bizonyos webhelyeken regisztrálni kell és fiókot kell nyitni. Ilyen esetben további feltételekről tájékoztatják Önt. Az Ön fiókja segítségével folytatott minden tevékenységért Önt terheli felelősség.
 
-Némely webhely engedélyezi, hogy a regisztráció során felhasználónevet hozzon létre. Az Ön által létrehozott felhasználónévnek eleget kell tennie az [elfogadható használatra vonatkozó irányelvünkben] foglaltaknak (https://www.mozilla.org/about/legal/acceptable-use/). 
+Némely webhely engedélyezi, hogy a regisztráció során felhasználónevet hozzon létre. Az Ön által létrehozott felhasználónévnek eleget kell tennie az [elfogadható használatra vonatkozó irányelvünkben](https://www.mozilla.org/about/legal/acceptable-use/) foglaltaknak. 
 
 
 #### 3\. Tartalom és licenc

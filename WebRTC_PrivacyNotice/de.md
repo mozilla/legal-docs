@@ -51,4 +51,4 @@ Google Analytics](https://tools.google.com/dlpage/gaoptout) installieren. Dieses
 
 ---------------------------------------
 
-Firefox Hello wird Ihnen in Zusammenarbeit mit TokBox, Inc. („TokBox“) bereitgestellt und sendet im Rahmen der Servicebereitstellung Daten an TokBox.  Dieser Hinweis bezieht sich ausschließlich auf die Verarbeitung der erfassten Informationen durch Mozilla. Weitere Informationen über die Verwendung Ihrer Informationen durch TokBox finden Sie in der [Datenschutzerklärung] von TokBox ( https://tokbox.com/support/privacy-policy).
+Firefox Hello wird Ihnen in Zusammenarbeit mit TokBox, Inc. („TokBox“) bereitgestellt und sendet im Rahmen der Servicebereitstellung Daten an TokBox.  Dieser Hinweis bezieht sich ausschließlich auf die Verarbeitung der erfassten Informationen durch Mozilla. Weitere Informationen über die Verwendung Ihrer Informationen durch TokBox finden Sie in der [Datenschutzerklärung](https://tokbox.com/support/privacy-policy) von TokBox.
