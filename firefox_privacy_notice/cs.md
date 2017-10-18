@@ -7,7 +7,7 @@
 
 Proto vytváříme Firefox a veškeré naše produkty tak, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. Snažíme se shromažďovat pouze to, co potřebujeme ke zlepšení Firefoxu pro každého.
 
-V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje Firefox sdílí, a představíme vám nastavení, která jich umožní sdílet ještě méně. Rovněž dodržujeme postupy stanovené v [Zásadách ochrany osobních údajů](https://www.mozilla.org/privacy/) společnosti Mozilla, jak získáváme vaše informace shromážděné z Firefoxu, jak s nimi zacházíme a jak je sdílíme.
+V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje Firefox sdílí, a představíme vám nastavení, která jich umožní sdílet ještě méně. Rovněž dodržujeme postupy stanovené v [Zásadách ochrany osobních údajů](https://www.mozilla.org/privacy/) společnosti Mozilla ohledně získávání vašich informací shromážděných z Firefoxu, zacházení s nimi a jejich sdílení.
 
 ## Dle výchozího nastavení Firefox sdílí údaje pro:
 
@@ -28,7 +28,7 @@ Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefo
 
 Firefox zobrazuje obsah, jako jsou například „snippety“ (zprávy od společnosti Mozilla) a Top stránky (webové stránky navržené společností Mozilla pří prvním použití Firefoxu).
 
-* __Údaje o místě__: Firefox využívá vaši IP adresu pro návrh relevantního obsahu podle vaší země.
+* __Údaje o místě__: Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země.
 
 * __Technické údaje a údaje o interakci__: Firefox nám zasílá údaje například o poloze, velikosti a umístění námi navrhovaného obsahu, jakož i základní údaje o vaší interakci s navrhovaným obsahem Firefoxu. To zahrnuje počet zobrazení navrhovaného obsahu nebo kliknutí na něj.
 
@@ -96,7 +96,7 @@ Přímé vyhledávání můžete ve Firefoxu provádět na několika místech, v
 
 * __Údaje o místě__: Pro bezpečnostní účely ukládáme IP adresy, z nichž přistupujete k vašemu účtu Firefoxu pro přibližné stanovení města a země. Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
 
-* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek účtu Firefoxu a interakci s nimi, jakož i o předvolbách a interakcích při registraci registraci a nabídkami nastavní e-mailu a SMS zpráv. [Získejte podrobnější informace](https://www.mozilla.org/privacy/websites/) o datových postupech společnosti Mozilla pro webové stránky a e-mail.
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek účtu Firefoxu a interakci s nimi, jakož i o předvolbách a interakcích při registraci registraci a nabídkami nastavení e-mailu a SMS zpráv. [Získejte podrobnější informace](https://www.mozilla.org/privacy/websites/) o datových postupech společnosti Mozilla pro webové stránky a e-mail.
 
 * __Technické údaje__: Abychom vám mohli zobrazit zařízení, která jsou s vašim účtem Firefoxu synchronizována, ukládáme informace o operačním systému vašeho zařízení, prohlížeči a verzi, časové značce, místě a stejné informace o zařízeních připojených k vašemu účtu.
 
@@ -132,7 +132,7 @@ Přečtěte si [úplnou dokumentaci](https://github.com/mozilla-services/screens
 
 * __Údaje o připojení__: Pokud povolíte webovým stránkám zasílat vám oznámení, Firefox se spojí se společností Mozilla a využije vaši IP adresu pro doručení zprávy. Mozilla nemá přístup k obsahu zprávy.
 
-* __Údaje o interakci__: Získáváme souhrnná data, jako je počet registrací a zrušení registrací odběrů oznámení webových stránek, počet zaslaných zpráv, časové značky a odesilatele (což může zahrnovat poskytovatele konkrétních webových stránek).
+* __Údaje o interakci__: Získáváme souhrnná data, jako je počet registrací a zrušení registrací odběrů oznámení webových stránek, počet zaslaných zpráv, časové značky a odesílatele (což může zahrnovat poskytovatele konkrétních webových stránek).
 
 Přečtěte si [úplnou dokumentaci](https://mozilla-push-service.readthedocs.io/en/latest/) nebo [získejte podrobnější informace](https://support.mozilla.org/kb/push-notifications-firefox), včetně toho, jak oznámení webových stránek zrušit.
 
