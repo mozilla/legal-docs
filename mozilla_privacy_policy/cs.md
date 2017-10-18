@@ -3,7 +3,7 @@
 15\. dubna 2014
 {: datetime="2014-04-15" }
 
-Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Náš závazek je být transparentní a otevření. Tyto Zásady ochrany soukromí společnosti Mozilla obecně vysvětlují jak získáváme informace o vás a co s těmito informacemi po jejich získání děláme. Můžete si rovněž přečíst naše oznámení o ochraně soukromí pro produkt a nejčastější dotazy, kde získáte podrobnější informace týkající se našich jendotlivých produktů a služeb. 
+Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Náš závazek je být transparentní a otevření. Tyto Zásady ochrany soukromí společnosti Mozilla obecně vysvětlují jak získáváme informace o vás a co s těmito informacemi po jejich získání děláme. Můžete si rovněž přečíst naše oznámení o ochraně soukromí pro produkt a nejčastější dotazy, kde získáte podrobnější informace týkající se našich jednotlivých produktů a služeb.
 
 ## Co máme na mysli pod pojmem „osobní údaje”?
 
@@ -15,7 +15,7 @@ Pokud uchováváme vaše osobní údaje společně s neosobními, považujeme ta
 
 ## Jak o vás údaje získáváme?
 
-Informace o vás získáváme:
+Údaje o vás získáváme:
 
 * když nám je přímo poskytnete (např. pokud se rozhodnete nám poslat hlášení o pádu Firefoxu),
 * automaticky prostřednictvím našich produktů a služeb (např. když kontrolujeme, zda je vaše verze Firefoxu aktuální),
