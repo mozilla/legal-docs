@@ -15,7 +15,7 @@ Firefox se automatski povezuje s nama i našim pružaocima usluga radi ažuriran
 
 	Ažuriranje pretraživača: Jednom dnevno Firefox šalje sledeće podatke kompaniji Mozilla kada proverava da li postoje ažuriranja za pretraživač: podatke o verziji vašeg pretraživača Firefox, podešavanja jezika, informacije o operativnom sistemu i verziji. Možete [isključiti ažuriranja tako što ćete pratiti ova uputstva](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking), ali to može ugroziti bezbednost vašeg sistema.
 
-	Lista blokiranih dodataka: Firefox jednom dnevno kontaktira kompaniju Mozilla radi provere informacija o malicioznim dodacima. To obuhvata, na primer: verziju pretraživača, OS i verziju, jezik, ukupni broj zahteva, vreme poslednjeg zahteva, vreme u toku dana, IP adresu, kao i listu dodataka koje ste instalirali. Možete [isključiti ažuriranja meta podataka](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) u svakom trenutku, ali to može ugroziti bezbednost vašeg sistema.
+	Lista blokiranih dodataka: Firefox jednom dnevno kontaktira kompaniju Mozilla radi provere informacija o malicioznim dodacima. To obuhvata, na primer: verziju pretraživača, OS i verziju, jezik, ukupni broj zahteva, vreme poslednjeg zahteva, vreme u toku dana, IP adresu, kao i listu dodataka koje ste instalirali. Možete [isključiti ažuriranja meta podataka](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections) u svakom trenutku, ali to može ugroziti bezbednost vašeg sistema.
 
 * **Isečci**
 {: #snippets }
@@ -96,7 +96,7 @@ Kada to zatražite, Firefox se povezuje i na sajt Mozilla kako bi vam obezbedio 
 * **Dodaci**
 {: #addons }
 
-	Firefox nudi stranicu „Preuzmite dodatke“ u okviru „Menadžera dodataka“ na kojoj su dati popularni dodaci i prikazuje personalizovane preporuke na osnovu dodataka koje ste već instalirali. Radi prikazivanja personalizovanih preporuka, Firefox šalje informacije kompaniji Mozilla, uključujući i listu dodataka koje ste instalirali, podatke o verziji pretraživača Firefox i vašu IP adresu. Ova komunikacija se dešava samo kada je deo „Preuzmite dodatke“ otvoren, a može se isključiti tako što ćete pratiti [ova uputstva](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Menadžer dodataka u pretraživaču Firefox ima polje za pretragu u koje možete uneti ključne reči za pretraživanje, a Mozilla prikuplja pretrage po ovim ključnim rečima, kao i informacije o verziji pretraživača Firefox, jeziku i OS kako bi vam prikazao preporuke.
+	Firefox nudi stranicu „Preuzmite dodatke“ u okviru „Menadžera dodataka“ na kojoj su dati popularni dodaci i prikazuje personalizovane preporuke na osnovu dodataka koje ste već instalirali. Radi prikazivanja personalizovanih preporuka, Firefox šalje informacije kompaniji Mozilla, uključujući i listu dodataka koje ste instalirali, podatke o verziji pretraživača Firefox i vašu IP adresu. Ova komunikacija se dešava samo kada je deo „Preuzmite dodatke“ otvoren, a može se isključiti tako što ćete pratiti [ova uputstva](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). Menadžer dodataka u pretraživaču Firefox ima polje za pretragu u koje možete uneti ključne reči za pretraživanje, a Mozilla prikuplja pretrage po ovim ključnim rečima, kao i informacije o verziji pretraživača Firefox, jeziku i OS kako bi vam prikazao preporuke.
 
 * **Obaveštenja „Push“**
 {: #push-notifications }

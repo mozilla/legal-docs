@@ -15,7 +15,7 @@ Firefox automatically connects to us and our service providers to provide update
 
 	Browser Updates: Once per day, Firefox sends the following info to Mozilla when it checks for browser updates: your Firefox version information, language preference, operating system, and version. You can [turn off updates by following these instructions](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking) but it may leave you open to security vulnerabilities.
 
-	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off metadata updates](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) at any time, but it may leave you open to security vulnerabilities.
+	Add-ons Blocklist: Firefox contacts Mozilla once per day to check for add-on information to check for malicious add-ons. This includes, for example: browser version, OS and version, locale, total number of requests, time of last request, time of day, IP address, and the list of add-ons you have installed. You can [turn off metadata updates](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections) at any time, but it may leave you open to security vulnerabilities.
 
 * **Snippets**
 {: #snippets }
@@ -107,7 +107,7 @@ When you ask it to, Firefox also connects to Mozilla to provide you with feature
 * **Add-ons**
 {: #addons }
 
-	Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
+	Firefox offers a Get Add-ons page of the Add-ons Manager that features popular add-ons and displays personalized recommendations based on the add-ons you already have installed. To display the personalized recommendations, Firefox sends information to Mozilla, including the list of add-ons you have installed, Firefox version information, and your IP address. This communication only happens when the Get Add-ons area is open and can be turned off by following [these instructions](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).The add-ons manager in Firefox has a search field where you can enter key words to perform searches and Mozilla collects these key word searches, as well as your Firefox version information, locale, and OS to show you recommendations.
 
 * **Push Notifications**
 {: #push-notifications }

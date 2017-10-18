@@ -40,7 +40,7 @@ Firefox は、「スニペット」(Mozilla からのメッセージ) や上位�
 * __更新用の技術情報__: デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーの更新の有無を定期的に確認します。正しい更新を適用するために、お使いの Firefox のバージョン、言語、端末のオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
-* __アドオンブロックリスト用の技術情報__: デスクトップ版および Android 版の Firefox は、あなたおよび他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、端末のオペレーティングシステム、およびインストールされているアドオンのリストが必要です。[詳細はこちら](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)。
+* __アドオンブロックリスト用の技術情報__: デスクトップ版および Android 版の Firefox は、あなたおよび他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、端末のオペレーティングシステム、およびインストールされているアドオンのリストが必要です。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
 
 * __Google のセーフブラウジングサービスへのウェブページおよび技術情報__: Firefox は、あなたを悪意のあるダウンロードから守るために、認識されなかったダウンロードに関する基本的な情報を Google のセーフブラウジングサービスに送信します。これには、ファイル名やダウンロード元の URL が含まれます。
 

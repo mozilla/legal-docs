@@ -40,7 +40,7 @@ Firefox 会显示诸如“Snippet”(来自 Mozilla 的消息）和常用网站�
 * __有关更新的技术数据__：Firefox 的桌面版本会通过连接到 Firefox 服务器，定期查看浏览器更新。要应用适当的更新，须使用您的 Firefox 版本、语言和设备操作系统等相关信息。如果您曾经使用一个 Firefox 的移动版本来下载和安装 Firefox，则可以用它连接到其他服务。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
-* __附加组件黑名单的技术数据__：Firefox 桌面版本和 Android 版本会定期连接到 Mozilla 以保护您及其他人，免遭恶意附加组件的攻击。要应用和更新附加组件黑名单，需要您的 Firefox 版本和语言、设备操作系统以及已安装附加组件的列表等相关信息。[了解更多信息](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)。
+* __附加组件黑名单的技术数据__：Firefox 桌面版本和 Android 版本会定期连接到 Mozilla 以保护您及其他人，免遭恶意附加组件的攻击。要应用和更新附加组件黑名单，需要您的 Firefox 版本和语言、设备操作系统以及已安装附加组件的列表等相关信息。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
 
 * __Google SafeBrowsing 服务的网页和技术数据__：为了保护您免遭恶意下载的攻击，Firefox 会将有关无法识别的下载的基本信息发送给 Google 的 SafeBrowsing 服务，包括文件名和下载的来源 URL。
 

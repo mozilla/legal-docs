@@ -40,7 +40,7 @@ Firefox 會顯示各種內容，如「Snippet」（來自 Mozilla 的訊息）�
 *__更新用技術資料__：桌機版的 Firefox 會定期連線至 Mozilla 檢查是否有瀏覽器更新。為了正確安裝更新，系統將會傳送您使用的 Firefox 版本、語言及裝置作業系統等資訊。若您使用其他服務下載安裝 Firefox 行動版，則 Firefox 可能會連線到其他服務上。[進一步瞭解](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
-*__附加元件封鎖清單技術資料__：Firefox 桌機版及 Android 版會定期連線至 Mozilla，以便保護您及其他人不受惡意附加元件影響。為了套用並更新附加元件封鎖清單，系統需要您的 Firefox 版本、語言、裝置作業系統及已安裝的附加元件。[進一步瞭解](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/)。
+*__附加元件封鎖清單技術資料__：Firefox 桌機版及 Android 版會定期連線至 Mozilla，以便保護您及其他人不受惡意附加元件影響。為了套用並更新附加元件封鎖清單，系統需要您的 Firefox 版本、語言、裝置作業系統及已安裝的附加元件。[進一步瞭解](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
 
 *__傳送給 Google SafeBrowsing 安全瀏覽服務的網頁及技術資料__：為了保護您不受惡意下載檔案的影響，Firefox 會傳送未知下載相關的基本資訊給 Google SafeBrowsing 安全瀏覽服務，其中包含下載的檔案名稱以及下載網址等資訊。
 
