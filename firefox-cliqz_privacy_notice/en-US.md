@@ -60,7 +60,7 @@ Firefox with Cliqz by default connects to Cliqz to display search results in the
 * __Technical data for updates__: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
-* __Technical data for add-ons blocklist__: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/).
+* __Technical data for add-ons blocklist__: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
 
 * __Webpage and technical data to Google’s SafeBrowsing service__: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from.
 

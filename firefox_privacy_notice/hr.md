@@ -15,7 +15,7 @@ Firefox se automatski povezuje s nama i našim pružateljima usluga radi omoguć
 
 	Ažuriranje preglednika: Jednom dnevno, prilikom provjeravanja dostupnih ažuriranja preglednika, Firefox šalje Mozilli sljedeće podatke: podatke o vašoj verziji Firefox preglednika, postavci jezika, operativnom sustavu i njegovoj verziji. Možete [isključiti opciju ažuriranja slijedeći ove upute](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking), no to vas može izložiti sigurnosnim nedostacima.
 
-	Popis blokiranih dodataka: Firefox uspostavlja kontakt s Mozillom jednom dnevno radi provjere podataka o dodacima kako bi otkrio zlonamjerne dodatke. To, primjerice, uključuje: verziju preglednika, operativni sustav i njegovu verziju, položaj, ukupni broj zahtjeva, vrijeme posljednjeg zahtjeva, doba dana, IP adresu i popis instaliranih dodataka. Možete [isključiti opciju ažuriranja metapodataka](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/) u svakom trenutku, no to vas može izložiti sigurnosnim nedostacima.
+	Popis blokiranih dodataka: Firefox uspostavlja kontakt s Mozillom jednom dnevno radi provjere podataka o dodacima kako bi otkrio zlonamjerne dodatke. To, primjerice, uključuje: verziju preglednika, operativni sustav i njegovu verziju, položaj, ukupni broj zahtjeva, vrijeme posljednjeg zahtjeva, doba dana, IP adresu i popis instaliranih dodataka. Možete [isključiti opciju ažuriranja metapodataka](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections) u svakom trenutku, no to vas može izložiti sigurnosnim nedostacima.
 
 * **Isječci**
 {: #snippets }
@@ -97,7 +97,7 @@ Ako zatražite, Firefox će se povezati s Mozillom kako bi vam omogućio korišt
 * **Dodaci**
 {: #addons }
 
-	Firefox nudi stranicu upravitelja dodacima za traženje dodataka koja sadrži popularne dodatke i prikazuje personalizirane preporuke temeljene na dodacima koje ste prethodno instalirali. Kako bi prikazao personalizirane preporuke, Firefox Mozilli šalje podatke, uključujući i popis dodataka koje ste instalirali, podatke o verziji Firefoxa i vašu IP adresu. Ova razmjena podataka odvija se samo kada je područje za traženje dodataka otvoreno i može se onemogućiti slijedeći [ove upute](https://blog.mozilla.org/addons/how-to-opt-out-of-add-on-metadata-updates/). Upravitelj dodacima u Firefoxu sadrži polje za pretraživanje u koje možete unijeti ključne riječi za pretraživanje, a Mozilla ova pretraživanja pohranjuje po ključnim riječima, kao i podatke o vašoj verziji Firefoxa, podatke o lokaciji i operativnom sustavu, kako bi vam prikazala preporuke.
+	Firefox nudi stranicu upravitelja dodacima za traženje dodataka koja sadrži popularne dodatke i prikazuje personalizirane preporuke temeljene na dodacima koje ste prethodno instalirali. Kako bi prikazao personalizirane preporuke, Firefox Mozilli šalje podatke, uključujući i popis dodataka koje ste instalirali, podatke o verziji Firefoxa i vašu IP adresu. Ova razmjena podataka odvija se samo kada je područje za traženje dodataka otvoreno i može se onemogućiti slijedeći [ove upute](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). Upravitelj dodacima u Firefoxu sadrži polje za pretraživanje u koje možete unijeti ključne riječi za pretraživanje, a Mozilla ova pretraživanja pohranjuje po ključnim riječima, kao i podatke o vašoj verziji Firefoxa, podatke o lokaciji i operativnom sustavu, kako bi vam prikazala preporuke.
 
 * **Push obavijesti**
 {: #push-notifications }
