@@ -19,7 +19,7 @@ This Firefox Add-on Distribution Agreement ("Agreement") governs Your distributi
 **1.  Accounts**
 In order to distribute an Add-on, You'll need to create an account. During registration, You will be asked to set a password. You are responsible for keeping Your password confidential and for the activity that happens through Your account. Mozilla is not responsible for any losses arising out of unauthorized use of Your account.
 **Privacy Policy**
-Our [Websites, Communications and Cookies Privacy Notice] (https://www.mozilla.org/en-US/privacy/websites/) describes what information we receive from Developers and how we use that information. We use the information we receive as described in our [ Mozilla Privacy Policy] (https://www.mozilla.org/privacy/).
+Our [Websites, Communications and Cookies Privacy Notice](https://www.mozilla.org/en-US/privacy/websites/) describes what information we receive from Developers and how we use that information. We use the information we receive as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 **Distribution, Review Criteria & Process**
 
 **Distribution Options**
@@ -55,7 +55,7 @@ Add-ons must not:
 *break or disable core application features
 
 _Content Criteria_
-*Add-ons must meet the criteria listed here: [https://www.mozilla.org/en-US/about/legal/acceptable-use/] (https://www.mozilla.org/en-US/about/legal/acceptable-use/ )
+*Add-ons must meet the criteria listed here: [https://www.mozilla.org/en-US/about/legal/acceptable-use/](https://www.mozilla.org/en-US/about/legal/acceptable-use/)
 
 _Preliminary Review Criteria_
 Add-ons must not:
@@ -74,7 +74,7 @@ Add-ons must:
 *be meant for a general audience
 Add-ons must not:
 *break other add-ons
-*use APIs known for bad performance or other stability problems.  For more information, see our list of [performance best practices] (https://developer.mozilla.org/en-US/Add-ons/Performance_best_practices_in_extensions).
+*use APIs known for bad performance or other stability problems.  For more information, see our list of [performance best practices](https://developer.mozilla.org/en-US/Add-ons/Performance_best_practices_in_extensions).
 *change preferences in Firefox without user consent
 *make any unexpected features that can be privacy or security-sensitive strictly opt-in
 
