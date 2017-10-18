@@ -3,7 +3,7 @@
 úterý 16. srpna 2016.
 {: datetime="2016-08-16" }
 
-Staráme se o ochranu vašeho soukromí. Když Firefox Cloud Services (dále jen „Služby”) zašlou informace společnosti Mozilla (tedy nám), naše [Zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak takové informace používáme.
+Staráme se o ochranu vašeho soukromí. Naše [Zásady ochrany osobních údajů](https://www.mozilla.org/privacy/) popisují, jak používáme informace zaslané z Firefox Cloud Services (dále jen „Služby”) společnosti Mozilla (tedy nám).
 
 ## Věci, které byste měli vědět:
 
