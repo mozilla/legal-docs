@@ -52,4 +52,4 @@ do Google Analytics](https://tools.google.com/dlpage/gaoptout). O complemento ma
 
 ---------------------------------------
 
-O Firefox Hello é oferecido a você em parceria com a TokBox, Inc. ("TokBox") e envia dados à TokBox como parte da função do serviço.  Esse aviso descreve apenas como a Mozilla gerencia as informações recebidas de você. Para mais informações sobre como a TokBox gerencia os dados, leia a [Política de privacidade] deles (https://tokbox.com/support/privacy-policy)
+O Firefox Hello é oferecido a você em parceria com a TokBox, Inc. ("TokBox") e envia dados à TokBox como parte da função do serviço.  Esse aviso descreve apenas como a Mozilla gerencia as informações recebidas de você. Para mais informações sobre como a TokBox gerencia os dados, leia a [Política de privacidade](https://tokbox.com/support/privacy-policy) deles

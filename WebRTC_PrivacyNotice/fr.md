@@ -52,4 +52,4 @@ pour la désactivation de Google Analytics](https://tools.google.com/dlpage/gaop
 
 ---------------------------------------
 
-Firefox Hello vous est fourni en collaboration avec TokBox, Inc. (« TokBox ») et envoie des données à TokBox dans le cadre du fonctionnement du service.  Cet avis décrit seulement la façon dont Mozilla traite les informations que nous recevons de votre part. Pour de plus amples renseignements sur la façon dont TokBox traite les données, veuillez lire la [Politique de confidentialité de cette société] à ( https://tokbox.com/support/privacy-policy)
+Firefox Hello vous est fourni en collaboration avec TokBox, Inc. (« TokBox ») et envoie des données à TokBox dans le cadre du fonctionnement du service.  Cet avis décrit seulement la façon dont Mozilla traite les informations que nous recevons de votre part. Pour de plus amples renseignements sur la façon dont TokBox traite les données, veuillez lire la [Politique de confidentialité de cette société](https://tokbox.com/support/privacy-policy) à 
