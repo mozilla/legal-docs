@@ -28,7 +28,7 @@ Shirika la Mozilla Corporation (&ldquo;Mozilla&rdquo;, &ldquo;us&rdquo; or &ldqu
 
 ## Masharti Yanayosimamia Matumizi Yako ya Soko la Firefox
 
-Kama mwendelezaji, unakaribishwa kutumia Soko la Firefox kurahisisha Maudhui yako ya Soko. Matumizi yako ya Soko la Firefox yanategemea masharti na makubaliano ya Makubaliano haya ya Waendelezaji, Soko la Firefox [Masharti ya Matumizi](/media/docs/terms/en-US.html) na sera za Soko la Firefox zilizotajwa katika makubaliano haya na kuchapishwa katika Soko la Firefox (kwa pamoja, &ldquo;Masharti&rdquo;), yote ambayo yamejumuishwa hapa kama marejeleo.
+Kama mwendelezaji, unakaribishwa kutumia Soko la Firefox kurahisisha Maudhui yako ya Soko. Matumizi yako ya Soko la Firefox yanategemea masharti na makubaliano ya Makubaliano haya ya Waendelezaji, Soko la Firefox [Masharti ya Matumizi] (/media/docs/terms/en-US.html) na sera za Soko la Firefox zilizotajwa katika makubaliano haya na kuchapishwa katika Soko la Firefox (kwa pamoja, &ldquo;Masharti&rdquo;), yote ambayo yamejumuishwa hapa kama marejeleo.
 
 
 ## Kukubali Masharti

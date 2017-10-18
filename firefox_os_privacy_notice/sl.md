@@ -3,7 +3,7 @@
 26\. avgust 2015
 {: datetime="2015-08-26" }
 
-Družba Mozilla skrbi za vašo zasebnost. Ko nam Firefox OS pošlje informacije, naša [pravilnik o zasebnosti družbe Mozilla](https://www.mozilla.org/privacy/) opisuje, kako ravnamo s temi informacijami.
+Družba Mozilla skrbi za vašo zasebnost. Ko nam Firefox OS pošlje informacije, naša [pravilnik o zasebnosti družbe Mozilla] (https://www.mozilla.org/privacy/) opisuje, kako ravnamo s temi informacijami.
 
 ## Stvari, ki jih morate vedeti
 
