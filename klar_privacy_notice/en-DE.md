@@ -21,7 +21,7 @@ Klar, by default, does NOT send any information to Mozilla.
 
 	We receive information about how often you use Klar and interact with certain features or prompts. This includes information such as when you start a new browsing session, how often you use search within Klar or launch an external browser from Klar, and which features in the Settings screen are enabled.
 	
-Learn more about [Technical and Interaction Data](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service), or how to [opt-in](https://support.mozilla.org/en-US/kb/send-anonymous-usage-data-firefox-mobile-devices)  to this data collection.
+Learn more about [Technical and Interaction Data](https://github.com/mozilla-mobile/focus/wiki/Event-Tracking-with-Mozilla's-Telemetry-Service), or how to [opt-in](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)  to this data collection.
 
 ---------------------------------------
 

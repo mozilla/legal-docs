@@ -3,7 +3,7 @@
 2017. szeptember 6.
 {: datetime="2017-09-06" }
 
-Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](https://www.mozilla.org/en-US/privacy/) olvashat az adatok kezelésének módjáról.
+Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
 A jelen adatvédelmi nyilatkozat a Mozilla által üzemeltetett webhelyekre és mobilalkalmazásokra vonatkozik, többek között a mozillians.org, a mozilla.org, a firefox.com és a webmaker.org tartományokra. Ide tartoznak például a következők: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org és wiki.mozilla.org.
 
@@ -14,7 +14,7 @@ Személyes adataihoz hozzáférhetünk például a közösségi oldalakon velün
 
 * **Közösségi oldalak**: Ha használja a közösségi oldalakon, például a Twitteren és a Facebookon elérhető fiókjainkat, akkor személyes adatokhoz juthatunk Önről. Amennyiben használja ezeket a hálózatokat, akkor ezek saját adatvédelmi irányelveit kell alkalmazni, javasoljuk, hogy olvassa el ezeket. 
 
-* **Állásra, gyakornoki vagy ösztöndíjas pozícióra jelentkezők**: A nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas lehetőségekre jelentkezőknek meg kell adniuk nevüket, pontos címüket, telefonszámukat, e-mail címüket és az önéletrajzukat a Mozilla számára. Ezeket az adatokat a jelentkezések feldolgozására és értékelésére használjuk, és arra, hogy a jelölteket tájékoztassuk a lehetőségekről. Harmadik félként működő beszállító segíti munkánkat az állásra jelentkezők esetében. A harmadik félként működő beszállítókkal kapcsolatos adatokra vonatkozó gyakorlatunk leírása [Mozilla Adatvédelmi Irányelv](https://www.mozilla.org/en-US/privacy/) itt olvasható.
+* **Állásra, gyakornoki vagy ösztöndíjas pozícióra jelentkezők**: A nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas lehetőségekre jelentkezőknek meg kell adniuk nevüket, pontos címüket, telefonszámukat, e-mail címüket és az önéletrajzukat a Mozilla számára. Ezeket az adatokat a jelentkezések feldolgozására és értékelésére használjuk, és arra, hogy a jelölteket tájékoztassuk a lehetőségekről. Harmadik félként működő beszállító segíti munkánkat az állásra jelentkezők esetében. A harmadik félként működő beszállítókkal kapcsolatos adatokra vonatkozó gyakorlatunk leírása [Mozilla Adatvédelmi Irányelv](https://www.mozilla.org/privacy/) itt olvasható.
 
 * **Közreműködők**: A Mozilla közösség önkénteseként előfordulhat, hogy közreműködésével és erőfeszítései elismerésével kapcsolatban a Mozilla és mások fel szeretnék venni Önnel a kapcsolatot a megadott e-mail címen keresztül. Ha közreműködése a Bugzilla, a Mozilla Reps alkalmazásokkal vagy kódalapunkkal kapcsolatos, akkor az Ön e-mail címe és esetleg neve is hozzáférhetővé válik minden internet felhasználó számára. Ha Ön profilt hoz létre a Mozillians.org oldalon, az hozzáférhető lesz a Mozilla munkavállalói és közreműködői számára. Profiljának adatait itt szerkesztheti: [Profile Settings (Profilbeállítások)](https://mozillians.org/user/edit). Néha az egyes forrásokból (például a Bugzillából) származó közreműködői adatokat irányítópultokon használjuk, hogy összesített adatokat nyerjünk a Mozilla közösségről. Egy példa: [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Ha van rá mód, igyekszünk a lehető legszűkebbre venni a nyilvánosan megjelenített elérhetőségek körét.
 
@@ -49,7 +49,7 @@ Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja
 
 * **Ne kövessenek**: A Mozilla nem követi nyomon felhasználóit harmadik felek webhelyein célzott hirdetések elhelyezése érdekében. Ha úgy állította be a böngészőjét, hogy „Ne kövessenek” jelet küldjön, amikor Ön a weboldalainkra lép, a Mozilla nem fogja használni a [Mérések](#data-tools) section résznél leírt egyik eszközt sem.
 
-* **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/en-US/newsletter/recovery/) frissítésével.
+* **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/newsletter/recovery/) frissítésével.
 
 * **Analitika és optimalizálás**: Kövesse a lenti utasításokat, hogy megakadályozza az adatgyűjtést a Mozilla weboldalainak felkereséséről.
     *  Google: Telepítse a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), amelynek köszönhetően névtelenek maradhatnak a látogatásai, és amely letiltja a Google Analytics számára történő adatátvitelt. Néhány Mozilla.org oldal egyértelmű GIF-eket használ, amelyek kommunikálnak a DoubleClick szolgáltatással a reklámkampányunk hatékonyságának felmérése érdekében; a személye szabott hirdetéseseket a DoubleClick révén szabályozhatja a Google hirdetésbeállításainál (be kell majd jelentkeznie a Google-fiókjába).

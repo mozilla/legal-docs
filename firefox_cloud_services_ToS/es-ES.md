@@ -25,11 +25,11 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
     Si ha perdido su dispositivo, puede entrar en https://find.firefox.com/' usando las credenciales de su cuenta de Firefox para localizar y controlar de forma remota su dispositivo. Se nos informará sobre la ubicación aproximada de su dispositivo en cuanto el dispositivo esté activado y conectado a Internet.  En caso pertinente, se deberá hacer cargo del coste asociado con la transmisión de datos. Si cree que su dispositivo ha sido robado, póngase en contacto con la policía local. Tenga cuidado a la hora de compartir información personal porque los mensajes mostrados en su dispositivo son accesibles públicamente.
     
-    Firefox Screenshots le permite realizar capturas de pantalla de contenido web para que usted y otros usuarios puedan verlo en otro momento. Pulse [aquí](https://www.mozilla.org/en-US/about/legal/report-infringement/) para obtener información sobre cómo denunciar posibles infracciones de derechos de autor y de marcas comerciales en el servicio Screenshots. Para notificar un abuso, envíe un enlace a la captura de pantalla en screenshots-report@mozilla.com.
+    Firefox Screenshots le permite realizar capturas de pantalla de contenido web para que usted y otros usuarios puedan verlo en otro momento. Pulse [aquí](https://www.mozilla.org/about/legal/report-infringement/) para obtener información sobre cómo denunciar posibles infracciones de derechos de autor y de marcas comerciales en el servicio Screenshots. Para notificar un abuso, envíe un enlace a la captura de pantalla en screenshots-report@mozilla.com.
 
 4. #### Política de privacidad
 
-    El [Aviso de privacidad de Firefox](https://www.mozilla.org/en-US/privacy/firefox/) especifica la información que recibimos sobre el uso que hace de los Servicios y cómo usamos dicha información. Usamos la información que recibimos a través de los Servicios tal y como describe nuestra [política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
+    El [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/) especifica la información que recibimos sobre el uso que hace de los Servicios y cómo usamos dicha información. Usamos la información que recibimos a través de los Servicios tal y como describe nuestra [política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Su contenido en nuestros Servicios
 

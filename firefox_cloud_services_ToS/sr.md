@@ -25,11 +25,11 @@ Ovaj gornji deo predstavlja skraćeni prikaz odredbi u nastavku. Ovaj pregled sl
 
     Ako vam se uređaj zagubi, možete se prijaviti na https://find.firefox.com/' uz pomoć akreditiva za svoj Firefox nalog kako biste locirali i kontrolisali svoj uređaj na daljinu. Kada je vaš uređaj uključen i povezan na internet dobijamo njegovu približnu lokaciju. Odgovorni ste za sve eventualne troškove nastale zbog prenosa podataka, ukoliko isti postoje. Ako verujete da je vaš uređaj ukraden, trebalo bi da kontaktirate policiju. Vodite računa kada delite lične podatke s drugima jer su poruke koje se prikazuju na vašem uređaju javno dostupne.
     
-    Snimci ekrana pregledača Firefox Vam omogućavaju da zabeležite sadržaj veb stranice koji kasnije Vi ili drugi mogu da pregledaju. Pogledajte [ovde](https://www.mozilla.org/en-US/about/legal/report-infringement/) kako da prijavite neovlašćeno korišćenje autorskih prava ili kršenje zaštitnih znakova u pogledu Snimaka ekrana. Da biste prijavili zloupotrebu, pošaljite nam link prema snimku putem e-pošte na screenshots-report@mozilla.com.
+    Snimci ekrana pregledača Firefox Vam omogućavaju da zabeležite sadržaj veb stranice koji kasnije Vi ili drugi mogu da pregledaju. Pogledajte [ovde](https://www.mozilla.org/about/legal/report-infringement/) kako da prijavite neovlašćeno korišćenje autorskih prava ili kršenje zaštitnih znakova u pogledu Snimaka ekrana. Da biste prijavili zloupotrebu, pošaljite nam link prema snimku putem e-pošte na screenshots-report@mozilla.com.
 
 4. #### Pravila Privatnosti
 
-    [Obaveštenje o privatnosti pregledača Firefox](https://www.mozilla.org/en-US/privacy/firefox/) detaljno opisuje šta dobijamo kada koristite Usluge i kako koristimo te informacije. Informacije koje dobijemo preko Usluga koristimo na način opisan u našim [Pravilima privatnosti kompanije Mozilla](https://www.mozilla.org/privacy/).
+    [Obaveštenje o privatnosti pregledača Firefox](https://www.mozilla.org/privacy/firefox/) detaljno opisuje šta dobijamo kada koristite Usluge i kako koristimo te informacije. Informacije koje dobijemo preko Usluga koristimo na način opisan u našim [Pravilima privatnosti kompanije Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Vaš Sadržaj u Uslugama
 

@@ -3,7 +3,7 @@
 6. září 2017
 {: datetime="2017-09-06" }
 
-Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/en-US/privacy/) popisují, jak s těmito informacemi budeme nakládat.
+Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
 Toto oznámení o ochraně osobních údajů se vztahuje na webové stránky a mobilní aplikace provozované společností Mozilla, k nimž patří kromě jiných domény mozillians.org, mozilla.org, firefox.com a webmaker.org. Patří sem například  bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
 
@@ -14,7 +14,7 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 
 * **Sociální média**: Přihlásíte-li se k účtům našich sociálních médií jako např. Twitter a Facebook, můžeme získat vaše osobní údaje. Používáte-li tyto sítě, platí jejich zásady ochrany osobních údajů a doporučujeme vám se s nimi seznámit.  
 
-* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí společnosti Mozilla](https://www.mozilla.org/en-US/privacy/).
+* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí společnosti Mozilla](https://www.mozilla.org/privacy/).
 
 * **Spolupracovníci**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo kódové bázi, budou vaše emailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o Mozilla komunitě. Příkladem je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
 
@@ -49,7 +49,7 @@ Můžete ovládat jednotlivé předvolby pro soubory cookies, informovat o svýc
 
 * **Nesledovat**: Mozilla nesleduje uživatele prostřednictvím webových stránek třetích osob pro zasílání cílené reklamy Pokud máte váš prohlížeč při vstupu na webové stránky nakonfigurovaný s nastavením signálu „Nesledovat”, Mozilla nebude používat žádný z nástrojů popsaných v části [Metriky](#data-tools) section.  
 
-* **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/en-US/newsletter/recovery/).
+* **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analýza a optimalizace**: Pro zabránění shromažďování dat o vašich návštěvách webových stránek Mozilla postupujte dle pokynů níže:
     *  Google: Nainstalujte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), který zachová anonymitu vašich návštěv a zakáže přenos dat do Google Analytics. Některé stránky Mozilla.org používají čisté soubory GIF, které komunikují s DoubleClick, aby umožnily pochopit účinnost našich reklamních kampaní; přizpůsobené reklamy z DoubleClick mžete ovládat v nastavení reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
