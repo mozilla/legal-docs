@@ -3,7 +3,7 @@
 6. rujna 2017.
 {: datetime="2017-09-06" }
 
-Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](https://www.mozilla.org/en-US/privacy/) opisuju kako postupamo s tim informacijama.
+Stalo nam je do vaše privatnosti. Kada Mozilla (to smo mi) prikuplja podatke o vama, naša [Mozillina Pravila privatnosti](https://www.mozilla.org/privacy/) opisuju kako postupamo s tim informacijama.
 
 Ova napomena o pravilima primjenjuje se na web-mjesta koja rade s Mozillom i mobilne aplikacije, što uključuje domene  mozillians.org,  mozilla.org,  firefox.com i  webmaker.org. Ovo uključuje, primjerice,  bugzilla.mozilla.org,  reps.mozilla.org,  careers.mozilla.org,  developers.mozilla.org,  support.mozilla.org,  addons.mozilla.org, i  wiki.mozilla.org.
 
@@ -14,7 +14,7 @@ Možemo primiti vaše osobne podatke temeljem interakcije s nama na platformi dr
 
 * **Društveni mediji**: Ako se uključite s našim računima društvenih medija, poput Twittera ili Facebooka, možemo primiti osobne podatke o vama. Ako koristite ovim mrežama, primjenjuju se njihova pravila o privatnosti, stoga vas potičemo da ih pročitate.  
 
-* **Posao, stažiranje i pripravnici**: Kandidati za mogućnost zapošljavanja, stažiranja ili pripravnici s Mozillom trebaju nam dati ime i prezime, adresu, telefonski broj, adresu e-pošte i osnovne biografske podatke.   Ove podatke koristimo za obradu i ocjenu kandidata, te za komunikaciju s kandidatima.  Koristimo treću stranu kao dobavljača za pomoć s aplikacijama za zapošljavanje. Za više informacija o našem korištenju podataka s trećom stranom dobavljača pogledajte naša [Mozillina Pravila privatnosti](https://www.mozilla.org/en-US/privacy/).
+* **Posao, stažiranje i pripravnici**: Kandidati za mogućnost zapošljavanja, stažiranja ili pripravnici s Mozillom trebaju nam dati ime i prezime, adresu, telefonski broj, adresu e-pošte i osnovne biografske podatke.   Ove podatke koristimo za obradu i ocjenu kandidata, te za komunikaciju s kandidatima.  Koristimo treću stranu kao dobavljača za pomoć s aplikacijama za zapošljavanje. Za više informacija o našem korištenju podataka s trećom stranom dobavljača pogledajte naša [Mozillina Pravila privatnosti](https://www.mozilla.org/privacy/).
 
 * **Suradnici**: Volontiranjem kao društveni suradnik, Mozilla i ostali mogu tražiti od vas da komunicirate putem adrese e-pošte koju ste pružili vezano za vašu suradnju i prepoznavanje vaših napora.  Ako sudjelujete na uslugama Bugzilla, Mozilla Reps ili našoj osnovnoj bazi, postoji mogućnost da vaša adresa e-pošte i ime budu javno dostupni svim korisnicima Interneta. Ako izradite profil na Mozillians.org, bit će dostupan zaposlenicima i suradnicama Mozille. Vaše podatke profila možete urediti na [Postavke profila](https://mozillians.org/user/edit). Povremeno koristimo podatke o suradniku iz izvora (poput Bugzilla) u kontrolnoj ploči za vizualno dijeljenje prikupljenih podataka na zajednici Mozilla. Primjer [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Po mogućnosti, pokušavamo minimizirati podatke za kontakt koji su javno prikazani.
 
@@ -49,7 +49,7 @@ Možete upravljati pojedinačnim postavkama kolačića, pokazati drugima na vaš
 
 * **Ne prati me**: Mozilla ne prati korisnike kroz web-mjesta treće strane radi omogućavanja ciljanog oglašavanja. Ako ste konfigurirali preglednik za slanje „Do Not Track” signala prilikom pristupa našim web stranicama, Mozilla neće koristiti nijedan alat opisan u [Metrike](#data-tools) section. 
 
-* **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/en-US/newsletter/recovery/).
+* **E-pošta**: Naše marketinške komunikacije su opcionalne za primanje i otkazivanje pretplate od donjeg zaglavlja poruke e-pošte ili ažuriranja vaših [Postavki e-pošte Mozille](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analitike i optimizacija**: Slijedite upute u nastavku za sprječavanje prikupljanja podataka o posjetu na Mozilla Web-mjesta:
     *  Google: Instalirajte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), koji vaše posjete održava anonimnim I zabranjuje prijenos podataka na Google Analytics. Neke Mozilla.org stranice koriste jasne GIF-ove koji komuniciraju s DoubleClick za razumijevanje učinkovitosti našim kampanja za oglašavanje; možete kontrolirati prilagođene oglase iz DoubleClick u postavkama Google oglasa (od vas će se tražiti da se prijavite u Google račun).

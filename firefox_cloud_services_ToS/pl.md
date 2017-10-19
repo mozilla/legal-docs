@@ -25,11 +25,11 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
     W przypadku zagubienia urządzenia można zalogować się na stronę https://find.firefox.com/' przy użyciu danych konta Firefox, aby zlokalizować i zdalnie kontrolować urządzenie. Jeśli urządzenie jest włączone i połączone z Internetem, otrzymamy jego przybliżoną lokalizację. Za wszelkie ewentualne opłaty związane z transmisją danych odpowiada użytkownik. W razie podejrzeń, że urządzenie zostało skradzione, należy skontaktować się z organami ścigania. Przy udostępnianiu danych osobowych należy zachować ostrożność, ponieważ wiadomości wyświetlane na urządzeniu są publicznie dostępne.
     
-    Funkcja Firefox Screenshots umożliwia wykonywanie, przeglądanie i udostępnianie zrzutów ekranu z zawartością strony. Nadużycia praw autorskich lub znaków towarowych w Firefox Screenshots można zgłaszać na [tej stronie](https://www.mozilla.org/en-US/about/legal/report-infringement/). Żeby dokonać zgłoszenia, wyślij wiadomość e-mail z odnośnikiem do zrzutu na adres screenshots-report@mozilla.com.
+    Funkcja Firefox Screenshots umożliwia wykonywanie, przeglądanie i udostępnianie zrzutów ekranu z zawartością strony. Nadużycia praw autorskich lub znaków towarowych w Firefox Screenshots można zgłaszać na [tej stronie](https://www.mozilla.org/about/legal/report-infringement/). Żeby dokonać zgłoszenia, wyślij wiadomość e-mail z odnośnikiem do zrzutu na adres screenshots-report@mozilla.com.
 
 4. #### Polityka prywatności
 
-    Dokument [Polityka prywatności Firefoksa](https://www.mozilla.org/en-US/privacy/firefox/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika, oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
+    Dokument [Polityka prywatności Firefoksa](https://www.mozilla.org/privacy/firefox/) opisuje szczegółowo dane, które otrzymujemy w ramach korzystania z Usług przez użytkownika, oraz sposób, w jaki je wykorzystujemy. Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Zawartość użytkownika w naszych Usługach
 

@@ -25,11 +25,11 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
     Wenn Sie Ihr Gerät einmal verlieren, melden Sie sich bei https://find.firefox.com/ mit Ihrem Benutzernamen und Passwort für Ihr Firefox-Konto an, um Ihr Gerät aufzufinden und vom Computer aus zu bedienen. Der ungefähre Standort Ihres Geräts wird uns angezeigt, solange das Gerät eingeschaltet und mit dem Internet verbunden ist. Möglicherweise fallen Gebühren für die Datenübertragung an, die zu Ihren Lasten gehen. Wenn Sie glauben, Ihr Gerät könnte gestohlen worden sein, melden Sie das bitte der Polizei. Seien Sie grundsätzlich vorsichtig mit der Angabe persönlicher Daten, wenn Sie eine Nachricht an Ihr Handy schicken, da diese von anderen eingesehen werden können.
     
-    Mit Firefox Screenshots können Sie den Inhalt von Webseiten erfassen und später einsehen oder Anderen zeigen. [Hier](https://www.mozilla.org/en-US/about/legal/report-infringement/) können Sie Urheberrechts- oder Markenverletzungen auf Screenshots melden. Um Missbrauch zu melden, senden Sie per E-Mail einen Link zur jeweiligen Aufnahme an screenshots-report@mozilla.com.
+    Mit Firefox Screenshots können Sie den Inhalt von Webseiten erfassen und später einsehen oder Anderen zeigen. [Hier](https://www.mozilla.org/about/legal/report-infringement/) können Sie Urheberrechts- oder Markenverletzungen auf Screenshots melden. Um Missbrauch zu melden, senden Sie per E-Mail einen Link zur jeweiligen Aufnahme an screenshots-report@mozilla.com.
 
 4. #### Datenschutzerklärung
 
-    Im [Firefox-Datenschutzhinweis](https://www.mozilla.org/en-US/privacy/firefox/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
+    Im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
 
 5. #### Ihre Inhalte in unseren Services
 

@@ -25,11 +25,11 @@ Această secțiune rezumă termenii de mai jos. Acest rezumat are rolul de a vă
     
     Dacă dispozitivul dvs. este rătăcit, vă puteți autentifica la https://find.firefox.com folosind acreditările contului dvs. Firefox pentru a localiza și controla de la distanță dispozitivul dvs. Ni se va raporta locația aproximativă a dispozitivului dvs. atunci când dispozitivul va fi pornit sau conectat la internet.  După caz, sunteți responsabil(ă) pentru orice costuri asociate transmisiei de date. În cazul în care considerați că dispozitivul a fost furat, trebuie să contactați organele de ordine. Fiți atent(ă) atunci când partajați informații, întrucât mesajele afișate pe dispozitivul dvs. sunt accesibile publicului.
     
-    Firefox Screenshots vă permite să capturați conținutul unei pagini web, astfel încât dvs. sau alte persoane să-l puteți vizualiza ulterior. Vedeți [aici](https://www.mozilla.org/en-US/about/legal/report-infringement/) cum puteți trimite rapoarte referitoare la încălcarea drepturilor de autor sau a drepturilor de marcă înregistrată pe Screenshots. Pentru raportarea unui abuz, vă rugăm să ne trimiteți un e-mail care să conțină un link către captura de ecran în cauză la screenshots-report@mozilla.com
+    Firefox Screenshots vă permite să capturați conținutul unei pagini web, astfel încât dvs. sau alte persoane să-l puteți vizualiza ulterior. Vedeți [aici](https://www.mozilla.org/about/legal/report-infringement/) cum puteți trimite rapoarte referitoare la încălcarea drepturilor de autor sau a drepturilor de marcă înregistrată pe Screenshots. Pentru raportarea unui abuz, vă rugăm să ne trimiteți un e-mail care să conțină un link către captura de ecran în cauză la screenshots-report@mozilla.com
 
 4. #### Politica de confidențialitate
 
-    [Politica de confidențialitate Firefox](https://www.mozilla.org/en-US/privacy/firefox/) prezintă detalii legate de informațiile pe care le primim de la dvs. atunci când utilizați Serviciile și modul în care folosim aceste informații. Informațiile primite prin intermediul Serviciilor le folosim așa cum este descris în [Politica de confidențialitate Mozilla](https://www.mozilla.org/privacy/).
+    [Politica de confidențialitate Firefox](https://www.mozilla.org/privacy/firefox/) prezintă detalii legate de informațiile pe care le primim de la dvs. atunci când utilizați Serviciile și modul în care folosim aceste informații. Informațiile primite prin intermediul Serviciilor le folosim așa cum este descris în [Politica de confidențialitate Mozilla](https://www.mozilla.org/privacy/).
 
 5. #### Conținutul dvs. în cadrul Serviciilor noastre
 

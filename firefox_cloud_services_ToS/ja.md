@@ -22,11 +22,11 @@
 
     Firefox Sync をご利用頂くことにより、皆様は、あらゆる端末間で、タブ、ロケーションバー、パスワード、ブックマーク、ブラウザの設定といった Firefox に保存されている情報へアクセスできるようになります。Firefox のツールセクションを通じて、Firefox Sync を有効化および無効化することができます。
     
-    Firefox スクリーンショットを使用すると、ウェブページのコンテンツをキャプチャすることで、後でご自分または他の人がそのコンテンツを見ることができます。スクリーンショットの著作権または商標の侵害に関する請求報告については、[こちら](https://www.mozilla.org/en-US/about/legal/report-infringement/)をご覧ください。悪用を報告する場合は、そのスクリーンショットへのリンクを screenshots-report@mozilla.com 宛にメールにてお送りください。
+    Firefox スクリーンショットを使用すると、ウェブページのコンテンツをキャプチャすることで、後でご自分または他の人がそのコンテンツを見ることができます。スクリーンショットの著作権または商標の侵害に関する請求報告については、[こちら](https://www.mozilla.org/about/legal/report-infringement/)をご覧ください。悪用を報告する場合は、そのスクリーンショットへのリンクを screenshots-report@mozilla.com 宛にメールにてお送りください。
 
 4. #### プライバシーポリシー
 
-    [Firefox のプライバシーに関する通知](https://www.mozilla.org/en-US/privacy/firefox/)では、皆様が本サービスをご利用になる場合に Mozilla に送信される情報ならびに Mozilla による当該情報の取り扱い方法について詳しく説明しています。Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。
+    [Firefox のプライバシーに関する通知](https://www.mozilla.org/privacy/firefox/)では、皆様が本サービスをご利用になる場合に Mozilla に送信される情報ならびに Mozilla による当該情報の取り扱い方法について詳しく説明しています。Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。
 
 5. #### 本サービスのコンテンツ
 
