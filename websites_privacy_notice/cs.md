@@ -18,7 +18,7 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 
 * **Přispěvatelé**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo na zdrojovém kódu, budou vaše e-mailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o komunitě Mozilla. Příkladem je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
 
-* **Účty**: Některé webové stránky jako například Marketplace, AMO, MDN a Webmaker vyžadují založení účtu, abyste mohli zasílat obsah vývojáře, odesílat uživatelské recenze či komentáře či instalovat určité typy aplikací. V souvislosti se svým účtem vám mohou být pravidelně zasílány e-maily.
+* **Účty**: Některé webové stránky jako například Marketplace, AMO, MDN a Webmaker vyžadují založení účtu, aby vývojáři mohli nahrávat svůj obsah, uživatelé odesílat recenze či komentáře či instalovat určité typy aplikací. V souvislosti se svým účtem vám mohou být pravidelně zasílány e-maily.
 
 * **Uživatelská zpětná vazba**:  Zpětnou vazbu týkající se našich produktů a služeb nám můžete poskytovat na webových stránkách jako např. [input.mozilla.org](https://input.mozilla.org/), prostřednictvím integrovaných dotazníků na zkušenosti s produktem nebo prostřednictvím kanálů jako např. e-mail, Bugzilla, IRC, účet na sociálních médiích nebo stránky Get Involved nebo prostřednictvím skupiny jako např. Student Ambassadors. Omezte prosím na minimum osobní údaje, které budete na těchto fórech sdílet, protože vaše komentáře budou veřejně přístupné.
 
@@ -27,18 +27,18 @@ Může se stát, že během vaší interakce s námi na platformách sociálníc
 Pro zajištění funkčnosti a vylepšení našich produktů, služeb a komunikace používáme soubory cookies, jednopixelové gify, nezávislou webovou analýzu a IP adresy.
 {: #data-tools }
 
-* **Funkce**: Můžeme používat soubory cookie, informace a zařízení a IP adresy pro rozšíření funkcí některých produktů, služeb a sdělení. Například:
-    * Soubory cookie se používají, abychom si zapamatovali vaše jazykové předvolby Firefoxu a doplňky Firefoxu. Pomáhají i při přihlašování a ověřování uživatele, takže na některých webových stránkách Mozilla se můžete obejít bez zadávání hesel.
+* **Funkce**: Můžeme používat soubory cookies, informace a zařízení a IP adresy pro rozšíření funkcí některých produktů, služeb a sdělení. Například:
+    * Soubory cookies se používají, abychom si zapamatovali vaše jazykové předvolby Firefoxu a doplňky Firefoxu. Pomáhají i při přihlašování a ověřování uživatele, takže na některých webových stránkách Mozilla se můžete obejít bez zadávání hesel.
     * IP adresy se používají pro přizpůsobení sdělení jazyku a zemi.
     * Informace o zařízení, jako např. země, jazyk, operátor a OEM mohou být využity pro přizpůsobení vaší interakce na Firefox Marketplace a Webmaker.
 
 * **Metriky**: Můžeme rovněž využívat soubory cookies, informace o zařízení a IP adresách, společně s prázdnými GIFy, soubory cookies a službami třetích osob, které nám pomáhají pochopit, jak souhrnně uživatelé pracují s našimi produkty, službami, sděleními, webovými stránkami, online kampaněmi, snippety, zařízeními a dalšími platformami. Používáme:
-    * Google Analytics, které umisťují soubory cookie do vašeho zařízení pro získání metrik toho, jak uživatelé využívají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
-    * Optimizely a ShareProgress, které umisťují soubory cookie do vašeho zařízení, které nám pomáhají testovat změny obsahu webu. To nám pomáhá nabízet uživatelům lepší prožitek na webu.
+    * Google Analytics, které umisťují soubory cookies do vašeho zařízení pro získání metrik toho, jak uživatelé využívají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
+    * Optimizely a ShareProgress, které umisťují soubory cookies do vašeho zařízení, které nám pomáhají testovat změny obsahu webu. To nám pomáhá nabízet uživatelům lepší prožitek na webu.
     * DoubleClick a Flashtalking, z nichž každá využívá prázdné GIFy na stránkách stahování Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
     * Yahoo Dot Pixel, která využívá JavaScript na našich stránkách stahování Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
     * Referenční data HTTP, která mohou být součástí instalačního programu Firefoxu, které nám pomáhají zjistit domény webových stránek nebo reklamní kampaně, které vás na stránku stahování přivedly. Tato informace nám pomáhá pochopit efektivitu našich reklamních kampaní a jejich vylepšování.
-    * Čas od času další nástroje a metriky, na experimentální bázi. Můžeme je využít např. jako pomůcku pro hodnocení nových nástrojů metriky nebo testování stávajících metriky.
+    * Čas od času další nástroje a metriky, na experimentální bázi. Můžeme je využít např. jako pomůcku pro hodnocení nových nástrojů pro metriky nebo testování stávajících metrik.
 
 ---------------------------------------
 
