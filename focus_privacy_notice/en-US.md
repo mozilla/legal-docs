@@ -12,7 +12,7 @@ To learn more about how we receive and handle information, read the [Mozilla Pri
 Focus, by default, sends data to Mozilla to help us improve our product.
 {: #defaultinfo }
 
-* __Technical Data__: We receive basic information about your device and Focus, such as what version of Focus you have installed, your operating system, and your system timezone and locale.
+* __Technical Data__: We receive basic information about your device and Focus, such as what version of Focus you have installed, your operating system, basic information about crashes and errors, and your system timezone and locale.
 
 
 * __Interaction Data__: We receive information about how often you use Focus and interact with certain features or prompts. This includes information such as when you start a new browsing session, how often you use search within Focus or launch an external browser from Focus, and which features in the Settings screen are enabled.
