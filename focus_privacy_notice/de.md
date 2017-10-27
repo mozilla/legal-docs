@@ -13,7 +13,7 @@ Klar sendet standardmäßig keine Informationen an Mozilla.
 
 * **Technische Daten**
 
-	Wir erhalten grundlegende Informationen über Ihr Gerät und Klar, wie z.&thinsp;B. die Version von Klar, die Sie installiert haben, Ihr Betriebssystem, die Zeitzone und das Gebietsschema Ihres Systems.
+	Wir erhalten grundlegende Informationen über Ihr Gerät und Klar, wie z.&thinsp;B. die Version von Klar, die Sie installiert haben, Ihr Betriebssystem, grundlegende Informationen über Systemabstürze und Fehler, die Zeitzone und das Gebietsschema Ihres Systems.
 
 * **Interaktionsdaten**
 
