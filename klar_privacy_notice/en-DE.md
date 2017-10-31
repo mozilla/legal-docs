@@ -15,7 +15,7 @@ Klar, by default, does NOT send any information to Mozilla.
 * **Technical Data**
 {: #events .inproduct-link }
 
-	We receive basic information about your device and Klar, such as what version of Klar you have installed, your operating system, and your system timezone and locale.
+	We receive basic information about your device and Klar, such as what version of Klar you have installed, your operating system, basic information about crashes and errors, and your system timezone and locale.
 
 * **Interaction Data**
 
