@@ -48,7 +48,7 @@ Anda bisa melakukan pencarian langsung dari bilah pencarian di Rocket.  _Mozilla
 
 * __Data lokasi ke layanan geolokasi Google__: Rocket akan selalu bertanya sebelum menentukan dan membagikan lokasi Anda kepada situs web yang memintanya (misalnya, jika situs web peta memerlukan lokasi Anda untuk memberikan petunjuk arah).  Untuk menentukan lokasi, Rocket bisa menggunakan fitur geolokasi sistem operasi Anda, jaringan Wi-fi, tower ponsel, atau alamat IP, dan mungkin mengirimkan data ini ke layanan geolokasi Google, yang memiliki [kebijakan privasi](https://www.google.com/privacy/lsf.html).
 
-[Pelajari selengkapnya.](https://www.mozilla.org/firefox/geolocation/).
+[Pelajari selengkapnya.](https://www.mozilla.org/firefox/geolocation/)
 
 ---
 
