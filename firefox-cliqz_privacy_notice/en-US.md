@@ -5,7 +5,7 @@
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
-That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve Firefox for everyone. If you are using a version of Firefox with Cliqz search recommendations, your browsing data will be sent to Cliqz Gmbh, a German company. You can read more about this data [below](#cliqz-features), including how to disable data sharing and search recommendations.
+That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve our products for everyone and work with partners who share a commitment to protecting our users. One of our technology partners is Cliqz GmbH, a German company owned by Hubert Burda Media and Mozilla, the maker of Firefox. Cliqz shows results and websites recommendations directly in the Firefox URL bar. If you are using a version of Firefox with Cliqz search recommendations, Cliqz will receive data in order to carry out your requests, as well as anonymized browsing data used to create the search engine index. Cliqz does not build browsing profiles for identifiable individual users with this data and, like Firefox, Cliqz is [open source](https://github.com/cliqz-oss). This means that the software can be viewed and examined by the public. You can read more about this data [below](#cliqz-features), including how to disable data sharing and search recommendations.
 
 In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Firefox.
 
@@ -39,13 +39,13 @@ Firefox displays content, such as "Snippets" (messages from Mozilla) and Top Sit
 
 Firefox with Cliqz by default connects to Cliqz to display search results in the URL bar. Cliqz GmbH is a German company offering a privacy oriented search experience.  Learn more at their [privacy policy](https://cliqz.com/en/privacy-browser).  When the Cliqz feature is enabled:
 
-* __Search Queries and Webpage Data to Cliqz__: This includes text as you type in the URL bar, queries you send to certain search engines, and data about the webpages you visit and interactions with those pages, such as mouse movements, scrolls, and time spent.
+* __Search Queries and Webpage Data to Cliqz__: The users of Firefox with Cliqz contribute anonymized data that Cliqz uses to improve the recommendation rankings via Cliqz’s Human Web technology. This data includes text typed in the URL bar, queries sent to certain search engines, and data about the visited webpages and interactions with those pages, such as mouse movements, scrolls, and time spent. To protect your privacy, Cliqz removes sensitive information including any kind of user identifiers or potential user identifers (UIDs) from this browsing data before it is ever sent from Firefox.
 
-* __Interaction Data to Cliqz__: This includes your interactions with specific fields and buttons in the Cliqz feature. This data is tied to a unique identifier allowing Cliqz to understand performance over time.
+* __Interaction Data to Cliqz__: This includes your interactions with specific fields and buttons in the Cliqz feature. This data is tied to a unique identifier allowing Cliqz to understand performance over time. The data is not associated with your search queries or webpage data.
 
 * __Interaction Data to Mozilla__: This includes counts of visits to search engine pages, which search engines you use, and your Cliqz identifier.
 
-* __Location Data to Cliqz__: This includes your location whenever you open a new window or type in the URL bar. You may opt-out of location sharing in the Cliqz Settings menu in the URL bar. 
+* __Location Data to Cliqz__: This includes your location whenever you open a new window or type in the URL bar. Cliqz uses this data to provide context for search recommendations (e.g. searches for nearby stores), but does not retain a copy of this location. You may opt-out of location sharing in the Cliqz Settings menu in the URL bar, but this may decrease the quality of your search recommendations. 
 
 [Learn more](https://cliqz.com/en/whycliqz/transparency) about Cliqz data collection. To check if the Cliqz feature is enabled or to disable data collection:
 
@@ -110,7 +110,7 @@ You can perform searches directly from several places in Firefox, including the 
 
     [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
 
-* __Search Queries and Webpage Data to Cliqz__: Firefox with Cliqz by default connects to Cliqz to display search results in the URL bar. [Learn more](#cliqz-features)
+* __Search Queries and Webpage Data to Cliqz__: Firefox with Cliqz connects to Cliqz to display search recommendations in the URL bar. Your IP address is used by Cliqz only in order to send the answer to your request to the appropriate computer. The IP address will be deleted immediately afterward. [Learn more](#cliqz-features)
 
 ### Firefox Accounts
 
