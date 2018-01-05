@@ -5,7 +5,7 @@
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
-Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontrolle über die Informationen haben, die Sie online teilen, sowie die Informationen, die Sie mit uns teilen. Wir haben das Ziel, nur das zu erfassen, was nötig ist, um Firefox für alle zu verbessern. Falls Sie eine Version von Firefox mit Cliqz-Suchempfehlungen verwenden, werden Ihre Browser-Daten an die Cliqz GmbH geschickt, ein deutsches Unternehmen. Mehr über diese Daten, u. a. Angaben zum Deaktivieren der Datenfreigabe und Suchempfehlungen, finden Sie weiter [unten](#cliqz-features).
+Aus diesem Grund entwickeln wir Firefox und alle unsere Produkte so, dass Sie mehr Kontrolle über die Informationen haben, die Sie online und mit uns teilen. Unser Bestreben ist es, nur das zu erfassen, was wir benötigen, um unsere Produkte für alle zu verbessern. Wir arbeiten mit Partnern zusammen, die sich gemeinsam mit uns für den Schutz unserer Nutzer einsetzen. Einer unserer Technologiepartner ist die Cliqz GmbH, ein deutsches Unternehmen im Besitz von Hubert Burda Media und Mozilla, dem Entwickler von Firefox. Cliqz zeigt Ergebnisse und Website-Empfehlungen direkt in der Firefox-URL-Leiste an. Wenn Sie eine Version von Firefox mit Cliqz-Suchempfehlungen verwenden, empfängt Cliqz Daten, die es zum Ausführen Ihrer Suchanfrage benötigt, sowie anonymisierte Surfdaten zum Erstellen des Suchmaschinenindex. Cliqz legt mit diesen Daten keinerlei Profile für identifizierbare Einzelnutzer an. Wie Firefox ist auch Cliqz [Open Source](https://github.com/cliqz-oss). Das bedeutet, dass die Software von jedermann öffentlich eingesehen und überprüft werden kann. Mehr über diese Daten, u. a. Angaben zum Deaktivieren der Datenfreigabe und Suchempfehlungen, finden Sie weiter [unten](#cliqz-features).
 
 In diesem Datenschutzhinweis erklären wir, welche Daten Firefox teilt und verweisen Sie auf Einstellungen, mit denen Sie noch weniger teilen. Wir halten uns auch an die in der Mozilla-[Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen, die wir in Firefox erfassen.
 
@@ -39,13 +39,13 @@ Firefox zeigt Inhalte wie beispielsweise „Snippets“ (Nachrichten von Mozilla
 
 Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. Die Cliqz GmbH ist ein deutsches Unternehmen, das eine Sucherfahrung bietet, bei der der Datenschutz im Vordergrund steht.  Weitere Informationen finden Sie in der [Datenschutzerklärung](https://cliqz.com/privacy-browser) von Cliqz.  Wenn das Cliqz-Feature aktiviert ist, gilt Folgendes:
 
-* __Suchanfragen und Webseitendaten an Cliqz__: Dies umfasst Text, den Sie in die URL-Leiste eingeben, Anfragen, die Sie an bestimmte Suchmaschinen senden und Daten zu den von Ihnen besuchten Webseiten und den Interaktionen mit diesen Seiten (wie z. B. Mausbewegungen, Bildlaufvorgänge und die auf der Webseite verbrachte Zeit).
+* __Suchanfragen und Webseitendaten an Cliqz__: Die Gesamtheit der Nutzer von Firefox mit Cliqz steuert über die Human-Web-Technologie von Cliqz anonymisierte Daten bei, die Cliqz dazu verwendet, das Ranking der Empfehlungen zu verbessern. Diese Daten umfassen in die URL-Leiste eingegebenen Text, Anfragen an bestimmte Suchmaschinen und Daten über besuchte Webseiten sowie Interaktionen mit diesen Seiten, wie Mausbewegungen, Scrollvorgänge und Besuchsdauer. Zum Schutz Ihrer Privatsphäre entfernt Cliqz alle vertraulichen Informationen aus den Surfdaten, einschließlich aller Arten von Benutzerkennungen (User Identifiers, UIDs) oder potenziellen UIDs, noch bevor sie von Firefox gesendet wurden.
 
 * __Interaktionsdaten an Cliqz__: Dies umfasst Ihre Interaktionen mit bestimmten Feldern und Schaltflächen im Cliqz-Feature. Diese Daten sind mit einer eindeutigen Kennung (sog. Unique Identifier) verknüpft, die es Cliqz ermöglicht, die Nutzung im Laufe der Zeit zu verstehen.
 
 * __Interaktionsdaten an Mozilla__: Dies umfasst die Anzahl der Besuche auf Suchmaschinenseiten, welche Suchmaschinen Sie verwenden und Ihre Cliqz-Kennung.
 
-* __Standortdaten an Cliqz__: Dies umfasst deinen Standort, immer wenn du ein neues Fenster öffnest oder etwas in die Adressleiste eingibst. Das Teilen deines Standorts kannst du mittels der Einstellungen im Cliqz-Menü in der Adressleiste deaktivieren. 
+* __Standortdaten an Cliqz__: Dies umfasst Ihren Standort, wenn Sie ein neues Fenster öffnen oder etwas in die URL-Leiste eingeben. Cliqz verwendet diese Daten, um kontextabhängige Suchempfehlungen zu liefern (z.B. Suche nach Geschäften in der Nähe), speichert den Standort aber nicht. Sie können die Standortfreigabe über das Cliqz-Einstellungsmenü in der URL-Leiste deaktivieren, was jedoch die Qualität Ihrer Suchempfehlungen beeinträchtigen kann. 
 
 [Weitere Informationen](https://cliqz.com/whycliqz/transparency) über die Datenerfassung durch Cliqz. So prüfen Sie, ob das Cliqz-Feature aktiviert ist und können die Datenerfassung stoppen:
 
@@ -110,7 +110,7 @@ Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunt
 
     [Weitere Informationen](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), darunter Angaben dazu, wie Sie diese Funktion deaktivieren können.
 
-* __Suchanfragen und Webseitendaten an Cliqz__: Firefox mit Cliqz stellt automatisch eine Verbindung mit Cliqz her, um Suchergebnisse in der URL-Leiste anzuzeigen. [Weitere Informationen](#cliqz-features)
+* __Suchanfragen und Webseitendaten an Cliqz__: Firefox mit Cliqz stellt eine Verbindung mit Cliqz her, um Empfehlungen in der URL-Leiste anzuzeigen. Ihre IP-Adresse wird von Cliqz nur verwendet, um die Antwort auf Ihre Anfrage an den richtigen Computer zurückzusenden. Danach wird die IP-Adresse umgehend gelöscht. [Weitere Informationen](#cliqz-features)
 
 ### Firefox-Konten
 
