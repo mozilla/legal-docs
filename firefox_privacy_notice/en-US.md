@@ -26,7 +26,7 @@ Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozil
 
 ### Suggest relevant content 
 
-Firefox displays content, such as “Snippets” (messages from Mozilla) and Top Sites (websites suggested by Mozilla for first-time Firefox users).
+Firefox displays content, such as “Snippets” (messages from Mozilla), Top Sites (websites suggested by Mozilla for first-time Firefox users) and and Pocket Recommendations.
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country.
 
@@ -34,6 +34,8 @@ Firefox displays content, such as “Snippets” (messages from Mozilla) and Top
 
 * __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Webpage data for Pocket Recommendations__: We recommend content to you based on your browsing history. The process of deciding which stories you should see happens locally in your copy of Firefox and neither Mozilla nor Pocket receives a copy of your browsing history. We do receive data about the recommendations you see and click. [Learn more](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Improve security for users everywhere {: #security }
 
