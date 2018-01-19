@@ -26,7 +26,7 @@ Lee la documentación de telemetría para dispositivos de [Escritorio](https://f
 
 ### Sugerencia de contenido relevante 
 
-Firefox muestra contenido, como por ejemplo “Snippets” (mensajes de Mozilla) y Sitios populares (sitios web sugeridos por Mozilla para los que usan Firefox por primera vez).
+Firefox muestra contenido, como “snippets” (mensajes de Mozilla), sitios preferidos (sitios web que Mozilla sugiere a los nuevos usuarios de Firefox) y recomendaciones de Pocket.
 
 * __Datos de ubicación__: Firefox utiliza tu dirección IP para sugerir contenido relevante basándose en tu país.
 
@@ -34,6 +34,8 @@ Firefox muestra contenido, como por ejemplo “Snippets” (mensajes de Mozilla)
 
 * __Datos de páginas web para Snippets__: Cuando elijes hacer clic en un enlace Snippet, nosotros podríamos recibir datos sobre el enlace que seguiste. Esta información no se asocia con ninguna otra información sobre ti. [Obtén más información](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Datos del sitio web para recomendaciones de Pocket__: le recomendamos contenido basándonos en su historial de búsqueda. El proceso de decidir qué historias debería ver ocurre localmente en su copia de Firefox y ni Mozilla ni Pocket reciben una copia de su historial de búsqueda. Sí recibimos datos respecto a las recomendaciones que ve y en las que hace clic. [Obtenga más información](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Mejor seguridad para los usuarios en todo el mundo {: #security }
 
