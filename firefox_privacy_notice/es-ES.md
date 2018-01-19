@@ -35,7 +35,7 @@ Firefox muestra contenido, como “Snippets” (mensajes de Mozilla), Sitios pre
 * __Datos de páginas web para Snippets__: Cuando decide pulsar sobre el enlace de un Snippet, recibimos datos sobre dicho enlace. Esta información no está asociada a ninguna otra información sobre usted. [Visite esta página](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html) para obtener más información.
 {: #snippets }
 
-* __Datos de páginas web para Recomendaciones de Pocket__: Proporcionamos recomendaciones de contenido en base a su historial de navegación. El proceso de elección del contenido que debe ver se realiza localmente en base a su historial de navegación de Firefox y ni Mozilla ni Pocket recibe una copia de este historial. Lo que sí recibimos son datos sobre las recomendaciones que visualiza y con las que interactúa. [Más información](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Datos de páginas web para Recomendaciones de Pocket__: Proporcionamos recomendaciones de contenido en base a su historial de navegación. El proceso de elección del contenido que debe ver se realiza localmente en base a su historial de navegación de Firefox y ni Mozilla ni Pocket recibe una copia de este historial. Lo que sí recibimos son datos sobre las recomendaciones que visualiza y con las que interactúa. [Visite esta página](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Mejorar la seguridad de todos los usuarios {: #security }
 
