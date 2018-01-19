@@ -26,7 +26,7 @@ Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozil
 
 ### Suggest relevant content 
 
-Firefox displays content, such as “Snippets” (messages from Mozilla), Top Sites (websites suggested by Mozilla for first-time Firefox users) and and Pocket Recommendations.
+Firefox displays content, such as “Snippets” (messages from Mozilla), Top Sites (websites suggested by Mozilla for first-time Firefox users) and Pocket Recommendations.
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country.
 
