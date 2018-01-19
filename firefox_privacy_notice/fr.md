@@ -26,7 +26,7 @@ Lisez la documentation de télémétrie pour [ordinateur](https://firefox-source
 
 ### Suggérer du contenu pertinent
 
-Firefox affiche du contenu, tels les « snippets » (messages de Mozilla) et les Sites les plus visités (sites suggérés par Mozilla pour les nouveaux utilisateurs de Firefox).
+Firefox affiche du contenu, tels les « snippets » (messages de Mozilla), les sites les plus visités (sites suggérés par Mozilla pour les nouveaux utilisateurs de Firefox) et les recommandations de Pocket.
 
 * __Données de géolocalisation__ : Firefox se sert de votre adresse IP pour vous suggérer du contenu pertinent en fonction de votre pays.
 
@@ -34,6 +34,8 @@ Firefox affiche du contenu, tels les « snippets » (messages de Mozilla) et l
 
 * __Données de pages web pour les snippets__ : lorsque vous décidez de cliquer sur un lien de snippet, nous pouvons recevoir des données sur le lien que vous avez suivi. Ces données ne sont aucunement associées à des informations vous concernant personnellement. [En savoir plus](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Données de pages web pour les recommandations de Pocket__: nous recommandons du contenu en fonction de votre historique de navigation. Le processus du choix des articles s’effectue localement dans votre copie de Firefox et ni Mozilla, ni Pocket ne reçoit de copie de votre historique de navigation. Nous recevons cependant les données relatives aux recommandations que vous voyez et sur lesquelles vous cliquez. [En savoir plus](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Améliorer la sécurité des utilisateurs où qu’ils se trouvent {: #security }
 
