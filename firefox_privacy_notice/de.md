@@ -35,7 +35,7 @@ Firefox zeigt Inhalte wie „Snippets“ (Nachrichten von Mozilla), Top Sites (v
 * __Webseitendaten für Snippets__: Wenn Sie sich entscheiden, auf einen Snippet-Link zu klicken, erhalten wir evtl. Daten über den Link, dem Sie gefolgt sind. Diese Informationen werden keinen anderen Informationen zugeordnet, die wir über Sie haben könnten. [Weitere Informationen](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Webseitendaten für Pocket-Empfehlungen__: Wir empfehlen Ihnen Inhalte auf Grundlage Ihres Browserverlaufs. Die Stories, die Ihnen präsentiert werden, werden durch einen lokal in Ihrer Ausführung von Firefox stattfindenden Prozess ausgewählt. Dabei erhält weder Mozilla noch Pocket eine Kopie Ihres Browserverlaufs. Wir erhalten jedoch Daten über die Empfehlungen, die Sie sehen und auf die Sie klicken. [Mehr erfahren](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Webseitendaten für Pocket-Empfehlungen__: Wir empfehlen Ihnen Inhalte auf Grundlage Ihres Browserverlaufs. Die Stories, die Ihnen präsentiert werden, werden durch einen lokal in Ihrer Ausführung von Firefox stattfindenden Prozess ausgewählt. Dabei erhält weder Mozilla noch Pocket eine Kopie Ihres Browserverlaufs. Wir erhalten jedoch Daten über die Empfehlungen, die Sie sehen und auf die Sie klicken. [Weitere Informationen](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Verbesserte Sicherheit für Benutzer überall {: #security }
 
