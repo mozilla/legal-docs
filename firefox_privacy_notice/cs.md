@@ -26,7 +26,7 @@ Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefo
 
 ### Navrhování relevantního obsahu
 
-Firefox zobrazuje obsah, jako jsou například „snippety“ (zprávy od společnosti Mozilla) a Top stránky (webové stránky navržené společností Mozilla pří prvním použití Firefoxu).
+Firefox zobrazuje obsah, jako jsou například „Snippety“ (zprávy z Mozilly), Top stránky (webové stránky, které Mozilla doporučuje uživatelům, kteří používají Firefox poprvé) a Doporučení ze služby Pocket.
 
 * __Údaje o místě__: Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země.
 
@@ -34,6 +34,8 @@ Firefox zobrazuje obsah, jako jsou například „snippety“ (zprávy od spole�
 
 * __Údaje o webové stránce pro snippety__: Pokud se rozhodnete kliknout na odkaz snippetu, můžeme získat údaje o odkazu, který jste použili. Tyto informace nejsou spojovány s žádnými jinými informacemi o vás. [Podrobnější informace](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Data webové stránky pro Doporučení ze služby Pocket__: Doporučujeme vám obsah na základě vaší historie prohlížení. K procesu rozhodování o tom, které příběhy se vám zobrazí, dochází místně ve vaší kopii Firefoxu a Mozilla ani služba Pocket neobdrží kopii vaší historie prohlížení. Obdržíme data o doporučeních, která se vám zobrazí a na která kliknete. [Podrobnější informace](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Zlepšení bezpečnosti pro všechny uživatele na celém světě {: #security }
 
