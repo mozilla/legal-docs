@@ -35,7 +35,7 @@ Firefox zobrazuje obsah, jako jsou například „Snippety“ (zprávy z Mozilly
 * __Údaje o webové stránce pro snippety__: Pokud se rozhodnete kliknout na odkaz snippetu, můžeme získat údaje o odkazu, který jste použili. Tyto informace nejsou spojovány s žádnými jinými informacemi o vás. [Podrobnější informace](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Data webové stránky pro Doporučení ze služby Pocket__: Doporučujeme vám obsah na základě vaší historie prohlížení. K procesu rozhodování o tom, které příběhy se vám zobrazí, dochází místně ve vaší kopii Firefoxu a Mozilla ani služba Pocket neobdrží kopii vaší historie prohlížení. Obdržíme data o doporučeních, která se vám zobrazí a na která kliknete. [Zjistit více](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Data webové stránky pro Doporučení ze služby Pocket__: Doporučujeme vám obsah na základě vaší historie prohlížení. K procesu rozhodování o tom, které příběhy se vám zobrazí, dochází místně ve vaší kopii Firefoxu a Mozilla ani služba Pocket neobdrží kopii vaší historie prohlížení. Obdržíme data o doporučeních, která se vám zobrazí a na která kliknete. [Podrobnější informace](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Zlepšení bezpečnosti pro všechny uživatele na celém světě {: #security }
 
