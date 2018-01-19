@@ -26,7 +26,7 @@ In questo Avviso sulla privacy illustreremo quali sono i dati che Firefox condiv
 
 ### Suggerire contenuti rilevanti
 
-Firefox visualizza contenuti come gli “Snippets” (messaggi da parte di Mozilla) e Siti principali (siti web suggeriti da Mozilla per nuovi utenti Firefox).
+Firefox visualizza contenuti come “Snippets” (messaggi da parte di Mozilla), Siti principali (siti web suggeriti da Mozilla per nuovi utenti Firefox) e contenuti consigliati da Pocket.
 
 * __Dati sulla posizione__: Firefox usa il vostro indirizzo IP per suggerire contenuti rilevanti in base al vostro Paese.
 
@@ -34,6 +34,8 @@ Firefox visualizza contenuti come gli “Snippets” (messaggi da parte di Mozil
 
 * __Dati delle pagine web per Snippets__: quando si sceglie di fare clic su un link Snippet, si possono ricevere dati sul link seguito. Queste informazioni non sono associate ad altre informazioni personali. [Ulteriori informazioni](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Dati delle pagine web per i contenuti consigliati da Pocket__: i contenuti che vi vengono consigliati si basano sulla vostra cronologia di navigazione. La scelta dei contenuti da visualizzare avviene a livello locale nella vostra copia di Firefox e né Mozilla, né Pocket ricevono una copia della vostra cronologia di navigazione. Noi riceviamo unicamente informazioni sui contenuti consigliati che visualizzate e su cui fate clic. [Ulteriori informazioni](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Migliorare la sicurezza per gli utenti, ovunque si trovino {: #security }
 
