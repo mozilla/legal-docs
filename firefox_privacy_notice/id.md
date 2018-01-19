@@ -26,7 +26,7 @@ Baca dokumen telemetri untuk [Desktop](https://firefox-source-docs.mozilla.org/t
 
 ### Menyarankan konten yang relevan 
 
-Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla) dan Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox).
+Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla), Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox) dan Rekomendasi Pocket.
 
 * __Data lokasi__: Firefox menggunakan alamat IP Anda untuk menyarankan konten yang relevan berdasarkan negara Anda.
 
@@ -34,6 +34,8 @@ Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla) dan Situs
 
 * __Data laman web untuk Snippet__: Saat Anda memilih untuk mengeklik tautan Snippet, kami mungkin menerima data tentang tautan yang Anda ikuti. Informasi ini tidak terkait dengan informasi lain apa pun tentang Anda. [Pelajari selengkapnya](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
+
+* __Data laman web untuk Rekomendasi Pocket__: Kami merekomendasikan konten berdasarkan riwayat penjelajahan Anda. Proses pengambilan keputusan tentang berita apa yang sebaiknya Anda lihat berlangsung secara lokal dalam salinan Firefox Anda, sementara Mozilla dan Pocket tidak menerima salinan riwayat penjelajahan Anda. Kamilah yang menerima data tentang rekomendasi yang Anda lihat dan klik. [Pelajari selengkapnya](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### Meningkatkan keamanan bagi pengguna di mana pun berada {: #security }
 
