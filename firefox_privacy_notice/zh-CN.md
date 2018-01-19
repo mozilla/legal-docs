@@ -26,7 +26,7 @@
 
 ### 推荐相关内容
 
-Firefox 会显示诸如“Snippet”(来自 Mozilla 的消息）和常用网站（由 Mozilla 推荐给 Firefox 首次用户的网站）的内容。
+Firefox 会显示诸如“Snippets”（来自 Mozilla 的消息）、首要网站（Mozilla 为 Firefox 新用户推荐的网站）和 Pocket 推荐等内容。
 
 * __位置数据__：Firefox 会使用您的 IP 地址，根据您所在的国家来推荐相关内容。
 
@@ -34,6 +34,8 @@ Firefox 会显示诸如“Snippet”(来自 Mozilla 的消息）和常用网站�
 
 * __Snippet 的网页数据__：当您选择点击 Snippet 链接时，我们可能会收到有关您所进入链接的数据。该信息与您的任何其他相关信息都无关。[了解更多信息](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
+
+* __Pocket 推荐的网页数据__：我们会根据您的浏览历史记录向您推荐内容。确定您可能阅览哪些新闻报道的流程在您本地的Firefox 中执行，Mozilla 和 Pocket 均不会获得您的浏览历史记录。但是，我们确实会接收有关您所阅览和点击的推荐的数据。[了解更多信息](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
 ### 为各地用户提高安全性 {: #security }
 
