@@ -69,3 +69,7 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 {: #donations }
 
 * **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
+
+* **Fraud Prevention**:   Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
+
+
