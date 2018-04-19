@@ -5,13 +5,13 @@ Effective June 19, 2017
 
 ## Eligibility
 
-In order to participate in our crowd-sourcing project, you must be over the age of 19 or have your parent or guardian consent to and supervise your participation in our crowd-sourcing project. By participating, you also agree to abide by the Mozilla Community Participation Guidelines. 
+In order to participate in our crowd-sourcing project, you must be over the age of 19 or have your parent or guardian consent to and supervise your participation in our crowd-sourcing project. By participating, you also agree to abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## Your Contributions and Release of Rights
 
-If you submit written text or recordings, you assure Mozilla that you have written any text content yourself and that any recordings are of your own voice. You also assure Mozilla that you have the right to submit the text or recording for use in a public project under the CC-0 license and that the text or recording does not infringe on any third parties’ rights. 
+If you submit written text or recordings, you assure Mozilla that you have written any text content yourself and that any recordings are of your own voice. You also assure Mozilla that you have the right to submit the text or recording for use in a public project under the [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license and that the text or recording does not infringe on any third parties’ rights. 
 
-By submitting your written text or audio recordings, you also waive all copyrights and related rights that you may have in them, and you agree to release the written text or audio recordings to the public under a CC-0 license. This means that you agree to waive all rights to the text and recordings worldwide under copyright and database law, including moral and publicity rights and all related and neighboring rights.
+By submitting your written text or audio recordings, you also waive all copyrights and related rights that you may have in them, and you agree to release the written text or audio recordings to the public under a [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license. This means that you agree to waive all rights to the text and recordings worldwide under copyright and database law, including moral and publicity rights and all related and neighboring rights.
 
 ## Communications
 
