@@ -1,24 +1,24 @@
-# Terma Ligjore mbi Common Voice
+# Právne podmienky projektu Common Voice
 
-Effective ⁨June 19, 2017⁩ {: datetime="2017-06-19" }
+Platné od ⁨19. júna 2017⁩ {: datetime="2017-06-19" }
 
-## Eligibility
+## Oprávnenosť
 
-Duhet të jeni mbi 13 vjeç ose të keni miratimin dhe mbikëqyrjen e një prindi ose kujdestari të pjesëmarrjes tuaj në projektin tonë.
+Aby ste sa mohli zapojiť do nášho projektu, musíte byť starší ako 13 rokov alebo mať povolenie rodiča alebo opatrovníka, ktorý na vás musia počas participácie dozerať.
 
-## Privatësi
+## Súkromie
 
-Shënimi ynë mbi Privatësinë shpjegon se si i grumbullojmë dhe trajtojmë të dhënat tuaja.
+Naše [zásady ochrany súkromia](https://voice.allizom.org/privacy) popisujú, ako vaše údaje prijímame a ako s nimi narábame.
 
-## Kontributet Tuaja dhe Heqja Dorë Nga të Drejtat
+## Vaše príspevky a vzdanie sa práv
 
-Duke parashtruar incizimet tuaj, hiqni dorë nga krejt të drejtat e kopjimit dhe të drejta të tjera që mund të keni mbi to, dhe pajtoheni me hedhjen në qarkullim publik të tyre sipas kushteve të licencës CC-0. Kjo do të thotë se jeni dakord të hiqni dorë nga krejt të drejtat mbi incizimet kudo në botë sipas ligjesh të drejtash kopjimi dhe bazash të dhënash, përfshi të drejta morale dhe publiciteti dhe nga krejt të dhënat e afërta dhe fqinje me to.
+Odoslaním vašich nahrávok sa vzdávate všetkých autorských práv a súvisiacich práv, ktoré môžete mať, a súhlasíte so zverejnením nahrávok v rámci licencie [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že súhlasíte so vzdaním sa všetkých práv ku nahrávkam a to celosvetovo, podľa autorského zákona a zákona o databázach, vrátane morálnych práv a práv na uvedenie zdroja a všetkých pridružených a súvisiacich práv.
 
-## Komunikime
+## Komunikácia
 
-Nëse pajtoheni te buletinet tanë ose regjistroni një llogari për te Common Voice, mund të merrni prej nesh email-e lidhur me llogarinë tuaj (për shembull, njoftime lidhur me privatësinë, anë ligjore dhe sigurinë).
-## 
-Të përgjithshme
+Ak sa prihlásite na odber našich noviniek alebo si v súvislosti s projektom Common Voice vytvoríte účet, môžete od nás dostávať e-maily súvisiace s vaším účtom (napríklad aktualizáciu podmienok, zásad ochrany súkromia či bezpečnostné informácie).
+
+## Všeobecné
 
 Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
 
@@ -28,14 +28,14 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLES
 
 EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
-## Përditësime
+## Updates 
 
-Mozilla mund t’i përditësojë herë pas here këto Kushte, për trajtimin e një veçorie të re të Shërbimit ose për të qartësuar ndonjë hollësi. Kushtet e përditësuara do të botohen në internet. Nëse ndryshimet janë thelbësore, përditësimin do ta bëjmë të ditur përmes kanaleve të zakonshëm të Mozilla-s -për njoftime të tilla, si postime blogjesh dhe forumesh. Vazhdimi i përdorimit të Shërbimeve pas hyrjes në fuqi të ndryshimeve përbën pranimin tuaj të ndryshimeve të tilla. Për ta bërë më të volitshëm shqyrtimin tuaj të tyre, do të postojmë një datë hyrjeje në fuqi në krye të kësaj faqeje.
+Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla’s usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
 
-## Përfundim
+## Termination
 
-Mund ta pezullojmë ose përfundojmë hyrjen tuaj në Shërbimet në çfarëdo kohe, për çfarëdo arsyeje, do të bëjmë përpjekje të arsyeshme t’ju njoftojmë përmes adresës email përshoqëruar llogarisë tuaj ose herës tjetër që provoni të hyni te Shërbimet. Pavarësisht nga çfarëdo përfundimi, krejt incizimet që parashtroni te Mozilla do të vazhdojnë të jenë të përdorshme publikisht.
+We may suspend or terminate your access to the Services at any time for any reason, we will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access the Services. Regardless of any termination, all recordings that you submit to Mozilla will continue to be publicly available.
 
-## Kuadër Ligjor i Zbatueshëm
+## Governing Law
 
-Këto Kushte Ligjore përbëjnë marrëveshjen e plotë mes jush dhe Mozilla-s lidhur me Common Voice dhe u nënshtrohen ligjeve të shtetit të Kalifornisë, ShBA.
+These Legal Terms constitute the entire agreement between you and Mozilla concerning Common Voice and are governed by the laws of the state of California, U.S.A.
