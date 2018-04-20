@@ -8,11 +8,11 @@ Sie müssen älter als 13 Jahre sein oder die Zustimmung Ihrer Eltern bzw. eines
 
 ## Datenschutz
 
-In unserer Datenschutzerklärung wird erläutert, wie wir Ihre Daten erhalten und mit diesen umgehen.
+In unserer [Datenschutzerklärung](https://voice.allizom.org/privacy) wird erläutert, wie wir Ihre Daten erhalten und mit diesen umgehen.
 
 ## Ihre Beiträge und Abgabe von Rechten
 
-Durch das Absenden Ihrer Tonaufnahmen verzichten Sie auf alle Urheber- sowie verwandten Rechte, die Sie möglicherweise an diesen besitzen, und erklären sich dazu bereit, diese unter der CC0-Lizenz der Öffentlichkeit zugänglich zu machen. Dies bedeutet, dass Sie zustimmen, bezüglich der Tonaufnahmen weltweit auf alle Urheber- und Datenbankrechte, einschließlich der Urheberpersönlichkeits- und Veröffentlichungsrechte sowie aller verwandten Rechte, zu verzichten.
+Durch das Absenden Ihrer Tonaufnahmen verzichten Sie auf alle Urheber- sowie verwandten Rechte, die Sie möglicherweise an diesen besitzen, und erklären sich dazu bereit, diese unter der [CC0-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) der Öffentlichkeit zugänglich zu machen. Dies bedeutet, dass Sie zustimmen, bezüglich der Tonaufnahmen weltweit auf alle Urheber- und Datenbankrechte, einschließlich der Urheberpersönlichkeits- und Veröffentlichungsrechte sowie aller verwandten Rechte, zu verzichten.
 
 ## Benachrichtigungen
 
