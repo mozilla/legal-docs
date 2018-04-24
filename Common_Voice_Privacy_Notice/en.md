@@ -1,6 +1,6 @@
 # Common Voice Privacy Notice 
 
-Effective June 19, 2017 {: datetime="2017-06-19" }
+Effective May 1, 2018 {: datetime="2018-05-01" }
 
 ## Privacy
 
