@@ -1,7 +1,6 @@
 # Common Voice Legal Terms 
 
-Effective June 19, 2017
-{: datetime="2017-06-19" }
+Effective May 01, 2018 {: datetime="2018-05-01" }
 
 ## Eligibility
 
