@@ -69,3 +69,5 @@ Beberapa situs web Mozilla memungkinkan Anda melakukan pembelian (seperti aplika
 {: #donations }
 
 * **Pemrosesan Pembayaran**: Mozilla tidak menerima informasi keuangan, yang dikirimkan dari Anda kepada vendor pihak ketiga untuk diproses. Nama pihak ketiga akan ditampilkan pada saat transaksi.
+
+* **Pencegahan Penipuan**:   Mozilla telah menerapkan teknologi pihak ketiga, Invisible reCAPTCHA milik Google, yang bekerja di latar belakang beberapa situs web kami untuk mengidentifikasi aktivitas penipuan. Penggunaan Invisible reCAPTCHA diatur oleh [Kebijakan Privasi](https://www.google.com/intl/en/policies/privacy/) dan [Ketentuan Penggunaan](https://www.google.com/intl/en/policies/terms/)  Google.
