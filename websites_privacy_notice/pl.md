@@ -69,3 +69,5 @@ Niektóre witryny firmy Mozilla umożliwiają zakupy (np. aplikacji lub urządze
 {: #donations }
 
 * **Przetwarzanie płatności**: Mozilla nie otrzymuje żadnych danych finansowych, które użytkownik przesyła do usługodawców zewnętrznych w celu przetwarzania. W trakcie transakcji będzie widoczna nazwa firmy zewnętrznej.
+
+* **Zapobieganie oszustwom**:   Mozilla wdrożyła technologię innej firmy, Google Invisible reCAPTCHA, która działa w tle niektórych naszych witryn, aby identyfikować oszukańczą działalność. Użycie technologii Invisible reCAPTCHA podlega [Polityce prywatności](https://www.google.com/intl/en/policies/privacy/) i [Warunkom korzystania z usług](https://www.google.com/intl/en/policies/terms/) Google.
