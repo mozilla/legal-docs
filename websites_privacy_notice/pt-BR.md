@@ -69,3 +69,5 @@ Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos
 {: #donations }
 
 * **Processamento de pagamentos**:   a Mozilla não recebe nenhuma informação financeira sua que é transferida às nossas empresas terceirizadas para processamento. O nome da empresa terceirizada será exibido no momento da transação.
+
+* **Prevenção de fraude**: a Mozilla implementou uma tecnologia de terceiro, o Invisible reCAPTCHA, do Google, que funciona no plano de fundo dos nossos sites identificando atividades fraudulentas. O uso do Invisible reCAPTCHA é regido pela [Política de Privacidade](https://www.google.com/intl/en/policies/privacy/) e pelos [Termos de Uso](https://www.google.com/intl/en/policies/terms/) do Goole.
