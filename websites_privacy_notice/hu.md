@@ -65,3 +65,5 @@ Némelyik Mozilla webhelyen vásárolhat (például alkalmazásokat vagy eszköz
 {: #donations }
 
 * **Fizetések feldolgozása**: A Mozilla nem jut olyan pénzügyi adat birtokába, amelyet Ön továbbít feldolgozásra a mi harmadik félként működő beszállítónknak. A tranzakció idején a rendszer megjeleníti a harmadik fél nevét.
+
+* **Csalás megakadályozása**: A Mozilla egy külső fél technológiáját a Google Invisible reCAPTCHA módszerét alkalmazza, amely néhány weboldalunk hátterében működik, hogy beazonosítsa a csalásjellegű tevékenységeket. Az Invisible reCAPTCHA használatát a Google [Adatvédelmi szabályzata](https://www.google.com/intl/en/policies/privacy/) és a [Használati feltételek](https://www.google.com/intl/en/policies/terms/) szabályozzák.
