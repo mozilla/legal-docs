@@ -59,7 +59,7 @@ Unaweza kudhibiti mapendeleo ya kidakuzi binafsi, kuashiria mapendeleo yako ya k
     * Google: Sanidi [Kijalizi cha Kivinjari cha Kuondoka kwenye Google Analytics-kwenye](https://tools.google.com/dlpage/gaoptout), itakayohifadhi ziara zako kutoajulikana na kupiga marufuku usambazaji wa data kwenye Utathmini wa Google. Baadhi ya kurasa za Mozilla.org hutumia GIF angavu ambazo huwasiliana na DoubleClick kuelewa ufanisi wa kampeni zetu za utangazaji; unaweza kudhibiti vivinjaru binafsi kutoka kwenye DoubleClick kwenye mipangilio ya Google ya vivinjari (utatakiwa kujisajili kwenye akaunti yako ya Google).
     *  Optimizely: [Kuchagua kujiondoa kwenye www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) au tembelea [Tovuti ya kujiondoa kwenye Optimizely](https://www.optimizely.com/opt_out) kwa maelezo zaidi.
     *  Yahoo: tembelea [Kiwezeshaji cha chaguzi za upendacho](https://aim.yahoo.com/aim/us/en/optout/) kujiondoa.
-    *  ShareProgress: Unaweza [kuwezesha chaguzi ya Usifuatilie kwenye kijalizi chako] (https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+    *  ShareProgress: Unaweza [kuwezesha chaguzi ya Usifuatilie kwenye kijalizi chako](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Mitandao ya Kijamii**: Kitufe cha kushiriki vy jamii kwenye tovuti za Mozilla vimebuniwa kutoshiriki data na mtoa huduma wa mitandao ya kijamii hadi ubofye kibainifu kwenye kitufe.
 
@@ -70,4 +70,4 @@ Baadhi ya tovuti za Mozilla zinakuruhusu kufanya ununuzi (kama vile programu na 
 
 * **Uchakataji wa Malipo**:   Mozilla haipokei maelezo yoyote ya kifedha, ambayo yamesambazwa kutoka kwako hadi wachuuzi wengine kwa uchakataji. Jina la mtu mwingine litaonyeshwa wakati wa mwamala.  Kwa maelezo zaidi kuhusu mazoezi ya data yako na wachuuzi wengine, tazama [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/).
 
-* **Udhibiti wa Utapeli** Mozilla imetekeleza utumiaji wa teknolojia ya watu wengine, Programu ya Google isiyoonekana ya reCAPTCHA, ambayo inafanya kazi nyuma ya baadhi ya tovuti zetu ili kutambua shughuli mbalimbali za kitapeli. Matumizi ya program isiyoonekana ya reCAPTCHA yanasimamiwa na Google [Sera za Faragha](https://www.google.com/intl/en/policies/privacy/) na [Vigezo vya utumiaji] (https://www.google.com/intl/en/policies/terms/).
+* **Udhibiti wa Utapeli** Mozilla imetekeleza utumiaji wa teknolojia ya watu wengine, Programu ya Google isiyoonekana ya reCAPTCHA, ambayo inafanya kazi nyuma ya baadhi ya tovuti zetu ili kutambua shughuli mbalimbali za kitapeli. Matumizi ya program isiyoonekana ya reCAPTCHA yanasimamiwa na Google [Sera za Faragha](https://www.google.com/intl/en/policies/privacy/) na [Vigezo vya utumiaji](https://www.google.com/intl/en/policies/terms/).
