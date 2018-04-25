@@ -71,3 +71,5 @@ Mozilla のウェブサイトには、（アプリやギア(gear)などの）購
 {: #donations }
 
 * **決済処理**：Mozilla は、皆様から第三者ベンダー (vendor) に送信される決済情報を受信しません。かかる第三者の名称は取引時に表示されます。
+
+* **詐欺防止**：Mozilla は、不正行為を識別するために、弊社ウェブサイトの一部のバックグラウンドで動作する、第三者テクノロジーである Google の Invisible reCAPTCHA を実装しています。Invisible reCAPTCHA の使用は Google [プライバシーポリシー](https://www.google.com/intl/en/policies/privacy/)および[利用規約](https://www.google.com/intl/en/policies/terms/)に従います。
