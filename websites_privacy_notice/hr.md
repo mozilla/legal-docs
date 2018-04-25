@@ -65,3 +65,5 @@ Možete upravljati pojedinačnim postavkama kolačića, pokazati drugima na vaš
 Neka Mozilla web-mjesta omogućuju vam kupovinu (poput aplikacija ili dodataka) ili donaciju. Ove transakcije obrađuje treća stana, ne Mozilla. {: #donations }
 
 * **Obrada plaćanja**:   Mozilla ne prima nikakve financijske informacije koje ste prenijeli našim dobavljačima treće strane radi obrade. Naziv treće strane prikazuje se prilikom transakcije.
+
+* **Sprječavanje krivotvorenja**: radi identifikacije nezakonitih radnji tvrtka Mozilla primijenila je tehnologiju treće strane, Googleov nevidljivi reCAPTCHA kod, koji je aktivan u pozadini nekih naših internetskih stranica. Uporabu ovog nevidljivog reCAPTCHA koda reguliraju Google [Pravila privatnosti](https://www.google.com/intl/en/policies/privacy/) i [Uvjeti uporabe](https://www.google.com/intl/en/policies/terms/).
