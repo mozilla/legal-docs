@@ -69,3 +69,5 @@ In manchen Mozilla-Websites können Sie etwas kaufen (Apps oder Ausrüstung) ode
 {: #donations }
 
 * **Zahlungsverarbeitung**:   Mozilla erhält keine Finanzdaten, die von Ihnen an unseren Drittanbieter zur Verarbeitung übertragen werden. Der Name des Dritten wird zum Zeitpunkt der Transaktion angezeigt.
+
+* **Betrugsprävention**:   Mozilla hat die Fremdtechnologie Invisible reCAPTCHA von Google implementiert, die im Hintergrund einiger unserer Websites läuft, um betrügerische Aktivitäten zu erkennen. Die Nutzung von Invisible reCAPTCHA unterliegt der [Datenschutzrichtlinie](https://www.google.com/intl/en/policies/privacy/) und den [Nutzungsbedingungen](https://www.google.com/intl/en/policies/terms/) von Google.
