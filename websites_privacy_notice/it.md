@@ -69,3 +69,5 @@ Alcuni siti web di Mozilla consentono di effettuare acquisti (tipo applicazioni 
 {: #donations }
 
 * **Elaborazione pagamenti** Mozilla non riceve alcuna informazione di natura finanziaria; questo tipo di informazioni viene trasmesso dall’utente a fornitori esterni per l’elaborazione. I nomi di questi fornitori saranno visualizzati al momento della transazione.
+
+* **Prevenzione delle frodi**: Mozilla ha implementato una tecnologia di terze parti, Invisible reCAPTCHA di Google, attiva in background su alcuni dei nostri siti web, per identificare attività di natura fraudolenta. L’uso di Invisible reCAPTCHA è regolato dall’[Informativa sulla privacy](https://www.google.com/intl/en/policies/privacy/) e dalle [Condizioni di utilizzo](https://www.google.com/intl/en/policies/terms/) di Google.
