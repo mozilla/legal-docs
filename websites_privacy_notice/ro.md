@@ -69,3 +69,5 @@ Unele site-uri web Mozilla vă permit să efectuați achiziții (precum aplicaț
 {: #donations }
 
 * **Procesarea plăților**:   Mozilla nu primește nicio informație de natură financiară care este transmisă de la dvs. furnizorilor noștri terți pentru procesare. Numele terțului va fi afișat la momentul tranzacției.
+
+* **Prevenirea fraudelor**:   Mozilla a implementat tehnologia unei terțe părți, Invisible reCAPTCHA de la Google, care operează pe fundalul unora dintre site-urile noastre web pentru a identifica activități fraudulente. Utilizarea Invisible reCAPTCHA se supune [Politicii de confidențialitate](https://www.google.com/intl/en/policies/privacy/) a Google și [Condițiilor de utilizare](https://www.google.com/intl/en/policies/terms/) aferente.
