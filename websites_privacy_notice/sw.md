@@ -1,7 +1,7 @@
 # Ilani ya Faragha ya Tovuti, Mawasiliano na Vidakuzi
 
-14 Machi, 2016
-{: datetime="2016-03-14" }
+September 6, 2017
+{: datetime="2017-09-06" }
 
 Tunajali kuhusu faragha yako. Wakati Mozilla (sisi) hukusanya maelezo kukuhusu, [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/) hueleza jinsi tunavyoshughulikia maelezo hayo.
 
