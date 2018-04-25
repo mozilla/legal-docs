@@ -65,3 +65,5 @@ Na nekim sajtovima Mozilla možete da izvršite kupovinu (npr. aplikacija ili op
 {: #donations }
 
 * **Obrada plaćanja**:   Mozilla ne dobija nikakve finansijske podatke koji se prenose od vas prema trećoj strani radi obrade. Ime treće strane se prikazuje u vreme transakcije.
+
+* **Sprečavanje prevara**:   Kompanija Mozilla je implementirala tehnologiju treće strane, Invisible reCAPTCHA kompanije Google, koja funkcioniše u pozadini nekih od naših veb sajtova kako bismo otkrili prevarne radnje. Korišćenje tehnologije Invisible reCAPTCHA podleže [Pravilima privatnosti](https://www.google.com/intl/en/policies/privacy/) i [Uslovima korišćenja](https://www.google.com/intl/en/policies/terms/) kompanije Google.
