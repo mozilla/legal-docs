@@ -65,3 +65,5 @@ Některé webové stránky Mozilly umožňují provádět nákupy (např. aplika
 {: #donations }
 
 * **Zpracovávání plateb**: Společnost Mozilla nezískává žádné bankovní informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům. Název třetí strany se zobrazí v okamžiku transakce.
+
+* **Prevence podvodů**:   Společnost Mozilla zavedla technologii třetí strany, Invisible reCAPTCHA společnosti Google, která pracuje na pozadí některých z našich webových stránek pro identifikaci podvodné činnosti. Na používání Invisible reCAPTCHA se vztahují [Zásady ochrany osobních údajů](https://www.google.com/intl/en/policies/privacy/) a [Podmínky používání](https://www.google.com/intl/en/policies/terms/) společnosti Google.
