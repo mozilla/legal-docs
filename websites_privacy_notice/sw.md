@@ -22,7 +22,7 @@ Tunaweza kupokea maelezo ya binafsi kutoka kwako kuzingatia mwingiliano wako na 
 
 * **Akaunti**: Baadhi ya tovuti kama vile Marketplace, AMO, MDN na Webmaker huhitaji ufungue akaunti ili kuwasilisha maudhui ya msanidi programu; kuwasilisha maoni ya mtumiaji; au kusakinisha aina fulani za programu.  Huenda Ukapokea barua pepe mara kwa mara kuhusu akaunti yako.
 
-* **Kampeni za Bidhaa na Sera**:  Baadhi ya kurasa wavuti zetu zinapangisha kampeni za bidhaa au sera. Kwa mfano, unaweza kuomba kiungo kwa barua pepe au SMS ili kusakinisha Firefox kwenye kifaa chako cha simu au ombi la wabunge kwenye masuala ya mtandao. Tunatumia watu wengine ili kudhibiti kampeni hizi na kushughulikia data yoyote ambayo unachagua kuwasilisha.  
+* **Kampeni za Bidhaa & Sera**: Baadhi ya kurasa wavuti zetu zinapangisha kampeni za bidhaa au sera. Kwa mfano, unaweza kuomba kiungo kwa barua pepe au SMS ili kusakinisha Firefox kwenye kifaa chako cha simu au kuomba kwa wabunge kwenye masuala ya matumizi ya mtandao. Tunatumia watu wengine ili kudhibiti kampeni hizi na kushughulikia data yoyote ambayo unachagua kuwasilisha. 
 {: #campaigns }
 
 ---------------------------------------
@@ -38,7 +38,10 @@ Tunatumia vidakuzi, GIF wazi, uchanganuzi wa wavuti nyingine, na anwani za IP kw
 * **Vipimo**: GIF angavu, vidakuzi na huduma kutoka kampuni nyingine hutusaidia kujumlisha jinsi watumiaji wanavyotumia bidhaa, huduma, mawasiliano, tovuti, kampeni za mtandaoni, vijisehemu vya maandishi, vifaa na mifumo mingine. Tunatumia:
     * Google Analytics, ambayo huweka vidakuzi kwenye kifaa, ili kupata vipimo kuhusu jinsi wateja wanavyotumia tovuti zetu.      Hali hii hutusaidia kuboresha maudhui ya tovuti.  
     * Optimizely and ShareProgress, ambazo huweka vidakuzi kwenye kifaa chako, ili kutusaidia kujaribu jinsi maudhui ya tovuti yanavyobadilika.  Hii hutusaidia kuwapa wateja wetu hali bora ya matumizi kwenye wavuti.
-    * Flashtalking, ambayo hutumia GIF angavu kwenye ukurasa wa Firefox wa kupakua.  Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
+    * DoubleClick and Flashtalking, kila moja hutumia GIF angavu kwenye ukurasa wa Firefox wa kupakua.  Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
+    * Yahoo Dot Pixel, ambayo inatumia JavaScript kwenye kurasa yetu ya kupakulia ya Firefox. Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
+    * Data za uunganishi za HTTP, ambayo inaweza kujumuishwa kwenye kisanidishaji cha Firefox, kuelewa chanzo cha tovuti au kampeni ya kutangaza iliyokuunganisha na kurasa yetu ya kupakulia. Taarifa hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo na kuuboresha.
+    * Vifaa vingine vya ukadiriaji kila baada ya vipindi tofauti, kulingana na majaribio yetu. Kwa mfano, tunaweza kufanya hivi kusaidia kutathmini kifaa kipya cha ukadiriaji, au kujaribu mkusanyiko wa awali wa ukadiriaji.
 
 ---------------------------------------
 
@@ -48,12 +51,15 @@ Unaweza kudhibiti mapendeleo ya kidakuzi binafsi, kuashiria mapendeleo yako ya k
 * **Historia ya Kidakuzi**: Unaweza kukubali au kukataa vidakuzi binafsi kwenye mapendeleo yako ya Firefox kwenye sehemu ya historia ya Zana/Chaguo/Faragha. Kumbuka kuwa vipengele fulani vya bidhaa na huduma zetu huenda visifanye kazi vizuri bila msaada wa vidakuzi.
 {: #cookies }
 
-* **Usifuatilie**: Mozilla haifuatilii watumiaji katika tovuti nyingine ili kutoa matangazo yanayolengwa.  Unawezakuwezesha Usifuatilie kwenye Firefox katika sehemu ya Zana/Chaguo/Faragha kwenye Ufuatiliaji. Hii hukuruhusu kuashiria mapendeleo kwenye tovuti nyingine kuhusu jinsi maelezo yako yanavyokusanywa na kutumiwa mtandaoni.
+* **Usifuatilie**: Mozilla haiwafuatilii watumiaji kwenye tovuti zingine kutoa matangazo yaliyolengwa. Ikiwa umepangilia wavuti yako kutuma ishara ya “Usifuatilie” unapotumia tovuti zetu, Mozilla haitatumia kifaa chochote kilichoainishwa kwenye sehemu ya [Metrics](#data-tools)
 
-* **Barua pepe**: Mawasiliano yetu ya kutangaza ni ya hiari kupokea na unaweza kujisanidua kutoka kwenye kijachini cha barua pepe au kwa kusasisha [mapendeleo yako ya barua pepe ya Mozilla](https://www.mozilla.org/newsletter/recovery/). Unaweza kulemaza utendaji wa GIF wazi kwa kutazama barua pepe kutoka kwetu kwenye umbizo la “matini tu”.
+* **Barua Pepe**: Mawasiliano yetu ya kutangaza ni ya hiari kupokea na unaweza kujisanidua kutoka kwenye kijachini cha barua pepe au kwa kusasisha [mapendeleo yako ya barua pepe ya Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
-* **Utathmini na Uboreshaji**: Iwapo hutaki data kuhusu ziara zako kwenye tovuti za Mozilla kukusanywa na Google Analytics, unaweza kusakinisha [Kijalizi cha Kivinjari cha Kuondoka kwenye Google Analytics](https://tools.google.com/dlpage/gaoptout). Kijalizi huhifadhi ziara zako kutoajulikana na kupiga marufuku usambazaji wa data kwenye Utathmini wa Google.
-Ikiwa hutaki data kuhusu uvinjari wako wa tuvoti za Mozilla kukusanywa na Optimizely, unaweza [kuchagua kutoka kwenye www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) au utembelee [tovuti ya kuchagua kutoka ya Optimizely](https://www.optimizely.com/opt_out) kwa maelezo zaidi. Ikiwa hutaki data kuhusu uvinjari wako wa tovuti za Mozilla kukusanywa na ShareProgress, unaweza [kuwasha Usinifuatilie katika kivinjari chako](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Baadhi ya kurasa za Mozilla.org pia hutumia GIF safi kuelewa ufanisi wa kampeni zetu za utangazaji.  Unaweza kuchagua kutoka kwa kuenda kwenye fungu la “Chaguo Zako” la [Sera ya Faragha ya Flashtalking](https://www.flashtalking.com/us/privacypolicy) na kuchagua “Bofya hapa ili uchague kutoka”.
+* **Utathmini na Uboreshaji**: Fuata maelekezo yafuatayo hapa chini kuzuia ukusanyaji wa taarifa juu ziara zako kutembelea tovuti za Mozilla:
+    * Google: Sanidi [Kijalizi cha Kivinjari cha Kuondoka kwenye Google Analytics-kwenye](https://tools.google.com/dlpage/gaoptout), itakayohifadhi ziara zako kutoajulikana na kupiga marufuku usambazaji wa data kwenye Utathmini wa Google. Baadhi ya kurasa za Mozilla.org hutumia GIF angavu ambazo huwasiliana na DoubleClick kuelewa ufanisi wa kampeni zetu za utangazaji; unaweza kudhibiti vivinjaru binafsi kutoka kwenye DoubleClick kwenye mipangilio ya Google ya vivinjari (utatakiwa kujisajili kwenye akaunti yako ya Google).
+    *  Optimizely: [Kuchagua kujiondoa kwenye www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) au tembelea [Tovuti ya kujiondoa kwenye Optimizely](https://www.optimizely.com/opt_out) kwa maelezo zaidi.
+    *  Yahoo: tembelea [Kiwezeshaji cha chaguzi za upendacho](https://aim.yahoo.com/aim/us/en/optout/) kujiondoa.
+    *  ShareProgress: Unaweza [kuwezesha chaguzi ya Usifuatilie kwenye kijalizi chako] (https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Mitandao ya Kijamii**: Kitufe cha kushiriki vy jamii kwenye tovuti za Mozilla vimebuniwa kutoshiriki data na mtoa huduma wa mitandao ya kijamii hadi ubofye kibainifu kwenye kitufe.
 
@@ -63,3 +69,5 @@ Baadhi ya tovuti za Mozilla zinakuruhusu kufanya ununuzi (kama vile programu na 
 {: #donations }
 
 * **Uchakataji wa Malipo**:   Mozilla haipokei maelezo yoyote ya kifedha, ambayo yamesambazwa kutoka kwako hadi wachuuzi wengine kwa uchakataji. Jina la mtu mwingine litaonyeshwa wakati wa mwamala.  Kwa maelezo zaidi kuhusu mazoezi ya data yako na wachuuzi wengine, tazama [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/).
+
+* **Udhibiti wa Utapeli** Mozilla imetekeleza utumiaji wa teknolojia ya watu wengine, Programu ya Google isiyoonekana ya reCAPTCHA, ambayo inafanya kazi nyuma ya baadhi ya tovuti zetu ili kutambua shughuli mbalimbali za kitapeli. Matumizi ya program isiyoonekana ya reCAPTCHA yanasimamiwa na Google [Sera za Faragha](https://www.google.com/intl/en/policies/privacy/) na [Vigezo vya utumiaji] (https://www.google.com/intl/en/policies/terms/).
