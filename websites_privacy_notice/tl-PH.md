@@ -22,6 +22,8 @@ Maaari kaming makatanggap ng personal na impormasyon mula sa inyo batay sa inyon
 
 * **Feedback ng User**:  Maaari kayong magbigay sa amin ng feedback tungkol sa aming mga produkto at serbisyo sa mga webpage tulad ng [input.mozilla.org](https://input.mozilla.org/), sa pamamagitan ng karanasan sa produkto, o sa pamamagitan ng mga channel gaya ng email, Bugzilla, IRC, isang social media account, aming page na Makisali, o sa pamamagitan ng pangkat tulad ng Mga Student Ambassador. Pakibawasan hangga't maaari ang personal na impormasyon na pipiliin ninyong ibahagi sa mga forum na ito dahil maaaring ma-access ng publiko ang inyong mga komento.
 
+* **Mga Campaign ng Produkto at Patakaran**:  Nagho-host ng mga campaign ng produkto o patakaran ang ilan sa aming mga webpage. Halimbawa, maaari kang humiling ng link sa pamamagitan ng email o SMS upang ma-install ang Firefox sa iyong mobile device o gumawa ng petisyon sa mga mambabatas ukol sa mga isyu sa internet. Gumagamit kami ng mga third party upang pamahalaan ang mga campaign na ito at pangasiwaan ang anumang data na pipiliin mong isumite. 
+{: #campaigns }
 ---------------------------------------
 
 Gumagamit kami ng cookies, mga clear na GIF, third party web analytics at IP address para sa functionality at upang pahusayin ang aming mga produkto, serbisyo at komunikasyon. 
@@ -35,7 +37,10 @@ Gumagamit kami ng cookies, mga clear na GIF, third party web analytics at IP add
 * **Mga sukatan**: Tinutulungan kami ng mga clear GIF, cookies at mga third party na serbisyo na maunawaan sa kabuuan kung paano ginagamit ng mga user ang aming mga produkto, serbisyo, komunikasyon, website, online campaign, snippet, device, at iba pang platform. Ginagamit namin ang:
     * Google Analytics, na naglalagay ng cookie sa iyong device, para makakuha ng mga sukatan sa kung paano ginagamit ng mga user ang aming mga website.      Tinutulungan kami nitong pagandahin ang content ng site.  
     * Optimizely at ShareProgress, na naglalagay ng cookie sa iyong  device, para matulungan kaming sumubok ng iba’t ibang web content.  Tinutulungan kami nitong magbigay sa mga user ng mas magagandang karanasan sa web.
-    * Flashtalking, na gumagamit ng clear GIF sa aming page para sa pag-download ng Firefox.  Tinutulungan kami nitong sukatin ang bisa ang aming mga advertising campaign.
+    * DoubleClick at Flashtalking, na parehong gumagamit ng clear na GIF sa aming page sa pag-download ng Firefox.  Nakakatulong ito sa amin na masukat ang bisa ng aming mga campaign sa pag-advertise.
+    * Yahoo Dot Pixel, na gumagamit ng JavaScript sa aming page sa pag-download ng Firefox. Nakakatulong ito sa amin na masukat ang bisa ng aming mga campaign sa pag-advertise. 
+    * HTTP Referral Data, na maaaring kasama sa installer ng Firefox, upang maunawaan ang domain ng website o campaign sa pag-advertise na nag-refer sa iyo sa aming page sa pag-download. Nakakatulong sa amin ang impormasyong ito na maunawaan ang bisa ng aming mga campaign sa pag-advertise at mapahusay ang mga ito.
+    * Iba pang tool sa pagsukat paminsan-minsan, bilang pang-eksperimento. Halimbawa, maaari namin itong gawin upang makatulong sa pagtatasa ng isang bagong tool sa pagsukat, o suriin ang kasalukuyang koleksyon ng mga sukatan.
 
 ---------------------------------------
 
@@ -45,12 +50,15 @@ Maaari ninyong kontrolin ang mga indibidwal na kagustuhan sa cookie, isaad sa ib
 * **History ng Cookie**: Maaari ninyong tanggapin o tanggihan ang indibidwal na cookies sa inyong mga kagustuhan sa Firefox sa seksyong Mga Tool/Mga Opsyon/history ng Privacy. Tandaang maaaring hindi gumana nang maayos ang ilang partikular na feature ng aming mga produkto at serbisyo kung walang tulong ng cookies.
 {: #cookies }
 
-* **Huwag Subaybayan**: Hindi sinusubaybayan ng Mozilla ang mga user sa mga third party na website upang magbigay ng naka-target na pag-a-advertise.  Maaari ninyong i-enable ang Huwag Subaybayan sa Firefox sa seksyong Mga Tool/Mga Opsyon/Privacy sa Pagsubaybay. Nagbibigay-daan ito sa inyong magsaad ng kagustuhan sa mga third party na website tungkol sa paraan ng pagkolekta at paggamit ng inyong impormasyon online.
+* **Huwag Subaybayan**: Hindi sinusubaybayan ng Mozilla ang mga user sa mga third party na website upang magbigay ng naka-target na pag-advertise. Kung na-configure mo ang iyong browser na magpadala ng “Huwag Subaybayan” na signal kapag ina-access ang aming mga website, hindi gagamitin ng Mozilla ang alinman sa mga tool na inilalarawan sa seksyong [Mga Sukatan](#data-tools).
 
-* **Email**: Opsyonal na matatanggap ang aming mga komunikasyon para sa marketing at maaari kayong mag-unsubscribe mula sa footer ng email o sa pamamagitan ng pag-update sa inyong [mga kagustuhan sa email sa Mozilla](https://www.mozilla.org/newsletter/recovery/). Maaari ninyong i-disable ang functionality ng mga clear na GIF sa pamamagitan ng pagbabasa ng mga email mula sa amin sa format na “text lang.”
+* **Email**: Opsyonal ang pagtanggap sa aming mga komunikasyong pang-marketing at maaari kang mag-unsubscribe sa footer ng email o sa pamamagitan ng pag-update sa iyong [mga kagustuhan sa email sa Mozilla](https://www.mozilla.org/newsletter/recovery/). 
 
-* **Analytics at Pag-optimize**: Kung ayaw ninyong kolektahin ng Google Analytics ang data tungkol sa inyong mga pagbisita sa mga webiste ng Mozilla, maaari ninyong i-install ang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Pinapanatili ng add-on na anonymous ang inyong mga pagbisita at pinagbabawalan ang pagpapadala ng data sa Google Analytics.
-Kung ayaw mong makakuha ang Optimizely ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari kang [mag-opt-out sa www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o bumisita sa [website sa pag-opt-out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon. Kung ayaw mong makakuha ang ShareProgress ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla, maaari mong [i-on ang Huwag Subaybayan sa iyong browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Gumagamit din ang ilang page ng Mozilla.org ng mga malinaw na GIF upang maunawaan ang pagiging epektibo ng aming mga campaign ng advertising.  Maaari kang mag-opt-out sa pamamagitan ng pagpunta sa seksyong “Mga Pagpipilian Mo” ng [Patakaran sa Privacy ng Flashtalking](https://www.flashtalking.com/us/privacypolicy) at pagpili sa “Mag-click dito upang mag-opt-out”..
+* **Analytics at Pag-optimize**: Sundin ang mga tagubilin sa ibaba upang mapigilan ang pangongolekta ng data tungkol sa iyong mga pagbisita sa mga website ng Mozilla:
+    *  Google: I-install ang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) na nagpapanatiling anonymous sa iyong mga pagbisita at humahadlang sa pagpapadala ng data sa Google Analytics. Gumagamit ang ilang page ng Mozilla.org ng mga clear na GIF na nakikipag-ugnayan sa DoubleClick upang maunawaan ang bisa ng aming mga campaign sa pag-advertise; maaari mong pamahalaan ang mga naka-personalize na ad mula sa DoubleClick sa mga setting ng ad ng Google (mapa-prompt ka na mag-sign in sa iyong Google Account).
+    *  Optimizely: [Mag-opt out sa www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o bumisita sa [website sa pag-opt out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon.
+    *  Yahoo: bisitahin ang [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) upang mag-opt out.
+    *  ShareProgress: Maaari mong [i-on ang Huwag Subaybayan sa iyong browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Social Media**: Dinisenyo ang mga button ng social sharing sa mga website ng Mozilla na huwag magbahagi ng data sa provider ng social media hanggang sa partikular ninyong i-click ang button.
 
@@ -60,3 +68,5 @@ Nagbibigay-daan sa inyo ang ilang website ng Mozilla na bumili (gaya ng mga app 
 {: #donations }
 
 * **Pagproseso ng Bayad**:   Ang Mozilla ay walang natatanggap na anumang pampinansyang impormasyon, na ipinapadala mula sa inyo patungo sa aming mga third party na vendor para sa pagproseso. Ipapakita ang pangalan ng third party sa oras ng transaksyon.  Para sa higit pang impormasyon tungkol sa aming mga kasanayan sa data sa mga third party na vendor, tingnan ang aming [Patakaran sa Privacy ng Mozilla](https://www.mozilla.org/privacy/).
+
+* **Pagpigil sa Panloloko**:   Nagpatupad ang Mozilla ng third-party na teknolohiya, ang Invisible reCAPTCHA ng Google, na tumatakbo sa background sa ilan sa aming mga website upang tumukoy ng mga aktibidad ng panloloko. Ang paggamit sa Invisible reCAPTCHA ay nasasaklawan ng [Patakaran sa Privacy](https://www.google.com/intl/fil/policies/privacy/) at [Mga Tuntunin ng Paggamit](https://www.google.com/intl/fil/policies/terms/) ng Google.
