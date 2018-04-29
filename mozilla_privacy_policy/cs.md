@@ -1,9 +1,9 @@
-﻿# Zásady ochrany soukromí společnosti Mozilla
+﻿# Zásady Mozilly pro ochranu osobních údajů
 
 15\. dubna 2014
 {: datetime="2014-04-15" }
 
-Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Náš závazek je být transparentní a otevření. Tyto Zásady ochrany soukromí společnosti Mozilla obecně vysvětlují jak získáváme informace o vás a co s těmito informacemi po jejich získání děláme. Můžete si rovněž přečíst naše oznámení o ochraně soukromí pro produkt a nejčastější dotazy, kde získáte podrobnější informace týkající se našich jednotlivých produktů a služeb.
+Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Náš závazek je být transparentní a otevření. Tyto zásady ochrany osobních údajů obecně vysvětlují jak získáváme informace o vás a co s těmito informacemi po jejich získání děláme. Můžete si rovněž přečíst naše zásady ochrany ochranu osobních údajů pro produkt a nejčastější dotazy, kde získáte podrobnější informace týkající se našich jednotlivých produktů a služeb.
 
 ## Co máme na mysli pod pojmem „osobní údaje”?
 
@@ -43,10 +43,10 @@ Vaše osobní údaje nechceme uchovávat po dobu delší než je nezbytná, tak�
 
 ## Co byste měli dále vědět?
 
-Jsme globální organizací a naše počítače se nacházejí na několika různých místech po celém světě. Využíváme rovněž poskytovatele služeb, jejichž počítače se mohou rovněž nacházet v různých zemích. To znamená, že vaše údaje mohou skončit v některém z těchto počítačů v jiné zemi a daná země může nabízet jinou míru ochrany dat než vaše země. Pokud nám poskytnete informace, souhlasíte s tímto druhem převodu vašich údajů. Bez ohledu na to, v jaké zemi se vaše údaje nacházejí, dodržujeme platné právo a veškeré závazky, které uvádíme v těchto zásadách ochrany soukromí.
+Jsme globální organizací a naše počítače se nacházejí na několika různých místech po celém světě. Využíváme rovněž poskytovatele služeb, jejichž počítače se mohou rovněž nacházet v různých zemích. To znamená, že vaše údaje mohou skončit v některém z těchto počítačů v jiné zemi a daná země může nabízet jinou míru ochrany dat než vaše země. Pokud nám poskytnete informace, souhlasíte s tímto druhem převodu vašich údajů. Bez ohledu na to, v jaké zemi se vaše údaje nacházejí, dodržujeme platné právo a veškeré závazky, které uvádíme v těchto zásadách ochrany osobních údajů.
 
 Jste-li mladší 13 let, nemáme zájem o vaše osobní údaje, a vy nám je nesmíte poskytovat. Pokud jste rodič a domníváte se, že vaše dítě mladší 13 let nám poskytlo osobní údaje, [kontaktujte nás](https://www.mozilla.org/privacy/#contact) prosím, abychom údaje vašeho dítěte odstranili.
 
-## Co se stane, když změníme tyto zásady ochrany soukromí nebo kterékoliv z našich oznámení o ochraně soukromí?
+## Co se stane, když změníme tyto nebo kterékoliv jiné zásady ochrany osobních údajů?
 
 Možná budeme potřebovat tyto zásady a naše oznámení změnit. Aktualizace budou zveřejněny online. Budou-li změny zásadního charakteru, aktualizaci oznámíme prostřednictvím obvyklých kanálů společnosti Mozilla pro taková oznámení, jako jsou příspěvky na blozích a fórech. Budete-li produkt či službu dále používat po datu účinnosti takových změn, bude to znamenat váš souhlas s takovými změnami. Abyste měli lepší přehled o verzích, datum účinnosti budeme uvádět v horní části stránky.
