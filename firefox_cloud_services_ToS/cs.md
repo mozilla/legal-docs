@@ -27,7 +27,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
     Služba Firefox Screenshots vám umožňuje snímat obsah webových stránek, který si můžete později prohlížet vy sami či jiní lidé. [Zde](https://www.mozilla.org/about/legal/report-infringement/) můžete nahlásit nároky k porušení autorských práv nebo ochranných známek ve službě Screenshots. Pro nahlášení zneužití nám zašlete odkaz na snímek na adresu screenshots-report@mozilla.com.
 
-4. #### Zásady ochrany soukromí
+4. #### Zásady ochrany osobních údajů
 
     [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/) popisuje, co získáváme z vašeho používání Služeb, a jak tyto informace používáme. Informace, které získáváme prostřednictvím Služeb, jsou popsány v našich [Zásadách ochrany osobních údajů](https://www.mozilla.org/privacy/).
 
@@ -70,8 +70,8 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
     Kontaktujte společnost Mozilla na adrese
 
     <address>
-      Mozilla Corporation 
-      k rukám: Mozilla – Legal Notices 
-      331 E. Evelyn Ave., 
-      Mountain View, CA 94041 
+      Mozilla Corporation
+      k rukám: Mozilla – Legal Notices
+      331 E. Evelyn Ave.,
+      Mountain View, CA 94041
     </address>
