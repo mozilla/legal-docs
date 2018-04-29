@@ -30,7 +30,7 @@ KROMĚ PŘÍPADŮ, KDY TO VYŽADUJE ZÁKON, MOZILLA A STRANY MOZILLY NEBUDOU ODP
 
 ## Aktualizace
 
-Mozilla může tyto Podmínky čas od času aktualizovat, aby zahrnula novou funkci Služeb nebo ujasnila ustanovení. Aktualizované Podmínky budou zveřejněny online. Pokud jsou změny postatné, oznámíme je přes běžné kanály Mozilly pro taková oznámení, jako jsou příspěvky na blogu nebo fóra. Vaším dalším používáním Služeb po datu platnosti změn vyjadřujete souhlas s těmito změnami. Abychom udělali kontrolu jednodušší, zveřejníme datum platnosti na začátek této stránky.
+Mozilla může tyto Podmínky čas od času aktualizovat, aby zahrnula novou funkci Služeb nebo ujasnila ustanovení. Aktualizované Podmínky budou zveřejněny online. Pokud jsou změny podstatné, oznámíme je přes běžné kanály Mozilly pro taková oznámení, jako jsou příspěvky na blogu nebo fóra. Vaším dalším používáním Služeb po datu platnosti změn vyjadřujete souhlas s těmito změnami. Abychom udělali kontrolu jednodušší, zveřejníme datum platnosti na začátek této stránky.
 
 ## Ukončení
 
