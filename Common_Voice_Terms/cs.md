@@ -6,9 +6,9 @@ Platné od ⁨19. června 2017⁩ {: datetime="2017-06-19" }
 
 Musíte být starší 13 let nebo mít svolení rodiče či opatrovníka, který na vás v našem projektu musí dohlížet.
 
-## Soukromí
+## Osobní údaje
 
-Naše [Zásady ochrany soukromí](https://voice.allizom.org/privacy) vysvětlují, jak přijímáme a nakládáme s vašimi daty.
+Naše [Zásady ochrany osobních údajů](https://voice.allizom.org/privacy) vysvětlují, jak přijímáme a nakládáme s vašimi daty.
 
 ## Vaše příspěvky a uvolnění práv
 
@@ -16,7 +16,7 @@ Odesláním vašich nahrávek se vzdáváte všech autorských práv a souvisej�
 
 ## Komunikace
 
-Pokud se přihlásíte k odběru našeho zpravodaje nebo si v souvislosti s projektem Common Voice vytvoříte účet, můžete od nás dostávat e-maily spojené s vaším účtem (například aktualizace podmínek, zásad ochrany soukromí a bezpečnostních informací).
+Pokud se přihlásíte k odběru našeho zpravodaje nebo si v souvislosti s projektem Common Voice vytvoříte účet, můžete od nás dostávat e-maily spojené s vaším účtem (například aktualizace podmínek, zásad ochrany osobních údajů a bezpečnostních informací).
 
 ## Obecné
 
@@ -28,7 +28,7 @@ V ROZSAHU POVOLENÉM PŘÍSLUŠNÝM ZÁKONEM SOUHLASÍTE S UPUŠTĚNÍM OD PRÁV
 
 KROMĚ PŘÍPADŮ, KDY TO VYŽADUJE ZÁKON, MOZILLA A STRANY MOZILLY NEBUDOU ODPOVĚDNÍ ZA JAKÉKOLI NEPŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO EXEMPLÁRNÍ ŠKODY VYPLÝVAJÍCÍ NEBO JAKKOLI SPOJENÉ S TĚMITO PODMÍNKAMI NEBO POUŽITÍM NEBO NEMOŽNOSTÍ POUŽITÍ SLUŽEB, VČETNĚ PŘÍMÉHO A NEPŘÍMÉHO POŠKOZENÍ NEBO ZTRÁTY POVĚSTI, ZASTAVENÍ PRÁCE, ZTRÁTY ZISKU, ZTRÁTY DAT A SELHÁNÍ POČÍTAČE NEBO JEHO SELHÁNÍ, A TO I KDYŽ BUDETE NA MOŽNOST TAKOVÝCH ŠKOD UPOZORNĚNI, BEZ OHLEDU NA PODKLADY (SMLOUVU, ČIN A OSTATNÍ), NA KTERÝCH JE TAKOVÝ NÁROK POSTAVEN. SOUHRNNÁ ODPOVĚDNOST MOZILLY A STRAN MOZILLY PODLE TÉTO DOHODY NEPŘEKROČÍ $500 (PĚT SET DOLARŮ). NĚKTERÉ JURISDIKCE NEUMOŽŇUJÍ VYLOUČENÍ NEBO OMEZENÍ NÁHODNÉ, NÁSLEDNÉ NEBO SPECIÁLNÍ ŠKODY, TAKŽE SE VÁS TOTO VYLOUČENÍ A OMEZENÍ NEMUSÍ VZTAHOVAT.
 
-## Aktualizace 
+## Aktualizace
 
 Mozilla může tyto Podmínky čas od času aktualizovat, aby zahrnula novou funkci Služeb nebo ujasnila ustanovení. Aktualizované Podmínky budou zveřejněny online. Pokud jsou změny postatné, oznámíme je přes běžné kanály Mozilly pro taková oznámení, jako jsou příspěvky na blogu nebo fóra. Vaším dalším používáním Služeb po datu platnosti změn vyjadřujete souhlas s těmito změnami. Abychom udělali kontrolu jednodušší, zveřejníme datum platnosti na začátek této stránky.
 

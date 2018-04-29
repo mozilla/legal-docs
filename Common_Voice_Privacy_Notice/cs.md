@@ -1,10 +1,10 @@
-# Zásady ochrany soukromí projektu Common Voice
+# Zásady ochrany osobních údajů projektu Common Voice
 
 Platné od ⁨19. června 2017⁩ {: datetime="2017-06-19" }
 
-## Soukromí
+## Osobní údaje
 
-Když Mozilla (to jsme my) získává informace od vás, naše [Zásady ochrany soukromí](https://www.mozilla.org/privacy) popisuje, jak s těmito daty nakládáme.
+Když Mozilla (to jsme my) získává informace od vás, naše [Zásady ochrany osobních údajů](https://www.mozilla.org/privacy) popisuje, jak s těmito daty nakládáme.
 
 * **Demografická data.** Dobrovolně nám můžete odeslat informace, jako je váš přízvuk, věk a pohlaví. To pomáhá nám a ostatním výzkumníkům zlepšovat a vytvářet technologie a nástroje pro převod řeči na text.
 
