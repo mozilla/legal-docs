@@ -1,40 +1,38 @@
-## Warunki prawne Common Voice
+# Warunki prawne dotyczące projektu Common Voice 
 
-Wchodzi w życie z dniem ⁨19 czerwca 2017⁩ {: datetime="2017-06-19" }
+Data wejścia w życie: 1 maja 2017 r.
+{: datetime="2018-05-01" }
 
 ## Uprawnieni użytkownicy
 
-Aby uczestniczyć w projekcie, musisz mieć ukończony 13 rok życia lub mieć zgodę rodziców albo opiekuna prawnego.
+Aby uczestniczyć w naszym projekcie crowdsourcingowym, musisz mieć ukończone 19 lat lub dysponować zgodą rodziców albo opiekuna prawnego. Biorąc w nim udział, zgadzasz się przestrzegać [wytycznych dotyczących udziału społeczności Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
-## Prywatność
+## Wkład własny i przekazanie praw autorskich
 
-Nasze [Zasady ochrony prywatności](https://voice.allizom.org/privacy) wyjaśniają, w jaki sposób przetwarzamy zebrane dane.
+Przesyłając tekst, deklarujesz, że jest on Twojego autorstwa, a w przypadku nagrania oświadczasz, że znajduje się na nim Twój głos. Zapewniasz nas również, że masz prawo do przesłania tekstu lub nagrania w celu wykorzystania go w projekcie publicznym zgodnie z licencją [CC-0](https://creativecommons.org/publicdomain/zero/1.0/), a także że tekst lub nagranie nie narusza żadnych praw innych osób. 
 
-## Wkład własny i prawa autorskie
+Przesyłając tekst lub nagranie, zrzekasz się wszelkich posiadanych praw autorskich i praw pokrewnych z nim związanych, a zarazem zgadzasz się na publiczne ich udostępnienie na licencji [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Oznacza to, że tracisz prawo dochodzenia jakichkolwiek roszczeń na mocy prawa autorskiego oraz praw do zbioru danych, w tym również praw dotyczących dóbr osobistych i innych praw powiązanych.
 
-Przesyłając nagrania, zrzekasz się wszelkich praw autorskich i praw pokrewnych, zarazem zgadzasz się na publiczne udostępnienie nagrań na licencji [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Oznacza to, że tracisz prawo dochodzenia wszelkich roszczeń na podstawie prawa autorskiego oraz praw do zbioru danych, w tym również praw do jawności, prywatności i innych powiązanych.
+## Korespondencja
 
-## Komunikacja
+Jeśli postanowisz subskrybować nasze biuletyny lub utworzysz konto w witrynie Common Voice, możesz otrzymywać od nas wiadomości e-mail dotyczące na przykład kwestii prawnych lub związanych z prywatnością albo bezpieczeństwem.
 
-Jeśli subskrybujesz nasze biuletyny lub utworzysz profil w projekcie Common Voice, możesz otrzymywać od nas wiadomości (np. aktualności o warunkach prawnych, prywatności i bezpieczeństwie).
-Warunki ogólne
+## Warunki ogólne
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
+Zrzeczenie się i ograniczenie odpowiedzialności: PROJEKT COMMON VOICE WRAZ Z WSZYSTKIMI TEKSTAMI I NAGRANIAMI JEST UDOSTĘPNIANY W STANIE „TAKIM JAK JEST”, BEZ JAKIEJKOLWIEK WYRAŹNEJ ANI DOROZUMIANEJ GWARANCJI. NIE BIERZEMY ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK TEKSTY LUB NAGRANIA PUBLIKOWANE LUB PRZESYŁANE W RAMACH PROJEKTU COMMON VOICE PRZEZ CIEBIE LUB INNĄ OSOBĘ. SZCZEGÓLNIE ZRZEKAMY SIĘ WSZELKIEJ ODPOWIEDZIALNOŚCI Z TYTUŁU JAKICHKOLWIEK GWARANCJI I WARUNKÓW ZDATNOŚCI DO HANDLU, PRZYDATNOŚCI DO KONKRETNEGO CELU ORAZ NIENARUSZALNOŚCI, A TAKŻE WSZELKICH GWARANCJI WYNIKAJĄCYCH Z PRZEBIEGU TRANSAKCJI HANDLOWEJ LUB ZWYCZAJÓW HANDLOWYCH.
 
-MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+ZGODNIE Z OBOWIĄZUJĄCYM PRAWEM ZRZEKASZ SIĘ ROSZCZEŃ WZGLĘDEM NAS I NASZEJ SPÓŁKI MATKI, NASZYCH SPÓŁEK ZALEŻNYCH ORAZ STOWARZYSZONYCH, DYREKTORÓW, CZŁONKÓW KADRY ZARZĄDZAJĄCEJ, PRACOWNIKÓW I AGENTÓW (ZBIORCZO OKREŚLANYCH MIANEM „STRON MOZILLA”) Z TYTUŁU JAKICHKOLWIEK ODSZKODOWAŃ, SZKÓD LUB OPÓŹNIEŃ (W TYM SZKÓD OSOBOWYCH I MAJĄTKOWYCH ORAZ ŚMIERCI) WYNIKAJĄCYCH W CAŁOŚCI LUB CZĘŚCI, A TAKŻE BEZPOŚREDNIO LUB POŚREDNIO Z UDZIAŁU W PROJEKCIE COMMON VOICE.
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+O ILE NIE ZOSTAŁO TO OKREŚLONE PRZEZ OBOWIĄZUJĄCE PRAWO, MY I STRONY MOZILLA NIE PONOSIMY ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY POŚREDNIE, WYMIERNE, UBOCZNE LUB NASTĘPCZE ANI ODSZKODOWANIA RETORSYJNE WYNIKAJĄCE LUB W JAKIKOLWIEK SPOSÓB ZWIĄZANE Z NINIEJSZYMI WARUNKAMI PROJEKTU COMMON VOICE, UDZIAŁEM W NIM LUB Z BRAKIEM TAKIEJ MOŻLIWOŚCI, W TYM MIĘDZY INNYMI ZA SZKODY BEZPOŚREDNIE I POŚREDNIE Z TYTUŁU UTRATY DOBREJ WOLI, PRZYCHODÓW ORAZ DANYCH, PRZERW W PRACY, A TAKŻE AWARII KOMPUTERA, NAWET JEŚLI ZOSTAŁY NAM PRZEKAZANE INFORMACJE O MOŻLIWOŚCI POWSTANIA TEGO RODZAJU SZKÓD I BEZ WZGLĘDU NA TEORIĘ, NA KTÓREJ OPIERA SIĘ DANE ROSZCZENIE (UMOWA, DELIKT ITP.). NA MOCNY NINIEJSZEJ UMOWY ZBIORCZA ODPOWIEDZIALNOŚĆ NASZA I STRON MOZILLA NIE PRZEKROCZY 500 USD (SŁOWNIE: PIĘCIUSET DOLARÓW). ZGODNIE Z WYKŁADNIĄ PRAWA OBOWIĄZUJĄCĄ W NIEKTÓRYCH JURYSDYKCJACH WYKLUCZENIE LUB OGRANICZENIE WYSOKOŚCI SZKÓD UBOCZNYCH, NASTĘPCZYCH LUB WYMIERNYCH JEST NIEDOZWOLONE, W ZWIĄZKU Z CZYM TEGO RODZAJU WYKLUCZENIE LUB OGRANICZENIE MOŻE NIE MIEĆ ZASTOSOWANIA W TWOIM PRZYPADKU.
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+## Aktualizacje 
 
-## Updates
+Możemy co jakiś czas aktualizować niniejsze Warunki z powodu wprowadzenia nowej funkcji w projekcie Common Voice lub w celu objaśnienia jednego z obowiązujących zapisów. Zaktualizowane Warunki będziemy publikować online. Jeśli zakres wprowadzonych zmian jest znaczny, poinformujemy o tym za pośrednictwem standardowych kanałów, takich jak wpisy na blogu czy forach. Nieprzerwany udział w projekcie Common Voice po dacie wejścia w życie wprowadzonych zmian jest równoważny z ich zaakceptowaniem. Aby ułatwić przeglądanie, umieścimy datę wejścia w życie u góry niniejszej strony.
 
-Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla’s usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+## Wypowiedzenie 
 
-## Termination
+Możemy w dowolnym momencie i z dowolnego powodu zawiesić lub zablokować Twój dostęp do projektu Common Voice. Podejmiemy uzasadnione działania, aby Cię o tym poinformować pocztą elektroniczną na adres e-mail podany na etapie zakładania konta lub podczas kolejnej próby uzyskania dostępu do witryny Common Voice. Bez względu na złożone wypowiedzenie wszystkie przesłane nam nagrania pozostaną publicznie dostępne.
 
-We may suspend or terminate your access to the Services at any time for any reason, we will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access the Services. Regardless of any termination, all recordings that you submit to Mozilla will continue to be publicly available.
+## Prawo właściwe
 
-## Governing Law
-
-These Legal Terms constitute the entire agreement between you and Mozilla concerning Common Voice and are governed by the laws of the state of California, U.S.A.
+Niniejsze Warunki prawne stanowią całość porozumienia pomiędzy Tobą a nami w kwestii udziału w projekcie Common Voice, a prawem właściwym dla ich wykładni jest prawo stanu Kalifornia w USA.
