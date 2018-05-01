@@ -1,19 +1,21 @@
-## Zasady ochrony prywatności Common Voice
+# Zasady ochrony prywatności dotyczące projektu Common Voice 
 
-Wchodzi w życie z dniem ⁨19 czerwca 2017⁩ {: datetime="2017-06-19" }
+Data wejścia w życie: 1 maja 2017 r. {: datetime="2018-05-01" }
 
 ## Prywatność
 
-Kiedy Mozilla (to my) otrzymuje od Ciebie informacje, nasze [zasady ochrony prywatności Mozilli](https://www.mozilla.org/privacy) opisują, jak je przetwarzamy.
+Kiedy Mozilla (czyli my) otrzymuje od Ciebie informacje, nasze [zasady ochrony prywatności](https://www.mozilla.org/privacy) opisują sposób, w jaki je przetwarzamy.
 
-* **Dane demograficzne.** Możesz zdecydować o przesłaniu nam dodatkowych informacji o Twoim akcencie, wieku i płci. Pomoże to deweloperom i badaczom w tworzeniu systemów i narzędzi rozpoznawania mowy.
+* **Dane demograficzne.** Możesz dobrowolnie przesłać nam dodatkowe informacje o swoim akcencie, wieku i płci. To pozwala nam i innym analitykom tworzyć systemy oraz narzędzia rozpoznawania mowy.
 
-* **Dane konta.** Możesz opcjonalnie utworzyć konto, przez co otrzymamy Twój adres e-mail. Jest to powiązane z Twoimi danymi demograficznymi i danymi interakcji, które nie są publikowane.
+* **Dane poczty elektronicznej.** Zakładając konto lub subskrybując nasz biuletyn, przekazujesz nam swój adres e-mail. Jest on powiązany z Twoimi danymi demograficznymi i danymi interakcji, ale nie jest ogólnodostępny.
 
-* **Nagrania dźwiękowe.** Nagrania głosowe z powiązanymi danymi demograficznymi mogą być dostępne do pobrania i wykorzystania w publicznym zbiorze danych Common Voice.
+* **Nagrania głosowe.** Nagrania głosowe wraz z dowolnymi powiązanymi danymi demograficznymi mogą być dostępne w publicznym zbiorze danych Common Voice do pobrania i wykorzystania.
 
-* **Dane interakcji.** Używamy Google Analytics, aby lepiej zrozumieć, jak korzystasz z aplikacji i strony Common Voice. Na przykład zawierają one liczbę próbek głosu, które nagrywasz lub odtwarzasz, interakcje z przyciskami i menu, długość sesji.
+* **Tekst.** Jeśli prześlesz nam tekst, możemy go udostępnić w publicznym zbiorze danych Common Voice do pobrania i wykorzystania. Nie powiążemy go z przesłanymi przez Ciebie danymi demograficznymi. 
 
-* **Dane techniczne.** Używamy Google Analytics do zbierania informacje o odwiedzanych stronach Common Voice. Zapisujemy informację o przeglądarce, wielkości okna i rozdzielczości ekranu. Zbieramy także informację o lokalizacji oraz używanym języku w przeglądarce. 
+* **Dane interakcji.** Korzystamy z usługi Google Analytics, by lepiej zrozumieć sposób, w jaki korzystasz z aplikacji i witryny internetowej Common Voice. Dotyczy to na przykład liczby próbek głosu, które nagrywasz lub odtwarzasz, kliknięć przycisków i menu czy długość sesji.
+
+* **Dane techniczne.** Korzystając z usługi Google Analytics, gromadzimy informacje o adresach URL i nazwach odwiedzanych przez Ciebie stron w witrynie Common Voice. Gromadzone dane obejmują informacje o przeglądarce, wielkości okna i rozdzielczości ekranu. Dotyczy to również lokalizacji oraz języka używanego w przeglądarce.
 
 [Więcej informacji](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
