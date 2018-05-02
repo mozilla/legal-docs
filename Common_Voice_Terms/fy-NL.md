@@ -1,18 +1,20 @@
 # Juridyske betingsten Common Voice
 
-Effektyf ⁨19 Juny 2017⁩ {: datetime="2017-06-19" }
+Effektyf 01 Maaie 2018
+{: datetime="2018-05-01" }
 
 ## Geskiktheid
 
-Jo moatte âlder wêze as 13 jier of tastimming of tafersjoch fan jo âlder of fâd hawwe om oan ús crowdsourcingprojekt diel te nimmen.
-
-## Privacy
-
-Us [Privacybelied](https://voice.allizom.org/privacy) leit út hoe't wy jo gegevens ûntfange en behannelje.
+Jo moatte âlder wêze as 19 jier of tastimming of tafersjoch fan jo âlder of fâd hawwe om oan ús crowdsourcingprojekt diel te nimmen. Troch diel te nimmen, stelle jo ek te stimmen om te hâlden troch de [Mozilla Community 
+Dielnimmende rjochtlinen](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## Jo bydragen en frijjefte fan rjochten
 
-Troch jo opnamen yn te tsjinjen, sjogge jo ôf fan alle auteursrjochten en besibbe rjochten dy't jo hjirop hawwe, en geane jo akkoard mei it iepenbier meitsjen fan de opnamen ûnder [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Dit betsjut dat jo akseptearje dat jo wrâldwiid ôfsjogge fan alle rjochten op de opnamen ûnder auteursrjocht- en databasewetjouwing, ynklusyf morele en publisiteitsrjochten en alle besibbe en oanbuorjende rjochten.
+
+As jo ​​skreaune tekst of opnames stjoere, stipe jo Mozilla dat jo in tekst-ynhâld sels skreaun hawwe en dat alle opnamen fan jo eigen stim binne. Jo soze jo ek Mozilla dat jo it rjocht hawwe om de tekst of opnij te brûken foar gebrûk yn in iepenbiere projekt ûnder de lisinsje [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) 
+en dat de tekst of opnimmen gjin inkelde rjochten fan 'e tredden hat. 
+
+As jo ​​jo skreaune tekst of audio-opnamen yntsjinje, fertsjinnigje jo ek alle copyrights en relatearre rjochten dy't jo hawwe yn har, en jo binne it iens om de skreaune tekst of audio-opnamen te iepenjen oan it publyk ûnder in lisinsje [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Dit betsjut dat jo allinich binne om alle rjochten op 'e tekst en opnames wrâldwiid te ferlienen ûnder copyright en databankrjocht, ynklusyf moralisearre en publisiteitrjochten en alle relatearre en neistlizzende rjochten.
 
 ## Kommunikaasjes
 
@@ -20,9 +22,7 @@ As jo jo ynskriuwe om ús nijsbrieven te ûntfangen of in account registrearje y
 
 ## Algemien
 
-Disclaimer; beheinde oanspraaklikheid: COMMON VOICE EN ALLE OPNAMEN WURDE OANBEAN OP BASIS FAN ‘AS IS’ SÛNDER IENNIGE GARÂNSJE, EKSPLISYT OF YMPLISYT. MOZILLA NIMT GJIN FERANTWURDLIKHEID EN AKSEPTEARRET GJIN OANSPRAAKLIKHEID FOAR HOKKER OPNAME DAN EK DY'T JO OF IN OARE BRÛKER OF TREDDE PARTIJ PLEATST OF FERSTJOERD MEI COMMON VOICE.
-
-MOZILLA WIIST MEI KLAM ALLE GARÂNSJE EN BETINGSTEN FAN FERHANNELBERHEID, GESKIKTHEID FOAR IN SPESIFYK DOEL EN NET-YNBREK ÔF, KREKT AS ALLE GARÂNSJE DY'T FUORTKOMT ÚT HANNEL OF GEBRÛK FAN IT BEANE.
+Disclaimer; beheinde oanspraaklikheid: COMMON VOICE EN ALLE OPNAMEN WURDE OANBEAN OP BASIS FAN ‘AS IS’ SÛNDER IENNIGE GARÂNSJE, EKSPLISYT OF YMPLISYT. MOZILLA NIMT GJIN FERANTWURDLIKHEID EN AKSEPTEARRET GJIN OANSPRAAKLIKHEID FOAR HOKKER OPNAME DAN EK DY'T JO OF IN OARE BRÛKER OF TREDDE PARTIJ PLEATST OF FERSTJOERD MEI COMMON VOICE. MOZILLA WIIST MEI KLAM ALLE GARÂNSJE EN BETINGSTEN FAN FERHANNELBERHEID, GESKIKTHEID FOAR IN SPESIFYK DOEL EN NET-YNBREK ÔF, KREKT AS ALLE GARÂNSJE DY'T FUORTKOMT ÚT HANNEL OF GEBRÛK FAN IT BEANE.
 
 FOAR SAFIER TASTIEN ÛNDER TAPASLIK RJOCHT AKSEPTEARJE JO DE FRIJJEFTE EN FRIJWARJE JO DE MOZILLA CORPORATION EN HARREN MEMMEMAATSKIPPIJ, ÛNDERGESKIKTE BEDRIUWEN, RELATEARRE BEDRIUWEN, DIREKSJE, ÚTFIERENDEN, MEIWURKERS EN AGINTEN (DE ‘MOZILLA-PARTIJEN’) FAN ALLE OANSPRAAKLIKHEID FOAR SKEA, FERLIES OF FERTRAGING (WÊRÛNDER PERSOANLIK LETSEL, FERSTJERREN OF EIGENDOMSSKEA) YN IT HIEL OF IN PART RESULTEARJEND, STREEKRJOCHT OF YNDIREKT, ÚT JO DIELNIMMING OAN COMMON VOICE.
 
@@ -36,6 +36,6 @@ Mozilla kin dizze Betingsten fan tiid ta tiid bywurkje om in nije funksje fan de
 
 Wy kinne jo tagong ta de Tsjinsten op alle tiden om hokker reden dan ek tydlik of permanint wegerje; wy sille reedlike besykjen ûndernimme om jo te ynformearjen fia it e-mailadres dat by jo account heart, of de folgjende kear dat jo de Tsjinsten probearje te brûken. Nettsjinsteande in beëiniging bliuwe de troch jo by Mozilla yntsjinne opnamen publyklik beskikber.
 
-## Tapaslik rjocht 
+## Tapaslik rjocht
 
 Dizze Juridyske Betingsten omfetsje de folsleine oerienkomst tusken jo en Mozilla oangeande Common Voice en falle ûnder de wetten fan de steat Californië, FS.
