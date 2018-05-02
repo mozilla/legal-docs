@@ -1,6 +1,6 @@
 # Privacybelied Common Voice
 
-Effektyf ⁨19 Juny 2017⁩ {: datetime="2017-06-19" }
+Effektyf 1 Maaie 2018 {: datetime="2018-05-01" }
 
 ## Privacy
 
@@ -11,6 +11,8 @@ As Mozilla (dat binne wy), ynformaasje fan jo ûntfangt; ús [Mozilla-privacybel
 * **Accountgegevens.** Jo kinne opsjoneel in account oanmeitsje, yn hokker gefal wy jo e-mailadres ûntfange. Dit wurdt oan jo demografyske en ynteraksjegegevens keppele, mar net iepenbier makke.
 
 * **Stimopnamen.** Stimopnamen kinne, tegearre mei relatearre demografyske gegevens, yn de Common Voice-database beskikber wêze foar iepenbier gebrûk.
+
+* **Tekst.** As jo ​​skriftlike siningen yntsjinne, kinne wy ​​ek dyjingen dy't beskikber stelle yn 'e CommonVoice-database foar iepenbiere ynbringing en gebrûk. Wy sille dizze sinnen net ferienigje mei de demografyske gegevens dy't jo yntsjinje. 
 
 * **Ynteraksjegegevens.** Wy brûke Google Analytics om jo ynteraksje mei de Common Voice-app of -website better te begripen. Dit omfettet bygelyks it oantal troch jo opnommen of belústere stimfoarbylden , ynteraksjes mei knoppen en menu’s, of sesjelingte.
 
