@@ -1,17 +1,17 @@
-# Common Voice 法律條款
+# Common Voice 法律條款 
 
-生效日 ⁨2017年6月19日⁩{: datetime="2017-06-19" }
+生效日期 2018 年 5 月 1 日
+{: datetime="2018-05-01" }
 
 ## 適用性
 
-您必須已滿 13 週歲，或已取得您的家長或監護人的同意，並在其監督之下才能參與我們的群眾外包專案。
+如果要參與我們的群眾外包專案，您必須已滿 19 週歲，或已取得您的家長或監護人的同意，並在其監督之下才能參與我們的群眾外包專案。若要參加，則您也必須同意遵守 [Mozilla 社群參與指南](https://www.mozilla.org/about/governance/policies/participation/)規範。 
 
-## 隱私權
+## 您的貢獻與權利放棄聲明
 
-我們的[隱私權公告](https://voice.allizom.org/privacy)解釋了我們會如何接收並處理您的資料。
-您的貢獻與權利放棄聲明
+如果您送出填寫的文字內容或是錄音，則您向 Mozilla 擔保該文字是由您親自填寫，而錄音內容確實是您的聲音。同時您也向 Mozilla 擔保您有權送出該文字或錄音內容，並讓公開計畫依照 [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) 授權規範進行使用，且該文字或錄音內容並未違反任何第三方組織之權利。 
 
-送出您的錄音，就代表您放棄所有可能擁有的著作權及相關權利，並同意依照 [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) 條款，公開給大眾使用。這代表您同意根據全球的著作權法及資料庫相關法律及規定下，放棄錄音的所有權利，包含人格權及財產權，及所有相關鄰接權利。
+送出您的錄音或填寫文字，就代表您放棄所有可能擁有的著作權及相關權利，並同意依照 [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) 授權規範將該文字或錄製音訊公開給大眾使用。這代表您同意根據全球的著作權法及資料庫相關法律及規定下，放棄文字及錄音的所有權利，包含人格權及財產權，及所有相關鄰接權利。
 
 ## 通訊
 
@@ -19,21 +19,19 @@
 
 ## 一般
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
+免責聲明；責任限制：Common Voice 與其所有文字和錄音內容皆以「照現狀」之基礎提供，我們不為其提供任何明確或暗示的擔保。針對您或其他使用者或第三方使用 Common Voice 張貼或傳輸之任何文字或錄音內容，Mozilla 皆不負任何責任。Mozilla 特此放棄保證任意及所有銷售性之擔保與條款、特定用途的適用性、非侵權性，以及因交易過程或商業習慣所產生之任何擔保。
 
-MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+在適用法律範圍內，針對任何及所有因您參與 Common Voice 而直接或間接造成之損害、損失或延遲（包含人身傷害、死亡或財產損失），無論您需負全責或部分責任，您都同意 Mozilla 集團及其分別的母公司、子公司、附屬事業、董事、經理人、員工、專員（「Mozilla 方」）不需因此負責，且不會因此受到損害。
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+除非法律有所要求，否則 Mozilla 及 Mozilla 方無須對因此處條款、使用或無法使用 Common Voice 而起之任何間接、特定、附帶、衍生性或懲罰信損害賠償負責，包含但不限於因損害商譽、工作中斷、損失利潤、損失資料、電腦當機或發生錯誤而直接及間接產生之任何傷害，即使已通知該類傷害之可能性亦然，不論申訴內容立論（契約、侵權或其他形式）為何皆同。在本契約規定範圍內，Mozilla 及 Mozilla 方總和責任最高不超過 $500（美金五百元）。部分司法管轄範圍不允許排除或限制附帶、衍生性或特定損害賠償，因此您可能不適用本排除條款及限制。
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+## 更新 
 
-## 更新
+Mozilla 可能會因 Common Voice 提供新功能或釐清條款內容隨時修訂以上條款，修訂過的條款將在線上公告。修訂過的條款將在線上公告。若變更是實質性的，我們將會透過 Mozilla 的部落格、討論區等常用管道進行公告。若您在修訂生效日後繼續使用 Common Voice，就代表您接受該修訂內容。為了讓您更方便就能確認修訂內容，我們將在此頁面最頂端張貼生效日期。
 
-Mozilla 可能會因本服務提供新功能或釐清條款內容隨時修訂以上條款，修訂過的條款將在線上公告。若變更是實質性的，我們將會透過 Mozilla 的部落格、討論區等常用頻道來進行公告。若您在修訂生效日後繼續使用本服務，就代表您接受該修訂。為了讓您更方便就能確認修訂內容，我們將在此頁面最頂端張貼生效日。
+## 終止 
 
-## 終止
-
-我們可能會因任何原因，在任何時間暫停或終止您存取服務的權利。我們會以合理的嘗試，透過與您帳號相關聯的電子郵件信箱，或是下一次嘗試存取本服務時通知您。不論終止方式為何，您送出給 Mozilla 的所有錄音，將持續公開提供外部使用。
+我們可能會因任何原因，在任何時間暫停或終止您存取 Common Voice 的權利。我們會以合理的嘗試，透過與您帳號相關聯的電子郵件信箱，或是下一次嘗試存取 Common Voice 時通知您。不論終止方式為何，您送出給 Mozilla 的所有錄音，將持續公開提供外部使用。
 
 ## 準據法
 
