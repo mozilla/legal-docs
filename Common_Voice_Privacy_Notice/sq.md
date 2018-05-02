@@ -1,19 +1,21 @@
-# Shënim Privatësie për Common Voice
+# Njoftim privatësie për “Common Voice” 
 
-Effective ⁨June 19, 2017⁩ {: datetime="2017-06-19" }
+Hyn në fuqi më 1 maj 2018 {: datetime="2018-05-01" }
 
-## Privatësi
+## Privatësia
 
-Kur Mozilla (domethënë ne), merr të dhëna nga ju, [Rregullat e Privatësisë në Mozilla](https://www.mozilla.org/privacy) përshkruajnë se si i trajtojmë ato të dhëna.
+Kur Mozilla (domethënë ne), merr të dhëna nga ju, [Politika e privatësisë së “Mozilla”](https://www.mozilla.org/privacy) përshkruan mënyrën se si ne i trajtojmë këto të dhëna.
 
-* **Të dhëna demografike.** Mundet, nëse doni, të na dërgoni të dhëna të tilla si theksi juaj, mosha, dhe gjinia. Këto na ndihmojnë ne dhe kërkues të tjerë të krijojmë dhe përmirësojmë teknologji dhe mjete për shndërrim të të folurës në tekst.
+* **Të dhëna demografike.** Nëse dëshironi, mund të na dërgoni të dhëna të tilla si theksi juaj, mosha, dhe gjinia. Këto të dhëna na ndihmojnë ne dhe kërkuesit e tjerë që të përmirësojmë dhe krijojmë teknologji dhe mjete për shndërrim të të folurit në tekst.
 
-* **Të dhëna llogarie.** Nëse doni, mund të krijoni një llogari, dhe kjo na dërgon email-in tuaj. Kjo përshoqërohet me të dhënat tuaja demografike dhe ato të ndërveprimit me ne, por ajo nuk i jepet publikut.
+* **Të dhënat e emailit.** Nëse dëshironi, mund të krijoni një llogari ose të abonoheni në buletinin tonë dhe kështu ne marrim emailin tuaj. Kjo lidhet me të dhënat tuaja demografike dhe të ndërveprimit, por ajo nuk i jepet publikut.
 
-* **Incizime Zanore.** Incizimet Zanore, tok me çfarëdo të dhënash demografike përshoqëruar atyre, mund të jepen te baza e të dhënave Common Voice për përdorim dhe konsum publik.
+* **Regjistrimet e zërit.** Regjistrimet e zërit, së bashku me çdo të dhënë tjetër përkatëse demografike mund të vihen në dispozicion në bazën e të dhënave të “Common Voice” për përdorim publik.
 
-* **Të dhëna ndërveprimi.** Për të kuptuar më mirë se si ndërveproni me aplikacioni ose sajtin Common Voice, ne përdorim Google Analytics. Për shembull, këtu përfshihen numri i incizimeve që bëni ose dëgjoni, ndërveprimet me butona dhe menu, kohëzgjatje sesionesh.
+* **Teksti.** Nëse dorëzoni fjali me shkrim, ne mund t’i vëmë dhe ato në dispozicion në bazën e të dhënave të “Common Voice” për përdorim publik. Këto fjali nuk do t’i lidhim me të dhënat demografike që keni dhënë. 
 
-* **Të dhëna teknike.** Duke përdorur Google Analytics, grumbullojmë URL dhe tituj faqesh Common Voice që vizitoni. Grumbullojmë shfletuesin tuaj, madhësinë e skenës ku e mbani hapur, dhe qartësi ekrani. Grumbullojmë gjithashtu vendndodhjen tuaj, dhe rregullime gjuhe në shfletuesin tuaj.
+* **Të dhënat e ndërveprimit.** Për të kuptuar më mirë se si ndërveproni me aplikacionin ose faqen e internetit të “Common Voice”, ne përdorim “Google Analytics”. Për shembull, këtu përfshihen numri i shembujve zanorë që regjistroni ose dëgjoni, ndërveprimet me butonat dhe menytë, kohëzgjatja e sesionit. 
 
-[Mësoni më tepër](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+* **Të dhënat teknike.** Me anë të Google Analytics, ne grumbullojmë adresat URL dhe titujt e faqeve të “Common Voice” që vizitoni. Grumbullojmë shfletuesin tuaj, madhësinë e ekranit dritares së shfletuesit dhe rezolucionin e ekranit. Gjithashtu, grumbullojmë vendndodhjen tuaj dhe cilësimin e gjuhës në shfletuesin tuaj.
+
+[Mëso më tepër](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
