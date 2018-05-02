@@ -1,41 +1,38 @@
-# Terma Ligjore mbi Common Voice
+# Kushtet ligjore të “Common Voice” 
 
-Effective ⁨June 19, 2017⁩ {: datetime="2017-06-19" }
+Hyn në fuqi më 1 maj 2018 
+{: datetime="2018-05-01" }
 
-## Eligibility
+## Përshtatshmëria
 
-Duhet të jeni mbi 13 vjeç ose të keni miratimin dhe mbikëqyrjen e një prindi ose kujdestari të pjesëmarrjes tuaj në projektin tonë.
+Për të marrë pjesë në projektin tonë të zhvillimit në bashkëpunim, duhet të jeni mbi 19 vjeç ose të keni miratimin dhe mbikëqyrjen e pjesëmarrjes në të nga prindi ose kujdestari. Duke marrë pjesë, ju pranoni të respektoni edhe [“Udhëzimet e pjesëmarrjes në komunitetin 'Mozilla'”](https://www.mozilla.org/about/governance/policies/participation/). 
 
-## Privatësi
+## Kontributet tuaja dhe heqja dorë nga të drejtat
 
-[Shënimi ynë mbi Privatësinë](https://voice.allizom.org/privacy) shpjegon se si i grumbullojmë dhe trajtojmë të dhënat tuaja.
+Nëse dorëzoni tekst me shkrim ose regjistrime, ju i garantoni “Mozilla” se e keni shkruar vetë tekstin dhe se çdo regjistrim përmban zërin tuaj. Gjithashtu, i garantoni “Mozilla” se keni të drejtën të dorëzoni tekstin ose regjistrimin për përdorim në projektet publike në përputhje me licencën [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) dhe se teksti dhe regjistrimi nuk shkel të drejtat e palëve të treta. 
 
-## Kontributet Tuaja dhe Heqja Dorë Nga të Drejtat
+Duke dorëzuar tekstin e shkruar dhe regjistrimet zanore, hiqni dorë nga të gjitha të drejtat e autorit dhe të drejta të tjera që mund të keni mbi to, dhe pajtoheni me qarkullimin publik të tyre sipas kushteve të licencës [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Kjo do të thotë se bini dakord të hiqni dorë nga të gjitha të drejtat mbi tekstin dhe regjistrimet në gjithë botën sipas ligjit për të drejtat e autorit dhe bazën e të dhënave, duke përfshirë të drejtat morale dhe të reklamimit, si dhe të gjitha të drejtat përkatëse dhe afërta me to.
 
-Duke parashtruar incizimet tuaj, hiqni dorë nga krejt të drejtat e kopjimit dhe të drejta të tjera që mund të keni mbi to, dhe pajtoheni me hedhjen në qarkullim publik të tyre sipas kushteve të licencës [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Kjo do të thotë se jeni dakord të hiqni dorë nga krejt të drejtat mbi incizimet kudo në botë sipas ligjesh të drejtash kopjimi dhe bazash të dhënash, përfshi të drejta morale dhe publiciteti dhe nga krejt të dhënat e afërta dhe fqinje me to.
+## Komunikimet
 
-## Komunikime
-
-Nëse pajtoheni te buletinet tanë ose regjistroni një llogari për te Common Voice, mund të merrni prej nesh email-e lidhur me llogarinë tuaj (për shembull, njoftime lidhur me privatësinë, anë ligjore dhe sigurinë).
+Nëse abonoheni te buletinet tona ose regjistroheni për llogari në lidhje me “Common Voice”, mund të merrni prej nesh emaile lidhur me llogarinë tuaj (për shembull, përditësime ligjore, privatësi dhe sigurie).
 
 ## Të përgjithshme
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
+Mohimi i përgjegjësisë; Kufizimi i përgjegjësisë: “COMMON VOICE” DHE I GJITHË TEKSTI E REGJISTRIMET PËRKATËSE OFROHEN ASHTU SIÇ JANË PA GARANCI TË ASNJË LLOJI, QOFTË TË SHPREHUR APO TË NËNKUPTUAR. “MOZILLA” NUK KA ASNJË PËRGJEGJËSI APO DETYRIM PËR TEKSTET OSE REGJISTRIMET QË JU OSE ÇDO PËRDORUES TJETËR APO PALË E TRETË POSTONI OSE TRANSMETONI ME ANË TË “COMMON VOICE”. “MOZILLA” SPECIFIKISHT REFUZON TË GJITHA GARANCITË DHE KUSHTET E TREGTUESHMËRISË, PËRSHTATSHMËRINË PËR NJË QËLLIM TË CAKTUAR DHE MOSSHKELJEN DHE ÇDO GARANCI QË LIND GJATË TREGTIMIT OSE SHFRYTËZIMIT TË TREGTISË.
 
-MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+NË MASËN E LEJUAR NGA LEGJISLACIONI I ZBATUESHËM, JU PRANONI TË ÇLIRONI DHE TË MOS CENONI KORPORATËN “MOZILLA” DHE SHOQËRINË MËMË, DEGËT, FILIALET, DREJTORËT, NËPUNËSIT, PUNONJËSIT DHE AGJENTËT E SAJ (“PALËT E MOZILLA”), NGA ÇDO DETYRIM PËR DËMTIM, HUMBJE OSE VONESË (DUKE PËRFSHIRË LËNDIMIN PERSONAL, VDEKJEN OSE DËMTIMIN E PRONËS) QË SHKAKTOHET TËRËSISHT OSE PJESËRISHT, DREJTPËRDREJT OSE TËRTHORAZI NGA PJESËMARRJA JUAJ NË “COMMON VOICE”.
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+ME PËRJASHTIM TË RASTEVE KUR KËRKOHET ME LIGJ, “MOZILLA” DHE PALËT E “MOZILLA” NUK DO TË JENË PËRGJEGJËSE PËR ASNJË DËMTIM TË TËRTHORTË, TË VEÇANTË, TË RASTËSISHËM, PASUES OSE SHEMBULLOR QË LIND NGA OSE NË NDONJË MËNYRË LIDHET ME KËTO KUSHTE OSE PËRDORIMIN APO PAMUNDËSINË PËR TË PËRDORUR “COMMON VOICE”, DUKE PËRFSHIRË PA KUFIZIM DËMTIMET E DREJTPËRDREJTA DHE TË TËRTHORTA PËR HUMBJEN E EMRIT TË MIRË, NDALIMIN E PUNËS, FITIMET E HUMBURA, HUMBJEN E TË DHËNAVE DHE MOSFUNKSIONIMIN E KOMPJUTERIT, EDHE NËSE ËSHTË NJOFTUAR MBI MUNDËSINË E DËMTIMEVE DHE PAVARËSISHT TEORISË KU BAZOHET PRETENDIMI (NË BAZË TË KONTRATËS, DËMIT JASHTËKONTRAKTOR APO NJË SHKAKU TJETËR). PËRGJEGJËSIA E PËRBASHKËT E “MOZILLA” DHE E PALËVE TË SAJ SIPAS KËSAJ MARRËVESHJEJE NUK DO TË TEJKALOJË VLERËN 500 DOLLARË (PESËQIND DOLLARË). DISA JURIDIKSIONE NUK E LEJOJNË KUFIZIMIN OSE PËRJASHTIMIN NGA DËMTIMET E RASTËSISHME, PASUESE OSE TË VEÇANTA, PRA KY PËRJASHTIM DHE KUFIZIM MUND TË MOS ZBATOHET PËR JU.
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+## Përditësime 
 
-## Përditësime
+“Mozilla” mund t’i përditësojë herë pas here këto kushte për të trajtuar veçori të reja të “Common Voice” ose për të qartësuar ndonjë dispozitë. Kushtet e përditësuara do të publikohen në internet. Nëse ndryshimet janë thelbësore, përditësimin do ta bëjmë të ditur përmes kanaleve të zakonshme të “Mozilla” për njoftime të tilla, si postime blogu dhe forumesh. Vazhdimi i përdorimit të “Common Voice” pas hyrjes në fuqi të ndryshimeve shpreh pranimin tuaj të ndryshimeve të tilla. Në mënyrë që t’i shqyrtoni më mirë ato, ne do të postojmë një datë hyrjeje në fuqi në krye të kësaj faqeje.
 
-Mozilla mund t’i përditësojë herë pas here këto Kushte, për trajtimin e një veçorie të re të Shërbimit ose për të qartësuar ndonjë hollësi. Kushtet e përditësuara do të botohen në internet. Nëse ndryshimet janë thelbësore, përditësimin do ta bëjmë të ditur përmes kanaleve të zakonshëm të Mozilla-s -për njoftime të tilla, si postime blogjesh dhe forumesh. Vazhdimi i përdorimit të Shërbimeve pas hyrjes në fuqi të ndryshimeve përbën pranimin tuaj të ndryshimeve të tilla. Për ta bërë më të volitshëm shqyrtimin tuaj të tyre, do të postojmë një datë hyrjeje në fuqi në krye të kësaj faqeje.
+## Përfundimi 
 
-## Përfundim
+Ne mund ta pezullojmë ose anulojmë të drejtën tuaj të hyrjes në “Common Voice” në çdo kohë dhe për çfarëdo arsye. Do të bëjmë çdo përpjekje për t’ju njoftuar përmes adresës së emailit të lidhur me llogarinë tuaj ose herës tjetër që provoni të hyni te “Common Voice”. Pavarësisht anulimit, të gjitha regjistrimet që dorëzoni do të vazhdojnë të jenë në dispozicion të publikut.
 
-Mund ta pezullojmë ose përfundojmë hyrjen tuaj në Shërbimet në çfarëdo kohe, për çfarëdo arsyeje, do të bëjmë përpjekje të arsyeshme t’ju njoftojmë përmes adresës email përshoqëruar llogarisë tuaj ose herës tjetër që provoni të hyni te Shërbimet. Pavarësisht nga çfarëdo përfundimi, krejt incizimet që parashtroni te Mozilla do të vazhdojnë të jenë të përdorshme publikisht.
+## Ligji rregullues
 
-## Kuadër Ligjor i Zbatueshëm
-
-Këto Kushte Ligjore përbëjnë marrëveshjen e plotë mes jush dhe Mozilla-s lidhur me Common Voice dhe u nënshtrohen ligjeve të shtetit të Kalifornisë, ShBA.
+Këto kushte ligjore përbëjnë marrëveshjen e plotë ndërmjet jush dhe “Mozilla” në lidhje me “Common Voice” dhe u nënshtrohen ligjeve të shtetit të Kalifornisë, SHBA.
