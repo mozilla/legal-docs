@@ -1,18 +1,17 @@
-# Právne podmienky projektu Common Voice
+# Právne podmienky projektu Common Voice 
 
-Platné od ⁨19. júna 2017⁩ {: datetime="2017-06-19" }
+Účinné od 1. mája 2018
+{: datetime="2018-05-01" }
 
 ## Oprávnenosť
 
-Aby ste sa mohli zapojiť do nášho projektu, musíte byť starší ako 13 rokov alebo mať povolenie rodiča alebo opatrovníka, ktorý na vás musia počas participácie dozerať.
-
-## Súkromie
-
-Naše [zásady ochrany súkromia](https://voice.allizom.org/privacy) popisujú, ako vaše údaje prijímame a ako s nimi narábame.
+Musíte byť starší ako 13 rokov alebo mať povolenie rodiča alebo opatrovníka, ktorý na vás musia počas participácie dozerať. Zúčastnením sa tiež zaväzujete dodržiavať [Pokyny spoločnosti Mozilla pre účasť na komunite](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## Vaše príspevky a vzdanie sa práv
 
-Odoslaním vašich nahrávok sa vzdávate všetkých autorských práv a súvisiacich práv, ktoré môžete mať, a súhlasíte so zverejnením nahrávok v rámci licencie [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že súhlasíte so vzdaním sa všetkých práv ku nahrávkam a to celosvetovo, podľa autorského zákona a zákona o databázach, vrátane morálnych práv a práv na uvedenie zdroja a všetkých pridružených a súvisiacich práv.
+Ak odošlete písomný text alebo nahrávky, ubezpečujete sa, že ste napísali akýkoľvek textový obsah sami a že všetky nahrávky sú Common Voice. Uisťujete tiež, že máte právo odosielať text alebo nahrávku na použitie vo verejnom projekte pod licenciou [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) a že text alebo záznam neporušuje práva tretích strán. 
+
+Odoslaním písomného textu alebo zvukových nahrávok sa tiež vzdávate všetkých autorských práv a súvisiacich práv, ktoré v nich máte, a súhlasíte s tým, že uvoľníte písomný text alebo zvukové nahrávky verejnosti na základe licencie [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že súhlasíte s tým, že sa vzdávate všetkých práv na text a záznamy na celom svete podľa autorského práva a databázového práva vrátane morálnych a publicistických práv a všetkých súvisiacich a susedných práv.
 
 ## Komunikácia
 
@@ -20,22 +19,21 @@ Ak sa prihlásite na odber našich noviniek alebo si v súvislosti s projektom C
 
 ## Všeobecné
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
+Odvolanie; Obmedzenie zodpovednosti: COMMON VOICE A VŠETKY ZAHRNUTÉ TEXTY A ZÁZNAMY JSOU POSKYTOVANÉ "AKO JE", BEZ ZÁRUKY AKÉHOKOĽVEK DRUHU, ČI UŽ VÝSLOVNÉ ALEBO IMPLIKOVANÉ. MOZILLA NEPOSKYTUJE ŽIADNÚ ZODPOVEDNOSŤ A NEUMOŽÍVA ŽIADNU ZODPOVEDNOSŤ ZA ŽIADNY TEXT ALEBO ZÁZNAMY, KTORÉ VÁŠ ALEBO AKOKOĽVEK INÝ UŽÍVATEĽ ALEBO TRETEJ STRANY POSTÁLY ALEBO PRENÁJOM COMMON VOICE. MOZILLA OSOBITNE ODMIETA AKÉKOĽVEK A VŠETKY ZÁRUKY A PODMIENKY OBCHODOVATEĽNOSTI, VHODNOSTI NA KONKRÉTNY ÚČEL A NEPORUŠENIE PRÍPADU A ŽIADNE ZÁRUKY, KTORÉ VYPLÝVAJÚ Z POHĽADU SÚVISIACEHO ALEBO POUŽÍVANIA OBCHODU.
 
-MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+V ROZSAHU POVOLENOM PRÍSLUŠNÝMI ZÁKONMI SA SÚHLASÍTE, ŽE SPOLOČNOSŤ MOZILLA CORPORATION A JEJ PRÍSLUŠNÝ SUBJEKT, SPOLOČNOSTI, SPOLOČNOSTI, RIADITEĽOV, ÚRADNÍCI, ZAMESTNANCI A ZÁSTUPCOV ("MOZILLA STRANY") ALEBO ZA ŽIADNU ZODPOVEDNOSŤ ZA ŽIADNU ŠKODU , STRATY ALEBO ZPOŽDENIA (VRÁTANE OSOBNEJ ÚRAZU, ÚMRTIA ALEBO ŠKODY VLASTNÍCTVA) VYPLÝVAJÚCICH V CELKOM ALEBO ČIASTOROM, PRIAMO ALEBO NEPRIAMNE Z VÁŠHO ÚČASTI V COMMON VOICE.
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+S VÝNIMKOU ZÁKONA, MOZILLA A MOZILLA STRANY NEBUDÚ ZODPOVEDNÍ ZA AKÉKOĽVEK NEPRIAME, ZVLÁŠTNE, NÁHODNÉ, NÁSLEDNÉ ALEBO EXEMPLÁRNE ŠKODY VYPLÝVAJÚCE Z ALEBO AKÝKOĽVEK SPÔSOBOM TÝKAJÚCE SA TÝCHTO PODMIENOK ALEBO POUŽÍVANIA ALEBO NESCHOPNOSTI POUŽÍVAŤ COMMON VOICE, VRÁTANE BEZ OBMEDZENIA PRIAME A NEPRIAME ŠKODY ZA STRATU DOBRÉHO POVOLANIA, PRACOVNÉHO ZASTAVENIA, STRATY ZISKU, STRATY ÚDAJOV A POŠKODENIA ALEBO POŠKODENIA POČÍTAČA, A TO ANI V PRÍPADE, ŽE BOLA UPOZORNENÁ NA MOŽNOSŤ TAKÝCHTO ŠKÔD A V ZÁLEŽITOSTI TEÓRIE (ZMLUVY, PRÁVO ALEBO INAK) NA KTORÉ JE ZAKÁZANÁ TIETO NÁROK. KOLEKTÍVNA ZODPOVEDNOSŤ MOZILLA A MOZILLOVÝCH STRÁN PODĽA TEJTO DOHODY NEPREHLIADUJE 500 USD (PÁNOVÉ DOLÁRY). NIEKTORÉ JURISDIKCIE NEPOVOĽUJÚ VYLÚČENIE ALEBO OBMEDZENIE NÁHODNÝCH, NÁSLEDNÝCH ALEBO ŠPECIÁLNYCH ŠKÔD, KTORÉ NEMUSIA TÚTO VYLÚČENIE A OBMEDZENIE POUŽIŤ NA VÁS.
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+## Aktualizácie
 
-## Updates 
+Mozilla môže čas od času tieto Podmienky aktualizovať, aby sa zaoberala novou funkciou Common Voice alebo objasnila ustanovenie. Aktualizované Zmluvné podmienky budú zverejnené online. Ak sú zmeny podstatné, oznámime aktualizáciu prostredníctvom bežných kanálov Mozilly pre takéto oznámenia, ako sú blogové príspevky a fóra. Pokračovanie v používaní Common Voice po dátume účinnosti takýchto zmien predstavuje prijatie takýchto zmien. Ak chcete, aby vaša recenzia bola pohodlnejšia, budeme uverejňovať dátum účinnosti v hornej časti tejto stránky.
 
-Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla’s usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+## Ukončenie
 
-## Termination
 
-We may suspend or terminate your access to the Services at any time for any reason, we will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access the Services. Regardless of any termination, all recordings that you submit to Mozilla will continue to be publicly available.
+Môžeme z akéhokoľvek dôvodu pozastaviť alebo ukončiť prístup k službe Common Voice kedykoľvek, vynaložíme primerané úsilie na to, aby sme Vás upozornili na e-mailovú adresu priradenú k vášmu účtu alebo pri ďalšom pokuse o prístup k Common Voice. Bez ohľadu na akékoľvek ukončenie budú všetky nahrávky, ktoré odošlete spoločnosti Mozilla, verejne dostupné.
 
-## Governing Law
+## Vládny zákon
 
-These Legal Terms constitute the entire agreement between you and Mozilla concerning Common Voice and are governed by the laws of the state of California, U.S.A.
+Tieto právne podmienky tvoria celú dohodu medzi vami a spoločnosťou Mozilla týkajúcou sa Common Voice a riadia sa zákonmi štátu Kalifornia, USA.
