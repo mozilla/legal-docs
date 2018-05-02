@@ -1,41 +1,41 @@
-# Amodau Cyfreithiol Common Voice
+# Telerau Cyfreithiol Common Voice 
 
-Effective ⁨19 Mehefin 2017⁩ {: datetime="2017-06-19" }
+Yn effeithiol Mai 01, 2018
+{: datetime="2018-05-01" }
 
-## Cymhwyster
+## Cymhwysedd 
 
-Rhaid eich bod dros 13 oed neu fod â chaniatâd a chyfarwyddid eich rhiant neu geidwad i gymryd rhan yn ein project torfoli.
 
-## Preifatrwydd
+Er mwyn cymryd rhan yn ein prosiect torfoli, mae'n rhaid ichi fod dros 19 neu fod â chaniatâd eich rhiant neu warcheidwad i arolygu'ch cyfranogiad yn ein prosiect torfoli. Trwy gyfranogi, rydych chi hefyd yn cytuno i gadw at [Ganllawiau Cyfranogi Cymuned Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
-Mae ein [Hysbysiad Preifatrwydd](https://voice.allizom.org/privacy) yn esbonio sut rydym yn derbyn a thrin eich data.
+## Eich Cyfraniadau a Rhyddhad Hawliau 
 
-## Eich Cyfraniad a Ryddhad Hawliau
 
-Drwy gyflwyno eich recordiadau, rydych yn hepgor eich holl hawliau hawlfraint a chysylltiedig ac rydych yn cytuno i ryddhau'r recordiadau i'r cyhoedd o dan drwydded [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Mae hyn yn golygu eich bod yn hepgor pob hawl i'r recordiadau o dan gyfreithiau hawlfraint a chronfeydd data byd eang, gan gynnwys hawliau moesol a chyhoeddusrwydd a phob hawl perthynol a chysylltiedig.
+Os ydych chi'n cyflwyno testun ysgrifenedig neu recordiadau, rydych chi'n sicrhau Mozilla eich bod wedi ysgrifennu unrhyw gynnwys testun eich hun a bod unrhyw recordiad yn eich llais chi'ch hun. Gallwch hefyd sicrhau Mozilla bod gennych chi'r hawl i gyflwyno'r testun neu recordiad at ddefnydd prosiect cyhoeddus o dan y [drwydded CC-0](https://creativecommons.org/publicdomain/zero/1.0/) ac nid yw'r testun neu recordiad yn amharu ar unrhyw hawliau trydydd parti. 
+ 
 
-## Cyfathrebu
+Trwy gyflwyno'ch testun ysgrifenedig neu recordiau sain, rydych hefyd yn hepgor pob hawlfraint a hawliau cysylltiedig y gall bod gennych ynddynt, ac yn cytuno i ryddhau'r testun ysgrifenedig neu recordiadau sain i'r cyhoedd o dan [drwydded CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Mae hyn yn golygu eich bod yn cytuno i hepgor pob hawl i'r testun a recordiadau a draws y byd i'r testun a'r recordiadau o dan gyfraith hawlfraint a chronfa ddata a phob hawl cysylltiedig a pherthynol.
 
-Os fyddwch yn tanysgrifio i dderbyn ein cylchlythyron neu yn cofrestru am gyfrif mewn cysylltiad â Common Voice, gallwch fod yn derbyn e-byst gennym ni mewn perthynas â'ch cyfrif (e.e. cyfreithiol, preifatrwydd a diweddariadau diogelwch).
+## Cyfathrebiadau
+
+Os ydych chi'n tanysgrifio i dderbyn ein cylchlythyron neu'n cofrestru am gyfrif mewn perthynas â Common Voice, fe allwch chi dderbyn e-byst gennym ni mewn perthynas â'ch cyfrif (er enghraifft, diweddiadau cyfreithiol, preifatrwydd a diogelwch).
 
 ## Cyffredinol
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE.
+Ymwadiad, Cyfyngiad ar Atebolrwydd: DARPERIR COMMON VOICE A PHOB TESTUN A RECORDIAD A GYNHWYSIR AR SAIL “FEL Y MAE” HEB WARANT O UNRHYW FATH, A YW'N DDATGANEDIG NEU'N YMHLYG. NID YW MOZILLA YN CYMRYD UNRHYW GYFRIFOLDEB AM AC NID YW'N DERBYN UNRHYW GYFRIFOLDEB AM UNRHYW DESTUN NEU RECORDIADAU YR YDYCH CHI NEU UNRHYW DDEFNYDDIWR ARALL NEU DRYDYDD PARTI YN EI GYHOEDDI NEU DROSGLWYDDO TRWY DDEFNYDDIO COMMON VOICE.  YN BENODOL, MAE MOZILLA YN GWADU UNRHYW A PHOB WARANT AC AMOD O FARSIANDÏAETH, ADDASRWYDD AT BWRPAS ARBENNIG, AC AN-DOR RHEOL, AC AM UNRHYW WARANT YN CODI ALLAN O DDELIO Â NEU DDEFNYDD MASNACH.
 
-MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+CYN BELLED Â CHANIATEIR GAN Y GYFRAITH BERTHNASOL, RYDYCH CHI'N CYTUNO I RYDDHAU A DAL MOZILLA CORPORATION A'I RIANT, IS-GWMNÏAU, CWMNÏAU CYSWLLT, CYFARWYDDWYR, SWYDDOGION, CYFLOGEION, AC ASIANTAU (Y “PARTÏON MOZILLA”), O UNRHYW A PHOB CYFRIFOLDEB AM UNRHYW NIWED, COLLED NEU OEDI (GAN GYNNWYS NIWED PERSONOL, MARWOLAETH, NEU DDIFROD I EIDDO) SY'N ARWAIN YN GYFAN GWBL NEU'N RHANNOL, YN UNIONGYRCHOL NEU'N  ANUNIONGYRCHOL, I'CH CYFRANOGIAD YN COMMON VOICE
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+HEBLAW AM SYDD YN OFYNNOL O DAN Y GYFRAITH, NI FYDD MOZILLA A'R PARTÏON MOZILLA YN GYFRIFOL AM UNRHYW IAWNDAL ANUNIONGYRCHOL, ARBENNIG, CANLYNIADOL, NEU GOSBEDIGAETHOL SY'N CODI O NEU MEWN UNRHYW FFORDD YN GYSYLLTIEDIG Â'R TELERAU HYN NEU DDEFNYDD NEU ANALLU DEFNYDDIO COMMON VOICE, GAN GYNNWYS HEB GYFYNGIAD IAWNDAL UNIONGYRCHOL NEU ANUNIONGYRCHOL AM GOLLI EWYLLYS DA, GWAITH YN STOPIO, ELW WEDI EI GOLLI, COLLI DATA, A METHIANT NEU DDIFFYG GWEITHREDU CYFRIFIADUROL HYD YN OED PE CYNGHORID O'R POSIBILRWYDD O IAWNDAL O'R FATH A WAETH BETH FO'R THEORI (CONTRACT, CAMWEDD NEU FEL ARALL) Y SEILIR CAIS O'R FATH. NI FYDD CYFRIFOLDEB CYFUNOL MOZILLA A'R PARTÏON MOZILLA  O DAN Y CYTUNDEB HWN YN FWY NA $500 (PUM CANT O DDOLERI). NID YW RHAI SOME AWDURDODAETHAU'N CANIATÁU'R EITHRIO NEU GYFYNGU AR IAWNDAL DAMWEINIOL, CANLYNOL NEU ARBENNIG, FELLY, MAE'N BOSIBL NA FYDD YR EITHRIAD A'R CYFYNGIAD HWN YN BERTHNASOL ICHI.
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+## Diweddariadau 
 
-## Diweddariadau
-
-O bryd i'w gilydd gall fod Mozilla yn diweddaru'r Amodau i gyfarch nodwedd newydd o'r Gwasanaeth neu i amlygu darpariaeth. Bydd yr amodau diwygiedig yn caei eu gosod ar-lein. Os yw'r newid yn sylweddol, byddwn yn cyhoeddi'r diweddariad drwy sianeli arferol Mozilla ar gyfer cyhoeddiadau o'r fath, megis cofnod blog a fforwm. Bydd eich defnydd parhaol o'r Gwasanaeth wedi dyddiad effeithiol y newidiadau yn dangos eich bod yn derbyn y newidiadau hynny. I wneud eich adolygiad yn fwy cyfleus, byddwn yn nodi dyddiad y newid ar frig y dudalen hon.
+Gall Mozilla ddiweddaru'r Telerau hyn o bryd i'w gilydd i ateb nodwedd newydd o Common Voice neu i egluro darpariaeth. Cyhoeddir y Telerau wedi eu diweddaru ar-lein. Os yw'r newidiadau'n sylweddol, byddwn yn cyhoeddi'r diweddariad drwy sianelau arferol Mozilla am gyhoeddiadau o'r fath fel negesau blog a fforymau. Mae'ch defnydd o Common Voice arôl y dydd effeithiol o newidiadau o'r fath yn golygu'ch bod chi'n derbyn newidiadau o'r fath. I wneud eich adolygiad yn fwy hwylus, byddwn yn cyhoeddi dyddiad effeithiol ar frig y dudalen hon.
 
 ## Terfynu 
 
-Gallwn atal neu derfynu eich mynediad i'r Gwasanaethau ar unrhyw adeg ac unrhyw reswm, byddwn yn gwneud ymgais resymol i gysylltu â chi drwy'r cyfeiriad e-bost sy'n gysylltiedig â'ch cyfrif neu'r tro nesaf i chi geisio cael mynediad i'r Gwasanaeth. Beth bynnag am unrhyw derfynu, bydd pob recordiad rydych wedi eu cyflwyno yn dal i fod ar gael yn gyhoeddus.
+Gallwn ohirio neu derfynu'ch mynediad i Common Voice ar unrhyw adeg am unrhyw reswm, fe fyddwn yn gwneud ymdrechion rhesymol i'ch hysbysu trwy'r cyfeiriad e-bost sy'n gysylltiedig â'ch cyfrif o'r amser nesaf rydych yn ceisio cael mynediad at Common Voice. Er gwaethaf unrhyw derfynu, bydd pob recordiad rydych yn eu cyflwyno i Mozilla yn parhau i fod ar gael yn gyhoeddus.
 
-## Cyfraith Llywodraethol
+## Cyfraith Lywodraethol
 
-Mae'r Amodau Cyfreithiol hyn yn cynnwys yr holl gytundeb rhyngoch chi a Mozilla ynghylch Common Voice ac yn cael eu llywodraethu gan gyfreithiau talaith California, UDA.
+Mae'r Telerau Cyfreithiol hyn yn cynnwys yr holl gytundeb rhyngoch chi a Mozilla mewn perthynas â Common Voice ac fe'u llywodraethir gan gyfreithiau talaith California, U.D.A.
