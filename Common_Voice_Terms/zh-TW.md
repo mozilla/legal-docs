@@ -5,7 +5,7 @@
 
 ## 適用性
 
-如果要參與我們的群眾外包專案，您必須已滿 19 週歲，或已取得您的家長或監護人的同意，並在其監督之下才能參與我們的群眾外包專案。若要參加，則您也必須同意遵守 [Mozilla 社群參與指南](https://www.mozilla.org/about/governance/policies/participation/)規範。 
+如果要參與我們的群眾外包專案，您必須已滿 19 週歲，或已取得您的家長或監護人的同意，並在其監督之下才能參與我們的群眾外包專案。若要參加，則您也必須同意遵守 [Mozilla 社群參與指南](https://www.mozilla.org/about/governance/policies/participation/) 規範。 
 
 ## 您的貢獻與權利放棄聲明
 
