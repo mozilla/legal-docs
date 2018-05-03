@@ -1,11 +1,11 @@
 # Juridische voorwaarden van Common Voice 
 
-Datum inwerkingtreding: 1 mei 2018
+Datum van inwerkingtreding: 1 mei 2018
 {: datetime="2018-05-01" }
 
 ## Geschiktheid
 
-Als u deel wilt nemen aan ons project voor crowdsourcing, moet u ouder zijn dan 19 jaar of toestemming of toezicht van uw ouder of voogd hebben om aan ons crowdsourcingproject deel te nemen. Door deel te nemen gaat u ook akkoord met de [richtlijnen van Mozilla voor deelname door de community](https://www.mozilla.org/about/governance/policies/participation/). 
+Als u wilt deelnemen aan ons project voor crowdsourcing, moet u ouder zijn dan 19 jaar of toestemming of toezicht van uw ouder of voogd hebben om aan ons crowdsourcingproject deel te nemen. Door deel te nemen gaat u ook akkoord met de [richtlijnen van Mozilla voor deelname door de gemeenschap](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## Uw bijdragen en vrijgave van rechten
 
@@ -19,7 +19,7 @@ Als u zich inschrijft om onze nieuwsbrieven te ontvangen of een account registre
 
 ## Algemeen
 
-Disclaimer; beperkte aansprakelijkheid: COMMON VOICE EN ALLE OPNAMEN EN TEKST WORDEN AANGEBODEN OP BASIS VAN ‘ALS IS’ ZONDER ENIGE GARANTIE, EXPLICIET OF IMPLICIET. MOZILLA NEEMT GEEN VERANTWOORDELIJKHEID EN ACCEPTEERT GEEN AANSPRAKELIJKHEID VOOR ENIGERLEI OPNAMEN OF TEKST DIE U OF EEN ANDERE GEBRUIKER OF DERDE PARTIJ PLAATST OF VERZENDT MET COMMON VOICE. MOZILLA WIJST NADRUKKELIJK ALLE GARANTIE EN VOORWAARDEN VAN VERHANDELBAARHEID, GESCHIKTHEID VOOR EEN SPECIFIEK DOEL EN NIET-INBREUK AF, EVENALS ALLE GARANTIE DIE VOORTKOMT UIT HANDEL OF GEBRUIK VAN HET GEBODENE.
+Disclaimer; beperkte aansprakelijkheid: COMMON VOICE EN ALLE OPNAMEN EN TEKST WORDEN AANGEBODEN OP BASIS VAN ‘ALS IS’ ZONDER ENIGE GARANTIE, EXPLICIET OF IMPLICIET. MOZILLA NEEMT GEEN VERANTWOORDELIJKHEID EN ACCEPTEERT GEEN AANSPRAKELIJKHEID VOOR ENIGERLEI OPNAME OF TEKST DIE U OF EEN ANDERE GEBRUIKER OF DERDE PARTIJ PLAATST OF VERZENDT MET COMMON VOICE. MOZILLA WIJST NADRUKKELIJK ALLE GARANTIE EN VOORWAARDEN VAN VERHANDELBAARHEID, GESCHIKTHEID VOOR EEN SPECIFIEK DOEL EN NIET-INBREUK AF, EVENALS ALLE GARANTIE DIE VOORTKOMT UIT HANDEL OF GEBRUIK VAN HET GEBODENE.
 
 VOOR ZOVER TOEGESTAAN ONDER TOEPASSELIJK RECHT ACCEPTEERT U DE VRIJGAVE EN VRIJWAART U DE MOZILLA CORPORATION EN HAAR MOEDERMAATSCHAPPIJ, ONDERGESCHIKTE BEDRIJVEN, GERELATEERDE BEDRIJVEN, DIRECTIE, UITVOERENDEN, MEDEWERKERS EN AGENTEN (DE ‘MOZILLA-PARTIJEN’) VAN ALLE AANSPRAKELIJKHEID VOOR SCHADE, VERLIES OF VERTRAGING (WAARONDER PERSOONLIJK LETSEL, OVERLIJDEN OF EIGENDOMSSCHADE) GEHEEL OF GEDEELTELIJK RESULTEREND, RECHTSTREEKS OF INDIRECT, UIT UW DEELNAME AAN COMMON VOICE.
 
