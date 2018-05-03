@@ -4,7 +4,7 @@ Datum inwerkingtreding: 1 mei 2018 {: datetime="2018-05-01" }
 
 ## Privacy
 
-Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons[Mozilla-privacybeleid](https://www.mozilla.org/privacy) hoe we met die informatie omgaan.
+Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy) hoe we met die informatie omgaan.
 
 * **Demografische gegevens.** U kunt ons optioneel gegevens sturen zoals uw accent, leeftijd en geslacht. Dit helpt ons en andere onderzoekers spraak-naar-tekst-technologie en -hulpmiddelen te maken en verbeteren.
 
