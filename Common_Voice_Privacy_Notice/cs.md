@@ -1,10 +1,10 @@
-# Zásady ochrany soukromí projektu Common Voice 
+# Zásady ochrany osobních údajů projektu Common Voice
 
 Účinné od 1. května 2018 {: datetime="2018-05-01" }
 
-## Soukromí
+## Osobní údaje
 
-Když Mozilla (tedy my) získává informace od vás, naše [Zásady ochrany soukromí popisují](https://www.mozilla.org/privacy), jak s těmito daty nakládáme.
+Když Mozilla (tedy my) získává informace od vás, naše [Zásady ochrany osobních údajů](https://www.mozilla.org/privacy) popisují, jak s těmito daty nakládáme.
 
 * **Demografická data.** Dobrovolně nám můžete odeslat informace, jako jsou váš přízvuk, věk a pohlaví. To pomáhá nám a ostatním výzkumníkům zlepšovat a vytvářet technologie a nástroje pro převod řeči na text.
 
@@ -12,7 +12,7 @@ Když Mozilla (tedy my) získává informace od vás, naše [Zásady ochrany sou
 
 * **Hlasové nahrávky.** Hlasové nahrávky, spolu s jakýmikoli demografickými daty, mohou být dostupné v databázi Common Voice pro veřejné využití.
 
-* **Text.** Pokud nám zašlete písemné věty, můžeme je rovněž poskytnout v databázi Common Voice pro veřejnou potřebu a používání. Tyto věty nebudeme spojovat s vámi zaslanými demografickými údaji. 
+* **Text.** Pokud nám zašlete písemné věty, můžeme je rovněž poskytnout v databázi Common Voice pro veřejnou potřebu a používání. Tyto věty nebudeme spojovat s vámi zaslanými demografickými údaji.
 
 * **Data o interakci.** Používáme Google Analytics, abychom lépe pochopili, jak pracujete s aplikací nebo webem Common Voice. To zahrnuje například počet zvukových nahrávek, které jste nahráli nebo poslechli, interakce s tlačítky a nabídkami nebo délku relace.
 
