@@ -1,14 +1,14 @@
 # Privacyverklaring van Common Voice 
 
-Datum inwerkingtreding: 1 mei 2018 {: datetime="2018-05-01" }
+Datum van inwerkingtreding: 1 mei 2018 {: datetime="2018-05-01" }
 
 ## Privacy
 
 Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy) hoe we met die informatie omgaan.
 
-* **Demografische gegevens.** U kunt ons optioneel gegevens sturen zoals uw accent, leeftijd en geslacht. Dit helpt ons en andere onderzoekers spraak-naar-tekst-technologie en -hulpmiddelen te maken en verbeteren.
+* **Demografische gegevens.** U kunt ons optioneel gegevens sturen zoals uw accent, leeftijd en geslacht. Dit helpt ons en andere onderzoekers spraak-naar-tekst-technologie en -hulpmiddelen te maken en te verbeteren.
 
-* **E-mailgegevens.** U kunt optioneel een account maken of u abonneren op onze nieuwsbrief, in welk geval we uw e-mailadres ontvangen. Dit wordt aan uw demografische en interactiegegevens gekoppeld, maar niet openbaar gemaakt.
+* **E-mailgegevens.** U kunt optioneel een account aanmaken of zich abonneren op onze nieuwsbrief, in welk geval we uw e-mailadres ontvangen. Dit wordt aan uw demografische en interactiegegevens gekoppeld, maar niet openbaar gemaakt.
 
 * **Stemopnamen.** Stemopnamen kunnen, samen met gerelateerde demografische gegevens, in de Common Voice-database beschikbaar zijn voor openbaar gebruik.
 
@@ -18,4 +18,4 @@ Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons [Mozill
 
 * **Technische gegevens.** Met behulp van Google Analytics verzamelen we de URL en de titel van de door u bezochte Common Voice-pagina’s. We verzamelen uw browser, venstergrootte en schermresolutie. We verzamelen ook uw locatie en de taalinstelling van uw browser.
 
-[Meer informatie](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Meer info](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
