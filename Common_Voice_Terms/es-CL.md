@@ -5,7 +5,7 @@ Vigentes desde el 1 de mayo de 2018
 
 ## Elegibilidad
 
-Para participar en nuestro proyecto de crowd-sourcing, debes tener más de 19 años o consentimiento y supervisión de tu padre, madre o tutor durante tu participación en nuestro proyecto de crowd-sourcing. Al participar, aceptas adherir a las [Pautas de participación en la comunidad de Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
+Para participar en nuestro proyecto de crowd-sourcing, debes tener más de 19 años o consentimiento y supervisión de tu padre, madre o tutor durante tu participación en nuestro proyecto de crowd-sourcing. Al participar, aceptas adherir a las [Pautas para la participación en la comunidad de Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## Tus contribuciones y cesión de derechos
 
@@ -19,7 +19,7 @@ Si te suscribes para recibir nuestro boletín o te registras para tener una cuen
 
 ## General
 
-Descargo de responsabilidad; Limitación de responsabilidad: COMMON VOICE Y TODOS LOS TEXTOS Y LAS GRABACIONES INCLUIDAS SON PROPORCIONADOS "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA. MOZILLA NO SE RESPONSABILIZA NI ASUME NINGUNA RESPONSABILIDAD POR LOS TEXTOS O LAS GRABACIONES QUE TÚ O CUALQUIER OTRO USUARIO O TERCEROS PUBLIQUEN O TRANSMITAN USANDO COMMON VOICE. MOZILLA NIEGA Y DESCONOCE ESPECÍFICAMENTE TODAS Y CADA UNA DE LAS GARANTÍAS Y CONDICIONES DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN, Y CUALQUIER OTRA GARANTÍA QUE SURJA DE LAS PRÁCTICAS O COSTUMBRES COMERCIALES.
+Renuncia de responsabilidad; Limitación de responsabilidad: COMMON VOICE Y TODOS LOS TEXTOS Y LAS GRABACIONES INCLUIDAS SON PROPORCIONADOS "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA. MOZILLA NO SE RESPONSABILIZA NI ASUME NINGUNA RESPONSABILIDAD POR LOS TEXTOS O LAS GRABACIONES QUE TÚ O CUALQUIER OTRO USUARIO O TERCEROS PUBLIQUEN O TRANSMITAN USANDO COMMON VOICE. MOZILLA NIEGA Y DESCONOCE ESPECÍFICAMENTE TODAS Y CADA UNA DE LAS GARANTÍAS Y CONDICIONES DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN, Y CUALQUIER OTRA GARANTÍA QUE SURJA DE LAS PRÁCTICAS O COSTUMBRES COMERCIALES.
 
 EN LA MEDIDA QUE PERMITA LA LEY APLICABLE, ACEPTAS MANTENER LA INDEMNIDAD DE MOZILLA CORPORATION Y DE SUS RESPECTIVAS(OS) EMPRESAS MATRICES, SUBSIDIARIAS, FILIALES, DIRECTORES, FUNCIONARIOS, EMPLEADOS Y AGENTES (LAS "PARTES DE MOZILLA") FRENTE A CUALQUIER RESPONSABILIDAD POR DAÑOS, PÉRDIDAS O RETRASOS (INCLUIDAS LAS LESIONES PERSONALES, LA MUERTE O EL DAÑO A LA PROPIEDAD) QUE RESULTEN ENTERAMENTE O EN PARTE, DIRECTA O INDIRECTAMENTE, DE TU PARTICIPACIÓN EN COMMON VOICE.
 
