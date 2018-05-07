@@ -16,6 +16,6 @@ Pan mae Mozilla (sef, ni) yn derbyn gwybodaeth gennych chi, mae'n [Polisi Preifa
 
 * **Data rhyngweithio.** Rydym ni'n defnyddio Google Analytics i ddeall yn well sut rydych chi'n rhyngweithio gydag ap neu wefan Common Voice. Er enghraifft, mae hyn yn cynnwys nifer o samplau llais rydych chi'n eu recordio neu wrando arnynt, rhyngweithio â botymau a dewislenni, hyd sesiynau.
 
-* **Data technegol.** Trwy ddefnyddio Google Analytics, rydym yn casglu'r URL a'r teitl o'r tudalennau Common Voice rydych chi'n ymweld â nhw. Rydym ni'n casglu'ch porwr, maint golwg y sgrîn, a chydraniad y sgrîn. Rydym ni hefyd yn casglu'ch lleoliad, a gosodiadau iaith eich porwr.
+* **Data technegol.** Trwy ddefnyddio Google Analytics, rydym yn casglu'r URL a'r teitl o'r tudalennau Common Voice rydych chi'n ymweld â nhw. Rydym ni'n casglu'ch porwr, maint golwg y sgrin, a chydraniad y sgrin. Rydym ni hefyd yn casglu'ch lleoliad, a gosodiadau iaith eich porwr.
 
-[Dysgwch mwy](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Dysgwch ragor](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
