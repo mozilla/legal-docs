@@ -1,60 +1,60 @@
-## <span class="privacy-header-firefox-rocket">Firefox Rocket</span> <span class="privacy-header-policy">Privacy Notice</span>
+## <span class="privacy-header-firefox-rocket">Firefox Rocket</span> <span class="privacy-header-policy">隐私声明</span>
 
-November 7, 2017
+2017年11月7日
 {: datetime="2017-11-07" }
 
-## At Mozilla, we believe that privacy is fundamental to a healthy internet.
+## 在 Mozilla, 我们坚信隐私安全是健康互联网环境的基础。
 
-That’s why we build Firefox Rocket, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve Rocket for everyone.
+这正是我们为什么构建Firefox Rocket和我们所有产品的原因，为了用户能更好地控制在线分享的信息以及与我们分享的信息。我们尽量只收集改进Rocket所需要的信息。
  
-In this Privacy Notice, we explain what data Rocket shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Rocket.
+在本隐私声明中，我们解释了Rocket会共享哪些数据，并引导您使用可以尽量少共享数据的设置。对于如何接收、处理和共享从Rocket收集的信息，我们也会遵守Mozilla [隐私政策中所](https://www.mozilla.org/privacy/) 隐私政策中所述的做法。
 
-## Firefox Rocket by default shares data to:
+## 默认情况下，Firefox Rocket出于以下目的共享数据：
 
-### Improve performance and stability for users everywhere
+### 为任何地点的用户改进性能和稳定性
 
-* __Interaction data__: Rocket sends data about your interactions with Rocket to us (number of webpages visited; and session length) and Rocket features offered by Mozilla or our partners (such as interaction with Rocket search features and search partner referrals).
+* __交互数据__: Rocket会向我们发送有关您与Rocket互动的数据（访问的网页数量和会话长度），以及Mozilla或我们的合作伙伴提供的Rocket功能（例如借助Rocket搜索功能和搜索合作伙伴推荐实现的互动）。
 
-* __Technical data__: Rocket sends data about your Rocket version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us.  When Rocket sends data to us, your IP address is temporarily collected as part of our server logs.  
+* __技术数据__: Rocket会发送以下数据：您的Rocket版本和语言；设备操作系统和硬件配置；内存，关于崩溃和错误的基本信息；自动化过程（如更新）的结果，以及激活信息。当Rocket向我们发送数据时，您的IP地址将暂时作为服务器日志的一部分收集。  
 
-Read detailed documentation for Rocket [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)阅读Rocket的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
 {: #telemetry }
 
-### Suggest relevant content
+### 建议相关内容
 
-Rocket displays content, such as Top Sites (websites suggested by Mozilla for first-time Rocket users).
+Rocket会显示内容，例如热门网站（由Mozilla为Rocket新用户推荐的网站）。
 
-* __Technical & Interaction data__: Rocket sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Rocket's suggested content. This includes the number of times suggested content is displayed or clicked.
+* __技术数据和互动数据__: Rocket会向我们发送我们所建议内容的位置、大小和定位等数据，以及与Rocket建议内容交互的基本数据。这包括建议内容显示或被点击的次数。
 
 
-### Measure and support our marketing
+### 衡量并配合我们的营销活动
 
-* __Referral and Campaign Data__: To help improve our marketing campaigns, Rocket may use “Referral Data” such as the website domain or advertising campaign that referred you to download and install Rocket. This data is kept by our analytics vendor and provided when you start Rocket, and also includes an iOS Vendor ID or Google advertising ID, timestamp, country, locale, operating system, and app version.
+* __推荐和营销活动数据__: 为了帮助改善我们的营销活动，Rocket可能会使用网站域名或广告活动等“推荐数据”来推荐您下载并安装Rocket。这些数据由我们的分析供应商保存，并在您启动Rocket时提供，并且还包含iOS供应商ID或Google广告ID、时间戳、国家/地区、语言环境、操作系统和应用程序版本。
 
-Learn more about [Referral and Campaign Data](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking), or how to [opt-out](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) of this data collection.
+详细了解[推荐和营销活动数据](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking)或如何[退出](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)此数据收集。
 
 ---
 
-## If you use these features, Rocket will share data to provide functionality:  {: #optional-features }
+## 如果您使用以下这些功能，Rocket将共享数据以提供功能： {: #optional-features }
 
-### Search
+### 搜索
 
-You can perform searches directly from the search bar in Rocket.  _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  
+您可以直接从Rocket的搜索栏执行搜索。  _Mozilla不会收到您的搜索查询。_ 查询数据将发送到您的搜索提供商，该提供商有自己的隐私政策。  
 
-* __Search Suggestions__: Rocket by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+* __搜索建议__: 默认情况下，Rocket会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。如果您选择的搜索提供商不支持搜索建议，则不会发送这些数据。
 {: #searchsuggestions }
     
-### Location {: #location-services }
+### 位置 {: #location-services }
 
-* __Location data to Google's geolocation service__: Rocket always asks before determining and sharing your location with a requesting website (for example, if a map website needs your location to provide directions).  To determine location, Rocket may use your operating system’s geolocation features, Wi-fi networks, cell phone towers, or IP address, and may send this data to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
+* __发送定位数据到谷歌的地理位置服务__: 在确定您的位置并共享给请求的网站之前，Rocket始终会询问（例如，当某个地图网站需要您的位置以提供路线指示时）。为了确定位置，Rocket可能会使用您的操作系统的地理位置功能、Wi-Fi网络、手机信号塔或IP地址，并可能会将此数据发送给Google的地理定位服务，该服务有自己[的隐私政策](https://www.google.com/privacy/lsf.html).
 
-[Learn more](https://www.mozilla.org/firefox/geolocation/).
+[了解更多](https://www.mozilla.org/firefox/geolocation/).
 
 ---
 
-### Footnote
+### 脚注
 
-This privacy notice is for the most recent general release version of Rocket distributed by Mozilla.  If you obtain Rocket elsewhere, or are running an older version, your copy of Rocket may contain different privacy characteristics.  
+本隐私声明适用于Mozilla发布的Rocket最新通用版本。如果您是从其他地方获得Rocket或正在运行旧版本，则您的Rocket版本可能包含不同的隐私规定。  
 {: #pre-release }
 
-Mozilla’s pre-release versions of Rocket (which are distributed through channels such as Nightly, Beta, Google Play, and BuddyBuild) are under active development and may contain different privacy characteristics.
+Mozilla的预发布版Rocket（通过诸如Nightly、Beta、Google Play和BuddyBuild等渠道分发）正在积极开发中，可能包含不同的隐私规定。
