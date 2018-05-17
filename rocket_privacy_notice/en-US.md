@@ -1,6 +1,7 @@
 ## <span class="privacy-header-firefox-rocket">Firefox Rocket</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-May 11, 2018 {: datetime="2018-5-11" }
+May 11, 2018
+{: datetime="2018-5-11" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
