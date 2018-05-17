@@ -1,6 +1,7 @@
 ## <span class="privacy-header-firefox-rocket">Pemberitahuan Privasi</span> <span class="privacy-header-policy">Firefox Rocket</span>
 
-11 Mei 2018 {: datetime="2018-5-11" }
+11 Mei 2018
+{: datetime="2018-5-11" }
 
 ## Di Mozilla, kami yakin bahwa privasi sangat penting untuk menciptakan internet yang sehat.
 
