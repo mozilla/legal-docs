@@ -17,8 +17,7 @@
 
 * __技术数据__: Rocket会发送以下数据：您的Rocket版本和语言；设备操作系统和硬件配置；内存，关于崩溃和错误的基本信息；自动化过程（如更新）的结果，以及激活信息。当Rocket向我们发送数据时，您的IP地址将暂时作为服务器日志的一部分收集。  
 
-[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)阅读Rocket的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
-{: #telemetry }
+[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)阅读Rocket的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。 {: #telemetry }
 
 ### 建议相关内容
 
@@ -41,8 +40,7 @@ Rocket会显示内容，例如热门网站（由Mozilla为Rocket新用户推荐�
 
 您可以直接从Rocket的搜索栏执行搜索。  _Mozilla不会收到您的搜索查询。_ 查询数据将发送到您的搜索提供商，该提供商有自己的隐私政策。  
 
-* __搜索建议__: 默认情况下，Rocket会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。如果您选择的搜索提供商不支持搜索建议，则不会发送这些数据。
-{: #searchsuggestions }
+* __搜索建议__: 默认情况下，Rocket会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。如果您选择的搜索提供商不支持搜索建议，则不会发送这些数据。 {: #searchsuggestions }
     
 ### 位置 {: #location-services }
 
@@ -54,7 +52,6 @@ Rocket会显示内容，例如热门网站（由Mozilla为Rocket新用户推荐�
 
 ### 脚注
 
-本隐私声明适用于Mozilla发布的Rocket最新通用版本。如果您是从其他地方获得Rocket或正在运行旧版本，则您的Rocket版本可能包含不同的隐私规定。  
-{: #pre-release }
+本隐私声明适用于Mozilla发布的Rocket最新通用版本。如果您是从其他地方获得Rocket或正在运行旧版本，则您的Rocket版本可能包含不同的隐私规定。  {: #pre-release }
 
 Mozilla的预发布版Rocket（通过诸如Nightly、Beta、Google Play和BuddyBuild等渠道分发）正在积极开发中，可能包含不同的隐私规定。

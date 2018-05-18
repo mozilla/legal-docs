@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Rocket shares and point you to sett
 
 * __Technical data__: Rocket sends data about your Rocket version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Rocket sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read detailed documentation for Rocket [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or turn off “Send Usage Data” in your Settings. {:#telemetry }
+Read detailed documentation for Rocket [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or turn off “Send Usage Data” in your Settings. {: #telemetry }
 
 ### Suggest relevant content
 
