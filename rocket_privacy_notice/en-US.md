@@ -17,7 +17,8 @@ In this Privacy Notice, we explain what data Rocket shares and point you to sett
 
 * __Technical data__: Rocket sends data about your Rocket version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Rocket sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read detailed documentation for Rocket [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or turn off “Send Usage Data” in your Settings. {: #telemetry }
+Read detailed documentation for Rocket [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or turn off “Send Usage Data” in your Settings.
+{: #telemetry }
 
 ### Suggest relevant content
 
@@ -43,7 +44,8 @@ To help us improve performance, support crashes, understand your experience with
 
 You can perform searches directly from the search bar in Rocket. _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.
 
-* __Search Suggestions__: Rocket by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions. {: #searchsuggestions }
+* __Search Suggestions__: Rocket by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+{: #searchsuggestions }
     
 ### Location {: #location-services }
 
