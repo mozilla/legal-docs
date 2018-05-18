@@ -17,7 +17,7 @@ Dalam Kebijakan Privasi ini, kami menjelaskan apa saja data yang dibagikan Rocke
 
 * __Data teknis__: Rocket mengirimkan data tentang versi dan bahasa Rocket Anda; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang kerusakan dan kesalahan; hasil proses otomatis seperti pembaruan dan aktivasi kepada kami.  Saat Rocket mengirimkan data kepada kami, alamat IP Anda akan sementara dikumpulkan sebagai bagian dari log server kami.  
 
-Baca dokumen selengkapnya untuk Rocket [di sini](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda. {:#telemetry }
+Baca dokumen selengkapnya untuk Rocket [di sini](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda. {: #telemetry }
 
 ### Menyarankan konten yang relevan
 
@@ -43,7 +43,7 @@ Untuk membantu kami meningkatkan kinerja, memberikan dukungan terkait kerusakan,
 
 Anda bisa melakukan pencarian langsung dari bilah pencarian di Rocket.  _Mozilla tidak menerima kueri pencarian Anda._ Data kueri dikirim ke penyedia pencarian Anda, yang memiliki kebijakan privasi sendiri.  
 
-* __Saran Pencarian__: Rocket secara baku mengirimkan kueri pencarian kepada penyedia pencarian Anda untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Data ini tidak akan dikirimkan jika penyedia pencarian yang Anda pilih tidak mendukung saran pencarian.{: #searchsuggestions }
+* __Saran Pencarian__: Rocket secara baku mengirimkan kueri pencarian kepada penyedia pencarian Anda untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Data ini tidak akan dikirimkan jika penyedia pencarian yang Anda pilih tidak mendukung saran pencarian. {: #searchsuggestions }
     
 ### Lokasi  {: #location-services }
 
