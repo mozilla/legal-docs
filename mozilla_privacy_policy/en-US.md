@@ -1,7 +1,7 @@
 # Mozilla Privacy Policy
 
-April 15, 2014
-{: datetime="2014-04-15" }
+May 25, 2018
+{: datetime="2018-05-55" }
 
 Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. You can also read our product privacy notices and FAQs to get more detail with respect to each of our products and services. 
 
@@ -25,6 +25,8 @@ We learn information about you when:
 ## What do we do with your information once we have it?
 
 When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+
+For users in the EU, EEA, and Switzerland: see [here](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) for more information.
 
 ## When do we share your information with others?
 
