@@ -1,7 +1,7 @@
 ﻿# Mozilla-Datenschutzerklärung
 
-15\. April 2014
-{: datetime="2014-04-15" }
+25. Mai 2018
+{: datetime="2018-05-25" }
 
 Der Schutz Ihrer Daten ist für uns ein wichtiges Anliegen und Mozilla (das sind wir) nimmt diesen Schutz bei der Entwicklung aller unserer Produkte und Dienste ernst. Wir verpflichten uns zu Transparenz und Offenheit. In dieser Mozilla Datenschutzrichtlinie wird deshalb erläutert, wie wir Daten erheben und was wir mit den erhobenen Daten machen, sobald sie in unserem Besitz sind. Sie können sich auch die Datenschutzhinweise und häufig gestellten Fragen zu unseren Produkten durchlesen, um weitere Informationen zu unseren einzelnen Produkten und Diensten zu erfahren. 
 
@@ -25,6 +25,8 @@ Wir erhalten Ihre Daten, wenn:
 ## Was machen wir mit Ihren Daten, wenn wir sie erhalten haben?
 
 Wenn Sie uns personenbezogene Daten übermitteln, werden wir diese so nutzen, wie Sie es uns erlaubt haben. Generell nutzen wir Ihre Daten dazu, Ihnen unsere Produkte und Dienste zur Verfügung zu stellen und diese zu verbessern.
+
+Für Benutzer in der EU, im EWR und der Schweiz: [hier](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) finden Sie weitere Informationen.
 
 ## Unter welchen Umständen geben wir Ihre Daten an Dritte weiter?
 
