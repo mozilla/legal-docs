@@ -1,7 +1,7 @@
 ﻿# Mozillan tietosuojakäytäntö
 
-15\. huhtikuuta, 2014
-{: datetime="2014-04-15" }
+25.5.2018
+{: datetime="2018-05-25" }
 
 Yksityisyytesi on tärkeä tekijä, jonka Mozilla (siis me) ottaa huomioon kunkin tuotteen ja palvelun kehittämisessä. Sitoudumme toimimaan läpinäkyvästi ja avoimesti. Tässä Mozillan tietosuojakäytännössä selitetään yleisesti, miten saamme sinua koskevia tietoja sekä mitä teemme kyseisillä tiedoilla saatuamme ne. Voit myös lukea tuotteidemme tietosuojalausekkeet sekä usein kysytyt kysymykset saadaksesi tarkempia tietoja eri tuotteistamme ja palveluistamme. 
 
@@ -25,6 +25,8 @@ Saamme sinua koskevia tietoja, kun:
 ## Mitä teemme tiedoillasi saatuamme ne?
 
 Kun annat meille tietoja, käytämme niitä siihen tarkoitukseen, johon sinä olet meille antanut luvan niiden käyttämiseen. Yleisesti ottaen käytämme tietojasi voidaksemme tarjota tuotteitamme ja palvelujamme sekä parantaaksemme niitä.
+
+Käyttäjille EU:n ja ETA:n maissa ja Sveitsissä: katso [tästä](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) lisätietoja.
 
 ## Milloin jaamme tietojasi muille?
 
