@@ -1,7 +1,7 @@
 ﻿# Politica de confidențialitate a Mozilla
 
-15 aprilie 2014
-{: datetime="2014-04-15" }
+25 mai 2018
+{: datetime="2018-05-25" }
 
 Confidențialitatea dvs. este un factor important de care Mozilla (adică noi) ține seama în cadrul dezvoltării fiecăruia dintre produsele și serviciile noastre. Ne angajăm să fim transparenți și deschiși. Această politică de confidențialitate a Mozilla explică în linii mari modul în care primim informația despre dvs. și ce facem cu ea în momentul în care o deținem. Puteți citi, de asemenea, politicile noastre de confidențialitate privind produsele și întrebările frecvente pentru a vă face o imagine mai amplă asupra fiecăruia dintre produsele și serviciile noastre. 
 
@@ -25,6 +25,8 @@ Aflăm informații despre dvs. atunci când:
 ## Ce facem cu informațiile dvs. după ce intrăm în posesia lor?
 
 Atunci când ne furnizați informații, noi le utilizăm în scopurile pentru care ne-ați acordat permisiunea dvs. În general, informațiile dvs. sunt folosite de noi pentru a vă putea oferi produsele și serviciile noastre și pentru a le îmbunătăți pentru dvs.
+
+Pentru locuitorii din UE, SEE și Elveția: aflați mai multe informații [aici](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Când partajăm informațiile dvs. cu alții?
 
