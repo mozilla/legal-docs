@@ -1,7 +1,7 @@
 ﻿# Pravilnik o zasebnosti družbe Mozilla
 
-15\. april 2014
-{: datetime="2014-04-15" }
+25.5.2018
+{: datetime="2018-05-25" }
 
 Vaša zasebnost je pomemben dejavnik, ki ga družba Mozilla (to smo mi) upošteva pri razvoju vsakega od izdelkov in storitev. Zavezani smo transparentnosti in odprtosti.  Ta Pravilnik o zasebnosti družbe Mozilla na splošno razloži, kako prejemamo informacije o vas, ter kaj s temi informacijami naredimo, ko jih imamo.  Za več podrobnosti glede vsakega od naših izdelkov in storitev si lahko preberete tudi naša obvestila o zasebnosti za izdelke ter pogosto postavljena vprašanja. 
 
@@ -25,6 +25,8 @@ Informacije o vas dobim, kadar:
 ## Kaj naredimo z vašimi informacijami, ko jih imamo?
 
 Kadar nam daste informacije, jih bomo uporabili na načine, za katere ste nam dali dovoljenje. Na splošno uporabljamo vaše informacije za to, da nam pomagajo priskrbeti izdelke in storitve za vas in jih izboljšati.
+
+Za uporabnike v EU, EGP in Švici: glejte [tu](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) za več informacij.
 
 ## Kdaj vaše informacije delimo z drugimi?
 
