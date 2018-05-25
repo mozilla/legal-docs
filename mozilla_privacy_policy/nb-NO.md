@@ -1,7 +1,7 @@
 ﻿# Mozillas retningslinjer for personvern
 
-15\. april 2014
-{: datetime="2014-04-15" }
+25. mai 2018
+{: datetime="2018-05-25" }
 
 Ditt personvern er en viktig faktor som Mozilla (vi) tar hensyn til i utviklingen av alle våre produkter og tjenester. Vi er opptatt av å være klare og åpne. Mozillas retningslinjer for personvern gir en generell forklaring på hvordan vi mottar informasjon om deg, og hva vi gjør med den etter at vi har fått den. Du kan også lese varsler om personvern og vanlige spørsmål vedrørende våre produkter for å få nærmere informasjon når det gjelder alle våre produkter og tjenester. 
 
@@ -25,6 +25,8 @@ Vi får vi tak i informasjon om deg når:
 ## Hva vi gjør med denne informasjonen etter at vi har fått den?
 
 Når du gir oss informasjon, vil vi bruke den i henhold til det du har gitt oss tillatelse til å gjøre med den. Vi bruker vanligvis informasjonen din som en hjelp til å levere og forbedre våre produkter og tjenester til deg.
+
+For brukere innen EU, EØS og Sveits: Se [her](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) for mer informasjon.
 
 ## Når deler vi informasjonen din med andre?
 
