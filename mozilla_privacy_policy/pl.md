@@ -1,7 +1,7 @@
 ﻿# Polityka prywatności Mozilla
 
-15 kwietnia 2014 r\.
-{: datetime="2014-04-15" }
+25 maja 2018 r.
+{: datetime="2018-05-25" }
 
 Prywatność użytkowników, to ważny czynnik, który firma Mozilla (to my) bierze pod uwagę przy opracowywaniu produktów i usług. Staramy się zachować transparentność i otwartość. Polityka prywatności Mozilla wyjaśnia w sposób ogólny, jak otrzymujemy informacje o użytkownikach i co robimy z nimi, gdy już je mamy. Więcej informacji dotyczących poszczególnych produktów i usług można znaleźć w ich zasadach prywatności i zbiorach często zadawanych pytań. 
 
@@ -25,6 +25,8 @@ Informacje na temat Użytkownika są zbierane:
 ## Do czego Mozilla wykorzystuje zebrane informacje?
 
 Otrzymane informacje osobowe Mozilla wykorzystuje wyłącznie w celu, na który Użytkownik wyraził zgodę. Generalnie, informacje o Użytkowniku są wykorzystywane w celu zapewnienia i udoskonalania produktów i usługi Mozilla.
+
+Użytkownicy w UE, EOG i Szwajcarii: więcej informacji można znaleźć [tutaj](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Kiedy Mozilla przekazuje informacje podmiotom trzecim?
 
