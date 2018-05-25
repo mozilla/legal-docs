@@ -1,7 +1,7 @@
 ﻿# Zásady Mozilly pro ochranu osobních údajů
 
-15\. dubna 2014
-{: datetime="2014-04-15" }
+25. května 2018
+{: datetime="2018-05-25" }
 
 Vaše soukromí představuje důležitý faktor, k němuž společnost Mozilla (tedy my) přihlíží při vývoji každého z našich produktů a služeb. Náš závazek je být transparentní a otevření. Tyto zásady ochrany osobních údajů obecně vysvětlují jak získáváme informace o vás a co s těmito informacemi po jejich získání děláme. Můžete si rovněž přečíst naše zásady ochrany ochranu osobních údajů pro produkt a nejčastější dotazy, kde získáte podrobnější informace týkající se našich jednotlivých produktů a služeb.
 
@@ -25,6 +25,8 @@ Pokud uchováváme vaše osobní údaje společně s neosobními, považujeme ta
 ## Co děláme s vašimi údaji ve chvíli, kdy je získáme?
 
 Když nám poskytnete své osobní údaje, budeme je používat způsoby, ke kterým jste nám poskytli svolení. Obecně vaše údaje používáme, aby nám pomohly nabízet vám a zlepšovat pro vás naše produkty a služby.
+
+Pro uživatele v EU,  EHP a ve Švýcarsku: viz [zde](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) pro podrobnější informace.
 
 ## Kdy vaše údaje sdílíme s ostatními?
 
