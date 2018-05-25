@@ -1,7 +1,7 @@
 ﻿# Mozilla Privacybeleid
 
-15 april 2014
-{: datetime="2014-04-15" }
+20 mei 2018
+{: datetime="2018-05-25" }
 
 Uw privacy is een belangrijke factor waar Mozilla (dat zijn wij) rekening mee houdt bij de ontwikkeling van al onze producten en services. We zetten ons in om transparant en open te zijn. In dit Mozilla Privacybeleid wordt in algemene bewoordingen uitgelegd hoe wij gegevens over u ontvangen en wat we met die gegevens doen wanneer we die in ons bezit hebben. Ook kunt u de privacymededelingen van elk product en onze Veelgestelde vragen lezen om meer te weten te komen over onze producten en services. 
 
@@ -25,6 +25,8 @@ We komen aan gegevens over u als:
 ## Wat doen we met uw gegevens wanneer we daar over beschikken?
 
 Wanneer u ons gegevens geeft, gebruiken wij die op de manieren waarvoor u ons toestemming hebt gegeven. Over het algemeen gebruiken we uw gegevens om ons te helpen onze producten en services aan u te leveren en verbeteren.
+
+Voor gebruikers in de EU, EER en Zwitserland: klik [hier](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) voor meer informatie.
 
 ## Wanneer delen we uw gegevens met anderen?
 
