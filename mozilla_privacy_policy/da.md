@@ -1,7 +1,7 @@
 ﻿# Mozillas privatlivspolitik
 
-15\. april 2014
-{: datetime="2014-04-15" }
+25. maj 2018
+{: datetime="2018-05-25" }
 
 Dit privatliv er en vigtig faktor som Mozilla (det er os) tager i betragtning når vi udvikler hver enkelt af vores produkter og ydelser. Vi forpligter os til at være transparente og åbne. Denne privatlivspolitik for Mozilla forklarer som udgangspunkt hvordan vi modtager oplysninger om dig, og hvad vi gør med disse oplysninger når vi har dem. Du kan også læse vores meddelelse om beskyttelse af personlige oplysninger for de enkelte produkter og hyppigt stillede spørgsmål for at finde nærmere oplysninger om hver enkelt af vores produkter eller ydelser. 
 
@@ -25,6 +25,8 @@ Vi får oplysninger om dig når:
 ## Hvad gør vi med dine oplysninger, når vi har dem?
 
 Når du giver os oplysninger, bruger vi dem på måder, som du har givet os tilladelse til. Som udgangspunkt bruger vi oplysningerne til at hjælpe os med at levere og forbedre vores produkter og ydelser til dig.
+
+For brugere i EU, EØS og Schweiz: se [her](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) for yderligere information.
 
 ## Hvornår deler vi dine oplysninger med andre?
 
