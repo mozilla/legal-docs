@@ -1,7 +1,7 @@
 ﻿# Zásady ochrany súkromia spoločnosti Mozilla
 
-15\. apríla 2014
-{: datetime="2014-04-15" }
+5. mája 2018
+{: datetime="2018-05-25" }
 
 Vaše súkromie predstavuje významný faktor, ktorý spoločnosť Mozilla (teda my) zohľadňuje pri vývoji všetkých našich produktov a služieb. Zaviazali sme sa, že budeme vystupovať transparentne a otvorene. Tieto Zásady ochrany súkromia spoločnosti Mozilla vysvetľujú, ako získavame informácie o vás a čo s nimi robíme, keď ich získame. Môžete si prečítať aj naše oznámenie o ochrane súkromia a najčastejšie otázky, kde nájdete podrobnejšie informácie týkajúce sa našich jednotlivých produktov a služieb. 
 
@@ -25,6 +25,8 @@ Informácie o vás získavame, keď:
 ## Čo robíme s vašimi informáciami, keď ich získame?
 
 Keď nám poskytnete informácie, budeme ich používať spôsobom, pre ktorý ste nám poskytli súhlas. Vo všeobecnosti využívame vaše informácie, aby nám pomohli poskytovať a vylepšovať naše produkty a služby pre vás.
+
+Pre používateľov v EU, EHP a vo Švajčiarsku: pre podrobnejšie informácie pozrite [sem](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Kedy poskytujeme vaše informácie ostatným?
 
