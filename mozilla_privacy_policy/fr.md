@@ -1,7 +1,7 @@
 ﻿# Politique de confidentialité de Mozilla
 
-15 avril 2014
-{: datetime="2014-04-15" }
+25 mai 2018
+{: datetime="2018-05-25" }
 
 Votre confidentialité constitue un facteur important dont Mozilla (nous) se soucie dans le développement de ses produits et services. Nous nous engageons à être transparents et ouverts. Cette Politique de confidentialité de Mozilla explique comment nous recevons vos informations et ce que nous en faisons une fois qu’elles sont en notre possession. Vous pouvez également consulter nos avis de confidentialité de produits et nos FAQ. 
 
@@ -25,6 +25,8 @@ Nous prenons connaissance d’informations vous concernant dans les situations s
 ## Que faisons-nous avec vos informations une fois obtenues ?
 
 Lorsque vous nous donnez des informations personnelles, nous les utilisons conformément aux autorisations que vous nous avez fournies. De manière générale, nous utilisons vos informations pour nous permettre de vous offrir de nouveaux produits et services et/ou d’améliorer les existants.
+
+Pour les utilisateurs de l’UE, de l’EEE et de Suisse : voir [ici](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) pour plus d’informations.
 
 ## Dans quels cas partageons-nous vos informations avec d’autres ?
 
