@@ -1,7 +1,7 @@
 ﻿# Mozilla Pravila privatnosti
 
-15\. april, 2014
-{: datetime="2014-04-15" }
+25. maj 2018.
+{: datetime="2018-05-25" }
 
 Vaša privatnost je važan faktor koji Mozilla (to smo mi) razmatra prilikom razvoja svakog od svojih proizvoda i usluga. Posvećeni smo transparentnosti i otvorenosti. Ova Pravila privatnosti kompanije Mozilla generalno objašnjavaju kako dobijamo podatke o Vama i šta radimo s tim podacima kada ih dobijemo. Takođe, možete pročitati obaveštenja o privatnosti proizvoda i najčešća pitanja da biste dobili više informacija o svakom od naših proizvoda i usluga. 
 
@@ -25,6 +25,8 @@ Podatke o Vama saznajemo na sledeće načine:
 ## Šta radimo sa Vašim podacima kada ih dobijemo?
 
 Kada nam date svoje lične podatke, mi ćemo ih koristiti na način za koji ste nam dali odobrenje. Uopšteno, koristimo Vaše podatke kako bi nam pomogle u pružanju i poboljšanju svojih proizvoda i usluga Vama.
+
+Za korisnike u EU, EEP i Švajcarskoj: pogledajte [ovde](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) za više informacija.
 
 ## Kada delimo Vaše podatke sa drugima?
 
