@@ -1,7 +1,7 @@
 ﻿# Mozilla privaatsuspoliitika
 
-15\. aprill 2014
-{: datetime="2014-04-15" }
+25. Mai 2018
+{: datetime="2018-05-25" }
 
 Teie privaatsus on väga oluline ning Mozilla (s.t meie) võtab seda arvesse kõigi oma toodete ja teenuste arendamisel. Me püüdleme läbipaistvuse ja avatuse poole. Selles Mozilla privaatsuspoliitikas selgitatakse üldiselt, kuidas me teie kohta teavet kogume ja mida me saadud teabega teeme. Täpsemat teavet kõigi meie toodete ja teenuste kohta saate lugeda meie toodete privaatsusavaldustest ja KKK-st. 
 
@@ -25,6 +25,8 @@ Me saame teie kohta teavet, kui:
 ## Mida me teeme teie käest saadud andmetega?
 
 Kui edastate meile oma andmed, kasutame neid sellistel viisidel, mille jaoks olete meile loa andnud. Üldiselt kasutame teie andmeid selleks, et pakkuda teile oma tooteid ja teenuseid ning muuta neid paremaks.
+
+Lisateave EL-i, EMP ja Šveitsi kasutajatele on saadaval [siin](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Millal jagame teie andmeid teistega?
 
