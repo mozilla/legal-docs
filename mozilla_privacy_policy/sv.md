@@ -1,7 +1,7 @@
 ﻿# Mozillas sekretesspolicy
 
-15 april 2014
-{: datetime="2014-04-15" }
+25 maj, 2018
+{: datetime="2018-05-25" }
 
 Din integritet är en viktig faktor som Mozilla (alltså vi) tar hänsyn till i utvecklingen av alla våra produkter och tjänster. Vi strävar efter att vara tydliga och öppna. Mozillas sekretesspolicy förklarar hur vi får information om dig och vad vi gör med informationen när vi har fått den. Du kan också läsa våra meddelanden om produktsekretess samt vanliga frågor för att få veta mer om våra olika produkter och tjänster. 
 
@@ -25,6 +25,8 @@ Vi får reda på information om dig när:
 ## Vad gör vi med din information när vi har fått den?
 
 När du ger oss information, använder vi den på det sätt som du har gett oss tillstånd att göra. Generellt sett använder vi din information för att hjälpa oss tillhandahålla och förbättra produkter och tjänster åt dig.
+
+För användare inom EU, EES och Schweiz: se mer information [här](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## När delar vi din information med andra?
 
