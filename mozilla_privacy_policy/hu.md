@@ -1,7 +1,7 @@
 ﻿# Mozilla Adatvédelmi Szabályzat
 
-2014\. április 15\.
-{: datetime="2014-04-15" }
+2018. május 25.
+{: datetime="2018-05-25" }
 
 Az Ön személyes adatainak védelme fontos, ezért azt Mi, a Mozilla minden egyes termékünk és szolgáltatásunk kifejlesztésénél figyelembe vesszük. Elkötelezettek vagyunk amellett, hogy tevékenységünk átlátható és nyitott legyen. A Mozilla Adatvédelmi Szabályzata elmagyarázza, hogy általában hogyan kapjuk meg az Önnel kapcsolatos információkat, és hogy mit kezdünk ezzel az információval, amint megkapjuk. Termékeink adatvédelmi szabályaiból és a GYIK részből még több információt tudhat meg az egyes termékeinkről és szolgáltatásainkról. 
 
@@ -25,6 +25,8 @@ Személyes adatait akkor szerezhetjük meg, amikor:
 ## Milyen célokra használjuk személyes adatait?
 
 Amikor Ön információkat oszt meg velünk, azokat mindig arra használjuk fel, amire Ön engedélyt adott. Általában az információi segítségével biztosítjuk és fejlesztjük termékeinket és szolgáltatásainkat az Ön számára.
+
+EU, EGT és svájci felhasználók: további információ [itt](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Mikor továbbítjuk személyes adatait másoknak?
 
