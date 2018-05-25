@@ -1,7 +1,7 @@
 ﻿# Informativa sulla privacy di Mozilla
 
-15 aprile 2014
-{: datetime="2014-04-15" }
+25 maggio 2018
+{: datetime="2018-05-25" }
 
 La privacy è un aspetto importante di cui Mozilla (noi) tiene conto nello sviluppo di ciascuno dei propri prodotti e servizi. Mozilla si impegna a essere trasparente e aperta. La presente Informativa sulla privacy di Mozilla descrive come vengono ricevute le informazioni dagli utenti e come vengono utilizzate una volta acquisite. Per ulteriori informazioni relative a prodotti e servizi specifici, è inoltre possibile consultare le informative sulla privacy e le domande frequenti (FAQ) dei singoli prodotti e servizi. 
 
@@ -25,6 +25,8 @@ Mozilla acquisisce dati sull’utente:
 ## Una volta acquisiti i dati dell’utente, in che modo vengono utilizzati da Mozilla?
 
 Quando l’utente fornisce a Mozilla dati personali, essi vengono utilizzati nei modi per i quali l’utente ha espresso il proprio consenso. In generale, Mozilla utilizza i dati dell’utente per fornire e migliorare i propri prodotti e servizi.
+
+Per utenti di Unione Europea, Area Economica Euroepa e Svizzera: ulteriori informazioni accessibili [qui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## In quali casi Mozilla condivide con altri le informazioni dell’utente?
 
