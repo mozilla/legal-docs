@@ -1,25 +1,23 @@
 # Condizioni d’uso
 
-Si proibisce l'utilizzo di qualsiasi servizio di Mozilla per:
+Si proibisce l’utilizzo di qualsiasi servizio di Mozilla per:
 
-* Qualsiasi attività illegale o altrimenti in violazione delle leggi applicabili.
-* Minacciare, molestare altre persone o violare il loro diritto alla privacy; inviare comunicazioni non richieste; intercettare, monitorare o modificare comunicazioni non destinate all’utente.
-* Violare le linee guida sulla partecipazione alla Comunità di Mozilla (per ulteriori informazioni consultare <https://www.mozilla.org/about/governance/policies/participation/>)
-* Danneggiare gli utenti mediante l’utilizzo di virus, spyware o malware, worm, cavalli di troia, bombe a orologeria o altro codice potenzialmente dannoso.
-* Raccogliere informazioni d’identificazione personale, inclusi, senza limitazioni, nomi di account o indirizzi email.
-* Impegnarsi in qualsiasi attività che interferisca con i servizi e prodotti di Mozilla o ne interrompa il funzionamento o l’efficacia (o quella dei server e delle reti connesse ai servizi di Mozilla).
-* Riprodurre, duplicare, copiare, vendere, scambiare o rivendere i servizi o i prodotti di Mozilla per qualsiasi scopo.
-* Violare il copyright, il marchio commerciale o ledere i diritti di proprietà intellettuale di terze parti.
-* Caricare, scaricare, trasmettere, visualizzare o concedere l’accesso a contenuti:
-    * Di natura illegale o che promuovano attività illegali.
-    * Non appropriati, quali materiali osceni o pornografici, descrizioni esplicite di atti sessuali o violenti, oppure immagini di sfruttamento o violenza su minori.
-    * Che ledano i diritti di chiunque, inclusi il diritto di proprietà intellettuale o altri diritti di proprietà, o diritti relativi alla privacy e alla divulgazione.
-    * Ingannevoli, fuorvianti, fraudolenti oppure realizzati con finalità di phishing o di altri tipi di violazione dell’identità.
-    * Finalizzati a promuovere il gioco d’azzardo.
-    * Che pubblicizzino o promuovano prodotti o servizi controllati o illegali.
-    * Finalizzati a umiliare, intimidire, incitare violenza o incoraggiare azioni pregiudizievoli contro persone o gruppi sulla base di età, genere, razza, etnia, nazionalità, religione, orientamento sessuale, disabilità, posizione geografica o altra categoria protetta o che costituiscano un incitamento all’odio.
-    * Che inducano erroneamente un utente a decidere di acquistare un prodotto.
+* Qualsiasi attività illegale o altrimenti in violazione delle leggi applicabili
+* Minacciare, molestare altre persone o violare il loro diritto alla privacy; inviare comunicazioni non richieste; intercettare, monitorare o modificare comunicazioni non destinate all’utente
+* Danneggiare gli utenti mediante l’utilizzo di virus, spyware o malware, worm, cavalli di troia, bombe a orologeria o altri codici o istruzioni potenzialmente dannosi
+* Raggirare, ingannare, frodare, adescare oppure commettere o tentare di commettere furti di identità
+* Partecipare a o promuovere scommesse illegali
+* Umiliare, intimidire, incitare violenza o incoraggiare azioni pregiudizievoli contro persone o gruppi sulla base di età, genere, razza, etnia, nazionalità, religione, orientamento sessuale, disabilità, posizione geografica o altra categoria protetta
+* Sfruttare o fare del male a minori
+* Vendere, acquistare o pubblicizzare servizi o prodotti illegali o controllati
+* Caricare, scaricare, trasmettere, visualizzare o concedere l’accesso a contenuti che includono descrizioni esplicite di atti sessuali o violenti
+* Acquisire o raccogliere informazioni di identificazione personale senza il consenso degli interessati, inclusi, senza limitazioni, nomi di account e indirizzi email
+* Impegnarsi in qualsiasi attività che interferisca con i servizi e prodotti di Mozilla o ne interrompa il funzionamento o l’efficacia (o quella dei server e delle reti connesse ai servizi di Mozilla)
+* Violare copyright, marchi commerciali, brevetti o ledere i diritti di proprietà intellettuale di terze parti
+* Violare i diritti relativi alla privacy o alla divulgazione di altre persone.
 
-Questo elenco ha fini puramente illustrativi, non è definitivo e può essere aggiornato.
+Si proibisce l’utilizzo di qualsiasi servizio di Mozilla in violazione dei Termini di servizio, delle Condizioni d’uso o di una qualsiasi altra licenza applicabile al servizio in questione. Si proibisce inoltre di vendere, rivendere o duplicare qualsiasi prodotto o servizio di Mozilla senza l’autorizzazione scritta di Mozilla.
 
-Mozilla si riserva il diritto di rimuovere qualsiasi contenuto o sospendere qualsiasi utente che violi le presenti condizioni o i termini di servizio del prodotto applicabile.
+Questo elenco ha fini puramente esemplificativi, non è definitivo e può essere periodicamente aggiornato. Mozilla si riserva il diritto di rimuovere qualsiasi contenuto o sospendere qualsiasi utente che violi le presenti condizioni.
+
+Si rimanda inoltre l’utente alle [linee guida sulla partecipazione alla Comunità](https://www.mozilla.org/about/governance/policies/participation/) di Mozilla, che regolano la partecipazione alle comunità di Mozilla.
