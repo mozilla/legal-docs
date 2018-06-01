@@ -37,12 +37,6 @@ Following is a list of directories in this repository and either their URL count
     * https://www.mozilla.org/en-US/privacy/firefox-os/
 * /firefox_privacy_notice
     * https://www.mozilla.org/en-US/privacy/firefox/
-* /marketplace_developer_agreement
-    * https://marketplace.firefox.com/developers/docs/policies/agreement?lang=en-US
-* /marketplace_privacy_policy
-    * https://marketplace.firefox.com/privacy-policy?lang=en-US
-* /marketplace_terms_of_use
-    * https://marketplace.firefox.com/terms-of-use?lang=en-US
 * /mozilla_privacy_policy
     * https://www.mozilla.org/en-US/privacy/
 * /websites_privacy_notice
