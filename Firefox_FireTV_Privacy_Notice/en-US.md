@@ -10,7 +10,8 @@ To learn more about how we receive and handle information, read the [Mozilla Pri
 
 ## Things you should know 
 
-Mozilla receives data by default to help us improve Firefox. {: #data-default }
+Mozilla receives data by default to help us improve Firefox. 
+{: #data-default }
 
 * **Technical Data**: We receive basic information about your device and Firefox, such as OS and browser version, basic information about crashes and errors, and system timezone and locale.
 
@@ -18,12 +19,14 @@ Mozilla receives data by default to help us improve Firefox. {: #data-default }
 
     Read the documentation or learn how to [opt-out](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) of this data collection.
 
-Mozilla also receives data to display relevant content. {: #data-display }
+Mozilla also receives data to display relevant content. 
+{: #data-display }
 
 * **Language/Region**: Firefox receives your designated language/region from Amazon to suggest relevant content, including Pocket Recommendations.
 
 * **Technical & Interaction data**: Firefox sends Mozilla data such as the the number of times suggested content is displayed or clicked. The suggested tiles on the Firefox home screen sometimes uses Amazon CloudFront to direct the user to the optimized version of the requested content. 
 
-Voice commands use Amazon’s Alexa. {: #Alexa }
+Voice commands use Amazon’s Alexa. 
+{: #Alexa }
 
 * **Voice Commands**: When you use voice commands to control Firefox, Amazon receives and interprets your voice data to carry out your instructions. Amazon’s Alexa has its own privacy notice, which you can find [here](https://www.alexa.com/help/privacy).  
