@@ -155,5 +155,4 @@ You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox 
 This privacy notice is for the most recent general release version of Firefox distributed by Mozilla.  If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.  
 {: #pre-release }
 
-Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, TestFlight and BuddyBuild) are under active development and may contain different privacy characteristics. 
-
+Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, Developer Edition and TestFlight) are development platforms frequently updated with experimental features and studies.  In addition to the data collection described in this Privacy Notice, these versions by default may send certain types of web activity and crash data to Mozilla and in some cases to our partners.  Any data collection or sharing adheres to our [Firefox data collection policy](https://wiki.mozilla.org/Firefox/Data_Collection) and we will always be transparent and provide you with controls.
