@@ -18,4 +18,4 @@ Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de pri
 
 * **Dades tècniques.** Mitjançant Google Analytics, recollim l'URL i el títol de les pàgines de Common Voice que visiteu. Recopilem el navegador, la mida de la finestra i la resolució de la pantalla. També recollim la vostra ubicació i la configuració de la llengua del navegador.
 
-[Més informació] (https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Més informació](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
