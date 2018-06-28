@@ -4,7 +4,7 @@ Vigent des de l'1 de maig de 2018 {: datetime = "2018-05-01"}
 
 ## Privadesa
 
-Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de privadesa de Mozilla] (https://www.mozilla.org/privacy) descriu com gestionem aquesta informació.
+Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de privadesa de Mozilla](https://www.mozilla.org/privacy) descriu com gestionem aquesta informació.
 
 * **Dades demogràfiques**. Opcionalment, podeu enviar-nos informació, com ara l'accent, l'edat i el sexe. Això ens ajuda, i també a altres investigadors, a millorar i crear tecnologies i eines de veu a text.
 
