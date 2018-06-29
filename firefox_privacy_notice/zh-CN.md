@@ -155,5 +155,5 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使
 本隐私声明适用于由 Mozilla 发布的 Firefox 最新一般发行版本。如果您从其他地方获得 Firefox，或者运行旧版，您的 Firefox 副本可能包含不同的隐私特性。
 {: #pre-release }
 
-Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、TestFlight 和 BuddyBuild 等渠道发布）正在积极的开发中，可能包含不同的隐私特性。
+Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 和 TestFlight 等渠道发布）都是经常更新实验特征和研究的开发平台。除了本隐私声明中说明的数据收集之外，这些版本在默认情况下会向 Mozilla 发送某些类型的 web 活动和崩溃数据（有时也向我们的合作伙伴发送）。任何数据收集或分享均遵循我们的 [Firefox 数据收集政策](https://wiki.mozilla.org/Firefox/Data_Collection)，我们将永远保持透明态度并为您提供控制措施。
 
