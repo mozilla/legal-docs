@@ -155,4 +155,5 @@ Vous pouvez installer des modules complémentaires à partir du site addons.mozi
 Cette politique de confidentialité concerne la version générale la plus récente de Firefox distribuée par Mozilla. Si vous installez Firefox autrement que par le biais de Mozilla ou que vous utilisez une version plus ancienne, certaines caractéristiques de confidentialité peuvent être différentes.
 {: #pre-release }
 
-Les versions de développement de Firefox (distribuées via des canaux comme Nightly, Beta, TestFlight et BuddyBuild) sont en cours de développement actif et peuvent inclure des caractéristiques de confidentialité différentes.
+Les versions de Firefox non officielles distribuées par Mozilla via des canaux tels que Nightly, Beta, Developer Edition et TestFlight sont des plateformes de développement fréquemment mises à jour avec des fonctionnalités expérimentales et des études. En plus de la collecte de données décrite dans cette Politique de confidentialité, ces versions sont susceptibles d’envoyer par défaut certains types d’activité Web et des données de plantage à Mozilla et, dans certains cas, à nos partenaires. La collecte et le partage de données respectent notre [Politique de collecte des données de Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) qui promeut une transparence totale et un contrôle de votre part.
+
