@@ -155,5 +155,4 @@ Sie können Add-ons von addons.mozilla.org („AMO“) oder von der Firefox Add-
 Dieser Datenschutzhinweis gilt für die neueste allgemeine Release-Version von Firefox, die von Mozilla bereitgestellt wird.  Wenn Sie Firefox woanders erwerben oder eine ältere Version ausführen, kann Ihre Kopie von Firefox evtl. andere Datenschutzmerkmale aufweisen.  
 {: #pre-release }
 
-Die Mozilla-Pre-Release-Versionen von Firefox (die über Kanäle wie Nightly, Beta, TestFlight und BuddyBuild bereitgestellt werden) befinden sich noch in Entwicklung und können andere Datenschutzmerkmale aufweisen. 
-
+Bei den Vorabversionen von Mozilla Firefox (die über verschiedene Kanäle wie Nightly, Beta, Developer Edition und TestFlight verteilt werden) handelt es sich um Plattformen in der Entwicklung, die häufig aktualisiert werden und experimentelle Funktionen aufweisen, sowie um Studien. Zusätzlich zur im Datenschutzhinweis beschriebenen Erhebung von Daten senden diese Versionen standardmäßig bestimmte Webaktivitäts- und Absturzdaten an Mozilla und in manchen Fällen auch an unsere Partner. Jegliche Erhebung und Weitergabe von Daten erfolgt dabei in Übereinstimmung mit der [Firefox-Richtlinie zur Datenerhebung](https://wiki.mozilla.org/Firefox/Data_Collection). Wir handeln stets transparent und bieten Ihnen alle erforderlichen Kontrollmöglichkeiten.
