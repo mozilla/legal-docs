@@ -155,5 +155,5 @@ Anda bisa memasang Pengaya dari addons.mozilla.org (“AMO”) atau dari Pengelo
 Pemberitahuan privasi ini untuk versi rilis umum terbaru Firefox yang didistribusikan oleh Mozilla.  Jika Anda mendapatkan Firefox dari tempat lain, atau menjalankan versi yang lebih lama, salinan Firefox Anda mungkin memuat karakteristik privasi berbeda.  
 {: #pre-release }
 
-Firefox versi rilis Mozilla sebelumnya (yang didistribusikan melalui saluran seperti Nightly, Beta, TestFlight dan BuddyBuild) masih dalam pengembangan aktif dan mungkin memuat karakteristik privasi berbeda. 
-
+Firefox versi pra-rilis Mozilla (yang didistribusikan melalui saluran seperti Nightly, Beta, Developer Edition, dan TestFlight) merupakan platform pengembangan yang sering diperbarui dengan fitur dan kajian eksperimental. Selain pengumpulan data yang dijelaskan dalam Pemberitahuan Privasi ini, secara baku versi ini mungkin mengirimkan jenis aktivitas web dan data masalah tertentu kepada Mozilla dan di beberapa kasus kepada mitra kami. Semua pengumpulan atau pembagian data mematuhi [kebijakan pengumpulan data Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) dan kami akan selalu transparan dan memberi Anda kontrol.
+ 
