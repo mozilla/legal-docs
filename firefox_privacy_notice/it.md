@@ -155,4 +155,5 @@ Leggere [l’intera documentazione](https://mozilla-push-service.readthedocs.io/
 Questo avviso sulla privacy è destinato alla _release_ generale più recente di Firefox distribuita da Mozilla. Se Firefox è stato ottenuto altrove, o se la versione eseguita è meno recente, la copia di Firefox potrebbe contenere diverse funzioni relative alla privacy.
 {: #pre-release }
 
-Le versioni _pre-release_ di Firefox distribuite da Mozilla (distribuite mediante canali quali Nightly, Beta, TestFlight e BuddyBuild) sono in fase di sviluppo e possono contenere funzioni diverse sulla privacy.
+Le versioni preliminari di Mozilla Firefox (distribuite attraverso canali quali Nightly, Beta, Developer Edition e TestFlight) sono piattaforme di sviluppo frequentemente aggiornate con funzioni e studi sperimentali. Oltre alla raccolta dati descritta nella presente informativa sulla privacy, queste versioni possono inviare per impostazione predefinita alcuni tipi di dati relativi all'attività sul Web e agli arresti anomali a Mozilla e in alcuni casi ai nostri partner. Qualsiasi raccolta o condivisione di dati aderisce alla nostra [Informativa sulla raccolta dei dati di Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) e noi saremo sempre trasparenti e forniremo i controlli.
+
