@@ -155,5 +155,4 @@ Puede instalar Complementos desde la página addons.mozilla.org (“AMO”) o a 
 Este aviso de privacidad se aplica a la versión más reciente de lanzamiento general de Firefox distribuido por Mozilla.  Si adquiere Firefox de otro sitio, o está usando una versión anterior, su copia de Firefox puede incluir términos de privacidad distintos.  
 {: #pre-release }
 
-Las versiones de prelanzamiento de Firefox de Mozilla (distribuidas a través de canales como Nightly, Beta, TestFlight y BuddyBuild) se encuentran en continuo desarrollo y pueden incluir términos de privacidad distintos. 
-
+Las versiones de pre-lanzamiento de Mozilla de Firefox (que se distribuyen a través de canales como Nightly, Beta, Developer Edition y TestFlight) son plataformas de desarrollo frecuentemente actualizadas con características y estudios experimentales. Además de la recopilación de datos descrita en este Aviso de privacidad, estas versiones pueden enviar de forma predeterminada ciertos tipos de actividad web y datos de bloqueo a Mozilla y, en algunos casos, a nuestros socios. Cualquier recopilación o intercambio de datos se adhiere a nuestra [política de recopilación de datos de Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) y siempre seremos transparentes y te proporcionaremos el control al respecto.
