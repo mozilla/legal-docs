@@ -4,7 +4,7 @@ Vigent des de l'1 de maig de 2018 {: datetime = "2018-05-01"}
 
 ## Privadesa
 
-Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de privadesa de Mozilla] (https://www.mozilla.org/privacy) descriu com gestionem aquesta informació.
+Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de privadesa de Mozilla](https://www.mozilla.org/privacy) descriu com gestionem aquesta informació.
 
 * **Dades demogràfiques**. Opcionalment, podeu enviar-nos informació, com ara l'accent, l'edat i el sexe. Això ens ajuda, i també a altres investigadors, a millorar i crear tecnologies i eines de veu a text.
 
@@ -18,4 +18,4 @@ Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de pri
 
 * **Dades tècniques.** Mitjançant Google Analytics, recollim l'URL i el títol de les pàgines de Common Voice que visiteu. Recopilem el navegador, la mida de la finestra i la resolució de la pantalla. També recollim la vostra ubicació i la configuració de la llengua del navegador.
 
-[Més informació] (https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Més informació](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
