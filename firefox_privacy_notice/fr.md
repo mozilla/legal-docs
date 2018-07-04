@@ -17,7 +17,7 @@ Dans cette Politique de confidentialité, nous expliquons quelles données Firef
 
 * __Données techniques__ : Firefox nous envoie des données à propos de la version et de la langue de votre Firefox, du système d’exploitation de votre appareil et sa configuration matérielle, de la mémoire, des informations de base sur les plantages et les erreurs, le résultat de processus automatiques comme les mises à jour, le blocage de sites malveillants et l’activation. Lorsque Firefox nous envoie des données, votre adresse IP est temporairement collectée dans les fichiers journaux de nos serveurs.
 
-Lisez la documentation de télémétrie pour [ordinateur](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou apprenez à [vous retirer](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de cette collecte de données.
+Lisez la documentation de télémétrie pour [ordinateur](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/docs/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/docs/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou apprenez à [vous retirer](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de cette collecte de données.
 {: #telemetry }
 
 ### Définir un prestataire de recherche par défaut {: #defaultsearch }

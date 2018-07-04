@@ -17,7 +17,7 @@
 
 * __技術情報__: Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
-[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については [こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox) をご覧ください。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/docs/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/docs/fennec/index.html)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については [こちら](https://support.mozilla.org/kb/send-performance-data-improve-firefox) をご覧ください。
 {: #telemetry }
 
 ### 既定の検索プロバイダーを設定する {: #defaultsearch }

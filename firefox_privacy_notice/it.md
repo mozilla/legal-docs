@@ -17,7 +17,7 @@ In questo Avviso sulla privacy illustreremo quali sono i dati che Firefox condiv
 
 * __Dati tecnici__: Firefox ci invia dati sulla versione di Firefox e sulla lingua usata; sul sistema operativo del dispositivo e sulla configurazione hardware, sulla memoria, su informazioni di base su arresti anomali ed errori; sul risultato di processi automatici quali aggiornamenti, servizio di safebrowing e attivazione. Quando Firefox ci invia i dati, il vostro indirizzo IP viene temporaneamente raccolto quale parte dei log del nostro server.
 
-È possibile consultare la documentazione di telemetria per [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), oppure per [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o scoprire come [non partecipare](https://support.mozilla.org/kb/send-performance-data-improve-firefox) a questa raccolta di dati.
+È possibile consultare la documentazione di telemetria per [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/docs/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/docs/fennec/index.html), oppure per [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o scoprire come [non partecipare](https://support.mozilla.org/kb/send-performance-data-improve-firefox) a questa raccolta di dati.
 {: #telemetry }
 
 ### Impostare un fornitore di servizi di ricerca predefinito {: #defaultsearch }
