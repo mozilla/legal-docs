@@ -17,7 +17,7 @@
 
 * __Технические данные__: Firefox отправляет нам данные о версии и языке браузера, операционной системе устройства и конфигурации оборудования, объеме памяти, сбоях и ошибках, результатах автоматизированных процессов, таких как обновление, безопасный браузинг или активация.  Когда Firefox отправляет нам данные, временно передается и ваш IP-адрес (как элемент журналов нашего сервера).  
 
-Ознакомьтесь с документацией о телеметрии для [ПК](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)/[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)/[iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) или узнайте, как [отказаться](https://support.mozilla.org/kb/send-performance-data-improve-firefox) от сбора этих данных.
+Ознакомьтесь с документацией о телеметрии для [ПК](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/docs/telemetry/index.html)/[Android](https://firefox-source-docs.mozilla.org/mobile/android/docs/fennec/index.html)/[iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) или узнайте, как [отказаться](https://support.mozilla.org/kb/send-performance-data-improve-firefox) от сбора этих данных.
 {: #telemetry }
 
 ### Установка поисковой системы по умолчанию {: #defaultsearch }
