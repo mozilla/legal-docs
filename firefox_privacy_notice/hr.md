@@ -121,3 +121,6 @@ Za posjet web stranici Firefoxa sa snimkama zaslona naša [obavijest o pravilima
 
 Osim ako drugačije nije navedeno, ova obavijest o privatnosti važi za većinu glavnih objava verzija Firefoxa. Naše prethodno objavljene verzije (Beta/Developer Edition, Nightly i TestFlight) se i dalje aktivno razvijaju te mogu sadržavati nove značajke ili imati drugačije karakteristike privatnosti prethodno objavljenih verzija i automatski poslanih [Podaci telemterije](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) u Mozillu kako bi pomogli u poboljšanju Firefoxa.
 {: #pre-release }
+
+Ovaj prijevod nije aktualan. Aktualna engleska verzija primjenjuje se ako postoji nepodudarnost s ovim prijevodom. Možete vidjeti aktualnu englesku verziju [ovdje](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
+
