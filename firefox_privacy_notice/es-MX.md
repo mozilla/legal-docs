@@ -157,3 +157,4 @@ Este aviso de privacidad es para la versión de lanzamiento general más recient
 
 Las versiones prelanzamiento de Firefox de Mozilla (que se distribuyen a través de canales como Nightly, Beta, TestFlight y BuddyBuild) están bajo desarrollo activo y podrían contener características de privacidad diferentes. 
 
+Esta traducción no es actual. Si existe cualquier conflicto con esta traducción se aplica la versión en inglés. Puede ver la versión en inglés [aquí](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
