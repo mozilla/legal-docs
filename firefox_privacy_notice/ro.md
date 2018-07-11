@@ -125,3 +125,5 @@ Pentru vizitele la site-ul Capturi de ecran Firefox, [politica noastră de confi
 
 Cu excepția cazurilor în care se specifică altceva, prezenta politică de confidențialitate se aplică ultimelor versiuni generale de Firefox. Versiunile care nu au fost lansate oficial (Beta/Developer Edition, Nightly și TestFlight) sunt în continuare parte a ciclului de dezvoltare și pot conține funcționalități noi sau alte opțiuni de confidențialitate. Versiunile care nu au fost lansate oficial trimit automat [date de Telemetrie](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) către Mozilla pentru a ne ajuta să îmbunătățim Firefox.
 {: #pre-release }
+
+Această traducere nu reprezintă cea mai nouă versiune. Versiunea curentă în limba engleză are prioritate, atunci când există conflicte cu această traducere. Puteți citi versiunea curentă în limba engleză [aici](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
