@@ -156,3 +156,5 @@ Toto Prohlášení o ochraně osobních údajů platí pro nejnovější obecně
 {: #pre-release }
 
 Předběžná vydání verzí Firefoxu společnosti Mozilla (které jsou distribuovány kanály jako např. Nightly, Beta, TestFlight a BuddyBuild) jsou ve fázi aktivního vývoje a mohou obsahovat odlišné charakteristiky ochrany osobních údajů.
+
+Tento překlad není aktuální. V případě rozporu s tímto překladem platí aktuální anglická verze. Aktuální anglickou verzi si můžete prohlédnout [zde](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
