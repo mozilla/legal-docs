@@ -157,3 +157,5 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 Mozilla 的預先發佈版 Firefox（發佈管道包含 Nightly、Beta、TestFlight 及 BuddyBuild）仍然處於開發狀態，並可能會有不同的隱私權規定。
 
+此翻譯並非目前版本。如果此翻譯版本與目前的英文版本有任何牴觸，請以目前的英文版本為準。您可以[在這裡](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md)查看目前的英文版本。
+
