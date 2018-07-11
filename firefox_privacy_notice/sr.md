@@ -120,3 +120,6 @@ U slučaju poseta veb sajtu Snimaka ekrana pregledača Firefox, u našim [pravil
 
 Osim ako nije drugačije napomenuto, ovo Obaveštenje o privatnosti se odnosi na najnovija opšta izdanja verzija pregledača Firefox. Naše verzije pred izdavanje (Beta/Programersko izdanje, Nightly i TestFlight) još uvek se aktivno razvijaju i mogu sadržati nove funkcije ili imati različite karakteristike privatnosti. Verzije pred izdavanje automatski šalju [Telemetrijske podatke](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) kompaniji Mozilla kako bi pomogle u poboljšanju pregledača Firefox.
 {: #pre-release }
+
+Ovaj prevod nije aktuelan. U slučaju bilo kakvog sukoba s ovim prevodom važi aktuelna engleska verzija. Aktuelnu englesku verziju možete pogledati [ovde](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
+
