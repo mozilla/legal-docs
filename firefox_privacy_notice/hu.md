@@ -120,3 +120,6 @@ A Firefox képernyőképek weboldal látogatásával kapcsolatban a [weboldas ad
 
 Egyéb megjegyzés hiányában ez az adatvédelmi tájékoztató a Firefox legfrissebb általánosan kibocsátott verzióira vonatkozik. A kibocsátás előtti verziók (Beta/Developer Edition, Nightly és TestFlight) még fejlesztés alatt állnak, ezért új funkciókat tartalmazhatnak és eltérő adatvédelmi jellemzők vonatkozhatnak rájuk. A kibocsátás előtti verziók automatikusan [telemetriai adatokat](https://gecko.readthedocs.io/en/latest/toolkit/components/telemetry/telemetry/index.html) küldenek a Mozillának, amelyek segítenek nekünk a Firefox további fejlesztésében.
 {: #pre-release }
+
+Ez a fordítás nem helyes. Az aktuális angol verzió van érvényben, amennyiben a fordítás nem megfelelő. Az aktuális angol verzió megtalálható [itt](https://github.com/mozilla/legal-docs/blob/master/acceptable_use_policy/en-US.md).
+
