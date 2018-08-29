@@ -17,7 +17,7 @@ V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje F
 
 * __Technické údaje__: Firefox nám zasílá údaje o vaší verzi a jazyce Firefoxu; operačním systému zařízení a konfiguraci hardwaru; paměti, základních informací o pádech a chybách; výsledku automatizovaných procesů, jako jsou aktualizace, bezpečné procházení a aktivace.  Když nám Firefox zasílá údaje, dočasně se v protokolu našeho serveru shromažďuje vaše adresa IP.  
 
-Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/docs/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/docs/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
+Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
 {: #telemetry }
 
 ### Nastavení výchozího poskytovatele vyhledávání {: #defaultsearch }
