@@ -29,7 +29,7 @@ Read the telemetry documentation for Firefox Reality or learn how to [opt-out](h
 
 Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-## Crash reports {: #crash-reporter }
+### Crash reports {: #crash-reporter }
 
 If Firefox Reality crashes, we will ask you if you’re willing to send us a report with more information about the crash, but you can always decline. Crash reports include:
 
