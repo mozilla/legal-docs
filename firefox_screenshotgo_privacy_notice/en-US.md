@@ -1,4 +1,4 @@
-# Firefox ScreenshotGo Privacy
+# Firefox ScreenshotGo Privacy Notice
 
 Version 1.0, effective September 28, 2018 
 {: datetime="2018-09-18" }
