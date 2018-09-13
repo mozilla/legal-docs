@@ -11,4 +11,4 @@ The [Mozilla Privacy Policy](https://www.mozilla.org/privacy) describes how we h
 
 * **Third-Party Services:** We use _Google Firebase_ to help us improve performance, support crashes, and improve your experience through testing and in-product messaging.  We also use _Adjust_ to measure and support our marketing.  Both companies receive data from your device.  
 
-* **Opt-out:** Read our full [telemetry documentation](LINK) or [opt-out](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) of data collection.  
+* **Opt-out:** Read our full [telemetry documentation](https://github.com/mozilla-tw/Scryer/blob/master/Telemetry.md) or [opt-out](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) of data collection.  
