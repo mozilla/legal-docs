@@ -27,10 +27,10 @@ Read the telemetry documentation for Firefox Reality or learn how to [opt-out](h
 
 If you turn crash reporting on Mozilla will receive a report with more information if Firefox Reality crashes. Generally, crash reports include:
 
-* **Device information.** This tells us information about your device, such as the operating system, manufacturer and graphics adapter when the crash happened.
+* **Device information:** This tells us information about your device, such as the operating system, manufacturer and graphics adapter when the crash happened.
 
-* **Application information.** This tells us information about the application that crashed, such as the version, build and build architecture of Firefox Reality you were using.
+* **Application information:** This tells us information about the application that crashed, such as the version, build and build architecture of Firefox Reality you were using.
 
-* **Crash information.** This provides information about the crash, including a report of Firefox Reality’s subroutines at the time of the crash, and a whether a crash happened before Firefox Reality finished starting up, what type of process caused the crash and the information in device memory at the time of the crash. 
+* **Crash information:** This provides information about the crash, including a report of Firefox Reality’s subroutines at the time of the crash, and a whether a crash happened before Firefox Reality finished starting up, what type of process caused the crash and the information in device memory at the time of the crash. 
 
 For more information, and to see examples of real crash reports, see [Crash Data](https://crash-stats.mozilla.com/).
