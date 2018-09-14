@@ -7,7 +7,7 @@ Version 1.0, effective September 18, 2018
 
 That’s why we build Firefox Reality, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve Firefox Reality for everyone.
 
-In this Privacy Notice, we explain what data Firefox Reality shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/en-US/privacy/) for how we receive, handle and share information we collect from Firefox Reality.
+In this Privacy Notice, we explain what data Firefox Reality shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Firefox Reality.
 
 ## Firefox Reality by default shares data for:
 
@@ -17,26 +17,20 @@ In this Privacy Notice, we explain what data Firefox Reality shares and point yo
 
 * **Technical data:** Firefox Reality sends data about your Firefox Reality version and language; device operating system and hardware configuration, including VR headset and handsets; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Firefox Reality sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read the telemetry documentation for Firefox Reality or learn how to [opt-out](https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/reality-telemetry) of this data collection.
+Read the telemetry documentation for Firefox Reality or learn how to [opt-out](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-devices) of this data collection.
 
 ### Voice Search {: #voice }
 
-* **Voice Recordings:** When you choose to use voice input for Firefox Reality, your voice recordings are sent to Mozilla and Google’s Cloud Speech service for processing to provide you with suggested text. We keep voice recordings to improve our voice recognition software and may share them with others
-
-### Improving security for users everywhere {: #security }
-
-* **Webpage and technical data to Certificate Authorities:** When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox Reality validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox Reality sending certain information about the website to the Certificate Authority identified by that website.
-
-Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+* **Voice Recordings:** When you choose to use voice input for Firefox Reality, your voice recordings are sent to Mozilla and Google’s Cloud Speech service for processing to provide you with suggested text. We keep voice recordings to improve our voice recognition software and may share them with others.
 
 ### Crash reports {: #crash-reporter }
 
-If Firefox Reality crashes, we will ask you if you’re willing to send us a report with more information about the crash, but you can always decline. Crash reports include:
+If you turn crash reporting on Mozilla will receive a report with more information if Firefox Reality crashes. Generally, crash reports include:
 
-* **Device information:** Information about the device you’re using to run Firefox Reality, like the model, operating system, amount of usable memory, and amount of free memory. 
+* **Device information.** This tells us information about your device, such as the operating system, manufacturer and graphics adapter when the crash happened.
 
-* **Application information:** An identifier for the particular browser that crashed, which is not associated with a particular user because it is unique from any other Mozilla identifier.
+* **Application information.** This tells us information about the application that crashed, such as the version, build and build architecture of Firefox Reality you were using.
 
-* **Technical data:** An error message and a list of libraries the crashed application links to. 
+* **Crash information.** This provides information about the crash, including a report of Firefox Reality’s subroutines at the time of the crash, and a whether a crash happened before Firefox Reality finished starting up, what type of process caused the crash and the information in device memory at the time of the crash. 
 
-Read the full documentation [here](https://github.com/mozilla-mobile/firefox-ios/wiki/Crash-Reporting-with-Sentry).
+For more information, and to see examples of real crash reports, see [Crash Data](https://crash-stats.mozilla.com/).
