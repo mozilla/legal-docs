@@ -7,7 +7,7 @@ Firefox Reality is free and open source software. There are a few things you sho
 * Some features in Firefox, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
 * How we use your personal information and feedback submitted to Mozilla through Firefox Reality is described in the [Firefox Reality Privacy Policy](https://www.mozilla.org/privacy/firefox-reality).
 * In order to play back certain types of video content, Firefox Reality downloads certain content decryption modules from third parties.
-* Some Firefox Reality features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the [service terms].
+* Some Firefox Reality features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the service terms (below).
 
 ## Firefox Reality Web-Based Information Services
 
