@@ -11,4 +11,4 @@ Versi 1.0, berlaku 28 September 2018
 
 * **Layanan Pihak Ketiga:** Kami menggunakan _Google Firebase_ untuk membantu kami meningkatkan kinerja, memperbaiki kerusakan, dan meningkatkan pengalaman melalui pengujian dan perpesanan dalam produk. Kami juga menggunakan _Adjust_ untuk mengukur dan mendukung pemasaran kami. Kedua perusahaan menerima data dari perangkat Anda.
 
-* **Berhenti berlangganan:** Baca [dokumen telemetri](https://github.com/mozilla-tw/Scryer/blob/master/Telemetry.md) lengkap kami atau [berhenti berlangganan](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) pengumpulan data.
+* **Berhenti berlangganan:** Baca [dokumen telemetri](https://github.com/mozilla-tw/ScreenshotGo/blob/master/Telemetry.md) lengkap kami atau [berhenti berlangganan](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) pengumpulan data.
