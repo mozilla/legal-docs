@@ -67,7 +67,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 12. #### Contact Us
 
-    Contact Mozilla at
+    Contact Mozilla at:
 
     <address>
       Mozilla Corporation 
