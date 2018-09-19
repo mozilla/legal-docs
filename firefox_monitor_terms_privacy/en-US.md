@@ -8,7 +8,7 @@ Firefox Monitor is a service provided by Mozilla to promote online safety.  We s
  
 ## 2. Features
 
-Using your email address, you can do a Basic Scan on our website or subscribe to receive a Full Report, Breach Alerts, and Safety Tips.  
+Using your email address, you can do a Basic Scan on our website or sign up to receive a Full Report, Breach Alerts, and Safety Tips.  
 * **Basic Scan:** These results display most publicly known breaches.  They exclude “Sensitive Breaches” (those including minors’ data or participants of adult and dating sites) in order to protect the privacy of those account holders.  
 * **Full Report:** This includes a complete list of publicly known hacks, including Sensitive Breaches. 
 * **Breach Alerts:** This notifies you if your email address appears in a new data breach.
@@ -22,7 +22,7 @@ If you become aware that your account credentials have been compromised, you sho
 
 When Mozilla receives information from you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.  Here are things you should know about Firefox Monitor:
 
-* If you subscribe, we (and our email providers SalesForce and Amazon) receive your email address to contact you in connection with the Firefox Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips.  You can unsubscribe at any time. 
+* If you sign up, we (and our email providers SalesForce and Amazon) receive your email address to contact you in connection with the Firefox Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips.  You can unsubscribe at any time. 
 * The data that powers Firefox Monitor is provided by [Have I Been Pwned?](https://haveibeenpwned.com/) 
 * [Learn more](https://www.mozilla.org/privacy/websites/#cookies) about our cookies and analytics, and how to opt-out.
 * [Learn more](https://blog.mozilla.org/security/2018/06/25/scanning-breached-accounts-k-anonymity/) about the measures we take to protect the privacy of your email address. 
