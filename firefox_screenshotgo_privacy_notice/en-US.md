@@ -3,7 +3,9 @@
 Version 1.0, effective September 28, 2018 
 {: datetime="2018-09-18" }
 
-The [Mozilla Privacy Policy](https://www.mozilla.org/privacy) describes how we handle information that we receive from you.  Things you should know:
+The [Mozilla Privacy Policy](https://www.mozilla.org/privacy) describes how we handle information that we receive from you.
+
+## Things you should know
 
 * **Screenshots:** Screenshots remain locally on your device. If you grant permission, Firefox ScreenshotGo will access them to be organized. Mozilla receives the average number of screenshots used by Firefox ScreenshotGo, including in default or new collections.
 
