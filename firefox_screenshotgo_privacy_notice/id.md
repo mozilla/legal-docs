@@ -3,7 +3,9 @@
 Versi 1.0, berlaku 28 September 2018 
 {: datetime="2018-09-18" }
 
-[Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy) menjelaskan cara kami menangani informasi yang kami terima dari Anda. Berikut adalah hal-hal yang perlu Anda ketahui:
+[Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy) menjelaskan cara kami menangani informasi yang kami terima dari Anda.
+
+## Berikut adalah hal-hal yang perlu Anda ketahui
 
 * **Tangkapan layar:** Tangkapan layar tetap disimpan di perangkat Anda. Jika Anda memberikan izin, Firefox ScreenshotGo akan mengaksesnya untuk dikelola. Mozilla menerima informasi jumlah rata-rata tangkapan layar yang digunakan oleh Firefox ScreenshotGo, termasuk yang berada dalam koleksi default atau baru.
 
