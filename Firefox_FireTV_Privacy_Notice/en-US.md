@@ -4,7 +4,7 @@
 Version 1.0.1, October 11, 2018
 {: datetime="2018-10-11" }
 
-At Mozilla, we design products with your privacy in mind. This privacy notice explains what data we collect in Firefox for Fire TV, why we collect that information, and your choices.
+At Mozilla, we design products with your privacy in mind. This privacy notice explains what data we collect in Firefox for Fire TV and Firefox for Echo Show, why we collect that information, and your choices.
 
 To learn more about how we receive and handle information, read the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
 
