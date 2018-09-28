@@ -1,8 +1,8 @@
 
-# Privacy Notice for Firefox for Fire TV
+# Privacy Notice for Firefox for Fire TV and Firefox for Echo Show
 
-Version 1.0, June 21, 2018
-{: datetime="2018-06-21" }
+Version 1.0.1, October 11, 2018
+{: datetime="2018-10-11" }
 
 At Mozilla, we design products with your privacy in mind. This privacy notice explains what data we collect in Firefox for Fire TV, why we collect that information, and your choices.
 
