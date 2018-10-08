@@ -22,7 +22,7 @@ July 19, 2016
 
     We may suspend or terminate your access to Test Pilot at any time for any reason, or no reason at all, including, but not limited to, if we reasonably believe: (i) you have violated these Terms; (ii) you create risk or possible legal exposure for us; or (iii) our provision of Test Pilot to you is no longer commercially viable.
 
-    In all such cases, these Terms shall terminate, except that the following sections shall continue to apply: Section 7 - Indemnification, Section 8 - Disclaimer; Limitation of Liability, and Section 10 - Miscellaneous.
+    In all such cases, these Terms shall terminate, except that the following sections shall continue to apply: Section 6 - Indemnification, Section 7 - Disclaimer; Limitation of Liability, and Section 9 - Miscellaneous.
 
 0. ### Voluntary Participation
     You acknowledge that your participation in Test Pilot is voluntary and does not create any employment relationship between you and Mozilla. You further acknowledge that Mozilla is an open source project with open channels for feedback, code contribution, and participation. Any feedback you provide to Test Pilot, or derivative thereof, may be used by Mozilla and its community without any remuneration, compensation, or credit to you.
