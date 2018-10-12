@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox-rocket">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
+## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
 
 May 11, 2018
 {: datetime="2018-5-11" }
