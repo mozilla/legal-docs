@@ -3,15 +3,15 @@
 *Yürürlük Tarihi: 28 Eylül 2017*
 {: datetime="2017-09-28" }
 
-## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanırız.
+## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanıyoruz.
 
-Bu nedenle Firefox’u ve tüm ürünlerimizi, çevrimiçi olarak ve bizimle paylaştığınız bilgiler üzerindeki kontrolünüzü arttıracak şekilde geliştiririz. Yalnızca herkese daha iyi bir Firefox deneyimi sunmak üzere ihtiyacımız olan bilgileri toplamak için çaba gösteririz.
+Bu nedenle Firefox’u ve tüm ürünlerimizi, internette ve bizimle paylaştığınız bilgiler üzerindeki kontrolünüzü arttıracak şekilde geliştiriyoruz. Yalnızca herkese daha iyi bir Firefox deneyimi sunmak üzere ihtiyacımız olan bilgileri toplamak için çaba gösteriyoruz.
 
-Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açıklar ve daha da azını paylaşmak üzere sizi ayarlara yönlendiririz. Firefox’tan topladığımız bilgileri alırken, işlerken ve paylaşırken Mozilla [gizlilik ilkesinde](https://www.mozilla.org/privacy/) açıklanan uygulamalara da bağlı kalırız.
+Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açıklıyor ve daha azını paylaşmak isterseniz sizi ilgili ayarlara yönlendiriyoruz. Firefox’tan topladığımız bilgileri alırken, işlerken ve paylaşırken Mozilla [gizlilik ilkelerinde](https://www.mozilla.org/privacy/) açıklanan uygulamalara da bağlı kalıyoruz.
 
 ## Firefox, varsayılan olarak şu amaçlarla veri paylaşır:
 
-### Her yerdeki kullanıcılar için performansı ve kararlılığı iyileştirmek{: #health-report }
+### Tüm kullanıcılar için performansı ve kararlılığı iyileştirmek {: #health-report }
 
 * __Etkileşim verileri__: Firefox, Firefox ile etkileşimleriniz hakkında açık sekmelerin ve pencerelerin sayısı, ziyaret edilen web sayfalarının sayısı, kurulu Firefox Eklentilerinin sayısı ve türü ve oturum uzunluğu gibi verilerin yanı sıra, Mozilla ya da iş ortaklarımız tarafından sunulan Firefox özellikleri (Firefox arama özellikleri ve arama ortağı yönlendirmeleri gibi) ile etkileşimleriniz hakkında veriler gönderir.
 
@@ -20,7 +20,7 @@ Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açı
 [Masaüstü](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ya da [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) için telemetre belgelerini okuyun ya da bu veri toplamadan nasıl [vazgeçeceğiniz](https://support.mozilla.org/kb/send-performance-data-improve-firefox) öğrenin.
 {: #telemetry }
 
-### Varsayılan bir arama sağlayıcı belirlemek {: #defaultsearch }
+### Varsayılan arama sağlayıcısını belirlemek {: #defaultsearch }
 
 * __Konum verileri__:  Firefox’u ilk kez kullandığınızda, ülkenize göre varsayılan arama sağlayıcınızı belirlemek için IP adresinizi kullanır [Daha fazla bilgi alın](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,12 +32,12 @@ Firefox, “Kısa Notlar” (Mozilla’dan mesajlar), Öne Çıkan Siteler (Mozi
 
 * __Teknik veriler ve etkileşim verileri__: Firefox, önerdiğimiz içeriklerin konumu, boyutu ve yeri hakkındaki bilgilerin yanı sıra, Firefox’un önerilen içerikleriyle etkileşimleriniz hakkında temel veriler sunar. Önerilen içeriğin gösterilme ya da tıklanma sayısı da bunlara dahildir.
 
-* __Kısa Notlar için web sayfası verileri__: Bir Kısa Not bağlantısına tıklamayı seçtiğinizde, izlediğiniz bağlantı hakkında veriler alabiliriz. Bu bilgi, hakkınızdaki başka herhangi bir bilgiyle ilişkilendirilmez. [Daha fazla bilgi alın](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
+* __Duyurularla ilişkili web sayfası verileri__: Bir duyuru bağlantısına tıklarsanız o bağlantı hakkında veriler alabiliriz. Bu bilgi, hakkınızdaki başka herhangi bir bilgiyle ilişkilendirilmez. [Daha fazla bilgi alın](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Cep Tavsiyeleri için web sayfası verileri__: Gezinti geçmişinize göre size içerikler tavsiye ederiz. Görmeniz gereken hikayelere karar verme süreci Firefox kopyanızda yerel olarak gerçekleşir. Ne Mozilla ne de Cep gezinti geçmişinizin bir kopyasını alır. Gördüğünüz ve tıkladığınız tavsiyeler hakkında veriler alırız. [Daha fazla bilgi alın](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Pocket önerileriyle ilişkili web sayfası verileri__: Gezinti geçmişinize göre size içerikler tavsiye ederiz. Görmeniz gereken hikayelere karar verme süreci Firefox kopyanızda yerel olarak gerçekleşir. Ne Mozilla ne de Pocket gezinti geçmişinizin bir kopyasını alır. Gördüğünüz ve tıkladığınız tavsiyeler hakkında veriler alırız. [Daha fazla bilgi alın](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
 
-### Her yerdeki kullanıcılar için güvenliği arttırmak {: #security }
+### Tüm kullanıcılar için güvenliği arttırmak {: #security }
 
 * __Güncellemeler için teknik veriler__: Firefox’un masaüstü sürümleri, Mozilla sunucularına bağlanarak tarayıcı güncellemelerini belirli aralıklarla kontrol eder. Firefox sürümünüz, diliniz ve cihazınızın işletim sistemi doğru güncellemelerin uygulanması için kullanılır. Firefox’u indirmek ve kurmak için başka bir hizmet kullandıysanız, Firefox’un mobil sürümleri o hizmete bağlanabilir. [Daha fazla bilgi alın](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
@@ -52,16 +52,16 @@ Firefox, “Kısa Notlar” (Mozilla’dan mesajlar), Öne Çıkan Siteler (Mozi
 
     Vazgeçmeniz, gizli bilgilerinizin ele geçirilme riskini arttırır. [Daha fazla bilgi alın](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Arıza raporları {: #crash-reporter }
-Firefox’un masaüstü sürümlerinde varsayılan olarak, Mozilla ile ilgili arızalar hakkında daha ayrıntılı bilgi içeren bir rapor paylaşmanızı isteriz, ancak her zaman bunu reddetme seçeneğiniz vardır.
+### Çökme raporları {: #crash-reporter }
+Firefox’un masaüstü sürümlerinde varsayılan olarak çökmeler hakkında daha ayrıntılı bilgi içeren bir raporu Mozilla ile paylaşmanızı isteriz, ancak her zaman bunu reddetme seçeneğiniz vardır.
 
-* __Hassas veriler__:  Arıza raporları, arıza sırasında Firefox’un bellek içeriklerinin yer aldığı, kimliğinizi tanımlayan veya başka bir şekilde sizin için hassas olan veriler içermesi mümkün olan bir ‘döküm dosyası’ içerir.
+* __Hassas veriler__:  Çökme raporları, arıza sırasında Firefox’un bellek içeriklerinin yer aldığı, kimliğinizi tanımlayan veya başka bir şekilde sizin için hassas olan veriler içermesi mümkün olan bir ‘döküm dosyası’ içerir.
 
-* __Web sayfası verileri__:  Arıza raporları, arıza sırasında aktif olan URL’yi içerir.
+* __Web sayfası verileri__:  Çökme raporları, arıza sırasında aktif olan URL’yi içerir.
 
-* __Teknik veriler__:  Arıza raporları, Firefox’un neden arıza verdiğine ve arıza sırasında cihaz belleğinin durumuna ve yürütülmesine ilişkin veriler içerir.
+* __Teknik veriler__:  Çökme raporları, Firefox’un neden arıza verdiğine ve arıza sırasında cihaz belleğinin durumuna ve yürütülmesine ilişkin veriler içerir.
 
-Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html) okuyun.
+Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html) okuyabilirsiniz.
 
 ### Pazarlamamızı ölçmek ve desteklemek
 
@@ -81,20 +81,20 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
 ---
 
-## Bu özellikleri kullanıyorsanız, Firefox işlevsellik sağlamak için verileri paylaşacaktır:  {: #optional-features }
+## Aşağıdaki özellikleri kullanıyorsanız Firefox bu işlevleri sağlamak için ilgili verileri paylaşacaktır:  {: #optional-features }
 
 ### Arama
 
-Awesome Çubuğu, Arama Çubuğu ya da Yeni Sekme dahil olmak üzere Firefox’ta birçok yerde doğrudan aramalar yapabilirsiniz.  _Mozilla arama sorgularınıza ilişkin verileri almaz._ Sorgu verileri, kendi gizlilik ilkesi olan arama sağlayıcınıza gönderilir.  
+Şahane çubuk, arama çubuğu ve Yeni Sekme dahil olmak üzere Firefox’ta birçok yerde doğrudan arama yapabilirsiniz.  _Mozilla arama sorgularınıza ilişkin verileri almaz._ Sorgu verileri, kendi gizlilik ilkeleri olan arama sağlayıcınıza gönderilir.  
 
-* __Arama Tavsiyeleri__: Firefox varsayılan olarak başkalarının aradığı yaygın ifadeleri keşfetmenize yardımcı olmak ve daha iyi bir arama deneyimi sunmak amacıyla arama sorgularını arama sağlayıcınıza gönderir. Seçtiğiniz arama sağlayıcı arama tavsiyelerini desteklemiyorsa, bu veriler gönderilmez.
+* __Arama Önerileri__: Firefox varsayılan olarak başkalarının aradığı yaygın ifadeleri keşfetmenize yardımcı olmak ve daha iyi bir arama deneyimi sunmak amacıyla arama sorgularını arama sağlayıcınıza gönderir. Seçtiğiniz arama sağlayıcı arama önerilerini desteklemiyorsa bu veriler gönderilmez.
 {: #searchsuggestions } 
 
     Bu özelliği devre dışı bırakmanın yolları dahil olmak üzere [daha fazla bilgi alın](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar),
 
 ### Firefox Hesapları
 
-* __Firefox Hesabı verileri__: Bir Firefox Hesabı oluşturduğunuzda, Mozilla e-posta adresinizi ve parolanızın bir hash’ini alır. Bir ekran adı ya da profil resmi eklemeyi tercih edebilirsiniz. E-posta adresiniz, kendi [gizlilik ilkesi](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) olan e-posta sağlayıcımız SalesForce Marketing Cloud’a gönderilir. Firefox Hesabınızı, diğer web sitelerinde ya da hizmetlerde (AMO ya da Pocket gibi) oturum açmak için kullanırsanız, oturumunuzun zaman damgasını bu hizmetlerden alırız. 
+* __Firefox Hesabı verileri__: Bir Firefox Hesabı oluşturduğunuzda Mozilla, e-posta adresinizi ve parolanızın bir hash’ini alır. Bir ekran adı ya da profil resmi eklemeyi tercih edebilirsiniz. E-posta adresiniz, kendi [gizlilik ilkesi](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) olan e-posta sağlayıcımız SalesForce Marketing Cloud’a gönderilir. Firefox Hesabınızı, diğer web sitelerinde ya da hizmetlerde (AMO ya da Pocket gibi) oturum açmak için kullanırsanız, oturumunuzun zaman damgasını bu hizmetlerden alırız. 
 
 * __Konum verileri__: Güvenlik amacıyla, bulunduğunuz şehri ve ülkeyi yaklaşık olarak tahmin etmek için Firefox Hesabınıza erişirken kullandığınız IP Adreslerini saklarız. Diğer konumlardan hesabınızda oturum açılması gibi şüpheli bir etkinlik tespit ettiğimizde bu verileri kullanarak size e-posta uyarıları göndeririz.
 
@@ -152,7 +152,7 @@ Eklentileri, addons.mozilla.org (“AMO”) adresinden ya da araç çubuğundaki
 
 ### Dip not
 
-Bu gizlilik bildirimi, Firefox’un Mozilla tarafından dağıtılan en yeni genel sürümüne yöneliktir. Firefox’u başka bir yerden edindiyseniz ya da daha eski bir sürümünü çalıştırıyorsanız, Firefox’un sizdeki kopyası farklı gizlilik özellikleri içerebilir.
+Bu gizlilik bildirimi, Firefox’un Mozilla tarafından dağıtılan en yeni genel sürümüne yöneliktir. Firefox’u başka bir yerden edindiyseniz ya da daha eski bir sürümünü çalıştırıyorsanız,Firefox’un sizdeki kopyası farklı gizlilik özellikleri içerebilir.
 {: #pre-release }
 
-Mozilla’nın piyasaya sürme öncesi sürümleri (Nightly, Beta, Developer Edition ve TestFlight gibi kanallardan dağıtılanlar), deneysel özellikler ve çalışmalarla sık sık güncellenen geliştirme platformlarıdır. Bu Gizlilik Bildirimi’nde açıklanan veri toplamaya ek olarak, bu sürümler varsayılan olarak belirli türlerdeki web aktivitelerini ve arıza verilerini Mozilla’ya ve bazı durumlarda iş ortaklarımıza gönderebilir. Her türlü veri toplama ve paylaşma işlemi, [Firefox veri toplama ilkemize](https://wiki.mozilla.org/Firefox/Data_Collection) uygundur. Şeffaflığımızı korumaya devam edecek ve size kontrol olanakları tanıyacağız.
+Mozilla’nın final öncesi sürümleri (Nightly, Beta, Developer Edition ve TestFlight gibi kanallardan dağıtılanlar), deneysel özellikler ve çalışmalarla sık sık güncellenen geliştirme platformlarıdır. Bu Gizlilik Bildirimi’nde açıklanan veri toplamaya ek olarak, bu sürümler varsayılan olarak belirli türlerdeki web aktivitelerini ve arıza verilerini Mozilla’ya ve bazı durumlarda iş ortaklarımıza gönderebilir. Her türlü veri toplama ve paylaşma işlemi, [Firefox veri toplama ilkelerimize](https://wiki.mozilla.org/Firefox/Data_Collection) uygun olarak gerçekleşir. Şeffaflığımızı korumaya devam edecek ve size kontrol olanakları tanıyacağız.
