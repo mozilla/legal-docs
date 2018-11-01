@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Firefox Lite shares and point you t
 
 * __Technical data__: Firefox Lite sends data about your Firefox Lite version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Firefox Lite sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read detailed documentation for Firefox Lite [here](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry) or turn off “Send Usage Data” in your Settings.
+Read detailed documentation for Firefox Lite [here](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) or turn off “Send Usage Data” in your Settings.
 {: #telemetry }
 
 ### Suggest relevant content
@@ -30,7 +30,7 @@ Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla 
 
 * __Referral and Campaign Data__: To help improve our marketing campaigns, Firefox Lite may use “Referral Data” such as the website domain or advertising campaign that referred you to download and install Firefox Lite. This data is kept by our analytics vendor and provided when you start Firefox Lite, and also includes a Google advertising ID, timestamp, country, locale, operating system, and app version.  We may also use third party vendors to manage referral programs and handle any data that you choose to submit.  
 
-Learn more about [Referral and Campaign Data](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry#install-campaign-tracking). 
+Learn more about [Referral and Campaign Data](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
 
 ### Improve our product based on your feedback
 

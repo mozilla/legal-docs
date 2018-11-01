@@ -17,7 +17,7 @@ Dalam Kebijakan Privasi ini, kami menjelaskan apa saja data yang dibagikan Firef
 
 * __Data teknis__: Firefox Lite mengirimkan data tentang versi dan bahasa Firefox Lite Anda; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang kerusakan dan kesalahan; hasil proses otomatis seperti pembaruan dan aktivasi kepada kami.  Saat Firefox Lite mengirimkan data kepada kami, alamat IP Anda akan sementara dikumpulkan sebagai bagian dari log server kami.  
 
-Baca dokumen selengkapnya untuk Firefox Lite [di sini](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
+Baca dokumen selengkapnya untuk Firefox Lite [di sini](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
 {: #telemetry }
 
 ### Menyarankan konten yang relevan
@@ -30,7 +30,7 @@ Firefox Lite menampilkan konten, seperti Situs Populer (situs web yang disaranka
 
 * __Data Perujuk dan Pemasaran__: Untuk membantu meningkatkan kampanye pemasaran kami, Firefox Lite mungkin menggunakan “Data Perujuk” seperti domain situs web atau pemasaran iklan yang merekomendasikan Anda untuk mengunduh dan memasang Firefox Lite. Data ini disimpan oleh vendor analitika kami dan diberikan saat Anda memulai Firefox Lite, serta mencakup ID iklan Google, stempel waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Kami juga dapat menggunakan vendor pihak ketiga untuk mengelola program perujuk dan menangani data apa pun yang Anda pilih untuk dikirimkan.
 
-Pelajari selengkapnya tentang [Data Perujuk dan Pemasaran](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry#install-campaign-tracking).
+Pelajari selengkapnya tentang [Data Perujuk dan Pemasaran](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking).
 
 ### Meningkatkan produk kami berdasarkan umpan balik Anda
 

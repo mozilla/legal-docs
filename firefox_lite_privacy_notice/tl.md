@@ -17,7 +17,7 @@ Sa Abiso sa Privacy na ito, ipinapaliwanag namin kung anong data ang ibinabahagi
 
 * __Teknikal na data__: Nagpapadala ang Firefox Lite ng data tungkol sa iyong bersyon at wika ng Firefox Lite; operating system at configuration ng hardware ng device; memory, pangunahing impormayon tungkol sa mga pag-crash at error; resulta ng mga naka-automate na proseso tulad ng mga update, at pag-activate sa amin. Kapag nagpapadala sa amin ng data ang Firefox Lite, pansamantalang kinokolekta ang iyong IP address bilang bahagi ng aming mga server log.
 
-Magbasa ng detalyadong dokumentasyon para sa Firefox Lite [dito](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting.
+Magbasa ng detalyadong dokumentasyon para sa Firefox Lite [dito](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting.
 {: #telemetry }
 
 ### Magmungkahi ng nauugnay na content
@@ -30,7 +30,7 @@ Nagpapakita ang Firefox Lite ng content, gaya ng Mga Nangungunang Site (mga webs
 
 * __Data ng Referral at Campaign__: Para tumulong na mapaganda ang aming mga marketing campaign, maaaring gumamit ang Firefox Lite ng “Data ng Referral” gaya ng domain ng website o advertising campaign na nag-refer sa iyo na i-download at i-install ang Firefox Lite. Ang data na ito ay pinapanatili ng aming analytics vendor at ibinibigay kapag binuksan mo ang Firefox Lite, at may kasama rin itong Google advertising ID, timestamp, bansa, locale, operating system, at bersyon ng app. Maaari din kaming gumamit ng mga third party na vendor para mamahala ng mga referral program at mangasiwa ng anumang data na pipiliin mong isumite.
 
-Matuto pa tungkol sa [Data ng Referral at Campaign](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry#install-campaign-tracking). 
+Matuto pa tungkol sa [Data ng Referral at Campaign](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
 
 ### Pagandahin ang aming produkto batay sa iyong feedback
 

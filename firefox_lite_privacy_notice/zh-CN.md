@@ -17,7 +17,7 @@
 
 * __技术数据__: Firefox Lite会发送以下数据：您的Firefox Lite版本和语言；设备操作系统和硬件配置；内存，关于崩溃和错误的基本信息；自动化过程（如更新）的结果，以及激活信息。当Firefox Lite向我们发送数据时，您的IP地址将暂时作为服务器日志的一部分收集。  
 
-[在此](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry)阅读Firefox Lite的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
+[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)阅读Firefox Lite的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
 {: #telemetry }
 
 ### 建议相关内容
@@ -30,7 +30,7 @@ Firefox Lite会显示内容，例如热门网站（由Mozilla为Firefox Lite新�
 
 * __推荐和营销活动数据__: 为了帮助改善我们的营销活动，Firefox Lite可能会使用网站域名或广告活动等“推荐数据”来推荐您下载并安装Firefox Lite。这些数据由我们的分析供应商保存，并在您启动Firefox Lite时提供，并且还包含iOS供应商ID或Google广告ID、时间戳、国家/地区、语言环境、操作系统和应用程序版本。
 
-详细了解[推荐和营销活动数据](https://github.com/mozilla-tw/Firefox-Lite/wiki/Telemetry#install-campaign-tracking)或如何[退出](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)此数据收集。
+详细了解[推荐和营销活动数据](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking)或如何[退出](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)此数据收集。
 
 ---
 
