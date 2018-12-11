@@ -1,37 +1,69 @@
 # Common Voice Legal Terms 
 
-Effective May 01, 2018 {: datetime="2018-05-01" }
+Effective November 30, 2018 {: datetime="2018-11-30" }
 
-## Eligibility
+Through Common Voice, you can donate your voice, written sentences, and the other resources we need to build an open-source voice database that anyone can use to make innovative voice recognition apps for devices and the web.
 
-In order to participate in our crowd-sourcing project, you must be over the age of 19 or have your parent or guardian consent to and supervise your participation in our crowd-sourcing project. By participating, you also agree to abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
+You may only participate in Common Voice if you agree to these Terms. 
 
-## Your Contributions and Release of Rights
+## 1. Eligibility
+Common Voice is open to anyone over the age of 19. If you are 19 or under, you must have your parent or guardian’s consent and they must supervise your participation in Common Voice. 
 
-If you submit written text or recordings, you assure Mozilla that you have written any text content yourself and that any recordings are of your own voice. You also assure Mozilla that you have the right to submit the text or recording for use in a public project under the [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license and that the text or recording does not infringe on any third parties’ rights. 
+Common Voice is part of the Mozilla Community. As a result, if you chose to participate, you agree to follow the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
-By submitting your written text or audio recordings, you also waive all copyrights and related rights that you may have in them, and you agree to release the written text or audio recordings to the public under a [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license. This means that you agree to waive all rights to the text and recordings worldwide under copyright and database law, including moral and publicity rights and all related and neighboring rights.
+## 2. Your Contributions 
+We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common voice, we require that you do the same. You must agree that Mozilla may offer all of your Contributions (including text, recordings, validations, and feedback) to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
 
-## Communications
+In order to participate in Common Voice, Mozilla also requires that you make two assurances: 
 
-If you subscribe to receive our newsletters or register for an account in connection with Common Voice, you may receive emails from us in connection with your account (for example, legal, privacy, and security updates).
+First, that your Contributions are entirely your own creation.
 
-## General
+Second, that your Contributions do not infringe on any third parties’ rights. 
 
-Disclaimer; Limitation of Liability: COMMON VOICE AND ALL INCLUDED TEXT AND RECORDINGS ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. MOZILLA TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY TEXT OR RECORDINGS THAT YOU OR ANY OTHER USER OR THIRD PARTY POSTS OR TRANSMITS USING COMMON VOICE. MOZILLA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+If you cannot make these assurances, you may not participate in Common Voice. 
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO RELEASE AND HOLD HARMLESS MOZILLA CORPORATION AND ITS RESPECTIVE PARENT, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS (THE “MOZILLA PARTIES”), FROM ANY AND ALL LIABILITY FOR ANY DAMAGE, LOSS OR DELAY (INCLUDING PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE) RESULTING IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, FROM YOUR PARTICIPATION IN COMMON VOICE.
+## 3. Your Account
+You do not have to create an account to participate in Common Voice. 
 
-EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE MOZILLA PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE COMMON VOICE, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE MOZILLA PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+If you do create an account, Mozilla will ask for your email address and a username of your choice. Optionally, you may also provide an avatar and certain demographic data that will help us understand how to teach machines to understand people with different accent, ages, sex, and background.  
 
-## Updates 
+When you provide information for your account, you give Mozilla all permissions necessary to: 
+keep track of information about your Contributions, including audio recordings, text, and validations, 
+associate that data with your account, email, username, and the demographic information you provide, and
+publish your Contributions publicly along with any demographic information,
+Publish metrics about your Contributions (such as number of recordings and languages) along with your username on the leaderboard.  
 
-Mozilla may update these Terms from time to time to address a new feature of Common Voice or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla’s usual channels for such announcements such as blog posts and forums. Your continued use of Common Voice after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+Mozilla will not publicly post or publish your email address. 
 
-## Termination 
+You can choose not to appear on the leaderboards. If you do, Mozilla will not publish data about your recordings in association with your username. However, Mozilla will still make your text and recordings publicly available as part of Common Voice and will include information about your recordings in the overall metrics that are available publicly.  
 
-We may suspend or terminate your access to Common Voice at any time for any reason, we will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access Common Voice. Regardless of any termination, all recordings that you submit to Mozilla will continue to be publicly available.
+## 4. Communications
+If you subscribe to receive our newsletters or register for an account in connection with Common Voice, you may receive emails from us in connection with your account. 
 
-## Governing Law
+## 5. Disclaimers
 
-These Legal Terms constitute the entire agreement between you and Mozilla concerning Common Voice and are governed by the laws of the state of California, U.S.A.
+By participating in Common Voice, you agree that Mozilla will not be liable in any way for any inability to use Common Voice or for any claim arising out of these terms. Mozilla specifically disclaims the following:
+Indirect, special, incidental, consequential, or exemplary damages
+Direct or indirect damages for loss of goodwill, work stoppage, lost profits, loss of data, or computer malfunction
+
+Any liability under this agreement is limited to $500. 
+
+You agree to indemnify and hold Mozilla harmless for any liability or claim that comes results from your participation in Common Voice. 
+
+Mozilla provides the service “as is.”  Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
+
+## 6. Notices of Infringement
+If you think something in Common Voice infringes your copyright or trademark rights, please see our [policy for how to report infringement](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Updates 
+Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. 
+
+If you continue to use Common Voice after we post updated Terms, you agree to accept the constitutes your acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made out most recent update. 
+
+## 8. Termination 
+Mozilla can suspend or end anyone’s access to Common Voice at any time for any reason. If we decide to suspend or end your access, we will try notify you by the email address associated with your account or the next time you attempt to access Common Voice. 
+
+The recordings you submit to Mozilla will remain publicly available as part of Common Voice, even if we terminate or suspend your access. 
+
+## 9. Governing Law
+California law applies to these Terms. These terms are the entire agreement between you and Mozilla regarding Common Voice. 
