@@ -14,7 +14,7 @@ When Mozilla (that’s us), receives information from you, our [Mozilla Privacy 
 
 * **Voice Recordings.** Voice recordings, along with any optionally provided demographic data, may be available in the Common Voice database for public consumption and use under a Creative Commons Zero License ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
-* **Text.** If you submit written sentences, we may also make those available in the Common Voice database for public consumption under [CC0](If you submit written sentences, we may also make those available in the Common Voice database for public consumption under CC0, in accordance with all our samples. We will not associate these sentences with the demographic data you submit.), in accordance with all our samples. We will not associate these sentences with the demographic data you submit.
+* **Text.** If you submit written sentences, we may also make those available in the Common Voice database for public consumption under ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))(If you submit written sentences, we may also make those available in the Common Voice database for public consumption under ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)), in accordance with all our samples. We will not associate these sentences with the demographic data you submit.), in accordance with all our samples. We will not associate these sentences with the demographic data you submit.
 
 * **Interaction data.** We use Google Analytics to better understand how you interact with the Common Voice app or website. For example, we may use cookies to track de-identified information such as the number of voice samples you record or listen to, interactions with buttons and menus, and session length.
 
