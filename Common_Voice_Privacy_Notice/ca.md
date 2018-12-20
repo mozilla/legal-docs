@@ -1,21 +1,24 @@
-# Avís de privadesa de Common Voice
+# Avís sobre privacitat de Common Voice 
 
-Vigent des de l'1 de maig de 2018 {: datetime = "2018-05-01"}
+Vigent a partir del 30 de novembre de 2018 {: datetime="2018-11-30" }
 
-## Privadesa
+## Privacitat
 
-Quan Mozilla (és a dir, nosaltres) rep informació vostra, la [Política de privadesa de Mozilla](https://www.mozilla.org/privacy) descriu com gestionem aquesta informació.
+Si a Mozilla (nosaltres) rebem informació vostra, la [política de privacitat de Mozilla](https://www.mozilla.org/privacy) descriu com es tractarà aquesta informació.
 
-* **Dades demogràfiques**. Opcionalment, podeu enviar-nos informació, com ara l'accent, l'edat i el sexe. Això ens ajuda, i també a altres investigadors, a millorar i crear tecnologies i eines de veu a text.
+* **Dades demogràfiques.** Opcionalment, ens podeu enviar informació sobre el vostre accent, l'edat i el gènere. Això ens ajuda, a nosaltres i a d'altres investigadors, a millorar i crear tecnologia i eines de conversió de parla en text.
 
-* **Dades de correu electrònic.** Opcionalment, podeu crear un compte o subscriure-us al nostre butlletí d'informació; en aquest cas, rebem la vostra adreça electrònica. Aquesta adreça electrònica s'associa amb les vostres dades demogràfiques i d'interacció, però no es comparteix públicament.
+* **Dades del compte.** No cal que creeu un compte per utilitzar Common Voice. Si decidiu crear un compte, rebrem el vostre nom d'usuari i avatar, si n'envieu algun. La vostra adreça està associada amb les vostres dades demogràfiques i d'interacció, però no es comparteix amb el públic. Mostrem un tauler de classificació on es mostra el nombre de gravacions que fan els usuaris. Podeu decidir si voleu aparèixer en aquests taulers de classificació públics o no. Podeu suprimir el vostre compte en qualsevol moment i, en aquest cas, se suprimiran el vostre nom d'usuari i l'adreça de correu electrònic.
 
-* **Enregistraments de veu.** Els enregistraments de veu, juntament amb les dades demogràfiques associades, poden estar disponibles a la base de dades de Common Voice per al consum i ús públics.
+* **Butlletí.** Podeu subscriure-us al nostre butlletí; en aquest cas, rebrem la vostra adreça de correu electrònic. Podeu cancel·lar la vostra subscripció en qualsevol moment i la vostra adreça electrònica se suprimirà de la llista de distribució del butlletí.
 
-* **Text**. Si envieu frases escrites, també podrem fer-les disponibles a la base de dades de Common Voice per al consum i ús públics. No associarem aquestes frases amb les dades demogràfiques que envieu.
+* **Gravacions de veu.** Les gravacions de veu, juntament amb totes les dades demogràfiques que hàgiu proporcionat opcionalment, es poden posar a disposició a la base de dades de Common Voice per al consum públic i la seva utilització amb llicència Creative Commons Zero License ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
-* **Dades d'interacció.** Utilitzem Google Analytics per a comprendre millor com interactueu amb l'aplicació o amb el lloc web de Common Voice. Per exemple, això inclou el nombre de mostres de veu que enregistreu o escolteu, les interaccions amb botons i menús, i la durada de la sessió.
+* **Text.** Si envieu frases escrites, també les podem posar a disposició a la base de dades de Common Voice per al consum públic amb una llicència [CC0](https://creativecommons.org/publicdomain/zero/1.0/)(Si envieu frases escrites, també les podem posar a disposició a la base de dades de Common Voice per al consum públic amb una llicència [CC0](https://creativecommons.org/publicdomain/zero/1.0/), conforme a totes les nostres mostres. No associarem aquestes frases amb les dades demogràfiques que ens envieu, d'acord amb totes les nostres mostres. No associarem aquestes frases amb les dades demogràfiques que ens envieu.
 
-* **Dades tècniques.** Mitjançant Google Analytics, recollim l'URL i el títol de les pàgines de Common Voice que visiteu. Recopilem el navegador, la mida de la finestra i la resolució de la pantalla. També recollim la vostra ubicació i la configuració de la llengua del navegador.
+* **Dades d'interacció.** Utilitzem Google Analytics per comprendre millor com interaccioneu amb l'aplicació o amb el lloc web de Common Voice. Per exemple, podem utilitzar galetes per fer un seguiment de la informació no identificable, com el nombre de mostres que graveu o escolteu, les interaccions amb els botons i els menús i la durada de les sessions.
+
+* **Dades tècniques.** Amb Google Analytics, recopilem les adreces URL i el títol de les pàgines de Common Voice que visiteu. Per tal de millorar contínuament l'experiència de Common Voice, recopilem informació sobre el tipus i la versió del navegador, la mida de la finestra de visualització i la resolució de la pantalla. Això ens permet comprendre com interacciona la gent amb Common Voice i millorar-lo. També recopilem informació sobre la vostra ubicació i la configuració d'idioma del navegador per assegurar-nos que el veieu correctament.
 
 [Més informació](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+
