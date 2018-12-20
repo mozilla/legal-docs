@@ -1,21 +1,24 @@
-# Privacyverklaring van Common Voice 
+# Privacyverklaring Common Voice 
 
-Datum van inwerkingtreding: 1 mei 2018 {: datetime="2018-05-01" }
+Van kracht vanaf vrijdag 30 november 2018{: datetime="2018-11-30" }
 
 ## Privacy
 
 Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy) hoe we met die informatie omgaan.
 
-* **Demografische gegevens.** U kunt ons optioneel gegevens sturen zoals uw accent, leeftijd en geslacht. Dit helpt ons en andere onderzoekers spraak-naar-tekst-technologie en -hulpmiddelen te maken en te verbeteren.
+* **Demografische gegeven.** U kunt ons optioneel informatie sturen over uw accent, leeftijd en geslacht. Dit helpt ons en andere onderzoekers om technologie en hulpmiddelen voor spraak-naar-tekst te verbeteren en maken.
 
-* **E-mailgegevens.** U kunt optioneel een account aanmaken of zich abonneren op onze nieuwsbrief, in welk geval we uw e-mailadres ontvangen. Dit wordt aan uw demografische en interactiegegevens gekoppeld, maar niet openbaar gemaakt.
+* **Accountgegevens.** U hoeft geen account te maken om Common Voice te gebruiken. Als u besluit om een account te maken, ontvangen we uw gebruikers naam en avatar, als u die verzendt. Uw e-mailadres wordt gekoppeld aan uw demografische gegevens en aan uw interactiegegevens, maar wordt niet publiekelijk gedeeld. We geven een scorebord weer waarop het aantal opnamen wordt weergegeven dat gebruikers hebben gemaakt. U kunt kiezen of u wel of niet op de openbare scoreborden wilt worden weergegeven. U kunt uw account op elk gewenst moment verwijderen, waarnaar uw gebruikersnaam en e-mailadres worden verwijderd.
 
-* **Stemopnamen.** Stemopnamen kunnen, samen met gerelateerde demografische gegevens, in de Common Voice-database beschikbaar zijn voor openbaar gebruik.
+* **Nieuwsbrief.** U kunt zich inschrijven voor onze nieuwsbrief. In dat geval hebben wij uw e-mailadres nodig. U kunt zich op elk gewenst moment uitschrijven voor de nieuwsbrief. Uw e-mailadres wordt vervolgens verwijderd uit de distributielijst voor de nieuwsbrief.
 
-* **Tekst.** Als u schriftelijke zinnen indient, kunnen we die ook beschikbaar maken via de Common Voice-database voor openbaar gebruik. We koppelen deze zinnen niet aan de door u ingediende demografische gegevens. 
+* **Spraakopnamen.** Spraakopnamen, met eventuele optionele demografische gegevens die zijn verstrekt, zijn mogelijk in de Common Voice-database beschikbaar voor het publiek en gebruik onder een ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))-licentie (Creative Commons Zero).
 
-* **Interactiegegevens.** We gebruiken Google Analytics om uw interactie met de Common Voice-app of -website beter te begrijpen. Dit omvat bijvoorbeeld het aantal door u opgenomen of beluisterde stemvoorbeelden, interacties met knoppen en menu’s, of sessielengte.
+* **Tekst.** Als u geschreven zinnen verzendt, stellen we deze ook beschikbaar in de Common Voice-database voor het publiek onder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/)-licentie. (Als u geschreven zinnen verzendt, stellen we deze ook beschikbaar in de Common Voice-database voor het publiek onder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/)-licentie, in overeenstemming met al onze samples. We zullen deze zinnen niet koppelen aan de demografische gegevens die u verzendt.), in overeenstemming met al onze samples. We zullen deze zinnen niet koppelen aan de demografische gegevens die u verzendt.
 
-* **Technische gegevens.** Met behulp van Google Analytics verzamelen we de URL en de titel van de door u bezochte Common Voice-pagina’s. We verzamelen uw browser, venstergrootte en schermresolutie. We verzamelen ook uw locatie en de taalinstelling van uw browser.
+* **Interactiegegevens.** We gebruiken Google Analytics om een beter inzicht te krijgen in uw interactie met de Common Voice-app of -website. We kunnen bijvoorbeeld cookies gebruiken voor het bijhouden van geanonimiseerde informatie, zoals het aantal spraaksamples dat u opneemt of beluistert, de interactie met knoppen en menu's en de sessieduur.
 
-[Meer info](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+* **Technische gegevens.** Via Google Analytics verzamelen we de URL en titel van de Common Voice-pagina's die u bezoekt. Om de Common Voice-ervaring voortdurend te kunnen verbeteren, verzamelen we informatie over browsertypen en -versies, de weergavepoortgrootte en de schermresolutie. Dit stelt ons in staat om te doorgronden wat de interactie van mensen is met Common Voice, zodat we verbeteringen kunnen aanbrengen. We verzamelen ook uw locatie en de taalinstellingen in uw browser om ervoor te zorgen dat alles er juist uitziet voor u.
+
+[Meer informatie](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md).
+
