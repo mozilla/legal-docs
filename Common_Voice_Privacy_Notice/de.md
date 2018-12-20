@@ -1,21 +1,24 @@
 # Common-Voice-Datenschutzerklärung 
 
-Gültig ab 1. Mai 2018 {: datetime="2018-05-01" }
+Gültig ab 30. November 2018 {: datetime="2018-11-30" }
 
 ## Datenschutz
 
-Ab dem Zeitpunkt, an dem wir (Mozilla) Informationen von Ihnen erhalten, legt unsere [Mozilla-Datenschutzrichtlinie](https://www.mozilla.org/privacy) dar, wie wir mit diesen Informationen umgehen.
+Wenn Mozilla (also wir) Daten von Ihnen erhält, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy). Sie beschreibt, wie wir mit diesen Daten umgehen.
 
-* **Demografische Angaben.** Optional können Sie uns Informationen wie Akzent, Alter und Geschlecht zusenden. Dies hilft uns und anderen Forschern bei der Verbesserung und Entwicklung von Technologien und Werkzeugen zur Umwandlung von Sprache in Text.
+* **Demografische Angaben.** Wenn Sie möchten, können Sie uns Angaben zu Ihrem Akzent, Alter und Geschlecht senden. Das hilft uns und anderen Forschungsstellen bei der Verbesserung und Entwicklung von Technologien und Werkzeugen zur Umwandlung von Sprache in Text.
 
-* **E-Mail-Daten.** Sie können wahlweise ein Konto erstellen oder unseren Newsletter abonnieren, wobei wir in diesem Fall Ihre E-Mail-Adresse erhalten. Diese ist mit Ihren demografischen Daten und Ihren Nutzungsdaten verknüpft, wird aber nicht an die Öffentlichkeit weitergegeben.
+* **Kontodaten.** Sie müssen kein Benutzerkonto anlegen, um Common Voice nutzen zu können. Wenn Sie sich entscheiden, ein Konto anzulegen, erhalten wir Ihren Benutzernamen und, falls Sie einen angeben, Ihren Avatar. Ihre E-Mail-Adresse wird mit Ihren demografischen Angaben und Ihren Nutzungsdaten verknüpft. Sie ist aber nicht öffentlich sichtbar. In einer Rangliste zeigen wir, wie viele Aufnahmen die einzelnen Benutzer machen. Sie können festlegen, ob Sie in den öffentlich einsehbaren Ranglisten aufgeführt werden möchten. Sie können Ihr Konto jederzeit löschen. Dann löschen wir Ihren Benutzernamen und Ihre E-Mail-Adresse.
 
-* **Sprachaufnahmen.** Sprachaufnahmen in Verbindung mit allen verknüpften demografischen Daten können in der Common-Voice-Datenbank für den öffentlichen Gebrauch zugänglich sein.
+* **Newsletter.** Sie können unseren Newsletter abonnieren. Dabei erfahren wir Ihre E-Mail-Adresse. Sie können den Newsletter jederzeit wieder abbestellen, dann entfernen wir Ihre E-Mail-Adresse aus dem Newsletter-Verteiler.
 
-* **Text.** Falls Sie geschriebenen Text einreichen, können wir diesen ebenso in der Common Voice-Datenbank für den öffentlichen Gebrauch zugänglich machen. Dieser Text wird nicht den von Ihnen eingereichten demografischen Angaben zugeordnet. 
+* **Sprachaufnahmen.** Sprachaufnahmen und die dazugehörigen demografischen Angaben, die eventuell gemacht wurden, können in der Common-Voice-Datenbank für die öffentliche Nutzung zur Verfügung gestellt werden. Für die Nutzung gilt die „Creative Commons Zero“-Lizenz (([CC0](https://creativecommons.org/publicdomain/zero/1.0/))).
 
-* **Nutzungsdaten.** Wir nutzen Google Analytics, um besser zu verstehen, wie Sie die Common-Voice-App bzw. Website nutzen. Dazu gehören beispielsweise die Anzahl der Sprachproben, die Sie aufnehmen oder anhören, die Nutzungsweise von Schaltflächen und Menüs und die Dauer der Sitzung.
+* **Text.** Wenn Sie geschriebene Sätze einreichen, stellen wir diese möglicherweise auch in der Common-Voice-Datenbank für die öffentliche Nutzung unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) zur Verfügung(Wenn Sie geschriebene Sätze einreichen, stellen wir diese möglicherweise auch in der Common-Voice-Datenbank für die öffentliche Nutzung unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) zur Verfügung, ebenso wie alle Sprachproben. Wir verknüpfen diese Sätze nicht mit den von Ihnen bereitgestellten demografischen Angaben.), ebenso wie alle Sprachproben. Wir verknüpfen diese Sätze nicht mit den von Ihnen bereitgestellten demografischen Angaben.
 
-* **Technische Daten.** Unter Verwendung von Google Analytics erfassen wir die URL und den Titel der Common-Voice-Seiten, die Sie besucht haben. Wir erfassen Ihren Browser, die Größe Ihres Ansichtsfensters und die Bildschirmauflösung. Wir erfassen ebenfalls Ihren Standort und die Spracheinstellungen Ihres Browsers
+* **Nutzungsdaten.** Wir verwenden Google Analytics, um besser zu verstehen, wie Sie die Common-Voice-App oder -Website nutzen. So erfassen wir möglicherweise mithilfe von Cookies anonymisierte Daten, beispielsweise die Anzahl Sprachproben, die Sie aufnehmen oder anhören, welche Schaltflächen und Menüs Sie nutzen, und wie lange Sie sich bei Common Voice aufhalten.
 
-[Mehr erfahren](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+* **Technische Daten.** Über Google Analytics erfassen wir die URL und den Titel der Common-Voice-Seiten, die Sie besuchen. Um die Benutzerfreundlichkeit von Common Voice immer weiter zu verbessern, erfassen wir Daten zu Browsertyp und -version, Größe des Anzeigebereichs und Bildschirmauflösung. Durch diese Angaben können wir verstehen, wie Menschen Common Voice nutzen, und mit diesem Wissen unser Angebot verbessern. Wir erfassen auch Ihren Standort und die in Ihrem Browser eingestellte Sprache, damit wir die Anzeige optimal für Sie gestalten können.
+
+[Weitere Informationen](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+
