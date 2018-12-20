@@ -1,41 +1,69 @@
-# Telerau Cyfreithiol Common Voice 
+# Telerau Cyfreithiol Llais Cyffredin 
 
-Yn effeithiol Mai 01, 2018
-{: datetime="2018-05-01" }
+Effeithiol 30 Tachwedd 2018 {: datetime="2018-11-30" }
 
-## Cymhwysedd 
+Trwy Llais Cyffredin gallwch roi eich llais, brawddegau ysgrifenedig ac adnoddau eraill rydym eu hangen i greu cronfa ddata llais ffynhonnell agored y gall unrhyw un ei ddefnyddio i wneud apiau adnabod llais arloesol ar gyfer dyfeisiau a’r we.
 
+Allwch chi ddim ond cymryd rhan yn Llais Cyffredin os byddwch chi'n cytuno i'r Amodau hyn. 
 
-Er mwyn cymryd rhan yn ein prosiect torfoli, mae'n rhaid ichi fod dros 19 neu fod â chaniatâd eich rhiant neu warcheidwad i arolygu'ch cyfranogiad yn ein prosiect torfoli. Trwy gyfranogi, rydych chi hefyd yn cytuno i gadw at [Ganllawiau Cyfranogi Cymuned Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
+## 1. Cymhwyster
+Mae Llais Cyffredin yn agored i unrhyw un dros 19 oed. Os ydych chi'n 19 oed neu'n iau, rhaid bod gennych chi ganiatâd eich rhiant neu warchodwr a rhai iddynt oruchwylio eich cyfranogiad yn Llais Cyffredin. 
 
-## Eich Cyfraniadau a Rhyddhad Hawliau 
+Mae Llais Cyffredin yn rhan o Gymuned Mozilla. O ganlyniad, os byddwch chi'n dewis cymryd rhan, rydych chi'n cytuno i ddilyn [Canllawiau Cyfranogi Cymuned Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
+## 2. Eich Cyfraniadau 
+Rydyn ni'n darparu cronfa ddata Llais Cyffredin Mozilla dan [ymroddiad parth cyhoeddus Comins Creu CC0](https://creativecommons.org/publicdomain/zero/1.0/). Mae hynny’n golygu ei fod yn gyhoeddus a’n bod wedi ildio pob hawlfraint i’r fath raddau ag y gallwn gan y gyfraith. Os byddwch chi'n cymryd rhan yn Llais Cyffredin, rydym yn gofyn eich bod chi'n gwneud hyn hefyd. Rhaid i chi gytuno y gall Mozilla gynnig eich holl Gyfraniadau (yn cynnwys negeseuon testun, recordiadau, dilysiadau ac adborth) i’r cyhoedd dan ymroddiad parth cyhoeddus [CC0](https://creativecommons.org/publicdomain/zero/1.0/) . 
 
-Os ydych chi'n cyflwyno testun ysgrifenedig neu recordiadau, rydych chi'n sicrhau Mozilla eich bod wedi ysgrifennu unrhyw gynnwys testun eich hun a bod unrhyw recordiad yn eich llais chi'ch hun. Gallwch hefyd sicrhau Mozilla bod gennych chi'r hawl i gyflwyno'r testun neu recordiad at ddefnydd prosiect cyhoeddus o dan y [drwydded CC-0](https://creativecommons.org/publicdomain/zero/1.0/) ac nid yw'r testun neu recordiad yn amharu ar unrhyw hawliau trydydd parti. 
- 
+Er mwyn cymryd rhan yn Llais Cyffredin, mae Mozilla hefyd yn gofyn eich bod yn rhoi dau sicrwydd: 
 
-Trwy gyflwyno'ch testun ysgrifenedig neu recordiau sain, rydych hefyd yn hepgor pob hawlfraint a hawliau cysylltiedig y gall bod gennych ynddynt, ac yn cytuno i ryddhau'r testun ysgrifenedig neu recordiadau sain i'r cyhoedd o dan [drwydded CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Mae hyn yn golygu eich bod yn cytuno i hepgor pob hawl i'r testun a recordiadau a draws y byd i'r testun a'r recordiadau o dan gyfraith hawlfraint a chronfa ddata a phob hawl cysylltiedig a pherthynol.
+Yn gyntaf, fod eich Cyfraniadau yn gyfan gwbl eich creadigaeth chi.
 
-## Cyfathrebiadau
+Yn ail, nad yw eich Cyfraniadau yn amharu ar unrhyw hawliau trydydd parti. 
 
-Os ydych chi'n tanysgrifio i dderbyn ein cylchlythyron neu'n cofrestru am gyfrif mewn perthynas â Common Voice, fe allwch chi dderbyn e-byst gennym ni mewn perthynas â'ch cyfrif (er enghraifft, diweddiadau cyfreithiol, preifatrwydd a diogelwch).
+Os na allwch chi ddarparu'r sicrwydd yma, ni allwch gymryd rhan yn Llais Cyffredin. 
 
-## Cyffredinol
+## 3. Eich Cyfrif
+Does dim angen i chi greu cyfrif i gymryd rhan yn Llais Cyffredin. 
 
-Ymwadiad, Cyfyngiad ar Atebolrwydd: DARPERIR COMMON VOICE A PHOB TESTUN A RECORDIAD A GYNHWYSIR AR SAIL “FEL Y MAE” HEB WARANT O UNRHYW FATH, A YW'N DDATGANEDIG NEU'N YMHLYG. NID YW MOZILLA YN CYMRYD UNRHYW GYFRIFOLDEB AM AC NID YW'N DERBYN UNRHYW GYFRIFOLDEB AM UNRHYW DESTUN NEU RECORDIADAU YR YDYCH CHI NEU UNRHYW DDEFNYDDIWR ARALL NEU DRYDYDD PARTI YN EI GYHOEDDI NEU DROSGLWYDDO TRWY DDEFNYDDIO COMMON VOICE.  YN BENODOL, MAE MOZILLA YN GWADU UNRHYW A PHOB WARANT AC AMOD O FARSIANDÏAETH, ADDASRWYDD AT BWRPAS ARBENNIG, AC AN-DOR RHEOL, AC AM UNRHYW WARANT YN CODI ALLAN O DDELIO Â NEU DDEFNYDD MASNACH.
+Os byddwch yn creu cyfrif, bydd Mozilla yn gofyn am eich cyfeiriad e-bost ac enw defnyddiwr o’ch dewis. Neu, gallwch hefyd ddarparu rhithffurf a data demograffeg penodol fydd yn ein helpu i ddeall sut i ddysgu peiriannau i ddeall pobl gyda gwahanol acenion, oedrannau, rhyw a chefndir.
 
-CYN BELLED Â CHANIATEIR GAN Y GYFRAITH BERTHNASOL, RYDYCH CHI'N CYTUNO I RYDDHAU A DAL MOZILLA CORPORATION A'I RIANT, IS-GWMNÏAU, CWMNÏAU CYSWLLT, CYFARWYDDWYR, SWYDDOGION, CYFLOGEION, AC ASIANTAU (Y “PARTÏON MOZILLA”), O UNRHYW A PHOB CYFRIFOLDEB AM UNRHYW NIWED, COLLED NEU OEDI (GAN GYNNWYS NIWED PERSONOL, MARWOLAETH, NEU DDIFROD I EIDDO) SY'N ARWAIN YN GYFAN GWBL NEU'N RHANNOL, YN UNIONGYRCHOL NEU'N  ANUNIONGYRCHOL, I'CH CYFRANOGIAD YN COMMON VOICE
+Pan fyddwch chi'n darparu gwybodaeth ar gyfer eich cyfrif, rydych yn rhoi pob caniatâd angenrheidiol i Mozilla i: 
+gadw llygad ar wybodaeth am eich Cyfraniadau, yn cynnwys recordiadau sain, testun a dilysiadau, 
+gysylltu’r data hwnnw gyda’ch cyfrif, e-bost, enw defnyddiwr a gwybodaeth demograffeg a roddwch, a
+cyhoeddi eich Cyfraniadau'n gyhoeddus yn gyflym ynghyd ag unrhyw wybodaeth demograffeg,
+Cyhoeddi metrigau am eich Cyfraniadau (fel nifer o recordiadau ac ieithoedd) ynghyd â’ch enw defnyddiwr ar y tabl arweinwyr.
 
-HEBLAW AM SYDD YN OFYNNOL O DAN Y GYFRAITH, NI FYDD MOZILLA A'R PARTÏON MOZILLA YN GYFRIFOL AM UNRHYW IAWNDAL ANUNIONGYRCHOL, ARBENNIG, CANLYNIADOL, NEU GOSBEDIGAETHOL SY'N CODI O NEU MEWN UNRHYW FFORDD YN GYSYLLTIEDIG Â'R TELERAU HYN NEU DDEFNYDD NEU ANALLU DEFNYDDIO COMMON VOICE, GAN GYNNWYS HEB GYFYNGIAD IAWNDAL UNIONGYRCHOL NEU ANUNIONGYRCHOL AM GOLLI EWYLLYS DA, GWAITH YN STOPIO, ELW WEDI EI GOLLI, COLLI DATA, A METHIANT NEU DDIFFYG GWEITHREDU CYFRIFIADUROL HYD YN OED PE CYNGHORID O'R POSIBILRWYDD O IAWNDAL O'R FATH A WAETH BETH FO'R THEORI (CONTRACT, CAMWEDD NEU FEL ARALL) Y SEILIR CAIS O'R FATH. NI FYDD CYFRIFOLDEB CYFUNOL MOZILLA A'R PARTÏON MOZILLA  O DAN Y CYTUNDEB HWN YN FWY NA $500 (PUM CANT O DDOLERI). NID YW RHAI SOME AWDURDODAETHAU'N CANIATÁU'R EITHRIO NEU GYFYNGU AR IAWNDAL DAMWEINIOL, CANLYNOL NEU ARBENNIG, FELLY, MAE'N BOSIBL NA FYDD YR EITHRIAD A'R CYFYNGIAD HWN YN BERTHNASOL ICHI.
+Ni fydd Mozilla yn postio na chyhoeddi eich cyfeiriad e-bost yn gyhoeddus. 
 
-## Diweddariadau 
+Gallwch ddewis peidio ymddangos ar y tablau arweinwyr. Os gwnewch chi hynny, ni fydd Mozilla yn cyhoeddi data am eich recordiadau mewn perthynas â’ch enw defnyddiwr. Fodd bynnag, bydd Mozilla yn dal i wneud eich testun a recordiadau ar gael i'r cyhoedd yn rhan o Llais Cyffredin ac yn cynnwys gwybodaeth am eich recordiadau yn y metrigau cyffredinol sydd ar gael yn gyhoeddus.
 
-Gall Mozilla ddiweddaru'r Telerau hyn o bryd i'w gilydd i ateb nodwedd newydd o Common Voice neu i egluro darpariaeth. Cyhoeddir y Telerau wedi eu diweddaru ar-lein. Os yw'r newidiadau'n sylweddol, byddwn yn cyhoeddi'r diweddariad drwy sianelau arferol Mozilla am gyhoeddiadau o'r fath fel negesau blog a fforymau. Mae'ch defnydd o Common Voice arôl y dydd effeithiol o newidiadau o'r fath yn golygu'ch bod chi'n derbyn newidiadau o'r fath. I wneud eich adolygiad yn fwy hwylus, byddwn yn cyhoeddi dyddiad effeithiol ar frig y dudalen hon.
+## 4. Cyfathrebu
+Os byddwch chi'n tanysgrifio i dderbyn eich cylchlythyrau neu'n cofrestru am gyfrif mewn perthynas â Llais Cyffredin, efallai y byddwch yn derbyn negeseuon e-bost gennym mewn perthynas â’ch cyfrif. 
 
-## Terfynu 
+## 5. Ymwadiad
 
-Gallwn ohirio neu derfynu'ch mynediad i Common Voice ar unrhyw adeg am unrhyw reswm, fe fyddwn yn gwneud ymdrechion rhesymol i'ch hysbysu trwy'r cyfeiriad e-bost sy'n gysylltiedig â'ch cyfrif o'r amser nesaf rydych yn ceisio cael mynediad at Common Voice. Er gwaethaf unrhyw derfynu, bydd pob recordiad rydych yn eu cyflwyno i Mozilla yn parhau i fod ar gael yn gyhoeddus.
+Trwy gymryd rhan yn Llais Cyffredin, rydych yn cytuno na fydd Mozilla yn atebol mewn unrhyw fodd am unrhyw anallu i ddefnyddio Llais Cyffredin neu am unrhyw hawliad yn deillio o’r telerau hyn. Mae Mozilla yn ymwadu'n benodol y canlynol:
+Difrod anuniongyrchol, arbennig, achlysurol, ôl-ddilynol neu enghreifftiol
+Difrod uniongyrchol neu anuniongyrchol am golli ewyllys da, atal gwaith, colli elw, colli data neu ddiffyg cyfrifiadurol
 
-## Cyfraith Lywodraethol
+Mae unrhyw atebolrwydd dan y cytundeb hwn yn gyfyngedig i $500. 
 
-Mae'r Telerau Cyfreithiol hyn yn cynnwys yr holl gytundeb rhyngoch chi a Mozilla mewn perthynas â Common Voice ac fe'u llywodraethir gan gyfreithiau talaith California, U.D.A.
+Rydych yn cytuno i ddigolledu a dal Mozilla yn ddiniwed am unrhyw atebolrwydd neu hawliad sy'n codi o ganlyniad i’ch cyfranogiad yn Llais Cyffredin. 
+
+Mae Mozilla yn darparu'r gwasanaeth “fel y mae.” Mae Mozilla yn ymwrthod yn benodol ag unrhyw warantau neu sicrwydd cyfreithiol fel “marchnadwyedd,” “addasrwydd i ddiben penodol,” “tor rheolau,” a gwarantau yn deillio o ymwneud, defnydd neu fasnach. 
+
+## 6. Hysbysiadau o Drosedd
+Os ydych chi'n meddwl bod rhywbeth yn Llais Cyffredin yn amharu ar eich hawlfraint neu hawliau nod masnach, gweler ein [polisi ar sut i adrodd am drosedd](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Diweddariadau 
+Yn achlysurol, gall Mozilla benderfynu diweddaru'r Termau hyn. Byddwn yn postio'r Telerau wedi eu diweddaru ar-lein. 
+
+Os byddwch chi'n parhau i ddefnyddio Llais Cyffredin wedi i ni gyhoeddi Telerau wedi eu diweddaru, mae parhad defnydd yn cyfateb i dderbyn newidiadau o’r fath. Byddwn yn cyhoeddi dyddiad effeithiol ar frig y dudalen hon i esbonio pryd wnaethpwyd y diweddariadau diwethaf. 
+
+## 8. Terfynu 
+Gall Mozilla atal neu derfynu mynediad unrhyw un i Llais Cyffredin ar unrhyw adeg am ba bynnag reswm. Os byddwn yn penderfynu atal neu derfynu eich mynediad, byddwn yn ceisio’ch hysbysu yn defnyddio'r cyfeiriad e-bost sy'n gysylltiedig â’ch cyfrif neu'r tro nesaf y byddwch yn ceisio cyrchu Llais Cyffredin. 
+
+Bydd y recordiadau a gyflwynwch i Mozilla yn parhau i fod ar gael i’r cyhoedd yn rhan o Llais Cyffredin hyd yn oed os byddwn yn terfynu neu atal eich mynediad. 
+
+## 9. Cyfraith Lywodraethol
+Cyfraith Califfornia sy'n berthnasol i'r Amodau hyn. Y telerau hyn yw’r cytundeb cyfan rhyngoch chi a Mozilla parthed Llais Cyffredin.
