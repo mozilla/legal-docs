@@ -1,38 +1,69 @@
 # Juridische voorwaarden van Common Voice 
 
-Datum van inwerkingtreding: 1 mei 2018
-{: datetime="2018-05-01" }
+Van kracht vanaf vrijdag 30 november 2018{: datetime="2018-11-30" }
 
-## Geschiktheid
+Via Common Voice kunt u uw stem, geschreven zinnen en andere bronnen delen die we nodig hebben voor het opbouwen van een open-source spraakdatabase die iedereen kan gebruiken voor het maken van innovatieve spraakherkennings-apps voor apparaten en het web.
 
-Als u wilt deelnemen aan ons project voor crowdsourcing, moet u ouder zijn dan 19 jaar of toestemming of toezicht van uw ouder of voogd hebben om aan ons crowdsourcingproject deel te nemen. Door deel te nemen gaat u ook akkoord met de [richtlijnen van Mozilla voor deelname door de gemeenschap](https://www.mozilla.org/about/governance/policies/participation/). 
+U mag uitsluitend deelnemen aan Common Voice als u instemt met deze voorwaarden. 
 
-## Uw bijdragen en vrijgave van rechten
+## 1. Geschiktheid
+Common Voice is open voor iedereen die ouder is dan 19 jaar. Als u jonger bent dan 19 jaar, moet u toestemming hebben van een ouder of voogd en deze persoon moet vervolgens toezicht houden op uw gebruik van Common Voice. 
 
-Als u schriftelijke tekst of opnamen indient, verklaart u aan Mozilla dat u de tekst zelf hebt geschreven en dat de opnamen van uw eigen stem zijn. U verklaart bovendien aan Mozilla dat u het recht hebt de tekst of opname in te dienen voor gebruik bij een openbaar project als onderdeel van de [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)-licentie, en dat u met de tekst of opname geen inbreuk pleegt op de rechten van derden. 
+Common Voice is onderdeel van de Mozilla Community. Als u ervoor kiest om deel te nemen, moet u er dus mee instemmen om de [Deelnamerichtlijnen van de Mozilla Community](https://www.mozilla.org/en-US/about/governance/policies/participation/) in acht te nemen. 
 
-Door uw schriftelijke tekst of geluidsopnamen in te dienen, ziet u bovendien af van alle auteursrechten en verwante rechten die u hierop hebt, en gaat u akkoord met het openbaar maken van de schriftelijke tekst of geluidsopnamen als onderdeel van een [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)-licentie. Dit betekent dat u accepteert dat u wereldwijd afziet van alle rechten op de tekst en opnamen onder auteursrecht- en databasewetgeving, inclusief morele en publiciteitsrechten en alle verwante en naburige rechten.
+## 2. Uw bijdragen 
+We stellen de Common Voice-database van Mozilla beschikbaar onder de [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Dit brengt met zich mee dat het publiek en wij afzien van alle auteursrechten voor zover en in die mate waarin dat is toegestaan onder de toepasselijke wetgeving. Als u deelneemt aan Common voice, vereisen we dat u hetzelfde doet. U moet ermee akkoord gaan dat Mozilla al uw bijdragen (waaronder tekst, opnamen, validaties en feedback) aan het publiek mag aanbieden onder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. 
 
-## Communicatie
+Om deel te nemen aan Common Voice, vereist Mozilla bovendien dat u de volgende twee garanties geeft: 
 
-Als u zich inschrijft om onze nieuwsbrieven te ontvangen of een account registreert in verband met Common Voice, kunt u e-mailberichten in verband met uw account van ons ontvangen (bijvoorbeeld juridische, privacygerelateerde of beveiligingsupdates).
+De eerste: uw werk is geheel uw eigen creatie.
 
-## Algemeen
+De tweede: uw bijdragen maken geen inbreuk op rechten van derde partijen. 
 
-Disclaimer; beperkte aansprakelijkheid: COMMON VOICE EN ALLE OPNAMEN EN TEKST WORDEN AANGEBODEN OP BASIS VAN ‘ALS IS’ ZONDER ENIGE GARANTIE, EXPLICIET OF IMPLICIET. MOZILLA NEEMT GEEN VERANTWOORDELIJKHEID EN ACCEPTEERT GEEN AANSPRAKELIJKHEID VOOR ENIGERLEI OPNAME OF TEKST DIE U OF EEN ANDERE GEBRUIKER OF DERDE PARTIJ PLAATST OF VERZENDT MET COMMON VOICE. MOZILLA WIJST NADRUKKELIJK ALLE GARANTIE EN VOORWAARDEN VAN VERHANDELBAARHEID, GESCHIKTHEID VOOR EEN SPECIFIEK DOEL EN NIET-INBREUK AF, EVENALS ALLE GARANTIE DIE VOORTKOMT UIT HANDEL OF GEBRUIK VAN HET GEBODENE.
+Als u deze twee garanties niet kunt geven, mag u niet deelnemen aan Common Voice. 
 
-VOOR ZOVER TOEGESTAAN ONDER TOEPASSELIJK RECHT ACCEPTEERT U DE VRIJGAVE EN VRIJWAART U DE MOZILLA CORPORATION EN HAAR MOEDERMAATSCHAPPIJ, ONDERGESCHIKTE BEDRIJVEN, GERELATEERDE BEDRIJVEN, DIRECTIE, UITVOERENDEN, MEDEWERKERS EN AGENTEN (DE ‘MOZILLA-PARTIJEN’) VAN ALLE AANSPRAKELIJKHEID VOOR SCHADE, VERLIES OF VERTRAGING (WAARONDER PERSOONLIJK LETSEL, OVERLIJDEN OF EIGENDOMSSCHADE) GEHEEL OF GEDEELTELIJK RESULTEREND, RECHTSTREEKS OF INDIRECT, UIT UW DEELNAME AAN COMMON VOICE.
+## 3. Uw account
+U hoeft geen account te maken om deel te nemen aan Common Voice. 
 
-BEHOUDENS ZOALS VEREIST BIJ DE WET ZIJN MOZILLA EN DE MOZILLA-PARTIJEN NIET AANSPRAKELIJK VOOR ENIGE INDIRECTE, SPECIALE, INCIDENTELE, GEVOLG- OF VOORBEELDSCHADE VOORTVLOEIEND UIT OF OP ENIGE MANIER GERELATEERD AAN DEZE VOORWAARDEN OF HET GEBRUIK OF DE ONMOGELIJKHEID TOT GEBRUIK VAN COMMON VOICE, MET INBEGRIP VAN EN ZONDER BEPERKING TOT DIRECTE OF INDIRECTE SCHADE DOOR VERLIES AAN GOODWILL, STILLEGGEN VAN WERK, WINSTDERVING, GEGEVENSVERLIES EN COMPUTERFALEN, ZELFS WANNEER DE MOGELIJKHEID VAN DEZE SCHADE IS AANGEGEVEN EN ONGEACHT DE GROND (CONTRACT, DWANG OF ANDERSZINS) WAAROP EEN DERGELIJKE CLAIM IS GEBASEERD. DE COLLECTIEVE AANSPRAKELIJKHEID VAN MOZILLA EN DE MOZILLA-PARTIJEN ONDER DEZE OVEREENKOMST ZAL HET BEDRAG VAN $ 500 (VIJFHONDERD DOLLAR) NIET OVERSCHRIJDEN. SOMMIGE RECHTSGEBIEDEN STAAN UITSLUITINGEN OF BEPERKINGEN VAN INCIDENTELE, SPECIALE OF GEVOLGSCHADE NIET TOE, DUS MOGELIJK ZIJN DEZE UITZONDERING EN BEPERKING OP U NIET VAN TOEPASSING.
+Als u een account maakt, vraagt Mozilla u om uw e-mailadres en een gebruikersnaam van uw keuze. U kunt eventueel ook een avatar en bepaalde demografisch gegevens verstrekken die ons helpen doorgronden hoe we machines kunnen leren mensen met verschillende accenten, van verschillende leeftijden, met een verschillende geslacht en een verschillende achtergrond te begrijpen.
 
-## Updates 
+Wanneer u informatie opgeeft voor uw account, geeft u Mozilla alle vereiste toestemmingen voor het volgende: 
+het bijhouden van informatie over uw bijdragen, waaronder audio-opnamen, tekst en validaties, 
+het koppelen van deze gegevens aan uw account, e-mailadres, gebruikers naam en de demografische gegevens die u verstrekt, en
+het publiceren van uw bijdragen met eventuele bijbehorende demografische informatie,
+Het publiceren van meetwaarden over uw bijdragen (zoals het aantal opnamen en talen) met uw gebruikersnaam op het scorebord.
 
-Mozilla kan deze Voorwaarden van tijd tot tijd bijwerken om een nieuwe functie van de Common Voice te verwerken of een bepaling te verduidelijken. De bijgewerkte Voorwaarden worden online geplaatst. Als de wijzigingen substantieel zijn, wordt de update aangekondigd via de voor dit soort aankondigingen gebruikelijke Mozilla-kanalen, zoals blogberichten en forums. Gebruik van Common Voice na de datum van inwerkingtreding van dergelijke wijzigingen betekent dat u de wijzigingen accepteert. Om uw beoordeling te vergemakkelijken, plaatsen we een datum van inwerkingtreding bovenaan deze pagina.
+Mozilla zal uw e-mailadres niet plaatsen of publiceren. 
 
-## Beëindiging 
+U kunt ervoor kiezen om niet te worden weergegeven op scoreborden. Als u dat doet, publiceert Mozilla geen gegevens over uw opnamen gekoppeld aan uw gebruikersnaam. Mozilla stelt echter uw tekst en opnamen nog steeds publiekelijk beschikbaar als onderdeel van Common Voice en neemt informatie over uw opnamen op in de algehele meetwaarden die publiekelijk beschikbaar worden gesteld.
 
-We kunnen uw toegang tot Common Voice te allen tijde om welke reden dan ook tijdelijk of permanent weigeren; we zullen redelijke pogingen ondernemen u te informeren via het e-mailadres dat bij uw account hoort, of de volgende keer dat u Common Voice probeert te gebruiken. Ongeacht een beëindiging blijven de door u bij Mozilla ingediende opnamen publiekelijk beschikbaar.
+## 4. Communicatie
+Als u zich abonneert op onze nieuwsbrief of als u zich registreert voor een account in verband met Common Voice, ontvangt u mogelijk e-mailberichten van ons die betrekking hebben op uw account. 
 
-## Toepasselijk recht
+## 5. Disclaimers
 
-Deze Juridische voorwaarden omvatten de volledige overeenkomst tussen u en Mozilla met betrekking tot Common Voice en vallen onder de wetgeving van de staat Californië in de Verenigde Staten.
+Door deel te namen aan Common Voice, stemt u ermee in dat Mozilla niet aansprakelijk is voor uw onmogelijkheid om Common Voice te gebruiken of voor welke claim dan ook die voortvloeit uit deze voorwaarden. Mozilla wijst het volgende nadrukkelijk van de hand:
+Indirecte, bijzonder, incidentele, gevolg- of bijkomende schade
+Directe of indirecte schade als gevolg van het verlies van goodwill, werkstopzetting, winstderving, het verlies van gegevens of computerstoring
+
+Elke aansprakelijkheid uit hoofde van deze overeenkomst is beperkt tot $500. 
+
+U stemt ermee in om Mozilla te vrijwaren en schadeloos te stellen met betrekking tot welke aansprakelijkheid of claim dan ook die voortvloeit uit uw deelname in Common Voice. 
+
+Mozilla biedt de service “as is.” Mozilla wijst elke wettelijke garantie nadrukkelijk van de hand, waaronder garanties ten aanzien van verhandelbaarheid, geschiktheid voor een bepaald doel, auteursrechten en garanties die voortvloeien uit een handelswijze, het gebruik of een transactie. 
+
+## 6. Kennisgevingen over inbreuken
+Als u vermoedt dat iets op Common Voice inbreuk maakt op uw auteursrechten of handelsmerkrechten, raadpleegt u ons [beleid voor het melden van inbreuken](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Updates 
+Mozilla kan er van tijd tot tijd toe toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. 
+
+Als u Common Voice blijft gebruiken nadat we bijgewerkte voorwaarden hebben geplaatst, geeft u aan dat u ermee instemt dat u aan dergelijke wijzigingen gebonden bent. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer de recentste update is uitgevoerd. 
+
+## 8. Beëindiging 
+Mozilla kan om welke reden dan ook de toegang van wie dan ook tot Common Voice op elk gewenst opschorten of beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, stellen we u per e-mail in kennis via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot Common Voice. 
+
+De opnamen die u verzendt, blijven publiekelijk beschikbaar als onderdeel van Common Voice, zelfs wanneer we uw toegang opschorten of beëindigen. 
+
+## 9. Geldend recht
+De wetgeving van Californië is van toepassing met betrekking tot deze voorwaarden. Deze voorwaarden vormen de gehele overeenkomst tussen u en Mozilla met betrekking tot Common Voice.
