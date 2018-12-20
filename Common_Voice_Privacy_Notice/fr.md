@@ -1,21 +1,24 @@
-# Politique de confidentialité de Common Voice 
+# Avis de confidentialité de Common Voice 
 
-En vigueur au 1 mai 2018 {: datetime="2018-05-01" }
+En vigueur depuis le 30 novembre 2018 {: datetime="2018-11-30" }
 
 ## Confidentialité
 
-Lorsque Mozilla (c’est nous) reçoit des informations de votre part, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy) détaille comment nous traitons ces informations.
+Lorsque Mozilla (nous) reçoit des informations vous concernant, notre [Politique de confidentialité](https://www.mozilla.org/privacy) décrit la façon dont nous gérons ces informations.
 
-* **Données démographiques.** Vous pouvez, de façon facultative, nous communiquer des informations telles que votre accent, votre âge et sexe. Cela nous aide, ainsi que les autres chercheurs, à améliorer la qualité des outils de reconnaissance vocale.
+* **Données démographiques.** Vous pouvez, si vous le souhaitez, nous transmettre des informations, telles que votre accent, votre âge ou votre sexe. Comme pour d’autres chercheurs, cela nous permet d’améliorer et créer des technologies et des outils de reconnaissance vocale.
 
-* **Données de messagerie.** Vous pouvez, de façon facultative, créer un compte ou vous inscrire à notre lettre d’information, auquel cas nous collectons votre adresse électronique. Cette information est associée avec vos données démographiques et d’interaction mais n’est pas partagée avec le public.
+* **Données de compte.** Vous n’avez pas besoin de créer un compte pour utiliser Common Voice. Si vous décidez de créer un compte, vous recevrez un nom d’utilisateur et un avatar, si vous en avez transmis un. Votre adresse électronique est associée à vos données démographiques et d’interaction, mais elle n’est pas communiquée au public. Nous affichons un classement détaillant le nombre d’enregistrements faits par les utilisateurs. Vous pouvez choisir d'apparaître ou de ne pas apparaître dans les classements publics. Vous pouvez supprimer votre compte à tout moment. Votre nom d'utilisateur et votre adresse électronique seront alors supprimés.
 
-* **Enregistrements vocaux.** Les enregistrements vocaux, associés à vos données démographiques, peuvent être mis à disposition dans la base de données Common Voice, pour une utilisation publique.
+* **Bulletin d'information.** Vous pouvez vous inscrire à notre bulletin d'information, auquel cas nous recevons votre adresse électronique. Vous pouvez vous désinscrire à tout moment et votre adresse électronique sera retirée de la liste de distribution de notre bulletin d’information.
 
-* **Texte.** Si vous soumettez des phrases écrites, nous pouvons également les mettre à disposition dans la base de données Common Voice, pour une utilisation publique. Nous n’associerons pas ces phrases aux données démographiques que vous soumettez. 
+* **Enregistrements vocaux.** Les enregistrements vocaux, ainsi que les données démographiques fournies, peuvent être disponibles dans la base de données de Common Voice à des fins d’utilisation par le public.et sous licence Creative Commons ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))
 
-* **Données d’interaction.** Nous utilisons Google Analytics pour mieux comprendre comment vous interagissez avec l’application et le site web Common Voice. Par exemple, cela inclut le nombre d’extraits vocaux que vous enregistrez ou que vous écoutez, vos interactions avec les boutons et les menus, et la durée de vos sessions.
+* **Texte.** Si vous soumettez des phrases écrites, il est également possible que nous les rendions accessibles au public sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) depuis la base de données de Common Voice (si vous soumettez des phrases écrites, il est également possible que nous les rendions accessibles au public sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) depuis la base de données de Common Voice, conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données que vous soumettez), conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données démographiques que vous soumettez.
 
-* **Données techniques.** Via Google Analytics, nous collectons les URL et titres des pages Common Voice que vous visitez. Nous collectons le navigateur que vous utilisez, la taille de la zone d’affichage et la résolution de l’écran. Nous collectons également votre position géographique et la langue configurée dans votre navigateur.
+* **Données d’interaction.** Nous utilisons Google Analytics afin de mieux comprendre la façon dont vous interagissez avec l’application ou le site web de Common Voice. Par exemple, nous pouvons utiliser des cookies pour suivre des informations anonymisées, telles que le nombre d’échantillons de voix que vous enregistrez ou écoutez, vos interactions avec des boutons et des menus et la durée des sessions.
+
+* **Données techniques.** À l’aide de Google Analytics, nous collectons l’URL et le titre des pages de Common Voice que vous consultez. Afin d’améliorer constamment l’expérience Common Voice, nous recueillons des informations sur le type et la version du navigateur, la taille de la fenêtre d’affichage et la résolution de l’écran. Cela nous permet de comprendre l’interaction des utilisateurs avec Common Voice et ainsi de la perfectionner. Nous collectons également votre emplacement et les paramètres de langue de votre navigateur pour nous assurer que nous vous proposons une version adaptée.
 
 [En savoir plus](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+
