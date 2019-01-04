@@ -7,7 +7,7 @@ Grâce à Common Voice, vous pouvez donner un peu de votre voix, proposer des ph
 Pour participer à Common Voice, vous devez accepter les présentes Conditions d’utilisation. 
 
 ## 1. Éligibilité
-Common Voice est accessible à toute personne âgée de plus de 19 ans. Si vous avez 19 ans au moins, vous devez avoir le consentement d’un de vos parents ou de votre tuteur, qui doit superviser votre participation à Common Voice. 
+Common Voice est accessible à toute personne âgée de plus de 19 ans. Si vous avez 19 ans ou moins, vous devez avoir le consentement d’un de vos parents ou de votre tuteur, qui doit superviser votre participation à Common Voice. 
 
 Common Voice fait partie de la communauté de Mozilla. Par conséquent, si vous décidez d’y prendre part, vous acceptez de vous conformer aux [Directives relatives à la participation communautaire de Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
@@ -25,7 +25,7 @@ Si vous ne pouvez pas garantir ces deux points, vous ne pouvez pas participer à
 ## 3. Votre compte
 Vous n’avez pas besoin de créer un compte pour participer à Common Voice. 
 
-Si vous créez un compte, Mozilla vous demandera votre adresse électronique et un nom d’utilisateur de votre choix Si vous le souhaitez, vous pouvez également fournir un avatar et certaines données démographiques qui nous permettront de savoir comment permettre aux machines de comprendre les personnes avec différents accents et d’âge, de sexe et d’horizons divers.
+Si vous créez un compte, Mozilla vous demandera votre adresse électronique et un nom d’utilisateur de votre choix. Si vous le souhaitez, vous pouvez également fournir un avatar et certaines données démographiques qui nous permettront de savoir comment permettre aux machines de comprendre les personnes avec différents accents, âges, sexes et d’horizons divers.
 
 En fournissant des informations pour votre compte, vous donnez à Mozilla toutes les autorisations nécessaires pour : 
 consigner les informations relatives à vos Contributions, y compris des enregistrements audio, textes et validations ; 
@@ -35,7 +35,7 @@ publier des indicateurs relatifs à vos Contributions (tels que le nombre d’en
 
 Mozilla ne mettra pas en ligne ni ne publiera, de façon publiquement accessible, votre adresse électronique. 
 
-Vous pouvez choisir de ne pas apparaître dans les classements. Le cas échéant, Mozilla ne publiera aucune donnée relative à vos enregistrements et associée à votre nom d’utilisateur Cependant, dans le cadre de Common Voice, Mozilla rendra vos textes et enregistrements accessibles au public et intégrera des informations concernant vos enregistrements dans les indicateurs globaux qui sont publiquement accessibles.
+Vous pouvez choisir de ne pas apparaître dans les classements. Le cas échéant, Mozilla ne publiera aucune donnée relative à vos enregistrements et associée à votre nom d’utilisateur. Cependant, dans le cadre de Common Voice, Mozilla rendra vos textes et enregistrements accessibles au public et intégrera des informations concernant vos enregistrements dans les indicateurs globaux qui sont publiquement accessibles.
 
 ## 4. Communications.
 Si vous vous inscrivez pour recevoir nos bulletins d’information ou ouvrir un compte en rapport avec Common Voice, nous pouvons être amenés à vous envoyer des courriers électroniques en rapport avec votre compte. 
@@ -43,7 +43,7 @@ Si vous vous inscrivez pour recevoir nos bulletins d’information ou ouvrir un 
 ## 5. Avis de non-responsabilité.
 
 En participant à Common Voice, vous reconnaissez que Mozilla ne sera en aucun cas responsable de toute impossibilité d’utiliser Common Voice ou de toute réclamation découlant des présentes conditions. Mozilla décline expressément ce qui suit :
-toute responsabilité en cas dommage indirect, spécial, accidentel, conséquentiel ou exemplaire ;
+toute responsabilité en cas de dommage indirect, spécial, accidentel, conséquentiel ou exemplaire ;
 toute responsabilité en cas de dommages directs ou indirects en cas de perte de clientèle, d’arrêts de travail, de perte de profit, de perte de données ou de dysfonctionnement informatique.
 
 Toute responsabilité en vertu du présent accord est limitée à 500 USD. 
