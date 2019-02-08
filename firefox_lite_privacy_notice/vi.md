@@ -1,0 +1,54 @@
+## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Thông báo Quyền riêng tư</span>
+
+Ngày 11 tháng 5 năm 2018
+{: datetime="2018-5-11" }
+
+## Tại Mozilla, chúng tôi tin tưởng rằng quyền riêng tư là nền tảng của một môi trường internet lành mạnh.
+
+Đó là lý do vì sao chúng tôi xây dựng Firefox Lite và tất cả sản phẩm khác, để mang đến khả năng kiểm soát cao hơn cho bạn về thông tin bạn chia sẻ trực tuyến và thông tin bạn chia sẻ với chúng tôi. Chúng tôi nỗ lực để chỉ thu thập những gì mình cần nhằm cải thiện Firefox Lite cho tất cả mọi người.
+
+Trong Thông báo Quyền riêng tư này, chúng tôi sẽ giải thích Firefox Lite chia sẻ dữ liệu gì và hướng bạn đến các cài đặt để bạn chia sẻ thậm chí còn ít hơn. Chúng tôi cũng tuân theo các thực tiễn được trình bày trong [Thông báo Quyền riêng tư](https://www.mozilla.org/privacy/) của Mozilla về cách nhận, xử lý và chia sẻ thông tin chúng tôi thu thập từ Firefox Lite.
+
+## Firefox Lite theo mặc định sẽ chia sẻ dữ liệu với:
+
+### Cải tiến hiệu suất và tính ổn định cho người dùng ở khắp mọi nơi
+
+* __Dữ liệu tương tác__: Firefox Lite sẽ gửi dữ liệu về tương tác của bạn với Firefox Lite cho chúng tôi (số lượng trang web truy cập và độ dài phiên truy cập) và các tính năng của Firefox Lite được cung cấp bởi Mozilla hay các đối tác của chúng tôi (chẳng hạn như tương tác với các tính năng tìm kiếm của Firefox Lite và các tham chiếu về đối tác tìm kiếm).
+
+* __Dữ liệu kỹ thuật__: Firefox Lite sẽ gửi dữ liệu về phiên bản và ngôn ngữ của Firefox Lite; hệ điều hành của thiết bị và cấu hình phần cứng, bộ nhớ, thông tin cơ bản về các sự cố và lỗi, kết quả của những quá trình được tự động hóa như cập nhật và kích hoạt cho chúng tôi. Khi Firefox Lite gửi dữ liệu cho chúng tôi, địa chỉ IP của bạn sẽ tạm thời được thu thập như một phần nhật ký máy chủ của chúng tôi.
+
+Hãy xem tài liệu chi tiết về Firefox Lite [ở đây](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) hay tắt “Gửi dữ liệu sử dụng” trong phần cài đặt của bạn.
+{: #telemetry }
+
+### Đề nghị nội dung có liên quan
+
+Firefox Lite sẽ hiển thị nội dung, chẳng hạn như Các trang Hàng đầu (website được đề nghị bởi Mozilla lần đầu tiên cho người dùng Firefox Lite).
+
+* __Dữ liệu Kỹ thuật & Tương tác__: Firefox Lite sẽ gửi cho chúng tôi dữ liệu về vị trí, kích thước của nội dung chúng tôi đề nghị cũng như dữ liệu cơ bản về tương tác của bạn với nội dung được đề nghị của Firefox Lite. Đây cũng bao gồm số lần nội dung được đề nghị được hiển thị hay nhấp vào.
+
+### Đo lường và hỗ trợ tiếp thị của chúng tôi
+
+* __Dữ liệu tham chiếu và chiến dịch__: Để giúp cải thiện các chiến dịch tiếp thị của chúng tôi, Firefox Lite có thể dùng "Dữ liệu tham chiếu" chẳng hạn như miền website hay chiến dịch quảng cáo mà có nhắc bạn tải về và cài đặt Firefox Lite. Dữ liệu này sẽ được giữ bởi nhà cung cấp chuyên phân tích và được cung cấp khi bạn bắt đầu Firefox Lite, bao gồm cả một ID quảng cáo Google, dấu thời gian, quốc gia, địa phương, hệ điều hành và phiên bản ứng dụng. Chúng tôi cũng có thể dùng các nhà cung cấp bên thứ ba để quản lý các chương trình tham chiếu và xử lý bất kỳ dữ liệu nào bạn chọn gửi.
+
+Tìm hiểu thêm về [Dữ liệu tham chiếu và chiến dịch](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
+
+### Cải tiến sản phẩm của chúng tôi dựa trên phản hồi của bạn
+
+Để giúp chúng tôi cải tiến hiệu suất, hỗ trợ sự cố, nhận biết trải nghiệm của bạn với Firefox Lite và cải tiến trải nghiệm người dùng qua thử nghiệmA/B và gửi tin nhắn trong sản phẩm, Firefox Lite sẽ sử dụng nền tảng Firebase của Google mà sẽ nhận dữ liệu từ thiết bị của bạn. Tìm hiểu thêm về tập hợp dữ liệu của [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) hay tắt “Gửi Dữ liệu Sử dụng” trong phần cài đặt của bạn. 
+
+---
+
+## Nếu bạn sử dụng các tính năng này, Firefox Lite sẽ chia sẻ dữ liệu để cung cấp chức năng: {: #optional-features }
+
+### Tìm kiếm
+
+Bạn có thể thực hiện các tìm kiếm trực tiếp từ thanh tìm kiếm trong Firefox Lite. _Mozilla sẽ không nhận các truy vấn tìm kiếm của bạn._ Dữ liệu truy vấn sẽ được gửi cho nhà cung cấp tìm kiếm của bạn mà có chính sách quyền riêng tư riêng.
+
+* __Đề nghị tìm kiếm__: Firefox Lite theo mặc định sẽ gửi các truy vấn tìm kiếm cho nhà cung cấp dịch vụ để giúp bạn khám phá những cụm từ quen thuộc những người khác dùng để tìm kiếm và cải thiện trải nghiệm tìm kiếm của bạn. Dữ liệu này sẽ không được gửi nếu nhà cung cấp tìm kiếm mà bạn đã chọn không hỗ trợ đề nghị tìm kiếm
+{: #searchsuggestions }
+    
+### Địa điểm {: #location-services }
+
+* __Dữ liệu địa điểm cho dịch vụ vị trí địa lý của Google__: Firefox Lite sẽ luôn hỏi bạn trước khi quyết định và chia sẻ địa điểm của bạn với một website yêu cầu (ví dụ, nếu một website bản đồ cần địa điểm của bạn để cung cấp hướng). Để xác định địa điểm, Firefox Lite có thể dùng các tính năng vị trí địa lý của hệ điều hành của bạn, mạng Wi-fi, mạng lưới thiết bị di động hay địa chỉ IP và có thể gửi dữ liệu này cho dịch vụ vị trí địa lý của Google mà có [chính sách quyền riêng tư riêng](https://www.google.com/privacy/lsf.html).
+
+[Tìm hiểu thêm tại](https://www.mozilla.org/firefox/geolocation/).
