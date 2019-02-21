@@ -38,7 +38,7 @@ Firefox Lite 利用 Google 的 Firebase 平台，會從您的裝置接收資料�
 
 ---
 
-## 如果您使用了這些功能，Firefox Lite 將分享資料以便提供如下功能：{: #optional-features }
+## 如果您使用了這些功能，Firefox Lite 將分享資料以便提供如下功能： {: #optional-features }
 
 ### 搜尋
 
