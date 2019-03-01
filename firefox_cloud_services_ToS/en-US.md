@@ -34,7 +34,7 @@ This top section summarizes the terms below. This summary is provided to help yo
     * Breach Alerts: This notifies you if your email address appears in a new data breach. 
     * Safety Tips: This sends you occasional online safety tips from Mozilla.
 
-    It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and Have I Been Pwned?, strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
+    It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
     (e) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notcs across devices.  
 
