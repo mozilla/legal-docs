@@ -24,7 +24,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     (a) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
     
-    (b) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. See here to report claims of copyright or trademark infringement on Screenshots. To report abuse, email us a link to the shot at screenshots-report@mozilla.com.
+    (b) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
 
     (c) Firefox Lockbox lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
 
