@@ -24,11 +24,9 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     (a) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
     
-    (b) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
+    (b) Firefox Lockbox lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
 
-    (c) Firefox Lockbox lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
-
-    (d) Firefox Monitor is an informational service to promote online security by informing you of public data breaches.   You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox Account, you will receive: 
+    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches.   You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox Account, you will receive: 
 
     * Full Report: This includes a complete list of publicly known hacks, including breaches of sensitive websites, such as those for children or adult and dating sites (these sites are excluded from website scans in order to protect the privacy of those individuals). 
     * Breach Alerts: This notifies you if your email address appears in a new data breach. 
@@ -36,11 +34,11 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
-    (e) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notcs across devices.  
+    (d) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notcs across devices.  
 
-    (f) Firefox Send lets you share encrypted files that automatically expire.  A Firefox Account is required for large file sizes. 
+    (e) Firefox Send lets you share encrypted files that automatically expire.  A Firefox Account is required for large file sizes. 
 
-    (g) Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.  A Firefox Account is required. 
+    (f) Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.  A Firefox Account is required. 
 
 4. #### Privacy Policy
 
