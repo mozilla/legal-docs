@@ -1,77 +1,92 @@
-Zuletzt aktualisiert am Dienstag, 26. September 2017
+# Firefox Cloud Services: Servicebedingungen
 
-#### Zusammenfassung
+Zuletzt aktualisiert am Dienstag, 12. März 2019
+{: datetime="2019-03-12" }
+
+## Zusammenfassung
 
 Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingungen zusammen. Diese Zusammenfassung ist eine Hilfe zum besseren Verständnis der Bedingungen. Sie sollten aber auf jeden Fall das gesamte Dokument lesen, denn mit Ihrer Zustimmung geben Sie an, dass Sie alle Bedingungen akzeptieren, nicht nur die Zusammenfassung.
 
-- Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden.
-- Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
+* Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden.
+* Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
 
-#### Nutzungsbedingungen
+## Servicebedingungen
 
 1. #### Einführung
 
-    Diese Nutzungsbedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
+    Diese Servicebedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
 
 2. #### Firefox-Konten
 
-    Um einige der Services nutzen zu können, müssen Sie ein Firefox-Konto erstellen.  Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Firefox-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Firefox-Kontos ergeben.
+    Um einige der Services nutzen zu können, müssen Sie ein Firefox-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Firefox-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Firefox-Kontos ergeben.
 
-3. #### Funktionen
+3. #### Services
 
-    Mit Firefox-Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browser-Einstellungen. Firefox-Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren.
-
-    Mit „Mein Gerät finden“ können Sie den Standort eines Firefox-OS-Geräts ermitteln und bestimmte Funktionen des Geräts steuern, zum Beispiel die letzten Standorte anzeigen, auf dem Gerät gespeicherte Inhalte löschen, den Klingelton oder Sperrbildschirm aktivieren oder eine Nachricht anzeigen. Um diese Funktionen nutzen zu können, müssen Sie in den Einstellungen des Geräts die Option „Mein Gerät finden“ aktivieren. Diese Option bleibt auch dann aktiviert, wenn sich das Gerät im Lautlosmodus befindet oder die Standortdienste ausgeschaltet wurden. Sie können diese Funktion in den Geräteeinstellungen deaktivieren.
-
-    Wenn Sie Ihr Gerät einmal verlieren, melden Sie sich bei https://find.firefox.com/ mit Ihrem Benutzernamen und Passwort für Ihr Firefox-Konto an, um Ihr Gerät aufzufinden und vom Computer aus zu bedienen. Der ungefähre Standort Ihres Geräts wird uns angezeigt, solange das Gerät eingeschaltet und mit dem Internet verbunden ist. Möglicherweise fallen Gebühren für die Datenübertragung an, die zu Ihren Lasten gehen. Wenn Sie glauben, Ihr Gerät könnte gestohlen worden sein, melden Sie das bitte der Polizei. Seien Sie grundsätzlich vorsichtig mit der Angabe persönlicher Daten, wenn Sie eine Nachricht an Ihr Handy schicken, da diese von anderen eingesehen werden können.
+    (a) Firefox Screenshots ermöglicht die Aufnahme des Inhalts einer Webpage, um ihn später selbst oder anderen anzuzeigen. 
     
-    Mit Firefox Screenshots können Sie den Inhalt von Webseiten erfassen und später einsehen oder Anderen zeigen. [Hier](https://www.mozilla.org/about/legal/report-infringement/) können Sie Urheberrechts- oder Markenverletzungen auf Screenshots melden. Um Missbrauch zu melden, senden Sie per E-Mail einen Link zur jeweiligen Aufnahme an screenshots-report@mozilla.com.
+    (b) Firefox Lockbox ermöglicht von verschiedenen Geräten aus den Zugriff auf die in Firefox gespeicherten Passwörter. Dazu ist ein Firefox-Konto erforderlich. 
+
+    (c) Firefox Monitor ist ein Informationsservice zur Förderung der Online-Sicherheit. Dabei werden Sie über öffentliche Datensicherheitsverletzungen informiert. Sie können E-Mail-Adressen auf unserer Website scannen, um die meisten öffentlich bekannten Verletzungen anzuzeigen. Falls Sie diesen Service mit einem Firefox-Konto abonnieren, erhalten Sie Folgendes: 
+
+    * Vollständiger Bericht: Dieser Bericht enthält eine Liste der öffentlich bekannten Hacks einschließlich Verletzungen sensibler Websites wie z. B. solcher für Kinder oder Porno- bzw. Dating-Websites (diese Websites sind aus Website-Scans ausgeschlossen, um die Privatsphäre der Benutzer zu schützen). 
+    * Verletzungsbenachrichtigungen: Damit werden Sie benachrichtigt, wenn Ihre E-Mail-Adresse in einer neuen Datensicherheitsverletzung erscheint. 
+    * Sicherheitstipps: Damit erhalten Sie gelegentlich Online-Sicherheitstipps von Mozilla.
+
+    Sie selbst sind dafür verantwortlich, Ihre Online-Konten mithilfe starker und unterschiedlicher Passwörter, Sicherheitsfragen, Zwei-Faktor-Authentifizierung, Passwortmanagern und anderer Sicherheitsmaßnahmen zu schützen. Obgleich Firefox Monitor und [Have I Been Pwned?](https://haveibeenpwned.com/) versuchen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlichen Datensicherheitsverletzungen führen. 
+
+    (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Firefox-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen.  
+
+    (e) Mit Firefox Send können Sie verschlüsselte Dateien senden, die automatisch nach bestimmter Zeit ablaufen. Für große Dateien ist ein Firefox-Konto erforderlich.
+
+    (f) Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren. Dazu ist ein Firefox-Konto erforderlich. 
 
 4. #### Datenschutzerklärung
 
-    Im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) ist dargelegt, welche Daten wir durch Ihre Verwendung der Services erhalten und wie wir diese Daten nutzen. Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben.
+    Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben. Unsere Datenschutzhinweise beschreiben ausführlicher, welche Daten wir von jedem Service erhalten:
 
-5. #### Ihre Inhalte in unseren Services
+    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
+    * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+    * [Firefox Send](http://send.firefox.com/legal)
+    * [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
-    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie und weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Inhaltsrichtlinien von Mozilla entsprechen.
+5. #### Kommunikation
 
-6. #### Eigentumsrechte von Mozilla
+    Wir senden von Zeit zu Zeit Nachrichten, damit Sie das Meiste aus Ihrem Firefox-Konto herausholen können. Sie erhalten diese Nachrichten evtl. produktintern oder unter Ihrer Firefox-Konto-E-Mail-Adresse. Dabei geht es um Onboarding, unterschiedliche Firefox-Konto-Services und damit verbundene Angebote und Umfragen. Um diese Nachrichten per Opt-out abzubestellen, klicken Sie auf den Link ganz unten in unseren E-Mails.
+    
+    Wir senden Ihnen evtl. auch wichtige Kontoinformationen wie Aktualisierungen der rechtlichen oder Datenschutzbestimmungen oder Sicherheitsnachrichten wie solche zu Passwort-Rücksetzungen, E-Mail-Bestätigung und verknüpften Geräten. Diese Nachrichten sind für unsere Services notwendig. Sie können daher nicht abbestellt werden. 
+Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041, USA oder legal-notices@mozilla.com_ 
 
-    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Nutzungsbedingungen keine Rechte an den Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der [Mozilla Public License](https://www.mozilla.org/MPL/).
+6. #### Ihre Inhalte in unseren Services
 
-7. #### Laufzeit; Kündigung
+    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie, weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Content-Richtlinien von Mozilla entsprechen. [Hier](https://www.mozilla.org/about/legal/report-infringement/) können Sie mögliche Verletzungen von Copyrights oder Marken melden. Um Screenshots-Missbrauch zu melden, senden Sie uns unter screenshots-report@mozilla.com einen Link zum jeweiligen Screenshot.
 
-    Diese Nutzungsbedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
+7. #### Eigentumsrechte von Mozilla
+
+    Mozilla erteilt Ihnen keine Rechte an geistigem Eigentum der Services, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Servicebedingungen keine Rechte an den Copyrights oder Urheberrechten, Handelsnamen, Marken, Servicemarken, Logos, Domainnamen oder anderen charakteristischen Markenmerkmalen von Mozilla. Die Services unterliegen der jeweils aktuellen Version der [Mozilla Public License](https://www.mozilla.org/MPL/).
+
+8. #### Laufzeit; Kündigung
+
+    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
 
     Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Firefox-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
 
-    In allen diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
+    In all diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
 
-8. #### Schadloshaltung
+9. #### Schadloshaltung
 
-    Sie stimmen zu, Mozilla, seine Auftragnehmer, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („von der Haftung freigestellte Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen hochgeladenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
+    Sie stimmen zu, Mozilla, seine Lieferanten, Mitwirkenden, Lizenzgeber und Partner sowie deren jeweilige Mitglieder der Geschäftsführung, leitenden Angestellten, Mitarbeiter und Vertreter („schadlos gehaltene Parteien“) von bzw. vor allen Ansprüchen und Kosten Dritter, einschließlich Anwaltskosten, die sich aus oder in Verbindung mit Ihrer Verwendung der Services (unter anderem aus von Ihnen hochgeladenen Inhalten) ergeben, zu schützen, schadlos zu halten und freizustellen.
 
-9. #### Haftungsablehnung; Haftungsbeschränkung
+10. #### Haftungsablehnung; Haftungsbeschränkung
 
-    DIE SERVICES WERDEN IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLER FEHLER. SOWEIT GESETZLICH ZULÄSSIG, LEHNEN MOZILLA UND DIE VON DER HAFTUNG FREIGESTELLTEN PARTEIEN JEGLICHE GEWÄHRLEISTUNG AB, OB AUSDRÜCKLICHE ODER STILLSCHWEIGENDE, INSBESONDERE DIE GEWÄHRLEISTUNG DER FEHLERFREIHEIT, MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER. SIE TRAGEN DAS GESAMTE RISIKO DER AUSWAHL DER SERVICES FÜR IHRE ZWECKE SOWIE IN BEZUG AUF QUALITÄT UND LEISTUNG DES PRODUKTS, INSBESONDERE DAS RISIKO, DASS IHRE INHALTE GELÖSCHT ODER BESCHÄDIGT WERDEN ODER DASS DRITTE ZUGRIFF AUF IHR KONTO ERLANGEN. DIESE BESCHRÄNKUNG GILT UNGEACHTET DER NICHTERFÜLLUNG DES WESENTLICHEN ZWECKS ETWAIGER RECHTSMITTEL. IN EINIGEN RECHTSSYSTEMEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG STILLSCHWEIGENDER GEWÄHRLEISTUNGEN NICHT ZULÄSSIG, SODASS DIE HIER DARGELEGTE BESCHRÄNKUNG AUF SIE MÖGLICHERWEISE NICHT ZUTRIFFT.
+    DIE SERVICES WERDEN IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLER FEHLER. SOWEIT GESETZLICH ZULÄSSIG, LEHNEN MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN JEGLICHE GEWÄHRLEISTUNG AB, OB AUSDRÜCKLICHE ODER STILLSCHWEIGENDE, INSBESONDERE DIE GEWÄHRLEISTUNG DER FEHLERFREIHEIT, MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER. SIE TRAGEN DAS GESAMTE RISIKO DER AUSWAHL DER SERVICES FÜR IHRE ZWECKE SOWIE IN BEZUG AUF QUALITÄT UND LEISTUNG DES PRODUKTS, INSBESONDERE DAS RISIKO, DASS IHRE INHALTE GELÖSCHT ODER BESCHÄDIGT WERDEN ODER DASS DRITTE ZUGRIFF AUF IHRE ONLINE-KONTEN ERLANGEN. DIESE BESCHRÄNKUNG GILT UNGEACHTET DER NICHTERFÜLLUNG DES WESENTLICHEN ZWECKS ETWAIGER RECHTSMITTEL. IN EINIGEN RECHTSSYSTEMEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG STILLSCHWEIGENDER GEWÄHRLEISTUNGEN NICHT ZULÄSSIG, SODASS DIE HIER DARGELEGTE BESCHRÄNKUNG AUF SIE MÖGLICHERWEISE NICHT ZUTRIFFT.
 
-    AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE VON DER HAFTUNG FREIGESTELLTEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER SERVICES ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN VON DER HAFTUNG FREIGESTELLTEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
+    AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER SERVICES ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN SCHADLOS GEHALTENEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
 
-10. #### Änderungen dieser Bedingungen
+11. #### Änderungen dieser Bedingungen
 
-    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bestimmungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit diesen Änderungen angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
+    Mozilla ist berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Services zu berücksichtigen oder eine Regelung zu klären. Die neuen Bedingungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über die regulären Informationskanäle von Mozilla, wie Blogs und Foren, kommunizieren. Ihre weitere Nutzung der Services nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderung angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
 
-11. #### Verschiedenes
+12. #### Verschiedenes
 
-    Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und Mozilla bezüglich der Services dar und unterliegen den Gesetzen des Bundesstaates Kalifornien, USA, ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte eine dieser Bestimmungen für ungültig oder nicht durchsetzbar erklärt werden, bleiben die übrigen Bestimmungen davon unberührt. Im Falle eines Konflikts zwischen der übersetzten Version dieser Bedingungen und der englischen Fassung gilt die englische Fassung.
-
-12. #### Kontakt
-
-    Kontaktadresse Mozilla:
-
-    <address>
-      Mozilla Corporation 
-      Attn: Mozilla – Legal Notices 
-      331 E. Evelyn Ave. 
-      Mountain View, CA 94041, USA 
-    </address>
+    Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und Mozilla bezüglich der Services dar und unterliegen den Gesetzen des Bundesstaates Kalifornien, USA, ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte eine dieser Bedingungen für ungültig oder nicht durchsetzbar erklärt werden, bleiben die übrigen Bedingungen davon unberührt. Im Falle eines Konflikts zwischen der übersetzten Version dieser Bedingungen und der englischen Fassung gilt die englische Fassung.
