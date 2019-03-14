@@ -24,7 +24,10 @@ Read detailed documentation for Firefox Lite [here](https://github.com/mozilla-t
 
 Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla for first-time Firefox Lite users).
 
-* __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox Lite's suggested content. This includes the number of times suggested content is displayed or clicked.
+* __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox Lite's suggested content. This includes the number of times suggested content is displayed or clicked and time spent engaging with suggestions. This also applies to “Life Feed” which is non-targeted localized news, games, deals and more offered by our partners in certain countries.  See [here](https://support.mozilla.org/kb/life-feed-firefox-lite) for more details.   
+
+* __Content data__: Some partners of suggested content send us aggregate metrics on the types of content people engage with, for example, sports or news.  
+
 
 ### Measure and support our marketing
 
