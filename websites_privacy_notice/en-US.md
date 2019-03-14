@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-September 6, 2017
-{: datetime="2017-09-06" }
+March 15, 2019
+{: datetime="2019-03-15" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -27,13 +27,13 @@ We may receive personal information from you based on your interaction with us o
 
 ---------------------------------------
 
-We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. 
+    We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
 {: #data-tools }
 
-* **Functionality**: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:
-    * Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  
-    * IP addresses are used to customize communications by language and country.  
-    * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
+* **Functionality**: We may use information such as cookies, device information, and IP addresses to enhance functionality of certain products, services, and communications. For example:
+    * We use cookies are used to remember information about your Firefox settings (such as language preference and Firefox add-ons), and so that we can recommend relevant features and Add-ons to you based on your Firefox settings. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.
+    * We use IP addresses to customize communications by language and country.
+    * We use certain device information such as country, language, operator and OEM, to customize your experience.
 
 * **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
@@ -71,5 +71,3 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 * **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
 
 * **Fraud Prevention**:   Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
-
-
