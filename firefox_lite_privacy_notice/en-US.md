@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-May 11, 2018
-{: datetime="2018-5-11" }
+March 15, 2019
+{: datetime="2019-3-15" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -24,7 +24,7 @@ Read detailed documentation for Firefox Lite [here](https://github.com/mozilla-t
 
 Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla for first-time Firefox Lite users).
 
-* __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox Lite's suggested content. This includes the number of times suggested content is displayed or clicked and time spent engaging with suggestions. This also applies to “Life Feed” which is non-targeted localized news, games, deals and more offered by our partners in certain countries.  See [here](link SUMO pagehttps://support.mozilla.org/kb/life-feed-firefox-lite) for more details.   
+* __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox Lite's suggested content. This includes the number of times suggested content is displayed or clicked and time spent engaging with suggestions. This also applies to “Life Feed” which is non-targeted localized news, games, deals and more offered by our partners in certain countries.  See [here (https://support.mozilla.org/kb/life-feed-firefox-lite) for more details.   
 
 * __Content data__: Some partners of suggested content send us aggregate metrics on the types of content people engage with, for example, sports or news.  
 
