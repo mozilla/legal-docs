@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective September 28, 2017*
-{: datetime="2017-09-28" }
+*Effective March 15, 2019*
+{: datetime="2019-03-15" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -24,9 +24,9 @@ Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozil
 
 * __Location data__:  When you first use Firefox, it uses your IP address to set your default search provider based on your country.  [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Suggest relevant content 
-
-Firefox displays content, such as “Snippets” (messages from Mozilla), Top Sites (websites suggested by Mozilla for first-time Firefox users) and Pocket Recommendations.
+### Suggest relevant content
+ 
+Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Pocket Recommendations.
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country.
 
@@ -36,6 +36,8 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Top Si
 {: #snippets }
 
 * __Webpage data for Pocket Recommendations__: We recommend content to you based on your browsing history. The process of deciding which stories you should see happens locally in your copy of Firefox and neither Mozilla nor Pocket receives a copy of your browsing history. We do receive data about the recommendations you see and click. [Learn more](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Add-on and Feature Recommendations__: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend FIrefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The Process happens locally in your own computer’s copy of Firefox. Learn More about [Awesome Bar recommendations](https://support.mozilla.org/kb/extension-recommendationss) or [Extensions Page recommendations](https://support.mozilla.org/kb/personalized-extension-recommendations). 
 
 ### Improve security for users everywhere {: #security }
 
@@ -85,8 +87,11 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ### Search
 
-You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab.  _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  Links to our default search providers are:
 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 * __Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
 {: #searchsuggestions } 
 
