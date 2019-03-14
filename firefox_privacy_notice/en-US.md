@@ -92,10 +92,11 @@ You can perform searches directly from several places in Firefox, including the 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
 * [__Yandex__](https://yandex.ru/legal/confidential/)
-* __Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
+
+__Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
 {: #searchsuggestions } 
 
-    [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
+[Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
 
 ### Firefox Accounts
 
