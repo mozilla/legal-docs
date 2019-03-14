@@ -27,7 +27,7 @@ We may receive personal information from you based on your interaction with us o
 
 ---------------------------------------
 
-    We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
+We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
 {: #data-tools }
 
 * **Functionality**: We may use information such as cookies, device information, and IP addresses to enhance functionality of certain products, services, and communications. For example:
