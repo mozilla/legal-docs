@@ -36,7 +36,7 @@ Cette première section offre un résumé des conditions d'utilisation. Ce résu
 
     (d) Firefox Notes vous permet de prendre des notes dans Firefox. Un compte Firefox est requis pour afficher, modifier et supprimer vos Notes sur tous les appareils.
 
-    (e) Firefox Send vous permet de partager des fichiers cryptés expirant automatiquement. Un compte Firefox est requis pour les fichiers volumineux.
+    (e) Firefox Send vous permet de partager des fichiers chiffrés expirant automatiquement. Un compte Firefox est requis pour les fichiers volumineux.
 
     (f) Firefox Sync vous permet d'accéder aux informations stockées dans Firefox sur tous les appareils, y compris vos onglets, la barre d'adresse, les mots de passe, signets et préférences du navigateur. Vous pouvez activer et désactiver la fonction Firefox Sync dans la section Outils de Firefox. Un compte Firefox est requis. 
 
