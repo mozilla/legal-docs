@@ -79,7 +79,7 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
     _On iOS and Android_: Firefox by default sends data about what features you use in Firefox to Leanplum, our mobile marketing vendor, which has its own [privacy policy](https://www.leanplum.com/privacy/).  This data allows us to test different features and experiences, as well as provide customized messages and recommendations for improving your experience with Firefox.
 
-    Read the documentation for [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) or [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), or learn how to [disable this feature](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Read the documentation for [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) or [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), or learn how to [disable this feature](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
