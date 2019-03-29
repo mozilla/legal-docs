@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Aviso de privacidad de</span> <span class="privacy-header-firefox">Firefox</span>
 
-*Vigente a partir del 28 de septiembre de 2017*
-{: datetime="2017-09-28" }
+*Vigente desde el 15 de marzo de 2019*
+{: datetime="2019-03-15" }
 
 ## En Mozilla, creemos que la privacidad es fundamental para tener un Internet sano.
 
@@ -24,9 +24,9 @@ Consulte la documentación de telemetría para [ordenadores de escritorio](https
 
 * __Datos de ubicación__:  Cuando usa Firefox por pirmera vez, el navegador usa su dirección IP para establecer su proveedor de búsquedas predeterminado según su país.  [Visite esta página](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) para obtener más información.
 
-### Sugerir contenido relevante 
-
-Firefox muestra contenido, como “Snippets” (mensajes de Mozilla), Sitios preferidos (sitios web sugeridos por Mozilla a aquellos usuarios que usan Firefox por primera vez) y Recomendaciones de Pocket.
+### Sugerencias relevantes
+ 
+Firefox muestra contenido como «Snippets» (mensajes de Mozilla), recomendaciones de complementos, sitios populares (páginas sugeridas por Mozilla a los usuarios que usan Firefox por primera vez) y recomendaciones para Pocket.
 
 * __Datos de ubicación__: Firefox usa su dirección IP para sugerir contenido relevante según su país.
 
@@ -36,6 +36,8 @@ Firefox muestra contenido, como “Snippets” (mensajes de Mozilla), Sitios pre
 {: #snippets }
 
 * __Datos de páginas web para Recomendaciones de Pocket__: Proporcionamos recomendaciones de contenido en base a su historial de navegación. El proceso de elección del contenido que debe ver se realiza localmente en base a su historial de navegación de Firefox y ni Mozilla ni Pocket recibe una copia de este historial. Lo que sí recibimos son datos sobre las recomendaciones que visualiza y con las que interactúa. [Visite esta página](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Recomendaciones de complementos y funciones__: Podrá encontrar nuestras recomendaciones de complementos en dos lugares: el Administrador de complementos (about:addons) y la Barra alucinante, donde puede buscar o introducir las direcciones URL. La Barra alucinante le mostrará también recomendaciones de funciones de Firefox. Las recomendaciones mostradas en el Administrador de complementos (about:addons) se realizan en base a las cookies. Las recomendaciones mostradas en la Barra alucinante se realizan en base a su interacción con Firefox. Mozilla no recibe su historial de búsqueda. Se trata de un proceso local que ocurre en el navegador de Firefox de su ordenador. Si desea obtener más información sobre las [Recomendaciones de la Barra alucinante](https://support.mozilla.org/kb/extension-recommendationss) y las [Recomendaciones de la página Extensiones](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Mejorar la seguridad de todos los usuarios {: #security }
 
@@ -77,20 +79,24 @@ La documentación completa está disponible [aquí](https://firefox-source-docs.
 
     _En sistemas iOS y Android_: Firefox envía por defecto datos sobre las funciones que usa en Firefox a Leanplum, nuestro proveedor de marketing, que tiene su propia [política de privacidad](https://www.leanplum.com/privacy/).  Estos datos nos permiten probar distintas funciones y experiencias, así como proporcionar mensajes y recomendaciones personalizados para mejorar su experiencia con Firefox.
 
-    Consulte la documentación para sistemas[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) y [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) para obtener más información, o visite la siguiente página [](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)si desea deshabilitar esta función.
+    Consulte la documentación para sistemas[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) y [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) para obtener más información, o visite la siguiente página [](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)si desea deshabilitar esta función.
 
 ---
 
 ## Si usa estas funciones, Firefox compartirá ciertos datos para ofrecer  funcionalidad:  {: #optional-features }
 
-### Search
+### Buscar
 
-Puede realizar búsquedas directamente desde distintos lugares de Firefox, incluidas las barras de búsqueda Awesome Bar y Search Bar ubicadas en una pestaña nueva.  _Mozilla no recibe sus solicitudes de búsqueda._ Los datos de búsqueda se envían a su buscador, que tiene su propia política de privacidad.  
+Puede buscar directamente desde varios lugares en Firefox, como, por ejemplo, la Barra alucinante, la Barra de búsqueda y en una Nueva pestaña. _Mozilla no recibe información sobre las consultas que realiza._ Los datos de las consultas se envían a su servicio de búsqueda, que tiene su propia política de privacidad. Los enlaces a nuestros buscadores son:
 
-* __Sugerencias de búsqueda__: Firefox envía por defecto las consultas a su buscador para ayudarle a descubrir frases comunes que otras personas han buscado y para mejorar su experiencia de búsqueda. Estos datos no se enviarán si el buscador que ha seleccionado no admite sugerencias de búsqueda.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    [Consulte este artículo](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) para obtener más información. Aquí encontrará también información sobre cómo inhabilitar esta función.
+__Sugerencias de búsqueda__: Firefox envía por defecto datos de consultas a su buscador para ayudarle a descubrir frases populares que otras personas han buscado y mejorar así su experiencia de búsqueda. Estos datos no se enviarán si su buscador predeterminado no es compatible con las sugerencias de búsqueda.
+{: #searchsuggestions }
+
+[Haga clic aquí si desea obtener información sobre esta función](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), así como las instrucciones para desactivarla.
 
 ### Cuentas de Firefox
 
