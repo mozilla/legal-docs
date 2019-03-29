@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隱私權公告</span>
 
-2018 年 5 月 11 日
-{: datetime="2018-5-11" }
+2019 年 3 月 15 日
+{: datetime="2019-3-15" }
 
 ## 在 Mozilla，我們相信健康的網路環境是以尊重隱私為基礎。
 
@@ -17,14 +17,16 @@
 
 * __技術資料__：Firefox Lite 向我們傳送您的 Firefox Lite 版本與語言的相關資料；裝置作業系統與硬體組態；當機與錯誤的相關記憶與基本資訊；自動化流程（像是更新）與啟用的結果。Firefox Lite 向我們傳送資料的時候，您的 IP 位址會暫時被收集做為我們伺服器日誌的一部份。
 
-請[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)閱讀 Firefox Lite 的詳盡檔案，或是在您的設定關閉「傳送使用資料」。
+請[在此](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)閱讀 Firefox Lite 的詳盡檔案，或是在您的設定關閉「傳送使用資料」。
 {: #telemetry }
 
 ### 建議相關內容
 
 Firefox Lite 會顯示像是熱門網站（Mozilla 向 Firefox Lite 初次使用者所建議的網站）的內容。
 
-* __技術與互動資料__：Firefox Lite 向我們傳送像是我們所建議內容的位置、大小與置入資料，以及您與 Firefox Lite 建議內容的互動資料。這包括所建議內容被顯示或點擊的次數。
+* __技術與互動資料__：Firefox Lite 向我們傳送像是我們所建議內容的位置、大小與置入資料，以及您與 Firefox Lite 建議內容的互動資料。這包括所建議內容被顯示或點擊的次數，以及和每項建議內容互動的時間。其中也包含非針對受眾，且由我們在部分國家的合作對象所提供的本地化新聞、遊戲、優惠及其他內容之服務「Life Feed」。請看[此處](https://support.mozilla.org/kb/life-feed-firefox-lite)瞭解更多資訊。
+
+* __內容資料__：部分建議內容的合作對象會傳送有關用戶觀看內容類型（如運動或新聞等）的綜合指標資料給我們。
 
 ### 衡量與支援我們的行銷
 
