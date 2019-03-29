@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
 
-*有効日 2017 年 9 月 28 日*
-{: datetime="2017-09-28" }
+*有効日 2019 年 3 月 15 日*
+{: datetime="2019-03-15" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -24,9 +24,9 @@
 
 * __位置情報__: Firefox の初回使用時には、あなたの国に基づいてあなたの検索プロバイダーを初期設定するために、あなたの IP アドレスが使用されます。[詳細はこちら](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-### 関連コンテンツを推薦する
+### 関連するコンテンツのおすすめ
 
-Firefox は、“スニペット” (Mozilla からのメッセージ)、上位サイト (Firefox を初めて使用するユーザーのために Mozilla により推奨されるウェブサイト)、Pocket レコメンデーションなどのコンテンツを表示します。
+Firefox は、「スニペット」（Mozilla からのメッセージ）、おすすめ拡張機能、トップサイト（初めて Firefox を利用するユーザ向けの Mozilla によるおすすめウェブサイト）、Pocket からのおすすめなどのコンテンツを表示します。
 
 * __位置情報__: Firefox は、あなたの国に基づいて関連コンテンツを推薦するために、あなたの IP アドレスを使用します。
 
@@ -36,6 +36,8 @@ Firefox は、“スニペット” (Mozilla からのメッセージ)、上位�
 {: #snippets }
 
 * __Pocket レコメンデーションのウェブページデータ__: Mozilla は、あなたのブラウジング履歴に基づき、あなたにコンテンツを推奨します。あなたの画面に表示されるストーリーの決定プロセスは、お持ちの Firefox 内でのみ行われ、Mozilla および Pocket があなたのブラウジング履歴のコピーを受け取ることはありません。ただし、あなたが表示およびクリックしたレコメンデーションに関するデータは Mozilla に送信されます。[詳細はこちら](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ（about:addons）と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendationss) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
 
 ### すべてのユーザーのためにセキュリティを強化する {: #security }
 
@@ -77,7 +79,7 @@ Firefox は、“スニペット” (Mozilla からのメッセージ)、上位�
 
     _iOS および Android の場合_: Firefox は初期設定で、あなたが Firefox で使用した機能に関するデータを、Mozilla のモバイルマーケティングベンダーである Leanplum に送信します。このベンダーには、独自の [プライバシーポリシー](https://www.leanplum.com/privacy/) があります。このデータにより、Mozilla は様々な機能や体験をテストしたり、カスタマイズしたメッセージや推薦事項を提供したりして、あなたの Firefox の使い心地を改善できるようになります。
 
-    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 用または [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 用のドキュメントをお読みください。この機能を無効にする方法については [こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください。
+    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 用または [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 用のドキュメントをお読みください。この機能を無効にする方法については [こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください。
 
 ---
 
@@ -85,12 +87,17 @@ Firefox は、“スニペット” (Mozilla からのメッセージ)、上位�
 
 ### 検索
 
-あなたは、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。_Mozilla があなたの検索クエリーを受信することはありません。_ クエリーデータはあなたの検索プロバイダーに送信され、そのプロバイダーには独自のプライバシーポリシーがあります。
+あなたは、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。_Mozilla があなたの検索クエリーを受信することはありません。_クエリーデータはあなたの検索プロバイダーに送信され、そのプロバイダーには独自のプライバシーポリシーがあります。初期設定の検索プロバイダーのリンクはこちらです。
 
-* __検索候補__: Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。あなたの検索プロバイダーが検索候補に対応していない場合、これらのデータは送信されません。
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
+
+__検索候補__:Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。あなたの検索プロバイダーが検索候補に対応していない場合、これらのデータは送信されません。
 {: #searchsuggestions }
 
-    この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)。
+この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)。
+
 
 ### Firefox アカウント
 
