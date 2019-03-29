@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*生效时间：2017 年 9 月 28 日*
-{: datetime="2017-09-28" }
+*2019 年 3 月 15 日生效*
+{: datetime="2019-03-15" }
 
 ## 在 Mozilla，我们认为隐私是健康互联网的基石。
 
@@ -24,9 +24,8 @@
 
 * __位置数据__：当您第一次使用 Firefox 时，它会使用您的 IP 地址，根据您所在的国家来设置默认的搜索引擎。[了解更多信息](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-### 推荐相关内容
-
-Firefox 会显示诸如“Snippets”（来自 Mozilla 的消息）、首要网站（Mozilla 为 Firefox 新用户推荐的网站）和 Pocket 推荐等内容。
+### 建议相关内容
+Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、附加组件建议、热门站点（Mozilla 为首次使用 Firefox 的用户建议的网站）和 Pocket 推荐。
 
 * __位置数据__：Firefox 会使用您的 IP 地址，根据您所在的国家来推荐相关内容。
 
@@ -36,6 +35,8 @@ Firefox 会显示诸如“Snippets”（来自 Mozilla 的消息）、首要网�
 {: #snippets }
 
 * __Pocket 推荐的网页数据__：我们会根据您的浏览历史记录向您推荐内容。确定您可能阅览哪些新闻报道的流程在您本地的Firefox 中执行，Mozilla 和 Pocket 均不会获得您的浏览历史记录。但是，我们确实会接收有关您所阅览和点击的推荐的数据。[了解更多信息](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendationss)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
 
 ### 为各地用户提高安全性 {: #security }
 
@@ -77,7 +78,7 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数
 
 _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使用了哪些功能的相关数据发送给我们的移动市场营销供应商 Leanplum，它拥有自己的[隐私政策](https://www.leanplum.com/privacy/)。该信息可让我们测试不同的功能和体验，并提供定制消息和建议，以改善您使用 Firefox 的体验。
 
-阅读针对 [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 的文档，或者了解如何[禁用该功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
+阅读针对 [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 的文档，或者了解如何[禁用该功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
 ---
 
@@ -85,12 +86,16 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使
 
 ### 搜索
 
-您可以从 Firefox 中的多个位置直接执行搜索，包括地址栏、搜索栏，或新建标签页。_Mozilla 不会接收您的搜索查询。_查询数据会被发送到您的搜索引擎，它拥有自己的隐私政策。
+您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。_Mozilla 不会记录您的搜索查询。_查询数据会发送给搜索提供商，他们有各自的隐私政策。我们的默认搜索提供商的链接如下：
 
-* __搜索建议__：默认情况下，Firefox 会将您的搜索查询发送到您的搜索引擎，以帮助您查找其他人已经搜索过的常用词语，并改善您的搜索体验。如果您选择的搜索引擎不支持搜索建议，则不会发送这些数据。
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-[了解更多信息](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包括如何禁用该功能。
+__搜索建议__：默认情况下，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。如果您选择的搜索提供商不支持搜索建议，则不会发送这些数据。
+{: #searchsuggestions }
+
+[了解详情](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包括如何禁用此功能。
 
 ### Firefox 账户
 
