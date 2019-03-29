@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
 
-*Yürürlük Tarihi: 28 Eylül 2017*
-{: datetime="2017-09-28" }
+*Yürürlük Tarihi: 15 Mart 2019 Cuma*
+{: datetime="2019-03-15" }
 
 ## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanıyoruz.
 
@@ -24,9 +24,9 @@ Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açı
 
 * __Konum verileri__:  Firefox’u ilk kez kullandığınızda, ülkenize göre varsayılan arama sağlayıcınızı belirlemek için IP adresinizi kullanır [Daha fazla bilgi alın](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### İlgili içerikler önermek 
-
-Firefox, “Kısa Notlar” (Mozilla’dan mesajlar), Öne Çıkan Siteler (Mozilla’nın ilk kez Firefox kullananlar için önerdiği web siteler) ve Pocket Tavsiyeleri gibi içerikleri gösterir.
+### İlgili içerikler önerme
+ 
+Firefox; “Snippet’ler” (Mozilla’dan mesajlar), Eklenti Önerileri, Öne Çıkan Siteler (Mozilla’nın ilk kez Firefox kullananlar için önerdiği web siteleri) ve Pocket Tavsiyeleri gibi içerikleri gösterir.
 
 * __Konum verileri__: Firefox, ülkenize göre ilgili içerikler önermek için IP adresinizi kullanır.
 
@@ -36,6 +36,8 @@ Firefox, “Kısa Notlar” (Mozilla’dan mesajlar), Öne Çıkan Siteler (Mozi
 {: #snippets }
 
 * __Pocket önerileriyle ilişkili web sayfası verileri__: Gezinti geçmişinize göre size içerikler tavsiye ederiz. Görmeniz gereken hikayelere karar verme süreci Firefox kopyanızda yerel olarak gerçekleşir. Ne Mozilla ne de Pocket gezinti geçmişinizin bir kopyasını alır. Gördüğünüz ve tıkladığınız tavsiyeler hakkında veriler alırız. [Daha fazla bilgi alın](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Eklenti ve Özellik Tavsiyeleri__: Eklentilerinizi Yönetin Sayfası (about:addons) ve arama yaptığınız ya da URL girdiğiniz Awesome Çubuğu olmak üzere iki yerde Eklenti tavsiye edilir. Ayrıca Awesome Çubuğunda Firefox Özellikleri de tavsiye edilir. about:addons sayfasındaki tavsiyeler çereze dayalıdır. Awesome Çubuğu’ndaki tavsiyeler Firefox ile olan etkileşiminize dayalıdır. Mozilla, tarama geçmişinize ilişkin verileri almaz. İşlem, bilgisayarınızın Firefox kopyasında yerel olarak gerçekleşir. [Awesome Çubuğu tavsiyeleri](https://support.mozilla.org/kb/extension-recommendationss) veya [Eklentiler Sayfası tavsiyeleri ](https://support.mozilla.org/kb/personalized-extension-recommendations) hakkında daha fazla bilgi alın.
 
 ### Tüm kullanıcılar için güvenliği arttırmak {: #security }
 
@@ -77,7 +79,7 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
     _iOS ve Android’de_: Firefox varsayılan olarak Firefox’ta kullandığınız özellikler hakkındaki verileri kendi [gizlilik ilkesi](https://www.leanplum.com/privacy/) olan mobil pazarlama sağlayıcımız Leanplum’a gönderir. Bu veriler, farklı özellikleri ve deneyimleri test etmemizi ve aynı zamanda size daha iyi bir Firefox deneyimi sunmak için özelleştirilmiş mesajlar ve tavsiyeler sağlamamızı mümkün kılar.
 
-    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) ya da [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) ile ilgili belgeyi okuyun ya da [bu özelliği devre dışı bırakmanın](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) yollarını öğrenin.
+    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ya da [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) ile ilgili belgeyi okuyun ya da [bu özelliği devre dışı bırakmanın](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices) yollarını öğrenin.
 
 ---
 
@@ -85,12 +87,16 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
 ### Arama
 
-Şahane çubuk, arama çubuğu ve Yeni Sekme dahil olmak üzere Firefox’ta birçok yerde doğrudan arama yapabilirsiniz.  _Mozilla arama sorgularınıza ilişkin verileri almaz._ Sorgu verileri, kendi gizlilik ilkeleri olan arama sağlayıcınıza gönderilir.  
+Awesome Çubuğu, Arama Çubuğu ya da Yeni Sekme dahil olmak üzere Firefox’ta birçok yerde doğrudan arama yapabilirsiniz. _Mozilla, arama sorgularınıza ilişkin verileri almaz._ Sorgu verileri, kendi gizlilik ilkesi olan arama sağlayıcınıza gönderilir. Varsayılan arama sağlayıcılarının bağlantıları aşağıdadır:
 
-* __Arama Önerileri__: Firefox varsayılan olarak başkalarının aradığı yaygın ifadeleri keşfetmenize yardımcı olmak ve daha iyi bir arama deneyimi sunmak amacıyla arama sorgularını arama sağlayıcınıza gönderir. Seçtiğiniz arama sağlayıcı arama önerilerini desteklemiyorsa bu veriler gönderilmez.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    Bu özelliği devre dışı bırakmanın yolları dahil olmak üzere [daha fazla bilgi alın](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar),
+__Arama Tavsiyeleri__: Firefox varsayılan olarak başkalarının aradığı yaygın ifadeleri keşfetmenize yardımcı olmak ve daha iyi bir arama deneyimi sunmak amacıyla arama sorgularını arama sağlayıcınıza gönderir. Seçtiğiniz arama sağlayıcı arama tavsiyelerini desteklemiyorsa, bu veriler gönderilmez.
+{: #searchsuggestions }
+
+Bu özelliği devre dışı bırakmanın yolları dahil olmak üzere [daha fazla bilgi alın](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar),
 
 ### Firefox Hesapları
 
