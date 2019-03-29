@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Thông báo Quyền riêng tư</span>
 
-Ngày 11 tháng 5 năm 2018
-{: datetime="2018-5-11" }
+15/03/2019
+{: datetime="2019-3-15" }
 
 ## Tại Mozilla, chúng tôi tin tưởng rằng quyền riêng tư là nền tảng của một môi trường internet lành mạnh.
 
@@ -17,14 +17,16 @@ Trong Thông báo Quyền riêng tư này, chúng tôi sẽ giải thích Firefo
 
 * __Dữ liệu kỹ thuật__: Firefox Lite sẽ gửi dữ liệu về phiên bản và ngôn ngữ của Firefox Lite; hệ điều hành của thiết bị và cấu hình phần cứng, bộ nhớ, thông tin cơ bản về các sự cố và lỗi, kết quả của những quá trình được tự động hóa như cập nhật và kích hoạt cho chúng tôi. Khi Firefox Lite gửi dữ liệu cho chúng tôi, địa chỉ IP của bạn sẽ tạm thời được thu thập như một phần nhật ký máy chủ của chúng tôi.
 
-Hãy xem tài liệu chi tiết về Firefox Lite [ở đây](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) hay tắt “Gửi dữ liệu sử dụng” trong phần cài đặt của bạn.
+Hãy xem tài liệu chi tiết về Firefox Lite [ở đây](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) hay tắt “Gửi dữ liệu sử dụng” trong phần cài đặt của bạn.
 {: #telemetry }
 
 ### Đề nghị nội dung có liên quan
 
 Firefox Lite sẽ hiển thị nội dung, chẳng hạn như Các trang Hàng đầu (website được đề nghị bởi Mozilla lần đầu tiên cho người dùng Firefox Lite).
 
-* __Dữ liệu Kỹ thuật & Tương tác__: Firefox Lite sẽ gửi cho chúng tôi dữ liệu về vị trí, kích thước của nội dung chúng tôi đề nghị cũng như dữ liệu cơ bản về tương tác của bạn với nội dung được đề nghị của Firefox Lite. Đây cũng bao gồm số lần nội dung được đề nghị được hiển thị hay nhấp vào.
+* __Dữ liệu Kỹ thuật & Tương tác__: Firefox Lite gửi cho chúng tôi dữ liệu về vị trí, kích thước của nội dung chúng tôi gợi ý cũng như dữ liệu cơ bản về tương tác của bạn với nội dung được gợi ý của Firefox Lite. Dữ liệu này cũng bao gồm số lần nội dung gợi ý được hiển thị hay nhấp vào và thời gian tương tác với chúng. Điều này cũng được áp dụng cho “Tin tức hàng ngày”, cụ thể là các bản tin, trò chơi, giao dịch v.v...được bản địa hóa không hướng đối tượng và được các đối tác của chúng tôi cung cấp tại một số quốc gia. Xem [tại đây](https://support.mozilla.org/kb/life-feed-firefox-lite) để biết thêm chi tiết.
+
+* __Dữ liệu nội dung__: Một số đối tác về nội dung được gợi ý đã gửi cho chúng tôi các thông số tổng hợp về các kiểu nội dung mà mọi người hay tương tác, ví dụ như thể thao hoặc tin tức.
 
 ### Đo lường và hỗ trợ tiếp thị của chúng tôi
 
