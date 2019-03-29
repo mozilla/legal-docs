@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">-Datenschutzhinweis</span>
 
-*Gültig ab 28. September 2017*
-{: datetime="2017-09-28" }
+*Gültig ab 15. März 2019*
+{: datetime="2019-03-15" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -24,9 +24,9 @@ Lesen Sie die Telemetrie-Dokumentation für [Desktop](https://firefox-source-doc
 
 * __Standortdaten__:  Wenn Sie Firefox zum ersten Mal verwenden, legt das Programm anhand Ihrer IP-Adresse und Ihrem Land Ihren Standardsuchanbieter fest.  [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Vorschlag relevanter Inhalte 
-
-Firefox zeigt Inhalte wie „Snippets“ (Nachrichten von Mozilla), Top Sites (von Mozilla vorgeschlagene Websites für Firefox-Einsteiger) und Pocket-Empfehlungen.
+### Vorschlag relevanter Inhalte
+ 
+Firefox zeigt Inhalte wie beispielsweise „Snippets“ (Nachrichten von Mozilla), Add-on-Empfehlungen, meistbesuchte Seiten (von Mozilla erstmaligen Firefox-Benutzern empfohlene Websites) und Pocket-Empfehlungen an.
 
 * __Standortdaten__: Firefox verwendet Ihre IP-Adresse, um relevante Inhalte basierend auf Ihrem Land vorzuschlagen.
 
@@ -36,6 +36,8 @@ Firefox zeigt Inhalte wie „Snippets“ (Nachrichten von Mozilla), Top Sites (v
 {: #snippets }
 
 * __Webseitendaten für Pocket-Empfehlungen__: Wir empfehlen Ihnen Inhalte auf Grundlage Ihres Browserverlaufs. Die Stories, die Ihnen präsentiert werden, werden durch einen lokal in Ihrer Ausführung von Firefox stattfindenden Prozess ausgewählt. Dabei erhält weder Mozilla noch Pocket eine Kopie Ihres Browserverlaufs. Wir erhalten jedoch Daten über die Empfehlungen, die Sie sehen und auf die Sie klicken. [Weitere Informationen](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Add-on- und Funktionsempfehlungen__: Wie empfehlen Add-ons an zwei Stellen: der Seite zur Verwaltung Ihrer Erweiterungen (about:addons) und der Adressleiste, wo Sie URLs suchen oder eingeben können. Wir empfehlen evtl. Firefox-Funktionen auch in der Adressleiste. Die Empfehlungen in about:addons basieren auf einem Cookie. Die Empfehlungen in der Adressleiste basieren auf Ihrer Interaktion mit Firefox. Mozilla erhält Ihre Browser-Chronik nicht. Der Vorgang findet lokal in der Kopie von Firefox auf Ihrem Computer statt. Weitere Informationen über [Adressleisten-Empfehlungen](https://support.mozilla.org/kb/extension-recommendationss) oder [Empfehlungen auf der Erweiterungsseite](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Verbesserte Sicherheit für Benutzer überall {: #security }
 
@@ -77,7 +79,7 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
     _iOS und Android_: Firefox sendet standardmäßig Daten darüber, welche Funktionen Sie in Firefox verwenden, an Leanplum, unseren Mobilmarketinganbieter, der eine eigene [Datenschutzerklärung](https://www.leanplum.com/privacy/) hat.  Mit diesen Daten können wir verschiedene Funktionen und Erfahrungen testen sowie speziell angepasste Nachrichten und Empfehlungen bereitstellen, um Ihre Firefox-Erfahrung zu verbessern.
 
-    Lesen Sie die Dokumentation für [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) oder [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) bzw. erfahren Sie, wie [diese Funktion deaktiviert werden kann](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Lesen Sie die Dokumentation für [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) oder [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) bzw. erfahren Sie, wie [diese Funktion deaktiviert werden kann](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -85,12 +87,16 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
 ### Suche
 
-Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab.  _Mozilla erhält Ihre Suchanfragen nicht._ Die Anfragedaten werden an Ihren Suchanbieter geschickt, der eine eigene Datenschutzerklärung hat.  
+Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab. _Mozilla erhält Ihre Suchanfragen nicht._ Die Anfragedaten werden an Ihren Suchanbieter geschickt, der eine eigene Datenschutzerklärung hat. Links zu unseren Standard-Suchanbietern:
 
-* __Suchempfehlungen__: Firefox sendet Suchanfragen standardmäßig an Ihren Suchanbieter, damit Sie häufige Ausdrücke finden, nach denen andere Benutzer gesucht haben, um Ihre Sucherfahrung zu verbessern. Diese Daten werden nicht gesendet, wenn der von Ihnen ausgewählte Suchanbieter Suchempfehlungen nicht unterstützt.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    [Weitere Informationen](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), darunter Angaben dazu, wie Sie diese Funktion Art deaktivieren können.
+__Suchempfehlungen__: Firefox sendet Suchanfragen standardmäßig an Ihren Suchanbieter, damit Sie häufige Ausdrücke finden, nach denen andere Benutzer gesucht haben, um Ihre Sucherfahrung zu verbessern. Diese Daten werden nicht gesendet, wenn der von Ihnen ausgewählte Suchanbieter Suchempfehlungen nicht unterstützt.
+{: #searchsuggestions }
+
+[Weitere Informationen](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), darunter Angaben dazu, wie Sie diese Funktion deaktivieren können.
 
 ### Firefox-Konten
 
