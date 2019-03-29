@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隐私声明</span>
 
-2017年11月7日
-{: datetime="2017-11-07" }
+2019 年 3 月 15 日
+{: datetime="2019-3-15" }
 
 ## 在 Mozilla, 我们坚信隐私安全是健康互联网环境的基础。
 
@@ -17,14 +17,16 @@
 
 * __技术数据__: Firefox Lite会发送以下数据：您的Firefox Lite版本和语言；设备操作系统和硬件配置；内存，关于崩溃和错误的基本信息；自动化过程（如更新）的结果，以及激活信息。当Firefox Lite向我们发送数据时，您的IP地址将暂时作为服务器日志的一部分收集。  
 
-[在此](https://github.com/mozilla-tw/Rocket/wiki/Telemetry)阅读Firefox Lite的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
+[在此](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)阅读Firefox Lite的详细文档或了解如何[退出](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此数据收集。
 {: #telemetry }
 
 ### 建议相关内容
 
 Firefox Lite会显示内容，例如热门网站（由Mozilla为Firefox Lite新用户推荐的网站）。
 
-* __技术数据和互动数据__: Firefox Lite会向我们发送我们所建议内容的位置、大小和定位等数据，以及与Firefox Lite建议内容交互的基本数据。这包括建议内容显示或被点击的次数。
+* __技术与交互数据__：Firefox Lite 会向我们发送数据，例如我们建议内容的位置、大小和放置，以及有关您与 Firefox Lite 建议内容进行交互的基本数据。这包括建议内容的显示或点击次数以及与建议内容进行交互所花费的时间。这也适用于“Life Feed”，这是我们在某些国家/地区的合作伙伴提供的非定向本地化新闻、游戏、优惠等等。请参阅[此处](https://support.mozilla.org/kb/life-feed-firefox-lite)了解详情。
+
+* __内容数据__：建议内容的某些合作伙伴会向我们发送有关人们交互内容类型的汇总指标，例如体育或新闻。
 
 ### 衡量并配合我们的营销活动
 
