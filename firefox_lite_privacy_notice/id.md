@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Pemberitahuan Privasi</span> <span class="privacy-header-policy">Firefox Lite</span>
 
-11 Mei 2018
-{: datetime="2018-5-11" }
+15 Maret 2019
+{: datetime="2019-3-15" }
 
 ## Di Mozilla, kami yakin bahwa privasi sangat penting untuk menciptakan internet yang sehat.
 
@@ -17,14 +17,16 @@ Dalam Kebijakan Privasi ini, kami menjelaskan apa saja data yang dibagikan Firef
 
 * __Data teknis__: Firefox Lite mengirimkan data tentang versi dan bahasa Firefox Lite Anda; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang kerusakan dan kesalahan; hasil proses otomatis seperti pembaruan dan aktivasi kepada kami.  Saat Firefox Lite mengirimkan data kepada kami, alamat IP Anda akan sementara dikumpulkan sebagai bagian dari log server kami.  
 
-Baca dokumen selengkapnya untuk Firefox Lite [di sini](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
+Baca dokumen selengkapnya untuk Firefox Lite [di sini](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
 {: #telemetry }
 
 ### Menyarankan konten yang relevan
 
 Firefox Lite menampilkan konten, seperti Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox Lite).
 
-* __Data Teknis & Interaksi__: Firefox Lite mengirimi kami data seperti posisi, ukuran, dan letak konten yang kami sarankan, serta data dasar tentang interaksi Anda dengan konten yang disarankan Firefox Lite. Data ini termasuk berapa kali konten yang disarankan tersebut ditampilkan atau diklik.
+* __Data Teknis & Interaksi__: Firefox Lite mengirimi kami data seperti posisi, ukuran, dan letak konten yang kami sarankan, serta data dasar tentang interaksi Anda dengan konten yang disarankan Firefox Lite. Data ini termasuk berapa kali konten yang disarankan tersebut ditampilkan atau diklik dan waktu yang dihabiskan untuk berinteraksi dengan saran tersebut. Data ini juga berlaku untuk “Life Feed” yang merupakan berita lokal yang tidak ditargetkan, permainan, tawaran, dan masih banyak lagi yang ditawarkan oleh mitra kami di negara-negara tertentu. Lihat [di sini](https://support.mozilla.org/kb/life-feed-firefox-lite) untuk detail selengkapnya.
+
+* __Data konten__: Beberapa mitra dari konten yang disarankan mengirimi kami metrik agregat tentang jenis konten yang menarik pengguna, misalnya, olahraga atau berita.
 
 ### Mengukur dan mendukung pemasaran kami
 
