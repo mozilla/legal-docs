@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Pemberitahuan Privasi</span> <span class="privacy-header-firefox">Firefox</span>
 
-*Berlaku 28 September 2017*
-{: datetime="2017-09-28" }
+*Berlaku 15 Maret 2019*
+{: datetime="2019-03-15" }
 
 ## Di Mozilla, kami yakin bahwa privasi sangat penting untuk menciptakan internet yang sehat.
 
@@ -24,9 +24,9 @@ Baca dokumen telemetri untuk [Desktop](https://firefox-source-docs.mozilla.org/t
 
 * __Data lokasi__:  Saat Anda menggunakan Firefox untuk pertama kalinya, Firefox akan menggunakan alamat IP Anda untuk mengatur penyedia pencarian baku berdasarkan negara Anda.  [Pelajari selengkapnya](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Menyarankan konten yang relevan 
-
-Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla), Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox) dan Rekomendasi Pocket.
+### Menyarankan konten yang relevan
+ 
+Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla), Rekomendasi Add-on, Situs Populer (situs yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox), dan Rekomendasi Pocket.
 
 * __Data lokasi__: Firefox menggunakan alamat IP Anda untuk menyarankan konten yang relevan berdasarkan negara Anda.
 
@@ -36,6 +36,8 @@ Firefox menampilkan konten, seperti “Snippet” (pesan dari Mozilla), Situs Po
 {: #snippets }
 
 * __Data laman web untuk Rekomendasi Pocket__: Kami merekomendasikan konten berdasarkan riwayat penjelajahan Anda. Proses pengambilan keputusan tentang berita apa yang sebaiknya Anda lihat berlangsung secara lokal dalam salinan Firefox Anda, sementara Mozilla dan Pocket tidak menerima salinan riwayat penjelajahan Anda. Kamilah yang menerima data tentang rekomendasi yang Anda lihat dan klik. [Pelajari selengkapnya](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Rekomendasi Add-on dan Fitur__: Kami merekomendasikan Add-on di dua tempat: Halaman Kelola Ekstensi Anda (about:addons) dan Bilah URL, tempat Anda mencari atau mengetik di URL. Kami juga merekomendasikan Fitur Firefox di Bilah URL. Rekomendasi kami di about:addons didasarkan pada cookie. Rekomendasi kami di Bilah URL didasarkan pada interaksi Anda dengan Firefox. Mozilla tidak menerima riwayat penjelajahan Anda. Proses tersebut terjadi secara lokal di salinan Firefox komputer Anda. Pelajari Selengkapnya tentang [rekomendasi Bilah URL](https://support.mozilla.org/kb/extension-recommendationss) atau [rekomendasi Halaman Ekstensi](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Meningkatkan keamanan bagi pengguna di mana pun berada {: #security }
 
@@ -77,7 +79,7 @@ Baca dokumen lengkapnya [di sini](https://firefox-source-docs.mozilla.org/toolki
 
     _Di iOS dan Android_: Firefox secara baku mengirimkan data tentang fitur apa saja yang Anda gunakan di Firefox kepada Leanplum, vendor pemasaran seluler kami, yang memiliki [kebijakan privasi](https://www.leanplum.com/privacy/) sendiri.  Data ini memungkinkan kami menguji fitur dan pengalaman berbeda, serta memberikan pesan dan rekomendasi yang disesuaikan untuk meningkatkan pengalaman Anda menggunakan Firefox.
 
-    Baca dokumen untuk [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) atau [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), atau pelajari cara [menonaktifkan fitur ini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Baca dokumen untuk [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) atau [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), atau pelajari cara [menonaktifkan fitur ini](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -85,12 +87,16 @@ Baca dokumen lengkapnya [di sini](https://firefox-source-docs.mozilla.org/toolki
 
 ### Pencarian
 
-Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk Bilah Alamat, Bilah Pencarian, atau di Tab Baru.  _Mozilla tidak menerima kueri pencarian Anda._ Data kueri dikirim ke penyedia pencarian Anda, yang memiliki kebijakan privasi sendiri.  
+Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk Bilah URL, Bilah Pencarian, atau di Tab baru. _Mozilla tidak menerima kueri pencarian Anda._ Data kueri dikirimkan ke penyedia pencarian Anda, yang memiliki kebijakan privasi tersendiri. Tautan ke penyedia pencarian baku kami adalah:
 
-* __Saran Pencarian__: Firefox secara baku mengirimkan kueri pencarian kepada penyedia pencarian Anda untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Data ini tidak akan dikirimkan jika penyedia pencarian yang Anda pilih tidak mendukung saran pencarian.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    [Pelajari selengkapnya](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), termasuk cara menonaktifkan fitur ini.
+__Saran Pencarian__: Firefox secara baku mengirimkan kueri pencarian ke penyedia pencarian Anda untuk membantu Anda menemukan frasa umum yang sudah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Data ini tidak akan dikirimkan jika penyedia pencarian yang Anda pilih tidak mendukung saran pencarian.
+{: #searchsuggestions }
+
+[Pelajari selengkapnya](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), termasuk cara menonaktifkan fitur ini.
 
 ### Akun Firefox
 
