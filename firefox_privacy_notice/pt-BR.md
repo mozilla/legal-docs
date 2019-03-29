@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Aviso de privacidade do</span> <span class="privacy-header-firefox">Firefox</span>
 
-*Vigência em 28 de setembro de 2017*
-{: datetime="2017-09-28" }
+*Data de vigência: 15 de março de 2019*
+{: datetime="2019-03-15" }
 
 ## Na Mozilla, acreditamos que a privacidade é fundamental para uma Internet saudável.
 
@@ -24,9 +24,9 @@ Leia a documentação de telemetria para [Desktop](https://firefox-source-docs.m
 
 * __Dados de localização__: Quando você usa o Firefox pela primeira vez, ele usa seu endereço IP para definir o mecanismo de pesquisa padrão com base no seu país.  [Saiba mais](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Sugerir conteúdo relevante 
-
-O Firefox exibe conteúdo como “Snippets” (mensagens da Mozilla), Sites preferidos (sugeridos pela Mozilla para usuários novos do Firefox) e Recomendações do Pocket.
+### Sugerir conteúdo relevante
+ 
+O Firefox exibe conteúdo, como “Trechos de código” (mensagens da Mozilla), Recomendações de extensões, Sites preferidos (sugeridos pela Mozilla para usuários novos do Firefox) e Recomendações do Pocket.
 
 * __Dados de localização__: O Firefox usa seu endereço IP para sugerir conteúdo relevante com base no seu país.
 
@@ -36,6 +36,8 @@ O Firefox exibe conteúdo como “Snippets” (mensagens da Mozilla), Sites pref
 {: #snippets }
 
 * __Dados de páginas da Internet para Recomendações do Pocket__: Recomendamos conteúdo para você com base no seu histórico do navegador. O processo de decisão de quais histórias você vê ocorre internamente na sua cópia do Firefox. A Mozilla e o Pocket não recebem uma cópia do seu histórico do navegador. Só recebemos dados sobre suas recomendações e cliques. [Saiba mais](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Recomendações de extensões e de recursos__: Recomendamos extensões em dois lugares: na página “Gerenciar suas extensões” (about:addons) e na Barra de endereços inteligente, na qual você pesquisa ou digita URLs. Também podemos recomendar Recursos do Firefox na Barra de endereços inteligente. Nossas recomendações de about:addons são baseadas em cookies. As recomendações da Barra de endereços inteligente são baseadas na sua interação com o Firefox. A Mozilla não recebe o histórico do seu navegador. O processo ocorre no local, na cópia do Firefox do seu próprio computador. Saiba mais sobre as [recomendações da Barra de endereços inteligente](https://support.mozilla.org/kb/extension-recommendationss) ou da [Página de extensões](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Melhorar a segurança dos usuários em todo o mundo {: #security }
 
@@ -77,20 +79,24 @@ Leia a documentação completa [aqui](https://firefox-source-docs.mozilla.org/to
 
     _No iOS e Android_: Por padrão, o Firefox envia dados relacionados aos recursos que você usa nele para o Leanplum, nosso fornecedor de marketing para dispositivos móveis, que tem sua própria [política de privacidade](https://www.leanplum.com/privacy/). Esses dados nos permitem testar diferentes recursos e experiências, além de fornecer mensagens e recomendações personalizadas para melhorar sua experiência com o Firefox.
 
-    Leia a documentação para [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) ou saiba como [desabilitar esse recurso](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Leia a documentação para [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) ou saiba como [desabilitar esse recurso](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
 ## Se você usar esses recursos, o Firefox compartilhará dados para fornecer funcionalidade: {: #optional-features }
 
-### Pesquisa
+### Pesquisar
 
-Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive na barra de endereços inteligente, no campo de pesquisa ou uma nova aba. _A Mozilla não recebe suas consultas de pesquisa._ Os dados de consultas são enviados para seu mecanismo de pesquisa, que tem sua própria política de privacidade.
+Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive na Barra de endereços inteligente, no Campo de pesquisa ou em uma nova guia. _A Mozilla não recebe suas consultas de pesquisa._ Os dados de consultas são enviados para seu provedor de pesquisa, que tem sua própria política de privacidade. Estes são os links dos nossos provedores de pesquisa padrão:
 
-* __Sugestões de pesquisa__: Por padrão, o Firefox envia consultas de pesquisa para seu mecanismo de pesquisa a fim de ajudar você a descobrir frases comuns pesquisadas por outras pessoas e melhorar sua experiência. Esses dados não serão enviados caso seu mecanismo de pesquisa não seja compatível com sugestões de pesquisa.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    [Saiba mais](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), inclusive como desabilitar esse recurso.
+__Sugestões de pesquisa__: Por padrão, o Firefox envia consultas de pesquisa para seu provedor de pesquisa a fim de ajudar você a descobrir frases comuns pesquisadas por outras pessoas e melhorar sua experiência. Esses dados não são enviados caso seu provedor de pesquisa não seja compatível com sugestões de pesquisa.
+{: #searchsuggestions }
+
+[Saiba mais](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), inclusive como desabilitar esse recurso.
 
 ### Conta Firefox
 
