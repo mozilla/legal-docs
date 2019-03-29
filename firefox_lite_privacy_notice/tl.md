@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Abiso sa Privacy ng</span> <span class="privacy-header-policy">Firefox Lite</span>
 
-Biernes, Mayo 11, 2018
-{: datetime="2018-5-11" }
+Marso 15, 2019
+{: datetime="2019-3-15" }
 
 ## Sa Mozilla, naniniwala kami na ang privacy ay mahalaga sa isang malusog na internet.
 
@@ -17,14 +17,16 @@ Sa Abiso sa Privacy na ito, ipinapaliwanag namin kung anong data ang ibinabahagi
 
 * __Teknikal na data__: Nagpapadala ang Firefox Lite ng data tungkol sa iyong bersyon at wika ng Firefox Lite; operating system at configuration ng hardware ng device; memory, pangunahing impormayon tungkol sa mga pag-crash at error; resulta ng mga naka-automate na proseso tulad ng mga update, at pag-activate sa amin. Kapag nagpapadala sa amin ng data ang Firefox Lite, pansamantalang kinokolekta ang iyong IP address bilang bahagi ng aming mga server log.
 
-Magbasa ng detalyadong dokumentasyon para sa Firefox Lite [dito](https://github.com/mozilla-tw/Rocket/wiki/Telemetry) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting.
+Magbasa ng detalyadong dokumentasyon para sa Firefox Lite [dito](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting.
 {: #telemetry }
 
 ### Magmungkahi ng nauugnay na content
 
 Nagpapakita ang Firefox Lite ng content, gaya ng Mga Nangungunang Site (mga website na iminumungkahi ng Mozilla para sa mga first-time na user ng Firefox Lite).
 
-* __Teknikal na data at data ng Interaksyon__: Nagpapadala ang Firefox Lite sa amin ng data gaya ng posisyon, laki at pagkakalagay ng content na iminumungkahi namin, at pati na rin ng pangunahing data tungkol sa iyong mga interaksyon sa iminumungkahing content ng Firefox Lite. Kasama rito ang bilang ng beses na ipinapakita o kini-click ang iminumungkahing content.
+* __Teknikal na data at data ng Interaksyon__: Nagpapadala ang Firefox Lite sa amin ng data gaya ng posisyon, laki at pagkakalagay ng content na iminumungkahi namin, at pati na rin ng pangunahing data tungkol sa iyong mga interaksyon sa iminumungkahing content ng Firefox Lite. Kasama rito ang bilang ng beses na ipinapakita o kini-click ang iminumungkahing content at ang oras na ginugugol sa pag-engage sa mga mungkahi. Nalalapat din ito sa “Life Feed” na mga hindi naka-target at naka-localize na balita, laro, deal, at higit pa na iniaalok ng aming mga partner sa ilang partikular na bansa. Tumingin [dito](https://support.mozilla.org/kb/life-feed-firefox-lite) para sa higit pang detalye.
+
+* __Data ng content__: Nagpapadala sa amin ang ilang partner ng mga iminumungkahing content ng mga pinagsama-samang sukatan sa mga uri ng content kung saan nag-e-engage ang mga tao, halimbawa, sports o balita.
 
 ### Sukatin at suportahan ang aming marketing
 
