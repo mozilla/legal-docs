@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span>-<span class="privacy-header-policy">privacyverklaring</span>
 
-*Van kracht vanaf 28 september 2017*
-{: datetime="2017-09-28" }
+*Van kracht vanaf vrijdag 15 maart 2019*
+{: datetime="2019-03-15" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -24,9 +24,9 @@ Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozil
 
 * __Locatiegegevens__: wanneer u Firefox voor het eerst gebruikt, wordt uw IP-adres op basis van uw land gebruikt voor het instellen van uw standaardzoekprovider. [Meer informatie](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-### Voorgestelde relevante inhoud 
-
-Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), Top Sites (door Mozilla voorgestelde websites voor gebruikers die Firefox voor het eerst gebruiken) en Pocket-aanbevelingen.
+### Voorgestelde relevante inhoud
+ 
+Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), aanbevolen add-ons, Top Sites (door Mozilla voorgestelde websites voor gebruikers die Firefox voor het eerst gebruiken) en Pocket-aanbevelingen.
 
 * __Locatiegegevens__: Firefox gebruikt uw IP-adres om relevante inhoud voor te stellen op basis van uw land.
 
@@ -36,6 +36,8 @@ Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), Top Sites (do
 {: #snippets }
 
 * __Webpaginagegevens voor Pocket-aanbevelingen__: we stellen inhoud aan u voor op basis van uw browsergeschiedenis. Het proces van het beslissen van welke verhalen moeten worden weergegeven vindt plaats in uw lokale exemplaar van Firefox, en noch Mozilla, noch Pocket ontvangt een kopie van uw browsergeschiedenis. We ontvangen wel gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. [Meer informatie](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+
+* __Aanbevolen add-ons en functies__: Add-ons worden op twee plaatsen aanbevolen: op de pagina Manage Your Extensions (about:addons) en op de balk Awesome. Met deze laatste kunt u zoeken en hierop kunt u URL's invoeren. We kunnen ook Firefox-functies aanbevelen op de balk Awesome. We baseren de aanbevelingen in about:addons op een cookie. We baseren de aanbevelingen op de balk Awesome op uw interactie met Firefox. Uw browsergeschiedenis wordt niet door Mozilla ontvangen. Deze bevindt zich uitsluitend in het exemplaar van Firefox op uw computer. Meer informatie over [aanbevelingen van de balk Awesome](https://support.mozilla.org/kb/extension-recommendationss) of [aanbevelingen op de pagina voor extensies](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Beveiliging verbeteren voor alle gebruikers {: #security }
 
@@ -77,20 +79,24 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
     _Bij iOS en Android_: Firefox verzendt standaard gegevens over welke functies u in Firefox gebruikt naar Leanplum. Leanplum levert marketing voor mobiele apparaten en heeft een eigen [privacybeleid](https://www.leanplum.com/privacy/). Met deze gegevens kunnen we verschillende functies en ervaringen testen en aangepaste berichten en aanbevelingen aanbieden om de ervaring met Firefox te verbeteren.
 
-    Raadpleeg de documentatie van [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) of [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) of lees hoe u deze [functie uitschakelt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Raadpleeg de documentatie van [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) of [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) of lees hoe u deze [functie uitschakelt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
 ## Als u deze functies gebruikt, deelt Firefox gegevens om de volgende functionaliteit aan te bieden:  {: #optional-features }
 
-### Zoeken:
+### Zoeken
 
-Op verschillende plaatsen in Firefox kunt u rechtstreeks zoekopdrachten uitvoeren, waaronder op de adresbalk, de zoekbalk of op een nieuw tabblad. _Uw zoekquery’s worden niet door Mozilla ontvangen._ Querygegevens worden naar uw zoekprovider verzonden. Deze heeft een eigen privacybeleid.
+U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoeren, waaronder op de balk Awesome, de zoekbalk of op een nieuw tabblad. _Uw zoekquery's worden niet door Mozilla ontvangen._ Querygegevens worden naar uw zoekprovider verzonden. Deze heeft een eigen privacybeleid. Koppelingen naar onze standaard zoekproviders zijn:
 
-* __Zoeksuggesties__: Firefox verzendt standaard zoekquery’s naar uw zoekprovider, zodat veelgebruikte woordgroepen waarnaar anderen hebben gezocht kunnen worden weergegeven en uw zoekervaring kan worden verbeterd. Deze gegevens worden niet naar uw geselecteerde zoekprovider verzonden als deze geen zoeksuggesties ondersteunt.
-{: #searchsuggestions } 
+* [__Google__](https://policies.google.com/privacy)
+* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
+* [__Yandex__](https://yandex.ru/legal/confidential/)
 
-    Lees [meer informatie](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), waaronder informatie over hoe u deze functie kunt uitschakelen.
+__Zoeksuggesties__: Firefox verzendt standaard zoekquery's naar uw zoekprovider, zodat er veelgebruikte zinnen kunnen worden weergegeven waarnaar anderen hebben gezocht en zodat uw zoekervaring kan worden verbeterd. Deze gegevens worden niet naar uw geselecteerde zoekprovider verzonden als deze geen zoeksuggesties ondersteunt.
+{: #searchsuggestions }
+
+Lees [meer informatie](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), waaronder informatie over hoe u deze functie kunt uitschakelen.
 
 ### Firefox-accounts
 
