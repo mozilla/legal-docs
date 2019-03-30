@@ -1,69 +1,73 @@
 # Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-6. září 2017
-{: datetime="2017-09-06" }
+15\. března 2019
+{: datetime="2019-03-15" }
 
-Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany soukromí](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
+Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
-Toto oznámení o ochraně osobních údajů se vztahuje na webové stránky a mobilní aplikace provozované společností Mozilla, k nimž patří kromě jiných domény mozillians.org, mozilla.org, firefox.com a webmaker.org. Patří sem například  bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
+Tyto zásady ochrany osobních údajů platí pro webové stránky a mobilní aplikace provozované společností Mozilla, což kromě dalších zahrnuje domény mozillians.org, mozilla.org, firefox.com a webmaker.org. Patří mezi ně například bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org a wiki.mozilla.org.
 
 ## Co byste měli vědět
 
-Může se stát, že během vaší interakce s námi na platformách sociálních médií od vás získáme osobní údaje, ať již žádáte o práci, o praxi nebo o stáž, hlásíte-li se dobrovolně jako člen komunity Mozilla nebo zasíláte-li nám uživatelskou zpětnou vazbu či požadavky.
+Může se stát, že během vaší interakce s námi na platformách sociálních médií od vás získáme osobní údaje, ať již žádáte o práci, o praxi nebo o stáž, hlásíte-li se dobrovolně jako člen komunity Mozilla nebo zasíláte-li nám uživatelskou zpětnou vazbu či požadavky; nebo pokud si založíte účet; nebo pokud se zapojíte do produktové nebo politické kampaně. 
 {: #personal-info }
 
 * **Sociální média**: Přihlásíte-li se k účtům našich sociálních médií jako např. Twitter a Facebook, můžeme získat vaše osobní údaje. Používáte-li tyto sítě, platí jejich zásady ochrany osobních údajů a doporučujeme vám se s nimi seznámit.
 
-* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany soukromí](https://www.mozilla.org/privacy/).
+* **Žadatelé o práci, o praxi nebo o stáž**: Žadatelé o práci, o praxi nebo o stáž u společnosti Mozilla nám musí poskytnout jméno, adresu, telefonní číslo, e-mailovou adresu a životopis. Tyto informace používáme při zpracovávání a posuzování žádostí a pro komunikaci se žadateli ohledně příležitostí. Využíváme služeb externího dodavatele, který nám s žádostmi o zaměstnání pomáhá. Více informací o způsobech nakládání s osobními údaji u externích dodavatelů je uvedeno v našich [Zásadách ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/).
 
-* **Přispěvatelé**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo na zdrojovém kódu, budou vaše e-mailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o komunitě Mozilla. Příkladem je [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
+* **Spolupracovníci**: Budete-li spolupracovat se společností Mozilla jako dobrovolný přispěvatel v rámci komunity, může být případně zapotřebí, aby s vámi společnost Mozilla a jiné subjekty komunikovaly přes e-mailovou adresu, kterou v souvislosti se svým příspěvkem poskytnete, a také za účelem uznání vašeho úsilí. Podílíte-li se na aplikacích Bugzilla, Mozilla Reps nebo kódové bázi, budou vaše emailová adresa a případně i vaše jméno veřejně k dispozici všem uživatelům internetu. Vytvoříte-li si profil na doméně Mozillians.org, bude tento profil přístupný pro zaměstnance a spolupracovníky společnosti Mozilla. Údaje na vašem profilu můžete upravovat pomocí [Nastavení profilu](https://mozillians.org/user/edit). Někdy využíváme údaje o spolupracovnících ze zdrojů (např. Bugzilla) na panelech pro vizuální sdílení souhrnných dat o Mozilla komunitě. Příkladem je <https://wiki.mozilla.org/Contribute/Dashboards>. Je-li to možné, snažíme se veřejně zobrazované kontaktní údaje omezit na minimum.
 
-* **Účty**: Některé webové stránky jako například Marketplace, AMO, MDN a Webmaker vyžadují založení účtu, aby vývojáři mohli nahrávat svůj obsah, uživatelé odesílat recenze či komentáře či instalovat určité typy aplikací. V souvislosti se svým účtem vám mohou být pravidelně zasílány e-maily.
+* **Uživatelská zpětná vazba**: Zpětnou vazbu týkající se našich produktů a služeb nám můžete poskytovat na webových stránkách jako např. [input.mozilla.org](https://input.mozilla.org/), prostřednictvím integrovaných dotazníků na zkušenosti s produktem nebo prostřednictvím kanálů jako např. e-mail, Bugzilla, IRC, účet na sociálních médiích nebo stránky Get Involved nebo prostřednictvím skupiny jako např. Student Ambassadors. Omezte prosím na minimum osobní údaje, které budete na těchto fórech sdílet, protože vaše komentáře budou veřejně přístupné.
 
-* **Uživatelská zpětná vazba**:  Zpětnou vazbu týkající se našich produktů a služeb nám můžete poskytovat na webových stránkách jako např. [input.mozilla.org](https://input.mozilla.org/), prostřednictvím integrovaných dotazníků na zkušenosti s produktem nebo prostřednictvím kanálů jako např. e-mail, Bugzilla, IRC, účet na sociálních médiích nebo stránky Get Involved nebo prostřednictvím skupiny jako např. Student Ambassadors. Omezte prosím na minimum osobní údaje, které budete na těchto fórech sdílet, protože vaše komentáře budou veřejně přístupné.
+* **Účty**: Některé webové stránky, například Marketplace, AMO, MDN a Webmaker, vyžadují založení účtu, aby bylo možné předkládat obsah vývojáře, zasílat uživatelskou zpětnou vazbu nebo komentáře, či instalovat určité typy aplikací. V souvislosti s vaším účtem můžete pravidelně dostávat e-maily. 
+
+* **Produktové a politické kampaně**: Některé naše webové stránky hostují produktové nebo politické kampaně. Můžete si například vyžádat odkaz e-mailem nebo SMS k instalaci Firefox ve vašem mobilním zařízení nebo zaslat petici svému zákonodárci v záležitostech internetu. K řízení těchto kampaní a správu všech dat, které se rozhodnete poskytnout, využíváme třetí strany.
+{: #campaigns }
 
 ---------------------------------------
 
-Pro zajištění funkčnosti a vylepšení našich produktů, služeb a komunikace používáme soubory cookies, jednopixelové gify, nezávislou webovou analýzu a IP adresy.
+Pro zajištění funkčnosti a zlepšení pochopení interakce uživatelů s našimi produkty, službami a komunikací můžeme  používat soubory cookies, jednopixelové gify, nezávislou webovou analýzu a IP adresy.
 {: #data-tools }
 
-* **Funkce**: Můžeme používat soubory cookies, informace a zařízení a IP adresy pro rozšíření funkcí některých produktů, služeb a sdělení. Například:
-    * Soubory cookies se používají, abychom si zapamatovali vaše jazykové předvolby Firefoxu a doplňky Firefoxu. Pomáhají i při přihlašování a ověřování uživatele, takže na některých webových stránkách Mozilla se můžete obejít bez zadávání hesel.
-    * IP adresy se používají pro přizpůsobení sdělení jazyku a zemi.
-    * Informace o zařízení, jako např. země, jazyk, operátor a OEM mohou být využity pro přizpůsobení vaší interakce na Firefox Marketplace a Webmaker.
+* **Fungování**: Můžeme využívat informace jako jsou soubory cookies, informace o zařízení a adresy IP k rozšíření funkcí určitých produktů, služeb a komunikací. Například:
+    * Používáme soubory cookies pro zapamatování informací o vašich nastaveních Firefoxu (jako jsou jazykové předvolby a doplňky Firefox), jakož i abychom vám mohli doporučit příslušné funkce a doplňky na základě vašeho nastavení Firefox. Jsou rovněž nápomocné při přihlašování a ověřování uživatele, takže na webových stránkách společnosti Mozilla můžete vynechat zadávání vašich hesel.
+    * Adresy IP používáme k přizpůsobení sdělení podle jazyka a země.
+    * Určité informace o zařízení, jako jsou země, jazyk, operátor a OEM využíváme k přizpůsobení vaší zkušenosti.
 
-* **Metriky**: Můžeme rovněž využívat soubory cookies, informace o zařízení a IP adresách, společně s prázdnými GIFy, soubory cookies a službami třetích osob, které nám pomáhají pochopit, jak souhrnně uživatelé pracují s našimi produkty, službami, sděleními, webovými stránkami, online kampaněmi, snippety, zařízeními a dalšími platformami. Používáme:
-    * Google Analytics, které umisťují soubory cookies do vašeho zařízení pro získání metrik toho, jak uživatelé využívají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
-    * Optimizely a ShareProgress, které umisťují soubory cookies do vašeho zařízení, které nám pomáhají testovat změny obsahu webu. To nám pomáhá nabízet uživatelům lepší prožitek na webu.
-    * DoubleClick a Flashtalking, z nichž každá využívá prázdné GIFy na stránkách stahování Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
-    * Yahoo Dot Pixel, která využívá JavaScript na našich stránkách stahování Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
-    * Referenční data HTTP, která mohou být součástí instalačního programu Firefoxu, které nám pomáhají zjistit domény webových stránek nebo reklamní kampaně, které vás na stránku stahování přivedly. Tato informace nám pomáhá pochopit efektivitu našich reklamních kampaní a jejich vylepšování.
-    * Čas od času další nástroje a metriky, na experimentální bázi. Můžeme je využít např. jako pomůcku pro hodnocení nových nástrojů pro metriky nebo testování stávajících metrik.
+* **Metriky**: Můžeme rovněž používat soubory cookies, informace o zařízení a adresy IP, společně s jednopixelovými gify, soubory cookies a službami třetích osob, aby nám pomáhaly souhrnně pochopit způsob jakým uživatelé využívají naše produkty, služby, komunikace, webové stránky, online kampaně, snippety, zařízení a další platformy. Používáme:
+    * Google Analytics, která umisťuje soubor cookie do vašeho zařízení k získání metrik o tom, jak uživatelé používají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
+    * Optimizely a ShareProgress, které umisťují soubor cookie do vašeho zařízení, který nám pomáhá s testováním změn obsahu webových stránek. To nám pomáhá nabízet uživatelům lepší zkušenosti s webovými stránkami.
+    * DoubleClick a Flashtalking používají jednopixelové gify na vaší stránce stahování Firefox. To nám pomáhá měřit efektivitu našich reklamních kampaní.
+    * Yahoo Dot Pixel, která využívá JavaScript na naší stránce stahování Firefox. To nám pomáhá měřit efektivitu našich reklamních kampaní. 
+    * Referenční data HTTP, která mohou být zahrnuta do instalačního programu Firefox pro pochopení doménu webových stránek nebo reklamních kampaní, které vás na naše stránky stahování odkázaly. Tyto informace nám pomáhají pochopit efektivitu našich reklamních kampaní a vylepšit je.
+    * Další nástroje metriky čas od času na zkušební bázi. Můžeme to dělat například proto, abychom mohli posoudit nový nástroj metriky nebo testovat naši stávající sbírku metrik.
 
 ---------------------------------------
 
-Můžete ovládat jednotlivé předvolby pro soubory cookies, informovat o svých předvolbách pro soubory cookies ostatní, jakož i rušit volby webové analýzy a nástrojů optimalizace.
+Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat své preference souborů cookies jiným subjektům a odhlásit se z webové analýzy a optimalizačních nástrojů. 
 {: #user-choices }
 
-* **Historie souborů cookies**: Jednotlivé soubory cookies můžete přijmout nebo odmítnout v předvolbách Firefoxu pod položkou Historie v části Nástroje > Možnosti > Soukromí. Dovolujeme si upozornit, že některé funkce našich produktů a služeb nemusí bez pomoci souborů cookies správně fungovat.
+* **Historie souborů cookie**: Jednotlivé soubory cookies můžete přijmout nebo odmítnout v preferencích aplikace Firefox pod položkou Historie v části Nástroje/Možnosti/Soukromí. Dovolujeme si upozornit, že některé funkce našich produktů a služeb nemusí bez pomoci souborů cookies správně fungovat.
+{: #cookies }
 
-* **Funkce Do Not Track**: Mozilla nesleduje uživatele prostřednictvím webových stránek třetích osob pro zasílání cílené reklamy. Pokud máte váš prohlížeč při vstupu na webové stránky nakonfigurovaný s nastavením signálu „Do Not Track”, Mozilla nebude používat žádný z nástrojů popsaných v části [Metriky](#data-tools).
+* **Nesledovat**: Společnost Mozilla nesleduje uživatele napříč nezávislými webovými stránkami za účelem poskytování cílené reklamy. Pokud jste váš prohlížeč nakonfigurovali tak, aby při vstupu na naše webové stránky odesílal signál „Nesledovat“, společnost Mozilla nebude využívat žádné nástroje popsané v části [Metriky](#data-tools).
 
-* **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových předvoleb v aplikaci Mozilla](https://www.mozilla.org/newsletter/recovery/).
+* **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
-* **Analýza a optimalizace**: Pro zabránění shromažďování dat o vašich návštěvách webových stránek Mozilla postupujte dle pokynů níže:
-    *  Google: Nainstalujte [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), který zachová anonymitu vašich návštěv a zakáže přenos dat do Google Analytics. Některé stránky Mozilla.org používají čisté soubory GIF, které komunikují s DoubleClick, aby umožnily pochopit účinnost našich reklamních kampaní; přizpůsobené reklamy z DoubleClick můžete ovládat v nastavení reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
-    *  Optimizely: [Zrušte odběr na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) nebo navštivte [webové stránky zrušení odběru Optimizely](https://www.optimizely.com/opt_out), kde najdete podrobnější informace.
-    *  Yahoo: pro zrušení volby navštivte [Správce reklamních zájmů](https://aim.yahoo.com/aim/us/en/optout/).
-    *  ShareProgress: V prohlížeči můžete [zapnout funkci Do Not Track](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Analytika a optimalizace**: Pro zabránění shromažďování dat ohledně vašich návštěv webových stránek společnosti Mozilla postupujte dle pokynů níže:
+    *  Google: Nainstalute si [Doplněk prohlížeče pro zrušení volby Google Analytics](https://tools.google.com/dlpage/gaoptout), který zachová anonymitu vašich návštěv a zakáže přenos dat Google Analytics. Některé stránky Mozilla.org využívají jednopixelové gify, které komunikují s DoubleClick pro pochopení efektivity našich reklamních kampaní; přizpůsobené reklamy od DoubleClick můžete ovládat v nastaveních reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
+    *  Optimizely: [Zrušte volbu na adrese www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) nebo navštivte [webové stránky zrušení volby Optimizely](https://www.optimizely.com/opt_out), kde najdete podrobnější informace.
+    *  Yahoo: navštivte stránky [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) a volbu zrušte.
+    *  ShareProgress: [Volbu „Nesledovat“ můžete zapnout ve svém prohlížeči](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Sociální média**: Tlačítka pro sdílení na sociálních sítích na webových stránkách Mozilly jsou navržena tak, aby údaje nebyly sdíleny s poskytovatelem sociálních médií, dokud na tlačítko přímo nekliknete.
+* **Sociální média**: Tlačítka pro sdílení na sociálních sítích na webových stránkách Mozilla jsou navržena tak, aby údaje nebyly sdíleny s poskytovatelem sociálních médií, dokud na tlačítko přímo nekliknete.
 
 ---------------------------------------
 
-Některé webové stránky Mozilly umožňují provádět nákupy (např. aplikací nebo zboží) nebo poskytovat dary. Tyto transakce jsou zpracovávány třetími stranami a nikoli společností Mozilla.
+Některé webové stránky Mozilla umožňují provádět nákupy (např. aplikací nebo zboží) nebo poskytovat dary. Tyto transakce jsou zpracovávány třetími stranami a nikoli společností Mozilla. 
 {: #donations }
 
-* **Zpracovávání plateb**: Společnost Mozilla nezískává žádné bankovní informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům. Název třetí strany se zobrazí v okamžiku transakce.
+* **Zpracovávání plateb**: Společnost Mozilla nezískává žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům. Název třetí strany se zobrazí v okamžiku transakce.
 
-* **Prevence podvodů**:   Společnost Mozilla zavedla technologii třetí strany, Invisible reCAPTCHA společnosti Google, která pracuje na pozadí některých z našich webových stránek pro identifikaci podvodné činnosti. Na používání Invisible reCAPTCHA se vztahují [Zásady ochrany osobních údajů](https://www.google.com/intl/en/policies/privacy/) a [Podmínky používání](https://www.google.com/intl/en/policies/terms/) společnosti Google.
+* **Prevence podvodů**: Společnost Mozilla uplatnila technologii třetí osoby, Neviditelný kód reCAPTCHA společnosti Google, která funguje na pozadí některých našich webových stránek s cílem identifikovat podvodnou činnost. Používání Neviditelného kódu reCAPTCHA se řídí [Zásadami ochrany osobních údajů](https://www.google.com/intl/en/policies/privacy/) a [Podmínkami používání](https://www.google.com/intl/en/policies/terms/) společnosti Google.

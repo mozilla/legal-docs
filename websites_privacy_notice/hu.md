@@ -1,69 +1,73 @@
-# Webhelyekre, közleményekre és sütikre vonatkozó Adatvédelmi nyilatkozat
+# Webhelyekre, közleményekre és cookie-kra vonatkozó adatvédelmi nyilatkozat
 
-2017. szeptember 6.
-{: datetime="2017-09-06" }
+2019\. március 15\.
+{: datetime="2019-03-15" }
 
-Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, akkor a mi [Mozilla Adatvédelmi Irányelveinkben](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
+Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
-A jelen adatvédelmi nyilatkozat a Mozilla által üzemeltetett webhelyekre és mobilalkalmazásokra vonatkozik, többek között a mozillians.org, a mozilla.org, a firefox.com és a webmaker.org tartományokra. Ide tartoznak például a következők: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org és wiki.mozilla.org.
+Ez az adatvédelmi szabályzat a Mozilla által működtetett webhelyekre és mobilalkalmazásokra egyaránt vonatkozik, beleértve többek között a következő tartományokat: mozillians.org, mozilla.org, firefox.com és webmaker.org. Ide tartoznak például a következő webhelyek is: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org és wiki.mozilla.org
 
 ## Tudnivalók
 
-Személyes adataihoz hozzáférhetünk például a közösségi oldalakon velünk folytatott interakciói alapján, ha jelentkezik nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas pozícióra, ha önkéntesnek jelentkezik a Mozilla közösség tagjaként, vagy ha visszajelzést küld nekünk vagy igényel tőlünk. 
+Személyes adataihoz hozzáférhetünk például a közösségi oldalakon velünk folytatott interakciói alapján, ha jelentkezik nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas pozícióra, ha önkéntesnek jelentkezik a Mozilla közösségi tagjaként, ha felhasználói visszajelzést vagy kérést küld nekünk, ha regisztrál egy fiókot, valamint ha részt vesz egy termék- vagy szabályzati kampányban. 
 {: #personal-info }
 
-* **Közösségi oldalak**: Ha használja a közösségi oldalakon, például a Twitteren és a Facebookon elérhető fiókjainkat, akkor személyes adatokhoz juthatunk Önről. Amennyiben használja ezeket a hálózatokat, akkor ezek saját adatvédelmi irányelveit kell alkalmazni, javasoljuk, hogy olvassa el ezeket. 
+* **Közösségi oldalak**: Ha használja a közösségi oldalakon, például a Twitteren és a Facebookon elérhető fiókjainkat, személyes adatokat kaphatunk Önről. Amennyiben használja ezeket a hálózatokat, ezek saját adatvédelmi szabályzatait kell alkalmazni. Javasoljuk, hogy olvassa el ezeket a szabályzatokat.
 
-* **Állásra, gyakornoki vagy ösztöndíjas pozícióra jelentkezők**: A nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas lehetőségekre jelentkezőknek meg kell adniuk nevüket, pontos címüket, telefonszámukat, e-mail címüket és az önéletrajzukat a Mozilla számára. Ezeket az adatokat a jelentkezések feldolgozására és értékelésére használjuk, és arra, hogy a jelölteket tájékoztassuk a lehetőségekről. Harmadik félként működő beszállító segíti munkánkat az állásra jelentkezők esetében. A harmadik félként működő beszállítókkal kapcsolatos adatokra vonatkozó gyakorlatunk leírása [Mozilla Adatvédelmi Irányelv](https://www.mozilla.org/privacy/) itt olvasható.
+* **Állásra, gyakornoki vagy ösztöndíjas pozícióra jelentkezők**: A nálunk meghirdetett állásra, gyakornoki vagy ösztöndíjas lehetőségekre jelentkezőknek el kell küldeniük nekünk nevüket, pontos címüket, telefonszámukat, e-mail-címüket és önéletrajzukat. Ezeket az adatokat a jelentkezések feldolgozására és értékelésére használjuk fel, valamint arra, hogy a pályázókat tájékoztassuk a lehetőségekről. Harmadik félként működő beszállító segíti munkánkat az állásra jelentkezők esetében. A harmadik félként működő beszállítókkal kapcsolatos adatokra vonatkozó gyakorlatunk leírása a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) található.
 
-* **Közreműködők**: A Mozilla közösség önkénteseként előfordulhat, hogy közreműködésével és erőfeszítései elismerésével kapcsolatban a Mozilla és mások fel szeretnék venni Önnel a kapcsolatot a megadott e-mail címen keresztül. Ha közreműködése a Bugzilla, a Mozilla Reps alkalmazásokkal vagy kódalapunkkal kapcsolatos, akkor az Ön e-mail címe és esetleg neve is hozzáférhetővé válik minden internet felhasználó számára. Ha Ön profilt hoz létre a Mozillians.org oldalon, az hozzáférhető lesz a Mozilla munkavállalói és közreműködői számára. Profiljának adatait itt szerkesztheti: [Profile Settings (Profilbeállítások)](https://mozillians.org/user/edit). Néha az egyes forrásokból (például a Bugzillából) származó közreműködői adatokat irányítópultokon használjuk, hogy összesített adatokat nyerjünk a Mozilla közösségről. Egy példa: [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Ha van rá mód, igyekszünk a lehető legszűkebbre venni a nyilvánosan megjelenített elérhetőségek körét.
+* **Közreműködők**: A Mozilla közösségi önkénteseként előfordulhat, hogy közreműködésével és erőfeszítései elismerésével kapcsolatban a Mozilla és mások fel szeretnék venni Önnel a kapcsolatot a megadott e-mail-címen keresztül. Ha közreműködése a Bugzilla, a Mozilla Reps alkalmazásokkal vagy a kódalapunkkal kapcsolatos, akkor az Ön e-mail-címe és esetleg neve is hozzáférhetővé válik minden internet-felhasználó számára. Ha Ön profilt hoz létre a Mozillians.org oldalon, ahhoz hozzáférhetnek a Mozilla munkavállalói és közreműködői. Profiladatait itt szerkesztheti: [Profilbeállítások](https://mozillians.org/user/edit). Néha az egyes forrásokból (például a Bugzillából) származó közreműködői adatokat irányítópultokon használjuk, hogy összesített adatokat osszunk meg a Mozilla-közösségről. Például: <https://wiki.mozilla.org/Contribute/Dashboards>. Ha van rá mód, igyekszünk a lehető legszűkebbre venni a nyilvánosan megjelenített elérhetőségek körét.
 
-* **Fiókok**: Egyes webhelyeken – ilyen például a Marketplace, az AMO, az MDN vagy a Webmaker – fiók létrehozására van szükség fejlesztői tartalmak benyújtásához, felhasználói vélemények és megjegyzések benyújtásához, vagy bizonyos típusú alkalmazások telepítéséhez.  Ön időnként e-mailt kaphat fiókjával kapcsolatban. 
+* **Felhasználói visszajelzés**: Termékeinkkel és szolgáltatásainkkal kapcsolatos visszajelzést küldhet például az [input.mozilla.org](https://input.mozilla.org/) weblapon, egy termék kipróbálása során, vagy más csatornákon keresztül, például e-mailben, a Bugzillán, az IRC-n, a közösségi oldalakon, a Get Involved oldalon, vagy olyan csoportokon keresztül, mint például a Student Ambassadors (Diák Nagykövetek). Kérjük, hogy ezeken a fórumokon a lehető legkevesebb személyes adatot ossza meg, mivel hozzászólásai elérhetővé válhatnak a nyilvánosság számára.
 
-* **Felhasználói visszajelzés**: Termékeinkkel és szolgáltatásainkkal kapcsolatos visszajelzést adhat webhelyeken, például itt: [input.mozilla.org](https://input.mozilla.org/), egy termék kipróbálásával kapcsolatban, vagy más csatornákon keresztül, e-mailen, a Bugzillán, az IRC-n, közösségi oldalakon, Get Involved oldalunkon, vagy olyan csoportok útján, mint például a Student Ambassadors (Diák Nagykövetek). Kérjük, hogy ezeken a fórumokon a lehető legkevesebb személyes adatot ossza meg, mivel hozzászólásai elérhetővé válhatnak a nyilvánosság számára.
+* **Fiókok**: Egyes webhelyek esetében – például a Marketplace, az AMO, az MDN és a Webmaker – fiók létrehozására van szükség fejlesztői tartalmak benyújtásához, felhasználói vélemények vagy megjegyzések küldéséhez, vagy bizonyos típusú alkalmazások telepítéséhez. A fiókjával kapcsolatban rendszeresen kaphat e-maileket. 
+
+* **Termék- és szabályzati kampányok**: Néhány weblapunk termék- vagy szabályzati kampányokat tartalmaz. Például e-mailben vagy SMS-ben linket kérhet a Firefox mobileszközön történő telepítéséhez, vagy petíciót nyújthat be a jogalkotóknak internetes kérdésekben. Harmadik feleket használunk a kampányok és a benyújtani kívánt adatok kezelésére.
+{: #campaigns }
 
 ---------------------------------------
 
-Sütiket, clear GIF-eket, egyéb harmadik fél által üzemeltetett webes technológiákat és IP-címeket alkalmazunk termékeink, szolgáltatásaink és az adatközlés biztosítása és fejlesztése érdekében. 
+Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, eszközinformációkat és IP-címeket használhatunk a megfelelő működés érdekében, valamint hogy jobban megértsük a felhasználók interakcióit termékeinkkel, szolgáltatásainkkal és kommunikációnkkal.
 {: #data-tools }
 
-* **Funkcionalitás**: Bizonyos termékek, szolgáltatások és kommunikációk funkcionalitásának javítása érdekében sütiket, a felhasználók eszközéről gyűjtött információt és IP-címeket használhatunk. Például:
-    * A sütik megjegyzik, hogy ön milyen nyelvi beállításokat és kiegészítőket használ a Firefox böngészőben. Emellett segítséget nyújtanak a felhasználói bejelentkezés és hitelesítés során, így önnek egyes Mozilla webhelyeken nem kell megadnia jelszavát.  
-    * Az IP-címek segítségével az adott nyelvnek és országnak megfelelően testre szabható a kommunikáció.  
-    * Az eszközre vonatkozó információ – például ország, nyelv, üzemeltető és gyártó – arra szolgál, hogy ön személyre szabottan használhassa a Firefox Marketplace webhelyet és a Webmaker alkalmazást.
+* **Funkcionalitás**: Bizonyos termékek, szolgáltatások és közlemények funkcionalitásának bővítése céljából olyan információkat használhatunk, mint például cookie-k, eszközadatok és IP-címek. Például:
+    * A cookie-kat arra használjuk, hogy a Firefox megjegyezze a beállításokra vonatkozó információkat (például nyelvi preferenciák és Firefox-bővítmények), és hogy Firefox beállításai alapján megfelelő szolgáltatásokat és bővítményeket ajánljunk. Ezek segítenek a bejelentkezés és a hitelesítés során is, így Ön megkerülheti a jelszavakat bizonyos Mozilla-webhelyeken.
+    * IP-címeket használunk a kommunikáció nyelv és ország szerinti testreszabásához.
+    * Bizonyos eszközinformációkat használunk a felhasználói élmény testreszabásához, például ország, nyelv, operátor és OEM.
 
-* **Mérések**: A sütik, az eszközinformációk és az IP-címek, valamint a „clear GIF-ek”, a sütik és a harmadik felek szolgáltatásai abban segítenek nekünk, hogy összesített formában képet kapjunk arról, hogyan használják a felhasználók a termékeinket, a szolgáltatásainkat, a kommunikációinkat, a webhelyeinket, az online kampányainkat, az oldalakról vett rövid részleteket (snippet), valamint az eszközeinket és más platformjainkat. Az alábbi eszközöket használjuk:
-    * Google Analytics – ez az eszköz egy sütit helyez el a felhasználók eszközén, melynek segítségével adatokat gyűjt azzal kapcsolatban, hogyan használják a felhasználók webhelyeinket.      Az adatok lehetővé teszik számunkra az oldalakon megjelenő tartalmak fejlesztését.  
-    * Optimizely és ShareProgress – ezek az eszközök sütit helyeznek el a felhasználók eszközén, ami lehetővé teszi számunkra a webes tartalmak különböző változatainak tesztelését.  Az eredmények segítségével javíthatjuk a webes felhasználói élményt felhasználóink számára.
-    * A DoubleClick és Flashtalking, amely egy egyértelmű GIF-et használ a letöltési Firefox oldalunkon.  Ez segít lemérni a reklámkampányunk hatékonyságát.
-    * A Yahoo Dot Pixel JavaScript programot használ a letöltési Firefox oldalunkon. Ez segít lemérni a reklámkampányunk hatékonyságát. 
-    * A Firefox telepítésekor igényelhető HTTP Referral Data segít a weboldaltartomány vagy a reklámkampány kiértékelésében, amelyeken keresztül Ön a letöltési oldalunkra jutott. Az információ segítségével felmérhetjük reklámkampányaink hatékonyságát, és javíthatunk rajta.
-    * Egyéb elemzési eszközök időnként kísérleti alapon. Csinálhatjuk ezt például egy új elemzési eszköz kiértékelésének elősegítése vagy meglévő elemzésgyűjtemények tesztelése céljából.
+* **Metrikák**: A cookie-kat, az eszközinformációkat és az IP-címeket, valamint a tiszta GIF-eket, a cookie-kat és a harmadik fél által nyújtott szolgáltatásokat is felhasználhatjuk annak megértéséhez, hogy a felhasználók összességében hogyan kommunikálnak termékeinkkel, szolgáltatásainkkal, közleményeinkkel, webhelyeinkkel, online kampányainkkal, kódrészleteinkkel, eszközeinkkel és más platformokkal. Az alábbiakat használjuk:
+    * Google Analytics, amely cookie-t helyez az eszközre, és statisztikákat készít a felhasználók webhelyeinkkel való interakciójának módjáról. Ez segít nekünk a webhelyek tartalmának fejlesztésében.
+    * Optimizely és ShareProgress, amelyek cookie-t helyeznek az eszközre, és segítenek tesztelni a webtartalmak variációit. Ez segít jobb webes élményeket nyújtani a felhasználóknak.
+    * DoubleClick és Flashtalking, amelyek mindegyike tiszta GIF-et használ a Firefox letöltési oldalán. Ez segít nekünk megítélni hirdetési kampányaink hatékonyságát.
+    * Yahoo Dot Pixel, amely JavaScript-kódot használ a Firefox letöltési oldalán. Ez segít nekünk megítélni hirdetési kampányaink hatékonyságát. 
+    * HTTP-hivatkozóadatok, amelyek a Firefox telepítőjében szerepelhetnek a letöltési oldalra mutató webhely-tartományok vagy hirdetési kampányok azonosítása céljából. Ez az információ segít nekünk megérteni és fejleszteni hirdetési kampányaink hatékonyságát.
+    * Más mérési eszközök időről időre, kísérleti alapon. Ez például segíthet nekünk értékelni egy új mérőeszközt, vagy segíthet tesztelni a meglévő metrikákat.
 
 ---------------------------------------
 
-Szabályozhatja a sütikkel kapcsolatos egyéni beállításait, kiválaszthatja, hogy mely sütiket részesíti előnyben másokkal szemben, lehetősége van a web analytics jelentések és az optimalizáló eszközök lemondására. 
+Ön szabályozhatja a cookie-kal kapcsolatos egyéni beállításait, kiválaszthatja, hogy mely cookie-kat részesíti előnyben másokkal szemben, és lehetősége van a webstatisztikák és az optimalizáló eszközök lemondására. 
 {: #user-choices }
 
-* **Süti előzmények**: Az egyes sütiket a Firefox Eszközök/Beállítások/Adatvédelem előzmények részében engedélyezheti vagy tilthatja le. Ne feledje, előfordulhat, hogy a sütik nélkül vállalatunk termékeinek és szolgáltatásainak bizonyos funkciói nem működnek megfelelően.
+* **Cookie-k előzményei**: Az egyes cookie-kat a Firefox Eszközök/Beállítások/Adatvédelmi előzmények menüjében engedélyezheti vagy tilthatja le. Ne feledje, előfordulhat, hogy a cookie-k nélkül termékeink és szolgáltatásaink bizonyos funkciói nem működnek megfelelően.
+{: #cookies }
 
-* **Ne kövessenek**: A Mozilla nem követi nyomon felhasználóit harmadik felek webhelyein célzott hirdetések elhelyezése érdekében. Ha úgy állította be a böngészőjét, hogy „Ne kövessenek” jelet küldjön, amikor Ön a weboldalainkra lép, a Mozilla nem fogja használni a [Mérések](#data-tools) section résznél leírt egyik eszközt sem.
+* **Követés letiltása**: A Mozilla nem követi nyomon felhasználóit harmadik felek webhelyein célzott hirdetések használata céljából. Ha úgy állította be a böngészőt, hogy az használja a Követés letiltása funkciót a webhelyeink elérésekor, akkor a Mozilla nem fogja használni a [Metrikák](#data-tools) szakaszban leírt eszközök egyikét sem.
 
-* **E-mail**: Marketingkommunikációnk fogadása opcionális, lehetősége van leiratkozni az e-mail lábjegyzetében foglaltak szerint, vagy saját [Mozilla e-mail beállításainak](https://www.mozilla.org/newsletter/recovery/) frissítésével.
+* **E-mail**: Marketingkommunikációnk fogadása opcionális, Önnek lehetősége van leiratkozni az e-mail láblécében, vagy frissítheti a [Mozilla e-mail-beállításait](https://www.mozilla.org/newsletter/recovery/).
 
-* **Analitika és optimalizálás**: Kövesse a lenti utasításokat, hogy megakadályozza az adatgyűjtést a Mozilla weboldalainak felkereséséről.
-    *  Google: Telepítse a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), amelynek köszönhetően névtelenek maradhatnak a látogatásai, és amely letiltja a Google Analytics számára történő adatátvitelt. Néhány Mozilla.org oldal egyértelmű GIF-eket használ, amelyek kommunikálnak a DoubleClick szolgáltatással a reklámkampányunk hatékonyságának felmérése érdekében; a személye szabott hirdetéseseket a DoubleClick révén szabályozhatja a Google hirdetésbeállításainál (be kell majd jelentkeznie a Google-fiókjába).
-    *  Optimizely: [Tiltsa le www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) vagy még több információért keresse fel az [Optimizely](https://www.optimizely.com/opt_out) letiltási weboldalát.
-    *  Yahoo: a letiltáshoz keresse fel az [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) oldalát.
-    *  ShareProgress: A böngészőjében bekapcsolhatja a [„Követés letiltása” funkciót](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Analitika és optimalizálás**: Az alábbi utasítások követésével akadályozhatja meg a Mozilla-webhelyek felkeresésekor történő adatgyűjtést:
+    *  Google: Telepítse a [Google Analytics-elutasítási böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), amely névtelenül tartja a látogatásokat, és tiltja az adatok továbbítását a Google Analytics szolgáltatásba. Egyes Mozilla.org-oldalak olyan tiszta GIF-eket használnak, amelyek a DoubleClick szolgáltatással kommunikálnak a hirdetési kampányaink hatékonyságának megértése céljából. A Google hirdetési beállításaiban szabályozhatók a DoubleClick személyre szabott hirdetései (a rendszer kérni fogja, hogy jelentkezzen be a saját Google-fiókjába).
+    *  Optimizely: [A www.mozilla.org webhelyen utasíthatja el az adatgyűjtést](https://www.mozilla.org/?optimizely_opt_out=true), vagy további információért látogasson el az [Optimizely elutasítási webhelyére](https://www.optimizely.com/opt_out).
+    *  Yahoo: látogasson el az [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) webhelyére az adatgyűjtés elutasításához.
+    *  ShareProgress: A böngészőben [bekapcsolhatja a Követés letiltása](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) funkciót.
 
-* **Közösségi oldalak**: A Mozilla webhelyein a közösségi oldalakon történő megosztást szolgáló gombok célja az, hogy kizárólag azután ossza meg az adatait a közösségi oldal szolgáltatójával, miután rákattintott a gombra.
+* **Közösségi oldalak**: A Mozilla webhelyein a közösségi megosztási gombok célja az, hogy kizárólag azután osszák meg az adatokat a közösségi oldal szolgáltatójával, miután Ön rákattintott az adott gombra.
 
 ---------------------------------------
 
-Némelyik Mozilla webhelyen vásárolhat (például alkalmazásokat vagy eszközöket) vagy adományozhat. Ezeket a tranzakciókat harmadik felek dolgozzák fel, nem a Mozilla. 
+Némelyik Mozilla-webhelyen vásárolhat (például alkalmazásokat vagy eszközöket) vagy adományozhat. Ezeket a tranzakciókat harmadik felek dolgozzák fel, nem a Mozilla. 
 {: #donations }
 
-* **Fizetések feldolgozása**: A Mozilla nem jut olyan pénzügyi adat birtokába, amelyet Ön továbbít feldolgozásra a mi harmadik félként működő beszállítónknak. A tranzakció idején a rendszer megjeleníti a harmadik fél nevét.
+* **Fizetések feldolgozása**: A Mozilla nem jut olyan Öntől származó pénzügyi információ birtokába, amelyet feldolgozásra továbbítana egy harmadik félként működő beszállítónak. A tranzakció során a rendszer megjeleníti a harmadik fél nevét.
 
-* **Csalás megakadályozása**: A Mozilla egy külső fél technológiáját a Google Invisible reCAPTCHA módszerét alkalmazza, amely néhány weboldalunk hátterében működik, hogy beazonosítsa a csalásjellegű tevékenységeket. Az Invisible reCAPTCHA használatát a Google [Adatvédelmi szabályzata](https://www.google.com/intl/en/policies/privacy/) és a [Használati feltételek](https://www.google.com/intl/en/policies/terms/) szabályozzák.
+* **Csalásmegelőzés**: A Mozilla harmadik féltől származó technológiát, a Google Invisible reCAPTCHA szolgáltatását használja, amely egyes webhelyeinken a háttérben működik az illetéktelen hozzáférés azonosítása céljából. Az Invisible reCAPTCHA használatára a Google [adatvédelmi szabályzata](https://www.google.com/intl/en/policies/privacy/) és [használati feltételei](https://www.google.com/intl/en/policies/terms/) vonatkoznak.
