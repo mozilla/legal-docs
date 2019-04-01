@@ -1,73 +1,73 @@
-# Aviso de Privacidade sobre sites, comunicação e cookies
+# Aviso de Privacidade sobre sites, comunicações e cookies
 
-6 de setembro de 2017
-{: datetime="2017-09-06" }
+15 de março de 2019
+{: datetime="2019-03-15" }
 
-Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
+Sua privacidade é importante para nós. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de Privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
-Este aviso de privacidade se aplica a sites e aplicativos móveis operados pela Mozilla, que incluem dos domínios mozillians.org, mozilla.org, firefox.com e webmaker.org, entre outros, por exemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Este aviso de privacidade se aplica aos sites e aplicativos móveis administrados pela Mozilla, inclusive os domínios mozillians.org, mozilla.org, firefox.com, webmaker.org, entre outros. Eles incluem, por exemplo, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## O que você deve saber
 
-Podemos receber suas informações pessoais com base em sua interação conosco em plataformas de redes sociais; caso se candidate a uma vaga de emprego, estágio ou bolsa; caso atue como membro voluntário da comunidade Mozilla; caso nos envie opiniões de usuário ou pedidos, ou caso interaja com uma campanha de produtos ou políticas.
+Podemos receber suas informações pessoais com base em sua interação conosco em plataformas de redes sociais; ou se você se candidatar a uma vaga de emprego, estágio ou bolsa; atuar como membro voluntário da comunidade da Mozilla; nos enviar opiniões de usuário ou pedidos; se inscrever em uma conta; ou interagir com uma campanha de produto ou política. 
 {: #personal-info }
 
-* **Redes sociais**: caso interaja com nossas contas nas redes sociais, como Twitter e Facebook, poderemos receber suas informações pessoais. Ao utilizar essas redes, suas políticas de privacidade se aplicam e recomendamos a leitura delas.
+* **Redes sociais**: se você interagir com nossas contas nas redes sociais, como Twitter e Facebook, poderemos receber suas informações pessoais. Ao usar essas redes, as políticas de privacidade de cada uma delas são aplicadas. Recomendamos que você as leia.
 
-* **Candidatos a vagas de emprego, estágio ou bolsas**: os candidatos a oportunidades de emprego, estágio ou bolsas na Mozilla devem informar um nome, endereço residencial, número de telefone, endereço de e-mail e currículo. Utilizamos essas informações para processar e avaliar as candidaturas e para comunicar oportunidades aos candidatos. Uma empresa terceirizada nos auxilia nos processos de candidatura a vagas de emprego. Para mais informações sobre nossas práticas com relação a dados e empresas terceirizadas, consulte nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/).
+* **Candidatos a vagas de emprego, estágio ou bolsas**: os candidatos a oportunidades de emprego, estágio ou bolsas na Mozilla devem nos fornecer o nome, endereço residencial, número de telefone, endereço de e-mail e currículo. Usamos essas informações para processar e avaliar as candidaturas, e avisar os candidatos sobre oportunidades. Uma empresa terceirizada nos auxilia nos processos de candidatura a vagas de emprego. Para mais informações sobre nossas práticas de dados com empresas terceirizadas, consulte a [Política de Privacidade da Mozilla](https://www.mozilla.org/privacy/).
 
-* **Colaboradores**: para ser um colaborador voluntário da comunidade, a Mozilla e outras pessoas talvez precisem se comunicar com você pelo endereço de e-mail informado com relação à sua colaboração e para reconhecer seu empenho. Caso contribua para o Bugzilla, Mozilla Reps, ou nossa base de códigos, seu endereço de e-mail e talvez seu nome sejam disponibilizados publicamente a todos os usuários da Internet. Caso crie um perfil no Mozillians.org, ele poderá ser acessado pelos funcionários e colaboradores da Mozilla. É possível editar os dados do seu perfil em [Configurações do perfil](https://mozillians.org/user/edit). Às vezes, utilizamos informações dos colaboradores de fontes (como Bugzilla) em painéis para compartilhar visualmente os dados agregados na comunidade Mozilla. Por exemplo: <https://wiki.mozilla.org/Contribute/Dashboards>. Na medida do possível, tentamos reduzir as informações de contato exibidas publicamente.
+* **Colaboradores**: para ser colaborador voluntário da comunidade, a Mozilla e outras pessoas podem precisar se comunicar com você pelo endereço de e-mail informado com relação à sua colaboração e para reconhecer seu empenho. Se você contribuir para o Bugzilla, Mozilla Reps ou nossa base de códigos, seu endereço de e-mail e possivelmente seu nome serão disponibilizados publicamente a todos os usuários da internet. Se você criar um perfil no site Mozillians.org, ele poderá ser acessado pelos funcionários e colaboradores da Mozilla. É possível editar os dados do seu perfil em [“Configurações do perfil”](https://mozillians.org/user/edit). Às vezes, usamos informações dos colaboradores de fontes (como o Bugzilla) em painéis para compartilhar visualmente os dados agregados na comunidade da Mozilla. Por exemplo: <https://wiki.mozilla.org/Contribute/Dashboards>. Na medida do possível, tentamos minimizar as informações de contato exibidas publicamente.
 
-* **Opiniões do usuário**:  você pode dar opiniões sobre nossos produtos e serviços em páginas como [input.mozilla.org](https://input.mozilla.org/), no próprio produto ou por canais como e-mail, Bugzilla, IRC, uma conta nas redes sociais, nossa página "Participe" ou um grupo, como Student Ambassadors. Tente dar menos informações pessoais nesses formulários, pois seus comentários poderão ser acessados pelo público.
+* **Opiniões do usuário**: você pode dar opiniões sobre nossos produtos e serviços em páginas como [input.mozilla.org](https://input.mozilla.org/), no próprio produto ou por canais como e-mail, Bugzilla, IRC, redes sociais, nossa página “Participe” ou um grupo, como Student Ambassadors. Tente minimizar as informações pessoais fornecidas nesses fóruns, pois seus comentários poderão ser acessados pelo público.
 
-* **Contas**: Alguns sites, por exemplo, Marketplace, AMO, MDN e Webmaker, exigem que uma conta seja criada para enviar conteúdo de desenvolvedor, avaliações ou comentários de usuário ou instalar determinados tipos de aplicativos.  É possível que você receba e-mails periódicos relacionados à sua conta.
+* **Contas**: alguns sites, como o Marketplace, AMO, MDN e Webmaker, exigem a criação de uma conta para o envio de conteúdo de desenvolvedor, avaliações ou comentários de usuários, ou a instalação de alguns tipos de aplicativo. É possível que você receba e-mails periódicos relacionados à sua conta. 
 
-* **Campanhas de produtos e políticas**:  Algumas de nossas páginas hospedam campanhas de produtos ou políticas. Por exemplo, você pode solicitar um link por e-mail ou SMS para instalar o Firefox em seu dispositivo móvel ou assinar petições relacionadas a questões sobre a Internet. Essas campanhas são gerenciadas por terceiros, que também gerenciam qualquer dado que você optar por enviar.
-{: #campaigns } 
+* **Campanhas de produtos e de políticas**: algumas de nossas páginas hospedam campanhas de produtos ou de políticas. Por exemplo, você pode solicitar um link por e-mail ou SMS para instalar o Firefox em seu dispositivo móvel ou assinar petições relacionadas a questões sobre a internet. Essas campanhas são gerenciadas por terceiros, que também gerenciam os dados enviados por você.
+{: #campaigns }
 
 ---------------------------------------
 
-Utilizamos cookies, GIFs transparentes, análises da web de terceiros e endereços IP para oferecer a funcionalidade e para melhorar nossos produtos, serviços e comunicações. 
+Podemos usamos cookies, GIFs transparentes, análises da web de terceiros, informações de dispositivos e endereços IP para oferecer a funcionalidade e entender melhor a interação dos usuários com nossos produtos, serviços e comunicações.
 {: #data-tools }
 
-* **Funcionalidade**: Podemos usar cookies, informações do dispositivo e endereços IP para aprimorar a funcionalidade de determinados produtos, serviços e comunicações. Por exemplo:
-    * cookies são usados para lembrar sua preferência de idioma e add-ons do Firefox. Eles também ajudam no login e autenticação do usuário, a fim de que ele não precise inserir a senha em alguns sites da Mozilla.  
-    * Endereços IP são usados para personalizar a comunicação por idioma e país.  
-    * As informações do dispositivo, como país, idioma, operador e OEM, podem ser usadas para personalizar sua experiência no Firefox Marketplace e Webmaker.
+* **Funcionalidade**: podemos usar informações como cookies, informações de dispositivos e endereços IP para melhorar a funcionalidade de alguns produtos, serviços e comunicações. Por exemplo:
+    * Usamos cookies para lembrar informações de configuração do seu Firefox (como preferência de idioma e extensões) e recomendar recursos e extensões relevantes com base nas suas configurações do navegador. Eles também ajudam na identificação e autenticação de usuários, para que não seja necessário fornecer suas senhas em alguns sites da Mozilla.
+    * Usamos endereços IP para personalizar as comunicações de acordo com o idioma e país.
+    * Usamos as informações de alguns dispositivos, como país, idioma, operador e OEM, para personalizar sua experiência.
 
-* **Medição**: Também podemos usar cookies, informações do dispositivo e endereços IP. Além de GIFs transparentes, cookies e serviços de terceiros nos ajudam a entender, no geral, como os usuários se envolvem com nossos produtos, serviços, comunicações, sites, campanhas online, trechos de código, dispositivos e outras plataformas. Usamos:
-    * O Google Analytics, que insere um cookie no seu dispositivo para obter métricas sobre como os usuários se envolvem com nossos sites. Isso nos ajuda a melhorar o conteúdo do site.  
-    * O Optimizely e o ShareProgress, que inserem um cookie no seu dispositivo para nos ajudar a testar variações do conteúdo da internet. Isso nos ajuda a proporcionar experiências melhores na internet para os usuários.
-    * O DoubleClick e o Flashtalking, que usam, cada um deles, um GIF transparente na nossa página de download do Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade.
-    * O Yahoo Dot Pixel, que usa JavaScript na nossa página de download Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade. 
-    * Dados de referência HTTP, que podem ser incluídos no instalador do Firefox para entender o domínio do site ou a campanha de publicidade que encaminhou você para nossa página de download. Essas informações nos ajudam a entender a eficácia das nossas campanhas de publicidade e melhorá-las.
-    * Outras ferramentas de medição, ocasionalmente, com base experimental. Por exemplo, podemos fazer isso para ajudar a avaliar uma nova ferramenta de medição ou testar uma coleção de medições existente.
+* **Métricas**: também podemos usamos cookies, informações de dispositivos e endereços IP, além de GIFs transparentes, cookies e serviços de terceiros, para entender, no geral, como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
+    * Google Analytics: adiciona um cookie no dispositivo para obter métricas sobre como os usuários interagem com nossos sites. Essas métricas nos ajuda a melhorar o conteúdo do site.
+    * Optimizely e ShareProgress: adiciona um cookie no dispositivo para nos ajudar a testar variações do conteúdo da web. Isso nos ajuda a oferecer experiências on-line melhores aos usuários.
+    * DoubleClick e Flashtalking: usam um GIF transparente na nossa página de download do Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade.
+    * Yahoo Dot Pixel: usa JavaScript na nossa página de download do Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade. 
+    * Dados de referência HTTP: podem ser incluídos no instalador do Firefox para entender o domínio do site ou a campanha de publicidade de origem de acesso à nossa página de download. Essas informações nos ajudam a entender a eficácia das nossas campanhas de publicidade e a melhorá-las.
+    * Outras ferramentas de métricas ocasionais, para fins de teste. Por exemplo, podemos fazer isso para avaliar uma nova ferramenta de métricas ou testar uma coleção existente de métricas.
 
 ---------------------------------------
 
-É possível controlar preferências individuais de cookies, indicar suas preferências de cookies para outras pessoas e cancelar o recebimento de análises da web e de ferramentas de otimização. 
+É possível controlar as preferências de cookies individuais, indicar suas preferências de cookies para outras pessoas, e cancelar o recebimento de análises da web e de ferramentas de otimização. 
 {: #user-choices }
 
-* **Histórico de cookies**: você pode aceitar ou recusar cookies em particular nas suas preferências do Firefox na seção Ferramentas/Opções/Privacidade e histórico. Observe que alguns recursos de nossos produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
+* **Histórico de cookies**: você pode aceitar ou recusar cookies individuais nas suas preferências do Firefox na seção Ferramentas/Opções/Privacidade e histórico. Observe que alguns recursos de nossos produtos e serviços podem não funcionar adequadamente sem a ajuda dos cookies.
 {: #cookies }
 
-* **Não rastrear**: a Mozilla não rastreia os usuários em sites de terceiros para fornecer publicidade segmentada. Caso você tenha configurado o navegador para enviar um sinal “Não rastrear” ao acessar seus sites, a Mozilla não utilizará nenhuma das ferramentas descritas em [Medição](#data-tools) section.
+* **Antirrastreamento**: a Mozilla não rastreia os usuários em sites de terceiros para oferecer anúncios direcionados. Se você configurou o navegador para enviar um sinal de antirrastreamento ao acessar nossos sites, a Mozilla não usará as ferramentas descritas na seção [“Métricas”](#data-tools).
 
-* **E-mail**: receber nossas comunicações de marketing é opcional e você pode cancelar a inscrição no rodapé do e-mail ou atualizando suas [preferências de e-mail do Mozilla](https://www.mozilla.org/newsletter/recovery/).
+* **E-mail**: o recebimento de nossas comunicações de marketing é opcional. Você pode cancelá-lo no rodapé do e-mail ou atualizando suas [preferências de e-mail da Mozilla](https://www.mozilla.org/newsletter/recovery/)
 
-* **Análise e otimização**: siga as instruções abaixo para evitar a coleta de dados sobre seus acessos aos sites da Mozilla:
-    *  Google: instale o [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), que mantém seus acessos anônimos e proíbe a transmissão de dados para o Google Analytics. Algumas páginas de Mozilla.org usam GIFs transparentes, que se comunicam com o DoubleClick para entender a eficácia das nossas campanhas de publicidade. É possível controlar os anúncios personalizados do DoubleClick nas configurações de anúncios do Google (você será solicitado a fazer login na sua Conta do Google).
-    *  Optimizely: [cancele em www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acesse o [site de cancelamento do Optimizely](https://www.optimizely.com/opt_out) para obter mais informações.
-    *  Yahoo: acesse o [Gerenciador de Anúncios de Interesse](https://aim.yahoo.com/aim/us/en/optout/) para cancelar.
-    *  ShareProgress: é possível [ativar o recurso “Não rastrear” no navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Análises e otimização**: siga as instruções abaixo para impedir a coleta de dados relacionadas às suas visitas aos sites da Mozilla:
+    *  Google: instale a [extensão do navegador de desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout), que mantém suas visitas anônimas e proíbe o envio de dados para o Google Analytics. Algumas páginas do site Mozilla.org usam GIFs transparentes, que se comunicam com a DoubleClick para entender a eficácia das nossas campanhas de publicidade. Você pode controlar anúncios personalizados na DoubleClick nas configurações de anúncios do Google. Você precisará fazer login na sua Conta do Google.
+    *  Optimizely: [cancele no site www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou acesse o [site de cancelamento do Optimizely](https://www.optimizely.com/opt_out) para obter mais informações.
+    *  Yahoo: acesse o [“Gerenciador de Anúncios de Interesse”](https://aim.yahoo.com/aim/us/en/optout/) para cancelar.
+    *  ShareProgress: você pode [ativar o antirrastreamento no navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Redes sociais**: os botões de compartilhamento em redes sociais dos sites da Mozilla foram desenvolvidos para não compartilhar os dados com o provedor da rede social até você realmente clicar no botão.
+* **Redes sociais**: os botões de compartilhamento em redes sociais dos sites da Mozilla foram desenvolvidos para que os dados só sejam compartilhados com o provedor da rede clicando no botão.
 
 ---------------------------------------
 
-Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos) ou doações. Essas transações são processadas por terceiros, e não pela Mozilla. 
+Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos) ou doações. Essas transações são processadas por terceiros, não pela Mozilla. 
 {: #donations }
 
-* **Processamento de pagamentos**:   a Mozilla não recebe nenhuma informação financeira sua que é transferida às nossas empresas terceirizadas para processamento. O nome da empresa terceirizada será exibido no momento da transação.
+* **Processamento de pagamentos**: a Mozilla não recebe informações financeiras transferidas por você para nossas empresas terceirizadas para processamento. O nome da empresa terceirizada será exibido no momento da transação.
 
-* **Prevenção de fraude**: a Mozilla implementou uma tecnologia de terceiro, o Invisible reCAPTCHA, do Google, que funciona no plano de fundo dos nossos sites identificando atividades fraudulentas. O uso do Invisible reCAPTCHA é regido pela [Política de Privacidade](https://www.google.com/intl/en/policies/privacy/) e pelos [Termos de Uso](https://www.google.com/intl/en/policies/terms/) do Google.
+* **Prevenção contra fraudes**: a Mozilla implementou uma tecnologia terceirizada, o Invisible reCAPTCHA, do Google, que funciona no plano de fundo em alguns dos nossos sites para identificar atividades fraudulentas. O uso do Invisible reCAPTCHA é regido pela [Política de Privacidade](https://www.google.com/intl/en/policies/privacy/) e pelos [Termos de Uso](https://www.google.com/intl/en/policies/terms/) do Google.
