@@ -35,9 +35,9 @@ Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla 
 
 Learn more about [Referral and Campaign Data](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
 
-### Improve our product based on your feedback
+### Improve our product
 
-To help us improve performance, support crashes, understand your experience with Firefox Lite and improve the user experience through A/B testing and in-product messaging, Firefox Lite uses Google’s Firebase platform, which receives data from your device.  Learn more about [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) data collection or  turn off “Send Usage Data” in your Settings. 
+To help us improve performance, support crashes, offer new features, and understand your experience with Firefox Lite and improve the user experience through A/B testing and in-product messaging, Firefox Lite uses Google’s Firebase platform, which receives data from your device.  Learn more about [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) data collection or  turn off “Send Usage Data” in your Settings. 
 
 ---
 
