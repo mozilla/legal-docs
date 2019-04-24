@@ -34,9 +34,9 @@ Firefox Lite 會顯示像是熱門網站（Mozilla 向 Firefox Lite 初次使用
 
 了解更多有關[參考資料與宣傳資料](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking)的資訊。
 
-### 藉由您的回饋改善我們的產品
+### 改善我們的產品
 
-Firefox Lite 利用 Google 的 Firebase 平台，會從您的裝置接收資料，以便協助我們改善性能、支援當機、瞭解您的 Firefox Lite 體驗，並透過 A/B 測試與產品內訊息通知，改善使用者體驗。了解更多有關 [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) 資料收集的資訊，或是在您的設定關閉「傳送使用資料」。
+Firefox Lite 利用 Google 的 Firebase 平台，會從您的裝置接收資料，以便協助我們改善性能、支援當機、推出新功能、瞭解您的 Firefox Lite 體驗，並透過 A/B 測試與產品內訊息通知改善使用者體驗。了解更多有關 [Firebase]((https://support.google.com/firebase/answer/6318039?hl=en) 資料收集的資訊，或是在您的設定關閉「傳送使用資料」。
 
 ---
 
