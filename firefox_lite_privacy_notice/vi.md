@@ -34,9 +34,9 @@ Firefox Lite sẽ hiển thị nội dung, chẳng hạn như Các trang Hàng �
 
 Tìm hiểu thêm về [Dữ liệu tham chiếu và chiến dịch](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
 
-### Cải tiến sản phẩm của chúng tôi dựa trên phản hồi của bạn
+### Cải tiến sản phẩm của chúng tôi
 
-Để giúp chúng tôi cải tiến hiệu suất, hỗ trợ sự cố, nhận biết trải nghiệm của bạn với Firefox Lite và cải tiến trải nghiệm người dùng qua thử nghiệmA/B và gửi tin nhắn trong sản phẩm, Firefox Lite sẽ sử dụng nền tảng Firebase của Google mà sẽ nhận dữ liệu từ thiết bị của bạn. Tìm hiểu thêm về tập hợp dữ liệu của [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) hay tắt “Gửi Dữ liệu Sử dụng” trong phần cài đặt của bạn. 
+Để giúp chúng tôi cải tiến hiệu suất, hỗ trợ sự cố, cung cấp các tính năng mới và am hiểu trải nghiệm của bạn với Firefox Lite cũng như cải thiện trải nghiệm người dùng thông qua thử nghiệm A/B và gửi tin nhắn trong sản phẩm, Firefox Lite sẽ sử dụng nền tảng Firebase của Google để nhận dữ liệu từ thiết bị của bạn. Bạn có thể tìm hiểu thêm về tập hợp dữ liệu của [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) hay tắt “Gửi Dữ liệu Sử dụng” trong phần cài đặt của bạn.
 
 ---
 
