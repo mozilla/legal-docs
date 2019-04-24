@@ -34,9 +34,9 @@ Firefox Lite menampilkan konten, seperti Situs Populer (situs web yang disaranka
 
 Pelajari selengkapnya tentang [Data Perujuk dan Pemasaran](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking).
 
-### Meningkatkan produk kami berdasarkan umpan balik Anda
+### Meningkatkan produk kami
 
-Untuk membantu kami meningkatkan kinerja, memberikan dukungan terkait kerusakan, memahami pengalaman Anda menggunakan Firefox Lite serta meningkatkan pengalaman pengguna melalui A/B testing dan perpesanan dalam produk, Firefox Firefox Lite menggunakan platform Firebase Google, yang menerima data dari perangkat Anda. Pelajari selengkapnya tentang pengumpulan data Firebase atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
+Untuk membantu kami meningkatkan kinerja, memberikan dukungan terkait kerusakan, menawarkan fitur baru, memahami pengalaman Anda saat menggunakan Firefox Lite, serta meningkatkan pengalaman pengguna melalui A/B testing dan perpesanan dalam produk, Firefox Lite menggunakan platform Firebase Google, yang menerima data dari perangkat Anda. Pelajari selengkapnya tentang pengumpulan data [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) atau nonaktifkan fitur “Kirim Data Penggunaan” di Pengaturan Anda.
 
 ---
 
