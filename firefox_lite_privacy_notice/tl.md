@@ -34,9 +34,9 @@ Nagpapakita ang Firefox Lite ng content, gaya ng Mga Nangungunang Site (mga webs
 
 Matuto pa tungkol sa [Data ng Referral at Campaign](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking). 
 
-### Pagandahin ang aming produkto batay sa iyong feedback
+### Pagandahin ang aming produkto
 
-Para tulungan kaming pagandahin ang performance, magbigay ng suporta sa mga pag-crash, unawain ang iyong karanasan sa Firefox Lite at pagandahin ang karanasan ng user sa pamamagitan ng A/B testing at in-product na messaging, ginagamit ng Firefox Firefox Lite ang Firebase platform ng Google, na tumatanggap ng data mula sa iyong device. Matuto pa tungkol sa pangongolekta ng data ng [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting. 
+Para tulungan kaming pagandahin ang performance, magbigay ng suporta sa mga pag-crash, at unawain ang iyong karanasan sa Firefox Lite at pagandahin ang karanasan ng user sa pamamagitan ng A/B testing at in-product na messaging, ginagamit ng Firefox Lite ang Firebase platform ng Google, na tumatanggap ng data mula sa iyong device. Matuto pa tungkol sa pangongolekta ng data ng [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) o i-off ang “Magpadala ng Data ng Paggamit” sa iyong Mga Setting.
 
 ---
 
