@@ -34,6 +34,10 @@ Firefox Lite会显示内容，例如热门网站（由Mozilla为Firefox Lite新�
 
 详细了解[推荐和营销活动数据](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking)或如何[退出](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices)此数据收集。
 
+### 改进我们的产品
+
+为帮助我们提高性能、解决崩溃问题、提供新功能以及了解您使用 Firefox Lite 的体验，并通过 A/B 测试和产品内消息传递来改善用户体验，Firefox Lite 使用谷歌的 Firebase 平台接收来自您设备的数据。了解更多关于 [Firebase](https://support.google.com/firebase/answer/6318039?hl=en) 数据收集的信息，或在“设置”中关闭“发送使用情况数据”。
+
 ---
 
 ## 如果您使用以下这些功能，Firefox Lite将共享数据以提供功能： {: #optional-features }
