@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective March 15, 2019*
-{: datetime="2019-03-15" }
+*Effective June 04, 2019*
+{: datetime="2019-06-04" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -83,11 +83,11 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ---
 
-## If you use these features, Firefox will share data to provide functionality:  {: #optional-features }
+## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
 ### Search
 
-You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. _Mozilla does not receive your search queries._ Query data is sent to your search provider, which has its own privacy policy.  Links to our default search providers are:
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. _Mozilla does not receive your search queries._ We do receive data about how you engage with search in Firefox and the number of searches you request from our search partners. Query data is sent to your search provider, which has its own privacy policy. Links to our default search providers are:
 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
@@ -98,17 +98,23 @@ __Search Suggestions__: Firefox by default sends search queries to your search p
 
 [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
 
-### Firefox Accounts
+### Firefox Accounts & Join Firefox 
 
-* __Firefox Account data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of your log-in from those services. 
+* __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). 
 
-* __Location data__: For security purposes, we store the IP addresses you use to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
+* __Location data__: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
 
-* __Interaction data__: We receive data such as visits to and interaction with the Firefox Accounts website and menu preferences, and interactions with onboarding, email and SMS messages. [Read more](https://www.mozilla.org/privacy/websites/) about Mozilla’s data practices for websites and email.  
+* __Interaction data__: We receive data such as your visits to the Firefox Accounts website, dashboards and menu preferences, what products and services you use in connection with your Firefox Account, and your interactions with our emails and SMS messages. We use this to understand your use of our products and services and to send you more useful Firefox Account Tips and in-product messages.  
 
-* __Technical data__: To display which devices are synced to your Firefox Account and for functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account.  
+* __Technical data__: To display which devices are synced to your Firefox Account and for security functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account.  If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of those log-ins. 
 
-Read the [full documentation](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) or [learn more](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), including how to [delete your account](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+Read the full documentation or learn more, including how to manage your Firefox Account data or our data practices for [websites and email](https://www.mozilla.org/privacy/websites/).  You can also read the privacy notices for our Firefox Account connected services, which are: 
+
+* [Firefox Lockwise](https://lockbox.firefox.com/privacy.html)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### Sync {: #sync }
 
