@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Terms of Service
 
-Last Updated March 12, 2019
-{: datetime="2019-03-12" }
+Last Updated June 12, 2019
+{: datetime="2019-06-04" }
 
 ## Summary
 
@@ -19,12 +19,14 @@ This top section summarizes the terms below. This summary is provided to help yo
 2. #### Firefox Accounts
 
     In order to use some of the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    
+    “Join Firefox” is an offering available in some countries to better experience the Firefox family of products as well as practical privacy and security knowledge.
 
 3. #### Services
 
     (a) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
     
-    (b) Firefox Lockbox lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
+    (b) Firefox Lockwise lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
 
     (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches.   You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox Account, you will receive: 
 
@@ -34,7 +36,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
-    (d) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notcs across devices.  
+    (d) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notes across devices.  
 
     (e) Firefox Send lets you share encrypted files that automatically expire.  A Firefox Account is required for large file sizes. 
 
@@ -52,7 +54,9 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 5. #### Communications
 
-    We send periodic messages to help you get the most from your Firefox Account.  You may receive these in-product or to your Firefox Account email address; they cover onboarding, different Firefox Account services, and related offers and surveys. To opt-out, click the link at the bottom of our emails.
+    We send periodic messages to help you get the most from your Firefox Account.  You may receive these in-product or to the address you signed-up with; they cover onboarding, different Firefox Account services, and related offers and surveys.  You may also choose to receive other types of email messages.  
+    
+    You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage Account / Email Preferences).
     
     We may also send you important account information such as updates to legal or privacy terms, or security messages like password resets, email verification, and linked devices. These are necessary to our services and cannot be unsubscribed from. 
 You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 or legal-notices@mozilla.com_ 
@@ -67,7 +71,7 @@ You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 
 
 8. #### Term; Termination
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
+    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deleting your Firefox account, discontinuing your use of the Services, and if applicable, unsubscribing from our emails.  
 
     We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
 
