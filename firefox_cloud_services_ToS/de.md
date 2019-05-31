@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Servicebedingungen
 
-Zuletzt aktualisiert am Dienstag, 12. März 2019
-{: datetime="2019-03-12" }
+Zuletzt aktualisiert am Mittwoch, 12. Juni 2019
+{: datetime="2019-06-04" }
 
 ## Zusammenfassung
 
@@ -19,12 +19,14 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 2. #### Firefox-Konten
 
     Um einige der Services nutzen zu können, müssen Sie ein Firefox-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Firefox-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Firefox-Kontos ergeben.
+    
+    „Join Firefox“ ist ein Angebot, das in bestimmten Ländern verfügbar ist, um sich besser mit der Firefox-Produktfamilie sowie praktischen Datenschutz- und Sicherheitsinformationen vertraut zu machen.
 
 3. #### Services
 
     (a) Firefox Screenshots ermöglicht die Aufnahme des Inhalts einer Webpage, um ihn später selbst oder anderen anzuzeigen. 
     
-    (b) Firefox Lockbox ermöglicht von verschiedenen Geräten aus den Zugriff auf die in Firefox gespeicherten Passwörter. Dazu ist ein Firefox-Konto erforderlich. 
+    (b) Firefox Lockwise ermöglicht von verschiedenen Geräten aus den Zugriff auf die in Firefox gespeicherten Passwörter. Dazu ist ein Firefox-Konto erforderlich.
 
     (c) Firefox Monitor ist ein Informationsservice zur Förderung der Online-Sicherheit. Dabei werden Sie über öffentliche Datensicherheitsverletzungen informiert. Sie können E-Mail-Adressen auf unserer Website scannen, um die meisten öffentlich bekannten Verletzungen anzuzeigen. Falls Sie diesen Service mit einem Firefox-Konto abonnieren, erhalten Sie Folgendes: 
 
@@ -34,7 +36,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
     Sie selbst sind dafür verantwortlich, Ihre Online-Konten mithilfe starker und unterschiedlicher Passwörter, Sicherheitsfragen, Zwei-Faktor-Authentifizierung, Passwortmanagern und anderer Sicherheitsmaßnahmen zu schützen. Obgleich Firefox Monitor und [Have I Been Pwned?](https://haveibeenpwned.com/) versuchen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlichen Datensicherheitsverletzungen führen. 
 
-    (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Firefox-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen.  
+    (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Firefox-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen. 
 
     (e) Mit Firefox Send können Sie verschlüsselte Dateien senden, die automatisch nach bestimmter Zeit ablaufen. Für große Dateien ist ein Firefox-Konto erforderlich.
 
@@ -52,7 +54,9 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 5. #### Kommunikation
 
-    Wir senden von Zeit zu Zeit Nachrichten, damit Sie das Meiste aus Ihrem Firefox-Konto herausholen können. Sie erhalten diese Nachrichten evtl. produktintern oder unter Ihrer Firefox-Konto-E-Mail-Adresse. Dabei geht es um Onboarding, unterschiedliche Firefox-Konto-Services und damit verbundene Angebote und Umfragen. Um diese Nachrichten per Opt-out abzubestellen, klicken Sie auf den Link ganz unten in unseren E-Mails.
+    Wir senden von Zeit zu Zeit Nachrichten, damit Sie das Meiste aus Ihrem Firefox-Konto herausholen können. Sie erhalten diese Nachrichten evtl. produktintern oder unter der Adresse, mit der Sie sich registriert haben. Dabei geht es um Onboarding, unterschiedliche Firefox-Konto-Services und damit verbundene Angebote und Umfragen. Sie können sich auch entscheiden, andere Arten von E-Mail-Nachrichten zu erhalten.
+    
+    Sie können Ihre E-Mail-Abonnements bei Mozilla über unsere E-Mails (durch Klick auf den Link unten) oder den Browser (besuchen Sie Firefox/Einstellungen/Sync/Konto verwalten/E-Mail-Einstellungen) ändern.
     
     Wir senden Ihnen evtl. auch wichtige Kontoinformationen wie Aktualisierungen der rechtlichen oder Datenschutzbestimmungen oder Sicherheitsnachrichten wie solche zu Passwort-Rücksetzungen, E-Mail-Bestätigung und verknüpften Geräten. Diese Nachrichten sind für unsere Services notwendig. Sie können daher nicht abbestellt werden. 
 Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041, USA oder legal-notices@mozilla.com_ 
@@ -67,7 +71,7 @@ Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla –
 
 8. #### Laufzeit; Kündigung
 
-    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto deaktivieren und die Verwendung der Services einstellen.
+    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto löschen, die Verwendung der Services einstellen und ggf. Ihr E-Mail-Abonnement beenden.
 
     Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Firefox-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
 
