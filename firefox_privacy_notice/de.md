@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">-Datenschutzhinweis</span>
 
-*Gültig ab 15. März 2019*
-{: datetime="2019-03-15" }
+*Gültig ab Dienstag, 4. Juni 2019*
+{: datetime="2019-06-04" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -83,11 +83,11 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
 ---
 
-## Wenn Sie diese Funktionen verwenden, teilt Firefox Daten, um Funktionaliät bereitzustellen:  {: #optional-features }
+## Falls Sie diese Features verwenden, wird Firefox Daten freigeben, um Ihnen bestimmte Funktionen bereitzustellen und unsere Produkte und Services zu verbessern: {: #optional-features }
 
 ### Suche
 
-Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab. _Mozilla erhält Ihre Suchanfragen nicht._ Die Anfragedaten werden an Ihren Suchanbieter geschickt, der eine eigene Datenschutzerklärung hat. Links zu unseren Standard-Suchanbietern:
+Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab. _Mozilla erhält Ihre Suchanfragen nicht._ Wir erhalten Daten dazu, wie Sie mit der Suche in Firefox interagieren und wie viele Suchen Sie bei unseren Suchpartnern angefordert haben. Die Anfragedaten werden an Ihren Suchanbieter geschickt, der eine eigene Datenschutzerklärung hat. Links zu unseren Standard-Suchanbietern:
 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
@@ -98,17 +98,23 @@ __Suchempfehlungen__: Firefox sendet Suchanfragen standardmäßig an Ihren Sucha
 
 [Weitere Informationen](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), darunter Angaben dazu, wie Sie diese Funktion deaktivieren können.
 
-### Firefox-Konten
+### Firefox-Konten und Join Firefox 
 
-* __Firefox-Kontodaten__: Wenn Sie ein Firefox-Konto erstellen, erhält Mozilla Ihre E-Mail-Adresse und einen Hash Ihres Passworts.  Sie können sich entscheiden, ob Sie einen Anzeigenamen oder ein Profilbild einschließen möchten.  Ihre E-Mail-Adresse wird an Ihren E-Mail-Anbieter SalesForce Marketing Cloud gesendet, der eine eigene [Datenschutzerklärung](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) hat. Wenn Sie Ihr Firefox-Konto verwenden, um sich bei anderen Websites oder Diensten anzumelden (wie AMO oder Pocket), erhalten wir von diesen Diensten den Zeitstempel Ihrer Anmeldung. 
+* __Registrierungsdaten__: Mozilla erhält Ihre E-Mail-Adresse und einen Hash Ihres Passworts, wenn Sie ein Firefox-Konto erstellen oder sich für Join Firefox registrieren. Sie können sich entscheiden, ob Sie einen Anzeigenamen oder ein Profilbild einschließen möchten. Ihre E-Mail-Adresse wird an Ihren E-Mail-Anbieter SalesForce Marketing Cloud gesendet, der eine eigene [Datenschutzerklärung](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) hat. 
 
-* __Standortdaten__: Aus Sicherheitsgründen speichern wir die IP-Adresse, die Sie verwenden, um auf Ihr Firefox-Konto zuzugreifen, um Ihren Ort und Ihr Land abzuschätzen.  Anhand dieser Daten senden wir Ihnen E-Mail-Benachrichtigungen, wenn wir verdächtige Aktivitäten feststellen, wie z. B. Kontoanmeldungen von anderen Orten aus.
+* __Standortdaten__: Aus Sicherheitsgründen speichern wir die IP-Adresse, die Sie verwenden, um auf Ihr Firefox-Konto zuzugreifen, um Ihren Ort und Ihr Land abzuschätzen. Anhand dieser Daten senden wir Ihnen E-Mail-Benachrichtigungen, wenn wir verdächtige Aktivitäten feststellen, wie z. B. Kontoanmeldungen von anderen Orten aus.
 
-* __Interaktionsdaten__: Wir empfangen Daten wie Besuche und Interaktionen mit der Firefox-Konto-Website sowie Menüpräferenzen sowie Interaktionen mit Onboarding, E-Mail- und SMS-Nachrichten. [Weitere Informationen](https://www.mozilla.org/privacy/websites/) über die Datenpraktiken von Mozilla in Bezug auf Websites und E-Mail.  
+* __Interaktionsdaten__: Wir erhalten Daten wie z. B. Ihre Besuche auf der Firefox-Konto-Website, Dashboards und Menüeinstellungen, welche Produkte und Services Sie in Verbindung mit Ihrem Firefox-Konto verwenden und Ihre Interaktionen mit unseren E-Mail- und SMS-Nachrichten. Wir nutzen diese Informationen, um uns über Ihre Verwendung unserer Produkte und Services zu informieren und Ihnen nützlichere Firefox-Kontotipps und produktinterne Nachrichten zukommen zu lassen.
 
-* __Technische Daten__: Um anzuzeigen, welche Geräte mit Ihrem Firefox-Konto synchronisiert sind, und um die Funktion zu verbessern, speichern wir das Gerätebetriebssystem, den Browser und die Version, einen Zeitstempel, das Gebietsschema und die gleichen Informationen für andere mit Ihrem Konto verbundenen Geräte.  
+* __Technische Daten__: Um anzuzeigen, welche Geräte mit Ihrem Firefox-Konto synchronisiert sind, und um die Sicherheitsfunktionen zu verbessern, speichern wir das Gerätebetriebssystem, den Browser und die Version, einen Zeitstempel, das Gebietsschema und die gleichen Informationen für andere mit Ihrem Konto verbundenen Geräte. Wenn Sie Ihr Firefox-Konto verwenden, um sich bei anderen Websites oder Diensten anzumelden (wie AMO oder Pocket), erhalten wir von diesen Diensten den Zeitstempel Ihrer derartigen Anmeldungen. 
 
-Lesen Sie die [vollständige Dokumentation](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) oder [weitere Informationen](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), darunter Angaben dazu, wie Sie [Ihr Konto löschen](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+Lesen Sie die vollständige Dokumentation oder erhalten Sie weitere Informationen, z. B. zur Verwaltung Ihrer Firefox-Kontodaten oder zu unseren Datenpraktiken für [Websites und E-Mail](https://www.mozilla.org/privacy/websites/). Sie können auch die Datenschutzhinweise zu den mit Ihrem Firefox-Konto verbundenen Services lesen. Dabei handelt es sich um: 
+
+* [Firefox Lockwise](https://lockbox.firefox.com/privacy.html)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### Sync {: #sync }
 
