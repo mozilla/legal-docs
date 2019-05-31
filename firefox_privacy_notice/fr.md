@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">— Politique de confidentialité</span>
 
-*Date d'effet : 15 mars 2019*
-{: datetime="2019-03-15" }
+*Date d'effet : mardi 4 juin 2019*
+{: datetime="2019-06-04" }
 
 ## Chez Mozilla, nous considérons que la confidentialité est essentielle pour l’intégrité d’Internet.
 
@@ -83,11 +83,11 @@ Vous pouvez [lire la documentation complète](https://firefox-source-docs.mozill
 
 ---
 
-## Si vous utilisez ces fonctionnalités, Firefox partagera des données pour les fonctions suivantes : {: #optional-features }
+## Si vous utilisez ces fonctionnalités, Firefox partagera les données obtenues pour vous offrir d’autres fonctionnalités et nous aider à améliorer nos produits et services : {: #optional-features }
 
 ### Recherche
 
-Vous pouvez effectuer des recherches directement de plusieurs endroits dans Firefox, notamment depuis la barre d'adresse intelligente, la barre de recherche ou un nouvel onglet. _Mozilla ne reçoit pas vos requêtes de recherche._ Les données de requête sont envoyées à votre fournisseur de recherche, qui dispose de sa propre politique de confidentialité. Les liens vers nos fournisseurs de recherche par défaut sont les suivants :
+Vous pouvez effectuer des recherches directement de plusieurs endroits dans Firefox, notamment depuis la barre d’adresse intelligente, la barre de recherche ou un nouvel onglet. _Mozilla ne reçoit pas vos requêtes de recherche._ Nous recevons des données sur la façon dont vous effectuez des recherches dans Firefox et sur le nombre de recherches que vous soumettez à nos partenaires de recherche. Les données de requête sont envoyées à votre fournisseur de recherche, qui dispose de sa propre politique de confidentialité. Les liens vers nos fournisseurs de recherche par défaut sont les suivants :
 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
@@ -98,17 +98,23 @@ __Suggestions de recherche__ : Firefox envoie par défaut les requêtes de rech
 
 [En savoir plus](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), notamment sur la désactivation de cette fonctionnalité.
 
-### Comptes Firefox
+### Comptes Firefox & Rejoignez Firefox 
 
-* __Données des comptes Firefox__ : Mozilla reçoit votre adresse de courriel et votre mot de passe chiffré lorsque vous créez un compte Firefox. Vous pouvez décider d’inclure un nom d’affichage ou une image de profil. Votre adresse de courriel est envoyée à notre prestataire de messagerie, SalesForce Marketing Cloud, qui dispose de sa propre [politique de confidentialité](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Si vous utilisez votre compte Firefox pour vous connecter à d’autres services ou sites web (comme AMO ou Pocket), ces services nous envoient l’horodatage de votre connexion.
+* __Données d’inscription__ : Mozilla reçoit votre adresse électronique et un hash de votre mot de passe lorsque vous créez un compte Firefox ou que vous vous inscrivez pour rejoindre Firefox. Vous pouvez choisir d’inclure un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, SalesForce Marketing Cloud, qui dispose de sa propre [politique de confidentialité](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). 
 
-* __Données de géolocalisation__ : pour des raisons de sécurité, nous stockons les adresses IP que vous utilisez pour accéder à votre compte Firefox, afin de vous localiser au plus près (ville et pays). Nous utilisons ces données pour vous envoyer des courriels d’alerte si nous détectons des activités suspectes, comme des connexions à votre compte depuis d’autres lieux.
+* __Données de localisation__ : Pour des raisons de sécurité, nous conservons les adresses IP utilisées pour accéder à votre compte Firefox afin d’identifier approximativement votre ville et votre pays. Nous utilisons ces données pour vous envoyer des alertes par courriel si nous détectons des activités suspectes, telles que des connexions à votre compte à partir d’autres endroits.
 
-* __Données d’interaction__ : nous recevons des données telles que les visites et les interactions avec le site web des comptes Firefox et les préférences des menus, ainsi que les interactions d’accueil, de messagerie et de SMS. [En savoir plus](https://www.mozilla.org/privacy/websites/) sur les pratiques de données de Mozilla concernant les sites web et la messagerie.
+* __Données d’interaction__ : Nous recevons des données telles que vos visites sur le site Web, les tableaux de bord et les préférences de menu de votre compte Firefox, les produits et services que vous utilisez en relation avec votre compte Firefox, et vos interactions avec nos courriels et messages SMS. Nous utilisons ces données pour comprendre comment vous utilisez nos produits et services et pour vous envoyer des messages dans les produits et d’autres conseils utiles pour votre compte Firefox.
 
-* __Données techniques__ : pour afficher les services qui sont synchronisés avec votre compte Firefox et pour des raisons fonctionnelles, nous stockons votre système d’exploitation, navigateur et version, horodatage, langue (ainsi que les mêmes informations pour les appareils connectés à votre compte).
+* __Données techniques__ : Pour afficher les appareils synchronisés avec votre compte Firefox et pour des raisons de sécurité, nous stockons le système d’exploitation, le navigateur et sa version, l’horodatage, la langue, ainsi que les mêmes informations pour les appareils connectés à votre compte. Si vous utilisez votre compte Firefox pour vous connecter à d’autres sites Web ou services (tels que AMO ou Pocket), nous recevons l’horodatage de ces connexions. 
 
-Lisez [la documentation complète](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) ou [apprenez-en plus](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), notamment comment [supprimer votre compte](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et le courriel](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité pour nos services associés aux comptes Firefox, à savoir : 
+
+* [Firefox Lockwise](https://lockbox.firefox.com/privacy.html)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Screenshots et Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### Sync {: #sync }
 
