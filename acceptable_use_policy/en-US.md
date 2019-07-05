@@ -7,7 +7,7 @@ You may not use any of Mozilla’s services to:
 * Harm users such as by using viruses, spyware or malware, worms, trojan horses, time bombs or any other such malicious codes or instructions,
 * Deceive, mislead, defraud, phish, or commit or attempt to commit identity theft,
 * Engage in or promote illegal gambling,
-* Degrade, intimidate, incite violence against, or encourage prejudicial action against someone or a group based on age, gender, race, ethnicity, national origin, religion, sexual orientation, disability, religion, geographic location or other protected category,
+* Degrade, intimidate, incite violence against, or encourage prejudicial action against someone or a group based on age, gender, race, ethnicity, national origin, religion, sexual orientation, disability, geographic location or other protected category,
 * Exploit or harm children,
 * Sell, purchase, or advertise illegal or controlled products or services,
 * Upload, download, transmit, display, or grant access to content that includes graphic depictions of sexuality or violence,
