@@ -1,7 +1,7 @@
 # Firefox Reality Privacy Notice
 
-Version 1.0, effective September 18, 2018
-{: datetime="2018-09-18" }
+Version 1.1, effective July 23, 2019
+{: datetime="2019-07-23" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -21,7 +21,7 @@ Read the telemetry documentation for Firefox Reality or learn how to [opt-out](h
 
 ### Voice Search {: #voice }
 
-* **Voice Recordings:** When you choose to use voice input for Firefox Reality, your voice recordings are sent to Mozilla and Google’s Cloud Speech service for processing to provide you with suggested text. We keep voice recordings to improve our voice recognition software and may share them with others.
+* **Voice Recordings:** When you choose to use voice input for Firefox Reality, your voice recordings are sent to Mozilla and Google’s Cloud Speech service for processing to provide you with suggested text. Mozilla does not keep your recordings.
 
 ### Crash reports {: #crash-reporter }
 
