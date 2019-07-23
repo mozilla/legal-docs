@@ -1,6 +1,7 @@
 # Terms of Service for Hubs and Spoke
 
 Version 3.2, Effective March 12, 2019
+{: datetime="2019-03-12" }
 
 [Hubs by Mozilla](https://hubs.mozilla.com) is a real-time communications platform for Virtual Reality, Augmented Reality, Desktop, Laptop, Mobile, or however else you browse the internet.
 

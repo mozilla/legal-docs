@@ -1,6 +1,7 @@
 # Privacy Notice for Hubs and Spoke
 
 Version 3.2.3, July 11, 2019
+{: datetime="2019-07-11" }
 
 ## At Mozilla (that’s us), we believe that privacy is fundamental to a healthy internet.
 
