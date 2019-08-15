@@ -20,5 +20,5 @@ Pan fydd Mozilla (sef ni), yn derbyn gwybodaeth gennych chi, mae ein [Polisi Pre
 
 * **Data technegol.** Gan ddefnyddio Google Analytics, rydym yn casglu’r URL a theitl y tudalennau Llais Cyffredin fyddwch chi'n ymweld â nhw. Er mwyn gwella’r profiad Llais Cyffredin yn gyson, rydym yn casglu gwybodaeth am y math o borwr a'r fersiwn, maint porth gwylio ag eglurder sgrin. Mae hyn yn ein galluogi i ddeall sut mae pobl yn rhyngweithio gyda Llais Cyffredin er mwyn i ni allu ei wella. Rydyn ni hefyd yn casglu eich lleoliad, a'r gosodiad iaith yn eich porwr i sicrhau ei fod yn edrych yn iawn i chi.
 
-[Dysgu mwy](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Dysgwch ragor](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
 
