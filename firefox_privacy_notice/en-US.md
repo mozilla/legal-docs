@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective June 04, 2019*
-{: datetime="2019-06-04" }
+*Effective September 10, 2019*
+{: datetime="2019-09-10" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -17,7 +17,8 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
 
-Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to [opt-out](https://support.mozilla.org/kb/send-performance-data-improve-firefox) of this data collection.
+Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to opt-out of this data collection on [Desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) and [Mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+
 {: #telemetry }
 
 ### Set a default search provider {: #defaultsearch }
@@ -35,7 +36,7 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on
 * __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Webpage data for Pocket Recommendations__: We recommend content to you based on your browsing history. The process of deciding which stories you should see happens locally in your copy of Firefox and neither Mozilla nor Pocket receives a copy of your browsing history. We do receive data about the recommendations you see and click. [Learn more](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Webpage data for Pocket Recommendations__: We recommend content to you based on your browsing history. The process of deciding which stories you should see happens locally in your copy of Firefox and neither Mozilla nor Pocket (which is part of the Mozila family) receives a copy of your browsing history. We do receive aggregated data about the recommendations you see and click. Learn more.This data does not identify you personally. We also share aggregated data with our third-party ad platform Adzerk about the sponsored content you see and click so advertisers can see how many people click on their articles, but not who clicked or viewed them. 
 
 * __Add-on and Feature Recommendations__: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend Firefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The process happens locally in your own computer’s copy of Firefox. Learn More about [Awesome Bar recommendations](https://support.mozilla.org/kb/extension-recommendationss) or [Extensions Page recommendations](https://support.mozilla.org/kb/personalized-extension-recommendations). 
 
