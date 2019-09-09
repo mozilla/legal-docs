@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span>-<span class="privacy-header-policy">privacyverklaring</span>
 
-*Van kracht vanaf vrijdag 15 maart 2019*
-{: datetime="2019-03-15" }
+*Van kracht vanaf dinsdag 10 september 2019*
+{: datetime="2019-09-10" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -17,7 +17,8 @@ In deze Privacyverklaring leggen we uit welke gegevens Firefox deelt en wijzen w
 
 * __Technische gegevens__: Firefox verzendt gegevens over uw Firefox-versie en taal, het besturingssysteem van uw apparaat en uw hardwareconfiguratie, geheugen, basisinformatie over crashes en fouten en over resultaten van geautomatiseerde processen, zoals SafeBrowsing en activering. Wanneer Firefox ons gegevens stuurt, wordt uw IP-adres tijdelijk verzameld als onderdeel van onze serverlogboeken.
 
-Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt [uitschrijven](https://support.mozilla.org/kb/send-performance-data-improve-firefox) van het verzamelen van deze gegevens.
+Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt uitschrijven van het verzamelen van deze gegevens op [desktops](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+
 {: #telemetry }
 
 ### Een standaardzoekprovider instellen {: #defaultsearch }
@@ -35,7 +36,7 @@ Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), aanbevolen ad
 * __Webpaginagegevens voor Snippets__: wanneer u ervoor kies om op een Snippet-koppeling te klikken, ontvangen we mogelijk gegevens over de koppeling die u hebt gevolgd. Deze informatie is niet gekoppeld aan enige andere informatie over u. [Meer informatie](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Webpaginagegevens voor Pocket-aanbevelingen__: we stellen inhoud aan u voor op basis van uw browsergeschiedenis. Het proces van het beslissen van welke verhalen moeten worden weergegeven vindt plaats in uw lokale exemplaar van Firefox, en noch Mozilla, noch Pocket ontvangt een kopie van uw browsergeschiedenis. We ontvangen wel gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. [Meer informatie](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Webpaginagegevens voor Pocket-aanbevelingen__: We stellen inhoud aan u voor op basis van uw browsergeschiedenis. Het proces van het beslissen van welke verhalen moeten worden weergegeven, vindt plaats in uw lokale exemplaar van Firefox, en noch Mozilla, noch Pocket (dat deel uitmaakt van de Mozilla-familie) ontvangt een kopie van uw browsergeschiedenis. We ontvangen wel samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Meer informatie. U kunt niet persoonlijk worden geïdentificeerd aan de hand van deze gegevens. We delen samengevoegde gegevens ook met ons externe advertentieplatform Adzerk. Dit betreft samengevoegde gegevens over de gesponsorde inhoud die u weergeeft en waarop u klikt, zodat adverteerders beschikken over informatie over hoeveel mensen op hun artikelen hebben geklikt en over wie er niet op hebben geklikt of wie deze niet hebben weergegeven.
 
 * __Aanbevolen add-ons en functies__: Add-ons worden op twee plaatsen aanbevolen: op de pagina Manage Your Extensions (about:addons) en op de balk Awesome. Met deze laatste kunt u zoeken en hierop kunt u URL's invoeren. We kunnen ook Firefox-functies aanbevelen op de balk Awesome. We baseren de aanbevelingen in about:addons op een cookie. We baseren de aanbevelingen op de balk Awesome op uw interactie met Firefox. Uw browsergeschiedenis wordt niet door Mozilla ontvangen. Deze bevindt zich uitsluitend in het exemplaar van Firefox op uw computer. Meer informatie over [aanbevelingen van de balk Awesome](https://support.mozilla.org/kb/extension-recommendationss) of [aanbevelingen op de pagina voor extensies](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
