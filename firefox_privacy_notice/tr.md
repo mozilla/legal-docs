@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
 
-*Yürürlük Tarihi: 15 Mart 2019 Cuma*
-{: datetime="2019-03-15" }
+*Yürürlük Tarihi: 10 Eylül 2019 *
+{: datetime="2019-09-10" }
 
 ## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanıyoruz.
 
@@ -17,7 +17,8 @@ Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açı
 
 * __Teknik veriler__: Firefox, bize Firefox sürümü ve dili, cihaz işletim sistemi ve donanım yapılandırması, bellek, arızalar ve hatalar hakkında temel bilgiler, güncellemeler, güvenli gezinti ve aktivasyon hakkında veriler gönderir. Firefox bize veri gönderdiğinde, IP adresiniz sunucu günlüklerimiz için geçici olarak toplanır.
 
-[Masaüstü](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ya da [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) için telemetre belgelerini okuyun ya da bu veri toplamadan nasıl [vazgeçeceğiniz](https://support.mozilla.org/kb/send-performance-data-improve-firefox) öğrenin.
+[Masaüstü](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) veya [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) için telemetre bilgilerini okuyun ya da [Masaüstü](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) ve [Mobil](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers) üzerinde bu veri toplama seçeneğinden nasıl vazgeçeceğinizi öğrenin.
+
 {: #telemetry }
 
 ### Varsayılan arama sağlayıcısını belirlemek {: #defaultsearch }
@@ -35,7 +36,7 @@ Firefox; “snippet’lar” (Mozilla’dan mesajlar), eklenti önerileri, öne 
 * __Duyurularla ilişkili web sayfası verileri__: Bir duyuru bağlantısına tıklarsanız o bağlantı hakkında veriler alabiliriz. Bu bilgi, hakkınızdaki başka herhangi bir bilgiyle ilişkilendirilmez. [Daha fazla bilgi alın](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Pocket önerileriyle ilişkili web sayfası verileri__: Gezinti geçmişinize göre size içerikler tavsiye ederiz. Görmeniz gereken hikayelere karar verme süreci Firefox kopyanızda yerel olarak gerçekleşir. Ne Mozilla ne de Pocket gezinti geçmişinizin bir kopyasını alır. Gördüğünüz ve tıkladığınız tavsiyeler hakkında veriler alırız. [Daha fazla bilgi alın](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Pocket Tavsiyeleri için web sayfası verileri__: Gezinti geçmişinize göre size içerikler tavsiye ederiz. Görmeniz gereken hikayelere karar verme süreci Firefox kopyanızda yerel olarak gerçekleşir. Ne Mozilla ne de Pocket (Mozilla ailesinin bir üyesi) gezinti geçmişinizin bir kopyasını alır. Gördüğünüz ve tıkladığınız tavsiyeler hakkında yığma veriler alırız. Daha fazla bilgi alın. Bu veriler, sizi kişisel olarak tanımlamaz. Ayrıca, reklamcıların kimlik bilgileri olmadan yalnızca makalelerine tıklayan kişilerin sayısını görebilmesi amacıyla sponsorlu içerikler hakkında kendimize bağlı üçüncü taraf reklam platformu Adzerk ile yığma verileri paylaşmaktayız.
 
 * __Eklenti ve özellik önerileri__: “Eklentilerinizi yönetin” sayfası (about:addons) ve arama yaptığınız ya da URL girdiğiniz Şahane Çubuk olmak üzere iki yerde eklenti önerilir. Ayrıca Şahane Çubuk’ta Firefox özellikleri de önerilir. about:addons sayfasındaki öneriler çereze dayalıdır. Şahane Çubuk’taki öneriler Firefox ile olan etkileşiminize dayalıdır. Mozilla, gezinti geçmişinize ilişkin herhangi bir veri almaz. İşlem, bilgisayarınızdaki Firefox kopyasında yerel olarak gerçekleşir. [Şahane Çubuk önerileri](https://support.mozilla.org/kb/extension-recommendations) ve [Eklentiler sayfası önerileri](https://support.mozilla.org/kb/personalized-extension-recommendations) hakkında daha fazla bilgi alabilirsiniz.
 
