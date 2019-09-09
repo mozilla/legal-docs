@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox - </span> <span class="privacy-header-policy">Avviso sulla privacy</span>
 
-*In vigore dal venerdì 15 marzo 2019*
-{: datetime="2019-03-15" }
+*In vigore dal martedì 10 settembre 2019*
+{: datetime="2019-09-10" }
 
 ## In Mozilla crediamo nel fatto che la privacy sia fondamentale per un uso sano di Internet.
 
@@ -17,7 +17,8 @@ In questo Avviso sulla privacy illustreremo quali sono i dati che Firefox condiv
 
 * __Dati tecnici__: Firefox ci invia dati sulla versione di Firefox e sulla lingua usata; sul sistema operativo del dispositivo e sulla configurazione hardware, sulla memoria, su informazioni di base su arresti anomali ed errori; sul risultato di processi automatici quali aggiornamenti, servizio di safebrowing e attivazione. Quando Firefox ci invia i dati, il vostro indirizzo IP viene temporaneamente raccolto quale parte dei log del nostro server.
 
-È possibile consultare la documentazione di telemetria per [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), oppure per [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o scoprire come [non partecipare](https://support.mozilla.org/kb/send-performance-data-improve-firefox) a questa raccolta di dati.
+Leggi la documentazione relativa alla telemetria per dispositivi [desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), oppure scopri come rifiutare questa raccolta di dati su dispositivi [desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e [mobili](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+
 {: #telemetry }
 
 ### Impostare un fornitore di servizi di ricerca predefinito {: #defaultsearch }
@@ -35,7 +36,7 @@ Firefox visualizza contenuti, come "frammenti di codice" (messaggi da Mozilla), 
 * __Dati delle pagine web per Snippets__: quando si sceglie di fare clic su un link Snippet, si possono ricevere dati sul link seguito. Queste informazioni non sono associate ad altre informazioni personali. [Ulteriori informazioni](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Dati delle pagine web per i contenuti consigliati da Pocket__: i contenuti che vi vengono consigliati si basano sulla vostra cronologia di navigazione. La scelta dei contenuti da visualizzare avviene a livello locale nella vostra copia di Firefox e né Mozilla, né Pocket ricevono una copia della vostra cronologia di navigazione. Noi riceviamo unicamente informazioni sui contenuti consigliati che visualizzate e su cui fate clic. [Ulteriori informazioni](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Dati delle pagine web per suggerimenti Pocket__: Ti suggeriamo contenuti sulla base della tua cronologia di navigazione. L'elaborazione della scelta delle storie da visualizzarti avviene a livello locale nella tua copia di Firefox e né Mozilla né Pocket (che fa parte della famiglia Mozilla) ricevono una copia della tua cronologia di navigazione. Riceviamo unicamente dati in forma aggregata sui suggerimenti che vedi e su cui fai clic. Per saperne di più. Questi dati non ci permettono di identificarti. Condividiamo inoltre dati in forma aggregata con la nostra piattaforma di terze parti Adzerk sui contenuti sponsorizzati che vedi e su cui fai clic, affinché gli inserzionisti possano vedere quante persone hanno fatto clic sui loro articoli, senza però sapere chi li ha visualizzati.
 
 * __Funzioni e componenti aggiuntivi consigliati__: i componenti aggiuntivi consigliati possono essere visualizzati nella pagina Gestione estensioni (about:addons) e nella barra degli indirizzi, dove è possibile effettuare ricerche o digitare URL. Nella barra degli indirizzi possiamo anche consigliare funzioni Firefox. I consigli visualizzati nella pagina about:addons si basano su un cookie. Mentre i consigli visualizzati nella barra degli indirizzi si basano sulle vostre interazioni con Firefox. Mozilla non riceve la vostra cronologia di navigazione. La scelta dei contenuti da visualizzare avviene a livello locale nella vostra copia di Firefox. Ulteriori informazioni sui [contenuti consigliati nella barra degli indirizzi](https://support.mozilla.org/kb/extension-recommendationss) o nella [pagina Gestione estensioni](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
