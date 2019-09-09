@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Aviso de privacidade do</span> <span class="privacy-header-firefox">Firefox</span>
 
-*Data de vigência: 15 de março de 2019*
-{: datetime="2019-03-15" }
+*Data de vigência: terça-feira, 10 de setembro de 2019*
+{: datetime="2019-09-10" }
 
 ## Na Mozilla, acreditamos que a privacidade é fundamental para uma Internet saudável.
 
@@ -17,7 +17,8 @@ Nesta nota sobre privacidade, explicamos quais dados o Firefox compartilha e com
 
 * __Dados técnicos__: O Firefox nos envia dados sobre a versão e idioma instalado, configuração do sistema operacional e do hardware do dispositivo, memória, informações básicas sobre travamentos e erros, resultado de processos automáticos, como atualizações, navegação segura e ativação. Quando o Firefox nos envia dados, seu endereço IP é temporariamente coletado como parte dos nossos registros de servidor.
 
-Leia a documentação de telemetria para [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou saiba como [cancelar](https://support.mozilla.org/kb/send-performance-data-improve-firefox) essa coleta de dados.
+Leia a documentação de telemetria referente a [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou descubra como deixar de participar dessa coleta de dados no [computador](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e em [dispositivos móveis](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+
 {: #telemetry }
 
 ### Definir um mecanismo de pesquisa padrão {: #defaultsearch }
@@ -35,7 +36,7 @@ O Firefox exibe conteúdo, como “Trechos de código” (mensagens da Mozilla),
 * __Dados de páginas da Internet para snippets__: Ao clicar no link de um snippet, é possível que recebamos dados sobre o link aberto. Essas informações não são associadas a nenhuma outra informação pessoal sua. [Saiba mais](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Dados de páginas da Internet para Recomendações do Pocket__: Recomendamos conteúdo para você com base no seu histórico do navegador. O processo de decisão de quais histórias você vê ocorre internamente na sua cópia do Firefox. A Mozilla e o Pocket não recebem uma cópia do seu histórico do navegador. Só recebemos dados sobre suas recomendações e cliques. [Saiba mais](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Dados de páginas da web para recomendações do Pocket__: Nós recomendamos conteúdos para você com base em seu histórico de navegação. O processo que decide quais artigos você verá ocorre localmente em sua cópia do Firefox, e nem a Mozilla nem o Pocket (que é parte da família Mozilla) recebem uma cópia do seu histórico. Nós recebemos dados agregados sobre as recomendações que você vê e nas quais você clica. Saiba mais. Esses dados não o identificam como pessoa. Nós também compartilhamos dados agregados com nossa plataforma de anúncios de terceiros, chamada Adzerk, sobre os conteúdos patrocinados que você vê e nos quais você clica para que os anunciantes possam ver quantas pessoas clicam nos artigos, mas não quem clicou ou visualizou.
 
 * __Recomendações de extensões e de recursos__: Recomendamos extensões em dois lugares: na página “Gerenciar suas extensões” (about:addons) e na Barra de endereços inteligente, na qual você pesquisa ou digita URLs. Também podemos recomendar Recursos do Firefox na Barra de endereços inteligente. Nossas recomendações de about:addons são baseadas em cookies. As recomendações da Barra de endereços inteligente são baseadas na sua interação com o Firefox. A Mozilla não recebe o histórico do seu navegador. O processo ocorre no local, na cópia do Firefox do seu próprio computador. Saiba mais sobre as [recomendações da Barra de endereços inteligente](https://support.mozilla.org/kb/extension-recommendationss) ou da [Página de extensões](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
