@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Aviso de privacidad de</span> <span class="privacy-header-firefox">Firefox</span>
 
-*Vigente desde el 15 de marzo de 2019*
-{: datetime="2019-03-15" }
+*Vigente desde el 10 de septiembre de 2019*
+{: datetime="2019-09-10" }
 
 ## En Mozilla, creemos que la privacidad es fundamental para tener un Internet sano.
 
@@ -17,7 +17,8 @@ En este Aviso de privacidad, especificamos qué datos comparte Firefox y los aju
 
 * __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación.  Cuando Firefox nos envía datos, su dirección de IP se guarda temporalmente como parte de los registros del servidor.  
 
-Consulte la documentación de telemetría para [ordenadores de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html), o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) o visite esta página [](https://support.mozilla.org/kb/send-performance-data-improve-firefox)para obtener información sobre cómo deshabilitar la recopilación de datos.
+Lea los documentos de telemetría para [dispositivos de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), u obtenga información sobre cómo deshabilitar la recopilación de datos en [dispositivos de escritorio](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) y [dispositivos móviles](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+
 {: #telemetry }
 
 ### Establece un proveedor de búsquedas predeterminado {: #defaultsearch }
@@ -35,7 +36,7 @@ Firefox muestra contenido como «Snippets» (mensajes de Mozilla), recomendacion
 * __Datos de páginas web para Snippets__: Cuando decide pulsar sobre el enlace de un Snippet, recibimos datos sobre dicho enlace. Esta información no está asociada a ninguna otra información sobre usted. [Visite esta página](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html) para obtener más información.
 {: #snippets }
 
-* __Datos de páginas web para Recomendaciones de Pocket__: Proporcionamos recomendaciones de contenido en base a su historial de navegación. El proceso de elección del contenido que debe ver se realiza localmente en base a su historial de navegación de Firefox y ni Mozilla ni Pocket recibe una copia de este historial. Lo que sí recibimos son datos sobre las recomendaciones que visualiza y con las que interactúa. [Visite esta página](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Datos de páginas web para las recomendaciones de Pocket__: Las recomendaciones de contenido las realizamos en basa a su historial de navegación. El proceso de selección de las historias que se le van a mostrar se produce localmente en su navegador de Firefox, es decir que ni Mozilla ni Pocket reciben su historial de navegación (que forma parte de la familia de Mozilla). Lo que sí recibimos son datos agregados sobre las recomendaciones que ve y con las que interactúa. Más información. Estos datos no revelan su identidad. Además compartimos datos agregados con nuestra plataforma publicitaria de terceros Adzerk acerca del contenido patrocinado que usted ve y con el que interactúa, para que los anunciantes puedan conocer el número de personas que ve y pulsa en sus artículos, sin revelar la identidad de estas personas.
 
 * __Recomendaciones de complementos y funciones__: Podrá encontrar nuestras recomendaciones de complementos en dos lugares: el Administrador de complementos (about:addons) y la Barra alucinante, donde puede buscar o introducir las direcciones URL. La Barra alucinante le mostrará también recomendaciones de funciones de Firefox. Las recomendaciones mostradas en el Administrador de complementos (about:addons) se realizan en base a las cookies. Las recomendaciones mostradas en la Barra alucinante se realizan en base a su interacción con Firefox. Mozilla no recibe su historial de búsqueda. Se trata de un proceso local que ocurre en el navegador de Firefox de su ordenador. Si desea obtener más información sobre las [Recomendaciones de la Barra alucinante](https://support.mozilla.org/kb/extension-recommendationss) y las [Recomendaciones de la página Extensiones](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
