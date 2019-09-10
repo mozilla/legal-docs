@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Terms of Service
 
-Last Updated June 12, 2019
-{: datetime="2019-06-04" }
+Last Updated September 10, 2019
+{: datetime="2019-09-10" }
 
 ## Summary
 
@@ -34,13 +34,15 @@ This top section summarizes the terms below. This summary is provided to help yo
     * Breach Alerts: This notifies you if your email address appears in a new data breach. 
     * Safety Tips: This sends you occasional online safety tips from Mozilla.
 
-    It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
+    It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/) strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
     (d) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notes across devices.  
 
     (e) Firefox Send lets you share encrypted files that automatically expire.  A Firefox Account is required for large file sizes. 
 
     (f) Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.  A Firefox Account is required. 
+    
+    (g) Firefox Private Network is a proxy service that helps you browse more privately by placing an intermediary between your Firefox browser and the internet to obfuscate your IP address. A Firefox Account is required.
 
 4. #### Privacy Policy
 
@@ -51,6 +53,7 @@ This top section summarizes the terms below. This summary is provided to help yo
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal) 
     * [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Communications
 
@@ -63,7 +66,7 @@ You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 
 
 6. #### Your Content in Our Services
 
-    You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla. See [here](https://www.mozilla.org/about/legal/report-infringement/) to report claims of copyright or trademark infringement. To report abusive Screenshots, email us a link to the shot at screenshots-report@mozilla.com.
+    You may upload content to Mozilla as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla. See [here](https://www.mozilla.org/about/legal/report-infringement/) to report claims of copyright or trademark infringement. To report abusive Screenshots, email us a link to the shot at screenshots-report@mozilla.com.
 
 7. #### Mozilla's Proprietary Rights
 
