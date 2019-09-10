@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">— Politique de confidentialité</span>
 
-*Date d'effet : mardi 4 juin 2019*
-{: datetime="2019-06-04" }
+*Date d'effet : mardi 10 septembre 2019*
+{: datetime="2019-09-10" }
 
 ## Chez Mozilla, nous considérons que la confidentialité est essentielle pour l’intégrité d’Internet.
 
@@ -17,7 +17,7 @@ Dans cette Politique de confidentialité, nous expliquons quelles données Firef
 
 * __Données techniques__ : Firefox nous envoie des données à propos de la version et de la langue de votre Firefox, du système d’exploitation de votre appareil et sa configuration matérielle, de la mémoire, des informations de base sur les plantages et les erreurs, le résultat de processus automatiques comme les mises à jour, le blocage de sites malveillants et l’activation. Lorsque Firefox nous envoie des données, votre adresse IP est temporairement collectée dans les fichiers journaux de nos serveurs.
 
-Lisez la documentation de télémétrie pour [ordinateur](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou apprenez à [vous retirer](https://support.mozilla.org/kb/send-performance-data-improve-firefox) de cette collecte de données.
+Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), ou apprenez comment refuser cette collecte de données sur un [ordinateur de bureau](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) et un [appareil mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Définir un prestataire de recherche par défaut {: #defaultsearch }
@@ -35,7 +35,7 @@ Firefox affiche des contenus tels que : « Snippets » (messages de Mozilla),
 * __Données de pages web pour les snippets__ : lorsque vous décidez de cliquer sur un lien de snippet, nous pouvons recevoir des données sur le lien que vous avez suivi. Ces données ne sont aucunement associées à des informations vous concernant personnellement. [En savoir plus](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Données de pages web pour les recommandations de Pocket__: nous recommandons du contenu en fonction de votre historique de navigation. Le processus du choix des articles s’effectue localement dans votre copie de Firefox et ni Mozilla, ni Pocket ne reçoit de copie de votre historique de navigation. Nous recevons cependant les données relatives aux recommandations que vous voyez et sur lesquelles vous cliquez. [En savoir plus](https://help.getpocket.com/article/1142-firefox-new-tab-recommendations).
+* __Recommandations concernant les données de page Web pour Pocket__ : Nous vous recommandons un contenu basé sur votre historique de navigation. Le processus suivi pour décider les histoires que nous vous recommandons de consulter intervient localement dans votre copie de Firefox, et ni Mozilla ni Pocket (qui fait partie de la famille Mozilla) ne reçoivent une copie de votre historique de navigation. Nous recevons des données agrégées sur les recommandations que vous voyez et sur lesquelles vous cliquez. En savoir plus. Ces données ne permettent pas de vous identifier personnellement. Nous partageons également des données agrégées avec notre plate-forme publicitaire tierce Adzerk sur le contenu sponsorisé que vous voyez et sur lequel vous cliquez pour que les annonceurs puissent déterminer le nombre de personnes qui cliquent sur leurs articles, mais non qui ont cliqué ou qui les ont consultés.
 
 * __Recommandations de modules complémentaires et de fonctionnalités__: Nous recommandons l'utilisation des modules complémentaires à deux emplacements : la page Gérez vos extensions (about:addons) et la barre d'adresse intelligente, dans laquelle vous pouvez rechercher ou saisir des URL. Nous pouvons également recommander des fonctionnalités Firefox dans la barre d'adresse intelligente. Nous basons nos recommandations dans about:addons sur un cookie. Nous basons nos recommandations dans la barre d'adresse intelligente sur vos interactions avec Firefox. Mozilla ne reçoit pas votre historique de navigation. Le processus se déroule localement dans la copie de Firefox installée sur votre ordinateur. En savoir plus sur les [recommandations de la barre d'adresse intelligente](https://support.mozilla.org/kb/extension-recommendationss) ou les [recommandations de la page Extensions](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
