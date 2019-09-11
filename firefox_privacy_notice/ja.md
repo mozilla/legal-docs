@@ -18,7 +18,6 @@
 * __技術情報__: Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
 [デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または[iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を[デスクトップ](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)や[モバイル](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)でオプトアウトする方法についてご覧ください。
-
 {: #telemetry }
 
 ### 既定の検索プロバイダーを設定する {: #defaultsearch }
@@ -36,7 +35,7 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 * __スニペットのウェブページデータ__: あなたがスニペットのリンクをクリックするとき、Mozilla はあなたがフォローしたリンクに関するデータを受信することがあります。この情報は、あなたに関する他のどの情報にも関連付けられていません。[詳細はこちら](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
 
-* __Pocketからのおすすめのウェブページデータ__:あなたのブラウジング履歴に基づき、コンテンツを推奨します。表示するストーリーの決定プロセスは、Firefox が受信するブラウジング履歴のコピーでローカルに発生し、Mozilla および Pocket（Mozilla の系列会社）はいずれもブラウジング履歴のコピーを受信しません。Mozilla は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。詳細はこちら。このデータによって個人が特定されることはありません。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としており、クリックまたは閲覧した個人を特定するものではありません。
+* __Pocketからのおすすめのウェブページデータ__:あなたのブラウジング履歴に基づき、コンテンツを推奨します。表示するストーリーの決定プロセスは、Firefox が受信するブラウジング履歴のコピーでローカルに発生し、Mozilla および Pocket（Mozilla の系列会社）はいずれもブラウジング履歴のコピーを受信しません。Mozilla は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。このデータによって個人が特定されることはありません。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としており、クリックまたは閲覧した個人を特定するものではありません。
 
 * __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ（about:addons）と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendationss) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
 
