@@ -18,7 +18,6 @@
 * __技术数据__：Firefox 会发送以下相关信息给我们：您 Firefox 的版本和语言；设备操作系统和硬件配置；内存、有关崩溃和错误的基本信息；诸如更新、安全浏览和激活等自动化流程的结果。当 Firefox 向我们发送数据时，会临时收集您的 IP 地址作为我们服务器日志的一部分。
 
 阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)和[移动](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
-
 {: #telemetry }
 
 ### 设置默认的搜索引擎 {: #defaultsearch }
@@ -35,7 +34,7 @@ Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、�
 * __Snippet 的网页数据__：当您选择点击 Snippet 链接时，我们可能会收到有关您所进入链接的数据。该信息与您的任何其他相关信息都无关。[了解更多信息](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
 
-* __针对 Pocket 推荐的网页数据__：我们根据您的浏览历史记录向您推荐内容。关于您将看到哪些内容的决定过程在您本地的 Firefox 副本中进行，Mozilla 或 Pocket（Mozila 系列的成员）都不会收到您的浏览历史记录的副本。我们会收集有关您查看和点击的建议内容的汇总数据。了解更多。此数据不会识别您的个人身份。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商了解点击其文章的人数，而不是点击或查看其文章的具体个人。
+* __针对 Pocket 推荐的网页数据__：我们根据您的浏览历史记录向您推荐内容。关于您将看到哪些内容的决定过程在您本地的 Firefox 副本中进行，Mozilla 或 Pocket（Mozila 系列的成员）都不会收到您的浏览历史记录的副本。我们会收集有关您查看和点击的建议内容的汇总数据。此数据不会识别您的个人身份。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商了解点击其文章的人数，而不是点击或查看其文章的具体个人。
 
 * __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendationss)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
 
