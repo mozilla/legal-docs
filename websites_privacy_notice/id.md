@@ -37,7 +37,7 @@ Kami mungkin menggunakan cookie, GIF transparan, analitika web pihak ketiga, inf
 
 * **Metrik**: Kami mungkin juga menggunakan cookie, informasi perangkat dan alamat IP, beserta GIF transparan, cookie, dan layanan pihak ketiga untuk membantu memahami secara agregat bagaimana pengguna berinteraksi dengan produk, layanan, komunikasi, situs web, kampanye online, snippet, perangkat, dan platform lain. Kami menggunakan:
     * Google Analytics, yang menempatkan cookie di perangkat Anda, untuk memperoleh metrik tentang bagaimana pengguna berinteraksi dengan situs web kami. Google Analytics membantu kami meningkatkan konten situs.
-    * Optimizely dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji variasi konten web.. Hal ini membantu kami menawarkan pengalaman yang lebih baik kepada pengguna.
+    * Convert.com dan ShareProgress, yang menempatkan cookie di perangkat Anda, untuk membantu kami menguji variasi konten web.. Hal ini membantu kami menawarkan pengalaman yang lebih baik kepada pengguna.
     * DoubleClick dan Flashtalking, masing-masing menggunakan GIF transparan di halaman Firefox unduhan kami. Ini membantu kami mengukur efektivitas program kampanye iklan kami.
     * Yahoo Dot Pixel, yang menggunakan JavaScript di halaman Firefox unduhan kami. Ini membantu kami mengukur efektivitas program kampanye iklan kami. 
     * Data Perujuk HTTP, yang mungkin disertakan dengan penginstal Firefox, untuk memahami domain situs web atau kampanye iklan yang merujuk Anda ke halaman unduhan kami. Informasi ini membantu kami memahami efektivitas program kampanye iklan kami dan meningkatkannya.
@@ -57,7 +57,7 @@ Anda bisa mengontrol masing-masing preferensi cookie, menunjukkan preferensi coo
 
 * **Analitika & Optimalisasi**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
     *  Google: Instal [Add-on Browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), yang akan membuat kunjungan Anda anonim dan mencegah pengiriman data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami efektivitas program kampanye iklan kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick di pengaturan iklan Google (Anda akan diminta masuk ke Akun Google Anda).
-    *  Optimizely: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) atau kunjungi [Situs web berhenti berlangganan](https://www.optimizely.com/opt_out) untuk mendapatkan informasi selengkapnya.
+    *  Convert.com: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: kunjungi [Pengelola Minat Iklan](https://aim.yahoo.com/aim/us/en/optout/) untuk berhenti berlangganan.
     *  ShareProgress: Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

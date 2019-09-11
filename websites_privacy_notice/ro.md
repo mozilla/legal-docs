@@ -37,7 +37,7 @@ Putem folosi cookie-uri, „clear GIF”-uri, date analitice web terțe, informa
 
 * **Indicatori metrici**: Este posibil să folosim cookie-uri, informații de pe dispozitive și adrese IP în conjuncție cu cookie-uri „clear GIF”-uri, și servicii ale unor terțe părți pentru a înțelege in ansamblu modul în care utilizatorii interacționează cu produsele, serviciile, comunicările, site-urile web, campaniile online, fragmentele (snippets), dispozitivele și alte platforme furnizate de noi. Folosim:
     * Google Analytics, care plasează un cookie pe dispozitivul dumneavoastră pentru a obține indicatori metrici privind modul în care utilizatorii abordează site-urile noastre web. Acesta ne ajută să îmbunătățim conținutul site-urilor.
-    * Optimizely și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră pentru a ne ajuta să testăm diferite variante de conținut web.  Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
+    * Convert.com și ShareProgress, care plasează un cookie pe dispozitivul dumneavoastră pentru a ne ajuta să testăm diferite variante de conținut web.  Aceasta ne ajută să oferim utilizatorilor o experiență mai bună.
     * DoubleClick și Flashtalking, fiecare dintre ele folosind un „clear GIF” pe pagina noastră Firefox de descărcare. Acestea ne ajută să măsurăm eficiența campaniilor noastre publicitare.
     * Yahoo Dot Pixel, care utilizează JavaScript pe pagina noastră Firefox de descărcare. Acestea ne ajută să măsurăm eficiența campaniilor noastre publicitare. 
     * Date de recomandare (referral) HTTP, care pot fi incluse în programul de instalare Firefox, pentru a înțelege domeniul web sau campania publicitară care v-a recomandat să accesați pagina noastră de descărcare.  Aceste informații ne ajută să înțelegem eficiența campaniilor noastre publicitare și să le îmbunătățim.
@@ -57,7 +57,7 @@ Puteți controla preferințele individuale legate de cookie-uri, le puteți indi
 
 * **Statistici și optimizare**: Dacă doriți să opriți colectarea de date privind vizitele dumneavoastră pe site-urile web Mozilla, urmați instrucțiunile de mai jos:
     *  Google: Instalați [suplimentul de browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), care păstrează vizitele dumneavoastră anonime și interzice transmiterea de date către Google Analytics. Unele pagini Mozilla.org folosesc clear GIF-uri, care comunică cu DoubleClick pentru a ne ajuta să înțelegem eficiența campaniilor noastre publicitare; puteți controla reclamele personalizate din DoubleClick utilizând setările Google pentru reclame (va trebui să vă conectați la contul dvs. Google).
-    *  Optimizely: [Puteți refuza colectarea datelor dumneavoastră pe  www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) sau vizitați [pagina de dezabonare a Optimizely](https://www.optimizely.com/opt_out) pentru mai multe informații.
+    *  Convert.com: [Puteți refuza colectarea datelor dumneavoastră pe  www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: vizitați [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) pentru a vă dezabona.
     *  ShareProgress: Puteți [activa opțiunea „Nu mă urmări” în browser-ul dumneavoastră](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

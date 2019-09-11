@@ -37,7 +37,7 @@ Bu gizlilik ilkesi; Mozilla tarafından işletilen ve mozillians.org, mozilla.or
 
 * **Ölçümler**: Ayrıca, kullanıcıların ürünlerimiz, hizmetlerimiz, iletişimlerimiz, web siteleri, çevrimiçi kampanyalar, snippet’ler, cihazlar ve diğer platformlarla nasıl etkileşimde bulunduğunu anlamak için çerezler, cihaz bilgileri ve IP adreslerinin yanı sıra web işaretçilerini, çerezleri ve üçüncü taraf hizmetlerini kullanabiliriz. Şu hizmetleri kullanıyoruz:
     * Google Analytics: Bu hizmet, kullanıcıların web sitelerimizle nasıl etkileşim kurduğuna dair ölçümler elde etmek için cihazınıza bir çerez yerleştirir. Bu işlem, site içeriğini geliştirmemize yardımcı olur.
-    * Optimizely ve ShareProgress: Web içeriğinin varyasyonlarını test etmemize yardımcı olmak için cihazınıza bir çerez yerleştirir. Bu işlem, kullanıcılara daha iyi web deneyimleri sunmamıza yardımcı olur.
+    * Convert.com ve ShareProgress: Web içeriğinin varyasyonlarını test etmemize yardımcı olmak için cihazınıza bir çerez yerleştirir. Bu işlem, kullanıcılara daha iyi web deneyimleri sunmamıza yardımcı olur.
     * DoubleClick ve Flashtalking: Her ikisi de Firefox indirme sayfamızda web işaretçisi kullanır. Bu işlem, reklam kampanyalarımızın etkinliğini ölçmemize yardımcı olur.
     * Yahoo Dot Pixel: Firefox indirme sayfamızda JavaScript kullanır. Bu işlem, reklam kampanyalarımızın etkinliğini ölçmemize yardımcı olur. 
     * HTTP Yönlendirme Verileri: Sizi indirme sayfamıza yönlendiren web sitesinin alan adını veya reklam kampanyasını anlamak için Firefox’un yükleyicisine dahil edilebilir. Bu bilgiler, reklam kampanyalarımızın etkinliğini anlamamıza ve geliştirmemize yardımcı olur.
@@ -57,7 +57,7 @@ Bireysel çerez tercihlerini kontrol edebilir, çerez tercihlerinizi başkaları
 
 * **Analizler ve Optimizasyon**: Mozilla web sitelerine yaptığınız ziyaretlerle ilgili veri toplanmasını önlemek için aşağıdaki talimatları izleyin:
     *  Google: Ziyaretlerinizin anonim kalmasını sağlayan ve Google Analytics’e veri iletimini engelleyen [Google Analytics Kapsamı Dışında Kalma Tarayıcı Eklentisi](https://tools.google.com/dlpage/gaoptout)’ni yükleyin. Bazı Mozilla.org sayfalarında, reklam kampanyalarımızın etkinliğini anlamak için DoubleClick ile iletişim kuran web işaretçileri kullanılır; kişiselleştirilmiş reklamları Google’ın reklam ayarlarındaki DoubleClick’ten kontrol edebilirsiniz (Google Hesabınıza giriş yapmanız istenecektir).
-    *  Optimizely: [www.mozilla.org adresinden hizmeti geri çevirin](https://www.mozilla.org/?optimizely_opt_out=true) veya daha fazla bilgi için [Optimizely’nin vazgeçme web sitesini](https://www.optimizely.com/opt_out) ziyaret edin.
+    *  Convert.com: [www.mozilla.org adresinden hizmeti geri çevirin](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: Vazgeçmek için [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/)’ı ziyaret edin.
     *  ShareProgress: [Tarayıcınızdan Do Not Track özelliğini açabilirsiniz](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

@@ -37,7 +37,7 @@
 
 * **指標**：我們也會使用 Cookie、裝置資訊及 IP 位址搭配透明 GIF、Cookie 及第三方服務，以便協助我們綜合瞭解使用者如何使用我們的產品、服務、通訊、網站、線上活動、程式碼片段、裝置和其他平台服務。我們會使用：
     * Google Analytics（分析），這個服務會在您的裝置上安裝 Cookie，以便取得使用者如何使用我們網站的指標。這能幫助我們改善網站內容。
-    * Optimizely 及 ShareProgress，這些會在您的裝置內安裝 Cookie，以便協助我們測試網頁不同版本的內容。這能幫助我們提供更優質的網頁體驗。
+    * Convert.com 及 ShareProgress，這些會在您的裝置內安裝 Cookie，以便協助我們測試網頁不同版本的內容。這能幫助我們提供更優質的網頁體驗。
     * DoubleClick 及 Flashtalking，這些會在我們的 Firefox 下載頁面上使用透明 GIF。這能幫助我們評估廣告成效。
     * Yahoo Dot Pixel，這會在我們的 Firefox 下載頁面上使用 JavaScript。這能幫助我們評估廣告成效。 
     * HTTP Referral Data，這個項目可能會含在 Firefox 安裝程式內，用來瞭解是哪些網站網域或廣告將您導向到我們的下載頁面。這項資訊能幫助我們瞭解廣告成效，並進行改善。
@@ -57,7 +57,7 @@
 
 * **分析與最佳化**：按照以下說明操作後，您在使用 Mozilla 網站時便不會被收集資料：
     *  Google：安裝 [Google Analytics（分析）不透露資訊瀏覽器外掛程式](https://tools.google.com/dlpage/gaoptout)，這能讓您以匿名方式進入網站，並防止電腦向 Google Analytics（分析）傳送資料。部分 Mozilla.org 頁面使用透明 GIF 和 DoubleClick 進行通訊，以此瞭解我們的廣告成效，您可以到 Google 廣告設定內控制 DoubleClick 的個人化廣告（系統將要求您登入 Google 帳號）。
-    *  Optimizely：[到 www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) 停止使用，或前往 [Optimizely 停止使用網站](https://www.optimizely.com/opt_out)瞭解更詳細的資訊。
+    *  Convert.com：[到 www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo：前往 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 停止使用。
     *  ShareProgress：您可以[開啟網頁瀏覽器的「請勿追蹤」功能](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
 

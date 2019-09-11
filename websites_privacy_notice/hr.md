@@ -37,7 +37,7 @@ Možemo koristiti kolačiće, čiste GIF-ove, analitike interneta treće strane 
 
 * **Metrički podaci**: Također možemo primijeniti kolačiće, podatke o uređaju i IP adrese uz jasne GIF-ove, kolačiće i usluge treće strane kako bismo jasnije razumjeli razinu interakcije korisnika i naših proizvoda, usluga, komunikacije, web-stranica, internetskih kampanja, isječaka, uređaja i drugih platformi. Koristimo:
     * Google Analytics, koji odlaže kolačiće na vaš uređaj kako bismo pribavili metričke podatke o interakciji korisnika i naših web-mjesta. To nam pomaže poboljšati sadržaj internetskih stranica.
-    * Optimizely i ShareProgress, koji odlažu kolačiće na vaš uređaj pomažu nam testirati varijante sadržaja na mreži. To nam pomaže kako bismo korisnicima ponudili bolje internetske usluge.
+    * Convert.com i ShareProgress, koji odlažu kolačiće na vaš uređaj pomažu nam testirati varijante sadržaja na mreži. To nam pomaže kako bismo korisnicima ponudili bolje internetske usluge.
     * DoubleClick i Flashtalking koriste jasan GIF na našoj Firefox stranici za preuzimanja. To nam pomaže u mjerenju učinka naših reklamnih kampanja.
     * Yahoo Dot Pixel koristi JavaScript na našoj Firefox stranici za preuzimanja. To nam pomaže u mjerenju učinka naših reklamnih kampanja. 
     * Podaci za povezivanje s HTTP-om, koji mogu biti sadržani u Firefoxovom programu za instaliranje, pomažu u boljem razumijevanju domene web-mjesta ili reklamnih kampanja koje su vas povezale s našom stranicom za preuzimanja. Te informacije pomažu nam u jasnijem razumijevanju učinka naših reklamnih kampanja i njihovom poboljšanju.
@@ -57,7 +57,7 @@ Možete pojedinačno kontrolirati postavke kolačića, naznačiti svoje postavke
 
 * **Analitika i optimizacija**: Slijedite donje upute da biste spriječili prikupljanje podataka o vašim posjetama Mozillinim web-mjestima:
     *  Google: Instalirajte [dodatak preglednika za odjavu s usluge Google Analytics](https://tools.google.com/dlpage/gaoptout), koji vaše posjede čuva anonimno i zabranjuje prijenos podataka usluzi Google Analytics. Neke Mozilla.org stranice koriste jasne GIF-ove koji komuniciraju s funkcijom DoubleClick radi jasnijeg razumijevanja učinka naših reklamnih kampanja; možete kontrolirati personalizirane oglase funkcijom DoubleClick u Googleovim postavkama za oglase (bit ćete zamoljeni da se prijavite na svoj Google račun).
-    *  Optimizely: [Odjavite se na www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ili posjetite [web-mjesto za odjavu s usluge Optimizely](https://www.optimizely.com/opt_out) da biste saznali više informacija.
+    *  Convert.com: [Odjavite se na www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: posjetite [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) da biste se odjavili.
     *  ShareProgress: Možete [uključiti značajku Ne prati me u svom pregledniku](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
