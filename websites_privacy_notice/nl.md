@@ -37,7 +37,7 @@ We kunnen cookies, transparante GIF's, analysegegevens van derde partijen, appar
 
 * **Meetwaarden**: We kunnen ook cookies, apparaatinformatie en IP-adressen gebruiken in combinatie met transparante GIF's en cookies en services van derden voor het verzamelen van gegevens in samengevoegde vorm om te doorgronden hoe gebruikers onze producten, services, communicatie, websites, online campagnes, snippets, apparaten en ander platforms gebruiken. We gebruiken:
     * Google Analytics - hierbij wordt een cookie op uw apparaat geplaatst om meetwaarden te verkrijgen met betrekking tot hoe gebruikers onze websites gebruiken. Dit helpt ons om site-inhoud te verbeteren.
-    * Optimizely en ShareProgress - hierbij wordt een cookie op uw apparaat geplaatst om ons te helpen variaties van webinhoud te testen. Dit helpt ons om gebruikers betere webervaringen te bieden.
+    * Convert.com en ShareProgress - hierbij wordt een cookie op uw apparaat geplaatst om ons te helpen variaties van webinhoud te testen. Dit helpt ons om gebruikers betere webervaringen te bieden.
     * DoubleClick en Flashtalking - hierbij worden er transparante GIF's op onze pagina voor het downloaden van Firefox geplaatst. Dit helpt ons om de doeltreffendheid van onze marketingcampagnes te meten.
     * Yahoo Dot Pixel - hierbij wordt er JavaScript gebruikt op de pagina voor het downloaden van Firefox. Dit helpt ons om de doeltreffendheid van onze marketingcampagnes te meten. 
     * HTTP-verwijzigingsgegevens - deze worden mogelijk op genomen in het installatieprogramma van Firefox om in kaart te brengen welk domein of welke reclamecampagne u heeft doorverwezen naar de downloadpagina. Deze informatie helpt ons om de doeltreffendheid van onze marketingcampagnes te doorgronden en te verbeteren.
@@ -57,7 +57,7 @@ U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor
 
 * **Analyse en optimalisering**: Volg de instructies hierna om verzameling van persoonlijke gegevens over uw bezoeken aan Mozilla-websites te voorkomen:
     *  Google: Installeer de [add-on Google Analytics Opt-out Browser](https://tools.google.com/dlpage/gaoptout). Deze houd uw bezoeken anoniem en verbiedt gegevensverzendingen naar Google Analytics. Enkele Mozilla.org-pagina's maken gebruik van transparante GIF's voor communicatie met DoubleClick voor het in kaart brengen van de doeltreffendheid van onze reclamecampagnes. U kunt persoonlijk afgestemde advertenties van DoubleClick beheren in de advertentie-instellingen van Google (u wordt gevraagd om u aan te melden bij uw Google-account).
-    *  Optimizely: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) of bezoek [de website van Optimizely](https://www.optimizely.com/opt_out) voor meer informatie.
+    *  Convert.com: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: bezoek [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) om u uit te schrijven.
     *  ShareProgress: U kunt [Do Not Track in uw browser inschakelen](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

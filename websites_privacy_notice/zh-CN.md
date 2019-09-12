@@ -37,7 +37,7 @@
 
 * **指标**：我们还可能使用 cookie、设备信息和 IP 地址，以及网络信标、cookie 和第三方服务，帮助我们从整体上了解用户如何与我们的产品、服务、通信、网站、在线广告活动、片段、设备以及其他平台进行交互。我们使用：
     * Google Analytics，在您的设备上放置 cookie，以获取关于用户如何与我们的网站交互的指标。这可以帮助我们改善网站内容。
-    * Optimizely 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
+    * Convert.com 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
     * DoubleClick 和 Flashtalking，每个都在我们的下载 Firefox 页面使用网络信标。这可以帮助我们衡量广告活动的有效性。
     * Yahoo Dot Pixel，在我们的下载 Firefox 页面使用 JavaScript。这可以帮助我们衡量广告活动的有效性。 
     * HTTP Referral Data，可能包含在 Firefox 安装程序中，用于了解推荐您访问我们下载页面的网站域名或广告活动。这些信息可以帮助我们了解广告活动的有效性并进行改善。
@@ -57,7 +57,7 @@
 
 * **分析和优化**：请按照以下说明，阻止收集有关您访问 Mozilla 网站的数据：
     *  Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以使您的访问保持匿名，并禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标，与 DoubleClick 进行通信，以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
-    *  Optimizely：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/?optimizely_opt_out=true)或访问 [Optimizely 的选择退出网站](https://www.optimizely.com/opt_out)以了解详情。
+    *  Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。
     *  ShareProgress：您可以[在浏览器中开启“请勿跟踪”](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
 

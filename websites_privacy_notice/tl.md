@@ -37,7 +37,7 @@ Maaari kaming gumamit ng cookies, mga clear na GIF, third party web analytics, i
 
 * **Mga Sukatan**: Maaari din kaming gumamit ng cookies, impormasyon ng device at mga IP address, kasama ang mga clear na GIF, cookies at third party na serbisyo upang makatulong sa aming maunawaan sa pinagsama-samang data kung paano nakikipag-ugnayan ang mga user sa aming mga produkto, serbisyo, komunikasyon, website, online na kampanya, snippet, device, at iba pang platform. Gumagamit kami ng:
     * Google Analytics, na naglalagay ng cookie sa inyong device, upang makakuha ng mga sukatan kung paano nakikipag-ugnayan ang mga users sa aming mga website. Nakakatulong ito sa aming pahusayin ang content ng site.
-    * Optimizely at ShareProgress, na naglalagay ng cookie sa inyong device, upang makatulong sa aming sumubok ng mga variation ng web content. Nakakatulong ito sa aming mag-alok ng mas mahuhusay na karanasan sa web sa mga user.
+    * Convert.com at ShareProgress, na naglalagay ng cookie sa inyong device, upang makatulong sa aming sumubok ng mga variation ng web content. Nakakatulong ito sa aming mag-alok ng mas mahuhusay na karanasan sa web sa mga user.
     * DoubleClick at Flashtalking, na parehon gumagamit ng clear na GIF sa aming page na i-download ang Firefox. Nakakatulong ito sa aming sukatin ang bisa ng aming mga kampanya ng advertising.
     * Yahoo Dot Pixel, na gumagamit ng JavaScript sa aming page na i-download ang Firefox. Nakakatulong ito sa aming sukatin ang bisa ng aming mga kampanya ng advertising. 
     * HTTP Referral Data, na maaaring kasama sa installer ng Firefox, upang maunawaan ang domain ng website o kampanya ng advertising na nag-refer sa inyo sa aming page ng pag-download. Nakakatulong ito sa aming maunawaan ang bisa ng aming mga kampanya ng advertising at pahusayin ang mga ito.
@@ -57,7 +57,7 @@ Maaari ninyong kontrolin ang mga indibidwal na kagustuhan sa cookie, isaad sa ib
 
 * **Analytics at Pag-optimize**: Sundin ang mga tagubilin sa ibaba upang maiwasan ang pangongolekta ng data tungkol sa inyong mga pagbisita sa mga website ng Mozilla:
     *  Google: I-install ang [Add-on sa Browser na Mag-opt out sa Google Analytics](https://tools.google.com/dlpage/gaoptout), na nagpapanatili sa inyong mga pagbisita na anonymous at nagbabawal sa pagpapadala ng data sa Google Analytics. Gumagamit ang ilang page ng Mozilla.org ng mga clear na GIF na nakikipag-ugnayan sa DoubleClick upang maunawaan ang bisa ng aming mga kampanya sa advertising; makokontrol ninyo ang mga naka-personalize na ad mula sa DoubleClick sa mga setting ng ad ng Google (mapo-prompt kayong mag-sign in sa inyong Google Account).
-    *  Optimizely: [Mag-opt out sa www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) o bisitahin ang [website sa pag-opt out ng Optimizely](https://www.optimizely.com/opt_out) para sa higit pang impormasyon.
+    *  Convert.com: [Mag-opt out sa www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: bisitahin ang [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) para mag-opt out.
     *  ShareProgress: Magagawa ninyong [i-on ang Huwag Subaybayan sa inyong browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

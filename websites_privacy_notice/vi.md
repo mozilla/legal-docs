@@ -37,7 +37,7 @@ Chúng tôi có thể sử dụng cookie, tập tin chỉ báo, kết quả phâ
 
 * **Thông số**: Chúng tôi cũng có thể sử dụng cookie, thông tin thiết bị và địa chỉ IP, cũng như tập tin chỉ báo, cookie và dịch vụ thuộc bên thứ ba để giúp chúng tôi hiểu rõ một cách tổng thể về cách người dùng tương tác với các sản phẩm, dịch vụ, hệ thống liên lạc, trang web, chiến dịch trực tuyến, đoạn mã, thiết bị và các nền tảng khác của chúng tôi. Chúng tôi sử dụng:
     * Google Analytics, ứng dụng này chèn một cookie trên thiết bị của bạn để thu thập thông số về cách người dùng tương tác với các trang web của chúng tôi. Việc này giúp chúng tôi cải thiện nội dung trang web.
-    * Optimizely và ShareProgress, ứng dụng này chèn một cookie trên thiết bị của bạn để giúp chúng tôi kiểm tra những thay đổi của nội dung web. Việc này giúp chúng tôi cung cấp trải nghiệm web tốt hơn cho người dùng.
+    * Convert.com và ShareProgress, ứng dụng này chèn một cookie trên thiết bị của bạn để giúp chúng tôi kiểm tra những thay đổi của nội dung web. Việc này giúp chúng tôi cung cấp trải nghiệm web tốt hơn cho người dùng.
     * DoubleClick và Flashtalking, ứng dụng này sử dụng tập tin chỉ báo trên trang Firefox tải về của chúng tôi. Việc này giúp chúng tôi đo lường được tính hiệu quả của các chiến dịch quảng cáo.
     * Yahoo Dot Pixel, ứng dụng này sử dụng JavaScript trên trang Firefox tải về của chúng tôi. Việc này giúp chúng tôi đo lường được tính hiệu quả của các chiến dịch quảng cáo. 
     * HTTP Referral Data, ứng dụng này có thể được tích hợp với trình cài đặt của Firefox, để hiểu được tên miền trang web hoặc chiến dịch quảng cáo trong đó có hướng bạn đến trang tải về của chúng tôi. Thông tin này giúp chúng tôi hiểu rõ tính hiệu quả của các chiến dịch quảng cáo và cải thiện chúng.
@@ -57,7 +57,7 @@ Bạn có thể kiểm soát các tùy chọn cookie riêng, nêu rõ tùy chọ
 
 * **Phân tích & Tối ưu hóa**: Làm theo các hướng dẫn dưới đây để tránh thu thập dữ liệu về các lượt truy cập trang web Mozilla của bạn:
     *  Google: Cài đặt [Tiện ích trình duyệt web từ chối ứng dụng Google Analytics](https://tools.google.com/dlpage/gaoptout), theo đó sẽ coi các lượt truy cập của bạn là nặc danh và cấm gửi dữ liệu cho Google Analytics. Một số trang Mozilla.org sử dụng tập tin chỉ báo, theo đó, sẽ liên lạc với DoubleClick để hiểu rõ tính hiệu quả của các chiến dịch quảng cáo; bạn có thể kiểm soát các quảng cáo tùy chỉnh từ DoubleClick trong phần thiết lập quảng cáo của Google (bạn sẽ được nhắc đăng nhập vào Tài khoản Google).
-    *  Optimizely: [Từ chối trên www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) hoặc truy cập [trang web từ chối của Optimizely](https://www.optimizely.com/opt_out) để biết thêm thông tin.
+    *  Convert.com: [Từ chối trên www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo: truy cập [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) để từ chối.
     *  ShareProgress: Bạn có thể [bật Không theo dõi trong trình duyệt của mình](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 

@@ -37,7 +37,7 @@ Nous pouvons utiliser des cookies, pixels transparents ou invisibles (clear GIF)
 
 * **Statistiques** : Nous pouvons également utiliser des cookies, des informations sur les appareils et des adresses IP, de même que des pixels transparents ou invisibles (clear GIF), des cookies et des services tiers pour nous aider à comprendre globalement la façon dont les utilisateurs interagissent avec nos produits, services, communications, sites Web, campagnes en ligne, snippets, appareils et autres plates-formes. Nous utilisons :
     * Google Analytics, qui place un cookie sur votre appareil, pour obtenir des statistiques sur la façon dont les utilisateurs interagissent avec nos sites Web. Cela nous aide à améliorer le contenu du site.
-    * Optimizely et ShareProgress, qui placent un cookie sur votre appareil, pour nous aider à tester les variations du contenu Web. Cela nous aide à offrir de meilleures expériences Web aux utilisateurs.
+    * Convert.com et ShareProgress, qui placent un cookie sur votre appareil, pour nous aider à tester les variations du contenu Web. Cela nous aide à offrir de meilleures expériences Web aux utilisateurs.
     * DoubleClick et Flashtalking, qui utilisent un pixel transparent ou invisible (clear GIF) sur notre page de téléchargement Firefox. Cela nous aide à mesurer l'efficacité de nos campagnes publicitaires.
     * Yahoo Dot Pixel, qui utilise JavaScript sur notre page de téléchargement Firefox. Cela nous aide à mesurer l’efficacité de nos campagnes publicitaires. 
     * Données de référence HTTP, qui peuvent être incluses avec le programme d'installation de Firefox, pour comprendre le domaine du site Web ou la campagne publicitaire qui vous a renvoyé à notre page de téléchargement. Cette information nous aide à mesurer l'efficacité de nos campagnes publicitaires et à les améliorer.
@@ -57,7 +57,7 @@ Vous pouvez garder le contrôle sur vos préférences individuelles en matière 
 
 * **Analyse et optimisation** : Suivez les instructions ci-dessous pour empêcher la collecte de données concernant vos visites sur les sites Web Mozilla :
     *  Google : Installez le [module complémentaire Google Analytics Opt-out Browser](https://tools.google.com/dlpage/gaoptout), qui préserve l'anonymat des visites et interdit la transmission de données à Google Analytics. Certaines pages de Mozilla.org utilisent des pixels transparents ou invisibles (clear GIF), qui communiquent avec DoubleClick pour comprendre l'efficacité de nos campagnes publicitaires ; vous pouvez contrôler les annonces personnalisées de DoubleClick dans les paramètres publicitaires de Google (vous serez invité à vous connecter à votre compte Google).
-    *  Optimizely : [Désinscrivez-vous sur www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) ou rendez-vous sur le [site de désinscription d'Optimizely](https://www.optimizely.com/opt_out) pour plus d'informations.
+    *  Convert.com : [Désinscrivez-vous sur www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     *  Yahoo : visitez l'[outil de gestion des publicités basées sur les centres d'intérêts](https://aim.yahoo.com/aim/us/en/optout/) pour vous désinscrire.
     *  ShareProgress : Vous pouvez [activer l'option Ne pas me pister dans votre navigateur](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
