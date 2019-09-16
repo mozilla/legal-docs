@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Termos de serviço
 
-Última atualização em 12 de março de 2019
-{: datetime="2019-03-12" }
+Última atualização em terça-feira, 10 de setembro de 2019
+{: datetime="2019-09-10" }
 
 ## Resumo
 
@@ -32,13 +32,15 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     * Alertas de violações: Esses alertas avisam caso seu endereço de e-mail seja envolvido em uma violação de dados. 
     * Dicas de segurança: Você receberá dicas ocasionais de segurança on-line da Mozilla.
 
-    É nossa responsabilidade proteger suas contas on-line usando senhas fortes e diferentes, perguntas de segurança, autenticação de dois fatores, gerenciadores de senhas e outras medidas de segurança. Embora o Firefox Monitor e o [Have I Been Pwned?](https://haveibeenpwned.com/) tentam obter dados atuais, não é garantido que eles tenham registros completos e atuais de todas as violações públicas de dados. 
+    É sua responsabilidade proteger suas contas on-line usando senhas fortes e diferentes, perguntas de segurança, autenticação de dois fatores, gerenciadores de senhas e outras medidas de segurança. Embora o Firefox Monitor e o [Have I Been Pwned?](https://haveibeenpwned.com/) tentem obter dados atuais, não é garantido que eles tenham registros completos e atuais de todas as violações públicas de dados.
 
     (d) O Firefox Notes permite fazer anotações no Firefox. É necessário ter uma conta do Firefox para visualizar, editar e excluir suas notas em diferentes dispositivos.  
 
     (e) O Firefox Send permite enviar arquivos criptografados que expiram automaticamente. É necessário ter uma conta do Firefox para arquivos grandes.
 
     (f) O Firefox Sync permite acessar informações armazenadas no Firefox entre dispositivos, incluindo abas, a barra de endereços inteligente, senhas, favoritos e preferências do navegador. Você pode ativar e desativar o Firefox Sync na seção Ferramentas do Firefox. É necessário ter uma conta do Firefox. 
+    
+    (g) A Rede Privada do Firefox é um serviço de proxy que ajuda você a navegar com mais privacidade colocando um intermediário entre seu navegador Firefox e a internet para esconder seu endereço IP. É necessário ter uma conta do Firefox.
 
 4. #### Política de privacidade
 
@@ -49,6 +51,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots e Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Rede Privada do Firefox](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Comunicações
 
@@ -59,7 +62,7 @@ Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla
 
 6. #### Seu conteúdo em nossos Serviços
 
-    Você pode fazer upload de conteúdo como parte dos recursos dos Serviços. Ao fazer upload de conteúdo, você nos concede uma licença mundial, sem exclusividade e sem direitos autorais para usar seu conteúdo relativo à prestação dos Serviços. Por meio deste documento, você declara e garante que seu conteúdo não viola os direitos de qualquer terceiro e respeita quaisquer diretrizes de conteúdo apresentadas pela Mozilla. Veja [aqui](https://www.mozilla.org/about/legal/report-infringement/) como comunicar reclamações de violação de direitos autorais ou de marca registrada. Para comunicar abuso, envie-nos um link das capturas de tela por e-mail no endereço screenshots-report@mozilla.com.
+    Você pode fazer upload de conteúdo para a Mozilla como parte dos recursos dos Serviços. Ao fazer upload de conteúdo, você nos concede uma licença mundial, sem exclusividade e sem direitos autorais para usar seu conteúdo relativo à prestação dos Serviços. Por meio deste documento, você declara e garante que seu conteúdo não viola os direitos de qualquer terceiro e respeita quaisquer diretrizes de conteúdo apresentadas pela Mozilla. Veja [aqui](https://www.mozilla.org/about/legal/report-infringement/) como comunicar reclamações de violação de direitos autorais ou de marca registrada. Para comunicar abuso, envie-nos um link das capturas de tela por e-mail no endereço screenshots-report@mozilla.com.
 
 7. #### Direitos de propriedade da Mozilla
 
