@@ -1,7 +1,7 @@
 # Firefox クラウドサービス：利用規約
 
-最終更新　2019 年 3 月 12 日
-{: datetime="2019-03-12" }
+最終更新　2019 年 9 月 10 日
+{: datetime="2019-09-10" }
 
 ## 概要
 
@@ -39,6 +39,8 @@
     (e) Firefox Send を使用すると、有効期限が自動的に切れる暗号化ファイルを共有できます。サイズの大きなファイルには、Firefox アカウントが必要です。
 
     (f) Firefox Sync を使用すると、複数のデバイスから、タブ、ロケーションバー、パスワード、ブックマーク、ブラウザーの環境設定など、Firefox に保存されている情報にアクセスできます。Firefox Sync は、Firefox のツールセクションで有効と無効を切り替えることができます。Firefox アカウントが必要です。
+    
+    (g) Firefox Private Network は、ご利用の Firefox ブラウザーとインターネットの間で IP アドレスを難読化することで、皆様がよりプライベートな空間で閲覧できるようにお手伝いするプロキシサービスです。Firefox アカウントが必要です。
 
 4. #### プライバシーポリシー
 
@@ -49,6 +51,7 @@
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots および Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### コミュニケーション
 
@@ -58,7 +61,7 @@ Mozilla の連絡先情報：_Mozilla Corporation Attn:Mozilla – Legal Notices
 
 6. #### 本サービスのコンテンツ
 
-    本サービスの機能の一環として、皆様はコンテンツをアップロードできます。コンテンツをアップロードすることにより、皆様は Mozilla に、本サービスの提供に関連して当該コンテンツを使用する非排他的でロイヤリティフリー、かつワールドワイドなライセンスを許諾するものとします。皆様は、自身でアップロードしたコンテンツがいかなる第三者の権利も侵害していないこと、および Mozilla が公開しているコンテンツガイドラインに従っていることを表明し、保証するものとします。著作権または商標の侵害に関する報告については、[こちら](https://www.mozilla.org/about/legal/report-infringement/)をご覧ください。虐待的なスクリーンショットを報告する場合は、そのスクリーンショットへのリンクを screenshots-report@mozilla.com 宛にメールにてお送りください。
+    本サービスの機能の一環として、皆様はコンテンツを Mozilla にアップロードできます。コンテンツをアップロードすることにより、皆様は Mozilla に、本サービスの提供に関連して当該コンテンツを使用する非排他的でロイヤリティフリー、かつワールドワイドなライセンスを許諾するものとします。皆様は、自身でアップロードしたコンテンツがいかなる第三者の権利も侵害していないこと、および Mozilla が公開しているコンテンツガイドラインに従っていることを表明し、保証するものとします。著作権または商標の侵害に関する報告については、[こちら](https://www.mozilla.org/about/legal/report-infringement/)をご覧ください。虐待的なスクリーンショットを報告する場合は、そのスクリーンショットへのリンクを screenshots-report@mozilla.com 宛にメールにてお送りください。
 
 7. #### Mozilla の所有権
 
