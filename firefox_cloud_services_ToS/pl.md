@@ -1,7 +1,7 @@
 # Usługi Firefox Cloud Services: Warunki świadczenia usług
 
-Ostatnia aktualizacja: 12 marca 2019
-{: datetime="2019-03-12" }
+Ostatnia aktualizacja: 10 września 2019
+{: datetime="2019-09-10" }
 
 ## Streszczenie
 
@@ -32,13 +32,15 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
     * Alerty o wyciekach danych: Powiadomienie użytkownika, jeśli jego adres e-mail zostanie znaleziony w nowym wycieku danych. 
     * Wskazówki dotyczące bezpieczeństwa: Ta usługa umożliwia otrzymywanie od czasu do czasu porad w zakresie bezpieczeństwa korzystania z Internetu od firmy Mozilla.
 
-    Użytkownik ponosi odpowiedzialność w zakresie ochrony kont internetowych przez zastosowanie silnych, niepowtarzających się haseł, pytań zabezpieczających, uwierzytelniania dwuskładnikowego, menedżerów haseł i innych środków bezpieczeństwa. Mimo że operatorzy usługi Firefox Monitor i witryny [Have I Been Pwned?](https://haveibeenpwned.com/) dokładają wszelkich starań, aby zapewnić aktualność danych, nie ma gwarancji, że którekolwiek z tych źródeł będzie dysponować kompletnymi lub aktualnymi informacjami dotyczącymi wszystkich publicznych wycieków danych. 
+    Użytkownik ponosi odpowiedzialność w zakresie ochrony kont internetowych przez zastosowanie silnych, niepowtarzających się haseł, pytań zabezpieczających, uwierzytelniania dwuskładnikowego, menedżerów haseł i innych środków bezpieczeństwa. Mimo że operatorzy usługi Firefox Monitor i witryny [Have I Been Pwned?](https://haveibeenpwned.com/) dokładają wszelkich starań, aby zapewnić aktualność danych, nie ma gwarancji, że którekolwiek z tych źródeł będzie dysponować kompletnymi lub aktualnymi informacjami dotyczącymi wszystkich publicznych wycieków danych.
 
     (d) Funkcja Firefox Notes umożliwia zapisywanie notatek w przeglądarce Firefox. Do wyświetlania, edytowania i usuwania notatek na wielu urządzeniach jest wymagane konto Firefox.  
 
     (e) Funkcja Firefox Send umożliwia udostępnianie zaszyfrowanych, automatycznie wygasających plików. Do obsługi plików o dużym rozmiarze jest wymagane konto Firefox.
 
     (f) Funkcja Firefox Sync umożliwia dostęp do informacji zapisanych w przeglądarce Firefox, między innymi kart, dodatku awesome bar, haseł, zakładek i preferencji przeglądarki, za pośrednictwem wielu urządzeń. Funkcję Firefox Sync można włączać i wyłączać z poziomu sekcji Narzędzia w przeglądarce Firefox. Wymagane jest konto Firefox. 
+    
+    (g) Firefox Private Network to usługa proxy, która pomaga w bardziej prywatnym przeglądaniu poprzez umieszczenie pośrednika pomiędzy przeglądarką Firefox a Internetem w celu zaciemnienia adresu IP. Wymagane jest konto Firefox.
 
 4. #### Zasady prywatności
 
@@ -49,6 +51,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots i Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Komunikacja
 
@@ -59,7 +62,7 @@ Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporatio
 
 6. #### Zawartość użytkownika w naszych Usługach
 
-    Użytkownik może przekazywać zawartość w ramach korzystania z funkcji Usług. Przekazując zawartość, użytkownik udziela nam niewyłącznej, wolnej od opłat, ważnej na całym świecie licencji na użycie zawartości w kontekście świadczenia Usług. Użytkownik niniejszym oświadcza i gwarantuje, że jego zawartość nie narusza jakichkolwiek praw osób trzecich i zobowiązuje się do przestrzegania zaleceń firmy Mozilla w zakresie dopuszczalnej zawartości. W celu złożenia skargi w zakresie naruszenia praw autorskich lub praw dotyczących znaków towarowych należy przejść [tutaj](https://www.mozilla.org/about/legal/report-infringement/). Aby zgłosić szkodliwe zrzuty ekranu, należy przesłać nam łącze do nich pocztą e-mail na adres screenshots-report@mozilla.com.
+    Użytkownik może przekazywać zawartość do firmy Mozilla w ramach korzystania z funkcji Usług. Przekazując zawartość, użytkownik udziela nam niewyłącznej, wolnej od opłat, ważnej na całym świecie licencji na użycie zawartości w kontekście świadczenia Usług. Użytkownik niniejszym oświadcza i gwarantuje, że jego zawartość nie narusza jakichkolwiek praw osób trzecich i zobowiązuje się do przestrzegania zaleceń firmy Mozilla w zakresie dopuszczalnej zawartości. W celu złożenia skargi w zakresie naruszenia praw autorskich lub praw dotyczących znaków towarowych należy przejść [tutaj](https://www.mozilla.org/about/legal/report-infringement/). Aby zgłosić szkodliwe zrzuty ekranu, należy przesłać nam łącze do nich pocztą e-mail na adres screenshots-report@mozilla.com.
 
 7. #### Prawa własności firmy Mozilla
 
