@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Servicebedingungen
 
-Zuletzt aktualisiert am Mittwoch, 12. Juni 2019
-{: datetime="2019-06-04" }
+Zuletzt aktualisiert am Dienstag, 10. September 2019
+{: datetime="2019-09-10" }
 
 ## Zusammenfassung
 
@@ -34,13 +34,15 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     * Verletzungsbenachrichtigungen: Damit werden Sie benachrichtigt, wenn Ihre E-Mail-Adresse in einer neuen Datensicherheitsverletzung erscheint. 
     * Sicherheitstipps: Damit erhalten Sie gelegentlich Online-Sicherheitstipps von Mozilla.
 
-    Sie selbst sind dafür verantwortlich, Ihre Online-Konten mithilfe starker und unterschiedlicher Passwörter, Sicherheitsfragen, Zwei-Faktor-Authentifizierung, Passwortmanagern und anderer Sicherheitsmaßnahmen zu schützen. Obgleich Firefox Monitor und [Have I Been Pwned?](https://haveibeenpwned.com/) versuchen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlichen Datensicherheitsverletzungen führen. 
+    Sie selbst sind dafür verantwortlich, Ihre Online-Konten durch starke und unterschiedliche Passwörter, Sicherheitsfragen, Zwei-Faktor-Authentifizierung, Passwortmanager und andere Sicherheitsmaßnahmen zu schützen. Obgleich sich Firefox Monitor und [Have I Been Pwned?](https://haveibeenpwned.com/) bemühen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlichen Datensicherheitsverletzungen führen.
 
     (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Firefox-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen. 
 
     (e) Mit Firefox Send können Sie verschlüsselte Dateien senden, die automatisch nach bestimmter Zeit ablaufen. Für große Dateien ist ein Firefox-Konto erforderlich.
 
     (f) Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Extras“ von Firefox aktivieren und deaktivieren. Dazu ist ein Firefox-Konto erforderlich. 
+    
+    (g) Firefox Private Network ist ein Proxy-Service, mit dem Sie sich mit Ihrem Browser privater im Internet bewegen können, denn zwischen dem Firefox-Browser und dem Internet wird eine Zwischenstufe eingebaut, um Ihre IP-Adresse zu verbergen. Dazu ist ein Firefox-Konto erforderlich.
 
 4. #### Datenschutzerklärung
 
@@ -51,6 +53,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Kommunikation
 
@@ -63,7 +66,7 @@ Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla –
 
 6. #### Ihre Inhalte in unseren Services
 
-    Sie können im Rahmen der Funktionen unserer Services Inhalte hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie, weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Content-Richtlinien von Mozilla entsprechen. [Hier](https://www.mozilla.org/about/legal/report-infringement/) können Sie mögliche Verletzungen von Copyrights oder Marken melden. Um Screenshots-Missbrauch zu melden, senden Sie uns unter screenshots-report@mozilla.com einen Link zum jeweiligen Screenshot.
+    Sie können im Rahmen der Funktionen unserer Services Inhalte in Mozilla hochladen. Durch das Hochladen von Inhalten erteilen Sie uns eine nicht ausschließliche, gebührenfreie, weltweite Lizenz zur Nutzung Ihrer Inhalte in Verbindung mit der Bereitstellung der Services. Hiermit erklären und gewährleisten Sie, dass Ihre Inhalte nicht die Eigentumsrechte Dritter verletzen und dass sie den Content-Richtlinien von Mozilla entsprechen. [Hier](https://www.mozilla.org/about/legal/report-infringement/) können Sie mögliche Verletzungen von Copyrights oder Marken melden. Um Screenshots-Missbrauch zu melden, senden Sie uns unter screenshots-report@mozilla.com einen Link zum jeweiligen Screenshot.
 
 7. #### Eigentumsrechte von Mozilla
 
