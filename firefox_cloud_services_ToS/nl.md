@@ -1,7 +1,7 @@
 # Firefox-cloudservices: Servicevoorwaarden
 
-Laatst bij gewerkt op 12 maart 2019
-{: datetime="2019-03-12" }
+Laatst bij gewerkt op dinsdag 10 september 2019
+{: datetime="2019-09-10" }
 
 ## Overzicht
 
@@ -32,13 +32,15 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
     * Inbreukwaarschuwingen: U wordt gewaarschuwd als uw e-mailadres is opgenomen in een nieuwe gegevensinbreuk. 
     * Veiligheidstips: U ontvangt online veiligheidstips van Mozilla.
 
-    Het is uw verantwoordelijkheid om uw online accounts te beveiligen met sterke en verschillende wachtwoorden, beveiligingsvragen, tweestapsverificatie, wachtwoordbeheerprogramma's en andere veiligheidsmaatregelen. Hoewel Firefox Monitor en [Have I Been Pwned?](https://haveibeenpwned.com/) streven naar actuele informatie, is er geen garantie dat ze over volledige en tijdige informatie beschikken met betrekking tot alle openbare gegevensinbreuken. 
+    Het is uw verantwoordelijkheid om uw online accounts te beveiligen met sterke en verschillende wachtwoorden, beveiligingsvragen, tweestapsverificatie, wachtwoordbeheerprogramma's en andere veiligheidsmaatregelen. Hoewel Firefox Monitor en [Have I Been Pwned?](https://haveibeenpwned.com/) streven naar actuele informatie, is er geen garantie dat ze over volledige en tijdige informatie beschikken met betrekking tot alle openbare gegevensinbreuken.
 
     (d) Met Firefox Notes kunt u aantekeningen maken in Firefox. Er is een Firefox-account vereist voor het weergeven, bewerken en verwijderen van uw aantekeningen op apparaten.  
 
     (e) Met Firefox Send kunt u versleutelde bestanden delen die automatisch verlopen. Voor grote bestandsgrootten is een Firefox-account vereist.
 
     (f) Firefox Sync biedt u toegang tot informatie in meerdere apparaten die in Firefox is opgeslagen, waaronder uw tabbladen, werkbalk, wachtwoorden, bladwijzers en browservoorkeuren. U kunt Firefox Sync inschakelen of uitschakelen via de sectie Tools van Firefox. Er is een Firefox-account vereist. 
+    
+    (g) Firefox Private Network is een proxyservice die u helpt te surfen met meer privacy doordat er een intermediaire service wordt geplaatst tussen uw Firefox-browser en internet om uw IP adres te verbergen. Er is een Firefox-account vereist.
 
 4. #### Privacybeleid
 
@@ -49,6 +51,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots en Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Berichten
 
@@ -59,7 +62,7 @@ U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – L
 
 6. #### Uw inhoud in onze Services
 
-    U kunt inhoud uploaden als onderdeel van de functies van de Services. Als u inhoud uploadt, verleent u ons daardoor een niet-exclusieve, royaltyvrije, wereldwijde licentie voor het gebruik van uw inhoud in verband met het aanbieden van de Services. U geeft hierbij aan en garandeert dat uw inhoud geen inbreuk zal maken op welke rechten van derden dan ook en dat deze zal voldoen aan eventuele inhoudrichtlijnen van Mozilla. Klik [hier](https://www.mozilla.org/about/legal/report-infringement/) voor het melden van claims met betrekking tot inbreuken op auteursrechten of handelsmerken. Als u ongeoorloofde screenshots wilt melden, stuurt u ons per e-mail een koppeling naar de screenshot op screenshots-report@mozilla.com.
+    U kunt inhoud uploaden naar Mozilla als onderdeel van de functies van de Services. Als u inhoud uploadt, verleent u ons daardoor een niet-exclusieve, royaltyvrije, wereldwijde licentie voor het gebruik van uw inhoud in verband met het aanbieden van de Services. U geeft hierbij aan en garandeert dat uw inhoud geen inbreuk zal maken op welke rechten van derden dan ook en dat deze zal voldoen aan eventuele inhoudrichtlijnen van Mozilla. Klik [hier](https://www.mozilla.org/about/legal/report-infringement/) voor het melden van claims met betrekking tot inbreuken op auteursrechten of handelsmerken. Als u ongeoorloofde screenshots wilt melden, stuurt u ons per e-mail een koppeling naar de screenshot op screenshots-report@mozilla.com.
 
 7. #### Eigendomsrechten van Mozilla
 
