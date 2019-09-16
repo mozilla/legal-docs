@@ -1,7 +1,7 @@
 # Firefox Cloud Services：服务条款
 
-最后更新于 2019 年 3 月 12 日
-{: datetime="2019-03-12" }
+最后更新于 2019 年 9 月 10 日
+{: datetime="2019-09-10" }
 
 ## 摘要
 
@@ -39,6 +39,8 @@
     (e) Firefox Send 允许您共享自动过期的加密文件。必需具有 Firefox 帐户，才能处理大型文件。
 
     (f) Firefox Sync 允许您跨设备访问存储在 Firefox 中的信息，包括您的选项卡、智能地址栏、密码、书签和浏览器首选项。您可以通过 Firefox 的“工具”部分启用和禁用 Firefox Sync。必需具有 Firefox 帐户。
+    
+    (g) Firefox Private Network 是一种代理服务，可通过在 Firefox 浏览器和 Internet 之间放置中介以混淆您的 IP 地址，从而帮助您更私密地浏览内容。必需具有 Firefox 帐户。
 
 4. #### 隐私政策
 
@@ -49,6 +51,7 @@
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots 和 Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### 通信
 
@@ -58,7 +61,7 @@
 
 6. #### Services 中您的内容
 
-    您可能会上传内容作为 Services 功能的一部分。上传内容，即表示您授予我们根据 Services 规定使用您提供的内容的，非独占的、免版税的、全球性许可。您谨此确认并保证，您的内容不会侵犯任何第三方的权利并遵守 Mozilla 提出的任何内容准则。如需报告版权或商标侵权，请参见[此处](https://www.mozilla.org/about/legal/report-infringement/)。要报告滥用屏幕截图，请将屏幕截图链接发送至 screenshots-report@mozilla.com。
+    您可以将内容上传到 Mozilla 以作为 Services 功能的一部分。上传内容，即表示您授予我们根据 Services 规定使用您提供的内容的，非独占的、免版税的、全球性许可。您谨此确认并保证，您的内容不会侵犯任何第三方的权利并遵守 Mozilla 提出的任何内容准则。如需报告版权或商标侵权，请参见[此处](https://www.mozilla.org/about/legal/report-infringement/)。要报告滥用屏幕截图，请将屏幕截图链接发送至 screenshots-report@mozilla.com。
 
 7. #### Mozilla 的专有权利
 
