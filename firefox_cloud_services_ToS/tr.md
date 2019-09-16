@@ -1,7 +1,7 @@
 # Firefox Bulut Hizmetleri: Hizmet Koşulları
 
-Son Güncelleme: 12 Mart 2019
-{: datetime="2019-03-12" }
+Son Güncelleme: 10 Eylül 2019 Salı
+{: datetime="2019-09-10" }
 
 ## Özet
 
@@ -32,13 +32,15 @@ Son Güncelleme: 12 Mart 2019
     * İhlal Uyarıları: E-posta adresinizin yeni bir veri ihlalinde görüntülenmesi durumunda sizi bilgilendirir. 
     * Güvenlik İpuçları: Mozilla’dan muhtelif zamanlarda alacağınız çevrimiçi güvenlik ipuçlarını size gönderir.
 
-    Güçlü ve farklı şifreler, güvenlik soruları, iki adımda kimlik doğrulama, şifre yöneticileri ve diğer güvenlik tedbirleriyle çevrimiçi hesaplarınızı korumak, sizin sorumluluğunuzdadır. Firefox Monitor ve [Have I Been Pwned?](https://haveibeenpwned.com/) verileri güncel tutmaya çalışmakla birlikte, ikisinin de herkese açık veri ihlallerine ilişkin tam veya zamanında sunulan kayıtlara sahip olacağına yönelik bir garanti yoktur. 
+    Güçlü ve farklı şifreler, güvenlik soruları, iki adımda kimlik doğrulama, şifre yöneticileri ve diğer güvenlik tedbirleriyle çevrimiçi hesaplarınızı korumak, sizin sorumluluğunuzdadır. Firefox Monitor ve [Have I Been Pwned?](https://haveibeenpwned.com/) verileri güncel tutmaya çalışmakla birlikte, ikisinin de herkese açık veri ihlallerine ilişkin tam veya zamanında sunulan kayıtlara sahip olacağına yönelik bir garanti yoktur.
 
     (d) Firefox Notes, Firefox’ta not almanıza izin verir. Cihazlardaki Notlarınızı görüntülemek, düzenlemek ve silmek için bir Firefox Hesabı gereklidir.  
 
     (e) Firefox Send, otomatik olarak süresi dolan şifrelenmiş dosyalar paylaşmanıza izin verir. Büyük boyutlu dosyalar için bir Firefox Hesabı gereklidir.
 
     (f) Firefox Sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox Sync’i Firefox’un Araçlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Firefox Hesabı gereklidir. 
+    
+    (g) Firefox Özel Ağı, IP adresinizi gizlemek için Firefox tarayıcınızla internet arasına bir aracı yerleştirerek daha gizli gezinti deneyimi yaşamanızı sağlayan bir ara sunucu hizmetidir. Firefox Hesabı gereklidir.
 
 4. #### Gizlilik Politikası
 
@@ -49,6 +51,7 @@ Son Güncelleme: 12 Mart 2019
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots ve Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Özel Ağı](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### İletişimler
 
@@ -59,7 +62,7 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 
-    Hizmetler’in özellikleri kapsamında içerikler yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla bağlantılı olarak içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için [buraya](https://www.mozilla.org/about/legal/report-infringement/) bakın. İstismar niteliğindeki Ekran Görüntülerini bildirmek için screenshots-report@mozilla.com adresi üzerinden görüntüye ait bir bağlantıyı bize e-posta olarak gönderin.
+    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla bağlantılı olarak içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için [buraya](https://www.mozilla.org/about/legal/report-infringement/) bakın. İstismar niteliğindeki Ekran Görüntülerini bildirmek için screenshots-report@mozilla.com adresi üzerinden görüntüye ait bir bağlantıyı bize e-posta olarak gönderin.
 
 7. #### Mozilla'nın Mülkiyet Hakları
 
