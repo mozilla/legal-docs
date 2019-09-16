@@ -1,7 +1,7 @@
 # Layanan Awan Firefox: Ketentuan Layanan
 
-Terakhir Diperbarui 12 Maret 2019
-{: datetime="2019-03-12" }
+Terakhir Diperbarui 10 September 2019
+{: datetime="2019-09-10" }
 
 ## Rangkuman
 
@@ -32,13 +32,15 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     * Peringatan Pelanggaran: Peringatan ini memberi tahu Anda jika alamat email Anda muncul di pelanggaran data baru. 
     * Tips Keamanan: Mozilla terkadang mengirimkan tips keamanan online kepada Anda.
 
-    Anda bertanggung jawab untuk melindungi akun online dengan kata sandi yang kuat dan berbeda, pertanyaan keamanan, otentikasi dua faktor, pengelola kata sandi, dan tindakan keamanan lainnya. Meskipun Firefox Monitor dan [Have I Been Pwned?](https://haveibeenpwned.com/), berusaha untuk memiliki data terkini, tapi tidak ada jaminan bahwa catatan semua pelanggaran data publik yang dimilikinya lengkap atau aktual. 
+    Anda bertanggung jawab untuk melindungi akun online dengan kata sandi yang kuat dan berbeda, pertanyaan keamanan, otentikasi dua faktor, pengelola kata sandi, dan tindakan keamanan lainnya. Meskipun Firefox Monitor dan [Have I Been Pwned?](https://haveibeenpwned.com/) berusaha untuk memiliki data terkini, tapi tidak ada jaminan bahwa catatan semua pelanggaran data publik yang dimilikinya lengkap atau aktual.
 
     (d) Firefox Notes memungkinkan Anda untuk mencatat di Firefox. Akun Firefox diperlukan untuk melihat, mengedit, dan menghapus Catatan Anda di seluruh perangkat.  
 
     (e) Firefox Send memungkinkan Anda membagikan file terenkripsi yang kedaluwarsa secara otomatis. Diperlukan Akun Firefox untuk file ukuran besar.
 
     (f) Firefox Sync memungkinkan Anda mengakses informasi yang disimpan di Firefox melalui berbagai perangkat, termasuk tab, bilah pencarian, kata sandi, bookmark, dan preferensi peramban. Anda dapat mengaktifkan dan menonaktifkan Firefox Sync di bagian Alat Firefox. Diperlukan Akun Firefox. 
+    
+    (g) Firefox Private Network adalah layanan proxy yang membantu Anda menjelajah secara lebih pribadi dengan menempatkan perantara antara browser Firefox Anda dan internet untuk mengaburkan alamat IP Anda. Diperlukan Akun Firefox.
 
 4. #### Kebijakan Privasi
 
@@ -49,6 +51,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots dan Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Komunikasi
 
@@ -59,7 +62,7 @@ Anda dapat menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal N
 
 6. #### Konten Anda dalam Layanan Kami
 
-    Anda dapat mengunggah konten sebagai bagian dari fitur Layanan ini. Dengan mengunggah konten, berarti Anda memberi kami lisensi tidak khusus, bebas royalti, di seluruh dunia untuk menggunakan konten Anda sehubungan dengan penyediaan Layanan ini. Dengan ini Anda menyatakan dan menjamin bahwa konten Anda tidak akan melanggar hak pihak ketiga dan akan mematuhi semua pedoman konten yang diberikan Mozilla. Lihat [di sini](https://www.mozilla.org/about/legal/report-infringement/) untuk melaporkan klaim pelanggaran hak cipta atau merek dagang. Untuk melaporkan pengambilan Tangkapan Layar yang berlebihan, kirimkan tautan ke tangkapan itu melalui email di screenshots-report@mozilla.com.
+    Anda dapat mengunggah konten ke Mozilla sebagai bagian dari fitur Layanan ini. Dengan mengunggah konten, berarti Anda memberi kami lisensi tidak khusus, bebas royalti, di seluruh dunia untuk menggunakan konten Anda sehubungan dengan penyediaan Layanan ini. Dengan ini Anda menyatakan dan menjamin bahwa konten Anda tidak akan melanggar hak pihak ketiga dan akan mematuhi semua pedoman konten yang diberikan Mozilla. Lihat [di sini](https://www.mozilla.org/about/legal/report-infringement/) untuk melaporkan klaim pelanggaran hak cipta atau merek dagang. Untuk melaporkan pengambilan Tangkapan Layar yang berlebihan, kirimkan tautan ke tangkapan itu melalui email di screenshots-report@mozilla.com.
 
 7. #### Hak Kepemilikan Mozilla
 
