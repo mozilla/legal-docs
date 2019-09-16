@@ -1,7 +1,7 @@
 # Services cloud de Firefox : Conditions d’utilisation
 
-Dernière mise à jour le mercredi 12 juin 2019.
-{: datetime="2019-06-04" }
+Dernière mise à jour le mardi 10 septembre 2019.
+{: datetime="2019-09-10" }
 
 ## Résumé
 
@@ -41,6 +41,8 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
     (e) Firefox Send vous permet de partager des fichiers chiffrés expirant automatiquement. Un compte Firefox est requis pour les fichiers volumineux.
 
     (f) Firefox Sync vous permet d’accéder aux informations stockées dans Firefox sur tous les appareils, y compris vos onglets, la barre d’adresse, les mots de passe, marque-pages et préférences du navigateur. Vous pouvez activer et désactiver la fonction Firefox Sync dans la section Outils de Firefox. Un compte Firefox est requis.
+    
+    (g) Firefox Private Network est un service proxy qui vous aide à naviguer de manière plus privée en plaçant un intermédiaire entre votre navigateur Firefox et Internet pour brouiller (masquer) votre adresse IP. Un compte Firefox est requis.
 
 4. #### Politique de confidentialité
 
@@ -51,6 +53,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots et Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Communications
 
@@ -63,7 +66,7 @@ Vous pouvez contacter Mozilla à _Mozilla Corporation Attn: Mozilla – Legal No
 
 6. #### Vos contenus dans nos services
 
-    Vous pouvez « uploader » (envoyer en ligne) des contenus dans le cadre des fonctions des Services. De ce fait, en vertu des présentes, vous nous cédez une licence mondiale non exclusive et libre de redevance, pour l’utilisation de votre contenu dans le cadre de la fourniture des Services. Par les présentes, vous déclarez et garantissez que votre contenu ne viole les droits d’aucune tierce partie et respecte toutes les directives en matière de contenu indiquées par Mozilla. Cliquez [ici](https://www.mozilla.org/about/legal/report-infringement/) afin de signaler les réclamations pour violation des copyrights ou des marques de commerce. Pour signaler des captures d’écran abusives, envoyez-nous par courriel un lien vers la photo concernée à screenshots-report@mozilla.com.
+    Vous pouvez « uploader » (envoyer en ligne) vers Mozilla des contenus dans le cadre des fonctions des Services. De ce fait, en vertu des présentes, vous nous cédez une licence mondiale non exclusive et libre de redevance, pour l’utilisation de votre contenu dans le cadre de la fourniture des Services. Par les présentes, vous déclarez et garantissez que votre contenu ne viole les droits d’aucune tierce partie et respecte toutes les directives en matière de contenu indiquées par Mozilla. Cliquez [ici](https://www.mozilla.org/about/legal/report-infringement/) afin de signaler les réclamations pour violation des copyrights ou des marques de commerce. Pour signaler des captures d’écran abusives, envoyez-nous par email un lien vers la photo concernée à screenshots-report@mozilla.com.
 
 7. #### Droits de propriété de Mozilla
 
