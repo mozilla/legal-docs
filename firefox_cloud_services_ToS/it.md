@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Termini di servizio
 
-Ultimo aggiornamento martedì 12 marzo 2019
-{: datetime="2019-03-12" }
+Ultimo aggiornamento martedì 10 settembre 2019
+{: datetime="2019-09-10" }
 
 ## Riepilogo
 
@@ -32,13 +32,15 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
     * Avvisi di violazione – L'utente riceve una notifica nel caso il proprio indirizzo e-mail sia oggetto di una nuova violazione di dati. 
     * Suggerimenti di sicurezza – L'utente riceve occasionalmente suggerimenti di sicurezza online da Mozilla.
 
-    È responsabilità dell'utente proteggere i propri account online tramite password complesse e diversificate, domande di sicurezza, autenticazione a due fattori, gestori di password e altre misure di sicurezza. Nonostante Firefox Monitor e il servizio [Have I Been Pwned?](https://haveibeenpwned.com/) facciano il possibile per avere sempre dati aggiornati, non vi è alcuna garanzia che le informazioni di cui dispongono sulle violazioni pubbliche di dati siano complete e tempestive. 
+    È responsabilità dell'utente proteggere i propri account online tramite password complesse e diversificate, domande di sicurezza, autenticazione a due fattori, gestori di password e altre misure di sicurezza. Nonostante Firefox Monitor e il servizio [Have I Been Pwned?](https://haveibeenpwned.com/) facciano il possibile per avere sempre dati aggiornati, non vi è alcuna garanzia che le informazioni di cui dispongono sulle violazioni pubbliche di dati siano complete e tempestive.
 
     (d) Firefox Notes consente di prendere appunti in Firefox. È necessario un account Firefox per visualizzare, modificare ed eliminare le note dai vari dispositivi utilizzati.  
 
     (e) Firefox Send consente di condividere file crittografati che scadono automaticamente. Per file di grandi dimensioni è necessario un account Firefox.
 
     (f) Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, Awesome Bar, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Strumenti di Firefox. Per utilizzare questo servizio è richiesto un account Firefox. 
+    
+    (g) Firefox Private Network è un servizio proxy che ti aiuta a navigare in modo più riservato introducendo un intermediario tra il tuo browser Firefox e Internet, al fine di offuscare il tuo indirizzo IP. Per utilizzare questo servizio è richiesto un account Firefox.
 
 4. #### Informativa sulla privacy
 
@@ -49,6 +51,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots e Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Comunicazioni
 
@@ -59,7 +62,7 @@ Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal
 
 6. #### Contenuti dell'utente nei nostri Servizi
 
-    L'utente può caricare contenuti nell'ambito delle funzionalità offerte dai Servizi. Caricando tali contenuti, l'utente concede una licenza non esclusiva, gratuita e globale di utilizzo dei propri contenuti in connessione con la fornitura dei Servizi. L'utente dichiara e garantisce con la presente che i propri contenuti non violeranno i diritti altrui e saranno conformi alle linee guida sui contenuti di Mozilla. Per segnalare violazioni dei diritti di copyright o del marchio commerciale, vedere [qui](https://www.mozilla.org/about/legal/report-infringement/). Per segnalare schermate offensive, è possibile inviare un'e-mail con il link alla schermata a screenshots-report@mozilla.com.
+    L'utente può caricare contenuti in Mozilla nell'ambito delle funzionalità offerte dai Servizi. Caricando tali contenuti, l'utente concede una licenza non esclusiva, gratuita e globale di utilizzo dei propri contenuti in connessione con la fornitura dei Servizi. L'utente dichiara e garantisce con la presente che i propri contenuti non violeranno i diritti altrui e saranno conformi alle linee guida sui contenuti di Mozilla. Per segnalare violazioni dei diritti di copyright o del marchio commerciale, vedere [qui](https://www.mozilla.org/about/legal/report-infringement/). Per segnalare schermate offensive, è possibile inviare un'e-mail con il link alla schermata a screenshots-report@mozilla.com.
 
 7. #### Diritti di proprietà di Mozilla
 
