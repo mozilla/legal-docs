@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Condiciones del servicio
 
-Última actualización: 12 de marzo de 2019
-{: datetime="2019-03-12" }
+Última actualización: 10 de septiembre de 2019
+{: datetime="2019-09-10" }
 
 ## Resumen
 
@@ -32,13 +32,15 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     * Alertas de filtraciones: Estas le avisan cuando su dirección de correo electrónico aparezca en nuevas filtraciones de datos. 
     * Consejos de seguridad: Se trata de un servicio que le enviará puntualmente consejos relacionados con la seguridad online.
 
-    Usted es responsable de proteger sus cuentas online usando siempre contraseñas distintas y seguras, preguntas de seguridad, autenticación de dos factores, gestores de contraseñas y otras medidas de seguridad. Aunque Firefox Monitor y [Have I Been Pwned?](https://haveibeenpwned.com/) se esfuerzan por tener los datos más recientes, no se garantiza que estos servicios dispongan siempre de los registros completos de todas las fugas de datos conocidas públicamente. 
+    Usted es responsable de proteger sus cuentas online ussando contraseñas distintas y seguras, preguntas de seguridad, autenticación de dos factores, gestores de contraseñas y otras medidas de seguridad. Aunque Firefox Monitor y [Have I Been Pwned?](https://haveibeenpwned.com/) se esfuerzan por tener datos actualizados, no hay garantía de que ninguno de estos servicios tenga los registros completos de todas las vulneraciones de datos públicos en el momento oportuno.
 
     (d) Firefox Notes le permite tomar notas dentro de Firefox. Para ver, editar y eliminar sus Notas desde distintos dispositivos, deberá tener una cuenta de Firefox.
 
     (e) Firefox Send le permite compartir archivos cifrados que caducan de forma automática. Para enviar archivos de gran tamaño, deberá tener una Cuenta de Firefox.
 
     (f) Firefox Sync le permite acceder desde distintos dispositivos a la información almacenada en Firefox, incluidas las pestañas, la barra alucinante, las contraseñas, los marcadores y las preferencias del navegador. Puede habilitar y deshabilitar Firefox Sync en la sección Herramientas de Firefox. Este servicio requiere una cuenta de Firefox. 
+    
+    (g) Firefox Private Network es un servicio proxy que le ayuda a navegar de forma más privada colocando un intermediario entre su navegador de Firefox e Internet para ofuscar su dirección de IP. Este servicio requiere una cuenta de Firefox.
 
 4. #### Política de privacidad
 
@@ -49,6 +51,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
     * [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
 
 5. #### Comunicaciones
 
@@ -59,7 +62,7 @@ Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation 
 
 6. #### Su contenido en nuestros Servicios
 
-    Como parte de las funciones de los Servicios, usted puede cargar contenido. Al hacerlo, usted nos otorga una licencia no exclusiva, exenta de derechos y de ámbito internacional mediante la que podemos emplear su contenido en relación con la prestación de los Servicios. Por la presente, usted manifiesta y garantiza que el contenido que cargue no infringirá los derechos de terceros y que cumplirá las directrices de contenido de Mozilla. Haga clic [aquí](https://www.mozilla.org/about/legal/report-infringement/) para denunciar infracciones de derechos de autor o marca comercial. Para notificar Capturas de pantalla abusivas, envíenos un mensaje a screenshots-report@mozilla.com.
+    Usted puede cargar contenido a Mozilla como parte de las funciones de los Servicio. Al hacerlo, usted nos otorga permiso no exclusivo, exento de derechos y de ámbito internacional mediante el que podemos emplear su contenido en función de la prestación de los Servicios. Por la presente, usted manifiesta y garantiza que el contenido que cargue no infringirá los derechos de terceros y que cumplirá las directrices de contenido de Mozilla. Haga clic [aquí](https://www.mozilla.org/about/legal/report-infringement/) para denunciar infracciones de derechos de autor o marca comercial. Para notificar Capturas de pantalla abusivas, envíenos un mensaje a screenshots-report@mozilla.com.
 
 7. #### Derechos de propiedad intelectual de Mozilla
 
