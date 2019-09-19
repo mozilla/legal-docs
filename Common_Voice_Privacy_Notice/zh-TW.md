@@ -14,7 +14,7 @@ Mozilla（就是我們）收到您提出的資訊後，我們的 [Mozilla 隱私
 
 * **語音錄音**語音錄音及任何選擇提供之人口資料都會在 Common Voice 資料庫上按照 Creative Commons Zero 授權條款 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)) 提供給公眾消費及使用。
 
-* **文字**如果您提出書寫字句，則我們也得以將其在 Common Voice 資料庫內按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 提供給公眾使用（如果您提出書寫字句，則我們也得以將其在 Common Voice 資料庫內按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 提供給公眾使用，並以遵守我們所有範例之方式提供。我們不會將這些字句連結到您所提出的人口統計資料。），並以遵守我們所有範例之方式提供。我們不會將這些字句連結到您所提出的人口統計資料。
+* **文字**如果您提出書寫字句，則我們也得以將其在 Common Voice 資料庫內按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 提供給公眾使用，以符合我們提供的所有錄音片段。我們不會將這些字句與您的人口統計資料關聯起來。
 
 * **互動資料**我們會使用 Google Analytics，以便更了解您和 Common Voice 應用程式或網站之間互動的情形。舉例來說，我們可能會使用 cookie 追蹤無法辨識身分的資訊，如您錄製或聽取的語音範例數量、和按鈕及選單互動之方式、使用時間等。
 
