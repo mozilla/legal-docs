@@ -100,7 +100,7 @@ Lees [meer informatie](https://support.mozilla.org/kb/use-popular-search-suggest
 
 ### Firefox-accounts
 
-* __Firefox-accountgegevens__: Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u een Firefox-account aanmaakt. U kunt ervoor kiezen om een weergavenaam of profielafbeelding bj te voegen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, SalesForce Marketing Cloud. SalesForce Marketing Cloud heeft een eigen [privacybeleid](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Als u uw Firefox-account gebruikt om u bij andere websites of services (zoals AMO of Pocket) aan te melden, ontvangen we de tijdstempel van uw aanmelding bij die services. 
+* __Firefox-accountgegevens__: Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u een Firefox-account aanmaakt. U kunt ervoor kiezen om een weergavenaam of profielafbeelding bij te voegen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, SalesForce Marketing Cloud. SalesForce Marketing Cloud heeft een eigen [privacybeleid](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Als u uw Firefox-account gebruikt om u bij andere websites of services (zoals AMO of Pocket) aan te melden, ontvangen we de tijdstempel van uw aanmelding bij die services. 
 
 * __Locatiegegevens__: om beveiligingsredenen slaan we de IP-adressen op die u gebruikt om toegang te krijgen tot uw Firefox-account, zodat uw plaats en land bij benadering kunnen worden bepaald. We gebruiken deze gegevens om u e-mailmeldingen te sturen als we verdachte activiteiten detecteren, zoals accountaanmeldingen vanaf andere locaties.
 
@@ -126,13 +126,13 @@ Lees [meer informatie](https://support.mozilla.org/kb/how-do-i-set-sync-my-compu
 
 ### Firefox Screenshots {: #screenshots }
 
-* __Uploads van schermafbeeldingen__: schermafbeeldingen die u uploadt, worden naar Mozilla verzonden en gedurende een aangegeven beperkte periode bewaard. U kunt deze periode wijzigen. Mogelijk kunnen we schermafbeeldingen die u hebt geüpload openen wanneer dat redelijkerwijs noodzakelijk is voor de werking van de service. Schermafbeeldingen die u hebt geüpload, kunt op elk gewenst moment verwijderen.
+* __Uploads van schermafbeeldingen__: schermafbeeldingen die u uploadt, worden naar Mozilla verzonden en gedurende een aangegeven beperkte periode bewaard. U kunt deze periode wijzigen. Mogelijk kunnen we schermafbeeldingen die u hebt geüpload openen wanneer dat redelijkerwijs noodzakelijk is voor de werking van de service. Schermafbeeldingen die u hebt geüpload, kunt u op elk gewenst moment verwijderen.
 
 * __Interactiegegevens__: we ontvangen gegevens, zoals informatie over bezoeken aan de Firefox Screenshots-website, hoe vaak schermafbeeldingen die zijn geüpload worden geopend en door u met anderen worden gedeeld, en uw interactie met knoppen, tegels en muisbewegingen met betrekking tot het vastleggen van schermafbeeldingen.
 
     Voor bezoeken aan de Firefox Screenshots-website beschrijft onze [privacyverklaring voor websites](https://www.mozilla.org/privacy/websites/) de typen gegevens die we daarnaast kunnen verzamelen.
 
-* __Technische gegevens__: we ontvangen gegevens, zoals informatie over de gemiddelde grootte en het aantal schermafbeeldingen dat is geüpload, uw Firefox-browserversie, het besturingssysteem van uw apparaat en fouten. Het IP-adres dat voor de toegang tot de Firefox screenshots-website wordt gebruikt, wordt tijdelijk verzameld als onderdeel van ons standaardserverlogboek. 
+* __Technische gegevens__: we ontvangen gegevens, zoals informatie over de gemiddelde grootte en het aantal schermafbeeldingen dat is geüpload, uw Firefox-browserversie, het besturingssysteem van uw apparaat en fouten. Het IP-adres dat voor de toegang tot de Firefox Screenshots-website wordt gebruikt, wordt tijdelijk verzameld als onderdeel van ons standaardserverlogboek. 
 
 Raadpleeg de [volledige documentatie](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) of lees [meer informatie](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
