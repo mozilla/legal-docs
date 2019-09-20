@@ -1,6 +1,6 @@
 # Avis de confidentialité de Common Voice 
 
-En vigueur depuis le 30 novembre 2018 {: datetime="2018-11-30" }
+En vigueur à compter du 15 août 2019 {: datetime="2019-08-15" }
 
 ## Confidentialité
 
@@ -14,11 +14,11 @@ Lorsque Mozilla (nous) reçoit des informations vous concernant, notre [Politiqu
 
 * **Enregistrements vocaux.** Les enregistrements vocaux, ainsi que les données démographiques fournies, peuvent être disponibles dans la base de données de Common Voice à des fins d’utilisation par le public et sous licence Creative Commons ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
-* **Texte.** Si vous soumettez des phrases écrites, il est également possible que nous les rendions accessibles au public sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) depuis la base de données de Common Voice (si vous soumettez des phrases écrites, il est également possible que nous les rendions accessibles au public sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) depuis la base de données de Common Voice, conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données que vous soumettez), conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données démographiques que vous soumettez.
+* **Texte.** Si vous soumettez des phrases écrites, il est également possible que nous les rendions accessibles au public sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) depuis la base de données de Common Voice, conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données que vous soumettez), conformément à tous nos échantillons. Ces phrases ne seront pas associées aux données démographiques que vous soumettez.
 
 * **Données d’interaction.** Nous utilisons Google Analytics afin de mieux comprendre la façon dont vous interagissez avec l’application ou le site web de Common Voice. Par exemple, nous pouvons utiliser des cookies pour suivre des informations anonymisées, telles que le nombre d’échantillons de voix que vous enregistrez ou écoutez, vos interactions avec des boutons et des menus et la durée des sessions.
 
-* **Données techniques.** À l’aide de Google Analytics, nous collectons l’URL et le titre des pages de Common Voice que vous consultez. Afin d’améliorer constamment l’expérience Common Voice, nous recueillons des informations sur le type et la version du navigateur, la taille de la fenêtre d’affichage et la résolution de l’écran. Cela nous permet de comprendre l’interaction des utilisateurs avec Common Voice et ainsi de la perfectionner. Nous collectons également votre emplacement et les paramètres de langue de votre navigateur pour nous assurer que nous vous proposons une version adaptée.
+* **Données techniques.** Nous utilisons Google Analytics afin de mieux comprendre la façon dont vous interagissez avec l’application ou le site web de Common Voice. Par exemple, nous pouvons utiliser des cookies pour suivre des informations anonymisées, telles que le nombre d’échantillons de voix que vous enregistrez ou écoutez, vos interactions avec des boutons et des menus et la durée des sessions. Nous collectons également l’URL et le titre des pages de Common Voice que vous consultez. Afin d’améliorer constamment l’expérience Common Voice, nous recueillons des informations sur le type et la version du navigateur, la taille de la fenêtre d’affichage et la résolution de l’écran. Cela nous permet de comprendre l’interaction des utilisateurs avec Common Voice et ainsi de la perfectionner. Nous collectons également votre emplacement et les paramètres de langue de votre navigateur pour nous assurer que nous vous proposons une version adaptée. Si vous ne souhaitez pas transmettre d’informations à Google Analytics, vous pouvez installer le [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), qui arrête la transmission de données à Google Analytics. 
 
 [En savoir plus](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
 
