@@ -24,7 +24,7 @@
 
     (a) Сервис Firefox Screenshots позволяет сохранять контент веб-страниц, который может быть просмотрен позже вами или другими пользователями. 
     
-    (b) Сервис Firefox Lockbox позволяет получить доступ к паролям, сохраненным в Firefox на разных устройствах. Требуется аккаунт Firefox. 
+    (b) Сервис Firefox Lockwise позволяет получить доступ к паролям, сохраненным в Firefox на разных устройствах. Требуется аккаунт Firefox. 
 
     (c) Firefox Monitor - информационный сервис для продвижения мер по онлайн-безопасности и информирования пользователей о нарушениях  в отношении общедоступных данных. Вы можете проверить адреса электронной почты на нашем сайте, чтобы увидеть наиболее распространенные нарушения. Если вы подпишетесь с помощью аккаунта Firefox , вы получите: 
 
@@ -46,7 +46,7 @@
 
     Информация, полученная с помощью Сервисов, используется в соответствии с [Политикой конфиденциальности Mozilla](https://www.mozilla.org/privacy/). Наша Политика конфиденциальности описывает более подробно сведения, которые мы получаем через каждый сервис:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

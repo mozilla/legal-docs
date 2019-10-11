@@ -24,7 +24,7 @@ Son Güncelleme: 10 Eylül 2019 Salı
 
     (a) Firefox Screenshots, daha sonra siz veya başkaları tarafından görüntülenebilecek web sayfası içeriklerini yakalamanıza izin verir. 
     
-    (b) Firefox Lockbox, cihazlar genelinde Firefox’a kaydedilen şifrelere erişmenize izin verir. Firefox Hesabı gereklidir. 
+    (b) Firefox Lockwise, cihazlar genelinde Firefox’a kaydedilen şifrelere erişmenize izin verir. Firefox Hesabı gereklidir. 
 
     (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Firefox Hesabı ile kayıt yaptırırsanız, aşağıdakileri alırsınız: 
 
@@ -46,7 +46,7 @@ Son Güncelleme: 10 Eylül 2019 Salı
 
     Hizmetler aracılığıyla aldığımız bilgileri [Mozilla Gizlilik Politikamızda](https://www.mozilla.org/privacy/) açıklandığı şekilde kullanırız. Gizlilik Bildirimlerimiz, her bir hizmetten aldığımız verileri daha ayrıntılı olarak açıklar:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

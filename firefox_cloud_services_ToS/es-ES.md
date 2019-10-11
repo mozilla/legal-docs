@@ -24,7 +24,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
     (a) Firefox Screenshots le permite capturar contenido web para que usted y otros usuarios puedan verlo en otro momento. 
     
-    (b) Firefox Lockbox le permite acceder a sus contraseñas guardadas en Firefox desde todos sus dispositivos. Este servicio requiere una cuenta de Firefox.
+    (b) Firefox Lockwise le permite acceder a sus contraseñas guardadas en Firefox desde todos sus dispositivos. Este servicio requiere una cuenta de Firefox.
 
     (c) Firefox Monitor es un servicio informativo para promover la seguridad online informándole acerca de las infracciones relacionadas con los datos públicos. Puede consultar las direcciones de correo electrónico indicadas en nuestro sitio web para conocer las filtraciones más conocidas públicamente. Si se suscribe con una cuenta de Firefox, recibirá: 
 
@@ -46,7 +46,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
     Utilizamos la información que recibimos a través de los Servicios tal y como se describe en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/). Nuestros Avisos de privacidad especifican de forna detallada la información que recibimos de estos servicios:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

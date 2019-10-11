@@ -24,7 +24,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
     (a) Met Firefox Screenshots kunt u webpagina-inhoud vastleggen die door u of anderen kan worden bekeken. 
     
-    (b) Firefox Lockbox biedt u op meerdere apparaten toegang tot wachtwoorden die naar Firefox zijn opgeslagen. Er is een Firefox-account vereist. 
+    (b) Firefox Lockwise biedt u op meerdere apparaten toegang tot wachtwoorden die naar Firefox zijn opgeslagen. Er is een Firefox-account vereist. 
 
     (c) Firefox Monitor is een informatieve service voor het bevorderen van online veiligheid door u in kennis te stellen van openbare gegevensinbreuken. U kunt e-mailadressen op onze website scannen om de bekendste inbreuken te bekijken. Als u zich inschrijft met een Firefox-account, ontvangt u: 
 
@@ -46,7 +46,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
     We gebruiken de informatie die we ontvangen via de Services op de wijze die is beschreven in ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/). Onze Privacyverklaringen beschrijven op een uitgebreidere wijze de gegevens die we via de afzonderlijke services ontvangen:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

@@ -24,7 +24,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
     (a) Funkcja Firefox Screenshots umożliwia przechwytywanie zawartości strony internetowej w celu późniejszego wyświetlenia przez użytkownika lub inne osoby. 
     
-    (b) Funkcja Firefox Lockbox umożliwia uzyskiwanie dostępu do haseł zapisanych w przeglądarce Firefox na wielu urządzeniach. Wymagane jest konto Firefox. 
+    (b) Funkcja Firefox Lockwise umożliwia uzyskiwanie dostępu do haseł zapisanych w przeglądarce Firefox na wielu urządzeniach. Wymagane jest konto Firefox. 
 
     (c) Firefox Monitor to usługa informacyjna promująca bezpieczeństwo podczas korzystania z Internetu, która informuje użytkownika o publicznych wyciekach danych. Użytkownik może skanować adresy e-mail w naszej witrynie w celu wyświetlania informacji dotyczących najbardziej znanych, publicznych wycieków danych. Utworzenie subskrypcji za pomocą konta Firefox umożliwia dostęp do następującej zawartości: 
 
@@ -46,7 +46,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
     Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności Mozilla](https://www.mozilla.org/privacy/). Nasze zasady prywatności określają bardziej szczegółowo dane, które otrzymujemy z każdej usługi:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

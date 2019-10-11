@@ -24,7 +24,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
     (a) Firefox Screenshots memungkinkan Anda menangkap isi halaman web yang nantinya bisa dilihat Anda atau orang lain. 
     
-    (b) Firefox Lockbox memungkinkan Anda mengakses kata sandi yang disimpan ke Firefox melalui berbagai perangkat. Diperlukan Akun Firefox. 
+    (b) Firefox Lockwise memungkinkan Anda mengakses kata sandi yang disimpan ke Firefox melalui berbagai perangkat. Diperlukan Akun Firefox. 
 
     (c) Firefox Monitor adalah layanan informasi untuk mendukung keamanan online dengan memberi tahu Anda tentang pelanggaran data publik. Anda dapat memindai alamat email di situs web kami untuk melihat sebagian besar pelanggaran yang diketahui publik. Jika Anda berlangganan Akun Firefox, Anda akan menerima: 
 
@@ -46,7 +46,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
     Kami menggunakan informasi yang kami terima melalui dari Layanan seperti yang dijelaskan dalam [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami. Pemberitahuan Privasi kami menjelaskan data yang kami terima dari setiap layanan secara lebih rinci:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

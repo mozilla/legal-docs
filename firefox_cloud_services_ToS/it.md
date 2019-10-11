@@ -24,7 +24,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     (a) Firefox Screenshots consente di catturare il contenuto di una pagina web da visualizzare in un secondo momento. 
     
-    (b) Firefox Lockbox consente di accedere a password salvate in Firefox da diversi dispositivi. Per utilizzare questo servizio è richiesto un account Firefox. 
+    (b) Firefox Lockwise consente di accedere a password salvate in Firefox da diversi dispositivi. Per utilizzare questo servizio è richiesto un account Firefox. 
 
     (c) Firefox Monitor è un servizio informativo finalizzato a promuovere la sicurezza online tramite la diffusione di informazioni su violazioni pubbliche dei dati. È possibile eseguire la scansione di propri indirizzi e-mail sul nostro sito web per sapere se sono stati esposti a violazioni pubbliche conosciute. L'iscrizione con un account Firefox dà diritto a quanto segue: 
 
@@ -46,7 +46,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella[Politica sulla Privacy di Mozilla](https://www.mozilla.org/privacy/). Gli Avvisi sulla privacy descrivono più nel dettaglio i dati che riceviamo da ciascun servizio:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

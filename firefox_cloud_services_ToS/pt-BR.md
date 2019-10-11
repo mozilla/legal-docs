@@ -24,7 +24,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
     (a) As capturas de tela do Firefox permitem capturar conteúdo de páginas da internet para ser visualizado posteriormente por você ou outras pessoas. 
     
-    (b) O Firefox Lockbox permite acessar senhas salvas no Firefox em diferentes dispositivos. É necessário ter uma conta do Firefox. 
+    (b) O Firefox Lockwise permite acessar senhas salvas no Firefox em diferentes dispositivos. É necessário ter uma conta do Firefox. 
 
     (c) O Firefox Monitor é um serviço de informações que promove a segurança on-line ao informá-lo sobre violações de dados. É possível verificar endereços de e-mail no nosso site para ver as violações mais comuns. Se você se inscrever em uma conta do Firefox, receberá: 
 
@@ -46,7 +46,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
     Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/). Nossos Avisos de privacidade descrevem os dados que recebemos de cada serviço em mais detalhes:
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

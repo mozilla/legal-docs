@@ -24,7 +24,7 @@
 
     (a) Firefox Screenshots を使用すると、ウェブページのコンテンツをキャプチャすることで、後でご自分または他の人がそのコンテンツを見ることができます。
     
-	(b) Firefox Lockbox を使用すると、複数のデバイスから、Firefox に保存したパスワードにアクセスできます。Firefox アカウントが必要です。
+	(b) Firefox Lockwise を使用すると、複数のデバイスから、Firefox に保存したパスワードにアクセスできます。Firefox アカウントが必要です。
 
     (c) Firefox Monitor は、公共の場でのデータ漏洩を皆様にお知らせすることでオンライン上のセキュリティを強化する、情報提供サービスです。弊社ウェブサイトでメールアドレスをスキャンして、公に知られている違反を確認できます。Firefox アカウントを使って契約されている場合は、以下の情報が送られてきます。
 
@@ -46,7 +46,7 @@
 
     Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。弊社のプライバシーポリシーには、弊社が以下の各サービスから受け取るデータについての詳細が記載されています。
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
