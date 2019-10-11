@@ -24,7 +24,7 @@
 
     (a) Firefox Screenshots 允许您捕获网页内容，便于您本人或他人稍后查看。
     
-	(b) Firefox Lockbox 允许您访问不同设备保存到 Firefox 的密码。必需具有 Firefox 帐户。
+	(b) Firefox Lockwise 允许您访问不同设备保存到 Firefox 的密码。必需具有 Firefox 帐户。
 
     (c) Firefox Monitor 是一项信息服务，它会在发生公共数据泄露时发出通知，从而加强在线安全性。您可以扫描我们网站中的电子邮件地址，了解大部分公开泄露事件。如果使用 Firefox 帐户订阅服务，您将会获得：
 
@@ -46,7 +46,7 @@
 
     我们将根据 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)的规定使用通过 Services 接收的信息。隐私声明更详细地描述了我们通过各项服务接收的数据：
 
-    * [Firefox Lockbox](https://lockbox.firefox.com/privacy.html)
+    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
