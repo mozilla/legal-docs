@@ -48,7 +48,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/). Our Privacy Notices describe in more detail the data we receive from each service:
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal) 

@@ -46,7 +46,7 @@ Son Güncelleme: 10 Eylül 2019 Salı
 
     Hizmetler aracılığıyla aldığımız bilgileri [Mozilla Gizlilik Politikamızda](https://www.mozilla.org/privacy/) açıklandığı şekilde kullanırız. Gizlilik Bildirimlerimiz, her bir hizmetten aldığımız verileri daha ayrıntılı olarak açıklar:
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

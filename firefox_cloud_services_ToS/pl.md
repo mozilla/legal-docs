@@ -46,7 +46,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
     Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności Mozilla](https://www.mozilla.org/privacy/). Nasze zasady prywatności określają bardziej szczegółowo dane, które otrzymujemy z każdej usługi:
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

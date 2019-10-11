@@ -110,7 +110,7 @@ __Suchempfehlungen__: Firefox sendet Suchanfragen standardmäßig an Ihren Sucha
 
 Lesen Sie die vollständige Dokumentation oder erhalten Sie weitere Informationen, z. B. zur Verwaltung Ihrer Firefox-Kontodaten oder zu unseren Datenpraktiken für [Websites und E-Mail](https://www.mozilla.org/privacy/websites/). Sie können auch die Datenschutzhinweise zu den mit Ihrem Firefox-Konto verbundenen Services lesen. Dabei handelt es sich um: 
 
-* [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
 * [Firefox Send](http://send.firefox.com/legal)

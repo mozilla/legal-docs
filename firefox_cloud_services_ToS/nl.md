@@ -46,7 +46,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
     We gebruiken de informatie die we ontvangen via de Services op de wijze die is beschreven in ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/). Onze Privacyverklaringen beschrijven op een uitgebreidere wijze de gegevens die we via de afzonderlijke services ontvangen:
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

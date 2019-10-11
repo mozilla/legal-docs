@@ -46,7 +46,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
     Kami menggunakan informasi yang kami terima melalui dari Layanan seperti yang dijelaskan dalam [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami. Pemberitahuan Privasi kami menjelaskan data yang kami terima dari setiap layanan secara lebih rinci:
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

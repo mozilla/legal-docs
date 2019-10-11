@@ -46,7 +46,7 @@
 
     Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。弊社のプライバシーポリシーには、弊社が以下の各サービスから受け取るデータについての詳細が記載されています。
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)

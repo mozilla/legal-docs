@@ -110,7 +110,7 @@ __Suggestions de recherche__ : Firefox envoie par défaut les requêtes de rech
 
 Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et le courriel](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité pour nos services associés aux comptes Firefox, à savoir : 
 
-* [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
 * [Firefox Send](http://send.firefox.com/legal)

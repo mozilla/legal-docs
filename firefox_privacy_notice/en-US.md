@@ -110,7 +110,7 @@ __Search Suggestions__: Firefox by default sends search queries to your search p
 
 Read the full documentation or learn more, including how to manage your Firefox Account data or our data practices for [websites and email](https://www.mozilla.org/privacy/websites/).  You can also read the privacy notices for our Firefox Account connected services, which are: 
 
-* [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
 * [Firefox Send](http://send.firefox.com/legal)

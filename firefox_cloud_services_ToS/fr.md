@@ -48,7 +48,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
 
     Les informations que nous recevons via les Services sont utilisées conformément à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/). Nos avis de confidentialité offrent une description plus détaillée des données que nous recevons de chaque service :
 
-    * [Firefox Lockwise](https://support.mozilla.org/en-US/kb/firefox-lockwise-and-privacy)
+    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
     * [Firefox Send](http://send.firefox.com/legal)
