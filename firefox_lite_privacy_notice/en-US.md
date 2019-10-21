@@ -17,8 +17,6 @@ In this Privacy Notice, we explain what data Firefox Lite receives and shares an
 
 * __Technical data__: Firefox Lite sends data about your Firefox Lite version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Firefox Lite sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read detailed documentation for Firefox Lite here or turn off “Send Usage Data” in your Settings.
-
 Read detailed documentation for Firefox Lite [here](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) or turn off “Send Usage Data” in your Settings.
 {: #telemetry }
 
