@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
+# <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
 
 October 22, 2019
 {: datetime="2019-10-22" }
