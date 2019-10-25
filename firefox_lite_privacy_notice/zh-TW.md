@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隱私權公告</span>
+# <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隱私權公告</span>
 
 2019 年 10 月 22 日
 {: datetime="2019-10-22" }
