@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">गोपनीयता सूचना</span>
+# <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">गोपनीयता सूचना</span>
 
 22 अक्टूबर 2019
 {: datetime="2019-10-22" }
