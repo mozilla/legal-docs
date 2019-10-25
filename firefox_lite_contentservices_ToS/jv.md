@@ -1,4 +1,4 @@
-#Layanan Informasi Adhedhasar Web Firefox Lite
+# Layanan Informasi Adhedhasar Web Firefox Lite
 
 Firefox Lite nggunakake layanan informasi adhedhasar web (“Layanan”) kanggo nyediani fitur sing bisa panjenengan gunakake karo versi biner Lite miturut syarat-syarat sing dijelasake ing ngisor iki. 
 
