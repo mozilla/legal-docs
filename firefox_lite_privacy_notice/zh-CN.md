@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隐私声明</span>
+# <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隐私声明</span>
 
 2019 年 3 月 15 日
 {: datetime="2019-3-15" }
@@ -51,7 +51,7 @@ Firefox Lite会显示内容，例如热门网站（由Mozilla为Firefox Lite新�
     
 ### 位置 {: #location-services }
 
-* __发送定位数据到谷歌的地理位置服务__: 在确定您的位置并共享给请求的网站之前，Firefox Lite始终会询问（例如，当某个地图网站需要您的位置以提供路线指示时）。为了确定位置，Firefox Lite可能会使用您的操作系统的地理位置功能、Wi-Fi网络、手机信号塔或IP地址，并可能会将此数据发送给Google的地理定位服务，该服务有自己[的隐私政策](https://www.google.com/privacy/lsf.html).
+* __发送定位数据到谷歌的地理位置服务__: 在确定您的位置并共享给请求的网站之前，Firefox Lite始终会询问（例如，当某个地图网站需要您的位置以提供路线指示时）。为了确定位置，Firefox Lite可能会使用您的操作系统的地理位置功能、Wi-Fi网络、手机信号塔或IP地址，并可能会将此数据发送给Google的地理定位服务，该服务有自己的[隐私政策](https://www.google.com/privacy/lsf.html).
 
 [了解更多](https://www.mozilla.org/firefox/geolocation/).
 
