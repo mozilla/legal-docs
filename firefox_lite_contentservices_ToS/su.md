@@ -1,4 +1,4 @@
-#Layanan Inpormasi Tina Wéb Firefox Lite
+# Layanan Inpormasi Tina Wéb Firefox Lite
 
 Firefox Lite migunakeun jasa inpormasi tina web ("Layanan") pikeun nyadiakeun sababaraha fitur pikeun anjeun kalayan versi binér Lite ieu dina kaayaan anu dijelaskeun di handap. 
 
