@@ -1,6 +1,6 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
 
-*Yürürlük Tarihi: 10 Eylül 2019 *
+*Yürürlük tarihi: 10 Eylül 2019*
 {: datetime="2019-09-10" }
 
 ## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanıyoruz.
