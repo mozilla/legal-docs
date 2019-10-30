@@ -37,7 +37,7 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 
 * __Pocketからのおすすめのウェブページデータ__:あなたのブラウジング履歴に基づき、コンテンツを推奨します。表示するストーリーの決定プロセスは、Firefox が受信するブラウジング履歴のコピーでローカルに発生し、Mozilla および Pocket（Mozilla の系列会社）はいずれもブラウジング履歴のコピーを受信しません。Mozilla は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。このデータによって個人が特定されることはありません。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としており、クリックまたは閲覧した個人を特定するものではありません。
 
-* __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ（about:addons）と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendationss) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
+* __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ（about:addons）と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendations) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
 
 ### すべてのユーザーのためにセキュリティを強化する {: #security }
 
