@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective September 10, 2019*
-{: datetime="2019-09-10" }
+*Effective October 31, 2019*
+{: datetime="2019-10-31" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
