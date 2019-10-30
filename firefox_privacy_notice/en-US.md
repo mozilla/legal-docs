@@ -13,6 +13,10 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 ### Improve performance and stability for users everywhere {: #health-report } 
 
+**Webpage data to DNS Resolver service**: For some Firefox users in the United States, Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution.  [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
+
+**[Cloudflare](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/firefox/)**
+
 * __Interaction data__: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).  
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.  
