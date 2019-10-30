@@ -36,7 +36,7 @@ Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、�
 
 * __针对 Pocket 推荐的网页数据__：我们根据您的浏览历史记录向您推荐内容。关于您将看到哪些内容的决定过程在您本地的 Firefox 副本中进行，Mozilla 或 Pocket（Mozila 系列的成员）都不会收到您的浏览历史记录的副本。我们会收集有关您查看和点击的建议内容的汇总数据。此数据不会识别您的个人身份。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商了解点击其文章的人数，而不是点击或查看其文章的具体个人。
 
-* __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendationss)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
+* __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
 
 ### 为各地用户提高安全性 {: #security }
 
