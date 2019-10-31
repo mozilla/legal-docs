@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective September 10, 2019*
-{: datetime="2019-09-10" }
+*Effective October 31, 2019*
+{: datetime="2019-10-31" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -41,16 +41,20 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on
 
 ### Improve security for users everywhere {: #security }
 
-* __Technical data for updates__: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+**Webpage data to DNS Resolver service**: For some Firefox users in the United States, Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution.  [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
+
+**[Cloudflare](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/firefox/)**
+
+**Technical data for updates**: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
-* __Technical data for add-ons blocklist__: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). 
+**Technical data for add-ons blocklist**: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). 
 
-* __Webpage and technical data to Google’s SafeBrowsing service__: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from.  
+**Webpage and technical data to Google’s SafeBrowsing service**: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from.  
 
     [Learn more](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) or read [Google’s Privacy Policy](https://www.google.com/policies/privacy/). Opting out prevents Firefox from warning you of potentially illegitimate or malicious websites or downloaded files.
 
-* __Webpage and technical data to Certificate Authorities__: When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website.  
+**Webpage and technical data to Certificate Authorities**: When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website.  
 
     Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
