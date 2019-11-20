@@ -26,7 +26,7 @@ Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla 
 
 * __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of both the Top Sites and Content & Services content we suggest, as well as basic data about your interactions with the suggested content. This includes the number of times suggested content is displayed or clicked and time spent engaging with suggestions. 
 
-* __Content & Services__: The Firefox Lite Content & Services  is non-personalized localized news, games, deals and more offered by our partners in certain countries. In some cases, when you click on suggested content, we will notify the third-party content owner their content was found on Firefox Lite, but not who found it. See [here](https://support.mozilla.org/kb/life-feed-firefox-lite) for more details.
+* __Content & Services__: The Firefox Lite Content & Services  is non-personalized localized news, games, deals and more offered by our partners in certain countries. In some cases, when you click on suggested content, we will notify the third-party content owner their content was found on Firefox Lite, but not who found it. See [here](https://support.mozilla.org/kb/firefox-lite-content-and-services) for more details.
 
 * __Content data__: Some partners of suggested content send us aggregate metrics on the types of content people engage with, for example, shopping, sports or news, but Mozilla does not receive the identity of individuals who engage with the content.
 
