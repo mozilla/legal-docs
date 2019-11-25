@@ -17,7 +17,7 @@ In deze Privacyverklaring leggen we uit welke gegevens Firefox deelt en wijzen w
 
 * __Technische gegevens__: Firefox verzendt gegevens over uw Firefox-versie en taal, het besturingssysteem van uw apparaat en uw hardwareconfiguratie, geheugen, basisinformatie over crashes en fouten en over resultaten van geautomatiseerde processen, zoals SafeBrowsing en activering. Wanneer Firefox ons gegevens stuurt, wordt uw IP-adres tijdelijk verzameld als onderdeel van onze serverlogboeken.
 
-Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt uitschrijven van het verzamelen van deze gegevens op [desktops](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt uitschrijven van het verzamelen van deze gegevens op [desktops](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Een standaardzoekprovider instellen {: #defaultsearch }
@@ -25,7 +25,7 @@ Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozil
 * __Locatiegegevens__: wanneer u Firefox voor het eerst gebruikt, wordt uw IP-adres op basis van uw land gebruikt voor het instellen van uw standaardzoekprovider. [Meer informatie](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Voorgestelde relevante inhoud
- 
+
 Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), aanbevolen add-ons, Top Sites (door Mozilla voorgestelde websites voor gebruikers die Firefox voor het eerst gebruiken) en Pocket-aanbevelingen.
 
 * __Locatiegegevens__: Firefox gebruikt uw IP-adres om relevante inhoud voor te stellen op basis van uw land.
@@ -44,7 +44,7 @@ Firefox geeft inhoud weer, zoals Snippets (berichten van Mozilla), aanbevolen ad
 * __Technische gegevens voor updates__: desktopversies van Firefox controleren periodiek op browserupdates door verbinding te maken met Mozilla-servers. Gegevens over uw Firefox-versie, taal en het besturingssysteem van uw apparaat worden gebruikt om de juiste updates toe te passen. Mobiele versies van Firefox kunnen verbinding maken met een andere service als u deze hebt gebruikt voor het downloaden en installeren van Firefox. [Meer informatie](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_automatische-update-is-bezig-met-controleren).
 {: #auto-updates }
 
-* __Technische gegevens voor de lijst met geblokkeerde add-ons__: Firefox voor desktops en Android maken periodiek verbinding met Mozilla om u en anderen te beschermen tegen schadelijke add-ons. Gegevens over uw Firefox-versie en taal, het besturingssysteem van uw apparaat en de lijst met geïnstalleerde add-ons zijn nodig om de lijst met geblokkeerde add-ons toe te passen en bij be werken. [Meer informatie](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). 
+* __Technische gegevens voor de lijst met geblokkeerde add-ons__: Firefox voor desktops en Android maken periodiek verbinding met Mozilla om u en anderen te beschermen tegen schadelijke add-ons. Gegevens over uw Firefox-versie en taal, het besturingssysteem van uw apparaat en de lijst met geïnstalleerde add-ons zijn nodig om de lijst met geblokkeerde add-ons toe te passen en bij be werken. [Meer informatie](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
 
 * __Technische en webpaginagegevens naar de SafeBrowsing-service van Google__: Firefox verzendt basisinformatie over niet-herkende downloads naar de SafeBrowsing-service van Google, waaronder de bestandsnaam en de URL vanaf welke er is gedownload om u te beschermen tegen schadelijke downloads.
 
@@ -72,14 +72,14 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
     _Op desktop_: Firefox verzendt standaard HTTP-gegevens naar Mozilla die mogelijk in het installatieprogramma van Firefox zijn opgenomen. Met deze gegevens kunnen we bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-privacy) voordat u de installatie uitvoert.
 
-    _Bij iOS en Android_: Firefox verzendt standaard mobiele campagnegegevens naar Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/privacy_policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _Bij iOS en Android_: Firefox verzendt standaard mobiele campagnegegevens naar Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/privacy_policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
-* __Technische en interactiegegevens__: 
+* __Technische en interactiegegevens__:
 
     _Bij iOS en Android_: Firefox verzendt standaard gegevens over welke functies u in Firefox gebruikt naar Leanplum. Leanplum levert marketing voor mobiele apparaten en heeft een eigen [privacybeleid](https://www.leanplum.com/privacy/). Met deze gegevens kunnen we verschillende functies en ervaringen testen en aangepaste berichten en aanbevelingen aanbieden om de ervaring met Firefox te verbeteren.
 
-    Raadpleeg de documentatie van [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) of [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) of lees hoe u deze [functie uitschakelt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Raadpleeg de documentatie van [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) of [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) of lees hoe u deze [functie uitschakelt](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -100,7 +100,7 @@ Lees [meer informatie](https://support.mozilla.org/kb/use-popular-search-suggest
 
 ### Firefox-accounts
 
-* __Firefox-accountgegevens__: Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u een Firefox-account aanmaakt. U kunt ervoor kiezen om een weergavenaam of profielafbeelding bij te voegen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, SalesForce Marketing Cloud. SalesForce Marketing Cloud heeft een eigen [privacybeleid](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Als u uw Firefox-account gebruikt om u bij andere websites of services (zoals AMO of Pocket) aan te melden, ontvangen we de tijdstempel van uw aanmelding bij die services. 
+* __Firefox-accountgegevens__: Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u een Firefox-account aanmaakt. U kunt ervoor kiezen om een weergavenaam of profielafbeelding bij te voegen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, SalesForce Marketing Cloud. SalesForce Marketing Cloud heeft een eigen [privacybeleid](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Als u uw Firefox-account gebruikt om u bij andere websites of services (zoals AMO of Pocket) aan te melden, ontvangen we de tijdstempel van uw aanmelding bij die services.
 
 * __Locatiegegevens__: om beveiligingsredenen slaan we de IP-adressen op die u gebruikt om toegang te krijgen tot uw Firefox-account, zodat uw plaats en land bij benadering kunnen worden bepaald. We gebruiken deze gegevens om u e-mailmeldingen te sturen als we verdachte activiteiten detecteren, zoals accountaanmeldingen vanaf andere locaties.
 
@@ -113,7 +113,7 @@ Raadpleeg de [volledige documentatie](https://github.com/mozilla/fxa-auth-server
 ### Sync {: #sync }
 
 * __Gesynchroniseerde gegevens__: als u de synchronisatie-optie instelt, ontvangt Mozilla de informatie die u via apparaten synchroniseert in versleutelde vorm. Deze informatie heeft mogelijk betrekking op Firefox-tabbladen, add-ons, wachtwoorden, betalingsinformatie die automatisch wordt ingevuld, bladwijzers, uw geschiedenis en voorkeuren. Als u uw Firefox-account verwijdert, wordt ook de verwante synchronisatie-inhoud verwijderd. U kunt daarnaast de [documentatie](https://moz-services-docs.readthedocs.io/en/latest/sync/) lezen.
-  
+
 * __Technische en interactiegegevens__: als u synchronisatie hebt ingeschakeld, verzendt Firefox periodiek basisinformatie met telemetrie over uw meest recente poging om uw gegevens te synchroniseren, zoals wanneer de synchronisatie is uitgevoerd of mislukt en welk type apparaat probeert te synchroniseren. U kunt daarnaast de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) lezen.
 
 Lees [meer informatie](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), waaronder informatie over hoe u synchronisatie kunt inschakelen of uitschakelen.
@@ -132,13 +132,13 @@ Lees [meer informatie](https://support.mozilla.org/kb/how-do-i-set-sync-my-compu
 
     Voor bezoeken aan de Firefox Screenshots-website beschrijft onze [privacyverklaring voor websites](https://www.mozilla.org/privacy/websites/) de typen gegevens die we daarnaast kunnen verzamelen.
 
-* __Technische gegevens__: we ontvangen gegevens, zoals informatie over de gemiddelde grootte en het aantal schermafbeeldingen dat is geüpload, uw Firefox-browserversie, het besturingssysteem van uw apparaat en fouten. Het IP-adres dat voor de toegang tot de Firefox Screenshots-website wordt gebruikt, wordt tijdelijk verzameld als onderdeel van ons standaardserverlogboek. 
+* __Technische gegevens__: we ontvangen gegevens, zoals informatie over de gemiddelde grootte en het aantal schermafbeeldingen dat is geüpload, uw Firefox-browserversie, het besturingssysteem van uw apparaat en fouten. Het IP-adres dat voor de toegang tot de Firefox Screenshots-website wordt gebruikt, wordt tijdelijk verzameld als onderdeel van ons standaardserverlogboek.
 
 Raadpleeg de [volledige documentatie](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) of lees [meer informatie](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
 ### Notificaties van websites {: #push-notifications }
 
-* __Verbindingsgegevens__: als u een website toestaat om notificaties te verzenden, maakt Firefox verbinding met Mozilla en wordt uw IP-adres gebruikt om het bericht door te geven. Mozilla heeft geen toegang tot de inhoud van berichten. 
+* __Verbindingsgegevens__: als u een website toestaat om notificaties te verzenden, maakt Firefox verbinding met Mozilla en wordt uw IP-adres gebruikt om het bericht door te geven. Mozilla heeft geen toegang tot de inhoud van berichten.
 
 * __Interactiegegevens__: we ontvangen samengevoegde gegevens, zoals het aantal Firefox-abonnementen en opzeggingen van abonnementen op notificaties van websites, het aantal verzonden berichten, de tijdstempel en afzenders (die mogelijk specifieke websiteproviders kunnen bevatten).
 
@@ -147,7 +147,7 @@ Raadpleeg de [volledige documentatie](https://mozilla-push-service.readthedocs.i
 ### Add-ons {: #addons }
 
 U kunt add-ons installeren vanaf addons.mozilla.org (AMO) of vanuit de optie voor add-onbeheer in Firefox. Deze is toegankelijk via de Firefox-menuknop op de werkbalk.
- 
+
 * __Zoekquery’s__: zoekquery’s via de functie voor add-onbeheer worden verzonden aan Mozilla, zodat u voorgestelde add-ons kunnen worden aangeboden.
 
 * __Interactiegegevens__: we ontvangen samengevoegde gegevens over bezoeken aan de AMO-website en de functie voor add-onbeheer in Firefox, evenals over uw interactie met inhoud op deze pagina’s. Lees meer over onze gegevensprocedures op de [Mozilla-websites](https://www.mozilla.org/privacy/websites/).

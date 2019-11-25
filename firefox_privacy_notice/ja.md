@@ -17,7 +17,7 @@
 
 * __技術情報__: Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
-[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html)、または[iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を[デスクトップ](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)や[モバイル](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)でオプトアウトする方法についてご覧ください。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html)、または[iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を[デスクトップ](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)や[モバイル](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)でオプトアウトする方法についてご覧ください。
 {: #telemetry }
 
 ### 既定の検索プロバイダーを設定する {: #defaultsearch }
@@ -72,14 +72,14 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 
     _デスクトップの場合_: Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みください。または、インストールの前に [オプトアウト](https://support.mozilla.org/kb/desktop-privacy) してください。
 
-    _iOS および Android の場合_: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/privacy_policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html) をお読みください。
+    _iOS および Android の場合_: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/privacy_policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) をお読みください。
 {: #thirdparty }
 
 * __技術・インタラクションデータ__:
 
     _iOS および Android の場合_: Firefox は初期設定で、あなたが Firefox で使用した機能に関するデータを、Mozilla のモバイルマーケティングベンダーである Leanplum に送信します。このベンダーには、独自の [プライバシーポリシー](https://www.leanplum.com/privacy/) があります。このデータにより、Mozilla は様々な機能や体験をテストしたり、カスタマイズしたメッセージや推薦事項を提供したりして、あなたの Firefox の使い心地を改善できるようになります。
 
-    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 用または [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 用のドキュメントをお読みください。この機能を無効にする方法については [こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください。
+    [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 用または [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) 用のドキュメントをお読みください。この機能を無効にする方法については [こちら](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)をご覧ください。
 
 ---
 

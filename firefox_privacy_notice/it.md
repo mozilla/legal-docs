@@ -17,7 +17,7 @@ In questo Avviso sulla privacy illustreremo quali sono i dati che Firefox condiv
 
 * __Dati tecnici__: Firefox ci invia dati sulla versione di Firefox e sulla lingua usata; sul sistema operativo del dispositivo e sulla configurazione hardware, sulla memoria, su informazioni di base su arresti anomali ed errori; sul risultato di processi automatici quali aggiornamenti, servizio di safebrowing e attivazione. Quando Firefox ci invia i dati, il vostro indirizzo IP viene temporaneamente raccolto quale parte dei log del nostro server.
 
-Leggi la documentazione relativa alla telemetria per dispositivi [desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), oppure scopri come rifiutare questa raccolta di dati su dispositivi [desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e [mobili](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Leggi la documentazione relativa alla telemetria per dispositivi [desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), oppure scopri come rifiutare questa raccolta di dati su dispositivi [desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e [mobili](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Impostare un fornitore di servizi di ricerca predefinito {: #defaultsearch }
@@ -25,7 +25,7 @@ Leggi la documentazione relativa alla telemetria per dispositivi [desktop](https
 * __Dati sulla posizione__: quando usate Firefox per la prima volta, il motore di ricerca userà il vostro indirizzo IP per impostare il fornitore di servizi di ricerca predefinito in base al vostro Paese. [Ulteriori informazioni](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Suggerimenti di contenuti rilevanti
- 
+
 Firefox visualizza contenuti, come "frammenti di codice" (messaggi da Mozilla), componenti aggiuntivi consigliati, siti principali (siti Web proposti da Mozilla ai nuovi utenti di Firefox) e contenuti consigliati di Pocket.
 
 * __Dati sulla posizione__: Firefox usa il vostro indirizzo IP per suggerire contenuti rilevanti in base al vostro Paese.
@@ -72,14 +72,14 @@ La documentazione completa è disponibile in [questa pagina](https://firefox-sou
 
   _Su desktop_: per impostazione predefinita, Firefox invia dati a Mozilla tramite HTTP che potrebbero essere inclusi nell’installer di Firefox. Questo ci consente di determinare il dominio o la campagna pubblicitaria del sito web (se esistenti) che conduce alla nostra pagina di download. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oppure [eseguire l’opt-out](https://support.mozilla.org/kb/desktop-privacy) prima dell’installazione.
 
-  _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di dati analytics, che ha la propria [informativa sulla privacy](https://www.adjust.com/privacy_policy/). I dati per le campagne mobili includono: ID pubblicità Google, indirizzo IP, timestamp, Paese, lingua/impostazioni locali, sistema operativo e versione dell’app. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+  _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di dati analytics, che ha la propria [informativa sulla privacy](https://www.adjust.com/privacy_policy/). I dati per le campagne mobili includono: ID pubblicità Google, indirizzo IP, timestamp, Paese, lingua/impostazioni locali, sistema operativo e versione dell’app. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Dati tecnici e di interazione__:
 
   _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle funzioni usate in Firefox a Leanplum, il nostro fornitore di mobile marketing, che ha la propria [informativa sulla privacy](https://www.leanplum.com/privacy/). Questi dati ci consentono di eseguire test su diverse funzioni ed esperienze, nonché di fornire messaggi e consigli personalizzati per migliorare la vostra esperienza di Firefox.
 
-  Consultare la documentazione per [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) o [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), oppure scoprire come [disattivare questa funzione](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+  Consultare la documentazione per [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) o [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html), oppure scoprire come [disattivare questa funzione](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
