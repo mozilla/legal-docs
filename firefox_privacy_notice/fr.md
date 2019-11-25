@@ -17,7 +17,7 @@ Dans cette Politique de confidentialité, nous expliquons quelles données Firef
 
 * __Données techniques__ : Firefox nous envoie des données à propos de la version et de la langue de votre Firefox, du système d’exploitation de votre appareil et sa configuration matérielle, de la mémoire, des informations de base sur les plantages et les erreurs, le résultat de processus automatiques comme les mises à jour, le blocage de sites malveillants et l’activation. Lorsque Firefox nous envoie des données, votre adresse IP est temporairement collectée dans les fichiers journaux de nos serveurs.
 
-Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), ou apprenez comment refuser cette collecte de données sur un [ordinateur de bureau](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) et un [appareil mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), ou apprenez comment refuser cette collecte de données sur un [ordinateur de bureau](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) et un [appareil mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Définir un prestataire de recherche par défaut {: #defaultsearch }
@@ -25,7 +25,7 @@ Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-sourc
 * __Données de géolocalisation__ : lors de votre première utilisation de Firefox, celui-ci se base sur votre adresse IP pour définir votre moteur de recherche par défaut en fonction de votre pays. [En savoir plus](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Suggérer un contenu pertinent
- 
+
 Firefox affiche des contenus tels que : « Snippets » (messages de Mozilla), Recommandations de modules complémentaires, Sites principaux (sites Web suggérés par Mozilla pour les nouveaux utilisateurs de Firefox), et Recommandations Pocket.
 
 * __Données de géolocalisation__ : Firefox se sert de votre adresse IP pour vous suggérer du contenu pertinent en fonction de votre pays.
@@ -72,14 +72,14 @@ Vous pouvez [lire la documentation complète](https://firefox-source-docs.mozill
 
     _Sur ordinateur_ : par défaut, Firefox envoie des données HTTP à Mozilla, qui peuvent être incluses dans le programme d’installation de Firefox. Cela nous permet de déterminer le domaine du site web ou la campagne publicitaire (le cas échéant) qui vous a dirigé vers notre page de téléchargement. Lisez la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [retirez-vous](https://support.mozilla.org/kb/desktop-privacy) avant l’installation.
 
-    _Sur iOS et Android_ : par défaut, Firefox envoie des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/privacy_policy/). Les données de campagnes mobiles incluent ce qui suit : ID de publicité Google, adresse IP, horodatage, pays/langue, système d’exploitation et version de l’application. Vous pouvez consulter la [documentation](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _Sur iOS et Android_ : par défaut, Firefox envoie des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/privacy_policy/). Les données de campagnes mobiles incluent ce qui suit : ID de publicité Google, adresse IP, horodatage, pays/langue, système d’exploitation et version de l’application. Vous pouvez consulter la [documentation](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Données techniques et d’interaction__ :
 
     _Sur iOS et Android_ : par défaut, Firefox envoie des données relatives aux fonctionnalités que vous utilisez dans Firefox à Leanplum, notre prestataire de marketing mobile, qui dispose de sa propre [politique de confidentialité](https://www.leanplum.com/privacy/).  Ces données nous permettent de tester différentes fonctionnalités et expériences, et de proposer des messages et des recommandations personnalisés pour améliorer la façon dont vous utilisez Firefox.
 
-    Lisez la documentation sur [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), ou apprenez à [désactiver cette fonctionnalité](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Lisez la documentation sur [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html), ou apprenez à [désactiver cette fonctionnalité](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -98,17 +98,17 @@ __Suggestions de recherche__ : Firefox envoie par défaut les requêtes de rech
 
 [En savoir plus](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), notamment sur la désactivation de cette fonctionnalité.
 
-### Comptes Firefox & Rejoignez Firefox 
+### Comptes Firefox & Rejoignez Firefox
 
-* __Données d’inscription__ : Mozilla reçoit votre adresse électronique et un hash de votre mot de passe lorsque vous créez un compte Firefox ou que vous vous inscrivez pour rejoindre Firefox. Vous pouvez choisir d’inclure un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, SalesForce Marketing Cloud, qui dispose de sa propre [politique de confidentialité](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). 
+* __Données d’inscription__ : Mozilla reçoit votre adresse électronique et un hash de votre mot de passe lorsque vous créez un compte Firefox ou que vous vous inscrivez pour rejoindre Firefox. Vous pouvez choisir d’inclure un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, SalesForce Marketing Cloud, qui dispose de sa propre [politique de confidentialité](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/).
 
 * __Données de localisation__ : Pour des raisons de sécurité, nous conservons les adresses IP utilisées pour accéder à votre compte Firefox afin d’identifier approximativement votre ville et votre pays. Nous utilisons ces données pour vous envoyer des alertes par courriel si nous détectons des activités suspectes, telles que des connexions à votre compte à partir d’autres endroits.
 
 * __Données d’interaction__ : Nous recevons des données telles que vos visites sur le site Web, les tableaux de bord et les préférences de menu de votre compte Firefox, les produits et services que vous utilisez en relation avec votre compte Firefox, et vos interactions avec nos courriels et messages SMS. Nous utilisons ces données pour comprendre comment vous utilisez nos produits et services et pour vous envoyer des messages dans les produits et d’autres conseils utiles pour votre compte Firefox.
 
-* __Données techniques__ : Pour afficher les appareils synchronisés avec votre compte Firefox et pour des raisons de sécurité, nous stockons le système d’exploitation, le navigateur et sa version, l’horodatage, la langue, ainsi que les mêmes informations pour les appareils connectés à votre compte. Si vous utilisez votre compte Firefox pour vous connecter à d’autres sites Web ou services (tels que AMO ou Pocket), nous recevons l’horodatage de ces connexions. 
+* __Données techniques__ : Pour afficher les appareils synchronisés avec votre compte Firefox et pour des raisons de sécurité, nous stockons le système d’exploitation, le navigateur et sa version, l’horodatage, la langue, ainsi que les mêmes informations pour les appareils connectés à votre compte. Si vous utilisez votre compte Firefox pour vous connecter à d’autres sites Web ou services (tels que AMO ou Pocket), nous recevons l’horodatage de ces connexions.
 
-Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et le courriel](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité pour nos services associés aux comptes Firefox, à savoir : 
+Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et le courriel](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité pour nos services associés aux comptes Firefox, à savoir :
 
 * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)

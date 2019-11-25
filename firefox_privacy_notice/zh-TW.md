@@ -17,7 +17,7 @@
 
 * __技術資料__：Firefox 會傳送您的 Firefox 版本及語言、裝置作業系統及硬體配置、發生錯誤時的記憶體及基本資訊、更新、安全瀏覽、啟用等自動化程序執行的結果等資料給我們。Firefox 將資料傳送給我們的時候，我們也會暫時收集您的 IP 地址，列在我們伺服器的紀錄內。
 
-請閱讀 Telemetry 功能的說明文件：[桌機版](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
+請閱讀 Telemetry 功能的說明文件：[桌機版](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
 {: #telemetry }
 
 ### 設定預設搜尋提供商 {: #defaultsearch }
@@ -70,14 +70,14 @@ Firefox 會顯示各種內容，如「Snippet」（來自 Mozilla 的訊息）�
 
 _桌機版_：預設情況下，Firefox 會在安裝程式內傳送 HTTP 資料給 Mozilla。這能讓我們對判斷是由哪個網站或哪場行銷活動（若有的話），轉介您前往我們下載頁面。請閱讀[說明文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或在安裝前[關閉回傳](https://support.mozilla.org/kb/desktop-privacy)。
 
-_iOS 及 Android 版_：預設情況下，Firefox 會傳送行動版行銷活動的資料給我們的分析服務業者 Adjust，它們有自己的[隱私權政策](https://www.adjust.com/privacy_policy/)。行動行銷活動資料當中包含 Google 廣告 ID、IP 地址、時間戳記、國家、語言/語系、作業系統及應用程式版本。可在此閱讀[說明文件](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html)。
+_iOS 及 Android 版_：預設情況下，Firefox 會傳送行動版行銷活動的資料給我們的分析服務業者 Adjust，它們有自己的[隱私權政策](https://www.adjust.com/privacy_policy/)。行動行銷活動資料當中包含 Google 廣告 ID、IP 地址、時間戳記、國家、語言/語系、作業系統及應用程式版本。可在此閱讀[說明文件](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
 
 * __技術及互動資料__：
 
 _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firefox 功能的資料給我們的行動版行銷服務業者 Leanplum，它們有自己的[隱私權政策](https://www.leanplum.com/privacy/)。這項資料能讓我們測試各種功能及體驗，並提供自訂訊息及推薦內容，以便增進您使用 Firefox 的體驗。
 
-請閱讀說明文件：[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html)，或者瞭解如何[停用此功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
+請閱讀說明文件：[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html)，或者瞭解如何[停用此功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
 ---
 
@@ -88,7 +88,7 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 您可以在 Firefox 當中的好幾個地方直接進行搜尋，包含 Awesome Bar、搜尋列或在「新分頁」內搜尋。 _Mozilla 不會收到您的搜尋內容。_ 搜尋資料將會傳送給您的搜尋供應商，他們有自己的隱私權政策。
 
 * __搜尋建議__：預設情況下，Firefox 會將搜尋內容傳送給您的搜尋供應商，以便協助您檢視其他人經常搜尋的句子，以及增進您的搜尋使用體驗。若您使用的搜尋提供商不支援搜尋建議功能，就不會傳送這些資訊。
-{: #searchsuggestions } 
+{: #searchsuggestions }
 
 [進一步瞭解](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包含如何停用此功能的資訊。
 

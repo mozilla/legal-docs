@@ -17,7 +17,7 @@
 
 * __技术数据__：Firefox 会发送以下相关信息给我们：您 Firefox 的版本和语言；设备操作系统和硬件配置；内存、有关崩溃和错误的基本信息；诸如更新、安全浏览和激活等自动化流程的结果。当 Firefox 向我们发送数据时，会临时收集您的 IP 地址作为我们服务器日志的一部分。
 
-阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)和[移动](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
+阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)和[移动](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
 {: #telemetry }
 
 ### 设置默认的搜索引擎 {: #defaultsearch }
@@ -71,14 +71,14 @@ Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、�
 
 _桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这可让我们确定推荐您到我们下载页面的网站域名或广告活动（如有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/privacy_policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html)。
+_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/privacy_policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
 
 * __技术和交互数据__：
 
 _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使用了哪些功能的相关数据发送给我们的移动市场营销供应商 Leanplum，它拥有自己的[隐私政策](https://www.leanplum.com/privacy/)。该信息可让我们测试不同的功能和体验，并提供定制消息和建议，以改善您使用 Firefox 的体验。
 
-阅读针对 [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) 的文档，或者了解如何[禁用该功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
+阅读针对 [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) 的文档，或者了解如何[禁用该功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
 ---
 

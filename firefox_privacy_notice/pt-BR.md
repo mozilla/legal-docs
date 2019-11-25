@@ -17,7 +17,7 @@ Nesta nota sobre privacidade, explicamos quais dados o Firefox compartilha e com
 
 * __Dados técnicos__: O Firefox nos envia dados sobre a versão e idioma instalado, configuração do sistema operacional e do hardware do dispositivo, memória, informações básicas sobre travamentos e erros, resultado de processos automáticos, como atualizações, navegação segura e ativação. Quando o Firefox nos envia dados, seu endereço IP é temporariamente coletado como parte dos nossos registros de servidor.
 
-Leia a documentação de telemetria referente a [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou descubra como deixar de participar dessa coleta de dados no [computador](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e em [dispositivos móveis](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Leia a documentação de telemetria referente a [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) ou descubra como deixar de participar dessa coleta de dados no [computador](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) e em [dispositivos móveis](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Definir um mecanismo de pesquisa padrão {: #defaultsearch }
@@ -25,7 +25,7 @@ Leia a documentação de telemetria referente a [computadores](https://firefox-s
 * __Dados de localização__: Quando você usa o Firefox pela primeira vez, ele usa seu endereço IP para definir o mecanismo de pesquisa padrão com base no seu país.  [Saiba mais](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Sugerir conteúdo relevante
- 
+
 O Firefox exibe conteúdo, como “Trechos de código” (mensagens da Mozilla), Recomendações de extensões, Sites preferidos (sugeridos pela Mozilla para usuários novos do Firefox) e Recomendações do Pocket.
 
 * __Dados de localização__: O Firefox usa seu endereço IP para sugerir conteúdo relevante com base no seu país.
@@ -44,7 +44,7 @@ O Firefox exibe conteúdo, como “Trechos de código” (mensagens da Mozilla),
 * __Dados técnicos para atualizações__: As versões para computador do Firefox são periodicamente verificadas em busca de atualizações do navegador conectando-se aos servidores da Mozilla. Sua versão do Firefox, idioma e sistema operacional do dispositivo são usados para aplicar as atualizações corretas. As versões móveis do Firefox poderão se conectar a outro serviço se você usou para baixar e instalar o navegador. [Saiba mais](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
-* __Dados técnicos para lista de bloqueio de extensões__: O Firefox para Desktop e Android se conectam periodicamente à Mozilla para proteger você e outras pessoas contra extensões maliciosas. A versão e o idioma do seu Firefox, o sistema operacional do seu dispositivo e a lista de extensões instaladas são necessários para aplicar e atualizar a lista de bloqueio de extensões. [Saiba mais](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections). 
+* __Dados técnicos para lista de bloqueio de extensões__: O Firefox para Desktop e Android se conectam periodicamente à Mozilla para proteger você e outras pessoas contra extensões maliciosas. A versão e o idioma do seu Firefox, o sistema operacional do seu dispositivo e a lista de extensões instaladas são necessários para aplicar e atualizar a lista de bloqueio de extensões. [Saiba mais](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
 
 * __Dados técnicos e da página da Internet para navegação segura do Google__: Para ajudar você a se proteger contra downloads maliciosos, o Firefox envia informações básicas sobre downloads não reconhecidos para o serviço de navegação segura do Google, inclusive o nome do arquivo e a URL do download.
 
@@ -72,14 +72,14 @@ Leia a documentação completa [aqui](https://firefox-source-docs.mozilla.org/to
 
     _No Desktop_: Por padrão, o Firefox envia dados HTTP à Mozilla que podem ser incluídos no instalador do navegador. Isso nos possibilita determinar o domínio do site ou a campanha de publicidade (se houver) que encaminhou você para nossa página de download. Leia a [documentação](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [cancele](https://support.mozilla.org/kb/desktop-privacy) antes da instalação.
 
-    _No iOS e Android_: Por padrão, o Firefox envia dados de campanhas de dispositivos móveis para o Adjust, nosso fornecedor de análise, que tem sua própria [política de privacidade](https://www.adjust.com/privacy_policy/). Os dados de campanhas de dispositivos móveis incluem um ID de publicidade do Google, endereço IP, carimbo de data/hora, país, idioma/local, sistema operacional e versão do aplicativo. Leia a [documentação](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _No iOS e Android_: Por padrão, o Firefox envia dados de campanhas de dispositivos móveis para o Adjust, nosso fornecedor de análise, que tem sua própria [política de privacidade](https://www.adjust.com/privacy_policy/). Os dados de campanhas de dispositivos móveis incluem um ID de publicidade do Google, endereço IP, carimbo de data/hora, país, idioma/local, sistema operacional e versão do aplicativo. Leia a [documentação](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
-* __Dados técnicos e de interação__: 
+* __Dados técnicos e de interação__:
 
     _No iOS e Android_: Por padrão, o Firefox envia dados relacionados aos recursos que você usa nele para o Leanplum, nosso fornecedor de marketing para dispositivos móveis, que tem sua própria [política de privacidade](https://www.leanplum.com/privacy/). Esses dados nos permitem testar diferentes recursos e experiências, além de fornecer mensagens e recomendações personalizadas para melhorar sua experiência com o Firefox.
 
-    Leia a documentação para [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) ou saiba como [desabilitar esse recurso](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Leia a documentação para [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) ou [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) ou saiba como [desabilitar esse recurso](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -100,13 +100,13 @@ __Sugestões de pesquisa__: Por padrão, o Firefox envia consultas de pesquisa p
 
 ### Conta Firefox
 
-* __Dados da Conta Firefox__: A Mozilla recebe seu endereço de e-mail e um hash da sua senha quando você cria uma Conta Firefox. Você pode optar por incluir um nome de exibição ou imagem de perfil. Seu endereço de e-mail é enviado para nosso fornecedor de e-mail, o SalesForce Marketing Cloud, que tem sua própria [política de privacidade](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Se você usar a sua Conta Firefox para fazer login em outros sites ou serviços (como AMO ou Pocket), receberemos o carimbo de data/hora do seu login nesses serviços. 
+* __Dados da Conta Firefox__: A Mozilla recebe seu endereço de e-mail e um hash da sua senha quando você cria uma Conta Firefox. Você pode optar por incluir um nome de exibição ou imagem de perfil. Seu endereço de e-mail é enviado para nosso fornecedor de e-mail, o SalesForce Marketing Cloud, que tem sua própria [política de privacidade](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Se você usar a sua Conta Firefox para fazer login em outros sites ou serviços (como AMO ou Pocket), receberemos o carimbo de data/hora do seu login nesses serviços.
 
 * __Dados de localização__: Para fins de segurança, armazenamos os endereços IP que você usa para acessar a sua Conta Firefox, a fim de aproximar sua cidade e país. Usamos esses dados para enviar alertas de e-mail para você caso detectemos atividades suspeitas, como logins de outros locais.
 
-* __Dados de interação__: Recebemos dados como acessos e interações com o site da Conta Firefox e com as preferências do menu e interações com integração, e-mail e mensagens SMS. [Leia mais](https://www.mozilla.org/privacy/websites/) sobre as práticas de dados da Mozilla para sites e e-mail.  
+* __Dados de interação__: Recebemos dados como acessos e interações com o site da Conta Firefox e com as preferências do menu e interações com integração, e-mail e mensagens SMS. [Leia mais](https://www.mozilla.org/privacy/websites/) sobre as práticas de dados da Mozilla para sites e e-mail.
 
-* __Dados técnicos__: Para exibir quais dispositivos são sincronizados com a sua Conta Firefox e para funcionalidades, armazenamos o sistema operacional do seu dispositivo, o navegador e a versão, o carimbo de data/hora, o local e as mesmas informações para dispositivos conectados à sua conta.  
+* __Dados técnicos__: Para exibir quais dispositivos são sincronizados com a sua Conta Firefox e para funcionalidades, armazenamos o sistema operacional do seu dispositivo, o navegador e a versão, o carimbo de data/hora, o local e as mesmas informações para dispositivos conectados à sua conta.
 
 Leia a [documentação completa](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) ou [saiba mais](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), inclusive sobre como [excluir sua conta](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
 
@@ -132,7 +132,7 @@ Leia a [documentação completa](https://github.com/mozilla/fxa-auth-server/blob
 
     Para acessos ao site do Firefox Screenshots, nossa [nota sobre privacidade de sites](https://www.mozilla.org/privacy/websites/) descreve os tipos de dados que podemos coletar.
 
-* __Dados técnicos__: Recebemos dados como o tamanho e número médio de suas capturas de tela carregadas, a versão do seu navegador Firefox, o sistema operacional do dispositivo e erros. O endereço de IP de acesso do site do Firefox Screenshots é temporariamente coletado como parte de um registro padrão de servidor. 
+* __Dados técnicos__: Recebemos dados como o tamanho e número médio de suas capturas de tela carregadas, a versão do seu navegador Firefox, o sistema operacional do dispositivo e erros. O endereço de IP de acesso do site do Firefox Screenshots é temporariamente coletado como parte de um registro padrão de servidor.
 
 Leia a [documentação completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) ou [saiba mais](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
@@ -147,7 +147,7 @@ Leia a [documentação completa](https://mozilla-push-service.readthedocs.io/en/
 ### Extensões {: #addons }
 
 Você pode instalar extensões em addons.mozilla.org ("AMO") ou no gerenciador de extensões do Firefox, acessível no botão de menu do Firefox, na barra de ferramentas.
- 
+
 * __Consultas de pesquisa__: Consultas de pesquisa no gerenciador de extensões são enviadas para a Mozilla para fornecer à você sugestões de extensões.
 
 * __Dados de interação__: Recebemos dados agregados sobre acessos ao site AMO e ao gerenciador de extensões do Firefox, além de interações com o conteúdo dessas páginas. Leia as práticas de dados nos [sites da Mozilla](https://www.mozilla.org/privacy/websites/).

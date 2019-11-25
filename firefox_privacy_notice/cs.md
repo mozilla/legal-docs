@@ -15,9 +15,9 @@ V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje F
 
 * __Údaje o interakci__: Firefox nám zasílá data o vaší interakci s Firefoxem (jako je počet otevřených panelů, počet navštívených webových stránek, počet a typ nainstalovaných doplňků ve Firefoxu a délka relace) a s funkcemi Firefoxu nabízenými společností Mozilla nebo našimi partnery (jako je interakce s funkcemi vyhledávání ve Firefoxu a s odkazy na vyhledávané partnery).
 
-* __Technické údaje__: Firefox nám zasílá údaje o vaší verzi a jazyce Firefoxu; operačním systému zařízení a konfiguraci hardwaru; paměti, základních informací o pádech a chybách; výsledku automatizovaných procesů, jako jsou aktualizace, bezpečné procházení a aktivace.  Když nám Firefox zasílá údaje, dočasně se v protokolu našeho serveru shromažďuje vaše adresa IP.  
+* __Technické údaje__: Firefox nám zasílá údaje o vaší verzi a jazyce Firefoxu; operačním systému zařízení a konfiguraci hardwaru; paměti, základních informací o pádech a chybách; výsledku automatizovaných procesů, jako jsou aktualizace, bezpečné procházení a aktivace.  Když nám Firefox zasílá údaje, dočasně se v protokolu našeho serveru shromažďuje vaše adresa IP.
 
-Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
+Přečtěte si dokumentaci o telemetrii pro [stolní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) nebo [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) nebo si přečtěte, jak  [zrušit volbu](https://support.mozilla.org/kb/send-performance-data-improve-firefox) shromažďování těchto údajů.
 {: #telemetry }
 
 ### Nastavení výchozího poskytovatele vyhledávání {: #defaultsearch }
@@ -70,14 +70,14 @@ Dle výchozího nastavení u verzí Firefoxu pro počítač vás požádáme o s
 
     _U počítačů_: Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu. To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo před instalací [zrušte volbu](https://support.mozilla.org/kb/desktop-privacy).
 
-    _Na systémech iOS a Android_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/privacy_policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google, IP adresu, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _Na systémech iOS a Android_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/privacy_policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google, IP adresu, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Technické údaje a údaje o interakci__:
 
     _Na systémech iOS a Android_: Firefox dle výchozího nastavení zasílá údaje o tom, jaké funkce ve Firefoxu využíváte, společnosti Leanplum, našemu dodavateli mobilního marketingu, který má své vlastní [zásady ochrany osobních údajů](https://www.leanplum.com/privacy/). Tyto údaje nám pomáhají testovat různé funkce a chování, stejně jako zasílat přizpůsobené zprávy a doporučení ke zlepšení vašeho prožitku s aplikací Firefox.
 
-    Přečtěte si dokumentaci pro [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) nebo [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html), či získejte podrobnější informace o tom, [jak tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Přečtěte si dokumentaci pro [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) nebo [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html), či získejte podrobnější informace o tom, [jak tuto funkci deaktivovat](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 

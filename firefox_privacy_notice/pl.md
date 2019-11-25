@@ -17,7 +17,7 @@ W niniejszych Zasadach prywatności wyjaśniamy, jakie dane udostępnia Firefox,
 
 * __Dane techniczne__: Firefox wysyła do nas dane dotyczące wersji i języka Firefoksa, konfigurację systemu operacyjnego urządzenia i sprzętu, informacje o pamięci, podstawowe informacje o awariach i błędach oraz wyniki zautomatyzowanych procesów, takich jak aktualizacje, bezpieczne przeglądanie i aktywacja. Kiedy Firefox wysyła do nas dane, adres IP użytkownika jest tymczasowo gromadzony jako część dzienników naszych serwerów.
 
-Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Ustawienie domyślnego dostawcy usług wyszukiwania {: #defaultsearch }
@@ -25,7 +25,7 @@ Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-doc
 * __Dane lokalizacji__: Przy pierwszym użyciu Firefox używa adresu IP w celu ustawienia domyślnego dostawcy usług wyszukiwania na podstawie kraju użytkownika. [Więcej informacji](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
 ### Suggest relevant content
- 
+
 Firefox wyświetla zawartość, taką jak „wycinki” (wiadomości od Mozilli), rekomendacje dodatków, popularne strony (witryny polecane przez Mozillę nowym użytkownikom Firefoksa) i rekomendacje Pocket.
 
 * __Dane lokalizacji__: Firefox używa adresu IP w celu proponowania istotnej zawartości na podstawie kraju użytkownika.
@@ -72,14 +72,14 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 
     _Na komputerach_: Firefox domyślnie wysyła do firmy Mozilla dane HTTP, które mogą być dołączone do instalatora Firefoksa. Umożliwiaj to nam zrozumienie, która domena internetowa lub kampania reklamowa (o ile w ogóle) skierowała użytkownika na naszą stronę umożliwiającą pobranie. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) lub [zrezygnuj](https://support.mozilla.org/kb/desktop-privacy) przed zainstalowaniem.
 
-    _W systemach iOS i Android_: Firefox domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który posiada własną [politykę prywatności](https://www.adjust.com/privacy_policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html).
+    _W systemach iOS i Android_: Firefox domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który posiada własną [politykę prywatności](https://www.adjust.com/privacy_policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
-* __Dane techniczne i interakcji__: 
+* __Dane techniczne i interakcji__:
 
     _W systemach iOS i Android_: Firefox domyślnie wysyła dane dotyczące funkcji używanych w Firefoksie do firmy Leanplum, naszego dostawcy usług marketingowych, który posiada własną [politykę prywatności](https://www.leanplum.com/privacy/). Te dane umożliwiają nam testowanie różnych funkcji i materiałów, a także dostarczanie dostosowanych wiadomości i rekomendacji mających na celu poprawę doświadczeń użytkownika.
 
-    Przeczytaj dokumentację dla systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) lub [Android](https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html) albo dowiedz się, jak [wyłączyć tę funkcję](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
+    Przeczytaj dokumentację dla systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) lub [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) albo dowiedz się, jak [wyłączyć tę funkcję](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
@@ -94,13 +94,13 @@ Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich j
 * [__Yandex__](https://yandex.ru/legal/confidential/)
 
 __Podpowiedzi wyszukiwania__: Firefox domyślnie wysyła zapytania wyszukiwania do dostawcy usług wyszukiwania, aby pomóc użytkownikom odkrywać typowe frazy, których szukali inni użytkownicy, oraz poprawić jakość wyszukiwania. Dane te nie będą wysyłane, jeśli wybrany dostawca usług wyszukiwania nie obsługuje podpowiedzi wyszukiwania.
-{: #searchsuggestions } 
+{: #searchsuggestions }
 
 [Uzyskaj więcej informacji](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), łącznie ze sposobem wyłączenia tej funkcji.
 
 ### Konta Firefox
 
-* __Dane konta Firefox__: Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Firefox. Użytkownik może dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy SalesForce Marketing Cloud, która ma własną [politykę prywatności](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Jeśli użytkownik użyje konta Firefox w celu zalogowania się do innych witryn lub usług (takich jak AMO lub Pocket), otrzymamy z tych usług sygnaturę czasową logowania użytkownika. 
+* __Dane konta Firefox__: Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Firefox. Użytkownik może dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy SalesForce Marketing Cloud, która ma własną [politykę prywatności](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Jeśli użytkownik użyje konta Firefox w celu zalogowania się do innych witryn lub usług (takich jak AMO lub Pocket), otrzymamy z tych usług sygnaturę czasową logowania użytkownika.
 
 * __Dane lokalizacji__: Ze względów bezpieczeństwa przechowujemy adresy IP wykorzystywane przez użytkownika, aby uzyskać dostęp do swojego konta, w celu przybliżonego określenia miasta i kraju. Używamy tych danych do wysyłania alertów e-mail, jeśli wykryjemy podejrzaną aktywność, taką jako logowanie na konto z innych lokalizacji.
 
@@ -113,7 +113,7 @@ Przeczytaj [pełną dokumentację](https://github.com/mozilla/fxa-auth-server/bl
 ### Sync {: #sync }
 
 * __Zsynchronizowane dane__: Po włączeniu usługi Sync Mozilla otrzymuje informacje synchronizowane między urządzeniami użytkownika w zaszyfrowanej formie. Obejmuje to karty, dodatki, hasła, automatycznie uzupełniane dane płatności, zakładki, historię i preferencje przeglądarki Firefox. Usunięcie konta Firefox powoduje usunięcie powiązanej zawartości usługi Firefox Sync. Dostępna jest również [dokumentacja](https://moz-services-docs.readthedocs.io/en/latest/sync/).
-  
+
 * __Dane techniczne i interakcji__: Po włączeniu synchronizacji Firefox okresowo wysyła przy użyciu telemetrii podstawowe informacje dotyczące ostatniej próby synchronizacji danych, takie jak data i godzina, stan powodzenia oraz typ urządzenia, które próbuje wykonać synchronizację. Dostępna jest również [dokumentacja](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
 [Uzyskaj więcej informacji](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), łącznie ze sposobem wyłączenia lub wyłączenia synchronizacji.
@@ -132,7 +132,7 @@ Przeczytaj [pełną dokumentację](https://github.com/mozilla/fxa-auth-server/bl
 
     Dane zbierane podczas odwiedzin witryny Firefox Screenshots opisują nasze [zasady prywatności dotyczące witryn](https://www.mozilla.org/privacy/websites/).
 
-* __Dane techniczne__: Otrzymujemy dane dotyczące przeciętnego rozmiaru i liczby przesłanych zrzutów ekranu, wersji przeglądarki Firefox, systemu operacyjnego urządzenia oraz błędów. Adres IP, z którego otwierana jest witryna Firefox Screenshots, jest przechowywany chwilowo jako element standardowego dziennika serwera. 
+* __Dane techniczne__: Otrzymujemy dane dotyczące przeciętnego rozmiaru i liczby przesłanych zrzutów ekranu, wersji przeglądarki Firefox, systemu operacyjnego urządzenia oraz błędów. Adres IP, z którego otwierana jest witryna Firefox Screenshots, jest przechowywany chwilowo jako element standardowego dziennika serwera.
 
 Przeczytaj [pełną dokumentację](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) lub [uzyskaj więcej informacji](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
@@ -147,7 +147,7 @@ Przeczytaj [pełną dokumentację](https://mozilla-push-service.readthedocs.io/e
 ### Dodatki {: #addons }
 
 Dodatki można instalować na stronie addons.mozilla.org („AMO”) lub przy użyciu Menedżera dodatków Firefoksa, który jest dostępny za pośrednictwem przycisku menu Firefoksa na pasku narzędzi.
- 
+
 * __Zapytania wyszukiwania__: Zapytania wyszukiwania w Menedżerze dodatków są wysyłane do firmy Mozilla w celu dostarczenia rekomendacji dodatków.
 
 * __Dane interakcji__: Otrzymujemy zagregowane dane dotyczące odwiedzin w witrynie AMO i Menedżerze dodatków w Firefoksie, a także interakcji z zawartością tych stron. Przeczytaj informacje na temat zasad przetwarzania danych w [witrynach firmy Mozilla](https://www.mozilla.org/privacy/websites/).
