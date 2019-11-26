@@ -5,16 +5,17 @@ Urang néangan pamaké Firefox Lite anu satia ngagunakeun fitur Kontén & Layana
 * Mimiti, tarima Misi ku cara ngaklik "Kuring Asup" jeung narima sarat jeung katangtuan ieu. 
 * Paké fitur Kontén & Layanan anyar Firefox Lite salila 7 poé padeukeut. Firefox Lite bakal ngalacak. 
 * Saanggeus réngsé 7 poe padeukeut fitur Kontén & Layanan, balik deui ka halaman Misi jeung Daptar atawa Login kana Akun Firefox anjeun pikeun nebus kartu hadiah/e-voucer.
-* Mangsa Misi. Misi dimimitian dina tanggal 1 Nopémber 2019 jeung ditetepkeun tanggal 31 Désémber 2019. Sadaya éntri kedah réngsé ku tanggal 31 Désémber 2019. **Sadaya hadiah kedah ditebus ku tanggal 31 Désémber 2019 atawa bakal kadaluwarsa.** 
+* Misi dimimitian dina tanggal 1 Nopémber 2019 sareng réngsé tanggal 31 Januari 2020. Sadaya éntri kedah réngsé nepi ka tanggal 31 Désémber 2019. **Sadaya hadiah kedah ditebus nepi ka tanggal 31 Januari 2020 atawa bakal kadaluarsa.**
 * Peryogi bantosan kumaha carana miluan? Tingali dina [halaman rincian]( https://support.mozilla.org/kb/firefox-lite-reward-program)!
 
 ## Nu minuhan sarat
-* Pamaké anu pasang atawa ngamutahirkeun Firefox Lite antara tanggal 1 Nopémber 2019 jeung 24 Désémber 2019 layak pikeun misi 7 poe. 
+* Pamaké anu masang atawa ngamutahirkeun Firefox Lite antara tanggal 1 Nopémber 2019 nepi ka 24 Januari 2020 layak pikeun misi 7 poé. 
 * Pamilon kedah sahenteuna umur umurna dina yurisdiksi tempatna. 
 * Pagawe Mozilla Corporation jeung perusahaan indung jeung perusahaan na ogé kulawarga langsung (salaki, sepuh, duduluran jeung barudak) jeung anggota rumah tangga masing-masing karyawan henteu pantes miluan. 
 * Anjeun ngan ukur bisa miboga hiji Akun Firefox pikeun milu dina Misi. Nganggo sababaraha akun pikeun ilubiung dina misi bakal ngaleungitkeun status pamilon anjeun, jeung urang bakal ngalarang anjeun tina milu misi hadiah anu bakal datang. Lamun anjeun asup tina Akun Firefox anjeun salila Misi, anjeun bakal kaleungitan kamajuan anjeun ka arah 7 poe berturut-turut jeung kudu ngamimitian deui. 
 * Tiap jalma ngan ukur narima hiji hadiah. Anjeun teu bisa miluan misi anu sarua sababaraha kali. 
-* Pagawé Sponsor jeung perusahaan indung jeung perusahaan na ogé kulawarga langsung (salaki, sepuh, duduluran jeung barudak) jeung anggota rumah tangga masing-masing pagawe henteu pantes miluan. 
+* Pagawé Sponsor jeung perusahaan indung jeung perusahaan na ogé kulawarga langsung (salaki, sepuh, duduluran jeung barudak) jeung anggota rumah tangga masing-masing pagawe henteu pantes miluan.
+* Anjeun ulah aya dina daptar sanksi AS atawa di salah sahiji nagara (misal, Kuba, Iran, Koréa Kalér, Sudan sareng Suriah) anu aya dina daptar sanksi AS.
 * BATAL LAMUN DILARANG JEUNG DI MANA AYA ANU DAPTAR, BEUNGKEUTAN ATAWA LOKALISASI DIPERYOGIKEUN.
 
 ## Privasi
@@ -23,6 +24,11 @@ Urang néangan pamaké Firefox Lite anu satia ngagunakeun fitur Kontén & Layana
 ## Di mana kuring bisa nebus hadiahna?
 * Pariksa jujutan misi anjeun pikeun ngonfirmasi yén anjeun sanggeus réngsé Misi 7 poe padeukeut jeung layak pikeun nebus kartu hadiah/e-voucer. Jujutan tangtangan anjeun bakal ditingali unggal poé, tapi anjeun ogé bisa ngontak ka https://qsurvey.mozilla.com/s3/Firefox-Lite-Reward-Help pikeun pitulung!
 * Pencét tombol tebus pikeun narima kartu hadiah/e-voucer. Leuwih jéntré [di dieu]( https://support.mozilla.org/kb/firefox-lite-reward-program).
+
+## Kumaha carana ngagunakeun hadiah?
+* Vocer ngan manglaku pikeun balanja di Shopee, sababaraha watesan dilarapkeun.
+* Sah pikeun balanja anu ngagunakeun layanan kurir anu dirojong ku panyadia vocer.
+* Baca [Syarat sareng Katangtuan](https://shopee.co.id/events3/code/249735221/?utm_source=Mozilla&utm_medium=Mozilla&utm_campaign=VoucherMozilla) sing taliti saméméh ngagunakeun eta kartu hadiah/vocer elektronik.
 
 ## Bantahan, Ngabébaskeun, jeung Watesan Tanggung Jawab
 MOZILLA CORPORATION HENTEU NGAJIEUN ÉBRÉHAN ATAWA JAMINAN NANAON, SACARA TERSURAT ATAWA TERSIRAT, NGEUNAAN HADIAH ATAWA PARTISIPASI ANJEUN DINA PROMOSI. KU MILUAN KANA PROMOSI ATAWA NARIMA HADIAH, MASING-MASING PAMILON SATUJU NGABÉBASKEUN SARENG TEU PICILAKAEUN KA PIHAK SPONSOR SARENG PERUSAHAAN ANAK, GABUNGAN, AFILIASI, DISTRIBUTOR, AGÉNSI PARIWARA/PROMOSI, MITRA, SARENG NU NYADIAKEUN HADIAH, SARENG MASING-MASING PERUSAHAAN INDUNGNA SARENG MASING-MASING SAPERTOS PAJABAT, DIRÉKTUR PERUSAHAAN, KARYAWAN SARENG AGÉN (SACARA KOLÉKTIF, "PIHAK ANU DIBEBASKEUN") TI SARENG NGALAWAN KLAIM ATAWA PANYABAB TINDAKAN, KALEBET, TAPI HENTEU DIWATESAN KU, KACILAKAAN PRIBADI, MAOT, ATAWA RUKSAKNA ATAWA KALEUNGITAN HARTA, ANU TIMBUL TINA PARTISIPASI DINA PROMOSI ATAWA TANDA TARIMA ATAWA PAMAKEAN ATAWA NYALAHGUNAKEUN HADIAHNA. PIHAK ANU DIBÉBASKEUN HENTEU TANGGUNG JAWAB PIKEUN: (1) SAGALA INPORMASI ANU SALAH ATAWA HENTEU PAS, NAHA DISABABKEUN KU PAMILON, KASALAHAN PERCETAKAN ATAWA KU SALAH SAHIJI ALAT ATAWA PROGRAM ANU AYA HUBUNGANANA ATAWA DIMANFAATKEUN DINA PROMOSI; (2) GAGAL TÉKNIS TINA NAON WAÉ, KAASUP, TAPI HENTEU DUGI KANA KASALAHAN, GANGGUAN, ATAWA SAMBUNGAN DINA JALUR TELEPON ATAWA HADWÉR JARINGAN ATAWA SOPWER; (3) CAMPUR TANGAN MANUSA ANU HENTEU DIIDINAN DINA NAON WAÉ BAGIAN TINA PROSÉS ÉNTRI ATAWA PROMOSI; (4) KASALAHAN TÉKNIS ATAWA MANUSA ANU TIASA LUMANGSUNG DINA ADMINISTRASI PROMOSI ATAWA NGOLAH ÉNTRI; ATAWA (5) NAON ANU CILAKA ATAWA NGARUKSAK JALMA ATAWA HARTA ANU TIASA DISABABKEUN, SACARA LANGSUNG ATAWA HENTEU LANGSUNG, SADAYANA ATAWA SABAGIAN, TI PARTISIPASI PARTISIPASI DINA PROMOSI ATAWA RESI ATAWA NGANGGO ATAWA NYALAHGUNAKEUN HADIAH NAON WAÉ.
