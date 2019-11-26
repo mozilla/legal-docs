@@ -5,16 +5,17 @@ Chúng tôi mong đợi những người dùng Firefox Lite trung thành sẽ s�
 * Đầu tiên, chấp nhận Nhiệm vụ bằng cách nhấp vào “Tôi tham gia” và chấp nhận các điều khoản và điều kiện này. 
 * Sử dụng tính năng Nội dung & Dịch vụ mới của Firefox Lite trong 7 ngày liên tục. Firefox Lite sẽ theo dõi. 
 * Sau khi bạn hoàn thành 7 ngày dùng liên tục tính năng Nội dung & Dịch vụ, hãy quay lại trang Nhiệm vụ và Đăng ký hoặc Đăng nhập vào Tài khoản Firefox để đổi một thẻ quà tặng/phiếu giảm giá điện tử.
-* Thời gian thực hiện Nhiệm vụ. Nhiệm vụ bắt đầu vào ngày 1 tháng 11, 2019 và kết thúc vào ngày 31 tháng 12, 2019. Tất cả các mục nhập phải hoàn tất muộn nhất là ngày 31 tháng 12, 2019. **Tất cả các phần thưởng phải được quy đổi trước ngày 31 tháng 12, 2019, nếu không những phần thưởng này sẽ hết hạn.** 
+* Khoảng thời gian của nhiệm vụ. Nhiệm vụ bắt đầu vào ngày 1 tháng 11 năm 2019 và kết thúc vào ngày 31 tháng 1 năm 2020. Tất cả người tham gia phải hoàn tất vào ngày 31 tháng 12 năm 2019. **Tất cả giải thưởng phải được quy đổi vào ngày 31 tháng 1 năm 2020 hoặc chúng sẽ hết hạn.**
 * Bạn cần giúp để hiểu rõ hơn về thể thức tham gia? Hãy xem trên trang chi tiết [của chúng tôi]( https://support.mozilla.org/kb/firefox-lite-reward-program)!
 
 ## Điều kiện tham gia
-* Người dùng cài đặt hoặc cập nhật Firefox Lite từ ngày 1 tháng 11, 2019 đến ngày 24 tháng 12, 2019 sẽ đủ điều kiện nhận nhiệm vụ trong 7 ngày. 
+* Người dùng phải cài đặt hay cập nhật Firefox Lite trong khoảng từ 1 tháng 11 năm 2019 cho đến 24 tháng 1 năm 2020 để đủ điều kiện cho nhiệm vụ 7 ngày. 
 * Những người tham gia phải ở độ tuổi ít nhất là thành niên trong khu vực tài phán nơi họ cư trú. 
 * Nhân viên của Mozilla Corporation và công ty mẹ và các công ty liên kết của Mozilla Corporation cũng như gia đình ruột thịt (vợ/chồng, cha/mẹ, anh chị em ruột và con cái) và các thành viên hộ gia đình của mỗi nhân viên đó không đủ điều kiện tham gia. 
 * Bạn chỉ được sử dụng một Tài khoản Firefox để tham gia Nhiêm vụ. Sử dụng nhiều tài khoản để tham gia vào nhiệm vụ sẽ làm vô hiệu tư cách tham gia của bạn và chúng tôi có thể cấm những người vi phạm không được tham gia vào các nhiệm vụ nhận phần thưởng trong tương lai. Nếu bạn đăng xuất khỏi Tài khoản Firefox trong khi thực hiện Nhiệm vụ, bạn sẽ mất tiến trình 7 ngày liên tục và sẽ phải bắt đầu lại. 
 * Mỗi người chỉ đủ điều kiện nhận một phần thưởng. Bạn không được tham gia cùng một Nhiệm vụ nhiều lần. 
 * Nhân viên của Nhà tài trợ và công ty mẹ và các công ty liên kết của Nhà tài trợ cũng như gia đình ruột thịt (vợ/chồng, cha/mẹ, anh chị em ruột và con cái) và các thành viên hộ gia đình của mỗi nhân viên đó không đủ điều kiện tham gia. 
+* Bạn không được nằm trong danh sách quốc gia bị Hoa Kỳ trừng phạt (ví dụ như Cuba, Iran, Bắc Triều Tiên, Sudan và Syria) trên danh sách trừng phạt của Hoa Kỳ.
 * MẤT HIỆU LỰC KHI BỊ CẤM VÀ KHI CÓ YÊU CẦU ĐĂNG KÝ, RÀNG BUỘC HOẶC BẢN ĐỊA HÓA.
 
 ## Quyền riêng tư
@@ -23,6 +24,11 @@ Chúng tôi mong đợi những người dùng Firefox Lite trung thành sẽ s�
 ## Tôi có thể đổi quà ở đâu?
 * Hãy kiểm tra lịch sử nhiệm vụ của bạn để xác nhận rằng bạn đã hoàn tất Nhiệm vụ 7 ngày liên tục và đủ điều kiện đổi một thẻ quà tặng/phiếu giảm giá điện tử. Lịch sử tham gia thử thách của bạn sẽ được hiển thị sau mỗi ngày, nhưng bạn có thể gửi email qua https://qsurvey.mozilla.com/s3/Firefox-Lite-Reward-Help để hỏi!
 * Nhấn nút đổi quà để nhận thẻ quà tặng/phiếu giảm giá điện tử tại. Tìm hiểu thêm tại [ở đây]( https://support.mozilla.org/kb/firefox-lite-reward-program).
+
+## Làm sao để tôi sử dụng quà tặng?
+* mua hàng chỉ áp dụng cho giao dịch mua hàng với Shopee và có áp dụng một số hạn chế.
+* Hợp lệ cho giao dịch mua hàng sử dụng các dịch vụ giao hàng được hỗ trợ bởi nhà cung cấp phiếu mua hàng.
+* Vui lòng xem qua kỹ [Điều khoản và điều kiện](https://shopee.co.id/events3/code/249735221/?utm_source=Mozilla&utm_medium=Mozilla&utm_campaign=VoucherMozilla) của thẻ quà tặng/phiếu mua hàng điện tử trước khi sử dụng.
 
 ## Từ chối, Giải trừ và Giới hạn Trách nhiệm
 MOZILLA CORPORATION KHÔNG TUYÊN BỐ HOẶC BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO, DÙ RÕ RÀNG HAY NGẦM ĐỊNH VỀ BẤT KỲ GIẢI THƯỞNG HAY VIỆC BẠN THAM GIA VÀO KHUYẾN MÃI. KHI THAM GIA KHUYẾN MÃI HOẶC NHẬN GIẢI THƯỞNG, MỖI NGƯỜI THAM GIA ĐỒNG Ý GIẢI TRỪ VÀ GIỮ CHO NHÀ TÀI TRỢ VÀ CÁC CÔNG TY CON, CÔNG TY LIÊN KẾT, NHÀ CUNG CẤP, NHÀ PHÂN PHỐI, CÁC ĐẠI LÝ QUẢNG CÁO/KHUYẾN MÃI CỦA NHÀ TÀI TRỢ VÀ TỪNG CÔNG TY MẸ TƯƠNG ỨNG CỦA NHÀ TÀI TRỢ VÀ CÁC CÁN BỘ, GIÁM ĐỐC, NHÂN VIÊN VÀ ĐẠI LÝ CỦA CÁC CÔNG TY ĐÓ (GỌI CHUNG LÀ “CÁC BÊN ĐƯỢC GIẢI TRỪ TRÁCH NHIỆM”) TRÁNH KHỎI MỌI KHIẾU NẠI HOẶC KHIẾU KIỆN, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở THƯƠNG TÍCH CÁ NHÂN, TỬ VONG HOẶC THIỆT HẠI HOẶC MẤT TÀI SẢN PHÁT SINH TỪ VIỆC THAM GIA KHUYẾN MÃI HOẶC NHẬN HOẶC SỬ DỤNG HOẶC SỬ DỤNG KHÔNG ĐÚNG MỤC ĐÍCH BẤT KỲ GIẢI THƯỞNG NÀO. CÁC BÊN ĐƯỢC GIẢI TRỪ KHÔNG CHỊU TRÁCH NHIỆM CHO: (1) MỌI THÔNG TIN KHÔNG ĐÚNG HOẶC KHÔNG CHÍNH XÁC DO LỖI IN ẤN HOẶC NGƯỜI THAM GIA, HOẶC DO BẤT KỲ THIẾT BỊ HOẶC CHƯƠNG TRÌNH NÀO LIÊN QUAN ĐẾN HOẶC ĐƯỢC SỬ DỤNG TRONG VIỆC KHUYẾN MÃI; (2) LỖI KỸ THUẬT DƯỚI BẤT KỲ HÌNH THỨC NÀO, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở TRỤC TRẶC, GIÁN ĐOẠN HAY NGẮT KẾT NỐI ĐƯỜNG DÂY ĐIỆN THOẠI HOẶC PHẦN MỀM HOẶC PHẦN CỨNG MẠNG; (3) SỰ CAN THIỆP TRÁI PHÉP CỦA CON NGƯỜI VÀO BẤT KỲ PHẦN NÀO CỦA QUY TRÌNH NHẬP DỮ LIỆU HAY KHUYẾN MÃI; (4) SAI SÓT CỦA CON NGƯỜI HAY SAI SÓT KỸ THUẬT XẢY RA TRONG QUÁ TRÌNH QUẢN LÝ KHUYẾN MÃI HAY XỬ LÝ CÁC MỤC NHẬP HOẶC (5) BẤT KỲ THƯƠNG TÍCH HOẶC THIỆT HẠI ĐỐI VỚI CON NGƯỜI HOẶC TÀI SẢN GÂY RA BỞI, TRỰC TIẾP HAY GIÁN TIẾP, TOÀN BỘ HAY MỘT PHẦN, SỰ THAM GIA KHUYẾN MÃI HOẶC NHẬN ĐƯỢC HOẶC SỬ DỤNG HOẶC SỬ DỤNG GIẢI THƯỞNG KHÔNG ĐÚNG MỤC ĐÍCH CỦA NGƯỜI THAM GIA.
