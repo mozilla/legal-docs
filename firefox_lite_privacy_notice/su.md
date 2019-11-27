@@ -27,7 +27,7 @@ Firefox Lite nampilkeun kontén, siga Situs Panghadéna (situs wéb anu disarank
 
 * __Data Téknis & Interaksi__: Firefox Lite ngirim data ka urang siga posisi, ukuran jeung panempatan Situs Panghadéna jeung jeung Kontén & Layanan anu urang nyarankeun, ogé data dasar ngeunaan interaksi anjeun jeung kontén anu disarankeun. Ieu kaasup jumlah waktuna tina kontén anu disarankeun pikeun ditingalikeun atawa diklik jeung waktuna nu disangsangkeun jeung saranna. 
 
-* __Kontén & Layanan__: Kontén & Layanan Firefox Lite nyaéta warta, kaulinan, tawaran, jeung sajabana anu ditawarkeun ku mitra urang di nagara-nagara tangtu. Dina sababaraha kasus, nalika anjeun ngaklik kontén anu disarankeun, urang bakal ngabéjaan yén kontén pihak katilu anu kontenna kapanggih dina Firefox Lite, tapi henteu anu manggihanana. Tingali [di dieu](https://support.mozilla.org/kb/life-feed-firefox-lite) pikeun rinciana.
+* __Kontén & Layanan__: Kontén & Layanan Firefox Lite nyaéta warta, kaulinan, tawaran, jeung sajabana anu ditawarkeun ku mitra urang di nagara-nagara tangtu. Dina sababaraha kasus, nalika anjeun ngaklik kontén anu disarankeun, urang bakal ngabéjaan yén kontén pihak katilu anu kontenna kapanggih dina Firefox Lite, tapi henteu anu manggihanana. Tingali [di dieu](https://support.mozilla.org/kb/firefox-lite-content-and-services) pikeun rinciana.
 
 * __Data kontén__: Sababaraha mitra kontén anu disarankeun ngirim métrik agrégat ngeunaan jinis-jinis kontén jalma kalibet, contona, balanja, olahraga atawa warta, tapi Mozilla henteu narima identitas individu anu kalibet kontén.
 

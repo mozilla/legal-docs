@@ -26,7 +26,7 @@ Firefox Lite nampilake isi, umpamane Situs Paling Ndhuwur (situs web sing disara
 
 * __Data Teknis & Interaksi__: Firefox Lite ngirimi kita data, contone posisi, ukuran, lan penempatan Situs Paling Ndhuwur lan Isi & Layanan sing kita saranake, lan data dhasar interaksi-interaksi panjenengan karo isi sing disaranake. Data iki klebu kaping piro isi sing disaranake iku dibuka utawa di-klik lan wektu sing digunaake kanggo interaksi karo saran-saran iku. 
 
-* __Isi & Layanan__: Isi & Layanan Firefox Lite iku warta lokal sing sifate ora pribadi, dolanan, kesepakatan, lan isih akeh maneh sing ditawakake mitra kita ing Negara-Negara tartamtu. Ing sawetara kasus, nalika panjenengan nge-klik isi sing disaranake, kita bakal ngabari sing nduwe isi pihak katelu yen isi iku mau ditemokake ing Firefox Lite, nanging dudu sapa sing nemoake isi mau. Gatekno [ing kene](https://support.mozilla.org/kb/life-feed-firefox-lite) rincian sing luwih lengkap.
+* __Isi & Layanan__: Isi & Layanan Firefox Lite iku warta lokal sing sifate ora pribadi, dolanan, kesepakatan, lan isih akeh maneh sing ditawakake mitra kita ing Negara-Negara tartamtu. Ing sawetara kasus, nalika panjenengan nge-klik isi sing disaranake, kita bakal ngabari sing nduwe isi pihak katelu yen isi iku mau ditemokake ing Firefox Lite, nanging dudu sapa sing nemoake isi mau. Gatekno [ing kene](https://support.mozilla.org/kb/firefox-lite-content-and-services) rincian sing luwih lengkap.
 
 * __Data isi__: Sawetara mitra isi sing disaranake ngirimi kita metrik agregat babagan jinis isi sing diwaca wong, umpamane, blanja, olahraga, atau warta, nanging Mozilla ora nampa identitas individu sing maca isi iku.
 
