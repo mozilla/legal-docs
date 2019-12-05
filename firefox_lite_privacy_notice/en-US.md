@@ -1,7 +1,7 @@
 # <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-October 22, 2019
-{: datetime="2019-10-22" }
+December 10, 2019
+{: datetime="2019-12-10" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -26,7 +26,7 @@ Firefox Lite displays content, such as Top Sites (websites suggested by Mozilla 
 
 * __Technical & Interaction data__: Firefox Lite sends us data such as the position, size and placement of both the Top Sites and Content & Services content we suggest, as well as basic data about your interactions with the suggested content. This includes the number of times suggested content is displayed or clicked and time spent engaging with suggestions. 
 
-* __Content & Services__: The Firefox Lite Content & Services  is non-personalized localized news, games, deals and more offered by our partners in certain countries. In some cases, when you click on suggested content, we will notify the third-party content owner their content was found on Firefox Lite, but not who found it. See [here](https://support.mozilla.org/kb/firefox-lite-content-and-services) for more details.
+* __Content & Services__: The Firefox Lite Content & Services  is localized news, games, deals and more offered by our partners in certain countries. In some cases, when you click on suggested content, we will notify the third-party content owner their content was found on Firefox Lite, but not who found it. This includes content from YouTube. You can read the YouTube [Terms](https://www.youtube.com/t/terms) and [Privacy Policy](https://policies.google.com/privacy) for more information. See [here](https://support.mozilla.org/kb/firefox-lite-content-and-services) for more details.
 
 * __Content data__: Some partners of suggested content send us aggregate metrics on the types of content people engage with, for example, shopping, sports or news, but Mozilla does not receive the identity of individuals who engage with the content.
 
