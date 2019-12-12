@@ -48,7 +48,7 @@ Para tulungan kaming pagandahin ang performance, magbigay ng suporta sa mga pag-
 
 ### MAGHANAP
 
-Maaari kang gumawa ng mga paghahanap nang direkta sa search bar sa Firefox Lite._Hindi natatanggap ng Mozilla ang iyong mga query sa paghahanap._Ang data ng query ay ipinapadala sa iyong search provider na may sarili nilang patakaran sa privacy.
+Maaari kang gumawa ng mga paghahanap nang direkta sa search bar sa Firefox Lite. _Hindi natatanggap ng Mozilla ang iyong mga query sa paghahanap._ Ang data ng query ay ipinapadala sa iyong search provider na may sarili nilang patakaran sa privacy.
 
 * __Mga Mungkahi sa Paghahanap__: Bilang default, ipinapadala ng Firefox Lite ang mga query sa paghahanap sa iyong search provider para matulungan kang malaman ang mga karaniwang parirala na hinanap ng ibang tao at pagandahin ang iyong karanasan sa paghahanap. Hindi ipapadala ang data na ito kung hindi sinusuportahan ng napili mong search provider ang mga mungkahi sa paghahanap.
 {: #searchsuggestions }
