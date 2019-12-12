@@ -1,7 +1,7 @@
 # <span class="privacy-header-firefox-lite">Pemberitahuan Privasi</span> <span class="privacy-header-policy">Firefox Lite</span>
 
-22 Oktober 2019
-{: datetime="2019-10-22" }
+10 Desember 2019
+{: datetime="2019-12-10" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang fundamental untuk internet yang sehat.
 
@@ -20,13 +20,13 @@ Dalam Pemberitahuan Privasi ini, kami menjelaskan data apa yang diterima dan dib
 Baca detail dokumentasi Firefox Lite [di sini](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) atau nonaktifkan “Kirim Data Penggunaan” di Pengaturan Anda.
 {: #telemetry }
 
-###MENYARANKAN KONTEN YANG RELEVAN
+### MENYARANKAN KONTEN YANG RELEVAN
 
 Firefox Lite menampilkan konten, seperti Situs Teratas (situs web yang disarankan Mozilla untuk pengguna baru Firefox Lite) dan Konten & Layanan (Berita yang tidak dipersonalisasi, Belanja, Permainan, dan Masih banyak lagi).
 
 * __Data Teknis & Interaksi__: Firefox Lite mengirimi kami data seperti posisi, ukuran, dan letak konten Situs dan Konten & Layanan Teratas yang kami sarankan, serta data dasar tentang interaksi Anda dengan konten yang disarankan tersebut. Data ini termasuk berapa kali konten yang disarankan tersebut ditampilkan atau diklik dan lama waktu yang dihabiskan untuk berinteraksi dengan saran tersebut. 
 
-* __Konten & Layanan__: Konten & Layanan Firefox Lite merupakan berita lokal yang tidak dipersonalisasi, permainan, diskon, dan masih banyak lagi yang ditawarkan oleh mitra kami di negara-negara tertentu. Pada beberapa kasus, jika Anda mengklik konten yang disarankan, kami akan memberi tahu pemilik konten pihak ketiga bahwa konten mereka ditemukan di Firefox Lite, tetapi tidak memberi tahu siapa yang menemukannya. Lihat [di sini](https://support.mozilla.org/kb/firefox-lite-content-and-services) untuk detail selengkapnya.
+* __Konten & Layanan__: Konten & Layanan Firefox Lite adalah berita yang dilokalkan, game, promosi, dan lain-lain yang ditawarkan mitra kami di negara-negara tertentu. Dalam beberapa kasus, saat Anda mengklik konten yang disarankan, kami akan memberi tahu pemilik konten pihak ketiga bahwa kontennya ditemukan di Firefox Lite, tetapi bukan siapa yang menemukannya. Ini termasuk konten dari YouTube. Anda bisa membaca [Ketentuan](https://www.youtube.com/t/terms) dan [Kebijakan Privasi](https://policies.google.com/privacy) YouTube untuk informasi selengkapnya. Lihat [di sini](https://support.mozilla.org/kb/firefox-lite-content-and-services) untuk detail selengkapnya.
 
 * __Data konten__: Beberapa mitra konten yang disarankan mengirimi kami metrik agregat tentang jenis konten yang dibaca orang, misalnya, belanja, olahraga, atau berita, tetapi Mozilla tidak menerima identitas individu yang membaca konten tersebut.
 
