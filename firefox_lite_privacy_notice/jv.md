@@ -1,7 +1,7 @@
 # <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Pemberitahuan Privasi</span>
 
-22 Oktober 2019
-{: datetime="2019-10-22" }
+10 Desember 2019
+{: datetime="2019-12-10" }
 
 ## Ing Mozilla, kita percaya yen privasi iku penting banget kanggo internet sehat.
 
@@ -26,7 +26,7 @@ Firefox Lite nampilake isi, umpamane Situs Paling Ndhuwur (situs web sing disara
 
 * __Data Teknis & Interaksi__: Firefox Lite ngirimi kita data, contone posisi, ukuran, lan penempatan Situs Paling Ndhuwur lan Isi & Layanan sing kita saranake, lan data dhasar interaksi-interaksi panjenengan karo isi sing disaranake. Data iki klebu kaping piro isi sing disaranake iku dibuka utawa di-klik lan wektu sing digunaake kanggo interaksi karo saran-saran iku. 
 
-* __Isi & Layanan__: Isi & Layanan Firefox Lite iku warta lokal sing sifate ora pribadi, dolanan, kesepakatan, lan isih akeh maneh sing ditawakake mitra kita ing Negara-Negara tartamtu. Ing sawetara kasus, nalika panjenengan nge-klik isi sing disaranake, kita bakal ngabari sing nduwe isi pihak katelu yen isi iku mau ditemokake ing Firefox Lite, nanging dudu sapa sing nemoake isi mau. Gatekno [ing kene](https://support.mozilla.org/kb/firefox-lite-content-and-services) rincian sing luwih lengkap.
+* __Konten & Layanan__:  Konten & Layanan Firefox Lite iku warta, dolanan sing dilokalake, tawaran istimewa lan liya-liyane sing ditawakake para mitra kita ing negara-negara tartamtu. Ing sawetara kasus, nalika panjenengan nge-klik konten sing disaranake, kita bakal ngabari pihak katelu sing duwe konten sing isine ditemokake ing Firefox Lite, nanging dudu sapa sing nemokake. Iki kalebu konten saka YouTube. Panjenengan bisa maca [Syarat](https://www.youtube.com/t/terms) lan [Kabijakan Privasi](https://policies.google.com/privacy) YouTube kanggo informasi luwih lengkap. Deloken [ing kene](https://support.mozilla.org/kb/firefox-lite-content-and-services) kanggo informasi sing luwih rinci.
 
 * __Data isi__: Sawetara mitra isi sing disaranake ngirimi kita metrik agregat babagan jinis isi sing diwaca wong, umpamane, blanja, olahraga, atau warta, nanging Mozilla ora nampa identitas individu sing maca isi iku.
 
