@@ -1,7 +1,7 @@
 # <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Abiso sa Privacy</span>
 
-Oktubre 22, 2019
-{: datetime="2019-10-22" }
+Disyembre 10, 2019
+{: datetime="2019-12-10" }
 
 ## Sa Mozilla, naniniwala kaming mahalaga ang privacy para sa isang masiglang internet.
 
@@ -26,7 +26,7 @@ Nagpapakita ang Firefox Lite ng content, gaya ng Mga Nangungunang Site (mga webs
 
 * __Teknikal na data at data ng Interaksyon__:Nagpapadala sa amin ang Firefox Lite ng data gaya ng posisyon, laki at placement ng parehong content na Mga Nangungunang Site at Content at Mga Serbisyo na iminumungkahi namin, pati na rin ang pangunahing data tungkol sa iyong mga interaksyon sa iminungkahing content.Kasama rito ang bilang ng beses na ipinapakita o kini-click ang iminumungkahing content at ang oras na ginugugol sa pakikipag-ugnayan sa mga mungkahi. 
 
-* __Content at Mga Serbisyo__:Ang Content at Mga Serbisyo ng Firefox Lite ay hindi naka-personalize na na-localize na mga balita, laro, deal at higit pa na inaalok ng aming mga partner sa ilang bansa.Sa ilang pagkakataon, kapag nag-click ka sa iminungkahing content, aabisuhan namin ang may-ari ng third-party na content na nakita ang kanilang content sa Firefox Lite, pero hindi kung sino ang nakakita rito.Tingnan [dito](https://support.mozilla.org/kb/firefox-lite-content-and-services) para sa higit pang mga detalye.
+* __Content at Mga Serbisyo__: Ang Content at Mga Serbisyo ng Firefox Lite ay hindi na-localize na mga balita, laro, deal at higit pa na inaalok ng aming mga partner sa ilang bansa.Sa ilang pagkakataon, kapag nag-click ka sa iminungkahing content, aabisuhan namin ang may-ari ng third-party na content na nakita ang kanilang content sa Firefox Lite, pero hindi kung sino ang nakakita rito. Kasama dito ang nilalaman mula sa YouTube. Maaari mong basahin ang [Mga Tuntunin](https://www.youtube.com/t/terms) at [Patakaran sa Pagkapribado](https://policies.google.com/privacy) ng YouTube para sa karagdagang impormasyon. Tingnan [dito](https://support.mozilla.org/kb/firefox-lite-content-and-services) para sa higit pang mga detalye.
 
 * __Data ng content__:Nagpapadala sa amin ang ilang partner ng iminungkahing content ng mga pinagsama-samang sukatan sa mga uri ng content kung saan nakipag-ugnayan ang mga tao, halimbawa, pamimili, sports o balita, pero hindi natatanggap ng Mozilla ang pagkakakilanlan ng mga indibidwal na nakipag-ugnayan sa content.
 
