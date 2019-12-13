@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">Thông báo Quyền riêng tư</span>
 
-22 Tháng Mười 2019
-{: datetime="2019-10-22" }
+Ngày 10 tháng 12 năm 2019
+{: datetime="2019-12-10" }
 
 ## Tại Mozilla, chúng tôi tin tưởng rằng quyền riêng tư là nền tảng của một môi trường internet lành mạnh.
 
@@ -26,7 +26,7 @@ Firefox Lite hiển thị nội dung như các Trang hàng đầu (các website 
 
 * __Dữ liệu Kỹ thuật & Tương tác__: Firefox Lite gửi cho chúng tôi dữ liệu về vị trí, kích thước và nơi đặt nội dung của các Trang hàng đầu và Nội dung & Dịch vụ chúng tôi gợi ý cũng như dữ liệu cơ bản về tương tác của bạn với nội dung được gợi ý. Dữ liệu này cũng bao gồm số lần nội dung gợi ý được hiển thị hay nhấp vào và thời gian tương tác với chúng. 
 
-* __Nội dung & Dịch vụ__: Nội dung & Dịch vụ của Firefox Lite là các tin tức, trò chơi, giao dịch và nhiều nội dung khác được bản địa hóa không theo sở thích của người dùng và được các đối tác của chúng tôi cung cấp tại một số quốc gia. Trong một số trường hợp, khi bạn nhấp vào nội dung được gợi ý, chúng tôi sẽ thông báo cho chủ sở hữu nội dung bên thứ ba biết nội dung của họ được tìm thấy trên Firefox Lite, nhưng chúng tôi sẽ không cho biết người dùng đã tìm thấy nội dung đó. Xem [tại đây](https://support.mozilla.org/kb/firefox-lite-content-and-services) để biết thêm chi tiết.
+* __Nội dung & Dịch vụ__: Nội dung & Dịch vụ của Firefox Lite là tin tức, trò chơi, ưu đãi và nhiều hơn nữa, được địa phương hóa và cung cấp bởi các đối tác của chúng tôi trong các quốc gia nhất định. Trong một số trường hợp, khi bạn nhấp vào nội dung được khuyến nghị, chúng tôi sẽ thông báo chủ sở hữu nội dung bên thứ ba về nội dung của họ được tìm kiếm trên Firefox Lite, nhưng không phải người tìm kiếm. Điều này bao gồm cả nội dung từ YouTube. Bạn có thể đọc về [Điều khoản](https://www.youtube.com/t/terms) và [Chính sách quyền riêng tư của YouTube](https://policies.google.com/privacy) để biết thêm thông tin. Bạn hãy xem [ở đây](https://support.mozilla.org/kb/firefox-lite-content-and-services) để biết thêm chi tiết.
 
 * __Dữ liệu nội dung__: Một số đối tác của nội dung được gợi ý gửi cho chúng tôi ma trận tổng hợp của loại nội dung mà mọi người tương tác, ví dụ, mua sắm, thể thao hoặc tin tức, nhưng Mozilla không nhận được danh tính của những cá nhân tương tác với nội dung.
 
