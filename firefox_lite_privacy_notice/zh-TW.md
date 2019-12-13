@@ -1,7 +1,7 @@
 # <span class="privacy-header-firefox-lite">Firefox Lite</span> <span class="privacy-header-policy">隱私權公告</span>
 
-2019 年 10 月 22 日
-{: datetime="2019-10-22" }
+2019 年 12 月 10 日
+{: datetime="2019-12-10" }
 
 ## 在 Mozilla，我們相信健康的網路環境是以尊重隱私為基礎。
 
@@ -26,7 +26,7 @@ Firefox Lite 會顯示「熱門網站」（由 Mozilla 推薦給初次使用 Fir
 
 * __技術與互動資料__：Firefox Lite 會向我們傳送所建議之「熱門網站」及「內容與服務」等內容的位置、大小與置入方式等資料，以及您與建議內容如何互動的相關資料。這包括所建議內容被顯示或點擊的次數，以及和每項建議內容互動的時間。 
 
-* __內容與服務__：Firefox Lite「內容與服務」提供未經個人化，且由我們在部分國家的合作對象所提供的本地化新聞、遊戲、優惠及其他內容。在某些情況下，您按下建議內容後，我們會通知該第三方內容的提供者瞭解對方的內容曾顯示在 Firefox Lite 上，不過我們不會透漏檢視該內容的對象。請看[此處](https://support.mozilla.org/kb/firefox-lite-content-and-services)瞭解更多資訊。
+* __內容與服務__：Firefox Lite「內容與服務」為我們在部分國家之合作對象所提供的本地化新聞、遊戲、優惠及其他內容。某些情況下，我們在您按下建議內容後會通知該第三方內容的所有者，讓對方瞭解該內容曾顯示在 Firefox Lite 上，不過我們不會透漏檢視該內容的對象，這也包含來自 YouTube 的內容。欲瞭解更多資訊，請參閱 YouTube [服務條款](https://www.youtube.com/t/terms)及[隱私權政策](https://policies.google.com/privacy) 。更多詳情請見[此處](https://support.mozilla.org/kb/firefox-lite-content-and-services)。
 
 * __內容資料__：部份建議內容的合作夥伴會傳送加總指標給我們，以便瞭解受眾互動過的內容類型，如購物、運動或新聞等，但是 Mozilla 不會得知與該內容互動之人士的身份。
 
