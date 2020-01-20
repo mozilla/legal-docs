@@ -58,7 +58,7 @@ If you think something in Common Voice infringes your copyright or trademark rig
 ## 7. Updates 
 Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. 
 
-If you continue to use Common Voice after we post updated Terms, you agree to accept the constitutes your acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made out most recent update. 
+If you continue to use Common Voice after we post updated Terms, you agree to accept that this constitutes your acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made our most recent update. 
 
 ## 8. Termination 
 Mozilla can suspend or end anyone’s access to Common Voice at any time for any reason. If we decide to suspend or end your access, we will try notify you by the email address associated with your account or the next time you attempt to access Common Voice. 
