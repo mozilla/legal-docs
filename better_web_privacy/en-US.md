@@ -1,5 +1,6 @@
-## <span class="privacy-header-firefox">Firefox Better Web (beta) Privacy Notice </span> <span class="privacy-header-policy">Privacy Notice</span>
-Version 0.1 *Effective March 24, 2020*
+# Firefox Better Web (beta) Privacy Notice
+
+Version 0.1, Effective March 24, 2020
 {: datetime="2020-03-24" }
 
 Firefox Better Web (“Service”) is an experimental offering in partnership with Scroll. It is currently limited to the United States.
