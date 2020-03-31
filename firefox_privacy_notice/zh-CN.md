@@ -71,7 +71,7 @@ Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、�
 
 _桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这可让我们确定推荐您到我们下载页面的网站域名或广告活动（如有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/privacy_policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
+_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
 
 * __技术和交互数据__：

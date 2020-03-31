@@ -72,7 +72,7 @@ Baca dokumen lengkapnya [di sini](https://firefox-source-docs.mozilla.org/toolki
 
     _Di Desktop_: Firefox secara baku mengirimkan data HTTP Mozilla yang mungkin disertakan dengan pemasang Firefox.  Data ini memungkinkan kami menentukan domain situs web atau pemasaran iklan (jika ada) yang mengarahkan Anda ke laman unduhan kami. Baca [dokumen](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [nonaktifkan fitur ini](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Di iOS dan Android_: Firefox secara baku mengirimkan data kampanye pemasaran seluler ke Adjust, vendor analitika kami, yang memiliki [kebijakan privasi sendiri](https://www.adjust.com/privacy_policy/).  Data program pemasaran iklan seluler meliputi ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Baca [dokumennya](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+    _Di iOS dan Android_: Firefox secara baku mengirimkan data kampanye pemasaran seluler ke Adjust, vendor analitika kami, yang memiliki [kebijakan privasi sendiri](https://www.adjust.com/terms/privacy-policy/).  Data program pemasaran iklan seluler meliputi ID iklan Google, alamat IP, stempel waktu, negara, bahasa/lokal, sistem operasi, dan versi aplikasi. Baca [dokumennya](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Data Teknis & Interaksi__:
