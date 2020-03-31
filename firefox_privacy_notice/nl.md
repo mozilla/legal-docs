@@ -72,7 +72,7 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
     _Op desktop_: Firefox verzendt standaard HTTP-gegevens naar Mozilla die mogelijk in het installatieprogramma van Firefox zijn opgenomen. Met deze gegevens kunnen we bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-privacy) voordat u de installatie uitvoert.
 
-    _Bij iOS en Android_: Firefox verzendt standaard mobiele campagnegegevens naar Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/privacy_policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+    _Bij iOS en Android_: Firefox verzendt standaard mobiele campagnegegevens naar Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Technische en interactiegegevens__:

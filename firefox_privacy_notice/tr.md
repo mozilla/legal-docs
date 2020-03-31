@@ -72,7 +72,7 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
     _Masaüstünde_: Firefox, varsayılan olarak Firefox’un kurulum aracında yer alabilecek olan Mozilla HTTP verilerini gönderir. Bu sayede sizi indirme sayfamıza yönlendiren web sitesi alan adı ya da reklam kampanyasını (varsa) belirleyebiliriz. [Belgeleri](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) okuyun ya da kurulumdan önce [vazgeçin](https://support.mozilla.org/kb/desktop-privacy).
 
-    _iOS ve Android’de_: Firefox, varsayılan olarak mobil kampanya verilerini, kendi [gizlilik ilkesi](https://www.adjust.com/privacy_policy/) olan analiz sağlayıcımız Adjust’a gönderir. Mobil kampanya verilerine Google reklam kimliği, IP adresi, zaman damgası, ülke, dil/konum, işletim sistemi ve uygulama sürümü bilgileri dahildir. [Belgeyi](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) okuyun.
+    _iOS ve Android’de_: Firefox, varsayılan olarak mobil kampanya verilerini, kendi [gizlilik ilkesi](https://www.adjust.com/terms/privacy-policy/) olan analiz sağlayıcımız Adjust’a gönderir. Mobil kampanya verilerine Google reklam kimliği, IP adresi, zaman damgası, ülke, dil/konum, işletim sistemi ve uygulama sürümü bilgileri dahildir. [Belgeyi](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) okuyun.
 {: #thirdparty }
 
 * __Teknik Veriler Ve Etkileşim Verileri__:

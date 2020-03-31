@@ -72,7 +72,7 @@ La documentazione completa è disponibile in [questa pagina](https://firefox-sou
 
   _Su desktop_: per impostazione predefinita, Firefox invia dati a Mozilla tramite HTTP che potrebbero essere inclusi nell’installer di Firefox. Questo ci consente di determinare il dominio o la campagna pubblicitaria del sito web (se esistenti) che conduce alla nostra pagina di download. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oppure [eseguire l’opt-out](https://support.mozilla.org/kb/desktop-privacy) prima dell’installazione.
 
-  _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di dati analytics, che ha la propria [informativa sulla privacy](https://www.adjust.com/privacy_policy/). I dati per le campagne mobili includono: ID pubblicità Google, indirizzo IP, timestamp, Paese, lingua/impostazioni locali, sistema operativo e versione dell’app. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+  _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di dati analytics, che ha la propria [informativa sulla privacy](https://www.adjust.com/terms/privacy-policy/). I dati per le campagne mobili includono: ID pubblicità Google, indirizzo IP, timestamp, Paese, lingua/impostazioni locali, sistema operativo e versione dell’app. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Dati tecnici e di interazione__:

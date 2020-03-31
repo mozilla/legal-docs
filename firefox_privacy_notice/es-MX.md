@@ -70,7 +70,7 @@ Lee la documentación completa [aquí](https://firefox-source-docs.mozilla.org/t
 
     _En versiones de escritorio_: En forma predeterminada Firefox envía datos HTTP a Mozilla que podrían incluirse en el instalador de Firefox.  Esto nos permite determinar el dominio del sitio web o la campaña de publicidad (si la hubiera) que te remitió a nuestra página de descarga. Lee la [documentación](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) o [cancela esta función](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _En iOS y Android_: En forma predeterminada Firefox envía datos de campaña móvil a Adjust, nuestro proveedor de analítica, que tiene su propia [política de privacidad](https://www.adjust.com/privacy_policy/).  Los datos de campaña para móviles incluyen una ID de publicidad Google, dirección IP, sello de tiempo, país, idioma/localidad, sistema operativo y versión de la aplicación. Lee la [documentación](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+    _En iOS y Android_: En forma predeterminada Firefox envía datos de campaña móvil a Adjust, nuestro proveedor de analítica, que tiene su propia [política de privacidad](https://www.adjust.com/terms/privacy-policy/).  Los datos de campaña para móviles incluyen una ID de publicidad Google, dirección IP, sello de tiempo, país, idioma/localidad, sistema operativo y versión de la aplicación. Lee la [documentación](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Datos técnicos y de interacción__:

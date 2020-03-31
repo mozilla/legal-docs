@@ -72,7 +72,7 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 
     _デスクトップの場合_: Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みください。または、インストールの前に [オプトアウト](https://support.mozilla.org/kb/desktop-privacy) してください。
 
-    _iOS および Android の場合_: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/privacy_policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) をお読みください。
+    _iOS および Android の場合_: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) をお読みください。
 {: #thirdparty }
 
 * __技術・インタラクションデータ__:

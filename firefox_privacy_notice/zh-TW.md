@@ -70,7 +70,7 @@ Firefox 會顯示各種內容，如「Snippet」（來自 Mozilla 的訊息）�
 
 _桌機版_：預設情況下，Firefox 會在安裝程式內傳送 HTTP 資料給 Mozilla。這能讓我們對判斷是由哪個網站或哪場行銷活動（若有的話），轉介您前往我們下載頁面。請閱讀[說明文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或在安裝前[關閉回傳](https://support.mozilla.org/kb/desktop-privacy)。
 
-_iOS 及 Android 版_：預設情況下，Firefox 會傳送行動版行銷活動的資料給我們的分析服務業者 Adjust，它們有自己的[隱私權政策](https://www.adjust.com/privacy_policy/)。行動行銷活動資料當中包含 Google 廣告 ID、IP 地址、時間戳記、國家、語言/語系、作業系統及應用程式版本。可在此閱讀[說明文件](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
+_iOS 及 Android 版_：預設情況下，Firefox 會傳送行動版行銷活動的資料給我們的分析服務業者 Adjust，它們有自己的[隱私權政策](https://www.adjust.com/terms/privacy-policy/)。行動行銷活動資料當中包含 Google 廣告 ID、IP 地址、時間戳記、國家、語言/語系、作業系統及應用程式版本。可在此閱讀[說明文件](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
 
 * __技術及互動資料__：
