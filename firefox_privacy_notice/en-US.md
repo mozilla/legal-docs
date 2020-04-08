@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective October 31, 2019*
-{: datetime="2019-10-31" }
+*Effective April 8, 2020*
+{: datetime="2020-04-08" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -43,9 +43,10 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on
 
 **Webpage data to DNS Resolver service**: For some Firefox users in the United States, Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution.  [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
 
-**[Cloudflare](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/firefox/)**
+* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/firefox/)
+* [__NextDNS__](https://nextdns.io/privacy)
 
-**Technical data for updates**: Desktop versions of Firefox periodically check for browser updates by connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+**Technical data for updates**: Desktop versions of Firefox check for browser updates by persistently connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
 **Technical data for add-ons blocklist**: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
@@ -114,7 +115,7 @@ Read the full documentation or learn more, including how to manage your Firefox 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
 * [Firefox Send](http://send.firefox.com/legal)
-* [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### Sync {: #sync }
 
@@ -129,18 +130,6 @@ Read the full documentation or learn more, including how to manage your Firefox 
 * __Location data to Google's geolocation service__: Firefox always asks before determining and sharing your location with a requesting website (for example, if a map website needs your location to provide directions).  To determine location, Firefox may use your operating system’s geolocation features, Wi-fi networks, cell phone towers, or IP address, and may send this data to Google's geolocation service, which has its own [privacy policy](https://www.google.com/privacy/lsf.html).
 
 [Learn more](https://www.mozilla.org/firefox/geolocation/).
-
-### Firefox Screenshots {: #screenshots }
-
-* __Screenshot uploads__: Screenshots you choose to upload are sent to Mozilla and stored for the limited amount of time indicated, which you can change.  We may access your uploaded screenshots when reasonably necessary for the operation of the service.  You can delete your uploaded screenshots at any time.
-
-* __Interaction data__: We receive data such as visits to the Firefox Screenshots website, how often uploaded screenshots are accessed and shared by you or others, and your interactions with buttons, tiles, and mouse movements related to capturing screenshots.
-
-    For visits to the Firefox Screenshots website, our [websites privacy notice](https://www.mozilla.org/privacy/websites/) describes the types of data we may additionally collect.
-
-* __Technical data__: We receive data such as the average size and number of your uploaded screenshots, your Firefox browser version, device operating system, and errors.  The IP address accessing the Firefox Screenshots website is temporarily collected as part of a standard server log.
-
-Read the [full documentation](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) or [learn more](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
 ### Website notifications {: #push-notifications }
 
