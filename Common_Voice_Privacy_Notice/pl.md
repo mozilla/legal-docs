@@ -1,21 +1,24 @@
-# Zasady ochrony prywatności dotyczące projektu Common Voice 
+# Powiadomienie o ochronie prywatności w Common Voice 
 
-Data wejścia w życie: 1 maja 2017 r. {: datetime="2018-05-01" }
+Data wejścia w życie: 15 sierpnia 2019 r. {: datetime="2019-08-15" }
 
-## Prywatność
+## Ochrona prywatności
 
-Kiedy Mozilla (czyli my) otrzymuje od Ciebie informacje, nasze [zasady ochrony prywatności](https://www.mozilla.org/privacy) opisują sposób, w jaki je przetwarzamy.
+Jeśli Mozilla (czyli my) otrzymuje informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy).
 
-* **Dane demograficzne.** Możesz dobrowolnie przesłać nam dodatkowe informacje o swoim akcencie, wieku i płci. To pozwala nam i innym analitykom tworzyć systemy oraz narzędzia rozpoznawania mowy.
+* **Dane demograficzne.** Użytkownik może opcjonalnie przesyłać nam informacje, takie jak Twój akcent, wiek i płeć. Pomaga to nam i innym badaczom doskonalić oraz tworzyć technologie i narzędzia do przekształcania mowy w tekst.
 
-* **Dane poczty elektronicznej.** Zakładając konto lub subskrybując nasz biuletyn, przekazujesz nam swój adres e-mail. Jest on powiązany z Twoimi danymi demograficznymi i danymi interakcji, ale nie jest ogólnodostępny.
+* **Dane konta.** W celu użycia Common Voice nie jest konieczne tworzenie konta. Jeśli Użytkownik zdecyduje się utworzyć konto, otrzymamy jego nazwę użytkownika i awatar, gdy zostanie przesłany. Adres e-mail Użytkownika jest powiązany z jego danymi demograficznymi i danymi dotyczącymi interakcji, ale nie jest udostępniany publicznie. Wyświetlamy tablice liderów pokazujące liczbę nagrań wykonanych przez użytkowników. Użytkownik może zdecydować, czy chce pojawiać się na tablicach liderów. W każdej chwili Użytkownik może usunąć swoje konto, a jego nazwa użytkownika i adres e-mail zostaną usunięte.
 
-* **Nagrania głosowe.** Nagrania głosowe wraz z dowolnymi powiązanymi danymi demograficznymi mogą być dostępne w publicznym zbiorze danych Common Voice do pobrania i wykorzystania.
+* **Biuletyn.** Użytkownik może zasubskrybować nasz biuletyn. W takim przypadku otrzymamy jego adres e-mail. W każdej chwili Użytkownik może anulować subskrypcję, a jego adres e-mail zostanie usunięty z listy dystrybucyjnej biuletynu.
 
-* **Tekst.** Jeśli prześlesz nam tekst, możemy go udostępnić w publicznym zbiorze danych Common Voice do pobrania i wykorzystania. Nie powiążemy go z przesłanymi przez Ciebie danymi demograficznymi. 
+* **Nagrania głosowe.** Nagrania głosowe, wraz ze wszystkimi podanymi opcjonalnie danymi demograficznymi, mogą być dostępne w bazie danych Common Voice do użytku publicznego i mogą być używane w ramach licencji Creative Commons Zero License ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
-* **Dane interakcji.** Korzystamy z usługi Google Analytics, by lepiej zrozumieć sposób, w jaki korzystasz z aplikacji i witryny internetowej Common Voice. Dotyczy to na przykład liczby próbek głosu, które nagrywasz lub odtwarzasz, kliknięć przycisków i menu czy długość sesji.
+* **Tekst.** W przypadku przesłania pisemnych zdań możemy je również udostępnić w bazie danych Common Voice do użytku publicznego w ramach licencji [CC0](https://creativecommons.org/publicdomain/zero/1.0/), zgodnie z naszymi próbkami. Takie zdania nie zostaną powiązane z danymi demograficznymi, które zostały przesłane przez Użytkownika.
 
-* **Dane techniczne.** Korzystając z usługi Google Analytics, gromadzimy informacje o adresach URL i nazwach odwiedzanych przez Ciebie stron w witrynie Common Voice. Gromadzone dane obejmują informacje o przeglądarce, wielkości okna i rozdzielczości ekranu. Dotyczy to również lokalizacji oraz języka używanego w przeglądarce.
+* **Dane interakcji.** Używamy usługi Google Analytics do lepszego zrozumienia sposobu interakcji z aplikacją lub witryną Common Voice. Na przykład, możemy używać plików cookie do śledzenia informacji nieumożliwiających identyfikacji, takich jak liczba nagranych lub odsłuchanych próbek głosu, interakcje z przyciskami i menu oraz długość sesji.
+
+* **Dane techniczne.** Używamy usługi Google Analytics do lepszego zrozumienia sposobu interakcji z aplikacją lub witryną Common Voice. Na przykład, możemy używać plików cookie do śledzenia informacji nieumożliwiających identyfikacji, takich jak liczba nagranych lub odsłuchanych próbek głosu, interakcje z przyciskami i menu oraz długość sesji. Zbieramy także adres URL i tytuł stron Common Voice odwiedzanych przez Użytkownika. Aby stale ulepszać funkcje Common Voice, zbieramy informacje o typie i wersji przeglądarki, wielkości okienka ekranu i rozdzielczości ekranu. Umożliwia to nam zrozumienie sposobu interakcji użytkowników z Common Voice, dzięki czemu możemy wprowadzać ulepszenia. Zbieramy również lokalizację i ustawienia językowe Użytkownika w przeglądarce, aby zapewnić właściwy wygląd. Aby zrezygnować z gromadzenia danych przez usługę Google Analytics, można zainstalować [dodatek do przeglądarki Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), który zatrzymuje przesyłanie danych do usługi Google Analytics. 
 
 [Więcej informacji](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+
