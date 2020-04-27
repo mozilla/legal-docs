@@ -1,39 +1,69 @@
-# Ketentuan Hukum Common Voice 
+# Ketentuan Hukum Common Voice
 
-Berlaku 1 Mei, 2018 
-{: datetime="2018-05-01" }
+Berlaku 30 November 2018 {: datetime="2018-11-30" }
 
-## Persyaratan
+Melalui Common Voice, Anda bisa menyumbangkan suara, kalimat tertulis, dan sumber daya lain yang kami perlukan untuk membangun basis data suara sumber terbuka yang bisa digunakan semua orang untuk membuat aplikasi pengenalan suara yang inovatif untuk perangkat dan situs web.
 
-Untuk ikut serta dalam proyek urun daya kami, Anda harus berusia lebih dari 19 tahun atau telah meminta persetujuan orang tua atau wali Anda untuk mengawasi keikutsertaan Anda dalam proyek urun daya kami. Dengan ikut serta, berarti Anda juga setuju untuk terikat dengan [Pedoman Partisipasi Komunitas Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
+Anda dapat berpartisipasi di Common Voice jika setuju dengan Ketentuan berikut ini.
 
-## Kontribusi dan Pembebasan Hak Anda
+## 1. Persyaratan
+Common Voice terbuka bagi siapa saja yang berusia di atas 19 tahun. Jika Anda berusia 19 tahun atau kurang, Anda harus meminta persetujuan orang tua atau wali, dan mereka harus mengawasi partisipasi Anda dalam Common Voice.
 
-Jika Anda mengirimkan teks tertulis atau rekaman, Anda memberikan jaminan kepada Mozilla bahwa Anda telah menulis isi teks tersebut dan bahwa rekaman tersebut adalah suara Anda sendiri. Anda juga memberikan jaminan kepada Mozilla bahwa Anda berhak untuk mengirimkan teks atau rekaman tersebut untuk digunakan dalam proyek umum di bawah lisensi [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) dan bahwa teks atau rekaman tersebut tidak melanggar hak pihak ketiga. 
+Common Voice adalah bagian dari Komunitas Mozilla. Dengan ikut serta, Anda juga setuju untuk mematuhi [Pedoman Partisipasi Komunitas Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-Dengan mengirimkan teks tertulis atau rekaman audio, Anda membebaskan seluruh hak cipta dan hak terkait lainnya yang mungkin Anda miliki di dalamnya, dan Anda setuju untuk membebaskan teks tertulis atau rekaman audio tersebut untuk umum di bawah lisensi [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Hal ini berarti Anda setuju untuk membebaskan seluruh hak terkait teks dan rekaman tersebut di seluruh dunia berdasarkan undang-undang yang mengatur tentang hak cipta dan basis data, termasuk hak moral dan penyiaran serta seluruh hak terkait.
+## 2. Kontribusi Anda 
+Kami menyediakan basis data Common Voice Mozilla berdasarkan [dedikasi domain publik Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Artinya basis data ini tersedia untuk publik dan kami telah membebaskan semua hak cipta sejauh yang diizinkan oleh undang-undang. Jika Anda berpartisipasi dalam Common Voice, kami minta Anda bertindak yang sama. Anda harus setuju bahwa Mozilla bisa menawarkan semua Kontribusi Anda (termasuk teks, rekaman, validasi, dan masukan) kepada publik berdasarkan dedikasi domain publik [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Komunikasi
+Jika ingin berpartisipasi dalam Common Voice, Mozilla juga mengharuskan Anda membuat dua pernyataan:
 
-Apabila Anda berlangganan buletin kami atau mendaftarkan akun sehubungan dengan Common Voice, Anda mungkin menerima surel dari kami berkaitan dengan akun Anda (misalnya pembaruan ketentuan hukum, privasi, dan keamanan).
+Pertama, bahwa Kontribusi Anda murni buatan sendiri.
 
-## Umum
+Kedua, bahwa Kontribusi Anda tidak melanggar hak milik pihak ketiga mana pun. 
 
-Sangkalan; Batasan Kewajiban: COMMON VOICE SERTA SEMUA TEKS DAN REKAMAN YANG MASUK DISEDIAKAN “APA ADANYA” TANPA JAMINAN APA PUN, BAIK TERSURAT ATAU TERSIRAT. MOZILLA TIDAK BERTANGGUNG JAWAB DAN TIDAK BERKEWAJIBAN ATAS TEKS ATAU REKAMAN YANG ANDA ATAU PENGGUNA LAIN ATAU PIHAK KETIGA POSTING ATAU TRANSMISIKAN MENGGUNAKAN COMMON VOICE. MOZILLA SECARA KHUSUS MENYANGKAL SETIAP DAN SEMUA JAMINAN DAN KETENTUAN TERHADAP KELAYAKAN 
-UNTUK DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, SERTA BEBAS PELANGGARAN, DAN JAMINAN APA PUN YANG TIMBUL DARI KESEPAKATAN ATAU PENGGUNAAN PERDAGANGAN.
+Jika tidak dapat membuat dua pernyataan tersebut, Anda tidak dapat berpartisipasi dalam Common Voice. 
 
-SEJAUH YANG DIIZINKAN OLEH HUKUM YANG BERLAKU, ANDA SETUJU UNTUK MEMBEBASKAN MOZILLA CORPORATION DAN PERUSAHAAN INDUK, ANAK PERUSAHAAN, AFILIASI, DIREKTUR, PEGAWAI, KARYAWAN, DAN AGENNYA ("PIHAK MOZILLA"), DARI SETIAP DAN SEMUA KEWAJIBAN ATAS SETIAP KERUSAKAN, KERUGIAN, ATAU PENUNDAAN (TERMASUK CEDERA DIRI, KEMATIAN, ATAU KERUSAKAN PROPERTI) YANG DIAKIBATKAN, BAIK SEBAGIAN MAUPUN SELURUHNYA, LANGSUNG MAUPUN TIDAK LANGSUNG, OLEH KEIKUTSERTAAN ANDA DALAM COMMON VOICE.
+## 3. Akun Anda
+Anda tidak perlu membuat akun untuk berpartisipasi dalam Common Voice. 
 
-KECUALI DIWAJIBKAN OLEH ATURAN HUKUM, MOZILLA DAN PIHAK MOZILLA TIDAK AKAN BERTANGGUNG JAWAB ATAS KERUGIAN TAK LANGSUNG, ISTIMEWA, INSIDENTAL, AKIBAT ATAU CONTOH YANG TIMBUL DARI ATAU DENGAN CARA APA PUN BERKAITAN DENGAN KETENTUAN INI ATAU PENGGUNAAN DARI ATAU KETIDAKMAMPUAN UNTUK MENGGUNAKAN LAYANAN, TERMASUK TANPA TERBATAS KERUGIAN LANGSUNG DAN TAK LANGSUNG ATAS HILANGNYA IKTIKAD BAIK, PENGHENTIAN KERJA, HILANGNYA KEUNTUNGAN, HILANGNYA DATA, DAN KERUSAKAN ATAU KEGAGALAN FUNGSI KOMPUTER, BAHKAN JIKA DIBERITAHUKAN MENGENAI KEMUNGKINAN KERUGIAN TERSEBUT DAN TANPA MEMPERTIMBANGKAN TEORI (KONTRAK, DI LUAR KONTRAK, ATAU LAINNYA) YANG DIGUNAKAN UNTUK MENGKLAIM. KEWAJIBAN KOLEKTIF MOZILLA DAN PIHAK MOZILLA MENURUT PERJANJIAN INI TIDAK AKAN MELAMPAUI $500 (LIMA RATUS DOLLAR AS). SEJUMLAH YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN KERUGIAN INSIDENTAL, AKIBAT, ATAU KHUSUS SEHINGGA PENGECUALIAN DAN PEMBATASAN INI MUNGKIN TIDAK BERLAKU BAGI ANDA.
+Jika tidak membuat akun, Mozilla akan meminta alamat email dan nama pengguna yang ingin Anda gunakan. Anda juga dapat memberikan avatar dan data demografis tertentu sehingga bisa membantu kami menemukan cara untuk mengajarkan mesin cara memahami orang dengan berbagai logat, usia, jenis kelamin, dan latar belakang.
 
-## Pembaruan 
+Ketika Anda memberikan informasi untuk akun, Anda memberi Mozilla semua izin yang diperlukan untuk: 
+terus melacak informasi tentang Kontribusi Anda, termasuk rekaman audio, teks, dan validasi, 
+mengaitkan data itu dengan akun, email, nama pengguna, dan informasi demografis yang Anda berikan, dan
+menerbitkan Kontribusi Anda secara publik beserta semua informasi demografis,
+menerbitkan metrik tentang Kontribusi Anda (seperti jumlah rekaman dan bahasa) beserta nama pengguna Anda di papan peringkat.
 
-Mozilla mungkin memperbarui Ketentuan ini dari waktu ke waktu untuk membahas fitur baru Common Voice atau untuk memperjelas suatu ketentuan. Ketentuan yang diperbarui akan diposting di internet. Apabila perubahannya bersifat penting, kami akan mengumumkan pembaruan tersebut melalui saluran-saluran umum Mozilla seperti artikel blog dan forum. Jika Anda terus menggunakan Common Voice setelah tanggal berlaku perubahan tersebut, berarti Anda menyetujui perubahan tersebut. Agar Anda lebih mudah mempelajarinya, kami akan memposting tanggal berlaku perubahan tersebut di bagian atas laman ini.
+Mozilla tidak akan memposting atau menerbitkan alamat email Anda secara publik.
 
-## Penghentian 
+Anda dapat memilih untuk tidak muncul di papan peringkat. Jika Anda memilihnya, Mozilla tidak akan menerbitkan data tentang rekaman yang terkait dengan nama pengguna Anda. Namun, Mozilla masih akan menyediakan teks dan rekaman Anda untuk publik sebagai bagian dari Common Voice dan akan menyertakan informasi tentang rekaman Anda dalam metrik keseluruhan yang tersedia untuk publik.
 
-Kami mungkin menangguhkan atau menghentikan akses Anda ke Common Voice kapan pun dengan alasan apa pun, kami akan memberi tahu Anda dengan cara yang sewajarnya melalui alamat surel yang terkait dengan akun Anda atau saat Anda mencoba mengakses Common Voice. Tanpa mengindahkan penghentian apa pun, semua rekaman yang sudah Anda kirimkan ke Mozilla akan tetap tersedia untuk umum.
+## 4. Komunikasi
+Jika Anda berlangganan buletin kami atau mendaftar akun yang terkait dengan Common Voice, Anda mungkin menerima email dari kami sehubungan dengan akun Anda. 
 
-## Undang-Undang yang Berlaku
+## 5. Sangkalan
 
-Ketentuan Hukum ini merupakan perjanjian keseluruhan antara Anda dan Mozilla terkait Common Voice dan diatur oleh undang-undang negara bagian California, AS.
+Dengan berpartisipasi dalam Common Voice, berarti Anda setuju bahwa Mozilla tidak akan bertanggung jawab dengan cara apa pun atas ketidakmampuan untuk menggunakan Common Voice atau untuk klaim apa pun yang muncul dari ketentuan ini. Mozilla secara khusus menyangkal berikut:
+Kerugian tidak langsung, khusus, insidental, konsekuensial, atau punitif
+Kerugian langsung atau tidak langsung atas hilangnya iktikad baik, penghentian kerja, hilangnya keuntungan, hilangnya data, atau kegagalan fungsi komputer
+
+Kewajiban yang dimaksud dalam perjanjian ini terbatas sebesar $500.
+
+Anda setuju untuk mengganti rugi dan membebaskan Mozilla dari segala kewajiban atau klaim yang muncul akibat partisipasi Anda dalam Common Voice.
+
+Mozilla menyediakan layanan ini “apa adanya”. Mozilla secara khusus menyangkal segala jaminan atau garansi hukum seperti “kemampuan untuk diperdagangkan”, “kesesuaian untuk tujuan tertentu”, “bebas pelanggaran”, dan jaminan yang timbul dari proses transaksi, penggunaan, atau perdagangan. 
+
+## 6. Pemberitahuan Pelanggaran
+Jika merasa ada sesuatu di Common Voice yang melanggar hak cipta atau hak merek dagang Anda, silakan pelajari [kebijakan kami tentang cara melaporkan pelanggaran](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Pembaruan
+Mozilla mungkin memperbarui Ketentuan ini dari waktu ke waktu. Kami akan memposting pembaruan Ketentuan secara online. 
+
+Jika Anda terus menggunakan Common Voice setelah kami memposting pembaruan Ketentuan, berarti Anda menyetujui perubahan tersebut. Kami akan memposting tanggal berlaku di bagian atas laman ini agar jelas kapan kami melakukan perubahan terbaru. 
+
+## 8. Penghentian
+Mozilla dapat menangguhkan atau menghentikan akses siapa saja ke Common Voice kapan pun dengan alasan apa pun. Jika kami memutuskan untuk menangguhkan atau menghentikan akses Anda, kami akan memberi tahu Anda melalui alamat email yang terkait dengan akun Anda atau saat lain kali Anda mencoba mengakses Common Voice. 
+
+semua rekaman yang sudah Anda kirimkan ke Mozilla akan tetap tersedia untuk publik sebagai bagian dari Common Voice, meskipun kami menghentikan atau menangguhkan akses Anda.
+
+## 9. Undang-Undang yang Berlaku
+Undang-undang California berlaku untuk Ketentuan ini. Ketentuan ini merupakan perjanjian menyeluruh antara Anda dan Mozilla terkait Common Voice.
