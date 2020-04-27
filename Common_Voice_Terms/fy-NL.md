@@ -1,38 +1,69 @@
-# Juridyske betingsten fan Common Voice
+# Common Voice juridyske betingsten
 
-Effektyf 01 Maaie 2018
-{: datetime="2018-05-01" }
+Mei yngong fan 30 novimber 2018 {: datetime="2018-11-30" }
 
-## Geskiktheid
+Troch Common Voice kinne jo jo stim, skreaune sinnen, lykas oare boarnen donearje dy't wy brûke, om in open-source spraakdatabase te bouwen foar elkenien, om ynnovative apps foar stimherkenning te meitsjen foar apparaten en it ynternet.
 
-Om oan ús crowdsourcingprojekt diel te nimmen, moatte jo âlder as 19 jier wêze of tastimming of tafersjoch fan jo âlder of fâd hawwe. Troch diel te nimmen, gean jo ek akkoard mei de [rjochtlinen foar dielname oan de Mozilla-mienskip](https://www.mozilla.org/about/governance/policies/participation/). 
+Jo meie allinich meidwaan oan Common Voice as jo akkoard binne mei dizze betingsten.
 
-## Jo bydragen en frijjefte fan rjochten
+## 1. Kwalifikaasje
+Common Voice is iepen foar elkenien boppe de 19 jier. As jo 19 jier of jonger binne, moatte jo de tastimming fan jo âlder of fersoarger hawwe en moatte se tafersjoch hâlde op jo dielname oan Common Voice.
 
-As jo skreaune tekst of opnamen yntsjinje, ferklearje jo oan Mozilla dat jo de tekst sels skreaun hawwe en dat alle opnamen fan jo eigen stim binne. Boppedat ferklearje jo oan Mozilla dat jo it rjocht hawwe om de tekst yn te tsjinnen foar gebrûk yn in iepenbier projekt ûnder de [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)-lisinsje, en dat de tekst of opname gjin ynbrek makket op rjochten fan tredden 
+Common Voice is diel fan 'e Mozilla Community. As resultaat, as jo der foar keazen om mei te dwaan, moatte jo de [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) folgje.
 
-As jo jo skreaune tekst of audio-opnamen yntsjinje, sjogge jo ôf fan alle auteursrjochten en relatearre rjochten dy't jo hjir op hawwe, en jo gean akkoard mei it iepenbier meitsjen fan de skreaune tekst of audio-opnamen as ûnderdiel fan in [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)-lisinsje. Dit betsjut dat jo akseptearje dat jo wrâldwiid ôfsjogge fan alle rjochten op de tekst en opnamen ûnder auteurs- en databankrjocht, ynklusyf moralisearre en publisiteitsrjochten en alle relatearre en neistlizzende rjochten.
+## 2. Jo bydragen 
+Wy meitsje de Common Voice-database fan Mozilla beskikber ûnder de [Creative Commons CC0-iepenbiere domein-tawijing](https://creativecommons.org/publicdomain/zero/1.0/). Dat betsjut dat it frij en iepenbier is en wy hawwe dêrom ôfsjoen fan alle auteursrjochten ûnder de wet. As jo meidwaan wolle oan Common Voice, fereaskje wy dat jo itselde dogge. Jo moatte ynstimme dat Mozilla al jo bydragen (ynklusyf tekst, opnamen, falidaasjes en feedback) kin oanbiede oan it publyk ûnder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/) tawijing fan it iepenbiere domein.
 
-## Kommunikaasjes
+Om diel te nimmen oan Common Voice fereasket Mozilla ek dat jo twa garânsjes oerljitte:
 
-As jo jo ynskriuwe om ús nijsbrieven te ûntfangen of in account registrearje yn ferbân mei Common Voice, kinne jo e-mailberjochten yn ferbân mei jo account fan ús ûntfange (bygelyks juridyske, privacyrelatearre of befeiligingsfernijingen).
+Earst dat jo bydragen folslein jo eigen skepping binne.
 
-## Algemien
+Twad, dat jo bydragen gjin ynbreuk dogge op 'e rjochten fan tredden. 
 
-Disclaimer; beheinde oanspraaklikheid: COMMON VOICE EN ALLE OPNAMEN EN TEKST WURDE OANBEAN OP BASIS FAN ‘AS IS’ SÛNDER IENNIGE GARÂNSJE, EKSPLISYT OF YMPLISYT. MOZILLA NIMT GJIN FERANTWURDLIKHEID EN AKSEPTEARRET GJIN OANSPRAAKLIKHEID FOAR HOKKER OPNAME OF TEKST DAN EK DY'T JO OF IN OARE BRÛKER OF TREDDE PARTIJ PLEATST OF FERSTJOERT MEI COMMON VOICE. MOZILLA WIIST MEI KLAM ALLE GARÂNSJE EN BETINGSTEN FAN FERHANNELBERHEID, GESKIKTHEID FOAR IN SPESIFYK DOEL EN NET-YNBREK ÔF, KREKT AS ALLE GARÂNSJE DY'T FUORTKOMT ÚT HANNEL OF GEBRÛK FAN IT OANBEANE.
+As jo dizze garânsjes net kinne meitsje, meie jo net meidwaan oan Common Voice. 
 
-FOAR SAFIER TASTIEN ÛNDER TAPASLIK RJOCHT AKSEPTEARJE JO DE FRIJJEFTE EN FRIJWARJE JO DE MOZILLA CORPORATION EN HARREN MEMMEMAATSKIPPIJ, ÛNDERGESKIKTE BEDRIUWEN, RELATEARRE BEDRIUWEN, DIREKSJE, ÚTFIERENDEN, MEIWURKERS EN AGINTEN (DE ‘MOZILLA-PARTIJEN’) FAN ALLE OANSPRAAKLIKHEID FOAR SKEA, FERLIES OF FERTRAGING (WÊRÛNDER PERSOANLIK LETSEL, FERSTJERREN OF EIGENDOMSSKEA) YN IT HIEL OF IN PART RESULTEARJEND, STREEKRJOCHT OF YNDIREKT, ÚT JO DIELNIMMING OAN COMMON VOICE.
+## 3. Jo akkount
+Jo hoege gjin akkount te meitsjen om diel te nimmen oan Common Voice. 
 
-ÚTSEIN LYKAS FEREASKE BY DE WET, BINNE MOZILLA EN DE MOZILLA-PARTIJEN NET OANSPRAAKLIK FOAR IENNIGE YNDIREKTE, SPESJALE, YNSIDINTELE, GEFOLCH- OF FOARBYLDSKEA FUORTKOMMEND ÚT OF OP IENNIGE MANIER RELATEARRE OAN DIZZE BETINGSTEN OF IT GEBRÛK OF DE ÛNMOOGLIKHEID TA GEBRÛK FAN COMMON VOICE, MEI YNBEGRYP FAN EN SÛNDER BEHEINING TA DIREKTE OF YNDIREKTE SKEA TROCH FERLIES OAN GOODWILL, STILLIZZEN FAN WURK, WINSTGEMIS, GEGEVENSFERLIES EN KOMPJÛTERFALEN, SELS WANNEAR'T DE MOOGLIKHEID FAN DIZZE SKEA IS OANJÛN EN NETTSJINSTEANDE DE GRÛN (KONTRAKT, TWANG OF OARSWAT) WÊROP IN SOKSOARTE CLAIM BASEARRE IS. DE KOLLEKTIVE OANSPRAAKLIKHEID FAN MOZILLA EN DE MOZILLA-PARTIJEN ÛNDER DIZZE OERIENKOMST, SIL NET OER DE $500 (FIIFHÛNDERT DOLLAR) GEAN. GUON WETJOUWINGEN STEAN ÚTSLUTINGEN OF BEHEININGEN FAN YNSIDINTELE, SPESJALE OF GEFOLCHSKEA NET TA, DUS MOOGLIK BINNE DIZZE ÚTSÛNDERING EN BEHEINING OP JO NET FAN TAPASSING.
+As jo in akkount meitsje, freget Mozilla jo e-mailadres en in brûkersnamme fan jo kar. Opsjoneel kinne jo ek in avatar stjûre en bepaalde demografyske data dy't ús sille helpe hoe't jo masines learje, om minsken mei ferskillende aksinten, leeftiden, seks en eftergrûn te begripen.
 
-## Fernijingen
+As jo ynformaasje foar jo akkount ferstjûre, jouwe jo Mozilla alle tagongsrjochten dy't nedich binne om: 
+ynformaasje oer jo bydragen te folgjen, ynklusyf audio-opnamen, tekst en falidaasjes, 
+dy gegevens mei jo akkount te assosjearjen, e-mail, brûkersnamme lykas de demografyske ynformaasje dy't jo leverje, en
+jo bydragen te publisearjen, iepenbier tegearre mei alle demografyske ynformaasje,
+metriken te publisearjen oer jo bydragen (lykas it oantal opnamen en talen), tegearre mei jo brûkersnamme op it leaderboard.
 
-Mozilla kin dizze Betingsten fan tiid ta tiid bywurkje om in nije funksje fan Common Voice te ferwurkjen of in bepaling te ferdúdlikjen. De bywurke Betingsten wurde online pleatst. As de wizigingen substansjeel binne, wurdt de fernijing oankundige fia de foar dit soarte fan oankundigingen brûklike Mozilla-kanalen, lykas blogberjochten en foarums. Gebrûk fan Common Voice nei de datum fan ynwurkingtrêding fan soksoarte wizigingen betsjut dat jo de wizigingen akseptearje. Om jo beoardieling makliker te meitsjen, pleatse wy in datum fan ynwurkingtrêding boppe-oan dizze side.
+Mozilla sil jo e-mailadres net iepenbier meitsje of oars publisearje.
 
-## Beëiniging
+Jo kinne der foar kieze om net op 'e leaderboards te ferskinen. As jo dat dogge, sil Mozilla gjin data oer jo opnames publisearje yn ferbân mei jo brûkersnamme. Mozilla sil jo tekst en opnames lykwols noch altyd iepenbier meitsje as diel fan Common Voice en sil ynformaasje befetsje oer jo opnamen yn 'e algemiene metriken, dy't iepenbier te krijen binne.
 
-Wy kinne jo tagong ta Common Voice op alle tiden om hokker reden dan ek tydlik of permanint wegerje; wy sille reedlike besykjen ûndernimme om jo te ynformearjen fia it e-mailadres dat by jo account heart, of de folgjende kear dat jo Common Voice probearje te brûken. Nettsjinsteande in beëiniging bliuwe de troch jo by Mozilla yntsjinne opnamen publyklik beskikber.
+## 4. Kommunikaasje
+As jo ynskriuwe om ús nijsbrieven te ûntfangen of registrearje foar in akkount yn ferbân mei Common Voice, kinne jo e-mails fan ús krije yn ferbân mei jo akkount. 
 
-## Tapaslik rjocht
+## 5. Disclaimers
 
-Dizze Juridyske betingsten omfetsje de folsleine oerienkomst tusken jo en Mozilla oangeande Common Voice en falle ûnder de wetten fan de steat Californië yn de Ferienige Steaten.
+Troch mei te dwaan oan Common Voice, binne jo it iens dat Mozilla op gjin inkelde manier oanspraaklik is foar ienige ûnfermogen om Common Voice te brûken of foar elke claim dy't ûntstiet út dizze betingsten. Mozilla wegert spesifyk it folgjende:
+Yndirekte, bysûndere, ynsidintele, konsekwinsjele of foarbyldige skea
+Direkte as yndirekte skea foar ferlies fan goodwill, stophâld fan wurk, ferlern winst, ferlies fan data, of kompjûterfunksje
+
+Elke oanspraaklikens ûnder dizze oerienkomst is beheind ta $500,-.
+
+Jo stimme yn om Mozilla te skeafertsjinjen en ûnskadelik te hâlden foar elke oanspraaklikens of oanspraak dy't komt as gefolch fan jo dielname oan Common Voice.
+
+Mozilla levert har tsjinst "lykas is." Mozilla wegeret spesifyk alle juridyske garânsjes of garânsjes lykas "hannelberens," "geskiktheid foar in bepaald doel," "net-ynbreuk", en garânsjes dy't fuortkomme út in kursus fan hanneljen, gebrûk of hannel. 
+
+## 6. Meidielings fan ynbreuk
+As jo tinke dat iets yn Common Voice ynbreuk makket op jo auteursrjochten of hannelsrjochten, sjoch dan ús [belied foar rapportearjen fan ynbreuk](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Updates
+Elke kear kin Mozilla beslute om dizze Betingsten te aktualisearjen. Wy sille de bywurke Betingsten online publisearje. 
+
+As jo trochgean Common Voice te brûken Common nei't wy bywurke Betingsten pleatst hawwe, akseptearje jo dat jo akseptearje foar sokke feroarings. Wy sille in effektive datum oan 'e boppekant fan dizze pagina pleatse om dúdlik te meitsjen, doe't wy ús lêste update makken. 
+
+## 8. Opsizzing
+Mozilla kin de tagong fan eltsenien op elts momint om ien of oare reden stopje of beëinigje. As wy beslute om jo tagong te stopjen of te beëinigjen, sille wy jo besykje te ynformearjen fia it e-mailadres, dat is ferbûn mei jo akkount as de folgjende kear as jo besykje tagong te krijen ta Common Voice. 
+
+De opnamen dy't jo foar Mozilla yntsjinje bliuwe iepenbier beskikber as diel fan Common Voice, sels as wy jo tagong beëinigje of stopje.
+
+## 9. Bestjoersrjocht
+Wet yn Kalifornje is fan tapassing op dizze Betingsten. Dizze betingsten binne de hiele oerienkomst tusken jo en Mozilla oangeande Common Voice.
