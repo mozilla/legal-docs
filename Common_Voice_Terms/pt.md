@@ -1,38 +1,69 @@
-# Termos Legais do Common Voice 
+# Termos legais do Common Voice
 
-Em vigor a partir de 1º de maio de 2018
-{: datetime="2018-05-01" }
+Data de vigência: 30 de novembro de 2018 {: datetime="2018-11-30" }
 
-## Elegibilidade
+A iniciativa Common Voice permite que você doe sua voz, frases escritas e outros recursos necessários para criar um banco de dados de voz de código aberto que pode ser usado por qualquer pessoa para o desenvolvimento de aplicativos de reconhecimento de voz para aparelhos e para a web.
 
-Para participar de nosso projeto colaborativo, você deve ter mais de 19 anos ou ter o consentimento dos seus pais ou responsável para supervisionar sua participação em nosso projeto. Ao participar, você também concorda com as regras estabelecidas nas [Orientações para participação na comunidade da Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
+Para participar do Common Voice, você precisa aceitar estes Termos.
 
-## Suas contribuições e liberação de direitos
+## 1. Elegibilidade
+O Common Voice pode ser usado por qualquer pessoa acima de 19 anos. Se você tiver 19 anos ou menos, precisará obter o consentimento dos pais ou responsável. Além disso, eles devem supervisionar sua participação no Common Voice.
 
-Ao enviar gravações ou textos escritos para a Mozilla, você afirma que os conteúdos de textos foram escritos por você e que todas gravações foram feitas usando sua própria voz. Você também afirma à Mozilla que você tem o direito de enviar o texto ou gravação para uso em um projeto público sob a licença de [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) e que o texto ou gravação não infringe o direito de nenhum terceiro. 
+O Common Voice faz parte da Comunidade da Mozilla. Por isso, ao participar dele, você declara que aceita seguir as [Diretrizes de participação da Comunidade da Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-Ao enviar seus textos escrito ou gravações de áudio, você também renuncia a todos os direitos autorais e direitos relacionados que você possa ter sobre eles, e você aceita disponibilizar as gravações para o público sob a licença de [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). Isso significa que você concorda em renunciar a todos os direitos sobre os textos e gravações em todo o mundo sob leis de direitos autorais e de base de dados, incluindo direitos morais e publicitários e todos os direitos relacionados e conexos.
+## 2. Suas contribuições 
+Disponibilizamos o banco de dados do Common Voice da Mozilla na [Dedicação do Domínio Público da Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Isso significa que ele é público e que renunciamos todos os direitos autorais possíveis por lei sobre ele. Se você participar do Common Voice, também precisará fazer isso. Você deve concordar com o fato de que a Mozilla oferece todas as suas Contribuições (inclusive texto, gravações, validações e feedback) ao público nos termos da Dedicação ao Domínio Público [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Comunicações
+Para participar do Common Voice, a Mozilla também requer duas garantias da sua parte:
 
-Se você assinar nossos boletins informativos ou se registrar para ter uma conta no Common Voice, você pode receber nossos e-mails em sua conta (por exemplo, atualizações jurídicas, de privacidade e segurança).
+Primeiramente, que suas Contribuições sejam sua própria criação.
 
-## Geral
+Em segundo lugar, que elas não infrinjam direitos de terceiros. 
 
-Declaração de exoneração de responsabilidade; Limitação da responsabilidade: O COMMON VOICE E TODAS AS GRAVAÇÕES E TEXTOS INCLUSOS SÃO PROVIDOS NA CONDIÇÃO DE "COMO É" SEM QUALQUER GARANTIA DE NENHUM TIPO, SENDO EXPRESSO OU IMPLÍCITO. A MOZILLA NÃO SE RESPONSABILIZA POR QUALQUER GRAVAÇÃO OU TEXTO QUE VOCÊ OU QUALQUER OUTRO USUÁRIO OU TERCEIRO PUBLICAR OU TRANSMITIR UTILIZANDO O COMMON VOICE. A MOZILLA EXONERA ESPECIFICAMENTE TODAS E QUAISQUER GARANTIAS E CONDIÇÕES DE COMERCIALIDADE, ADEQUAÇÃO A UM PROPÓSITO PARTICULAR, E NÃO VIOLAÇÃO, E QUAISQUER GARANTIAS RESULTANTES DO CURSO DE NEGOCIAÇÃO OU UTILIZAÇÃO COMERCIAL.
+Se você não puder garantir isso, não poderá participar do Common Voice. 
 
-NA EXTENSÃO PERMITIDA PELA LEGISLAÇÃO APLICÁVEL, VOCÊ CONCORDA EM LIBERAR E ISENTAR A CORPORAÇÃO MOZILLA E SEUS RESPONDENTES, SUBSIDIÁRIAS, AFILIADOS, DIRETORES, OFICIAIS, EMPREGADOS E AGENTES (AS "PARTES DA MOZILLA"), DE QUALQUER E TODA A RESPONSABILIDADE POR QUALQUER DANO, PERDA OU ATRASO (INCLUINDO LESÕES INDIVIDUAIS, MORTE OU DANOS DE PROPRIEDADE) RESULTANTES INTEIRAMENTE OU EM PARTE, DIRETAMENTE OU INDIRETAMENTE, DA SUA PARTICIPAÇÃO NO COMMON VOICE.
+## 3. Sua conta
+Não é necessário criar uma conta para participar do Common Voice. 
 
-EXCETO QUANDO EXIGIDO POR LEI, A MOZILLA E SUAS PARTES NÃO SERÃO RESPONSÁVEIS POR QUAISQUER DANOS INDIRETOS, ESPECIAIS, INCIDENTAIS, CONSEQUENCIAIS, OU EXEMPLARES DECORRENTES OU DE QUALQUER MANEIRA RELATIVOS A ESTES TERMOS OU AO USO OU IMPOSSIBILIDADE DE USAR O COMMON VOICE, INCLUINDO, SEM LIMITAÇÃO, DANOS DIRETOS E INDIRETOS POR PERDA DE AFEIÇÃO, INTERRUPÇÃO DO TRABALHO, LUCROS PERDIDOS, PERDA DE DADOS E FALHA DE COMPUTADOR OU MAL FUNCIONAMENTO, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS E INDEPENDENTEMENTE DA TEORIA (CONTRATO, DELITO OU DE OUTRA FORMA) SOBRE A FUNDAMENTAÇÃO DE QUALQUER RECLAMAÇÃO. A RESPONSABILIDADE COLETIVA DA MOZILLA E SUAS PARTES SOB ESTE CONTRATO NÃO EXCEDERÁ US$ 500,00 (QUINHENTOS DÓLARES). ALGUMAS JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO OU LIMITAÇÃO DE DANOS INCIDENTAIS, CONSEQUENCIAIS OU ESPECIAIS. POR ISSO, ESSA EXCLUSÃO E ESSA LIMITAÇÃO PODEM NÃO SER APLICÁVEIS A VOCÊ.
+Se você criar uma conta, a Mozilla solicitará seu endereço de e-mail e um nome de usuário de sua escolha. Você também pode fornecer um avatar e alguns dados demográficos, que nos ajudarão a ensinar as máquinas a entender diferentes sotaques, idades, gêneros e experiência.
 
-## Atualizações 
+Ao fornecer informações para sua conta, você concederá à Mozilla todas as permissões necessárias para: 
+monitorar informações sobre suas Contribuições, inclusive gravações de áudio, texto e validações; 
+associar esses dados à sua conta, e-mail, nome de usuário e informações demográficas fornecidos por você;
+publicar suas Contribuições com informações demográficas; e
+publicar métricas sobre suas Contribuições (como número de gravações e idiomas) com seu nome de usuário nas estatísticas.
 
-A Mozilla pode atualizar estes Termos a qualquer tempo para abordar uma nova funcionalidade do Common Voice ou para esclarecer uma cláusula. Os termos atualizados serão publicados online. Se as alterações forem substanciais, anunciaremos a atualização por meio dos canais habituais da Mozilla para tais anúncios, como em blogs e fóruns. Seu uso contínuo do Common Voice após a data de eficácia de tais alterações constitui sua aceitação a tais mudanças. Publicaremos uma data para a entrada em vigor destes termos na parte superior desta página. Dessa forma, você poderá analisá-los quando for mais conveniente.
+A Mozilla não divulgará seu endereço de e-mail publicamente.
 
-## Rescisão 
+Você pode optar por não ser exibido nas estatísticas. Caso opte por fazê-lo, a Mozilla não publicará dados sobre suas gravações atrelados ao seu nome de usuário. No entanto, a Mozilla disponibilizará seu texto e suas gravações publicamente como parte do Common Voice e incluirá informações sobre elas nas métricas gerais disponíveis publicamente.
 
-Podemos suspender ou encerrar seu acesso ao Common Voice a qualquer momento, por qualquer motivo. Faremos todos os esforços cabíveis para notificar você no e-mail associado à sua conta ou na próxima vez que você tentar acessar o Common Voice. Independentemente de qualquer rescisão, todas as gravações que você enviar à Mozilla continuarão disponíveis ao público.
+## 4. Comunicações
+Se você se inscrever para receber informativos ou se registrar em uma conta relacionada ao Common Voice, poderá receber e-mails relacionados à sua conta. 
 
-## Legislação vigente
+## 5. Aviso de isenção de responsabilidade
 
-Estes Termos Jurídicos constituem a totalidade do acordo entre você e a Mozilla sobre o Common Voice e são regidas pelas leis do estado da Califórnia, EUA.
+Ao participar no Common Voice, você concorda que a Mozilla não se responsabiliza por qualquer incapacidade de uso do Common Voice ou por qualquer reclamação resultante destes Termos. A Mozilla especificamente se isenta de responsabilidade por:
+Danos indiretos, especiais, incidentais, consequenciais ou exemplares
+Danos diretos ou indiretos por perda de fundo de comércio, suspensão dos negócios, perda de lucro, perda de dados ou problema no computador
+
+As responsabilidades nos termos deste acordo são limitadas a US$ 500.
+
+Você concorda em indenizar a Mozilla em caso de responsabilidade ou causa resultante da sua participação no Common Voice.
+
+A Mozilla presta o serviço “no estado em que se encontra”. A Mozilla renuncia, especificamente, quaisquer garantias legais, como “comercialização”, “adequação a uma finalidade específica” e “não violação”, além de garantias resultantes de negociação, uso ou comércio. 
+
+## 6. Avisos de violação
+Se você acreditar que algo no Common Voice viole seus direitos autorais ou de marca, consulte nossa [política sobre como denunciar violações](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Atualizações
+Ocasionalmente, a Mozilla pode decidir atualizar estes Termos. Sempre que isso ocorrer, publicaremos os Termos atualizados on-line. 
+
+Ao continuar usando o Common Voice após a atualização dos Termos, você estará declarando que aceita as alterações aplicadas. A data de vigência se encontra na parte superior desta página, mostrando quando a atualização mais recente foi realizada. 
+
+## 8. Rescisão
+A Mozilla pode suspender ou encerrar o acesso de qualquer pessoa ao Common Voice a qualquer momento e por qualquer motivo. Se decidirmos suspender ou encerrar seu acesso, tentaremos avisar você pelo endereço de e-mail associado à sua conta ou na próxima vez que acessar o Common Voice. 
+
+As gravações fornecidas à Mozilla continuarão disponíveis publicamente como parte do Common Voice, mesmo se encerrarmos ou suspendermos seu acesso.
+
+## 9. Legislação vigente
+A legislação do estado da Califórnia, EUA, se aplica a estes Termos. Estes Termos constituem o acordo integral entre você e a Mozilla com relação ao Common Voice.
