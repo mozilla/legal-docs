@@ -1,38 +1,69 @@
-# Právní podmínky projektu Common Voice
+# Zákonné podmínky služby Common Voice
 
-Účinné od 1. května 2018
-{: datetime="2018-05-01" }
+Platné od 30. listopadu 2018 {: datetime="2018-11-30" }
 
-## Oprávněnost
+Prostřednictvím služby Common Voice můžete věnovat svůj hlas, psané věty a další zdroje, které potřebujeme pro vytváření hlasové databáze typu open source, kterou může kdokoliv využít pro vytváření inovačních aplikací rozpoznávání hlasu pro zařízení a web.
 
-Pro účast v našem crowd-sourcingovém projektu musíte být starší 19 let nebo mít svolení rodiče či opatrovníka, který na vás v našem projektu musí dohlížet. Účastí souhlasíte s dodržováním [Zásad účasti v komunitě Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
+Na službě Common Voice se můžete podílet pouze v případě, že vyslovíte souhlas s těmito Podmínkami.
 
-## Vaše příspěvky a uvolnění práv
+## 1. Oprávněnost
+Služba Common Voice je otevřena pro všechny ve věku od 19 let. Pokud jste mladší než 19, musíte získat souhlas svého rodiče nebo opatrovníka a tito jsou povinna na vaši účast ve službě Common Voice dohlížet.
 
-Pokud odešlete písemný text nebo nahrávku, ujišťujete společnosti Mozilla, že jste obsah textu sami napsali a že se jedná o nahrávku vašeho hlasu. Společnost Mozilla rovněž ujišťujete, že máte právo text nebo záznam odeslat pro použití ve veřejném projektů v souladu s licencí [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) a že text nebo nahrávka neporušují žádná práva třetích osob.
+Služba Common Voice je součástí Komunity Mozilla. V důsledku toho, v případě, že se budete služby účastnit, souhlasíte, že budete dodržovat [Pokyny pro účast v komunitě Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-Odesláním vašeho písemného textu nebo zvukových nahrávek se vzdáváte všech autorských a souvisejících práv, která k nim případně máte, a souhlasíte se zveřejněním písemného textu nebo zvukových nahrávek v souladu s licencí [CC-0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že souhlasíte s tím, že se celosvětově vzdáváte všech práv k textům a nahrávkám podle autorského zákona a zákona o sběru údajů, včetně morálních práv a práv zveřejnění, jakož i všech spojených a souvisejících práv.
+## 2. Vaše příspěvky 
+Databázi Common Voice společnosti Mozilla poskytujeme v rámci [poskytnutí licence veřejné domény Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že je veřejná a vzdali jsme se všech autorských práv v rozsahu, v jakém nám to zákon umožňuje. Pokud se budete na službě Common Voice podílet, vyžadujeme, abyste postupovali stejně. Musíte souhlasit s tím, že společnost Mozilla smí nabízet veškeré vaše Příspěvky (včetně textu, nahrávek, ověření a zpětné vazby) veřejnosti v rámci licence veřejné domény [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Komunikace
+Pro účast ve službě Common Voice společnost Mozilla od vás rovně vyžaduje dvě ujištění:
 
-Pokud se přihlásíte k odběru našeho zpravodaje nebo si v souvislosti s projektem Common Voice vytvoříte účet, můžete od nás dostávat e-maily spojené s vaším účtem (například aktualizace podmínek, zásad ochrany osobních údajů a bezpečnostních informací).
+za prvé, že Příspěvky jsou zcela vaším vlastním dílem;
 
-## Obecné
+za druhé, že vaše Příspěvky neporušují žádná práva třetích osob. 
 
-Zřeknutí se práv; Omezení odpovědnosti: PROJEKT COMMON VOICE A VŠECHNY JEHO TEXTY A NAHRÁVKY JSOU POSKYTOVÁNY TAK, JAK JSOU BEZ JAKÉKOLI ZÁRUKY, AŤ UŽ VÝSLOVNÉ NEBO ODVOZENÉ. SPOLEČNOST MOZILLA NENESE ŽÁDNOU ODPOVĚDNOST ZA JAKÉKOLIV TEXTY NEBO NAHRÁVKY, KTERÉ VY, JINÝ UŽIVATEL NEBO TŘETÍ STRANA ZVEŘEJŇUJETE NEBO PŘENÁŠÍTE PROSTŘEDNICTVÍM PROJEKTU COMMON VOICE. SPOLEČNOST MOZILLA VÝSLOVNĚ ODMÍTÁ VEŠKERÉ ZÁRUKY A PODMÍNKY PRODEJNOSTI, VHODNOSTI PRO KONKRÉTNÍ ÚČEL, NEPORUŠOVÁNÍ PRÁV, JAKOŽ I VEŠKERÉ ZÁRUKY VYPLÝVAJÍCÍ Z PRŮBĚHU JEDNÁNÍ NEBO OBCHODNÍCH ZVYKLOSTÍ.
+Pokud tato ujištění nemůžete poskytnout, nesmíte se na službě Common Voice podílet. 
 
-V ROZSAHU PŘÍPUSTNÉM PŘÍSLUŠNÝMI PRÁVNÍMI PŘEDPISY SOUHLASÍTE, ŽE SPOLEČNOST MOZILLA CORPORATION A JEJÍ PŘÍSLUŠNÉ MATEŘSKÉ, DCEŘINÉ A PROPOJENÉ OSOBY, JEDNATELE, ÚŘEDNÍKY, ZAMĚSTNANCE A ZÁSTUPCE (DÁLE JEN „STRANY MOZILLA“) OCHRÁNÍTE A ODŠKODNÍTE ZA VEŠKEROU ODPOVĚDNOST SOUVISEJÍCÍ S PŘÍPADNÝMI ZTRÁTAMI, ŠKODAMI NEBO PRODLENÍM (VČETNĚ PORANĚNÍ OSOB, SMRTI NEBO ŠKOD NA MAJETKU) KTERÉ JAKO CELEK NEBO ČÁSTEČNĚ VYPLÝVAJÍ  PŘÍMO ČI NEPŘÍMO Z VAŠ ÚČASTI V PROJEKTU COMMON VOICE.
+## 3. Váš účet
+Abyste se mohli podílet na službě Common Voice, nemusíte si zakládat účet. 
 
-KROMĚ PŘÍPADŮ VYŽADOVANÝCH PRÁVNÍMI PŘEDPISY NEPONESOU SPOLEČNOSTI MOZILLA ANI STRANY MOZILLA ODPOVĚDNOST ZA PŘÍMÉ, SPECIÁLNÍ, NÁHODNÉ, NÁSLEDNÉ NEBO PŘÍKLADNÉ ŠKODY VYPLÝVAJÍCÍ NEBO JAKÝMKOLIV ZPŮSOBEM SOUVISEJÍCÍ S TĚMITO PODMÍNKAMI NEBO POUŽÍVÁNÍM ČI NEMOŽNOSTÍ POUŽÍVAT  PROJEKT COMMON VOICE, VČETNĚ NAPŘÍKLAD ZA PŘÍMO A NEPŘÍMÉ ŠKODY V DŮSLEDKU ZTRÁTY GOODWILLU, PŘERUŠENÍ PRÁCE, ZTRÁTY ZISKU A SELHÁNÍ NEBO PORUCH POČÍTAČE, A TO ANI V PŘÍPADĚ, ŽE BYLY NA MOŽNOST VZNIKU TAKOVÝCH ZTRÁT UPOZORNĚNY A BEZ OHLEDY NA TEORII (SMLOUVA, PŘEČIN NEBO JINAK), Z NÍŽ TAKOVÝ NÁROK VYCHÁZÍ. SOUHRNNÁ ODPOVĚDNOST MOZILLY A STRAN MOZILLY V SOULADU S TOUTO SMLOUVOU NEPŘEKROČÍ 500 USD (PĚT SET DOLARŮ). NĚKTERÉ PRÁVNÍ ŘÁDY NEUMOŽŇUJÍ VYLOUČENÍ NEBO OMEZENÍ NÁHODNÝCH, NÁSLEDNÝCH NEBO SPECIÁLNÍCH ŠKOD, TAKŽE SE NA VÁS TOTO VYLOUČENÍ A OMEZENÍ NEMUSÍ VZTAHOVAT.
+Pokud si účet založíte, společnost Mozilla vás požádá o vaši e-mailovou adresu a uživatelské jméno dle vaší volby. Dobrovolně můžete poskytnout rovněž avatara a určité demografické údaje, které nám pomohou pochopit, jak stroje učit rozumět lidem s různými přízvuky, různého věku, pohlaví a původu.
 
-## Aktualizace
+Pokud poskytnete údaje pro váš účet, poskytujete společnosti Mozilla veškerá oprávnění potřebná k tomu, aby: 
+mohla sledovat informace o vašich Příspěvcích, včetně zvukových záznamů, testu a ověření; 
+přiřazovala příslušné údaje k vašemu účtu, e-mailu, uživatelskému jménu a demografickým údajům, které poskytnete; a
+zveřejňovala vaše příspěvky společně s demografickými informacemi;
+zveřejňovala metriky týkající se vašich Příspěvků (jako je počet nahrávek a jazyků) společně s vaším uživatelským jménem ve výsledkové tabulce.
 
-Společnost Mozilla může tyto Podmínky čas od času aktualizovat s cílem řešit nové funkce projektu Common Voice nebo vyjasnit ustanovení. Aktualizované Podmínky budou zveřejněny online. Pokud dojde k podstatné změně, oznámíme ji prostřednictvím běžných kanálů společnosti Mozilla pro taková oznámení, jako jsou příspěvky na blogu nebo fórech. Dalším používáním projektu Common Voice po datu platnosti změn vyjadřujete souhlas s těmito změnami. Aby byla kontrola co nejjednodušší, uvádíme datum účinnosti v horní části této stránky.
+Společnost Mozilla nebude zveřejňovat vaši e-mailovou adresu.
 
-## Ukončení
+Můžete se rozhodnout, že si nepřejete být uváděni v tabulce výsledků. Pokud tak učiníte, společnost Mozilla nebude zveřejňovat data ohledně vašich nahrávek ve spojitosti s vaším uživatelským jménem. Společnost Mozilla nicméně přesto veřejně poskytne vaše texty a nahrávky v rámci služby Common Voice a zahrne do nich informace ohledně vašich nahrávek v obecných metrikách, které budou veřejně dostupné.
 
-Můžeme kdykoli pozastavit nebo ukončit váš přístup k projektu Common Voice z jakéhokoli důvodu. Vyvineme přiměřené úsilí, abychom vás informovali na e-mailovou adresu přiřazenou k vašemu účtu, nebo při vašem příštím pokusu o přístup do projektu Common Voice. Bez ohledu na ukončení zůstanou nadále všechny nahrávky, které odešlete společnosti Mozilla, veřejně dostupné.
+## 4. Sdělení
+Pokud se přihlásíte k odběru našich informačních zpravodajů nebo se zaregistrujete k účtu v souvislosti se službou Common Voice, můžete od nás dostávat e-maily týkající se vašeho účtu. 
 
-## Rozhodné právo
+## 5. Prohlášení o vyloučení
 
-Tyto Právní podmínky představují úplnou dohodu mezi vámi a společností Mozilla ohledně projektu Common Voice a řídí se zákony státu Kalifornie, USA.
+Účastí ve službě Common Voice souhlasíte s tím, že Společnost Mozilla nenese jakoukoliv odpovědnost za nemožnost používat službu Common Voice ani za jakékoliv nároky, které mohou vzniknout v důsledku těchto podmínek. Společnost Mozilla výslovně vylučuje následující:
+nepřímé, speciální, náhodné, následné nebo exemplární škody,
+přímé či nepřímé škody vyplývající ze ztráty goodwillu, přerušení práce, ztráty zisku, ztráty dat nebo poruchy počítače.
+
+Veškerá odpovědnost související s touto smlouvou je omezena maximální výši 500 USD.
+
+Souhlasíte s tím, že společnost Mozilla odškodníte za veškeré závazky nebo nároky vyplývající z vaší účasti ve službě Common Voice.
+
+Společnost Mozilla službu poskytuje „tak jak je“. Společnost Mozilla výslovně vylučuje veškeré zákonné záruky nebo garance, jako jsou záruky „prodejnosti“, „vhodnosti ke konkrétnímu účelu“, „neporušování práv třetích osob“ a záruky vyplývající z jednání, využití nebo obchodu. 
+
+## 6. Oznámení o porušení
+Pokud se domníváte, že cokoliv v rámci služby Common Voice porušuje vaše autorská práva nebo práva k ochranným známkám, viz prosím naše [zásady hlášení porušení](https://www.mozilla.org/about/legal/report-infringement/).
+
+## 7. Aktualizace
+Společnost Mozilla se občas může rozhodnout tyto Podmínky aktualizovat. Aktualizované znění Podmínek zveřejníme online. 
+
+Pokud budete nadále používat službu Common Voice poté, co zveřejníme aktualizované Podmínky, vyslovujete svůj souhlas s nimi, což představuje vaši akceptaci příslušných změn. V horní části této stránky uvedeme datum účinnosti, aby bylo jasné, kdy byly nejnovější aktualizace zveřejněny. 
+
+## 8. Ukončení
+Společnost Mozilla je oprávněna pozastavit nebo ukončit přístup kohokoliv ke službě Common Voice kdykoliv z libovolného důvodu. Pokud se rozhodneme pozastavit nebo ukončit váš přístup, pokusíme se vás o tom informovat na e-mailovou adresu přiřazenou k vašemu účtu nebo při vašem následujícím pokusu o přístup do služby Common Voice. 
+
+Nahrávky, které odesíláte společnosti Mozilla zůstanou veřejně dostupné v rámci služby Common Voice, a to i v případě, že pozastavíme nebo ukončíme váš přístup.
+
+## 9. Rozhodné právo
+Na tyto Podmínky se uplatní právo státu Kalifornie. Tyto podmínky představují celou dohodu mezi vámi a společností Mozilla ohledně služby Common Voice.
