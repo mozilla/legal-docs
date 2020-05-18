@@ -1,5 +1,6 @@
 {
   "name": "legal-docs",
+  "main": "README.md",
   "description": "This repository contains all legal documents and their applicable translations.",
   "version": "1.0.0",
   "author": "Mozilla (https://mozilla.com/)",
