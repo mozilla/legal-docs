@@ -3,11 +3,11 @@
 *Effective June 23, 2020*
 {: datetime="2020-06-23" }
 
-Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, random (*alias*) email addresses. When Mozilla receives information from you, our [Mozilla Privacy Policy](https://www.mozilla.org/en-US/privacy/) describes how we handle that information. 
+Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, random (*alias*) email addresses. When Mozilla receives information from you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
 ### Information We Collect
 
-__Firefox Account information.__ This service requires a [Firefox Account](https://www.mozilla.org/en-US/privacy/firefox/#firefox-accounts-join-firefox), which sends Mozilla your email address, locale, and IP address. Firefox Relay maintains a copy of your account information to provide the service, in particular to associate your primary email address with your alias email address(es).
+__Firefox Account information.__ This service requires a [Firefox Account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), which sends Mozilla your email address, locale, and IP address. Firefox Relay maintains a copy of your account information to provide the service, in particular to associate your primary email address with your alias email address(es).
 
 __Email messages.__ To forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store any of the content in your messages, and all email messages are deleted after they’re delivered to you.
 
@@ -15,7 +15,7 @@ __Interaction data.__ Mozilla receives data from interactions with Firefox Relay
 
 __Technical data.__ Mozilla receives basic information from Firefox Relay about your device and browser, including browser version, language, device operating system, and hardware configuration.
 
-Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature) feature in your browser.  
+Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser.  
 
 ### Information We Share
 
