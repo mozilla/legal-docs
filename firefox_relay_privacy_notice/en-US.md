@@ -1,4 +1,4 @@
-## <span class="privacy-header-firefox">Firefox Relay (Beta)</span> <span class="privacy-header-policy">Privacy Notice</span>
+# Firefox Relay (Beta) Privacy Notice
 
 *Effective June 23, 2020*
 {: datetime="2020-06-23" }
