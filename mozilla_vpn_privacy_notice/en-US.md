@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-Effective Month, Day, Year
-{: datetime="2020-0?-0?" }
+Effective July 15, 2020
+{: datetime="2020-07-15" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
