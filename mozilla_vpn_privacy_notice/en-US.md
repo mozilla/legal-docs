@@ -9,21 +9,21 @@ Mozilla VPN protects your device’s internet connections. Mozilla partners with
 
 This privacy notice explains what data Mozilla VPN collects, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
-### Things You Should Know:
+### Things you should know:
 
-### Information We Collect {: #markup }
+### Information we collect {: #markup }
 
-__Firefox Account Information.__ This service requires a Firefox Account, which sends Mozilla VPN your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Firefox Account information.__ This service requires a Firefox Account, which sends Mozilla VPN your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Location Information.__ Mozilla VPN receives your IP address from your Firefox Account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
+__Location information.__ Mozilla VPN receives your IP address from your Firefox Account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
 
-__Interaction Data.__ Mozilla receives data about your interactions with Mozilla VPN, including when you log in and when you request the server list.
+__Interaction data.__ Mozilla receives data about your interactions with Mozilla VPN, including when you log in and when you request the server list.
 
-__Technical Data.__ Mozilla receives basic information from Mozilla VPN about the installed VPN version and the devices it’s installed on, including the operating system and hardware configuration. When Mozilla VPN sends data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data.__ Mozilla receives basic information from Mozilla VPN about the installed VPN version and the devices it’s installed on, including the operating system and hardware configuration. When Mozilla VPN sends data to us, your IP address is temporarily collected as part of our server logs.
 
 Read the technical and interaction data collection documentation [here](https://guardian-docs.herokuapp.com/api/swagger/#/). We use the data to improve performance and stability for our users, and to measure Mozilla VPN's performance.
 
-### Information We Share {: #markup }
+### Information we share {: #markup }
 
 Mozilla VPN shares data with certain third parties in order to provide the service to you. Mozilla has written agreements in place with these companies contractually obligating them to protect your information. Here’s who we use:  
 
@@ -31,7 +31,7 @@ __Mullvad.__ Mullvad receives your internet traffic to provide the service. When
 
 __Stripe.__ Mozilla uses Stripe to process your payment information. Mozilla receives a record of your subscription and information about the status of your account’s subscription and payment. Mozilla does not receive or store your payment details. You can learn more about Stripe’s data practices by reading their [Global Privacy Policy](https://stripe.com/privacy).
 
-### Data Privacy Questions? {: #markup }
+### Data privacy questions? {: #markup }
 
 Much of the information that we store about our Firefox Account users is easily accessible by logging into your account. You can learn more about  managing your data [here](https://support.mozilla.org/products/privacy-and-security/user-control). To make requests, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
