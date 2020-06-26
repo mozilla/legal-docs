@@ -9,7 +9,7 @@ Mozilla VPN protects your device’s internet connections. Mozilla partners with
 
 This privacy notice explains what data Mozilla VPN collects, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
-## Things You Should Know:
+### Things You Should Know:
 
 ### Information We Collect {: #markup }
 
