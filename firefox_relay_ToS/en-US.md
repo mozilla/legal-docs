@@ -1,7 +1,7 @@
 # Firefox Relay Terms of Service
 
-Version 0.1, effective [INSERT DATE]
-{: datetime="2019-09-10" }
+Version 0.1, effective June 26, 2020
+{: datetime="2019-06-26" }
 
 Firefox Relay (“Service”) is an experimental offering. It allows you to keep your primary email address safe and private from online services by making unique, random (alias) email addresses.
 
@@ -50,11 +50,11 @@ __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant y
 * __Choice of Law.__ California law applies to this contract, except for California’s conflict of law. If there is any conflict between this English version of the contract and a translation, this English version applies.
 
 
-### Contact Mozilla:
+## Contact Mozilla:
 
-Mozilla Corporation
-Attn: Mozilla – Legal Notices
-331 E. Evelyn Ave.,
-Mountain View, CA 94041
+Mozilla Corporation  
+Attn: Mozilla – Legal Notices  
+331 E. Evelyn Ave.,  
+Mountain View, CA 94041  
 
 legal-notices@mozilla.com
