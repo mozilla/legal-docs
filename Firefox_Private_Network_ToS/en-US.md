@@ -22,7 +22,7 @@ Mozilla is a global organization, and our computers and service providers’ com
 
 Firefox Private Network is in partnership with Cloudflare. To learn more about how the Service works, you can see Mozilla’s [source code](https://github.com/mozilla/secure-proxy) for Firefox Private Network.
 
-__Your Use of the Service.__ You give Mozilla and Cloudflare all rights to operate the Service, including processing the data you upload to or access through the Service. You can find more information about the data Mozilla and Cloudflare process in the Firefox Private Network [Privacy Notice](https://www.mozilla.org/privacy/firefox-private-network/).
+__Your Use of the Service.__ You give Mozilla and Cloudflare all rights to operate the Service, including processing the data you upload to or access through the Service. You can find more information about the data Mozilla and Cloudflare process in the [Firefox Private Network Privacy Notice](https://www.mozilla.org/privacy/firefox-private-network/).
 
 Mozilla gives you permission to use the Service according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.  
 
