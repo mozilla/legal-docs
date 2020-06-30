@@ -9,7 +9,7 @@ Please read these Terms of Service carefully because they explain important info
 
 ## You’ll Need A Firefox Account
 
-A Firefox Account is required to use the Service. To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) for your Firefox Account.
+A Firefox Account is required to use the Service. To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
 
 ## Your Privacy
 
@@ -17,7 +17,7 @@ __Your Privacy.__ The Firefox Relay [Privacy Notice](https://www.mozilla.org/pri
 
 ## Permissions Necessary to Provide the Service
 
-__Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/en-US/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
+__Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
 You give Mozilla all rights necessary to operate the Service, including processing your email address, the aliases you create and the emails you send and receive through the Service. Mozilla does not log the content of emails sent or received using Firefox Relay.
 
