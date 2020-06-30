@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective April 8, 2020*
-{: datetime="2020-04-08" }
+*Effective June 30, 2020*
+{: datetime="2020-06-30" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -43,8 +43,9 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on
 
 **Webpage data to DNS Resolver service**: For some Firefox users in the United States, Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution.  [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
 
-* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/privacy-policy/firefox/)
+* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
+* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
 
 **Technical data for updates**: Desktop versions of Firefox check for browser updates by persistently connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
