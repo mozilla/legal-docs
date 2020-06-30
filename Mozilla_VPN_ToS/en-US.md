@@ -10,7 +10,7 @@ If you activate this Service, it keeps your internet traffic private from your i
 
 You must be in the United States, Canada, United Kingdom, New Zealand, Singapore, or Malaysia to download Mozilla VPN and use the Service. A Firefox Account is required to use the Service.
 
-To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/) for your Firefox Account.
+To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
 
 ## Your Privacy
 
@@ -26,7 +26,7 @@ __Your Use of the Service.__ Mozilla gives you permission to use the Mozilla VPN
 
 You give Mozilla and Mullvad all rights necessary to operate the Service, including processing the data you upload to or access through the Service. You can find more information about the data Mozilla and Mullvad process in the Mozilla VPN [Privacy Notice](https://www.mozilla.org/privacy/mozilla-vpn/).
 
-You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/en-US/about/legal/acceptable-use/). You are solely responsible for the content you transmit and the consequences.
+You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the content you transmit and the consequences.
 
 __Your License to Use the Software.__ The Mozilla VPN software is made available to you under the terms of the Mozilla Public License.
 
@@ -58,7 +58,7 @@ If you choose to cancel, auto-renewal will stop, we will not charge you for any 
 
 * Mozilla provides the service “as is.” To the extent permitted by applicable law, Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage, or trade.
 
-* You may have other rights under your own country’s laws. Nothing in these Terms of Service is intended to affect those rights, if they apply. 
+* You may have other rights under your own country’s laws. Nothing in these Terms of Service is intended to affect those rights, if they apply.
 
 ## Mozilla Can Update or End These Terms
 
