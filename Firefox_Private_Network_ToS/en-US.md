@@ -1,6 +1,7 @@
 # Firefox Private Network Browser Extension (Beta) Terms of Service
 
 Version 3.0, effective July 7, 2020
+{: datetime="2020-07-07" }
 
 Firefox Private Network (“Service”) is an experimental offering. Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
