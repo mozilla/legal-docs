@@ -7,7 +7,7 @@ Berkuat kuasa pada 15 Julai 2020
 
 Mozilla VPN melindungi sambungan internet peranti anda. Mozilla bekerjasama dengan Mullvad untuk menyulitkan trafik internet anda secara peribadi dan selamat.
 
-Notis privasi ini menerangkan jenis data Mozilla VPN kumpul, kongsi, dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat
+Notis privasi ini menerangkan jenis data Mozilla VPN kumpul, kongsi, dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat.
 
 #### Perkara yang perlu anda ketahui:
 
