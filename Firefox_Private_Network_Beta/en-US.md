@@ -7,7 +7,7 @@ Version 3.0, effective July 7, 2020
 
 Firefox Private Network (FPN) protects your device’s web connections. Mozilla partners with Cloudflare to privately and securely encrypt your web traffic within Firefox.
 
-This privacy notice explains what data FPN collects, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/en-US/privacy/) for how we receive, handle, and share information.
+This privacy notice explains what data FPN collects, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 ## Things you should know:
 
