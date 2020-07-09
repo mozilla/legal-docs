@@ -1,6 +1,7 @@
 # Mozilla VPN Terms of Service
 
 Version 3.0, effective July 15, 2020
+{: datetime="2020-07-15" }
 
 Mozilla VPN (“Service”) is an experimental offering. Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
