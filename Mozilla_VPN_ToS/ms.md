@@ -1,6 +1,7 @@
 # Terma Perkhidmatan Mozilla VPN
 
 Versi 3.0, berkuat kuasa pada 15 Julai, 2020
+{: datetime="2020-07-15" }
 
 (“Perkhidmatan”) Mozilla VPN adalah tawaran percubaan. Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
