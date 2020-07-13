@@ -9,7 +9,7 @@ Mozilla VPN melindungi sambungan internet peranti anda. Mozilla bekerjasama deng
 
 Notis privasi ini menerangkan jenis data Mozilla VPN kumpul, kongsi, dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat.
 
-#### Perkara yang perlu anda ketahui:
+## Perkara yang perlu anda ketahui:
 
 ### Maklumat yang kami kumpul {: #markup }
 
