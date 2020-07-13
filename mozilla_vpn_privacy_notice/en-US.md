@@ -9,7 +9,7 @@ Mozilla VPN protects your device’s internet connections. Mozilla partners with
 
 This privacy notice explains what data Mozilla VPN collects, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
-#### Things you should know:
+## Things you should know:
 
 ### Information we collect {: #markup }
 
@@ -25,7 +25,7 @@ Read the technical and interaction data collection documentation [here](https://
 
 ### Information we share {: #markup }
 
-Mozilla VPN shares data with certain third parties in order to provide the service to you. Mozilla has written agreements in place with these companies contractually obligating them to protect your information. Here’s who we use:  
+Mozilla VPN shares data with certain third parties in order to provide the service to you. Mozilla has written agreements in place with these companies contractually obligating them to protect your information. Here’s who we use:
 
 __Mullvad.__ Mullvad receives your internet traffic to provide the service. When you activate Mozilla VPN, it will encrypt your internet traffic and send it to Mullvad. Mullvad has committed not to log any of the data it receives. Learn more at [Mullvad’s Privacy Policy](https://mullvad.net/help/no-logging-data-policy/).
 
