@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-Effective July 15, 2020
-{: datetime="2020-07-15" }
+Effective August 4, 2020
+{: datetime="2020-08-4" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
@@ -19,7 +19,7 @@ __Location information.__ Mozilla VPN receives your IP address from your Firefox
 
 __Interaction data.__ Mozilla receives data about your interactions with Mozilla VPN, including when you log in and when you request the server list.
 
-__Technical data.__ Mozilla receives basic information from Mozilla VPN about the installed VPN version and the devices it’s installed on, including the operating system and hardware configuration. When Mozilla VPN sends data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data.__ Mozilla receives basic information from Mozilla VPN about the installed VPN version and the devices it’s installed on, including the operating system and hardware configuration. When Mozilla VPN connects to our servers to authenticate and update your Mozilla account, your IP address is temporarily collected as part of our server logs. No server logs of your network activity are maintained by our partner Mullvad when you're using the Mozilla VPN service.
 
 Read the technical and interaction data collection documentation [here](https://guardian-docs.herokuapp.com/api/swagger/#/). We use the data to improve performance and stability for our users, and to measure Mozilla VPN's performance.
 
