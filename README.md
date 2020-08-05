@@ -26,23 +26,30 @@ As a localizer, you're encouraged to find and fix translation issues. All docume
 
 File a pull request that updates your locale's markdown file to match the `en-US.md` version as closely as possible. When you're done, submit a pull request. Someone at Mozilla will review your changes. If there are no problems, your changes will be merged.
 
+## Getting changes to production
+
+For www.mozilla.org, the process is as follows:
+
+1. Go to: https://github.com/mozilla/legal-docs/compare/prod...master
+2. Look at the changes and make sure the changed docs look right on dev
+    * https://www-dev.allizom.org/privacy/
+    * https://www-dev.allizom.org/about/legal/ 
+3. Click the *"Create pull request"* button
+    * NOTE: If a *"prod"* pull request is already open this button will instead say *"View pull request"*, and while it's open any new changes merged to master will show up in this pull request until it is merged.
+4. Fill in details on the form and click *"Create pull request"*
+5. Have a teammate review and click *"Rebase and merge"* or you can do it yourself if you are confident the changes are good and you have permission.
+6. Watch for the changes to be updated in production (could take a half-hour or so)
+
+
 ## URL Inventory
 
 Following is a list of directories in this repository and either their URL counterparts on the web or directions to see the document in case it isn't easily linkable.  The URLs below will link to the *English (US)* versions of the document but replacing *en-US* in the URL with an available language code will show alternative languages.
 
-* /firefox_cloud_services_PrivacyNotice
-    * https://www.mozilla.org/en-US/privacy/firefox-cloud/
-* /firefox_cloud_services_ToS
-* /firefox_os_privacy_notice
-    * https://www.mozilla.org/en-US/privacy/firefox-os/
+Generally speaking Privacy Notice documents will be at https://www.mozilla.org/privacy/ and Terms documents at 
+https://www.mozilla.org/about/legal/.
+
 * /firefox_privacy_notice
     * https://www.mozilla.org/en-US/privacy/firefox/
-* /marketplace_developer_agreement
-    * https://marketplace.firefox.com/developers/docs/policies/agreement?lang=en-US
-* /marketplace_privacy_policy
-    * https://marketplace.firefox.com/privacy-policy?lang=en-US
-* /marketplace_terms_of_use
-    * https://marketplace.firefox.com/terms-of-use?lang=en-US
 * /mozilla_privacy_policy
     * https://www.mozilla.org/en-US/privacy/
 * /websites_privacy_notice
