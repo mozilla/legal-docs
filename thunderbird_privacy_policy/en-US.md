@@ -13,9 +13,9 @@ This privacy notice explains what data Thunderbird collects and shares, and why.
 
 Thunderbird collects telemetry data by default to help improve the performance and stability of Thunderbird. There are two types of telemetry data: interaction data and technical data.
 
-* __Interaction data__: Thunderbird receives data about your interactions with the application, such as whether calendars and filters are being used, and how many email accounts a user has.
+__Interaction data__: Thunderbird receives data about your interactions with the application, such as whether calendars and filters are being used, and how many email accounts a user has.
 
-* __Technical data__: Thunderbird also receives basic information about your device and application version, including, hardware configuration, device operating system, and language preference. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data__: Thunderbird also receives basic information about your device and application version, including, hardware configuration, device operating system, and language preference. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
 Read the telemetry documentation and learn how to opt-out of this data collection [here](https://support.mozilla.org/kb/thunderbird-telemetry).
 
@@ -23,48 +23,48 @@ Read the telemetry documentation and learn how to opt-out of this data collectio
 
 Thunderbird collects your email domain and other technical data to set-up and configure your email account. Other information, like your name, your email messages, and your account’s address book are stored locally on your computer and never sent to us. Learn more [here](https://support.mozilla.org/kb/automatic-account-configuration). 
 
-* __Email domain__: Thunderbird receives your email address domain. Your full email address is never processed or stored on our servers (unless you choose to share it when you send a crash report). 
+__Email domain__: Thunderbird receives your email address domain. Your full email address is never processed or stored on our servers (unless you choose to share it when you send a crash report). 
 
-* __Technical data__: Thunderbird also receives information about the application’s version and device operating system. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data__: Thunderbird also receives information about the application’s version and device operating system. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
 ### Review Crash Reports
 
 If Thunderbird crashes, we will ask you to share a report with more detailed information about the crash, but you always have the choice to decline. Thunderbird uses the information in the crash report to diagnose and correct the problem that caused the crash.
 
-* __Sensitive data__: Crash reports include a “dump file” of Thunderbird’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.
+__Sensitive data__: Crash reports include a “dump file” of Thunderbird’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.
 
-* __Webpage data__: Crash reports include any active URLs at time of crash.
+__Webpage data__: Crash reports include any active URLs at time of crash.
 
-* __Add-on data__: Crash reports include a list of all add-ons that you were using at the time of the crash, and the time since: the start-up of the program, the last crash, and the last install.
+__Add-on data__: Crash reports include a list of all add-ons that you were using at the time of the crash, and the time since: the start-up of the program, the last crash, and the last install.
 
-* __Technical data__: Crash reports include data on why Thunderbird crashed and the state of device memory and execution during the crash. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data__: Crash reports include data on why Thunderbird crashed and the state of device memory and execution during the crash. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
-* __Email address__: If you choose, crash reports include your email address.
+__Email address__: If you choose, crash reports include your email address.
 
 Read the full documentation [here](https://support.mozilla.org/kb/mozilla-crash-reporter-tb).
 
 ### Improve Security for Our Users Everywhere
 
-* __Technical data for updates__: To ensure you have the most up-to-date version of the product, Thunderbird checks for updates by periodically connecting to Thunderbird’s servers. Your application version, language, and device operating system are used to apply the correct updates. [Learn more](https://support.mozilla.org/kb/thunderbird-makes-unrequested-connections#w_auto-update-checking).
+__Technical data for updates__: To ensure you have the most up-to-date version of the product, Thunderbird checks for updates by periodically connecting to Thunderbird’s servers. Your application version, language, and device operating system are used to apply the correct updates. [Learn more](https://support.mozilla.org/kb/thunderbird-makes-unrequested-connections#w_auto-update-checking).
 
-* __Technical data for add-ons blocklist__: To help to protect you from any malicious add-ons, Thunderbird periodically checks for blocklisted add-ons. Your Thunderbird version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/thunderbird-makes-unrequested-connections#w_extension-blocklist-updating).
+__Technical data for add-ons blocklist__: To help to protect you from any malicious add-ons, Thunderbird periodically checks for blocklisted add-ons. Your Thunderbird version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. [Learn more](https://support.mozilla.org/kb/thunderbird-makes-unrequested-connections#w_extension-blocklist-updating).
 
 ### Install and Update Add-Ons
 
 You can install add-ons from addons.thunderbird.net or from the Thunderbird Add-ons Manager, which is accessible by clicking on Tools > Add-ons. To keep your installed add-ons up to date—like add-on descriptions, download counts, and ratings—the Thunderbird application periodically connects to our servers to install any updates. 
 
-* __Search queries__: If you enter keywords into the search field for the Add-ons Manager, those keywords will be sent to Thunderbird to perform the search.
+__Search queries__: If you enter keywords into the search field for the Add-ons Manager, those keywords will be sent to Thunderbird to perform the search.
 
-* __Interaction data__: We receive aggregate data about visits to the Thunderbird website and the Add-ons Manager in Thunderbird, as well as interactions with content on those pages. Read about data practices on [Mozilla websites](https://www.mozilla.org/privacy/websites/).
+__Interaction data__: We receive aggregate data about visits to the Thunderbird website and the Add-ons Manager in Thunderbird, as well as interactions with content on those pages. Read about data practices on [Mozilla websites](https://www.mozilla.org/privacy/websites/).
 
-* __Technical data for updates__: Thunderbird periodically connects to our server to install updates to add-ons. Your installed add-ons, application version, language, and device operating system are used to apply the correct updates. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+__Technical data for updates__: Thunderbird periodically connects to our server to install updates to add-ons. Your installed add-ons, application version, language, and device operating system are used to apply the correct updates. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
 ## Thunderbird May Disclose Information to: 
 
-* __Mozilla Affiliates__: Thunderbird is a project of MZLA Technologies Corporation, a subsidiary of Mozilla Foundation and as such, shares some of the same infrastructure. This means that, from time to time, your data (e.g., crash reports, and technical and interaction data) may be disclosed to Mozilla Corporation and Mozilla Foundation. If so, it will be maintained in accordance with the commitments we make in this Privacy Notice.
+__Mozilla Affiliates__: Thunderbird is a project of MZLA Technologies Corporation, a subsidiary of Mozilla Foundation and as such, shares some of the same infrastructure. This means that, from time to time, your data (e.g., crash reports, and technical and interaction data) may be disclosed to Mozilla Corporation and Mozilla Foundation. If so, it will be maintained in accordance with the commitments we make in this Privacy Notice.
 
-* __DNS servers, Standard Autoconfiguration URIs, and Mozilla's Configuration Database__: To simplify the email set-up process, Thunderbird tries to determine the correct settings for your account by contacting Mozilla’s configuration database as well as external servers. These include DNS servers and standard autoconfiguration URIs. During this process, Thunderbird may send your email domain to these servers, but your full email address and password are never disclosed.
+__DNS servers, Standard Autoconfiguration URIs, and Mozilla's Configuration Database__: To simplify the email set-up process, Thunderbird tries to determine the correct settings for your account by contacting Mozilla’s configuration database as well as external servers. These include DNS servers and standard autoconfiguration URIs. During this process, Thunderbird may send your email domain to these servers, but your full email address and password are never disclosed.
 
-* __Amazon Web Services__: Thunderbird uses Amazon Web Services (AWS) to host its servers and as a content delivery network. Your device’s IP address is collected as part of AWS’s server logs.
+__Amazon Web Services__: Thunderbird uses Amazon Web Services (AWS) to host its servers and as a content delivery network. Your device’s IP address is collected as part of AWS’s server logs.
 
-* __Gandi.net__: Thunderbird has partnered with Gandi.net to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net to return available addresses. In addition, your country location is also shared with Gandi.net to provide the correct prices. You can learn more about Gandi.net’s data practices by reading their [Privacy Policy](https://contract.gandi.net/v5/contracts/14420/Privacy_Policy_US_2.0_en.pdf).
+__Gandi.net__: Thunderbird has partnered with Gandi.net to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net to return available addresses. In addition, your country location is also shared with Gandi.net to provide the correct prices. You can learn more about Gandi.net’s data practices by reading their [Privacy Policy](https://contract.gandi.net/v5/contracts/14420/Privacy_Policy_US_2.0_en.pdf).
