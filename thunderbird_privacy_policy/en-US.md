@@ -5,7 +5,7 @@ August 18, 2020
 
 The Thunderbird application allows users to privately integrate and manage their online communications.
 
-This privacy notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, and handle, and share information. 
+This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, and handle, and share information. 
 
 ## Thunderbird Collects Data To:
 
@@ -59,7 +59,7 @@ __Interaction data__: We receive aggregate data about visits to the Thunderbird 
 
 __Technical data for updates__: Thunderbird periodically connects to our server to install updates to add-ons. Your installed add-ons, application version, language, and device operating system are used to apply the correct updates. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
-## Thunderbird May Disclose Information to: 
+## Thunderbird May Disclose Information To: 
 
 __Mozilla Affiliates__: Thunderbird is a project of MZLA Technologies Corporation, a subsidiary of Mozilla Foundation and as such, shares some of the same infrastructure. This means that, from time to time, your data (e.g., crash reports, and technical and interaction data) may be disclosed to Mozilla Corporation and Mozilla Foundation. If so, it will be maintained in accordance with the commitments we make in this Privacy Notice.
 
