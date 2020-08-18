@@ -1,7 +1,7 @@
 # Thunderbird Privacy Notice
 
-August 10, 2020
-{: datetime="2020-08-10" }
+August 18, 2020
+{: datetime="2020-08-18" }
 
 The Thunderbird application allows users to privately integrate and manage their online communications.
 
