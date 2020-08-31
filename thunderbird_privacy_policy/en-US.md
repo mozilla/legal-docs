@@ -63,7 +63,7 @@ __Technical data for updates__: Thunderbird periodically connects to our server 
 
 __Mozilla Affiliates__: Thunderbird is a project of MZLA Technologies Corporation, a subsidiary of Mozilla Foundation and as such, shares some of the same infrastructure. This means that, from time to time, your data (e.g., crash reports, and technical and interaction data) may be disclosed to Mozilla Corporation and Mozilla Foundation. If so, it will be maintained in accordance with the commitments we make in this Privacy Notice.
 
-__DNS servers, Standard Autoconfiguration URIs, and Mozilla's Configuration Database__: To simplify the email set-up process, Thunderbird tries to determine the correct settings for your account by contacting Mozilla’s configuration database as well as external servers. These include DNS servers and standard autoconfiguration URIs. During this process your email domain may be sent to Mozilla's configuration database. Your email address may be disclosed to your network administrators.
+__DNS servers, Standard Autoconfiguration URIs, and Mozilla's Configuration Database__: To simplify the email set-up process, Thunderbird tries to determine the correct settings for your account by contacting Mozilla’s configuration database as well as external servers. These include DNS servers and standard autoconfiguration URIs. During this process, your email domain may be sent to Mozilla's configuration database. Your email address may be disclosed to your network administrators.
 
 __Amazon Web Services__: Thunderbird uses Amazon Web Services (AWS) to host its servers and as a content delivery network. Your device’s IP address is collected as part of AWS’s server logs.
 
