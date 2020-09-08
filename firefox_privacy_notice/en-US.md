@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective August 24, 2020*
-{: datetime="2020-08-24" }
+*Effective September 8, 2020*
+{: datetime="2020-09-8" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -78,7 +78,7 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
     _On Desktop_: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _On iOS and Android_: Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+    _On Android_: Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Technical & Interaction Data__:
