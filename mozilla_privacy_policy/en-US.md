@@ -1,13 +1,13 @@
 # Mozilla Privacy Policy
 
-January 1, 2020
-{: datetime="2020-01-01" }
+September 9, 2020
+{: datetime="2020-09-09" }
 
 Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. You can also read our product privacy notices and FAQs to get more detail with respect to each of our products and services. 
 
 ## What do we mean by "personal information?"
 
-For us, "personal information" means information which identifies you, like your name or email address.
+For us, "personal information" means information which either directly identifies you (like your name, email address, or billing information) or can be reasonably linked or combined to identify you (like an account identification number or IP address). We’ll always tell you what personal information we’re collecting from you. See each product’s Privacy Notice for specific details.
 
 Any information that falls outside of this is "non-personal information."
 
@@ -42,12 +42,6 @@ For users in the EU, EEA, Switzerland, and California: see [here](https://suppor
 We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
 
 We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
-
-## What else should you know?
-
-We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
-
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://www.mozilla.org/privacy/#contact) to have your child's information removed.
 
 ## What if we change this privacy policy or any of our privacy notices?
 
