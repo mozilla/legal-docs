@@ -1,6 +1,6 @@
 # Mozilla Privacy Policy
 
-September 8, 2020
+September 9, 2020
 {: datetime="2020-09-08" }
 
 Your privacy is an important factor that Mozilla (that's us) considers in the development of each of our products and services. We are committed to being transparent and open. This Mozilla Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. You can also read our product privacy notices and FAQs to get more detail with respect to each of our products and services. 
