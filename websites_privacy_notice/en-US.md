@@ -10,6 +10,7 @@ This privacy notice applies to Mozilla operated websites and mobile apps, which 
 ## Things you should know
 
 We may receive personal information from you based on your interaction with us on social media platforms; if you submit a job, intern, grant, or fellow application; if you volunteer as a Mozilla community member; if you submit user feedback or a request to us; if you sign up for an account or for a subscription; or if you engage with a product or policy campaign. 
+
 {: #personal-info }
 
 * **Social Media**: If you engage with our social media accounts, such as Twitter and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
@@ -23,11 +24,13 @@ We may receive personal information from you based on your interaction with us o
 * **Accounts & Subscriptions**: Some websites, for example AMO and MDN require account creation to submit developer content or submit user reviews or comments. For account management we use [Firefox Accounts](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking), or custom systems; see [here](https://support.mozilla.org/kb/managing-account-data) to manage account data. You may periodically receive emails in connection with your account or through  subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), or [Mailchimp](https://mailchimp.com/legal/privacy/), and you can unsubscribe using the link at the bottom of the email. 
 
 * **Product & Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We may use third parties to manage these campaigns and handle any data that you choose to submit. 
+
 {: #campaigns }
 
 ---------------------------------------
 
 We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. 
+
 {: #data-tools }
 
 * **Functionality**: We may use information such as cookies, device information, and IP addresses to enhance functionality of certain products, services, and communications. For example:
@@ -48,9 +51,11 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 ---------------------------------------
 
 You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools. 
+
 {: #user-choices }
 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies. 
+
 {: #cookies }
 
 * **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://github.com/mozilla/legal-docs/blob/master/websites_privacy_notice/en-US.md#data-tools) section.
@@ -68,6 +73,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 ---------------------------------------
 
 Some Mozilla websites allow you to make purchases (such as apps or gear), contribute funds to specific Mozilla projects, or make donations in support of Mozilla public and charitable programs. These transactions are often handled by Mozilla’s third party vendors. 
+
 {: #donations }
 
 * **Payment Processing**: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe).
