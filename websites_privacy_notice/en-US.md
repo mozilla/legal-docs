@@ -58,7 +58,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 {: #cookies }
 
-* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://github.com/mozilla/legal-docs/blob/master/websites_privacy_notice/en-US.md#data-tools) section.
+* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://www.mozilla.org/privacy/websites/#data-tools) section.
 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/).
 
