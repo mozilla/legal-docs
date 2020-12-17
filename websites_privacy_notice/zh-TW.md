@@ -71,3 +71,7 @@
 {: #donations }
 
 * **付款處理**：除了支票、匯票、直接扣款、電匯等付款方式之外，Mozilla 並不會收到任何由您傳輸給第三方處理服務供應商（如 Braintree、PayPal、Bitpay、Stripe 等）的金融資訊。
+
+* **個人資料**: 我們也可能會收到您的姓名、郵寄地址以及/或電子郵件地址, 這些資料將用來偵測詐騙行為及留存記錄。 我們使用 [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) 以電子郵件發送收據及商店記錄，此類資料從最終付款日起將會留存四年時間。
+
+* **第三方資料**: 我們使用 [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) 加強募資內容，以冀網際網路能成為健全、開放，可供眾人存取的空間。 捐款者可 [選擇退出](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) Mozilla 使用資料的情形。
