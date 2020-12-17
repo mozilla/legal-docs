@@ -1,13 +1,13 @@
-﻿# Política de Privacidad de Mozilla
+# Política de Privacidad de Mozilla
 
-25 de mayo de 2018
-{: datetime="2018-05-25" }
+9 de septiembre de 2020
+{: datetime="2020-09-09" }
 
-Su privacidad es un factor importante considerado por Mozilla (nosotros) en el desarrollo de cada uno de nuestros productos y servicios. Tenemos como compromiso ser transparentes y abiertos. Esta Política de Privacidad de Mozilla explica de forma general cómo recibimos información sobre Usted y qué hacemos con esa información una vez recibida. Asimismo en nuestros avisos de privacidad de producto y preguntas frecuentes encontrará  más información con referencia a cada uno de nuestros productos y servicios. 
+Su privacidad es un factor importante considerado por Mozilla (nosotros) en el desarrollo de cada uno de nuestros productos y servicios. Tenemos como compromiso ser transparentes y abiertos. Esta Política de Privacidad de Mozilla explica de forma general cómo recibimos información sobre Usted y qué hacemos con esa información una vez recibida. Asimismo en nuestros avisos de privacidad de producto y preguntas frecuentes encontrará más información con referencia a cada uno de nuestros productos y servicios. 
 
 ## ¿Qué queremos decir con "informaciones personales"?
 
-Para nosotros, la expresión "informaciones personales" representa las informaciones que identifican al usuario, como nombre o dirección de e-mail.
+Nosotros utilizamos la expresión «información personal» para referirnos a la información que le identifica directamente (p. ej., su nombre, dirección de correo electrónico o información de facturación) o podría estar razonablemente vinculada con usted o ser utilizada de forma combinada para identificarle (p. ej., el número de identificación de una cuenta o dirección IP). Siempre le informaremos sobre qué información personal recopilamos sobre usted. Consulte el Aviso de privacidad de cada producto para obtener información detallada.
 
 Cualquier información que no se encuadre en esa descripción, deberá ser considerada "información no personal".
 
@@ -26,7 +26,7 @@ Obtenemos informaciones sobre Ud. cuando:
 
 Cuando Ud. nos suministra informaciones personales, son utilizadas para las finalidades permitidas por Ud. Generalmente, utilizamos tales informaciones para proveer y mejorar los productos y servicios destinados a Ud.
 
-Los usuarios de la UE, el EEE o Suiza pueden ir [aquí](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) para obtener más información.
+Los usuarios de la UE, el EEE, Suiza y California pueden obtener [aquí](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) más información al respecto.
 
 ## ¿En qué situaciones compartimos sus informaciones con terceros?
 
@@ -43,12 +43,6 @@ Tenemos como compromiso la protección de sus informaciones personales en nuestr
 
 Tampoco es nuestra voluntad mantener sus informaciones personales por más tiempo del necesario; por eso, tales informaciones son almacenadas apenas durante el tiempo necesario para atender su finalidad. Una vez que no precisamos más de ellas, las destruimos, excepto cuando somos obligados por ley.
 
-## ¿Qué más queremos que Ud. sepa?
-
-Somos una organización global y nuestros computadores están en varios lugares diferentes alrededor del mundo. También usamos prestadores de servicios cuyos computadores también pueden estar en varios países. Esto significa que sus informaciones pueden acabar en uno de esos computadores situados en otros países, y esos países pueden tener diferentes reglamentaciones para protección de datos. Al transmitirnos sus informaciones, Ud. concuerda con ese tipo de transferencia realizada con sus informaciones. No importa en qué país sus informaciones estén, cumpliremos la legislación aplicable y también honraremos los compromisos previstos en esta política de privacidad.
-
-Si Ud. es menor de 13 años, no queremos sus informaciones personales y Ud. no debe proveérnoslas. Si Ud. es un padre y cree que su hijo menor de 13 años nos suministró informaciones personales, [entre en contacto con nosotros](https://www.mozilla.org/privacy/#contact) para que las informaciones de su hijo sean excluidas.
-
 ## ¿Y si estas políticas son alteradas?
 
-Es posible que haya alteraciones en esta política y nuestros avisos.  Las actualizaciones se publicarán en la web. Si los cambios son significativos, notificaremos las actualizaciones a través de los canales habituales de Mozilla para información de este tipo como los blogs y los foros. Su uso continuo del producto o servicio después de la fecha de entrada en vigor de los cambios confirman su aceptación de dichos cambios. Para facilitar la comprobación, publicaremos la fecha de entrada en vigor en la parte superior de la página. 
+Es posible que haya alteraciones en esta política y nuestros avisos. Las actualizaciones se publicarán en la web. Si los cambios son significativos, notificaremos las actualizaciones a través de los canales habituales de Mozilla para información de este tipo como los blogs y los foros. Su uso continuo del producto o servicio después de la fecha de entrada en vigor de los cambios confirman su aceptación de dichos cambios. Para facilitar la comprobación, publicaremos la fecha de entrada en vigor en la parte superior de la página.
