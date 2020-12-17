@@ -1,13 +1,13 @@
-﻿# Polityka prywatności Mozilla
+# Polityka prywatności Mozilla
 
-25 maja 2018 r.
-{: datetime="2018-05-25" }
+9 września 2020 r.
+{: datetime="2020-09-09" }
 
 Prywatność użytkowników, to ważny czynnik, który firma Mozilla (to my) bierze pod uwagę przy opracowywaniu produktów i usług. Staramy się zachować transparentność i otwartość. Polityka prywatności Mozilla wyjaśnia w sposób ogólny, jak otrzymujemy informacje o użytkownikach i co robimy z nimi, gdy już je mamy. Więcej informacji dotyczących poszczególnych produktów i usług można znaleźć w ich zasadach prywatności i zbiorach często zadawanych pytań. 
 
 ## Co Mozilla uznaje za „informacje osobowe”?
 
-W rozumieniu Mozilla, „informacje osobowe” to wszystkie informacje, na podstawie których można zidentyfikować Użytkownika, takie jak imię i nazwisko lub adres e-mail Użytkownika.
+W naszym rozumieniu „informacje osobowe” oznaczają informacje, które albo bezpośrednio identyfikują użytkownika (takie jak imię i nazwisko, adres e-mail lub informacje rozliczeniowe) albo mogą być w uzasadniony sposób powiązane lub połączone w celu zidentyfikowania użytkownika (takie jak numer identyfikacyjny konta lub adres IP). Zawsze będziemy informować, jakie informacje osobowe gromadzimy od użytkownika. Szczegółowe informacje na ten temat można znaleźć w zasadach prywatności dla każdego produktu.
 
 Informacje nienależące do tej kategorią są „informacjami nieosobowymi”.
 
@@ -26,7 +26,7 @@ Informacje na temat Użytkownika są zbierane:
 
 Otrzymane informacje osobowe Mozilla wykorzystuje wyłącznie w celu, na który Użytkownik wyraził zgodę. Generalnie, informacje o Użytkowniku są wykorzystywane w celu zapewnienia i udoskonalania produktów i usługi Mozilla.
 
-Użytkownicy w UE, EOG i Szwajcarii: więcej informacji można znaleźć [tutaj](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
+Użytkownicy w UE, EOG, Szwajcarii i Kalifornii: więcej informacji można znaleźć [tutaj](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## Kiedy Mozilla przekazuje informacje podmiotom trzecim?
 
@@ -43,12 +43,6 @@ Mozilla przykłada szczególną wagę do ochrony pozyskanych informacji osobowyc
 
 Mozilla nie wykorzystuje informacji osobowych dłużej niż jest to konieczne. Mozilla przechowuje informacje osobowe tak długo, jak jest to konieczne dla osiągnięcia celu, w którym zostały one zebrane. Kiedy nie jest to już konieczne, Mozilla podejmuje kroki w celu usunięcia informacji osobowych, o ile właściwe prawo nie przewiduje obowiązku ich dłuższego przechowywania.
 
-## Co jeszcze powinien wiedzieć Użytkownik
-
-Mozilla jest organizacją o zasięgu globalnym a jej komputery rozmieszczone są w różnych miejscach na całym świecie. Ponadto, Mozilla współpracuje z usługodawcami, których komputery mogą znajdować się w innych miejscach niż komputery Mozilla. Oznacza to, że informacje osobowe Użytkownika mogą zostać zapisane na tych komputerze, zlokalizowanych w państwie, w którym obowiązuje inny poziom ochrony danych osobowych, niż w kraju Użytkownika. Powierzając informacje osobowe Mozilla, Użytkownik wyraża zgodę na dokonanie przekazania informacji osobowych do państw trzecich. Bez względu na to, w którym państwie znajdują się informacje osobowe Użytkownika, Mozilla przestrzega właściwych przepisów prawa oraz postępuje zgodnie z zobowiązaniami określonymi w niniejszej Polityce prywatności.
-
-Mozilla nie zbiera informacji od Użytkowników poniżej 13 roku życia, Użytkownicy poniżej 13 roku życia nie są zobowiązani do powierzania informacji o sobie Mozilla. Przedstawiciele prawni Użytkowników poniżej 13 roku życia, którzy podejrzewają, że Użytkownik taki przekazał Mozilla swoje informacje osobowe, są [proszeni o kontakt z](https://www.mozilla.org/privacy/#contact) Mozilla w celu usunięcia informacji osobowych dziecka.
-
 ## Co w przypadku zmiany tej polityki prywatności lub innych zasad prywatności?
 
-Możemy zmienić tę politykę i nasze zasady.  Zmiany zostaną opublikowane w Internecie. Jeżeli zmiany będą istotne, ogłosimy aktualizację za pośrednictwem typowych kanałów firmy służących do tego typu komunikacji, takich jak blogi czy fora. Użytkowanie produktów lub usług po dacie wejścia w życie takich zmian jest równoważne z ich akceptacją przez użytkownika. Aby ułatwić zapoznawanie się ze zmianami, datę ich wejścia w życie zamieścimy u góry tej strony.
+Możemy zmienić tę politykę i nasze zasady. Zmiany zostaną opublikowane w Internecie. Jeżeli zmiany będą istotne, ogłosimy aktualizację za pośrednictwem typowych kanałów firmy służących do tego typu komunikacji, takich jak blogi czy fora. Użytkowanie produktów lub usług po dacie wejścia w życie takich zmian jest równoważne z ich akceptacją przez użytkownika. Aby ułatwić zapoznawanie się ze zmianami, datę ich wejścia w życie zamieścimy u góry tej strony.
