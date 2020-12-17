@@ -71,3 +71,7 @@ Mozilla のウェブサイトには、（アプリやギアなどの）購入、
 {: #donations }
 
 * **決済処理**:小切手、郵便為替、自動引き落とし、および電信送金による決済を除き、Mozilla が、皆様から第三者ベンダーに送信される決済情報を受信することはありません（例: Braintree、PayPal、Bitpay、Stripe）。
+
+* **個人データ**: Mozilla は、皆様の氏名、住所、もしくはメールアドレス、またはそれらすべてを受信することがあります。 このデータは、不正行為の検出および記録のために使用されます。 Mozilla は、電子メール受信と記録保管のために [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) を利用し、これらの情報は最後の支払日から4年間保持されます。 
+
+* **第三者データ**: Mozilla は、すべてのユーザのために健康的で、オープンで、アクセス可能なインターネット環境を維持するための募金を推進するため、 [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) を利用します。 寄付をされた方は、Mozilla の利用を[停止](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) することができます。
