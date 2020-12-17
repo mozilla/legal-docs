@@ -1,13 +1,13 @@
-﻿# Mozilla Gizlilik Politikası
+# Mozilla Gizlilik Politikası
 
-15 Nisan 2014
-{: datetime="2014-04-15" }
+9 Eylül 2020
+{: datetime="2020-09-09" }
 
 Gizliliğiniz, Mozilla olarak ürünlerimizin ve hizmetlerimizin her birinin geliştirilmesinde dikkate aldığımız önemli bir unsurdur. Şeffaflığa ve dürüstlüğe derinden bir bağlılık göstermekteyiz. Bu Mozilla Gizlilik Politikası'nda genel olarak hakkınızda nasıl bilgi aldığımız ve aldıktan sonra bu bilgileri nasıl değerlendirdiğimiz açıklanmaktadır. Her bir ürünümüz ve hizmetimiz ile ilgili olarak ayrıntılı bilgi edinmek için ayrıca ürün gizlilik bildirimlerimizi ve SSS'leri okuyabilirsiniz. 
 
 ## "Kişisel bilgiler" derken neyi kastediyoruz?
 
-Bizim için "kişisel bilgiler", kimliğinizi belirten ad ya da e-posta adresi gibi bilgiler anlamına gelir.
+Bizim için “kişisel bilgiler”, doğrudan sizi tanımlayan (adınız, e-posta adresiniz veya fatura bilgileriniz gibi) veya sizi tanımlamak için makul bir şekilde ilişkilendirilebilecek veya birleştirilebilecek (hesap kimlik numarası veya IP adresi gibi) bilgiler anlamına gelir. Sizden hangi kişisel bilgileri topladığımız konusunda sizi her zaman bilgilendireceğiz. Özel ayrıntılar için her bir ürünün Gizlilik Bildirimi’ni inceleyin.
 
 Bu kapsamın dışında kalan her türlü bilgi "kişisel olmayan bilgidir".
 
@@ -26,6 +26,8 @@ Aşağıdaki durumlarda hakkınızda bilgi edinmiş oluyoruz:
 
 Bize verdiğiniz bilgileri sizin izin verdiğiniz yöntemler doğrultusunda kullanıyoruz. Bilgilerinizi genel olarak size yönelik ürünlerimizi ve hizmetlerimizi sunmada ve geliştirmede bize yardımcı olması için kullanıyoruz.
 
+AB, AEA, İsviçre ve Kaliforniya’daki kullanıcılar için ayrıntılı bilgi almak üzere [burayı](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) inceleyin.
+
 ## Bilgilerinizi hangi durumlarda başkalarıyla paylaşıyoruz?
 
 * Bilgilerinizi paylaşmak için size danıştığımızda ve izninizi aldığımızda
@@ -40,12 +42,6 @@ Bize verdiğiniz bilgileri sizin izin verdiğiniz yöntemler doğrultusunda kull
 Kişisel bilgilerinizi aldığımız andan itibaren bilgilerinizi koruma konusunda büyük bir bağlılık gösteriyoruz. Fiziksel, kurumsal ve teknik güvenlik önlemleri uyguluyoruz. Çabalarımıza rağmen bir güvenlik ihlali olduğunu tespit edersek, koruyucu adımları atabilmeniz için sizi bilgilendiriyoruz.
 
 Ayrıca kişisel bilgilerinizi ihtiyaç duyduğumuzdan daha uzun süre tutmak istemiyoruz, bilgileri yalnızca toplama amacımız doğrultusunda yeterli olacak süre boyunca tutuyoruz. Bilgilerinize ihtiyacımız kalmadığında, yasal olarak bilgileri daha uzun bir süre boyunca tutmamız gerekmiyorsa bilgileri imha etmeye yönelik gerekli adımları atıyoruz.
-
-## Başka neleri bilmeniz gerekiyor?
-
-Küresel bir kuruluşuz ve bilgisayarlarımız dünya çapında birkaç farklı yerde bulunuyor. Ayrıca bilgisayarları çeşitli ülkelerde yer alan hizmet sağlayıcılarından da yararlanıyoruz. Bu, bilgilerinizin başka bir ülkede bulunan söz konusu bilgisayarlardan birine ulaşması ve bu ülkenin, sizin ülkenize göre farklı düzeyde veri koruma düzenlemelerine sahip olabileceği anlamına geliyor. Bize bilgilerinizi vererek, bilgilerinizin bu şekilde aktarılması konusunda da izin veriyorsunuz. Bilgilerinizin hangi ülkede olduğuna bağlı olmaksızın yürürlükteki kanunlara uymakta ve bu gizlilik politikasında verdiğimiz taahhütleri de yerine getiriyoruz.
-
-13 yaşından küçükseniz kişisel bilgilerinizi talep etmiyoruz ve siz de bilgilerinizi paylaşmamalısınız. Ebeveynseniz ve 13 yaşından küçük çocuğunuzun kişisel bilgilerini bizimle paylaştığını düşünüyorsanız çocuğunuzun bilgilerini sildirmek için lütfen bizimle [iletişime geçin](https://www.mozilla.org/privacy/#contact).
 
 ## Bu gizlilik politikasında ya da gizlilik bildirimlerimizden herhangi birinde değişiklik yaparsak ne olur?
 
