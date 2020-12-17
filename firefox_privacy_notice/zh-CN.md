@@ -1,7 +1,7 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2019 年 9 月 10 日生效*
-{: datetime="2019-09-10" }
+*2020 年 9 月 8 日生效*
+{: datetime="2020-09-8" }
 
 ## 在 Mozilla，我们认为隐私是健康互联网的基石。
 
@@ -25,33 +25,40 @@
 * __位置数据__：当您第一次使用 Firefox 时，它会使用您的 IP 地址，根据您所在的国家来设置默认的搜索引擎。[了解更多信息](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
 ### 建议相关内容
-Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、附加组件建议、热门站点（Mozilla 为首次使用 Firefox 的用户建议的网站）和 Pocket 推荐。
 
-* __位置数据__：Firefox 会使用您的 IP 地址，根据您所在的国家来推荐相关内容。
+Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、附加组件建议、热门站点（Mozilla 为首次使用 Firefox 的用户建议的网站）和 Pocket 推荐（Mozilla 系列的一部分）。
+
+* __位置数据__：Firefox 使用您的 IP 地址，根据您所在国家/地区和州省推荐相关内容。
 
 * __技术和交互数据__：Firefox 会向我们发送以下数据，如：我们推荐内容的位置、大小及放置，以及有关您与 Firefox 推荐内容的交互的基本数据。这包括显示或点击推荐内容的次数。
 
 * __Snippet 的网页数据__：当您选择点击 Snippet 链接时，我们可能会收到有关您所进入链接的数据。该信息与您的任何其他相关信息都无关。[了解更多信息](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
 
-* __针对 Pocket 推荐的网页数据__：我们根据您的浏览历史记录向您推荐内容。关于您将看到哪些内容的决定过程在您本地的 Firefox 副本中进行，Mozilla 或 Pocket（Mozila 系列的成员）都不会收到您的浏览历史记录的副本。我们会收集有关您查看和点击的建议内容的汇总数据。此数据不会识别您的个人身份。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商了解点击其文章的人数，而不是点击或查看其文章的具体个人。
+* __针对 Pocket 推荐的网页、语言和位置数据__：我们根据您的浏览历史记录、语言和国家/地区位置向您推荐内容。我们会根据您的浏览历史记录决定您应查看的具体故事，此过程在 Firefox 副本中本地进行，Mozilla 和 Pocket 都不会收集您的浏览历史记录。为帮助您查看基于您所在位置的相关 Pocket 推荐，Firefox 会与 Pocket 共享您的语言和国家/地区位置。
 
-* __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
+Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数据。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商可以看到有多少人点击了他们的文章。此汇总数据不会识别您的个人身份。
 
-### 为各地用户提高安全性 {: #security }
+* __针对热门站点的位置数据和交互数据__：当您在新标签页点击 Amazon.com 热门站点磁贴时，我们将与 Amazon 和 AdMarketplace（第三方推荐平台）分享您所在国家/地区和您点击的时间，以验证您是否已导航到 Amazon。Firefox 不会与 Amazon 或 AdMarketplace 分享您的 IP 地址或任何其他可用来识别您身份的信息。
 
-* __有关更新的技术数据__：Firefox 的桌面版本会通过连接到 Firefox 服务器，定期查看浏览器更新。要应用适当的更新，须使用您的 Firefox 版本、语言和设备操作系统等相关信息。如果您曾经使用一个 Firefox 的移动版本来下载和安装 Firefox，则可以用它连接到其他服务。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
+* __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations).的信息
+
+###为各地用户提高安全性{: #security }
+
+**针对 DNS 解析器服务的网页数据**：对于美国的部分 Firefox 用户，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[了解更多信息](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看以下我们默认的 DNS 解析器服务提供商：
+
+* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
+* [__NextDNS__](https://nextdns.io/privacy)
+* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+
+**有关更新的技术数据**：Firefox 的桌面版本会通过持续连接到 Firefox 服务器，查看浏览器更新。要应用正确的更新，须使用您的 Firefox 版本、语言和设备操作系统等相关信息。如果您曾经使用一个 Firefox 的移动版本来下载和安装 Firefox，则可以用它连接到其他服务。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
-* __附加组件黑名单的技术数据__：Firefox 桌面版本和 Android 版本会定期连接到 Mozilla 以保护您及其他人，免遭恶意附加组件的攻击。要应用和更新附加组件黑名单，需要您的 Firefox 版本和语言、设备操作系统以及已安装附加组件的列表等相关信息。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
+**附加组件黑名单的技术数据**：Firefox 桌面版本和 Android 版本会定期连接到 Mozilla 以保护您及其他人免遭恶意附加组件的攻击。要应用和更新附加组件黑名单，需要您的 Firefox 版本和语言、设备操作系统以及已安装附加组件的列表等相关信息。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
 
-* __Google SafeBrowsing 服务的网页和技术数据__：为了保护您免遭恶意下载的攻击，Firefox 会将有关无法识别的下载的基本信息发送给 Google 的 SafeBrowsing 服务，包括文件名和下载的来源 URL。
+**Google SafeBrowsing 服务的网页和技术数据**：为了保护您免遭恶意下载的攻击，Firefox 会将有关无法识别的下载的基本信息发送给 Google 的 SafeBrowsing 服务，包括文件名和下载的来源 URL。[了解更多信息](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)或阅读 [Google 的隐私政策](https://www.google.com/policies/privacy/)。选择退出会阻止 Firefox 提醒您有关潜在非法或恶意的网站或下载的文件。
 
-[了解更多信息](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)或者阅读 [Google 的隐私政策](https://www.google.com/policies/privacy/)。选择退出会阻止 Firefox 提醒您有关潜在非法或恶意的网站或下载的文件。
-
-* __证书颁发机构的网页和技术数据__：当您访问安全网站（通常以“HTTPS”开头的 URL 进行标识）时，Firefox 会验证该网站的[证书](https://support.mozilla.org/kb/secure-website-certificate)。该过程可能涉及 Firefox 向该网站所标识的证书颁发机构发送有关该网站的特定信息。
-
-选择退出会增加您的隐私信息被拦截的风险。[了解更多信息](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
+**证书颁发机构的网页和技术数据**：当您访问安全网站（通常以“HTTPS”开头的 URL 进行标识）时，Firefox 会验证该网站的[证书](https://support.mozilla.org/kb/secure-website-certificate)。该过程可能涉及 Firefox 向该网站所标识的证书颁发机构发送有关该网站的特定信息。选择退出会增加您的隐私信息被拦截的风险。[了解更多信息](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
 ### 崩溃报告 {: #crash-reporter }
 默认情况下，在 Firefox 的桌面版本上，我们会要求您与 Mozilla 共享有关崩溃的，包含更多详细信息的报告，但是您永远可以选择拒绝。
@@ -71,7 +78,7 @@ Firefox 会显示内容，例如“Snippets”（来自 Mozilla 的消息）、�
 
 _桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这可让我们确定推荐您到我们下载页面的网站域名或广告活动（如有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-_iOS 和 Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
+_Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
 
 * __技术和交互数据__：
@@ -97,7 +104,7 @@ __搜索建议__：默认情况下，Firefox 会将搜索查询发送给您的�
 
 [了解详情](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包括如何禁用此功能。
 
-### Firefox 账户
+### Firefox 账户和加入 Firefox
 
 * __Firefox 账户数据__：当您创建 Firefox 账户时，Mozilla 会收到您的电子邮件地址以及您密码的散列值。您可以选择包括显示名或个人资料图像。您的电子邮件地址会被发送到我们的电子邮件供应商 SalesForce Marketing Cloud，它拥有自己的[隐私政策](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)。如果您使用 Firefox 账户登录其他网站或服务（如 AMO 或 Pocket），我们会收到您登录这些服务的时间戳。
 
@@ -108,6 +115,11 @@ __搜索建议__：默认情况下，Firefox 会将搜索查询发送给您的�
 * __技术数据__：为了显示哪些设备与您的 Firefox 账户同步并为了功能要求,我们会存储您的设备操作系统、浏览器和版本、时间戳、区域设置，以及连接到您账户的设备的同样信息。
 
 阅读[完整文档](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md)或者[了解更多信息](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts)，包括如何[删除您的账户](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account)。
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### 同步服务 {: #sync }
 
@@ -122,18 +134,6 @@ __搜索建议__：默认情况下，Firefox 会将搜索查询发送给您的�
 * __Google 地理位置服务的位置数据__：在确定并与请求网站共享您的位置信息之前，Firefox 始终会询问您（例如，当地图网站需要您的地理位置来提供路线时）。为了确定位置，Firefox 可能会使用您操作系统的地理位置功能、Wi-fi 网络、手机信号发射塔或 IP 地址，而且可能将这些数据发送到 Google 的地理位置服务，它拥有自己的[隐私政策](https://www.google.com/privacy/lsf.html)。
 
 [了解更多信息](https://www.mozilla.org/firefox/geolocation/)。
-
-### Firefox Screenshots {: #screenshots }
-
-* __上传截图__：您选择上传的截图会被发送到 Mozilla 并存储指示的限定时间，您可以更改该时间。在运行服务的合理必要时，我们可以访问您上传的截图。您可以随时删除您上传的截图。
-
-* __交互数据__：我们会收到以下数据，如：对 Firefox Screenshots 网站的访问、您或其他人访问并共享上传截图的频率以及您与抓怕截图相关的按钮、方块和鼠标移动的交互。
-
-有关对 Firefox Screenshots 网站的访问，我们的[网站隐私声明](https://www.mozilla.org/privacy/websites/)介绍了我们可能额外收集的数据类型。
-
-* __技术数据__：我们会收到以下数据，如：您上传截图的平均大小和数量、您的 Firefox 浏览器版本、设备操作系统以及错误。访问 Firefox Screenshots 网站的 IP 地址会被临时收集，以作为标准服务器日志的一部分。
-
-阅读[完整文档](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md)或者[了解更多信息](https://wiki.mozilla.org/Firefox/Screenshots/FAQs)。
 
 ### 网站通知 {: #push-notifications }
 
