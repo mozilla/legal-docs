@@ -71,3 +71,7 @@
 {: #donations }
 
 * **付款处理**：除通过支票、汇票、直接借记和电汇进行的付款外，Mozilla 不会收集任何由您发送给指定第三方供应商进行处理的财务信息（如 Braintree、PayPal、Bitpay、Stripe)。
+
+* **个人数据**: 我们也可能会收集您的姓名、邮寄地址和/或电子邮件地址。 这些数据将用于欺诈检测和记录保存。 我们使用 [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) 发送收据和店铺记录，这些收据和记录将自上次付款之日起保留四年。 
+
+* **第三方数据**: 我们使用  [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) 改进我们的筹款工作，以保持互联网的健康、开放和对所有人员的可访问性。 捐赠者可以 [选择退出](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) Mozilla 的使用。
