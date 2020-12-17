@@ -1,7 +1,7 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
 
-*有効日 2019 年 9 月 10 日*
-{: datetime="2019-09-10" }
+*有効日 2020 年 9 月 8 日*
+{: datetime="2020-09-8" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -35,24 +35,30 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 * __スニペットのウェブページデータ__: あなたがスニペットのリンクをクリックするとき、Mozilla はあなたがフォローしたリンクに関するデータを受信することがあります。この情報は、あなたに関する他のどの情報にも関連付けられていません。[詳細はこちら](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
 {: #snippets }
 
-* __Pocketからのおすすめのウェブページデータ__:あなたのブラウジング履歴に基づき、コンテンツを推奨します。表示するストーリーの決定プロセスは、Firefox が受信するブラウジング履歴のコピーでローカルに発生し、Mozilla および Pocket（Mozilla の系列会社）はいずれもブラウジング履歴のコピーを受信しません。Mozilla は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。このデータによって個人が特定されることはありません。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としており、クリックまたは閲覧した個人を特定するものではありません。
+* __Pocket からのおすすめ用のウェブページ、言語および位置データ__:Firefox は、あなたのブラウジング履歴、言語および国に基づき、コンテンツを推奨します。表示するストーリーの決定プロセスは、あなたのブラウジング履歴に基づいて Firefox のコピーでローカルに発生し、Mozilla および Pocket はいずれもブラウジング履歴のコピーを受信しません。Firefox は、あなたの位置に基づいて関連する Pocket からのおすすめを表示するため、あなたの言語および国を Pocket と共有します。
+
+Mozilla および Pocket は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としています。この集計されたデータは、あなた個人を特定するものではありません。
+
+* __トップサイト用の位置情報とインタラクションデータ__:新しいタブで Amazon.com のトップサイトをクリックすると、Firefox は、あなたが Amazon に移動したことを確認するため、あなたの国およびクリックした時間を Amazon および AdMarketplace（第三者照会プラットフォーム）と共有します。Firefox が、あなたの IP アドレスやあなたを識別できるその他の情報を Amazon および AdMarketplace　と共有することはありません。
 
 * __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ（about:addons）と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendations) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
 
 ### すべてのユーザーのためにセキュリティを強化する {: #security }
 
-* __更新用の技術情報__: デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーの更新の有無を定期的に確認します。正しい更新を適用するために、お使いの Firefox のバージョン、言語、端末のオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
+**DNS　リゾルバサービスへのウェブページデータ**:米国にお住まいの一部の Firefox ユーザの方については、Firefox が DNS リクエストを、Mozilla の[リゾルバに対する厳格なプライバシー基準](https://wiki.mozilla.org/Security/DOH-resolver-policy)に同意したリゾルバサービスにルーティングします。これによって、ローカルネットワークへのプライバシー情報の漏洩および DNS セキュリティ攻撃に備えた対策を強化することができます。あなたの DNS リクエストのシステムログは、24 時間以内に当該サービスから削除され、DNS 解決以外の目的には使用されません。[詳細を確認](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)するか、こちらで初期設定の DNS リゾルバプロバイダーをご覧ください。
+
+* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
+* [__NextDNS__](https://nextdns.io/privacy)
+* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+
+**更新用の技術情報**:デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーの更新の有無を定期的に確認します。正しい更新を適用するために、お使いの Firefox のバージョン、言語、および端末のオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
 
-* __アドオンブロックリスト用の技術情報__: デスクトップ版および Android 版の Firefox は、あなたおよび他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、端末のオペレーティングシステム、およびインストールされているアドオンのリストが必要です。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
+**アドオンブロックリスト用の技術情報**:デスクトップ版および Android 版の Firefox は、あなたおよび他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、端末のオペレーティングシステム、およびインストールされているアドオンのリストが必要です。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)。
 
-* __Google のセーフブラウジングサービスへのウェブページおよび技術情報__: Firefox は、あなたを悪意のあるダウンロードから守るために、認識されなかったダウンロードに関する基本的な情報を Google のセーフブラウジングサービスに送信します。これには、ファイル名やダウンロード元の URL が含まれます。
+**Google のセーフブラウジングサービスへのウェブページおよび技術情報**:Firefox は、あなたを悪意のあるダウンロードから守るために、認識されなかったダウンロードに関する基本的な情報を Google のセーフブラウジングサービスに送信します。これには、ファイル名やダウンロード元の URL が含まれます。[こちら](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)で詳細をご覧になるか、[Google のプライバシーポリシー](https://www.google.com/policies/privacy/)をお読みください。オプトアウトすると、違法または悪意があるかもしれないウェブサイトやダウンロードファイルに関する Firefox からの警告が表示されなくなります。
 
-    [こちら](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) で詳細をご覧になるか、[Google のプライバシーポリシー](https://www.google.com/policies/privacy/) をお読みください。オプトアウトすると、違法または悪意があるかもしれないウェブサイトやダウンロードファイルに関する Firefox からの警告が表示されなくなります。
-
-* __認証局へのウェブページおよび技術情報__: あなたが安全なウェブサイト (通常、URL が「HTTPS」から始まるサイト) を訪問するとき、Firefox はそのウェブサイトの [証明書](https://support.mozilla.org/kb/secure-website-certificate) を検証します。この検証は、Firefox がそのウェブサイトの特定の情報を、そのウェブサイトに関係している認証局に送信することによって行われます。
-
-    オプトアウトすると、あなたの個人情報が傍受される危険性が高くなります。[詳細はこちら](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
+**認証局へのウェブページおよび技術情報**:あなたが安全なウェブサイト（通常、URL が「HTTPS」から始まるサイト）を訪問するとき、Firefox はそのウェブサイトの[証明書](https://support.mozilla.org/kb/secure-website-certificate)を検証します。この検証は、Firefox がそのウェブサイトの特定の情報を、そのウェブサイトによって識別される認証局に送信することによって行われることがあります。オプトアウトすると、あなたの個人情報が傍受される危険性が高くなります。[詳細はこちら](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
 ### クラッシュレポート {: #crash-reporter }
 デスクトップ版の Firefox の初期設定により、Mozilla はクラッシュに関するより詳細な情報を Mozilla に提供していただくようあなたにお願いしますが、あなたはいつでもこれを拒否できます。
@@ -69,8 +75,8 @@ Firefox は、「スニペット」（Mozilla からのメッセージ）、お�
 
 * __キャンペーンおよび参照データ__: これは、Mozilla のマーケティングキャンペーンの有効性を理解するのに役立ちます。
 {: #referraltracking }
-
-    _デスクトップの場合_: Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みください。または、インストールの前に [オプトアウト](https://support.mozilla.org/kb/desktop-privacy) してください。
+   
+   _デスクトップの場合_: Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みください。または、インストールの前に [オプトアウト](https://support.mozilla.org/kb/desktop-privacy) してください。
 
     _iOS および Android の場合_: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html) をお読みください。
 {: #thirdparty }
@@ -98,8 +104,7 @@ __検索候補__:Firefox は初期設定で、他の人々が検索した一般�
 
 この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)。
 
-
-### Firefox アカウント
+### Firefox アカウントと Firefox への参加
 
 * __Firefox アカウントデータ__: あなたが Firefox アカウントを作成するとき、Mozilla はあなたのメールアドレスおよびパスワードのハッシュを受信します。あなたは、名前またはプロファイル画像を含めるように指定できます。あなたのメールアドレスは、Mozilla のメールベンダーである SalesForce Marketing Cloud に送信されます。このベンダーには、独自の [プライバシーポリシー](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) があります。あなたがご自分の Firefox アカウントを使用して他のウェブサイトまたはサービス (AMO や Pocket など) にログインする場合、Mozilla はそれらのサービスからあなたがログインしたときのタイムスタンプを受信します。
 
@@ -110,32 +115,27 @@ __検索候補__:Firefox は初期設定で、他の人々が検索した一般�
 * __技術情報__: あなたの Firefox アカウントと同期している端末を表示するため、および機能性を目的として、Mozilla はあなたの端末のオペレーティングシステム、ブラウザーとバージョン、タイムスタンプ、ロケール、およびあなたのアカウントに接続されている端末に関する同情報を保管します。
 
 完全なドキュメントについては、[こちら](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) をお読みください。また、アカウントの詳細については [こちら](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts)、アカウントを削除する方法については [こちら](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account) をご覧ください。
+Firefox アカウントのデータを管理する方法や、Firefox の[ウェブサイトおよび電子メール](https://www.mozilla.org/privacy/websites/)に関するデータ慣行を含む、ドキュメントの全文または詳細をお読みください。Firefox アカウントに接続されている以下の各サービスについても、プライバシーに関する通知をお読みいただけます。
+
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### 同期 {: #sync }
 
-* __同期データ__: あなたが同期を有効にした場合、Mozilla は、あなたが端末間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの [ドキュメント](https://moz-services-docs.readthedocs.io/en/latest/sync/) もお読みください。
+* __同期データ__:あなたが同期を有効にした場合、Mozilla は、あなたが端末間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの[ドキュメント](https://moz-services-docs.readthedocs.io/en/latest/sync/)もお読みください。
 
-* __技術およびインタラクションデータ__: あなたが同期を有効にした場合、Firefox は Telemetry を使用して、同期が実行された日時、成功したか失敗したか、同期を試行した端末の種類など、あなたのデータに対する直近の同期試行に関する基本的な情報を定期的に送信します。こちらの [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) もお読みください。
+* __技術およびインタラクションデータ__:あなたが同期を有効にした場合、Firefox は Telemetry を使用して、同期が実行された日時、成功したか失敗したか、同期を試行した端末の種類など、あなたのデータに対する直近の同期試行に関する基本的な情報を定期的に送信します。こちらの[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)もお読みください。
 
-同期を有効または無効にする方法についての [詳細はこちら](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)。
+同期を有効または無効にする方法などの[詳細はこちら](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)。
 
 ### 位置情報 {: #location-services }
 
 * __Google の位置情報サービスへの場所データ__: Firefox は、あなたの場所を判断したり、あなたの場所を要求元のウェブサイト (たとえば、マップウェブサイトがルートを提供するためにあなたの場所を必要とする場合) と共有したりする前に、必ずあなたにその旨を尋ねます。場所を判断するために、Firefox はあなたのオペレーティングシステムのジオロケーション機能、Wi-fi ネットワーク、携帯電話の基地局、または IP アドレスを使用する可能性があり、このデータを Google のジオロケーションサービスに送信する可能性があります。このサービスには、独自の [プライバシーポリシー](https://www.google.com/privacy/lsf.html) があります。
 
 [詳細はこちら](https://www.mozilla.org/firefox/geolocation/)。
-
-### Firefox Screenshots {: #screenshots }
-
-* __スクリーンショットのアップロード__: あなたがアップするように指定したスクリーンショットは Mozilla に送信され、示されている期間だけ保管されます。この期間は変更することが可能です。Mozilla は、サービスの運営上必要であると判断したとき、あなたがアップロードしたスクリーンショットにアクセスすることがあります。あなたはアップロードしたスクリーンショットをいつでも削除できます。
-
-* __インタラクションデータ__: Mozilla は、Firefox Screenshots ウェブサイトへの訪問、アップロードされたスクリーンショットがあなたまたは他の人によってアクセスおよび共有される頻度、およびあなたによるボタンやタイトルの操作、ならびにスクリーンショットのキャプチャに関するマウスの動きなどのデータを受信します。
-
-    Firefox Screenshots ウェブサイトへの訪問については、Mozilla の [ウェブサイトのプライバシーに関する通知](https://www.mozilla.org/privacy/websites/) に、Mozilla が収集するデータの種類についての説明が記載されています。
-
-* __技術情報__: Mozilla は、あなたがアップロードしたスクリーンショットの平均のサイズや数、お使いの Firefox ブラウザーのバージョン、端末のオペレーティングシステム、およびエラーなどのデータを受信します。Firefox Screenshots ウェブサイトにアクセスする IP アドレスは、標準的なサーバーログの一部として一時的に収集されます。
-
-完全なドキュメントについては [こちら](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) を、さらに詳しい情報については [こちら](https://wiki.mozilla.org/Firefox/Screenshots/FAQs) をお読みください。
 
 ### ウェブサイト通知 {: #push-notifications }
 
