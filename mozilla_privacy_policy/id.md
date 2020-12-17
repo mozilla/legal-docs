@@ -1,13 +1,13 @@
-﻿# Kebijakan Privasi Mozilla
+# Kebijakan Privasi Mozilla
 
-15 April 2014
-{: datetime="2014-04-15" }
+09 September 2020
+{: datetime="2020-09-09" }
 
-Privasi Anda adalah faktor penting yang Mozilla (kami) pertimbangkan dalam pengembangan setiap produk dan layanan kami. Kami berkomitmen untuk transparan dan terbuka. Kebijakan Privasi Mozilla ini secara umum menjelaskan bagaimana kami menerima informasi tentang Anda, dan apa yang kami lakukan terhadap informasi tersebut setelah kami memilikinya. Anda juga bisa membaca pemberitahuan dan FAQ (Pertanyaan yang Sering Muncul) tentang privasi produk kami untuk mendapatkan informasi selengkapnya terkait masing-masing produk dan layanan kami. 
+Privasi Anda adalah faktor penting yang Mozilla (kami) pertimbangkan dalam pengembangan setiap produk dan layanan kami. Kami berkomitmen untuk transparan dan terbuka. Kebijakan Privasi Mozilla ini secara umum menjelaskan bagaimana kami menerima informasi tentang Anda, dan apa yang kami lakukan terhadap informasi tersebut setelah kami memilikinya. Anda juga bisa membaca pemberitahuan dan FAQ (Pertanyaan yang Sering Muncul) tentang privasi produk kami untuk mendapatkan informasi selengkapnya terkait masing-masing produk dan layanan kami.
 
 ## Apa yang kami maksud dengan "informasi pribadi?"
 
-Bagi kami, "informasi pribadi" berarti informasi yang mengidentifikasi Anda, seperti nama atau alamat surel Anda.
+Bagi kami, "informasi pribadi" berarti informasi yang secara langsung mengidentifikasi Anda (seperti nama, alamat email, atau informasi penagihan Anda) atau informasi yang bisa ditautkan atau digabungkan secara wajar untuk mengidentifikasi Anda (seperti nomor identitas akun atau alamat IP). Kami akan memberitahu Anda informasi pribadi apa saja yang kami kumpulkan dari Anda. Lihat Pemberitahuan Privasi produk untuk detail yang spesifik.
 
 Semua informasi selain informasi ini adalah "informasi non-pribadi."
 
@@ -26,6 +26,8 @@ Kami mengetahui informasi tentang Anda ketika:
 
 Ketika Anda memberikan informasi kepada kami, kami akan menggunakannya sesuai izin yang Anda berikan kepada kami. Umumnya, kami menggunakan informasi Anda untuk membantu kami menyediakan dan meningkatkan produk dan layanan kami kepada Anda.
 
+Bagi pengguna di UE, EEA, Swiss, dan California: lihat [di sini](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) untuk informasi selengkapnya.
+
 ## Kapan kami memberikan informasi Anda kepada orang lain?
 
 * Setelah kami meminta dan menerima izin dari Anda untuk memberikan informasi tersebut.
@@ -41,12 +43,6 @@ Kami berkomitmen untuk melindungi informasi pribadi Anda setelah kami memilikiny
 
 Kami juga tidak ingin menyimpan informasi pribadi Anda lebih lama daripada yang kami perlukan; jadi, kami hanya menyimpannya selama kami perlukan sesuai tujuan pengumpulannya. Setelah tidak diperlukan, kami akan mengambil langkah untuk menghancurkannya kecuali diharuskan undang-undang untuk menyimpannya lebih lama.
 
-## Apa lagi yang ingin Anda ketahui?
-
-Kami adalah perusahaan global dan komputer kami ada di beberapa tempat di seluruh dunia. Kami juga menggunakan penyedia layanan yang komputernya mungkin juga berada di berbagai negara. Ini berarti bahwa informasi Anda mungkin tersimpan di salah satu komputer tersebut di negara lain, dan negara tersebut mungkin memiliki tingkat peraturan perlindungan data yang berbeda dengan peraturan kami. Dengan memberikan informasi kepada kami, Anda setuju dengan jenis pentransferan informasi ini. Di negara mana pun informasi Anda berada, kami mematuhi undang-undang yang berlaku dan akan menaati komitmen yang kami buat dalam kebijakan privasi ini.
-
-Jika Anda berusia di bawah 13 tahun, kami tidak menginginkan informasi Anda, dan Anda tidak boleh memberikannya kepada kami. Jika Anda orang tua dan yakin anak Anda yang berusia di bawah 13 tahun telah memberikan informasi pribadi kepada kami, mohon [hubungi kami](https://www.mozilla.org/privacy/#contact) untuk menghapus informasi anak Anda.
-
 ## Bagaimana jika kami mengubah kebijakan privasi atau pemberitahuan privasi kami?
 
-Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami.  Pembaruan ini akan diposting di internet. Jika perubahannya banyak, kami akan mengumumkan pembaruan tersebut melalui saluran umum Mozilla dalam bentuk postingan blog dan forum. Jika Anda terus menggunakan produk atau layanan setelah tanggal berlaku perubahan tersebut, berarti Anda menyetujui perubahan tersebut. Agar Anda lebih mudah mempelajarinya, kami akan memposting tanggal mulai berlakunya di bagian atas halaman.
+Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami. Pembaruan ini akan diposting di internet. Jika perubahannya banyak, kami akan mengumumkan pembaruan tersebut melalui saluran umum Mozilla dalam bentuk postingan blog dan forum. Jika Anda terus menggunakan produk atau layanan setelah tanggal berlaku perubahan tersebut, berarti Anda menyetujui perubahan tersebut. Agar Anda lebih mudah mempelajarinya, kami akan memposting tanggal mulai berlakunya di bagian atas halaman.
