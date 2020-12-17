@@ -1,13 +1,13 @@
-﻿# Politique de confidentialité de Mozilla
+# Politique de confidentialité de Mozilla
 
-25 mai 2018
-{: datetime="2018-05-25" }
+Mercredi 9 septembre 2020
+{: datetime="2020-09-09" }
 
 Votre confidentialité constitue un facteur important dont Mozilla (nous) se soucie dans le développement de ses produits et services. Nous nous engageons à être transparents et ouverts. Cette Politique de confidentialité de Mozilla explique comment nous recevons vos informations et ce que nous en faisons une fois qu’elles sont en notre possession. Vous pouvez également consulter nos avis de confidentialité de produits et nos FAQ. 
 
 ## Qu’entendons-nous par « informations personnelles » ?
 
-Pour nous, les « informations personnelles » désignent toutes les informations qui vous identifient, par exemple, votre nom ou adresse électronique.
+Pour nous, les « informations personnelles » désignent toutes les informations qui soit vous identifient directement (telles votre nom, adresse électronique ou informations de facturation), soit peuvent être raisonnablement associées pour vous identifier (telles le numéro d’identification d’un compte ou l’adresse IP). Nous vous expliquerons toujours quelles informations nous collectons auprès de vous. Pour plus de détails, reportez-vous à la Politique de confidentialité de chaque produit.
 
 Toute information en dehors de ce cadre constitue une « information non-personnelle ».
 
@@ -26,7 +26,7 @@ Nous prenons connaissance d’informations vous concernant dans les situations s
 
 Lorsque vous nous donnez des informations personnelles, nous les utilisons conformément aux autorisations que vous nous avez fournies. De manière générale, nous utilisons vos informations pour nous permettre de vous offrir de nouveaux produits et services et/ou d’améliorer les existants.
 
-Pour les utilisateurs de l’UE, de l’EEE et de Suisse : voir [ici](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) pour plus d’informations.
+Pour les utilisateurs de l’UE, de l’EEE, de Suisse et de Californie : voir [ici](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) pour plus d’informations.
 
 ## Dans quels cas partageons-nous vos informations avec d’autres ?
 
@@ -43,12 +43,6 @@ Nous nous engageons à protéger vos informations personnelles une fois que nous
 
 Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n’en avons plus besoin.Par conséquent nous ne les garderons que le temps nécessaire pour réaliser les actions pour lesquelles nous les avons collectées. Lorsque nous n’en avons plus besoin, nous les détruisons sauf si la loi exige que nous les conservions plus longtemps.
 
-## Que souhaitons-nous que vous sachiez encore ?
-
-Nous sommes une organisation mondiale et nos ordinateurs se trouvent dans des emplacements divers dans le monde entier. Nous faisons aussi appel à des fournisseurs de services dont les ordinateurs peuvent également se trouver dans divers pays. Ceci signifie que vos informations peuvent « atterrir » sur l’un des ordinateurs situés dans un autre pays, et ce pays peut avoir des réglementations différentes des nôtres en matière de protection des données. En nous communiquant vos informations, vous nous autorisez à effectuer ce transfert d’informations. Quel que soit le pays où se trouvent vos informations, nous respectons le droit applicable ainsi que les engagements que nous avons pris dans cette politique de confidentialité.
-
-Si vous avez moins de 13 ans, nous ne voulons pas vos informations personnelles et vous ne devez pas nous les communiquer. Si vous êtes parent d’un enfant de moins de 13 ans et pensez qu’il nous a communiqué ses informations personnelles, veuillez [nous contacter](https://www.mozilla.org/privacy/#contact) pour éliminer ces informations.
-
 ## Que se passe-t-il si nous modifions cette politique ?
 
-Nous pouvons être amenés à modifier cette politique.  Les mises à jour seront publiées en ligne. Si les modifications sont importantes, nous annoncerons la mise à jour par le biais des canaux habituels de Mozilla, tels que des billets de blog et des forums. Votre utilisation continue du produit ou service après la date effective de ces modifications signifie que vous acceptez ces modifications. Pour que vous soyez mieux informé, nous publierons la date effective en haut de la page.
+Nous pouvons être amenés à modifier cette politique. Les mises à jour seront publiées en ligne. Si les modifications sont importantes, nous annoncerons la mise à jour par le biais des canaux habituels de Mozilla, tels que des billets de blog et des forums. Votre utilisation continue du produit ou service après la date effective de ces modifications signifie que vous acceptez ces modifications. Pour que vous soyez mieux informé, nous publierons la date effective en haut de la page.
