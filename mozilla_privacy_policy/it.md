@@ -1,13 +1,13 @@
-﻿# Informativa sulla privacy di Mozilla
+# Informativa sulla privacy di Mozilla
 
-25 maggio 2018
-{: datetime="2018-05-25" }
+9 settembre 2020
+{: datetime="2020-09-09" }
 
 La privacy è un aspetto importante di cui Mozilla (noi) tiene conto nello sviluppo di ciascuno dei propri prodotti e servizi. Mozilla si impegna a essere trasparente e aperta. La presente Informativa sulla privacy di Mozilla descrive come vengono ricevute le informazioni dagli utenti e come vengono utilizzate una volta acquisite. Per ulteriori informazioni relative a prodotti e servizi specifici, è inoltre possibile consultare le informative sulla privacy e le domande frequenti (FAQ) dei singoli prodotti e servizi. 
 
 ## Che cosa si intende per "dati personali?"
 
-Con l’espressione "dati personali", Mozilla intende i dati che identificano l’utente, come il nome o l’indirizzo email.
+Con l'espressione "dati personali", Mozilla intende dati che vi identificano direttamente (come nome, indirizzo email o informazioni di fatturazione) o che possono essere ragionevolmente collegati o combinati al fine di identificarvi (come un ID account o un indirizzo IP). Mozilla vi dirà sempre quali dati personali raccoglie su di voi. Per informazioni specifiche, potete consultare l'informativa sulla privacy di ogni singolo prodotto.
 
 Tutte le informazioni che non rientrano in questa definizione sono considerate "dati non personali".
 
@@ -26,7 +26,7 @@ Mozilla acquisisce dati sull’utente:
 
 Quando l’utente fornisce a Mozilla dati personali, essi vengono utilizzati nei modi per i quali l’utente ha espresso il proprio consenso. In generale, Mozilla utilizza i dati dell’utente per fornire e migliorare i propri prodotti e servizi.
 
-Per utenti di Unione Europea, Area Economica Euroepa e Svizzera: ulteriori informazioni accessibili [qui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
+Per utenti di Unione Europea, Area Economica Europea e California: ulteriori informazioni sono disponibili [qui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## In quali casi Mozilla condivide con altri le informazioni dell’utente?
 
@@ -43,12 +43,6 @@ Una volta che ne entra in possesso, Mozilla si impegna a proteggere i dati perso
 
 Mozilla non vuole conservare i dati personali dell’utente più a lungo del necessario e li mantiene quindi soltanto per il tempo necessario al loro utilizzo per la finalità per la quale sono stati acquisiti. Non appena i dati non sono più indispensabili, Mozilla adotta misure per distruggerli, salvo laddove la legge preveda un periodo di conservazione più lungo.
 
-## Di cos’altro deve essere informato l’utente?
-
-Mozilla è un’organizzazione globale e i computer che utilizza si trovano in più parti del mondo. Inoltre, si avvale di provider di servizi i cui computer possono essere situati in diversi Paesi. Ciò significa che i dati dell’utente potrebbero finire in uno di questi computer situati in un altro Paese e che tale Paese potrebbe avere una normativa in materia di protezione dei dati personali diversa da quella di Mozilla. Fornendo i propri dati, l’utente acconsente a questo tipo di trasferimento. Indipendentemente dal paese in cui si trovano i dati, Mozilla rispetta la normativa applicabile nonché gli impegni assunti nella presente informativa sulla privacy.
-
-Mozilla non vuole ricevere dati da utenti di età inferiore a 13 anni e tali utenti non devono fornirglieli. Se un genitore ritiene che il proprio figlio di età inferiore ai 13 anni abbia fornito a Mozilla dati personali, può [contattare Mozilla](https://www.mozilla.org/privacy/#contact) per cancellare i dati che lo riguardano.
-
 ## Che cosa succede se Mozilla modifica la presente informativa?
 
-Qualora Mozilla dovesse modificare la presente informativa e/o altre informative,  gli aggiornamenti saranno pubblicati online. Se tali aggiornamenti saranno sostanziali ne verrà dato annuncio nei canali normalmente utilizzati per questo tipo di annunci, come blog e forum. L’utente che continui a utilizzare i nostri prodotti o servizi in data successiva all’entrata in vigore di tali modifiche, confermerà di accettare implicitamente tali modifiche. Al fine di rendere trasparente l’entrata in vigore di tali modifiche, la data effettiva verrà indicata nella parte superiore di questa pagina.
+Qualora Mozilla dovesse modificare la presente informativa e/o altre informative, gli aggiornamenti saranno pubblicati online. Se tali aggiornamenti saranno sostanziali ne verrà dato annuncio nei canali normalmente utilizzati per questo tipo di annunci, come blog e forum. L’utente che continui a utilizzare i nostri prodotti o servizi in data successiva all’entrata in vigore di tali modifiche, confermerà di accettare implicitamente tali modifiche. Al fine di rendere trasparente l’entrata in vigore di tali modifiche, la data effettiva verrà indicata nella parte superiore di questa pagina.
