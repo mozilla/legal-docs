@@ -31,17 +31,17 @@
 {: #data-tools }
 
 * **功能**：我们可能会使用 cookie、设备信息和 IP 地址等信息来增强某些产品、服务和通信的功能。例如：
-* 我们使用 cookie 来记住有关您的 Firefox 设置的信息（例如语言首选项和 Firefox 附加组件），以便我们可以根据您的 Firefox 设置向您推荐相关功能和附加组件。它们还可以帮助用户登录并进行身份验证，因此在某些 Mozilla 网站上，您无需输入密码。
-* 我们使用 IP 地址，按语言和国家/地区来定制通信内容。
-* 我们使用某些设备信息（如国家/地区、语言、运营商和 OEM）来定制您的体验。
+    * 我们使用 cookie 来记住有关您的 Firefox 设置的信息（例如语言首选项和 Firefox 附加组件），以便我们可以根据您的 Firefox 设置向您推荐相关功能和附加组件。它们还可以帮助用户登录并进行身份验证，因此在某些 Mozilla 网站上，您无需输入密码。
+    * 我们使用 IP 地址，按语言和国家/地区来定制通信内容。
+    * 我们使用某些设备信息（如国家/地区、语言、运营商和 OEM）来定制您的体验。
 
 * **指标**：我们还可能使用 cookie、设备信息和 IP 地址，以及网络信标、cookie 和第三方服务，帮助我们从整体上了解用户如何与我们的产品、服务、通信、网站、在线广告活动、片段、设备以及其他平台进行交互。我们使用：
-* Google Analytics，在您的设备上放置 cookie，以获取关于用户如何与我们的网站交互的指标。这可以帮助我们改善网站内容。
-* Convert.com 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
-* DoubleClick 和 Flashtalking，每个都在我们的下载 Firefox 页面使用网络信标。这可以帮助我们衡量广告活动的有效性。
-* Yahoo Dot Pixel，在我们的下载 Firefox 页面使用 JavaScript。这可以帮助我们衡量广告活动的有效性。
-* HTTP Referral Data，可能包含在 Firefox 安装程序中，用于了解推荐您访问我们下载页面的网站域名或广告活动。这些信息可以帮助我们了解广告活动的有效性并进行改善。
-* 偶尔使用其他指标工具（实验性质）。例如，我们可能会使用这些工具，以帮助评估新的指标工具，或测试现有的指标集合。
+    * Google Analytics，在您的设备上放置 cookie，以获取关于用户如何与我们的网站交互的指标。这可以帮助我们改善网站内容。
+    * Convert.com 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
+    * DoubleClick 和 Flashtalking，每个都在我们的下载 Firefox 页面使用网络信标。这可以帮助我们衡量广告活动的有效性。
+    * Yahoo Dot Pixel，在我们的下载 Firefox 页面使用 JavaScript。这可以帮助我们衡量广告活动的有效性。
+    * HTTP Referral Data，可能包含在 Firefox 安装程序中，用于了解推荐您访问我们下载页面的网站域名或广告活动。这些信息可以帮助我们了解广告活动的有效性并进行改善。
+    * 偶尔使用其他指标工具（实验性质）。例如，我们可能会使用这些工具，以帮助评估新的指标工具，或测试现有的指标集合。
 
 * **欺诈预防**：Mozilla 已经实施了第三方技术——Google 的 Invisible reCAPTCHA，此技术在我们某些网站的后台运行，以识别欺诈活动。使用 Invisible reCAPTCHA 受到 [Google 隐私政策](https://www.google.com/intl/policies/privacy/)和[使用条款](https://policies.google.com/terms)的约束。
 
@@ -58,10 +58,10 @@
 * **电子邮件**：我们的营销通信为可选接收，您可以在电子邮件的页脚取消订阅，或更新您的 [Mozilla 电子邮件首选项](https://www.mozilla.org/newsletter/recovery/)。
 
 * **分析和优化**：请按照以下说明，阻止收集有关您访问 Mozilla 网站的数据：
-* Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标（与 DoubleClick 进行通信），以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
-* Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/)。
-* Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。
-* ShareProgress 和 Fathom.com：您可以[在浏览器中开启“请勿跟踪”](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
+    * Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标（与 DoubleClick 进行通信），以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
+    * Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/)。
+    * Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。
+    * ShareProgress 和 Fathom.com：您可以[在浏览器中开启“请勿跟踪”](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
 
 * **社交媒体**：Mozilla 网站上的社交分享按钮只有当您点击该按钮时才会与社交媒体提供商共享数据。
 
