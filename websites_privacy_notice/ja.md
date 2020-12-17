@@ -31,17 +31,17 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
 {: #data-tools }
 
 * **機能性**:Mozilla は、特定の製品、サービス、およびコミュニケーションの機能を向上させるため、Cookie、デバイス情報、および IP アドレスなどの情報を使用することがあります。例えば、
-* Cookie は、Firefox の設定(言語選好や Firefox アドオンなど)を記録して、その設定に基づいた機能やアドオンをお勧めできるよう使用されます。また、特定の Mozilla のウェブサイトでは、ユーザがパスワードの再入力を迂回できるように、Cookie がサインインおよび認証をしやすくする役割を果たしています。
-* IP アドレスは、言語および国によりコミュニケーションをカスタマイズするために使用されます。
-* 国、言語、オペレーター、および OEM 等の特定のデバイス情報は、皆様の経験をカスタマイズするために使用されます。
+    * Cookie は、Firefox の設定(言語選好や Firefox アドオンなど)を記録して、その設定に基づいた機能やアドオンをお勧めできるよう使用されます。また、特定の Mozilla のウェブサイトでは、ユーザがパスワードの再入力を迂回できるように、Cookie がサインインおよび認証をしやすくする役割を果たしています。
+    * IP アドレスは、言語および国によりコミュニケーションをカスタマイズするために使用されます。
+    * 国、言語、オペレーター、および OEM 等の特定のデバイス情報は、皆様の経験をカスタマイズするために使用されます。
 
 * **メトリクス**:Mozilla は、Cookie、デバイス情報、および IP アドレスをクリア GIF、Cookie、第三者によるサービスとともに使用することもあります。これらは、ユーザが Mozilla の製品、サービス、コミュニケーション、ウェブサイト、オンラインキャンペーン、スニペット、デバイス、およびその他のプラットフォームをどのように利用しているかを総体的に把握するのに役立ちます。Mozilla では、以下を使用しています。
-* Cookie をユーザのデバイスに配置し、ユーザが Mozilla のウェブサイトにどのように関与しているかのメトリクスを得るための Google アナリティクス。この機能は、Mozilla がウェブサイトのコンテンツを改善するのに役立ちます。
-* Cookie をユーザのデバイスに配置し、ウェブコンテンツのバリエーションをテストするのに役立つ Convert.com および ShareProgress。この機能は、Mozilla がより良いウェブ経験をユーザに提供するのに役立ちます。
-* Mozilla の Firefox ダウンロードページでクリア GIF を使用する DoubleClick および Flashtalking。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
-* Mozilla の Firefox ダウンロードページで JavaScript を使用する Yahoo Dot Pixel。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
-* ユーザを Mozilla のダウンロードページに差し向けたウェブサイトドメインまたは広告キャンペーンを理解するために Firefox のインストーラに含めることがある HTTP リファラルデータ。この情報は、広告キャンペーンの効果を理解し、向上させるのに役立ちます。
-* 試験的に時々用いられるその他のメトリクスツール。例えば、Mozilla では、新しいメトリクスツールを評価したり、既存のメトリクスコレクションをテストしたりする場合にこれを行います。
+    * Cookie をユーザのデバイスに配置し、ユーザが Mozilla のウェブサイトにどのように関与しているかのメトリクスを得るための Google アナリティクス。この機能は、Mozilla がウェブサイトのコンテンツを改善するのに役立ちます。
+    * Cookie をユーザのデバイスに配置し、ウェブコンテンツのバリエーションをテストするのに役立つ Convert.com および ShareProgress。この機能は、Mozilla がより良いウェブ経験をユーザに提供するのに役立ちます。
+    * Mozilla の Firefox ダウンロードページでクリア GIF を使用する DoubleClick および Flashtalking。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
+    * Mozilla の Firefox ダウンロードページで JavaScript を使用する Yahoo Dot Pixel。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
+    * ユーザを Mozilla のダウンロードページに差し向けたウェブサイトドメインまたは広告キャンペーンを理解するために Firefox のインストーラに含めることがある HTTP リファラルデータ。この情報は、広告キャンペーンの効果を理解し、向上させるのに役立ちます。
+    * 試験的に時々用いられるその他のメトリクスツール。例えば、Mozilla では、新しいメトリクスツールを評価したり、既存のメトリクスコレクションをテストしたりする場合にこれを行います。
 
 * **詐欺防止**:Mozilla は、不正行為を識別するために、当社ウェブサイトの一部のバックグラウンドで動作する、第三者テクノロジーである Google の Invisible reCAPTCHA を実装しています。Invisible reCAPTCHA の使用は [Google プライバシーポリシー](https://www.google.com/intl/policies/privacy/)および[利用規約](https://policies.google.com/terms)に従います。
 
@@ -58,10 +58,10 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
 * **電子メール**:皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla 電子メール設定](https://www.mozilla.org/newsletter/recovery/)を通じて受信を中止することができます。
 
 * **解析および最適化**:Mozilla ウェブサイトの閲覧情報を収集されたくない場合は、以下の手順に従ってください。
-* Google:[Google アナリティクスオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google アナリティクスへのデータ送信が禁止されます。一部の Mozilla.org ページでは、広告キャンペーンの効率を理解するために DoubleClick と通信するクリア GIF が使われています。皆様は、Google の広告設定で DoubleClick からのパーソナライズ化された広告を制御できます（お持ちの Google アカウントにサインインするよう求められます）。
-* Convert.com:[www.mozilla.org　でオプトアウト](https://www.mozilla.org/exp/opt-out/)します。
-* Yahoo:オプトアウトするには、[Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) にアクセスしてください。
-* ShareProgress および Fathom.com:[お使いのブラウザでトラッキング拒否機能を有効化](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)できます。
+    * Google:[Google アナリティクスオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google アナリティクスへのデータ送信が禁止されます。一部の Mozilla.org ページでは、広告キャンペーンの効率を理解するために DoubleClick と通信するクリア GIF が使われています。皆様は、Google の広告設定で DoubleClick からのパーソナライズ化された広告を制御できます（お持ちの Google アカウントにサインインするよう求められます）。
+    * Convert.com:[www.mozilla.org　でオプトアウト](https://www.mozilla.org/exp/opt-out/)します。
+    * Yahoo:オプトアウトするには、[Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) にアクセスしてください。
+    * ShareProgress および Fathom.com:[お使いのブラウザでトラッキング拒否機能を有効化](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)できます。
 
 * **ソーシャルメディア**:Mozilla のウェブサイトにおけるソーシャルメディア共有ボタンは、皆様がこれを明確にクリックしない限り、ソーシャルメディアプロバイダとデータを共有しないように設計されています。
 
