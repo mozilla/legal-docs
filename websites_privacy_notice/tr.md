@@ -1,73 +1,77 @@
-# Web Siteleri, İletişimler ve Çerezler ile İlgili Gizlilik Bildirimi
+# Web Siteleri, İletişimler ve Çerezlere İlişkin Gizlilik Bildirimi
 
-15 Mart 2019
-{: datetime="2019-03-15" }
+23 Eylül 2020
+{: datetime="2020-09-23" }
 
-Gizliliğiniz bizim için önemli. Mozilla olarak sizinle ilgili bilgi topladığımızda, bu bilgileri nasıl kullandığımız [Mozilla Gizlilik Politikamızda](https://www.mozilla.org/privacy/) açıklanmaktadır.
+Gizliliğinize önem veriyoruz. Mozilla (biz), hakkınızda bilgi topladığında; [Mozilla Gizlilik İlkemiz](https://www.mozilla.org/privacy/), bu bilgileri nasıl ele aldığımızı açıklar.
 
-Bu gizlilik ilkesi; Mozilla tarafından işletilen ve mozillians.org, mozilla.org, firefox.com ve webmaker.org gibi birçok alan adını da içeren web siteleri ve mobil uygulamalar için geçerlidir. Bu listeye şu alan adları da dahildir: bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org ve wiki.mozilla.org.
+Bu gizlilik bildirimi; bunlarla sınırlı olmamak kaydıyla mozillians.org, mozilla.org ve firefox.com da dahil, Mozilla tarafından yönetilen tüm web siteleri ve mobil uygulamaları için geçerlidir. Buna, örneğin foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org dahildir.
 
 ## Bilmeniz gerekenler
 
-İş, stajyerlik veya burs başvurusu yapmanız, Mozilla topluluğu üyesi olarak gönüllü olmanız, kullanıcı geri bildirimi veya talebi göndermeniz, hesap açmanız veya bir ürün ya da politika kampanyasına katılmanız durumunda; bizimle sosyal medya platformlarında kurduğunuz etkileşimler doğrultusunda sizden kişisel bilgiler alabiliriz. 
+Bir iş, stajyerlik, hibe veya burs başvurusu yaparsanız; bir Mozilla topluluk üyesi olarak gönüllülük faaliyetlerinde bulunursanız; bize kullanıcı geri bildirimi veya bir talep gönderirseniz; bir hesap veya abonelik için kaydolursanız; ya da bir ürün veya ilke kampanyasına katılımda bulunursanız, sosyal medya platformlarında bizimle olan etkileşiminize göre sizden kişisel bilgiler alabiliriz. 
 {: #personal-info }
 
-* **Sosyal Medya**: Twitter ve Facebook gibi sosyal medya hesaplarımızla etkileşim kurmanız durumunda, hakkınızdaki kişisel bilgileri alabiliriz. Bu ağları kullandığınızda gizlilik politikaları uygulanır ve bunları okumanız önerilir.
+* **Sosyal Medya**: Twitter ve Facebook gibi sosyal medya hesaplarımızla etkileşim kurarsanız, hakkınızda kişisel bilgiler alabiliriz. Bu ağları kullanırsanız bunların gizlilik ilkeleri uygulanır. Bu ilkeleri okumanız tavsiye edilir.
 
-* **İş, Stajyerlik ve Burs Başvuru Sahipleri**: Mozilla’ya iş, stajyerlik ya da burs için başvuran adayların, bize bir ad, sokak adresi, telefon numarası, e-posta adresi ve özgeçmiş sunmaları gerekir. Bu bilgiler, başvuruları işlemek ve değerlendirmek, ayrıca başvuru sahipleriyle fırsatlar konusunda iletişime geçmek için kullanılır. İş başvurularında yardımcı olması için, üçüncü taraf bir sağlayıcı ile çalışıyoruz. Üçüncü taraf sağlayıcılarla aramızdaki veri uygulamaları hakkında daha fazla bilgi için [Mozilla Gizlilik Politikamızı](https://www.mozilla.org/privacy/) inceleyin.
+* **İş, Stajyerlik, Hibe ve Burs Başvurusu Yapanlar**: Mozilla’da iş, stajyerlik, hibe veya burs başvurusu için başvuru yapanların ad, ev adresi, telefon numarası, e-posta adresi ve özgeçmişlerinin yanı sıra bazı ek bilgileri bize sunmaları gerekir. Bu bilgileri, başvuruları işleme alıp değerlendirmek ve başvuru sahipleriyle fırsatlar hakkında iletişime geçmek için kullanırız. İş ve stajyerlik başvurularını yönetmek için [Greenhouse](https://www.greenhouse.io/privacy-policy) platformunu; burs ve MOSS hibe başvurularını yönetmek için ise [Fluxx.io](https://www.fluxx.io/privacy-policy) platformunu kullanıyoruz.
 
-* **Katkıda Bulunanlar**: Bir topluluk katılımcısı olarak Mozilla için gönüllü olmak, Mozilla ve diğer topluluk üyelerinin katkınızla ilgili olarak sizinle iletişime geçmesini ve çabalarınızı onaylamasını gerektirebilir. Bugzilla, Mozilla Reps veya kod tabanımıza katkıda bulunursanız, e-posta adresiniz ve muhtemelen adınız tüm internet kullanıcılarının kullanımına açık olacaktır. Mozillians.org üzerinde bir profil oluşturursanız, Mozilla çalışanları ve Mozilla’ya katkıda bulunanlar tarafından erişilebilir olacaktır. Profil verilerinizi [Profil Ayarları](https://mozillians.org/user/edit)’ndan düzenleyebilirsiniz. Mozilla topluluğunda toplanmış verileri görsel olarak paylaşmak için, zaman zaman panolardaki Bugzilla gibi kaynaklardan katkıda bulunanların bilgileri kullanılır. Örnek olarak <https://wiki.mozilla.org/Contribute/Dashboards> verilebilir. Mümkünse, halka açık görüntülenen iletişim bilgilerini en az düzeye indirmeye çalışırız.
+* **Katkıda Bulunanlar**: Mozilla topluluğuna katkıda bulunmak amacıyla gönüllülük faaliyetlerinde yer almak istediğinizde, Mozilla’nın ve diğerlerinin katkınızla bağlantılı olarak ve çabalarınızın önemini bildiğimizi gösterebilmek için e-posta adresiniz üzerinden sizinle iletişim kurması gerekebilir. Bugzilla, Mozilla Rep veya kod tabanımıza katkıda bulunursanız, e-posta adresiniz ve muhtemelen adınız, tüm internet kullanıcıları tarafından herkese açık bir şekilde görüntülenebilir. Mozillians.org’da bir profil oluşturursanız, profilinize Mozilla çalışanları ve Mozilla’ya katkıda bulunanlar erişebilir. Profil verilerinizi [Profil Ayarları](https://mozillians.org/user/edit) bölümünden düzenleyebilirsiniz. Görsel olarak yığma verileri Mozilla topluluğunda paylaşmak üzere Bugzilla gibi kaynaklardan gelen katkı verilerini zaman zaman panolarda kullanırız. Örnek: [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Mümkün olduğu takdirde, herkese açık bir şekilde görüntülenen iletişim bilgilerini en aza indirmeye çalışırız.
 
-* **Kullanıcı Geri Bildirimi**: Ürün içi deneyimiyle, e-posta, Bugzilla, IRC, sosyal medya hesabı, Aramıza Katılın sayfamız gibi kanallarla veya Öğrenci Elçileri gibi bir grup aracılığıyla, [input.mozilla.org](https://input.mozilla.org/) gibi web sayfalarındaki ürünlerimiz ve hizmetlerimiz hakkında bize geri bildirimde bulunabilirsiniz. Yorumlarınız halka açık olabileceğinden, lütfen bu forumlarda paylaşmayı seçtiğiniz kişisel bilgileri en aza indirin.
+* **Kullanıcı Geri Bildirimi**: [input.mozilla.org](https://input.mozilla.org/) gibi web sayfaları üzerinden, ürün içi deneyim üzerinden veya e-posta, Bugzilla, Matrix, bir sosyal medya hesabı, Get Involved sayfamız gibi kanallar üzerinden ya da Student Ambassadors gibi bir grup üzerinden web sayfalarımızda ürünlerimiz ve hizmetlerimiz konusunda bize geri bildirimde bulunabilirsiniz. Yorumlarınız herkes tarafından erişilebilir durumda olabileceği için lütfen bu forumlarda paylaşacağınız kişisel bilgileri minimum seviyede tutun.
 
-* **Hesaplar**: Marketplace, AMO, MDN ve Webmaker gibi bazı web siteleri; geliştirici içeriğini, kullanıcı değerlendirmelerini veya yorumları göndermek için hesap oluşturmayı gerektirir veya belirli uygulamaları yüklemeyi gerektirir. Hesabınızla bağlantılı olarak düzenli e-postalar alabilirsiniz. 
+* **Hesaplar ve Abonelikler**: AMO ve MDN gibi bazı web siteleri, geliştirici bilgilerinin gönderilmesi veya kullanıcı incelemeleri ya da yorumlarının gönderilmesi için bir hesap oluşturulmasını gerektirir. Hesap yönetimi için [Firefox Hesaplarını](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) platformunu veya özelleştirilmiş sistemleri kullanmaktayız; hesap yönetimi için [bu bölümü](https://support.mozilla.org/kb/managing-account-data) inceleyin. Hesabınız veya aboneliklerinizle bağlantılı olarak düzenli aralıklarla e-posta alabilirsiniz. E-posta yönetimi sağlayıcılarımız, [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/) veya [Mailchimp](https://mailchimp.com/legal/privacy/) şeklindedir. E-postanın en altında yer alan bağlantıyı kullanarak, aboneliğinizi sonlandırabilirsiniz. 
 
-* **Ürün ve Politika Kampanyaları**: Web sayfalarımızdan bazıları, ürün veya politika kampanyalarına ev sahipliği yapıyor. Örneğin, mobil cihazınıza Firefox kurmak için e-posta veya SMS yoluyla bir bağlantı talep edebilir veya yasa koyucularınıza internet konularında talepte bulunabilirsiniz. Bu kampanyaları yönetmek ve göndermeyi seçtiğiniz verileri kullanmak için üçüncü tarafları kullanıyoruz.
+* **Ürün ve İlke Kampanyaları**: Bazı web sayfalarımızda ürün veya ilke kampanyaları barındırılır. Örneğin Firefox’u mobil cihazınıza yüklemek veya yasama organlarına internet sorunları hakkında dilekçe göndermek için bizden e-posta veya SMS yoluyla bir bağlantı talep edebilirsiniz. Bu kampanyaları yönetmek ve göndermeyi tercih edeceğiniz herhangi bir veriyi yönetmek üzere üçüncü tarafları kullanabiliriz. 
 {: #campaigns }
 
 ---------------------------------------
 
-İşlevsellik elde etmek ve kullanıcıların ürünlerimiz, hizmetlerimiz ve iletişimimizle olan etkileşimini daha iyi anlamak için çerezleri, web işaretçilerini, üçüncü taraf web analizlerini, cihaz bilgilerini ve IP adreslerini kullanabiliriz.
+İşlevsellik ve ürünlerimiz, hizmetlerimiz ve iletişimlerimizle kullanıcı etkileşimlerini daha iyi anlayabilmek için çerezler, açık GIF dosyaları, üçüncü taraf web analiz araçları, cihaz bilgileri ve IP adreslerini kullanabiliriz. 
 {: #data-tools }
 
-* **İşlevsellik**: Belirli ürünlerin, hizmetlerin ve iletişimlerin işlevselliğini artırmak için çerezler, cihaz bilgileri ve IP adresleri gibi bilgileri kullanabiliriz. Örneğin:
-    * Firefox ayarlarınız hakkındaki bilgileri (dil tercihi ve Firefox eklentileri gibi) hatırlamak ve böylelikle Firefox ayarlarınıza göre size ilgili özellikleri ve Eklentileri önerebilmek için çerez kullanırız. Bunlar ayrıca kullanıcıların oturum açmasına ve kimliklerinin doğrulanmasına yardımcı olarak, şifrelerinizi belirli Mozilla web sitelerine girme adımını atlamanıza yardımcı olur.
-    * İletişimleri dile ve ülkeye göre özelleştirmek için IP adreslerini kullanıyoruz.
-    * Deneyiminizi kişiselleştirmek için ülke, dil, operatör ve OEM gibi bazı cihaz bilgilerini kullanıyoruz.
+* **İşlevsellik**: Belirli ürünler, hizmetler ve iletişimlerin işlevselliğini geliştirmek amacıyla çerezler, cihaz bilgileri ve IP adresleri gibi bilgileri kullanabiliriz. Örnek:
+    * Firefox ayarlarınız (dil tercihiniz ve Firefox eklentileriniz gibi) hakkındaki bilgileri hatırlamak ve Firefox ayarlarınıza göre tutarlı özellikler ve Eklentiler tavsiye edebilmek için çerezleri kullanırız. Bunlar ayrıca, belirli Mozilla web sitelerine yeniden şifre girme süreçlerini atlayabilmeniz için kullanıcı girişi ve kimlik doğrulama konusunda da yardımcı olur.
+    * İletişimleri dil ve ülkeye göre özelleştirmek amacıyla IP adreslerini kullanırız.
+    * Ülke, dil, operatör ve orijinal malzeme üreticisi gibi belirli cihaz bilgilerini, deneyiminizi özelleştirmek için kullanırız.
 
-* **Ölçümler**: Ayrıca, kullanıcıların ürünlerimiz, hizmetlerimiz, iletişimlerimiz, web siteleri, çevrimiçi kampanyalar, snippet’ler, cihazlar ve diğer platformlarla nasıl etkileşimde bulunduğunu anlamak için çerezler, cihaz bilgileri ve IP adreslerinin yanı sıra web işaretçilerini, çerezleri ve üçüncü taraf hizmetlerini kullanabiliriz. Şu hizmetleri kullanıyoruz:
-    * Google Analytics: Bu hizmet, kullanıcıların web sitelerimizle nasıl etkileşim kurduğuna dair ölçümler elde etmek için cihazınıza bir çerez yerleştirir. Bu işlem, site içeriğini geliştirmemize yardımcı olur.
-    * Convert.com ve ShareProgress: Web içeriğinin varyasyonlarını test etmemize yardımcı olmak için cihazınıza bir çerez yerleştirir. Bu işlem, kullanıcılara daha iyi web deneyimleri sunmamıza yardımcı olur.
-    * DoubleClick ve Flashtalking: Her ikisi de Firefox indirme sayfamızda web işaretçisi kullanır. Bu işlem, reklam kampanyalarımızın etkinliğini ölçmemize yardımcı olur.
-    * Yahoo Dot Pixel: Firefox indirme sayfamızda JavaScript kullanır. Bu işlem, reklam kampanyalarımızın etkinliğini ölçmemize yardımcı olur. 
-    * HTTP Yönlendirme Verileri: Sizi indirme sayfamıza yönlendiren web sitesinin alan adını veya reklam kampanyasını anlamak için Firefox’un yükleyicisine dahil edilebilir. Bu bilgiler, reklam kampanyalarımızın etkinliğini anlamamıza ve geliştirmemize yardımcı olur.
-    * Zaman zaman deneysel olarak başka ölçüm araçları da kullanılır. Örneğin, yeni bir ölçüm aracını değerlendirmek veya mevcut ölçüm koleksiyonunu test etmek için kullanılabilir.
+* **Ölçümler**: Kullanıcıların ürünlerimiz, hizmetlerimiz, iletişimlerimiz, web sitelerimiz, çevrimiçi kampanyalarımız, duyurularımız (Mozilla’dan mesajlar), cihazlarımız ve diğer platformlarla etkileşimlerini yığma olarak anlamamıza yardımcı olması için açık GIF dosyaları, çerezler ve üçüncü taraf hizmetlerinin yanı sıra çerezler, cihaz bilgileri ve IP adreslerini kullanabiliriz. Kullandıklarımız:
+    * Kullanıcıların web sitelerimizle nasıl etkileşim kurduğuna ilişkin ölçümler elde etmek üzere, cihazınızda bir çerez olarak Google Analytics. Bu, site içeriklerini iyileştirmemize yardımcı olur.
+    * Web içeriklerine yönelik değişkenleri test etmemize yardımcı olan ve cihazınıza bir çerez yerleştiren Convert.com ve ShareProgress. Bu, kullanıcılarımıza daha iyi web deneyimleri sunmamıza yardımcı olur.
+    * Her biri, Firefox'u indirme sayfamızda açık GIF kullanan DoubleClick ve Flashtalking. Bu, kampanyalarımızın etkililiğini ölçmemize yardımcı olur.
+    * Firefox’u indirme sayfamızda JavaScript kullanan Yahoo Dot Pixel. Bu, kampanyalarımızın etkililiğini ölçmemize yardımcı olur.
+    * Sizi indirme sayfamıza yönlendiren web sitesi alan adı veya reklam kampanyasını anlayabilmemiz için Firefox kurma aracıyla bir arada gelebilecek olan HTTP Yönlendirme Verileri. Bu bilgiler, kampanyalarımızın etkililiğini ölçmemize ve bunları iyileştirmemize yardımcı olur.
+    * Deneysel olarak, muhtelif zamanlarda diğer ölçüm araçları. Örneğin yeni bir ölçüm aracını değerlendirmeye yardımcı olması ya da toplanmış olan mevcut ölçümleri test etmek için bunu yapabiliriz.
+  
+* **Dolandırıcılığı Önleme**: Mozilla, dolandırıcılık etkinliklerini tespit etmek üzere bazı web sitelerimizde arka planda çalışan, üçüncü taraf Google teknolojisi Invisible reCAPTCHA’yı uygular. Invisible reCAPTCHA kullanımı, [Google Gizlilik İlkesi](https://www.google.com/intl/policies/privacy/) ve [Kullanım Koşulları’na](https://policies.google.com/terms) tabidir.
 
 ---------------------------------------
 
-Bireysel çerez tercihlerini kontrol edebilir, çerez tercihlerinizi başkalarına bildirebilir, web analizlerinden ve optimizasyon araçlarından vazgeçebilirsiniz. 
+Çerez tercihlerinizi tek tek kontrol altında tutabilir, çerez tercihlerinizi başkalarına belirtebilir, web analizi ve optimizasyon araçlarının kullanımını reddedebilirsiniz. 
 {: #user-choices }
 
-* **Çerez Geçmişi**: Çerezleri tek tek Firefox tercihlerinizde Araçlar/Seçenekler/Gizlilik geçmişi bölümünde kabul edebilir veya reddedebilirsiniz. Ürün ve hizmetlerimizin bazı özelliklerinin çerez yardımı olmadan düzgün çalışmayabileceğini unutmayın.
+* **Çerez Geçmişi**: Araçlar/Seçenekler/Gizlilik geçmişi bölümünde yer alan Firefox tercihlerinizden çerezleri tek tek kabul veya reddedebilirsiniz. Ürün ve hizmetlerimize yönelik belirli özelliklerin çerezlerin yardımı olmadan düzgün bir şekilde çalışamayacağını hatırlatırız. 
 {: #cookies }
 
-* **Do Not Track**: Mozilla, hedefli reklamcılık sağlamak için üçüncü taraf web sitelerinde kullanıcıları izlemez. Tarayıcınızı web sitelerimize erişirken “Do Not Track” sinyali gönderecek şekilde yapılandırdıysanız, Mozilla [Ölçüm](#data-tools) bölümünde belirtilen araçlardan hiçbirini kullanmaz.
+* **Do Not Track Özelliği**: Mozilla, hedefli reklam sağlamak amacıyla üçüncü taraf web sitelerinde kullanıcıları takip etmez. Web sitelerimize erişirken tarayıcınızı “Do Not Track” (Takip Edilmesin) uyarısı gönderecek şekilde yapılandırdıysanız, Mozilla, [Ölçümler](https://www.mozilla.org/privacy/websites/#data-tools) bölümünde açıklanan araçların hiçbirini kullanmaz.
 
-* **E-posta**: Pazarlama iletişimlerimizi almak isteğe bağlıdır; e-postanın altbilgisinde sunulan bağlantıyı kullanarak veya [Mozilla e-posta tercihlerinizi](https://www.mozilla.org/newsletter/recovery/) güncelleyerek aboneliğinizi iptal edebilirsiniz.
+* **E-posta**: Pazarlama iletişimlerimizin alınıp alınmaması isteğe bağlı olup, e-postanızdaki alt bilgi bölümünden veya [Mozilla e-posta tercihlerinizi](https://www.mozilla.org/newsletter/recovery/) güncelleyerek e-posta aboneliğinizi sonlandırabilirsiniz.
 
-* **Analizler ve Optimizasyon**: Mozilla web sitelerine yaptığınız ziyaretlerle ilgili veri toplanmasını önlemek için aşağıdaki talimatları izleyin:
-    *  Google: Ziyaretlerinizin anonim kalmasını sağlayan ve Google Analytics’e veri iletimini engelleyen [Google Analytics Kapsamı Dışında Kalma Tarayıcı Eklentisi](https://tools.google.com/dlpage/gaoptout)’ni yükleyin. Bazı Mozilla.org sayfalarında, reklam kampanyalarımızın etkinliğini anlamak için DoubleClick ile iletişim kuran web işaretçileri kullanılır; kişiselleştirilmiş reklamları Google’ın reklam ayarlarındaki DoubleClick’ten kontrol edebilirsiniz (Google Hesabınıza giriş yapmanız istenecektir).
-    *  Convert.com: [www.mozilla.org adresinden hizmeti geri çevirin](https://www.mozilla.org/exp/opt-out/).
-    *  Yahoo: Vazgeçmek için [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/)’ı ziyaret edin.
-    *  ShareProgress: [Tarayıcınızdan Do Not Track özelliğini açabilirsiniz](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Analiz ve Optimizasyon**: Mozilla web sitelerindeki ziyaretiniz hakkında toplanan verileri önlemek için aşağıdaki talimatları izleyin:
+    * Google: Google Analytics’e veri transferini engelleyen [Google Analytics Opt-out Browser Eklentisini](https://tools.google.com/dlpage/gaoptout) kurun. Bazı Mozilla.org sayfaları, reklam kampanyalarımızın etkililiğini anlamak üzere DoubleClick ile iletişim kuran açık GIF dosyalarını kullanabilir; Google'ın reklam ayarlarından DoubleClick’ten gelen kişiselleştirilmiş reklamları kontrol edebilirsiniz (Google Hesabınıza giriş yapmanız istenecektir).
+    * Convert.com: [Www.mozilla.org](https://www.mozilla.org/exp/opt-out/) adresini ziyaret ederek reddedin.
+    * Yahoo: Reddetmek için [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) sayfasını ziyaret edin.
+    * ShareProgress ve Fathom.com: [Tarayıcınızdan Do Not Track özelliğini](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) etkinleştirebilirsiniz.
 
-* **Sosyal Medya**: Mozilla web sitelerindeki sosyal paylaşım düğmeleri, siz özellikle düğmeyi tıklayana kadar verileri sosyal medya sağlayıcısıyla paylaşmamak üzere tasarlanmıştır.
+* **Sosyal Medya**: Mozilla web sitelerindeki sosyal medya paylaşım düğmeleri, özellikle düğmeye tıklamadığınız sürece verilerin sosyal medya sağlayıcısı ile paylaşılmaması için tasarlanmıştır.
 
 ---------------------------------------
 
-Bazı Mozilla web siteleri, alışveriş yapmanıza (uygulamalar veya donanımlar gibi) veya bağış yapmanıza olanak tanır. Bu işlemler Mozilla tarafından değil üçüncü taraflarca işlenir. 
+Bazı Mozilla web siteleri, ürün (uygulama veya araçlar) satın almanıza, belirli Mozilla projelerine bağışla katkıda bulunmanıza veya Mozilla kamu ve yardım programlarını desteklemek amacıyla bağışta bulunmanıza izin verir. Bu işlemler, çoğunlukla Mozilla’nın üçüncü taraf sağlayıcıları tarafından yönetilir. 
 {: #donations }
 
-* **Ödeme İşleme**: Mozilla, işlenmek üzere sizden üçüncü taraf satıcılarımıza iletilen hiçbir finansal bilgi almaz. İşlem sırasında üçüncü tarafın adı görüntülenir.
+* **Ödemelerin İşleme Alınması**: Çek, ödeme emri ve doğrudan banka kartı ve havale ile yapılan ödemeler hariç olmak üzere, ödemelerin işleme alınması için söz konusu üçüncü taraf sağlayıcıya (ör: Braintree, PayPal, Bitpay, Stripe) ilettiğiniz finans bilgilerini Mozilla almaz.
 
-* **Dolandırıcılığı Önleme**: Mozilla, hileli etkinlikleri belirlemek için bazı web sitelerimizin arka planında çalışan Google’ın Invisible reCAPTCHA adlı bir üçüncü taraf teknolojisini hayata geçirdi. Invisible reCAPTCHA teknolojisinin kullanımı, Google [Gizlilik Politikası](https://www.google.com/intl/en/policies/privacy/) ve [Kullanım Şartları](https://www.google.com/intl/en/policies/terms/)’na tabidir.
+* **Kişisel Veriler**: Ek olarak adınız, ev adresiniz ve/veya e-posta adresinizi alabiliriz. Bu veriler, dolandırıcılığın tespit edilmesi ve kayıt tutma amacıyla kullanılır. Son ödeme tarihinizden itibaren dört yıl boyunca tutulmak üzere makbuz ve mağaza kayıtlarını e-posta olarak göndermek için [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) platformunu kullanırız. 
+
+* **Üçüncü Taraf Verileri**: İnternetin herkes için sağlıklı, açık ve erişilebilir olması için bağış toplama çalışmalarımızı iyileştirmek üzere [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) platformunu kullanırız. Bağışçılar, Mozilla kullanımını [sonlandırabilir](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0).
