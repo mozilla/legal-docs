@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
-Berkuat kuasa pada 15 Julai 2020
-{: datetime="2020-07-15" }
+Berkuat kuasa pada 05 Ogos 2020
+{: datetime="2020-08-05" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -19,7 +19,7 @@ __Maklumat lokasi.__ Mozilla VPN menerima alamat IP anda dari Akaun Firefox apab
 
 __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan Mozilla VPN, termasuk apabila anda log masuk dan bila anda meminta senarai pelayan.
 
-__Data teknikal.__ Mozilla menerima maklumat asas daripada Mozilla VPN tentang versi VPN yang dipasang dan peranti yang ia dipasangkan, termasuk sistem operasi dan konfigurasi perkakasan. Apabila Mozilla VPN menghantar data kepada kami, alamat IP anda dikumpul untuk sementara sebagai sebahagian daripada log pelayan kami.
+__Data teknikal.__ Mozilla menerima maklumat asas daripada Mozilla VPN tentang versi VPN yang dipasang dan peranti yang ia dipasangkan, termasuk sistem operasi dan konfigurasi perkakasan. Apabila Mozilla VPN bersambung ke pelayan kami untuk mengesahkan dan mengemas kini akaun Mozilla VPN anda, alamat IP anda akan dikumpul seketika sebagai sebahagian daripada log pelayan kami. Tiada log pelayan aktiviti rangkaian anda yang dikekalkan oleh rakan kongsi kami Mullvad semasa anda menggunakan perkhidmatan Mozilla VPN.
 
 Sila baca dokumen pengumpulan data teknikal dan interaksi [di sini](https://guardian-docs.herokuapp.com/api/swagger/#/). Kami menggunakan data tersebut untuk meningkatkan prestasi dan kestabilan untuk pengguna kami, dan untuk menilai prestasi Mozilla VPN.
 
