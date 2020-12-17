@@ -1,13 +1,13 @@
-﻿# Política de Privacidade da Mozilla
+# Política de Privacidade da Mozilla
 
-15 de abril de 2014
-{: datetime="2014-04-15" }
+quarta-feira, 9 de setembro de 2020
+{: datetime="2020-09-09" }
 
 Sua privacidade é um fator importante que a Mozilla (ou seja, nós) considera no desenvolvimento de cada um de nossos produtos e serviços. Temos um compromisso com a transparência e a abertura. Esta Política de Privacidade da Mozilla explica, em linhas gerais, como obtemos informações sobre você e o que fazemos com elas. Você também pode ler nossos avisos de privacidade do produto e Perguntas frequentes para obter mais detalhes com relação a cada um de nossos produtos e serviços. 
 
 ## O que queremos dizer com "informações pessoais"?
 
-Para nós, "informações pessoais" significa as informações que identificam o usuário, como seu nome ou endereço de e-mail.
+Para nós, "informações pessoais" significa as informações que identificam diretamente o usuário (como nome, endereço de e-mail e informações de cobrança) ou que, vinculadas ou combinadas, possam identificá-lo (como o número de identificação de uma conta ou o endereço IP). Sempre avisamos quais informações pessoais coletamos. Consulte o Aviso de privacidade de cada produto para obter mais detalhes.
 
 Quaisquer outras informações não constituem "informações pessoais".
 
@@ -26,6 +26,8 @@ Recebemos informações sobre você quando:
 
 Quando você nos envia informações pessoais, nós as utilizamos de acordo com sua permissão. Em geral, usamos suas informações para nos ajudar a melhorar nossos produtos e serviços para você.
 
+Para usuários da União Europeia, do Espaço Econômico Europeu, da Suíça e da Califórnia, consulte [aqui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) para obter mais informações.
+
 ## Quando compartilhamos suas informações com terceiros?
 
 * Se tivermos sua autorização.
@@ -41,12 +43,6 @@ Temos um compromisso com a proteção de suas informações pessoais assim que a
 
 Também não queremos manter suas informações pessoais por um prazo mais longo do que o necessário. Dessa forma, mantemos suas informações somente pelo prazo suficiente. Quando essas informações não forem mais necessárias, providenciaremos a destruição delas, salvo se estivermos obrigados por lei a mantê-las por um prazo mais longo.
 
-## O que mais gostaríamos que você soubesse?
-
-Somos uma organização com presença global e nossos computadores se encontram em diversos locais ao redor do mundo. Também utilizamos operadoras, cujos computadores também podem estar localizados em diversos países. Isso significa que suas informações podem ser armazenadas em um desses computadores em outro país, e esse país pode ter uma regulamentação de proteção de dados distinta daquela do seu país. Ao nos fornecer suas informações, você estará concordando com a transferência delas. Independentemente do país em que suas informações estiverem, cumpriremos a legislação aplicável e observaremos os compromissos assumidos nesta Política de Privacidade.
-
-Se você for menor de 13 anos, não estamos interessados em suas informações pessoais, e elas não devem ser fornecidas. Se, como pai, você entender que seu filho menor de 13 anos tiver fornecido alguma informação pessoal, [entre em contato](https://www.mozilla.org/privacy/#contact) para que as informações dele sejam excluídas.
-
 ## O que acontecerá se esta Política de Privacidade ou qualquer aviso de privacidade for alterado?
 
-A alteração desta Política e dos nossos avisos pode ser necessária.  As atualizações serão divulgadas online. Se as alterações forem consideráveis, anunciaremos a atualização nos canais normais da Mozilla para esse tipo de aviso, como no blog e em fóruns. Seu uso contínuo do produto ou serviço após a data de vigência dessas alterações constitui sua aceitação delas. Para tornar sua análise mais conveniente, publicaremos a data de vigência na parte superior da página.
+A alteração desta Política e dos nossos avisos pode ser necessária. As atualizações serão divulgadas online. Se as alterações forem consideráveis, anunciaremos a atualização nos canais normais da Mozilla para esse tipo de aviso, como no blog e em fóruns. Seu uso contínuo do produto ou serviço após a data de vigência dessas alterações constitui sua aceitação delas. Para tornar sua análise mais conveniente, publicaremos a data de vigência na parte superior da página.
