@@ -59,7 +59,7 @@ Bir iş, stajyerlik, hibe veya burs başvurusu yaparsanız; bir Mozilla topluluk
 
 * **Analiz ve Optimizasyon**: Mozilla web sitelerindeki ziyaretiniz hakkında toplanan verileri önlemek için aşağıdaki talimatları izleyin:
     * Google: Google Analytics’e veri transferini engelleyen [Google Analytics Opt-out Browser Eklentisini](https://tools.google.com/dlpage/gaoptout) kurun. Bazı Mozilla.org sayfaları, reklam kampanyalarımızın etkililiğini anlamak üzere DoubleClick ile iletişim kuran açık GIF dosyalarını kullanabilir; Google'ın reklam ayarlarından DoubleClick’ten gelen kişiselleştirilmiş reklamları kontrol edebilirsiniz (Google Hesabınıza giriş yapmanız istenecektir).
-    * Convert.com: [Www.mozilla.org](https://www.mozilla.org/exp/opt-out/) adresini ziyaret ederek reddedin.
+    * Convert.com: [www.mozilla.org](https://www.mozilla.org/exp/opt-out/) adresini ziyaret ederek reddedin.
     * Yahoo: Reddetmek için [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) sayfasını ziyaret edin.
     * ShareProgress ve Fathom.com: [Tarayıcınızdan Do Not Track özelliğini](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) etkinleştirebilirsiniz.
 
