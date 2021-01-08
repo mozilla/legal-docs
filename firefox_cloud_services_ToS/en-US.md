@@ -62,7 +62,7 @@ This top section summarizes the terms below. This summary is provided to help yo
     You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage Account / Email Preferences).
     
     We may also send you important account information such as updates to legal or privacy terms, or security messages like password resets, email verification, and linked devices. These are necessary to our services and cannot be unsubscribed from. 
-You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 or legal-notices@mozilla.com_ 
+You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 or legal-notices@mozilla.com_ 
 
 6. #### Your Content in Our Services
 

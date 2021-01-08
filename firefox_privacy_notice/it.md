@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox - </span> <span class="privacy-header-policy">Avviso sulla privacy</span>
 
-*In vigore dal martedì 10 settembre 2019*
-{: datetime="2019-09-10" }
+*In vigore dall'8 settembre 2020*
+{: datetime="2020-09-8" }
 
 ## In Mozilla crediamo nel fatto che la privacy sia fondamentale per un uso sano di Internet.
 
@@ -26,33 +26,39 @@ Leggi la documentazione relativa alla telemetria per dispositivi [desktop](https
 
 ### Suggerimenti di contenuti rilevanti
 
-Firefox visualizza contenuti, come "frammenti di codice" (messaggi da Mozilla), componenti aggiuntivi consigliati, siti principali (siti Web proposti da Mozilla ai nuovi utenti di Firefox) e contenuti consigliati di Pocket.
+Firefox visualizza contenuti, come "frammenti di codice" (messaggi da Mozilla), componenti aggiuntivi consigliati, siti principali (siti web proposti da Mozilla ai nuovi utenti di Firefox) e contenuti consigliati di Pocket (parte della famiglia Mozilla).
 
-* __Dati sulla posizione__: Firefox usa il vostro indirizzo IP per suggerire contenuti rilevanti in base al vostro Paese.
+* __Dati sulla posizione__: Firefox usa l'indirizzo IP dell'utente per suggerire contenuti rilevanti in base al Paese.
 
 * __Dati tecnici e di interazione__: Firefox ci invia dati quali posizione, dimensioni e collocazione dei contenuti che suggeriamo, nonché dati di base sulle vostre interazioni con i contenuti suggeriti di Firefox. Questo include il numero di volte che un contenuto suggerito viene visualizzato o le volte che si fa clic sul contenuto.
 
 * __Dati delle pagine web per Snippets__: quando si sceglie di fare clic su un link Snippet, si possono ricevere dati sul link seguito. Queste informazioni non sono associate ad altre informazioni personali. [Ulteriori informazioni](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
 {: #snippets }
 
-* __Dati delle pagine web per suggerimenti Pocket__: Ti suggeriamo contenuti sulla base della tua cronologia di navigazione. L'elaborazione della scelta delle storie da visualizzarti avviene a livello locale nella tua copia di Firefox e né Mozilla né Pocket (che fa parte della famiglia Mozilla) ricevono una copia della tua cronologia di navigazione. Riceviamo unicamente dati in forma aggregata sui suggerimenti che vedi e su cui fai clic. Questi dati non ci permettono di identificarti. Condividiamo inoltre dati in forma aggregata con la nostra piattaforma di terze parti Adzerk sui contenuti sponsorizzati che vedi e su cui fai clic, affinché gli inserzionisti possano vedere quante persone hanno fatto clic sui loro articoli, senza però sapere chi li ha visualizzati.
+* __Dati di pagine web, lingua e posizione per i contenuti consigliati di Pocket__: suggeriamo contenuti sulla base della cronologia di navigazione, della lingua e della posizione geografica. L'elaborazione della scelta delle storie da visualizzare avviene a livello locale nella copia di Firefox in uso e né Mozilla né Pocket ricevono una copia della cronologia di navigazione. Per favorire la visualizzazione di contenuti consigliati di Pocket pertinenti sulla base della posizione geografica, Firefox condivide i dati sulla lingua e sul Paese con Pocket.
 
-* __Funzioni e componenti aggiuntivi consigliati__: i componenti aggiuntivi consigliati possono essere visualizzati nella pagina Gestione estensioni (about:addons) e nella barra degli indirizzi, dove è possibile effettuare ricerche o digitare URL. Nella barra degli indirizzi possiamo anche consigliare funzioni Firefox. I consigli visualizzati nella pagina about:addons si basano su un cookie. Mentre i consigli visualizzati nella barra degli indirizzi si basano sulle vostre interazioni con Firefox. Mozilla non riceve la vostra cronologia di navigazione. La scelta dei contenuti da visualizzare avviene a livello locale nella vostra copia di Firefox. Ulteriori informazioni sui [contenuti consigliati nella barra degli indirizzi](https://support.mozilla.org/kb/extension-recommendations) o nella [pagina Gestione estensioni](https://support.mozilla.org/kb/personalized-extension-recommendations).
+    Mozilla e Pocket ricevono unicamente dati in forma aggregata sui suggerimenti visualizzati e su cui si fa clic. Condividiamo inoltre dati in forma aggregata sui contenuti sponsorizzati visualizzati e su cui si fa clic con la nostra piattaforma di terze parti Adzerk, affinché gli inserzionisti possano vedere quante persone hanno fatto clic sui loro articoli. Questi dati aggregati non ci permettono di identificare gli utenti.
 
-### Migliorare la sicurezza per gli utenti, ovunque si trovino {: #security }
+* __Dati sulla posizione e sulle interazioni per i siti principali__: quando l'utente fa clic sulla tile del sito principale Amazon.com nella scheda Novità, condividiamo i dati sul Paese e sull'ora in cui è stato fatto clic con Amazon e AdMarketplace (una piattaforma di riferimento di terze parti) per confermare l'avvenuta navigazione al sito di Amazon. Firefox non condivide con Amazon o AdMarketplace l'indirizzo IP o qualsiasi altra informazione che potrebbe essere usata per identificare l'utente.
 
-* __Dati tecnici per aggiornamenti__: le versioni desktop di Firefox cercano periodicamente aggiornamenti collegandosi ai server di Mozilla. La vostra versione di Firefox, la lingua e il sistema operativo del dispositivo sono usati per applicare i corretti aggiornamenti. Le versioni mobili di Firefox possono connettersi a un altro servizio se utilizzato inizialmente per scaricare e installare Firefox. [Ulteriori informazioni](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
+* __Funzioni e componenti aggiuntivi consigliati__: i componenti aggiuntivi consigliati possono essere visualizzati nella pagina Gestione estensioni (about:addons) e nella barra degli indirizzi, dove è possibile effettuare ricerche o digitare URL. Nella barra degli indirizzi possiamo anche consigliare funzioni Firefox. I consigli visualizzati nella pagina about:addons si basano su un cookie. Mentre i consigli visualizzati nella barra degli indirizzi si basano sulle interazioni dell'utente con Firefox. Mozilla non riceve la cronologia di navigazione. La scelta dei contenuti da visualizzare avviene a livello locale nella copia in uso di Firefox. Ulteriori informazioni sui [contenuti consigliati nella barra degli indirizzi](https://support.mozilla.org/kb/extension-recommendations) o nella [pagina Gestione estensioni](https://support.mozilla.org/kb/personalized-extension-recommendations).
+
+### Miglioramento della sicurezza per gli utenti ovunque {: #security }
+
+**Dati delle pagine web al servizio DNS ricorsivo**: per alcuni utenti di Firefox negli Stati Uniti, Firefox indirizza le richieste DNS a un servizio ricorsivo che ha accettato di aderire ai [rigidi standard di riservatezza di Mozilla per i servizi DNS ricorsivi](https://wiki.mozilla.org/Security/DOH-resolver-policy). Questo servizio garantisce una protezione aggiuntiva dalle violazioni della privacy alle reti locali, oltre che da alcuni attacchi alla sicurezza DNS. I registri di sistema delle richieste DNS vengono cancellati dal servizio entro 24 ore e sono utilizzati esclusivamente per finalità di risoluzione DNS. Maggiori informazioni sono disponibili [qui](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) oppure nei siti dei nostri provider di servizi DNS ricorsivi elencati di seguito:
+
+* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
+* [__NextDNS__](https://nextdns.io/privacy)
+* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+
+**Dati tecnici per gli aggiornamenti**: le versioni desktop di Firefox verificano la disponibilità di aggiornamenti del browser connettendosi continuamente ai server Mozilla. La versione di Firefox in uso, la lingua selezionata e il sistema operativo del dispositivo sono utilizzati per applicare gli aggiornamenti corretti. Le versioni di Firefox per dispositivi mobili possono connettersi a un altro servizio, se ne è stato utilizzato uno per scaricare e installare Firefox. [Per saperne di più](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
 
-* __Dati tecnici per l’elenco di blocco dei componenti aggiuntivi__: Firefox per desktop e Android si connettono periodicamente a Mozilla per proteggere gli utenti da componenti aggiuntivi dannosi. La versione e la lingua di Firefox, il sistema operativo del dispositivo e l’elenco di componenti aggiuntivi installati sono necessari per applicare e aggiornare l’elenco di blocco di componenti aggiuntivi [Ulteriori informazioni](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
+**Dati tecnici per l'elenco di blocco dei componenti aggiuntivi**: Firefox per desktop e Android si connette periodicamente a Mozilla per proteggere gli utenti da componenti aggiuntivi dannosi. La versione e la lingua di Firefox, il sistema operativo del dispositivo e l'elenco di componenti aggiuntivi installati sono necessari per applicare e aggiornare l'elenco di blocco dei componenti aggiuntivi. [Per saperne di più](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
 
-* __Pagina web e dati tecnici per il servizio Google Safe Browsing__: per aiutare a proteggervi da download dannosi, Firefox invia informazioni di base su download sconosciuti al servizio Google Safe Browsing, includendo il nome del file e l’URL da cui è stato scaricato.
+**Dati tecnici e delle pagine web per il servizio Google Safe Browsing**: per salvaguardare l'utente da download dannosi, Firefox invia informazioni di base su download sconosciuti al servizio Google Safe Browsing, includendo il nome del file e l'URL da cui è stato scaricato. Per saperne di più [leggere qui](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) o consultare l' [Informativa sulla privacy di Google](https://www.google.com/policies/privacy/). La disattivazione di queste opzioni impedisce a Firefox di inviare segnalazioni sul pericolo di siti web o file scaricati potenzialmente illegali o dannosi.
 
-  [Ulteriori informazioni](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) oppure leggere le [Norme sulla privacy di Google](https://www.google.com/policies/privacy/). L’opt-out impedisce a Firefox di avvertirvi sul pericolo di siti web o file scaricati potenzialmente illegali o dannosi.
-
-* __Pagina web page e dati tecnici per le Autorità di certificazione__: quando si visita un sito web sicuro (di solito identificato con un URL che inizia con “HTTPS”), Firefox convalida il certificato del [sito web](https://support.mozilla.org/kb/secure-website-certificate). Questa procedura può includere l’invio, da parte di Firefox, di determinate informazioni sul sito web all’Autorità di certificazione identificata dal sito web.
-
-  L’opt-out aumenta il rischio di intercettazione delle vostre informazioni riservate. [Ulteriori informazioni](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+**Dati tecnici e delle pagine web per le Autorità di certificazione**: quando si visita un sito web sicuro (generalmente identificato da un URL che inizia con "HTTPS"), Firefox convalida il [certificato](https://support.mozilla.org/kb/secure-website-certificate) del sito web. Questa procedura può comportare l'invio, da parte di Firefox, di determinate informazioni sul sito web all'Autorità di certificazione identificata dal sito web. La disattivazione di questa funzione, può aumentare il rischio di intercettazione di informazioni private. [Per saperne di più](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
 ### Riportare gli arresti anomali {: #crash-reporter }
 Per impostazione predefinita, sulle versioni desktop di Firefox, vi chiederemo di condividere una segnalazione di arresto con informazioni più dettagliate con Mozilla: potrete sempre scegliere di rifiutare.
@@ -72,7 +78,7 @@ La documentazione completa è disponibile in [questa pagina](https://firefox-sou
 
   _Su desktop_: per impostazione predefinita, Firefox invia dati a Mozilla tramite HTTP che potrebbero essere inclusi nell’installer di Firefox. Questo ci consente di determinare il dominio o la campagna pubblicitaria del sito web (se esistenti) che conduce alla nostra pagina di download. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oppure [eseguire l’opt-out](https://support.mozilla.org/kb/desktop-privacy) prima dell’installazione.
 
-  _Su iOS e Android_: per impostazione predefinita, Firefox invia dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di dati analytics, che ha la propria [informativa sulla privacy](https://www.adjust.com/terms/privacy-policy/). I dati per le campagne mobili includono: ID pubblicità Google, indirizzo IP, timestamp, Paese, lingua/impostazioni locali, sistema operativo e versione dell’app. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+  _Su Android_: Firefox invia per impostazione predefinita dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di analytics, che ha una sua [informativa sulla privacy](https://www.adjust.com/terms/privacy-policy/). I dati sulle campagne pubblicitarie mobili includono: ID pubblicitario Google, indirizzo IP, indicatore temporale, Paese, lingua/impostazioni locali, sistema operativo e versione dell'app. Per saperne di più, leggere la [documentazione](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
 
 * __Dati tecnici e di interazione__:
@@ -98,7 +104,7 @@ __Suggerimenti di ricerca__: per impostazione predefinita, Firefox invia le rich
 
 [Ulteriori informazioni](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar) che includono come disattivare questa funzione.
 
-### Account Firefox
+### Account Firefox e Partecipa a Firefox
 
 * __Dati degli account Firefox__: Mozilla riceve il vostro indirizzo email e una hash della vostra password quando create un account Firefox. Potete scegliere di includere un nome visualizzato o un’immagine per il profilo. Il vostro indirizzo email viene inviato al nostro rivenditore email, SalesForce Marketing Cloud, che ha la propria [informativa sulla privay](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Se usate l’account Firefox per accedere ad altri siti o servizi web (come AMO o Pocket), riceveremo il timestamp del vostro accesso a questi servizi.
 
@@ -109,6 +115,12 @@ __Suggerimenti di ricerca__: per impostazione predefinita, Firefox invia le rich
 * __Dati tecnici__: per visualizzare i dispositivi sincronizzati al vostro account Firefox e per la funzionalità, memorizziamo il sistema operativo del dispositivo, il browser e la sua versione, il timestamp, le impostazioni locali e le stesse informazioni riguardanti i dispositivi connessi all’account.
 
 Leggere la [documentazione completa](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) o [ulteriori informazioni](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), incluso come [eliminare il vostro account](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+
+* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
+* [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
+* [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Firefox Send](http://send.firefox.com/legal)
+* [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 
 ### Dati di Firefox Sync {: #sync }
 
@@ -123,18 +135,6 @@ Leggere la [documentazione completa](https://github.com/mozilla/fxa-auth-server/
 * __Dati sulla posizione al servizio di geolocalizzazione di Google__: Firefox chiede sempre l’autorizzazione prima di determinare e condividere la vostra posizione con un sito web che la richiede (ad esempio, se un sito web di mappe ha bisogno della vostra posizione per fornire direzioni). Per determinare la posizione, Firefox può usare le funzioni di: sistema di geolocalizzazione, reti Wi-Fi, ripetitori per cellulari o indirizzo IP e può inviare questi dati al servizio di geolocalizzazione di Google, che ha la sua [informativa sulla privacy](https://www.google.com/privacy/lsf.html).
 
 [Ulteriori informazioni](https://www.mozilla.org/firefox/geolocation/).
-
-### Firefox Screenshots {: #screenshots }
-
-* __Caricamento di schermate catturate__: ke schermate catturate che scegliete di caricare vengono inviate a Mozilla e memorizzate per il periodo limitato indicato, che potrete modificare. Possiamo accedere alle schermate caricate quando è ragionevolmente necessario per il funzionamento del servizio. Potete eliminare le schermate caricate in qualsiasi momento.
-
-* __Dati sull’interazione__: riceviamo dati come visite al sito web Firefox Screenshots, la frequenza con cui si accede alle schermate caricate e con cui queste sono condivise da voi o da altri, le vostre interazioni con pulsanti, pannelli, e movimenti del mouse relativi alla cattura di schermate.
-
-  Per visite al sito web Firefox Screenshots, il nostro avviso di [informativa sulla privacy dei siti web](https://www.mozilla.org/privacy/websites/) descrive i tipi di dati che si possono ulteriormente raccogliere.
-
-* __Dati tecnici__: riceviamo dati come le dimensioni medie, il numero di schermate caricate, la versione del browser Firefox, il sistema operativo del dispositivo e gli errori. L’indirizzo IP che accede al sito web Firefox Screenshots viene raccolto temporaneamente quale parte di un log di server standard.
-
-Leggere la [documentazione completa](https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md) o [ulteriori informazioni](https://wiki.mozilla.org/Firefox/Screenshots/FAQs).
 
 ### Notifiche da siti web {: #push-notifications }
 
@@ -162,4 +162,3 @@ Questo avviso sulla privacy è destinato alla _release_ generale più recente di
 {: #pre-release }
 
 Le versioni preliminari di Mozilla Firefox (distribuite attraverso canali quali Nightly, Beta, Developer Edition e TestFlight) sono piattaforme di sviluppo frequentemente aggiornate con funzioni e studi sperimentali. Oltre alla raccolta dati descritta nella presente informativa sulla privacy, queste versioni possono inviare per impostazione predefinita alcuni tipi di dati relativi all'attività sul Web e agli arresti anomali a Mozilla e in alcuni casi ai nostri partner. Qualsiasi raccolta o condivisione di dati aderisce alla nostra [Informativa sulla raccolta dei dati di Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) e noi saremo sempre trasparenti e forniremo i controlli.
-

@@ -1,73 +1,77 @@
-# Thông báo về quyền riêng tư của các trang web, hệ thống liên lạc & cookie
+# Thông báo quyền riêng tư liên quan đến website, hệ thống truyền thông & cookie
 
-15/03/2019
-{: datetime="2019-03-15" }
+23/09/2020
+{: datetime="2020-09-23" }
 
-Chúng tôi rất quan tâm đến quyền riêng tư của bạn. Khi Mozilla (tức là chúng tôi) thu thập thông tin cá nhân của bạn, [Chính sách quyền riêng tư của Mozilla](https://www.mozilla.org/privacy/) sẽ trình bày cách thức xử lý thông tin đó.
+Chúng tôi coi trọng quyền riêng tư của bạn. Khi Mozilla thu thập thông tin về bạn, [Chính sách quyền riêng tư của Mozilla](https://www.mozilla.org/privacy/) sẽ mô tả cách chúng tôi xử lý những thông tin đó.
 
-Thông báo về quyền riêng tư này sẽ được áp dụng cho các trang web và ứng dụng di động do Mozilla điều hành, bao gồm cả các tên miền mozillians.org, mozilla.org, firefox.com, và webmaker.org, cùng nhiều nội dung khác. Ví dụ, phần này bao gồm bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, và wiki.mozilla.org.
+Thông báo quyền riêng tư này áp dụng cho các website và ứng dụng di động được vận hành bởi Mozilla, bao gồm các miền như mozillians.org, mozilla.org, và firefox.com, cùng những miền khác. Những miền này bao gồm chẳng hạn như foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, và wiki.mozilla.org.
 
-## Những thông tin bạn cần nắm rõ
+## Thông tin bạn cần biết
 
-Chúng tôi có thể tiếp nhận thông tin cá nhân từ bạn dựa trên sự tương tác của bạn với chúng tôi trên các nền tảng mạng  xã hội; nếu bạn nộp đơn xin việc, xin thực tập hoặc cộng tác; nếu bạn là một tình nguyện viên với tư cách là một thành viên của cộng đồng Mozilla; nếu bạn gửi phản hồi của người dùng hoặc yêu cầu cho chúng tôi; nếu bạn đăng ký một tài khoản; hoặc nếu bạn tham gia vào một chiến dịch sản phẩm hoặc chính sách. 
+Chúng tôi có thể nhận thông tin cá nhân từ bạn dựa trên tương tác của bạn với chúng tôi trên các nền tảng mạng xã hội; nếu bạn nộp đơn xin việc, xin thực tập, xin trợ cấp; nếu bạn tình nguyện làm thành viên cộng đồng của Mozilla; nếu bạn gửi phản hồi của người dùng hoặc gửi yêu cầu cho chúng tôi; nếu bạn đăng ký tài khoản hoặc thuê bao; hoặc nếu bạn tương tác với một chiến dịch sản phẩm hoặc chính sách. 
 {: #personal-info }
 
-* **Mạng xã hội**: Nếu bạn tham gia vào các tài khoản mạng xã hội của chúng tôi, như Twitter và Facebook, chúng tôi có thể nhận được thông tin cá nhân của bạn. Nếu bạn sử dụng những mạng xã hội này, chính sách quyền riêng tư của những mạng xã hội này sẽ được áp dụng và bạn cần phải đọc kỹ những chính sách đó.
+* **Mạng xã hội**: Nếu bạn tương tác với các tài khoản mạng xã hội của chúng tôi như Twitter và Facebook, chúng tôi có thể nhận được thông tin cá nhân về bạn. Nếu bạn sử dụng những mạng này, chính sách quyền riêng tư của các mạng đó sẽ được áp dụng và bạn nên tham khảo chúng.
 
-* **Ứng viên xin việc, thực tập & cộng tác**: Các ứng viên có cơ hội xin việc, thực tập hoặc cộng tác với Mozilla phải cung cấp cho chúng tôi tên, địa chỉ đường phố, số điện thoại, địa chỉ email và sơ yếu lý lịch. Chúng tôi sử dụng thông tin này để xử lý và đánh giá các hồ sơ và liên hệ với ứng viên về các cơ hội. Chúng tôi sử dụng nhà cung cấp thuộc bên thứ ba để hỗ trợ chúng tôi xử lý các hồ sơ xin việc. Để biết thêm thông tin về các hoạt động bảo mật dữ liệu của chúng tôi với các nhà cung cấp thuộc bên thứ ba, xem [Chính sách quyền riêng tư của Mozilla](https://www.mozilla.org/privacy/).
+* **Người nộp đơn xin việc, xin thực tập, & xin trợ cấp**: Người nộp đơn xin việc, xin thực tập hay xin trợ cấp cho Mozilla sẽ được yêu cầu cung cấp tên, địa chỉ đường phố, số điện thoại, địa chỉ email và sơ yếu lý lịch và đôi khi cả thông tin bổ sung nữa. Chúng tôi sử dụng thông tin này để xử lý và đánh giá các lá đơn và liên lạc với ứng viên về các cơ hội tuyển dụng. Chúng tôi sử dụng [Greenhouse](https://www.greenhouse.io/privacy-policy) để xử lý các đơn xin việc và xin thực tập, và [Fluxx.io](https://www.fluxx.io/privacy-policy) để xử lý các đơn xin trợ cấp MOSS.
 
-* **Cộng tác viên**: Việc tự nguyện tham gia Mozilla với tư cách là một cộng tác viên cộng đồng có thể yêu cầu Mozilla và các bên khác liên hệ với bạn theo địa chỉ email mà bạn đã cung cấp liên quan đến việc cộng tác của bạn và ghi nhận nỗ lực của bạn. Nếu bạn cộng tác cho Bugzilla, Mozilla Reps, hoặc kho mã nguồn của chúng tôi, thì địa chỉ email của bạn và khả năng là tên của bạn sẽ được công khai với tất cả người dùng Internet. Nếu bạn tạo một hồ sơ tại Mozillians.org, thì các nhân viên và cộng tác viên của Mozilla sẽ có thể truy cập vào được. Bạn có thể sửa dữ liệu hồ sơ của mình tại phần [Thiết lập hồ sơ](https://mozillians.org/user/edit). Đôi khi chúng tôi sẽ sử dụng thông tin cộng tác viên từ các nguồn (như Bugzilla) trong bảng điều khiển để chia sẻ trực quan dữ liệu tổng hợp trên cộng đồng Mozilla. Ví dụ như <https://wiki.mozilla.org/Contribute/Dashboards>. Nếu có thể, chúng tôi sẽ cố gắng hạn chế tối đa thông tin liên hệ được hiển thị công khai.
+* **Cộng tác viên**: Khi bạn tình nguyện làm cộng tác viên cộng đồng cho Mozilla, chúng tôi có thể phải liên lạc với bạn theo địa chỉ email mà bạn cung cấp liên quan đến việc cộng tác và ghi nhận những đóng góp của bạn. Nếu bạn làm cộng tác viên cho Bugzilla, Mozilla Reps hoặc cơ sở mã của chúng tôi, khi đó địa chỉ email và có thể cả tên của bạn sẽ được hiển thị công khai với tất cả người dùng Internet. Nếu bạn tạo một hồ sơ trên Mozillians.org, nhân viên và cộng tác viên của Mozilla có thể truy cập nó. Bạn có thể sửa dữ liệu hồ sơ tại trang [Cài đặt hồ sơ](https://mozillians.org/user/edit). Chúng tôi đôi khi cũng sử dụng thông tin của cộng tác viên từ các nguồn (như Bugzilla) trong bảng điều khiển để chia sẻ các dữ liệu tổng hợp trực quan trên cộng đồng Mozilla. Ví dụ như [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Nếu có thể, chúng tôi sẽ cố gắng hạn chế các thông tin liên hệ được hiển thị công khai.
 
-* **Phản hồi của người dùng**: Bạn có thể gửi phản hồi cho chúng tôi về các loại sản phẩm và dịch vụ của chúng tôi trên các trang web như [input.mozilla.org](https://input.mozilla.org/), thông qua trải nghiệm trên sản phẩm, hoặc thông qua các kênh như email, Bugzilla, IRC, một tài khoản mạng xã hội, trang Tham gia đóng góp của chúng tôi, hoặc thông qua một nhóm như Đại sứ sinh viên. Vui lòng hạn chế tối đa thông tin cá nhân bạn chọn chia sẻ trên những diễn đàn này bởi những bình luận của bạn có thể được mọi người truy cập.
+* **Phản hồi của người dùng**: Bạn có thể cung cấp phản hồi cho chúng tôi về các sản phẩm và dịch vụ của chúng tôi trên các trang web như [input.mozilla.org](https://input.mozilla.org/), thông qua trải nghiệm trong sản phẩm hay thông qua các kênh như email, Bugzilla, Matrix, tài khoản mạng xã hội, trang Tham gia hoặc thông qua một nhóm như Đại sứ sinh viên. Bạn nên hạn chế thông tin cá nhân mà bạn chọn chia sẻ trên các diễn đàn này vì mọi người có thể xem được bình luận của bạn.
 
-* **Tài khoản**: Một số trang web, ví dụ Marketplace, AMO, MDN, và Webmaker, yêu cầu tạo tài khoản để gửi nội dung phát triển; gửi bản đánh giá hoặc bình luận của người dùng; hoặc cài đặt một số ứng dụng nhất định. Bạn có thể định kỳ nhận email liên quan đến tài khoản của bạn. 
+* **Tài khoản & thuê bao**: Một số website như AMO và MDN yêu cầu phải tạo tài khoản để gửi nội dung nhà phát triển hoặc gửi đánh giá hay bình luận của người dùng. Để quản lý tài khoản, chúng tôi sử dụng [Tài khoản Firefox](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking), hoặc các hệ thống tùy chỉnh; hãy xem [tại đây](https://support.mozilla.org/kb/managing-account-data) để quản lý dữ liệu tài khoản. Bạn có thể định kỳ nhận email liên kết với tài khoản của bạn hoặc qua thuê bao đăng ký. Các nhà cung cấp dịch vụ quản lý email của chúng tôi bao gồm [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), hay [Mailchimp](https://mailchimp.com/legal/privacy/), và bạn có thể hủy đăng ký thông qua liên kết ở phía cuối email. 
 
-* **Chiến dịch sản phẩm & chính sách**: Một số trang web của chúng tôi đăng cai tổ chức các chiến dịch sản phẩm hoặc chính sách. Ví dụ, bạn có thể yêu cầu cung cấp một liên kết qua email hoặc SMS để cài đặt Firefox trên thiết bị di động của bạn hoặc nộp đơn lên các cơ quan quản lý về các sự cố Internet. Chúng tôi sử dụng các bên thứ ba để quản lý các chiến dịch này và xử lý bất kỳ dữ liệu nào bạn chọn gửi.
+* **Chiến dịch sản phẩm & chính sách**: Một số trang web của chúng tôi có tổ chức các chiến dịch sản phẩm hoặc chính sách. Chẳng hạn, bạn có thể yêu cầu một liên kết qua email hoặc SMS để cài đặt Firefox trên thiết bị di động hoặc tham vấn ý kiến của các nhà làm luật về các sự cố Internet. Chúng tôi có thể sử dụng các bên thứ ba để quản lý các chiến dịch này và xử lý bất kỳ dữ liệu nào mà bạn chọn gửi. 
 {: #campaigns }
 
 ---------------------------------------
 
-Chúng tôi có thể sử dụng cookie, tập tin chỉ báo, kết quả phân tích web của bên thứ ba, thông tin thiết bị và địa chỉ IP cho chức năng này và hiểu rõ hơn sự tương tác của người dùng với các sản phẩm, dịch vụ và hệ thống liên lạc của chúng tôi.
+Chúng tôi có thể sử dụng cookie, tập tin chỉ báo, phần phân tích web của bên thứ ba, thông tin thiết bị và địa chỉ IP cho chức năng này và hiểu hơn về tương tác của người dùng với các sản phẩm, dịch vụ và hệ thống truyền thông của chúng tôi. 
 {: #data-tools }
 
-* **Chức năng**: Chúng tôi có thể sử dụng thông tin như các cookie, thông tin thiết bị và địa chỉ IP để tăng cường chức năng của một số sản phẩm, dịch vụ và hệ thống liên lạc. Ví dụ:
-    * Chúng tôi sử dụng cookie để ghi nhớ thông tin về các thiết lập Firefox của bạn (như tùy chọn ngôn ngữ và các tiện ích bổ sung trong Firefox), qua đó chúng tôi có thể khuyến nghị các tính năng liên quan và các tiện ích bổ sung cho bạn dựa trên phần thiết lập Firefox này. Chúng cũng hỗ trợ đăng nhập và xác thực người dùng, vì vậy bạn có thể bỏ qua việc nhập mật khẩu vào một số trang web của Mozilla.
-    * Chúng tôi sử dụng các địa chỉ IP để tùy chỉnh hệ thống liên lạc theo ngôn ngữ và quốc gia. 
+* **Chức năng**: Chúng tôi có thể sử dụng những thông tin như cookie, thông tin thiết bị và địa chỉ IP để cải thiện chức năng của một số sản phẩm, dịch vụ và hệ thống truyền thông. Ví dụ:
+    * Chúng tôi sử dụng cookie để ghi nhớ thông tin về phần cài đặt Firefox của bạn (như tùy chọn ngôn ngữ và các tiện ích bổ sung trong Firefox), và để chúng tôi có thể đề xuất các tính năng và tiện ích bổ sung phù hợp cho bạn dựa trên phần cài đặt Firefox. Chúng cũng hỗ trợ việc đăng nhập và xác thực người dùng để bạn không cần phải nhập lại mật khẩu trên một số website của Mozilla.
+    * Chúng tôi sử dụng địa chỉ IP để tùy chỉnh hệ thống truyền thông theo ngôn ngữ và quốc gia.
     * Chúng tôi sử dụng một số thông tin thiết bị như quốc gia, ngôn ngữ, nhà mạng và OEM, để tùy chỉnh trải nghiệm của bạn.
 
-* **Thông số**: Chúng tôi cũng có thể sử dụng cookie, thông tin thiết bị và địa chỉ IP, cũng như tập tin chỉ báo, cookie và dịch vụ thuộc bên thứ ba để giúp chúng tôi hiểu rõ một cách tổng thể về cách người dùng tương tác với các sản phẩm, dịch vụ, hệ thống liên lạc, trang web, chiến dịch trực tuyến, đoạn mã, thiết bị và các nền tảng khác của chúng tôi. Chúng tôi sử dụng:
-    * Google Analytics, ứng dụng này chèn một cookie trên thiết bị của bạn để thu thập thông số về cách người dùng tương tác với các trang web của chúng tôi. Việc này giúp chúng tôi cải thiện nội dung trang web.
-    * Convert.com và ShareProgress, ứng dụng này chèn một cookie trên thiết bị của bạn để giúp chúng tôi kiểm tra những thay đổi của nội dung web. Việc này giúp chúng tôi cung cấp trải nghiệm web tốt hơn cho người dùng.
-    * DoubleClick và Flashtalking, ứng dụng này sử dụng tập tin chỉ báo trên trang Firefox tải về của chúng tôi. Việc này giúp chúng tôi đo lường được tính hiệu quả của các chiến dịch quảng cáo.
-    * Yahoo Dot Pixel, ứng dụng này sử dụng JavaScript trên trang Firefox tải về của chúng tôi. Việc này giúp chúng tôi đo lường được tính hiệu quả của các chiến dịch quảng cáo. 
-    * HTTP Referral Data, ứng dụng này có thể được tích hợp với trình cài đặt của Firefox, để hiểu được tên miền trang web hoặc chiến dịch quảng cáo trong đó có hướng bạn đến trang tải về của chúng tôi. Thông tin này giúp chúng tôi hiểu rõ tính hiệu quả của các chiến dịch quảng cáo và cải thiện chúng.
-    * Các công cụ đo đạc khác tùy từng thời điểm, dựa trên trải nghiệm. Ví dụ, chúng tôi có thể thực hiện việc này để giúp đánh giá một công cụ đo dạc mới, hoặc kiểm tra bộ sưu tập thông số hiện có.
+* **Thông số đo**: Chúng tôi cũng có thể sử dụng cookie, thông tin thiết bị và địa chỉ IP cùng với tập tin chỉ báo, cookie và các dịch vụ thuộc bên thứ ba để giúp chúng tôi nắm được cách người dùng tương tác với các sản phẩm, dịch vụ, hệ thống truyền thông, website, chiến dịch trực tuyến, snippet, thiết bị và các nền tảng khác của chúng tôi. Chúng tôi sử dụng:
+    * Google Analytics, dịch vụ này sẽ đặt một cookie trên thiết bị của bạn để lấy thông số đo về cách người dùng tương tác với các website của chúng tôi. Thông tin này giúp chúng tôi cải thiện nội dung trang.
+    * Convert.com và ShareProgress, dịch vụ này sẽ đặt một cookie trên thiết bị của bạn để giúp chúng tôi kiểm tra sự thay đổi của nội dung web. Thông tin này giúp chúng tôi cung cấp trải nghiệm web tốt hơn cho người dùng.
+    * DoubleClick và Flashtalking, các dịch vụ này sử dụng một tập tin chỉ báo trên trang Firefox tải về của chúng tôi. Thông tin này giúp chúng tôi đo được tính hiệu quả của các chiến dịch quảng cáo.
+    * Yahoo Dot Pixel, dịch vụ này sử dụng JavaScript trên trang Firefox tải về của chúng tôi. Thông tin này giúp chúng tôi đo được tính hiệu quả của các chiến dịch quảng cáo.
+    * HTTP Referral Data, dịch vụ này có thể được gộp cùng với trình cài đặt của Firefox, để nắm được miền website hoặc chiến dịch quảng cáo đã chỉ dẫn bạn tới trang tải về của chúng tôi. Thông tin này giúp chúng tôi nắm được tính hiệu quả của các chiến dịch quảng cáo và cải thiện chúng.
+    * Các công cụ đo khác tùy từng thời điểm nhằm mục đích thử nghiệm. Ví dụ, chúng tôi có thể làm vậy để giúp đánh giá một công cụ đo mới hoặc kiểm tra bộ sưu tập công cụ đo hiện có.
+  
+* **Ngăn chặn gian lận**: Mozilla áp dụng công nghệ của bên thứ ba, Invisible reCAPTCHA của Google, chạy nền trên một số website của chúng tôi để xác định hoạt động gian lận. Việc sử dụng Invisible reCAPTCHA sẽ tuân theo [Chính sách quyền riêng tư](https://www.google.com/intl/policies/privacy/) và [Điều khoản sử dụng của Google](https://policies.google.com/terms).
 
 ---------------------------------------
 
-Bạn có thể kiểm soát các tùy chọn cookie riêng, nêu rõ tùy chọn cookie của bạn với người khác và từ chối các công cụ phân tích và tối ưu web. 
+Bạn có thể quản lý các tùy chọn cookie riêng, hiển thị các tùy chọn cookie với người khác và chọn không sử dụng các công cụ phân tích và tối ưu hóa web. 
 {: #user-choices }
 
-* **Lịch sử cookie**: Bạn có thể chấp nhận hoặc từ chối các cookie riêng trong mục tùy chọn Firefox nằm trong phần lịch sử Công cụ/Tùy chọn/Quyền riêng tư. Xin lưu ý rằng một số tính năng sản phẩm và dịch vụ của chúng tôi có thể không hoạt động đúng cách nếu không có sự hỗ trợ của các cookie.
+* **Lịch sử cookie**: Bạn có thể chấp nhận hoặc từ chối các cookie riêng trong phần tùy chọn Firefox bên dưới mục lịch sử Công cụ/Tùy chọn/Quyền riêng tư. Lưu ý rằng một số tính năng của các sản phẩm và dịch vụ có thể hoạt động không đúng cách nếu không có sự hỗ trợ của cookie. 
 {: #cookies }
 
-* **Không theo dõi**: Mozilla không theo dõi người dùng qua các trang web của bên thứ ba để cung cấp quảng cáo hướng đối tượng. Nếu bạn đã cấu hình trình duyệt để gửi một tín hiệu “Không theo dõi” khi truy cập trang web của chúng tôi, Mozilla sẽ không sử dụng bất kỳ công cụ nào được mô tả trong phần [Thông số](#data-tools).
+* **Không theo dõi**: Mozilla không theo dõi người dùng qua các website của bên thứ ba để cung cấp các quảng cáo hướng đối tượng. Nếu bạn đã cấu hình trình duyệt để gửi tín hiệu “Không theo dõi” khi truy câp các website của chúng tôi, Mozilla sẽ không sử dụng bất kỳ công cụ nào được nêu trong phần [Thông số đo](https://www.mozilla.org/privacy/websites/#data-tools).
 
-* **Email**: Các chiến lược truyền thông marketing của chúng tôi có thể tiếp nhận tùy ý và bạn có thể hủy đăng ký từ phần chân trang email hoặc bằng cách cập nhật [Tùy chọn email Mozilla](https://www.mozilla.org/newsletter/recovery/) của bạn.
+* **Email**: Bạn không bắt buộc phải nhận thư tiếp thị của chúng tôi và bạn có thể hủy đăng ký từ cuối trang email hoặc cập nhật [các tùy chọn email của Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
-* **Phân tích & Tối ưu hóa**: Làm theo các hướng dẫn dưới đây để tránh thu thập dữ liệu về các lượt truy cập trang web Mozilla của bạn:
-    *  Google: Cài đặt [Tiện ích trình duyệt web từ chối ứng dụng Google Analytics](https://tools.google.com/dlpage/gaoptout), theo đó sẽ coi các lượt truy cập của bạn là nặc danh và cấm gửi dữ liệu cho Google Analytics. Một số trang Mozilla.org sử dụng tập tin chỉ báo, theo đó, sẽ liên lạc với DoubleClick để hiểu rõ tính hiệu quả của các chiến dịch quảng cáo; bạn có thể kiểm soát các quảng cáo tùy chỉnh từ DoubleClick trong phần thiết lập quảng cáo của Google (bạn sẽ được nhắc đăng nhập vào Tài khoản Google).
-    *  Convert.com: [Từ chối trên www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    *  Yahoo: truy cập [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) để từ chối.
-    *  ShareProgress: Bạn có thể [bật Không theo dõi trong trình duyệt của mình](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Phân tích & tối ưu hóa**: Làm theo các hướng dẫn bên dưới để ngăn việc thu thập dữ liệu về số lần truy cập của bạn vào các website của Mozilla:
+    * Google: Cài đặt [Tiện ích trình duyệt bỏ chọn Google Analytics](https://tools.google.com/dlpage/gaoptout), giúp ngăn không cho chuyển dữ liệu sang Google Analytics. Một số trang Mozilla.org sử dụng tập tin chỉ báo liên lạc với DoubleClick để nắm được tính hiệu quả của các chiến dịch quảng cáo; bạn có thể quản lý các quảng cáo được cá nhân hóa từ DoubleClick trong phần cài đặt quảng cáo của Google (bạn sẽ được nhắc đăng nhập vào tài khoản Google của bạn).
+    * Convert.com: [Bỏ chọn trên www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
+    * Yahoo: Truy cập [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) để bỏ chọn.
+    * ShareProgress và Fathom.com: Bạn có thể [bật Không theo dõi trong trình duyệt](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Mạng xã hội**: Các nút chia sẻ với mạng xã hội trên trang web của Mozilla được cấu hình để không chia sẻ dữ liệu với nhà cung cấp mạng xã hội cho đến khi bạn bấm vào nút này.
+* **Mạng xã hội**: Các nút chia sẻ lên mạng xã hội trên các website của Mozilla được thiết kế để không chia sẻ dữ liệu với nhà cung cấp dịch vụ mạng xã hội trừ khi bạn nhấp vào nút đó.
 
 ---------------------------------------
 
-Một số trang web của Mozilla cho phép bạn mua sắm (như các ứng dụng hoặc phụ kiện) hoặc thực hiện tài trợ. Những giao dịch này được các bên thứ ba xử lý, chứ không phải Mozilla. 
+Một số website của Mozilla cho phép bạn thực hiện giao dịch mua (chẳng hạn như ứng dụng hoặc công cụ), đóng góp quỹ cho các dự án cụ thể của Mozilla hoặc tài trợ cho các chương trình từ thiện công khai của Mozilla. Những giao dịch này thường được nhà cung cấp thuộc bên thứ ba của Mozilla xử lý. 
 {: #donations }
 
-* **Xử lý thanh toán**: Mozilla không nhận bất kỳ thông tin tài chính nào do bạn chuyển tới các nhà cung cấp thuộc bên thứ ba của chúng tôi để xử lý. Tên của bên thứ ba sẽ được hiển thị tại thời điểm giao dịch.
+* **Xử lý thanh toán**: Ngoại trừ các khoản thanh toán bằng séc, lệnh chuyển tiền và ghi nợ trực tiếp và chuyển khoản qua ngân hàng, Mozilla không nhận bất kỳ thông tin tài chính nào, được chuyển từ bạn cho nhà cung cấp thuộc bên thứ ba để xử lý (ví dụ như Braintree, PayPal, Bitpay, Stripe).
 
-* **Chống gian lận**: Mozilla đã triển khai công nghệ bên thứ ba,  Invisible reCAPTCHA của Google, trong đó hoạt động trong nền của một số trang web của chúng tôi để xác định hoạt động gian lận. Việc sử dụng Invisible reCAPTCHA chịu sự chi phối của [Chính sách quyền riêng tư](https://www.google.com/intl/en/policies/privacy/) và [Điều khoản sử dụng của Google](https://www.google.com/intl/en/policies/terms/).
+* **Dữ liệu cá nhân**: Chúng tôi cũng có thể nhận tên, địa chỉ gửi thư và/hoặc địa chỉ email của bạn. Dữ liệu này được sử dụng để phát hiện hành vi gian lận và lưu sổ. Chúng tôi sử dụng [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) để gửi biên lai qua email và lưu hồ sơ, thông tin này sẽ được giữ lại bốn năm kể từ ngày thanh toán. 
+
+* **Dữ liệu thuộc bên thứ ba**: Chúng tôi sử dụng [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) để cải thiện nỗ lực gây quỹ của chúng tôi nhằm duy trì một môi trường Internet lành mạnh, cởi mở và có thể tiếp cận được với tất cả mọi người. Các nhà tài trợ có thể [chọn không](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) sử dụng Mozilla.

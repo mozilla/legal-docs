@@ -54,7 +54,7 @@ __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant y
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+2 Harrison St. #175,  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com

@@ -1,13 +1,13 @@
-﻿# Mozilla-Datenschutzerklärung
+# Mozilla-Datenschutzerklärung
 
-25. Mai 2018
-{: datetime="2018-05-25" }
+Mittwoch, 9. September 2020
+{: datetime="2020-09-09" }
 
 Der Schutz Ihrer Daten ist für uns ein wichtiges Anliegen und Mozilla (das sind wir) nimmt diesen Schutz bei der Entwicklung aller unserer Produkte und Dienste ernst. Wir verpflichten uns zu Transparenz und Offenheit. In dieser Mozilla Datenschutzrichtlinie wird deshalb erläutert, wie wir Daten erheben und was wir mit den erhobenen Daten machen, sobald sie in unserem Besitz sind. Sie können sich auch die Datenschutzhinweise und häufig gestellten Fragen zu unseren Produkten durchlesen, um weitere Informationen zu unseren einzelnen Produkten und Diensten zu erfahren. 
 
 ## Was meinen wir mit „personenbezogenen Daten“?
 
-Für uns sind „personenbezogene Daten“ Informationen, die Sie identifizieren, wie Ihr Name oder Ihre E-Mail Adresse.
+„Personenbezogene Informationen“ bedeuten für uns entweder Daten, mit denen Sie direkt identifiziert werden können (wie Ihr Name, Ihre E-Mail-Adresse oder Abrechnungsinformationen) oder die ohne großen Aufwand verknüpft oder kombiniert werden können, um Sie zu identifizieren (wie z. B. eine Konto-ID-Nummer oder IP-Adresse). Wir teilen Ihnen stets mit, welche personenbezogenen Informationen von Ihnen wir erfassen. Einzelheiten dazu finden Sie im Datenschutz-Hinweis zum jeweiligen Produkt. 
 
 Alle Informationen, mit denen Sie nicht identifizierbar sind, gelten als „nicht personenbezogene Daten”.
 
@@ -26,7 +26,7 @@ Wir erhalten Ihre Daten, wenn:
 
 Wenn Sie uns personenbezogene Daten übermitteln, werden wir diese so nutzen, wie Sie es uns erlaubt haben. Generell nutzen wir Ihre Daten dazu, Ihnen unsere Produkte und Dienste zur Verfügung zu stellen und diese zu verbessern.
 
-Für Benutzer in der EU, im EWR und der Schweiz: [hier](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) finden Sie weitere Informationen.
+Für Benutzer in der EU, im EWR, der Schweiz und in Kalifornien: [Hier](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users) finden Sie weitere Informationen.
 
 ## Unter welchen Umständen geben wir Ihre Daten an Dritte weiter?
 
@@ -43,12 +43,6 @@ Wir fühlen uns dem Schutz Ihrer personenbezogenen Daten verpflichtet, sobald wi
 
 Wir wollen Ihre personenbezogenen Daten nicht länger aufbewahren, als wir sie benötigen.Wir werden sie deshalb nur solange aufbewahren, wie dies zur Erreichung des Zweckes der jeweiligen Datenerhebung erforderlich ist. Sobald wir sie nicht mehr benötigen, werden wir Schritte einleiten, um diese zu zerstören, es sei denn, wir sind gesetzlich zur weiteren Aufbewahrung verpflichtet.
 
-## Was sollten Sie sonst noch wissen?
-
-Wir sind eine internationale Organisation und unsere Computer befinden sich an verschiedenen Orten auf der Welt. Zudem nutzen wir auch Dienstleister, deren Computer sich ebenso in unterschiedlichen Ländern befinden können. Das bedeutet, dass Ihre Daten auf einem dieser Computer in einem anderen Land, das ein anderes Datenschutzniveau als Ihr Land aufweisen kann, verarbeitet werden könnten. Indem Sie uns Ihre Daten übermitteln, stimmen Sie dieser Art der Übermittlung Ihrer Daten zu. Unabhängig davon, in welchem Land sich Ihre Daten befinden, werden wir das geltende Recht einhalten und uns auch an die uns durch diese Datenschutzerklärung auferlegten Verpflichtungen halten.
-
-Wir wollen keine personenbezogenen Daten von Ihnen, sofern Sie das 13. Lebensjahr noch nicht vollendet haben.Sie dürfen uns Ihre personenbezogenen Daten dann nicht übermitteln. Wenn Sie ein Erziehungsberechtigter sind und glauben, dass ihr Kind, welches das 13. Lebensjahr noch nicht vollendet hat, uns seine personenbezogenen Daten übermittelt hat, [kontaktieren Sie uns bitte](https://www.mozilla.org/privacy/#contact), damit wir die Daten Ihres Kindes löschen können.
-
 ## Was geschieht im Falle von Änderungen dieser Datenschutzerklärung?
 
-Es kann erforderlich sein, dass wir diese Datenschutzerklärung ändern.  Die Aktualisierungen werden im Internet veröffentlicht. Bei wesentlichen Änderungen werden wir die Aktualisierungen über die üblichen Kanäle von Mozilla für solche Ankündigungen, wie Blog-Beiträge und Foren, ankündigen. Wenn Sie das Produkt bzw. den Dienst nach dem Datum des Inkrafttretens solcher Änderungen weiterhin nutzen, bedeutet dies, dass Sie mit den Änderungen einverstanden sind. Damit Sie einen besseren Überblick haben, geben wir das Datum des Inkrafttretens im oberen Bereich der Seite an.
+Es kann erforderlich sein, dass wir diese Datenschutzerklärung ändern. Die Aktualisierungen werden im Internet veröffentlicht. Bei wesentlichen Änderungen werden wir die Aktualisierungen über die üblichen Kanäle von Mozilla für solche Ankündigungen, wie Blog-Beiträge und Foren, ankündigen. Wenn Sie das Produkt bzw. den Dienst nach dem Datum des Inkrafttretens solcher Änderungen weiterhin nutzen, bedeutet dies, dass Sie mit den Änderungen einverstanden sind. Damit Sie einen besseren Überblick haben, geben wir das Datum des Inkrafttretens im oberen Bereich der Seite an.

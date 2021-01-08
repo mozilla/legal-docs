@@ -102,8 +102,8 @@ These Terms constitute the entire agreement between you and Mozilla concerning o
 
 Mozilla   
 Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
 USA  
 Telephone: 650-903-0800  
 Fax: 650-903-0875  

@@ -75,7 +75,7 @@ If you choose to cancel, auto-renewal will stop, we will not charge you for any 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+2 Harrison St. #175,  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com
