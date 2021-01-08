@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-September 23, 2020
-{: datetime="2020-09-23" }
+January 8, 2021
+{: datetime="2020-01-08" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
