@@ -21,7 +21,7 @@ Mozilla is a global organization, and our computers and service providers’ com
 
 ## Permissions Necessary to Provide the Service
 
-Mozilla VPN is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). To learn more about how the Service works, you can see Mozilla’s source code for the VPN program on [Windows](https://github.com/mozilla-services/guardian-vpn-windows), [MacOS](https://github.com/mozilla-mobile/mozilla-vpn-client/), [iOS](https://github.com/mozilla-mobile/guardian-vpn-ios), [Android](https://github.com/mozilla-mobile/guardian-vpn-android), and [Linux] (https://github.com/mozilla-mobile/mozilla-vpn-client/).
+Mozilla VPN is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). To learn more about how the Service works, you can see Mozilla’s source code for the VPN program on [Windows](https://github.com/mozilla-services/guardian-vpn-windows), [MacOS](https://github.com/mozilla-mobile/mozilla-vpn-client/), [iOS](https://github.com/mozilla-mobile/guardian-vpn-ios), [Android](https://github.com/mozilla-mobile/guardian-vpn-android), and [Linux](https://github.com/mozilla-mobile/mozilla-vpn-client/).
 
 __Your Use of the Service.__ Mozilla gives you permission to use the Mozilla VPN Service according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.
 
