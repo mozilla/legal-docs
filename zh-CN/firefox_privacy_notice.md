@@ -43,7 +43,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
 * __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations).的信息
 
-###为各地用户提高安全性{: #security }
+### 为各地用户提高安全性 {: #security }
 
 **针对 DNS 解析器服务的网页数据**：对于美国的部分 Firefox 用户，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[了解更多信息](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看以下我们默认的 DNS 解析器服务提供商：
 
@@ -76,7 +76,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 * __营销活动和推荐数据__：这可以帮助 Mozilla 了解我们市场营销活动的成效。
 {: #referraltracking }
 
-_桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这可让我们确定推荐您到我们下载页面的网站域名或广告活动（如有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
+_桌面版本_：默认情况下，Firefox 会发送可能随附于 Firefox 安装程序的 Mozilla HTTP 数据。这有助于我们确定是什么网站域名或广告活动（如有）将您推荐到我们的下载页面。安装前请阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或者[选择退出](https://support.mozilla.org/kb/desktop-privacy)。
 
 _Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
 {: #thirdparty }
@@ -93,7 +93,7 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使
 
 ### 搜索
 
-您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。_Mozilla 不会记录您的搜索查询。_查询数据会发送给搜索提供商，他们有各自的隐私政策。我们的默认搜索提供商的链接如下：
+您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。Mozilla 不会记录您的搜索查询。查询数据会发送给搜索提供商，他们有各自的隐私政策。我们的默认搜索提供商的链接如下：
 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
