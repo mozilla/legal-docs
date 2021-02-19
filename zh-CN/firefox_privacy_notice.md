@@ -93,7 +93,7 @@ _iOS 和 Android 版本_：默认情况下，Firefox 会将您在 Firefox 中使
 
 ### 搜索
 
-您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。Mozilla 不会记录您的搜索查询。查询数据会发送给搜索提供商，他们有各自的隐私政策。我们的默认搜索提供商的链接如下：
+您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。 _Mozilla 不会记录您的搜索查询。_ 查询数据会发送给搜索提供商，他们有各自的隐私政策。我们的默认搜索提供商的链接如下：
 
 * [__Google__](https://policies.google.com/privacy)
 * [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
