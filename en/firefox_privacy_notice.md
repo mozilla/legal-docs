@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective September 8, 2020*
-{: datetime="2020-09-8" }
+*Effective March 1, 2021*
+{: datetime="2021-03-1" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -106,7 +106,7 @@ __Search Suggestions__: Firefox by default sends search queries to your search p
 
 ### Firefox Accounts & Join Firefox
 
-* __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, SalesForce Marketing Cloud, which has its own [privacy policy](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/).
+* __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, Acoustic, which has its own [privacy policy](https://acoustic.com/privacy-notice/).
 
 * __Location data__: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
 
