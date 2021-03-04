@@ -73,9 +73,9 @@ Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous 
 
 ## Contacter Mozilla
 
-Mozilla Corporation
-À l’attention de : Mozilla – Legal Notices
-2 Harrison St. #175,
-San Francisco, CA 94105, États-Unis
+Mozilla Corporation  
+À l’attention de : Mozilla – Legal Notices  
+2 Harrison St. #175,  
+San Francisco, CA 94105, États-Unis  
 
 legal-notices@mozilla.com
