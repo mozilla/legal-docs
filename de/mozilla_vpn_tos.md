@@ -73,9 +73,9 @@ Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir s
 
 ## Kontaktadresse Mozilla
 
-Mozilla Corporation
-Attn: Mozilla – Legal Notices
-2 Harrison St. #175,
-San Francisco, CA 94105 USA
+Mozilla Corporation  
+Attn: Mozilla – Legal Notices  
+2 Harrison St. #175,  
+San Francisco, CA 94105 USA  
 
 legal-notices@mozilla.com
