@@ -1,7 +1,7 @@
 # Thunderbird Privacy Notice
 
-August 31, 2020
-{: datetime="2020-08-31" }
+March 16, 2021
+{: datetime="2020-03-16" }
 
 The Thunderbird application allows users to privately integrate and manage their online communications.
 
@@ -67,4 +67,4 @@ __DNS servers, Standard Autoconfiguration URIs, and Mozilla's Configuration Data
 
 __Amazon Web Services__: Thunderbird uses Amazon Web Services (AWS) to host its servers and as a content delivery network. Your device’s IP address is collected as part of AWS’s server logs.
 
-__Gandi.net__: Thunderbird has partnered with Gandi.net to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net to return available addresses. In addition, your country location is also shared with Gandi.net to provide the correct prices. You can learn more about Gandi.net’s data practices by reading their [Privacy Policy](https://contract.gandi.net/v5/contracts/14420/Privacy_Policy_US_2.0_en.pdf).
+__Email address providers__: Thunderbird has partnered with Gandi.net and Mailfence to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net and Mailfence to return available addresses. In addition, your country location is also shared to provide the correct prices. You can learn more about [Gandi.net’s](https://contract.gandi.net/v5/contracts/14420/Privacy_Policy_US_2.0_en.pdf) and [Mailfence’s](https://mailfence.com/en/privacy.jsp) data practices by reading their privacy notices.
