@@ -71,7 +71,7 @@ Sekirannya anda batalkan langganan, pembaharuan automatik juga akan berhenti, ka
 
 * __Pilihan Perundangan.__ Undang-undang California terpakai dalam kontrak ini, kecuali undang-undang konflik California. Jika terdapat sebarang konflik antara kontrak versi Inggeris ini dengan versi yang diterjemahkan, versi Inggeris ini terpakai.
 
-## Contact Mozilla
+## Hubungi Mozilla
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
