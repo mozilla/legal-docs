@@ -1,21 +1,21 @@
 # Mozilla VPN Servicebedingungen
 
-Version 3.0 – Aktualisiert am 15. Juli 2020
-{: datetime="2020-07-15" }
+Version 3.1 – Aktualisiert am Mittwoch, 14. April 2021
+{: datetime="2021-04-14" }
 
-Mozilla VPN (der „Dienst“) ist ein experimentelles Angebot. Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
+Mozilla VPN („Dienst“) ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
 
 Falls Sie diesen Dienst aktivieren, bleibt Ihr Internet-Traffic für Ihren Internetprovider und die meisten Websites, die Sie besuchen, geheim, indem er verschlüsselt und stattdessen über die Netzwerke unseres Partners geleitet wird. Außerdem wird Ihre tatsächliche IP-Adresse ersetzt, sodass sie für andere wie z. B. von Ihnen besuchte Websites und Ihren Internetprovider geheim bleibt.
 
 ## Sie müssen für die Verwendung dieses Dienstes qualifiziert sein
 
-Um Mozilla VPN herunterladen und diesen Dienst verwenden zu können, müssen Sie sich in den USA, in Kanada, im Vereinigten Königreich, in Neuseeland, Singapur oder Malaysia befinden. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
+Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit wird der Dienst in folgenden Ländern angeboten: USA, Kanada, Vereinigtes Königreich, Neuseeland, Deutschland, Frankreich, Singapur, Malaysia. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
 
 Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
 
 ## Ihre Privatsphäre
 
-__Ihre Privatsphäre.__ Im Mozilla VPN-Datenschutzhinweis wird erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie wir mit diesen Informationen umgehen und sie teilen.
+__Ihre Privatsphäre.__ Im [Mozilla VPN-Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-vpn/) wird erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie wir mit diesen Informationen umgehen und sie teilen.
 
 Mozilla ist ein weltweites Unternehmen und unsere Computer und die unserer Dienstanbieter können sich in verschiedenen Ländern weltweit befinden, darunter auch in den USA. Das bedeutet, dass Ihre Informationen auf Servern verarbeitet werden könnten, die sich außerhalb des Landes befinden, in dem Sie leben, und dass dieses Land andere Datenschutzgesetze haben kann als Ihres. Indem Sie uns die Informationen geben, stimmen Sie dieser Art von Übertragung Ihrer Informationen zu.
 
@@ -25,11 +25,11 @@ Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](http
 
 __Ihre Nutzung der Dienste.__ Mozilla erteilt Ihnen die Berechtigung, den Mozilla VPN-Dienst diesen Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Der Dienst darf nicht übertragen, unterlizenziert, wiederverkauft oder kommerziell genutzt werden.
 
-Sie erteilen Mozilla und Mullvad alle für den Betrieb des Dienstes erforderlichen Rechte, darunter das Recht zur Verarbeitung der von Ihnen hochgeladenen Daten oder den Zugriff darauf über den Dienst. Weitere Informationen über die Daten, die Mozilla und Mullvad verarbeiten, finden Sie im Mozilla VPN-[Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-vpn/).
+Sie erteilen Mozilla und Mullvad alle für den Betrieb des Dienstes erforderlichen Rechte, darunter das Recht zur Verarbeitung der von Ihnen hochgeladenen Daten oder den Zugriff darauf über den Dienst. Weitere Informationen über die Daten, die Mozilla und Mullvad verarbeiten, finden Sie im [Mozilla VPN-Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-vpn/).
 
 Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
-__Ihre Lizenz zur Nutzung der Software.__ Die Mozilla VPN-Software wird Ihnen unter den Bedingungen der Mozilla Public License zur Verfügung gestellt.
+__Ihre Lizenz für die Nutzung des Dienstes.__ Die Mozilla VPN-Software wird Ihnen unter den Bedingungen der [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) zur Verfügung gestellt.
 
 __Ihr Feedback und Ihre Vorschläge.__ Falls Sie Mozilla Ideen, Vorschläge oder Feedback über Firefox-Konten oder die von Ihnen über Ihr Konto genutzten Dienste übermitteln, erteilen Sie Mozilla das Recht, diese kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 
@@ -37,11 +37,11 @@ __Geistiges Eigentum von Mozilla.__ Weder Mozilla noch seine Lizenzgeber erteile
 
 ## Ihre Zahlung und Geräte
 
-__Zahlung.__ Wir bieten Mozilla VPN als Monatsabonnement mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung die Abonnementgebühren für den ersten Monat des Dienstes der von Ihnen angegebenen Zahlungskarte in Rechnung zu stellen. Ihr Plan wird automatisch jeden Monat verlängert und Sie genehmigen uns, die monatlichen Abonnementgebühren jeden Monat in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
+__Zahlung.__ Wie bieten Mozilla VPN als Abonnementdienst mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit des Dienstes der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
 
 __Gerätelimit.__ So lange Ihr Abonnement aktiv ist, können Sie bis zu 5 Geräte mit Mozilla VPN verbinden.
 
-__30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Mozilla VPN zum ersten Mal abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihr erstes Monatsabonnement zurück erstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
+__30 Tage Rückgaberecht mit Erstattung.__ Wenn Sie Mozilla VPN zum ersten Mal abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
 ## Sie können Ihr Abonnement jederzeit kündigen
 
@@ -67,7 +67,7 @@ Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir s
 
 * __Beendigung.__ Diese Bedingungen gelten, bis Sie oder Mozilla sich entscheiden, sie zu kündigen. Sie können sie jederzeit und aus beliebigem Grund kündigen, indem Sie den Service einfach nicht mehr nutzen und Ihr Abonnement stornieren. Mozilla kann den Zugriff jeglicher Personen auf den Dienst jederzeit aus beliebigem Grund aussetzen oder beenden, einschließlich dem Grund, dass Mozilla sich entschlossen hat, den Dienst einzustellen. Falls wir beschließen, Ihren Zugriff auszusetzen oder zu beenden, werden wir versuchen, Sie unter der Ihrem Konto zugeordneten E-Mail-Adresse oder bei Ihrem nächsten Versuch, auf das Konto zuzugreifen, zu benachrichtigen.
 
-  Falls wir Ihren Zugriff auf den Dienst ohne spezifische Angabe von Gründen beenden, haben Sie weiter für den aktuellen Abrechnungszeitraum Zugriff auf den Dienst, ansonsten werden wir den Betrag für den aktuellen Monat zurückerstatten. Wir behalten uns aber das Recht vor, Ihre Nutzung des Dienstes sofort zu beenden, wenn wir angemessenen Grund zu der Annahme haben, dass Sie die Nutzungsbedingungen verletzt, eine betrügerische Zahlung wie z. B. unter Verwendung einer gestohlenen Zahlungskarte getätigt oder diese Bedingungen auf sonstige Weise verletzt haben.
+  Falls wir Ihren Zugriff auf den Dienst ohne spezifische Angabe von Gründen beenden, haben Sie weiter für den aktuellen Abrechnungszeitraum Zugriff auf den Dienst, ansonsten werden wir den Betrag für die aktuelle Laufzeit zurückerstatten. Wir behalten uns aber das Recht vor, Ihre Nutzung des Dienstes sofort zu beenden, wenn wir angemessenen Grund zu der Annahme haben, dass Sie die Nutzungsbedingungen verletzt, eine betrügerische Zahlung wie z. B. unter Verwendung einer gestohlenen Zahlungskarte getätigt oder diese Bedingungen auf sonstige Weise verletzt haben.
 
 * __Wahl des Rechtsgebiets.__ Für diesen Vertrag gelten die Gesetze des US-Bundesstaats Kalifornien ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte ein Konflikt zwischen der englischsprachigen Originalversion dieses Vertrags und einer Übersetzung vorlegen, hat die englischsprachige Originalversion Vorrang.
 
