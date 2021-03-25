@@ -71,11 +71,12 @@ Sekirannya anda batalkan langganan, pembaharuan automatik juga akan berhenti, ka
 
 * __Pilihan Perundangan.__ Undang-undang California terpakai dalam kontrak ini, kecuali undang-undang konflik California. Jika terdapat sebarang konflik antara kontrak versi Inggeris ini dengan versi yang diterjemahkan, versi Inggeris ini terpakai.
 
-## Hubungi Mozilla
+## Contact Mozilla
 
 Mozilla Corporation  
-Perhatian: Mozilla – Notis Perundangan   
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+Attn: Mozilla – Legal Notices  
+2 Harrison St. #175,  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com
+
