@@ -25,7 +25,7 @@ Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](http
 
 __Ihre Nutzung der Dienste.__ Mozilla erteilt Ihnen die Berechtigung, den Mozilla VPN-Dienst diesen Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Der Dienst darf nicht übertragen, unterlizenziert, wiederverkauft oder kommerziell genutzt werden.
 
-Sie erteilen Mozilla und Mullvad alle für den Betrieb des Dienstes erforderlichen Rechte, darunter das Recht zur Verarbeitung der von Ihnen hochgeladenen Daten oder den Zugriff darauf über den Dienst. Weitere Informationen über die Daten, die Mozilla und Mullvad verarbeiten, finden Sie im Mozilla VPN-[Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-vpn/).
+Sie erteilen Mozilla und Mullvad alle für den Betrieb des Dienstes erforderlichen Rechte, darunter das Recht zur Verarbeitung der von Ihnen hochgeladenen Daten oder den Zugriff darauf über den Dienst. Weitere Informationen über die Daten, die Mozilla und Mullvad verarbeiten, finden Sie im [Mozilla VPN-Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-vpn/).
 
 Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
