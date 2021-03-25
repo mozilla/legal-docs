@@ -71,11 +71,11 @@ Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous 
 
 * __Juridiction.__ La loi de Californie s’applique à ce contrat, sauf en cas de conflit de lois de Californie. En cas de conflit entre cette version en anglais du contrat et une de ses traductions, la version en anglais s’appliquera.
 
-## Contacter Mozilla
+## Contact Mozilla
 
 Mozilla Corporation  
-À l’attention de : Mozilla – Legal Notices  
+Attn: Mozilla – Legal Notices  
 2 Harrison St. #175,  
-San Francisco, CA 94105, États-Unis  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com
