@@ -1,7 +1,7 @@
 # Mozilla VPN Terms of Service
 
-Version 3.1, effective April 14, 2021
-{: datetime="2021-04-14" }
+Version 3.1, effective April 28, 2021
+{: datetime="2021-04-28" }
 
 Mozilla VPN (“Service”) is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
@@ -29,25 +29,28 @@ You give Mozilla and Mullvad all rights necessary to operate the Service, includ
 
 You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the content you transmit and the consequences.
 
+__Device Limit.__ When your subscription is active, you can connect up to 5 devices to Mozilla VPN.
+
 __Your License to Use the Software.__ The Mozilla VPN software is made available to you under the terms of the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/).
 
 __Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about Firefox Accounts or the services you use through your account, you give Mozilla permission to use them for free and without any additional obligations.
 
 __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant you any intellectual property rights in the Service that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any copyrights, trademarks, or other distinctive brand features of Mozilla or its licensors. The Mozilla software is distributed under and subject to the current version of the Mozilla Public License, or other similarly permissive licenses.
 
-## Your Payment and Devices
+## Your Payment
 
 __Payment.__ We offer Mozilla VPN as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
-__Device Limit.__ When your subscription is active, you can connect up to 5 devices to Mozilla VPN.
+__30-Day Refund Policy.__ The first time you subscribe to Mozilla VPN through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
-__30-Day Refund Policy.__ The first time you subscribe to Mozilla VPN, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
+__Purchasing an Apple iTunes Subscription.__ If you purchased your subscription through in-app purchase from the Apple App Store, your payment is subject to the terms and conditions of the Apple App Store. You must direct any billing and refund inquiries for such purchases to Apple.
+
 
 ## You May Cancel Your Subscription at Any Time
 
-You may cancel your subscription to Mozilla VPN at any time by deactivating your account and cancelling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the [Subscriptions & Payments](https://subscriptions.firefox.com) Section of your Firefox Account and clicking “Cancel.”
+__Cancellation.__ You may cancel your subscription to Mozilla VPN at any time by deactivating your account and cancelling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the [Subscriptions & Payments](https://subscriptions.firefox.com) Section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
 
-If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
+If you purchased your subscription through in-app purchase from Apple App Store, you can [cancel your subscription] (https://support.apple.com/en-us/HT202039) via Subscriptions on your Apple device. 
 
 ## You Are Responsible For the Consequences of Your Use of the Service
 
