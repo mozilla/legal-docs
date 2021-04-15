@@ -1,7 +1,7 @@
 # Mozilla VPN Servicebedingungen
 
-Version 3.1 – Aktualisiert am Mittwoch, 14. April 2021
-{: datetime="2021-04-14" }
+Version 3.1 – Aktualisiert am Mittwoch, 28. April 2021
+{: datetime="2021-04-28" }
 
 Mozilla VPN („Dienst“) ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
 
@@ -29,25 +29,27 @@ Sie erteilen Mozilla und Mullvad alle für den Betrieb des Dienstes erforderlich
 
 Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
+__Gerätelimit.__ So lange Ihr Abonnement aktiv ist, können Sie bis zu 5 Geräte mit Mozilla VPN verbinden.
+
 __Ihre Lizenz für die Nutzung des Dienstes.__ Die Mozilla VPN-Software wird Ihnen unter den Bedingungen der [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) zur Verfügung gestellt.
 
 __Ihr Feedback und Ihre Vorschläge.__ Falls Sie Mozilla Ideen, Vorschläge oder Feedback über Firefox-Konten oder die von Ihnen über Ihr Konto genutzten Dienste übermitteln, erteilen Sie Mozilla das Recht, diese kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 
 __Geistiges Eigentum von Mozilla.__ Weder Mozilla noch seine Lizenzgeber erteilen Ihnen Rechte an geistigem Eigentum des Service, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Bedingungen keine Copyright- oder Urheberrechte, Rechte an Marken oder anderen charakteristischen Markenmerkmalen von Mozilla oder seinen Lizenzgebern. Die Mozilla-Software wird im Rahmen der jeweils aktuellen Version der Mozilla Public License bzw. aller anderen ähnlichen Lizenzen verteilt und unterliegt diesen.
 
-## Ihre Zahlung und Geräte
+## Ihre Zahlung
 
 __Zahlung.__ Wie bieten Mozilla VPN als Abonnementdienst mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit des Dienstes der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
 
-__Gerätelimit.__ So lange Ihr Abonnement aktiv ist, können Sie bis zu 5 Geräte mit Mozilla VPN verbinden.
+__30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Mozilla VPN zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
-__30 Tage Rückgaberecht mit Erstattung.__ Wenn Sie Mozilla VPN zum ersten Mal abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
+__Kauf eines Apple iTunes-Abonnements.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des Apple App Store. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple gerichtet werden.
 
 ## Sie können Ihr Abonnement jederzeit kündigen
 
-Sie können Ihr Mozilla VPN-Abonnement jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement stornieren. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://subscriptions.firefox.com) in Ihrem Firefox-Konto und klicken auf „Abbrechen“.
+__Kündigung.__ Sie können Ihr Mozilla VPN-Abonnement jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement stornieren. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://subscriptions.firefox.com) in Ihrem Firefox-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Service am Ende des aktuellen Abrechnungszyklus.
 
-Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Service am Ende des aktuellen Abrechnungszyklus.
+Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store erworben haben, können Sie über „Abonnements“ auf Ihrem Apple-Gerät [Ihr Abonnement kündigen](https://support.apple.com/en-us/HT202039).
 
 ## Sie sind für die Konsequenzen Ihrer Nutzung des Dienstes verantwortlich
 
