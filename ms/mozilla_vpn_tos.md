@@ -1,7 +1,7 @@
 # Terma Perkhidmatan Mozilla VPN
 
-Versi 3.1, efektif pada 14 April 2021
-{: datetime="2021-04-14" } 
+Versi 3.1, berkuat kuasa pada 28 April 2021
+{: datetime="2021-04-28" }
 
 Mozilla VPN (“Perkhidmatan”) adalah Rangkaian Peribadi Maya yang bekerjasama dengan [Mullvad](https://mullvad.net). Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
@@ -29,25 +29,27 @@ Anda memberi Mozilla dan Mullvad semua hak yang diperlukan untuk mengendali Perk
 
 Anda juga bersetuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda beri dan akibatnya.
 
+__Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambungkan sehingga 5 peranti ke Mozilla VPN.
+
 __Lesen Anda Untuk Menggunakan Perisian.__ Perisian Mozilla VPN tersedia untuk anda gunakan di bawah syarat yang dinyatakan dalam [Lesen Mozilla Awam](https://www.mozilla.org/en-US/MPL/).
 
 __Ulasan dan Cadangan Anda.__ Sekiranya anda memberi Mozilla sebarang idea, cadangan, atau ulasan tentang Akaun Firefox atau perkhidmatan yang anda guna melalui akaun anda, anda membenarkan Mozilla untuk menggunakannya secara percuma dan tanpa sebarang obligasi tambahan.
 
 __Harta Intelek Mozilla.__ Mozilla atau pembekal lesennya tidak memberi anda sebarang hak harta intelek dalam Perkhidmatan yang tidak dinyatakan secara khusus dalam Terma ini. Contohnya, Terma ini tidak memberi hak untuk menggunakan sebarang hak cipta, tanda dagang, atau ciri jenama khas lain dari Mozilla atau pembekal lesennya. Perisian Mozilla diedarkan di bawah dan tertakluk kepada versi terkini Lesen Awam Mozilla, atau lesen lain yang berkaitan.
 
-## Bayaran dan Peranti Anda
+## Pembayaran Anda
 
 __Pembayaran.__ Mozilla VPN ditawarkan oleh pihak kami sebagai perkhidmatan langganan yang diperbaharui secara automatik. Ketika mendaftar, anda telah memberi kebenaran untuk pihak kami mengenakan yuran langganan bagi penggal pertama Perkhidmatan pada kaedah pembayaran yang telah anda pilih. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
 
-__Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambung sehingga 5 peranti ke Mozilla VPN.
+__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Mozilla VPN melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam tempoh masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
-__Polisi Pembayaran Balik Selama 30 Hari.__ Pada kali pertama anda melanggan Mozilla VPN, jika anda ingin membatalkan akaun dalam tempoh 30 hari pertama, anda layak untuk meminta pembayaran balik dan Mozilla akan mengembalikan bayaran bagi tempoh langganan pertama anda. Tawaran ini hanya layak digunakan jika ini kali pertama anda melanggan. Ini adalah penambahan bagi sebarang hak yang anda miliki di bawah undang-undang pengguna di negara anda.
+__Membeli Langganan Apple iTunes.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, pembayaran anda adalah tertakluk kepada terma dan syarat Apple App Store. Anda mesti memajukan kepada Apple sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
 
 ## Anda Boleh Batalkan Langganan Anda pada Bila-Bila Masa
 
-Anda boleh batalkan langganan Mozilla VPN anda pada bila-bila masa dengan nyahaktifkan akaun dan batalkan langganan anda. Anda boleh membatal langganan dengan mengklik pada pautan “Batal Langganan” dalam mana-mana e-mel yang kami hantar atau pergi ke Seksyen [Langganan & Bayaran](https://subscriptions.firefox.com) dalam Akaun Firefox anda dan klik “Batal”.
+__Pembatalan.__ Anda boleh membatalkan langganan Mozilla VPN pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke Bahagian [Langganan & Pembayaran](https://subscriptions.firefox.com) di Akaun Firefox anda dan klik “Batal.” Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
 
-Sekirannya anda batalkan langganan, pembaharuan automatik juga akan berhenti, kami tidak akan mengecaj anda untuk sebarang tempoh pembayaran masa depan, dan anda akan kehilangan akses kepada perkhidmatan pada akhir kitaran bil semasa.
+Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, anda boleh [membatalkan langganan anda](https://support.apple.com/en-us/HT202039) melalui Langganan pada peranti Apple anda.
 
 ## Anda Bertanggungjawab Atas Akibat Penggunaan Perkhidmatan oleh Anda
 
