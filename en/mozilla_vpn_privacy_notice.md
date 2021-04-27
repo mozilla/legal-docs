@@ -17,7 +17,7 @@ __Firefox Account information.__ This service requires a Firefox Account, which 
 
 __Location information.__ Mozilla VPN receives your IP address from your Firefox Account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
 
-__Payment Information.__ When you subscribe to Mozilla VPN, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details. 
+__Payment information.__ When you subscribe to Mozilla VPN, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details. 
 
 __Interaction data.__ Mozilla receives data about your interactions with Mozilla VPN, including when you log in and when you request the server list.
 
