@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
-Berkuat kuasa pada 05 Ogos 2020
-{: datetime="2020-08-05" }
+Berkuat kuasa pada 06 Mei 2021
+{: datetime="2021-05-06" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -17,19 +17,19 @@ __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan Akaun Firefox, yang meng
 
 __Maklumat lokasi.__ Mozilla VPN menerima alamat IP anda dari Akaun Firefox apabila anda mendaftar dan menggunakan perkhidmatannya. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
 
+__Maklumat pembayaran.__ Apabila melanggan Mozilla VPN, anda akan menghantar bayaran melalui salah satu penyedia pembayaran pihak ketiga kami: Stripe, Apple, PayPal, atau Google Pay. Mozilla menerima rekod akaun anda (termasuk alamat bil dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda. Mozilla tidak menyimpan butiran lengkap pembayaran anda.
+
 __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan Mozilla VPN, termasuk apabila anda log masuk dan bila anda meminta senarai pelayan.
 
 __Data teknikal.__ Mozilla menerima maklumat asas daripada Mozilla VPN tentang versi VPN yang dipasang dan peranti yang ia dipasangkan, termasuk sistem operasi dan konfigurasi perkakasan. Apabila Mozilla VPN bersambung ke pelayan kami untuk mengesahkan dan mengemas kini akaun Mozilla VPN anda, alamat IP anda akan dikumpul seketika sebagai sebahagian daripada log pelayan kami. Tiada log pelayan aktiviti rangkaian anda yang dikekalkan oleh rakan kongsi kami Mullvad semasa anda menggunakan perkhidmatan Mozilla VPN.
 
-Sila baca dokumen pengumpulan data teknikal dan interaksi [di sini](https://guardian-docs.herokuapp.com/api/swagger/#/). Kami menggunakan data tersebut untuk meningkatkan prestasi dan kestabilan untuk pengguna kami, dan untuk menilai prestasi Mozilla VPN.
+Kami menggunakan data tersebut untuk meningkatkan prestasi dan kestabilan untuk pengguna kami, dan untuk menilai prestasi Mozilla VPN.
 
 ### Maklumat yang kami kongsi {: #markup }
 
-Mozilla VPN berkongsi data dengan pihak ketiga tertentu untuk menyediakan perkhidmatan kepada anda. Mozilla mempunyai perjanjian bertulis dengan syarikat-syarikat ini yang mewajibkan mereka untuk melindungi maklumat anda secara kontrak. Syarikat-syarikat yang kami bekerjasama:
+Mozilla VPN berkongsi data untuk menyediakan perkhidmatan kepada anda. Mozilla mempunyai perjanjian bertulis dengan syarikat ini yang mewajibkan mereka untuk melindungi maklumat anda secara kontrak. Syarikat-syarikat yang kami bekerjasama:
 
 __Mullvad.__ Mullvad menerima trafik internet anda untuk menyediakan perkhidmatan tersebut. Apabila anda aktifkan Mozilla VPN, ia akan menyulitkan trafik internet anda dan hantar kepada Mullvad. Mullvad telah berjanji untuk tidak log sebarang data yang ia terima. Ketahui lebih lanjut di [Dasar Privasi Mullvad](https://mullvad.net/help/no-logging-data-policy/).
-
-__Stripe.__ Mozilla gunakan Stripe untuk memproses maklumat pembayaran anda. Mozilla menerima rekod langganan anda dan maklumat tentang status akaun langganan dan pembayaran anda. Mozilla tidak akan menerima atau menyimpan butiran pembayaran anda. Anda boleh ketahui amalan data Stripe lebih lanjut dengan membaca [Dasar Privasi Global](https://stripe.com/privacy) mereka.
 
 ### Soalan tentang data privasi? {: #markup }
 

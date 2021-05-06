@@ -1,21 +1,21 @@
 # Terma Perkhidmatan Mozilla VPN
 
-Versi 3.0, berkuat kuasa pada 15 Julai, 2020
-{: datetime="2020-07-15" }
+Versi 3.1, berkuat kuasa pada 28 April 2021
+{: datetime="2021-04-28" }
 
-(“Perkhidmatan”) Mozilla VPN adalah tawaran percubaan. Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
+Mozilla VPN (“Perkhidmatan”) adalah Rangkaian Peribadi Maya yang bekerjasama dengan [Mullvad](https://mullvad.net). Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
 Jika anda aktifkan Perkhidmatan ini, ia akan peribadikan trafik internet anda dari pembekal perkhidmatan internet dan kebanyakan laman web yang anda layari dengan menyulit dan menghalakan trafik anda melalui rangkaian rakan kongsi kami. Ia juga akan menggantikan alamat IP sebenar anda untuk memastikan alamat IP peribadi anda disembunyi dari orang lain, seperti laman web yang anda layari dan pembekal internet anda.
 
 ## Anda Mesti Layak untuk Menggunakan Perkhidmatan ini
 
-Anda mesti bertempat di Amerika Syarikat, Kanada, United Kingdom, New Zealand, Singapura, atau Malaysia untuk muat turun Mozilla VPN dan guna Perkhidmatannya. Akaun Firefox juga diperlukan untuk menggunakan Perkhidmatan ini.
+Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Buat masa sekarang, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, New Zealand, Jerman, Perancis, Singapura, dan Malaysia. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
 
 Untuk menghasilkan Akaun Firefox, anda perlu bersetuju kepada [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/firefox/) untuk Akaun Firefox anda.
 
 ## Privasi Anda
 
-__Privasi Anda.__ Notis Privasi Mozilla VPN menerangkan jenis maklumat yang dihantar apabila anda menggunakan Perkhidmatan ini dan bagaimana kami mengendali dan kongsi maklumat tersebut.
+__Privasi Anda.__ Notis [Privasi Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/) menerangkan maklumat yang dihantar apabila anda menggunakan Perkhidmatan ini, dan cara pihak kami mengurus dan berkongsi maklumat tersebut.
 
 Mozilla adalah organisasi global, dan komputer kami dan komputer pembekal perkhidmatan mungkin berada di beberapa negara di seluruh dunia, termasuk Amerika Syarikat. Ini bermakna maklumat anda mungkin diproses oleh pelayan yang berada di luar negara tempat tinggal anda, dan negara tersebut mungkin mempunyai peraturan perlindungan data yang berbeza daripada negara anda. Dengan memberi kami maklumat, anda bersetuju dengan pemindahan maklumat anda.
 
@@ -29,25 +29,27 @@ Anda memberi Mozilla dan Mullvad semua hak yang diperlukan untuk mengendali Perk
 
 Anda juga bersetuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda beri dan akibatnya.
 
-__Lesen Anda untuk Menggunakan Perisian.__ Perisian Mozilla VPN adalah tersedia untuk anda di bawah terma Lesen Awam Mozilla.
+__Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambungkan sehingga 5 peranti ke Mozilla VPN.
+
+__Lesen Anda Untuk Menggunakan Perisian.__ Perisian Mozilla VPN tersedia untuk anda gunakan di bawah syarat yang dinyatakan dalam [Lesen Mozilla Awam](https://www.mozilla.org/en-US/MPL/).
 
 __Ulasan dan Cadangan Anda.__ Sekiranya anda memberi Mozilla sebarang idea, cadangan, atau ulasan tentang Akaun Firefox atau perkhidmatan yang anda guna melalui akaun anda, anda membenarkan Mozilla untuk menggunakannya secara percuma dan tanpa sebarang obligasi tambahan.
 
 __Harta Intelek Mozilla.__ Mozilla atau pembekal lesennya tidak memberi anda sebarang hak harta intelek dalam Perkhidmatan yang tidak dinyatakan secara khusus dalam Terma ini. Contohnya, Terma ini tidak memberi hak untuk menggunakan sebarang hak cipta, tanda dagang, atau ciri jenama khas lain dari Mozilla atau pembekal lesennya. Perisian Mozilla diedarkan di bawah dan tertakluk kepada versi terkini Lesen Awam Mozilla, atau lesen lain yang berkaitan.
 
-## Bayaran dan Peranti Anda
+## Pembayaran Anda
 
-__Bayaran.__ Kami menawar Mozilla VPN sebagai langganan yang diperbaharui secara automatik setiap bulan. Apabila anda mendaftar, anda membenarkan kami untuk megenakan bayaran pada kad anda sebagai yuran langganan untuk bulan pertama Perkhidmatan. Pelan anda diperbaharui secara automatik setiap bulan, dan anda memberi keizinan kepada kami untuk mengecaj yuran langganan bulanan setiap bulan. Sekiranya anda berhenti membayar, akaun anda akan digantung dengan segera, dan kami mungkin memadamkan akaun anda selepas 2 bulan tidak membayar.
+__Pembayaran.__ Mozilla VPN ditawarkan oleh pihak kami sebagai perkhidmatan langganan yang diperbaharui secara automatik. Ketika mendaftar, anda telah memberi kebenaran untuk pihak kami mengenakan yuran langganan bagi penggal pertama Perkhidmatan pada kaedah pembayaran yang telah anda pilih. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
 
-__Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambung sehingga 5 peranti ke Mozilla VPN.
+__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Mozilla VPN melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam tempoh masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
-__Polisi Bayaran Balik 30-Hari.__ Jika anda melanggan Mozilla VPN untuk kali pertama, dan batal akaun anda dalam tempoh 30 hari, anda boleh meminta bayaran balik dan Mozilla akan membayar balik langganan bulan pertama anda. Tawaran ini hanya boleh digunakan pada kali pertama anda melanggan. Ini adalah tambahan kepada sebarang hak yang anda perolehi di bawah undang-undang pengguna negara anda.
+__Membeli Langganan Apple iTunes.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, pembayaran anda adalah tertakluk kepada terma dan syarat Apple App Store. Anda mesti memajukan kepada Apple sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
 
 ## Anda Boleh Batalkan Langganan Anda pada Bila-Bila Masa
 
-Anda boleh batalkan langganan Mozilla VPN anda pada bila-bila masa dengan nyahaktifkan akaun dan batalkan langganan anda. Anda boleh membatal langganan dengan mengklik pada pautan “Batal Langganan” dalam mana-mana e-mel yang kami hantar atau pergi ke Seksyen [Langganan & Bayaran](https://subscriptions.firefox.com) dalam Akaun Firefox anda dan klik “Batal”.
+__Pembatalan.__ Anda boleh membatalkan langganan Mozilla VPN pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke Bahagian [Langganan & Pembayaran](https://subscriptions.firefox.com) di Akaun Firefox anda dan klik “Batal.” Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
 
-Sekirannya anda batalkan langganan, pembaharuan automatik juga akan berhenti, kami tidak akan mengecaj anda untuk sebarang tempoh pembayaran masa depan, dan anda akan kehilangan akses kepada perkhidmatan pada akhir kitaran bil semasa.
+Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, anda boleh [membatalkan langganan anda](https://support.apple.com/en-us/HT202039) melalui Langganan pada peranti Apple anda.
 
 ## Anda Bertanggungjawab Atas Akibat Penggunaan Perkhidmatan oleh Anda
 
@@ -67,15 +69,16 @@ Sekirannya anda batalkan langganan, pembaharuan automatik juga akan berhenti, ka
 
 * __Penamatan.__ Terma ini terpakai sehingga anda atau Mozilla membuat keputusan untuk menamatkannya. Anda boleh menamatkannya pada bila-bila masa untuk sebarang sebab dengan hentikan penggunaan Perkhidmatan dan batalkan langganan anda. Mozilla boleh menggantung atau menamatkan akses kepada Perkhidmatan pada bila-bila masa untuk sebarang sebab, termasuk jika Mozilla memutus untuk menamatkan Perkhidmatan ini. Jika kami memutus untuk menggantung atau menamatkan akses anda, kami akan cuba memberitahu anda di alamat e-mel yang berkaitan dengan akaun anda atau bila anda cuba mengakses akaun anda.
 
-  Jika kami menamatkan akses anda pada Perkhidmatan tanpa sebab yang khusus, anda boleh berterusan untuk mengakses Perkhidmatan untuk tempoh bil semasa atau kami akan membayar balik yuran bulan semasa. Bagaimanapun, kami berhak untuk menamatkan penggunaan Perkhidmatan anda dengan segera jika kami percaya bahawa anda telah melanggar Syarat Penggunaan, telah membuat bayaran palsu, seperti menggunakan kad pembayaran yang dicuri, atau melanggar Terma ini.
+  Jika anda menamatkan akses kepada Perkhidmatan ini tanpa sebarang alasan kukuh, anda masih boleh mengakses Perkhidmatan ini sepanjang tempoh pembayaran semasa atau pihak kami akan membayar balik tempoh langganan semasa itu. Walau bagaimanapun, pihak kami berhak untuk menamatkan penggunaan Perkhidmatan ini jika kami yakin anda telah melanggar Syarat Penggunaan, menggunakan kaedah pembayaran palsu seperti penggunaan kad pembayaran yang dicuri, atau anda telah melanggar Syarat Penggunaan ini dengan apa cara sekalipun.
 
 * __Pilihan Perundangan.__ Undang-undang California terpakai dalam kontrak ini, kecuali undang-undang konflik California. Jika terdapat sebarang konflik antara kontrak versi Inggeris ini dengan versi yang diterjemahkan, versi Inggeris ini terpakai.
 
 ## Hubungi Mozilla
 
-Mozilla Corporation
-Perhatian: Mozilla – Notis Perundangan  
-331 E. Evelyn Ave., 
-Mountain View, CA 94041
+Mozilla Corporation  
+Attn: Mozilla – Legal Notices  
+2 Harrison St. #175,  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com
+

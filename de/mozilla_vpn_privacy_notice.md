@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-Gültig ab 5. August 2020
-{: datetime="2020-08-05" }
+Gültig ab Mittwoch, 06. Mai 2021
+{: datetime="2021-05-06" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 
@@ -17,19 +17,19 @@ __Firefox-Kontoinformationen.__ Für diesen Dienst ist ein Firefox-Konto erforde
 
 __Ortsinformationen.__ Mozilla VPN erhält Ihre IP-Adresse von Ihrem Firefox-Konto, wenn Sie sich registrieren und den Dienst nutzen. Wir verwenden die IP-Adresse, um Ihren ungefähren Ort zu bestimmen, weil Mozilla VPN derzeit nur in bestimmten Ländern verfügbar ist.
 
+__Informationen zur Zahlung.__ Wenn Sie Mozilla VPN abonnieren, bezahlen Sie über einen der folgenden externen Zahlungsanbieter: Stripe, Apple, PayPal oder Google Pay. Mozilla erhält bestimmte Informationen zu Ihrem Konto, darunter die Rechnungsadresse und die letzten vier Ziffern der von Ihnen gewählten Zahlungsweise, und zum Status des Abonnements Ihres Kontos. Die vollständigen Zahlungsdaten werden von Mozilla nicht gespeichert.
+
 __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit Mozilla VPN, darunter wann Sie sich anmelden und wann Sie die Serverliste anfordern.
 
 __Technische Daten.__ Mozilla erhält grundlegende Informationen über die installierte VPN-Version und die Geräte, auf der diese installiert ist, einschließlich Betriebssystem und Hardwarekonfiguration, von Mozilla VPN. Wenn Mozilla VPN eine Verbindung mit unseren Servern herstellt, um Ihr Mozilla VPN-Konto zu authentifizieren und zu aktualisieren, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst. Unser Partner Mullvad führt keine Server-Logs Ihrer Netzwerkaktivität, wenn Sie den Mozilla VPN-Dienst verwenden.
 
-Die technische Dokumentation und die Dokumentation zur Erfassung von Interaktionsdaten finden Sie [hier](https://guardian-docs.herokuapp.com/api/swagger/#/). Wir verwenden die Daten, um die Leistung und Stabilität für unsere Benutzer zu verbessern und die Leistung von Mozilla VPN zu messen.
+Wir verwenden die Daten, um die Leistung und Stabilität für unsere Benutzer zu verbessern und die Leistung von Mozilla VPN zu messen.
 
 ### Von uns geteilte Informationen {: #markup }
 
-Mozilla VPN teilt Daten mit bestimmten Dritten, um Ihnen den Dienst bereitzustellen. Mozilla hat schriftliche Vereinbarungen mit diesen Unternehmen, in denen diese vertraglich dazu verpflichtet sind, Ihre Daten zu schützen. Wir arbeiten mit den folgenden Anbietern zusammen:
+Mozilla VPN teilt Daten, um Ihnen den Dienst bereitzustellen. Mozilla hat mit diesem Unternehmen schriftliche Vereinbarungen getroffen, durch die dieses vertraglich zum Schutz Ihrer Daten verpflichtet ist. Wir arbeiten mit dem folgenden Anbieter zusammen:
 
 __Mullvad.__ Mullvad empfängt Ihren Internet-Traffic, um den Dienst bereitzustellen. Wenn Sie Mozilla VPN aktivieren, wird Ihr Internet-Traffic verschlüsselt und an Mullvad gesendet. Mullvad hat sich dazu verpflichtet, keine der erhaltenen Daten zu protokollieren oder aufzuzeichnen. Weitere Informationen finden Sie in der [Datenschutzerklärung von Mullvad](https://mullvad.net/help/no-logging-data-policy/).
-
-__Stripe.__ Mozilla setzt Stripe zur Verarbeitung Ihrer Zahlungsinformationen ein. Mozilla erhält einen Datensatz zu Ihrem Abonnement sowie Informationen über den Abonnement- und Zahlungsstatus Ihres Kontos. Mozilla erhält oder speichert keine Ihrer Zahlungsinformationen. Weitere Informationen über die Datenpraktiken von Stripe finden Sie in der [globalen Datenschutzerklärung](https://stripe.com/privacy) des Unternehmens.
 
 ### Fragen zum Datenschutz? {: #markup }
 
