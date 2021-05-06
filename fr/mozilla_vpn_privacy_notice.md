@@ -1,6 +1,6 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy"> - Politique de confidentialité</span>
 
-Date d’effet : mercredi 06 mai 2021
+Date d’effet : mercredi 6 mai 2021
 {: datetime="2021-05-06" }
 
 ## Chez Mozilla, nous concevons des produits respectant votre confidentialité.
