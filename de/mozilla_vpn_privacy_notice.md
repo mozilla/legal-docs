@@ -23,7 +23,7 @@ __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit Mozill
 
 __Technische Daten.__ Mozilla erhält grundlegende Informationen über die installierte VPN-Version und die Geräte, auf der diese installiert ist, einschließlich Betriebssystem und Hardwarekonfiguration, von Mozilla VPN. Wenn Mozilla VPN eine Verbindung mit unseren Servern herstellt, um Ihr Mozilla VPN-Konto zu authentifizieren und zu aktualisieren, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst. Unser Partner Mullvad führt keine Server-Logs Ihrer Netzwerkaktivität, wenn Sie den Mozilla VPN-Dienst verwenden.
 
-Die technische Dokumentation und die Dokumentation zur Erfassung von Interaktionsdaten finden Sie [hier](https://guardian-docs.herokuapp.com/api/swagger/#/). Wir verwenden die Daten, um die Leistung und Stabilität für unsere Benutzer zu verbessern und die Leistung von Mozilla VPN zu messen.
+Wir verwenden die Daten, um die Leistung und Stabilität für unsere Benutzer zu verbessern und die Leistung von Mozilla VPN zu messen.
 
 ### Von uns geteilte Informationen {: #markup }
 
