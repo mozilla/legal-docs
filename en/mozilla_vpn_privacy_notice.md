@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-Effective April 28, 2021
-{: datetime="2021-04-28" }
+Effective May 6, 2021
+{: datetime="2021-05-06" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
