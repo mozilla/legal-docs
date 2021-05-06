@@ -1,6 +1,6 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
-Berkuat kuasa pada 06 Mei 2021
+Berkuat kuasa pada 6 Mei 2021
 {: datetime="2021-05-06" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
