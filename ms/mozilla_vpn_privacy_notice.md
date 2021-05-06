@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
-Berkuat kuasa pada 28 April 2021
-{: datetime="2021-04-28" }
+Berkuat kuasa pada 06 Mei 2021
+{: datetime="2021-05-06" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -23,7 +23,7 @@ __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan Mozilla 
 
 __Data teknikal.__ Mozilla menerima maklumat asas daripada Mozilla VPN tentang versi VPN yang dipasang dan peranti yang ia dipasangkan, termasuk sistem operasi dan konfigurasi perkakasan. Apabila Mozilla VPN bersambung ke pelayan kami untuk mengesahkan dan mengemas kini akaun Mozilla VPN anda, alamat IP anda akan dikumpul seketika sebagai sebahagian daripada log pelayan kami. Tiada log pelayan aktiviti rangkaian anda yang dikekalkan oleh rakan kongsi kami Mullvad semasa anda menggunakan perkhidmatan Mozilla VPN.
 
-Sila baca dokumen pengumpulan data teknikal dan interaksi [di sini](https://guardian-docs.herokuapp.com/api/swagger/#/). Kami menggunakan data tersebut untuk meningkatkan prestasi dan kestabilan untuk pengguna kami, dan untuk menilai prestasi Mozilla VPN.
+Kami menggunakan data tersebut untuk meningkatkan prestasi dan kestabilan untuk pengguna kami, dan untuk menilai prestasi Mozilla VPN.
 
 ### Maklumat yang kami kongsi {: #markup }
 
