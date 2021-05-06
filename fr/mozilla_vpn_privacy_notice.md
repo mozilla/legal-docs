@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy"> - Politique de confidentialité</span>
 
-Date d’effet : mercredi 28 avril 2021
-{: datetime="2021-04-28" }
+Date d’effet : mercredi 28 mai 2021
+{: datetime="2021-05-06" }
 
 ## Chez Mozilla, nous concevons des produits respectant votre confidentialité.
 
@@ -23,7 +23,7 @@ __Données d’interaction.__ Mozilla reçoit des données concernant vos intera
 
 __Données techniques.__ Mozilla reçoit des informations de base de Mozilla VPN concernant la version VPN installée et les appareils sur lesquels elle est installée, notamment le système d’exploitation et la configuration matérielle. Lorsque Mozilla VPN se connecte à nos serveurs pour authentifier et mettre à jour votre compte Mozilla VPN, votre adresse IP est temporairement collectée par nos journaux de serveurs. Notre partenaire Mullvad ne conserve pas les journaux de serveurs enregistrant votre activité réseau lorsque vous utilisez le service Mozilla VPN.
 
-Lisez la documentation technique et celle concernant la collecte de données d’interaction [ici](https://guardian-docs.herokuapp.com/api/swagger/#/). Nous utilisons les données pour améliorer les performances et la stabilité pour nos utilisateurs, et mesurer les performances de Mozilla VPN.
+Nous utilisons les données pour améliorer les performances et la stabilité pour nos utilisateurs, et mesurer les performances de Mozilla VPN.
 
 ### Informations que nous partageons {: #markup }
 
