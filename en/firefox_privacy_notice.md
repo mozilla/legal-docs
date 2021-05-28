@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective March 1, 2021*
-{: datetime="2021-03-1" }
+*Effective May 28, 2021*
+{: datetime="2021-05-28" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -80,12 +80,6 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
     _On Android_: Firefox by default sends mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
 {: #thirdparty }
-
-* __Technical & Interaction Data__:
-
-    _On iOS and Android_: Firefox by default sends data about what features you use in Firefox to Leanplum, our mobile marketing vendor, which has its own [privacy policy](https://www.leanplum.com/privacy/).  This data allows us to test different features and experiences, as well as provide customized messages and recommendations for improving your experience with Firefox.
-
-    Read the documentation for [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/Docs/MMA.md) or [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html), or learn how to [disable this feature](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
