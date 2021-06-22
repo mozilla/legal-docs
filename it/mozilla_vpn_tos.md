@@ -77,8 +77,8 @@ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store
 ## Come contattare Mozilla
 
 Mozilla Corporation  
-Att.: Mozilla - Avvisi legali  
+Attn: Mozilla – Legal Notices  
 2 Harrison St. #175,  
-San Francisco, CA 94105, U.S.A.  
+San Francisco, CA 94105 USA 
 
 legal-notices@mozilla.com
