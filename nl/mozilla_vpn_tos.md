@@ -79,6 +79,6 @@ Als u uw abonnement hebt aangeschaft via een aankoop binnen een app via de Apple
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
 2 Harrison St. #175,  
-San Francisco, CA 94105  
+San Francisco, CA 94105 USA 
 
 legal-notices@mozilla.com
