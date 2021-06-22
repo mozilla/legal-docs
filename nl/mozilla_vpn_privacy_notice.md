@@ -31,7 +31,7 @@ Mozilla VPN deelt gegevens om u de service te kunnen bieden. Mozilla beschikt ov
 
 __Mullvad.__ Mullvad ontvangt uw internetverkeer voor het verzorgen van deze service. Wanneer u Mozilla VPN activeert, versleutelt dit uw internetverkeer en verzendt Mozilla VPN dit naar Mullvad. Mullvad heeft zich ertoe verbonden geen van de gegevens die het ontvangt, in logboeken te registreren. Lees het [privacybeleid van Mullvad](https://mullvad.net/help/no-logging-data-policy/) voor meer informatie.
 
-###Vragen over gegevensprivacy? {: #markup }
+### Vragen over gegevensprivacy? {: #markup }
 
 Veel van de informatie die we bewaren over onze Firefox-accountgebruikers is eenvoudig toegankelijk door u aan te melden bij uw account. [Hier](https://support.mozilla.org/products/privacy-and-security/user-control) vindt u meer informatie over het beheren van uw gegevens. Neem contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) voor aanvragen.
 
