@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective May 28, 2021*
-{: datetime="2021-05-28" }
+*Effective July 12, 2021*
+{: datetime="2021-07-12" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -39,7 +39,7 @@ Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on
 
     Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Adzerk so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
-* __Location data and Interaction data for Top Sites__: When you click the Amazon.com Top Site tile on New Tab, we share your country and the time you clicked with Amazon and AdMarketplace (a third-party referral platform) to verify you navigated to Amazon. Firefox does not share your IP address or any other information that could be used to identify you with either Amazon or AdMarketplace.
+* __Location data and Interaction data for Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
 * __Add-on and Feature Recommendations__: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend Firefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The process happens locally in your own computer’s copy of Firefox. Learn More about [Awesome Bar recommendations](https://support.mozilla.org/kb/extension-recommendations) or [Extensions Page recommendations](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
