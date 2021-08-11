@@ -1,7 +1,7 @@
 # Mozilla VPN Terms of Service
 
-Version 3.1, effective April 28, 2021
-{: datetime="2021-04-28" }
+Version 3.2, effective August 11, 2021
+{: datetime="2021-08-11" }
 
 Mozilla VPN (“Service”) is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
@@ -9,7 +9,7 @@ If you activate this Service, it keeps your internet traffic private from your i
 
 ## You Must Be Eligible to Use the Service
 
-You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in United States, Canada, United Kingdom, New Zealand, Germany, France, Singapore, and Malaysia. A Firefox Account is required to use the Service.
+You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in the United States, Canada, the United Kingdom, Germany, France, Italy, Spain, Belgium, Austria, Switzerland, Malaysia, New Zealand, and Singapore. A Firefox Account is required to use the Service.
 
 To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
 
