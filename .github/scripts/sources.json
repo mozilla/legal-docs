@@ -1,0 +1,29 @@
+{
+    "source_folders": [
+        "en-DE",
+        "en"
+    ],
+    "translated_docs": [
+        "en-DE/klar_privacy_notice.md",
+        "en/acceptable_use_policy.md",
+        "en/common_voice_privacy_notice.md",
+        "en/common_voice_terms.md",
+        "en/firefox_about_rights.md",
+        "en/firefox_cloud_services_tos.md",
+        "en/firefox_lite_contentservices_reward.md",
+        "en/firefox_lite_contentservices_tos.md",
+        "en/firefox_lite_privacy_notice.md",
+        "en/firefox_os_privacy_notice.md",
+        "en/firefox_privacy_notice.md",
+        "en/focus_privacy_notice.md",
+        "en/mobile_partner_website_branding_terms.md",
+        "en/mobile_partner_website_prototype_agreement.md",
+        "en/mozilla_privacy_policy.md",
+        "en/mozilla_vpn_privacy_notice.md",
+        "en/mozilla_vpn_tos.md",
+        "en/ossn_site_privacy_notice.md",
+        "en/websites_privacy_notice.md",
+        "en/websites_tou.md"
+    ]
+}
+
