@@ -53,8 +53,9 @@ jobs:
           # Restore files from the default branch
           cp -r ../temp_files/* ./
       - name: Commit changes to l10n_updates branch
+        continue-on-error: true
         run: |
-          # Commit changes
+          # Commit changes. Failure is allowed if there is nothing to commit.
           cd clone
           git add .
           git commit -m "Update documents relevant for l10n"
