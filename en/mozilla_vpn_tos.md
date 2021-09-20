@@ -50,7 +50,9 @@ __Purchasing through Apple or Google App Stores.__ If you purchased your subscri
 
 __Cancellation.__ You may cancel your subscription to Mozilla VPN at any time by deactivating your account and cancelling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the [Subscriptions & Payments](https://subscriptions.firefox.com) Section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
 
-If you purchased your subscription through in-app purchase from Apple App Store, you can [cancel your subscription] (https://support.apple.com/en-us/HT202039) via Subscriptions on your Apple device. 
+If you purchased your subscription through in-app purchase from Apple App Store, you can [cancel your subscription](https://support.apple.com/en-us/HT202039) via Subscriptions on your Apple device. 
+
+If you purchased your subscription through in-app purchase from Google Play Store, you can [cancel your subscription](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid) via Subscriptions on your Android device.
 
 ## You Are Responsible For the Consequences of Your Use of the Service
 
