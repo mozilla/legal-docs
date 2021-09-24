@@ -1,7 +1,7 @@
 # Termini di servizio di Mozilla VPN
 
-Versione 3.1, in vigore dal 28 aprile 2021
-{: datetime="2021-04-28" }
+Versione 3.2, in vigore dal mercoledì 11 agosto 2021
+{: datetime="2021-08-11" }
 
 Mozilla VPN (il "Servizio") è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo del Servizio.
 
@@ -9,7 +9,7 @@ In seguito all'attivazione, questo Servizio nasconde il tuo traffico Internet al
 
 ## Requisiti di idoneità per usare il Servizio
 
-Per scaricare Mozilla VPN e usare il Servizio, devi risiedere in un Paese in cui è disponibile. Attualmente, il Servizio è disponibile nei seguenti Paesi: Stati Uniti, Canada, Regno Unito, Nuova Zelanda, Germania, Francia, Singapore e Malesia. Per utilizzare il Servizio è necessario un account Firefox.
+Per scaricare Mozilla VPN e usare il Servizio, è necessario risiedere in un Paese in cui è disponibile. Al momento, il Servizio è disponibile negli Stati Uniti, in Canada, nel Regno Unito, in Germania, Francia, Italia, Spagna, Belgio, Austria, Svizzera, Malesia, Nuova Zelanda e Singapore. Per utilizzare il Servizio è necessario un account Firefox.
 
 Per creare l'account Firefox, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox/) dell'account Firefox.
 
@@ -43,7 +43,7 @@ __Pagamento.__ Offriamo Mozilla VPN come servizio con abbonamento a rinnovo auto
 
 __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi a Mozilla VPN tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a favore dei consumatori nel tuo Paese.
 
-__Acquisto di un abbonamento su Apple iTunes.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Tutte le richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple.
+__Acquisto tramite App Store Apple o Google.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
 
 
 ## Puoi annullare l'abbonamento in qualsiasi momento
