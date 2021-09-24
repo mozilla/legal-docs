@@ -1,7 +1,7 @@
 # Mozilla VPN Servicebedingungen
 
-Version 3.1 – Aktualisiert am Mittwoch, 28. April 2021
-{: datetime="2021-04-28" }
+Version 3.2 – Aktualisiert am Mittwoch, 11. August 2021
+{: datetime="2021-08-11" }
 
 Mozilla VPN („Dienst“) ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
 
@@ -9,7 +9,7 @@ Falls Sie diesen Dienst aktivieren, bleibt Ihr Internet-Traffic für Ihren Inter
 
 ## Sie müssen für die Verwendung dieses Dienstes qualifiziert sein
 
-Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit wird der Dienst in folgenden Ländern angeboten: USA, Kanada, Vereinigtes Königreich, Neuseeland, Deutschland, Frankreich, Singapur, Malaysia. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
+Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit ist der Dienst in den USA, in Kanada, im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, Belgien, Österreich, der Schweiz, Malaysia, Neuseeland und Singapur verfügbar. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
 
 Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
 
@@ -43,7 +43,8 @@ __Zahlung.__ Wie bieten Mozilla VPN als Abonnementdienst mit automatischer Verl�
 
 __30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Mozilla VPN zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
-__Kauf eines Apple iTunes-Abonnements.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des Apple App Store. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple gerichtet werden.
+__Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
+
 
 ## Sie können Ihr Abonnement jederzeit kündigen
 
