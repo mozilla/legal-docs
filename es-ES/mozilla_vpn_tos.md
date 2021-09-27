@@ -1,7 +1,7 @@
 # Condiciones del servicio de Mozilla VPN
 
-Versión 3.1, en vigor desde el 28 de abril de 2021
-{: datetime="2021-04-28" }
+Versión 3.2, en vigor desde el miércoles, 11 de agosto de 2021
+{: datetime="2021-08-11" }
 
 Mozilla VPN («Servicio») es una red virtual privada creada en colaboración con [Mullvad](https://mullvad.net). Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso del Servicio.
 
@@ -9,7 +9,7 @@ Si activa este Servicio, su tráfico de Internet se cifrará y enrutará a trav�
 
 ## Debe cumplir determinados requisitos para usar el Servicio
 
-Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, se puede acceder a este Servicio desde Estados Unidos, Canadá, Reino Unido, Nueva Zelanda, Alemania, Francia, Singapur y Malasia. Se requiere una cuenta de Firefox para enviar archivos de gran tamaño.
+Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, este Servicio está disponible en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur. Se requiere una cuenta de Firefox para enviar archivos de gran tamaño.
 
 Para crear una cuenta de Firefox, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox/) de su cuenta de Firefox.
 
@@ -43,7 +43,7 @@ __Pago.__ Ofrecemos Mozilla VPN como un servicio de suscripción que se renueva 
 
 __Política de reembolso de 30 días.__ Si la primera vez que se suscribe a Mozilla VPN a través de la página web de Mozilla, cancela su cuenta tras los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
 
-__Comprar una suscripción a iTunes de Apple.__ Si compró su suscripción en App Store de Apple a través de la aplicación, su pago está sujeto a los términos y condiciones de App Store de Apple. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple.
+__Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si compró su suscripción en App Store de Apple o Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
 
 
 ## Puede cancelar su suscripción en cualquier momento
