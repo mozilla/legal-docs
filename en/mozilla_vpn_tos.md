@@ -43,7 +43,7 @@ __Payment.__ We offer Mozilla VPN as an automatically renewing subscription serv
 
 __30-Day Refund Policy.__ The first time you subscribe to Mozilla VPN through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
-__Purchasing an Apple iTunes Subscription.__ If you purchased your subscription through in-app purchase from the Apple App Store, your payment is subject to the terms and conditions of the Apple App Store. You must direct any billing and refund inquiries for such purchases to Apple.
+__Purchasing through Apple or Google App Stores.__ If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
 
 ## You May Cancel Your Subscription at Any Time

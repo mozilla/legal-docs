@@ -9,6 +9,7 @@ List of translated files (number of locales between parentheses):
 * firefox_lite_contentservices_reward.md (11)
 * firefox_lite_contentservices_tos.md (11)
 * firefox_lite_privacy_notice.md (12)
+* firefox_monitor_terms_privacy.md (18)
 * firefox_os_privacy_notice.md (44)
 * firefox_privacy_notice.md (28)
 * focus_privacy_notice.md (1)
@@ -28,7 +29,6 @@ List of files not translated:
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
 * firefox_lite_about_rights.md
-* firefox_monitor_terms_privacy.md
 * firefox_private_network_beta_privacy_notice.md
 * firefox_private_network_tos.md
 * firefox_reality_about_rights.md
