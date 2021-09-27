@@ -1,7 +1,7 @@
 # Voorwaarden van de Mozilla VPN Terms
 
-Versie 3.1, van kracht vanaf 28 april 2021
-{: datetime="2021-04-28" }
+Versie 3.2, van kracht vanaf woensdag 11 augustus 2021
+{: datetime="2021-08-11" }
 
 Mozilla VPN (de Service) is een Virtual Private Network dat wordt verzorgd in samenwerking met [Mullvad](https://mullvad.net). Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Service.
 
@@ -9,7 +9,7 @@ Als u deze Service activeert, wordt uw internetverkeer geheim gehouden voor uw i
 
 ## U moet in aanmerking komen om de Service te gebruiken
 
-U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. Momenteel is de Service beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Nieuw-Zeeland, Duitsland, Frankrijk, Singapore en Maleisië. Voor het gebruik van de Service is een Firefox-account vereist.
+U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De service is momenteel beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Maleisië, New Zeeland, en Singapore. Voor het gebruik van de Service is een Firefox-account vereist.
 
 Als u een Firefox-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en [Privacyverklaring](https://www.mozilla.org/privacy/firefox/) voor uw Firefox-account.
 
@@ -43,7 +43,7 @@ __Betaling.__ We bieden Mozilla VPN als een abonnementsservice die automatisch w
 
 __Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op Mozilla VPN abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen annuleert. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
 
-__Een Apple iTunes-abonnement aanschaffen.__ Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store, is uw betaling onderworpen aan de voorwaarden van de Apple App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple richten.
+__Aankopen via Apple of Google App winkels.__ Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store of de Google Play Store, is uw betaling onderworpen aan de voorwaarden van de App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple of Google richten.
 
 
 ## U kunt uw abonnement op elk gewenst moment opzeggen
