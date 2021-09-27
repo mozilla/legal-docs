@@ -1,6 +1,6 @@
 # Terma Perkhidmatan Mozilla VPN
 
-Versi 3.1, berkuat kuasa pada 28 April 2021
+Versi 3.2, berkuat kuasa pada 11 Ogos 2021
 {: datetime="2021-04-28" }
 
 Mozilla VPN (“Perkhidmatan”) adalah Rangkaian Peribadi Maya yang bekerjasama dengan [Mullvad](https://mullvad.net). Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
@@ -9,7 +9,7 @@ Jika anda aktifkan Perkhidmatan ini, ia akan peribadikan trafik internet anda da
 
 ## Anda Mesti Layak untuk Menggunakan Perkhidmatan ini
 
-Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Buat masa sekarang, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, New Zealand, Jerman, Perancis, Singapura, dan Malaysia. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
+Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Pada masa ini, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Malaysia, New Zealand dan Singapura. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
 
 Untuk menghasilkan Akaun Firefox, anda perlu bersetuju kepada [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/firefox/) untuk Akaun Firefox anda.
 
@@ -43,7 +43,8 @@ __Pembayaran.__ Mozilla VPN ditawarkan oleh pihak kami sebagai perkhidmatan lang
 
 __Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Mozilla VPN melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam tempoh masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
-__Membeli Langganan Apple iTunes.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, pembayaran anda adalah tertakluk kepada terma dan syarat Apple App Store. Anda mesti memajukan kepada Apple sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
+__Pembelian melalui Apple atau Google App Stores.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
+
 
 ## Anda Boleh Batalkan Langganan Anda pada Bila-Bila Masa
 
