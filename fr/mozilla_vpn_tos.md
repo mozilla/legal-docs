@@ -1,6 +1,6 @@
 # Mozilla VPN - Conditions d’utilisation
 
-Version 3.1 - Date d’effet : 28 avril 2021
+Version 3.2 - Date d’effet : mercredi 11 août 2021
 {: datetime="2021-04-28" }
 
 Mozilla VPN (« Service ») est un réseau virtuel privé fourni en partenariat avec [Mullvad](https://mullvad.net). Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation du Service.
@@ -9,7 +9,7 @@ Si vous activez ce Service, celui-ci protégera votre trafic Internet de votre f
 
 ## Vous devez être éligible pour utiliser le Service
 
-Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est disponible dans les pays suivants : États-Unis, Canada, Royaume-Uni, Nouvelle-Zélande, Allemagne, France, Singapour et Malaisie. Un compte Firefox est requis pour utiliser le Service.
+Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est proposé dans les pays suivants : États-Unis, Canada, Royaume-Uni, Allemagne, France, Italie, Espagne, Belgique, Autriche, Suisse, Malaisie, Nouvelle-Zélande et Singapour. Un compte Firefox est requis pour utiliser le Service.
 
 Pour créer un compte Firefox, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/firefox/) pour votre compte Firefox.
 
@@ -43,7 +43,8 @@ __Paiement.__ Nous proposons Mozilla VPN en tant que service d’abonnement à r
 
 __Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à Mozilla VPN via le site Web de Mozilla, si vous annulez votre compte dans les 30 premiers jours, vous pouvez demander un remboursement ; Mozilla vous remboursera le premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
 
-__Achat d’un abonnement Apple iTunes.__ Si vous avez acheté votre abonnement à partir d’une application dans l’App Store d’Apple, votre paiement doit respecter les conditions d’utilisation de l’App Store d’Apple. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple.
+__Achat réalisable sur Apple Store ou Google Play.__ Si vous avez acheté votre abonnement à partir d’une application dans un Apple Store, votre paiement doit respecter les conditions d’utilisation de l’Apple Store. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
+
 
 ## Vous pouvez annuler votre abonnement à tout moment
 
