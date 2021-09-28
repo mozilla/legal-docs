@@ -37,6 +37,7 @@ List of files not translated:
 * firefox_relay_tos.md
 * mozilla_hubs_privacy_notice.md
 * mozilla_hubs_tos.md
+* mozilla_location_services_privacy_notice.md
 * privacy_notice_summary.md
 * report_infringement.md
 * thunderbird_about_rights.md
