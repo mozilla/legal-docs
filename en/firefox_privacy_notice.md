@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective July 12, 2021*
-{: datetime="2021-07-12" }
+*Effective September 30, 2021*
+{: datetime="2021-09-30" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -20,26 +20,27 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to opt-out of this data collection on [Desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) and [Mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
-### Set a default search provider {: #defaultsearch }
+### Search
 
-* __Location data__:  When you first use Firefox, it uses your IP address to set your default search provider based on your country.  [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. 
 
-### Suggest relevant content
+* __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. Learn more.
 
-Firefox displays content, such as “Snippets” (messages from Mozilla), Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Pocket Recommendations (which is part of the Mozilla family).
+* __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature. If you enable Firefox Suggest, we and our partners may also receive your search queries. [Learn more below](#searches). 
+
+### Recommend relevant content
+
+Firefox displays content, such as Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Pocket Recommendations (which is part of the Mozilla family).
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country and state.
 
-* __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content. This includes the number of times suggested content is displayed or clicked.
+* __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked.
 
-* __Webpage data for Snippets__: When you choose to click on a Snippet link, we may receive data about the link you followed. This information is not associated with any other information about you. [Learn more](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
-{: #snippets }
-
-* __Webpage, Language, and Location data for Pocket Recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and neither Mozilla nor Pocket receives a copy of your browsing history. To help you see relevant Pocket Recommendations based on your location, Firefox shares your language and country location with Pocket.
+* __Pocket Recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and neither Mozilla nor Pocket receives a copy of your browsing history. To help you see relevant Pocket Recommendations based on your location, Firefox shares your language and country location with Pocket.
 
     Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Adzerk so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
-* __Location data and Interaction data for Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
+* __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
 * __Add-on and Feature Recommendations__: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend Firefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The process happens locally in your own computer’s copy of Firefox. Learn More about [Awesome Bar recommendations](https://support.mozilla.org/kb/extension-recommendations) or [Extensions Page recommendations](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
@@ -85,28 +86,30 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
-### Search
+### Firefox Suggest 
 
-You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. _Mozilla does not receive your search queries._ We do receive data about how you engage with search in Firefox and the number of searches you request from our search partners. Query data is sent to your search provider, which has its own privacy policy. Links to our default search providers are:
+Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. Firefox Suggest shows you recommended and sponsored content. We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), including how to enable and disable this feature.
 
-* [__Google__](https://policies.google.com/privacy)
-* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
-* [__Yandex__](https://yandex.ru/legal/confidential/)
+To improve your browsing experience and to improve the product, Firefox shares the following information:
 
-__Search Suggestions__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience. These data will not be sent if your selected search provider does not support search suggestions.
-{: #searchsuggestions }
+* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). {: #searches }
 
-[Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature.
+* __Sites you visit__: For the Suggestions you click, Firefox sends Mozilla the website URL, and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
-### Firefox Accounts & Join Firefox
+* __Location data__: Firefox sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. 
 
-* __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox.  You can choose to include a display name or profile image.  Your email address is sent to our email vendor, Acoustic, which has its own [privacy policy](https://acoustic.com/privacy-notice/).
+* __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
 
-* __Location data__: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country.  We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
+
+### Firefox Accounts
+
+* __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox. You can choose to include a display name or profile image. Your email address is sent to our email vendor, Acoustic, which has its own [privacy policy](https://acoustic.com/privacy-notice/).
+
+* __Location data__: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country. We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
 
 * __Interaction data__: We receive data such as your visits to the Firefox Accounts website, dashboards and menu preferences, what products and services you use in connection with your Firefox Account, and your interactions with our emails and SMS messages. We use this to understand your use of our products and services and to send you more useful Firefox Account Tips and in-product messages.
 
-* __Technical data__: To display which devices are synced to your Firefox Account and for security functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account.  If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of those log-ins.
+* __Technical data__: To display which devices are synced to your Firefox Account and for security functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account. If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of those log-ins.
 
 Read the full documentation or learn more, including how to manage your Firefox Account data or our data practices for [websites and email](https://www.mozilla.org/privacy/websites/).  You can also read the privacy notices for our Firefox Account connected services, which are:
 
