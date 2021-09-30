@@ -20,7 +20,7 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to opt-out of this data collection on [Desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) and [Mobile](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
-### Search
+### Search {: #defaultsearch }
 
 You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. 
 
@@ -86,13 +86,13 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
-### Firefox Suggest 
+### Firefox Suggest {: #searches }
 
 Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. Firefox Suggest shows you recommended and sponsored content. We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), including how to enable and disable this feature.
 
 To improve your browsing experience and to improve the product, Firefox shares the following information:
 
-* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). {: #searches }
+* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
 * __Sites you visit__: For the Suggestions you click, Firefox sends Mozilla the website URL, and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
