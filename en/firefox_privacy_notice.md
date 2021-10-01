@@ -24,7 +24,7 @@ Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozil
 
 You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. 
 
-* __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. Learn more.
+* __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)12.
 
 * __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. [Learn more](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), including how to disable this feature. If you enable Firefox Suggest, we and our partners may also receive your search queries. [Learn more below](#searches). 
 
