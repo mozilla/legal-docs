@@ -1,7 +1,7 @@
 # Firefox Focus and Klar Privacy Notice
 
-October 6, 2021
-{: datetime="2021-10-06" }
+October 7, 2021
+{: datetime="2021-10-07" }
 
 At Mozilla, we design products with your privacy in mind. This privacy notice explains what data we collect in Focus and Klar, why, and your choices. Our statements about Firefox Focus apply to both Focus and Klar unless we say otherwise. We also adhere to the practices outlined in the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Firefox Focus. 
  
@@ -16,11 +16,11 @@ Focus sends data to Mozilla to:
 
 * __Interaction Data__: We receive information about how often you use Focus and interact with certain features or prompts. This includes information such as when you start a new browsing session, how often you use search or launch an external browser from Focus, and which features in the Settings screen are enabled.
 
-Read the telemetry documentation for [Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [iOS](https://www.google.com/url?q=https://dictionary.telemetry.mozilla.org/apps/focus_ios/&sa=D&source=editors&ust=1633545718722000&usg=AOvVaw0Qsl1DMom9lNWMmPN1taVF).
+Read the telemetry documentation for [Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios).
 
 ### Measure and support our marketing
 
-* __Campaign Data and Referral Data__: This helps Firefox Focus understand the effectiveness of our marketing campaigns. Focus may use “Referral Data” such as the website domain or advertising campaign that referred you to download and install Focus. This data is kept by [Adjust](https://www.adjust.com/terms/privacy-policy/), our analytics vendor, and provided when you start Focus, and also includes an iOS Vendor ID or Google advertising ID, timestamp, country, locale, operating system, and app version. Mozilla does not receive this data for Klar. Read the [documentation](https://github.com/mozilla-mobile/focus-android/wiki/Adjust-Usage). 
+* __Campaign Data and Referral Data__: On Android, this helps Firefox Focus understand the effectiveness of our marketing campaigns. Focus may use “Referral Data” such as the website domain or advertising campaign that referred you to download and install Focus. This data is kept by [Adjust](https://www.adjust.com/terms/privacy-policy/), our analytics vendor, and provided when you start Focus, and also includes a Google advertising ID, timestamp, country, locale, operating system, and app version. Mozilla does not receive this data for Klar. Read the [documentation](https://github.com/mozilla-mobile/focus-android/wiki/Adjust-Usage). 
 
 ### Support Search
 
