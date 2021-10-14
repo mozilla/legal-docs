@@ -1,7 +1,7 @@
 # Firefox Focus and Klar Privacy Notice
 
-October 7, 2021
-{: datetime="2021-10-07" }
+October 14, 2021
+{: datetime="2021-10-14" }
 
 At Mozilla, we design products with your privacy in mind. This privacy notice explains what data we collect in Focus and Klar, why, and your choices. Our statements about Firefox Focus apply to both Focus and Klar unless we say otherwise. We also adhere to the practices outlined in the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect from Firefox Focus. 
  
@@ -16,7 +16,7 @@ Focus sends data to Mozilla to:
 
 * __Interaction Data__: We receive information about how often you use Focus and interact with certain features or prompts. This includes information such as when you start a new browsing session, how often you use search or launch an external browser from Focus, and which features in the Settings screen are enabled.
 
-Read the telemetry documentation for [Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios).
+Read the telemetry documentation for Android [here](https://github.com/mozilla-mobile/focus-android/blob/main/docs/Telemetry.md) and [here](https://dictionary.telemetry.mozilla.org/apps/focus_android), and iOS [here](https://dictionary.telemetry.mozilla.org/apps/focus_ios).
 
 ### Measure and support our marketing
 
