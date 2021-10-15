@@ -1,4 +1,4 @@
-# Condiciones del servicio de Mozilla VPN
+﻿# Condiciones del servicio de Mozilla VPN
 
 Versión 3.2, en vigor desde el miércoles, 11 de agosto de 2021
 {: datetime="2021-08-11" }
@@ -9,7 +9,7 @@ Si activa este Servicio, su tráfico de Internet se cifrará y enrutará a trav�
 
 ## Debe cumplir determinados requisitos para usar el Servicio
 
-Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, este Servicio está disponible en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur. Se requiere una cuenta de Firefox para enviar archivos de gran tamaño.
+Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, este Servicio está disponible en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Países Bajos, Irlanda, Malasia, Nueva Zelanda y Singapur. Se requiere una cuenta de Firefox para usar el Servicio.
 
 Para crear una cuenta de Firefox, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox/) de su cuenta de Firefox.
 
@@ -50,7 +50,8 @@ __Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si compr
 
 __Cancelación.__ Puede cancelar su suscripción a Mozilla VPN cuando lo desee desactivando su cuenta y cancelando su suscripción. Para ello, haga clic en el enlace «Cancelar suscripción» incluido en el correo electrónico que le enviamos o yendo a la sección [Suscripciones y pagos](https://subscriptions.firefox.com) de su cuenta de Firefox y haciendo clic en «Cancelar». Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso al Servicio al final del ciclo de facturación actual.
 
-Si compró su suscripción en Apple App Store a través de la aplicación, puede [cancelar su suscripción](https://support.apple.com/en-us/HT202039) en Suscripciones desde su dispositivo de Apple. 
+Si compró su suscripción a través de la aplicación en Apple App Store, puede cancelar la suscripción en Suscripciones desde su dispositivo de Apple.
+Si compró su suscripción en Apple App Store o Google Play Store a través de la aplicación, puede cancelar su suscripción desde su [dispositivo Apple](https://support.apple.com/HT202039) o su [dispositivo Android](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid).
 
 ## Usted es responsable de las consecuencias del uso que haga del Servicio
 

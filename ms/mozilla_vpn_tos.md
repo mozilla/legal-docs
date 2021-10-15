@@ -1,4 +1,4 @@
-# Terma Perkhidmatan Mozilla VPN
+﻿# Terma Perkhidmatan Mozilla VPN
 
 Versi 3.2, berkuat kuasa pada 11 Ogos 2021
 {: datetime="2021-04-28" }
@@ -9,7 +9,7 @@ Jika anda aktifkan Perkhidmatan ini, ia akan peribadikan trafik internet anda da
 
 ## Anda Mesti Layak untuk Menggunakan Perkhidmatan ini
 
-Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Pada masa ini, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Malaysia, New Zealand dan Singapura. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
+Anda mestilah menetap di negara yang Perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Pada masa ini, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Belanda, Ireland, Malaysia, New Zealand dan Singapura. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
 
 Untuk menghasilkan Akaun Firefox, anda perlu bersetuju kepada [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/firefox/) untuk Akaun Firefox anda.
 
@@ -50,7 +50,8 @@ __Pembelian melalui Apple atau Google App Stores.__ Sekiranya anda membeli langg
 
 __Pembatalan.__ Anda boleh membatalkan langganan Mozilla VPN pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke Bahagian [Langganan & Pembayaran](https://subscriptions.firefox.com) di Akaun Firefox anda dan klik “Batal.” Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
 
-Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, anda boleh [membatalkan langganan anda](https://support.apple.com/en-us/HT202039) melalui Langganan pada peranti Apple anda.
+Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store, anda boleh membatalkan langganan pada peranti Apple anda.
+Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, anda boleh membatalkan langganan anda melalui [peranti Apple](https://support.apple.com/HT202039) anda atau [peranti Android](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid) anda.
 
 ## Anda Bertanggungjawab Atas Akibat Penggunaan Perkhidmatan oleh Anda
 

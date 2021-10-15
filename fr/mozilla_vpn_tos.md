@@ -1,4 +1,4 @@
-# Mozilla VPN - Conditions d’utilisation
+﻿# Mozilla VPN - Conditions d’utilisation
 
 Version 3.2 - Date d’effet : mercredi 11 août 2021
 {: datetime="2021-04-28" }
@@ -9,7 +9,7 @@ Si vous activez ce Service, celui-ci protégera votre trafic Internet de votre f
 
 ## Vous devez être éligible pour utiliser le Service
 
-Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est proposé dans les pays suivants : États-Unis, Canada, Royaume-Uni, Allemagne, France, Italie, Espagne, Belgique, Autriche, Suisse, Malaisie, Nouvelle-Zélande et Singapour. Un compte Firefox est requis pour utiliser le Service.
+Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est proposé dans les pays suivants : États-Unis, Canada, Royaume-Uni, Allemagne, France, Italie, Espagne, Belgique, Autriche, Suisse, Pays-Bas, Malaisie, Nouvelle-Zélande et Singapour. Un compte Firefox est requis pour utiliser le Service.
 
 Pour créer un compte Firefox, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/firefox/) pour votre compte Firefox.
 
@@ -50,7 +50,8 @@ __Achat réalisable sur Apple Store ou Google Play.__ Si vous avez acheté votre
 
 __Annulation.__ Vous pouvez annuler votre abonnement à Mozilla VPN à tout moment en désactivant votre compte. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des emails que nous vous envoyons ou en accédant à la section [Abonnements et paiements](https://subscriptions.firefox.com) de votre compte Firefox, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès au Service à la fin de la période de facturation en cours.
 
-Si vous avez acheté votre abonnement à partir d’une application dans l’App Store d’Apple, vous pouvez [annuler votre abonnement](https://support.apple.com/en-us/HT202039) via Abonnements sur votre appareil Apple.
+Si vous avez acheté votre abonnement à partir d’une application dans l’App Store d’Apple, vous pouvez annuler votre abonnement via Abonnements sur votre appareil Apple.
+Si vous avez acheté votre abonnement à partir d’une application dans l’App Store d’Apple ou le Play Store de Google, vous pouvez annuler votre abonnement sur votre appareil [Apple](https://support.apple.com/HT202039) ou [Android](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid).
 
 ## Vous êtes responsable des conséquences de votre utilisation du Service
 
