@@ -1,4 +1,4 @@
-# Voorwaarden van de Mozilla VPN Terms
+﻿# Voorwaarden van de Mozilla VPN Terms
 
 Versie 3.2, van kracht vanaf woensdag 11 augustus 2021
 {: datetime="2021-08-11" }
@@ -9,7 +9,7 @@ Als u deze Service activeert, wordt uw internetverkeer geheim gehouden voor uw i
 
 ## U moet in aanmerking komen om de Service te gebruiken
 
-U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De service is momenteel beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Maleisië, New Zeeland, en Singapore. Voor het gebruik van de Service is een Firefox-account vereist.
+U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De service is momenteel beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Nederlands, Ierland, Maleisië, New Zeeland, en Singapore. Voor het gebruik van de Service is een Firefox-account vereist.
 
 Als u een Firefox-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en [Privacyverklaring](https://www.mozilla.org/privacy/firefox/) voor uw Firefox-account.
 
@@ -50,7 +50,8 @@ __Aankopen via Apple of Google App winkels.__ Als u uw abonnement hebt aangescha
 
 __Opzegging.__ U kunt uw abonnement op Mozilla VPN op elk gewenst moment opzeggen door uw account te deactiveren en uw abonnement op te zeggen. U kunt dit doen door op de link Abonnement opzeggen te klikken in e-mail die u van ons ontvangt of door naar de sectie [Abonnementen en betalingen](https://subscriptions.firefox.com) van uw Firefox-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de service aan het einde van de huidige factureringscyclus.
 
-Als u uw abonnement hebt aangeschaft via een aankoop binnen een app via de Apple App Store, kunt u [uw abonnement opzeggen](https://support.apple.com/en-us/HT202039) via Abonnementen op uw Apple-apparaat. 
+Als u uw abonnement hebt aangeschaft via een aankoop binnen een app uit de Apple App Store, kunt u uw abonnement opzeggen uw Apple-apparaat.
+Als u uw abonnement hebt aangeschaft via een aankoop binnen een app uit de Apple App Store of Google Play Store, kunt u uw abonnement opzeggen op uw [Apple-apparaat](https://support.apple.com/HT202039) of uw [Android-apparaat](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid).
 
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van de Service
 

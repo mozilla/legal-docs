@@ -1,4 +1,4 @@
-# Termini di servizio di Mozilla VPN
+﻿# Termini di servizio di Mozilla VPN
 
 Versione 3.2, in vigore dal mercoledì 11 agosto 2021
 {: datetime="2021-08-11" }
@@ -9,7 +9,7 @@ In seguito all'attivazione, questo Servizio nasconde il tuo traffico Internet al
 
 ## Requisiti di idoneità per usare il Servizio
 
-Per scaricare Mozilla VPN e usare il Servizio, è necessario risiedere in un Paese in cui è disponibile. Al momento, il Servizio è disponibile negli Stati Uniti, in Canada, nel Regno Unito, in Germania, Francia, Italia, Spagna, Belgio, Austria, Svizzera, Malesia, Nuova Zelanda e Singapore. Per utilizzare il Servizio è necessario un account Firefox.
+Per scaricare Mozilla VPN e usare il Servizio, è necessario risiedere in un Paese in cui è disponibile. Al momento, il Servizio è disponibile negli Stati Uniti, in Canada, nel Regno Unito, in Germania, Francia, Italia, Spagna, Belgio, Austria, Svizzera, Paesi Bassi, Irlanda, Malesia, Nuova Zelanda e Singapore. Per utilizzare il Servizio è necessario un account Firefox.
 
 Per creare l'account Firefox, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox/) dell'account Firefox.
 
@@ -50,7 +50,8 @@ __Acquisto tramite App Store Apple o Google.__ Se hai sottoscritto il tuo abbona
 
 __Annullamento.__ Puoi annullare l'abbonamento a Mozilla VPN in qualsiasi momento disattivando il tuo account e revocando l'iscrizione. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure selezionando "Annulla" nella sezione [Abbonamenti e pagamenti](https://subscriptions.firefox.com) del tuo account Firefox. Se scegli di revocare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione attuale.
 
-Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store, puoi [annullarlo](https://support.apple.com/en-us/HT202039) nella sezione Abbonamenti del tuo dispositivo Apple. 
+Se l'abbonamento è stato sottoscritto come acquisto in-app dall'Apple App Store, è possibile annullarlo nella sezione Abbonamenti del proprio dispositivo Apple.
+Se l'abbonamento è stato sottoscritto come acquisto in-app dall'Apple App Store o da Google Play Store, è possibile annullarlo dal proprio [dispositivo Apple](https://support.apple.com/HT202039) o [dispositivo Android](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid).
 
 ## Le conseguenze del tuo utilizzo del Servizio ricadono unicamente su di te
 
