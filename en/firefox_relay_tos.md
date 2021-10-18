@@ -3,7 +3,7 @@
 Version 1.0, effective October 27, 2021
 {: datetime="2021-10-27" }
 
-Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that forwards to your primary email address.
+Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allows you to send and receive emails without revealing your primary email address.
 
 Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
