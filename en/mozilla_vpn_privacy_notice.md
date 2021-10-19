@@ -19,7 +19,7 @@ __Location information.__ Mozilla VPN receives your IP address from your Firefox
 
 __Payment information.__ When you subscribe to Mozilla VPN, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details. 
 
-__Campaign and referral data.__ This helps Mozilla VPN understand the effectiveness of our marketing campaigns. Once, upon installation of the app, Mozilla may temporarily receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the documentation [here](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
+__Campaign and referral data.__ This helps Mozilla VPN understand the effectiveness of our marketing campaigns. Upon installation of the app, Mozilla may temporarily receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the documentation [here](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
 __Interaction data.__ Mozilla receives data about your interactions with Mozilla VPN, including when you log in and when you request the server list.
 
