@@ -11,7 +11,7 @@ __Firefox Account information.__ This service requires a [Firefox Account](https
 
 __Email messages.__ To send and forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store any of the content in your messages, and all email messages are deleted after they’re delivered to you.
 
-__Aliases and where you use them__: If you create a custom alias, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the alias, sites where you subsequently use the alias, and any labels associated with the alias in order to ensure that your aliases are easily findable when you’re ready to use them. Learn how to enable and disable these features [here](https://relay.firefox.com/accounts/settings/).
+__Aliases and where you use them__: If you create a custom alias, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the alias, sites where you subsequently use the alias, and any labels associated with the alias in order to ensure that your aliases are easily findable when you’re ready to use them. Learn how to enable and disable these features [here](https://relay.firefox.com/faq).
 
 __Interaction data.__ Mozilla receives data from interactions with Firefox Relay, such as when you click on “sign up” or “add to Firefox” buttons, and when you create, disable, or delete an alias email address.
 
