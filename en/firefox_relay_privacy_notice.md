@@ -1,7 +1,7 @@
 # Firefox Relay Privacy Notice
 
-*Effective October 27, 2021*
-{: datetime="2020-10-27" }
+*Effective October 20, 2021*
+{: datetime="2020-10-20" }
 
 Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, random (*alias*) email addresses. This privacy notice explains what data Firefox Relay, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
@@ -11,13 +11,11 @@ __Firefox Account information.__ This service requires a [Firefox Account](https
 
 __Email messages.__ To send and forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store any of the content in your messages, and all email messages are deleted after they’re delivered to you.
 
-__Aliases and where you use them__: If you create a custom alias, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the alias, sites where you subsequently use the alias, and any labels associated with the alias in order to ensure that your aliases are easily findable when you’re ready to use them. Learn how to enable and disable these features [here](https://relay.firefox.com/accounts/settings/).
+__Aliases and where you use them__: Mozilla stores the site where you created the alias, sites where you subsequently use the alias, and any labels associated with the alias in order to ensure that your aliases are easily findable when you’re ready to use them. Learn how to enable and disable these features [here](https://relay.firefox.com/accounts/settings/).
 
 __Interaction data.__ Mozilla receives data from interactions with Firefox Relay, such as when you click on “sign up” or “add to Firefox” buttons, and when you create, disable, or delete an alias email address.
 
 __Technical data.__ Mozilla receives basic information from Firefox Relay about your device and browser, including browser version, language, device operating system, and hardware configuration.
-
-__Payment information__: If you subscribe to Firefox Relay Premium, you will send payment through one of our third-party payment providers: Stripe or PayPal. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
 Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser.  
 
