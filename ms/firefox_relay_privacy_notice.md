@@ -11,7 +11,7 @@ __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan [Akaun Firefox](https://
 
 __Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan apa-apa kandungan dalam mesej anda dan semua mesej e-mel akan dihapuskan selepas disampaikan kepada anda.
 
-__Alias dan di mana anda menggunakannya__: Jika anda mencipta alias tersuai, Mozilla menyimpannya bagi menghantar e-mel ke alamat ini. Mozilla menyimpan laman di mana anda mencipta alias, laman di mana anda kemudiannya menggunakan alias dan apa-apa label yang dikaitkan dengan alias bagi memastikan alias anda mudah ditemui apabila anda bersedia untuk menggunakannya. Pelajari cara untuk mengupayakan dan menyahupayakan ciri ini [di sini](https://relay.firefox.com/accounts/settings/).
+__Alias dan di mana anda menggunakannya__: Jika anda mencipta alias tersuai, Mozilla menyimpannya bagi menghantar e-mel ke alamat ini. Mozilla menyimpan laman di mana anda mencipta alias, laman di mana anda kemudiannya menggunakan alias dan apa-apa label yang dikaitkan dengan alias bagi memastikan alias anda mudah ditemui apabila anda bersedia untuk menggunakannya. Pelajari cara untuk mengupayakan dan menyahupayakan ciri ini [di sini](https://relay.firefox.com/faq).
 
 __Data interaksi.__ Mozilla menerima data daripada interaksi dengan Firefox Relay, seperti semasa anda klik pada butang “daftar” atau “tambah pada Firefox”, dan semasa anda mencipta, menyahupayakan atau menghapuskan alamat e-mel alias.
 

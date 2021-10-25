@@ -11,7 +11,7 @@ __Informazioni sull'account Firefox.__ Questo servizio richiede un [account Fire
 
 __Messaggi email.__ Per inviare e inoltrare i tuoi messaggi email dal/i tuo/i indirizzo/i email alias al tuo indirizzo email principale, Firefox Relay elabora i tuoi messaggi. Il contenuto dei messaggi non viene né letto né memorizzato, e tutti i messaggi vengono eliminati dopo esserti stati consegnati.
 
-__Alias e dove utilizzarli__: Se crei un alias personalizzato, Mozilla lo memorizza per inoltrarvi le email. Mozilla memorizza il sito dove hai creato l'alias, i siti dove successivamente lo utilizzi e tutte le etichette associate all'alias, in modo che sia sempre facilmente reperibile quando dovrai utilizzarlo. Scopri come abilitare e disabilitare queste funzioni [qui](https://relay.firefox.com/accounts/settings/).
+__Alias e dove utilizzarli__: Se crei un alias personalizzato, Mozilla lo memorizza per inoltrarvi le email. Mozilla memorizza il sito dove hai creato l'alias, i siti dove successivamente lo utilizzi e tutte le etichette associate all'alias, in modo che sia sempre facilmente reperibile quando dovrai utilizzarlo. Scopri come abilitare e disabilitare queste funzioni [qui](https://relay.firefox.com/faq).
 
 __Dati relativi alle interazioni.__ Mozilla riceve dati dalle tue interazioni con Firefox Relay, ad esempio quando fai clic sui pulsanti "Registrati" o "Aggiungi a Firefox" e quando crei, disabiliti o elimini un indirizzo email alias.
 

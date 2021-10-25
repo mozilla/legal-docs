@@ -11,7 +11,7 @@ __Información de la cuenta de Firefox.__ Este servicio requiere una [cuenta de 
 
 __Mensajes de correo electrónico.__ Firefox Relay procesará sus mensajes de correo electrónico con el fin de enviar y reenviar sus mensajes de correo electrónico desde sus alias a su dirección de correo electrónico principal. No leemos ni guardamos el contenido de sus mensajes, y todos los mensajes de correo electrónico se eliminarán una vez entregados.
 
-__Alias y dónde los utiliza.__ Si usted crea un alias personalizado, Mozilla lo guarda para poder reenviar los mensajes de correo electrónico a dicha dirección. Mozilla guarda el sitio en el que creó el alias, los sitios en los que posteriormente usa el alias y cualquier etiqueta asociada al alias con el fin de garantizar que pueda acceder fácilmente a dicho alias cuando quiera usarlo. Para aprender cómo activar y desactivar estas funciones [haga clic aquí](https://relay.firefox.com/accounts/settings/).
+__Alias y dónde los utiliza.__ Si usted crea un alias personalizado, Mozilla lo guarda para poder reenviar los mensajes de correo electrónico a dicha dirección. Mozilla guarda el sitio en el que creó el alias, los sitios en los que posteriormente usa el alias y cualquier etiqueta asociada al alias con el fin de garantizar que pueda acceder fácilmente a dicho alias cuando quiera usarlo. Para aprender cómo activar y desactivar estas funciones [haga clic aquí](https://relay.firefox.com/faq).
 
 __Datos de interacción.__ Mozilla recibe datos sobre su interacción con Firefox Relay, tales como datos sobre cuando hace clic en los botones «suscribirse» y «añadir a Firefox» y cuando crea, desactiva o elimina un alias de correo electrónico.
 

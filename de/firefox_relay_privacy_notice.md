@@ -11,7 +11,7 @@ __Firefox-Kontoinformationen.__ Für diesen Dienst ist ein [Firefox-Konto](https
 
 __E-Mail-Nachrichten.__ Zum Senden und Weiterleiten Ihrer E-Mail-Nachrichten über Ihre Alias-E-Mail-Adresse(n) an Ihre Haupt-E-Mail-Adresse verarbeitet Firefox Relay Ihre E-Mail-Nachrichten. Wir lesen oder speichern keinen der Inhalte Ihrer Nachrichten, und alle E-Mail-Nachrichten werden gelöscht, nachdem sie Ihnen zugestellt wurden.
 
-__Wie Aliase verwendet werden können__: Wenn Sie einen eigenen Alias erstellen, speichert Mozilla diesen, um E-Mails an ihn weiterzuleiten. Mozilla speichert ferner die Website, auf der Sie den Alias erstellt haben, die Websites, auf denen Sie den Alias anschließend verwenden, und alle mit dem Alias verbundenen Labels, um sicherzustellen, dass Ihre Aliase leicht zu finden sind, wenn Sie sie verwenden möchten. [Hier erfahren Sie, wie Sie diese Funktionen aktivieren und deaktivieren können.](https://relay.firefox.com/accounts/settings/)
+__Wie Aliase verwendet werden können__: Wenn Sie einen eigenen Alias erstellen, speichert Mozilla diesen, um E-Mails an ihn weiterzuleiten. Mozilla speichert ferner die Website, auf der Sie den Alias erstellt haben, die Websites, auf denen Sie den Alias anschließend verwenden, und alle mit dem Alias verbundenen Labels, um sicherzustellen, dass Ihre Aliase leicht zu finden sind, wenn Sie sie verwenden möchten. [Hier erfahren Sie, wie Sie diese Funktionen aktivieren und deaktivieren können.](https://relay.firefox.com/faq)
 
 __Interaktionsdaten.__ Mozilla empfängt Daten aus Interaktionen mit Firefox Relay, z. B. wenn Sie auf die Schaltflächen „Registrieren“ oder „Zu Firefox hinzufügen“ klicken oder eine Alias-E-Mail-Adresse erstellen, deaktivieren oder löschen.
 

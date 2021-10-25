@@ -11,7 +11,7 @@ __Firefox-accountinformatie.__ Deze service vereist een [Firefox-account](https:
 
 __E-mailberichten.__ Firefox Relay verwerkt uw e-mailberichten om deze vanaf uw aliase-mailadres(sen) te kunnen verzenden en doorsturen. De inhoud van uw berichten wordt niet gelezen of opgeslagen en alle e-mailberichten worden verwijderd nadat deze bij u zijn bezorgd.
 
-__Aliassen en waar u deze gebruikt__: Als u een aangepaste alias hebt gemaakt, slaat Mozilla deze op, zodat e-mail naar deze alias kan worden doorgestuurd. Mozilla registreert de site waarop u de alias hebt gemaakt, sites waarop u vervolgens de alias gebruikt en eventuele labels bij de alias om ervoor te zorgen dat uw aliassen eenvoudig kunnen worden gevonden wanneer u klaar bent om deze te gebruiken. [Hier](https://relay.firefox.com/accounts/settings/) vindt u meer informatie over hoe u deze functies kunt inschakelen en uitschakelen.
+__Aliassen en waar u deze gebruikt__: Als u een aangepaste alias hebt gemaakt, slaat Mozilla deze op, zodat e-mail naar deze alias kan worden doorgestuurd. Mozilla registreert de site waarop u de alias hebt gemaakt, sites waarop u vervolgens de alias gebruikt en eventuele labels bij de alias om ervoor te zorgen dat uw aliassen eenvoudig kunnen worden gevonden wanneer u klaar bent om deze te gebruiken. [Hier](https://relay.firefox.com/faq) vindt u meer informatie over hoe u deze functies kunt inschakelen en uitschakelen.
 
 __Interactiegegevens.__ Mozilla ontvangt gegevens over de interactie met Firefox Relay, zoals wanneer u op de knoppen voor registreren of toevoegen aan Firefox klikt en wanneer u een aliase-mailadres maakt, uitschakelt of verwijdert.
 

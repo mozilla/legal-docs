@@ -11,7 +11,7 @@ __Informations de compte Firefox.__ Ce service nécessite un compte [compte Fire
 
 __Messages email.__ Pour envoyer et transférer vos messages email depuis votre ou vos alias vers votre adresse email principale, Firefox Relay doit traiter vos messages email. Nous ne lisons ni ne stockons le contenu de vos messages, et tous les messages email sont supprimés après vous avoir été acheminés.
 
-__Comment utiliser les alias__ : Lorsque vous créez un alias personnalisé, Mozilla le stocke pour pouvoir lui transférer des emails. Mozilla stocke le site sur lequel vous avez créé l’alias, les sites sur lesquels vous allez ensuite utiliser l’alias, et tous libellés associés à l’alias, afin de garantir que vos alias soient faciles à trouver lorsque vous êtes prêt à les utiliser. Apprenez à activer et désactiver ces fonctionnalités [ici](https://relay.firefox.com/accounts/settings/).
+__Comment utiliser les alias__ : Lorsque vous créez un alias personnalisé, Mozilla le stocke pour pouvoir lui transférer des emails. Mozilla stocke le site sur lequel vous avez créé l’alias, les sites sur lesquels vous allez ensuite utiliser l’alias, et tous libellés associés à l’alias, afin de garantir que vos alias soient faciles à trouver lorsque vous êtes prêt à les utiliser. Apprenez à activer et désactiver ces fonctionnalités [ici](https://relay.firefox.com/faq).
 
 __Données d’interaction.__ Mozilla reçoit des données provenant d’interactions avec Firefox Relay, par exemple lorsque vous cliquez sur les boutons « S’abonner » ou « Ajouter à Firefox », et lorsque vous créez, désactivez ou supprimez un alias.
 
