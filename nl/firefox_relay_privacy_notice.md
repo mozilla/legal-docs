@@ -1,4 +1,4 @@
-﻿#Privacykennisgeving van Firefox Relay
+# Privacykennisgeving van Firefox Relay
 
 *Van kracht vanaf woensdag 27 oktober 2021*
 {: datetime="2020-10-27" }
