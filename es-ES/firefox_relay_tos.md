@@ -13,7 +13,7 @@ Se requiere una cuenta de Firefox para usar el Servicio. Para crear una cuenta d
 
 ## Su privacidad
 
-__ Su privacidad.__ El [Aviso de privacidad de Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/) explica qué información se envía durante el uso del Servicio y cómo se gestiona dicha información.
+__Su privacidad.__ El [Aviso de privacidad de Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/) explica qué información se envía durante el uso del Servicio y cómo se gestiona dicha información.
 
 ## Permisos requeridos para proporcionar el Servicio
 
