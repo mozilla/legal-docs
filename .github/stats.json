@@ -338,6 +338,28 @@
       "zh-TW"
     ]
   },
+  "firefox_relay_privacy_notice.md": {
+    "count": 6,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ms",
+      "nl"
+    ]
+  },
+  "firefox_relay_tos.md": {
+    "count": 6,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ms",
+      "nl"
+    ]
+  },
   "focus_privacy_notice.md": {
     "count": 1,
     "locales": [
