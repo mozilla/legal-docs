@@ -55,7 +55,7 @@ __Annullamento.__ Puoi annullare l'abbonamento a Firefox Relay in qualsiasi mome
 
 ## Aggiornamento o revoca dei presenti Termini
 
-* __ Mozilla può aggiornare questi termini.__ Di tanto in tanto, Mozilla può decidere di aggiornare i presenti Termini. Le Condizioni aggiornate verranno pubblicate online. L'uso continuato del Servizio sarà considerato alla stregua di un'accettazione delle modifiche apportate. All'inizio di questa pagina verrà pubblicata la data di entrata in vigore dei Termini, in modo che sia possibile identificare chiaramente l'aggiornamento più recente.
+* __Mozilla può aggiornare questi termini.__ Di tanto in tanto, Mozilla può decidere di aggiornare i presenti Termini. Le Condizioni aggiornate verranno pubblicate online. L'uso continuato del Servizio sarà considerato alla stregua di un'accettazione delle modifiche apportate. All'inizio di questa pagina verrà pubblicata la data di entrata in vigore dei Termini, in modo che sia possibile identificare chiaramente l'aggiornamento più recente.
 
 * __Risoluzione.__ I presenti Termini sono applicabili finché tu o Mozilla non deciderete di revocarli. Puoi scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, terminando l'utilizzo del Servizio ed eliminando il componente aggiuntivo Firefox Relay. Mozilla può sospendere o revocare l'accesso di qualunque utente al Servizio in qualsiasi momento e per qualunque ragione, inclusa l'eventuale decisione di Mozilla di cessare il Servizio. Se dovessimo decidere di sospendere o revocare il tuo accesso, cercheremo di avvisarti utilizzando l'indirizzo email associato al tuo account o al tuo successivo tentativo di accesso all'account.
 
