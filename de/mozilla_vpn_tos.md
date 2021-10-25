@@ -9,7 +9,7 @@ Falls Sie diesen Dienst aktivieren, bleibt Ihr Internet-Traffic für Ihren Inter
 
 ## Sie müssen für die Verwendung dieses Dienstes qualifiziert sein
 
-Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit ist der Dienst in den USA, in Kanada, im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, Belgien, Österreich, der Schweiz, Malaysia, Neuseeland und Singapur verfügbar. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
+Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit ist der Dienst in den USA, in Kanada, im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, den Niederlanden, Irland, Belgien, Österreich, der Schweiz, Malaysia, Neuseeland und Singapur verfügbar. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
 
 Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
 
@@ -50,7 +50,8 @@ __Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen
 
 __Kündigung.__ Sie können Ihr Mozilla VPN-Abonnement jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement stornieren. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://subscriptions.firefox.com) in Ihrem Firefox-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Service am Ende des aktuellen Abrechnungszyklus.
 
-Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store erworben haben, können Sie über „Abonnements“ auf Ihrem Apple-Gerät [Ihr Abonnement kündigen](https://support.apple.com/en-us/HT202039).
+Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store erworben haben, können Sie über „Abonnements“ auf Ihrem Apple-Gerät Ihr Abonnement kündigen.
+Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder Google Play Store erworben haben, können Sie Ihr Abonnement auf Ihrem [Apple-Gerät](https://support.apple.com/HT202039) oder Ihrem [Android-Gerät](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid) kündigen.
 
 ## Sie sind für die Konsequenzen Ihrer Nutzung des Dienstes verantwortlich
 
