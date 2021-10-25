@@ -55,7 +55,7 @@ __Annulation.__ Vous pouvez annuler votre abonnement à Firefox Relay à tout mo
 
 ## Mise à jour ou résiliation de ces Conditions
 
-* __ Mozilla se réserve le droit de modifier ces Conditions.__ Mozilla peut décider de modifier ces Conditions de temps à autre. Nous publierons les Conditions mises à jour en ligne. Votre utilisation du Service signifiera votre acceptation des Conditions mises à jour. Nous mentionnerons la date d’effet en haut de cette page pour préciser la date de notre mise à jour la plus récente.
+* __Mozilla se réserve le droit de modifier ces Conditions.__ Mozilla peut décider de modifier ces Conditions de temps à autre. Nous publierons les Conditions mises à jour en ligne. Votre utilisation du Service signifiera votre acceptation des Conditions mises à jour. Nous mentionnerons la date d’effet en haut de cette page pour préciser la date de notre mise à jour la plus récente.
 
 * __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser le Service et en supprimant l’extension Firefox Relay. Mozilla peut suspendre ou mettre fin à l’accès au Service de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin au Service. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse email associée à votre compte ou lors du prochain accès à votre compte.
 
