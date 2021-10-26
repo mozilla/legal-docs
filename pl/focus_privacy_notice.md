@@ -20,7 +20,7 @@ Przeczytaj dokumentację dotyczącą telemetrii dla systemu Android [tutaj](http
 
 ### Pomiar i wsparcie naszego marketingu
 
-* __ Dane kampanii i odwołań__: W systemie Android pomaga to przeglądarce Firefox Focus mierzyć skuteczność naszych kampanii marketingowych. Focus może wykorzystywać „dane odwołań”, takie jak domena witryny lub kampania reklamowa, która skierowała użytkownika do pobrania i zainstalowania przeglądarki Focus. Dane te są przechowywane przez firmę [Adjust](https://www.adjust.com/terms/privacy-policy/), naszego dostawcę usług analitycznych, i są dostarczane podczas uruchamiania przeglądarki Focus, a także obejmują identyfikator reklamowy Google, znacznik czasu, kraj, lokalizację, system operacyjny i wersję aplikacji. Mozilla nie otrzymuje takich danych dla przeglądarki Klar. Przeczytaj [dokumentację](https://github.com/mozilla-mobile/focus-android/wiki/Adjust-Usage). 
+* __Dane kampanii i odwołań__: W systemie Android pomaga to przeglądarce Firefox Focus mierzyć skuteczność naszych kampanii marketingowych. Focus może wykorzystywać „dane odwołań”, takie jak domena witryny lub kampania reklamowa, która skierowała użytkownika do pobrania i zainstalowania przeglądarki Focus. Dane te są przechowywane przez firmę [Adjust](https://www.adjust.com/terms/privacy-policy/), naszego dostawcę usług analitycznych, i są dostarczane podczas uruchamiania przeglądarki Focus, a także obejmują identyfikator reklamowy Google, znacznik czasu, kraj, lokalizację, system operacyjny i wersję aplikacji. Mozilla nie otrzymuje takich danych dla przeglądarki Klar. Przeczytaj [dokumentację](https://github.com/mozilla-mobile/focus-android/wiki/Adjust-Usage). 
 
 ### Obsługa wyszukiwania
 
