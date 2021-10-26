@@ -361,9 +361,26 @@
     ]
   },
   "focus_privacy_notice.md": {
-    "count": 1,
+    "count": 18,
     "locales": [
-      "de"
+      "ar",
+      "de",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "tr",
+      "vi",
+      "zh-CN",
+      "zh-TW"
     ]
   },
   "klar_privacy_notice.md": {
