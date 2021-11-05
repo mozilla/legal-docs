@@ -77,6 +77,20 @@ def main():
     with open(os.path.join(root_path, ".github", "stats.json"), "w") as f:
         json.dump(stats, f, indent=2, sort_keys=True)
 
+    # Update sources.json with the list of translated files.
+    # This is needed when a brand new file is translated.
+    source_translated_files = [
+        f for f in source_files if f.split(os.path.sep)[1] in translated_files
+    ]
+    source_translated_files.sort()
+
+    with open(os.path.join(script_path, "sources.json"), "w") as f:
+        data = {
+            "source_folders": source_folders,
+            "translated_docs": source_translated_files,
+        }
+        json.dump(data, f, indent=4, sort_keys=True)
+
 
 if __name__ == "__main__":
     main()
