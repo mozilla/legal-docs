@@ -1,7 +1,7 @@
 # Firefox Relay Privacy Notice
 
-*Effective October 27, 2021*
-{: datetime="2020-10-27" }
+*Effective November 11, 2021*
+{: datetime="2020-11-11" }
 
 Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, random (*alias*) email addresses. This privacy notice explains what data Firefox Relay, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
@@ -9,7 +9,7 @@ Firefox Relay allows you to keep your primary email address safe and private fro
 
 __Firefox Account information.__ This service requires a [Firefox Account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), which sends Mozilla your email address, locale, and IP address. Mozilla maintains a copy of your account information to provide the service, in particular to associate your primary email address with your alias email address(es).
 
-__Email messages.__ To send and forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store any of the content in your messages, and all email messages are deleted after they’re delivered to you.
+__Email messages.__ To send and forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days).
 
 __Aliases and where you use them__: If you create a custom alias, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the alias, sites where you subsequently use the alias, and any labels associated with the alias in order to ensure that your aliases are easily findable when you’re ready to use them. Learn how to enable and disable these features [here](https://relay.firefox.com/faq).
 
