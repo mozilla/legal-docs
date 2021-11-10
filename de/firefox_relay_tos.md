@@ -1,7 +1,7 @@
 ﻿# Firefox Relay-Servicebedingungen
 
-Version 1.0 – Aktualisiert am Mittwoch, 27. Oktober 2021
-{: datetime="2021-10-27" }
+Version 1.1, gültig ab 11. November 2021
+{: datetime="2021-11-11" }
 
 Firefox Relay (im Folgenden der „Dienst“) erstellt eindeutige Alias-E-Mail-Adressen, mit denen Sie E-Mails senden und empfangen können, ohne Ihre primäre E-Mail-Adresse preiszugeben. Auf diese Weise gestattet es Firefox Relay Ihnen, Ihre primäre E-Mail-Adresse vor Onlinediensten zu schützen und privat zu halten.
 
@@ -19,27 +19,13 @@ __Ihre Privatsphäre.__ Im Firefox Relay-[Datenschutzhinweis](https://www.mozill
 
 __Ihre Nutzung der Dienste.__ Mozilla räumt Ihnen die Berechtigung ein, Firefox Relay den vorliegenden Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Der Dienst darf nicht übertragen, unterlizenziert, wiederverkauft oder kommerziell genutzt werden. Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
-Sie räumen Mozilla alle Rechte ein, die für den Betrieb des Dienstes erforderlich sind, einschließlich des Rechts zur Verarbeitung Ihrer E-Mail-Adressen, der von Ihnen erstellten Aliase und Alias-Labels sowie der E-Mails, die Sie über den Dienst senden und empfangen. Mozilla protokolliert den Inhalt von E-Mails, die mit Firefox Relay gesendet oder empfangen werden, nicht.
+Sie räumen Mozilla alle Rechte ein, die für den Betrieb des Dienstes erforderlich sind, einschließlich des Rechts zur Verarbeitung Ihrer E-Mail-Adressen, der von Ihnen erstellten Aliase und Alias-Labels sowie der E-Mails, die Sie über den Dienst senden und empfangen. Wir lesen und speichern Ihre Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.)
 
 Wenn Sie mehr über die Funktionsweise des Dienstes erfahren möchten, können Sie von Mozilla bereitgestellten [Quellcode](https://github.com/mozilla/fx-private-relay) einsehen.
 
 __Ihr Feedback und Ihre Vorschläge.__ Falls Sie Mozilla Ideen, Vorschläge oder Feedback über Firefox Relay oder die von Ihnen mit Firefox Relay genutzten Dienste übermitteln, erteilen Sie Mozilla das Recht, diese kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 
 __Geistiges Eigentum von Mozilla.__ Weder Mozilla noch seine Lizenzgeber erteilen Ihnen Rechte an geistigem Eigentum des Service, soweit nicht in diesen Bedingungen ausdrücklich festgelegt. Beispielsweise erhalten Sie durch diese Bedingungen keine Copyright- oder Urheberrechte, Rechte an Marken oder anderen charakteristischen Markenmerkmalen von Mozilla oder seinen Lizenzgebern. Die Mozilla-Software wird im Rahmen der jeweils aktuellen Version der Mozilla Public License bzw. aller anderen ähnlichen Lizenzen verteilt und unterliegt diesen.
-
-## Ihre Zahlung
-
-Wir bieten Firefox Relay wahlweise als kostenlosen Dienst oder als kostenpflichtigen Abonnementdienst an. 
-
-__Aliasbeschränkungen und -anpassung__ Mit dem kostenlosen Dienst können Sie bis zu 5 beliebige E-Mail-Aliase erstellen. Mit dem kostenpflichtigen Abonnement können Sie eine unbegrenzte Anzahl von Aliasen erstellen und haben zudem die Möglichkeit, eine benutzerdefinierte Subdomain zu erstellen. 
-
-__Zahlung.__ Wie bieten Firefox Relay als Abonnementdienst mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit des Dienstes der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
-
-__30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Firefox Relay zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern, und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
-
-## Sie können Ihr Abonnement jederzeit kündigen
-
-__Kündigung.__ Sie können Ihr Firefox Relay-Abonnement jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement stornieren. Dazu klicken Sie in einer beliebigen -Mail, die Sie von uns erhalten haben, auf den Link „Abonnement kündigen“ oder wechseln zum Bereich „Abonnements und Zahlungen“ in Ihrem Firefox-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Service am Ende des aktuellen Abrechnungszyklus.
 
 ## Sie sind für die Konsequenzen Ihrer Nutzung des Dienstes verantwortlich
 

@@ -1,7 +1,7 @@
 ﻿# Notis Privasi Firefox Relay
 
-*Berkuatkuasa 27 Oktober, 2021*
-{: datetime="2020-10-27" }
+*Berkuat kuasa pada 11 November 2021*
+{: datetime="2020-11-11" }
 
 Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel (*alias*) yang unik dan rawak. Notis privasi ini menerangkan jenis data yang dikongsi oleh Firefox Relay dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat.
 
@@ -9,7 +9,7 @@ Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan s
 
 __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan [Akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Mozilla menyimpan salinan maklumat akaun anda untuk memberikan perkhidmatan, khususnya untuk mengaitkan alamat e-mel utama anda dengan alamat e-mel alias anda.
 
-__Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan apa-apa kandungan dalam mesej anda dan semua mesej e-mel akan dihapuskan selepas disampaikan kepada anda.
+__Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari).
 
 __Alias dan di mana anda menggunakannya__: Jika anda mencipta alias tersuai, Mozilla menyimpannya bagi menghantar e-mel ke alamat ini. Mozilla menyimpan laman di mana anda mencipta alias, laman di mana anda kemudiannya menggunakan alias dan apa-apa label yang dikaitkan dengan alias bagi memastikan alias anda mudah ditemui apabila anda bersedia untuk menggunakannya. Pelajari cara untuk mengupayakan dan menyahupayakan ciri ini [di sini](https://relay.firefox.com/faq).
 

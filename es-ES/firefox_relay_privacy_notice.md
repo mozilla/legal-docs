@@ -1,7 +1,7 @@
 ﻿# Aviso de privacidad de Firefox Relay
 
-*Vigente desde el miércoles, 27 de octubre de 2021*
-{: datetime="2020-10-27" }
+*Vigente desde el jueves, 11 de noviembre de 2021*
+{: datetime="2020-11-11" }
 
 Firefox Relay le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online a través de la creación de direcciones de correo electrónico únicas y aleatorias («alias»). En este aviso de privacidad, se explican los distintos tipos de datos que Firefox Relay recopila y comparte, y por qué. Además, nos adherimos a la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/) en cuanto a la forma en la que recibimos, tratamos y compartimos la información.
 
@@ -9,7 +9,7 @@ Firefox Relay le permite proteger la seguridad y privacidad de su dirección de 
 
 __Información de la cuenta de Firefox.__ Este servicio requiere una [cuenta de Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Mozilla conserva una copia de su información de la cuenta para poder proporcionar el servicio, en concreto, para asociar su dirección de correo electrónico principal con sus alias de correo electrónico.
 
-__Mensajes de correo electrónico.__ Firefox Relay procesará sus mensajes de correo electrónico con el fin de enviar y reenviar sus mensajes de correo electrónico desde sus alias a su dirección de correo electrónico principal. No leemos ni guardamos el contenido de sus mensajes, y todos los mensajes de correo electrónico se eliminarán una vez entregados.
+__Mensajes de correo electrónico.__ Firefox Relay procesa sus mensajes de correo electrónico con el fin de enviar y reenviar sus mensajes de correo electrónico desde sus direcciones de correo electrónico alias a su dirección de correo electrónico principal. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hayamos entregado (en ningún caso se conservará durante más de tres días).
 
 __Alias y dónde los utiliza.__ Si usted crea un alias personalizado, Mozilla lo guarda para poder reenviar los mensajes de correo electrónico a dicha dirección. Mozilla guarda el sitio en el que creó el alias, los sitios en los que posteriormente usa el alias y cualquier etiqueta asociada al alias con el fin de garantizar que pueda acceder fácilmente a dicho alias cuando quiera usarlo. Para aprender cómo activar y desactivar estas funciones [haga clic aquí](https://relay.firefox.com/faq).
 
