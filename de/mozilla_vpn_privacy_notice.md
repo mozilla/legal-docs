@@ -1,7 +1,7 @@
-## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
+﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-Gültig ab Mittwoch, 6. Mai 2021
-{: datetime="2021-05-06" }
+Gültig ab 20. Oktober 2021
+{: datetime="2021-10-20" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 
@@ -18,6 +18,8 @@ __Firefox-Kontoinformationen.__ Für diesen Dienst ist ein Firefox-Konto erforde
 __Ortsinformationen.__ Mozilla VPN erhält Ihre IP-Adresse von Ihrem Firefox-Konto, wenn Sie sich registrieren und den Dienst nutzen. Wir verwenden die IP-Adresse, um Ihren ungefähren Ort zu bestimmen, weil Mozilla VPN derzeit nur in bestimmten Ländern verfügbar ist.
 
 __Informationen zur Zahlung.__ Wenn Sie Mozilla VPN abonnieren, bezahlen Sie über einen der folgenden externen Zahlungsanbieter: Stripe, Apple, PayPal oder Google Pay. Mozilla erhält bestimmte Informationen zu Ihrem Konto, darunter die Rechnungsadresse und die letzten vier Ziffern der von Ihnen gewählten Zahlungsweise, und zum Status des Abonnements Ihres Kontos. Die vollständigen Zahlungsdaten werden von Mozilla nicht gespeichert.
+
+__Kampagnen- und Empfehlungsdaten__. Hiermit kann Mozilla VPN die Effektivität unserer Marketingkampagnen messen. Bei der Installation der App kann Mozilla Ihre IP-Adresse, Kampagnen- und Empfehlungsdaten (z. B. auf welche Werbekampagnen Sie reagiert haben), Ihr Betriebssystem, Ihren Gerätetyp und Ihre Betriebssystemversion vorübergehend erhalten. Mozilla teilt diese Angaben (mit Ausnahme Ihrer IP-Adresse; die von uns weder geteilt noch gespeichert wird) mit Adjust. [Hier](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md) finden Sie die Dokumentation.
 
 __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit Mozilla VPN, darunter wann Sie sich anmelden und wann Sie die Serverliste anfordern.
 

@@ -1,7 +1,7 @@
-## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacyverklaring</span>
+﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacyverklaring</span>
 
-Van kracht vanaf 6 mei 2021
-{: datetime="2021-05-06" }
+Van kracht vanaf woensdag 20 oktober 2021
+{: datetime="2021-10-20" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 
@@ -18,6 +18,8 @@ __Firefox-accountinformatie.__ Deze service vereist een Firefox-account dat uw e
 __Locatie-information.__ Mozilla VPN ontvangt uw IP-adres via uw Firefox-account wanneer u zich registreert voor de service en wanneer u deze gebruikt. We gebruiken het IP-adres om uw locatie bij benadering te bepalen omdat Mozilla VPN momenteel alleen in bepaalde landen beschikbaar is.
 
 __Betalingsinformatie.__ Wanneer u zich abonneert op Mozilla VPN, doet u een betaling via een van onze externe betalingsproviders: Stripe, Apple, PayPal, or Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla. 
+
+__Campagne- en verwijzingsgegevens.__ Met deze gegevens kan Mozilla VPN de doeltreffendheid van onze marketingcampagnes doorgronden. Na installatie van de app kan Mozilla tijdelijk uw IP-adres ontvangen als aanvulling op campagne- en verwijzingsgegevens, zoals welke advertentiecampagnes u hebt bekeken evenals uw besturingssysteem, apparaattype en versie van uw besturingssysteem. Mozilla deelt dit met Adjust, maar we delen of bewaren uw IP-adres niet. Lees de documentatie [hier](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
 __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interactie met Mozilla VPN, waaronder wanneer u zich aanmeldt en wanneer u de serverlijst aanvraagt.
 

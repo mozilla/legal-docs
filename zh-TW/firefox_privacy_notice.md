@@ -1,49 +1,50 @@
-## <span class="privacy-header-firefox">Firefox </span> <span class="privacy-header-policy">隱私權聲明</span>
+﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隱私權公告</span>
 
-*2020 年 9 月 8 日起生效*
-{: datetime="2020-09-8" }
+*2021 年 9 月 30 日起生效*
+{: datetime="2021-09-30" }
 
-## Mozilla 相信，若要建立健全的網路環境，隱私權是不可或缺的根基。
+## Mozilla 相信隱私是健康網路環境的根基。
 
-這就是為什麼我們的 Firefox 及其他產品在設計上可以讓您進一步掌握您在網路上分享的資訊內容，以及您提供給我們的資訊內容。我們努力限制資料收集範圍，只收集我們需要用來為所有人改進 Firefox 的資訊。
+這也是為什麼我們打造 Firefox 等其餘產品，讓您更能掌握您分享到網路的資訊，以及您分享給我們的資訊。我們致力於只收集我們為每個人改善 Firefox 所需要的資訊。
 
-在這份隱私權聲明內，我們會解釋 Firefox 會分享哪些資料，並告訴您如何調整設定，以便讓您分享更少資料。我們也會秉持 Mozilla 的[隱私權政策](https://www.mozilla.org/privacy/)原則來接收、處理並分享我們藉由 Firefox 收集而來的資訊。
+我們在這份隱私權公告說明 Firefox 分享的資料有哪些，並為您說明如何進一步減少資訊分享內容的設定。我們從 Firefox 所收集的資訊，要如何接收、處理與分享，我們也都遵照 Mozilla [隱私權政策](https://www.mozilla.org/privacy/)所規定的做法。
 
-## 預設情況下，Firefox 收集資料的目的為：
+## Firefox 藉由預設分享資料，以便：
 
-### 為所有使用者增進效能及穩定性。 {: #health-report }
+### 為各地的使用者改善性能與穩定度 {: #health-report }
 
-* __互動資料__：Firefox 會將您如何與 Firefox 互動的資料傳送給我們（例如開啟分頁及視窗的數量、瀏覽的網頁數量、您安裝的 Firefox 附加元件數量及類型、工作階段的長度等等），另外，您與由 Mozilla 或我們其他合作夥伴提供的 Firefox 功能互動的資料也會傳送給我們（例如與 Firefox 搜尋功能互動的過程，以及轉用的搜尋引擎夥伴等等）。
+* __互動資料__：Firefox 向我們傳送您與 Firefox 互動的資料（如開啟分頁及視窗數量、瀏覽網頁數量、Firefox 附加元件安裝數量及類型、工作時間長短等），以及 Mozilla 或我們夥伴所提供的 Firefox 功能（例如與 Firefox 搜尋功能以及搜尋夥伴轉介資料的互動情形）。
 
-* __技術資料__：Firefox 會傳送您的 Firefox 版本及語言、裝置作業系統及硬體配置、發生錯誤時的記憶體及基本資訊、更新、安全瀏覽、啟用等自動化程序執行的結果等資料給我們。Firefox 將資料傳送給我們的時候，我們也會暫時收集您的 IP 地址，列在我們伺服器的紀錄內。
+* __技術資料__：Firefox 向我們傳送您的 Firefox 版本與語言的相關資料；裝置作業系統與硬體組態；當機與錯誤的相關記憶與基本資訊；自動化程序，如更新、安全瀏覽與啟用等程序的結果。Firefox 向我們傳送資料的時候，您的 IP 位址會暫時被收集做為我們伺服器日誌的一部分。
 
-請閱讀 Telemetry 功能的說明文件：[桌機版](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)，或者瞭解如何在您的裝置[關閉](https://support.mozilla.org/kb/send-performance-data-improve-firefox)此類資料收集活動。
+您可以閱讀遙測文件，[桌面版在此](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)，[Android 版在此](https://dictionary.telemetry.mozilla.org/apps/fenix)，[iOS 版在此](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)；或瞭解如何選擇退出此類資料收集行為，[桌面版在此](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)，[行動裝置版在此](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)。
 {: #telemetry }
 
-### 設定預設搜尋提供商 {: #defaultsearch }
+### 搜尋 {: #defaultsearch }
 
-* __位置資料__：當您首次使用 Firefox 時，Firefox 會使用您的 IP 地址，並依據您所在的國家為您設定預設的搜尋提供商。[進一步瞭解](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
+您可以從 Firefox 內部多個位置直接搜尋內容，如智慧位址列 (Awesome Bar)、搜尋列或使用新分頁搜尋。我們會收到有關您如何使用 Firefox 搜尋功能，以及您透過我們的搜尋夥伴所要求的搜尋次數等資料。
 
-### 建議相關內容
+* __地點資料__：您第一次使用 Firefox 時，Firefox 將會使用您的 IP 位址，並以您的國家/地區為基礎設定預設搜尋服務提供商。[了解更多資訊](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-Firefox 會顯示內容，如「隻字片語」（由 Mozilla 傳送之訊息）、推薦附加元件、熱門網站（Mozilla 推薦 Firefox 初次使用者瀏覽的網站）、Pocket 推薦內容（Mozilla 系列產品之一）等。
+* __搜尋字串__：如果您指定的搜尋服務提供商支援搜尋建議服務，則 Firefox 會預設向您的搜尋服務提供商傳送搜尋字串，以便協助您找到其他人曾經搜尋過的常用語彙，並改善您的搜尋體驗。[了解相關資訊](https://support.mozilla.org/kb/search-suggestions-firefox)，包括停用此功能的方法。您啟用 Firefox Suggest 之後，我們和我們的夥伴可能也會收到您的搜尋字串。[請看下文了解更多資訊](#searches)。
 
-* __地理位置資料__：Firefox 會使用您的 IP 位址，然後根據您的國家及州別提出相關建議內容。
+### 推薦相關內容
 
-* __技術及互動資料__：Firefox 會將我們推薦內容的位置、大小及佈置等資料，以及您如何與 Firefox 推薦內容互動的基本資料（包含推薦內容顯示及點閱次數）傳送給我們。
+Firefox 會顯示內容，如推薦附加元件、熱門網站（Mozilla 推薦 Firefox 初次使用者瀏覽的網站）、Pocket 推薦內容（Mozilla 系列產品之一）等。
 
-* __Snippet 網頁資料__：當您點開 Snippet 鏈結時，我們可能會接收到您前往鏈結的資料。這項資訊跟您其他的資訊之間沒有關聯。[進一步瞭解](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html)。
-{: #snippets }
+* __地點資料__：Firefox 會使用您的 IP 位址，然後根據您的國家及州別提出相關建議內容。
 
-* __Pocket 推薦內容使用之網頁、語言及地理位置資料__：我們會根據您的網頁瀏覽記錄、語言及國家地理位置等資訊推薦內容。系統會根據您的網頁瀏覽記錄決定您會看到的內容，這項程序會在您本機的 Firefox 複本內處理，Mozilla 及 Pocket 都不會收到您的網頁瀏覽記錄複本。為了讓您看到和所在地理位置相關的 Pocket 推薦內容，Firefox 會和 Pocket 分享您的語言及國家地理位置。
+* __技術與互動資料__：Firefox 會向我們傳送諸如我們所建議內容的位置、大小與置入方式等資料，以及您與建議內容的互動方式資料。其中包括內容的顯示或點擊次數。
+
+* __Pocket 推薦內容__：我們會根據您的網頁瀏覽記錄、語言及國家地理位置等資訊推薦內容。系統會根據您的網頁瀏覽記錄決定您會看到的內容，這項程序會在您本機的 Firefox 複本內處理，Mozilla 及 Pocket 都不會收到您的網頁瀏覽記錄複本。為了讓您看到和所在地點相關的 Pocket 推薦內容，Firefox 會和 Pocket 分享您的語言及國家地理位置。
 
 Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料。我們也會和第三方廣告平台 Adzerk 分享您觀看及點閱之贊助內容的彙總資料，以便廣告商了解文章點閱人數。這項彙總資料不會辨識您的個人身分。
 
-* __熱門網站使用之地理位置資料及互動資料__：您按下新分頁內的 Amazon.com 熱門網站後，我們會和 Amazon 及 AdMarketplace（第三方轉介平台）分享您的國家及點閱時間等資訊，以便確認您導覽前往 Amazon。Firefox 不會和 Amazon 及 AdMarketplace 分享您的 IP 位址或其他可供辨識您個人身分的資訊。
+* __熱門網站__：您按下新分頁內的贊助熱門網站後，我們會和 AdMarketplace（第三方轉介平台）分享您的國家、地區、郡別（如果您位於美國）及點閱時間等資訊，以便確認您已導覽前往該網站。Firefox 不會分享您的 IP 位址或其他可供辨識您個人身分的資訊。
 
-* __推薦附加元件及功能__：我們會在兩個地方推薦附加元件：管理您的擴充套件頁面（about:addons），以及您搜尋或輸入網址的 Awesome Bar 智慧位址列。我們也可能會透過 Awesome Bar 內推薦 Firefox 功能。我們會根據 cookie 在 about:addons 內推薦內容。我們會根據您使用 Firefox 的情形在 Awesome Bar 內推薦內容。Mozilla 不會收到您的瀏覽器記錄。這項程序會在您電腦本機的 Firefox 複本內處理。進一步了解 [Awesome Bar 推薦內容](https://support.mozilla.org/kb/extension-recommendations)及[擴充套件頁面推薦內容](https://support.mozilla.org/kb/personalized-extension-recommendations).
+* __推薦附加元件及功能__：我們會在兩個地方推薦附加元件：管理您的擴充套件頁面（about:addons），以及您搜尋或輸入網址的智慧位址列 (Awesome Bar)。我們也可能會透過智慧位址列 (Awesome Bar) 推薦 Firefox 功能。我們會根據 cookie 在 about:addons 內推薦內容。我們會根據您使用 Firefox 的情形在智慧位址列 (Awesome Bar) 內推薦內容。Mozilla 不會收到您的瀏覽器記錄。這項程序會在您電腦本機的 Firefox 複本內處理。進一步了解[智慧位址列 (Awesome Bar) 推薦內容](https://support.mozilla.org/kb/extension-recommendations)及[擴充套件頁面推薦內容](https://support.mozilla.org/kb/personalized-extension-recommendations)
 
-###為所有使用者增強安全性{: #security }
+### 為所有使用者增強安全性{: #security }
 
 **傳輸至 DNS 解析程式服務的網頁資料**：部份美國使用者的 Firefox 會向解析程式服務傳送 DNS 要求，該服務已同意 Mozilla 的[解析程式嚴格隱私權標準](https://wiki.mozilla.org/Security/DOH-resolver-policy)。這樣做能進一步防止隱私內容洩漏至當地網路，也能防護特定的 DNS 安全性攻擊。該服務在 24 小時內便會刪除 DNS 要求的系統記錄，並只會將該記錄用來進行 DNS 解析。[進一步了解](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看我們以下列出的預設 DNS 解析程式服務：
 
@@ -60,61 +61,57 @@ Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料�
 
 **傳輸至憑證頒發機構的網頁及技術資料**：您進入安全網站（通常可藉由網址以「HTTPS」開頭作為辨識）後，Firefox 會驗證該網站的[憑證](https://support.mozilla.org/kb/secure-website-certificate)。這項程序中，Firefox 可能會傳送該網站的特定資訊給該網站所辨識的憑證頒發機構。若選擇退出，則會增加私人資訊遭他人攔截的風險。[了解更多資訊](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
-### 錯誤報告 {: #crash-reporter }
-預設情況下，桌機版 Firefox 會在發生錯誤時，要求您回傳含有更多詳細資訊的報告給 Mozilla，但您可隨時拒絕此要求。
+### 當機報告 {: #crash-reporter }：
+桌面版 Firefox 預設會要求您向 Mozilla 分享當機情形資訊較為詳細的報告，但是您必定可以選擇拒絕分享。
 
-* __敏感性資料__：當機報告內含「傾印檔案」，即是發生錯誤時，Firefox 的記憶體內容，其中可能包含能夠識別您或對您較為敏感的資料。
+* __敏感性資料__：當機報告內含 Firefox 在當機時的記憶體內容「傾印檔案」，內容可能含有可供辨識您身分，或其他屬於您的敏感性資料。
 
-* __網頁資料__：當機報告內含發生錯誤時，開啟的網址資訊。
+* __網頁資料__：當機報告內含當機時的作用網址。
 
-* __技術資料__：當機報告內含 Firefox 發生錯誤的原因、裝置記憶體狀態以及當下的執行情況等資料。
+* __技術資料__：當機報告內含 Firefox 當機原因資料，以及當機時的裝置記憶體及執行內容等狀態。
 
-請前往[這裡](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html)閱讀完整的說明文件。
+完整文件請至[此處](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html)閱讀。
 
-### 統計及支援我們的行銷活動
+### 衡量與支援我們的行銷
 
-* __促銷及推薦指引資料__：將會協助 Mozilla 瞭解我們行銷活動的成效。
+* __宣傳活動與轉介資料__：這些資料可以幫助 Mozilla 瞭解行銷宣傳活動的成效。
 {: #referraltracking }
 
-_桌機版_：預設情況下，Firefox 會在安裝程式內傳送 HTTP 資料給 Mozilla。這能讓我們對判斷是由哪個網站或哪場行銷活動（若有的話），轉介您前往我們下載頁面。請閱讀[說明文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或在安裝前[關閉回傳](https://support.mozilla.org/kb/desktop-privacy)。
+    _桌面版_：Firefox 預設會向 Mozilla 傳送 Firefox 安裝程式可能內含的 HTTP 資料。這可以幫助我們瞭解轉介您來到我們下載頁面的網站網域或廣告宣傳活動（若有的話）。請[閱讀文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)，或[選擇退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-_Android 裝置_：Firefox 預設會將行動活動資料傳送給我們的分析供應商 Adjust，該公司有自己的[隱私權政策](https://www.adjust.com/terms/privacy-policy/)。行動活動資料包括 Google 廣告 ID、IP 位址、時間戳記、國家、語言、作業系統、應用程式版本等。閱讀[文件](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html)。
+    _Android 裝置_：Firefox 預設會將行動活動資料傳送給我們的分析供應商 Adjust，該公司有自己的[隱私權政策](https://www.adjust.com/terms/privacy-policy/)。行動活動資料包括 Google 廣告 ID、IP 位址、時間戳記、國家、語言、作業系統、應用程式版本等。閱讀[文件](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
 {: #thirdparty }
-
-* __技術及互動資料__：
-
-_iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firefox 功能的資料給我們的行動版行銷服務業者 Leanplum，它們有自己的[隱私權政策](https://www.leanplum.com/privacy/)。這項資料能讓我們測試各種功能及體驗，並提供自訂訊息及推薦內容，以便增進您使用 Firefox 的體驗。
-
-請閱讀說明文件：[iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) 或 [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html)，或者瞭解如何[停用此功能](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices)。
 
 ---
 
-## 若您使用這些功能，Firefox 將會分享為提供該功能所需的資料： {: #optional-features }
+## 如果您使用這些功能，則 Firefox 將會分享資料，以便供您使用功能，並幫助我們改善產品及服務品質： {: #optional-features }
 
-### 搜尋
+### Firefox Suggest {: #searches }
 
-您可以在 Firefox 當中的好幾個地方直接進行搜尋，包含 Awesome Bar、搜尋列或在「新分頁」內搜尋。 _Mozilla 不會收到您的搜尋內容。_ 搜尋資料將會傳送給您的搜尋供應商，他們有自己的隱私權政策。
+Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優質的資訊。這項新功能稱作 Firefox Suggest，目前已向美國境內的使用者提供早期版本使用。Firefox Suggest 會為您顯示推薦及贊助的內容。我們採取的措施會限制我們和夥伴辨識您身分的方法。[了解更多資訊](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)，包括啟用及停用此功能的方法。
 
-* [__Google__](https://policies.google.com/privacy)
-* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
-* [__Yandex__](https://yandex.ru/legal/confidential/)
+為增進瀏覽體驗及產品品質，Firefox 會分享下列資訊：
 
-* __搜尋建議__：預設情況下，Firefox 會將搜尋內容傳送給您的搜尋供應商，以便協助您檢視其他人經常搜尋的句子，以及增進您的搜尋使用體驗。若您使用的搜尋提供商不支援搜尋建議功能，就不會傳送這些資訊。
-{: #searchsuggestions }
+* __搜尋__：Firefox 會向 Mozilla 傳送您在搜尋列中輸入的內容，Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
-[進一步瞭解](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar)，包含如何停用此功能的資訊。
+* __您瀏覽的網站__：您按下推薦項目後，Firefox 會將該網站的網址傳送給 Mozilla，而 Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)。
 
-### Firefox 帳號及加入 Firefox
+* __地點資料__：Firefox 會向 Mozilla 傳送您的 IP 位址，以便用來根據您的國家/地區、州別、城市推薦內容給您。Mozilla 可能會和我們的夥伴分享地點資訊，但是夥伴不會收到您的 IP 位址。
 
-* __Firefox 帳號資料__：當您註冊 Firefox 帳號時，Mozilla 會收到您的電子郵件地址及經雜湊演算法處理過的密碼。您可以選擇要不要附上顯示名稱或個人圖片。您的電子郵件地址會傳送給我們的電子郵件服務供應商 SalesForce Marketing Cloud，它們有自己的[隱私權政策](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)。若您使用您的 Firefox 帳號登入其他網站或服務（例如 AMO 或 Pocket），我們會收到您登入這些服務時的時間戳記。
+* __技術與互動資料__：Firefox 會向 Mozilla 傳送的資料內容如 Firefox 建議或顯示內容的次數、您點閱此類內容的次數，以及您和 Firefox Suggest 互動情形的基本資料等。Mozilla 會和我們的[夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)分享建議顯示次數、點閱次數等一遜，以便增進驗證及功能品質。
 
-* __位置資料__：為了安全起見，我們會儲存您存取 Firefox 帳號時使用的 IP 地址，以便估測您所在的城市及國家。當我們偵測到可疑的活動，例如有人從其他地方登入您的帳號時，我們會使用這個資料傳送電子郵件警告給您。
 
-* __互動資料__：我們會收到您瀏覽 Firefox 帳號網站、與這些網站的互動過程、選單偏好設定，以及您如何與初次使用體驗、電子郵件及簡訊互動的過程等資訊。[進一步瞭解](https://www.mozilla.org/privacy/websites/) Mozilla 的網站及電子郵件資料實踐方針。
+### Firefox 帳戶
 
-* __技術資料__：為了顯示有哪些裝置與您的 Firefox 帳號同步，以及為了某些功能，我們會儲存您裝置作業系統、瀏覽器及版本、時間戳記、語系等資訊，我們也會儲存連線到您帳號上的裝置的這些資訊。
+* __註冊資料__：當您建立 Firefox 帳戶或註冊 Firefox 時，Mozilla 將會收到您的電子郵件地址以及密碼的雜湊。您可以選擇提供顯示名稱或個人檔案圖片。您的電子郵件地址將會傳送到我們的電子郵件供應商 Acoustic 處，該公司有自己的[隱私權政策](https://acoustic.com/privacy-notice/)。
 
-閱讀[完整說明文件](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md)或[進一步瞭解](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts)，包含如何[刪除您的帳號](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account)的資訊。
+* __地點資料__：為了安全起見，我們會儲存存取您 Firefox 帳戶的 IP 位址，藉此大略辨識您的城市與國家/地區。如果我們偵測到從其他位置登入帳戶等可疑活動，便會用此資料傳送電子郵件警告給您。
+
+* __互動資料__：我們會收到您進入 Firefox 帳戶網站、儀表板、選單喜好設定、您透過 Firefox 帳戶使用的產品及服務、您和我們的電子郵件及簡訊的互動情形等資料。我們會用這些資料瞭解您使用我們產品及服務的方式，並藉此為您提供更實用的 Firefox 帳戶秘訣及產品內部訊息。
+
+* __技術資料__：為了顯示和您的 Firefox 帳戶同步中的裝置，以及為了提供安全性功能，我們會儲存您裝置的作業系統、瀏覽器及版本、時間戳印、語系，以及和您帳戶連線的裝置內的相同資訊。如果您使用 Firefox 帳戶登入其他網站或服務（如 AMO 或 Pocket），則我們會收到登入的時間戳記。
+
+請閱讀完整文件或了解更多資訊，包括如何管理您的 Firefox 帳戶資料，或我們的[網站及電子郵件](https://www.mozilla.org/privacy/websites/)的資料實踐方式。您也可以閱讀 Firefox 帳戶連線裝置的隱私權公告：
 
 * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
@@ -124,41 +121,41 @@ _iOS 及 Android 版_：預設情況下，Firefox 會傳送您使用哪些 Firef
 
 ### Sync {: #sync }
 
-* __同步資料__：如果您使用 Sync 功能，Mozilla 會以加密過的形式接收您在不同裝置間的同步資訊。這可能包含 Firefox 的分頁、附加元件、密碼、自動完成的付款資訊、書籤、瀏覽紀錄及偏好設定。刪除 Firefox 帳號也會刪除相關的 Firefox Sync 內容。您也可以閱讀[說明文件](https://moz-services-docs.readthedocs.io/en/latest/sync/)。
+* __同步化資料__：您啟用 Sync 之後，Mozilla 會以加密形式收到您跨各裝置所同步化的資訊。其中包括 Firefox 分頁、附加元件、密碼、付款自動填寫資訊、書籤、記錄、喜好設定等。刪除您的 Firefox 帳戶將會刪除相關的 Firefox Sync 內容。您也可以閱讀[文件](https://moz-services-docs.readthedocs.io/en/latest/sync/)。
 
-* __技術及互動資料__：如果您使用 Sync 功能，Firefox 會定期透過 Telemetry 功能傳送您最近一次同步過程的資訊，例如發生時間、結果是成功或失敗，以及進行同步的裝置類型等等。您也可以閱讀[說明文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)。
+* __技術與互動資料__：啟用同步化之後，Firefox 將會定期透過遙測傳送最近一次同步化資料嘗試的基本資訊，如嘗試時間、嘗試成功或失敗，以及嘗試同步化的裝置類型等。您也可以閱讀[文件](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html)。
 
-[進一步瞭解](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)，包含如何啟用或停用 Sync 功能的資訊。
+[了解更多資訊](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)，包括啟用及停用同步化的方法。
 
-### 位置 {: #location-services }
+### 地點 {: #location-services }
 
-* __傳送給 Google 地理位置服務的位置資料__：Firefox 在判斷並與網站分享您的位置資訊（例如地圖網站需要您的所在位置才能提供導航資訊時）之前，一定會詢問您的意願。為了為您定位，Firefox 可能會使用您作業系統的地理定位功能、Wi-fi 網路連線、行動網路基地台或 IP 地址，並可能會將這些資訊傳送給 Google 的地理位置服務，該服務有其自己的[隱私權政策](https://www.google.com/privacy/lsf.html)。
+* __向 Google 地理位置服務傳送地點資料__：Firefox 在判斷您的地點並向請求網站分享之前，一律會先詢問（例如：如果地圖網站需要您的地點才能提供方向指引）。Firefox 判斷地點的時候，可能會利用您作業系統的地理位置功能、Wi-fi 網路、行動電話基地台或 IP 位址，並且可能將這項資料傳送到 Google 的地理位置服務，這個服務有自己的[隱私權政策](https://www.google.com/privacy/lsf.html)。
 
-[進一步瞭解](https://www.mozilla.org/firefox/geolocation/)。
+[了解更多資訊](https://www.mozilla.org/firefox/geolocation/)。
 
 ### 網站通知 {: #push-notifications }
 
-* __連線資料__：如果您允許某網站向您傳送通知，Fierfox 會連線至 Mozilla 並使用您的 IP 位置來轉遞訊息。Mozilla 無法存取訊息內容。
+* __連線資料__：如果您允許網站向您傳送通知，則 Firefox 會和 Mozilla 連線，並使用您的 IP 位址轉送通知。Mozilla 無法存取訊息內容。
 
-* __互動資料__：我們收集的綜合資料包含 Firefox 訂閱或取消訂閱網站通知的數量、傳送訊息的數量、時間戳記及傳送者（其中可能包含特定的網站提供商）。
+* __互動資料__：我們會收到如 Firefox 訂閱及取消訂閱網站通知數量、訊息傳送數量、時間戳記、傳送者（可能包括特定網站提供商）等彙總資料。
 
-請閱讀[完整說明文件](https://mozilla-push-service.readthedocs.io/en/latest/)或[進一步瞭解](https://support.mozilla.org/kb/push-notifications-firefox)，包含如何撤回網站通知的資訊。
+請閱讀[完整文件](https://mozilla-push-service.readthedocs.io/en/latest/)或[了解更多資訊](https://support.mozilla.org/kb/push-notifications-firefox)，包括撤回網站通知的方法。
 
 ### 附加元件 {: #addons }
 
-您可以透過 addons.mozilla.org（「AMO」）或 Firefox 工具列，選單按鈕中的 Firefox 附加元件管理員來安裝附加元件。
+您可以透過 addons.mozilla.org（「AMO」）或附加元件管理員（可由工具列中的 Firefox 選單按鈕存取）安裝附加元件。
 
-* __搜尋內容__：您在附加元件管理員內輸入的搜尋內容會傳送給 Mozilla，以便提供您我們推薦使用的附加元件。
+* __搜尋字串__：附加元件管理員中的搜尋字串將會傳送到 Mozilla，以便為您提供建議使用的附加元件。
 
-* __互動資料__：我們會收到您瀏覽 AMO 網站及 Firefox 附加元件管理員的綜合資料，以及您如何與這些頁面內容互動的過程。請閱讀 [Mozilla 網站](https://www.mozilla.org/privacy/websites/)上的資料實踐方針。
+* __互動資料__：我們會收到使用 Firefox 進入 AMO 網站及附加元件管理員，以及和這些頁面的互動情形等彙總資料。請閱讀 [Mozilla 網站](https://www.mozilla.org/privacy/websites/)提供的資料實踐方式。
 
-* __更新用技術資料__：Firefox 會定期連線到 Mozilla 更新附加元件。為了安裝正確的更新，系統會傳送您安裝的附加元件、Firefox 版本、語言及裝置作業系統等資訊。
+* __更新使用的技術資料__：Firefox 會定期連線到 Mozilla，以便安裝附加元件的更新內容。系統將會使用您已安裝的附加元件、Firefox 版本、語言以及裝置作業系統套用正確的更新內容。
 
 ---
 
-### 補充說明
+### 註腳
 
-這項隱私權聲明適用於 Mozilla 發佈的 Firefox 最新一般版本。如果您的 Firefox 來自不同發行管道，或您使用較舊的版本時，您所使用的 Firefox 內可能會有不同的隱私權規定。
+本隱私權公告適用對象為由 Mozilla 發佈，最新一般釋出版本的 Firefox。如果您透過其他來源取得 Firefox，或執行較舊的版本，則您的 Firefox 複本內可能含有不同的隱私權特性。
 {: #pre-release }
 
-Mozilla 的預先發佈版 Firefox（發佈管道包含 Nightly、Beta、TestFlight 及 BuddyBuild）仍然處於開發狀態，並可能會有不同的隱私權規定。
+Mozilla 的預先釋出版 Firefox（透過 Nightly、Beta、Developer Edition、TestFlight 等管道發佈）為開發平台，並經常更新實驗性的功能與研究。除了本隱私權公告說明的資料收集行為之外，這些版本可能會預設傳送特定網路活動類型及當機資料給 Mozilla，在某些情況下，也會傳送給我們的夥伴。所有資料收集及分享行為皆遵照我們的 [Firefox 資料收集政策](https://wiki.mozilla.org/Firefox/Data_Collection)，我們也會永遠保持透明的方式，並提供您控管的方法。

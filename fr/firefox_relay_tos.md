@@ -1,7 +1,7 @@
 ﻿# Conditions d’utilisation de Firefox Relay
 
-Version 1.0 - Date d’effet : mercredi 27 octobre 2021
-{: datetime="2021-10-27" }
+Version 1.1 - Date d’effet : jeudi 11 novembre 2021
+{: datetime="2021-11-11" }
 
 Firefox Relay (le « Service ») vous permet de sécuriser votre adresse email principale en créant une adresse email unique (un « alias »), qui vous permet d’envoyer et de recevoir des emails sans révéler votre adresse email principale.
 
@@ -19,27 +19,13 @@ __Votre confidentialité.__ La [Politique de confidentialité](https://www.mozil
 
 __Votre utilisation du Service.__ Mozilla vous autorise à utiliser Firefox Relay conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence, revendre ou exploiter commercialement le Service. Vous acceptez d’autre part que votre utilisation du Service sera conforme aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
 
-Vous accordez à Mozilla tous les droits nécessaires au fonctionnement du Service, notamment le traitement de vos adresses email, de vos alias et libellés d’alias que vous créez et des emails que vous envoyez et recevez par le biais du Service. Mozilla ne conserve pas le contenu des emails envoyés ou reçus par le biais de Firefox Relay.
+Vous accordez à Mozilla tous les droits nécessaires au fonctionnement du Service, notamment le traitement de vos adresses email, de vos alias et libellés d’alias que vous créez et des emails que vous envoyez et recevez par le biais du Service. Nous ne lisons ni ne stockons le contenu de vos messages. Si un email ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours).
 
 Pour en savoir plus sur le fonctionnement du Service, consultez le [code source](https://github.com/mozilla/fx-private-relay) de Mozilla.
 
 __Vos commentaires et suggestions.__ Si vous communiquez à Mozilla des idées, suggestions ou autres avis à propos de Firefox Relay ou des services que vous utilisez avec Firefox Relay, vous autorisez Mozilla à les exploiter gratuitement et sans autres obligations.
 
 __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence ne vous cèdent aucun droit de propriété intellectuelle sur le Service qui ne soit expressément déclaré dans les présentes Conditions. Par exemple, ces Conditions ne vous accordent pas le droit d’utiliser les droits d’auteur, noms commerciaux, marques de commerce, ou toute autre caractéristique distinctive de la marque Mozilla ou de ses concédants de licence. Le logiciel Mozilla est distribué dans le cadre et sous réserve de la version courante de la licence publique de Mozilla ou d’autres licences offrant des permissions similaires.
-
-## Votre paiement
-
-Nous proposons Firefox Relay sous forme de service gratuit ou d’abonnement payant. 
-
-__Nombre d’alias et personnalisation.__ Avec le service gratuit, vous pouvez créer 5 alias d’adresses email aléatoires. Avec l’abonnement payant, vous pouvez créer autant d’alias que vous le souhaitez, et créer un sous-domaine personnalisé. 
-
-__Paiement.__ Nous proposons Firefox Relay en tant que service d’abonnement à renouvellement automatique. Lors de votre inscription, vous nous autorisez à débiter le mode de paiement que vous avez fourni des frais d’abonnement pour la première période d’utilisation du Service. Votre abonnement est renouvelé automatiquement à la fin de chaque période, et vous nous autorisez à vous facturer les frais d’abonnement à chaque début de période. Si vous cessez les paiements, nous suspendrons immédiatement votre compte et pourrons le supprimer après 2 mois sans paiement.
-
-__Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à Firefox Relay via le site Web de Mozilla, si vous annulez votre compte dans les 30 premiers jours, vous pouvez demander un remboursement ; Mozilla vous remboursera ce premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
-
-## Vous pouvez annuler votre abonnement à tout moment
-
-__Annulation.__ Vous pouvez annuler votre abonnement à Firefox Relay à tout moment en désactivant votre compte. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des emails que nous vous envoyons ou en accédant à la section Abonnements et paiements de votre compte Firefox, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès au Service à la fin de la période de facturation en cours.
 
 ## Vous êtes responsable des conséquences de votre utilisation du Service
 

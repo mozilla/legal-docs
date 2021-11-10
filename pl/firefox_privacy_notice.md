@@ -1,7 +1,7 @@
-## <span class="privacy-header-firefox">Zasady prywatności</span> <span class="privacy-header-policy">przeglądarki Firefox</span>
+﻿## <span class="privacy-header-policy">Zasady prywatności</span> <span class="privacy-header-firefox">przeglądarki Firefox
 
-*Data wejścia w życie: 8 września 2020 r.*
-{: datetime="2020-09-8" }
+*Data wejścia w życie: 30 września 2021 r.*
+{: datetime="2021-09-30" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -17,29 +17,30 @@ W niniejszych Zasadach prywatności wyjaśniamy, jakie dane udostępnia Firefox,
 
 * __Dane techniczne__: Firefox wysyła do nas dane dotyczące wersji i języka Firefoksa, konfigurację systemu operacyjnego urządzenia i sprzętu, informacje o pamięci, podstawowe informacje o awariach i błędach oraz wyniki zautomatyzowanych procesów, takich jak aktualizacje, bezpieczne przeglądanie i aktywacja. Kiedy Firefox wysyła do nas dane, adres IP użytkownika jest tymczasowo gromadzony jako część dzienników naszych serwerów.
 
-Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://firefox-source-docs.mozilla.org/mobile/android/index.html) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
-### Ustawienie domyślnego dostawcy usług wyszukiwania {: #defaultsearch }
+### Wyszukiwanie {: #defaultsearch }
+
+Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich jak inteligentny pasek adresu, pasek wyszukiwania lub nowa karta. Otrzymujemy dane o sposobie korzystania przez użytkownika z wyszukiwania w Firefoksie oraz o liczbie żądań wyszukiwania użytkownika u naszych partnerów w zakresie usług wyszukiwania. 
 
 * __Dane lokalizacji__: Przy pierwszym użyciu Firefox używa adresu IP w celu ustawienia domyślnego dostawcy usług wyszukiwania na podstawie kraju użytkownika. [Więcej informacji](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
+* __Zapytania wyszukiwania__: Firefox domyślnie wysyła zapytania wyszukiwania do dostawcy usług wyszukiwania, aby pomóc użytkownikom odkrywać typowe frazy, których szukali inni użytkownicy, oraz poprawić jakość wyszukiwania, jeśli wybrany dostawca usług wyszukiwania obsługuje sugestie wyszukiwania. [Uzyskaj więcej informacji](https://support.mozilla.org/kb/search-suggestions-firefox), łącznie ze sposobem wyłączenia tej funkcji. Jeśli włączono Podpowiedzi Firefoksa, my i nasi partnerzy możemy także otrzymywać zapytania wyszukiwania użytkownika. [Dowiedz się więcej poniżej](#searches). 
+
 ### Proponowanie istotnej zawartości
 
-Firefox wyświetla zawartość, taką jak „wycinki” (wiadomości od Mozilli), rekomendacje dodatków, popularne strony (witryny polecane przez Mozillę nowym użytkownikom Firefoksa) i rekomendacje Pocket (usługa stanowiąca część rodziny Mozilla).
+Firefox wyświetla zawartość, taką jak rekomendacje dodatków, popularne strony (witryny polecane przez Mozillę nowym użytkownikom Firefoksa) i rekomendacje Pocket (usługa stanowiąca część rodziny Mozilla).
 
 * __Dane lokalizacji__: Firefox używa adresu IP w celu proponowania istotnej zawartości na podstawie kraju i stanu użytkownika.
 
-* __Dane techniczne i interakcji__: Firefox wysyła do nas dane, takie jak pozycja, rozmiar i umiejscowienie proponowanej przez nas zawartości, a także podstawowe dane interakcji użytkownika z proponowaną zawartością w Firefoksie. Obejmuje to liczbę wyświetleń lub kliknięć proponowanej zawartości.
+* __Dane techniczne i interakcji__: Firefox wysyła do nas dane, takie jak pozycja, rozmiar i umiejscowienie proponowanej przez nas zawartości, a także podstawowe dane interakcji użytkownika z zawartością. Obejmuje to liczbę wyświetleń lub kliknięć zawartości.
 
-* __Dane stron internetowych dla wycinków__: Kiedy użytkownik kliknie odnośnik wycinka, możemy otrzymać dane dotyczące użytego odnośnika. Te informacje nie zostają powiązane z żadnymi innymi informacjami na temat użytkownika. [Więcej informacji](https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html).
-{: #snippets }
-
-* __Strona internetowa, język i dane lokalizacji dla rekomendacji Pocket__: Zawartość polecamy na podstawie historii przeglądania, języka i kraju użytkownika. Proces określania historii do wyświetlenia na podstawie historii przeglądania odbywa się lokalnie w Firefoksie, a Mozilla ani Pocket nie otrzymują kopii historii przeglądania użytkownika. Aby pomóc w wyświetlaniu istotnych rekomendacji Pocket na podstawie lokalizacji użytkownika, Firefox udostępnia język i kraj użytkownika usłudze Pocket.
+* __Rekomendacje Pocket__: Zawartość polecamy na podstawie historii przeglądania, języka i kraju użytkownika. Proces określania historii do wyświetlenia na podstawie historii przeglądania odbywa się lokalnie w Firefoksie, a Mozilla ani Pocket nie otrzymują kopii historii przeglądania użytkownika. Aby pomóc w wyświetlaniu istotnych rekomendacji Pocket na podstawie lokalizacji użytkownika, Firefox udostępnia język i kraj użytkownika usłudze Pocket.
 
     Mozilla i Pocket otrzymują zagregowane dane dotyczące rekomendacji wyświetlonych i klikniętych przez użytkownika. Ponadto zagregowane dane dotyczące treści sponsorowanych, które użytkownik widzi i klika, udostępniamy naszej zewnętrznej platformie reklamowej Adzerk, aby reklamodawcy mogli sprawdzić, ile osób kliknęło ich artykuły. Te zagregowane dane nie identyfikują użytkownika osobiście.
 
-* __Dane lokalizacji i dane interakcji dla popularnych stron__: Kiedy użytkownik kliknie kafelek popularnej strony Amazon.com na nowej karcie, udostępniamy kraj użytkownika i czas kliknięcia firmie Amazon i platformie AdMarketplace (platforma poleceń firmy zewnętrznej) w celu weryfikacji przejścia do firmy Amazon. Firefox nie udostępnia adresu IP użytkownika ani żadnych informacji, które mogłyby zostać użyte do identyfikacji użytkownika przez firmę Amazon lub AdMarketplace.
+* __Popularne strony__: Kiedy użytkownik kliknie kafelek Sponsorowane popularne strony na nowej karcie, udostępniamy kraj, region i hrabstwo (w przypadku lokalizacji w Stanach Zjednoczonych) użytkownika i czas kliknięcia platformie AdMarketplace (platforma poleceń firmy zewnętrznej) w celu weryfikacji przejścia do witryny. Firefox nie udostępnia adresu IP użytkownika ani żadnych informacji, które mogłyby zostać użyte do identyfikacji użytkownika.
 
 * __Rekomendacje dodatków i funkcji__: Dodatki są polecane w dwóch miejscach: na stronie Zarządzanie rozszerzeniami (about:addons) i na inteligentnym pasku adresu, na którym można wyszukiwać lub wprowadzać adresy URL. Ponadto na inteligentnym pasku adresu możemy polecać funkcje Firefoksa. Rekomendacje na stronie about:addons są oparte na ciasteczku. Rekomendacje na inteligentnym pasku adresu są oparte na interakcji użytkownika z Firefoksem. Mozilla nie otrzymuje historii przeglądarki użytkownika. Ten proces jest wykonywany lokalnie w kopii Firefoksa na komputerze użytkownika. Dowiedz się więcej na temat [rekomendacji na inteligentnym pasku adresu](https://support.mozilla.org/kb/extension-recommendations) lub [rekomendacji na stronie rozszerzeń](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
@@ -58,16 +59,16 @@ Firefox wyświetla zawartość, taką jak „wycinki” (wiadomości od Mozilli)
 
 **Dane techniczne i dotyczące stron internetowych dla usługi Bezpieczne przeglądanie Google**: Aby pomóc w ochronie przed pobraniem złośliwych plików, Firefox wysyła podstawowe informacje o nierozpoznanych plikach do pobrania, w tym nazwę pliku i adres URL, z którego pobrano plik, do usługi Bezpieczne przeglądanie Google. [Dowiedz się więcej](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) lub przeczytaj [Politykę prywatności firmy Google](https://www.google.com/policies/privacy/). Rezygnacja z tej usługi sprawi, że Firefox nie będzie w stanie ostrzegać o potencjalnie nielegalnych albo niebezpiecznych witrynach lub plikach do pobrania.
 
-**Dane techniczne i dotyczące stron internetowych dla organów certyfikacji**: Kiedy użytkownik odwiedza bezpieczną witrynę (zwykle identyfikowaną przy użyciu adresu URL rozpoczynającego się od „HTTPS”), Firefox weryfikuje [certyfikat](https://support.mozilla.org/kb/secure-website-certificate). Może to obejmować wysłanie przez Firefoksa pewnych informacji o witrynie do organu certyfikacji, który jest podawany przez tę witrynę. Rezygnacja z tej funkcji zwiększa ryzyko przechwycenia prywatnych informacji użytkownika. [Więcej informacji](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+**Dane techniczne i dotyczące stron internetowych dla organów certyfikacji**: Kiedy użytkownik odwiedza bezpieczną witrynę (zwykle identyfikowaną przy użyciu adresu URL rozpoczynającego się od „HTTPS”), Firefox weryfikuje [certyfikat](https://support.mozilla.org/kb/secure-website-certificate) witryny. Może to obejmować wysłanie przez Firefoksa pewnych informacji o witrynie do organu certyfikacji, który jest podawany przez tę witrynę. Rezygnacja z tej funkcji zwiększa ryzyko przechwycenia prywatnych informacji użytkownika. [Więcej informacji](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Raporty o awarii{: #crash-reporter }
+### Raporty o awarii {: #crash-reporter }
 Domyślnie w wersji Firefoksa na komputery prosimy o udostępnienie firmie Mozilla bardziej szczegółowych informacji o awariach, ale użytkownik zawsze może odrzucić tę prośbę.
 
-* __Wrażliwe dane__: Raporty o awarii zawierają „plik zrzutu” zawartości pamięci Firefoksa w momencie wystąpienia awarii. Taki plik może zawierać dane identyfikujące użytkownika lub inne wrażliwe dane.
+* __Wrażliwe dane__:  Raporty o awarii zawierają „plik zrzutu” zawartości pamięci Firefoksa w momencie wystąpienia awarii. Taki plik może zawierać dane identyfikujące użytkownika lub inne wrażliwe dane.
 
-* __Dane stron internetowych__: Raporty o awarii zawierają aktywny adres URL w momencie awarii.
+* __Dane stron internetowych__:  Raporty o awarii zawierają aktywny adres URL w momencie awarii.
 
-* __Dane techniczne__: Raporty o awarii zawierają dane wskazujące powody wystąpienia awarii Firefoksa oraz stan pamięci urządzenia i wykonywania w momencie awarii.
+* __Dane techniczne__:  Raporty o awarii zawierają dane wskazujące powody wystąpienia awarii Firefoksa oraz stan pamięci urządzenia i wykonywania w momencie awarii.
 
 Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
 
@@ -76,45 +77,41 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 * __Dane kampanii i odwołań__: Pomaga to firmie Mozilla mierzyć skuteczność kampanii marketingowych.
 {: #referraltracking }
 
-    _Na komputerach_: Firefox domyślnie wysyła do firmy Mozilla dane HTTP, które mogą być dołączone do instalatora Firefoksa. Umożliwiaj to nam zrozumienie, która domena internetowa lub kampania reklamowa (o ile w ogóle) skierowała użytkownika na naszą stronę umożliwiającą pobranie. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) lub [zrezygnuj](https://support.mozilla.org/kb/desktop-privacy) przed zainstalowaniem.
+    _Na komputerach_: Firefox domyślnie wysyła do firmy Mozilla dane HTTP, które mogą być dołączone do instalatora Firefoksa. Umożliwiaj to nam zrozumienie, która domena internetowa lub kampania reklamowa (o ile w ogóle) skierowała użytkownika na naszą stronę umożliwiającą pobranie. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) lub [zrezygnuj](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _W systemie Android_: Firefox domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który posiada własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/mobile/android/adjust.html).
+    _W systemie Android_: Firefox domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który posiada własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
-
-* __Dane techniczne i interakcji__:
-
-    _W systemach iOS i Android_: Firefox domyślnie wysyła dane dotyczące funkcji używanych w Firefoksie do firmy Leanplum, naszego dostawcy usług marketingowych, który posiada własną [politykę prywatności](https://www.leanplum.com/privacy/). Te dane umożliwiają nam testowanie różnych funkcji i materiałów, a także dostarczanie dostosowanych wiadomości i rekomendacji mających na celu poprawę doświadczeń użytkownika.
-
-    Przeczytaj dokumentację dla systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md) lub [Android](https://firefox-source-docs.mozilla.org/mobile/android/mma.html) albo dowiedz się, jak [wyłączyć tę funkcję](https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices).
 
 ---
 
-## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane w celu zapewnienia następującej funkcjonalności: {: #optional-features }
+## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
 
-### Wyszukiwanie
+### Podpowiedzi Firefoksa {: #searches }
 
-Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich jak inteligentny pasek adresu, pasek wyszukiwania lub nowa karta. _Mozilla nie otrzymuje zapytań wyszukiwania użytkownika._ Dane zapytania są wysyłane do dostawcy usług wyszukiwania, który ma własną politykę prywatności. Poniżej znajdują się odnośniki do domyślnych dostawców usług wyszukiwania:
+Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Podpowiedzi Firefoksa wyświetlają użytkownikowi polecaną i sponsorowaną zawartość. Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Uzyskaj więcej informacji](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), łącznie ze sposobem włączania i wyłączenia tej funkcji.
 
-* [__Google__](https://policies.google.com/privacy)
-* [__Microsoft (Bing)__](https://privacy.microsoft.com/privacystatement)
-* [__Yandex__](https://yandex.ru/legal/confidential/)
+Aby poprawić wrażenia z przeglądania i ulepszyć produkt, Firefox udostępnia następujące informacje:
 
-__Podpowiedzi wyszukiwania__: Firefox domyślnie wysyła zapytania wyszukiwania do dostawcy usług wyszukiwania, aby pomóc użytkownikom odkrywać typowe frazy, których szukali inni użytkownicy, oraz poprawić jakość wyszukiwania. Dane te nie będą wysyłane, jeśli wybrany dostawca usług wyszukiwania nie obsługuje podpowiedzi wyszukiwania.
-{: #searchsuggestions }
+* __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
 
-[Uzyskaj więcej informacji](https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar), łącznie ze sposobem wyłączenia tej funkcji.
+* __Odwiedzane witryny__: W przypadku klikniętych podpowiedzi Firefox wysyła do Mozilli adres URL witryny, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
-### Konta Firefoksa i dołączanie do Firefoksa
+* __Dane lokalizacji__: Firefox wysyła do Mozilli adres IP, którego używamy do proponowania istotnej zawartości na podstawie kraju, stanu i miasta użytkownika. Mozilla może udostępniać informacje o lokalizacji swoim partnerom, ale partnerzy nie otrzymają adresu IP użytkownika. 
 
-* __Dane konta Firefox__: Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Firefox. Użytkownik może dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy SalesForce Marketing Cloud, która ma własną [politykę prywatności](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/). Jeśli użytkownik użyje konta Firefox w celu zalogowania się do innych witryn lub usług (takich jak AMO lub Pocket), otrzymamy z tych usług sygnaturę czasową logowania użytkownika.
+* __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
 
-* __Dane lokalizacji__: Ze względów bezpieczeństwa przechowujemy adresy IP wykorzystywane przez użytkownika, aby uzyskać dostęp do swojego konta, w celu przybliżonego określenia miasta i kraju. Używamy tych danych do wysyłania alertów e-mail, jeśli wykryjemy podejrzaną aktywność, taką jako logowanie na konto z innych lokalizacji.
 
-* __Dane interakcji__: Otrzymujemy dane, takie jak wizyty i interakcje ze stroną internetową Konta Firefox i preferencjami menu, a także interakcje z wiadomościami dotyczącymi wdrażania, wiadomościami e-mail i SMS-ami. [Przeczytaj więcej informacji](https://www.mozilla.org/privacy/websites/) na temat zasad przetwarzania przez firmę Mozilla danych związanych z witrynami i wiadomościami e-mail.
+### Konta Firefox
 
-* __Dane techniczne__: Aby wyświetlać urządzenia zsynchronizowane z kontem Firefox i zapewnić funkcjonalność, przechowujemy informacje o systemie operacyjnym urządzenia, przeglądarce i wersji, sygnaturę czasową i ustawienia regionalne oraz analogiczne informacje dla urządzeń połączonych z kontem użytkownika.
+* __Dane rejestracji__: Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Firefox lub rejestracji w celu dołączenia do Firefoksa. Użytkownik może dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy Acoustic, która ma własną [politykę prywatności](https://acoustic.com/privacy-notice/).
 
-Przeczytaj [pełną dokumentację](https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md) lub [uzyskaj więcej informacji](https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts), w tym na temat sposobu [usunięcia konta](https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account).
+* __Dane lokalizacji__: Ze względów bezpieczeństwa przechowujemy adresy IP wykorzystywane przez użytkownika, aby uzyskać dostęp do swojego konta Firefox, w celu przybliżonego określenia miasta i kraju. Używamy tych danych do wysyłania alertów e-mail, jeśli wykryjemy podejrzaną aktywność, taką jako logowanie na konto z innych lokalizacji.
+
+* __Dane interakcji__: Otrzymujemy dane takie jak wizyty użytkownika w witrynie konta Firefox, panelach i preferencjach menu, produkty i usługi, z których użytkownik korzysta w związku z kontem Firefox oraz interakcje użytkownika z naszymi wiadomościami e-mail i SMS. Wykorzystujemy te dane do zrozumienia sposobu korzystania przez użytkownika z naszych produktów i usług oraz do wysyłania użytkownikowi bardziej przydatnych wskazówek dotyczących konta Firefox oraz wiadomości w produkcie.
+
+* __Dane techniczne__: Aby wyświetlać urządzenia zsynchronizowane z kontem Firefox i zapewnić funkcje bezpieczeństwa, przechowujemy informacje o systemie operacyjnym urządzenia, przeglądarce i wersji, sygnaturę czasową i ustawienia regionalne oraz analogiczne informacje dla urządzeń połączonych z kontem użytkownika. Jeśli użytkownik użyje konta Firefox w celu zalogowania się do innych witryn lub usług (takich jak AMO lub Pocket), otrzymamy z tych usług sygnaturę czasową logowania użytkownika.
+
+Przeczytaj pełną dokumentację lub uzyskaj więcej informacji, łączenie ze sposobem zarządzania danych konta Firefox i naszymi zasadami przetwarzania danych w zakresie [witryn i poczty e-mail](https://www.mozilla.org/privacy/websites/). Możesz także przeczytać zasady prywatności dotyczące usług połączonych z kontem Firefox, takich jak:
 
 * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)

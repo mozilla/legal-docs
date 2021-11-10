@@ -1,7 +1,7 @@
-## <span class="privacy-header-firefox">Informativa sulla privacy di Mozilla VPN</span> <span class="privacy-header-policy"></span>
+﻿## <span class="privacy-header-firefox">Informativa sulla privacy di Mozilla VPN</span> <span class="privacy-header-policy"></span>
 
-In vigore dal 6 maggio 2021
-{: datetime="2021-05-06" }
+In vigore dal mercoledì 20 ottobre 2021
+{: datetime="2021-10-20" }
 
 ## Mozilla progetta i suoi prodotti dando priorità alla tua privacy.
 
@@ -18,6 +18,8 @@ __Informazioni sull'account Firefox.__ Questo servizio richiede un account Firef
 __Informazioni sulla posizione.__ Mozilla VPN riceve il tuo indirizzo IP dal tuo account Firefox quando ti registri e usi il servizio. Usiamo l'indirizzo IP per individuare la tua posizione approssimativa in quanto Mozilla VPN attualmente è disponibile solo in alcuni Paesi.
 
 __Informazioni sul pagamento.__ Quando ti iscrivi a Mozilla VPN, il tuo addebito sarà gestito tramite uno dei nostri fornitori terzi di servizi di pagamento: Stripe, Apple, PayPal o Google Pay. Mozilla riceve un record del tuo account (che include l'indirizzo di fatturazione e le ultime quattro cifre del tuo metodo di pagamento) e lo stato del tuo abbonamento. Mozilla non memorizza i dettagli completi del pagamento. 
+
+__Dati sulle campagne e di riferimento.__ Queste informazioni aiutano Mozilla VPN a comprendere l'efficacia delle campagne marketing. Al momento dell'installazione dell'app, Mozilla può temporaneamente ricevere il tuo indirizzo IP, oltre a dati sulla campagna e di riferimento, come le campagne pubblicitarie su cui hai fatto clic e il sistema operativo utilizzato, il tipo di dispositivo e la versione del sistema operativo. Mozilla condivide queste informazioni con Adjust, ma il tuo indirizzo IP non viene né condiviso né memorizzato. Leggi la documentazione [qui](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
 __Dati relativi alle interazioni.__ Mozilla riceve dati sulle tue interazioni con Mozilla VPN, incluso quando effettui l'accesso e quando richiedi l'elenco dei server.
 

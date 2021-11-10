@@ -1,7 +1,7 @@
-## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
+﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
-Berkuat kuasa pada 6 Mei 2021
-{: datetime="2021-05-06" }
+Berkuat kuasa pada 20 Oktober 2021
+{: datetime="2021-10-20" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -18,6 +18,8 @@ __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan Akaun Firefox, yang meng
 __Maklumat lokasi.__ Mozilla VPN menerima alamat IP anda dari Akaun Firefox apabila anda mendaftar dan menggunakan perkhidmatannya. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
 
 __Maklumat pembayaran.__ Apabila melanggan Mozilla VPN, anda akan menghantar bayaran melalui salah satu penyedia pembayaran pihak ketiga kami: Stripe, Apple, PayPal, atau Google Pay. Mozilla menerima rekod akaun anda (termasuk alamat bil dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda. Mozilla tidak menyimpan butiran lengkap pembayaran anda.
+
+__Data kempen dan rujukan.__ Ini membantu Mozilla VPN memahami keberkesanan kempen pemasaran kami. Selepas aplikasi dipasang, Mozilla mungkin secara sementara menerima alamat IP anda selain daripada data kempen dan data rujukan seperti kempen iklan yang anda terlibat dan sistem operasi, jenis peranti dan versi sistem operasi anda. Mozilla berkongsi maklumat ini dengan Adjust tetapi kami tidak berkongsi atau menyimpan alamat IP anda. Baca dokumentasi [di sini](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
 __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan Mozilla VPN, termasuk apabila anda log masuk dan bila anda meminta senarai pelayan.
 

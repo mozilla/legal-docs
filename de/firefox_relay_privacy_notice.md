@@ -1,7 +1,7 @@
 ﻿# Datenschutzhinweis für Firefox Relay
 
-*Gültig ab Mittwoch, 27. Oktober 2021*
-{: datetime="2020-10-27" }
+*Gültig ab 11. November 2021*
+{: datetime="2020-11-11" }
 
 Mit Firefox Relay können Sie Ihre primäre E-Mail-Adresse vor Onlinediensten schützen, indem Sie eindeutige, aber zufällige E-Mail-Adressen („Aliase“) erstellen. In diesem Datenschutzhinweis wird erläutert, welche Daten Firefox Relay teilt und warum das so ist. Wir halten uns auch an die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen.
 
@@ -9,7 +9,7 @@ Mit Firefox Relay können Sie Ihre primäre E-Mail-Adresse vor Onlinediensten sc
 
 __Firefox-Kontoinformationen.__ Für diesen Dienst ist ein [Firefox-Konto](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) erforderlich. Hierüber übermitteln Sie Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse. Mozilla speichert eine Kopie Ihrer Kontoinformationen, um den Dienst zu erbringen, und insbesondere, um Ihre primäre E-Mail-Adresse mit Ihrer oder Ihren Alias-E-Mail-Adressen zu verknüpfen.
 
-__E-Mail-Nachrichten.__ Zum Senden und Weiterleiten Ihrer E-Mail-Nachrichten über Ihre Alias-E-Mail-Adresse(n) an Ihre Haupt-E-Mail-Adresse verarbeitet Firefox Relay Ihre E-Mail-Nachrichten. Wir lesen oder speichern keinen der Inhalte Ihrer Nachrichten, und alle E-Mail-Nachrichten werden gelöscht, nachdem sie Ihnen zugestellt wurden.
+__E-Mail-Nachrichten.__ Zum Senden und Weiterleiten Ihrer E-Mail-Nachrichten über Ihre Alias-E-Mail-Adresse(n) an Ihre Haupt-E-Mail-Adresse verarbeitet Firefox Relay Ihre E-Mail-Nachrichten. Wir lesen und speichern Ihre Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.)
 
 __Wie Aliase verwendet werden können__: Wenn Sie einen eigenen Alias erstellen, speichert Mozilla diesen, um E-Mails an ihn weiterzuleiten. Mozilla speichert ferner die Website, auf der Sie den Alias erstellt haben, die Websites, auf denen Sie den Alias anschließend verwenden, und alle mit dem Alias verbundenen Labels, um sicherzustellen, dass Ihre Aliase leicht zu finden sind, wenn Sie sie verwenden möchten. [Hier erfahren Sie, wie Sie diese Funktionen aktivieren und deaktivieren können.](https://relay.firefox.com/faq)
 

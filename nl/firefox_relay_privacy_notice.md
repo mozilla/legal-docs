@@ -1,7 +1,7 @@
-# Privacykennisgeving van Firefox Relay
+﻿# Privacykennisgeving van Firefox Relay
 
-*Van kracht vanaf woensdag 27 oktober 2021*
-{: datetime="2020-10-27" }
+*Van kracht vanaf donderdag 11 november 2021*
+{: datetime="2020-11-11" }
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden voor online services. U maakt hiertoe willekeurige aliase-mailaddressen. Deze privacyverklaring gaat in op welke gegevens Firefox Relay verzamelt en deelt en waarom. We houden ons daarnaast aan het [Privacybeleid van Mozilla](https://www.mozilla.org/privacy/) ten aanzien van hoe we informatie ontvangen, verzamelen en delen.
 
@@ -9,7 +9,7 @@ Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé h
 
 __Firefox-accountinformatie.__ Deze service vereist een [Firefox-account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla verzendt. Mozilla bewaart een kopie van uw accountinformatie voor het verzorgen van de service en in het bijzonder om uw primaire e-mailadres te koppelen aan uw alias emailadres(sen).
 
-__E-mailberichten.__ Firefox Relay verwerkt uw e-mailberichten om deze vanaf uw aliase-mailadres(sen) te kunnen verzenden en doorsturen. De inhoud van uw berichten wordt niet gelezen of opgeslagen en alle e-mailberichten worden verwijderd nadat deze bij u zijn bezorgd.
+__E-mailberichten.__ Als u uw e-mailberichten verzendt en doorstuurt vanaf uw alias-e-mailadressen naar uw primaire e-mailadres, verwerkt Firefox Relay uw e-mailberichten. We lezen en bewaren uw berichten nooit. In het geval dat een e-mail niet aan u kan worden bezorgd, bewaren we deze op onze servers en verwijderen we deze nadat de e-mail is bezorgd (in geen enkel geval bewaren we het bericht langer dan drie dagen).
 
 __Aliassen en waar u deze gebruikt__: Als u een aangepaste alias hebt gemaakt, slaat Mozilla deze op, zodat e-mail naar deze alias kan worden doorgestuurd. Mozilla registreert de site waarop u de alias hebt gemaakt, sites waarop u vervolgens de alias gebruikt en eventuele labels bij de alias om ervoor te zorgen dat uw aliassen eenvoudig kunnen worden gevonden wanneer u klaar bent om deze te gebruiken. [Hier](https://relay.firefox.com/faq) vindt u meer informatie over hoe u deze functies kunt inschakelen en uitschakelen.
 

@@ -1,7 +1,7 @@
 ﻿# Termini di servizio di Firefox Relay
 
-Versione 1.0, in vigore da mercoledì 27 ottobre 2021
-{: datetime="2021-10-27" }
+Versione 1.1, in vigore da giovedì 11 novembre 2021
+{: datetime="2021-11-11" }
 
 Firefox Relay (il "Servizio") ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email alias univoci e casuali che ti permettono di inviare e ricevere messaggi senza rivelare il tuo indirizzo email principale.
 
@@ -19,27 +19,13 @@ __La tua privacy.__ L'[Informativa sulla privacy di Firefox Relay](https://www.m
 
 __Utilizzo del Servizio.__ Mozilla ti permette di usare Firefox Relay in base ai presenti Termini di servizio. Questa autorizzazione si estende esclusivamente all'uso personale. Non puoi trasferire, rivendere, concedere in sublicenza o sfruttare commercialmente il Servizio. Accetti inoltre di utilizzare il Servizio conformemente alle [Condizioni di utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla. La responsabilità dei contenuti trasmessi e delle relative conseguenze ricade unicamente su di te.
 
-Concedi a Mozilla tutti i diritti necessari per garantire il corretto funzionamento del Servizio, incluso il diritto elaborare i tuoi indirizzi email, gli alias e le etichette alias da te creati, così come le email che invii e ricevi mediante il Servizio. Mozilla non utilizza Firefox Relay per registrare il contenuto delle email inviate o ricevute.
+Concedi a Mozilla tutti i diritti necessari per garantire il corretto funzionamento del Servizio, incluso il diritto elaborare i tuoi indirizzi email, gli alias e le etichette alias da te creati, così come le email che invii e ricevi mediante il Servizio. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni).
 
 Per maggiori informazioni sul funzionamento del Servizio, puoi consultare il [codice sorgente](https://github.com/mozilla/fx-private-relay) di Mozilla.
 
 __Feedback e suggerimenti.__ Se offri a Mozilla idee, suggerimenti o feedback su Firefox Relay o sui servizi che usi tramite Firefox Relay, concedi a Mozilla il permesso di usarli gratuitamente e senza ulteriori obblighi.
 
 __Proprietà intellettuale di Mozilla.__ Né Mozilla né i suoi licenziatari ti concedono alcun diritto di proprietà intellettuale sul Servizio non specificamente indicato nei presenti Termini. Ad esempio, i presenti Termini non garantiscono il diritto di utilizzare copyright, marchi commerciali o altre caratteristiche distintive del brand Mozilla o dei suoi licenziatari. Il software Mozilla viene distribuito in base alla versione corrente della Mozilla Public License, o di altre licenze similmente permissive.
-
-## Pagamento
-
-Firefox Relay viene offerto sia come servizio gratuito che come servizio a pagamento in abbonamento. 
-
-__Limiti e personalizzazione degli alias.__ Con il servizio gratuito, puoi creare fino 5 alias email casuali. Con il servizio in abbonamento a pagamento, puoi creare un numero illimitato di alias e hai l'opzione di creare un sottodominio personalizzato. 
-
-__Pagamento.__ Offriamo Firefox Relay come servizio in abbonamento a rinnovo automatico. Registrandoti, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo di Servizio sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
-
-__Politica di rimborso di 30 giorni.__ La prima volta che ti abboni a Firefox Relay tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a favore dei consumatori nel tuo Paese.
-
-## Puoi annullare l'abbonamento in qualsiasi momento
-
-__Annullamento.__ Puoi annullare l'abbonamento a Firefox Relay in qualsiasi momento disattivando il tuo account e revocando l'iscrizione. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure selezionando "Annulla" nella sezione Abbonamenti e pagamenti del tuo account Firefox. Se scegli di revocare, il rinnovo automatico verrà sospeso, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione corrente.
 
 ## Le conseguenze del tuo utilizzo del Servizio ricadono unicamente su di te
 
