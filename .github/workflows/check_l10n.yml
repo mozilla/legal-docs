@@ -21,6 +21,10 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: "clone"
+          # We always care about comparing the default branch against
+          # l10n_reference, even when action is triggered by changes in the
+          # latter.
+          ref: "master"
       - name: Set up Python 3
         uses: actions/setup-python@v2
         with:
