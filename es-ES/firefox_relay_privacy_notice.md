@@ -11,13 +11,11 @@ __Información de la cuenta de Firefox.__ Este servicio requiere una [cuenta de 
 
 __Mensajes de correo electrónico.__ Firefox Relay procesa sus mensajes de correo electrónico con el fin de enviar y reenviar sus mensajes de correo electrónico desde sus direcciones de correo electrónico alias a su dirección de correo electrónico principal. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hayamos entregado (en ningún caso se conservará durante más de tres días).
 
-__Alias y dónde los utiliza.__ Si usted crea un alias personalizado, Mozilla lo guarda para poder reenviar los mensajes de correo electrónico a dicha dirección. Mozilla guarda el sitio en el que creó el alias, los sitios en los que posteriormente usa el alias y cualquier etiqueta asociada al alias con el fin de garantizar que pueda acceder fácilmente a dicho alias cuando quiera usarlo. Para aprender cómo activar y desactivar estas funciones [haga clic aquí](https://relay.firefox.com/faq).
+__Alias y dónde los utiliza.__ Mozilla guarda el sitio en el que creó el alias, los sitios en los que posteriormente usa el alias y cualquier etiqueta asociada al alias con el fin de garantizar que pueda acceder fácilmente a dicho alias cuando quiera usarlo. Para aprender cómo activar y desactivar estas funciones [haga clic aquí](https://relay.firefox.com/faq).
 
 __Datos de interacción.__ Mozilla recibe datos sobre su interacción con Firefox Relay, tales como datos sobre cuando hace clic en los botones «suscribirse» y «añadir a Firefox» y cuando crea, desactiva o elimina un alias de correo electrónico.
 
 __Datos técnicos.__ Mozilla recibe información básica de Firefox Relay sobre su dispositivo y navegador, como por ejemplo, la versión del navegador, idioma, sistema operativo del dispositivo y configuración del hardware.
-
-__Información de pago.__ Si se suscribe a Firefox Relay Premium, tendrá que realizar el pago a través de uno de los siguientes proveedores de terceros: Stripe o PayPal. Mozilla recibirá información sobre su cuenta (p. ej., su dirección de facturación y los últimos cuatro dígitos de su método de pago) y el estado de la suscripción de su cuenta. Mozilla no guarda todos sus datos de pago.
 
 Lea los documentos telemétricos de [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Tiene la opción de desactivar la recopilación de datos telemétricos activando la función [No rastrear](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) en su navegador.  
 
