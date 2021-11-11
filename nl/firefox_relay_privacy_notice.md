@@ -1,11 +1,11 @@
 ﻿# Privacykennisgeving van Firefox Relay
 
-*Van kracht vanaf donderdag 11 november 2021*
-{: datetime="2020-11-11" }
+*Van kracht vanaf donderdag 16 november 2021*
+{: datetime="2020-11-16" }
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden voor online services. U maakt hiertoe willekeurige aliase-mailaddressen. Deze privacyverklaring gaat in op welke gegevens Firefox Relay verzamelt en deelt en waarom. We houden ons daarnaast aan het [Privacybeleid van Mozilla](https://www.mozilla.org/privacy/) ten aanzien van hoe we informatie ontvangen, verzamelen en delen.
 
-### Informatie die we verzamelen 
+### Informatie die we verzamelen
 
 __Firefox-accountinformatie.__ Deze service vereist een [Firefox-account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla verzendt. Mozilla bewaart een kopie van uw accountinformatie voor het verzorgen van de service en in het bijzonder om uw primaire e-mailadres te koppelen aan uw alias emailadres(sen).
 
