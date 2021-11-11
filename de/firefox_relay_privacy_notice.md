@@ -1,11 +1,11 @@
 ﻿# Datenschutzhinweis für Firefox Relay
 
-*Gültig ab 11. November 2021*
-{: datetime="2020-11-11" }
+*Gültig ab 16. November 2021*
+{: datetime="2020-11-16" }
 
 Mit Firefox Relay können Sie Ihre primäre E-Mail-Adresse vor Onlinediensten schützen, indem Sie eindeutige, aber zufällige E-Mail-Adressen („Aliase“) erstellen. In diesem Datenschutzhinweis wird erläutert, welche Daten Firefox Relay teilt und warum das so ist. Wir halten uns auch an die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen.
 
-### Von uns erfasste Informationen 
+### Von uns erfasste Informationen
 
 __Firefox-Kontoinformationen.__ Für diesen Dienst ist ein [Firefox-Konto](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) erforderlich. Hierüber übermitteln Sie Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse. Mozilla speichert eine Kopie Ihrer Kontoinformationen, um den Dienst zu erbringen, und insbesondere, um Ihre primäre E-Mail-Adresse mit Ihrer oder Ihren Alias-E-Mail-Adressen zu verknüpfen.
 
@@ -21,7 +21,7 @@ __Informationen zur Zahlung__: Wenn Sie Firefox Relay Premium abonnieren, bezahl
 
 Lesen Sie die Telemetriedokumentation für [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Sie können die Erfassung von Telemetriedaten ablehnen, indem Sie die Funktion [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) in Ihrem Browser aktivieren.  
 
-### Von uns geteilte Informationen 
+### Von uns geteilte Informationen
 
 Firefox Relay gibt Informationen an Dritte weiter, um den Dienst für Sie bereitzustellen. Mozilla hat mit dem betreffenden Anbieter eine Vereinbarung geschlossen, die ihn verpflichtet, Ihre Daten zu schützen. Wir nehmen die Leistungen des folgenden Anbieters für die Unterstützung von Firefox Relay in Anspruch:
 
