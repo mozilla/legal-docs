@@ -1,7 +1,7 @@
 # Firefox Relay Terms of Service
 
-Version 1.1, effective November 11, 2021
-{: datetime="2021-11-11" }
+Version 1.0, effective November 16, 2021
+{: datetime="2021-11-16" }
 
 Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allows you to send and receive emails without revealing your primary email address.
 
@@ -26,6 +26,20 @@ To learn more about how the Service works, you can see Mozilla’s [source code]
 __Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about Firefox Relay or the services you use with the Firefox Relay, you give Mozilla permission to use them for free and without any additional obligations.
 
 __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant you any intellectual property rights in the Service that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any copyrights, trademarks, or other distinctive brand features of Mozilla or its licensors. The Mozilla software is distributed under and subject to the current version of the Mozilla Public License, or other similarly permissive licenses.
+
+## Your Payment
+
+We offer Firefox Relay as either a free service or a paid subscription service.
+
+__Alias Limit and Customization.__ With the free service, you can create up to 5 random email aliases. With the paid subscription, you can create an unlimited number of aliases and you have the option to create a custom subdomain.
+
+__Payment.__ We offer Firefox Relay as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
+
+__30-Day Refund Policy.__ The first time you subscribe to Firefox Relay through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
+
+## You May Cancel Your Subscription at Any Time
+
+__Cancellation.__ You may cancel your subscription to Firefox Relay at any time by deactivating your account and cancelling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the Subscriptions & Payments section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
 
 ## You Are Responsible For the Consequences of Your Use of the Service
 

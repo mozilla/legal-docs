@@ -1,7 +1,7 @@
-﻿# Servicevoorwaarden van Firefox Relay
+# Servicevoorwaarden van Firefox Relay
 
-Versie 1.1, van kracht vanaf donderdag 11 november 2021
-{: datetime="2021-11-11" }
+Versie 1.0, van kracht vanaf woensdag 16 november 2021
+{: datetime="2021-11-16" }
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden voor online services. U maakt hiertoe aliase-mailaddressen waarmee u e-mails kunt verzenden en ontvangen, zonder dat u uw primaire e-mailadres bekendmaakt.
 
@@ -26,6 +26,20 @@ Bekijk de [broncode](https://github.com/mozilla/fx-private-relay) voor meer info
 __Uw feedback en suggesties.__ Als u Mozilla eventuele ideeën, suggesties of feedback biedt over Firefox Relay of de services die u gebruikt met Firefox Relay, geeft u Mozilla toestemming om deze gratis en zonder eventuele aanvullende verplichtingen te gebruiken.
 
 __Intellectuele eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla verlenen u geen intellectuele eigendomsrechten in de Services die niet nadrukkelijk in deze Voorwaarden worden vermeld. Deze Voorwaarden verlenen bijvoorbeeld geen recht om eventuele copyrights, handelsmerken of andere onderscheidende merkelementen van Mozilla of licentiegevers van Mozilla te gebruiken. De Mozilla-software wordt gedistribueerd onder en is onderworpen aan de huidige versie van de Mozilla Public License of andere vergelijkbaar tolerante licenties.
+
+## Uw Betaling
+
+We bieden Firefox Relay als een gratis service of een betaalde abonnementsservice.
+
+__Aliaslimiet en aanpassing.__ U kunt met de gratis service maximaal 5 willekeurige e-mailaliassen maken. Met het betaalde abonnement kunt u een onbeperkt aantal aliassen maken. U hebt daarnaast de mogelijkheid om een aangepast subdomein te maken.
+
+__Betaling.__ We bieden Firefox Relay als een abonnementsservice die automatisch wordt verlengd. Wanneer u zich registreert, machtigt u ons om abonnementskosten in rekening te brengen via de betalingsmethode die u hebt gebruikt voor de eerste termijn van de Service. Uw abonnement wordt aan het einde van elke termijn automatisch verlengd en u machtig ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van twee onbetaalde maanden verwijderen.
+
+__Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op Firefox Relay abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen annuleert. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
+
+## U kunt uw abonnement op elk gewenst moment opzeggen
+
+__Opzegging.__ U kunt uw abonnement op Firefox Relay op elk gewenst moment opzeggen door uw account te deactiveren en uw abonnement op te zeggen. U kunt dit doen door op de link Abonnement opzeggen te klikken in e-mail die u van ons ontvangt of door naar de sectie Abonnementen en betalingen van uw Firefox-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de service aan het einde van de huidige factureringscyclus.
 
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van de Service
 
