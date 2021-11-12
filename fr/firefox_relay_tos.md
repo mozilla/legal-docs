@@ -1,6 +1,6 @@
 # Conditions d’utilisation de Firefox Relay
 
-Version 1.0 - Date d’effet : mercredi 16 novembre 2021
+Version 1.2 - Date d’effet : mercredi 16 novembre 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (le « Service ») vous permet de sécuriser votre adresse email principale en créant une adresse email unique (un « alias »), qui vous permet d’envoyer et de recevoir des emails sans révéler votre adresse email principale.

@@ -1,6 +1,6 @@
 # Firefox Relay-Servicebedingungen
 
-Version 1.0 – Aktualisiert am Mittwoch, 16.  November 2021
+Version 1.2 – Aktualisiert am Mittwoch, 16. November 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (im Folgenden der „Dienst“) erstellt eindeutige Alias-E-Mail-Adressen, mit denen Sie E-Mails senden und empfangen können, ohne Ihre primäre E-Mail-Adresse preiszugeben. Auf diese Weise gestattet es Firefox Relay Ihnen, Ihre primäre E-Mail-Adresse vor Onlinediensten zu schützen und privat zu halten.

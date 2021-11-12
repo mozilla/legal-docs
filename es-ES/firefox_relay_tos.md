@@ -1,6 +1,6 @@
 # Condiciones del servicio de Firefox Relay
 
-Versión 1.0, en vigor desde el miércoles, 16 de noviembre de 2021
+Versión 1.2, en vigor desde el miércoles, 16 de noviembre de 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (el «Servicio») le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos y aleatorios, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal.

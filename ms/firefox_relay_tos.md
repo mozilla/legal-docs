@@ -1,6 +1,6 @@
 # Terma Perkhidmatan Firefox Relay
 
-Versi 1.0, berkuat kuasa pada 16 November 2021
+Versi 1.2, berkuat kuasa pada 16 November 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (“Perkhidmatan”) membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel alias yang unik yang membolehkan anda menghantar dan menerima e-mel tanpa mendedahkan alamat e-mel utama anda.

@@ -1,6 +1,6 @@
 # Termini di servizio di Firefox Relay
 
-Versione 1.0, in vigore da mercoledì 16 novembre 2021
+Versione 1.2, in vigore da mercoledì 16 novembre 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (il "Servizio") ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email alias univoci e casuali che ti permettono di inviare e ricevere messaggi senza rivelare il tuo indirizzo email principale.

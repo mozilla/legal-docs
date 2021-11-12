@@ -1,6 +1,6 @@
 # Firefox Relay Terms of Service
 
-Version 1.0, effective November 16, 2021
+Version 1.2, effective November 16, 2021
 {: datetime="2021-11-16" }
 
 Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allows you to send and receive emails without revealing your primary email address.
