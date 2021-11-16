@@ -1,7 +1,7 @@
 # Firefox Relay Terms of Service
 
-Version 1.0, effective October 27, 2021
-{: datetime="2021-10-27" }
+Version 1.2, effective November 16, 2021
+{: datetime="2021-11-16" }
 
 Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allows you to send and receive emails without revealing your primary email address.
 
@@ -19,7 +19,7 @@ __Your Privacy.__ The Firefox Relay [Privacy Notice](https://www.mozilla.org/pri
 
 __Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
-You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. Mozilla does not log the content of emails sent or received using Firefox Relay.
+You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. We do not read or store any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days).
 
 To learn more about how the Service works, you can see Mozilla’s [source code](https://github.com/mozilla/fx-private-relay).
 
@@ -29,9 +29,9 @@ __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant y
 
 ## Your Payment
 
-We offer Firefox Relay as either a free service or a paid subscription service. 
+We offer Firefox Relay as either a free service or a paid subscription service.
 
-__Alias Limit and Customization.__ With the free service, you can create up to 5 random email aliases. With the paid subscription, you can create an unlimited number of aliases and you have the option to create a custom subdomain. 
+__Alias Limit and Customization.__ With the free service, you can create up to 5 random email aliases. With the paid subscription, you can create an unlimited number of aliases and you have the option to create a custom subdomain.
 
 __Payment.__ We offer Firefox Relay as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
