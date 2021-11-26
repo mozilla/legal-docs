@@ -1,11 +1,16 @@
 ﻿# Informativa sulla privacy di Firefox Relay
 
+<<<<<<< HEAD
 *In vigore dal giovedì 11 novembre 2021*
 {: datetime="2020-11-11" }
+=======
+*In vigore dal giovedì 16 novembre 2021*
+{: datetime="2020-11-16" }
+>>>>>>> upstream/master
 
 Firefox Relay ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email univoci e casuali (*alias*). Questa informativa sulla privacy spiega quali dati vengono raccolti da Firefox Relay, come vengono condivisi e perché. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni, puoi anche fare riferimento all'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
-### Informazioni che raccogliamo 
+### Informazioni che raccogliamo
 
 __Informazioni sull'account Firefox.__ Questo servizio richiede un [account Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Mozilla conserva una copia delle informazioni del tuo account per fornire il servizio, in particolare per associare il tuo indirizzo email principale al/i tuo/i indirizzo/i email alias.
 
@@ -21,7 +26,7 @@ __Informazioni di pagamento__: Se ti iscrivi a Firefox Relay Premium, il tuo add
 
 Leggi la documentazione relativa alla telemetria per [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Puoi rifiutare la raccolta di dati di telemetria attivando la [Protezione antitracciamento](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) del tuo browser.  
 
-### Informazioni che condividiamo 
+### Informazioni che condividiamo
 
 Firefox Relay condivide informazioni con un'azienda di terze parti per fornirti il servizio. Mozilla ha stipulato accordi con questa azienda affinché i tuoi dati vengano protetti. Ecco chi utilizziamo per supportare Firefox Relay:
 

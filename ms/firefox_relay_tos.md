@@ -1,7 +1,12 @@
-﻿# Terma Perkhidmatan Firefox Relay
+# Terma Perkhidmatan Firefox Relay
 
+<<<<<<< HEAD
 Versi 1.1, berkuat kuasa pada 11 November 2021
 {: datetime="2021-11-11" }
+=======
+Versi 1.2, berkuat kuasa pada 16 November 2021
+{: datetime="2021-11-16" }
+>>>>>>> upstream/master
 
 Firefox Relay (“Perkhidmatan”) membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel alias yang unik yang membolehkan anda menghantar dan menerima e-mel tanpa mendedahkan alamat e-mel utama anda.
 
@@ -27,6 +32,23 @@ __Maklum Balas dan Cadangan Anda.__ Jika anda memberikan sebarang idea, cadangan
 
 __Hak Milik Intelek Mozilla.__ Mozilla atau pemberi lesen tidak memberikan anda sebarang hak milik intelek bagi Perkhidmatan yuang tidak dinyatakan secara khusus dalam Terma-terma ini. Sebagai contoh, Terma ini tidak memberi hak untuk menggunakan sebarang hak cipta, tanda perniagaan atau ciri jenama khusus Mozilla atau pemberi lesen yang lain. Perisian Mozilla diedarkan bawah dan tertakluk pada versi semasa Lesen Awam Mozilla atau lesen kebenaran lain yang sama.
 
+<<<<<<< HEAD
+=======
+## Pembayaran Anda
+
+Kami menawarkan Firefox Relay sama ada sebagai perkhidmatan percuma atau perkhidmatan langganan berbayar.
+
+__Had dan Penyesuaian Alias.__ Dengan perkhidmatan percuma, anda boleh mencipta sehingga 5 alias e-mel rawak. Dengan langganan berbayar, anda boleh mencipta bilangan alias tanpa had dan anda mempunyai pilihan untuk mencipta sub domain tersuai.
+
+__Pembayaran.__ Kami menawarkan Firefox Relay sebagai perkhidmatan langganan yang diperbaharui secara automatik. Ketika mendaftar, anda telah memberi kebenaran untuk pihak kami mengenakan yuran langganan bagi penggal pertama Perkhidmatan pada kaedah pembayaran yang telah anda pilih. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
+
+__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Firefox Relay melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam tempoh masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
+
+## Anda Boleh Batal Langganan Anda Pada Bila-bila Masa
+
+__Pembatalan.__ Anda boleh membatalkan langganan Firefox Relay pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke bahagian Langganan & Pembayaran di Akaun Firefox anda dan klik “Batal.” Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
+
+>>>>>>> upstream/master
 ## Anda Bertanggungjawab Terhadap Akibat daripada Penggunaan Perkhidmatan oleh Anda
 
 * Anda memberi jaminan kepada Mozilla bahawa anda tidak akan menggunakan Perkhidmatan untuk mencabuli hak orang lain atau melanggar mana-mana undang-undang.

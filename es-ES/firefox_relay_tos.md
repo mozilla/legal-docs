@@ -1,7 +1,12 @@
-﻿# Condiciones del servicio de Firefox Relay
+# Condiciones del servicio de Firefox Relay
 
+<<<<<<< HEAD
 Versión 1.1, en vigor desde el jueves, 11 de noviembre de 2021
 {: datetime="2021-11-11" }
+=======
+Versión 1.2, en vigor desde el miércoles, 16 de noviembre de 2021
+{: datetime="2021-11-16" }
+>>>>>>> upstream/master
 
 Firefox Relay (el «Servicio») le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos y aleatorios, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal.
 
@@ -27,6 +32,23 @@ __Sus comentarios y sugerencias.__ Si usted le proporciona a Mozilla ideas, suge
 
 __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus licenciatarios le conceden ningún derecho de propiedad intelectual sobre el Servicio que no esté estipulado específicamente en las presentes Condiciones. Por ejemplo, estas Condiciones no conceden el derecho a utilizar los derechos de copyright, marcas comerciales u otras características distintivas de la marca de Mozilla o sus licenciatarios. El software de Mozilla se distribuye con arreglo a la versión actual de la Licencia Pública de Mozilla u otras licencias de permisividad similar.
 
+<<<<<<< HEAD
+=======
+## Su pago
+
+Firefox Relay está disponible como servicio gratuito y como servicio de suscripción de pago.
+
+__Número máximo de alias y personalización.__ Con el servicio gratuito, puede crear hasta 5 alias de correo electrónico. El servicio de suscripción de pago le permite crear un número ilimitado de alias y un subdominio personalizado.
+
+__Pago.__ Firefox Relay es un servicio de suscripción que se renueva automáticamente. Al suscribirse nos autoriza cargar el pago de las cuotas de suscripción en el método de pago proporcionado para el primer período de suscripción del Servicio. Su plan se renovará automáticamente al final de cada período de suscripción, y usted nos autoriza a cobrar las cuotas cada período de suscripción. Si deja de pagar las cuotas, suspenderemos inmediatamente su cuenta y la eliminaremos tras 2 meses de impago.
+
+__Política de reembolso de 30 días.__ Si cancela su cuenta transcurridos los primeros 30 días, y es la primera vez que se suscribe a Firefox Relay a través de la página web de Mozilla, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
+
+## Puede cancelar su suscripción en cualquier momento
+
+__Cancelación.__ Puede cancelar su suscripción a Firefox Relay cuando lo desee desactivando su cuenta y cancelando su suscripción. Para ello, haga clic en el enlace «Cancelar suscripción» incluido en todos los mensajes de correo electrónico nuestros que reciba o yendo a la sección Suscripciones y pagos de su cuenta de Firefox y haciendo clic en «Cancelar». Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros ciclos de facturación y usted perderá el acceso al Servicio al final del ciclo de facturación actual.
+
+>>>>>>> upstream/master
 ## Usted es responsable de las consecuencias del uso que haga del Servicio
 
 * Usted asegura a Mozilla que no utilizará el Servicio para infringir los derechos de nadie ni violar ninguna ley.
@@ -55,6 +77,6 @@ __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus licenciatarios le conced
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
 2 Harrison St. #175,  
-San Francisco, CA 94105, EE. UU.  
+San Francisco, CA 94105, EE. UU.  
 
 legal-notices@mozilla.com

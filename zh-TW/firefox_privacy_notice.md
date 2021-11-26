@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隱私權公告</span>
 
-*2021 年 9 月 30 日起生效*
-{: datetime="2021-09-30" }
+*2021 年 11 月 17 日起生效*
+{: datetime="2021-11-17" }
 
 ## Mozilla 相信隱私是健康網路環境的根基。
 
@@ -88,9 +88,9 @@ Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料�
 
 ### Firefox Suggest {: #searches }
 
-Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優質的資訊。這項新功能稱作 Firefox Suggest，目前已向美國境內的使用者提供早期版本使用。Firefox Suggest 會為您顯示推薦及贊助的內容。我們採取的措施會限制我們和夥伴辨識您身分的方法。[了解更多資訊](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)，包括啟用及停用此功能的方法。
+Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優質的資訊。這項新功能稱作 Firefox Suggest，目前已向美國境內的使用者提供早期版本使用。Firefox Suggest 會預設根據您電腦裡所儲存的本機資料顯示推薦及贊助內容，這類資料包括瀏覽記錄內的網站、書籤及開啟的分頁等等。
 
-為增進瀏覽體驗及產品品質，Firefox 會分享下列資訊：
+如果您選擇啟用「智慧建議」，則 Firefox 會分享以下資訊，以便改善瀏覽體驗及服務品質：
 
 * __搜尋__：Firefox 會向 Mozilla 傳送您在搜尋列中輸入的內容，Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
@@ -100,6 +100,7 @@ Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優
 
 * __技術與互動資料__：Firefox 會向 Mozilla 傳送的資料內容如 Firefox 建議或顯示內容的次數、您點閱此類內容的次數，以及您和 Firefox Suggest 互動情形的基本資料等。Mozilla 會和我們的[夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)分享建議顯示次數、點閱次數等一遜，以便增進驗證及功能品質。
 
+我們會採取相關措施，以便限制我們和夥伴辨識您身分的能力。[了解更多資訊](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox 帳戶
 

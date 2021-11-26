@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">개인정보 취급방침</span>
 
-*2021년 9월 30일부터 유효*
-{: datetime="2021-09-30" }
+*2021년 11월 17일 수요일부터 유효*
+{: datetime="2021-11-17" }
 
 ## 우리 Mozilla에서는 개인정보 보호가 건강한 인터넷의 기본이라고 믿습니다.
 
@@ -88,9 +88,9 @@ Firefox는 부가 기능 추천, 상위 사이트(Firefox를 처음 사용하는
 
 ### Firefox 제안 {: #searches }
 
-Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움이 되는 새로운 기능을 개발하고 있습니다. 이 기능은 Firefox 제안이라고 하며 초기 버전은 현재 미국 내 사용자들에게만 지원됩니다. Firefox 제안은 추천 및 스폰서 콘텐츠를 보여줍니다. 당사와 파트너가 사용자를 식별할 수 있는 능력을 제한하기 위한 조치를 취하고 있습니다. 이 기능을 사용 및 해제하는 방법을 포함하여 [자세히 알아보십시오](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움이 되는 새로운 기능을 개발하고 있습니다. 이 기능은 Firefox 제안이라고 하며 초기 버전은 현재 미국 내 사용자들에게만 지원됩니다. 기본적으로 Firefox 제안에는 사용자의 컴퓨터에 저장된 로컬 데이터(예: 검색 기록, 책갈피 및 열린 탭의 웹 사이트)를 기반으로 권장 및 후원되는 콘텐츠가 표시됩니다. 
 
-검색 환경을 개선하고 제품을 개선하기 위해 Firefox는 다음 정보를 공유합니다.
+‘Smarter Suggestions(더 스마트한 제안)’를 사용하도록 선택하면 Firefox가 검색 환경을 개선하고 서비스를 개선하기 위해 다음 정보를 공유합니다.
 
 * __검색__: Firefox는 사용자가 검색 창에 입력한 내용을 Mozilla에 보내고 Mozilla는 해당 데이터를 [파트너](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).와 공유할 수 있습니다. 
 
@@ -100,6 +100,7 @@ Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움�
 
 * __기술 및 상호 작용 데이터__: Firefox는 Firefox 제안과 사용자의 상호 작용에 대한 기본 데이터뿐만 아니라 Firefox가 제안 및 표시하는 콘텐츠 및 해당 콘텐츠에 대한 클릭 수와 같은 Mozilla 데이터를 전송합니다. Mozilla는 확인 및 기능 개선을 위해 제안 사항을 표시하고 클릭되는 횟수에 대한 정보를 [파트너](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)와 공유합니다. 
 
+당사와 파트너가 사용자를 식별할 수 있는 능력을 제한하기 위한 조치를 취하고 있습니다. [더 알아보기](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox 계정
 

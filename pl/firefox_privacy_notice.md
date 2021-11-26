@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Zasady prywatności</span> <span class="privacy-header-firefox">przeglądarki Firefox
 
-*Data wejścia w życie: 30 września 2021 r.*
-{: datetime="2021-09-30" }
+*Data wejścia w życie: 17 listopada 2021 r.*
+{: datetime="2021-11-17" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -88,9 +88,9 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 
 ### Podpowiedzi Firefoksa {: #searches }
 
-Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Podpowiedzi Firefoksa wyświetlają użytkownikowi polecaną i sponsorowaną zawartość. Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Uzyskaj więcej informacji](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), łącznie ze sposobem włączania i wyłączenia tej funkcji.
+Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Domyślnie funkcja Podpowiedzi Firefoksa przedstawia użytkownikowi rekomendowane i sponsorowane treści w oparciu o lokalne dane przechowywane na komputerze użytkownika, takie jak witryny z historii przeglądania, zakładki i otwarte karty. 
 
-Aby poprawić wrażenia z przeglądania i ulepszyć produkt, Firefox udostępnia następujące informacje:
+Jeśli użytkownik włączy opcję „Bardziej inteligentne podpowiedzi”, Firefox będzie udostępniać następujące informacje w celu poprawy komfortu przeglądania witryn oraz ulepszenia usług:
 
 * __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
 
@@ -100,6 +100,7 @@ Aby poprawić wrażenia z przeglądania i ulepszyć produkt, Firefox udostępnia
 
 * __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
 
+Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Więcej informacji](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Konta Firefox
 

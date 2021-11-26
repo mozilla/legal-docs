@@ -1,7 +1,7 @@
 ﻿## Pemberitahuan Privasi <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*Berlaku 30 September 2021*
-{: datetime="2021-09-30" }
+*Berlaku 17 November 2021*
+{: datetime="2021-11-17" }
 
 ## Di Mozilla, kami meyakini bahwa privasi adalah fundamental internet sehat.
 
@@ -88,9 +88,9 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 
 ### Firefox Suggest {: #searches }
 
-Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanpa susah payah. Fitur ini disebut Firefox Suggest dan versi awalnya tersedia bagi pengguna di Amerika Serikat. Firefox Suggest menyuguhkan rekomendasi konten dan konten bersponsor untuk Anda. Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [Pelajari selengkapnya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), termasuk cara mengaktifkan dan menonaktifkan fitur ini.
+Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanpa susah payah. Fitur ini disebut Firefox Suggest dan versi awalnya tersedia bagi pengguna di Amerika Serikat. Secara baku, Firefox Suggest menunjukkan kepada Anda konten yang direkomendasikan dan bersponsor berdasarkan data lokal yang disimpan di komputer Anda sendiri, seperti situs web dari riwayat penjelajahan Anda, bookmark, dan tab yang dibuka. 
 
-Untuk meningkatkan pengalaman menjelajah Anda dan meningkatkan produk kami, Firefox membagikan informasi berikut:
+Jika Anda memilih untuk mengaktifkan "Saran yang Lebih Cerdas", Firefox akan membagikan informasi berikut untuk meningkatkan pengalaman penjelajahan Anda dan untuk meningkatkan layanan:
 
 * __Pencarian__: Firefox mengirimkan ketikan Anda di bilah pencarian kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
@@ -100,6 +100,7 @@ Untuk meningkatkan pengalaman menjelajah Anda dan meningkatkan produk kami, Fire
 
 * __Data teknis & interaksi__: Firefox mengirimkan data seperti frekuensi konten yang disarankan atau ditampilkan dan klik Anda pada konten tersebut kepada Mozilla, serta data dasar terkait interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi kepada [mitra](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) kami terkait frekuensi tampilan dan klik pada saran untuk verifikasi dan peningkatan fitur. 
 
+Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [Pelajari selengkapnya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Akun Firefox
 

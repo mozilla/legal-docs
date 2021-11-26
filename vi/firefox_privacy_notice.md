@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Thông báo quyền riêng tư </span> <span class="privacy-header-policy">của Firefox</span>
 
-*Có hiệu lực từ ngày 30/09/2021*
-{: datetime="2021-09-30" }
+*Có hiệu lực từ ngày 17 Tháng Mười Một năm 2021*
+{: datetime="2021-11-17" }
 
 ## Tại Mozilla, chúng tôi tin tưởng rằng quyền riêng tư là nền tảng của một môi trường Internet lành mạnh.
 
@@ -88,9 +88,9 @@ Bạn có thể tham khảo toàn bộ tài liệu [tại đây](https://firefox
 
 ### Firefox Suggest {: #searches }
 
-Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao thông tin của bạn hiệu quả và đỡ tốn công hơn. Đây là Firefox Suggest và phiên bản còn mới hiện tại đang khả dụng cho người dùng tại Hoa Kỳ. Firefox Suggest sẽ hiển thị cho bạn thấy nội dung được đề xuất và nội dung được tài trợ. Chúng tôi thực hiện các biện pháp để hạn chế khả năng chúng tôi và các đối tác có thể nhận dạng được bạn. [Tìm hiểu thêm về](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), bao gồm cách bật và tắt tính năng này.
+Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao thông tin của bạn hiệu quả và đỡ tốn công hơn. Đây là Firefox Suggest và phiên bản còn mới hiện tại đang khả dụng cho người dùng tại Hoa Kỳ. Theo mặc định, Firefox Suggest sẽ hiển thị cho bạn nội dung được khuyến nghị và được tài trợ dựa trên dữ liệu cục bộ được lưu trên máy tính của riêng bạn, như website từ lịch sử trình duyệt của bạn, dấu trang hay các thẻ mở. 
 
-Để cải thiện trải nghiệm duyệt web và sản phẩm, Firefox sẽ chia sẻ các thông tin dưới đây:
+Nếu chọn bật "Đề nghị Thông minh hơn", Firefox sẽ chia sẻ thông tin dưới đây để cải thiện trải nghiệm trình duyệt của bạn cũng như cải thiện dịch vụ:
 
 * __Các tìm kiếm__: Firefox sẽ gửi cho Mozilla những gì bạn nhập vào thanh tìm kiếm và Mozilla có thể chia sẻ dữ liệu này với [đối tác của mình](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
@@ -100,6 +100,7 @@ Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao th�
 
 * __Dữ liệu kỹ thuật & tương tác__: Firefox sẽ gửi cho Mozilla dữ liệu như số lần Firefox để xuất hay hiển thị nội dung và lượt nhấp của bạn vào nội dung đó, cũng như thông tin cơ bản về tương tác của bạn với Firefox Suggest. Mozilla sẽ chia sẽ thông tin với [các đối tác](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) của chúng tôi về số lần hiển thị đề xuất và lượt nhấp xác minh và cải thiện tính năng. 
 
+Chúng tôi thực hiện các biện pháp để hạn chế khả năng chúng tôi và các đối tác có thể nhận dạng được bạn. [Tìm hiểu thêm tại](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Các tài khoản Firefox
 
