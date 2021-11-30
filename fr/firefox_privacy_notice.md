@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Politique de confidentialité</span>
 
-*Date d’effet : jeudi 30 septembre 2021*
-{: datetime="2021-09-30" }
+*Date d’effet : mercredi 17 novembre 2021*
+{: datetime="2021-11-17" }
 
 ## Chez Mozilla, nous pensons que la vie privée est fondamentale pour sécuriser Internet.
 
@@ -88,9 +88,9 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
 ### Firefox Suggest {: #searches }
 
-Mozilla est en train de développer une nouvelle fonctionnalité destinée à vous fournir de meilleures informations plus facilement. Elle s’appelle Firefox Suggest et une version est disponible en avant-première pour les utilisateurs aux USA. Firefox Suggest vous montre du contenu recommandé et sponsorisé. Nous mettons tout en œuvre pour que vous ne soyez pas identifié (par nous ou nos partenaires). [En savoir plus](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), notamment sur l’activation et la désactivation de cette fonctionnalité.
+Mozilla est en train de développer une nouvelle fonctionnalité destinée à vous fournir de meilleures informations plus facilement. Elle s’appelle Firefox Suggest et une version est disponible en avant-première pour les utilisateurs aux USA. Par défaut, Firefox Suggest vous présente du contenu recommandé et sponsorisé en fonction des données stockées localement sur votre ordinateur, par exemple les sites Web de votre historique de navigation, de vos marque-pages et de vos onglets ouverts. 
 
-Pour améliorer votre expérience de navigation et le produit, Firefox partage les informations suivantes :
+Si vous choisissez d’activer « Suggestions contextuelles », Firefox partage les informations suivantes pour améliorer votre navigation et le service :
 
 * __Recherches__ : Firefox envoie à Mozilla le texte que vous saisissez dans la barre de recherche, et Mozilla peut partager ces données avec ses [partenaires](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
@@ -100,6 +100,7 @@ Pour améliorer votre expérience de navigation et le produit, Firefox partage l
 
 * __Données techniques et d’interaction__ : Firefox envoie à Mozilla des données telles que le nombre de fois où Firefox suggère ou affiche du contenu et les clics sur ce contenu, ainsi que des données de base relatives à vos interactions avec Firefox Suggest. Mozilla partage des informations avec nos [partenaires](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) relatives au nombre de fois où sont présentées les suggestions et le nombre de clics que vous effectuez dessus, à des fins de vérification et d’amélioration des fonctionnalités. 
 
+Nous mettons tout en œuvre pour que vous ne soyez pas identifié (par nous ou nos partenaires). [En savoir plus](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Comptes Firefox
 
@@ -111,7 +112,7 @@ Pour améliorer votre expérience de navigation et le produit, Firefox partage l
 
 * __Données techniques__ : Pour afficher les appareils synchronisés avec votre compte Firefox et pour des raisons de sécurité, nous stockons le système d’exploitation, le navigateur et sa version, l’horodatage, la langue, ainsi que les mêmes informations pour les appareils connectés à votre compte. Si vous utilisez votre compte Firefox pour vous connecter à d’autres sites Web ou services (tels que AMO ou Pocket), nous recevons l’horodatage de ces connexions.
 
-Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et l'email](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité de nos services associés aux comptes Firefox, à savoir :
+Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et l’email](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité de nos services associés aux comptes Firefox, à savoir :
 
 * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)

@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2021 年 9 月 30 日生效*
-{: datetime="2021-09-30" }
+*2021 年 11 月 17 日生效*
+{: datetime="2021-11-17" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -88,9 +88,9 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
 ### Firefox Suggest {: #searches }
 
-Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息。我们称之为 Firefox Suggest，早期版本现已面向美国用户开放使用。Firefox Suggest 会向您显示推荐内容和推广内容。我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解详情](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)，包括如何启用和禁用此功能。
+Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息。我们称之为 Firefox Suggest，早期版本现已面向美国用户开放使用。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡。
 
-为改善您的浏览体验并改进产品，Firefox 将共享以下信息：
+如果您选择启用“智能建议”，Firefox 将共享以下信息，以改善您的浏览体验并提升服务质量：
 
 * __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
 
@@ -100,6 +100,7 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 * __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
 
+我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox 帐户
 

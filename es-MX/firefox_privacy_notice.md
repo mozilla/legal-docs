@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Aviso de Privacidad de</span> <span class="privacy-header-policy">Firefox</span>
 
-*Vigente a partir del 30 de septiembre de 2021*
-{: datetime="2021-09-30" }
+*Vigente a partir del 17 de noviembre de 2021*
+{: datetime="2021-11-17" }
 
 ## En Mozilla, consideramos que la privacidad es fundamental para una internet saludable.
 
@@ -88,9 +88,9 @@ Lee la documentación completa [aquí](https://firefox-source-docs.mozilla.org/t
 
 ### Firefox Suggest {: #searches }
 
-Mozilla está desarrollando una nueva función que ayuda a brindarte mejor información con menos esfuerzo. Se conoce como Firefox Suggest y una versión temprana está disponible para los usuarios en los Estados Unidos. Firefox Suggest te muestra contenido recomendado y patrocinado. Tomamos medidas para limitar nuestra capacidad y la capacidad de nuestros socios de identificarte. [Obtén más información](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc), inclusive cómo habilitar y deshabilitar esta característica.
+Mozilla está desarrollando una nueva función que ayuda a brindarte mejor información con menos esfuerzo. Se conoce como Firefox Suggest y una versión temprana está disponible para los usuarios en los Estados Unidos. En forma predeterminada, Firefox Suggest te muestra contenido recomendado y patrocinado basándose en los datos locales almacenados en tu computadora, como por ejemplo, sitios web de tu historial de navegación, marcadores y pestañas abiertas. 
 
-Para mejorar tu experiencia de navegación y mejorar el producto, Firefox comparte la siguiente información:
+Si eliges habilitar las “sugerencias más inteligentes”, Firefox comparte la siguiente información para mejorar tu experiencia de navegación y mejorar el servicio:
 
 * __Búsquedas__: Firefox le envía a Mozilla lo que escribes en la barra de búsqueda y Mozilla podría compartir esos datos con sus [socios](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
@@ -100,6 +100,7 @@ Para mejorar tu experiencia de navegación y mejorar el producto, Firefox compar
 
 * __Datos técnicos y de interacción__: Firefox le envía a Mozilla datos como por ejemplo la cantidad de veces de Firefox sugiere o muestra contenido y tus clics en ese contenido, así como también los datos básicos sobre tus interacciones con Firefox Suggest. Mozilla comparte información con nuestros [socios](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) sobre la cantidad de veces que se te muestran y haces clic en las sugerencias para fines de verificación y mejora de la característica. 
 
+Tomamos medidas para limitar nuestra capacidad y la capacidad de nuestros socios de identificarte. [Obtén más información](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Cuentas de Firefox
 

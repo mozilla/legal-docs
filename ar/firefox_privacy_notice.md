@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">إشعار خصوصية</span> <span class="privacy-header-policy">Firefox</span>
 
-*يسري اعتبارًا من 30 سبتمبر 2021*
-{: datetime="2021-09-30" }
+*يسري اعتبارًا من 17 نوفمبر 2021*
+{: datetime="2021-11-17" }
 
 ## نعتقد في Mozilla أن الخصوصية أساسية للإنترنت الآمن.
 
@@ -88,9 +88,9 @@
 
 ### Firefox Suggest (اقتراح Firefox) {: #searches }
 
-تطور Mozilla ميزة جديدة تساعد على توفير معلومات أفضل لك بمجهود أقل. وتسمى اقتراح Firefox ويوجد إصدار مبكر لها متوفر حاليا للمستخدمين في الولايات المتحدة. تظهر لك اقتراح Firefox محتوى موصى به ومدعوم. ونتخذ تدابير للحد من قدرتنا وقدرة شركائنا على التعرف عليك. [اعرف المزيد](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)، بما في ذلك كيفية تمكين وتعطيل هذه الميزة.
+تطور Mozilla ميزة جديدة تساعد على توفير معلومات أفضل لك بمجهود أقل. وتسمى اقتراح Firefox ويوجد إصدار مبكر لها متوفر حاليا للمستخدمين في الولايات المتحدة. افتراضيًا، تعرض لك ميزة اقتراح Firefox محتوى مستحسنًا ومدعومًا بناءً على البيانات المحلية المخزنة على الكمبيوتر الخاص بك، مثل مواقع الويب من محفوظات المستعرض، والإشارات المرجعية وعلامات التبويب المفتوحة. 
 
-لتحسين تجربة استعراضك وتحسين المنتج، يشارك Firefox المعلومات الآتية:
+إذا اخترت تمكين "اقتراحات أذكي"، فسيشارك Firefox المعلومات الآتية لتحسين تجربة الاستعراض ولتحسين الخدمة:
 
 * __عمليات البحث__: يرسل Firefox إلى Mozilla ما تكتبه في شريط البحث وقد تشارك Mozilla تلك البيانات مع [الشركاء](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). لديها 
 
@@ -100,6 +100,7 @@
 
 * __البيانات التقنية وبيانات التفاعل__: يرسل Firefox إلى Mozilla بيانات مثل عدد المرات التي يقترح فيها Firefox أو يعرض محتوى وأنت تنقر على هذا المحتوى، وأيضا بيانات أساسية مثل تفاعلاتك مع Firefox Suggest (اقتراح Firefox). وتشارك Mozilla المعلومات مع [الشركاء](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) لدينا عن عدد مرات إظهار الاقتراحات ونقرها من أجل التحقق من الميزة وتحسينها. 
 
+ونتخذ تدابير للحد من قدرتنا وقدرة شركائنا على التعرف عليك. [اعرف المزيد](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### حسابات Firefox
 

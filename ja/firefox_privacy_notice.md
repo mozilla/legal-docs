@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*有効日 2021 年 9 月 30 日*
-{: datetime="2021-09-30" }
+*有効日 2021 年 11 月 17 日*
+{: datetime="2021-11-17" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -88,9 +88,9 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 
 ### Firefox Suggest {: #searches }
 
-Mozilla では、より少ない労力でより質の高い情報を皆様にお届けする新しい機能を開発しています。この機能は Firefox Suggest と呼ばれ、現在、初期バージョンが米国にお住まいのユーザー向けに提供されています。Firefox Suggest は、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。Mozilla では Mozilla および Mozilla のパートナーがあなたを特定する機能を制限するよう対策を講じています。この機能を有効・無効にする方法などの [詳細はこちら](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
+Mozilla では、より少ない労力でより質の高い情報を皆様にお届けする新しい機能を開発しています。この機能は Firefox Suggest と呼ばれ、現在、初期バージョンが米国にお住まいのユーザー向けに提供されています。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータに基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。
 
-ブラウジング体験と製品を改善するため、Firefox は以下の情報を共有します。
+「Smarter Suggestions」を有効にすると、Firefox はあなたのブラウジング体験とサービスを改善するため、以下の情報を共有します。
 
 * __検索__:Firefox はあなたが検索バーに入力した内容を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). と共有することがあります。
 
@@ -100,6 +100,7 @@ Mozilla では、より少ない労力でより質の高い情報を皆様にお
 
 * __技術およびインタラクションデータ__:Firefox は、Firefox によるコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数とクリックされた回数について Mozilla の [パートナー](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有します。
 
+Mozilla では Mozilla および Mozilla のパートナーがあなたを特定する機能を制限するよう対策を講じています。[詳細はこちら](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox アカウント
 

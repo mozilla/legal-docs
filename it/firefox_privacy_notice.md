@@ -1,7 +1,7 @@
 ﻿## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*In vigore dal 30 settembre 2021*
-{: datetime="2021-09-30" }
+*In vigore da mercoledì 17 novembre 2021*
+{: datetime="2021-11-17" }
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet.
 
@@ -88,9 +88,9 @@ Leggere la documentazione completa [qui](https://firefox-source-docs.mozilla.org
 
 ### Firefox Suggest {: #searches }
 
-Mozilla sta sviluppando una nuova funzione che ci aiuta a fornire agli utenti informazioni migliori più facilmente. La funzione è chiamata Firefox Suggest e una sua prima versione è al momento disponibile per gli utenti negli Stati Uniti. Firefox Suggest mostra contenuti consigliati e sponsorizzati. Nell'ambito di questa funzione, ci impegniamo a limitare la possibilità di identificare gli utenti da parte nostra e dei nostri partner. [Ulteriori informazioni](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc) che includono come attivare e disattivare questa funzione.
+Mozilla sta sviluppando una nuova funzione che ci aiuta a fornire agli utenti informazioni migliori più facilmente. La funzione è chiamata Firefox Suggest e una sua prima versione è al momento disponibile per gli utenti negli Stati Uniti. Per impostazione predefinita, Firefox Suggest mostra contenuti consigliati e sponsorizzati basati su dati locali memorizzati nel computer dell'utente, come siti web presenti nella cronologia di navigazione, segnalibri e schede aperte. 
 
-Per migliorare l'esperienza di navigazione degli utenti, così come il prodotto stesso, Firefox condivide le seguenti informazioni:
+Se si sceglie di abilitare i suggerimenti "intelligenti", Firefox condividerà le seguenti informazioni per migliorare l'esperienza di navigazione dell'utente e ottimizzare il servizio:
 
 * __Ricerche__: Firefox invia a Mozilla il contenuto che viene digitato nella barra di ricerca e Mozilla può condividere tali dati con i propri [partner](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
 
@@ -100,6 +100,7 @@ Per migliorare l'esperienza di navigazione degli utenti, così come il prodotto 
 
 * __Dati tecnici e sulle interazioni__: Firefox invia a Mozilla dati come il numero di volte in cui Firefox suggerisce o visualizza contenuti su cui poi viene fatto clic, così come informazioni di base sulle interazioni con Firefox Suggest. Mozilla condivide con i nostri [partner](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informazioni quali il numero di volte in cui i suggerimenti vengono visualizzati e selezionati per finalità di verifica e miglioramento della funzione. 
 
+Nell'ambito di questa funzione, ci impegniamo a limitare la possibilità di identificare gli utenti da parte nostra e dei nostri partner. [Per saperne di più](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
 
 ### Account Firefox
 
