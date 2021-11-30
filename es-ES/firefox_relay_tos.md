@@ -1,12 +1,7 @@
 # Condiciones del servicio de Firefox Relay
 
-<<<<<<< HEAD
-Versión 1.1, en vigor desde el jueves, 11 de noviembre de 2021
-{: datetime="2021-11-11" }
-=======
 Versión 1.2, en vigor desde el miércoles, 16 de noviembre de 2021
 {: datetime="2021-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay (el «Servicio») le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos y aleatorios, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal.
 
@@ -32,8 +27,6 @@ __Sus comentarios y sugerencias.__ Si usted le proporciona a Mozilla ideas, suge
 
 __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus licenciatarios le conceden ningún derecho de propiedad intelectual sobre el Servicio que no esté estipulado específicamente en las presentes Condiciones. Por ejemplo, estas Condiciones no conceden el derecho a utilizar los derechos de copyright, marcas comerciales u otras características distintivas de la marca de Mozilla o sus licenciatarios. El software de Mozilla se distribuye con arreglo a la versión actual de la Licencia Pública de Mozilla u otras licencias de permisividad similar.
 
-<<<<<<< HEAD
-=======
 ## Su pago
 
 Firefox Relay está disponible como servicio gratuito y como servicio de suscripción de pago.
@@ -48,7 +41,6 @@ __Política de reembolso de 30 días.__ Si cancela su cuenta transcurridos los p
 
 __Cancelación.__ Puede cancelar su suscripción a Firefox Relay cuando lo desee desactivando su cuenta y cancelando su suscripción. Para ello, haga clic en el enlace «Cancelar suscripción» incluido en todos los mensajes de correo electrónico nuestros que reciba o yendo a la sección Suscripciones y pagos de su cuenta de Firefox y haciendo clic en «Cancelar». Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros ciclos de facturación y usted perderá el acceso al Servicio al final del ciclo de facturación actual.
 
->>>>>>> upstream/master
 ## Usted es responsable de las consecuencias del uso que haga del Servicio
 
 * Usted asegura a Mozilla que no utilizará el Servicio para infringir los derechos de nadie ni violar ninguna ley.

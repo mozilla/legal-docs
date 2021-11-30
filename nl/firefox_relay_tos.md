@@ -1,12 +1,7 @@
 # Servicevoorwaarden van Firefox Relay
 
-<<<<<<< HEAD
-Versie 1.1, van kracht vanaf donderdag 11 november 2021
-{: datetime="2021-11-11" }
-=======
 Versie 1.2, van kracht vanaf woensdag 16 november 2021
 {: datetime="2021-11-16" }
->>>>>>> upstream/master
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden voor online services. U maakt hiertoe aliase-mailaddressen waarmee u e-mails kunt verzenden en ontvangen, zonder dat u uw primaire e-mailadres bekendmaakt.
 
@@ -32,8 +27,6 @@ __Uw feedback en suggesties.__ Als u Mozilla eventuele ideeën, suggesties of fe
 
 __Intellectuele eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla verlenen u geen intellectuele eigendomsrechten in de Services die niet nadrukkelijk in deze Voorwaarden worden vermeld. Deze Voorwaarden verlenen bijvoorbeeld geen recht om eventuele copyrights, handelsmerken of andere onderscheidende merkelementen van Mozilla of licentiegevers van Mozilla te gebruiken. De Mozilla-software wordt gedistribueerd onder en is onderworpen aan de huidige versie van de Mozilla Public License of andere vergelijkbaar tolerante licenties.
 
-<<<<<<< HEAD
-=======
 ## Uw Betaling
 
 We bieden Firefox Relay als een gratis service of een betaalde abonnementsservice.
@@ -48,7 +41,6 @@ __Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van 
 
 __Opzegging.__ U kunt uw abonnement op Firefox Relay op elk gewenst moment opzeggen door uw account te deactiveren en uw abonnement op te zeggen. U kunt dit doen door op de link Abonnement opzeggen te klikken in e-mail die u van ons ontvangt of door naar de sectie Abonnementen en betalingen van uw Firefox-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de service aan het einde van de huidige factureringscyclus.
 
->>>>>>> upstream/master
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van de Service
 
 * U garandeert Mozilla dat u de Service niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.

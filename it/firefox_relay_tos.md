@@ -1,12 +1,7 @@
 # Termini di servizio di Firefox Relay
 
-<<<<<<< HEAD
-Versione 1.1, in vigore da giovedì 11 novembre 2021
-{: datetime="2021-11-11" }
-=======
 Versione 1.2, in vigore da mercoledì 16 novembre 2021
 {: datetime="2021-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay (il "Servizio") ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email alias univoci e casuali che ti permettono di inviare e ricevere messaggi senza rivelare il tuo indirizzo email principale.
 
@@ -32,8 +27,6 @@ __Feedback e suggerimenti.__ Se offri a Mozilla idee, suggerimenti o feedback su
 
 __Proprietà intellettuale di Mozilla.__ Né Mozilla né i suoi licenziatari ti concedono alcun diritto di proprietà intellettuale sul Servizio non specificamente indicato nei presenti Termini. Ad esempio, i presenti Termini non garantiscono il diritto di utilizzare copyright, marchi commerciali o altre caratteristiche distintive del brand Mozilla o dei suoi licenziatari. Il software Mozilla viene distribuito in base alla versione corrente della Mozilla Public License, o di altre licenze similmente permissive.
 
-<<<<<<< HEAD
-=======
 ## Pagamento
 
 Firefox Relay viene offerto sia come servizio gratuito che come servizio a pagamento in abbonamento.
@@ -48,7 +41,6 @@ __Politica di rimborso di 30 giorni.__ La prima volta che ti abboni a Firefox Re
 
 __Annullamento.__ Puoi annullare l'abbonamento a Firefox Relay in qualsiasi momento disattivando il tuo account e revocando l'iscrizione. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure selezionando "Annulla" nella sezione Abbonamenti e pagamenti del tuo account Firefox. Se scegli di revocare, il rinnovo automatico verrà sospeso, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione corrente.
 
->>>>>>> upstream/master
 ## Le conseguenze del tuo utilizzo del Servizio ricadono unicamente su di te
 
 * Hai la responsabilità di garantire a Mozilla che l'utilizzo del Servizio da parte tua non violerà alcun diritto o non infrangerà alcuna legge.

@@ -1,12 +1,7 @@
 ﻿# Notis Privasi Firefox Relay
 
-<<<<<<< HEAD
-*Berkuat kuasa pada 11 November 2021*
-{: datetime="2020-11-11" }
-=======
 *Berkuat kuasa pada 16 November 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel (*alias*) yang unik dan rawak. Notis privasi ini menerangkan jenis data yang dikongsi oleh Firefox Relay dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat.
 

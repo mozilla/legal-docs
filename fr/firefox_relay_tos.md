@@ -1,12 +1,7 @@
 # Conditions d’utilisation de Firefox Relay
 
-<<<<<<< HEAD
-Version 1.1 - Date d’effet : jeudi 11 novembre 2021
-{: datetime="2021-11-11" }
-=======
 Version 1.2 - Date d’effet : mercredi 16 novembre 2021
 {: datetime="2021-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay (le « Service ») vous permet de sécuriser votre adresse email principale en créant une adresse email unique (un « alias »), qui vous permet d’envoyer et de recevoir des emails sans révéler votre adresse email principale.
 
@@ -32,8 +27,6 @@ __Vos commentaires et suggestions.__ Si vous communiquez à Mozilla des idées, 
 
 __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence ne vous cèdent aucun droit de propriété intellectuelle sur le Service qui ne soit expressément déclaré dans les présentes Conditions. Par exemple, ces Conditions ne vous accordent pas le droit d’utiliser les droits d’auteur, noms commerciaux, marques de commerce, ou toute autre caractéristique distinctive de la marque Mozilla ou de ses concédants de licence. Le logiciel Mozilla est distribué dans le cadre et sous réserve de la version courante de la licence publique de Mozilla ou d’autres licences offrant des permissions similaires.
 
-<<<<<<< HEAD
-=======
 ## Votre paiement
 
 Nous proposons Firefox Relay sous forme de service gratuit ou d’abonnement payant.
@@ -48,7 +41,6 @@ __Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à 
 
 __Annulation.__ Vous pouvez annuler votre abonnement à Firefox Relay à tout moment en désactivant votre compte. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des emails que nous vous envoyons ou en accédant à la section Abonnements et paiements de votre compte Firefox, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès au Service à la fin de la période de facturation en cours.
 
->>>>>>> upstream/master
 ## Vous êtes responsable des conséquences de votre utilisation du Service
 
 * Vous garantissez à Mozilla de ne pas utiliser le Service de manière à empiéter sur les droits de quiconque ni d’enfreindre de lois.

@@ -1,12 +1,7 @@
 ﻿# Aviso de privacidad de Firefox Relay
 
-<<<<<<< HEAD
-*Vigente desde el jueves, 11 de noviembre de 2021*
-{: datetime="2020-11-11" }
-=======
 *Vigente desde el jueves, 16 de noviembre de 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online a través de la creación de direcciones de correo electrónico únicas y aleatorias («alias»). En este aviso de privacidad, se explican los distintos tipos de datos que Firefox Relay recopila y comparte, y por qué. Además, nos adherimos a la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/) en cuanto a la forma en la que recibimos, tratamos y compartimos la información.
 

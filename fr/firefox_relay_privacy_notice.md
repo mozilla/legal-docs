@@ -1,12 +1,7 @@
 ﻿# Politique de confidentialité de Firefox Relay
 
-<<<<<<< HEAD
-*Date d’effet : jeudi 11 novembre 2021*
-{: datetime="2020-11-11" }
-=======
 *Date d’effet : jeudi 16 novembre 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay vous permet de protéger votre adresse email principale des services en ligne en créant des adresses uniques et aléatoires (*alias*). Cette politique de confidentialité explique quelles données Firefox Relay partage, et dans quels buts. Nous adhérons en outre à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/), qui explique comment nous recevons, traitons et partageons les informations.
 

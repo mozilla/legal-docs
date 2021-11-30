@@ -1,12 +1,7 @@
 ﻿# Informativa sulla privacy di Firefox Relay
 
-<<<<<<< HEAD
-*In vigore dal giovedì 11 novembre 2021*
-{: datetime="2020-11-11" }
-=======
 *In vigore dal giovedì 16 novembre 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Firefox Relay ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email univoci e casuali (*alias*). Questa informativa sulla privacy spiega quali dati vengono raccolti da Firefox Relay, come vengono condivisi e perché. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni, puoi anche fare riferimento all'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 

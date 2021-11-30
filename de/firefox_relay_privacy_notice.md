@@ -1,12 +1,7 @@
 ﻿# Datenschutzhinweis für Firefox Relay
 
-<<<<<<< HEAD
-*Gültig ab 11. November 2021*
-{: datetime="2020-11-11" }
-=======
 *Gültig ab 16. November 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Mit Firefox Relay können Sie Ihre primäre E-Mail-Adresse vor Onlinediensten schützen, indem Sie eindeutige, aber zufällige E-Mail-Adressen („Aliase“) erstellen. In diesem Datenschutzhinweis wird erläutert, welche Daten Firefox Relay teilt und warum das so ist. Wir halten uns auch an die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen.
 

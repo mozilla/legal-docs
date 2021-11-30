@@ -1,12 +1,7 @@
 ﻿# Privacykennisgeving van Firefox Relay
 
-<<<<<<< HEAD
-*Van kracht vanaf donderdag 11 november 2021*
-{: datetime="2020-11-11" }
-=======
 *Van kracht vanaf donderdag 16 november 2021*
 {: datetime="2020-11-16" }
->>>>>>> upstream/master
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden voor online services. U maakt hiertoe willekeurige aliase-mailaddressen. Deze privacyverklaring gaat in op welke gegevens Firefox Relay verzamelt en deelt en waarom. We houden ons daarnaast aan het [Privacybeleid van Mozilla](https://www.mozilla.org/privacy/) ten aanzien van hoe we informatie ontvangen, verzamelen en delen.
 
