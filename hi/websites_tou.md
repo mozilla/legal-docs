@@ -100,11 +100,11 @@ MozReps और Webmaker जैसी अन्य वेबसाइटें �
 
 #### 13\. हमसे संपर्क करें
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-टेलीफ़ोन: 650-903-0800
-फ़ैक्स: 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+टेलीफ़ोन: 650-903-0800  
+फ़ैक्स: 650-903-0875  
 Legal-notices at mozilla.com

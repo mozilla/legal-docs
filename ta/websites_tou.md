@@ -99,11 +99,11 @@ Mozilla சேவைகளில் ஒரு புதிய அம்சத்
 
 #### 13\. எங்களைத் தொடர்புகொள்ள
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-தொலைபேசி: 650-903-0800
-தொலைநகல்: 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+தொலைபேசி: 650-903-0800  
+தொலைநகல்: 650-903-0875  
 Legal-notices at mozilla.com
