@@ -30,18 +30,18 @@ Anumite Conținuturi din Comunicările noastre se obțin din surse care interzic
 
 * Anumite Conținuturi indică în mod expres faptul că autorul nu dorește aplicarea unei licențe deschise.  Ar trebui să contactați autorul sau reprezentantul acestuia pentru permisiunea de a utiliza astfel de Conținuturi. Întrebările privind conținutul creat de Mozilla pot fi trimise la: licensing@mozilla.org.
 * Anumite Conținuturi cuprind mărci comerciale, prezentări comerciale, logouri și portofolii de mărci ale Mozilla și ale altor părți („Mărci comerciale”). Cu excepția câtorva circumstanțe limitate, Mărcile comerciale nu pot fi utilizate fără permisiunea în scris a proprietarului Mărcii comerciale.  [Aflați mai multe despre mărcile comerciale ale Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.   Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil. 
+* Software-ul folosit de site-urile noastre web este licențiat în temeiul MPL sau alte licențe cu sursă deschisă permisive similare.   Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil.
 
 
 #### 4\. Remiteri de conținut
 
 Este posibil să contribuiți cu conținut atunci când interacționați cu Comunicările noastre, inclusiv, dar fără limitare la acestea, comentariile cu privire la un articol, blogurile, codurile contributorii sau reprezentările grafice ori materialele scrise contributorii (denumite individual „Remitere”). Cu excepția cazului în care Remiterea este efectuată de dumneavoastră ca parte a unui acord separat cu Mozilla, caz în care se va aplica respectivul acord, atunci
-   
+
 Pentru Remiterile pentru proiectele Mozilla cu sursă deschisă:
 
 * Sunteți de acord să licențiați Remiterea conform cu termenii licenței corespunzătoare respectivului proiect cu sursă deschisă la care contribuiți.  Pentru mai multe informații privind licența specifică, consultați codul sursă sau depozitul GitHub aplicabil.
 
-Pentru toate celelalte Remiteri, sunteți de acord cu următoarele în ceea ce privește fiecare remitere: 
+Pentru toate celelalte Remiteri, sunteți de acord cu următoarele în ceea ce privește fiecare remitere:
 
 * Garantați că Remiterea dvs. va respecta acești Termeni, [Condițiile de utilizare](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla și orice termeni suplimentari care ar putea reglementa Remiterea dvs.
 * Ne acordați prin prezenta licența neexclusivă, gratuită, internațională, sublicențiabilă (către cei cu care lucrăm) de utilizare a Remiterii dvs. legate de Comunicări și promovarea online și offline a misiunii, produselor și serviciilor Mozilla.
@@ -60,7 +60,7 @@ Pentru toate celelalte Remiteri, sunteți de acord cu următoarele în ceea ce p
 
 Dacă vă abonați la buletinele noastre de știri sau vă înregistrați pentru un cont în legătură cu oricare dintre site-urile noastre web, s-ar putea să primiți e-mailuri de la noi, referitoare la contul dvs. (de ex., actualizări juridice, de confidențialitate și de securitate).
 
-Unele dintre site-urile noastre web dispun de unelte online care vă permit să trimiteți e-mailuri către alte persoane. De exemplu, vă puteți invita contactele la evenimente utilizând contul dvs. de Webmaker. Sunteți de acord să nu utilizați în mod abuziv adresele de e-mail ale altora (de ex., prin trimiterea de mesaje spam). 
+Unele dintre site-urile noastre web dispun de unelte online care vă permit să trimiteți e-mailuri către alte persoane. De exemplu, vă puteți invita contactele la evenimente utilizând contul dvs. de Webmaker. Sunteți de acord să nu utilizați în mod abuziv adresele de e-mail ale altora (de ex., prin trimiterea de mesaje spam).
 
 Alte site-uri web precum MozReps și Webmaker furnizează unelte care permit utilizatorilor să organizeze evenimente fizice la care poate participa oricine. Fiți precaut(ă) și dați dovadă de discernământ atunci când participați la evenimente.
 
@@ -94,18 +94,17 @@ CU EXCEPȚIA SITUAȚIILOR PREVĂZUTE DE LEGE, MOZILLA ȘI PĂRȚILE DESPĂGUBITE
 
 Putem actualiza periodic acești Termeni pentru a aborda o nouă funcționalitate a Serviciilor sau pentru a clarifica o dispoziție. Termenii actualizați vor fi publicați online. Dacă modificările sunt substanțiale, vom anunța actualizarea prin canalele noastre obișnuite pentru astfel de anunțuri, precum publicări pe blog, bannere, e-mailuri sau forumuri. Continuarea utilizării de către dvs. a Comunicărilor după data intrării în vigoare a acestor modificări constituie acceptarea de către dvs. a acestor modificări. Pentru a vă ușura efortul de examinare, vom publica o dată de intrare în vigoare în partea superioară a acestei pagini.
 
-#### 12\. Diverse  
+#### 12\. Diverse
 
 Acești Termeni constituie întregul acord între dvs. și Mozilla privind Comunicările și înlocuiesc orice versiune anterioară a acestor Termeni. Comunicările și acești Termeni sunt reglementați de legislația statului California, S.U.A., cu excepția normelor privind conflictul de legi. Orice pretenții și dispute ce decurg din Comunicări sau acești Termeni vor fi adresate în exclusivitate instanțelor din comitatul Santa Clara, California, și acceptați competența personală a acestor instanțe. Dacă o prevedere a acestor Termeni este considerată nulă sau inaplicabilă, acest fapt nu va afecta aplicabilitatea celorlalte prevederi. În cazul conflictului dintre o versiune tradusă a acestor Termeni și versiunea în limba engleză, versiunea în limba engleză va avea prioritate. În cazul unui conflict între acești Termeni și termeni suplimentari relevanți, termenii suplimentari vor avea prioritate.
 
 #### 13\. Contactați-ne
 
 Mozilla
-Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
-SUA  
-Telefon: 650-903-0800  
-Fax: 650-903-0875  
-Notificări legale la mozilla.com
-
+Attn: Mozilla – Legal Notices
+2 Harrison St # 175,
+San Francisco, CA 94105
+USA
+Telefon: 650-903-0800
+Fax: 650-903-0875
+Legal-notices at mozilla.com

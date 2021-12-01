@@ -36,7 +36,7 @@ Parte dei Contenuti delle nostre Comunicazioni viene acquisito da fonti che proi
 #### 4\. Invii di Contenuti
 
 È possibile contribuire con propri Contenuti quando si interagisce con le nostre Comunicazioni, inviando, ad esempio, commenti su articoli, post su blog, codice, grafici o altro materiale scritto (individualmente "Invio"). Tranne se l'Invio viene effettuato in base a un accordo con Mozilla separato, nel qual caso vengono applicate le condizioni di tale accordo, allora
-   
+
 Per gli Invii ai progetti open source di Mozilla:
 
 * L'utente accetta di concedere in licenza i propri Invii secondo i termini della licenza corrispondente del progetto open source specifico a cui sta contribuendo. Per ulteriori informazioni sulla licenza specifica, consultare il codice sorgente o l'archivio GitHub applicabile.
@@ -101,11 +101,10 @@ I presenti Termini costituiscono l’intero accordo tra Mozilla e l’utente rel
 #### 13\. Contattateci
 
 Mozilla
-Att.: Mozilla - Avvisi legali
-331 E. Evelyn Ave.,
-Mountain View, CA 94041
+Attn: Mozilla – Legal Notices
+2 Harrison St # 175,
+San Francisco, CA 94105
 USA
-Telefono: +1 650-903-0800
-Fax: +1 650-903-0875
-Avvisi legali presso mozilla.com
-
+Telefono: 650-903-0800
+Fax: 650-903-0875
+Legal-notices at mozilla.com
