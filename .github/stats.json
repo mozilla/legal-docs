@@ -152,36 +152,20 @@
     ]
   },
   "firefox_cloud_services_tos.md": {
-    "count": 28,
+    "count": 12,
     "locales": [
-      "af",
-      "ar",
-      "bn",
-      "cs",
       "de",
-      "el",
       "es-ES",
       "fr",
-      "hi",
-      "hr",
-      "hu",
       "id",
       "it",
       "ja",
-      "mk",
       "nl",
       "pl",
       "pt-BR",
-      "ro",
       "ru",
-      "sr",
-      "sw",
-      "ta",
-      "tl-PH",
       "tr",
-      "xh",
-      "zh-CN",
-      "zu"
+      "zh-CN"
     ]
   },
   "firefox_lite_contentservices_reward.md": {
@@ -381,30 +365,6 @@
       "vi",
       "zh-CN",
       "zh-TW"
-    ]
-  },
-  "klar_privacy_notice.md": {
-    "count": 1,
-    "locales": [
-      "de"
-    ]
-  },
-  "mobile_partner_website_agreements.md": {
-    "count": 1,
-    "locales": [
-      "zh-CN"
-    ]
-  },
-  "mobile_partner_website_branding_terms.md": {
-    "count": 1,
-    "locales": [
-      "zh-CN"
-    ]
-  },
-  "mobile_partner_website_prototype_agreement.md": {
-    "count": 1,
-    "locales": [
-      "zh-CN"
     ]
   },
   "mozilla_privacy_policy.md": {

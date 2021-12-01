@@ -5,7 +5,7 @@ List of translated files (number of locales between parentheses):
 * common_voice_privacy_notice.md (49)
 * common_voice_terms.md (49)
 * firefox_about_rights.md (12)
-* firefox_cloud_services_tos.md (28)
+* firefox_cloud_services_tos.md (12)
 * firefox_lite_contentservices_reward.md (11)
 * firefox_lite_contentservices_tos.md (11)
 * firefox_lite_privacy_notice.md (12)
@@ -15,9 +15,6 @@ List of translated files (number of locales between parentheses):
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
 * focus_privacy_notice.md (18)
-* klar_privacy_notice.md (1)
-* mobile_partner_website_branding_terms.md (1)
-* mobile_partner_website_prototype_agreement.md (1)
 * mozilla_privacy_policy.md (45)
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
@@ -27,7 +24,6 @@ List of translated files (number of locales between parentheses):
 
 List of files not translated:
 * better_web_privacy.md
-* better_web_terms.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
 * firefox_lite_about_rights.md
@@ -44,4 +40,3 @@ List of files not translated:
 * thunderbird_privacy_policy.md
 
  List of translated files not available in source folders (locale between parentheses):
-* mobile_partner_website_agreements.md (zh-CN)
