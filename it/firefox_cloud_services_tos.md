@@ -58,7 +58,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
     Inviamo periodicamente messaggi finalizzati ad aiutare l'utente a sfruttare al meglio il proprio account Firefox. Tali messaggi possono essere contenuti all'interno di un prodotto oppure recapitati all'indirizzo e-mail dell'account Firefox e possono contenere informazioni sull'onboarding, sui vari servizi dell'account Firefox e su offerte e sondaggi correlati. È possibile scegliere di non ricevere queste comunicazioni facendo clic sul link in fondo all'e-mail.
     
     Possiamo inoltre inviare importanti informazioni sull'account, come aggiornamenti ai termini legali o all'informativa sulla privacy, oppure messaggi relativi alla sicurezza, come reimpostazioni di password o verifiche di indirizzi e-mail e dispositivi collegati. Tali comunicazioni sono necessarie per il corretto funzionamento dei nostri servizi, pertanto non è possibile scegliere di non riceverle. 
-Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 USA oppure a legal-notices@mozilla.com_ 
+Per contattare Mozilla, scrivere a _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105, USA oppure a legal-notices@mozilla.com_ 
 
 6. #### Contenuti dell'utente nei nostri Servizi
 

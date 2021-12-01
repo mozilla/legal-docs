@@ -57,7 +57,7 @@
 
     我们会定期发送消息，帮助您发挥 Firefox 帐户的最大价值。您可能会在产品中收到这些消息，也可能发送至 Firefox 帐户的电子邮件地址；其中包括入门指导、各种不同的 Firefox 帐户服务，以及相关优惠和调查。要选择退出，请单击电子邮件底部的链接。
     另外，我们还可能会向您发送一些重要的帐户信息，如法律或隐私条款更新，或者密码重置、电子邮件验证和链接设备等安全消息。这些信息是我们服务的必要组成部分，无法取消订阅。
-您可以写信至 Mozilla 企业收件人与 Mozilla 联系：Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 或者，发送电子邮件至：legal-notices@mozilla.com_
+您可以写信至 Mozilla 企业收件人与 Mozilla 联系：Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 或者，发送电子邮件至：legal-notices@mozilla.com
 
 6. #### Services 中您的内容
 

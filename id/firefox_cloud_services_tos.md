@@ -58,7 +58,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     Kami mengirimkan pesan berkala untuk membantu Anda memaksimalkan Akun Firefox. Anda mungkin menerima pesan ini di dalam produk atau di alamat email Akun Firefox Anda; yang mencakup pengenalan, berbagai layanan Akun Firefox, serta tawaran dan survei terkait. Untuk berhenti berlangganan, klik tautan di bagian bawah email kami.
     
     Kami mungkin juga mengirimkan informasi akun penting seperti pembaruan terhadap ketentuan hukum atau privasi, atau pesan keamanan seperti reset kata sandi, verifikasi email, dan perangkat yang ditautkan. Informasi ini penting bagi layanan kami dan tidak dapat dihentikan langganannya. 
-Anda dapat menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 atau legal-notices@mozilla.com_ 
+Anda dapat menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 atau legal-notices@mozilla.com_ 
 
 6. #### Konten Anda dalam Layanan Kami
 

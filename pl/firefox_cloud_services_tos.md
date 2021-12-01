@@ -58,7 +58,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
     Regularnie przesyłamy użytkownikom wiadomości pomagające w pełni skorzystać z możliwości konta Firefox. Wiadomości takie mogą być wyświetlane w produktach lub przesyłane na adres e-mail skojarzony z kontem Firefox użytkownika i obejmować informacje wdrożeniowe, różne usługi związane z kontem Firefox oraz pokrewne oferty i ankiety. Aby zrezygnować z ich otrzymywania, należy kliknąć łącze w dolnej części pochodzącej od nas wiadomości e-mail.
     
     Możemy również przesyłać użytkownikom ważne informacje dotyczące konta, takie jak aktualizacje postanowień prawnych lub zasad ochrony prywatności, a także wiadomości bezpieczeństwa, umożliwiające zresetowanie hasła, weryfikację adresu e-mail czy kojarzenie urządzeń. Wiadomości takie są wymagane w celu korzystania z naszych usług i nie można zrezygnować z ich subskrypcji. 
-Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporation Attn: Mozilla — Legal Notices, 331 E. Evelyn Ave., Mountain View, CA 94041 lub adres e-mail legal-notices@mozilla.com_. 
+Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 lub adres e-mail legal-notices@mozilla.com_. 
 
 6. #### Zawartość użytkownika w naszych Usługach
 

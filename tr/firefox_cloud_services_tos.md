@@ -58,7 +58,7 @@ Son Güncelleme: 10 Eylül 2019 Salı
     Firefox Hesabınızdan en iyi şekilde yararlanmanızı sağlamak için düzenli olarak mesajlar göndeririz. Bu mesajları ürün içinde veya Firefox Hesabı e-posta adresiniz üzerinden alabilirsiniz. Mesajlar; katılım, farklı Firefox Hesap hizmetleri ile ilgili teklifleri ve anketleri kapsar. Mesaj almayı bırakmak için e-postalarımızın alt kısmında yer alan bağlantıyı tıklayın.
     
     Ayrıca yasal koşullar veya gizlilik koşullarına ilişkin güncellemeler veya şifre sıfırlama ve e-posta doğrulaması gibi mesajlar ile bağlantılı cihazlara yönelik önemli hesap bilgilerini de size gönderebiliriz. Bu bilgiler, hizmetlerimiz için gereklidir ve bunları almayı bırakmak mümkün değildir. 
-Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 veya legal-notices@mozilla.com_ 
+Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 veya legal-notices@mozilla.com_ 
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 

@@ -62,7 +62,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
     Vous pouvez modifier vos abonnements aux courriels auprès de Mozilla à partir de nos courriels (cliquez sur le lien fourni en bas du courriel) ou à partir du navigateur (visitez Firefox / Préférences / Sync / Gérer le compte / Préférences de courriel).
 
     Nous pouvons également vous envoyer des informations importantes concernant votre compte, telles que les mises à jour des dispositions légales ou des dispositions sur la protection de la confidentialité, ou des messages de sécurité concernant notamment la réinitialisation des mots de passe, les vérifications d’adresse électronique et les appareils associés. Ces messages sont indispensables à nos services et vous ne pouvez pas vous désinscrire.
-Vous pouvez contacter Mozilla à _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041, États-Unis ou à l’adresse legal-notices@mozilla.com_
+Vous pouvez contacter Mozilla à _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105, États-Unis ou à l’adresse legal-notices@mozilla.com_
 
 6. #### Vos contenus dans nos services
 

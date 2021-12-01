@@ -58,7 +58,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     Enviamos mensagens periódicas para ajudar você a aproveitar sua conta do Firefox ao máximo. Você as receberá no produto ou pelo endereço de e-mail da sua conta do Firefox. Essas mensagens podem ser sobre integração, diferentes serviços da conta do Firefox, e ofertas e pesquisas relacionadas. Para cancelar o recebimento delas, clique no link na parte inferior dos nossos e-mails.
     
     Também podemos enviar informações importantes sobre sua conta, como atualizações dos termos legais ou de privacidade ou mensagens de segurança, como redefinição de senha, confirmação de e-mail e dispositivos vinculados. Elas são necessárias para nossos serviços e não podem ser canceladas. 
-Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 ou pelo e-mail legal-notices@mozilla.com_ 
+Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 ou pelo e-mail legal-notices@mozilla.com_ 
 
 6. #### Seu conteúdo em nossos Serviços
 

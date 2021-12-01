@@ -62,7 +62,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     Sie können Ihre E-Mail-Abonnements bei Mozilla über unsere E-Mails (durch Klick auf den Link unten) oder den Browser (besuchen Sie Firefox/Einstellungen/Sync/Konto verwalten/E-Mail-Einstellungen) ändern.
     
     Wir senden Ihnen evtl. auch wichtige Kontoinformationen wie Aktualisierungen der rechtlichen oder Datenschutzbestimmungen oder Sicherheitsnachrichten wie solche zu Passwort-Rücksetzungen, E-Mail-Bestätigung und verknüpften Geräten. Diese Nachrichten sind für unsere Services notwendig. Sie können daher nicht abbestellt werden. 
-Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041, USA oder legal-notices@mozilla.com_ 
+Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105, USA oder legal-notices@mozilla.com_
 
 6. #### Ihre Inhalte in unseren Services
 
