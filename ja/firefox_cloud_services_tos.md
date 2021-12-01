@@ -57,7 +57,7 @@
 
     Mozilla は、皆様に Firefox アカウントを最大限に活用していただけるよう、定期的なメッセージをお送りします。これらのメッセージは製品内で、またはお持ちの Firefox アカウントのメールアドレスを通じて受信できます。メッセージには、サービスを利用する上で必要な情報、さまざまな Firefox アカウントサービスの紹介、関連するオファーやアンケート調査などが含まれます。オプトアウトするには、メールの下部にあるリンクをクリックしてください。
     Mozilla は、法的情報やプライバシー条件の更新、あるいはパスワードのリセット、メールアドレスの確認、リンクされているデバイスといったセキュリティに関するメッセージなど、重要なアカウント情報を皆様にお送りすることもあります。これらは弊社サービスにとって必要な情報であるため、受信登録を解除することはできません。
-Mozilla の連絡先情報：_Mozilla Corporation Attn:Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 または legal-notices@mozilla.com_
+Mozilla の連絡先情報：_Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 または legal-notices@mozilla.com_
 
 6. #### 本サービスのコンテンツ
 

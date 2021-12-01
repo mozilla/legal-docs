@@ -17,14 +17,14 @@ Némelyik webhelyünk kapcsolódhat harmadik fél által biztosított linkhez, a
 
 A webhely vagy más Mozilla szolgáltatás eléréséhez bizonyos webhelyeken regisztrálni kell és fiókot kell nyitni. Ilyen esetben további feltételekről tájékoztatják Önt. Az Ön fiókja segítségével folytatott minden tevékenységért Önt terheli felelősség.
 
-Némely webhely engedélyezi, hogy a regisztráció során felhasználónevet hozzon létre. Az Ön által létrehozott felhasználónévnek eleget kell tennie az [elfogadható használatra vonatkozó irányelvünkben](https://www.mozilla.org/about/legal/acceptable-use/) foglaltaknak. 
+Némely webhely engedélyezi, hogy a regisztráció során felhasználónevet hozzon létre. Az Ön által létrehozott felhasználónévnek eleget kell tennie az [elfogadható használatra vonatkozó irányelvünkben](https://www.mozilla.org/about/legal/acceptable-use/) foglaltaknak.
 
 
 #### 3\. Tartalom és licenc
 
-Közleményeink tartalmakat foglalnak magukban, például cikkeket, képeket, fényképeket, hozzászólásokat, szoftverkódokat, audió- és videóklipeket és egyéb anyagokat (együttesen „Tartalmak”). A tartalmak szerzője a Mozilla, a Mozilla közreműködői és egyéb források. 
+Közleményeink tartalmakat foglalnak magukban, például cikkeket, képeket, fényképeket, hozzászólásokat, szoftverkódokat, audió- és videóklipeket és egyéb anyagokat (együttesen „Tartalmak”). A tartalmak szerzője a Mozilla, a Mozilla közreműködői és egyéb források.
 
-A Mozilla által hozzáférhetővé tett tartalmak rendszerint a közösségi megosztást és a nyílt licencek segítségével történő újbóli felhasználást szolgálják, ilyen például a Creative Commons (műalkotásoknál) vagy a Mozilla Public License (szoftverkódok esetében). Az esetek többségében arra kérjük a Mozilla közreműködőit, hogy nyílt licencek részeként bocsássák ki a Tartalmakat. 
+A Mozilla által hozzáférhetővé tett tartalmak rendszerint a közösségi megosztást és a nyílt licencek segítségével történő újbóli felhasználást szolgálják, ilyen például a Creative Commons (műalkotásoknál) vagy a Mozilla Public License (szoftverkódok esetében). Az esetek többségében arra kérjük a Mozilla közreműködőit, hogy nyílt licencek részeként bocsássák ki a Tartalmakat.
 
 A Közleményinkben szereplő tartalmak egy része olyan forrásokból származik, amelyek előzetes engedély hiányában tiltják Tartalmaik további használatát. Ahol erre mód van, a Tartalomban vagy a Webhely láblécében megjelenítjük a vonatkozó licencet. Ön elfogadja, hogy az ilyen értesítések Önre nézve kötelező érvényűek. Ne feledje a következő speciális rendelkezéseket:
 
@@ -36,7 +36,7 @@ A Közleményinkben szereplő tartalmak egy része olyan forrásokból származi
 #### 4\. Tartalom Feltöltések
 
 Ön Tartalmakkal is hozzájárulhat a Kommunikációkhoz, többek között megjegyzést fűzhet egy cikkhez, blogolhat, valamint kódot, grafikai elemet vagy írott anyagot oszthat meg („Benyújtott anyag”). Ha a Benyújtott anyagra nem vonatkozik a Mozillával kötött külön megállapodás, amely ilyen esetben irányadó, akkor
-   
+
 A Mozilla nyílt forrású projektjeivel kapcsolatban:
 
 * Ön elfogadja, hogy Benyújtott anyagát az adott nyílt forrású projekthez tartozó licencre vonatkozó feltételekkel licenceli. Konkrét licencekkel kapcsolatban az adott forráskódtár vagy GitHub-tár nyújt további információt.
@@ -46,7 +46,7 @@ Minden más Benyújtott anyag tekintetében Ön elfogadja a következő feltéte
 * Ön ezúton kijelenti és garantálja, hogy az Ön Feltöltése megfelel ezeknek a Feltételeknek, a Mozilla [Felhasználási feltételeknek](https://www.mozilla.org/about/legal/acceptable-use/), és bármely további feltételnek, amely vonatkozhat az Ön Feltöltésére.
 * A Feltöltéssel nem kizárólagos, jogdíjmentes, az egész világra kiterjedő, licencbe adható (azoknak, akikkel együtt dolgozunk) engedélyt ad számunkra Feltöltésének a Közleményekkel kapcsolatos felhasználására, valamint a Mozilla küldetésének, termékeinek és szolgáltatásainak offline promóciójára.
 * Tudomásul veszi, hogy Feltöltése hozzáférhetővé válhat az érintett szolgáltatás többi felhasználója vagy a nyilvánosság számára.
-* Amennyiben feltöltése művészi alkotást vagy szoftverkódot tartalmaz, akkor Ön elfogadja, hogy olyan módon ad licencet a Feltöltésre vonatkozóan, amely kompatibilis azzal a Webhellyel, amelyre a Tartalmat feltöltötte. 
+* Amennyiben feltöltése művészi alkotást vagy szoftverkódot tartalmaz, akkor Ön elfogadja, hogy olyan módon ad licencet a Feltöltésre vonatkozóan, amely kompatibilis azzal a Webhellyel, amelyre a Tartalmat feltöltötte.
 * Ön ezúton kijelenti és garantálja, hogy rendelkezik az itt említett jogok átadásához szükséges jogokkal, továbbá hogy a jelen Feltételek szerinti használat nem sérti harmadik fél tulajdonjogát vagy szellemi tulajdonhoz fűződő jogát.
 * Ön megértette és elfogadja, hogy a Mozilla saját belátása szerint fenntartja azon jogát, hogy felülvizsgáljon, módosítson vagy eltávolítson bármely feltöltött Tartalmat, amelyről a jelen feltételek megszegését feltételezi.
 
@@ -60,7 +60,7 @@ A [Mozilla Webhelyek, Közlemények és Sütik Adatvédelmi Nyilatkozat](https:/
 
 Ha Ön feliratkozik hírlevelünkre, vagy fiókkal regisztrál bármelyik Webhelyünkkel kapcsolatban, akkor tranzakciós e-maileket fog kapni tőlünk fiókjára vonatkozóan (például jogi, adatvédelmi és biztonsági frissítések).
 
-Némely Webhelyünk rendelkezik olyan eszközökkel, amelyek segítségével Ön e-mailt küldhet másoknak. Például meghívhatja a címlistájában szereplő partnereit valamely eseményre Webmaker fiókja segítségével. Ön elfogadja, hogy nem élhet vissza mások e-mail címével (például nem küldhet nekik levélszemetet). 
+Némely Webhelyünk rendelkezik olyan eszközökkel, amelyek segítségével Ön e-mailt küldhet másoknak. Például meghívhatja a címlistájában szereplő partnereit valamely eseményre Webmaker fiókja segítségével. Ön elfogadja, hogy nem élhet vissza mások e-mail címével (például nem küldhet nekik levélszemetet).
 
 Más Webhelyek, például a MozReps és a Webmaker olyan eszközöket kínálnak, amelyek segítségével a felhasználók valós eseményeket szervezhetnek, amelyeken bárki részt vehet. Kérjük, hogy az ilyen eseményeken való részvételnél legyen óvatos és hozzon jól megalapozott döntést.
 
@@ -90,22 +90,21 @@ A SZOLGÁLTATÁSOKAT A MEGADOTT FORMÁBAN BIZTOSÍTJUK MINDEN HIBÁJUKKAL EGYÜT
 A TÖRVÉNY ÁLTAL MEGKÍVÁNT MÉRTÉKEN TÚL A MOZILLA ÉS A BIZTOSÍTOTT FELEK NEM FELELŐSEK SEMMILYEN, A JELEN FELTÉTELEKBŐL EREDŐ VAGY AZOKHOZ KAPCSOLÓDÓ KÖZVETETT, KÜLÖNLEGES, VÉLETLEN, KÖVETKEZMÉNYI VAGY BÜNTETŐ JELLEGŰ, ILLETVE A KÖZLEMÉNYEK HASZNÁLATÁBÓL VAGY HASZNÁLATÁNAK ELLEHETETLENÜLÉSÉBŐL EREDŐ KÁRÉRT, BELEÉRTVE TÖBBEK KÖZÖTT A KÖZVETETT VAGY KÖZVETLEN HÍRNÉVVESZTÉST, MUNKABESZÜNTETÉST, HASZONVESZTÉST, ADATVESZTÉST, SZÁMÍTÓGÉPES MEGHIBÁSODÁST VAGY MŰKÖDÉSI ZAVART, MÉG ABBAN AZ ESETBEN SEM, HA TÁJÉKOZTATÁST KAPTAK AZ ILYEN JELLEGŰ VESZÉLYEK LEHETŐSÉGÉRŐL, VALAMINT A KÁRIGÉNY ALAPJÁTÓL (SZERZŐDÉS, MAGÁNVÉTEK VAGY EGYÉB) FÜGGETLENÜL. A MOZILLA ÉS A BIZTOSÍTOTT FELEK KOLLEKTÍV FELELŐSSÉGE A JELEN MEGÁLLAPODÁS SZERINT NEM HALADJA MEG AZ 500 USD (ÖTSZÁZ DOLLÁR) ÉRTÉKET. EGYES ÁLLAMOK NEM TESZIK LEHETŐVÉ A VÉLETLEN, KÖVETKEZMÉNYES VAGY KÜLÖNLEGES KÁROK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT ELŐFORDULHAT, HOGY A JELEN JOGI NYILATKOZAT NEM VONATKOZIK ÖNRE.
 
 
-#### 11\. A jelen Feltételek módosítása  
+#### 11\. A jelen Feltételek módosítása
 
 Időről időre frissíthetjük a jelen Feltételeket a Közlemények új funkciójának kezelése vagy egy rendelkezés tisztázása érdekében. A frissített Feltételeket online közzétesszük. Érdemi változások esetén a frissítést bejelentjük a bejelentések céljára használt szokásos csatornáinkon, például blogbejegyzésekben, reklámszalagokon, e-mailben vagy fórumokon. A Közleményeink használatának folytatása a változások hatályba lépésének dátumát követően a változások elfogadását jelenti. A kényelmesebb áttekintés érdekében a jelen oldal tetején közzétesszük a hatályba lépés dátumát.
 
-#### 12\. Vegyes rendelkezések  
+#### 12\. Vegyes rendelkezések
 
 A jelen Feltételek képezik a teljes megállapodást Közleményeinkkel kapcsolatban a Mozilla és Ön között, és ezek lépnek a Feltételek minden korábbi verziójának helyébe. A Közlemények és a jelen Feltételek vonatkozásában a jogi kollíziós rendelkezéseket kivéve az egyesült államokbeli Kalifornia törvényei az irányadók. A Közleményekből vagy a jelen Feltételekből eredő bármely kártérítési igény és vita estén kizárólag a kaliforniai Santa Clare megye bíróságainak illetékessége áll fenn, és Ön elfogadja e bíróságok illetékességét. Amennyiben a jelen Feltételek egy része érvénytelennek vagy végrehajthatatlannak bizonyul, a fennmaradó rendelkezések továbbra is érvényben és hatályban maradnak. A jelen Feltételek lefordított változata és az angol nyelvű változat közötti ellentmondás esetén az angol nyelvű változat az irányadó. A jelen Feltételek és a releváns további feltételek közötti ellentmondás esetén a további feltételek az irányadók.
 
 #### 13\. Kapcsolat
 
-Mozilla
-Címzett: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
 USA  
 Telefon: 650-903-0800  
 Fax: 650-903-0875  
-Legal-notices a mozilla.com webhelyen
-
+Legal-notices at mozilla.com

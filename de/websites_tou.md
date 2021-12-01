@@ -17,14 +17,14 @@ Manche unserer Websites verbinden Sie mit Links, Apps oder Add-ons, die von ande
 
 Manche Websites erfordern, dass Sie sich für ein Konto registrieren, um auf weitere Funktionen einer Website oder eines anderen Mozilla-Service zugreifen zu können. In diesem Fall werden Ihnen zusätzliche Bedingungen vorgelegt. Sie sind für alle Aktivitäten im Rahmen Ihres Kontos verantwortlich.
 
-Auf manchen Websites können Sie bei der Registrierung einen Benutzernamen erstellen. Ihre Verwendung eines Benutzernamens muss unseren [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) entsprechen. 
+Auf manchen Websites können Sie bei der Registrierung einen Benutzernamen erstellen. Ihre Verwendung eines Benutzernamens muss unseren [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) entsprechen.
 
 
 #### 3\. Lizenzierung von Inhalten
 
-Unsere Kommunikation kann Inhalte wie Artikel, Bilder, Fotos, Kommentare, Softwarecode, Audio- und Video-Clips sowie andere Materialien umfassen (zusammen als „Inhalte“ bezeichnet). Die Autoren der Inhalte sind Mozilla, Mitwirkende an Mozilla-Projekten sowie andere Quellen. 
+Unsere Kommunikation kann Inhalte wie Artikel, Bilder, Fotos, Kommentare, Softwarecode, Audio- und Video-Clips sowie andere Materialien umfassen (zusammen als „Inhalte“ bezeichnet). Die Autoren der Inhalte sind Mozilla, Mitwirkende an Mozilla-Projekten sowie andere Quellen.
 
-Von Mozilla verfasste Inhalte werden in der Regel für die öffentliche Weitergabe und Wiederverwendung mithilfe offener Lizenzen wie etwa Creative Commons (für aussagekräftiges Material) oder die Mozilla Public License (für Softwarecode) bereitgestellt. In den meisten Fällen bitten wir die Mitwirkenden an Mozilla-Projekten, Inhalte unter offenen Lizenzen freizugeben. 
+Von Mozilla verfasste Inhalte werden in der Regel für die öffentliche Weitergabe und Wiederverwendung mithilfe offener Lizenzen wie etwa Creative Commons (für aussagekräftiges Material) oder die Mozilla Public License (für Softwarecode) bereitgestellt. In den meisten Fällen bitten wir die Mitwirkenden an Mozilla-Projekten, Inhalte unter offenen Lizenzen freizugeben.
 
 Manche Inhalte in unserer Kommunikation stammen von Quellen, die eine weitere Verwendung ihrer Inhalte ohne vorherige Genehmigung untersagen. Wenn immer möglich, wird in der Fußzeile des Inhalts oder der Website ein Hinweis mit der jeweils geltenden Lizenz angezeigt. Sie sagen zu, sich an solche Hinweise und Erklärungen zu halten. Bitte beachten Sie insbesondere Folgendes:
 
@@ -36,7 +36,7 @@ Manche Inhalte in unserer Kommunikation stammen von Quellen, die eine weitere Ve
 #### 4\. Eingereichte Inhalte
 
 Sie können Inhalte einreichen, wenn Sie mit unserer Kommunikation interagieren. Dazu zählen u. a. Kommentare zu einem Artikel, Blogbeiträge, Codebeiträge oder Grafik- oder schriftliche Beiträge (werden jeweils als „Einreichung“ bezeichnet). Wenn Ihre Einreichung nicht im Rahmen einer separaten Vereinbarung mit Mozilla erfolgt, die in diesem Falle Vorrang hat, gilt:
-   
+
 Für Einreichungen bei Open-Source-Projekten von Mozilla:
 
 * Sie stimmen zu, Ihre Einreichung den Bedingungen der jeweiligen Lizenz oder des jeweiligen Open-Source-Projekts entsprechend, zu dem Sie beitragen, zu lizenzieren. Weitere Informationen zur jeweiligen Lizenz finden Sie im entsprechenden Quellcode- oder GitHub-Repository.
@@ -46,7 +46,7 @@ Für alle Einreichungen stimmen Sie den folgenden Punkten in Verbindung mit jede
 * Sie sagen zu, dass Ihre Einreichung diesen Bedingungen, den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla und allen sonstigen Bedingungen entsprechen wird, die für Ihre Einreichung gelten.
 * Sie erteilen uns hiermit eine nicht ausschließliche, tantiemenfreie, weltweite und unterlizenzierbare (für die Partner, mit denen wir arbeiten) Lizenz zur Nutzung Ihrer Einreichung in Verbindung mit der Kommunikation und Online- wie Offline-Förderung der Mission, Produkte und Services von Mozilla.
 * Sie bestätigen, dass Ihre Einreichungen für andere registrierte Nutzer des jeweiligen Service bzw. die Öffentlichkeit zugänglich gemacht werden können.
-* Enthält Ihre Einreichung aussagekräftiges Material oder Softwarecode, stimmen Sie zu, sie auf eine Weise zu lizenzieren, die mit der jeweiligen Website kompatibel ist, auf der die Einreichung stattfindet. 
+* Enthält Ihre Einreichung aussagekräftiges Material oder Softwarecode, stimmen Sie zu, sie auf eine Weise zu lizenzieren, die mit der jeweiligen Website kompatibel ist, auf der die Einreichung stattfindet.
 * Sie sagen zu, dass Sie die erforderlichen Rechte zur Erteilung der hier genannten Rechte innehaben und dass die im Rahmen dieser Bedingungen vorgesehene Nutzung nicht die Eigentumsrechte Dritter oder Rechte Dritter an geistigem Eigentum verletzt.
 * Sie stimmen zu, dass Mozilla sich das Recht vorbehält, nach eigenem Ermessen jede Einreichung zu prüfen, zu modifizieren oder zu entfernen, die von Mozilla als unzulässig oder als Verstoß gegen diese Bedingungen eingestuft wird.
 
@@ -60,7 +60,7 @@ Die [Datenschutzerklärung zu Mozilla-Websites, Kommunikation und Cookies](https
 
 Falls Sie unsere Newsletter abonnieren oder sich in Verbindung mit einer unserer Websites für ein Konto registrieren, erhalten Sie eventuell Transaktions-E-Mails von uns in Verbindung mit Ihrem Konto (z. B. Updates zu juristischen Fragen, Datenschutz und Sicherheit).
 
-Manche unserer Websites verwenden Online-Tools, mit denen Sie E-Mails an Andere senden können. Sie können z. B. Ihre Kontakte über Ihr Webmaker-Konto zu Veranstaltungen einladen. Sie sagen zu, die E-Mail-Adressen Anderer nicht zu missbrauchen (z. B. durch Senden von Spam). 
+Manche unserer Websites verwenden Online-Tools, mit denen Sie E-Mails an Andere senden können. Sie können z. B. Ihre Kontakte über Ihr Webmaker-Konto zu Veranstaltungen einladen. Sie sagen zu, die E-Mail-Adressen Anderer nicht zu missbrauchen (z. B. durch Senden von Spam).
 
 Andere Websites, wie MozReps und Webmaker, stellen Tools bereit, mit denen Benutzer Veranstaltungen organisieren können, an denen alle anderen Benutzer teilnehmen können. Bitte lassen Sie hinsichtlich der Teilnahme an solchen Veranstaltungen Vorsicht walten und vertrauen Sie niemandem leichtfertig.
 
@@ -90,22 +90,21 @@ DIE KOMMUNIKATION WIRD IM IST-ZUSTAND BEREITGESTELLT, EINSCHLIESSLICH EVENTUELLE
 AUSSER IM GESETZLICH ERFORDERLICHEN UMFANG SIND MOZILLA UND DIE SCHADLOS GEHALTENEN PARTEIEN NICHT HAFTBAR FÜR JEGLICHE INDIREKTEN, BESONDEREN, BEILÄUFIGEN, EXEMPLARISCHEN ODER FOLGESCHÄDEN, DIE SICH AUS ODER IN VERBINDUNG MIT DIESEN BEDINGUNGEN ODER AUS DER VERWENDUNG ODER NICHTVERWENDBARKEIT DER KOMMUNIKATION ERGEBEN, INSBESONDERE DIREKTE UND INDIREKTE SCHÄDEN DURCH SCHMÄLERUNG DES IMMATERIELLEN FIRMENWERTS, BETRIEBSUNTERBRECHUNG, ENTGANGENEN GEWINN, DATENVERLUST, COMPUTERFEHLFUNKTIONEN ODER -AUSFALL, SELBST WENN AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE, UND UNABHÄNGIG VON DER RECHTLICHEN THEORIE (VERTRAG, UNERLAUBTE HANDLUNG ODER ANDERWEITIG), AUF DIE DER ANSPRUCH BEGRÜNDET WIRD. DIE GESAMTHAFTUNG VON MOZILLA UND DEN SCHADLOS GEHALTENEN PARTEIEN IM RAHMEN DIESER VEREINBARUNG IST AUF USD 500 (FÜNFHUNDERT US-DOLLAR) BESCHRÄNKT. IN MANCHEN RECHTSGEBIETEN SIND DER AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR BEILÄUFIGE ODER BESONDERE SCHÄDEN ODER FOLGESCHÄDEN NICHT ZULÄSSIG, SODASS DIESER AUSSCHLUSS UND DIESE BESCHRÄNKUNG MÖGLICHERWEISE NICHT AUF SIE ZUTREFFEN.
 
 
-#### 11\. Änderungen dieser Bedingungen  
+#### 11\. Änderungen dieser Bedingungen
 
 Wir sind berechtigt, diese Bedingungen gelegentlich zu ändern, um neue Funktionen der Kommunikation zu berücksichtigen oder eine Regelung zu klären. Die neuen Bedingungen werden online veröffentlicht. Handelt es sich um wesentliche Änderungen, werden wir die Aktualisierungen über unsere regulären Informationskanäle wie Blogs, Banner, E-Mails oder Foren kommunizieren. Ihre weitere Nutzung unserer Kommunikation nach dem Inkrafttreten solcher Änderungen wird als Ihr Einverständnis mit dieser Änderung angesehen. Zur besseren Übersicht werden wir das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen.
 
-#### 12\. Verschiedenes  
+#### 12\. Verschiedenes
 
 Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und Mozilla hinsichtlich unserer Kommunikation dar und haben vor allen vorherigen Versionen dieser Bedingungen Vorrang. Die Kommunikation und diese Bedingungen unterliegen den Gesetzen des Bundesstaates Kalifornien, USA, ausschließlich der kollisionsrechtlichen Bestimmungen. Alleiniger Gerichtsstand für Ansprüche oder Rechtssachen, die aus der Kommunikation oder diesen Bedingungen erwachsen, ist Santa Clara County, Kalifornien, USA, und Sie stimmen der Zuständigkeit dieser Gerichte ausdrücklich zu. Sollte eine dieser Bedingungen für ungültig oder nicht durchsetzbar erklärt werden, bleiben die übrigen Bedingungen davon unberührt. Im Falle eines Konflikts zwischen der übersetzten Version dieser Bedingungen und der englischen Fassung gilt die englische Fassung. Im Falle eines Konflikts zwischen diesen Bedingungen und relevanten zusätzlichen Bedingungen gelten die zusätzlichen Bedingungen.
 
 #### 13\. Kontakt
 
-Mozilla Corporation  
+Mozilla  
 Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.  
-Mountain View, CA 94041  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
 USA  
-Tel.: +1-650-903-0800  
-Fax: +1-650-903-0875  
-Legal-Notices (bei) mozilla.com
-
+Tel.: 650-903-0800  
+Fax: 650-903-0875  
+Legal-notices (bei) mozilla.com

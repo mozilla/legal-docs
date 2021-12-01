@@ -17,14 +17,14 @@ Baadhi ya tovuti zetu zinaunganisha kwako kwa viungo, programu au viongezo ambav
 
 Baadhi ya Tovuti zinakuhitaji kujisajili kwa akaunti ili kufikia vipengele vya ziada vya Tovuti au huduma nyingine ya Mozilla. Iwapo inatekelezwa, masharti ya ziada yatawasilishwa kwako. Unawajibika kwa shughuli zote chini ya akaunti yako.
 
-Baadhi ya Tovuti zinakuruhusu kuunda jina la mtumiaji wakati wa usajili. Matumizi yako ya jina la mtumiaji lazima yazingatie [Sera yetu ya Matumizi Inayotekelezwa](https://www.mozilla.org/about/legal/acceptable-use/). 
+Baadhi ya Tovuti zinakuruhusu kuunda jina la mtumiaji wakati wa usajili. Matumizi yako ya jina la mtumiaji lazima yazingatie [Sera yetu ya Matumizi Inayotekelezwa](https://www.mozilla.org/about/legal/acceptable-use/).
 
 
 #### 3\. Utoaji leseni wa Maudhui
 
-Mawasiliano yetu yanajumuisha maudhui kama vile , makala, taswira, picha, maoni, msimbo wa programu, klipu za sauti na video na nyenzo nyingine (kwa pamoja, “Maudhui”). Maudhui yanaandikwa na Mozilla, wachangiaji wa miradi ya Mozilla, na nyanzo nyingine. 
+Mawasiliano yetu yanajumuisha maudhui kama vile , makala, taswira, picha, maoni, msimbo wa programu, klipu za sauti na video na nyenzo nyingine (kwa pamoja, “Maudhui”). Maudhui yanaandikwa na Mozilla, wachangiaji wa miradi ya Mozilla, na nyanzo nyingine.
 
-Mudhui yaliyoandikwa na Mozilla kwa kawaida yanafanywa kupatikana kwa umma kushiriki na kutumia tena kupitia leseni wazi kama vile Ubunifu wa Kawaida (kwa nyenzo za kujieleza) au Leseni ya Umma ya Mozilla (kwa msimbo wa programu). Katika hali nyingi tunawaomba wachangiaji wa Mozilla kutoa Maudhui chini ya leseni wazi. 
+Mudhui yaliyoandikwa na Mozilla kwa kawaida yanafanywa kupatikana kwa umma kushiriki na kutumia tena kupitia leseni wazi kama vile Ubunifu wa Kawaida (kwa nyenzo za kujieleza) au Leseni ya Umma ya Mozilla (kwa msimbo wa programu). Katika hali nyingi tunawaomba wachangiaji wa Mozilla kutoa Maudhui chini ya leseni wazi.
 
 Baadhi ya Maudhui kwenye Mawasiliano yetu yanapatikana kutoka kwenye vyanzo ambavyo vinapiga marufuku matumizi zaidi ya Maudhui yake bila idhini ya mapema. Inapowezekana, kijachini cha Maudhui ya Tovuti kitaonyesha ilani kwa leseni inayotekelezwa. Unakubali kutii ilani hizo. Kumbuka ubainifu ufuatao:
 
@@ -36,7 +36,7 @@ Baadhi ya Maudhui kwenye Mawasiliano yetu yanapatikana kutoka kwenye vyanzo amba
 #### 4\. Mawasilisho ya Maudhui
 
 Unaweza kuchangia Maudhui unapotumia Mawasiliano yetu, ikiwa ni pamoja na kutoa maoni kuhusu makala, kuandika blogu, kuchangia msimbo au kuchangia nyenzo za picha au za maandishi (kila mojawapo ni “Wasilisho”). Isipokuwa Wasilisho lako liwe chini ya mkataba tofauti wa Mozilla, hali ambapo mkataba huo utatumika, basi
-   
+
 Kuhusu Mawasilisho yanayotumwa kwenye miradi ya Mozilla ya programu huria:
 
 * Unakubali kuidhinisha Wasilisho lako chini ya sheria na masharti ya leseni husika ya mradi mahususi wa programu huria ambako unachangia. Kwa maelezo zaidi kuhusu leseni mahususi, tafadhali angalia misimbo husika ya programu au hifadhi husika ya GitHub.
@@ -46,7 +46,7 @@ Kwa Mawasilisho mengine yote, unakubaliana na mambo yafuatayo kulingana na kila:
 * Unawakilisha na kuthibitisha kuwa Wasilisho lako litazingatia Masharti haya, [Kanuni za Matumizi za Mozilla](https://www.mozilla.org/about/legal/acceptable-use/), na masharti yoyote ya ziada ambayo yanaweza kulinda Wasilisho lako.
 * Unatupa leseni isiyo ya kipekee, isiyo ya kifahari, ya ulimwengu, leseni ndogo (kwa hizo tunazofanya kazi nazo) ili kutumia Uwasilishaji wako kwenye muunganisho kwa Mawasiliano na utangazaji wa mtandaoni na nje ya mtandao wa lengo la Mozilla, bidhaa na huduma.
 * Unatambua kuwa Mawasilisho yako yanaweza kufikiwa na watumiaji waliojisajili wa huduma au umma unaotekelezwa.
-* Iwapo Wasilisho lako lina nyenzo wazi au msimbo wa programu, unakubali kulipa leseni kwa namna ambayo ni tangamanifu na Tovuti maalum unayofanya Uwasilishaji kwayo. 
+* Iwapo Wasilisho lako lina nyenzo wazi au msimbo wa programu, unakubali kulipa leseni kwa namna ambayo ni tangamanifu na Tovuti maalum unayofanya Uwasilishaji kwayo.
 * Unawakilisha na kuthibitisha kuwa una haki muhimu ya kutoa haki zilizotolewa hapa, na zaidi, kwa matumizi yanayokusudiwa chini ya Masharti haya yatavunja haki za mali ya kikundi na kiakili za mtu mwingine yeyote.
 * Unaelewa na kukubali kuwa Mozilla huhifadhi haki, kwa uamizi wake, kuhakiki, kurekebisha, au kuondoa Uwasilishaji wowote ambao unaaminika unazuilika au katika ukiukaji wa Masharti haya.
 
@@ -60,7 +60,7 @@ Kwa Mawasilisho mengine yote, unakubaliana na mambo yafuatayo kulingana na kila:
 
 Iwapo utajisajili ili kupokea majarida yetu au kujisajili kwa akaunti kwa uhusiano na yoyote kati ya Tovuti yetu, unaweza kupokea barua za mwamala kutoka kwetu kuhusiana na akaunti yako (kwa mfano, visasisho vya kisheria, faragha, na usalama).
 
-Baadhi ya Tovuti zetu zina zana za mtandaoni ambazo zinakuruhusu kutuma barua pepe kwa wengine. Kwa mfano, unaweza kualika waasiliani wako kwenye matukio kutumia akaunti yako ya Webmaker. Unakubali kutotumia vibaya anwani za wengine za barua pepe (kwa mfano, kwa kuzifanya barua taka). 
+Baadhi ya Tovuti zetu zina zana za mtandaoni ambazo zinakuruhusu kutuma barua pepe kwa wengine. Kwa mfano, unaweza kualika waasiliani wako kwenye matukio kutumia akaunti yako ya Webmaker. Unakubali kutotumia vibaya anwani za wengine za barua pepe (kwa mfano, kwa kuzifanya barua taka).
 
 Tovuti nyingine, kama MozReps na Webmaker, zinatoa zana ambazo zinawezesha watumiaji kupanga matukio ya kimwili kwa yeyote atayehudhuria. Tafadhali zingatia tahadhari na uamuzi mzuri wakati unapohudhuria matukio.
 
@@ -90,21 +90,21 @@ MAWASILIANO YAMETOLEWA “KAMA NI” KWA MAKOSA YOTE. KUFIKIA INAVYORUHUSIWA KIS
 ISIPOKUWA INAVYOHITAJIKA KISHERIA, MOZILLA NA MASHIRIKA NA YALIYOLIPIWA BIMA HAYATAWAJIBIKA KWA UHARIBIFU WOWOTE USIO WA MOJA KWA MOJA, MAALUM, YAMATUKIO,YA MATOKEO, AU YA MFANO UNAOTOKANA AU KUHUSIANA KWA NJIA YOYOTE INAYOHUSIANA NA MASHARTI HAYA AU MATUMIZI YA AU KUTOWEZA KUTUMIA MAWASILIANO, IKIJUMUISHA BILA VIZUIZI VYA UHARIBIFU WA MOJA KWA MOJA AU USIO WA MOJA KWA MOJA KWA HASARA ZA NIA NZURI, UKATISHAJI WA KAZI, FAIDA ZILIZOPOTEA, KUPOTEA KWA DATA, NA KUSHINDIKANA KWA KOMPYUTA AU KUHARIBIKA, HATA IWAPO ULISHAURIWA KUHUSU UWEZEKANO WA UHARIBIFU KAMA HUO NA BILA KUJALI NADHARIA (MKATABA, KOSA, AU VINGINEVYO) AMBAYO MADAI HAYO YANAPATIKANA. DHIMA YA PAMOJA YA MOZILLA NA MASHIRIKA YALIYOLIPIWA BIMA CHINI YA MAKUBALIANO HAYATAZIDI $500 (DOLA MIA TANO). BAADHI YA MAMLAKA HAYARUHUSU KUTOJUMISHWA KWA AU VIZUIZI VYA UHARIBIFU WA KIAJALI, YA MATOKEO, AU MAALUM, KWA HIVYO KUTOJUMUISHWA NA VIZUIZI HIVI HUENDA VISITEKELEZWE KWAKO.
 
 
-#### 11\. Marekebisho ya Masharti haya  
+#### 11\. Marekebisho ya Masharti haya
 
 Tunaweza kusasisha masharti haya kila mara ili kushughulikia kipengele kipya cha Mawasiliano au kufafanua utoaji. Masharti yaliyosasishwa yatachapishwa mtandaoni. Iwapo mabadiliko ni makubwa, tutatangaza kisasisho kupitia njia zetu za kawaida kwa matangazo kama hayo kama machapisho ya blogu, mabango, barua pepe, au majukwaa. Matumizi yako ya kuendelea ya Mawasiliano baada ya tarehe ya kuanza kwa mabadiliko hayo huchangia kukubali kwako kwa mabadiliko hayo. Ili kufanya uhakiki wako kuwa wa ufanisi, tutachapisha tarehe ya kuanza kufanya kazi juu ya ukurasa huu.
 
-#### 12\. Mchanganyiko  
+#### 12\. Mchanganyiko
 
 Masharti haya yanachangia mkataba wote kati yako na Mozilla kuhusiana na Mawasiliano yetu na yanachukua nafasi matoleo yoyote ya kabla ya Masharti ya haya. Mawasiliano na Masharti haya yanalindwa na sheria ya jimbo la California, Marekani, bila kujumuisha mgogoro wake wa utoaji wa sheria. Madai na mabishano yote yanayotokana na Mawasiliano au Masharti haya yataletwa kipekee kwenye mahakama ya Kaunti ya Santa Clara, California, na unatoa ridhaa ya mamlaka ya binafsi katika mahakama hayo. Iwapo sehemu yoyote ya Masharti haya inachukuliwa kuwa batili au isiyotekelezwa, sehemu zinazosalia zitabakia katika utekelezaji kamili na madhubuti. Endapo mgogoro utatokea kati ya toleo lililotafsiriwa la Masharti haya na toleo la lugha ya Kiingereza, toleo la Kiingereza litadhibiti. Endapo mgogoro utatokea kati ya Masharti haya na masharti muhimu ya ziada, masharti ya ziada yatadhibiti.
 
 #### 13\. Wasiliana Nasi
 
-Shirika la Mozilla  
-Umakinifu: Mozilla – Ilani za Kisheria  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
-Marekani  
-Simu 650-903-0800  
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Simu: 650-903-0800  
 Faksi: 650-903-0875  
-Ilani za kisheria katika mozilla.com
+Legal-notices at mozilla.com

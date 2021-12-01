@@ -58,7 +58,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
     We sturen periodiek berichten om u te helpen optimaal van uw Firefox-account te profiteren. U kunt deze in het product of via het e-mailadres voor uw Firefox-account ontvangen. Deze berichten gaan over ingebruikname, verschillende Firefox-accountservices en gerelateerd aanbiedingen en enquêtes. Als u zich wilt uitschrijven, klikt u daartoe op de koppeling onderaan onze e-mailberichten.
     
     We sturen mogelijk ook belangrijke accountinformatie, zoals updates voor juridische of privacyvoorwaarden of beveiligingsberichten, zoals voor het opnieuw instellen van wachtwoorden, e-mailverificatie en gekoppelde apparaten. Deze zijn noodzakelijk voor onze services en u kunt zich hier niet voor uitschrijven. 
-U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 of legal-notices@mozilla.com_ 
+U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 of legal-notices@mozilla.com_ 
 
 6. #### Uw inhoud in onze Services
 

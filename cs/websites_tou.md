@@ -100,11 +100,11 @@ Tyto Podmínky představují úplnou dohodu mezi vámi a společností Mozilla o
 
 #### 13\. Kontaktujte nás
 
-Mozilla
+Mozilla  
 Attn: Mozilla – Legal Notices  
-331 E. Evelyn Ave.,  
-Mountain View, CA 94041  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
 USA  
 Telefon: 650-903-0800  
 Fax: 650-903-0875  
-Právní oznámení na mozilla.com
+Legal-notices at mozilla.com

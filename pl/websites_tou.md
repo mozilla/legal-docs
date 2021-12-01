@@ -36,7 +36,7 @@ Część Zawartości w naszych Kanałach komunikacyjnych pochodzi jednak ze źr
 #### 4\. Przesyłana Zawartość
 
 Podczas interakcji z naszymi Kanałami komunikacyjnymi użytkownik może przesyłać własną Zawartość, np. komentując artykuły, blogując lub przesyłając kod, grafikę lub materiały pisemne (w każdym przypadku określane dalej jako „Przesyłany materiał”). O ile Przesyłane materiały nie podlegają odrębnej umowie z firmą Mozilla, która w takim przypadku będzie obowiązującą, to:
-   
+
 W przypadku Materiałów przesyłanych do prowadzonych przez firmę Mozilla projektów open source:
 
 * Użytkownik zgadza się udzielić licencji na Przesyłane materiały na warunkach określonych w licencji projektu open source, w którym uczestniczy. Więcej informacji na temat konkretnych licencji można znaleźć w odpowiednim kodzie źródłowym lub w repozytorium GitHub.
@@ -100,12 +100,11 @@ Niniejsze Warunki stanowią całość umowy pomiędzy użytkownikiem a firmą M
 
 #### 13\. Kontakt z nami
 
-Mozilla
-Attn: Mozilla – Legal Notices 
-331 E. Evelyn Ave., 
-Mountain View, CA 94041 
-Stany Zjednoczone 
-Telefon: 650-903-0800 
-Faks: 650-903-0875 
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Telefon: 650-903-0800  
+Faks: 650-903-0875  
 Legal-notices at mozilla.com
-
