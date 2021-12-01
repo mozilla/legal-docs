@@ -58,7 +58,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     Le enviaremos periódicamente mensajes con el fin de ayudarle a sacar el máximo partido a su Cuenta de Firefox. Estos mensajes se pueden recibir en el producto mismo o en su cuenta de Firefox, e incluirán información sobre distintos servicios de su cuenta de Firefox y las ofertas y encuestas relacionadas con la misma. Si desea deshabilitar este servicio, pulse en el enlace ubicado en la parte inferior de nuestros mensajes de correo electrónico.
     
     Asimismo le podemos enviar información importante relacionada con su cuenta como actualizaciones de términos legales y de privacidad, o mensajes de seguridad para el restablecimiento de la contraseña, verificación de correo electrónico y los dispositivos vinculados. Estos mensajes son imprescindibles para el correcto funcionamiento de nuestros servicios y no se pueden cancelar. 
-Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation a la atención de: Mozilla – Legal Notices 331 E. Evelyn Ave., Mountain View, CA 94041 o un correo electrónico a legal-notices@mozilla.com_ 
+Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 o un correo electrónico a legal-notices@mozilla.com_ 
 
 6. #### Su contenido en nuestros Servicios
 
