@@ -100,11 +100,11 @@ Masharti haya yanachangia mkataba wote kati yako na Mozilla kuhusiana na Mawasil
 
 #### 13\. Wasiliana Nasi
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-Simu: 650-903-0800
-Faksi: 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Simu: 650-903-0800  
+Faksi: 650-903-0875  
 Legal-notices at mozilla.com

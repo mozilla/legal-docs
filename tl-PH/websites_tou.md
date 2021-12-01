@@ -100,11 +100,11 @@ Binubuo ng Mga Tuntuning ito ang buong kasunduan sa pagitan ninyo at ng Mozilla 
 
 #### 13\. Makipag-ugnayan sa Amin
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-Telepono: 650-903-0800
-Fax: 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Telepono: 650-903-0800  
+Fax: 650-903-0875  
 Legal-notices at mozilla.com

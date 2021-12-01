@@ -100,11 +100,11 @@ Les présentes Conditions constituent l’ensemble de l’accord entre vous et M
 
 #### 13\. Contactez-nous
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-Téléphone : 650-903-0800
-Fax : 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Téléphone : 650-903-0800  
+Fax : 650-903-0875  
 Legal-notices at mozilla.com

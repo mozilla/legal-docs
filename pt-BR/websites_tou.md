@@ -100,11 +100,11 @@ Estes Termos constituem o acordo integral entre você e a Mozilla em relação �
 
 #### 13\. Entre em contato
 
-Mozilla
-Attn: Mozilla – Legal Notices
-2 Harrison St # 175,
-San Francisco, CA 94105
-USA
-Telefone: 650-903-0800
-Fax: 650-903-0875
+Mozilla  
+Attn: Mozilla – Legal Notices  
+2 Harrison St # 175,  
+San Francisco, CA 94105  
+USA  
+Telefone: 650-903-0800  
+Fax: 650-903-0875  
 Legal-notices at mozilla.com
