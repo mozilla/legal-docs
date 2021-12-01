@@ -1,10 +1,8 @@
 {
     "source_folders": [
-        "en-DE",
         "en"
     ],
     "translated_docs": [
-        "en-DE/klar_privacy_notice.md",
         "en/acceptable_use_policy.md",
         "en/common_voice_privacy_notice.md",
         "en/common_voice_terms.md",
