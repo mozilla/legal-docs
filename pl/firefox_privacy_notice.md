@@ -92,15 +92,15 @@ Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje 
 
 Jeśli użytkownik włączy opcję „Bardziej inteligentne podpowiedzi”, Firefox będzie udostępniać następujące informacje w celu poprawy komfortu przeglądania witryn oraz ulepszenia usług:
 
-* __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
+* __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
 
-* __Odwiedzane witryny__: W przypadku klikniętych podpowiedzi Firefox wysyła do Mozilli adres URL witryny, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Odwiedzane witryny__: W przypadku klikniętych podpowiedzi Firefox wysyła do Mozilli adres URL witryny, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
 * __Dane lokalizacji__: Firefox wysyła do Mozilli adres IP, którego używamy do proponowania istotnej zawartości na podstawie kraju, stanu i miasta użytkownika. Mozilla może udostępniać informacje o lokalizacji swoim partnerom, ale partnerzy nie otrzymają adresu IP użytkownika. 
 
-* __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
+* __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
 
-Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Więcej informacji](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Więcej informacji](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Konta Firefox
 

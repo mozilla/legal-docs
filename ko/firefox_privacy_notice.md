@@ -92,15 +92,15 @@ Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움�
 
 ‘Smarter Suggestions(더 스마트한 제안)’를 사용하도록 선택하면 Firefox가 검색 환경을 개선하고 서비스를 개선하기 위해 다음 정보를 공유합니다.
 
-* __검색__: Firefox는 사용자가 검색 창에 입력한 내용을 Mozilla에 보내고 Mozilla는 해당 데이터를 [파트너](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).와 공유할 수 있습니다. 
+* __검색__: Firefox는 사용자가 검색 창에 입력한 내용을 Mozilla에 보내고 Mozilla는 해당 데이터를 [파트너](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).와 공유할 수 있습니다. 
 
-* __사용자가 방문하는 사이트__: 사용자가 클릭하는 제안 항목의 경우 Firefox는 Mozilla에 해당 웹 사이트 URL을 보내며 Mozilla는 해당 데이터를 [파트너](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)와 공유할 수 있습니다.
+* __사용자가 방문하는 사이트__: 사용자가 클릭하는 제안 항목의 경우 Firefox는 Mozilla에 해당 웹 사이트 URL을 보내며 Mozilla는 해당 데이터를 [파트너](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)와 공유할 수 있습니다.
 
 * __위치 데이터__: Firefox는 사용자의 국가, 주 및 도시에 따라 콘텐츠를 제안하기 위해 사용하는 사용자의 IP 주소를 Mozilla에 보냅니다. Mozilla는 파트너와 위치 정보를 공유할 수 있지만 파트너가 사용자의 IP 주소를 받지는 못합니다. 
 
-* __기술 및 상호 작용 데이터__: Firefox는 Firefox 제안과 사용자의 상호 작용에 대한 기본 데이터뿐만 아니라 Firefox가 제안 및 표시하는 콘텐츠 및 해당 콘텐츠에 대한 클릭 수와 같은 Mozilla 데이터를 전송합니다. Mozilla는 확인 및 기능 개선을 위해 제안 사항을 표시하고 클릭되는 횟수에 대한 정보를 [파트너](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)와 공유합니다. 
+* __기술 및 상호 작용 데이터__: Firefox는 Firefox 제안과 사용자의 상호 작용에 대한 기본 데이터뿐만 아니라 Firefox가 제안 및 표시하는 콘텐츠 및 해당 콘텐츠에 대한 클릭 수와 같은 Mozilla 데이터를 전송합니다. Mozilla는 확인 및 기능 개선을 위해 제안 사항을 표시하고 클릭되는 횟수에 대한 정보를 [파트너](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)와 공유합니다. 
 
-당사와 파트너가 사용자를 식별할 수 있는 능력을 제한하기 위한 조치를 취하고 있습니다. [더 알아보기](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+당사와 파트너가 사용자를 식별할 수 있는 능력을 제한하기 위한 조치를 취하고 있습니다. [더 알아보기](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox 계정
 

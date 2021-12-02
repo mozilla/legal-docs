@@ -92,15 +92,15 @@ Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao th�
 
 Nếu chọn bật "Đề nghị Thông minh hơn", Firefox sẽ chia sẻ thông tin dưới đây để cải thiện trải nghiệm trình duyệt của bạn cũng như cải thiện dịch vụ:
 
-* __Các tìm kiếm__: Firefox sẽ gửi cho Mozilla những gì bạn nhập vào thanh tìm kiếm và Mozilla có thể chia sẻ dữ liệu này với [đối tác của mình](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Các tìm kiếm__: Firefox sẽ gửi cho Mozilla những gì bạn nhập vào thanh tìm kiếm và Mozilla có thể chia sẻ dữ liệu này với [đối tác của mình](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
-* __Các trang bạn truy cập__: Đối với các Đề nghị bạn nhấp vào, Firefox sẽ gửi cho Mozilla URL của website, và Mozilla có thể chia sẻ dữ liệu này với [các đối tác](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Các trang bạn truy cập__: Đối với các Đề nghị bạn nhấp vào, Firefox sẽ gửi cho Mozilla URL của website, và Mozilla có thể chia sẻ dữ liệu này với [các đối tác](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
 * __Dữ liệu về địa điểm__: Firefox sẽ gửi địa chỉ IP của bạn cho Mozilla mà chúng tôi dùng để đề xuất nội dung dựa trên quốc gia, bang và thành phố của bạn. Mozilla có thể chia sẻ thông tin địa điểm với các đối tác, nhưng đối tác sẽ không nhận được địa chỉ IP của bạn. 
 
-* __Dữ liệu kỹ thuật & tương tác__: Firefox sẽ gửi cho Mozilla dữ liệu như số lần Firefox để xuất hay hiển thị nội dung và lượt nhấp của bạn vào nội dung đó, cũng như thông tin cơ bản về tương tác của bạn với Firefox Suggest. Mozilla sẽ chia sẽ thông tin với [các đối tác](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) của chúng tôi về số lần hiển thị đề xuất và lượt nhấp xác minh và cải thiện tính năng. 
+* __Dữ liệu kỹ thuật & tương tác__: Firefox sẽ gửi cho Mozilla dữ liệu như số lần Firefox để xuất hay hiển thị nội dung và lượt nhấp của bạn vào nội dung đó, cũng như thông tin cơ bản về tương tác của bạn với Firefox Suggest. Mozilla sẽ chia sẽ thông tin với [các đối tác](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) của chúng tôi về số lần hiển thị đề xuất và lượt nhấp xác minh và cải thiện tính năng. 
 
-Chúng tôi thực hiện các biện pháp để hạn chế khả năng chúng tôi và các đối tác có thể nhận dạng được bạn. [Tìm hiểu thêm tại](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Chúng tôi thực hiện các biện pháp để hạn chế khả năng chúng tôi và các đối tác có thể nhận dạng được bạn. [Tìm hiểu thêm tại](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Các tài khoản Firefox
 

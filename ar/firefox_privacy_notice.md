@@ -92,15 +92,15 @@
 
 إذا اخترت تمكين "اقتراحات أذكي"، فسيشارك Firefox المعلومات الآتية لتحسين تجربة الاستعراض ولتحسين الخدمة:
 
-* __عمليات البحث__: يرسل Firefox إلى Mozilla ما تكتبه في شريط البحث وقد تشارك Mozilla تلك البيانات مع [الشركاء](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). لديها 
+* __عمليات البحث__: يرسل Firefox إلى Mozilla ما تكتبه في شريط البحث وقد تشارك Mozilla تلك البيانات مع [الشركاء](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). لديها 
 
-* __المواقع التي تزورها__: للاقتراحات التي تنقر عليها، يرسل Firefox إلى Mozilla عنوان URL موقع الويب، وقد تشارك Mozilla تلك البيانات مع [الشركاء](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) لدينا.
+* __المواقع التي تزورها__: للاقتراحات التي تنقر عليها، يرسل Firefox إلى Mozilla عنوان URL موقع الويب، وقد تشارك Mozilla تلك البيانات مع [الشركاء](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) لدينا.
 
 * __بيانات الموقع__: يرسل Firefox إلى Mozilla عنوان IP الخاص بك الذي نستخدمه لاقتراح محتوى استنادا إلى بلدك وولايتك/منطقتك ومدينتك. وقد تشارك Mozilla معلومات الموقع مع شركائنا، لكن الشركاء لن يتلقوا عنوان IP الخاص بك. 
 
-* __البيانات التقنية وبيانات التفاعل__: يرسل Firefox إلى Mozilla بيانات مثل عدد المرات التي يقترح فيها Firefox أو يعرض محتوى وأنت تنقر على هذا المحتوى، وأيضا بيانات أساسية مثل تفاعلاتك مع Firefox Suggest (اقتراح Firefox). وتشارك Mozilla المعلومات مع [الشركاء](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) لدينا عن عدد مرات إظهار الاقتراحات ونقرها من أجل التحقق من الميزة وتحسينها. 
+* __البيانات التقنية وبيانات التفاعل__: يرسل Firefox إلى Mozilla بيانات مثل عدد المرات التي يقترح فيها Firefox أو يعرض محتوى وأنت تنقر على هذا المحتوى، وأيضا بيانات أساسية مثل تفاعلاتك مع Firefox Suggest (اقتراح Firefox). وتشارك Mozilla المعلومات مع [الشركاء](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) لدينا عن عدد مرات إظهار الاقتراحات ونقرها من أجل التحقق من الميزة وتحسينها. 
 
-ونتخذ تدابير للحد من قدرتنا وقدرة شركائنا على التعرف عليك. [اعرف المزيد](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+ونتخذ تدابير للحد من قدرتنا وقدرة شركائنا على التعرف عليك. [اعرف المزيد](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### حسابات Firefox
 

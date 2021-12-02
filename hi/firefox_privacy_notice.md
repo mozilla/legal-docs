@@ -92,15 +92,15 @@ Mozilla एक नया फीचर विकसित कर रहा है
 
 अगर आप "Smarter Suggestions” को सक्षम करते हैं, तो Firefox, आपके ब्राउज़िंग अनुभव को और सेवा को बेहतर बनाने के लिए नीचे दी गई जानकारी साझा करता है:
 
-* __खोज__: Firefox, Mozilla को भेजता है जो आप खोज बार में टाइप करते हैं और Mozilla उस डेटा को अपने [पार्टनर्स](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). के साथ साझा कर सकता है। 
+* __खोज__: Firefox, Mozilla को भेजता है जो आप खोज बार में टाइप करते हैं और Mozilla उस डेटा को अपने [पार्टनर्स](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). के साथ साझा कर सकता है। 
 
-* __जिन साइटों पर आप जाते हैं__: आपके द्वारा क्लिक किए जाने वाले सुझावों के लिए, Firefox, Mozilla को वेबसाइट URL भेजता है, और Mozilla उस डेटा को अपने [पार्टनर्स](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) के साथ साझा कर सकता है।
+* __जिन साइटों पर आप जाते हैं__: आपके द्वारा क्लिक किए जाने वाले सुझावों के लिए, Firefox, Mozilla को वेबसाइट URL भेजता है, और Mozilla उस डेटा को अपने [पार्टनर्स](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) के साथ साझा कर सकता है।
 
 * __स्थान का डेटा__: Firefox Mozilla को आपका IP पता भेजता है जिसका उपयोग हम आपके देश, राज्य और शहर के आधार पर कॉन्टेंट का सुझाव देने के लिए करते हैं। Mozilla आपके स्थान की जानकारी हमारे पार्टनर्स के साथ साझा कर सकता है, लेकिन भागीदारों को आपका IP पता प्राप्त नहीं होगा। 
 
-* __तकनीकी और सहभागिता डेटा__: Firefox Mozilla को डेटा भेजता है जैसे कि Firefox कितनी बार कॉन्टेंट का सुझाव देता है या प्रदर्शित करता है और उस कॉन्टेंट पर आपके क्लिक, साथ ही साथ Firefox सुझाव के साथ आपकी सहभागिता के बारे में बुनियादी डेटा। Mozilla हमारे [भागीदारों](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) के साथ इस बारे में जानकारी साझा करता है कि कितनी बार सुझाव दिखाए गए और प्रमाणन और फीचर में सुधार के लिए क्लिक किया गया। 
+* __तकनीकी और सहभागिता डेटा__: Firefox Mozilla को डेटा भेजता है जैसे कि Firefox कितनी बार कॉन्टेंट का सुझाव देता है या प्रदर्शित करता है और उस कॉन्टेंट पर आपके क्लिक, साथ ही साथ Firefox सुझाव के साथ आपकी सहभागिता के बारे में बुनियादी डेटा। Mozilla हमारे [भागीदारों](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) के साथ इस बारे में जानकारी साझा करता है कि कितनी बार सुझाव दिखाए गए और प्रमाणन और फीचर में सुधार के लिए क्लिक किया गया। 
 
-हम आपको पहचानने की अपनी और अपने पार्टनर्स की क्षमता को सीमित करने के लिए उपाय करते हैं। [अधिक जानें](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)।
+हम आपको पहचानने की अपनी और अपने पार्टनर्स की क्षमता को सीमित करने के लिए उपाय करते हैं। [अधिक जानें](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)।
 
 ### Firefox एकाउंट्स
 
