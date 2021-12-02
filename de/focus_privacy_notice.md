@@ -1,6 +1,6 @@
 ﻿# Datenschutzerklärung zu Firefox Focus und Klar
 
-14. Oktober 2021
+14\. Oktober 2021
 {: datetime="2021-10-14" }
 
 Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht. In der vorliegenden Datenschutzerklärung wird erläutert, welche Daten wir aus welchen Gründen in Focus und Klar erfassen und welche Möglichkeiten Sie haben. Die Aussagen zu Firefox Focus gelten gleichermaßen für Focus und Klar, sofern nicht anders angegeben. Wir befolgen ferner die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen, die wir in Firefox Focus erheben, 
