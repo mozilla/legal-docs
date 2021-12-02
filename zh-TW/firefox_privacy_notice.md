@@ -92,15 +92,15 @@ Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優
 
 如果您選擇啟用「智慧建議」，則 Firefox 會分享以下資訊，以便改善瀏覽體驗及服務品質：
 
-* __搜尋__：Firefox 會向 Mozilla 傳送您在搜尋列中輸入的內容，Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __搜尋__：Firefox 會向 Mozilla 傳送您在搜尋列中輸入的內容，Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
-* __您瀏覽的網站__：您按下推薦項目後，Firefox 會將該網站的網址傳送給 Mozilla，而 Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)。
+* __您瀏覽的網站__：您按下推薦項目後，Firefox 會將該網站的網址傳送給 Mozilla，而 Mozilla 也可能把這項資料分享給[合作夥伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)。
 
 * __地點資料__：Firefox 會向 Mozilla 傳送您的 IP 位址，以便用來根據您的國家/地區、州別、城市推薦內容給您。Mozilla 可能會和我們的夥伴分享地點資訊，但是夥伴不會收到您的 IP 位址。
 
-* __技術與互動資料__：Firefox 會向 Mozilla 傳送的資料內容如 Firefox 建議或顯示內容的次數、您點閱此類內容的次數，以及您和 Firefox Suggest 互動情形的基本資料等。Mozilla 會和我們的[夥伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)分享建議顯示次數、點閱次數等一遜，以便增進驗證及功能品質。
+* __技術與互動資料__：Firefox 會向 Mozilla 傳送的資料內容如 Firefox 建議或顯示內容的次數、您點閱此類內容的次數，以及您和 Firefox Suggest 互動情形的基本資料等。Mozilla 會和我們的[夥伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)分享建議顯示次數、點閱次數等一遜，以便增進驗證及功能品質。
 
-我們會採取相關措施，以便限制我們和夥伴辨識您身分的能力。[了解更多資訊](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
+我們會採取相關措施，以便限制我們和夥伴辨識您身分的能力。[了解更多資訊](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox 帳戶
 

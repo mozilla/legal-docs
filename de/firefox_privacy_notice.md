@@ -92,15 +92,15 @@ Mozilla entwickelt gegenwärtig eine neue Funktion, mit der Sie mit weniger Aufw
 
 Wenn Sie die Funktion „Intelligente Vorschläge“ aktivieren, gibt Firefox die nachstehend aufgeführten Informationen weiter, um Ihr Surferlebnis zu verbessern und den Dienst zu optimieren:
 
-* __Suchen__: Firefox sendet Mozilla Ihre Eingaben in die Suchleiste. Mozilla ist berechtigt, diese Daten mit seinen [Partnern](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). zu teilen. 
+* __Suchen__: Firefox sendet Mozilla Ihre Eingaben in die Suchleiste. Mozilla ist berechtigt, diese Daten mit seinen [Partnern](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). zu teilen. 
 
-* __Websites, die Sie besuchen__: Wenn Sie auf eine Empfehlung klicken, sendet Firefox die URL der betreffenden Website an Mozilla. Mozilla ist berechtigt, diese Daten mit seinen [Partnern](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) zu teilen.
+* __Websites, die Sie besuchen__: Wenn Sie auf eine Empfehlung klicken, sendet Firefox die URL der betreffenden Website an Mozilla. Mozilla ist berechtigt, diese Daten mit seinen [Partnern](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) zu teilen.
 
 * __Standortdaten__: Firefox sendet Mozilla Ihre IP-Adresse. Diese verwenden wir, um Inhalte basierend auf Ihrem Land, Ihrem Bundesland/Kanton und Ihrer Stadt vorzuschlagen. Mozilla ist berechtigt, Standortinformationen – nicht jedoch Ihre IP-Adresse – mit unseren Partnern zu teilen. 
 
-* __Technische und Interaktionsdaten__: Firefox sendet Mozilla Daten, wie z. B. die Häufigkeit, mit der Firefox Inhalte vorschlägt oder anzeigt und Sie auf diese Inhalte klicken, sowie grundlegende Daten zu Ihren Interaktionen mit Firefox Suggest. Mozilla teilt zum Zweck des Nachweises und der Funktionsverbesserung mit unseren [Partnern ](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) Informationen darüber, wie oft Empfehlungen angezeigt werden und wie häufig darauf geklickt wird. 
+* __Technische und Interaktionsdaten__: Firefox sendet Mozilla Daten, wie z. B. die Häufigkeit, mit der Firefox Inhalte vorschlägt oder anzeigt und Sie auf diese Inhalte klicken, sowie grundlegende Daten zu Ihren Interaktionen mit Firefox Suggest. Mozilla teilt zum Zweck des Nachweises und der Funktionsverbesserung mit unseren [Partnern ](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) Informationen darüber, wie oft Empfehlungen angezeigt werden und wie häufig darauf geklickt wird. 
 
-Zur Beschränkung unserer Möglichkeiten wie auch der unserer Partner, Ihre Identität zu ermitteln, haben wir bestimmte Maßnahmen ergriffen. [Weitere Informationen](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Zur Beschränkung unserer Möglichkeiten wie auch der unserer Partner, Ihre Identität zu ermitteln, haben wir bestimmte Maßnahmen ergriffen. [Weitere Informationen](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox-Konten
 

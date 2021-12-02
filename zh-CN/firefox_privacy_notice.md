@@ -92,15 +92,15 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 如果您选择启用“智能建议”，Firefox 将共享以下信息，以改善您的浏览体验并提升服务质量：
 
-* __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
+* __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
 
-* __您访问的站点__：当您点击建议时，Firefox 会向 Mozilla 发送网站 URL，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享该数据。
+* __您访问的站点__：当您点击建议时，Firefox 会向 Mozilla 发送网站 URL，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享该数据。
 
 * __位置数据__：Firefox 会向 Mozilla 发送您的 IP 地址，我们会根据您所在的国家/地区、州和城市推荐内容。Mozilla 可能会与我们的合作伙伴共享位置信息，但合作伙伴不会收到您的 IP 地址。
 
-* __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
+* __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
 
-我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
+我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox 帐户
 

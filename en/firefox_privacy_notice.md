@@ -92,15 +92,15 @@ Mozilla is developing a new feature that helps deliver you better information wi
 
 If you choose to enable "Smarter Suggestions," Firefox shares the following information to improve your browsing experience and to improve the service:
 
-* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
-* __Sites you visit__: For the Suggestions you click, Firefox sends Mozilla the website URL, and Mozilla may share that data with its [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Sites you visit__: For the Suggestions you click, Firefox sends Mozilla the website URL, and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
 * __Location data__: Firefox sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. 
 
-* __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
+* __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
 
-We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox Accounts
 

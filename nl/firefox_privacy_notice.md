@@ -92,15 +92,15 @@ Mozilla ontwikkelt een nieuwe functie waarmee u sneller betere informatie kunt v
 
 Als u ervoor kiest om "Slimmere suggesties" in te schakelen, deelt Firefox de volgende informatie om uw browse-ervaring en de service te verbeteren:
 
-* __Zoekopdrachten__: Firefox stuurt Mozilla wat u invoert in de zoekbalk en Mozilla en kan deze gegevens delen met zijn [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Zoekopdrachten__: Firefox stuurt Mozilla wat u invoert in de zoekbalk en Mozilla en kan deze gegevens delen met zijn [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
-* __Sites die u bezoekt__: Bij de suggesties waarop u klikt, stuurt Firefox de URL van de website naar Mozilla. Mozilla kan deze informatie delen met zijn [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Sites die u bezoekt__: Bij de suggesties waarop u klikt, stuurt Firefox de URL van de website naar Mozilla. Mozilla kan deze informatie delen met zijn [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
 * __Locatiegegevens__: Firefox stuurt Mozilla uw IP-adres. We gebruiken dit om inhoud aan te bevelen op basis van uw land, staat en woonplaats. Mozilla kan locatiegegevens delen met onze partners. Deze partners ontvangen uw IP-adres echter niet. 
 
-* __Technische en interactiegegevens__: Firefox stuurt gegevens naar Mozilla, zoals het aantal keer dat Firefox inhoud voorstelt en u hierop klikt, evenals basisgegevens over hoe u Firefox Suggest gebruikt. Mozilla deelt informatie met onze [partners](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) over hoe vaak suggesties worden weergegeven en aangeklikt ter verificatie en om de functie te verbeteren. 
+* __Technische en interactiegegevens__: Firefox stuurt gegevens naar Mozilla, zoals het aantal keer dat Firefox inhoud voorstelt en u hierop klikt, evenals basisgegevens over hoe u Firefox Suggest gebruikt. Mozilla deelt informatie met onze [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) over hoe vaak suggesties worden weergegeven en aangeklikt ter verificatie en om de functie te verbeteren. 
 
-We hebben maatregelen getroffen om ons vermogen en dat van onze partners te beperken om u te identificeren. [Meer informatie](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+We hebben maatregelen getroffen om ons vermogen en dat van onze partners te beperken om u te identificeren. [Meer informatie](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox-accounts
 

@@ -92,15 +92,15 @@ Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanp
 
 Jika Anda memilih untuk mengaktifkan "Saran yang Lebih Cerdas", Firefox akan membagikan informasi berikut untuk meningkatkan pengalaman penjelajahan Anda dan untuk meningkatkan layanan:
 
-* __Pencarian__: Firefox mengirimkan ketikan Anda di bilah pencarian kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Pencarian__: Firefox mengirimkan ketikan Anda di bilah pencarian kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
-* __Situs yang Anda kunjungi__: Untuk Suggestions yang diklik, Firefox mengirimkan URL situs web kepada Mozilla, dan Mozilla dapat membagikan data tersebut dengan [mitranya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Situs yang Anda kunjungi__: Untuk Suggestions yang diklik, Firefox mengirimkan URL situs web kepada Mozilla, dan Mozilla dapat membagikan data tersebut dengan [mitranya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
 * __Data lokasi__: Firefox mengirimkan alamat IP Anda kepada Mozilla yang kami gunakan untuk memberikan saran konten berdasarkan negara, negara bagian dan kota Anda. Mozilla dapat membagikan informasi lokasi kepada mitra kami, tetapi mitra tidak akan menerima alamat IP Anda. 
 
-* __Data teknis & interaksi__: Firefox mengirimkan data seperti frekuensi konten yang disarankan atau ditampilkan dan klik Anda pada konten tersebut kepada Mozilla, serta data dasar terkait interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi kepada [mitra](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) kami terkait frekuensi tampilan dan klik pada saran untuk verifikasi dan peningkatan fitur. 
+* __Data teknis & interaksi__: Firefox mengirimkan data seperti frekuensi konten yang disarankan atau ditampilkan dan klik Anda pada konten tersebut kepada Mozilla, serta data dasar terkait interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi kepada [mitra](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) kami terkait frekuensi tampilan dan klik pada saran untuk verifikasi dan peningkatan fitur. 
 
-Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [Pelajari selengkapnya](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Akun Firefox
 

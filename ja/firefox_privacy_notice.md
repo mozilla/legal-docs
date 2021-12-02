@@ -92,15 +92,15 @@ Mozilla では、より少ない労力でより質の高い情報を皆様にお
 
 「Smarter Suggestions」を有効にすると、Firefox はあなたのブラウジング体験とサービスを改善するため、以下の情報を共有します。
 
-* __検索__:Firefox はあなたが検索バーに入力した内容を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). と共有することがあります。
+* __検索__:Firefox はあなたが検索バーに入力した内容を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). と共有することがあります。
 
-* __あなたが訪問するサイト__:あなたがクリックした提案について、Firefox はそのウェブサイト URL を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有することがあります。
+* __あなたが訪問するサイト__:あなたがクリックした提案について、Firefox はそのウェブサイト URL を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有することがあります。
 
 * __位置情報__:Firefox はあなたの国、州、都市に基づいてコンテンツを提案するため、あなたの IP アドレスを Mozilla に送信します。Mozilla は位置情報を Mozilla のパートナーと共有する場合がありますが、パートナーがあなたの IP アドレスを受信することはありません。
 
-* __技術およびインタラクションデータ__:Firefox は、Firefox によるコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数とクリックされた回数について Mozilla の [パートナー](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有します。
+* __技術およびインタラクションデータ__:Firefox は、Firefox によるコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数とクリックされた回数について Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有します。
 
-Mozilla では Mozilla および Mozilla のパートナーがあなたを特定する機能を制限するよう対策を講じています。[詳細はこちら](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
+Mozilla では Mozilla および Mozilla のパートナーがあなたを特定する機能を制限するよう対策を講じています。[詳細はこちら](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox アカウント
 
