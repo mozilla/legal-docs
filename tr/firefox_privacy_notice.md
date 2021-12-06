@@ -92,15 +92,15 @@ Mozilla, size daha az çabayla daha iyi bilgiler sunmamızı sağlayan yeni bir 
 
 "Daha Akıllı Öneriler"i etkinleştirmeyi seçerseniz, Firefox, göz atma deneyiminizi iyileştirmek ve hizmeti iyileştirmek için aşağıdaki bilgileri paylaşır:
 
-* __Aramalar__: Firefox arama çubuğuna yazdıklarınızı Mozilla’ya gönderir. Mozilla bu verileri [iş ortaklarıyla](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). paylaşabilir. 
+* __Aramalar__: Firefox arama çubuğuna yazdıklarınızı Mozilla’ya gönderir. Mozilla bu verileri [iş ortaklarıyla](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). paylaşabilir. 
 
-* __Ziyaret ettiğiniz siteler__: Tıkladığınız Öneriler için, Firefox Mozilla’ya web sitesi URL’sini gönderir. Mozilla bu verileri [iş ortaklarıyla](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) paylaşabilir.
+* __Ziyaret ettiğiniz siteler__: Tıkladığınız Öneriler için, Firefox Mozilla’ya web sitesi URL’sini gönderir. Mozilla bu verileri [iş ortaklarıyla](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) paylaşabilir.
 
 * __Konum verileri__: Firefox ülke, eyalet ve şehir bilgilerine göre içerik önermek için kullandığımız IP adresinizi Mozilla’ya gönderir. Mozilla konum bilgilerini iş ortaklarımızla paylaşabilir. Ancak iş ortakları IP adresinizi almayacaktır. 
 
-* __Teknik veriler ve etkileşim verileri__: Firefox, Firefox’un içerik önerme veya gösterme sayısı ya da sizin bu tür içeriklere tıklama sayınız gibi verileri ve Firefox Suggest ile etkileşimlerinize ilişkin temel verileri Mozilla’ya gönderir. Mozilla, doğrulama ve özellikleri iyileştirme amacıyla, önerilerin kaç kez gösterildiğine ve tıklandığına ilişkin bilgileri [iş ortaklarımızla](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) paylaşır. 
+* __Teknik veriler ve etkileşim verileri__: Firefox, Firefox’un içerik önerme veya gösterme sayısı ya da sizin bu tür içeriklere tıklama sayınız gibi verileri ve Firefox Suggest ile etkileşimlerinize ilişkin temel verileri Mozilla’ya gönderir. Mozilla, doğrulama ve özellikleri iyileştirme amacıyla, önerilerin kaç kez gösterildiğine ve tıklandığına ilişkin bilgileri [iş ortaklarımızla](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) paylaşır. 
 
-Hem iş ortaklarımızın hem de bizim kimliğinizi belirleme olanağımızı sınırlandırmak üzere önlemler alırız. [Daha fazla bilgi alın](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc).
+Hem iş ortaklarımızın hem de bizim kimliğinizi belirleme olanağımızı sınırlandırmak üzere önlemler alırız. [Daha fazla bilgi alın](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
 ### Firefox Hesapları
 

@@ -61,7 +61,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
 **证书颁发机构的网页和技术数据**：当您访问安全网站（通常以“HTTPS”开头的 URL 进行标识）时，Firefox 会验证该网站的[证书](https://support.mozilla.org/kb/secure-website-certificate)。该过程可能涉及 Firefox 向该网站所标识的证书颁发机构发送有关该网站的特定信息。选择退出会增加您的隐私信息被拦截的风险。[了解更多信息](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
-### 奔溃报告 {: #crash-reporter }
+### 崩溃报告 {: #crash-reporter }
 默认情况下，在桌面版 Firefox 上，我们将要求您与 Mozilla 共享报告并提供更详细的崩溃信息，但您随时可以选择拒绝。
 
 * __敏感数据__：崩溃报告包括 Firefox 发生崩溃时内存内容的“转储文件”，其中可能包含可识别您身份或在其他方面较为敏感的数据。
@@ -92,15 +92,15 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 如果您选择启用“智能建议”，Firefox 将共享以下信息，以改善您的浏览体验并提升服务质量：
 
-* __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
+* __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
 
-* __您访问的站点__：当您点击建议时，Firefox 会向 Mozilla 发送网站 URL，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享该数据。
+* __您访问的站点__：当您点击建议时，Firefox 会向 Mozilla 发送网站 URL，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享该数据。
 
 * __位置数据__：Firefox 会向 Mozilla 发送您的 IP 地址，我们会根据您所在的国家/地区、州和城市推荐内容。Mozilla 可能会与我们的合作伙伴共享位置信息，但合作伙伴不会收到您的 IP 地址。
 
-* __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
+* __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
 
-我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduc)。
+我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
 
 ### Firefox 帐户
 
