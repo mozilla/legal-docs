@@ -1,7 +1,7 @@
 # Mozilla VPN Terms of Service
 
-Version 3.2, effective August 11, 2021
-{: datetime="2021-08-11" }
+Version 3.3, effective December 23, 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (“Service”) is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
