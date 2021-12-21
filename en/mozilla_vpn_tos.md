@@ -1,7 +1,7 @@
 # Mozilla VPN Terms of Service
 
-Version 3.2, effective August 11, 2021
-{: datetime="2021-08-11" }
+Version 3.3, effective December 23, 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (“Service”) is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
@@ -41,7 +41,7 @@ __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant y
 
 __Payment.__ We offer Mozilla VPN as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
-__30-Day Refund Policy.__ The first time you subscribe to Mozilla VPN through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
+__30-Day Refund Policy.__ The first time you subscribe to Mozilla VPN through Mozilla's website, if you cancel your account and request a refund within the first 30 days, Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
 __Purchasing through Apple or Google App Stores.__ If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
