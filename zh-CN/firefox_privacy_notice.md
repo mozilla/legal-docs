@@ -11,7 +11,7 @@
 
 ## 默认情况下，Firefox 出于以下目的共享数据：
 
-### 为世界各地的用户提高性能和稳定性{: #health-report }
+### 为世界各地的用户提高性能和稳定性 {: #health-report }
 
 * __交互数据__：Firefox 会向我们发送有关您与 Firefox 交互的数据（例如，打开的标签页和窗口数量；访问的网页数量；安装的 Firefox 附加组件数量和类型；会话长度），以及 Mozilla 或合作伙伴提供的 Firefox 功能（例如，Firefox 搜索功能和搜索合作伙伴推荐的交互情况）。
 
@@ -44,7 +44,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
 * __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
 
-### 为各地用户提高安全性{: #security }
+### 为各地用户提高安全性 {: #security }
 
 **针对 DNS 解析器服务的网页数据**：对于美国的部分 Firefox 用户，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[了解更多信息](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看以下我们默认的 DNS 解析器服务提供商：
 
