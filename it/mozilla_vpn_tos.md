@@ -1,7 +1,7 @@
 ﻿# Termini di servizio di Mozilla VPN
 
-Versione 3.2, in vigore dal mercoledì 11 agosto 2021
-{: datetime="2021-08-11" }
+Versione 3.3, in vigore dal 23 dicembre 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (il "Servizio") è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo del Servizio.
 
@@ -41,7 +41,7 @@ __Proprietà intellettuale di Mozilla.__ Né Mozilla né i suoi licenziatari ti 
 
 __Pagamento.__ Offriamo Mozilla VPN come servizio con abbonamento a rinnovo automatico. Registrandoti, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo di Servizio sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
 
-__Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi a Mozilla VPN tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a favore dei consumatori nel tuo Paese.
+__Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi a Mozilla VPN tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni e richiedere un rimborso, Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a favore dei consumatori nel tuo Paese.
 
 __Acquisto tramite App Store Apple o Google.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
 

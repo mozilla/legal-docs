@@ -1,7 +1,7 @@
 ﻿# Mozilla VPN - Conditions d’utilisation
 
-Version 3.2 - Date d’effet : mercredi 11 août 2021
-{: datetime="2021-04-28" }
+Version 3.3 - Date d’effet : jeudi 23 décembre 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (« Service ») est un réseau virtuel privé fourni en partenariat avec [Mullvad](https://mullvad.net). Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation du Service.
 
@@ -41,7 +41,7 @@ __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence
 
 __Paiement.__ Nous proposons Mozilla VPN en tant que service d’abonnement à renouvellement automatique. Lors de votre inscription, vous nous autorisez à débiter le mode de paiement que vous avez fourni des frais d’abonnement pour la première période d’utilisation du Service. Votre abonnement est renouvelé automatiquement à la fin de chaque période, et vous nous autorisez à vous facturer les frais d’abonnement à chaque début de période. Si vous cessez les paiements, nous suspendrons immédiatement votre compte et pourrons le supprimer après 2 mois sans paiement.
 
-__Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à Mozilla VPN via le site Web de Mozilla, si vous annulez votre compte dans les 30 premiers jours, vous pouvez demander un remboursement ; Mozilla vous remboursera le premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
+__Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à Mozilla VPN via le site Web de Mozilla, si vous annulez votre compte et demandez un remboursement dans les 30 premiers jours, Mozilla vous remboursera le premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
 
 __Achat réalisable sur Apple Store ou Google Play.__ Si vous avez acheté votre abonnement à partir d’une application dans un Apple Store, votre paiement doit respecter les conditions d’utilisation de l’Apple Store. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
 
