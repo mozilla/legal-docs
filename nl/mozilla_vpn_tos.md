@@ -1,7 +1,7 @@
 ﻿# Voorwaarden van de Mozilla VPN Terms
 
-Versie 3.2, van kracht vanaf woensdag 11 augustus 2021
-{: datetime="2021-08-11" }
+Versie 3.3, van kracht vanaf donderdag 23 december 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (de Service) is een Virtual Private Network dat wordt verzorgd in samenwerking met [Mullvad](https://mullvad.net). Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Service.
 
@@ -41,7 +41,7 @@ __Intellectuele eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla
 
 __Betaling.__ We bieden Mozilla VPN als een abonnementsservice die automatisch wordt verlengd. Wanneer u zich registreert, machtigt u ons om abonnementskosten in rekening te brengen via de betalingsmethode die u hebt gebruikt voor de eerste termijn van de Service. Uw abonnement wordt aan het einde van elke termijn automatisch verlengt en u machtig ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van twee onbetaalde maanden verwijderen.
 
-__Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op Mozilla VPN abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen annuleert. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
+__Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op Mozilla VPN abonneert, kunt u restitutie aanvragen als u uw account binnen en terugbetaling aanvraagt de eerste 30 dagen annuleert. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
 
 __Aankopen via Apple of Google App winkels.__ Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store of de Google Play Store, is uw betaling onderworpen aan de voorwaarden van de App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple of Google richten.
 

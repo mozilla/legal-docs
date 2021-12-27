@@ -1,7 +1,7 @@
-# Mozilla VPN Servicebedingungen
+﻿# Mozilla VPN Servicebedingungen
 
-Version 3.2 – Aktualisiert am Mittwoch, 11. August 2021
-{: datetime="2021-08-11" }
+Version 3.3 – Aktualisiert am Donnerstag, 23. Dezember 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN („Dienst“) ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
 
@@ -41,7 +41,7 @@ __Geistiges Eigentum von Mozilla.__ Weder Mozilla noch seine Lizenzgeber erteile
 
 __Zahlung.__ Wie bieten Mozilla VPN als Abonnementdienst mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit des Dienstes der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
 
-__30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Mozilla VPN zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
+__30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Mozilla VPN zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen und eine Rückerstattung beantragen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
 __Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
 

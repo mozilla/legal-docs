@@ -1,7 +1,7 @@
 ﻿# Terma Perkhidmatan Mozilla VPN
 
-Versi 3.2, berkuat kuasa pada 11 Ogos 2021
-{: datetime="2021-04-28" }
+Versi 3.3, berkuat kuasa pada 23 Disember 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN (“Perkhidmatan”) adalah Rangkaian Peribadi Maya yang bekerjasama dengan [Mullvad](https://mullvad.net). Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
@@ -41,7 +41,7 @@ __Harta Intelek Mozilla.__ Mozilla atau pembekal lesennya tidak memberi anda seb
 
 __Pembayaran.__ Mozilla VPN ditawarkan oleh pihak kami sebagai perkhidmatan langganan yang diperbaharui secara automatik. Ketika mendaftar, anda telah memberi kebenaran untuk pihak kami mengenakan yuran langganan bagi penggal pertama Perkhidmatan pada kaedah pembayaran yang telah anda pilih. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
 
-__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Mozilla VPN melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam tempoh masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
+__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Firefox Relay melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dan meminta bayaran balik dalam tempoh masa 30 hari pertama, Mozilla akan membuat bayaran balik bagi tempoh langganan pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
 __Pembelian melalui Apple atau Google App Stores.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
 

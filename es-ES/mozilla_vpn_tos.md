@@ -1,7 +1,7 @@
 ﻿# Condiciones del servicio de Mozilla VPN
 
-Versión 3.2, en vigor desde el miércoles, 11 de agosto de 2021
-{: datetime="2021-08-11" }
+Versión 3.3, en vigor desde el jueves, 23 de diciembre de 2021
+{: datetime="2021-12-23" }
 
 Mozilla VPN («Servicio») es una red virtual privada creada en colaboración con [Mullvad](https://mullvad.net). Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso del Servicio.
 
@@ -41,7 +41,7 @@ __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus otorgantes de licencias 
 
 __Pago.__ Ofrecemos Mozilla VPN como un servicio de suscripción que se renueva automáticamente. Al suscribirse nos autoriza cargar el pago en el método de pago proporcionado para cubrir las cuotas de la suscripción para el primer período del Servicio. Su plan se renovará automáticamente al final de cada período, y usted nos autoriza a cobrar las cuotas de suscripción cada período de suscripción. Si deja de pagar, suspenderemos inmediatamente su cuenta y la eliminaremos después de 2 meses sin pagar las cuotas.
 
-__Política de reembolso de 30 días.__ Si la primera vez que se suscribe a Mozilla VPN a través de la página web de Mozilla, cancela su cuenta tras los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
+__Política de reembolso de 30 días.__ Si la primera vez que se suscribe a Mozilla VPN a través de la página web de Mozilla, cancela su cuenta y solicita un reembolso tras los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
 
 __Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si compró su suscripción en App Store de Apple o Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
 
