@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
 
 *Yürürlük Tarihi: 17 Kasım 2021*
 {: datetime="2021-11-17" }
