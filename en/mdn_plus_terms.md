@@ -8,18 +8,18 @@ MDN Plus is a subscription service providing premium functionality, including MD
 ## You Must Be Eligible to Use the Service
 
 You must be in a country where the Service is available. Currently, the Service is available in the United States, Canada, the United Kingdom, Germany, France, Italy, Spain, Belgium, Austria, Switzerland, the Netherlands, Ireland, Malaysia, New Zealand, and Singapore. A Firefox Account is required to use the Service.
-To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
+To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
 
 ## Your Privacy
 
-__Your Privacy.__ The [MDN Plus Privacy Notice]() explains what information is sent when you use the Service and how we handle and share that information.
+__Your Privacy.__ The [MDN Plus Privacy Notice](https://www.mozilla.org/privacy/mdn-plus/) explains what information is sent when you use the Service and how we handle and share that information.
 Mozilla is a global organization and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information might be processed on servers located outside of the country where you live, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information.
 
 
 ## Permissions Necessary to Provide the Service
 
 __Your Use of the Service.__ Mozilla gives you permission to use the MDN Plus Service according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.
-You give Mozilla all rights necessary to operate the Service, including processing the data you upload to or access through the Service including any notes you make or contributions to the website. This also includes sending you notifications and processing and storing your information such as bookmarks and labels. You can find more information about the data Mozilla processes in the [MDN Plus Privacy Notice]().
+You give Mozilla all rights necessary to operate the Service, including processing the data you upload to or access through the Service including any notes you make or contributions to the website. This also includes sending you notifications and processing and storing your information such as bookmarks and labels. You can find more information about the data Mozilla processes in the [MDN Plus Privacy Notice](https://www.mozilla.org/privacy/mdn-plus/).
 You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the content you transmit and the consequences.
 
 __Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about Firefox Relay or the services you use with the Firefox Relay, you give Mozilla permission to use them for free and without any additional obligations.
