@@ -59,7 +59,7 @@ __Cancellation.__ You may cancel your subscription to MDN Plus at any time. You 
 
 * __Termination.__ These Terms apply until either you or Mozilla decide to end them. You can choose to end them at any time for any reason by stopping your use of the Service and deleting the Firefox Relay Add-on. Mozilla can suspend or end anyone’s access to the Service at any time for any reason, including if Mozilla decides to end the Service. If we decide to suspend or end your access, we will try to notify you at the email address associated with your account or the next time you attempt to access your Account.
 
-  If we terminate your access to the Service without specific cause, you will continue to have access to the Service for the current billing period or we will refund the current month. However, we reserve the right to terminate your use of the Service immediately if we reasonably believe you have violated the Conditions of Use, or have otherwise violated these Terms.
+If we terminate your access to the Service without specific cause, you will continue to have access to the Service for the current billing period or we will refund the current month. However, we reserve the right to terminate your use of the Service immediately if we reasonably believe you have violated the Conditions of Use, or have otherwise violated these Terms.
 
 * __Choice of Law.__ California law applies to this contract, except for California’s conflict of law. If there is any conflict between this English version of the contract and a translation, this English version applies.
 
