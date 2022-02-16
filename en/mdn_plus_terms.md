@@ -24,7 +24,7 @@ __Your Use of the Service.__ Mozilla gives you permission to use the MDN Plus Se
 You give Mozilla all rights necessary to operate the Service, including processing the data you upload to or access through the Service including any notes you make or contributions to the website. This also includes sending you notifications and processing and storing your information such as saved pages and labels. You can find more information about the data Mozilla processes in the [MDN Plus Privacy Notice](https://www.mozilla.org/privacy/mdn-plus/).
 You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the content you transmit and the consequences.
 
-__Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about MDN Plus or the services you use with the Firefox Relay, you give Mozilla permission to use them for free and without any additional obligations.
+__Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about MDN Plus or the services you use with MDN Plus, you give Mozilla permission to use them for free and without any additional obligations.
 
 __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant you any intellectual property rights in the Service that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any copyrights, trademarks, or other distinctive brand features of Mozilla or its licensors. The Mozilla software is distributed under and subject to the current version of the Mozilla Public License, or other similarly permissive licenses.
 
