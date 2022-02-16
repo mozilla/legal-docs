@@ -15,7 +15,7 @@ This privacy notice explains what data MDN Plus collects, shares, and why. We al
 
 __Firefox Account information.__ This service requires a Firefox Account, which provides MDN Plus read-only access to your Firefox Account profile information, for example your user ID, display name, avatar, email address, locale, and active product subscriptions. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__MDN Plus Account Information.__ When you use MDN Plus features, we receive the data required to provide those features to you. For instance, if you set bookmarks, we receive your bookmarks, and if you choose to follow pages for notifications, we will receive the pages and notifications. 
+__MDN Plus Account Information.__ When you use MDN Plus features, we receive the data required to provide those features to you. For instance, if you set saved pages, we receive your saved pages, and if you choose to follow pages for notifications, we will receive the pages and notifications. 
 
 __Location information.__ MDN Plus receives your IP address when you sign up for and use the service. We use the IP address in order to approximate your location because MDN Plus is currently only available in certain countries.
 
