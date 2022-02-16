@@ -17,7 +17,6 @@ __Your Privacy.__ The [MDN Plus Privacy Notice](https://www.mozilla.org/privacy/
 
 Mozilla is a global organization and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information might be processed on servers located outside of the country where you live, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information.
 
-
 ## Permissions Necessary to Provide the Service
 
 __Your Use of the Service.__ Mozilla gives you permission to use the MDN Plus Service according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.
