@@ -38,7 +38,7 @@ __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi a MDN Plus 
 
 ## Puoi annullare l'abbonamento in qualsiasi momento
 
-__Annullamento.__ Puoi annullare il tuo abbonamento a MDN Plus in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure andare alla sezione [Abbonamenti a pagamento](https://subscriptions.firefox.com) del tuo Account Firefox e selezionare "Annulla" in corrispondenza di MDN Plus. Se scegli di revocare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione attuale.
+__Annullamento.__ Puoi annullare il tuo abbonamento a MDN Plus in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure andare alla sezione [Abbonamenti a pagamento](https://subscriptions.firefox.com) del tuo account Firefox e selezionare "Annulla" in corrispondenza di MDN Plus. Se scegli di revocare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione attuale.
 
 ## Le conseguenze del tuo utilizzo del Servizio ricadono unicamente su di te
 
@@ -65,7 +65,7 @@ Se revochiamo il tuo accesso al Servizio senza una causa specifica, potrai conti
 ## Come contattare Mozilla:
 
 Mozilla Corporation  
-Att.: Mozilla - Avvisi legali  
+Att.: Mozilla - Legal Notices  
 2 Harrison St. #175,  
 San Francisco, CA 94105, U.S.A.  
 
