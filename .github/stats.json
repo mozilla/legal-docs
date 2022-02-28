@@ -367,6 +367,28 @@
       "zh-TW"
     ]
   },
+  "mdn_plus_privacy.md": {
+    "count": 6,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ms",
+      "nl"
+    ]
+  },
+  "mdn_plus_terms.md": {
+    "count": 6,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ms",
+      "nl"
+    ]
+  },
   "mozilla_privacy_policy.md": {
     "count": 45,
     "locales": [
