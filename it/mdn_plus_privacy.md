@@ -13,7 +13,7 @@ Questa informativa sulla privacy spiega quali dati vengono raccolti da MDN Plus,
 
 ### Informazioni che raccogliamo {: #InfoWeCollect }
 
-__Informazioni sull'account Firefox.__ Il servizio richiede un Account Firefox, che fornisce a MDN Plus accesso di sola lettura a informazioni del profilo dell'Account Firefox, come ID utente, nome visualizzato, avatar, indirizzo email, impostazioni locali e abbonamenti attivi al prodotto. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informazioni sull'account Firefox.__ Il servizio richiede un account Firefox, che fornisce a MDN Plus accesso di sola lettura a informazioni del profilo dell'account Firefox, come ID utente, nome visualizzato, avatar, indirizzo email, impostazioni locali e abbonamenti attivi al prodotto. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
 __Informazioni sull'Account MDN Plus.__ Quando utilizzi le funzioni di MDN Plus, riceviamo i dati necessari per fornirti tali funzioni. Ad esempio, se hai impostato delle pagine salvate, riceviamo tali pagine e se scegli di seguire delle pagine per ricevere delle notifiche, riceveremo sia le pagine che le notifiche.
 
@@ -21,7 +21,7 @@ __Informazioni sulla posizione.__ MDN Plus riceve il tuo indirizzo IP quando ti 
 
 __Informazioni sul pagamento.__ Quando ti iscrivi a MDN Plus, il tuo addebito sarà gestito tramite uno dei nostri fornitori terzi di servizi di pagamento: Stripe, Apple, PayPal o Google Pay. Mozilla riceve un record del tuo account (che include l'indirizzo di fatturazione e le ultime quattro cifre del tuo metodo di pagamento) e lo stato del tuo abbonamento. Mozilla non memorizza i dettagli completi del pagamento.
 
-__Dati relativi alle interazioni.__ Mozilla riceve dati sulle tue interazioni con MDN Plus, incluso quando accedi e quando apporti modifiche al tuo Account Firefox, come modifiche all'indirizzo email o agli abbonamenti ai prodotti.
+__Dati relativi alle interazioni.__ Mozilla riceve dati sulle tue interazioni con MDN Plus, incluso quando accedi e quando apporti modifiche al tuo account Firefox, come modifiche all'indirizzo email o agli abbonamenti ai prodotti.
 
 __Dati tecnici.__ Mozilla riceve informazioni di base da MDN Plus sul browser web utilizzato e sul sistema operativo su cui è eseguito. Quando MDN Plus si connette ai nostri server per autenticare e aggiornare il tuo account MDN Plus, il tuo indirizzo IP viene raccolto temporaneamente come parte dei log del server. 
 
