@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective November 17, 2021*
-{: datetime="2021-11-17" }
+*Effective March 10, 2022*
+{: datetime="2022-03-10" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -40,7 +40,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
     Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Adzerk so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
-* __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
+* __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
 * __Add-on and Feature Recommendations__: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend Firefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The process happens locally in your own computer’s copy of Firefox. Learn More about [Awesome Bar recommendations](https://support.mozilla.org/kb/extension-recommendations) or [Extensions Page recommendations](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
@@ -86,7 +86,7 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest and Top Pick{: #searches }
 
 Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs. 
 
@@ -114,11 +114,11 @@ We take measures to limit our and our partners’ ability to identify you. [Lear
 
 Read the full documentation or learn more, including how to manage your Firefox Account data or our data practices for [websites and email](https://www.mozilla.org/privacy/websites/).  You can also read the privacy notices for our Firefox Account connected services, which are:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 
