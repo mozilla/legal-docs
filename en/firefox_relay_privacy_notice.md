@@ -1,7 +1,7 @@
 # Firefox Relay Privacy Notice
 
-*Version 1.3, Effective November 16, 2021*
-{: datetime="2020-11-16" }
+*Version 1.3, Effective March 10, 2022*
+{: datetime="2022-03-10" }
 
 Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, random (*alias*) email addresses. This privacy notice explains what data Firefox Relay, shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
