@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-Version 1.0, gültig ab 9. März 2022
-{: datetime="2022-03-09" }
+Version 1.0, gültig ab 23. März 2022
+{: datetime="2022-03-23" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 

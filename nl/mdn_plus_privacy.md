@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">-privacyverklaring</span>
 
-Versie 1.0, van kracht vanaf woensdag 9 maart 2022
-{: datetime="2022-03-09" }
+Versie 1.0, van kracht vanaf woensdag 23 maart 2022
+{: datetime="2022-03-23" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 

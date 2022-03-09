@@ -1,7 +1,7 @@
 ﻿# Terma Perkhidmatan MDN Plus
 
-Versi 1.0, berkuat kuasa pada 09 Mac 2022
-{: datetime="2022-03-09" }
+Versi 1.0, berkuat kuasa pada 23 Mac 2022
+{: datetime="2022-03-23" }
 
 MDN Plus ialah perkhidmatan langganan yang menyediakan fungsian premium termasuk MDN luar talian, kutipan, tema dan pemberitahuan. (“Perkhidmatan”). Sila baca Terma Perkhidmatan ini dengan teliti. Ia akan menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 

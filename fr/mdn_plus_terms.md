@@ -1,7 +1,7 @@
 ﻿# MDN Plus - Conditions d’utilisation
 
-Version 1.0 - Date d’effet : mercredi 9 mars 2022
-{: datetime="2022-03-09" }
+Version 1.0 - Date d’effet : mercredi 23 mars 2022
+{: datetime="2022-03-23" }
 
 MDN Plus est un service d’abonnement fournissant des fonctionnalités premium, notamment MDN hors ligne, des collections, thèmes et notifications. (le « Service »). Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation du Service.
 
