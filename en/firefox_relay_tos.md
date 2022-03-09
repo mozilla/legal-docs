@@ -1,9 +1,9 @@
 # Firefox Relay Terms of Service
 
-Version 1.2, effective November 16, 2021
-{: datetime="2021-11-16" }
+Version 1.3, effective March 10, 2022
+{: datetime="2022-03-10" }
 
-Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allows you to send and receive emails without revealing your primary email address.
+Firefox Relay (the “Service”) allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allow you to send and receive emails without revealing your primary email address.
 
 Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
@@ -19,7 +19,9 @@ __Your Privacy.__ The Firefox Relay [Privacy Notice](https://www.mozilla.org/pri
 
 __Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
-You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. We do not read or store any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days).
+You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked. 
+
+The Service will only send email attachments up to 25 megabytes. Larger emails are deleted. 
 
 To learn more about how the Service works, you can see Mozilla’s [source code](https://github.com/mozilla/fx-private-relay).
 
