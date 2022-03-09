@@ -1,7 +1,7 @@
 ﻿# Informativa sulla privacy di Firefox Relay
 
-*In vigore dal giovedì 16 novembre 2021*
-{: datetime="2020-11-16" }
+*Versione 1.3, in vigore dal giovedì 10 marzo 2022*
+{: datetime="2022-03-10" }
 
 Firefox Relay ti consente di mantenere il tuo indirizzo email principale sicuro e riservato quando utilizzi servizi online mediante la creazione di indirizzi email univoci e casuali (*alias*). Questa informativa sulla privacy spiega quali dati vengono raccolti da Firefox Relay, come vengono condivisi e perché. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni, puoi anche fare riferimento all'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
@@ -9,7 +9,7 @@ Firefox Relay ti consente di mantenere il tuo indirizzo email principale sicuro 
 
 __Informazioni sull'account Firefox.__ Questo servizio richiede un [account Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Mozilla conserva una copia delle informazioni del tuo account per fornire il servizio, in particolare per associare il tuo indirizzo email principale al/i tuo/i indirizzo/i email alias.
 
-__Messaggi email.__ Per inviare e inoltrare i tuoi messaggi email dal/i tuo/i indirizzo/i email alias al tuo indirizzo email principale, Firefox Relay elabora i tuoi messaggi. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni).
+__Messaggi email.__ Per inviare e inoltrare i tuoi messaggi email dal/i tuo/i indirizzo/i email alias al tuo indirizzo email principale, Firefox Relay elabora i tuoi messaggi. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). Se usi la funzione di blocco delle email promozionali, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate.
 
 __Alias e dove utilizzarli__: Se crei un alias personalizzato, Mozilla lo memorizza per inoltrarvi le email. Mozilla memorizza il sito dove hai creato l'alias, i siti dove successivamente lo utilizzi e tutte le etichette associate all'alias, in modo che sia sempre facilmente reperibile quando dovrai utilizzarlo. Scopri come abilitare e disabilitare queste funzioni [qui](https://relay.firefox.com/faq).
 

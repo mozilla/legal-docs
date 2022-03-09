@@ -1,9 +1,9 @@
-# Condiciones del servicio de Firefox Relay
+﻿# Condiciones del servicio de Firefox Relay
 
-Versión 1.2, en vigor desde el miércoles, 16 de noviembre de 2021
-{: datetime="2021-11-16" }
+Versión 1.3, en vigor desde el jueves, 10 de marzo de 2022
+{: datetime="2022-03-10" }
 
-Firefox Relay (el «Servicio») le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos y aleatorios, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal.
+Firefox Relay (el «Servicio») le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal.
 
 Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso del Servicio.
 
@@ -19,7 +19,9 @@ __Su privacidad.__ El [Aviso de privacidad de Firefox Relay](https://www.mozilla
 
 __Su uso del Servicio.__ Mozilla le da permiso para usar Firefox Relay de acuerdo con las Condiciones del servicio. Este permiso es únicamente para su uso personal. No se le permite transferir, sublicenciar, revender ni explotar comercialmente el Servicio. Usted acepta además que su uso del Servicio se regirá por las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla. Usted es el único responsable del Contenido que transfiere, así como de las consecuencias.
 
-Usted le otorga a Mozilla todos los derechos necesarios para operar el Servicio, incluido el procesamiento de sus direcciones de correo electrónico, alias y etiquetas de alias que crea y el correo que envía y recibe a través del Servicio. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hemos entregado (en ningún caso se conservará durante más de tres días).
+Usted le otorga a Mozilla todos los derechos necesarios para operar el Servicio, incluido el procesamiento de sus direcciones de correo electrónico, alias y etiquetas de alias que crea y el correo que envía y recibe a través del Servicio. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hemos entregado (en ningún caso se conservará durante más de tres días). Si usa la función para bloquear correos electrónicos promocionales, el Servicio verificará los encabezados de los correos electrónicos para determinar si el correo electrónico debe bloquearse. 
+
+El Servicio solo enviará archivos adjuntos de correo electrónico de hasta 25 megabytes. Los correos electrónicos más grandes se eliminan.
 
 Para obtener más información sobre cómo funciona el Servicio, consulte el [código fuente de Mozilla](https://github.com/mozilla/fx-private-relay).
 

@@ -1,7 +1,7 @@
 ﻿# Notis Privasi Firefox Relay
 
-*Berkuat kuasa pada 16 November 2021*
-{: datetime="2020-11-16" }
+*Versi 1.3, berkuat kuasa pada 10 Mac 2022*
+{: datetime="2022-03-10" }
 
 Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel (*alias*) yang unik dan rawak. Notis privasi ini menerangkan jenis data yang dikongsi oleh Firefox Relay dan tujuannya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) untuk cara kami menerima, menangani, dan berkongsi maklumat.
 
@@ -9,7 +9,7 @@ Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan s
 
 __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan [Akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Mozilla menyimpan salinan maklumat akaun anda untuk memberikan perkhidmatan, khususnya untuk mengaitkan alamat e-mel utama anda dengan alamat e-mel alias anda.
 
-__Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari).
+__Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan kandungan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari). Jika anda menggunakan ciri untuk menyekat e-mel promosi, Perkhidmatan ini akan memeriksa pengepala e-mel untuk menentukan sama ada e-mel perlu disekat.
 
 __Alias dan di mana anda menggunakannya__: Jika anda mencipta alias tersuai, Mozilla menyimpannya bagi menghantar e-mel ke alamat ini. Mozilla menyimpan laman di mana anda mencipta alias, laman di mana anda kemudiannya menggunakan alias dan apa-apa label yang dikaitkan dengan alias bagi memastikan alias anda mudah ditemui apabila anda bersedia untuk menggunakannya. Pelajari cara untuk mengupayakan dan menyahupayakan ciri ini [di sini](https://relay.firefox.com/faq).
 

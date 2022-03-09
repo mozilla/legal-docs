@@ -1,9 +1,9 @@
-# Firefox Relay-Servicebedingungen
+﻿# Firefox Relay-Servicebedingungen
 
-Version 1.2 – Aktualisiert am Mittwoch, 16. November 2021
-{: datetime="2021-11-16" }
+Version 1.3, gültig ab 10. März 2022
+{: datetime="2022-03-10" }
 
-Firefox Relay (im Folgenden der „Dienst“) erstellt eindeutige Alias-E-Mail-Adressen, mit denen Sie E-Mails senden und empfangen können, ohne Ihre primäre E-Mail-Adresse preiszugeben. Auf diese Weise gestattet es Firefox Relay Ihnen, Ihre primäre E-Mail-Adresse vor Onlinediensten zu schützen und privat zu halten.
+Firefox Relay (der „Dienst“) ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellen, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen.
 
 Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
 
@@ -19,7 +19,9 @@ __Ihre Privatsphäre.__ Im Firefox Relay-[Datenschutzhinweis](https://www.mozill
 
 __Ihre Nutzung der Dienste.__ Mozilla räumt Ihnen die Berechtigung ein, Firefox Relay den vorliegenden Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Der Dienst darf nicht übertragen, unterlizenziert, wiederverkauft oder kommerziell genutzt werden. Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
-Sie räumen Mozilla alle Rechte ein, die für den Betrieb des Dienstes erforderlich sind, einschließlich des Rechts zur Verarbeitung Ihrer E-Mail-Adressen, der von Ihnen erstellten Aliase und Alias-Labels sowie der E-Mails, die Sie über den Dienst senden und empfangen. Wir lesen und speichern Ihre Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.)
+Sie räumen Mozilla alle Rechte ein, die für den Betrieb des Dienstes erforderlich sind, einschließlich des Rechts zur Verarbeitung Ihrer E-Mail-Adressen, der von Ihnen erstellten Aliase und Alias-Labels sowie der E-Mails, die Sie über den Dienst senden und empfangen. Wir lesen und speichern den Inhalt Ihrer Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.) Wenn Sie die Funktion zum Blockieren von Werbemails nutzen, überprüft der Dienst den Header der E-Mails, um festzustellen, ob eine E-Mail blockiert werden muss. 
+
+Der Dienst sendet E-Mail-Anhänge nur bis zu einer Größe von 25 MB. Größere Anhänge werden gelöscht.
 
 Wenn Sie mehr über die Funktionsweise des Dienstes erfahren möchten, können Sie von Mozilla bereitgestellten [Quellcode](https://github.com/mozilla/fx-private-relay) einsehen.
 

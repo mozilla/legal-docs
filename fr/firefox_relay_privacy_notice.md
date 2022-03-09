@@ -1,7 +1,7 @@
 ﻿# Politique de confidentialité de Firefox Relay
 
-*Date d’effet : jeudi 16 novembre 2021*
-{: datetime="2020-11-16" }
+*Version 1.3 - Date d’effet : jeudi 10 mars 2022*
+{: datetime="2022-03-10" }
 
 Firefox Relay vous permet de protéger votre adresse email principale des services en ligne en créant des adresses uniques et aléatoires (*alias*). Cette politique de confidentialité explique quelles données Firefox Relay partage, et dans quels buts. Nous adhérons en outre à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/), qui explique comment nous recevons, traitons et partageons les informations.
 
@@ -9,7 +9,7 @@ Firefox Relay vous permet de protéger votre adresse email principale des servic
 
 __Informations de compte Firefox.__ Ce service nécessite un compte [compte Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), qui envoie à Mozilla votre adresse e-mail, langue et adresse IP. Mozilla conserve une copie des informations de votre compte pour fournir le Service, en particulier pour associer votre adresse email principale à votre ou vos alias.
 
-__Messages email.__ Pour envoyer et transférer vos messages email depuis votre ou vos alias d’adresse(s) email vers votre adresse email principale, Firefox Relay doit traiter vos messages email. Nous ne lisons ni ne stockons le contenu de vos messages. Si un email ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours).
+__Messages email.__ Pour envoyer et transférer vos messages email depuis votre ou vos alias d’adresse(s) email vers votre adresse email principale, Firefox Relay doit traiter vos messages email. Nous ne lisons ni ne stockons le contenu de vos messages. Si un email ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). Si vous utilisez la fonction de blocage des emails promotionnels, le Service vérifiera les en-têtes des emails pour déterminer si ces derniers doivent être bloqués.
 
 __Comment utiliser les alias__ : Lorsque vous créez un alias personnalisé, Mozilla le stocke pour pouvoir lui transférer des emails. Mozilla stocke le site sur lequel vous avez créé l’alias, les sites sur lesquels vous allez ensuite utiliser l’alias, et tous libellés associés à l’alias, afin de garantir que vos alias soient faciles à trouver lorsque vous êtes prêt à les utiliser. Apprenez à activer et désactiver ces fonctionnalités [ici](https://relay.firefox.com/faq).
 
