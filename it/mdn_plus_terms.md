@@ -1,7 +1,7 @@
 ﻿# Termini di servizio MDN Plus
 
-Versione 1.0, in vigore dal 9 marzo 2022
-{: datetime="2022-03-09" }
+Versione 1.0, in vigore dal 23 marzo 2022
+{: datetime="2022-03-23" }
 
 MDN Plus è un servizio in abbonamento che fornisce funzionalità premium, come MDN offline, raccolte, temi e notifiche (il "Servizio"). Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo del Servizio.
 

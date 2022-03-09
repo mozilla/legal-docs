@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Notis Privasi</span> <span class="privacy-header-policy">MDN Plus</span>
 
-Versi 1.0, berkuat kuasa pada 09 Mac 2022
-{: datetime="2022-03-09" }
+Versi 1.0, berkuat kuasa pada 23 Mac 2022
+{: datetime="2022-03-23" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 

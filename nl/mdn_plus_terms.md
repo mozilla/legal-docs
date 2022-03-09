@@ -1,7 +1,7 @@
 ﻿# Servicevoorwaarden van MDN Plus
 
-Versie 1.0, van kracht vanaf woensdag 9 maart 2022
-{: datetime="2022-03-09" }
+Versie 1.0, van kracht vanaf woensdag 23 maart 2022
+{: datetime="2022-03-23" }
 
 MDN Plus is een abonnementsservice die premium functionaliteit verzorgt, waaronder MDN offline, collecties, thema's en meldingen. (de Service). Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Service.
 
