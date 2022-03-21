@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">개인정보 취급방침</span>
 
-*2021년 11월 17일 수요일부터 유효*
-{: datetime="2021-11-17" }
+*2022년 3월 10일 목요일부터 유효*
+{: datetime="2022-03-10" }
 
 ## 우리 Mozilla에서는 개인정보 보호가 건강한 인터넷의 기본이라고 믿습니다.
 
@@ -40,13 +40,13 @@ Firefox는 부가 기능 추천, 상위 사이트(Firefox를 처음 사용하는
 
     Mozilla와 Pocket은 사용자가 보고 클릭하는 추천 항목에 대해 집계된 데이터를 받습니다. 또한 광고주들이 얼마나 많은 사람들이 해당 기사를 클릭하는지 볼 수 있도록 사용자가 보고 클릭하는 스폰서 콘텐츠에 대한 집계된 데이터를 타사 광고 플랫폼 Adzerk와 공유합니다. 이 집계 데이터는 사용자를 개인 식별하지 않습니다.
 
-* __상위 사이트__: 사용자가 신규 탭에서 스폰서 상위 사이트 타일을 클릭하면, 당사는 사용자가 해당 웹 사이트를 탐색했는지 확인하기 위해 사용자의 국가, 지역, 자치주(미국이 아닌 경우) 및 사용자가 AdMarketplace(타사 추천 플랫폼)를 클릭했던 시간을 공유합니다. Firefox는 사용자를 식별하기 위해 사용할 수 있는 사용자의 IP 주소 또는 기타 정보를 공유하지 않습니다.
+* __상위 사이트__: 사용자가 신규 탭에서 스폰서 상위 사이트 타일을 클릭하면, 당사는 사용자가 해당 웹 사이트를 탐색했는지 확인하기 위해 사용자의 국가, 지역, 자치주(미국에 있는 경우), 사용자가 클릭한 타일 및 사용자가 AdMarketplace(타사 추천 플랫폼)를 클릭했던 시간을 공유합니다. Firefox는 사용자를 식별하기 위해 사용할 수 있는 사용자의 IP 주소 또는 기타 정보를 공유하지 않습니다.
 
 * __부가 기능 및 기능 추천 항목__: 확장 프로그램 관리 페이지(about:addons)와 URL을 검색하거나 입력하는 Awesome Bar 두 곳에서 부가 기능을 추천해 드립니다. 또한 Awesome Bar에서 Firefox 기능을 추천할 수도 있습니다. about:addons의 추천 항목은 쿠키를 기반으로 합니다. Awesome Bar의 추천 항목은 Firefox와 귀하의 상호 작용을 기반으로 합니다. Mozilla는 사용자의 검색 기록을 받지 않습니다. 이 프로세스는 사용자 컴퓨터의 Firefox 사본에서 로컬로 이루어집니다. [Awesome Bar 추천 항목](https://support.mozilla.org/kb/extension-recommendations) 또는 [확장 프로그램 페이지 추천 항목](https://support.mozilla.org/kb/personalized-extension-recommendations)에 대해 자세히 알아보세요.
 
 ### 어디서나 사용자를 위한 보안 개선 {: #security }
 
-**DNS 확인자 서비스에 대한 웹 페이지 데이터**: 미국 내 일부 Firefox 사용자의 경우, Firefox는 Mozilla의 [확인자에 대한 엄격한 개인정보 보호 표준](https://wiki.mozilla.org/Security/DOH-resolver-policy)에 동의한 확인자 서비스로 DNS 요청을 라우팅합니다. 이는 로컬 네트워크에 대한 개인정보 유출과 특정 DNS 보안 공격으로부터 추가적인 보호를 제공합니다. 사용자의 DNS 요청에 대한 시스템 로그는 24시간 내에 해당 서비스에서 삭제되며 DNS 확인을 위해서만 사용됩니다. [자세히 알아보기](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) 또는 아래에서 당사의 기본 DNS 확인자 서비스 제공업체 참조:
+**DNS 확인자 서비스에 대한 웹 페이지 데이터**: 일부 Firefox 사용자의 경우, Firefox는 Mozilla의 [확인자에 대한 엄격한 개인정보 보호 표준](https://wiki.mozilla.org/Security/DOH-resolver-policy)에 동의한 확인자 서비스로 DNS 요청을 라우팅합니다. 이는 로컬 네트워크에 대한 개인정보 유출과 특정 DNS 보안 공격으로부터 추가적인 보호를 제공합니다. 사용자의 DNS 요청에 대한 시스템 로그는 24시간 내에 해당 서비스에서 삭제되며 DNS 확인을 위해서만 사용됩니다. [자세히 알아보기](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) 또는 아래에서 당사의 기본 DNS 확인자 서비스 제공업체 참조:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Firefox는 부가 기능 추천, 상위 사이트(Firefox를 처음 사용하는
 
     _데스크톱_: 기본적으로 Firefox는 Firefox 설치 프로그램에 포함될 수 있는 Mozilla HTTP 데이터를 보냅니다. 이를 통해 당사 다운로드 페이지를 참조하도록 하는 웹 사이트 도메인 또는 광고 캠페인(있는 경우)을 결정할 수 있습니다. [설명서](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)를 읽어 보거나 [옵트아웃](https://support.mozilla.org/kb/desktop-privacy) before installation하십시오.
 
-    _Android_: 기본적으로 Firefox는 자체 [개인정보 보호 정책](https://www.adjust.com/terms/privacy-policy/)이 있는 당사 분석 업체, Adjust에 모바일 캠페인 데이터를 보냅니다. 모바일 캠페인 데이터에는 Google 광고 ID, IP 주소, 타임스탬프, 국가, 언어/지역, 운영 체제 및 앱 버전이 포함됩니다. [설명서](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)를 확인하세요.
+    _모바일_: 기본적으로 iOS 및 Android용 Firefox는 자체 [개인정보 보호 정책](https://www.adjust.com/terms/privacy-policy/)이 있는 당사 분석 업체, Adjust에 모바일 캠페인 데이터를 보냅니다. 모바일 캠페인 데이터에는 Google 광고 ID, IP 주소, 타임스탬프, 국가, 언어/지역, 운영 체제 및 앱 버전이 포함됩니다. [설명서](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)를 확인하세요.
 {: #thirdparty }
 
 ---
 
 ## 해당 기능을 사용하는 경우 Firefox는 다음과 같이 사용자에게 기능을 제공하고 당사 제품 및 서비스를 개선할 수 있도록 데이터를 공유합니다. {: #optional-features }
 
-### Firefox 제안 {: #searches }
+### Firefox 제안 및 Top Pick{: #searches }
 
 Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움이 되는 새로운 기능을 개발하고 있습니다. 이 기능은 Firefox 제안이라고 하며 초기 버전은 현재 미국 내 사용자들에게만 지원됩니다. 기본적으로 Firefox 제안에는 사용자의 컴퓨터에 저장된 로컬 데이터(예: 검색 기록, 책갈피 및 열린 탭의 웹 사이트)를 기반으로 권장 및 후원되는 콘텐츠가 표시됩니다. 
 
@@ -114,11 +114,11 @@ Mozilla는 더 적은 노력으로 더 나은 정보를 제공하는 데 도움�
 
 전체 설명서를 읽거나 Firefox 계정 데이터 또는 [웹 사이트 및 이메일](https://www.mozilla.org/privacy/websites/)의 데이터 관행 관리 방법을 포함하여 자세히 알아보십시오. 또한 다음과 같이 Firefox 계정 연결 서비스에 대한 개인정보 취급방침을 읽어볼 수 있습니다.
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 

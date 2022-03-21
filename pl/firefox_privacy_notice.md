@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Zasady prywatności</span> <span class="privacy-header-firefox">przeglądarki Firefox
 
-*Data wejścia w życie: 17 listopada 2021 r.*
-{: datetime="2021-11-17" }
+*Data wejścia w życie: 10 marca 2022 r.*
+{: datetime="2022-03-10" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -40,13 +40,13 @@ Firefox wyświetla zawartość, taką jak rekomendacje dodatków, popularne stro
 
     Mozilla i Pocket otrzymują zagregowane dane dotyczące rekomendacji wyświetlonych i klikniętych przez użytkownika. Ponadto zagregowane dane dotyczące treści sponsorowanych, które użytkownik widzi i klika, udostępniamy naszej zewnętrznej platformie reklamowej Adzerk, aby reklamodawcy mogli sprawdzić, ile osób kliknęło ich artykuły. Te zagregowane dane nie identyfikują użytkownika osobiście.
 
-* __Popularne strony__: Kiedy użytkownik kliknie kafelek Sponsorowane popularne strony na nowej karcie, udostępniamy kraj, region i hrabstwo (w przypadku lokalizacji w Stanach Zjednoczonych) użytkownika i czas kliknięcia platformie AdMarketplace (platforma poleceń firmy zewnętrznej) w celu weryfikacji przejścia do witryny. Firefox nie udostępnia adresu IP użytkownika ani żadnych informacji, które mogłyby zostać użyte do identyfikacji użytkownika.
+* __Popularne strony__: Kiedy użytkownik kliknie kafelek Sponsorowane popularne strony na nowej karcie, udostępniamy informacje o kraju, regionie i hrabstwie (w przypadku lokalizacji w Stanach Zjednoczonych) użytkownika, klikniętym kafelku i czasie kliknięcia platformie AdMarketplace (zewnętrzna platforma poleceń firmy) w celu weryfikacji przejścia do witryny. Firefox nie udostępnia adresu IP użytkownika ani żadnych informacji, które mogłyby zostać użyte do identyfikacji użytkownika.
 
 * __Rekomendacje dodatków i funkcji__: Dodatki są polecane w dwóch miejscach: na stronie Zarządzanie rozszerzeniami (about:addons) i na inteligentnym pasku adresu, na którym można wyszukiwać lub wprowadzać adresy URL. Ponadto na inteligentnym pasku adresu możemy polecać funkcje Firefoksa. Rekomendacje na stronie about:addons są oparte na ciasteczku. Rekomendacje na inteligentnym pasku adresu są oparte na interakcji użytkownika z Firefoksem. Mozilla nie otrzymuje historii przeglądarki użytkownika. Ten proces jest wykonywany lokalnie w kopii Firefoksa na komputerze użytkownika. Dowiedz się więcej na temat [rekomendacji na inteligentnym pasku adresu](https://support.mozilla.org/kb/extension-recommendations) lub [rekomendacji na stronie rozszerzeń](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Poprawa bezpieczeństwa dla użytkowników na całym świecie {: #security }
 
-**Dane stron internetowych dla usługi rozpoznawania nazw DNS**: W przypadku niektórych użytkowników Firefoksa w Stanach Zjednoczonych Firefox kieruje żądania DNS do usługi rozpoznawania nazw, która zaakceptowała [rygorystyczne standardy ochrony prywatności firmy Mozilla dla usług rozpoznawania nazw](https://wiki.mozilla.org/Security/DOH-resolver-policy). Zapewnia to dodatkową ochronę sieci lokalnych przed wyciekami prywatności, a także przed niektórymi atakami na zabezpieczenia DNS. Dzienniki systemowe żądań DNS użytkownika są usuwane z usługi w ciągu 24 godzin i służą wyłącznie do rozpoznawania nazw DNS. [Dowiedz się więcej](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) lub zobacz poniżej naszych domyślnych dostawców usługi rozpoznawania nazw DNS:
+**Dane stron internetowych dla usługi rozpoznawania nazw DNS**: W przypadku niektórych użytkowników Firefox kieruje żądania DNS do usługi rozpoznawania nazw, która zaakceptowała [rygorystyczne standardy ochrony prywatności firmy Mozilla dla usług rozpoznawania nazw](https://wiki.mozilla.org/Security/DOH-resolver-policy). Zapewnia to dodatkową ochronę sieci lokalnych przed wyciekami prywatności, a także przed niektórymi atakami na zabezpieczenia DNS. Dzienniki systemowe żądań DNS użytkownika są usuwane z usługi w ciągu 24 godzin i służą wyłącznie do rozpoznawania nazw DNS. [Dowiedz się więcej](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) lub zobacz poniżej naszych domyślnych dostawców usługi rozpoznawania nazw DNS:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 
     _Na komputerach_: Firefox domyślnie wysyła do firmy Mozilla dane HTTP, które mogą być dołączone do instalatora Firefoksa. Umożliwiaj to nam zrozumienie, która domena internetowa lub kampania reklamowa (o ile w ogóle) skierowała użytkownika na naszą stronę umożliwiającą pobranie. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) lub [zrezygnuj](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _W systemie Android_: Firefox domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który posiada własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Platformy mobilne_: Firefox dla systemów iOS i Android domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który ma własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
 
-### Podpowiedzi Firefoksa {: #searches }
+### Podpowiedzi Firefoksa i Top Pick (najczęściej wybierane strony){: #searches }
 
 Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Domyślnie funkcja Podpowiedzi Firefoksa przedstawia użytkownikowi rekomendowane i sponsorowane treści w oparciu o lokalne dane przechowywane na komputerze użytkownika, takie jak witryny z historii przeglądania, zakładki i otwarte karty. 
 
@@ -114,11 +114,11 @@ Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji u
 
 Przeczytaj pełną dokumentację lub uzyskaj więcej informacji, łączenie ze sposobem zarządzania danych konta Firefox i naszymi zasadami przetwarzania danych w zakresie [witryn i poczty e-mail](https://www.mozilla.org/privacy/websites/). Możesz także przeczytać zasady prywatności dotyczące usług połączonych z kontem Firefox, takich jak:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 

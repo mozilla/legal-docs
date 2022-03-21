@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*有効日 2021 年 11 月 17 日*
-{: datetime="2021-11-17" }
+*有効日 2022 年 3 月 10 日*
+{: datetime="2022-03-10" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -40,13 +40,13 @@ Firefox は、おすすめ拡張機能、トップサイト (初めて Firefox �
 
 Mozilla および Pocket は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としています。この集計されたデータは、あなた個人を特定するものではありません。
 
-* __トップサイト__:新しいタブでスポンサー付きのトップサイトをクリックすると、Firefox は、あなたがそのウェブサイトに移動したことを確認するため、あなたの国、地域、郡 (米国にお住まいの場合)、およびクリックした時間を AdMarketplace (第三者照会プラットフォーム) と共有します。Firefox が、あなたの IP アドレスやあなたを識別できるその他の情報を共有することはありません。
+* __トップサイト__:新しいタブでスポンサー付きのトップサイトをクリックすると、Firefox は、あなたがそのウェブサイトに移動したことを確認するため、あなたの国、地域、郡 (米国にお住まいの場合)、クリックしたタイル、およびクリックした時間を AdMarketplace (第三者照会プラットフォーム) と共有します。Firefox が、あなたの IP アドレスやあなたを識別できるその他の情報を共有することはありません。
 
 * __拡張機能と機能のおすすめ__:Mozilla では、拡張機能の管理ページ (about:addons) と、検索や URL の入力ができるロケーションバーの 2 か所で拡張機能をおすすめしています。また、ロケーションバーでは Firefox の機能もおすすめする場合があります。about:addons でのおすすめ内容は、Cookie に基づいています。ロケーションバーでのおすすめ内容は、Firefox でのあなたの行動に基づいています。Mozilla はあなたのブラウザー履歴を受信しません。このプロセスは、お使いのコンピューターの Firefox のコピーで、ローカルに発生します。[ロケーションバーでのおすすめ](https://support.mozilla.org/kb/extension-recommendations) または [拡張機能ページでのおすすめ](https://support.mozilla.org/kb/personalized-extension-recommendations) の詳細はこちら。
 
 ### すべてのユーザーのためにセキュリティを強化する {: #security }
 
-**DNS　リゾルバサービスへのウェブページデータ**:米国にお住まいの一部の Firefox ユーザの方については、Firefox が DNS リクエストを、Mozilla の [リゾルバに対する厳格なプライバシー基準](https://wiki.mozilla.org/Security/DOH-resolver-policy) に同意したリゾルバサービスにルーティングします。これによって、ローカルネットワークへのプライバシー情報の漏洩および DNS セキュリティ攻撃に備えた対策を強化することができます。あなたの DNS リクエストのシステムログは、24 時間以内に当該サービスから削除され、DNS 解決以外の目的には使用されません。[詳細を確認](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) するか、こちらで初期設定の DNS リゾルバプロバイダーをご覧ください。
+**DNS　リゾルバサービスへのウェブページデータ**:一部の Firefox ユーザの方については、Firefox が DNS リクエストを、Mozilla の [リゾルバに対する厳格なプライバシー基準](https://wiki.mozilla.org/Security/DOH-resolver-policy) に同意したリゾルバサービスにルーティングします。これによって、ローカルネットワークへのプライバシー情報の漏洩および DNS セキュリティ攻撃に備えた対策を強化することができます。あなたの DNS リクエストのシステムログは、24 時間以内に当該サービスから削除され、DNS 解決以外の目的には使用されません。[詳細を確認](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) するか、こちらで初期設定の DNS リゾルバプロバイダーをご覧ください。
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 
     _デスクトップの場合_:Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みいただくか、[オプトアウト](https://support.mozilla.org/kb/desktop-privacy) before installation してください。
 
-    _Android の場合_:Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
+    _モバイルの場合_:iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
 {: #thirdparty }
 
 ---
 
 ## あなたが以下の機能を使用した場合、Firefox は機能を提供し、Firefox の製品とサービスを改善するためにデータを共有します。 {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest と Top Pick{: #searches }
 
 Mozilla では、より少ない労力でより質の高い情報を皆様にお届けする新しい機能を開発しています。この機能は Firefox Suggest と呼ばれ、現在、初期バージョンが米国にお住まいのユーザー向けに提供されています。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータに基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。
 
@@ -114,11 +114,11 @@ Mozilla では Mozilla および Mozilla のパートナーがあなたを特定
 
 Firefox アカウントのデータを管理する方法や、Firefox の [ウェブサイトおよび電子メール](https://www.mozilla.org/privacy/websites/) に関するデータ慣行を含む、ドキュメントの全文または詳細をお読みください。Firefox アカウントに接続されている以下の各サービスについても、プライバシーに関する通知をお読みいただけます。
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### 同期 {: #sync }
 

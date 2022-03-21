@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Thông báo quyền riêng tư </span> <span class="privacy-header-policy">của Firefox</span>
 
-*Có hiệu lực từ ngày 17 Tháng Mười Một năm 2021*
-{: datetime="2021-11-17" }
+*Có hiệu lực từ ngày 10 Tháng Ba năm 2022*
+{: datetime="2022-03-10" }
 
 ## Tại Mozilla, chúng tôi tin tưởng rằng quyền riêng tư là nền tảng của một môi trường Internet lành mạnh.
 
@@ -40,13 +40,13 @@ Firefox sẽ hiển thị nội dung, như Đề xuất Tiện ích bổ sung, T
 
     Mozilla và Pocket sẽ nhận được các dữ liệu tổng hợp về các đề xuất bạn xem và nhấp vào. Chúng tôi cũng chia sẻ các dữ liệu tổng hợp về nội dung được tài trợ mà bạn xem và nhấp chuột với Adzerk, nền tảng quảng cáo thuộc bên thứ ba của chúng tôi để các nhà quảng cáo có thể xem được có bao nhiêu người đã nhấp vào các bài viết của họ. Dữ liệu tổng hợp này không nhận diện được bạn với tư cách cá nhân.
 
-* __Các trang hàng đầu__: Khi bạn nhấp vào xếp Trang hàng đầu Được tài trợ trên một thẻ mới, chúng tôi sẽ chia sẻ thông tin về quốc gia, khu vực, hạt (nếu bạn ở Hoa Kỳ) và thời gian bạn đã nhấp với AdMarketplace (một nền tảng giới thiệu thuộc bên thứ ba) để xác nhận rằng bạn đã điều hướng đến website. Firefox không chia sẻ địa chỉ IP hoặc bất kỳ thông tin nào khác có thể sử dụng để nhận diện được bạn.
+* __Các trang hàng đầu__: Khi bạn nhấp vào xếp Trang hàng đầu Được tài trợ trên một thẻ mới, chúng tôi sẽ chia sẻ thông tin về quốc gia, khu vực, hạt (nếu bạn ở Hoa Kỳ), xếp bạn đã nhấp vào và thời gian bạn đã nhấp với AdMarketplace (một nền tảng giới thiệu thuộc bên thứ ba) để xác nhận rằng bạn đã điều hướng đến website. Firefox không chia sẻ địa chỉ IP hoặc bất kỳ thông tin nào khác có thể sử dụng để nhận diện được bạn.
 
 * __Đề xuất tiện ích bổ sung và tính năng__: Chúng tôi đề xuất tiện ích bổ sung ở hai nơi: trang Quản lý Phần mở rộng (giới thiệu:tiện ích bổ sung) và Thanh địa chỉ Awesome, nơi bạn có thể tìm kiếm và nhập vào các URL. Chúng tôi cũng đề xuất các tính năng của Firefox trong Thanh địa chỉ Awesome . Chúng tôi đưa ra các đề xuất trong phần giới thiệu:tiện ích bổ sung dựa trên cookie. Chúng tôi đưa ra các đề xuất trong Thanh địa chỉ Awesome dựa trên tương tác của bạn với Firefox. Mozilla sẽ không nhận được lịch sử trình duyệt của bạn. Quy trình chỉ diễn ra cục bộ trong phiên bản Firefox trên máy tính riêng của bạn. Bạn có thể tìm hiểu thêm về [Đề xuất Thanh địa chỉ Awesome](https://support.mozilla.org/kb/extension-recommendations) hay [Đề xuất trang về các phần mở rộng](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Nâng cao độ bảo mật cho người dùng ở mọi nơi {: #security }
 
-**Dữ liệu trang web cho dịch vụ Phân giải DNS**: Đối với một số người dùng Firefox ở Hoa Kỳ, Firefox sẽ định tuyến các yêu cầu DNS tới dịch vụ phân giải đã đáp ứng [các tiêu chuẩn khắt khe về bảo mật áp dụng cho hệ thống phân giải ](https://wiki.mozilla.org/Security/DOH-resolver-policy)của Mozilla. Quy trình này giúp bảo vệ người dùng tránh được các rò rỉ bảo mật đối với các mạng nội bộ cũng như tránh được những cuộc tấn công bảo mật DNS. Nhật ký hệ thống ghi lại các yêu cầu DNS sẽ bị xóa khỏi dịch vụ trong vòng 24 tiếng và chỉ được sử dụng cho mục đích phân giải DNS. [Tìm hiểu thêm](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) hoặc tham khảo các nhà cung cấp dịch vụ phân giải DNS mặc định của chúng tôi bên dưới:
+**Dữ liệu trang web cho dịch vụ Phân giải DNS**: Đối với một số người dùng Firefox, Firefox sẽ định tuyến các yêu cầu DNS tới dịch vụ phân giải đã đáp ứng [các tiêu chuẩn khắt khe về bảo mật áp dụng cho hệ thống phân giải ](https://wiki.mozilla.org/Security/DOH-resolver-policy)của Mozilla. Quy trình này giúp bảo vệ người dùng tránh được các rò rỉ bảo mật đối với các mạng nội bộ cũng như tránh được những cuộc tấn công bảo mật DNS. Nhật ký hệ thống ghi lại các yêu cầu DNS sẽ bị xóa khỏi dịch vụ trong vòng 24 tiếng và chỉ được sử dụng cho mục đích phân giải DNS. [Tìm hiểu thêm](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) hoặc tham khảo các nhà cung cấp dịch vụ phân giải DNS mặc định của chúng tôi bên dưới:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Bạn có thể tham khảo toàn bộ tài liệu [tại đây](https://firefox
 
     _Trên máy tính để bàn_: Firefox theo mặc định sẽ gửi cho Mozilla dữ liệu HTTP có thể được gộp cùng với bộ cài đặt của Firefox. Thông tin này cho phép chúng tôi xác định được miền website hoặc chiến dịch quảng cáo (nếu có) đã chỉ dẫn bạn tới trang tải về của chúng tôi. Viui lòng tham khảo [tài liệu](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) hay [ngừng tham gia](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Trên Android_: Firefox theo mặc định sẽ gửi dữ liệu chiến dịch di động cho Adjust, nhà cung cấp dịch vụ phân tích của chúng tôi mà có [chính sách quyền riêng tư riêng biệt](https://www.adjust.com/terms/privacy-policy/). Dữ liệu chiến dịch di động bao gồm ID quảng cáo trên Google, địa chỉ IP, nhãn thời gian, quốc gia, ngôn ngữ, hệ điều hành và phiên bản ứng dụng. Vui lòng tham khảo [tài liệu](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Trên thiết bị di động_: Firefox cho iOS và Android theo mặc định sẽ gửi dữ liệu chiến dịch di động cho Adjust, nhà cung cấp dịch vụ phân tích của chúng tôi mà có [chính sách quyền riêng tư riêng biệt](https://www.adjust.com/terms/privacy-policy/). Dữ liệu chiến dịch di động bao gồm ID quảng cáo trên Google, địa chỉ IP, nhãn thời gian, quốc gia, ngôn ngữ, hệ điều hành và phiên bản ứng dụng. Vui lòng tham khảo [tài liệu](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Nếu bạn sử dụng các tính năng này, Firefox sẽ chia sẻ dữ liệu để cung cấp chức năng cho bạn và giúp chúng tôi cải tiến sản phẩm và dịch vụ: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest và Top Pick (Lựa chọn Hàng đầu){: #searches }
 
 Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao thông tin của bạn hiệu quả và đỡ tốn công hơn. Đây là Firefox Suggest và phiên bản còn mới hiện tại đang khả dụng cho người dùng tại Hoa Kỳ. Theo mặc định, Firefox Suggest sẽ hiển thị cho bạn nội dung được khuyến nghị và được tài trợ dựa trên dữ liệu cục bộ được lưu trên máy tính của riêng bạn, như website từ lịch sử trình duyệt của bạn, dấu trang hay các thẻ mở. 
 
@@ -114,11 +114,11 @@ Chúng tôi thực hiện các biện pháp để hạn chế khả năng chúng
 
 Bạn có thể tham khảo tài liệu đầy đủ hoặc tìm hiểu thêm, bao gồm cách quản lý dữ liệu tài khoản Firefox hoặc thực tiễn sử dụng dữ liệu của chúng tôi đối với [các website và email](https://www.mozilla.org/privacy/websites/). Bạn cũng có thể đọc thông báo quyền riêng tư của các dịch vụ được kết nối với tài khoản Firefox của chúng tôi, bao gồm:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Đồng bộ {: #sync }
 
