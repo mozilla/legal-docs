@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">إشعار خصوصية</span> <span class="privacy-header-policy">Firefox</span>
 
-*يسري اعتبارًا من 17 نوفمبر 2021*
-{: datetime="2021-11-17" }
+*يسري اعتبارًا من 10 مارس 2022*
+{: datetime="2022-03-10" }
 
 ## نعتقد في Mozilla أن الخصوصية أساسية للإنترنت الآمن.
 
@@ -40,13 +40,13 @@
 
     تتلقى Mozilla وPocket بيانات مجمعة حول التوصيات التي تراها وتنقر عليها. كما نشارك بيانات مجمعة حول المحتوى المدعوم الذي تراه وتنقر عليه مع منصة إعلان الجهة الخارجية لدينا Adzerk حتى يتمكن المعلنون من رؤية عدد الأشخاص الذين ينقرون على مقالاتهم. ولا تعرّفك هذه البيانات المجمعة بشكل شخصي.
 
-* __أفضل المواقع__: عندما تنقر على لوحة أفضل المواقع المدعومة في علامة تبويب جديدة، نشارك بلدك ومنطقتك ومقاطعتك (إذا كانت في الولايات المتحدة الأمريكية)، والوقت الذي نقرت فيه مع AdMarketplace (منصة جهة خارجية للإحالة) للتحقق من أنك انتقلت إلى موقع الويب. ولا يشارك Firefox عنوان IP الخاص بك أو أي معلومات أخرى يمكن استخدامها للتعرّف عليك.
+* __أفضل المواقع__: عندما تنقر فوق بلاطة لأفضل المواقع المدعومة في علامة تبويب جديدة، نشارك بلدك ومنطقتك ومقاطعتك (إذا كنت في الولايات المتحدة الأمريكية)، والبلاطة التي نقرت فوقها، والوقت الذي نقرت فيه مع AdMarketplace (منصة إحالة تابعة لجهة خارجية) لتأكيد أنك انتقلت إلى موقع الويب. ولا يشارك Firefox عنوان IP الخاص بك أو أي معلومات أخرى يمكن استخدامها للتعرّف عليك.
 
 * __توصيات حول الوظائف الإضافية والميزات__: نوصي بإضافة وظائف إضافية في مكانين: صفحة إدارة الامتدادات الخاصة بك (حول:الوظائف الإضافية) والشريط المذهل، حيث تبحث أو تكتب في عناوين URL. وقد نوصي أيضًا بميزات Firefox في الشريط المذهل. ونبني التوصيات في حول:الوظائف الإضافية على ملف تعريف ارتباط. ونبني التوصيات في الشريط المذهل على تفاعلك مع Firefox. ولا تتلقى Mozilla محفوظات المستعرض. وتحدث العملية محليًا في نسخة الكمبيوتر من Firefox. اعرف المزيد عن [توصيات الشريط المذهل](https://support.mozilla.org/kb/extension-recommendations) أو [توصيات صفحة الامتدادات](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### تحسين الأمان للمستخدمين في كل مكان {: #security }
 
-**بيانات صفحة الويب إلى خدمة محلل DNS**: لبعض مستخدمي Firefox في الولايات المتحدة، يوجّه Firefox طلبات DNS إلى خدمة محلل وافقت على [معايير الخصوصية الصارمة للمحللين](https://wiki.mozilla.org/Security/DOH-resolver-policy) التي تضعها Mozilla. ويوفر هذا حماية إضافية من تسربات الخصوصية إلى الشبكات المحلية وكذلك من هجمات معينة لأمان DNS. ويتم حذف سجلات النظام الخاصة بطلبات DNS من الخدمة خلال 24 ساعة ويتم استخدامها فقط لغرض تحليل DNS. [اعرف المزيد](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) أو اطّلع على موفري خدمة محلل DNS الافتراضية أدناه:
+**بيانات صفحة الويب إلى خدمة محلل DNS**: لبعض مستخدمي Firefox، يوجه Firefox طلبات DNS إلى خدمة محلل وافقت على [معايير الخصوصية الصارمة للمحللين](https://wiki.mozilla.org/Security/DOH-resolver-policy) التي تضعها Mozilla. ويوفر ذلك حماية إضافية من تسربات الخصوصية إلى الشبكات المحلية وكذلك من هجمات معينة لأمان DNS. ويتم حذف سجلات النظام الخاصة بطلبات DNS من الخدمة خلال 24 ساعة ويتم استخدامها فقط لغرض تحليل DNS. [اعرف المزيد](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) أو اطّلع على موفري خدمة محلل DNS الافتراضية أدناه:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@
 
     _على أجهزة الكمبيوتر_: يرسل Firefox بشكلٍ افتراضي بيانات Mozilla HTTP التي قد تكون مضمنة مع مثبت Firefox. ويمكّننا هذا من تحديد مجال موقع الويب أو الحملة الإعلانية (إن وجدت) التي أحالتك إلى صفحة التنزيل الخاصة بنا. اقرأ [الوثائق](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) أو [ألغ الاشتراك](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _على أندرويد_: يرسل Firefox بشكلٍ افتراضي بيانات حملة الأجهزة الجوالة إلى Adjust، مورّد التحليلات لدينا، الذي يمتلك [سياسة خصوصية](https://www.adjust.com/terms/privacy-policy/) خاصة به. وتتضمن بيانات حملة الأجهزة الجوالة معرّف إعلان Google، وعنوان IP، والطابع الزمني، والبلد، واللغة/الإعدادات المحلية، ونظام التشغيل، وإصدار التطبيق. اقرأ [الوثائق](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _على الجهاز الجوال_: يرسل Firefox لأنظمة iOS وAndroid بشكلٍ افتراضي بيانات حملة الأجهزة الجوالة إلى Adjust، مورّد التحليلات لدينا، الذي لديه [سياسة خصوصية](https://www.adjust.com/terms/privacy-policy/) خاصة به. وتتضمن بيانات حملة الأجهزة الجوالة معرّف إعلان Google، وعنوان IP، والطابع الزمني، والبلد، واللغة/الإعدادات المحلية، ونظام التشغيل، وإصدار التطبيق. اقرأ [الوثائق](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## إذا كنت تستخدم هذه الميزات، فسيشارك Firefox البيانات ليوفر لك الوظيفة ويساعدنا على تحسين منتجاتنا وخدماتنا: {: #optional-features }
 
-### Firefox Suggest (اقتراح Firefox) {: #searches }
+### Firefox Suggest / Top Pick (اقتراحات وأفضل مختارات Firefox){: #searches }
 
 تطور Mozilla ميزة جديدة تساعد على توفير معلومات أفضل لك بمجهود أقل. وتسمى اقتراح Firefox ويوجد إصدار مبكر لها متوفر حاليا للمستخدمين في الولايات المتحدة. افتراضيًا، تعرض لك ميزة اقتراح Firefox محتوى مستحسنًا ومدعومًا بناءً على البيانات المحلية المخزنة على الكمبيوتر الخاص بك، مثل مواقع الويب من محفوظات المستعرض، والإشارات المرجعية وعلامات التبويب المفتوحة. 
 
@@ -114,11 +114,11 @@
 
 اقرأ الوثائق الكاملة أو اعرف المزيد، بما في ذلك كيفية إدارة بيانات حساب Firefox أو ممارسات البيانات الخاصة بنا [لمواقع الويب والبريد الإلكتروني](https://www.mozilla.org/privacy/websites/). يمكنك أيضًا قراءة إشعارات الخصوصية الخاصة بخدمات حساب Firefox المتصلة، وهي:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### المزامنة {: #sync }
 

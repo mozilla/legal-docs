@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Gizlilik Bildirimi</span>
 
-*Yürürlük Tarihi: 17 Kasım 2021*
-{: datetime="2021-11-17" }
+*Yürürlük Tarihi: 10 Mart 2022 Perşembe*
+{: datetime="2022-03-10" }
 
 ## Mozilla olarak gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanıyoruz.
 
@@ -40,13 +40,13 @@ Firefox; Eklenti Önerileri, Öne Çıkanlar (Mozilla’nın ilk kez Firefox kul
 
     Mozilla ve Pocket, gördüğünüz ve tıkladığınız tavsiyeler hakkında yığma veriler alır. Ayrıca reklamcıların makalelerine kaç kişinin tıkladığını görebilmesi için üçüncü taraf reklam platformumuz Adzerk ile, görüntülediğiniz ve tıkladığınız sponsorlu içerikler hakkında yığma verileri de paylaşırız. Bu yığma veriler, sizi kişisel olarak tanımlamaz.
 
-* __Öne Çıkan Siteler__: Yeni Sekme’de yer alan Sponsorlu Öne Çıkan Siteler kutucuklarına tıkladığınızda web sitesine yönlendirilmenizi doğrulamak üzere AdMarketplace (üçüncü taraf bir yönlendirme platformu) ile ülkenizi, bölgenizi, ilçenizi (ABD’deyseniz) ve tıklama tarihinizi paylaşırız. Firefox, IP adresinizi veya kimliğinizi belirlemek için kullanılabilecek diğer hiçbir bilgiyi paylaşmaz.
+* __Öne Çıkan Siteler__: Yeni Sekmesi’nde yer alan Sponsorlu Öne Çıkan Siteler kutucuğunu tıkladığınızda, web sitesine yönlendirilmenizi doğrulamak üzere AdMarketplace (üçüncü taraf bir yönlendirme platformu) ile ülkenizi, bölgenizi, ilçenizi (ABD’deyseniz), tıkladığınız kutucuğu ve tıklama tarihinizi paylaşıyoruz. Firefox, IP adresinizi veya kimliğinizi belirlemek için kullanılabilecek diğer hiçbir bilgiyi paylaşmaz.
 
 * __Eklenti ve Özellik Tavsiyeleri__: Uzantılarınızı Yönetin sayfası (about:addons) ve arama yaptığınız ya da adres yazdığınız şahane çubuk olmak üzere iki yerde eklenti tavsiye edilir. Ayrıca Awesome Çubuğunda Firefox Özellikleri de tavsiye edilir. about:addons sayfasındaki tavsiyeler çereze dayalıdır. Şahane çubuktaki tavsiyeler Firefox ile olan etkileşiminize dayalıdır. Mozilla, gezinti geçmişinize ilişkin veri toplamaz. İşlem, bilgisayarınızın Firefox kopyasında yerel olarak gerçekleşir. [Şahane çubuk tavsiyeleri](https://support.mozilla.org/kb/extension-recommendations) ve [Uzantılar sayfası önerileri](https://support.mozilla.org/kb/personalized-extension-recommendations) hakkında daha fazla bilgi alın.
 
 ### Her yerdeki kullanıcılar için güvenliği arttırma {: #security }
 
-**DNS çözümleyici hizmetine gönderilen web sayfası verileri**: Amerika Birleşik Devletleri’nde bulunan bazı Firefox kullanıcıları söz konusu olduğunda Firefox, DNS taleplerini Mozilla’nın [çözümleyicilere yönelik sıkı gizlilik standartlarını](https://wiki.mozilla.org/Security/DOH-resolver-policy) kabul etmiş olan bir çözümleyici hizmetine yönlendirir. Bu işlem, yerel ağlara yapılan gizlilik sızıntılarına ve belirli DNS güvenlik saldırılarına karşı ek koruma sağlar. DNS taleplerinizin sistem günlükleri, hizmetten 24 saat içerisinde silinir ve yalnızca DNS çözümleme amacıyla kullanılır. [Daha fazla bilgi alabilir](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) veya varsayılan DNS çözümleme hizmet sağlayıcılarımızı inceleyebilirsiniz:
+**DNS Çözümleyici hizmetine gönderilen web sayfası verileri**: Firefox; DNS taleplerini, bazı Firefox kullanıcıları söz konusu olduğunda Mozilla'nın [çözümleyicilere yönelik sıkı gizlilik standartlarını](https://wiki.mozilla.org/Security/DOH-resolver-policy) kabul etmiş olan bir çözümleyici hizmetine yönlendirir. Bu işlem, yerel ağlara yapılan gizlilik sızıntılarına ve belirli DNS güvenlik saldırılarına karşı ek koruma sağlar. DNS taleplerinizin sistem günlükleri, hizmetten 24 saat içerisinde silinir ve yalnızca DNS çözümleme amacıyla kullanılır. [Daha fazla bilgi edinin](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) veya aşağıdan varsayılan DNS çözümleme hizmet sağlayıcılarımızı görüntüleyin:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
     _Masaüstünde_: Firefox, varsayılan olarak Mozilla’ya Firefox’un kurulum aracında yer alabilecek olan HTTP verilerini gönderir. Bu sayede sizi indirme sayfamıza yönlendiren web sitesi alan adı ya da reklam kampanyasını (varsa) belirleyebiliriz. [Belgeleri](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) okuyabilir veya kurulumdan önce bunlardan [vazgeçebilirsiniz](https://support.mozilla.org/kb/desktop-privacy).
 
-    _Android’de_: Firefox, varsayılan olarak mobil kampanya verilerini, kendi [gizlilik ilkesi](https://www.adjust.com/terms/privacy-policy/) olan analiz sağlayıcımız Adjust’a gönderir. Mobil kampanya verilerine Google reklam kimliği, IP adresi, zaman damgası, ülke, dil/konum, işletim sistemi ve uygulama sürümü bilgileri dahildir. [Belgeyi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) okuyun.
+    _Mobilde_: iOS ve Android için Firefox, varsayılan olarak mobil kampanya verilerini kendi [gizlilik ilkesi](https://www.adjust.com/terms/privacy-policy/) olan analiz sağlayıcımız Adjust’a gönderir. Mobil kampanya verilerine Google reklam kimliği, IP adresi, zaman damgası, ülke, dil/konum, işletim sistemi ve uygulama sürümü bilgileri dahildir. [Belgeyi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) okuyun.
 {: #thirdparty }
 
 ---
 
 ## Aşağıdaki özellikleri kullanırsanız Firefox size işlevsellik sunmak, ürünlerimizi ve hizmetlerimizi iyileştirmemize yardımcı olmak için bazı verileri paylaşacaktır: {: #optional-features }
 
-### Firefox Önerileri {: #searches }
+### Firefox Önerisi ve En İyi Seçim{: #searches }
 
 Mozilla size daha az çabayla daha iyi bilgiler sunmamızı sağlayan yeni bir özellik geliştiriyor. Firefox Önerileri adındaki bu yeni özelliğin ilk sürümü ABD’de kullanıcılara sunuldu. Varsayılan olarak, Firefox Önerileri, gezinti geçmişinizdeki web siteleri, yer imleri ve açık sekmeler gibi kendi bilgisayarınızda depolanan yerel verilere dayalı olarak önerilen ve sponsorlu içeriği gösterir. 
 
@@ -114,11 +114,11 @@ Hem iş ortaklarımızın hem de bizim kimliğinizi belirleme olanağımızı s�
 
 Firefox Hesabı verilerinizin yönetimi veya [web sitelerine ve e-postaya](https://www.mozilla.org/privacy/websites/) ilişkin veri uygulamalarımız dahil olmak üzere birçok konudaki belgelerimizi okuyun ya da daha fazla bilgi alın. Ayrıca Firefox Hesabına bağlı aşağıdaki hizmetlerimize ilişkin gizlilik bildirimlerini okuyabilirsiniz:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 

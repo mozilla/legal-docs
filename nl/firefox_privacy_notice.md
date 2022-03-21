@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacykennisgeving</span>
 
-*Van kracht vanaf woensdag 17 november 2021*
-{: datetime="2021-11-17" }
+*Van kracht vanaf 10 maart 2022*
+{: datetime="2022-03-10" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -40,13 +40,13 @@ Firefox geeft inhoud weer, zoals aanbevolen add-ons, Top Sites (door Mozilla voo
 
     Mozilla en Pocket ontvangen samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Verder delen we samengevoegde gegevens over de gesponsorde inhoud die u ziet en waarop u klikt met ons externe advertentieplatform Adzerk, zodat adverteerders kunnen zien hoeveel mensen op hun artikelen klikken. U kunt niet persoonlijk worden geïdentificeerd aan de hand van deze samengevoegde gegevens.
 
-* __Top Sites__: Als u klikt op een gesponsorde tegel van Top Sites in een nieuw tabblad, delen we uw land, regio, staat (als u zich in de VS bevindt) en de tijd waarop u hebt geklikt met AdMarketplace (een extern platform voor doorverwijzingen) om te verifiëren dat u naar de website bent gegaan. Firefox deelt uw IP-adres of andere informatie waarmee u kunt worden worden geïdentificeerd niet.
+* __Top Sites__: Als u klikt op een gesponsorde tegel van Top Sites in een nieuw tabblad, delen we uw land, regio, staat (als u zich in de VS bevindt), de tegel waarop u hebt geklikt en de tijd waarop u hebt geklikt met AdMarketplace (een extern platform voor doorverwijzingen) om te verifiëren dat u naar de website bent gegaan. Firefox deelt uw IP-adres of andere informatie waarmee u kunt worden worden geïdentificeerd niet.
 
 * __Aanbevolen add-ons en functies__: Add-ons worden op twee plaatsen aanbevolen: op de pagina Manage Your Extensions (about:addons) en op de balk Awesome. Met deze laatste kunt u zoeken en hierop kunt u URL's invoeren. We kunnen ook Firefox-functies aanbevelen op de balk Awesome. We baseren de aanbevelingen in about:addons op een cookie. We baseren de aanbevelingen op de balk Awesome op uw interactie met Firefox. Uw browsergeschiedenis wordt niet door Mozilla ontvangen. Deze bevindt zich uitsluitend in het exemplaar van Firefox op uw computer. Meer informatie over [aanbevelingen van de balk Awesome](https://support.mozilla.org/kb/extension-recommendations) of [aanbevelingen op de pagina voor extensies](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Beveiliging verbeteren voor alle gebruikers {: #security }
 
-**Webpaginagegevens naar de DNS Resolver-service**: Voor sommige gebruikers in de Verenigde Staten stuurt Firefox de DNS-aanvragen naar een resolverservice die heeft ingestemd met de [strikte privacynormen van Mozilla voor resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). Dit biedt extra bescherming tegen privacyschendingen op lokale netwerken en ook tegen bepaalde DNS-beveiligingsaanvallen. Systeemlogboeken van uw DNS-aanvragen worden binnen 24 uur van de service verwijderd en worden alleen gebruikt voor DNS-omzetting. [Lees meer](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) of bekijk onze standaardprovider voor DNS-resolverservices hieronder:
+**Webpaginagegevens naar de DNS Resolver-service**: Voor sommige gebruikers stuurt Firefox de DNS-aanvragen naar een resolverservice die heeft ingestemd met de [strikte privacynormen van Mozilla voor resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). Dit biedt extra bescherming tegen privacyschendingen op lokale netwerken en ook tegen bepaalde DNS-beveiligingsaanvallen. Systeemlogboeken van uw DNS-aanvragen worden binnen 24 uur van de service verwijderd en worden alleen gebruikt voor DNS-omzetting. [Lees meer](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) of bekijk onze standaardprovider voor DNS-resolverservices hieronder:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
     _Op desktop_: Firefox verzendt standaard HTTP-gegevens aan Mozilla die mogelijk zijn opgenomen in het installatieprogramma van Firefox. Deze gegevens stellen ons in staat te bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Op Android_: Firefox verzendt standaard mobiele campagnegegevens aan Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Op mobiele apparaten_: Firefox voor iOS en Android verzendt standaard mobiele campagnegegevens aan Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Als u deze functies gebruikt, deelt Firefox gegevens om de functionaliteit mogelijk te maken en onze producten en diensten te verbeteren: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest en Top Pick{: #searches }
 
 Mozilla ontwikkelt een nieuwe functie waarmee u sneller betere informatie kunt vinden. We noemen de functie Firefox Suggest. Gebruikers in de Verenigde Staten hebben momenteel toegang tot een vroege versie. Standaard toont Firefox Suggest u aanbevolen en gesponsorde inhoud op basis van lokale gegevens die op uw eigen computer zijn opgeslagen, zoals websites uit uw browsegeschiedenis, bladwijzers en geopende tabbladen. 
 
@@ -114,11 +114,11 @@ We hebben maatregelen getroffen om ons vermogen en dat van onze partners te bepe
 
 Lees alle documentatie of kom te weten hoe u de gegevens van uw Firefox-account of onze gegevenspraktijken beheert voor [websites en e-mail](https://www.mozilla.org/privacy/websites/). U kunt ook de privacymeldingen lezen voor de aan uw Firefox-account gekoppelde services, te weten:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Synchronisatie {: #sync }
 

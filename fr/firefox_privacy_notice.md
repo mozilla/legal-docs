@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Politique de confidentialité</span>
 
-*Date d’effet : mercredi 17 novembre 2021*
-{: datetime="2021-11-17" }
+*Date d’effet : jeudi 10 mars 2022*
+{: datetime="2022-03-10" }
 
 ## Chez Mozilla, nous pensons que la vie privée est fondamentale pour sécuriser Internet.
 
@@ -40,13 +40,13 @@ Firefox affiche des contenus tels que : Recommandations d’extensions, Sites p
 
     Mozilla et Pocket reçoivent des données regroupées sur les recommandations que vous voyez et sur lesquelles vous cliquez. Nous partageons en outre des données regroupées relatives au contenu commercial que vous voyez et sur lequel vous cliquez grâce à Adzerk, notre plateforme publicitaire tierce, afin que les annonceurs voient combien de personnes ont cliqué sur leurs liens. Ces données regroupées ne permettent pas de vous identifier personnellement.
 
-* __Sites principaux__ : Lorsque vous cliquez sur la mosaïque Sites principaux sponsorisés d’Amazon.com dans un nouvel onglet, nous partageons votre pays (et état et comté aux USA) et la date/l’heure de votre clic avec AdMarketplace (une plateforme de recommandations tierce) pour vérifier que vous êtes allé sur Amazon. Firefox ne partage pas votre adresse IP ni aucune autre information qui pourrait être utilisée pour vous identifier.
+* __Sites principaux__ : Lorsque vous cliquez sur la mosaïque Sites principaux sponsorisés dans un nouvel onglet, nous partageons votre pays (et état et comté aux USA), la mosaïque sur laquelle vous avez cliqué et la date/l’heure de votre clic avec AdMarketplace (une plateforme de recommandations tierce) pour vérifier que vous êtes allé sur le site web. Firefox ne partage pas votre adresse IP ni aucune autre information qui pourrait être utilisée pour vous identifier.
 
 * __Recommandations d’extensions et de fonctionnalités__: Nous recommandons l’utilisation d’extensions à deux emplacements : la page Gestion de vos extensions (about:addons) et la barre d’adresse intelligente, dans laquelle vous pouvez rechercher ou saisir des URL. Nous pouvons également recommander des fonctionnalités Firefox dans la barre d’adresse intelligente. Nous basons nos recommandations dans about:addons sur un cookie. Nous basons nos recommandations dans la barre d’adresse intelligente sur vos interactions avec Firefox. Mozilla ne reçoit pas votre historique de navigation. Le processus opère localement dans la copie de Firefox installée sur votre ordinateur. En savoir plus sur les [recommandations de la barre d’adresse intelligente](https://support.mozilla.org/kb/extension-recommendations) ou celles de la page [Extensions recommandées](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Améliorer la sécurité des utilisateurs du monde entier{: #security }
 
-**Données de pages Web vers service de résolution DNS** : Pour certains utilisateurs de Firefox aux États-Unis, Firefox dirige les demandes DNS vers un service de résolution qui s’est engagé à respecter les [normes de confidentialité strictes pour les services de résolution](https://wiki.mozilla.org/Security/DOH-resolver-policy). Cela apporte aux réseaux locaux une couche de sécurité supplémentaire contre les violations de la vie privée et protège également contre certaines attaques contre le DNS. Les fichiers journaux de vos demandes DNS sont supprimés du service dans les 24 heures et ne sont utilisés qu’à des fins de résolution DNS. [En savoir plus ici](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers), ou auprès de nos prestataires de service de résolution DNS ci-dessous :
+**Données de pages Web vers service de résolution DNS** : Pour certains utilisateurs de Firefox, Firefox dirige les demandes DNS vers un service de résolution qui s’est engagé à respecter les [normes de confidentialité strictes de Mozilla pour les services de résolution](https://wiki.mozilla.org/Security/DOH-resolver-policy). Cela apporte aux réseaux locaux une couche de sécurité supplémentaire contre les violations de la vie privée et protège également contre certaines attaques contre le DNS. Les fichiers journaux de vos demandes DNS sont supprimés du service dans les 24 heures et ne sont utilisés qu’à des fins de résolution DNS. [En savoir plus ici](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers), ou auprès de nos prestataires de service de résolution DNS ci-dessous :
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
     _Sur ordinateur_ : Par défaut, Firefox envoie à Mozilla les données HTTP qui peuvent être incluses avec le programme d’installation de Firefox. Cela nous permet de déterminer le domaine ou la campagne publicitaire (le cas échéant) du site Web qui vous a dirigé vers notre page de téléchargement. Lisez la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [annulez](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Sur Android_ : Par défaut, Firefox envoie des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/). Les données de campagne mobiles incluent ce qui suit : ID de publicité Google, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Sur les mobiles_ : Par défaut, Firefox for iOS et Android envoient des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/). Les données de campagne mobiles incluent ce qui suit : ID de publicité Google, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Si vous utilisez ces fonctionnalités, Firefox partagera les données obtenues pour vous offrir d’autres fonctionnalités et nous aider à améliorer nos produits et services : {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest et Top Pick{: #searches }
 
 Mozilla est en train de développer une nouvelle fonctionnalité destinée à vous fournir de meilleures informations plus facilement. Elle s’appelle Firefox Suggest et une version est disponible en avant-première pour les utilisateurs aux USA. Par défaut, Firefox Suggest vous présente du contenu recommandé et sponsorisé en fonction des données stockées localement sur votre ordinateur, par exemple les sites Web de votre historique de navigation, de vos marque-pages et de vos onglets ouverts. 
 
@@ -114,11 +114,11 @@ Nous mettons tout en œuvre pour que vous ne soyez pas identifié (par nous ou n
 
 Lisez la documentation complète ou apprenez-en davantage, notamment sur la gestion des données de votre compte Firefox ou nos pratiques en matière de données pour les [sites Web et l’email](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité de nos services associés aux comptes Firefox, à savoir :
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 

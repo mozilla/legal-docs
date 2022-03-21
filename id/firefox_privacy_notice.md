@@ -1,7 +1,7 @@
 ﻿## Pemberitahuan Privasi <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*Berlaku 17 November 2021*
-{: datetime="2021-11-17" }
+*Berlaku 10 Maret 2022*
+{: datetime="2022-03-10" }
 
 ## Di Mozilla, kami meyakini bahwa privasi adalah fundamental internet sehat.
 
@@ -40,13 +40,13 @@ Firefox menampilkan konten, seperti Rekomendasi Pengaya, Situs Populer (situs we
 
     Mozilla dan Pocket menerima kumpulan data rekomendasi yang Anda lihat dan klik. Kami juga membagikan kumpulan data konten sponsor yang Anda lihat dan klik dengan platform iklan pihak ketiga, Adzerk, sehingga pengiklan bisa melihat jumlah orang yang mengeklik artikel mereka. Kumpulan data ini tidak bisa mengidentifikasi Anda secara pribadi.
 
-* __Situs Populer__: Jika Anda mengeklik tile Situs Populer Bersponsor di Tab Baru, kami akan membagikan negara, wilayah, dan negara bagian (jika Anda tinggal di AS), serta waktu klik Anda kepada AdMarketplace (platform rujukan pihak ketiga) untuk memverifikasi bahwa Anda telah membuka situs web. Firefox tidak membagikan alamat IP atau informasi lain yang dapat digunakan untuk mengidentifikasi Anda.
+* __Situs Populer__: Jika Anda mengeklik tile Situs Teratas Bersponsor pada Tab Baru, kami akan membagikan negara, wilayah, negara bagian (jika tinggal di AS), tile yang diklik, dan waktu Anda mengeklik kepada AdMarketplace (platform referensi pihak ketiga) untuk memverifikasi Anda telah mengunjungi situs web tersebut. Firefox tidak membagikan alamat IP atau informasi lain yang dapat digunakan untuk mengidentifikasi Anda.
 
 * __Rekomendasi Pengaya dan Fitur__: Kami merekomendasikan Pengaya di dua tempat: Halaman Kelola Ekstensi Anda (about:addons) dan Bilah URL, tempat Anda mencari atau mengetik di URL. Kami juga merekomendasikan Fitur Firefox di Bilah URL. Rekomendasi kami di about:addons didasarkan pada cookie. Rekomendasi kami di Bilah URL didasarkan pada interaksi Anda dengan Firefox. Mozilla tidak menerima riwayat penjelajahan Anda. Proses tersebut terjadi secara lokal di salinan Firefox komputer Anda. Pelajari Selengkapnya tentang [rekomendasi Bilah URL ](https://support.mozilla.org/kb/extension-recommendations) atau [rekomendasi Halaman Ekstensi](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Meningkatkan keamanan pengguna di mana pun {: #security }
 
-**Data Webpage untuk layanan DNS Resolver**: Bagi beberapa pengguna Firefox di Amerika Serikat, Firefox mengirimkan permintaan DNS ke layanan resolver yang telah menyetujui [standar ketat privasi untuk resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy). Proses ini memberikan perlindungan tambahan dari kebocoran privasi ke jaringan lokal dan juga dari serangan keamanan DNS tertentu. Log sistem permintaan DNS dihapus dari layanan dalam waktu 24 jam dan hanya digunakan untuk tujuan resolusi DNS. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) atau lihat penyedia layanan DNS resolver default berikut:
+**Data Webpage untuk layanan DNS Resolver**: Bagi beberapa pengguna, Firefox mengirimkan permintaan DNS kepada layanan resolver yang telah menyetujui [standar privasi ketat untuk resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy) Mozilla. Proses ini memberikan perlindungan tambahan dari kebocoran privasi ke jaringan lokal dan juga dari serangan keamanan DNS tertentu. Log sistem permintaan DNS dihapus dari layanan dalam waktu 24 jam dan hanya digunakan untuk tujuan resolusi DNS. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) atau lihat penyedia layanan DNS resolver default berikut:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 
     _Di Desktop_: Secara default Firefox mengirim data HTTP Mozilla yang mungkin mencakup penginstal Firefox. Ini memungkinkan kami untuk menentukan domain situs web atau kampanye iklan (jika ada) yang merujuk Anda ke halaman unduh kami. Baca [dokumentasi](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [tolak](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Di Android_: Firefox secara default mengirim data kampanye seluler ke Adjust, vendor analitik kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Jika Anda menggunakan fitur-fitur ini, Firefox akan membagikan data untuk menyediakan fungsionalitas dan membantu kami meningkatkan produk dan layanan: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest dan Top Pick{: #searches }
 
 Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanpa susah payah. Fitur ini disebut Firefox Suggest dan versi awalnya tersedia bagi pengguna di Amerika Serikat. Secara baku, Firefox Suggest menunjukkan kepada Anda konten yang direkomendasikan dan bersponsor berdasarkan data lokal yang disimpan di komputer Anda sendiri, seperti situs web dari riwayat penjelajahan Anda, bookmark, dan tab yang dibuka. 
 
@@ -114,11 +114,11 @@ Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [
 
 Baca dokumentasi lengkap atau pelajari lebih lanjut, termasuk cara mengelola data Akun Firefox Anda atau praktik data kami untuk [situs web dan email](https://www.mozilla.org/privacy/websites/). Anda juga bisa membaca pemberitahuan privasi untuk layanan yang terhubung dengan Akun Firefox, yaitu:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sinkronisasi {: #sync }
 
