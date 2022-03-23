@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-*Gültig ab 17. November 2021*
-{: datetime="2021-11-17" }
+*Gültig ab 10. März 2022*
+{: datetime="2022-03-10" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -40,13 +40,13 @@ Firefox zeigt Inhalte wie beispielsweise Add-on-Empfehlungen, meistbesuchte Seit
 
     Mozilla und Pocket erhalten aggregierte Daten zu den Empfehlungen, die Ihnen angezeigt werden und auf die Sie klicken. Außerdem teilen wir aggregierte Daten über die gesponserten Inhalte, die Ihnen angezeigt werden und auf die Sie klicken, mit unserer Drittanbieter-Anzeigenplattform Adzerk, damit Werbetreibende sehen können, wie viele Personen auf ihre Artikel klicken. Über diese aggregierten Daten können Sie als Person nicht identifiziert werden.
 
-* __Meistbesuchte Seiten__: Wenn Sie auf „Neuer Tab“ unter „Meistbesuchte Seiten“ auf die Kachel einer gesponserten Website klicken, teilen wir Angaben zu Ihrem Land, Ihrer Region, ihrem County (soweit Sie in den USA ansässig sind) und den Zeitpunkt, zu dem Sie auf die Kachel geklickt haben, mit AdMarketplace (einer Drittanbieter-Empfehlungsplattform), um nachzuweisen, dass Sie die betreffende Website aufgerufen haben. Firefox teilt weder Ihre IP-Adresse noch sonstige Angaben, die Ihre Identifizierung ermöglichen könnten.
+* __Meistbesuchte Seiten__: Wenn Sie auf „Neuer Tab“ unter „Meistbesuchte Seiten“ auf die Kachel einer gesponserten Website klicken, teilen wir Angaben zu Ihrem Land, Ihrer Region, Ihrem County (soweit Sie in den USA ansässig sind), der von Ihnen angeklickten Kachel und den Zeitpunkt, zu dem Sie mit AdMarketplace (einer Drittanbieter-Empfehlungsplattform) geklickt haben, um nachzuweisen, dass Sie die betreffende Website aufgerufen haben. Firefox teilt weder Ihre IP-Adresse noch sonstige Angaben, die Ihre Identifizierung ermöglichen könnten.
 
 * __Add-on- und Funktionsempfehlungen__: Wie empfehlen Add-ons an zwei Stellen: der Seite zur Verwaltung Ihrer Erweiterungen (about:addons) und der Adressleiste, wo Sie URLs suchen oder eingeben können. Wir empfehlen evtl. Firefox-Funktionen auch in der Adressleiste. Die Empfehlungen in about:addons basieren auf einem Cookie. Die Empfehlungen in der Adressleiste basieren auf Ihrer Interaktion mit Firefox. Mozilla erhält Ihre Browser-Chronik nicht. Der Vorgang findet lokal in der Kopie von Firefox auf Ihrem Computer statt. Weitere Informationen über [Adressleisten-Empfehlungen](https://support.mozilla.org/kb/extension-recommendations) oder [Empfehlungen auf der Erweiterungsseite](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Verbesserte Sicherheit für Benutzer überall {: #security }
 
-**Webseitendaten an DNS-Resolver-Service**: Für manche Firefox-Benutzer in den USA leitet Firefox DNS-Anfragen an einen Resolver-Dienstanbieter weiter, der zugestimmt hat, sich an die [strikten Datenschutznormen für Resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy) von Mozilla zu halten. Dies bietet einen zusätzlichen Schutz vor Datenschutzverletzungen in lokalen Netzwerken und auch vor bestimmten DNS-Sicherheitsangriffen. Die Systemprotokolle Ihrer DNS-Anfragen werden innerhalb von 24 Stunden aus dem Service gelöscht und nur zur DNS-Auflösung eingesetzt. [Weitere Informationen](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) oder informieren Sie sich bei unseren Standard-DNS-Resolver-Dienstanbietern:
+**Webseitendaten an DNS-Resolver-Service**: Für manche Firefox-Benutzer leitet Firefox DNS-Anfragen an einen Resolver-Dienstanbieter weiter, der zugestimmt hat, sich an die [strikten Mozilla-Datenschutznormen für Resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy) zu halten. Dies bietet einen zusätzlichen Schutz vor Datenschutzverletzungen in lokalen Netzwerken und auch vor bestimmten DNS-Sicherheitsangriffen. Die Systemprotokolle Ihrer DNS-Anfragen werden innerhalb von 24 Stunden aus dem Service gelöscht und nur zur DNS-Auflösung eingesetzt. [Weitere Informationen](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) oder informieren Sie sich bei unseren Standard-DNS-Resolver-Dienstanbietern:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
     _Desktop_: Firefox sendet standardmäßig HTTP-Daten an Mozilla, die im Firefox-Installationsprogramm enthalten sein können. Dadurch können wir die Website-Domain oder ggf. die Werbekampagne ermitteln, die Sie auf unsere Download-Seite verwiesen hat. Lesen Sie die [Dokumentation ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oder [melden Sie sich von dieser Funktion ab](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Unter Android_: Firefox sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat. Mobilkampagnendaten umfassen eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Mobil_: Firefox für iOS und Android sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat. Mobilkampagnendaten umfassen eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
 
 ## Falls Sie diese Features verwenden, wird Firefox Daten teilen, um Ihnen bestimmte Funktionen bereitzustellen und unsere Produkte und Services zu verbessern: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest und Top Pick{: #searches }
 
 Mozilla entwickelt gegenwärtig eine neue Funktion, mit der Sie mit weniger Aufwand bessere Informationen erhalten. Diese Funktion heißt Firefox Suggest. Eine frühe Version von Firefox Suggest steht Nutzern in den Vereinigten Staaten bereits zur Verfügung. Passend zu lokalen Daten, die auf Ihrem Computer gespeichert sind (z. B. Websites in Ihrem Browserverlauf, Lesezeichen und offene Tabs), zeigt Ihnen Firefox Suggest standardmäßig empfohlene und gesponserte Inhalte an. 
 
@@ -114,11 +114,11 @@ Zur Beschränkung unserer Möglichkeiten wie auch der unserer Partner, Ihre Iden
 
 Lesen Sie die vollständige Dokumentation oder erhalten Sie weitere Informationen, z. B. zur Verwaltung Ihrer Firefox-Kontodaten oder zu unseren Datenpraktiken für [Websites und E-Mail](https://www.mozilla.org/privacy/websites/). Sie können auch die Datenschutzhinweise zu den mit Ihrem Firefox-Konto verbundenen Services lesen. Dabei handelt es sich um:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sync {: #sync }
 

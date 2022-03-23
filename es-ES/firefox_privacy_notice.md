@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Aviso de privacidad</span> <span class="privacy-header-policy">de Firefox</span>
 
-*Vigente desde el miércoles, 17 de noviembre de 2021*
-{: datetime="2021-11-17" }
+*Vigente desde el jueves, 10 de marzo de 2022*
+{: datetime="2022-03-10" }
 
 ## En Mozilla, consideramos que la privacidad es fundamental para tener un Internet sano.
 
@@ -40,13 +40,13 @@ Firefox muestra contenido como recomendaciones de complementos, sitios populares
 
     Lo que sí recibimos son datos agregados sobre las recomendaciones que ve y con las que interactúa. Compartimos también datos agregados con nuestra plataforma publicitaria de terceros Adzerk acerca del contenido patrocinado que usted ve y con el que interactúa, para que los anunciantes puedan conocer el número de personas que ve y hace clic en sus artículos. Estos datos agregados no revelan su identidad.
 
-* __Datos de sitios populares__: Cuando hace clic en el icono de un sitio web popular patrocinado en Nueva pestaña, compartimos su país, región y la hora en que hizo clic con AdMarketplace (una plataforma de referencia de terceros) para verificar que visitó dicho sitio web. Firefox no comparte su dirección IP ni ninguna otra información que pueda servir para identificarle.
+* __Datos de sitios populares__: Cuando hace clic en el icono de un sitio web popular patrocinado en Nueva pestaña, compartimos con AdMarketplace (una plataforma de referencia de terceros) información sobre su país, región, condado (si se encuentra en EE. UU), el icono en el que hizo clic y la hora a la que lo hizo a fin de verificar que visitó dicho sitio web. Firefox no comparte su dirección IP ni ninguna otra información que pueda servir para identificarle.
 
 * __Datos de recomendaciones de complementos y funciones__: Podrá encontrar nuestras recomendaciones de complementos en dos lugares, la página para administrar sus complementos (about:addons) y la Barra alucinante, donde puede buscar o introducir las direcciones URL. Podemos mostrarle funciones de Firefox también a través de La Barra alucinante. Las recomendaciones mostradas en «about:addons» se realizan en base a una cookie. Las recomendaciones mostradas en la Barra alucinante se realizan en función de su interacción con Firefox. Mozilla no recibe su historial de navegación. Se trata de un proceso local que ocurre en el navegador de Firefox instalado en su ordenador. Para más información, consulte las [recomendaciones de la Barra alucinante](https://support.mozilla.org/kb/extension-recommendations) o las [recomendaciones de la página Extensiones](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
 ### Mejorar la seguridad para todos los usuarios {: #security }
 
-**Datos de páginas web para el servicio de resolución de DNS**: Para algunos usuarios de Firefox en los Estados Unidos, Firefox enruta las solicitudes de DNS a un servicio de resolución que ha aceptado [los estrictos estándares de privacidad de Mozilla para las resoluciones](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan para la resolución de DNS. [Visite la siguiente página para obtener más información](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o consulte las páginas de nuestros proveedores predeterminados de servicios de resolución de DNS indicadas a continuación:
+**Datos de páginas web para el servicio de resolución de DNS**: Para algunos usuarios de Firefox, Firefox dirige las solicitudes de DNS a un servicio de resolución que cumple [las estrictas normas de privacidad establecidas por Mozilla para los servicios de resolución de DNS](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan con fines de resolución de DNS. [Para obtener información detallada, visite la siguiente página ](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o consulte las páginas web de nuestros proveedores predeterminados de servicios de resolución de DNS indicadas a continuación:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Puede consultar los documentos completos [aquí](https://firefox-source-docs.moz
 
     _En ordenadores de escritorio_: Firefox envía por defecto datos HTTP a Mozilla que pueden estar incluidos en el instalador de Firefox. Esto nos permite determinar el dominio del sitio web o campaña de publicidad (si procede) que le envió a nuestra página de descarga. Consulte los [documentos relacionados](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) o visite [está página](https://support.mozilla.org/kb/desktop-privacy) before installation para inhabilitar el servicio.
 
-    _En sistemas Android_: Firefox envía por defecto datos de campañas móviles a Adjust, nuestro proveedor de análisis de datos, que tiene su propia [política de privacidad](https://www.adjust.com/terms/privacy-policy/). Los datos de la campaña móvil incluyen una identificación de publicidad de Google, dirección IP, fecha y hora, país, idioma/configuración regional, sistema operativo y versión de la aplicación. Para más información, consulte los [documentos relacionados](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Datos de dispositivos móviles_: Firefox para iOS y Android envía por defecto datos de campañas móviles a Adjust, nuestro proveedor de análisis de datos, que tiene su propia [política de privacidad](https://www.adjust.com/terms/privacy-policy/). Los datos de la campaña móvil incluyen una identificación de publicidad de Google, dirección IP, fecha y hora, país, idioma, configuración regional, sistema operativo y versión de la aplicación. Consulte la [documentación](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) para más información.
 {: #thirdparty }
 
 ---
 
 ## Si usa estas funciones, Firefox compartirá datos para proporcionarle funcionalidad y ayudarnos a mejorar nuestros productos y servicios: {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest y Top Pick{: #searches }
 
 Mozilla está desarrollando una nueva función que nos permitirá proporcionarle con mayor facilidad información más relevante. Se llama Firefox Suggest y actualmente hay una versión temprana disponible para los usuarios en los Estados Unidos. Firefox Suggest le muestra, por defecto, recomendaciones y contenido patrocinado en base a los datos locales guardados en su ordenador, como los sitios web de su historial de navegación, marcadores y pestañas abiertas. 
 
@@ -114,11 +114,11 @@ Tomamos todas las medidas necesarias para reducir el riesgo de que usted sea ide
 
 Lea los documentos completos u obtenga más información al respecto, como instrucciones para gestionar los datos de su cuenta de Firefox o nuestras prácticas relacionadas con datos de [sitios web y correo electrónico](https://www.mozilla.org/privacy/websites/). Además, puede leer los avisos de privacidad para los servicios conectados a cuentas de Firefox, como por ejemplo:
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### Sincronizar {: #sync }
 

@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2021 年 11 月 17 日生效*
-{: datetime="2021-11-17" }
+*2022 年 03 月 10 日生效*
+{: datetime="2022-03-10" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -40,13 +40,13 @@ Firefox 会显示内容，例如附加组件建议、热门站点（Mozilla 为�
 
 Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数据。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商可以看到有多少人点击了他们的文章。此汇总数据不会识别您的个人身份。
 
-* __热门站点__：当您在新标签页点击推广热门站点磁贴时，我们将与 AdMarketplace（第三方推荐平台）共享您所在的国家、地区、县（如果位于美国）和点击时间，以验证您是否已导航到网站。Firefox 不会共享您的 IP 地址或任何其他可用来识别您身份的信息。
+* __热门站点__：当您在新标签页点击推广热门站点磁贴时，我们将与 AdMarketplace（第三方推荐平台）共享您所在的国家、地区、县（如果位于美国），点击的磁贴和点击时间，以验证您是否已导航到网站。Firefox 不会共享您的 IP 地址或任何其他可用来识别您身份的信息。
 
 * __附加组件和功能推荐__：我们在两个位置推荐附加组件：管理您的扩展页面 (about:addons) 和 Awesome Bar，在这里您可以搜索或输入 URL。我们还可能在 Awesome Bar 中推荐 Firefox 功能。我们根据 cookie 在 about:addons 中作出推荐。我们根据您与 Firefox 的交互，在 Awesome Bar 中作出推荐。Mozilla 不会收集您的浏览器历史记录。该过程在您自己计算机上的 Firefox 副本中本地进行。了解更多关于 [Awesome Bar 推荐](https://support.mozilla.org/kb/extension-recommendations)或[扩展页面推荐](https://support.mozilla.org/kb/personalized-extension-recommendations)的信息。
 
 ### 为各地用户提高安全性 {: #security }
 
-**针对 DNS 解析器服务的网页数据**：对于美国的部分 Firefox 用户，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[了解更多信息](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看以下我们默认的 DNS 解析器服务提供商：
+**针对 DNS 解析器服务的网页数据**：对于部分 Firefox 用户，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[了解更多信息](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看以下我们默认的 DNS 解析器服务提供商：
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -79,14 +79,14 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
     _桌面版本_：默认情况下，Firefox 会发送 Mozilla HTTP 数据，该数据可能包含在 Firefox 安装程序中。我们可以通过它来确定推荐您访问下载页面的网站域名或广告活动（如果有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或[退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-    _Android 版本_：默认情况下，Firefox 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
+    _移动端_：默认情况下，Firefox for iOS 和 Android 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
 {: #thirdparty }
 
 ---
 
 ## 如果您使用这些功能，Firefox 将共享数据，为您提供功能并帮助我们改进产品和服务： {: #optional-features }
 
-### Firefox Suggest {: #searches }
+### Firefox Suggest 和 Top Pick{: #searches }
 
 Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息。我们称之为 Firefox Suggest，早期版本现已面向美国用户开放使用。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡。
 
@@ -114,11 +114,11 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 阅读完整文档或了解更多信息，包括如何管理您的 Firefox 帐户数据或我们的[网站和电子邮件](https://www.mozilla.org/privacy/websites/)数据实践。您也可以阅读我们的 Firefox 帐户连接服务隐私声明，如下所示：
 
-* [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-* [Firefox Send](http://send.firefox.com/legal)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+* [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+* [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 
 ### 同步 {: #sync }
 
