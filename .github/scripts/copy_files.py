@@ -9,8 +9,13 @@ def split_files(files):
 
 
 def copy_files(filename, dest):
+    """Copy all language versions of `filename` to `dest`
+
+    Copy includes language folder.
+    """
     dest_path = Path(dest)
     src_path = Path(".")
+    num_files = 0
     if filename == "ALL":
         file_paths = src_path.glob(f"*/*.md")
     else:
@@ -21,13 +26,28 @@ def copy_files(filename, dest):
         dest_locale_dir.mkdir(exist_ok=True)
         shutil.copy(fp, dest_locale_dir)
         print(fp)
+        num_files += 1
+
+    return num_files
 
 
 def main(files, dest):
+    num_files = 0
     files_list = split_files(files)
+    if "ALL" in files_list and len(files_list) > 1:
+        # no need for any other action
+        files_list = ["ALL"]
+
     for fn in files_list:
-        copy_files(fn, dest)
+        num_copied = copy_files(fn, dest)
+        num_files += num_copied
+        if num_copied == 0:
+            # if any of the search terms returns nothing throw an error
+            return f"No files found matching {fn}"
+
+    print(f"Successfully copied {num_files} files")
+    return 0  # success
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    sys.exit(main(*sys.argv[1:]))

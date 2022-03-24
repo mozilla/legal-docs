@@ -22,9 +22,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: "clone"
-          # We always care about comparing the default branch against
-          # l10n_reference, even when action is triggered by changes in the
-          # latter.
           ref: "master"
       - name: Set up Python 3
         uses: actions/setup-python@v2
@@ -40,7 +37,9 @@ jobs:
           git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
 
           # Use temporary folder to store files from the default branch
-          TMP_DIR=$(mktemp)
+          TMP_DIR="../temp_files"
+          mkdir "$TMP_DIR"
+
           # Copy files, excluding scripts and workflows
           python .github/scripts/copy_files.py "${{ github.event.inputs.files }}" "$TMP_DIR"
 
