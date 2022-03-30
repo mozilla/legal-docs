@@ -1,73 +1,77 @@
-# Privacyverklaring voor websites, communicatie en cookies
+﻿# Privacyverklaring voor websites, communicatie en cookies
 
-15 maart 2019
-{: datetime="2019-03-15" }
+28 februari 2022
+{: datetime="2022-02-28" }
 
-Wij hechten aan uw privacy. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
+Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
-Deze privacykennisgeving is van toepassing op door Mozilla geëxploiteerde websites en mobiele apps, waaronder de domeinen mozillians.org, mozilla.org, firefox.com, en webmaker.org. Dit omvat bijvoorbeeld bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org en wiki.mozilla.org.
+Deze privacyverklaring is van toepassing op door Mozilla verzorgde websites en mobiele apps, waaronder de domeinen mozillians.org, mozilla.org en firefox.com. Hieronder vallen bijvoorbeeeld foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org en wiki.mozilla.org.
 
 ## Zaken die u moet weten
 
-We ontvangen mogelijk persoonlijke informatie van u op basis van uw interactie met ons op sociale mediaplatforms; als u solliciteert met betrekking tot een vacature, stageplaats of verband; als u zich aanbiedt als vrijwilliger als Mozilla-communitylid; als u gebruikersfeedback of een aanvraag naar ons verzendt; als u zich registreert voor een account; of via uw interactie met een product- of beleidcampagine. 
+We ontvangen mogelijk persoonlijke informatie van u op basis van uw interactie met ons op sociale mediaplatforms; als u gegevens verzendt in verband met een vacature, stage, beurs of toelage; als u zich aanbiedt als vrijwillig lid van de Mozilla-community; als u gebruikersfeedback of een aanvraag aan ons verzendt; als u zich registreert voor een account of voor een abonnement; of als u betrokken wordt bij een product- of beleidscampagne. 
 {: #personal-info }
 
-* **Sociale media**: Als u onze sociale media-accounts gebruikt, zoals Twitter en Facebook, ontvangen we mogelijk persoonlijke informatie over u. Als u deze netwerken gebruikt, is hun privacybeleid van toepassing. U wordt aangemoedigd om dit te lezen.
+* **Sociale media**: Als u contact opneemt met onze sociale media-accounts, zoals die op Twitter en Facebook, ontvangen wij mogelijk persoonlijke informatie over u. Als u deze netwerken gebruikt, geldt het privacybeleid daarvan en wij moedigen u aan dit te lezen.
 
-* **Sollicitaties met betrekking tot vacatures, stageplaatsen en verbanden**: Mensen die solliciteren naar een functie, stageplaats of mogelijkheden voor een verband bij Mozilla, moeten hun naam, adres, telefoonnummer en cv verstrekken. We gebruiken deze informatie voor het verwerken en evalueren van sollicitaties en voor het communiceren met sollicitanten over mogelijkheden. We gebruiken een externe leverancier om ons te helpen met sollicitaties. Zie ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) voor meer informatie over onze gegevensprocedures voor externe leveranciers.
+* **Gegevens in verband met een vacature, stage, beurs of toelage**: Personen die contact opnemen in verband met mogelijkheden bij Mozilla voor een vacature, stage, beurs of toelage , moeten ons een naam, adres, telefoonnummer, e-mailadres en een cv verstrekken, en in in sommige gevallen aanvullende informatie. We gebruiken deze informatie voor het verwerken en beoordelen van sollicitaties of aanvragen en we communiceren met de sollicitant of aanvrager over mogelijkheden. We gebruiken [Greenhouse](https://www.greenhouse.io/privacy-policy) voor het behandelen van externe en interne sollicitaties en [Fluxx.io](https://www.fluxx.io/privacy-policy) voor het afhandelen van aanvragen voor een toelage of een MOSS-beurs.
 
-* **Bijdragers**: Als u zich vrijwillig aanbiedt aan Mozilla als een communitybijdrager is het mogelijk vereist dat Mozilla en andere partijen met u communiceren via het e-mailadres dat u hebt verstrekt in verband met uw bijdrage en ter erkenning van uw inspanningen. Als u bijdraagt aan Bugzilla, Mozilla Reps of onze codebase zijn uw e-mailadres en naam mogelijk publiekelijk beschikbaar voor alle internetgebruikers. Als u een profiel maakt op Mozillians.org, is dit ook toegankelijk voor Mozilla-medewerkers en Mozilla-bijdragers. U kunt uw profielgegevens bewerken via [Profile Settings](https://mozillians.org/user/edit). We gebruiken informatie van bijdragers uit bronnen (zoals Bugzilla) in dashboards om samengevoegde gegevens visueel te delen voor de Mozilla-community. Een voorbeeld is <https://wiki.mozilla.org/Contribute/Dashboards>. Waar mogelijk, proberen we het publiekelijk weergeven van contactinformatie te minimaliseren.
+* **Bijdragers**: Als u zich als vrijwilliger bij Mozilla aanbiedt om bij te dragen aan de community, moeten Mozilla en anderen mogelijk met u communiceren op het e-mailadres dat u hebt verstrekt bij dit contact in verband met uw bijdrage en om uw inspanningen te erkennen. Als u bijdraagt aan Bugzilla, Mozilla Reps of onze codebasis, worden vervolgens uw e-mailadres en mogelijk uw naam publiekelijk beschikbaar gemaakt voor alle internetgebruikers. Als u een account maakt op Mozilla Connect (een platform dat wordt verzorgd door [Khoros](https://khoros.com/privacy), dat een eigen privacyverklaring heeft), worden uw naam, uw avatar, uw berichten en antwoordden en andere informatie die u deelt, toegankelijk voor Mozilla en andere leden van de community. Als u een profiel maakt op people.mozilla.org, is dit toegankelijk voor Mozilla-medewerkers en Mozilla-bijdragers. U kunt uw profielgegevens bewerken via [Profiel-instellingen](https://people.mozilla.org/e?section=personal-info). We gebruiken soms bijdragerinformatie uit bronnen (zoals Bugzilla) in dashboards om samengevoegde gegevens visueel te delen in de Mozilla-community. Een voorbeeld hier van is [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Als dat mogelijk is, proberen we publiekelijke weergave van contactinformatie te minimaliseren.
 
-* **Feedback van gebruikers**: U kunt ons feedback verstrekken over onze producten en services op webpagina's, zoals [input.mozilla.org](https://input.mozilla.org/), via een ervaring in een product of via kanalen, zoals e-mail, Bugzilla, IRC, een sociale media-account, onze Get Involved-pagina of via een groep, zoals Student Ambassadors. Minimaliseer de persoonlijk informatie die u deelt op deze forums omdat uw opmerkingen publiekelijk toegankelijk zijn.
+* **Gebruikersfeedback**: U kunt ons feedback geven over onze producten en services op webpagina's, zoals [input.mozilla.org](https://input.mozilla.org/), via een ervaring binnen een product of via kanalen, zoals e-mail, Bugzilla, Matrix, een sociale media-account, onze Get Involved-pagina of via een groep, zoals Student Ambassadors. Minimaliseer de persoonlijke informatie die u op deze forums deelt omdat uw opmerkingen mogelijk toegankelijk zijn voor het publiek.
 
-* **Accounts**: Enkele websites, zoals Marketplace, AMO, MDN en Webmaker vereisen het maken van een account voor het verzenden van ontwikkelaarsinhoud; het verzenden van gebruikersreviews of -opmerkingen; of het installeren van bepaalde typen apps. U ontvangt mogelijk periodiek e-mail in verband met uw account. 
+* **Accounts en abonnementen**: Sommige websites, zoals AMO en MDN, vereisen dat er een account wordt gemaakt voor het verzenden van ontwikkelaarscontent of voor het verzenden van gebruikersreviews of opmerkingen. Voor accountbeheer gebruiken we [Firefox-accounts](https://www.mozilla.org/privacy/firefox/), [GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) of aangepaste systemen. [Hier](https://support.mozilla.org/kb/managing-account-data) vindt u informatie over het beheren van accountgegevens. U ontvangt mogelijk periodiek e-mails in verband met uw account of via abonnementen. Onze leveranciers voor e-mailbeheer zijn [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), [Mailchimp](https://mailchimp.com/legal/privacy/) en [Acoustic](https://acoustic.com/privacy-notice/), en kunt zich uitschrijven via de link onderaan de e-mail. 
 
-* **Product- en beleidcampagnes**: Enkele van onze webpagina's hosten product- of beleidcampagnes. U kunt bijvoorbeeld om een koppeling vragen per sms of e-mail voor het installeren van Firefox op uw mobiele apparaat of voor verzending van een verzoek aan uw wetgevers over internetkwesties. We gebruiken derde partijen voor het beheren van deze campagnes en eventuele gegevens die u verzendt.
+* **Product- en beleidcampagnes**: Sommige van onze webpagina's hosten product- of beleidcampagnes. U kunt bijvoorbeeld een link per e-mail of sms aanvragen voor het installeren van Firefox op uw mobiele apparaat of om uw wetgevers verzoeken sturen ten aanzien van internetkwesties. We kunnen derde partijen gebruiken voor het beheren van deze campagnes en het behandelen van gegevens als u ervoor kiest deze te verzenden. 
 {: #campaigns }
 
 ---------------------------------------
 
-We kunnen cookies, transparante GIF's, analysegegevens van derde partijen, apparaatinformatie en IP-adressen gebruiken voor functionaliteit en het verbeteren van de gebruikersinteractie met onze producten, services en communicaties.
+We gebruiken mogelijk cookies, zogeheten clear GIF's, webanalyses van derde partijen, apparaatinformatie en IP-adressen, voor functionaliteit en om een beter inzicht te krijgen in de gebruikersinteractie met onze producten, services en communicaties. 
 {: #data-tools }
 
-* **Functionaliteit**: We kunnen ook cookies, apparaatinformatie en IP-adressen gebruiken voor het verbeteren van de functionaliteit van bepaalde producten, services en communicatie. Bijvoorbeeld:
-    * We gebruiken cookies voor het onthouden van informatie over uw Firefox-instellingen (zoals de taalvoorkeuren en Firefox-add-ons) en voor het aanbevelen van relevante functies en add-ons op basis van uw Firefox-instellingen. Deze worden ook gebruikt bij gebruikersaanmelding en -verificatie, zodat u het invullen van wachtwoorden op bepaalde Mozilla-websites kunt overslaan.
-    * We gebruiken IP-adressen om communicatie aan te passen op basis van taal en land.
-    * We gebruiken bepaalde informatie, zoals het land, de taal, de provider en OEM om uw ervaring aan te passen.
+* **Functionaliteit**: We kunnen informatie gebruiken, zoals cookies, apparaatinformatie en IP-adressen voor het uitbreiden van functionaliteit van bepaalde producten, services en communicaties. Bijvoorbeeld:
+    * We gebruiken cookies voor het opslaan van informatie over uw Firefox-instellingen (zoals taalvoorkeuren en Firefox-add-ons) en voor het aanbevelen van relevante functies en add-ons op basis van uw Firefox-instellingen. Deze worden ook gebruikt voor het aanmelden en verifiëren van gebruikers, zodat het opnieuw invoeren van uw wachtwoorden op bepaalde Mozilla-websites kan worden omzeild.
+    * We gebruiken IP-adressen om communicaties aan te passen op basis van taal en land.
+    * We gebruiken bepaalde apparaatinformatie, zoals het land, de taal, de operator en OEM-informatie om uw ervaring aan te passen.
 
-* **Meetwaarden**: We kunnen ook cookies, apparaatinformatie en IP-adressen gebruiken in combinatie met transparante GIF's en cookies en services van derden voor het verzamelen van gegevens in samengevoegde vorm om te doorgronden hoe gebruikers onze producten, services, communicatie, websites, online campagnes, snippets, apparaten en ander platforms gebruiken. We gebruiken:
-    * Google Analytics - hierbij wordt een cookie op uw apparaat geplaatst om meetwaarden te verkrijgen met betrekking tot hoe gebruikers onze websites gebruiken. Dit helpt ons om site-inhoud te verbeteren.
-    * Convert.com en ShareProgress - hierbij wordt een cookie op uw apparaat geplaatst om ons te helpen variaties van webinhoud te testen. Dit helpt ons om gebruikers betere webervaringen te bieden.
-    * DoubleClick en Flashtalking - hierbij worden er transparante GIF's op onze pagina voor het downloaden van Firefox geplaatst. Dit helpt ons om de doeltreffendheid van onze marketingcampagnes te meten.
-    * Yahoo Dot Pixel - hierbij wordt er JavaScript gebruikt op de pagina voor het downloaden van Firefox. Dit helpt ons om de doeltreffendheid van onze marketingcampagnes te meten. 
-    * HTTP-verwijzigingsgegevens - deze worden mogelijk op genomen in het installatieprogramma van Firefox om in kaart te brengen welk domein of welke reclamecampagne u heeft doorverwezen naar de downloadpagina. Deze informatie helpt ons om de doeltreffendheid van onze marketingcampagnes te doorgronden en te verbeteren.
-    * Van tijd tot tijd worden er op experimentele basis andere hulpmiddelen voor meetwaarden gebruikt. We kunnen dit bijvoorbeeld doen om een nieuw hulpmiddel voor meetwaarden te evalueren of om de bestaande verzameling van meetwaarden te testen.
+* **Meetwaarde**: We gebruiken mogelijk ook cookies, apparaatinformatie en IP-adressen en clear GIFs, cookies en services van derde partijen om ons op basis van samengevoegde gegevens te helpen doorgronden hoe gebruikers gebruikmaken van onze producten, services, communicaties, websites, online campagnes, snippets, apparaten en andere platforms. We gebruiken:
+    * Google Analytics. Google Analytics plaatst een cookie op uw apparaat voor het ophalen van meetwaarden over hoe gebruikers onze websites gebruiken. Dit helpt ons om sitecontent te verbeteren.
+    * Convert.com en ShareProgress. Zij plaatsen een cookie op uw apparaat om ons te helpen varianten van webcontent te testen. Dit stelt ons in staat om betere webervaringen te verzorgen voor onze gebruikers.
+    * DoubleClick en Flashtalking. Zij gebruiken beide een zogeheten clear GIF op onze downloadpagina voor Firefox. Dit helpt ons de doeltreffendheid van onze reclamecampagnes te doorgronden.
+    * Yahoo Dot Pixel gebruikt JavaScript op onze downloadpagina voor Firefox. Dit helpt ons de doeltreffendheid van onze reclamecampagnes te doorgronden.
+    * Http-verwijzingsgegevens. Deze gegevens worden mogelijk opgenomen bij het installatieprogramma van Firefox en worden gebruikt voor inzicht in het websitedomein dat of de reclamecampagne die u naar onze downloadpagina heeft geleid. Deze informatie helpt ons mogelijk de doeltreffendheid van onze reclamecampagnes te doorgronden en deze te verbeteren.
+    * Andere tools voor meetwaarden. Deze worden af toe op een experimentele basis gebruikt. We kunnen dit bijvoorbeeld doen om een nieuwe tool voor meetwaarden te evalueren of om een bestaande verzameling meetwaarden te testen.
+  
+* **Fraudepreventie**: Mozilla heeft technologie van een derde partij geïmplementeerd, Invisible reCAPTCHA van Google, die op de achtergrond wordt uitgevoerd op sommige van onze websites om frauduleuze activiteit te identificeren. Het gebruik van Invisible reCAPTCHA wordt beheerst door het [privacybeleid](https://www.google.com/intl/policies/privacy/) en de [gebruiksvoorwaarden](https://policies.google.com/terms) van Google.
 
 ---------------------------------------
 
-U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor anderen en u uitschrijven voor hulpmiddelen voor analyse en optimalisering. 
+U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor anderen en u uitschrijven voor webanalyses en optimaliseringstools. 
 {: #user-choices }
 
-* **Cookiegeschiedenis**: U kunt afzonderlijke cookies accepteren of weigeren via uw  Firefox-voorkeuren in de sectie Tools/Options/Privacy history. Houd er rekening mee dat bepaalde functies van onze producten en services mogelijk niet naar behoren werken zonder de hulp van cookies.
+* **Cookiegeschiedenis**: U kunt afzonderlijke cookies accepteren of weigeren via uw Firefox-voorkeuren (via de sectie Geschiedenis in de instellingen). Houd er rekening mee dat bepaalde functies van onze producten en services mogelijk niet naar behoren werken zonder cookies. 
 {: #cookies }
 
-* **Do Not Track**: Mozilla volgt gebruikers niet via externe websites voor het bieden van gerichte reclame. Als u uw browser hebt geconfigureerd voor het verzenden van een Do Not Track-signaal bij het openen van websites, gebruikt Mozilla geen van de hulpmiddelen die zijn beschreven in de sectie [Meetwaarden](#data-tools).
+* **Do Not Track**: Mozilla volgt gebruikers niet over websites van derden voor het bieden van gerichte reclame. Als u uw browser hebt geconfigureerd voor het verzenden van een Do Not Track-signaal bij toegang tot onze websites, gebruikt Mozilla geen van de tools die zijn beschreven in de sectie [Meetwaarden](https://www.mozilla.org/privacy/websites/#data-tools).
 
-* **E-mail**: De ontvangst van onze marketingcommunicatie is optioneel en u kunt zich uitschrijven via de voettekst van de e-mail of door uw [Mozilla-e-mailvoorkeuren](https://www.mozilla.org/newsletter/recovery/) bij te werken.
+* **E-mail**: Onze marketingcommunicaties zijn optioneel en u kunt zich uitschrijven via de voettekst van de e-mail of door het bijwerken van uw [voorkeuren voor e-mail van Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
-* **Analyse en optimalisering**: Volg de instructies hierna om verzameling van persoonlijke gegevens over uw bezoeken aan Mozilla-websites te voorkomen:
-    *  Google: Installeer de [add-on Google Analytics Opt-out Browser](https://tools.google.com/dlpage/gaoptout). Deze houd uw bezoeken anoniem en verbiedt gegevensverzendingen naar Google Analytics. Enkele Mozilla.org-pagina's maken gebruik van transparante GIF's voor communicatie met DoubleClick voor het in kaart brengen van de doeltreffendheid van onze reclamecampagnes. U kunt persoonlijk afgestemde advertenties van DoubleClick beheren in de advertentie-instellingen van Google (u wordt gevraagd om u aan te melden bij uw Google-account).
-    *  Convert.com: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    *  Yahoo: bezoek [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) om u uit te schrijven.
-    *  ShareProgress: U kunt [Do Not Track in uw browser inschakelen](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Analyses en optimalisering**: Volg de onderstaande instructies om het verzamelen van gegevens over uw bezoeken aan Mozilla-websites te voorkomen:
+    * Google: Installeer de [browser-add-on Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) als u gegevensdoorgifte aan Google Analytics wilt verbieden. Sommige Mozilla.org-pagina's gebruiken clear GIF's die communiceren met DoubleClick voor inzicht in de doeltreffendheid van onze reclamecampagnes; u kunt persoonlijk afgestemde reclame van DoubleClick beheren in de advertentie-instellingen van Google (u wordt gevraagd om zich aan te melden bij uw Google-account).
+    * Convert.com: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
+    * Yahoo: Bezoek [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) om u uit te schrijven.
+    * ShareProgress en Fathom.com: U kunt de optie [Do Not Track inschakelen in uw browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Sociale media**: De knop voor sociaal delen op Mozilla-websites deelt geen sociale gegevens met uw sociale mediaprovider, tenzij u erop klikt.
+* **Sociale media**: De knoppen voor delen op sociale media op Mozilla-websites zijn zo ontworpen dat gegevens niet worden gedeeld met de sociale mediaprovider totdat u specifiek op de knop drukt.
 
 ---------------------------------------
 
-Op enkele Mozilla-websites kunt aankopen (zoals apps of uitrusting) of een schenking doen. Deze transacties worden verwerkt door externe partijen en niet door Mozilla. 
+Sommige Mozilla-websites stellen u in staat om aankopen te doen (zoals apps of apparatuur), om geld bij te dragen aan specifieke Mozilla-projecten of om schenkingen te doen voor het ondersteunen van openbare en charitatieve programma's van Mozilla. Deze transacties worden vaak afgehandeld door externe leveranciers van Mozilla. 
 {: #donations }
 
-* **Betalingsverwerking**: Mozilla ontvangt geen financiële informatie die ter verwerking door u naar onze externe leveranciers wordt verzonden. De naam van de derde partij wordt weergegeven tijdens het uitvoeren van de transactie.
+* **Betalingsverwerking**: Met uitzondering van betalingen per cheque, postwissel, automatische incasso en overschrijvingen, ontvangt Mozilla geen financiële informatie. Deze wordt rechtstreeks voor verwerking door u overgedragen aan de desbetreffende externe leverancier (zoals Braintree, PayPal, Bitpay, Stripe).
 
-* **Fraudepreventie**: Mozilla heeft externe technologie geïmplementeerd, Google’s Invisible reCAPTCHA, die op de achtergrond van sommige websites wordt gebruikt om frauduleuze activiteiten te identificeren. Het gebruik van Invisible reCAPTCHA wordt beheerst door het [privacybeleid](https://www.google.com/intl/en/policies/privacy/) en de [gebruiksvoorwaarden](https://www.google.com/intl/en/policies/terms/) van Google.
+* **Persoonlijke gegevens**: We ontvangen mogelijk ook uw naam, postadres en/e-mailadres. Deze gegevens worden gebruikt voor fraudedetectie en registratiedoeleinden. We gebruiken [Acoustic](https://acoustic.com/privacy-notice/) voor het per e-mail verzenden van betalingsbewijzen en het opslaan van geregistreerde gegevens. Deze worden vier jaar lang bewaard, gerekend vanaf de laatste betaaldatum. 
+
+* **Gegevens van derde partijen**: We gebruiken [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) voor het verbeteren van onze fondsenwervingsinspanningen voor een gezond, open en voor iedereen toegankelijk internet. Donors kunnen zich [uitschrijven](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) voor gebruik door Mozilla.
