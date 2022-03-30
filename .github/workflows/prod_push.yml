@@ -1,0 +1,73 @@
+name: Publish Documents to Production
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      files:
+        description: Comma separated list of files to publish
+        required: true
+        default: "ALL"
+
+jobs:
+  publish:
+    name: Publish Documents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Linux packages
+        run: |
+          sudo apt update
+          sudo apt install git hub -y
+      - name: Clone repository
+        uses: actions/checkout@v2
+        with:
+          path: "clone"
+          ref: "master"
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Set up git credentials
+        run : |
+          git config --global user.email 'MozmarRobot@users.noreply.github.com'
+          git config --global user.name 'MozMEAO Bot'
+      - name: Update files in repository
+        run: |
+          cd clone
+          git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
+
+          # Use temporary folder to store files from the default branch
+          TMP_DIR="../temp_files"
+          mkdir "$TMP_DIR"
+
+          # Copy files, excluding scripts and workflows
+          python .github/scripts/copy_files.py "${{ github.event.inputs.files }}" "$TMP_DIR"
+
+          git reset --hard origin/prod
+          git checkout -B prod_updates
+
+          # Restore files from the default branch
+          rsync -av "${TMP_DIR}/" ./
+      - name: Commit changes to prod_updates branch
+        continue-on-error: true
+        run: |
+          # Commit changes. Failure is allowed if there is nothing to commit.
+          cd clone
+          git add .
+          git commit -m "Publish documents to production"
+          git push -f origin prod_updates
+      - name: Open pull request
+        continue-on-error: true
+        run: |
+          # continue-on-error is needed in case there is already an open PR
+          cd clone
+          changes=$(git diff --name-only prod prod_updates -- | wc -l | awk '{print $1}')
+          if [[ "$changes" = "0" ]];
+          then
+            echo "No changes."
+          else
+            # Create pull request
+            hub pull-request -m "[prod] Publish document updates" -h prod_updates -b prod -l prod -r peiying2
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
