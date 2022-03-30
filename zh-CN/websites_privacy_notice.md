@@ -20,7 +20,7 @@
 
 * **用户反馈**：您可以通过网页（如 [input.mozilla.org](https://input.mozilla.org/)）、通过产品内体验，或通过电子邮件、Bugzilla、Matrix、社交媒体账户、我们的 Get Involved 页面或通过“学生大使”等组织之类的渠道，提供有关我们产品和服务的反馈。请尽量减少您选择在这些论坛上分享的个人信息，因为您的评论可能会向公众开放。
 
-* **账户与订阅**：某些网站（例如 AMO 和 MDN）需要创建账户才能提交开发人员内容或提交用户评论或意见。我们使用 [Firefox 账户](https://www.mozilla.org/privacy/firefox/)、[Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) 或自定义系统进行账户管理，请参阅[此处](https://support.mozilla.org/kb/managing-account-data)以管理账户数据。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)、[Send in Blue](https://www.sendinblue.com/legal/privacypolicy/)、[Mailchimp](https://mailchimp.com/legal/privacy/) 或 [Acoustic](https://acoustic.com/privacy-notice/)，您可以使用邮件底部的链接取消订阅。 
+* **账户与订阅**：某些网站（例如 AMO 和 MDN）需要创建账户才能提交开发人员内容或提交用户评论或意见。我们使用 [Firefox 账户](https://www.mozilla.org/privacy/firefox/)、[GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) 或自定义系统进行账户管理，请参阅[此处](https://support.mozilla.org/kb/managing-account-data)以管理账户数据。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/)、[Send in Blue](https://www.sendinblue.com/legal/privacypolicy/)、[Mailchimp](https://mailchimp.com/legal/privacy/) 或 [Acoustic](https://acoustic.com/privacy-notice/)，您可以使用邮件底部的链接取消订阅。 
 
 * **产品和政策活动**：我们的某些网页会举行产品或政策活动。例如，您可以通过电子邮件或短信请求链接，以便在您的移动设备上安装 Firefox，或者在互联网问题上向立法者提出诉求。我们可能会使用第三方来管理这些活动并处理您选择提交的所有数据。 
 {: #campaigns }
