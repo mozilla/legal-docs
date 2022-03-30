@@ -1,73 +1,77 @@
-# Ilani ya Faragha ya Tovuti, Mawasiliano na Vidakuzi
+﻿# Taarifa ya Faragha ya Tovuti, Mawasiliano na Vidakuzi
 
-September 6, 2017
-{: datetime="2017-09-06" }
+Jumatatu, Tarehe 28 Februari 2022
+{: datetime="2022-02-28" }
 
 Tunajali kuhusu faragha yako. Wakati Mozilla (sisi) hukusanya maelezo kukuhusu, [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/) hueleza jinsi tunavyoshughulikia maelezo hayo.
 
-Notisi hii ya faragha inatumika kwenye tovuti na programu za simu zinazoendeshwa na Mozilla, ikijumuisha vikoa vya mozillians.org, mozilla.org, firefox.com, na webmaker.org, miongoni mwa vingine. Hii inajumuisha, kwa mfano, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, na wiki.mozilla.org.
+Taarifa hii ya faragha inatumika kwa tovuti na programu za vifaa vya mkononi vinavyotumia Mozilla, ikiwa ni pamoja na vikoa vya mozillians.org, mozilla.org, na firefox.com na vinginevyo. Hii inajumuisha, kwa mfano, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, na wiki.mozilla.org.
 
 ## Mambo unayofaa kujua
 
-Tunaweza kupokea maelezo ya binafsi kutoka kwako kuzingatia mwingiliano wako na sisi kwenye mitandao ya kijamii, ukiwasilisha kazi, ombi la ukufunzi au mmoja wetu, ukijitolea kama mwanachama wa jumuiya ya Mozilla, ukiwasilisha majibu ya mtumiaji au ombi kwetu, au ukitumia bidhaa au kampeni ya sera. 
+Tunaweza kupokea maelezo ya binafsi kutoka kwako kulingana na mawasiliano yako nasi kwenye mitandao ya kijamii, ukituma ombi la nafasi ya kazi, ukurufunzi, ruzuku au ushirika, ukijitolea kama mwanachama wa jumuiya ya Mozilla, ukituma maoni ya mtumiaji au ombi kwetu; ukifungua akaunti au usajili ; au ukitumia kampeni ya bidhaa au sera. 
 {: #personal-info }
 
-* **Mitandao ya Kijamii**: Ukitumia akaunti zetu za mitandao ya kijamii, kama vile Twitter na Facebook, tunaweza kupokea maelezo ya binafsi kukuhusu. Iwapo utatumia mitandao hii, sera zake za faragha zitatekelezwa, na unahimizwa kuzisoma.
+* **Mitandao ya Kijamii**: Ukitumia akaunti zetu za mitandao ya kijamii, kama vile Twitter na Facebook, tunaweza kupokea maelezo ya binafsi kukuhusu. Iwapo utatumia mitandao hii, sera zake za faragha zitatatumika, na unahimizwa uzisome.
 
-* **Kazi, Kuzuia na Waombaji Wenzangu**: Waombaji wa fursa ya ajira, uzuiaji au ushirika kwa Mozilla wanahitajika kutupa jina, anwani ya mtaa, nambari ya simu, anwani ya barua pepe, na kuendelea. Tunatumia maelezo haya kuchakata na kutathmini maombi na kuwasiliana na waombaji kuhusu fursa. Tunatumia mchuuzi mwingine kutusaidia na maombi ya ajira. Kwa maelezo zaidi kuhusu mazoezi ya data yako na wachuuzi wengine, tazama [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/).
+* **Kutuma Maombi ya Kazi, Ukurufunzi na Ushirika**: Wanaotuma maombi ya nafasi za kazi, ukurufunzi, ruzuku au ushirika kwa kutumia Mozilla wanatakiwa kutupatia jina, anwani ya mtaa, nambari ya simu, anwani ya barua pepe na wasifukazi, na wakati mwingine maelezo ya ziada pia. Tunatumia maelezo haya kuchakata na kutathmini maombi na kuwasiliana na waliotuma maombi kuhusu fursa. Tunatumia [Greenhouse](https://www.greenhouse.io/privacy-policy) ili kushughulikia maombi ya ukurufunzi na kazi, na [Fluxx.io](https://www.fluxx.io/privacy-policy) ili kushughulikia maombi ya ushirika na ruzuku ya MOSS.
 
-* **Wachangiaji**: Kujitolea kwa Mozilla kama mchangiaji wa jumuiya kunaweza kuhitaji Mozilla na wengine kuwasiliana na wewe kwa anwani ya barua pepe ambayo ulitoa kuhusiana na mchango wako na kutambua juhudi zako. Iwapo utachangia kwenye Bugzilla, Mozilla Reps, au kituo chetu cha msimbo, basi anwani yako ya barua pepe na jina lako lina uwezekano wa kupatikana kwa umma kwa watumiaji wote wa mtandao. Iwapo utaunda wasifu katika Mozillians.org, utafikiwa na wafanyakazi wa Mozilla na wachangiaji wa Mozilla. Unaweza kuhariri data yako ya wasifu katika [Mipangilio ya Wasifu](https://mozillians.org/user/edit). Wakati mwingine tunatumia maelezo ya mchangiaji kutoka kwenye vyanzo (kama vile Bugzilla) katika dashibodi ili kushiriki kwa mwonekano data iliyokusanyika kwenye jumuiya ya Mozilla. Mfano ni <https://wiki.mozilla.org/Contribute/Dashboards>. Iwapo inawezekana, tutajaribu kupunguza maelezo ya mwasiliani ambayo yanaonekana kwa umma.
+* **Wachangiaji**: Kujitolea kama mchangiaji wa jumuiya ya Mozilla kunaweza kuhitaji Mozilla na wahusika wengine kuwasiliana nawe kupitia anwani ya barua pepe unayotoa kuhusiana na mchango wako na kutambua juhudi zako. Iwapo utachangia kwenye Bugzilla, Mozilla Reps au kituo chetu cha usanidi, basi anwani yako ya barua pepe na jina lako vinaweza kuonekana hadharani na watumiaji wote wa mtandao. Ukifungua akaunti kwenye Mozilla Connect (mfumo unaosimamiwa na [Khoros](https://khoros.com/privacy), ambao una taarifa yake ya faragha), jina lako, ishara, machapisho na majibu yako na maelezo mengine unayoshiriki yatafikiwa na Mozilla na wanajumuiya wengine. Ukiunda wasifu kwenye people.mozilla.org, utafikiwa na wafanyakazi wa Mozilla na wachangiaji wa Mozilla. Unaweza kuhariri data ya wasifu wako katika [Mipangilio ya Wasifu](https://people.mozilla.org/e?section=personal-info). Wakati mwingine tunatumia maelezo ya mchangiaji kutoka kwenye vyanzo (kama vile Bugzilla) katika dashibodi ili kushiriki kwa uwazi data iliyojumlishwa kwenye jumuiya ya Mozilla. Mfano ni kama [https://wiki.mozilla.org/Contribute/Dashboards](https://wiki.mozilla.org/Contribute/Dashboards). Iwapo inawezekana, tutajaribu kupunguza maelezo ya mawasiliano ambayo yanaonekana hadharani.
 
-* **Majibu ya Mtumiaji**:  Unaweza kutupa majibu kuhusu bidhaa na huduma zetu kwenye kurasa wavuti kama [input.mozilla.org](https://input.mozilla.org/), kupitia hali ya utumiaji wa ndani wa bidhaa, au kupitia njia kama vile barua pepe, Bugzilla, IRC, akaunti ya mtandao wa kijamii, ukurasa wetu wa Get Involved, au kupitia kikundi kama Mabalozi wa Wanafunzi. Tafadhali punguza maelezo ya binafsi unayochagua kushiriki kwenye majukwaa haya kwa sababu maoni yako yanaweza kufikiwa kwa umma.
+* **Maoni ya Mtumiaji**: Unaweza kutupatia maoni kuhusu bidhaa na huduma zetu kwenye kurasa za wavuti kama vile [input.mozilla.org](https://input.mozilla.org/), kupitia matumizi ya bidhaa au kupitia njia kama vile barua pepe, Bugzilla, Matrix, akaunti ya mitandao ya kijamii, au kwenye ukurasa wetu wa Husika au kupitia kikundi kama vile Student Ambassadors. Tafadhali punguza maelezo ya binafsi unayochagua kushiriki kwenye majukwaa haya kwa sababu maoni yako yanaweza kufikiwa hadharani.
 
-* **Akaunti**: Baadhi ya tovuti kama vile Marketplace, AMO, MDN na Webmaker huhitaji ufungue akaunti ili kuwasilisha maudhui ya msanidi programu; kuwasilisha maoni ya mtumiaji; au kusakinisha aina fulani za programu.  Huenda Ukapokea barua pepe mara kwa mara kuhusu akaunti yako.
+* **Akaunti na Usajili**: Tovuti nyingine, kwa mfano AMO na MDN zinahitaji ufungue akaunti ili kuwasilisha maudhui ya msanidi au kuwasilisha maoni au ukadiriaji wa mtumiaji. Kwa udhibiti wa akaunti, tunatumia [Firefox Accounts](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking), au mifumo ya kawaida; angalia [hapa](https://support.mozilla.org/kb/managing-account-data) ili kudhibiti data ya akaunti. Unaweza kupokea mara moja moja barua pepe zinazohusiana na akaunti yako au kupitia usajili. Watoa huduma wetu wa udhibiti wa barua pepe ni [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), [Mailchimp](https://mailchimp.com/legal/privacy/), au [Acoustic](https://acoustic.com/privacy-notice/) na unaweza kujiondoa kwa kutumia kiungo kilicho katika sehemu ya chini ya barua pepe. 
 
-* **Kampeni za Bidhaa & Sera**: Baadhi ya kurasa wavuti zetu zinapangisha kampeni za bidhaa au sera. Kwa mfano, unaweza kuomba kiungo kwa barua pepe au SMS ili kusakinisha Firefox kwenye kifaa chako cha simu au kuomba kwa wabunge kwenye masuala ya matumizi ya mtandao. Tunatumia watu wengine ili kudhibiti kampeni hizi na kushughulikia data yoyote ambayo unachagua kuwasilisha. 
+* **Kampeni za Bidhaa na Sera**: Baadhi ya kurasa zetu za wavuti huonyesha kampeni za bidhaa au sera. Kwa mfano, unaweza kuomba kiungo kupitia barua pepe au SMS ili kusakinisha Firefox kwenye kifaa chako cha mkononi au kutuma ombi kwa wasimamizi wako kuhusu masuala ya mtandao. Tunatumia wahusika wengine kudhibiti kampeni hizi na kushughulikia data yoyote ambayo unachagua kuwasilisha. 
 {: #campaigns }
 
 ---------------------------------------
 
-Tunatumia vidakuzi, GIF wazi, uchanganuzi wa wavuti nyingine, na anwani za IP kwa utendaji na kuboresha bidhaa, huduma na mawasiliano yetu. 
+Tunaweza kutumia vidakuzi, GIF dhahiri, takwimu za tovuti ya mhusika mwingine, maelezo ya kifaa na anwani za IP ili kubaini utendakazi na kuelewa vizuri jinsi watumiaji wanavyotumia bidhaa, huduma na mawasiliano yetu. 
 {: #data-tools }
 
-* **Utendaji**: Huenda tukatumia vidakuzi, maelezo ya kifaa na anwani za mtoa huduma ili kuboresha utendaji wa baadhi ya vifaa, huduma na mawasiliano. Kwa mfano:
-    * Vidakuzi hutumika kukumbuka mapendeleo ya lugha ya Firefox na programu jalizi za Firefox. Pia, vinasaidia mtumiaji kuthibitisha na kuingia katika akaunti bila haja ya kuweka manenosiri kwenye baadhi ya tovuti za Mozilla.  
-    * Anwani za mtoa huduma hutumika kuweka mapendeleo ya mawasiliano kulingana na lugha na nchi.  
-    * Huenda maelezo ya kifaa kama vile nchi, lugha, mhudumu na OEM yakatumika ili uweze kubadilisha upendavyo hali ya matumizi kwenye Firefox Marketplace na Webmaker.
+* **Utendakazi**: Tunaweza kutumia maelezo kama vile vidakuzi, maelezo ya kifaa na anwani za IP ili kuboresha utendakazi wa bidhaa, huduma na mawasiliano fulani. Kwa mfano:
+    * Tunatumia vidakuzi ili kukumbuka maelezo kuhusu mipangilio yako ya Firefox (kama vile lugha unayopendelea na programu jalizi za Firefox), na ili tuweze kupendekeza vipengele na programu jalizi zinazokufaa kulingana na mipangilio yako ya Firefox. Husaidia pia katika mchakato wa watumiaji kuingia katika akaunti na uthibitishaji ili uweze kukwepa kuweka upya manenosiri kwenye tovuti fulani za Mozilla.
+    * Tunatumia anwani za IP ili kuboresha mawasiliano kulingana na lugha na nchi.
+    * Tunatumia maelezo fulani ya kifaa kama vile nchi, lugha, mtoa huduma na OEM, ili kuboresha hali yako ya utumiaji.
 
-* **Vipimo**: GIF angavu, vidakuzi na huduma kutoka kampuni nyingine hutusaidia kujumlisha jinsi watumiaji wanavyotumia bidhaa, huduma, mawasiliano, tovuti, kampeni za mtandaoni, vijisehemu vya maandishi, vifaa na mifumo mingine. Tunatumia:
-    * Google Analytics, ambayo huweka vidakuzi kwenye kifaa, ili kupata vipimo kuhusu jinsi wateja wanavyotumia tovuti zetu.      Hali hii hutusaidia kuboresha maudhui ya tovuti.  
-    * Convert.com and ShareProgress, ambazo huweka vidakuzi kwenye kifaa chako, ili kutusaidia kujaribu jinsi maudhui ya tovuti yanavyobadilika.  Hii hutusaidia kuwapa wateja wetu hali bora ya matumizi kwenye wavuti.
-    * DoubleClick and Flashtalking, kila moja hutumia GIF angavu kwenye ukurasa wa Firefox wa kupakua.  Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
-    * Yahoo Dot Pixel, ambayo inatumia JavaScript kwenye kurasa yetu ya kupakulia ya Firefox. Hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo.
-    * Data za uunganishi za HTTP, ambayo inaweza kujumuishwa kwenye kisanidishaji cha Firefox, kuelewa chanzo cha tovuti au kampeni ya kutangaza iliyokuunganisha na kurasa yetu ya kupakulia. Taarifa hii hutusaidia kukadiria ubora wa kampeni zetu za matangazo na kuuboresha.
-    * Vifaa vingine vya ukadiriaji kila baada ya vipindi tofauti, kulingana na majaribio yetu. Kwa mfano, tunaweza kufanya hivi kusaidia kutathmini kifaa kipya cha ukadiriaji, au kujaribu mkusanyiko wa awali wa ukadiriaji.
+* **Vipimo**: Tunaweza kutumia vidakuzi, maelezo ya kifaa na anwani za IP, pamoja na GIF dhahiri, vidakuzi na huduma za wahusika wengine ili kutusaidia kuelewa kwa ujumla jinsi watumiaji wanavyotumia bidhaa, huduma, mawasiliano, tovuti, kampeni za mtandaoni, vijipicha, vifaa na mifumo mingine. Tunatumia:
+    * Takwimu za Google, ambayo huweka kidakuzi kwenye kifaa chako, ili kupata vipimo kuhusu jinsi watumiaji wanavyotumia tovuti zetu. Hatua hii hutusaidia kuboresha maudhui ya tovuti.
+    * Convert.com na ShareProgress, ambazo huweka kidakuzi kwenye kifaa chako, ili kutusaidia kujaribu maudhui tofauti ya wavuti. Hatua hii hutusaidia kutoa hali bora ya utumiaji kwa watumiaji.
+    * DoubleClick na Flashtalking, ambapo kila moja hutumia GIF dhahiri kwenye ukurasa wetu wa Firefox wa pakua. Hatua hii hutusaidia kupima ufanisi wa kampeni zetu za matangazo.
+    * Yahoo Dot Pixel, ambayo hutumia JavaScript kwenye ukurasa wetu wa Firefox wa pakua. Hatua hii hutusaidia kupima ufanisi wa kampeni zetu za matangazo.
+    * HTTP Referral Data, ambayo inaweza kujumuishwa na kisakinishaji cha Firefox, ili kuelewa kikoa cha tovuti au kampeni ya matangazo ambayo ilikuelekeza kwenye ukurasa wetu wa pakua. Maelezo haya hutusaidia kuelewa ufanisi wa kampeni zetu za matangazo na kuziboresha.
+    * Zana zingine za vipimo mara kwa mara, kwa msingi wa majaribio. Kwa mfano, tunaweza kufanya hivyo ili kutathmini zana mpya ya vipimo au kujaribu mkusanyiko wa zana za vipimo zilizopo.
+  
+* **Uzuiaji wa Ulaghai**: Mozilla imetumia teknolojia ya wahusika wengine, teknolojia ya Google ya Invisible reCAPTCHA, ambayo hutekelezwa chinichini kwenye baadhi ya tovuti zetu ili kutambua shughuli za ulaghai. Matumizi ya teknolojia ya Invisible reCAPTCHA yanadhibitiwa na [Sera ya Faragha ya Google](https://www.google.com/intl/policies/privacy/) na [Sheria na Masharti ya Matumizi](https://policies.google.com/terms).
 
 ---------------------------------------
 
-Unaweza kudhibiti mapendeleo ya kidakuzi binafsi, kuashiria mapendeleo yako ya kidakuzi kwa wengine, teua barua pepe za matini tu, na uondoke kwenye uchanganuzi wa wavuti na zana za uboreshaji. 
+Unaweza kudhibiti mapendeleo ya kidakuzi mahususi, kuonyesha mapendeleo yako ya kidakuzi kwa wengine na kujiondoa kwenye takwimu za wavuti na zana za uboreshaji. 
 {: #user-choices }
 
-* **Historia ya Kidakuzi**: Unaweza kukubali au kukataa vidakuzi binafsi kwenye mapendeleo yako ya Firefox kwenye sehemu ya historia ya Zana/Chaguo/Faragha. Kumbuka kuwa vipengele fulani vya bidhaa na huduma zetu huenda visifanye kazi vizuri bila msaada wa vidakuzi.
+* **Historia ya Vidakuzi**: Unaweza kuruhusu au kuzuia vidakuzi mahususi kwenye mapendeleo yako ya Firefox katika sehemu ya historia ya Zana/Chaguo/Faragha. Kumbuka kuwa vipengele fulani vya bidhaa na huduma zetu huenda visifanye kazi vizuri bila msaada wa vidakuzi. 
 {: #cookies }
 
-* **Usifuatilie**: Mozilla haiwafuatilii watumiaji kwenye tovuti zingine kutoa matangazo yaliyolengwa. Ikiwa umepangilia wavuti yako kutuma ishara ya “Usifuatilie” unapotumia tovuti zetu, Mozilla haitatumia kifaa chochote kilichoainishwa kwenye sehemu ya [Metrics](#data-tools)
+* **Usifuatilie**: Mozilla haifuatilii watumiaji kwenye tovuti zote za wahusika wengine ili kutoa matangazo mahususi. Ikiwa umeweka mipangilio ya kivinjari chako kitume ishara ya “Usifuatilie” unapotumia tovuti zetu, Mozilla haitatumia zana yoyote kati ya zana zilizobainishwa katika sehemu ya [Vipimo](https://www.mozilla.org/privacy/websites/#data-tools).
 
-* **Barua Pepe**: Mawasiliano yetu ya kutangaza ni ya hiari kupokea na unaweza kujisanidua kutoka kwenye kijachini cha barua pepe au kwa kusasisha [mapendeleo yako ya barua pepe ya Mozilla](https://www.mozilla.org/newsletter/recovery/).
+* **Barua pepe**: Ni hiari yako kupokea mawasiliano yetu ya matangazo na unaweza kujiondoa kupitia kijachini cha barua pepe au kwa kusasisha [Mapendeleo yako ya barua pepe ya Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
-* **Utathmini na Uboreshaji**: Fuata maelekezo yafuatayo hapa chini kuzuia ukusanyaji wa taarifa juu ziara zako kutembelea tovuti za Mozilla:
-    * Google: Sanidi [Kijalizi cha Kivinjari cha Kuondoka kwenye Google Analytics-kwenye](https://tools.google.com/dlpage/gaoptout), itakayohifadhi ziara zako kutoajulikana na kupiga marufuku usambazaji wa data kwenye Utathmini wa Google. Baadhi ya kurasa za Mozilla.org hutumia GIF angavu ambazo huwasiliana na DoubleClick kuelewa ufanisi wa kampeni zetu za utangazaji; unaweza kudhibiti vivinjaru binafsi kutoka kwenye DoubleClick kwenye mipangilio ya Google ya vivinjari (utatakiwa kujisajili kwenye akaunti yako ya Google).
-    *  Convert.com: [Kuchagua kujiondoa kwenye www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    *  Yahoo: tembelea [Kiwezeshaji cha chaguzi za upendacho](https://aim.yahoo.com/aim/us/en/optout/) kujiondoa.
-    *  ShareProgress: Unaweza [kuwezesha chaguzi ya Usifuatilie kwenye kijalizi chako](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
+* **Takwimu na Uboreshaji**: Fuata maelekezo yaliyo hapa chini ili kuzuia ukusanyaji wa data kuhusu mara unazotembelea tovuti za Mozilla:
+    * Google: Sakinisha [Programu Jalizi ya Google Analytics Opt-out Browser](https://tools.google.com/dlpage/gaoptout), ambayo huzuia utumaji wa data kwenye programu ya Takwimu za Google. Baadhi ya kurasa za Mozilla.org hutumia GIF dhahiri ambazo huwasiliana na DoubleClick ili kuelewa ufanisi wa kampeni zetu za matangazo; unaweza kudhibiti matangazo yanayokufaa kutoka kwenye DoubleClick katika mipangilio ya matangazo ya Google (utadokezewa uingia katika Akaunti yako ya Google).
+    * Convert.com: [Opt-out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
+    * Yahoo: Tembelea [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) ili kujiondoa.
+    * ShareProgress na Fathom.com: Unaweza [kuwasha kipengele cha Usifuatilie kwenye kivinjari chako](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Mitandao ya Kijamii**: Kitufe cha kushiriki vy jamii kwenye tovuti za Mozilla vimebuniwa kutoshiriki data na mtoa huduma wa mitandao ya kijamii hadi ubofye kibainifu kwenye kitufe.
+* **Mitandao ya Kijamii**: Vitufe vya kushiriki kwenye mitandao ya kijamii kwenye tovuti za Mozilla vimebuniwa ili visishiriki data na mtoa huduma wa mitandao ya kijamii hadi ubofye kitufe mwenyewe.
 
 ---------------------------------------
 
-Baadhi ya tovuti za Mozilla zinakuruhusu kufanya ununuzi (kama vile programu na gia) au kutoa mchango. Miamala hii inachakatwa na watu wengine, na sio Mozilla. 
+Baadhi ya tovuti za Mozilla zinakuruhusu kufanya ununuzi (kama vile programu au zana), kuchanga fedha kwenye miradi mahususi ya Mozilla au kutoa michango ya kusaidia mipango ya umma na ya uhisani ya Mozilla. Shughuli hizi mara nyingi hushughulikiwa na watoa huduma wengine wa Mozilla. 
 {: #donations }
 
-* **Uchakataji wa Malipo**:   Mozilla haipokei maelezo yoyote ya kifedha, ambayo yamesambazwa kutoka kwako hadi wachuuzi wengine kwa uchakataji. Jina la mtu mwingine litaonyeshwa wakati wa mwamala.  Kwa maelezo zaidi kuhusu mazoezi ya data yako na wachuuzi wengine, tazama [Sera yetu ya Faragha ya Mozilla](https://www.mozilla.org/privacy/).
+* **Uchakataji wa Malipo**: Isipokuwa kwa malipo yaliyolipwa kwa hundi, hawala ya fedha, malipo ya moja kwa moja ya kadi ya mikopo, na hawala za benki, Mozilla haipokei maelezo yoyote ya fedha, ambayo hutumwa kutoka kwako hadi kwa mtoa huduma mwingine husika kwa uchakataji (k.m., Braintree, PayPal, Bitpay, Stripe).
 
-* **Udhibiti wa Utapeli** Mozilla imetekeleza utumiaji wa teknolojia ya watu wengine, Programu ya Google isiyoonekana ya reCAPTCHA, ambayo inafanya kazi nyuma ya baadhi ya tovuti zetu ili kutambua shughuli mbalimbali za kitapeli. Matumizi ya program isiyoonekana ya reCAPTCHA yanasimamiwa na Google [Sera za Faragha](https://www.google.com/intl/en/policies/privacy/) na [Vigezo vya utumiaji](https://www.google.com/intl/en/policies/terms/).
+* **Data ya Binafsi**: Tunaweza pia kupokea jina lako, anwani ya posta na/au anwani ya barua pepe. Data hii hutumiwa kwa utambuzi wa ulaghai na kuweka rekodi. Tunatumia [Acoustic](https://acoustic.com/privacy-notice/) ili kutuma barua pepe za risiti na kuhifadhi rekodi, ambazo huhifadhiwa kwa miaka minne kuanzia tarehe ya malipo ya mwisho. 
+
+* **Data ya Mhusika Mwingine**: Tunatumia [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) ili kuboresha juhudi zetu za kuchangisha pesa za kudumisha ubora, uwazi na uwezo wa kila mtu kufikia mtandao. Wafadhili wanaweza [kujiondoa](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) kwenye matumizi ya Mozilla.
