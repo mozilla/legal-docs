@@ -61,7 +61,7 @@ Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料�
 
 **傳輸至憑證頒發機構的網頁及技術資料**：您進入安全網站（通常可藉由網址以「HTTPS」開頭作為辨識）後，Firefox 會驗證該網站的[憑證](https://support.mozilla.org/kb/secure-website-certificate)。這項程序中，Firefox 可能會傳送該網站的特定資訊給該網站所辨識的憑證頒發機構。若選擇退出，則會增加私人資訊遭他人攔截的風險。[了解更多資訊](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab)。
 
-### 當機報告 {: #crash-reporter }：
+### 當機報告 {: #crash-reporter }
 桌面版 Firefox 預設會要求您向 Mozilla 分享當機情形資訊較為詳細的報告，但是您必定可以選擇拒絕分享。
 
 * __敏感性資料__：當機報告內含 Firefox 在當機時的記憶體內容「傾印檔案」，內容可能含有可供辨識您身分，或其他屬於您的敏感性資料。

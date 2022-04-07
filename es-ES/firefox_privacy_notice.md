@@ -61,7 +61,7 @@ Firefox muestra contenido como recomendaciones de complementos, sitios populares
 
 **Datos técnicos y de páginas web para Autoridades certificadoras**: Cuando visita un sitio web seguro (normalmente identificado con una URL que comienza por «HTTPS»), Firefox valida el [certificado del sitio web](https://support.mozilla.org/kb/secure-website-certificate). Es posible que Firefox envíe cierta información sobre el sitio web a las Autoridades certificadores identificadas por ese sitio web. La exclusión aumenta el riesgo de que sus datos privados sean interceptados. [Más información](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Informes de error {: #crash-reporter }:
+### Informes de error {: #crash-reporter }
 Por defecto, en las versiones de escritorio de Firefox, le pediremos que comparta con Mozilla un informe con información más detallada sobre los errores, pero siempre tendrá la opción de rechazarlo.
 
 * __Datos confidenciales__:  Los informes de error incluyen un archivo de volcado del contenido de la memoria de Firefox en el momento en el que se produce el error. Este archivo puede incluir datos que le identifiquen o que sean de alguna manera confidenciales.
