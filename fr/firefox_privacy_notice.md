@@ -11,7 +11,7 @@ Dans cette Politique de confidentialité, nous expliquons les données que parta
 
 ## Par défaut, Firefox partage des données dans les buts suivants :
 
-### Améliorer les performances et la stabilité de nos utilisateurs, où qu’ils se trouvent{: #health-report }
+### Améliorer les performances et la stabilité de nos utilisateurs, où qu’ils se trouvent {: #health-report }
 
 * __Données d’interaction__ : Firefox nous envoie des données relatives à vos interactions avec Firefox (comme le nombre d’onglets et de fenêtres ouverts, le nombre de pages web visitées, le nombre et type d’extensions Firefox installées et la durée des sessions) et les fonctionnalités Firefox proposées par Mozilla ou nos partenaires (comme les fonctionnalités de recherche sur Firefox ou les recommandations de notre partenaire de recherche).
 
@@ -44,7 +44,7 @@ Firefox affiche des contenus tels que : Recommandations d’extensions, Sites p
 
 * __Recommandations d’extensions et de fonctionnalités__: Nous recommandons l’utilisation d’extensions à deux emplacements : la page Gestion de vos extensions (about:addons) et la barre d’adresse intelligente, dans laquelle vous pouvez rechercher ou saisir des URL. Nous pouvons également recommander des fonctionnalités Firefox dans la barre d’adresse intelligente. Nous basons nos recommandations dans about:addons sur un cookie. Nous basons nos recommandations dans la barre d’adresse intelligente sur vos interactions avec Firefox. Mozilla ne reçoit pas votre historique de navigation. Le processus opère localement dans la copie de Firefox installée sur votre ordinateur. En savoir plus sur les [recommandations de la barre d’adresse intelligente](https://support.mozilla.org/kb/extension-recommendations) ou celles de la page [Extensions recommandées](https://support.mozilla.org/kb/personalized-extension-recommendations).
 
-### Améliorer la sécurité des utilisateurs du monde entier{: #security }
+### Améliorer la sécurité des utilisateurs du monde entier {: #security }
 
 **Données de pages Web vers service de résolution DNS** : Pour certains utilisateurs de Firefox, Firefox dirige les demandes DNS vers un service de résolution qui s’est engagé à respecter les [normes de confidentialité strictes de Mozilla pour les services de résolution](https://wiki.mozilla.org/Security/DOH-resolver-policy). Cela apporte aux réseaux locaux une couche de sécurité supplémentaire contre les violations de la vie privée et protège également contre certaines attaques contre le DNS. Les fichiers journaux de vos demandes DNS sont supprimés du service dans les 24 heures et ne sont utilisés qu’à des fins de résolution DNS. [En savoir plus ici](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers), ou auprès de nos prestataires de service de résolution DNS ci-dessous :
 
@@ -86,7 +86,7 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
 ## Si vous utilisez ces fonctionnalités, Firefox partagera les données obtenues pour vous offrir d’autres fonctionnalités et nous aider à améliorer nos produits et services : {: #optional-features }
 
-### Firefox Suggest et Top Pick{: #searches }
+### Firefox Suggest et Top Pick {: #searches }
 
 Mozilla est en train de développer une nouvelle fonctionnalité destinée à vous fournir de meilleures informations plus facilement. Elle s’appelle Firefox Suggest et une version est disponible en avant-première pour les utilisateurs aux USA. Par défaut, Firefox Suggest vous présente du contenu recommandé et sponsorisé en fonction des données stockées localement sur votre ordinateur, par exemple les sites Web de votre historique de navigation, de vos marque-pages et de vos onglets ouverts. 
 

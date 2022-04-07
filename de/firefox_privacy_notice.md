@@ -86,7 +86,7 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
 ## Falls Sie diese Features verwenden, wird Firefox Daten teilen, um Ihnen bestimmte Funktionen bereitzustellen und unsere Produkte und Services zu verbessern: {: #optional-features }
 
-### Firefox Suggest und Top Pick{: #searches }
+### Firefox Suggest und Top Pick {: #searches }
 
 Mozilla entwickelt gegenwärtig eine neue Funktion, mit der Sie mit weniger Aufwand bessere Informationen erhalten. Diese Funktion heißt Firefox Suggest. Eine frühe Version von Firefox Suggest steht Nutzern in den Vereinigten Staaten bereits zur Verfügung. Passend zu lokalen Daten, die auf Ihrem Computer gespeichert sind (z. B. Websites in Ihrem Browserverlauf, Lesezeichen und offene Tabs), zeigt Ihnen Firefox Suggest standardmäßig empfohlene und gesponserte Inhalte an. 
 

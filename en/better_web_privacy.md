@@ -18,5 +18,5 @@ To learn more about how we receive and handle information, and how you can engag
 ### Firefox Better Web Requires a Scroll Account. {: #scrollaccount }
 * This service requires a Scroll account, which sends Mozilla your email address, locale, and IP address. For more information about the data Scroll collects and how it uses that data, see [Scroll’s privacy policy](https://scroll.com/privacy).
 
-### The Firefox Better Web Browser Add-on does not collect data. {: fwbaddon }
+### The Firefox Better Web Browser Add-on does not collect data. {: #fwbaddon }
 * The Firefox Better Web Add-on does not collect any data. Firefox does collect technical data about the Add-ons you have installed. This is explained in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#addons).
