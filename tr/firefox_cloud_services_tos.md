@@ -1,7 +1,7 @@
-# Firefox Bulut Hizmetleri: Hizmet Koşulları
+﻿# Firefox Bulut Hizmetleri: Hizmet Koşulları
 
-Son Güncelleme: 10 Eylül 2019 Salı
-{: datetime="2019-09-10" }
+Son Güncelleme: 10 Nisan 2022 Pazar
+{: datetime="2022-04-10" }
 
 ## Özet
 
@@ -18,59 +18,59 @@ Son Güncelleme: 10 Eylül 2019 Salı
 
 2. #### Firefox Hesapları
 
-    Bazı Hizmetleri kullanmak için bir Firefox Hesabı oluşturmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Firefox hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olacaksınız. Mozilla, Firefox hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
+    Bazı Hizmetleri kullanmak için bir Firefox hesabı oluşturmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Firefox hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olacaksınız. Mozilla, Firefox hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
 
-3. #### Hizmetler
+3. #### Hizmetler 
 
-    (a) Firefox Screenshots, daha sonra siz veya başkaları tarafından görüntülenebilecek web sayfası içeriklerini yakalamanıza izin verir. 
+    (a) Mozilla VPN, [Mullvad](https://mullvad.net/) ile ortaklaşa bir Sanal Özel Ağdır. Bir Firefox hesabı gereklidir.
     
-    (b) Firefox Lockwise, cihazlar genelinde Firefox’a kaydedilen şifrelere erişmenize izin verir. Firefox Hesabı gereklidir. 
-
-    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Firefox Hesabı ile kayıt yaptırırsanız, aşağıdakileri alırsınız: 
+    (b) Firefox Relay, birincil e-posta adresinizi açıklamadan e-posta gönderip almanıza olanak tanıyan benzersiz, takma ad e-posta adresleri oluşturarak birincil e-posta adresinizi çevrimiçi hizmetlerden güvenli ve gizli tutmanıza olanak tanır. Bir Firefox hesabı gereklidir.
+    
+    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Firefox hesabı ile kayıt yaptırırsanız, aşağıdakileri alırsınız: 
 
     * Tam Rapor: Bu rapor, çocuklar için hassas olan siteler veya yetişkin siteleri ve arkadaş bulma siteleri gibi hassas web sitelerinin ihlalleri de dahil olmak üzere, herkese açık saldırıların tam bir listesini içerir (bu tür siteler, söz konusu bireylerin gizliliğini korumak için web sitesi taramalarına dahil edilmez). 
     * İhlal Uyarıları: E-posta adresinizin yeni bir veri ihlalinde görüntülenmesi durumunda sizi bilgilendirir. 
     * Güvenlik İpuçları: Mozilla’dan muhtelif zamanlarda alacağınız çevrimiçi güvenlik ipuçlarını size gönderir.
 
-    Güçlü ve farklı şifreler, güvenlik soruları, iki adımda kimlik doğrulama, şifre yöneticileri ve diğer güvenlik tedbirleriyle çevrimiçi hesaplarınızı korumak, sizin sorumluluğunuzdadır. Firefox Monitor ve [Have I Been Pwned?](https://haveibeenpwned.com/) verileri güncel tutmaya çalışmakla birlikte, ikisinin de herkese açık veri ihlallerine ilişkin tam veya zamanında sunulan kayıtlara sahip olacağına yönelik bir garanti yoktur.
+    Güçlü ve farklı şifreler, güvenlik soruları, iki adımda kimlik doğrulama, şifre yöneticileri ve diğer güvenlik tedbirleriyle çevrimiçi hesaplarınızı korumak, sizin sorumluluğunuzdadır. Firefox Monitor ve [Have I Been Pwned?](https://haveibeenpwned.com/) verileri güncel tutmaya çalışmakla birlikte, ikisinin de herkese açık veri ihlallerine ilişkin tam veya zamanında sunulan kayıtlara sahip olacağına yönelik bir garanti yoktur. 
 
-    (d) Firefox Notes, Firefox’ta not almanıza izin verir. Cihazlardaki Notlarınızı görüntülemek, düzenlemek ve silmek için bir Firefox Hesabı gereklidir.  
+    (d) Firefox Notes, Firefox’ta not almanıza izin verir. Cihazlardaki notlarınızı görüntülemek, düzenlemek ve silmek için bir Firefox hesabı gereklidir. 
 
-    (e) Firefox Send, otomatik olarak süresi dolan şifrelenmiş dosyalar paylaşmanıza izin verir. Büyük boyutlu dosyalar için bir Firefox Hesabı gereklidir.
-
-    (f) Firefox Sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox Sync’i Firefox’un Araçlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Firefox Hesabı gereklidir. 
+    (e) Firefox sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox sync’i Firefox’un Ayarlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Bir Firefox hesabı gereklidir. 
     
-    (g) Firefox Özel Ağı, IP adresinizi gizlemek için Firefox tarayıcınızla internet arasına bir aracı yerleştirerek daha gizli gezinti deneyimi yaşamanızı sağlayan bir ara sunucu hizmetidir. Firefox Hesabı gereklidir.
+    (f) Pocket, ilgi alanlarınıza göre kişiselleştirilmiş harika içeriği keşfetmenize ve bu içeriği daha sonra herhangi bir cihazda, istediğiniz zaman geri dönebilmeniz için kaydetmenize yardımcı olur. 
 
 4. #### Gizlilik Politikası
 
     Hizmetler aracılığıyla aldığımız bilgileri [Mozilla Gizlilik Politikamızda](https://www.mozilla.org/privacy/) açıklandığı şekilde kullanırız. Gizlilik Bildirimlerimiz, her bir hizmetten aldığımız verileri daha ayrıntılı olarak açıklar:
 
-    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
-    * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
+    * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-    * [Firefox Send](http://send.firefox.com/legal)
-    * [Firefox Screenshots ve Sync](https://www.mozilla.org/privacy/firefox/#sync)
-    * [Firefox Özel Ağı](https://www.mozilla.org/privacy/firefox-private-network/)
+    * [Firefox sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+    * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
+    * [Pocket](https://getpocket.com/privacy/)
 
-5. #### İletişimler
+5. #### İletişim
 
-    Firefox Hesabınızdan en iyi şekilde yararlanmanızı sağlamak için düzenli olarak mesajlar göndeririz. Bu mesajları ürün içinde veya Firefox Hesabı e-posta adresiniz üzerinden alabilirsiniz. Mesajlar; katılım, farklı Firefox Hesap hizmetleri ile ilgili teklifleri ve anketleri kapsar. Mesaj almayı bırakmak için e-postalarımızın alt kısmında yer alan bağlantıyı tıklayın.
+    Firefox Hesabınızdan en iyi şekilde yararlanmanızı sağlamak için düzenli olarak mesajlar göndeririz. Bu mesajları ürün içinde veya kaydolduğunuz adrese alabilirsiniz. Mesajlar; katılım, farklı Firefox hesap hizmetleri ile ilgili teklifleri ve anketleri kapsar. Diğer e-posta mesajlarını almayı da seçebilirsiniz. 
+    
+    Mozilla ile e-posta aboneliklerinizi e-postalarımızdan (alttaki bağlantıyı tıklayın) veya tarayıcıdan (Firefox / Tercihler / Sync / Hesabı yönet / E-posta Tercihleri sayfasını ziyaret edin) değiştirebilirsiniz.
     
     Ayrıca yasal koşullar veya gizlilik koşullarına ilişkin güncellemeler veya şifre sıfırlama ve e-posta doğrulaması gibi mesajlar ile bağlantılı cihazlara yönelik önemli hesap bilgilerini de size gönderebiliriz. Bu bilgiler, hizmetlerimiz için gereklidir ve bunları almayı bırakmak mümkün değildir. 
 Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 veya legal-notices@mozilla.com_ 
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 
-    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla bağlantılı olarak içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için [buraya](https://www.mozilla.org/about/legal/report-infringement/) bakın. İstismar niteliğindeki Ekran Görüntülerini bildirmek için screenshots-report@mozilla.com adresi üzerinden görüntüye ait bir bağlantıyı bize e-posta olarak gönderin.
+    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için ](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
 
 7. #### Mozilla'nın Mülkiyet Hakları
 
-    Mozilla; Hizmetlerde, bu Koşullarda özellikle belirtilmemiş olan herhangi bir fikri mülkiyet hakkını size vermemektedir. Örneğin bu Koşullar; Mozilla’nın telif hakları, ticari markaları, hizmet markaları, logoları, alan adları veya diğer özgün marka özelliklerinden hiçbirini kullanmanıza yönelik bir hak vermez. Hizmetler, [Mozilla Kamu Lisansı](https://www.mozilla.org/MPL/) güncel versiyonu kapsamında dağıtılır ve buna tabidir.
+    Mozilla; Hizmetlerde, bu Koşullarda özellikle belirtilmemiş olan herhangi bir fikri mülkiyet hakkını size vermemektedir. Örneğin bu Koşullar; Mozilla’nın telif hakları, ticari markaları, hizmet markaları, logoları, alan adları veya diğer özgün marka özelliklerinden hiçbirini kullanmanıza yönelik bir hak vermez. 
 
 8. #### Süre; Sonlandırma
 
-    İşbu Koşullar, siz veya Mozilla tarafından sonlandırılana kadar geçerli olmaya devam edecektir. Firefox hesabınızı devre dışı bırakarak ve Hizmet kullanımınızı sonlandırarak bunları dilediğiniz zaman, dilediğiniz nedenle sonlandırabilirsiniz.
+    İşbu Koşullar, siz veya Mozilla tarafından sonlandırılana kadar geçerli olmaya devam edecektir. Firefox hesabınızı silerek, Hizmetleri kullanımınıza son vererek ve geçerli olması halinde, e-posta aboneliğinizi iptal ederek herhangi bir nedenle bunları istediğiniz zaman sonlandırmayı seçebilirsiniz. 
 
     Aşağıdakiler de dahil olmak, ancak bunlarla sınırlı olmamak kaydıyla, makul bir şekilde geçerliliğine inandığımız herhangi bir neden doğrultusunda Hizmetler’e erişiminizi askıya alabilir veya sonlandırabiliriz: (i) Koşulları ihlal etmeniz, (ii) bizim için risk veya olası yasal risk teşkil etmeniz; veya (iii) Hizmetler'i tarafınıza sunmamızın ticari açıdan artık uygun olmaması. Firefox hesabınızla ilişkili e-posta adresi üzerinden veya ileride Hizmetler’e erişmeye çalıştığınızda sizi bilgilendirmek için makul çabaları sarf edeceğiz.
 
@@ -88,8 +88,8 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 
 11. #### Bu Koşullara Yönelik Değişiklikler
 
-    Mozilla; işbu Koşulları, Hizmetler’in yeni bir özelliğini ele almak veya bir hükmü açığa kavuşturmak üzere muhtelif zamanlarda güncelleyebilir. Güncellenen Koşullar, çevrimiçi olarak yayınlanacaktır. Değişikliklerin asli olması durumunda güncelleme, blog gönderileri ve forumlar gibi bu tür duyurular için her zaman kullanılan Mozilla kanalları üzerinden duyuracağız. Söz konusu değişikliklerin geçerlilik tarihi sonrasında Hizmetleri sürekli olarak kullanımınız, bu değişiklikleri kabul ettiğiniz anlamına gelir. İncelemenizi daha kolay hale getirmek amacıyla geçerlilik tarihini bu sayfanın üst kısmında paylaşacağız.
+    Mozilla; işbu Koşulları, yeni bir Hizmeti, Hizmetlerin özelliğini ele almak veya bir hükmü açığa kavuşturmak üzere muhtelif zamanlarda güncelleyebilir. Güncellenen Koşullar, çevrimiçi olarak yayınlanacaktır. Değişikliklerin asli olması durumunda güncelleme, blog gönderileri ve forumlar gibi bu tür duyurular için her zaman kullanılan Mozilla kanalları üzerinden duyuracağız. Söz konusu değişikliklerin geçerlilik tarihi sonrasında Hizmetleri sürekli olarak kullanımınız, bu değişiklikleri kabul ettiğiniz anlamına gelir. İncelemenizi daha kolay hale getirmek amacıyla geçerlilik tarihini bu sayfanın üst kısmında paylaşacağız.
 
 12. #### Muhtelif Hususlar
 
-    İşbu Koşullar, siz ve Mozilla arasında Hizmetlerle ilgili olarak anlaşmanın tamamını teşkil etmekte olup, yasa hükümleriyle çatışmalar dahil olmamak üzere ABD, Kaliforniya eyaleti yasalarıyla yönetilir. İşbu Koşulların herhangi bir bölümünün geçersiz veya uygulanamaz olması durumunda kalan bölümler, tam olarak yürürlükte kalmaya devam edecektir. Bu koşulların tercüme edilmiş versiyonu ve İngilizce dilindeki versiyonu arasında bir çatışma olması halinde, İngilizce dilindeki versiyon geçerli olacaktır.
+    Bu Koşullar, kanun hükümleri ihtilafı hariç olmak üzere, ABD'nin Kaliforniya eyaletinin kanunlarına tabidir. İşbu Koşulların herhangi bir bölümünün geçersiz veya uygulanamaz olması durumunda kalan bölümler, tam olarak yürürlükte kalmaya devam edecektir. Bu koşulların tercüme edilmiş versiyonu ve İngilizce dilindeki versiyonu arasında bir çatışma olması halinde, İngilizce dilindeki versiyon geçerli olacaktır.
