@@ -86,7 +86,7 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
-### Firefox Suggest and Top Pick{: #searches }
+### Firefox Suggest and Top Pick {: #searches }
 
 Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs. 
 
