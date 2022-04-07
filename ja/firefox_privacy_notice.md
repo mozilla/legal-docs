@@ -86,7 +86,7 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 
 ## あなたが以下の機能を使用した場合、Firefox は機能を提供し、Firefox の製品とサービスを改善するためにデータを共有します。 {: #optional-features }
 
-### Firefox Suggest と Top Pick{: #searches }
+### Firefox Suggest と Top Pick {: #searches }
 
 Mozilla では、より少ない労力でより質の高い情報を皆様にお届けする新しい機能を開発しています。この機能は Firefox Suggest と呼ばれ、現在、初期バージョンが米国にお住まいのユーザー向けに提供されています。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータに基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。
 

@@ -86,7 +86,7 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
 ## Als u deze functies gebruikt, deelt Firefox gegevens om de functionaliteit mogelijk te maken en onze producten en diensten te verbeteren: {: #optional-features }
 
-### Firefox Suggest en Top Pick{: #searches }
+### Firefox Suggest en Top Pick {: #searches }
 
 Mozilla ontwikkelt een nieuwe functie waarmee u sneller betere informatie kunt vinden. We noemen de functie Firefox Suggest. Gebruikers in de Verenigde Staten hebben momenteel toegang tot een vroege versie. Standaard toont Firefox Suggest u aanbevolen en gesponsorde inhoud op basis van lokale gegevens die op uw eigen computer zijn opgeslagen, zoals websites uit uw browsegeschiedenis, bladwijzers en geopende tabbladen. 
 

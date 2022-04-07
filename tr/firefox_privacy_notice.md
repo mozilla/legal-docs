@@ -86,7 +86,7 @@ Tüm belgeleri [buradan](https://firefox-source-docs.mozilla.org/toolkit/crashre
 
 ## Aşağıdaki özellikleri kullanırsanız Firefox size işlevsellik sunmak, ürünlerimizi ve hizmetlerimizi iyileştirmemize yardımcı olmak için bazı verileri paylaşacaktır: {: #optional-features }
 
-### Firefox Önerisi ve En İyi Seçim{: #searches }
+### Firefox Önerisi ve En İyi Seçim {: #searches }
 
 Mozilla size daha az çabayla daha iyi bilgiler sunmamızı sağlayan yeni bir özellik geliştiriyor. Firefox Önerileri adındaki bu yeni özelliğin ilk sürümü ABD’de kullanıcılara sunuldu. Varsayılan olarak, Firefox Önerileri, gezinti geçmişinizdeki web siteleri, yer imleri ve açık sekmeler gibi kendi bilgisayarınızda depolanan yerel verilere dayalı olarak önerilen ve sponsorlu içeriği gösterir. 
 

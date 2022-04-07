@@ -86,7 +86,7 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 
 ## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
 
-### Podpowiedzi Firefoksa i Top Pick (najczęściej wybierane strony){: #searches }
+### Podpowiedzi Firefoksa i Top Pick (najczęściej wybierane strony) {: #searches }
 
 Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Domyślnie funkcja Podpowiedzi Firefoksa przedstawia użytkownikowi rekomendowane i sponsorowane treści w oparciu o lokalne dane przechowywane na komputerze użytkownika, takie jak witryny z historii przeglądania, zakładki i otwarte karty. 
 

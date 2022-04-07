@@ -86,7 +86,7 @@ Bạn có thể tham khảo toàn bộ tài liệu [tại đây](https://firefox
 
 ## Nếu bạn sử dụng các tính năng này, Firefox sẽ chia sẻ dữ liệu để cung cấp chức năng cho bạn và giúp chúng tôi cải tiến sản phẩm và dịch vụ: {: #optional-features }
 
-### Firefox Suggest và Top Pick (Lựa chọn Hàng đầu){: #searches }
+### Firefox Suggest và Top Pick (Lựa chọn Hàng đầu) {: #searches }
 
 Mozilla đang phát triển một tính năng mới sẽ giúp chuyển giao thông tin của bạn hiệu quả và đỡ tốn công hơn. Đây là Firefox Suggest và phiên bản còn mới hiện tại đang khả dụng cho người dùng tại Hoa Kỳ. Theo mặc định, Firefox Suggest sẽ hiển thị cho bạn nội dung được khuyến nghị và được tài trợ dựa trên dữ liệu cục bộ được lưu trên máy tính của riêng bạn, như website từ lịch sử trình duyệt của bạn, dấu trang hay các thẻ mở. 
 
