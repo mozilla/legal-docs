@@ -44,7 +44,7 @@ Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料�
 
 * __推薦附加元件及功能__：我們會在兩個地方推薦附加元件：管理您的擴充套件頁面（about:addons），以及您搜尋或輸入網址的智慧位址列 (Awesome Bar)。我們也可能會透過智慧位址列 (Awesome Bar) 推薦 Firefox 功能。我們會根據 cookie 在 about:addons 內推薦內容。我們會根據您使用 Firefox 的情形在智慧位址列 (Awesome Bar) 內推薦內容。Mozilla 不會收到您的瀏覽器記錄。這項程序會在您電腦本機的 Firefox 複本內處理。進一步了解[智慧位址列 (Awesome Bar) 推薦內容](https://support.mozilla.org/kb/extension-recommendations)及[擴充套件頁面推薦內容](https://support.mozilla.org/kb/personalized-extension-recommendations)
 
-### 為所有使用者增強安全性{: #security }
+### 為所有使用者增強安全性 {: #security }
 
 **傳輸至 DNS 解析程式服務的網頁資料**：部份使用者的 Firefox 會向解析程式服務傳送 DNS 要求，該服務已同意 Mozilla 的[解析程式嚴格隱私權標準](https://wiki.mozilla.org/Security/DOH-resolver-policy)。這樣做能進一步防止隱私內容洩漏至當地網路，也能防護特定的 DNS 安全性攻擊。該服務在 24 小時內便會刪除 DNS 要求的系統記錄，並只會將該記錄用來進行 DNS 解析。[進一步了解](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)或查看我們以下列出的預設 DNS 解析程式服務：
 
@@ -86,7 +86,7 @@ Mozilla 及 Pocket 將會收到您觀看及點閱之推薦內容的彙總資料�
 
 ## 如果您使用這些功能，則 Firefox 將會分享資料，以便供您使用功能，並幫助我們改善產品及服務品質： {: #optional-features }
 
-### Firefox Suggest / Top Pick （建議和精選內容）{: #searches }
+### Firefox Suggest / Top Pick （建議和精選內容） {: #searches }
 
 Mozilla 正在開發新功能，可以幫助您用更輕鬆的方式獲得更優質的資訊。這項新功能稱作 Firefox Suggest，目前已向美國境內的使用者提供早期版本使用。Firefox Suggest 會預設根據您電腦裡所儲存的本機資料顯示推薦及贊助內容，這類資料包括瀏覽記錄內的網站、書籤及開啟的分頁等等。
 
