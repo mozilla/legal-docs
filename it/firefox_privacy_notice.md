@@ -86,7 +86,7 @@ Leggere la documentazione completa [qui](https://firefox-source-docs.mozilla.org
 
 ## Se si usano queste funzioni, Firefox condividerà alcuni dati per fornire le funzionalità e per aiutarci migliorare i nostri prodotti e servizi: {: #optional-features }
 
-### Firefox Suggest e Top Pick (Suggerimenti e migliori scelte Firefox){: #searches }
+### Firefox Suggest e Top Pick (Suggerimenti e migliori scelte Firefox) {: #searches }
 
 Mozilla sta sviluppando una nuova funzione che ci aiuta a fornire agli utenti informazioni migliori più facilmente. La funzione è chiamata Firefox Suggest e una sua prima versione è al momento disponibile per gli utenti negli Stati Uniti. Per impostazione predefinita, Firefox Suggest mostra contenuti consigliati e sponsorizzati basati su dati locali memorizzati nel computer dell'utente, come siti web presenti nella cronologia di navigazione, segnalibri e schede aperte. 
 

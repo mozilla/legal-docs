@@ -86,7 +86,7 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 
 ## Jika Anda menggunakan fitur-fitur ini, Firefox akan membagikan data untuk menyediakan fungsionalitas dan membantu kami meningkatkan produk dan layanan: {: #optional-features }
 
-### Firefox Suggest dan Top Pick{: #searches }
+### Firefox Suggest dan Top Pick {: #searches }
 
 Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanpa susah payah. Fitur ini disebut Firefox Suggest dan versi awalnya tersedia bagi pengguna di Amerika Serikat. Secara baku, Firefox Suggest menunjukkan kepada Anda konten yang direkomendasikan dan bersponsor berdasarkan data lokal yang disimpan di komputer Anda sendiri, seperti situs web dari riwayat penjelajahan Anda, bookmark, dan tab yang dibuka. 
 

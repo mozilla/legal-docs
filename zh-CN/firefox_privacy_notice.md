@@ -86,7 +86,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
 ## 如果您使用这些功能，Firefox 将共享数据，为您提供功能并帮助我们改进产品和服务： {: #optional-features }
 
-### Firefox Suggest 和 Top Pick{: #searches }
+### Firefox Suggest 和 Top Pick {: #searches }
 
 Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息。我们称之为 Firefox Suggest，早期版本现已面向美国用户开放使用。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡。
 
