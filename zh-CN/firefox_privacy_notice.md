@@ -17,7 +17,7 @@
 
 * __技术数据__：Firefox 会向我们发送以下数据：您的 Firefox 版本和语言；设备操作系统和硬件配置；内存、关于崩溃和错误的基本信息；自动化流程结果，如更新、安全浏览和激活。当 Firefox 向我们发送数据时，会将您的 IP 地址作为服务器日志的一部分暂时收集。
 
-阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox)和[移动](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
+阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)和[移动](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
 {: #telemetry }
 
 ### 搜索 {: #defaultsearch }
