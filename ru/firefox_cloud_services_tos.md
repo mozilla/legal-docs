@@ -49,7 +49,7 @@
     * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-    * [Firefox Send](http://send.firefox.com/legal)
+    * [Firefox Send](https://send.firefox.com/legal)
     * [Firefox Screenshots и Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
     * [Частная сеть Firefox](https://www.mozilla.org/privacy/firefox-private-network/)
 
