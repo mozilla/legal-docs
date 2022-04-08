@@ -9,7 +9,7 @@ Baldintza hauek onartzen badituzu soilik har dezakezu parte Common Voice-n.
 ## 1. Parte hartzeko aukera
 Common Voice-n parte hartzeko, 19 urte baino gehiago izan behar dira. 19 urte edo gutxiago badituzu, gurasoen edo tutorearen baimena izan behar duzu, eta haiek gainbegiratu behar dute nola hartzen duzun parte Common Voice-n. 
 
-Mozilla komunitatearen parte da Common Voice. Ondorioz, parte hartzen baduzu, [Mozilla komunitatearen parte hartzeko gidalerroei](https://www.mozilla.org/en-US/about/governance/policies/participation/) jarraitzea onartuko duzu. 
+Mozilla komunitatearen parte da Common Voice. Ondorioz, parte hartzen baduzu, [Mozilla komunitatearen parte hartzeko gidalerroei](https://www.mozilla.org/about/governance/policies/participation/) jarraitzea onartuko duzu. 
 
 ## 2. Zure ekarpenak 
 [Creative Commons-en CC0 jabari publikoko dedikazioaren](https://creativecommons.org/publicdomain/zero/1.0/) pean eskaintzen dugu Mozilla-ren Common Voice datu basea. Beraz, publikoa da, eta legeak uzten duen heinean egin diegu uko copyright eskubide guztiei. Common Voice-n parte hartzen baduzu, gauza bera egin beharko duzu. Onartu egin beharko duzu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) jabari publikoko dedikazioaren pean eskaini ahal izango dizkiola Mozilla-k jendeari zure ekarpen guztiak (adibidez, testua, grabaketak, balioztatzeak eta iritzia). 

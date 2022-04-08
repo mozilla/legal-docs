@@ -9,7 +9,7 @@ Anda dapat berpartisipasi di Common Voice jika setuju dengan Ketentuan berikut i
 ## 1. Persyaratan
 Common Voice terbuka bagi siapa saja yang berusia di atas 19 tahun. Jika Anda berusia 19 tahun atau kurang, Anda harus meminta persetujuan orang tua atau wali, dan mereka harus mengawasi partisipasi Anda dalam Common Voice.
 
-Common Voice adalah bagian dari Komunitas Mozilla. Dengan ikut serta, Anda juga setuju untuk mematuhi [Pedoman Partisipasi Komunitas Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice adalah bagian dari Komunitas Mozilla. Dengan ikut serta, Anda juga setuju untuk mematuhi [Pedoman Partisipasi Komunitas Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Kontribusi Anda 
 Kami menyediakan basis data Common Voice Mozilla berdasarkan [dedikasi domain publik Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Artinya basis data ini tersedia untuk publik dan kami telah membebaskan semua hak cipta sejauh yang diizinkan oleh undang-undang. Jika Anda berpartisipasi dalam Common Voice, kami minta Anda bertindak yang sama. Anda harus setuju bahwa Mozilla bisa menawarkan semua Kontribusi Anda (termasuk teks, rekaman, validasi, dan masukan) kepada publik berdasarkan dedikasi domain publik [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

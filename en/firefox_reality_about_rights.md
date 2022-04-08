@@ -11,7 +11,7 @@ Firefox Reality is free and open source software. There are a few things you sho
 
 ## Firefox Reality Web-Based Information Services
 
-Firefox Reality uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of Firefox Reality under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found [here](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-devices). Other features and Services can be disabled in the application preferences.
+Firefox Reality uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of Firefox Reality under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found [here](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices). Other features and Services can be disabled in the application preferences.
 
 1. Mozilla and its contributors, licensors and partners work to provide the most accurate and up-to-date Services. However, we cannot guarantee that this information is comprehensive and error-free. 
 1. Mozilla may discontinue or change the Services at its discretion.

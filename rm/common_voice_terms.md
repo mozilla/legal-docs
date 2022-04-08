@@ -9,7 +9,7 @@ Tü poust tour part a Common Voice scha acceptast quists Terms.
 ## 1. Elegibiltà
 Common Voice es avert a tuots tschels plü vegls da 19. Scha t’hasch main co 19 onns, teis genituor obain teis chürunz sto dar approvaziun e suvagliar tia partecipaziun a Common Voice.
 
-Common Voice es part da la Comunità Mozilla. Da consequenza, pigliond part tü acconsentischast a la [Directiva da Partecipaziun da la Comunità Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice es part da la Comunità Mozilla. Da consequenza, pigliond part tü acconsentischast a la [Directiva da Partecipaziun da la Comunità Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Teis Contribuziuns 
 La banca da datas Common Voice da Mozilla es disponibla tanter la [dedicaziun a la publica domena Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Cha voul dir ella es publica e nous avains renunzchà a tuots copyrights seguond il dret. Scha tü pigliast part a Common Voice, stoust far l’istess. Tü stoust acconsentir cha Mozilla possa offrir teis contribuziuns (cumprais pleds, registraziuns, confermas e opiniuns) publicamaing tanter la dedicaziun a la publica domena [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

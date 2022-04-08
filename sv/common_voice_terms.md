@@ -9,7 +9,7 @@ Du kan bara delta i Common Voice om du godkänner följande villkor.
 ## 1. Kvalifikationskrav
 Common Voice är öppet för alla över 19 år. Om du är 19 år eller yngre måste du ha din förälders eller vårdnadshavares godkännande och de måste övervaka din medverkan i Common Voice. 
 
-Common Voice är en del av Mozilla Community. Därför godkänner du, om du vill delta, att följa [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) (riktlinjer för medverkan i Mozilla Community). 
+Common Voice är en del av Mozilla Community. Därför godkänner du, om du vill delta, att följa [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) (riktlinjer för medverkan i Mozilla Community). 
 
 ## 2. Dina bidrag 
 Vi gör Mozillas Common Voice-databas tillgänglig i enlighet med [Creative Commons CC0 Public domain-dedikation](https://creativecommons.org/publicdomain/zero/1.0/). Det betyder att innehållet är offentligt och att vi har avsagt oss all upphovsrätt till den grad det medges enligt lag. Om du deltar i Common Voice behöver du göra detsamma. Du måste godkänna att Mozilla kan erbjuda alla dina Bidrag (däribland texter, inspelningar, valideringar och feedback) till det allmänna i enlighet med the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain-dedikationen. 

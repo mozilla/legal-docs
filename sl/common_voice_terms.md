@@ -9,7 +9,7 @@ V Common Voice lahko sodelujete le, če se strinjate s temi Pogoji in določili.
 ## 1. Izpolnjevanje pogojev
 Common Voice je odprt za vsakogar nad 19 let. Če ste stari 19 ali manj, morate imeti privolitev staršev ali skrbnika in oni morajo nadzorovati vaše sodelovanje v Common Voice.
 
-Common Voice je del skupnosti Mozilla. Kot rezultat se, če se odločite, da boste sodelovali, strinjate, da boste sledili [smernicam skupnosti Mozilla za sodelovanje](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice je del skupnosti Mozilla. Kot rezultat se, če se odločite, da boste sodelovali, strinjate, da boste sledili [smernicam skupnosti Mozilla za sodelovanje](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Vaši prispevki 
 Podatkovna baza Mozille Common Voice je na voljo pod [prispevki na javni domeni Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). To pomeni, da je javna in odrekli smo se avtorskim pravicam do zakonsko omogočene mere. Če sodelujete v Common Voice, prosimo, da storite to tudi vi. Strinjati se morate, da lahko Mozilla ponudi vse vaše prispevke (vključno z besedilom, posnetki, potrditvami in povratnimi informacijami) javnosti pod prispevki na javni domeni [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

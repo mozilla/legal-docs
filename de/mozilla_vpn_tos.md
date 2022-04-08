@@ -31,7 +31,7 @@ Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](
 
 __Gerätelimit.__ So lange Ihr Abonnement aktiv ist, können Sie bis zu 5 Geräte mit Mozilla VPN verbinden.
 
-__Ihre Lizenz für die Nutzung des Dienstes.__ Die Mozilla VPN-Software wird Ihnen unter den Bedingungen der [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) zur Verfügung gestellt.
+__Ihre Lizenz für die Nutzung des Dienstes.__ Die Mozilla VPN-Software wird Ihnen unter den Bedingungen der [Mozilla Public License](https://www.mozilla.org/MPL/) zur Verfügung gestellt.
 
 __Ihr Feedback und Ihre Vorschläge.__ Falls Sie Mozilla Ideen, Vorschläge oder Feedback über Firefox-Konten oder die von Ihnen über Ihr Konto genutzten Dienste übermitteln, erteilen Sie Mozilla das Recht, diese kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 

@@ -9,7 +9,7 @@ Uczestnictwo w Common Voice jest możliwe tylko w przypadku zaakceptowania tych 
 ## 1. Kwalifikacja
 Inicjatywa Common Voice jest otwarta dla wszystkich osób w wieku powyżej 19 lat. Jeśli Użytkownik ma 19 lat lub mniej, musi uzyskać zgodę rodzica lub opiekuna, który będzie nadzorować uczestnictwo Użytkownika w Common Voice.
 
-Common Voice stanowi część społeczności Mozilli. Oznacza to, że w przypadku przystąpienia do inicjatywy Użytkownik zgadza się przestrzegać [Wytycznych dotyczących uczestnictwa w społeczności Mozilli](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice stanowi część społeczności Mozilli. Oznacza to, że w przypadku przystąpienia do inicjatywy Użytkownik zgadza się przestrzegać [Wytycznych dotyczących uczestnictwa w społeczności Mozilli](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Wkład Użytkownika 
 Bazę danych Mozilla Common Voice udostępniamy na warunkach licencji [Creative Commons CC0 Przekazanie do Domeny Publicznej](https://creativecommons.org/publicdomain/zero/1.0/). Oznacza to, że jest ona publiczna, a my zrzekliśmy się wszelkich praw autorskich w zakresie, w jakim jest to możliwe na mocy prawa. W przypadku uczestnictwa w inicjatywie Common Voice wymagamy od Użytkownika tego samego. Użytkownik musi zaakceptować, że Mozilla może oferować publicznie cały Wkład Użytkownika (w tym tekst, nagrania, weryfikacje i opinie) w ramach licencji [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Przekazanie do Domeny Publicznej.

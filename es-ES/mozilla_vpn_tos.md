@@ -31,7 +31,7 @@ Además, acepta que su uso del Servicio se regirá por las [Condiciones de uso](
 
 __Número máximo de dispositivos.__ Si tiene una suscripción activa, podrá conectar un máximo de 5 dispositivos a Mozilla VPN.
 
-__Su licencia de uso del software.__ El software de Mozilla VPN se pone a su disposición bajo los términos de la [Licencia Pública de Mozilla](https://www.mozilla.org/en-US/MPL/).
+__Su licencia de uso del software.__ El software de Mozilla VPN se pone a su disposición bajo los términos de la [Licencia Pública de Mozilla](https://www.mozilla.org/MPL/).
 
 __Sus comentarios y sugerencias.__ Si usted le proporciona a Mozilla ideas, sugerencias o comentarios relacionados con Firefox Accounts o los servicios que usa a través de su cuenta, le da permiso a Mozilla para usarlos sin ningún coste ni obligaciones adicionales.
 

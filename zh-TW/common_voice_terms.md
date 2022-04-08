@@ -9,7 +9,7 @@
 ## 1.資格
 Common Voice 開放給任何年滿 19 歲的人士。如果您未滿或正好為 19 歲，您必須取得家長或監護人的同意，且您在參與 Common Voice 活動時他們必須從旁監督。 
 
-Common Voice 屬於 Mozilla 社群所有，因此如果您打算加入，即表示您同意遵守 [Mozilla 社群參與準則](https://www.mozilla.org/en-US/about/governance/policies/participation/)。 
+Common Voice 屬於 Mozilla 社群所有，因此如果您打算加入，即表示您同意遵守 [Mozilla 社群參與準則](https://www.mozilla.org/about/governance/policies/participation/)。 
 
 ## 2.您的貢獻 
 Mozilla Common Voice 資料庫乃是按照 [Creative Commons CC0 公眾領域貢獻宣告](https://creativecommons.org/publicdomain/zero/1.0/) 建立而成，這表示此資料庫為公開性質，同時我們也會在法律允許的範圍內放棄所有著作權。如果您參與 Common voice，則您也必須如此。您必須同意 Mozilla 得按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 公眾領域貢獻宣告將您所有的貢獻內容（包含文字、錄音、驗證、意見回饋）提供給公眾使用。 
