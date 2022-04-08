@@ -1,0 +1,7 @@
+{
+    "anchors": [],
+    "links": [
+        "en_b::acceptable_use_policy.md",
+        "en_b::firefox_privacy_notice.md"
+    ]
+}

@@ -1,0 +1,27 @@
+name: Docs Linter
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    name: Lint documents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone l10n repository
+        uses: actions/checkout@v3
+      - name: Set up Python 3
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+      - name: Install Python dependencies
+        run: |
+          pip install -r .github/requirements.txt
+      - name: Run linter
+        run: |
+          python .github/scripts/lint_documents.py --path . --ref en --exceptions .github/scripts/linter_exceptions.json
