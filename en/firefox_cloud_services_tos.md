@@ -1,7 +1,7 @@
 # Firefox Cloud Services: Terms of Service
 
-Last Updated September 10, 2019
-{: datetime="2019-09-10" }
+Last Updated April 10, 2022
+{: datetime="2022-04-10" }
 
 ## Summary
 
@@ -18,17 +18,15 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 2. #### Firefox Accounts
 
-    In order to use some of the Services, you'll need to create a Firefox Account.  During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+    In order to use some of the Services, you'll need to create a Firefox account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Firefox account. Mozilla is not responsible for any losses arising out of unauthorized use of your Firefox account.
+
+3. #### Services 
+
+    (a) Mozilla VPN is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net/). A Firefox account is required.
     
-    “Join Firefox” is an offering available in some countries to better experience the Firefox family of products as well as practical privacy and security knowledge.
-
-3. #### Services
-
-    (a) Firefox Screenshots allows you to capture webpage content that can be viewed later by you or others. 
+    (b) Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allow you to send and receive emails without revealing your primary email address. A Firefox account is required.
     
-    (b) Firefox Lockwise lets you access passwords saved to Firefox across devices.  A Firefox Account is required. 
-
-    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches.   You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox Account, you will receive: 
+    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches. You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox account, you will receive: 
 
     * Full Report: This includes a complete list of publicly known hacks, including breaches of sensitive websites, such as those for children or adult and dating sites (these sites are excluded from website scans in order to protect the privacy of those individuals). 
     * Breach Alerts: This notifies you if your email address appears in a new data breach. 
@@ -36,45 +34,43 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/) strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
-    (d) Firefox Notes lets you take notes in Firefox.  A Firefox Account is required to view, edit, and delete your Notes across devices.  
+    (d) Firefox Notes lets you take notes in Firefox. A Firefox account is required to view, edit, and delete your Notes across devices. 
 
-    (e) Firefox Send lets you share encrypted files that automatically expire.  A Firefox Account is required for large file sizes. 
-
-    (f) Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.  A Firefox Account is required. 
+    (e) Firefox sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox sync through the Settings section of Firefox. A Firefox account is required. 
     
-    (g) Firefox Private Network is a proxy service that helps you browse more privately by placing an intermediary between your Firefox browser and the internet to obfuscate your IP address. A Firefox Account is required.
+    (f) Pocket helps you discover great content that’s personalized to your interests and save this content so you can return to it later – on any device, at any time. 
 
 4. #### Privacy Policy
 
     We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/). Our Privacy Notices describe in more detail the data we receive from each service:
 
-    * [Firefox Lockwise](https://support.mozilla.org/kb/firefox-lockwise-and-privacy)
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-    * [Firefox Send](http://send.firefox.com/legal) 
-    * [Firefox Screenshots and Sync](https://www.mozilla.org/privacy/firefox/#sync)
-    * [Firefox Private Network](https://www.mozilla.org/privacy/firefox-private-network/)
+    * [Firefox sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
+    * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
+    * [Pocket](https://getpocket.com/privacy/)
 
 5. #### Communications
 
-    We send periodic messages to help you get the most from your Firefox Account.  You may receive these in-product or to the address you signed-up with; they cover onboarding, different Firefox Account services, and related offers and surveys.  You may also choose to receive other types of email messages.  
+    We send periodic messages to help you get the most from your Firefox account. You may receive these in-product or to the address you signed-up with; they cover onboarding, different Firefox account services, and related offers and surveys. You may also choose to receive other types of email messages. 
     
-    You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage Account / Email Preferences).
+    You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage account / Email Preferences).
     
     We may also send you important account information such as updates to legal or privacy terms, or security messages like password resets, email verification, and linked devices. These are necessary to our services and cannot be unsubscribed from. 
 You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 or legal-notices@mozilla.com_ 
 
 6. #### Your Content in Our Services
 
-    You may upload content to Mozilla as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla. See [here](https://www.mozilla.org/about/legal/report-infringement/) to report claims of copyright or trademark infringement. To report abusive Screenshots, email us a link to the shot at screenshots-report@mozilla.com.
+    You may upload content to Mozilla as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content to provide the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla. See here [to report claims of copyright or trademark infringement](https://www.mozilla.org/about/legal/report-infringement/). 
 
 7. #### Mozilla's Proprietary Rights
 
-    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the [Mozilla Public License](https://www.mozilla.org/MPL/).
+    Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. 
 
 8. #### Term; Termination
 
-    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deleting your Firefox account, discontinuing your use of the Services, and if applicable, unsubscribing from our emails.  
+    These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deleting your Firefox account, discontinuing your use of the Services, and if applicable, unsubscribing from our emails. 
 
     We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Firefox account or the next time you attempt to access the Services.
 
@@ -92,8 +88,8 @@ You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 
 
 11. #### Modifications to these Terms
 
-    Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+    Mozilla may update these Terms from time to time to address a new Service, feature of the Services, or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
 
 12. #### Miscellaneous
 
-    These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+    These Terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
