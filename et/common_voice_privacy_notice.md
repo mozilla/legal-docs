@@ -20,5 +20,5 @@ Kehtiv alates 15. augustist 2019 {: datetime="2019-08-15" }
 
 * **Tehnilised andmed.** Google Analytics’i abil mõistame paremini, kuidas kasutad Common Voice’i rakendust või veebisaiti. Näiteks võime kasutada küpsiseid, et jälgida tuvastatud teavet (nt helieksemplare, mida salvestad või kuulad, nuppude ja menüüde kasutamist ja seansi kestvust). Lisaks saame teada sinu avatud Common Voice’i lehtede URL-id ja nimed. Common Voice’i kasutamise pidevaks täiustamiseks kogume teavet sinu brauseri tüübi ja versiooni ning kuvaala ja ekraani eraldusvõime kohta. Nii saame teada, kuidas inimesed Common Voice’i kasutavad, et saaksime seda täiustada. Lisaks saame brauseri kaudu teada sinu asukoha ja keelesätte, et kõik kindlasti sinu jaoks sobivaks teha. Juhul kui eelistad Google Analyticsi andmete kogumisest loobuda, saad installida [brauseri Google Analyticsist loobumise lisandmooduli](https://tools.google.com/dlpage/gaoptout), millega peatatakse Google Analytics’ile andmete edastamine. 
 
-[Lisateave](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Lisateave](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

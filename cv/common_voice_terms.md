@@ -9,7 +9,7 @@ Common Voice пулăшнипе эсир хăвăр сасса, çырса ха�
 ## 1. Хутшǎну тивĕçĕ. 
 Common Voice 19 çул тултарнисене валли çеç уçă. Енчен те эсир 19 çул тултарман пулсан, сирĕн аçу-аннÿ е опекун ирĕк пани пулмалла, эсир Common Voice-па хутшăннине вĕсен тĕрĕслесе тăмалла.
 
-Common Voice вăл Mozilla сообществăн пайĕ шутĕнче тарать. Çакăнта хутшăнса эсир йĕртсе пыракан принципсемпе килĕшетĕр [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice вăл Mozilla сообществăн пайĕ шутĕнче тарать. Çакăнта хутшăнса эсир йĕртсе пыракан принципсемпе килĕшетĕр [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Эсир хутшăнни
 Эпир Common Voice Mozilla информаци базине халăха усă курмалла ăватпăp. [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). Ку, унпа пурте усă курма пултараççĕ тенине пĕлтерет, çавăнпа та закона килĕшÿллĕн, эпир пĕтĕм автор йĕркисемпе, май килнĕ таран килĕшместпĕр. Енчен те эсир Common Voice-ра хутшăнатăр пулсан, эпир сире те çавăн пек тума ыйтатпăр. Mozilla эсир хутшăнса тунă ĕç вĕçĕ (текстсене, çырнисене, тĕрĕсленисене тата хакланисене) ытти çынсене сĕнме пултарать [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 

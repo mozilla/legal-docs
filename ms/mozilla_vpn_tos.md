@@ -31,7 +31,7 @@ Anda juga bersetuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Syar
 
 __Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambungkan sehingga 5 peranti ke Mozilla VPN.
 
-__Lesen Anda Untuk Menggunakan Perisian.__ Perisian Mozilla VPN tersedia untuk anda gunakan di bawah syarat yang dinyatakan dalam [Lesen Mozilla Awam](https://www.mozilla.org/en-US/MPL/).
+__Lesen Anda Untuk Menggunakan Perisian.__ Perisian Mozilla VPN tersedia untuk anda gunakan di bawah syarat yang dinyatakan dalam [Lesen Mozilla Awam](https://www.mozilla.org/MPL/).
 
 __Ulasan dan Cadangan Anda.__ Sekiranya anda memberi Mozilla sebarang idea, cadangan, atau ulasan tentang Akaun Firefox atau perkhidmatan yang anda guna melalui akaun anda, anda membenarkan Mozilla untuk menggunakannya secara percuma dan tanpa sebarang obligasi tambahan.
 

@@ -9,7 +9,7 @@ Is féidir leat páirt a ghlacadh i Common Voice ach amháin má aontaíonn tú 
 ## 1. Cáilitheacht
 Tá Common Voice oscailte do dhuine ar bith thar aois 19. Má tá tú 19 nó faoi, ní mór go bhfuil cead do thuismitheora nó caomhnóra agat agus ní mór go ndéanann siad maoirseacht ar do rannpháirtíocht i Common Voice. 
 
-Is cuid den Mozilla Community é Common Voice Mar thoradh, má roghnaíonn tú páirt a ghlacadh, aontaíonn tú le [Treoirlínte Rannpháirtíochta Comhphobail Mozilla a leanúint](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Is cuid den Mozilla Community é Common Voice Mar thoradh, má roghnaíonn tú páirt a ghlacadh, aontaíonn tú le [Treoirlínte Rannpháirtíochta Comhphobail Mozilla a leanúint](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. D’Ionchur 
 Cuirimid bunachar sonraí Common Voice Mozilla ar fáil faoin [tíolacadh fearainn poiblí Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) Ciallaíonn sé sin go bhfuil sé poiblí agus go dtarscoileamar gach cóipcheart chomh fada agus is féidir faoin dlí. Má ghlacann tú páirt i Common Voice, tá sé riachtanach againn go ndéarna tú mar an gcéanna. Ní mór duit aontú gur féidir le Mozilla d’Ionchur iomlán a tháirgeadh (lena n-áirítear téacs, taifeadtaí, bailríochtaí agus aiseleos) don phobal faoin tíolacadh fearainn poiblí [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 

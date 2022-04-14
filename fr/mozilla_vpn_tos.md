@@ -31,7 +31,7 @@ Vous acceptez d’autre part que votre utilisation du Service sera conforme aux 
 
 __Nombre d’appareils.__ Lorsque votre abonnement est actif, vous pouvez connecter un maximum de 5 appareils à Mozilla VPN.
 
-__Votre licence d’utilisation du logiciel.__ Le logiciel Mozilla VPN vous est fourni conformément aux dispositions de la [licence publique de Mozilla](https://www.mozilla.org/en-US/MPL/).
+__Votre licence d’utilisation du logiciel.__ Le logiciel Mozilla VPN vous est fourni conformément aux dispositions de la [licence publique de Mozilla](https://www.mozilla.org/MPL/).
 
 __Vos commentaires et suggestions.__ Si vous communiquez à Mozilla des idées, suggestions ou autres avis à propos des comptes Firefox ou des services que vous utilisez par le biais de votre compte, vous autorisez Mozilla à les exploiter gratuitement et sans autres obligations.
 

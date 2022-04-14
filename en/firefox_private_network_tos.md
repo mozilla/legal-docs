@@ -29,7 +29,7 @@ Mozilla gives you permission to use the Service according to these Terms of Serv
 
 You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
-__Your License to Use the Software.__ The Firefox Private Network software is made available to you under the terms of the [Mozilla Public License](http://www.mozilla.org/MPL/).
+__Your License to Use the Software.__ The Firefox Private Network software is made available to you under the terms of the [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 __Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, or feedback about Firefox Accounts or the services you use through your account, you give Mozilla permission to use them for free and without any additional obligations.
 

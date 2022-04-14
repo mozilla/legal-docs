@@ -9,7 +9,7 @@ La tua partecipazione a Common Voice è soggetta all'accettazione delle presenti
 ## 1. Idoneità
 Common Voice è un progetto aperto a chiunque abbia più di 19 anni. Se hai 19 anni o meno, è necessario il consenso di un genitore o tutore che deve sorvegliare la tua partecipazione a Common Voice. 
 
-Il progetto Common Voice fa parte della Comunità Mozilla. Di conseguenza, se scegli di partecipare, accetti di seguire le [Linee guida di partecipazione alla Comunità Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Il progetto Common Voice fa parte della Comunità Mozilla. Di conseguenza, se scegli di partecipare, accetti di seguire le [Linee guida di partecipazione alla Comunità Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Contributi 
 Il database Common Voice di Mozilla viene reso pubblicamente disponibile in base alla [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Ciò significa che Mozilla ha rinunciato a qualunque diritto di copyright, nei termini consentiti dalla legge. Se scegli di partecipare a Common voice, è necessario che tu faccia lo stesso. Partecipando a Common Voice, accetti che Mozilla offra al pubblico tutti i tuoi Contributi (inclusi testo, registrazioni, convalide e feedback), in base a quanto previsto dalla [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. 

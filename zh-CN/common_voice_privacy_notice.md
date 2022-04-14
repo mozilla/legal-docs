@@ -20,4 +20,4 @@ Mozilla（即我们）收到您的信息时，[Mozilla 隐私政策](https://www
 
 * **技术数据。** 我们使用 Google Analytics 更好地了解您与 Common Voice 应用或网站的互动方式。例如，我们可能使用 Cookie 来跟踪已除去识别信息的数据，例如您录制或收听的语音样本数量、与按钮和菜单的交互以及会话长度。我们还会收集您访问的 Common Voice 页面的 URL 和标题。为了不断改善 Common Voice 体验，我们收集有关浏览器类型和版本、网页可视区域大小和屏幕分辨率的信息。这使我们能够理解人们如何与 Common Voice 互动，以便我们对其加以改进。我们还会收集您的浏览器的位置和语言设置，以确保您看到合适的内容。如果您选择不使用 Google Analytics 数据收集，则可以安装 [Google Analytics 停用浏览器插件](https://tools.google.com/dlpage/gaoptout)，该插件将阻止向 Google Analytics 传输数据。
 
-[了解更多](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[了解更多](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)

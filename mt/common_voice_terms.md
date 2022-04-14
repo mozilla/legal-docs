@@ -9,7 +9,7 @@ Inti tista’ tipparteċipa f’Common Voice biss jekk taqbel ma’ dawn it-Term
 ## 1. Eliġibbiltà
 Common Voice hija miftuħa għal kull min għandu aktar minn 19-il sena. Jekk għandek 19-il sena jew anqas, irid ikollok il-kunsens tal-ġenitur jew tal-kustodju tiegħek u dawn għandhom jissorveljaw il-parteċipazzjoni tiegħek f’Common Voice.
 
-Common Voice hija parti mill-Komunità ta’ Mozilla. B’riżultat ta’ dan, jekk inti għażilt li tipparteċipa, inti taqbel li ssegwi [l-Linji Gwida tal-Parteċipazzjoni tal-Komunità ta’ Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice hija parti mill-Komunità ta’ Mozilla. B’riżultat ta’ dan, jekk inti għażilt li tipparteċipa, inti taqbel li ssegwi [l-Linji Gwida tal-Parteċipazzjoni tal-Komunità ta’ Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Il-Kontribuzzjonijiet Tiegħek 
 Aħna nagħmlu l-bażi ta’ dejta ta’ Common Voice ta’ Mozilla disponibbli taħt [id-dominju ddedikat għall-pubbliku tal-liċenzja Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Dan ifisser li din tkun pubblika u aħna rrinunzjajna d-drittijiet tal-awtur kollha sal-punt li nistgħu skont il-liġi. Jekk tipparteċipa f’Common Voice, aħna neħtieġu li inti tagħmel l-istess. Inti trid taqbel li Mozilla tista’ toffri l-Kontribuzzjonijiet kollha tiegħek (inkluż it-test, reġistrazzjonijiet, validazzjonijiet, u feedback) lill-pubbliku taħt id-dominju ddedikat għall-pubbliku tal-liċenzja [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

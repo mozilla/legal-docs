@@ -20,5 +20,5 @@ Nuestra [Política de Privacidad de Mozilla](https://www.mozilla.org/privacy) de
 
 * **Datos técnicos.** Usamos Google Analytics para entender mejor cómo interactúa con la aplicación y el sitio web de Common Voice. Por ejemplo, podemos usar cookies para rastrear información desidentificada como la cantidad de muestras de voz que usted graba o escucha, las interacciones con botones y menús y la duración de las sesiones. Además recopilamos la URL el título de las páginas de Common Voice que visita. Con el fin de seguir mejorando la experiencia de Common Voice, recogemos información sobre el tipo y la versión del navegador que usa, el tamaño de la ventana de visualización y la resolución de la pantalla. Esto nos permite entender cómo las personas interactúan con Common Voice para poder mejorarlo. También recopilamos su ubicación y la configuración de idioma del navegador para que se adapte a sus necesidades. Si prefiere no participar en la recopilación de datos de Google Analytics, puede instalar el [Complemento de inhabilitación para navegadores de Google Analytics](https://tools.google.com/dlpage/gaoptout), que detiene la transmisión de datos a Google Analytics. 
 
-[Más información](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Más información](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

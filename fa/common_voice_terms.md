@@ -8,7 +8,7 @@
 ## ۱. شایستگی
 
 Common Voice برای کلیه افراد بالای ۱۹ سال قابل استفاده است. اگر سنتان ۱۹ سال یا کمتر است، باید رضایت والدین یا سرپرستتان را داشته باشید و آنها باید روی مشارکت شما در Common Voice نظارت داشته باشند.
-Common Voice بخشی از Mozilla Community (جامعه Mozilla) است. در نتیجه، اگر خواستید که مشارکت داشته باشید، باید از [راهنمای مشارکت جامعه Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/) تبعیت کنید.
+Common Voice بخشی از Mozilla Community (جامعه Mozilla) است. در نتیجه، اگر خواستید که مشارکت داشته باشید، باید از [راهنمای مشارکت جامعه Mozilla](https://www.mozilla.org/about/governance/policies/participation/) تبعیت کنید.
 
 ## ۲. مشارکت شما
 

@@ -17,7 +17,7 @@
 
 * __البيانات التقنية__: يرسل إلينا Firefox بيانات حول إصدار Firefox ولغتك؛ ونظام تشغيل الجهاز وتكوين الأجهزة؛ والذاكرة، والمعلومات الأساسية حول الأعطال والأخطاء؛ ونتيجة العمليات التلقائية مثل التحديثات، والاستعراض الآمن، والتنشيط. وعندما يرسل Firefox البيانات إلينا، يتم جمع عنوان IP الخاص بك مؤقتًا كجزء من سجلات الخادم الخاصة بنا.
 
-اقرأ وثائق بيانات تتبع الاستخدام [لجهاز كمبيوتر](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)، [أندرويد](https://dictionary.telemetry.mozilla.org/apps/fenix)، أو [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) أو اعرف كيف تلغي الاشتراك في هذه العملية لجمع البيانات على [جهاز كمبيوتر](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) و[جهاز جوال](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+اقرأ وثائق بيانات تتبع الاستخدام [لجهاز كمبيوتر](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)، [أندرويد](https://dictionary.telemetry.mozilla.org/apps/fenix)، أو [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) أو اعرف كيف تلغي الاشتراك في هذه العملية لجمع البيانات على [جهاز كمبيوتر](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) و[جهاز جوال](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### البحث {: #defaultsearch }

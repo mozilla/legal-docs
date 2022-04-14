@@ -20,5 +20,5 @@ Ketika Mozilla (kami) menerima informasi dari Anda, [Kebijakan Privasi Mozilla](
 
 * **Data teknis.** Kami menggunakan Google Analytics untuk lebih memahami cara Anda berinteraksi dengan aplikasi atau situs web Common Voice. Misalnya, kami mungkin menggunakan kuki untuk melacak informasi tanpa identitas seperti jumlah sampel suara yang Anda rekam atau dengarkan, interaksi dengan tombol dan menu, serta durasi sesi. Kami juga mengumpulkan data URL dan judul laman Common Voice yang Anda kunjungi. Agar konsisten meningkatkan pengalaman Common Voice, kami mengumpulkan informasi tentang jenis dan versi peramban, ukuran viewport, dan resolusi layar Anda. Informasi ini memungkinkan kami memahami cara orang berinteraksi dengan Common Voice agar kami dapat menyempurnakannya. Kami juga mengumpulkan data lokasi dan pengaturan bahasa di peramban Anda agar sesuai dengan Anda. Jika Anda memilih untuk menolak pengumpulan data Google Analytics, Anda bisa menginstal [Add-on Browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), yang akan menghentikan pengiriman data ke Google Analytics. 
 
-[Pelajari selengkapnya](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Pelajari selengkapnya](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

@@ -17,7 +17,7 @@ In deze Privacykennisgeving leggen we uit welke gegevens Firefox deelt en wijzen
 
 * __Technische gegevens__: Firefox verzendt gegevens over uw Firefox-versie en taal, het besturingssysteem van uw apparaat en uw hardwareconfiguratie, geheugen, basisinformatie over crashes en fouten en over resultaten van geautomatiseerde processen, zoals SafeBrowsing en activering. Wanneer Firefox ons gegevens stuurt, wordt uw IP-adres tijdelijk verzameld als onderdeel van onze serverlogboeken.
 
-Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt uitschrijven van het verzamelen van deze gegevens op [desktops](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) of [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) of lees hoe u zich kunt uitschrijven van het verzamelen van deze gegevens op [desktops](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Zoeken {: #defaultsearch }

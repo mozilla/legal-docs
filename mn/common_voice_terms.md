@@ -9,7 +9,7 @@ Common Voice-р дамжуулан та вэб болон төхөөрөмжид
 ## 1. Тохиромжтой байдал
 Common Voice нь 19-с дээш насны хүн бүрийн өмнө нээлттэй. Хэрэв та 19 болон түүнээс доош насных бол танд эцэг эх эсвэл асран хамгаалагчийн зөвшөөрөл хэрэгтэй бөгөөд тэд таны Common Voice-д оролцох эсэхийг шалгах ёстой. 
 
-Common Voice нь Mozilla Нийгэмлэгийн нэгэн хэсэг юм. Ийнхүү, та оролцохоор шийдсэн бол та [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)-г дагана гэдгээ хүлээн зөвшөөрөх юм. 
+Common Voice нь Mozilla Нийгэмлэгийн нэгэн хэсэг юм. Ийнхүү, та оролцохоор шийдсэн бол та [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/)-г дагана гэдгээ хүлээн зөвшөөрөх юм. 
 
 ## 2. Таны хувь нэмэр 
 Бид Mozilla-н Common Voice өгөгдлийн баазыг [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/) дагуу бүтээдэг. Энэ нь олон нийтийнх бөгөөд бид хуулийн дагуу олгогдох хэмжээнд бүх зохиогчийн эрхээс чөлөөтэй гэсэн үг юм. Хэрэв та Common voice-д оролцвол таныг ч бас ийнхүү хийхийг бид шаардаж байна. Mozilla таны бүх хувь нэмрийг (текст, бичлэг, баталгаажуулалт болон санал сэтгэгдэл зэрэг) нийтийн домэйн дээр [CC0](https://creativecommons.org/publicdomain/zero/1.0/) дагуу нийтэд нээлттэй болгож болзошгүй гэдгийг та хүлээн зөвшөөрөх ёстой. 
