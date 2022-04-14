@@ -19,7 +19,7 @@ __Data teknikal.__ Mozilla menerima maklumat asas dari Firefox Relay tentang per
 
 __Maklumat pembayaran__: Jika anda melanggan Firefox Relay Premium, anda akan menghantar bayaran melalui salah satu penyedia pembayaran pihak ketiga kami: Stripe atau PayPal. Mozilla menerima rekod akaun anda (termasuk alamat bil dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda. Mozilla tidak menyimpan butiran lengkap pembayaran anda.
 
-Baca dokumentasi telemetri untuk [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Anda boleh memilih untuk keluar daripada kutipan telemetri dengan memasang ciri [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) pada penyemak imbas anda.  
+Baca dokumentasi telemetri untuk [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). Anda boleh memilih untuk keluar daripada kutipan telemetri dengan memasang ciri [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) pada penyemak imbas anda.  
 
 ### Maklumat Yang Kami Kongsi
 

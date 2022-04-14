@@ -19,7 +19,7 @@ __Datos técnicos.__ Mozilla recibe información básica de Firefox Relay sobre 
 
 __Información de pago.__ Si se suscribe a Firefox Relay Premium, tendrá que realizar el pago a través de uno de los siguientes proveedores de terceros: Stripe o PayPal. Mozilla recibirá información sobre su cuenta (p. ej., su dirección de facturación y los últimos cuatro dígitos de su método de pago) y el estado de la suscripción de su cuenta. Mozilla no guarda todos sus datos de pago.
 
-Lea los documentos telemétricos de [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Tiene la opción de desactivar la recopilación de datos telemétricos activando la función [No rastrear](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) en su navegador.  
+Lea los documentos telemétricos de [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). Tiene la opción de desactivar la recopilación de datos telemétricos activando la función [No rastrear](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) en su navegador.  
 
 ### Información que compartimos
 

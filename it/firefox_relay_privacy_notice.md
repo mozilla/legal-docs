@@ -19,7 +19,7 @@ __Dati tecnici.__ Mozilla riceve informazioni di base da Firefox Relay sul tuo d
 
 __Informazioni di pagamento__: Se ti iscrivi a Firefox Relay Premium, il tuo addebito sarà gestito tramite uno dei nostri fornitori terzi di servizi di pagamento: Stripe o PayPal. Mozilla riceve un record del tuo account (che include l'indirizzo di fatturazione e le ultime quattro cifre del tuo metodo di pagamento) e lo stato del tuo abbonamento. Mozilla non memorizza i dettagli completi del pagamento.
 
-Leggi la documentazione relativa alla telemetria per [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). Puoi rifiutare la raccolta di dati di telemetria attivando la [Protezione antitracciamento](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) del tuo browser.  
+Leggi la documentazione relativa alla telemetria per [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). Puoi rifiutare la raccolta di dati di telemetria attivando la [Protezione antitracciamento](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) del tuo browser.  
 
 ### Informazioni che condividiamo
 
