@@ -27,15 +27,22 @@ def extractAnchors(content):
     """Extract anchors, including the surrounding text"""
 
     anchors = []
-    anchor_pattern = re.compile("(?P<pre>.*)?(?P<anchor>{:\s?#[a-z]+\s?})(?P<post>.*)?")
+    anchor_pattern = re.compile("(?P<anchor>{:\s?#[a-z0-9]+\s?})")
     for line in content:
         # Strip line carriage
         line = line.strip()
-        matches = anchor_pattern.match(line)
+        matches = anchor_pattern.findall(line)
         if matches:
-            line_anchors = matches.groupdict()
-            if line_anchors:
-                anchors.append(line_anchors)
+            line_anchors = []
+            for m in matches:
+                line_anchors.append(
+                    {
+                        "pre": line[0 : line.find(m)],
+                        "anchor": m,
+                        "post": line[line.find(m) + len(m) :],
+                    }
+                )
+            anchors.append(line_anchors)
 
     return anchors
 
@@ -44,23 +51,28 @@ def checkAnchors(anchors):
     """Check for issues in anchors"""
 
     errors = []
-    for anchor in anchors:
-        if len(anchor["pre"]) > 0 and anchor["pre"] == anchor["pre"].strip():
+    for line_anchors in anchors:
+        if len(line_anchors) > 1:
             errors.append(
-                f"Anchors should be preceded by a space. Anchor: |{anchor['anchor']}|"
+                f"Documents should not have multiple anchors on the same line.\n"
+                f"      Line: {line_anchors[0]['pre']}{line_anchors[0]['anchor']}{line_anchors[0]['post']}"
             )
-        if "{:" in anchor["pre"]:
-            errors.append(
-                f"Anchors should not be followed by other text. Anchor: |{anchor['pre']} {anchor['anchor']}|"
-            )
-        if "{: " not in anchor["anchor"]:
-            errors.append(
-                f"Anchor name should be preceded by a space. Anchor: |{anchor['anchor']}|"
-            )
-        if anchor["post"]:
-            errors.append(
-                f"Anchors should not be followed by other text ({anchor['post']}). Anchor: {anchor['anchor']} {anchor['anchor']}"
-            )
+        for a in line_anchors:
+            if len(a["pre"]) > 0 and a["pre"] == a["pre"].strip():
+                errors.append(
+                    f"Anchors should be preceded by a space.\n"
+                    f"      Line: {a['pre']}{a['anchor']}{a['post']}"
+                )
+            if "{: " not in a["anchor"]:
+                errors.append(
+                    f"Anchor name should be preceded by a space.\n"
+                    f"      Anchor: {a['anchor']}"
+                )
+            if a["post"]:
+                errors.append(
+                    f"Anchors should not be followed by other text.\n"
+                    f"      Line: {a['pre']}{a['anchor']}{a['post']}"
+                )
 
     return errors
 
@@ -140,8 +152,7 @@ def main():
     for locale in locales:
         locale_errors = []
         for f, f_data in data[locale].items():
-            exception_id = f"{locale}::{f}"
-
+            exception_id = f"{locale}/{f}"
             # Check anchors
             if exception_id not in exceptions["anchors"]:
                 errors = checkAnchors(f_data["anchors"])
