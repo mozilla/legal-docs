@@ -19,7 +19,7 @@ __Technische gegevens.__ Mozilla ontvangt basisinformatie van Firefox Relay over
 
 __Betalingsinformatie__: Wanneer u zich abonneert op Firefox Relay Premium, doet u een betaling via een van onze externe betalingsproviders: Stripe of PayPal. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
 
-Lees de telemetriedocumentatie voor [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). U kunt zich uitschrijven voor telemetrieverzameling door de functie [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) in uw browser in te schakelen.  
+Lees de telemetriedocumentatie voor [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). U kunt zich uitschrijven voor telemetrieverzameling door de functie [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) in uw browser in te schakelen.  
 
 ### Informatie die we delen
 

@@ -9,7 +9,7 @@ A tanglei zulphung cu zulhding ah na lungtling lawng ah Zapi Hrawmmi Aw ah na te
 ## 1. Tincotlakmi Sinak
 Zapi Hrawmmi Aw cu kum 19 in a cunglei, mi zeipaoh nih hmankhawh a si. Kum 19 in a tanglei na si ahcun, na nulepa asilole cawmkengtu hnatlakpinak aa tel hrim lai. Cun, an nih nih Zapi Hrawmmi Aw i iteltum tikah na pawng ah an in umpi hrim lai. 
 
-Zapi Hrawmmi Aw timi cu Mozilla Mibu chungtel pakhat a si. Cucaah, iteltum dingin naa thim a si ahcun, [Mozilla Mibu Iteltumnak Zulhphunglam](https://www.mozilla.org/en-US/about/governance/policies/participation/) cu zul dingin na lung a tling tinak a si. 
+Zapi Hrawmmi Aw timi cu Mozilla Mibu chungtel pakhat a si. Cucaah, iteltum dingin naa thim a si ahcun, [Mozilla Mibu Iteltumnak Zulhphunglam](https://www.mozilla.org/about/governance/policies/participation/) cu zul dingin na lung a tling tinak a si. 
 
 ## 2. Pumpak-pekchanhnak
 Zapi-zaran caah duhsaknak he Sersiam thiamnak Zapi Hrawmi CCO [Creative Commons CCO](https://creativecommons.org/publicdomain/zero/1.0/) timi kuttang ah Mozilla Zapi Hrawmmi Aw kumhnak innpi cu hman khawh dingin tuah a si. Cucu zeidah a sullam a si ti ahcun, zapi-zaran hman ding a si caah upadi ning tein kokek-nawlngeihnak he aapehtlaimi paoh cu kan banhkhawh tawk tein ngol ternak kan tuah. Zapi Hrawmmi Aw chungah iteltumnak na tuah a si ahcun, nangmah zong hitining in tuah ve ding in kan in hal. Nangmah na pekchanhmi pawl tahchunhnak ah na catial mi, aw-kumhmi, hman khawh dingin sermi thil le pumpak lungumbia hna cu hi [CC0](https://creativecommons.org/publicdomain/zero/1.0/) zapi-zaran caah dussaknak he sersiammi a si caah Mozilla nih midang sin hmankhawhnak nawl a pekmi cu na lung a tlingpi hrim lai. 

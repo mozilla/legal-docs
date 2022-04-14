@@ -9,7 +9,7 @@ Sie dürfen nur an Common Voice teilnehmen, wenn Sie mit den folgenden Nutzungsb
 ## 1. Teilnahmeberechtigung
 Common Voice steht allen Menschen offen, die mindestens 20 Jahre alt sind. Wenn Sie 19 Jahre oder jünger sind, brauchen Sie für die Teilnahme die Zustimmung eines Elternteils oder Sorgeberechtigten, die auch Ihre Arbeit mit Common Voice beaufsichtigen müssen. 
 
-Common Voice ist Teil der Mozilla-Community. Wenn Sie sich für die Teilnahme entscheiden, stimmen Sie damit auch den „[Mozilla Richtlinien für das Mitwirken in der Community](https://www.mozilla.org/en-US/about/governance/policies/participation/)“ zu. 
+Common Voice ist Teil der Mozilla-Community. Wenn Sie sich für die Teilnahme entscheiden, stimmen Sie damit auch den „[Mozilla Richtlinien für das Mitwirken in der Community](https://www.mozilla.org/about/governance/policies/participation/)“ zu. 
 
 ## 2. Ihre Beiträge 
 Wir stellen die Common-Voice-Datenbank von Mozilla unter der freien [CC0-Lizenz von Creative Commons als „Public Domain“](https://creativecommons.org/publicdomain/zero/1.0/) zur Verfügung. Das bedeutet, dass sie von der Öffentlichkeit genutzt werden kann und wir in dem höchsten vom Gesetz erlaubten Maß auf das Copyright verzichten. Wenn Sie zu Common Voice beitragen möchten, müssen Sie das ebenfalls tun. Sie müssen zustimmen, dass Mozilla alle Ihre Beiträge (Text, Aufnahmen, Bestätigungen und Feedback) der Öffentlichkeit unter der [CC0](https://creativecommons.org/publicdomain/zero/1.0/)-Lizenz verfügbar machen darf. 

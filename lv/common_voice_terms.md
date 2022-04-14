@@ -9,7 +9,7 @@ Pakalpojumā Common Voice varat piedalīties tikai tad, ja piekrītat šiem not
 ## 1. Pakalpojuma lietošanas tiesības
 Pakalpojumu Common Voice var lietot ikviena persona, kas ir vecāka par 19 gadiem. Ja esat vecumā līdz 19 gadiem (ieskaitot), jums ir jāsaņem vecāka vai aizbildņa piekrišana, un viņiem ir jāpārrauga jūsu dalība pakalpojumā Common Voice.
 
-Common Voice ir Mozilla kopienas pakalpojums. Tādējādi, ja izvēlaties piedalīties, jūs piekrītat ievērot [Vadlīnijas dalībai Mozilla kopienā](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice ir Mozilla kopienas pakalpojums. Tādējādi, ja izvēlaties piedalīties, jūs piekrītat ievērot [Vadlīnijas dalībai Mozilla kopienā](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Jūsu ieguldījums 
 Mēs padarām Mozilla Common Voice datu bāzi pieejamu saskaņā ar [Creative Commons CC0 publiskā domēna noteikumiem](https://creativecommons.org/publicdomain/zero/1.0/). Tas nozīmē, ka datu bāze ir publiska un mēs esam atteikušies no visām autortiesībām, ciktāl tas ir atļauts saskaņā ar likumu. Ja piedalāties pakalpojumā Common Voice, mēs jums izvirzām tādu pašu noteikumu. Jums ir jāpiekrīt, ka uzņēmums Mozilla var publiski piedāvāt visus jūsu ieguldījumus (ieskaitot tekstu, ierakstus, pārbaudes un atsauksmes) saskaņā ar [CC0](https://creativecommons.org/publicdomain/zero/1.0/) publiskā domēna noteikumiem.

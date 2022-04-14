@@ -20,5 +20,5 @@ När Mozilla (det är vi) får information från dig beskriver [Mozillas sekrete
 
 * **Tekniska data.** Vi använder Google Analytics för att bättre förstå hur du interagerar med Common Voice-appen eller -webbplatsen. Vi kan t.ex. använda cookies för att spåra avidentifierad information som det antal röstprover du spelar in eller lyssnar på, interaktioner med knappar och menyer samt sessionslängd. Vi samlar också in den webbadress och rubriken på de Common Voice-sidor du besöker. För att löpande förbättra upplevelsen av Common Voice samlar vi in information om webbläsartyp och version, storlek på visningsområde och skärmupplösning. Det gör att vi kan förstå hur folk interagerar med Common Voice, så att vi kan förbättra det. Vi samlar också in din plats och språkinställningen i din webbläsare, för att se till att allt visas korrekt för dig. Om du vill välja bort Google Analytics datainsamling kan du avinstallera [webbläsartillägget Google Analytics](https://tools.google.com/dlpage/gaoptout), vilket stoppar dataöverföring till Google Analytics. 
 
-[Ta reda på mer](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Ta reda på mer](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

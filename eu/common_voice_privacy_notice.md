@@ -20,5 +20,5 @@
 
 * **Datu teknikoak.** Google Analytics erabiltzen dugu Common Voice aplikazioarekin edo webgunearekin zer interakzio duzun hobeto ulertzeko. Adibidez, baliteke cookieak erabiltzea des-identifikatutako informazioaren jarraipena egiteko; besteak beste, alderdi hauena: grabatu edo entzun dituzun ahots laginen kopurua, botoiekin eta menuekin izan dituzun interakzioak eta saioen iraupena. Bisitatzen dituzun Common Voice-ko orrien URLa eta izena ere biltzen ditugu. Common Voice etengabe hobetzeko, arakatzaile motari eta haren bertsioari, ikuspegiaren tamainari eta pantailaren bereizmenari buruzko informazioa biltzen dugu. Horri esker, jendea Common Voice-rekin interakzioan nola aritzen den ulertzen dugu, hura hobetu ahal izateko. Halaber, zure kokapena eta arakatzaileko hizkuntza ezarpena biltzen ditugu, dena ondo ikusiko duzula ziurtatzeko. Nahiago baduzu Google Analytics-ek datuak ez biltzea, instalatu [Google Analytics-en arakatzaileak desgaitzeko gehigarria](https://tools.google.com/dlpage/gaoptout), Google Analytics-era daturik ez bidaltzeko. 
 
-[Lortu informazio gehiago](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Lortu informazio gehiago](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

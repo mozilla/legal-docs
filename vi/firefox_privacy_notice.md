@@ -17,7 +17,7 @@ Trong Thông báo quyền riêng tư này, chúng tôi sẽ giải thích Firefo
 
 * __Dữ liệu kỹ thuật__: Firefox sẽ gửi dữ liệu về phiên bản và ngôn ngữ của Firefox; hệ điều hành thiết bị và cấu hình phần cứng, bộ nhớ, thông tin cơ bản về các sự cố và lỗi, kết quả của những quy trình được tự động hóa như cập nhật, duyệt web an toàn và kích hoạt cho chúng tôi. Khi Firefox gửi dữ liệu cho chúng tôi, địa chỉ IP của bạn sẽ tạm thời được thu thập như một phần nhật ký máy chủ của chúng tôi.
 
-Vui lòng tham khảo tài liệu về phép đo từ xa áp dụng cho [Máy tính để bàn](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), hay [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) hay tìm hiểu cách ngừng tham gia vào quá trình thu thập dữ liệu này trên [Máy tính để bàn](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) và [Di động](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Vui lòng tham khảo tài liệu về phép đo từ xa áp dụng cho [Máy tính để bàn](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), hay [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) hay tìm hiểu cách ngừng tham gia vào quá trình thu thập dữ liệu này trên [Máy tính để bàn](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) và [Di động](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Tìm kiếm {: #defaultsearch }

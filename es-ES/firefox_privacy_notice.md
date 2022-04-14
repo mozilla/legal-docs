@@ -17,7 +17,7 @@ En este aviso de privacidad, especificamos los datos que comparte Firefox y los 
 
 * __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación. Cuando Firefox nos envía datos, su dirección IP se guarda temporalmente como parte de los registros del servidor.
 
-Lea los documentos de telemetría para [dispositivos de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), u obtenga información sobre cómo deshabilitar la recopilación de datos en [dispositivos de escritorio](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) y [dispositivos móviles](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Lea los documentos de telemetría para [dispositivos de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), u obtenga información sobre cómo deshabilitar la recopilación de datos en [dispositivos de escritorio](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) y [dispositivos móviles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Búsqueda {: #defaultsearch }
@@ -61,7 +61,7 @@ Firefox muestra contenido como recomendaciones de complementos, sitios populares
 
 **Datos técnicos y de páginas web para Autoridades certificadoras**: Cuando visita un sitio web seguro (normalmente identificado con una URL que comienza por «HTTPS»), Firefox valida el [certificado del sitio web](https://support.mozilla.org/kb/secure-website-certificate). Es posible que Firefox envíe cierta información sobre el sitio web a las Autoridades certificadores identificadas por ese sitio web. La exclusión aumenta el riesgo de que sus datos privados sean interceptados. [Más información](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Informes de error {: #crash-reporter }:
+### Informes de error {: #crash-reporter }
 Por defecto, en las versiones de escritorio de Firefox, le pediremos que comparta con Mozilla un informe con información más detallada sobre los errores, pero siempre tendrá la opción de rechazarlo.
 
 * __Datos confidenciales__:  Los informes de error incluyen un archivo de volcado del contenido de la memoria de Firefox en el momento en el que se produce el error. Este archivo puede incluir datos que le identifiquen o que sean de alguna manera confidenciales.
@@ -86,7 +86,7 @@ Puede consultar los documentos completos [aquí](https://firefox-source-docs.moz
 
 ## Si usa estas funciones, Firefox compartirá datos para proporcionarle funcionalidad y ayudarnos a mejorar nuestros productos y servicios: {: #optional-features }
 
-### Firefox Suggest y Top Pick{: #searches }
+### Firefox Suggest y Top Pick {: #searches }
 
 Mozilla está desarrollando una nueva función que nos permitirá proporcionarle con mayor facilidad información más relevante. Se llama Firefox Suggest y actualmente hay una versión temprana disponible para los usuarios en los Estados Unidos. Firefox Suggest le muestra, por defecto, recomendaciones y contenido patrocinado en base a los datos locales guardados en su ordenador, como los sitios web de su historial de navegación, marcadores y pestañas abiertas. 
 

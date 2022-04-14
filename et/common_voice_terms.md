@@ -9,7 +9,7 @@ Common Voice’i kasutamisel saad osaleda ainult siis, kui nende tingimustega n�
 ## 1. Sobivus
 Common Voice on avatud kõigile inimestele alates 19. eluaastast. Juhul kui oled 19-aastane või noorem, peab sul olema vanema või hooldaja nõusolek ja ta peab kontrollima sinu Common Voice’i kasutamist. 
 
-Common Voice on osa Mozilla kogukonnast. Seega nõustud osaledes järgima [Mozilla kogukonna osalusjuhiseid](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice on osa Mozilla kogukonnast. Seega nõustud osaledes järgima [Mozilla kogukonna osalusjuhiseid](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Sinu panus 
 Teeme Mozilla Common Voice’i andmebaasi kättesaadavaks [avaliku omandi tähise Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)alusel. See tähendab seda, et see on avalik ja et oleme loobunud seaduse raames võimalikest autoriõigustest. Ootame sinult sama, kui Common Voice’i kasutad. Pead nõustuma, et Mozilla võib pakkuda sinu esitatu (sh teksti, salvestised, valideerimised ja tagasiside) avalikkusele avaliku omandi tähise [CC0](https://creativecommons.org/publicdomain/zero/1.0/) alusel. 

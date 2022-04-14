@@ -17,7 +17,7 @@ W niniejszych Zasadach prywatności wyjaśniamy, jakie dane udostępnia Firefox,
 
 * __Dane techniczne__: Firefox wysyła do nas dane dotyczące wersji i języka Firefoksa, konfigurację systemu operacyjnego urządzenia i sprzętu, informacje o pamięci, podstawowe informacje o awariach i błędach oraz wyniki zautomatyzowanych procesów, takich jak aktualizacje, bezpieczne przeglądanie i aktywacja. Kiedy Firefox wysyła do nas dane, adres IP użytkownika jest tymczasowo gromadzony jako część dzienników naszych serwerów.
 
-Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) i systemu [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) lub dowiedz się, jak zrezygnować z tej formy zbierania danych na [komputerach](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Wyszukiwanie {: #defaultsearch }

@@ -2,8 +2,8 @@
 
 Firefox Reality is free and open source software. There are a few things you should know:
 
-* Firefox Reality is made available to you under the terms of the [Mozilla Public License 2.0](http://www.mozilla.org/MPL/). This means you may use, copy and distribute Firefox Reality to others. You are also welcome to modify the source code of Firefox Reality as you want to meet your needs. The Mozilla Public License 2.0 also gives you the right to distribute your modified versions.
-* You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found [here](http://www.mozilla.org/foundation/trademarks/policy.html).
+* Firefox Reality is made available to you under the terms of the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/). This means you may use, copy and distribute Firefox Reality to others. You are also welcome to modify the source code of Firefox Reality as you want to meet your needs. The Mozilla Public License 2.0 also gives you the right to distribute your modified versions.
+* You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found [here](https://www.mozilla.org/foundation/trademarks/policy.html).
 * Some features in Firefox, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
 * How we use your personal information and feedback submitted to Mozilla through Firefox Reality is described in the [Firefox Reality Privacy Policy](https://www.mozilla.org/privacy/firefox-reality).
 * In order to play back certain types of video content, Firefox Reality downloads certain content decryption modules from third parties.
@@ -11,7 +11,7 @@ Firefox Reality is free and open source software. There are a few things you sho
 
 ## Firefox Reality Web-Based Information Services
 
-Firefox Reality uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of Firefox Reality under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found [here](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-devices). Other features and Services can be disabled in the application preferences.
+Firefox Reality uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of Firefox Reality under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found [here](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices). Other features and Services can be disabled in the application preferences.
 
 1. Mozilla and its contributors, licensors and partners work to provide the most accurate and up-to-date Services. However, we cannot guarantee that this information is comprehensive and error-free. 
 1. Mozilla may discontinue or change the Services at its discretion.

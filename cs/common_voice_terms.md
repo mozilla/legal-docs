@@ -9,7 +9,7 @@ Na službě Common Voice se můžete podílet pouze v případě, že vyslovíte
 ## 1. Oprávněnost
 Služba Common Voice je otevřena pro všechny ve věku od 19 let. Pokud jste mladší než 19, musíte získat souhlas svého rodiče nebo opatrovníka a tito jsou povinna na vaši účast ve službě Common Voice dohlížet.
 
-Služba Common Voice je součástí Komunity Mozilla. V důsledku toho, v případě, že se budete služby účastnit, souhlasíte, že budete dodržovat [Pokyny pro účast v komunitě Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Služba Common Voice je součástí Komunity Mozilla. V důsledku toho, v případě, že se budete služby účastnit, souhlasíte, že budete dodržovat [Pokyny pro účast v komunitě Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Vaše příspěvky 
 Databázi Common Voice společnosti Mozilla poskytujeme v rámci [poskytnutí licence veřejné domény Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). To znamená, že je veřejná a vzdali jsme se všech autorských práv v rozsahu, v jakém nám to zákon umožňuje. Pokud se budete na službě Common Voice podílet, vyžadujeme, abyste postupovali stejně. Musíte souhlasit s tím, že společnost Mozilla smí nabízet veškeré vaše Příspěvky (včetně textu, nahrávek, ověření a zpětné vazby) veřejnosti v rámci licence veřejné domény [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

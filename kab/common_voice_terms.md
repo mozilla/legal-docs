@@ -9,7 +9,7 @@ tzemreḍ a ad tettekkiḍ deg Common voice kan ma tqbeled ilugan izerfan -ad.
 ## 1. Taysteyt
 Ma ɣur-k nig n 19 n isggas-en, tzemreḍ ad tettekkiḍ deg Common Voice. Ma lɛmmern-k (m) eg d 19 n issggas-en neɣ udun-nes, Teḥwajeḍ urag n imawlan-nek (nem) neɣ n wali k ittwalan, d yessefk ad tettekkiḍ deg Common Voice ddaw tamagaet-nsen. 
 
-Common Voice d aḥric seg tamezdagnut n Mozilla. Ihi, ma ţextiṛeḍ ad tettekkiḍ, yessefk ad tqbeled ad tqaderḍ [Ilugan n utekki deg tamezdagnut n Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice d aḥric seg tamezdagnut n Mozilla. Ihi, ma ţextiṛeḍ ad tettekkiḍ, yessefk ad tqbeled ad tqaderḍ [Ilugan n utekki deg tamezdagnut n Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Atekki-nek 
 Taffa n isefka n Common Voice n Mozilla d yestufan ddaw [Creative Commons CC0 tuṭṭfa n taɣult tazayezt](https://creativecommons.org/publicdomain/zero/1.0/). Anamek-nnes, nettat d azayez: ad nesemmiḥ deg copyright akk ɣer tilisa n uṣaḍuf. Ma tettekkiḍ deg Common voice, nessutur ad tesemmiḥet deg copyright ula d kečč. Yessefk ad tqbeled belli Mozilla tezmzr ad tefk akk atekki-nek (am aḍris, ikalasen, iseɣbalen, d tsedmirt) i uzayez ddaw [CC0](https://creativecommons.org/publicdomain/zero/1.0/) tuṭṭfa n taɣult tazayezt. 

@@ -9,7 +9,7 @@ Common Voice に参加するには、本規約に同意する必要がありま�
 ## 1.資格
 Common Voice は 20 歳以上の誰もが利用できます。20 歳未満の方の利用には保護者の同意が必要となり、Common Voice への参加を監督してもらう必要があります。
 
-Common Voice は Mozilla コミュニティの一部です。そのため、参加する場合は [Mozilla コミュニティ参加ガイドライン](https://www.mozilla.org/en-US/about/governance/policies/participation/) に従うことに同意するものとします。
+Common Voice は Mozilla コミュニティの一部です。そのため、参加する場合は [Mozilla コミュニティ参加ガイドライン](https://www.mozilla.org/about/governance/policies/participation/) に従うことに同意するものとします。
 
 ## 2.貢献 
 Mozilla は、Mozilla の Common Voice データベースを、[クリエイティブ・コモンズ CC0 のパブリック・ドメイン提供](https://creativecommons.org/publicdomain/zero/1.0/) に基づいて公開します。つまり、Common Voice データベースは公開され、Mozilla は法律の下で可能な範囲ですべての著作権を放棄しています。Common Voice に参加する方には同様にしていただくことを求めます。皆様は、Mozilla が [CC0](https://creativecommons.org/publicdomain/zero/1.0/) のパブリック・ドメイン提供に従って、皆様の (テキスト、録音、検証、フィードバックを含む) すべての貢献を公開できることに同意する必要があります。

@@ -20,5 +20,5 @@ Kadar Mozilla (to smo mi) prejme informacije od vas, naš [Mozilla pravilnik o z
 
 * **Tehnični podatki.** Uporabljamo Google Analytics, da bolje razumemo, kakšna je vaša interakcija z aplikacijo Common Voice ali spletno stranjo. Lahko uporabimo piškotke, da sledimo deidentificiranim informacijam, kot je število zvočnih vzorcev, ki jih posnamete ali poslušate, interakcije z gumbi in meniji in dolžina seje. Z uporabo Google Analytics prav tako dobimo URL in naslov strani v Common Voice, ki jih obiščete. Za dosledno izboljšanje izkušnje s Common Voice zbiramo podatke o vrsti in različici brskalnika, velikosti vidnega polja in ločljivosti zaslona. To nam omogoča, da razumemo, kakšna je interakcija ljudi s Common Voice, tako da lahko izboljšamo aplikacijo. Prav tako zberemo lokacijo in nastavitev za jezik v vašem brskalniku, tako da zagotovimo, da jo pravilno vidite. Če se raje odjavite iz zbiranja podatkov za Google Analytics, lahko namestite [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), kar prekine prenos podatkov v Google Analytics. 
 
-[Izvedite več](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Izvedite več](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

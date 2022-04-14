@@ -9,7 +9,7 @@ U mag uitsluitend deelnemen aan Common Voice als u instemt met deze voorwaarden.
 ## 1. Geschiktheid
 Common Voice is open voor iedereen die ouder is dan 19 jaar. Als u jonger bent dan 19 jaar, moet u toestemming hebben van een ouder of voogd en deze persoon moet vervolgens toezicht houden op uw gebruik van Common Voice. 
 
-Common Voice is onderdeel van de Mozilla Community. Als u ervoor kiest om deel te nemen, moet u er dus mee instemmen om de [Deelnamerichtlijnen van de Mozilla Community](https://www.mozilla.org/en-US/about/governance/policies/participation/) in acht te nemen. 
+Common Voice is onderdeel van de Mozilla Community. Als u ervoor kiest om deel te nemen, moet u er dus mee instemmen om de [Deelnamerichtlijnen van de Mozilla Community](https://www.mozilla.org/about/governance/policies/participation/) in acht te nemen. 
 
 ## 2. Uw bijdragen 
 We stellen de Common Voice-database van Mozilla beschikbaar onder de [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Dit brengt met zich mee dat het publiek en wij afzien van alle auteursrechten voor zover en in die mate waarin dat is toegestaan onder de toepasselijke wetgeving. Als u deelneemt aan Common voice, vereisen we dat u hetzelfde doet. U moet ermee akkoord gaan dat Mozilla al uw bijdragen (waaronder tekst, opnamen, validaties en feedback) aan het publiek mag aanbieden onder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. 

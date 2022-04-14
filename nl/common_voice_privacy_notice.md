@@ -20,5 +20,5 @@ Wanneer Mozilla (dat zijn wij) informatie van u ontvangt, beschrijft ons [Mozill
 
 * **Technische gegevens.** We gebruiken Google Analytics om een beter inzicht te krijgen in uw interactie met de Common Voice-app of -website. We kunnen bijvoorbeeld cookies gebruiken voor het bijhouden van geanonimiseerde informatie, zoals het aantal spraaksamples dat u opneemt of beluistert, de interactie met knoppen en menu's en de sessieduur. We verzamelen ook de URL en de Common Voice-pagina's die u bezoekt. Om de Common Voice-ervaring voortdurend te kunnen verbeteren, verzamelen we informatie over browsertypen en -versies, de weergavepoortgrootte en de schermresolutie. Dit stelt ons in staat om te doorgronden wat de interactie van mensen is met Common Voice, zodat we verbeteringen kunnen aanbrengen. We verzamelen ook uw locatie en de taalinstellingen in uw browser om ervoor te zorgen dat alles er juist uitziet voor u. Als u zich wilt uitschrijven voor Google Analytics-gegevensverzameling, kunt u de [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) installeren. Deze add-on stopt de gegevensverzending naar Google Analytics. 
 
-[Meer informatie](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md).
+[Meer informatie](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md).
 

@@ -20,5 +20,5 @@ Kiam Mozilla (tio estas ni) ricevas informon pri vi, nia [Politiko de Privateco 
 
 * **Teĥnikaj datumoj.** Ni uzas Google Analytics por pli bone kompreni kiel vi interagas kun la aplikaĵo Common Voice aŭ la retpaĝo. Ekzemple ni povas uzi kuketojn por spuri neidentigeblajn informojn kiel ekzemple la nombro de la voĉaj specimenoj, kiujn vi registras aŭ aŭskultas, interagoj de butonoj kaj menuoj, kaj la longeco de la uzado. Ni ankaŭ kolektas URL-adresojn kaj titolojn de paĝoj de Common Voice, kiujn vi vizitas. Por plibonigi la uzeblecon de Common Voice, ni kolektas informojn pri la tipo kaj versio de la retumilo, agordita vidgrandeco kaj ekrangrandeco. Ĉi tio permesas al ni kompreni kiel homoj interagas en Common Voice, tiel ni povas pli efektive plibonigi ĝin. Ni ankaŭ kolektas informojn pri via loko kaj lingvaj agordoj de via retumilo por certigi, ke ĝi aspektos perfekte por vi. Se vi preferas malŝalti la datumkolektadon de Google Analytics, vi povas instali la jenan aplikaĵon [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), kiu ĉesigas la transdonon de datumoj al Google Analytics.
 
-[Eksciu pli](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Eksciu pli](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

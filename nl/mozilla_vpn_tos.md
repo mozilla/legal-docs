@@ -31,7 +31,7 @@ U stemt er daarnaast mee in dat uw gebruik van de Service zal voldoen aan de [Ge
 
 __Limiet voor apparaten.__ Wanneer uw abonnement actief is, kunt u maximaal vijf apparaten verbinden met Mozilla VPN.
 
-__Uw licentie voor het gebruik van de software.__ De Mozilla VPN-software wordt aan u beschikbaar gesteld onder de voorwaarden van de [Mozilla Public License](https://www.mozilla.org/en-US/MPL/).
+__Uw licentie voor het gebruik van de software.__ De Mozilla VPN-software wordt aan u beschikbaar gesteld onder de voorwaarden van de [Mozilla Public License](https://www.mozilla.org/MPL/).
 
 __Uw feedback en suggesties.__ Als u Mozilla eventuele ideeën, suggesties of feedback biedt over Firefox-accounts of de services die u gebruikt via uw account, geeft u Mozilla toestemming om deze gratis en zonder eventuele aanvullende verplichtingen te gebruiken.
 
