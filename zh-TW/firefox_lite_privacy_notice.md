@@ -34,7 +34,7 @@ Firefox Lite 會顯示「熱門網站」（由 Mozilla 推薦給初次使用 Fir
 
 * __參考資料與宣傳活動資料__：為了協助改善我們的行銷宣傳活動，Firefox Lite 可能會使用「參考資料」，例如導引您下載並安裝 Firefox Lite 的網站網域或廣告宣傳活動。這種資料會由我們的分析法廠商 Adjust 保存，並在您啟動 Firefox Lite 的時候為您提供；這種資料也包括一組 Google 廣告識別碼、時間戳記、國家、語系、作業系統與應用程式版本。我們可能也會利用第三方廠商管理參考資料程式，以及處理您選擇提送的任何資料。
 
-* __獎勵挑戰__：須有 Firefox 帳號方可參加獎勵挑戰。更多資訊請見 [Firefox 帳號隱私權公告](https://www.mozilla.org/en-US/privacy/firefox/#accounts)。您一旦決定參加我們的獎勵挑戰，則 Mozilla 將會收到您和 Firefox Lite 獎勵相關功能之間互動的資訊。您連線至 Firefox 帳號後，我們會將獎勵挑戰互動資訊和您的 Firefox 帳號連結。如果您在合作夥伴的網站上兌換獎勵，該夥伴就會收到有關您購買內容的資訊。我們可能會收到 Firefox Lite 使用者在第三方合作夥伴網站上所購內容的相關加總資料，但是不會得知任何特定人士所購買的內容。此類資訊能協助我們向 Firefox Lite 使用者告知並建立相關內容。 
+* __獎勵挑戰__：須有 Firefox 帳號方可參加獎勵挑戰。更多資訊請見 [Firefox 帳號隱私權公告](https://www.mozilla.org/privacy/firefox/#accounts)。您一旦決定參加我們的獎勵挑戰，則 Mozilla 將會收到您和 Firefox Lite 獎勵相關功能之間互動的資訊。您連線至 Firefox 帳號後，我們會將獎勵挑戰互動資訊和您的 Firefox 帳號連結。如果您在合作夥伴的網站上兌換獎勵，該夥伴就會收到有關您購買內容的資訊。我們可能會收到 Firefox Lite 使用者在第三方合作夥伴網站上所購內容的相關加總資料，但是不會得知任何特定人士所購買的內容。此類資訊能協助我們向 Firefox Lite 使用者告知並建立相關內容。 
 
 了解更多有關[參考資料與宣傳資料](https://github.com/mozilla-tw/Rocket/wiki/Telemetry#install-campaign-tracking)的資訊。 
 

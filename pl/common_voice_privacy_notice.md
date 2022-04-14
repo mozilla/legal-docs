@@ -20,5 +20,5 @@ Jeśli Mozilla (czyli my) otrzymuje informacje o użytkowniku, sposób ich wyko
 
 * **Dane techniczne.** Używamy usługi Google Analytics do lepszego zrozumienia sposobu interakcji z aplikacją lub witryną Common Voice. Na przykład, możemy używać plików cookie do śledzenia informacji nieumożliwiających identyfikacji, takich jak liczba nagranych lub odsłuchanych próbek głosu, interakcje z przyciskami i menu oraz długość sesji. Zbieramy także adres URL i tytuł stron Common Voice odwiedzanych przez Użytkownika. Aby stale ulepszać funkcje Common Voice, zbieramy informacje o typie i wersji przeglądarki, wielkości okienka ekranu i rozdzielczości ekranu. Umożliwia to nam zrozumienie sposobu interakcji użytkowników z Common Voice, dzięki czemu możemy wprowadzać ulepszenia. Zbieramy również lokalizację i ustawienia językowe Użytkownika w przeglądarce, aby zapewnić właściwy wygląd. Aby zrezygnować z gromadzenia danych przez usługę Google Analytics, można zainstalować [dodatek do przeglądarki Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), który zatrzymuje przesyłanie danych do usługi Google Analytics. 
 
-[Więcej informacji](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Więcej informacji](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

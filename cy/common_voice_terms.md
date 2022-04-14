@@ -9,7 +9,7 @@ Allwch chi ddim ond cymryd rhan yn Common Voice os byddwch chi'n cytuno i'r Amod
 ## 1. Cymhwyster
 Mae Common Voice yn agored i unrhyw un dros 19 oed. Os ydych chi'n 19 oed neu'n iau, rhaid bod gennych chi ganiatâd eich rhiant neu warchodwr a rhai iddynt oruchwylio eich cyfranogiad yn Common Voice. 
 
-Mae Common Voice yn rhan o Gymuned Mozilla. O ganlyniad, os byddwch chi'n dewis cymryd rhan, rydych chi'n cytuno i ddilyn [Canllawiau Cyfranogi Cymuned Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Mae Common Voice yn rhan o Gymuned Mozilla. O ganlyniad, os byddwch chi'n dewis cymryd rhan, rydych chi'n cytuno i ddilyn [Canllawiau Cyfranogi Cymuned Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Eich Cyfraniadau 
 Rydyn ni'n darparu cronfa ddata Common Voice Mozilla dan [ymroddiad parth cyhoeddus Comins Creu CC0](https://creativecommons.org/publicdomain/zero/1.0/). Mae hynny’n golygu ei fod yn gyhoeddus a’n bod wedi ildio pob hawlfraint i’r fath raddau ag y gallwn gan y gyfraith. Os byddwch chi'n cymryd rhan yn Common Voice, rydym yn gofyn eich bod chi'n gwneud hyn hefyd. Rhaid i chi gytuno y gall Mozilla gynnig eich holl Gyfraniadau (yn cynnwys negeseuon testun, recordiadau, dilysiadau ac adborth) i’r cyhoedd dan ymroddiad parth cyhoeddus [CC0](https://creativecommons.org/publicdomain/zero/1.0/) . 

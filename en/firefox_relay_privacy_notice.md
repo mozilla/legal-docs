@@ -19,7 +19,7 @@ __Technical data.__ Mozilla receives basic information from Firefox Relay about 
 
 __Payment information__: If you subscribe to Firefox Relay Premium, you will send payment through one of our third-party payment providers: Stripe or PayPal. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
-Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/master/METRICS.md?). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser.  
+Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser.  
 
 ### Information We Share
 

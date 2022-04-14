@@ -9,7 +9,7 @@ Vi povas partopreni en Common Voice nur se vi konsentas kun ĉi tiuj Kondiĉoj.
 ## 1. Permeso
 Common Voice estas malfermita al iu ajn, kiu havas pli ol 19 jarojn. Se vi estas 19 aŭ malpli, vi devas havi la konsenton de via patro, patrino aŭ prizorganto, kiu ankaŭ devas kontroladi vian partoprenon en Common Voice.
 
-Common Voice estas parto de la Komunumo Mozilla, tial se vi elektis partopreni, vi konsentas sekvi la [Gvidliniojn de Partopreno de la Komunumo Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice estas parto de la Komunumo Mozilla, tial se vi elektis partopreni, vi konsentas sekvi la [Gvidliniojn de Partopreno de la Komunumo Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Viaj kontribuaĵoj 
 Ni akirebligas la datumbazon de Common Voice de Mozilla laŭ [Kreivaj Komunaĵoj CC0 publikaj havaĵoj](https://creativecommons.org/publicdomain/zero/1.0/). Tio signifas, ke ĝi estas publika kaj ni rezignis de ĉiuj rajtoj laŭ la leĝo. Se vi partoprenas en Common Voice, ni postulas, ke vi faru la samon. Vi devas konsenti, ke Mozilla povas proponi ĉiujn viajn Kontribuaĵojn (inkluzive tekstojn, voĉregistraĵojn, datumojn kaj retrokuplojn) al la publiko kiel [CC0](https://creativecommons.org/publicdomain/zero/1.0/) publika havaĵo.

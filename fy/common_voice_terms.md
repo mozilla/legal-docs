@@ -9,7 +9,7 @@ Jo meie allinnich meiwurkje oan Common Voice as jo akkoard binne mei dizze betin
 ## 1. Geskiktheid
 Common Voice is iepen foar elkenien boppe de 19 jier. As jo 19 jier of jonger binne, moatte jo de tastimming fan jo âlder of fersoarger hawwe en moatte se tafersjoch hâlde op jo dielnimming oan Common Voice.
 
-Common Voice is part fan de Mozilla Community. As jo der foar kieze om mei te dwaan, moatte jo de [Mozilla Community-doelnamerjochtlinen](https://www.mozilla.org/en-US/about/governance/policies/participation/) folgje.
+Common Voice is part fan de Mozilla Community. As jo der foar kieze om mei te dwaan, moatte jo de [Mozilla Community-doelnamerjochtlinen](https://www.mozilla.org/about/governance/policies/participation/) folgje.
 
 ## 2. Jo bydragen 
 Wy meitsje de Common Voice-database fan Mozilla beskikber ûnder de [Creative Commons CC0-iepenbiere Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Dit bringt mei dat it publyk en wy ôfsjen fan alle auteursrjochten foar safier en wêryn dat tastien is ûnder de tapaslike wetjouwing. As jo meidwaan wolle oan Common Voice, easkje wy dat jo itselde dogge. Jo moatte ynstimme dat Mozilla al jo bydragen (ynklusyf tekst, opnamen, falidaasjes en kommentaren) oanbiede kin oan it publyk ûnder de [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication.

@@ -5,7 +5,7 @@ Version 3.2.3, July 11, 2019
 
 ## At Mozilla (that’s us), we believe that privacy is fundamental to a healthy internet.
 
-In this Privacy Notice, we explain what data may be accessible to Mozilla or others when you use [Hubs](https://hubs.mozilla.com) or [Spoke](https://hubs.mozilla.com/spoke). We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/en-US/privacy/) for how we receive, handle, and share information we collect from Hubs.
+In this Privacy Notice, we explain what data may be accessible to Mozilla or others when you use [Hubs](https://hubs.mozilla.com) or [Spoke](https://hubs.mozilla.com/spoke). We also adhere to the practices outlined in the Mozilla [privacy policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information we collect from Hubs.
 
 ## Things you should know:
 

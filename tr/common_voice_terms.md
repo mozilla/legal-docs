@@ -9,7 +9,7 @@ Common Voice’a yalnızca bu Koşulları kabul etmek kaydıyla katılabilirsini
 ## 1. Uygunluk
 Common Voice, 19 yaşının üzerindeki herkese açıktır. 19 yaşındaysanız veya bu yaşın altındaysanız, ebeveyninizin veya vasinizin onayını almanız gerekir ve bu kişiler, Common Voice’a katılımınızı denetlemelidir. 
 
-Common Voice, Mozilla Topluluğu'nun bir parçasıdır. Sonuç olarak, katılmayı tercih ederseniz, [Mozilla Topluluğu Katılım İlkeleri’ne](https://www.mozilla.org/en-US/about/governance/policies/participation/) uymayı kabul edersiniz. 
+Common Voice, Mozilla Topluluğu'nun bir parçasıdır. Sonuç olarak, katılmayı tercih ederseniz, [Mozilla Topluluğu Katılım İlkeleri’ne](https://www.mozilla.org/about/governance/policies/participation/) uymayı kabul edersiniz. 
 
 ## 2. Katkılarınız 
 Mozilla’nın Common Voice veritabanını, [Creative Commons CC0 herkese açık alan adı adaması](https://creativecommons.org/publicdomain/zero/1.0/) kapsamında kullanıma sunmaktayız. Bu durum, veritabanının herkese açık olması ve yasalar kapsamında feragat edebileceğimiz tüm telif haklarından feragat etmiş olmamız anlamına gelir. Common Voice’a katılırsanız, sizin de bunu yapmanızı gerektiririz. Mozilla’nın, [CC0](https://creativecommons.org/publicdomain/zero/1.0/) herkese açık alan adı adaması kapsamında tüm Katkılarınızı (metin, kayıtlar, doğrulamalar ve geribildirim dahil) kamuya sunabileceğini kabul etmelisiniz. 

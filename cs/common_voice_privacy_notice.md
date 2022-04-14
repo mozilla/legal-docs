@@ -20,5 +20,5 @@ Pokud společnost Mozilla (tedy my) od vás získá informace, naše [Zásady oc
 
 * **Technické údaje.** Pro lepší pochopení vaší interakce s aplikací či webovými stránkami služby Common Voice využíváme Google Analytics. Můžeme například používat soubory cookies pro sledování anonymizovaných informací, jako je počet hlasových ukázek, které nahrajete nebo posloucháte, použití tlačítek a nabídek, jakož i délky relace. Shromažďujeme rovněž informace o adrese URL a názvu stránek služby Common Voice, které navštívíte. Pro průběžné zlepšování zkušeností se službou Common Voice shromažďujeme informace o typu a verzi prohlížeče, velikosti portu prohlížení a rozlišení obrazovky. To nám umožní pochopit, jako lidé se službou Common Voice pracují, abychom ji mohli vylepšit. Shromažďujeme rovněž informace o vašem místě a jazykovém nastavení ve vašem prohlížeči, abychom zajistili to správné zobrazení pro vás. Pokud chcete zrušit shromažďování dat Google Analytics, můžete nainstalovat [Doplněk zrušení registrace prohlížeče Google Analytics](https://tools.google.com/dlpage/gaoptout), což zastaví přenos dat Google Analytics. 
 
-[Další informace](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Další informace](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

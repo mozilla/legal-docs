@@ -18,4 +18,4 @@ Kur Mozilla (domethënë ne), merr të dhëna nga ju, [Politika e privatësisë 
 
 * **Të dhënat teknike.** Me anë të Google Analytics, ne grumbullojmë adresat URL dhe titujt e faqeve të “Common Voice” që vizitoni. Grumbullojmë shfletuesin tuaj, madhësinë e ekranit dritares së shfletuesit dhe rezolucionin e ekranit. Gjithashtu, grumbullojmë vendndodhjen tuaj dhe cilësimin e gjuhës në shfletuesin tuaj.
 
-[Mëso më tepër](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Mëso më tepër](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)

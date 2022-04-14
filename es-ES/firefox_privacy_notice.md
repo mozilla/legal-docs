@@ -17,7 +17,7 @@ En este aviso de privacidad, especificamos los datos que comparte Firefox y los 
 
 * __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación. Cuando Firefox nos envía datos, su dirección IP se guarda temporalmente como parte de los registros del servidor.
 
-Lea los documentos de telemetría para [dispositivos de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), u obtenga información sobre cómo deshabilitar la recopilación de datos en [dispositivos de escritorio](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) y [dispositivos móviles](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Lea los documentos de telemetría para [dispositivos de escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), u obtenga información sobre cómo deshabilitar la recopilación de datos en [dispositivos de escritorio](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) y [dispositivos móviles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Búsqueda {: #defaultsearch }

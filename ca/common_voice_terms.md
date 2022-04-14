@@ -9,7 +9,7 @@ Només podeu participar a Common Voice si accepteu aquestes Condicions.
 ## 1. Idoneïtat
 Common Voice està obert a totes les persones majors de 19 anys. Si teniu 19 anys o menys, cal que un pare, una mare o un tutor doni el seu consentiment i supervisi la vostra participació a Common Voice. 
 
-Common Voice forma part de la comunitat de Mozilla. Per tant, si decidiu participar, accepteu seguir les [directrius de participació a la comunitat de Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice forma part de la comunitat de Mozilla. Per tant, si decidiu participar, accepteu seguir les [directrius de participació a la comunitat de Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Les vostres Aportacions 
 Posem la base de dades de Common Voice de Mozilla a disposició dels usuaris amb la [dedicació de domini públic Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Això vol dir que és pública i que hem cedit tots els drets de copyright en la mesura en què la llei ho permet. Si participeu a Common Voice, cal que feu el mateix. Cal que accepteu que Mozilla pot oferir totes les vostres Aportacions (incloent-hi text, gravacions, validacions i comentaris) al públic segons la dedicació de domini públic [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 

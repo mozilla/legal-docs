@@ -9,7 +9,7 @@ Puteți participa la Common Voice doar dacă sunteți de acord cu prezentul Acor
 ## 1. Eligibilitate
 Common Voice este deschis participării oricărei persoane care are peste 19 ani. Dacă aveți 19 ani sau mai puțin, trebuie să aveți consimțământul unui părinte sau tutore, și aceasta trebuie să vă supravegheze participarea la Common Voice.
 
-Common Voice face parte din Comunitatea Mozilla. În consecință, dacă decideți să participați, vă exprimați consimțământul cu [Regulile de Participare la Comunitatea Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Common Voice face parte din Comunitatea Mozilla. În consecință, dacă decideți să participați, vă exprimați consimțământul cu [Regulile de Participare la Comunitatea Mozilla](https://www.mozilla.org/about/governance/policies/participation/).
 
 ## 2. Contribuțiile dvs. 
 Baza de date de voce Mozilla Common Voice este făcută publică în conformitate cu [Creative Commons CC0 aferentă domeniului public](https://creativecommons.org/publicdomain/zero/1.0/). Asta înseamnă ca este o bază de date publică și am renunțat la toate drepturile de autor, în măsura în care acest lucru este permis de legislația în vigoare. Dacă participați la Common Voice, vă cerem să faceți același lucru. Trebuie să vă exprimați acordul cu posibilitatea ca Mozilla să ofere publicului toate Contribuțiile făcute de dvs. (inclusiv texte, înregistrări, validări și feedbacl) în conformitate cu licența de domeniu public [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -18,4 +18,4 @@ Keď spoločnosť Mozilla (teda my) od vás získa informácie, naše [Zásady o
 
 * **Technické údaje.** S pomocou Google Analytics zhromažďujeme adresu URL a názov stránok Common Voice, ktoré navštívite. Zhromažďujeme aj informácie o vašom prehliadači, veľkosti zobrazenia a rozlíšení obrazovky. Zhromažďujeme aj informácie o vašom mieste a jazykovom nastavení vášho prehliadača.
 
-[Podrobnejšie informácie](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Podrobnejšie informácie](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)

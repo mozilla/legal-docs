@@ -9,7 +9,7 @@ Ushobora kugira uruhare muri Common Voice gusa iyo wemeye aya mabwiriza.
 ## 1. Kwemererwa
 Common Voice iboneka kuri buri wese urengeje imyaka 19. Iyo ufite imyaka 19 cyangwa utayigejeje, ugomba kuba wabyemerewe n'umubyeyi wawe cyangwa ukurera kandi bagomba kugenzura uruhare rwawe muri Common Voice. 
 
-Common Voice ni umwe mu mishinga igize Mozilla Community. Bityo, iyo uhisemo kuwugiramo uruhare, uba wemeye [Amabwiriza agenga kugira uruhare mu mishinga ya Mozilla Community](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice ni umwe mu mishinga igize Mozilla Community. Bityo, iyo uhisemo kuwugiramo uruhare, uba wemeye [Amabwiriza agenga kugira uruhare mu mishinga ya Mozilla Community](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Umusanzu utanga 
 Dutuma ububiko bwa Common Voice ya Mozilla buboneka hakurikijwe [ibitangwa n'indangarubuga rusange bya Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Bisobanuye ko ari rusange kandi twavanyeho uburenganzira bw'umuhanzi bwose ku rugero dushoboye hakurikijwe amategeko. Iyo ugize uruhare muri Common Voice, nawe tugusaba kubigenza gutyo. Ugomba kwemera ko Mozilla ishobora guha imisanzu yawe yose (harimo umwandiko, amajwi, kwemeza ibyahinduwe, n'ibitekerezo) rubanda hakurikijwe ibitangwa n'indangarubuga rusange [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 

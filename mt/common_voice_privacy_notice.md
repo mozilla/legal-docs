@@ -20,5 +20,5 @@ Meta Mozilla (jiġifieri aħna), tirċievi l-informazzjoni mingħandek, [il-Poli
 
 * **Dejta teknika.** Aħna nużaw Google Analytics biex nifhmu aħjar kif inti tinteraġixxi mal-app jew mal-websajt ta’ Common Voice. Pereżempju, nistgħu nużaw cookies biex nintraċċaw informazzjoni de-identifikata bħall-għadd ta’ kampjuni tal-vuċi li tirreġistra jew tisma’, l-interazzjonijiet mal-buttuni u mal-menus, u t-tul tas-sessjoni. Aħna niġbru wkoll il-URL u t-titlu tal-paġni ta’ Common Voice li żżur. Biex intejbu b’mod konsistenti l-esperjenza ta’ Common Voice, aħna niġbru informazzjoni dwar it-tip u l-verżjoni tal-brawżer, id-daqs tal-viewport, u r-riżoluzzjoni tal-iskrin. Dan jippermettilna nifhmu kif in-nies jinteraġixxu ma’ Common Voice sabiex inkunu nistgħu ntejbuha. Aħna niġbru wkoll il-lokalità tiegħek, u l-konfigurazzjoni tal-lingwa fil-brawżer tiegħek biex niżguraw li jidher tajjeb għalik. Jekk tippreferi li tkun eskluż mill-ġbir tad-dejta ta’ Google Analytics, tista’ tinstalla [l-Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), li twaqqaf it-trażmissjoni tad-dejta lil Google Analytics. 
 
-[Kun af aktar](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Kun af aktar](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

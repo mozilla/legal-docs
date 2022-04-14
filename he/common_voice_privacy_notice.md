@@ -19,5 +19,5 @@
 
 * **נתונים.** ניים. באמצעות Google Analytics, אנו אוספים את כתובות ואת כותרות העמודים בעת ביקורך ב־ Common Voice. אנו אוספים את פרטי הדפדפן, גודל התצוגה ורזולוציית המסך. כמו כן, אנו אוספים את המיקום ואת הגדרות השפה בדפדפן שלך.
 
-[מידע נוסף](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[מידע נוסף](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

@@ -17,7 +17,7 @@ Dalam Pemberitahuan Privasi ini, kami akan menjelaskan data apa saja yang dibagi
 
 * __Data teknis__: Firefox mengirim data kepada kami tentang versi dan bahasa Firefox; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang gangguan dan kesalahan; hasil proses otomatis seperti pembaruan, safebrowsing, dan aktivasi. Saat Firefox mengirim data kepada kami, alamat IP Anda akan dikumpulkan sementara waktu sebagai bagian dari log server kami.
 
-Baca dokumentasi telemetry untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara menghentikan izin pengambilan data ini di [Desktop](https://support.mozilla.org/en-US/kb/share-data-mozilla-help-improve-firefox?redirectlocale=en-US&redirectslug=send-performance-data-improve-firefox) dan [Seluler](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-browsers).
+Baca dokumentasi telemetry untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara menghentikan izin pengambilan data ini di [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) dan [Seluler](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Pencarian {: #defaultsearch }

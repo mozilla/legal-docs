@@ -9,7 +9,7 @@ Bez e c'hellit kemer perzh e Common Voice hepken ma asantit d'an termenoù-mañ.
 ## 1- Dilennadusted
 Digor eo Common Voice da gement hini oadet a ouzhpenn 19 vloaz. Ma 'z oc'h yaouankoc'h eo ret kaout asant ho tud pe hini ho kward hag e tleont kaout ur sell war ho kenlabour gant Common Voice.
 
-Common Voice a zo ul lodenn eus Kumuniezh Mozilla. Dre se ma tibabit kenlabourat ez asantit da zoujañ ouzh [Kemennoù Kemer perzh e Kumuniezh Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice a zo ul lodenn eus Kumuniezh Mozilla. Dre se ma tibabit kenlabourat ez asantit da zoujañ ouzh [Kemennoù Kemer perzh e Kumuniezh Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2- Ho perzhiadur
 Lakaat a reomp da dalvezout an diaz roadennoù mouezhioù [Common Voice Mozilla digor d'an holl dindan](https://creativecommons.org/publicdomain/zero/1.0/) Se a dalv ez eo foran hag hon eus dilezet kement gwir a c'helled hervez lezenn. Ma kemerit perzh e c'houlennomp diganeoc'h ar memestra. Ret eo deoc'h asantiñ e treuzkasfe Mozilla ho perzhiadur (pennadoù, enrolladennoù, talvoudekadurioù hag evezhiadennoù) d'an holl e doare [CCO](https://creativecommons.org/publicdomain/zero/1.0/) domani foran a youl vat.

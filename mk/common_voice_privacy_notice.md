@@ -18,4 +18,4 @@
 
 * **Технички податоци.** Користиме Google Analytics за да ги собираме URL-адресите и насловите на страниците што ги посетувате на Common Voice. Собираме податоци за прелистувачот, резолуцијата на екранот и големината на видливиот дел од веб-страниците. Собираме и податоци за вашата локација, како и за поставката за јазик во вашиот прелистувач.
 
-[Дознајте повеќе](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Дознајте повеќе](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)

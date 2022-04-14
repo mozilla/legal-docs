@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Firefox Reality shares and point yo
 
 * **Technical data:** Firefox Reality sends data about your Firefox Reality version and language; device operating system and hardware configuration, including VR headset and handsets; memory, basic information about crashes and errors; outcome of automated processes like updates, and activation to us. When Firefox Reality sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read the telemetry documentation for Firefox Reality or learn how to [opt-out](https://support.mozilla.org/en-US/kb/send-usage-data-firefox-mobile-devices) of this data collection.
+Read the telemetry documentation for Firefox Reality or learn how to [opt-out](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-devices) of this data collection.
 
 ### Voice Search {: #voice }
 

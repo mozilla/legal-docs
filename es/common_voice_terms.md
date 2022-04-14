@@ -9,7 +9,7 @@ Solo puede participar en Common Voice si está de acuerdo con estos Términos.
 ## 1. Eligibilidad
 Para colaborar en Common Voice debe tener más de 19 años de edad. Si tiene 19 años o menos, podrá participar con el consentimiento y bajo la supervisión de su padre, madre o tutor legal durante su participación en Common Voice.
 
-Common Voice forma parte de la comunidad de Mozilla. Es decir, que si decide participar, apepta adherirse a las [Pautas para la participación en la comunidad de Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+Common Voice forma parte de la comunidad de Mozilla. Es decir, que si decide participar, apepta adherirse a las [Pautas para la participación en la comunidad de Mozilla](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Sus contribuciones 
 La base de datos de Common Voice de Mozilla está disponible en [Ofrecimiento al dominio público de Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Esto significa que es pública y que renunciamos a los derechos de autor en la medida que lo permite la ley. Si participa en Common Voice, requerimos que usted haga lo mismo. Debe permitir que Mozilla pueda compartir sus contribuciones (por ejemplo, textos, grabaciones, validaciones y comentarios) para su uso en proyectos de dominio público [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 
