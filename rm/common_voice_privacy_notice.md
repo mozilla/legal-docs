@@ -20,5 +20,5 @@ Cur cha Mozilla (nus) surgnischa infuormaziuns da tü, nossas [normas Mozilla su
 
 * **Data tecnicas.** Nus dovrain Google Analytics per incleger meglder sco tü interagischast cun l’app o la pagina Common Voice. P.e., nus pudessain dovrar cookies per dar davo a las infuormaziuns anonimas cha tü registrast o dodast, las interacziuns cun tastas o menus, la lunghezza da sessiuns. Nus clegiain l’URL ed el titel da las paginas cha tü visitast sur Common Voice. Per amedgldrar cuntinuamaing l’experienza da Common Voice, nus clegiain infuormaziuns sur el tip da browser e la versiun, la grondezza da la fanestra e la resoluziun dal monitur. Ch’ans güda a incleger sco las persunas interagischan cun Common Voice per el amegldrer. Nus clegiain eir tia posiziun e l’impostaziun da lingua da teis browser per at sgürar cha la pagina es güsta per tai. Scha tü preferischast sortir da la collecziun da datas da Google Analytics, tü poust installar el [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), cha tegna serrada la transmissiun da datas a Google Analytics. 
 
-[Legia da plü](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Legia da plü](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

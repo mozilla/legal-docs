@@ -19,4 +19,4 @@ Mozilla (яғни біз) сізден ақпарат алғанда, бізді
 
 * **Техникалық деректер.** Google Analytics қызметін пайдаланып, сіз кірген Common Voice сайтының сілтемесі мен тақырыбын жинаймыз. Біз браузер, қарау аумағы өлшемі және экранның ажыратымдылығы туралы мәлімет жинаймыз. Сонымен бірге орныңыз және браузердегі тіл параметрлері туралы мәлімет жинаймыз.
 
-[Толық ақпарат](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Толық ақпарат](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)

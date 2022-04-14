@@ -20,5 +20,5 @@
 
 * **技術データ。** Mozilla は、Common Voice のアプリやウェブサイトで皆様がどのように操作しているのかを理解するため、Google アナリティクスを利用します。例えば、Cookie を利用して、皆様が録音した、または聴いた音声サンプルの数、ボタンやメニューの操作、セッションの長さなど、匿名化された情報を追跡することがあります。また、皆様が訪問した Common Voice ページの URL やタイトルを収集します。Common Voice での体験を常に改善していくため、Mozilla はブラウザの種類とバージョン、ビューポートサイズ、および画面の解像度に関する情報を収集します。これによって、皆様がどのように Common Voice を操作するかを理解し、改善に役立てることができます。また、皆様の位置とブラウザの言語設定を収集して、適切に表示されているかを確認します。Google アナリティクスのデータ収集を許可しない場合は、[Google アナリティクス・オプトアウト・ブラウザー・アドオン](https://tools.google.com/dlpage/gaoptout) をインストールして、Google アナリティクスへのデータ伝送を停止させることができます。 
 
-[詳細はこちら](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[詳細はこちら](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

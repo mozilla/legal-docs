@@ -20,5 +20,5 @@ Iyo Mozilla (ni ukuvuga twe), twakiriye amakuru uduhaye, [Amabwiriza agenga ubuz
 
 * **Amakuru ya tekiniki.** Dukoresha Google Analytics kugira ngo turusheho kumva uko ukorana na porogaramu ya Common Voice cyangwa urubuga. Urugero: Dushobora gukoresha kuki kugira ngo dukurikirane amakuru yakuwemo ibituma umuntu amenyekana nk'umubare w'amajwifatizo ufata cyangwa wumva, uko ukoresha buto na meni, n'uburebure bwa sesiyo. Tunakusanya URL n'imitwe ya paji ya Common Voice usura. Kugira ngo dukomeze kunoza imikoreshereze ya Common Voice, dukusanya amakuru yerekeye ubwoko bwa mushakisha na verisiyo, ingano y'idirishya ry'ireba, n'imigaragarire ya ekara. Bituma dusobanukirwa uko abantu bakorana na Common Voice kugira ngo tuyinoze. Tunakusanya aho uherereye, n'igenamiterere ry'ururimi muri mushakisha yawe kugira ngo dukore uko dushoboye ikugaragarire neza. Niba wifuza kuva mu ikusanyamakuru rya Google Analytics, ushobora kwinjizamo porogaramu nyongera [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), ihagarika kohereza amakuru kuri Google Analytics. 
 
-[Menya ibindi](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Menya ibindi](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

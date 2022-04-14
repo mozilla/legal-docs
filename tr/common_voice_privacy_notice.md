@@ -20,5 +20,5 @@ Mozilla olarak sizden bilgi aldığımızda, [Mozilla Gizlilik Politikamız](htt
 
 * **Teknik veriler.** Common Voice uygulaması veya web sitesiyle nasıl etkileşim kurduğunuzu daha iyi anlamak için Google Analytics kullanırız. Örneğin, kaydettiğiniz veya dinlediğiniz ses örneklerinin sayısı, düğmeler ve menüler ile etkileşim, oturum süresi gibi gizlenen bilgileri takip etmek üzere çerezler kullanabiliriz. Ayrıca ziyaret ettiğiniz Common Voice sayfalarının URL ve başlık bilgilerini toplarız. Common Voice deneyimini sürekli iyileştirmek amacıyla tarayıcı türü ve sürümü, görünüm penceresi boyutu ve ekran çözünürlüğüne ilişkin bilgileri toplarız. Bu durum; iyileştirme amacıyla, insanların Common Voice ile nasıl etkileşim kurduğunu anlamamıza izin verir. Ayrıca sizin için doğru bir görünüm sunmak üzere tarayıcınızdaki dil ayarınız ve konumunuza ilişkin bilgileri de toplarız. Google Analytics veri toplama özelliğini durdurmayı istiyorsanız, Google Analytics'e veri aktarımını durduran [Google Analytics Durdurma Tarayıcı Eklentisi](https://tools.google.com/dlpage/gaoptout) eklentisini kurabilirsiniz.
 
-[Daha fazla bilgi edinin](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Daha fazla bilgi edinin](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

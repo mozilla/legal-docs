@@ -20,5 +20,5 @@ Uzņēmums Mozilla (tie esam mēs) saņem no jums informāciju, un [Mozilla konf
 
 * **Tehniskie dati.** Lai labāk izprastu, kā mijiedarbojaties ar lietotni Common Voice vai Common Voice tīmekļa vietni, mēs izmantojam pakalpojumu Google Analytics. Piemēram, mēs varam izmantot sīkfailus, lai vāktu tādu anonimizētu informāciju kā jūsu ierakstīto vai noklausīto balss paraugu skaits, informācija par mijiedarbību ar pogām un izvēlnēm, sesijas ilgums. Mēs vācam arī jūsu apmeklēto Common Voice lapu vietrāžus URL un nosaukumus. Lai pastāvīgi uzlabotu Common Voice lietošanas iespējas, mēs vācam informāciju par pārlūkprogrammas tipu un versiju, skatvietas lielumu un ekrāna izšķirtspēju. Šī informācija ļauj izprast, kā cilvēki mijiedarbojas ar pakalpojumu Common Voice un kā to uzlabot. Mēs vācam arī informāciju par jūsu atrašanās vietu un valodas iestatījumu pārlūkprogrammā, lai nodrošinātu pakalpojuma atbilstību jūsu vajadzībām. Ja vēlaties atteikties no Google Analytics veiktās datu vākšanas, varat instalēt [Google Analytics atteikšanās papildinājumu](https://tools.google.com/dlpage/gaoptout), kas pārtrauc datu pārsūtīšanu pakalpojumam Google Analytics. 
 
-[Papildinformācija](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[Papildinformācija](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 

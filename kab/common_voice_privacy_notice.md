@@ -20,5 +20,5 @@ Melmi tettaɣ Mozilla (d nekkni) isallen sɣur-k. [Uqader n tmeddurt tusligt n M
 
 * **Isefka itikniten.** Nesseqdac Google Analytics bac a nefhem mliḥ amek tettemyegeḍ ed Asnas n Common Voice niɣ Asmel Web. Ɣef umedya, nezmer ad nesseqdec tikukiyin bac ad neḍfer tilɣa ur yeţwakazen am amḍan en tilam en tuɣac tkellseḍ niɣ acu ay tselleḍ, tamyigawt ed tqeffalin ed umuɣen, ed tiddi n tɣimit. Nettelqaḍ ula URL ed izwilen en isebtaren en Common Voice trezzuḍ. Akken ad tesselhu dima tarmit n Common Voice, ar nejmeɛ isallen ɣef lqem d unagraw n iminig, tiddi n u sfaylu d wegdil n tabadut. Aya ittregeɣ ad ngzu amek a-s tmyegemen medden id Common Voice ,ihi nezmer ad tesselhu. Ar nejmeɛ ula asun-inek, iɣewwaren n tutlayt deg iminig-inek bac ad n-glaqen ad as-d-tban tecbeḥ ugar. Ma tebɣiḍ ad teffɣeḍ seg alqwaḍ en isekfa en Google Analytics, tzemreḍ ad tserkebḍ [Tamarant en iminig en ufuɣ seg Google Analytics](https://tools.google.com/dlpage/gaoptout), d wacu yetteḥbasen asiweḍ en isekfa i Google Analytics. 
 
-[ɣeṛ ugar](https://github.com/mozilla/voice-web/blob/master/docs/data_dictionary.md)
+[ɣeṛ ugar](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
