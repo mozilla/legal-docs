@@ -67,7 +67,7 @@
 
 #### 7\. تقارير إساءة الاستخدام
 
-لمزيد من المعلومات حول كيفية الإبلاغ عن مطالبة بإساءة استخدام حقوق نشر أو علامة تجارية، فيُرجى الاطلاع على: ‎[https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+لمزيد من المعلومات حول كيفية الإبلاغ عن مطالبة بإساءة استخدام حقوق نشر أو علامة تجارية، فيُرجى الاطلاع على: ‎[https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. مدة الاتفاقية وانتهاء العمل بالبنود
 

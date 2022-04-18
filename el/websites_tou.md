@@ -67,7 +67,7 @@ H [Ειδοποίηση Απορρήτου Ιστοσελίδων, Επικοι�
 
 #### 7\. Αναφορές κατάχρησης
 
-Για περισσότερες πληροφορίες σχετικά με τον τρόπο αναφοράς μιας καταγγελίας κατάχρησης ενός δικαιώματος copyright ή εμπορικού σήματος, δείτε: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Για περισσότερες πληροφορίες σχετικά με τον τρόπο αναφοράς μιας καταγγελίας κατάχρησης ενός δικαιώματος copyright ή εμπορικού σήματος, δείτε: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Διάρκεια ισχύος, τερματισμός
 

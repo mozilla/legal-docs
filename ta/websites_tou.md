@@ -66,7 +66,7 @@ MozReps மற்றும் Webmaker போன்ற பிற இணையத
 
 #### 7\. முறைகேடு புகார்கள்
 
-பதிப்புரிமை அல்லது முத்திரையைத் தவறாக பயன்படுத்துதலை புகாரளிக்கும் முறைகளை பற்றித் தெரிந்துகொள்ள, இங்கு பார்க்கவும்: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+பதிப்புரிமை அல்லது முத்திரையைத் தவறாக பயன்படுத்துதலை புகாரளிக்கும் முறைகளை பற்றித் தெரிந்துகொள்ள, இங்கு பார்க்கவும்: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. காலவரை; முடிவுறுதல்
 

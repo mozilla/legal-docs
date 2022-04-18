@@ -67,7 +67,7 @@ Alte site-uri web precum MozReps și Webmaker furnizează unelte care permit uti
 
 #### 7\. Raportarea abuzurilor
 
-Pentru mai multe informații privind raportarea folosirii abuzive a unor drepturi de autor sau a unei mărci comerciale, vă rugăm să consultați: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Pentru mai multe informații privind raportarea folosirii abuzive a unor drepturi de autor sau a unei mărci comerciale, vă rugăm să consultați: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8. Termen; Reziliere
 

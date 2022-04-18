@@ -67,7 +67,7 @@ Inne Witryny, np. MozReps i Webmaker, udostępniają narzędzia, które umożli
 
 #### 7\. Zgłoszenia nadużyć
 
-Więcej informacji na temat zgłaszania roszczeń do praw autorskich lub naruszeń znaków towarowych można znaleźć tutaj: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Więcej informacji na temat zgłaszania roszczeń do praw autorskich lub naruszeń znaków towarowych można znaleźć tutaj: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Okres obowiązywania; wypowiedzenie
 
