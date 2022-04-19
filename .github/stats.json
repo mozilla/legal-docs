@@ -1,12 +1,11 @@
 {
   "acceptable_use_policy.md": {
-    "count": 22,
+    "count": 21,
     "locales": [
       "bn",
       "cs",
       "de",
       "el",
-      "en_b",
       "es-ES",
       "fr",
       "hi",
@@ -168,55 +167,6 @@
       "zh-CN"
     ]
   },
-  "firefox_lite_contentservices_reward.md": {
-    "count": 11,
-    "locales": [
-      "hi",
-      "id",
-      "jv",
-      "kn",
-      "ml",
-      "su",
-      "ta",
-      "th",
-      "tl",
-      "vi",
-      "zh-TW"
-    ]
-  },
-  "firefox_lite_contentservices_tos.md": {
-    "count": 11,
-    "locales": [
-      "hi",
-      "id",
-      "jv",
-      "kn",
-      "ml",
-      "su",
-      "ta",
-      "th",
-      "tl",
-      "vi",
-      "zh-TW"
-    ]
-  },
-  "firefox_lite_privacy_notice.md": {
-    "count": 12,
-    "locales": [
-      "hi",
-      "id",
-      "jv",
-      "kn",
-      "ml",
-      "su",
-      "ta",
-      "th",
-      "tl",
-      "vi",
-      "zh-CN",
-      "zh-TW"
-    ]
-  },
   "firefox_monitor_terms_privacy.md": {
     "count": 18,
     "locales": [
@@ -290,32 +240,24 @@
     ]
   },
   "firefox_privacy_notice.md": {
-    "count": 28,
+    "count": 20,
     "locales": [
       "ar",
-      "bn",
       "cs",
       "de",
-      "el",
-      "en_b",
       "es-ES",
       "es-MX",
       "fr",
       "hi",
-      "hr",
       "hu",
       "id",
       "it",
       "ja",
       "ko",
-      "mk",
       "nl",
       "pl",
       "pt-BR",
-      "ro",
       "ru",
-      "sr",
-      "ta",
       "tr",
       "vi",
       "zh-CN",
@@ -390,53 +332,21 @@
     ]
   },
   "mozilla_privacy_policy.md": {
-    "count": 45,
+    "count": 13,
     "locales": [
-      "af",
-      "ar",
-      "bg",
-      "bn",
       "cs",
-      "da",
       "de",
-      "el",
       "es-ES",
-      "et",
-      "fa",
-      "fi",
       "fr",
-      "he",
-      "hi",
-      "hr",
       "hu",
       "id",
       "it",
       "ja",
-      "ko",
-      "lt-LT",
-      "lt-LV",
-      "mk",
-      "my",
-      "nb-NO",
       "nl",
       "pl",
       "pt-BR",
-      "ro",
       "ru",
-      "sk",
-      "sl",
-      "sr",
-      "sv",
-      "sw",
-      "ta",
-      "th",
-      "tl",
-      "tr",
-      "vi",
-      "xh",
-      "zh-CN",
-      "zh-TW",
-      "zu"
+      "zh-CN"
     ]
   },
   "mozilla_vpn_privacy_notice.md": {
