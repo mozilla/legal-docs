@@ -9,20 +9,19 @@ import re
 import sys
 
 
-def extractUpdateDate(content):
-    """Extract update date"""
+def extractUpdateDate(filename):
+    """Extract update date from file"""
 
-    update_date = None
     date_pattern = re.compile(
         '.*{:\s?datetime="(?P<update>[0-9]{4}-[0-9]{2}-[0-9]{2})"\s?}.*'
     )
-    for line in content:
-        matches = date_pattern.match(line)
-        if matches:
-            dates = matches.groupdict()
-            return dates["update"]
 
-    return update_date
+    with open(filename, "r") as fp:
+        for line in fp:
+            matches = date_pattern.match(line)
+            if matches:
+                dates = matches.groupdict()
+                return dates["update"]
 
 
 def findAllFiles(path):
@@ -34,8 +33,8 @@ def findAllFiles(path):
 
     for fp in file_paths:
         # Threat the first folder as locale code
-        locale = str(fp).split(os.sep)[0]
-        filename = os.path.relpath(fp, os.path.join(path, locale))
+        locale = str(fp.parent)
+        filename = str(fp.name)
         files[locale].append(filename)
 
     return files
@@ -63,11 +62,9 @@ def main():
     data = defaultdict(dict)
     for locale, filenames in files_list.items():
         for f in filenames:
-            filename = os.path.join(args.files_path, locale, f)
-            with open(filename, "r") as fp:
-                content = fp.readlines()
-                update_date = extractUpdateDate(content)
-                data[f][locale] = update_date
+            data[f][locale] = extractUpdateDate(
+                os.path.join(args.files_path, locale, f)
+            )
 
     ref_locale = args.ref_locale
     locales = list(data.keys())
