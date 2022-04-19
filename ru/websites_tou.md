@@ -67,7 +67,7 @@
 
 #### 7\. Отчеты о нарушениях
 
-Дополнительная информация о том, как сообщить о нарушении авторского права или прав на товарный знак, размещена по адресу [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Дополнительная информация о том, как сообщить о нарушении авторского права или прав на товарный знак, размещена по адресу [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Срок действия; прекращение
 

@@ -67,7 +67,7 @@ Otros Sitios web, como MozReps y Webmaker, ofrecen herramientas que permiten a l
 
 #### 7\. Notificación de infracciones
 
-Para obtener más información sobre la notificación de infracciones en relación con los derechos de autor o las marcas comerciales, haga clic aquí: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Para obtener más información sobre la notificación de infracciones en relación con los derechos de autor o las marcas comerciales, haga clic aquí: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Vigencia y rescisión
 

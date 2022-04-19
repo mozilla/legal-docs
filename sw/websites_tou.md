@@ -67,7 +67,7 @@ Tovuti nyingine, kama MozReps na Webmaker, zinatoa zana ambazo zinawezesha watum
 
 #### 7\. Ripoti za Matumizi mabaya
 
-Kwa maelezo zaidi kuhusu jinsi ya kuripoti madai ya matumizi mabaya ya hakimiliki au alama ya biashara, tafadhali tazama: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Kwa maelezo zaidi kuhusu jinsi ya kuripoti madai ya matumizi mabaya ya hakimiliki au alama ya biashara, tafadhali tazama: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Masharti; Ukatishaji
 

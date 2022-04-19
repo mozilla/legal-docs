@@ -67,7 +67,7 @@ Nagbibigay ang ibang Mga Website, tulad ng MozReps at Webmaker, ng mga tool na n
 
 #### 7\. Mga Ulat sa Pang-aabuso
 
-Para sa higit pang impormasyon tungkol sa kung paano mag-ulat ng paghahabol sa copyright o pang-aabuso ng trademark, pakitingnan ang: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Para sa higit pang impormasyon tungkol sa kung paano mag-ulat ng paghahabol sa copyright o pang-aabuso ng trademark, pakitingnan ang: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Tuntunin; Pagwawakas
 

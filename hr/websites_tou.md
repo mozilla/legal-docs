@@ -67,7 +67,7 @@ Druga Web-mjesta poput MozReps i Webmakera, stavljaju na raspolaganje alate koji
 
 #### 7\. Izvješća o zlouporabi
 
-Kako biste saznali više o tome kako prijaviti zlouporabu autorskog prava ili zaštitnog znaka, pogledajte: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Kako biste saznali više o tome kako prijaviti zlouporabu autorskog prava ili zaštitnog znaka, pogledajte: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8. Prekid primjenjivanja Uvjeta
 

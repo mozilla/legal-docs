@@ -67,7 +67,7 @@ Andere Websites, wie MozReps und Webmaker, stellen Tools bereit, mit denen Benut
 
 #### 7\. Meldung von Missbrauch
 
-Weitere Informationen zum Melden einer Urheberrechts- oder Markenverletzung finden Sie hier. [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Weitere Informationen zum Melden einer Urheberrechts- oder Markenverletzung finden Sie hier. [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Laufzeit; Kündigung
 
