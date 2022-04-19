@@ -86,7 +86,7 @@ def findAllFiles(path):
 
     for fp in file_paths:
         # Threat the first folder as locale code
-        locale = str(fp).split(os.sep)[0]
+        locale = str(fp.parent)
         filename = os.path.relpath(fp, os.path.join(path, locale))
         files[locale].append(filename)
 
@@ -173,6 +173,7 @@ def main():
                             missing = list(
                                 set(data[ref_locale][f]["links"]) - set(f_data["links"])
                             )
+                            missing.sort()
                             if missing:
                                 errors.append("  Missing links:")
                                 for m in missing:
@@ -180,6 +181,7 @@ def main():
                             additional = list(
                                 set(f_data["links"]) - set(data[ref_locale][f]["links"])
                             )
+                            additional.sort()
                             if additional:
                                 errors.append("  Additional links:")
                                 for m in additional:
