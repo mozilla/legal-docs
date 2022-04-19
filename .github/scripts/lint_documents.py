@@ -146,6 +146,7 @@ def main():
             with open(filename, "r") as f:
                 exceptions = json.load(f)
 
+    repo_errors = False
     ref_locale = args.ref_locale
     locales = list(data.keys())
     locales.sort()
@@ -190,8 +191,14 @@ def main():
                     locale_errors.append(f"    {e}")
 
         if locale_errors:
+            repo_errors = True
             print(f"\nLocale: {locale}")
             print("\n".join(locale_errors))
+
+    if repo_errors:
+        sys.exit(1)
+    else:
+        print("No issues found.")
 
 
 if __name__ == "__main__":
