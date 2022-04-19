@@ -1,23 +1,20 @@
 # Current Status
 
 List of translated files (number of locales between parentheses):
-* acceptable_use_policy.md (22)
+* acceptable_use_policy.md (21)
 * common_voice_privacy_notice.md (49)
 * common_voice_terms.md (49)
 * firefox_about_rights.md (12)
 * firefox_cloud_services_tos.md (12)
-* firefox_lite_contentservices_reward.md (11)
-* firefox_lite_contentservices_tos.md (11)
-* firefox_lite_privacy_notice.md (12)
 * firefox_monitor_terms_privacy.md (18)
 * firefox_os_privacy_notice.md (44)
-* firefox_privacy_notice.md (28)
+* firefox_privacy_notice.md (20)
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
 * focus_privacy_notice.md (18)
 * mdn_plus_privacy.md (6)
 * mdn_plus_terms.md (6)
-* mozilla_privacy_policy.md (45)
+* mozilla_privacy_policy.md (13)
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
 * ossn_site_privacy_notice.md (1)
@@ -28,7 +25,6 @@ List of files not translated:
 * better_web_privacy.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
-* firefox_lite_about_rights.md
 * firefox_private_network_beta_privacy_notice.md
 * firefox_private_network_tos.md
 * firefox_reality_about_rights.md
