@@ -1,6 +1,6 @@
 # Kemenn prevezded Common Voice 
 
-E talvoud 15 a viz Eost 2019 {: datetime="2019-08-2019" }
+E talvoud 15 a viz Eost 2019 {: datetime="2019-08-15" }
 
 ## Prevezded
 
