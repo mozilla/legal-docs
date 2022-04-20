@@ -4,10 +4,8 @@
         "af/firefox_os_privacy_notice.md",
         "bn/firefox_os_privacy_notice.md",
         "da/firefox_os_privacy_notice.md",
-        "et/common_voice_terms.md",
         "he/common_voice_privacy_notice.md",
         "he/common_voice_terms.md",
-        "id/firefox_lite_contentservices_reward.md",
         "kk/common_voice_privacy_notice.md",
         "kk/common_voice_terms.md",
         "lt-LV/firefox_os_privacy_notice.md",
@@ -22,7 +20,6 @@
         "ta/firefox_os_privacy_notice.md",
         "tl-PH/firefox_os_privacy_notice.md",
         "xh/firefox_os_privacy_notice.md",
-        "zh-CN/firefox_lite_privacy_notice.md",
         "zu/firefox_os_privacy_notice.md"
     ]
 }
