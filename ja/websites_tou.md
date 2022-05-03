@@ -68,7 +68,7 @@ MozReps および Webmaker といったその他当社ウェブサイトでは�
 
 #### 7\. 不正使用の報告
 
-著作権または商標権の侵害の申立方法に関する詳しい情報については、[https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/) をご覧ください。
+著作権または商標権の侵害の申立方法に関する詳しい情報については、[https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/) をご覧ください。
 
 #### 8\. 有効期間；終了
 

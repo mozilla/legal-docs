@@ -67,7 +67,7 @@ Jiné Webové stránky, například MozReps, poskytují nástroje, díky nimž m
 
 #### 7\. Oznámení zneužití
 
-Více informací o tom, jak oznámit zneužití autorských práv nebo ochranné známky, naleznete na adrese: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Více informací o tom, jak oznámit zneužití autorských práv nebo ochranné známky, naleznete na adrese: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Doba platnosti, ukončení
 

@@ -67,7 +67,7 @@
 
 #### 7\. Извештаи за злоупотреба
 
-Повеќе информации за поднесување жалба за злоупотреба на авторски права или заштитни знаци може да најдете овде: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Повеќе информации за поднесување жалба за злоупотреба на авторски права или заштитни знаци може да најдете овде: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Рок; Прекинување
 

@@ -67,7 +67,7 @@ Más Webhelyek, például a MozReps és a Webmaker olyan eszközöket kínálnak
 
 #### 7\. Visszaélések jelentése
 
-Ha továbbiakat szeretne megtudni a szerzői jogokkal vagy védjegyekkel kapcsolatos visszaélések jelentéséről, akkor tekintse meg a következőket itt: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Ha továbbiakat szeretne megtudni a szerzői jogokkal vagy védjegyekkel kapcsolatos visszaélések jelentéséről, akkor tekintse meg a következőket itt: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Időtartam, felmondás
 

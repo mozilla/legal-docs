@@ -67,7 +67,7 @@ Altri siti web, come MozReps e Webmaker, offrono strumenti online che consentono
 
 #### 7\. Segnalazioni di abuso
 
-Per ulteriori informazioni su come segnalare una violazione di copyright o marchio commerciale, consultare: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Per ulteriori informazioni su come segnalare una violazione di copyright o marchio commerciale, consultare: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Fine; Cessazione
 

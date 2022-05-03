@@ -67,7 +67,7 @@ D’autres sites Web, comme MozReps et Webmaker, offrent des outils qui permette
 
 #### 7\. Signaler un abus
 
-Pour de plus amples renseignements sur la façon de signaler un abus de droit d’auteur ou de marque de commerce, veuillez consulter le document suivant : [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Pour de plus amples renseignements sur la façon de signaler un abus de droit d’auteur ou de marque de commerce, veuillez consulter le document suivant : [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Durée ; résiliation
 
