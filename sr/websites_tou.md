@@ -67,7 +67,7 @@ Drugi veb-sajtovi, kao što su MozReps i Webmaker, imaju alatke koje omogućavaj
 
 #### 7\. Izveštaji o zloupotrebi
 
-Za više informacija o tome kako da prijavite potraživanje autorskih prava ili zloupotrebu zaštitnog znaka, pogledajte: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Za više informacija o tome kako da prijavite potraživanje autorskih prava ili zloupotrebu zaštitnog znaka, pogledajte: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8. Period važenja; Raskid obaveza
 

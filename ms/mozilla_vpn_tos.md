@@ -21,7 +21,7 @@ Mozilla adalah organisasi global, dan komputer kami dan komputer pembekal perkhi
 
 ## Keizinan yang Diperlukan untuk Menyediakan Perkhidmatan ini
 
-Mozilla VPN adalah Rangkaian Peribadi Maya perkongsian dengan [Mullvad](https://mullvad.net). Untuk mengetahui cara Perkhidmatan ini berfungsi, anda boleh lihat sumber kod Mozilla untuk program VPN pada [Windows](https://github.com/mozilla-services/guardian-vpn-windows), [iOS](https://github.com/mozilla-mobile/guardian-vpn-ios), dan [Android](https://github.com/mozilla-mobile/guardian-vpn-android).
+Mozilla VPN adalah Rangkaian Peribadi Maya perkongsian dengan [Mullvad](https://mullvad.net). Untuk mengetahui cara Perkhidmatan ini berfungsi, anda boleh lihat sumber kod Mozilla untuk program VPN pada [Windows](https://github.com/mozilla-services/guardian-vpn-windows), [MacOS](https://github.com/mozilla-mobile/mozilla-vpn-client/), [iOS](https://github.com/mozilla-mobile/guardian-vpn-ios), dan [Android](https://github.com/mozilla-mobile/guardian-vpn-android).
 
 __Penggunaan Perkhidmatan oleh Anda.__ Mozilla memberi keizinan kepada anda untuk menggunakan Perkhidmatan Mozilla VPN mengikut Terma Perkhidmatan ini. Keizinan ini hanya untuk kegunaan peribadi anda sahaja. Anda tidak boleh memindah, sub-lesen, menjual semula, atau secara komersial mengeksploitasi perkhidmatan ini.
 

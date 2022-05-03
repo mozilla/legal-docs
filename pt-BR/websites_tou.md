@@ -67,7 +67,7 @@ Outros Sites, como MozReps e Webmaker, oferecem ferramentas que possibilitam que
 
 #### 7\. Denúncias de abuso
 
-Para mais informações sobre como informar uma reivindicação de uso indevido de direitos autorais ou marcas registradas, consulte: [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+Para mais informações sobre como informar uma reivindicação de uso indevido de direitos autorais ou marcas registradas, consulte: [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. Vigência; Rescisão
 

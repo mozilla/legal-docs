@@ -67,7 +67,7 @@ Mozilla এর ওপেন সোর্স প্রোজেক্টগুল
 
 #### 7\. অপব্যবহারের রিপোর্ট
 
-কপিরাইট বা ট্রেডমার্কের অপব্যবহার করা হচ্ছে এই সম্পর্কিত রিপোর্ট করার জন্য আরো জানতে, অনুগ্রহ করে দেখুন  [https://www.mozilla.org/about/legal/report-abuse/](https://www.mozilla.org/about/legal/report-abuse/).
+কপিরাইট বা ট্রেডমার্কের অপব্যবহার করা হচ্ছে এই সম্পর্কিত রিপোর্ট করার জন্য আরো জানতে, অনুগ্রহ করে দেখুন  [https://www.mozilla.org/about/legal/report-infringement/](https://www.mozilla.org/about/legal/report-infringement/).
 
 #### 8\. শর্তাবলী; পরিসমাপ্তি
 

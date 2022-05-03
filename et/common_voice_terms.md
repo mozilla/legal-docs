@@ -53,7 +53,7 @@ Nõustud Mozillat kaitsma ja hüvitama talle oma Common Voice’i kasutamistest 
 Mozilla pakub teenust „valmis kujul“. Mozilla loobub nimelt andmast nt „kaubastatavuse“, „kindlaks otstarbeks sobivuse“ ja „tingimuste mitterikkumisega“ seotud õiguslikke garantiisid ja tagatisi ning tagatisi, mis tulenevad kauplemisest või kasutamisest. 
 
 ## 6. Rikkumisest teatamine
-Juhul kui leiad, et Common Voice’iga rikutakse autori- või kaubamärgiõigusi, uuri meie [rikkumisest teadaandmise poliitikat] (https://www.mozilla.org/about/legal/report-infringement/).
+Juhul kui leiad, et Common Voice’iga rikutakse autori- või kaubamärgiõigusi, uuri meie [rikkumisest teadaandmise poliitikat](https://www.mozilla.org/about/legal/report-infringement/).
 
 ## 7. Värskendused 
 Mozilla võib otsustada neid tingimusi jooksvalt värskendada. Värskendatud terminid postitatakse veebi. 
