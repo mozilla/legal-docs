@@ -1,16 +1,23 @@
 {
-    "anchors": [],
+    "anchors": [
+        "hu/firefox_privacy_notice.md"
+    ],
     "links": [
         "af/firefox_os_privacy_notice.md",
         "bn/firefox_os_privacy_notice.md",
+        "cs/firefox_privacy_notice.md",
+        "cs/mozilla_privacy_policy.md",
         "da/firefox_os_privacy_notice.md",
         "he/common_voice_privacy_notice.md",
         "he/common_voice_terms.md",
+        "hu/firefox_privacy_notice.md",
+        "hu/mozilla_privacy_policy.md",
         "kk/common_voice_privacy_notice.md",
         "kk/common_voice_terms.md",
         "lt-LV/firefox_os_privacy_notice.md",
         "mk/common_voice_privacy_notice.md",
         "mk/common_voice_terms.md",
+        "nl/mozilla_privacy_policy.md",
         "sk/common_voice_privacy_notice.md",
         "sk/common_voice_terms.md",
         "sl/firefox_os_privacy_notice.md",
