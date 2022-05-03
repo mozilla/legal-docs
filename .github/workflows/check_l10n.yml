@@ -48,7 +48,7 @@ jobs:
           # Use temporary folder to store files from the default branch
           cd ..;mkdir temp_files
           # Copy files, excluding scripts and workflows
-          rsync -av --exclude=".git/*" --exclude=".github/workflows" --exclude=".github/scripts" clone/ temp_files/
+          rsync -av --exclude=".git/*" --exclude=".github/workflows" --exclude=".github/scripts" --exclude=".github/requirements.txt" clone/ temp_files/
 
           # Use l10n_reference as a base for l10n_updates, to avoid generating
           # a huge diff in the pull request.
