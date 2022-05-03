@@ -1,5 +1,7 @@
 # Mozilla Legal Documents
 
+[![Docs Linter](https://github.com/mozilla/legal-docs/actions/workflows/doc_linter.yml/badge.svg)](https://github.com/mozilla/legal-docs/actions/workflows/doc_linter.yml)
+
 This repository contains legal documents and their applicable translations. Each subdirectory represents a single legal document. Within a document directory is a series of markdown files, each named for the language the document is written in. For instance, `firefox_privacy_notice/de.md` is the German version of the Firefox privacy policy.
 
 ## Editing
