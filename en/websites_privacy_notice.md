@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-February 28, 2022
-{: datetime="2022-02-28" }
+May 10, 2022
+{: datetime="2022-05-10" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -58,6 +58,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
+    * Mozilla first-party tools: [Opt-out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account).
     * Convert.com: [Opt-out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: Visit the [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) to opt-out.
