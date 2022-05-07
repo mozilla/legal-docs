@@ -22,11 +22,17 @@ These files are written in the [Markdown syntax](https://daringfireball.net/proj
 
 Some Markdown files use the [Attribute Lists extension](https://pythonhosted.org/Markdown/extensions/attr_list.html) of the [Python Markdown library](https://pypi.python.org/pypi/Markdown). This is useful when you'd like to set the ID or class of an element, but the extended syntax may cause an error if your parser doesn't support this extension.
 
-### Localizers
+### Localization
 
-As a localizer, you're encouraged to find and fix translation issues. All document translations should match the precise meaning in the corresponding `en-US.md` version of the document. Additionally, we're always interested in finding errors in markup, broken links, etc.
+Localization of these documents is managed through an external vendor. As a localizer, you're encouraged to find and fix translation issues. All document translations should match the precise meaning in the corresponding `en` version of the document. Additionally, we're always interested in finding errors in markup, broken links, etc.
 
-File a pull request that updates your locale's markdown file to match the `en-US.md` version as closely as possible. When you're done, submit a pull request. Someone at Mozilla will review your changes. If there are no problems, your changes will be merged.
+File a pull request that updates your locale's markdown file to match the `en` version as closely as possible. When you're done, submit a pull request. Someone at Mozilla will review your changes. If there are no problems, your changes will be merged.
+
+Important: we won't be accepting brand new translations for existing documents, only fixes to existing ones.
+
+Useful links:
+* A summary of the localization status is [available here](https://github.com/mozilla/legal-docs/tree/l10n_reference#readme), with a list of localized and non localized documents.
+* A full breakdown, with the list of locales for each document, is available in JSON format [here](https://github.com/mozilla/legal-docs/blob/l10n_reference/.github/stats.json).
 
 ## Getting changes to production
 
