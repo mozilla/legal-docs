@@ -52,25 +52,31 @@ def main():
 
     output = []
     output.append("# Current Status\n")
-    output.append("List of translated files (number of locales between parentheses):")
-    for f in translated_files:
-        count = len(stats[f]["locales"])
-        output.append(f"* {f} ({count})")
+
+    if translated_files:
+        output.append(
+            "List of translated files (number of locales between parentheses):"
+        )
+        for f in translated_files:
+            count = len(stats[f]["locales"])
+            output.append(f"* {f} ({count})")
 
     only_en_files = list(set(source_filenames) - set(stats.keys()))
     only_en_files.sort()
-    output.append("\nList of files not translated:")
-    for f in only_en_files:
-        output.append(f"* {f}")
+    if only_en_files:
+        output.append("\nList of files not translated:")
+        for f in only_en_files:
+            output.append(f"* {f}")
 
     missing_en_files = list(set(stats.keys()) - set(source_filenames))
     missing_en_files.sort()
-    output.append(
-        "\n List of translated files not available in source folders (locale between parentheses):"
-    )
-    for f in missing_en_files:
-        locales = ", ".join(stats[f]["locales"])
-        output.append(f"* {f} ({locales})")
+    if missing_en_files:
+        output.append(
+            "\n List of translated files not available in source folders (locale between parentheses):"
+        )
+        for f in missing_en_files:
+            locales = ", ".join(stats[f]["locales"])
+            output.append(f"* {f} ({locales})")
 
     with open(os.path.join(root_path, ".github", "README.md"), "w") as f:
         f.write("\n".join(output))
