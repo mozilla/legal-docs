@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de privacidade</span>do Firefox
+﻿## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de privacidade</span> do Firefox
 
 *Data de vigência: quinta-feira, 10 de março de 2022*
 {: datetime="2022-03-10" }
