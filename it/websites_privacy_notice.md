@@ -1,7 +1,7 @@
 ﻿# Avviso sulla privacy di siti web, comunicazioni e cookie
 
-28 febbraio 2022
-{: datetime="2022-02-28" }
+10 maggio 2022
+{: datetime="2022-05-10" }
 
 Per Mozilla la privacy degli utenti è importante. Quando Mozilla (noi) raccoglie informazioni su di voi, la [Politica sulla privacy Mozilla](https://www.mozilla.org/privacy/) descrive come vengono gestite queste informazioni.
 
@@ -58,6 +58,7 @@ Potete controllare le preferenze relative a singoli cookie, indicare le vostre p
 * **Email**: ricevere le nostre comunicazioni di marketing è facoltativo: è possibile annullare la registrazione nel piè di pagina dell'email oppure aggiornando le [Preferenze email Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analytics e ottimizzazione**: attenetevi alle istruzioni riportate di seguito per impedire la raccolta dei dati sulle vostre visite ai siti web Mozilla.
+    * Strumenti proprietari di Mozilla: [disattivate il servizio su www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: installate il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout), che mantiene anonime le visite e impedisce la trasmissione dei dati a Google Analytics. Alcune pagine di Mozilla.org usano GIF trasparenti che comunicano con DoubleClick per verificare l'efficacia delle nostre campagne pubblicitarie; potete controllare gli annunci personalizzati di DoubleClick nelle impostazioni pubblicitarie di Google (vi verrà chiesto di eseguire l'accesso al vostro account Google).
     * Convert.com: [disattivate il servizio su www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: visitate la pagina [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) per disattivare il servizio.

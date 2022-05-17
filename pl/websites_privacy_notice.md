@@ -1,7 +1,7 @@
 ﻿# Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-28 lutego 2022 r.
-{: datetime="2022-02-28" }
+10 maja 2022 r.
+{: datetime="2022-05-10" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -58,6 +58,7 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
 * **Wiadomości e-mail**: Otrzymywanie naszych informacji marketingowych jest opcjonalne. Można zrezygnować z ich otrzymywania, klikając łącze w stopce otrzymanej wiadomości e-mail lub zmieniając [preferencje wiadomości e-mail od firmy Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analityka i optymalizacja**: Aby zapobiec zbieraniu danych o przeglądaniu witryn firmy Mozilla, wykonaj poniższe instrukcje:
+    * Własne narzędzia firmy Mozilla: [możesz zrezygnować z tej usługi pod adresem www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: zainstaluj [Dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout), który zapobiega przekazywaniu danych do usługi Google Analytics. Niektóre strony w domenie Mozilla.org używają przezroczystych plików GIF, które komunikują się z usługą DoubleClick. Pomaga nam to zrozumieć skuteczność naszych kampanii reklamowych. Spersonalizowane reklamy z usługi DoubleClick można konfigurować w ustawieniach reklam Google (zostanie wyświetlona prośba o zalogowanie się na swoim koncie Google).
     * Convert.com: [możesz zrezygnować z tej usługi pod adresem www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: aby zrezygnować ze śledzenia, przejdź na stronę [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/).

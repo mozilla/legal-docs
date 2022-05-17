@@ -1,7 +1,7 @@
 ﻿# ウェブサイト、コミュニケーションおよび Cookie プライバシーに関する通知
 
-2022年2月28日
-{: datetime="2022-02-28" }
+2022年5月10日
+{: datetime="2022-05-10" }
 
 Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) は、Mozilla (当社) が皆様の情報を収集した場合に、その情報をどのように取り扱うかについて、説明しています。
 
@@ -58,6 +58,7 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
 * **電子メール**:皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla 電子メール設定](https://www.mozilla.org/newsletter/recovery/)を通じて受信を中止することができます。
 
 * **解析および最適化**:Mozilla ウェブサイトの閲覧情報を収集されたくない場合は、以下の手順に従ってください。
+* Mozilla の独自ツール:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/privacy/websites/data-preferences/)します。
     * Google:[Google アナリティクスオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google アナリティクスへのデータ送信が禁止されます。一部の Mozilla.org ページでは、広告キャンペーンの効率を理解するために DoubleClick と通信するクリア GIF が使われています。皆様は、Google の広告設定で DoubleClick からのパーソナライズ化された広告を制御できます（お持ちの Google アカウントにサインインするよう求められます）。
     * Convert.com:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/exp/opt-out/)します。
     * Yahoo:オプトアウトするには、[Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) にアクセスしてください。

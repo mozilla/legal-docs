@@ -1,7 +1,7 @@
 ﻿# Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-28. února 2022
-{: datetime="2022-02-28" }
+10. května 2022
+{: datetime="2022-05-10" }
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
@@ -58,6 +58,7 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
 * **E-mail**: Přijímání našich marketingových sdělení je dobrovolné a ze služby se můžete odhlásit v zápatí e-mailu nebo prostřednictvím aktualizace vašich [e-mailových preferencí v aplikaci Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analytika a optimalizace**: Chcete-li zabránit shromažďování dat ohledně vašich návštěv webových stránek společnosti Mozilla, postupujte dle pokynů níže:
+    * Nástroje první strany Mozilla: [Odhlaste se na adrese www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Nainstalujte si [doplněk prohlížeče pro odhlášení ze služby Google Analytics](https://tools.google.com/dlpage/gaoptout), který zakáže přenos dat do služby Google Analytics. Některé stránky Mozilla.org využívají jednopixelové gify, které komunikují s platformou DoubleClick za účelem porozumění efektivitě našich reklamních kampaní. Přizpůsobené reklamy z platformy DoubleClick můžete ovládat v nastaveních reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
     * Convert.com: [Odhlaste se na adrese www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: Chcete-li se odhlásit, navštivte [Správce reklamy podle zájmů](https://aim.yahoo.com/aim/us/en/optout/).
