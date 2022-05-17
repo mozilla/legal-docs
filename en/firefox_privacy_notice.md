@@ -82,25 +82,25 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
     _On Mobile_: Firefox for iOS and Android by default send mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
-
 ### Firefox Suggest and Top Pick {: #searches }
 
 Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs. 
 
-If you choose to enable "Smarter Suggestions," Firefox shares the following information to improve your browsing experience and to improve the service:
+* __Sites you visit__: Firefox sends Mozilla which suggestions you click or dismiss and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
 
-* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
-
-* __Sites you visit__: For the Suggestions you click, Firefox sends Mozilla the website URL, and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
-
-* __Location data__: Firefox sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. 
+* __Location data__: Firefox temporarily sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. 
 
 * __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
 
+If you choose to enable "Improve the Firefox Suggesst Experience," Firefox shares the following information to improve your browsing experience and to improve the service:
+
+* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+
 We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
+
+---
+
+## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
 ### Firefox Accounts
 
