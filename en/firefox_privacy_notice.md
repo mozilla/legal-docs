@@ -92,7 +92,7 @@ Mozilla is developing a new feature that helps deliver you better information wi
 
 * __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
 
-If you choose to enable "Improve the Firefox Suggesst Experience," Firefox shares the following information to improve your browsing experience and to improve the service:
+If you choose to enable "Improve the Firefox Suggest Experience," Firefox shares the following information to improve your browsing experience and to improve the service:
 
 * __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
 
