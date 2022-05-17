@@ -34,6 +34,10 @@ Useful links:
 * A summary of the localization status is [available here](https://github.com/mozilla/legal-docs/tree/l10n_reference#readme), with a list of localized and non localized documents.
 * A full breakdown, with the list of locales for each document, is available in JSON format [here](https://github.com/mozilla/legal-docs/blob/l10n_reference/.github/stats.json).
 
+### Package.json
+
+[Firefox Accounts](https://github.com/mozilla/fxa/tree/main/packages/fxa-content-server) relies on `package.json` to import this repository through `npm` and convert specific documents to HTML.
+
 ## Getting changes to production
 
 For www.mozilla.org, the process is as follows:
