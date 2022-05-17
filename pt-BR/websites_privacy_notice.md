@@ -1,7 +1,7 @@
 ﻿# Aviso de Privacidade sobre sites, comunicação e cookies
 
-segunda-feira, 28 de fevereiro de 2022
-{: datetime="2022-02-28" }
+terça-feira, 10 de maio de 2022
+{: datetime="2022-05-10" }
 
 Nós nos importamos com sua privacidade. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
@@ -58,6 +58,7 @@ Podemos usar cookies, GIFs transparentes, análises da web de terceiros, informa
 * **E-mail**: o recebimento de nossas comunicações de marketing é opcional. Você pode cancelá-lo no rodapé do e-mail ou atualizando suas [preferências de e-mail da Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Análises e otimização**: siga as instruções abaixo para impedir a coleta de dados relacionadas às suas visitas aos sites da Mozilla:
+    * Ferramentas próprias da Mozilla: [cancele no site www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: instale a [extensão do navegador de desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout), que proíbe o envio de dados para o Google Analytics. Algumas páginas do site Mozilla.org usam GIFs transparentes, que se comunicam com a DoubleClick para entender a eficácia das nossas campanhas de publicidade. Você pode controlar anúncios personalizados na DoubleClick nas configurações de anúncios do Google. Você precisará fazer login na sua Conta do Google.
     * Convert.com: [cancele no site www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: acesse o [Gerenciador de Anúncios de Interesse](https://aim.yahoo.com/aim/us/en/optout/) para cancelar.

@@ -1,7 +1,7 @@
 ﻿# Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-Montag, 28. Februar 2022
-{: datetime="2022-02-28" }
+Dienstag, 10. Mai 2022
+{: datetime="2022-05-10" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -58,6 +58,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
 * **E-Mail**: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer [Mozilla-E-Mail-Einstellungen](https://www.mozilla.org/newsletter/recovery/) abbestellen.
 
 * **Analyse und Optimierung**: Folgen Sie den nachstehenden Anweisungen, um zu verhindern, dass Daten zu Ihren Besuchen auf Mozilla-Websites erfasst werden:
+    * Erstanbieter-Tools von Mozilla: [Opt-out auf www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Installieren Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout), das eine Datenübertragung an Google Analytics unterbindet. Manche Mozilla.org-Seiten verwenden Clear-GIFs, die mit DoubleClick kommunizieren, um Informationen über die Effektivität Ihrer Werbekampagnen einzuholen. Sie können personalisierte Anzeigen von DoubleClick in den Anzeigeeinstellungen von Google steuern (Sie werden aufgefordert, sich bei Ihrem Google-Konto anzumelden).
     * Convert.com: [Opt-out auf www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: Besuchen Sie den [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/), um sich per Opt-out abzumelden.
