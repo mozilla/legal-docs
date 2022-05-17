@@ -1,7 +1,7 @@
 ﻿# Privacyverklaring voor websites, communicatie en cookies
 
-28 februari 2022
-{: datetime="2022-02-28" }
+dinsdag 10 mei 2022
+{: datetime="2022-05-10" }
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
@@ -58,6 +58,7 @@ U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor
 * **E-mail**: Onze marketingcommunicaties zijn optioneel en u kunt zich uitschrijven via de voettekst van de e-mail of door het bijwerken van uw [voorkeuren voor e-mail van Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analyses en optimalisering**: Volg de onderstaande instructies om het verzamelen van gegevens over uw bezoeken aan Mozilla-websites te voorkomen:
+    * Eigen tools van Mozilla: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Installeer de [browser-add-on Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) als u gegevensdoorgifte aan Google Analytics wilt verbieden. Sommige Mozilla.org-pagina's gebruiken clear GIF's die communiceren met DoubleClick voor inzicht in de doeltreffendheid van onze reclamecampagnes; u kunt persoonlijk afgestemde reclame van DoubleClick beheren in de advertentie-instellingen van Google (u wordt gevraagd om zich aan te melden bij uw Google-account).
     * Convert.com: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: Bezoek [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) om u uit te schrijven.

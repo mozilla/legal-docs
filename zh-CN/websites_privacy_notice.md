@@ -1,7 +1,7 @@
 ﻿# 网站、通信和 Cookie 隐私声明
 
-2022 年 2 月 28 日
-{: datetime="2022-02-28" }
+2022 年 5 月 10 日
+{: datetime="2022-05-10" }
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
@@ -58,6 +58,7 @@
 * **电子邮件**：我们的营销通信为可选接收，您可以在电子邮件的页脚取消订阅，或更新您的 [Mozilla 电子邮件首选项](https://www.mozilla.org/newsletter/recovery/)。
 
 * **分析和优化**：请按照以下说明，阻止收集有关您访问 Mozilla 网站的数据：
+* Mozilla 第一方工具：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/privacy/websites/data-preferences/)。
     * Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标（与 DoubleClick 进行通信），以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
     * Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/)。
     * Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。

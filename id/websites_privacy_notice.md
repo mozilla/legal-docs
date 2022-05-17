@@ -1,7 +1,7 @@
 ﻿# Pemberitahuan Privasi Situs Web, Komunikasi, & Cookie
 
-28 Februari 2022
-{: datetime="2022-02-28" }
+10 Mei 2022
+{: datetime="2022-05-10" }
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla ](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
@@ -58,6 +58,7 @@ Anda bisa mengontrol masing-masing preferensi cookie, menunjukkan preferensi coo
 * **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan footer email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analitika & Optimalisasi**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
+    * Alat pihak pertama Mozilla: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Instal [Add-on Browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), yang mencegah transmisi data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami efektivitas program kampanye iklan kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick di pengaturan iklan Google (Anda akan diminta masuk ke akun Google Anda).
     * Convert.com: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: Kunjungi [Pengelola Minat Iklan](https://aim.yahoo.com/aim/us/en/optout/) untuk berhenti berlangganan.
