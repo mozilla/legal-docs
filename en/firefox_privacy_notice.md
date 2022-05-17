@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective March 10, 2022*
-{: datetime="2022-03-10" }
+*Effective May 30, 2022*
+{: datetime="2022-05-30" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
