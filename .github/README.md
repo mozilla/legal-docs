@@ -7,7 +7,6 @@ List of translated files (number of locales between parentheses):
 * firefox_about_rights.md (12)
 * firefox_cloud_services_tos.md (12)
 * firefox_monitor_terms_privacy.md (18)
-* firefox_os_privacy_notice.md (44)
 * firefox_privacy_notice.md (20)
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
@@ -18,13 +17,14 @@ List of translated files (number of locales between parentheses):
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
 * ossn_site_privacy_notice.md (1)
-* websites_privacy_notice.md (29)
+* websites_privacy_notice.md (12)
 * websites_tou.md (21)
 
 List of files not translated:
 * better_web_privacy.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
+* firefox_os_privacy_notice.md
 * firefox_private_network_beta_privacy_notice.md
 * firefox_private_network_tos.md
 * firefox_reality_about_rights.md
@@ -36,5 +36,3 @@ List of files not translated:
 * report_infringement.md
 * thunderbird_about_rights.md
 * thunderbird_privacy_policy.md
-
- List of translated files not available in source folders (locale between parentheses):
