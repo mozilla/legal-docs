@@ -1,0 +1,13 @@
+{
+  "name": "legal-docs",
+  "description": "This repository contains all legal documents and their applicable translations.",
+  "version": "1.0.0",
+  "author": "Mozilla (https://mozilla.com/)",
+  "bugs": {
+    "url": "https://github.com/mozilla/legal-docs/issues"
+  },
+  "homepage": "https://github.com/mozilla/legal-docs#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "repository": "mozilla/legal-docs"
+}
