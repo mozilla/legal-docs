@@ -1,11 +1,8 @@
 {
-    "anchors": [
-        "hu/firefox_privacy_notice.md"
-    ],
+    "anchors": [],
     "links": [
         "he/common_voice_privacy_notice.md",
         "he/common_voice_terms.md",
-        "hu/firefox_privacy_notice.md",
         "kk/common_voice_privacy_notice.md",
         "kk/common_voice_terms.md",
         "mk/common_voice_privacy_notice.md",
