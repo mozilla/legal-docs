@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 
 * __Technical data__: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.
 
-Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), or [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) or learn how to opt-out of this data collection on [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
+Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), or [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) or learn how to opt-out of this data collection on [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Search {: #defaultsearch }
