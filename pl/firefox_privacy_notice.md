@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Zasady prywatności</span> <span class="privacy-header-firefox">przeglądarki Firefox
 
-*Data wejścia w życie: 10 marca 2022 r.*
-{: datetime="2022-03-10" }
+*Data wejścia w życie: 30 maja 2022 r.*
+{: datetime="2022-05-30" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -82,25 +82,25 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
     _Platformy mobilne_: Firefox dla systemów iOS i Android domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który ma własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
-
 ### Podpowiedzi Firefoksa i Top Pick (najczęściej wybierane strony) {: #searches }
 
 Mozilla opracowuje nową funkcję, która pomoże dostarczać lepsze informacje przy mniejszym wysiłku. Nosi ona nazwę Podpowiedzi Firefoksa, a jej wczesna wersja jest obecnie dostępna dla użytkowników w Stanach Zjednoczonych. Domyślnie funkcja Podpowiedzi Firefoksa przedstawia użytkownikowi rekomendowane i sponsorowane treści w oparciu o lokalne dane przechowywane na komputerze użytkownika, takie jak witryny z historii przeglądania, zakładki i otwarte karty. 
 
-Jeśli użytkownik włączy opcję „Bardziej inteligentne podpowiedzi”, Firefox będzie udostępniać następujące informacje w celu poprawy komfortu przeglądania witryn oraz ulepszenia usług:
+* __Odwiedzane witryny__: Firefox wysyła do Mozilli podpowiedzi kliknięte lub odrzucone przez użytkownika, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).. 
+* __Dane lokalizacji__: Firefox tymczasowo wysyła do Mozilli adres IP, którego używamy do proponowania istotnej zawartości na podstawie kraju, stanu i miasta użytkownika. Mozilla może udostępniać informacje o lokalizacji swoim partnerom, ale partnerzy nie otrzymają adresu IP użytkownika. 
 
-* __Odwiedzane witryny__: W przypadku klikniętych podpowiedzi Firefox wysyła do Mozilli adres URL witryny, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
 
-* __Dane lokalizacji__: Firefox wysyła do Mozilli adres IP, którego używamy do proponowania istotnej zawartości na podstawie kraju, stanu i miasta użytkownika. Mozilla może udostępniać informacje o lokalizacji swoim partnerom, ale partnerzy nie otrzymają adresu IP użytkownika. 
+Jeśli użytkownik włączy opcję „Ulepszone doświadczenie podpowiedzi w Firefoksie”, Firefox będzie udostępniać następujące informacje w celu poprawy komfortu przeglądania witryn oraz ulepszenia usług:
 
-* __Dane techniczne i interakcji__: Firefox wysyła do Mozilli dane, takie jak liczba podpowiedzi lub wyświetleń zawartości przez Firefoksa oraz liczba kliknięć takiej zawartości, a także podstawowe dane dotyczące interakcji użytkownika z funkcją Podpowiedzi Firefoksa. Mozilla udostępnia swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informacje o liczbie wyświetleń lub kliknięć podpowiedzi do celów weryfikacji i ulepszania funkcji. 
+* __Wyszukiwania__: Firefox wysyła do Mozilli zawartość wpisaną przez użytkownika na pasku wyszukiwania, a Mozilla może udostępniać te dane swoim [partnerom](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
 Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji użytkownika przez nas i naszych partnerów. [Więcej informacji](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
+
+---
+
+## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
 
 ### Konta Firefox
 
