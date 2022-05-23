@@ -159,33 +159,38 @@ def main():
                 errors = checkAnchors(f_data["anchors"])
 
             # Check links
-            if exception_id not in exceptions["links"]:
-                for l in f_data["links"]:
-                    if "en-US/" in l:
-                        errors.append(f"en-US should not be used in links: {l}")
-                    if "http://" in l:
-                        errors.append(f"https should be used in links: {l}")
+            for l in f_data["links"]:
+                if "en-US/" in l:
+                    errors.append(f"en-US should not be used in links: {l}")
+                if "http://" in l:
+                    errors.append(f"https should be used in links: {l}")
 
-                # Compare links with reference locale
-                if locale != ref_locale:
-                    if f in data[ref_locale]:
-                        if f_data["links"] != data[ref_locale][f]["links"]:
-                            missing = list(
-                                set(data[ref_locale][f]["links"]) - set(f_data["links"])
-                            )
-                            missing.sort()
-                            if missing:
-                                errors.append("  Missing links:")
-                                for m in missing:
-                                    errors.append(f"  - {m}")
-                            additional = list(
-                                set(f_data["links"]) - set(data[ref_locale][f]["links"])
-                            )
-                            additional.sort()
-                            if additional:
-                                errors.append("  Additional links:")
-                                for m in additional:
-                                    errors.append(f"  - {m}")
+            # Compare links with reference locale
+            if locale != ref_locale:
+                if f in data[ref_locale]:
+                    if f_data["links"] != data[ref_locale][f]["links"]:
+                        missing = list(
+                            set(data[ref_locale][f]["links"]) - set(f_data["links"])
+                        )
+                        additional = list(
+                            set(f_data["links"]) - set(data[ref_locale][f]["links"])
+                        )
+
+                        links_difference = [f"-{l}" for l in missing] + [
+                            f"+{l}" for l in additional
+                        ]
+                        links_difference.sort()
+
+                        if (
+                            exception_id in exceptions["links"]
+                            and links_difference != exceptions["links"][exception_id]
+                        ):
+                            errors.append("  There are differences in links")
+                            for l in links_difference:
+                                if l.startswith("-"):
+                                    errors.append(f"  - (missing) {l[1:]}")
+                                else:
+                                    errors.append(f"  - (added) {l[1:]}")
 
             if errors:
                 locale_errors.append(f"  File: {f}")
