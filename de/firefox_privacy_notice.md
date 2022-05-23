@@ -17,7 +17,7 @@ In diesem Datenschutzhinweis erläutern wir, welche Daten Firefox teilt, und ver
 
 * __Technische Daten__: Firefox sendet uns Daten über Firefox-Version und -Sprache, Gerätebetriebssystem, Hardware-Konfiguration, Speicher, grundlegende Angaben zu Systemabstürzen und Fehlern sowie die Ergebnisse automatisierter Prozesse wie Updates, SafeBrowsing und Aktivierung. Wenn Firefox Daten an uns sendet, wird Ihre IP-Adresse kurzzeitig als Teil unserer Server-Logs erfasst.
 
-Lesen Sie die Telemetrie-Dokumentation für [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) oder [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) oder erfahren Sie, wie Sie sich auf [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) und [Mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) von dieser Datenerhebung abmelden können.
+Lesen Sie die Telemetrie-Dokumentation für [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) oder [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) oder erfahren Sie, wie Sie sich auf [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) und [Mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) von dieser Datenerhebung abmelden können.
 {: #telemetry }
 
 ### Suche {: #defaultsearch }

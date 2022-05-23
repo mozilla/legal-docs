@@ -17,7 +17,7 @@ Dans cette Politique de confidentialité, nous expliquons les données que parta
 
 * __Données techniques__ : Firefox nous envoie des données relatives à votre version et langue de Firefox, le système d’exploitation de votre appareil et la configuration de votre matériel, la quantité de mémoire, des informations de base sur les plantages et les erreurs, le résultat de processus automatisés comme les mises à jour, la navigation sécurisée et l’activation. Lorsque Firefox nous envoie des données, votre adresse IP est temporairement collectée dans le cadre de la journalisation de l’activité de nos serveurs.
 
-Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) ou [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry), ou apprenez comment refuser cette collecte de données sur les [ordinateurs de bureau](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) et [appareils mobiles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
+Lisez la documentation sur la télémétrie pour [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) ou [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios), ou apprenez comment refuser cette collecte de données sur les [ordinateurs de bureau](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) et [appareils mobiles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Recherche {: #defaultsearch }

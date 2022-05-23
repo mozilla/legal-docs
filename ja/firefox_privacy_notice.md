@@ -17,7 +17,7 @@
 
 * __技術データ__:Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
-[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を　[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)　や　[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)　でオプトアウトする方法についてご覧ください。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、または [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を　[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)　や　[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)　でオプトアウトする方法についてご覧ください。
 {: #telemetry }
 
 ### 検索 {: #defaultsearch }
