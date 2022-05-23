@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de privacidade</span> do Firefox
 
-*Data de vigência: quinta-feira, 10 de março de 2022*
-{: datetime="2022-03-10" }
+*Data de vigência: 30 de maio de 2022*
+{: datetime="2022-05-30" }
 
 ## Na Mozilla, acreditamos que a privacidade seja fundamental para uma internet segura.
 
@@ -82,25 +82,25 @@ Consulte a documentação completa [aqui](https://firefox-source-docs.mozilla.or
     _No celular:_ por padrão, o Firefox para iOS e Android envia dados de campanhas de dispositivos móveis para o Adjust, nosso fornecedor de análise, que tem sua própria [política de privacidade](https://www.adjust.com/terms/privacy-policy/). Os dados de campanhas de dispositivos móveis incluem um ID de publicidade do Google, endereço IP, carimbo de data/hora, país, idioma/local, sistema operacional e versão do aplicativo. Consulte a [documentação](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## Se você usa esses recursos, o Firefox compartilha dados para permitir as funcionalidades e nos ajudar a melhorar nossos produtos e serviços: {: #optional-features }
-
 ### Firefox Suggest e Top Pick (Melhores opções) {: #searches }
 
 A Mozilla está desenvolvendo um novo recurso que ajuda a fornecer informações melhores para você com menos esforço. Ele se chama Firefox Suggest. Uma versão inicial dele já está disponível para os usuários dos Estados Unidos. Por padrão, o Firefox Suggest mostra conteúdo recomendado e patrocinado com base em dados locais armazenados no seu computador, como sites do seu histórico de navegação, favoritos e abas abertas. 
 
-Se você escolher “Sugestões mais inteligentes”, o Firefox compartilha as seguintes informações para melhorar a sua experiência de navegação e aperfeiçoar o serviço:
+* __Sites que você acessa:__: o Firefox envia à Mozilla as sugestões nas quais você clica ou que descarta, e a Mozilla pode compartilhar esses dados com seus [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Pesquisas:__ o Firefox envia à Mozilla o texto da sua pesquisa, e a Mozilla pode compartilhar essas informações com seus [parceiros](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Dados de localização__: o Firefox envia temporariamente à Mozilla seu endereço IP, que usamos para sugerir conteúdo com base no seu país, estado e cidade. A Mozilla pode compartilhar informações de localização com nossos parceiros, mas eles não recebem seu endereço IP. 
 
-* __Sites que você acessa:__ nas sugestões nas quais você clica, o Firefox envia à Mozilla a URL do site, e a Mozilla pode compartilhar essas informações com seus [parceiros](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Dados técnicos e de interação__: o Firefox envia à Mozilla dados como o número de vezes que sugeriu ou exibiu conteúdo e seus cliques nesse conteúdo, além de informações básicas sobre suas interações com o Firefox Suggest. A Mozilla compartilha informações com nossos [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) sobre o número de vezes que as sugestões são exibidas e clicadas para fins de verificação e melhoria do recurso. 
 
-* __Dados de localização:__ o Firefox envia à Mozilla seu endereço IP, que usamos para sugerir conteúdo baseado no seu país, seu estado e sua cidade. A Mozilla pode compartilhar informações de localização com nossos parceiros, mas eles não recebem seu endereço IP. 
+Se você habilitar a opção “Melhorar a experiência do Firefox Suggest”, o Firefox compartilhará informações para melhorar sua experiência de navegação e o serviço:
 
-* __Dados técnicos e de interação:__ o Firefox envia à Mozilla dados como o número de vezes que sugeriu ou exibiu conteúdo e seus cliques nesse conteúdo, além de informações básicas sobre suas interações com o Firefox Suggest. A Mozilla compartilha informações com nossos [parceiros](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) sobre o número de vezes que as sugestões são exibidas e clicadas para fins de verificação e melhoria do recurso. 
+* __Pesquisas__: o Firefox envia informações à Mozilla sobre o conteúdo que você digita na barra de pesquisa, e a Mozilla pode compartilhar esses dados com seus [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). 
 
 Limitamos a capacidade que nós e os nossos parceiros temos de identificar você. [Saiba mais](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)
+
+---
+
+## Se você usa esses recursos, o Firefox compartilha dados para permitir as funcionalidades e nos ajudar a melhorar nossos produtos e serviços: {: #optional-features }
 
 ### Contas do Firefox
 

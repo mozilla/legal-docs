@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 10. března 2022*
-{: datetime="2022-03-10" }
+*Účinné od 30. května 2022*
+{: datetime="2022-05-30" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -57,7 +57,7 @@ Firefox zobrazuje obsah, jako doporučení doplňků, Top stránky (webové str�
 
 **Technické údaje pro seznam blokovaných doplňků**: Firefox pro stolní počítač a systém Android se pravidelně připojuje ke společnosti Mozilla, aby vás i ostatní chránil před škodlivými doplňky. Informace o vaší verzi a jazyce Firefoxu, o operačním systému zařízení, stejně jako seznam nainstalovaných doplňků jsou nezbytné pro aplikaci a aktualizaci seznamu blokovaných doplňků. [Další informace](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
 
-**Údaje o webové stránce a technické údaje pro službu SafeBrowsing společnosti Google**: Jako pomůcku pro ochranu před stažením škodlivých souborů Firefox zasílá základní informace o nerozpoznaných stahovaných souborech do služby SafeBrowsing společnosti Google, a to včetně názvu souboru a adresy URL, z níž byl stažen.[Získejte podrobnější informace](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) nebo si přečtěte [Zásady ochrany osobních údajů společnosti Google](https://www.google.com/policies/privacy/). Zrušení této volby zabrání Firefoxu v tom, aby vás varoval před potenciálně nelegálními či škodlivými webovými stránkami či stahovanými soubory.
+**Údaje o webové stránce a technické údaje pro službu SafeBrowsing společnosti Google**: Jako pomůcku pro ochranu před stažením škodlivých souborů Firefox zasílá základní informace o nerozpoznaných stahovaných souborech do služby SafeBrowsing společnosti Google, a to včetně názvu souboru a adresy URL, z níž byl stažen. [Získejte podrobnější informace](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) nebo si přečtěte [Zásady ochrany osobních údajů společnosti Google](https://www.google.com/policies/privacy/). Zrušení této volby zabrání Firefoxu v tom, aby vás varoval před potenciálně nelegálními či škodlivými webovými stránkami či stahovanými soubory.
 
 **Údaje o webové stránce a technické údaje pro certifikační autority**: Pokud navštívíte zabezpečenou webovou stránku (obvykle označenou adresou URL začínající na „HTTPS“), Firefox ověří [certifikát](https://support.mozilla.org/kb/secure-website-certificate) webové stránky. To může být spojeno s tím, že Firefox zašle určité informace o webové stránce certifikační autoritě uvedené na příslušné webové stránce. Zrušením této volby riskujete zachycení vašich osobních informací. [Další informace](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
@@ -82,25 +82,25 @@ Dle výchozího nastavení u verzí Firefoxu pro stolní počítač vás požád
     _U mobilních telefonů_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## Pokud tyto funkce používáte, Firefox bude sdílet data, aby vám poskytoval funkce a aby nám pomohl vylepšovat naše produkty a služby: {: #optional-features }
-
 ### Firefox Suggest a Top Pick {: #searches }
 
 Mozilla vyvíjí novou funkci, která nám pomáhá poskytovat vám lepší informace s vynaložením menší námahy. Nazývá se Firefox Suggest a její raná verze je momentálně k dispozici uživatelům ve Spojených státech amerických. Dle výchozího nastavení vám funkce Firefox Suggest zobrazuje doporučený nebo sponzorovaný obsah na základě místních dat uložených ve vašem vlastním počítači, jako jsou webové stránky z vaší historie procházení, záložky a otevřené karty. 
 
-Pokud se rozhodnete aktivovat „Chytřejší doporučení“, Firefox bude sdílet následující informace za účelem vylepšení vaší zkušenosti s procházením a vylepšení služby:
+* __Stránky, které navštívíte__: Firefox informuje společnost Mozilla o tom, na která doporučení kliknete a která odmítnete, a společnost Mozilla může tato data sdílet se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Vyhledávání__: Firefox bude zasílat společnosti Mozilla to, co zadáte do vyhledávací lišty, a společnost Mozilla může tato data sdílet se svými [partnery](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Údaje o umístění__: Firefox dočasně odešle Mozille vaši IP adresu, kterou používáme k navrhování obsahu na základě vaší země, státu a města. Mozilla může sdílet informace o umístění se svými partnery, partneři nicméně nezískají vaši adresu IP. 
 
-* __Stránky, které navštívíte__: V případě Doporučení, na která kliknete, Firefox odešle společnosti Mozilla adresu URL webové stránky a společnost Mozilla může tato data sdílet se svými [partnery](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Technické údaje a údaje o interakci__: Firefox odesílá společnosti Mozilla data, jako je počet opakování, kdy Firefox doporučí nebo zobrazí obsah a vy na daný obsah kliknete, stejně jako základní data o vašich interakcích s funkcí Firefox Suggest. Mozilla sdílí se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) informace o tom, kolikrát se doporučení zobrazí a kolikrát je na ně kliknuto za účelem ověření a vylepšení funkce. 
 
-* __Údaje o umístění__: Firefox odešle Mozille vaši IP adresu, kterou používáme k navrhování obsahu na základě vaší země, státu a města. Mozilla může sdílet informace o umístění se svými partnery, partneři nicméně nezískají vaši adresu IP. 
+Pokud se rozhodnete aktivovat funkci „Improve the Firefox Suggest Experience“, Firefox bude sdílet následující informace za účelem vylepšení vaší zkušenosti s procházením a vylepšení služby:
 
-* __Technické údaje a údaje o interakci__: Firefox odesílá společnosti Mozilla data, jako je počet opakování, kdy Firefox doporučí nebo zobrazí obsah a vy na daný obsah kliknete, stejně jako základní data o vašich interakcích s funkcí Firefox Suggest. Mozilla sdílí se svými [partnery](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) informace o tom, kolikrát se doporučení zobrazí a kolikrát je na ně kliknuto za účelem ověření a vylepšení funkce. 
+* __Vyhledávání__: Firefox bude zasílat společnosti Mozilla to, co zadáte do vyhledávací lišty, a společnost Mozilla může tato data sdílet se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
 Přijali jsme opatření pro omezení možnosti identifikovat vás jak z naší strany, tak ze strany našich partnerů. [Další informace](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
+
+---
+
+## Pokud tyto funkce používáte, Firefox bude sdílet data, aby vám poskytoval funkce a aby nám pomohl vylepšovat naše produkty a služby: {: #optional-features }
 
 ### Účty Firefox
 
