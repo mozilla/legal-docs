@@ -152,6 +152,14 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 * __有关更新的技术数据__：Firefox 会定期连接 Mozilla，以安装附加组件更新。要应用正确的更新，须使用您安装的附加组件、Firefox 版本、语言和设备操作系统等相关信息。
 
+<!-- DO NOT REMOVE. Start of additional section for zh-CN. -->
+
+### 扫描二维码
+
+**相机权限：** Firefox在访问您设备上的相机之前总是询问使用权限。您可以授予 Firefox 访问您相机的权限，以便扫描二维码并打开相关网站。此信息会保留在您的设备上。当您使用此功能时，Mozilla 不会接收或共享您的相机信息或浏览活动。[了解更多](https://support.mozilla.org/kb/scan-qr-codes-firefox-android).
+
+<!-- End of additional section for zh-CN. -->
+
 ---
 
 ### 脚注
