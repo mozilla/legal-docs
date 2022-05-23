@@ -1,16 +1,43 @@
 {
     "anchors": [],
-    "links": [
-        "he/common_voice_privacy_notice.md",
-        "he/common_voice_terms.md",
-        "kk/common_voice_privacy_notice.md",
-        "kk/common_voice_terms.md",
-        "mk/common_voice_privacy_notice.md",
-        "mk/common_voice_terms.md",
-        "sk/common_voice_privacy_notice.md",
-        "sk/common_voice_terms.md",
-        "sq/common_voice_privacy_notice.md",
-        "sq/common_voice_terms.md",
-        "zh-CN/firefox_privacy_notice.md"
-    ]
+    "links": {
+        "he/common_voice_privacy_notice.md": [
+            "-https://creativecommons.org/publicdomain/zero/1.0/",
+            "-https://tools.google.com/dlpage/gaoptout"
+        ],
+        "he/common_voice_terms.md": [
+            "-https://www.mozilla.org/about/legal/report-infringement/"
+        ],
+        "kk/common_voice_privacy_notice.md": [
+            "-https://creativecommons.org/publicdomain/zero/1.0/",
+            "-https://tools.google.com/dlpage/gaoptout"
+        ],
+        "kk/common_voice_terms.md": [
+            "-https://www.mozilla.org/about/legal/report-infringement/"
+        ],
+        "mk/common_voice_privacy_notice.md": [
+            "-https://creativecommons.org/publicdomain/zero/1.0/",
+            "-https://tools.google.com/dlpage/gaoptout"
+        ],
+        "mk/common_voice_terms.md": [
+            "-https://www.mozilla.org/about/legal/report-infringement/"
+        ],
+        "sk/common_voice_privacy_notice.md": [
+            "-https://creativecommons.org/publicdomain/zero/1.0/",
+            "-https://tools.google.com/dlpage/gaoptout"
+        ],
+        "sk/common_voice_terms.md": [
+            "-https://www.mozilla.org/about/legal/report-infringement/"
+        ],
+        "sq/common_voice_privacy_notice.md": [
+            "-https://creativecommons.org/publicdomain/zero/1.0/",
+            "-https://tools.google.com/dlpage/gaoptout"
+        ],
+        "sq/common_voice_terms.md": [
+            "-https://www.mozilla.org/about/legal/report-infringement/"
+        ],
+        "zh-CN/firefox_privacy_notice.md": [
+            "+https://support.mozilla.org/kb/scan-qr-codes-firefox-android"
+        ]
+    }
 }
