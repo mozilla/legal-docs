@@ -17,7 +17,7 @@
 
 * __तकनीकी डेटा__: Firefox आपके Firefox संस्करण और भाषा; डिवाइस ऑपरेटिंग सिस्टम और हार्डवेयर कॉन्फ़िगरेशन; मेमोरी, क्रैश और त्रुटियों के बारे में मूल जानकारी; अपडेट, सुरक्षित ब्राउज़िंग और सक्रियण जैसी स्वचालित प्रक्रियाओं के परिणाम का डेटा हमें भेजता है. जब Firefox हमें डेटा भेजता है, तब आपका IP पता हमारे सर्वर लॉग के भाग के रूप में अस्थायी रूप से एकत्र किया जाता है.
 
-[डेस्कटॉप](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), या [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) के लिए टेलीमेट्री प्रलेखन पढ़ें या जाने कि [डेस्कटॉप](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) और [मोबाइल](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) पर इस डेटा संग्रहण से ऑप्ट-आउट कैसे करें।
+[डेस्कटॉप](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), या [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) के लिए टेलीमेट्री प्रलेखन पढ़ें या जाने कि [डेस्कटॉप](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) और [मोबाइल](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) पर इस डेटा संग्रहण से ऑप्ट-आउट कैसे करें।
 {: #telemetry }
 
 ### खोज {: #defaultsearch }

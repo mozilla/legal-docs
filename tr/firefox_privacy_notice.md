@@ -17,7 +17,7 @@ Bu Gizlilik Bildirimi’nde Firefox’un hangi bilgileri paylaştığını açı
 
 * __Teknik veriler__: Firefox, bize Firefox sürümü ve dili, cihaz işletim sistemi ve donanım yapılandırması, bellek, arızalar ve hatalar hakkında temel bilgiler, güncellemeler, güvenli gezinti ve aktivasyon hakkında veriler gönderir. Firefox bize veri gönderdiğinde IP adresiniz sunucu günlüklerimiz için geçici olarak toplanır.
 
-[Masaüstü](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) veya [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) için telemetri bilgilerini okuyabilir; [masaüstünde](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) ve [mobilde](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) bu veri toplama seçeneğinden nasıl vazgeçeceğinizi öğrenebilirsiniz.
+[Masaüstü](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) veya [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) için telemetri bilgilerini okuyabilir; [masaüstünde](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) ve [mobilde](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) bu veri toplama seçeneğinden nasıl vazgeçeceğinizi öğrenebilirsiniz.
 {: #telemetry }
 
 ### Arama {: #defaultsearch }

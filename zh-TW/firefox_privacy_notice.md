@@ -17,7 +17,7 @@
 
 * __技術資料__：Firefox 向我們傳送您的 Firefox 版本與語言的相關資料；裝置作業系統與硬體組態；當機與錯誤的相關記憶與基本資訊；自動化程序，如更新、安全瀏覽與啟用等程序的結果。Firefox 向我們傳送資料的時候，您的 IP 位址會暫時被收集做為我們伺服器日誌的一部分。
 
-您可以閱讀遙測文件，[桌面版在此](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)，[Android 版在此](https://dictionary.telemetry.mozilla.org/apps/fenix)，[iOS 版在此](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)；或瞭解如何選擇退出此類資料收集行為，[桌面版在此](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)，[行動裝置版在此](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)。
+您可以閱讀遙測文件，[桌面版在此](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)，[Android 版在此](https://dictionary.telemetry.mozilla.org/apps/fenix)，[iOS 版在此](https://dictionary.telemetry.mozilla.org/apps/firefox_ios)；或瞭解如何選擇退出此類資料收集行為，[桌面版在此](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)，[行動裝置版在此](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)。
 {: #telemetry }
 
 ### 搜尋 {: #defaultsearch }

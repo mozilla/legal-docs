@@ -17,7 +17,7 @@ Ebben az adatvédelmi tájékoztatóban elmagyarázzuk, hogy a Firefox milyen ad
 
 * __Technikai adatok__: A Firefox adatokat küld nekünk a Firefox verziójáról és nyelvéről; az eszköz operációs rendszeréről és hardverkonfigurációjáról; a memóriáról, az összeomlásokra és hibákra vonatkozó alapvető információkról; az automatikus folyamatok, például a frissítések, a biztonságos böngészés és az aktiválás eredményéről. Amikor a Firefox adatokat küld nekünk, az Ön IP-címét ideiglenesen összegyűjtjük a szervernaplóink részeként.
 
-Olvassa el a telemetria dokumentációját az [asztali](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), az [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy az [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) rendszerhez, vagy tudja meg, hogyan tilthatja le ezt az adatgyűjtést az [asztali](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és a [mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) eszközökön.
+Olvassa el a telemetria dokumentációját az [asztali](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), az [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy az [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) rendszerhez, vagy tudja meg, hogyan tilthatja le ezt az adatgyűjtést az [asztali](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és a [mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) eszközökön.
 {: #telemetry }
 
 ### Keresés {: #defaultsearch }

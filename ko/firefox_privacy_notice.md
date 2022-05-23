@@ -17,7 +17,7 @@
 
 * __기술 데이터__: Firefox는 Firefox 버전 및 언어에 대한 데이터, 기기 운영 체제 및 하드웨어 구성, 메모리, 충돌 및 오류에 대한 기본 정보, 업데이트, 세이프 브라우징 및 활성화와 같은 자동화된 프로세스의 결과물을 당사에 보냅니다. Firefox가 당사에 데이터를 보내면 사용자 IP는 당사 서버 로그의 일환으로 임시 수집됩니다.
 
-[데스크톱](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 또는 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry)에 대한 원격 분석 설명서를 참조하거나 [데스크톱](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) 및 [모바일](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)에서 이 데이터 수집을 옵트아웃하는 방법에 대해 알아보세요.
+[데스크톱](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 또는 [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios)에 대한 원격 분석 설명서를 참조하거나 [데스크톱](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) 및 [모바일](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)에서 이 데이터 수집을 옵트아웃하는 방법에 대해 알아보세요.
 {: #telemetry }
 
 ### 검색 {: #defaultsearch }
