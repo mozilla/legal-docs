@@ -191,28 +191,21 @@
     ]
   },
   "firefox_privacy_notice.md": {
-    "count": 20,
+    "count": 13,
     "locales": [
-      "ar",
       "cs",
       "de",
       "es-ES",
-      "es-MX",
       "fr",
-      "hi",
       "hu",
       "id",
       "it",
       "ja",
-      "ko",
       "nl",
       "pl",
       "pt-BR",
       "ru",
-      "tr",
-      "vi",
-      "zh-CN",
-      "zh-TW"
+      "zh-CN"
     ]
   },
   "firefox_relay_privacy_notice.md": {
@@ -329,12 +322,13 @@
     ]
   },
   "websites_privacy_notice.md": {
-    "count": 12,
+    "count": 13,
     "locales": [
       "cs",
       "de",
       "es-ES",
       "fr",
+      "hu",
       "id",
       "it",
       "ja",
