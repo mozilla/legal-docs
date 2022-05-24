@@ -86,7 +86,7 @@ def findAllFiles(path):
 
     for fp in file_paths:
         # Threat the first folder as locale code
-        locale = str(fp.parent)
+        locale = str(fp.parent.relative_to(path))
         filename = os.path.relpath(fp, os.path.join(path, locale))
         files[locale].append(filename)
 
