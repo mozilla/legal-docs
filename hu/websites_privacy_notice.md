@@ -1,7 +1,7 @@
 ﻿# Webhelyekre, közleményekre és sütikre vonatkozó adatvédelmi nyilatkozat
 
-2022. február 28.
-{: datetime="2022-02-28" }
+2022. május 10.
+{: datetime="2022-05-10" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -58,6 +58,7 @@ Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, es
 * **E-mail**: Marketingkommunikációnk fogadása opcionális, Önnek lehetősége van leiratkozni az e-mail láblécében, vagy frissítheti a [Mozilla e-mail-beállításait](https://www.mozilla.org/newsletter/recovery/).
 
 * **Analitika és optimalizálás**: Ha meg szeretné akadályozni a Mozilla-webhelyek látogatása során az adatgyűjtést, kövesse az alábbi utasításokat.
+    * A Mozilla első féltől származó eszközei: [A www.mozilla.org webhelyen utasíthatja el az adatgyűjtést](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Telepítse a [Google Analytics-elutasítási böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), amely tiltja az adatok továbbítását a Google Analytics szolgáltatásba. Egyes Mozilla.org-oldalak olyan tiszta GIF-eket használnak, amelyek a DoubleClick szolgáltatással kommunikálnak a hirdetési kampányaink hatékonyságának megértése céljából. A Google hirdetési beállításaiban szabályozhatók a DoubleClick személyre szabott hirdetései (a rendszer kérni fogja, hogy jelentkezzen be a saját Google-fiókjába).
     * Convert.com: [A www.mozilla.org webhelyen utasíthatja el az adatgyűjtést](https://www.mozilla.org/exp/opt-out/).
     * Yahoo: látogasson el az [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) webhelyére az adatgyűjtés elutasításához.

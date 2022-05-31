@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Hatályos 2022. március 10-étől*
-{: datetime="2022-03-10" }
+*Hatályos: 2022. május 30-ától*
+{: datetime="2022-05-30" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
 
@@ -17,7 +17,7 @@ Ebben az adatvédelmi tájékoztatóban elmagyarázzuk, hogy a Firefox milyen ad
 
 * __Technikai adatok__: A Firefox adatokat küld nekünk a Firefox verziójáról és nyelvéről; az eszköz operációs rendszeréről és hardverkonfigurációjáról; a memóriáról, az összeomlásokra és hibákra vonatkozó alapvető információkról; az automatikus folyamatok, például a frissítések, a biztonságos böngészés és az aktiválás eredményéről. Amikor a Firefox adatokat küld nekünk, az Ön IP-címét ideiglenesen összegyűjtjük a szervernaplóink részeként.
 
-Olvassa el a telemetria dokumentációját az [asztali](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), az [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy az [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) rendszerhez, vagy tudja meg, hogyan tilthatja le ezt az adatgyűjtést az [asztali](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és a [mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) eszközökön.
+Olvassa el a telemetria dokumentációját az [asztali](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), az [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy az [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) rendszerhez, vagy tudja meg, hogyan tilthatja le ezt az adatgyűjtést az [asztali](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és a [mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) eszközökön.
 {: #telemetry }
 
 ### Keresés {: #defaultsearch }
@@ -82,25 +82,25 @@ Olvassa el a teljes dokumentációt [itt](https://firefox-source-docs.mozilla.or
     _Mobilon_: Az iOS-ra és Androidra tervezett Firefox alapértelmezés szerint mobil kampányadatokat küld az Adjustnak, elemzési szolgáltatónknak, akinek saját [adatvédelmi irányelvei vannak](https://www.adjust.com/terms/privacy-policy/). A mobilkampányok adatai tartalmazzák a Google hirdetési azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## Ha ezeket a funkciókat használja, a Firefox adatokat fog megosztani, hogy funkciókat biztosítson Önnek, és segítsen nekünk termékeink és szolgáltatásaink fejlesztésében: {: #optional-features }
-
 ### Firefox Suffest és Top Pick {: #searches }
 
 A Mozilla olyan új funkciót fejleszt, amely kevesebb erőfeszítéssel segít jobb információkhoz jutni. A Firefox Suggest nevet kapta, és egy korai változata jelenleg az Egyesült Államokban elérhető a felhasználók számára. Alapértelmezés szerint a Firefox Suggest a saját számítógépén tárolt helyi adatok, például a böngészési előzmények, könyvjelzők és megnyitott lapok weboldalai alapján ajánlott és szponzorált tartalmakat mutat Önnek. 
 
-Ha úgy dönt, hogy engedélyezi az „Okosabb javaslatok” funkciót, a Firefox a következő információkat osztja meg az Ön böngészési élményének javítása és a szolgáltatás fejlesztése érdekében:
+* __Az Ön által látogatott oldalak__: A Firefox elküldi a Mozillának, hogy Ön mely javaslatokra kattint, és a Mozilla megoszthatja ezeket az adatokat [partnereivel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Keresések__: A Firefox elküldi a Mozillának, hogy mit ír be a keresősávba, és a Mozilla megoszthatja ezeket az adatokat [partnereivel](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Helyadatok__: A Firefox ideiglenesen elküldi a Mozillának az Ön IP-címét, amelyet arra használunk, hogy az Ön országa, állama és városa alapján tartalmakat javasoljunk. A Mozilla megoszthatja a helymeghatározási információkat partnereinkkel, de a partnerek nem kapják meg az Ön IP-címét. 
 
-* __Az Ön által látogatott oldalak__: A javaslatok esetében, amelyekre rákattint, a Firefox elküldi a Mozillának a weboldal URL-címét, és a Mozilla megoszthatja ezeket az adatokat [partnereivel](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Technikai és interaktív adatok__: A Firefox olyan adatokat küld a Mozillának, mint például a Firefox által javasolt vagy megjelenített tartalmak száma és a tartalomra történő kattintások száma, valamint alapvető adatokat a Firefox Suggesttel való interakcióiról. A Mozilla [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) információkat oszt meg arról, hogy a javaslatokat hányszor mutatták meg és kattintottak rájuk ellenőrzés és funkciófejlesztés céljából. 
 
-* __Helyadatok__: A Firefox elküldi a Mozillának az Ön IP-címét, amelyet arra használunk, hogy az Ön országa, állama és városa alapján tartalmakat javasoljunk. A Mozilla megoszthatja a helymeghatározási információkat partnereinkkel, de a partnerek nem kapják meg az Ön IP-címét. 
+Ha úgy dönt, hogy engedélyezi a „Firefox Suggest élmény javítása” funkciót, a Firefox a következő információkat osztja meg az Ön böngészési élményének javítása és a szolgáltatás fejlesztése érdekében:
 
-* __Technikai és interaktív adatok__: A Firefox olyan adatokat küld a Mozillának, mint például a Firefox által javasolt vagy megjelenített tartalmak száma és a tartalomra történő kattintások száma, valamint alapvető adatokat a Firefox Suggesttel való interakcióiról. A Mozilla [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) információkat oszt meg arról, hogy a javaslatokat hányszor mutatták meg és kattintottak rájuk ellenőrzés és funkciófejlesztés céljából. 
+* __Keresések__: A Firefox elküldi a Mozillának, hogy mit ír be a keresősávba, és a Mozilla megoszthatja ezeket az adatokat [partnereivel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
 Intézkedéseket teszünk annak érdekében, hogy korlátozzuk saját és partnereink azonosítási képességét. [Tudjon meg többet](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
+
+---
+
+## Ha ezeket a funkciókat használja, a Firefox adatokat fog megosztani, hogy funkciókat biztosítson Önnek, és segítsen nekünk termékeink és szolgáltatásaink fejlesztésében: {: #optional-features }
 
 ### Firefox-fiókok
 
