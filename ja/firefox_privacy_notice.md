@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*有効日 2022 年 3 月 10 日*
-{: datetime="2022-03-10" }
+*有効日 2022 年 5 月 30 日*
+{: datetime="2022-05-30" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -17,7 +17,7 @@
 
 * __技術データ__:Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。
 
-[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、または [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を　[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)　や　[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)　でオプトアウトする方法についてご覧ください。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、または [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 用の統計情報に関するドキュメントをお読みください。あるいは、このデータ収集を　[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)　や　[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)　でオプトアウトする方法についてご覧ください。
 {: #telemetry }
 
 ### 検索 {: #defaultsearch }
@@ -82,25 +82,25 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
     _モバイルの場合_:iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
 {: #thirdparty }
 
----
-
-## あなたが以下の機能を使用した場合、Firefox は機能を提供し、Firefox の製品とサービスを改善するためにデータを共有します。 {: #optional-features }
-
 ### Firefox Suggest と Top Pick {: #searches }
 
 Mozilla では、より少ない労力でより質の高い情報を皆様にお届けする新しい機能を開発しています。この機能は Firefox Suggest と呼ばれ、現在、初期バージョンが米国にお住まいのユーザー向けに提供されています。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータに基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。
 
-「Smarter Suggestions」を有効にすると、Firefox はあなたのブラウジング体験とサービスを改善するため、以下の情報を共有します。
+* __あなたが訪問するサイト__:Firefox はあなたがクリックした提案または閉じた提案を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有することがあります。
 
-* __検索__:Firefox はあなたが検索バーに入力した内容を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). と共有することがあります。
+* __位置情報__:Firefox はあなたの国、州、都市に基づいてコンテンツを提案するため、あなたの IP アドレスを Mozilla に一時的に送信します。Mozilla は位置情報を Mozilla のパートナーと共有する場合がありますが、パートナーがあなたの IP アドレスを受信することはありません。
 
-* __あなたが訪問するサイト__:あなたがクリックした提案について、Firefox はそのウェブサイト URL を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有することがあります。
+* __技術およびインタラクションデータ__:Firefox は、Firefox によるコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数とクリックされた回数について Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有します。
 
-* __位置情報__:Firefox はあなたの国、州、都市に基づいてコンテンツを提案するため、あなたの IP アドレスを Mozilla に送信します。Mozilla は位置情報を Mozilla のパートナーと共有する場合がありますが、パートナーがあなたの IP アドレスを受信することはありません。
+「Firefox Suggest 体験の改善」を有効にすると、Firefox はあなたのブラウジング体験とサービスを改善するため、以下の情報を共有します。
 
-* __技術およびインタラクションデータ__:Firefox は、Firefox によるコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数とクリックされた回数について Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) と共有します。
+* __検索__:Firefox はあなたが検索バーに入力した内容を Mozilla に送信します。Mozilla はそのデータを Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有することがあります。
 
 Mozilla では Mozilla および Mozilla のパートナーがあなたを特定する機能を制限するよう対策を講じています。[詳細はこちら](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
+
+---
+
+## あなたが以下の機能を使用した場合、Firefox は機能を提供し、Firefox の製品とサービスを改善するためにデータを共有します。 {: #optional-features }
 
 ### Firefox アカウント
 

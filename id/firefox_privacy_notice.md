@@ -1,7 +1,7 @@
 ﻿## Pemberitahuan Privasi <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*Berlaku 10 Maret 2022*
-{: datetime="2022-03-10" }
+*Berlaku 30 Mei 2022*
+{: datetime="2022-05-30" }
 
 ## Di Mozilla, kami meyakini bahwa privasi adalah fundamental internet sehat.
 
@@ -17,7 +17,7 @@ Dalam Pemberitahuan Privasi ini, kami akan menjelaskan data apa saja yang dibagi
 
 * __Data teknis__: Firefox mengirim data kepada kami tentang versi dan bahasa Firefox; sistem operasi perangkat dan konfigurasi perangkat keras; memori, informasi dasar tentang gangguan dan kesalahan; hasil proses otomatis seperti pembaruan, safebrowsing, dan aktivasi. Saat Firefox mengirim data kepada kami, alamat IP Anda akan dikumpulkan sementara waktu sebagai bagian dari log server kami.
 
-Baca dokumentasi telemetry untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) atau pelajari cara menghentikan izin pengambilan data ini di [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) dan [Seluler](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
+Baca dokumentasi telemetry untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) atau pelajari cara menghentikan izin pengambilan data ini di [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) dan [Seluler](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 {: #telemetry }
 
 ### Pencarian {: #defaultsearch }
@@ -82,25 +82,25 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
     _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
----
-
-## Jika Anda menggunakan fitur-fitur ini, Firefox akan membagikan data untuk menyediakan fungsionalitas dan membantu kami meningkatkan produk dan layanan: {: #optional-features }
-
 ### Firefox Suggest dan Top Pick {: #searches }
 
 Mozilla mengembangkan fitur baru untuk memberikan informasi yang lebih baik tanpa susah payah. Fitur ini disebut Firefox Suggest dan versi awalnya tersedia bagi pengguna di Amerika Serikat. Secara baku, Firefox Suggest menunjukkan kepada Anda konten yang direkomendasikan dan bersponsor berdasarkan data lokal yang disimpan di komputer Anda sendiri, seperti situs web dari riwayat penjelajahan Anda, bookmark, dan tab yang dibuka. 
 
-Jika Anda memilih untuk mengaktifkan "Saran yang Lebih Cerdas", Firefox akan membagikan informasi berikut untuk meningkatkan pengalaman penjelajahan Anda dan untuk meningkatkan layanan:
+* __Situs yang Anda kunjungi__: Firefox mengirimkan saran yang Anda klik atau abaikan kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Pencarian__: Firefox mengirimkan ketikan Anda di bilah pencarian kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners). 
+* __Data lokasi__: Firefox untuk sementara waktu mengirimkan alamat IP Anda kepada Mozilla yang kami gunakan dalam memberikan saran konten berdasarkan negara, negara bagian, dan kota. Mozilla dapat membagikan informasi lokasi kepada mitra kami, tetapi mitra tidak akan menerima alamat IP Anda. 
 
-* __Situs yang Anda kunjungi__: Untuk Suggestions yang diklik, Firefox mengirimkan URL situs web kepada Mozilla, dan Mozilla dapat membagikan data tersebut dengan [mitranya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).
+* __Data teknis & interaksi__: Firefox mengirimkan data seperti frekuensi konten yang disarankan atau ditampilkan dan klik Anda pada konten tersebut kepada Mozilla, serta data dasar terkait interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi kepada [mitra](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) kami terkait frekuensi tampilan dan klik pada saran untuk verifikasi dan peningkatan fitur. 
 
-* __Data lokasi__: Firefox mengirimkan alamat IP Anda kepada Mozilla yang kami gunakan untuk memberikan saran konten berdasarkan negara, negara bagian dan kota Anda. Mozilla dapat membagikan informasi lokasi kepada mitra kami, tetapi mitra tidak akan menerima alamat IP Anda. 
+Jika Anda memilih untuk mengaktifkan "Tingkatkan Pengalaman Saran Firefox", Firefox akan membagikan informasi berikut untuk meningkatkan pengalaman penjelajahan Anda dan untuk meningkatkan layanan:
 
-* __Data teknis & interaksi__: Firefox mengirimkan data seperti frekuensi konten yang disarankan atau ditampilkan dan klik Anda pada konten tersebut kepada Mozilla, serta data dasar terkait interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi kepada [mitra](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners) kami terkait frekuensi tampilan dan klik pada saran untuk verifikasi dan peningkatan fitur. 
+* __Pencarian__: Firefox mengirimkan ketikan Anda di bilah pencarian kepada Mozilla dan Mozilla dapat membagikan data tersebut kepada [mitranya](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
 Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
+
+---
+
+## Jika Anda menggunakan fitur-fitur ini, Firefox akan membagikan data untuk menyediakan fungsionalitas dan membantu kami meningkatkan produk dan layanan: {: #optional-features }
 
 ### Akun Firefox
 

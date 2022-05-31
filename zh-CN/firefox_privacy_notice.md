@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2022 年 03 月 10 日生效*
-{: datetime="2022-03-10" }
+*2022 年 5 月 30 日生效*
+{: datetime="2022-05-30" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -17,7 +17,7 @@
 
 * __技术数据__：Firefox 会向我们发送以下数据：您的 Firefox 版本和语言；设备操作系统和硬件配置；内存、关于崩溃和错误的基本信息；自动化流程结果，如更新、安全浏览和激活。当 Firefox 向我们发送数据时，会将您的 IP 地址作为服务器日志的一部分暂时收集。
 
-阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)和[移动](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
+阅读针对[桌面](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 设备的遥测技术文档，或了解如何在[桌面](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)和[移动](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)设备上选择退出此数据收集。
 {: #telemetry }
 
 ### 搜索 {: #defaultsearch }
@@ -82,25 +82,25 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
     _移动端_：默认情况下，Firefox for iOS 和 Android 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
 {: #thirdparty }
 
----
-
-## 如果您使用这些功能，Firefox 将共享数据，为您提供功能并帮助我们改进产品和服务： {: #optional-features }
-
 ### Firefox Suggest 和 Top Pick {: #searches }
 
 Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息。我们称之为 Firefox Suggest，早期版本现已面向美国用户开放使用。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡。
 
-如果您选择启用“智能建议”，Firefox 将共享以下信息，以改善您的浏览体验并提升服务质量：
+* __您访问的网站__：Firefox 会向 Mozilla 发送您单击或忽略的建议，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners)共享该数据。
 
-* __搜索__：Firefox 会将您在搜索栏中键入的内容发送给 Mozilla，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners).共享该数据
+* __位置数据__：Firefox 会临时向 Mozilla 发送您的 IP 地址，我们使用该地址来根据您所在的国家、州和城市推荐内容。Mozilla 可能会与我们的合作伙伴共享位置信息，但合作伙伴不会收到您的 IP 地址。
 
-* __您访问的站点__：当您点击建议时，Firefox 会向 Mozilla 发送网站 URL，Mozilla 可能会与其[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享该数据。
+* __技术和交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
 
-* __位置数据__：Firefox 会向 Mozilla 发送您的 IP 地址，我们会根据您所在的国家/地区、州和城市推荐内容。Mozilla 可能会与我们的合作伙伴共享位置信息，但合作伙伴不会收到您的 IP 地址。
+如果您选择启用“改善 Firefox 建议体验”，Firefox 会分享以下信息以改善您的浏览体验并改进服务：
 
-* __技术与交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc#w_who-are-mozillas-partners)共享推荐显示次数和点击次数信息，以便进行验证并改进功能。
+* __搜索__：Firefox 会将您在搜索栏中输入的内容发送给 Mozilla，Mozilla 可能会与其 [合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) 共享该数据。
 
 我们会采取措施限制我们以及我们的合作伙伴识别您的身份。[了解更多信息](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc)。
+
+---
+
+## 如果您使用这些功能，Firefox 将共享数据，为您提供功能并帮助我们改进产品和服务： {: #optional-features }
 
 ### Firefox 帐户
 
@@ -152,9 +152,13 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 * __有关更新的技术数据__：Firefox 会定期连接 Mozilla，以安装附加组件更新。要应用正确的更新，须使用您安装的附加组件、Firefox 版本、语言和设备操作系统等相关信息。
 
+<!-- DO NOT REMOVE. Start of additional section for zh-CN. -->
+
 ### 扫描二维码
 
 **相机权限：** Firefox在访问您设备上的相机之前总是询问使用权限。您可以授予 Firefox 访问您相机的权限，以便扫描二维码并打开相关网站。此信息会保留在您的设备上。当您使用此功能时，Mozilla 不会接收或共享您的相机信息或浏览活动。[了解更多](https://support.mozilla.org/kb/scan-qr-codes-firefox-android).
+
+<!-- End of additional section for zh-CN. -->
 
 ---
 
