@@ -27,7 +27,7 @@ def extractAnchors(content):
     """Extract anchors, including the surrounding text"""
 
     anchors = []
-    anchor_pattern = re.compile("(?P<anchor>{:\s?#[a-z0-9]+\s?})")
+    anchor_pattern = re.compile(r"(?P<anchor>{:\s?#[a-z0-9]+\s?})")
     for line in content:
         # Strip line carriage
         line = line.strip()
@@ -82,7 +82,7 @@ def findAllFiles(path):
 
     files = defaultdict(list)
     search_path = Path(path)
-    file_paths = search_path.glob(f"*/*.md")
+    file_paths = search_path.glob("*/*.md")
 
     for fp in file_paths:
         # Threat the first folder as locale code
@@ -159,11 +159,11 @@ def main():
                 errors = checkAnchors(f_data["anchors"])
 
             # Check links
-            for l in f_data["links"]:
-                if "en-US/" in l:
-                    errors.append(f"en-US should not be used in links: {l}")
-                if "http://" in l:
-                    errors.append(f"https should be used in links: {l}")
+            for link in f_data["links"]:
+                if "en-US/" in link:
+                    errors.append(f"en-US should not be used in links: {link}")
+                if "http://" in link:
+                    errors.append(f"https should be used in links: {link}")
 
             # Compare links with reference locale
             if locale != ref_locale:
@@ -176,8 +176,8 @@ def main():
                             set(f_data["links"]) - set(data[ref_locale][f]["links"])
                         )
 
-                        links_difference = [f"-{l}" for l in missing] + [
-                            f"+{l}" for l in additional
+                        links_difference = [f"-{link}" for link in missing] + [
+                            f"+{link}" for link in additional
                         ]
                         links_difference.sort()
 
@@ -186,11 +186,11 @@ def main():
                             and links_difference != exceptions["links"][exception_id]
                         ):
                             errors.append("  There are differences in links")
-                            for l in links_difference:
-                                if l.startswith("-"):
-                                    errors.append(f"  - (missing) {l[1:]}")
+                            for link in links_difference:
+                                if link.startswith("-"):
+                                    errors.append(f"  - (missing) {link[1:]}")
                                 else:
-                                    errors.append(f"  - (added) {l[1:]}")
+                                    errors.append(f"  - (added) {link[1:]}")
 
             if errors:
                 locale_errors.append(f"  File: {f}")

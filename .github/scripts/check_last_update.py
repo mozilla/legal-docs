@@ -3,17 +3,15 @@
 from collections import defaultdict
 from pathlib import Path
 import argparse
-import json
 import os
 import re
-import sys
 
 
 def extractUpdateDate(filename):
     """Extract update date from file"""
 
     date_pattern = re.compile(
-        '.*{:\s?datetime="(?P<update>[0-9]{4}-[0-9]{2}-[0-9]{2})"\s?}.*'
+        r'.*{:\s?datetime="(?P<update>[0-9]{4}-[0-9]{2}-[0-9]{2})"\s?}.*'
     )
 
     with open(filename, "r") as fp:
@@ -29,7 +27,7 @@ def findAllFiles(path):
 
     files = defaultdict(list)
     search_path = Path(path)
-    file_paths = search_path.glob(f"*/*.md")
+    file_paths = search_path.glob("*/*.md")
 
     for fp in file_paths:
         # Threat the first folder as locale code
@@ -71,7 +69,7 @@ def main():
     locales.sort()
     for filename, locale_dates in data.items():
         ref_date = data[filename][ref_locale] if ref_locale in data[filename] else None
-        if ref_date == None:
+        if ref_date is None:
             print(f"{filename}: missing update date in reference file")
         else:
             errors = []
@@ -79,7 +77,7 @@ def main():
                 if locale == ref_locale:
                     continue
                 if locale_date != ref_date:
-                    if locale_date == None:
+                    if locale_date is None:
                         errors.append(f"  - {locale}: Missing date")
                     else:
                         errors.append(f"  - {locale}: Outdated ({locale_date})")

@@ -17,7 +17,7 @@ def copy_files(filename, dest):
     src_path = Path(".")
     num_files = 0
     if filename == "ALL":
-        file_paths = src_path.glob(f"*/*.md")
+        file_paths = src_path.glob("*/*.md")
     else:
         file_paths = src_path.glob(f"*/{filename}")
 
