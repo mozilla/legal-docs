@@ -8,17 +8,17 @@ We understand your concerns about privacy. We want you to understand what types 
 
 Our Privacy Policy includes the following provisions, and you can jump to each by selecting the links below:
 
-* [User Accounts and Collection of Information](#accounts)
-* [Collection of Information as Part of Using Pocket Service](#passive)
-* [Use of Cookies and Analytics](#cookies)
-* [Use of Information](#use)
-* [Sharing of Information](#sharing)
-* [Keeping Information](#keeping)
-* [Transfer of Information](#transfer)
+* [User Accounts and Collection of Information](#user-accounts-and-collection-of-information)
+* [Collection of Information as Part of Using Pocket Service](#collection-of-information-as-part-of-using-pocket-service)
+* [Use of Cookies and Analytics](#use-of-cookies-and-analytics)
+* [Use of Information](#use-of-information)
+* [Sharing of Information](#sharing-of-information)
+* [Keeping Information](#keeping-information)
+* [Transfer of Information](#transfer-of-information)
 * [Security](#security)
 * [Phishing](#phishing)
-* [Managing My Privacy and Email Settings](#opt-out)
-* [Amendments to Policy](#amendments)
+* [Managing My Privacy and Email Settings](#managing-my-privacy-and-email-settings)
+* [Amendments to Policy](#amendments-to-policy)
 * [Contact](#contact)
 
 ## USER ACCOUNTS AND COLLECTION OF INFORMATION
