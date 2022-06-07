@@ -22,7 +22,7 @@ Our Privacy Policy includes the following provisions, and you can jump to each b
 * [Amendments to Policy](#amendments)
 * [Contact](#contact)
 
-## USER ACCOUNTS AND COLLECTION OF INFORMATION {: #accounts }
+## User Accounts and Collection of Information {: #accounts }
 
 You are not required to create a user account or provide any personal information in order to visit the Pocket website. You are required to create a user account, however, to use our application. During registration, you are required to provide a name, password and valid email address.
 
@@ -30,11 +30,11 @@ If you choose to share any articles, videos, or other content with another perso
 
 If you choose to subscribe to our paid subscription service, our third party payment processors will collect and handle your credit card and related payment information. Such third party processors’ use of your personal information is governed by their respective privacy policies.
 
-## COLLECTION OF INFORMATION AS PART OF USING POCKET SERVICE {: #passive }
+## Collection of Information as Part of Using Pocket Service {: #passive }
 
 In addition to the information that you provide to us when you register for a user account, we collect information about the URLs, titles and content of the web pages and other information you save to Pocket. The types of information we collect includes your browser type, device type, time zone, language, and other information related to the manner in which you access the Pocket Technologies. If you are on a mobile device, we collect the advertising identifiers provided by Apple on iOS and by Google on Android. You can change this identifier in your device settings. We also collect information about your use of the Pocket Technologies so that we can provide our services. For example, as a part of providing Pocket’s syncing features, we sync information about the items that you save and view within Pocket so that your list, tags, scroll position, and other account and usage information may be synced across all of your devices.
 
-## USE OF COOKIES AND ANALYTICS {: #cookies }
+## Use of Cookies and Analytics {: #cookies }
 
 ### Types and Purposes
 
@@ -56,13 +56,13 @@ In addition to the methods described above, we may also collect information usin
 
 We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually or collectively "Pixel Tags") in connection with emails that we send to our users in order to collect usage data. We use Pixel Tags, other technologies and the information we collect to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
 
-## USE OF INFORMATION {: #use }
+## Use of Information {: #use }
 
 We use your personal information to respond to your requests and perform our contract with you. We may do this, for example, by using your contact information to respond to your inquiries, to provide customer support and to supply any products or services you have requested. In addition, if you choose to use the Pocket Technologies to share content with another person, we will use the recipient's email address or user account information to provide that service, but we will not use that email address for any other purpose.
 
 We also have a legitimate business interest to operate and improve our services such as saving articles, videos, or other content to Pocket and making such content and recommendations available to you at a later time on any device that you use to access the Pocket Technologies. We also use non-identifying, aggregated information to analyze the manner in which the Pocket Technologies are used, which also allows us to improve our services. The aggregated information we use includes the manner in which articles, videos, or content has been accessed, saved and shared. We may use aggregated information to offer a list of top sites or content, to make recommendations to our users, to report on usage and trends, to improve the products and services that we offer, or to develop new products and services.
 
-## SHARING OF INFORMATION {: #sharing }
+## Sharing of Information {: #sharing }
 
 Except as set forth below, we do not share any personally identifiable information unless you expressly agree that we may do so.
 
@@ -88,35 +88,35 @@ In the event that we or certain of our assets are acquired, user information may
 
 Although we strive to protect the personal information of our users, we will release personal information if required by law or in the good-faith belief that such action is necessary. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We will notify you when we are asked to hand over your personally identifiable information in this way unless we are legally prohibited from doing so. When we receive requests like this, we will only release your personally identifiable information if we have a good faith belief that disclosure is necessary or appropriate under applicable law. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
 
-## KEEPING INFORMATION {: #keeping }
+## Keeping Information {: #keeping }
 
 We will keep your information only for as long as we need it to provide you services, manage our business or as required by law or contract.
 
-## TRANSFER OF INFORMATION {: #transfer }
+## Transfer of Information {: #transfer }
 
 We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
 
-## SECURITY {: #security }
+## Security {: #security }
 
 We have agreements with third parties and have adopted other security measures in place to protect against the loss, misuse and/or unauthorized alteration of the information under our control or under the control of our service providers. Your personally identifiable information is protected by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored. Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain free from security issues. In the event of a security breach involving your personal information, we will make any legally required disclosures to you in the most expedient time possible and without unreasonable delay, consistent with the legitimate interests of law enforcement, or any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-## PHISHING {: #phishing }
+## Phishing {: #phishing }
 
 Identity theft and the practice currently known as "phishing" are of great concern to Pocket. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your username, password, credit card information or national identification number in an unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
-## MANAGING MY PRIVACY AND EMAIL SETTINGS {: #opt-out }
+## Managing My Privacy and Email Settings {: #opt-out }
 
 You can access, correct, or delete your personal information and export your data from your Pocket Profile. You can also view and control which third party services, if any, you want to connect to your Pocket account. These settings are at: <https://getpocket.com/options>
 
 As part of our default settings to share saved and recommended content, we send emails to our users. You may opt-out of receiving these, and updates on our service and your use, by using the unsubscribe feature on any of our email correspondence or from your account settings. We will try to communicate with you only according to your instructions, although it may take some time to process your request.
 
-## AMENDMENTS TO POLICY {: #amendments }
+## Amendments to Policy {: #amendments }
 
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) after the terms are changed, as explained above.
 
 If you have questions about any of the provisions described above, please contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or at the street address listed above.
 
-## CONTACT {: #contact }
+## Contact {: #contact }
 
 If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Alternatively, you may contact us at:
 
