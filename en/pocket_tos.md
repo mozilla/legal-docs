@@ -11,7 +11,7 @@ Please read the following terms of service ("Agreement" or "Terms of Service") b
 * [License Restrictions](#restrictions)
 * [Information You Provide](#info)
 * [Copyright Infringement](#copyright)
-* [Third Party Websites and Opinions](#thirdparty)
+* [Third Party Websites, Software And Services](#thirdparty)
 * [Proprietary Rights Notices](#prights)
 * [Disclaimer of Warranties](#disclaimer)
 * [Limitation of Liability](#liability)
