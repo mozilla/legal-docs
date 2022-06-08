@@ -254,25 +254,41 @@
     ]
   },
   "mdn_plus_privacy.md": {
-    "count": 6,
+    "count": 14,
     "locales": [
+      "cs",
       "de",
       "es-ES",
       "fr",
+      "hu",
+      "id",
       "it",
+      "ja",
       "ms",
-      "nl"
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
     ]
   },
   "mdn_plus_terms.md": {
-    "count": 6,
+    "count": 14,
     "locales": [
+      "cs",
       "de",
       "es-ES",
       "fr",
+      "hu",
+      "id",
       "it",
+      "ja",
       "ms",
-      "nl"
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
     ]
   },
   "mozilla_privacy_policy.md": {
