@@ -11,7 +11,7 @@ MDN Plus 是一种提供付费功能的订阅服务。MDN Plus 旨在为开发�
 
 ## 用户须知：
 
-### 我们收集的信息{: #InfoWeCollect }
+### 我们收集的信息 {: #InfoWeCollect }
 
 __Firefox 帐户信息。__ 此服务需要 Firefox 帐户，该帐户为 MDN Plus 提供对您的 Firefox 帐户个人资料信息的只读访问权限，例如您的用户 ID、显示名称、头像、电子邮件地址、区域设置和有效的产品订阅。了解有关 [Firefox 帐户数据实践](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox)的更多信息。
 

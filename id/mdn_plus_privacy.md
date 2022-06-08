@@ -11,7 +11,7 @@ Pemberitahuan privasi ini menjelaskan tentang data apa saja yang dikumpulkan, di
 
 ## Hal-hal yang perlu Anda ketahui:
 
-### Informasi yang kami kumpulkan{: #InfoWeCollect }
+### Informasi yang kami kumpulkan {: #InfoWeCollect }
 
 __Informasi Akun Firefox.__ Layanan ini memerlukan Akun Firefox, yang menyediakan MDN Plus akses baca-saja ke informasi profil Akun Firefox, misalnya ID pengguna, nama tampilan, avatar, alamat email, bahasa, dan langganan produk yang aktif. Pelajari selengkapnya tentang [praktik data Akun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 

@@ -27,7 +27,7 @@ def extractAnchors(content):
     """Extract anchors, including the surrounding text"""
 
     anchors = []
-    anchor_pattern = re.compile(r"(?P<anchor>{:\s?#[a-z0-9]+\s?})")
+    anchor_pattern = re.compile(r"(?P<anchor>{:\s?#[a-z0-9]+\s?})", re.IGNORECASE)
     for line in content:
         # Strip line carriage
         line = line.strip()
