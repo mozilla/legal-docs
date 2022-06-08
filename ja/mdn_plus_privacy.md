@@ -29,7 +29,7 @@ __技術データ:__ Mozilla は、皆様が使用しているウェブブラウ
 
 MDN Plus が皆様のデータをサードパーティーと共有することは一切ありません。
 
-### データプライバシーに関するご質問{: #markup }
+### データプライバシーに関するご質問 {: #markup }
 
 Firefox アカウントユーザーに関して Mozilla が保管する情報の大部分へは、アカウントにログインして簡単にアクセスできます。ご自身のデータ管理については [こちら](https://support.mozilla.org/products/privacy-and-security/user-control) で詳細をご覧ください。リクエストを行うには、Mozilla の [データ主体のアクセスリクエストポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) 経由でお問い合わせください。
 

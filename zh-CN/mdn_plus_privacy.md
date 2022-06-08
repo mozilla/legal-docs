@@ -29,7 +29,7 @@ __技术数据。__ Mozilla 会通过 MDN Plus 收到有关您正在使用的 We
 
 MDN Plus 不会与第三方共享您的任何数据。
 
-### 您对数据隐私有任何疑问？{: #markup }
+### 您对数据隐私有任何疑问？ {: #markup }
 
 您可以通过登录您的帐户轻松查看我们存储的有关 Firefox 帐户用户的大部分信息。您可以[点击此处](https://support.mozilla.org/products/privacy-and-security/user-control)详细了解对您数据的管理。如果您有任何请求，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)与我们联系。
 
