@@ -1,11 +1,9 @@
 name: Update L10n Tracking Branch
 
 on:
-  # Triggers the workflow on push events:
-  # - For the default branch
-  # - For the l10n_reference branch (manual updates)
+  # Triggers the workflow on push events only for the default branch
   push:
-    branches: [ main, l10n_reference ]
+    branches: main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -23,10 +21,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           path: "clone"
-          # We always care about comparing the default branch against
-          # l10n_reference, even when action is triggered by changes in the
-          # latter.
-          ref: "main"
+          fetch-depth: 0
       - name: Set up Python 3
         uses: actions/setup-python@v3
         with:
@@ -38,7 +33,6 @@ jobs:
       - name: Update l10n files in repository
         run: |
           cd clone
-          git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
 
           # Store stats on files
           python .github/scripts/check_status.py
@@ -71,7 +65,7 @@ jobs:
         run: |
           # continue-on-error is needed in case there is already an open PR
           cd clone
-          changes=$(git diff --name-only l10n_reference l10n_updates -- | wc -l | awk '{print $1}')
+          changes=$(git diff --name-only origin/l10n_reference origin/l10n_updates -- | wc -l | awk '{print $1}')
           if [[ "$changes" = "0" ]];
           then
             echo "No changes."
