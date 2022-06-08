@@ -11,86 +11,201 @@ import re
 import sys
 
 
-def extractLinks(content):
-    """Convert Markdown to HTML, extract all links"""
+class DocumentCheck:
+    def __init__(self, files_path, ref_locale, exceptions_path):
+        self.files_path = files_path
+        self.ref_locale = ref_locale
+        self.errors = []
 
-    links = []
-    html_content = markdown.markdown(content)
-    doc = BeautifulSoup(html_content, "html.parser")
-    for link in doc.findAll("a"):
-        links.append(link.get("href"))
+        self.findAllFiles()
+        self.extractData()
+        self.loadExceptions(exceptions_path)
 
-    return links
+    def showResults(self):
+        print("\n".join(self.errors))
 
+    def findAllFiles(self):
+        """Create a list of all markdown files in path"""
 
-def extractAnchors(content):
-    """Extract anchors, including the surrounding text"""
+        files = defaultdict(list)
+        search_path = Path(self.files_path)
+        file_paths = search_path.glob("*/*.md")
 
-    anchors = []
-    anchor_pattern = re.compile(r"(?P<anchor>{:\s?#[a-z0-9]+\s?})", re.IGNORECASE)
-    for line in content:
-        # Strip line carriage
-        line = line.strip()
-        matches = anchor_pattern.findall(line)
-        if matches:
-            line_anchors = []
-            for m in matches:
-                line_anchors.append(
-                    {
-                        "pre": line[0 : line.find(m)],
-                        "anchor": m,
-                        "post": line[line.find(m) + len(m) :],
-                    }
-                )
-            anchors.append(line_anchors)
+        for fp in file_paths:
+            # Threat the first folder as locale code
+            locale = str(fp.parent.relative_to(self.files_path))
+            filename = os.path.relpath(fp, os.path.join(self.files_path, locale))
+            files[locale].append(filename)
 
-    return anchors
+        self.files_list = files
 
+    def extractData(self):
+        data = defaultdict(dict)
+        for locale, filenames in self.files_list.items():
+            locale_data = defaultdict(dict)
+            for f in filenames:
+                # Extract links
+                filename = os.path.join(self.files_path, locale, f)
+                content = Path(filename).read_text()
+                links = self.extractLinks(content)
 
-def checkAnchors(anchors):
-    """Check for issues in anchors"""
+                # Extract anchors
+                with open(filename, "r") as fp:
+                    content = fp.readlines()
+                    anchors = self.extractAnchors(content)
 
-    errors = []
-    for line_anchors in anchors:
-        if len(line_anchors) > 1:
-            errors.append(
-                f"Documents should not have multiple anchors on the same line.\n"
-                f"      Line: {line_anchors[0]['pre']}{line_anchors[0]['anchor']}{line_anchors[0]['post']}"
-            )
-        for a in line_anchors:
-            if len(a["pre"]) > 0 and a["pre"] == a["pre"].strip():
+                locale_data[f] = {
+                    "anchors": anchors,
+                    "links": links,
+                }
+            data[locale] = locale_data
+
+        self.md_data = data
+
+    def extractLinks(self, content):
+        """Convert Markdown to HTML, extract all links"""
+
+        links = []
+        html_content = markdown.markdown(content)
+        doc = BeautifulSoup(html_content, "html.parser")
+        for link in doc.findAll("a"):
+            links.append(link.get("href"))
+
+        return links
+
+    def extractAnchors(self, content):
+        """Extract anchors, including the surrounding text"""
+
+        anchors = []
+        anchor_pattern = re.compile(r"(?P<anchor>{:\s*#[a-z0-9-]+\s*})", re.IGNORECASE)
+        for line in content:
+            # Strip line carriage
+            line = line.strip()
+            matches = anchor_pattern.findall(line)
+            if matches:
+                line_anchors = []
+                for m in matches:
+                    line_anchors.append(
+                        {
+                            "pre": line[0 : line.find(m)],
+                            "anchor": m,
+                            "post": line[line.find(m) + len(m) :],
+                        }
+                    )
+                anchors.append(line_anchors)
+
+        return anchors
+
+    def loadExceptions(self, exceptions_path):
+        exceptions = defaultdict(list)
+        if exceptions_path and os.path.exists(exceptions_path):
+            with open(exceptions_path, "r") as f:
+                exceptions = json.load(f)
+
+        self.exceptions = exceptions
+
+    def checkDocuments(self):
+        locales = list(self.md_data.keys())
+        locales.sort()
+
+        ref_data = self.md_data[self.ref_locale]
+        for locale in locales:
+            locale_errors = []
+            for f, f_data in self.md_data[locale].items():
+                file_errors = []
+                exception_id = f"{locale}/{f}"
+                # Check anchors
+                if exception_id not in self.exceptions["anchors"]:
+                    file_errors.extend(self.checkAnchors(f_data["anchors"]))
+
+                # Check links
+                for link in f_data["links"]:
+                    if "en-US/" in link:
+                        file_errors.append(f"en-US should not be used in links: {link}")
+                    if "http://" in link:
+                        file_errors.append(f"https should be used in links: {link}")
+
+                # Compare links and anchors with reference locale
+                if locale != self.ref_locale and f in ref_data:
+                    for type in ["links", "anchors"]:
+                        file_errors.extend(
+                            self.compareData(type, f_data, ref_data[f], exception_id)
+                        )
+
+                if file_errors:
+                    locale_errors.append(f"  File: {f}")
+                    for e in file_errors:
+                        locale_errors.append(f"    {e}")
+
+            if locale_errors:
+                self.errors.append(f"\nLocale: {locale}")
+                self.errors.extend(locale_errors)
+
+        return self.errors
+
+    def checkAnchors(self, anchors):
+        """Check for issues in anchors"""
+
+        errors = []
+        for line_anchors in anchors:
+            if len(line_anchors) > 1:
                 errors.append(
-                    f"Anchors should be preceded by a space.\n"
-                    f"      Line: {a['pre']}{a['anchor']}{a['post']}"
+                    f"Documents should not have multiple anchors on the same line.\n"
+                    f"      Line: {line_anchors[0]['pre']}{line_anchors[0]['anchor']}{line_anchors[0]['post']}"
                 )
-            if "{: " not in a["anchor"]:
-                errors.append(
-                    f"Anchor name should be preceded by a space.\n"
-                    f"      Anchor: {a['anchor']}"
-                )
-            if a["post"]:
-                errors.append(
-                    f"Anchors should not be followed by other text.\n"
-                    f"      Line: {a['pre']}{a['anchor']}{a['post']}"
-                )
+            for a in line_anchors:
+                if len(a["pre"]) > 0 and a["pre"] == a["pre"].strip():
+                    errors.append(
+                        f"Anchors should be preceded by a space.\n"
+                        f"      Line: {a['pre']}{a['anchor']}{a['post']}"
+                    )
+                if "{: " not in a["anchor"]:
+                    errors.append(
+                        f"Anchor name should be preceded by a space.\n"
+                        f"      Anchor: {a['anchor']}"
+                    )
+                if a["post"]:
+                    errors.append(
+                        f"Anchors should not be followed by other text.\n"
+                        f"      Line: {a['pre']}{a['anchor']}{a['post']}"
+                    )
 
-    return errors
+        return errors
 
+    def compareData(self, type, locale_data, reference_data, exception_id):
 
-def findAllFiles(path):
-    """Create a list of all markdown files in path"""
+        errors = []
+        if type == "links":
+            l10n_list = locale_data[type]
+            ref_list = reference_data[type]
+        else:
+            l10n_list = [e[0]["anchor"] for e in locale_data[type]]
+            ref_list = [e[0]["anchor"] for e in reference_data[type]]
 
-    files = defaultdict(list)
-    search_path = Path(path)
-    file_paths = search_path.glob("*/*.md")
+        if l10n_list != ref_list:
+            missing = list(set(ref_list) - set(l10n_list))
+            additional = list(set(l10n_list) - set(ref_list))
 
-    for fp in file_paths:
-        # Threat the first folder as locale code
-        locale = str(fp.parent.relative_to(path))
-        filename = os.path.relpath(fp, os.path.join(path, locale))
-        files[locale].append(filename)
+            differences = [f"-{e}" for e in missing] + [f"+{e}" for e in additional]
+            differences.sort()
 
-    return files
+            if len(differences) == 0:
+                return []
+
+            if (
+                exception_id in self.exceptions[type]
+                and differences == self.exceptions[type][exception_id]
+            ):
+                return []
+
+            errors.append(f"There are differences in {type}")
+            for e in differences:
+                if e.startswith("-"):
+                    errors.append(f"- (missing) {e[1:]}")
+                else:
+                    errors.append(f"- (added) {e[1:]}")
+
+        return errors
 
 
 def main():
@@ -116,93 +231,11 @@ def main():
     )
     args = parser.parse_args()
 
-    files_list = findAllFiles(args.files_path)
-
-    data = defaultdict(dict)
-    for locale, filenames in files_list.items():
-        locale_data = defaultdict(dict)
-        for f in filenames:
-            # Extract links
-            filename = os.path.join(args.files_path, locale, f)
-            content = Path(filename).read_text()
-            links = extractLinks(content)
-
-            # Extract anchors
-            with open(filename, "r") as fp:
-                content = fp.readlines()
-                anchors = extractAnchors(content)
-
-            locale_data[f] = {
-                "anchors": anchors,
-                "links": links,
-            }
-        data[locale] = locale_data
-
-    # Load exceptions
-    exceptions = defaultdict(list)
-    if args.exceptions_file:
-        filename = args.exceptions_file
-        if os.path.exists(filename):
-            with open(filename, "r") as f:
-                exceptions = json.load(f)
-
-    repo_errors = False
-    ref_locale = args.ref_locale
-    locales = list(data.keys())
-    locales.sort()
-    for locale in locales:
-        locale_errors = []
-        for f, f_data in data[locale].items():
-            exception_id = f"{locale}/{f}"
-            # Check anchors
-            if exception_id not in exceptions["anchors"]:
-                errors = checkAnchors(f_data["anchors"])
-
-            # Check links
-            for link in f_data["links"]:
-                if "en-US/" in link:
-                    errors.append(f"en-US should not be used in links: {link}")
-                if "http://" in link:
-                    errors.append(f"https should be used in links: {link}")
-
-            # Compare links with reference locale
-            if locale != ref_locale:
-                if f in data[ref_locale]:
-                    if f_data["links"] != data[ref_locale][f]["links"]:
-                        missing = list(
-                            set(data[ref_locale][f]["links"]) - set(f_data["links"])
-                        )
-                        additional = list(
-                            set(f_data["links"]) - set(data[ref_locale][f]["links"])
-                        )
-
-                        links_difference = [f"-{link}" for link in missing] + [
-                            f"+{link}" for link in additional
-                        ]
-                        links_difference.sort()
-
-                        if (
-                            exception_id in exceptions["links"]
-                            and links_difference != exceptions["links"][exception_id]
-                        ):
-                            errors.append("  There are differences in links")
-                            for link in links_difference:
-                                if link.startswith("-"):
-                                    errors.append(f"  - (missing) {link[1:]}")
-                                else:
-                                    errors.append(f"  - (added) {link[1:]}")
-
-            if errors:
-                locale_errors.append(f"  File: {f}")
-                for e in errors:
-                    locale_errors.append(f"    {e}")
-
-        if locale_errors:
-            repo_errors = True
-            print(f"\nLocale: {locale}")
-            print("\n".join(locale_errors))
+    checks = DocumentCheck(args.files_path, args.ref_locale, args.exceptions_file)
+    repo_errors = checks.checkDocuments()
 
     if repo_errors:
+        checks.showResults()
         sys.exit(1)
     else:
         print("No issues found.")
