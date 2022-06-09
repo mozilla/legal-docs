@@ -11,7 +11,7 @@ V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje F
 
 ## Dle výchozího nastavení Firefox sdílí údaje pro:
 
-### Zvýšení výkonu a stability pro uživatele na celém světě{: #health-report }
+### Zvýšení výkonu a stability pro uživatele na celém světě {: #health-report }
 
 * __Údaje o interakci__: Firefox nám zasílá data o vaší interakci s Firefoxem (jako jsou počet otevřených panelů, počet navštívených webových stránek, počet a typ nainstalovaných doplňků ve Firefoxu a délka relace) a s funkcemi Firefoxu nabízenými společností Mozilla nebo našimi partnery (jako jsou interakce s funkcemi vyhledávání ve Firefoxu a s odkazy na vyhledávané partnery).
 
