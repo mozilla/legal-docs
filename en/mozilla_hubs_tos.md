@@ -34,15 +34,15 @@ You are solely responsible for the information you send, create, or edit using H
 
 ## 3. Conditions of Use
 
-By using Hubs or Spoke, you agree that your use will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/en-US/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any room it reasonably believes has violated these conditions.
+By using Hubs or Spoke, you agree that your use will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any room it reasonably believes has violated these conditions.
 
-Please also be aware of [Mozilla’s Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), which address participation in Mozilla communities.
+Please also be aware of [Mozilla’s Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/), which address participation in Mozilla communities.
 
 ## 4. Mozilla's Rights
 
 Mozilla does not grant you any intellectual property rights in Hubs or Spoke unless these Terms specifically say otherwise. For example, these Terms do not provide the right to use any of Mozilla’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
 
-Mozilla distributes the Hubs and Spoke software under an open source license. To learn more, you can read the [license for Spoke]((https://github.com/mozilla/spoke/blob/master/LICENSE)), and you can read the [license for Hubs](https://github.com/mozilla/hubs/blob/master/LICENSE) or read the [FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/).
+Mozilla distributes the Hubs and Spoke software under an open source license. To learn more, you can read the [license for Spoke]((https://github.com/mozilla/spoke/blob/master/LICENSE)), and you can read the [license for Hubs](https://github.com/mozilla/hubs/blob/master/LICENSE) or read the [FAQ](https://www.mozilla.org/MPL/2.0/FAQ/).
 
 ## 5. Services Interruption; Term; Termination
 
@@ -83,6 +83,6 @@ If any portion of these Terms is held to be invalid or unenforceable, the remain
 
 For support, to provide feedback, or to report abuse of Hubs or Spoke or violations of the Conditions of Use, you can email us at [hubs@mozilla.com](mailto:hubs@mozilla.com).
 
-To report a claim of copyright or trademark infringement, see [our policy](https://www.mozilla.org/en-US/about/legal/report-infringement/).
+To report a claim of copyright or trademark infringement, see [our policy](https://www.mozilla.org/about/legal/report-infringement/).
 
 For other notices, you may email us at [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com) or write to us at Mozilla Corporation (Attn: Mozilla  Legal Notices, 2 Harrison Street, San Francisco CA 94105).

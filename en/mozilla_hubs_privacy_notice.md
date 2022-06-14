@@ -4,7 +4,7 @@
 Aug 24, 2021
 {: datetime="2021-08-04" }
 
-In this Privacy Notice, we explain what data [Hubs](https://hubs.mozilla.com) and [Spoke](https://hubs.mozilla.com/spoke) collect and share, and why. We also adhere to the practices outlined in the Mozilla [Privacy Policy](https://www.mozilla.org/en-US/privacy/) for how we receive, handle, and share information.
+In this Privacy Notice, we explain what data [Hubs](https://hubs.mozilla.com) and [Spoke](https://hubs.mozilla.com/spoke) collect and share, and why. We also adhere to the practices outlined in the Mozilla [Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 ## Information We Collect and Share When You’re In a Room
 
