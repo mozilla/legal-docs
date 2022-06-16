@@ -42,7 +42,7 @@ Please also be aware of [Mozilla’s Community Participation Guidelines](https:/
 
 Mozilla does not grant you any intellectual property rights in Hubs or Spoke unless these Terms specifically say otherwise. For example, these Terms do not provide the right to use any of Mozilla’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
 
-Mozilla distributes the Hubs and Spoke software under an open source license. To learn more, you can read the [license for Spoke]((https://github.com/mozilla/spoke/blob/master/LICENSE)), and you can read the [license for Hubs](https://github.com/mozilla/hubs/blob/master/LICENSE) or read the [FAQ](https://www.mozilla.org/MPL/2.0/FAQ/).
+Mozilla distributes the Hubs and Spoke software under an open source license. To learn more, you can read the [license for Spoke](https://github.com/mozilla/spoke/blob/master/LICENSE), and you can read the [license for Hubs](https://github.com/mozilla/hubs/blob/master/LICENSE) or read the [FAQ](https://www.mozilla.org/MPL/2.0/FAQ/).
 
 ## 5. Services Interruption; Term; Termination
 
