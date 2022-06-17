@@ -51,6 +51,8 @@ Firefox affiche des contenus tels que : Recommandations d’extensions, Sites p
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Données techniques des mises à jour** : Sur un ordinateur de bureau, Firefox vérifie la présence de mises à jour en se connectant systématiquement aux serveurs Mozilla. Votre version de Firefox, langue et système d’exploitation sont exploités pour choisir les mises à jour adaptées. Les versions mobiles de Firefox peuvent se connecter à un autre service si vous en avez utilisé un pour télécharger et utiliser Firefox. [En savoir plus](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
