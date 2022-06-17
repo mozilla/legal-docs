@@ -51,6 +51,8 @@ Firefox geeft inhoud weer, zoals aanbevolen add-ons, Top Sites (door Mozilla voo
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Technische gegevens voor updates**: Desktopversies van Firefox controleren geregeld op browserupdates door verbinding te maken met Mozilla-servers. Gegevens over uw Firefox-versie, taal en het besturingssysteem van uw apparaat worden gebruikt om de juiste updates toe te passen. Mobiele versies van Firefox kunnen verbinding maken met een andere service als u deze hebt gebruikt voor het downloaden en installeren van Firefox. [Meer informatie](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }

@@ -51,6 +51,8 @@ Firefox zeigt Inhalte wie beispielsweise Add-on-Empfehlungen, meistbesuchte Seit
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Technische Daten für Updates**: Desktop-Versionen von Firefox prüfen auf Browser-Updates, indem sie eine persistente Verbindung mit Mozilla-Servern herstellen. Ihre Firefox-Version, Sprache und das Gerätebetriebssystem werden herangezogen, um die korrekten Updates anzuwenden. Mobilversionen von Firefox können eine Verbindung mit einem anderen Dienst herstellen, wenn Sie einen solchen zum Herunterladen und Installieren von Firefox verwendet haben. [Weitere Informationen](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }

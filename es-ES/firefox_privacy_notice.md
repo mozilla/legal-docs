@@ -51,6 +51,8 @@ Firefox muestra contenido como recomendaciones de complementos, sitios populares
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Datos técnicos para actualizaciones**: Las versiones de Firefox para ordenadores de escritorio buscan periódicamente actualizaciones conectándose a los servidores de Mozilla. Los datos como su versión de Firefox, idioma y sistema operativo de su dispositivo se utilizan para aplicar las actualizaciones correctas. Las versiones móviles de Firefox pueden conectarse a otro servicio si se usa uno para descargar e instalar Firefox. [Más información](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }

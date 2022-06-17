@@ -51,6 +51,8 @@ Firefox wyświetla zawartość, taką jak rekomendacje dodatków, popularne stro
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Dane techniczne dotyczące aktualizacji**: Wersje Firefoksa na komputery sprawdzają dostępność aktualizacji przeglądarki, łącząc się stale z serwerami firmy Mozilla. Informacje o wersji Firefoksa, języku i systemie operacyjnym urządzenia są używane w celu zastosowania prawidłowych aktualizacji. Mobilne wersje Firefoksa mogą łączyć się z inną usługą, jeśli została ona użyta do pobrania i zainstalowania Firefoksa. [Więcej informacji](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }

@@ -51,6 +51,8 @@ Firefox menampilkan konten, seperti Rekomendasi Pengaya, Situs Populer (situs we
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Data teknis untuk pembaruan**: Firefox versi desktop memeriksa pembaruan browser dengan terus-menerus terhubung ke server Mozilla. Versi, bahasa, dan sistem operasi perangkat Firefox Anda digunakan untuk menerapkan pembaruan yang sesuai. Firefox versi seluler mungkin terhubung ke layanan lain jika Anda pernah menggunakannya untuk mengunduh dan menginstal Firefox. [Pelajari selengkapnya](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
