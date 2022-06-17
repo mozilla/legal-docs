@@ -51,6 +51,8 @@ Firefox visualizza contenuti, come componenti aggiuntivi consigliati, siti princ
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Dati tecnici per gli aggiornamenti**: le versioni desktop di Firefox verificano la disponibilità di aggiornamenti del browser connettendosi continuamente ai server Mozilla. La versione di Firefox in uso, la lingua selezionata e il sistema operativo del dispositivo sono utilizzati per applicare gli aggiornamenti corretti. Le versioni di Firefox per dispositivi mobili possono connettersi a un altro servizio, se ne è stato utilizzato uno per scaricare e installare Firefox. [Per saperne di più](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }

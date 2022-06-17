@@ -51,6 +51,8 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **更新用の技術情報**:デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーの更新の有無を定期的に確認します。正しい更新を適用するために、お使いの Firefox のバージョン、言語、および端末のオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。[詳細はこちら](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }

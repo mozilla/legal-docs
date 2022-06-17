@@ -51,6 +51,8 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **有关更新的技术数据**：Firefox 的桌面版本会通过持续连接到 Firefox 服务器，查看浏览器更新。要应用正确的更新，须使用您的 Firefox 版本、语言和设备操作系统等相关信息。如果您曾经使用一个 Firefox 的移动版本来下载和安装 Firefox，则可以用它连接到其他服务。[了解更多信息](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking)。
 {: #auto-updates }
