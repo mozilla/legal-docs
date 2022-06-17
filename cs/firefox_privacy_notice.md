@@ -51,6 +51,8 @@ Firefox zobrazuje obsah, jako doporučení doplňků, Top stránky (webové str�
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
+* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Technické údaje pro aktualizace**: Verze Firefoxu pro stolní počítače pravidelně kontrolují aktualizace prohlížeče připojením se k serverům společnosti Mozilla. Informace o vaší verzi Firefoxu, jazyce a operačním systému zařízení se použijí pro aplikaci správné aktualizace. Mobilní verze Firefoxu se mohou připojovat k jiné službě, pokud jste ji použili ke stažení a instalaci Firefoxu. [Další informace](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
 {: #auto-updates }
