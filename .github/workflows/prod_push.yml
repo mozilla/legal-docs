@@ -49,8 +49,8 @@ jobs:
           # Restore files from the default branch
           if [[ "${{ github.event.inputs.files }}" = "ALL" ]];
           then
-            # Also remove files, ignore hidden folders and Markdown files in the root
-            rsync -av --exclude={".git",".github","/*.md","package.json"} "${TMP_DIR}/" ./ --delete
+            # Also remove files, ignore hidden folders, Markdown files in the root, and PDF files
+            rsync -av --exclude={".git",".github","/*.md","package.json","*.pdf"} "${TMP_DIR}/" ./ --delete
           else
             # Only copy new files
             rsync -av "${TMP_DIR}/" ./
