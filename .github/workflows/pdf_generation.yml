@@ -4,7 +4,12 @@ on:
   push:
     branches:
       - main
-  pull_request:
+    paths:
+      - '**.md'
+      - '**.json'
+      - '.github/workflows/pdf_generation.yml'
+      # Ignore Markdown files in the root
+      - '!*.md'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -32,6 +37,9 @@ jobs:
 
       - name: Run generation script
         run: |
+          # Set arbitrary EPOCH date to get reproducible PDF generation.
+          # https://github.com/Kozea/WeasyPrint/issues/1553
+          export SOURCE_DATE_EPOCH=1658210455
           python .github/scripts/convert_to_pdf.py
 
       - name: Set up git credentials

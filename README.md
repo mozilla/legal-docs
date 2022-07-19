@@ -22,6 +22,10 @@ These files are written in the [Markdown syntax](https://daringfireball.net/proj
 
 Some Markdown files use the [Attribute Lists extension](https://pythonhosted.org/Markdown/extensions/attr_list.html) of the [Python Markdown library](https://pypi.python.org/pypi/Markdown). This is useful when you'd like to set the ID or class of an element, but the extended syntax may cause an error if your parser doesn't support this extension.
 
+### PDF
+
+A [subset of documents](https://github.com/mozilla/legal-docs/blob/main/.github/scripts/pdf_sources.json) is converted to PDF format via [automation](https://github.com/mozilla/legal-docs/blob/main/.github/workflows/pdf_generation.yml). Each localized PDF document is saved in a `pdf` subfolder within the locale folder.
+
 ### Localization
 
 Localization of these documents is managed through an external vendor. As a localizer, you're encouraged to find and fix translation issues. All document translations should match the precise meaning in the corresponding `en` version of the document. Additionally, we're always interested in finding errors in markup, broken links, etc.
@@ -53,7 +57,6 @@ For www.mozilla.org, the process is as follows:
 7. Once this is finished, and everything was successful, a new [Pull Request](https://github.com/mozilla/legal-docs/pulls?q=is%3Aopen+is%3Apr+label%3Aprod) should have been opened with all of the requested changes.
 8. Review this Pull Request. It will have the title `[prod] Publish document updates`.
 9. Once you are satisfied that the correct changes have been included, merge the Pull Request and the changes will be published to the website within a few minutes.
-
 
 ## URL Inventory
 
