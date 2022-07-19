@@ -1,0 +1,64 @@
+name: PDF generation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    name: Generate PDF
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Linux packages
+        run: |
+          sudo apt update
+          sudo apt install -y git hub libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 fonts-wqy-microhei
+
+      - name: Clone repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r .github/requirements.txt
+
+      - name: Run generation script
+        run: |
+          python .github/scripts/convert_to_pdf.py
+
+      - name: Set up git credentials
+        run : |
+          git config --global user.email 'MozmarRobot@users.noreply.github.com'
+          git config --global user.name 'MozMEAO Bot'
+
+      - name: Commit changes to pdf_updates branch
+        continue-on-error: true
+        run: |
+          # Commit changes. Failure is allowed if there is nothing to commit.
+          git checkout -B pdf_updates
+          git add .
+          git commit -m "Convert documents to PDF"
+          git push -f origin pdf_updates
+
+      - name: Open pull request
+        continue-on-error: true
+        run: |
+          # continue-on-error is needed in case there is already an open PR
+          changes=$(git diff --name-only main pdf_updates -- | wc -l | awk '{print $1}')
+          if [[ "$changes" = "0" ]];
+          then
+            echo "No changes."
+          else
+            # Create pull request
+            hub pull-request -m "[pdf] Update documents in PDF format" -h pdf_updates -b main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
