@@ -15,7 +15,9 @@ def main():
     source_files = []
     for folder in source_folders:
         for doc in os.listdir(os.path.join(root_path, folder)):
-            if not doc.startswith("."):
+            if not doc.startswith(".") and not os.path.isdir(
+                os.path.join(root_path, folder, doc)
+            ):
                 source_files.append(os.path.join(folder, doc))
     source_files.sort()
 

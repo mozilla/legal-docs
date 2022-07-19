@@ -17,7 +17,8 @@ def copy_files(filename, dest):
     src_path = Path(".")
     num_files = 0
     if filename == "ALL":
-        file_paths = src_path.glob("*/*.md")
+        extensions = [".md", ".pdf"]
+        file_paths = [p for p in src_path.rglob("*/*") if p.suffix in extensions]
     else:
         file_paths = src_path.glob(f"*/{filename}")
 
@@ -35,18 +36,18 @@ def main(files, dest):
     num_files = 0
     files_list = split_files(files)
     if "ALL" in files_list and len(files_list) > 1:
-        # no need for any other action
+        # No need for any other action
         files_list = ["ALL"]
 
     for fn in files_list:
         num_copied = copy_files(fn, dest)
         num_files += num_copied
         if num_copied == 0:
-            # if any of the search terms returns nothing throw an error
+            # If any of the search terms returns nothing throw an error
             return f"No files found matching {fn}"
 
     print(f"Successfully copied {num_files} files")
-    return 0  # success
+    return 0  # Success
 
 
 if __name__ == "__main__":

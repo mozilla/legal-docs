@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**.md'
+      - '**.json'
+      - '.github/workflows/doc_linter.yml'
+      # Ignore Markdown files in the root
+      - '!*.md'
   pull_request:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

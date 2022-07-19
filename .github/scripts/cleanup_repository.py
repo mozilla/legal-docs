@@ -42,6 +42,10 @@ def main():
 
     # Remove source files that are not translated
     for f in source_files:
+        # Remove subfolders
+        if os.path.isdir(f):
+            shutil.rmtree(os.path.join(root_path, f))
+            continue
         if f not in translated_docs:
             os.remove(os.path.join(root_path, f))
 
