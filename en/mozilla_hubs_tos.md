@@ -11,7 +11,7 @@ These Terms of Service explain your rights and responsibilities when you use Hub
 
 ## 1. Privacy Policy
 
-The Hubs [Privacy Notice](https://github.com/mozilla/hubs/blob/master/PRIVACY.md) explains what information we collect when you use Hubs or Spoke and how that information is handled and shared.
+The Hubs [Privacy Notice](https://www.mozilla.org/privacy/hubs/) explains what information we collect when you use Hubs or Spoke and how that information is handled and shared.
 
 ## 2. Communications and Content
 
@@ -19,7 +19,7 @@ Hubs allows users to send information (such as audio, video, text, images, 3D mo
 
 Spoke allows users to arrange 3D Room models into scenes that can appear in Hubs. You can also use Hubs to customize your in-room Avatar.
 
-By using Hubs or Spoke, you agree to give Mozilla all rights necessary to operate Hubs and Spoke. This includes, but is not limited to, a license and permission to process, transmit, and display the information you send through Hubs or Spoke. It also includes permission to gather and share information as described in the [Privacy Notice](https://github.com/mozilla/hubs/blob/master/PRIVACY.md) for Hubs and Spoke.
+By using Hubs or Spoke, you agree to give Mozilla all rights necessary to operate Hubs and Spoke. This includes, but is not limited to, a license and permission to process, transmit, and display the information you send through Hubs or Spoke. It also includes permission to gather and share information as described in the [Privacy Notice](https://www.mozilla.org/privacy/hubs/) for Hubs and Spoke.
 
 When you submit information to Hubs or Spoke, you continue to own the rights to your content. You grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works from, distribute, perform, and display that information, audio, video, images, or 3D models for the purpose of operating Hubs and Spoke. You also agree that we may remove metadata associated with the information or data you submit. If you allow allow remixing of a scene or avatar you create, you agree to license your scene under a [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode) license.
 
