@@ -56,28 +56,40 @@ def main():
     root_path = os.path.abspath(os.path.join(script_path, os.pardir, os.pardir))
 
     # Get list of documents to convert
-    with open(os.path.join(script_path, "pdf_sources.json")) as f:
-        pdf_files = json.load(f)["files"]
+    with open(os.path.join(script_path, "convert_sources.json")) as f:
+        json_data = json.load(f)
+        pdf_files = json_data["pdf"]
+        html_files = json_data["html"]
+        files_to_convert = list(set(pdf_files + html_files))
 
     files_list = findAllFiles(root_path)
 
     for locale, filenames in files_list.items():
         for f in filenames:
-            if f in pdf_files:
+            if f in files_to_convert:
                 locale_folder = os.path.join(root_path, locale)
                 source_file = os.path.join(locale_folder, f)
-                dest_file = os.path.join(locale_folder, "pdf", f"{f.rstrip('.md')}.pdf")
-
-                # Create pdf folder if not available yet
-                Path(os.path.join(locale_folder, "pdf")).mkdir(exist_ok=True)
 
                 # Convert Markdown to HTML
                 html_content = convertMdToHTML(source_file)
-                # with open(f"{dest_file}.html", "w", encoding="utf-8") as f:
-                #    f.write(html_content)
 
-                # Convert HTML to PDF
-                HTML(string=html_content).write_pdf(dest_file)
+                # Save HTML file if necessary, creating html folder if necessary
+                if f in html_files:
+                    Path(os.path.join(locale_folder, "html")).mkdir(exist_ok=True)
+                    html_dest_file = os.path.join(
+                        locale_folder, "html", f"{f.rstrip('.md')}.html"
+                    )
+                    with open(html_dest_file, "w", encoding="utf-8") as f:
+                        f.write(html_content)
+
+                # Save PDF file if necessary, creating pdf folder if necessary
+                if f in pdf_files:
+                    Path(os.path.join(locale_folder, "pdf")).mkdir(exist_ok=True)
+                    pdf_dest_file = os.path.join(
+                        locale_folder, "pdf", f"{f.rstrip('.md')}.pdf"
+                    )
+                    # Convert HTML to PDF
+                    HTML(string=html_content).write_pdf(pdf_dest_file)
 
 
 if __name__ == "__main__":

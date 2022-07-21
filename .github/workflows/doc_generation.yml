@@ -1,4 +1,4 @@
-name: PDF generation
+name: Convert documents to PDF/HTML
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     paths:
       - '**.md'
       - '**.json'
-      - '.github/workflows/pdf_generation.yml'
+      - '.github/workflows/doc_generation.yml'
       # Ignore Markdown files in the root
       - '!*.md'
   # Allows you to run this workflow manually from the Actions tab
@@ -15,7 +15,7 @@ on:
 
 jobs:
   fetch:
-    name: Generate PDF
+    name: Generate documents
     runs-on: ubuntu-latest
     steps:
       - name: Install Linux packages
@@ -40,33 +40,33 @@ jobs:
           # Set arbitrary EPOCH date to get reproducible PDF generation.
           # https://github.com/Kozea/WeasyPrint/issues/1553
           export SOURCE_DATE_EPOCH=1658210455
-          python .github/scripts/convert_to_pdf.py
+          python .github/scripts/convert_documents.py
 
       - name: Set up git credentials
         run : |
           git config --global user.email 'MozmarRobot@users.noreply.github.com'
           git config --global user.name 'MozMEAO Bot'
 
-      - name: Commit changes to pdf_updates branch
+      - name: Commit changes to doc_updates branch
         continue-on-error: true
         run: |
           # Commit changes. Failure is allowed if there is nothing to commit.
-          git checkout -B pdf_updates
+          git checkout -B doc_updates
           git add .
-          git commit -m "Convert documents to PDF"
-          git push -f origin pdf_updates
+          git commit -m "Convert documents to PDF and HTML"
+          git push -f origin doc_updates
 
       - name: Open pull request
         continue-on-error: true
         run: |
           # continue-on-error is needed in case there is already an open PR
-          changes=$(git diff --name-only main pdf_updates -- | wc -l | awk '{print $1}')
+          changes=$(git diff --name-only main doc_updates -- | wc -l | awk '{print $1}')
           if [[ "$changes" = "0" ]];
           then
             echo "No changes."
           else
             # Create pull request
-            hub pull-request -m "[pdf] Update documents in PDF format" -h pdf_updates -b main
+            hub pull-request -m "[DOC] Update documents in PDF and HTML format" -h doc_updates -b main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
