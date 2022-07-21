@@ -1,5 +1,9 @@
 {
-    "files": [
+    "html": [
+        "firefox_cloud_services_tos.md",
+        "firefox_privacy_notice.md"
+    ],
+    "pdf": [
         "firefox_relay_privacy_notice.md",
         "firefox_relay_tos.md",
         "hubs_privacy_notice.md",
