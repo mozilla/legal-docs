@@ -187,6 +187,15 @@ class DocumentCheck:
             additional = list(set(l10n_list) - set(ref_list))
 
             differences = [f"-{e}" for e in missing] + [f"+{e}" for e in additional]
+
+            # Don't print links listed in exceptions
+            if type == "links" and exception_id in self.exceptions[type]:
+                differences = [
+                    d
+                    for d in differences
+                    if d not in self.exceptions[type][exception_id]
+                ]
+
             differences.sort()
 
             if len(differences) == 0:
