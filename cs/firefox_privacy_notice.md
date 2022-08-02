@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 30. května 2022*
-{: datetime="2022-05-30" }
+*Účinné od 1. srpna 2022*
+{: datetime="2022-08-01" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -26,7 +26,12 @@ Vyhledávání můžete provádět přímo z několika míst ve Firefoxu, včetn
 
 * __Údaje o umístění__: Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země. [Další informace](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Dotazy vyhledávání__: Dle výchozího nastavení Firefox odesílá dotazy vyhledávání vašemu poskytovateli vyhledávání, aby vám pomohl najít běžné fráze, které ostatní lidé vyhledávali, a vylepšil tak vaše zkušenost s vyhledávání, pokud váš vybraný poskytovatel vyhledávání podporuje návrhy vyhledávání. [Podrobnější informace](https://support.mozilla.org/kb/search-suggestions-firefox) včetně postupu deaktivace této funkce. Pokud aktivujete funkci Firefox Suggest, vaše dotazy vyhledávání můžete dostat také my a naši partneři. [Podrobnější informace níže](#searches). 
+* __Dotazy vyhledávání__: Dle výchozího nastavení Firefox odesílá dotazy vyhledávání vašemu poskytovateli vyhledávání, aby vám pomohl najít běžné fráze, které ostatní lidé vyhledávali, a vylepšil tak vaše zkušenost s vyhledávání, pokud váš vybraný poskytovatel vyhledávání podporuje návrhy vyhledávání. [Podrobnější informace](https://support.mozilla.org/kb/search-suggestions-firefox) včetně postupu deaktivace této funkce. Odkazy na naše výchozí poskytovatele vyhledávání jsou následující: 
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Pokud aktivujete funkci „Vylepšit zkušenosti s Firefox Suggest“, vaše dotazy vyhledávání můžeme dostat také my a naši partneři. [Podrobnější informace níže](#searches). 
 
 ### Navrhování relevantního obsahu
 
@@ -81,7 +86,7 @@ Dle výchozího nastavení u verzí Firefoxu pro stolní počítač vás požád
 
     _U stolních počítačů_: Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu. To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo před instalací [zrušte volbu](https://support.mozilla.org/kb/desktop-privacy).
 
-    _U mobilních telefonů_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _U mobilních telefonů_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/).  Údaje o mobilních kampaních zahrnují ID reklamy Google nebo ID systému Android, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest a Top Pick {: #searches }

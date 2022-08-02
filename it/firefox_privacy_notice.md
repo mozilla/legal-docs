@@ -1,7 +1,7 @@
 ﻿## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*In vigore da lunedì 30 maggio 2022*
-{: datetime="2022-05-30" }
+*In vigore dal 1 agosto 2022*
+{: datetime="2022-08-01" }
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet.
 
@@ -26,7 +26,12 @@ Le ricerche in Firefox possono essere eseguite da diversi punti, come la barra d
 
 * __Dati sulla posizione__: al primo utilizzo di Firefox, l'indirizzo IP dell'utente viene usato per configurare il provider di servizi di ricerca predefinito in base al Paese. [Per saperne di più](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Query di ricerca__: se viene selezionato un provider che supporta i suggerimenti di ricerca, per impostazione predefinita, Firefox invia le richieste al provider di servizi di ricerca per aiutare l'utente a scoprire frasi comuni usate nelle ricerche da altri e migliorare l'esperienza di ricerca. [Ulteriori informazioni](https://support.mozilla.org/kb/search-suggestions-firefox) che includono come disattivare questa funzione. Se viene abilitato Firefox Suggest, noi e i nostri partner potremmo anche ricevere le query di ricerca dell'utente. [Ulteriori informazioni di seguito](#searches). 
+* __Query di ricerca__: se viene selezionato un provider che supporta i suggerimenti di ricerca, per impostazione predefinita, Firefox invia le richieste al provider di servizi di ricerca per aiutare l'utente a scoprire frasi comuni usate nelle ricerche da altri e migliorare l'esperienza di ricerca. [Ulteriori informazioni](https://support.mozilla.org/kb/search-suggestions-firefox) che includono come disattivare questa funzione. Se viene abilitato I link ai nostri fornitori di servizi di ricerca predefiniti sono:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Se viene abilitat l'opzione "Improve the Firefox Suggest Experience" (Migliora l'esperienza di Firefox Suggest), noi e i nostri partner potremmo anche ricevere le query di ricerca dell'utente. [Ulteriori informazioni di seguito](#searches). 
 
 ### Suggerimento di contenuti rilevanti
 
@@ -81,7 +86,7 @@ Leggere la documentazione completa [qui](https://firefox-source-docs.mozilla.org
 
     _Su desktop_: Per impostazione predefinita, Firefox invia a Mozilla dati HTTP che possono essere inclusi nel programma di installazione di Firefox. Questi dati ci consentono di determinare il dominio del sito Web o la campagna marketing (se pertinente) che ha portato l'utente alla nostra pagina di download. Leggere la [documentazione](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) al riguardo oppure [disattivare l'opzione](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Su dispositivo mobile_: Firefox per iOS e Android invia per impostazione predefinita dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di analytics, che ha una sua [informativa sulla privacy](https://www.adjust.com/terms/privacy-policy/). I dati sulle campagne pubblicitarie mobili includono: ID pubblicitario Google, indirizzo IP, indicatore temporale, Paese, lingua/impostazioni locali, sistema operativo e versione dell'app. Per saperne di più, leggere la [documentazione](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Su dispositivo mobile_: Firefox per iOS e Android invia per impostazione predefinita dati sulle campagne pubblicitarie mobili ad Adjust, il nostro fornitore di analytics, che ha una sua [informativa sulla privacy](https://www.adjust.com/terms/privacy-policy/).  I dati sulle campagne pubblicitarie mobili includono: ID pubblicitario Google o ID Android, indirizzo IP, indicatore temporale, Paese, lingua/impostazioni locali, sistema operativo e versione dell'app. Per saperne di più, consulta la [documentazione](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest e Top Pick (Suggerimenti e migliori scelte Firefox) {: #searches }

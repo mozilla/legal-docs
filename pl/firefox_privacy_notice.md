@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-policy">Zasady prywatności</span> <span class="privacy-header-firefox">przeglądarki Firefox
 
-*Data wejścia w życie: 30 maja 2022 r.*
-{: datetime="2022-05-30" }
+*Data wejścia w życie: 1 sierpnia 2022 r.*
+{: datetime="2022-08-01" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -26,7 +26,12 @@ Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich j
 
 * __Dane lokalizacji__: Przy pierwszym użyciu Firefox używa adresu IP w celu ustawienia domyślnego dostawcy usług wyszukiwania na podstawie kraju użytkownika. [Więcej informacji](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Zapytania wyszukiwania__: Firefox domyślnie wysyła zapytania wyszukiwania do dostawcy usług wyszukiwania, aby pomóc użytkownikom odkrywać typowe frazy, których szukali inni użytkownicy, oraz poprawić jakość wyszukiwania, jeśli wybrany dostawca usług wyszukiwania obsługuje sugestie wyszukiwania. [Uzyskaj więcej informacji](https://support.mozilla.org/kb/search-suggestions-firefox), łącznie ze sposobem wyłączenia tej funkcji. Jeśli włączono Podpowiedzi Firefoksa, my i nasi partnerzy możemy także otrzymywać zapytania wyszukiwania użytkownika. [Dowiedz się więcej poniżej](#searches). 
+* __Zapytania wyszukiwania__: Firefox domyślnie wysyła zapytania wyszukiwania do dostawcy usług wyszukiwania, aby pomóc użytkownikom odkrywać typowe frazy, których szukali inni użytkownicy, oraz poprawić jakość wyszukiwania, jeśli wybrany dostawca usług wyszukiwania obsługuje sugestie wyszukiwania. [Uzyskaj więcej informacji](https://support.mozilla.org/kb/search-suggestions-firefox), łącznie ze sposobem wyłączenia tej funkcji. Poniżej znajdują się odnośniki do domyślnych dostawców usług wyszukiwania:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Jeśli włączono opcję „Ulepsz podpowiedzi Firefoksa”, my i nasi partnerzy możemy także otrzymywać zapytania wyszukiwania użytkownika. [Dowiedz się więcej poniżej](#searches). 
 
 ### Proponowanie istotnej zawartości
 
@@ -81,7 +86,7 @@ Przeczytaj pełną dokumentację [tutaj](https://firefox-source-docs.mozilla.org
 
     _Na komputerach_: Firefox domyślnie wysyła do firmy Mozilla dane HTTP, które mogą być dołączone do instalatora Firefoksa. Umożliwiaj to nam zrozumienie, która domena internetowa lub kampania reklamowa (o ile w ogóle) skierowała użytkownika na naszą stronę umożliwiającą pobranie. Przeczytaj [dokumentację](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) lub [zrezygnuj](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Platformy mobilne_: Firefox dla systemów iOS i Android domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który ma własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/). Dane kampanii mobilnych obejmują identyfikator reklamowy Google, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Platformy mobilne_: Firefox dla systemów iOS i Android domyślnie wysyła dane kampanii mobilnych do firmy Adjust, naszego dostawcy usług analitycznych, który ma własną [politykę prywatności](https://www.adjust.com/terms/privacy-policy/).  Dane kampanii mobilnych obejmują identyfikator reklamowy Google lub identyfikator systemu Android, adres IP, sygnaturę czasową, kraj, język/ustawienia regionalne, system operacyjny i wersję aplikacji. Przeczytaj [dokumentację](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Podpowiedzi Firefoksa i Top Pick (najczęściej wybierane strony) {: #searches }

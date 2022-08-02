@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2022 年 5 月 30 日生效*
-{: datetime="2022-05-30" }
+*2022 年 8 月 1 日生效*
+{: datetime="2022-08-01" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -26,7 +26,7 @@
 
 * __位置数据__：首次使用 Firefox 时，Firefox 会使用 IP 地址根据您所在的国家/地区设置默认搜索提供商。[了解更多信息](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-* __搜索查询__：默认情况下，如果您选择的搜索提供商支持搜索建议，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。[了解详情](https://support.mozilla.org/kb/search-suggestions-firefox)，包括如何禁用此功能。如果启用 Firefox Suggest，我们和我们的合作伙伴也可能会收到您的搜索查询。[在下方了解更多信息](#searches)。
+* __搜索查询__：默认情况下，如果您选择的搜索提供商支持搜索建议，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。[了解详情](https://support.mozilla.org/kb/search-suggestions-firefox)，包括如何禁用此功能。我们的默认搜索提供商的链接如下：
 
 ### 推荐相关内容
 
@@ -81,7 +81,7 @@ Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数�
 
     _桌面版本_：默认情况下，Firefox 会发送 Mozilla HTTP 数据，该数据可能包含在 Firefox 安装程序中。我们可以通过它来确定推荐您访问下载页面的网站域名或广告活动（如果有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或[退出](https://support.mozilla.org/kb/desktop-privacy) before installation。
 
-    _移动端_：默认情况下，Firefox for iOS 和 Android 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
+    _移动端_：默认情况下，Firefox for iOS 和 Android 会将移动营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。移动营销活动数据包括 Google 广告 ID 或 Android ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
 {: #thirdparty }
 
 ### Firefox Suggest 和 Top Pick {: #searches }

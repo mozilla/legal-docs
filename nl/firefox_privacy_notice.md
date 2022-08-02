@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacykennisgeving</span>
 
-*Van kracht vanaf maandag 30 mei 2022*
-{: datetime="2022-05-30" }
+*Van kracht vanaf 1 augustus 2022*
+{: datetime="2022-08-01" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -26,7 +26,12 @@ U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoere
 
 * __Locatiegegevens__: Wanneer u Firefox voor het eerst gebruikt, wordt uw IP-adres op basis van uw land gebruikt voor het instellen van uw standaardzoekprovider. [Meer informatie](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Zoekquery's__: Firefox verzendt standaard zoekquery's naar uw zoekprovider, zodat er veelgebruikte zinnen kunnen worden weergegeven waarnaar anderen hebben gezocht en uw zoekervaring kan worden verbeterd, mits u hebt ingesteld dat de zoekprovider zoeksuggesties ondersteunt. Lees [meer informatie](https://support.mozilla.org/kb/search-suggestions-firefox), waaronder informatie over hoe u deze functie kunt uitschakelen. Als u Firefox Suggest inschakelt, kunnen wij en onze partners ook uw zoekquery's ontvangen. [Hieronder vindt u meer info](#searches). 
+* __Zoekquery's__: Firefox verzendt standaard zoekquery's naar uw zoekprovider, zodat er veelgebruikte zinnen kunnen worden weergegeven waarnaar anderen hebben gezocht en uw zoekervaring kan worden verbeterd, mits u hebt ingesteld dat de zoekprovider zoeksuggesties ondersteunt. Lees [meer informatie](https://support.mozilla.org/kb/search-suggestions-firefox), waaronder informatie over hoe u deze functie kunt uitschakelen. Koppelingen naar onze standaard zoekproviders zijn:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Als u de optie voor het verbeteren van de Firefox Suggest-ervaring inschakelt, kunnen wij en onze partners ook uw zoekquery's ontvangen. [Hieronder vindt u meer info](#searches). 
 
 ### Aanbevolen relevante inhoud
 
@@ -81,7 +86,7 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 
     _Op desktop_: Firefox verzendt standaard HTTP-gegevens aan Mozilla die mogelijk zijn opgenomen in het installatieprogramma van Firefox. Deze gegevens stellen ons in staat te bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Op mobiele apparaten_: Firefox voor iOS en Android verzendt standaard mobiele campagnegegevens aan Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/). Mobiele campagnegegevens bestaan uit een Google-reclame-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Op mobiele apparaten_: Firefox voor iOS en Android verzendt standaard mobiele campagnegegevens aan Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/).  Mobiele campagnegegevens bestaan uit een Google-reclame-id of Android-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest en Top Pick {: #searches }

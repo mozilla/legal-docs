@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*有効日 2022 年 5 月 30 日*
-{: datetime="2022-05-30" }
+*有効日 2022 年 8 月 1 日*
+{: datetime="2022-08-01" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -26,7 +26,12 @@
 
 * __位置情報__:Firefox の初回使用時には、あなたの国に基づいて検索プロバイダーを初期設定するために、あなたの IP アドレスが使用されます。[詳細はこちら](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-* __検索クエリー__:あなたが選択した検索プロバイダーが検索候補機能に対応している場合、Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/search-suggestions-firefox)。Firefox Suggest を有効にすると、Mozilla および Mozilla のパートナーもあなたの検索クエリーを受信することがあります。[詳細は下記を参照](#searches)。
+* __検索クエリー__:あなたが選択した検索プロバイダーが検索候補機能に対応している場合、Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/search-suggestions-firefox)。初期設定の検索プロバイダーのリンクはこちらです。
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* 「Firefox Suggest 体験を改善」を有効にすると、Mozilla および Mozilla のパートナーもあなたの検索クエリーを受信することがあります。[詳細は下記を参照](#searches)。 
 
 ### 関連するコンテンツのおすすめ
 
@@ -81,7 +86,7 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 
     _デスクトップの場合_:Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みいただくか、[オプトアウト](https://support.mozilla.org/kb/desktop-privacy) before installation してください。
 
-    _モバイルの場合_:iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
+    _モバイルの場合_: iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。  モバイルキャンペーンデータには、Google の広告 ID または Android ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
 {: #thirdparty }
 
 ### Firefox Suggest と Top Pick {: #searches }
