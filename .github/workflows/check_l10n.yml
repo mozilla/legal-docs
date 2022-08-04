@@ -1,12 +1,16 @@
 name: Update L10n Tracking Branch
 
 on:
-  # Triggers the workflow on push events:
-  # - For the default branch
-  # - For the l10n_reference branch (manual updates)
+  # Triggers the workflow on push events only for the default branch
   push:
-    branches: [ master, l10n_reference ]
-
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '**.json'
+      - '.github/workflows/check_l10n.yml'
+      # Ignore Markdown files in the root
+      - '!*.md'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -20,17 +24,14 @@ jobs:
           sudo apt update
           sudo apt install git hub -y
       - name: Clone repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: "clone"
-          # We always care about comparing the default branch against
-          # l10n_reference, even when action is triggered by changes in the
-          # latter.
-          ref: "master"
+          fetch-depth: 0
       - name: Set up Python 3
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.8'
+          python-version: '3.9'
       - name: Set up git credentials
         run : |
           git config --global user.email 'flodolo@users.noreply.github.com'
@@ -38,7 +39,6 @@ jobs:
       - name: Update l10n files in repository
         run: |
           cd clone
-          git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
 
           # Store stats on files
           python .github/scripts/check_status.py
@@ -48,7 +48,7 @@ jobs:
           # Use temporary folder to store files from the default branch
           cd ..;mkdir temp_files
           # Copy files, excluding scripts and workflows
-          rsync -av --exclude=".git/*" --exclude=".github/workflows" --exclude=".github/scripts" clone/ temp_files/
+          rsync -av --exclude={".git",".github/workflows",".github/scripts",".github/requirements.txt","package.json"} clone/ temp_files/
 
           # Use l10n_reference as a base for l10n_updates, to avoid generating
           # a huge diff in the pull request.
@@ -71,7 +71,7 @@ jobs:
         run: |
           # continue-on-error is needed in case there is already an open PR
           cd clone
-          changes=$(git diff --name-only l10n_reference l10n_updates -- | wc -l | awk '{print $1}')
+          changes=$(git diff --name-only origin/l10n_reference origin/l10n_updates -- | wc -l | awk '{print $1}')
           if [[ "$changes" = "0" ]];
           then
             echo "No changes."
