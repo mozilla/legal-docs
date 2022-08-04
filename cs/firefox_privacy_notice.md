@@ -86,7 +86,7 @@ Dle výchozího nastavení u verzí Firefoxu pro stolní počítač vás požád
 
     _U stolních počítačů_: Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu. To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo před instalací [zrušte volbu](https://support.mozilla.org/kb/desktop-privacy).
 
-    _U mobilních telefonů_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/).  Údaje o mobilních kampaních zahrnují ID reklamy Google nebo ID systému Android, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _U mobilních telefonů_: Firefox dle výchozího nastavení zasílá mobilní kampaně společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/). Údaje o mobilních kampaních zahrnují ID reklamy Google nebo ID systému Android, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest a Top Pick {: #searches }

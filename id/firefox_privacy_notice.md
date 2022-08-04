@@ -86,7 +86,7 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 
     _Di Desktop_: Secara default Firefox mengirim data HTTP Mozilla yang mungkin mencakup penginstal Firefox. Ini memungkinkan kami untuk menentukan domain situs web atau kampanye iklan (jika ada) yang merujuk Anda ke halaman unduh kami. Baca [dokumentasi](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [tolak](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri.  Data kampanye seluler mencakup ID iklan Google atau ID Android, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google atau ID Android, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest dan Top Pick {: #searches }

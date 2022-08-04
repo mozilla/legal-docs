@@ -86,7 +86,7 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
     _Desktop_: Firefox sendet standardmäßig HTTP-Daten an Mozilla, die im Firefox-Installationsprogramm enthalten sein können. Dadurch können wir die Website-Domain oder ggf. die Werbekampagne ermitteln, die Sie auf unsere Download-Seite verwiesen hat. Lesen Sie die [Dokumentation ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oder [melden Sie sich von dieser Funktion ab](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Mobil_: Firefox für iOS und Android sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat.  Mobilkampagnendaten umfassen eine Google-Werbungs-ID oder Android-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Mobil_: Firefox für iOS und Android sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat. Mobilkampagnendaten umfassen eine Google-Werbungs-ID oder Android-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest und Top Pick {: #searches }

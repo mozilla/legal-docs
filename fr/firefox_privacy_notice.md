@@ -86,7 +86,7 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
     _Sur ordinateur_ : Par défaut, Firefox envoie à Mozilla les données HTTP qui peuvent être incluses avec le programme d’installation de Firefox. Cela nous permet de déterminer le domaine ou la campagne publicitaire (le cas échéant) du site Web qui vous a dirigé vers notre page de téléchargement. Lisez la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [annulez](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Sur les mobiles_ : Par défaut, Firefox for iOS et Android envoient des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/).  Les données de campagne mobiles incluent ce qui suit : ID de publicité Google ou ID Android, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Sur les mobiles_ : Par défaut, Firefox for iOS et Android envoient des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/). Les données de campagne mobiles incluent ce qui suit : ID de publicité Google ou ID Android, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest et Top Pick {: #searches }

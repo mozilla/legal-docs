@@ -86,7 +86,7 @@ Mozilla および Pocket は、あなたが表示およびクリックしたお�
 
     _デスクトップの場合_:Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。[ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みいただくか、[オプトアウト](https://support.mozilla.org/kb/desktop-privacy) before installation してください。
 
-    _モバイルの場合_: iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。  モバイルキャンペーンデータには、Google の広告 ID または Android ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
+    _モバイルの場合_: iOS および Android 用の Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。 モバイルキャンペーンデータには、Google の広告 ID または Android ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
 {: #thirdparty }
 
 ### Firefox Suggest と Top Pick {: #searches }
