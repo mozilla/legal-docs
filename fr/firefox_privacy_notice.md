@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Politique de confidentialité</span>
 
-*Date d'effet : lundi 30 mai 2022*
-{: datetime="2022-05-30" }
+*Date d'effet : 1er août 2022*
+{: datetime="2022-08-01" }
 
 ## Chez Mozilla, nous pensons que la vie privée est fondamentale pour sécuriser Internet.
 
@@ -26,7 +26,12 @@ Vous pouvez effectuer des recherches directement de plusieurs endroits dans Fire
 
 * __Données de localisation__ : Lors de votre première utilisation, Firefox, se sert de votre adresse IP pour définir le fournisseur de recherche en fonction de votre pays. [En savoir plus](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Requêtes de recherche__ : Firefox envoie par défaut les requêtes de recherche à votre fournisseur de recherche pour les comparer aux expressions courantes recherchées par d’autres utilisateurs afin d’améliorer votre expérience de recherche, si votre fournisseur de recherche est capable de traiter ces suggestions. [En savoir plus](https://support.mozilla.org/kb/search-suggestions-firefox), notamment sur la désactivation de cette fonctionnalité. Si vous activez Firefox Suggest, nous (et nos partenaires) pourrons recevoir vos requêtes de recherche. [En savoir plus ci-dessous](#searches). 
+* __Requêtes de recherche__ : Firefox envoie par défaut les requêtes de recherche à votre fournisseur de recherche pour les comparer aux expressions courantes recherchées par d’autres utilisateurs afin d’améliorer votre expérience de recherche, si votre fournisseur de recherche est capable de traiter ces suggestions. [En savoir plus](https://support.mozilla.org/kb/search-suggestions-firefox), notamment sur la désactivation de cette fonctionnalité. Les liens vers nos fournisseurs de recherche par défaut sont les suivants :
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Si vous activez « Améliorer l’expérience Firefox Suggest », nous (et nos partenaires) pourrons également recevoir vos requêtes de recherche. [En savoir plus ci-dessous](#searches). 
 
 ### Recommander un contenu pertinent
 
@@ -81,7 +86,7 @@ Lisez la documentation complète [ici](https://firefox-source-docs.mozilla.org/t
 
     _Sur ordinateur_ : Par défaut, Firefox envoie à Mozilla les données HTTP qui peuvent être incluses avec le programme d’installation de Firefox. Cela nous permet de déterminer le domaine ou la campagne publicitaire (le cas échéant) du site Web qui vous a dirigé vers notre page de téléchargement. Lisez la [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [annulez](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Sur les mobiles_ : Par défaut, Firefox for iOS et Android envoient des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/). Les données de campagne mobiles incluent ce qui suit : ID de publicité Google, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Sur les mobiles_ : Par défaut, Firefox for iOS et Android envoient des données de campagnes mobiles à Adjust, notre prestataire d’analyses, qui dispose de sa propre [politique de confidentialité](https://www.adjust.com/terms/privacy-policy/). Les données de campagne mobiles incluent ce qui suit : ID de publicité Google ou ID Android, adresse IP, heure/date, pays, langue, système d’exploitation et version de l’application. Voir la [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest et Top Pick {: #searches }

@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Hatályos: 2022. május 30-ától*
-{: datetime="2022-05-30" }
+*Hatályos: 2022. augusztus 1-től*
+{: datetime="2022-08-01" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
 
@@ -26,7 +26,12 @@ A Firefoxban több helyről is végezhet keresést közvetlenül, például a cs
 
 * __Helyadatok__: Amikor először használja a Firefoxot, az az IP-címét használja az alapértelmezett keresőszolgáltató beállításához az országa alapján. [Tudjon meg többet](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Keresési lekérdezések__: A Firefox alapértelmezés szerint elküldi a keresőkérdéseket a keresőszolgáltatónak, hogy segítsen felfedezni a mások által keresett gyakori kifejezéseket, és javítsa a keresési élményt, ha a kiválasztott keresőszolgáltató támogatja a keresési javaslatokat. [Tudjon meg többet](https://support.mozilla.org/kb/search-suggestions-firefox), többek között ennek a funkciónak a kikapcsolásáról. Ha engedélyezi a Firefox javaslattevő funkcióját, mi és partnereink is megkaphatjuk az Ön keresési lekérdezéseit. [Tudjon meg többet alább](#searches). 
+* __Keresési lekérdezések__: A Firefox alapértelmezés szerint elküldi a keresőkérdéseket a keresőszolgáltatónak, hogy segítsen felfedezni a mások által keresett gyakori kifejezéseket, és javítsa a keresési élményt, ha a kiválasztott keresőszolgáltató támogatja a keresési javaslatokat. [Tudjon meg többet](https://support.mozilla.org/kb/search-suggestions-firefox), többek között ennek a funkciónak a kikapcsolásáról. Az alapértelmezett keresőszolgáltatóink linkjei:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Ha engedélyezi a „Firefox javaslattevő funkciójának javítását”, mi és partnereink is megkaphatjuk az Ön keresési lekérdezéseit. [További információkat talál lent](#searches). 
 
 ### A releváns tartalom ajánlása
 
@@ -81,7 +86,7 @@ Olvassa el a teljes dokumentációt [itt](https://firefox-source-docs.mozilla.or
 
     _Asztali számítógépen_: A Firefox alapértelmezés szerint Mozilla HTTP-adatokat küld, amelyeket a Firefox telepítője tartalmazhat. Ez lehetővé teszi számunkra, hogy meghatározzuk a weboldal domainjét vagy a reklámkampányt (ha van ilyen), amely a letöltési oldalunkra irányította Önt. Olvassa el a [dokumentációt](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution), vagy [lépjen ki](https://support.mozilla.org/kb/desktop-privacy) a telepítés előtt.
 
-    _Mobilon_: Az iOS-ra és Androidra tervezett Firefox alapértelmezés szerint mobil kampányadatokat küld az Adjustnak, elemzési szolgáltatónknak, akinek saját [adatvédelmi irányelvei vannak](https://www.adjust.com/terms/privacy-policy/). A mobilkampányok adatai tartalmazzák a Google hirdetési azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Mobilon_: Az iOS-re és Androidra tervezett Firefox alapértelmezés szerint a mobileszközök kampányadatait elküldi az Adjustnak, elemzési szolgáltatónknak, amelynek saját [adatvédelmi irányelvei vannak](https://www.adjust.com/terms/privacy-policy/). A mobilkampányok adatai tartalmazzák a Google hirdetési azonosítót vagy az Android-azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suffest és Top Pick {: #searches }

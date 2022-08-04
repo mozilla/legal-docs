@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-*Gültig ab Montag, 30. Mai 2022*
-{: datetime="2022-05-30" }
+*Gültig ab 1. August 2022*
+{: datetime="2022-08-01" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -26,7 +26,12 @@ Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunt
 
 * __Standortdaten__: Wenn Sie Firefox zum ersten Mal verwenden, legt das Programm anhand Ihrer IP-Adresse und Ihres Landes einen Standardsuchanbieter fest. [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Suchanfragen__: Firefox sendet Suchanfragen standardmäßig an Ihren Suchanbieter, damit Sie Suchbegriffe entdecken, nach denen andere Benutzer bereits häufig gesucht haben, und um Ihre Sucherfahrung zu verbessern, sofern Ihr Suchanbieter Suchempfehlungen unterstützt. [Weitere Informationen](https://support.mozilla.org/kb/search-suggestions-firefox), darunter Angaben dazu, wie Sie diese Funktion deaktivieren können. Wenn Sie Firefox Suggest aktivieren, können auch wir und unsere Partner Ihre Suchanfragen erhalten. [Weitere Informationen nachstehend](#searches). 
+* __Suchanfragen__: Firefox sendet Suchanfragen standardmäßig an Ihren Suchanbieter, damit Sie Suchbegriffe entdecken, nach denen andere Benutzer bereits häufig gesucht haben, und um Ihre Sucherfahrung zu verbessern, sofern Ihr Suchanbieter Suchempfehlungen unterstützt. [Weitere Informationen](https://support.mozilla.org/kb/search-suggestions-firefox), darunter Angaben dazu, wie Sie diese Funktion deaktivieren können. Links zu unseren Standard-Suchanbietern:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Wenn Sie die Funktion „Improve the Firefox Suggest Experience“ aktivieren, können auch wir und unsere Partner Ihre Suchanfragen erhalten. [Weitere Informationen nachstehend](#searches). 
 
 ### Empfehlen relevanter Inhalte
 
@@ -81,7 +86,7 @@ Standardmäßig bitten wir Sie in den Desktop-Versionen von Firefox, einen Beric
 
     _Desktop_: Firefox sendet standardmäßig HTTP-Daten an Mozilla, die im Firefox-Installationsprogramm enthalten sein können. Dadurch können wir die Website-Domain oder ggf. die Werbekampagne ermitteln, die Sie auf unsere Download-Seite verwiesen hat. Lesen Sie die [Dokumentation ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) oder [melden Sie sich von dieser Funktion ab](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Mobil_: Firefox für iOS und Android sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat. Mobilkampagnendaten umfassen eine Google-Werbungs-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Mobil_: Firefox für iOS und Android sendet standardmäßig Mobilkampagnendaten an Adjust, unseren Analyseanbieter, der eine eigene [Datenschutzerklärung](https://www.adjust.com/terms/privacy-policy/) hat. Mobilkampagnendaten umfassen eine Google-Werbungs-ID oder Android-ID, die IP-Adresse, einen Zeitstempel, das Land, die Sprache/das Gebietsschema, das Betriebssystem und die App-Version. Lesen Sie die [Dokumentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest und Top Pick {: #searches }
