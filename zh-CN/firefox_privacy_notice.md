@@ -28,6 +28,11 @@
 
 * __搜索查询__：默认情况下，如果您选择的搜索提供商支持搜索建议，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。[了解详情](https://support.mozilla.org/kb/search-suggestions-firefox)，包括如何禁用此功能。我们的默认搜索提供商的链接如下：
 
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* 如果启用了“改进 Firefox Suggest 体验”，我们和我们的合作伙伴也可能会收到您的搜索查询。[在下方了解更多信息](#searches)。 
+
 ### 推荐相关内容
 
 Firefox 会显示内容，例如附加组件建议、热门站点（Mozilla 为首次使用 Firefox 的用户建议的网站）和 Pocket 推荐（Mozilla 系列的一部分）。
