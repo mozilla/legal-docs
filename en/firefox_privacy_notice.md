@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective May 30, 2022*
-{: datetime="2022-05-30" }
+*Effective August 1, 2022*
+{: datetime="2022-08-01" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -26,7 +26,12 @@ You can perform searches directly from several places in Firefox, including the 
 
 * __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. [Learn more](https://support.mozilla.org/kb/search-suggestions-firefox), including how to disable this feature. If you enable Firefox Suggest, we and our partners may also receive your search queries. [Learn more below](#searches). 
+* __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. [Learn more](https://support.mozilla.org/kb/search-suggestions-firefox), including how to disable this feature. Links to our default search providers are:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* If you enable "Improve the Firefox Suggest Experience," we and our partners may also receive your search queries. [Learn more below](#searches). 
 
 ### Recommend relevant content
 
@@ -81,7 +86,7 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
     _On Desktop_: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt-out](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _On Mobile_: Firefox for iOS and Android by default send mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _On Mobile_: Firefox for iOS and Android by default send mobile campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/).  Mobile campaign data includes a Google advertising ID or Android ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest and Top Pick {: #searches }
