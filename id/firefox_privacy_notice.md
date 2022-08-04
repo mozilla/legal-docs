@@ -1,7 +1,7 @@
 ﻿## Pemberitahuan Privasi <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*Berlaku 30 Mei 2022*
-{: datetime="2022-05-30" }
+*Berlaku 1 Agustus 2022*
+{: datetime="2022-08-01" }
 
 ## Di Mozilla, kami meyakini bahwa privasi adalah fundamental internet sehat.
 
@@ -26,7 +26,12 @@ Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk
 
 * __Data lokasi__: Jika Anda menggunakan Firefox pertama kali, data lokasi akan menggunakan alamat IP Anda untuk mengatur penyedia pencarian default berdasarkan negara Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Kueri pencarian__: Firefox secara default mengirimkan kueri pencarian ke penyedia pencarian Anda untuk membantu menemukan frasa umum yang pernah dicari orang lain dan meningkatkan pengalaman pencarian Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/search-suggestions-firefox), termasuk cara menonaktifkan fitur ini. Jika Anda mengaktifkan Firefox Suggest, kami dan mitra kami juga bisa menerima kueri pencarian Anda. [Pelajari selengkapnya di bawah ini](#searches). 
+* __Kueri pencarian__: Firefox secara default mengirimkan kueri pencarian ke penyedia pencarian Anda untuk membantu menemukan frasa umum yang pernah dicari orang lain dan meningkatkan pengalaman pencarian Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/search-suggestions-firefox), termasuk cara menonaktifkan fitur ini. Jika Anda mengaktifkan Tautan ke penyedia pencarian baku kami adalah:
+
+  * [Google](https://policies.google.com/privacy)
+  * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+* Jika Anda mengaktifkan “Tingkatkan Pengalaman Firefox Suggest”, kami dan mitra kami juga bisa menerima kueri pencarian Anda. [Pelajari selengkapnya di bawah ini](#searches). 
 
 ### Menyarankan konten yang relevan
 
@@ -81,7 +86,7 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 
     _Di Desktop_: Secara default Firefox mengirim data HTTP Mozilla yang mungkin mencakup penginstal Firefox. Ini memungkinkan kami untuk menentukan domain situs web atau kampanye iklan (jika ada) yang merujuk Anda ke halaman unduh kami. Baca [dokumentasi](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [tolak](https://support.mozilla.org/kb/desktop-privacy) before installation.
 
-    _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+    _Di Seluler_: Firefox untuk iOS dan Android secara default mengirim data kampanye ke Adjust, vendor analitis kami, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Data kampanye seluler mencakup ID iklan Google atau ID Android, alamat IP, tanda waktu, negara, bahasa, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ### Firefox Suggest dan Top Pick {: #searches }
