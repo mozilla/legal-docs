@@ -1,6 +1,6 @@
 # Mozilla’s Ad-Targeting Guidelines
 
-Mozilla keeps privacy in mind when we conduct our own marketing and contract with vendors that help us with our marketing. We apply the following guidelines to our marketing efforts.
+Mozilla keeps privacy in mind when we conduct our own marketing and contracts with vendors that help us with our marketing. We apply the following guidelines to our marketing efforts.
 
 ### Prohibited Targeting Tactics:
 
