@@ -1,15 +1,15 @@
 # Mozilla’s Ad-Targeting Guidelines
 
-Mozilla keeps privacy in mind when we conduct our own marketing and contracts with vendors that help us with our marketing. We apply the following guidelines to our marketing efforts.
+Mozilla keeps privacy in mind when we conduct our marketing. We apply the following guidelines to our marketing efforts.
 
 ### Prohibited Targeting Tactics:
 
-Agencies conducting work for Mozilla must avoid targeting tactics that utilize specific styles of 1st -party and 3rd-party data that may infringe on a user’s personal experience online. Those tactics include the following:
+Agencies conducting work for Mozilla must avoid targeting tactics that utilize specific styles of 1st-party and 3rd-party data that may infringe on a user’s personal experience online. Those tactics include the following:
 
 * No Site Retargeting - Site Retargeting is a tactic utilized by advertisers in which users are anonymously cookied after visiting an advertiser’s website. When the user leaves that website, they are “retargeted” meaning the user is exposed to additional ads from that same advertiser as they surf the web.
 * No Impression Retargeting - Impression Retargeting is a tactic utilized by advertisers in which users are anonymously cookied after being exposed to a brand message from that advertiser. After the user is exposed to the initial ad, they are “retargeted” meaning the user is exposed to additional ads from that same advertiser as they surf the web.
 * No Cross-Device Targeting - An advertiser is able to target the same user across multiple devices. For example, when a user is on their laptop, sees an advertisement, then goes to their tablet later on, and sees the same vendor ad, that vendor could be utilizing cross-device targeting to target the user.
-* No Using Mozilla 1st-party Data to Build Look-A-Like Targets - Many publishers and partners offer look-a-like (LAL) targeting that requires an upload of 1st -party data to build those audience targets. We prohibit the use or sharing of our 1st -party data outside of our opted-in owned channels (email, for example).
+* No Using Mozilla 1st-party Data to Build Look-A-Like Targets - Many publishers and partners offer look-a-like (LAL) targeting that requires an upload of 1st-party data to build those audience targets. We prohibit the use or sharing of our 1st-party data outside of our opted-in owned channels (email, for example).
 
 
 ### Approved Targeting Tactics:
