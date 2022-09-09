@@ -21,6 +21,7 @@ List of translated files (number of locales between parentheses):
 * websites_tou.md (21)
 
 List of files not translated:
+* AdTargeting_Guidelines.md
 * better_web_privacy.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
