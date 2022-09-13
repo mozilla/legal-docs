@@ -1,7 +1,7 @@
 ﻿# Firefox Relay-Servicebedingungen
 
-Version 1.3, gültig ab 10. März 2022
-{: datetime="2022-03-10" }
+Version 1.3, gültig ab 16. September 2022
+{: datetime="2022-09-16" }
 
 Firefox Relay (der „Dienst“) ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellen, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen.
 
