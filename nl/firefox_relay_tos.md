@@ -1,6 +1,6 @@
 ﻿# Servicevoorwaarden van Firefox Relay
 
-Versie 1.3, van kracht vanaf donderdag 16 september 2022
+Versie 1.4, van kracht vanaf donderdag 16 september 2022
 {: datetime="2022-09-16" }
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden ten aanzien van online services. U maakt voor dit doel unieke alias-e-mailadressen waarmee u e-mail kunt verzenden en ontvangen, zonder dat uw primaire e-mailadres bekend wordt.
