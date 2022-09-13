@@ -21,7 +21,7 @@ __Ihre Nutzung der Dienste.__ Mozilla räumt Ihnen die Berechtigung ein, Firefox
 
 Sie räumen Mozilla alle Rechte ein, die für den Betrieb des Dienstes erforderlich sind, einschließlich des Rechts zur Verarbeitung Ihrer E-Mail-Adressen, der von Ihnen erstellten Aliase und Alias-Labels sowie der E-Mails, die Sie über den Dienst senden und empfangen. Wir lesen und speichern den Inhalt Ihrer Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.) Wenn Sie die Funktion zum Blockieren von Werbemails nutzen, überprüft der Dienst den Header der E-Mails, um festzustellen, ob eine E-Mail blockiert werden muss. 
 
-Der Dienst sendet E-Mail-Anhänge nur bis zu einer Größe von 25 MB. Größere Anhänge werden gelöscht.
+Der Dienst sendet E-Mail-Anhänge nur bis zu einer Größe von 10 MB. Größere Anhänge werden gelöscht.
 
 Wenn Sie mehr über die Funktionsweise des Dienstes erfahren möchten, können Sie von Mozilla bereitgestellten [Quellcode](https://github.com/mozilla/fx-private-relay) einsehen.
 

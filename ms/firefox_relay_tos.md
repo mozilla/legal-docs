@@ -21,7 +21,7 @@ __Penggunaan Perkhidmatan oleh Anda.__ Mozilla memberi anda kebenaran untuk meng
 
 Anda memberi semua hak yang perlu kepada Mozilla untuk mengendalikan Perkhidmatan, termasuk memproses alamat e-mel anda, alias dan label alias yang anda cipta dan e-mel yang anda hantar dan terima melalui Perkhidmatan. Kami tidak membaca atau menyimpan kandungan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari). Jika anda menggunakan ciri untuk menyekat e-mel promosi, Perkhidmatan ini akan memeriksa pengepala e-mel untuk menentukan sama ada e-mel perlu disekat. 
 
-Perkhidmatan ini hanya akan menghantar lampiran e-mel sehingga 25 megabait. E-mel yang lebih besar akan dihapuskan.
+Perkhidmatan ini hanya akan menghantar lampiran e-mel sehingga 10 megabait. E-mel yang lebih besar akan dihapuskan.
 
 Untuk mengetahui lebih lanjut tentang cara Perkhidmatan bekerja, anda boleh melihat [kod sumber](https://github.com/mozilla/fx-private-relay) Mozilla.
 

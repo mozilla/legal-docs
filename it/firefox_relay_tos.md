@@ -21,7 +21,7 @@ __Utilizzo del Servizio.__ Mozilla ti permette di usare Firefox Relay in base ai
 
 Concedi a Mozilla tutti i diritti necessari per garantire il corretto funzionamento del Servizio, incluso il diritto elaborare i tuoi indirizzi email, gli alias e le etichette alias da te creati, così come le email che invii e ricevi mediante il Servizio. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). Se usi la funzione di blocco delle email pubblicitarie, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate. 
 
-Il Servizio invierà solo allegati email di dimensioni non superiori ai 25 megabyte. Le email più grandi saranno eliminate.
+Il Servizio invierà solo allegati email di dimensioni non superiori ai 10 megabyte. Le email più grandi saranno eliminate.
 
 Per maggiori informazioni sul funzionamento del Servizio, puoi consultare il [codice sorgente](https://github.com/mozilla/fx-private-relay) di Mozilla.
 
