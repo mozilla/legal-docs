@@ -1,7 +1,7 @@
 ﻿# Terma Perkhidmatan Firefox Relay
 
-Versi 1.3, berkuat kuasa pada 10 Mac 2022
-{: datetime="2022-03-10" }
+Versi 1.4, berkuat kuasa pada 16 September 2022
+{: datetime="2022-09-16" }
 
 Firefox Relay (“Perkhidmatan”) membolehkan anda mengekalkan alamat e-mel utama anda selamat dan sulit daripada perkhidmatan dalam talian dengan mencipta alamat e-mel alias yang unik yang membolehkan anda menghantar dan menerima e-mel tanpa mendedahkan alamat e-mel utama anda.
 
@@ -21,7 +21,7 @@ __Penggunaan Perkhidmatan oleh Anda.__ Mozilla memberi anda kebenaran untuk meng
 
 Anda memberi semua hak yang perlu kepada Mozilla untuk mengendalikan Perkhidmatan, termasuk memproses alamat e-mel anda, alias dan label alias yang anda cipta dan e-mel yang anda hantar dan terima melalui Perkhidmatan. Kami tidak membaca atau menyimpan kandungan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari). Jika anda menggunakan ciri untuk menyekat e-mel promosi, Perkhidmatan ini akan memeriksa pengepala e-mel untuk menentukan sama ada e-mel perlu disekat. 
 
-Perkhidmatan ini hanya akan menghantar lampiran e-mel sehingga 25 megabait. E-mel yang lebih besar akan dihapuskan.
+Perkhidmatan ini hanya akan menghantar lampiran e-mel sehingga 10 megabait. E-mel yang lebih besar akan dihapuskan.
 
 Untuk mengetahui lebih lanjut tentang cara Perkhidmatan bekerja, anda boleh melihat [kod sumber](https://github.com/mozilla/fx-private-relay) Mozilla.
 
