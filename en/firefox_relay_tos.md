@@ -21,7 +21,7 @@ __Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay a
 
 You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked. 
 
-The Service will only send email attachments up to 10 megabytes. Larger emails are deleted. 
+The Service will only send email attachments up to 25 megabytes. Larger emails are deleted. 
 
 To learn more about how the Service works, you can see Mozilla’s [source code](https://github.com/mozilla/fx-private-relay).
 

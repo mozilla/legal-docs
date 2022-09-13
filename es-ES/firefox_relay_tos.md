@@ -21,7 +21,7 @@ __Su uso del Servicio.__ Mozilla le da permiso para usar Firefox Relay de acuerd
 
 Usted le otorga a Mozilla todos los derechos necesarios para operar el Servicio, incluido el procesamiento de sus direcciones de correo electrónico, alias y etiquetas de alias que crea y el correo que envía y recibe a través del Servicio. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hemos entregado (en ningún caso se conservará durante más de tres días). Si usa la función para bloquear correos electrónicos promocionales, el Servicio verificará los encabezados de los correos electrónicos para determinar si el correo electrónico debe bloquearse. 
 
-El Servicio solo enviará archivos adjuntos de correo electrónico de hasta 10 megabytes. Los correos electrónicos más grandes se eliminan.
+El Servicio solo enviará archivos adjuntos de correo electrónico de hasta 25 megabytes. Los correos electrónicos más grandes se eliminan.
 
 Para obtener más información sobre cómo funciona el Servicio, consulte el [código fuente de Mozilla](https://github.com/mozilla/fx-private-relay).
 
