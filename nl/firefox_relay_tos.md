@@ -1,7 +1,7 @@
 ﻿# Servicevoorwaarden van Firefox Relay
 
-Versie 1.3, van kracht vanaf donderdag 10 maart 2022
-{: datetime="2022-03-10" }
+Versie 1.4, van kracht vanaf donderdag 16 september 2022
+{: datetime="2022-09-16" }
 
 Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé houden ten aanzien van online services. U maakt voor dit doel unieke alias-e-mailadressen waarmee u e-mail kunt verzenden en ontvangen, zonder dat uw primaire e-mailadres bekend wordt.
 
@@ -21,7 +21,7 @@ __Uw gebruik van de Service.__ Mozilla geeft u toestemming om Firefox Relay te g
 
 U geeft Mozilla alle vereiste rechten die nodig zijn om de Service uit te voeren, waaronder verwerking van uw e-mailadressen, de aliassen en aliaslabels die u maakt en de e-mails die u verzendt en ontvangt via de Service. We lezen en bewaren de content van uw berichten nooit. In het geval dat een e-mail niet aan u kan worden bezorgd, bewaren we deze op onze servers en verwijderen we deze nadat de e-mail is bezorgd (in geen enkel geval bewaren we het bericht langer dan drie dagen). Als u de functie gebruikt voor het blokkeren van reclamegebonden e-mail, controleert de Service de e-mailheaders om te bepalen of een e-mail wel of niet moet worden geblokkeerd. 
 
-De Service verzend alleen e-mailbijlagen tot een maximale grootte van 25 MB. Grotere e-mailbijlagen worden geblokkeerd.
+De Service verzend alleen e-mailbijlagen tot een maximale grootte van 10 MB. Grotere e-mailbijlagen worden geblokkeerd.
 
 Bekijk de [broncode](https://github.com/mozilla/fx-private-relay) voor meer informatie over hoe de Service werkt.
 

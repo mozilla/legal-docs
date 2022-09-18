@@ -1,7 +1,7 @@
 ﻿# Conditions d’utilisation de Firefox Relay
 
-Version 1.3 - Date d’effet : jeudi 10 mars 2022
-{: datetime="2022-03-10" }
+Version 1.4 - Date d’effet : jeudi 16 septembre 2022
+{: datetime="2022-09-16" }
 
 Firefox Relay (le « Service ») vous permet de sécuriser votre adresse email principale dans le contexte des services en ligne en créant des alias d’adresses email uniques qui vous permettent d’envoyer et de recevoir des emails sans révéler votre adresse email principale.
 
@@ -21,7 +21,7 @@ __Votre utilisation du Service.__ Mozilla vous autorise à utiliser Firefox Rela
 
 Vous accordez à Mozilla tous les droits nécessaires au fonctionnement du Service, notamment le traitement de vos adresses email, de vos alias et libellés d’alias que vous créez et des emails que vous envoyez et recevez par le biais du Service. Nous ne lisons ni ne stockons le contenu de vos messages. Si un email ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). Si vous utilisez la fonction de blocage des emails promotionnels, le Service vérifiera les en-têtes des emails pour déterminer si ces derniers doivent être bloqués. 
 
-Le Service limite la taille des pièces jointes aux emails à 25 Mo. Les emails dépassant cette taille seront supprimés.
+Le Service limite la taille des pièces jointes aux emails à 10 Mo. Les emails dépassant cette taille seront supprimés.
 
 Pour en savoir plus sur le fonctionnement du Service, consultez le [code source](https://github.com/mozilla/fx-private-relay) de Mozilla.
 
