@@ -10,7 +10,7 @@ These Terms of Service explain your rights and responsibilities when you use Hub
 ## 1. Subscribing to Hubs
 
 ### You’ll Need A Firefox Account
-A Firefox Account is required to use the Service. To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
+A Firefox account is required to use the Service. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
 
 ### Your Privacy
 __Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/) explains how Mozilla receives and handles data to operate the Service.
@@ -23,7 +23,7 @@ __Payment.__ We offer the Service as an automatically renewing subscription serv
 __14-Day Refund Policy.__ The first time you subscribe to the Service through Mozilla's website, if you cancel your account within the first 14 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
 ### You May Cancel Your Subscription at Any Time
-__Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
+__Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## 2. Communications and Content
 Hubs allows your users to send information (such as audio, video, text, images, 3D models, and scenes) to other users.
@@ -43,7 +43,7 @@ By using Hubs, you agree that you will comply with Mozilla’s [Conditions of Us
 
 __Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in the United States, Canada, and the United Kingdom.
 
-__Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox Account associated with the Hubs instance. 
+__Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox account associated with the Hubs instance. 
 
 With a paid subscription, you may have up to 25 users per Hubs room and up to 6GB of storage space for your Hubs.
 
