@@ -12,7 +12,7 @@ This privacy notice explains what data Firefox Relay and Mozilla VPN collect, sh
 
 ## Things You Should Know
 
-__Firefox Account information.__ These Services require a Firefox Account, which sends Mozilla your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Firefox account information.__ These Services require a Firefox account, which sends Mozilla your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
 __Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
@@ -46,7 +46,7 @@ __Information We Share.__ Firefox Relay shares information with third parties to
 
 ## Other Information You Should Know
 
-Much of the information that we store about our Firefox Account users is easily accessible by logging into your account. You can [learn more about managing your data](https://support.mozilla.org/products/privacy-and-security/user-control). To make requests, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+Much of the information that we store about our Firefox account users is easily accessible by logging into your account. You can [learn more about managing your data](https://support.mozilla.org/products/privacy-and-security/user-control). To make requests, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
 If you have any other questions regarding our privacy practices, please contact us at compliance@mozilla.com.
 
