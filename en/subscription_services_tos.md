@@ -13,31 +13,31 @@ Please read these Terms of Service carefully because they explain important info
 
 ## Subscribing to Mozilla Services
 
-#### You’ll Need A Firefox Account
+### You’ll Need A Firefox Account
 A Firefox account is required to use the Services. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
 
-#### Your Privacy
+### Your Privacy
 The [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services) explains what information is sent when you use the Services and how we handle and share that information.
 
 Mozilla is a global organization, and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information might be processed on servers located outside of the country where you live, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information.
 
-#### Your Payment
+### Your Payment
 __Payment.__ We offer the Services as automatically renewing subscription services. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service(s) you sign up for. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
 __30-Day Refund Policy.__ The first time you subscribe to the Services through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 Purchasing through Apple or Google App Stores. If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
-#### You May Cancel Your Subscription at Any Time
+### You May Cancel Your Subscription at Any Time
 You may cancel your subscription to the Services at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Services or by going to the [Subscriptions & Payments](https://accounts.firefox.com/subscriptions/) section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## Mozilla VPN
 
 We only offer Mozilla VPN as a paid subscription service.
 
-#### You Must Be Eligible
+### You Must Be Eligible
 You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States. 
 
-#### Permissions Necessary to Provide Mozilla VPN
+### Permissions Necessary to Provide Mozilla VPN
 Mozilla VPN is a Virtual Private Network in partnership with Mullvad. To learn more about how the Service works, you can see Mozilla’s source code for the VPN program.
 
 __Your Use of the Service.__ If you have a current, paid subscription to Mozilla VPN, Mozilla gives you permission to use the Mozilla VPN according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.
@@ -51,16 +51,16 @@ Your License to Use the Software. The Mozilla VPN software is made available to 
 ## Firefox Relay
 We offer Firefox Relay as either a free service or a paid subscription service. The phone number masking service is a partnership with Twilio. 
 
-#### You Must Be Eligible
+### You Must Be Eligible
 To use the paid subscription service, you must be in a country where Firefox Relay is available. 
 
 * Currently, the phone number masking service is only available in the United States and Canada. 
 * The email masking service is available in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
 
-#### Permissions Necessary to Provide Firefox Relay
+### Permissions Necessary to Provide Firefox Relay
 __Your Use of Relay.__ If you have a current, paid subscription to Firefox Relay, Mozilla gives you permission to use it according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit Firefox Relay. You are solely responsible for the Content you transmit and the consequences.
 
-You give Mozilla and Twilio all rights necessary to operate Firefox Relay, including processing your email address and phone number as well as sending and receiving the emails, phone calls, and text messages sent to and from the masks you create.  In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). 
+You give Mozilla and Twilio all rights necessary to operate Firefox Relay, including processing your email address and phone number as well as sending and receiving the emails, phone calls, and text messages sent to and from the masks you create. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). 
 
 We store a log of the phone numbers you’ve contacted through Relay in order to show your call and text logs, send text replies and block phone numbers. Mozilla has set the Twilio service to delete its records of the text messages you send and receive through Firefox Relay after 7 days. We do not monitor or store the content of phone calls you make through Firefox Relay.
 
@@ -82,7 +82,7 @@ __Your Feedback and Suggestions.__ If you give Mozilla any ideas, suggestions, o
 
 __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any copyrights, trademarks, or other distinctive brand features of Mozilla or its licensors. 
 
-#### You Are Responsible For the Consequences of Your Use of the Service
+### You Are Responsible For the Consequences of Your Use of the Service
 
 * You also agree that your use of the Services will comply with Mozilla’s Conditions of Use.
 * You assure Mozilla that you will not use the Services to infringe anyone’s rights or violate any law.
