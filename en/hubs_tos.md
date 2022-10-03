@@ -16,13 +16,14 @@ A Firefox Account is required to use the Service. To create a Firefox Account, y
 __Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/) explains how Mozilla receives and handles data to operate the Service.
 
 Mozilla is a global organization, and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information and your users’ information might be processed on servers located outside of the country where you and your users live, and that country may have a different level of data protection regulation than yours. By using the Service, you assure Mozilla that you consent to this kind of transfer of users’ information and that you have obtained necessary consent from the individuals who use your Hubs.
-Your Payment
 
+### Your Payment
 __Payment.__ We offer the Service as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
 __14-Day Refund Policy.__ The first time you subscribe to the Service through Mozilla's website, if you cancel your account within the first 14 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
-You May Cancel Your Subscription at Any Time
-Cancellation. You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
+
+### You May Cancel Your Subscription at Any Time
+__Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## 2. Communications and Content
 Hubs allows your users to send information (such as audio, video, text, images, 3D models, and scenes) to other users.
@@ -30,16 +31,19 @@ Hubs allows your users to send information (such as audio, video, text, images, 
 By signing up for and creating your Hubs, you agree to give Mozilla all rights necessary to operate Hubs. You also assure Mozilla that you have, or have obtained, the rights and authority necessary to grant Mozilla all rights and permissions necessary for the operation of Hubs. This includes, but is not limited to, a license and permission to process, transmit, and display the information you and your users send through Hubs. It also includes permission to gather and share information as described in the [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/).
 
 When you and your users submit information to Hubs, the original creator of that information continues to own the rights to their content. You grant Mozilla a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works from, distribute, perform, and display that information, audio, video, images, or 3D models for the purpose of operating Hubs. You also agree that we may remove metadata associated with the information or data you submit. If you or one of your users allows remixing of a scene or avatar, you agree to license that scene or avatar under a [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode) license.
+
 To learn more about how Hubs operates, you can see the [source code](https://github.com/mozilla/hubs). 
 
 Any ideas, suggestions, and feedback about Hubs that you provide to us are entirely voluntary, and you agree that Mozilla may use such ideas, suggestions, and feedback without compensation or obligation to you.
+
 You are responsible for the information you and your users send, create, or edit using Hubs, and the consequences of sending, creating, or editing that information.
 
 ## 3. Conditions of Use
 By using Hubs, you agree that you will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any Hub or individual room it reasonably believes has violated these conditions.
 
 __Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in the United States, Canada, and the United Kingdom.
-Your Use of Hubs. If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox Account associated with the Hubs instance. 
+
+__Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox Account associated with the Hubs instance. 
 
 With a paid subscription, you may have up to 25 users per Hubs room and up to 6GB of storage space for your Hubs.
 
@@ -53,7 +57,7 @@ Mozilla distributes the Hubs software under an open source license. To learn mor
 ## 5. Services Interruption; Term; Termination
 We are continuing to develop Hubs. As a result, we plan to upgrade and change Hubs over time. To do this, we might have to temporarily suspend their service and it is not always possible for us to give notice. You will not be entitled to claim expenses or damages for such suspension or limitation of the use of Hubs.
 
-We may cut off your access to Hubs, either temporarily or permanently at any time for any reason. This includes, but is not limited to, situations where we reasonably believe: (i) you have violated these Terms (ii) you create risk or possible legal exposure for Mozilla; or (iii) providing and operating Hubs is no longer commercially viable. If possible, we will make reasonable efforts to notify you through the relevant program, either Hubs .
+We may cut off your access to Hubs, either temporarily or permanently at any time for any reason. This includes, but is not limited to, situations where we reasonably believe: (i) you have violated these Terms; (ii) you create risk or possible legal exposure for Mozilla; or (iii) providing and operating Hubs is no longer commercially viable. If possible, we will make reasonable efforts to notify you through the relevant program, either Hubs .
 
 In all such cases, these Terms shall terminate, including, without limitation, your license to use Hubs, except that the sections with the following titles shall continue to apply: Indemnification, Disclaimer; Limitation of Liability and Miscellaneous.
 
@@ -77,6 +81,12 @@ For support, to provide feedback, or to report abuse of Hubs or violations of th
 
 You can see our [copyright or trademark infringement claims policy](https://www.mozilla.org/about/legal/report-infringement/).
 
-For other notices, you may email us at legal-notices@mozilla.com or write to us at Mozilla Corporation (Attn: Mozilla Legal Notices, 2 Harrison Street #175, San Francisco CA 94105).
+For other notices, you may email us at legal-notices@mozilla.com or write to us at Mozilla Corporation 
+Mozilla Corporation  
+Attn: Mozilla – Legal Notices  
+2 Harrison St. #175,  
+San Francisco, CA 94105  
+
+legal-notices@mozilla.com
 
 If there is a conflict or ambiguity between a translated version of these terms and the English language version, the English language version applies.
