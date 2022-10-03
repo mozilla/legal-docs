@@ -28,7 +28,7 @@ __30-Day Refund Policy.__ The first time you subscribe to the Services through M
 Purchasing through Apple or Google App Stores. If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
 #### You May Cancel Your Subscription at Any Time
-You may cancel your subscription to the Services at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Services or by going to the [Subscriptions & Payments](https://accounts.firefox.com/subscriptions/) section of your Firefox Account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
+You may cancel your subscription to the Services at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Services or by going to the [Subscriptions & Payments](https://accounts.firefox.com/subscriptions/) section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## Mozilla VPN
 
