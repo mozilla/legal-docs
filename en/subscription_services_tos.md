@@ -14,7 +14,7 @@ Please read these Terms of Service carefully because they explain important info
 ## Subscribing to Mozilla Services
 
 #### You’ll Need A Firefox Account
-A Firefox Account is required to use the Services. To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
+A Firefox account is required to use the Services. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
 
 #### Your Privacy
 The [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services) explains what information is sent when you use the Services and how we handle and share that information.
