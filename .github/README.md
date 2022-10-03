@@ -37,5 +37,7 @@ List of files not translated:
 * pocket_tos.md
 * privacy_notice_summary.md
 * report_infringement.md
+* subscription_services_privacy_notice.md
+* subscription_services_tos.md
 * thunderbird_about_rights.md
 * thunderbird_privacy_policy.md
