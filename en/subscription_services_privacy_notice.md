@@ -1,6 +1,7 @@
 # Mozilla Subscription Services | Privacy Notice
 
-Version 1.0, Effective October 11, 2022 {: datetime="2022-10-11" }
+Version 1.0, Effective October 11, 2022 
+{: datetime="2022-10-11" }
 
 __At Mozilla, we design products with your privacy in mind.__
 
@@ -21,14 +22,14 @@ __Interaction data.__ Mozilla receives data about your interactions with the Ser
 __Technical data.__ Mozilla receives basic information about the installed version of your VPN or Relay Add-on software, and the device they are installed on, including the operating system and hardware configuration. Your IP address is temporarily collected as part of our server logs for 90 days. No server logs of your network activity are maintained by neither Mozilla nor our partner Mullvad when you're using the Mozilla VPN service.
 We use the data to improve performance and stability for our users, and to measure the Services’ performance.
 
-## Mozilla VPN
+## Mozilla VPN {: #markup }
 __Location data.__ Mozilla VPN receives your IP address when you sign up for and use the service. We use the IP address in order to approximate your location to set which VPN server you connect to and because Mozilla VPN availability, pricing and offers may depend on your country.
 
 __Campaign and referral data.__ This helps Mozilla VPN understand the effectiveness of our marketing campaigns. Upon installation of the app, Mozilla may receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, device identifiers, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the [Adjust documentation](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
 __Network data.__ Mullvad receives your internet traffic to provide the service. When you activate Mozilla VPN, it will encrypt your internet traffic and send it to Mullvad. Mullvad has committed not to log any of the data it receives. Learn more at [Mullvad’s Privacy Policy](https://mullvad.net/help/no-logging-data-policy/).
 
-## Firefox Relay
+## Firefox Relay {: #markup }
 
 __Email messages.__ To send and forward your email messages from your masked email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked.
 
