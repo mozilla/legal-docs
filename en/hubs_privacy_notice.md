@@ -43,7 +43,8 @@ __Firefox account information.__ A Hubs subscription requires a Firefox account,
 __Location information.__ Mozilla receives your IP address from your Firefox account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
 
 __Payment information.__ When you subscribe to Hubs, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
-Usage Information. We receive information about the rooms and users in your Hubs instance. For instance, we learn when you create and delete rooms, how many rooms are in your Hubs instance, and how many users are in each room. We also receive information about how much storage space your Hubs instance is using. 
+
+__Usage Information.__ We receive information about the rooms and users in your Hubs instance. For instance, we learn when you create and delete rooms, how many rooms are in your Hubs instance, and how many users are in each room. We also receive information about how much storage space your Hubs instance is using. 
 
 ## Who Hubs May Disclose Information To
 __The Hubs Host:__ When you use a Hubs instance, Mozilla shares information with the Hubs subscriber who created the Hubs instance. This includes your username, information about your account and when you created it, as well as scenes, avatars, and other content you add to a Hubs room.  
@@ -59,4 +60,5 @@ __Search providers:__ You can search for images, GIFs, and 3D Models to share in
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
 __Twitter:__ If you connect Twitter to Hubs, you can tweet and share 2D images from Hubs rooms. Any content you tweet will be shared with Twitter and published on the Twitter platform. You can see [Twitter’s Privacy Policy](https://twitter.com/en/privacy) for more information.
+
 __Discord:__ If you connect Discord to Hubs, we store access tokens and the server and channel IDs that have been connected. We will synchronize chat messages, room changes, 2D and 3D objects you create, and whether you join or leave with the connected Discord channel. Hubs does not log any synchronized messages. You can see [Discord’s Privacy Policy](https://discordapp.com/privacy) for more information.
