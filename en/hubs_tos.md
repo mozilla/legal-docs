@@ -20,7 +20,7 @@ Mozilla is a global organization, and our computers and service providers’ com
 ### Your Payment
 __Payment.__ We offer the Service as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
-__14-Day Refund Policy.__ The first time you subscribe to the Service through Mozilla's website, if you cancel your account within the first 14 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
+__14-Day Refund Policy.__ The first time you subscribe to the Service through Mozilla’s website, if you cancel your account within the first 14 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
 ### You May Cancel Your Subscription at Any Time
 __Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
@@ -49,7 +49,7 @@ With a paid subscription, you may have up to 25 users per Hubs room and up to 6G
 
 __Legal Compliance.__ Depending where you and your users live and where you make your Hubs available, you may be subject to certain laws and regulations, in particular data privacy laws. It is your responsibility to be aware of any laws and regulations that may apply to your Hubs. Between you and Mozilla, you are solely responsible for ensuring the way you handle data is in full compliance with all applicable laws and regulations. To learn more about how Hubs operates, you can see the [source code](https://github.com/mozilla/hubs). 
 
-## 4. Mozilla's Rights
+## 4. Mozilla’s Rights
 Mozilla does not grant you any intellectual property rights in Hubs unless these Terms specifically say otherwise. For example, these Terms do not provide the right to use any of Mozilla’s copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
 
 Mozilla distributes the Hubs software under an open source license. To learn more, you can read the [license for Hubs](https://github.com/mozilla/hubs/blob/master/LICENSE) or read the [FAQ](https://www.mozilla.org/MPL/2.0/FAQ/).
@@ -57,22 +57,22 @@ Mozilla distributes the Hubs software under an open source license. To learn mor
 ## 5. Services Interruption; Term; Termination
 We are continuing to develop Hubs. As a result, we plan to upgrade and change Hubs over time. To do this, we might have to temporarily suspend their service and it is not always possible for us to give notice. You will not be entitled to claim expenses or damages for such suspension or limitation of the use of Hubs.
 
-We may cut off your access to Hubs, either temporarily or permanently at any time for any reason. This includes, but is not limited to, situations where we reasonably believe: (i) you have violated these Terms; (ii) you create risk or possible legal exposure for Mozilla; or (iii) providing and operating Hubs is no longer commercially viable. If possible, we will make reasonable efforts to notify you through the relevant program, either Hubs .
+We may cut off your access to Hubs, either temporarily or permanently at any time for any reason. This includes, but is not limited to, situations where we reasonably believe: (i) you have violated these Terms; (ii) you create risk or possible legal exposure for Mozilla; or (iii) providing and operating Hubs is no longer commercially viable. If possible, we will make reasonable efforts to notify you through Hubs.
 
 In all such cases, these Terms shall terminate, including, without limitation, your license to use Hubs, except that the sections with the following titles shall continue to apply: Indemnification, Disclaimer; Limitation of Liability and Miscellaneous.
 
 ## 6. Indemnification
-You agree to defend, indemnify and hold harmless Mozilla, and its respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of Hubs. This includes, but is not limited to, claims and expenses from any content you or your users transmit, edit, or create using Hubs.
+You agree to defend, indemnify and hold harmless Mozilla, and its respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents (“Indemnified Parties”) from and against any and all third party claims and expenses, including attorneys’ fees, arising out of or related to your use of Hubs. This includes, but is not limited to, claims and expenses from any content you or your users transmit, edit, or create using Hubs.
 
 ## 7. Disclaimer; Limitation of Liability
-THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
+THE SERVICES ARE PROVIDED “AS IS” WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
 
 YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
 EXCEPT AS REQUIRED BY LAW, MOZILLA WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
 ## 8. Modifications to These Terms
-Mozilla may update these Terms from time to time. We will post the updated Terms online. If the changes are substantive, we may announce the update through Mozilla's usual channels for such announcements such as blog posts, forums, or in the particular service itself, in this case: Hubs.
+Mozilla may update these Terms from time to time. We will post the updated Terms online. If the changes are substantive, we may announce the update through Mozilla’s usual channels for such announcements such as blog posts, forums, or in the particular service itself, in this case: Hubs.
 
 Your continued use of Hubs after we post the new Terms constitutes your acceptance of the new Terms. To make your review more convenient, we will post an effective date at the top of this page.
 
