@@ -31,6 +31,7 @@ List of files not translated:
 * firefox_reality_about_rights.md
 * firefox_reality_privacy_notice.md
 * hubs_privacy_notice.md
+* hubs_tos.md
 * mozilla_hubs_privacy_notice.md
 * mozilla_hubs_tos.md
 * mozilla_location_services_privacy_notice.md
