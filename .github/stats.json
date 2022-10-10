@@ -337,6 +337,22 @@
       "es"
     ]
   },
+  "subscription_services_privacy_notice.md": {
+    "count": 3,
+    "locales": [
+      "de",
+      "fr",
+      "ms"
+    ]
+  },
+  "subscription_services_tos.md": {
+    "count": 3,
+    "locales": [
+      "de",
+      "fr",
+      "ms"
+    ]
+  },
   "websites_privacy_notice.md": {
     "count": 13,
     "locales": [
