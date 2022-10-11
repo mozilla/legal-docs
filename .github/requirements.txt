@@ -1,3 +1,4 @@
 beautifulsoup4==4.11.*
 markdown==3.4.*
+pydyf==0.3.0
 weasyprint==56.*
