@@ -338,19 +338,25 @@
     ]
   },
   "subscription_services_privacy_notice.md": {
-    "count": 3,
+    "count": 6,
     "locales": [
       "de",
+      "es-ES",
       "fr",
-      "ms"
+      "it",
+      "ms",
+      "nl"
     ]
   },
   "subscription_services_tos.md": {
-    "count": 3,
+    "count": 6,
     "locales": [
       "de",
+      "es-ES",
       "fr",
-      "ms"
+      "it",
+      "ms",
+      "nl"
     ]
   },
   "websites_privacy_notice.md": {
