@@ -104,7 +104,7 @@ __Legge applicabile.__ Il presente contratto è regolamentato dalle leggi dello 
 ## Come contattare Mozilla
 
 Mozilla Corporation  
-Att.: Mozilla - Avvisi legali  
+Att.: Mozilla - Legal Notices  
 2 Harrison St. #175,  
 San Francisco, CA 94105, U.S.A.  
 
