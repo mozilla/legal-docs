@@ -7,7 +7,7 @@ Version 1.0 - Date d’effet : mardi 11 octobre 2022
 
 __Mozilla VPN__ protège les connexions Internet de votre appareil. Mozilla s’est associé à la société Mullvad pour le chiffrement privé et sécurisé de votre trafic Internet.
 
-__Firefox Relay__ vous permet de protéger votre adresse e-mail principale et vos numéros de téléphone sur les services en ligne en les rendant uniques et aléatoires (par masquage).
+__Firefox Relay__ vous permet de protéger votre adresse e-mail principale et vos numéros de téléphone sur les services en ligne en les rendant uniques et aléatoires (par le biais d’alias).
 
 Cette politique de confidentialité explique quelles données Mozilla VPN collecte et partage, et dans quels buts. Nous adhérons en outre à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/), qui explique comment nous recevons, traitons et partageons les informations.
 
@@ -32,9 +32,9 @@ __Données réseau.__ Mullvad reçoit votre trafic Internet pour fournir le serv
 
 ### Firefox Relay {: #relay }
 
-__Messages e-mail.__ Pour envoyer et transférer vos messages e-mail depuis votre ou vos adresses e-mail masquées vers votre adresse e-mail principale, Firefox Relay doit traiter vos messages e-mail. Nous ne lisons ni ne stockons le contenu de vos messages. Si un e-mail ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). Si vous utilisez la fonction de blocage des e-mails promotionnels, le Service vérifiera les en-têtes des e-mails pour déterminer si ces derniers doivent être bloqués.
+__Messages e-mail.__ Pour envoyer et transférer vos messages e-mail depuis votre ou vos adresses e-mail masquées par des alias vers votre adresse e-mail principale, Firefox Relay doit traiter vos messages e-mail. Nous ne lisons ni ne stockons le contenu de vos messages. Si un e-mail ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). Si vous utilisez la fonction de blocage des e-mails promotionnels, le Service vérifiera les en-têtes des e-mails pour déterminer si ces derniers doivent être bloqués.
 
-__Masques, et où les utiliser.__ Mozilla conserve une copie des informations de votre compte pour fournir le service, en particulier pour associer votre adresse e-mail principale à votre ou vos adresses masquées. Si vous créez un masque personnalisé, Mozilla le stockera pour pouvoir y transférer des e-mails. Mozilla stocke le site qui vous a servi à créer le masque, les sites où vous avez ensuite utilisé le masque et toutes les étiquettes associées au masque afin que celui-ci soit facile à retrouver quand vous en avez besoin. En savoir plus sur [l’activation et la désactivation de cette fonctionnalité](https://relay.firefox.com/faq).
+__Alias, et où les utiliser.__ Mozilla conserve une copie des informations de votre compte pour fournir le service, en particulier pour associer votre adresse e-mail principale à votre ou vos adresses masquées par des alias. Si vous créez un alias personnalisé, Mozilla le stockera pour pouvoir y transférer des e-mails. Mozilla stocke le site qui vous a servi à créer le alias, les sites où vous avez ensuite utilisé le alias et toutes les étiquettes associées au alias afin que celui-ci soit facile à retrouver quand vous en avez besoin. En savoir plus sur [l’activation et la désactivation de cette fonctionnalité](https://relay.firefox.com/faq).
 
 __Appels téléphoniques et SMS.__ Pour envoyer et transférer vos appels téléphoniques et SMS, Firefox Relay traite votre numéro de téléphone et SMS. Nous créons des journaux avec les numéros de téléphone que vous avez contactés via Relay afin de consigner vos appels et SMS, envoyer des réponses par SMS et bloquer des numéros de téléphone. Nous ne surveillons pas ni ne stockons le contenu des appels téléphoniques que vous passez via Firefox Relay.
 
@@ -42,9 +42,9 @@ Lisez la documentation relative à la télémétrie pour [Firefox Relay](https:/
 
 __Informations que nous partageons.__ Firefox Relay partage des informations avec certaines sociétés tierces afin de vous fournir le service. Mozilla a conclu des accords avec cette société, obligeant cette dernière à protéger vos informations. Voici la liste de nos partenaires qui contribuent au bon fonctionnement de Firefox Relay :
 
-* __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ Amazon Web Services (AWS) est une plateforme informatique basée sur le cloud. Firefox Relay se sert d’AWS pour recevoir les e-mails envoyés à votre ou vos adresses e-mail masquées et les transférer à l’adresse e-mail principale associée à votre compte Firefox. Seul Mozilla connaît l’association entre votre adresse e-mail principale et votre ou vos adresses e-mail masquées.
+* __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ Amazon Web Services (AWS) est une plateforme informatique basée sur le cloud. Firefox Relay se sert d’AWS pour recevoir les e-mails envoyés à votre ou vos adresses e-mail masquées par des alias et les transférer à l’adresse e-mail principale associée à votre compte Firefox. Seul Mozilla connaît l’association entre votre adresse e-mail principale et votre ou vos adresses e-mail masquées par des alias.
 
-* __[Twilio.](https://www.twilio.com)__ Twilio reçoit votre numéro de téléphone, votre masque de téléphone et les numéros de téléphone qui vous servent à échanger des appels téléphoniques et SMS. Twilio reçoit d’autre part le contenu des SMS que vous envoyez et recevez via Firefox Relay et Mozilla a configuré le service Twilio pour qu’il supprime les enregistrements des SMS que vous envoyez et recevez via Firefox Relay après 7 jours.
+* __[Twilio.](https://www.twilio.com)__ Twilio reçoit votre numéro de téléphone, votre alias de téléphone et les numéros de téléphone qui vous servent à échanger des appels téléphoniques et SMS. Twilio reçoit d’autre part le contenu des SMS que vous envoyez et recevez via Firefox Relay et Mozilla a configuré le service Twilio pour qu’il supprime les enregistrements des SMS que vous envoyez et recevez via Firefox Relay après 7 jours.
 
 ## Autres informations importantes
 
