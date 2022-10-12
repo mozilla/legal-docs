@@ -7,7 +7,7 @@ Versione 1.0, in vigore dal martedì 11 ottobre 2022
 
 __Mozilla VPN__ protegge le connessioni a Internet del tuo dispositivo. Mozilla collabora con Mullvad per crittografare in modo sicuro e anonimo il tuo traffico su Internet.
 
-__Firefox Relay__ consente di mantenere il proprio indirizzo e-mail e numero di telefono principale privato al sicuro dai servizi online, creando un numero di telefono e un indirizzo email unici e casuali (maschera).
+__Firefox Relay__ consente di mantenere il proprio indirizzo email e numero di telefono principale privati e al sicuro dai servizi online, creando un numero di telefono e un indirizzo email unici e casuali (alias).
 
 Questa informativa sulla privacy spiega quali dati vengono raccolti da Firefox Relay e Mozilla VPN, come vengono condivisi e perché. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni, puoi anche fare riferimento all'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 
@@ -32,9 +32,9 @@ __Dati di rete.__ Mullvad riceve il tuo traffico Internet per fornire il servizi
 
 ### Firefox Relay {: #relay }
 
-__Messaggi email.__ Firefox Relay elabora i tuoi messaggi email per inviarli e inoltrarli dai tuoi indirizzi email mascherati al tuo indirizzo email principale. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). Se usi la funzione di blocco delle email promozionali, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate.
+__Messaggi email.__ Firefox Relay elabora i tuoi messaggi email per inviarli e inoltrarli dai tuoi indirizzi email alias al tuo indirizzo email principale. Il contenuto dei messaggi non viene né letto né memorizzato. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). Se usi la funzione di blocco delle email promozionali, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate.
 
-__Maschere e loro utilizzo.__ Mozilla conserva una copia dei dati del tuo account per fornire il servizio, in particolare per associare il tuo indirizzo email principale agli indirizzi email mascherati. Se crei una maschera personalizzata, Mozilla la memorizza per potervi inoltrare le email. Mozilla memorizza il sito in cui hai creato la maschera, i siti in cui l'hai successivamente utilizzata e tutte le etichette ad essa associate, per garantire che la maschera sia facilmente reperibile quando vuoi utilizzarla. Scopri come [attivare e disattivare queste funzioni](https://relay.firefox.com/faq).
+__Alias e loro utilizzo.__ Mozilla conserva una copia dei dati del tuo account per fornire il servizio, e in particolare per associare il tuo indirizzo email principale agli indirizzi email alias. Se crei un alias personalizzato, Mozilla lo memorizza per potervi inoltrare le email. Mozilla memorizza il sito in cui hai creato l'alias, i siti in cui l'hai successivamente utilizzato e tutte le etichette ad esso associate, per garantire che l'alias sia facilmente reperibile quando vuoi utilizzarlo. Scopri come [attivare e disattivare queste funzioni](https://relay.firefox.com/faq).
 
 __Telefonate e SMS.__ Per inviare e inoltrare le chiamate e gli SMS, Firefox Relay elabora il numero di telefono e i messaggi. Memorizziamo un registro dei numeri di telefono che hai contattato tramite Relay per poter esibire i registri delle tue chiamate e degli SMS, inviare SMS di risposta e bloccare i numeri di telefono. Non monitoriamo né memorizziamo il contenuto delle telefonate effettuate tramite Firefox Relay.
 
@@ -42,9 +42,9 @@ Ti invitiamo a leggere la documentazione sulla telemetria di [Firefox Relay](htt
 
 __Informazioni che condividiamo.__ Firefox Relay condivide informazioni con terzi per fornirti il servizio. Mozilla ha stipulato con l'azienda indicata di seguito un accordo che prevede la protezione dei tuoi dati. Ecco chi utilizziamo per supportare Firefox Relay:
 
-* __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ Amazon Web Services (AWS) è una piattaforma di cloud computing. Firefox Relay si avvale di AWS per ricevere le email inviate agli indirizzi email mascherati e per inoltrarle all'indirizzo email principale associato all'account Firefox. Solo Mozilla conosce l'associazione tra l'indirizzo email principale e gli indirizzi email mascherati.
+* __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ Amazon Web Services (AWS) è una piattaforma di cloud computing. Firefox Relay si avvale di AWS per ricevere le email inviate agli indirizzi email alias e per inoltrarle all'indirizzo email principale associato all'account Firefox. Solo Mozilla conosce l'associazione tra l'indirizzo email principale e gli indirizzi email alias.
 
-* __[Twilio.](https://www.twilio.com)__ Twilio riceve il tuo numero di telefono, la tua maschera telefonica e i numeri di telefono con cui scambi chiamate e SMS. Twilio riceve anche il contenuto degli SMS inviati e ricevuti tramite Firefox Relay. Mozilla ha impostato il servizio Twilio in modo da eliminare dopo 7 giorni i registri degli SMS inviati e ricevuti tramite Firefox Relay.
+* __[Twilio.](https://www.twilio.com)__ Twilio riceve il tuo numero di telefono, il tuo alias telefonico e i numeri di telefono con cui scambi chiamate e SMS. Twilio riceve anche il contenuto degli SMS inviati e ricevuti tramite Firefox Relay. Mozilla ha impostato il servizio Twilio in modo da eliminare dopo 7 giorni i registri degli SMS inviati e ricevuti tramite Firefox Relay.
 
 ## Altre cose da sapere
 
@@ -54,4 +54,4 @@ Per qualsiasi altra domanda in merito alle nostre pratiche di privacy puoi conta
 
 Rispondiamo a tutte le richieste che riceviamo da individui che desiderano esercitare i propri diritti di protezione dei dati, indipendentemente dal luogo in cui risiedono. La tua richiesta verrà accolta, a meno che un requisito legale non ci impedisca di farlo o si applichi un'eccezione legale.
 
-Per supporto generale, puoi visitare i nostri [forum](https://support.mozilla.org/) .
+Per supporto generale, puoi visitare i nostri [forum](https://support.mozilla.org/).

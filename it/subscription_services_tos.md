@@ -7,7 +7,7 @@ Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza 
 
 __Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico Internet al tuo fornitore di servizi Internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
 
-__Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando maschere che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
+__Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando degli alias che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
 
 Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo dei Servizi.
 
@@ -49,28 +49,28 @@ __Limite di dispositivi.__ Un abbonamento attivo permette di connettere a Mozill
 Licenza di utilizzo del software. Il software Mozilla VPN è disponibile nei termini delle varie licenze open source, inclusa la "Mozilla Public License".
 
 ## Firefox Relay
-Offriamo Firefox Relay come servizio gratuito o in abbonamento a pagamento. Il servizio di mascheramento dei numeri di telefono è gestito in collaborazione con Twilio. 
+Offriamo Firefox Relay come servizio gratuito o in abbonamento a pagamento. Il servizio di alias dei numeri di telefono è gestito in collaborazione con Twilio. 
 
 ### Requisiti di idoneità
 Per utilizzare il servizio di abbonamento a pagamento, devi risiedere in un Paese in cui Firefox Relay è disponibile. 
 
-* Attualmente, il servizio di mascheramento dei numeri di telefono è disponibile solo negli Stati Uniti e in Canada.. 
-* Il servizio di mascheramento delle email è disponibile nei seguenti Paesi: Austria, Belgio, Canada, Finlandia, Francia, Germania, Irlanda, Italia, Malesia, Nuova Zelanda, Paesi Bassi, Regno Unito, Singapore, Spagna, Stati Uniti, Svezia e Svizzera.
+* Attualmente, il servizio di alias dei numeri di telefono è disponibile solo negli Stati Uniti e in Canada.. 
+* Il servizio di alias delle email è disponibile nei seguenti Paesi: Austria, Belgio, Canada, Finlandia, Francia, Germania, Irlanda, Italia, Malesia, Nuova Zelanda, Paesi Bassi, Regno Unito, Singapore, Spagna, Stati Uniti, Svezia e Svizzera.
 
 ### Autorizzazioni necessarie per fornire Firefox Relay
 __Utilizzo di Relay.__ Se disponi di un abbonamento a pagamento a Firefox Relay, Mozilla ti concede il permesso di utilizzarlo in base ai presenti Termini di servizio. Questa autorizzazione si estende esclusivamente all'uso personale. Non puoi trasferire, rivendere, concedere in sublicenza o sfruttare commercialmente Firefox Relay. L’utente è l’unico responsabile dei Contenuti trasmessi e delle relative conseguenze.
 
-Accetti di conferire a Mozilla e Twilio tutti i diritti necessari per il funzionamento di Firefox Relay, compresa l'elaborazione del tuo indirizzo email e del tuo numero di telefono, nonché l'invio e la ricezione di email, telefonate e SMS inviati da e verso le maschere da te create. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). 
+Accetti di conferire a Mozilla e Twilio tutti i diritti necessari per il funzionamento di Firefox Relay, compresa l'elaborazione del tuo indirizzo email e del tuo numero di telefono, nonché l'invio e la ricezione di email, telefonate e SMS inviati da e verso gli alias da te creati. Nel caso un'email non possa essere consegnata, verrà temporaneamente memorizzata nei nostri server ed eliminata dopo la consegna (in nessun caso verrà conservata per più di tre giorni). 
 
 Memorizziamo un registro dei numeri di telefono che hai contattato tramite Relay per poter esibire i registri delle tue chiamate e degli SMS, inviare SMS di risposta e bloccare i numeri di telefono. Mozilla ha impostato il servizio Twilio in modo da eliminare dopo 7 giorni i registri degli SMS inviati e ricevuti tramite Firefox Relay. Non monitoriamo né memorizziamo il contenuto delle telefonate effettuate tramite Firefox Relay.
 
 Non leggiamo né memorizziamo il contenuto dei tuoi messaggi email per un tempo superiore a quello necessario per consegnarteli. Se usi la funzione di blocco delle email promozionali, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate.
 
-__Limiti e personalizzazione.__ Con il servizio gratuito, puoi creare fino a 5 maschere email casuali e nessuna maschera per numeri di telefono. Con l'abbonamento a pagamento puoi creare una maschera per il numero di telefono, un numero illimitato di maschere email e hai la possibilità di creare un sottodominio personalizzato per le maschere email.
+__Limiti e personalizzazione.__ Con il servizio gratuito, puoi creare fino a 5 alias email casuali e nessun alias per numeri di telefono. Con l'abbonamento a pagamento puoi creare un alias per il numero di telefono, un numero illimitato di alias email e hai la possibilità di creare un sottodominio personalizzato per gli alias email.
 
 Firefox Relay consente fino a 50 minuti di telefonate in entrata e in uscita e fino a 75 SMS inviati e ricevuti al mese. Ogni ulteriore messaggio di testo verrà cancellato e ogni ulteriore telefonata non verrà inoltrata. Firefox Relay non supporta i messaggi MMS. Potrebbero esserti addebitate le normali tariffe del tuo operatore per i minuti telefonici e gli SMS. 
 
-Una volta scelta la maschera del numero di telefono, non puoi modificarla. Poiché puoi sceglierne solo una, puoi rispondere solo all'ultimo SMS ricevuto. Firefox Relay non supporta l'invio di SMS che non siano in risposta all'ultimo messaggio ricevuto. 
+Una volta scelto l'alias del numero di telefono, non puoi modificarlo. Poiché puoi sceglierne un unico alias, puoi rispondere solo all'ultimo SMS ricevuto. Firefox Relay non supporta l'invio di SMS che non siano in risposta all'ultimo messaggio ricevuto. 
 
 Firefox Relay invierà allegati email solo se di dimensioni non superiori ai 10 MB. Le email più grandi saranno eliminate.
 
@@ -104,7 +104,7 @@ __Legge applicabile.__ Il presente contratto è regolamentato dalle leggi dello 
 ## Come contattare Mozilla
 
 Mozilla Corporation  
-Att.: Mozilla - Legal Notices  
+Att.: Mozilla – Legal Notices  
 2 Harrison St. #175,  
 San Francisco, CA 94105, U.S.A.  
 
