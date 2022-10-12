@@ -17,8 +17,8 @@ List of translated files (number of locales between parentheses):
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
 * ossn_site_privacy_notice.md (1)
-* subscription_services_privacy_notice.md (3)
-* subscription_services_tos.md (3)
+* subscription_services_privacy_notice.md (6)
+* subscription_services_tos.md (6)
 * websites_privacy_notice.md (13)
 * websites_tou.md (21)
 
