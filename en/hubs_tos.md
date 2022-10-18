@@ -40,7 +40,7 @@ Mozilla is a global organization, and our computers and service providers’ com
 ## 3. Conditions of Use
 By using Hubs, you agree that you will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any Hub or individual room it reasonably believes has violated these conditions.
 
-__Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in the United States, Canada, Germany, and the United Kingdom.
+__Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in Canada, Germany, the United Kingdom, and the United States.
 
 __Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox account associated with the Hubs instance. 
 
