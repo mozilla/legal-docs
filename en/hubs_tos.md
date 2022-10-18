@@ -1,21 +1,16 @@
 # Terms of Service for Hubs
 
-Version 1.0, Effective October 11, 2022
-{: datetime="2022-10-11" }
+Version 1.0, Effective October 25, 2022
+{: datetime="2022-10-25" }
 
 Hubs (the “Service”) is a new, preview service that allows you to set up and manage your own set of real-time communications platforms for virtual reality, augmented reality, desktop, laptop, or mobile. It is available as a paid subscription service.  
 
-These Terms of Service explain your rights and responsibilities when you use Hubs. By purchasing and using Hubs, you assure Mozilla that you have read these terms and agree to them. 
+These Terms of Service explain your rights and responsibilities when you use Hubs. By purchasing and using Hubs, you assure Mozilla that you have read these terms and agree to them. The [legacy version of Hubs](https://hubs.mozilla.com/demo) is currently still available and is governed by these Terms of Service with the exception of Section 1 for Subscribing to Hubs. 
 
 ## 1. Subscribing to Hubs
 
 ### You’ll Need A Firefox Account
 A Firefox account is required to use the Service. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
-
-### Your Privacy
-__Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/) explains how Mozilla receives and handles data to operate the Service.
-
-Mozilla is a global organization, and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information and your users’ information might be processed on servers located outside of the country where you and your users live, and that country may have a different level of data protection regulation than yours. By using the Service, you assure Mozilla that you consent to this kind of transfer of users’ information and that you have obtained necessary consent from the individuals who use your Hubs.
 
 ### Your Payment
 __Payment.__ We offer the Service as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
@@ -38,10 +33,14 @@ Any ideas, suggestions, and feedback about Hubs that you provide to us are entir
 
 You are responsible for the information you and your users send, create, or edit using Hubs, and the consequences of sending, creating, or editing that information.
 
+__Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/) explains how Mozilla receives and handles data to operate the Service.
+
+Mozilla is a global organization, and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information and your users’ information might be processed on servers located outside of the country where you and your users live, and that country may have a different level of data protection regulation than yours. By using the Service, you assure Mozilla that you consent to this kind of transfer of users’ information and that you have obtained necessary consent from the individuals who use your Hubs.
+
 ## 3. Conditions of Use
 By using Hubs, you agree that you will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any Hub or individual room it reasonably believes has violated these conditions.
 
-__Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in the United States, Canada, and the United Kingdom.
+__Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in the United States, Canada, Germany, and the United Kingdom.
 
 __Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox account associated with the Hubs instance. 
 
