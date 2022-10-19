@@ -1,11 +1,11 @@
 # Hubs Privacy Notice
-Version 1.0, effective October 11, 2022
-{: datetime="2022-10-11" }
+Version 1.0, effective October 25, 2022
+{: datetime="2022-10-25" }
 
 ## Information We Collect and Share for Hubs Rooms
 
 ### Information Shared With Us and Other Participants
-__Account information:__ You will need a Firefox account to purchase a Hubs Subscription. However, a user does not need an account to use Hubs. However, certain features (like storing your avatar), require an account. You can create an account through Hubs or through Discord. If you create an account with your email address, we store a hashed version of your email address. If you create an account through Discord, we receive the email address associated with your Discord account and your Discord avatar.
+__Account information:__ You will need a Firefox account to purchase a Hubs Subscription. However, a user does not need an account to use Hubs. Certain features (like storing your avatar), require an account. You can create an account through Hubs or through Discord. If you create an account with your email address, we store a hashed version of your email address. If you create an account through Discord, we receive the email address associated with your Discord account and your Discord avatar.
 
 __Room Names and URLs:__ Rooms and room names are publicly accessible to anyone with the URL. Mozilla stores the name and the URL for the link you share so you and others with the link to the Room can use it again.
 
