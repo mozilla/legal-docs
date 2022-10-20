@@ -24,7 +24,7 @@ Mozilla is a global organization, and our computers and service providers’ com
 ### Your Payment
 __Payment.__ We offer the Services as automatically renewing subscription services. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service(s) you sign up for. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
 
-__30-Day Refund Policy.__ The first time you subscribe to the Services through Mozilla's website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
+__30-Day Refund Policy.__ The first time you subscribe to the Services through Mozilla’s website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
 __Purchasing through Apple or Google App Stores.__ If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
