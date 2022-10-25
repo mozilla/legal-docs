@@ -1,9 +1,9 @@
 {
     "files": [
-        "en/hubs_tos.md",
         "firefox_relay_privacy_notice.md",
         "firefox_relay_tos.md",
         "hubs_privacy_notice.md",
+        "hubs_tos.md",
         "mdn_plus_privacy.md",
         "mdn_plus_terms.md",
         "mozilla_hubs_privacy_notice.md",
