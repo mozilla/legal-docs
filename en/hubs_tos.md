@@ -23,7 +23,7 @@ __Cancellation.__ You may cancel your subscription to the Service at any time by
 ## 2. Communications and Content
 Hubs allows your users to send information (such as audio, video, text, images, 3D models, and scenes) to other users.
 
-By signing up for and creating your Hubs, you agree to give Mozilla all rights necessary to operate Hubs. You also assure Mozilla that you have, or have obtained, the rights and authority necessary to grant Mozilla all rights and permissions necessary for the operation of Hubs. This includes, but is not limited to, a license and permission to process, transmit, and display the information you and your users send through Hubs. It also includes permission to gather and share information as described in the [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/).
+By signing up for and creating your Hubs, you agree to give Mozilla all rights necessary to operate Hubs. You also assure Mozilla that you have, or have obtained, the rights and authority necessary to grant Mozilla all rights and permissions necessary for the operation of Hubs. This includes, but is not limited to, a license and permission to process, transmit, and display the information you and your users send through Hubs. It also includes permission to gather and share information as described in the [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs/).
 
 When you and your users submit information to Hubs, the original creator of that information continues to own the rights to their content. You grant Mozilla a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works from, distribute, perform, and display that information, audio, video, images, or 3D models for the purpose of operating Hubs. You also agree that we may remove metadata associated with the information or data you submit. If you or one of your users allows remixing of a scene or avatar, you agree to license that scene or avatar under a [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode) license.
 
@@ -33,7 +33,7 @@ Any ideas, suggestions, and feedback about Hubs that you provide to us are entir
 
 You are responsible for the information you and your users send, create, or edit using Hubs, and the consequences of sending, creating, or editing that information.
 
-__Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs-subscription/) explains how Mozilla receives and handles data to operate the Service.
+__Privacy.__ You are responsible for the privacy of the individuals who use your Hubs. This includes compliance with all applicable privacy laws. The [Hubs Privacy Notice](https://www.mozilla.org/privacy/hubs/) explains how Mozilla receives and handles data to operate the Service.
 
 Mozilla is a global organization, and our computers and service providers’ computers may be in various countries around the world, including the United States. This means that your information and your users’ information might be processed on servers located outside of the country where you and your users live, and that country may have a different level of data protection regulation than yours. By using the Service, you assure Mozilla that you consent to this kind of transfer of users’ information and that you have obtained necessary consent from the individuals who use your Hubs.
 
