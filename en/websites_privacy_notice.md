@@ -36,7 +36,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * We use certain device information such as country, language, operator and OEM, to customize your experience.
 
 * **Metrics**: We may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
-    * Mozilla Glean, uur first-party telemetry and analytics platform.  You can learn more about the specific types of data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
+    * Mozilla Glean, our first-party telemetry and analytics platform.  You can learn more about the specific types of data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
     * Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
