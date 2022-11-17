@@ -1,7 +1,7 @@
 ﻿# Pemberitahuan Privasi Situs Web, Komunikasi, & Cookie
 
-10 Mei 2022
-{: datetime="2022-05-10" }
+29 November 2022
+{: datetime="2022-11-29" }
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla ](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
@@ -36,6 +36,7 @@ Kami menggunakan cookie, GIF transparan, analitika web pihak ketiga, informasi p
     * Kami menggunakan informasi perangkat tertentu seperti negara, bahasa, operator, dan OEM, untuk menyesuaikan pengalaman Anda.
 
 * **Metrik**: Kami juga menggunakan cookie, informasi perangkat, bersama dengan GIF transparan, cookie, dan layanan pihak ketiga untuk membantu kami memahami secara agregat bagaimana pengguna berinteraksi dengan produk, layanan, komunikasi, situs web, kampanye online, snippet, perangkat, dan platform lain. Kami menggunakan:
+    * Mozilla Glean, telemetri dan platform analitik pihak pertama kami. Anda bisa mengetahui selengkapnya tentang jenis data khusus yang kami kumpulkan dalam [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, yang memasang cookie pada perangkat Anda, untuk mendapatkan metrik cara pengguna berinteraksi dengan situs web kami. Ini membantu kami meningkatkan konten situs.
     * Convert.com dan ShareProgress, yang memasang cookie pada perangkat Anda, untuk membantu kami menguji berbagai konten web. Ini membantu kami menawarkan pengalaman web yang lebih baik kepada pengguna.
     * DoubleClick dan Flashtalking, yang menggunakan GIF transparan pada halaman Firefox unduhan. Ini membantu kami mengukur efektivitas kampanye iklan kami.
@@ -74,5 +75,3 @@ Beberapa situs web Mozilla memungkinkan Anda melakukan pembelian (seperti aplika
 * **Pemrosesan Pembayaran**: Kecuali untuk pembayaran yang dilakukan menggunakan giro, wesel, dan debit langsung, dan transfer bank, Mozilla tidak menerima informasi keuangan, yang ditransmisikan dari Anda ke vendor pihak ketiga yang ditunjuk (misalnya Braintree, PayPal, Bitpay, Stripe) untuk memprosesnya.
 
 * **Data Pribadi**: Kami mungkin menerima nama, alamat, dan/atau alamat email Anda. Data ini digunakan untuk deteksi penipuan dan penyimpanan rekaman. Kami menggunakan [Acoustic](https://acoustic.com/privacy-notice/) untuk penerimaan email dan rekaman toko, yang dipertahankan selama empat tahun terhitung sejak tanggal pembayaran terakhir. 
-
-* **Data Pihak Ketiga**: Kami menggunakan [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) untuk meningkatkan upaya penggalangan dana dalam menjaga agar internet tetap sehat, terbuka, dan bisa diakses oleh semua orang. Donatur bisa [memilih menghentikan](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) penggunaan Mozilla.

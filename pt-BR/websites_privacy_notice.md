@@ -1,7 +1,7 @@
 ﻿# Aviso de Privacidade sobre sites, comunicação e cookies
 
-terça-feira, 10 de maio de 2022
-{: datetime="2022-05-10" }
+29 de novembro de 2022
+{: datetime="2022-11-29" }
 
 Nós nos importamos com sua privacidade. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
@@ -36,6 +36,7 @@ Podemos usar cookies, GIFs transparentes, análises da web de terceiros, informa
     * Usamos algumas informações do dispositivo, como país, idioma, operador e OEM, para personalizar sua experiência.
 
 * **Métricas**: também podemos usar cookies, informações do dispositivo e endereços IP, além de GIFs transparentes, cookies e serviços de terceiros, para nos ajudar a entender, no geral, como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
+    * Mozilla Glean, nossa primeira plataforma de telemetria e análises. Saiba mais sobre os tipos específicos de dados que coletamos no [Dicionário do Glean](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics: adiciona um cookie no dispositivo para obter métricas sobre como os usuários interagem com nossos sites. Essas métricas nos ajudam a melhorar o conteúdo do site.
     * Convert.com e ShareProgress: adiciona um cookie no dispositivo para nos ajudar a testar variações do conteúdo da web. Isso nos ajuda a oferecer experiências on-line melhores aos usuários.
     * DoubleClick e Flashtalking: usam um GIF transparente na nossa página de download do Firefox. Isso nos ajuda a medir a eficácia das nossas campanhas de publicidade.
@@ -74,5 +75,3 @@ Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos
 * **Processamento de pagamentos**: a Mozilla não recebe informações financeiras transferidas por você para nossas empresas terceirizadas para processamento (por exemplo, Braintree, PayPal, Bitpay, Stripe), exceto em pagamentos feitos por cheque, ordem de pagamento, débito direto e transferência eletrônica.
 
 * **Dados pessoais**: também podemos receber seu nome, endereço e/ou e-mail. Esses dados são usados para detecção de fraudes e para fins de registro. Usamos o [Acoustic](https://acoustic.com/privacy-notice/) para enviar recibos por e-mail e armazenar os registros, que são mantidos por quatro anos após a data do último pagamento. 
-
-* **Dados de terceiros**: usamos o [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) para melhorar as ofertas de angariação de fundos para manter a internet funcionando, aberta e acessível para todos. Os doadores podem [cancelar](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) o uso da Mozilla.
