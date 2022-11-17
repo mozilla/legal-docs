@@ -1,7 +1,7 @@
 ﻿# Avis de confidentialité relatif aux sites Web, communications et cookies
 
-Mardi 10 mai 2022
-{: datetime="2022-05-10" }
+Mardi 29 novembre 2022
+{: datetime="2022-11-29" }
 
 Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations vous concernant, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) décrit la façon dont nous gérons ces informations.
 
@@ -36,6 +36,7 @@ Nous pouvons utiliser des cookies, des pixels transparents ou invisibles (clear 
     * Nous utilisons certaines informations relatives aux appareils, telles le pays, la langue, l’opérateur et le fabricant afin de personnaliser votre expérience.
 
 * **Mesures** : Nous pouvons également utiliser les cookies, les informations sur les appareils, les adresses IP, ainsi que les pixels transparents (clear GIF), les cookies et les services tiers pour comprendre globalement la façon dont les utilisateurs interagissent avec nos produits, services, communications, sites Web, campagnes en ligne, snippets, appareils et autres plates-formes. Nous utilisons ce qui suit :
+    * Mozilla Glean, notre plateforme de télémétrie et d'analyse. Pour en savoir plus sur les types spécifiques de données que nous collectons, consultez le [Dictionnaire Glean](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, qui place un cookie sur votre appareil, afin d’obtenir des indications sur la façon dont les utilisateurs interagissent avec nos sites Web. Cela nous aide à améliorer le contenu des sites.
     * Convert.com et ShareProgress, qui placent un cookie sur votre appareil, pour nous aider à tester des variantes de notre contenu Web. Cela nous aide à proposer de meilleurs expériences Web aux utilisateurs.
     * DoubleClick et Flashtalking, les deux utilisant un pixel transparent (clear GIF) sur notre page de téléchargement Firefox. Cela nous aide à mesurer l’efficacité de nos campagnes publicitaires.
@@ -74,5 +75,3 @@ Certains sites Web de Mozilla vous permettent d’effectuer des achats (comme de
 * **Traitement des paiements** : À l’exception des paiements réglés par chèque, mandat, prélèvement et virement, Mozilla ne reçoit aucune information financière circulant entre vous et le fournisseur tiers chargé du traitement (Braintree, PayPal, Bitpay, Stripe, etc.).
 
 * **Données personnelles** : Nous pouvons en outre recevoir votre nom, adresse postale et/ou adresse électronique. Ces données sont utilisées à des fin de détection des fraudes et d’enregistrement (archivage). Nous utilisons [Acoustic](https://acoustic.com/privacy-notice/) pour envoyer des reçus par courriel et stocker des enregistrements, qui sont conservés pendant quatre ans à compter de la date du dernier paiement. 
-
-* **Données tierces** : Nous utilisons [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) pour améliorer nos initiatives de collecte de fonds afin qu’Internet reste sain, ouvert et accessible à tous. Les donateurs peuvent [se désinscrire](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) de l’utilisation de Mozilla.

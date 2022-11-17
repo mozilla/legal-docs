@@ -1,7 +1,7 @@
 ﻿# Privacyverklaring voor websites, communicatie en cookies
 
-dinsdag 10 mei 2022
-{: datetime="2022-05-10" }
+29 november 2022
+{: datetime="2022-11-29" }
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
@@ -36,6 +36,7 @@ We gebruiken mogelijk cookies, zogeheten clear GIF's, webanalyses van derde part
     * We gebruiken bepaalde apparaatinformatie, zoals het land, de taal, de operator en OEM-informatie om uw ervaring aan te passen.
 
 * **Meetwaarde**: We gebruiken mogelijk ook cookies, apparaatinformatie en IP-adressen en clear GIFs, cookies en services van derde partijen om ons op basis van samengevoegde gegevens te helpen doorgronden hoe gebruikers gebruikmaken van onze producten, services, communicaties, websites, online campagnes, snippets, apparaten en andere platforms. We gebruiken:
+    * Mozilla Glean, ons eigen platform voor telemetrie en analyse. Meer informatie over de specifieke typen gegevens die we verzamelen, vindt u in het [Glean-woordenboek](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics. Google Analytics plaatst een cookie op uw apparaat voor het ophalen van meetwaarden over hoe gebruikers onze websites gebruiken. Dit helpt ons om sitecontent te verbeteren.
     * Convert.com en ShareProgress. Zij plaatsen een cookie op uw apparaat om ons te helpen varianten van webcontent te testen. Dit stelt ons in staat om betere webervaringen te verzorgen voor onze gebruikers.
     * DoubleClick en Flashtalking. Zij gebruiken beide een zogeheten clear GIF op onze downloadpagina voor Firefox. Dit helpt ons de doeltreffendheid van onze reclamecampagnes te doorgronden.
@@ -74,5 +75,3 @@ Sommige Mozilla-websites stellen u in staat om aankopen te doen (zoals apps of a
 * **Betalingsverwerking**: Met uitzondering van betalingen per cheque, postwissel, automatische incasso en overschrijvingen, ontvangt Mozilla geen financiële informatie. Deze wordt rechtstreeks voor verwerking door u overgedragen aan de desbetreffende externe leverancier (zoals Braintree, PayPal, Bitpay, Stripe).
 
 * **Persoonlijke gegevens**: We ontvangen mogelijk ook uw naam, postadres en/e-mailadres. Deze gegevens worden gebruikt voor fraudedetectie en registratiedoeleinden. We gebruiken [Acoustic](https://acoustic.com/privacy-notice/) voor het per e-mail verzenden van betalingsbewijzen en het opslaan van geregistreerde gegevens. Deze worden vier jaar lang bewaard, gerekend vanaf de laatste betaaldatum. 
-
-* **Gegevens van derde partijen**: We gebruiken [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) voor het verbeteren van onze fondsenwervingsinspanningen voor een gezond, open en voor iedereen toegankelijk internet. Donors kunnen zich [uitschrijven](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) voor gebruik door Mozilla.

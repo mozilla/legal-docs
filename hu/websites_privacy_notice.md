@@ -1,7 +1,7 @@
 ﻿# Webhelyekre, közleményekre és sütikre vonatkozó adatvédelmi nyilatkozat
 
-2022. május 10.
-{: datetime="2022-05-10" }
+2022. november 29.
+{: datetime="2022-11-29" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -36,6 +36,7 @@ Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, es
     * Bizonyos eszközinformációkat használunk a felhasználói élmény testreszabásához (például ország, nyelv, operátor és OEM).
 
 * **Metrikák**: A cookie-kat, az eszközinformációkat és az IP-címeket, valamint a tiszta GIF-eket, a cookie-kat és a harmadik fél által nyújtott szolgáltatásokat is felhasználhatjuk annak megértéséhez, hogy a felhasználók összességében hogyan kommunikálnak termékeinkkel, szolgáltatásainkkal, közleményeinkkel, webhelyeinkkel, online kampányainkkal, kódrészleteinkkel, eszközeinkkel és más platformokkal. Az alábbiakat használjuk:
+    * Mozilla Glean, a mi belső távmérő és analitikai platformunk. Tanuljon meg többet arról, hogy milyen típusú adatokat gyűjtünk a [Glean Dictionary-ben](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, amely cookie-t helyez az eszközre, és statisztikákat készít a felhasználók webhelyeinkkel való interakciójának módjáról. Ez segít nekünk a webhelyek tartalmának fejlesztésében.
     * Convert.com és ShareProgress, amelyek cookie-t helyeznek az eszközre, és segítenek tesztelni a webtartalmak variációit. Ez segít jobb webes élményeket nyújtani a felhasználóknak.
     * DoubleClick és Flashtalking, amelyek mindegyike tiszta GIF-et használ a Firefox letöltési oldalán. Ez segít nekünk megítélni hirdetési kampányaink hatékonyságát.
@@ -74,5 +75,3 @@ Némelyik Mozilla-webhelyen vásárolhat (például alkalmazásokat vagy eszköz
 * **Fizetések feldolgozása**: A csekken, átutalási megbízással, közvetlen beszedéssel és átutalással teljesített kifizetéseket kivéve a Mozilla nem jut olyan Öntől származó pénzügyi információ birtokába, amelyet feldolgozásra továbbítana egy harmadik félként működő beszállítónak (pl. Braintree, PayPal, Bitpay, Stripe).
 
 * **Személyes adatok**: Az Ön nevét, levelezési címét és/vagy e-mail-címét is megkaphatjuk. Ezeket az adatokat csalások észlelésére és nyilvántartások vezetésére használjuk. Az [Acousticot](https://acoustic.com/privacy-notice/) használjuk nyugták e-mailben történő elküldésére és nyilvántartások tárolására, amelyeket az utolsó fizetés dátumától számított négy évig őrizzük meg. 
-
-* **Harmadik felektől származó adatok**: A [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/)-t használjuk adománygyűjtési erőfeszítéseink növelésére, amelyek célja, hogy az internet mindenki számára egészséges, nyitott és hozzáférhető legyen. Az adományozóknak lehetőségük van [abbahagyni](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) a Mozilla használatát.
