@@ -1,7 +1,7 @@
 ﻿# Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-10 maja 2022 r.
-{: datetime="2022-05-10" }
+29 listopada 2022 r.
+{: datetime="2022-11-29" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -36,6 +36,7 @@ Aby lepiej zrozumieć interakcje użytkowników z naszymi produktami, usługami 
     * Dane urządzeń, takie jak kraj, język, operator i producent, mogą być wykorzystywane do dostosowania funkcji dla użytkownika.
 
 * **Pomiary**: Możemy także używać ciasteczek, danych urządzeń i adresów IP, przezroczystych plików GIF i usług podmiotów zewnętrznych. Pomaga nam to uzyskać ogólne zrozumienie tego, w jaki sposób użytkownicy korzystają z naszych produktów, usług, metod komunikacji, witryn, kampanii online, wycinków, urządzeń i innych platform. Używamy tych rozwiązań:
+    * Mozilla Glean, nasza platforma telemetryczna i analityczna. Więcej informacji na temat konkretnych rodzajów danych, które gromadzimy, można znaleźć na stronie [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics — ta usługa umieszcza ciasteczko na urządzeniu w celu uzyskiwania pomiarów dotyczących korzystania przez użytkowników z naszych witryn. Pomaga nam to zapewniać coraz lepszą zawartość witryn.
     * Convert.com i ShareProgress — te usługi umieszczają ciasteczko na urządzeniu. Umożliwia nam to testowanie różnych wariantów zawartości internetowej. Usługi te pomagają nam zaoferować użytkownikom lepszą interakcję z witrynami.
     * DoubleClick i Flashtalking — obie usługi używają przezroczystego pliku GIF na stronie z przeglądarką Firefox do pobrania. Pomaga nam to mierzyć skuteczność naszych kampanii reklamowych.
@@ -74,5 +75,3 @@ Niektóre witryny firmy Mozilla umożliwiają zakupy (np. aplikacji lub urządze
 * **Przetwarzanie płatności**: Za wyjątkiem płatności czekiem, przekazem pieniężnym, poleceniem zapłaty i przelewem bankowym, Mozilla nie otrzymuje żadnych danych finansowych, które użytkownik przesyła do usługodawców zewnętrznych w celu przetwarzania (takich jak Braintree, PayPal, Bitpay i Stripe).
 
 * **Dane osobowe**: Możemy także otrzymać imię i nazwisko, adres pocztowy i/lub adres e-mail użytkownika. Dane te są wykorzystywane do wykrywania oszustw i prowadzenia dokumentacji. Używamy usługi [Acoustic](https://acoustic.com/privacy-notice/) do wysyłania potwierdzeń w wiadomościach e-mail i przechowywania zapisów, które są zachowywane przez cztery lata od daty ostatniej płatności. 
-
-* **Dane osób trzecich**: Korzystamy z usługi [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/), aby usprawnić nasze wysiłki w zakresie pozyskiwania funduszy na rzecz utrzymania zdrowego, otwartego i dostępnego dla wszystkich Internetu. Wpłacający datki mogą [zrezygnować](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) z użycia danych przez firmę Mozilla.

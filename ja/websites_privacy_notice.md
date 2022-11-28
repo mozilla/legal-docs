@@ -1,7 +1,7 @@
 ﻿# ウェブサイト、コミュニケーションおよび Cookie プライバシーに関する通知
 
-2022年5月10日
-{: datetime="2022-05-10" }
+2022年11月29日
+{: datetime="2022-11-29" }
 
 Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) は、Mozilla (当社) が皆様の情報を収集した場合に、その情報をどのように取り扱うかについて、説明しています。
 
@@ -36,6 +36,7 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
     * 国、言語、オペレーター、および OEM 等の特定のデバイス情報は、皆様の経験をカスタマイズするために使用されます。
 
 * **メトリクス**:Mozilla は、Cookie、デバイス情報、および IP アドレスをクリア GIF、Cookie、第三者によるサービスとともに使用することもあります。これらは、ユーザが Mozilla の製品、サービス、コミュニケーション、ウェブサイト、オンラインキャンペーン、スニペット、デバイス、およびその他のプラットフォームをどのように利用しているかを総体的に把握するのに役立ちます。Mozilla では、以下を使用しています。
+    * Mozilla のファーストパーティで、製品利用統計情報および分析プラットフォームである Mozilla Glean。Mozilla が収集するデータの特定の種類に関する詳細については [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock) をご覧ください。
     * Cookie をユーザのデバイスに配置し、ユーザが Mozilla のウェブサイトにどのように関与しているかのメトリクスを得るための Google アナリティクス。この機能は、Mozilla がウェブサイトのコンテンツを改善するのに役立ちます。
     * Cookie をユーザのデバイスに配置し、ウェブコンテンツのバリエーションをテストするのに役立つ Convert.com および ShareProgress。この機能は、Mozilla がより良いウェブ経験をユーザに提供するのに役立ちます。
     * Mozilla の Firefox ダウンロードページでクリア GIF を使用する DoubleClick および Flashtalking。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
@@ -58,7 +59,7 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
 * **電子メール**:皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla 電子メール設定](https://www.mozilla.org/newsletter/recovery/)を通じて受信を中止することができます。
 
 * **解析および最適化**:Mozilla ウェブサイトの閲覧情報を収集されたくない場合は、以下の手順に従ってください。
-* Mozilla の独自ツール:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/privacy/websites/data-preferences/)します。
+    * Mozilla の独自ツール:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/privacy/websites/data-preferences/)します。
     * Google:[Google アナリティクスオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google アナリティクスへのデータ送信が禁止されます。一部の Mozilla.org ページでは、広告キャンペーンの効率を理解するために DoubleClick と通信するクリア GIF が使われています。皆様は、Google の広告設定で DoubleClick からのパーソナライズ化された広告を制御できます（お持ちの Google アカウントにサインインするよう求められます）。
     * Convert.com:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/exp/opt-out/)します。
     * Yahoo:オプトアウトするには、[Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) にアクセスしてください。
@@ -74,5 +75,3 @@ Mozilla のウェブサイトには、（アプリやギアなどの）購入、
 * **決済処理**:小切手、郵便為替、自動引き落とし、および電信送金による決済を除き、Mozilla が、皆様から第三者ベンダーに送信される決済情報を受信することはありません（例: Braintree、PayPal、Bitpay、Stripe）。
 
 * **個人データ**:Mozilla は、皆様の氏名、住所、もしくはメールアドレス、またはそれらすべてを受信することがあります。このデータは、不正行為の検出および記録のために使用されます。Mozilla は、電子メール受信と記録保管のために [Acoustic](https://acoustic.com/privacy-notice/) を利用し、これらの情報は最後の支払日から4年間保持されます。 
-
-* **第三者データ**:Mozilla は、すべてのユーザのために健康的で、オープンで、アクセス可能なインターネット環境を維持するための募金を推進するため、[WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) を利用します。寄付をされた方は、Mozilla の利用を[停止](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0)することができます。

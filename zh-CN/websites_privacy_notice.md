@@ -1,7 +1,7 @@
 ﻿# 网站、通信和 Cookie 隐私声明
 
-2022 年 5 月 10 日
-{: datetime="2022-05-10" }
+2022 年 11 月 29 日
+{: datetime="2022-11-29" }
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
@@ -36,6 +36,7 @@
     * 我们使用某些设备信息（如国家/地区、语言、运营商和 OEM）来定制您的体验。
 
 * **指标**：我们还可能使用 cookie、设备信息和 IP 地址，以及网络信标、cookie 和第三方服务，帮助我们从整体上了解用户如何与我们的产品、服务、通信、网站、在线广告活动、片段、设备以及其他平台进行交互。我们使用：
+    * Mozilla Glean，我们的第一方遥测和分析平台。您可以在 [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock) 中了解有关我们收集的特定数据类型的更多信息。
     * Google Analytics，在您的设备上放置 cookie，以获取关于用户如何与我们的网站交互的指标。这可以帮助我们改善网站内容。
     * Convert.com 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
     * DoubleClick 和 Flashtalking，每个都在我们的下载 Firefox 页面使用网络信标。这可以帮助我们衡量广告活动的有效性。
@@ -58,7 +59,7 @@
 * **电子邮件**：我们的营销通信为可选接收，您可以在电子邮件的页脚取消订阅，或更新您的 [Mozilla 电子邮件首选项](https://www.mozilla.org/newsletter/recovery/)。
 
 * **分析和优化**：请按照以下说明，阻止收集有关您访问 Mozilla 网站的数据：
-* Mozilla 第一方工具：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/privacy/websites/data-preferences/)。
+    * Mozilla 第一方工具：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/privacy/websites/data-preferences/)。
     * Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标（与 DoubleClick 进行通信），以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
     * Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/)。
     * Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。
@@ -67,12 +68,9 @@
 * **社交媒体**：Mozilla 网站上的社交分享按钮只有当您点击该按钮时才会与社交媒体提供商共享数据。
 
 ---------------------------------------
-
 在某些 Mozilla 网站上，您可以进行购买（例如应用程序或装备），为特定的 Mozilla 项目捐款，或捐款支持 Mozilla 的公共和慈善项目。这些交易通常由 Mozilla 的第三方供应商处理。 
 {: #donations }
 
 * **付款处理**：除通过支票、汇票、直接借记和电汇进行的付款外，Mozilla 不会收集任何由您发送给指定第三方供应商进行处理的财务信息（如 Braintree、PayPal、Bitpay、Stripe)。
 
 * **个人数据**：我们也可能会收集您的姓名、邮寄地址和/或电子邮件地址。这些数据将用于欺诈检测和记录保存。我们使用 [Acoustic](https://acoustic.com/privacy-notice/) 发送收据和店铺记录，这些收据和记录将自上次付款之日起保留四年。 
-
-* **第三方数据**：我们使用 [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) 改进我们的筹款工作，以保持互联网的健康、开放和对所有人员的可访问性。捐赠者可以[选择退出](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) Mozilla 的使用。
