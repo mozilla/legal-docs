@@ -1,7 +1,7 @@
 ﻿# Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-10. května 2022
-{: datetime="2022-05-10" }
+29. listopadu 2022
+{: datetime="2022-11-29" }
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
@@ -36,6 +36,7 @@ Za účelem zajištění funkčnosti a lepšího pochopení interakce uživatel
     * Určité informace o zařízení, jako jsou země, jazyk, operátor a OEM, využíváme k přizpůsobení vašeho uživatelského prostředí.
 
 * **Metriky**: Můžeme rovněž používat soubory cookies, informace o zařízení a adresy IP, společně s jednopixelovými gify, soubory cookies a službami třetích stran, aby nám pomohly souhrnně pochopit způsob, jakým uživatelé využívají naše produkty, služby, sdělení, webové stránky, online kampaně, snippety, zařízení a další platformy. Používáme:
+    * Mozilla Glean, naše vlastní platforma pro telemetrii a analýzu. Podrobnější informace o konkrétních typech údajů, které shromažďujeme, se dozvíte ve [Slovníku Glean](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, která umisťuje soubor cookie do vašeho zařízení za účelem získání metrik o tom, jak uživatelé používají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
     * Convert.com a ShareProgress, jež umisťují soubor cookie do vašeho zařízení, který nám pomáhá s testováním změn obsahu webových stránek. Díky tomu jsme schopni nabízet uživatelům lepší webové prostředí.
     * DoubleClick a Flashtalking, které používají jednopixelové gify na naší stránce pro stažení Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
@@ -74,5 +75,3 @@ Některé webové stránky Mozilla umožňují provádět nákupy (např. aplika
 * **Zpracovávání plateb**: S výjimkou plateb provedených prostřednictvím šeku, peněžní poukázky, inkasa a bankovních převodů nezískává společnost Mozilla žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům (např. Braintree, PayPal, Bitpay, Stripe).
 
 * **Osobní údaje**: Můžeme také získat vaše jméno, poštovní adresu a/nebo e-mailovou adresu. Tyto údaje slouží k odhalování podvodů a evidenci záznamů. Používáme platformu [Acoustic](https://acoustic.com/privacy-notice/) k zasílání faktur e-mailem a ukládání záznamů, které jsou uchovávány po dobu čtyř let od data poslední platby. 
-
-* **Údaje třetích stran**: Používáme platformu [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) ke zlepšení našeho úsilí při získávání finančních prostředků sloužících k tomu, abychom zajistili stabilní, otevřený a dostupný internet pro všechny. Dárci se mohou z využívání služeb společnosti Mozilla [odhlásit](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0).

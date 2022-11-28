@@ -1,7 +1,7 @@
 ﻿# Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-Dienstag, 10. Mai 2022
-{: datetime="2022-05-10" }
+Dienstag, 29. November 2022
+{: datetime="2022-11-29" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -36,6 +36,7 @@ Wir verwenden evtl. Cookies, Clear-GIFs, Web-Analysefunktionen Dritter, Gerätei
     * Wir nutzen bestimmte Geräteinformationen wie z. B. Land, Sprache, Betreiber und OEM dazu, Ihre Erfahrung spezifisch anzupassen.
 
 * **Metriken**: Wir verwenden zusätzlich zu Zählpixeln (Clear-GIFs), Cookies und Diensten von Drittanbietern evtl. auch Geräteinformationen und IP-Adressen, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
+    * Mozilla Glean, unsere Erstanbieter-Plattform für Telemetrie und Analysen. Im [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock) können Sie mehr darüber erfahren, welche Datenarten wir erfassen.
     * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren. Dadurch können wir die Website-Inhalte verbessern.
     * Convert.com und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können. Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
     * DoubleClick und Flashtalking, die ein Clear-GIF auf unserer Download-Firefox-Seite verwenden. Damit können wir die Effektivität unserer Werbekampagnen messen.
@@ -74,5 +75,3 @@ Auf manchen Mozilla-Websites können Sie etwas kaufen (wie z. B. Apps oder Merc
 * **Zahlungsverarbeitung**: Außer per Scheck, Zahlungsanweisung, Direktdebit und Überweisung getätigte Zahlungen erhält Mozilla keine Finanzinformationen, die von Ihnen an den angegebenen Dritten (z. B. Braintree, PayPal, Bitpay, Stripe) zur Bearbeitung übertragen werden.
 
 * **Personenbezogene Daten**: Wir können auch Ihren Namen, Ihre Postanschrift und/oder Ihre E-Mail-Adresse erhalten. Diese Daten dienen dem Schutz vor Betrug und der Führung von Unterlagen. Wir verwenden zum Senden von Quittungen per E-Mail und zum Speichern von Unterlagen [Acoustic](https://acoustic.com/privacy-notice/). Die gespeicherten Unterlagen werden ab dem Datum der letzten Zahlung vier Jahre lang aufbewahrt. 
-
-* **Daten Dritter**: Wir verbessern unsere Fundraising-Bemühungen mithilfe von [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/), damit das Internet gesund, offen und für alle zugänglich bleibt. Spender können sich per [Opt-out](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) gegen die Verwendung durch Mozilla entscheiden.
