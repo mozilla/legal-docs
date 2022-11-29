@@ -1,7 +1,7 @@
 # Privacy Policy
 
-*Effective October 11, 2021*
-{: datetime="2021-10-11" }
+*Effective November 29, 2022*
+{: datetime="2022-11-29" }
 
 This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as "we," "us," "our," "Mozilla"), and are operated by Mozilla's business unit known as "Pocket," which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
 
@@ -42,7 +42,7 @@ We use cookies and analytics tools for the following purposes:
 
 * Necessary: These cookies are necessary for our website to function and to support our business. They cannot be switched off. For example, we use them to manage your login state, and our ad partners use them to display ads and measure impressions and clicks. You can set your browser to block or alert you about these cookies, but this may cause parts of the site to not work properly. These cookies do not store any personally identifiable information and unless Personalized Advertising Cookies are enabled, ads are non-personalized.
 * Analytics: We place these cookies on your device to help us understand how users engage with our website and product, and to remember your account preferences and language settings. For example, we use Google Analytics and other tools to understand which Pocket webpages are popular. We also use pixels in our emails in order to collect usage information.
-* Personalized Advertising: Some Pocket web pages have ads. If you choose, Pocket ad partners will place advertising cookies on your device to personalize the ads you see here and on other websites. If you play a YouTube video on Pocket, YouTube may place cookies on your device which can be used for personalization.
+* Personalized Advertising: Some Pocket web pages have ads. If you choose, Pocket ad partners will place advertising cookies on your device to personalize the ads you see here and on other websites. If you play a YouTube video on Pocket, YouTube may place cookies on your device which can be used for personalization. Our partner for personalized ads on our syndicated article pages, Freestar, has its own [Privacy Policy](https://freestar.com/privacy-policy/)
 
 ### Your Choices
 
