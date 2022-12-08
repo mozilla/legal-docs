@@ -54,7 +54,7 @@ Utilizziamo i cookie e gli strumenti di analisi per i seguenti scopi:
 
 Oltre ai metodi sopra descritti, possiamo anche raccogliere informazioni utilizzando i cookie o altre tecnologie quando si accede al nostro sito web o si utilizzano le Tecnologie Pocket. L'utente può rifiutare i nostri cookie se il suo browser lo consente, anche se in tal caso potrebbe non essere in grado di utilizzare alcune funzioni, potrebbe essere necessario inserire la password più frequentemente durante una sessione e potrebbe non essere possibile installare o utilizzare alcune Tecnologie Pocket. I cookie e altre tecnologie rendono le Tecnologie Pocket più facili da usare e ci aiutano a personalizzare i servizi offerti in base agli interessi e alle attività dell'utente.
 
-Possiamo anche utilizzare "tag di pixel", "web beacon", "clear GIF" o mezzi simili (singolarmente o collettivamente "Tag di pixel") in relazione alle email che inviamo ai nostri utenti per raccogliere dati di utilizzo. Utilizziamo i Tag di pixel, altre tecnologie e le informazioni raccolte per contare gli utenti che hanno visitato determinate pagine del nostro sito web, per fornire servizi brandizzati e per aiutare a determinare l'efficacia di campagne promozionali o pubblicitarie.
+Possiamo anche utilizzare "pixel tag", "web beacon", "clear GIF" o mezzi simili (singolarmente o collettivamente "pixel tag") in relazione alle email che inviamo ai nostri utenti per raccogliere dati di utilizzo. Utilizziamo i pixel tag, altre tecnologie e le informazioni raccolte per contare gli utenti che hanno visitato determinate pagine del nostro sito web, per fornire servizi brandizzati e per aiutare a determinare l'efficacia di campagne promozionali o pubblicitarie.
 
 ## Uso delle informazioni {: #use }
 
