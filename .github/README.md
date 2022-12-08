@@ -17,6 +17,8 @@ List of translated files (number of locales between parentheses):
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
 * ossn_site_privacy_notice.md (1)
+* pocket_privacy_policy.md (12)
+* pocket_tos.md (12)
 * subscription_services_privacy_notice.md (6)
 * subscription_services_tos.md (6)
 * websites_privacy_notice.md (13)
@@ -37,8 +39,6 @@ List of files not translated:
 * mozilla_hubs_privacy_notice.md
 * mozilla_hubs_tos.md
 * mozilla_location_services_privacy_notice.md
-* pocket_privacy_policy.md
-* pocket_tos.md
 * privacy_notice_summary.md
 * report_infringement.md
 * thunderbird_about_rights.md

@@ -337,6 +337,40 @@
       "es"
     ]
   },
+  "pocket_privacy_policy.md": {
+    "count": 12,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN",
+      "zh-TW"
+    ]
+  },
+  "pocket_tos.md": {
+    "count": 12,
+    "locales": [
+      "de",
+      "es-ES",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN",
+      "zh-TW"
+    ]
+  },
   "subscription_services_privacy_notice.md": {
     "count": 6,
     "locales": [
