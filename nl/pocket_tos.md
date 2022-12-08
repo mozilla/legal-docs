@@ -131,7 +131,7 @@ Deze Overeenkomst is van kracht tenzij en tot deze wordt beëindigd zoals hierin
 
 Bij beëindiging van een betaald abonnement worden alle gegevens die zijn opgeslagen als onderdeel van uw betaalde abonnement (met inbegrip van bijvoorbeeld kopieën van content in uw permanente bibliotheek), nog 30 dagen bewaard. Na deze periode van 30 dagen zijn wij niet verplicht deze gegevens op te slaan.
 
-## Overdracht{: #assignment }
+## Overdracht {: #assignment }
 
 Deze Overeenkomst mag niet, geheel of gedeeltelijk, vrijwillig, van rechtswege of anderszins, door u worden overgedragen zonder onze voorafgaande schriftelijke toestemming. Met inachtneming van de voorgaande zin, zijn de rechten en verplichtingen van de partijen bindend voor, en komen zij ten goede aan, de partijen en hun respectieve opvolgers en rechtverkrijgenden. Elke poging tot overdracht anders dan in overeenstemming met deze afdeling is nietig.
 

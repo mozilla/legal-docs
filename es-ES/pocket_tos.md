@@ -39,7 +39,7 @@ A la atención de: Pocket Business Unit
 2 Harrison Street, Suite 175  
 San Francisco, CA 94105, EE. UU.
 
-## El servicio de Pocket{: #service }
+## El servicio de Pocket {: #service }
 
 La aplicación de software Pocket, los archivos de soporte y la documentación adjunta (en adelante, colectivamente, la «aplicación Pocket») se proporcionan exclusivamente para su uso personal y no comercial. Los vídeos, artículos y demás contenido que elija guardar pueden estar protegidos por derechos de autor y otras leyes. Consulte el sitio web que estaba visitando cuando guardó dicho contenido para obtener avisos de copyright, información y restricciones que puedan ser aplicables a dicho contenido.
 
@@ -163,7 +163,7 @@ Nos reservamos el derecho de limitar, a nuestra entera discreción, la disponibi
 
 Si este producto se adquiere bajo los términos de un contrato gubernamental, el uso, la duplicación y la divulgación están sujetos a los términos de esta licencia y a las siguientes restricciones: subdivisión (c)(1)(ii) de la cláusula Derechos sobre datos técnicos y software informático de 252.227-7013 (contratos DOD); subdivisiones (a) a (d) de 52.227-19 (contratos de agencia civil); y el Contrato de Lista de ADP aplicable (contratos de GSA).
 
-## Acceso por menores{: #children }
+## Acceso por menores {: #children }
 
 En los Estados Unidos, si usted es un fabricante de dispositivos u otro tercero (el «Patrocinador») que proporciona dispositivos a menores de 13 años que utilizan las Tecnologías de Pocket, asume la responsabilidad de cumplir con las disposiciones de la Ley de Protección de la Privacidad de los Niños en Internet («COPPA») de los Estados Unidos y, en la medida aplicable, la Ley de Derechos Educativos y Privacidad de la Familia («FERPA»). Esto significa que el Patrocinador debe notificar a los padres/tutores legales acerca de la información que se va a recopilar y obtener el consentimiento de estos antes de recopilar y compartir con la aplicación Pocket la información personal de los menores de 13 años con el fin de establecer una cuenta o utilizar las Tecnologías de Pocket. Las escuelas pueden, bajo circunstancias apropiadas, proporcionar dicho consentimiento en nombre de los padres/tutores legales. Para más información sobre el cumplimiento de la ley COPPA, consulte el sitio web de la Comisión Federal de Comercio en [https://www.ftc.gov/privacy/coppafaqs.shtm](https://www.ftc.gov/privacy/coppafaqs.shtm).
 

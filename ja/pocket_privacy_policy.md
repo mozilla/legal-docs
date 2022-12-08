@@ -48,7 +48,7 @@ Mozilla は、以下の目的で Cookie ツールと分析ツールを使用し�
 
 * Cookie 設定ツール: Pocket の初期設定では、必須の Cookie と分析 Cookie が設定され、パーソナライズド広告 Cookie は無効になっています。これらの Cookie は Cookie 設定ツールで管理できます。[詳細はこちら](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
 * お使いのブラウザー: ブラウザーの設定メニューは、Cookie を管理し、クロスサイトトラッキングを防止するのに役立つことがあります。
-* Google のアナリティクスオプトアウト: [Google Analyticsオプトアウトブラウザーアドオン(https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google Analyticsへのデータ送信が禁止されます。
+* Google のアナリティクスオプトアウト: [Google Analyticsオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google Analyticsへのデータ送信が禁止されます。
 * 外部のオプトアウトツール: 一部のサードパーティ組織により、参加企業が配信するパーソナライズド広告をオプトアウトする手段が提供されています。オプトアウトする方法の詳細については、次の組織のウェブサイトをご覧ください: [Network Advertising Initiative のオプトアウトツール](https://optout.networkadvertising.org/?c=1)、[Digital Advertising Initiative のブラウザーチェックツール](https://optout.aboutads.info/?c=2)、[European Interactive Digital Advertising Alliance の Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices)。
 * 個人情報の販売をオプトアウトする皆様の権利: Pocket が皆様の個人情報を共有または販売することはありません。Pocket でパーソナライズド広告を有効にすると、広告主が Pocket で皆様の広告をパーソナライズできるようになります。これは、カリフォルニア州のプライバシー法に基づき、皆様の情報の販売と見なされる場合があります。Cookie 設定ツールからパーソナライズド広告 Cookie のオプションに移動し、「無効」に切り替えることでオプトアウトできます。
 
