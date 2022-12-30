@@ -72,6 +72,6 @@ Potete controllare le preferenze relative a singoli cookie, indicare le vostre p
 Alcuni siti web di Mozilla vi consentono di fare acquisti (tipo applicazioni o strumenti), di contribuire a specifici progetti Mozilla o di fare donazioni a programmi benefici pubblici promossi da Mozilla. Queste transazioni vengono spesso elaborate da terzi, non da Mozilla. 
 {: #donations }
 
-* **Elaborazione pagamenti**: fatta eccezione per pagamenti tramite assegno, vaglia, addebito diretto e bonifico bancario, Mozilla non riceve alcuna informazione di natura finanziaria; questo tipo di informazioni viene trasmesso da voi a fornitori esterni per l'elaborazione (ad esempio, Braintree, PayPal, Bitpay, Stripe).
+* **Elaborazione pagamenti**: fatta eccezione per pagamenti tramite assegno, vaglia, addebito diretto e bonifico bancario, Mozilla non riceve alcuna informazione di natura finanziaria; questo tipo di informazioni viene trasmesso da voi a fornitori esterni per l'elaborazione (ad esempio, Braintree, PayPal, Bitpay, Stripe). Inoltre, foundation.mozilla.org impiega una terza parte denominata Fundraise Up per gestire il pagamento delle donazioni.
 
 * **Dati personali**: possiamo inoltre ricevere il vostro nome, indirizzo postale e/o indirizzo email. Questi dati vengono utilizzato per prevenire frodi e per finalità di mantenimento dei registri. Ci serviamo di [Acoustic](https://acoustic.com/privacy-notice/) per l'invio via email delle ricevute e l'archiviazione dei dati, che vengono conservati per quattro anni dalla data dell'ultimo pagamento.

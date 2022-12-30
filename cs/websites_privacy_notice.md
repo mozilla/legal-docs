@@ -72,6 +72,6 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
 Některé webové stránky Mozilla umožňují provádět nákupy (např. aplikací nebo zboží), přispívat na konkrétní projekty společnosti Mozilla nebo finančně podporovat veřejné a charitativní programy společnosti Mozilla. Tyto transakce jsou často zpracovávány třetími stranami, a nikoli společností Mozilla. 
 {: #donations }
 
-* **Zpracovávání plateb**: S výjimkou plateb provedených prostřednictvím šeku, peněžní poukázky, inkasa a bankovních převodů nezískává společnost Mozilla žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům (např. Braintree, PayPal, Bitpay, Stripe).
+* **Zpracovávání plateb**: S výjimkou plateb provedených prostřednictvím šeku, peněžní poukázky, inkasa a bankovních převodů nezískává společnost Mozilla žádné finanční informace, které jsou vámi předávány ke zpracování našim nezávislým dodavatelům (např. Braintree, PayPal, Bitpay, Stripe). Krom toho foundation.mozilla.org využívá pro správu plateb darů třetí osobu s názvem Fundraise Up.
 
-* **Osobní údaje**: Můžeme také získat vaše jméno, poštovní adresu a/nebo e-mailovou adresu. Tyto údaje slouží k odhalování podvodů a evidenci záznamů. Používáme platformu [Acoustic](https://acoustic.com/privacy-notice/) k zasílání faktur e-mailem a ukládání záznamů, které jsou uchovávány po dobu čtyř let od data poslední platby. 
+* **Osobní údaje**: Můžeme také získat vaše jméno, poštovní adresu a/nebo e-mailovou adresu. Tyto údaje slouží k odhalování podvodů a evidenci záznamů. Používáme platformu [Acoustic](https://acoustic.com/privacy-notice/) k zasílání faktur e-mailem a ukládání záznamů, které jsou uchovávány po dobu čtyř let od data poslední platby.
