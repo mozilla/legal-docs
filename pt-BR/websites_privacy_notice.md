@@ -72,6 +72,6 @@ Podemos usar cookies, GIFs transparentes, análises da web de terceiros, informa
 Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos), contribuir com projetos específicos da Mozilla ou fazer doações para programas públicos e de caridade da Mozilla. Essas transações são normalmente processadas por fornecedores terceirizados da Mozilla. 
 {: #donations }
 
-* **Processamento de pagamentos**: a Mozilla não recebe informações financeiras transferidas por você para nossas empresas terceirizadas para processamento (por exemplo, Braintree, PayPal, Bitpay, Stripe), exceto em pagamentos feitos por cheque, ordem de pagamento, débito direto e transferência eletrônica.
+* **Processamento de pagamentos**: a Mozilla não recebe informações financeiras transferidas por você para nossas empresas terceirizadas para processamento (por exemplo, Braintree, PayPal, Bitpay, Stripe), exceto em pagamentos feitos por cheque, ordem de pagamento, débito direto e transferência eletrônica. Além disso, o site foundation.mozilla.org usa o terceiro Fundraise Up para gerenciar o pagamento de doações.
 
-* **Dados pessoais**: também podemos receber seu nome, endereço e/ou e-mail. Esses dados são usados para detecção de fraudes e para fins de registro. Usamos o [Acoustic](https://acoustic.com/privacy-notice/) para enviar recibos por e-mail e armazenar os registros, que são mantidos por quatro anos após a data do último pagamento. 
+* **Dados pessoais**: também podemos receber seu nome, endereço e/ou e-mail. Esses dados são usados para detecção de fraudes e para fins de registro. Usamos o [Acoustic](https://acoustic.com/privacy-notice/) para enviar recibos por e-mail e armazenar os registros, que são mantidos por quatro anos após a data do último pagamento.
