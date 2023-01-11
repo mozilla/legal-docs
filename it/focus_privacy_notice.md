@@ -18,7 +18,7 @@ Focus invia dati a Mozilla per:
 
 Puoi leggere la documentazione relativa alla telemetria di Android [qui](https://github.com/mozilla-mobile/focus-android/blob/main/docs/Telemetry.md) e [qui](https://dictionary.telemetry.mozilla.org/apps/focus_android), e di iOS [qui](https://dictionary.telemetry.mozilla.org/apps/focus_ios).
 
-### Misurare e supportare le nostre campagne marketing
+### Misurare e supportare le nostre campagne di marketing
 
 * __Dati sulle campagne e dati di riferimento__: Su Android, queste informazioni aiutano Firefox Focus a comprendere l'efficacia delle campagne marketing. Focus può utilizzare "Dati di riferimento", come il dominio del sito web o la campagna pubblicitaria che ti hanno indotto a scaricare e installare Focus. Questi dati vengono conservati da [Adjust](https://www.adjust.com/terms/privacy-policy/), il nostro fornitore di dati di analisi, e utilizzati quando avvii Focus, e includono inoltre ID pubblicitario di Google, data e ora, paese, impostazioni locali, sistema operativo e versione dell'app. Mozilla non riceve tali dati per Klar. Per saperne di più, consulta la [documentazione](https://github.com/mozilla-mobile/focus-android/wiki/Adjust-Usage). 
 
