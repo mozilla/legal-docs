@@ -18,7 +18,7 @@ If we store your personal information with information that is non-personal, we 
 We learn information about you when:
 
 * you give it to us directly (e.g., when you choose to send us crash reports);
-* we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if is up to date);
+* we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if it is up to date);
 * someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
 * when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
 
