@@ -5,7 +5,7 @@ Version 1.0, Effective October 25, 2022
 
 Hubs (the “Service”) is a new, preview service that allows you to set up and manage your own set of real-time communications platforms for virtual reality, augmented reality, desktop, laptop, or mobile. It is available as a paid subscription service.  
 
-These Terms of Service explain your rights and responsibilities when you use Hubs. By purchasing and using Hubs, you assure Mozilla that you have read these terms and agree to them. The [legacy version of Hubs](https://hubs.mozilla.com/demo) is currently still available and is governed by these Terms of Service with the exception of Section 1 for Subscribing to Hubs. 
+These Terms of Service explain your rights and responsibilities when you use Hubs. By purchasing and using Hubs, you assure Mozilla that you have read these terms and agree to them. If you agree to these terms on behalf of an entity, such as your employer, you represent that you are authorized to and intend to bind that entity. The [legacy version of Hubs](https://hubs.mozilla.com/demo) is currently still available and is governed by these Terms of Service with the exception of Section 1 for Subscribing to Hubs. 
 
 ## 1. Subscribing to Hubs
 
