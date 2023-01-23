@@ -1,7 +1,7 @@
 # Terms of Service for Hubs
 
-Version 1.0, Effective October 25, 2022
-{: datetime="2022-10-25" }
+Version 1.1, Effective January 23, 2023
+{: datetime="2023-01-23" }
 
 Hubs (the “Service”) is a new, preview service that allows you to set up and manage your own set of real-time communications platforms for virtual reality, augmented reality, desktop, laptop, or mobile. It is available as a paid subscription service.  
 
