@@ -166,7 +166,7 @@ Pocket 技術可透過非美國的國家／地區存取。我們會透過位於�
 
 ## 兒童存取 {: #children }
 
-在美國，如果您是會向未滿 13 歲的兒童提供使用 Pocket 技術裝置的裝置製造商或其他第三方（「贊助商」），則您必須負責遵守美國兒童線上隱私保護法 (「COPPA」)，並須在適用範圍內遵守家庭教育權利與隱私權法案 (「FERPA」)。這表示，贊助商必須通知雙親/監護人瞭解收集哪些資訊，並須獲得雙親/監護人的同意，方可透過 Pocket 應用程式收集及分享未滿 13 歲兒童的個人資訊，並藉此建立帳號或使用 Pocket 技術。若情況合宜，學校可代表雙親/監護人提供這類同意。有關如何遵守 COPPA 的詳情，請見聯邦貿易委員會網站：[https://www.ftc.gov/privacy/coppafaqs.shtm](https://www.ftc.gov/privacy/coppafaqs.shtm)。
+在美國，如果您是會向未滿 13 歲的兒童提供使用 Pocket 技術裝置的裝置製造商或其他第三方（「贊助商」），則您必須負責遵守美國兒童線上隱私保護法 (「COPPA」)，並須在適用範圍內遵守家庭教育權利與隱私權法案 (「FERPA」)。這表示，贊助商必須通知雙親/監護人瞭解收集哪些資訊，並須獲得雙親/監護人的同意，方可透過 Pocket 應用程式收集及分享未滿 13 歲兒童的個人資訊，並藉此建立帳號或使用 Pocket 技術。若情況合宜，學校可代表雙親/監護人提供這類同意。有關如何遵守 COPPA 的詳情，請見聯邦貿易委員會網站：[https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)。
 
 除上述說明之外，Pocket 技術並不提供給未滿 13 歲的個人使用。如果您的年齡介於 13 歲至 18 歲之間，請與您的雙親或監護人閱覽本協議，確定您以及雙親或監護人皆瞭解並同意協議內容。
 
