@@ -1,7 +1,7 @@
 ﻿# ウェブサイト、コミュニケーションおよび Cookie プライバシーに関する通知
 
-2022年11月29日
-{: datetime="2022-11-29" }
+2023年3月8日
+{: datetime="2023-03-08" }
 
 Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) は、Mozilla (当社) が皆様の情報を収集した場合に、その情報をどのように取り扱うかについて、説明しています。
 
@@ -40,7 +40,6 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
     * Cookie をユーザのデバイスに配置し、ユーザが Mozilla のウェブサイトにどのように関与しているかのメトリクスを得るための Google アナリティクス。この機能は、Mozilla がウェブサイトのコンテンツを改善するのに役立ちます。
     * Cookie をユーザのデバイスに配置し、ウェブコンテンツのバリエーションをテストするのに役立つ Convert.com および ShareProgress。この機能は、Mozilla がより良いウェブ経験をユーザに提供するのに役立ちます。
     * Mozilla の Firefox ダウンロードページでクリア GIF を使用する DoubleClick および Flashtalking。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
-    * Mozilla の Firefox ダウンロードページで JavaScript を使用する Yahoo Dot Pixel。この機能は、Mozilla の広告キャンペーンの効果を図るのに役立ちます。
     * ユーザを Mozilla のダウンロードページに差し向けたウェブサイトドメインまたは広告キャンペーンを理解するために Firefox のインストーラに含めることがある HTTP リファラルデータ。この情報は、広告キャンペーンの効果を理解し、向上させるのに役立ちます。
     * 試験的に時々用いられるその他のメトリクスツール。例えば、Mozilla では、新しいメトリクスツールを評価したり、既存のメトリクスコレクションをテストしたりする場合にこれを行います。
   
@@ -62,7 +61,6 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
     * Mozilla の独自ツール:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/privacy/websites/data-preferences/)します。
     * Google:[Google アナリティクスオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google アナリティクスへのデータ送信が禁止されます。一部の Mozilla.org ページでは、広告キャンペーンの効率を理解するために DoubleClick と通信するクリア GIF が使われています。皆様は、Google の広告設定で DoubleClick からのパーソナライズ化された広告を制御できます（お持ちの Google アカウントにサインインするよう求められます）。
     * Convert.com:[Www.mozilla.org　でオプトアウト](https://www.mozilla.org/exp/opt-out/)します。
-    * Yahoo:オプトアウトするには、[Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) にアクセスしてください。
     * ShareProgress および Fathom.com:[お使いのブラウザでトラッキング拒否機能を有効化](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)できます。
 
 * **ソーシャルメディア**:Mozilla のウェブサイトにおけるソーシャルメディア共有ボタンは、皆様がこれを明確にクリックしない限り、ソーシャルメディアプロバイダとデータを共有しないように設計されています。

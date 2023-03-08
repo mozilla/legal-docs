@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-November 29, 2022
-{: datetime="2022-11-29" }
+March 8, 2023
+{: datetime="2023-03-08" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 

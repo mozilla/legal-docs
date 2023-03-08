@@ -1,7 +1,7 @@
 ﻿# Zasady prywatności dotyczące witryn, komunikacji i ciasteczek
 
-29 listopada 2022 r.
-{: datetime="2022-11-29" }
+8 marca 2023 r.
+{: datetime="2023-03-08" }
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
@@ -40,7 +40,6 @@ Aby lepiej zrozumieć interakcje użytkowników z naszymi produktami, usługami 
     * Google Analytics — ta usługa umieszcza ciasteczko na urządzeniu w celu uzyskiwania pomiarów dotyczących korzystania przez użytkowników z naszych witryn. Pomaga nam to zapewniać coraz lepszą zawartość witryn.
     * Convert.com i ShareProgress — te usługi umieszczają ciasteczko na urządzeniu. Umożliwia nam to testowanie różnych wariantów zawartości internetowej. Usługi te pomagają nam zaoferować użytkownikom lepszą interakcję z witrynami.
     * DoubleClick i Flashtalking — obie usługi używają przezroczystego pliku GIF na stronie z przeglądarką Firefox do pobrania. Pomaga nam to mierzyć skuteczność naszych kampanii reklamowych.
-    * Yahoo Dot Pixel — ta usługa używa kodu JavaScript na naszej stronie z przeglądarką Firefox do pobrania. Pomaga nam to mierzyć skuteczność naszych kampanii reklamowych.
     * Dane odwołań HTTP — dane te może zawierać instalator przeglądarki Firefox. Umożliwiają one nam zrozumienie, która domena internetowa lub kampania reklamowa skierowała użytkownika na naszą stronę umożliwiającą pobranie. Dane te pomagają też nam zrozumieć skuteczność kampanii reklamowych i ulepszać je.
     * Od czasu do czasu eksperymentalnie używamy też innych narzędzi pomiarowych, na przykład w celu przetestowania nowego narzędzia lub sprawdzenia istniejących pomiarów.
   
@@ -62,7 +61,6 @@ Użytkownik ma kontrolę nad ustawieniami poszczególnych ciasteczek, może wska
     * Własne narzędzia firmy Mozilla: [możesz zrezygnować z tej usługi pod adresem www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: zainstaluj [Dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout), który zapobiega przekazywaniu danych do usługi Google Analytics. Niektóre strony w domenie Mozilla.org używają przezroczystych plików GIF, które komunikują się z usługą DoubleClick. Pomaga nam to zrozumieć skuteczność naszych kampanii reklamowych. Spersonalizowane reklamy z usługi DoubleClick można konfigurować w ustawieniach reklam Google (zostanie wyświetlona prośba o zalogowanie się na swoim koncie Google).
     * Convert.com: [możesz zrezygnować z tej usługi pod adresem www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: aby zrezygnować ze śledzenia, przejdź na stronę [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/).
     * ShareProgress i Fathom.com: możesz [włączyć funkcję „Nie śledź” w przeglądarce](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media społecznościowe**: Przyciski społecznościowe w witrynach firmy Mozilla zostały zaprojektowane tak, by nie udostępniać żadnych danych dostawcom usług społecznościowych, dopóki nie kliknie ich użytkownik.
