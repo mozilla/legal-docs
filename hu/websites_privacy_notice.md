@@ -1,7 +1,7 @@
 ﻿# Webhelyekre, közleményekre és sütikre vonatkozó adatvédelmi nyilatkozat
 
-2022. november 29.
-{: datetime="2022-11-29" }
+2023. március 8.
+{: datetime="2023-03-08" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -40,7 +40,6 @@ Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, es
     * Google Analytics, amely cookie-t helyez az eszközre, és statisztikákat készít a felhasználók webhelyeinkkel való interakciójának módjáról. Ez segít nekünk a webhelyek tartalmának fejlesztésében.
     * Convert.com és ShareProgress, amelyek cookie-t helyeznek az eszközre, és segítenek tesztelni a webtartalmak variációit. Ez segít jobb webes élményeket nyújtani a felhasználóknak.
     * DoubleClick és Flashtalking, amelyek mindegyike tiszta GIF-et használ a Firefox letöltési oldalán. Ez segít nekünk megítélni hirdetési kampányaink hatékonyságát.
-    * Yahoo Dot Pixel, amely JavaScript-kódot használ a Firefox letöltési oldalán. Ez segít nekünk megítélni hirdetési kampányaink hatékonyságát.
     * HTTP-hivatkozóadatok, amelyek a Firefox telepítőjében szerepelhetnek a letöltési oldalra mutató webhely-tartományok vagy hirdetési kampányok azonosítása céljából. Ez az információ segít nekünk megérteni és fejleszteni hirdetési kampányaink hatékonyságát.
     * Más mérési eszközök időről időre, kísérleti alapon. Ez például segíthet nekünk értékelni egy új mérőeszközt, vagy segíthet tesztelni a meglévő metrikákat.
   
@@ -62,7 +61,6 @@ Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, es
     * A Mozilla első féltől származó eszközei: [A www.mozilla.org webhelyen utasíthatja el az adatgyűjtést](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Telepítse a [Google Analytics-elutasítási böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), amely tiltja az adatok továbbítását a Google Analytics szolgáltatásba. Egyes Mozilla.org-oldalak olyan tiszta GIF-eket használnak, amelyek a DoubleClick szolgáltatással kommunikálnak a hirdetési kampányaink hatékonyságának megértése céljából. A Google hirdetési beállításaiban szabályozhatók a DoubleClick személyre szabott hirdetései (a rendszer kérni fogja, hogy jelentkezzen be a saját Google-fiókjába).
     * Convert.com: [A www.mozilla.org webhelyen utasíthatja el az adatgyűjtést](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: látogasson el az [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) webhelyére az adatgyűjtés elutasításához.
     * ShareProgress és Fathom.com: A böngészőben [bekapcsolhatja a Követés letiltása](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) funkciót.
 
 * **Közösségi oldalak**: A Mozilla webhelyein a közösségi oldalakon történő megosztást szolgáló gombok célja az, hogy kizárólag azután ossza meg az adatait a közösségi oldal szolgáltatójával, miután rákattintott az adott gombra.

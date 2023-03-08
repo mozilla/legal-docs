@@ -1,7 +1,7 @@
 ﻿# Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
-29. listopadu 2022
-{: datetime="2022-11-29" }
+8. března 2023
+{: datetime="2023-03-08" }
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
@@ -40,7 +40,6 @@ Za účelem zajištění funkčnosti a lepšího pochopení interakce uživatel
     * Google Analytics, která umisťuje soubor cookie do vašeho zařízení za účelem získání metrik o tom, jak uživatelé používají naše webové stránky. To nám pomáhá vylepšovat obsah stránek.
     * Convert.com a ShareProgress, jež umisťují soubor cookie do vašeho zařízení, který nám pomáhá s testováním změn obsahu webových stránek. Díky tomu jsme schopni nabízet uživatelům lepší webové prostředí.
     * DoubleClick a Flashtalking, které používají jednopixelové gify na naší stránce pro stažení Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
-    * Yahoo Dot Pixel, jež využívá JavaScript na naší stránce pro stažení Firefoxu. To nám pomáhá měřit efektivitu našich reklamních kampaní.
     * Referenční data HTTP, která mohou být zahrnuta do instalačního programu Firefoxu za účelem identifikace domény webových stránek nebo reklamních kampaní, jež vás odkázaly na naši stránku pro stažení. Tyto informace nám pomáhají porozumět efektivitě našich reklamních kampaní a vylepšit je.
     * Další analytické nástroje čas od času na zkušební bázi. Můžeme tak činit například proto, abychom posoudili nový analytický nástroj nebo otestovali naši stávající sbírku metrik.
   
@@ -62,7 +61,6 @@ Jednotlivé preference souborů cookies můžete ovládat, můžete sdělovat sv
     * Nástroje první strany Mozilla: [Odhlaste se na adrese www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Nainstalujte si [doplněk prohlížeče pro odhlášení ze služby Google Analytics](https://tools.google.com/dlpage/gaoptout), který zakáže přenos dat do služby Google Analytics. Některé stránky Mozilla.org využívají jednopixelové gify, které komunikují s platformou DoubleClick za účelem porozumění efektivitě našich reklamních kampaní. Přizpůsobené reklamy z platformy DoubleClick můžete ovládat v nastaveních reklamy Google (budete vyzváni k přihlášení k vašemu účtu Google).
     * Convert.com: [Odhlaste se na adrese www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: Chcete-li se odhlásit, navštivte [Správce reklamy podle zájmů](https://aim.yahoo.com/aim/us/en/optout/).
     * ShareProgress a Fathom.com: Můžete [aktivovat možnost Nesledovat ve svém prohlížeči](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Sociální média**: Tlačítka pro sdílení na sociálních médiích na webových stránkách Mozilla jsou navržena tak, aby údaje nebyly sdíleny s poskytovatelem sociálních médií, dokud na tlačítko přímo nekliknete.

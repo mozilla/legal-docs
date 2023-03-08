@@ -1,7 +1,7 @@
 ﻿# Pemberitahuan Privasi Situs Web, Komunikasi, & Cookie
 
-29 November 2022
-{: datetime="2022-11-29" }
+8 Maret 2023
+{: datetime="2023-03-08" }
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla ](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
@@ -40,7 +40,6 @@ Kami menggunakan cookie, GIF transparan, analitika web pihak ketiga, informasi p
     * Google Analytics, yang memasang cookie pada perangkat Anda, untuk mendapatkan metrik cara pengguna berinteraksi dengan situs web kami. Ini membantu kami meningkatkan konten situs.
     * Convert.com dan ShareProgress, yang memasang cookie pada perangkat Anda, untuk membantu kami menguji berbagai konten web. Ini membantu kami menawarkan pengalaman web yang lebih baik kepada pengguna.
     * DoubleClick dan Flashtalking, yang menggunakan GIF transparan pada halaman Firefox unduhan. Ini membantu kami mengukur efektivitas kampanye iklan kami.
-    * Yahoo Dot Pixel, yang menggunakan JavaScript pada halaman Firefox unduhan. Ini membantu kami mengukur efektivitas kampanye iklan kami.
     * Data Perujuk HTTP, yang mungkin disertakan di penginstal Firefox, untuk memahami domain situs web atau kampanye iklan yang mengarahkan Anda ke halaman unduhan kami. Informasi ini membantu kami memahami efektivitas kampanye iklan kami dan meningkatkannya.
     * Alat metrik lainnya dari waktu ke waktu, berdasarkan eksperimen. Misalnya, kami mungkin melakukan ini untuk membantu mengevaluasi alat metrik baru, atau menguji koleksi metrik yang ada.
   
@@ -62,7 +61,6 @@ Anda bisa mengontrol masing-masing preferensi cookie, menunjukkan preferensi coo
     * Alat pihak pertama Mozilla: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Instal [Add-on Browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), yang mencegah transmisi data ke Google Analytics. Beberapa halaman Mozilla.org menggunakan GIF transparan yang berkomunikasi dengan DoubleClick untuk memahami efektivitas program kampanye iklan kami; Anda bisa mengontrol iklan yang dipersonalisasi dari DoubleClick di pengaturan iklan Google (Anda akan diminta masuk ke akun Google Anda).
     * Convert.com: [Berhenti berlangganan di www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: Kunjungi [Pengelola Minat Iklan](https://aim.yahoo.com/aim/us/en/optout/) untuk berhenti berlangganan.
     * ShareProgress dan Fathom.com: Anda bisa [mengaktifkan Do Not Track (Jangan Lacak) di browser Anda](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Media Sosial**: Tombol berbagi sosial pada situs web Mozilla dirancang tidak untuk berbagi data dengan penyedia media sosial sampai Anda secara spesifik mengeklik tombol tersebut.
