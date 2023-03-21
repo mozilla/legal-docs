@@ -1,7 +1,7 @@
 # Terms of Service for Hubs
 
-Version 1.1, Effective January 23, 2023
-{: datetime="2023-01-23" }
+Version 1.2, effective March 21, 2023
+{: datetime="2023-03-21" }
 
 Hubs (the “Service”) is a new, preview service that allows you to set up and manage your own set of real-time communications platforms for virtual reality, augmented reality, desktop, laptop, or mobile. It is available as a paid subscription service.  
 
@@ -44,7 +44,7 @@ __Eligibility.__ To use the paid subscription service, you must be in a country 
 
 __Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox account associated with the Hubs instance. 
 
-With a paid subscription, you may have up to 25 users per Hubs room and up to 6GB of storage space for your Hubs.
+With a paid subscription, you may have up to 25 users per Hubs room and up to 2GB of storage space for your Hubs.
 
 __Legal Compliance.__ Depending where you and your users live and where you make your Hubs available, you may be subject to certain laws and regulations, in particular data privacy laws. It is your responsibility to be aware of any laws and regulations that may apply to your Hubs. Between you and Mozilla, you are solely responsible for ensuring the way you handle data is in full compliance with all applicable laws and regulations. To learn more about how Hubs operates, you can see the [source code](https://github.com/mozilla/hubs). 
 
