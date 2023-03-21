@@ -1,7 +1,7 @@
 ﻿# Privacyverklaring voor websites, communicatie en cookies
 
-29 november 2022
-{: datetime="2022-11-29" }
+8 maart 2023
+{: datetime="2023-03-08" }
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
@@ -40,7 +40,6 @@ We gebruiken mogelijk cookies, zogeheten clear GIF's, webanalyses van derde part
     * Google Analytics. Google Analytics plaatst een cookie op uw apparaat voor het ophalen van meetwaarden over hoe gebruikers onze websites gebruiken. Dit helpt ons om sitecontent te verbeteren.
     * Convert.com en ShareProgress. Zij plaatsen een cookie op uw apparaat om ons te helpen varianten van webcontent te testen. Dit stelt ons in staat om betere webervaringen te verzorgen voor onze gebruikers.
     * DoubleClick en Flashtalking. Zij gebruiken beide een zogeheten clear GIF op onze downloadpagina voor Firefox. Dit helpt ons de doeltreffendheid van onze reclamecampagnes te doorgronden.
-    * Yahoo Dot Pixel gebruikt JavaScript op onze downloadpagina voor Firefox. Dit helpt ons de doeltreffendheid van onze reclamecampagnes te doorgronden.
     * Http-verwijzingsgegevens. Deze gegevens worden mogelijk opgenomen bij het installatieprogramma van Firefox en worden gebruikt voor inzicht in het websitedomein dat of de reclamecampagne die u naar onze downloadpagina heeft geleid. Deze informatie helpt ons mogelijk de doeltreffendheid van onze reclamecampagnes te doorgronden en deze te verbeteren.
     * Andere tools voor meetwaarden. Deze worden af toe op een experimentele basis gebruikt. We kunnen dit bijvoorbeeld doen om een nieuwe tool voor meetwaarden te evalueren of om een bestaande verzameling meetwaarden te testen.
   
@@ -62,7 +61,6 @@ U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor
     * Eigen tools van Mozilla: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Installeer de [browser-add-on Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) als u gegevensdoorgifte aan Google Analytics wilt verbieden. Sommige Mozilla.org-pagina's gebruiken clear GIF's die communiceren met DoubleClick voor inzicht in de doeltreffendheid van onze reclamecampagnes; u kunt persoonlijk afgestemde reclame van DoubleClick beheren in de advertentie-instellingen van Google (u wordt gevraagd om zich aan te melden bij uw Google-account).
     * Convert.com: [Schrijf u uit op www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: Bezoek [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) om u uit te schrijven.
     * ShareProgress en Fathom.com: U kunt de optie [Do Not Track inschakelen in uw browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Sociale media**: De knoppen voor delen op sociale media op Mozilla-websites zijn zo ontworpen dat gegevens niet worden gedeeld met de sociale mediaprovider totdat u specifiek op de knop drukt.

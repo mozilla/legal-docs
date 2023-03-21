@@ -1,7 +1,7 @@
 ﻿# Aviso de privacidad sobre sitios web, comunicaciones y cookies
 
-martes, 29 de noviembre de 2022
-{: datetime="2022-11-29" }
+miércoles, 8 de marzo de 2023
+{: datetime="2023-03-08" }
 
 Nos importa su privacidad. El uso que hacemos de la información que recopila Mozilla (es decir, nosotros) se recoge en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/).
 
@@ -40,7 +40,6 @@ Utilizamos cookies, GIF transparentes y otros análisis web de terceros, así co
     * Google Analytics, que coloca una cookie en su dispositivo para obtener indicadores sobre la interacción de los usuarios con nuestros sitios web. Esto nos ayuda a mejorar el contenido de un sitio web.
     * Convert.com y ShareProgress, que colocan una cookie en su dispositivo para ayudarnos a probar distintos contenidos web. Esto nos ayuda a ofrecer a los usuarios mejores experiencias web.
     * DoubleClick y Flashtalking, que utilizan un GIF transparente en nuestra página de descarga de Firefox. Esto nos ayuda a medir la eficacia de nuestras campañas publicitarias.
-    * Yahoo Dot Pixel, que utiliza JavaScript en nuestra página de descarga de Firefox. Esto nos ayuda a medir la eficacia de nuestras campañas publicitarias.
     * Datos de referencia HTTP, que pueden estar incluidos en el instalador de Firefox con el fin de ayudarnos a analizar el dominio del sitio web o la campaña de publicidad que le envió a nuestra página de descarga. Esta información nos ayuda a medir la eficacia de nuestras campañas publicitarias y mejorarlas.
     * Otras herramientas para medir indicadores en ciertas ocasiones, de forma experimental. Por ejemplo, para ayudar a evaluar una nueva herramienta para medir indicadores o probar una colección de indicadores existentes.
   
@@ -62,7 +61,6 @@ Puede configurar las cookies individualmente, indicar sus preferencias de cookie
     * Herramientas propias de Mozilla: [Desactive este servicio en www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Instale el [complemento de exclusión de Google Analytics para navegadores](https://tools.google.com/dlpage/gaoptout), que prohíbe la transmisión de datos a Google Analytics. Algunas páginas de Mozilla.org usan GIF transparentes que se comunican con DoubleClick para analizar la eficacia de nuestras campañas publicitarias. Puede controlar los anuncios personalizados de DoubleClick a través de los ajustes de anuncios de Google (se le pedirá que inicie sesión en su cuenta de Google).
     * Convert.com: [Desactive este servicio en www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: Visite el [Gestor de preferencias de anuncios](https://aim.yahoo.com/aim/us/en/optout/) para desactivar este servicio.
     * ShareProgress y Fathom.com: Si lo desea, puede [activar la opción No rastrear en su navegador](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Redes sociales**: Los botones para compartir en las redes sociales de los sitios web de Mozilla están diseñados para que no se comparta información con el proveedor de estos medios mientras no haga clic en el botón.

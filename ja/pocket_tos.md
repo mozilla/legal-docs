@@ -165,7 +165,7 @@ Mozilla は、独自の裁量により、Pocket Technologies またはその一�
 
 ## 児童によるアクセス {: #children }
 
-米国内で、皆様が Pocket Technologies を使用する 13 歳未満の児童にデバイスを提供するデバイスメーカーまたはその他のサードパーティ（「スポンサー」）である場合、皆様は、米国の児童オンラインプライバシー保護法（「COPPA」）および、適用可能な範囲で、家庭教育の権利とプライバシーに関する法律（「FERPA」）を遵守する責任を負うものとします。つまり、13 歳未満の児童がアカウントを作成するため、または Pocket Technologies を使用するためには、スポンサーが、その児童の個人情報を収集して Pocket アプリケーションと共有する前に、収集する情報について親または保護者に通知し、かつ親または保護者の同意を得る必要があります。学校は、適切な状況下で、親または保護者に代わってかかる同意を提供できます。COPPA への準拠の詳細については、連邦取引委員会のウェブサイト（[https://www.ftc.gov/privacy/coppafaqs.shtm](https://www.ftc.gov/privacy/coppafaqs.shtm)）をご覧ください。
+米国内で、皆様が Pocket Technologies を使用する 13 歳未満の児童にデバイスを提供するデバイスメーカーまたはその他のサードパーティ（「スポンサー」）である場合、皆様は、米国の児童オンラインプライバシー保護法（「COPPA」）および、適用可能な範囲で、家庭教育の権利とプライバシーに関する法律（「FERPA」）を遵守する責任を負うものとします。つまり、13 歳未満の児童がアカウントを作成するため、または Pocket Technologies を使用するためには、スポンサーが、その児童の個人情報を収集して Pocket アプリケーションと共有する前に、収集する情報について親または保護者に通知し、かつ親または保護者の同意を得る必要があります。学校は、適切な状況下で、親または保護者に代わってかかる同意を提供できます。COPPA への準拠の詳細については、連邦取引委員会のウェブサイト（[https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)）をご覧ください。
 
 上記の段落で規定されている場合を除き、Pocket Technologies は 13 歳未満の個人向けではありません。皆様が 13 歳以上で 18 歳未満の場合、皆様は親または保護者と一緒に本契約を確認し、皆様と親または保護者がそれを理解して同意する必要があります。
 

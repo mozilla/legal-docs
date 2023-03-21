@@ -1,7 +1,7 @@
 ﻿# 网站、通信和 Cookie 隐私声明
 
-2022 年 11 月 29 日
-{: datetime="2022-11-29" }
+2023 年 3 月 8 日
+{: datetime="2023-03-08" }
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
@@ -40,7 +40,6 @@
     * Google Analytics，在您的设备上放置 cookie，以获取关于用户如何与我们的网站交互的指标。这可以帮助我们改善网站内容。
     * Convert.com 和 ShareProgress，在您的设备上放置 cookie，以帮助我们测试不同版本的网站内容。这可以帮助我们向用户提供更好的网站体验。
     * DoubleClick 和 Flashtalking，每个都在我们的下载 Firefox 页面使用网络信标。这可以帮助我们衡量广告活动的有效性。
-    * Yahoo Dot Pixel，在我们的下载 Firefox 页面使用 JavaScript。这可以帮助我们衡量广告活动的有效性。
     * HTTP Referral Data，可能包含在 Firefox 安装程序中，用于了解推荐您访问我们下载页面的网站域名或广告活动。这些信息可以帮助我们了解广告活动的有效性并进行改善。
     * 偶尔使用其他指标工具（实验性质）。例如，我们可能会使用这些工具，以帮助评估新的指标工具，或测试现有的指标集合。
   
@@ -62,7 +61,6 @@
     * Mozilla 第一方工具：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/privacy/websites/data-preferences/)。
     * Google：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。某些 Mozilla.org 页面使用网络信标（与 DoubleClick 进行通信），以了解我们广告活动的有效性；您可以在 Google 的广告设置中控制来自 DoubleClick 的个性化广告（系统会提示您登录 Google 账户）。
     * Convert.com：[在 www.mozilla.org 上选择退出](https://www.mozilla.org/exp/opt-out/)。
-    * Yahoo：访问 [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) 以选择退出。
     * ShareProgress 和 Fathom.com：您可以[在浏览器中开启“请勿跟踪”](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature)。
 
 * **社交媒体**：Mozilla 网站上的社交分享按钮只有当您点击该按钮时才会与社交媒体提供商共享数据。

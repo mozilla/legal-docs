@@ -165,7 +165,7 @@ Pocket Technologies는 미국 이외의 국가에서 액세스할 수 있습니�
 
 ## 어린이에 의한 액세스 {: #children }
 
-미국에서 귀하가 Pocket Technologies를 활용하는 13세 미만의 어린이에게 기기를 제공하는 기기 제조업체 또는 기타 제3자(‘스폰서’)인 경우 귀하는 미국 어린이 온라인 개인정보 보호법(‘COPPA’) 및 해당되는 범위에서 가족교육권리 및 개인정보법(‘FERPA’)을 준수할 책임이 있습니다. 이는 후원자가 계정을 설정하거나 Pocket Technologies를 사용하기 위해 13세 미만 어린이의 개인 정보를 수집하고 Pocket 애플리케이션과 공유하기 전에 수집할 정보를 부모/보호자에게 알리고 부모/보호자의 동의를 얻어야 함을 의미합니다. 학교는 해당하는 상황에 학부모/보호자를 대신하여 이러한 동의를 제공할 수 있습니다. COPPA 준수에 대한 자세한 내용은 연방거래위원회 웹사이트([https://www.ftc.gov/privacy/coppafaqs.shtm](https://www.ftc.gov/privacy/coppafaqs.shtm))를 참조하십시오.
+미국에서 귀하가 Pocket Technologies를 활용하는 13세 미만의 어린이에게 기기를 제공하는 기기 제조업체 또는 기타 제3자(‘스폰서’)인 경우 귀하는 미국 어린이 온라인 개인정보 보호법(‘COPPA’) 및 해당되는 범위에서 가족교육권리 및 개인정보법(‘FERPA’)을 준수할 책임이 있습니다. 이는 후원자가 계정을 설정하거나 Pocket Technologies를 사용하기 위해 13세 미만 어린이의 개인 정보를 수집하고 Pocket 애플리케이션과 공유하기 전에 수집할 정보를 부모/보호자에게 알리고 부모/보호자의 동의를 얻어야 함을 의미합니다. 학교는 해당하는 상황에 학부모/보호자를 대신하여 이러한 동의를 제공할 수 있습니다. COPPA 준수에 대한 자세한 내용은 연방거래위원회 웹사이트([https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions))를 참조하십시오.
 
 위의 단락에 규정된 것을 제외하고, Pocket Technologies는 13세 미만의 개인을 위한 것이 아닙니다. 귀하가 13세 이상 18세 미만인 경우, 귀하와 귀하의 부모 또는 보호자가 이 계약을 이해하고 동의하는지 확인하기 위해 부모 또는 보호자와 함께 본 계약을 검토해야 합니다.
 
