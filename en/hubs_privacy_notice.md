@@ -1,6 +1,6 @@
 # Hubs Privacy Notice
-Version 1.0, effective October 25, 2022
-{: datetime="2022-10-25" }
+Version 1.1, effective March 21, 2023
+{: datetime="2023-03-21" }
 
 ## Information We Collect and Share for Hubs Rooms
 
@@ -42,7 +42,7 @@ __Firefox account information.__ A Hubs subscription requires a Firefox account,
 
 __Location information.__ Mozilla receives your IP address from your Firefox account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
 
-__Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription, but does not store your full payment details. The payment providers may also collect personal transactional data or device information via cookies and similar technologies to operate and improve their service.  You can learn more about how these companies use and process your data by reviewing their Privacy Policies, which are available on each of their respective websites.
+__Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription, but does not store your full payment details. The payment providers may also collect personal transactional data or device information via cookies and similar technologies to operate and improve their service. You can learn more about how these companies use and process your data by reviewing their Privacy Policies, which are available on each of their respective websites.
 
 __Usage Information.__ We receive information about the rooms and users in your Hubs instance. For instance, we learn when you create and delete rooms, how many rooms are in your Hubs instance, and how many users are in each room. We also receive information about how much storage space your Hubs instance is using. 
 
