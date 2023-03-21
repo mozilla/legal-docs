@@ -165,7 +165,7 @@ Pocket Premium 订阅服务可通过月度和年度订阅计划进行购买。�
 
 ## 儿童访问 {: #children }
 
-在美国，如果您是专为 13 岁以下儿童提供 Pocket 技术使用设备的设备制造商或其他第三方（以下简称“赞助商”），则需遵守美国儿童在线隐私保护法案（以下简称“COPPA”）以及家庭教育权利和隐私法案（以下简称“FERPA”，如适用）。这意味着，赞助商必须事先向父母/监护人说明将要收集的信息并获得父母/监护人的同意，然后才能收集并与 Pocket 应用程序共享 13 岁以下儿童的个人信息，以便建立帐号或使用 Pocket技术。学校可酌情代表家长/监护人提供同意。有关遵守 COPPA 的更多信息，请参阅联邦贸易委员会网站：[https://www.ftc.gov/privacy/coppafaqs.shtm](https://www.ftc.gov/privacy/coppafaqs.shtm)。
+在美国，如果您是专为 13 岁以下儿童提供 Pocket 技术使用设备的设备制造商或其他第三方（以下简称“赞助商”），则需遵守美国儿童在线隐私保护法案（以下简称“COPPA”）以及家庭教育权利和隐私法案（以下简称“FERPA”，如适用）。这意味着，赞助商必须事先向父母/监护人说明将要收集的信息并获得父母/监护人的同意，然后才能收集并与 Pocket 应用程序共享 13 岁以下儿童的个人信息，以便建立帐号或使用 Pocket技术。学校可酌情代表家长/监护人提供同意。有关遵守 COPPA 的更多信息，请参阅联邦贸易委员会网站：[https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)。
 
 除非遵守上述规定，否则不得向 13 岁以下儿童提供 Pocket 技术。如果您已满 13 岁但未满 18 岁，应在家长或监护人陪同下阅读本协议，确保您及您的家长或监护人了解并同意本协议。
 
