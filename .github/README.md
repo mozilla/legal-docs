@@ -11,6 +11,8 @@ List of translated files (number of locales between parentheses):
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
 * focus_privacy_notice.md (18)
+* hubs_privacy_notice.md (1)
+* hubs_tos.md (1)
 * mdn_plus_privacy.md (14)
 * mdn_plus_terms.md (14)
 * mozilla_privacy_policy.md (13)
@@ -34,8 +36,6 @@ List of files not translated:
 * firefox_private_network_tos.md
 * firefox_reality_about_rights.md
 * firefox_reality_privacy_notice.md
-* hubs_privacy_notice.md
-* hubs_tos.md
 * mozilla_hubs_privacy_notice.md
 * mozilla_hubs_tos.md
 * mozilla_location_services_privacy_notice.md
