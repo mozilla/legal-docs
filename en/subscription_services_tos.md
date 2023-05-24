@@ -36,7 +36,7 @@ You may cancel your subscription to the Services at any time. You can do this by
 We only offer Mozilla VPN as a paid subscription service.
 
 ### You Must Be Eligible
-You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States. 
+You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, the Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  
 
 ### Permissions Necessary to Provide Mozilla VPN
 Mozilla VPN is a Virtual Private Network in partnership with Mullvad. To learn more about how the Service works, you can see Mozilla’s source code for the VPN program.
