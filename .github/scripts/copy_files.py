@@ -20,7 +20,7 @@ def copy_files(filename, dest):
         extensions = [".md", ".pdf"]
         file_paths = [p for p in src_path.rglob("*/*") if p.suffix in extensions]
     else:
-        file_paths = src_path.glob(f"*/{filename}")
+        file_paths = src_path.rglob(f"*/{filename}")
 
     for fp in file_paths:
         dest_locale_dir = dest_path.joinpath(fp.parent)

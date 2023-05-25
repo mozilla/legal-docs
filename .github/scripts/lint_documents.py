@@ -173,7 +173,6 @@ class DocumentCheck:
         return errors
 
     def compareData(self, type, locale_data, reference_data, exception_id):
-
         errors = []
         if type == "links":
             l10n_list = locale_data[type]
