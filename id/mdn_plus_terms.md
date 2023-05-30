@@ -1,9 +1,9 @@
 ﻿# Ketentuan Layanan MDN Plus
 
-Versi 1.0, berlaku 23 Maret 2022
-{: datetime="2022-03-23" }
+Versi 1.1, Berlaku 24 Mei 2023
+{: datetime="2023-05-24" }
 
-MDN Plus adalah layanan langganan yang menyediakan fungsi, premium, termasuk MDN offline, koleksi, tema, dan notifikasi. (“Layanan”). Silakan baca Ketentuan Layanan ini dengan saksama karena terdapat informasi penting tentang penggunaan Layanan Anda.
+MDN Plus adalah layanan langganan yang menyediakan fungsi, premium, termasuk MDN offline, koleksi, tema, dan pembaruan. (“Layanan”). Silakan baca Ketentuan Layanan ini dengan saksama karena terdapat informasi penting tentang penggunaan Layanan Anda.
 
 ## Anda Harus Memenuhi Syarat untuk Menggunakan Layanan
 

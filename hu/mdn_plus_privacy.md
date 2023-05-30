@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
-1.0-s verzió, hatálybalépés dátuma: 2022. március 23.
-{: datetime="2022-03-23" }
+1.1-es verzió, hatálybalépés dátuma: 2023. május 24.
+{: datetime="2023-05-24" }
 
 ## A Mozillánál az Ön személyes adatainak védelmét szem előtt tartva tervezzük a termékeket.
 
@@ -15,7 +15,7 @@ Ez az Adatvédelmi nyilatkozat elmagyarázza, hogy az MDN Plus milyen adatokat g
 
 __A Firefox-fiókra vonatkozó adatok.__ A szolgáltatáshoz Firefox-fiókra van szükség, amely kizárólag olvasási hozzáférést biztosít az MDN Plus számára a Firefox-fiók profiladataihoz, például a felhasználói azonosítóhoz, a megjelenített névhez, az avatárhoz, az e-mail-címhez, a területi beállításokhoz és az aktív termék-előfizetésekhez. További információk [a Firefox-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Az MDN Plus-fiókra vonatkozó adatok.__ Amikor az MDN Plus funkcióit használja, megkapjuk azokat az adatokat, amelyek szükségesek ahhoz, hogy ezeket a funkciókat biztosítsuk Önnek. Például, ha mentett oldalakat állít be, akkor megkapjuk a mentett oldalait, és ha úgy dönt, hogy követi az oldalakat értesítésekért, akkor megkapjuk az oldalakat és az értesítéseket. 
+__Az MDN Plus-fiókra vonatkozó adatok.__ Amikor az MDN Plus funkcióit használja, megkapjuk azokat az adatokat, amelyek szükségesek ahhoz, hogy ezeket a funkciókat biztosítsuk Önnek. Például, ha mentett oldalakat állít be, elérjük a mentett oldalakat.
 
 __Helyadatok.__ Az MDN Plus megkapja az Ön IP-címét, amikor regisztrál és használja a szolgáltatást. Az IP-címet az Ön tartózkodási helyének hozzávetőleges meghatározásához használjuk, mivel az MDN Plus jelenleg csak bizonyos országokban érhető el.
 

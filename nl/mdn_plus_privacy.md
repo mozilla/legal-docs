@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">-privacyverklaring</span>
 
-Versie 1.0, van kracht vanaf woensdag 23 maart 2022
-{: datetime="2022-03-23" }
+Versie 1.1, van kracht vanaf woensdag 24 mei 2023
+{: datetime="2023-05-24" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 
@@ -15,7 +15,7 @@ Deze privacyverklaring gaat in op welke gegevens MDN Plus verzamelt en deelt en 
 
 __Firefox-accountinformatie.__ Deze service vereist een Firefox-Account, dat MDN Plus alleen-lezen toegang biedt tot de profielinformatie in uw Firefox-account, zoals uw gebruikers-ID, weergavenaam, avatar, e-mailadres, landinstellingen en actieve productabonnementen. Meer informatie over [procedures voor Firefox-accountgegevens](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__MDN Plus-accountinformatie.__ Wanneer u de MDN Plus-functies gebruikt, ontvangen we de gegevens die zijn vereist om die functies voor u te verzorgen. Als u bijvoorbeeld opgeslagen pagina's instelt, ontvangen wij uw opgeslagen pagina's, en als u ervoor kiest om pagina's te volgen voor meldingen, ontvangen wij de pagina's en de meldingen.
+__MDN Plus-accountinformatie.__ Wanneer u de MDN Plus-functies gebruikt, ontvangen we de gegevens die zijn vereist om die functies voor u te verzorgen. Als u bijvoorbeeld een reeks pagina's opslaat, ontvangen wij uw opgeslagen pagina's.
 
 __Locatie-information.__ MDN Plus ontvangt uw IP-adres wanneer u zich registreert voor de service en wanneer u deze gebruikt. We gebruiken het IP-adres om uw locatie bij benadering te bepalen omdat MDN Plus momenteel alleen in bepaalde landen beschikbaar is.
 

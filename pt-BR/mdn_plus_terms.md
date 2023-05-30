@@ -1,9 +1,9 @@
 ﻿# Termos de serviço do MDN Plus
 
-Versão 1.0, 23 de março de 2022
-{: datetime="2022-03-23" }
+Versão 1.1, 24 de maio de 2023
+{: datetime="2023-05-24" }
 
-O MDN Plus é um serviço de assinatura com recursos avançados, como Coleções, Temas, Notificações e o MDN Offline (o “Serviço”). Leia estes Termos de serviço com atenção, pois eles contêm informações importantes sobre seu uso do Serviço.
+O MDN Plus é um serviço de assinatura com recursos avançados, como Coleções, Temas, Atualizações e o MDN Offline (o “Serviço”). Leia estes Termos de serviço com atenção, pois eles contêm informações importantes sobre seu uso do Serviço.
 
 ## Condições necessárias para usar o Serviço
 

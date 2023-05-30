@@ -1,9 +1,9 @@
 ﻿# MDN Plus szolgáltatási feltételek
 
-1.0-s verzió, hatálybalépés dátuma: 2022. március 23.
-{: datetime="2022-03-23" }
+1.1-es verzió, hatálybalépés dátuma: 2023. május 24.
+{: datetime="2023-05-24" }
 
-Az MDN Plus egy előfizetéses szolgáltatás, amely prémium szolgáltatásokat nyújt, beleértve az offline MDN-t, a gyűjteményeket, a témákat és az értesítéseket. (a „Szolgáltatás”). Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatás használatával kapcsolatban.
+Az MDN Plus egy előfizetéses szolgáltatás, amely prémium funkciókat nyújt, beleértve az offline MDN-t, a gyűjteményeket, a témákat és a frissítéseket. (a „Szolgáltatás”). Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatás használatával kapcsolatban.
 
 ## Jogosultnak kell lennie a szolgáltatás használatára
 

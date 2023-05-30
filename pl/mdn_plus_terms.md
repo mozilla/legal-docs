@@ -1,9 +1,9 @@
 ﻿# Warunki korzystania z usługi MDN Plus
 
-Wersja 1.0, obowiązuje od 23 marca 2022 r.
-{: datetime="2022-03-23" }
+Wersja 1.1, obowiązuje od 24 maja 2023 r.
+{: datetime="2023-05-24" }
 
-MDN Plus to usługa subskrypcji zapewniająca funkcjonalność premium, w tym MDN offline, kolekcje, motywy i powiadomienia („Usługa”). Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usługi przez użytkownika.
+MDN Plus to usługa subskrypcji zapewniająca funkcjonalność premium, w tym MDN offline, kolekcje, motywy i aktualizacje („Usługa”). Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usługi przez użytkownika.
 
 ## Użytkownik musi być uprawniony do korzystania z Usługi
 
