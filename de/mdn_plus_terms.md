@@ -1,9 +1,9 @@
 ﻿# MDN Plus-Servicebedingungen
 
-Version 1.0, gültig ab 23. März 2022
-{: datetime="2022-03-23" }
+Version 1.1, gültig ab Mittwoch, 24. Mai 2023
+{: datetime="2023-05-24" }
 
-MDN Plus ist ein Abonnementservice mit Premium-Funktionen, darunter MDN offline, Sammlungen, Themes und Benachrichtigungen. (der „Dienst“). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Dienstes erläutert.
+MDN Plus ist ein Abonnementservice mit Premium-Funktionen, darunter MDN offline, Sammlungen, Themes und Updates. (der „Dienst“). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Diensts erläutert.
 
 ## Sie müssen für die Verwendung dieses Dienstes qualifiziert sein
 

@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Politique de confidentialité</span>
 
-Version 1.0 - Date d’effet : mercredi 23 mars 2022
-{: datetime="2022-03-23" }
+Version 1.1 - Date d’effet : mercredi 24 mai 2023
+{: datetime="2023-05-24" }
 
 ## Chez Mozilla, nous concevons des produits respectant votre confidentialité.
 
@@ -15,7 +15,7 @@ Cette politique de confidentialité explique quelles données MDN Plus collecte
 
 __Informations de compte Firefox.__ Ce service nécessite un compte Firefox, qui fournit à MDN Plus un accès en lecture seule aux informations du profil de votre compte Firefox, par exemple votre identifiant utilisateur, nom d’affichage, avatar, adresse e-mail, paramètres régionaux et abonnements en cours à des produits. En savoir plus sur les [pratiques en matière de données de compte Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Informations de compte MDN Plus.__ Lorsque vous utilisez des fonctionnalités de MDN Plus, nous recevons les données nécessaires pour vous fournir ces fonctionnalités. Par exemple, si vous avez défini des pages enregistrées, nos recevons ces pages, et si vous choisissez de suivre ces pages via des notifications, nous recevrons ces pages et leurs notifications.
+__Informations de compte MDN Plus.__ Lorsque vous utilisez des fonctionnalités de MDN Plus, nous recevons les données nécessaires pour vous fournir ces fonctionnalités. Par exemple, si vous avez configuré des pages enregistrées, nous recevons vos pages enregistrées.
 
 __Informations de localisation.__ MDN reçoit votre adresse IP lorsque vous vous inscrivez au service et l’utilisez. Nous utilisons l’adresse IP pour en déduire approximativement votre localisation, car MDN Plus n’est actuellement disponible que dans certains pays.
 
