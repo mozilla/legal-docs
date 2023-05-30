@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Aviso de privacidad</span>
 
-Versión 1.0, en vigor desde el miércoles, 23 de marzo de 2022
-{: datetime="2022-03-23" }
+Versión 1.1, en vigor desde el miércoles, 24 de mayo de 2023
+{: datetime="2023-05-24" }
 
 ## En Mozilla, tenemos en cuenta su privacidad a la hora de diseñar un producto.
 
@@ -15,7 +15,7 @@ En este aviso de privacidad se explican los distintos tipos de datos que MDN Plu
 
 __Información de la cuenta de Firefox.__ Este servicio requiere una cuenta de Firefox, que le otorga a MDN Plus acceso de solo lectura a la información del perfil de su cuenta de Firefox, como por ejemplo, su ID de usuario, nombre para mostrar, avatar, dirección de correo electrónico, configuración local y suscripciones a productos activas. Obtenga más información sobre las [prácticas usadas en relación con los datos de cuentas de Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Información de la cuenta para MDN Plus.__ Cuando usa las funciones de MDN Plus, recibimos la información requerida para proporcionarle dichas funciones. Por ejemplo, cuando guarda páginas, recibimos las páginas que guarda y cuando sigue páginas para obtener las notificaciones relacionadas, recibiremos las páginas y las notificaciones.
+__Información de la cuenta para MDN Plus.__ Cuando usa las funciones de MDN Plus, recibimos la información requerida para proporcionarle dichas funciones. Por ejemplo, si establece páginas guardadas, recibimos sus páginas guardadas.
 
 __Información sobre la ubicación.__ MDN Plus recibe su dirección IP al registrarse en el servicio y durante su uso. Utilizamos la dirección IP para conocer su ubicación aproximada, ya que MDN Plus solo está disponible en determinados países.
 

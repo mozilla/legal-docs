@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">Notis Privasi</span> <span class="privacy-header-policy">MDN Plus</span>
 
-Versi 1.0, berkuat kuasa pada 23 Mac 2022
-{: datetime="2022-03-23" }
+Versi 1.1, berkuat kuasa pada 24 Mei 2023
+{: datetime="2023-05-24" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -15,7 +15,7 @@ Notis privasi ini menerangkan jenis data MDN Plus kumpul, kongsi, dan tujuannya.
 
 __Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan Akaun Firefox, yang memberikan MDN Plus akses baca sahaja untuk maklumat profil Akaun Firefox anda, sebagai contoh ID pengguna, avatar, alamat e-mel, lokasi dan langganan produk aktif anda. Ketahui lebih lanjut tentang [amalan data Akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Maklumat Akaun MDN Plus.__ Apabila anda menggunakan ciri MDN Plus, kami terima data yang diperlukan untuk menyediakan ciri-ciri tersebut kepada anda. Sebagai contoh, jika anda menetapkan halaman tersimpan, kami terima halaman tersimpan anda dan jika anda pilih untuk ikuti halaman bagi pemberitahuan, kami akan terima halaman dan pemberitahuan.
+__Maklumat Akaun MDN Plus.__ Apabila anda menggunakan ciri MDN Plus, kami terima data yang diperlukan untuk menyediakan ciri-ciri tersebut kepada anda. Sebagai contoh, jika anda menetapkan halaman disimpan, kami akan terima halaman tersimpan anda.
 
 __Maklumat lokasi.__ MDN Plus menerima alamat IP anda apabila anda mendaftar dan menggunakan perkhidmatannya. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana MDN Plus hanya tersedia di sesetengah negara pada masa ini.
 

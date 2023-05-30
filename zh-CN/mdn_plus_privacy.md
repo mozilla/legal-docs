@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">隐私声明</span>
 
-1.0 版，2022 年 3 月 23 日生效
-{: datetime="2022-03-23" }
+1.1 版，2023 年 5 月 24 日生效
+{: datetime="2023-05-24" }
 
 ## Mozilla 在设计产品时始终顾及和考虑用户的隐私权。
 
@@ -15,7 +15,7 @@ MDN Plus 是一种提供付费功能的订阅服务。MDN Plus 旨在为开发�
 
 __Firefox 帐户信息。__ 此服务需要 Firefox 帐户，该帐户为 MDN Plus 提供对您的 Firefox 帐户个人资料信息的只读访问权限，例如您的用户 ID、显示名称、头像、电子邮件地址、区域设置和有效的产品订阅。了解有关 [Firefox 帐户数据实践](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox)的更多信息。
 
-__MDN Plus 帐户信息。__ 当您使用 MDN Plus 功能时，我们会收到向您提供这些功能所需的数据。例如，如果您设置了已保存的页面，我们会收到您已保存的页面，如果您选择关注页面以获取通知，我们会收到该页面和通知。
+__MDN Plus 帐户信息。__ 当您使用 MDN Plus 功能时，我们会收到向您提供这些功能所需的数据。例如，如果您设置了保存的页面，我们会收到您保存的页面。
 
 __位置信息。__ 当您注册并使用服务时，MDN Plus 会收到您的 IP 地址。我们使用 IP 地址以粗略估计您的位置，因为 MDN Plus 目前仅在部分国家/地区可用。
 

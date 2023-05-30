@@ -1,7 +1,7 @@
 ﻿## Oznámení o ochraně osobních údajů <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy"></span>
 
-Verze 1.0, platná od 23. března 2022
-{: datetime="2022-03-23" }
+Verze 1.1, platná od 24. května 2023
+{: datetime="2023-05-24" }
 
 ## Ve společnosti Mozilla při navrhování produktů pamatujeme na ochranu vašich osobních údajů.
 
@@ -15,7 +15,7 @@ Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje MDN Plus 
 
 __Informace o Účtu Firefox.__ Tyto služby vyžadují Účet Firefox, což službám MDN Plus poskytuje přístup k informacím o profilu vašeho Účtu Firefox pouze pro čtení, jako například k vašemu ID uživatele, zobrazovanému jménu, avataru e-mailové adrese, umístění a aktivním předplatným produktů. Podrobnější informace o [postupech zacházení s údaji Účtu Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Informace o účtu MDN Plus.__ Pokud využíváte funkce služeb MDN Plus, získáváme data nezbytná k tomu, abychom vám dané funkce mohli poskytovat. Pokud například nastavíte uložené stránky, obdržíme vaše uložené stránky, a pokud se rozhodnete sledovat stránky pomocí oznámení, obdržíme takové stránky a oznámení. 
+__Informace o účtu MDN Plus.__ Pokud využíváte funkce služeb MDN Plus, získáváme data nezbytná k tomu, abychom vám dané funkce mohli poskytovat. Pokud například nastavíte uložené stránky, získáme vaše uložené stránky.
 
 __Informace o umístění.__ MDN Plus získává vaši adresu IP, když se zaregistrujete ke službám a využíváte je. Adresu IP používáme pro přibližné určení vašeho umístění, neboť služby MDN Plus jsou momentálně k dispozici pouze v některých zemích.
 

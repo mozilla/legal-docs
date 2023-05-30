@@ -1,9 +1,9 @@
 ﻿# Podmínky poskytování služeb MDN Plus
 
-Verze 1.0, platná od 23. března 2022
-{: datetime="2022-03-23" }
+Verze 1.1, platná od 24. května 2023
+{: datetime="2023-05-24" }
 
-MDN Plus se služba předplatného, která poskytuje prémiové funkce, včetně MDN offline, sbírek, motivů a oznámení (dále jen „Služby“). Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání Služeb.
+MDN Plus se služba předplatného, která poskytuje prémiové funkce, včetně MDN offline, sbírek, motivů a aktualizací. (dále jen „Služby“). Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání Služeb.
 
 ## K využívání Služeb musíte být oprávněni.
 
