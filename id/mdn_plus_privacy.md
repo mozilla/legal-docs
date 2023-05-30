@@ -1,7 +1,7 @@
 ﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Pemberitahuan Kebijakan</span> 
 
-Versi 1.0, Berlaku 23 Maret 2022
-{: datetime="2022-03-23" }
+Versi 1.1, Berlaku 24 Mei 2023
+{: datetime="2023-05-24" }
 
 ## Di Mozilla, kami mendesain produk dengan mementingkan privasi Anda.
 
@@ -15,7 +15,7 @@ Pemberitahuan privasi ini menjelaskan tentang data apa saja yang dikumpulkan, di
 
 __Informasi Akun Firefox.__ Layanan ini memerlukan Akun Firefox, yang menyediakan MDN Plus akses baca-saja ke informasi profil Akun Firefox, misalnya ID pengguna, nama tampilan, avatar, alamat email, bahasa, dan langganan produk yang aktif. Pelajari selengkapnya tentang [praktik data Akun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Informasi Akun MDN Plus.__ Saat Anda menggunakan fitur-fitur MDN Plus, kami menerima data yang diperlukan untuk menyediakan fitur-fitur tersebut kepada Anda. Misalnya, jika Anda mengatur halaman tersimpan, kami akan menerima halaman tersimpan tersebut, dan jika Anda memilih untuk mengikuti halaman agar mendapat notifikasi, kami akan menerima halaman dan notifikasi tersebut. 
+__Informasi Akun MDN Plus.__ Saat Anda menggunakan fitur-fitur MDN Plus, kami menerima data yang diperlukan untuk menyediakan fitur-fitur tersebut kepada Anda. Misalnya, jika menyimpan halaman, kami akan menerima halaman yang Anda simpan tersebut.
 
 __Informasi lokasi.__ MDN Plus menerima alamat IP saat Anda mendaftar dan menggunakan layanan. Kami menggunakan alamat IP tersebut untuk memperkirakan lokasi Anda karena MDN Plus saat ini hanya tersedia di negara-negara tertentu.
 

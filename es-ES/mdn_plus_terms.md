@@ -1,9 +1,9 @@
 ﻿# Condiciones del servicio MDN Plus
 
-Versión 1.0, en vigor desde el miércoles, 23 de marzo de 2022
-{: datetime="2022-03-23" }
+Versión 1.1, en vigor desde el miércoles, 24 de mayo de 2023
+{: datetime="2023-05-24" }
 
-MDN Plus es un servicio de suscripción que ofrece características premium, tales como la versión offline de MDN, colecciones, temas y notificaciones. (en adelante, el «Servicio»). Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso del Servicio.
+MDN Plus es un servicio de suscripción que ofrece funciones premium, como MDN offline, colecciones, temas y actualizaciones. (en adelante, el «Servicio»). Le rogamos que lea atentamente estas Condiciones del servicio, ya que en ellas se explica información importante sobre el uso que usted hace del Servicio.
 
 ## Debe cumplir determinados requisitos para usar el Servicio
 
