@@ -384,25 +384,33 @@
     ]
   },
   "subscription_services_privacy_notice.md": {
-    "count": 6,
+    "count": 10,
     "locales": [
+      "cs",
       "de",
       "es-ES",
       "fr",
+      "hu",
       "it",
       "ms",
-      "nl"
+      "nl",
+      "pl",
+      "ro"
     ]
   },
   "subscription_services_tos.md": {
-    "count": 6,
+    "count": 10,
     "locales": [
+      "cs",
       "de",
       "es-ES",
       "fr",
+      "hu",
       "it",
       "ms",
-      "nl"
+      "nl",
+      "pl",
+      "ro"
     ]
   },
   "websites_privacy_notice.md": {
