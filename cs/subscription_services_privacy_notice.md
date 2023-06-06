@@ -22,7 +22,7 @@ __Údaje o interakci.__ Mozilla získává údaje o vašich interakcích se slu�
 __Technické údaje.__ Mozilla obdrží základní informace o nainstalované verzi VPN nebo doplňkového softwaru Relay a o zařízení, na kterém jsou instalovány, včetně operačního systému a konfigurace hardwaru. Vaše IP adresa je dočasně uchovávána po dobu 90 dnů jako součást protokolů našeho serveru. Při používání služby Mozilla VPN neuchovává společnost Mozilla ani náš partner Mullvad žádné protokoly serveru o vaší síťové aktivitě.
 Tyto údaje používáme k vylepšení výkonu a stability pro naše uživatele a k měření výkonu služeb.
 
-### Mozilla VPN{: #vpn }
+### Mozilla VPN {: #vpn }
 
 __Údaje o poloze.__ Mozilla VPN získává vaši adresu IP, když se zaregistrujete ke službám a využíváte je. IP adresu používáme k přibližnému určení vaší polohy, abychom mohli nastavit, ke kterému serveru VPN se připojíte, a protože dostupnost, ceny a nabídky služby Mozilla VPN mohou záviset na vaší zemi.
 
