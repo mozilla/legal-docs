@@ -1,7 +1,7 @@
 ﻿# Mozilla Abonnementsservices | Servicevoorwaarden
 
-Versie 1.0, van kracht vanaf dinsdag 11 oktober 2022
-{: datetime="2022-10-11" }
+Versie 1.1, van kracht vanaf donderdag 15 juni 2023
+{: datetime="2023-06-15" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
@@ -35,7 +35,7 @@ U kunt uw abonnement op de Services op elk gewenst moment annuleren. U kunt dit 
 Wij bieden Mozilla VPN alleen als betaalde abonnementsservice aan.
 
 ### U moet in aanmerking komen
-U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. Momenteel is de Service beschikbaar in België, Canada, Duitsland, Finland, Frankrijk, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Oostenrijk, Singapore, Spanje, Verenigd Koninkrijk, Verenigde Staten, Zweden en Zwitserland. 
+U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De Service is momenteel beschikbaar in Oostenrijk, België, Bulgarije, Canada, Kroatië, Cyprus, Tsjechië, Denemarken, Estland, Finland, Frankrijk, Duitsland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Maleisië, Malta, Nederland, Nieuw-Zeeland, Polen, Portugal, Roemenië, Slowakije, Slovenië, Singapore, Spanje, Zweden, Zwitserland, Het Verenigd Koninkrijk en de Verenigde Staten. 
 
 ### Toestemming die nodig is om Mozilla VPN aan te bieden
 Mozilla VPN is een Virtual Private Network dat wordt verzorgd in samenwerking met Mullvad. Als u meer informatie wilt over hoe de Service werkt, kunt u de Mozilla-broncode voor het VPN-programma bekijken.

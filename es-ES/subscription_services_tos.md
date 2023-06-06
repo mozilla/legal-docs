@@ -1,7 +1,7 @@
 ﻿# Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Versión 1.0, en vigor desde el martes, 11 de octubre de 2022
-{: datetime="2022-10-11" }
+Versión 1.1, en vigor desde el jueves, 15 de junio de 2023
+{: datetime="2023-06-15" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
@@ -35,7 +35,7 @@ Tiene derecho a cancelar su suscripción a los Servicios en cualquier momento. P
 El servicio de Mozilla VPN solo se ofrece como un servicio de suscripción de pago.
 
 ### Requisitos para usar el Servicio
-Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, el Servicio está disponible en Alemania, Austria, Bélgica, Canadá, España, Estados Unidos, Finlandia, Francia, Irlanda, Italia, Malasia, Nueva Zelanda, Países Bajos, Reino Unido, Singapur, Suecia y Suiza. 
+Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, el servicio está disponible en Alemania, Austria, Bélgica, Bulgaria, Canadá, Chipre, Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estados Unidos, Estonia, Finlandia, Francia, Hungría, Irlanda, Italia, Letonia, Lituania, Luxemburgo, Malasia, Malta, Nueva Zelanda, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumanía, Singapur, Suecia y Suiza. 
 
 ### Permisos necesarios para proporcionar el servicio Mozilla VPN
 Mozilla VPN es una red privada virtual ofrecida en colaboración con Mullvad. Si desea obtener más información sobre cómo funciona el Servicio, consulte el código fuente de Mozilla para el programa VPN.

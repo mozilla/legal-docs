@@ -1,7 +1,7 @@
 ﻿# Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Versi 1.0, berkuat kuasa 11 Oktober 2022
-{: datetime="2022-10-11" }
+Versi 1.1, berkuat kuasa pada 15 Jun 2023
+{: datetime="2023-06-15" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).
 
@@ -35,7 +35,7 @@ Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh me
 Kami hanya menawarkan Mozilla VPN sebagai perkhidmatan langganan berbayar.
 
 ### Anda Mesti Layak
-Anda mesti berada di negara yang membolehkan Perkhidmatan memuat turun Mozilla VPN dan menggunakan Perkhidmatan. Pada masa ini, Perkhidmatan disediakan di Austria, Belgium, Kanada, Finland, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Sweden, Switzerland, United Kingdom, dan Amerika Syarikat. 
+Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Pada masa ini, Perkhidmatan tersedia di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Itali, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Belanda, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapura, Sepanyol, Sweden, Switzerland,  United Kingdom dan Amerika Syarikat. 
 
 ### Keizinan yang Diperlukan untuk Menyediakan Mozilla VPN
 Mozilla VPN merupakan Rangkaian Peribadi Maya yang dikongsi bersama Mullvad. Untuk mengetahui lebih lanjut tentang cara Perkhidmatan berfungsi, anda boleh melihat kod sumber Mozilla untuk program VPN.
