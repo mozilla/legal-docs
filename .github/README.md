@@ -21,8 +21,8 @@ List of translated files (number of locales between parentheses):
 * ossn_site_privacy_notice.md (1)
 * pocket_privacy_policy.md (12)
 * pocket_tos.md (12)
-* subscription_services_privacy_notice.md (6)
-* subscription_services_tos.md (6)
+* subscription_services_privacy_notice.md (10)
+* subscription_services_tos.md (10)
 * websites_privacy_notice.md (13)
 * websites_tou.md (21)
 
