@@ -17,7 +17,7 @@ __Firefox account information.__ These Services require a Firefox account, which
 
 __Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
-__Interaction data.__ Mozilla receives data about your interactions with the Services. For instance, when you log in and out, the preferences you set. Learn more about [VPN interaction data](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/glean/metrics.yaml) and [Relay interaction data](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md).
+__Interaction data.__ Mozilla receives data about your interactions with the Services. For instance, when you log in and out, the preferences you set. Learn more about [VPN interaction data](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn) and [Relay interaction data](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md).
 
 __Technical data.__ Mozilla receives basic information about the installed version of your VPN or Relay Add-on software, and the device they are installed on, including the operating system and hardware configuration. Your IP address is temporarily collected as part of our server logs for 90 days. No server logs of your network activity are maintained by neither Mozilla nor our partner Mullvad when you're using the Mozilla VPN service.
 We use the data to improve performance and stability for our users, and to measure the Services’ performance.
