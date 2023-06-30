@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective August 1, 2022*
-{: datetime="2022-08-01" }
+*Effective June 30, 2023*
+{: datetime="2022-06-30" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -43,7 +43,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
 * __Pocket Recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and neither Mozilla nor Pocket receives a copy of your browsing history. To help you see relevant Pocket Recommendations based on your location, Firefox shares your language and country location with Pocket.
 
-    Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Adzerk so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
+    Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Kevel so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
 * __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
@@ -115,7 +115,7 @@ We take measures to limit our and our partners’ ability to identify you. [Lear
 
 * __Location data__: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country. We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.
 
-* __Interaction data__: We receive data such as your visits to the Firefox Accounts website, dashboards and menu preferences, what products and services you use in connection with your Firefox Account, and your interactions with our emails and SMS messages. We use this to understand your use of our products and services and to send you more useful Firefox Account Tips and in-product messages.
+* __Interaction data__: We receive data such as your visits to the Firefox Accounts website, dashboards and menu preferences, what products and services you use in connection with your Firefox Account, and your interactions with our emails and SMS messages. We use this to understand your use of our products and services and to send you more useful Firefox Account Tips and in-product messages. Learn more about interaction data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Technical data__: To display which devices are synced to your Firefox Account and for security functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account. If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of those log-ins.
 
@@ -123,6 +123,7 @@ Read the full documentation or learn more, including how to manage your Firefox 
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
