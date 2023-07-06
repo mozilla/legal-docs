@@ -1,6 +1,6 @@
 ﻿# Conditions d’utilisation - Hubs
 
-Version 1.2 - Date d’effet : mardi 21 mars 2023
+Version 1.2 - Date d’effet : mardi 21 mars 2023
 {: datetime="2023-03-21" }
 
 Hubs (le « Service ») est un nouveau service vous permettant de configurer et gérer vos propres plateformes de communication en temps réel intégrant la réalité virtuelle et la réalité augmentée, accessibles via un ordinateur de bureau, un ordinateur portable ou tout appareil mobile. Il est proposé sous forme de service par abonnement payant.  
