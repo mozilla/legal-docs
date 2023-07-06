@@ -254,15 +254,33 @@
     ]
   },
   "hubs_privacy_notice.md": {
-    "count": 1,
+    "count": 10,
     "locales": [
-      "fr"
+      "de",
+      "el",
+      "es-ES",
+      "fr",
+      "hu",
+      "it",
+      "ms",
+      "pl",
+      "pt",
+      "ro"
     ]
   },
   "hubs_tos.md": {
-    "count": 1,
+    "count": 10,
     "locales": [
-      "fr"
+      "de",
+      "el",
+      "es-ES",
+      "fr",
+      "hu",
+      "it",
+      "ms",
+      "pl",
+      "pt",
+      "ro"
     ]
   },
   "mdn_plus_privacy.md": {
