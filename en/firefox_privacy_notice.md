@@ -26,10 +26,12 @@ You can perform searches directly from several places in Firefox, including the 
 
 * __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. [Learn more](https://support.mozilla.org/kb/search-suggestions-firefox), including how to disable this feature. Links to our default search providers are:
+* __Search queries__: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. Your selected search provider’s privacy policy governs the search provider’s collection and use of your data as you use the search provider’s services. [Learn more](https://support.mozilla.org/kb/search-suggestions-firefox), including how to disable this feature. Links to our default search providers' privacy policies include:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+
+Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser, including but not limited to Google, Bing, DuckDuckGo, and eBay. 
 
 * If you enable "Improve the Firefox Suggest Experience," we and our partners may also receive your search queries. [Learn more below](#searches). 
 
