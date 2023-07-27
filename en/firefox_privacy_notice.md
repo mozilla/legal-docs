@@ -22,7 +22,7 @@ Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozil
 
 ### Search {: #defaultsearch }
 
-You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners.
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. 
 
 * __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -31,9 +31,9 @@ You can perform searches directly from several places in Firefox, including the 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
-Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser, including but not limited to Google, Bing, DuckDuckGo, and eBay.
+Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser, including but not limited to Google, Bing, DuckDuckGo, and eBay. 
 
-* If you enable "Improve the Firefox Suggest Experience," we and our partners may also receive your search queries. [Learn more below](#searches).
+* If you enable "Improve the Firefox Suggest Experience," we and our partners may also receive your search queries. [Learn more below](#searches). 
 
 ### Recommend relevant content
 
@@ -93,17 +93,17 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 
 ### Firefox Suggest and Top Pick {: #searches }
 
-Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs.
+Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs. 
 
 * __Sites you visit__: Firefox sends Mozilla which suggestions you click or dismiss and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
 
-* __Location data__: Firefox temporarily sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address.
+* __Location data__: Firefox temporarily sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. 
 
-* __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement.
+* __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) about how many times suggestions are shown and clicked for verification and feature improvement. 
 
 If you choose to enable "Improve the Firefox Suggest Experience," Firefox shares the following information to improve your browsing experience and to improve the service:
 
-* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners).
+* __Searches__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). 
 
 We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduc).
 
