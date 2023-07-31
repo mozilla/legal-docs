@@ -21,7 +21,8 @@ The quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mo
 
 Mozilla<br>
 Attn: Mozilla’s Designated DMCA Agent<br>
-2 Harrison St. #175<br>
+149 New Montgomery St. 
+4th Floor 
 San Francisco, CA 94105
 
 Mozilla’s Designated Agent’s fax is 650-903-0875 and phone is 650-903-0800.
