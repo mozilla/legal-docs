@@ -102,7 +102,8 @@ Les présentes Conditions constituent l’ensemble de l’accord entre vous et M
 
 Mozilla  
 Attn: Mozilla – Legal Notices  
-2 Harrison St # 175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 USA  
 Téléphone : 650-903-0800  

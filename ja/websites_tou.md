@@ -103,7 +103,8 @@ Mozilla は、理由の如何を問わず、いつでも、皆様による当社
 
 Mozilla  
 Attn: Mozilla – Legal Notices  
-2 Harrison St # 175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 USA  
 電話: 650-903-0800  
