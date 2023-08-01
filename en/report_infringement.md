@@ -19,11 +19,11 @@ Your DMCA Notice must include all of the following information:
 
 The quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). If you prefer, you can send or fax it to:
 
-Mozilla<br>
-Attn: Mozilla’s Designated DMCA Agent<br>
-149 New Montgomery St. 
-4th Floor 
-San Francisco, CA 94105
+Mozilla  
+Attn: Mozilla’s Designated DMCA Agent  
+149 New Montgomery St.  
+4th Floor  
+San Francisco, CA 94105  
 
 Mozilla’s Designated Agent’s fax is 650-903-0875 and phone is 650-903-0800.
 
