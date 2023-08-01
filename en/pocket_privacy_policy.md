@@ -122,7 +122,8 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 Europeans who believe a privacy complaint is unresolved have the right to lodge a complaint with the supervisory authority of their Member State.
