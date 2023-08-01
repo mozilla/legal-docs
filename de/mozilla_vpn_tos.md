@@ -79,7 +79,8 @@ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder Goo
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105 USA  
 
 legal-notices@mozilla.com
