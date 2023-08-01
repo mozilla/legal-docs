@@ -66,7 +66,8 @@ Si nous résilions votre accès au Service sans raison spécifique, vous continu
 
 Mozilla Corporation  
 À l’attention de : Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, États-Unis  
 
 legal-notices@mozilla.com
