@@ -102,8 +102,8 @@ These Terms constitute the entire agreement between you and Mozilla concerning o
 
 Mozilla   
 Attn: Mozilla – Legal Notices  
-149 New Montgomery St. 
-4th Floor 
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105  
 USA  
 Telephone: 650-903-0800  
