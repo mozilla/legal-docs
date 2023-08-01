@@ -66,8 +66,8 @@ If we terminate your access to the Service without specific cause, you will cont
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery St. 
-4th Floor 
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

@@ -83,7 +83,8 @@ Anda boleh melihat [dasar tuntutan pelanggaran hak cipta atau tanda dagangan](ht
 Untuk melihat notis yang lain, anda boleh menghantar e-mel kepada kami di legal-notices@mozilla.com atau hantar surat kepada kami di Mozilla Corporation 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

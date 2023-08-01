@@ -122,7 +122,8 @@ Mozilla はサードパーティと契約を結び、当社の管理下または
 
 Mozilla Corporation  
 ATTN:Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 欧州にお住まいの方で、プライバシーに関する苦情が解決されていないと主張される方は、加盟国の監督当局に苦情を申し立てる権利を有します。

@@ -83,7 +83,8 @@ Vous pouvez lire notre [politique sur les réclamations concernant les atteintes
 Pour les autres avis, envoyez-nous un e-mail à legal-notices@mozilla.com ou un courrier postal à : 
 Mozilla Corporation  
 À l’attention de : Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, États-Unis  
 
 legal-notices@mozilla.com

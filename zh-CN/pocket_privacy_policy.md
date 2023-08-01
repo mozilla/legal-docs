@@ -122,7 +122,8 @@ Pocket 十分关注身份盗用及当前所谓的“网络钓鱼”犯罪行为�
 
 Mozilla Corporation  
 ATTN:Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 如果欧洲用户认定隐私投诉未得到解决，有权向其所在成员国的监管机构提出控诉。

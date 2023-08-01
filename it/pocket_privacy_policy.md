@@ -122,7 +122,8 @@ In caso di domande o dubbi relativi alla presente Informativa sulla privacy, è 
 
 Mozilla Corporation  
 Att.: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, U.S.A.
 
 I cittadini europei che ritengono che un reclamo sulla privacy sia irrisolto hanno il diritto di presentare un reclamo all'autorità di vigilanza del proprio Stato membro.

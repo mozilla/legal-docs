@@ -83,7 +83,8 @@ Megtekintheti a [szerzői jogok vagy védjegybitorlás megsértésével kapcsola
 Egyéb értesítésekért írjon a legal-notices@mozilla.com címre, vagy a Mozilla Corporation számára. 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
