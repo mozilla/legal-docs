@@ -105,7 +105,8 @@ __Keuze van rechtsgebied.__ Op dit contract is de wetgeving van Californië van 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street,  
+4th Floor  
 San Francisco, CA 94105, Verenigde Staten  
 
 legal-notices@mozilla.com

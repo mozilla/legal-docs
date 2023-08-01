@@ -122,7 +122,8 @@ W przypadku pytań lub wątpliwości dotyczących niniejszych Zasad ochrony pryw
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 Obywatele Unii Europejskiej, którzy uważają, że ich zażalenie dotyczące prywatności nie zostało należycie rozpatrzone, mają prawo złożyć skargę do organu nadzorczego w swoim kraju.

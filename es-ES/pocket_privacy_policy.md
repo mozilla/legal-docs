@@ -122,7 +122,8 @@ Si tiene alguna pregunta o duda con respecto a esta Política de privacidad, pó
 
 Mozilla Corporation  
 A la atención de: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, EE. UU.
 
 Los europeos que consideren que una queja sobre la privacidad está sin resolver tienen derecho a presentar una queja ante la autoridad supervisora de su Estado miembro.

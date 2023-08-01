@@ -83,7 +83,8 @@ __Συμμόρφωση με το Νόμο.__ Ανάλογα με τον τόπο
 Για άλλες ειδοποιήσεις, μπορείτε να μας στείλετε email στη διεύθυνση legal-notices@mozilla.com ή να μας γράψετε στη Mozilla Corporation 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

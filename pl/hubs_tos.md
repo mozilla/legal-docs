@@ -83,7 +83,8 @@ Można zapoznać się z naszą [polityką dotyczącą roszczeń w sprawie narusz
 Inne powiadomienia można przesłać do nas pocztą e-mail na adres legal-notices@mozilla.com lub wysłać pocztą do Mozilla Corporation 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

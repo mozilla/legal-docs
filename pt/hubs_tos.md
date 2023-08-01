@@ -83,7 +83,8 @@ Pode consultar a nossa [política de reivindicações por infrações de marcas 
 No caso de outros avisos, poderá enviar-nos um email para legal-notices@mozilla.com ou enviar uma carta para a Mozilla Corporation 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

@@ -105,7 +105,8 @@ __Legge applicabile.__ Il presente contratto è regolamentato dalle leggi dello 
 
 Mozilla Corporation  
 Att.: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street,  
+4th Floor  
 San Francisco, CA 94105, U.S.A.  
 
 legal-notices@mozilla.com

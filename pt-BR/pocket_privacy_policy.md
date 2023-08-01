@@ -122,7 +122,8 @@ Se você tiver dúvidas ou problemas relacionados a esta Política de Privacidad
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, Estados Unidos
 
 Se você for europeu e tiver um problema de privacidade não resolvido, pode registrar uma reclamação com a autoridade fiscalizadora do país em questão.

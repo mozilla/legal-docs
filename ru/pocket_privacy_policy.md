@@ -122,7 +122,8 @@
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 Европейцы, которые считают, что жалоба на неприкосновенность частной жизни не урегулирована, имеют право подать жалобу в надзорный орган своего государства-участника ЕС.
