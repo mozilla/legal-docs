@@ -36,7 +36,8 @@ Leia os seguintes termos de serviço (“Contrato” ou “Termos de Serviço”
 Se tiver qualquer dúvida ou problema com relação a este Contrato, às Tecnologias do Pocket ou à sua assinatura do Pocket Premium, envie-nos um e-mail para legal@getpocket.com. Você também pode nos escrever para:  
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, Estados Unidos
 
 ## O serviço do Pocket {: #service }

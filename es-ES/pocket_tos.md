@@ -36,7 +36,8 @@ Lea las siguientes condiciones de servicio («Acuerdo» o «Condiciones de servi
 Si tiene alguna pregunta o duda relacionada con este Acuerdo, las Tecnologías de Pocket o su suscripción a Pocket Premium, póngase en contacto con nosotros en legal@getpocket.com. También puede ponerse en contacto con nosotros en:  
 Mozilla Corporation  
 A la atención de: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, EE. UU.
 
 ## El servicio de Pocket {: #service }

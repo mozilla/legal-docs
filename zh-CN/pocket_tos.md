@@ -36,7 +36,8 @@
 如果对本协议、Pocket 技术或 Pocket Premium 订阅有任何疑问或疑虑，请通过 legal@getpocket.com 与我们联系。或者也可以通过以下方式联系我们：  
 Mozilla Corporation  
 ATTN:Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105
 
 ## Pocket 服务 {: #service }

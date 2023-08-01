@@ -36,7 +36,8 @@ Leggere attentamente i seguenti termini di servizio ("Accordo" o "Termini di ser
 In caso di domande o dubbi in merito al presente Accordo, alle Tecnologie Pocket o all'abbonamento Pocket Premium, è possibile contattarci all'indirizzo email legal@getpocket.com, oppure all'indirizzo postale:  
 Mozilla Corporation  
 Att.: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, U.S.A.
 
 ## Il servizio Pocket {: #service }

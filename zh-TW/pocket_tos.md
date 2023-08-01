@@ -37,7 +37,8 @@
 
 Mozilla Corporation  
 收件人：Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105（美國）
 
 ## Pocket 服務 {: #service }

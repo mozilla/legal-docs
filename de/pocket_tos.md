@@ -36,7 +36,8 @@ Bitte lesen Sie die nachstehenden Nutzungsbedingungen („Vereinbarung“ oder �
 Wenn Sie Fragen oder Bedenken zur vorliegenden Vereinbarung, den Pocket-Technologien oder Ihrem Pocket Premium-Abonnement haben, empfehlen wir Ihnen, sich mit uns per E-Mail an legal@getpocket.com in Verbindung zu setzen. Alternativ können Sie uns auch unter folgender Anschrift kontaktieren:  
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, USA
 
 ## Der Pocket-Dienst {: #service }

@@ -36,7 +36,8 @@ Pocket アプリケーションをインストールする前、または Mozill
 本契約、Pocket Technologies、または Pocket Premium のサブスクリプションに関してご質問またはご懸念がある場合は、legal@getpocket.com までお問い合わせください。別のお問い合わせ方法:  
 Mozilla Corporation  
 ATTN:Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105
 
 ## Pocket サービス {: #service }

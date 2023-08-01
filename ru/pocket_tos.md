@@ -36,7 +36,8 @@
 Если у вас есть вопросы или замечания в отношении положений настоящего Соглашения, Pocket Technologies или вашей подписки на Pocket Premium, свяжитесь с нами по адресу: legal@getpocket.com. Вы также можете писать нам по адресу:  
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105
 
 ## Сервис Pocket {: #service }

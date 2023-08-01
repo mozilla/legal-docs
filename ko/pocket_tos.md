@@ -36,7 +36,8 @@ Pocket 애플리케이션을 설치하거나 애플리케이션, 소프트웨어
 본 계약, Pocket Technologies 또는 Pocket Premium 구독에 관련한 문의 사항 또는 의견이 있는 경우 legal@getpocket.com에서 문의하시면 됩니다. 다음 주소로 문의하실 수도 있습니다.  
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105
 
 ## Pocket 서비스 {: #service }
