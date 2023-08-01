@@ -105,7 +105,8 @@ __Juridiction.__ La loi de Californie s’applique à ce contrat, sauf en cas de
 
 Mozilla Corporation  
 À l’attention de : Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street,  
+4th Floor  
 San Francisco, CA 94105, États-Unis  
 
 legal-notices@mozilla.com
