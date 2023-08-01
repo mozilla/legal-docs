@@ -83,7 +83,8 @@ Puteți consulta [politica noastră privind reclamațiile pentru încălcarea dr
 Pentru alte notificări, puteți să ne trimiteți un e-mail la legal-notices@mozilla.com sau să ne scrieți la Mozilla Corporation 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

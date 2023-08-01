@@ -83,7 +83,8 @@ Sie können unsere [Richtlinie zu Ansprüchen im Zusammenhang mit Copyright- ode
 Wenn Sie andere rechtliche Richtlinien einsehen möchten, schreiben Sie uns bitte eine E-Mail an legal-notices@mozilla.com oder senden Sie postalisch ein Schreiben an Mozilla Corporation: 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
