@@ -66,7 +66,8 @@ En el caso de que decidamos rescindir su derecho a acceder al Servicio sin indic
 
 Mozilla Corporation  
 A la atención de: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, EE.UU.  
 
 legal-notices@mozilla.com

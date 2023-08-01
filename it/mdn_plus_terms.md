@@ -66,7 +66,8 @@ Se revochiamo il tuo accesso al Servizio senza una causa specifica, potrai conti
 
 Mozilla Corporation  
 Att.: Mozilla - Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105, U.S.A.  
 
 legal-notices@mozilla.com
