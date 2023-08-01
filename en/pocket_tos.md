@@ -36,8 +36,8 @@ Please read the following terms of service ("Agreement" or "Terms of Service") b
 If you have questions or concerns regarding this Agreement, the Pocket Technologies or your Pocket Premium subscription, you should contact us at legal@getpocket.com. Alternatively, you may contact us at:  
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-149 New Montgomery St. 
-4th Floor
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105
 
 ## The Pocket Service {: #service }
