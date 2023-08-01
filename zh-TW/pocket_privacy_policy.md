@@ -122,7 +122,8 @@ Pocket 非常關心身分盜竊及稱為「網路釣魚」的行徑。我們將�
 
 Mozilla Corporation  
 收件人：Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105（美國）
 
 歐洲單位人員如有未解決的隱私權申訴問題，有權向其歐盟成員國監督管理局舉報。

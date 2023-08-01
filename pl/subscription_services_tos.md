@@ -106,7 +106,8 @@ __Wybór prawa.__ Do niniejszej umowy zastosowanie ma prawo stanu Kalifornia, z 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street,  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

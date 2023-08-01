@@ -1,9 +1,9 @@
 ﻿# MDN Plus 服务条款
 
-1.0 版，2022 年 3 月 23 日生效
-{: datetime="2022-03-23" }
+1.1 版，2023 年 5 月 24 日生效
+{: datetime="2023-05-24" }
 
-MDN Plus 是一种提供付费功能的订阅服务，包括 MDN 脱机、收藏、主题和通知。（下称“本服务”）。请仔细阅读服务条款，因为它们解释了有关您使用本服务的重要信息。
+MDN Plus 是一种提供付费功能的订阅服务，包括 MDN 脱机、收藏、主题和更新。（下称“本服务”）。请仔细阅读服务条款，因为它们解释了有关您使用本服务的重要信息。
 
 ## 您必须具备使用本服务的资格
 
@@ -66,7 +66,8 @@ __取消。__ 您可以随时取消订阅 MDN Plus。您可以通过单击我们
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

@@ -122,7 +122,8 @@ Wenn Sie Fragen oder Bedenken zur vorliegenden Datenschutzrichtlinie haben, empf
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, USA
 
 In Europa ansässigen Personen, die der Ansicht sind, dass eine Datenschutzbeschwerde nicht geklärt wurde, steht das Recht zu, bei der Aufsichtsbehörde ihres jeweiligen Mitgliedsstaates Beschwerde einzureichen.

@@ -58,7 +58,7 @@ Son Güncelleme: 10 Nisan 2022 Pazar
     Mozilla ile e-posta aboneliklerinizi e-postalarımızdan (alttaki bağlantıyı tıklayın) veya tarayıcıdan (Firefox / Tercihler / Sync / Hesabı yönet / E-posta Tercihleri sayfasını ziyaret edin) değiştirebilirsiniz.
     
     Ayrıca yasal koşullar veya gizlilik koşullarına ilişkin güncellemeler veya şifre sıfırlama ve e-posta doğrulaması gibi mesajlar ile bağlantılı cihazlara yönelik önemli hesap bilgilerini de size gönderebiliriz. Bu bilgiler, hizmetlerimiz için gereklidir ve bunları almayı bırakmak mümkün değildir. 
-Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 2 Harrison St. #175, San Francisco, CA 94105 veya legal-notices@mozilla.com_ 
+Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 149 New Montgomery St, 4th Floor, San Francisco, CA 94105 veya legal-notices@mozilla.com_ 
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 

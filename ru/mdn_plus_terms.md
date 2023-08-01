@@ -66,7 +66,8 @@ __Отмена.__ Вы можете отменить подписку на MDN P
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery St.  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com

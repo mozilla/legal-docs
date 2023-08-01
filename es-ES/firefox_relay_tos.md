@@ -70,7 +70,8 @@ __Cancelación.__ Puede cancelar su suscripción a Firefox Relay cuando lo desee
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105, EE. UU.  
 
 legal-notices@mozilla.com

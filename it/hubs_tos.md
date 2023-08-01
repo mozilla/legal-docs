@@ -83,7 +83,8 @@ Per assistenza, per fornire feedback o per segnalare utilizzi impropri di Hubs o
 Per altre informative, è possibile inviare un'email all'indirizzo legal-notices@mozilla.com o scrivere a Mozilla Corporation. 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-2 Harrison St. #175,  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
