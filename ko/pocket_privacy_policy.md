@@ -122,7 +122,8 @@ Pocket 프로필에서 개인 정보에 액세스하거나 개인 정보를 수�
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-2 Harrison Street, Suite 175  
+149 New Montgomery Street  
+4th Floor  
 San Francisco, CA 94105
 
 개인정보 문제가 해결되지 않았다고 생각하는 유럽 사용자는 회원국의 규제 당국에 불만을 제기할 권리가 있습니다.
