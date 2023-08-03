@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2022 年 8 月 1 日生效*
+*2023 年 7 月 27 日生效*
 {: datetime="2022-08-01" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
@@ -26,10 +26,12 @@
 
 * __位置数据__：首次使用 Firefox 时，Firefox 会使用 IP 地址根据您所在的国家/地区设置默认搜索提供商。[了解更多信息](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-* __搜索查询__：默认情况下，如果您选择的搜索提供商支持搜索建议，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。[了解详情](https://support.mozilla.org/kb/search-suggestions-firefox)，包括如何禁用此功能。我们的默认搜索提供商的链接如下：
+* __搜索查询__：默认情况下，如果您选择的搜索提供商支持搜索建议，Firefox 会将搜索查询发送给您的搜索提供商，以帮助您发现其他用户搜索的常用短语并改善您的搜索体验。您选择的搜索提供商的隐私策略针对您在使用搜索提供商的服务期间搜索提供商对您数据的收集和使用情况进行了规定。[了解详情](https://support.mozilla.org/kb/search-suggestions-firefox)，包括如何禁用此功能。我们的默认搜索提供商的隐私政策的链接包括：
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+当您在 Firefox 网页浏览器（包括但不限于谷歌、必应、DuckDuckGo 和易趣）中使用默认或可选搜索选项时，Mozilla 通常会收取特许权使用费。
 
 * 如果启用了“改进 Firefox Suggest 体验”，我们和我们的合作伙伴也可能会收到您的搜索查询。[在下方了解更多信息](#searches)。 
 
@@ -43,7 +45,7 @@ Firefox 会显示内容，例如附加组件建议、热门站点（Mozilla 为�
 
 * __Pocket 推荐__：我们根据您的浏览历史记录、语言和国家/地区位置向您推荐内容。我们会根据您的浏览历史记录决定您应查看的具体故事，此过程在 Firefox 副本中本地进行，Mozilla 和 Pocket 都不会收集您的浏览历史记录。为帮助您查看基于您所在位置的相关 Pocket 推荐，Firefox 会与 Pocket 共享您的语言和国家/地区位置。
 
-Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数据。此外，我们还会与第三方广告平台 Adzerk 分享有关您查看和点击的推广内容的汇总数据，以便广告商可以看到有多少人点击了他们的文章。此汇总数据不会识别您的个人身份。
+Mozilla 和 Pocket 会收集有关您查看和点击的建议内容的汇总数据。此外，我们还会与第三方广告平台 Kevel 分享有关您查看和点击的推广内容的汇总数据，以便广告商可以看到有多少人点击了他们的文章。此汇总数据不会识别您的个人身份。
 
 * __热门站点__：当您在新标签页点击推广热门站点磁贴时，我们将与 AdMarketplace（第三方推荐平台）共享您所在的国家、地区、县（如果位于美国），点击的磁贴和点击时间，以验证您是否已导航到网站。Firefox 不会共享您的 IP 地址或任何其他可用来识别您身份的信息。
 
@@ -115,7 +117,7 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 * __位置数据__：出于安全目的，我们会存储访问 Firefox 帐户所使用的 IP 地址，以便大致分析您所在的国家/地区和城市。如果检测到可疑活动，例如有人从其他位置登录帐户，我们会使用这些数据向您发送电子邮件警报。
 
-* __交互数据__：我们会收到数据，例如 Firefox 帐户网站访问情况、仪表板和菜单首选项、使用的 Firefox 帐户关联产品和服务，以及通过电子邮件和短信进行的交互。我们将使用这些数据了解您对我们产品和服务的使用情况，并向您发送更多实用 Firefox 帐户提示和产品内消息。
+* __交互数据__：我们会收到数据，例如 Firefox 帐户网站访问情况、仪表板和菜单首选项、使用的 Firefox 帐户关联产品和服务，以及通过电子邮件和短信进行的交互。我们将使用这些数据了解您对我们产品和服务的使用情况，并向您发送更多实用 Firefox 帐户提示和产品内消息。了解我们在 [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend) 中收集的交互数据的更多信息。
 
 * __技术数据__：为显示哪些设备与您的 Firefox 帐户同步以及发挥安全功能，我们会存储您的设备操作系统、浏览器和版本、时间戳、区域设置以及帐户关联设备的上述信息。如果使用 Firefox 帐户登录其他网站或服务（例如，AMO 或 Pocket），我们会收到相应登录时间戳。
 
@@ -123,6 +125,7 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)

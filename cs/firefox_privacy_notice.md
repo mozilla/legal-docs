@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 1. srpna 2022*
+*Účinné od čtvrtek 27. července 2023*
 {: datetime="2022-08-01" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
@@ -26,10 +26,12 @@ Vyhledávání můžete provádět přímo z několika míst ve Firefoxu, včetn
 
 * __Údaje o umístění__: Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země. [Další informace](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Dotazy vyhledávání__: Dle výchozího nastavení Firefox odesílá dotazy vyhledávání vašemu poskytovateli vyhledávání, aby vám pomohl najít běžné fráze, které ostatní lidé vyhledávali, a vylepšil tak vaše zkušenost s vyhledávání, pokud váš vybraný poskytovatel vyhledávání podporuje návrhy vyhledávání. [Podrobnější informace](https://support.mozilla.org/kb/search-suggestions-firefox) včetně postupu deaktivace této funkce. Odkazy na naše výchozí poskytovatele vyhledávání jsou následující: 
+* __Dotazy vyhledávání__: Dle výchozího nastavení Firefox odesílá dotazy vyhledávání vašemu poskytovateli vyhledávání, aby vám pomohl najít běžné fráze, které ostatní lidé vyhledávali, a vylepšil tak vaše zkušenost s vyhledávání, pokud váš vybraný poskytovatel vyhledávání podporuje návrhy vyhledávání. Shromažďování a používání vašich údajů poskytovatelem vyhledávání během využívání služeb poskytovatele vyhledávání se řídí zásadami ochrany osobních údajů vámi vybraného poskytovatele vyhledávání. [Podrobnější informace](https://support.mozilla.org/kb/search-suggestions-firefox) včetně postupu deaktivace této funkce. Odkazy na naše výchozí zásady ochrany osobních údajů poskytovatelů vyhledávání jsou následující:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+Společnost Mozilla obvykle dostává licenční poplatky, pokud používáte výchozí nebo volitelné možnosti vyhledávání ve webovém prohlížeči Firefox, a to včetně například Google, Bing, DuckDuckGo a eBay.
 
 * Pokud aktivujete funkci „Vylepšit zkušenosti s Firefox Suggest“, vaše dotazy vyhledávání můžeme dostat také my a naši partneři. [Podrobnější informace níže](#searches). 
 
@@ -43,7 +45,7 @@ Firefox zobrazuje obsah, jako doporučení doplňků, Top stránky (webové str�
 
 * __Doporučení ze služby Pocket__: Obsah vám doporučujeme na základě vaší historie procházení, jazyka a země umístění. Proces rozhodování o tom, které příběhy by se vám měly zobrazit ve vaší historii procházení probíhá místně ve vaší kopii Firefoxu a ani Modzilla, ani Pocket nedostávají kopii vaší historie procházení. Jako pomoc se zobrazením relevantních Doporučení služby Pocket na základě vašeho umístění Firefox sdílí se službou Pocket informace o vašem jazyce a zemi umístění.
 
-    Modzilla a Pocket získávají souhrnné údaje o doporučením, která se vám zobrazují, a kliknutích. Rovněž sdílíme souhrnná data ohledně sponzorovaného obsahu, který se vám zobrazuje a na který kliknete na naší nezávislé reklamní platformě Adzerk, aby inzerenti viděli, kolik lidí na jejich články kliklo. Tato souhrnná data vás osobně neidentifikují.
+    Modzilla a Pocket získávají souhrnné údaje o doporučením, která se vám zobrazují, a kliknutích. Rovněž sdílíme souhrnná data ohledně sponzorovaného obsahu, který se vám zobrazuje a na který kliknete na naší nezávislé reklamní platformě Kevel, aby inzerenti viděli, kolik lidí na jejich články kliklo. Tato souhrnná data vás osobně neidentifikují.
 
 * __Top stránky__: Když kliknete na dlaždici Top sponzorované stránky na Nové kartě, budeme sdílet vaší zemi, region, okres (pokud se nacházíte v USA), dlaždici, na kterou jste klikli, a čas, kdy jste klikli na AdMarketplace (odkazující platforma třetí osoby) pro ověření vašeho přesunu na webové stránky. Firefox nesdílí vaši adresu IP ani další informace, které by bylo možné použít k vaší identifikaci.
 
@@ -115,7 +117,7 @@ Přijali jsme opatření pro omezení možnosti identifikovat vás jak z naší 
 
 * __Údaje o umístění__: Pro bezpečnostní účely ukládáme IP adresy, z nichž přistupujete ke svému účtu Firefoxu pro přibližné stanovení města a země. Tato data používáme k zasílání e-mailových varování, pokud zjistíme podezřelou činnost, jako například přihlášení k účtu z jiných míst.
 
-* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek, řídicích panelů a předvoleb nabídek účtu Firefoxu, vaše používání produktů a služeb ve spojení s účtem Firefox, jakož i o s vašim e-mailem a SMS zprávami. Tyto údaje používáme pro pochopení vašeho používání našich produktů a služeb a pro zasílání užitečnějších tipů pro účet Firefox a zpráv v produktech.
+* __Údaje o interakci__: Získáváme údaje, jako jsou návštěvy webových stránek, řídicích panelů a předvoleb nabídek účtu Firefoxu, vaše používání produktů a služeb ve spojení s účtem Firefox, jakož i o s vašim e-mailem a SMS zprávami. Tyto údaje používáme pro pochopení vašeho používání našich produktů a služeb a pro zasílání užitečnějších tipů pro účet Firefox a zpráv v produktech. Podrobnější informace o údajích o interakcích, které shromažďujeme najdete ve [Slovníku Glean](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Technické údaje__: Pro zobrazení toho, která zařízení jsou synchronizována s vaším účtem Firefox a pro funkci zabezpečení ukládáme informace o operačním účtu vašeho zařízení, prohlížeči a jeho verzi, časové značce, místním prostředí a stejné informace pro zařízení připojená k vašemu účtu. Pokud používáte náš účet Firefoxu pro přihlašování k webovým stránkám nebo službám (jako například AMO nebo Pocket), získáme časovou značku vašeho přihlášení k těmto službám.
 
@@ -123,6 +125,7 @@ Přečtěte si celou dokumentaci nebo získejte podrobnější informace včetn�
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Kapsa](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
