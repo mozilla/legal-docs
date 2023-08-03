@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*有効日 2022 年 8 月 1 日*
+*有効日 2023 年 7 月 27 日*
 {: datetime="2022-08-01" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
@@ -26,10 +26,12 @@
 
 * __位置情報__:Firefox の初回使用時には、あなたの国に基づいて検索プロバイダーを初期設定するために、あなたの IP アドレスが使用されます。[詳細はこちら](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
-* __検索クエリー__:あなたが選択した検索プロバイダーが検索候補機能に対応している場合、Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/search-suggestions-firefox)。初期設定の検索プロバイダーのリンクはこちらです。
+* __検索クエリー__:あなたが選択した検索プロバイダーが検索候補機能に対応している場合、Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。選択した検索プロバイダーのサービスを使用する際の、プロバイダーによるあなたのデータの収集と使用には、その検索プロバイダーのプライバシーポリシーが適用されます。この機能を無効にする方法などの [詳細はこちら](https://support.mozilla.org/kb/search-suggestions-firefox)。初期設定の検索プロバイダーが提供しているプライバシーポリシーのリンクはこちらです。
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+Mozilla は通常、あなたが Firefox ウェブブラウザーで、Google、Bing、DuckDuckGo、および eBay を含むがこれらに限定されない初期設定またはオプションの検索方法のいずれかを使用した際にロイヤルティを受け取ります。
 
 * 「Firefox Suggest 体験を改善」を有効にすると、Mozilla および Mozilla のパートナーもあなたの検索クエリーを受信することがあります。[詳細は下記を参照](#searches)。 
 
@@ -43,7 +45,7 @@ Firefox は、おすすめ拡張機能、トップサイト (初めて Firefox �
 
 * __Pocket からのおすすめ__:Firefox は、あなたのブラウザー履歴、言語および国に基づき、コンテンツをおすすめします。表示するストーリーの決定プロセスは、あなたのブラウジング履歴に基づいて Firefox のコピーでローカルに発生し、Mozilla および Pocket はいずれもブラウザー履歴のコピーを受信しません。Firefox は、あなたの位置に基づいて関連する Pocket からのおすすめを表示するため、あなたの言語および国を Pocket と共有します。
 
-Mozilla および Pocket は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Adzerk と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としています。この集計されたデータは、あなた個人を特定するものではありません。
+Mozilla および Pocket は、あなたが表示およびクリックしたおすすめに関する集計されたデータを受信します。あなたが表示およびクリックしたスポンサー付きのコンテンツに関する集計されたデータは、第三者の広告プラットフォーム、Kevel と共有されます。これは広告主が記事上でクリックしたユーザー数を確認できるようにすることを目的としています。この集計されたデータは、あなた個人を特定するものではありません。
 
 * __トップサイト__:新しいタブでスポンサー付きのトップサイトをクリックすると、Firefox は、あなたがそのウェブサイトに移動したことを確認するため、あなたの国、地域、郡 (米国にお住まいの場合)、クリックしたタイル、およびクリックした時間を AdMarketplace (第三者照会プラットフォーム) と共有します。Firefox が、あなたの IP アドレスやあなたを識別できるその他の情報を共有することはありません。
 
@@ -115,7 +117,7 @@ Mozilla では Mozilla および Mozilla のパートナーがあなたを特定
 
 * __位置情報__:セキュリティ上の理由により、Mozilla は、あなたのいる国および都市のおおよその位置を判断する目的で、あなたがお持ちの Firefox アカウントにアクセスしたときに使用した IP アドレスを保管します。Mozilla はこのデータを使用して、他の場所からのアカウントログインなど、不審なアクティビティが検出された場合に、あなたにメールによる警告を送信します。
 
-* __インタラクションデータ__:Mozilla は、Firefox アカウントウェブサイトやダッシュボード、メニュー設定への訪問、Firefox アカウントに関連して使用した製品およびサービス、ならびに Mozilla のメールおよび SMS メッセージとのインタラクションなどのデータを受信します。これらのデータは、Mozilla が Mozilla の製品やサービスの使用状況について理解し、より便利な Firefox アカウントのヒントや製品内のメッセージをあなたに送信するために活用されます。
+* __インタラクションデータ__:Mozilla は、Firefox アカウントウェブサイトやダッシュボード、メニュー設定への訪問、Firefox アカウントに関連して使用した製品およびサービス、ならびに Mozilla のメールおよび SMS メッセージとのインタラクションなどのデータを受信します。これらのデータは、Mozilla が Mozilla の製品やサービスの使用状況について理解し、より便利な Firefox アカウントのヒントや製品内のメッセージをあなたに送信するために活用されます。Mozilla が収集するインタラクションデータの詳細は、[Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend) でお読みださい。
 
 * __技術データ__:あなたの Firefox アカウントと同期している端末を表示するため、およびセキュリティ機能を目的として、Mozilla はあなたの端末のオペレーティングシステム、ブラウザーとバージョン、タイムスタンプ、ロケール、およびあなたのアカウントに接続されている端末に関する同情報を保管します。Firefox アカウントを使用して他のウェブサイトまたはサービス (AMO や Pocket など) にログインする場合、Mozilla はログインのタイムスタンプを受信します。
 
@@ -123,6 +125,7 @@ Firefox アカウントのデータを管理する方法や、Firefox の [ウ�
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)

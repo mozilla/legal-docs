@@ -1,6 +1,6 @@
 ﻿## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*In vigore dal 1 agosto 2022*
+*In vigore dal 27 luglio 2023*
 {: datetime="2022-08-01" }
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet.
@@ -26,10 +26,12 @@ Le ricerche in Firefox possono essere eseguite da diversi punti, come la barra d
 
 * __Dati sulla posizione__: al primo utilizzo di Firefox, l'indirizzo IP dell'utente viene usato per configurare il provider di servizi di ricerca predefinito in base al Paese. [Per saperne di più](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Query di ricerca__: se viene selezionato un provider che supporta i suggerimenti di ricerca, per impostazione predefinita, Firefox invia le richieste al provider di servizi di ricerca per aiutare l'utente a scoprire frasi comuni usate nelle ricerche da altri e migliorare l'esperienza di ricerca. [Ulteriori informazioni](https://support.mozilla.org/kb/search-suggestions-firefox) che includono come disattivare questa funzione. I link ai nostri fornitori di servizi di ricerca predefiniti sono:
+* __Query di ricerca__: se viene selezionato un provider che supporta i suggerimenti di ricerca, per impostazione predefinita, Firefox invia le richieste al provider di servizi di ricerca per aiutare l'utente a scoprire frasi comuni usate nelle ricerche da altri e migliorare l'esperienza di ricerca. L'informativa sulla privacy del fornitore di servizi di ricerca selezionato disciplina la raccolta e l'utilizzo dei dati dell'utente durante l'impiego dei servizi di ricerca. [Ulteriori informazioni](https://support.mozilla.org/kb/search-suggestions-firefox) che includono come disattivare questa funzione. I link alle informative sulla privacy dei nostri fornitori di servizi di ricerca predefiniti sono:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+Mozilla riceve generalmente delle royalties quando l'utente utilizza una delle opzioni di ricerca predefinite o aggiuntive del browser web Firefox, tra cui, a titolo esemplificativo, Google, Bing, DuckDuckGo e eBay.
 
 * Se viene abilitata l'opzione "Improve the Firefox Suggest Experience" (Migliora l'esperienza di Firefox Suggest), noi e i nostri partner potremmo anche ricevere le query di ricerca dell'utente. [Ulteriori informazioni di seguito](#searches). 
 
@@ -43,7 +45,7 @@ Firefox visualizza contenuti, come componenti aggiuntivi consigliati, siti princ
 
 * __Contenuti consigliati di Pocket__: suggeriamo contenuti sulla base di cronologia di navigazione, lingua e posizione geografica. L'elaborazione della scelta delle storie da visualizzare avviene a livello locale nella copia di Firefox in uso e né Mozilla né Pocket ricevono una copia della cronologia di navigazione. Per favorire la visualizzazione di contenuti consigliati di Pocket pertinenti sulla base della posizione geografica, Firefox condivide i dati sulla lingua e sul Paese con Pocket.
 
-    Mozilla e Pocket ricevono unicamente dati in forma aggregata sui suggerimenti visualizzati e su cui si fa clic. Condividiamo inoltre dati in forma aggregata sui contenuti sponsorizzati visualizzati e su cui si fa clic con la nostra piattaforma di terze parti Adzerk, affinché gli inserzionisti possano vedere quante persone hanno fatto clic sui loro articoli. Questi dati aggregati non ci permettono di identificare gli utenti.
+    Mozilla e Pocket ricevono unicamente dati in forma aggregata sui suggerimenti visualizzati e su cui si fa clic. Condividiamo inoltre dati in forma aggregata sui contenuti sponsorizzati visualizzati e su cui si fa clic con la nostra piattaforma di terze parti Kevel, affinché gli inserzionisti possano vedere quante persone hanno fatto clic sui loro articoli. Questi dati aggregati non ci permettono di identificare gli utenti.
 
 * __Siti principali__: quando si fa clic sulla tile di un sito principale sponsorizzato nella scheda Novità, condividiamo i dati su Paese, area geografica, contea (per gli Stati Uniti), tile su cui hai fatto clic e ora in cui è stato fatto clic con AdMarketplace (una piattaforma di riferimento di terze parti) per confermare l'avvenuta navigazione al sito. Firefox non condivide l'indirizzo IP dell'utente o qualsiasi altra informazione identificabile.
 
@@ -115,7 +117,7 @@ Nell'ambito di questa funzione, ci impegniamo a limitare la possibilità di iden
 
 * __Dati sulla posizione__: per finalità di sicurezza, memorizziamo gli indirizzi IP utilizzati per accedere all'account Firefox, allo scopo di individuare la città e il Paese dell'utente. Utilizziamo tali dati per inviare avvisi email in caso vengano rilevate attività sospette, come accessi all'account da altre località.
 
-* __Dati relativi alle interazioni__: riceviamo dati come informazioni sulle visite al sito Web degli account Firefox, dashboard e preferenze di menu, sui prodotti e servizi che vengono utilizzati in relazione all'account Firefox e sulle interazioni con i nostri messaggi email e SMS. Tali dati ci servono per comprendere come gli utenti utilizzano i nostri prodotti e servizi e per inviare loro suggerimenti e messaggi più pertinenti in relazione all'account Firefox.
+* __Dati relativi alle interazioni__: riceviamo dati come informazioni sulle visite al sito Web degli account Firefox, dashboard e preferenze di menu, sui prodotti e servizi che vengono utilizzati in relazione all'account Firefox e sulle interazioni con i nostri messaggi email e SMS. Tali dati ci servono per comprendere come gli utenti utilizzano i nostri prodotti e servizi e per inviare loro suggerimenti e messaggi più pertinenti in relazione all'account Firefox. Ulteriori informazioni sui dati delle interazioni che raccogliamo sono disponibili nel [dizionario di Glean](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Dati tecnici__: per visualizzare i dispositivi che sono sincronizzati con l'account Firefox e per finalità di sicurezza, memorizziamo informazioni su sistema operativo del dispositivo, tipo e versione del browser, indicatore temporale e impostazioni locali e le stesse informazioni vengono memorizzate per tutti i dispositivi connessi all'account. Se l'account Firefox viene utilizzato per accedere ad altri siti Web o servizi (come AMO o Pocket), riceviamo l'indicatore temporale di tali accessi.
 
@@ -123,6 +125,7 @@ Nell'ambito di questa funzione, ci impegniamo a limitare la possibilità di iden
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
