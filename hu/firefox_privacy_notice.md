@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Hatályos: 2022. augusztus 1-től*
+*Hatályos: 2023. július 27-től*
 {: datetime="2022-08-01" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
@@ -26,10 +26,12 @@ A Firefoxban több helyről is végezhet keresést közvetlenül, például a cs
 
 * __Helyadatok__: Amikor először használja a Firefoxot, az az IP-címét használja az alapértelmezett keresőszolgáltató beállításához az országa alapján. [Tudjon meg többet](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Keresési lekérdezések__: A Firefox alapértelmezés szerint elküldi a keresőkérdéseket a keresőszolgáltatónak, hogy segítsen felfedezni a mások által keresett gyakori kifejezéseket, és javítsa a keresési élményt, ha a kiválasztott keresőszolgáltató támogatja a keresési javaslatokat. [Tudjon meg többet](https://support.mozilla.org/kb/search-suggestions-firefox), többek között ennek a funkciónak a kikapcsolásáról. Az alapértelmezett keresőszolgáltatóink linkjei:
+* __Keresési lekérdezések__: A Firefox alapértelmezés szerint elküldi a keresőkérdéseket a keresőszolgáltatónak, hogy segítsen felfedezni a mások által keresett gyakori kifejezéseket, és javítsa a keresési élményt, ha a kiválasztott keresőszolgáltató támogatja a keresési javaslatokat. Az Ön által kiválasztott keresőszolgáltató adatvédelmi szabályzata szabályozza az Ön adatainak a keresőszolgáltató általi gyűjtését és felhasználását, amikor Ön a keresőszolgáltató szolgáltatásait használja. [Tudjon meg többet](https://support.mozilla.org/kb/search-suggestions-firefox), többek között ennek a funkciónak a letiltásáról. Az alapértelmezett keresőszolgáltatóink adatvédelmi szabályzataira mutató hivatkozások a következők:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+A Mozilla általában akkor kap jogdíjat, ha Ön a Firefox webböngészőjének valamelyik alapértelmezett vagy opcionális keresési lehetőségét használja, többek között a következőket: Google, Bing, DuckDuckGo vagy eBay.
 
 * Ha engedélyezi a „Firefox javaslattevő funkciójának javítását”, mi és partnereink is megkaphatjuk az Ön keresési lekérdezéseit. [További információkat talál lent](#searches). 
 
@@ -43,7 +45,7 @@ A Firefox olyan tartalmakat jelenít meg, mint például az bővítményajánlá
 
 * __Pocket-ajánlások__: A böngészési előzmények, a nyelv és az ország elhelyezkedése alapján ajánlunk tartalmat Önnek. Az arról való döntés, hogy a böngészési előzmények alapján mely történeteket kell látnia, helyben, a Firefoxban történik, és sem a Mozilla, sem a Pocket nem kap másolatot a böngészési előzményekről. Annak érdekében, hogy helyzete alapján releváns Pocket-ajánlásokat láthasson, a Firefox megosztja az Ön nyelvét és országának helyzetét a Pocket-alkalmazással.
 
-    A Mozilla és a Pocket összesített adatokat kap azokról az ajánlásokról, amelyeket Ön látott, és amelyekre kattintott. A szponzorált tartalmakra vonatkozó összesített adatokat is megosztjuk az Adzerk harmadik fél hirdetési platformjával, hogy a hirdetők láthassák, hányan kattintanak a cikkeikre. Ezek az összesített adatok nem azonosítják Önt személyesen.
+    A Mozilla és a Pocket összesített adatokat kap azokról az ajánlásokról, amelyeket Ön látott, és amelyekre kattintott. A szponzorált tartalmakra vonatkozó összesített adatokat is megosztjuk az Kevel harmadik fél hirdetési platformjával, hogy a hirdetők láthassák, hányan kattintanak a cikkeikre. Ezek az összesített adatok nem azonosítják Önt személyesen.
 
 * __Top site-ok__: Amikor egy új lapon egy szponzorált Top site-ok elemre kattint, megosztjuk az országát, régióját, megyéjét (ha az Egyesült Államokban tartózkodik), az elemet, amelyre kattintott és a kattintás idejét az AdMarketplace-szel (egy harmadik fél ajánló platformjával), hogy ellenőrizhessük, hogy a weboldalra navigált. A Firefox nem osztja meg az Ön IP-címét vagy más olyan információt, amely felhasználható az Ön azonosítására.
 
@@ -115,7 +117,7 @@ Intézkedéseket teszünk annak érdekében, hogy korlátozzuk saját és partne
 
 * __Helyadatok__: Biztonsági okokból tároljuk a Firefox-fiókjához való hozzáféréshez használt IP-címeket, hogy megközelítőleg meghatározzuk az Ön városát és országát. Ezeket az adatokat arra használjuk, hogy e-mail-riasztásokat küldjünk Önnek, ha gyanús tevékenységet észlelünk, például más helyekről történő fiókbejelentkezéseket.
 
-* __Interaktív adatok__: Olyan adatokat kapunk, mint például a Firefox-fiókok weboldalán tett látogatásai, a műszerfalak és a menübeállítások, a Firefox-fiókjával kapcsolatban használt termékek és szolgáltatások, valamint az e-mailjeinkkel és SMS-üzeneteinkkel való interakciói. Ezt arra használjuk, hogy megértsük, hogyan használja termékeinket és szolgáltatásainkat, és hogy hasznosabb tippeket küldjünk Önnek a Firefox-fiókkal kapcsolatban, valamint terméken belüli üzeneteket.
+* __Interaktív adatok__: Olyan adatokat kapunk, mint például a Firefox-fiókok weboldalán tett látogatásai, a műszerfalak és a menübeállítások, a Firefox-fiókjával kapcsolatban használt termékek és szolgáltatások, valamint az e-mailjeinkkel és SMS-üzeneteinkkel való interakciói. Ezt arra használjuk, hogy megértsük, hogyan használja termékeinket és szolgáltatásainkat, és hogy hasznosabb tippeket küldjünk Önnek a Firefox-fiókkal kapcsolatban, valamint terméken belüli üzeneteket. Tudjon meg többet az általunk gyűjtött interakciós adatokról a [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend) szolgáltatásban.
 
 * __Technikai adatok__: A Firefox-fiókjával szinkronizált eszközök megjelenítéséhez és a biztonsági funkciók miatt tároljuk az eszköz operációs rendszerét, a böngészőt és annak verzióját, az időbélyeget, a földrajzi területet, valamint ugyanezeket az információkat a fiókjához csatlakoztatott eszközök esetében. Ha a Firefox-fiókját más webhelyekre vagy szolgáltatásokra (például AMO vagy Pocket) való bejelentkezésre használja, megkapjuk ezeknek a bejelentkezéseknek az időbélyegét.
 
@@ -123,6 +125,7 @@ Olvassa el a teljes dokumentációt, vagy tudjon meg többet például a Firefox
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
