@@ -1,6 +1,6 @@
 ﻿## Pemberitahuan Privasi <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*Berlaku 1 Agustus 2022*
+*Berlaku 27 Juli 2023*
 {: datetime="2022-08-01" }
 
 ## Di Mozilla, kami meyakini bahwa privasi adalah fundamental internet sehat.
@@ -26,10 +26,12 @@ Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk
 
 * __Data lokasi__: Jika Anda menggunakan Firefox pertama kali, data lokasi akan menggunakan alamat IP Anda untuk mengatur penyedia pencarian default berdasarkan negara Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Kueri pencarian__: Firefox secara default mengirimkan kueri pencarian ke penyedia pencarian Anda untuk membantu menemukan frasa umum yang pernah dicari orang lain dan meningkatkan pengalaman pencarian Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/search-suggestions-firefox), termasuk cara menonaktifkan fitur ini. Jika Anda mengaktifkan Tautan ke penyedia pencarian baku kami adalah:
+* __Kueri pencarian__: Firefox secara default mengirimkan kueri pencarian ke penyedia pencarian Anda untuk membantu menemukan frasa umum yang pernah dicari orang lain dan meningkatkan pengalaman pencarian Anda. Kebijakan privasi penyedia pencarian yang Anda pilih mengatur pengumpulan dan penggunaan data Anda saat Anda menggunakan layanan penyedia pencarian. [Pelajari selengkapnya](https://support.mozilla.org/kb/search-suggestions-firefox), termasuk cara menonaktifkan fitur ini. Tautan ke kebijakan privasi penyedia pencarian default kami mencakup:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+Mozilla umumnya menerima royalti saat Anda menggunakan salah satu opsi pencarian default atau opsional di browser web Firefox, termasuk namun tidak terbatas pada Google, Bing, DuckDuckGo, dan eBay.
 
 * Jika Anda mengaktifkan “Tingkatkan Pengalaman Firefox Suggest”, kami dan mitra kami juga bisa menerima kueri pencarian Anda. [Pelajari selengkapnya di bawah ini](#searches). 
 
@@ -43,7 +45,7 @@ Firefox menampilkan konten, seperti Rekomendasi Pengaya, Situs Populer (situs we
 
 * __Rekomendasi Pocket__: Kami merekomendasikan konten kepada Anda berdasarkan riwayat penjelajahan, bahasa, dan lokasi negara Anda. Proses penentuan cerita yang perlu Anda baca berdasarkan riwayat penjelajahan terjadi secara lokal di salinan Firefox Anda, dan Mozilla atau Pocket tidak menerima salinan riwayat penjelajahan Anda. Untuk membantu agar Anda melihat Rekomendasi Pocket yang relevan berdasarkan lokasi, Firefox membagikan bahasa dan lokasi negara Anda ke Pocket.
 
-    Mozilla dan Pocket menerima kumpulan data rekomendasi yang Anda lihat dan klik. Kami juga membagikan kumpulan data konten sponsor yang Anda lihat dan klik dengan platform iklan pihak ketiga, Adzerk, sehingga pengiklan bisa melihat jumlah orang yang mengeklik artikel mereka. Kumpulan data ini tidak bisa mengidentifikasi Anda secara pribadi.
+    Mozilla dan Pocket menerima kumpulan data rekomendasi yang Anda lihat dan klik. Kami juga membagikan kumpulan data konten sponsor yang Anda lihat dan klik dengan platform iklan pihak ketiga, Kevel, sehingga pengiklan bisa melihat jumlah orang yang mengeklik artikel mereka. Kumpulan data ini tidak bisa mengidentifikasi Anda secara pribadi.
 
 * __Situs Populer__: Jika Anda mengeklik tile Situs Teratas Bersponsor pada Tab Baru, kami akan membagikan negara, wilayah, negara bagian (jika tinggal di AS), tile yang diklik, dan waktu Anda mengeklik kepada AdMarketplace (platform referensi pihak ketiga) untuk memverifikasi Anda telah mengunjungi situs web tersebut. Firefox tidak membagikan alamat IP atau informasi lain yang dapat digunakan untuk mengidentifikasi Anda.
 
@@ -115,7 +117,7 @@ Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [
 
 * __Data lokasi__: Untuk keamanan, kami menyimpan alamat IP yang digunakan mengakses Akun Firefox agar bisa memperkirakan kota dan negara Anda. Kami menggunakan data ini untuk mengirim peringatan email kepada Anda jika kami mendeteksi aktivitas mencurigakan, seperti masuk akun dari lokasi lain.
 
-* __Data interaksi__: Kami menerima data misalnya kunjungan Anda ke situs web, dasbor, dan preferensi menu Akun Firefox, produk dan layanan apa yang digunakan sehubungan dengan Akun Firefox, dan interaksi Anda dengan email dan pesan SMS kami. Kami menggunakan ini untuk memahami penggunaan produk atau layanan dan mengirimkan Tips Akun Firefox dan pesan dalam produk yang lebih bermanfaat.
+* __Data interaksi__: Kami menerima data misalnya kunjungan Anda ke situs web, dasbor, dan preferensi menu Akun Firefox, produk dan layanan apa yang digunakan sehubungan dengan Akun Firefox, dan interaksi Anda dengan email dan pesan SMS kami. Kami menggunakan ini untuk memahami penggunaan produk atau layanan dan mengirimkan Tips Akun Firefox dan pesan dalam produk yang lebih bermanfaat. Pelajari selengkapnya tentang data interaksi yang kami kumpulkan dalam [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Data teknis__: Untuk menampilkan perangkat mana yang disinkronkan dengan Akun Firefox dan untuk fungsi keamanan, kami menyimpan sistem operasi perangkat, browser dan versi, label waktu, bahasa, dan informasi perangkat yang terhubung ke akun Anda. Jika Anda menggunakan Akun Firefox untuk masuk ke situs web atau layanan lain (misalnya AMO atau Pocket), kami menerima label waktu masuk.
 
@@ -123,6 +125,7 @@ Baca dokumentasi lengkap atau pelajari lebih lanjut, termasuk cara mengelola dat
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)

@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacykennisgeving</span>
 
-*Van kracht vanaf 1 augustus 2022*
+*Van kracht vanaf donderdag 27 juli 2023*
 {: datetime="2022-08-01" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
@@ -26,10 +26,12 @@ U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoere
 
 * __Locatiegegevens__: Wanneer u Firefox voor het eerst gebruikt, wordt uw IP-adres op basis van uw land gebruikt voor het instellen van uw standaardzoekprovider. [Meer informatie](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Zoekquery's__: Firefox verzendt standaard zoekquery's naar uw zoekprovider, zodat er veelgebruikte zinnen kunnen worden weergegeven waarnaar anderen hebben gezocht en uw zoekervaring kan worden verbeterd, mits u hebt ingesteld dat de zoekprovider zoeksuggesties ondersteunt. Lees [meer informatie](https://support.mozilla.org/kb/search-suggestions-firefox), waaronder informatie over hoe u deze functie kunt uitschakelen. Koppelingen naar onze standaard zoekproviders zijn:
+* __Zoekquery's__: Firefox verzendt standaard zoekquery's naar uw zoekprovider, zodat er veelgebruikte zinnen kunnen worden weergegeven waarnaar anderen hebben gezocht en uw zoekervaring kan worden verbeterd, mits u hebt ingesteld dat de zoekprovider zoeksuggesties ondersteunt. Het privacybeleid van de geselecteerde zoekprovider beheerst het verzamelen en gebruik van uw gegevens door de zoekprovider wanneer u de service van de zoekprovider gebruikt. Lees [meer informatie](https://support.mozilla.org/kb/search-suggestions-firefox), waaronder informatie over hoe u deze functie kunt uitschakelen. Koppelingen naar het privacybeleid van onze standaard zoekproviders zijn:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+Mozilla ontvangt over het algemeen royaltybetalingen wanneer u de standaard zoekopties of de optionele zoekopties gebruikt in de Firefox-webbrowser, waaronder, maar niet beperkt tot, Bing, DuckDuckGo, and eBay.
 
 * Als u de optie voor het verbeteren van de Firefox Suggest-ervaring inschakelt, kunnen wij en onze partners ook uw zoekquery's ontvangen. [Hieronder vindt u meer info](#searches). 
 
@@ -43,7 +45,7 @@ Firefox geeft inhoud weer, zoals aanbevolen add-ons, Top Sites (door Mozilla voo
 
 * __Pocket-aanbevelingen__: We stellen inhoud aan u voor op basis van uw browsegeschiedenis, taal en land. Het proces van het beslissen van welke verhalen moeten worden weergegeven op basis van uw browsegeschiedenis vindt plaats in uw lokale exemplaar van Firefox. Noch Mozilla, noch Pocket ontvangt een kopie van uw browsergeschiedenis. Firefox deelt uw taal en land met Pocket om u Pocket-aanbevelingen te tonen op basis van uw locatie.
 
-    Mozilla en Pocket ontvangen samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Verder delen we samengevoegde gegevens over de gesponsorde inhoud die u ziet en waarop u klikt met ons externe advertentieplatform Adzerk, zodat adverteerders kunnen zien hoeveel mensen op hun artikelen klikken. U kunt niet persoonlijk worden geïdentificeerd aan de hand van deze samengevoegde gegevens.
+    Mozilla en Pocket ontvangen samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Verder delen we samengevoegde gegevens over de gesponsorde inhoud die u ziet en waarop u klikt met ons externe advertentieplatform Kevel, zodat adverteerders kunnen zien hoeveel mensen op hun artikelen klikken. U kunt niet persoonlijk worden geïdentificeerd aan de hand van deze samengevoegde gegevens.
 
 * __Top Sites__: Als u klikt op een gesponsorde tegel van Top Sites in een nieuw tabblad, delen we uw land, regio, staat (als u zich in de VS bevindt), de tegel waarop u hebt geklikt en de tijd waarop u hebt geklikt met AdMarketplace (een extern platform voor doorverwijzingen) om te verifiëren dat u naar de website bent gegaan. Firefox deelt uw IP-adres of andere informatie waarmee u kunt worden worden geïdentificeerd niet.
 
@@ -115,7 +117,7 @@ We hebben maatregelen getroffen om ons vermogen en dat van onze partners te bepe
 
 * __Locatiegegevens__: Om beveiligingsredenen slaan we de IP-adressen op die worden gebruikt om toegang te krijgen tot uw Firefox-account, zodat uw plaats en land bij benadering kunnen worden bepaald. We gebruiken deze gegevens om u e-mailmeldingen te sturen als we verdachte activiteiten detecteren, zoals accountaanmeldingen vanaf andere locaties.
 
-* __Interactiegegevens__: We ontvangen gegevens zoals uw bezoeken aan de websites, dashboards en menuvoorkeuren van Firefox-accounts, welke producten u gebruikt in combinatie met uw Firefox-account en hoe u onze e-mails en sms-berichten gebruikt. We doen dit om inzicht te krijgen in uw gebruik van onze producten en services, en om u handige tips over uw Firefox-account en berichten in de app te sturen.
+* __Interactiegegevens__: We ontvangen gegevens zoals uw bezoeken aan de websites, dashboards en menuvoorkeuren van Firefox-accounts, welke producten u gebruikt in combinatie met uw Firefox-account en hoe u onze e-mails en sms-berichten gebruikt. We doen dit om inzicht te krijgen in uw gebruik van onze producten en services, en om u handige tips over uw Firefox-account en berichten in de app te sturen. Meer informatie over interactiegegevens die we verzamelen in de [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Technische gegevens__: Voor het weergeven van welke apparaten worden gesynchroniseerd met uw Firefox-account en voor het leveren van beveiligingsfunctionaliteit slaan we informatie op, zoals het besturingssysteem van uw apparaat, browser en versie, tijdstempel en landinstelling. We slaan dezelfde informatie op voor apparaten die met uw account zijn verbonden. Als u uw Firefox-account gebruikt om u aan te melden bij andere websites of services (zoals AMO of Pocket), ontvangen we de tijdstempel van deze aanmeldingen.
 
@@ -123,6 +125,7 @@ Lees alle documentatie of kom te weten hoe u de gegevens van uw Firefox-account 
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)

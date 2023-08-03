@@ -1,6 +1,6 @@
 ﻿## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de privacidade</span> do Firefox
 
-*Data de vigência: 1º de agosto de 2022*
+*Data de vigência: 27 de julho de 2023*
 {: datetime="2022-08-01" }
 
 ## Na Mozilla, acreditamos que a privacidade seja fundamental para uma internet segura.
@@ -26,10 +26,12 @@ Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive 
 
 * __Dados de localização:__ quando você usa o Firefox pela primeira vez, ele usa seu endereço IP para definir o provedor padrão de pesquisa com base no seu país. [Saiba mais](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
-* __Consultas de pesquisa:__ por padrão, o Firefox envia consultas de pesquisa para seu provedor de busca a fim de ajudar você a descobrir frases comuns pesquisadas por outras pessoas e melhorar sua experiência, caso o provedor usado permita sugestões. [Saiba mais](https://support.mozilla.org/kb/search-suggestions-firefox), inclusive como desabilitar esse recurso. Estes são os links dos nossos provedores de pesquisa padrão:
+* __Consultas de pesquisa:__ por padrão, o Firefox envia consultas de pesquisa para seu provedor de busca a fim de ajudar você a descobrir frases comuns pesquisadas por outras pessoas e melhorar sua experiência, caso o provedor usado permita sugestões. A política de privacidade do seu provedor de pesquisa rege a coleta e o uso dos seus dados por parte dele quando você usa seus serviços. [Saiba mais](https://support.mozilla.org/kb/search-suggestions-firefox), inclusive sobre como desabilitar esse recurso. Os links das políticas de privacidade dos nossos provedores de pesquisa padrão incluem:
 
   * [Google](https://policies.google.com/privacy)
   * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+  
+A Mozilla normalmente recebe royalties quando você usa uma das opções de pesquisa padrão ou opcionais no navegador Firefox, incluindo Google, Bing, DuckDuckGo e eBay.
 
 * Se você habilitar a opção “Melhorar a experiência das sugestões do Firefox”, nós e nossos parceiros poderemos receber suas pesquisas. [Saiba mais abaixo.](#searches) 
 
@@ -43,7 +45,7 @@ O Firefox exibe conteúdo, como Recomendações de extensões, Sites preferidos 
 
 * __Recomendações do Pocket:__ nós recomendamos conteúdos para você com base em seu histórico de navegação, idioma e país. O processo que decide quais artigos você vê ocorre localmente em sua cópia do Firefox. A Mozilla e o Pocket não recebem uma cópia do seu histórico de navegação. Para ajudar você a ver recomendações relevantes do Pocket com na sua localização, o Firefox compartilha suas informações de idioma e país com o Pocket.
 
-    A Mozilla e o Pocket recebem dados agregados sobre as recomendações que você vê e nas quais você clica. Nós também compartilhamos dados agregados sobre o conteúdo patrocinado que você vê e nos quais clica com nossa plataforma de anúncios de terceiros, chamada Adzerk, para que os anunciantes possam ver quantas pessoas clicam nos artigos. Esses dados agregados não identificam você.
+    A Mozilla e o Pocket recebem dados agregados sobre as recomendações que você vê e nas quais você clica. Nós também compartilhamos dados agregados sobre o conteúdo patrocinado que você vê e nos quais clica com nossa plataforma de anúncios de terceiros, chamada Kevel, para que os anunciantes possam ver quantas pessoas clicam nos artigos. Esses dados agregados não identificam você.
 
 * __Sites preferidos:__ ao clicar no bloco “Sites preferidos patrocinados” em uma nova guia, compartilhamos seu país, sua região, seu condado (se você estiver nos EUA), o bloco no qual você clicou e a hora em que você clicou no adMarketplace (plataforma de referência de terceiros) para confirmar que você navegou pelo site. O Firefox não compartilha seu endereço IP ou quaisquer outras informações que possam ser usadas para identificar você.
 
@@ -115,7 +117,7 @@ Limitamos a capacidade que nós e os nossos parceiros temos de identificar você
 
 * __Dados de localização:__ para fins de segurança, armazenamos os endereços IP usados para acessar sua conta do Firefox, a fim de determinar sua cidade e seu país. Usamos esses dados para enviar alertas de e-mail para você caso detectemos atividades suspeitas, como logins na conta de outros locais.
 
-* __Dados de interação:__ recebemos dados como acessos à sua conta do Firefox, aos painéis e ao menu de preferências; os produtos e serviços que você usa com sua conta do Firefox; e suas interações com nossos e-mails e mensagens SMS. Usamos essas informações para entender seu uso dos nossos produtos e serviços, e para enviar dicas de conta do Firefox e mensagens internas no produto mais relevantes.
+* __Dados de interação:__ recebemos dados como acessos à sua conta do Firefox, aos painéis e ao menu de preferências; os produtos e serviços que você usa com sua conta do Firefox; e suas interações com nossos e-mails e mensagens SMS. Usamos essas informações para entender seu uso dos nossos produtos e serviços, e para enviar dicas de conta do Firefox e mensagens internas no produto mais relevantes. Saiba mais sobre os dados de interação que coletamos no [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/accounts_frontend).
 
 * __Dados técnicos:__ para exibir quais dispositivos são sincronizados com sua conta do Firefox e para funcionalidades de segurança, armazenamos o sistema operacional do seu dispositivo, o navegador e a versão, o carimbo de data/hora, o local e as mesmas informações para dispositivos conectados à sua conta. Se você usa sua conta do Firefox para fazer login em outros sites ou serviços (como AMO ou Pocket), recebemos o carimbo de data/hora desses logins.
 
@@ -123,6 +125,7 @@ Consulte a documentação completa ou saiba mais sobre esse uso, inclusive sobre
 
 * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
+* [Pocket](https://getpocket.com/privacy/)
 * [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 * [VPN da Mozilla](https://www.mozilla.org/privacy/mozilla-vpn/)
