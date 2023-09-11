@@ -25,7 +25,7 @@ Attn: Mozilla’s Designated DMCA Agent
 4th Floor  
 San Francisco, CA 94105  
 
-Mozilla’s Designated Agent’s phone is 650-903-0800.
+Mozilla’s Designated Agent’s phone is +1 650-903-0800.
 
 ### What happens after sending the DMCA Notice?
 
