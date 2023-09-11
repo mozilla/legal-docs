@@ -17,7 +17,7 @@ Your DMCA Notice must include all of the following information:
 
 ### Where do you email/send/fax the DMCA Notice?
 
-The quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). If you prefer, you can send or fax it to:
+To submit notices related to content on Mozilla.social, please use [this form](https://reports.mozilla.social/infringement-form). For other Mozilla products and sites, the quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). If you prefer, you can send it to:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
@@ -25,7 +25,7 @@ Attn: Mozilla’s Designated DMCA Agent
 4th Floor  
 San Francisco, CA 94105  
 
-Mozilla’s Designated Agent’s fax is 650-903-0875 and phone is 650-903-0800.
+Mozilla’s Designated Agent’s phone is 650-903-0800.
 
 ### What happens after sending the DMCA Notice?
 
