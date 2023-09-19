@@ -111,7 +111,7 @@ Tomamos todas las medidas necesarias para reducir el riesgo de que usted sea ide
 
 ## Si usa estas funciones, Firefox compartirá datos para proporcionarle funcionalidad y ayudarnos a mejorar nuestros productos y servicios: {: #optional-features }
 
-### Firefox Accounts
+### Firefox Accounts {: #firefox-accounts }
 
 * __Datos de registro__: Mozilla recibe su dirección de correo electrónico y un «hash» de su contraseña cuando crea una cuenta de Firefox o se registra para unirse a Firefox. Tiene la opción de incluir un nombre para mostrar o una imagen de perfil.. Su dirección de correo electrónico se envía a nuestro proveedor de servicio de correo electrónico, Acoustic, que tiene su propia [política de privacidad](https://acoustic.com/privacy-notice/).
 

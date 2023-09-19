@@ -111,7 +111,7 @@ Mozilla では Mozilla および Mozilla のパートナーがあなたを特定
 
 ## あなたが以下の機能を使用した場合、Firefox は機能を提供し、Firefox の製品とサービスを改善するためにデータを共有します。 {: #optional-features }
 
-### Firefox アカウント
+### Firefox アカウント {: #firefox-accounts }
 
 * __登録データ__:あなたが Firefox アカウントを作成するとき、または「Firefox に参加する」から登録するとき、Mozilla はあなたのメールアドレスおよびパスワードのハッシュを受信します。あなたは、表示名またはプロファイル画像を含めるように指定できます。あなたのメールアドレスは、Mozilla のメールベンダーである Acoustic に送信されます。このベンダーには、独自の [プライバシーポリシー](https://acoustic.com/privacy-notice/) があります。
 

@@ -111,7 +111,7 @@ Podejmujemy działania mające na celu ograniczenie możliwości identyfikacji u
 
 ## Podczas korzystania z tych funkcji Firefox będzie udostępniać dane, aby zapewnić użytkownikowi funkcjonalność i pomóc nam ulepszyć nasze produkty i usługi: {: #optional-features }
 
-### Konta Firefox
+### Konta Firefox {: #firefox-accounts }
 
 * __Dane rejestracji__: Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Firefox lub rejestracji w celu dołączenia do Firefoksa. Użytkownik może dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy Acoustic, która ma własną [politykę prywatności](https://acoustic.com/privacy-notice/).
 

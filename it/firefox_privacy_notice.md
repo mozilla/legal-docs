@@ -111,7 +111,7 @@ Nell'ambito di questa funzione, ci impegniamo a limitare la possibilità di iden
 
 ## Se si usano queste funzioni, Firefox condividerà alcuni dati per fornire le funzionalità e per aiutarci migliorare i nostri prodotti e servizi: {: #optional-features }
 
-### Account Firefox
+### Account Firefox {: #firefox-accounts }
 
 * __Dati di registrazione__: quando si crea un account Firefox o ci si registra a Firefox, Mozilla riceve l'indirizzo email e un hash della password. È possibile scegliere se includere un nome da visualizzare o un'immagine del profilo. L'indirizzo email viene inviato al nostro fornitore di servizi email, Acoustic, che ha una sua [informativa sulla privacy](https://acoustic.com/privacy-notice/).
 
