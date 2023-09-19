@@ -111,7 +111,7 @@ We hebben maatregelen getroffen om ons vermogen en dat van onze partners te bepe
 
 ## Als u deze functies gebruikt, deelt Firefox gegevens om de functionaliteit mogelijk te maken en onze producten en diensten te verbeteren: {: #optional-features }
 
-### Firefox-accounts
+### Firefox-accounts {: #firefox-accounts }
 
 * __Registratiegegevens__: Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u een Firefox-account maakt of u registreert voor Firefox. U kunt ervoor kiezen om een weergavenaam of profielafbeelding op te nemen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, Acoustic, dat zijn eigen [privacybeleid](https://acoustic.com/privacy-notice/) heeft.
 

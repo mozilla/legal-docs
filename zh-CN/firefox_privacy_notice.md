@@ -111,7 +111,7 @@ Mozilla 正在开发新功能，以便更轻松地为您提供更完善的信息
 
 ## 如果您使用这些功能，Firefox 将共享数据，为您提供功能并帮助我们改进产品和服务： {: #optional-features }
 
-### Firefox 帐户
+### Firefox 帐户 {: #firefox-accounts }
 
 * __注册数据__：当您创建 Firefox 帐户或注册加入 Firefox 时，Mozilla 会收到您的电子邮件地址和密码哈希。您可以选择包括显示名称或个人资料图像。我们会将您的电子邮件地址发送给电子邮件供应商 Acoustic，该供应商具有自身的[隐私政策](https://acoustic.com/privacy-notice/)。
 

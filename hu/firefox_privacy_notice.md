@@ -111,7 +111,7 @@ Intézkedéseket teszünk annak érdekében, hogy korlátozzuk saját és partne
 
 ## Ha ezeket a funkciókat használja, a Firefox adatokat fog megosztani, hogy funkciókat biztosítson Önnek, és segítsen nekünk termékeink és szolgáltatásaink fejlesztésében: {: #optional-features }
 
-### Firefox-fiókok
+### Firefox-fiókok {: #firefox-accounts }
 
 * __Regisztrációs adatok__: A Mozilla megkapja az Ön e-mail címét és a jelszava kivonatát, amikor létrehoz egy Firefox-fiókot vagy regisztrál a Firefox-hoz való csatlakozáshoz. Választhat, hogy megjelenítő nevet vagy profilképet szeretne-e felvenni. Az Ön e-mail-címét az Acoustic nevű e-mail-szolgáltatónak küldjük el, amelynek saját [adatvédelmi irányelvei](https://acoustic.com/privacy-notice/) vannak.
 

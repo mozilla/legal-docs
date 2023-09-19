@@ -111,7 +111,7 @@ We take measures to limit our and our partners’ ability to identify you. [Lear
 
 ## If you use these features, Firefox will share data to provide you functionality and help us improve our products and services: {: #optional-features }
 
-### Firefox Accounts
+### Firefox Accounts {: #firefox-accounts }
 
 * __Registration data__: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox. You can choose to include a display name or profile image. Your email address is sent to our email vendor, Acoustic, which has its own [privacy policy](https://acoustic.com/privacy-notice/).
 
