@@ -111,7 +111,7 @@ Přijali jsme opatření pro omezení možnosti identifikovat vás jak z naší 
 
 ## Pokud tyto funkce používáte, Firefox bude sdílet data, aby vám poskytoval funkce a aby nám pomohl vylepšovat naše produkty a služby: {: #optional-features }
 
-### Účty Firefox
+### Účty Firefox {: #firefox-accounts }
 
 * __Registrační údaje__: Mozilla obdrží vaši e-mailovou adresu a hash vašeho hesla v okamžiku, kdy si vytvoříte svůj účet Firefoxu nebo se zaregistrujete na Firefoxu. Můžete se rozhodnout zahrnout i zobrazované jméno nebo profilový obrázek. Vaše e-mailová adresa se zasílá našemu poskytovateli e-mailu, společnosti Acoustic, která má své vlastní [zásady ochrany osobních údajů](https://acoustic.com/privacy-notice/).
 

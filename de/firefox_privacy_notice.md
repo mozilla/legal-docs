@@ -111,7 +111,7 @@ Zur Beschränkung unserer Möglichkeiten wie auch der unserer Partner, Ihre Iden
 
 ## Falls Sie diese Features verwenden, wird Firefox Daten teilen, um Ihnen bestimmte Funktionen bereitzustellen und unsere Produkte und Services zu verbessern: {: #optional-features }
 
-### Firefox-Konten
+### Firefox-Konten {: #firefox-accounts }
 
 * __Registrierungsdaten__: Mozilla erhält Ihre E-Mail-Adresse und einen Hash Ihres Passworts, wenn Sie ein Firefox-Konto erstellen oder sich für Join Firefox registrieren. Sie können sich entscheiden, ob Sie einen Anzeigenamen oder ein Profilbild einschließen möchten. Ihre E-Mail-Adresse wird an unseren E-Mail-Anbieter Acoustic gesendet, der eine eigene [Datenschutzerklärung](https://acoustic.com/privacy-notice/) hat.
 

@@ -111,7 +111,7 @@ Limitamos a capacidade que nós e os nossos parceiros temos de identificar você
 
 ## Se você usa esses recursos, o Firefox compartilha dados para permitir as funcionalidades e nos ajudar a melhorar nossos produtos e serviços: {: #optional-features }
 
-### Contas do Firefox
+### Contas do Firefox {: #firefox-accounts }
 
 * __Dados de registro:__ a Mozilla recebe seu endereço de e-mail e um hash da sua senha quando você cria uma conta do Firefox e se inscreve nele. Você pode optar por incluir um nome de exibição ou imagem de perfil. Seu endereço de e-mail é enviado para nosso fornecedor de e-mail, o Acoustic, que tem sua própria [política de privacidade](https://acoustic.com/privacy-notice/).
 

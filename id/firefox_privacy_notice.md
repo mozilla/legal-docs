@@ -111,7 +111,7 @@ Kami akan membatasi kemampuan kami dan mitra kami untuk mengidentifikasi Anda. [
 
 ## Jika Anda menggunakan fitur-fitur ini, Firefox akan membagikan data untuk menyediakan fungsionalitas dan membantu kami meningkatkan produk dan layanan: {: #optional-features }
 
-### Akun Firefox
+### Akun Firefox {: #firefox-accounts }
 
 * __Data pendaftaran__: Mozilla menerima alamat email dan hash kata sandi Anda saat Anda membuat Akun Firefox atau mendaftar untuk Bergabung dengan Firefox. Anda bisa memiliki untuk menyertakan nama tampilan atau gambar profil. Alamat email Anda dikirim kepada vendor email kami, Acoustic, yang memiliki [kebijakan privasi](https://acoustic.com/privacy-notice/) sendiri.
 
