@@ -111,7 +111,7 @@ Nous mettons tout en œuvre pour que vous ne soyez pas identifié (par nous ou n
 
 ## Si vous utilisez ces fonctionnalités, Firefox partagera les données obtenues pour vous offrir d’autres fonctionnalités et nous aider à améliorer nos produits et services : {: #optional-features }
 
-### Comptes Firefox
+### Comptes Firefox {: #firefox-accounts }
 
 * __Données d’inscription__ : Mozilla reçoit votre adresse électronique et un hash de votre mot de passe lorsque vous créez un compte Firefox ou que vous vous inscrivez pour rejoindre Firefox. Vous pouvez choisir d’inclure un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, Acoustic, qui dispose de sa propre [politique de confidentialité](https://acoustic.com/privacy-notice/).
 
