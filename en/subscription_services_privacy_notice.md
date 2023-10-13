@@ -1,6 +1,6 @@
 # Mozilla Subscription Services | Privacy Notice
 
-Version 1.0, Effective November 1, 2023
+Version 1.1, Effective November 1, 2023
 {: datetime="2023-11-1" }
 
 ## At Mozilla, we design products with your privacy in mind.
