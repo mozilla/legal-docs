@@ -24,9 +24,9 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     (a) Mozilla VPN is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net/). A Mozilla account is required.
     
-    (b) Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allow you to send and receive emails without revealing your primary email address. A Firefox account is required.
+    (b) Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allow you to send and receive emails without revealing your primary email address. A Mozilla account is required.
     
-    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches. You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Firefox account, you will receive: 
+    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches. You can scan email addresses on our website to see most publicly known breaches. If you subscribe with a Mozilla account, you will receive: 
 
     * Full Report: This includes a complete list of publicly known hacks, including breaches of sensitive websites, such as those for children or adult and dating sites (these sites are excluded from website scans in order to protect the privacy of those individuals). 
     * Breach Alerts: This notifies you if your email address appears in a new data breach. 
@@ -34,9 +34,9 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures. Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/) strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
-    (d) Firefox Notes lets you take notes in Firefox. A Firefox account is required to view, edit, and delete your Notes across devices. 
+    (d) Firefox Notes lets you take notes in Firefox. A Mozilla account is required to view, edit, and delete your Notes across devices. 
 
-    (e) Firefox sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox sync through the Settings section of Firefox. A Firefox account is required. 
+    (e) Firefox sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox sync through the Settings section of Firefox. A Mozilla account is required. 
     
     (f) Pocket helps you discover great content that’s personalized to your interests and save this content so you can return to it later – on any device, at any time. 
 
