@@ -1,7 +1,7 @@
 # Mozilla Subscription Services | Terms of Service
 
-Version 1.1, effective June 15, 2023
-{: datetime="2023-06-15" }
+Version 1.2, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
 
@@ -13,8 +13,8 @@ Please read these Terms of Service carefully because they explain important info
 
 ## Subscribing to Mozilla Services
 
-### You’ll Need A Firefox Account
-A Firefox account is required to use the Services. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
+### You’ll Need A Mozilla Account
+A Mozilla account is required to use the Services. To create a Mozilla account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/) for your Mozilla account.
 
 ### Your Privacy
 The [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services) explains what information is sent when you use the Services and how we handle and share that information.
@@ -29,7 +29,7 @@ __30-Day Refund Policy.__ The first time you subscribe to the Services through M
 __Purchasing through Apple or Google App Stores.__ If you purchased your subscription through in-app purchase from the Apple App Store or the Google Play Store, your payment is subject to the terms and conditions of the App Store. You must direct any billing and refund inquiries for such purchases to Apple or Google, as appropriate.
 
 ### You May Cancel Your Subscription at Any Time
-You may cancel your subscription to the Services at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Services or by going to the [Subscriptions & Payments](https://accounts.firefox.com/subscriptions/) section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
+You may cancel your subscription to the Services at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Services or by going to the [Subscriptions & Payments](https://accounts.firefox.com/subscriptions/) section of your Mozilla account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## Mozilla VPN
 
