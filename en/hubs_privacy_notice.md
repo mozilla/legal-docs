@@ -7,7 +7,7 @@ Version 1.2, effective November 1, 2023
 ### Information Shared With Us and Other Participants
 __Account information:__ You will need a Mozilla account to purchase a Hubs Subscription. However, a user does not need an account to use Hubs. Certain features (like storing your avatar), require an account. You can create an account through Hubs or through Discord. If you create an account with your email address, we store a hashed version of your email address. If you create an account through Discord, we receive the email address associated with your Discord account and your Discord avatar.
 
-__Room Names and URLs:__ Rooms and room names are publicly accessible to anyone with the URL. Mozilla stores the name and the URL for the link you share so you and others with the link to the Room can use it again.
+__Room names and URLs:__ Rooms and room names are publicly accessible to anyone with the URL. Mozilla stores the name and the URL for the link you share so you and others with the link to the Room can use it again.
 
 __Avatar data:__ Your selected avatar and name will be shared with other participants in your rooms and the host of your Hubs instance. If you’re logged in to your account, we will store your avatar. If you’re not logged into your account, we will not store your avatar.
 
@@ -44,7 +44,7 @@ __Location information.__ Mozilla receives your IP address from your Mozilla acc
 
 __Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription, but does not store your full payment details. The payment providers may also collect personal transactional data or device information via cookies and similar technologies to operate and improve their service. You can learn more about how these companies use and process your data by reviewing their Privacy Notices, which are available on each of their respective websites.
 
-__Usage Information.__ We receive information about the rooms and users in your Hubs instance. For instance, we learn when you create and delete rooms, how many rooms are in your Hubs instance, and how many users are in each room. We also receive information about how much storage space your Hubs instance is using. 
+__Usage information.__ We receive information about the rooms and users in your Hubs instance. For instance, we learn when you create and delete rooms, how many rooms are in your Hubs instance, and how many users are in each room. We also receive information about how much storage space your Hubs instance is using. 
 
 ## Who Hubs May Disclose Information To
 __The Hubs Host:__ When you use a Hubs instance, Mozilla shares information with the Hubs subscriber who created the Hubs instance. This includes your username, information about your account and when you created it, as well as scenes, avatars, and other content you add to a Hubs room.  
@@ -65,7 +65,7 @@ __Discord:__ If you connect Discord to Hubs, we store access tokens and the serv
 
 ## Other Information You Should Know
 
-You can learn more about [managing your Mozilla Account data](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Also, much of the information that we store about our Mozilla account users is easily accessible by [signing in](https://accounts.firefox.com/signin) to your account, where you can also update your [data sharing settings](https://accounts.firefox.com/settings/). To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+You can learn more about [managing your Mozilla account data](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Also, much of the information that we store about our Mozilla account users is easily accessible by [signing in](https://accounts.firefox.com/signin) to your account, where you can also update your [data sharing settings](https://accounts.firefox.com/settings/). To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
 If you have any other questions regarding personal data or our privacy practices, please contact us at compliance@mozilla.com.
 
