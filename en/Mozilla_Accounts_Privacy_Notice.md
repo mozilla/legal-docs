@@ -1,7 +1,7 @@
 # Mozilla Accounts Privacy Notice
 
 Version 1.0, Effective November 1, 2023
-{: datetime="2023-11-1" }
+{: datetime="2023-11-01" }
 
 In this Privacy Notice, we explain what data Mozilla collects and shares about you. We also adhere to the practices outlined in the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle and share information we collect when you have a [Mozilla account](https://accounts.firefox.com/). Additional information may be collected and shared by the different products and services you have access to with your Mozilla account. Read the full documentation or learn more, including how to [manage your Mozilla account data](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) or our data practices for [websites and email](https://www.mozilla.org/privacy/websites/). You can also read the Privacy Notices for our Mozilla account connected services, which are:
 
@@ -14,7 +14,6 @@ In this Privacy Notice, we explain what data Mozilla collects and shares about y
 - [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 - [Mozilla Hubs](https://www.mozilla.org/privacy/hubs/)
 - [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
-
 
 ## Things You Should Know
 
