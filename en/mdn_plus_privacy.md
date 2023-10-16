@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Privacy Notice</span>
 
 Version 1.2, Effective November 1, 2023
-{: datetime="2023-11-1" }
+{: datetime="2023-11-01" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
