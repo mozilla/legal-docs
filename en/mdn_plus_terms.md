@@ -1,15 +1,15 @@
 # MDN Plus Terms of Service
 
-Version 1.1, Effective May 24, 2023
-{: datetime="2023-05-24" }
+Version 1.2, Effective November 1, 2023
+{: datetime="2023-11-01" }
 
 MDN Plus is a subscription service providing premium functionality, including MDN offline, collections, themes, and updates. (the “Service”). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
 ## You Must Be Eligible to Use the Service
 
-You must be in a country where the Service is available. Currently, the Service is available in the United States, Canada, the United Kingdom, Germany, France, Italy, Spain, Belgium, Austria, Switzerland, the Netherlands, Ireland, Malaysia, New Zealand, and Singapore. A Firefox Account is required to use the Service.
+You must be in a country where the Service is available. Currently, the Service is available in the United States, Canada, the United Kingdom, Germany, France, Italy, Spain, Belgium, Austria, Switzerland, the Netherlands, Ireland, Malaysia, New Zealand, and Singapore. A Mozilla account is required to use the Service.
 
-To create a Firefox Account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox Account.
+To create a Mozilla account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/) for your Mozilla account.
 
 ## Your Privacy
 
@@ -38,7 +38,7 @@ __30-Day Refund Policy.__ The first time you subscribe to MDN Plus through Mozil
 
 ## You May Cancel Your Subscription at Any Time
 
-__Cancellation.__ You may cancel your subscription to MDN Plus at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the [Paid Subscriptions](https://subscriptions.firefox.com) section of your Firefox Account and clicking “Cancel” on your MDN Plus subscription. If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
+__Cancellation.__ You may cancel your subscription to MDN Plus at any time. You can do this by clicking the “Cancel Subscription” link in any email that we send you or by going to the [Paid Subscriptions](https://subscriptions.firefox.com) section of your Mozilla account and clicking “Cancel” on your MDN Plus subscription. If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the service at the end of the current billing cycle.
 
 ## You Are Responsible For the Consequences of Your Use of the Service
 
@@ -56,7 +56,7 @@ __Cancellation.__ You may cancel your subscription to MDN Plus at any time. You 
 
 * __Mozilla Can Update These Terms.__ Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. We will take your continued use of the Service as acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made our most recent update.
 
-* __Termination.__ These Terms apply until either you or Mozilla decide to end them. You can choose to end them at any time for any reason by stopping your use of the Service and deleting MDN Plus. Mozilla can suspend or end anyone’s access to the Service at any time for any reason, including if Mozilla decides to end the Service. If we decide to suspend or end your access, we will try to notify you at the email address associated with your account or the next time you attempt to access your Account.
+* __Termination.__ These Terms apply until either you or Mozilla decide to end them. You can choose to end them at any time for any reason by stopping your use of the Service and deleting MDN Plus. Mozilla can suspend or end anyone’s access to the Service at any time for any reason, including if Mozilla decides to end the Service. If we decide to suspend or end your access, we will try to notify you at the email address associated with your account or the next time you attempt to access your account.
 
 If we terminate your access to the Service without specific cause, you will continue to have access to the Service for the current billing period or we will refund the current month. However, we reserve the right to terminate your use of the Service immediately if we reasonably believe you have violated the Conditions of Use, or have otherwise violated these Terms.
 
