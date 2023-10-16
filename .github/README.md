@@ -28,6 +28,7 @@ List of translated files (number of locales between parentheses):
 
 List of files not translated:
 * AdTargeting_Guidelines.md
+* Mozilla_Accounts_Privacy_Notice.md
 * better_web_privacy.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
