@@ -1,6 +1,6 @@
 # Hubs Privacy Notice
 Version 1.2, effective November 1, 2023
-{: datetime="2023-11-1" }
+{: datetime="2023-11-01" }
 
 ## Information We Collect and Share for Hubs Rooms
 
