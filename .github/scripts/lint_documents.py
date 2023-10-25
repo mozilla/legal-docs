@@ -8,6 +8,7 @@ import markdown
 import json
 import os
 import re
+import string
 import sys
 
 
@@ -16,6 +17,8 @@ class DocumentCheck:
         self.files_path = files_path
         self.ref_locale = ref_locale
         self.errors = []
+
+        self.allowed_characters = set(string.ascii_lowercase + string.digits + "_")
 
         self.findAllFiles()
         self.extractData()
@@ -114,6 +117,15 @@ class DocumentCheck:
             for f, f_data in self.md_data[locale].items():
                 file_errors = []
                 exception_id = f"{locale}/{f}"
+
+                # For the reference locale, check the filename. Only lowercase
+                # characters, digits, and underscores are allowed.
+                if locale == self.ref_locale:
+                    if set(f.removesuffix(".md")) - self.allowed_characters:
+                        file_errors.append(
+                            f"The filename should only user lowercase letters, digits, and underscores ({f})"
+                        )
+
                 # Check anchors
                 if exception_id not in self.exceptions["anchors"]:
                     file_errors.extend(self.checkAnchors(f_data["anchors"]))
