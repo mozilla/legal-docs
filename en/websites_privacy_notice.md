@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
 November 1, 2023
-{: datetime="2023-11-01" }
+{: datetime=〝2023-11-01〞 }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -47,7 +47,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 
 ---------------------------------------
 
-You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools. 
+You can control individual cookie preferences, indicate your cookie preferences to others, and opt out of web analytics and optimization tools. 
 {: #user-choices }
 
 * **Cookie History**: You can accept or decline individual cookies in your preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies. 
@@ -59,16 +59,16 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 
 * **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
-    * Mozilla first-party tools: [Opt-out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
+    * Mozilla first-party tools: [Opt out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account).
-    * Convert.com: [Opt-out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
+    * Convert.com: [Opt out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * ShareProgress and Fathom.com: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the applicable social media provider until you specifically click the relevant social media icon.
 
 ---------------------------------------
 
-Some Mozilla websites allow you to make purchases (such as apps or gear), contribute funds to specific Mozilla projects, or make donations in support of Mozilla public and charitable programs. These transactions are often handled by Mozilla’s third party vendors.  
+Some Mozilla websites allow you to make purchases (such as apps or gear), contribute funds to specific Mozilla projects, or make donations in support of Mozilla public and charitable programs. These transactions are often handled by Mozilla’s third party vendors.
 {: #donations }
 
 * **Payment Processing**: When you purchase something via a Mozilla website, contribute funds or make donations, you will send payment through one of our third-party payment providers: Stripe, Apple Pay, PayPal, Venmo or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and (where relevant) the status of your account’s subscription; we may also receive your name, mailing address, and/or email address. This data is used for payment processing, fraud detection and record-keeping purposes. 
