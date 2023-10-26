@@ -1,7 +1,7 @@
 ﻿# Condiciones del servicio de Hubs
 
-Versión 1.2, en vigor desde el martes, 21 de marzo de 2023
-{: datetime="2023-03-21" }
+Versión 1.3, en vigor desde el miércoles, 1 de noviembre de 2023
+{: datetime="2023-11-01" }
 
 Hubs (el "Servicio") es un nuevo servicio de previsualización que permite a los usuarios configurar y gestionar su propio conjunto de plataformas de comunicaciones en tiempo real para realidad virtual, realidad aumentada, equipos de escritorio, portátiles o móviles. Está disponible como servicio de suscripción de pago.  
 
@@ -9,8 +9,8 @@ Estas Condiciones del servicio describen sus derechos y responsabilidades como u
 
 ## 1. Suscripción a Hubs
 
-### Necesitará una cuenta de Firefox
-Se necesita una cuenta de Firefox para usar el Servicio. Para crear una cuenta de Firefox, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox/) de su cuenta de Firefox.
+### Necesitará una cuenta de Mozilla
+Se necesita una cuenta de Mozilla para usar el Servicio. Para crear una cuenta de Mozilla, tendrá que aceptar las [Condiciones del Servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/mozilla-accounts/) de su cuenta de Mozilla.
 
 ### Su pago
 __Pago.__ El Servicio se ofrece como servicio de suscripción con renovación automática. Al suscribirse nos autoriza cargar el pago en el método de pago proporcionado para cubrir las cuotas de la suscripción para el primer período del Servicio. Su plan se renovará automáticamente al final de cada período, y usted nos autoriza a cobrar las cuotas de suscripción cada período de suscripción. Si deja de pagar, su cuenta se suspenderá inmediatamente y se eliminará después de 2 meses sin pagar las cuotas.
@@ -18,7 +18,7 @@ __Pago.__ El Servicio se ofrece como servicio de suscripción con renovación au
 __Política de reembolso durante 30 días.__ Si la primera vez que se suscribe a los Servicios a través de la página web de Mozilla cancela su cuenta durante los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
 
 ### Puede cancelar su suscripción en cualquier momento
-__Cancelación.__ Puede cancelar su suscripción al Servicio cuando lo desee desactivando su cuenta y cancelando su suscripción. Puede hacerlo haciendo clic en el enlace "Cancelar suscripción" incluido en cualquier correo electrónico que le enviemos en relación con el Servicio o haciendo clic en "Cancelar" en la sección Suscripciones y pagos de su cuenta de Firefox. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los Servicios al final del ciclo de facturación actual.
+__Cancelación.__ Puede cancelar su suscripción al Servicio cuando lo desee desactivando su cuenta y cancelando su suscripción. Puede hacerlo haciendo clic en el enlace "Cancelar suscripción" incluido en cualquier correo electrónico que le enviemos en relación con el Servicio o haciendo clic en "Cancelar" en la sección Suscripciones y pagos de su cuenta de Mozilla. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los Servicios al final del ciclo de facturación actual.
 
 ## 2. Comunicación y contenido
 Hubs permite a los usuarios enviar información (como audio, vídeo, texto, imágenes, modelos 3D y escenas) a otros usuarios.
@@ -42,7 +42,7 @@ Al utilizar Hubs, acepta que cumplirá las [Condiciones de uso](https://www.mozi
 
 __Eligibilidad.__ Para usar el servicio de suscripción de pago, debe encontrarse en un país donde Hubs esté disponible. Actualmente, Hubs está disponible en Canadá, Alemania, Reino Unido y Estados Unidos.
 
-__Su uso de Hubs.__ Si dispone actualmente de una suscripción de pago a Hubs, Mozilla le permite usarla de acuerdo con estas Condiciones del servicio. No se le permite transferir ni revender el Servicio de Hubs. Una licencia adquirida solo se aplica a la persona o entidad propietaria de la cuenta de Firefox asociada a la instancia de Hubs. 
+__Su uso de Hubs.__ Si dispone actualmente de una suscripción de pago a Hubs, Mozilla le permite usarla de acuerdo con estas Condiciones del servicio. No se le permite transferir ni revender el Servicio de Hubs. Una licencia adquirida solo se aplica a la persona o entidad propietaria de la cuenta de Mozilla asociada a la instancia de Hubs.
 
 Con una suscripción de pago, puede disponer de hasta 25 usuarios por sala de Hubs y hasta 2 GB de espacio de almacenamiento para sus Hubs.
 

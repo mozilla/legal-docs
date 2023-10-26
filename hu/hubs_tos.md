@@ -1,7 +1,7 @@
 ﻿# Hubs szolgáltatási feltételek
 
-1.2-es verzió, hatálybalépés dátuma: 2023. március 21.
-{: datetime="2023-03-21" }
+1.3-as verzió, hatálybalépés dátuma: 2023. november 1.
+{: datetime="2023-11-01" }
 
 A Hubs (a „Szolgáltatás”) egy új, előnézeti szolgáltatás, amely lehetővé teszi saját valós idejű kommunikációs platformkészletének beállítását és kezelését a virtuális valóság, a kiterjesztett valóság, az asztali számítógépek, a laptopok vagy a mobileszközök számára. Előfizetéses szolgáltatásként érhető el.  
 
@@ -9,8 +9,8 @@ A jelen Szolgáltatási feltételek ismertetik az Ön jogait és kötelezettség
 
 ## 1. Előfizetés a Hubs szolgáltatásra
 
-### Szüksége lesz egy Firefox-fiókra
-A Szolgáltatás használatához Firefox-fiók szükséges. A Firefox-fiók létrehozásához el kell fogadnia a Firefox-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Adatvédelmi nyilatkozatot](https://www.mozilla.org/privacy/firefox/) is.
+### Szüksége lesz egy Mozilla-fiókra
+A Szolgáltatás használatához Mozilla-fiók szükséges. A Mozilla-fiók létrehozásához el kell fogadnia a Mozilla-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Adatvédelmi nyilatkozatot](https://www.mozilla.org/privacy/mozilla-accounts/) is.
 
 ### Fizetés
 __Fizetés.__ A Szolgáltatást automatikusan megújuló előfizetési szolgáltatásként kínáljuk. Regisztrációjával felhatalmaz bennünket arra, hogy az Ön által megadott fizetési módot terheljük az előfizetési díjjal a Szolgáltatás első időszakára. Előfizetése minden időszak végén automatikusan megújul, és Ön felhatalmaz bennünket, hogy minden egyes időszakra előfizetési díjat terheljünk. Ha leállítja a fizetést, azonnal felfüggesztjük fiókját, amelyet 2 hónapos fizetéselmaradást követően törölhetünk.
@@ -18,7 +18,7 @@ __Fizetés.__ A Szolgáltatást automatikusan megújuló előfizetési szolgált
 __30 napos visszatérítési szabályzat.__ Amikor először fizet elő a Szolgáltatásra a Mozilla webhelyén keresztül, ha az első 30 napon belül törli fiókját, visszatérítést kérelmezhet, és a Mozilla visszatéríti az első előfizetési időszakot. Ez az ajánlat kizárólag az első előfizetésre érvényes. Ez az Ön országa fogyasztóvédelmi jogszabályai alapján esetlegesen megillető jogok kiegészítése.
 
 ### Előfizetését bármikor lemondhatja
-__Lemondás.__ A Szolgáltatás előfizetését bármikor lemondhatja fiókja inaktiválásával és az előfizetés lemondásával. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet a Szolgáltatással kapcsolatban küldünk Önnek, vagy lépjen Firefox-fiókja Előfizetések és fizetések részére, és kattintson a „Lemondás” lehetőségre. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
+__Lemondás.__ A Szolgáltatás előfizetését bármikor lemondhatja fiókja inaktiválásával és az előfizetés lemondásával. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet a Szolgáltatással kapcsolatban küldünk Önnek, vagy lépjen Mozilla-fiókja Előfizetések és fizetések részére, és kattintson a „Lemondás” lehetőségre. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
 
 ## 2. Kommunikáció és tartalom
 A Hubs lehetővé teszi a felhasználók számára, hogy információkat (például hangot, videót, szöveget, képeket, 3D-modelleket és jeleneteket) küldjenek más felhasználóknak.
@@ -42,7 +42,7 @@ A Hubs szolgáltatás használatával Ön elfogadja, hogy betartja a Mozilla [fe
 
 __Jogosultság.__ A fizetős előfizetéses szolgáltatás használatához olyan országban kell tartózkodnia, ahol elérhető a Hubs. A Hubs jelenleg Kanadában, Németországban, az Egyesült Királyságban és az Egyesült Államokban érhető el.
 
-__A Hubs használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a Hubs szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Nem ruházhatja át vagy értékesítheti tovább a Hubs szolgáltatást. A megvásárolt licenc csak arra a személyre vagy entitásra terjed ki, aki a Hubs-példányhoz társított Firefox-fiók tulajdonosa. 
+__A Hubs használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a Hubs szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Nem ruházhatja át vagy értékesítheti tovább a Hubs szolgáltatást. A megvásárolt licenc csak arra a személyre vagy entitásra terjed ki, aki a Hubs-példányhoz társított Mozilla-fiók tulajdonosa.
 
 Az előfizetéssel akár 25 felhasználóval is rendelkezhet Hubs-szobánként, és akár 2 GB tárhelyet biztosíthat a Hubs szolgáltatás számára.
 
