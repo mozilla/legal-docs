@@ -39,7 +39,7 @@ __Firefox Suggest__ uses data to help deliver better information with less effor
 
 * __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays specific content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information about how many times suggestions are shown, the position of the suggestion, and suggestions clicked on with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) for verification and feature improvement.
 
-If you choose to opt-in to "Improve the Firefox Suggest Experience" on your settings page, Mozilla receives and processes the following information to improve your browsing experience and to improve the service:
+If you choose to opt-in to “Improve the Firefox Suggest Experience“ on your settings page, Mozilla receives and processes the following information to improve your browsing experience and to improve the service:
 
 * __Search queries__: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). We take measures to limit our and our partners’ ability to identify you. [Learn more](https://support.mozilla.org/kb/firefox-suggest).
   
@@ -49,9 +49,9 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country and state.
 
-* __Technical & Interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use Technical and Interaction data in order to better understand our users and improve our product. 
+* __Technical & interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use Technical and Interaction data in order to better understand our users and improve our product. 
 
-* __Pocket Recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
+* __Pocket recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
 * __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
@@ -59,7 +59,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
 ### Improve security for users everywhere {: #security }
 
-**Webpage data to DNS Resolver service**: For [some Firefox users](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution. [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
+**Webpage data to DNS resolver service**: For [some Firefox users](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution. [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) or see our default DNS resolver service providers below:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -74,7 +74,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
 **Webpage and technical data to Google’s SafeBrowsing service**: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from. [Learn more](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) or read [Google’s Privacy Policy](https://www.google.com/policies/privacy/). Opting out prevents Firefox from warning you of potentially illegitimate or malicious websites or downloaded files.
 
-**Webpage and technical data to Certificate Authorities**: When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website. Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+**Webpage and technical data to Certificate Authorities**: When you visit a secure website (usually identified with a URL starting with “HTTPS“), Firefox validates the website's [certificate](https://support.mozilla.org/kb/secure-website-certificate). This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website. Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
 ### Send crash reports {: #crash-reporter }
 By default, on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline. If you choose to share the report, the following information will be sent to us:
@@ -111,7 +111,7 @@ Users in the US can opt-in to Review Checker, our guide to product reviews power
 
 ### Sync {: #sync }
 
-* __Synced data__: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Mozilla Account will delete related Firefox Sync content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Synced data__: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Mozilla account will delete related Firefox Sync content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
 
 * __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
@@ -151,5 +151,3 @@ This privacy notice is for the most recent general release version of Firefox di
 {: #pre-release }
 
 Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, Developer Edition and TestFlight) are development platforms frequently updated with experimental features and studies.  In addition to the data collection described in this Privacy Notice, these versions by default may send certain types of web activity and crash data to Mozilla and in some cases to our partners.  Any data collection or sharing adheres to our [Firefox data collection policy](https://wiki.mozilla.org/Firefox/Data_Collection) and we will always be transparent and provide you with controls.
-
-
