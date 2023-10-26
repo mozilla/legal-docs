@@ -1,13 +1,13 @@
 ﻿# Notis Privasi Hubs
-Versi 1.1, berkuat kuasa pada 21 Mac 2023
-{: datetime="2023-03-21" }
+Versi 1.2, berkuat kuasa pada 01 November 2023
+{: datetime="2023-11-01" }
 
 ## Maklumat yang Kami Kumpulkan dan Kongsi untuk Bilik Hubs
 
 ### Maklumat yang Dikongsi Dengan Kami dan Peserta Lain
-__Maklumat akaun:__ Anda akan memerlukan akaun Firefox untuk membeli Langganan Hubs. Walau bagaimanapun, pengguna tidak memerlukan akaun untuk menggunakan Hubs. Ciri tertentu (contohnya untuk menyimpan avatar anda), memerlukan akaun. Anda boleh mencipta akaun melalui Hubs atau melalui Discord. Jika anda mencipta akaun menggunakan alamat e-mel anda, kami akan menyimpan versi cincang alamat e-mel anda. Jika akan mencipta akaun melalui Discord, kami akan menerima alamat e-mel yang dikaitkan dengan akaun Discord anda dan avatar Discord anda.
+__Maklumat akaun:__ Anda akan memerlukan akaun Mozilla untuk membeli Langganan Hubs. Walau bagaimanapun, pengguna tidak memerlukan akaun untuk menggunakan Hubs. Ciri tertentu (contohnya untuk menyimpan avatar anda), memerlukan akaun. Anda boleh mencipta akaun melalui Hubs atau melalui Discord. Jika anda mencipta akaun menggunakan alamat e-mel anda, kami akan menyimpan versi cincang alamat e-mel anda. Jika akan mencipta akaun melalui Discord, kami akan menerima alamat e-mel yang dikaitkan dengan akaun Discord anda dan avatar Discord anda.
 
-__Nama Bilik dan URL:__ Bilik dan nama bilik boleh diakses secara umum oleh sesiapa yang mempunyai URL. Mozilla menyimpan nama dan URL bagi pautan yang anda kongsi supaya anda dan pengguna lain yang mempunyai pautan ke Bilik boleh menggunakan pautan semula.
+__Nama bilik dan URL:__ Bilik dan nama bilik boleh diakses secara umum oleh sesiapa yang mempunyai URL. Mozilla menyimpan nama dan URL bagi pautan yang anda kongsi supaya anda dan pengguna lain yang mempunyai pautan ke Bilik boleh menggunakan pautan semula.
 
 __Data avatar:__ Avatar yang anda pilih dan nama anda akan dikongsi dengan peserta lain dalam bilik anda dan hos tika Hubs anda. Jika anda log masuk ke akaun anda, kami akan menyimpan avatar anda. Jika anda tidak log masuk ke akaun anda, kami tidak akan menyimpan avatar anda.
 
@@ -38,13 +38,13 @@ __Maklumat atribusi:__ Apabila seseorang menerbitkan pemandangan atau avatar di 
 __Maklumat akaun:__ Untuk menerbitkan pemandangan atau avatar di Hubs, pengguna perlu mempunyai akaun Hubs. Mozilla akan menerima dan menyimpan versi cincang alamat e-mel pengguna untuk membolehkan pengguna log masuk dan melihat model Bilik 3D dan Avatar.
 
 ## Maklumat yang Kami Kumpulkan berkenaan dengan Langganan Anda
-__Maklumat akaun Firefox.__ Langganan Hubs memerlukan akaun Firefox yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang [amalan data akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Maklumat akaun Mozilla.__ Langganan Hubs memerlukan akaun Mozilla yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang [amalan data akaun Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Maklumat lokasi.__ Mozilla menerima alamat IP anda daripada akaun Firefox anda apabila anda mendaftar dan menggunakan perkhidmatan. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
+__Maklumat lokasi.__ Mozilla menerima alamat IP anda daripada akaun Mozilla anda apabila anda mendaftar dan menggunakan perkhidmatan. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
 
-__Maklumat pembayaran.__ Apabila anda melanggan Perkhidmatan, anda akan menghantar bayaran melalui salah satu daripada penyedia pembayaran pihak ketiga kami: Stripe, Apple, PayPal atau Google Pay. Mozilla menerima rekod akaun anda (termasuk alamat pengebilan anda dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda, tetapi tidak akan menyimpan butiran penuh pembayaran anda. Penyedia pembayaran mungkin juga mengumpulkan data transaksi peribadi atau maklumat peranti melalui kuki dan teknologi yang serupa untuk mengendalikan dan menambah baik perkhidmatan mereka. Anda boleh mengetahui lebih lanjut tentang cara syarikat ini menggunakan dan memproses data anda dengan menyemak Dasar Privasi mereka yang tersedia di laman web syarikat tersebut.
+__Maklumat pembayaran.__ Apabila anda melanggan Perkhidmatan, anda akan menghantar bayaran melalui salah satu daripada penyedia pembayaran pihak ketiga kami: Stripe, Apple, PayPal atau Google Pay. Mozilla menerima rekod akaun anda (termasuk alamat pengebilan anda dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda, tetapi tidak akan menyimpan butiran penuh pembayaran anda. Penyedia pembayaran mungkin juga mengumpulkan data transaksi peribadi atau maklumat peranti melalui kuki dan teknologi yang serupa untuk mengendalikan dan menambah baik perkhidmatan mereka. Anda boleh mengetahui lebih lanjut tentang cara syarikat ini menggunakan dan memproses data anda dengan menyemak Notis Privasi mereka yang tersedia di laman web syarikat tersebut.
 
-__Maklumat Penggunaan.__ Kami menerima maklumat tentang bilik dan pengguna dalam tika Hubs anda. Sebagai contoh, kami akan mengetahui waktu anda mencipta dan memadamkan bilik, bilangan bilik yang terdapat dalam tika Hubs anda dan bilangan pengguna yang berada di dalam setiap bilik. Kami juga menerima maklumat tentang jumlah ruang storan yang digunakan oleh tika Hubs anda. 
+__Maklumat penggunaan.__ Kami menerima maklumat tentang bilik dan pengguna dalam tika Hubs anda. Sebagai contoh, kami akan mengetahui waktu anda mencipta dan memadamkan bilik, bilangan bilik yang terdapat dalam tika Hubs anda dan bilangan pengguna yang berada di dalam setiap bilik. Kami juga menerima maklumat tentang jumlah ruang storan yang digunakan oleh tika Hubs anda.
 
 ## Pihak yang Mungkin Akan Menerima Maklumat Daripada Hubs
 __Hos Hubs:__ Apabila anda menggunakan tika Hubs, Mozilla akan berkongsi maklumat dengan pelanggan Hubs yang mencipta tika Hubs tersebut. Perkara ini termasuk nama pengguna anda, maklumat tentang akaun anda dan waktu anda cipta akaun tersebut, serta pemandangan, avatar dan kandungan lain yang anda tambahkan pada bilik Hubs.  
@@ -59,6 +59,16 @@ __Penyedia carian:__ Anda boleh membuat carian untuk imej, GIF dan Model 3D untu
 * [YouTube](https://policies.google.com/privacy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
-__Twitter:__ Jika anda menyambungkan Twitter ke Hubs, anda boleh menciap dan berkongsi imej 2D dari bilik Hubs. Mana-mana kandungan yang anda ciap akan dikongsi dengan Twitter dan diterbitkan di platform Twitter. Anda boleh melihat [Dasar Privasi Twitter](https://twitter.com/en/privacy) untuk mendapatkan maklumat lanjut.
+__X (dahulunya Twitter):__ Jika anda menyambungkan X ke Hubs, anda boleh menciap dan berkongsi imej 2D dari bilik Hubs. Mana-mana kandungan yang anda ciap akan dikongsi dengan X dan diterbitkan di platform X. Anda boleh melihat [Dasar Privasi X](https://twitter.com/privacy) untuk mendapatkan maklumat lanjut.
 
 __Discord:__ Jika anda menyambungkan Discord ke Hubs, kami akan menyimpan token akses serta ID pelayan dan saluran yang telah disambungkan. Kami akan menyegerakkan mesej sembang, perubahan bilik, objek 2D dan 3D yang anda cipta, serta sama ada anda menyertai atau keluar menggunakan saluran Discord yang telah disambungkan. Hubs tidak merekodkan mana-mana mesej yang telah disegerakkan. Anda boleh melihat [Dasar Privasi Discord](https://discordapp.com/privacy) untuk mendapatkan maklumat lanjut.
+
+## Maklumat Lain yang Anda Perlu Tahu
+
+Anda boleh mengetahui lebih lanjut tentang [pengurusan data akaun Mozilla anda](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Dan juga kebanyakan maklumat yang kami simpan tentang pengguna akaun Mozilla kami boleh diakses secara mudah dengan [mendaftar masuk](https://accounts.firefox.com/signin) ke akaun anda, di mana anda juga boleh mengemaskinikan [tetapan perkongsian data](https://accounts.firefox.com/settings/) anda. Untuk membuat permintaan tentang data peribadi anda, sila hubungi kami melalui [Portal Permintaan Akses Subjek Data](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) kami.
+
+Sekiranya anda mempunyai sebarang pertanyaan lain tentang data peribadi atau amalan privasi kami, sila hubungi kami di compliance@mozilla.com.
+
+Kami memberi maklum balas kepada semua permohonan yang kami terima daripada individu yang ingin melaksanakan hak perlindungan data mereka tanpa mengira tempat tinggal mereka. Kami akan menghormati permohonan anda melainkan keperluan undang-undang menghalang kami daripada berbuat demikian atau pengecualian undang-undang dikenakan.
+
+Sila kunjungi [forum](https://support.mozilla.org/) kami untuk bantuan sokongan umum.

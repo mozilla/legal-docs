@@ -1,7 +1,7 @@
 ﻿# Servicebedingungen für Hubs
 
-Version 1.2, gültig ab Dienstag, 21. März 2023
-{: datetime="2023-03-21" }
+Version 1.3, gültig ab Mittwoch, 1. November 2023
+{: datetime="2023-11-01" }
 
 Hubs (im Folgenden der „Dienst“) ist ein neuer Vorschauservice, mit dem Sie Ihre eigenen Echtzeit-Kommunikationsplattformen für Virtuelle Realität (VR), Augmented Reality (AR), Desktop, Laptop und Mobilgeräte einrichten und verwalten können. Dieser Dienst ist im kostenpflichtigen Abonnement erhältlich.  
 
@@ -9,8 +9,8 @@ Die vorliegenden Servicebedingungen erläutern, welche Rechte und Pflichten Sie 
 
 ## 1. Abonnement von Hubs
 
-### Sie benötigen ein Firefox-Konto
-Für die Nutzung des Diensts ist ein Firefox-Konto erforderlich. Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
+### Sie benötigen ein Mozilla-Konto
+Für die Nutzung des Diensts ist ein Mozilla-Konto erforderlich. Um ein Mozilla-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-accounts/) für Ihr Firefox-Konto zustimmen.
 
 ### Ihre Zahlung
 __Zahlung.__ Wir bieten den Dienst als Abonnement mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit des Dienstes der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
@@ -18,7 +18,7 @@ __Zahlung.__ Wir bieten den Dienst als Abonnement mit automatischer Verlängerun
 __30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie den Dienst zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
 ### Sie können Ihr Abonnement jederzeit kündigen
-__Kündigung.__ Sie können Ihr Abonnement des Diensts jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir zum Dienst an Sie senden, oder wechseln zum Bereich „Abonnements und Zahlungen“ in Ihrem Firefox-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zu den Diensten am Ende des aktuellen Abrechnungszyklus.
+__Kündigung.__ Sie können Ihr Abonnement des Diensts jederzeit kündigen, indem Sie Ihr Konto deaktivieren und Ihr Abonnement kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir zum Dienst an Sie senden, oder wechseln zum Bereich „Abonnements und Zahlungen“ in Ihrem Mozilla-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zu den Diensten am Ende des aktuellen Abrechnungszyklus.
 
 ## 2. Kommunikation und Inhalt
 Hubs ermöglicht es Ihren Nutzern, Informationen wie Audio, Video, Text, Bilder, 3D-Modelle und Szenen an andere Nutzer zu senden.
@@ -42,7 +42,7 @@ Durch die Verwendung von Hubs erklären Sie Ihr Einverständnis, die [Nutzungsbe
 
 __Qualifikation.__ Um den kostenpflichtigen Abonnementdienst zu verwenden, müssen Sie sich in einem Land befinden, in dem Hubs zur Verfügung steht. Hubs steht derzeit in Kanada, Deutschland, im Vereinigten Königreich und in den Vereinigten Staaten zur Verfügung.
 
-__Ihre Nutzung von Hubs.__ Falls Sie ein aktuelles kostenpflichtiges Abonnement von Hubs haben, erteilt Ihnen Mozilla die Berechtigung, den Dienst diesen Servicebedingungen entsprechend zu verwenden. Sie dürfen den Hubs-Dienst weder übertragen noch weiterverkaufen. Eine gekaufte Lizenz gilt nur für die Person oder Entität, die Inhaber des Firefox-Kontos ist, das mit der Hubs-Instanz verknüpft ist. 
+__Ihre Nutzung von Hubs.__ Falls Sie ein aktuelles kostenpflichtiges Abonnement von Hubs haben, erteilt Ihnen Mozilla die Berechtigung, den Dienst diesen Servicebedingungen entsprechend zu verwenden. Sie dürfen den Hubs-Dienst weder übertragen noch weiterverkaufen. Eine gekaufte Lizenz gilt nur für die Person oder Entität, die Inhaber des Mozilla-Kontos ist, das mit der Hubs-Instanz verknüpft ist.
 
 Ein kostenpflichtiges Abonnement erlaubt Ihnen pro Hubs-Raum 25 Nutzer sowie bis zu 2 GB Speicherplatz für Ihre Hubs.
 

@@ -1,11 +1,11 @@
 ﻿# Aviso de privacidade do Hubs
-Versão 1.1, em vigor desde 21 de março de 2023
-{: datetime="2023-03-21" }
+Versão 1.2, em vigor desde quarta-feira, 1 de novembro de 2023
+{: datetime="2023-11-01" }
 
 ## Informações que recolhemos e partilhamos relativamente às salas do Hubs
 
 ### Informações partilhadas connosco e outros participantes
-__Informações sobre a conta:__ Irá precisar de uma conta do Firefox para comprar uma Subscrição do Hubs. No entanto, um utilizador não precisa de uma conta para utilizar o Hubs. Determinadas funcionalidades (como, por exemplo, guardar o seu avatar), requerem uma conta. Pode criar uma conta através do Hubs ou do Discord. Se criar uma conta com o seu endereço de email, iremos guardar uma versão codificada do mesmo. Se criar uma conta através do Discord, iremos receber o endereço de email associado à sua conta do Discord, bem como o seu avatar do Discord.
+__Informações sobre a conta:__ Irá precisar de uma conta da Mozilla para comprar uma Subscrição do Hubs. No entanto, um utilizador não precisa de uma conta para utilizar o Hubs. Determinadas funcionalidades (como, por exemplo, guardar o seu avatar), requerem uma conta. Pode criar uma conta através do Hubs ou do Discord. Se criar uma conta com o seu endereço de email, iremos guardar uma versão codificada do mesmo. Se criar uma conta através do Discord, iremos receber o endereço de email associado à sua conta do Discord, bem como o seu avatar do Discord.
 
 __URL e nomes das salas:__ As salas e os respetivos nomes estão acessíveis publicamente a qualquer utilizador que tenha o URL. A Mozilla guarda o nome e o URL da ligação que o utilizador partilhar, de forma a que o utilizador e outras pessoas que tenham a ligação da Sala a possam utilizar novamente.
 
@@ -38,13 +38,13 @@ __Informações de atribuição:__ Quando alguém publica uma cena ou um avatar 
 __Informações sobre a conta:__ Para publicar uma cena ou um avatar no Hubs, um utilizador tem de ter uma conta do Hubs. A Mozilla irá receber e guardar uma versão codificada do respetivo endereço de email para lhe permitir iniciar uma sessão e visualizar os respetivos Avatares e modelos de Sala em 3D.
 
 ## Informações que recolhemos sobre a sua subscrição
-__Informações sobre a conta do Firefox.__ Uma subscrição do Hubs requer uma conta do Firefox, a qual envia à Mozilla o seu endereço de email, idioma e endereço de IP. Obtenha mais informações sobre as [Práticas relativas aos dados da conta do Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informações sobre a conta da Mozilla.__ Uma subscrição do Hubs requer uma conta da Mozilla, a qual envia à Mozilla o seu endereço de email, idioma e endereço de IP. Obtenha mais informações sobre as [Práticas relativas aos dados da conta da Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Informações sobre a localização.__ A Mozilla recebe o seu endereço de IP a partir da sua conta do Firefox quando se inscreve no serviço e utiliza o mesmo. Utilizamos o endereço de IP para calcular a sua localização porque a VPN da Mozilla apenas está atualmente disponível em determinados países.
+__Informações sobre a localização.__ A Mozilla recebe o seu endereço de IP a partir da sua conta da Mozilla quando se inscreve no serviço e utiliza o mesmo. Utilizamos o endereço de IP para calcular a sua localização porque a VPN da Mozilla apenas está atualmente disponível em determinados países.
 
-__Informações sobre os pagamentos.__ Quando subscrever os Serviços, efetuará o respetivo pagamento através de um dos nossos fornecedores de pagamentos independentes: o Stripe, a Apple, o PayPal, ou o Google Pay. A Mozilla recebe um registo da sua conta (incluindo o endereço de cobrança e os últimos quatro dígitos da forma de pagamento) e o estado da subscrição da mesma, mas não guarda os seus dados de pagamento completos. Os fornecedores de pagamentos poderão também recolher dados transacionais pessoais ou informações sobre os dispositivos através de cookies e tecnologias semelhantes para gerirem e melhorarem o respetivo serviço. Pode obter mais informações sobre como estas empresas utilizam e processam os seus dados ao consultar as respetivas Políticas de Privacidade, as quais estão disponíveis em cada um dos respetivos sites.
+__Informações sobre os pagamentos.__ Quando subscrever os Serviços, efetuará o respetivo pagamento através de um dos nossos fornecedores de pagamentos independentes: o Stripe, a Apple, o PayPal, ou o Google Pay. A Mozilla recebe um registo da sua conta (incluindo o endereço de cobrança e os últimos quatro dígitos da forma de pagamento) e o estado da subscrição da mesma, mas não guarda os seus dados de pagamento completos. Os fornecedores de pagamentos poderão também recolher dados transacionais pessoais ou informações sobre os dispositivos através de cookies e tecnologias semelhantes para gerirem e melhorarem o respetivo serviço. Pode obter mais informações sobre como estas empresas utilizam e processam os seus dados ao consultar os respetivos Avisos de Privacidade, os quais estão disponíveis em cada um dos respetivos sites.
 
-__Informações sobre a utilização.__ Recebemos informações sobre as salas e os utilizadores na sua instância do Hubs. Por exemplo, sabemos quando cria e elimina salas, quantas salas existem na sua instância do Hubs e quantos utilizadores estão em cada sala. Também recebemos informações sobre quanto espaço de armazenamento é que a sua instância do Hubs está a utilizar. 
+__Informações sobre a utilização.__ Recebemos informações sobre as salas e os utilizadores na sua instância do Hubs. Por exemplo, sabemos quando cria e elimina salas, quantas salas existem na sua instância do Hubs e quantos utilizadores estão em cada sala. Também recebemos informações sobre quanto espaço de armazenamento é que a sua instância do Hubs está a utilizar.
 
 ## Entidades às quais o Hubs poderá divulgar informações
 __O anfitrião do Hubs:__ Quando o utilizador usa uma instância do Hubs, a Mozilla partilha informações com o subscritor do Hubs que criou essa instância do Hubs. Isto inclui o seu nome de utilizador e informações sobre a sua conta e quando a criou, bem como cenas, avatares e quaisquer outros conteúdos que adicionar a uma sala do Hubs.  
@@ -59,6 +59,16 @@ __Fornecedores de pesquisa:__ Pode procurar imagens, ficheiros GIF e modelos em 
 * [YouTube](https://policies.google.com/privacy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
-__Twitter:__ Se associar o Twitter ao Hubs, pode tuitar e partilhar imagens em 2D a partir de salas do Hubs. Qualquer conteúdo que tuite será partilhado com o Twitter e publicado na respetiva plataforma. Pode consultar a [Política de Privacidade do Twitter](https://twitter.com/en/privacy) para obter mais informações.
+__X (anteriormente designado de Twitter):__ Se associar o X ao Hubs, pode tuitar e partilhar imagens em 2D a partir de salas do Hubs. Qualquer conteúdo que tuite será partilhado com o X e publicado na respetiva plataforma. Pode consultar a [Política de Privacidade do X](https://twitter.com/privacy) para obter mais informações.
 
 __Discord:__ Se associar o Discord ao Hubs, iremos guardar os códigos de autenticação de acesso e os identificadores de canal e servidor que foram associados. Iremos sincronizar as mensagens de conversação, as alterações nas salas, os objetos em 2D e 3D que criar e as suas entradas e saídas relativamente ao canal do Discord associado. O Hubs não regista quaisquer mensagens sincronizadas. Pode consultar a [Política de Privacidade do Discord](https://discordapp.com/privacy) para obter mais informações.
+
+## Outras informações que deverá saber
+
+Pode obter mais informações sobre como [gerir os dados da sua conta da Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Além disso, muitas das informações que guardamos sobre os nossos utilizadores de uma conta da Mozilla podem ser acedidas facilmente ao [iniciar uma sessão](https://accounts.firefox.com/signin) na sua conta, onde também pode atualizar as [definições de partilha de dados](https://accounts.firefox.com/settings/). Para efetuar pedidos relativamente aos seus dados pessoais, contacte-nos através do nosso [Portal de Pedidos de Acesso do Titular dos Dados](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+
+Se pretender esclarecer qualquer outra questão relativamente aos seus dados pessoais ou às nossas práticas de privacidade, contacte-nos através do endereço compliance@mozilla.com.
+
+Respondemos a todos os pedidos que recebemos de indivíduos que desejem exercer os respetivos direitos de proteção de dados, independentemente de onde residam. A menos que um requisito legal nos impeça de o fazer, ou no caso de se aplicar uma exceção legal, iremos honrar o seu pedido.
+
+Visite os nossos [fóruns](https://support.mozilla.org/) para obter ajuda de assistência geral.

@@ -1,7 +1,7 @@
 ﻿# Termenii de utilizare a Serviciului Hubs
 
-Versiunea 1.2, în vigoare de la 21 martie 2023
-{: datetime="2023-03-21" }
+Versiunea 1.3, în vigoare de la 1 noiembrie 2023
+{: datetime="2023-11-01" }
 
 Hubs ("Serviciul") este un serviciu nou, în avanpremieră, care vă permite să configurați și să gestionați propriul set de platforme de comunicare în timp real pentru realitatea virtuală, realitatea augmentată, desktop, laptop sau mobil. Este disponibil ca serviciu cu abonament plătit.  
 
@@ -9,8 +9,8 @@ Acești Termeni și condiții de utilizare explică drepturile și responsabilit
 
 ## 1. Abonarea la Hubs
 
-### Aveți nevoie de un cont Firefox
-Pentru a utiliza Serviciul este necesar un cont Firefox. Pentru crearea unui cont Firefox, trebuie să fiți de acord cu [Termenii de utilizare a Serviciilor](https://www.mozilla.org/about/legal/terms/services/) și cu [Notificarea privind confidențialitatea](https://www.mozilla.org/privacy/firefox/) aferente contului Firefox.
+### Veți avea nevoie de un cont Mozilla
+Pentru a utiliza Serviciul este necesar un cont Mozilla. Pentru a crea un cont Mozilla va trebui să fiți de acord cu [Termenii de utilizare](https://www.mozilla.org/about/legal/terms/services/) și [Notificarea de confidențialitate](https://www.mozilla.org/privacy/mozilla-accounts/) pentru contul dumneavoastră Mozilla.
 
 ### Plata dumneavoastră
 __Plată.__ Oferim Serviciul ca un serviciu cu abonament care se reînnoiește automat. Atunci când vă înscrieți, ne autorizați să încasăm valoarea abonamentului pentru primul termen al Serviciului, prin metoda de plată furnizată de dumneavoastră. Planul dumneavoastră se reînnoiește automat la sfârșitul fiecărei perioade și ne autorizați să facturăm abonamentul pentru fiecare perioadă. Dacă opriți plățile, vom suspenda imediat contul și îl putem șterge după 2 luni de neplată.
@@ -18,7 +18,7 @@ __Plată.__ Oferim Serviciul ca un serviciu cu abonament care se reînnoiește a
 __Politica de rambursare în 30 de zile.__ Prima dată când vă abonați la Serviciu prin intermediul site-ului web al Mozilla, dacă vă anulați contul în primele 30 de zile, puteți solicita o rambursare, iar Mozilla vă va rambursa primul termen de abonament. Această ofertă se aplică doar prima dată când vă abonați. Acest lucru se adaugă oricăror drepturi de protecția consumatorului pe care le aveți în temeiul legilor din țara de reședință.
 
 ### Puteți anula abonamentul în orice moment
-__Anularea.__ Puteți anula abonamentul la Serviciu oricând prin dezactivarea contului dumneavoastră și anularea abonamentului. Puteți realiza acest lucru apăsând pe linkul "Anulare abonament" din orice e-mail pe care vi-l trimitem despre Serviciu sau accesând secțiunea Abonamente și plăți din contul dumneavoastră Firefox și apăsând pe "Anulare". Dacă alegeți să renunțați la abonament, reînnoirea automată va înceta, nu vom mai factura nicio sumă pentru perioadele de plată viitoare și veți pierde accesul la Servicii la sfârșitul ciclului de facturare curent.
+__Anularea.__ Puteți anula abonamentul la Serviciu oricând prin dezactivarea contului dumneavoastră și anularea abonamentului. Puteți face acest lucru apăsând linkul "Anulare abonament" din orice e-mail pe care vi-l trimitem despre Serviciu sau accesând secțiunea Abonamente și plăți din contul dumneavoastră Mozilla și apăsând "Anulare". Dacă alegeți să renunțați la abonament, reînnoirea automată va înceta, nu vom mai factura nicio sumă pentru perioadele de plată viitoare și veți pierde accesul la Servicii la sfârșitul ciclului de facturare curent.
 
 ## 2. Comunicări și conținut
 Hubs le permite utilizatorilor dumneavoastră să trimită informații (cum ar fi audio, video, text, imagini, modele 3D și scene) către alți utilizatori.
@@ -42,7 +42,7 @@ Utilizând Hubs, vă exprimați acordul cu respectarea [Condițiilor de utilizar
 
 __Eligibilitatea.__ Pentru a putea utiliza serviciul cu abonament plătit, trebuie să vă aflați într-o țară în care Hubs este disponibil. În prezent Hubs este disponibil în Canada, Germania, Regatul Unit și Statele Unite.
 
-__Modul în care utilizați Hubs.__ Dacă aveți un abonament curent și plătit la Hubs, Mozilla vă acordă permisiunea de a-l utiliza în conformitate cu prezenții Termeni de utilizare. Nu aveți dreptul să transferați sau să revindeți Serviciul Hubs. O licență achiziționată este valabilă numai pentru persoana sau entitatea care deține contul Firefox asociat cu instanța Hubs. 
+__Modul în care utilizați Hubs.__ Dacă aveți un abonament curent și plătit la Hubs, Mozilla vă acordă permisiunea de a-l utiliza în conformitate cu prezenții Termeni de utilizare. Nu aveți dreptul să transferați sau să revindeți Serviciul Hubs. O licență achiziționată se extinde doar la persoana sau entitatea care deține contul Mozilla asociat cu instanța Hubs.
 
 Cu un abonament plătit, puteți avea până la 25 de utilizatori pentru fiecare cameră Hubs și până la 2 GB de spațiu de stocare pentru Hub-urile dumneavoastră.
 

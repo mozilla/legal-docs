@@ -1,11 +1,11 @@
 ﻿# Aviso de privacidad de Hubs
-Versión 1.1, en vigor desde el martes, 21 de marzo de 2023
-{: datetime="2023-03-21" }
+Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
+{: datetime="2023-11-01" }
 
 ## Información que recopilamos y compartimos para las salas de Hubs
 
 ### Información compartida con nosotros y otros participantes
-__Información de cuenta:__ Necesitará una cuenta de Firefox para adquirir una suscripción a Hubs. Sin embargo, un usuario no necesita disponer de una cuenta para utilizar Hubs. Para utilizar algunas características (como almacenar su avatar), se necesita una cuenta. Puede crear una cuenta mediante Hubs o mediante Discord. Si crea una cuenta con su dirección de correo electrónico, almacenamos una versión convertida en hash de su dirección de correo electrónico. Si crea una cuenta mediante Discord, recibimos la dirección de correo electrónico asociada a su cuenta de Discord y su avatar de Discord.
+__Información de cuenta:__ Necesitará una cuenta de Mozilla para adquirir una suscripción a Hubs. Sin embargo, un usuario no necesita disponer de una cuenta para utilizar Hubs. Para utilizar algunas características (como almacenar su avatar), se necesita una cuenta. Puede crear una cuenta mediante Hubs o mediante Discord. Si crea una cuenta con su dirección de correo electrónico, almacenamos una versión convertida en hash de su dirección de correo electrónico. Si crea una cuenta mediante Discord, recibimos la dirección de correo electrónico asociada a su cuenta de Discord y su avatar de Discord.
 
 __Nombres y URL de salas:__ Las salas y sus nombres son de acceso público para quienes dispongan de la URL correspondiente. Mozilla almacena el nombre y la URL para el enlace que usted comparte, así que tanto usted como otros usuarios que dispongan del enlace a la sala la pueden volver a utilizar.
 
@@ -38,13 +38,13 @@ __Información sobre atribución:__ Cuando alguien publica una escena o un avata
 __Información de cuenta:__ Para publicar una escena o un avatar en Hubs, el usuario debe disponer de una cuenta de Hubs. Mozilla recibirá y almacenará una versión en hash de su dirección de correo electrónica para permitirle iniciar sesión y visualizar sus modelos de 3D Room y sus avatares.
 
 ## Información que recopilamos acerca de su suscripción
-__Información de la cuenta de Firefox.__ Una suscripción a Hubs requiere una cuenta de Firefox, que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Más información sobre las [prácticas relativas a los datos de cuentas de Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Información de la cuenta de Mozilla.__ Una suscripción a Hubs requiere una cuenta de Mozilla, que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Más información sobre las [prácticas relativas a los datos de cuentas de Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Información de ubicación.__ Mozilla recibe su dirección IP de su cuenta de Firefox al registrarse en el servicio y durante su uso. Utilizamos la dirección IP para conocer su ubicación aproximada, ya que Mozilla VPN solo está disponible en determinados países.
+__Información de ubicación.__ Mozilla recibe su dirección IP de su cuenta de Mozilla al registrarse en el servicio y durante su uso. Utilizamos la dirección IP para conocer su ubicación aproximada, ya que Mozilla VPN solo está disponible en determinados países.
 
-__Información de pago.__ Al suscribirse a los Servicios, realizará el pago a través de uno de nuestros proveedores de servicios de pago de terceros: Stripe, Apple, PayPal o Google Pay. Mozilla recibirá un registro de su cuenta (que incluye la dirección de facturación y los cuatro últimos dígitos de su método de pago) y el estado de la suscripción de su cuenta, pero no almacena los datos de pago. Los proveedores de pago también pueden recopilar datos personales transaccionales o información sobre dispositivos mediante cookies y tecnologías similares para hacer funcionar y mejorar sus servicios. Puede obtener más información sobre cómo estas empresas utilizan y tratan sus datos revisando sus políticas de privacidad, que están disponibles en los sitios web respectivos.
+__Información de pago.__ Al suscribirse a los Servicios, realizará el pago a través de uno de nuestros proveedores de servicios de pago de terceros: Stripe, Apple, PayPal o Google Pay. Mozilla recibirá un registro de su cuenta (que incluye la dirección de facturación y los cuatro últimos dígitos de su método de pago) y el estado de la suscripción de su cuenta, pero no almacena los datos de pago. Los proveedores de pago también pueden recopilar datos personales transaccionales o información sobre dispositivos mediante cookies y tecnologías similares para hacer funcionar y mejorar sus servicios. Puede obtener más información sobre cómo estas empresas utilizan y tratan sus datos revisando sus avisos de privacidad, que están disponibles en los sitios web respectivos.
 
-__Información de uso.__ Recibimos información sobre las salas y los usuarios de su instancia de Hubs. Por ejemplo, sabemos cuándo se crean y eliminan salas, cuántas salas hay en una instancia de Hubs y cuántos usuarios hay en cada sala. También recibimos información acerca de cuánto espacio de almacenamiento utiliza su instancia de Hubs. 
+__Información de uso.__ Recibimos información sobre las salas y los usuarios de su instancia de Hubs. Por ejemplo, sabemos cuándo se crean y eliminan salas, cuántas salas hay en una instancia de Hubs y cuántos usuarios hay en cada sala. También recibimos información acerca de cuánto espacio de almacenamiento utiliza su instancia de Hubs.
 
 ## A quién puede revelar información Hubs
 __El host de Hubs:__ Cuando utiliza una instancia de Hubs, Mozilla comparte información son el suscriptor de Hubs que haya creado la instancia de Hubs. Esto incluye su nombre de usuario, información sobre su cuenta y cuándo se creó, así como escenas, avatares y otro contenido que haya añadido a una sala de Hubs.  
@@ -59,6 +59,16 @@ __Proveedores de búsqueda:__ Puede buscar imágenes, GIF y modelos 3D para comp
 * [YouTube](https://policies.google.com/privacy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
-__Twitter:__ Si conecta Twitter a Hubs, puede tuitear y compartir imágenes 2D procedentes de las salas de Hubs. Cualquier contenido que tuitee se compartirá con Twitter y se publicará en la plataforma Twitter. Puede consultar la [política de privacidad de Twitter](https://twitter.com/en/privacy) para obtener más información.
+__X (anteriormente Twitter):__ Si conecta X a Hubs, puede tuitear y compartir imágenes 2D procedentes de las salas de Hubs. Cualquier contenido que tuitee se compartirá con X y se publicará en la plataforma X. Puede consultar la [política de privacidad de X](https://twitter.com/privacy) para obtener más información.
 
 __Discord:__ Si conecta Discord a Hubs, almacenaremos los tokens de acceso y los ID de servidor y de canal que se hayan conectado. Sincronizaremos los mensajes de chat, los cambios en las salas, los objetos 2D y 3D que cree y si usted se une a un canal de Discord conectado o sale de él. Hubs no registra ningún mensaje sincronizado. Puede consultar la [política de privacidad de Discord](https://discordapp.com/privacy) para obtener más información.
+
+## Otra información que debe conocer
+
+Para más información, consulte la sección sobre [cómo gestionar sus datos de la cuenta de Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Además, puede acceder fácilmente a mucha de la información que almacenamos sobre nuestros usuarios de cuentas de Mozilla [iniciando sesión](https://accounts.firefox.com/signin) en su cuenta, donde también puede actualizar la [configuración para compartir sus datos](https://accounts.firefox.com/settings/). En el caso de que desee realizar una solicitud acerca de sus datos personales, póngase en contacto con nosotros a través de nuestro [Portal de solicitud de acceso a datos](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+
+Si tiene alguna otra pregunta sobre los datos personales o nuestras prácticas en relación con la protección de la privacidad, envíe un correo electrónico a compliance@mozilla.com.
+
+Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos independientemente de donde residan. Cumpliremos con sus solicitud a menos que un requisito legal lo impida o se aplique una excepción legal.
+
+Visite nuestros [foros](https://support.mozilla.org/) si desea obtener ayuda general en relación con los servicios.
