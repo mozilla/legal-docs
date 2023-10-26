@@ -49,7 +49,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country and state.
 
-* __Technical & interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use Technical and Interaction data in order to better understand our users and improve our product. 
+* __Technical & interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use technical and interaction data in order to better understand our users and improve our product. 
 
 * __Pocket recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
@@ -113,7 +113,7 @@ Users in the US can opt in to Review Checker, our guide to product reviews power
 
 * __Synced data__: If you enable sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, form autofill information, bookmarks, history, and preferences. Deleting your Mozilla account will delete related Firefox synchronized content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
 
-* __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
+* __Technical and interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
 [Learn more](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), including how to enable or disable synchronization.
 
