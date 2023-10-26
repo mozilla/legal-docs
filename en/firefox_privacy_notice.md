@@ -64,7 +64,7 @@ Firefox displays content, such as Add-on Recommendations, Top Sites (websites su
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
 * [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
-* [__CIRA__](https://www.cira.ca/cybersecurity-services/canadian-shield/privacy)
+* [__CIRA__](https://www.cira.ca/en/canadian-shield/privacy/)
 * [__Shaw__](https://www.shaw.ca/dns-statement)
 
 **Technical data for updates**: Maintaining the latest version of Firefox is important to help keep you safe against vulnerabilities. Desktop versions of Firefox check for browser updates by persistently connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. [Learn more](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
