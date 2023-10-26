@@ -107,11 +107,11 @@ Mozilla receives registration, location, interaction and technical data when you
 
 Users in the US can opt in to Review Checker, our guide to product reviews powered by Mozilla’s [Fakespot](https://www.fakespot.com/), which helps you understand how reliable product reviews are on [certain shopping sites](https://support.mozilla.org/kb/review-checker-review-quality). 
 
-* __Technical and interaction data__: We use Oblivious HTTP ([OHTTP](https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/)) with our partner [Fastly](https://www.fastly.com/privacy/) to provide the service, while ensuring that any data identifying products, URLs, and request payloads are unlinkable to you. For more information about Review Checker, including what websiteshow to turn it off, you can read the [documentation](https://support.mozilla.org/kb/review-checker-review-quality). 
+* __Technical and interaction data__: We use Oblivious HTTP ([OHTTP](https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/)) with our partner [Fastly](https://www.fastly.com/privacy/) to provide the service, while ensuring that any data identifying products, URLs, and request payloads are unlinkable to you. For more information about Review Checker, including how to turn it off, you can read the [documentation](https://support.mozilla.org/kb/review-checker-review-quality). 
 
 ### Sync {: #sync }
 
-* __Synced data__: If you enable sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences. Deleting your Mozilla account will delete related Firefox synchronized content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
+* __Synced data__: If you enable sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, form autofill information, bookmarks, history, and preferences. Deleting your Mozilla account will delete related Firefox synchronized content. You can also read the [documentation](https://moz-services-docs.readthedocs.io/en/latest/sync/).
 
 * __Technical and Interaction data__: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
