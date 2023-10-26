@@ -67,7 +67,7 @@ __Discord:__ Se connetti Discord a Hubs, memorizziamo i token di accesso e gli I
 
 [Qui](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) puoi trovare ulteriori informazioni sulla gestione dei dati del tuo account Mozilla. Inoltre, molte delle informazioni che memorizziamo sui nostri utenti di account Mozilla sono facilmente accessibili [dal tuo account](https://accounts.firefox.com/signin), dove puoi anche aggiornare le [impostazioni di condivisione dei dati](https://accounts.firefox.com/settings/). Per inoltrare richieste relative ai tuoi dati personali, contattaci sul nostro [Portale per la richiesta di accesso ai dati personali](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
-Per qualsiasi altra domanda in merito ai tuoi dati personali alle nostre pratiche di privacy, puoi contattarci all'indirizzo compliance@mozilla.com.
+Per qualsiasi altra domanda in merito ai tuoi dati personali o alle nostre pratiche in materia di privacy, puoi contattarci all'indirizzo compliance@mozilla.com.
 
 Rispondiamo a tutte le richieste che riceviamo da individui che desiderano esercitare i propri diritti di protezione dei dati, indipendentemente dal luogo in cui risiedono. La tua richiesta verrà accolta, a meno che un requisito legale non ci impedisca di farlo o si applichi un'eccezione legale.
 
