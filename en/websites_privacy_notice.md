@@ -55,12 +55,12 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 * **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. In addition, if you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://www.mozilla.org/privacy/websites/#data-tools) section.
 
-* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/), or for Thunderbird’s newsletter, on the [Thunderbird website](https://www.thunderbird.net/en-US/newsletter/).  
+* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/), or for Thunderbird’s newsletter, on the [Thunderbird website](https://www.thunderbird.net/newsletter/).  
 
 
 * **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     * Mozilla first-party tools: [Opt out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
-    * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account).
+    * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google account).
     * Convert.com: [Opt out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * ShareProgress and Fathom.com: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
@@ -73,7 +73,7 @@ Some Mozilla websites allow you to make purchases (such as apps or gear), contri
 
 * **Payment Processing**: When you purchase something via a Mozilla website, contribute funds or make donations, you will send payment through one of our third-party payment providers: Stripe, Apple Pay, PayPal, Venmo or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and (where relevant) the status of your account’s subscription; we may also receive your name, mailing address, and/or email address. This data is used for payment processing, fraud detection and record-keeping purposes. 
 
-* **Contact and donation information**: We use [Acoustic](https://acoustic.com/privacy-notice/), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) and [Campaign Monitor](https://meetmarigold.com/privacy-notices/) to email receipts and store records, which are retained for 10 years from the date of last payment. If you make a donation to the Mozilla Foundation or Thunderbird, we use [Fundraise Up](https://fundraiseup.com/privacy/) to manage our donations and provide transactional receipts to donors.
+* **Contact and Donation Information**: We use [Acoustic](https://acoustic.com/privacy-notice/), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) and [Campaign Monitor](https://meetmarigold.com/privacy-notices/) to email receipts and store records, which are retained for 10 years from the date of last payment. If you make a donation to the Mozilla Foundation or Thunderbird, we use [Fundraise Up](https://fundraiseup.com/privacy/) to manage our donations and provide transactional receipts to donors.
 
 ---------------------------------------
 
