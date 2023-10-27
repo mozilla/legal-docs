@@ -1,32 +1,32 @@
-﻿# Firefox Cloud Services: Condiciones del servicio
+﻿# Condiciones del servicio de las cuentas de Mozilla
 
-Última actualización: domingo, 10 de abril de 2022
-{: datetime="2022-04-10" }
+Última actualización: miércoles, 1 de noviembre de 2023
+{: datetime="2023-11-01" }
 
 ## Resumen
 
 Esta sección inicial resume las condiciones descritas a continuación. El presente resumen tiene como objetivo ayudarle a comprender las condiciones, pero le recomendamos leer el documento completo, ya que, al aceptarlo, aprobará todas las condiciones recogidas en el mismo, no solo las de este resumen.
 
-* Firefox Cloud Services (en adelante, los "Servicios") es un paquete de servicios ofrecido por Mozilla.
+* Las cuentas de Mozilla (los "Servicios") incluyen su cuenta y el paquete de servicios prestados a usted por Mozilla usando esa cuenta.
 * Los Servicios se prestan "tal y como están", sin ningún tipo de garantías. Existen límites significativos a la responsabilidad de Mozilla ante los daños que puedan derivar del uso que haga de los Servicios.
 
 ## Condiciones del servicio
 
 1. #### Introducción
 
-    Las presentes Condiciones del servicio (en adelante, las "<u>Condiciones</u>") rigen el uso de Firefox Cloud Services, un paquete de servicios en línea ofrecido por Mozilla (en adelante, los "Servicios").
+    Las presentes Condiciones del servicio (en adelante, las ""<u>Condiciones</u>"") rigen el uso de las cuentas de Mozilla, un paquete de servicios en línea ofrecido por Mozilla (en adelante, los "Servicios").
 
-2. #### Firefox Accounts
+2. #### Cuentas de Mozilla
 
-    Para poder utilizar los Servicios, deberá crear una cuenta de Firefox. Durante el proceso de registro, se le pedirá crear una contraseña. Usted es el único responsable de la confidencialidad de su contraseña y la actividad realizada con su cuenta de Firefox. Mozilla no se responsabiliza de las pérdidas que se producen como consecuencia del uso no autorizado de su cuenta de Firefox.
+    Para poder utilizar algunos de los Servicios, deberá crear una cuenta de Mozilla. Durante el registro, se le pedirá crear una contraseña. Usted es el único responsable de la confidencialidad de su contraseña y la actividad realizada con su cuenta de Mozilla. Mozilla no se responsabiliza de las pérdidas que se producen como consecuencia del uso no autorizado de su cuenta de Mozilla.
 
 3. #### Servicios 
 
-    (a) Mozilla VPN es una red privada virtual creada en colaboración con [Mullvad](https://mullvad.net/). Este servicio requiere una cuenta de Firefox.
+    (a) Mozilla VPN is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net/). Este servicio requiere una cuenta de Mozilla.
     
-    (b) Firefox Relay le permite proteger la seguridad y privacidad de su dirección de correo electrónico principal frente a servicios online mediante la creación de alias de correo electrónico únicos, que le permiten enviar y recibir mensajes de correo electrónico sin la necesidad de revelar su dirección de correo principal. Este servicio requiere una cuenta de Firefox.
+    (b) Firefox Relay allows you to keep your primary email address safe and private from online services by making unique, alias email addresses that allow you to send and receive emails without revealing your primary email address. Este servicio requiere una cuenta de Mozilla.
     
-    (c) Firefox Monitor es un servicio informativo para promover la seguridad online informándole acerca de las vulneraciones de datos públicos. Puede consultar las direcciones de correo electrónico indicadas en nuestro sitio web para conocer las filtraciones más conocidas públicamente. Al suscribirse con una cuenta de Firefox, recibirá: 
+    (c) Firefox Monitor is an informational service to promote online security by informing you of public data breaches. You can scan email addresses on our website to see most publicly known breaches. Al suscribirse con una cuenta de Mozilla, recibirá:
 
     * Informe completo: Este informe incluye una lista completa de las infracciones públicamente conocidas, como la filtración de información sensible de páginas para menores, adultos y de citas en línea (estas páginas son excluidas del análisis web con el fin de proteger la privacidad de esas personas). 
     * Alertas de filtraciones: Estas le avisan cuando su dirección de correo electrónico aparezca en nuevas filtraciones de datos. 
@@ -34,10 +34,10 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
     Usted es responsable de proteger sus cuentas online usando contraseñas distintas y seguras, preguntas de seguridad, autenticación de dos factores, gestores de contraseñas y otras medidas de seguridad. Aunque Firefox Monitor y [Have I Been Pwned?](https://haveibeenpwned.com/) se esfuerzan por tener datos actualizados, no hay garantía de que ninguno de estos servicios tenga los registros completos de todas las vulneraciones de datos públicos en el momento oportuno. 
 
-    (d) Firefox Notes le permite tomar notas dentro de Firefox. Se requiere una cuenta de Firefox para ver, editar y eliminar sus Notas desde distintos dispositivos. 
+    (d) Firefox Notes le permite tomar notas en Firefox. Se requiere una cuenta de Mozilla para ver, editar y eliminar sus Notas desde distintos dispositivos.
 
-    (e) Firefox Sync le permite acceder desde distintos dispositivos a la información almacenada en Firefox, como por ejemplo, las pestañas, la barra alucinante, las contraseñas, los marcadores y las preferencias del navegador. Puede habilitar y deshabilitar Firefox Sync en la sección Ajustes de Firefox. Este servicio requiere una cuenta de Firefox. 
-    
+    (e) Firefox Sync le permite acceder desde distintos dispositivos a la información almacenada en Firefox, como por ejemplo, las pestañas, la barra alucinante, las contraseñas, los marcadores y las preferencias del navegador. Puede habilitar y deshabilitar Firefox Sync en la sección Ajustes de Firefox. Este servicio requiere una cuenta de Mozilla. 
+
     (f) Pocket le permite descubrir contenido fantástico de forma personalizada en función de sus intereses y guardarlo para poder acceder a él cuando lo desee y desde cualquier dispositivo. 
 
 4. #### Política de privacidad
@@ -50,10 +50,11 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Comunicaciones
 
-    Le enviaremos periódicamente mensajes con el fin de ayudarle a sacar el máximo partido a su cuenta de Firefox. Estos mensajes se pueden recibir en el producto mismo o en la dirección con la que se registró e incluirán información sobre servicios nuevos y existentes y ofertas y encuestas relacionadas con de su cuenta de Firefox. Además, puede optar por recibir otros tipos de mensajes de correo electrónico. 
+    Le enviaremos periódicamente mensajes con el fin de ayudarle a sacar el máximo partido a su cuenta de Mozilla. Estos mensajes se pueden recibir en el producto mismo o en la dirección con la que se registró e incluirán información sobre servicios nuevos y existentes y ofertas y encuestas relacionadas con su cuenta de Mozilla. Además, puede optar por recibir otros tipos de mensajes de correo electrónico. 
     
     Puede cambiar sus suscripciones de correo electrónico de Mozilla desde nuestros mensajes de correo electrónico pulsando el enlace en la parte inferior del mensaje o a través del navegador accediendo a Firefox > Preferencias > Sincronización > Gestionar cuenta > Preferencias de correo electrónico.
     
@@ -70,9 +71,9 @@ Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation 
 
 8. #### Vigencia y rescisión
 
-    Se aplicarán las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente eliminando su cuenta de Firefox, dejando de usar los Servicios y, si procede, cancelando la suscripción a nuestros correos electrónicos. 
+    Se aplicarán las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente eliminando su cuenta de Mozilla, dejando de usar los Servicios y, si procede, cancelando la suscripción a nuestros correos electrónicos. 
 
-    Podemos suspender o cancelar su acceso a los Servicios en cualquier momento y por cualquier motivo, incluyendo, entre otros casos, si consideramos que: (i) ha incumplido las presentes Condiciones; (ii) genera un riesgo o una posible responsabilidad legal para nosotros; o (iii) la prestación de los Servicios deja de ser viable a nivel comercial. Realizaremos los esfuerzos razonables para informarle de ello a través de la dirección de correo electrónico asociada a su cuenta de Firefox o la próxima vez que intente acceder a los Servicios.
+    Podemos suspender o cancelar su acceso a los Servicios en cualquier momento y por cualquier motivo, incluyendo, entre otros casos, si consideramos que: (i) ha incumplido las presentes Condiciones; (ii) genera un riesgo o una posible responsabilidad legal para nosotros; o (iii) la prestación de los Servicios deja de ser viable a nivel comercial. Realizaremos los esfuerzos razonables para informarle de ello a través de la dirección de correo electrónico asociada a su cuenta de Mozilla o la próxima vez que intente acceder a los Servicios.
 
     En dichos casos, se rescindirán las presentes Condiciones, incluyendo, entre otras, su licencia de uso de los Servicios, excepto las siguientes secciones, que seguirán vigentes: indemnización, exclusión de garantías y limitación de responsabilidad, y aspectos varios.
 
