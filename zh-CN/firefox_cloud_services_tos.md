@@ -42,7 +42,7 @@
 
 4. #### 隐私政策
 
-   我们将根据 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)的规定使用通过 Services 接收的信息。隐私声明更详细地描述了我们通过各项服务接收的数据：
+    我们将根据 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)的规定使用通过 Services 接收的信息。隐私声明更详细地描述了我们通过各项服务接收的数据：
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
