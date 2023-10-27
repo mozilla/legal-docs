@@ -1,7 +1,7 @@
 ﻿# Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Versi 1.1, berkuat kuasa pada 15 Jun 2023
-{: datetime="2023-06-15" }
+Version 1.2, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).
 
@@ -13,8 +13,8 @@ Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat pe
 
 ## Melanggan Perkhidmatan Mozilla
 
-### Anda Memerlukan Akaun Firefox
-Akaun Firefox diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Firefox, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/firefox/) untuk akaun Firefox anda.
+### Anda Memerlukan Akaun Mozilla
+Akaun Mozilla diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Mozilla, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akaun Mozilla anda.
 
 ### Privasi Anda
 [Notis Privasi Perkhidmatan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services) menerangkan jenis maklumat yang dihantar apabila anda menggunakan Perkhidmatan dan cara kami mengendalikan dan berkongsi maklumat tersebut.
@@ -25,10 +25,11 @@ Mozilla ialah sebuah organisasi antarabangsa, dan komputer kami serta penyedia p
 __Pembayaran.__ Kami menawarkan Perkhidmatan dengan memperbaharui semula perkhidmatan langganan secara automatik. Apabila anda mendaftar, anda membenarkan kami untuk mengenakan caj yuran langganan pada kaedah pembayaran yang anda berikan untuk tempoh pertama Perkhidmatan yang anda daftarkan. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
 
 __Dasar Bayaran Balik 30 Hari.__ Pada pertama kali anda melanggan Perkhidmatan melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan memberi bayaran balik kepada anda untuk tempoh pertama langganan anda. Tawaran ini hanya terpakai pada kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
-Pembelian melalui Apple atau Google App Store. Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
+
+__Pembelian melalui Apple atau Google App Store.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
 
 ### Anda Boleh Membatalkan Langganan Anda Pada Bila-bila Masa
-Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh melakukannya dengan mengetik pautan “Batalkan Langganan” pada mana-mana e-mel tentang Perkhidmatan yang kami hantar kepada anda atau dengan pergi ke bahagian [Langganan & Pembayaran](https://accounts.firefox.com/subscriptions/) akaun Firefox anda dan mengklik “Batal.” Jika anda pilih untuk membatalkan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang, dan anda akan kehilangan akses ke Perkhidmatan di akhir kitaran bil semasa.
+Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh melakukannya dengan mengetik pautan “Batalkan Langganan” pada mana-mana e-mel tentang Perkhidmatan yang kami hantar kepada anda atau dengan pergi ke bahagian [Langganan & Pembayaran](https://accounts.firefox.com/subscriptions/) akaun Mozilla anda dan mengklik “Batal.” Jika anda memilih untuk membatalkan langganan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang dan anda akan kehilangan akses kepada Perkhidmatan pada hujung kitaran pengebilan semasa.
 
 ## Mozilla VPN
 
@@ -95,7 +96,7 @@ __Hak Milik Intelek Mozilla.__ Mozilla mahupun pemberi lesennya tidak memberikan
 
 * __Mozilla Boleh Mengemas Kini Terma Ini.__ Dari semasa ke semasa, Mozilla boleh memutuskan untuk mengemas kini Terma ini. Kami akan menghantar Terma yang dikemas kini secara dalam talian. Kami akan menganggap penggunaan berterusan Perkhidmatan oleh anda sebagai penerimaan kepada perubahan tersebut. Kami akan meletakkan tarikh kuat kuasa pada bahagian atas halaman ini untuk menjelaskan masa kami membuat kemas kini terbaru.
 
-* __Penamatan.__ Terma-terma ini terpakai sehingga sama ada anda atau Mozilla membuat keputusan untuk menamatkan terma. Anda boleh memilih untuk menamatkannya pada bila-bila masa atas apa-apa sebab dengan menghentikan penggunaan Perkhidmatan dan membatalkan langganan anda. Mozilla boleh menggantung atau menamatkan akses sesiapa sahaja kepada Perkhidmatan pada bila-bila masa atas apa-apa sebab, termasuk jika Mozilla memutuskan untuk menamatkan Perkhidmatan. Sekiranya kami memutuskan untuk menggantung atau menamatkan akses anda, kami akan berusaha untuk memberitahu anda di alamat e-mel yang berkaitan dengan akaun anda atau pada waktu berikutnya anda cuba mengakses Akaun anda.
+* __Penamatan.__ Terma-terma ini terpakai sehingga sama ada anda atau Mozilla membuat keputusan untuk menamatkan terma. Anda boleh memilih untuk menamatkannya pada bila-bila masa atas apa-apa sebab dengan menghentikan penggunaan Perkhidmatan dan membatalkan langganan anda. Mozilla boleh menggantung atau menamatkan akses sesiapa sahaja kepada Perkhidmatan pada bila-bila masa atas apa-apa sebab, termasuk jika Mozilla memutuskan untuk menamatkan Perkhidmatan. Sekiranya kami memutuskan untuk menggantung atau menamatkan akses anda, kami akan berusaha untuk memberitahu anda di alamat e-mel yang berkaitan dengan akaun anda atau pada waktu berikutnya anda cuba mengakses akaun anda.
 
 Jika kami menamatkan akses anda ke Perkhidmatan tanpa sebab yang khusus, anda akan terus mendapat akses ke Perkhidmatan untuk tempoh pengebilan semasa atau kami akan memberi bayaran balik untuk bulan semasa. Walau bagaimanapun, kami berhak untuk menamatkan penggunaan Perkhidmatan ini jika kami percaya bahawa anda telah melanggar Syarat Penggunaan atau anda telah melanggar Terma-terma ini.
 

@@ -1,7 +1,7 @@
 ﻿# Odběr služeb Mozilla | Podmínky služby
 
-Verze 1.1, platná od 15. června 2023
-{: datetime="2023-06-15" }
+Version 1.2, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
@@ -13,8 +13,8 @@ Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vy
 
 ## Přihlášení k odběru služeb Mozilla
 
-### Vyžaduje se účet Firefox
-K využívání služeb se vyžaduje účet Firefox. Pro založení účtu Firefox budete muset rovněž vyslovit souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/about/legal/terms/services/) a [Oznámením o ochraně osobních údajů](https://www.mozilla.org/privacy/firefox/) pro váš účet Firefox.
+### Vyžaduje se účet Mozilla
+K využívání služeb se vyžaduje účet Mozilla. Pro založení účtu Mozilla budete muset rovněž vyslovit souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/about/legal/terms/services/) a [Oznámením o ochraně osobních údajů](https://www.mozilla.org/privacy/mozilla-accounts/) pro váš účet Mozilla.
 
 ### Vaše soukromí
 [Prohlášení o ochraně osobních údajů předplacených služeb Mozilla](https://www.mozilla.org/privacy/subscription-services) vysvětluje, jaké informace jsou odesílány, když využíváte služby, a jak s těmito informacemi zacházíme a jak je sdílíme.
@@ -29,7 +29,7 @@ __Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k před
 __Nákup přes Apple Store nebo Google Play Store.__ Pokud jste si předplatné zakoupili prostřednictvím obchodu s aplikacemi Apple Store nebo Google Play Store, vaše platba se řídí podmínkami daného obchodu s aplikacemi. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy je nutné směřovat na společnost Apple, případně Google.
 
 ### Své předplatné můžete kdykoliv zrušit
-Své předplatné služeb můžete kdykoliv zrušit. Můžete tak učinit kliknutím na odkaz „Zrušit předplatné“ v jakémkoli e-mailu, který vám zašleme ohledně služeb, nebo přejít do sekce [Předplatné a platby](https://accounts.firefox.com/subscriptions/) ve svém účtu Firefox a kliknout na „Zrušit“. Pokud se rozhodnete pro zrušení, automatické obnovení se zastaví, nebudeme vám účtovat za žádné budoucí platební období a vy ztratíte přístup ke službám po uplynutí stávajícího fakturačního cyklu.
+Své předplatné služeb můžete kdykoliv zrušit. Můžete tak učinit kliknutím na odkaz „Zrušit předplatné“ v jakémkoli e-mailu, který vám zašleme ohledně služeb, nebo přejít do sekce [Předplatné a platby](https://accounts.firefox.com/subscriptions/) ve svém účtu Mozilla a kliknout na „Zrušit“. Pokud se rozhodnete pro zrušení, automatické obnovení se zastaví, nebudeme vám účtovat za žádné budoucí platební období a vy ztratíte přístup ke službám po uplynutí stávajícího fakturačního cyklu.
 
 ## Mozilla VPN
 

@@ -1,7 +1,7 @@
 ﻿# Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-1.1-es verzió, hatálybalépés dátuma: 2023. június 15.
-{: datetime="2023-06-15" }
+Version 1.2, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
@@ -13,8 +13,8 @@ Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fon
 
 ## Előfizetés a Mozilla-szolgáltatásokra
 
-### Szüksége lesz egy Firefox-fiókra
-A Szolgáltatások használatához Firefox-fiók szükséges. A Firefox-fiók létrehozásához el kell fogadnia a Firefox-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Adatvédelmi nyilatkozatot](https://www.mozilla.org/privacy/firefox/) is.
+### Szüksége lesz egy Mozilla-fiókra
+A Szolgáltatások használatához Mozilla-fiók szükséges. A Mozilla-fiók létrehozásához el kell fogadnia a Mozilla-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Adatvédelmi nyilatkozatot](https://www.mozilla.org/privacy/mozilla-accounts/) is.
 
 ### Az Ön adatainak védelme
 A [Mozilla előfizetéses szolgáltatások adatvédelmi nyilatkozata](https://www.mozilla.org/privacy/subscription-services) részletesen leírja, hogy milyen adatokat küldünk a Szolgáltatások használata során, és hogyan kezeljük és osztjuk meg ezeket az adatokat.
@@ -29,7 +29,7 @@ __30 napos visszatérítési szabályzat.__ Amikor először fizet elő a Szolg�
 __Vásárlás az Apple Store-on vagy Google Play Áruházon keresztül.__ Ha az előfizetést alkalmazáson belüli vásárlással vásárolta meg az Apple App Store-ból vagy a Google Play Áruházból, akkor fizetésére az alkalmazás-áruház általános szerződési feltételei vonatkoznak. Az ilyen vásárlásokra vonatkozó számlázással és visszatérítéssel kapcsolatos kérdéseket az Apple-hez vagy a Google-hoz kell irányítania.
 
 ### Előfizetését bármikor lemondhatja
-A Szolgáltatások előfizetését bármikor lemondhatja. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet a Szolgáltatásokkal kapcsolatban küldünk Önnek, vagy lépjen Firefox-fiókja [Előfizetések és fizetések](https://accounts.firefox.com/subscriptions/) részére, és kattintson a „Lemondás” lehetőségre. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
+A Szolgáltatások előfizetését bármikor lemondhatja. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet a Szolgáltatásokkal kapcsolatban küldünk Önnek, vagy lépjen Mozilla-fiókja [Előfizetések és fizetések](https://accounts.firefox.com/subscriptions/) részére, és kattintson a „Lemondás” lehetőségre. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
 
 ## Mozilla VPN
 

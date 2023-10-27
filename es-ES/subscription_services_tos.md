@@ -1,7 +1,7 @@
 ﻿# Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Versión 1.1, en vigor desde el jueves, 15 de junio de 2023
-{: datetime="2023-06-15" }
+Version 1.2, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
@@ -13,8 +13,8 @@ Por favor, lea detenidamente las presentes Condiciones del servicio porque conti
 
 ## Suscribirse a servicios de Mozilla
 
-### Necesitará una cuenta de Firefox
-Se requiere una cuenta de Firefox para usar los Servicios. Para crear una cuenta de Firefox, tendrá que aceptar las [Condiciones del Servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox/) de su cuenta de Firefox.
+### Necesitará una cuenta de Mozilla
+Se requiere una cuenta de Mozilla para usar los Servicios. Para crear una cuenta de Mozilla, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/mozilla-accounts/) de su cuenta de Mozilla.
 
 ### Su privacidad
 El [Aviso de privacidad de los servicios de suscripción de Mozilla](https://www.mozilla.org/privacy/subscription-services) explica qué información se envía durante el uso de los Servicios y cómo se gestiona y comparte dicha información.
@@ -25,10 +25,11 @@ Puesto que Mozilla es una organización mundial, nuestros ordenadores y los orde
 __Pago.__ Los Servicios se ofrecen como servicios de suscripción de renovación automática. Al suscribirse nos autoriza cargar el pago en el método de pago proporcionado para cubrir las cuotas para el primer período de suscripción a los Servicios. Su plan se renovará automáticamente al final de cada período, y usted nos autoriza a cobrar las cuotas de suscripción cada período de suscripción. Si deja de pagar, su cuenta se suspenderá inmediatamente y se eliminará después de 2 meses sin pagar las cuotas.
 
 __Política de reembolso de 30 días.__ Si la primera vez que se suscribe a los Servicios a través de la página web de Mozilla, cancela su cuenta durante los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
-Comprar a través de las tiendas de aplicaciones de Apple o Google. Si compró su suscripción en App Store de Apple o Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
+
+__Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si compró su suscripción en App Store de Apple o Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
 
 ### Puede cancelar su suscripción en cualquier momento
-Tiene derecho a cancelar su suscripción a los Servicios en cualquier momento. Puede hacerlo haciendo clic en el enlace «Cancelar suscripción» incluido en cualquier correo electrónico que le enviemos en relación con los Servicios o haciendo clic en «Cancelar» en la sección [Suscripciones y pagos](https://accounts.firefox.com/subscriptions/) de su cuenta de Firefox. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los Servicios al final del ciclo de facturación actual.
+Tiene derecho a cancelar su suscripción a los Servicios en cualquier momento. Puede hacerlo haciendo clic en el enlace "Cancelar suscripción" incluido en cualquier correo electrónico que le enviemos en relación con los Servicios o haciendo clic en "Cancelar" en la sección [Suscripciones y pagos](https://accounts.firefox.com/subscriptions/) de su cuenta de Mozilla. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los Servicios al final del ciclo de facturación actual.
 
 ## Mozilla VPN
 
@@ -95,7 +96,7 @@ __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus licenciatarios le otorga
 
 * __Mozilla puede actualizar estas Condiciones.__ Es posible que Mozilla decida actualizar de forma puntual estas Condiciones. Las Condiciones actualizadas se publicarán online. El uso continuado de los Servicios se entenderá como la aceptación de dichos cambios. Actualizaremos la fecha de entrada en vigor en la parte superior de esta página para dejar claro cuándo realizamos nuestra actualización más reciente.
 
-* __Rescisión.__ Los Servicios se regirán por las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente con dejar de usar los Servicios y cancelar su suscripción. Mozilla puede suspender o rescindir sus derechos de acceso a los Servicios en cualquier momento y por cualquier razón, incluyendo, entre otros casos, si Mozilla decide dejar de ofrecer los Servicios. En el caso de que decidamos suspender o rescindir su acceso a los Servicios, intentaremos notificárselo a través de la dirección de correo electrónico asociada a su cuenta o la siguiente vez que intente acceder a la misma.
+* __Rescisión.__ Los Servicios se regirán por las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente con dejar de usar los Servicios y cancelar su suscripción. Mozilla puede suspender o rescindir sus derechos de acceso a los Servicios en cualquier momento y por cualquier razón, incluyendo, entre otros casos, si Mozilla decide dejar de ofrecer los Servicios. En el caso de que decidamos suspender o rescindir su acceso a los Servicios, intentaremos notificárselo a través de la dirección de correo electrónico asociada a su cuenta o la siguiente vez que intente acceder a esta.
 
 En el caso de que decidamos rescindir su derecho a acceder a los Servicios sin indicar una causa concreta, seguirá teniendo acceso a los Servicios durante el período de facturación en curso o se le reembolsará el pago del mes en curso. Sin embargo, nos reservamos el derecho de rescindir de inmediato su derecho a usar los Servicios, si razonablemente creemos que ha violado las Condiciones de uso o ha infringido de cualquier otra forma estas Condiciones.
 
