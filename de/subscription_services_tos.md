@@ -1,7 +1,7 @@
 ﻿# Mozilla Abonnementdienste | Servicebedingungen
 
-Version 1.1, gültig ab Donnerstag, 15. Juni 2023
-{: datetime="2023-06-15" }
+Version 1.2, gültig ab Mittwoch, 1. November 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation bietet verschiedene Dienste an, um den Datenschutz und Ihre Sicherheit online zu verbessern, darunter Mozilla VPN und Firefox Relay (die „Dienste“).
 
@@ -13,8 +13,8 @@ Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtig
 
 ## Abonnement von Mozilla Diensten
 
-### Sie benötigen ein Firefox-Konto
-Für die Nutzung der Dienste ist ein Firefox-Konto erforderlich. Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
+### Sie benötigen ein Mozilla-Konto
+Für die Nutzung der Dienste ist ein Mozilla-Konto erforderlich. Um ein Mozilla-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-accounts/) für Ihr Mozilla-Konto zustimmen.
 
 ### Ihre Privatsphäre
 Im [Datenschutzhinweis zu Mozilla Abonnementdiensten](https://www.mozilla.org/privacy/subscription-services) wird erläutert, welche Informationen gesendet werden, wenn Sie den Dienst verwenden, und wie wir mit diesen Informationen umgehen und sie teilen.
@@ -25,10 +25,11 @@ Mozilla ist ein weltweites Unternehmen und unsere Computer und die unserer Diens
 __Zahlung.__ Wir bieten die Dienste als Abonnements mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit der von Ihnen abonnierten Dienste der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
 
 __30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie die Dienste zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
-Kauf über Apple oder Google App Stores. Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
+
+__Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
 
 ### Sie können Ihr Abonnement jederzeit kündigen
-Sie können Ihr Abonnement der Dienste jederzeit kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir zu den Diensten an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://accounts.firefox.com/subscriptions/) in Ihrem Firefox-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zu den Diensten am Ende des aktuellen Abrechnungszyklus.
+Sie können Ihr Abonnement der Dienste jederzeit kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir zu den Diensten an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://accounts.firefox.com/subscriptions/) in Ihrem Mozilla-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zu den Diensten am Ende des aktuellen Abrechnungszyklus.
 
 ## Mozilla VPN
 
