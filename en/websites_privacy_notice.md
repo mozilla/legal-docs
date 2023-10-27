@@ -1,9 +1,9 @@
 # Websites, Communications & Cookies Privacy Notice
 
 November 1, 2023
-{: datetime=〝2023-11-01〞 }
+{: datetime="2023-11-01" }
 
-We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
+We care about your privacy. When Mozilla (that’s us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
 This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, and firefox.com, among others. This includes, for example, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developer.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.
 
@@ -12,7 +12,7 @@ This privacy notice applies to Mozilla operated websites and mobile apps, which 
 We may receive personal information from you based on your interaction with us on social media platforms, if you submit a job, intern, grant or fellow application, if you volunteer as a Mozilla community member, if you submit user feedback or a request to us, if you sign up for an account or for a subscription, or if you engage with a product or policy campaign. 
 {: #personal-info }
 
-* **Social Media**: If you engage with our accounts on external social media platforms, such as X (formerly Twitter)  and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
+* **Social Media**: If you engage with our accounts on external social media platforms, such as X (formerly Twitter) and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.
 
 * **Job, Intern, Grant & Fellow Applicants**: Applicants for employment, internship, grant, or fellowship opportunities with Mozilla are required to give us a name, street address, telephone number, email address, and resume, and sometimes additional information as well. We use this information to process and evaluate applications and to communicate with applicants about opportunities. We use [Greenhouse](https://www.greenhouse.io/privacy-policy) to handle employment and intern applications, and [Fluxx.io](https://www.fluxx.io/privacy-policy) to handle fellowship and MOSS grant applications.
 
@@ -37,12 +37,12 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * We use certain device information such as country, language, operator and OEM, to customize your experience.
 
 * **Metrics**: We may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
-    * Mozilla Glean, our first-party telemetry and analytics platform.  You can learn more about the specific types of data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
+    * Mozilla Glean, our first-party telemetry and analytics platform. You can learn more about the specific types of data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
     * Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
     * Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
-  
+ 
 * **Fraud Prevention**: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the [Google Privacy Policy](https://www.google.com/intl/policies/privacy/) and [Terms of Use](https://policies.google.com/terms).
 
 ---------------------------------------
@@ -55,12 +55,12 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 * **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. In addition, if you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://www.mozilla.org/privacy/websites/#data-tools) section.
 
-* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/), or for Thunderbird’s newsletter, on the [Thunderbird website](https://www.thunderbird.net/newsletter/).  
+* **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/), or for Thunderbird’s newsletter, on the [Thunderbird website](https://www.thunderbird.net/newsletter/).
 
 
 * **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     * Mozilla first-party tools: [Opt out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
-    * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google account).
+    * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google’s ad settings (you will be prompted to sign into your Google account).
     * Convert.com: [Opt out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * ShareProgress and Fathom.com: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
