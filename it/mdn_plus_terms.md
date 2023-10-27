@@ -1,15 +1,15 @@
 ﻿# Termini di servizio MDN Plus
 
-Versione 1.1, in vigore dal mercoledì 24 maggio 2023
-{: datetime="2023-05-24" }
+Versione 1.2, in vigore dal 1 novembre 2023
+{: datetime="2023-11-01" }
 
 MDN Plus è un servizio in abbonamento che fornisce funzionalità premium, come MDN offline, raccolte, temi e aggiornamenti (il "Servizio"). Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo del Servizio.
 
 ## Requisiti di idoneità per usare il Servizio
 
-Devi trovarti in un paese in cui il Servizio è disponibile. Al momento, il Servizio è disponibile negli Stati Uniti, in Canada, nel Regno Unito, in Germania, Francia, Italia, Spagna, Belgio, Austria, Svizzera, Paesi Bassi, Irlanda, Malesia, Nuova Zelanda e Singapore. Per utilizzare il Servizio è necessario un account Firefox.
+Devi trovarti in un paese in cui il Servizio è disponibile. Al momento, il Servizio è disponibile negli Stati Uniti, in Canada, nel Regno Unito, in Germania, Francia, Italia, Spagna, Belgio, Austria, Svizzera, Paesi Bassi, Irlanda, Malesia, Nuova Zelanda e Singapore. Per utilizzare il Servizio è necessario un account Mozilla.
 
-Per creare l'account Firefox, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox/) dell'account Firefox.
+Per creare un account Mozilla, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/mozilla-accounts/) dell'account Mozilla.
 
 ## La tua privacy
 
@@ -38,7 +38,7 @@ __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi a MDN Plus 
 
 ## Puoi annullare l'abbonamento in qualsiasi momento
 
-__Annullamento.__ Puoi annullare il tuo abbonamento a MDN Plus in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure andare alla sezione [Abbonamenti a pagamento](https://subscriptions.firefox.com) del tuo account Firefox e selezionare "Annulla" in corrispondenza di MDN Plus. Se scegli di revocare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione attuale.
+__Annullamento.__ Puoi annullare il tuo abbonamento a MDN Plus in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo oppure andare alla sezione [Abbonamenti a pagamento](https://subscriptions.firefox.com) del tuo account Mozilla e selezionare "Annulla" in corrispondenza di MDN Plus. Se scegli di annullare, il rinnovo automatico si interromperà, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso al servizio al termine del ciclo di fatturazione corrente.
 
 ## Le conseguenze del tuo utilizzo del Servizio ricadono unicamente su di te
 
@@ -56,7 +56,7 @@ __Annullamento.__ Puoi annullare il tuo abbonamento a MDN Plus in qualsiasi mome
 
 * __Mozilla può aggiornare questi termini.__ Di tanto in tanto, Mozilla può decidere di aggiornare i presenti Termini. Le Condizioni aggiornate verranno pubblicate online. L'uso continuato del Servizio implicherà l'accettazione di tali modifiche. All'inizio di questa pagina verrà pubblicata la data di entrata in vigore dei Termini, in modo che sia possibile identificare chiaramente l'aggiornamento più recente.
 
-* __Risoluzione.__ I presenti Termini sono applicabili finché tu o Mozilla non deciderete di revocarli. Puoi scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, terminando l'utilizzo del Servizio e rimuovendo MDN Plus. Mozilla può sospendere o revocare l'accesso di qualunque utente al Servizio in qualsiasi momento e per qualunque ragione, inclusa l'eventuale decisione di Mozilla di cessare il Servizio. Se dovessimo decidere di sospendere o revocare il tuo accesso, cercheremo di avvisarti utilizzando l'indirizzo email associato al tuo account o al tuo successivo tentativo di accesso all'Account.
+* __Risoluzione.__ I presenti Termini sono applicabili finché tu o Mozilla non deciderete di revocarli. Puoi scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, terminando l'utilizzo del Servizio e rimuovendo MDN Plus. Mozilla può sospendere o revocare l'accesso di qualunque utente al Servizio in qualsiasi momento e per qualunque ragione, inclusa l'eventuale decisione di Mozilla di cessare il Servizio. Se dovessimo decidere di sospendere o revocare il tuo accesso, cercheremo di avvisarti utilizzando l'indirizzo email associato al tuo account o al tuo successivo tentativo di accesso all'account.
 
 Se revochiamo il tuo accesso al Servizio senza una causa specifica, potrai continuare ad accedere al Servizio per il ciclo di fatturazione attuale o ti rimborseremo il mese in corso. Tuttavia, ci riserviamo il diritto di revocare il tuo utilizzo del Servizio immediatamente se abbiamo ragionevole motivo di credere che tu abbia violato le Condizioni di utilizzo o abbia altrimenti violato i presenti Termini.
 

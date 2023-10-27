@@ -1,15 +1,15 @@
 ﻿# MDN Plus-Servicebedingungen
 
-Version 1.1, gültig ab Mittwoch, 24. Mai 2023
-{: datetime="2023-05-24" }
+Version 1.2, gültig ab Mittwoch, 1. November 2023
+{: datetime="2023-11-01" }
 
 MDN Plus ist ein Abonnementservice mit Premium-Funktionen, darunter MDN offline, Sammlungen, Themes und Updates. (der „Dienst“). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Diensts erläutert.
 
 ## Sie müssen für die Verwendung dieses Dienstes qualifiziert sein
 
-Sie müssen sich in einem Land befinden, in dem der Dienst verfügbar ist. Derzeit ist der Dienst in den USA, in Kanada, im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, den Niederlanden, Irland, Belgien, Österreich, der Schweiz, Malaysia, Neuseeland und Singapur verfügbar. Für die Nutzung des Dienstes ist ein Firefox-Konto erforderlich.
+Sie müssen sich in einem Land befinden, in dem der Dienst verfügbar ist. Derzeit ist der Dienst in den USA, in Kanada, im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, den Niederlanden, Irland, Belgien, Österreich, der Schweiz, Malaysia, Neuseeland und Singapur verfügbar. Für die Nutzung des Diensts ist ein Mozilla-Konto erforderlich.
 
-Um ein Firefox-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) für Ihr Firefox-Konto zustimmen.
+Um ein Mozilla-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-accounts/) für Ihr Mozilla-Konto zustimmen.
 
 ## Ihre Privatsphäre
 
@@ -38,7 +38,7 @@ __30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie MDN Plus zum ersten Mal über 
 
 ## Sie können Ihr Abonnement jederzeit kündigen
 
-__Kündigung.__ Sie können Ihr MDN Plus-Abonnement jederzeit kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir an Sie senden, oder wechseln zum Bereich [Bezahlte Abonnements](https://subscriptions.firefox.com) in Ihrem Firefox-Konto und klicken bei Ihrem MDN Plus-Abonnement auf „Abonnement kündigen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Dienst am Ende des aktuellen Abrechnungszyklus.
+__Kündigung.__ Sie können Ihr MDN Plus-Abonnement jederzeit kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir an Sie senden, oder wechseln zum Bereich [Bezahlte Abonnements](https://subscriptions.firefox.com) in Ihrem Mozilla-Konto und klicken bei Ihrem MDN Plus-Abonnement auf „Abonnement kündigen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zum Service am Ende des aktuellen Abrechnungszyklus.
 
 ## Sie sind für die Konsequenzen Ihrer Nutzung des Dienstes verantwortlich
 

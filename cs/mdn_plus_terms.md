@@ -1,15 +1,15 @@
 ﻿# Podmínky poskytování služeb MDN Plus
 
-Verze 1.1, platná od 24. května 2023
-{: datetime="2023-05-24" }
+Verze 1.12 platná od 1. listopadu 2023
+{: datetime="2023-11-01" }
 
 MDN Plus se služba předplatného, která poskytuje prémiové funkce, včetně MDN offline, sbírek, motivů a aktualizací. (dále jen „Služby“). Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání Služeb.
 
 ## K využívání Služeb musíte být oprávněni.
 
-Musíte se nacházet v zemi, kde jsou Služby k dispozici. V tuto chvíli jsou služby k dispozici ve Spojených státech amerických, Kanadě, Spojeném království, Německu, Francii, Itálii, Španělsku, Belgii, Rakousku, Švýcarsku, Nizozemí, Irsku, Malajsii, na Novém Zélandu a v Singapuru. K využívání Služeb se vyžaduje Účet Firefox.
+Musíte se nacházet v zemi, kde je služba k dispozici. V tuto chvíli je služba k dispozici ve Spojených státech amerických, Kanadě, Spojeném království, Německu, Francii, Itálii, Španělsku, Belgii, Rakousku, Švýcarsku, Nizozemí, Irsku, Malajsii, na Novém Zélandu a v Singapuru. K využívání služeb se vyžaduje účet Mozilla.
 
-Pro založení Účtu Firefox budete muset rovněž vyslovit souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/about/legal/terms/services/) a [Oznámením](https://www.mozilla.org/privacy/firefox/) pro váš Účet Firefox.
+Pro založení účtu Mozilla budete muset rovněž vyslovit souhlas s [Podmínkami poskytování služeb](https://www.mozilla.org/about/legal/terms/services/) a [Oznámením o ochraně osobních údajů](https://www.mozilla.org/privacy/mozilla-accounts/) pro váš účet Mozilla.
 
 ## Vaše soukromí
 
@@ -38,7 +38,7 @@ __Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k před
 
 ## Své předplatné můžete kdykoliv zrušit.
 
-__Zrušení.__ Své předplatné MDN Plus můžete kdykoliv zrušit. Můžete tak učinit kliknutím na odkaz „Zrušit předplatné“ v kterémkoliv e-mailu, který vám zašleme, nebo tak, že přejdete do části [Placené předplatné](https://subscriptions.firefox.com) ve vašem Účtu Firefox a kliknete na volbu „Zrušit“ u vašeho předplatného MDN Plus. Pokud se rozhodnete pro zrušení, automatické obnovení se zastaví, nebudeme vám účtovat za žádné budoucí platební období a vy ztratíte přístup ke službám po uplynutí stávajícího fakturačního cyklu.
+__Zrušení.__ Své předplatné MDN Plus můžete kdykoliv zrušit. Můžete tak učinit kliknutím na odkaz „Zrušit předplatné“ v kterémkoliv e-mailu, který vám zašleme, nebo tak, že přejdete do části [Placené předplatné](https://subscriptions.firefox.com) ve svém účtu Mozilla a kliknete na volbu „Zrušit“ u svého předplatného MDN Plus. Pokud se rozhodnete pro zrušení, automatické obnovení se zastaví, nebudeme vám účtovat za žádné budoucí platební období a vy ztratíte přístup ke službě po uplynutí stávajícího fakturačního cyklu.
 
 ## Nesete odpovědnost za důsledky vašeho využívání Služeb.
 
@@ -56,7 +56,7 @@ __Zrušení.__ Své předplatné MDN Plus můžete kdykoliv zrušit. Můžete ta
 
 * __Společnost Mozilla může tyto Podmínky aktualizovat.__ Společnost Mozilla se občas může rozhodnout tyto Podmínky aktualizovat. Aktualizované znění Podmínek zveřejníme online. Vaše případné další využívání Služeb budeme považovat za akceptaci těchto změn z vaší strany. V horní části této stránky uvedeme datum účinnosti, aby bylo jasné, kdy byly nejnovější aktualizace zveřejněny.
 
-* __Ukončení.__ Tyto Podmínky platí, dokud se vy nebo společnost Mozilla nerozhodnete je ukončit. Vypovědět je můžete kdykoliv bez udání důvodu tím, že přestanete Služby používat a MDN Plus odstraníte. Společnost Mozilla je oprávněna pozastavit nebo ukončit přístup kohokoliv ke Službám kdykoliv z libovolného důvodu, včetně případu, kdy se společnost Mozilla rozhodne Služby ukončit. Pokud se rozhodneme pozastavit nebo ukončit váš přístup, pokusíme se vás o tom informovat na e-mailovou adresu přiřazenou k vašemu účtu nebo při vašem následujícím pokusu o přístup k vašemu Účtu.
+* __Ukončení.__ Tyto Podmínky platí, dokud se vy nebo společnost Mozilla nerozhodnete je ukončit. Vypovědět je můžete kdykoliv bez udání důvodu tím, že přestanete službu používat a MDN Plus odstraníte. Společnost Mozilla je oprávněna pozastavit nebo ukončit přístup kohokoliv ke službě kdykoliv z libovolného důvodu, včetně případu, kdy se společnost Mozilla rozhodne službu ukončit. Pokud se rozhodneme pozastavit nebo ukončit váš přístup, pokusíme se vás o tom informovat na e-mailovou adresu přiřazenou k vašemu účtu nebo při vašem následujícím pokusu o přístup k vašemu účtu.
 
 Pokud ukončíme váš přístup ke Službám bez konkrétní příčiny, budete mít nadále přístup ke Službám po dobu stávajícího fakturačního období, nebo vám vrátíme částku za aktuální měsíc. Vyhrazujeme si nicméně právo ukončit vaše používání Služeb s okamžitou platností, pokud se rozumně domníváme, že jste se dopustili porušení Podmínek používání, nebo způsobili jakékoliv jiné porušení těchto Podmínek.
 
