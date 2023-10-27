@@ -1,32 +1,32 @@
-﻿# Firefox-cloudservices: Servicevoorwaarden
+﻿# Servicevoorwaarden van de Mozilla-accounts
 
-Laatst bij gewerkt op zondag 10 april 2022
-{: datetime="2022-04-10" }
+Laatst bij gewerkt op woensdag 1 november 2023
+{: datetime="2023-11-01" }
 
 ## Overzicht
 
 Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit overzicht wordt geboden om uw begrip van de voorwaarden te bevorderen. Het is echter van essentieel belang dat u het gehele document leest omdat wanneer u met deze voorwaarden instemt, u aangeeft dat u met alle voorwaarden instemt en niet alleen met dit overzicht.
 
-* Firefox-cloudservices (de Services) is een suite aan services die Mozilla u aanbiedt.
+* Mozilla-accounts (de Services) omvatten uw account en de suite aan services die door Mozilla via dat account voor u worden verzorgd.
 * De Services worden 'in de huidige vorm en staat' aangeboden zonder enige garantie. Er zijn belangrijke limieten van toepassing op de aansprakelijkheid van Mozilla voor eventuele schade die voortvloeit uit uw gebruik van de Services.
 
 ## Servicevoorwaarden
 
 1. #### Inleiding
 
-    Deze Servicevoorwaarden (<u>Voorwaarden</u>) beheersen uw gebruik van Firefox-cloudservices, een suite aan online services die wordt aangeboden door Mozilla (de Services).
+    Deze Servicevoorwaarden ("<u>Voorwaarden</u>") beheersen uw gebruik van Mozilla-accounts, een suite aan online services die wordt aangeboden door Mozilla (de Services).
 
-2. #### Firefox-accounts
+2. #### Mozilla-accounts
 
-    Als u de Services wilt gebruiken, moet u een Firefox-account maken. Tijdens de registratie wordt u gevraagd om een wachtwoord in te stellen. U bent verantwoordelijk voor het vertrouwelijk houden van uw wachtwoord en voor de activiteiten die plaatsvinden via uw Firefox-account. Mozilla is niet verantwoordelijk voor eventuele verliezen die voortvloeien uit ongeautoriseerd gebruik van uw Firefox-account.
+    Als u de Services wilt gebruiken, moet u een Mozilla-account maken. Tijdens de registratie wordt u gevraagd om een wachtwoord in te stellen. U bent verantwoordelijk voor het vertrouwelijk houden van uw wachtwoord en voor de activiteiten die plaatsvinden via uw Mozilla-account. Mozilla is niet verantwoordelijk voor eventuele verliezen die voortvloeien uit ongeautoriseerd gebruik van uw Mozilla-account.
 
 3. #### Services 
 
-    (a) Mozilla VPN is een Virtual Private Network dat wordt verzorgd in samenwerking met [Mullvad](https://mullvad.net/). Er is een Firefox-account vereist.
+    (a) Mozilla VPN is een Virtual Private Network dat wordt verzorgd in samenwerking met [Mullvad](https://mullvad.net/). Er is een Mozilla-account vereist.
     
-    (b) Met Firefox Relay kunt u uw primaire e-mailadres veilig en privé houden ten aanzien van online services. U maakt voor dit doel unieke alias-e-mailadressen waarmee u e-mail kunt verzenden en ontvangen, zonder dat uw primaire e-mailadres bekend wordt. Er is een Firefox-account vereist.
+    (b) Met Firefox Relay kunt u uw primaire e-mailadres veilig en privé houden ten aanzien van online services. U maakt voor dit doel unieke alias-e-mailadressen waarmee u e-mail kunt verzenden en ontvangen, zonder dat uw primaire e-mailadres bekend wordt. Er is een Mozilla-account vereist.
     
-    (c) Firefox Monitor is een informatieve service voor het bevorderen van online veiligheid door u in kennis te stellen van openbare gegevensinbreuken. U kunt e-mailadressen op onze website scannen om de bekendste inbreuken te bekijken. Als u zich inschrijft met een Firefox-account, ontvangt u: 
+    (c) Firefox Monitor is een informatieve service voor het bevorderen van online veiligheid door u in kennis te stellen van openbare gegevensinbreuken. U kunt e-mailadressen op onze website scannen om de bekendste inbreuken te bekijken. Als u zich inschrijft met een Mozilla-account, ontvangt u: 
 
     * Een volledig rapport: Dit omvat een complete lijst met publiekelijk bekende hacks, waaronder inbreuken op vertrouwelijke websites, zoals die voor kinderen of volwassen en datingsites (deze sites worden uitgesloten van websitescans om de privacy van deze personen te beschermen). 
     * Inbreukwaarschuwingen: U wordt gewaarschuwd als uw e-mailadres is opgenomen in een nieuwe gegevensinbreuk. 
@@ -34,9 +34,9 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
     Het is uw verantwoordelijkheid om uw online accounts te beveiligen met sterke en verschillende wachtwoorden, beveiligingsvragen, tweestapsverificatie, wachtwoordbeheerprogramma's en andere veiligheidsmaatregelen. Hoewel Firefox Monitor en [Have I Been Pwned?](https://haveibeenpwned.com/) streven naar actuele informatie, is er geen garantie dat ze over volledige en tijdige informatie beschikken met betrekking tot alle openbare gegevensinbreuken. 
 
-    (d) Met Firefox Notes kunt u aantekeningen maken in Firefox. Er is een Firefox-account vereist voor het weergeven, bewerken en verwijderen van uw aantekeningen op apparaten. 
+    (d) Met Firefox Notes kunt u aantekeningen maken in Firefox. Er is een Mozilla-account vereist voor het weergeven, bewerken en verwijderen van uw aantekeningen op apparaten. 
 
-    (e) Firefox sync biedt u toegang tot informatie op meerdere apparaten die in Firefox is opgeslagen, waaronder uw tabbladen, werkbalk, wachtwoorden, bladwijzers en browservoorkeuren. U kunt Firefox sync inschakelen of uitschakelen via de sectie Instellingen van Firefox. Er is een Firefox-account vereist. 
+    (e) Firefox sync biedt u toegang tot informatie op meerdere apparaten die in Firefox is opgeslagen, waaronder uw tabbladen, werkbalk, wachtwoorden, bladwijzers en browservoorkeuren. U kunt Firefox sync inschakelen of uitschakelen via de sectie Instellingen van Firefox. Er is een Mozilla-account vereist. 
     
     (f) Pocket helpt u fantastische content te ontdekken die is afgestemd op uw persoonlijke interesses en om deze content op te slaan, zodat u deze later, wanneer u maar wilt, op welk apparaat dan ook kunt bekijken. 
 
@@ -50,10 +50,11 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Communicatie
 
-    We sturen periodiek berichten om u te helpen optimaal van uw Firefox-account te profiteren. U kunt deze in het product ontvangen of via het e-mailadres waarmee u zich hebt geregistreerd. Deze berichten gaan over ingebruikname, verschillende Firefox-accountservices en gerelateerd aanbiedingen en enquêtes. U ontvangt mogelijk ook andere typen e-mailberichten. 
+    We sturen periodiek berichten om u te helpen optimaal van uw Mozilla-account te profiteren. U kunt deze in het product ontvangen of via het e-mailadres waarmee u zich hebt geregistreerd. Deze berichten gaan over ingebruikname, verschillende Mozilla-accountservices en gerelateerde aanbiedingen en enquêtes. U ontvangt mogelijk ook andere typen e-mailberichten. 
     
     U kunt uw e-mailabonnementen bij Mozilla wijzigen via onze e-mails (klik hiertoe op de link onderaan de e-mail) of via de browser (ga naar Firefox / Voorkeuren / Sync / Account beheren / E-mailvoorkeuren).
     
@@ -70,9 +71,9 @@ U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – L
 
 8. #### Termijn; Beëindiging
 
-    Deze Voorwaarden blijven van kracht totdat deze door u of Mozilla worden opgezegd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw Firefox-account te verwijderen en, indien van toepassing, u uit te schrijven voor onze e-mails. 
+    Deze Voorwaarden blijven van kracht totdat deze door u of Mozilla worden opgezegd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw Mozilla-account te verwijderen en, indien van toepassing, u uit te schrijven voor onze e-mails. 
 
-    We kunnen uw toegang tot de Services op elk gewenst moment om welke reden dan ook opschorten of beëindigen, waaronder, maar niet beperkt tot, indien we reden hebben te veronderstellen dat: (i) u deze Voorwaarden hebt geschonden, (ii) u een risico of mogelijke juridische blootstelling voor ons in het leven hebt geroepen; of (iii) het aan u aanbieden van de Services voor ons niet langer commercieel levensvatbaar is. We zullen ons redelijke inspanningen getroosten om u in kennis te stellen via het e-mailadres dat aan uw Firefox-account is gekoppeld of de volgende keer dat u probeert toegang te krijgen tot de Services.
+    We kunnen uw toegang tot de Services op elk gewenst moment om welke reden dan ook opschorten of beëindigen, waaronder, maar niet beperkt tot, indien we reden hebben te veronderstellen dat: (i) u deze Voorwaarden hebt geschonden, (ii) u een risico of mogelijke juridische blootstelling voor ons in het leven hebt geroepen; of (iii) het aan u aanbieden van de Services voor ons niet langer commercieel levensvatbaar is. We zullen ons redelijke inspanningen getroosten om u in kennis te stellen via het e-mailadres dat aan uw Mozilla-account is gekoppeld of de volgende keer dat u probeert toegang te krijgen tot de Services.
 
     In al dergelijke gevallen zullen deze Voorwaarden worden beëindigd, inclusief, maar niet beperkt tot, uw licentie tot het gebruik van de Services, met uitzondering van de volgende secties, die onverminderd van kracht zullen blijven: Vrijwaring, Disclaimer, Beperking van aansprakelijkheid, Diversen.
 

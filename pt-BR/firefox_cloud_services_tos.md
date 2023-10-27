@@ -1,32 +1,32 @@
-﻿# Firefox Cloud Services: Termos de serviço
+﻿# Termos de serviço das contas da Mozilla
 
-Última atualização em domingo, 10 de abril de 2022
-{: datetime="2022-04-10" }
+Última atualização em quarta-feira, 1 de novembro de 2023
+{: datetime="2023-11-01" }
 
 ## Resumo
 
 Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreender os termos, mas certifique-se de ler o documento integralmente, pois, ao concordar com o documento, você estará aceitando todos os termos, não apenas este resumo.
 
-* O Firefox Cloud Services (os "Serviços") é um pacote de serviços prestados pela Mozilla a você.
+* As contas da Mozilla (os "Serviços") incluem sua conta e o pacote de serviços fornecidos para você pela Mozilla usando essa conta.
 * Os Serviços são prestados no estado em que se encontram e não há garantias de espécie alguma. Há limitações significativas de responsabilidade da Mozilla por quaisquer danos resultantes do seu uso dos Serviços.
 
 ## Termos de serviço
 
 1. #### Introdução
 
-    Estes Termos de serviço ("<u>Termos</u>") regerão seu uso do Firefox Cloud Services, um pacote de serviços on-line fornecidos pela Mozilla (os "Serviços").
+    Estes Termos de serviço ("<u>Termos</u>") regerão seu uso das contas da Mozilla, um pacote de serviços on-line fornecidos pela Mozilla (os "Serviços").
 
-2. #### Contas do Firefox
+2. #### Contas da Mozilla
 
-    Para usar alguns dos Serviços, você precisará criar uma conta do Firefox. Durante o registro, será solicitado que você configure uma senha. Você é responsável por manter sua senha em sigilo e pela atividade na conta do Firefox. A Mozilla não é responsável por quaisquer perdas resultantes do uso não autorizado de sua conta do Firefox.
+    Para usar alguns dos Serviços, você precisará criar uma conta da Mozilla. Durante o registro, será solicitado que você configure uma senha. Você é responsável por manter sua senha em sigilo e pela atividade na conta da Mozilla. A Mozilla não é responsável por quaisquer perdas resultantes do uso não autorizado de sua conta dela.
 
 3. #### Serviços 
 
-    (a) A VPN da Mozilla é uma rede privada virtual em parceria com a [Mullvad](https://mullvad.net/). É necessário ter uma conta do Firefox.
+    (a) A VPN da Mozilla é uma rede privada virtual em parceria com a [Mullvad](https://mullvad.net/). É necessário ter uma conta da Mozilla.
     
-    (b) O Firefox Relay mantém seu endereço de e-mail principal seguro e oculto de serviços on-line criando endereços de e-mail de alias exclusivos que permitem enviar e receber e-mails sem revelar o endereço principal. É necessário ter uma conta do Firefox.
+    (b) O Firefox Relay mantém seu endereço de e-mail principal seguro e oculto de serviços on-line criando endereços de e-mail de alias exclusivos que permitem enviar e receber e-mails sem revelar o endereço principal. É necessário ter uma conta da Mozilla.
     
-    (c) O Firefox Monitor é um serviço de informações que promove a segurança on-line informando sobre violações de dados. É possível verificar endereços de e-mail no nosso site para ver as violações mais comuns. Se você se inscrever em uma conta do Firefox, receberá: 
+    (c) O Firefox Monitor é um serviço de informações que promove a segurança on-line informando sobre violações de dados. É possível verificar endereços de e-mail no nosso site para ver as violações mais comuns. Se você criar uma conta da Mozilla, receberá: 
 
     * Um relatório completo: com uma lista completa de invasões conhecidas, inclusive violações de sites confidenciais, como sites infantis ou adultos e de namoro (esses sites não são verificados, a fim de proteger a privacidade dos indivíduos). 
     * Alertas de violações: esses alertas avisam caso seu endereço de e-mail seja envolvido em uma violação de dados. 
@@ -34,9 +34,9 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
     É sua responsabilidade proteger suas contas on-line usando senhas fortes e diferentes, perguntas de segurança, autenticação de dois fatores, gerenciadores de senhas e outras medidas de segurança. Embora o Firefox Monitor e o [Have I Been Pwned?](https://haveibeenpwned.com/) tentem obter dados atuais, não é garantido que eles tenham registros completos e atuais de todas as violações públicas de dados. 
 
-    (d) O Firefox Notes permite fazer anotações no Firefox. É necessário ter uma conta do Firefox para visualizar, editar e excluir suas notas em diferentes dispositivos. 
+    (d) O Firefox Notes permite que você faça anotações no Firefox. É necessário ter uma conta da Mozilla para visualizar, editar e excluir suas notas em diferentes dispositivos. 
 
-    (e) O Firefox Sync permite acessar informações armazenadas no Firefox entre dispositivos, incluindo abas, awesome bar, senhas, favoritos e preferências do navegador. Você pode ativar e desativar o Firefox Sync na seção "Configurações" do Firefox. É necessário ter uma conta do Firefox. 
+    (e) O Firefox Sync permite acessar informações armazenadas no Firefox entre dispositivos, incluindo abas, awesome bar, senhas, favoritos e preferências do navegador. Você pode ativar e desativar o Firefox Sync na seção "Configurações" do Firefox. É necessário ter uma conta da Mozilla. 
     
     (f) O Pocket ajuda a descobrir conteúdo personalizado de acordo com seus interesses e salvá-lo para que você possa acessá-lo posteriormente em qualquer dispositivo a qualquer momento. 
 
@@ -50,10 +50,11 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [VPN da Mozilla](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Comunicações
 
-    Enviamos mensagens periódicas para ajudar você a aproveitar sua conta do Firefox ao máximo. Você as receberá no produto ou pelo endereço de e-mail da sua conta do Firefox. Essas mensagens podem ser sobre integração, diferentes serviços da conta do Firefox, e ofertas e pesquisas relacionadas. Você também pode optar por receber outros tipos de mensagem de e-mail. 
+    Enviamos mensagens periódicas para ajudar você a aproveitar sua conta da Mozilla ao máximo. Você as receberá no produto ou pelo endereço de e-mail da sua conta da Mozilla. Essas mensagens podem ser sobre integração, diferentes serviços da conta, e ofertas e pesquisas relacionadas. Você também pode optar por receber outros tipos de mensagem de e-mail. 
     
     Você pode alterar suas inscrições de e-mail com a Mozilla diretamente em nossos e-mails (clique no link na parte inferior) ou pelo navegador (no Firefox, acesse: Preferências > Sync > Gerenciar conta > Preferências de e-mail).
     
@@ -70,9 +71,9 @@ Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla
 
 8. #### Vigência e rescisão
 
-    Estes Termos continuarão aplicáveis até que sejam finalizados por você ou pela Mozilla. Você pode decidir encerrá-los a qualquer momento e por qualquer motivo excluindo sua conta do Firefox, interrompendo seu uso dos Serviços e, se aplicável, cancelando o recebimento dos nossos e-mails. 
+    Estes Termos continuarão aplicáveis até que sejam finalizados por você ou pela Mozilla. Você pode decidir encerrá-los a qualquer momento e por qualquer motivo excluindo sua conta da Mozilla, interrompendo seu uso dos Serviços e, se aplicável, cancelando o recebimento dos nossos e-mails. 
 
-    Podemos suspender ou encerrar seu acesso aos Serviços a qualquer momento e por qualquer motivo, incluindo, mas sem limitação, caso tenhamos justificativa para acreditar que: (i) você violou estes Termos, (ii) você gera risco ou possível exposição legal para nós; ou (iii) nossa prestação dos Serviços a você não é mais comercialmente viável. Envidaremos todos os esforços cabíveis para notificá-lo pelo endereço de e-mail associado à sua conta do Firefox ou na próxima vez em que você tentar acessar os Serviços.
+    Podemos suspender ou encerrar seu acesso aos Serviços a qualquer momento e por qualquer motivo, incluindo, mas sem limitação, caso tenhamos justificativa para acreditar que: (i) você violou estes Termos; (ii) você gera risco ou possível exposição legal para nós; ou (iii) nossa prestação dos Serviços a você não é mais comercialmente viável. Envidaremos todos os esforços cabíveis para avisar você pelo endereço de e-mail associado à sua conta da Mozilla ou na próxima vez em que você tentar acessar os Serviços.
 
     Em todos os casos, estes Termos encerrarão, incluindo, mas sem limitação, sua licença de uso dos Serviços, exceto se as seguintes seções continuarem aplicáveis: Indenização, Isenção de responsabilidade e limite de responsabilidade e Disposições gerais.
 
