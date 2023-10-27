@@ -1,15 +1,15 @@
 ﻿# Warunki korzystania z usługi MDN Plus
 
-Wersja 1.1, obowiązuje od 24 maja 2023 r.
-{: datetime="2023-05-24" }
+Wersja 1.2, obowiązuje od 1 listopada 2023 r.
+{: datetime="2023-11-01" }
 
 MDN Plus to usługa subskrypcji zapewniająca funkcjonalność premium, w tym MDN offline, kolekcje, motywy i aktualizacje („Usługa”). Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usługi przez użytkownika.
 
 ## Użytkownik musi być uprawniony do korzystania z Usługi
 
-Użytkownik musi znajdować się w kraju, w którym Usługa jest dostępna. Obecnie Usługa jest dostępna w Stanach Zjednoczonych, Kanadzie, Wielkiej Brytanii, Niemczech, Francji, Włoszech, Hiszpanii, Belgii, Austrii, Szwajcarii, Holandii, Irlandii, Malezji, Nowej Zelandii i Singapurze. Do korzystania z Usługi wymagane jest posiadanie konta Firefox.
+Użytkownik musi znajdować się w kraju, w którym Usługa jest dostępna. Obecnie Usługa jest dostępna w Stanach Zjednoczonych, Kanadzie, Wielkiej Brytanii, Niemczech, Francji, Włoszech, Hiszpanii, Belgii, Austrii, Szwajcarii, Holandii, Irlandii, Malezji, Nowej Zelandii i Singapurze. Do korzystania z Usługi wymagane jest posiadanie konta Mozilla.
 
-Aby utworzyć konto Firefox, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady](https://www.mozilla.org/privacy/firefox/) dotyczące konta Firefox.
+Aby utworzyć konto Mozilla, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/mozilla-accounts/) dotyczące konta Mozilla.
 
 ## Prywatność użytkownika
 
@@ -38,7 +38,7 @@ __Zasady zwrotu kosztów w ciągu 30 dni.__ Przy pierwszej subskrypcji usługi M
 
 ## Subskrypcję można anulować w dowolnym momencie
 
-__Anulowanie.__ Subskrypcję usługi MDN Plus można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail lub przechodząc do sekcji [Płatne subskrypcje](https://subscriptions.firefox.com) na swoim koncie i klikając opcję „Anuluj” dla subskrypcji usługi MDN Plus. Jeśli użytkownik zdecyduje się zrezygnować, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do usługi z końcem bieżącego cyklu rozliczeniowego.
+__Anulowanie.__ Subskrypcję usługi MDN Plus można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail lub przechodząc do sekcji [Płatne subskrypcje](https://subscriptions.firefox.com) na swoim koncie Mozilla i klikając opcję „Anuluj” dla subskrypcji usługi MDN Plus. Jeśli użytkownik zdecyduje się na anulowanie, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do usługi z końcem bieżącego cyklu rozliczeniowego.
 
 ## Użytkownik ponosi odpowiedzialność za konsekwencje korzystania z Usługi
 
@@ -56,7 +56,7 @@ __Anulowanie.__ Subskrypcję usługi MDN Plus można anulować w dowolnym momenc
 
 * __Mozilla może zaktualizować niniejsze Warunki.__ Od czasu do czasu Mozilla może zaktualizować niniejsze Warunki. Zaktualizowane Warunki opublikujemy online. Dalsze korzystanie z Usługi przez użytkownika będzie traktowane jako akceptacja takich zmian. Na górze tej strony umieścimy datę wejścia w życie, aby było jasne, kiedy dokonaliśmy ostatniej aktualizacji.
 
-* __Rozwiązanie.__ Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z Usługi i usunięcie usługi MDN Plus. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do Usługi z dowolnej przyczyny, łącznie z zakończeniem świadczenia Usługi. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do Usługi.
+* __Rozwiązanie.__ Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z Usługi i usunięcie usługi MDN Plus. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do Usługi z dowolnej przyczyny, łącznie z zakończeniem świadczenia Usługi. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do konta.
 
 Jeśli zakończymy dostęp użytkownika do Usługi bez podania przyczyny, użytkownik będzie miał nadal dostęp do Usługi w bieżącym okresie rozliczeniowym lub zwrócimy opłatę za bieżący miesiąc. Zastrzegamy sobie jednak prawo do natychmiastowego zakończenia korzystania z Usługi przez użytkownika, jeśli mamy uzasadnione powody sądzić, że naruszył on Warunki korzystania z usługi lub w inny sposób naruszył niniejsze Warunki.
 

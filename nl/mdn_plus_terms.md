@@ -1,15 +1,15 @@
 ﻿# Servicevoorwaarden van MDN Plus
 
-Versie 1.1, van kracht vanaf woensdag 24 mei 2023
-{: datetime="2023-05-24" }
+Versie 1.2, van kracht vanaf woensdag 1 november 2023
+{: datetime="2023-11-01" }
 
 MDN Plus is een abonnementsservice die premium functionaliteit verzorgt, waaronder MDN offline, collecties, thema's en updates. (de Service). Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Service.
 
 ## U moet in aanmerking komen om de Service te gebruiken
 
-U moet zich in een land bevinden waarin de Service beschikbaar is. De service is momenteel beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Nederlands, Ierland, Maleisië, New Zeeland, en Singapore. Voor het gebruik van de Service is een Firefox-account vereist.
+U moet zich in een land bevinden waarin de Service beschikbaar is. De service is momenteel beschikbaar in de Verenigde Staten, Canada, het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Nederlands, Ierland, Maleisië, New Zeeland, en Singapore. Voor het gebruik van de Service is een Mozilla-account vereist.
 
-Als u een Firefox-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en [Verklaring](https://www.mozilla.org/privacy/firefox/) voor uw Firefox-account.
+Als u een Mozilla-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en de [Privacyverklaring](https://www.mozilla.org/privacy/mozilla-accounts/) voor uw Mozilla-account.
 
 ## Uw privacy
 
@@ -38,7 +38,7 @@ __Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van 
 
 ## U kunt uw abonnement op elk gewenst moment opzeggen
 
-__Opzegging.__ U kunt uw abonnement op MDN Plus op elk gewenst moment opzeggen. U kunt dit doen door op de link Abonnement opzeggen te klikken in de e-mail die u van ons ontvangt of door naar de sectie [Betaalde abonnementen](https://subscriptions.firefox.com) van uw Firefox-account te gaan en op Annuleren te klikken voor uw MDN Plus-abonnement. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de service aan het einde van de huidige factureringscyclus.
+__Opzegging.__ U kunt uw abonnement op MDN Plus op elk gewenst moment opzeggen. U kunt dit doen door op de link Abonnement opzeggen te klikken in de e-mail die u van ons ontvangt of door naar de sectie [Betaalde abonnementen](https://subscriptions.firefox.com) van uw Mozilla-account te gaan en op Annuleren te klikken voor uw MDN Plus-abonnement. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de Service aan het einde van de huidige factureringscyclus.
 
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van de Service
 
@@ -56,7 +56,7 @@ __Opzegging.__ U kunt uw abonnement op MDN Plus op elk gewenst moment opzeggen. 
 
 * __Mozilla kan deze Voorwaarden bijwerken.__ Mozilla kan er van tijd tot tijd toe toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. Uw voortgezette gebruik van de Service wordt opgevat als uw aanvaarding van dergelijke wijzigingen. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer onze recentste update is uitgevoerd.
 
-* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van Service te staken en MDN Plus te verwijderen. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Service op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Service te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw Account.
+* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Service te staken en MDN Plus te verwijderen. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Service op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Service te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
 
 Als we uw toegang tot de Service beëindigen zonder specifieke oorzaak, blijft u gedurende de huidige factureringsperiode toegang tot de Service houden of betalen we u de huidige maand terug. We behouden ons echter het recht voor om uw gebruik van de Service onmiddellijk te beëindigen als we er in alle redelijkheid van overtuigd zijn dat u de Gebruiksvoorwaarden hebt geschonden of dat u deze Voorwaarden anderszins hebt geschonden.
 
