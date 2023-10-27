@@ -1,6 +1,6 @@
 ﻿# Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-Version 1.2, effective November 1, 2023
+1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
 {: datetime="2023-11-01" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).

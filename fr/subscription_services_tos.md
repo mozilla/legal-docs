@@ -1,6 +1,6 @@
 ﻿# Services d’abonnements Mozilla - Conditions d’utilisation
 
-Version 1.2, effective November 1, 2023
+Version 1.2 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).

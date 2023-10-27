@@ -1,6 +1,6 @@
 ﻿# Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
 
-Version 1.2, effective November 1, 2023
+Versiunea 1.2, în vigoare de la 1 noiembrie 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation oferă diverse servicii pentru a vă îmbunătăți confidențialitatea și securitatea online, inclusiv Mozilla VPN și Firefox Relay ("Serviciile").

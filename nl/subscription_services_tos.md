@@ -1,6 +1,6 @@
 ﻿# Mozilla Abonnementsservices | Servicevoorwaarden
 
-Version 1.2, effective November 1, 2023
+Versie 1.2, van kracht vanaf woensdag 1 november 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").

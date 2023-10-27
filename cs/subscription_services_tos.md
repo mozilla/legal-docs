@@ -1,6 +1,6 @@
 ﻿# Odběr služeb Mozilla | Podmínky služby
 
-Version 1.2, effective November 1, 2023
+Verze 1.2, platná od 1. listopadu 2023
 {: datetime="2023-11-01" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).

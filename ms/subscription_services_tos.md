@@ -1,6 +1,6 @@
 ﻿# Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Version 1.2, effective November 1, 2023
+Versi 1.2, berkuat kuasa pada 1 Nov 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).

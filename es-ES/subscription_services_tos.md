@@ -1,6 +1,6 @@
 ﻿# Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Version 1.2, effective November 1, 2023
+Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).

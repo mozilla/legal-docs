@@ -1,6 +1,6 @@
 ﻿# Mozilla Abonnementdienste | Servicebedingungen
 
-Version 1.2, effective November 1, 2023
+Version 1.2, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }
 
 Mozilla Corporation bietet verschiedene Dienste an, um den Datenschutz und Ihre Sicherheit online zu verbessern, darunter Mozilla VPN und Firefox Relay (die „Dienste“).
