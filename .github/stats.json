@@ -322,9 +322,16 @@
     ]
   },
   "mozilla_accounts_privacy_notice.md": {
-    "count": 1,
+    "count": 8,
     "locales": [
-      "de"
+      "fr",
+      "id",
+      "it",
+      "ja",
+      "nl",
+      "pl",
+      "ru",
+      "zh-CN"
     ]
   },
   "mozilla_privacy_policy.md": {
