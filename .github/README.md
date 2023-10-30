@@ -15,7 +15,7 @@ List of translated files (number of locales between parentheses):
 * hubs_tos.md (10)
 * mdn_plus_privacy.md (14)
 * mdn_plus_terms.md (14)
-* mozilla_accounts_privacy_notice.md (8)
+* mozilla_accounts_privacy_notice.md (12)
 * mozilla_privacy_policy.md (13)
 * mozilla_vpn_privacy_notice.md (6)
 * mozilla_vpn_tos.md (6)
