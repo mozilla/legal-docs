@@ -61,7 +61,7 @@ __Furnizorii de servicii de căutare:__ Puteți căuta imagini, GIF-uri și mode
 
 __X (fostul Twitter):__ Dacă vă conectați X la Hubs, puteți trimite pe X (Twitter) și partaja imagini 2D din camerele Hubs. Orice conținut pe care îl veți posta pe X va fi partajat cu X și publicat pe platforma X. Pentru mai multe informații, puteți consulta [Politica de confidențialitate a X](https://twitter.com/privacy).
 
-__Discord:__ Dacă conectați Discord la Hubs, stocăm token-urile de acces și ID-urile de server și de canal care au fost conectate. Vom sincroniza mesajele de chat, schimbările din cameră, obiectele 2D și 3D pe care le creați și dacă intrați sau ieșiți din cameră cu canalul Discord conectat. Hubs nu înregistrează niciun mesaj sincronizat. Puteți consulta [Notificarea privind confidențialitatea Discord ](https://discordapp.com/privacy) pentru informații suplimentare.
+__Discord:__ Dacă conectați Discord la Hubs, stocăm token-urile de acces și ID-urile de server și de canal care au fost conectate. Vom sincroniza mesajele de chat, schimbările din cameră, obiectele 2D și 3D pe care le creați și dacă intrați sau ieșiți din cameră cu canalul Discord conectat. Hubs nu înregistrează niciun mesaj sincronizat. Puteți consulta [Notificarea privind confidențialitatea Discord](https://discordapp.com/privacy) pentru informații suplimentare.
 
 ## Alte informații pe care ar trebui să le știți
 

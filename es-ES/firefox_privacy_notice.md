@@ -59,7 +59,7 @@ Firefox muestra contenido como recomendaciones de complementos, sitios populares
 
 ### Mejorar la seguridad para todos los usuarios {: #security }
 
-**Datos de páginas web para el servicio de resolución de DNS**: Para [algunos usuarios de Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox dirige las solicitudes de DNS a un servicio de resolución que cumple las [estrictas normas de privacidad establecidas por Mozilla para los servicios de resolución de DNS](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan con fines de resolución de DNS. [Para obtener información detallada, visite la siguiente página ](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o consulte las páginas web de nuestros proveedores predeterminados de servicios de resolución de DNS indicadas a continuación:
+**Datos de páginas web para el servicio de resolución de DNS**: Para [algunos usuarios de Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox dirige las solicitudes de DNS a un servicio de resolución que cumple las [estrictas normas de privacidad establecidas por Mozilla para los servicios de resolución de DNS](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan con fines de resolución de DNS. [Para obtener información detallada, visite la siguiente página](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o consulte las páginas web de nuestros proveedores predeterminados de servicios de resolución de DNS indicadas a continuación:
 
 * [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
 * [__NextDNS__](https://nextdns.io/privacy)
@@ -115,7 +115,7 @@ Los usuarios de EE. UU. pueden habilitar el verificador de reseñas, nuestra gu
 
 * __Datos técnicos y de interacción__: Si activa la sincronización, Firefox enviará de forma periódica información básica mediante telemetría sobre los intentos de sincronización de sus datos más recientes, como por ejemplo, cuándo se produjo, si llegó a completarse o no y qué tipo de dispositivo está intentando sincronizar. Para leer los documentos correspondientes, [haga clic aquí](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
 
-[Haga clic aquí ](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), si desea obtener información sobre la sincronización, así como las instrucciones para activar y desactivarla.
+[Haga clic aquí](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), si desea obtener información sobre la sincronización, así como las instrucciones para activar y desactivarla.
 
 ### Ubicación {: #location-services }
 

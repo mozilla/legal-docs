@@ -101,7 +101,7 @@ Firefox verzendt standaard HTTP-gegevens aan Mozilla die mogelijk zijn opgenomen
 
 ### Mozilla-accounts {: #Mozilla-accounts }
 
-Mozilla ontvangt registratiegegevens, locatiegegevens, interactiegegevens en technische gegevens wanneer u een Mozilla-account maakt en gebruikt. Zie de [Privacykennisgeving voor Mozilla-accounts ](https://www.mozilla.org/privacy/mozilla-accounts/) voor meer informatie.
+Mozilla ontvangt registratiegegevens, locatiegegevens, interactiegegevens en technische gegevens wanneer u een Mozilla-account maakt en gebruikt. Zie de [Privacykennisgeving voor Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/) voor meer informatie.
 
 ### Beoordelingscontrole {: #review-checker }
 

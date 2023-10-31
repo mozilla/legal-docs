@@ -63,7 +63,7 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 
-    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için ](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
+    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
 
 7. #### Mozilla'nın Mülkiyet Hakları
 

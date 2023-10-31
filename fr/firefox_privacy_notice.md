@@ -101,7 +101,7 @@ Par défaut, Firefox envoie à Mozilla les données HTTP qui peuvent être inclu
 
 ### Comptes Mozilla {: #Mozilla-accounts }
 
-Mozilla reçoit les données d’inscription, de localisation, d’interaction et techniques lorsque vous créez et utilisez un compte Mozilla. Consultez la [Politique de confidentialité des comptes Mozilla ](https://www.mozilla.org/privacy/mozilla-accounts/) pour en savoir plus.
+Mozilla reçoit les données d’inscription, de localisation, d’interaction et techniques lorsque vous créez et utilisez un compte Mozilla. Consultez la [Politique de confidentialité des comptes Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/) pour en savoir plus.
 
 ### Vérificateur d’avis {: #review-checker }
 
