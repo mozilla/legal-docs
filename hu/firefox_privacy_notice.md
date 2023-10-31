@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
 *Hatályos: 2023. november 1-től*
 {: datetime="2023-11-01" }

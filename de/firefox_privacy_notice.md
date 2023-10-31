@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
 *Gültig ab Mittwoch, 1. November 2023*
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de Privacidade</span>do Firefox
+## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de Privacidade</span>do Firefox
 
 *Data de vigência: 1o de novembro de 2023*
 {: datetime="2023-11-01" }
