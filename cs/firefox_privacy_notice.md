@@ -11,7 +11,7 @@ V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje F
 
 ## V souladu s výchozím nastavením společnost Mozilla zpracovává vaše osobní údaje z Firefoxu za účelem:
 
-### Zlepšení funkcí, zvýšení výkonu a stability pro uživatele na celém světě{: #health-report }
+### Zlepšení funkcí, zvýšení výkonu a stability pro uživatele na celém světě {: #health-report }
 
 * __Údaje o interakci__: Firefox nám zasílá data o vaší interakci s Firefoxem (jako jsou počet otevřených panelů, počet navštívených webových stránek, počet a typ nainstalovaných doplňků ve Firefoxu a délka relace) a s funkcemi Firefoxu nabízenými společností Mozilla nebo našimi partnery (jako jsou interakce s funkcemi vyhledávání ve Firefoxu a s odkazy na vyhledávané partnery).
 
@@ -117,7 +117,7 @@ Uživatelé v USA mohou zrušit svůj souhlas se službou Kontrola recenzí, na�
 
 [Podrobnější informace](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), včetně postupu povolení nebo zakázání synchronizace.
 
-### Umístění{: #location-services }
+### Umístění {: #location-services }
 
 * __Údaje o místě pro službu geolokace společnosti Google__: Před určením a sdílením vaší pozice s webovou stránkou se vás Firefox vždy dotáže (např. pokud webová stránka s mapou potřebuje znát vaše místo pro vaši navigaci). Ke stanovení místa může Firefox používat funkci geolokace vašeho operačního systému, Wi-Fi sítě, vysílače mobilní sítě nebo IP adresy, a tyto údaje může zasílat službě geolokace společnosti Google, která má své vlastní [zásady ochrany osobních údajů](https://www.google.com/privacy/lsf.html).
 
