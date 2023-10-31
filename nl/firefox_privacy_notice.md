@@ -1,4 +1,4 @@
-﻿## Privacykennisgeving</span> voor <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">
+## Privacykennisgeving</span> voor <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">
 
 *Van kracht vanaf 1 november 2023*
 {: datetime="2023-11-01" }

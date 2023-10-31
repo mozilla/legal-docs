@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Уведомление о конфиденциальности</span> <span class="privacy-header-policy">Firefox</span>
+## <span class="privacy-header-firefox">Уведомление о конфиденциальности</span> <span class="privacy-header-policy">Firefox</span>
 
 *Дата вступления в силу: 1 ноября 2023 г.*
 {: datetime="2023-11-01" }

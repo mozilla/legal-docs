@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox - </span> <span class="privacy-header-policy">Politique de confidentialité</span>
+## <span class="privacy-header-firefox">Firefox - </span> <span class="privacy-header-policy">Politique de confidentialité</span>
 
 *Date d’effet : mercredi 1er novembre 2023*
 {: datetime="2023-11-01" }

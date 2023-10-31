@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
+## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
 *2023 年 11 月 1 日生效*
 {: datetime="2023-11-01" }

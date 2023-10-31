@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Zasady prywatności</span> <span class="privacy-header-policy"> przeglądarki Firefox</span>
+## <span class="privacy-header-firefox">Zasady prywatności</span> <span class="privacy-header-policy"> przeglądarki Firefox</span>
 
 *Data wejścia w życie: 1 listopada 2023 r.*
 {: datetime="2023-11-01" }

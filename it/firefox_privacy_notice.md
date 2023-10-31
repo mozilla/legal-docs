@@ -1,4 +1,4 @@
-﻿## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
+## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
 *In vigore dal 1 novembre 2023*
 {: datetime="2023-11-01" }
