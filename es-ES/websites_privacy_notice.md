@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad sobre sitios web, comunicaciones y cookies
+# Aviso de privacidad sobre sitios web, comunicaciones y cookies
 
 miércoles, 8 de marzo de 2023
 {: datetime="2023-03-08" }

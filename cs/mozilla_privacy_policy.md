@@ -1,4 +1,4 @@
-﻿# Zásady Mozilly pro ochranu osobních údajů
+# Zásady Mozilly pro ochranu osobních údajů
 
 9. září 2020
 {: datetime="2020-09-09" }

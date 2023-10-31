@@ -1,4 +1,4 @@
-﻿# Podmínky poskytování služeb MDN Plus
+# Podmínky poskytování služeb MDN Plus
 
 Verze 1.12 platná od 1. listopadu 2023
 {: datetime="2023-11-01" }

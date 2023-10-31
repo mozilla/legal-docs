@@ -1,4 +1,4 @@
-﻿# Odběr služeb Mozilla | Podmínky služby
+# Odběr služeb Mozilla | Podmínky služby
 
 Verze 1.2, platná od 1. listopadu 2023
 {: datetime="2023-11-01" }

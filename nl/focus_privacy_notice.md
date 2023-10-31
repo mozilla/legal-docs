@@ -1,4 +1,4 @@
-﻿# Privacyverklaring van Firefox Focus en Klar
+# Privacyverklaring van Firefox Focus en Klar
 
 14 oktober 2021
 {: datetime="2021-10-14" }

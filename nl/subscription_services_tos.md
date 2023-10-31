@@ -1,4 +1,4 @@
-﻿# Mozilla Abonnementsservices | Servicevoorwaarden
+# Mozilla Abonnementsservices | Servicevoorwaarden
 
 Versie 1.2, van kracht vanaf woensdag 1 november 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Services d’abonnement Mozilla | Avis de confidentialité
+# Services d’abonnement Mozilla | Avis de confidentialité
 
 Version 1.1 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

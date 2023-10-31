@@ -1,4 +1,4 @@
-﻿# Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
+# Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
 
 Verze 1.1, platná od 1. listopadu 2023
 {: datetime="2023-11-01" }

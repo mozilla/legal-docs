@@ -1,4 +1,4 @@
-﻿# Webhelyekre, közleményekre és sütikre vonatkozó adatvédelmi nyilatkozat
+# Webhelyekre, közleményekre és sütikre vonatkozó adatvédelmi nyilatkozat
 
 2023. március 8.
 {: datetime="2023-03-08" }

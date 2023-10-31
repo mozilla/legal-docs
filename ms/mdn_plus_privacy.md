@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Notis Privasi</span> <span class="privacy-header-policy">MDN Plus</span>
+## <span class="privacy-header-firefox">Notis Privasi</span> <span class="privacy-header-policy">MDN Plus</span>
 
 Versi 1.2, berkuat kuasa pada 01 November 2023
 {: datetime="2023-11-01" }

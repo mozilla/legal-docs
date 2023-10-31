@@ -1,4 +1,4 @@
-﻿# Servicios de suscripción de Mozilla | Aviso de privacidad
+# Servicios de suscripción de Mozilla | Aviso de privacidad
 
 Versión 1.1, en vigor desde el miércoles, 1 de noviembre de 2023
 {: datetime="2023-11-01" }

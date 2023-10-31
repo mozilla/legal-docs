@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
+## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Notis Privasi</span>
 
 Berkuat kuasa pada 20 Oktober 2021
 {: datetime="2021-10-20" }

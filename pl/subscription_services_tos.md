@@ -1,4 +1,4 @@
-﻿# Usługi subskrypcji Mozilla | Warunki korzystania z usługi
+# Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
 Wersja 1.2, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

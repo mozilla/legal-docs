@@ -1,4 +1,4 @@
-﻿# Ketentuan Layanan Akun Mozilla
+# Ketentuan Layanan Akun Mozilla
 
 Terakhir Diperbarui 01 November 2023
 {: datetime="2023-11-01" }

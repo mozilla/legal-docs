@@ -1,4 +1,4 @@
-﻿# Política de Privacidade
+# Política de Privacidade
 
 *Data de vigência: terça-feira, 29 de novembro de 2022*
 {: datetime="2022-11-29" }

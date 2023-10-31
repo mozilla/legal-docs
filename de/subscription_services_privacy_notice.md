@@ -1,4 +1,4 @@
-﻿# Mozilla Abonnementdienste | Datenschutzhinweis
+# Mozilla Abonnementdienste | Datenschutzhinweis
 
 Version 1.1, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Warunki świadczenia usług
+# Warunki świadczenia usług
 
 *Data wejścia w życie: 27 stycznia 2021 r.*
 {: datetime="2021-01-27" }

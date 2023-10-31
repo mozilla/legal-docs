@@ -1,4 +1,4 @@
-﻿# Avis de confidentialité - Hubs
+# Avis de confidentialité - Hubs
 Version 1.2 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }
 

@@ -1,4 +1,4 @@
-﻿# Mozilla Abonnementsservices | Privacyverklaring
+# Mozilla Abonnementsservices | Privacyverklaring
 
 Versie 1.1, van kracht vanaf woensdag 1 november 2023
 {: datetime="2023-11-01" }

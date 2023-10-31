@@ -1,4 +1,4 @@
-﻿# Mozilla VPN - Conditions d’utilisation
+# Mozilla VPN - Conditions d’utilisation
 
 Version 3.3 - Date d’effet : jeudi 23 décembre 2021
 {: datetime="2021-12-23" }

@@ -1,4 +1,4 @@
-﻿# Usługi subskrypcji Mozilla | Zasady prywatności
+# Usługi subskrypcji Mozilla | Zasady prywatności
 
 Wersja 1.1, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

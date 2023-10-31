@@ -1,4 +1,4 @@
-﻿# Servizi Mozilla in abbonamento | Informativa sulla privacy
+# Servizi Mozilla in abbonamento | Informativa sulla privacy
 
 Versione 1.1, in vigore dal 1 novembre 2023
 {: datetime="2023-11-01" }

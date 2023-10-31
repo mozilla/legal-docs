@@ -1,4 +1,4 @@
-﻿# Datenschutzhinweis für Firefox Relay
+# Datenschutzhinweis für Firefox Relay
 
 *Version 1.3, gültig ab Donnerstag, 10. März 2022*
 {: datetime="2022-03-10" }

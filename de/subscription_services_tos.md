@@ -1,4 +1,4 @@
-﻿# Mozilla Abonnementdienste | Servicebedingungen
+# Mozilla Abonnementdienste | Servicebedingungen
 
 Version 1.2, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

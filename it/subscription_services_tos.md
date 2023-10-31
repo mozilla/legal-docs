@@ -1,4 +1,4 @@
-﻿# Servizi Mozilla in abbonamento | Termini di servizio
+# Servizi Mozilla in abbonamento | Termini di servizio
 
 Version 1.2, in vigore da mercoledì 1 novembre 2023
 {: datetime="2023-11-01" }

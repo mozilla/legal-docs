@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité relative aux comptes Mozilla
+# Politique de confidentialité relative aux comptes Mozilla
 
 Version 1.0 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Condizioni di utilizzo del servizio Hubs
+# Condizioni di utilizzo del servizio Hubs
 
 Versione 1.3, in vigore dal 1 novembre 2023
 {: datetime="2023-11-01" }

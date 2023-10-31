@@ -1,4 +1,4 @@
-﻿# Firefox Focus 和 Klar 隐私声明
+# Firefox Focus 和 Klar 隐私声明
 
 2021 年 10 月 14 日
 {: datetime="2021-10-14" }

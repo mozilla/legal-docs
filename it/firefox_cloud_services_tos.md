@@ -1,4 +1,4 @@
-﻿# Termini di servizio degli account Mozilla
+# Termini di servizio degli account Mozilla
 
 Ultimo aggiornamento 1 novembre 2023
 {: datetime="2023-11-01" }

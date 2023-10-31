@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad de cuentas de Mozilla
+# Aviso de privacidad de cuentas de Mozilla
 
 Versión 1.0, en vigor desde el 1 de noviembre de 2023
 {: datetime="2023-11-01" }

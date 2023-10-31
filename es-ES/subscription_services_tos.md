@@ -1,4 +1,4 @@
-﻿# Servicios de suscripción de Mozilla | Condiciones del servicio
+# Servicios de suscripción de Mozilla | Condiciones del servicio
 
 Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
 {: datetime="2023-11-01" }

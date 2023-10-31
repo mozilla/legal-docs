@@ -1,4 +1,4 @@
-﻿# Condiciones de servicio
+# Condiciones de servicio
 
 *Vigente desde el 27 de enero de 2021*
 {: datetime="2021-01-27" }

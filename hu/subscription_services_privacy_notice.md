@@ -1,4 +1,4 @@
-﻿# Mozilla előfizetéses szolgáltatások | Adatvédelmi nyilatkozat
+# Mozilla előfizetéses szolgáltatások | Adatvédelmi nyilatkozat
 
 1.1-es verzió, hatálybalépés dátuma: 2023. november 1.
 {: datetime="2023-11-01" }

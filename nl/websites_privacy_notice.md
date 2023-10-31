@@ -1,4 +1,4 @@
-﻿# Privacyverklaring voor websites, communicatie en cookies
+# Privacyverklaring voor websites, communicatie en cookies
 
 8 maart 2023
 {: datetime="2023-03-08" }

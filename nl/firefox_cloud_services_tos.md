@@ -1,4 +1,4 @@
-﻿# Servicevoorwaarden van de Mozilla-accounts
+# Servicevoorwaarden van de Mozilla-accounts
 
 Laatst bij gewerkt op woensdag 1 november 2023
 {: datetime="2023-11-01" }

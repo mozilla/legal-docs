@@ -1,4 +1,4 @@
-﻿# Notis Privasi Firefox Relay
+# Notis Privasi Firefox Relay
 
 *Versi 1.3, berkuat kuasa pada 10 Mac 2022*
 {: datetime="2022-03-10" }

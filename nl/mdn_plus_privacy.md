@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">-privacyverklaring</span>
+## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">-privacyverklaring</span>
 
 Versie 1.2, van kracht vanaf woensdag 1 november 2023
 {: datetime="2023-11-01" }

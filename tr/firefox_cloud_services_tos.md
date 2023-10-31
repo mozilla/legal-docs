@@ -1,4 +1,4 @@
-﻿# Mozilla Hesapları Hizmet Koşulları
+# Mozilla Hesapları Hizmet Koşulları
 
 Son Güncelleme: 01 Kasım 2023 Çarşamba
 {: datetime="2023-11-01" }

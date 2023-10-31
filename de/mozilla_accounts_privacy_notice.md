@@ -1,4 +1,4 @@
-﻿# Datenschutzhinweis für Mozilla-Konten
+# Datenschutzhinweis für Mozilla-Konten
 
 Version 1.0, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

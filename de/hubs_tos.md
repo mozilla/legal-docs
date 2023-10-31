@@ -1,4 +1,4 @@
-﻿# Servicebedingungen für Hubs
+# Servicebedingungen für Hubs
 
 Version 1.3, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

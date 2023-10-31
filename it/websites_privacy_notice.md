@@ -1,4 +1,4 @@
-﻿# Avviso sulla privacy di siti web, comunicazioni e cookie
+# Avviso sulla privacy di siti web, comunicazioni e cookie
 
 8 marzo 2023
 {: datetime="2023-03-08" }

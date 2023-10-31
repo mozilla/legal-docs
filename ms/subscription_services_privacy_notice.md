@@ -1,4 +1,4 @@
-﻿# Perkhidmatan Langganan Mozilla | Notis Privasi
+# Perkhidmatan Langganan Mozilla | Notis Privasi
 
 Versi 1.1, Berkuat kuasa 01 November 2023
 {: datetime="2023-11-01" }

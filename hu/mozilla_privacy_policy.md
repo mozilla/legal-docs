@@ -1,4 +1,4 @@
-﻿# Mozilla Adatvédelmi Szabályzat
+# Mozilla Adatvédelmi Szabályzat
 
 2020. szeptember 9.
 {: datetime="2020-09-09" }

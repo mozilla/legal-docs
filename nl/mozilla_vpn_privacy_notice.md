@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacyverklaring</span>
+## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Privacyverklaring</span>
 
 Van kracht vanaf woensdag 20 oktober 2021
 {: datetime="2021-10-20" }
