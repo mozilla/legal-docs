@@ -109,7 +109,7 @@ Użytkownicy w Stanach Zjednoczonych mogą zarejestrować się na usługę Revie
 
 * __Dane techniczne i dane dotyczące interakcji__: Do świadczenia tej usługi używamy protokołu Oblivious HTTP ([OHTTP](https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/)) z naszym partnerem [Fastly](https://www.fastly.com/privacy/), zapewniając jednocześnie, że wszelkie dane identyfikujące produkty, adresy URL i ładunki żądań są niemożliwe do powiązania z użytkownikiem. Aby uzyskać więcej informacji na temat usługi Review Checker, w tym sposobu jej wyłączenia, można przeczytać [dokumentację](https://support.mozilla.org/kb/review-checker-review-quality).
 
-### Synchronizacja{: #sync }
+### Synchronizacja {: #sync }
 
 * __Zsynchronizowane dane__: Po włączeniu synchronizacji Mozilla otrzymuje informacje synchronizowane między urządzeniami użytkownika w zaszyfrowanej formie. Obejmuje to karty, dodatki, hasła, automatycznie uzupełniane dane formularzy, zakładki, historię i preferencje przeglądarki Firefoksa. Usunięcie konta Mozilla powoduje usunięcie powiązanej zsynchronizowanej zawartości Firefoksa. Dostępna jest również [dokumentacja](https://moz-services-docs.readthedocs.io/en/latest/sync/).
 
