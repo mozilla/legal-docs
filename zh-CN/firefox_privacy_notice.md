@@ -123,7 +123,7 @@ __营销活动和参考数据__：该数据可以帮助 Mozilla 理解我们市�
 
 [了解更多](https://www.mozilla.org/firefox/geolocation/)。
 
-### 网站通知{: #push-notifications }
+### 网站通知 {: #push-notifications }
 
 * __连接数据__：如果允许网站向您发送通知，Firefox 将与 Mozilla 连接，使用您的 IP 地址转发消息。Mozilla 无法访问消息内容。
 
@@ -140,6 +140,22 @@ __营销活动和参考数据__：该数据可以帮助 Mozilla 理解我们市�
 * __交互数据__：我们接收关于访问 AMO 网站和 Firefox Add-ons Manager 的汇总数据，以及与相关页面内容的交互数据。阅读 [Mozilla 网站](https://www.mozilla.org/privacy/websites/)数据实践。
 
 * __有关更新的技术数据__：Firefox 会定期连接 Mozilla，以安装附加组件更新。要应用正确的更新，须使用您安装的附加组件、Firefox 版本、语言和设备操作系统等相关信息。
+
+<!-- DO NOT REMOVE. Start of additional section for zh-CN. -->
+
+### 扫描二维码
+
+**相机权限：** Firefox在访问您设备上的相机之前总是询问使用权限。您可以授予 Firefox 访问您相机的权限，以便扫描二维码并打开相关网站。此信息会保留在您的设备上。当您使用此功能时，Mozilla 不会接收或共享您的相机信息或浏览活动。[了解更多](https://support.mozilla.org/kb/scan-qr-codes-firefox-android).
+
+### 剪贴板
+
+剪贴板权限：Firefox 请求获取剪贴板访问权限，以自动将复制或剪切的文本粘贴到浏览器栏中。此信息将保留在您的设备中。使用此功能时，Mozilla 不会收集剪贴板信息或浏览的活动记录。
+
+### 加速度计 
+
+加速度计权限：Firefox 在访问您设备中的加速度计或陀螺仪功能之前总是询问使用权限（例如，如果健身网站需要加速度计来跟踪步数）。如果您允许某个网站访问您的加速度计，Firefox 会将该信息发送至该网站。在您使用此功能时，Mozilla 不会收到您的加速度计信息。 
+
+<!-- End of additional section for zh-CN. -->
 
 ---
 
