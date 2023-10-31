@@ -123,7 +123,7 @@ Lees [Meer informatie](https://support.mozilla.org/kb/how-do-i-set-sync-my-compu
 
 [Meer informatie](https://www.mozilla.org/firefox/geolocation/).
 
-### Kennisgevingen van websites{: #push-notifications }
+### Kennisgevingen van websites {: #push-notifications }
 
 * __Verbindingsgegevens__: Als u een website toestaat om kennisgevingen te verzenden, maakt Firefox verbinding met Mozilla en wordt uw IP-adres gebruikt om het bericht door te geven. Mozilla heeft geen toegang tot de inhoud van berichten.
 
