@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Informativa sulla privacy di Mozilla VPN</span> <span class="privacy-header-policy"></span>
+## <span class="privacy-header-firefox">Informativa sulla privacy di Mozilla VPN</span> <span class="privacy-header-policy"></span>
 
 In vigore dal mercoledì 20 ottobre 2021
 {: datetime="2021-10-20" }

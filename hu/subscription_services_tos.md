@@ -1,4 +1,4 @@
-﻿# Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
+# Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
 1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
 {: datetime="2023-11-01" }

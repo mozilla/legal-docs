@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Уведомление о конфиденциальности</span>
+## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Уведомление о конфиденциальности</span>
 
 Версия 1.2, действует с 01 ноября 2023 г.
 {: datetime="2023-11-01" }

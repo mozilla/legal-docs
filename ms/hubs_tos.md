@@ -1,4 +1,4 @@
-﻿# Terma Perkhidmatan Hubs
+# Terma Perkhidmatan Hubs
 
 Versi 1.3, berkuat kuasa pada 01 November 2023
 {: datetime="2023-11-01" }

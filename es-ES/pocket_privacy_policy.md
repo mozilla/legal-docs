@@ -1,4 +1,4 @@
-﻿# Política de privacidad
+# Política de privacidad
 
 *Vigente desde el 29 de noviembre de 2022*
 {: datetime="2022-11-29" }

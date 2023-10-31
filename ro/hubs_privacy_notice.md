@@ -1,4 +1,4 @@
-﻿# Notificare privind confidențialitatea Hubs
+# Notificare privind confidențialitatea Hubs
 Versiunea 1.2, în vigoare de la 1 noiembrie 2023
 {: datetime="2023-11-01" }
 

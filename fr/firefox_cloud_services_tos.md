@@ -1,4 +1,4 @@
-﻿# Comptes Mozilla - Conditions d’utilisation
+# Comptes Mozilla - Conditions d’utilisation
 
 Dernière mise à jour : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Zasady prywatności dotyczące kont Mozilla
+# Zasady prywatności dotyczące kont Mozilla
 
 Wersja 1.0, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Warunki korzystania z usługi Hubs
+# Warunki korzystania z usługi Hubs
 
 Wersja 1.3, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

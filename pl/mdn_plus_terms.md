@@ -1,4 +1,4 @@
-﻿# Warunki korzystania z usługi MDN Plus
+# Warunki korzystania z usługi MDN Plus
 
 Wersja 1.2, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

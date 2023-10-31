@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
+## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
 1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
 {: datetime="2023-11-01" }

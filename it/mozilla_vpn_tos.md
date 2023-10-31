@@ -1,4 +1,4 @@
-﻿# Termini di servizio di Mozilla VPN
+# Termini di servizio di Mozilla VPN
 
 Versione 3.3, in vigore dal 23 dicembre 2021
 {: datetime="2021-12-23" }

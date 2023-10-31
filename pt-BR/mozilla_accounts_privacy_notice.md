@@ -1,4 +1,4 @@
-﻿# Aviso de Privacidade das Contas da Mozilla
+# Aviso de Privacidade das Contas da Mozilla
 
 Versão 1.0, 1o de novembro de 2023
 {: datetime="2023-11-01" }

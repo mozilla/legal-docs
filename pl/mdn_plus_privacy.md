@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox"></span> <span class="privacy-header-policy">Zasady prywatności</span> usługi MDN Plus
+## <span class="privacy-header-firefox"></span> <span class="privacy-header-policy">Zasady prywatności</span> usługi MDN Plus
 
 Wersja 1.2, obowiązuje od 1 listopada 2023 r.
 {: datetime="2023-11-01" }

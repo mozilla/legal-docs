@@ -1,4 +1,4 @@
-﻿## Oznámení o ochraně osobních údajů <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy"></span>
+## Oznámení o ochraně osobních údajů <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy"></span>
 
 Verze 1.12 platná od 1. listopadu 2023
 {: datetime="2023-11-01" }

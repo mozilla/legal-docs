@@ -1,4 +1,4 @@
-﻿# Servicii de abonare Mozilla | Notificare privind confidențialitatea
+# Servicii de abonare Mozilla | Notificare privind confidențialitatea
 
 Versiunea 1.1, în vigoare de la 1 noiembrie 2023
 {: datetime="2023-11-01" }

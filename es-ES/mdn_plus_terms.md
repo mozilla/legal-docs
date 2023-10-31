@@ -1,4 +1,4 @@
-﻿# Condiciones del servicio MDN Plus
+# Condiciones del servicio MDN Plus
 
 Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
 {: datetime="2023-11-01" }

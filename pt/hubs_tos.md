@@ -1,4 +1,4 @@
-﻿# Termos de Serviço do Hubs
+# Termos de Serviço do Hubs
 
 Versão 1.3, em vigor desde quarta-feira, 1 de novembro de 2023
 {: datetime="2023-11-01" }

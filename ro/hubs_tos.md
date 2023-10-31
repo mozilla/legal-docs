@@ -1,4 +1,4 @@
-﻿# Termenii de utilizare a Serviciului Hubs
+# Termenii de utilizare a Serviciului Hubs
 
 Versiunea 1.3, în vigoare de la 1 noiembrie 2023
 {: datetime="2023-11-01" }

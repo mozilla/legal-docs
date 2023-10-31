@@ -1,4 +1,4 @@
-﻿# Gebruiksvoorwaarden
+# Gebruiksvoorwaarden
 
 *Ingaande woensdag 27 januari 2021*
 {: datetime="2021-01-27" }

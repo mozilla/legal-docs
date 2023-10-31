@@ -1,4 +1,4 @@
-﻿# Services d’abonnements Mozilla - Conditions d’utilisation
+# Services d’abonnements Mozilla - Conditions d’utilisation
 
 Version 1.2 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

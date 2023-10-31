@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy"> - Politique de confidentialité</span>
+## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy"> - Politique de confidentialité</span>
 
 Date d’effet : mercredi 20 octobre 2021
 {: datetime="2021-10-20" }

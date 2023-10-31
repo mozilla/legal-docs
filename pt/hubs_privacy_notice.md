@@ -1,4 +1,4 @@
-﻿# Aviso de privacidade do Hubs
+# Aviso de privacidade do Hubs
 Versão 1.2, em vigor desde quarta-feira, 1 de novembro de 2023
 {: datetime="2023-11-01" }
 

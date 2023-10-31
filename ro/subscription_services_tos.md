@@ -1,4 +1,4 @@
-﻿# Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
+# Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
 
 Versiunea 1.2, în vigoare de la 1 noiembrie 2023
 {: datetime="2023-11-01" }

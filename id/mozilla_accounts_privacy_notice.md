@@ -1,4 +1,4 @@
-﻿# Pemberitahuan Privasi Akun Mozilla
+# Pemberitahuan Privasi Akun Mozilla
 
 Versi 1.0, Berlaku 01 November 2023
 {: datetime="2023-11-01" }

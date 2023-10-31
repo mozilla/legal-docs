@@ -1,4 +1,4 @@
-﻿# Ketentuan Layanan MDN Plus
+# Ketentuan Layanan MDN Plus
 
 Versi 1.2, Berlaku 01 November 2023
 {: datetime="2023-11-01" }

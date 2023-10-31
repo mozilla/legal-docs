@@ -1,4 +1,4 @@
-﻿# Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
+# Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
 Versi 1.2, berkuat kuasa pada 1 Nov 2023
 {: datetime="2023-11-01" }

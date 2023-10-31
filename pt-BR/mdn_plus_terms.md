@@ -1,4 +1,4 @@
-﻿# Termos de serviço do MDN Plus
+# Termos de serviço do MDN Plus
 
 Versão 1.2, 1o de novembro de 2023
 {: datetime="2023-11-01" }

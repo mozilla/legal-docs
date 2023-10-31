@@ -1,4 +1,4 @@
-﻿# Aviso de privacidade do Firefox Focus e do Klar
+# Aviso de privacidade do Firefox Focus e do Klar
 
 14 de outubro de 2021
 {: datetime="2021-10-14" }

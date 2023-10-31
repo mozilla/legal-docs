@@ -1,4 +1,4 @@
-﻿# Privacykennisgeving van Firefox Relay
+# Privacykennisgeving van Firefox Relay
 
 *Versie 1.3, van kracht vanaf donderdag 10 maart 2022*
 {: datetime="2022-03-10" }

@@ -1,4 +1,4 @@
-﻿# Condiciones del servicio de las cuentas de Mozilla
+# Condiciones del servicio de las cuentas de Mozilla
 
 Última actualización: miércoles, 1 de noviembre de 2023
 {: datetime="2023-11-01" }

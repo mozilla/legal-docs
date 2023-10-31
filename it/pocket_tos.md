@@ -1,4 +1,4 @@
-﻿# Termini di servizio
+# Termini di servizio
 
 *In vigore dal 27 gennaio 2021*
 {: datetime="2021-01-27" }

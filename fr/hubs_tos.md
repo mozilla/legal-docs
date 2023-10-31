@@ -1,4 +1,4 @@
-﻿# Conditions d’utilisation - Hubs
+# Conditions d’utilisation - Hubs
 
 Version 1.3 - Date d’effet : mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

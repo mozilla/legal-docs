@@ -1,4 +1,4 @@
-﻿# Hubs szolgáltatási feltételek
+# Hubs szolgáltatási feltételek
 
 1.3-as verzió, hatálybalépés dátuma: 2023. november 1.
 {: datetime="2023-11-01" }

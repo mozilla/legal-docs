@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
+## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">のプライバシーに関する通知</span>
 
 バージョン 1.2、2023年11月1日発効
 {: datetime="2023-11-01" }

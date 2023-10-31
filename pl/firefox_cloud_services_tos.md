@@ -1,4 +1,4 @@
-﻿# Warunki korzystania z kont Mozilla
+# Warunki korzystania z kont Mozilla
 
 Ostatnia aktualizacja: 1 listopada 2023
 {: datetime="2023-11-01" }

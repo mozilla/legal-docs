@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
+## <span class="privacy-header-firefox">MDN Plus</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
 Version 1.2, gültig ab Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Mozilla-privacybeleid
+# Mozilla-privacybeleid
 
 woensdag 9 september 2020
 {: datetime="2020-09-09" }

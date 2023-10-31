@@ -1,4 +1,4 @@
-﻿# Notis Privasi Hubs
+# Notis Privasi Hubs
 Versi 1.2, berkuat kuasa pada 01 November 2023
 {: datetime="2023-11-01" }
 

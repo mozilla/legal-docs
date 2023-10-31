@@ -1,4 +1,4 @@
-﻿# Mozilla Hesapları Gizlilik Bildirimi
+# Mozilla Hesapları Gizlilik Bildirimi
 
 Sürüm 1.0, 1 Kasım 2023’ten itibaren geçerli
 {: datetime="2023-11-01" }

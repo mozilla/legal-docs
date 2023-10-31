@@ -1,4 +1,4 @@
-﻿# Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
+# Zásady ochrany osobních údajů pro webové stránky, sdělení a soubory cookies
 
 8. března 2023
 {: datetime="2023-03-08" }

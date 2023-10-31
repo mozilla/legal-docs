@@ -1,4 +1,4 @@
-﻿# Terma Perkhidmatan Firefox Relay
+# Terma Perkhidmatan Firefox Relay
 
 Versi 1.4, berkuat kuasa pada 16 September 2022
 {: datetime="2022-09-16" }

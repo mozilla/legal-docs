@@ -1,4 +1,4 @@
-﻿# Privacymelding voor Mozilla-accounts
+# Privacymelding voor Mozilla-accounts
 
 Versie 1.0, van kracht vanaf woensdag 1 november 2023
 {: datetime="2023-11-01" }

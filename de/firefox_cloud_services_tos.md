@@ -1,4 +1,4 @@
-﻿# Servicebedingungen für Mozilla-Konten
+# Servicebedingungen für Mozilla-Konten
 
 Zuletzt aktualisiert am Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

@@ -1,4 +1,4 @@
-﻿# Termos de serviço das contas da Mozilla
+# Termos de serviço das contas da Mozilla
 
 Última atualização em quarta-feira, 1 de novembro de 2023
 {: datetime="2023-11-01" }
