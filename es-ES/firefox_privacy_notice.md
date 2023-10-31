@@ -123,7 +123,7 @@ Los usuarios de EE. UU. pueden habilitar el verificador de reseñas, nuestra gu
 
 [Más información](https://www.mozilla.org/firefox/geolocation/).
 
-### Notificaciones de sitios web{: #push-notifications }
+### Notificaciones de sitios web {: #push-notifications }
 
 * __Datos de conexión__: Si permite que un sitio web le envíe notificaciones, Firefox se conecta con Mozilla y usa su dirección IP para transmitir el mensaje. Mozilla no puede acceder al contenido de los mensajes.
 
