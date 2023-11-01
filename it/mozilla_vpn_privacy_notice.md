@@ -31,7 +31,7 @@ Usiamo i dati per migliorare le prestazioni e la stabilità per i nostri utenti 
 
 Mozilla VPN condivide dei dati per fornirti il servizio. Mozilla ha stipulato accordi scritti con l'azienda indicata di seguito, obbligandola contrattualmente a proteggere i tuoi dati. Ecco a chi ci affidiamo:
 
-__Mullvad.__ Mullvad riceve il tuo traffico Internet per fornire il servizio. All'attivazione, Mozilla VPN provvede alla crittografia del tuo traffico Internet e lo invia a Mullvad. Mullvad si impegna a non tenere in registri nessuno dei dati che riceve. Ulteriori informazioni nell'[Informativa sulla privacy di Mullvad](https://mullvad.net/help/no-logging-data-policy/).
+__Mullvad.__ Mullvad riceve il tuo traffico internet per fornire il servizio. All'attivazione, Mozilla VPN provvede alla crittografia del tuo traffico internet e lo invia a Mullvad. Mullvad si impegna a non tenere in registri nessuno dei dati che riceve. Ulteriori informazioni nell'[Informativa sulla privacy di Mullvad](https://mullvad.net/help/no-logging-data-policy/).
 
 ### Domande sulla privacy dei dati? {: #markup }
 

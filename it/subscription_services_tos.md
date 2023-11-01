@@ -5,7 +5,7 @@ Version 1.2, in vigore da mercoledì 1 novembre 2023
 
 Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza online, tra cui Mozilla VPN e Firefox Relay (i "Servizi").
 
-__Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico Internet al tuo fornitore di servizi Internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
+__Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico internet al tuo fornitore di servizi internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
 
 __Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando degli alias che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
 

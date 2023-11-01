@@ -7,7 +7,7 @@
 
 #### 1\. Introduzione
 
-Leggere attentamente e per intero i termini contenuti nel presente documento ("Termini"), poiché illustrano i diritti e le responsabilità dell'utente quando visita uno dei siti web di Mozilla ("Siti web") o i relativi feed, social media, newsletter e email (insieme ai siti web, collettivamente "Comunicazioni"). Accedendo o registrandosi per ricevere Comunicazioni, l'utente accetta di rispettare i presenti Termini.
+Leggere attentamente e per intero i termini contenuti nel presente documento ("Termini"), poiché illustrano i diritti e le responsabilità dell'utente quando visita uno dei siti web di Mozilla ("Siti web") o i relativi feed, social media, newsletter ed email (insieme ai siti web, collettivamente "Comunicazioni"). Accedendo o registrandosi per ricevere Comunicazioni, l'utente accetta di rispettare i presenti Termini.
 
 I nostri siti web includono domini multipli come mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org e webmaker.org. L’utente potrà riconoscere i nostri siti web da soprannomi come Bugzilla@Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO e AMO.
 Alcuni dei nostri siti web connettono l’utente a link, app o componenti aggiuntivi forniti da terze parti e soggetti a Termini separati.

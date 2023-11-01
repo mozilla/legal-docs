@@ -36,7 +36,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     (d) Firefox Notes permette di prendere appunti in Firefox. È necessario un account Mozilla per visualizzare, modificare ed eliminare le note dai vari dispositivi utilizzati. 
 
-    (e) Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, Awesome Bar, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Impostazioni di Firefox. Per utilizzare questo servizio è richiesto un account Mozilla. 
+    (e) La funzione di sincronizzazione dati di Firefox consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, barra degli indirizzi intelligente, password, segnalibri e preferenze del browser, da diversi dispositivi. La funzione di sincronizzazione dati può essere attivata e disattivata dalla sezione Impostazioni di Firefox. Per utilizzare questo servizio è richiesto un account Mozilla. 
     
     (f) Pocket aiuta a trovare contenuti personalizzati in base ai propri interessi e a salvarli per visualizzarli in successivamente, su qualsiasi dispositivo, in qualsiasi momento. 
 
@@ -46,7 +46,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-    * [Firefox sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Sincronizzazione dati di Firefox](https://www.mozilla.org/privacy/firefox/#sync)
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
