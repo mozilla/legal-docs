@@ -42,7 +42,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
 4. #### Informativa sulla privacy
 
-    Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella[Politica sulla Privacy di Mozilla](https://www.mozilla.org/privacy/). Gli Avvisi sulla privacy descrivono più nel dettaglio i dati che riceviamo da ciascun servizio:
+    Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella [Politica sulla Privacy di Mozilla](https://www.mozilla.org/privacy/). Gli Avvisi sulla privacy descrivono più nel dettaglio i dati che riceviamo da ciascun servizio:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
