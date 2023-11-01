@@ -1,4 +1,4 @@
-﻿# Firefox Focus 및 Klar 개인정보 보호 안내
+# Firefox Focus 및 Klar 개인정보 보호 안내
 
 2021년 10월 14일 목요일
 {: datetime="2021-10-14" }

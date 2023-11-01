@@ -1,4 +1,4 @@
-﻿## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
+## <span class="privacy-header-firefox">Mozilla VPN</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
 Gültig ab 20. Oktober 2021
 {: datetime="2021-10-20" }

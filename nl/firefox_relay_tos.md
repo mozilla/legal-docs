@@ -1,4 +1,4 @@
-﻿# Servicevoorwaarden van Firefox Relay
+# Servicevoorwaarden van Firefox Relay
 
 Versie 1.4, van kracht vanaf donderdag 16 september 2022
 {: datetime="2022-09-16" }

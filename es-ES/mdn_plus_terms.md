@@ -1,15 +1,15 @@
-﻿# Condiciones del servicio MDN Plus
+# Condiciones del servicio MDN Plus
 
-Versión 1.1, en vigor desde el miércoles, 24 de mayo de 2023
-{: datetime="2023-05-24" }
+Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
+{: datetime="2023-11-01" }
 
 MDN Plus es un servicio de suscripción que ofrece funciones premium, como MDN offline, colecciones, temas y actualizaciones. (en adelante, el «Servicio»). Le rogamos que lea atentamente estas Condiciones del servicio, ya que en ellas se explica información importante sobre el uso que usted hace del Servicio.
 
 ## Debe cumplir determinados requisitos para usar el Servicio
 
-Debe encontrarse en un país en el que el Servicio esté disponible. Actualmente, este Servicio está disponible en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Países Bajos, Irlanda, Malasia, Nueva Zelanda y Singapur. Se requiere una cuenta de Firefox para usar el Servicio.
+Debe encontrarse en un país en el que el Servicio esté disponible. Actualmente, este Servicio está disponible en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Países Bajos, Irlanda, Malasia, Nueva Zelanda y Singapur. Se necesita una cuenta de Mozilla para usar el Servicio.
 
-Para crear una cuenta de Firefox, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/firefox/) de su cuenta de Firefox.
+Para crear una cuenta de Mozilla, tendrá que aceptar las [Condiciones del servicio](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad](https://www.mozilla.org/privacy/mozilla-accounts/) de su cuenta de Mozilla.
 
 ## Su privacidad
 
@@ -38,7 +38,7 @@ __Política de reembolso de 30 días.__ Si la primera vez que se suscribe a MDN 
 
 ## Puede cancelar su suscripción en cualquier momento
 
-__Cancelación.__ Tiene derecho a cancelar su suscripción a MDN Plus en cualquier momento. Para ello, haga clic en el enlace «Cancelar suscripción» incluido en el correo electrónico que le enviamos o yendo a la sección [Suscripciones y pagos](https://subscriptions.firefox.com) de su cuenta de Firefox y haciendo clic en «Cancelar» en su suscripción a MDN Plus. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso al Servicio al final del ciclo de facturación actual.
+__Cancelación.__ Tiene derecho a cancelar su suscripción a MDN Plus en cualquier momento. Para ello, haga clic en el enlace "Cancelar suscripción" incluido en el correo electrónico que le enviamos o yendo a la sección [Suscripciones y pagos](https://subscriptions.firefox.com) de su cuenta de Mozilla y haciendo clic en "Cancelar" en su suscripción a MDN Plus. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los servicios al final del ciclo de facturación actual.
 
 ## Usted es responsable de las consecuencias del uso que haga del Servicio
 
@@ -56,7 +56,7 @@ __Cancelación.__ Tiene derecho a cancelar su suscripción a MDN Plus en cualqui
 
 * __Mozilla puede actualizar estas Condiciones.__ Es posible que Mozilla decida actualizar de forma puntual estas Condiciones. Las Condiciones actualizadas se publicarán online. El uso continuado del Servicio se entenderá como la aceptación de dichos cambios. Actualizaremos la fecha de entrada en vigor en la parte superior de esta página para dejar claro cuándo realizamos nuestra actualización más reciente.
 
-* __Vigencia y rescisión.__ El Servicio se regirá por las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente con dejar de usar el Servicio y eliminando MDN Plus. Mozilla puede suspender o rescindir sus derechos de acceso al Servicio en cualquier momento y por cualquier razón, incluyendo, entre otros casos, si Mozilla decide dejar de ofrecer el Servicio. En el caso de que decidamos suspender o rescindir su acceso al Servicio, intentaremos notificárselo a través de la dirección de correo electrónico asociada a su cuenta o la siguiente vez que intente acceder a la misma.
+* __Rescisión.__ Los Servicios se regirán por las presentes Condiciones hasta que usted o Mozilla decidan rescindirlas. Puede rescindirlas en cualquier momento y por cualquier motivo simplemente con dejar de usar el Servicio y eliminando MDN Plus. Mozilla puede suspender o rescindir sus derechos de acceso a los servicios en cualquier momento y por cualquier razón, incluyendo, entre otros casos, si Mozilla decide dejar de ofrecer los servicios. En el caso de que decidamos suspender o rescindir su acceso a los Servicios, intentaremos notificárselo a través de la dirección de correo electrónico asociada a su cuenta o la siguiente vez que intente acceder a esta.
 
 En el caso de que decidamos rescindir su derecho a acceder al Servicio sin indicar una causa concreta, seguirá teniendo acceso al Servicio durante el período de facturación en curso o se le reembolsará el pago del mes en curso. Sin embargo, nos reservamos el derecho de rescindir de inmediato su derecho a usar el Servicio, si razonablemente creemos que ha violado las Condiciones de uso o ha infringido de cualquier otra forma estas Condiciones.
 

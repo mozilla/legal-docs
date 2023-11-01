@@ -1,11 +1,11 @@
-﻿# Informativa sulla privacy di Hubs
-Versione 1.1, in vigore dal 21 marzo 2023
-{: datetime="2023-03-21" }
+# Informativa sulla privacy di Hubs
+Versione 1.2, in vigore dal 1 novembre 2023
+{: datetime="2023-11-01" }
 
 ## Informazioni raccolte e condivise dalle stanze di Hubs
 
 ### Informazioni condivise con noi e con altri partecipanti
-__Informazioni sull'account:__ Per sottoscrivere un abbonamento a Hubs è necessario un account Firefox. Tuttavia, per usare Hubs non è necessario alcun account. Solo alcune funzioni (come l'archiviazione dell'avatar), richiedono un account. Puoi creare un account tramite Hubs o Discord. Se crei un account con il tuo indirizzo email, memorizzeremo una versione codificata di tale indirizzo. Se crei un account tramite Discord, riceveremo l'indirizzo email associato al tuo account Discord e il tuo avatar Discord.
+__Informazioni sull'account:__ Per sottoscrivere un abbonamento a Hubs è necessario un account Mozilla. Tuttavia, per usare Hubs non è necessario alcun account. Solo alcune funzioni (come l'archiviazione dell'avatar), richiedono un account. Puoi creare un account tramite Hubs o Discord. Se crei un account con il tuo indirizzo email, memorizzeremo una versione codificata di tale indirizzo. Se crei un account tramite Discord, riceveremo l'indirizzo email associato al tuo account Discord e il tuo avatar Discord.
 
 __URL e nomi delle stanze:__ Le stanze e i nomi delle stanze sono pubblicamente accessibili a chiunque ne possieda l'URL. Mozilla memorizza il nome e l'URL del link che condivi, in modo che sia tu che altri utenti che hanno il link di un stanza lo possano utilizzare di nuovo.
 
@@ -38,13 +38,13 @@ __Informazioni di attribuzione:__ Quando qualcuno pubblica una scena o un avatar
 __Informazioni sull'account:__ Per pubblicare una scena o un avatar su Hubs, è necessario disporre di un account Hubs. Mozilla riceverà e memorizzerà una versione codificata dell'indirizzo email per consentire l'accesso e la visualizzazione dei modelli di stanza 3D e degli avatar.
 
 ## Informazioni raccolte sull'abbonamento
-__Informazioni sull'account Firefox.__ L'abbonamento a Hubs richiede un account Firefox, che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informazioni sull'account Mozilla.__ L'abbonamento a Hubs richiede un account Mozilla, che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Informazioni sulla posizione.__ Mozilla riceve il tuo indirizzo IP dal tuo account Firefox quando ti registri e usi il servizio. Usiamo l'indirizzo IP per individuare la tua posizione approssimativa in quanto Mozilla VPN attualmente è disponibile solo in alcuni Paesi.
+__Informazioni sulla posizione.__ Mozilla riceve il tuo indirizzo IP dal tuo account Mozilla quando ti registri e usi il servizio. Usiamo l'indirizzo IP per individuare la tua posizione approssimativa in quanto Mozilla VPN attualmente è disponibile solo in alcuni Paesi.
 
 __Informazioni sul pagamento.__ Quando ti iscrivi ai Servizi, il tuo addebito sarà gestito tramite uno dei nostri fornitori terzi di servizi di pagamento: Stripe, Apple, PayPal o Google Pay. Mozilla riceve un record del tuo account (che include l'indirizzo di fatturazione e le ultime quattro cifre del tuo metodo di pagamento) e lo stato del tuo abbonamento, ma non memorizza i tuoi dati di pagamento completi. I fornitori di servizi di pagamento possono anche raccogliere dati personali sulle transazioni o informazioni sul dispositivo tramite cookie e tecnologie simili per far funzionare e migliorare il loro servizio. Per saperne di più sulle modalità di utilizzo e di trattamento dei dati da parte di queste società, è possibile consultare le rispettive informative sulla privacy, disponibili sui relativi siti web.
 
-__Informazioni sull'utilizzo.__ Riceviamo informazioni sulle stanze e sugli utenti della tua istanza di Hubs. Ad esempio, sappiamo quando crei o elimini delle stanze, quante stanze sono presenti nella tua istanza di Hubs e quanti utenti ci sono in ogni stanza. Riceviamo anche informazioni sulla quantità di spazio di archiviazione utilizzato dalla tua istanza di Hubs. 
+__Informazioni sull'utilizzo.__ Riceviamo informazioni sulle stanze e sugli utenti della tua istanza di Hubs. Ad esempio, sappiamo quando crei o elimini delle stanze, quante stanze sono presenti nella tua istanza di Hubs e quanti utenti ci sono in ogni stanza. Riceviamo anche informazioni sulla quantità di spazio di archiviazione utilizzato dalla tua istanza di Hubs.
 
 ## A chi Hubs può divulgare le informazioni
 __Host di Hubs:__ Quando utilizzi un'istanza di Hubs, Mozilla condivide alcune informazioni con l'abbonato Hubs che ha creato l'istanza. Sono inclusi il tuo nome utente, le informazioni sul tuo account e sulla data di creazione, nonché le scene, gli avatar e gli altri contenuti che aggiungi a una stanza di Hubs.  
@@ -59,6 +59,16 @@ __Provider di servizi di ricerca:__ Puoi cercare immagini, GIF e modelli 3D da c
 * [YouTube](https://policies.google.com/privacy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
-__Twitter:__ Se connetti Twitter a Hubs, puoi twittare e condividere immagini 2D dalle stanze di Hubs. Ogni contenuto twittato verrà condiviso con Twitter e pubblicato sulla piattaforma Twitter. Per ulteriori informazioni, consulta l'[Informativa sulla privacy di Twitter](https://twitter.com/en/privacy).
+__X (ex Twitter):__ Se connetti X a Hubs, puoi twittare e condividere immagini 2D dalle stanze di Hubs. Ogni contenuto twittato verrà condiviso con X e pubblicato sulla piattaforma X. Per ulteriori informazioni, consulta l'[Informativa sulla privacy di X](https://twitter.com/privacy).
 
 __Discord:__ Se connetti Discord a Hubs, memorizziamo i token di accesso e gli ID dei server e dei canali che sono stati connessi. Sincronizzeremo i messaggi di chat, le modifiche alle stanze, gli oggetti 2D e 3D che crei e l'accesso o l'uscita con il canale Discord collegato. Hubs non registra i messaggi sincronizzati. Per ulteriori informazioni, consulta l'[Informativa sulla privacy di Discord](https://discordapp.com/privacy).
+
+## Altre cose da sapere
+
+[Qui](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) puoi trovare ulteriori informazioni sulla gestione dei dati del tuo account Mozilla. Inoltre, molte delle informazioni che memorizziamo sui nostri utenti di account Mozilla sono facilmente accessibili [dal tuo account](https://accounts.firefox.com/signin), dove puoi anche aggiornare le [impostazioni di condivisione dei dati](https://accounts.firefox.com/settings/). Per inoltrare richieste relative ai tuoi dati personali, contattaci sul nostro [Portale per la richiesta di accesso ai dati personali](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+
+Per qualsiasi altra domanda in merito ai tuoi dati personali o alle nostre pratiche in materia di privacy, puoi contattarci all'indirizzo compliance@mozilla.com.
+
+Rispondiamo a tutte le richieste che riceviamo da individui che desiderano esercitare i propri diritti di protezione dei dati, indipendentemente dal luogo in cui risiedono. La tua richiesta verrà accolta, a meno che un requisito legale non ci impedisca di farlo o si applichi un'eccezione legale.
+
+Per supporto generale, puoi visitare i nostri [forum](https://support.mozilla.org/).

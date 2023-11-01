@@ -1,15 +1,15 @@
-﻿# Termos de serviço do MDN Plus
+# Termos de serviço do MDN Plus
 
-Versão 1.1, 24 de maio de 2023
-{: datetime="2023-05-24" }
+Versão 1.2, 1o de novembro de 2023
+{: datetime="2023-11-01" }
 
 O MDN Plus é um serviço de assinatura com recursos avançados, como Coleções, Temas, Atualizações e o MDN Offline (o “Serviço”). Leia estes Termos de serviço com atenção, pois eles contêm informações importantes sobre seu uso do Serviço.
 
 ## Condições necessárias para usar o Serviço
 
-No momento, o Serviço só está disponível nos seguintes países: Estados Unidos, Canadá, Reino Unido, Alemanha, França, Itália, Espanha, Bélgica, Áustria, Suíça, Países Baixos, Irlanda, Malásia, Nova Zelândia e Singapura. É necessário ter uma Conta do Firefox para usar o Serviço.
+No momento, o Serviço só está disponível nos seguintes países: Estados Unidos, Canadá, Reino Unido, Alemanha, França, Itália, Espanha, Bélgica, Áustria, Suíça, Países Baixos, Irlanda, Malásia, Nova Zelândia e Singapura. É necessário ter uma conta da Mozilla para usar o Serviço.
 
-Para criar uma Conta do Firefox, você precisa estar de acordo com os [Termos de serviço](https://www.mozilla.org/about/legal/terms/services/) e o [Aviso de privacidade](https://www.mozilla.org/privacy/firefox/) da sua Conta do Firefox.
+Para criar uma conta da Mozilla, você precisa estar de acordo com os [Termos de serviço](https://www.mozilla.org/about/legal/terms/services/) e o [Aviso de privacidade](https://www.mozilla.org/privacy/mozilla-accounts/) dela.
 
 ## Sua privacidade
 
@@ -38,7 +38,7 @@ __Política de reembolso de 30 dias.__ Na primeira assinatura, você pode solici
 
 ## Você pode cancelar sua assinatura a qualquer momento
 
-__Cancelamento.__ Você pode cancelar sua assinatura do MDN Plus a qualquer momento. Basta clicar no link “Cancelar assinatura” em qualquer e-mail nosso. Também é possível cancelar sua assinatura na seção [Assinaturas pagas](https://subscriptions.firefox.com) da sua Conta do Firefox: clique em “Cancelar” na assinatura do MDN Plus. Ao cancelar a assinatura, a renovação automática será interrompida, e não realizaremos mais a cobrança de períodos futuros de pagamento. Você perderá o acesso ao Serviço no fim do ciclo atual de cobrança.
+__Cancelamento.__ Você pode cancelar sua assinatura do MDN Plus a qualquer momento. Basta clicar no link “Cancelar assinatura” em qualquer e-mail nosso. Também é possível cancelar sua assinatura na seção [Assinaturas pagas](https://subscriptions.firefox.com) da sua conta da Mozilla: clique em “Cancelar” na assinatura do MDN Plus. Ao cancelar a assinatura, a renovação automática será interrompida, e não realizaremos mais a cobrança de períodos futuros de pagamento. Você perderá o acesso ao Serviço no fim do ciclo atual de cobrança.
 
 ## Você é responsável pelas consequências do seu uso do Serviço
 
@@ -56,7 +56,7 @@ __Cancelamento.__ Você pode cancelar sua assinatura do MDN Plus a qualquer mome
 
 * __A Mozilla pode atualizar estes Termos.__ Ocasionalmente, a Mozilla pode decidir atualizar estes Termos. Sempre que isso ocorrer, publicaremos os Termos atualizados on-line. Interpretaremos a continuação do seu uso do Serviço como sua aceitação dessas alterações. A data de vigência se encontra na parte superior desta página, mostrando quando a atualização mais recente foi realizada.
 
-* __Rescisão.__ Estes Termos se aplicam até que você ou a Mozilla decida rescindi-los. Você pode rescindi-los a qualquer momento e por qualquer motivo interrompendo seu uso do Serviço e excluindo o MDN Plus. A Mozilla pode suspender ou interromper o acesso de qualquer pessoa ao Serviço a qualquer momento e por qualquer motivo, podendo inclusive cancelar o Serviço. Se decidirmos suspender ou interromper seu acesso, tentaremos enviar um aviso para o e-mail associado à conta ou na próxima vez que você tentar acessar sua Conta.
+* __Rescisão.__ Estes Termos se aplicam até que você ou a Mozilla decida rescindi-los. Você pode rescindi-los a qualquer momento e por qualquer motivo interrompendo seu uso do Serviço e excluindo o MDN Plus. A Mozilla pode suspender ou interromper o acesso de qualquer pessoa ao Serviço a qualquer momento e por qualquer motivo, podendo inclusive cancelar o Serviço. Se decidirmos suspender ou interromper seu acesso, tentaremos enviar um aviso para o e-mail associado à conta ou na próxima vez que você tentar acessar sua conta.
 
 Se interrompermos seu acesso ao Serviço sem causa específica, você continuará tendo acesso a ele até o término do período atual de cobrança, caso contrário, reembolsaremos o valor referente ao mês corrente. No entanto, reservamo-nos o direito de interromper imediatamente seu uso do Serviço caso tenhamos motivos razoáveis para acreditar que você tenha violado as Condições de uso ou estes Termos.
 

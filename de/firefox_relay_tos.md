@@ -1,4 +1,4 @@
-﻿# Firefox Relay-Servicebedingungen
+# Firefox Relay-Servicebedingungen
 
 Version 1.4, gültig ab 16. September 2022
 {: datetime="2022-09-16" }

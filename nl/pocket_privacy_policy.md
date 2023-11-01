@@ -1,4 +1,4 @@
-﻿# Privacybeleid
+# Privacybeleid
 
 *Van kracht vanaf dinsdag 29 november 2022*
 {: datetime="2022-11-29" }

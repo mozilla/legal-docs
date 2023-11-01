@@ -1,15 +1,15 @@
-﻿# MDN Plus szolgáltatási feltételek
+# MDN Plus szolgáltatási feltételek
 
-1.1-es verzió, hatálybalépés dátuma: 2023. május 24.
-{: datetime="2023-05-24" }
+1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
+{: datetime="2023-11-01" }
 
 Az MDN Plus egy előfizetéses szolgáltatás, amely prémium funkciókat nyújt, beleértve az offline MDN-t, a gyűjteményeket, a témákat és a frissítéseket. (a „Szolgáltatás”). Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatás használatával kapcsolatban.
 
 ## Jogosultnak kell lennie a szolgáltatás használatára
 
-Olyan országban kell tartózkodnia, ahol a Szolgáltatás elérhető. A Szolgáltatás jelenleg az Egyesült Államokban, Kanadában, az Egyesült Királyságban, Németországban, Franciaországban, Olaszországban, Spanyolországban, Belgiumban, Ausztriában, Svájcban, Hollandiában, Írországban, Malajziában, Új-Zélandon és Szingapúrban érhető el. A Szolgáltatás használatához Firefox-fiók szükséges.
+Olyan országban kell tartózkodnia, ahol a Szolgáltatás elérhető. A Szolgáltatás jelenleg az Egyesült Államokban, Kanadában, az Egyesült Királyságban, Németországban, Franciaországban, Olaszországban, Spanyolországban, Belgiumban, Ausztriában, Svájcban, Hollandiában, Írországban, Malajziában, Új-Zélandon és Szingapúrban érhető el. A Szolgáltatás használatához Mozilla-fiók szükséges.
 
-A Firefox-fiók létrehozásához el kell fogadnia a Firefox-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Nyilatkozatot](https://www.mozilla.org/privacy/firefox/) is.
+A Mozilla-fiók létrehozásához el kell fogadnia a Mozilla-fiókra vonatkozó [Szolgáltatási feltételeket](https://www.mozilla.org/about/legal/terms/services/) és [Adatvédelmi nyilatkozatot](https://www.mozilla.org/privacy/mozilla-accounts/) is.
 
 ## Az Ön adatainak védelme
 
@@ -38,7 +38,7 @@ __30 napos visszatérítési szabályzat.__ Amikor először fizet elő az MDN P
 
 ## Előfizetését bármikor lemondhatja
 
-__Lemondás.__ Az MDN Plus-előfizetést bármikor lemondhatja. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet Önnek küldünk, vagy lépjen Firefox-fiókja [Fizetett előfizetések](https://subscriptions.firefox.com) részébe, és kattintson a „Lemondás” lehetőségre az MDN Plus-előfizetés alatt. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
+__Lemondás.__ Az MDN Plus-előfizetést bármikor lemondhatja. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet Önnek küldünk, vagy lépjen Mozilla-fiókja [Fizetett előfizetések](https://subscriptions.firefox.com) részébe, és kattintson a „Lemondás” lehetőségre az MDN Plus-előfizetés alatt. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a szolgáltatáshoz.
 
 ## Ön felelős a Szolgáltatás használatának következményeiért
 

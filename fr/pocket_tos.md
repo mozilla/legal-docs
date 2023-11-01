@@ -1,4 +1,4 @@
-﻿# Conditions d’utilisation
+# Conditions d’utilisation
 
 *Date d’effet : 27 janvier 2021*
 {: datetime="2021-01-27" }

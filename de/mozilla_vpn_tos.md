@@ -1,4 +1,4 @@
-﻿# Mozilla VPN Servicebedingungen
+# Mozilla VPN Servicebedingungen
 
 Version 3.3 – Aktualisiert am Donnerstag, 23. Dezember 2021
 {: datetime="2021-12-23" }

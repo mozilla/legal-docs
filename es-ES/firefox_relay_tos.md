@@ -1,4 +1,4 @@
-﻿# Condiciones del servicio de Firefox Relay
+# Condiciones del servicio de Firefox Relay
 
 Versión 1.4, en vigor desde el jueves, 16 de septiembre de 2022
 {: datetime="2022-09-16" }

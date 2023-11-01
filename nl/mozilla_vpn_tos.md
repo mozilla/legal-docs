@@ -1,4 +1,4 @@
-﻿# Voorwaarden van de Mozilla VPN Terms
+# Voorwaarden van de Mozilla VPN Terms
 
 Versie 3.3, van kracht vanaf donderdag 23 december 2021
 {: datetime="2021-12-23" }

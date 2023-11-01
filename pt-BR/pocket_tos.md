@@ -1,4 +1,4 @@
-﻿# Termos de Serviço
+# Termos de Serviço
 
 *Data de vigência: 27 de janeiro de 2021*
 {: datetime="2021-01-27" }

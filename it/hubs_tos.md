@@ -1,7 +1,7 @@
-﻿# Condizioni di utilizzo del servizio Hubs
+# Condizioni di utilizzo del servizio Hubs
 
-Versione 1.2, in vigore dal 21 marzo 2023
-{: datetime="2023-03-21" }
+Versione 1.3, in vigore dal 1 novembre 2023
+{: datetime="2023-11-01" }
 
 Hubs (il "Servizio") è un nuovo servizio in anteprima che consente di creare e gestire un proprio set di piattaforme di comunicazione in tempo reale per la realtà virtuale, la realtà aumentata, il desktop, il laptop o dispositivi mobili. Si tratta di un servizio disponibile in abbonamento a pagamento.  
 
@@ -9,8 +9,8 @@ Le presenti Condizioni di utilizzo del servizio illustrano i tuoi diritti e le t
 
 ## 1. Iscrizione a Hubs
 
-### È necessario un account Firefox
-Per utilizzare il Servizio è necessario un account Firefox. Per creare l'account Firefox, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox/) dell'account Firefox.
+### È necessario un account Mozilla
+Per utilizzare il Servizio è necessario un account Mozilla. Per creare un account Mozilla, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/mozilla-accounts/) dell'account Mozilla.
 
 ### Pagamento
 __Pagamento.__ Offriamo il Servizio in abbonamento con rinnovo automatico. Registrandoti, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo di Servizio sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
@@ -18,7 +18,7 @@ __Pagamento.__ Offriamo il Servizio in abbonamento con rinnovo automatico. Regis
 __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi al Servizio tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a tutela dei consumatori nel tuo Paese.
 
 ### Puoi annullare l'abbonamento in qualsiasi momento
-__Annullamento.__ Puoi annullare l'abbonamento al Servizio in qualsiasi momento disattivando il tuo account e revocando l'iscrizione. A tal fine devi fare clic sul link "Annulla abbonamento" che trovi in qualsiasi email che ti inviamo in relazione al Servizio, oppure selezionare "Annulla" nella sezione Abbonamenti e pagamenti del tuo account Firefox. Se scegli di annullare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione corrente.
+__Annullamento.__ Puoi annullare l'abbonamento al Servizio in qualsiasi momento disattivando il tuo account e revocando l'iscrizione. A tal fine devi fare clic sul link "Annulla abbonamento" che trovi in qualsiasi email che ti inviamo in relazione al Servizio, oppure selezionare "Annulla" nella sezione Abbonamenti e pagamenti del tuo account Mozilla. Se scegli di annullare, il rinnovo automatico si interromperà, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso al Servizio al termine del ciclo di fatturazione corrente.
 
 ## 2. Comunicazioni e contenuti
 Hubs consente agli utenti di inviare informazioni (come audio, video, testo, immagini, modelli 3D e scene) ad altri utenti.
@@ -42,7 +42,7 @@ Utilizzando Hubs, accetti di rispettare le [Condizioni d'uso](https://www.mozill
 
 __Idoneità.__ Per utilizzare il servizio di abbonamento a pagamento, devi risiedere in un Paese in cui Hubs è disponibile. Hubs é attualmente disponibile in Canada, Germania, Regno Unito e Stati Uniti.
 
-__Utilizzo di Hubs.__ Se disponi di un abbonamento a pagamento a Hubs, Mozilla ti concede il permesso di utilizzarlo in base alle presenti Condizioni di utilizzo del servizio. Non puoi trasferire o rivendere il Servizio Hubs. Una licenza acquistata si estende solo alla persona o all'entità che possiede l'account Firefox associato all'istanza di Hubs. 
+__Utilizzo di Hubs.__ Se disponi di un abbonamento a pagamento a Hubs, Mozilla ti concede il permesso di utilizzarlo in base alle presenti Condizioni di utilizzo del servizio. Non puoi trasferire o rivendere il Servizio Hubs. Una licenza acquistata si estende solo alla persona o all'entità che possiede l'account Mozilla associato all'istanza di Hubs.
 
 Con un abbonamento a pagamento, puoi disporre di un massimo di 25 utenti per stanza di Hubs e fino a 2 GB di spazio di archiviazione per la tua istanza di Hubs.
 

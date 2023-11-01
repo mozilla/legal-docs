@@ -1,4 +1,4 @@
-﻿# Conditions d’utilisation de Firefox Relay
+# Conditions d’utilisation de Firefox Relay
 
 Version 1.4 - Date d’effet : jeudi 16 septembre 2022
 {: datetime="2022-09-16" }

@@ -1,7 +1,7 @@
-﻿# Terma Perkhidmatan Hubs
+# Terma Perkhidmatan Hubs
 
-Versi 1.2, berkuat kuasa pada 21 Mac 2023
-{: datetime="2023-03-21" }
+Versi 1.3, berkuat kuasa pada 01 November 2023
+{: datetime="2023-11-01" }
 
 Hubs ("Perkhidmatan") merupakan perkhidmatan pratonton baharu yang membolehkan anda menyediakan dan mengurus set platform komunikasi masa nyata anda sendiri untuk realiti maya, realiti terimbuh, komputer meja, komputer riba atau telefon bimbit. Hubs tersedia dalam bentuk perkhidmatan langganan berbayar.  
 
@@ -9,8 +9,8 @@ Terma Perkhidmatan ini akan menerangkan hak dan tanggungjawab anda semasa anda m
 
 ## 1. Langganan Hubs
 
-### Anda Memerlukan Akaun Firefox
-Akaun Firefox diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Firefox, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/firefox/) untuk akaun Firefox anda.
+### Anda Memerlukan Akaun Mozilla
+Akaun Mozilla diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Mozilla, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akaun Mozilla anda.
 
 ### Pembayaran Anda
 __Pembayaran.__ Kami menawarkan Perkhidmatan sebagai perkhidmatan langganan yang diperbaharui secara automatik. Ketika anda mendaftar, anda memberi kami kuasa untuk mengenakan yuran langganan bagi penggal pertama Perkhidmatan pada kaedah pembayaran yang anda berikan. Pelan anda akan diperbaharui secara automatik pada hujung setiap penggal dan anda memberi kami kuasa untuk mengenakan yuran langganan pada setiap penggal. Jika anda berhenti membuat pembayaran, kami akan menggantung akaun anda dengan segera dan akan memadamkan akaun tersebut selepas 2 bulan tanpa pembayaran.
@@ -18,7 +18,7 @@ __Pembayaran.__ Kami menawarkan Perkhidmatan sebagai perkhidmatan langganan yang
 __Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan Perkhidmatan melalui laman web Mozilla, jika anda membatalkan akaun anda dalam masa 30 hari, anda boleh meminta bayaran balik dan Mozilla akan membayar balik langganan penggal pertama anda. Tawaran ini hanya terpakai untuk kali pertama anda melanggan. Perkara ini merupakan tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
 ### Anda Boleh Membatalkan Langganan Anda pada Bila-bila Masa
-__Pembatalan.__ Anda boleh membatalkan langganan Perkhidmatan anda pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh berbuat demikian dengan mengklik pautan "Batalkan Langganan" dalam mana-mana e-mel yang kami hantar kepada anda berkenaan dengan Perkhidmatan atau pergi ke seksyen Langganan & Bayaran pada akaun Firefox anda dan klik "Batal". Jika anda memilih untuk membatalkan langganan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang dan anda akan kehilangan akses kepada Perkhidmatan pada hujung kitaran pengebilan semasa.
+__Pembatalan.__ Anda boleh membatalkan langganan Perkhidmatan anda pada bila-bila masa dengan menyahaktifkan akaun anda dan membatalkan langganan anda. Anda boleh berbuat demikian dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda berkenaan dengan Perkhidmatan atau pergi ke seksyen Langganan & Bayaran pada akaun Mozilla anda dan klik “Batal”. Jika anda memilih untuk membatalkan langganan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang dan anda akan kehilangan akses kepada Perkhidmatan pada hujung kitaran pengebilan semasa.
 
 ## 2. Komunikasi dan Kandungan
 Hubs membenarkan pengguna anda menghantar maklumat (seperti audio, video, teks, imej, model 3D dan pemandangan) kepada pengguna lain.
@@ -42,7 +42,7 @@ Dengan menggunakan Hubs, anda bersetuju bahawa anda akan mematuhi [Syarat Penggu
 
 __Kelayakan.__ Untuk menggunakan perkhidmatan langganan berbayar, anda mestilah berada di negara yang Hubs tersedia. Buat masa ini, Hubs tersedia di Kanada, Jerman, United Kingdom dan Amerika Syarikat.
 
-__Penggunaan Hubs oleh Anda.__ Jika anda mempunyai langganan berbayar semasa bagi Hubs, Mozilla memberi anda kebenaran untuk menggunakan Hubs mengikut Terma Perkhidmatan ini. Anda tidak boleh memindahkan dan menjual semula Perkhidmatan Hubs tersebut. Lesen yang dibeli hanya boleh digunakan oleh individu atau entiti yang memiliki akaun Firefox yang dikaitkan dengan tika Hubs. 
+__Penggunaan Hubs oleh Anda.__ Jika anda mempunyai langganan berbayar semasa bagi Hubs, Mozilla memberi anda kebenaran untuk menggunakan Hubs mengikut Terma Perkhidmatan ini. Anda tidak boleh memindahkan dan menjual semula Perkhidmatan Hubs tersebut. Lesen yang dibeli hanya boleh digunakan oleh individu atau entiti yang memiliki akaun Mozilla yang dikaitkan dengan tika Hubs.
 
 Dengan langganan berbayar, anda boleh mempunyai hingga 25 pengguna bagi setiap bilik Hubs dan ruang storan hingga 2GB untuk Hubs anda.
 

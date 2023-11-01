@@ -1,7 +1,7 @@
-﻿# Mozilla Abonnementsservices | Servicevoorwaarden
+# Mozilla Abonnementsservices | Servicevoorwaarden
 
-Versie 1.1, van kracht vanaf donderdag 15 juni 2023
-{: datetime="2023-06-15" }
+Versie 1.2, van kracht vanaf woensdag 1 november 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
@@ -13,8 +13,8 @@ Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke in
 
 ## Abonneren op Mozilla Services
 
-### U hebt een Firefox-account nodig
-Voor het gebruik van de Services is een Firefox-account vereist. Als u een Firefox-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en de [Privacyverklaring](https://www.mozilla.org/privacy/firefox/) voor uw Firefox-account.
+### U hebt een Mozilla-account nodig
+Voor het gebruik van de Service is een Mozilla-account vereist. Als u een Mozilla-account wilt maken, moet u instemmen met de [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) en de [Privacyverklaring](https://www.mozilla.org/privacy/mozilla-accounts/) voor uw Mozilla-account.
 
 ### Uw privacy
 In de [Privacyverklaring voor Mozilla Abonnementsservices](https://www.mozilla.org/privacy/subscription-services) wordt uitgelegd welke informatie er wordt verzonden wanneer u de Services gebruikt en hoe we met deze informatie omgaan en hoe we deze delen.
@@ -25,10 +25,11 @@ Mozilla is een wereldwijde organisatie en onze computers en de computers van onz
 __Betaling.__ Wij bieden de Services aan als abonnementsservices die automatisch worden verlengd. Wanneer u zich registreert, machtigt u ons om de abonnementskosten in rekening te brengen bij de betalingsmethode die u hebt opgegeven voor de eerste termijn van de Service(s) waarvoor u zich hebt geregistreerd. Uw abonnement wordt aan het einde van elke termijn automatisch verlengt en u machtig ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van twee onbetaalde maanden verwijderen.
 
 __Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op de Services abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen annuleert. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
-Aankopen via Apple of Google App Stores. Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store of de Google Play Store, is uw betaling onderworpen aan de voorwaarden van de App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple of Google richten.
+
+__Aankopen via Apple of Google App Stores.__ Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store of de Google Play Store, is uw betaling onderworpen aan de voorwaarden van de App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple of Google richten.
 
 ### U kunt uw abonnement op elk gewenst moment opzeggen
-U kunt uw abonnement op de Services op elk gewenst moment annuleren. U kunt dit doen door op de koppeling Abonnement annuleren te klikken in een e-mail over de Services die u van ons ontvangt of door naar het gedeelte [Abonnementen en betalingen](https://accounts.firefox.com/subscriptions/) van uw Firefox-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de Services aan het einde van de huidige factureringscyclus.
+U kunt uw abonnement op de Services op elk gewenst moment opzeggen. U kunt dit doen door op de koppeling Abonnement opzeggen te klikken in een e-mail over de Services die u van ons ontvangt of door naar het gedeelte [Abonnementen en betalingen](https://accounts.firefox.com/subscriptions/) van uw Mozilla-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de Services aan het einde van de huidige factureringscyclus.
 
 ## Mozilla VPN
 
@@ -95,7 +96,7 @@ __Intellectueel eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla
 
 * __Mozilla kan deze Voorwaarden bijwerken.__ Mozilla kan er van tijd tot tijd toe toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. Uw voortgezette gebruik van de Services wordt opgevat als uw aanvaarding van dergelijke wijzigingen. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer onze recentste update is uitgevoerd.
 
-* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Services te staken en uw abonnement te annuleren. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Services op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Services te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw Account.
+* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Services te staken en uw abonnement te annuleren. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Services op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Services te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
 
 Als we uw toegang tot de Services beëindigen zonder specifieke oorzaak, blijft u gedurende de huidige factureringsperiode toegang tot de Services houden of betalen we u de huidige maand terug. We behouden ons echter het recht voor om uw gebruik van de Service onmiddellijk te beëindigen als we er in alle redelijkheid van overtuigd zijn dat u de Gebruiksvoorwaarden hebt geschonden of dat u deze Voorwaarden anderszins hebt geschonden.
 

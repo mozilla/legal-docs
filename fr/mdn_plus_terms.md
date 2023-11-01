@@ -1,15 +1,15 @@
-﻿# MDN Plus - Conditions d’utilisation
+# MDN Plus - Conditions d’utilisation
 
-Version 1.1 - Date d’effet : mercredi 24 mai 2023
-{: datetime="2023-05-24" }
+Version 1.2 - Date d’effet : mercredi 1er novembre 2023
+{: datetime="2023-11-01" }
 
 MDN Plus est un service d’abonnement fournissant des fonctionnalités premium, notamment MDN hors ligne, des collections, thèmes et mises à jour. (le « Service »). Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation du Service.
 
 ## Vous devez être éligible pour utiliser le Service
 
-Vous devez résider dans un pays où le Service est disponible. À ce stade, le Service est proposé dans les pays suivants : États-Unis, Canada, Royaume-Uni, Allemagne, France, Italie, Espagne, Belgique, Autriche, Suisse, Pays-Bas, Malaisie, Nouvelle-Zélande et Singapour. Un compte Firefox est requis pour utiliser le Service.
+Vous devez résider dans un pays où le Service est disponible. À ce stade, le Service est proposé dans les pays suivants : États-Unis, Canada, Royaume-Uni, Allemagne, France, Italie, Espagne, Belgique, Autriche, Suisse, Pays-Bas, Irlande, Malaisie, Nouvelle-Zélande et Singapour. Un compte Mozilla est requis pour utiliser le Service.
 
-Pour créer un compte Firefox, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/firefox/) pour votre compte Firefox.
+Pour créer un compte Mozilla, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/mozilla-accounts/) applicables à votre compte Mozilla.
 
 ## Votre confidentialité
 
@@ -38,7 +38,7 @@ __Politique de remboursement à 30 jours.__ Lors de votre premier abonnement à 
 
 ## Vous pouvez annuler votre abonnement à tout moment
 
-__Annulation.__ Vous pouvez annuler votre abonnement à MDN Plus à tout moment. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des emails que nous vous envoyons ou en accédant à la section [Abonnements payants](https://subscriptions.firefox.com) de votre compte Firefox, puis en cliquant sur « Annuler » sur votre abonnement MDN Plus. Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès au Service à la fin de la période de facturation en cours.
+__Annulation.__ Vous pouvez annuler votre abonnement à MDN Plus à tout moment. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des e-mails que nous vous envoyons ou en accédant à la section [Abonnements payants](https://subscriptions.firefox.com) de votre compte Mozilla, puis en cliquant sur « Annuler » sur votre abonnement MDN Plus. Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès au Service à la fin de la période de facturation en cours.
 
 ## Vous êtes responsable des conséquences de votre utilisation du Service
 
@@ -56,7 +56,7 @@ __Annulation.__ Vous pouvez annuler votre abonnement à MDN Plus à tout moment
 
 * __Mozilla se réserve le droit de modifier ces Conditions.__ Mozilla peut décider de modifier ces Conditions de temps à autre. Nous publierons les Conditions modifiées en ligne. Nous considérerons votre utilisation des Services comme une acceptation de ces modifications. Nous mentionnerons la date d’effet en haut de cette page pour préciser la date de notre mise à jour la plus récente.
 
-* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser le Service et en supprimant MDN Plus. Mozilla peut suspendre ou mettre fin à l’accès au Service de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin au Service. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse email associée à votre compte ou lors du prochain accès à votre compte.
+* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d'y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d'utiliser le Service et en supprimant MDN Plus. Mozilla peut suspendre ou mettre fin à l’accès au Service de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin au Service. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse électronique associée à votre compte ou lors du prochain accès à votre compte.
 
 Si nous résilions votre accès au Service sans raison spécifique, vous continuerez à pouvoir accéder au Service jusqu’à la fin de votre abonnement en cours, ou nous vous rembourserons le mois en cours. Toutefois, nous nous réservons le droit de résilier immédiatement votre utilisation du Service si nous avons des motifs raisonnables de croire que vous avez enfreint les Conditions d’utilisation, ou avez autrement enfreint les présentes Conditions.
 

@@ -1,4 +1,4 @@
-﻿# Nutzungsbedingungen
+# Nutzungsbedingungen
 
 *Gültig ab 27. Januar 2021*
 {: datetime="2021-01-27" }

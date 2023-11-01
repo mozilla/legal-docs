@@ -1,4 +1,4 @@
-﻿# إشعار خصوصية Firefox Focus وKlar
+# إشعار خصوصية Firefox Focus وKlar
 
 14 أكتوبر 2021
 {: datetime="2021-10-14" }

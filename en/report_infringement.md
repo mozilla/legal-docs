@@ -15,9 +15,9 @@ Your DMCA Notice must include all of the following information:
 5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
 6. A statement that the information in your DMCA Notice is accurate, and under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the copyright owner.
 
-### Where do you email/send/fax the DMCA Notice?
+### Where do you send the DMCA Notice?
 
-The quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). If you prefer, you can send or fax it to:
+To submit notices related to content on Mozilla.social, please use [this form](https://reports.mozilla.social/infringement-form). For other Mozilla products and sites, the quickest way is to email it to [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). If you prefer, you can send it to:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
@@ -25,7 +25,7 @@ Attn: Mozilla’s Designated DMCA Agent
 4th Floor  
 San Francisco, CA 94105  
 
-Mozilla’s Designated Agent’s fax is 650-903-0875 and phone is 650-903-0800.
+Mozilla’s Designated Agent’s phone is +1 650-903-0800.
 
 ### What happens after sending the DMCA Notice?
 

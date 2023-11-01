@@ -1,4 +1,4 @@
-﻿# Informativa sulla privacy di Firefox Focus e Klar
+# Informativa sulla privacy di Firefox Focus e Klar
 
 Giovedì 14 ottobre 2021
 {: datetime="2021-10-14" }
@@ -14,7 +14,7 @@ Focus invia dati a Mozilla per:
 
 * __Dati tecnici__: Possiamo ricevere informazioni di base sul tuo dispositivo e su Focus, come versione installata, sistema operativo utilizzato, informazioni di base su blocchi ed errori e fuso orario e impostazioni locali del sistema.
 
-* __Dati relativi alle interazioni__: Riceviamo informazioni sulla frequenza con cui utilizzi Focus e interagisci con determinati prompt e funzioni. Sono incluse informazioni sull'ora di inizio delle nuove sessioni di navigazione, sulla frequenza di utilizzo della funzione di ricerca o di avvio di un browser esterno da Focus e sulle funzioni che hai abilitato nella schermata Impostazioni.
+* __Dati relativi alle interazioni__: Riceviamo informazioni sulla frequenza con cui utilizzi Focus e interagisci con determinati prompt e funzioni. Sono incluse informazioni sull'ora di inizio delle nuove sessioni di navigazione, sulla frequenza di utilizzo della funzione di ricerca o di avvio di un browser esterno da Focus e sulle funzioni che hai attivato nella schermata Impostazioni.
 
 Puoi leggere la documentazione relativa alla telemetria di Android [qui](https://github.com/mozilla-mobile/focus-android/blob/main/docs/Telemetry.md) e [qui](https://dictionary.telemetry.mozilla.org/apps/focus_android), e di iOS [qui](https://dictionary.telemetry.mozilla.org/apps/focus_ios).
 
@@ -26,4 +26,4 @@ Puoi leggere la documentazione relativa alla telemetria di Android [qui](https:/
 
 Puoi eseguire ricerche utilizzando direttamente la barra degli indirizzi ("Awesome Bar"). Mozilla non riceve le tue query di ricerca. Riceviamo dati sulle tue interazioni con la funzione di ricerca in Firefox Focus e sul numero di ricerche che effettui tramite i nostri partner di ricerca. I dati delle query di ricerca vengono inviati al tuo fornitore di servizi di ricerca predefinito, che ha la propria informativa sulla privacy. 
 
-* __Suggerimenti di ricerca__: Se l'opzione è abilitata, Firefox Focus invia le tue query di ricerca al tuo fornitore di servizi di ricerca per aiutarti a scoprire frasi comuni usate nelle ricerche da altri e migliorare la tua esperienza di ricerca. Questi dati non saranno inviati se il fornitore di servizi di ricerca selezionato non supporta i suggerimenti di ricerca.
+* __Suggerimenti di ricerca__: Se l'opzione è attiva, Firefox Focus invia le tue query di ricerca al tuo fornitore di servizi di ricerca per aiutarti a scoprire frasi comuni usate nelle ricerche da altri e migliorare la tua esperienza di ricerca. Questi dati non saranno inviati se il fornitore di servizi di ricerca selezionato non supporta i suggerimenti di ricerca.

@@ -1,4 +1,4 @@
-﻿# Firefox Focus i Klar — powiadomienie o ochronie prywatności
+# Firefox Focus i Klar — powiadomienie o ochronie prywatności
 
 14 października 2021 r.
 {: datetime="2021-10-14" }

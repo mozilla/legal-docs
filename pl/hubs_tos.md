@@ -1,7 +1,7 @@
-﻿# Warunki korzystania z usługi Hubs
+# Warunki korzystania z usługi Hubs
 
-Wersja 1.2, obowiązuje od 21 marca 2023 r.
-{: datetime="2023-03-21" }
+Wersja 1.3, obowiązuje od 1 listopada 2023 r.
+{: datetime="2023-11-01" }
 
 Hubs („Usługa”) to nowa usługa przedpremierowa, umożliwiająca skonfigurowanie własnego zestawu działających w czasie rzeczywistym platform komunikacyjnych do obsługi rzeczywistości wirtualnej i rzeczywistości rozszerzonej na komputerze stacjonarnym, laptopie lub urządzeniu mobilnym, a także zarządzanie nimi. Jest dostępna jako płatna usługa subskrypcyjna.  
 
@@ -9,8 +9,8 @@ W niniejszych Warunkach korzystania z Usługi objaśniono prawa i obowiązki uż
 
 ## 1. Subskrypcja usługi Hubs
 
-### Potrzebne będzie konto Firefox
-Do korzystania z Usługi wymagane jest posiadanie konta Firefox. Aby utworzyć konto Firefox, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/firefox/) dotyczące konta Firefox.
+### Potrzebne będzie konto Mozilla
+Do korzystania z Usługi wymagane jest posiadanie konta Mozilla. Aby utworzyć konto Mozilla, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/mozilla-accounts/) dotyczące konta Mozilla.
 
 ### Płatność użytkownika
 __Płatność.__ Oferujemy Usługę jako automatycznie odnawianą usługę subskrypcyjną. Rejestrując się, użytkownik upoważnia nas do obciążenia podanej przez siebie metody płatności opłatami za subskrypcję za pierwszy okres korzystania z Usługi. Plan użytkownika odnawia się automatycznie na koniec każdego okresu, a użytkownik upoważnia nas do pobierania opłat za subskrypcję w każdym okresie. Jeśli użytkownik przestanie płacić, natychmiast zawiesimy jego konto, a po 2 miesiącach niepłacenia możemy je usunąć.
@@ -18,7 +18,7 @@ __Płatność.__ Oferujemy Usługę jako automatycznie odnawianą usługę subsk
 __Zasady zwrotu kosztów w ciągu 30 dni.__ Przy pierwszej subskrypcji Usługi za pośrednictwem witryny firmy Mozilla, jeśli użytkownik zrezygnuje z konta w ciągu pierwszych 30 dni, może zażądać zwrotu pieniędzy, a Mozilla zwróci pieniądze za pierwszy okres subskrypcji. Ta oferta obowiązuje tylko przy pierwszej subskrypcji. Stanowi to dodatek do praw przysługujących użytkownikowi na mocy przepisów konsumenckich obowiązujących w danym kraju.
 
 ### Użytkownik może anulować subskrypcję w dowolnym momencie
-__Anulowanie.__ Użytkownik może anulować subskrypcję Usługi w dowolnym momencie, dezaktywując swoje konto i anulując subskrypcję. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usługi lub przechodząc do sekcji Subskrypcje i płatności na swoim koncie Firefox i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się na anulowanie, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
+__Anulowanie.__ Użytkownik może anulować subskrypcję Usługi w dowolnym momencie, dezaktywując swoje konto i anulując subskrypcję. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usługi lub przechodząc do sekcji Subskrypcje i płatności na swoim koncie Mozilla i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się na anulowanie, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
 
 ## 2. Komunikacja i zawartość
 Usługa Hubs umożliwia użytkownikom przesyłanie informacji (na przykład dźwięku, obrazu, tekstu, obrazów, modeli 3D i scen) innym użytkownikom.
@@ -42,7 +42,7 @@ Korzystając z usługi Hubs, użytkownik zgadza się przestrzegać ustalonych pr
 
 __Dostępność.__ Aby korzystać z płatnej subskrypcji, użytkownik musi znajdować się w kraju, w którym usługa Hubs jest dostępna. Usługa Hubs jest obecnie dostępna w Kanadzie, Niemczech oraz Wielkiej Brytanii i Stanach Zjednoczonych.
 
-__Korzystanie z usługi Hubs.__ Jeśli użytkownik posiada aktualną, płatną subskrypcję usługi Hubs, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. Usługi Hubs nie można przenieść ani odsprzedać. Wykupiona licencja obejmuje wyłącznie osobę lub podmiot będące właścicielem konta Firefox powiązanego z daną instancją usługi Hubs. 
+__Korzystanie z usługi Hubs.__ Jeśli użytkownik posiada aktualną, płatną subskrypcję usługi Hubs, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. Usługi Hubs nie można przenieść ani odsprzedać. Wykupiona licencja obejmuje wyłącznie osobę lub podmiot będące właścicielem konta Mozilla powiązanego z daną instancją usługi Hubs.
 
 W ramach płatnej subskrypcji można mieć maksymalnie 25 użytkowników w pokoju Hubs oraz do 2 GB miejsca na pokoje Hubs.
 

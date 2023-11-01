@@ -1,4 +1,4 @@
-﻿# Zasady ochrony prywatności
+# Zasady ochrony prywatności
 
 *Data wejścia w życie: 29 listopada 2022 r.*
 {: datetime="2022-11-29" }

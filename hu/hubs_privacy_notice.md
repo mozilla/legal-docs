@@ -1,11 +1,11 @@
-﻿# Hubs adatvédelmi nyilatkozat
-1.1-es verzió, hatálybalépés dátuma: 2023. március 21.
-{: datetime="2023-03-21" }
+# Hubs adatvédelmi nyilatkozat
+1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
+{: datetime="2023-11-01" }
 
 ## Az általunk gyűjtött és megosztott információk a Hubs-szobák számára
 
 ### A velünk és más résztvevőkkel megosztott információk
-__Fiókadatok:__ A Hubs-előfizetés megvásárlásához Firefox-fiókra lesz szüksége. A felhasználónak azonban nincs szüksége fiókra a Hubs használatához. Bizonyos funkciókhoz (például az avatár tárolásához) fiókra van szükség. Fiókot a Hubs vagy a Discord felületén hozhat létre. Ha fiókot hoz létre az e-mail-címével, akkor az e-mail-címének kivonatolt változatát tároljuk. Ha a Discord felületén hoz létre fiókot, megkapjuk a Discord-fiókjához tartozó e-mail-címet és a Discord-avatárt.
+__Fiókadatok:__ A Hubs-előfizetés megvásárlásához Mozilla-fiókra lesz szüksége. A felhasználónak azonban nincs szüksége fiókra a Hubs használatához. Bizonyos funkciókhoz (például az avatár tárolásához) fiókra van szükség. Fiókot a Hubs vagy a Discord felületén hozhat létre. Ha fiókot hoz létre az e-mail-címével, akkor az e-mail-címének kivonatolt változatát tároljuk. Ha a Discord felületén hoz létre fiókot, megkapjuk a Discord-fiókjához tartozó e-mail-címet és a Discord-avatárt.
 
 __Szobanevek és URL-címek:__ A szobák és szobanevek nyilvánosan elérhetők az URL-cím birtokában. A Mozilla eltárolja a megosztott hivatkozás nevét és URL-címét, így Ön és mások, akik rendelkeznek a szoba hivatkozásával, újra használhatják.
 
@@ -38,13 +38,13 @@ __Hozzárendelési információk:__ Amikor egy felhasználó jelenetet vagy avat
 __Fiókadatok:__ A jelenetek vagy avatárok közzétételéhez a Hubs szolgáltatásban a felhasználónak Hubs-fiókkal kell rendelkeznie. A Mozilla megkapja és tárolja az e-mail-cím kivonatolt változatát, amely lehetővé teszi, hogy bejelentkezzen, és megtekintse 3D-szoba modelljeit és avatárjait.
 
 ## Az Ön előfizetésével kapcsolatban gyűjtött információk
-__A Firefox-fiókra vonatkozó adatok.__ A Hubs-előfizetéshez Firefox-fiók szükséges, amely elküldi a Mozillának az Ön e-mail-címét, területi beállításait és IP-címét. További információk [a Firefox-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__A Mozilla-fiókra vonatkozó adatok.__ A Hubs-előfizetéshez Mozilla-fiók szükséges, amely elküldi a Mozillának az Ön e-mail-címét, területi beállításait és IP-címét. További információk [a Mozilla-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
 
-__Helyadatok.__ A Mozilla megkapja az Ön IP-címét a Firefox-fiókjától, amikor regisztrál és használja a szolgáltatást. Az IP-címet arra használjuk, hogy hozzávetőlegesen meghatározzuk a tartózkodási helyét, mivel a Mozilla VPN jelenleg csak bizonyos országokban érhető el.
+__Helyadatok.__ A Mozilla megkapja az Ön IP-címét a Mozilla-fiókjától, amikor regisztrál és használja a szolgáltatást. Az IP-címet arra használjuk, hogy hozzávetőlegesen meghatározzuk a tartózkodási helyét, mivel a Mozilla VPN jelenleg csak bizonyos országokban érhető el.
 
-__Fizetési adatok.__ Amikor előfizet a Szolgáltatásokra, a fizetést az alábbi harmadik fél fizetési szolgáltatók egyike segítségével küldi el: Stripe, Apple, PayPal vagy Google Pay. A Mozilla nyilvántartást kap a fiókjáról (beleértve a számlázási címét és a fizetési mód utolsó négy számjegyét), valamint eléri a fiók előfizetésének állapotát is, de nem tárolja a teljes fizetési adatait. A fizetési szolgáltatók személyes tranzakciós adatokat vagy eszközinformációkat is gyűjthetnek cookie-k és hasonló technológiák segítségével szolgáltatásaik működtetése és fejlesztése érdekében. Ha többet szeretne megtudni arról, hogy ezek a vállalatok hogyan használják és kezelik az Ön adatait, tekintse át adatvédelmi szabályzatukat, amely a webhelyükön érhető el.
+__Fizetési adatok.__ Amikor előfizet a Szolgáltatásokra, a fizetést az alábbi harmadik fél fizetési szolgáltatók egyike segítségével küldi el: Stripe, Apple, PayPal vagy Google Pay. A Mozilla nyilvántartást kap a fiókjáról (beleértve a számlázási címét és a fizetési mód utolsó négy számjegyét), valamint eléri a fiók előfizetésének állapotát is, de nem tárolja a teljes fizetési adatait. A fizetési szolgáltatók személyes tranzakciós adatokat vagy eszközinformációkat is gyűjthetnek cookie-k és hasonló technológiák segítségével szolgáltatásaik működtetése és fejlesztése érdekében. Ha többet szeretne megtudni arról, hogy ezek a vállalatok hogyan használják és kezelik az Ön adatait, tekintse át adatvédelmi nyilatkozataikat, amelyek a webhelyeiken érhető el.
 
-__Használati adatok.__ Információkat kapunk a Hubs-példány szobáiról és felhasználóiról. Például megtudjuk, mikor hoz létre és töröl szobákat, hány szoba található a Hubs-példányban, és hány felhasználó van az egyes szobákban. Arról is kapunk információkat, hogy mennyi tárhelyet használ a Hubs-példány. 
+__Használati adatok.__ Információkat kapunk a Hubs-példány szobáiról és felhasználóiról. Például megtudjuk, mikor hoz létre és töröl szobákat, hány szoba található a Hubs-példányban, és hány felhasználó van az egyes szobákban. Arról is kapunk információkat, hogy mennyi tárhelyet használ a Hubs-példány.
 
 ## Kinek adhat ki információkat a Hubs szolgáltatás
 __A Hubs-házigazda:__ Ha Hubs-példányt használ, a Mozilla megosztja az információkat a Hubs-példányt létrehozó Hubs-előfizetővel. Ez magában foglalja az Ön felhasználónevét, a fiókjával és létrehozásának időpontjával kapcsolatos információkat, valamint a jeleneteket, az avatárokat és egyéb tartalmakat, amelyeket egy Hubs-szobához ad hozzá.  
@@ -59,6 +59,16 @@ __Keresési szolgáltatók:__ Képeket, GIF-eket és 3D-modelleket kereshet, ame
 * [YouTube](https://policies.google.com/privacy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-policy/)
 
-__Twitter:__ Ha összekapcsolja a Twittert a Hubs szolgáltatással, tweetelhet és megoszthat 2D-képeket a Hubs-szobákból. Minden tweetelt tartalmat megosztunk a Twitterrel, és közzétesszük a Twitter platformon. További információkért olvassa el a [Twitter adatvédelmi szabályzatát](https://twitter.com/en/privacy).
+__X (korábban Twitter):__ Ha összekapcsolja az X-et a Hubs szolgáltatással, tweetelhet és megoszthat 2D-képeket a Hubs-szobákból. Minden tweetelt tartalmat megosztunk az X-szel, és közzétesszük az X platformon. További információkért olvassa el az [X adatvédelmi szabályzatát](https://twitter.com/privacy).
 
 __Discord:__ Ha összekapcsolja a Discordot a Hubs szolgáltatással, tároljuk a hozzáférési tokeneket, valamint a csatlakoztatott szerverek és csatornák azonosítóit. Szinkronizáljuk a csevegési üzeneteket, a szobaváltásokat, az Ön által létrehozott 2D- és 3D-objektumokat, valamint azt, hogy csatlakozik-e a csatlakoztatott Discord-csatornához, vagy kilép-e. A Hubs nem naplóz szinkronizált üzeneteket. További információkért olvassa el a [Discord adatvédelmi szabályzatát](https://discordapp.com/privacy).
+
+## Egyéb információk, amelyeket tudnia kell
+
+További információk a [Mozilla-fiók adatainak kezeléséről](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Emellett a Mozilla-fiók felhasználójáról tárolt adatok nagy része könnyen elérhető, ha [bejelentkezik](https://accounts.firefox.com/signin) fiókjába, ahol frissítheti [adatmegosztási beállításait](https://accounts.firefox.com/settings/) is. A személyes adatokkal kapcsolatos kérelmek benyújtásához vegye fel velünk a kapcsolatot az [Érintett hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül.
+
+Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a compliance@mozilla.com címen.
+
+Az adatvédelmi jogaikat gyakorolni kívánó egyénektől kapott minden megkeresésre válaszolunk, függetlenül attól, hogy az egyének hol tartózkodnak. Eleget teszünk kérésének, kivéve, ha ezt jogszabályi előírás akadályozza meg, vagy ha jogszabályi kivétel vonatkozik rá.
+
+Keresse fel [fórumainkat](https://support.mozilla.org/) az általános támogatásért.

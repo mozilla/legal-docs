@@ -1,32 +1,32 @@
-﻿# Firefox Cloud Services: Termini di servizio
+# Termini di servizio degli account Mozilla
 
-Ultimo aggiornamento domenica 10 aprile 2022
-{: datetime="2022-04-10" }
+Ultimo aggiornamento 1 novembre 2023
+{: datetime="2023-11-01" }
 
 ## Riepilogo
 
 La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene fornito per aiutarvi a comprendere i termini; tuttavia, assicuratevi di leggere l'intero documento, perché, quando lo accetterete, indicherete che accettate tutti i termini, non solo quanto scritto nel riepilogo.
 
-* Firefox Cloud Services (i "Servizi") consistono in una suite di servizi forniti all'utente da Mozilla.
+* Gli account Mozilla ("Servizi") comprendono l'account utente e la suite di servizi forniti da Mozilla tramite tale account.
 * I servizi sono forniti "così come sono" e senza garanzie di alcun tipo. Esistono una serie di importanti limitazioni della responsabilità di Mozilla per eventuali danni derivanti dall'uso dei Servizi da parte dell'utente.
 
 ## Termini di servizio
 
 1. #### Introduzione
 
-    I presenti Termini di servizio ("<u>Termini</u>") governano l'utilizzo da parte dell'utente dei Firefox Cloud Services, suite di servizi online offerta da Mozilla ("Servizi").
+    I presenti Termini di servizio ("<u>Termini</u>") governano l'utilizzo da parte dell'utente degli account Mozilla, una suite di servizi online fornita da Mozilla ("Servizi").
 
-2. #### Account Firefox
+2. #### Account Mozilla
 
-    Per utilizzare alcuni Servizi, l'utente dovrà creare un account Firefox. Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Firefox. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Firefox da parte dell'utente.
+    Per utilizzare alcuni Servizi, l'utente dovrà creare un account Mozilla. Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Mozilla. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Mozilla da parte dell'utente.
 
 3. #### Servizi 
 
-    (a) Mozilla VPN è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net/). Per utilizzare questo servizio è richiesto un account Firefox.
+    (a) Mozilla VPN è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net/). Per utilizzare questo servizio è richiesto un account Mozilla.
     
-    (b) Firefox Relay consente di mantenere l'indirizzo email principale sicuro e riservato quando si utilizzano servizi online, creando indirizzi email alias univoci che permettono di inviare e ricevere messaggi senza rivelare l'indirizzo email principale. Per utilizzare questo servizio è richiesto un account Firefox.
+    (b) Firefox Relay consente di mantenere l'indirizzo email principale sicuro e riservato quando si utilizzano servizi online, creando indirizzi email alias univoci che permettono di inviare e ricevere messaggi senza rivelare l'indirizzo email principale. Per utilizzare questo servizio è richiesto un account Mozilla.
     
-    (c) Firefox Monitor è un servizio informativo finalizzato a promuovere la sicurezza online tramite la diffusione di informazioni su violazioni pubbliche dei dati. È possibile eseguire la scansione di propri indirizzi email sul nostro sito web per sapere se sono stati esposti a violazioni pubbliche conosciute. L'iscrizione con un account Firefox dà diritto a quanto segue: 
+    (c) Firefox Monitor è un servizio informativo finalizzato a promuovere la sicurezza online tramite la diffusione di informazioni su violazioni pubbliche dei dati. È possibile eseguire la scansione di propri indirizzi email sul nostro sito web per sapere se sono stati esposti a violazioni pubbliche conosciute. L'iscrizione con un account Mozilla dà diritto a quanto segue: 
 
     * Rapporto completo – Include un elenco completo degli attacchi pubblicamente conosciuti, comprese violazioni di siti web sensibili, come siti per bambini o per adulti e siti di incontri (tali siti sono esclusi dalle scansioni dei siti web per proteggere la privacy di tali individui). 
     * Avvisi di violazione – L'utente riceve una notifica nel caso il proprio indirizzo email sia oggetto di una nuova violazione di dati. 
@@ -34,26 +34,27 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     È responsabilità dell'utente proteggere i propri account online tramite password complesse e diversificate, domande di sicurezza, autenticazione a due fattori, gestori di password e altre misure di sicurezza. Nonostante Firefox Monitor e il servizio [Have I Been Pwned?](https://haveibeenpwned.com/) facciano il possibile per avere sempre dati aggiornati, non vi è alcuna garanzia che le informazioni di cui dispongono sulle violazioni pubbliche di dati siano complete e tempestive. 
 
-    (d) Firefox Notes consente di prendere appunti in Firefox. È necessario un account Firefox per visualizzare, modificare ed eliminare le note dai vari dispositivi utilizzati. 
+    (d) Firefox Notes permette di prendere appunti in Firefox. È necessario un account Mozilla per visualizzare, modificare ed eliminare le note dai vari dispositivi utilizzati. 
 
-    (e) Firefox Sync consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, Awesome Bar, password, segnalibri e preferenze del browser, da diversi dispositivi. Firefox Sync può essere attivato e disattivato dalla sezione Impostazioni di Firefox. Per utilizzare questo servizio è richiesto un account Firefox. 
+    (e) La funzione di sincronizzazione dati di Firefox consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, barra degli indirizzi intelligente, password, segnalibri e preferenze del browser, da diversi dispositivi. La funzione di sincronizzazione dati può essere attivata e disattivata dalla sezione Impostazioni di Firefox. Per utilizzare questo servizio è richiesto un account Mozilla. 
     
     (f) Pocket aiuta a trovare contenuti personalizzati in base ai propri interessi e a salvarli per visualizzarli in successivamente, su qualsiasi dispositivo, in qualsiasi momento. 
 
 4. #### Informativa sulla privacy
 
-    Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella[Politica sulla Privacy di Mozilla](https://www.mozilla.org/privacy/). Gli Avvisi sulla privacy descrivono più nel dettaglio i dati che riceviamo da ciascun servizio:
+    Le informazioni ricevute attraverso i Servizi vengono utilizzate come descritto nella [Politica sulla Privacy di Mozilla](https://www.mozilla.org/privacy/). Gli Avvisi sulla privacy descrivono più nel dettaglio i dati che riceviamo da ciascun servizio:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
-    * [Firefox sync](https://www.mozilla.org/privacy/firefox/#sync)
+    * [Sincronizzazione dati di Firefox](https://www.mozilla.org/privacy/firefox/#sync)
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Comunicazioni
 
-    Inviamo periodicamente messaggi finalizzati ad aiutare l'utente a sfruttare al meglio il proprio account Firefox. Tali messaggi possono essere contenuti all'interno di un prodotto oppure recapitati all'indirizzo email con cui ci si è registrati e possono contenere informazioni sull'onboarding, sui vari servizi dell'account Firefox e su offerte e sondaggi correlati. È inoltre possibile scegliere di ricevere altri tipi di messaggi. 
+    Inviamo periodicamente messaggi finalizzati ad aiutare l'utente a sfruttare al meglio il proprio account Mozilla. Tali messaggi possono essere contenuti all'interno di un prodotto oppure recapitati all'indirizzo email con cui ci si è registrati e possono contenere informazioni sull'onboarding, sui vari servizi dell'account Mozilla e su offerte e sondaggi correlati. È inoltre possibile scegliere di ricevere altri tipi di messaggi. 
     
     L'utente può modificare l'iscrizione alle email di Mozilla direttamente dalle nostre email (facendo clic sul link in fondo al messaggio) o dal browser (selezionando Firefox / Preferenze / Sincronizzazione / Gestisci account / Preferenze email).
     
@@ -70,9 +71,9 @@ Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal
 
 8. #### Fine; Cessazione
 
-    I presenti Termini continueranno ad essere applicati fino alla cessazione da parte dell'utente o di Mozilla. L'utente potrà scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, eliminando il proprio account Firefox, interrompendo l'uso dei Servizi e, se applicabile, annullando l'iscrizione alle nostre email. 
+    I presenti Termini continueranno ad essere applicati fino alla cessazione da parte dell'utente o di Mozilla. L'utente potrà scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, eliminando il proprio account Mozilla, interrompendo l'uso dei Servizi e, se applicabile, annullando l'iscrizione alle nostre email. 
 
-    Possiamo sospendere o interrompere l'accesso ai Servizi dal parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo email associato al suo account Firefox, oppure al suo successivo tentativo di accesso ai Servizi.
+    Possiamo sospendere o interrompere l'accesso ai Servizi dal parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo email associato al suo account Mozilla, oppure al suo successivo tentativo di accesso ai Servizi.
 
     In tutti questi casi, i presenti Termini saranno considerati conclusi, inclusa, senza limitazioni, la licenza dell'utente all'utilizzo dei Servizi, fatta eccezione per le seguenti sezioni, che continueranno a essere applicabili: Indennizzo, Esclusione di garanzia, Limitazione di responsabilità, Varie ed eventuali.
 

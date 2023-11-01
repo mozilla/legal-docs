@@ -1,7 +1,7 @@
-﻿# Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
+# Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
 
-Versiunea 1.1, în vigoare de la 15 iunie 2023
-{: datetime="2023-06-15" }
+Versiunea 1.2, în vigoare de la 1 noiembrie 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation oferă diverse servicii pentru a vă îmbunătăți confidențialitatea și securitatea online, inclusiv Mozilla VPN și Firefox Relay ("Serviciile").
 
@@ -13,8 +13,8 @@ Vă rugăm să citiți cu atenție acești Termeni de utilizare a serviciului, d
 
 ## Abonarea la Serviciile Mozila
 
-### Aveți nevoie de un cont Firefox
-Un cont Firefox este necesar pentru utilizarea Serviciilor. Pentru crearea unui cont Firefox, trebuie să fiți de acord cu [Termenii de utilizare a Serviciilor](https://www.mozilla.org/about/legal/terms/services/) și cu [Notificarea privind confidențialitatea](https://www.mozilla.org/privacy/firefox/) aferente contului Firefox.
+### Veți avea nevoie de un cont Mozilla
+Pentru a utiliza Serviciile este necesar un cont Mozilla. Pentru a crea un cont Mozilla este necesar să vă exprimați acordul cu [Termenii de utilizare](https://www.mozilla.org/about/legal/terms/services/) și [Notificarea de confidențialitate](https://www.mozilla.org/privacy/mozilla-accounts/) pentru contul dumneavoastră Mozilla.
 
 ### Confidențialitatea dumneavoastră
 [Notificarea privind confidențialitatea pentru Serviciile de abonament Mozilla](https://www.mozilla.org/privacy/subscription-services) explică ce informații sunt trimise atunci când utilizați Serviciile și cum administrăm și partajăm aceste informații.
@@ -29,7 +29,7 @@ __Politica de rambursare în 30 de zile.__ Prima dată când vă abonați la Ser
 __Cumpărare prin magazinele Apple sau Google App.__ Dacă ați achiziționat abonamentul prin cumpărare din aplicație din magazinul Apple sau Google Play, plata este supusă termenilor și condițiilor din magazinul respectiv. Pentru astfel de achiziții, orice solicitare de facturare și rambursare trebuie trimisă către Apple sau respectiv Google.
 
 ### Puteți anula abonamentul în orice moment
-Vă puteți anula abonamentul la Servicii în orice moment. Puteți face acest lucru accesând linkul "Anulare abonament" din orice e-mail pe care vi-l trimitem referitor la Servicii sau accesând secțiunea [Abonamente și plăți](https://accounts.firefox.com/subscriptions/) din contul dumneavoastră Firefox și apăsând "Anulare". Dacă alegeți să renunțați la abonament, reînnoirea automată va înceta, nu vom mai factura nicio sumă pentru perioadele de plată viitoare și veți pierde accesul la Servicii la sfârșitul ciclului de facturare curent.
+Vă puteți anula abonamentul la Servicii în orice moment. Puteți face acest lucru apăsând linkul "Anulare abonament" din orice e-mail pe care vi-l trimitem despre Servicii sau accesând secțiunea [Abonamente și plăți](https://accounts.firefox.com/subscriptions/) din contul dumneavoastră Mozilla și apăsând "Anulare". Dacă alegeți să renunțați la abonament, reînnoirea automată va înceta, nu vom mai factura nicio sumă pentru perioadele de plată viitoare și veți pierde accesul la Servicii la sfârșitul ciclului de facturare curent.
 
 ## Mozilla VPN
 
@@ -96,7 +96,7 @@ __Proprietatea intelectuală a Mozilla.__ Nici Mozilla și nici licențiatorii s
 
 * __Mozilla poate să actualizeze acești termeni.__ Periodic, Mozilla poate decide să actualizeze acești Termeni. Vom publica online Termenii actualizați. Dacă veți continua să utilizați Serviciile, vom considera că acest lucru reprezintă acceptarea acestor modificări de către dumneavoastră. În partea de sus a acestei pagini vom publica data de intrare în vigoare, pentru a fi evident când am efectuat cea mai recentă actualizare.
 
-* __Rezilierea.__ Acești Termeni se aplică până când dumneavoastră sau Mozilla decideți rezilierea lor. Puteți alege rezilierea lor în orice moment și din orice motiv, renunțând să mai utilizați Serviciile și anulându-vă abonamentul. Mozilla poate suspenda sau rezilia accesul oricărei persoane la Servicii în orice moment și din orice motiv, inclusiv dacă Mozilla decide să oprească furnizarea Serviciilor. În cazul în care decidem să suspendăm sau să reziliem accesul dumneavoastră, vom încerca să vă notificăm la adresa de e-mail asociată contului dumneavoastră sau cu prima ocazie când încercați să vă accesați contul.
+* __Rezilierea.__ Acești Termeni se aplică până când dumneavoastră sau Mozilla decideți rezilierea lor. Puteți alege rezilierea lor în orice moment și din orice motiv, renunțând să mai utilizați Serviciile și anulându-vă abonamentul. Mozilla poate suspenda sau rezilia accesul oricărei persoane la Servicii în orice moment și din orice motiv, inclusiv dacă Mozilla decide să oprească furnizarea Serviciilor. În cazul în care decidem să suspendăm sau să încheiem accesul dumneavoastră, vom încerca să vă notificăm la adresa de e-mail asociată contului dumneavoastră sau la următoarea încercare de accesare a contului dumneavoastră.
 
 În cazul în care vă reziliem accesul la Servicii fără un motiv anume, veți continua să aveți acces la Serviciu pentru perioada de facturare curentă sau vă vom rambursa suma aferentă lunii curente. Cu toate acestea, ne rezervăm dreptul de a vă întrerupe imediat utilizarea Serviciului în cazul în care avem motive întemeiate să credem că ați încălcat Condițiile de utilizare sau că ați încălcat în alt mod acești Termeni.
 

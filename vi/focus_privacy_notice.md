@@ -1,4 +1,4 @@
-﻿# Thông báo Quyền riêng tư của Firefox Focus và Klar
+# Thông báo Quyền riêng tư của Firefox Focus và Klar
 
 14 Tháng Mười 2021
 {: datetime="2021-10-14" }
