@@ -3,12 +3,12 @@
 Versione 1.0, in vigore dal 1 novembre 2023
 {: datetime="2023-11-01" }
 
-In questa Informativa sulla privacy, spieghiamo quali dati Mozilla raccoglie e condivide su di te. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni raccolte tramite il tuo [account Mozilla](https://accounts.firefox.com/), rispettiamo inoltre le prassi indicate nell'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/). Inoltre, potrebbero essere raccolte e condivise informazioni dai diversi prodotti e servizi a cui hai accesso con il tuo account Mozilla. Puoi consultare la documentazione completa oppure trovare ulteriori informazioni su come [gestire i dati dell'account Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) o sulle nostre prassi relative ai dati per [siti web e email](https://www.mozilla.org/privacy/websites/). È inoltre possibile visionare le Informative sulla privacy dei servizi collegati al nostro account Mozilla, che sono:
+In questa Informativa sulla privacy, spieghiamo quali dati Mozilla raccoglie e condivide su di te. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni raccolte tramite il tuo [account Mozilla](https://accounts.firefox.com/), rispettiamo inoltre le prassi indicate nell'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/). Inoltre, potrebbero essere raccolte e condivise informazioni dai diversi prodotti e servizi a cui hai accesso con il tuo account Mozilla. Puoi consultare la documentazione completa oppure trovare ulteriori informazioni su come [gestire i dati dell'account Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) o sulle nostre prassi relative ai dati per [siti web ed email](https://www.mozilla.org/privacy/websites/). È inoltre possibile visionare le Informative sulla privacy dei servizi collegati al nostro account Mozilla, che sono:
 
 - [Firefox Browser](https://www.mozilla.org/privacy/firefox/)
 - [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor)
 - [Pocket](https://getpocket.com/privacy/)
-- [Firefox Sync](https://www.mozilla.org/privacy/firefox/#sync)
+- [Sincronizzazione dati di Firefox](https://www.mozilla.org/privacy/firefox/#sync)
 - [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
 - [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
 - [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)

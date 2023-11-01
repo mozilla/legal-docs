@@ -27,7 +27,7 @@ __Dati tecnici.__ In tutti i Servizi in abbonamento, il tuo indirizzo IP viene t
 
 __Dati sulla posizione.__ Quando ti iscrivi e utilizzi i servizi, i Servizi in abbonamento di Mozilla ricevono il tuo indirizzo IP, che viene memorizzato nei registri del nostro server per 90 giorni; lo utilizziamo per determinare approssimativamente la tua posizione, poiché la disponibilità, i prezzi e le offerte dei Servizi in abbonamento di Mozilla possono variare in base al Paese in cui ti trovi. Lo utilizziamo anche per la prevenzione di frodi e abusi nei nostri prodotti.
 
-__Dati di rete.__ All'attivazione, Mozilla VPN provvede alla crittografia del tuo traffico Internet e lo invia a Mullvad. Quando usi il servizio Mozilla VPN, né Mozilla né il nostro partner Mullvad conservano alcun registro con le tue attività sulla rete. Per ulteriori informazioni, consulta l'[Informativa sulla privacy di Mullvad](https://mullvad.net/help/no-logging-data-policy/).
+__Dati di rete.__ All'attivazione, Mozilla VPN provvede alla crittografia del tuo traffico internet e lo invia a Mullvad. Quando usi il servizio Mozilla VPN, né Mozilla né il nostro partner Mullvad conservano alcun registro con le tue attività sulla rete. Per ulteriori informazioni, consulta l'[Informativa sulla privacy di Mullvad](https://mullvad.net/help/no-logging-data-policy/).
 
 ### Firefox Relay {: #relay }
 
@@ -55,7 +55,7 @@ __Informazioni che condividiamo.__ Firefox Relay condivide informazioni con terz
 
 ## Altre cose da sapere
 
-Puoi trovare ulteriori informazioni sulla [gestione dei tuoi dati](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) e su come [abilitare o disabilitare la sincronizzazione](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer). Inoltre, molte delle informazioni che conserviamo sui nostri utenti di account Mozilla sono facilmente accessibili [dal tuo account](https://accounts.firefox.com/signin), dove puoi anche aggiornare [le impostazioni di condivisione dei dati](https://accounts.firefox.com/settings/). Per inoltrare richieste relative ai tuoi dati personali, contattaci sul nostro [Portale per la richiesta di accesso ai dati personali](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+Puoi trovare ulteriori informazioni sulla [gestione dei tuoi dati](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) e su come [attivare o disattivare la sincronizzazione](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer). Inoltre, molte delle informazioni che conserviamo sui nostri utenti di account Mozilla sono facilmente accessibili [dal tuo account](https://accounts.firefox.com/signin), dove puoi anche aggiornare [le impostazioni di condivisione dei dati](https://accounts.firefox.com/settings/). Per inoltrare richieste relative ai tuoi dati personali, contattaci sul nostro [Portale per la richiesta di accesso ai dati personali](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
 Per qualsiasi altra domanda in merito ai tuoi dati personali o alle nostre pratiche di privacy puoi contattarci all'indirizzo compliance@mozilla.com.
 
