@@ -1,4 +1,4 @@
-﻿# Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
+# Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
 Mittwoch, 1. November 2023
 {: datetime="2023-11-01" }

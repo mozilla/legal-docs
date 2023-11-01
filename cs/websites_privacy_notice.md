@@ -1,4 +1,4 @@
-﻿# Oznámení o ochraně osobních údajů pro webové stránky, sdělení a soubory cookie
+# Oznámení o ochraně osobních údajů pro webové stránky, sdělení a soubory cookie
 
 1. listopadu 2023
 {: datetime="2023-11-01" }

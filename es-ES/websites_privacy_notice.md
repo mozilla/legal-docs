@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad de sitios web, comunicaciones y cookies
+# Aviso de privacidad de sitios web, comunicaciones y cookies
 
 1 de noviembre de 2023
 {: datetime="2023-11-01" }

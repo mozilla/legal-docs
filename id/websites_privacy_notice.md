@@ -1,4 +1,4 @@
-﻿# Pemberitahuan Privasi Situs Web, Komunikasi & Cookie
+# Pemberitahuan Privasi Situs Web, Komunikasi & Cookie
 
 01 November 2023
 {: datetime="2023-11-01" }

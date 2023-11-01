@@ -1,4 +1,4 @@
-﻿# Zasady prywatności dotyczące witryn, komunikacji i plików cookie
+# Zasady prywatności dotyczące witryn, komunikacji i plików cookie
 
 1 listopada 2023 r.
 {: datetime="2023-11-01" }

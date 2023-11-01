@@ -1,4 +1,4 @@
-﻿# Webhelyekre, kommunikációra és cookie-kra vonatkozó adatvédelmi nyilatkozat
+# Webhelyekre, kommunikációra és cookie-kra vonatkozó adatvédelmi nyilatkozat
 
 2023. november 1.
 {: datetime="2023-11-01" }

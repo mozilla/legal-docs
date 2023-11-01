@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité relative aux sites Web, aux communications et aux cookies
+# Politique de confidentialité relative aux sites Web, aux communications et aux cookies
 
 Mercredi 1er novembre 2023
 {: datetime="2023-11-01" }

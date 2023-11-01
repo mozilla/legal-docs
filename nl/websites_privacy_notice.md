@@ -1,4 +1,4 @@
-﻿# Privacykennisgeving voor websites, communications en cookies
+# Privacykennisgeving voor websites, communications en cookies
 
 Woensdag 1 november 2023
 {: datetime="2023-11-01" }
