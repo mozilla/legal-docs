@@ -1,32 +1,32 @@
-﻿# Firefox Bulut Hizmetleri: Hizmet Koşulları
+# Mozilla Hesapları Hizmet Koşulları
 
-Son Güncelleme: 10 Nisan 2022 Pazar
-{: datetime="2022-04-10" }
+Son Güncelleme: 01 Kasım 2023 Çarşamba
+{: datetime="2023-11-01" }
 
 ## Özet
 
 Üstte yer alan bu bölümde, aşağıdaki koşulların bir özeti sunulmuştur. Bu özet, koşulları daha iyi anlamanıza yardımcı olmak için sunulmuştur; ancak belgenin tamamını kabul ettiğinizde, yalnızca özeti değil, tüm koşulları kabul ettiğinizi belirteceğiniz için belgenin tamamını okuduğunuzdan emin olun.
 
-* Firefox bulut hizmetleri ("Hizmetler"), Mozilla tarafından size sağlanan hizmetleri içeren bir pakettir.
+* Mozilla hesapları (“Hizmetler”), hesabınızı ve Mozilla’nın bu hesabı kullanarak size sunduğu hizmet paketini içerir.
 * Hizmetler, “olduğu gibi” sağlanmakta olup, herhangi bir garanti sunulmamaktadır. Mozilla’nın, Hizmetler’i kullanımınızdan doğan herhangi bir zararla ilgili yükümlülüğüne ilişkin önemli kısıtlamalar mevcuttur.
 
 ## Hizmet Koşulları
 
 1. #### Giriş
 
-    Bu Hizmet Koşulları ("<u>Koşullar</u>"), Mozilla tarafından size sağlanan çevrimiçi hizmetleri içeren bir paket olan Bulut Hizmetleri ("Hizmetler") kullanımınızı yönetir.
+    Bu Hizmet Koşulları (“<u>Koşullar</u>”), Mozilla tarafından size sunulan çevrimiçi hizmetlerin yer aldığı bir paket olan Mozilla hesaplarını (“Hizmetler”) kullanımınızı yönetir.
 
-2. #### Firefox Hesapları
+2. #### Mozilla Hesapları
 
-    Bazı Hizmetleri kullanmak için bir Firefox hesabı oluşturmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Firefox hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olacaksınız. Mozilla, Firefox hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
+    Bazı Hizmetleri kullanmak için bir Mozilla hesabı oluşturmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Mozilla hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olursunuz. Mozilla, Mozilla hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
 
 3. #### Hizmetler 
 
-    (a) Mozilla VPN, [Mullvad](https://mullvad.net/) ile ortaklaşa bir Sanal Özel Ağdır. Bir Firefox hesabı gereklidir.
+    (a) Mozilla VPN, [Mullvad](https://mullvad.net/) ile ortaklaşa bir Sanal Özel Ağdır. Bir Mozilla hesabı gereklidir.
     
-    (b) Firefox Relay, birincil e-posta adresinizi açıklamadan e-posta gönderip almanıza olanak tanıyan benzersiz, takma ad e-posta adresleri oluşturarak birincil e-posta adresinizi çevrimiçi hizmetlerden güvenli ve gizli tutmanıza olanak tanır. Bir Firefox hesabı gereklidir.
+    (b) Firefox Relay, birincil e-posta adresinizi açıklamadan e-posta gönderip almanıza olanak tanıyan benzersiz, takma ad e-posta adresleri oluşturarak birincil e-posta adresinizi çevrimiçi hizmetlerden güvenli ve gizli tutmanıza olanak tanır. Bir Mozilla hesabı gereklidir.
     
-    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Firefox hesabı ile kayıt yaptırırsanız, aşağıdakileri alırsınız: 
+    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Mozilla hesabı ile kayıt yaptırırsanız aşağıdakileri alırsınız: 
 
     * Tam Rapor: Bu rapor, çocuklar için hassas olan siteler veya yetişkin siteleri ve arkadaş bulma siteleri gibi hassas web sitelerinin ihlalleri de dahil olmak üzere, herkese açık saldırıların tam bir listesini içerir (bu tür siteler, söz konusu bireylerin gizliliğini korumak için web sitesi taramalarına dahil edilmez). 
     * İhlal Uyarıları: E-posta adresinizin yeni bir veri ihlalinde görüntülenmesi durumunda sizi bilgilendirir. 
@@ -34,9 +34,9 @@ Son Güncelleme: 10 Nisan 2022 Pazar
 
     Güçlü ve farklı şifreler, güvenlik soruları, iki adımda kimlik doğrulama, şifre yöneticileri ve diğer güvenlik tedbirleriyle çevrimiçi hesaplarınızı korumak, sizin sorumluluğunuzdadır. Firefox Monitor ve [Have I Been Pwned?](https://haveibeenpwned.com/) verileri güncel tutmaya çalışmakla birlikte, ikisinin de herkese açık veri ihlallerine ilişkin tam veya zamanında sunulan kayıtlara sahip olacağına yönelik bir garanti yoktur. 
 
-    (d) Firefox Notes, Firefox’ta not almanıza izin verir. Cihazlardaki notlarınızı görüntülemek, düzenlemek ve silmek için bir Firefox hesabı gereklidir. 
+    (d) Firefox Notes, Firefox’ta notlar oluşturabilmenizi sağlar. Cihazlarınızdaki notlarınızı görüntülemek, düzenlemek ve silmek için bir Mozilla hesabı gereklidir. 
 
-    (e) Firefox sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox sync’i Firefox’un Ayarlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Bir Firefox hesabı gereklidir. 
+    (e) Firefox sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox sync’i Firefox’un Ayarlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Bir Mozilla hesabı gereklidir. 
     
     (f) Pocket, ilgi alanlarınıza göre kişiselleştirilmiş harika içeriği keşfetmenize ve bu içeriği daha sonra herhangi bir cihazda, istediğiniz zaman geri dönebilmeniz için kaydetmenize yardımcı olur. 
 
@@ -50,10 +50,11 @@ Son Güncelleme: 10 Nisan 2022 Pazar
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### İletişim
 
-    Firefox Hesabınızdan en iyi şekilde yararlanmanızı sağlamak için düzenli olarak mesajlar göndeririz. Bu mesajları ürün içinde veya kaydolduğunuz adrese alabilirsiniz. Mesajlar; katılım, farklı Firefox hesap hizmetleri ile ilgili teklifleri ve anketleri kapsar. Diğer e-posta mesajlarını almayı da seçebilirsiniz. 
+    Mozilla Hesabınızdan en iyi şekilde yararlanmanızı sağlamak için düzenli olarak mesajlar göndeririz. Bu mesajları ürün içinde veya kaydolduğunuz adrese alabilirsiniz. Mesajlar; katılım, farklı Mozilla hesap hizmetleri ve ilgili teklifler ile anketleri kapsar. Diğer e-posta mesajlarını almayı da seçebilirsiniz. 
     
     Mozilla ile e-posta aboneliklerinizi e-postalarımızdan (alttaki bağlantıyı tıklayın) veya tarayıcıdan (Firefox / Tercihler / Sync / Hesabı yönet / E-posta Tercihleri sayfasını ziyaret edin) değiştirebilirsiniz.
     
@@ -62,7 +63,7 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 
-    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için ](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
+    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
 
 7. #### Mozilla'nın Mülkiyet Hakları
 
@@ -70,9 +71,9 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 
 8. #### Süre; Sonlandırma
 
-    İşbu Koşullar, siz veya Mozilla tarafından sonlandırılana kadar geçerli olmaya devam edecektir. Firefox hesabınızı silerek, Hizmetleri kullanımınıza son vererek ve geçerli olması halinde, e-posta aboneliğinizi iptal ederek herhangi bir nedenle bunları istediğiniz zaman sonlandırmayı seçebilirsiniz. 
+    İşbu Koşullar, siz veya Mozilla tarafından sonlandırılana kadar geçerli olmaya devam edecektir. Mozilla hesabınızı silerek, Hizmetleri kullanımınıza son vererek ve geçerli olması halinde, e-posta aboneliğinizi iptal ederek herhangi bir nedenle bunları istediğiniz zaman sonlandırmayı seçebilirsiniz. 
 
-    Aşağıdakiler de dahil olmak, ancak bunlarla sınırlı olmamak kaydıyla, makul bir şekilde geçerliliğine inandığımız herhangi bir neden doğrultusunda Hizmetler’e erişiminizi askıya alabilir veya sonlandırabiliriz: (i) Koşulları ihlal etmeniz, (ii) bizim için risk veya olası yasal risk teşkil etmeniz; veya (iii) Hizmetler'i tarafınıza sunmamızın ticari açıdan artık uygun olmaması. Firefox hesabınızla ilişkili e-posta adresi üzerinden veya ileride Hizmetler’e erişmeye çalıştığınızda sizi bilgilendirmek için makul çabaları sarf edeceğiz.
+    Aşağıdakiler de dahil olmak ancak bunlarla sınırlı olmamak kaydıyla, makul bir şekilde geçerliliğine inandığımız herhangi bir neden doğrultusunda Hizmetler’e erişiminizi askıya alabilir veya sonlandırabiliriz: (i) Koşulları ihlal etmeniz, (ii) bizim için risk veya olası yasal risk teşkil etmeniz; veya (iii) Hizmetler'i tarafınıza sunmamızın ticari açıdan artık uygun olmaması. Mozilla hesabınızla ilişkili e-posta adresi üzerinden veya ileride Hizmetler’e erişmeye çalıştığınızda sizi bilgilendirmek için makul çabaları sarf edeceğiz.
 
     İşbu Koşullar; aşağıdaki bölümlerin geçerli olmaya devam etmesi haricinde tüm durumlarda, bununla sınırlı olmamak kaydıyla Hizmetler’i kullanmaya ilişkin lisansınızı sonlandıracaktır: Tazminat, Sorumluluk Reddi; Sorumluluğun Sınırlandırılması, Muhtelif Hususlar.
 

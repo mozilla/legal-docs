@@ -1,15 +1,15 @@
-﻿# Terma Perkhidmatan MDN Plus
+# Terma Perkhidmatan MDN Plus
 
-Versi 1.1, berkuat kuasa pada 24 Mei 2023
-{: datetime="2023-05-24" }
+Versi 1.2, berkuat kuasa pada 01 November 2023
+{: datetime="2023-11-01" }
 
 MDN Plus ialah perkhidmatan langganan yang menyediakan fungsian premium termasuk MDN luar talian, kutipan, tema dan kemas kini. (“Perkhidmatan”). Sila baca Terma Perkhidmatan ini dengan teliti. Ia akan menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
 ## Anda Perlu Layak untuk Menggunakan Perkhidmatan
 
-Anda perlu berada di dalam negara di mana Perkhidmatan ini tersedia. Pada masa ini, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Belanda, Ireland, Malaysia, New Zealand dan Singapura. Akaun Firefox diperlukan untuk mengguna Perkhidmatan ini.
+Anda perlu berada di dalam negara di mana Perkhidmatan ini tersedia. Pada masa ini, Perkhidmatan ini tersedia di Amerika Syarikat, Kanada, United Kingdom, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Belanda, Ireland, Malaysia, New Zealand dan Singapura. Akaun Mozilla diperlukan untuk menggunakan Perkhidmatan.
 
-Untuk mencipta Akaun Firefox, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis](https://www.mozilla.org/privacy/firefox/) bagi Akaun Firefox anda.
+Untuk mencipta akaun Mozilla, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akaun Mozilla anda.
 
 ## Privasi Anda
 
@@ -38,7 +38,7 @@ __Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan MDN Plus melal
 
 ## Anda Boleh Batal Langganan Anda Pada Bila-bila Masa
 
-__Pembatalan.__ Anda boleh membatalkan langganan MDN Plus pada bila-bila masa. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke bahagian [Langganan Berbayar](https://subscriptions.firefox.com) di Akaun Firefox anda dan klik “Batal” pada langganan MDN Plus anda. Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
+__Pembatalan.__ Anda boleh membatalkan langganan MDN Plus pada bila-bila masa. Anda boleh melakukan ini dengan mengklik pautan “Batalkan Langganan” dalam mana-mana e-mel yang kami hantar kepada anda atau pergi ke bahagian [Langganan  Berbayar](https://subscriptions.firefox.com) di akaun Mozilla anda dan klik “Batal” pada langganan MDN Plus anda. Sekiranya anda memilih untuk membatalkan, pembaharuan automatik akan dihentikan, kami tidak akan mengenakan caj kepada anda untuk sebarang tempoh pembayaran akan datang, dan anda akan kehilangan akses kepada perkhidmatan di akhir kitaran bil semasa.
 
 ## Anda Bertanggungjawab Terhadap Akibat daripada Penggunaan Perkhidmatan oleh Anda
 
@@ -56,7 +56,7 @@ __Pembatalan.__ Anda boleh membatalkan langganan MDN Plus pada bila-bila masa. A
 
 * __Mozilla Boleh Mengemas Kini Terma Ini.__ Dari semasa ke semasa, Mozilla boleh memutuskan untuk mengemas kini Terma ini. Kami akan menghantar Terma yang dikemas kini secara dalam talian. Kami akan menganggap penggunaan Perkhidmatan anda secara berterusan sebagai penerimaan perubahan tersebut. Kami akan meletakkan tarikh kuat kuasa pada bahagian atas halaman ini untuk menjelaskan masa kami membuat kemas kini terbaru.
 
-* __Penamatan.__ Terma-terma ini terpakai sehingga sama ada anda atau Mozilla membuat keputusan untuk menamatkan terma. Anda boleh memilih untuk menamatkan pada bila-bila masa atas sebarang sebab dengan berhenti daripada menggunakan Perkhidmatan dan menghapuskan MDN Plus. Mozilla boleh menggantung atau menamatkan akses Perkhidmatan sesiapa sahaja pada bila-bila masa tanpa sebarang sebab, termasuklah jika Mozilla memutuskan untuk menamatkan Perkhidmatan. Sekiranya kami memutuskan untuk menggantung atau menamatkan akses anda, kami akan berusaha untuk memberitahu anda di alamat e-mel yang berkaitan dengan akaun anda atau pada waktu berikutnya anda cuba mengakses Akaun anda.
+* __Penamatan.__ Terma-terma ini terpakai sehingga sama ada anda atau Mozilla membuat keputusan untuk menamatkan terma. Anda boleh memilih untuk menamatkan pada bila-bila masa atas sebarang sebab dengan berhenti daripada menggunakan Perkhidmatan dan menghapuskan MDN Plus. Mozilla boleh menggantung atau menamatkan akses Perkhidmatan sesiapa sahaja pada bila-bila masa tanpa sebarang sebab, termasuklah jika Mozilla memutuskan untuk menamatkan Perkhidmatan. Sekiranya kami memutuskan untuk menggantung atau menamatkan akses anda, kami akan berusaha untuk memberitahu anda di alamat e-mel yang berkaitan dengan akaun anda atau pada waktu berikutnya anda cuba mengakses akaun anda.
 
 Jika kami menamatkan akses anda kepada Perkhidmatan ini tanpa sebab tertentu, anda masih boleh mengakses Perkhidmatan ini sepanjang tempoh pembilan semasa atau pihak kami akan membayar balik bulan semasa. Walau bagaimanapun, kami berhak untuk menamatkan penggunaan Perkhidmatan ini jika kami percaya bahawa anda telah melanggar Syarat Penggunaan atau anda telah melanggar Terma-terma ini.
 

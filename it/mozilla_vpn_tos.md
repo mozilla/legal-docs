@@ -1,11 +1,11 @@
-﻿# Termini di servizio di Mozilla VPN
+# Termini di servizio di Mozilla VPN
 
 Versione 3.3, in vigore dal 23 dicembre 2021
 {: datetime="2021-12-23" }
 
 Mozilla VPN (il "Servizio") è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo del Servizio.
 
-In seguito all'attivazione, questo Servizio nasconde il tuo traffico Internet al tuo fornitore di servizi Internet e alla maggior parte dei siti web che visiti crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti e il tuo fornitore di servizi Internet.
+In seguito all'attivazione, questo Servizio nasconde il tuo traffico internet al tuo fornitore di servizi internet e alla maggior parte dei siti web che visiti crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti e il tuo fornitore di servizi internet.
 
 ## Requisiti di idoneità per usare il Servizio
 

@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité de Firefox Focus et Klar
+# Politique de confidentialité de Firefox Focus et Klar
 
 Jeudi 14 octobre 2021
 {: datetime="2021-10-14" }

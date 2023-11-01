@@ -1,4 +1,4 @@
-﻿# Condiciones del servicio de Mozilla VPN
+# Condiciones del servicio de Mozilla VPN
 
 Versión 3.3, en vigor desde el jueves, 23 de diciembre de 2021
 {: datetime="2021-12-23" }

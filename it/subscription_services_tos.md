@@ -1,11 +1,11 @@
-﻿# Servizi Mozilla in abbonamento | Termini di servizio
+# Servizi Mozilla in abbonamento | Termini di servizio
 
-Versione 1.1, in vigore da giovedì 15 giugno 2023
-{: datetime="2023-06-15" }
+Version 1.2, in vigore da mercoledì 1 novembre 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza online, tra cui Mozilla VPN e Firefox Relay (i "Servizi").
 
-__Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico Internet al tuo fornitore di servizi Internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
+__Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico internet al tuo fornitore di servizi internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
 
 __Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando degli alias che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
 
@@ -13,8 +13,8 @@ Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto co
 
 ## Abbonamento ai Servizi Mozilla
 
-### È necessario un account Firefox
-Per utilizzare i Servizi è necessario un account Firefox. Per creare l'account Firefox, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/firefox/) dell'account Firefox.
+### È necessario un account Mozilla
+Per utilizzare i Servizi è necessario un account Mozilla. Per creare un account Mozilla, devi accettare i [Termini di servizio](https://www.mozilla.org/about/legal/terms/services/) e l'[Informativa sulla privacy](https://www.mozilla.org/privacy/mozilla-accounts/) dell'account Mozilla.
 
 ### La tua privacy
 L'[Informativa sulla privacy dei Servizi Mozilla in abbonamento](https://www.mozilla.org/privacy/subscription-services) spiega quali informazioni vengono inviate quando utilizzi i Servizi e in che modo vengono gestite e condivise.
@@ -25,10 +25,11 @@ Mozilla è un'organizzazione globale e i nostri computer e quelli dei nostri for
 __Pagamento.__ Offriamo i Servizi con abbonamento a rinnovo automatico. Registrandoti, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo dei Servizi scelti sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
 
 __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi ai Servizi tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a favore dei consumatori nel tuo Paese.
-Acquisto tramite App Store di Apple o Google. Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
+
+__Acquisto tramite App Store di Apple o Google.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
 
 ### Puoi annullare l'abbonamento in qualsiasi momento
-Puoi annullare il tuo abbonamento ai Servizi in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo in relazione ai Servizi oppure selezionare "Annulla" nella sezione [Abbonamenti e pagamenti](https://accounts.firefox.com/subscriptions/) del tuo account Firefox. Se scegli di revocare, il rinnovo automatico si fermerà, non ti addebiteremo alcuna somma per periodi di pagamento futuri e perderai l'accesso ai Servizi al termine del ciclo di fatturazione attuale.
+Puoi annullare il tuo abbonamento ai Servizi in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo in relazione ai Servizi oppure selezionare "Annulla" nella sezione [Abbonamenti e pagamenti](https://accounts.firefox.com/subscriptions/) del tuo account Mozilla. Se scegli di annullare, il rinnovo automatico si interromperà, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso ai Servizi al termine del ciclo di fatturazione corrente.
 
 ## Mozilla VPN
 
@@ -95,7 +96,7 @@ __Proprietà intellettuale di Mozilla.__ Né Mozilla né i suoi licenziatari ti 
 
 * __Mozilla può aggiornare questi termini.__ Di tanto in tanto, Mozilla può decidere di aggiornare i presenti Termini. Le Condizioni aggiornate verranno pubblicate online. L'uso continuato dei Servizi implicherà l'accettazione di tali modifiche. All'inizio di questa pagina verrà pubblicata la data di entrata in vigore dei Termini, in modo che sia possibile identificare chiaramente l'aggiornamento più recente.
 
-* __Risoluzione.__ I presenti Termini sono applicabili finché tu o Mozilla non deciderete di revocarli. Puoi scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, terminando l'utilizzo dei Servizi e annullandone l'abbonamento. Mozilla può sospendere o revocare l'accesso di qualunque utente ai Servizi in qualsiasi momento e per qualunque ragione, inclusa l'eventuale decisione di Mozilla di cessare i Servizi. Se dovessimo decidere di sospendere o revocare il tuo accesso, cercheremo di avvisarti utilizzando l'indirizzo email associato al tuo account o al tuo successivo tentativo di accesso all'Account.
+* __Risoluzione.__ I presenti Termini sono applicabili finché tu o Mozilla non deciderete di revocarli. Puoi scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, terminando l'utilizzo dei Servizi e annullandone l'abbonamento. Mozilla può sospendere o revocare l'accesso di qualunque utente ai Servizi in qualsiasi momento e per qualunque ragione, inclusa l'eventuale decisione di Mozilla di cessare i Servizi. Se dovessimo decidere di sospendere o revocare il tuo accesso, cercheremo di avvisarti utilizzando l'indirizzo email associato al tuo account o al tuo successivo tentativo di accesso all'account.
 
 Se revochiamo il tuo accesso ai Servizi senza una causa specifica, potrai continuare ad accedere ai Servizi per il ciclo di fatturazione attuale o ti rimborseremo il mese in corso. Tuttavia, ci riserviamo il diritto di revocare il tuo utilizzo del Servizio immediatamente se abbiamo ragionevole motivo di credere che tu abbia violato le Condizioni di utilizzo o abbia altrimenti violato i presenti Termini.
 

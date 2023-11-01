@@ -1,15 +1,15 @@
-﻿# Ketentuan Layanan MDN Plus
+# Ketentuan Layanan MDN Plus
 
-Versi 1.1, Berlaku 24 Mei 2023
-{: datetime="2023-05-24" }
+Versi 1.2, Berlaku 01 November 2023
+{: datetime="2023-11-01" }
 
 MDN Plus adalah layanan langganan yang menyediakan fungsi, premium, termasuk MDN offline, koleksi, tema, dan pembaruan. (“Layanan”). Silakan baca Ketentuan Layanan ini dengan saksama karena terdapat informasi penting tentang penggunaan Layanan Anda.
 
 ## Anda Harus Memenuhi Syarat untuk Menggunakan Layanan
 
-Anda harus tinggal di negara yang menyediakan Layanan. Saat ini, Layanan tersedia di Amerika Serikat, Kanada, Inggris, Jerman, Prancis, Italia, Spanyol, Belgia, Austria, Swiss, Belanda, Irlandia, Malaysia, Selandia Baru, dan Singapura. Anda memerlukan Akun Firefox untuk menggunakan Layanan.
+Anda harus tinggal di negara yang menyediakan Layanan. Saat ini, Layanan tersedia di Amerika Serikat, Kanada, Inggris, Jerman, Prancis, Italia, Spanyol, Belgia, Austria, Swiss, Belanda, Irlandia, Malaysia, Selandia Baru, dan Singapura. Anda memerlukan akun Mozilla untuk menggunakan Layanan.
 
-Untuk membuat Akun Firefox, Anda juga perlu menyetujui [Ketentuan Layanan](https://www.mozilla.org/about/legal/terms/services/) dan [Pemberitahuan](https://www.mozilla.org/privacy/firefox/) untuk Akun Firefox Anda.
+Untuk membuat akun Mozilla, Anda juga perlu menyetujui [Ketentuan Layanan](https://www.mozilla.org/about/legal/terms/services/) dan [Pemberitahuan Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akun Mozilla Anda.
 
 ## Privasi Anda
 
@@ -38,7 +38,7 @@ __Kebijakan Pengembalian Dana 30 Hari.__ Saat pertama kali Anda berlangganan MDN
 
 ## Anda Dapat Membatalkan Langganan Kapan Saja
 
-__Pembatalan.__ Anda dapat membatalkan langganan MDN Plus kapan saja. Anda bisa melakukannya dengan mengeklik tautan “Batalkan Langganan” di email yang kami kirimkan kepada Anda atau dengan membuka bagian [Langganan Berbayar](https://subscriptions.firefox.com) di Akun Firefox dan mengeklik “Batalkan” pada langganan MDN Plus Anda. Jika Anda memiliki untuk membatalkan, perpanjangan otomatis akan dihentikan, kami tidak akan menagih semua pembayaran periode selanjutnya, dan Anda akan kehilangan akses ke layanan tersebut di akhir siklus tagihan yang berlaku saat itu.
+__Pembatalan.__ Anda dapat membatalkan langganan MDN Plus kapan saja. Anda bisa melakukannya dengan mengeklik tautan “Batalkan Langganan” di email yang kami kirimkan kepada Anda atau dengan membuka bagian [Langganan Berbayar](https://subscriptions.firefox.com) di akun Mozilla Anda dan mengeklik “Batalkan” pada langganan MDN Plus Anda. Jika Anda memiliki untuk membatalkan, perpanjangan otomatis akan dihentikan, kami tidak akan menagih semua pembayaran periode selanjutnya, dan Anda akan kehilangan akses ke layanan tersebut di akhir siklus tagihan yang berlaku saat itu.
 
 ## Anda Bertanggung Jawab atas Konsekuensi Penggunaan Layanan Anda
 
@@ -56,7 +56,7 @@ __Pembatalan.__ Anda dapat membatalkan langganan MDN Plus kapan saja. Anda bisa 
 
 * __Mozilla Dapat Memperbarui Ketentuan Ini.__ Mozilla mungkin memperbarui Ketentuan ini dari waktu ke waktu. Kami akan memposting pembaruan Ketentuan secara online. Dengan terus menggunakan Layanan, kami akan menganggap bahwa Anda menyetujui perubahan tersebut. Kami akan memposting tanggal berlaku di bagian atas laman ini agar jelas kapan kami melakukan perubahan terbaru.
 
-* __Pengakhiran.__ Ketentuan ini berlaku hingga Anda atau Mozilla memutuskan untuk mengakhirinya. Anda bisa memilih untuk mengakhiri ketentuan tersebut kapan pun berdasarkan alasan apa pun, dengan menghentikan penggunaan Layanan Anda dan menghapus MDN Plus. Mozilla dapat sewaktu-waktu menangguhkan atau menghentikan akses siapa pun ke Layanan dengan alasan apa pun, termasuk jika Mozilla memutuskan untuk mengakhiri Layanan. Jika kami memutuskan untuk menangguhkan atau menghentikan akses Anda, kami akan memberi tahu melalui alamat email yang terkait dengan akun Anda atau saat lain kali Anda mencoba mengakses Akun.
+* __Pengakhiran.__ Ketentuan ini berlaku hingga Anda atau Mozilla memutuskan untuk mengakhirinya. Anda bisa memilih untuk mengakhiri ketentuan tersebut kapan pun berdasarkan alasan apa pun, dengan menghentikan penggunaan Layanan Anda dan menghapus MDN Plus. Mozilla dapat sewaktu-waktu menangguhkan atau menghentikan akses siapa pun ke Layanan dengan alasan apa pun, termasuk jika Mozilla memutuskan untuk mengakhiri Layanan. Jika kami memutuskan untuk menangguhkan atau menghentikan akses Anda, kami akan memberi tahu melalui alamat email yang terkait dengan akun Anda atau saat lain kali Anda mencoba mengakses akun.
 
 Jika kami menghentikan akses Anda ke Layanan tanpa sebab khusus, Anda akan tetap memiliki akses ke Layanan selama periode penagihan yang berlaku atau kami akan mengembalikan dana untuk bulan tersebut. Namun, kami berhak untuk segera menghentikan penggunaan Layanan jika kami secara wajar meyakini bahwa Anda telah melanggar Syarat Penggunaan, atau melanggar Ketentuan ini.
 

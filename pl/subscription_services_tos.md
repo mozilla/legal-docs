@@ -1,7 +1,7 @@
-﻿# Usługi subskrypcji Mozilla | Warunki korzystania z usługi
+# Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Wersja 1.1, obowiązuje od 15 czerwca 2023 r.
-{: datetime="2023-06-15" }
+Wersja 1.2, obowiązuje od 1 listopada 2023 r.
+{: datetime="2023-11-01" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -13,8 +13,8 @@ Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ 
 
 ## Subskrypcja usług Mozilla
 
-### Potrzebne będzie konto Firefox
-Do korzystania z Usług wymagane jest posiadanie konta Firefox. Aby utworzyć konto Firefox, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/firefox/) dotyczące konta Firefox.
+### Potrzebne będzie konto Mozilla
+Do korzystania z Usług wymagane jest posiadanie konta Mozilla. Aby utworzyć konto Mozilla, należy zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/mozilla-accounts/) dotyczące konta Mozilla.
 
 ### Prywatność użytkownika
 [Zasady prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services) wyjaśniają, jakie informacje są wysyłane podczas korzystania z Usług oraz jak są one traktowane i udostępniane.
@@ -29,7 +29,7 @@ __Zasady zwrotu kosztów w ciągu 30 dni.__ Przy pierwszej subskrypcji Usług za
 __Zakup w sklepie z aplikacjami Apple lub Google.__ Jeśli subskrypcja została zakupiona poprzez zakup w aplikacji w sklepie Apple App Store lub Google Play, płatność podlega warunkom sklepu z aplikacjami. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy należy kierować odpowiednio do firmy Apple lub Google.
 
 ### Użytkownik może anulować subskrypcję w dowolnym momencie
-Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usług lub przechodząc do sekcji [Subskrypcje i płatności](https://accounts.firefox.com/subscriptions/) na swoim koncie Firefox i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się zrezygnować, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
+Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usług lub przechodząc do sekcji [Subskrypcje i płatności](https://accounts.firefox.com/subscriptions/) na swoim koncie Mozilla i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się zrezygnować, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
 
 ## Mozilla VPN
 
@@ -96,7 +96,7 @@ __Własność intelektualna firmy Mozilla.__ Ani firma Mozilla, ani jej licencjo
 
 * __Mozilla może zaktualizować niniejsze Warunki.__ Od czasu do czasu Mozilla może zaktualizować niniejsze Warunki. Zaktualizowane Warunki opublikujemy online. Dalsze korzystanie z Usług przez użytkownika będzie traktowane jako akceptacja takich zmian. Na górze tej strony umieścimy datę wejścia w życie, aby było jasne, kiedy dokonaliśmy ostatniej aktualizacji.
 
-* __Rozwiązanie.__ Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z Usług i anulowanie subskrypcji. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do Usług z dowolnej przyczyny, łącznie z zakończeniem świadczenia Usług. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do Usługi.
+* __Rozwiązanie.__ Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z Usług i anulowanie subskrypcji. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do Usług z dowolnej przyczyny, łącznie z zakończeniem świadczenia Usług. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do konta.
 
 Jeśli zakończymy dostęp użytkownika do Usług bez podania przyczyny, użytkownik będzie miał nadal dostęp do Usług w bieżącym okresie rozliczeniowym lub zwrócimy opłatę za bieżący miesiąc. Zastrzegamy sobie jednak prawo do natychmiastowego zakończenia korzystania z Usługi przez użytkownika, jeśli mamy uzasadnione powody sądzić, że naruszył on Warunki korzystania z usługi lub w inny sposób naruszył niniejsze Warunki.
 

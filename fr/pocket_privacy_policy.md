@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité
+# Politique de confidentialité
 
 *Date d’effet : mardi 29 novembre 2022*
 {: datetime="2022-11-29" }

@@ -1,4 +1,4 @@
-﻿# Datenschutzrichtlinie
+# Datenschutzrichtlinie
 
 *Gültig ab Dienstag, 29. November 2022*
 {: datetime="2022-11-29" }

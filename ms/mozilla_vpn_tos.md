@@ -1,4 +1,4 @@
-﻿# Terma Perkhidmatan Mozilla VPN
+# Terma Perkhidmatan Mozilla VPN
 
 Versi 3.3, berkuat kuasa pada 23 Disember 2021
 {: datetime="2021-12-23" }

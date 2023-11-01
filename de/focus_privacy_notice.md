@@ -1,4 +1,4 @@
-﻿# Datenschutzerklärung zu Firefox Focus und Klar
+# Datenschutzerklärung zu Firefox Focus und Klar
 
 14\. Oktober 2021
 {: datetime="2021-10-14" }

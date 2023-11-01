@@ -1,7 +1,7 @@
 # Terms of Service for Hubs
 
-Version 1.2, effective March 21, 2023
-{: datetime="2023-03-21" }
+Version 1.3, effective November 1, 2023
+{: datetime="2023-11-01" }
 
 Hubs (the “Service”) is a new, preview service that allows you to set up and manage your own set of real-time communications platforms for virtual reality, augmented reality, desktop, laptop, or mobile. It is available as a paid subscription service.  
 
@@ -9,8 +9,8 @@ These Terms of Service explain your rights and responsibilities when you use Hub
 
 ## 1. Subscribing to Hubs
 
-### You’ll Need A Firefox Account
-A Firefox account is required to use the Service. To create a Firefox account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/firefox/) for your Firefox account.
+### You’ll Need A Mozilla Account
+A Mozilla account is required to use the Service. To create a Mozilla account, you will also need to agree to the [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) and [Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/) for your Mozilla account.
 
 ### Your Payment
 __Payment.__ We offer the Service as an automatically renewing subscription service. When you sign up, you authorize us to charge the payment method you provide for the subscription fees for the first term of the Service. Your plan renews automatically at the end of each term, and you authorize us to charge the subscription fees each term. If you stop paying, we will immediately suspend your account, and we may delete it after 2 months of not paying.
@@ -18,7 +18,7 @@ __Payment.__ We offer the Service as an automatically renewing subscription serv
 __30-Day Refund Policy.__ The first time you subscribe to the Service through Mozilla’s website, if you cancel your account within the first 30 days, you may request a refund and Mozilla will refund your first subscription term. This offer only applies the first time you subscribe. This is in addition to any rights you may have under your country’s consumer laws.
 
 ### You May Cancel Your Subscription at Any Time
-__Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Firefox account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
+__Cancellation.__ You may cancel your subscription to the Service at any time by deactivating your account and canceling your subscription. You can do this by clicking the “Cancel Subscription” link in any email that we send you about the Service or by going to the Subscriptions & Payments section of your Mozilla account and clicking “Cancel.” If you choose to cancel, auto-renewal will stop, we will not charge you for any future payment periods, and you will lose access to the Services at the end of the current billing cycle.
 
 ## 2. Communications and Content
 Hubs allows your users to send information (such as audio, video, text, images, 3D models, and scenes) to other users.
@@ -42,7 +42,7 @@ By using Hubs, you agree that you will comply with Mozilla’s [Conditions of Us
 
 __Eligibility.__ To use the paid subscription service, you must be in a country where Hubs is available. Hubs is currently available in Canada, Germany, the United Kingdom, and the United States.
 
-__Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Firefox account associated with the Hubs instance. 
+__Your Use of Hubs.__ If you have a current, paid subscription to Hubs, Mozilla gives you permission to use it according to these Terms of Service. You may not transfer or resell the Hubs Service. A purchased license only extends to the person or entity who owns the Mozilla account associated with the Hubs instance. 
 
 With a paid subscription, you may have up to 25 users per Hubs room and up to 2GB of storage space for your Hubs.
 

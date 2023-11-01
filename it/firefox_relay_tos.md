@@ -1,4 +1,4 @@
-﻿# Termini di servizio di Firefox Relay
+# Termini di servizio di Firefox Relay
 
 Versione 1.4, in vigore dal 16 settembre 2022
 {: datetime="2022-09-16" }

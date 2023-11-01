@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad de Firefox Relay
+# Aviso de privacidad de Firefox Relay
 
 *Versión 1.3, en vigor desde el jueves, 10 de marzo de 2022*
 {: datetime="2022-03-10" }

@@ -1,32 +1,32 @@
-﻿# Layanan Awan Firefox: Ketentuan Layanan
+# Ketentuan Layanan Akun Mozilla
 
-Terakhir Diperbarui 10 April 2022
-{: datetime="2022-04-10" }
+Terakhir Diperbarui 01 November 2023
+{: datetime="2023-11-01" }
 
 ## Rangkuman
 
 Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk membantu Anda memahami ketentuan yang ada, tapi pastikan Anda membaca seluruh dokumen, karena jika Anda menyetujuinya, berarti Anda menerima semua ketentuan yang ada, bukan hanya rangkuman ini.
 
-* Layanan awan Firefox ("Layanan") adalah serangkaian layanan yang disediakan Mozilla untuk Anda.
+* Akun Mozilla ("Layanan") termasuk akun Anda dan serangkaian layanan yang disediakan untuk Anda oleh Mozilla menggunakan akun tersebut.
 * Layanan ini disediakan "apa adanya" dan tanpa jaminan apa pun. Terdapat batasan signifikan pada kewajiban Mozilla terhadap segala kerusakan yang timbul akibat penggunaan Layanan ini.
 
 ## Ketentuan Layanan
 
 1. #### Pendahuluan
 
-    Ketentuan Layanan ("<u>Ketentuan</u>") ini mengatur penggunaan layanan awan Firefox, serangkaian layanan online yang disediakan Mozilla ("Layanan").
+    Ketentuan Layanan ("<u>Ketentuan</u>") ini mengatur penggunaan Anda atas akun Mozilla, serangkaian layanan online yang disediakan Mozilla ("Layanan").
 
-2. #### Akun Firefox
+2. #### Akun Mozilla
 
-    Untuk menggunakan beberapa Layanan, Anda perlu membuat akun Firefox. Saat pendaftaran, Anda akan diminta mengatur kata sandi. Anda bertanggung jawab untuk merahasiakan kata sandi dan atas aktivitas yang dilakukan dengan akun Firefox Anda. Mozilla tidak bertanggung jawab atas segala kerugian akibat penggunaan akun Firefox Anda yang tidak sah.
+    Untuk menggunakan beberapa Layanan, Anda perlu membuat akun Mozilla. Saat pendaftaran, Anda akan diminta mengatur kata sandi. Anda bertanggung jawab untuk merahasiakan kata sandi dan aktivitas yang dilakukan dengan akun Mozilla Anda. Mozilla tidak bertanggung jawab atas segala kerugian akibat penggunaan akun Mozilla Anda yang tidak sah.
 
 3. #### Layanan 
 
-    (a) Mozilla VPN adalah Jaringan Privat Virtual yang bermitra dengan [Mullvad](https://mullvad.net/). Diperlukan akun Firefox.
+    (a) Mozilla VPN adalah Jaringan Privat Virtual yang bermitra dengan [Mullvad](https://mullvad.net/). Diperlukan akun Mozilla.
     
-    (b) Firefox Relay memungkinkan Anda untuk menyimpan alamat email utama secara aman dan privat dari layanan online dengan membuat alamat email alias unik. Melalui alamat alias tersebut Anda bisa mengirim dan menerima email tanpa menampilkan alamat email utama. Diperlukan akun Firefox.
+    (b) Firefox Relay memungkinkan Anda untuk menyimpan alamat email utama secara aman dan privat dari layanan online dengan membuat alamat email alias unik. Melalui alamat alias tersebut Anda bisa mengirim dan menerima email tanpa menampilkan alamat email utama. Diperlukan akun Mozilla.
     
-    (c) Firefox Monitor adalah layanan informasi untuk mendukung keamanan online dengan memberi tahu Anda tentang pelanggaran data publik. Anda dapat memindai alamat email di situs web kami untuk melihat sebagian besar pelanggaran yang diketahui publik. Jika Anda berlangganan akun Firefox, Anda akan menerima: 
+    (c) Firefox Monitor adalah layanan informasi untuk mendukung keamanan online dengan memberi tahu Anda tentang pelanggaran data publik. Anda dapat memindai alamat email di situs web kami untuk melihat sebagian besar pelanggaran yang diketahui publik. Jika Anda berlangganan akun Mozilla, Anda akan menerima: 
 
     * Laporan Lengkap: Termasuk daftar lengkap peretasan yang diketahui publik, meliputi pelanggaran situs web sensitif, seperti peretasan situs anak atau orang dewasa dan situs kencan (situs-situs ini dikecualikan dari pemindaian situs web untuk melindungi privasi individu). 
     * Peringatan Pelanggaran: Peringatan ini memberi tahu Anda jika alamat email Anda muncul di pelanggaran data baru. 
@@ -34,9 +34,9 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
     Anda bertanggung jawab untuk melindungi akun online dengan kata sandi yang kuat dan berbeda, pertanyaan keamanan, autentikasi dua faktor, pengelola kata sandi, dan tindakan keamanan lainnya. Meskipun Firefox Monitor dan [Have I Been Pwned?](https://haveibeenpwned.com/) berusaha untuk memiliki data terkini, tapi tidak ada jaminan bahwa catatan semua pelanggaran data publik yang dimilikinya lengkap atau aktual. 
 
-    (d) Firefox Notes memungkinkan Anda untuk mencatat di Firefox. Anda perlu Akun Firefox untuk melihat, mengedit, dan menghapus Catatan di seluruh perangkat. 
+    (d) Firefox Notes memungkinkan Anda untuk mencatat di Firefox. Anda perlu Akun Mozilla untuk melihat, mengedit, dan menghapus Catatan Anda di seluruh perangkat. 
 
-    (e) Firefox Sync memungkinkan Anda mengakses informasi yang disimpan di Firefox melalui berbagai perangkat, termasuk tab, bilah, kata sandi, dan preferensi peramban. Anda bisa mengaktifkan dan menonaktifkan Firefox Sync melalui bagian Pengaturan Firefox. Diperlukan akun Firefox. 
+    (e) Firefox Sync memungkinkan Anda mengakses informasi yang disimpan di Firefox melalui berbagai perangkat, termasuk tab, bilah, kata sandi, dan preferensi peramban. Anda bisa mengaktifkan dan menonaktifkan Firefox Sync melalui bagian Pengaturan Firefox. Diperlukan akun Mozilla. 
     
     (f) Pocket membantu Anda menemukan konten yang bagus sesuai dengan minat Anda dan menyimpan konten ini untuk dilihat nanti – di perangkat apa pun, kapan pun. 
 
@@ -50,10 +50,11 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Komunikasi
 
-    Kami mengirim pesan berkala untuk membantu Anda memaksimalkan akun Firefox. Anda mungkin menerima pesan ini di dalam produk atau di alamat terdaftar; yang mencakup pengenalan, berbagai layanan akun Firefox, serta tawaran dan survei terkait. Anda juga bisa memilih untuk menerima jenis pesan email lainnya. 
+    Kami mengirim pesan berkala untuk membantu Anda memaksimalkan akun Mozilla. Anda mungkin menerima pesan ini di dalam produk atau di alamat yang digunakan untuk masuk ke akun; yang mencakup pengenalan, berbagai layanan akun Mozilla, serta tawaran dan survei terkait. Anda juga bisa memilih untuk menerima jenis pesan email lainnya. 
     
     Anda bisa mengubah langganan email Mozilla dari email kami (klik tautan di bagian bawah) atau dari peramban (kunjungi Firefox/Preferensi/Sinkronisasi/Kelola akun/Preferensi Email).
     
@@ -70,9 +71,9 @@ Anda bisa menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal No
 
 8. #### Masa Berlaku; Penghentian
 
-    Ketentuan ini akan terus berlaku hingga dihentikan oleh Anda atau Mozilla. Anda bisa menghentikannya kapan saja karena alasan apa pun dengan menghapus akun Firefox, menghentikan penggunaan Layanan, dan menghentikan langganan email, jika ada. 
+    Ketentuan ini akan terus berlaku hingga dihentikan oleh Anda atau Mozilla. Anda bisa menghentikannya kapan saja karena alasan apa pun dengan menghapus akun Mozilla, menghentikan penggunaan Layanan, dan berhenti berlangganan email, jika ada. 
 
-    Kami dapat menangguhkan atau mengakhiri akses Anda ke Layanan ini kapan saja dengan alasan apa pun, termasuk namun tidak terbatas pada, jika kami secara wajar yakin bahwa: (i) Anda telah melanggar Ketentuan ini, (ii) Anda menimbulkan risiko atau kemungkinan masalah hukum bagi kami; atau (iii) penyediaan Layanan ini untuk Anda sudah tidak memungkinkan secara komersial. Kami akan berusaha semampunya untuk memberi tahu Anda melalui alamat email yang dikaitkan dengan akun Firefox atau saat Anda berusaha mengakses Layanan ini.
+    Kami dapat menangguhkan atau mengakhiri akses Anda ke Layanan ini kapan saja dengan alasan apa pun, termasuk namun tidak terbatas pada, jika kami secara wajar yakin bahwa: (i) Anda telah melanggar Ketentuan ini, (ii) Anda menimbulkan risiko atau kemungkinan masalah hukum bagi kami; atau (iii) penyediaan Layanan ini untuk Anda sudah tidak memungkinkan secara komersial. Kami akan berusaha semampunya untuk memberi tahu Anda melalui alamat email yang dikaitkan dengan akun Mozilla Anda atau saat Anda berusaha mengakses Layanan ini.
 
     Dalam semua kasus tersebut, Ketentuan ini akan menghentikan, termasuk namun tidak terbatas pada, lisensi penggunaan Layanan, kecuali bagian berikut yang akan terus berlaku: Ganti Rugi, Sangkalan, Batasan Kewajiban, dan Lain-lain.
 

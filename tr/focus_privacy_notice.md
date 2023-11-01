@@ -1,4 +1,4 @@
-﻿# Firefox Focus ve Klar Gizlilik Bildirimi
+# Firefox Focus ve Klar Gizlilik Bildirimi
 
 14 Ekim 2021
 {: datetime="2021-10-14" }

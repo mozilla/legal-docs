@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité de Firefox Relay
+# Politique de confidentialité de Firefox Relay
 
 *Version 1.3 - Date d’effet : jeudi 10 mars 2022*
 {: datetime="2022-03-10" }

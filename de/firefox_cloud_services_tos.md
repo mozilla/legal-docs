@@ -1,32 +1,32 @@
-﻿# Firefox Cloud Services: Servicebedingungen
+# Servicebedingungen für Mozilla-Konten
 
-Zuletzt aktualisiert am Sonntag, 10. April 2022
-{: datetime="2022-04-10" }
+Zuletzt aktualisiert am Mittwoch, 1. November 2023
+{: datetime="2023-11-01" }
 
 ## Zusammenfassung
 
 Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingungen zusammen. Diese Zusammenfassung ist eine Hilfe zum besseren Verständnis der Bedingungen. Sie sollten aber auf jeden Fall das gesamte Dokument lesen, denn mit Ihrer Zustimmung geben Sie an, dass Sie alle Bedingungen akzeptieren, nicht nur die Zusammenfassung.
 
-* Firefox Cloud Services („die Services“) sind eine Reihe von Services, die Ihnen von Mozilla zur Verfügung gestellt werden.
+* Mozilla-Konten (die „Dienste“) umfassen Ihr Konto und die Reihe von Diensten, die Ihnen von Mozilla über dieses Konto bereitgestellt werden.
 * Die Services werden im Ist-Zustand und ohne Gewährleistung irgendeiner Art bereitgestellt. Die Haftung von Mozilla für Schäden, die sich aus Ihrer Verwendung der Services ergeben, ist stark eingeschränkt.
 
 ## Servicebedingungen
 
 1. #### Einführung
 
-    Diese Servicebedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Firefox Cloud Services, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
+    Diese Servicebedingungen („<u>Bedingungen</u>“) regeln Ihre Verwendung der Mozilla-Konten, einer Reihe von Onlinediensten, die von Mozilla zur Verfügung gestellt werden (die „Services“).
 
-2. #### Firefox-Konten
+2. #### Mozilla-Konten
 
-    Um einige der Services nutzen zu können, müssen Sie ein Firefox-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Firefox-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Firefox-Kontos ergeben.
+    Um einige der Services nutzen zu können, müssen Sie ein Mozilla-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Mozilla-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Mozilla-Kontos ergeben.
 
 3. #### Services 
 
-    (a) Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net/). Dazu ist ein Firefox-Konto erforderlich.
+    (a) Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net/). Dazu ist ein Mozilla-Konto erforderlich.
     
-    (b) Firefox Relay ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellen, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen. Dazu ist ein Firefox-Konto erforderlich.
+    (b) Firefox Relay ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellen, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen. Dazu ist ein Mozilla-Konto erforderlich.
     
-    (c) Firefox Monitor ist ein Informationsservice zur Förderung der Online-Sicherheit. Dabei werden Sie über öffentliche Datensicherheitsverletzungen informiert. Sie können E-Mail-Adressen auf unserer Website scannen, um die meisten öffentlich bekannten Verletzungen anzuzeigen. Falls Sie diesen Service mit einem Firefox-Konto abonnieren, erhalten Sie Folgendes: 
+    (c) Firefox Monitor ist ein Informationsservice zur Förderung der Online-Sicherheit. Dabei werden Sie über öffentliche Datensicherheitsverletzungen informiert. Sie können E-Mail-Adressen auf unserer Website scannen, um die meisten öffentlich bekannten Verletzungen anzuzeigen. Falls Sie diesen Service mit einem Mozilla-Konto abonnieren, erhalten Sie Folgendes: 
 
     * Vollständiger Bericht: Dieser Bericht enthält eine Liste der öffentlich bekannten Hacks einschließlich Verletzungen sensibler Websites wie z. B. solcher für Kinder oder Porno- bzw. Dating-Websites (diese Websites sind aus Website-Scans ausgeschlossen, um die Privatsphäre der Benutzer zu schützen). 
     * Verletzungsbenachrichtigungen: Damit werden Sie benachrichtigt, wenn Ihre E-Mail-Adresse in einer neuen Datensicherheitsverletzung erscheint. 
@@ -34,9 +34,9 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
     Sie selbst sind dafür verantwortlich, Ihre Online-Konten durch starke und unterschiedliche Passwörter, Sicherheitsfragen, Zwei-Faktor-Authentifizierung, Passwortmanager und andere Sicherheitsmaßnahmen zu schützen. Obgleich sich Firefox Monitor und [Have I Been Pwned?](https://haveibeenpwned.com/) bemühen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlichen Datensicherheitsverletzungen führen. 
 
-    (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Firefox-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen. 
+    (d) Mit Firefox Notes können Sie in Firefox Notizen machen. Es ist ein Mozilla-Konto erforderlich, um Ihre Notizen mit Notes geräteübergreifend anzuzeigen, zu bearbeiten und zu löschen. 
 
-    (e) Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Einstellungen“ von Firefox aktivieren und deaktivieren. Dazu ist ein Firefox-Konto erforderlich. 
+    (e) Mit Firefox Sync können Sie auf unterschiedlichen Geräten auf Daten zugreifen, die in Firefox gespeichert sind, zum Beispiel Ihre Tabs, die Adressleiste, Passwörter, Lesezeichen und Browsereinstellungen. Firefox Sync können Sie im Menü „Einstellungen“ von Firefox aktivieren und deaktivieren. Dazu ist ein Mozilla-Konto erforderlich. 
     
     (f) Mit Pocket können Sie großartige Inhalte entdecken, die auf Ihre Interessen abgestimmt sind. Diese Inhalte können Sie speichern und später jederzeit auf jedem Gerät wieder aufrufen. 
 
@@ -50,10 +50,11 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)
     * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)
     * [Pocket](https://getpocket.com/privacy/)
+    * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
 
 5. #### Kommunikation
 
-    Wir senden von Zeit zu Zeit Nachrichten, damit Sie das Meiste aus Ihrem Firefox-Konto herausholen können. Sie erhalten diese Nachrichten evtl. produktintern oder unter der Adresse, mit der Sie sich registriert haben. Dabei geht es um Onboarding, unterschiedliche Firefox-Konto-Services und damit verbundene Angebote und Umfragen. Sie können sich auch entscheiden, andere Arten von E-Mail-Nachrichten zu erhalten. 
+    Wir senden von Zeit zu Zeit Nachrichten, damit Sie das Meiste aus Ihrem Mozilla-Konto herausholen können. Sie erhalten diese Nachrichten evtl. produktintern oder unter der Adresse, mit der Sie sich registriert haben. Dabei geht es um Onboarding, unterschiedliche Mozilla-Konto-Services und damit verbundene Angebote und Umfragen. Sie können sich auch entscheiden, andere Arten von E-Mail-Nachrichten zu erhalten. 
     
     Sie können Ihre E-Mail-Abonnements bei Mozilla über unsere E-Mails (durch Klick auf den Link unten) oder den Browser (besuchen Sie Firefox/Einstellungen/Synchronisation/Konto verwalten/E-Mail-Einstellungen) ändern.
     
@@ -70,9 +71,9 @@ Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla –
 
 8. #### Laufzeit; Kündigung
 
-    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Firefox-Konto löschen, die Verwendung der Services einstellen und ggf. Ihr E-Mail-Abonnement beenden. 
+    Diese Servicebedingungen gelten, bis sie entweder durch Sie oder durch Mozilla gekündigt werden. Sie können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie Ihr Mozilla-Konto löschen, die Verwendung der Services einstellen und ggf. Ihr E-Mail-Abonnement beenden. 
 
-    Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Firefox-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
+    Wir können Ihren Zugriff auf die Services jederzeit und aus beliebigem Grund aussetzen oder einstellen, unter anderem, wenn wir Grund zu der Annahme haben, dass: (i) Sie gegen diese Bedingungen verstoßen haben, (ii) Sie uns einem Risiko aussetzen oder ein mögliches juristisches Risiko darstellen; oder (iii) unsere Bereitstellung der Services an Sie nicht mehr wirtschaftlich ist. Wir werden in diesem Fall angemessene Anstrengungen unternehmen, Sie unter der mit Ihrem Mozilla-Konto verknüpften E-Mail-Adresse oder bei Ihrem nächsten Zugriff auf die Services zu benachrichtigen.
 
     In all diesen Fällen wird die Vereinbarung beendet, unter anderem Ihre Lizenz zur Verwendung der Services, mit Ausnahme der folgenden Abschnitte, die auch über das Beendigungsdatum hinaus gültig bleiben: Schadloshaltung, Haftungsablehnung; Haftungsbeschränkung, Verschiedenes.
 

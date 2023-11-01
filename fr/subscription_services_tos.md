@@ -1,7 +1,7 @@
-﻿# Services d’abonnements Mozilla - Conditions d’utilisation
+# Services d’abonnements Mozilla - Conditions d’utilisation
 
-Version 1.1 - Date d’effet : jeudi 15 juin 2023
-{: datetime="2023-06-15" }
+Version 1.2 - Date d’effet : mercredi 1er novembre 2023
+{: datetime="2023-11-01" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 
@@ -13,8 +13,8 @@ Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent
 
 ## Abonnement aux Services Mozilla
 
-### Vous aurez besoin d’un compte Firefox
-Un compte Firefox est requis pour utiliser les Services. Pour créer un compte Firefox, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/firefox/) pour votre compte Firefox.
+### Vous aurez besoin d’un compte Mozilla
+Un compte Mozilla est requis pour utiliser les Services. Pour créer un compte Mozilla, vous devrez également accepter les [Conditions d’utilisation](https://www.mozilla.org/about/legal/terms/services/) et la [Politique de confidentialité](https://www.mozilla.org/privacy/mozilla-accounts/) applicables à votre compte Mozilla.
 
 ### Votre confidentialité
 La [Politique de confidentialité des services d’abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services) explique quelles informations sont envoyées lorsque vous utilisez les Services et la façon dont nous traitons et partageons ces informations.
@@ -25,10 +25,11 @@ Mozilla est une organisation de dimension mondiale, et nos ordinateurs et ceux d
 __Paiement.__ Nos Services sont proposés sous la forme d’abonnement à renouvellement automatique. Lors de votre inscription, vous nous autorisez à débiter le mode de paiement que vous avez fourni des frais d’abonnement pour la première période d’utilisation des Services auxquels vous vous êtes abonné. Votre abonnement est renouvelé automatiquement à la fin de chaque période, et vous nous autorisez à vous facturer les frais d’abonnement à chaque début de période. Si vous cessez les paiements, nous suspendrons immédiatement votre compte et pourrons le supprimer après 2 mois sans paiement.
 
 __Politique de remboursement à 30 jours.__ Lors de votre premier abonnement aux Services via le site web de Mozilla, si vous annulez votre compte dans les 30 premiers jours, vous pourrez demander un remboursement ; Mozilla vous remboursera le premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
-Achat sur Apple Store ou Google Play. Si vous avez acheté votre abonnement à partir d’une application dans un Apple Store, votre paiement doit respecter les conditions d’utilisation de l’Apple Store. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
+
+__Achat sur Apple Store ou Google Play.__ Si vous avez acheté votre abonnement à partir d’une application dans un Apple Store, votre paiement doit respecter les conditions d’utilisation de l’Apple Store. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
 
 ### Vous pouvez annuler votre abonnement à tout moment
-Vous pouvez annuler votre abonnement aux Services à tout moment. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des e-mails que nous vous envoyons à propos des Services ou en accédant à la section [Abonnements et paiements](https://accounts.firefox.com/subscriptions/) de votre compte Firefox, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès aux Services à la fin de la période de facturation en cours.
+Vous pouvez annuler votre abonnement aux Services à tout moment. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des e-mails que nous vous envoyons à propos des Services ou en accédant à la section [Abonnements et paiements](https://accounts.firefox.com/subscriptions/) de votre compte Mozilla, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès aux Services à la fin de la période de facturation en cours.
 
 ## Mozilla VPN
 
@@ -95,7 +96,7 @@ __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence
 
 * __Mozilla se réserve le droit de modifier ces Conditions.__ Mozilla peut décider de modifier ces Conditions de temps à autre. Nous publierons les Conditions modifiées en ligne. Nous considérerons votre utilisation des Services comme une acceptation de ces modifications. Nous mentionnerons la date d’effet en haut de cette page pour préciser la date de notre mise à jour la plus récente.
 
-* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser les Services et en annulant votre abonnement. Mozilla peut suspendre ou mettre fin à l’accès aux Services de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin aux Services. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse e-mail associée à votre compte ou lors du prochain accès à votre compte.
+* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser les Services et en annulant votre abonnement. Mozilla peut suspendre ou mettre fin à l’accès aux Services de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin aux Services. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse électronique associée à votre compte ou lors du prochain accès à votre compte.
 
 Si nous résilions votre accès aux Services sans raison spécifique, vous continuerez à pouvoir accéder aux Services jusqu’à la fin de votre abonnement en cours, ou nous vous rembourserons le mois en cours. Toutefois, nous nous réservons le droit de résilier immédiatement votre utilisation du Service si nous avons des motifs raisonnables de croire que vous avez enfreint les Conditions d’utilisation, ou avez autrement enfreint les présentes Conditions.
 
