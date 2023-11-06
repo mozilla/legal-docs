@@ -1,4 +1,4 @@
-﻿# Melaporkan Pelanggaran Hak Cipta atau Merek Dagang
+# Melaporkan Pelanggaran Hak Cipta atau Merek Dagang
 
 ## Pemberitahuan Hak Cipta
 

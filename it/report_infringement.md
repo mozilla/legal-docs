@@ -1,4 +1,4 @@
-﻿# Segnalazione di violazioni di copyright o del marchio
+# Segnalazione di violazioni di copyright o del marchio
 
 ## Informazioni sul copyright
 

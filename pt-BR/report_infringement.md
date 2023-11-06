@@ -1,4 +1,4 @@
-﻿# Denunciar infração de direito autoral ou marca registrada
+# Denunciar infração de direito autoral ou marca registrada
 
 ## Notificações de direito autoral
 

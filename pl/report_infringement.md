@@ -1,4 +1,4 @@
-﻿# Zgłaszanie naruszenia praw autorskich lub znaków towarowych
+# Zgłaszanie naruszenia praw autorskich lub znaków towarowych
 
 ## Powiadomienia o prawach autorskich
 

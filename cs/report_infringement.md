@@ -1,4 +1,4 @@
-﻿# Hlášení porušení autorských práv nebo ochranných známek
+# Hlášení porušení autorských práv nebo ochranných známek
 
 ## Oznámení o autorských právech
 

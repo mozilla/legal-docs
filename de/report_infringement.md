@@ -1,4 +1,4 @@
-﻿# Urheberrechts- oder Markenverletzungen melden
+# Urheberrechts- oder Markenverletzungen melden
 
 ## Urheberrechtsvermerke
 

@@ -1,4 +1,4 @@
-﻿# Inbreuk op auteursrecht of handelsmerken melden
+# Inbreuk op auteursrecht of handelsmerken melden
 
 ## Kennisgevingen over auteursrecht
 

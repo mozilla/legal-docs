@@ -1,4 +1,4 @@
-﻿# Szerzői jog vagy védjegy megsértésének jelentése
+# Szerzői jog vagy védjegy megsértésének jelentése
 
 ## Szerzői joggal kapcsolatos tájékoztatás
 

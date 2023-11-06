@@ -1,4 +1,4 @@
-﻿# Signaler une violation de droits d’auteur ou de marques de commerce
+# Signaler une violation de droits d’auteur ou de marques de commerce
 
 ## Avis de droit d’auteur
 

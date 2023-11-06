@@ -1,4 +1,4 @@
-﻿# Informe las infracciones de copyright o de marcas comerciales
+# Informe las infracciones de copyright o de marcas comerciales
 
 ## Avisos de copyright
 
