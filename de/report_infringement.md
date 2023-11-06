@@ -29,7 +29,7 @@ Die Telefonnummer des designierten Mozilla-DMCA-Mitarbeiters (Designated DMCA Ag
 
 ### Was geschieht, nachdem Sie die DMCA-Meldung gesendet haben?
 
-Ist die Meldung mit den Anforderungen des DMCA konform, werden wir den Zugang zu den angeblich Urheberrechte verletzenden Inhalten entfernen oder deaktivieren. Wir werden in gutem Glauben versuchen, die angeblich verletzende Person über die Entfernung der Inhalte zu informieren, wobei eine Kopie Ihrer DMCA-Meldung beigelegt wird. Eventuelle senden wir eine Kopie Ihrer DMCA-Meldung auch an [Lumen](https://lumendatabase.org/) oder veröffentlichen sie auf unserer [Wiki-Seite](https://wiki.mozilla.org/Legal/Infringement_Notices).
+Ist die Meldung mit den Anforderungen des DMCA konform, werden wir den Zugang zu den angeblich Urheberrechte verletzenden Inhalten entfernen oder deaktivieren. Wir werden in gutem Glauben versuchen, die angeblich verletzende Person über die Entfernung der Inhalte zu informieren, wobei eine Kopie Ihrer DMCA-Meldung beigelegt wird. Eventuell senden wir eine Kopie Ihrer DMCA-Meldung auch an [Lumen](https://lumendatabase.org/) oder veröffentlichen sie auf unserer [Wiki-Seite](https://wiki.mozilla.org/Legal/Infringement_Notices).
 
 Hinweis: Sie können für Schadensansprüche einschließlich Kosten und Anwaltsgebühren haftbar gemacht werden, falls Ihre DMCA-Meldung wesentliche Falschdarstellungen enthält. Ziehen Sie vor Einreichung einer DMCA-Meldung einen Anwalt zu Rate, wenn Sie sich nicht sicher sind, ob Ihre Urheberrechte verletzt wurden.
 
