@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective November 1, 2023*
-{: datetime="2023-11-01" }
+*Effective [insert data once known*
+{: datetime="2023-[update once known]" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -35,7 +35,9 @@ Mozilla generally receives royalties when you use one of the default or optional
 
 __Firefox Suggest__ uses data to help deliver better information with less effort. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs (which is not sent to Mozilla). Firefox Suggest does send to Mozilla:
 
-* __Location data__: Firefox temporarily sends Mozilla your IP address, which we use to suggest content based on your country, state, and city. Mozilla may share location information with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), but partners will not receive your IP address. In the US, Mozilla may also receive keyword location search data (such as when you search for “Boston”) and share this with our partners to provide recommended and sponsored content. Where this occurs, neither Mozilla nor our partners are able to associate the keyword search with an individual user once the search suggestion has been served.
+* __Location data__: Firefox temporarily sends Mozilla your IP address, which we use to suggest content based on your country, state, and city. Mozilla may share location information with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), but partners will not receive your IP address.
+
+In the US, Mozilla may also receive keyword location search data (such as when you search for “Boston”) and share this with our partners to provide recommended and sponsored content. Where this occurs, neither Mozilla nor our partners are able to associate the keyword search with an individual user once the search suggestion has been served.You can remove this functionality at any time by turning off sponsored suggestions - more information on how to do this is available in the relevant [Firefox Support](https://support.mozilla.org/en-US/kb/firefox-suggest?as=u&utm_source=inproduct) page.
 
 * __Technical & interaction data__: Firefox sends Mozilla data such as the number of times Firefox suggests or displays specific content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information about how many times suggestions are shown, the position of the suggestion, and suggestions clicked on with our [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) for verification and feature improvement.
 
@@ -92,7 +94,9 @@ Read the full documentation [here](https://firefox-source-docs.mozilla.org/toolk
 __Campaign and referral data__: This helps Mozilla understand the effectiveness of our marketing campaigns.
 {: #referraltracking }
 
-Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer. This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt out](https://support.mozilla.org/kb/desktop-attribution-privacy) before installation. Firefox by default also sends marketing campaign data to Adjust, our analytics vendor, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/). Campaign data includes a Google advertising ID or Android ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer. This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the [documentation](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) or [opt out](https://support.mozilla.org/kb/desktop-attribution-privacy) before installation. 
+
+Firefox by default also shares de-identified marketing campaign data to our campaign marketing vendors to measure and improve our marketing campaigns. This includes Adjust, which has its own [privacy policy](https://www.adjust.com/terms/privacy-policy/). It also includes Google. Campaign data includes a Google advertising ID or Android ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the [documentation](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox 
 
 ### Footnote
 
-To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you have any other questions regarding personal data or our privacy practices, please contact us at compliance@mozilla.com. We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you have any other questions regarding personal data or our privacy practices, please contact us at compliance@mozilla.com or you can contact our Data Protection Officer at dpo@mozilla.com. We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. When you request deletion of your Firefox data, it will be deleted within 30 days of the request (with the exception of Interaction Data, which has a standard retention period of 90 days and is automatically deleted at the end of this period).
 
 This privacy notice is for the most recent general release version of Firefox distributed by Mozilla. If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.
 {: #pre-release }
