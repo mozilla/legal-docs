@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
 *Effective January 17, 2024
-{: datetime="2024-1-17" }
+{: datetime="2024-01-17" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
