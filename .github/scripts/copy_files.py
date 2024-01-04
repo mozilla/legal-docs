@@ -24,7 +24,7 @@ def copy_files(filename, dest):
 
     for fp in file_paths:
         dest_locale_dir = dest_path.joinpath(fp.parent)
-        dest_locale_dir.mkdir(exist_ok=True)
+        dest_locale_dir.mkdir(exist_ok=True, parents=True)
         shutil.copy(fp, dest_locale_dir)
         print(fp)
         num_files += 1
