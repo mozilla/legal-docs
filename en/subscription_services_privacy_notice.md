@@ -9,6 +9,8 @@ __Mozilla VPN__ protects your device’s internet connections. Mozilla partners 
 
 __Firefox Relay__ protects your identity with secure email and phone masking. Our secure and easy to use email and phone masks help keep your identity private so you can sign up for new accounts anonymously, stop spam texts and junk calls, and get only the emails you want in your inbox.  
 
+__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
+
 This privacy notice explains what data Firefox Relay and Mozilla VPN collect, share, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 ## Things You Should Know
