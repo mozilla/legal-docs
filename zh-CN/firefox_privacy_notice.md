@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2023 年 11 月 1 日生效*
-{: datetime="2023-11-01" }
+*2024 年 1 月 17 日生效
+{: datetime="2024-01-17" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -35,7 +35,9 @@
 
 __Firefox Suggest__ 借助数据帮助用户以更少的精力获得更高质量的信息。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡（不发送给 Mozilla）。Firefox Suggest 确实会将如下数据发送给 Mozilla：
 
-* __位置数据__：Firefox 会临时向 Mozilla 发送您的 IP 地址，我们使用该地址来根据您所在的国家/地区、州和城市推荐内容。Mozilla 可能会与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners)共享位置信息，但合作伙伴不会收到您的 IP 地址。在美国，Mozilla 还可能接收位置搜索数据关键词（例如当您搜索“Boston”时），并与我们的合作伙伴共享这些数据，以提供推荐和推广的内容。在这种情况下，一旦提供了搜索建议，Mozilla 和我们的合作伙伴都无法将关键词搜索与单个用户关联起来。
+* __位置数据__：Firefox 会临时向 Mozilla 发送您的 IP 地址，我们使用该地址来根据您所在的国家/地区、州和城市推荐内容。Mozilla 可能会与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners)共享位置信息，但合作伙伴不会收到您的 IP 地址。
+
+在美国，Mozilla 还可能接收位置搜索数据关键词（例如当您搜索“Boston”时），并与我们的合作伙伴共享这些数据，以提供推荐和推广的内容。在这种情况下，一旦提供了搜索建议，Mozilla 和我们的合作伙伴都无法将关键词搜索与单个用户关联起来。可以随时通过关闭“赞助建议”来禁用此功能；如欲详细了解如何执行该操作，请参阅相关 [Firefox 支持](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct)页面。
 
 * __技术和交互数据__：Firefox 会向 Mozilla 发送数据，例如 Firefox 推荐或显示特定内容的次数和您点击内容的次数，以及关于您与 Firefox Suggest 进行交互的基本数据。Mozilla 与我们的[合作伙伴](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners)分享建议显示的次数、建议内容的位置以及点击建议的次数相关的信息，以便进行验证并改进功能。
 
@@ -92,7 +94,9 @@ Firefox 会显示内容，例如附加组件建议、热门站点（Mozilla 为�
 __营销活动和参考数据__：该数据可以帮助 Mozilla 理解我们市场营销活动的有效性。
 {: #referraltracking }
 
-默认情况下，Firefox 会发送 Mozilla HTTP 数据，该数据可能包含在 Firefox 安装程序中。我们可以通过它来确定推荐您访问下载页面的网站域名或广告活动（如果有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或在安装前选择[退出](https://support.mozilla.org/kb/desktop-attribution-privacy)。默认情况下，Firefox 还会将营销活动数据发送给我们的分析供应商 Adjust，它拥有自己的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。营销活动数据包括 Google 广告 ID 或 Android ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
+默认情况下，Firefox 会发送 Mozilla HTTP 数据，该数据可能包含在 Firefox 安装程序中。我们可以通过它来确定推荐您访问下载页面的网站域名或广告活动（如果有）。阅读[文档](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution)或在安装前选择[退出](https://support.mozilla.org/kb/desktop-attribution-privacy)。
+
+默认情况下，Firefox 还会与我们的营销活动供应商共享不包含识别信息的营销活动数据，用于衡量我们的营销活动效果并据此对其加以改善。这些供应商包括 Adjust，该公司拥有专门的[隐私政策](https://www.adjust.com/terms/privacy-policy/)。还包括 Google。营销活动数据包括 Google 广告 ID 或 Android ID、IP 地址、时间戳、国家、语言/区域设置、操作系统及应用程序版本。阅读[文档](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust)。
 {: #thirdparty }
 
 ---
@@ -161,7 +165,7 @@ __营销活动和参考数据__：该数据可以帮助 Mozilla 理解我们市�
 
 ### 脚注
 
-如果您有个人数据方面的任何请求，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)与我们联系。如果您对个人数据或我们的隐私保护措施有任何其他问题，请发送电子邮件至 compliance@mozilla.com 与我们联系。我们会回应所有从个人用户处收到的希望根据适用的数据保护法行使其数据保护权利的请求。
+如果您有个人数据方面的任何请求，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)与我们联系。如果您对个人数据或我们的隐私保护措施有任何其他问题，请发送电子邮件至 compliance@mozilla.com 与我们联系，也可以发送电子邮件至 dpo@mozilla.com 与我们的数据保护官联系。我们会回应所有从个人用户处收到的希望根据适用的数据保护法行使其数据保护权利的请求。如果您请求删除您的 Firefox 数据，系统将在请求后 30 天内删除该数据（互动数据除外，互动数据的标准保留期限是 90 天，到期后，数据会自动删除）。
 
 本隐私声明适用于 Mozilla 发布的最新 Firefox 一般发行版本。如果从其他位置获取 Firefox 或运行旧版本，您的 Firefox 副本可能包含其他隐私特征信息。
 {: #pre-release }

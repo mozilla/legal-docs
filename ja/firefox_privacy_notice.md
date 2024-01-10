@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*発効日 2023 年 11 月 1 日*
-{: datetime="2023-11-01" }
+*発効日 2024 年 1 月 17 日
+{: datetime="2024-01-17" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -35,7 +35,9 @@ Mozilla は通常、あなたが Firefox ウェブブラウザーで、Google、
 
 __Firefox Suggest__ は、より少ない労力でより質の高い情報をお届けできるようにデータを使用します。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータ (これらのデータが Mozilla に送信されることはありません) に基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。Firefox Suggest は以下のデータを Mozilla に送信します。
 
-* __位置データ__:Firefox はあなたの国、州、都市に基づいてコンテンツを提案するため、あなたの IP アドレスを Mozilla に一時的に送信します。Mozilla は位置情報を Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有する場合がありますが、パートナーがあなたの IP アドレスを受信することはありません。また米国では、Mozilla は位置に関するキーワード検索データ (「ボストン」と検索したときなど) も受信し、おすすめやスポンサー付きのコンテンツを提供するためにこのデータを Mozilla のパートナーと共有します。この場合、Mozilla も Mozilla のパートナーも、検索の提案が提示された後にこのキーワード検索を個人のユーザーと関連付けることはできません。
+* __位置データ__:Firefox はあなたの国、州、都市に基づいてコンテンツを提案するため、あなたの IP アドレスを Mozilla に一時的に送信します。Mozilla は位置情報を Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有する場合がありますが、パートナーがあなたの IP アドレスを受信することはありません。
+
+また米国では、Mozilla は位置に関するキーワード検索データ (「ボストン」と検索したときなど) も受信し、おすすめやスポンサー付きのコンテンツを提供するためにこのデータを Mozilla のパートナーと共有します。この場合、Mozilla も Mozilla のパートナーも、検索の提案が提示された後にこのキーワード検索を個人のユーザーと関連付けることはできません。この機能は、スポンサー付きの提案を無効にすることでいつでも削除できます。無効にする方法については、[Firefox サポート](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct)の対応するページでご覧ください。
 
 * __技術およびインタラクションデータ__:Firefox は、Firefox による特定のコンテンツの提案や表示の回数、およびそのコンテンツをあなたがクリックした回数などのデータ、ならびにあなたの Firefox Suggest とのインタラクションに関する基本的なデータを Mozilla に送信します。Mozilla は確認と機能の改善の目的で、提案が表示された回数と位置、およびクリックされたおすすめに関する情報を Mozilla の [パートナー](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) と共有します。
 
@@ -92,7 +94,9 @@ Firefox は、おすすめ拡張機能、トップサイト (初めて Firefox �
 __キャンペーンおよび参照データ__:これは Mozilla のマーケティングキャンペーンの有効性を理解するのに役立ちます。
 {: #referraltracking }
 
-Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。インストールする前に [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みいただくか、[オプトアウト](https://support.mozilla.org/kb/desktop-attribution-privacy) してください。Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にマーケティングキャンペーンデータを送信します。このベンダーには、独自の [プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/) があります。キャンペーンデータには、Google の広告 ID または Android ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
+Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。インストールする前に [ドキュメント](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) をお読みいただくか、[オプトアウト](https://support.mozilla.org/kb/desktop-attribution-privacy) してください。
+
+また、Firefox は初期設定で、弊社のマーケティングキャンペーンを測定および改善するために、匿名化されたマーケティングキャンペーンのデータを弊社のキャンペーンマーケティングベンダーと共有します。このベンダーには Adjust が含まれ、Adjust は独自の[プライバシーポリシー](https://www.adjust.com/terms/privacy-policy/)を定めています。また、Google も含まれ、キャンペーンデータには、Google の広告 ID または Android ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。[ドキュメント](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) をお読みください。
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ Mozilla は、あなたが Mozilla アカウントを作成し、使用する際
 
 ### 脚注
 
-個人データに関するリクエストを行うには、Mozilla の [データ主体のアクセスリクエストポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) 経由でお問い合わせください。個人データおよび Mozilla のプライバシー慣行について他にご不明な点がある場合は、compliance@mozilla.com までお問い合わせください。Mozilla は、適用されるデータ保護法に従って、データ保護の権利の行使を希望する個人から受け取ったすべてのリクエストに対応いたします。
+個人データに関するリクエストを行うには、Mozilla の [データ主体のアクセスリクエストポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) 経由でお問い合わせください。個人データおよび Mozilla のプライバシー慣行について他にご不明な点がある場合は、compliance@mozilla.com または Mozilla のデータ保護責任者 (dpo@mozilla.com) までお問い合わせください。Mozilla は、適用されるデータ保護法に従って、データ保護の権利の行使を希望する個人から受け取ったすべてのリクエストに対応いたします。ご自身の Firefox データの削除をリクエストした場合、対象のデータはリクエストから 30 日以内に削除されます (ただし、インタラクションデータについては、標準保存期間を 90 日間とし、この期間の終了時に自動的に削除されます)。
 
 このプライバシーに関する通知は、Mozilla により配布された最新の通常版 Firefox に対するものです。別のところで Firefox を入手された場合、または古いバージョンを実行されている場合、お使いの Firefox は異なるプライバシー上の特性を含んでいる可能性があります。
 {: #pre-release }
