@@ -1,13 +1,15 @@
 # Mozilla Subscription Services | Terms of Service
 
-Version 1.2, effective November 1, 2023
-{: datetime="2023-11-01" }
+Version 1.2, effective January 10, 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
 
 __Mozilla VPN__ is a Virtual Private Network in partnership with [Mullvad](https://mullvad.net). It keeps your internet traffic private from your internet service provider by encrypting and routing it through our partner’s networks instead. It will also replace your actual IP address to keep your personal IP address private from others, such as the websites you visit.
 
 __Firefox Relay__ allows you to keep your primary email address and phone number safe and private by making masks for your email address and phone number that allow you to send and receive emails, calls, and texts without revealing your actual contact information.
+
+__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Please read these Terms of Service carefully because they explain important information about your use of the Services.
 

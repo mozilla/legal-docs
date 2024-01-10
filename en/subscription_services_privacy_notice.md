@@ -1,13 +1,15 @@
 # Mozilla Subscription Services | Privacy Notice
 
-Version 1.1, Effective November 1, 2023
-{: datetime="2023-11-01" }
+Version 1.1, Effective January 10, 2024
+{: datetime="2024-01-10" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
 __Mozilla VPN__ protects your device’s internet connections. Mozilla partners with Mullvad to privately and securely encrypt your internet traffic.
 
 __Firefox Relay__ protects your identity with secure email and phone masking. Our secure and easy to use email and phone masks help keep your identity private so you can sign up for new accounts anonymously, stop spam texts and junk calls, and get only the emails you want in your inbox.  
+
+__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
 
 This privacy notice explains what data Firefox Relay and Mozilla VPN collect, share, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
