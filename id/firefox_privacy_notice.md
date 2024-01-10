@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Pemberitahuan Privasi</span>
 
-*Berlaku efektif 1 November 2023*
-{: datetime="2023-11-01" }
+*Berlaku 17 Januari 2024
+{: datetime="2024-01-17" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat.
 
@@ -35,7 +35,9 @@ Mozilla umumnya menerima royalti saat Anda menggunakan salah satu opsi pencarian
 
 __Firefox Suggest__ menggunakan data untuk membantu memberikan informasi yang lebih baik dengan lebih sedikit usaha. Secara default, Firefox Suggest menampilkan konten yang direkomendasikan dan disponsori berdasarkan data lokal yang tersimpan di komputer Anda, seperti situs web dari riwayat penjelajahan, bookmark, dan tab yang terbuka (yang tidak dikirim ke Mozilla). Firefox Suggest dikirim ke Mozilla:
 
-* __Data lokasi__: Firefox untuk sementara mengirimkan alamat IP Anda kepada Mozilla, yang kami gunakan untuk menyarankan konten berdasarkan negara, negara bagian, dan kota Anda. Mozilla dapat membagikan informasi lokasi kepada mitra kami, tetapi [mitra](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), tidak akan menerima alamat IP Anda. Di AS, Mozilla juga dapat menerima data pencarian lokasi kata kunci (seperti saat Anda mencari "Boston") dan membagikannya kepada mitra kami untuk menyediakan konten yang direkomendasikan dan bersponsor. Jika hal ini terjadi, baik Mozilla maupun mitra kami tidak dapat mengaitkan pencarian kata kunci dengan pengguna individual setelah saran pencarian disajikan.
+* __Data lokasi__: Firefox untuk sementara mengirimkan alamat IP Anda kepada Mozilla, yang kami gunakan untuk menyarankan konten berdasarkan negara, negara bagian, dan kota Anda. Mozilla dapat membagikan informasi lokasi kepada [mitra](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) kami, tetapi mitra tidak akan menerima alamat IP Anda.
+
+Di AS, Mozilla juga dapat menerima data pencarian lokasi kata kunci (seperti saat Anda mencari "Boston") dan membagikannya kepada mitra kami untuk menyediakan konten yang direkomendasikan dan bersponsor. Jika hal ini terjadi, baik Mozilla maupun mitra kami tidak dapat mengaitkan pencarian kata kunci dengan pengguna individual setelah saran pencarian disajikan. Anda dapat menghapus fungsi ini kapan saja dengan menonaktifkan saran bersponsor — informasi lebih lanjut tentang cara melakukannya ada di bagian halaman [Dukungan Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct) yang relevan.
 
 * __Data teknis & interaksi__: Firefox mengirimkan data Mozilla seperti berapa kali Firefox menyarankan atau menampilkan konten tertentu dan klik Anda pada konten tersebut, serta data dasar tentang interaksi Anda dengan Firefox Suggest. Mozilla membagikan informasi tentang berapa kali saran ditampilkan, posisi saran, dan saran yang diklik dengan [mitra kami](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) untuk verifikasi dan peningkatan fitur.
 
@@ -92,7 +94,9 @@ Baca dokumentasi lengkap [di sini](https://firefox-source-docs.mozilla.org/toolk
 __Data kampanye dan rujukan__: Ini membantu Mozilla memahami efektivitas kampanye pemasaran kami.
 {: #referraltracking }
 
-Secara default Firefox mengirim data HTTP Mozilla yang mungkin mencakup penginstal Firefox. Ini memungkinkan kami untuk menentukan domain situs web atau kampanye iklan (jika ada) yang merujuk Anda ke halaman unduh kami. Baca [dokumentasi](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [batalkan pilihan Anda](https://support.mozilla.org/kb/desktop-attribution-privacy) sebelum instalasi. Firefox secara default juga mengirimkan data kampanye pemasaran ke Adjust, vendor analisis kami, yang memiliki [kebijakan privasinya sendiri](https://www.adjust.com/terms/privacy-policy/). Data kampanye mencakup ID iklan Google atau ID Android, alamat IP, stempel waktu, negara, bahasa/daerah, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+Secara default Firefox mengirim data HTTP Mozilla yang mungkin mencakup penginstal Firefox. Ini memungkinkan kami untuk menentukan domain situs web atau kampanye iklan (jika ada) yang merujuk Anda ke halaman unduh kami. Baca [dokumentasi](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) atau [batalkan pilihan Anda](https://support.mozilla.org/kb/desktop-attribution-privacy) sebelum penginstalan. 
+
+Firefox secara default juga membagikan data kampanye pemasaran yang sudah dihapus identitasnya kepada vendor pemasaran kampanye kami untuk mengukur dan meningkatkan kampanye pemasaran kami. Vendor ini termasuk Adjust, yang memiliki [kebijakan privasi](https://www.adjust.com/terms/privacy-policy/) sendiri. Vendor juga termasuk Google. Data kampanye mencakup ID iklan Google atau ID Android, alamat IP, stempel waktu, negara, bahasa/daerah, sistem operasi, dan versi aplikasi. Baca [dokumentasi](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ Anda bisa menginstal Pengaya dari addons.mozilla.org (“AMO”) atau dari Penge
 
 ### Catatan kaki
 
-Untuk mengajukan permintaan terkait data pribadi Anda, silakan hubungi kami melalui [Portal Permintaan Akses Subjek Data](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Jika Anda memiliki pertanyaan lain terkait data pribadi atau praktik privasi kami, silakan hubungi kami di compliance@mozilla.com. Kami akan menanggapi semua permintaan yang diterima dari tiap individu yang ingin menjalankan hak perlindungan data mereka sesuai dengan undang-undang perlindungan data yang berlaku.
+Untuk mengajukan permintaan terkait data pribadi Anda, silakan hubungi kami melalui [Portal Permintaan Akses Subjek Data](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Jika Anda memiliki pertanyaan lain terkait data pribadi atau praktik privasi kami, silakan hubungi kami di compliance@mozilla.com atau Anda bisa menghubungi Petugas Perlindungan Data kami di dpo@mozilla.com. Kami akan menanggapi semua permintaan yang diterima dari tiap individu yang ingin menjalankan hak perlindungan data mereka sesuai dengan undang-undang perlindungan data yang berlaku. Saat Anda meminta penghapusan data Firefox, data itu akan dihapus dalam 30 hari sejak permintaan (kecuali Data Interaksi, yang memiliki periode retensi standar selama 90 hari dan akan otomatis dihapus pada akhir periode ini).
 
 Pemberitahuan privasi ini ditujukan untuk Firefox versi rilis umum terbaru yang didistribusikan oleh Mozilla. Jika Anda mendapatkan Firefox dari pihak lain, atau menjalankan versi lawas, salinan Firefox Anda mungkin memuat karakteristik privasi yang berbeda.
 {: #pre-release }

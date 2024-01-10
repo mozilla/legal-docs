@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de Privacidade</span>do Firefox
 
-*Data de vigência: 1o de novembro de 2023*
-{: datetime="2023-11-01" }
+*Data de vigência: 17 de janeiro de 2024
+{: datetime="2024-01-17" }
 
 ## Na Mozilla, acreditamos que a privacidade seja fundamental para uma internet segura.
 
@@ -35,7 +35,9 @@ A Mozilla normalmente recebe royalties quando você usa uma das opções de pesq
 
 O __Firefox Suggest__ usa dados para ajudar você a encontrar informações melhores com menos esforço. Por padrão, o Firefox Suggest mostra conteúdo recomendado e patrocinado com base em dados locais armazenados no computador, como sites do histórico de navegação, favoritos e abas abertas (essas informações não são enviadas para a Mozilla). O Firefox Suggest envia para a Mozilla:
 
-* __Dados de localização:__ o Firefox envia temporariamente à Mozilla seu endereço IP, que usamos para sugerir conteúdo com base no seu país, estado e cidade. A Mozilla pode compartilhar informações de localização com nossos [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), mas eles não recebem seu endereço IP. Nos EUA, a Mozilla também pode receber dados de pesquisa de localização de palavras-chave (como ao pesquisar por “São Paulo”) e compartilhá-los com nossos paceiros para fornecer conteúdo recomendado e patrocinado. Quando isso ocorre, tanto a Mozilla quanto nossos parceiros não conseguem associar a pesquisa de palavras-chave a usuários após o fornecimento das sugestões de pesquisa.
+* __Dados de localização:__ o Firefox envia temporariamente à Mozilla seu endereço IP, que usamos para sugerir conteúdo com base no seu país, estado e cidade. A Mozilla pode compartilhar informações de localização com nossos [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), mas eles não recebem seu endereço IP.
+
+Nos EUA, a Mozilla também pode receber dados de pesquisa de localização de palavras-chave (como ao pesquisar por “São Paulo”) e compartilhá-los com nossos paceiros para fornecer conteúdo recomendado e patrocinado. Quando isso ocorre, tanto a Mozilla quanto nossos parceiros não conseguem associar a pesquisa de palavras-chave a usuários após o fornecimento das sugestões de pesquisa. Você pode remover essa funcionalidade a qualquer momento desativando as sugestões patrocinadas. Para saber como fazer isso, consulte a página de [Suporte do Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct) relevante.
 
 * __Dados técnicos e de interação:__ o Firefox envia à Mozilla dados como o número de vezes que sugeriu ou exibiu conteúdo específico e seus cliques nesse conteúdo, além de informações básicas sobre suas interações com o Firefox Suggest. A Mozilla compartilha informações sobre o número de vezes que as sugestões são exibidas, a posição da sugestão e as sugestões que foram clicadas com nossos [parceiros](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) para fins de verificação e melhoria de recursos.
 
@@ -92,7 +94,9 @@ Consulte a documentação completa [aqui](https://firefox-source-docs.mozilla.or
 __Dados de campanhas e de referência:__ ajudam a Mozilla a entender a eficácia das nossas campanhas de marketing.
 {: #referraltracking }
 
-por padrão, o Firefox envia dados HTTP à Mozilla que podem ser incluídos no instalador do navegador. Eles nos possibilitam determinar o domínio do site ou a campanha de publicidade (se houver) que encaminhou você para nossa página de download. Consulte a [documentação](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [cancele](https://support.mozilla.org/kb/desktop-attribution-privacy) esse envio antes da instalação. Por padrão, o Firefox também envia dados de campanhas de marketing para o Adjust, nosso fornecedor de análise, que tem sua própria [política de privacidade](https://www.adjust.com/terms/privacy-policy/). Dados de campanhas incluem: identificação do anúncio do Google ou do Android, endereço IP, data e hora, país, idioma/região, sistema operacional e versão do aplicativo. Consulte a [documentação](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+por padrão, o Firefox envia dados HTTP à Mozilla que podem ser incluídos no instalador do navegador. Eles nos possibilitam determinar o domínio do site ou a campanha de publicidade (se houver) que encaminhou você para nossa página de download. Consulte a [documentação](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) ou [cancele](https://support.mozilla.org/kb/desktop-attribution-privacy) esse envio antes da instalação. 
+
+Por padrão, o Firefox também compartilha dados de campanhas de marketing sem identificação com nossos prestadores desses serviços para avaliar e melhorar a qualidade deles. Eles incluem o Adjust, que tem sua própria [política de privacidade](https://www.adjust.com/terms/privacy-policy/), e o Google. Dados de campanhas incluem: identificação do anúncio do Google ou do Android, endereço IP, data e hora, país, idioma/região, sistema operacional e versão do aplicativo. Consulte a [documentação](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ Você pode instalar extensões em addons.mozilla.org (“AMO”) ou no Gerenciad
 
 ### Nota de rodapé
 
-Para fazer solicitações relacionadas a seus dados pessoais, entre em contato conosco pelo nosso [portal de solicitações de acesso de sujeitos de dados](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Se você tiver outras dúvidas relacionadas aos seus dados pessoais ou às nossas práticas de privacidade, envie-nos um e-mail para compliance@mozilla.com. Respondemos a todas as solicitações recebidas de pessoas que queiram exercer seus direitos de proteção de dados em conformidade com a legislação de proteção de dados aplicável.
+Para fazer solicitações relacionadas a seus dados pessoais, entre em contato conosco pelo nosso [portal de solicitações de acesso de sujeitos de dados](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Se você tiver outras dúvidas relacionadas aos seus dados pessoais ou às nossas práticas de privacidade, envie-nos um e-mail para compliance@mozilla.com ou spara nosso departamento de proteção de dados no endereço dpo@mozilla.com. Respondemos a todas as solicitações recebidas de pessoas que queiram exercer seus direitos de proteção de dados em conformidade com a legislação de proteção de dados aplicável. Ao solicitar a exclusão dos seus dados do Firefox, eles são excluídos em até 30 dias após a solicitação (exceto Dados de interação, que têm período de retenção de 90 dias e são excluídos automaticamente depois disso).
 
 Este aviso de privacidade é referente à versão de lançamento geral mais recente do Firefox distribuída pela Mozilla. Se você obter o Firefox de outro lugar ou tiver uma versão mais antiga, sua cópia dele poderá conter características diferentes de privacidade.
 {: #pre-release }
