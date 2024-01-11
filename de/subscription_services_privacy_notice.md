@@ -1,13 +1,15 @@
 # Mozilla Abonnementdienste | Datenschutzhinweis
 
-Version 1.1, gültig ab Mittwoch, 1. November 2023
-{: datetime="2023-11-01" }
+Version 1.1, gültig ab Mittwoch, 10. Januar 2024
+{: datetime="2024-01-10" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 
 __Mozilla VPN__ schützt die Internetverbindungen Ihres Geräts. Mozilla arbeitet mit Mullvad zusammen, um Ihren Internet-Traffic privat und sicher zu verschlüsseln.
 
 __Firefox Relay__ schützt Ihre Identität mithilfe von sicherem Maskieren Ihrer E-Mail-Adresse und Telefonnummer. Unsere sicheren und benutzerfreundlichen E-Mail- und Telefonnummernmasken helfen, Ihre Identität geheimzuhalten, damit Sie sich anonym für neue Konten registrieren, Spam-SMS-Nachrichten und ungebetene Telefonanrufe stoppen können und nur die E-Mail-Nachrichten in Ihren Posteingang kommen, die Sie wirklich möchten.
+
+__Firefox Monitor__ kann überprüfen, ob Ihre Konten von bereits bekannten Datenlecks betroffen sind. Siehe die [Bedingungen und Datenschutzerklärung von Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 In diesem Datenschutzhinweis wird erläutert, welche Daten Firefox Relay und Mozilla VPN erfassen, teilen und warum das so ist. Wir halten uns auch an die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen.
 

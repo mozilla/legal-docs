@@ -1,13 +1,15 @@
 # Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Versión 1.2, en vigor desde el miércoles, 1 de noviembre de 2023
-{: datetime="2023-11-01" }
+Versión 1.2, en vigor desde el miércoles, 10 de enero de 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
 __Mozilla VPN__ es una red privada virtual ofrecida en colaboración con [Mullvad](https://mullvad.net). Este servicio cifrará y enrutará su tráfico de Internet a través de las redes de nuestro socio para proteger su privacidad y ocultarlo de su proveedor de servicio de Internet. Además, reemplazará su dirección IP actual por otra para ocultar su dirección IP personal privada de los demás, como los sitios web que visita.
 
 __Firefox Relay__ le permite proteger la seguridad y privacidad de su número de teléfono y dirección de correo electrónico principal frente a servicios online mediante la creación de máscaras para su número de teléfono y dirección de correo electrónico con las que podrá enviar y recibir mensajes de correo electrónico, llamadas y mensajes de texto sin tener que revelar su información de contacto actual.
+
+__Firefox Monitor__ puede monitorear para averiguar si alguna de sus cuentas ha sido involucrada en una filtración de datos conocida. Ver [Condiciones del servicio y Privacidad de Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso de los Servicios.
 
