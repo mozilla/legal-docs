@@ -1,13 +1,15 @@
 # Servicios de suscripción de Mozilla | Aviso de privacidad
 
-Versión 1.1, en vigor desde el miércoles, 1 de noviembre de 2023
-{: datetime="2023-11-01" }
+Versión 1.1, en vigor desde el miércoles, 10 de enero de 2024
+{: datetime="2024-01-10" }
 
 ## En Mozilla, tenemos en cuenta su privacidad a la hora de diseñar un producto.
 
 __Mozilla VPN__ protege las conexiones de Internet de su dispositivo. Mozilla se ha asociado con Mullvad para cifrar de forma segura y privada su tráfico de Internet.
 
 __Firefox Relay__ protege su identidad con correo electrónico seguro y enmascaramiento del teléfono. Nuestro correo electrónico y máscaras de teléfono seguros y fáciles de usar ayudan a mantener privada su identidad para que pueda registrarse para nuevas cuentas de manera anónima, detener los mensajes de texto y las llamadas no deseadas y solo recibir los correos electrónicos que desee en su bandeja de entrada.
+
+__Firefox Monitor__ puede monitorear para averiguar si alguna de sus cuentas ha sido involucrada en una filtración de datos conocida. Ver [Condiciones del servicio y Privacidad de Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 En este aviso de privacidad se explican los distintos tipos de datos que Mozilla VPN recopila, comparte y por qué. Además, nos adherimos a la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/) en cuanto a la forma en la que recibimos, tratamos y compartimos información.
 

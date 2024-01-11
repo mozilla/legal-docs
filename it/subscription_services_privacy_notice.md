@@ -1,13 +1,15 @@
 # Servizi Mozilla in abbonamento | Informativa sulla privacy
 
-Versione 1.1, in vigore dal 1 novembre 2023
-{: datetime="2023-11-01" }
+Versione 1.1, in vigore dal 10 gennaio 2024
+{: datetime="2024-01-10" }
 
 ## Mozilla progetta i suoi prodotti dando priorità alla tua privacy.
 
 __Mozilla VPN__ protegge le connessioni a Internet del tuo dispositivo. Mozilla collabora con Mullvad per crittografare in modo sicuro e anonimo il tuo traffico su Internet.
 
 __Firefox Relay__ protegge la tua identità con il mascheramento sicuro di email e numeri telefonici. I nostri alias per numeri di telefono e posta elettronica, sicuri e facili da usare, aiutano a mantenere la tua identità privata. Ti permettono di creare nuovi account in modo anonimo, bloccare messaggi spam e chiamate indesiderate, e ricevere solamente le email che desideri nella tua casella di posta.
+
+__Firefox Monitor__ è in grado di monitorare se uno dei tuoi account è stato oggetto di violazioni di dati note. Consulta i [Termini e l'Informativa sulla privacy di Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Questa informativa sulla privacy spiega quali dati vengono raccolti da Firefox Relay e Mozilla VPN, come vengono condivisi e perché. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni, puoi anche fare riferimento all'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/).
 

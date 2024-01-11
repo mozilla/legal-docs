@@ -1,13 +1,15 @@
 # Services d’abonnements Mozilla - Conditions d’utilisation
 
-Version 1.2 - Date d’effet : mercredi 1er novembre 2023
-{: datetime="2023-11-01" }
+Version 1.2 - Date d’effet : mercredi 10 janvier 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 
 __Mozilla VPN__ est un réseau virtuel privé fourni en partenariat avec [Mullvad](https://mullvad.net). Il protégera votre trafic Internet de votre fournisseur d’accès à Internet en le chiffrant et en l’acheminant par le biais des réseaux de notre partenaire. Il remplacera d’autre part votre adresse IP réelle pour que votre adresse IP personnelle ne soit pas visible, par exemple des sites Web que vous visitez.
 
 __Firefox Relay__ vous permet de protéger votre adresse e-mail principale et votre numéro de téléphone en créant des alias pour votre adresse e-mail et numéro de téléphone que vous utilisez pour envoyer et recevoir des e-mails, appels et SMS sans révéler vos coordonnées réelles.
+
+__Firefox Monitor__ peut vérifier si l’un de vos comptes a fait l’objet d’un piratage de données connu. Consultez [Conditions d’utilisation et politique de confidentialité de Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation des Services.
 

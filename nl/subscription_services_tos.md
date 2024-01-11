@@ -1,13 +1,15 @@
 # Mozilla Abonnementsservices | Servicevoorwaarden
 
-Versie 1.2, van kracht vanaf woensdag 1 november 2023
-{: datetime="2023-11-01" }
+Versie 1.2, van kracht vanaf woensdag 10 januari 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
 __Mozilla VPN__ is een Virtual Private Network dat wordt verzorgd in samenwerking met [Mullvad](https://mullvad.net). Deze Service houdt uw internetverkeer geheim voor uw internetprovider door middel van versleuteling en routering ervan via het netwerk van onze partner. Deze Service vervangt uw daadwerkelijke IP-adres om uw persoonlijke IP-adres geheim te houden voor anderen, zoals de websites die u bezoekt.
 
 Met __Firefox Relay__ kunt u uw primaire e-mailadres en telefoonnummer beschermen en privé houden door maskers voor uw e-mailadres en telefoonnummer te maken waarmee u e-mails, telefoongesprekken en sms-berichten kunt verzenden en ontvangen zonder uw werkelijke contactgegevens te onthullen.
+
+__Firefox Monitor__ kan controleren of uw accounts betrokken zijn geweest in bekende gegevenslekken. Zie de [voorwaarden en het privacybeleid van Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Services.
 
