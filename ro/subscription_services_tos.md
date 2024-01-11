@@ -1,13 +1,15 @@
 # Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
 
-Versiunea 1.2, în vigoare de la 1 noiembrie 2023
-{: datetime="2023-11-01" }
+Versiunea 1.2, în vigoare de la 10 ianuarie 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation oferă diverse servicii pentru a vă îmbunătăți confidențialitatea și securitatea online, inclusiv Mozilla VPN și Firefox Relay ("Serviciile").
 
 __Mozilla VPN__ este o rețea privată virtuală în parteneriat cu [Mullvad](https://mullvad.net). Acesta păstrează confidențialitatea traficului online față de furnizorul dumneavoastră de servicii de internet prin criptarea și rutarea acestuia prin rețelele partenerilor noștri. De asemenea, va înlocui adresa IP reală pentru a vă păstra adresa IP personală privată față de alte entități, ca de exemplu site-urile web pe care le accesați.
 
 __Firefox Relay__ vă permite păstrarea în siguranță și confidențialitate a adresei principale de e-mail principală și a numărulului de telefon prin crearea de măști pentru adresa de e-mail și numărul de telefon, măști care vă permit să trimiteți și să primiți e-mailuri, apeluri și mesaje text fără a vă dezvălui informațiile de contact reale.
+
+__Firefox Monitor__ poate monitoriza pentru a vedea dacă vreunul dintre conturile dumneavoastră a fost implicat în incidente de securitate a datelor. Consultați [Termenii și politica de confidențialitate pentru Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Vă rugăm să citiți cu atenție acești Termeni de utilizare a serviciului, deoarece explică informații importante despre utilizarea Serviciilor.
 

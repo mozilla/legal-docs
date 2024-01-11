@@ -1,13 +1,15 @@
 # Mozilla Abonnementsservices | Privacyverklaring
 
-Versie 1.1, van kracht vanaf woensdag 1 november 2023
-{: datetime="2023-11-01" }
+Versie 1.1, van kracht vanaf woensdag 10 januari 2024
+{: datetime="2024-01-10" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 
 __Mozilla VPN__ beschermt internetverbindingen vanaf uw apparaat. Mozilla werkt samen met Mullvad om uw internetverkeer vertrouwelijk en veilig te versleutelen.
 
 __Firefox Relay__ beschermt uw identiteit met veilige e-mail- en telefoonmaskering. Onze veilige en eenvoudig te gebruiken maskers voor e-mailadressen en telefoonnummers helpen uw identiteit privé te houden. U kunt zich daarmee anoniem kunt aanmelden voor nieuwe accounts en spamberichten, ongewenste oproepen en ongewenste e-mail voorkomen.
+
+__Firefox Monitor__ kan controleren of uw accounts betrokken zijn geweest in bekende gegevenslekken. Zie de [voorwaarden en het privacybeleid van Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 In deze privacyverklaring wordt uitgelegd welke gegevens Mozilla Relay en Mozilla VPN verzamelen en delen, en waarom. We houden ons daarnaast aan het [Privacybeleid van Mozilla](https://www.mozilla.org/privacy/) ten aanzien van hoe we informatie ontvangen, verzamelen en delen.
 

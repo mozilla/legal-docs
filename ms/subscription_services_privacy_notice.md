@@ -1,13 +1,15 @@
 # Perkhidmatan Langganan Mozilla | Notis Privasi
 
-Versi 1.1, Berkuat kuasa 01 November 2023
-{: datetime="2023-11-01" }
+Versi 1.1, berkuat kuasa pada 10 Januari 2024
+{: datetime="2024-01-10" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
 __Mozilla VPN__ melindungi sambungan internet peranti anda. Mozilla bekerjasama dengan Mullvad untuk menyulitkan trafik internet anda secara peribadi dan selamat.
 
 __Firefox Relay__ melindungi identiti anda dengan topeng e-mel dan topeng yang selamat. Topeng e-mel dan telefon kami yang selamat dan mudah digunakan membantu mengekalkan privasi identiti anda supaya anda boleh mendaftar untuk akaun baharu tanpa nama, menghentikan teks spam dan panggilan sampah serta hanya menerima e-mel yang anda inginkan dalam peti masuk anda.
+
+__Firefox Monitor__ boleh mengawasi untuk melihat sama ada mana-mana akaun anda berada dalam pelanggaran data yang diketahui. Lihat [Terma dan Privasi Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Notis privasi ini menerangkan jenis data yang dikumpulkan, dikongsikan oleh Firefox Relay dan Mozilla VPN serta sebabnya. Kami juga mematuhi [Dasar Privasi Mozilla](https://www.mozilla.org/privacy/) mengenai cara kami menerima, mengendalikan dan berkongsi maklumat.
 
