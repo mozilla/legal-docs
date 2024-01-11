@@ -1,13 +1,15 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Verze 1.2, platná od 1. listopadu 2023
-{: datetime="2023-11-01" }
+Verze 1.12 platná od 10. ledna 2024
+{: datetime="2024-01-10" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
 __Mozilla VPN__ je virtuální privátní síť provozovaná ve spolupráci se společností [Mullvad](https://mullvad.net). Zajišťuje soukromí vašeho internetového provozu vůči poskytovateli internetových služeb tím, že jej šifruje a směruje místo něj přes sítě našich partnerů. Nahradí také skutečnou IP adresu, aby vaše osobní IP adresa zůstala soukromá před ostatními, například před webovými stránkami, které navštěvujete.
 
 Služba __Firefox Relay__ vám umožní udržet vaši primární e-mailovou adresu a telefonní číslo v bezpečí a soukromí tak, že pro e-mailovou adresu a telefonní číslo vytvoří masky, které vám umožní odesílat a přijímat e-maily, hovory a textové zprávy, aniž by odhalily vaše skutečné kontaktní údaje.
+
+__Firefox Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. Viz [Zásady a ochrana osobních údajů Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání služeb.
 

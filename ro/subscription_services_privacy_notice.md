@@ -1,13 +1,15 @@
 # Servicii de abonare Mozilla | Notificare privind confidențialitatea
 
-Versiunea 1.1, în vigoare de la 1 noiembrie 2023
-{: datetime="2023-11-01" }
+Versiunea 1.1, în vigoare de la 10 ianuarie 2024
+{: datetime="2024-01-10" }
 
 ## La Mozilla, proiectăm produse fără a pierde din vedere confidențialitatea dumneavoastră.
 
 __Mozilla VPN__ protejează conexiunile la internet de pe dispozitivul dumneavoastră. Mozilla colaborează cu Mullvad pentru a cripta în mod privat și sigur traficul pe internet.
 
 __Firefox Relay__ vă protejează identitatea prin mascarea sigură a e-mailurilor și a telefoanelor. Măștile noastre securizate și ușor de utilizat pentru e-mail și telefon vă ajută să vă păstrați identitatea privată, astfel încât să vă puteți înscrie pentru conturi noi în mod anonim, să nu mai primiți mesaje spam și apeluri nedorite și să primiți doar e-mailurile pe care le doriți în căsuța dumneavoastră de e-mail.
+
+__Firefox Monitor__ poate monitoriza pentru a vedea dacă vreunul dintre conturile dumneavoastră a fost implicat în incidente de securitate a datelor. Consultati [Termenii și politica de confidențialitate pentru Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Această notificare privind confidențialitatea explică ce date colectează și partajează Firefox Relay și Mozilla VPN și de ce. De asemenea, respectăm [Politica de confidențialitate a Mozilla](https://www.mozilla.org/privacy/) în modul în care primim, gestionăm și partajăm informațiile.
 

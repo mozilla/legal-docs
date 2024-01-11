@@ -1,13 +1,15 @@
 # Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
 
-Verze 1.1, platná od 1. listopadu 2023
-{: datetime="2023-11-01" }
+Verze 1.1, platná od 10. ledna 2024
+{: datetime="2024-01-10" }
 
 ## Ve společnosti Mozilla při navrhování produktů pamatujeme na ochranu vašich osobních údajů.
 
 __Mozilla VPN__ chrání internetové připojení vašeho zařízení. Mozilla spolupracuje se společností Mullvad na soukromém a bezpečném šifrování vašeho internetového provozu.
 
 __Firefox Relay__ chrání vaši identitu formou zabezpečeného e-mailu a maskování telefonního čísla. Náš zabezpečený e-mail se snadným použitím a maskování telefonního čísla pomáhají se zachováním utajení vaší identity, abyste si mohli nové účty zakládat anonymně, zastavit nevyžádané textové zprávy a hromadná volání a ve své složce došlé pošty našli pouze e-maily, které skutečně chcete.
+
+__Firefox Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. Viz [Zásady a ochrana osobních údajů Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje Firefox Relay a Mozilla VPN shromažďují, sdílejí a proč. S ohledem na způsob získáváními, zpracovávání a sdílení informací rovněž dodržujeme [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
 

@@ -1,13 +1,15 @@
 # Servizi Mozilla in abbonamento | Termini di servizio
 
-Version 1.2, in vigore da mercoledì 1 novembre 2023
-{: datetime="2023-11-01" }
+Versione 1.2, in vigore dal 10 gennaio 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza online, tra cui Mozilla VPN e Firefox Relay (i "Servizi").
 
 __Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale gestita in collaborazione con [Mullvad](https://mullvad.net). Questo Servizio nasconde il tuo traffico internet al tuo fornitore di servizi internet crittografando i dati ed eseguendo il routing attraverso le reti del nostro partner. Inoltre, sostituisce il tuo reale indirizzo IP per non renderlo visibile agli altri, come i siti web che visiti.
 
 __Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando degli alias che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
+
+__Firefox Monitor__ è in grado di monitorare se uno dei tuoi account è stato oggetto di violazioni di dati note. Consulta i [Termini e l'Informativa sulla privacy di Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo dei Servizi.
 

@@ -1,13 +1,15 @@
 # Usługi subskrypcji Mozilla | Zasady prywatności
 
-Wersja 1.1, obowiązuje od 1 listopada 2023 r.
-{: datetime="2023-11-01" }
+Wersja 1.1, obowiązuje od 10 stycznia 2024 r.
+{: datetime="2024-01-10" }
 
 ## W firmie Mozilla projektujemy produkty z myślą o prywatności użytkowników.
 
 __Mozilla VPN__ chroni połączenia internetowe urządzenia użytkownika. Mozilla współpracuje z firmą Mullvad, aby prywatnie i bezpiecznie szyfrować ruch internetowy użytkownika.
 
 __Firefox Relay__ chroni tożsamość użytkownika dzięki bezpiecznemu maskowaniu adresu e-mail i numeru telefonu. Nasze bezpieczne i łatwe w użyciu maski adresów e-mail i numerów telefonów pomagają zachować prywatność swojej tożsamości, dzięki czemu użytkownik może anonimowo rejestrować nowe konta, powstrzymywać spamowe wiadomości tekstowe i niechciane połączenia oraz otrzymywać w skrzynce odbiorczej tylko pożądane wiadomości e-mail.
+
+__Firefox Monitor__ może prowadzić monitorowanie, aby sprawdzać, czy którekolwiek z Twoich kont padło ofiarą znanych naruszeń bezpieczeństwa danych. Zobacz dokument [Regulamin usługi Firefox Monitor i ochrona prywatności](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Niniejsze zasady prywatności wyjaśnia, jakie dane usługi Firefox Relay i Mozilla VPN gromadzą i udostępniają oraz dlaczego. Stosujemy się również do [Polityki prywatności](https://www.mozilla.org/privacy/) firmy Mozilla w zakresie sposobów, w jakie otrzymujemy, obsługujemy i udostępniamy informacje.
 

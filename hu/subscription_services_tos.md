@@ -1,13 +1,15 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
-{: datetime="2023-11-01" }
+1.2-es verzió, hatálybalépés dátuma: 2024. január 10.
+{: datetime="2024-01-10" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
 A __Mozilla VPN__ egy virtuális magánhálózat a [Mullvad](https://mullvad.net) támogatásával. Azáltal, hogy titkosítja és továbbítja partnerünk hálózatain keresztül, titkosítja az internetes forgalmat az internetszolgáltatótól. Lecseréli a tényleges IP-címét is, hogy személyes IP-címéhez mások, például a meglátogatott webhelyek ne férhessenek hozzá.
 
 A __Firefox Relay__ lehetővé teszi az elsődleges e-mail-címének és telefonszámának biztonságban és titokban tartását azáltal, hogy maszkokat hoz létre az e-mail-címéhez és telefonszámához, amelyek lehetővé teszik az e-mailek, hívások és szöveges üzenetek küldését és fogadását anélkül, hogy felfedné tényleges kapcsolatfelvételi adatait.
+
+A __Firefox Monitor__ képes figyelni, hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Lásd a [Firefox Monitor feltételeit és adatvédelmi szabályzatát](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatások használatával kapcsolatban.
 

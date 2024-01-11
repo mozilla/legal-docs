@@ -1,13 +1,15 @@
 # Mozilla előfizetéses szolgáltatások | Adatvédelmi nyilatkozat
 
-1.1-es verzió, hatálybalépés dátuma: 2023. november 1.
-{: datetime="2023-11-01" }
+1.1-es verzió, hatálybalépés dátuma: 2024. január 10.
+{: datetime="2024-01-10" }
 
 ## A Mozillánál az Ön személyes adatainak védelmét szem előtt tartva tervezzük a termékeket.
 
 A __Mozilla VPN__ eszköze internetkapcsolatait védi. A Mozilla együttműködik a Mullvaddal, hogy privát módon és biztonságosan titkosítsa internetes forgalmát.
 
 A __Firefox Relay__ biztonságos e-mail- és telefonmaszkokkal védi személyazonosságát. Biztonságos és könnyen használható e-mail- és telefonmaszkjaink segítenek megvédeni személyazonosságát, így névtelenül regisztrálhat új fiókokat, megállíthatja a levélszemetet és a kéretlen hívásokat, és csak a kívánt e-maileket kaphatja meg a postaládájában.
+
+A __Firefox Monitor__ képes figyelni, hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Lásd a [Firefox Monitor feltételeit és adatvédelmi szabályzatát](https://www.mozilla.org/privacy/firefox-monitor/).
 
 A jelen adatvédelmi nyilatkozat elmagyarázza, hogy a Firefox Relay és a Mozilla VPN milyen adatokat gyűjt, oszt meg, és miért. Emellett betartjuk a [Mozilla adatvédelmi szabályzatát](https://www.mozilla.org/privacy/) az adatok fogadásának, kezelésének és megosztásának módjára vonatkozóan.
 

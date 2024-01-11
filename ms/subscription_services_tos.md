@@ -1,13 +1,15 @@
 # Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Versi 1.2, berkuat kuasa pada 1 Nov 2023
-{: datetime="2023-11-01" }
+Versi 1.2, berkuat kuasa pada 10 Januari 2024
+{: datetime="2024-01-10" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).
 
 __Mozilla VPN__ ialah Rangkaian Peribadi Maya yang dikongsikan bersama [Mullvad](https://mullvad.net). Ia merahsiakan trafik internet anda daripada penyedia perkhidmatan internet dengan menyulitkan dan menghalakannya melalui rangkaian rakan kongsi kami. Ia juga menggantikan alamat IP sebenar anda untuk merahsiakan alamat IP peribadi anda daripada orang lain, seperti laman web yang anda kunjungi.
 
 __Firefox Relay__ membolehkan anda menyimpan alamat e-mel utama anda dan nombor telefon dengan selamat dan secara peribadi dengan membuat topeng pada alamat e-mel anda dan nombor telefon yang membolehkan anda menghantar dan menerima e-mel, panggilan dan teks tanpa mendedahkan maklumat perhubungan sebenar anda.
+
+__Firefox Monitor__ boleh mengawasi untuk melihat sama ada mana-mana akaun anda berada dalam pelanggaran data yang diketahui. Lihat [Terma dan Privasi Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
 
 Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
