@@ -1,55 +1,68 @@
 # Mozilla Subscription Services | Privacy Notice
 
-Version 1.1, Effective January 10, 2024
-{: datetime="2024-01-10" }
+Version 1.2, Effective February 5, 2024
+{: datetime="2024-02-05" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
 __Mozilla VPN__ protects your device’s internet connections. Mozilla partners with Mullvad to privately and securely encrypt your internet traffic.
 
+__Mozilla Monitor__ can monitor to see if any of your accounts have been in known data breaches. In some regions, it can also help you scan for and remove your information from places around the web. 
+
 __Firefox Relay__ protects your identity with secure email and phone masking. Our secure and easy to use email and phone masks help keep your identity private so you can sign up for new accounts anonymously, stop spam texts and junk calls, and get only the emails you want in your inbox.  
 
-__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
-
-This privacy notice explains what data Firefox Relay and Mozilla VPN collect, share, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
+This privacy notice explains what data Mozilla VPN, Mozilla Monitor and Firefox Relay collect, share, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 ## Things You Should Know
 
-__Mozilla account information.__ These Services require a Mozilla account, which sends Mozilla your email address, locale, and IP address. Learn more about [Mozilla Account data practices](https://www.mozilla.org/privacy/mozilla-accounts/).
+__Mozilla account information.__ These services require a Mozilla account, which sends Mozilla your email address, locale, and IP address. Learn more about [Mozilla Account data practices](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-__Payment information.__ When you subscribe to the Services, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
+__Payment information.__ When you subscribe to services that require a paid subscription, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
 ### Mozilla VPN {: #vpn }
 
-__Interaction data.__ Mozilla receives data about your interactions with Mozilla VPN. For example, we would be able to know things like if you’ve excluded any Apps from protection (but not which ones), in how many devices you are using your Mozilla VPN Subscription, and whether or not you’ve enabled the ads blocking feature. For a full review of our telemetry, you can learn more in [VPN interaction data](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn). We use Interaction data to improve performance and stability for our users, and to measure the Services’ performance.
+__Interaction data.__ Interaction data collection is disabled by default. If you opt-in, Mozilla will receive data about your interactions with Mozilla VPN. For example, we would be able to know things like if you’ve excluded any Apps from protection (but not which ones), in how many devices you are using your Mozilla VPN Subscription, and whether or not you’ve enabled the ads blocking feature. For a full review of our telemetry, you can learn more in [VPN interaction data](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn). We use interaction data to improve performance and stability for our users, and to measure the services’ performance.
 
 In addition, to help understand the effectiveness of our marketing campaigns, Mozilla may receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, device identifiers, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the [Adjust documentation](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
-__Technical data.__ Across Subscription Services, your IP address is temporarily collected as part of our server logs for 90 days. For VPN, Mozilla also receives information about the installed version of your Mozilla VPN client software, and the devices they are installed on, including their operating systems and hardware configuration. We use Technical data to improve performance and stability for our users, and to measure the Services’ performance. In addition, our partner Sentry.io will receive technical data for error and performance monitoring purposes. Learn more at [Sentry.io’s Privacy Policy](https://sentry.io/privacy/).
+__Technical data.__ Across the services, your IP address is temporarily collected as part of our server logs for 90 days. For VPN, Mozilla also receives information about the installed version of your Mozilla VPN client software, and the devices they are installed on, including their operating systems and hardware configuration. We use technical data to improve performance and stability for our users, and to measure the services’ performance. 
 
-__Location data.__ Mozilla Subscription Services receives your IP address when you sign up for and use the service(s) and it is collected as part of our servers logs for 90 days; we use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use it for fraud and abuse prevention purposes across our products.
+In addition, if you have provided consent to data collection within the application, our partner Sentry.io will receive technical data for error and performance monitoring purposes.  Learn more at [Sentry.io’s Privacy Policy](https://sentry.io/privacy/).
 
-__Network data.__ When you activate Mozilla VPN, it will encrypt your internet traffic and send it to Mullvad. No logs of your network activity are maintained by either Mozilla nor our partner Mullvad when you're using the Mozilla VPN service.  Learn more at [Mullvad’s Privacy Policy](https://mullvad.net/help/no-logging-data-policy/).
+__Location data.__ Mozilla receives your IP address when you sign up for and use the service(s) and it is collected as part of our servers logs for 90 days; we use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use it for fraud and abuse prevention purposes across our products.
+
+__Network data.__ When you activate Mozilla VPN, it will encrypt your internet traffic and send it to Mullvad. No logs of your network activity are maintained by either Mozilla nor our partner Mullvad when you’re using the Mozilla VPN service in any circumstance.  Learn more at [Mullvad’s Privacy Policy](https://mullvad.net/help/no-logging-data-policy/).
+
+### Mozilla Monitor {: #monitor }
+
+__Interaction data.__ Mozilla receives data about your interactions with the Services. For instance, when you log in and out and the preferences you set; learn more about [Monitor Interaction data](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). More generally, Mozilla may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+
+* [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned receives a hashed version of your email address in order to perform a scan of where your personal data may have been compromised. HaveIbeenpwned keeps this personal data to continuously scan for new breaches; you can request removal of your email address from HaveIbeenpwned via their [opt-out mechanism](https://haveibeenpwned.com/OptOut).
+  
+* [OneRep.](https://onerep.com/) If you are located in the United States and have a Monitor Premium Subscription, OneRep receives your first and last name, email address, phone number, physical address and date of birth in order to scan data broker sites to find your personal data and request its removal. OneRep keeps your personal data until you end your Monitor subscription in order to check whether your information shows up on additional sites, or has reappeared on the sites you’ve already been removed from.
+  
+* [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozila Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription. 
+ 
 
 ### Firefox Relay {: #relay }
 
-__Interaction data.__ Mozilla receives data about your interactions with the Services. For instance, when you log in and out and the preferences you set; learn more about [Relay interaction data](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). We use Interaction data to improve performance and stability for our users, and to measure the Services’ performance.
+__Interaction data.__ Mozilla receives data about your interactions with Firefox Relay, for instance, when you log in and out and the preferences you set. Learn more about [Relay interaction data](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); you can opt-out of this collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser. 
 
-In addition, to help understand the effectiveness of our marketing campaigns, Mozilla may receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, device identifiers, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the [Adjust documentation](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
+More generally, Mozilla may also use cookies, device information, and IP addresses, along with cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
 
-__Technical data.__ Mozilla receives basic information about the installed version of your Relay Add-on software, and the device they are installed on, including the operating system and hardware configuration. Across Subscription Services, your IP address is temporarily collected as part of our server logs for 90 days. We use technical data to improve performance and stability for our users, and to measure the Services’ performance.
+* Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content. To prevent Google Analytics from collecting data about your use of Mozilla Monitor, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-__Location data.__ Mozilla Subscription Services receive your IP address when you sign up for and use the service(s). We use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use your IP address for fraud and abuse prevention purposes across our products.
+__Technical data.__ Mozilla receives basic information about the installed version of your Relay Add-on software, and the device they are installed on, including the operating system and hardware configuration. Across the services, your IP address is temporarily collected as part of our server logs for 90 days. We use technical data to improve performance and stability for our users, and to measure the services’ performance.
 
-__Firefox Relay email messages.__ To send and forward your email messages from your masked email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked.
+__Location data.__ Mozilla receives your IP address when you sign up for and use the service(s). We use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use your IP address for fraud and abuse prevention purposes across our products.
 
-__Firefox Relay masks (and where you use them).__ Mozilla maintains a copy of your account information to provide the Service, in particular to associate your primary email address with your masked email address(es). If you create a custom mask, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the mask, sites where you subsequently use the mask, and any labels associated with the mask in order to ensure that your masks are easily findable when you’re ready to use them. Learn how to [enable and disable these features](https://relay.firefox.com/faq).
+__Firefox Relay email messages.__ To send and forward your email messages from your masked email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the service will check email headers to determine whether the email should be blocked.
 
-__Firefox Relay phone calls and text messages.__ To send and forward your phone calls and text messages, Firefox Relay processes your phone number and text messages. We store a log of the phone numbers you’ve contacted through Relay in order to show your call and text logs, send text replies and block phone numbers. We do not monitor or store the content of phone calls you make through Firefox Relay.
+__Firefox Relay masks (and where you use them).__ Mozilla maintains a copy of your account information to provide the service, in particular to associate your primary email address with your masked email address(es). If you create a custom mask, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the mask, sites where you subsequently use the mask, and any labels associated with the mask in order to ensure that your masks are easily findable when you’re ready to use them. Learn how to [enable and disable these features](https://relay.firefox.com/faq).
 
-Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). You can opt-out of telemetry collection by turning on the [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) feature in your browser.
+__Firefox Relay phone calls and text messages.__ To send and forward your phone calls and text messages, Firefox Relay processes your phone number and text messages. We store a log of the phone numbers you’ve contacted through Relay in order to show your call and text logs, send text replies and block phone numbers. We do not monitor or store the content of phone calls you make through Firefox Relay. Learn how to [enable and disable these features](https://relay.firefox.com/faq).
 
-__Information we share.__ Firefox Relay shares information with third parties to provide the service to you. Mozilla has contracted with this company requiring them to protect your information. Here’s who we use to support Firefox Relay:
+__Information we share.__ Firefox Relay shares information with third parties to provide the service to you. Mozilla has contracted with these companies requiring them to protect your information. Here’s who we use to support Firefox Relay:
 
 * __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ Amazon Web Services (AWS) is a cloud-computing platform. Firefox Relay uses AWS to receive emails sent to your masked email address(es) and to forward them to the primary email address associated with your Mozilla account. Only Mozilla knows the association between your primary email address and your masked email address(es).
 
