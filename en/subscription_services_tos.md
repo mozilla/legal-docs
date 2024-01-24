@@ -9,7 +9,7 @@ __Mozilla VPN__ is a Virtual Private Network in partnership with [Mullvad](https
 
 __Firefox Relay__ allows you to keep your primary email address and phone number safe and private by making masks for your email address and phone number that allow you to send and receive emails, calls, and texts without revealing your actual contact information.
 
-__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Mozilla Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
 
 __Mozilla Monitor__ scans to see if your passwords, phone numbers, or other personal information have been leaked in a known data breach, and helps you take steps to remove you data from data brokers. 
 
@@ -63,6 +63,7 @@ To use the paid subscription service, you must be in a country where Firefox Rel
 * The email masking service is available in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
 
 ### Permissions Necessary to Provide Firefox Relay
+
 __Your Use of Relay.__ If you have a current, paid subscription to Firefox Relay, Mozilla gives you permission to use it according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit Firefox Relay. You are solely responsible for the Content you transmit and the consequences.
 
 You give Mozilla and Twilio all rights necessary to operate Firefox Relay, including processing your email address and phone number as well as sending and receiving the emails, phone calls, and text messages sent to and from the masks you create. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). 
@@ -109,7 +110,7 @@ You agree and assure Mozilla that:
 
 Please note that it may take up to 2 months starting from receipt by us of complete information required to provide the Services for opt-out requests to be handled by Data Broker Sites.
 
-__Limits.__ You understand that the results of the Services are in direct correlation with the promptness and completeness of information provided by you to us. Although Firefox Monitor and [Have I Been Pwned](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
+__Limits.__ You understand that the results of the Services are in direct correlation with the promptness and completeness of information provided by you to us. Although Mozilla Monitor and [Have I Been Pwned](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
 
 _You also understand Mozilla does not control data brokers and therefore cannot guarantee that they will honor requests to delete data._
 To learn more about the data that Mozilla, HIBP, and OneRep process, you can see the [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services).
