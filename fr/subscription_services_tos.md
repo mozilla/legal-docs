@@ -1,15 +1,17 @@
 # Services d’abonnements Mozilla - Conditions d’utilisation
 
-Version 1.2 - Date d’effet : mercredi 10 janvier 2024
-{: datetime="2024-01-10" }
+Version 2.0 - Date d’effet : lundi 5 février 2024
+{: datetime="2024-02-05" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 
-__Mozilla VPN__ est un réseau virtuel privé fourni en partenariat avec [Mullvad](https://mullvad.net). Il protégera votre trafic Internet de votre fournisseur d’accès à Internet en le chiffrant et en l’acheminant par le biais des réseaux de notre partenaire. Il remplacera d’autre part votre adresse IP réelle pour que votre adresse IP personnelle ne soit pas visible, par exemple des sites Web que vous visitez.
+__Mozilla VPN__ est un réseau virtuel privé fourni en partenariat avec [Mullvad](https://mullvad.net). Il protégera votre trafic Internet de votre fournisseur d’accès à Internet en le chiffrant et en l’acheminant par le biais des réseaux de notre partenaire. Il remplacera d’autre part votre adresse IP réelle pour que votre adresse IP personnelle ne soit pas visible, par exemple des sites web que vous visitez.
 
 __Firefox Relay__ vous permet de protéger votre adresse e-mail principale et votre numéro de téléphone en créant des alias pour votre adresse e-mail et numéro de téléphone que vous utilisez pour envoyer et recevoir des e-mails, appels et SMS sans révéler vos coordonnées réelles.
 
-__Firefox Monitor__ peut vérifier si l’un de vos comptes a fait l’objet d’un piratage de données connu. Consultez [Conditions d’utilisation et politique de confidentialité de Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ peut vérifier si l’un de vos comptes a fait l’objet d’une atteinte à la protection des données connue. Consultez [Conditions d’utilisation et politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ vérifie si vos mots de passe, numéros de téléphone ou d’autres informations personnelles ont fuité lors d'une atteinte à la protection des données connue, puis vous aide à supprimer vos données des courtiers de données. 
 
 Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation des Services.
 
@@ -38,7 +40,7 @@ Vous pouvez annuler votre abonnement aux Services à tout moment. Pour ce faire,
 Nous ne proposons Mozilla VPN que sous la forme d’un service d’abonnement payant.
 
 ### Éligibilité
-Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est proposé dans les pays suivants : Allemagne, Autriche, Belgique, Bulgarie, Canada, Croatie, Chypre, Danemark, Espagne, Estonie, Finlande, France, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malaisie, Malte, Pays-Bas, Nouvelle-Zélande, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Singapour, Suède, Suisse, Royaume-Uni et États-Unis. 
+Vous devez résider dans un pays où le Service est disponible pour télécharger Mozilla VPN et utiliser le Service. À ce stade, le Service est proposé dans les pays suivants : Allemagne, Autriche, Belgique, Bulgarie, Canada, Croatie, Chypre, Danemark, Espagne, Estonie, États-Unis, Finlande, France, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malaisie, Malte, Pays-Bas, Nouvelle-Zélande, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Singapour, Suède et la Suisse.  
 
 ### Autorisations nécessaires pour fournir Mozilla VPN
 Mozilla VPN est un réseau virtuel privé fourni en partenariat avec Mullvad. Pour en savoir plus sur le fonctionnement du Service, vous pouvez consulter le code source de Mozilla pour le programme VPN.
@@ -58,14 +60,15 @@ Nous proposons Firefox Relay soit en tant que service gratuit, soit en tant que 
 Pour pouvoir utiliser le service par abonnement, vous devez résider dans un pays où Firefox Relay est disponible. 
 
 * À ce stade, le service d’alias des numéros de téléphone n’est disponible qu’au Canada et aux États-Unis. 
-* Actuellement, le service d’alias des adresses e-mail est proposé dans les pays suivants : Allemagne, Australie, Belgique, Canada, Espagne, États-Unis, Finlande, France, Irlande, Italie, Malaisie, Nouvelle-Zélande, Pays-Bas, Royaume-Uni, Singapour, Suède et Suisse.
+* Le service d’alias des adresses e-mail est proposé dans les pays suivants : Allemagne, Australie, Belgique, Canada, Espagne, États-Unis, Finlande, France, Irlande, Italie, Malaisie, Nouvelle-Zélande, Pays-Bas, Royaume-Uni, Singapour, Suède et Suisse.
 
 ### Autorisations nécessaires pour fournir Mozilla Relay
+
 __Votre utilisation de Relay.__ Si vous disposez actuellement d’un abonnement payant à Firefox Relay, Mozilla vous autorise à l’utiliser conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence, revendre ou exploiter commercialement Firefox Relay. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
 
 Vous octroyez à Mozilla et Twilio tous les droits nécessaires pour exploiter Firefox Relay, notamment le traitement de votre adresse e-mail et numéro de téléphone ainsi que l’envoi et la réception des e-mails, appels et SMS vers et depuis les alias que vous créez. Si un e-mail ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). 
 
-Nous créons des journaux avec les numéros de téléphone que vous avez contactés via Relay afin de consigner vos appels et SMS, envoyer des réponses par SMS et bloquer des numéros de téléphone. Mozilla configuré le service Twilio pour qu’il supprime les enregistrements des SMS que vous envoyez et recevez via Firefox Relay après 7 jours. Nous ne surveillons pas ni ne stockons le contenu des appels téléphoniques que vous passez via Firefox Relay.
+Nous créons des journaux avec les numéros de téléphone que vous avez contactés via Relay afin de consigner vos appels et SMS, envoyer des réponses par SMS et bloquer des numéros de téléphone. Mozilla a configuré le service Twilio pour qu’il supprime les enregistrements des SMS que vous envoyez et recevez via Firefox Relay après 7 jours. Nous ne surveillons pas ni ne stockons le contenu des appels téléphoniques que vous passez via Firefox Relay.
 
 Nous ne lisons pas ni ne stockons le contenu de vos e-mails plus longtemps que le temps nécessaire à vous les envoyer. Si vous utilisez la fonction de blocage des e-mails promotionnels, le Service vérifiera les en-têtes des e-mails pour déterminer si ces derniers doivent être bloqués.
 
@@ -77,7 +80,40 @@ Une fois un alias de numéro de téléphone défini, vous ne pourrez pas le chan
 
 Firefox Relay limite la taille des pièces jointes aux e-mails à 10 Mo. Les e-mails dépassant cette taille seront supprimés.
 
-Pour en savoir plus le fonctionnement de Firefox Relay et les données traitées par Mozilla et Twilio, vous pouvez consulter le [code de source](https://github.com/mozilla/fx-private-relay) de Mozilla et la [Politique de confidentialité des services d’abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Pour en savoir plus sur le fonctionnement de Firefox Relay et les données traitées par Mozilla et Twilio, vous pouvez consulter le [code source](https://github.com/mozilla/fx-private-relay) de Mozilla et la [Politique de confidentialité des services d’abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services).
+
+## Mozilla Monitor
+
+Nous proposons Mozilla Monitor soit en tant que service gratuit, soit en tant que service par abonnement payant. Le service gratuit de notification de violation des données est un partenariat avec Have I Been Pwned (« HIBP »). Le service de suppression des données automatisée est un partenariat avec OneRep pour supprimer les informations personnelles publiées sur des répertoires en ligne et agrégateurs d’informations concernant des personnes (« Sites de courtage de données »).
+
+### Éligibilité
+Le service de notification de violation des données est disponible gratuitement dans le monde entier. Actuellement, le service automatisé de suppression des données chez les courtiers n’est disponible qu’aux États-Unis.
+
+### Autorisations nécessaires pour fournir Mozilla Monitor
+
+__Votre utilisation de Monitor.__ Si vous disposez actuellement d’un abonnement payant à Mozilla Monitor, Mozilla vous autorise à l’utiliser conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence, revendre ou exploiter commercialement Mozilla Monitor. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
+
+Vous accordez à Mozilla, OneRep et HIBP tous droits nécessaires pour exploiter Mozilla Monitor, notamment :
+
+* Utiliser les informations pour l’exécution des Services que vous nous avez fournies, dont les informations vous identifiant personnellement.
+* Analyser les violations de données connues publiquement pour identifier les informations personnelles que vous nous avez fournies à cet effet. 
+* Contacter des tiers, notamment les sites de courtage de données, qui publient des informations vous concernant.
+* Créer des comptes en ligne sur les sites de courtage de données en votre nom à seule fin de vous fournir les Services (p. ex. en cas de nécessité pour configurer un compte sur un site de courtage de données pour envoyer des demandes de retrait ou effectuer d’autres actions pour supprimer vos informations).
+* Effectuer les actions décrites ci-dessus en votre nom.
+
+Vous acceptez et assurez Mozilla de ce qui suit :
+* Toutes les informations que vous avez fournies sont exactes et sincères.
+* Vous n’utiliserez ni ne fournirez d’informations frauduleuses, trompeuses ou inexactes. 
+* Vous ne vous ferez pas passer pour une autre personne ni ne déformerez votre identité ou votre relation avec une personne.
+* Votre utilisation des Services sera conforme aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/).
+* Vous n’utiliserez pas les Services de manière à empiéter sur les droits de quiconque ni d’enfreindre de lois.
+
+Veuillez noter qu’un délai allant jusqu’à 2 mois peut s’écouler avant notre réception de toutes les informations demandées pour que nous puissions fournir les Services pour les demandes de retrait traitées par les sites de courtage de données.
+
+__Limitations.__ Vous comprenez que la qualité des Services est directement liée à la rapidité avec laquelle vous nous fournissez des informations complètes. Bien que Mozilla Monitor et [Have I Been Pwned?](https://haveibeenpwned.com/) s’efforcent de maintenir leurs données à jour, il n’y a aucune garantie que ces services pourront proposer des dossiers complets ou à jour de toutes les atteintes à la protection des données publiques. 
+
+_Vous comprenez d’autre part que Mozilla ne contrôle pas les courtiers de données et ne peut donc pas garantir qu’ils répondront favorablement à votre demande de suppression des données._
+Pour en savoir plus sur les données que traitent Mozilla, HIBP et OneRep, consultez l’[Avis de confidentialité des services d’abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Autres choses importantes à savoir
 
@@ -89,7 +125,7 @@ __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence
 
 * Vous acceptez d’autre part que votre utilisation des Services sera conforme aux Conditions d’utilisation de Mozilla.
 * Vous garantissez à Mozilla de ne pas utiliser les Services de manière à empiéter sur les droits de quiconque ni d’enfreindre de lois.
-* Dans les limites autorisées par le droit applicable, vous acceptez que Mozilla ne soit pas tenue responsable de tout empêchement d’utilisation des Services, de toutes limitations du Service, ou de toute réclamation découlant des présentes Conditions. Mozilla décline les responsabilités suivantes : dommages indirects, particuliers, accessoires, consécutifs ou exemplaires, ou dommages indirects de perte de clientèle, arrêts de travail, perte de profits, perte de données ou mauvais fonctionnement d’ordinateur. Selon cet accord, le montant de la responsabilité de Mozilla est limité à $500.
+* Dans les limites autorisées par le droit applicable, vous acceptez que Mozilla ne soit pas tenu responsable de tout empêchement d’utilisation des Services, de toutes limitations du Service, ou de toute réclamation découlant des présentes Conditions. Mozilla décline les responsabilités suivantes : dommages indirects, particuliers, accessoires, consécutifs ou exemplaires, ou dommages indirects de perte de clientèle, arrêts de travail, perte de profits, perte de données ou mauvais fonctionnement d’ordinateur. Selon cet accord, le montant de la responsabilité de Mozilla est limité à $500.
 * Vous acceptez d’indemniser et de tenir Mozilla à l’écart de toute responsabilité ou réclamation suite à votre participation aux Services, dans les limites autorisées par le droit applicable.
 * Mozilla fournit les Services « tel quel ». Dans les limites autorisées par le droit applicable, Mozilla décline spécifiquement toutes garanties telles que « qualité marchande », « adéquation à une fin particulière », « violation de droits » et les garanties liées aux transactions, à l’usage ou au commerce.
 * Vous pouvez bénéficier de droits supplémentaires dans votre pays. Aucune de ces Conditions d’utilisation ne saurait modifier ces droits, le cas échéant.
@@ -98,7 +134,7 @@ __Propriété intellectuelle de Mozilla.__ Mozilla et ses concédants de licence
 
 * __Mozilla se réserve le droit de modifier ces Conditions.__ Mozilla peut décider de modifier ces Conditions de temps à autre. Nous publierons les Conditions modifiées en ligne. Nous considérerons votre utilisation des Services comme une acceptation de ces modifications. Nous mentionnerons la date d’effet en haut de cette page pour préciser la date de notre mise à jour la plus récente.
 
-* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser les Services et en annulant votre abonnement. Mozilla peut suspendre ou mettre fin à l’accès aux Services de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin aux Services. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse électronique associée à votre compte ou lors du prochain accès à votre compte.
+* __Résiliation.__ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez d’y mettre fin. Vous pouvez choisir d’y mettre fin à tout moment, pour quelque motif que ce soit, en arrêtant d’utiliser les Services et en annulant votre abonnement. Mozilla peut suspendre ou mettre fin à l’accès aux Services de toute personne et pour toute raison, notamment si Mozilla décide de mettre fin aux Services. Si nous décidons de suspendre votre accès ou d’y mettre fin, nous essaierons de vous notifier notre décision via l’adresse e-mail associée à votre compte ou lors du prochain accès à votre compte.
 
 Si nous résilions votre accès aux Services sans raison spécifique, vous continuerez à pouvoir accéder aux Services jusqu’à la fin de votre abonnement en cours, ou nous vous rembourserons le mois en cours. Toutefois, nous nous réservons le droit de résilier immédiatement votre utilisation du Service si nous avons des motifs raisonnables de croire que vous avez enfreint les Conditions d’utilisation, ou avez autrement enfreint les présentes Conditions.
 
@@ -107,9 +143,9 @@ __Juridiction.__ La loi de Californie s’applique à ce contrat, sauf en cas de
 ## Contacter Mozilla
 
 Mozilla Corporation  
-À l’attention de : Mozilla – Legal Notices  
-149 New Montgomery Street,  
+Attn: Mozilla – Legal Notices  
+149 New Montgomery Street  
 4th Floor  
-San Francisco, CA 94105, États-Unis  
+San Francisco, CA 94105  
 
 legal-notices@mozilla.com
