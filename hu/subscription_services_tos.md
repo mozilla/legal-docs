@@ -1,7 +1,7 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-1.2-es verzió, hatálybalépés dátuma: 2024. január 10.
-{: datetime="2024-01-10" }
+2.0-s verzió, hatálybalépés dátuma: 2024. február 5.
+{: datetime="2024-02-05" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
@@ -9,7 +9,9 @@ A __Mozilla VPN__ egy virtuális magánhálózat a [Mullvad](https://mullvad.net
 
 A __Firefox Relay__ lehetővé teszi az elsődleges e-mail-címének és telefonszámának biztonságban és titokban tartását azáltal, hogy maszkokat hoz létre az e-mail-címéhez és telefonszámához, amelyek lehetővé teszik az e-mailek, hívások és szöveges üzenetek küldését és fogadását anélkül, hogy felfedné tényleges kapcsolatfelvételi adatait.
 
-A __Firefox Monitor__ képes figyelni, hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Lásd a [Firefox Monitor feltételeit és adatvédelmi szabályzatát](https://www.mozilla.org/privacy/firefox-monitor/).
+A __Mozilla Monitor__ képes figyelni , hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Lásd a [Mozilla Monitor feltételeit és adatvédelmi szabályzatát](https://www.mozilla.org/privacy/firefox-monitor/).
+
+A __Mozilla Monitor__ ellenőrzi, hogy jelszavai, telefonszámai vagy egyéb személyes adatai kiszivárogtak-e egy ismert adatvédelmi incidens során, és segít az Ön adatainak eltávolításában az adatközvetítőktől. 
 
 Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatások használatával kapcsolatban.
 
@@ -21,7 +23,7 @@ A Szolgáltatások használatához Mozilla-fiók szükséges. A Mozilla-fiók l�
 ### Az Ön adatainak védelme
 A [Mozilla előfizetéses szolgáltatások adatvédelmi nyilatkozata](https://www.mozilla.org/privacy/subscription-services) részletesen leírja, hogy milyen adatokat küldünk a Szolgáltatások használata során, és hogyan kezeljük és osztjuk meg ezeket az adatokat.
 
-A Mozilla egy globális szervezet, és számítógépeink és szolgáltatóink számítógépei a világ különböző országaiban találhatók, beleértve az Egyesült Államokat is. Ez azt jelenti, hogy előfordulhat, hogy az Ön adatait olyan kiszolgálókon dolgozzák fel, amelyek az Ön lakóhelye szerinti országon kívül találhatók, és előfordulhat, hogy az adott ország adatvédelmi szabályozása eltérő szintű, mint az Öné. Az adatok megadásával Ön hozzájárul adatainak ilyen jellegű továbbításához.
+A Mozilla egy globális szervezet, és számítógépeink és szolgáltatóink számítógépei a világ különböző országaiban találhatók, beleértve az Egyesült Államokat is. Ez azt jelenti, hogy előfordulhat, hogy az Ön adatait olyan kiszolgálókon kezelik, amelyek az Ön lakóhelye szerinti országon kívül találhatók, és előfordulhat, hogy az adott ország adatvédelmi szabályozása eltérő szintű, mint az Öné. Az adatok megadásával Ön hozzájárul adatainak ilyen jellegű továbbításához.
 
 ### Fizetés
 __Fizetés.__ A Szolgáltatásokat automatikusan megújuló előfizetési szolgáltatásként kínáljuk. Regisztrációjával felhatalmaz bennünket arra, hogy az Ön által megadott fizetési módot terheljük az Ön által regisztrált Szolgáltatás(ok) első időszakára vonatkozó előfizetési díjával. Előfizetése minden időszak végén automatikusan megújul, és Ön felhatalmaz bennünket, hogy minden egyes időszakra előfizetési díjat terheljünk. Ha leállítja a fizetést, azonnal felfüggesztjük fiókját, amelyet 2 hónapos fizetéselmaradást követően törölhetünk.
@@ -61,11 +63,12 @@ A fizetős előfizetéses szolgáltatás használatához olyan országban kell t
 * Az e-mail-maszkolási szolgáltatás a következő országokban érhető el: Ausztria, Belgium, Kanada, Finnország, Franciaország, Németország, Írország, Olaszország, Malajzia, Hollandia, Új-Zéland, Szingapúr, Spanyolország, Svédország, Svájc, az Egyesült Királyság és az Egyesült Államok.
 
 ### A Firefox Relay biztosításához szükséges engedélyek
+
 __A Relay használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a Firefox Relay szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Ez az engedély csak az Ön személyes használatára vonatkozik. A Firefox Relay-t nem ruházhatja át, nem allicencelheti, nem értékesítheti, illetve nem használhatja kereskedelmi célokra. Az Ön által továbbított Tartalmak kapcsán kizárólag Önt terheli felelősség.
 
 Ön megadja a Mozillának és a Twiliónak a Firefox Relay működtetéséhez szükséges összes jogot, beleértve az e-mail-címének és telefonszámának kezelését, valamint az Ön által létrehozott maszkokra küldött és fogadott e-mailek, telefonhívások és szöveges üzenetek küldését és fogadását. Abban az esetben, ha egy e-mailt nem tudunk kézbesíteni, akkor azt a kiszolgálóinkon tároljuk, és a kézbesítést követően töröljük (semmi esetre sem tároljuk három napnál tovább). 
 
-Naplót tárolunk azokról a telefonszámokról, amelyeket a Relay-en keresztül ért el, hogy megjelenítsük hívás- és szövegnaplóit, szöveges válaszokat küldjünk és letiltsuk a telefonszámokat. A Mozilla úgy állította be a Twilio-szolgáltatást, hogy 7 nap elteltével törölje a Firefox Relay-en keresztül küldött és fogadott szöveges üzenetek rekordjait. Nem figyeljük meg és nem tároljuk a Firefox Relay-en keresztül kezdeményezett telefonhívások tartalmát.
+Naplót tárolunk azokról a telefonszámokról, amelyeket a Relay megoldáson keresztül ért el, hogy megjelenítsük hívás- és szövegnaplóit, szöveges válaszokat küldjünk és letiltsuk a telefonszámokat. A Mozilla úgy állította be a Twilio-szolgáltatást, hogy 7 nap elteltével törölje a Firefox Relay-en keresztül küldött és fogadott szöveges üzenetek rekordjait. Nem figyeljük meg és nem tároljuk a Firefox Relay megoldáson keresztül kezdeményezett telefonhívások tartalmát.
 
 Egyetlen e-mail-üzenet tartalmát sem olvassuk el és nem tároljuk tovább, mint amennyi idő alatt eljuttatjuk Önhöz. Ha a funkciót promóciós e-mailek letiltására használja, a Szolgáltatás ellenőrzi az e-mailek fejléceit, hogy eldöntse, le kell-e tiltani az e-mailt.
 
@@ -79,6 +82,39 @@ A Firefox Relay segítségével legfeljebb 10 megabájtos e-mail-mellékleteket 
 
 Ha többet szeretne megtudni a Firefox Relay működéséről, valamint a Mozilla és a Twilio által kezelt adatokról, tekintse meg a Mozilla [forráskódját](https://github.com/mozilla/fx-private-relay) és a [Mozilla előfizetéses szolgáltatások adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/subscription-services).
 
+## Mozilla Monitor
+
+A Mozilla Monitor szolgáltatást ingyenes vagy fizetős előfizetéses szolgáltatásként kínáljuk. Az ingyenes adatvédelmiincidens-bejelentési szolgáltatás a Have I Been Pwned („HIBP”) szolgáltatóval való együttműködés. Az automatizált adattörlési szolgáltatás a OneRep szolgáltatóval való együttműködés, amelynek célja a nyilvánosan elérhető online könyvtárakban és más, magánszemélyekre vonatkozó információk gyűjtőhelyein („adatközvetítő-webhelyek”) közzétett személyes adatok eltávolítása.
+
+### Jogosultnak kell lennie
+Az ingyenes adatvédelmiincidens-bejelentési szolgáltatás világszerte elérhető. Jelenleg az automatizált adatközvetítő-törlési szolgáltatás csak akkor érhető el, ha Ön az Egyesült Államokban él.
+
+### A Mozilla Monitor biztosításához szükséges engedélyek
+
+__A Monitor használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a Mozilla Monitor szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Ez az engedély csak az Ön személyes használatára vonatkozik. A Mozilla Monitort nem ruházhatja át, nem allicencelheti, nem értékesítheti, illetve nem használhatja kereskedelmi célokra. Az Ön által továbbított Tartalmak kapcsán kizárólag Önt terheli felelősség.
+
+Ön megadja a Mozillának, a OneRepnek és a HIBP-nek a Mozilla Monitor működéséhez szükséges összes jogot, beleértve a következőket:
+
+* Az Ön által rendelkezésünkre bocsátott információk, köztük a személyazonosításra alkalmas adatok felhasználása a Szolgáltatások biztosításához;
+* A nyilvánosan ismert adatvédelmi incidensek vizsgálata az Ön által e célból rendelkezésünkre bocsátott személyes adatok tekintetében; 
+* Kapcsolatfelvétel harmadik felekkel, beleértve az adatközvetítő-webhelyeket, amelyek közzéteszik az Ön adatait;
+* Online fiókok létrehozása az adatközvetítő-webhelyeken az Ön nevében abból a célból, hogy Szolgáltatásokat nyújtsunk Önnek (pl. amikor fiókot kell létrehozni egy adatközvetítő webhelyen ahhoz, hogy leiratkozási kérelmeket küldhessünk vagy egyéb lépéseket tehessünk az Ön adatainak eltávolítása érdekében.);
+* A fent leírt műveletek elvégzéséhez az Ön nevében.
+
+Ön egyetért, és biztosítja a Mozillát arról, hogy:
+* Minden Ön által megadott információ pontos és valós;
+* Nem használ fel és nem ad meg csalárd, félrevezető vagy pontatlan információkat; 
+* Ön nem adja ki magát másnak, és nem adja meg hamisan a személyazonosságát vagy egy személyhez fűződő kapcsolatát;
+* A Szolgáltatás használata megfelel a Mozilla [felhasználási feltételeinek](https://www.mozilla.org/about/legal/acceptable-use/).
+* Nem használja a Szolgáltatásokat mások jogainak vagy a jogszabályok megsértésére.
+
+Tartsa szem előtt, hogy akár 2 hónapig is eltarthat attól számítva, hogy megkaptuk a Szolgáltatások biztosításához szükséges teljes körű információkat ahhoz, hogy az adatközvetítő-webhelyek kezeljék a leiratkozási kérelmeket.
+
+__Korlátok.__ Ön tudomásul veszi, hogy a Szolgáltatások eredményei közvetlen összefüggésben állnak az Ön által részünkre bocsátott információk gyorsaságával és teljességével. Bár a Mozilla Monitor és a [Have I Been Pwned](https://haveibeenpwned.com/) arra törekszik, hogy naprakész adatokkal rendelkezzen, nincs garancia arra, hogy bármelyikük teljes vagy időben rögzíti az összes nyilvános adatvédelmi incidenst. 
+
+_Azt is tudomásul vegye, hogy a Mozilla nem ellenőrzi az adatközvetítőket, ezért nem tudja garantálni, hogy eleget tesznek az adatok törlésére vonatkozó kérelmeknek._
+Ha többet szeretne megtudni a Mozilla, a HIBP és a OneRep által kezelt adatokról, tekintse meg a [Mozilla előfizetési szolgáltatások adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/subscription-services).
+
 ## Egyéb fontos tudnivalók
 
 __Az Ön visszajelzése és javaslatai.__ Ha bármilyen ötletet, javaslatot vagy visszajelzést ad a Mozillának a Szolgáltatásokkal kapcsolatban, akkor ingyenesen és minden további kötelezettség nélkül engedélyt ad a Mozillának ezek használatára.
@@ -89,14 +125,14 @@ __A Mozilla szellemi tulajdona.__ A jelen Feltételek szerint meghatározottakon
 
 * Ön beleegyezik abba is, hogy a Szolgáltatások használata megfelel a Mozilla felhasználási feltételeinek.
 * Biztosítja a Mozillát, hogy nem használja a Szolgáltatásokat mások jogainak vagy a jogszabályok megsértésére.
-* A vonatkozó jogszabályok által megengedett mértékig Ön elfogadja, hogy a Mozilla semmilyen módon nem vállal felelősséget a Szolgáltatások használatának elérhetetlenségért, a Szolgáltatások korlátozásáért vagy a jelen Feltételekből eredő bármely követelésért. A Mozilla kifejezetten elzárkózik a következőktől: Közvetett, különleges, véletlen, következményes vagy példaértékű károk, közvetlen vagy közvetett károk cégértékcsökkenés, munkabeszüntetés, elmaradt haszon, adatvesztés vagy számítógép-meghibásodás miatt. A Mozilla felelőssége a jelen megállapodás értelmében 500 USD-re korlátozódik.
+* A vonatkozó jogszabályok által megengedett mértékig Ön elfogadja, hogy a Mozilla semmilyen módon nem vállal felelősséget a Szolgáltatások használatának elérhetetlenségért, a Szolgáltatások korlátozásáért vagy a jelen Feltételekből eredő bármely követelésért. A Mozilla kifejezetten elzárkózik a következőktől: Közvetett, különleges, véletlen, következményes vagy példaértékű károk, közvetlen vagy közvetett károk cégértékcsökkenés, munkabeszüntetés, elmaradt haszon, adatvesztés vagy számítógép-meghibásodás miatt. A Mozilla felelőssége a jelen megállapodás értelmében 500 USD-re korlátozódik.
 * Ön beleegyezik abba, hogy a vonatkozó jogszabályok által megengedett mértékig kártalanítja és mentesíti a Mozillát minden olyan felelősségért vagy követelésért, amely a Szolgáltatások használatából ered.
 * A Mozilla a Szolgáltatásokat „jelen állapotukban” biztosítja. A vonatkozó jogszabályok által megengedett mértékig a Mozilla kifejezetten elutasít minden olyan jogi garanciát, mint például az „eladhatóság”, „egy adott célra való alkalmasság”, „nemlegesség”, valamint a kereskedésből vagy használatból eredő garanciák.
 * Előfordulhat, hogy az országa jogszabályai szerint más jogokkal is rendelkezik. A jelen Szolgáltatási feltételek egyetlen rendelkezése sem érinti ezeket a jogokat, ha azok érvényesek.
 
 #### Jelen Feltételek frissítése vagy megszüntetése
 
-* __A Mozilla frissítheti ezeket a Feltételeket.__ Időnként a Mozilla dönthet úgy, hogy frissíti a jelen Feltételeket. A frissített Feltételeket online tesszük közzé. A Szolgáltatások további használatát az ilyen változtatások elfogadásaként értelmezzük. Az oldal tetején közzétesszük a hatálybalépés dátumát, hogy egyértelmű legyen, mikor került sor a legutóbbi frissítésre.
+* __A Mozilla frissítheti a jelen Feltételeket.__ Időnként a Mozilla dönthet úgy, hogy frissíti a jelen Feltételeket. A frissített Feltételeket online tesszük közzé. A Szolgáltatások további használatát az ilyen változtatások elfogadásaként értelmezzük. Az oldal tetején közzétesszük a hatálybalépés dátumát, hogy egyértelmű legyen, mikor került sor a legutóbbi frissítésre.
 
 * __Megszüntetés.__ Ezek a feltételek mindaddig érvényesek, amíg Ön vagy a Mozilla úgy dönt, hogy meg nem szünteti őket. Bármikor, bármilyen okból dönthet a megszüntetés mellett a Szolgáltatások használatával való felhagyás és az előfizetés lemondása révén. A Mozilla bármikor, bármilyen okból felfüggesztheti vagy leállíthatja bárki hozzáférését a Szolgáltatásokhoz, beleértve azt is, ha a Mozilla úgy dönt, hogy megszünteti a Szolgáltatásokat. Ha úgy döntünk, hogy felfüggesztjük vagy megszüntetjük a hozzáférését, megpróbáljuk értesíteni a fiókjához társított e-mail-címen, vagy amikor legközelebb megpróbál hozzáférni a fiókjához.
 
@@ -107,8 +143,8 @@ __Az alkalmazandó jog megválasztása.__ Erre a megállapodásra a kaliforniai 
 ## Kapcsolatfelvétel a Mozillával
 
 Mozilla Corporation  
-Címzett: Mozilla – Legal Notices  
-149 New Montgomery Street,  
+Attn: Mozilla – Legal Notices  
+149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105  
 

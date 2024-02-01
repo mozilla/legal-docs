@@ -1,7 +1,7 @@
 # Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Versi 1.2, berkuat kuasa pada 10 Januari 2024
-{: datetime="2024-01-10" }
+Versi 2.0, berkuat kuasa 05 Februari 2024
+{: datetime="2024-02-05" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).
 
@@ -9,14 +9,16 @@ __Mozilla VPN__ ialah Rangkaian Peribadi Maya yang dikongsikan bersama [Mullvad]
 
 __Firefox Relay__ membolehkan anda menyimpan alamat e-mel utama anda dan nombor telefon dengan selamat dan secara peribadi dengan membuat topeng pada alamat e-mel anda dan nombor telefon yang membolehkan anda menghantar dan menerima e-mel, panggilan dan teks tanpa mendedahkan maklumat perhubungan sebenar anda.
 
-__Firefox Monitor__ boleh mengawasi untuk melihat sama ada mana-mana akaun anda berada dalam pelanggaran data yang diketahui. Lihat [Terma dan Privasi Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ boleh mengawasi untuk melihat sama ada mana-mana akaun anda berada dalam pelanggaran data yang diketahui. Lihat [Terma dan Privasi Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ mengimbas untuk melihat jika kata laluan, nombor telefon atau maklumat peribadi anda yang lain telah dibocorkan dalam pelanggan data yang diketahui dan membantu anda mengambil langkah untuk mengeluarkan data anda daripada pembroker data. 
 
 Sila baca Terma Perkhidmatan ini dengan teliti kerana ia menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
 ## Melanggan Perkhidmatan Mozilla
 
 ### Anda Memerlukan Akaun Mozilla
-Akaun Mozilla diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Mozilla, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) dan [Notis Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akaun Mozilla anda.
+Akaun Mozilla diperlukan untuk menggunakan Perkhidmatan. Untuk mencipta akaun Mozilla, anda juga perlu bersetuju dengan [Terma Perkhidmatan](https://www.mozilla.org/about/legal/terms/services/) data [Notis Privasi](https://www.mozilla.org/privacy/mozilla-accounts/) untuk akaun Mozilla anda.
 
 ### Privasi Anda
 [Notis Privasi Perkhidmatan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services) menerangkan jenis maklumat yang dihantar apabila anda menggunakan Perkhidmatan dan cara kami mengendalikan dan berkongsi maklumat tersebut.
@@ -26,19 +28,19 @@ Mozilla ialah sebuah organisasi antarabangsa, dan komputer kami serta penyedia p
 ### Pembayaran Anda
 __Pembayaran.__ Kami menawarkan Perkhidmatan dengan memperbaharui semula perkhidmatan langganan secara automatik. Apabila anda mendaftar, anda membenarkan kami untuk mengenakan caj yuran langganan pada kaedah pembayaran yang anda berikan untuk tempoh pertama Perkhidmatan yang anda daftarkan. Pelan anda akan diperbaharui secara automatik pada setiap hujung penggal, dan anda telah memberi kebenaran untuk kami mengenakan yuran langganan bagi setiap penggal. Jika anda berhenti membuat pembayaran, kami akan segera menggantung akaun anda dan akan menghapuskan akaun tersebut selepas 2 bulan tanpa pembayaran.
 
-__Dasar Bayaran Balik 30 Hari.__ Pada pertama kali anda melanggan Perkhidmatan melalui laman web Mozilla, sekiranya anda membatalkan akaun anda dalam masa 30 hari pertama, anda boleh meminta bayaran balik dan Mozilla akan memberi bayaran balik kepada anda untuk tempoh pertama langganan anda. Tawaran ini hanya terpakai pada kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
+__Dasar Bayaran Balik 30 Hari.__ Pada kali pertama anda melanggan perkhidmatan melalui laman web Mozilla, jika anda membatalkan akaun anda dalam masa 30 hari, anda boleh meminta bayaran balik dan Mozilla akan membayar balik langganan penggal pertama anda. Tawaran ini hanya terpakai pada kali pertama anda melanggan. Ini adalah sebagai tambahan kepada mana-mana hak yang mungkin anda miliki di bawah undang-undang pengguna di negara anda.
 
-__Pembelian melalui Apple atau Google App Store.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
+__Pembelian melalui Apple atau Google App Stores.__ Sekiranya anda membeli langganan melalui pembelian dalam aplikasi daripada Apple App Store atau Google Play Store, pembayaran anda adalah tertakluk pada terma dan syarat App Store. Anda mesti memajukan kepada Apple atau Google, yang mana sesuai, sebarang pertanyaan berkaitan pengebilan dan bayaran balik untuk pembelian tersebut.
 
 ### Anda Boleh Membatalkan Langganan Anda Pada Bila-bila Masa
-Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh melakukannya dengan mengetik pautan “Batalkan Langganan” pada mana-mana e-mel tentang Perkhidmatan yang kami hantar kepada anda atau dengan pergi ke bahagian [Langganan & Pembayaran](https://accounts.firefox.com/subscriptions/) akaun Mozilla anda dan mengklik “Batal.” Jika anda memilih untuk membatalkan langganan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang dan anda akan kehilangan akses kepada Perkhidmatan pada hujung kitaran pengebilan semasa.
+Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh melakukannya dengan mengklik pautan “Batalkan Langganan” pada mana-mana e-mel tentang Perkhidmatan yang kami hantar kepada anda atau dengan pergi ke bahagian [Langganan & Pembayaran](https://accounts.firefox.com/subscriptions/) akaun Mozilla anda dan mengklik “Batal.” Jika anda memilih untuk membatalkan langganan, pembaharuan secara automatik akan dihentikan, kami tidak akan mengenakan bayaran kepada anda untuk mana-mana tempoh pembayaran akan datang dan anda akan kehilangan akses kepada Perkhidmatan pada hujung kitaran pengebilan semasa.
 
 ## Mozilla VPN
 
 Kami hanya menawarkan Mozilla VPN sebagai perkhidmatan langganan berbayar.
 
 ### Anda Mesti Layak
-Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Pada masa ini, Perkhidmatan tersedia di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Itali, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Belanda, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapura, Sepanyol, Sweden, Switzerland,  United Kingdom dan Amerika Syarikat. 
+Anda mesti berada di negara yang membolehkan Perkhidmatan memuat turun Mozilla VPN dan menggunakan Perkhidmatan. Pada masa ini, Perkhidmatan tersedia di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Itali, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Belanda, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapura, Sepanyol, Sweden, Switzerland,  United Kingdom dan Amerika Syarikat.  
 
 ### Keizinan yang Diperlukan untuk Menyediakan Mozilla VPN
 Mozilla VPN merupakan Rangkaian Peribadi Maya yang dikongsi bersama Mullvad. Untuk mengetahui lebih lanjut tentang cara Perkhidmatan berfungsi, anda boleh melihat kod sumber Mozilla untuk program VPN.
@@ -61,6 +63,7 @@ Untuk menggunakan perkhidmatan langganan berbayar ini, anda mesti berada di nega
 * Perkhidmatan topeng e-mel disediakan di Austria, Belgium, Kanada, Finland, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Sweden, Switzerland, United Kingdom, dan Amerika Syarikat.
 
 ### Keizinan yang Diperlukan untuk Menyediakan Firefox Relay
+
 __Penggunaan Relay oleh Anda.__ Jika anda mempunyai langganan berbayar semasa dengan Firefox Relay, Mozilla memberi anda kebenaran untuk menggunakannya mengikut Terma Perkhidmatan ini. Kebenaran ini hanyalah untuk kegunaan peribadi anda. Anda tidak boleh memindahkan, memberi sublesen, menjual semula atau mengeksploitasi Firefox Relay secara komersial. Anda bertanggungjawab sepenuhnya terhadap Kandungan yang anda hantar dan akibatnya.
 
 Anda memberi semua hak yang diperlukan kepada Mozilla dan Twilio untuk mengendalikan Firefox Relay, termasuk memproses alamat e-mel anda dan nombor telefon serta menghantar dan menerima e-mel, panggilan telefon dan mesej teks yang dihantar dan diterima daripada topeng yang anda cipta. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari). 
@@ -78,6 +81,39 @@ Setelah anda memilih topeng nombor telefon, anda tidak boleh menukarnya. Disebab
 Firefox Relay hanya akan menghantar lampiran e-mel sehingga 10 megabait. E-mel yang lebih besar akan dihapuskan.
 
 Untuk mengetahui lebih lanjut tentang cara Firefox Relay berfungsi dan data yang diproses oleh Mozilla dan Twilio, anda boleh melihat [kod sumber](https://github.com/mozilla/fx-private-relay) Mozilla dan [Notis Privasi Perkhidmatan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services).
+
+## Mozilla Monitor
+
+Kami menawarkan Mozilla Relay sama ada sebagai perkhidmatan percuma atau perkhidmatan langganan berbayar. Perkhidmatan pemberitahuan pelanggaran data percuma adalah perkongsian dengan Have I Been Pwned (“HIBP”). Perkhidmatan penghapusan data automatik merupakan perkongsian dengan OneRep untuk mengalih keluar maklumat peribadi yang diterbitkan dalam direktori dalam talian yang disediakan kepada awam dan pengumpul maklumat yang lain tentang para individu (“Tapak Broker Data”).
+
+### Anda Mesti Layak
+Perkhidmatan pemberitahuan pelanggaran data percuma disediakan di seluruh dunia. Pada masa ini, perkhidmatan penghapusan broker data automatik hanya disediakan jika anda tinggal di United Kingdom.
+
+### Keizinan yang Diperlukan untuk Menyediakan Mozilla Monitor
+
+__Penggunaan Monitor oleh Anda.__ Jika anda mempunyai langganan berbayar semasa dengan Mozilla Monitor, Mozilla memberi anda kebenaran untuk menggunakannya mengikut Terma Perkhidmatan ini. Kebenaran ini hanyalah untuk kegunaan peribadi anda. Anda tidak boleh memindahkan, memberi sublesen, menjual semula atau mengeksploitasi Mozilla Monitor secara komersial. Anda bertanggungjawab sepenuhnya terhadap Kandungan yang anda hantar dan akibatnya.
+
+Anda memberikan Mozilla, OneRep dan HIBP semua hak yang perlu untuk mengendali Mozilla Monitor, termasuk hak untuk:
+
+* Menggunakan maklumat yang telah anda berikan kepada kami, termasuk maklumat yang mengenalpasti secara individu, bagi melaksanakan Perkhidmatan;
+* Untuk melakukan imbasan bagi pelanggaran data yang diketahui secara umum bagi maklumat peribadi yang anda telah berikan kepada kami bagi tujuan tersebut; 
+* Menghubungi pihak ketiga, termasuk Tapak Broker Data, yang menyiarkan maklumat tentang anda.
+* Untuk mencipta akaun dalam talian dengan Tapak Broker Data menggunakan nama anda bagi tujuan menyediakan Perkhidmatan kepada anda (cth. Apabila perlu menyediakan akaun dengan Tapak Broker Data bagi menghantar permintaan pilihan keluar atau mengambil tindakan lain untuk mengalih keluar maklumat anda);
+* Untuk mengambil tindakan yang dinyatakan di atas bagi pihak anda.
+
+Anda setuju dan meyakinkan Mozilla bahawa:
+* Semua maklumat yang anda sediakan adalah tepat dan benar;
+* Anda tidak akan menggunakan atau menyediakan sebarang maklumat yang palsu, menipu atau tidak tepat; 
+* Anda tidak akan menyamar sebagai sesiapa atau menyalahgambarkan identiti anda atau gabungan anda dengan mana-mana orang;
+* Penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat-syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/)Mozilla.
+* Anda tidak akan menggunakan Perkhidmatan untuk melanggar hak sesiapa atau melanggar sebarang undang-undang.
+
+Sila ambil perhatian bahawa masa mungkin diambil sehingga 2 bulan mulai penerimaan maklumat lengkap yang diperlukan oleh kami untuk menyediakan Perkhidmatan bagi permintaan pilihan keluar untuk ditangani oleh Tapak Broker Data.
+
+__Had.__ Anda memahami bahawa keputusan Perkhidmatan adalah berhubungkait secara langsung dengan kesegeraan dan kelengkapan maklumat yang diberikan oleh anda kepada kami. Walaupun Mozilla Monitor dan [Have I Been Pwned](https://haveibeenpwned.com/), berusaha untuk memiliki data terkini, tiada jaminan bahawa kedua-duanya akan memiliki rekod yang lengkap atau tepat pada masanya bagi semua pelanggaran data awam. 
+
+_Anda juga memahami bahawa Mozilla tidak mengawal broker data dan oleh itu tidak menjamin bahawa mereka akan memenuhi permintaan untuk menghapuskan data._
+Untuk mengetahui lebih lanjut tentang data yang diproses oleh Mozilla, HIBP dan OneRep, anda boleh baca [Notis Provasi Perkhidmatan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Perkara Penting Lain untuk Diketahui
 
@@ -108,7 +144,7 @@ __Pilihan Undang-undang.__ Undang-undang California terpakai untuk kontrak ini, 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street,  
+149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105  
 
