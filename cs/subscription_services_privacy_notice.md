@@ -1,6 +1,6 @@
 # Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
 
-Verze 1.12 platná od 5. února 2024
+Verze 1.2 platná od 5. února 2024
 {: datetime="2024-02-05" }
 
 ## Ve společnosti Mozilla při navrhování produktů pamatujeme na ochranu vašich osobních údajů.
