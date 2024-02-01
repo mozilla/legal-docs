@@ -19,7 +19,7 @@ __Informace o účtu Mozilla.__ Tyto služby vyžadují účet Mozilla, který s
 
 __Informace o platbě.__ Pokud si předplatíte služby, které vyžadují placené předplatné, budete zasílat platby prostřednictvím některého z našich nezávislých poskytovatelů platebních služeb: Stripe, Apple, PayPal nebo Google Pay. Společnost Mozilla obdrží záznam o vašem účtu (včetně vaší fakturační adresy a posledních čtyř číslic vaší platební metody) a informaci o stavu předplatného vašeho účtu. Společnost Mozilla neukládá úplné podrobnosti o vaší platbě.
 
-### Mozilla VPN{: #vpn }
+### Mozilla VPN {: #vpn }
 
 __Údaje o interakci.__ Dle výchozího nastavení je shromažďování údajů o interakci zakázáno. Pokud se rozhodnete tuto možnost povolit, společnost Mozilla bude získávat údaje o vašich interakcích s Mozilla VPN. Například budeme moci zjistit věci, jako například, zda jste jakoukoliv aplikaci vyloučili z ochrany (nikoliv však které), na kolika zařízeních své předplatné Mozilla VPN používáte a zda jste povolili funkci blokování reklam, či nikoliv. Pro úplný přehled naší telemetrie získáte podrobnější informace v části [Údaje o interakci s VPN](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn). Údaje o interakci používáme k vylepšení výkonu a stability pro naše uživatele a k měření výkonu služeb.
 
