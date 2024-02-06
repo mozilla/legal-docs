@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Verze 1.12 platná od 10. ledna 2024
-{: datetime="2024-01-10" }
+Verze 2.0 platná od 5. února 2024
+{: datetime="2024-02-05" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
@@ -9,7 +9,9 @@ __Mozilla VPN__ je virtuální privátní síť provozovaná ve spolupráci se s
 
 Služba __Firefox Relay__ vám umožní udržet vaši primární e-mailovou adresu a telefonní číslo v bezpečí a soukromí tak, že pro e-mailovou adresu a telefonní číslo vytvoří masky, které vám umožní odesílat a přijímat e-maily, hovory a textové zprávy, aniž by odhalily vaše skutečné kontaktní údaje.
 
-__Firefox Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. Viz [Zásady a ochrana osobních údajů Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. Viz [Zásady a ochrana osobních údajů Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ provádí skenování s cílem zjistit, zda v rámci známého narušení dat došlo k úniku vašich hesel, telefonních čísel nebo jiných osobních informací, a pomáhá vám podniknout kroky k odebrání dat jejich zprostředkovatelům. 
 
 Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání služeb.
 
@@ -61,6 +63,7 @@ Chcete-li používat placenou službu, musíte být v zemi, kde je služba Firef
 * Služba maskování e-mailů je k dispozici v Belgii, Finsku, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.
 
 ### Oprávnění nutná k poskytování služby Firefox Relay
+
 __Vaše používání služby Relay.__ Pokud máte v platnosti placenou službu Firefox Relay, společnost Mozilla vám uděluje povolení k jejímu používání v souladu s těmito podmínkami služby. Toto oprávnění slouží pouze k osobnímu využití. Službu Firefox Relay nesmíte převádět, udílet k ní podlicenci, dále ji prodávat ani komerčně využívat. Nesete výhradní odpovědnost za Obsah, který přenášíte, a za důsledky.
 
 Společnostem Mozilla a Twilio udělujete veškerá práva potřebná k provozování služby Firefox Relay, včetně zpracování vaší e-mailové adresy a telefonního čísla, zasílání a přijímání e-mailů, telefonních hovorů a textových zpráv odesílaných na vámi vytvořené masky a z nich. V případě, že vám e-mail nebude možné doručit, uchováme jej na našich serverech a po doručení jej odstraníme (v žádném případě jej nebudeme uchovávat déle než tři dny). 
@@ -78,6 +81,39 @@ Jakmile jednou zvolíte masku telefonního čísla, nemůžete ji změnit. Vzhle
 Služba Firefox Relay odesílá pouze přílohy e-mailů o velikosti do 10 MB. Větší e-maily jsou smazány.
 
 Chcete-li se dozvědět více o tom, jak služba Firefox Relay funguje, a o údajích, které společnosti Mozilla a Twilio zpracovávají, můžete si prohlédnout [zdrojový kód](https://github.com/mozilla/fx-private-relay) společnosti Mozilla a [Prohlášení o ochraně osobních údajů předplacených služeb Mozilla](https://www.mozilla.org/privacy/subscription-services).
+
+## Mozilla Monitor
+
+Službu Mozilla Monitor nabízíme buď jako bezplatnou službu, nebo jako placenou službu. Bezplatná služba hlášení narušení dat je poskytována v partnerství s organizací Have I Been Pwned („HIBP“). Služba automatického vymazávání dat je poskytována v partnerství s organizací OneRep a slouží k odstranění osobních informací zveřejněných ve veřejně dostupných online rejstřících a u dalších agregátorů informací o fyzických osobách („Stránky zprostředkovatelů údajů“).
+
+### Musíte splňovat podmínky služby
+Bezplatná služba narušení dat je k dispozici po celém světě. V tuto chvíli je služba automatického vymazání dat u zprostředkovatele k dispozici, pouze pokud žijete ve Spojených státech amerických.
+
+### Oprávnění nutná k poskytování služby Mozilla Monitor
+
+__Vaše používání služby Monitor.__ Pokud máte v platnosti placenou službu Mozilla Monitor, společnost Mozilla vám uděluje povolení k jejímu používání v souladu s těmito podmínkami služby. Toto oprávnění slouží pouze k osobnímu využití. Službu Mozilla Monitor nesmíte převádět, udílet k ní podlicenci, dále ji prodávat ani komerčně využívat. Nesete výhradní odpovědnost za Obsah, který přenášíte, a za důsledky.
+
+Společnostem Mozilla, OneRep a HIBP poskytujete veškerá práva nezbytná pro provozování služby Mozilla Monitor, včetně práv:
+
+* na používání informací, které nám poskytnete, včetně osobně identifikujících informací, a to za účelem poskytování Služeb;
+* pro provádění skenování veřejně známých narušení dat s cílem vyhledat osobní údaje, které nám za tímto účelem poskytnete; 
+* ke kontaktování třetích osob, včetně Stránek zprostředkovatelů dat, které zveřejňují vaše informace o vás;
+* k vytváření online účtů na Stránkách zprostředkovatelů dat vaším jménem výhradně za účelem poskytování Služeb vám (např. pokud se pro odeslání zrušení registrace vyžaduje založení účtu na Stránkách zprostředkovatele dat nebo jsou k odstranění vašich informací nezbytné další kroky);
+* k podniknutí kroků popsaných výše vaším jménem.
+
+Souhlasíte a ujišťujete společnost Mozilla, že:
+* veškeré vámi poskytnuté informace jsou přesné a pravdivé,
+* nebudete používat ani poskytovat žádné podvodné, zavádějící nebo nepřesné informace; 
+* nebudete vystupovat jako jakákoliv jiná osoba ani nebudete chybně interpretovat vaši identitu nebo vaše spojení s jakoukoliv osobou;
+* vaše používání Služeb bude v souladu s [Podmínkami používání společnosti Mozilla](https://www.mozilla.org/about/legal/acceptable-use/);
+* nebudete využívat v rozporu s právem jakýchkoliv osob nebo v rozporu s jakýmikoliv právními předpisy.
+
+Dovolujeme si upozornit, že zahájení poskytování Služeb může trvat až 2 měsíce od chvíle, kdy nám poskytnete informace potřebné pro zaslání žádostí o zrušení registrací a jejich zpracování Stránkami zprostředkovatelů údajů.
+
+__Limity.__ Chápete, že výsledky Služeb nepřímo souvisí s rychlostí poskytnutí a úplností informací, která nám poskytnete. Ačkoliv se Mozilla Monitor a [Have I Been Pwned](https://haveibeenpwned.com/) pokouší uchovávat aktuální data, neexistuje záruka, že budeme mít kompletní či včasné záznamy o všech veřejně známých narušeních dat. 
+
+_Rovněž chápete, že společnost Mozilla zprostředkovatele dat nekontroluje a nemůže zaručit, že žádosti o vymazání dat vyhoví._
+Pro podrobnější informace o datech, které Mozilla, HIBP a OneRep zpracovávají najdete v [Oznámení o ochraně osobních údajů předplatného služeb Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Další důležité informace
 
@@ -102,13 +138,13 @@ __Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatel�
 
 Pokud ukončíme váš přístup ke službám bez konkrétní příčiny, budete mít nadále přístup ke službám po dobu stávajícího fakturačního období, nebo vám vrátíme částku za aktuální měsíc. Vyhrazujeme si nicméně právo ukončit vaše používání služeb s okamžitou platností, pokud se rozumně domníváme, že jste se dopustili porušení Podmínek používání, nebo způsobili jakékoliv jiné porušení těchto Podmínek.
 
- __Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu touto mezi anglickou verzí smlouvy a překladem má tato anglická verze přednost.
+__Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu touto mezi anglickou verzí smlouvy a překladem má tato anglická verze přednost.
 
 ## Kontaktní údaje společnosti Mozilla
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street,  
+149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105  
 

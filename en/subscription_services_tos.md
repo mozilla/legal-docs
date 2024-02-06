@@ -1,7 +1,7 @@
 # Mozilla Subscription Services | Terms of Service
 
-Version 1.2, effective January 10, 2024
-{: datetime="2024-01-10" }
+Version 2.0, effective February 5, 2024
+{: datetime="2024-02-05" }
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
 
@@ -9,7 +9,9 @@ __Mozilla VPN__ is a Virtual Private Network in partnership with [Mullvad](https
 
 __Firefox Relay__ allows you to keep your primary email address and phone number safe and private by making masks for your email address and phone number that allow you to send and receive emails, calls, and texts without revealing your actual contact information.
 
-__Firefox Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Firefox Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ can monitor to see if any of your accounts have been in known data breaches. See [Mozilla Monitor Terms and Privacy](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ scans to see if your passwords, phone numbers, or other personal information have been leaked in a known data breach, and helps you take steps to remove you data from data brokers. 
 
 Please read these Terms of Service carefully because they explain important information about your use of the Services.
 
@@ -61,6 +63,7 @@ To use the paid subscription service, you must be in a country where Firefox Rel
 * The email masking service is available in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
 
 ### Permissions Necessary to Provide Firefox Relay
+
 __Your Use of Relay.__ If you have a current, paid subscription to Firefox Relay, Mozilla gives you permission to use it according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit Firefox Relay. You are solely responsible for the Content you transmit and the consequences.
 
 You give Mozilla and Twilio all rights necessary to operate Firefox Relay, including processing your email address and phone number as well as sending and receiving the emails, phone calls, and text messages sent to and from the masks you create. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). 
@@ -78,6 +81,39 @@ Once you choose a phone number mask, you cannot change it. Because you can only 
 Firefox Relay will only send email attachments up to 10 megabytes. Larger emails are deleted.
 
 To learn more about how Firefox Relay works and the data that Mozilla and Twilio process, you can see Mozilla’s [source code](https://github.com/mozilla/fx-private-relay) and the [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services).
+
+## Mozilla Monitor
+
+We offer Mozilla Monitor as either a free service or a paid subscription service. The free data breach notification service is a partnership with Have I Been Pwned (“HIBP”). The automated data deletion service is a partnership with OneRep to remove personal information published on publicly available online directories and other aggregators of information about individuals (“Data Broker Sites”).
+
+### You Must Be Eligible
+The free data breach notification service is available worldwide. Currently, the automated data broker deletion service is only available if you live in the United States.
+
+### Permissions Necessary to Provide Mozilla Monitor
+
+__Your Use of Monitor.__ If you have a current, paid subscription to Mozilla Monitor, Mozilla gives you permission to use it according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit Mozilla Monitor. You are solely responsible for the Content you transmit and the consequences.
+
+You give Mozilla, OneRep, and HIBP all rights necessary to operate Mozilla Monitor, including the right to:
+
+* Use the information you have provided to us, including personally identifying information, to perform the Services;
+* To perform scans of publicly known data breaches for the personal information you have provided to us for that purpose; 
+* Contact third parties, including Data Broker Sites, who publish your information about you;
+* To create online accounts with Data Broker Sites in your name for the sole purpose of providing the Services to you (e.g. when it is required to set up an account with a Data Broker Site in order to send opt-out requests or take other actions to remove your information);
+* To take the actions described above on your behalf.
+
+You agree and assure Mozilla that:
+* All information you provided will be accurate and truthful;
+* You will not use or provide any fraudulent, misleading or inaccurate information; 
+* You will not impersonate any person nor misrepresent your identity or your affiliation with any person;
+* Your use of the Services will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/).
+* You will not use the Services to infringe anyone’s rights or violate any law.
+
+Please note that it may take up to 2 months starting from receipt by us of complete information required to provide the Services for opt-out requests to be handled by Data Broker Sites.
+
+__Limits.__ You understand that the results of the Services are in direct correlation with the promptness and completeness of information provided by you to us. Although Mozilla Monitor and [Have I Been Pwned](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches. 
+
+_You also understand Mozilla does not control data brokers and therefore cannot guarantee that they will honor requests to delete data._
+To learn more about the data that Mozilla, HIBP, and OneRep process, you can see the [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services).
 
 ## Other Important Things to Know
 
