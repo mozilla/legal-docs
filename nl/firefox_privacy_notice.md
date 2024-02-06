@@ -1,7 +1,7 @@
 ## Privacykennisgeving</span> voor <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">
 
-*Van kracht vanaf 1 november 2023*
-{: datetime="2023-11-01" }
+*Van kracht vanaf woensdag 17 januari 2024
+{: datetime="2024-01-17" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -35,7 +35,9 @@ Mozilla ontvangt over het algemeen royaltybetalingen wanneer u de standaard zoek
 
 __Firefox Suggest__ gebruikt gegevens om betere informatie te verzorgen via een geringere inspanning. Standaard toont Firefox Suggest u aanbevolen en gesponsorde inhoud op basis van lokale gegevens die op uw eigen computer zijn opgeslagen, zoals websites uit uw browsegeschiedenis, bladwijzers en geopende tabbladen (deze gegevens worden niet naar Mozilla verzonden). Firefox Suggest verzendt het volgende naar Mozilla:
 
-* __Locatiegegevens__: Firefox verzendt Mozilla tijdelijk uw IP-adres. We gebruiken dit om inhoud aan te bevelen op basis van uw land, staat en woonplaats. Mozilla kan locatiegegevens delen met onze [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). Deze partners ontvangen uw IP-adres echter niet. In de Verenigde Staten ontvangt Mozilla mogelijk locatiegegevens voor gezochte trefwoorden (zoals wanneer u zoekt naar Boston). Mozilla deelt deze met partners voor het verzorgen van aanbevolen en gesponsorde inhoud. Wanneer dit zich voordoet, kunnen Mozilla en deze partners de zoekopdracht voor het trefwoord niet koppelen aan een individuele gebruiker zodra de zoeksuggestie is verzorgd.
+* __Locatiegegevens__: Firefox verzendt Mozilla tijdelijk uw IP-adres. We gebruiken dit om inhoud aan te bevelen op basis van uw land, staat en woonplaats. Mozilla kan locatiegegevens delen met onze [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). Deze partners ontvangen uw IP-adres echter niet.
+
+In de Verenigde Staten ontvangt Mozilla mogelijk locatiegegevens voor gezochte trefwoorden (zoals wanneer u zoekt naar Boston). Mozilla deelt deze met partners voor het verzorgen van aanbevolen en gesponsorde inhoud. Wanneer dit zich voordoet, kunnen Mozilla en deze partners de zoekopdracht voor het trefwoord niet koppelen aan een individuele gebruiker zodra de zoeksuggestie is verzorgd. U kunt deze functionaliteit op elk gewenst moment verwijderen door gesponsorde suggesties uit te schakelen. Meer informatie over hoe u dit doet, is beschikbaar op de relevante [Firefox Support](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct)-pagina.
 
 * __Technische gegevens en interactiegegevens__: Firefox stuurt gegevens naar Mozilla, zoals het aantal keer dat Firefox specifieke inhoud voorstelt of weergeeft en u hierop klikt, evenals basisgegevens over hoe u Firefox Suggest gebruikt. Mozilla deelt informatie over hoe vaak suggesties worden weergegeven, de positie van de suggestie en suggesties waarop is geklikt bij onze [partners](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) voor verificatiedoeleinden en functieverbetering.
 
@@ -92,7 +94,9 @@ De volledige documentatie kunt u [hier](https://firefox-source-docs.mozilla.org/
 __Campagne- en verwijzingsgegevens__: Deze gegevens helpen Mozilla de doeltreffendheid van onze marketingcampagnes te doorgronden.
 {: #referraltracking }
 
-Firefox verzendt standaard HTTP-gegevens aan Mozilla die mogelijk zijn opgenomen in het installatieprogramma van Firefox. Deze gegevens stellen ons in staat te bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-attribution-privacy) voordat u de installatie uitvoert. Firefox verzendt standaard ook marketingcampagnegegevens aan Adjust, onze leverancier voor analysegegevens. Adjust heeft een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/). Campagnegegevens bestaan uit een Google-reclame-id of Android-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+Firefox verzendt standaard HTTP-gegevens aan Mozilla die mogelijk zijn opgenomen in het installatieprogramma van Firefox. Deze gegevens stellen ons in staat te bepalen welk websitedomein of welke reclamecampagne (indien aanwezig) u naar de onze downloadpagina heeft verwezen. Lees de [documentatie](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) of [schrijf u uit](https://support.mozilla.org/kb/desktop-attribution-privacy) voordat u de installatie uitvoert. 
+
+Firefox deelt standaard geanonimiseerde marketingcampagnegegevens met leveranciers voor onze campagnemarketing om het succes van onze marketingcampagnes te meten en verbeteren. Deze omvatten Adjust, dat een eigen [privacybeleid](https://www.adjust.com/terms/privacy-policy/) heeft. Deze omvatten ook Google. Campagnegegevens bestaan uit een Google-reclame-id of Android-id, uw IP-adres, tijdstempel, land, taal/landinstellingen, besturingssysteem en app-versie. Lees de [documentatie](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ U kunt add-ons installeren vanaf addons.mozilla.org (AMO) of vanuit de optie voo
 
 ### Voetnoot
 
-Neem bij aanvragen met betrekking tot uw persoonlijke gegevens contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Als u andere vragen hebt over persoonlijke gegevens of onze privacyprocedures, kunt u contact met ons opnemen via compliance@mozilla.com. We reageren op alle aanvragen van individuen die hun gegevensbeschermingsrechten willen uitoefenen in overeenstemming met toepasselijke gegevensbeschermingswetgeving.
+Neem bij aanvragen met betrekking tot uw persoonlijke gegevens contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Als u andere vragen hebt over persoonlijke gegevens of onze privacyprocedures, kunt u contact met ons opnemen via compliance@mozilla.com. U kunt ook contact opnemen met onze Data Protection Officer via dpo@mozilla.com. We reageren op alle aanvragen van individuen die hun gegevensbeschermingsrechten willen uitoefenen in overeenstemming met toepasselijke gegevensbeschermingswetgeving. Wanneer u om verwijdering van uw Firefox-gegevens vraagt, worden deze binnen 30 dagen na ontvangst van de aanvraag verwijderd (met uitzondering van interactiegegevens, waarvoor een standaardbewaarperiode van 90 dagen geldt. De gegevens worden aan het einde van deze periode automatisch verwijderen).
 
 Deze privacykennisgeving is bestemd voor de recentste algemene releaseversie van Firefox die door Mozilla wordt gedistribueerd. Als u Firefox elders verkrijgt of een oudere versie uitvoert, heeft uw exemplaar van Firefox mogelijk andere privacykenmerken.
 {: #pre-release }

@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
-*Hatályos: 2023. november 1-től*
-{: datetime="2023-11-01" }
+*Hatályos: 2024. január 17-től
+{: datetime="2024-01-17" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
 
@@ -35,7 +35,9 @@ A Mozilla általában akkor kap jogdíjat, ha Ön a Firefox webböngészőjének
 
 A __Firefox Suggest__ adatokat használ fel, hogy jobb információkat biztosítson kevesebb erőfeszítéssel. Alapértelmezés szerint a Firefox Suggest a saját számítógépén tárolt helyi adatok, például a böngészési előzmények, könyvjelzők és megnyitott lapok webhelyei (amelyeket nem küld el a Mozilla) alapján ajánlott és szponzorált tartalmakat mutat Önnek. A Firefox Suggest a következőket küldi el a Mozillának:
 
-* __Helyadatok__: A Firefox ideiglenesen elküldi a Mozillának az Ön IP-címét, amelyet arra használunk, hogy az Ön országa, állama és városa alapján tartalmakat javasoljunk. A Mozilla megoszthatja a helymeghatározási adatokat [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), de a partnerek nem kapják meg az Ön IP-címét. Az Egyesült Államokban a Mozilla kulcsszóhely-keresési adatokat is kaphat (például amikor Ön a „Boston” kifejezésre keres), és megoszthatja ezeket partnereinkkel, hogy ajánlott és szponzorált tartalmat biztosítsanak. Ha ez megtörténik, sem a Mozilla, sem a partnereink nem tudják társítani a kulcsszókeresést egy adott felhasználóhoz, miután a keresési javaslatot biztosították.
+* __Helyadatok__: A Firefox ideiglenesen elküldi a Mozillának az Ön IP-címét, amelyet arra használunk, hogy az Ön országa, állama és városa alapján tartalmakat javasoljunk. A Mozilla megoszthatja a helymeghatározási adatokat [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), de a partnerek nem kapják meg az Ön IP-címét.
+
+Az Egyesült Államokban a Mozilla kulcsszóhely-keresési adatokat is kaphat (például amikor Ön a „Boston” kifejezésre keres), és megoszthatja ezeket partnereinkkel, hogy ajánlott és szponzorált tartalmat biztosítsanak. Ha ez megtörténik, sem a Mozilla, sem a partnereink nem tudják társítani a kulcsszókeresést egy adott felhasználóhoz, miután a keresési javaslatot biztosították. Ezt a funkciót bármikor eltávolíthatja a szponzorált javaslatok kikapcsolásával – ennek módjáról további információkat a megfelelő [Firefox-súgóoldalon](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct) talál.
 
 * __Műszaki és interakciós adatok__: A Firefox olyan adatokat küld a Mozillának, mint például a Firefox által javasolt vagy megjelenített tartalmak száma és a tartalomra történő kattintások száma, valamint alapvető adatokat a Firefox Suggest megoldással való interakcióiról. A Mozilla megosztja a [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) a javaslatok megjelenítésének gyakoriságát, a javaslat pozícióját és a kattintással rendelkező javaslatokat az ellenőrzés és a funkciók fejlesztése céljából.
 
@@ -92,7 +94,9 @@ Olvassa el a teljes dokumentációt [itt](https://firefox-source-docs.mozilla.or
 __Kampány- és ajánlási adatok__: Ez segít a Mozillának megérteni marketingkampányai hatékonyságát.
 {: #referraltracking }
 
-A Firefox alapértelmezés szerint Mozilla HTTP-adatokat küld, amelyeket a Firefox telepítője tartalmazhat. Ez lehetővé teszi számunkra, hogy meghatározzuk a webhely domainjét vagy a reklámkampányt (ha van ilyen), amely a letöltési oldalunkra irányította Önt. Olvassa el a [dokumentációt](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution), vagy [tiltsa le](https://support.mozilla.org/kb/desktop-attribution-privacy) a telepítés előtt. A Firefox alapértelmezés szerint a marketingkampányok adatait is elküldi az Adjustnak, az elemzési szolgáltatónknak, amely saját [adatvédelmi szabályzattal](https://www.adjust.com/terms/privacy-policy/) rendelkezik. A kampányok adatai tartalmazzák a Google hirdetési azonosítót vagy az Android-azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+A Firefox alapértelmezés szerint Mozilla HTTP-adatokat küld, amelyeket a Firefox telepítője tartalmazhat. Ez lehetővé teszi számunkra, hogy meghatározzuk a webhely tartományát vagy a reklámkampányt (ha van ilyen), amely a letöltési oldalunkra irányította Önt. Olvassa el a [dokumentációt](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution), vagy [tiltsa le](https://support.mozilla.org/kb/desktop-attribution-privacy) a telepítés előtt. 
+
+A Firefox alapértelmezés szerint az anonimizált marketingkampány-adatokat is megosztja a kampánymarketing-szolgáltatóinkkal, hogy mérje és javítsa a marketingkampányainkat. Ide tartozik az Adjust, amely saját [adatvédelmi szabályzattal](https://www.adjust.com/terms/privacy-policy/) rendelkezik. Ide tartozik a Google is. A kampányok adatai tartalmazzák a Google hirdetési azonosítót vagy az Android-azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ A bővítményeket az addons.mozilla.org ("AMO") oldalról vagy a Firefox bőví
 
 ### Lábjegyzet
 
-A személyes adatokkal kapcsolatos kérelmek benyújtásához vegye fel velünk a kapcsolatot az [Érintett hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül. Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a compliance@mozilla.com címen. Minden olyan megkeresésre válaszolunk, amelyet olyan egyénektől kapunk, akik a vonatkozó adatvédelmi jogszabályokkal összhangban kívánják gyakorolni adatvédelmi jogaikat.
+A személyes adatokkal kapcsolatos kérelmek benyújtásához vegye fel velünk a kapcsolatot az [Érintett hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül. Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a compliance@mozilla.com címen, vagy értesítse az adatvédelmi tisztviselőnket a dpo@mozilla.com címen. Minden olyan megkeresésre válaszolunk, amelyet olyan egyénektől kapunk, akik a vonatkozó adatvédelmi jogszabályokkal összhangban kívánják gyakorolni adatvédelmi jogaikat. Amikor a Firefox-adatai törlését kérelmezi, azokat a kérelemtől számított 30 napon belül töröljük (az interakciós adatok kivételével, amelynek normál megőrzési ideje 90 nap, és ezen időszak végét követően automatikusan törlésre kerülnek).
 
 Ez az adatvédelmi tájékoztató a Mozilla által forgalmazott Firefox legújabb általános verziójára vonatkozik. Ha a Firefoxot máshonnan szerzi be, vagy régebbi verziót használ, a Firefox másolatának adatvédelmi jellemzői eltérőek lehetnek.
 {: #pre-release }

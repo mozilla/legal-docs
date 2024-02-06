@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Servicevoorwaarden
 
-Versie 1.2, van kracht vanaf woensdag 10 januari 2024
-{: datetime="2024-01-10" }
+Versie 2.0, van kracht vanaf maandag 5 februari 2024
+{: datetime="2024-02-05" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
@@ -9,7 +9,9 @@ __Mozilla VPN__ is een Virtual Private Network dat wordt verzorgd in samenwerkin
 
 Met __Firefox Relay__ kunt u uw primaire e-mailadres en telefoonnummer beschermen en privé houden door maskers voor uw e-mailadres en telefoonnummer te maken waarmee u e-mails, telefoongesprekken en sms-berichten kunt verzenden en ontvangen zonder uw werkelijke contactgegevens te onthullen.
 
-__Firefox Monitor__ kan controleren of uw accounts betrokken zijn geweest in bekende gegevenslekken. Zie de [voorwaarden en het privacybeleid van Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ kan controleren of uw accounts betrokken zijn geweest in bekende gegevensinbreuken. Zie de [voorwaarden en het privacybeleid van Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ scant om te controleren of uw wachtwoorden, telefoonnummers of andere persoonlijke informatie betrokken zijn geweest in bekende gegevensinbreuken en helpt u met stappen om uw gegevens te verwijderen bij gegevenshandelaren. 
 
 Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Services.
 
@@ -26,19 +28,19 @@ Mozilla is een wereldwijde organisatie en onze computers en de computers van onz
 ### Uw Betaling
 __Betaling.__ Wij bieden de Services aan als abonnementsservices die automatisch worden verlengd. Wanneer u zich registreert, machtigt u ons om de abonnementskosten in rekening te brengen bij de betalingsmethode die u hebt opgegeven voor de eerste termijn van de Service(s) waarvoor u zich hebt geregistreerd. Uw abonnement wordt aan het einde van elke termijn automatisch verlengt en u machtig ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van twee onbetaalde maanden verwijderen.
 
-__Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op de Services abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen annuleert. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
+__Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op de Services abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen opzegt. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
 
 __Aankopen via Apple of Google App Stores.__ Als u uw abonnement hebt aangeschaft met een aankoop binnen een app via de Apple App Store of de Google Play Store, is uw betaling onderworpen aan de voorwaarden van de App Store. Eventuele facturerings- en restitutievragen voor dergelijke aankopen, moet u aan Apple of Google richten.
 
 ### U kunt uw abonnement op elk gewenst moment opzeggen
-U kunt uw abonnement op de Services op elk gewenst moment opzeggen. U kunt dit doen door op de koppeling Abonnement opzeggen te klikken in een e-mail over de Services die u van ons ontvangt of door naar het gedeelte [Abonnementen en betalingen](https://accounts.firefox.com/subscriptions/) van uw Mozilla-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de Services aan het einde van de huidige factureringscyclus.
+U kunt uw abonnement op de Services op elk gewenst moment annuleren. U kunt dit doen door op de koppeling Abonnement opzeggen te klikken in een e-mail over de Services die u van ons ontvangt of door naar het gedeelte [Abonnementen en betalingen](https://accounts.firefox.com/subscriptions/) van uw Mozilla-account te gaan en op Annuleren te klikken. Als u ervoor kiest om op te zeggen, wordt de automatische verlenging gestopt. Er worden geen toekomstige betalingsperioden meer in rekening gebracht en u verliest de toegang tot de Services aan het einde van de huidige factureringscyclus.
 
 ## Mozilla VPN
 
 Wij bieden Mozilla VPN alleen als betaalde abonnementsservice aan.
 
 ### U moet in aanmerking komen
-U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De Service is momenteel beschikbaar in Oostenrijk, België, Bulgarije, Canada, Kroatië, Cyprus, Tsjechië, Denemarken, Estland, Finland, Frankrijk, Duitsland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Maleisië, Malta, Nederland, Nieuw-Zeeland, Polen, Portugal, Roemenië, Slowakije, Slovenië, Singapore, Spanje, Zweden, Zwitserland, Het Verenigd Koninkrijk en de Verenigde Staten. 
+U moet zich in een land bevinden waarin de Service beschikbaar is om Mozilla VPN te kunnen downloaden en de Service te gebruiken. De Service is momenteel beschikbaar in Oostenrijk, België, Bulgarije, Canada, Kroatië, Cyprus, Tsjechië, Denemarken, Estland, Finland, Frankrijk, Duitsland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Maleisië, Malta, Nederland, Nieuw-Zeeland, Polen, Portugal, Roemenië, Slowakije, Slovenië, Singapore, Spanje, Zweden, Zwitserland, Het Verenigd Koninkrijk en de Verenigde Staten.  
 
 ### Toestemming die nodig is om Mozilla VPN aan te bieden
 Mozilla VPN is een Virtual Private Network dat wordt verzorgd in samenwerking met Mullvad. Als u meer informatie wilt over hoe de Service werkt, kunt u de Mozilla-broncode voor het VPN-programma bekijken.
@@ -61,6 +63,7 @@ Als u de betaalde abonnementsservice wilt gebruiken, moet u zich in een land bev
 * De service voor het maskeren van e-mailadressen is beschikbaar in België, Canada, Duitsland, Finland, Frankrijk, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Oostenrijk, Singapore, Spanje, Verenigd Koninkrijk, Verenigde Staten, Zweden en Zwitserland.
 
 ### Toestemming die nodig is om Firefox Relay aan te bieden
+
 __Uw gebruik van Relay.__ Als u een betaald abonnement op Mozilla Relay hebt en geen betalingsachterstand hebt, geeft Mozilla u toestemming om dit te gebruiken in overeenstemming met deze Servicevoorwaarden. Deze toestemming geldt uitsluitend voor uw persoonlijke gebruik. Het is u niet toegestaan om de Firefox Relay over te dragen, in sublicentie te geven, door te verkopen of commercieel te benutten. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
 
 U geeft Mozilla en Twilio alle rechten die nodig zijn om Firefox Relay te exploiteren, waaronder verwerking van uw e-mailadres en telefoonnummer en het verzenden en ontvangen van de e-mails, telefoongesprekken en sms-berichten die naar en van de door u gemaakte maskers worden verzonden. In het geval dat een e-mail niet aan u kan worden bezorgd, bewaren we deze op onze servers en verwijderen we deze nadat de e-mail is bezorgd (in geen enkel geval bewaren we het bericht langer dan drie dagen). 
@@ -79,6 +82,39 @@ Firefox Relay verzendt alleen e-mailbijlagen tot een maximale grootte van 10 MB.
 
 Voor meer informatie over hoe Firefox Relay werkt en de gegevens die Mozilla en Twilio verwerken, verwijzen wij u naar de Mozilla-[broncode](https://github.com/mozilla/fx-private-relay) en de [Privacyverklaring voor de Mozilla Abonnementsservices](https://www.mozilla.org/privacy/subscription-services).
 
+## Mozilla Monitor
+
+Wij bieden Mozilla Monitor als gratis service en als betaalde abonnementsservice aan. De gratis meldingsservice voor gegevensinbreuken is een partnerschap met Have I Been Pwned (HIBP). De geautomatiseerde service voor gegevensverwijdering is een partnerschap met OneRep voor het verwijderen van persoonlijke informatie die is gepubliceerd in publiekelijk toegankelijke online gidsen en andere verzamelaars van informatie over individuen (Sites van gegevenshandelaren).
+
+### U moet in aanmerking komen
+De gratis meldingsservice voor gegevensinbreuken is beschikbaar over de hele wereld. De geautomatiseerde service voor gegevensverwijdering bij gegevenshandelaren is momenteel alleen in de Verenigde Staten beschikbaar.
+
+### Toestemming die nodig is om Mozilla Monitor aan te bieden
+
+__Uw gebruik van Monitor.__ Als u een lopend, betaald abonnement op Mozilla Monitor hebt, geeft Mozilla u toestemming om dit te gebruiken in overeenstemming met deze Servicevoorwaarden. Deze toestemming geldt uitsluitend voor uw persoonlijke gebruik. Het is u niet toegestaan om de Mozilla Monitor over te dragen, in sublicentie te geven, door te verkopen of commercieel te benutten. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
+
+U geeft Mozilla, OneRep en HIBP alle benodigde rechten voor het verzorgen van Mozilla Monitor, waaronder het recht om:
+
+* De informatie die u aan ons hebt verstrekt, inclusief informatie op basis waarvan u persoonlijk kunt worden geïdentificeerd, te gebruiken voor het verzorgen van de Services;
+* Publiekelijk bekende gegevensinbreuken te scannen op de persoonlijke informatie die u voor dat doel aan ons hebt verstrekt; 
+* Contact op te nemen met derde partijen, waaronder sites van gegevenshandelaren, die informatie over u publiceren;
+* Online accounts in uw naam te maken bij Sites van gegevenshandelaren met het doel om de Services voor u te verzorgen (bijvoorbeeld wanneer het noodzakelijk is om een account in te stellen bij een site van een gegevenshandelaar om uitschrijvingsaanvragen te verzenden en andere acties uit te voeren om uw informatie te verwijderen);
+* De hiervoor beschreven acties namens u uit te voeren.
+
+U stemt ermee in en garandeert Mozilla dat:
+* Alle informatie die u hebt verstrekt, nauwkeurig en waarheidsgetrouw is;
+* U geen frauduleuze, misleidende of onnauwkeurige informatie zult gebruiken of verstrekken; 
+* U zich niet zult voordoen als iemand anders en dat u geen andere voorstelling van zaken zult gegeven over uw identiteit of uw band met welke persoon dan ook;
+* Uw gebruik van de Service zal voldoen aan de [Gebruiksvoorwaarden](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla.
+* U zult de Services niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
+
+Houd er rekening mee dat het twee maanden kan duren om uitschrijvingsaanvragen voor de Services te verzorgen die moeten worden behandeld door sites van gegevenshandelaren. Dit is gerekend vanaf onze ontvangst van volledige informatie die daarvoor is vereist.
+
+__Beperkingen.__ U begrijpt dat er sprake is van een rechtstreekse correlatie tussen de resultaten van de Services en de snelheid en volledigheid van informatie die aan ons verstrekt. Hoewel Mozilla Monitor en [Have I Been Pwned](https://haveibeenpwned.com/) streven naar actuele informatie, is er geen garantie dat ze over volledige en tijdige informatie beschikken met betrekking tot alle openbare gegevensinbreuken. 
+
+_U begrijpt ook dat Mozilla geen controle heeft over gegevenshandelaren en daarom niet kan garanderen dat ze aanvragen voor gegevensverwijdering zullen honoreren._
+Zie de [Privacyverklaring voor de Mozilla Abonnementsservices](https://www.mozilla.org/privacy/subscription-services) voor meer informatie over de gegevens die Mozilla, HIBP en OneRep verwerken.
+
 ## Andere belangrijke dingen om te weten
 
 __Uw feedback en suggesties.__ Als u Mozilla eventuele ideeën, suggesties of feedback biedt over de Services, geeft u Mozilla toestemming om deze gratis en zonder eventuele aanvullende verplichtingen te gebruiken.
@@ -96,7 +132,7 @@ __Intellectueel eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla
 
 #### Updates of beëindiging van deze voorwaarden
 
-* __Mozilla kan deze Voorwaarden bijwerken.__ Mozilla kan er van tijd tot tijd toe toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. Uw voortgezette gebruik van de Services wordt opgevat als uw aanvaarding van dergelijke wijzigingen. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer onze recentste update is uitgevoerd.
+* __Mozilla kan deze Voorwaarden bijwerken.__ Mozilla kan er van tijd tot tijd toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. Uw voortgezette gebruik van de Services wordt opgevat als uw aanvaarding van dergelijke wijzigingen. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer onze recentste update is uitgevoerd.
 
 * __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Services te staken en uw abonnement te annuleren. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Services op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Services te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
 
@@ -108,7 +144,7 @@ __Keuze van rechtsgebied.__ Op dit contract is de wetgeving van Californië van 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street,  
+149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105, Verenigde Staten  
 

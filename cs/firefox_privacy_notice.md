@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 1. listopadu 2023*
-{: datetime="2023-11-01" }
+*Účinné od 17. ledna 2024
+{: datetime="2024-01-17" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -35,7 +35,9 @@ Společnost Mozilla obvykle dostává licenční poplatky, pokud používáte v�
 
 __Firefox Suggest__ využívá data jako pomůcku pro poskytování lepších informací s menší námahou. Dle výchozího nastavení vám funkce Firefox Suggest zobrazuje doporučený nebo sponzorovaný obsah na základě místních dat uložených ve vašem vlastním počítači, jako jsou webové stránky z vaší historie procházení, záložky a otevřené karty (které nejsou odesílány společnosti Mozilla). Firefox Suggest neodesílá společnosti Mozilla:
 
-* __Údaje o poloze__: Firefox dočasně odešle společnosti Mozilla vaši IP adresu, kterou používáme k navrhování obsahu na základě vaší země, státu a města. Společnost Mozilla může sdílet informace o umístění se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), partneři nicméně nezískají vaši adresu IP. V USA může společnost Mozilla rovněž získat data o vyhledávání umístění klíčového slova (jako například, když vyhledáváte pojem „Boston“) a tyto údaje sdílet se svými partnery za účelem poskytování doporučeného a sponzorovaného obsahu. Pokud k tomu dojde, ani společnost Mozilla, ani její partneři nedokáží po odeslání doporučení vyhledávání přiřadit vyhledávání klíčového slova ke konkrétnímu uživateli.
+* __Údaje o poloze__: Firefox dočasně odešle společnosti Mozilla vaši IP adresu, kterou používáme k navrhování obsahu na základě vaší země, státu a města. Společnost Mozilla může sdílet informace o umístění se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), partneři nicméně nezískají vaši adresu IP.
+
+V USA může společnost Mozilla rovněž získat data o vyhledávání umístění klíčového slova (jako například, když vyhledáváte pojem „Boston“) a tyto údaje sdílet se svými partnery za účelem poskytování doporučeného a sponzorovaného obsahu. Pokud k tomu dojde, ani společnost Mozilla, ani její partneři nedokáží po odeslání doporučení vyhledávání přiřadit vyhledávání klíčového slova ke konkrétnímu uživateli. Tuto funkci můžete kdykoliv odstranit vypnutím sponzorovaných doporučení — podrobnější informace o tom, jak postupovat, najdete na příslušné stránce [Podpory Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct).
 
 * __Technické údaje a údaje o interakci__: Firefox odesílá společnosti Mozilla data, jako je počet opakování, kdy Firefox doporučí nebo zobrazí konkrétní obsah a vy na daný obsah kliknete, stejně jako základní data o vašich interakcích s funkcí Firefox Suggest. Společnost Mozilla sdílí tyto informace o počtu opakování zobrazení doporučení, umístění doporučení a doporučeních, na které jste klikli, se svými [partnery](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) za účelem ověření a vylepšení funkce.
 
@@ -92,7 +94,9 @@ Dle výchozího nastavení u verzí Firefoxu pro stolní počítač vás požád
 __Údaje o kampaních a doporučeních__: Tyto údaje společnosti Mozilla pomáhají pochopit efektivitu našich marketingových kampaní.
 {: #referraltracking }
 
-Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu. To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo před instalací [zrušte souhlas](https://support.mozilla.org/kb/desktop-attribution-privacy). Firefox dle výchozího nastavení rovněž zasílá údaje o marketingové kampani společnosti Adjust, našemu dodavateli analýz, který má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/). Údaje o kampaních zahrnují ID reklamy Google nebo ID systému Android, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
+Firefox dle výchozího nastavení zasílá společnosti Mozilla údaje o HTTP, které mohou být součástí instalačního souboru Firefoxu. To nám umožňuje stanovit doménu webové stránky nebo (případné) reklamní kampaně, která vás odkázala na naši stránku stahování. Přečtěte si [dokumentaci](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) nebo před instalací [zrušte souhlas](https://support.mozilla.org/kb/desktop-attribution-privacy). 
+
+Dle výchozího nastavení Firefox sdílí neidentifikované údaje marketingových kampaní s našimi dodavateli marketingových kampaní pro měření a zlepšování našich marketingových kampaní. To zahrnuje i společnost Adjust, která má své vlastní [zásady ochrany osobních údajů](https://www.adjust.com/terms/privacy-policy/). Patří k ním také společnost Google. Údaje o kampaních zahrnují ID reklamy Google nebo ID systému Android, adresu IP, časovou značku, zemi, jazyk/nastavení místního prostředí, operační systém a verzi aplikace. Přečtěte si [dokumentaci](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
 {: #thirdparty }
 
 ---
@@ -145,7 +149,7 @@ Doplňky můžete nainstalovat ze stránky addons.mozilla.org („AMO“) nebo z
 
 ### Poznámka pod čarou
 
-V případě zaslání žádosti ohledně vašich osobních údajů nás prosím kontaktujte prostřednictvím našeho [Portálu žádosti o přístup subjektů údajů](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Pokud máte jakékoliv dotazy ohledně vašich osobních údajů nebo našich postupů ochrany osobních údajů, kontaktujte nás na adrese compliance@mozilla.com. Na veškeré žádosti doručené od fyzických osob s žádostí o uplatnění jejich práv na ochranu osobních údajů budeme reagovat v souladu s platnými právními předpisy o ochraně osobních údajů.
+V případě zaslání žádosti ohledně vašich osobních údajů nás prosím kontaktujte prostřednictvím našeho [Portálu žádosti o přístup subjektů údajů](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Pokud máte jakékoliv dotazy ohledně vašich osobních údajů nebo našich postupů ochrany osobních údajů, kontaktujte nás na adrese compliance@mozilla.com nebo se můžete obrátit na našeho pracovníka pro ochranu osobních údajů na adrese dpo@mozilla.com. Na veškeré žádosti doručené od fyzických osob s žádostí o uplatnění jejich práv na ochranu osobních údajů budeme reagovat v souladu s platnými právními předpisy o ochraně osobních údajů. Pokud požadujete vymazání svých údajů Firefox, tyto budou odstraněny během 30 dní od žádosti (s výjimkou Údajů o interakci, které mají standardní dobu uchovávání 90 dní a které se automaticky odstraní po uplynutí této lhůty).
 
 Toto Prohlášení o ochraně osobních údajů platí pro nejnovější obecně vydanou verzi Firefoxu distribuovanou společností Mozilla. Pokud získáte Firefox odjinud nebo pokud používáte starší verzi, vaše kopie Firefoxu může obsahovat odlišné charakteristiky ochrany osobních údajů.
 {: #pre-release }

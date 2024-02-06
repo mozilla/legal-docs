@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Wersja 1.2, obowiązuje od 10 stycznia 2024 r.
-{: datetime="2024-01-10" }
+Wersja 2.0, obowiązuje od 5 lutego 2024 r.
+{: datetime="2024-02-05" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -9,7 +9,9 @@ __Mozilla VPN__ to wirtualna sieć prywatna obsługiwana we współpracy z firm�
 
 __Firefox Relay__ pozwala zachować bezpieczeństwo i prywatność podstawowego adresu e-mail i numeru telefonu, tworząc maski dla adresu e-mail i numeru telefonu użytkownika, które umożliwiają wysyłanie i odbieranie wiadomości e-mail, połączeń i SMS-ów bez ujawniania rzeczywistych danych kontaktowych użytkownika.
 
-__Firefox Monitor__ może prowadzić monitorowanie, aby sprawdzać, czy którekolwiek z Twoich kont padło ofiarą znanych naruszeń bezpieczeństwa danych. Zobacz dokument [Regulamin usługi Firefox Monitor i ochrona prywatności](https://www.mozilla.org/privacy/firefox-monitor/).
+__Mozilla Monitor__ może prowadzić monitorowanie, aby sprawdzać, czy którekolwiek z Twoich kont padło ofiarą znanych naruszeń bezpieczeństwa danych. Zobacz dokument [Regulamin usługi Mozilla Monitor i ochrona prywatności](https://www.mozilla.org/privacy/firefox-monitor/).
+
+__Mozilla Monitor__ wykonuje skanowanie, aby sprawdzić, czy hasła, numery telefonów lub inne dane osobowe użytkownika zostały ujawnione w wyniku znanego naruszenia danych, i pomaga podjąć kroki w celu usunięcia danych z brokerów danych. 
 
 Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usług przez użytkownika.
 
@@ -31,7 +33,7 @@ __Zasady zwrotu kosztów w ciągu 30 dni.__ Przy pierwszej subskrypcji Usług za
 __Zakup w sklepie z aplikacjami Apple lub Google.__ Jeśli subskrypcja została zakupiona poprzez zakup w aplikacji w sklepie Apple App Store lub Google Play, płatność podlega warunkom sklepu z aplikacjami. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy należy kierować odpowiednio do firmy Apple lub Google.
 
 ### Użytkownik może anulować subskrypcję w dowolnym momencie
-Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usług lub przechodząc do sekcji [Subskrypcje i płatności](https://accounts.firefox.com/subscriptions/) na swoim koncie Mozilla i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się zrezygnować, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
+Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usług lub przechodząc do sekcji [Subskrypcje i płatności](https://accounts.firefox.com/subscriptions/) na swoim koncie Mozilla i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się na anulowanie, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
 
 ## Mozilla VPN
 
@@ -61,6 +63,7 @@ Aby korzystać z płatnej subskrypcji, użytkownik musi znajdować się w kraju,
 * Usługa maskowania adresów e-mail jest dostępna w Austrii, Belgii, Kanadzie, Finlandii, Francji, Niemczech, Irlandii, Włoszech, Malezji, Holandii, Nowej Zelandii, Singapurze, Hiszpanii, Szwecji, Szwajcarii, Wielkiej Brytanii i Stanach Zjednoczonych.
 
 ### Wymagane uprawnienia w celu świadczenia usługi Firefox Relay
+
 __Korzystanie z usługi Relay.__ Jeśli użytkownik posiada aktualną, płatną subskrypcję Firefox Relay, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. To pozwolenie jest przeznaczone wyłącznie do użytku osobistego. Użytkownik nie może przekazywać, udzielać sublicencji, odsprzedawać ani wykorzystywać usługi Firefox Relay do celów komercyjnych. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje.
 
 Użytkownik udziela firmom Mozilla i Twilio wszelkich praw niezbędnych do obsługi usługi Firefox Relay, w tym przetwarzania adresu e-mail i numeru telefonu użytkownika, a także wysyłania i odbierania wiadomości e-mail, połączeń telefonicznych i wiadomości tekstowych wysyłanych do i z utworzonych przez użytkownika masek. W przypadku, gdy wiadomość e-mail nie może zostać dostarczona do użytkownika, zachowamy ją na naszych serwerach i usuniemy po jej dostarczeniu (w żadnym wypadku nie będziemy jej przechowywać dłużej niż trzy dni). 
@@ -78,6 +81,39 @@ Po wybraniu maski numeru telefonu nie można jej zmienić. Ponieważ można wybr
 Usługa Firefox Relay będzie wysyłać tylko załączniki o wielkości do 10 megabajtów. Większe wiadomości e-mail są usuwane.
 
 Aby dowiedzieć się więcej na temat działania Firefox Relay i danych przetwarzanych przez firmy Mozilla i Twilio, zobacz [kod źródłowy](https://github.com/mozilla/fx-private-relay) firmy Mozilla oraz [Zasady prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services).
+
+## Mozilla Monitor
+
+Oferujemy usługę Mozilla Relay jako usługę bezpłatną lub płatną subskrypcję. Bezpłatna usługa powiadamiania o naruszeniu danych jest wynikiem współpracy z Have I Been Pwned („HIBP”). Usługa automatycznego usuwania danych polega na współpracy z OneRep w celu usunięcia danych osobowych opublikowanych w publicznie dostępnych katalogach internetowych i innych agregatorach informacji o osobach fizycznych („Witryny brokerów danych”).
+
+### Użytkownik musi się kwalifikować
+Bezpłatna usługa powiadamiania o naruszeniu danych jest dostępna na całym świecie. Obecnie usługa automatycznego usuwania danych u brokerów jest dostępna tylko dla użytkowników mieszkających w Stanach Zjednoczonych.
+
+### Wymagane uprawnienia w celu świadczenia usługi Mozilla Monitor
+
+__Korzystanie z usługi Monitor.__ Jeśli użytkownik posiada aktualną, płatną subskrypcję Mozilla Monitor, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. To pozwolenie jest przeznaczone wyłącznie do użytku osobistego. Użytkownik nie może przekazywać, udzielać sublicencji, odsprzedawać ani wykorzystywać usługi Mozilla Monitor do celów komercyjnych. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje.
+
+Użytkownik udziela Mozilli, OneRep i HIBP wszelkich praw niezbędnych do świadczenia usługi Mozilla Monitor, w tym prawa do:
+
+* wykorzystywania informacji przekazanych nam przez użytkownika, w tym danych osobowych, w celu świadczenia Usług;
+* skanowania publicznie znanych naruszeń ochrony danych w odniesieniu do danych osobowych przekazanych nam w tym celu przez użytkownika; 
+* kontaktowania się ze stronami trzecimi, w tym z witrynami brokerów danych, które publikują informacje o użytkowniku;
+* tworzenia kont online w witrynach brokerów danych w imieniu użytkownika wyłącznie w celu świadczenia mu Usług (np. gdy wymagane jest założenie konta w witrynie brokera danych w celu wysłania żądania rezygnacji lub podjęcia innych działań w celu usunięcia informacji o użytkowniku);
+* podejmowania działań opisanych powyżej w imieniu użytkownika.
+
+Użytkownik akceptuje i zapewnia firmę Mozilla, że:
+* wszystkie podane przez użytkownika informacje będą dokładne i zgodne z prawdą;
+* użytkownik nie będzie używał ani podawał oszukańczych, wprowadzających w błąd lub niedokładnych informacji; 
+* użytkownik nie będzie podszywał się pod żadną osobę ani fałszywie przedstawiał swojej tożsamości lub powiązań z jakąkolwiek osobą;
+* korzystanie z Usług przez użytkownika będzie zgodne z [Warunkami korzystania](https://www.mozilla.org/about/legal/acceptable-use/) firmy Mozilla.
+* Użytkownik nie będzie korzystał z Usług w celu naruszania czyichkolwiek praw lub łamania jakichkolwiek przepisów prawa.
+
+Należy pamiętać, że obsługa żądań rezygnacji przez witryny brokerów danych może potrwać do 2 miesięcy od otrzymania przez nas kompletnych informacji wymaganych do świadczenia Usług.
+
+__Ograniczenia.__ Użytkownik rozumie, że wyniki Usług są bezpośrednio skorelowane z terminowością i kompletnością informacji przekazywanych nam przez użytkownika. Mimo że operatorzy usługi Mozilla Monitor i witryny [Have I Been Pwned](https://haveibeenpwned.com/) dokładają wszelkich starań, aby zapewnić aktualność danych, nie ma gwarancji, że którekolwiek z tych źródeł będzie dysponować kompletnymi lub aktualnymi informacjami dotyczącymi wszystkich publicznych wycieków danych. 
+
+_Użytkownik przyjmuje również do wiadomości, że Mozilla nie kontroluje brokerów danych i dlatego nie może zagwarantować, że będą oni honorować żądania usunięcia danych._
+Aby dowiedzieć się więcej na temat działania i danych przetwarzanych przez firmy Mozilla, HIBP, i OneRep, zobacz [Zasady prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Inne ważne informacje
 
@@ -108,7 +144,7 @@ __Wybór prawa.__ Do niniejszej umowy zastosowanie ma prawo stanu Kalifornia, z 
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street,  
+149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105  
 
