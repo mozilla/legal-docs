@@ -17,7 +17,7 @@ __Your Privacy.__ The Firefox Relay [Privacy Notice](https://www.mozilla.org/pri
 
 ## Permissions Necessary to Provide the Service
 
-__Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
+__Your Use of the Service.__ Mozilla gives you permission to use Firefox Relay according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the Service. You also agree that your use of the Service will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
 You give Mozilla all rights necessary to operate the Service, including processing your email addresses, the aliases and alias labels you create and the emails you send and receive through the Service. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked. 
 
