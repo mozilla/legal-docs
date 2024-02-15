@@ -27,7 +27,7 @@ __Your Use of the Service.__ You give Mozilla and Cloudflare all rights to opera
 
 Mozilla gives you permission to use the Service according to these Terms of Service. This permission is only for your personal use. You may not transfer, sublicense, resell, or commercially exploit the service.  
 
-You also agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
+You also agree that your use of the Service will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/). You are solely responsible for the Content you transmit and the consequences.
 
 __Your License to Use the Software.__ The Firefox Private Network software is made available to you under the terms of the [Mozilla Public License](https://www.mozilla.org/MPL/).
 
