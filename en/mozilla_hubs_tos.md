@@ -34,7 +34,7 @@ You are solely responsible for the information you send, create, or edit using H
 
 ## 3. Conditions of Use
 
-By using Hubs or Spoke, you agree that your use will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any room it reasonably believes has violated these conditions.
+By using Hubs or Spoke, you agree that your use will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla reserves the right to remove any content, suspend any users, and shut down any room it reasonably believes has violated these conditions.
 
 Please also be aware of [Mozilla’s Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/), which address participation in Mozilla communities.
 

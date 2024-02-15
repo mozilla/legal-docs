@@ -43,7 +43,7 @@ For Submissions to Mozilla's open source projects:
 
 For all other Submissions, you agree to the following in connection with each:
 
-* You represent and warrant that your Submission will comply with these Terms, the Mozilla [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
+* You represent and warrant that your Submission will comply with these Terms, the Mozilla [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/), and any additional terms that may govern your Submission.
 * You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
 * You acknowledge that your Submissions may be accessible by other registered users of the applicable service or the public.
 * If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to. 
