@@ -1,7 +1,7 @@
 # Terms of Service
 
-*Effective January 27, 2021*
-{: datetime="2021-01-27" }
+*Effective February 15, 2024*
+{: datetime="2024-02-15" }
 
 Please read the following terms of service ("Agreement" or "Terms of Service") before you install the Pocket application or use any of the products or services we provide through our application, software or website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as "we," "us," "our," "Mozilla") and are operated by Mozilla's business unit known as "Pocket", which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. The Terms of Service constitute a binding legal agreement, which govern your use of the Pocket Technologies via any platform or device. By installing the Pocket application, visiting our website or installing or using any of the Pocket Technologies, you are accepting these Terms of Service. If you do not agree to these terms, please do not install our application, access our website or use any of our products or services. This Agreement includes the following provisions, and you can jump to each by selecting the links below:
 
