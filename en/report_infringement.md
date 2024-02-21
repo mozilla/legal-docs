@@ -17,7 +17,7 @@ Your DMCA Notice must include all of the following information:
 
 ### Where do you send the DMCA Notice?
 
-The quickest way to report suspected infringement is to submit [this form](https://reports.mozilla.social/infringement-form). If you prefer, you can email [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). You may also send notices to:
+The quickest way to report suspected infringement is to submit [this form](https://report.mozilla.com/infringement-form). If you prefer, you can email [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). You may also send notices to:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
