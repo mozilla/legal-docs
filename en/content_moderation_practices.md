@@ -39,7 +39,7 @@ In both cases, we provide a form where the party can submit their appeal and exp
 
 Appeals will be routed to a dedicated queue upon receipt. Depending on the type of violation involved, items in that queue will be reviewed by other members of the moderation team, the applicable product team, or our Mozilla-wide Trust & Safety or Legal Teams. Appellate reviewers will review the applicable policy or policies and any relevant internal guidelines, as well as the information submitted by the appellant, to determine whether the original decision was appropriate and in line with Mozilla’s rules.
 
-When a user prevails in their appeal, we will inform the user, and the prior action against their content or their account will be reversed. When a reporter prevails in their appeal, we will inform both the user and the reporter, and will action the violative content as dictated by the applicable policy.
+When a user prevails in their appeal, we will inform the user, and the prior action against their content or their account will be reversed. When a reporter prevails in their appeal, we will inform both the user and the reporter, and will take action against the content that violated our rules, according to the applicable policy.
 
 If you disagree with the outcome of our internal appeals process and are based in the EU, you can bring your concerns to a certified out-of-court dispute settlement body.
 
