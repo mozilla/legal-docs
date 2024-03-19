@@ -3,12 +3,12 @@
 Last Updated March 8, 2024
 {: datetime="2024-03-08" }
 
-Formulaic (the “Service”) is a service that allows users to create, share, manage, and use templates (the “Formulas”) for querying Artificial Intelligence (AI) based Large Language Model (LLMs) (the “Service”). It also allows users to run those queries through a third party LLM platform, and to view the resulting responses. (For the purposes of this Agreement, Formulas, instructions, descriptions, and responses will all be referred to as the “Content”.) The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).  
+Formulaic (the “Service”) is a service that allows users to create, share, manage, and use templates (the “Formulas”) for querying Artificial Intelligence (AI) based Large Language Model (LLMs) (the “Service”). It also allows users to run those queries through a third-party LLM platform, and to view the resulting responses. (For the purposes of this Agreement, Formulas, instructions, descriptions, and responses will all be referred to as the “Content”.) The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).  
 Please read these terms of service (“Agreement” or “Terms”) carefully before you sign up for or use the Service. The Terms constitute a binding legal agreement, which govern your use of the Service via any platform or device. By accessing, signing up for, or using the Service, you agree to be bound by these Terms.
 
 ## 1. The Service
 
-The Service (including both the platform and the Formulas shared by other users, as well as your ability to submit and/or run the Formulas using third party LLMs) is provided solely for use according to these Terms. If you agree to these terms on behalf of a third party, such as your employer, you represent that you are authorized to, and intend to bind that party to these Terms.  
+The Service (including both the platform and the Formulas shared by other users, as well as your ability to submit and/or run the Formulas using third-party LLMs) is provided solely for use according to these Terms. If you agree to these terms on behalf of a third party, such as your employer, you represent that you are authorized to, and intend to bind that party to these Terms.  
 By accepting these terms, you also accept the Formulaic Privacy Notice and Formulaic Content Policies.
 
 ### A. Creating an Account
@@ -20,7 +20,7 @@ You give Mozilla all rights necessary to operate the Service, including processi
 You will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/) as well as the other policies referenced in this Agreement. You also agree that you will not use the Service to violate any law in the jurisdiction where you are based, or to infringe the rights of one or more third parties.   
 You will use the service only for the purpose of creating, sharing, exchanging, testing and saving LLM prompts and their resulting responses. If you appear to be using the Service for something other than its intended purpose, including merely to access the underlying AI models, your use may be terminated. You may not use the service, or any of the underlying LLM models, to support the creation of your own LLM. You also may not use the service to create a product that competes with any product developed by Google.
 Any ideas, suggestions, or feedback that you provide about the Service may be used by Mozilla for free, without any additional obligations.  
-When you use the Service to run a query, the response will be provided by a third party LLM operator. If you use the Google LLM, Google may use your (anonymized) content to train its AI model. Outputs from LLMs may not always be accurate, and should not be relied on for factual information, or for advice related to finances, employment, education, housing, legal, medical, career, or other important personal decisions. LLM outputs are affected by a number of factors such as inputs, training data, programming, and others, and may be incomplete, incorrect, or offensive, or refer to specific products, companies, or individuals. They do not represent Mozilla’s views, or indicate an endorsement of any kind.
+When you use the Service to run a query, the response will be provided by a third-party LLM operator. If you use the Google LLM, Google may use your (anonymized) content to train its AI model. Outputs from LLMs may not always be accurate, and should not be relied on for factual information, or for advice related to finances, employment, education, housing, legal, medical, career, or other important personal decisions. LLM outputs are affected by a number of factors such as inputs, training data, programming, and others, and may be incomplete, incorrect, or offensive, or refer to specific products, companies, or individuals. They do not represent Mozilla’s views, or indicate an endorsement of any kind.
 
 ### C. Term; Termination
 
@@ -52,7 +52,7 @@ Formulaic is an experimental product. We plan to continue to develop and change 
 
 ## 5. Indemnification
 
-You agree to defend, indemnify and hold harmless Mozilla, and its respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents (“Indemnified Parties”) from and against any and all third party claims and expenses, including attorneys’ fees, arising out of or related to your use of the Service. This includes, but is not limited to, claims and expenses arising from any of the Content shared by you.
+You agree to defend, indemnify and hold harmless Mozilla, and its respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents (“Indemnified Parties”) from and against any and all third-party claims and expenses, including attorneys’ fees, arising out of or related to your use of the Service. This includes, but is not limited to, claims and expenses arising from any of the Content shared by you.
 
 ## 6. Disclaimer & Limitation of Liability
 
