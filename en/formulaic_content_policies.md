@@ -1,6 +1,6 @@
 We may moderate content shared on the Formulaic platform, to maintain a healthy community and a minimum quality standard. Our moderation will be based on the following rules.
 
-##1. Misleading or inaccurate descriptions
+## 1. Misleading or inaccurate descriptions
 
 Formulas submitted to Formulaic must be accompanied by a brief description. That description should be written in plain language, and should be sufficient for a viewer to understand what function the Formula is intended to facilitate. Subjective value-based terms (e.g. “high quality,” “unique,” “holistic”) will generally not be deemed misleading. 
 
