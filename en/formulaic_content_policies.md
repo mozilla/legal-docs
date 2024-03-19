@@ -6,7 +6,7 @@ Formulas submitted to Formulaic must be accompanied by a brief description. That
 
 Under this policy, Mozilla may delete:
 
--Formula descriptions that appear likely to mislead or confuse the average user;
+- Formula descriptions that appear likely to mislead or confuse the average user;
 -Formulas that, more often than not, produce results unrelated to the topic described; or
 -Formulas that direct people to a specific third party website or service not expressly mentioned in the description.
 
