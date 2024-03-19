@@ -4,6 +4,7 @@ Last Updated March 8, 2024
 {: datetime="2024-03-08" }
 
 This privacy notice applies to Formulaic, a service that allows users to query, create, share, and manage templates for querying artificial intelligence (AI) based large language models (LLMs) (the “Service”). The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).  
+
 This privacy notice explains what information Formulaic collects, shares, and processes, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) when we receive, handle, and share personal information. Your use of the Service constitutes your acceptance of this privacy notice, which incorporates by reference our Terms of Service.
 
 ## Things you should know
@@ -82,6 +83,7 @@ To make requests regarding your personal information, please contact us through 
 
 These regions have data protection laws that require us to specify the following:  
 Our Privacy Notice describes the purposes for which we process information about you and the categories of information we process. We do not sell personal data.  
+
 Our lawful bases for collecting and processing personal information include:
 
 - **Performing our contract with you.** Creating an account with the Service requires your agreement to the Formulaic Terms of Service. To provide the services described, such as accessing Formulas and querying Third-Party Models, we need your account information, the content of your queries, and certain technical and interaction data, as further described in this Privacy Notice.
@@ -98,6 +100,7 @@ The following rights are granted by certain laws such as the General Data Protec
 In many cases, you can access, update, or delete your personal information directly from our product settings.
 
 To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you have any other questions regarding personal data or our privacy practices, please contact us at [dpo@mozilla.com](mailto:dpo@mozilla.com), or you can contact our DPO by mail at:  
+
 Bird & Bird DPO Services SRL  
 Avenue Louise 235 b 1  
 1050 Brussels  
