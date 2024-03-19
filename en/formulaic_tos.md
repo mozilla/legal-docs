@@ -1,4 +1,4 @@
-# Terms of Service - Mozilla Formulaic
+# Mozilla Formulaic Terms of Service
 
 Last Updated March 8, 2024
 {: datetime="2024-03-08" }
@@ -13,7 +13,7 @@ By accepting these terms, you also accept the Formulaic Privacy Notice and Formu
 
 ### A. Creating an Account
 
-In order to view or run shared queries, or to share content of your own, you will need to create an account on the Service using your Google Account. You can create a Google Account on [Google’s signup page](https://accounts.google.com/lifecycle/steps/signup/name?dsh=S1694799353:1707861924262237&flowEntry=SignUp&flowName=GlifWebSignIn&theme=glif&TL=ADg0xR0JpndiwBwSSLq5Ih_cBj1vPyVBRu2lVXVKxOqIHKvLx__ThXaRX7v0OVnt). More information about the information that we receive from Google, and how we use that information, is included in the Formulaic Privacy Notice. Google Accounts has it’s own [Privacy Notice](https://policies.google.com/privacy?hl=en-US).
+In order to view or run shared queries, or to share content of your own, you will need to create an account on the Service using your Google Account. You can create a Google Account on [Google’s signup page](https://accounts.google.com). More information about the information that we receive from Google, and how we use that information, is included in the Formulaic Privacy Notice. Google Accounts has its own [Privacy Notice](https://policies.google.com/privacy).
 
 ### B. Using the Service
 You give Mozilla all rights necessary to operate the Service, including processing the data you upload to or access through the Service such as queries & results, “saves,” user profiles, and similar items, as referenced in our Privacy Notice.  
@@ -56,27 +56,27 @@ You agree to defend, indemnify and hold harmless Mozilla, and its respective par
 
 ## 6. Disclaimer & Limitation of Liability
 
-Mozilla offers the Service “as is.”  Mozilla does not represent or warrant that the Service, the platform, or the Formulas are suitable for any particular purpose, or that they are free of defects or problems.
+Mozilla offers the Service “as is.”  Mozilla does not represent or warrant that the Service, the platform, or the Formulas are suitable for any particular purpose, or that they are free of defects or problems.  
 Any tool or service that you select for a particular purpose is selected at your own risk, including the risk that your content could be deleted or corrupted, or that the Service might fail to meet your specific needs or to perform at the level you desire.   
-Except as required by law, Mozilla will not be liable for any indirect, special, incidental, consequential, or exemplary damages arising out of or in any way relating to these Terms, from your use of or loss of access to the Service, from your use or of Formulas found on the site, or from others’ use or misuse of Formulas that you share. Risks may include loss of goodwill, work stoppage, lost profits, loss of data, computer failure or malfunction, and other damages, for which Mozilla will not be responsible (even if advised of the possibility of such damages), under any legal theory (tort, contract or otherwise).
+Except as required by law, Mozilla will not be liable for any indirect, special, incidental, consequential, or exemplary damages arising out of or in any way relating to these Terms, from your use of or loss of access to the Service, from your use or of Formulas found on the site, or from others’ use or misuse of Formulas that you share. Risks may include loss of goodwill, work stoppage, lost profits, loss of data, computer failure or malfunction, and other damages, for which Mozilla will not be responsible (even if advised of the possibility of such damages), under any legal theory (tort, contract or otherwise).  
 Mozilla’s total liability under this agreement will not not exceed $500, except where specifically provided by law.
 
 ## 7. Modification of These Terms
 
-Mozilla may update these Terms from time to time, and will post the updated Terms online. Where changes are substantive, we will notify you via email, in public announcements, or through the Service itself.
+Mozilla may update these Terms from time to time, and will post the updated Terms online. Where changes are substantive, we will notify you via email, in public announcements, or through the Service itself.  
 Your continued use of Formulaic after we update the Terms constitutes your acceptance of the new Terms. To better enable you to track changes, we will post an effective date at the top of this page.
 
 ## 8. Choice of Law & Jurisdiction
 
 This contract will be interpreted and enforced in accordance with California state law. If there is any conflict between this English version of the contract and a translation, the English version applies.
 
-Any disputes arising out of this contract or your use of the Service will be heard in the state of California. 
+Any disputes arising out of this contract or your use of the Service will be heard in the state of California.   
 If there is a conflict or ambiguity between a translated version of these terms and the English language version, the English language version applies.
 
 ## 9. Contact Us
 
-Our [copyright or trademark claims reporting page](https://www.mozilla.org/about/legal/report-infringement/) explains how to report infringement on the Service.
-For other concerns, you may email us at [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com) or write to us at the following address: 
+Our [copyright or trademark claims reporting page](https://www.mozilla.org/about/legal/report-infringement/) explains how to report infringement on the Service.  
+For other concerns, you may email us at [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com) or write to us at the following address:   
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
