@@ -27,7 +27,7 @@ __Email domain__: Thunderbird receives your email address domain. Your full emai
 
 __Technical data__: Thunderbird also receives information about the application’s version and device operating system. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
-### Set-Up and Configure Your Calendar
+### Set Up and Configure Your Calendar
 
 Thunderbird collects the domain for your email/calendar, as well as technical data to set-up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored locally on your computer and never sent to us.
 
