@@ -29,7 +29,7 @@ __Technical data__: Thunderbird also receives information about the applicationâ
 
 ### Set Up and Configure Your Calendar
 
-Thunderbird collects the domain for your email/calendar, as well as technical data to set-up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored locally on your computer and never sent to us.
+Thunderbird collects the domain for your email/calendar, as well as technical data to set up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored locally on your computer and never sent to us.
 
 You can connect your Google, Microsoft, or Apple calendar to Thunderbird and control your calendar right from Thunderbird. 
 
