@@ -35,7 +35,7 @@ You can connect your Google, Microsoft, or Apple calendar to Thunderbird and con
 
 We do not store your content from integrating Apple Calendar, Google Calendar, or Microsoft 365 with Thunderbird. That information stays on your computer. Nor do we share your content with any third party other than your calendar provider and anyone you specifically choose to send the appointments to.
 
-### Set-Up and Schedule Calendar Appointments with Thunderbird Appointment
+### Set Up and Schedule Calendar Appointments with Thunderbird Appointment
 
 With Thunderbird Appointment, you can allow others to schedule appointments on your calendar.
 
