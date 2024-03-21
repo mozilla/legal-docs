@@ -1,6 +1,6 @@
 # Thunderbird Privacy Notice
 
-March 21, 2024
+Last updated March 21, 2024
 {: datetime="2024-03-21" }
 
 The Thunderbird application allows users to privately integrate and manage their online communications.
