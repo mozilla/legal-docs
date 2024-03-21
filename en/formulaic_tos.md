@@ -1,4 +1,4 @@
-# Mozilla Formulaic Terms of Service
+# Formulaic Terms of Service
 
 Last Updated March 8, 2024
 {: datetime="2024-03-08" }
