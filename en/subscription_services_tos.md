@@ -105,7 +105,7 @@ You agree and assure Mozilla that:
 * All information you provided will be accurate and truthful;
 * You will not use or provide any fraudulent, misleading or inaccurate information; 
 * You will not impersonate any person nor misrepresent your identity or your affiliation with any person;
-* Your use of the Services will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/).
+* Your use of the Services will comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/).
 * You will not use the Services to infringe anyone’s rights or violate any law.
 
 Please note that it may take up to 2 months starting from receipt by us of complete information required to provide the Services for opt-out requests to be handled by Data Broker Sites.

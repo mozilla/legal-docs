@@ -1,4 +1,4 @@
-# Conditions of Use
+# Acceptable Use Policy
 
 You may not use any of Mozilla’s services to:
 
