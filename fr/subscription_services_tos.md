@@ -105,7 +105,7 @@ Vous acceptez et assurez Mozilla de ce qui suit :
 * Toutes les informations que vous avez fournies sont exactes et sincères.
 * Vous n’utiliserez ni ne fournirez d’informations frauduleuses, trompeuses ou inexactes. 
 * Vous ne vous ferez pas passer pour une autre personne ni ne déformerez votre identité ou votre relation avec une personne.
-* Votre utilisation des Services sera conforme aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/).
+* Votre utilisation des Services sera conforme aux [Conditions d'utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla.
 * Vous n’utiliserez pas les Services de manière à empiéter sur les droits de quiconque ni d’enfreindre de lois.
 
 Veuillez noter qu’un délai allant jusqu’à 2 mois peut s’écouler avant notre réception de toutes les informations demandées pour que nous puissions fournir les Services pour les demandes de retrait traitées par les sites de courtage de données.

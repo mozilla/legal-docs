@@ -38,7 +38,7 @@ __Privacy.__ Sei responsabile della privacy delle persone che utilizzano la tua 
 Mozilla è un'organizzazione globale e i nostri computer e quelli dei nostri fornitori di servizi possono trovarsi in Paesi diversi nel mondo, inclusi gli Stati Uniti. Questo significa che i tuoi dati e quelli dei tuoi utenti possono essere elaborati su server situati al di fuori del Paese in cui tu e i tuoi utenti risiedete, in una nazione in cui le leggi potrebbero garantire un diverso livello di protezione. Utilizzando il Servizio, assicuri a Mozilla che acconsenti a questo tipo di trasferimento delle informazioni degli utenti e che hai ottenuto il necessario consenso dalle persone che utilizzano la tua istanza di Hubs.
 
 ## 3. Condizioni d'uso
-Utilizzando Hubs, accetti di rispettare le [Condizioni d'uso](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla. Mozilla si riserva il diritto di rimuovere qualsiasi contenuto, sospendere qualsiasi utente e chiudere qualsiasi istanza di Hubs o stanza individuale se ritiene ragionevolmente che abbia violato queste condizioni.
+Utilizzando Hubs, accetti di rispettare l'[Informativa sul corretto utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla. Mozilla si riserva il diritto di rimuovere qualsiasi contenuto, sospendere qualsiasi utente e chiudere qualsiasi istanza di Hubs o stanza individuale che ritenga abbia ragionevolmente violato queste condizioni.
 
 __Idoneità.__ Per utilizzare il servizio di abbonamento a pagamento, devi risiedere in un Paese in cui Hubs è disponibile. Hubs é attualmente disponibile in Canada, Germania, Regno Unito e Stati Uniti.
 

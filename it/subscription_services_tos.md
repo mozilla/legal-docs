@@ -105,7 +105,7 @@ Accetti e garantisci a Mozilla che:
 * Tutte le informazioni fornite saranno accurate e veritiere;
 * Non utilizzerai o fornirai informazioni fraudolente, fuorvianti o imprecise; 
 * Non impersonerai nessuno né falsificherai la tua identità o la tua affiliazione nei confronti di qualcuno;
-* Utilizzerai i Servizi conformemente alle [Condizioni di utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla.
+* Utilizzerai i Servizi secondo quanto previsto dall'[Informativa sul corretto utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla.
 * L'utilizzo dei Servizi da parte tua non violerà alcun diritto o non infrangerà alcuna legge.
 
 Tieni presente che per la gestione delle richieste di esclusione da parte dei Siti di intermediazione di dati possono essere necessari fino a 2 mesi a partire dal ricevimento da parte nostra delle informazioni necessarie per la fornitura dei Servizi.

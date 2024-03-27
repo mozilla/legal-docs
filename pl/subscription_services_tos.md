@@ -105,7 +105,7 @@ Użytkownik akceptuje i zapewnia firmę Mozilla, że:
 * wszystkie podane przez użytkownika informacje będą dokładne i zgodne z prawdą;
 * użytkownik nie będzie używał ani podawał oszukańczych, wprowadzających w błąd lub niedokładnych informacji; 
 * użytkownik nie będzie podszywał się pod żadną osobę ani fałszywie przedstawiał swojej tożsamości lub powiązań z jakąkolwiek osobą;
-* korzystanie z Usług przez użytkownika będzie zgodne z [Warunkami korzystania](https://www.mozilla.org/about/legal/acceptable-use/) firmy Mozilla.
+* Korzystanie z Usług przez użytkownika będzie zgodne z [Warunkami korzystania](https://www.mozilla.org/about/legal/acceptable-use/) firmy Mozilla.
 * Użytkownik nie będzie korzystał z Usług w celu naruszania czyichkolwiek praw lub łamania jakichkolwiek przepisów prawa.
 
 Należy pamiętać, że obsługa żądań rezygnacji przez witryny brokerów danych może potrwać do 2 miesięcy od otrzymania przez nas kompletnych informacji wymaganych do świadczenia Usług.

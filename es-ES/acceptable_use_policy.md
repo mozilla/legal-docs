@@ -1,4 +1,4 @@
-# Condiciones de uso
+# Política de Uso Aceptable
 
 No se permite utilizar ninguno de los servicios de Mozilla para:
 

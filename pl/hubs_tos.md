@@ -38,7 +38,7 @@ __Prywatność.__ Użytkownik ponosi odpowiedzialność za prywatność osób ko
 Mozilla jest organizacją globalną, a komputery nasze i usługodawców mogą znajdować się w różnych krajach świata, w tym w Stanach Zjednoczonych. Oznacza to, że informacje użytkownika oraz jego użytkowników mogą być przetwarzane na serwerach znajdujących się poza krajem zamieszkania użytkownika i jego użytkowników, a w kraju tym mogą obowiązywać inne przepisy dotyczące ochrony danych niż w kraju użytkownika. Korzystając z Usługi, użytkownik potwierdza firmie Mozilla, że zgadza się na tego rodzaju przesyłanie danych użytkowników oraz że uzyskał wymaganą zgodę od osób, które korzystają z jego pokojów Hubs.
 
 ## 3. Warunki użytkowania
-Korzystając z usługi Hubs, użytkownik zgadza się przestrzegać ustalonych przez firmę Mozilla [Warunków użytkowania](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla zastrzega sobie prawo do usuwania dowolnej zawartości, zawieszania dowolnych użytkowników oraz zamykania dowolnych pokojów Hubs w przypadku uzasadnionego przypuszczenia naruszenia niniejszych warunków.
+Korzystając z usługi Hubs, użytkownik zgadza się przestrzegać ustalonych przez firmę Mozilla [Warunków korzystania](https://www.mozilla.org/about/legal/acceptable-use/). Mozilla zastrzega sobie prawo do usuwania dowolnej zawartości, zawieszania dowolnych użytkowników oraz zamykania dowolnych pokojów Hubs w przypadku uzasadnionego przypuszczenia naruszenia niniejszych warunków.
 
 __Dostępność.__ Aby korzystać z płatnej subskrypcji, użytkownik musi znajdować się w kraju, w którym usługa Hubs jest dostępna. Usługa Hubs jest obecnie dostępna w Kanadzie, Niemczech oraz Wielkiej Brytanii i Stanach Zjednoczonych.
 

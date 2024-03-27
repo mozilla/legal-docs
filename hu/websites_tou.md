@@ -43,7 +43,7 @@ A Mozilla nyílt forrású projektjeivel kapcsolatban:
 
 Minden más Benyújtott anyag tekintetében Ön elfogadja a következő feltételeket:
 
-* Ön ezúton kijelenti és garantálja, hogy az Ön Feltöltése megfelel ezeknek a Feltételeknek, a Mozilla [Felhasználási feltételeknek](https://www.mozilla.org/about/legal/acceptable-use/), és bármely további feltételnek, amely vonatkozhat az Ön Feltöltésére.
+* Ön ezúton kijelenti és garantálja, hogy az Ön Beküldése megfelel a jelen Feltételeknek, a Mozilla [elfogadható használatra vonatkozó szabályzatának](https://www.mozilla.org/about/legal/acceptable-use/), és bármely további feltételnek, amely vonatkozhat az Ön Beküldésére.
 * A Feltöltéssel nem kizárólagos, jogdíjmentes, az egész világra kiterjedő, licencbe adható (azoknak, akikkel együtt dolgozunk) engedélyt ad számunkra Feltöltésének a Közleményekkel kapcsolatos felhasználására, valamint a Mozilla küldetésének, termékeinek és szolgáltatásainak offline promóciójára.
 * Tudomásul veszi, hogy Feltöltése hozzáférhetővé válhat az érintett szolgáltatás többi felhasználója vagy a nyilvánosság számára.
 * Amennyiben feltöltése művészi alkotást vagy szoftverkódot tartalmaz, akkor Ön elfogadja, hogy olyan módon ad licencet a Feltöltésre vonatkozóan, amely kompatibilis azzal a Webhellyel, amelyre a Tartalmat feltöltötte.

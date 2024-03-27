@@ -105,7 +105,7 @@ Sie erklären sich mit Folgendem einverstanden und versichern Mozilla, dass:
 * Alle Informationen, die Sie bereitstellen, genau und wahrheitsgetreu sind;
 * Sie keine betrügerischen, irreführenden oder falschen Informationen bereitstellen; 
 * Sie sich nicht als eine andere Person ausgeben oder Ihre Identität oder Ihre Zugehörigkeit zu einer Person nicht falsch darstellen;
-* Ihre Nutzung der Dienste den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird.
+* Ihre Nutzung der Dienste wird der [Nutzungsrichtlinie](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen.
 * Sie die Dienste nicht verwenden werden, um Gesetze oder Rechte anderer zu verletzen.
 
 Beachten Sie bitte, dass es von dem Zeitpunkt an, an dem wir Ihre vollständigen Informationen erhalten, die wir für die Bereitstellung der Dienste für Opt-out-Anfragen, die von Datenbroker-Websites bearbeitet werden müssen, benötigen, bis zu 2 (zwei) Monate dauern kann.

@@ -43,7 +43,7 @@ W przypadku Materiałów przesyłanych do prowadzonych przez firmę Mozilla proj
 
 W przypadku wszystkich pozostałych Przesyłanych materiałów użytkownik wyraża zgodę na następujące postanowienia:
 
-* Użytkownik zaświadcza, że Przesyłany materiał jest zgodny z niniejszymi Warunkami, [Warunkami użytkowania](https://www.mozilla.org/about/legal/acceptable-use/) usług firmy Mozilla oraz wszelkimi innymi dodatkowymi warunkami, jaki mogą obowiązywać w przypadku danego Przesyłanego materiału.
+* Użytkownik zaświadcza, że Przesyłany materiał jest zgodny z niniejszymi Warunkami, [Warunkami korzystania](https://www.mozilla.org/about/legal/acceptable-use/) firmy Mozilla oraz wszelkimi innymi dodatkowymi warunkami, jakie mogą obowiązywać w przypadku danego Przesyłanego materiału.
 * Użytkownik niniejszym udziela nam niewyłącznej, bezpłatnej, ogólnoświatowej licencji z prawem do sublicencjonowania Przesyłanego materiału (podmiotom, z którymi współpracujemy), zezwalającej na jego wykorzystywanie w związku z Kanałem komunikacyjnym oraz w celach promujących misję, produkty i usługi firmy Mozilla, tak w Internecie, jak i poza nim.
 * Użytkownik przyjmuje do wiadomości, że Przesłane materiały mogą być dostępne dla innych zarejestrowanych użytkowników danej usługi lub dostępne publicznie.
 * Jeśli Przesyłany materiał zawiera środki wyrazu lub kod oprogramowania, użytkownik wyraża zgodę na ich licencjonowanie na zasadach zgodnych z Witryną, do jakiej go przesyła.

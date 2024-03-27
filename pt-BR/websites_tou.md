@@ -43,7 +43,7 @@ para Envios para projetos de código aberto da Mozilla:
 
 Para todos os demais Envios, você concorda com o que segue com relação a cada um deles:
 
-* Você declara e garante que seu Envio cumprirá estes Termos, as [Condições de uso](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla e quaisquer outros termos que possam reger seu Envio.
+* Você declara e garante que seu Envio será realizado em conformidade com estes Termos, a [Política de uso aceitável](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla e quaisquer outros termos que possam reger seu Envio.
 * Neste ato, você nos concede uma licença sem exclusividade, isenta de direitos autorais, mundial e que pode ser sublicenciada (a quem trabalha conosco) para usar o seu Envio em relação às Comunicações e à divulgação da missão, dos produtos e serviços da Mozilla, online e offline.
 * Você reconhece que seus Envios podem estar acessíveis a outros usuários registrados do serviço em questão ou ao público.
 * Caso seu Envio contenha materiais ou códigos de software expressivos, você concorda em licenciá-los de forma compatível com o Site específico em que você está realizando o Envio.
