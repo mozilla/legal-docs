@@ -7,7 +7,7 @@
 
 #### 1\. Pendahuluan
 
-Harap baca ketentuan keseluruhan dokumen ini  (“Ketentuan”) dengan cermat karena menjelaskan hak dan tanggung jawab Anda saat mengunjungi situs web Mozilla (“Situs Web”), atau feed terkait, media sosial, buletin, repositori kode sumber, dan email (bersama dengan Situs Web, secara kolektif disebut sebagai “Komunikasi”). Dengan mengakses atau mendaftar untuk menerima Komunikasi, berarti Anda setuju untuk terikat oleh Ketentuan ini.
+Harap baca ketentuan keseluruhan dokumen ini (“Ketentuan”) dengan cermat karena menjelaskan hak dan tanggung jawab Anda saat mengunjungi situs web Mozilla (“Situs Web”), atau feed terkait, media sosial, buletin, repositori kode sumber, dan email (bersama dengan Situs Web, secara kolektif disebut sebagai “Komunikasi”). Dengan mengakses atau mendaftar untuk menerima Komunikasi, berarti Anda setuju untuk terikat oleh Ketentuan ini.
 
 Situs Web kami mencakup beberapa domain seperti mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org, dan webmaker.org. Anda juga dapat mengenali Situs Web kami melalui nama sebutannya seperti Bugzilla@Mozilla, BMO, MozWiki, MoPad, MozReps, MDN, Marketplace, One and Done, SUMO, dan AMO.
 Beberapa Situs Web kami menghubungkan Anda dengan tautan, aplikasi, atau pengaya yang disediakan oleh pihak lain dan tunduk pada Ketentuan terpisah.
@@ -22,15 +22,15 @@ Beberapa Situs Web mengizinkan Anda membuat nama pengguna saat pendaftaran. Peng
 
 #### 3\. Lisensi Konten
 
-Komunikasi kami mencakup konten seperti artikel, gambar, foto, komentar, kode perangkat lunak, klip audio dan video, serta materi lainnya (secara kolektif disebut “Konten”).  Konten ditulis oleh Mozilla, kontributor proyek Mozilla, dan sumber lainnya. 
+Komunikasi kami mencakup konten seperti artikel, gambar, foto, komentar, kode perangkat lunak, klip audio dan video, serta materi lainnya (secara kolektif disebut “Konten”). Konten ditulis oleh Mozilla, kontributor proyek Mozilla, dan sumber lainnya. 
 
-Konten yang ditulis oleh Mozilla umumnya tersedia untuk dibagikan kepada publik dan digunakan kembali melalui lisensi terbuka seperti Creative Commons (untuk materi ekspresif) atau Lisensi Publik Mozilla (untuk kode perangkat lunak).  Dalam sebagian besar kasus, kami meminta kontributor Mozilla untuk merilis Konten di bawah lisensi terbuka. 
+Konten yang ditulis oleh Mozilla umumnya tersedia untuk dibagikan kepada publik dan digunakan kembali melalui lisensi terbuka seperti Creative Commons (untuk materi ekspresif) atau Lisensi Publik Mozilla (untuk kode perangkat lunak). Dalam sebagian besar kasus, kami meminta kontributor Mozilla untuk merilis Konten di bawah lisensi terbuka. 
 
-Beberapa Konten dalam Komunikasi kami diperoleh dari sumber yang melarang penggunaan Konten mereka lebih lanjut tanpa izin terlebih dahulu.  Jika memungkinkan, footer Konten atau Situs Web akan menampilkan pemberitahuan dengan lisensi yang berlaku. Anda setuju untuk mematuhi pemberitahuan tersebut.  Perhatikan beberapa info spesifik berikut ini:
+Beberapa Konten dalam Komunikasi kami diperoleh dari sumber yang melarang penggunaan Konten mereka lebih lanjut tanpa izin terlebih dahulu. Jika memungkinkan, footer Konten atau Situs Web akan menampilkan pemberitahuan dengan lisensi yang berlaku. Anda setuju untuk mematuhi pemberitahuan tersebut. Perhatikan beberapa info spesifik berikut ini:
 
-* Beberapa Konten secara tegas menunjukkan bahwa penulis tidak bermaksud untuk menerapkan lisensi terbuka.  Anda harus menghubungi penulis atau agen penulis untuk mendapatkan izin menggunakan Konten tersebut.  Pertanyaan tentang konten buatan Mozilla dapat dikirim ke: License@mozilla.org.
-* Beberapa Konten memuat merek dagang, tampilan dagang, logo, dan aset merek Mozilla dan pihak lain (“Merek Dagang”).  Kecuali untuk beberapa keadaan tertentu, Merek Dagang tidak dapat digunakan tanpa izin tertulis terlebih dahulu dari pemilik Merek Dagang tersebut.  [Pelajari lebih lanjut tentang merek dagang Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Perangkat lunak yang digunakan oleh Situs Web kami dilisensikan berdasarkan MPL atau lisensi sumber terbuka yang serupa.  Untuk informasi selengkapnya tentang lisensi spesifik, silakan lihat kode sumber yang berlaku atau repositori GitHub. 
+* Beberapa Konten secara tegas menunjukkan bahwa penulis tidak bermaksud untuk menerapkan lisensi terbuka. Anda harus menghubungi penulis atau agen penulis untuk mendapatkan izin menggunakan Konten tersebut. Pertanyaan tentang konten buatan Mozilla dapat dikirim ke: License@mozilla.org.
+* Beberapa Konten memuat merek dagang, tampilan dagang, logo, dan aset merek Mozilla dan pihak lain (“Merek Dagang”). Kecuali untuk beberapa keadaan tertentu, Merek Dagang tidak dapat digunakan tanpa izin tertulis terlebih dahulu dari pemilik Merek Dagang tersebut. [Pelajari lebih lanjut tentang merek dagang Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Perangkat lunak yang digunakan oleh Situs Web kami dilisensikan berdasarkan MPL atau lisensi sumber terbuka yang serupa. Untuk informasi selengkapnya tentang lisensi spesifik, silakan lihat kode sumber yang berlaku atau repositori GitHub. 
 
 
 #### 4\. Pengiriman Konten
@@ -60,7 +60,7 @@ Untuk semua Kiriman lainnya, Anda menyetujui hal berikut sehubungan dengan masin
 
 Jika Anda berlangganan untuk menerima buletin kami atau mendaftar akun yang terkait dengan Situs Web kami apa pun, Anda mungkin menerima email transaksi dari kami sehubungan dengan akun Anda (misalnya, pemberitahuan hukum, privasi, dan keamanan).
 
-Beberapa Situs Web kami memiliki fitur online yang memungkinkan Anda mengirim email ke orang lain. Misalnya, Anda dapat mengundang kontak Anda ke acara di Mozillians.  Anda setuju untuk tidak menyalahgunakan alamat email orang lain (misalnya, dengan mengirimkan spam kepada mereka). 
+Beberapa Situs Web kami memiliki fitur online yang memungkinkan Anda mengirim email ke orang lain. Misalnya, Anda dapat mengundang kontak Anda ke acara di Mozillians. Anda setuju untuk tidak menyalahgunakan alamat email orang lain (misalnya, dengan mengirimkan spam kepada mereka). 
 
 Situs Web lain, seperti MozReps, menyediakan fitur yang memungkinkan pengguna mengatur acara fisik untuk dihadiri siapa saja. Harap berhati-hati dan bijaksana saat menghadiri acara.
 
@@ -83,7 +83,7 @@ Dalam semua kasus tersebut, Ketentuan ini akan menghentikan, kecuali bagian beri
 Anda setuju untuk membela, mengganti rugi, dan membebaskan Mozilla, kontraktor, kontributor, pemberi lisensi, dan mitranya; serta masing-masing direktur, pejabat, karyawan, dan agennya ("Pihak Penerima Ganti Rugi") dari dan atas setiap dan semua klaim dan biaya pihak ketiga, termasuk biaya pengacara, yang timbul dari atau terkait dengan penggunaan Anda atau Komunikasi kami (termasuk, tetapi tidak terbatas pada, yang timbul dari Kiriman Anda atau dari pelanggaran Anda terhadap Ketentuan ini).
 
 
-#### 10\.  Sangkalan; Batasan Kewajiban
+#### 10\. Sangkalan; Batasan Kewajiban
 
 KOMUNIKASI INI DISEDIAKAN "APA ADANYA" DENGAN SEGALA KEKURANGAN. SEJAUH YANG DIIZINKAN OLEH UNDANG-UNDANG, MOZILLA DAN PARA PIHAK PENERIMA GANTI RUGI DENGAN INI MENYANGKAL SEMUA JAMINAN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TANPA TERBATAS PADA JAMINAN BAHWA LAYANAN INI BEBAS DARI CACAT, DAPAT DIPERDAGANGKAN, SESUAI UNTUK TUJUAN TERTENTU, DAN TIDAK MELANGGAR. ANDA MENANGGUNG SEMUA RISIKO SEHUBUNGAN DENGAN PENGGUNAAN KOMUNIKASI UNTUK TUJUAN ANDA DAN SEHUBUNGAN DENGAN KUALITAS DAN KINERJA KOMUNIKASI, TERMASUK TANPA TERBATAS PADA RISIKO BAHWA PERANGKAT KERAS, PERANGKAT LUNAK, ATAU KONTEN ANDA DIHAPUS ATAU RUSAK, BAHWA ORANG LAIN MENDAPATKAN AKSES YANG TIDAK SAH KE INFOMRASI ANDA, ATAU PENYALAHGUNAAN LAIN YANG DILAKUKAN PENGGUNA ATAU KETIDAKSESUAIAN KIRIMAN ANDA. BATASAN INI AKAN BERLAKU MESKIPUN ADA KEGAGALAN TUJUAN UTAMA DARI SETIAP PENYELESAIAN. BEBERAPA YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN JAMINAN TERSIRAT, SEHINGGA SANGKALAN INI MUNGKIN TIDAK BERLAKU UNTUK ANDA.
 
