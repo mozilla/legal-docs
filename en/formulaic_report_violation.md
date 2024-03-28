@@ -7,15 +7,15 @@ Last Updated March 27, 2024
 
 All Formulas published on Formulaic must meet the guidelines stated in our content policies. If you believe a Formula violates one or more guidelines, you can report it and one of our moderators will review it. We take all moderation requests seriously.
 
-## How to report a content violation
+### How to report a content violation
 
 Navigate to the Run screen for Formula that you believe is in violation. You can easily reach the Run screen by clicking the Use Formula button that appears at the bottom left of every Formula card.
 
-### Formula Run Screen: copy the page URL
+#### Formula Run Screen: copy the page URL
 
 Once on the Run screen for the Formula you wish to report, copy the page URL from the browser URL bar.
 
-### Email our content moderation team
+#### Email our content moderation team
 
 Send an email to our content moderation team at [formulaic_violations@mozilla.com](mailto:formulaic_violations@mozilla.com).
 
@@ -26,7 +26,7 @@ Include in your email:
 * Any other information or context you would like us to consider
 * The specific policy you believe this Formula violates. You can view all content policies here.
 
-# Reporters: What you can expect after reporting a violation
+### Reporters: What you can expect after reporting a violation
 
 Our moderation team will review your content violation report and make a decision. If we deem that the reported Formula is in violation, we will unpublish it from the Formulaic website and notify the publisher. The Formula publisher has six months in which to appeal our decision.
 
@@ -34,7 +34,7 @@ We will notify you of our content decision at the same email address that you us
 
 Depending on the severity of a violation, we may take further action against the Formula publisher, including terminating their Formulaic account.
 
-# Publishers: What you can expect if your Formula is flagged for review
+### Publishers: What you can expect if your Formula is flagged for review
 
 All Formulaic users are bound by our terms of service and our content policies. If your Formula is flagged for review and our moderators decide that your Formula does not meet our guidelines, we will unpublish it from the public website. We will then notify you via email that you are in violation of the content policies.
 
