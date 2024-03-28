@@ -28,8 +28,8 @@ Geralmente, o conteúdo criado pela Mozilla é disponibilizado para compartilham
 
 Determinados Conteúdos em nossas Comunicações são adquiridos de fontes que proíbem qualquer outro uso de seus Conteúdos sem autorização prévia. Sempre que possível, o rodapé do Conteúdo ou Site exibirá um aviso com a licença aplicável. Você concorda em cumprir esses avisos. Observe os pontos específicos a seguir:
 
-* Alguns Conteúdos indicam expressamente que o autor não deseja que uma licença aberta seja aplicável.  Você deve entrar em contato com o autor ou com o representante do autor para obter autorização para utilizar tal Conteúdo. Perguntas sobre conteúdos criados pela Mozilla podem ser enviadas para: licensing@mozilla.org.
-* Determinados Conteúdos contêm marcas registradas, apresentações comerciais, logotipos e propriedades de marca da Mozilla e de terceiros (“Marcas Registradas”). Salvo em circunstâncias específicas, as Marcas Registradas não poderão ser utilizadas sem autorização prévia, por escrito, do detentor da Marca Registrada.  [Saiba mais sobre as marcas registradas da Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Alguns Conteúdos indicam expressamente que o autor não deseja que uma licença aberta seja aplicável. Você deve entrar em contato com o autor ou com o representante do autor para obter autorização para utilizar tal Conteúdo. Perguntas sobre conteúdos criados pela Mozilla podem ser enviadas para: licensing@mozilla.org.
+* Determinados Conteúdos contêm marcas registradas, apresentações comerciais, logotipos e propriedades de marca da Mozilla e de terceiros (“Marcas Registradas”). Salvo em circunstâncias específicas, as Marcas Registradas não poderão ser utilizadas sem autorização prévia, por escrito, do detentor da Marca Registrada. [Saiba mais sobre as marcas registradas da Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
 * Os softwares usados por nossos Sites são licenciados nos termos da MPL ou de licenças de código aberto com permissão semelhante. Para obter mais informações sobre uma licença específica, consulte o código fonte ou repositório GitHub aplicável.
 
 

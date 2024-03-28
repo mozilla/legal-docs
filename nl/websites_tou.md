@@ -22,15 +22,15 @@ Bij sommige Websites hebt u de mogelijkheid om tijdens de registratie een gebrui
 
 #### 3\. In licentie geven van Content
 
-Onze Communicaties omvatten content, zoals artikelen, afbeeldingen, foto's, commentaren, softwarecode, audio- en videoclips en andere materialen (gezamenlijk aangeduid als Content).  Content wordt geschreven door Mozilla, bijdragers aan Mozilla- projecten en andere bronnen. 
+Onze Communicaties omvatten content, zoals artikelen, afbeeldingen, foto's, commentaren, softwarecode, audio- en videoclips en andere materialen (gezamenlijk aangeduid als Content). Content wordt geschreven door Mozilla, bijdragers aan Mozilla- projecten en andere bronnen. 
 
-Content geschreven door Mozilla wordt over het algemeen beschikbaar gesteld voor openbaar delen en hergebruik via open licenties, zoals Creative Commons (voor expressief materiaal) of de Mozilla Public License (voor softwarecode).  In de meeste gevallen vragen Mozilla-bijdragers om Content vrij te geven onder open licenties. 
+Content geschreven door Mozilla wordt over het algemeen beschikbaar gesteld voor openbaar delen en hergebruik via open licenties, zoals Creative Commons (voor expressief materiaal) of de Mozilla Public License (voor softwarecode). In de meeste gevallen vragen Mozilla-bijdragers om Content vrij te geven onder open licenties. 
 
-Sommige Content in onze Communicaties is afkomstig van bronnen die verder gebruik van hun Content zonder voorafgaande toestemming verbieden.  Waar mogelijk wordt in de Content of Website-voettekst een kennisgeving weergegeven met de toepasselijke licentie. U stemt ermee zich aan dergelijke kennisgevingen te houden.  Houd rekening met de volgende specifieke zaken:
+Sommige Content in onze Communicaties is afkomstig van bronnen die verder gebruik van hun Content zonder voorafgaande toestemming verbieden. Waar mogelijk wordt in de Content of Website-voettekst een kennisgeving weergegeven met de toepasselijke licentie. U stemt ermee zich aan dergelijke kennisgevingen te houden. Houd rekening met de volgende specifieke zaken:
 
-* Sommige Content geeft nadrukkelijk aan dat de auteur deze niet heeft bedoeld voor een open licentie.  U moet in dat geval contact opnemen met de auteur of de vertegenwoordiger van de auteur en om toestemming vragen om dergelijke Content te gebruiken.  Vragen over door Mozilla geschreven content kunnen worden gestuurd naar: licensing@mozilla.org.
-* Sommige Content bevat handelsmerken, elementen voor handelsaankleding, logo's en merken van Mozilla en andere partijen (Handelsmerken).  Met uitzondering van onder enkele beperkte omstandigheden, mogen Handelsmerken niet worden gebruikt zonder voorafgaande schriftelijke toestemming van de eigenaar van het handelsmerk.  [Meer informatie over Mozilla-handelsmerken.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software gebruikt door onze Websites wordt in licentie gegeven onder een MPL of vergelijkbare toelatende open source-licenties.  Zie de toepasselijke broncode of het toepasselijke GitHub-archief voor meer informatie over de specifieke licentie. 
+* Sommige Content geeft nadrukkelijk aan dat de auteur deze niet heeft bedoeld voor een open licentie. U moet in dat geval contact opnemen met de auteur of de vertegenwoordiger van de auteur en om toestemming vragen om dergelijke Content te gebruiken. Vragen over door Mozilla geschreven content kunnen worden gestuurd naar: licensing@mozilla.org.
+* Sommige Content bevat handelsmerken, elementen voor handelsaankleding, logo's en merken van Mozilla en andere partijen (Handelsmerken). Met uitzondering van onder enkele beperkte omstandigheden, mogen Handelsmerken niet worden gebruikt zonder voorafgaande schriftelijke toestemming van de eigenaar van het handelsmerk. [Meer informatie over Mozilla-handelsmerken.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Software gebruikt door onze Websites wordt in licentie gegeven onder een MPL of vergelijkbare toelatende open source-licenties. Zie de toepasselijke broncode of het toepasselijke GitHub-archief voor meer informatie over de specifieke licentie. 
 
 
 #### 4\. Indieningen van content
@@ -60,7 +60,7 @@ De [Privacyverklaring voor Websites, Communicaties en Cookies van Mozilla](https
 
 Als u zich abonneert op onze nieuwsbrief of als u zich registreert voor een account in verband met welke van onze Websites dan ook, ontvangt u mogelijk transactionele e-mails van ons die betrekking hebben op uw account (zoals op juridische zaken, privacy en beveiligingsupdates).
 
-Sommige van onze Websites hebben online tools waarmee u e-mails naar anderen kunt verzenden. U kunt uw contactpersonen bijvoorbeeld uitnodigen voor evenementen op Mozillians.  U stemt ermee in om e-mailadressen van anderen niet te misbruiken (bijvoorbeeld door hen spam te sturen). 
+Sommige van onze Websites hebben online tools waarmee u e-mails naar anderen kunt verzenden. U kunt uw contactpersonen bijvoorbeeld uitnodigen voor evenementen op Mozillians. U stemt ermee in om e-mailadressen van anderen niet te misbruiken (bijvoorbeeld door hen spam te sturen). 
 
 Andere Websites, zoals MozReps, bieden tools waarmee gebruikers fysieke evenementen kunnen organiseren die iedereen kan bijwonen. Wees voorzichtig en gebruik uw gezonde verstand wanneer u evenementen bijwoont.
 
@@ -83,7 +83,7 @@ In al dergelijke gevallen zullen deze Voorwaarden worden beëindigd, met uitzond
 U stemt ermee in Mozilla, zijn aannemers, bijdragers, licentiegevers en partners en hun respectieve directeuren, functionarissen, werknemers en agenten (Gevrijwaarde partijen) te verdedigen en te vrijwaren tegen, en schadeloos te stellen voor elke en alle vorderingen en aanspraken van derden, waaronder advocaatkosten, die betrekking hebben op uw gebruik van of die voortvloeien uit onze Communicaties (waaronder, maar niet beperkt tot uit uw Indieningen of uit uw schending van welke van deze Voorwaarden dan ook).
 
 
-#### 10\.  Disclaimer; Beperking van aansprakelijkheid
+#### 10\. Disclaimer; Beperking van aansprakelijkheid
 
 DE COMMUNICATIES WORDEN 'IN DE HUIDIGE VORM EN STAAT' GEBODEN MET ALLE GEBREKEN. VOOR ZOVER MAXIMAAL WETTELIJK IS TOEGESTAAN, WIJZEN MOZILLA EN DE GEVRIJWAARDE PARTIJEN HIERBIJ ALLE GARANTIES, ONGEACHT OF DEZE NADRUKKELIJK OF IMPLICIET ZIJN, VAN DE HAND, WAARONDER, MAAR NIET BEPERKT TOT, GARANTIES DAT DE COMMUNICATIES VRIJ ZIJN VAN MANKEMENTEN, GARANTIES MET BETREKKING TOT VERHANDELBAAHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN DAT ER GEEN INBREUK WORDT GEMAAKT. U DRAAGT HET VOLLEDIGE RISICO MET BETREKKING TOT HET GEBRUIK VAN DE COMMUNICATIES VOOR UW DOELEINDEN EN DE KWALITEIT EN PRESTATIES VAN DE COMMUNICATUES, WAARONDER, MAAR NIET BEPERKT TOT, HET RISICO DAT UW HARDWARE, SOFTWARE OF CONTENT WORDT VERWIJDERD OF BESCHADIGD RAAKT, DAT IEMAND ANDERS TOEGANG VERKRIJGT TOT UW INFORMATIE OF DAT EEN ANDERE GEBRUIKER UW INDIENING MISBRUIKT OF VERKEERD GEBRUIKT. DEZE BEPERKING BLIJFT ONVERMINDERD VAN KRACHT NIETTEGENSTAANDE HET FALEN VAN WELKE VERHAALSMOGELIJKHEID DAN OOK IN HAAR WEZENLIJKE DOEL. IN SOMMIGE RECHTSGEBIEDEN IS UITSLUITING OF BEPERKING VAN IMPLICIETE GARANCTIES NIET TOEGESTAAN. HET KAN DUS ZIJN DAT DEZE DISCLAIMER NIET OP U VAN TOEPASSING IS.
 
