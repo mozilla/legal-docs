@@ -28,7 +28,7 @@ A Mozilla által hozzáférhetővé tett tartalmak rendszerint a közösségi me
 
 A Közleményinkben szereplő tartalmak egy része olyan forrásokból származik, amelyek előzetes engedély hiányában tiltják Tartalmaik további használatát. Ahol erre mód van, a Tartalomban vagy a Webhely láblécében megjelenítjük a vonatkozó licencet. Ön elfogadja, hogy az ilyen értesítések Önre nézve kötelező érvényűek. Ne feledje a következő speciális rendelkezéseket:
 
-* Némely tartalom kifejezetten jelzi, hogy a szerzőnek nem áll szándékában nyitott licencet alkalmazni.  Az ilyen tartalmak használatához vegye fel a kapcsolatot a szerzővel vagy annak képviselőjével. A Mozilla által engedélyezett tartalom esetén kérdésit ide címezze: licensing@mozilla.org.
+* Némely tartalom kifejezetten jelzi, hogy a szerzőnek nem áll szándékában nyitott licencet alkalmazni. Az ilyen tartalmak használatához vegye fel a kapcsolatot a szerzővel vagy annak képviselőjével. A Mozilla által engedélyezett tartalom esetén kérdésit ide címezze: licensing@mozilla.org.
 * Bizonyos Tartalmak a Mozilla és harmadik felek tulajdonát képező védjegyeket, kereskedelmi arculatot, logókat és márkaeszközöket tartalmaznak („Védjegyek”). Pár korlátozott eset kivételével a Védjegyeket tilos felhasználni a Védjegy tulajdonosának előzetes írásbeli hozzájárulása nélkül.  [További információk a Mozilla védjegyeiről.](https://www.mozilla.org/foundation/trademarks/policy/)
 * A Webhelyeink által használt szoftvereket az MPL vagy valamely hasonlóan megengedő nyílt forrású licenc alapján használjuk. Konkrét licencekkel kapcsolatban az adott forráskódtár vagy GitHub-tár nyújt további információt.
 
