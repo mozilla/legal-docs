@@ -43,7 +43,7 @@ Für Einreichungen bei Open-Source-Projekten von Mozilla:
 
 Für alle Einreichungen stimmen Sie den folgenden Punkten in Verbindung mit jeder Einreichung zu:
 
-* Sie sagen zu, dass Ihre Einreichung diesen Bedingungen, den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla und allen sonstigen Bedingungen entsprechen wird, die für Ihre Einreichung gelten.
+* Sie sagen zu, dass Ihre Einreichung den vorliegenden Bedingungen, der [Nutzungsrichtlinie](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla und jeglichen sonstigen Bedingungen entsprechen wird, die für Ihre Einreichung gelten.
 * Sie erteilen uns hiermit eine nicht ausschließliche, tantiemenfreie, weltweite und unterlizenzierbare (für die Partner, mit denen wir arbeiten) Lizenz zur Nutzung Ihrer Einreichung in Verbindung mit der Kommunikation und Online- wie Offline-Förderung der Mission, Produkte und Services von Mozilla.
 * Sie bestätigen, dass Ihre Einreichungen für andere registrierte Nutzer des jeweiligen Service bzw. die Öffentlichkeit zugänglich gemacht werden können.
 * Enthält Ihre Einreichung aussagekräftiges Material oder Softwarecode, stimmen Sie zu, sie auf eine Weise zu lizenzieren, die mit der jeweiligen Website kompatibel ist, auf der die Einreichung stattfindet.

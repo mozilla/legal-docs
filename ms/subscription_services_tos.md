@@ -105,7 +105,7 @@ Anda setuju dan meyakinkan Mozilla bahawa:
 * Semua maklumat yang anda sediakan adalah tepat dan benar;
 * Anda tidak akan menggunakan atau menyediakan sebarang maklumat yang palsu, menipu atau tidak tepat; 
 * Anda tidak akan menyamar sebagai sesiapa atau menyalahgambarkan identiti anda atau gabungan anda dengan mana-mana orang;
-* Penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat-syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/)Mozilla.
+* Penggunaan Perkhidmatan oleh anda akan mematuhi [Dasar Penggunaan Boleh Diterima](https://www.mozilla.org/about/legal/acceptable-use/)Mozilla.
 * Anda tidak akan menggunakan Perkhidmatan untuk melanggar hak sesiapa atau melanggar sebarang undang-undang.
 
 Sila ambil perhatian bahawa masa mungkin diambil sehingga 2 bulan mulai penerimaan maklumat lengkap yang diperlukan oleh kami untuk menyediakan Perkhidmatan bagi permintaan pilihan keluar untuk ditangani oleh Tapak Broker Data.

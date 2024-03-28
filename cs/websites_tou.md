@@ -43,7 +43,7 @@ Pro Příspěvky do open source projektů společnosti Mozilla:
 
 Pro všechny ostatní Příspěvky souhlasíte v souvislosti s každým z nich s následujícím:
 
-* Prohlašujete a zaručujete se, že Příspěvek bude v souladu s těmito Podmínkami, [Podmínkami používání](https://www.mozilla.org/about/legal/acceptable-use/) a veškerými dalšími podmínkami, kterými se Příspěvek řídí.
+* Prohlašujete a zaručujete, že Příspěvek bude v souladu s těmito Podmínkami, [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla a veškerými případnými doplňujícími podmínkami, které se na váš Příspěvek budou vztahovat.
 * Tímto nám udílíte nevýhradní, bezplatnou, celosvětovou, sublicencovatelnou (těm, se kterými spolupracujeme) licenci k používání Příspěvku v souvislosti se Sděleními a online a offline propagací mise, produktů a služeb společnosti Mozilla.
 * Berete na vědomí, že k vašim Příspěvkům mohou mít přístup ostatní registrovaní uživatelé příslušné služby nebo veřejnost.
 * Pokud váš Příspěvek obsahuje obsahový materiál nebo kód softwaru, zavazujete se poskytnout k němu licenci způsobem, který je v souladu s konkrétní Webovou stránkou, na niž Příspěvek přidáváte.

@@ -43,7 +43,7 @@ Pour les soumissions aux projets Mozilla open source :
 
 Pour toute autre soumission, vous acceptez ce qui suit en relation avec chaque :
 
-* Vous indiquez et garantissez que votre Soumission sera conforme aux présentes Conditions, aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla et à toutes les conditions supplémentaires pouvant gouverner votre Soumission.
+* Vous indiquez et garantissez que votre Soumission sera conforme aux présentes Conditions, aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla et à toutes les conditions supplémentaires pouvant régir votre Soumission.
 * Vous nous octroyez par les suivantes une licence non exclusive, sans redevance, mondiale, et pouvant faire l’objet d’une sous-licence (aux entités avec lesquelles nous travaillons) d’utiliser votre Soumission en rapport avec les Communications et pour les promotions en ligne et hors ligne de la mission, des produits et services de Mozilla.
 * Vous reconnaissez que vos Soumissions peuvent être accessibles par d’autres utilisateurs inscrits du service applicable ou par le public.
 * Si votre Soumission contient du matériel expressif ou des codes logiciels, vous acceptez d’octroyer une licence à leur propos d’une façon qui soit compatible avec le site Web concerné sur lequel vous effectuez une Soumission.

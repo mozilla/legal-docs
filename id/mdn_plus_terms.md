@@ -22,7 +22,7 @@ Mozilla adalah sebuah perusahaan global dan komputer kami dan komputer penyedia 
 __Penggunaan Layanan Anda.__ Mozilla mengizinkan Anda untuk menggunakan Layanan MDN Plus sesuai dengan Ketentuan Layanan ini. Izin ini hanya untuk penggunaan pribadi. Anda tidak boleh mentransfer, mensublisensi, menjual kembali, atau memanfaatkan layanan secara komersial.
 
 Anda memberi Mozilla semua hak yang diperlukan untuk menjalankan Layanan, termasuk pemrosesan data yang Anda unggah atau akses melalui Layanan termasuk semua catatan yang Anda buat atau kontribusi pada situs web. Ini juga mencakup hak untuk mengirim notifikasi dan memproses serta menyimpan informasi Anda seperti halaman dan label tersimpan. Anda bisa mendapatkan informasi selengkapnya tentang data yang diproses Mozilla dalam [Pemberitahuan Privasi MDN Plus](https://www.mozilla.org/privacy/mdn-plus/).
-Anda juga setuju bahwa penggunaan Layanan Anda akan tunduk pada [Syarat Penggunaan Mozilla](https://www.mozilla.org/about/legal/acceptable-use/). Anda sepenuhnya bertanggung jawab atas konten yang Anda kirim dan konsekuensinya.
+Anda juga setuju bahwa penggunaan Anda atas Layanan ini akan mematuhi [Kebijakan Penggunaan yang Dapat Diterima](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Anda sepenuhnya bertanggung jawab atas konten yang Anda kirim dan konsekuensinya.
 
 __Masukan dan Saran Anda.__ Jika Anda memberi ide, saran, atau masukan apa pun kepada Mozilla terkait MDN Plus atau layanan yang Anda gunakan dengan MDN Plus, berarti Anda mengizinkan Mozilla untuk menggunakannya secara bebas dan tanpa tanggung jawab tambahan.
 

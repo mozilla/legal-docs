@@ -43,7 +43,7 @@ Para Aportaciones a proyectos de código fuente de Mozilla:
 
 Para todas las Aportaciones, acepta lo siguiente en relación con cada una de ellas:
 
-* Asegura y garantiza que su Aportación cumplirá las presentes Condiciones, las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla y cualquier otra disposición adicional que pueda regir su Aportación.
+* Usted asegura y garantiza que su Aportación cumplirá las presentes Condiciones, la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla y cualquier otra disposición adicional que pueda regir su Aportación.
 * Mediante el presente, usted nos otorga una licencia no exclusiva exenta de derechos, de ámbito internacional y transferible como sublicencia (a nuestros colaboradores) mediante la que podemos emplear su Aportación en relación con los Mensajes y la promoción, tanto en línea como sin conexión, de la misión, los productos y los servicios de Mozilla.
 * Usted es consciente de que sus Aportaciones estarán a disposición de otros usuarios registrados del servicio aplicable o del público.
 * Si su Aportación contiene material expreso o código fuente del software, acepta conceder la licencia sobre el mismo en consonancia con el Sitio web concreto en el que realiza la Aportación.

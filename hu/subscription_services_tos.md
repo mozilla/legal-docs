@@ -105,7 +105,7 @@ __A Monitor használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a 
 * Minden Ön által megadott információ pontos és valós;
 * Nem használ fel és nem ad meg csalárd, félrevezető vagy pontatlan információkat; 
 * Ön nem adja ki magát másnak, és nem adja meg hamisan a személyazonosságát vagy egy személyhez fűződő kapcsolatát;
-* A Szolgáltatás használata megfelel a Mozilla [felhasználási feltételeinek](https://www.mozilla.org/about/legal/acceptable-use/).
+* A Szolgáltatás használata megfelel a Mozilla [elfogadható használatra vonatkozó szabályzatának](https://www.mozilla.org/about/legal/acceptable-use/).
 * Nem használja a Szolgáltatásokat mások jogainak vagy a jogszabályok megsértésére.
 
 Tartsa szem előtt, hogy akár 2 hónapig is eltarthat attól számítva, hogy megkaptuk a Szolgáltatások biztosításához szükséges teljes körű információkat ahhoz, hogy az adatközvetítő-webhelyek kezeljék a leiratkozási kérelmeket.

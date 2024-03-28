@@ -1,4 +1,4 @@
-# Nutzungsbedingungen
+# Nutzungsrichtlinie
 
 Die Services von Mozilla dürfen nicht zu folgenden Zwecken verwendet werden:
 

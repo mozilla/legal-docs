@@ -105,7 +105,7 @@ Souhlasíte a ujišťujete společnost Mozilla, že:
 * veškeré vámi poskytnuté informace jsou přesné a pravdivé,
 * nebudete používat ani poskytovat žádné podvodné, zavádějící nebo nepřesné informace; 
 * nebudete vystupovat jako jakákoliv jiná osoba ani nebudete chybně interpretovat vaši identitu nebo vaše spojení s jakoukoliv osobou;
-* vaše používání Služeb bude v souladu s [Podmínkami používání společnosti Mozilla](https://www.mozilla.org/about/legal/acceptable-use/);
+* Vaše používání Služeb bude v souladu se [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla.
 * nebudete využívat v rozporu s právem jakýchkoliv osob nebo v rozporu s jakýmikoliv právními předpisy.
 
 Dovolujeme si upozornit, že zahájení poskytování Služeb může trvat až 2 měsíce od chvíle, kdy nám poskytnete informace potřebné pro zaslání žádostí o zrušení registrací a jejich zpracování Stránkami zprostředkovatelů údajů.

@@ -22,7 +22,7 @@ Společnost Mozilla je globální organizací a naše počítače a počítače 
 __Vaše využívání Služeb.__ Společnost Mozilla vám poskytuje oprávnění využívat Služby MDN Plus v souladu s těmito Podmínkami poskytování služeb. Toto oprávnění slouží pouze k osobnímu využití. Služby nesmíte převádět, udílet k nim podlicenci, dále je prodávat ani komerčně využívat.
 
 Společnosti Mozilla udílíte veškerá práva nezbytná pro provozování Služeb, včetně zpracovávání dat, která nahrajete do Služeb nebo k nimž prostřednictvím Služeb přistupujete, a to včetně všech poznámek, které uděláte, nebo příspěvků zveřejněných na webových stránkách. To zahrnuje rovněž právo zasílat vám oznámení a zpracovávat a uchovávat vaše údaje, jako jsou uložené stránky a štítky. Podrobnější informace o tom, jak společnost Mozilla zpracovává údaje, najdete v [Oznámení o ochraně osobních údajů MDN Plus](https://www.mozilla.org/privacy/mdn-plus/).
-Rovněž souhlasíte, že vaše využívání Služeb bude v souladu s [Podmínkami používání společnosti Mozilla](https://www.mozilla.org/about/legal/acceptable-use/). Nesete výhradní odpovědnost za obsah, který přenášíte, a za důsledky.
+Rovněž souhlasíte, že vaše využívání Služeb bude v souladu se [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla. Nesete výhradní odpovědnost za obsah, který přenášíte, a za příslušné důsledky.
 
 __Vaše zpětná vazba a návrhy.__ Pokud společnosti Mozilla předložíte jakékoliv nápady, návrhy nebo zpětnou vazbu ohledně MDN Plus nebo služeb, které v rámci MDN Plus využíváte, udílíte společnosti Mozilla oprávnění tyto informace využívat bezplatně a bez jakýchkoliv dalších závazků.
 

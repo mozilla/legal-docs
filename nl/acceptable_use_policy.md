@@ -1,4 +1,4 @@
-# Gebruiksvoorwaarden
+# Beleid voor aanvaardbaar gebruik
 
 Het is niet toegestaan om services van Mozilla te gebruiken voor het volgende:
 

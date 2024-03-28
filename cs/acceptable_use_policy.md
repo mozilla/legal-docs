@@ -1,4 +1,4 @@
-# Podmínky používání
+# Zásady přijatelného používání
 
 Služby společnosti Mozilla nesmíte používat k:
 
