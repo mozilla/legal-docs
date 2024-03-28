@@ -1,4 +1,4 @@
-# Report a Violation
+# Report a Violation on Formulaic
 
 Last Updated March 27, 2024
 {: datetime="2024-03-27" }
@@ -36,7 +36,7 @@ Depending on the severity of a violation, we may take further action against the
 
 ### Publishers: What you can expect if your Formula is flagged for review
 
-All Formulaic users are bound by our terms of service and our content policies. If your Formula is flagged for review and our moderators decide that your Formula does not meet our guidelines, we will unpublish it from the public website. We will then notify you via email that you are in violation of the content policies.
+All Formulaic users are bound by our terms of service and our content policies. If your Formula is flagged for review and our moderators decide that your Formula does not meet our guidelines, we will remove it from the public website. We will then notify you via email that you are in violation of the content policies.
 
 ## Appeals process
 
