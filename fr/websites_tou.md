@@ -28,7 +28,7 @@ Le contenu créé par Mozilla est en général mis à la disposition du public e
 
 Certains Contenus de nos Communications sont acquis auprès de sources qui interdisent l’utilisation du Contenu sans une autorisation préalable. Lorsque cela est possible, le bas de page du Contenu ou du Site Web affiche un avis avec la licence applicable. Vous acceptez de vous conformer à ces avis. Veuillez noter ce qui suit :
 
-* Certains Contenus indiquent expressément que l’auteur ne souhaite pas qu’une licence ouverte soit applicable.  Vous devez contacter l’auteur ou l’agent de l’auteur pour obtenir la permission d’utiliser ce Contenu. Les questions à propos du contenu créé par Mozilla doivent être envoyées à : licensing@mozilla.org.
+* Certains Contenus indiquent expressément que l’auteur ne souhaite pas qu’une licence ouverte soit applicable. Vous devez contacter l’auteur ou l’agent de l’auteur pour obtenir la permission d’utiliser ce Contenu. Les questions à propos du contenu créé par Mozilla doivent être envoyées à : licensing@mozilla.org.
 * Certains contenus contiennent des marques de commerce, emballages, logos et actifs de la marque de Mozilla et d’autres parties (« Marques de commerce »). Sauf dans certains cas limités, les Marques de commerce ne peuvent pas être utilisées sans une autorisation préalable écrite du propriétaire de la Marque de commerce.  [En savoir plus sur les marques de commerce de Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
 * Les logiciels utilisés par nos Sites Web sont fournis sous licence MPL ou autres licences open source libres. Pour plus d'informations sur une licence spécifique, veuillez consulter le code source applicable ou l'entrepôt GitHub.
 
@@ -43,7 +43,7 @@ Pour les soumissions aux projets Mozilla open source :
 
 Pour toute autre soumission, vous acceptez ce qui suit en relation avec chaque :
 
-* Vous indiquez et garantissez que votre Soumission sera conforme aux présentes Conditions, aux [Conditions d’utilisation](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla et à toutes les conditions supplémentaires pouvant gouverner votre Soumission.
+* Vous indiquez et garantissez que votre Soumission sera conforme aux présentes Conditions, à la [Politique d’utilisation acceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla et à toutes les conditions supplémentaires pouvant régir votre Soumission.
 * Vous nous octroyez par les suivantes une licence non exclusive, sans redevance, mondiale, et pouvant faire l’objet d’une sous-licence (aux entités avec lesquelles nous travaillons) d’utiliser votre Soumission en rapport avec les Communications et pour les promotions en ligne et hors ligne de la mission, des produits et services de Mozilla.
 * Vous reconnaissez que vos Soumissions peuvent être accessibles par d’autres utilisateurs inscrits du service applicable ou par le public.
 * Si votre Soumission contient du matériel expressif ou des codes logiciels, vous acceptez d’octroyer une licence à leur propos d’une façon qui soit compatible avec le site Web concerné sur lequel vous effectuez une Soumission.

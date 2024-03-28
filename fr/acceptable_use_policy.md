@@ -1,4 +1,4 @@
-# Conditions d'utilisation
+# Politique d’utilisation acceptable
 
 Vous ne pouvez pas utiliser les services et produits de Mozilla dans les buts suivants :
 

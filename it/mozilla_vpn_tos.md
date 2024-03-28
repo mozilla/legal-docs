@@ -27,7 +27,7 @@ __Utilizzo del Servizio.__ Mozilla ti permette di usare il Servizio Mozilla VPN 
 
 Accetti di conferire a Mozilla e Mullvad tutti i diritti necessari per fornire il Servizio, incluso il trattamento dei dati che carichi sul Servizio o a cui accedi tramite esso. Puoi trovare ulteriori informazioni sui dati trattati da Mozilla e Mullvad nell'[Informativa sulla privacy](https://www.mozilla.org/privacy/mozilla-vpn/) di Mozilla VPN.
 
-Accetti inoltre di utilizzare il Servizio conformemente alle [Condizioni di utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla. La responsabilità dei contenuti trasmessi e delle relative conseguenze ricade unicamente su di te.
+Accetti inoltre di utilizzare i Servizi conformemente all'[Informativa sul corretto utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla. Sei responsabile in prima persona dei contenuti che trasmetti e delle conseguenze che ne derivano.
 
 __Limite di dispositivi.__ Un abbonamento attivo permette di connettere a Mozilla VPN un massimo di 5 dispositivi.
 

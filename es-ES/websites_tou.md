@@ -22,20 +22,20 @@ Algunos Sitios web le permitirán crear un nombre de usuario durante el registro
 
 #### 3\. Licencia sobre el contenido
 
-Nuestros Mensajes incluyen contenido como artículos, imágenes, fotografías, comentarios, código fuente del software, archivos de audio y vídeo, y otros materiales (en conjunto, "Contenido").  La titularidad del Contenido pertenece a Mozilla, los colaboradores de los proyectos de Mozilla y otras fuentes.
+Nuestros Mensajes incluyen contenido como artículos, imágenes, fotografías, comentarios, código fuente del software, archivos de audio y vídeo, y otros materiales (en conjunto, "Contenido"). La titularidad del Contenido pertenece a Mozilla, los colaboradores de los proyectos de Mozilla y otras fuentes.
 
-El Contenido que pertenece a Mozilla suele ponerse a disposición del público para su intercambio y reutilización mediante licencias libres como Creative Commons (para el material expreso) o la Licencia Pública de Mozilla (para el código fuente del software).  En la mayoría de los casos, solicitamos a los colaboradores de Mozilla que publiquen el Contenido bajo licencias libres.
+El Contenido que pertenece a Mozilla suele ponerse a disposición del público para su intercambio y reutilización mediante licencias libres como Creative Commons (para el material expreso) o la Licencia Pública de Mozilla (para el código fuente del software). En la mayoría de los casos, solicitamos a los colaboradores de Mozilla que publiquen el Contenido bajo licencias libres.
 
-Parte del Contenido de los Mensajes se adquiere de fuentes que prohíben el uso de su Contenido sin una autorización previa.  Cuando sea posible, el pie de página del Sitio web o el Contenido mostrará un aviso con la licencia pertinente. Usted acepta respetar dichos avisos.  Deben tenerse en cuenta los siguientes casos especiales:
+Parte del Contenido de los Mensajes se adquiere de fuentes que prohíben el uso de su Contenido sin una autorización previa. Cuando sea posible, el pie de página del Sitio web o el Contenido mostrará un aviso con la licencia pertinente. Usted acepta respetar dichos avisos. Deben tenerse en cuenta los siguientes casos especiales:
 
-* Parte del Contenido indica expresamente que el autor no dispone de ninguna licencia libre.  Debe ponerse en contacto con el autor o su agente y solicitar la autorización necesaria para utilizar dicho Contenido.  Las dudas sobre el Contenido que pertenece a Mozilla pueden enviarse a: licensing@mozilla.org.
-* Parte del Contenido incluye marcas comerciales, imágenes de marca, logotipos y activos de marcas de Mozilla y terceros (en adelante, "Marcas comerciales").  Excepto en determinadas circunstancias, las Marcas comerciales no pueden utilizarse sin una autorización previa por escrito del titular de la Marca comercial.  [Más información sobre las Marcas comerciales de Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Parte del Contenido indica expresamente que el autor no dispone de ninguna licencia libre. Debe ponerse en contacto con el autor o su agente y solicitar la autorización necesaria para utilizar dicho Contenido. Las dudas sobre el Contenido que pertenece a Mozilla pueden enviarse a: licensing@mozilla.org.
+* Parte del Contenido incluye marcas comerciales, imágenes de marca, logotipos y activos de marcas de Mozilla y terceros (en adelante, "Marcas comerciales"). Excepto en determinadas circunstancias, las Marcas comerciales no pueden utilizarse sin una autorización previa por escrito del titular de la Marca comercial. [Más información sobre las Marcas comerciales de Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
 * El software utilizado por nuestros sitios web dispone de una licencia MPL o licencias de código abierto de permisividad similar. Para obtener más información acerca de una licencia en concreto, consulte el código fuente o archivo GitHub correspondientes.
 
 
 #### 4\. Aportaciones de Contenido
 
-Puede aportar Contenido con interacciones relacionadas con nuestros Mensajes, que incluyen entre otros comentarios en artículos, publicaciones en blogs, códigos de participación, gráficas de participación y material escrito (cada uno, una "Aportación").  A menos que su Aportación se realice bajo un acuerdo por separado con Mozilla, en cuyo caso regirá ese acuerdo,...
+Puede aportar Contenido con interacciones relacionadas con nuestros Mensajes, que incluyen entre otros comentarios en artículos, publicaciones en blogs, códigos de participación, gráficas de participación y material escrito (cada uno, una "Aportación"). A menos que su Aportación se realice bajo un acuerdo por separado con Mozilla, en cuyo caso regirá ese acuerdo,...
 
 Para Aportaciones a proyectos de código fuente de Mozilla:
 
@@ -43,7 +43,7 @@ Para Aportaciones a proyectos de código fuente de Mozilla:
 
 Para todas las Aportaciones, acepta lo siguiente en relación con cada una de ellas:
 
-* Asegura y garantiza que su Aportación cumplirá las presentes Condiciones, las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla y cualquier otra disposición adicional que pueda regir su Aportación.
+* Usted asegura y garantiza que su Aportación cumplirá las presentes Condiciones, la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla y cualquier otra disposición adicional que pueda regir su Aportación.
 * Mediante el presente, usted nos otorga una licencia no exclusiva exenta de derechos, de ámbito internacional y transferible como sublicencia (a nuestros colaboradores) mediante la que podemos emplear su Aportación en relación con los Mensajes y la promoción, tanto en línea como sin conexión, de la misión, los productos y los servicios de Mozilla.
 * Usted es consciente de que sus Aportaciones estarán a disposición de otros usuarios registrados del servicio aplicable o del público.
 * Si su Aportación contiene material expreso o código fuente del software, acepta conceder la licencia sobre el mismo en consonancia con el Sitio web concreto en el que realiza la Aportación.
@@ -60,7 +60,7 @@ El [Aviso de privacidad de sitios web, mensajes y cookies de Mozilla](https://ww
 
 Si se suscribe para recibir nuestros boletines de noticias o crea una cuenta en alguno de nuestros Sitios web, puede recibir correo electrónico comercial asociado a esta cuenta (por ejemplo, actualizaciones en materia legal, de privacidad o de seguridad).
 
-Algunos Sitios web disponen de herramientas en línea que permiten enviar correos electrónicos. Por ejemplo, puede invitar a sus contactos a eventos desde su cuenta de Webmaker.  Acepta no usar de forma indebida las direcciones de correo electrónico de los demás (por ejemplo, para enviar correo no deseado).
+Algunos Sitios web disponen de herramientas en línea que permiten enviar correos electrónicos. Por ejemplo, puede invitar a sus contactos a eventos desde su cuenta de Webmaker. Acepta no usar de forma indebida las direcciones de correo electrónico de los demás (por ejemplo, para enviar correo no deseado).
 
 Otros Sitios web, como MozReps y Webmaker, ofrecen herramientas que permiten a los usuarios organizar eventos físicos a los que cualquiera puede asistir. Extreme las precauciones cuando asista a estos eventos.
 

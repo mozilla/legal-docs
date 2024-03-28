@@ -22,7 +22,7 @@ Mozilla ist ein weltweites Unternehmen und unsere Computer und die unserer Diens
 __Ihre Nutzung der Dienste.__ Mozilla erteilt Ihnen die Berechtigung, den MDN Plus-Dienst diesen Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Der Dienst darf nicht übertragen, unterlizenziert, wiederverkauft oder kommerziell genutzt werden.
 
 Sie erteilen Mozilla alle für den Betrieb des Dienstes erforderlichen Rechte, darunter das Recht zur Verarbeitung der von Ihnen hochgeladenen Daten oder den Zugriff darauf über den Dienst. Dies gilt auch für alle Notizen oder Beiträge, die Sie auf der Website hinterlassen. Eingeschlossen ist ebenfalls das Senden von Benachrichtigungen und die Verarbeitung und Speicherung Ihrer Daten wie gespeicherte Seiten und Label. Weitere Informationen über die Daten, die Mozilla verarbeitet, finden Sie im MDN Plus-[Datenschutzhinweis](https://www.mozilla.org/privacy/mdn-plus/).
-Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes den [Nutzungsbedingungen](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
+Sie stimmen ferner zu, dass Ihre Nutzung des Dienstes der [Nutzungsrichtlinie](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
 __Ihr Feedback und Ihre Vorschläge.__ Falls Sie Mozilla Ideen, Vorschläge oder Feedback über MDN Plus oder die von Ihnen über MDN Plus genutzten Dienste übermitteln, erteilen Sie Mozilla das Recht, diese kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 

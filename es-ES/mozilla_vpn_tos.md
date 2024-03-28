@@ -27,7 +27,7 @@ __Su uso del Servicio.__ Mozilla le da permiso para usar el Servicio de Mozilla 
 
 Usted le otorga a Mozilla y Mullvad todos los derechos requeridos para proporcionarle el Servicio, incluido el procesamiento de los datos que usted cargue o a los que acceda a través del Servicio. Puede encontrar más información sobre los tipos de datos que Mozilla y Mullvad procesan en el [Aviso de privacidad de Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/).
 
-Además, acepta que su uso del Servicio se regirá por las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla. Usted es el único responsable del contenido que transmite, así como de sus consecuencias.
+Además, usted acepta que su uso del Servicio se regirá por la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla. Usted es el único responsable del contenido que transfiere, así como de sus consecuencias.
 
 __Número máximo de dispositivos.__ Si tiene una suscripción activa, podrá conectar un máximo de 5 dispositivos a Mozilla VPN.
 

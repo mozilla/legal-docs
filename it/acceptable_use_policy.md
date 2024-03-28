@@ -1,4 +1,4 @@
-# Condizioni d’uso
+# Informativa sul corretto utilizzo
 
 Si proibisce l’utilizzo di qualsiasi servizio di Mozilla per:
 

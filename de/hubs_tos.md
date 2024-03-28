@@ -38,7 +38,7 @@ __Datenschutz.__ Sie sind für den Schutz der Personen, die Ihre Hubs nutzen, ve
 Mozilla ist ein weltweites Unternehmen und unsere Computer und die unserer Dienstanbieter können sich in verschiedenen Ländern weltweit befinden, darunter auch in den USA. Das bedeutet, dass Ihre Informationen und die Ihrer Nutzer auf Servern verarbeitet werden könnten, die sich außerhalb des Landes befinden, in dem Sie oder Ihre Nutzer leben, und dass dieses Land andere Datenschutzgesetze haben kann als Ihres. Durch Nutzung des Diensts versichern Sie Mozilla, dass Sie mit dieser Art der Übermittlung der Nutzerinformationen einverstanden sind und dass Sie von den Personen, die Ihre Hubs nutzen, die nötigen Einverständniserklärung besitzen.
 
 ## 3. Nutzungsbedingungen
-Durch die Verwendung von Hubs erklären Sie Ihr Einverständnis, die [Nutzungsbedingungen von Mozilla](https://www.mozilla.org/about/legal/acceptable-use/) zu erfüllen. Mozilla behält sich das Recht vor, Inhalte zu entfernen, Nutzer zu sperren und Hubs sowie einzelne Räume zu schließen, falls diese Bedingungen nach Meinung von Mozilla verletzt werden.
+Durch die Verwendung von Hubs erklären Sie Ihr Einverständnis, die [Nutzungsrichtlinie](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla zu erfüllen. Mozilla behält sich das Recht vor, Inhalte zu entfernen, Nutzer zu sperren und Hubs sowie einzelne Räume zu schließen, falls diese Bedingungen nach Meinung von Mozilla verletzt werden.
 
 __Qualifikation.__ Um den kostenpflichtigen Abonnementdienst zu verwenden, müssen Sie sich in einem Land befinden, in dem Hubs zur Verfügung steht. Hubs steht derzeit in Kanada, Deutschland, im Vereinigten Königreich und in den Vereinigten Staaten zur Verfügung.
 

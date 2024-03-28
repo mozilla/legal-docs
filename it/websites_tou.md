@@ -43,7 +43,7 @@ Per gli Invii ai progetti open source di Mozilla:
 
 Per tutti gli altri Invii, l'utente accetta i termini elencati di seguito, in relazione a ciascun Invio:
 
-* L’utente dichiara e garantisce che ogni suo Invio sarà conforme ai presenti Termini, alle [Condizioni d’uso](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla e a eventuali altri termini che possono regolare l’Invio.
+* Dichiari e garantisci che ogni tuo Invio sarà conforme ai presenti Termini, all'[Informativa sul corretto utilizzo](https://www.mozilla.org/about/legal/acceptable-use/) di Mozilla e a eventuali altri termini che possono regolare l'Invio.
 * L’utente concede a Mozilla una licenza non esclusiva, gratuita, globale e trasferibile in sub-licenza (ai collaboratori di Mozilla) per l’utilizzo del proprio Invio in relazione alle Comunicazioni e alla promozione, online e offline, della missione, dei prodotti e dei servizi di Mozilla.
 * L’utente accetta che il proprio Invio sarà accessibile ad altri utenti registrati del servizio applicabile o al pubblico.
 * Se l’Invio dell’utente contiene materiale espressivo o codice software, l’utente accetta di concederlo in licenza compatibilmente alla modalità prevista dal sito web a cui ha indirizzato l’Invio.

@@ -27,7 +27,7 @@ __Uw gebruik van de Service.__ Mozilla geeft u toestemming om de Mozilla VPN-ser
 
 U verleent aan Mozilla en Mullvad alle rechten die nodig zijn voor het verzorgen van de Service, waaronder het verwerken van de gegevens die u uploadt naar of weergeeft via de Service. Meer informatie over de gegevens die Mozilla en Mullvad verwerken via het Mozilla VPN, vindt u in de [Privacyverklaring](https://www.mozilla.org/privacy/mozilla-vpn/).
 
-U stemt er daarnaast mee in dat uw gebruik van de Service zal voldoen aan de [Gebruiksvoorwaarden](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
+U stemt er daarnaast mee in dat uw gebruik van de Service zal voldoen aan het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
 
 __Limiet voor apparaten.__ Wanneer uw abonnement actief is, kunt u maximaal vijf apparaten verbinden met Mozilla VPN.
 
