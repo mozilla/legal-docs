@@ -1,4 +1,4 @@
-# Syarat Penggunaan
+# Kebijakan Penggunaan yang Dapat Diterima
 
 Anda tidak boleh menggunakan layanan Mozilla untuk:
 

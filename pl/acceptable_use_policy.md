@@ -1,4 +1,4 @@
-# Warunki użytkowania
+# Warunki korzystania
 
 Usług firmy Mozilla nie wolno używać w celu:
 

@@ -28,8 +28,8 @@ Geralmente, o conteúdo criado pela Mozilla é disponibilizado para compartilham
 
 Determinados Conteúdos em nossas Comunicações são adquiridos de fontes que proíbem qualquer outro uso de seus Conteúdos sem autorização prévia. Sempre que possível, o rodapé do Conteúdo ou Site exibirá um aviso com a licença aplicável. Você concorda em cumprir esses avisos. Observe os pontos específicos a seguir:
 
-* Alguns Conteúdos indicam expressamente que o autor não deseja que uma licença aberta seja aplicável.  Você deve entrar em contato com o autor ou com o representante do autor para obter autorização para utilizar tal Conteúdo. Perguntas sobre conteúdos criados pela Mozilla podem ser enviadas para: licensing@mozilla.org.
-* Determinados Conteúdos contêm marcas registradas, apresentações comerciais, logotipos e propriedades de marca da Mozilla e de terceiros (“Marcas Registradas”). Salvo em circunstâncias específicas, as Marcas Registradas não poderão ser utilizadas sem autorização prévia, por escrito, do detentor da Marca Registrada.  [Saiba mais sobre as marcas registradas da Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
+* Alguns Conteúdos indicam expressamente que o autor não deseja que uma licença aberta seja aplicável. Você deve entrar em contato com o autor ou com o representante do autor para obter autorização para utilizar tal Conteúdo. Perguntas sobre conteúdos criados pela Mozilla podem ser enviadas para: licensing@mozilla.org.
+* Determinados Conteúdos contêm marcas registradas, apresentações comerciais, logotipos e propriedades de marca da Mozilla e de terceiros (“Marcas Registradas”). Salvo em circunstâncias específicas, as Marcas Registradas não poderão ser utilizadas sem autorização prévia, por escrito, do detentor da Marca Registrada. [Saiba mais sobre as marcas registradas da Mozilla.](https://www.mozilla.org/foundation/trademarks/policy/)
 * Os softwares usados por nossos Sites são licenciados nos termos da MPL ou de licenças de código aberto com permissão semelhante. Para obter mais informações sobre uma licença específica, consulte o código fonte ou repositório GitHub aplicável.
 
 
@@ -43,7 +43,7 @@ para Envios para projetos de código aberto da Mozilla:
 
 Para todos os demais Envios, você concorda com o que segue com relação a cada um deles:
 
-* Você declara e garante que seu Envio cumprirá estes Termos, as [Condições de uso](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla e quaisquer outros termos que possam reger seu Envio.
+* Você declara e garante que seu Envio será realizado em conformidade com estes Termos, a [Política de uso aceitável](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla e quaisquer outros termos que possam reger seu Envio.
 * Neste ato, você nos concede uma licença sem exclusividade, isenta de direitos autorais, mundial e que pode ser sublicenciada (a quem trabalha conosco) para usar o seu Envio em relação às Comunicações e à divulgação da missão, dos produtos e serviços da Mozilla, online e offline.
 * Você reconhece que seus Envios podem estar acessíveis a outros usuários registrados do serviço em questão ou ao público.
 * Caso seu Envio contenha materiais ou códigos de software expressivos, você concorda em licenciá-los de forma compatível com o Site específico em que você está realizando o Envio.

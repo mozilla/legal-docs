@@ -27,7 +27,7 @@ __Penggunaan Perkhidmatan oleh Anda.__ Mozilla memberi keizinan kepada anda untu
 
 Anda memberi Mozilla dan Mullvad semua hak yang diperlukan untuk mengendali Perkhidmatan ini, termasuk memproses data yang anda muat naik atau akses melalui Perkhidmatan ini. Anda boleh mendapat maklumat lanjut tentang data yang diproses oleh Mozilla dan Mullvad dalam [Notis Privasi](https://www.mozilla.org/privacy/mozilla-vpn/) Mozilla VPN.
 
-Anda juga bersetuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda beri dan akibatnya.
+Anda juga setuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Dasar Penggunaan Boleh Diterima](https://www.mozilla.org/about/legal/acceptable-use/)Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda hantar dan akibatnya.
 
 __Had Peranti.__ Apabila langganan anda aktif, anda boleh menyambungkan sehingga 5 peranti ke Mozilla VPN.
 

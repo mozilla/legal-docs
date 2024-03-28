@@ -22,7 +22,7 @@ A Mozilla é uma organização mundial, por isso, os computadores nossos e dos n
 __Seu uso do Serviço.__ A Mozilla nos concede permissão para usar o Serviço do MDN Plus de acordo com estes Termos de serviço. Essa permissão é exclusivamente para seu uso pessoal. Você não pode transferir, sublicenciar, revender ou explorar comercialmente o Serviço.
 
 Você concede à Mozilla os direitos necessários para operar o Serviço, como para o tratamento dos dados que você fornece ao Serviço ou acessa por meio dele, incluindo notas ou contribuições feitas no site, e o envio de notificações e o tratamento e armazenamento das suas informações, como páginas salvas e legendas. Para mais informações sobre os dados tratados pela Mozilla, consulte o [Aviso de privacidade do MDN Plus](https://www.mozilla.org/privacy/mdn-plus/).
-Você também concorda que seu uso do Serviço será realizado em conformidade com as [Condições de uso](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla. O conteúdo fornecido por você e quaisquer consequências dele é sua exclusiva responsabilidade.
+Você também indica que concorda que seu uso do Serviço será realizado em conformidade com a [Política de uso aceitável](https://www.mozilla.org/about/legal/acceptable-use/) da Mozilla. O conteúdo fornecido por você e quaisquer consequências dele é sua exclusiva responsabilidade.
 
 __Feedback e sugestões.__ Ao fornecer à Mozilla ideias, sugestões ou feedback sobre o MDN Plus ou os serviços vinculados a ele, você concede a ela permissão para usá-las de forma gratuita e sem qualquer obrigação adicional.
 

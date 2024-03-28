@@ -105,7 +105,7 @@ Usted acepta y asegura a Mozilla que:
 * Todas las informaciones que usted proporcionará serán exactas y verdaderas;
 * Usted no usará ni proporcionará informaciones fraudulentas, engañosas o inexactas; 
 * Usted no suplantará a otras personas ni tergiversará su identidad o su afiliación con otras personas;
-* Su uso del Servicio se regirá por las [Condiciones de uso](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla.
+* Su uso del Servicio se regirá por la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla.
 * No utilizará los Servicios para infringir los derechos de nadie ni violar ninguna ley.
 
 Por favor, considere que pueden pasar hasta 2 meses desde el momento en que recibiremos todas las informaciones necesarias para proporcionarle a los Servicios para que las solicitudes de exclusión voluntarias sean gestionadas por las Páginas de corredores de datos

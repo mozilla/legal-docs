@@ -22,7 +22,7 @@ Mozilla is een wereldwijde organisatie en onze computers en de computers van onz
 __Uw gebruik van de Service.__ Mozilla geeft u toestemming om de MDN Plus-service te gebruiken in overeenstemming met deze Servicevoorwaarden. Deze toestemming geldt uitsluitend voor uw persoonlijke gebruik. Het is u niet toegestaan om de service over te dragen, in sublicentie te geven, door te verkopen of commercieel te benutten.
 
 U verleent aan Mozilla alle rechten die nodig zijn voor het verzorgen van de Service, waaronder het verwerken van de gegevens, inclusief opmerkingen of bijdragen op de website, die u uploadt naar of weergeeft via de Service. Dit omvat ook het aan u verzenden van meldingen en het verwerken en opslaan van uw informatie, zoals opgeslagen pagina's en labels. Meer informatie over de gegevens die Mozilla verwerkt via MDN Plus, vindt u in de [Privacyverklaring](https://www.mozilla.org/privacy/mdn-plus/).
-U stemt er daarnaast mee in dat uw gebruik van de Service zal voldoen aan de [Gebruiksvoorwaarden](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
+U stemt er daarnaast mee in dat uw gebruik van de Service zal voldoen aan het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
 
 __Uw feedback en suggesties.__ Als u Mozilla eventuele ideeën, suggesties of feedback biedt over MDN Plus of de services die u gebruikt via MDN Plus, geeft u Mozilla toestemming om deze gratis en zonder eventuele aanvullende verplichtingen te gebruiken.
 

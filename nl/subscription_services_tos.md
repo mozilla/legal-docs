@@ -105,7 +105,7 @@ U stemt ermee in en garandeert Mozilla dat:
 * Alle informatie die u hebt verstrekt, nauwkeurig en waarheidsgetrouw is;
 * U geen frauduleuze, misleidende of onnauwkeurige informatie zult gebruiken of verstrekken; 
 * U zich niet zult voordoen als iemand anders en dat u geen andere voorstelling van zaken zult gegeven over uw identiteit of uw band met welke persoon dan ook;
-* Uw gebruik van de Service zal voldoen aan de [Gebruiksvoorwaarden](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla.
+* Uw gebruik van de Service zal voldoen aan het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla.
 * U zult de Services niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
 
 Houd er rekening mee dat het twee maanden kan duren om uitschrijvingsaanvragen voor de Services te verzorgen die moeten worden behandeld door sites van gegevenshandelaren. Dit is gerekend vanaf onze ontvangst van volledige informatie die daarvoor is vereist.

@@ -22,7 +22,7 @@ A Mozilla egy globális szervezet, és számítógépeink és szolgáltatóink s
 __A Szolgáltatás használata.__ A Mozilla engedélyt ad Önnek az MDN Plus szolgáltatás használatára a jelen Szolgáltatási feltételek szerint. Ez az engedély csak az Ön személyes használatára vonatkozik. A Szolgáltatást nem ruházhatja át, nem allicencelheti, nem értékesítheti, illetve nem használhatja kereskedelmi célokra.
 
 Ön megadja a Mozillának a Szolgáltatás működtetéséhez szükséges összes jogot, beleértve a Szolgáltatásba feltöltött vagy a Szolgáltatáson keresztül elért adatok kezelését, beleértve az Ön által létrehozott megjegyzéseket vagy hozzájárulásokat a webhelyhez. Ez magában foglalja az értesítések küldését, valamint az adatok, például a mentett oldalak és címkék kezelését és tárolását is. A Mozilla által kezelt adatokról az [MDN Plus adatvédelmi nyilatkozatban](https://www.mozilla.org/privacy/mdn-plus/) talál további információkat.
-Ön beleegyezik abba is, hogy a Szolgáltatás használata megfelel a Mozilla [felhasználási feltételeinek](https://www.mozilla.org/about/legal/acceptable-use/). Az Ön által továbbított tartalmak kapcsán kizárólag Önt terheli felelősség.
+Ön beleegyezik abba is, hogy a Szolgáltatás használata megfelel a Mozilla [elfogadható használatra vonatkozó szabályzatának](https://www.mozilla.org/about/legal/acceptable-use/). Az Ön által továbbított tartalmak kapcsán kizárólag Önt terheli felelősség.
 
 __Az Ön visszajelzése és javaslatai.__ Ha bármilyen ötletet, javaslatot vagy visszajelzést ad a Mozillának az MDN Plusszal vagy az MDN Plusszal használt szolgáltatásokkal kapcsolatban, akkor ingyenesen és minden további kötelezettség nélkül engedélyt ad a Mozillának ezek használatára.
 

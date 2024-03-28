@@ -22,7 +22,7 @@ Mozilla 是一个全球性组织，我们的计算机和服务提供商的计算
 __您对本服务的使用。__ Mozilla 允许您根据本服务条款使用 MDN Plus 服务。此许可仅供您个人使用。您不得转让、转许可、转售本服务或将其用于商业用途。
 
 您授予 Mozilla 运营本服务所需的所有权利，包括处理您上传到本服务或通过本服务访问的数据，以及您对本网站所作的任何注释或投稿。此外，还包括向您发送通知以及处理和存储您的信息，例如保存的页面和标签。您可以在 [MDN Plus 隐私声明](https://www.mozilla.org/privacy/mdn-plus/)中找到有关 Mozilla 处理的数据的更多信息。
-您还同意您对本服务的使用将遵守 Mozilla 的[使用条款](https://www.mozilla.org/about/legal/acceptable-use/)。您对您传送的内容和后果承担全部责任。
+您还同意您对本服务的使用将遵守 Mozilla 的[可接受使用政策](https://www.mozilla.org/about/legal/acceptable-use/)。您对您传送的内容和后果承担全部责任。
 
 __您的反馈和建议。__ 如果您向 Mozilla 提供有关 MDN Plus 或您与 MDN Plus 结合使用的服务的任何想法、建议或反馈，您即授予 Mozilla 免费使用这些想法、建议或反馈的许可，且无需承担任何额外义务。
 

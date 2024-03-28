@@ -22,7 +22,7 @@ Mozilla ialah sebuah organisasi global dan komputer kami serta komputer penyedia
 __Penggunaan Perkhidmatan oleh Anda.__ Mozilla memberi anda kebenaran untuk menggunakan Perkhidmatan MDN Plus menurut Terma Perkhidmatan ini. Kebenaran ini hanyalah untuk kegunaan peribadi anda. Anda tidak boleh memindahkan, sub lesen, menjual semula atau mengeksploitasi perkhidmatan secara komersial.
 
 Anda memberikan semua hak yang perlu kepada Mozilla untuk mengendalikan Perkhidmatan, termasuk memproses data yang anda muat naik atau akses melalui Perkhidmatan termasuk sebarang nota yang anda buat atau sumbangan kepada laman web. Ini juga termasuk menghantar pemberitahuan kepada anda dan memproses serta menyimpan maklumat anda seperti halaman dan label yang disimpan. Anda boleh menemui lebih banyak maklumat tentang data yang diproses oleh Mozilla dalam [Notis Privasi MDN Plus](https://www.mozilla.org/privacy/mdn-plus/).
-Anda juga setuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Syarat-syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda hantar dan akibatnya.
+Anda juga setuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi [Dasar Penggunaan Boleh Diterima](https://www.mozilla.org/about/legal/acceptable-use/)Mozilla. Anda bertanggungjawab sepenuhnya terhadap kandungan yang anda hantar dan akibatnya.
 
 __Maklum Balas dan Cadangan Anda.__ Jika anda memberikan sebarang idea, cadangan atau maklum balas kepada Mozilla tentang MDN Plus atau perkhidmatan yang anda gunakan dengan MDN Plus, anda memberi kebenaran kepada Mozilla untuk menggunakannya secara percuma tanpa sebarang kewajipan tambahan.
 

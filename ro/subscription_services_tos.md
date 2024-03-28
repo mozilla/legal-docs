@@ -105,7 +105,7 @@ Sunteți de acord și garantați Mozilla că:
 * Toate informațiile pe care le-ați furnizat vor fi corecte și conforme cu realitatea;
 * Nu veți utiliza sau furniza informații frauduloase, înșelătoare sau inexacte; 
 * Nu vă veți asuma o identitate falsă și nu veți furniza informații false despre identitatea dumneavoastră sau despre afilierea dumneavoastră cu orice altă persoană;
-* Modul în care utilizați Serviciile va fi conform cu  [Condițiile de Utilizare](https://www.mozilla.org/about/legal/acceptable-use/) ale Mozilla.
+* Modul în care dumneavoastră utilizați Serviciile va fi în conformitate cu [Politica de utilizare acceptabilă](https://www.mozilla.org/about/legal/acceptable-use/) a Mozilla.
 * Nu veți utiliza Serviciile pentru a încălca drepturile altei persoane sau orice lege.
 
 Rețineți că este posibil să dureze până la 2 luni de la primirea de către noi a informațiilor complete necesare pentru furnizarea Serviciilor pentru ca cererile trimise să fie procesate de siteurile de brokeraj de date.

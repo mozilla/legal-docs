@@ -1,4 +1,4 @@
-# Felhasználási feltételek
+# Elfogadható használatra vonatkozó szabályzat
 
 A Mozilla egyik szolgáltatását sem használhatja a következőkre:
 

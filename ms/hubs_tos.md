@@ -38,7 +38,7 @@ __Privasi.__ Anda bertanggungjawab terhadap privasi individu yang menggunakan Hu
 Mozilla ialah sebuah organisasi global, dan komputer kami dan komputer penyedia perkhidmatan mungkin berada di pelbagai negara di seluruh dunia, termasuk Amerika Syarikat. Perkara ini bermakna maklumat anda dan maklumat pengguna anda mungkin diproses pada server yang terletak di luar negara yang anda atau pengguna anda tinggal, dan negara tersebut mungkin mempunyai tahap peraturan perlindungan data yang berbeza berbanding dengan negara anda. Dengan menggunakan Perkhidmatan, anda meyakinkan Mozilla bahawa anda membenarkan pemindahan maklumat pengguna sebegini dan anda telah mendapat kebenaran yang diperlukan daripada individu yang menggunakan Hubs anda.
 
 ## 3. Syarat Penggunaan
-Dengan menggunakan Hubs, anda bersetuju bahawa anda akan mematuhi [Syarat Penggunaan](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Mozilla berhak untuk mengalih keluar mana-mana kandungan, menggantung mana-mana pengguna dan menutup mana-mana bilik Hub atau individu yang dipercayai telah melanggar syarat ini.
+Dengan menggunakan Hubs, anda bersetuju bahawa anda akan mematuhi [Dasar Penggunaan Boleh Diterima](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla. Mozilla berhak untuk mengalih keluar mana-mana kandungan, menggantung mana-mana pengguna dan menutup mana-mana bilik Hub atau individu yang dipercayai telah melanggar syarat ini.
 
 __Kelayakan.__ Untuk menggunakan perkhidmatan langganan berbayar, anda mestilah berada di negara yang Hubs tersedia. Buat masa ini, Hubs tersedia di Kanada, Jerman, United Kingdom dan Amerika Syarikat.
 
