@@ -17,7 +17,7 @@ In this Privacy Notice, we explain what data Mozilla collects and shares about y
 
 ## Things You Should Know
 
-__Registration data.__ Mozilla receives your email address and a hash of your password when you sign up for a Mozilla account. You can choose to provide your age, as well as to include a display name or profile image. Your email address is sent to our email vendor, Acoustic, which has its own [privacy notice](https://acoustic.com/privacy-notice/); we use Acoustic’s services to communicate with you.
+__Registration data.__ Mozilla receives your email address and a hash of your password when you sign up for a Mozilla account. You can choose to provide your age, as well as to include a display name or profile image. Your email address is sent to our email vendor, Braze, which has its own [privacy notice]([https://acoustic.com/privacy-notice/](https://www.braze.com/company/legal/privacy)); we use Braze’s services to communicate with you.
 
 __Location data.__ We use the IP address in order to approximate your location for fraud and abuse prevention purposes across our products. We will send you email alerts if we detect suspicious activity, such as account logins from other locations. 
 
