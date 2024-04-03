@@ -126,5 +126,3 @@ ATTN: Pocket Business Unit
 149 New Montgomery Street  
 4th Floor  
 San Francisco, CA 94105
-
-Europeans who believe a privacy complaint is unresolved have the right to lodge a complaint with the supervisory authority of their Member State.
