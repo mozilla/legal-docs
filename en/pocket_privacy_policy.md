@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Effective March 7, 2024*
+*Effective April 3, 2024*
 {: datetime="2024-03-07" }
 
 This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as "we," "us," "our," "Mozilla"), and are operated by Mozilla's business unit known as "Pocket," which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
@@ -114,8 +114,6 @@ As part of our default settings to share saved and recommended content, we send 
 ## Amendments to Policy {: #amendments }
 
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) days after the terms are changed, as explained above.
-
-If you have questions about any of the provisions described above, please contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or at the street address listed above.
 
 ## Contact {: #contact }
 
