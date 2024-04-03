@@ -110,16 +110,15 @@ As part of our default settings to share saved and recommended content, we send 
 
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) days after the terms are changed, as explained above.
 
-If you have questions about any of the provisions described above, please contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or at the street address listed above.
-
 ## Contact {: #contact }
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Alternatively, you may contact us at:
+If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+If you have any other questions regarding personal data or our privacy practices, please contact us at [dpo@mozilla.com](mailto:dpo@mozilla.com), or you can contact our DPO by mail at:
 
-Europeans who believe a privacy complaint is unresolved have the right to lodge a complaint with the supervisory authority of their Member State.
+Bird & Bird DPO Services SRL\
+Avenue Louise 235 b 1\
+1050 Brussels\
+Belgium
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. You also have the right to lodge a complaint with your local data protection authority. 
