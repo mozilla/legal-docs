@@ -1,11 +1,11 @@
 # Privacy Policy
 
 *Effective April 3, 2024*
-{: datetime="2024-03-07" }
+{: datetime="2024-04-03" }
 
-This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as "we," "us," "our," "Mozilla"), and are operated by Mozilla's business unit known as "Pocket," which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
+This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the “Pocket Technologies”). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as “we,” “us,” “our,” “Mozilla”), and are operated by Mozilla's business unit known as “Pocket,” which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
 
-We understand your concerns about privacy. We want you to understand what types of information we collect and what may happen to that information if you install the Pocket application, visit the Pocket Website or use any of the Pocket Technologies.
+We understand your concerns about privacy. We want you to understand what types of information we collect and what may happen to that information if you install the Pocket application, visit the Pocket website or use any of the Pocket Technologies.
 
 Our Privacy Policy includes the following provisions, and you can jump to each by selecting the links below:
 
@@ -40,17 +40,17 @@ In addition to the information that you provide to us when you register for a us
 
 We use four types of cookies and analytics tools for the following purposes:
 
-- Necessary: These cookies are necessary for our website to function. They cannot be switched off. You can set your browser to block or alert you about these cookies, but this may cause parts of the site to not work properly. These cookies do not store any personally identifiable information and unless Personalized Advertising Cookies are enabled, ads are non-personalized.
-- Preferences: We place these cookies on your device to remember your account preferences and language settings. Disabling these cookies may break some features.
-- Analytics: We place these cookies on your device to help us understand how users engage with our website and product. For example, we use Google Analytics and other tools to understand which Pocket webpages are popular. We also use pixels in our emails in order to collect usage information.
-- Personalized Advertising: Some Pocket web pages have ads. With your consent, Pocket’s ad partners will place advertising cookies on your device to personalize the ads you see here and on other websites. If you play a YouTube video on Pocket, YouTube may place cookies on your device which can be used for personalization. Our partner for personalized ads on our syndicated article pages, Freestar, has its own [Privacy Policy](https://freestar.com/privacy-policy/).
+* Necessary: These cookies are necessary for our website to function. They cannot be switched off. You can set your browser to block or alert you about these cookies, but this may cause parts of the site to not work properly. These cookies do not store any personally identifiable information and unless Personalized Advertising Cookies are enabled, ads are non-personalized.
+* Preferences: We place these cookies on your device to remember your account preferences and language settings. Disabling these cookies may break some features.
+* Analytics: We place these cookies on your device to help us understand how users engage with our website and product. For example, we use Google Analytics and other tools to understand which Pocket webpages are popular. We also use pixels in our emails in order to collect usage information.
+* Personalized Advertising: Some Pocket web pages have ads. With your consent, Pocket’s ad partners will place advertising cookies on your device to personalize the ads you see here and on other websites. If you play a YouTube video on Pocket, YouTube may place cookies on your device which can be used for personalization. Our partner for personalized ads on our syndicated article pages, Freestar, has its own [Privacy Policy](https://freestar.com/privacy-policy/).
 
 ### Your Choices
 
-- Cookie Preference tool: By default, Pocket sets necessary cookies, and disables all other types of cookies. You can manage your settings for these cookies from this Cookie Preferences tool. [Learn more](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
-- Your browser: Your browser preferences menu can also help you manage cookies and prevent cross-site tracking.
-- Google’s Analytics: By default, analytics cookies, including Google Analytics, are turned off. If you opt-in to analytics cookies, Google Analytics allows us to understand how you interact with our website and measure site performance to improve your user experience.
-- Additional opt-out tools: Some third- party organizations provide ways of opting out of personalized advertising delivered by participating companies. For information about how to opt-out, you can visit these organizations’ websites: [Network Advertising Initiative’s opt-out tools](https://optout.networkadvertising.org/?c=1), the [Digital Advertising Initiative’s Browser Check tool](https://optout.aboutads.info/?c=2), and the [European Interactive Digital Advertising Alliance Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices). the information we collect to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
+* Cookie Preference tool: Cookie Preference tool: By default, Pocket sets necessary cookies, and disables all other types of cookies. You can manage your settings for these cookies from this Cookie Preferences tool. [Learn more](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Your browser: Your browser preferences menu can also help you manage cookies and prevent cross-site tracking.
+* Google’s Analytics: By default, analytics cookies, including Google Analytics, are turned off. If you opt in to analytics cookies, Google Analytics allows us to understand how you interact with our website and measure site performance to improve your user experience.
+* Additional opt-out tools: Some third-party organizations provide ways of opting out of personalized advertising delivered by participating companies. For information about how to opt out, you can visit these organizations’ websites: [Network Advertising Initiative’s opt-out tools](https://optout.networkadvertising.org/?c=1), the [Digital Advertising Initiative’s Browser Check tool](https://optout.aboutads.info/?c=2), and the [European Interactive Digital Advertising Alliance Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices). We use the information we collect to count users who have visited certain pages on our website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
 
 ## Use of Information {: #use }
 
@@ -72,11 +72,11 @@ We also share aggregated, non-personal data and related usage information, which
 
 ### Links to other sites and apps
 
-If you choose to, you may connect your Pocket account to third-party applications to enable additional features like saving from your favorite apps or other unique features third-party developers have created. We have set up controls in the Pocket application so that you can control the information that is shared with third-party providers of products and services. For example, you may be informed that another app that you use wants to connect to your Pocket account. In some cases, such apps will request access to certain data in your Pocket account, such as your Pocket list or your preferred topics, sites and authors (which we have developed based on the content you have saved to Pocket), so that they can customize their services. Before such access is provided, however, you will be asked to authorize the sharing of any such information. Although the Pocket Technologies may be used in conjunction with third-party products and services, we are not affiliated with, and have no control over, such third parties. Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you and we encourage you to check the privacy policy of each third-party provider of products or services that you choose to connect your Pocket account to. If you use Pocket to save content from YouTube, that content will be made available to Pocket via the YouTube API Services, but will still be hosted by the YouTube site.  Your use of YouTube content will be subject to the [Google Privacy Policy](https://policies.google.com/privacy).
+If you choose to, you may connect your Pocket account to third-party applications to enable additional features like saving from your favorite apps or other unique features third-party developers have created. We have set up controls in the Pocket application so that you can control the information that is shared with third-party providers of products and services. For example, you may be informed that another app that you use wants to connect to your Pocket account. In some cases, such apps will request access to certain data in your Pocket account, such as your Pocket list or your preferred topics, sites and authors (which we have developed based on the content you have saved to Pocket), so that they can customize their services. Before such access is provided, however, you will be asked to authorize the sharing of any such information. Although the Pocket Technologies may be used in conjunction with third-party products and services, we are not affiliated with, and have no control over, such third parties. Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you and we encourage you to check the privacy policy of each third-party provider of products or services that you choose to connect your Pocket account to. If you use Pocket to save content from YouTube, that content will be made available to Pocket via the YouTube API Services, but will still be hosted by the YouTube site. Your use of YouTube content will be subject to the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ### Working with third parties
 
-We may work with trusted third parties to facilitate one or more aspects of the products,services, or features that we provide to you, and we may provide some of your personal information directly to these third parties. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service. We may also share limited aggregated data with our advertising partners (read more in the “Aggregate data” section above). These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose other than those discussed above, unless you have explicitly agreed or given your prior permission to them for additional uses. If you use the "Listen" feature, we may share the content of the article with a third party service in order to read the article aloud.
+We may work with trusted third parties to facilitate one or more aspects of the products, services, or features that we provide to you, and we may provide some of your personal information directly to these third parties. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service. We may also share limited aggregated data with our advertising partners (read more in the “Aggregate data” section above). These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose other than those discussed above, unless you have explicitly agreed or given your prior permission to them for additional uses. If you use the “Listen” feature, we may share the content of the article with a third party service in order to read the article aloud.
 
 ### Sharing as required by law or asset sale
 
@@ -98,17 +98,17 @@ We have agreements with third parties and have adopted other security measures i
 
 ## Phishing {: #phishing }
 
-Identity theft and the practice currently known as "phishing" are of great concern to Pocket. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your username, password, credit card information or national identification number in an unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+Identity theft and the practice currently known as “phishing” are of great concern to Pocket. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your username, password, credit card information or national identification number in an unsolicited email or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
 ## Managing My Privacy and Email Settings {: #opt-out }
 
 You can access, correct, or delete your personal information and export your data from your Pocket Profile. You can also view and control which third party services, if any, you want to connect to your Pocket account. These settings are at: <https://getpocket.com/options>
 
-As part of our default settings to share saved and recommended content, we send emails to our users. You may opt-out of receiving these, and updates on our service and your use, by using the unsubscribe feature on any of our email correspondence or from your account settings. We will try to communicate with you only according to your instructions, although it may take some time to process your request.
+As part of our default settings to share saved and recommended content, we send emails to our users. You may opt out of receiving these, and updates on our service and your use, by using the unsubscribe feature on any of our email correspondence or from your account settings. We will try to communicate with you only according to your instructions, although it may take some time to process your request.
 
 ## Amendments to Policy {: #amendments }
 
-Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) days after the terms are changed, as explained above.
+Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on our website that you can access at [getpocket.com](https://getpocket.com/) or through the options or help menu of the Pocket application. All amended terms shall automatically be effective thirty (30) days after they are initially posted on the website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our website notifying users that our Privacy Policy has changed. Our use of your information shall be governed by the terms and conditions of our Privacy Policy in effect when you first use our application or thirty (30) days after the terms are changed, as explained above.
 
 ## Contact {: #contact }
 
@@ -116,9 +116,9 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 
 If you have any other questions regarding personal data or our privacy practices, please contact us at [dpo@mozilla.com](mailto:dpo@mozilla.com), or you can contact our DPO by mail at:
 
-Bird & Bird DPO Services SRL\
-Avenue Louise 235 b 1\
-1050 Brussels\
-Belgium
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Brussels  
+Belgium  
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. You also have the right to lodge a complaint with your local data protection authority. 
