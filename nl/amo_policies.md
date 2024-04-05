@@ -12,4 +12,4 @@ Wanneer een gebruiker content deelt die dat beleid schendt, kunnen we de content
 - Voor extensies, thema's, collecties en gebruikersprofielen: Bezoek de pagina met de vermelding en klik op de knop Rapporteren
 - Voor beoordelingen: klik op de link Markeren onderaan de beoordeling
 
-Add-ons die niet voldoen aan dit beleid, zijn niet toegestaan. Deze worden verwijderd van AMO en/of uitgeschakeld in Firefox als ze worden ontdekt. Bezoek de sectie Contentmoderatie op de Mozilla-webpagina voor meer informatie over hoe Mozilla beleid wordt afgedwongen.
+Add-ons die niet voldoen aan dit beleid, zijn niet toegestaan. Deze worden verwijderd van AMO en/of uitgeschakeld in Firefox als ze worden ontdekt. Bezoek de sectie [Contentmoderatie op de Mozilla-webpagina](https://www.mozilla.org/about/legal/content-moderation) voor meer informatie over hoe Mozilla beleid wordt afgedwongen.
