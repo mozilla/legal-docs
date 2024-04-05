@@ -17,7 +17,7 @@ DMCA 通知には、以下の情報をすべて記載する必要があります
 
 ### DMCA 通知の宛先
 
-Mozilla.social のコンテンツに関連する通知を提出するには、[こちらのフォーム](https://reports.mozilla.social/infringement-form) を使用してください。これ以外の Mozilla の製品およびサイトについては、電子メールで [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com) までお送りいただくのが最も迅速な方法です。また、下記まで郵送することもできます。
+最も迅速に侵害の疑いを報告するには、[こちらのフォーム](https://report.mozilla.com/infringement-form) を提出してください。また、[dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com) までメールで送信することもできます。通知を郵送される場合は、こちらにお送りください。
 
 Mozilla  
 Attn:Mozilla’s Designated DMCA Agent  

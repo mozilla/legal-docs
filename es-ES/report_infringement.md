@@ -17,7 +17,7 @@ Su Aviso de DMCA debe incluir toda la siguiente información:
 
 ### ¿Dónde envía el Aviso de DMCA?
 
-Para entregar avisos relacionados con el contenido de Mozilla.social, sírvase usar [este formulario](https://reports.mozilla.social/infringement-form). Para otros productos y sitios de Mozilla, la forma más rápida es enviarlo por correo electrónico a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Si lo prefiere, puede enviarlo a:
+La forma más rápida para informar sobre una presunta infracción es presentar [este formulario](https://report.mozilla.com/infringement-form). Si lo prefiere, puede enviarlo por correo electrónico a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). También puede enviar avisos a:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
