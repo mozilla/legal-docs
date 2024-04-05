@@ -17,7 +17,7 @@ Ihre DMCA-Meldung muss alle der folgenden Informationen enthalten:
 
 ### Wohin Sie die DMCA-Meldung senden sollten
 
-Um Meldungen in Bezug auf Inhalte auf Mozilla.social einzureichen, verwenden Sie bitte [dieses Formular](https://reports.mozilla.social/infringement-form). Für andere Mozilla-Produkte und Websites besteht die schnellste Möglichkeit darin, eine E-Mail an [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com) zu senden. Vorzugsweise können Sie die Meldung auch auf dem Postweg senden an:
+Die schnellste Möglichkeit, einen mutmaßlichen Verstoß zu melden, ist die Übermittlung [dieses Formulars](https://report.mozilla.com/infringement-form). Falls Sie es wünschen, können Sie auch eine E-Mail schreiben an: [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Sie können Meldungen auch senden an:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  

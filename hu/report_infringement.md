@@ -17,7 +17,7 @@ A DMCA-tájékoztatásnak tartalmaznia kell az összes alábbi információt:
 
 ### Hova kell küldeni a DMCA-tájékoztatást?
 
-A Mozilla.social webhely tartalmával kapcsolatos tájékoztatások küldéséhez használja [ezt az űrlapot](https://reports.mozilla.social/infringement-form). Más Mozilla-termékek és -webhelyek esetében ennek a leggyorsabb módja egy e-mail küldése a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com) címre. Ha szeretné, elküldheti a következő címre is:
+A feltételezett jogsértés bejelentésének leggyorsabb módja [ennek az űrlapnak](https://report.mozilla.com/infringement-form) a beküldése. Ha szeretné, írjon e-mailt a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com) címre. Az alábbi címekre is küldhet értesítést:
 
 Mozilla  
 Címzett: Mozilla’s Designated DMCA Agent  

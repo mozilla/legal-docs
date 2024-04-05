@@ -17,7 +17,7 @@ La Notifica DMCA deve includere tutte le seguenti informazioni:
 
 ### Dove deve essere inviata la Notifica DMCA?
 
-Per inviare notifiche relative a contenuti presenti su Mozilla.social, utilizzare [questo modulo](https://reports.mozilla.social/infringement-form). Per altri prodotti e siti Mozilla, il modo più rapido consiste nell'inviare un'email a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Oppure, se si preferisce, è possibile inviare la Notifica a:
+Il modo più rapido per segnalare una presunta violazione è quello di inviare [questo modulo](https://report.mozilla.com/infringement-form). Oppure, se si preferisce si può scrivere un'email a [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). O ancora inviare una comunicazione a:
 
 Mozilla  
 Attn: Mozilla's Designated DMCA Agent  

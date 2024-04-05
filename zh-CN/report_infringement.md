@@ -17,7 +17,7 @@ DMCA 通知必须包括以下所有信息：
 
 ### DMCA 通知发送到哪里？
 
-要在 Mozilla.social 上提交与内容相关的通知，请使用[该表格](https://reports.mozilla.social/infringement-form)。对于其他 Mozilla 产品和网站，最快的方法是通过电子邮件发送至 [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com)。如果您愿意，可以将其发送到：
+举报涉嫌侵权的最快方法是提交[此表格](https://report.mozilla.com/infringement-form)。如果您愿意，可以发送电子邮件至 [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com)。您也可以将通知发送到：
 
 Mozilla  
 Attn:Mozilla’s Designated DMCA Agent  
