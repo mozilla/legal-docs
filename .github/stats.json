@@ -1,27 +1,19 @@
 {
   "acceptable_use_policy.md": {
-    "count": 21,
+    "count": 13,
     "locales": [
-      "bn",
       "cs",
       "de",
-      "el",
       "es-ES",
       "fr",
-      "hi",
-      "hr",
       "hu",
       "id",
       "it",
       "ja",
-      "mk",
       "nl",
       "pl",
       "pt-BR",
       "ru",
-      "sr",
-      "ta",
-      "tr",
       "zh-CN"
     ]
   },
@@ -485,29 +477,21 @@
     ]
   },
   "websites_tou.md": {
-    "count": 21,
+    "count": 13,
     "locales": [
-      "ar",
-      "bn",
       "cs",
       "de",
-      "el",
       "es-ES",
       "fr",
-      "hi",
-      "hr",
       "hu",
+      "id",
       "it",
       "ja",
-      "mk",
+      "nl",
       "pl",
       "pt-BR",
-      "ro",
       "ru",
-      "sr",
-      "sw",
-      "ta",
-      "tl-PH"
+      "zh-CN"
     ]
   }
 }
