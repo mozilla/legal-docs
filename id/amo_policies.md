@@ -12,4 +12,4 @@ Saat pengguna membagikan konten yang melanggar kebijakan ini, kami dapat menghap
 - Untuk ekstensi, tema, koleksi, dan profil pengguna: Kunjungi halaman daftar dan klik tombol “Laporkan”
 - Untuk penilaian: klik tautan “Tandai”, di bagian bawah ulasan
 
-Pengaya yang tidak mematuhi kebijakan ini tidak diizinkan, dan akan dihapus dari AMO dan/atau dinonaktifkan di Firefox jika ditemukan. Untuk mempelajari selengkapnya tentang bagaimana penegakan kebijakan konten Mozilla, Anda dapat mengunjungi Moderasi Konten di halaman web Mozilla.
+Pengaya yang tidak mematuhi kebijakan ini tidak diizinkan, dan akan dihapus dari AMO dan/atau dinonaktifkan di Firefox jika ditemukan. Untuk mempelajari selengkapnya tentang bagaimana penegakan kebijakan konten Mozilla, Anda dapat mengunjungi [Moderasi Konten di halaman web Mozilla](https://www.mozilla.org/about/legal/content-moderation).
