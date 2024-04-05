@@ -43,7 +43,7 @@ __Interaction data.__ Mozilla receives data about your interactions with the ser
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozilla Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription.
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users on account cancellation. For information on Formstack's privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).   
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users on account cancellation. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).   
  
 ### Firefox Relay {: #relay }
 
