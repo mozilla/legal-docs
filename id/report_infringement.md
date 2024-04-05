@@ -17,7 +17,7 @@ Pemberitahuan DMCA Anda harus berisi semua informasi berikut:
 
 ### Ke mana Anda harus mengirimkan Pemberitahuan DMCA?
 
-Untuk mengirimkan pemberitahuan terkait konten di Mozilla.social, silakan gunakan [formulir ini](https://reports.mozilla.social/infringement-form). Untuk produk dan situs Mozilla lainnya, cara tercepat adalah mengirimkannya melalui email ke [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Jika mau, Anda dapat mengirimkannya ke:
+Cara tercepat untuk melaporkan dugaan pelanggaran adalah dengan mengirimkan [formulir ini](https://report.mozilla.com/infringement-form). Jika mau, Anda dapat mengirimkan email ke [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Anda juga dapat mengirimkan pemberitahuan ke:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
