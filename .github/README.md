@@ -5,6 +5,7 @@ List of translated files (number of locales between parentheses):
 * amo_policies.md (13)
 * common_voice_privacy_notice.md (49)
 * common_voice_terms.md (49)
+* content_moderation_practices.md (13)
 * firefox_about_rights.md (12)
 * firefox_cloud_services_tos.md (12)
 * firefox_monitor_terms_privacy.md (18)
@@ -32,7 +33,6 @@ List of translated files (number of locales between parentheses):
 List of files not translated:
 * adtargeting_guidelines.md
 * better_web_privacy.md
-* content_moderation_practices.md
 * facebook_privacy_info.md
 * firefox_firetv_privacy_notice.md
 * firefox_os_privacy_notice.md

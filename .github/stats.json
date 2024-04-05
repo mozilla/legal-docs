@@ -143,6 +143,24 @@
       "zh-TW"
     ]
   },
+  "content_moderation_practices.md": {
+    "count": 13,
+    "locales": [
+      "cs",
+      "de",
+      "es-ES",
+      "fr",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
+    ]
+  },
   "firefox_about_rights.md": {
     "count": 12,
     "locales": [
