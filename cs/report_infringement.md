@@ -17,7 +17,7 @@ Vaše Oznámení DMCA musí obsahovat všechny následující informace:
 
 ### Kam odeslat Oznámení DMCA?
 
-K odeslání oznámení ve vztahu k obsahu na Mozilla.social použijte prosím [tento formulář](https://reports.mozilla.social/infringement-form). V případě ostatních produktů a stránek společnosti Mozilla je nejrychlejší cestou zaslání e-mailem na adresu [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Pokud si to přejete, můžete rovněž zaslat dopis n adresu:
+Nejrychlejším způsobem nahlášení podezření na porušení je odeslání [tohoto formuláře](https://report.mozilla.com/infringement-form). Pokud dáváte přednost e-mailu, můžete jej zaslat na adresu [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Oznámení můžete zasílat také na adresu:
 
 Mozilla  
 k rukám: Mozilla’s Designated DMCA Agent  

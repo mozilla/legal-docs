@@ -17,7 +17,7 @@ Uw DMCA-kennisgeving moet de volgende informatie bevatten:
 
 ### Waar stuurt u de DMCA-kennisgeving naartoe?
 
-Voor het indienen van kennisgevingen over content op Mozilla.social, gebruikt u [dit formulier](https://reports.mozilla.social/infringement-form). Voor andere producten en sites van Mozilla kunt u het beste een e-mail sturen naar [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Of stuur de kennisgeving naar:
+De snelste manier om een vermoedelijk inbreuk te melden, is door het indienen van [dit formulier](https://report.mozilla.com/infringement-form). Als u dat liever doet, kunt u een e-mail verzenden naar [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Daarnaast kunt u kennisgevingen sturen naar:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  

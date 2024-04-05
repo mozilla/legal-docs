@@ -17,7 +17,7 @@ Powiadomienie DMCA musi zawierać wszystkie poniższe informacje:
 
 ### Gdzie przesłać Powiadomienie DMCA?
 
-Aby przesłać powiadomienia związane z treściami na stronie Mozilla.social, prosimy użyć [tego formularza](https://reports.mozilla.social/infringement-form). W przypadku innych produktów i witryn firmy Mozilla najszybszym sposobem jest wysłanie wiadomości e-mail na adres [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Jeśli wolisz, możesz wysłać list na adres:
+Najszybciej można zgłosić podejrzenie naruszenia zasad, przesyłając [ten formularz](https://report.mozilla.com/infringement-form). Jeśli wolisz, możesz wysłać e-mail na adres [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Możesz także wysłać zawiadomienie:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  

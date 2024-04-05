@@ -17,7 +17,7 @@
 
 ### Куда отправить уведомление DMCA?
 
-Для отправки уведомлений, связанные с контентом Mozilla.social, используйте [эту форму](https://reports.mozilla.social/infringement-form). Что касается других продуктов и сайтов Mozilla, самый быстрый способ — отправить их по электронной почте на адрес [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Если хотите, можете отправить по адресу:
+Самый быстрый способ сообщить о возможном нарушении — отправить заявку через [эту форму](https://report.mozilla.com/infringement-form). Либо отправить ее на электронный адрес [dmcanotice@mozilla.com](mailto:dmcanotice@mozilla.com). Также можно отправить сообщение на адрес:
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
