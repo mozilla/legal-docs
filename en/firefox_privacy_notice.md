@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective January 17, 2024
-{: datetime="2024-01-17" }
+*Effective April 3, 2024
+{: datetime="2024-04-03" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -47,13 +47,13 @@ If you choose to opt in to “Improve the Firefox Suggest Experience“ on your 
 
 ### Recommend relevant content
 
-Firefox displays content, such as Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Pocket Recommendations (which is part of the Mozilla family).
+Firefox displays content, such as Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Recommendations.
 
 * __Location data__: Firefox uses your IP address to suggest relevant content based on your country and state.
 
 * __Technical & interaction data__: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use technical and interaction data in order to better understand our users and improve our product. 
 
-* __Pocket recommendations__: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
+* __Recommendations__: We may recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
 
 * __Top Sites__: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you’re in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
 
