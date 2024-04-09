@@ -10,6 +10,7 @@ import os
 import re
 import string
 import sys
+from functions import findAllFiles
 
 
 class DocumentCheck:
@@ -20,27 +21,12 @@ class DocumentCheck:
 
         self.allowed_characters = set(string.ascii_lowercase + string.digits + "_")
 
-        self.findAllFiles()
+        self.files_list = findAllFiles()
         self.extractData()
         self.loadExceptions(exceptions_path)
 
     def showResults(self):
         print("\n".join(self.errors))
-
-    def findAllFiles(self):
-        """Create a list of all markdown files in path"""
-
-        files = defaultdict(list)
-        search_path = Path(self.files_path)
-        file_paths = search_path.glob("*/*.md")
-
-        for fp in file_paths:
-            # Threat the first folder as locale code
-            locale = str(fp.parent.relative_to(self.files_path))
-            filename = os.path.relpath(fp, os.path.join(self.files_path, locale))
-            files[locale].append(filename)
-
-        self.files_list = files
 
     def extractData(self):
         data = defaultdict(dict)

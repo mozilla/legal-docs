@@ -4,25 +4,9 @@ import io
 import json
 import os
 import markdown as md
-from collections import defaultdict
 from weasyprint import HTML
 from pathlib import Path
-
-
-def findAllFiles(path):
-    """Create a list of all markdown files in path"""
-
-    files = defaultdict(list)
-    search_path = Path(path)
-    file_paths = search_path.glob(f"*/*.md")
-
-    for fp in file_paths:
-        # Threat the first folder as locale code
-        locale = str(fp.parent.relative_to(path))
-        filename = str(fp.name)
-        files[locale].append(filename)
-
-    return files
+from functions import findAllFiles
 
 
 def convertMdToHTML(file_path):
