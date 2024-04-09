@@ -5,9 +5,9 @@ on:
     branches:
       - main
     paths:
-      - 'en/**.md'
+      - '**.md'
       - '**.json'
-      - '.github/workflows/doc_linter_l10n.yml'
+      - '.github/workflows/doc_linter_ref.yml'
       # Ignore Markdown files in the root
       - '!*.md'
   pull_request:

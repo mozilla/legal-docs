@@ -7,10 +7,9 @@ on:
     paths:
       - '**.md'
       - '**.json'
-      - '.github/workflows/doc_linter.yml'
+      - '.github/workflows/doc_linter_l10n.yml'
       # Ignore Markdown files in the root and in reference folder
       - '!*.md'
-      - '!en/*.md'
   pull_request:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
