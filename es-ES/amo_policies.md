@@ -12,4 +12,4 @@ Cuando un usuario comparte contenido que infringe estas políticas, podríamos e
 - Para extensiones, temas, colecciones y perfiles de usuario: Visite la página con el listado y haga clic en el botón “Informe”
 - Para valoraciones: haga clic en el enlace “Marcar” al pie de la reseña
 
-Los complementos que no cumplan con estas políticas no están permitidos y si descubiertos serán eliminados de AMO y/o desactivados en Firefox. Para saber más sobre cómo se aplican las políticas de contenidos de Mozilla, puede visitar la [Moderación de contenidos en la página web de Mozilla](https://www.mozilla.org/about/legal/content-moderation).
+Los complementos que no cumplan con estas políticas no están permitidos y si descubiertos serán eliminados de AMO y/o desactivados en Firefox. Para saber más sobre cómo se aplican las políticas de contenidos de Mozilla, puede visitar la [página web de Moderación de contenidos en Mozilla](https://www.mozilla.org/about/legal/content-moderation).
