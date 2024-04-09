@@ -1,0 +1,37 @@
+name: Docs Linter (l10n)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '**.json'
+      - '.github/workflows/doc_linter_l10n.yml'
+      # Ignore Markdown files in the root and in reference folder
+      - '!*.md'
+  pull_request:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    name: Lint documents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Python dependencies
+        run: |
+          pip install -r .github/requirements.txt
+      - name: Run linter
+        run: >
+          python .github/scripts/lint_documents.py
+          --path . 
+          --ref en 
+          --type l10n
+          --exceptions .github/scripts/linter_exceptions.json

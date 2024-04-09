@@ -1,4 +1,4 @@
-name: Docs Linter
+name: Docs Linter (reference)
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     paths:
       - '**.md'
       - '**.json'
-      - '.github/workflows/doc_linter.yml'
+      - '.github/workflows/doc_linter_ref.yml'
       # Ignore Markdown files in the root
       - '!*.md'
   pull_request:
@@ -29,5 +29,9 @@ jobs:
         run: |
           pip install -r .github/requirements.txt
       - name: Run linter
-        run: |
-          python .github/scripts/lint_documents.py --path . --ref en --exceptions .github/scripts/linter_exceptions.json
+        run: >
+          python .github/scripts/lint_documents.py
+          --path . 
+          --ref en 
+          --type ref
+          --exceptions .github/scripts/linter_exceptions.json

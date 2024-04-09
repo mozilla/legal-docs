@@ -10,6 +10,7 @@ import os
 import re
 import string
 import sys
+from functions import findAllFiles
 
 
 class DocumentCheck:
@@ -20,27 +21,12 @@ class DocumentCheck:
 
         self.allowed_characters = set(string.ascii_lowercase + string.digits + "_")
 
-        self.findAllFiles()
+        self.files_list = findAllFiles(self.files_path)
         self.extractData()
         self.loadExceptions(exceptions_path)
 
     def showResults(self):
         print("\n".join(self.errors))
-
-    def findAllFiles(self):
-        """Create a list of all markdown files in path"""
-
-        files = defaultdict(list)
-        search_path = Path(self.files_path)
-        file_paths = search_path.glob("*/*.md")
-
-        for fp in file_paths:
-            # Threat the first folder as locale code
-            locale = str(fp.parent.relative_to(self.files_path))
-            filename = os.path.relpath(fp, os.path.join(self.files_path, locale))
-            files[locale].append(filename)
-
-        self.files_list = files
 
     def extractData(self):
         data = defaultdict(dict)
@@ -107,9 +93,15 @@ class DocumentCheck:
 
         self.exceptions = exceptions
 
-    def checkDocuments(self):
-        locales = list(self.md_data.keys())
-        locales.sort()
+    def checkDocuments(self, check_type):
+        if check_type == "ref":
+            # Check only the reference locale
+            locales = [self.ref_locale]
+        else:
+            # Check all locales but the reference
+            locales = list(self.md_data.keys())
+            locales.remove(self.ref_locale)
+            locales.sort()
 
         ref_data = self.md_data[self.ref_locale]
         for locale in locales:
@@ -244,6 +236,13 @@ def main():
         help="Reference locale code (default 'en')",
     )
     parser.add_argument(
+        "--type",
+        required=False,
+        default="l10n",
+        choices=["l10n", "ref"],
+        help="Analyze the reference locale (type='ref') or other locales (type='l10n')",
+    )
+    parser.add_argument(
         "--exceptions",
         nargs="?",
         dest="exceptions_file",
@@ -252,7 +251,7 @@ def main():
     args = parser.parse_args()
 
     checks = DocumentCheck(args.files_path, args.ref_locale, args.exceptions_file)
-    repo_errors = checks.checkDocuments()
+    repo_errors = checks.checkDocuments(args.type)
 
     if repo_errors:
         checks.showResults()
