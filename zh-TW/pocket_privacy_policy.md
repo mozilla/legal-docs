@@ -1,7 +1,7 @@
 # 隱私權政策
 
-*2024 年 3 月 7 日起生效*
-{: datetime="2024-03-07" }
+*2024 年 4 月 3 日起生效*
+{: datetime="2024-04-03" }
 
 本公告將說明在安裝或使用 Pocket 應用程式、我們提供的其他專有軟體應用程式或服務，或進入我們的網站（本文統稱為「Pocket 技術」）時，所有收集或送出之資訊所須遵守的隱私權政策。Pocket 技術由 Mozilla Corporation（本文稱「我們」、「Mozilla」) 擁有及授權，並由稱為「Pocket」的 Mozilla 事業單位營運，Pocket 曾開發多種應用程式及服務，以便搭配多種裝置及平台使用，包含但不限於 Windows、Mac、iPhone、iPad、Kindle Fire、Android、BlackBerry、Windows phone、Chrome、Safari、Firefox 以及其他行動裝置及電腦。
 
@@ -38,23 +38,24 @@
 
 ### 類型及目的
 
-我們會為了以下目的使用 Cookie 及分析術工具：
+我們會為了以下目的使用 4 種 Cookie 及分析術工具：
 
-* 必要 Cookie：這些必要 Cookie 能運作網站功能及支援企業營運。您無法關閉這些 Cookie。舉例來說，我們會使用這些 Cookie 管理您的登入狀態，而我們的廣告合作夥伴也會使用這些 Cookie 顯示廣告並量測曝光度及點閱次數。您可以調整瀏覽器設定，以便封鎖或對這些 Cookie 提出警示，不過這樣做可能會導致網站某些部份無法正常運作。這些 Cookie 並未儲存任何可辨識個人身分的資訊，而除非啟用「個人化廣告 Cookie」(Personalized Advertising Cookies)，否則廣告皆未經過個人化。
-* 分析術：我們會在您的裝置內置入這些 Cookie，以便幫助我們瞭解使用者與網站及產品的互動方式，並記憶您的帳號偏好設定及語言設定。舉例來說，我們會利用 Google Analytics（分析）及其他工具瞭解哪些 Pocket 網頁較為熱門。我們也會在電子郵件內使用像素收集使用資訊。
-* 個人化廣告：部份 Pocket 網頁會顯示廣告。在您選擇之後，Pocket 廣告合作夥伴將會在您的裝置中置入廣告 Cookie，藉此個人化本網站及其他網站上顯示的廣告。如果您在 Pocket 播放 YouTube 影片，則 YouTube 可能會在裝置中置入 Cookie 並用來個人化內容。您對 YouTube 及其內容的使用也須遵守 YouTube [隱私權政策](https://policies.google.com/privacy)。我們的聯合文章頁面上的個人化廣告合作夥伴 Freestar 有自己的 [隱私權政策](https://freestar.com/privacy-policy/)。
+* 必要：這些 Cookie 是運作網站功能不可或缺的要素。您無法關閉這些 Cookie。您可以調整瀏覽器設定，以便封鎖或對這些 Cookie 提出警示，不過這樣做可能會導致網站某些部份無法正常運作。這些 Cookie 並未儲存任何可辨識個人身分的資訊，而除非啟用「個人化廣告 Cookie」(Personalized Advertising Cookies)，否則廣告皆未經過個人化。
+* 偏好設定：我們會在您的裝置內置入這些 Cookie，以便記憶您的帳號偏好設定及語言設定。如果停用這些 Cookie，可能會導致部分功能故障。 
+* 分析術：我們會在您的裝置內置入這些 Cookie，以便幫助我們瞭解使用者與網站及產品的互動方式。舉例來說，我們會利用 Google Analytics（分析）及其他工具瞭解哪些 Pocket 網頁較為熱門。我們也會在電子郵件內使用像素收集使用資訊。
+* 個人化廣告：部份 Pocket 網頁會顯示廣告。在您同意之後，Pocket 廣告合作夥伴將會在您的裝置中置入廣告 Cookie，藉此個人化本網站及其他網站上顯示的廣告。如果您在 Pocket 播放 YouTube 影片，則 YouTube 可能會在裝置中置入 Cookie 並用來個人化內容。我們的聯合文章頁面上的個人化廣告合作夥伴 Freestar 有自己的 [隱私權政策](https://freestar.com/privacy-policy/)。
 
 ### 您的選擇
 
-* Cookie 偏好設定工具：Pocket 預設會設置必要 Cookie 及分析術 Cookie 並停用個人化廣告 Cookie。您可以透過 Cookie 偏好設定工具管理這些 Cookie。[了解更多資訊](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
+* Cookie 偏好設定工具：Pocket 預設會設定必要 Cookie、偏好設定 Cookie 及分析術 Cookie 並停用個人化廣告 Cookie。您可以透過 Cookie 偏好設定工具管理這些 Cookie 的設定。[了解更多資訊](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
 * 您的瀏覽器：您可以透過瀏覽器偏好設定選單輔助管理 Cookie 並防止跨網站追蹤。
-* Google Analytics（分析）不透露資訊：安裝 [Google Analytics（分析）不透露資訊瀏覽器外掛程式](https://tools.google.com/dlpage/gaoptout)即可防止系統將資訊傳輸至 Google Analytics（分析）。
-* 外部選擇退出工具：部份第三方組織為使用者提供選擇退出方式，讓參與企業不再傳遞個人化廣告。選擇退出方式請見以下組織網站：[網路廣告聯盟 (Network Advertising Initiative) 選擇退出工具](https://optout.networkadvertising.org/?c=1)、[數位廣告聯盟 (Digital Advertising Initiative) 瀏覽器檢查工具](https://optout.aboutads.info/?c=2)，以及[歐洲互動式數位廣告聯盟 (European Interactive Digital Advertising Alliance) Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices)。
+* Google 的分析術：系統會預設開啟包括 Google Analytics（分析）在內的分析術 Cookie。我們會利用 Google Analytics（分析）了解您和我們網站的互動方式，以及評估網站效能，藉此改善使用者體驗。
+* 其他選擇退出工具：部份第三方組織會為使用者提供選擇退出方式，讓參與企業不再傳遞個人化廣告。選擇退出方式請見以下組織網站：[網路廣告聯盟 (Network Advertising Initiative) 選擇退出工具](https://optout.networkadvertising.org/?c=1)、[數位廣告聯盟 (Digital Advertising Initiative) 瀏覽器檢查工具](https://optout.aboutads.info/?c=2)，以及[歐洲互動式數位廣告聯盟 (European Interactive Digital Advertising Alliance) Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices)。
 * 選擇退出販售個人資訊權：Pocket 不會分享或販售您的個人資訊。如果您啟用了 Pocket 的個人化廣告功能，我們會讓廣告商為您在 Pocket 顯示個人化廣告，而加州隱私權法律可能會將此判斷為販售資訊。您可以前往 Cookie 偏好設定工具 → 個人化廣告 Cookie 並調整設定為「停用」，即可選擇退出。
 
 除了上述方法之外，當您存取我們網站或使用 Pocket 技術時，我們也可能透過 Cookie 或其他技術收集資訊。如果瀏覽器有提供設定的話，您可以拒絕接受我們的 Cookie，不過這樣一來，您可能無法使用部份功能，且在同一工作階段內可能必須輸入更多次密碼，並可能無法安裝或使用特定 Pocket 技術。Cookie 及其他技術可讓 Pocket 技術更容易使用，並可幫助我們根據您的喜好及活動客製化及個人化我們為您提供的服務。
 
-我們也可能會在傳送給使用者的電子郵件中使用「像素標籤」、「網路信標」、「透明 GIF」或相似方式（個別使用或統稱為「像素標籤」），以便收集使用資料。我們會使用像素標籤、其他技術及收集來的資訊計算使用者進入網站特定頁面的次數，以便傳遞品牌服務，並協助判斷促銷或廣告活動的績效。
+我們也可能會在傳送給使用者的電子郵件中使用「像素標籤」、「網路信標」、「透明 GIF」或相似方式（個別或統稱為「像素標籤」），以便收集使用資料。我們會使用像素標籤、其他技術及收集來的資訊計算使用者進入網站特定頁面的次數，以便傳遞品牌服務，並協助判斷促銷或廣告活動的成效。
 
 ## 資訊使用方式 {: #use }
 
@@ -102,28 +103,24 @@
 
 ## 網路釣魚 {: #phishing }
 
-Pocket 非常關心身分盜竊及稱為「網路釣魚」的行徑。我們將保密資訊以便協助保護您的身分免遭盜竊視為最優先事項。在任何情況下，我們都絕對不會透過不請自來的電子郵件或電話通訊要求您提供使用者名稱、密碼、信用卡資訊或國家／地區身分證編號。有關網路釣魚的詳情請見聯邦貿易委員會網站。
+Pocket 非常關心身分盜竊及稱為「網路釣魚」的行徑。我們將保密資訊以便協助保護您的身分免遭盜竊視為最優先事項。在任何情況下，我們都絕對不會透過不請自來的電子郵件或電話通訊要求您提供使用者名稱、密碼、信用卡資訊或國家／地區的身分證字號。有關網路釣魚的詳情請見聯邦貿易委員會網站。
 
 ## 管理我的隱私權及電子郵件設定 {: #opt-out }
 
-您可以存取、修正或刪除個人資訊，並透過 Pocket 個人檔案匯出資料。您也可以檢視及控制想連線到 Pocket 帳號的第三方服務（如果有的話）。這些設定位於：<https://getpocket.com/options>
+您可以存取、修正或刪除個人資訊，並透過 Pocket 個人檔案匯出資料。您也可以檢視及控制想連線到 Pocket 帳號的第三方服務（如果有的話）。這些設定位於： <https://getpocket.com/options>
 
-根據我們的部分預設，我們會透過電子郵件與使用者分享儲存及推薦的內容。您可以透過我們任何電子郵件相等內容內提供的取消訂閱功能，或透過帳號設定，選擇不再接收這些內容、我們服務的最新資訊以及您的使用方式。我們也會盡量按照您的指示限制通訊內容，雖然這樣做可能導致處理要求需要花費一段時間。
+根據我們的部分預設設定，我們會透過電子郵件與使用者分享儲存及推薦的內容。您可以透過我們任何電子郵件相等內容中提供的取消訂閱功能，或透過帳號設定，選擇不再接收這些內容、最新服務資訊以及使用方式。我們也會盡量按照您的指示限制通訊內容，雖然這樣做可能導致處理要求需要花費一段時間。
 
 ## 政策修訂內容 {: #amendments }
 
-請注意，本隱私權政策可能會不時修改內容。我們得隨時透過您可以透過 [getpocket.com](https://getpocket.com/) 存取的網站，或透過 Pocket 的選項或說明選單張貼修訂條款的方式修改本隱私權政策。在網站張貼任何修訂條款後，這些條款應在三十 (30) 天後自動生效。如果隱私權政策有任何會影響資料庫已儲存使用者資訊的實質變更內容，我們會在網站張貼顯眼的公告，通知使用者瞭解隱私權政策內容有變。我們使用您的資訊時，應遵守您初次使用或如上所述的條款變更已過三十 (30) 天時所生效的隱私權政策條款與條件。
-
-如果您對上述任何規定有疑問，歡迎透過 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或上述接到地址聯絡我們。
+請注意，本隱私權政策可能會不時修改內容。我們得隨時透過您可以藉由 [getpocket.com](https://getpocket.com/) 存取的網站，或透過 Pocket 的選項或說明選單張貼修訂條款的方式修改本隱私權政策。在網站張貼任何修訂條款後，這些條款應在三十 (30) 天後自動生效。如果隱私權政策有任何會影響資料庫已儲存使用者資訊的實質變更內容，我們會在網站張貼顯眼的公告，通知使用者瞭解隱私權政策內容有所改變。我們使用您的資訊時，應遵守您初次使用或如上所述的條款變更已過三十 (30) 天時所生效的隱私權政策條款與條件。
 
 ## 聯絡方式 {: #contact }
 
-如果您對本隱私權政策有任何疑問或綠，應透過 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或 [https://help.getpocket.com/contact](https://help.getpocket.com/contact) 聯絡我們。您也可以使用以下聯絡方式：
+如果您對本隱私權政策有任何疑問或疑慮，應透過 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或 [https://help.getpocket.com/contact](https://help.getpocket.com/contact) 聯絡我們。您也可以使用以下聯絡方式：
 
 Mozilla Corporation  
-收件人：Pocket Business Unit  
+ATTN:Pocket Business Unit  
 149 New Montgomery Street  
 4th Floor  
-San Francisco, CA 94105（美國）
-
-歐洲單位人員如有未解決的隱私權申訴問題，有權向其歐盟成員國監督管理局舉報。
+San Francisco, CA 94105

@@ -1,7 +1,7 @@
 # プライバシーポリシー
 
-*発効日 2024 年 3 月 7 日*
-{: datetime="2024-03-07" }
+*発効日 2024 年 4 月 3 日*
+{: datetime="2024-04-03" }
 
 この通知は、Pocket アプリケーションまたは当社が提供するその他の専有ソフトウェアアプリケーションまたはサービスをインストールまたは使用する際、および当社ウェブサイト（以下、「Pocket Technologies」と総称）にアクセスする際に収集または送信されるすべての情報に適用されるプライバシーポリシーについて説明するものです。Pocket Technologies は、Mozilla Corporation（以下、「当社」または「Mozilla」と言う）によって所有およびライセンス供与されており、「Pocket」として知られる Mozilla の事業単位によって運営されています。「Pocket」は、Windows、Mac、iPhone、iPad、Kindle Fire、Android、BlackBerry、Windows Phone、Chrome、Safari、Firefox、およびその他のモバイルデバイスおよびコンピュータを含むがこれらに限定されない、さまざまなデバイスおよびプラットフォームに関連して使用されるアプリケーションおよびサービスを開発してきました。
 
@@ -38,19 +38,20 @@ Mozilla は、ユーザーアカウントの登録時に皆様が提供する情
 
 ### 種類と目的
 
-Mozilla は、以下の目的で Cookie ツールと分析ツールを使用します。
+Mozilla は、以下の目的で 4 種類の Cookie と分析ツールを使用します。
 
-* 必須: これらの Cookie は、Mozilla のウェブサイトが機能し、Mozilla の事業を支援するために必要です。これらの Cookie を無効にすることはできません。たとえば、Mozilla は Cookie を使用して皆様のログイン状態を管理します。また、広告パートナーは Cookie を使用して広告を表示したり、インプレッションやクリック回数を測定したりします。これらの Cookie をブロックまたは警告するようにブラウザーを設定できますが、そうすると、サイトの一部が正しく機能しなくなる可能性があります。これらの Cookie に、個人を特定できる情報が保存されることはありません。パーソナライズド広告 Cookie が有効になっていない限り、広告はパーソナライズされません。
-* 分析: Mozilla は、皆様が Mozilla のウェブサイトや製品をどのように利用しているかを理解し、皆様のアカウント設定および言語設定を記憶するために、これらの Cookie をデバイスに配置します。たとえば、Mozilla は Google Analyticsやその他のツールを使用して、どの Pocket ウェブページに人気が集まっているかを把握しています。また、使用状況に関する情報を収集するために、メールでもピクセルを使用しています。
-* パーソナライズド広告:一部の Pocket ウェブページには広告があります。皆様が選択した場合に限りますが、Pocket 広告パートナーは広告 Cookie を皆様のデバイスに配置して、Pocket ウェブページや他のウェブサイトで表示される広告をパーソナライズします。Pocket で YouTube 動画を再生する場合、YouTube は パーソナライズ用の Cookie をデバイスに配置する場合があります。皆様による YouTube およびそのコンテンツの使用には、YouTube の [プライバシーポリシー](https://policies.google.com/privacy) も適用されます。Mozilla のシンジケートされた記事のページに表示されるパーソナライズド広告のパートナー「Freestar」には、独自の [プライバシーポリシー](https://freestar.com/privacy-policy/) があります。
+* 必須:これらの Cookie は、Mozilla のウェブサイトが機能するために必要です。これらの Cookie を無効にすることはできません。これらの Cookie をブロックまたは警告するようにブラウザーを設定できますが、そうすると、サイトの一部が正しく機能しなくなる可能性があります。これらの Cookie に、個人を特定できる情報が保存されることはありません。パーソナライズド広告 Cookie が有効になっていない限り、広告はパーソナライズされません。
+* 設定:Mozilla は、皆様のアカウント設定と言語設定を記憶するために、これらの Cookie をデバイスに配置します。これらの Cookie を無効にすると、一部の機能が壊れる可能性があります。
+* 分析:Mozilla は、皆様が Mozilla のウェブサイトや製品をどのように利用しているかを理解するために、これらの Cookie をデバイスに配置します。たとえば、Mozilla は Google アナリティクスやその他のツールを使用して、どの Pocket ウェブページに人気が集まっているかを把握しています。また、使用状況に関する情報を収集するために、メールでもピクセルを使用しています。
+* パーソナライズド広告:一部の Pocket ウェブページには広告があります。皆様が同意された場合に限り、Pocket 広告パートナーは広告 Cookie を皆様のデバイスに配置して、Pocket ウェブページや他のウェブサイトで表示される広告をパーソナライズします。Pocket で YouTube 動画を再生する場合、YouTube は パーソナライズ用の Cookie をデバイスに配置する場合があります。Mozilla のシンジケートされた記事のページに表示されるパーソナライズド広告のパートナー「Freestar」には、独自の [プライバシーポリシー](https://freestar.com/privacy-policy/) があります。
 
 ### 皆様の選択
 
-* Cookie 設定ツール: Pocket の初期設定では、必須の Cookie と分析 Cookie が設定され、パーソナライズド広告 Cookie は無効になっています。これらの Cookie は Cookie 設定ツールで管理できます。[詳細はこちら](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
-* お使いのブラウザー: ブラウザーの設定メニューは、Cookie を管理し、クロスサイトトラッキングを防止するのに役立つことがあります。
-* Google のアナリティクスオプトアウト: [Google Analyticsオプトアウトブラウザーアドオン](https://tools.google.com/dlpage/gaoptout)をインストールします。これにより、Google Analyticsへのデータ送信が禁止されます。
-* 外部のオプトアウトツール: 一部のサードパーティ組織により、参加企業が配信するパーソナライズド広告をオプトアウトする手段が提供されています。オプトアウトする方法の詳細については、次の組織のウェブサイトをご覧ください: [Network Advertising Initiative のオプトアウトツール](https://optout.networkadvertising.org/?c=1)、[Digital Advertising Initiative のブラウザーチェックツール](https://optout.aboutads.info/?c=2)、[European Interactive Digital Advertising Alliance の Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices)。
-* 個人情報の販売をオプトアウトする皆様の権利: Pocket が皆様の個人情報を共有または販売することはありません。Pocket でパーソナライズド広告を有効にすると、広告主が Pocket で皆様の広告をパーソナライズできるようになります。これは、カリフォルニア州のプライバシー法に基づき、皆様の情報の販売と見なされる場合があります。Cookie 設定ツールからパーソナライズド広告 Cookie のオプションに移動し、「無効」に切り替えることでオプトアウトできます。
+* Cookie 設定ツール:Pocket の初期設定では、必須の Cookie、設定 Cookie、および分析 Cookie が設定され、パーソナライズド広告 Cookie は無効になっています。これらの Cookie の設定は Cookie 設定ツールで管理できます。[詳細はこちら](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
+* お使いのブラウザー:ブラウザーの設定メニューは、Cookie を管理し、クロスサイトトラッキングを防止するのに役立つことがあります。
+* Google アナリティクス:Google アナリティクスを含む分析 Cookie は、初期設定で有効になっています。Google アナリティクスを使用することで、皆様が Mozilla のウェブサイトをどのように操作しているかを理解し、サイトのパフォーマンスを測定してユーザー体験を向上させることができます。
+* その他のオプトアウトツール:一部のサードパーティ組織により、参加企業が配信するパーソナライズド広告をオプトアウトする手段が提供されています。オプトアウトする方法の詳細については、次の組織のウェブサイトをご覧ください:[Network Advertising Initiative のオプトアウトツール](https://optout.networkadvertising.org/?c=1)、[Digital Advertising Initiative のブラウザーチェックツール](https://optout.aboutads.info/?c=2)、[European Interactive Digital Advertising Alliance の Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices)。
+* 個人情報の販売をオプトアウトする皆様の権利:Pocket が皆様の個人情報を共有または販売することはありません。Pocket でパーソナライズド広告を有効にすると、広告主が Pocket で皆様の広告をパーソナライズできるようになります。これは、カリフォルニア州のプライバシー法に基づき、皆様の情報の販売と見なされる場合があります。Cookie 設定ツールからパーソナライズド広告 Cookie のオプションに移動し、「無効」に切り替えることでオプトアウトできます。
 
 上記の方法に加え、Mozilla は、皆様が Mozilla のウェブサイトにアクセスしたとき、または Pocket Technologies を使用したときに、Cookie またはその他の技術を使用して情報を収集することもあります。お使いのブラウザーで許可されている場合、皆様は Cookie を拒否することができますが、その場合、特定の機能を使用できなくなる可能性があります。セッション中にパスワードを頻繁に入力するよう求められることや、特定の Pocket Technologies をインストールまたは使用できない可能性があります。Cookie やその他の技術によって Pocket Technologies の利用が容易になるため、Mozilla は皆様の興味や活動に基づいて、提供するサービスをカスタマイズおよびパーソナライズできるようになります。
 
@@ -106,7 +107,7 @@ Mozilla はサードパーティと契約を結び、当社の管理下または
 
 ## プライバシーとメール設定の管理 {: #opt-out }
 
-皆様は、各自の個人情報にアクセスしたり、各自の個人情報を修正または削除したり、Pocket プロファイルからの各自のデータをエクスポートしたりできます。また、Pocket アカウントに接続したいサードパーティサービスがある場合は、それらのサービスを表示および制御することもできます。これらの設定は次の場所にあります: <https://getpocket.com/options>
+皆様は、各自の個人情報にアクセスしたり、各自の個人情報を修正または削除したり、Pocket プロファイルからの各自のデータをエクスポートしたりできます。また、Pocket アカウントに接続したいサードパーティサービスがある場合は、それらのサービスを表示および制御することもできます。これらの設定は次の場所にあります:<https://getpocket.com/options>
 
 保存済みの推奨コンテンツを共有するための初期設定の一環として、Mozilla はユーザーにメールを送信します。これらの受信、および当社のサービスと使用に関する更新の受信をオプトアウトするには、当社から送られたメール通信のいずれか、またはアカウント設定から登録解除機能を使用します。リクエストの処理には時間がかかる場合がありますが、皆様からの指示に従ってのみ、連絡を取らせていただきます。
 
@@ -114,16 +115,12 @@ Mozilla はサードパーティと契約を結び、当社の管理下または
 
 本プライバシーポリシーは随時変更されますので、ご注意ください。Mozilla は、[getpocket.com](https://getpocket.com/) または Pocket アプリケーションのオプションまたはヘルプメニューからアクセスできる当社ウェブサイトに修正された条件を投稿することで、いつでも本プライバシーポリシーを修正できます。修正された条件はすべて、最初にウェブサイトに投稿されてから 30 日後に自動的に有効になります。Mozilla のプライバシーポリシーに、当社データベースに既に保存されているユーザー情報に影響を及ぼすような重大な変更が加えられる場合、Mozilla は当社ウェブサイトに目立つ通知を掲げ、当社プライバシーポリシーが変更されたことをユーザーに通知するものとします。上記の説明のように、Mozilla による皆様の情報の使用は、皆様が当社アプリケーションを最初に使用するときに有効な、または条件が変更されてから 30 日後に有効な、当社プライバシーポリシーの条件に準拠するものとします。
 
-上記の条項についてご質問がある場合は、[privacy@getpocket.com](mailto:privacy@getpocket.com) または上記の住所までご連絡ください。
-
 ## お問い合わせ {: #contact }
 
-本プライバシーポリシーに関してご質問またはご懸念がある場合は、[privacy@getpocket.com](mailto:privacy@getpocket.com) または [https://help.getpocket.com/contact](https://help.getpocket.com/contact) までご連絡ください。別のお問い合わせ方法:  
+本プライバシーポリシーに関してご質問またはご懸念がある場合は、[privacy@getpocket.com](mailto:privacy@getpocket.com) または [https://help.getpocket.com/contact](https://help.getpocket.com/contact) までご連絡ください。別のお問い合わせ方法:
 
-Mozilla Corporation  
-ATTN:Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
+Mozilla Corporation
+ATTN:Pocket Business Unit
+149 New Montgomery Street
+4th Floor
 San Francisco, CA 94105
-
-欧州にお住まいの方で、プライバシーに関する苦情が解決されていないと主張される方は、加盟国の監督当局に苦情を申し立てる権利を有します。

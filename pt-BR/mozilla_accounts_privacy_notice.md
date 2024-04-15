@@ -1,7 +1,7 @@
 # Aviso de Privacidade das Contas da Mozilla
 
-Versão 1.0, 1o de novembro de 2023
-{: datetime="2023-11-01" }
+Versão 1.1, quarta-feira, 3 de abril de 2024
+{: datetime="2024-04-03" }
 
 Neste Aviso de Privacidade, explicamos quais dados sobre você a Mozilla coleta e compartilha. Também aderimos às práticas descritas na [Política de Privacidade da Mozilla](https://www.mozilla.org/privacy/) quanto a como recebemos, lidamos e compartilhamos informações coletadas quando você tem uma [conta da Mozilla](https://accounts.firefox.com/). Outras informações podem ser coletadas e compartilhadas pelos diferentes produtos e serviços aos quais você tem acesso com sua conta da Mozilla. Consulte a documentação completa ou saiba mais sobre esse uso, inclusive sobre como [gerenciar os dados da sua conta da Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) e nossas práticas de uso de dados em [sites e e-mails](https://www.mozilla.org/privacy/websites/). Você também pode consultar os Avisos de Privacidade dos nossos serviços conectados à conta da Mozilla:
 
@@ -17,7 +17,7 @@ Neste Aviso de Privacidade, explicamos quais dados sobre você a Mozilla coleta 
 
 ## O que você deve saber
 
-__Dados de registro.__ A Mozilla recebe seu e-mail e um hash da sua senha quando você cria uma conta da Mozilla. Você pode optar por informar sua idade e incluir um nome de exibição ou uma imagem de perfil. Seu e-mail é enviado para nosso fornecedor de e-mail, o Acoustic, que tem seu próprio [aviso de privacidade](https://acoustic.com/privacy-notice/). Usamos os serviços do Acoustic para nos comunicarmos com você.
+__Dados de registro.__ A Mozilla recebe seu e-mail e um hash da sua senha quando você cria uma conta da Mozilla. Você pode optar por informar sua idade e incluir um nome de exibição ou uma imagem de perfil. Seu endereço de e-mail é enviado ao nosso fornecedor de e-mail, Braze, que tem seu próprio [aviso de privacidade](https://www.braze.com/company/legal/privacy); usamos os serviços da Braze para nos comunicarmos com você.
 
 __Dados de localização.__ Usamos o endereço IP para identificar sua localização aproximada para fins de prevenção contra fraude e abuso em todos os nossos produtos. Enviamos alertas de e-mail para você caso detectemos atividades suspeitas, como logins na conta de outros locais. 
 

@@ -41,21 +41,16 @@ En plus des informations que vous nous fournissez lorsque vous vous inscrivez po
 Nous utilisons quatre type de cookies et des outils d'analyses dans les buts suivants :
 
 * Nécessaires : Ces cookies sont nécessaires au fonctionnement de notre site Web. Ils ne peuvent pas être désactivés. Vous pouvez paramétrer votre navigateur pour qu'il bloque les cookies ou vous prévienne de leur présence, mais cela peut nuire au fonctionnement de certaines parties du site. Ces cookies ne stockent aucune information personnellement identifiables et les annonces ne sont pas personnalisées, sauf si les cookies publicitaires personnalisés sont activés.
-* Préférence : Nous plaçons ces cookies sur votre appareil pour mémoriser vos préférences de compte et les paramètres régionaux. La désactivation de ces cookies risque de limiter certaines fonctionnalités. 
+* Préférence : Nous plaçons ces cookies sur votre appareil pour mémoriser vos préférences de compte et les paramètres régionaux. La désactivation de ces cookies risque de limiter certaines fonctionnalités.
 * Analyses : Nous plaçons ces cookies sur votre appareil pour nous aider à comprendre comment les utilisateurs interagissent avec notre site Web et notre produit. Par exemple, nous utilisons Google Analytics et d'autres outils pour comprendre quelles pages Web Pocket sont les plus visitées. Nous utilisons d'autre part des pixels dans nos courriels pour collecter des renseignements sur l'utilisation.
 * Publicité personnalisée : Certaines pages Web de Pocket comportent des annonces. Avec votre consentement, les partenaires publicitaires de Pocket placeront des cookies publicitaires sur votre appareil pour personnaliser les annonces que vous verrez ici et sur d'autres sites Web. Si vous regardez une vidéo YouTube sur Pocket, YouTube pourra placer des cookies sur votre appareil à des fins de personnalisation. Notre partenaire d'annonces personnalisées sur vos pages d'articles, Freestar, dispose de sa propre [Politique de confidentialité](https://freestar.com/privacy-policy/).
 
 ### Vos choix
 
-* Outil des préférences pour les cookies : Par défaut, Pocket paramètre les cookies nécessaires, de préférences et d'analyses et désactive les cookies de publicité personnalisée. Vous pouvez gérer les paramètres de ces cookies à partir de cet outil des préférences pour les cookies. [En savoir plus](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Outil des préférences pour les cookies : Outil des préférences pour les cookies : Par défaut, Pocket configure les cookies nécessaires et désactive tous les autres types de cookies. Vous pouvez gérer les paramètres de ces cookies à partir de cet outil des préférences pour les cookies. [En savoir plus](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
 * Votre navigateur : Le menu Préférences de votre navigateur peut vous aider à gérer les cookies et empêcher le suivi inter-sites.
-* Google Analytics : Par défaut, les cookies d'analyse, notamment ceux de Google Analytics, sont activés. Google Analytics nous permettra de comprendre comment vous interagissez avec notre site et d'analyser les performances du site afin d'améliorer votre expérience.
+* Google Analytics : Par défaut, les cookies d'analyse, notamment ceux de Google Analytics, sont désactivés. SI vous actives les cookies d'analyse, Google Analytics nous permettra de comprendre comment vous interagissez avec notre site et d'analyser les performances du site afin d'améliorer votre expérience.
 * Outils de désactivation supplémentaires : Certaines organisations tierces vous donnent la possibilité de désactiver les publicités personnalisées placées par des sociétés publicitaires. Pour en savoir plus sur la désactivation, rendez-vous sur les sites Web de ces organisations : [Outils de désactivation Network Advertising Initiative'](https://optout.networkadvertising.org/?c=1), [outil Digital Advertising Initiative Browser Check](https://optout.aboutads.info/?c=2) et les [European Interactive Digital Advertising Alliance Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Votre droit à désactiver la vente d'informations personnelles : Pocket ne partage ni ne vend vos informations personnelles. Si vous avez activé la publicité personnalisée dans Pocket, nous autorisons les annonceurs à personnaliser vos publicités sur Pocket et cela pourra être considéré comme une vente de vos informations selon la loi sur la confidentialité de Californie. Vous pouvez désactiver cette pratique dans l'outil Préférences des cookies → Cookies de publicité personnalisée → Désactivés.
-
-En plus des méthodes décrites ci-dessus, nous pouvons également collecter des informations en utilisant des cookies ou d'autres technologies lorsque vous accédez à notre site Web ou utilisez les Technologies Pocket. Vous pouvez refuser nos cookies si votre navigateur le permet. Dans ce cas, cependant, vous ne pourrez peut-être pas utiliser certaines fonctions, vous devrez peut-être entrer votre mot de passe plus fréquemment pendant une session et vous ne pourrez peut-être pas installer ou utiliser certaines Technologies Pocket. Les cookies et autres technologies facilitent l'utilisation de nos Technologies Pocket. Ils nous aident également à personnaliser et à peaufiner les services que nous offrons en fonction de vos intérêts et de vos activités.
-
-Nous pouvons également utiliser des « pixels invisibles », des « balises Web », des « GIF invisibles » ou des méthodes similaires (individuellement ou collectivement « pixels invisibles ») en rapport avec les courriels que nous envoyons à nos utilisateurs afin de collecter des données d'utilisation. Nous utilisons les pixels invisibles, d'autres technologies et les informations que nous collectons pour compter les utilisateurs qui ont visité certaines pages de notre site Web, fournir des services de marque et aider à déterminer l'efficacité des campagnes promotionnelles ou publicitaires.
 
 ## Utilisation des informations {: #use }
 
@@ -117,10 +112,13 @@ Veuillez noter que cette Politique de confidentialité sera modifiée de temps �
 
 ## Contact {: #contact }
 
-Si vous avez des questions ou des préoccupations concernant cette Politique de confidentialité, vous pouvez nous contacter sur [privacy@getpocket.com](mailto:privacy@getpocket.com) ou [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Vous pouvez également nous contacter à l'adresse suivante :
+Si vous avez des questions ou des préoccupations concernant cette Politique de confidentialité, vous pouvez nous contacter sur [privacy@getpocket.com](mailto:privacy@getpocket.com) ou [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+Si vous avez d'autres questions concernant vos données personnelles ou nos pratiques de confidentialité, veuillez nous contacter sur [dpo@mozilla.com](mailto:dpo@mozilla.com) ou contacter notre délégué à la protection des données à l'adresse suivante :
+
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Bruxelles  
+Belgium  
+
+Nous répondons à toutes les demandes de personnes désireuses d'exercer leurs droits de protection des données conformément aux lois en vigueur sur la protection de données. Vous allez le droit de poser une réclamation auprès de votre organisme local de protection des données (par exemple la CNIL en France).

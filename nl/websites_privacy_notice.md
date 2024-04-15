@@ -1,7 +1,7 @@
 # Privacykennisgeving voor websites, communications en cookies
 
-Woensdag 1 november 2023
-{: datetime="2023-11-01" }
+woensdag 3 april 2024
+{: datetime="2024-04-03" }
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
@@ -20,7 +20,7 @@ We ontvangen mogelijk persoonlijke informatie van u op basis van uw interactie m
 
 * **Gebruikersfeedback**: U kunt ons feedback geven over onze producten en services op webpagina's, zoals [connect.mozilla.org](https://connect.mozilla.org/), via een ervaring binnen een product of via kanalen, zoals e-mail, Bugzilla, Matrix, een sociale media-account, onze Get Involved-pagina of via een groep, zoals Student Ambassadors. Minimaliseer de persoonlijke informatie die u op deze forums deelt omdat uw opmerkingen mogelijk toegankelijk zijn voor het publiek.
 
-* **Accounts en abonnementen**: Sommige websites, zoals [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), vereisen dat er een account wordt gemaakt. Voor accountbeheer gebruiken we [Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) of aangepaste systemen. [Hier](https://support.mozilla.org/kb/managing-account-data) vindt u informatie over hoe Mozilla accountgegevens beheert. U ontvangt mogelijk periodiek e-mails in verband met uw account of via abonnementen. Onze leveranciers voor e-mailbeheer zijn  [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) en [Acoustic](https://acoustic.com/privacy-notice/), en kunt zich uitschrijven via de link onderaan de e-mail. 
+* **Accounts en abonnementen**: Sommige websites, zoals [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), vereisen dat er een account wordt gemaakt. Voor accountbeheer gebruiken we [Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [Github](https://support.github.com/#our-use-of-cookies-and-tracking) of aangepaste systemen. [Hier](https://support.mozilla.org/kb/managing-account-data) vindt u informatie over hoe Mozilla accountgegevens beheert. U ontvangt mogelijk periodiek e-mails in verband met uw account of via abonnementen. Onze leveranciers voor e-mailbeheer zijn [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) en [Braze](https://www.braze.com/company/legal/privacy), en u kunt zich uitschrijven via de link onderaan de e-mail. 
 
 * **Product- en beleidcampagnes**: Sommige van onze webpagina's hosten product- of beleidcampagnes. U kunt bijvoorbeeld een link per e-mail of sms aanvragen voor het installeren van Firefox op uw mobiele apparaat of om uw wetgevers verzoeken sturen ten aanzien van internetkwesties. We kunnen derde partijen gebruiken voor het beheren van deze campagnes en het behandelen van gegevens als u ervoor kiest deze te verzenden. 
 {: #campaigns }

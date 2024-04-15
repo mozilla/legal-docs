@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Akun Mozilla
 
-Versi 1.0, Berlaku 01 November 2023
-{: datetime="2023-11-01" }
+Versi 1.1, Berlaku 03 April 2024
+{: datetime="2024-04-03" }
 
 Dalam Pemberitahuan Privasi ini, kami menjelaskan apa saja data tentang Anda yang Mozilla kumpulkan dan bagikan. Kami juga mematuhi praktik yang diuraikan dalam [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) terkait cara kami menerima, menangani, dan membagikan informasi yang kami kumpulkan saat Anda memiliki [akun Mozilla](https://accounts.firefox.com/). Informasi tambahan mungkin dikumpulkan dan dibagikan oleh produk dan layanan lain yang Anda akses dengan akun Mozilla Anda. Baca dokumentasi lengkapnya atau pelajari lebih lanjut, termasuk cara [mengelola data akun Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) Anda atau praktik data kami untuk [situs web dan email](https://www.mozilla.org/privacy/websites/). Anda juga bisa membaca Pemberitahuan Privasi untuk layanan yang terhubung dengan akun Mozilla kami, yaitu:
 
@@ -17,7 +17,7 @@ Dalam Pemberitahuan Privasi ini, kami menjelaskan apa saja data tentang Anda yan
 
 ## Beberapa Hal yang Perlu Anda Ketahui
 
-__Data pendaftaran.__ Mozilla menerima alamat email dan hash kata sandi Anda saat Anda mendaftar akun Mozilla. Anda bisa memilih untuk menyertakan usia Anda, serta menyertakan nama tampilan atau gambar profil. Alamat email Anda dikirim kepada vendor email kami, Acoustic, yang memiliki [kebijakan privasi](https://acoustic.com/privacy-notice/) sendiri; kami menggunakan layanan Acoustic untuk berkomunikasi dengan Anda.
+__Data pendaftaran.__ Mozilla menerima alamat email dan hash kata sandi Anda saat Anda mendaftar akun Mozilla. Anda bisa memilih untuk menyertakan usia Anda, serta menyertakan nama tampilan atau gambar profil. Alamat email Anda dikirim kepada vendor email kami, Braze, yang memiliki [kebijakan privasi](https://www.braze.com/company/legal/privacy) sendiri; kami menggunakan layanan Braze untuk berkomunikasi dengan Anda.
 
 __Data lokasi.__ Kami menggunakan alamat IP untuk memperkirakan lokasi Anda untuk keperluan mencegah penipuan dan penyalahgunaan di seluruh produk kami. Kami akan mengirimi Anda email jika kami mendeteksi aktivitas mencurigakan, seperti masuk akun dari lokasi lain. 
 

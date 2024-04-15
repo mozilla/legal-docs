@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Zasady prywatności</span> <span class="privacy-header-policy"> przeglądarki Firefox</span>
 
-*Data wejścia w życie: 2024-01-17 r.
-{: datetime="2024-01-17" }
+*Data wejścia w życie: 3 kwietnia 2024 r.
+{: datetime="2024-04-03" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -47,13 +47,13 @@ Jeśli użytkownik włączy opcję „Ulepszone doświadczenie podpowiedzi w Fir
 
 ### Proponowanie istotnej zawartości
 
-Firefox wyświetla zawartość, taką jak rekomendacje dodatków, popularne strony (witryny polecane przez Mozillę nowym użytkownikom Firefoksa) i rekomendacje Pocket (usługa stanowiąca część rodziny Mozilla).
+Firefox wyświetla zawartość, taką jak rekomendacje dodatków, popularne strony (witryny polecane przez Mozillę nowym użytkownikom Firefoksa) i rekomendacje.
 
 * __Dane lokalizacji__: Firefox używa adresu IP w celu proponowania istotnej zawartości na podstawie kraju i stanu użytkownika.
 
 * __Dane techniczne i dane dotyczące interakcji__: Firefox wysyła do nas dane, takie jak pozycja, rozmiar i umiejscowienie proponowanej przez nas zawartości, a także podstawowe dane interakcji użytkownika z zawartością. Obejmuje to liczbę wyświetleń lub kliknięć zawartości. Używamy danych technicznych i danych dotyczących interakcji, aby lepiej zrozumieć naszych użytkowników i ulepszyć nasz produkt. 
 
-* __Rekomendacje Pocket__: Zawartość polecamy na podstawie historii przeglądania, języka i kraju użytkownika. Proces określania historii do wyświetlenia na podstawie historii przeglądania odbywa się lokalnie w Firefoksie, a Mozilla nie otrzymuje kopii historii przeglądania użytkownika. Mozilla otrzymuje zagregowane dane dotyczące rekomendacji wyświetlonych i klikniętych przez użytkownika. Ponadto zagregowane dane dotyczące treści sponsorowanych, które użytkownik widzi i klika, udostępniamy naszej zewnętrznej platformie reklamowej [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), aby reklamodawcy mogli sprawdzić, ile osób kliknęło ich artykuły. Te zagregowane dane nie identyfikują użytkownika osobiście.
+* __Rekomendacje__: Możemy polecać zawartość na podstawie historii przeglądania, języka i kraju użytkownika. Proces określania historii do wyświetlenia na podstawie historii przeglądania odbywa się lokalnie w Firefoksie, a Mozilla nie otrzymuje kopii historii przeglądania użytkownika. Mozilla otrzymuje zagregowane dane dotyczące rekomendacji wyświetlonych i klikniętych przez użytkownika. Ponadto zagregowane dane dotyczące treści sponsorowanych, które użytkownik widzi i klika, udostępniamy naszej zewnętrznej platformie reklamowej [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), aby reklamodawcy mogli sprawdzić, ile osób kliknęło ich artykuły. Te zagregowane dane nie identyfikują użytkownika osobiście.
 
 * __Popularne strony__: Kiedy użytkownik kliknie kafelek Sponsorowane popularne strony na nowej karcie, udostępniamy informacje o kraju, regionie i hrabstwie (w przypadku lokalizacji w Stanach Zjednoczonych) użytkownika, klikniętym kafelku i czasie kliknięcia platformie AdMarketplace (zewnętrzna platforma poleceń firmy) w celu weryfikacji przejścia do witryny. Firefox nie udostępnia adresu IP użytkownika ani żadnych informacji, które mogłyby zostać użyte do identyfikacji użytkownika.
 

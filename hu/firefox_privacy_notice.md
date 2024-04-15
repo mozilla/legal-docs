@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
-*Hatályos: 2024. január 17-től
-{: datetime="2024-01-17" }
+*Hatályos: 2024. április 3-tól
+{: datetime="2024-04-03" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
 
@@ -47,13 +47,13 @@ Ha úgy dönt, hogy engedélyezi a „Firefox Suggest-élmény javítása” leh
 
 ### A releváns tartalom ajánlása
 
-A Firefox olyan tartalmakat jelenít meg, mint például az bővítményajánlások, a Top Site-ok (a Mozilla által az első Firefox-felhasználók számára javasolt webhelyek) és a Pocket-ajánlások (amely a Mozilla-család része).
+A Firefox olyan tartalmakat jelenít meg, mint például a Bővítményajánlások, a Top Site-ok (a Mozilla által az első Firefox-felhasználók számára javasolt webhelyek) és az Ajánlások.
 
 * __Helyadatok__: A Firefox az Ön IP-címét használja arra, hogy az ország és az állam alapján releváns tartalmat javasoljon.
 
 * __Műszaki és interakciós adatok__: A Firefox olyan adatokat küld nekünk, mint az általunk javasolt tartalmak helyzete, mérete és elhelyezése, valamint alapvető adatokat a tartalommal való interakcióiról. Ez magában foglalja a tartalom megjelenítésének vagy kattintásának számát. Technikai és interakciós adatokat használunk fel annak érdekében, hogy jobban megértsük felhasználóinkat és javítsuk termékünket. 
 
-* __Pocket-ajánlások__: A böngészési előzmények, a nyelv és az ország elhelyezkedése alapján ajánlunk tartalmat Önnek. Az arról való döntés, hogy a böngészési előzmények alapján mely történeteket kell látnia, helyben, a Firefoxban történik, és a Mozilla nem kap másolatot a böngészési előzményekről. A Mozilla összesített adatokat kap azokról az ajánlásokról, amelyeket Ön látott, és amelyekre kattintott. A szponzorált tartalmakra vonatkozó összesített adatokat is megosztjuk a [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) harmadik fél hirdetési platformjával, hogy a hirdetők láthassák, hányan kattintanak a cikkeikre. Ezek az összesített adatok nem azonosítják Önt személyesen.
+* __Ajánlások__: A böngészési előzmények, a nyelv és az ország elhelyezkedése alapján ajánlhatunk tartalmakat Önnek. Az arról való döntés, hogy a böngészési előzmények alapján mely történeteket kell látnia, helyben, a Firefoxban történik, és a Mozilla nem kap másolatot a böngészési előzményekről. A Mozilla összesített adatokat kap azokról az ajánlásokról, amelyeket Ön látott, és amelyekre kattintott. A szponzorált tartalmakra vonatkozó összesített adatokat is megosztjuk a [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) harmadik fél hirdetési platformjával, hogy a hirdetők láthassák, hányan kattintanak a cikkeikre. Ezek az összesített adatok nem azonosítják Önt személyesen.
 
 * __Kiemelt webhelyek__: Amikor egy új lapon egy szponzorált Kiemelt webhelyek elemre kattint, megosztjuk az országát, régióját, megyéjét (ha az Egyesült Államokban tartózkodik), az elemet, amelyre kattintott és a kattintás idejét az AdMarketplace-szel (egy harmadik fél ajánló platformjával), hogy ellenőrizhessük, hogy a webhelyre navigált. A Firefox nem osztja meg az Ön IP-címét vagy más olyan információt, amely felhasználható az Ön azonosítására.
 

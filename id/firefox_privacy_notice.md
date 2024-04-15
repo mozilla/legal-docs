@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Pemberitahuan Privasi</span>
 
-*Berlaku 17 Januari 2024
-{: datetime="2024-01-17" }
+*Berlaku 03 April 2024
+{: datetime="2024-04-03" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat.
 
@@ -47,13 +47,13 @@ Jika Anda memilih untuk ikut serta dalam "Tingkatkan Pengalaman Firefox Suggest"
 
 ### Merekomendasikan konten yang relevan
 
-Firefox menampilkan konten, seperti Rekomendasi Pengaya, Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna Firefox pertama kali), dan Rekomendasi Pocket (bagian dari jajaran fitur Mozilla).
+Firefox menampilkan konten, seperti Rekomendasi Add-on, Situs Populer (situs web yang disarankan oleh Mozilla kepada pengguna yang baru pertama kali menggunakan Firefox), dan Rekomendasi.
 
 * __Data lokasi__: Firefox menggunakan alamat IP untuk memberikan saran konten yang relevan berdasarkan negara dan negara bagian Anda.
 
 * __Data teknis & interaksi__: Firefox mengirim data kepada kami seperti posisi, ukuran, dan letak konten yang kami sarankan, serta data dasar tentang interaksi Anda dengan konten tersebut. Termasuk frekuensi konten ditampilkan atau diklik. Kami menggunakan data teknis dan interaksi untuk lebih memahami pengguna dan meningkatkan produk kami. 
 
-* __Rekomendasi Pocket__: Kami merekomendasikan konten kepada Anda berdasarkan riwayat penjelajahan, bahasa, dan lokasi negara Anda. Proses memutuskan cerita mana yang harus Anda lihat berdasarkan riwayat penjelajahan Anda terjadi secara lokal di salinan Firefox Anda, dan Mozilla tidak menerima salinan riwayat penjelajahan Anda. Mozilla menerima data agregat tentang rekomendasi yang Anda lihat dan klik. Kami juga membagikan data agregat tentang konten bersponsor yang Anda lihat dan klik dengan platform iklan pihak ketiga kami, [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) sehingga pengiklan dapat melihat berapa banyak orang yang mengeklik artikel mereka. Data agregat ini tidak mengidentifikasi Anda secara pribadi.
+* __Rekomendasi__: Kami bisa merekomendasikan konten kepada Anda berdasarkan riwayat penjelajahan, bahasa, dan lokasi negara Anda. Proses memutuskan cerita mana yang harus Anda lihat berdasarkan riwayat penjelajahan Anda terjadi secara lokal di salinan Firefox Anda, dan Mozilla tidak menerima salinan riwayat penjelajahan Anda. Mozilla menerima data agregat tentang rekomendasi yang Anda lihat dan klik. Kami juga membagikan data agregat tentang konten bersponsor yang Anda lihat dan klik dengan platform iklan pihak ketiga kami, [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) sehingga pengiklan dapat melihat berapa banyak orang yang mengeklik artikel mereka. Data agregat ini tidak mengidentifikasi Anda secara pribadi.
 
 * __Situs Populer__: Saat Anda mengeklik ubin Situs Populer Bersponsor di Tab Baru, kami membagikan negara, wilayah, wilayah (jika Anda berada di AS), ubin yang Anda klik, dan waktu Anda mengeklik kepada AdMarketplace (platform rujukan pihak ketiga) untuk memverifikasi bahwa Anda telah membuka situs web tersebut. Firefox tidak membagikan alamat IP atau informasi lain yang dapat digunakan untuk mengidentifikasi Anda.
 
