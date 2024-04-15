@@ -41,21 +41,16 @@ In addition to the information that you provide to us when you register for a us
 We use four types of cookies and analytics tools for the following purposes:
 
 * Necessary: These cookies are necessary for our website to function. They cannot be switched off. You can set your browser to block or alert you about these cookies, but this may cause parts of the site to not work properly. These cookies do not store any personally identifiable information and unless Personalized Advertising Cookies are enabled, ads are non-personalized.
-* Preference: We place these cookies on your device to remember your account preferences and language settings. Disabling these cookies may break some features. 
+* Preference: We place these cookies on your device to remember your account preferences and language settings. Disabling these cookies may break some features.
 * Analytics: We place these cookies on your device to help us understand how users engage with our website and product. For example, we use Google Analytics and other tools to understand which Pocket webpages are popular. We also use pixels in our emails in order to collect usage information.
 * Personalized Advertising: Some Pocket web pages have ads. With your consent, Pocket’s ad partners will place advertising cookies on your device to personalize the ads you see here and on other websites. If you play a YouTube video on Pocket, YouTube may place cookies on your device which can be used for personalization. Our partner for personalized ads on our syndicated article pages, Freestar, has its own [Privacy Policy](https://freestar.com/privacy-policy/).
 
 ### Your Choices
 
-* Cookie Preference tool: By default, Pocket sets necessary, preference, and analytics cookies, and disables personalized advertising cookies. You can manage your settings for these cookies from this Cookie Preferences tool. [Learn more](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
-* Your browser: Your browser preferences menu can help you manage cookies and prevent cross-site tracking.
-* Google’s Analytics: By default, analytics cookies, including Google Analytics, are turned on. Google Analytics allows us to understand how you interact with our website and measure site performance to improve your user experience.
+* Cookie Preference tool: Cookie Preference tool: By default, Pocket sets necessary cookies, and disables all other types of cookies. You can manage your settings for these cookies from this Cookie Preferences tool. [Learn more](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Your browser: Your browser preferences menu can also help you manage cookies and prevent cross-site tracking.
+* Google’s Analytics: By default, analytics cookies, including Google Analytics, are turned off. If you opt in to analytics cookies, Google Analytics allows us to understand how you interact with our website and measure site performance to improve your user experience.
 * Additional opt-out tools: Some third-party organizations provide ways of opting out of personalized advertising delivered by participating companies. For information about how to opt out, you can visit these organizations’ websites: [Network Advertising Initiative’s opt-out tools](https://optout.networkadvertising.org/?c=1), the [Digital Advertising Initiative’s Browser Check tool](https://optout.aboutads.info/?c=2), and the [European Interactive Digital Advertising Alliance Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Your Right to Opt Out of the Sale of Personal Information: Pocket does not share or sell your personal information. If you enable personalized advertising on Pocket, we allow advertisers to personalize your ads on Pocket and this may be considered a sale of your information under California’s privacy law. You can opt out by navigating to your Cookie Preference tool → Personalized Advertising Cookies and toggling to “disabled”.
-
-In addition to the methods described above, we may also collect information using cookies or other technologies when you access our website or use Pocket Technologies. You may decline our cookies if your browser permits, although in that case you may not be able to use certain features, you may be required to enter your password more frequently during a session, and you may be unable to install or use certain Pocket Technologies. Cookies and other technologies make our Pocket Technologies easier to use and help us customize and personalize the services we provide based on your interests and activities.
-
-We may also use “pixel tags,” “web beacons,” “clear GIFs” or similar means (individually or collectively “Pixel Tags”) in connection with emails that we send to our users in order to collect usage data. We use Pixel Tags, other technologies and the information we collect to count users who have visited certain pages on our website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
 
 ## Use of Information {: #use }
 
@@ -117,10 +112,13 @@ Please note this Privacy Policy will change from time to time. We may amend this
 
 ## Contact {: #contact }
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Alternatively, you may contact us at:
+If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com) or [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+If you have any other questions regarding personal data or our privacy practices, please contact us at [dpo@mozilla.com](mailto:dpo@mozilla.com), or you can contact our DPO by mail at:
+
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Brussels  
+Belgium  
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. You also have the right to lodge a complaint with your local data protection authority. 
