@@ -42,7 +42,8 @@ __Date de interacțiune.__ Mozilla primește date despre interacțiunile dumneav
 * [OneRep.](https://onerep.com/) Dacă vă aflați în Statele Unite și aveți un abonament Monitor Plus, OneRep primește numele și prenumele dumneavoastră, adresa de e-mail, numărul de telefon, adresa fizică și data nașterii pentru a scana siteurile de brokeraj de date pentru a găsi datele dumneavoastră personale și a solicita eliminarea acestora. OneRep păstrează datele dumneavoastră personale până când renunțați la abonamentul Monitor pentru a verifica dacă informațiile dumneavoastră apar pe alte siteuri sau dacă au reapărut pe siteurile de pe care au fost deja eliminate.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor utilizează AWS pentru a vă putea trimite e-mailuri în legătură cu Serviciul Mozilla Monitor, inclusiv Rapoarte complete, Alerte de breșă și Sfaturi pentru siguranța datelor dumneavoastră. Aceste date vor fi șterse atunci când renunțați la abonamentul Monitor. 
- 
+
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor utilizează Formstack pentru a capta feedback-ul furnizat de utilizatori, opțional, la anularea contului. Pentru informații despre practicile de confidențialitate ale Formstack, consultați [Politica de confidențialitate a Formstack](https://www.formstack.com/legal).
 
 ### Firefox Relay {: #relay }
 

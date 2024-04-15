@@ -1,7 +1,7 @@
 # Privacymelding voor Mozilla-accounts
 
-Versie 1.0, van kracht vanaf woensdag 1 november 2023
-{: datetime="2023-11-01" }
+Versie 1.1, van kracht vanaf woensdag 3 april 2024
+{: datetime="2024-04-03" }
 
 In deze Privacymeldingen leggen we uit welke gegevens over u Mozilla verzamelt en deelt. We houden ons daarnaast aan de procedures die zijn beschreven in het [Privacybeleid](https://www.mozilla.org/privacy/) van Mozilla voor wat betreft hoe we informatie ontvangen, hanteren en delen wanneer u een [Mozilla-account](https://accounts.firefox.com/) hebt. Er wordt mogelijk aanvullende informatie verzameld en gedeeld via verschillende producten en services waartoe u toegang hebt met uw Mozilla-account. Lees alle documentatie of ontdek hoe u de[ gegevens van uw Mozilla-account of onze gegevensprocedures beheert](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) voor [websites en e-mail](https://www.mozilla.org/privacy/websites/). U kunt ook de privacymeldingen lezen voor de aan uw Mozilla-account gekoppelde services, te weten:
 
@@ -17,7 +17,7 @@ In deze Privacymeldingen leggen we uit welke gegevens over u Mozilla verzamelt e
 
 ## Zaken die u moet weten
 
-__Registratiegegevens.__ Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u zich registreert voor een Mozilla-account. U kunt ervoor kiezen om uw leeftijd op te geven en om een weergavenaam of profielafbeelding op te nemen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, Acoustic, dat een eigen [privacybeleid](https://acoustic.com/privacy-notice/) heeft. We gebruiken de services van Acoustic om met u te communiceren.
+__Registratiegegevens.__ Mozilla ontvangt uw e-mailadres en een hash van uw wachtwoord wanneer u zich registreert voor een Mozilla-account. U kunt ervoor kiezen om uw leeftijd op te geven en om een weergavenaam of profielafbeelding op te nemen. Uw e-mailadres wordt verzonden naar onze leverancier voor e-mail, Braze, die een eigen [privacybeleid](https://www.braze.com/company/legal/privacy) heeft. We gebruiken de services van Braze om met u te communiceren.
 
 __Locatiegegevens.__ Wij gebruiken het IP-adres om uw locatie bij benadering te bepalen voor doeleinden die betrekking hebben op fraude- en misbruikpreventie in onze producten. We sturen u e-mailmeldingen als we verdachte activiteiten detecteren, zoals accountaanmeldingen vanaf andere locaties. 
 

@@ -1,7 +1,7 @@
 # Informativa sulla privacy degli account Mozilla
 
-Versione 1.0, in vigore dal 1 novembre 2023
-{: datetime="2023-11-01" }
+Versione 1.1, in vigore dal 3 aprile 2024
+{: datetime="2024-04-03" }
 
 In questa Informativa sulla privacy, spieghiamo quali dati Mozilla raccoglie e condivide su di te. Per quanto riguarda il modo in cui riceviamo, gestiamo e condividiamo le informazioni raccolte tramite il tuo [account Mozilla](https://accounts.firefox.com/), rispettiamo inoltre le prassi indicate nell'[Informativa sulla privacy di Mozilla](https://www.mozilla.org/privacy/). Inoltre, potrebbero essere raccolte e condivise informazioni dai diversi prodotti e servizi a cui hai accesso con il tuo account Mozilla. Puoi consultare la documentazione completa oppure trovare ulteriori informazioni su come [gestire i dati dell'account Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) o sulle nostre prassi relative ai dati per [siti web ed email](https://www.mozilla.org/privacy/websites/). È inoltre possibile visionare le Informative sulla privacy dei servizi collegati al nostro account Mozilla, che sono:
 
@@ -17,7 +17,7 @@ In questa Informativa sulla privacy, spieghiamo quali dati Mozilla raccoglie e c
 
 ## Cose da sapere
 
-__Dati di registrazione.__ Mozilla riceve il tuo indirizzo email e un hash della tua password quando ti registri per creare un account Mozilla. Puoi scegliere se specificare la tua età e se includere un nome visualizzato o un'immagine del profilo. Il tuo indirizzo email viene inviato al nostro fornitore di servizi email, Acoustic, che ha una sua [informativa sulla privacy](https://acoustic.com/privacy-notice/); utilizziamo i servizi di Acoustic per comunicare con te.
+__Dati di registrazione.__ Mozilla riceve il tuo indirizzo email e un hash della tua password quando ti registri per creare un account Mozilla. Puoi scegliere se specificare la tua età e se includere un nome visualizzato o un'immagine del profilo. Il tuo indirizzo email viene inviato al nostro fornitore di servizi email, Braze, che ha una sua [informativa sulla privacy](https://www.braze.com/company/legal/privacy); utilizziamo i servizi di Braze per comunicare con te.
 
 __Dati sulla posizione.__ Utilizziamo l'indirizzo IP per determinare approssimativamente la tua posizione ai fini della prevenzione di frodi e abusi sui nostri prodotti. Ti invieremo avvisi via email se rileviamo attività sospette, come l'accesso al tuo account da altre posizioni. 
 

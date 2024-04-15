@@ -1,7 +1,7 @@
 # Politique de confidentialité relative aux comptes Mozilla
 
-Version 1.0 - Date d’effet : mercredi 1er novembre 2023
-{: datetime="2023-11-01" }
+Version 1.1 - Date d'effet : mercredi 3 avril 2024
+{: datetime="2024-04-03" }
 
 Cette politique de confidentialité couvre les données vous concernant que Mozilla collecte et partage. Nous adhérons aux dispositions de la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/), qui expliquent comment nous recevons, traitons et partageons les informations que nous collectons si vous avez un [compte Mozilla](https://accounts.firefox.com/). Des informations supplémentaires peuvent être collectées et partagées par les différents produits et services auxquels vous donne accès votre compte Mozilla. Lisez la documentation complète ou apprenez-en davantage, notamment sur la [gestion des données de votre compte Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) ou nos pratiques en matière de données pour les [sites Web et l’e-mail](https://www.mozilla.org/privacy/websites/). Vous pouvez également lire les politiques de confidentialité de nos services associés aux comptes Mozilla, à savoir :
 
@@ -17,7 +17,7 @@ Cette politique de confidentialité couvre les données vous concernant que Mozi
 
 ## Ce que vous devez savoir
 
-__Données d’inscription.__ Mozilla reçoit votre adresse électronique et votre mot de passe haché lorsque vous vous inscrivez à un compte Mozilla. Vous pouvez choisir d’inclure votre âge, ainsi qu’un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, Acoustic, qui dispose de sa propre [politique de confidentialité](https://acoustic.com/privacy-notice/) ; nous utilisons les services d’Acoustic pour communiquer avec vous.
+__Données d'inscription.__ Mozilla reçoit votre adresse électronique et votre mot de passe haché lorsque vous vous inscrivez à un compte Mozilla. Vous pouvez choisir d'inclure votre âge, ainsi qu'un pseudo ou une image de profil. Votre adresse électronique est envoyée à notre fournisseur de messagerie, Braze, qui dispose de sa propre [politique de confidentialité](https://www.braze.com/company/legal/privacy) ; nous utilisons les services de Braze pour communiquer avec vous.
 
 __Données de localisation.__ Nous utilisons votre adresse IP afin de vous géolocaliser le plus précisément possible à des fins de prévention de la fraude et des abus sur tous nos produits. Nous vous enverrons des alertes par e-mail si nous détectons des activités suspectes, telles que des connexions à votre compte à partir d’autres lieux. 
 

@@ -1,7 +1,7 @@
 # Aviso de privacidad de cuentas de Mozilla
 
-Versión 1.0, en vigor desde el 1 de noviembre de 2023
-{: datetime="2023-11-01" }
+Versión 1.1, en vigor desde el miércoles, 03 de abril de 2024
+{: datetime="2024-04-03" }
 
 En este Anuncio de privacidad, explicamos qué datos recopila y comparte Mozilla acerca de usted. Además, nos adherimos a las prácticas descritas en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/) en cuanto a la forma en la que recibimos, tratamos y compartimos la información que recopilamos cuando tiene una [cuenta de Mozilla](https://accounts.firefox.com/). Diferentes productos y servicios a los que accede con su cuenta de Mozilla pueden recopilar y compartir información adicional. Lea los documentos completos u obtenga más información al respecto, como instrucciones para [gestionar los datos de su cuenta de Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) o nuestras prácticas relacionadas con datos de [sitios web y correo electrónico](https://www.mozilla.org/privacy/websites/). Además, puede leer los Avisos de privacidad para los servicios conectados a cuentas de Mozilla, como por ejemplo:
 
@@ -17,7 +17,7 @@ En este Anuncio de privacidad, explicamos qué datos recopila y comparte Mozilla
 
 ## Aspectos que debe conocer
 
-__Datos de registro.__ Mozilla recibe su dirección de correo electrónico y un hash de su contraseña cuando se registra para una cuenta de Mozilla. Tiene la opción de decir su edad y de incluir un nombre para mostrar o una imagen de perfil. Su dirección de correo electrónico se envía a nuestro proveedor de servicio de correo electrónico, Acoustic, que tiene su propia [política de privacidad](https://acoustic.com/privacy-notice/); usamos los servicios de Acoustic para comunicarnos con usted.
+__Datos de registro.__ Mozilla recibe su dirección de correo electrónico y un hash de su contraseña cuando se registra para una cuenta de Mozilla. Tiene la opción de decir su edad y de incluir un nombre para mostrar o una imagen de perfil. Su dirección de correo electrónico se envía a nuestro proveedor de servicio de correo electrónico, Braze, que tiene su propia [política de privacidad](https://www.braze.com/company/legal/privacy); usamos los servicios de Braze para comunicarnos con usted.
 
 __Datos de ubicación.__ Usamos la dirección IP para aproximar su ubicación con fines de prevenir fraude y abusos en todos nuestros productos. Le enviaremos alertas de correo electrónico si detectamos actividad sospechosa, como por ejemplo, inicios de sesión desde otras ubicaciones. 
 
