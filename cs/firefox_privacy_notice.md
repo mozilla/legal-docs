@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 17. ledna 2024
-{: datetime="2024-01-17" }
+*Účinné od 3. dubna 2024
+{: datetime="2024-04-03" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -47,13 +47,13 @@ Pokud se rozhodnete udělit souhlas „Vylepšit zkušenosti s Firefox Suggest�
 
 ### Navrhování relevantního obsahu
 
-Firefox zobrazuje obsah, jako doporučení doplňků, Top stránky (webové stránky, které Mozilla doporučuje uživatelům, kteří používají Firefox poprvé) a Doporučení ze služby Pocket (která je součástí rodiny Mozilla).
+Firefox zobrazuje obsah, jako Doporučení doplňků, Top stránky (webové stránky, které Mozilla doporučuje uživatelům, kteří používají Firefox poprvé) a Doporučení.
 
 * __Údaje o poloze__: Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země.
 
 * __Technické údaje a údaje o interakci__: Firefox nám zasílá údaje například o poloze, velikosti a umístění námi navrhovaného obsahu, jakož i základní údaje o vaší interakci s obsahem. To zahrnuje počet zobrazení obsahu nebo kliknutí na něj. Technické údaje a údaje o interakci používáme pro lepší pochopení našich uživatelů a vylepšení našeho produktu. 
 
-* __Doporučení ze služby Pocket__: Obsah vám doporučujeme na základě vaší historie procházení, jazyka a země umístění. Proces rozhodování o tom, které příběhy by se vám měly zobrazit ve vaší historii procházení, probíhá místně ve vaší kopii Firefoxu a společnost Modzilla nedostává kopii vaší historie procházení. Společnost Modzilla získává souhrnné údaje o doporučením, která se vám zobrazují, a kliknutích. Rovněž sdílíme souhrnná data ohledně sponzorovaného obsahu, který se vám zobrazuje a na který kliknete na naší nezávislé reklamní platformě [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), aby inzerenti viděli, kolik lidí na jejich články kliklo. Tyto souhrnné údaje vás osobně neidentifikují.
+* __Doporučení__: Obsah vám můžeme doporučovat na základě vaší historie procházení, jazyka a země umístění. Proces rozhodování o tom, které příběhy by se vám měly zobrazit ve vaší historii procházení, probíhá místně ve vaší kopii Firefoxu a společnost Mozilla nedostává kopii vaší historie procházení. Společnost Modzilla získává souhrnné údaje o doporučením, která se vám zobrazují, a kliknutích. Rovněž sdílíme souhrnná data ohledně sponzorovaného obsahu, který se vám zobrazuje a na který kliknete na naší nezávislé reklamní platformě [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), aby inzerenti viděli, kolik lidí na jejich články kliklo. Tyto souhrnné údaje vás osobně neidentifikují.
 
 * __Top stránky__: Když kliknete na dlaždici Top sponzorované stránky na Nové kartě, budeme sdílet vaší zemi, region, okres (pokud se nacházíte v USA), dlaždici, na kterou jste klikli, a čas, kdy jste klikli na AdMarketplace (odkazující platforma třetí osoby) pro ověření vašeho přesunu na webové stránky. Firefox nesdílí vaši adresu IP ani další informace, které by bylo možné použít k vaší identifikaci.
 

@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Cookie
 
-01 November 2023
-{: datetime="2023-11-01" }
+03 April 2024
+{: datetime="2024-04-03" }
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
@@ -20,7 +20,7 @@ Kami mungkin menerima informasi pribadi dari Anda berdasarkan interaksi Anda den
 
 * **Umpan Balik Pengguna**: Anda dapat memberikan umpan balik kepada kami tentang produk dan layanan kami di halaman web seperti [connect.mozilla.org](https://connect.mozilla.org/), melalui pengalaman dalam produk, atau melalui saluran seperti email, Bugzilla, Matrix, akun media sosial, halaman Mari Berperan kami, atau melalui grup seperti Duta Pelajar. Harap minimalkan informasi pribadi yang Anda pilih untuk dibagikan pada forum-forum ini karena komentar Anda mungkin dapat diakses publik.
 
-* **Akun & Langganan**: Beberapa situs web, misalnya [Add-Ons untuk Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), dan [MDN](https://developer.mozilla.org/), memerlukan pembuatan akun. Untuk manajemen akun, kami menggunakan [akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), atau sistem kustom; pelajari selengkapnya [di sini](https://support.mozilla.org/kb/managing-account-data) tentang cara mengelola data akun Mozilla Anda. Anda terkadang mungkin menerima email terkait akun atau langganan Anda. Vendor manajemen email kami adalah [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) atau [Acoustic](https://acoustic.com/privacy-notice/), dan Anda bisa berhenti berlangganan menggunakan tautan di bagian bawah email yang relevan. 
+* **Akun & Langganan**: Beberapa situs web, misalnya [Add-Ons untuk Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), dan [MDN](https://developer.mozilla.org/), memerlukan pembuatan akun. Untuk manajemen akun, kami menggunakan [akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), atau sistem kustom; pelajari selengkapnya [di sini](https://support.mozilla.org/kb/managing-account-data) tentang cara mengelola data akun Mozilla Anda. Anda terkadang mungkin menerima email terkait akun atau langganan Anda. Vendor manajemen email kami adalah [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), atau [Braze](https://www.braze.com/company/legal/privacy), dan Anda bisa berhenti berlangganan menggunakan tautan di bagian bawah email yang relevan. 
 
 * **Kampanye Produk & Kebijakan**: Beberapa halaman web kami mengadakan kampanye produk atau kebijakan. Misalnya, Anda dapat meminta tautan melalui email atau SMS untuk menginstal Firefox di perangkat seluler Anda atau mengirimkan petisi kepada legislator tentang masalah internet. Kami mungkin menggunakan pihak ketiga untuk mengelola kampanye ini dan menangani semua data yang Anda pilih untuk dikirimkan. 
 {: #campaigns }
@@ -31,7 +31,7 @@ Kami menggunakan cookie, GIF transparan, analitika web pihak ketiga, informasi p
 {: #data-tools }
 
 * **Fungsi**: Kami mungkin menggunakan informasi seperti cookie, informasi perangkat, dan alamat IP untuk meningkatkan fungsionalitas produk, layanan, dan komunikasi tertentu. Misalnya:
-    *  Kami menggunakan cookie untuk mengingat informasi tentang pengaturan Firefox Anda (seperti preferensi bahasa), sehingga kami bisa menyarankan fitur dan add-on yang relevan kepada Anda berdasarkan pengaturan Anda. Keduanya juga membantu proses masuk dan otentikasi pengguna sehingga Anda bisa melewati proses memasukkan kembali kata sandi di situs web Mozilla tertentu.
+    * Kami menggunakan cookie untuk mengingat informasi tentang pengaturan Firefox Anda (seperti preferensi bahasa), sehingga kami bisa menyarankan fitur dan add-on yang relevan kepada Anda berdasarkan pengaturan Anda. Keduanya juga membantu proses masuk dan otentikasi pengguna sehingga Anda bisa melewati proses memasukkan kembali kata sandi di situs web Mozilla tertentu.
     * Kami menggunakan alamat IP untuk menyesuaikan komunikasi berdasarkan bahasa dan negara.
     * Kami menggunakan informasi perangkat tertentu seperti negara, bahasa, operator, dan OEM, untuk menyesuaikan pengalaman Anda.
 

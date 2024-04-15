@@ -1,7 +1,7 @@
 # Datenschutzhinweis für Mozilla-Konten
 
-Version 1.0, gültig ab Mittwoch, 1. November 2023
-{: datetime="2023-11-01" }
+Version 1.1, gültig ab Mittwoch, 3. April 2024
+{: datetime="2024-04-03" }
 
 In diesem Datenschutzhinweis erklären wir, was Mozilla über Sie erfasst und teilt. Wir befolgen ferner die in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) umrissenen Praktiken in Bezug auf den Empfang, den Umgang mit und das Teilen von Informationen, die wir erheben, wenn Sie ein [Mozilla-Konto](https://accounts.firefox.com/) haben. Weitere Informationen können von den verschiedenen Produkten und Services erhoben werden, auf die Sie mit Ihrem Mozilla-Konto zugreifen können. Lesen Sie die vollständige Dokumentation oder erhalten Sie weitere Informationen, z. B. zur [Verwaltung Ihrer Mozilla-Kontodaten](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) oder zu unseren Datenpraktiken für [Websites und E-Mail](https://www.mozilla.org/privacy/websites/). Sie können auch die Datenschutzhinweise zu den mit Ihrem Mozilla-Konto verbundenen Services lesen. Dabei handelt es sich um:
 
@@ -17,7 +17,7 @@ In diesem Datenschutzhinweis erklären wir, was Mozilla über Sie erfasst und te
 
 ## Sie sollten Folgendes wissen
 
-__Registrierungsdaten.__ Wenn Sie sich für ein Mozilla-Konto registrieren, erhält Mozilla Ihre E-Mail-Adresse und einen Hash Ihres Passworts. Sie können sich entscheiden, ob Sie Ihr Alter angeben oder einen Anzeigenamen oder ein Profilbild einschließen möchten. Ihre E-Mail-Adresse wird an unseren E-Mail-Anbieter Acoustic gesendet, der einen eigenen [Datenschutzhinweis](https://acoustic.com/privacy-notice/) hat. Wir verwenden die Services von Acoustic, um mit Ihnen zu kommunizieren.
+__Registrierungsdaten.__ Wenn Sie sich für ein Mozilla-Konto registrieren, erhält Mozilla Ihre E-Mail-Adresse und einen Hash Ihres Passworts. Sie können sich entscheiden, ob Sie Ihr Alter angeben oder einen Anzeigenamen oder ein Profilbild einschließen möchten. Ihre E-Mail-Adresse wird an unseren E-Mail-Anbieter Braze gesendet, der einen eigenen [Datenschutzhinweis](https://www.braze.com/company/legal/privacy) hat. Wir verwenden die Services von Braze, um mit Ihnen zu kommunizieren.
 
 __Standortdaten.__ Wir verwenden in unseren Produkten zu Zwecken der Betrugs- und Missbrauchsvorbeugung die IP-Adresse, um Ihren Standort zu schätzen. Wir senden Ihnen E-Mail-Benachrichtigungen, wenn wir verdächtige Aktivitäten feststellen, wie z. B. Kontoanmeldungen von anderen Orten aus. 
 

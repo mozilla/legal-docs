@@ -42,7 +42,8 @@ __Údaje o interakci.__ Mozilla získává údaje o vašich interakcích se slu�
 * [OneRep.](https://onerep.com/) Pokud se nacházíte ve Spojených státech amerických a máte předplatné Monitor Plus, OneRep získá vaše jméno a příjmení, e-mailovou adresu, telefonní číslo, fyzickou adresu a datum narození pro vyhledávání stránek zprostředkovatelů údajů s cílem najít vaše osobní údaje a vyžádat si jejich odstranění. OneRep uchovává vaše osobní údaje po dobu trvání vašeho předplatného služby Monitor s cílem kontrolovat, zda se vaše údaje neobjeví na dalších stránkách, či zda se znovu neobjeví na stránkách, z nichž již byly jednou odstraněny.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Služba Mozilla Monitor využívá AWS, aby vám mohla zaslat e-mail v souvislosti se Službou Mozilla Monitor zahrnující Úplné zprávy, Upozornění na narušení a Bezpečnostní tipy. Tato data budou odstraněna v okamžiku, kdy zrušíte své předplatné služby Monitor. 
- 
+
+* [Formstack.](https://www.formstack.com/) Služba Mozilla Monitor využívá Formstack k zaznamenávání zpětné vazby volitelně poskytované uživateli u příležitosti zrušení účtu. Informace o postupech v oblasti ochrany osobních údajů Formstack najdete v [Zásadách ochrany osobních údajů Formstack](https://www.formstack.com/legal).
 
 ### Firefox Relay {: #relay }
 

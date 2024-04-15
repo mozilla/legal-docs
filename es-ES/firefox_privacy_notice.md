@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Aviso de privacidad</span> <span class="privacy-header-policy">de Firefox</span>
 
-*En vigor desde el día 17 de enero de 2024
-{: datetime="2024-01-17" }
+*En vigor desde el día miércoles, 03 de abril de 2024
+{: datetime="2024-04-03" }
 
 ## En Mozilla, consideramos que la privacidad es fundamental para tener un Internet sano.
 
@@ -47,13 +47,13 @@ Si decide habilitar la opción para "Mejorar las sugerencias de Firefox" en nues
 
 ### Recomendar contenido relevante
 
-Firefox muestra contenido como recomendaciones de complementos, sitios populares (páginas sugeridas por Mozilla a los usuarios que usan Firefox por primera vez) y recomendaciones para Pocket (que forma parte de la familia Mozilla).
+Firefox muestra contenido como recomendaciones de complementos, sitios populares (páginas sugeridas por Mozilla a los usuarios que usan Firefox por primera vez) y recomendaciones.
 
 * __Datos de ubicación__: Firefox utiliza su dirección IP para sugerir contenido relevante en función de su país y región.
 
 * __Datos técnicos y de interacción__: Firefox nos envía datos como la posición, el tamaño y ubicación del contenido que sugerimos, así como datos básicos sobre su interacción con este contenido. Estos datos incluyen la frecuencia con la que se muestra el contenido o se hace clic en él. Usamos datos técnicos y de interacción para entender mejor a nuestros usuarios y mejorar nuestro producto. 
 
-* __Recomendaciones de Pocket__: Las recomendaciones de contenido se realizan en base a su historial de navegación, idioma y país. El proceso de selección de las historias que se le van a mostrar basada en su historial de navegación se produce localmente en su copia de Firefox, y Mozilla no recibe una copia de su historial de navegación. Mozilla sí recibe datos agregados sobre las recomendaciones que ve y con las que interactúa. Compartimos también datos agregados con nuestra plataforma publicitaria de terceros [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) acerca del contenido patrocinado que usted ve y con el que interactúa, para que los anunciantes puedan conocer el número de personas que ven y hacen clic en sus artículos. Estos datos agregados no lo identifican a usted personalmente.
+* __Recomendaciones__: Las recomendaciones de contenido se pueden realizar en base a su historial de navegación, idioma y país. El proceso de selección de las historias que se le van a mostrar basada en su historial de navegación se produce localmente en su copia de Firefox, y Mozilla no recibe una copia de su historial de navegación. Mozilla sí recibe datos agregados sobre las recomendaciones que ve y con las que interactúa. Compartimos también datos agregados con nuestra plataforma publicitaria de terceros [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) acerca del contenido patrocinado que usted ve y con el que interactúa, para que los anunciantes puedan conocer el número de personas que ven y hacen clic en sus artículos. Estos datos agregados no lo identifican a usted personalmente.
 
 * __Datos de sitios populares__: Cuando hace clic en el icono de un sitio web popular patrocinado en Nueva pestaña, compartimos con AdMarketplace (una plataforma de referencia de terceros) información sobre su país, región, condado (si se encuentra en EE. UU.), el icono en el que hizo clic y la hora a la que lo hizo a fin de verificar que visitó dicho sitio web. Firefox no comparte su dirección IP ni ninguna otra información que pueda servir para identificarle.
 

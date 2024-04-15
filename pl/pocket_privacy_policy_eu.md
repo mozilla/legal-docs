@@ -41,21 +41,16 @@ Oprócz informacji, które użytkownik przekazuje nam podczas rejestracji konta 
 Korzystamy z czterech typów plików cookie i narzędzi analitycznych w następujących celach:
 
 * Niezbędne: Te pliki cookie są niezbędne do funkcjonowania naszej witryny internetowej. Nie można ich wyłączyć. Użytkownik może ustawić swoją przeglądarkę tak, aby blokowała te pliki cookie lub ostrzegała o nich, ale może to spowodować, że część witryny nie będzie działać prawidłowo. Te pliki cookie nie przechowują żadnych informacji umożliwiających identyfikację użytkownika i o ile nie włączono spersonalizowanych reklamowych plików cookie, reklamy nie są spersonalizowane.
-* Preferencyjne: Umieszczamy te pliki cookie na urządzeniu użytkownika, aby zapamiętać preferencje konta i ustawienia językowe użytkownika. Wyłączenie tych plików cookie może spowodować uszkodzenie niektórych funkcji. 
+* Preferencyjne: Umieszczamy te pliki cookie na urządzeniu użytkownika, aby zapamiętać preferencje konta i ustawienia językowe użytkownika. Wyłączenie tych plików cookie może spowodować uszkodzenie niektórych funkcji.
 * Analityczne: Umieszczamy te pliki cookie na urządzeniu użytkownika, aby pomóc nam zrozumieć, jak użytkownicy angażują się w naszą witrynę internetową i produkt. Na przykład korzystamy z Google Analytics i innych narzędzi, aby zrozumieć, które strony internetowe Pocket są popularne. W naszych wiadomościach e-mail używamy również pikseli w celu gromadzenia informacji o użytkowaniu.
 * Spersonalizowane reklamowe: Niektóre strony internetowe Pocket zawierają reklamy. Jeśli użytkownik wyrazi na to zgodę, partnerzy reklamowi Pocket będą umieszczać reklamowe pliki cookie na urządzeniu użytkownika, aby spersonalizować reklamy, które użytkownik widzi tutaj i w innych witrynach internetowych. Jeśli użytkownik odtwarza film z YouTube w Pocket, YouTube może umieścić na urządzeniu użytkownika pliki cookie, które mogą być wykorzystane do personalizacji. Freestar, nasz partner w zakresie spersonalizowanych reklam na naszych stronach z artykułami syndykowanymi, ma własne [Zasady ochrony prywatności](https://freestar.com/privacy-policy/).
 
 ### Wybory użytkownika
 
-* Narzędzie preferencji plików cookie: Domyślnie Pocket ustawia niezbędne, preferencyjne i analityczne pliki cookie, a wyłącza spersonalizowane reklamowe pliki cookie. Ustawieniami tych plików cookie można zarządzać za pomocą narzędzia preferencji plików cookie. [Więcej informacji](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
-* Przeglądarka użytkownika: Menu preferencji przeglądarki umożliwia zarządzanie plikami cookie i zapobieganie śledzeniu przez inne witryny.
-* Google Analytics: Domyślnie analityczne pliki cookie, w tym Google Analytics, są włączone. Google Analytics pozwala nam zrozumieć, w jaki sposób użytkownik wchodzi w interakcję z naszą witryną, i mierzyć jej wydajność w celu poprawy komfortu użytkowania.
+* Narzędzie preferencji plików cookie: Narzędzie preferencji plików cookie: Domyślnie Pocket ustawia niezbędne pliki cookie, a wyłącza wszystkie inne typy plików cookie. Ustawieniami tych plików cookie można zarządzać za pomocą narzędzia preferencji plików cookie. [Więcej informacji](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Przeglądarka użytkownika: Menu preferencji przeglądarki umożliwia także zarządzanie plikami cookie i zapobieganie śledzeniu przez inne witryny.
+* Google Analytics: Domyślnie analityczne pliki cookie, w tym Google Analytics, są wyłączone. Jeśli użytkownik wyrazi zgodę na analityczne pliki cookie, Google Analytics pozwala nam zrozumieć, w jaki sposób użytkownik wchodzi w interakcję z naszą witryną, i mierzyć jej wydajność w celu poprawy komfortu użytkowania.
 * Dodatkowe narzędzia do rezygnacji: Niektóre organizacje zewnętrzne zapewniają sposoby rezygnacji ze spersonalizowanych reklam dostarczanych przez uczestniczące w nich firmy. Informacje na temat sposobu rezygnacji można znaleźć w witrynach tych organizacji: [narzędzia do rezygnacji Network Advertising Initiative](https://optout.networkadvertising.org/?c=1), [narzędzie Digital Advertising Initiative’s Browser Check](https://optout.aboutads.info/?c=2) oraz [Your Ad Choices organizacji European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Prawo do rezygnacji użytkownika ze sprzedaży danych osobowych: Pocket nie udostępnia ani nie sprzedaje danych osobowych użytkowników. W przypadku włączenia spersonalizowanych reklam w Pocket zezwalamy reklamodawcom na personalizację reklam w Pocket, co może być uznane za sprzedaż danych użytkownika zgodnie z kalifornijskim prawem ochrony prywatności. Można z tego zrezygnować, przechodząc do narzędzia preferencji plików cookie, wybierając pozycję Spersonalizowane reklamowe pliki cookie i wyłączając to ustawienie.
-
-Oprócz metod opisanych powyżej możemy również gromadzić dane za pomocą plików cookie lub innych technologii, gdy użytkownik odwiedza naszą witrynę lub korzysta z Technologii Pocket. Użytkownik może odrzucić nasze pliki cookie, jeśli jego przeglądarka na to pozwala, jednak w takim przypadku użytkownik może nie być w stanie korzystać z niektórych funkcji, może być zmuszony do częstszego wprowadzania hasła podczas sesji i może nie być w stanie zainstalować lub używać niektórych Technologii Pocket. Pliki cookie i inne technologie ułatwiają korzystanie z Technologii Pocket i pomagają nam dostosować i spersonalizować świadczone przez nas usługi w oparciu o zainteresowania i działania użytkownika.
-
-Możemy również używać „tagów piksela”, „sygnałów internetowych”, „przezroczystych plików GIF” lub podobnych środków (pojedynczo lub zbiorczo „Tagi piksela”) w połączeniu z wiadomościami e-mail, które wysyłamy do naszych użytkowników, w celu gromadzenia danych dotyczących użytkowania. Używamy tagów piksela, innych technologii oraz gromadzonych przez nas informacji do zliczania użytkowników, którzy odwiedzili określone strony w naszej witrynie, do dostarczania usług markowych oraz do pomocy w określaniu skuteczności kampanii promocyjnych lub reklamowych.
 
 ## Użycie danych {: #use }
 
@@ -117,10 +112,13 @@ Należy pamiętać, że niniejsze Zasady ochrony prywatności będzie się zmien
 
 ## Kontakt {: #contact }
 
-W przypadku pytań lub wątpliwości dotyczących niniejszych Zasad ochrony prywatności należy skontaktować się z nami pod adresem [privacy@getpocket.com](mailto:privacy@getpocket.com) lub [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Alternatywnie, można skontaktować się z nami pod adresem:
+W przypadku pytań lub wątpliwości dotyczących niniejszych Zasad ochrony prywatności należy skontaktować się z nami pod adresem [privacy@getpocket.com](mailto:privacy@getpocket.com) lub [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+W razie jakichkolwiek innych pytań dotyczących danych osobowych lub naszych praktyk w zakresie ochrony prywatności prosimy o kontakt pod adresem [dpo@mozilla.com](mailto:dpo@mozilla.com) lub o kontakt z naszym inspektorem ochrony danych pod adresem:
+
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Brussels  
+Belgium  
+
+Odpowiadamy na wszystkie wnioski otrzymywane od osób pragnących skorzystać z przysługujących im praw w zakresie ochrony danych zgodnie z obowiązującymi przepisami o ochronie danych. Użytkownik ma również prawo złożyć skargę do lokalnego organu ochrony danych.

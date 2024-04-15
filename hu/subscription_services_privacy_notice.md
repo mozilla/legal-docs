@@ -42,7 +42,8 @@ __Interakciós adatok.__ A Mozilla adatokat kap a szolgáltatásokkal való inte
 * [OneRep.](https://onerep.com/) Ha Ön az Egyesült Államokban tartózkodik, és Monitor Plus előfizetéssel rendelkezik, a OneRep megkapja az Ön utó- és vezetéknevét, e-mail-címét, telefonszámát, fizikai címét és születési dátumát, hogy átvizsgálja az adatközvetítő-webhelyeket, hogy megtalálja személyes adatait, és azok eltávolítását kérelmezze. A OneRep megőrzi a személyes adatait mindaddig, amíg be nem fejezi a Monitor előfizetést, hogy ellenőrizhesse, hogy az adatai megjelennek-e további webhelyeken, vagy újra megjelentek-e azokon a webhelyeken, amelyekről már eltávolították azokat.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) A Mozilla Monitor az AWS-t használja, hogy e-maileket tudjon küldeni Önnek a Mozilla Monitor szolgáltatással kapcsolatban, amelyek teljes jelentéseket, szabálysértési figyelmeztetéseket és biztonsági tanácsokat tartalmaznak. Ezek az adatok törlésre kerülnek, amikor befejezi a Monitor előfizetést. 
- 
+
+* [Formstack.](https://www.formstack.com/) A Mozilla Monitor a Formstack segítségével rögzíti a felhasználók által a fiókok törlésével kapcsolatos visszajelzéseket. A Formstack adatvédelmi gyakorlatával kapcsolatos információkért lásd a [Formstack adatvédelmi szabályzatát](https://www.formstack.com/legal).
 
 ### Firefox Relay {: #relay }
 

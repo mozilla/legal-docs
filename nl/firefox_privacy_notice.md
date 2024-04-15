@@ -1,7 +1,7 @@
 ## Privacykennisgeving</span> voor <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">
 
-*Van kracht vanaf woensdag 17 januari 2024
-{: datetime="2024-01-17" }
+*Van kracht vanaf 3 april 2024
+{: datetime="2024-04-03" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -47,13 +47,13 @@ Als u ervoor kiest om de optie voor het verbeteren van de Firefox Suggest-ervari
 
 ### Aanbevolen relevante inhoud
 
-Firefox geeft inhoud weer, zoals aanbevolen add-ons, Top Sites (door Mozilla voorgestelde websites voor gebruikers die Firefox voor het eerst gebruiken) en Pocket-aanbevelingen (onderdeel van het Mozilla-aanbod).
+Firefox geeft inhoud weer, zoals aanbevolen add-ons, Top Sites (door Mozilla voorgestelde websites voor gebruikers die Firefox voor het eerst gebruiken) en aanbevelingen.
 
 * __Locatiegegevens__: Firefox gebruikt uw IP-adres om relevante inhoud voor te stellen op basis van uw land en staat.
 
 * __Technische gegevens en interactiegegevens__: Firefox verzendt gegevens naar ons, zoals de positie, grootte en plaatsing van inhoud die we voorstellen, evenals basisgegevens over uw interactie met inhoud die wordt voorgesteld. Dit omvat het aantal keren dat inhoud wordt weergegeven of dat daarop wordt geklikt. We gebruiken technische gegevens om meer inzicht te krijgen in onze gebruikers en om ons product te verbeteren. 
 
-* __Pocket-aanbevelingen__: We stellen inhoud aan u voor op basis van uw browsegeschiedenis, taal en land. Het proces van het beslissen van welke verhalen moeten worden weergegeven op basis van uw browsegeschiedenis vindt plaats in uw lokale exemplaar van Firefox. Mozilla en Pocket ontvangen geen kopie van uw browsegeschiedenis. Mozilla ontvangt samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Verder delen we samengevoegde gegevens over de gesponsorde inhoud die u ziet en waarop u klikt met ons externe advertentieplatform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), zodat adverteerders kunnen zien hoeveel mensen op hun artikelen klikken. U kunt op basis van deze samengevoegde gegevens niet persoonlijk worden geïdentificeerd.
+* __Aanbevelingen__: We kunnen inhoud aan u voorstellen op basis van uw browsegeschiedenis, taal en land. Het proces van het beslissen van welke verhalen moeten worden weergegeven op basis van uw browsegeschiedenis vindt plaats in uw lokale exemplaar van Firefox. Mozilla en Pocket ontvangen geen kopie van uw browsegeschiedenis. Mozilla ontvangt samengevoegde gegevens over de aanbevelingen die worden weergegeven en waarop u klikt. Verder delen we samengevoegde gegevens over de gesponsorde inhoud die u ziet en waarop u klikt met ons externe advertentieplatform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), zodat adverteerders kunnen zien hoeveel mensen op hun artikelen klikken. U kunt op basis van deze samengevoegde gegevens niet persoonlijk worden geïdentificeerd.
 
 * __Top Sites__: Als u klikt op een gesponsorde tegel van Top Sites in een nieuw tabblad, delen we uw land, regio, staat (als u zich in de Verenigde Staten bevindt), de tegel waarop u hebt geklikt en de tijd waarop u hebt geklikt met AdMarketplace (een extern platform voor doorverwijzingen) om te verifiëren dat u naar de website bent gegaan. Firefox deelt uw IP-adres of andere informatie waarmee u kunt worden worden geïdentificeerd niet.
 
