@@ -10,8 +10,8 @@ Comprendiamo le preoccupazioni degli utenti in materia di privacy. Vogliamo che 
 La presente Informativa sulla privacy include le seguenti disposizioni, alle quali è possibile accedere selezionando i relativi collegamenti di seguito:
 
 * [Account utente e raccolta di informazioni](#accounts)
-* [Raccolta di informazioni nell'ambito dell'utilizzo del Servizio Pocket ](#passive)
-* [Uso di cookie e strumenti di analisi ](#cookies)
+* [Raccolta di informazioni nell'ambito dell'utilizzo del Servizio Pocket](#passive)
+* [Uso di cookie e strumenti di analisi](#cookies)
 * [Uso delle informazioni](#use)
 * [Condivisione delle informazioni](#sharing)
 * [Conservazione delle informazioni](#keeping)
