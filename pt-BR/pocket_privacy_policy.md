@@ -1,25 +1,25 @@
 # Política de Privacidade
 
-*Data de vigência: 7 de março de 2024*
-{: datetime="2024-03-07" }
+*Data de vigência: quarta-feira, 3 de abril de 2024*
+{: datetime="2024-04-03" }
 
-Este aviso descreve a Política de Privacidade válida para todas as informações coletadas ou enviadas quando você instala ou usa o aplicativo Pocket ou qualquer outro aplicativo de software de uso ewxclusivo ou os serviços que prestamos ou acessa nosso site (coletivamente indicados aqui como “Tecnologias do Pocket”). As Tecnologias do Pocket são de propriedade da Mozilla Corporation e licenciadas por ela (a Mozilla Corporation é indicada aqui como “nós”, “nosso(s)”, “nossa(s)”, “Mozilla”), e são operadas pela unidade de negócios da Mozilla conhecida como “Pocket”, que desenvolveu aplicativos e serviços para uso vinculado a diversos aparelhos e plataformas, incluindo Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows Phone, Chrome, Safari, Firefox, entre outros aparelhos e computadores.
+Este aviso descreve a Política de Privacidade que se aplica a todas as informações coletadas ou enviadas quando você instala ou usa o aplicativo Pocket ou qualquer outro aplicativo de software proprietário ou serviços que fornecemos, e quando você visita nosso website (todos os quais são referidos coletivamente aqui como "Tecnologias Pocket"). As Tecnologias Pocket são de propriedade e licenciadas pela Mozilla Corporation (aqui referida como "nós", "nos", "nosso", "Mozilla"), e são operadas pela unidade de negócios da Mozilla conhecida como "Pocket", que desenvolveu aplicativos e serviços para uso em conexão com uma variedade de dispositivos e plataformas, incluindo, sem limitação, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox e outros dispositivos móveis e computadores.
 
-Entendemos sua preocupação com relação à privacidade. Queremos que você entenda os tipos de informação que coletamos e o que poderá acontecer com essas informações se você instalar o aplicativo Pocket, acessar o site do Pocket ou usar quaisquer Tecnologias do Pocket.
+Entendemos sua preocupação com relação à privacidade. Queremos que você entenda quais tipos de informações coletamos e o que pode acontecer com essas informações se você instalar o aplicativo Pocket, visitar o site do Pocket ou usar qualquer uma das Tecnologias Pocket.
 
 Nossa Política de Privacidade inclui as seguintes disposições (para acessar qualquer delas diretamente, basta clicar no link correspondente):
 
 * [Contas de usuário e coleta de informações](#accounts)
-* [Coleta de informações como parte do uso do serviço do Pocket](#passive)
-* [Uso de cookies e ferramentas analíticas](#cookies)
+* [Coleta de informações como parte do uso do Pocket Service](#passive)
+* [Uso de cookies e análises](#cookies)
 * [Uso de informações](#use)
 * [Compartilhamento de informações](#sharing)
-* [Retenção de informações](#keeping)
+* [Manter informações](#keeping)
 * [Transferência de informações](#transfer)
 * [Segurança](#security)
 * [Phishing](#phishing)
-* [Gerenciamento de privacidade e configurações de e-mail](#opt-out)
-* [Alterações da Política](#amendments)
+* [Gerenciando minhas configurações de privacidade e e-mail](#opt-out)
+* [Emendas à política](#amendments)
 * [Contato](#contact)
 
 ## Contas de usuário e coleta de informações {: #accounts }
@@ -38,23 +38,24 @@ Além das informações que você nos fornece ao criar uma conta de usuário, co
 
 ### Tipos e finalidades
 
-Usamos cookies e ferramentas de análise para as seguintes finalidades:
+Usamos quatro tipos de cookies e ferramentas de análise para as seguintes finalidades:
 
-* Necessários: esses cookies são necessários para o funcionamento do nosso site e para apoiar os nossos negócios. Não é possível desativá-los. Por exemplo, nós os usamos para gerenciar seu status de login, e nossos parceiros de anúncios os usam para exibir anúncios e medir as visualizações e os cliques. Você pode definir o navegador para bloquear esses cookies ou alertar sobre eles, mas isso pode fazer com que partes do site não funcionem adequadamente. Esses cookies não armazenam informações de identificação pessoal. Além disso, a menos que os Cookies de anúncios personalizados estejam ativados, os anúncios não são personalizados.
-* Ferramentas analíticas: inserimos esses cookies no aparelho para nos ajudar a entender como os usuários interagem com nosso site e produto, e para lembrar suas preferências de conta e configurações de idioma. Por exemplo, usamos o Google Analytics e outras ferramentas para entender quais páginas do Pocket são populares. Também usamos pixels em nossos e-mails para coletar informações de uso.
-* Anúncios personalizados: algumas páginas do Pocket têm anúncios. Com sua permissão, os parceiros de anúncios do Pocket inserirão cookies de anúncios no seu aparelho para personalizar os anúncios exibidos aqui e em outros sites. Se você reproduzir vídeos do YouTube no Pocket, o YouTube poderá inserir cookies no seu aparelho, que podem ser usados para personalização. Seu uso do YouTube e do conteúdo dele também está sujeito à [política de privacidade](https://policies.google.com/privacy) do YouTube. Nosso parceiros de anúncios personalizados em nossas páginas de artigos pagos, a Freestar, tem sua própria [política de privacidade](https://freestar.com/privacy-policy/)
+* Necessários: Esses cookies são necessários para o funcionamento do nosso site. Não é possível desativá-los. Você pode definir o navegador para bloquear esses cookies ou alertar sobre eles, mas isso pode fazer com que partes do site não funcionem adequadamente. Esses cookies não armazenam informações de identificação pessoal. Além disso, a menos que os Cookies de anúncios personalizados estejam ativados, os anúncios não são personalizados.
+* Preferência: Colocamos esses cookies no seu dispositivo para lembrar as preferências da sua conta e as configurações de idioma. A desativação desses cookies pode interromper alguns recursos. 
+* Ferramentas analíticas: Colocamos esses cookies no seu dispositivo para nos ajudar a entender como os usuários se envolvem com nosso site e produto. Por exemplo, usamos o Google Analytics e outras ferramentas para entender quais páginas do Pocket são populares. Também usamos pixels em nossos e-mails para coletar informações de uso.
+* Anúncios personalizados: algumas páginas do Pocket têm anúncios. Com o seu consentimento, os parceiros de publicidade da Pocket colocarão cookies de publicidade no seu dispositivo para personalizar os anúncios que você vê aqui e em outros sites. Se você reproduzir vídeos do YouTube no Pocket, o YouTube poderá inserir cookies no seu aparelho, que podem ser usados para personalização. Nosso parceiros de anúncios personalizados em nossas páginas de artigos pagos, a Freestar, tem sua própria [política de privacidade](https://freestar.com/privacy-policy/)
 
 ### Suas escolhas
 
-* Ferramenta Preferência de uso de cookies: por padrão, o Pocket usa cookies necessários e de análise, e desabilita cookies de anúncios personalizados. Você pode gerenciar esses cookies na ferramenta Preferência de uso de cookies. [Saiba mais](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Ferramenta Preferência de uso de cookies: Por padrão, o Pocket define os cookies necessários, de preferência e analíticos, e desativa os cookies de publicidade personalizada. Você pode gerenciar suas configurações para esses cookies nessa ferramenta de Preferências de Cookies. [Saiba mais.](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)
 * Seu navegador: o menu de preferências do navegador pode ajudar você a gerenciar cookies e impedir o rastreamento entre sites.
-* Desativação do Google Analytics: instale a [extensão do navegador de desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout), que proíbe o envio de dados para o Google Analytics.
-* Ferramentas externas de desativação: algumas organizações terceirizadas fornecem opções de desativação de anúncios personalizados entregues por empresas participantes. Para informações sobre desativação de cookies, acesse o site destas organizações: [ferramentas de desativação da Network Advertising Initiative](https://optout.networkadvertising.org/?c=1), [ferramenta de verificação de navegador da Digital Advertising Initiative](https://optout.aboutads.info/?c=2) e [ferramenta Your Online Choices, da European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Seu direito à desativação da venda de informações pessoais: o Pocket não compartilha nem vende suas informações pessoais. Se você habilitar anúncios personalizados no Pocket, permitiremos que os anunciantes personalizem seus anúncios no Pocket, e isso pode ser considerado venda das suas informações, nos termos da lei de privacidade da Califórnia. Para desativá-los, acesse a ferramenta Preferência de uso de cookies e clique no botão de alternância para desabilitar os Cookies de anúncios personalizados.
+* Google Analytics: Por padrão, os cookies de análise, incluindo o Google Analytics, estão ativados. O Google Analytics nos permite entender como você interage com nosso site e medir o desempenho do site para melhorar sua experiência de usuário.
+* Ferramentas adicionais de desativação: Algumas organizações terceirizadas oferecem maneiras de você optar por não receber publicidade personalizada fornecida pelas empresas participantes. Para obter informações sobre como optar por não participar, você pode visitar os sites dessas organizações: [Ferramentas de desativação da Network Advertising Initiative](https://optout.networkadvertising.org/?c=1), [a ferramenta Browser Check da Digital Advertising Initiative](https://optout.aboutads.info/?c=2), e [Aliança Europeia de Publicidade Digital Interativa Suas opções de anúncios](https://www.youronlinechoices.com/uk/your-ad-choices).
+* Seu direito de recusar a venda de informações pessoais: o Pocket não compartilha nem vende suas informações pessoais. Se você habilitar anúncios personalizados no Pocket, permitiremos que os anunciantes personalizem seus anúncios no Pocket, e isso pode ser considerado venda das suas informações, nos termos da lei de privacidade da Califórnia. Você pode optar por não participar navegando até a ferramenta Preferência de cookies → Cookies de publicidade personalizada e alternando para "desativado".
 
 Além dos métodos descritos acima, também podemos coletar informações usando cookies ou outras tecnologias quando você acessa nosso site ou usa as Tecnologias do Pocket. Se o navegador permitir, você pode recusar o uso dos nossos cookies. No entanto, nesse caso, é possível que você não consiga usar alguns recursos, precise inserir sua senha com mais frequência durante uma sessão e não consiga instalar ou usar algumas Tecnologias do Pocket. Cookies e outras tecnologias facilitam o uso das Tecnologias do Pocket e nos ajudam a personalizar nossos serviços com base em seus interesses e suas atividades.
 
-Também podemos usar “tags de pixel”, “web beacons”, “GIFs limpos” ou outros meios semelhantes (individualmente ou coletivamente indicados aqui como “Tags de Pixel”) nos e-mails que enviamos aos nossos usuários para coletar dados de uso. Usamos Tags de Pixel, outras tecnologias e as informações que coletamos para contabilizar os usuários que acessam determinadas páginas do nosso Site, fornecer serviços de marca e ajudar a determinar o desempenho de campanhas promocionais ou de publicidade.
+Também podemos usar "pixel tags", "web beacons", "clear GIFs" ou meios semelhantes (individual ou coletivamente "Pixel Tags") em conexão com e-mails que enviamos aos nossos usuários para coletar dados de uso. Usamos Pixel Tags, outras tecnologias e as informações que coletamos para contar os usuários que visitaram determinadas páginas do nosso site, para fornecer serviços de marca e para ajudar a determinar a eficácia de campanhas promocionais ou publicitárias.
 
 ## Uso de informações {: #use }
 
@@ -80,7 +81,7 @@ Você pode conectar sua conta do Pocket a aplicativos de terceiros para habilita
 
 ### Trabalho com terceiros
 
-Podemos trabalhar com terceiros de confiança para facilitar um ou mais aspectos dos produtos, serviços ou recursos que fornecemos para você, e podemos fornecer algumas informações pessoais suas diretamente para esses terceiros. Por exemplo, conforme descrito acima, podemos usar um processador de pagamentos terceirizado para processar pagamentos do nosso serviço pago de assinatura. Também podemos compartilhar dados agregados limitados com nossos parceiros de propaganda (saiba mais na seção “Dados agregados” acima). Essas partes estão sujeitas a contratos de confidencialidade conosco, além de outras restrições legais que proíbem o uso das informações que fornecemos a elas para qualquer outra finalidade que não estejam indicadas acima, a menos que você tenha explicitamente concordado mou concedido permissão prévia para outros usos. Se você usar o recurso “Listen”, poderemos usar o conteúdo do artigo com um serviço de terceiros para ler o artigo.
+Podemos trabalhar com terceiros de confiança para facilitar um ou mais aspectos dos produtos, serviços ou recursos que fornecemos para você, e podemos fornecer algumas informações pessoais suas diretamente para esses terceiros. Por exemplo, conforme descrito acima, podemos usar um processador de pagamentos terceirizado para processar pagamentos do nosso serviço pago de assinatura. Também podemos compartilhar dados agregados limitados com nossos parceiros de propaganda (saiba mais na seção “Dados agregados” acima). Essas partes estão sujeitas a contratos de confidencialidade conosco, além de outras restrições legais que proíbem o uso das informações que fornecemos a elas para qualquer outra finalidade que não estejam indicadas acima, a menos que você tenha explicitamente concordado mou concedido permissão prévia para outros usos. Se você usar o recurso "Ouvir", poderemos compartilhar o conteúdo do artigo com um serviço de terceiros para ler o artigo em voz alta.
 
 ### Compartilhamento exigido por lei ou venda de recursos
 
@@ -102,28 +103,24 @@ Temos acordos com terceiros e adotamos outras medidas de segurança para nos pro
 
 ## Phishing {: #phishing }
 
-Roubo de identidade e a prática conhecida como “phishing” são uma preocupação constante do Pocket. Nossa principal prioridade é a proteção de informações, a fim de ajudar a proteger você contra roubo de identidade. Nunca solicitamos seu nome de usuário, sua senha, seus dados de cartão de crédito ou seu número de identidade por e-mail ou telefone de forma inesperada. Para obter mais informações sobre phishing, acesse o site da Comissão Federal de Comércio dos Estados Unidos (FTC, na sigla em inglês).
+O roubo de identidade e a prática atualmente conhecida como "phishing" são uma grande preocupação para o Pocket. Nossa principal prioridade é a proteção de informações, a fim de ajudar a proteger você contra roubo de identidade. Não solicitamos e não solicitaremos, em nenhum momento, seu nome de usuário, senha, informações de cartão de crédito ou número de identificação nacional em um e-mail ou comunicação telefônica não solicitados. Para obter mais informações sobre phishing, acesse o site da Comissão Federal de Comércio dos Estados Unidos (FTC, na sigla em inglês).
 
 ## Gerenciamento de privacidade e configurações de e-mail {: #opt-out }
 
 Você pode acessar, corrigir ou excluir suas informações pessoais e exportar seus dados do seu Perfil do Pocket. Você também pode visualizar e controlar quais serviços de terceiros, se houver, quer conectar à sua conta do Pocket. Essas configurações podem ser acessadas aqui: <https://getpocket.com/options>
 
-Como parte das nossas configurações padrão de compartilhar conteúdo salvo e recomendado, enviamos e-mails para nossos usuários. Você pode desativar o recebimento desses e-mails e de atualizações dos nossos serviços e do seu uso por meio do recurso de cancelamento indicado em todos os nossos e-mails ou das configurações da sua conta. Tentaremos nos comunicar com você somente conforme as suas instruções, embora possa demorar um pouco para processarmos sua solicitação.
+Como parte das nossas configurações padrão de compartilhar conteúdo salvo e recomendado, enviamos e-mails para nossos usuários. Você pode optar por não receber essas informações e atualizações sobre nosso serviço e seu uso, usando o recurso de cancelamento de assinatura em qualquer uma de nossas correspondências por e-mail ou nas configurações de sua conta. Tentaremos nos comunicar com você somente conforme as suas instruções, embora possa demorar um pouco para processarmos sua solicitação.
 
 ## Alterações nda Política {: #amendments }
 
-Esta Política de Privacidade é atualizada com certa frequência. Podemos alterá-la a qualquer momento publicando os termos atualizados em nosso site: [getpocket.com](https://getpocket.com/). Você também pode acessá-los nas opções ou no menu de ajuda do aplicativo do Pocket. Todos os termos atualizados entrarão em vigor em 30 (trinta) dias após a primeira publicação no Site. Se fizermos quaisquer alterações significativas da nossa Política de Privacidade que afetem as informações de usuários já armazenadas em nosso banco de dados, publicaremos um aviso em destaque em nosso Site de que ela foi alterada. Nosso uso das suas informações será regido pelos termos e condições da nossa Política de Privacidade em vigor quando você usar nosso aplicativo pela primeira vez ou 30 (trinta) dias após as alterações dos termos, conforme explicado acima.
-
-Se você tiver dúvidas quanto a qualquer disposição descrita cima, envie-nos um e-mail para [privacy@getpocket.com](mailto:privacy@getpocket.com) ou escreva para o endereço indicado acima.
+Esta Política de Privacidade é atualizada com certa frequência. Podemos alterar esta Política de Privacidade a qualquer momento, publicando os termos alterados em nosso site que você pode acessar em [getpocket.com](https://getpocket.com/) ou por meio das opções ou do menu de ajuda do aplicativo Pocket. Todos os termos alterados entrarão automaticamente em vigor 30 (trinta) dias após sua publicação inicial no site. Se fizermos qualquer alteração relevante em nossa Política de Privacidade que afete as informações do usuário já armazenadas em nosso banco de dados, publicaremos um aviso em destaque em nosso site notificando os usuários sobre a alteração em nossa Política de Privacidade. Nosso uso de suas informações será regido pelos termos e condições de nossa Política de Privacidade em vigor quando você usar nosso aplicativo pela primeira vez ou trinta (30) dias após a alteração dos termos, conforme explicado acima.
 
 ## Contato {: #contact }
 
-Se você tiver dúvidas ou problemas relacionados a esta Política de Privacidade, envie-nos um e-mail para [privacy@getpocket.com](mailto:privacy@getpocket.com) ou entre em contato conosco aqui: [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Você também pode nos escrever para:
+Se tiver dúvidas ou preocupações com relação a esta Política de Privacidade, você deve entrar em contato conosco em [privacy@getpocket.com](mailto:privacy@getpocket.com) ou [https://help.getpocket.com/contact](https://help.getpocket.com/contact). Você também pode nos escrever para:
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
 149 New Montgomery Street  
 4th Floor  
-San Francisco, CA 94105, Estados Unidos
-
-Se você for europeu e tiver um problema de privacidade não resolvido, pode registrar uma reclamação com a autoridade fiscalizadora do país em questão.
+San Francisco, CA 94105

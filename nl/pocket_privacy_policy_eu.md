@@ -3,9 +3,9 @@
 *Van kracht vanaf woensdag 3 april 2024*
 {: datetime="2024-04-03" }
 
-Deze melding beschrijft het Privacybeleid dat van toepassing is op alle informatie die wordt verzameld of verstrekt wanneer u de Pocket-toepassing of een van de andere door ons geleverde softwaretoepassingen of services installeert of gebruikt, en wanneer u onze website bezoekt (deze worden hierna gezamenlijk de Pocket-technologieën genoemd). De Pocket-technologieën zijn eigendom van en in licentie bij Mozilla Corporation (hierin aangeduid als wij, ons, onze, Mozilla), en worden beheerd door Mozilla's business unit die bekend staat onder de naam Pocket, die toepassingen en services heeft ontwikkeld voor gebruik in verband met een verscheidenheid aan apparaten en platforms, waaronder, zonder beperking, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows Phone, Chrome, Safari, Firefox en andere mobiele apparaten en computers.
+Deze mededeling beschrijft het Privacybeleid dat van toepassing is op alle informatie die wordt verzameld of verstrekt wanneer u de Pocket-toepassing of een van de andere door ons geleverde softwaretoepassingen of services installeert of gebruikt, en wanneer u onze website bezoekt (deze worden hierna gezamenlijk de Pocket-technologieën genoemd). De Pocket-technologieën zijn eigendom van en in licentie bij Mozilla Corporation (hierin aangeduid als wij, ons, onze, Mozilla), en worden beheerd door Mozilla's business unit die bekend staat onder de naam Pocket, die toepassingen en services heeft ontwikkeld voor gebruik in verband met een verscheidenheid aan apparaten en platforms, waaronder, zonder beperking, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows Phone, Chrome, Safari, Firefox en andere mobiele apparaten en computers.
 
-We begrijpen de bezorgdheid over uw privacy. We willen dat u begrijpt welke typen informatie wij verzamelen en wat er met die informatie kan gebeuren als u de Pocket-toepassing installeert, de Pocket-website bezoekt of een van de Pocket-technologieën gebruikt.
+We begrijpen de bezorgdheid over uw privacy. Wij willen dat u begrijpt welke typen informatie wij verzamelen en wat er met die informatie kan gebeuren als u de Pocket-toepassing installeert, de Pocket-website bezoekt of een van de Pocket-technologieën gebruikt.
 
 Ons Privacybeleid kent de volgende bepalingen en u kunt naar elke bepaling gaan door op de onderstaande koppelingen te klikken:
 
@@ -41,21 +41,16 @@ Naast de informatie die u ons verstrekt wanneer u zich registreert voor een gebr
 Wij gebruiken vier typen cookies en analysetools voor de volgende doeleinden:
 
 * Noodzakelijk: Deze cookies zijn noodzakelijk voor het functioneren van onze website. Deze kunnen niet worden uitgeschakeld. U kunt uw browser zo instellen dat deze cookies worden geblokkeerd of dat u er een waarschuwing over ontvangt, maar dit kan ertoe leiden dat delen van de site niet goed werken. Deze cookies slaan geen persoonlijk identificeerbare informatie op. Tenzij gepersonaliseerde reclamecookies zijn ingeschakeld, zijn reclames niet gepersonaliseerd.
-* Voorkeur: We plaatsen deze cookies op uw apparaat voor het opslaan van accountvoorkeuren en taalinstellingen. Als u deze cookies uitschakelt, werken enkele functies mogelijk niet meer. 
+* Voorkeur: We plaatsen deze cookies op uw apparaat voor het opslaan van accountvoorkeuren en taalinstellingen. Als u deze cookies uitschakelt, werken enkele functies mogelijk niet meer.
 * Analytics: We plaatsen deze cookies op uw apparaat zodat we inzicht krijgen in hoe gebruikers omgaan met onze website en ons product. Wij gebruiken bijvoorbeeld Google Analytics en andere instrumenten om te begrijpen welke Pocket-webpagina's populair zijn. Wij gebruiken ook pixels in onze e-mails om gebruiksinformatie te verzamelen.
 * Gepersonaliseerde reclame: Sommige Pocket-webpagina's hebben reclames. Met uw toestemming, plaatsen Pocket-reclamepartners reclamecookies op uw apparaat om de reclames die u hier en op andere websites ziet, te personaliseren. Als u een YouTube-video op Pocket afspeelt, kan YouTube cookies op uw apparaat plaatsen die voor personalisatiedoeleinden kunnen worden gebruikt. Onze partner voor gepersonaliseerde reclames op onze gesyndiceerde artikelpagina's, Freestar, heeft een eigen [Privacybeleid](https://freestar.com/privacy-policy/)
 
 ### Uw keuzes
 
-* De optie Cookievoorkeuren: Pocket stelt standaard noodzakelijke cookies, voorkeurscookies en analytische cookies in en schakelt gepersonaliseerde reclamecookies uit. U kunt uw instellingen voor deze cookies beheren via de tool Cookievoorkeuren. [Meer informatie](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
-* Uw browser: In het menu met voorkeuren in uw browser kunt u cookies beheren en volgen door andere sites voorkomen.
-* Analytics van Google: Analytische cookies, waaronder die voor Google Analytics, zijn standaard ingeschakeld. Via Google Analytics kunnen we uw interactie met onze website doorgronden en siteprestaties meten om uw gebruikerservaring te verbeteren.
+* De optie Cookievoorkeuren: De optie Cookievoorkeuren: Pocket stelt standaard noodzakelijke cookies in en schakelt standaard alle andere typen cookies uit. U kunt uw instellingen voor deze cookies beheren via de tool Cookievoorkeuren. [Meer informatie](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Uw browser: In het menu met voorkeuren in uw browser kunt u cookies beheren en u kunt bovendien volgen door andere sites voorkomen.
+* Analytics van Google: Analytische cookies, waaronder die voor Google Analytics, zijn standaard uitgeschakeld. Als u zich inschrijft voor analytische cookies, kunnen we via Google Analytics uw interactie met onze website doorgronden en siteprestaties meten om uw gebruikerservaring te verbeteren.
 * Extra tools om u uit te schrijven: Sommige organisaties van derden bieden u manieren om u uit te schrijven voor gepersonaliseerde reclame van deelnemende bedrijven. Voor informatie over hoe u zich uitschrijft, kunt u terecht op de websites van deze organisaties: [de tools van het Network Advertising Initiative om u uit te schrijven](https://optout.networkadvertising.org/?c=1), de Browser Check tool van het [Digital Advertising Initiative](https://optout.aboutads.info/?c=2) en de [European Interactive Digital Advertising Alliance Your Ad Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Uw recht om u uit te schrijven voor de verkoop van persoonlijke informatie: Pocket deelt of verkoopt uw persoonlijke informatie niet. Als u gepersonaliseerde reclame op Pocket inschakelt, staan we adverteerders toe uw reclames op Pocket te personaliseren en dit kan onder de Californische privacywetgeving worden beschouwd als een verkoop van uw informatie. U kunt zich uitschrijven door te navigeren naar Cookievoorkeuren → Gepersonaliseerde reclamecookies en deze optie uit te schakelen.
-
-Naast de hierboven beschreven methoden kunnen wij ook informatie verzamelen met behulp van cookies of andere technologieën wanneer u onze website bezoekt of Pocket-technologieën gebruikt. U kunt onze cookies weigeren als uw browser dat toestaat, maar in dat geval kan het zijn dat u bepaalde functies niet kunt gebruiken, dat u tijdens een sessie vaker uw wachtwoord moet invoeren en dat u bepaalde Pocket-technologieën niet kunt installeren of gebruiken. Cookies en andere technologieën vergemakkelijken het gebruik van onze Pocket-technologieën en helpen ons de services die we aanbieden aan te passen en te personaliseren op basis van uw interesses en activiteiten.
-
-Wij kunnen ook gebruikmaken van pixel tags, web beacons, clear GIF's of soortgelijke middelen (afzonderlijk of gezamenlijk Pixel Tags genoemd) in verband met e-mails die wij naar onze gebruikers sturen om gebruiksgegevens te verzamelen. Wij gebruiken Pixel Tags, andere technologieën en de informatie die wij verzamelen, om gebruikers te tellen die bepaalde pagina's op onze website hebben bezocht, om merkservices te verzorgen en om te helpen de doeltreffendheid van promotie- of reclamecampagnes te bepalen.
 
 ## Gebruik van informatie {: #use }
 
@@ -117,10 +112,13 @@ Dit privacybeleid zal van tijd tot tijd worden gewijzigd. We kunnen dit Privacyb
 
 ## Contact {: #contact }
 
-Als u vragen of zorgen hebt over dit Privacybeleid, kunt u contact met ons opnemen via [privacy@getpocket.com](mailto:privacy@getpocket.com) of [https://help.getpocket.com/contact](https://help.getpocket.com/contact). U kunt ook contact met ons opnemen via:
+Als u vragen of punten van zorg hebt over dit Privacybeleid, kunt u contact met ons opnemen via [privacy@getpocket.com](mailto:privacy@getpocket.com) of [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+Als u andere vragen hebt over persoonlijke gegevens of onze privacyprocedures, kunt u contact met ons opnemen via [dpo@mozilla.com](mailto:dpo@mozilla.com). U kunt ook per e-mail contact opnemen met onze Data Protection Officer via:
+
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Brussels  
+Belgium  
+
+We reageren op alle aanvragen van individuen die hun gegevensbeschermingsrechten willen uitoefenen in overeenstemming met toepasselijke gegevensbeschermingswetgeving. U heeft ook het recht om een klacht in te dienen bij uw plaatselijke gegevensbeschermingsautoriteit.

@@ -1,7 +1,7 @@
 # 隐私政策
 
-*2024 年 3 月 7 日生效*
-{: datetime="2024-03-07" }
+*2024 年 4 月 3 日生效*
+{: datetime="2024-04-03" }
 
 本声明所述的隐私政策适用于您在安装或使用 Pocket 应用程序或我们提供的任何其他专有软件应用程序或服务以及访问我们的网站（统称“Pocket 技术”）时收集或提交的所有信息。Pocket 技术由 Mozilla Corporation（以下简称“我们”、“我们的”、“Mozilla”）所有和授权，并通过 Mozilla 业务部门“Pocket”运营。Pocket 已开发多个应用程序和服务用于连接各种设备和平台，包括但不限于 Windows、Mac、iPhone、iPad、Kindle Fire、Android、BlackBerry、Windows phone、Chrome、Safari、Firefox 及其他移动设备和计算机。
 
@@ -38,18 +38,19 @@
 
 ### 类型和用途
 
-我们出于以下目的使用 Cookie 和分析工具：
+我们出于以下目的使用四种类型的 Cookie 和分析工具：
 
-* 必要原则：Cookie 是运行网站及提供业务支持的必要条件。我们不能将其关闭。例如，我们使用 Cookie 管理您的登录状态，广告合作伙伴使用 Cookie 展示广告并衡量展示次数和点击次数。您可以设置浏览器阻止这些 Cookie 或发出相关提醒，但这可能会导致网站的某些部分无法正常运行。这些 Cookie 不存储任何个人身份信息，除非启用个性化广告 Cookie，否则不会根据个性化需求展示广告。
-* 分析：我们在您的设备上保存 Cookie，旨在了解用户如何使用我们的网站和产品并记住您的帐号首选项和语言设置。例如，我们使用 Google Analytics 及其他一些工具了解哪些 Pocket 网页比较受欢迎。我们还在电子邮件中使用像素收集使用信息。
-* 个性化广告：部分 Pocket 网页包含广告。一经选择，Pocket 广告合作伙伴便会在您的设备上保存广告 Cookie，个性化展示您在 Pocket 网页及其他网站上看到的广告。如果在 Pocket 上播放 YouTube 视频，YouTube 可能会在您的设备上保存 Cookie，以便实现个性化展示。您对 YouTube 及其内容的使用也受 YouTube [隐私政策](https://policies.google.com/privacy)的约束。我们的联合文章页面个性化广告合作伙伴 Freestar 拥有自己的[隐私政策](https://freestar.com/privacy-policy/)。
+* 必要原则：Cookie 是运行网站的必要条件。我们不能将其关闭。您可以设置浏览器阻止这些 Cookie 或发出相关提醒，但这可能会导致网站的某些部分无法正常运行。这些 Cookie 不存储任何个人身份信息，除非启用个性化广告 Cookie，否则不会根据个性化需求展示广告。
+* 首选项：我们在您的设备上保存 Cookie，旨在记住您的帐号首选项和语言设置。禁用 Cookie 可能会破坏某些功能。
+* 分析：我们在您的设备上保存 Cookie，旨在了解用户如何使用我们的网站和产品。例如，我们使用 Google Analytics 及其他一些工具了解哪些 Pocket 网页比较受欢迎。我们还在电子邮件中使用像素收集使用信息。
+* 个性化广告：部分 Pocket 网页包含广告。在征得您的同意后，Pocket 广告合作伙伴便会在您的设备上保存广告 Cookie，个性化展示您在 Pocket 网页及其他网站上看到的广告。如果在 Pocket 上播放 YouTube 视频，YouTube 可能会在您的设备上保存 Cookie，以便实现个性化展示。我们的联合文章页面个性化广告合作伙伴 Freestar 拥有自己的[隐私政策](https://freestar.com/privacy-policy/)。
 
 ### 您的选择
 
-* Cookie Preference 工具：默认情况下，Pocket 会设置必要原则和分析工具 Cookie，并禁用个性化广告 Cookie。您可以通过此 Cookie Preference 工具管理这些 Cookie。[了解更多](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
+* Cookie Preference 工具：默认情况下，Pocket 会设置必要原则、首选项和分析工具 Cookie，并禁用个性化广告 Cookie。您可以通过此 Cookie Preference 工具管理这些 Cookie 设置。[了解更多](https://help.getpocket.com/article/1163-pocket-website-cookies-faq)。
 * 您的浏览器：您的浏览器首选项菜单可以帮助您管理 Cookie 并阻止跨站点跟踪。
-* Google Analytics Opt-out：安装 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)，这可以禁止向 Google Analytics 传输数据。
-* 外部选择退出工具：部分第三方组织会提供选择退出参与公司提供的个性化广告的方法。有关如何选择退出的信息，您可以访问以下组织的网站：[美国网络广告促进会的选择退出工具](https://optout.networkadvertising.org/?c=1)、[数字广告倡议的浏览器检查工具](https://optout.aboutads.info/?c=2)和[欧洲互动数字广告联盟您的广告选择](https://www.youronlinechoices.com/uk/your-ad-choices)。
+* Google Analytics：默认情况下，启用分析工具 Cookie，包括 Google Analytics。我们通过 Google Analytics 了解您如何与我们的网站互动并衡量网站性能，从而改善您的用户体验。
+* 其他选择退出工具：部分第三方组织会提供选择退出参与公司提供的个性化广告的方法。有关如何选择退出的信息，您可以访问以下组织的网站：[美国网络广告促进会的选择退出工具](https://optout.networkadvertising.org/?c=1)、[数字广告倡议的浏览器检查工具](https://optout.aboutads.info/?c=2)和[欧洲互动数字广告联盟您的广告选择](https://www.youronlinechoices.com/uk/your-ad-choices)。
 * 您有权选择退出个人信息出售：Pocket 不会共享或出售您的个人信息。如果您在 Pocket 上启用个性化广告，我们将允许广告商在 Pocket 上个性化展示广告，加利福尼亚州隐私法可能将此视为出售信息。您可以导航到“Cookie Preference 工具”→“个性化广告 Cookie”，切换到“禁用”即可选择退出。
 
 除上述方法以外，我们还可能在您访问网站或使用 Pocket 技术时运用 Cookie 或其他技术收集信息。如果浏览器允许，您可以拒绝 Cookie，届时可能无法使用某些功能，或许需要在会话期间更频繁地输入密码，而且可能无法安装或使用某些 Pocket 技术。在 Cookie 和其他技术的辅助下，Pocket 技术将更便于使用，同时还有助于我们根据您的兴趣和活动定制和个性化所提供的服务。
@@ -74,7 +75,7 @@
 
 我们还会与第三方（包括内容提供商、网站运营商、广告商和出版商）共享汇总的非个人数据及相关使用信息，但不得包含任何可识别您本人或任何其他个人用户身份的个人信息。例如，我们可能会根据汇总的匿名用户数据的分析结果，与内容提供商共享保存次数最多的 Pocket 文章列表，但不会与上述内容提供商共享有关此类用户的任何个人信息。
 
-###其他网站和应用程序链接
+### 其他网站和应用程序链接
 
 如果您愿意，还可将您的 Pocket 帐号连接到第三方应用程序以启用附加功能，例如从喜爱的应用程序中保存的功能，或者第三方开发人员创建的其他特殊功能。我们在 Pocket 应用程序中设置了控件，便于您控制与第三方产品和服务提供商共享的信息。例如，您可能会收到通知，提示您使用的另一款应用程序想要连接 Pocket 帐号。在某些情况下，此类应用程序将请求访问 Pocket 帐号中的某些数据，例如您的 Pocket 列表或者首选主题、网站和作者（根据您保存到 Pocket 的内容编制），这样有助于他们定制服务。但是，在提供上述访问权限之前，还会要求您提供授权，才能共享任何此类相关信息。尽管 Pocket 技术可以与第三方产品和服务组合使用，但我们不附属于第三方，也无权操控第三方。除非本隐私政策另有明确规定，否则本文档仅适用于我们向您收集的信息的使用和披露事宜，建议您在选择使用 Pocket 帐号连接产品或服务时分别查看各第三方产品或服务提供商的隐私政策。如果您使用 Pocket 保存 YouTube 上的内容，该内容将通过 YouTube API 服务提供给 Pocket，但仍将由 YouTube 网站托管。您对 YouTube 内容的使用将受到 [Google 隐私政策](https://policies.google.com/privacy)的约束。
 
@@ -114,16 +115,12 @@ Pocket 十分关注身份盗用及当前所谓的“网络钓鱼”犯罪行为�
 
 请注意，本隐私政策会不时更改。我们可能会随时在网站上发布修订条款，修订本隐私政策，您可以访问 [getpocket.com](https://getpocket.com/) 或通过 Pocket 应用程序选项或帮助菜单进行了解。所有修订条款将在网站上初次发布后的三十 (30) 日自动生效。如果我们对隐私政策做出任何影响数据库中所存储用户信息的重大更改，将在网站的醒目位置发布通知，告知用户我们的隐私政策发生了更改。我们在使用您的信息时会遵守您首次使用应用程序时（或更改条款后三十 (30) 日）生效的隐私政策条款和条件，如上所述。
 
-如对上述任何条款有疑问，请通过 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或上述街道地址与我们联系。
-
 ## 联系方式 {: #contact }
 
-如果对本隐私政策有任何疑问或疑虑，请通过 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或 [https://help.getpocket.com/contact](https://help.getpocket.com/contact) 与我们联系。或者也可以通过以下方式联系我们：  
+如果对本隐私政策有任何疑问或疑虑，请通过 [privacy@getpocket.com](mailto:privacy@getpocket.com) 或 [https://help.getpocket.com/contact](https://help.getpocket.com/contact) 与我们联系。或者也可以通过以下方式联系我们：
 
-Mozilla Corporation  
-ATTN:Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
+Mozilla Corporation
+ATTN:Pocket Business Unit
+149 New Montgomery Street
+4th Floor
 San Francisco, CA 94105
-
-如果欧洲用户认定隐私投诉未得到解决，有权向其所在成员国的监管机构提出控诉。
