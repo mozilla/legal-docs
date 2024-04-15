@@ -23,6 +23,7 @@ List of translated files (number of locales between parentheses):
 * mozilla_vpn_tos.md (6)
 * ossn_site_privacy_notice.md (1)
 * pocket_privacy_policy.md (12)
+* pocket_privacy_policy_eu.md (6)
 * pocket_tos.md (12)
 * report_infringement.md (13)
 * subscription_services_privacy_notice.md (10)
