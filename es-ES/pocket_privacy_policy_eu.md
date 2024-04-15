@@ -41,21 +41,16 @@ Además de la información que nos proporciona al registrarse para una cuenta de
 Utilizamos cuatro tipos de cookies y herramientas de análisis para los siguientes fines:
 
 * Necesarias: estas cookies son necesarias para el funcionamiento de nuestro sitio web. No se pueden desactivar. Puede configurar su navegador para bloquearlas o para que le avise acerca de estas cookies, pero esto puede hacer que partes del sitio no funcionen correctamente. Estas cookies no almacenan ninguna información de identificación personal y, a menos que las cookies de publicidad personalizada estén habilitadas, los anuncios no serán personalizados.
-* De preferencias: Instalamos estas cookies en su dispositivo para recordar las preferencias de su cuenta y la configuración de idioma. Desactivar estas cookies podría romper algunas funciones. 
+* De preferencias: Instalamos estas cookies en su dispositivo para recordar las preferencias de su cuenta y la configuración de idioma. Desactivar estas cookies podría romper algunas funciones.
 * Análisis: colocamos estas cookies en su dispositivo para ayudarnos a comprender cómo interactúan los usuarios con nuestro sitio web y nuestro producto. Por ejemplo, utilizamos Google Analytics y otras herramientas para entender qué páginas web de Pocket son populares. También utilizamos píxeles en nuestros correos electrónicos para recopilar información de uso.
 * Publicidad personalizada: algunas páginas web de Pocket tienen anuncios. Con su consentimiento, los socios de anuncios de Pocket colocarán cookies publicitarias en su dispositivo para personalizar los anuncios que vea aquí y en otros sitios web. Si reproduce un vídeo de YouTube en Pocket, YouTube puede colocar cookies en su dispositivo que se pueden utilizar para personalizarlo. Nuestro socio para anuncios personalizados en nuestras páginas de artículos sindicados, Freestar, tiene su propia [Política de privacidad](https://freestar.com/privacy-policy/)
 
 ### Sus opciones
 
-* Herramienta de preferencia de cookies: de forma predeterminada, Pocket establece las cookies necesarias, de preferencia y de análisis, y deshabilita las cookies de publicidad personalizadas. Puede gestionar sus ajustes para estas cookies desde esta herramienta de preferencias de cookies. [Más información](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
-* Su navegador: el menú de preferencias del navegador puede ayudarle a gestionar las cookies y evitar el seguimiento entre sitios.
-* Google Analytics: de forma predeterminada, las cookies de análisis, inclusive Google Analytics, están activadas. Google Analytics nos permite entender su manera de interactuar con nuestro sitio web y medir el rendimiento del sitio para mejorar su experiencia de usuario.
-* Herramientas de exclusión complementarias: algunas organizaciones de terceros proporcionan formas de excluir la publicidad personalizada que ofrecen las empresas participantes. Para obtener información sobre cómo excluirla, puede visitar los sitios web de estas organizaciones: [Las herramientas de exclusión voluntaria de Network Advertising Initiative](https://optout.networkadvertising.org/?c=1), [la herramienta de comprobación del navegador de Digital Advertising Initiative](https://optout.aboutads.info/?c=2) y [Sus opciones publicitarias de la European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/uk/your-ad-choices).
-* Su derecho de exclusión de la venta de información personal: Pocket no comparte ni vende su información personal. Si habilita la publicidad personalizada en Pocket, permitimos que los anunciantes personalicen sus anuncios en Pocket y esto puede considerarse una venta de su información en virtud de la ley de privacidad de California. Puede optar por no hacerlo navegando a su herramienta de preferencia de cookies → Cookies publicitarias personalizadas y cambiando a «desactivado».
-
-Además de los métodos descritos anteriormente, también podemos recopilar información mediante cookies u otras tecnologías cuando acceda a nuestro sitio web o utilice las Tecnologías de Pocket. Puede rechazar nuestras cookies si su navegador lo permite, aunque en ese caso es posible que no pueda utilizar ciertas funciones, es posible que se le solicite introducir su contraseña con más frecuencia durante una sesión y que no pueda instalar o utilizar ciertas Tecnologías de Pocket. Las cookies y otras tecnologías facilitan el uso de las Tecnologías de Pocket y nos ayudan a personalizar los servicios que ofrecemos en función de sus intereses y actividades.
-
-También podemos utilizar etiquetas de píxeles, balizas web, GIF transparentes o medios similares (individual o colectivamente, «Etiquetas de píxeles») en relación con los correos electrónicos que enviamos a nuestros usuarios para recopilar datos de uso. Utilizamos Etiquetas de píxeles, otras tecnologías y la información que recopilamos para contar a los usuarios que han visitado determinadas páginas de nuestro sitio web, para ofrecer servicios de marca y para ayudar a determinar la eficacia de las campañas promocionales o publicitarias.
+* Herramienta de preferencia de cookies: Herramienta de preferencia de cookies: de forma predeterminada, Pocket establece las cookies necesarias y deshabilita todos los otros tipos de cookies. Puede gestionar estas cookies desde esta herramienta de preferencias de cookies. [Más información](https://help.getpocket.com/article/1163-pocket-website-cookies-faq).
+* Su navegador: el menú de preferencias del navegador también puede ayudarle a gestionar las cookies y evitar el seguimiento entre sitios.
+* Google Analytics: de forma predeterminada, las cookies de análisis, inclusive Google Analytics, están desactivadas. Si decide optar por las cookies de análisis, Google Analytics nos permite entender su manera de interactuar con nuestro sitio web y medir el rendimiento del sitio para mejorar su experiencia de usuario.
+* Herramientas de exclusión complementarias: algunas organizaciones de terceros proporcionan formas de excluir la publicidad personalizada que ofrecen las empresas participantes. Para obtener información sobre cómo excluirla, puede visitar los sitios web de estas organizaciones: [las herramientas de exclusión voluntaria de Network Advertising Initiative](https://optout.networkadvertising.org/?c=1), [la herramienta de comprobación del navegador de Digital Advertising Initiative](https://optout.aboutads.info/?c=2) y [Sus opciones publicitarias de la European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/uk/your-ad-choices).
 
 ## Uso de la información {: #use }
 
@@ -117,10 +112,13 @@ Tenga en cuenta que esta Política de privacidad cambiará de vez en cuando. Pod
 
 ## Contacto {: #contact }
 
-Si tiene alguna pregunta o duda con respecto a esta Política de privacidad, póngase en contacto con nosotros en [privacy@getpocket.com](mailto:privacy@getpocket.com) o [https://help.getpocket.com/contact](https://help.getpocket.com/contact). También puede ponerse en contacto con nosotros en:
+Si tiene alguna pregunta o duda con respecto a esta Política de privacidad, póngase en contacto con nosotros en [privacy@getpocket.com](mailto:privacy@getpocket.com) o [https://help.getpocket.com/contact](https://help.getpocket.com/contact).
 
-Mozilla Corporation  
-ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas de privacidad, envíe un correo electrónico a [dpo@mozilla.com](mailto:dpo@mozilla.com) o contacte con nuestro responsable de protección de datos por correo a:
+
+Bird & Bird DPO Services SRL  
+Avenue Louise 235 b 1  
+1050 Bruselas  
+Belgium  
+
+Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos de acuerdo con la legislación aplicable en materia de protección de datos. Usted también tiene derecho a presentar una reclamación ante la autoridad local de protección de datos.
