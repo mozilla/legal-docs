@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-*Gültig ab Mittwoch, 17. Januar 2024
-{: datetime="2024-01-17" }
+*Gültig ab Mittwoch, 3. April 2024
+{: datetime="2024-04-03" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -47,13 +47,13 @@ Wenn Sie die Funktion „Improve the Firefox Suggest Experience“ (Sucherlebnis
 
 ### Empfehlen relevanter Inhalte
 
-Firefox zeigt Inhalte wie beispielsweise Add-on-Empfehlungen, meistbesuchte Seiten (von Mozilla erstmaligen Firefox-Benutzern empfohlene Websites) und Pocket-Empfehlungen an (Pocket gehört zur Mozilla-Familie).
+Firefox zeigt Inhalte wie beispielsweise Add-on-Empfehlungen, meistbesuchte Seiten (von Mozilla erstmaligen Firefox-Benutzern empfohlene Websites) und Empfehlungen an.
 
 * __Standortdaten__: Firefox verwendet Ihre IP-Adresse, um relevante Inhalte basierend auf Ihrem Land und ggf. Bundesland/Kanton vorzuschlagen.
 
 * __Technische und Interaktionsdaten__: Firefox sendet uns Daten wie die Position, Größe und Platzierung von uns vorgeschlagener Inhalte sowie grundlegende Daten zu Ihren Interaktionen mit solchen Inhalten. Dies umfasst Angaben dazu, wie oft empfohlene Inhalte angezeigt werden oder darauf geklickt wird. Wir nutzen technische und Interaktionsdaten, um unsere Nutzer besser zu verstehen und unser Produkt zu verbessern. 
 
-* __Pocket-Empfehlungen__: Wir empfehlen Ihnen Inhalte auf Grundlage Ihrer Browserchronik, Sprache und des Landes, in dem Sie sich befinden. Der Prozess zur Entscheidung, welche Inhalte Sie basierend auf Ihrer Browserchronik sehen, erfolgt lokal in Ihrer Kopie von Firefox. Mozilla erhält keine Kopie Ihrer Browserchronik. Mozilla erhält aggregierte Daten zu den Empfehlungen, die Ihnen angezeigt werden und auf die Sie klicken. Außerdem teilen wir aggregierte Daten über die gesponserten Inhalte, die Ihnen angezeigt werden und auf die Sie klicken, mit unserer Drittanbieter-Anzeigenplattform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), damit Werbetreibende sehen können, wie viele Personen auf ihre Artikel klicken. Über diese aggregierten Daten können Sie als Person nicht identifiziert werden.
+* __Empfehlungen__: Wir sind berechtigt, Ihnen auf Grundlage Ihrer Browserchronik, Ihrer Sprache und des Landes, in dem Sie sich befinden, Inhalte zu empfehlen. Der Prozess zur Entscheidung, welche Inhalte Sie basierend auf Ihrer Browserchronik sehen, erfolgt lokal in Ihrer Kopie von Firefox. Mozilla erhält keine Kopie Ihrer Browserchronik. Mozilla erhält aggregierte Daten zu den Empfehlungen, die Ihnen angezeigt werden und auf die Sie klicken. Außerdem teilen wir aggregierte Daten über die gesponserten Inhalte, die Ihnen angezeigt werden und auf die Sie klicken, mit unserer Drittanbieter-Anzeigenplattform [Kevel](https://dev.kevel.com/docs/privacy-policy-customers), damit Werbetreibende sehen können, wie viele Personen auf ihre Artikel klicken. Über diese aggregierten Daten können Sie als Person nicht identifiziert werden.
 
 * __Meistbesuchte Seiten__: Wenn Sie auf „Neuer Tab“ unter „Meistbesuchte Seiten“ auf die Kachel einer gesponserten Website klicken, teilen wir Angaben zu Ihrem Land, Ihrer Region, Ihrem County (soweit Sie in den USA ansässig sind), der von Ihnen angeklickten Kachel und den Zeitpunkt, zu dem Sie mit AdMarketplace (einer Drittanbieter-Empfehlungsplattform) geklickt haben, um nachzuweisen, dass Sie die betreffende Website aufgerufen haben. Firefox teilt weder Ihre IP-Adresse noch sonstige Angaben, die Ihre Identifizierung ermöglichen könnten.
 

@@ -15,7 +15,7 @@ Notis privasi ini menerangkan jenis data yang Mozilla VPN, Mozilla Monitor dan F
 
 ## Perkara Anda Perlu Tahu
 
-__Maklumat akaun Mozilla.__ Perkhidmatan ini memerlukan akaun Mozilla yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang  [amalan data Akaun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/).
+__Maklumat akaun Mozilla.__ Perkhidmatan ini memerlukan akaun Mozilla yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang [amalan data Akaun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/).
 
 __Maklumat pembayaran.__ Apabila anda melanggan perkhidmatan yang memerlukan langganan berbayar, anda akan menghantar bayaran melalui salah satu daripada penyedia pembayaran pihak ketiga kami: Stripe, Apple, PayPal atau Google Pay. Mozilla menerima rekod akaun anda (termasuk alamat bil dan empat digit terakhir kaedah pembayaran anda) dan status langganan akaun anda. Mozilla tidak menyimpan butiran lengkap pembayaran anda.
 
@@ -35,14 +35,15 @@ __Data rangkaian.__ Apabila anda aktifkan Mozilla VPN, ia akan menyulitkan trafi
 
 ### Mozilla Monitor {: #monitor }
 
-__Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan perkhidmatan. Sebagai contoh, apabila anda log masuk dan keluar dan pilihan yang anda tetapkan; ketahui lebih lanjut tentang  [data interaksi Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Secara amnya, Mozilla juga mungkin menggunakan kuki, maklumat peranti dan alamat IP bersama dengan GIF yang jelas, kuki dan perkhidmatan pihak ketiga untuk membantu kami memahami secara agregat bagaimana pengguna terlibat dengan produk, perkhidmatan, komunikasi, laman web, kempen dalam talian, snippet, peranti dan platform kami yang lain. Kami menggunakan:
+__Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan perkhidmatan. Sebagai contoh, apabila anda log masuk dan keluar dan pilihan yang anda tetapkan; ketahui lebih lanjut tentang [data interaksi Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Secara amnya, Mozilla juga mungkin menggunakan kuki, maklumat peranti dan alamat IP bersama dengan GIF yang jelas, kuki dan perkhidmatan pihak ketiga untuk membantu kami memahami secara agregat bagaimana pengguna terlibat dengan produk, perkhidmatan, komunikasi, laman web, kempen dalam talian, snippet, peranti dan platform kami yang lain. Kami menggunakan:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned menerima versi cincang alamat e-mel anda bagi melakukan imbasan pada tempat di mana data peribadi anda mungkin telah dikompromi. HaveIbeenpwned mengekalkan data peribadi ini diimbas secara berterusan untuk pelanggaran baharu; anda boleh meminta alamat e-mel anda dikeluarkan daripada HaveIbeenpwned melalui [mekanisme pilihan keluar](https://haveibeenpwned.com/OptOut).
   
 * [OneRep.](https://onerep.com/) Jika lokasi anda di Amerika Syarikat dan anda melanggan Monitor Plus, OneRep menerima nama pertama dan nama akhir, alamat e-mel, nombor telefon, alamat fizikal dan tarikh lahir anda bagi mengimbas tapak broker data untuk mencari data peribadi anda dan meminta untuk mengeluarkannya. OneRep menyimpan data peribadi anda sehingga anda menamatkan langganan Monitor bagi memeriksa sama ada maklumat anda muncul di laman tambahan atau telah muncul semula di tapak yang anda telah dialihkan keluar.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor menggunakan AWS supaya dapat menghantar e-mel kepada anda berhubung dengan Perkhidmatan Mozilla Monitor, yang termasuk Laporan Penuh, Pemberitahuan Pelanggaran dan Petua Keselamatan. Data ini akan dihapuskan apabila anda menghentikan langganan Monitor. 
- 
+
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor menggunakan Formstack untuk merakamkan maklum balas yang disediakan secara pilihan oleh pengguna tentang pembatalan akaun. Untuk maklumat tentang amalan privasi Formstack, baca [Dasar Privasi Formstack](https://www.formstack.com/legal).
 
 ### Firefox Relay {: #relay }
 

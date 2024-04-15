@@ -1,7 +1,7 @@
 # 网站、通信和 Cookie 隐私声明
 
-2023 年 11 月 1 日
-{: datetime="2023-11-01" }
+2024 年 4 月 3 日
+{: datetime="2024-04-03" }
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
@@ -20,7 +20,7 @@
 
 * **用户反馈**：您可以通过网页（如 [connect.mozilla.org](https://connect.mozilla.org/)）、通过产品内体验，或通过电子邮件、Bugzilla、Matrix、社交媒体帐户、我们的 Get Involved 页面或通过“学生大使”等组织之类的渠道，提供有关我们产品和服务的反馈。请尽量减少您选择在这些论坛上分享的个人信息，因为您的评论可能会向公众开放。
 
-* **账户与订阅**：有些网站，例如 [Firefox 的 Add-Ons](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/) 和 [MDN](https://developer.mozilla.org/)，需要创建帐户。我们使用 [Mozilla 帐户](https://www.mozilla.org/privacy/mozilla-accounts/)、[GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) 或自定义系统进行帐户管理；[了解](https://support.mozilla.org/kb/managing-account-data)有关如何管理 Mozilla 帐户数据的更多信息。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices)或 [Acoustic](https://acoustic.com/privacy-notice/)，您可以使用相关电子邮件底部的链接取消订阅。 
+* **账户与订阅**：有些网站，例如 [Firefox 的 Add-Ons ](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/) 和 [MDN](https://developer.mozilla.org/)，需要创建帐户。我们使用 [Mozilla 帐户](https://www.mozilla.org/privacy/mozilla-accounts/)、[GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) 或自定义系统进行帐户管理；[了解](https://support.mozilla.org/kb/managing-account-data)有关如何管理 Mozilla 帐户数据的更多信息。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices)或 [Braze](https://www.braze.com/company/legal/privacy)，您可以使用相关电子邮件底部的链接取消订阅。
 
 * **产品和政策活动**：我们的某些网页会举行产品或政策活动。例如，您可以通过电子邮件或短信请求链接，以便在您的移动设备上安装 Firefox，或者在互联网问题上向立法者提出诉求。我们可能会使用第三方来管理这些活动并处理您选择提交的所有数据。 
 {: #campaigns }

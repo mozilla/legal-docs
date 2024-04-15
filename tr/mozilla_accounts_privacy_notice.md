@@ -1,7 +1,7 @@
 # Mozilla Hesapları Gizlilik Bildirimi
 
-Sürüm 1.0, 1 Kasım 2023’ten itibaren geçerli
-{: datetime="2023-11-01" }
+Sürüm 1.1, 03 Nisan 2024'ten itibaren geçerli
+{: datetime="2024-04-03" }
 
 Bu Gizlilik Bildirimi’nde Mozilla'nın sizinle ilgili olarak hangi verileri topladığı ve paylaştığı açıklanmaktadır. Ayrıca bir [Mozilla hesabı](https://accounts.firefox.com/) oluşturduğunuzda topladığımız verileri alırken, işlerken ve paylaşırken [Mozilla Gizlilik Politikası](https://www.mozilla.org/privacy/)’nda özetlenen uygulamalara bağlı kalırız. Mozilla hesabınızla eriştiğiniz farklı ürünler ve hizmetler ek bilgiler toplayabilir ve paylaşabilir. [Mozilla hesabı verilerinizin yönetimi](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) veya [web sitelerine ve e-postaya](https://www.mozilla.org/privacy/websites/) ilişkin veri uygulamalarımız dahil olmak üzere belgelerimizin tamamını okuyun veya daha fazla bilgi edinin. Ayrıca Mozilla hesabına aşağıdaki hizmetlerimize ilişkin gizlilik bildirimlerini okuyabilirsiniz:
 
@@ -17,7 +17,7 @@ Bu Gizlilik Bildirimi’nde Mozilla'nın sizinle ilgili olarak hangi verileri to
 
 ## Bilmeniz Gerekenler
 
-__Kayıt verileri.__ Bir Mozilla hesabına kaydolduğunuzda Mozilla, e-posta adresinizi ve parolanızın bir karmasını alır. Yaşınızı belirtmeyi ve bir görünen ad ya da profil resmi eklemeyi tercih edebilirsiniz. E-posta adresiniz, kendi [gizlilik ilkesi](https://acoustic.com/privacy-notice/) olan e-posta sağlayıcımıza, Acoustic’e gönderilir; sizinle iletişim kurmak için Acoustic’in hizmetlerini kullanırız.
+__Kayıt verileri.__ Bir Mozilla hesabına kaydolduğunuzda Mozilla, e-posta adresinizi ve parolanızın bir karmasını alır. Yaşınızı belirtmeyi ve görünen ad ya da profil resmi eklemeyi tercih edebilirsiniz. E-posta adresiniz kendi [gizlilik ilkesi](https://www.braze.com/company/legal/privacy) olan e-posta sağlayıcımız Braze’e gönderilir ve sizinle iletişim kurmak için Braze’in hizmetlerini kullanırız.
 
 __Konum verileri.__ Ürünlerimiz genelinde dolandırıcılık faaliyetlerini ve kötüye kullanımı önlemek amacıyla konumunuzu tahmin etmek için IP adresinizi kullanırız. Diğer konumlardan hesabınızda oturum açılması gibi şüpheli bir etkinlik tespit ettiğimizde size e-posta uyarıları göndeririz. 
 

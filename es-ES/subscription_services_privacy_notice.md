@@ -42,7 +42,8 @@ __Datos de interacción.__ Mozilla recibe datos sobre su interacción con los se
 * [OneRep.](https://onerep.com/) Si usted está en Estados Unidos y tiene una suscripción a Monitor Plus, OneRep recibe su nombre y apellido, dirección de correo electrónico, número de teléfono, dirección física y fecha de nacimiento con el fin de analizar páginas de corredores de datos para encontrar sus datos personales y solicitar su eliminación. OneRep conserva sus datos personales hasta que usted ponga fin a su suscripción a Monitor con el fin de controlar si su información aparece en otras páginas web o si ha vuelto a aparecer en páginas web de las que ya había sido eliminada.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor usa AWS para poderle mandar a usted correos electrónicos relativos al Servicio Mozilla Monitor, como, por ejemplo, Informes completos, Alertas de filtración y Consejos de seguridad. Estos datos serán borrados cuando usted se dé de baja de su suscripción a Monitor. 
- 
+
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor usa Formstack para capturar la opinión proporcionada de forma opcional por los usuarios al cancelar la cuenta. Si quiere informaciones sobre las prácticas de privacidad de Formstack, vea la [Política de privacidad de Formstack](https://www.formstack.com/legal).
 
 ### Firefox Relay {: #relay }
 
