@@ -44,8 +44,10 @@ Appeals will be routed to a dedicated queue upon receipt. Depending on the type 
 
 When a user prevails in their appeal, we will inform the user, and the prior action against their content or their account will be reversed. When a reporter prevails in their appeal, we will inform both the user and the reporter, and will take action against the content that violated our rules, according to the applicable policy.
 
+We may stop processing appeals for up to 6 months from anyone we find has repeatedly submitted appeals that either contain abusive language or that are entirely without support.
+
 If you disagree with the outcome of our internal appeals process and are based in the EU, you can bring your concerns to a certified out-of-court dispute settlement body.
 
-## Abusive reporters
+## Unfounded reports
 
-Where a reporter regularly submits reports that have no basis, we will stop processing their reports. They will be routed to a special queue, and will not be reviewed.
+Persistent submission of unfounded reports will result in the revocation of reporting privileges for up to 6 months. When submitting a report, please make sure there is an actual violation of our policies or the law.
