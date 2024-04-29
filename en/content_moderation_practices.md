@@ -1,7 +1,7 @@
 # Content Moderation at Mozilla
 
-Last Updated February 22, 2024
-{: datetime="2024-02-22" }
+Last Updated April 29, 2024
+{: datetime="2024-04-29" }
 
 ## Content rules
 
