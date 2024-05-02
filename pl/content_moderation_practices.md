@@ -1,7 +1,7 @@
 # Moderacja treści w firmie Mozilla
 
-Ostatnia aktualizacja: 22 lutego 2024
-{: datetime="2024-02-22" }
+Ostatnia aktualizacja: 29 kwietnia 2024
+{: datetime="2024-04-29" }
 
 ## Zasady dotyczące treści
 
@@ -44,8 +44,10 @@ Po otrzymaniu odwołania będą kierowane do odpowiedniej kolejki. W zależnośc
 
 Jeśli odwołanie użytkownika okaże się słuszne, poinformujemy o tym użytkownika, a wcześniejsze działanie przeciwko jego treści lub kontu zostanie cofnięte. Jeśli odwołanie zgłaszającego okaże się słuszne, poinformujemy zarówno użytkownika, jak i zgłaszającego, a następnie podejmiemy działania przeciwko treściom naruszającym nasze zasady, zgodnie z obowiązującymi zasadami.
 
+Możemy wstrzymać rozpatrywanie odwołań na okres do 6 miesięcy od każdej osoby, która wielokrotnie złożyła odwołania zawierające obraźliwe sformułowania lub całkowicie niepoparte dowodami.
+
 Jeśli nie zgadzasz się z wynikiem naszego wewnętrznego procesu odwoławczego i mieszkasz w UE, możesz zgłosić swoje wątpliwości do certyfikowanego pozasądowego organu rozstrzygania sporów.
 
-## Nadużywanie zgłoszeń
+## Bezpodstawne zgłoszenia
 
-Jeśli zgłaszający regularnie przesyła bezpodstawne zgłoszenia, przestaniemy przetwarzać jego zgłoszenia. Będą one kierowane do specjalnej kolejki i nie będą sprawdzane.
+Uporczywe składanie bezpodstawnych zgłoszeń spowoduje cofnięcie uprawnień do zgłaszania na okres do 6 miesięcy. Przesyłając zgłoszenie, należy upewnić się, że doszło do faktycznego naruszenia naszych zasad lub prawa.
