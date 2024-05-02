@@ -1,7 +1,7 @@
 # Inhaltsmoderation bei Mozilla
 
-Zuletzt aktualisiert am 22. Februar 2024
-{: datetime="2024-02-22" }
+Zuletzt aktualisiert am 29. April 2024
+{: datetime="2024-04-29" }
 
 ## Inhaltsregeln
 
@@ -44,8 +44,10 @@ Widersprüche werden nach Erhalt in eine spezielle Warteschlange eingereiht. Je 
 
 Wenn ein Benutzer mit seinem Widerspruch Erfolg hat, werden wir ihn darüber informieren, und die zuvor gegen seine Inhalte oder sein Konto ergriffenen Maßnahmen werden rückgängig gemacht. Wenn ein meldender Benutzer mit seinem Widerspruch Erfolg hat, werden wir sowohl ihn als auch den verursachenden Benutzer informieren und gemäß der geltenden Richtlinie Maßnahmen gegen den Inhalt ergreifen, der gegen unsere Regeln verstoßen hat.
 
+Wir behalten uns vor, die Bearbeitung von Einsprüchen für bis zu 6 Monate auszusetzen, wenn wir feststellen, dass vom Einreichenden wiederholt Einsprüche vorgebracht wurden, die entweder anstößige Formulierungen enthalten oder gänzlich unbegründet sind.
+
 Wenn Sie mit dem Ergebnis unseres internen Beschwerdeverfahrens nicht einverstanden sind und in der EU ansässig sind, können Sie Ihre Bedenken bei einer zertifizierten außergerichtlichen Streitbeilegungsstelle vorbringen.
 
-## Missbräuchliche Meldungen
+## Unbegründete Meldungen
 
-Wenn ein Benutzer regelmäßig Meldungen einreicht, die jeder Grundlage entbehren, werden wir die Bearbeitung seiner Meldungen beenden. Diese Meldungen werden in eine spezielle Warteschlange eingereiht und nicht bearbeitet.
+Die wiederholte Einreichung unbegründeter Meldungen führt zum Entzug des Rechts auf Meldung für bis zu 6 Monate. Wenn Sie eine Meldung abgeben, achten Sie bitte darauf, dass tatsächlich ein Verstoß gegen unsere Richtlinien oder geltendes Recht vorliegt.

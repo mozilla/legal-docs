@@ -1,7 +1,7 @@
 # Moderasi Konten di Mozilla
 
-Terakhir Diperbarui 22 Februari 2024
-{: datetime="2024-02-22" }
+Terakhir Diperbarui 29 April 2024
+{: datetime="2024-04-29" }
 
 ## Aturan konten
 
@@ -44,8 +44,10 @@ Banding akan dimasukkan ke antrean khusus setelah diterima. Bergantung pada jeni
 
 Jika pengguna menang dalam bandingnya, kami akan memberi tahu pengguna tersebut, dan tindakan sebelumnya terhadap konten atau akunnya akan dibatalkan. Jika pelapor menang dalam bandingnya, kami akan memberi tahu pengguna dan pelapor tersebut, dan akan mengambil tindakan terhadap konten yang melanggar aturan kami, sesuai dengan kebijakan yang berlaku.
 
+Kami dapat berhenti memproses pengajuan banding seseorang hingga 6 bulan jika ternyata dia berulang kali mengirimkan pengajuan banding yang memuat kata-kata kasar atau sama sekali tanpa data pendukung.
+
 Jika Anda tidak setuju dengan hasil proses banding internal kami dan berdomisili di UE, Anda dapat menyampaikan kekhawatiran Anda ke badan penyelesaian sengketa di luar pengadilan yang bersertifikat.
 
-## Pelapor yang mengganggu
+## Laporan tidak berdasar
 
-Jika pelapor terus-menerus mengirimkan laporan yang tidak berdasar, kami akan berhenti memproses laporannya. Mereka akan dimasukkan ke antrean khusus, dan tidak akan ditinjau.
+Penyampaian laporan yang tidak berdasar secara terus-menerus akan mengakibatkan dicabutnya hak pelaporan hingga 6 bulan. Saat mengirimkan laporan, pastikan memang benar-benar terjadi pelanggan kebijakan kami atau perundang-undangan.

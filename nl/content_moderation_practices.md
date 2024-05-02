@@ -1,7 +1,7 @@
 # Contentmoderatie bij Mozilla
 
-Laatst bij gewerkt op 22 februari 2024
-{: datetime="2024-02-22" }
+Laatst bij gewerkt op 29 april 2024
+{: datetime="2024-04-29" }
 
 ## Regels voor Content
 
@@ -44,8 +44,10 @@ Beroepszaken worden bij ontvangst naar een speciale wachtrij omgeleid. Items in 
 
 Wanneer een gebruiker tijdens het beroep in het gelijk wordt gesteld, wordt de gebruiker geïnformeerd en wordt de eerdere actie die tegen zijn of haar content of account is ondernomen, teruggedraaid. Wanneer een melder tijdens het beroep in het gelijk wordt gesteld, worden de gebruiker en de melder geïnformeerd en wordt er actie ondernomen tegen de content die in strijd is met onze regels. Dit gebeurt op basis van het toepasselijke beleid.
 
+We kunnen gedurende maximaal 6 maanden stoppen met de verwerking van bezwaarschriften bij mensen die herhaaldelijk bezwaarschriften hebben ingediend die beledigend taalgebruik bevatten of waarbij de onderbouwing volledig ontbreekt. 
+ 
 Als u het niet eens bent met de uitkomst van ons interne beroepsproces en u in de EU woont, kunt u uw zorgen voorleggen aan een gecertificeerd orgaan voor buitengerechtelijke geschillenbeslechting.
 
-## Abusieve melders
+## Ongegronde meldingen
 
-Wanneer een melder regelmatig ongegronde meldingen indient, stoppen we met het verwerken van meldingen. Deze worden omgeleid naar een speciale wachtrij die niet wordt gecontroleerd.
+Herhaaldelijke indiening van ongegronde meldingen leidt tot intrekking van de meldingsrechten gedurende een periode van maximaal 6 maanden. Zorg er bij het indienen van een melding voor dat er sprake is van een daadwerkelijke schending van ons beleid of de wet.
