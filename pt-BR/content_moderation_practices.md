@@ -1,7 +1,7 @@
 # Moderação de conteúdo da Mozilla
 
-Última atualização: 22 de fevereiro de 2024
-{: datetime="2024-02-22" }
+Última atualização: 29 de abril de 2024
+{: datetime="2024-04-29" }
 
 ## Regras de conteúdo
 
@@ -44,8 +44,10 @@ Os recursos recebidos entram em uma fila dedicada. Dependendo do tipo de violaç
 
 Caso o usuário tenha razão, informamos a pessoa em questão, e a ação tomada com relação ao conteúdo ou à conta é revertida. Caso a pessoa denunciante tenha razão, informamos tanto ela quanto o usuário, e tomamos a medida necessária com relação ao conteúdo que viola nossas regras, segundo a política aplicável.
 
+Podemos interromper o processamento de recursos caso a pessoa entre repetidamente com recursos contendo linguagem abusiva ou sem qualquer fundamento.
+
 Caso seja residente na União Europeia e discorde do resultado do nosso processo interno de recurso, você pode abrir uma reclamação com um órgão extrajudicial certificado de resolução de disputas.
 
-## Denunciantes abusivos
+## Denúncias sem fundamento
 
-Caso alguém faça várias denúncias sem fundamento, ignoramos quaisquer denúncias subsequentes dessa pessoa. Essas denúncias são encaminhadas para uma fila especial e não são mais analisadas.
+O envio persistente de denúncias sem fundamento resulta na revogação dos privilégios de denúncia por até seis meses. Ao fazer uma denúncia, certifique-se de que haja uma violação real das nossas políticas ou da lei.

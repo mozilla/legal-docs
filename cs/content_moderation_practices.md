@@ -1,7 +1,7 @@
 # Moderování obsahu ve společnosti Mozilla
 
-Poslední aktualizace 22. února 2024
-{: datetime="2024-02-22" }
+Poslední aktualizace 29. dubna 2024
+{: datetime="2024-04-29" }
 
 ## Zásady pro obsah
 
@@ -44,8 +44,10 @@ Odvolání budou po doručení směřována do vyhrazené fronty. V závislosti 
 
 Pokud bude v odvolání úspěšný uživatel, budeme informovat uživatele a předchozí kroky vůči obsahu nebo jeho účtu budou odvolány. Pokud bude v odvolání úspěšný nahlašovatel, budeme informovat jak uživatele, tak nahlašovatele, a přijmeme kroky proti obsahu, který způsobil porušení našich zásad, a to v souladu s platnými zásadami.
 
+Po dobu až 6 měsíců můžeme přestat zpracovávat odvolání od kohokoliv, u koho zjistíme, že opakovaně podává odvolání buď obsahující urážlivé výrazy nebo zcela neodůvodněné.
+
 Pokud s výsledkem našeho interního odvolacího procesu nebudete souhlasit a pokud sídlíte v EU, své obavy můžete předložit certifikovanému orgánu pro mimosoudní řešení sporů.
 
-## Zneužití hlášení
+## Nepodložená hlášení
 
-Pokud nahlašovatel pravidelně podává neodůvodněná hlášení, jeho hlášení přestaneme zpracovávat. Tyto budou odkloněny do specifické fronty a nebudou kontrolovány.
+Neustále zasílání nepodložených hlášení povede k odvolání oprávnění k podání hlášení po dobu až 6 měsíců. V případě podání hlášení se prosím ujistěte, zda došlo ke skutečnému porušení zásad nebo právních předpisů.

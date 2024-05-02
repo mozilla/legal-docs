@@ -1,7 +1,7 @@
 # Tartalommoderálás a Mozillánál
 
-Utoljára frissítve: 2024. február 22.
-{: datetime="2024-02-22" }
+Utoljára frissítve: 2024. április 29.
+{: datetime="2024-04-29" }
 
 ## Tartalmakra vonatkozó szabályok
 
@@ -44,8 +44,10 @@ A fellebbezéseket a beérkezésükkor egy erre a célra kialakított várólist
 
 Ha egy felhasználó fellebbezése sikerrel jár, értesítjük a felhasználót, és a tartalommal vagy fiókjával szembeni korábbi intézkedést visszavonjuk. Ha a bejelentő fellebbezésébe sikerrel jár, értesítjük a felhasználót és a bejelentőt is, és a szabályzatot sértő tartalommal szemben a vonatkozó szabályzatnak megfelelően lépünk fel.
 
+Legfeljebb 6 hónapra leállíthatjuk a fellebbezések feldolgozását mindazoktól, akikről úgy találjuk, hogy ismételten olyan fellebbezéseket nyújtottak be, amelyek sértő nyelvezetet tartalmaznak, vagy amelyek teljesen megalapozatlanok.
+
 Ha nem ért egyet a belső fellebbezési eljárásunk eredményével, és az EU területén él, aggályait egy hitelesített, bíróságon kívüli vitarendezési szerv elé viheti.
 
-## Visszaélésszerű bejelentők
+## Megalapozatlan jelentések
 
-Ha egy bejelentő rendszeresen olyan jelentéseket küld be, amelyeknek nincs alapja, leállítjuk a jelentései feldolgozását. Egy különleges várólistába kerül, amelyben a bejelentéseket nem vizsgálják felül.
+A megalapozatlan jelentések folyamatos beküldése a jelentési jogosultság legfeljebb 6 hónapra történő visszavonását vonja maga után. A jelentés beküldésekor győződjön meg arról, hogy annak tárgya a szabályzatunkat vagy jogszabályokat sért.

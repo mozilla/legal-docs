@@ -1,7 +1,7 @@
 # Moderación de contenidos en Mozilla
 
-Última actualización: jueves, 22 de febrero de 2024
-{: datetime="2024-02-22" }
+Última actualización: lunes, 29 de abril de 2024
+{: datetime="2024-04-29" }
 
 ## Reglas sobre contenidos
 
@@ -44,8 +44,10 @@ Cuando recibimos una apelación, se destina a una cola dedicada. Según el tipo 
 
 Cuando un usuario gana su apelación procedemos a informarlo y la acción previa contra su contenido o su cuenta es revertida. Cuando un informante gana su apelación procedemos a informar el usuario y el informante y tomamos medidas contra el contenido que viola nuestras reglas, según la política aplicable.
 
+Podríamos dejar de procesar las apelaciones por hasta 6 meses para quienes consideremos que hayan repetidamente presentado apelaciones que contengan lenguaje abusivo o que no tengan ningún fundamento.
+
 Se usted no está de acuerdo con el resultado de nuestro proceso de apelación interno y reside en la UE, puede presentar su argumento ante un organismo certificado de solución de controversias extrajudiciales.
 
-## Informantes abusadores
+## Informes infundados
 
-Si un informante presenta periódicamente informes que carecen de fundamento, dejamos de procesar sus informes. Sus informes entonces son destinados a una cola especial y no son revisados.
+La presentación persistente de informes infundados determinará la revocación de los privilegios de presentación de informes por hasta 6 meses. Al presentar un informe, le rogamos que se asegure que haya una real violación de nuestras políticas o de la ley.

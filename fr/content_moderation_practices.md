@@ -1,7 +1,7 @@
 # La modération de contenu chez Mozilla
 
-Dernière mise à jour : 22 février 2024
-{: datetime="2024-02-22" }
+Dernière mise à jour : lundi 29 avril 2024
+{: datetime="2024-04-29" }
 
 ## Règles concernant le contenu
 
@@ -44,8 +44,10 @@ Les recours sont acheminés vers une file d’attente spécifique dès leur réc
 
 Lorsqu’un utilisateur obtient gain de cause de son recours, nous l’en informons et l’action antérieure contre son contenu ou son compte est annulée. Lorsqu’un rapporteur obtient gain de cause, nous en informons l’utilisateur et le rapporteur, et nous prenons des mesures à l’encontre du contenu qui a enfreint nos règles, conformément à la politique applicable.
 
+Pour une durée maximum de 6 mois, nous nous réservons la possibilité d’arrêter de traiter les recours contenant de manière répétée des propos injurieux ou manquant totalement d’arguments.
+
 Si vous n’êtes pas d’accord avec le résultat de notre procédure de recours interne et que vous êtes basé dans l’UE, vous pouvez soumettre vos préoccupations à un organisme certifié de règlement extrajudiciaire des litiges.
 
-## Rapporteurs abusifs
+## Rapports sans fondement
 
-Dans le cas d’un rapporteur soumettant régulièrement des rapports sans fondement, nous arrêterons de traiter ses rapports. Ils seront placés dans une file d’attente spéciale et ne seront pas examinés.
+L’envoi régulier de rapports sans fondement entraînera la révocation du droit de signalement pendant un maximum de 6 mois. Lorsque vous envoyez un rapport, veillez à ce qu’il signale une violation avérée de nos politiques ou des lois en vigueur.
