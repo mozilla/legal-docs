@@ -1,7 +1,7 @@
 # Moderazione dei contenuti di Mozilla
 
-Ultimo aggiornamento giovedì 22 febbraio 2024
-{: datetime="2024-02-22" }
+Ultimo aggiornamento: 29 aprile 2024
+{: datetime="2024-04-29" }
 
 ## Regole dei contenuti
 
@@ -44,8 +44,10 @@ I ricorsi saranno smistati in una coda dedicata al momento della ricezione. A se
 
 Se un utente vince il ricorso, viene informato e l'azione precedente contro il suo contenuto o il suo account viene annullata. Se un segnalante vince il ricorso, verrà informato sia l'utente che il segnalante e verranno adottati provvedimenti contro il contenuto che ha violato le nostre regole, in base alla politica applicabile.
 
+Possiamo interrompere l'elaborazione dei ricorsi per un massimo di 6 mesi da parte di chiunque abbia presentato ripetutamente ricorsi contenenti linguaggio offensivo o del tutto privi di supporto.
+
 Se l'utente non è d'accordo con l'esito del nostro processo di ricorso interno e risiede nell'UE, può rivolgersi a un organismo certificato per la risoluzione delle controversie extragiudiziali.
 
-## Segnalazioni improprie
+## Segnalazioni infondate
 
-Se un segnalante invia regolarmente segnalazioni prive di fondamento, interromperemo l'elaborazione delle sue denunce, che verranno smistate in una coda speciale e non verranno esaminate.
+L'invio ripetuto di segnalazioni infondate comporterà la revoca dei privilegi di segnalazione per un massimo di 6 mesi. Quando si invia una segnalazione, accertarsi che vi sia un'effettiva violazione delle nostre politiche o della legge.
