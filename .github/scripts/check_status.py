@@ -31,6 +31,7 @@ def main():
             "count": 0,
             "last_update": "-" if date is None else date,
             "locales": [],
+            "link": f"https://github.com/mozilla/legal-docs/tree/main/{f}",
         }
 
     # Get the list of files in all locale folders

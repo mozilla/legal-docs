@@ -21,7 +21,7 @@ def main():
             body_localized.append(
                 f"""
                 <tr>
-                    <td>{file_name}</td>
+                    <td><a href="{file_stats['link']}">{file_name}</a></td>
                     <td>{file_stats['last_update']}</td>
                     <td>{file_stats['count']}</td>
                     <td>{', '.join(file_stats['locales'])}</td>
@@ -31,7 +31,7 @@ def main():
             body_not_localized.append(
                 f"""
                 <tr>
-                    <td>{file_name}</td>
+                    <td><a href="{file_stats['link']}">{file_name}</a></td>
                     <td>{file_stats['last_update']}</td>
                 </tr>"""
             )
