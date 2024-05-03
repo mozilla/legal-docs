@@ -58,7 +58,9 @@ def main():
 
     source_filenames = [f.split(os.path.sep)[1] for f in source_files]
 
-    translated_files = [f for f in list(stats.keys()) if f in source_filenames]
+    translated_files = [
+        f for f in list(stats.keys()) if f in source_filenames and stats[f]["count"] > 0
+    ]
     translated_files.sort()
 
     output = []
@@ -69,8 +71,7 @@ def main():
             "List of translated files (number of locales between parentheses):"
         )
         for f in translated_files:
-            count = len(stats[f]["locales"])
-            output.append(f"* {f} ({count})")
+            output.append(f"* {f} ({stats[f]['count']})")
 
     only_en_files = list(set(source_filenames) - set(stats.keys()))
     only_en_files.sort()
