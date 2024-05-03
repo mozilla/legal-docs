@@ -44,6 +44,8 @@ jobs:
           python .github/scripts/check_status.py
           # Only keep source files that are relevant for translation
           python .github/scripts/cleanup_repository.py
+          # Generate HTML summary
+          python .github/scripts/generate_summary.py
 
           # Use temporary folder to store files from the default branch
           cd ..;mkdir temp_files
