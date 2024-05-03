@@ -22,6 +22,7 @@ def main():
                 f"""
                 <tr>
                     <td>{file_name}</td>
+                    <td>{file_stats['last_update']}</td>
                     <td>{file_stats['count']}</td>
                     <td>{', '.join(file_stats['locales'])}</td>
                 </tr>"""
@@ -31,6 +32,7 @@ def main():
                 f"""
                 <tr>
                     <td>{file_name}</td>
+                    <td>{file_stats['last_update']}</td>
                 </tr>"""
             )
 

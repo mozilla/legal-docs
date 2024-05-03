@@ -1,25 +1,9 @@
 #! /usr/bin/env python3
 
-from collections import defaultdict
 import argparse
 import os
-import re
-from functions import findAllFiles
-
-
-def extractUpdateDate(filename):
-    """Extract update date from file"""
-
-    date_pattern = re.compile(
-        r'.*{:\s?datetime="(?P<update>[0-9]{4}-[0-9]{2}-[0-9]{2})"\s?}.*'
-    )
-
-    with open(filename, "r") as fp:
-        for line in fp:
-            matches = date_pattern.match(line)
-            if matches:
-                dates = matches.groupdict()
-                return dates["update"]
+from collections import defaultdict
+from functions import extractUpdateDate, findAllFiles
 
 
 def main():

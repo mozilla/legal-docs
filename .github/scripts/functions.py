@@ -2,6 +2,22 @@
 
 from collections import defaultdict
 from pathlib import Path
+import re
+
+
+def extractUpdateDate(filename):
+    """Extract update date from file"""
+
+    date_pattern = re.compile(
+        r'.*{:\s?datetime="(?P<update>[0-9]{4}-[0-9]{2}-[0-9]{2})"\s?}.*'
+    )
+
+    with open(filename, "r") as fp:
+        for line in fp:
+            matches = date_pattern.match(line)
+            if matches:
+                dates = matches.groupdict()
+                return dates["update"]
 
 
 def findAllFiles(path):

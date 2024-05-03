@@ -2,6 +2,7 @@
 
 import os
 import json
+from functions import extractUpdateDate
 
 
 def main():
@@ -21,6 +22,17 @@ def main():
                 source_files.append(os.path.join(folder, doc))
     source_files.sort()
 
+    # Extract the date of last update
+    stats = {}
+    for f in source_files:
+        doc_name = f.split(os.path.sep)[1]
+        date = extractUpdateDate(f)
+        stats[doc_name] = {
+            "count": 0,
+            "last_update": "-" if date is None else date,
+            "locales": [],
+        }
+
     # Get the list of files in all locale folders
     translated_files = []
     for root, dirs, files in os.walk(root_path, followlinks=True):
@@ -35,14 +47,10 @@ def main():
                 filename = os.path.relpath(os.path.join(root, filename), root_path)
                 translated_files.append(filename)
 
-    stats = {}
     for translation in translated_files:
         locale, filename = translation.split(os.path.sep)
-        if filename not in stats:
-            stats[filename] = {"count": 1, "locales": [locale]}
-        else:
-            stats[filename]["count"] += 1
-            stats[filename]["locales"].append(locale)
+        stats[filename]["count"] += 1
+        stats[filename]["locales"].append(locale)
 
     for f, data in stats.items():
         data["locales"].sort()
