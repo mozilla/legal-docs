@@ -36,9 +36,7 @@ File a pull request that updates your locale's markdown file to match the `en` v
 
 Important: we won't be accepting brand new translations for existing documents, only fixes to existing ones.
 
-Useful links:
-* A summary of the localization status is [available here](https://github.com/mozilla/legal-docs/tree/l10n_reference#readme), with a list of localized and non localized documents.
-* A full breakdown, with the list of locales for each document, is available in JSON format [here](https://github.com/mozilla/legal-docs/blob/l10n_reference/.github/stats.json).
+A summary of the localization status is [available here]http://mozilla.github.io/legal-docs/), with a list of localized and non localized documents.
 
 ### Package.json
 
