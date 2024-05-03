@@ -1,6 +1,7 @@
 # Current Status
 
 List of translated files (number of locales between parentheses):
+
 * acceptable_use_policy.md (13)
 * amo_policies.md (13)
 * common_voice_privacy_notice.md (49)
@@ -32,6 +33,7 @@ List of translated files (number of locales between parentheses):
 * websites_tou.md (13)
 
 List of files not translated:
+
 * adtargeting_guidelines.md
 * better_web_privacy.md
 * facebook_privacy_info.md
