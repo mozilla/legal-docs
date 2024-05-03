@@ -69,6 +69,9 @@ def main():
         output.append("\nList of files not translated:")
         for f in only_en_files:
             output.append(f"* {f}")
+            stats[f] = {
+                "count": 0,
+            }
 
     missing_en_files = list(set(stats.keys()) - set(source_filenames))
     missing_en_files.sort()
