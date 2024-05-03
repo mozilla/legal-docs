@@ -1,6 +1,9 @@
 {
   "acceptable_use_policy.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/acceptable_use_policy.md",
     "locales": [
       "cs",
       "de",
@@ -18,10 +21,17 @@
     ]
   },
   "adtargeting_guidelines.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/adtargeting_guidelines.md",
+    "locales": []
   },
   "amo_policies.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "2024-03-18",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/amo_policies.md",
     "locales": [
       "cs",
       "de",
@@ -39,10 +49,17 @@
     ]
   },
   "better_web_privacy.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2020-03-24",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/better_web_privacy.md",
+    "locales": []
   },
   "common_voice_privacy_notice.md": {
     "count": 49,
+    "has_source": true,
+    "last_update": "2019-08-15",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_privacy_notice.md",
     "locales": [
       "ab",
       "ar",
@@ -97,6 +114,9 @@
   },
   "common_voice_terms.md": {
     "count": 49,
+    "has_source": true,
+    "last_update": "2018-11-30",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_terms.md",
     "locales": [
       "ab",
       "ar",
@@ -151,6 +171,9 @@
   },
   "content_moderation_practices.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "2024-04-29",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/content_moderation_practices.md",
     "locales": [
       "cs",
       "de",
@@ -168,10 +191,17 @@
     ]
   },
   "facebook_privacy_info.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/facebook_privacy_info.md",
+    "locales": []
   },
   "firefox_about_rights.md": {
     "count": 12,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_about_rights.md",
     "locales": [
       "de",
       "es-ES",
@@ -189,6 +219,9 @@
   },
   "firefox_cloud_services_tos.md": {
     "count": 12,
+    "has_source": true,
+    "last_update": "2023-11-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_cloud_services_tos.md",
     "locales": [
       "de",
       "es-ES",
@@ -205,10 +238,17 @@
     ]
   },
   "firefox_firetv_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2018-10-11",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_firetv_privacy_notice.md",
+    "locales": []
   },
   "firefox_monitor_terms_privacy.md": {
     "count": 18,
+    "has_source": true,
+    "last_update": "2018-09-25",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_monitor_terms_privacy.md",
     "locales": [
       "ar",
       "de",
@@ -231,10 +271,17 @@
     ]
   },
   "firefox_os_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2015-08-26",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_os_privacy_notice.md",
+    "locales": []
   },
   "firefox_privacy_notice.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "2024-04-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_privacy_notice.md",
     "locales": [
       "cs",
       "de",
@@ -252,19 +299,38 @@
     ]
   },
   "firefox_private_network_beta_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2020-07-07",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_private_network_beta_privacy_notice.md",
+    "locales": []
   },
   "firefox_private_network_tos.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2020-07-07",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_private_network_tos.md",
+    "locales": []
   },
   "firefox_reality_about_rights.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_reality_about_rights.md",
+    "locales": []
   },
   "firefox_reality_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2019-07-23",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_reality_privacy_notice.md",
+    "locales": []
   },
   "firefox_relay_privacy_notice.md": {
     "count": 6,
+    "has_source": true,
+    "last_update": "2022-03-10",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_relay_privacy_notice.md",
     "locales": [
       "de",
       "es-ES",
@@ -276,6 +342,9 @@
   },
   "firefox_relay_tos.md": {
     "count": 6,
+    "has_source": true,
+    "last_update": "2022-09-16",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_relay_tos.md",
     "locales": [
       "de",
       "es-ES",
@@ -287,6 +356,9 @@
   },
   "focus_privacy_notice.md": {
     "count": 18,
+    "has_source": true,
+    "last_update": "2021-10-14",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/focus_privacy_notice.md",
     "locales": [
       "ar",
       "de",
@@ -309,19 +381,38 @@
     ]
   },
   "formulaic_content_policies.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2024-03-20",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_content_policies.md",
+    "locales": []
   },
   "formulaic_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2024-03-08",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_privacy_notice.md",
+    "locales": []
   },
   "formulaic_report_violation.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2024-03-27",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_report_violation.md",
+    "locales": []
   },
   "formulaic_tos.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2024-03-08",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_tos.md",
+    "locales": []
   },
   "hubs_privacy_notice.md": {
     "count": 10,
+    "has_source": true,
+    "last_update": "2023-11-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/hubs_privacy_notice.md",
     "locales": [
       "de",
       "el",
@@ -337,6 +428,9 @@
   },
   "hubs_tos.md": {
     "count": 10,
+    "has_source": true,
+    "last_update": "2023-11-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/hubs_tos.md",
     "locales": [
       "de",
       "el",
@@ -352,6 +446,9 @@
   },
   "mdn_plus_privacy.md": {
     "count": 14,
+    "has_source": true,
+    "last_update": "2023-11-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mdn_plus_privacy.md",
     "locales": [
       "cs",
       "de",
@@ -371,6 +468,9 @@
   },
   "mdn_plus_terms.md": {
     "count": 14,
+    "has_source": true,
+    "last_update": "2023-11-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mdn_plus_terms.md",
     "locales": [
       "cs",
       "de",
@@ -390,6 +490,9 @@
   },
   "mozilla_accounts_privacy_notice.md": {
     "count": 12,
+    "has_source": true,
+    "last_update": "2024-04-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_accounts_privacy_notice.md",
     "locales": [
       "de",
       "es-ES",
@@ -406,16 +509,31 @@
     ]
   },
   "mozilla_hubs_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2021-08-04",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_hubs_privacy_notice.md",
+    "locales": []
   },
   "mozilla_hubs_tos.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2020-02-09",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_hubs_tos.md",
+    "locales": []
   },
   "mozilla_location_services_privacy_notice.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2021-02-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_location_services_privacy_notice.md",
+    "locales": []
   },
   "mozilla_privacy_policy.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "2020-09-09",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_privacy_policy.md",
     "locales": [
       "cs",
       "de",
@@ -434,6 +552,9 @@
   },
   "mozilla_vpn_privacy_notice.md": {
     "count": 6,
+    "has_source": true,
+    "last_update": "2021-10-20",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_vpn_privacy_notice.md",
     "locales": [
       "de",
       "es-ES",
@@ -445,6 +566,9 @@
   },
   "mozilla_vpn_tos.md": {
     "count": 6,
+    "has_source": true,
+    "last_update": "2021-12-23",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_vpn_tos.md",
     "locales": [
       "de",
       "es-ES",
@@ -456,12 +580,18 @@
   },
   "ossn_site_privacy_notice.md": {
     "count": 1,
+    "has_source": true,
+    "last_update": "2019-03-01",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/ossn_site_privacy_notice.md",
     "locales": [
       "es"
     ]
   },
   "pocket_privacy_policy.md": {
     "count": 12,
+    "has_source": true,
+    "last_update": "2024-04-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/pocket_privacy_policy.md",
     "locales": [
       "de",
       "es-ES",
@@ -479,6 +609,9 @@
   },
   "pocket_privacy_policy_eu.md": {
     "count": 6,
+    "has_source": true,
+    "last_update": "2024-04-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/pocket_privacy_policy_eu.md",
     "locales": [
       "de",
       "es-ES",
@@ -490,6 +623,9 @@
   },
   "pocket_tos.md": {
     "count": 12,
+    "has_source": true,
+    "last_update": "2024-02-15",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/pocket_tos.md",
     "locales": [
       "de",
       "es-ES",
@@ -506,10 +642,17 @@
     ]
   },
   "privacy_notice_summary.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2016-03-17",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/privacy_notice_summary.md",
+    "locales": []
   },
   "report_infringement.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/report_infringement.md",
     "locales": [
       "cs",
       "de",
@@ -528,6 +671,9 @@
   },
   "subscription_services_privacy_notice.md": {
     "count": 10,
+    "has_source": true,
+    "last_update": "2024-02-05",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/subscription_services_privacy_notice.md",
     "locales": [
       "cs",
       "de",
@@ -543,6 +689,9 @@
   },
   "subscription_services_tos.md": {
     "count": 10,
+    "has_source": true,
+    "last_update": "2024-02-05",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/subscription_services_tos.md",
     "locales": [
       "cs",
       "de",
@@ -557,13 +706,24 @@
     ]
   },
   "thunderbird_about_rights.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/thunderbird_about_rights.md",
+    "locales": []
   },
   "thunderbird_privacy_policy.md": {
-    "count": 0
+    "count": 0,
+    "has_source": true,
+    "last_update": "2024-03-21",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/thunderbird_privacy_policy.md",
+    "locales": []
   },
   "websites_privacy_notice.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "2024-04-03",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/websites_privacy_notice.md",
     "locales": [
       "cs",
       "de",
@@ -582,6 +742,9 @@
   },
   "websites_tou.md": {
     "count": 13,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/websites_tou.md",
     "locales": [
       "cs",
       "de",
