@@ -22,19 +22,20 @@ def main():
                 source_files.append(os.path.join(folder, doc))
     source_files.sort()
 
-    # Extract the date of last update
+    # Extract the last update date
     stats = {}
     for f in source_files:
         doc_name = f.split(os.path.sep)[1]
         date = extractUpdateDate(f)
         stats[doc_name] = {
             "count": 0,
+            "has_source": True,
             "last_update": "-" if date is None else date,
-            "locales": [],
             "link": f"https://github.com/mozilla/legal-docs/tree/main/{f}",
+            "locales": [],
         }
 
-    # Get the list of files in all locale folders
+    # Get the list of files in all locale folders.
     translated_files = []
     for root, dirs, files in os.walk(root_path, followlinks=True):
         # Ignore source folders
@@ -48,10 +49,20 @@ def main():
                 filename = os.path.relpath(os.path.join(root, filename), root_path)
                 translated_files.append(filename)
 
-    for translation in translated_files:
-        locale, filename = translation.split(os.path.sep)
-        stats[filename]["count"] += 1
-        stats[filename]["locales"].append(locale)
+    for translated_file in translated_files:
+        locale, filename = translated_file.split(os.path.sep)
+        if filename not in stats:
+            # This is a file without a matching source (English) file
+            stats[filename] = {
+                "count": 1,
+                "has_source": False,
+                "last_update": extractUpdateDate(translated_file),
+                "link": f"https://github.com/mozilla/legal-docs/tree/main/{translated_file}",
+                "locales": [locale],
+            }
+        else:
+            stats[filename]["count"] += 1
+            stats[filename]["locales"].append(locale)
 
     for f, data in stats.items():
         data["locales"].sort()
@@ -59,7 +70,9 @@ def main():
     source_filenames = [f.split(os.path.sep)[1] for f in source_files]
 
     translated_files = [
-        f for f in list(stats.keys()) if f in source_filenames and stats[f]["count"] > 0
+        f
+        for f in list(stats.keys())
+        if f in source_filenames and stats[f]["count"] > 0 and stats[f]["has_source"]
     ]
     translated_files.sort()
 
@@ -68,26 +81,31 @@ def main():
 
     if translated_files:
         output.append(
-            "List of translated files (number of locales between parentheses):"
+            "List of translated files (number of locales between parentheses):\n"
         )
         for f in translated_files:
             output.append(f"* {f} ({stats[f]['count']})")
 
-    only_en_files = list(set(source_filenames) - set(stats.keys()))
+    only_en_files = [
+        f
+        for f in list(stats.keys())
+        if f in source_filenames and stats[f]["count"] == 0 and stats[f]["has_source"]
+    ]
     only_en_files.sort()
     if only_en_files:
-        output.append("\nList of files not translated:")
+        output.append("\nList of files not translated:\n")
         for f in only_en_files:
             output.append(f"* {f}")
-            stats[f] = {
-                "count": 0,
-            }
 
-    missing_en_files = list(set(stats.keys()) - set(source_filenames))
+    missing_en_files = [
+        f
+        for f in list(stats.keys())
+        if stats[f]["count"] > 0 and not stats[f]["has_source"]
+    ]
     missing_en_files.sort()
     if missing_en_files:
         output.append(
-            "\n List of translated files not available in source folders (locale between parentheses):"
+            "\nList of translated files not available in source folders (locale between parentheses):\n"
         )
         for f in missing_en_files:
             locales = ", ".join(stats[f]["locales"])
