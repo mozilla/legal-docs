@@ -17,6 +17,9 @@
       "zh-CN"
     ]
   },
+  "adtargeting_guidelines.md": {
+    "count": 0
+  },
   "amo_policies.md": {
     "count": 13,
     "locales": [
@@ -34,6 +37,9 @@
       "ru",
       "zh-CN"
     ]
+  },
+  "better_web_privacy.md": {
+    "count": 0
   },
   "common_voice_privacy_notice.md": {
     "count": 49,
@@ -161,6 +167,9 @@
       "zh-CN"
     ]
   },
+  "facebook_privacy_info.md": {
+    "count": 0
+  },
   "firefox_about_rights.md": {
     "count": 12,
     "locales": [
@@ -195,6 +204,9 @@
       "zh-CN"
     ]
   },
+  "firefox_firetv_privacy_notice.md": {
+    "count": 0
+  },
   "firefox_monitor_terms_privacy.md": {
     "count": 18,
     "locales": [
@@ -218,6 +230,9 @@
       "zh-TW"
     ]
   },
+  "firefox_os_privacy_notice.md": {
+    "count": 0
+  },
   "firefox_privacy_notice.md": {
     "count": 13,
     "locales": [
@@ -235,6 +250,18 @@
       "ru",
       "zh-CN"
     ]
+  },
+  "firefox_private_network_beta_privacy_notice.md": {
+    "count": 0
+  },
+  "firefox_private_network_tos.md": {
+    "count": 0
+  },
+  "firefox_reality_about_rights.md": {
+    "count": 0
+  },
+  "firefox_reality_privacy_notice.md": {
+    "count": 0
   },
   "firefox_relay_privacy_notice.md": {
     "count": 6,
@@ -280,6 +307,18 @@
       "zh-CN",
       "zh-TW"
     ]
+  },
+  "formulaic_content_policies.md": {
+    "count": 0
+  },
+  "formulaic_privacy_notice.md": {
+    "count": 0
+  },
+  "formulaic_report_violation.md": {
+    "count": 0
+  },
+  "formulaic_tos.md": {
+    "count": 0
   },
   "hubs_privacy_notice.md": {
     "count": 10,
@@ -365,6 +404,15 @@
       "tr",
       "zh-CN"
     ]
+  },
+  "mozilla_hubs_privacy_notice.md": {
+    "count": 0
+  },
+  "mozilla_hubs_tos.md": {
+    "count": 0
+  },
+  "mozilla_location_services_privacy_notice.md": {
+    "count": 0
   },
   "mozilla_privacy_policy.md": {
     "count": 13,
@@ -457,6 +505,9 @@
       "zh-TW"
     ]
   },
+  "privacy_notice_summary.md": {
+    "count": 0
+  },
   "report_infringement.md": {
     "count": 13,
     "locales": [
@@ -504,6 +555,12 @@
       "pl",
       "ro"
     ]
+  },
+  "thunderbird_about_rights.md": {
+    "count": 0
+  },
+  "thunderbird_privacy_policy.md": {
+    "count": 0
   },
   "websites_privacy_notice.md": {
     "count": 13,
