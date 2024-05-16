@@ -1,7 +1,7 @@
 ## Privacykennisgeving</span> voor <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">
 
-*Van kracht vanaf 3 april 2024
-{: datetime="2024-04-03" }
+*Van kracht vanaf 13 mei 2024
+{: datetime="2024-05-13" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet.
 
@@ -20,9 +20,9 @@ In deze Privacykennisgeving leggen we uit welke gegevens Firefox deelt en wijzen
 Lees de telemetriedocumentatie voor [desktops](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) of [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Ontdek hoe u zich kunt uitschrijven voor gegevensverzameling op [desktops](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) en hoe u zich kunt uitschrijven voor [onderzoeken](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Zoekfunctionaliteit bieden {: #defaultsearch }
+### Zoekfunctionaliteit bieden en verbeteren {: #defaultsearch }
 
-U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoeren, waaronder op de balk Awesome, de zoekbalk of op een nieuw tabblad. Wij ontvangen geen gegevens over uw zoekgedrag in Firefox en het aantal zoekopdrachten dat u aanvraagt bij onze zoekpartners. 
+U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoeren, waaronder op de balk Awesome, de zoekbalk of op een nieuw tabblad. Wij ontvangen gegevens over uw zoekgedrag in Firefox, het aantal zoekopdrachten dat u aanvraagt bij onze zoekpartners en wanneer u op een advertentie reageert (maar niet welke advertentie). Aanvullend: 
 
 * __Locatiegegevens__: Wanneer u Firefox voor het eerst gebruikt, wordt uw IP-adres op basis van uw land gebruikt voor het instellen van uw standaardzoekprovider. [Meer informatie](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ U kunt op verschillende plaatsen in Firefox rechtstreeks zoekopdrachten uitvoere
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla ontvangt over het algemeen royaltybetalingen wanneer u de standaard zoekopties of de optionele zoekopties gebruikt in de Firefox-webbrowser, waaronder, maar niet beperkt tot, Bing, DuckDuckGo, and eBay. 
+
+* __Zoekcategorieën__: In de Verenigde Staten verzendt Firefox de categorieën op hoog niveau waarnaar u zoekt (zoals sporten, reizen, voedsel, etc.), maar niet de daadwerkelijke zoektermen, tenzij u er specifiek mee instemt om ons die informatie te sturen. Wanneer dit het geval is, wordt de zoekcategorie niet gedeeld met onze partners. Mozilla is niet in staat om de zoekcategorie te koppelen aan een specifieke afzonderlijke gebruiker als de zoekresultaten eenmaal zijn verzorgd. U kunt zich op elk gewenst moment uitschrijven voor de verzameling van zoekcategoriegegevens. [Meer informatie](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ gebruikt gegevens om betere informatie te verzorgen via een geringere inspanning. Standaard toont Firefox Suggest u aanbevolen en gesponsorde inhoud op basis van lokale gegevens die op uw eigen computer zijn opgeslagen, zoals websites uit uw browsegeschiedenis, bladwijzers en geopende tabbladen (deze gegevens worden niet naar Mozilla verzonden). Firefox Suggest verzendt het volgende naar Mozilla:
 

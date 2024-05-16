@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Zasady prywatności</span> <span class="privacy-header-policy"> przeglądarki Firefox</span>
 
-*Data wejścia w życie: 3 kwietnia 2024 r.
-{: datetime="2024-04-03" }
+*Data wejścia w życie: 13 maja 2024 r.
+{: datetime="2024-05-13" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu.
 
@@ -20,9 +20,9 @@ W niniejszych Zasadach prywatności wyjaśniamy, jakie dane udostępnia Firefox,
 Przeczytaj dokumentację telemetrii dla [komputerów](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systemu [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) lub systemu [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Dowiedz się, jak zrezygnować z gromadzenia danych na [komputerach](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) i [urządzeniach mobilnych](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) lub jak zrezygnować z [badań](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Zapewnianie funkcji wyszukiwania {: #defaultsearch }
+### Zapewnienie i ulepszenie funkcji wyszukiwania {: #defaultsearch }
 
-Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich jak inteligentny pasek adresu, pasek wyszukiwania lub nowa karta. Otrzymujemy dane o sposobie korzystania przez użytkownika z wyszukiwania w Firefoksie oraz o liczbie żądań wyszukiwania użytkownika u naszych partnerów w zakresie usług wyszukiwania. 
+Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich jak inteligentny pasek adresu, pasek wyszukiwania lub nowa karta. Otrzymujemy dane o sposobie korzystania przez użytkownika z wyszukiwania w Firefoksie oraz o liczbie żądań wyszukiwania użytkownika u naszych partnerów w zakresie usług wyszukiwania, a także o tym, kiedy użytkownik korzysta z reklam (ale nie z których reklam). Dodatkowo: 
 
 * __Dane lokalizacji__: Przy pierwszym użyciu Firefox używa adresu IP w celu ustawienia domyślnego dostawcy usług wyszukiwania na podstawie kraju użytkownika. [Więcej informacji](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ Wyszukiwanie można wykonywać w wieku miejscach przeglądarki Firefox, takich j
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla zasadniczo otrzymuje wynagrodzenie, gdy użytkownik korzysta z jednej z domyślnych lub opcjonalnych opcji wyszukiwania w przeglądarce internetowej Firefox, w tym między innymi Google, Bing, DuckDuckGo oraz eBay. 
+
+* __Kategorie wyszukiwania__: W Stanach Zjednoczonych Firefox wysyła do firmy Mozilla ogólne kategorie wyszukiwanych rzeczy (np. sport, podróże, jedzenie itp.), ale nie rzeczywiste wyszukiwane hasła, chyba że użytkownik wyraźnie zgodzi się na przesyłanie nam takich informacji. W takim przypadku kategoria wyszukiwania nie jest udostępniana naszym partnerom, a Mozilla nie jest w stanie powiązać kategorii wyszukiwania z konkretnym użytkownikiem po wyświetleniu wyników wyszukiwania. Użytkownik może w dowolnym momencie zrezygnować z gromadzenia danych kategorii wyszukiwania. [Więcej informacji](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 Funkcja __Podpowiedzi Firefoksa__ wykorzystuje dane do dostarczania lepszych informacji przy mniejszym wysiłku. Domyślnie funkcja Podpowiedzi Firefoksa przedstawia użytkownikowi rekomendowane i sponsorowane treści w oparciu o lokalne dane przechowywane na komputerze użytkownika, takie jak witryny z historii przeglądania, zakładki i otwarte karty (które nie są wysyłane do Mozilli). Funkcja Podpowiedzi Firefoksa wysyła następujące dane do Mozilli:
 
