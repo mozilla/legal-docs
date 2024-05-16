@@ -20,7 +20,7 @@ Dans cette Politique de confidentialité, nous expliquons les données que parta
 Lisez la documentation relative à la télémétrie pour [les ordinateurs de bureau,](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [les appareils Android](https://dictionary.telemetry.mozilla.org/apps/fenix) ou [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Apprenez à annuler la collecte de données sur les [ordinateurs de bureau](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) et les [appareils mobiles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), ou annuler les [études](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Fournir et améliorer la fonctionnalité de recherche{: #defaultsearch }
+### Fournir et améliorer la fonctionnalité de recherche {: #defaultsearch }
 
 Vous pouvez effectuer des recherches directement de plusieurs endroits dans Firefox, notamment depuis la barre d’adresse intelligente, la barre de recherche ou un nouvel onglet. Nous recevons des données sur la façon dont vous effectuez des recherches dans Firefox et sur le nombre de recherches que vous soumettez à nos partenaires de recherche, ainsi que lorsque vous réagissez à une publicité (sans la nommer). De plus : 
 
