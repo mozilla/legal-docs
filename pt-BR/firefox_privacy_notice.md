@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Aviso</span> <span class="privacy-header-policy">de Privacidade</span>do Firefox
 
-*Data de vigência: quarta-feira, 3 de abril de 2024
-{: datetime="2024-04-03" }
+*Data de vigência: 13 de maio de 2024
+{: datetime="2024-05-13" }
 
 ## Na Mozilla, acreditamos que a privacidade seja fundamental para uma internet segura.
 
@@ -20,9 +20,9 @@ Neste Aviso de privacidade, explicamos quais dados o Firefox compartilha e como 
 Consulte a documentação de telemetria para [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) e para aparelhos [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) e [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Saiba como cancelar essa coleta de dados no [computador](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e em [aparelhos móveis](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) ou cancelar a realização de [estudos](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Fornecer funcionalidades de pesquisa {: #defaultsearch }
+### Fornecer funcionalidades de pesquisa e aprimorá-las {: #defaultsearch }
 
-Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive na Barra de endereços inteligente, no Campo de pesquisa ou em uma nova guia. Recebemos dados da sua interação de pesquisa no Firefox e do número de pesquisas realizadas dos nossos parceiros de busca. 
+Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive na Barra de endereços inteligente, no Campo de pesquisa ou em uma nova guia. Recebemos dados da sua interação de pesquisa no Firefox e do número de pesquisas realizadas dos nossos parceiros de busca e quando você interage com anúncios (mas não com quais anúncios). Adicionalmente: 
 
 * __Dados de localização:__ quando você usa o Firefox pela primeira vez, ele usa seu endereço IP para definir o provedor padrão de pesquisa com base no seu país. [Saiba mais.](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)
 
@@ -32,6 +32,8 @@ Você pode fazer pesquisas diretamente de vários lugares no Firefox, inclusive 
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 A Mozilla normalmente recebe royalties quando você usa uma das opções de pesquisa padrão ou opcionais no navegador Firefox, incluindo Google, Bing, DuckDuckGo e eBay. 
+
+* __Categorias de pesquisa__: Nos EUA, o Firefox envia à Mozilla as categorias gerais de suas pesquisas (como esportes, viagem, alimentação, etc.), mas não os termos específicos, a menos que você concorde especificamente em nos enviar essas informações. As categorias de pesquisa não são compartilhadas com nossos parceiros, e a Mozilla não consegue associá-las a usuários após exibir os resultados de pesquisa. Você pode cancelar a coleta de dados de categorias de pesquisa a qualquer momento. [Saiba mais](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 O __Firefox Suggest__ usa dados para ajudar você a encontrar informações melhores com menos esforço. Por padrão, o Firefox Suggest mostra conteúdo recomendado e patrocinado com base em dados locais armazenados no computador, como sites do histórico de navegação, favoritos e abas abertas (essas informações não são enviadas para a Mozilla). O Firefox Suggest envia para a Mozilla:
 

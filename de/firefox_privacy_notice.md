@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Datenschutzhinweis</span>
 
-*Gültig ab Mittwoch, 3. April 2024
-{: datetime="2024-04-03" }
+*Gültig ab Montag, 13. Mai 2024
+{: datetime="2024-05-13" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -20,9 +20,9 @@ In diesem Datenschutzhinweis erläutern wir, welche Daten Firefox teilt, und ver
 Lesen Sie die Telemetriedokumentation für [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) oder [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Erfahren, Sie, wie Sie diese Datenerfassung für [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) und [Mobil](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) oder die Teilnahme an [Studien](https://support.mozilla.org/kb/shield) per Opt-out einstellen können.
 {: #telemetry }
 
-### Bereitstellung von Suchfunktionen {: #defaultsearch }
+### Suchfunktionalität bereitstellen und optimieren: {: #defaultsearch }
 
-Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab. Wir erhalten Daten dazu, wie Sie mit der Suche in Firefox interagieren und wie viele Suchanfragen Sie an unsere Suchpartnern gesendet haben. 
+Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunter die Adressleiste, die Suchleiste oder auf einem neuen Tab. Wir erhalten Daten dazu, wie Sie mit der Suche in Firefox interagieren, wie viele Suchanfragen Sie an unsere Suchpartner gesendet haben und ob Sie mit Werbung interagiert haben (aber nicht mit welcher Werbung). Des Weiteren: 
 
 * __Standortdaten__: Wenn Sie Firefox zum ersten Mal verwenden, legt das Programm anhand Ihrer IP-Adresse und Ihres Landes einen Standardsuchanbieter fest. [Weitere Informationen](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ Sie können Suchen direkt von mehreren Stellen in Firefox aus ausführen, darunt
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla erhält in der Regel Tantiemen, wenn Sie eine der Standard- oder optionalen Suchoptionen im Firefox-Webbrowser nutzen, darunter Google, Bing, DuckDuckGo und eBay. 
+
+* __Suchkategorien__: In den USA sendet Firefox Mozilla die übergeordneten Kategorien der Objekte, nach denen Sie gesucht haben (Sport, Reisen, Speisen usw.). Die tatsächlichen Suchbegriffe werden uns nur dann gesendet, wenn Sie diesem explizit zugestimmt haben. In einem solchen Fall wird die Suchkategorie den Partnern nicht mitgeteilt und Mozilla ist auch nicht in der Lage, die Suchkategorie nach Bereitstellung der Suchergebnisse einem bestimmten Nutzer zuzuordnen. Sie können der Erfassung der Suchkategoriedaten jederzeit widersprechen. [Weitere Informationen](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ nutzt Daten, um bessere Informationen bei geringerem Aufwand bereitzustellen. Passend zu lokalen Daten, die auf Ihrem Computer gespeichert sind (z. B. Websites in Ihrem Browserverlauf, Lesezeichen und offene Tabs), zeigt Ihnen Firefox Suggest standardmäßig empfohlene und gesponserte Inhalte an (die nicht an Mozilla gesendet werden). Firefox Suggest sendet Folgendes an Mozilla:
 

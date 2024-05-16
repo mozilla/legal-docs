@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">隐私声明</span>
 
-*2024 年 4 月 3 日生效
-{: datetime="2024-04-03" }
+*2024 年 5 月 13 日生效
+{: datetime="2024-05-13" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -20,9 +20,9 @@
 阅读[桌面版本](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android 版本](https://dictionary.telemetry.mozilla.org/apps/fenix)或 [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 版本的遥测文档。了解如何选择退出[桌面](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)和[移动设备](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)上的此数据收集功能或选择退出[研究](https://support.mozilla.org/kb/shield)。
 {: #telemetry }
 
-### 提供搜索功能 {: #defaultsearch }
+### 提供并改进搜索功能 {: #defaultsearch }
 
-您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。我们会收到关于您如何在 Firefox 中进行搜索以及您向我们的搜索合作伙伴请求搜索的数量的有关数据。 
+您可以直接从 Firefox 中的多个位置执行搜索，包括 Awesome Bar、搜索栏或新标签页。我们会收到关于您如何在 Firefox 中进行搜索，您向我们的搜索合作伙伴请求搜索的数量，以及您何时与广告互动（但不会与哪些广告互动）的数据。还会收到关于以下内容的数据： 
 
 * __位置数据__：首次使用 Firefox 时，Firefox 会使用 IP 地址根据您所在的国家/地区设置默认搜索提供商。[了解更多](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
@@ -32,6 +32,8 @@
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 当您在 Firefox 网页浏览器（包括但不限于谷歌、必应、DuckDuckGo 和易趣）中使用默认或可选搜索选项时，Mozilla 通常会收取特许权使用费。 
+
+* __搜索类别__: 在美国，Firefox 会向 Mozilla 发送您搜索的高级类别内容（如运动、旅行、食物等），但不会发送您的实际搜索词，除非您特别同意向我们发送这些信息。如果发送这些信息，我们不会将搜索类别与合作伙伴共享，并且在提供搜索结果后，Mozilla 无法将搜索类别与单个用户相关联。您可以随时选择退出搜索类别数据收集。[了解更多信息](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)。  
 
 __Firefox Suggest__ 借助数据帮助用户以更少的精力获得更高质量的信息。默认情况下，Firefox Suggest 根据存储在您自己计算机上的本地数据显示推荐和推广的内容，例如浏览历史记录中的网站、书签和打开的选项卡（不发送给 Mozilla）。Firefox Suggest 确实会将如下数据发送给 Mozilla：
 
