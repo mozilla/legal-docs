@@ -1,7 +1,7 @@
 ## Informativa sulla privacy di <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"></span>
 
-*In vigore dal 3 aprile 2024
-{: datetime="2024-04-03" }
+*In vigore dal 13 maggio 2024
+{: datetime="2024-05-13" }
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet.
 
@@ -20,9 +20,9 @@ In questa Informativa sulla privacy, spieghiamo quali sono i dati che Firefox co
 È possibile consultare la documentazione relativa alla telemetria per [desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Sono disponibili ulteriori informazioni su come rifiutare tale raccolta di dati su [desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e [dispositivi mobili](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), o su come rifiutare di partecipare agli [studi](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Fornire funzionalità di ricerca {: #defaultsearch }
+### Disponibilità e miglioramento della funzionalità di ricerca {: #defaultsearch }
 
-Le ricerche in Firefox possono essere eseguite da diversi punti, come la barra degli indirizzi, la barra di ricerca e la pagina Nuova scheda. Riceviamo dati sulle interazioni dell'utente con la funzione di ricerca in Firefox e sul numero di ricerche effettuate tramite i nostri partner di ricerca. 
+Le ricerche in Firefox possono essere eseguite da diversi punti, come la barra degli indirizzi, la barra di ricerca e la pagina Nuova scheda. Riceviamo dati sulle interazioni dell'utente con la funzione di ricerca in Firefox e sul numero di ricerche effettuate tramite i nostri partner di ricerca, oltre che su quando l'utente si interessa a una pubblicità (ma non a quali pubblicità). Inoltre: 
 
 * __Dati sulla posizione__: al primo utilizzo di Firefox, l'indirizzo IP dell'utente viene usato per configurare il provider di servizi di ricerca predefinito in base al Paese. [Per saperne di più](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ Le ricerche in Firefox possono essere eseguite da diversi punti, come la barra d
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla riceve generalmente delle royalties quando l'utente utilizza una delle opzioni di ricerca predefinite o aggiuntive del browser Web Firefox, tra cui, a titolo esemplificativo, Google, Bing, DuckDuckGo ed eBay. 
+
+* __Categorie di ricerca__: Negli Stati Uniti, Firefox invia a Mozilla le categorie di ricerca di alto livello (ad esempio, sport, viaggi, cibo, ecc.), ma non i termini di ricerca effettivi, a meno che l'utente non accetti specificamente di inviare tali informazioni. In questo caso, la categoria di ricerca non viene condivisa con i nostri partner e Mozilla non è in grado di associare la categoria di ricerca a un singolo utente una volta che i risultati della ricerca sono stati presentati. È possibile rifiutare la raccolta dei dati delle categorie di ricerca in qualsiasi momento. [Per saperne di più](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ impiega i dati per fornire informazioni migliori con minor sforzo. Per impostazione predefinita, Firefox Suggest mostra contenuti consigliati e sponsorizzati basati su dati locali memorizzati nel computer dell'utente, come siti web presenti nella cronologia di navigazione, segnalibri e schede aperte (che non vengono inviati a Mozilla). Firefox Suggest non invia a Mozilla:
 

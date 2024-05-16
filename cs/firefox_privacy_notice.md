@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Prohlášení o ochraně osobních údajů</span> <span class="privacy-header-policy">Firefox</span>
 
-*Účinné od 3. dubna 2024
-{: datetime="2024-04-03" }
+*Účinné od 13. května 2024
+{: datetime="2024-05-13" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -20,9 +20,9 @@ V tomto Prohlášení o ochraně osobních údajů vysvětlujeme, jaké údaje F
 Seznamte se s dokumentací pro telemetrii pro [stopní počítače](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systém [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) nebo [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Zjistěte jak zrušit souhlas se shromažďováním těchto údajů na [stolním počítači](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) a [mobilním telefonu](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), nebo zrušit účast ve [studiích](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Poskytování funkce vyhledávání {: #defaultsearch }
+### Poskytování a vylepšování funkce vyhledávání {: #defaultsearch }
 
-Vyhledávání můžete provádět přímo z několika míst ve Firefoxu, včetně lišty Awesome Bar, vyhledávací lišty nebo na nové kartě. Získáváme data o tom, jak s vyhledáváním ve Firefoxu pracujete, stejně jako o počtech vyhledávání, které požadujete od našich partnerů pro vyhledávání. 
+Vyhledávání můžete provádět přímo z několika míst ve Firefoxu, včetně lišty Awesome Bar, vyhledávací lišty nebo na nové kartě. Získáváme data o tom, jak s vyhledáváním ve Firefoxu pracujete, stejně jako o počtech vyhledávání, která požadujete od našich partnerů pro vyhledávání, a také o vaší interakci s reklamou (ovšem bez konkrétních reklam). Navíc: 
 
 * __Údaje o poloze__: Když Firefox použijete poprvé, Firefox využívá vaši IP adresu pro navrhování relevantního obsahu podle vaší země. [Podrobnější informace](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ Vyhledávání můžete provádět přímo z několika míst ve Firefoxu, včetn
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Společnost Mozilla obvykle dostává licenční poplatky, pokud používáte výchozí nebo volitelné možnosti vyhledávání ve webovém prohlížeči Firefox, a to včetně například Google, Bing, DuckDuckGo a eBay. 
+
+* __Kategorie vyhledávání__: V USA odesílá Firefox společnosti Mozilla obecné kategorie vyhledávaných informaci (např. sport, cestování, jídlo atd.), ale ne vaše skutečné hledané výrazy, pokud k odesílání těchto informací nedáte výslovný souhlas. V takovém případě není kategorie vyhledávání sdílena s našimi partnery a společnost Mozilla není schopna přiřadit kategorii vyhledávání k jednotlivým uživatelům po zobrazení výsledků vyhledávání. Souhlas se shromažďováním údajů o kategorii vyhledávání můžete kdykoli odvolat. [Podrobnější informace](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ využívá data jako pomůcku pro poskytování lepších informací s menší námahou. Dle výchozího nastavení vám funkce Firefox Suggest zobrazuje doporučený nebo sponzorovaný obsah na základě místních dat uložených ve vašem vlastním počítači, jako jsou webové stránky z vaší historie procházení, záložky a otevřené karty (které nejsou odesílány společnosti Mozilla). Firefox Suggest neodesílá společnosti Mozilla:
 

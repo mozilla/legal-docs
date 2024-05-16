@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
 
-*Hatályos: 2024. április 3-tól
-{: datetime="2024-04-03" }
+*Hatályos: 2024. május 13-tól
+{: datetime="2024-05-13" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
 
@@ -20,9 +20,9 @@ Ebben az adatvédelmi tájékoztatóban elmagyarázzuk, hogy a Firefox milyen ad
 Olvassza el a telemetriai dokumentációt: [asztali számítógép](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Tudja meg, hogyan tilthatja le az ilyen jellegű adatgyűjtést [asztali számítógépen](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és [mobileszközön](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), illetve hogyan tilthatja le a [kutatásokat](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Keresési funkció biztosítása {: #defaultsearch }
+### Keresési funkciók biztosítása és fejlesztése {: #defaultsearch }
 
-A Firefoxban több helyről is végezhet keresést közvetlenül, például a csodálatos sávból, a keresősávból vagy egy új lapon. Adatokat kapunk arról, hogy Ön hogyan használja a Firefox keresőprogramot, valamint arról, hogy hány keresést kér a keresőpartnereinktől. 
+A Firefoxban több helyről is végezhet keresést közvetlenül, például a csodálatos sávból, a keresősávból vagy egy új lapon. Adatokat kapunk arról, hogy Ön hogyan használja a Firefox keresési funkcióit, és hány keresést kér a keresőpartnereinktől, valamint arról, hogy mikor lép kapcsolatba egy hirdetéssel (de arról nem, hogy mely hirdetésekkel). Emellett: 
 
 * __Helyadatok__: Amikor először használja a Firefoxot, az az IP-címét használja az alapértelmezett keresőszolgáltató beállításához az országa alapján. [További információk](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ A Firefoxban több helyről is végezhet keresést közvetlenül, például a cs
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 A Mozilla általában akkor kap jogdíjat, ha Ön a Firefox webböngészőjének valamelyik alapértelmezett vagy opcionális keresési lehetőségét használja, többek között a következőket: Google, Bing, DuckDuckGo vagy eBay. 
+
+* __Keresési kategóriák__: Az Egyesült Államokban a Firefox elküldi a Mozillának a keresések dolgok magas szintű kategóriáit (pl. sport, utazás, étel stb.), de nem a tényleges keresési kifejezéseket, hacsak Ön kifejezetten nem vállalja, hogy elküldi nekünk ezeket az információkat. Ebben az esetben a keresési kategóriát nem osztjuk meg a partnereinkkel, és a Mozilla nem tudja társítani a keresési kategóriát egy adott felhasználóhoz, miután a keresési eredmények megjelennek. A keresési kategória adatgyűjtését bármikor elutasíthatja. [További információk](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 A __Firefox Suggest__ adatokat használ fel, hogy jobb információkat biztosítson kevesebb erőfeszítéssel. Alapértelmezés szerint a Firefox Suggest a saját számítógépén tárolt helyi adatok, például a böngészési előzmények, könyvjelzők és megnyitott lapok webhelyei (amelyeket nem küld el a Mozilla) alapján ajánlott és szponzorált tartalmakat mutat Önnek. A Firefox Suggest a következőket küldi el a Mozillának:
 
