@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy"> のプライバシーに関する通知</span>
 
-*発効日 2024 年 4 月 3 日
-{: datetime="2024-04-03" }
+*有効日 2024 年 5 月 13 日
+{: datetime="2024-05-13" }
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。
 
@@ -20,9 +20,9 @@
 [デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) または [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 用の Telemetry に関するドキュメントをお読みください。このデータ収集を [デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) および [モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) でオプトアウトする方法、および [調査](https://support.mozilla.org/kb/shield) をオプトアウトする方法もご覧いただけます。
 {: #telemetry }
 
-### 検索機能の提供 {: #defaultsearch }
+### 検索機能の提供と改善 {: #defaultsearch }
 
-あなたは、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。Mozilla は、あなたが Firefox でどのように検索機能を操作するか、およびあなたが Mozilla の検索パートナーからリクエストする検索数に関するデータを受信します。 
+あなたは、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。Mozilla は、あなたが Firefox でどのように検索機能を操作するか、Mozilla の検索パートナーからリクエストする検索数、およびいつ広告を操作するか (どの広告かは含まれません) に関するデータを受信します。加えて、以下のデータも受信します。 
 
 * __位置データ__:Firefox の初回使用時には、あなたの国に基づいて検索プロバイダーを初期設定するために、あなたの IP アドレスが使用されます。[詳細はこちら](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)。
 
@@ -32,6 +32,8 @@
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla は通常、あなたが Firefox ウェブブラウザーで、Google、Bing、DuckDuckGo、および eBay を含むがこれらに限定されない初期設定またはオプションの検索方法のいずれかを使用した際にロイヤルティを受け取ります。 
+
+* __検索カテゴリー__: 米国の場合、Firefox は、あなたの検索内容の大まかなカテゴリー (スポーツ、旅行、食べ物など) を Mozilla に送信しますが、具体的な検索語句については、あなたがその情報を Mozilla に送信することに明確に同意した場合を除き、送信しません。Mozilla が検索カテゴリーを受信した場合、この情報が Mozilla のパートナーに共有されることはなく、Mozilla も、あなたに検索結果が表示された後は、検索カテゴリーを個別のユーザーに対応させることはできなくなります。あなたは、検索カテゴリーデータの収集をいつでも拒否することができます。[詳細はこちら](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)。  
 
 __Firefox Suggest__ は、より少ない労力でより質の高い情報をお届けできるようにデータを使用します。Firefox Suggest は初期設定で、あなたの閲覧履歴、ブックマーク、および開いているタブにあるウェブサイトなど、あなたのコンピューターに保存されているローカルデータ (これらのデータが Mozilla に送信されることはありません) に基づいて、おすすめのコンテンツやスポンサー付きのコンテンツを表示します。Firefox Suggest は以下のデータを Mozilla に送信します。
 

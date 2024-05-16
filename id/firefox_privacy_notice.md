@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Pemberitahuan Privasi</span>
 
-*Berlaku 03 April 2024
-{: datetime="2024-04-03" }
+*Berlaku 13 Mei 2024
+{: datetime="2024-05-13" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat.
 
@@ -20,9 +20,9 @@ Dalam Pemberitahuan Privasi ini, kami akan menjelaskan data apa saja yang dibagi
 Baca dokumentasi telemetri untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Pelajari cara menyisih dari pengumpulan data ini di [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) dan [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), atau menyisih dari [studi](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Menyediakan fungsionalitas pencarian {: #defaultsearch }
+### Menyediakan dan meningkatkan fungsi pencarian {: #defaultsearch }
 
-Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk Bilah URL, Bilah Pencarian, atau di Tab baru. Kami menerima data terkait cara Anda berinteraksi dengan pencarian di Firefox dan jumlah pencarian yang diminta dari mitra pencarian kami. 
+Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk Bilah URL, Bilah Pencarian, atau di Tab Baru. Kami menerima data tentang cara Anda berinteraksi dengan pencarian di Firefox dan jumlah pencarian yang diminta dari mitra pencarian kami, serta saat Anda berinteraksi dengan iklan (meskipun kami tidak menerima data spesifik iklan yang mana). Selain itu: 
 
 * __Data lokasi__: Jika Anda menggunakan Firefox pertama kali, data lokasi akan menggunakan alamat IP Anda untuk mengatur penyedia pencarian default berdasarkan negara Anda. [Pelajari selengkapnya](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ Anda bisa melakukan pencarian langsung dari beberapa tempat di Firefox, termasuk
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla umumnya menerima royalti saat Anda menggunakan salah satu opsi pencarian default atau opsional di browser web Firefox, termasuk namun tidak terbatas pada Google, Bing, DuckDuckGo, dan eBay. 
+
+* __Kategori pencarian__: Di AS, Firefox mengirimkan kepada Mozilla kategori level atas konten yang Anda cari (misalnya, olahraga, perjalanan, makanan, dll.) tetapi bukan istilah pencarian Anda yang sebenarnya, kecuali Anda secara spesifik setuju untuk mengirimkan informasi tersebut kepada kami. Jika ini terjadi, kategori pencarian tidak akan dibagikan kepada mitra kami dan Mozilla tidak bisa mengaitkan kategori pencarian tersebut dengan pengguna perorangan setelah hasil pencarian ditampilkan. Anda bisa menolak pengumpulan data kategori pencarian kapan saja. [Pelajari selengkapnya](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ menggunakan data untuk membantu memberikan informasi yang lebih baik dengan lebih sedikit usaha. Secara default, Firefox Suggest menampilkan konten yang direkomendasikan dan disponsori berdasarkan data lokal yang tersimpan di komputer Anda, seperti situs web dari riwayat penjelajahan, bookmark, dan tab yang terbuka (yang tidak dikirim ke Mozilla). Firefox Suggest dikirim ke Mozilla:
 
