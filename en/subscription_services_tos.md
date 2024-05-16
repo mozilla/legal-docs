@@ -123,7 +123,7 @@ __Mozilla’s Intellectual Property.__ Neither Mozilla nor its licensors grant y
 
 ### You Are Responsible For the Consequences of Your Use of the Service
 
-* You also agree that your use of the Services will comply with Mozilla’s Conditions of Use.
+* You also agree that your use of the Services will comply with [Mozilla’s Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/).
 * You assure Mozilla that you will not use the Services to infringe anyone’s rights or violate any law.
 * To the extent permitted by applicable law, you agree that Mozilla will not be liable in any way for any inability to use the Services, for any limitations of the service, or for any claim arising out of these terms. Mozilla specifically disclaims the following: Indirect, special, incidental, consequential, or exemplary damages, direct or indirect damages for loss of goodwill, work stoppage, lost profits, loss of data, or computer malfunction. Any liability for Mozilla under this agreement is limited to $500.
 * You agree to indemnify and hold Mozilla harmless for any liability or claim that results from your participation in the Services, to the extent permitted by applicable law.
