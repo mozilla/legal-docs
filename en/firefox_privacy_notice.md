@@ -1,7 +1,7 @@
 ## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span>
 
-*Effective April 3, 2024
-{: datetime="2024-04-03" }
+*Effective May 13, 2024
+{: datetime="2024-05-13" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet.
 
@@ -20,9 +20,9 @@ In this Privacy Notice, we explain what data Firefox shares and point you to set
 Read the telemetry documentation for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), or [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Learn how to opt out of this data collection on [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), or opt out of [studies](https://support.mozilla.org/kb/shield).
 {: #telemetry }
 
-### Provide search functionality {: #defaultsearch }
+### Provide and improve search functionality {: #defaultsearch }
 
-You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. 
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners, as well as when you engage with an ad (though not which ads). Additionally: 
 
 * __Location data__: When you first use Firefox, it uses your IP address to set your default search provider based on your country. [Learn more](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
 
@@ -32,6 +32,8 @@ You can perform searches directly from several places in Firefox, including the 
 * [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
 
 Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser, including but not limited to Google, Bing, DuckDuckGo, and eBay. 
+
+* __Search categories__: In the US, Firefox sends Mozilla the high-level categories of things you search for (e.g. sports, travel, food, etc.) but not your actual search terms, unless you specifically agree to send us that information. Where this occurs, the search category is not shared with our partners and Mozilla is not able to associate the search category with an individual user once the search results have been served. You can opt out of search category data collection at any time. [Learn more](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
 
 __Firefox Suggest__ uses data to help deliver better information with less effort. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs (which is not sent to Mozilla). Firefox Suggest does send to Mozilla:
 
