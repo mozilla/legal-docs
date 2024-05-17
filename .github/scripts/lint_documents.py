@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-from collections import defaultdict
+from collections import Counter, defaultdict
 from bs4 import BeautifulSoup
 from pathlib import Path
 import argparse
@@ -176,6 +176,19 @@ class DocumentCheck:
 
         return errors
 
+    def list_difference(self, l1, l2):
+        # Create list of elements that differ between the two lists,
+        # preserving duplicates and order.
+        count = Counter(l1)
+        count.subtract(l2)
+        diff = []
+        for e in l1:
+            if count[e] > 0:
+                count[e] -= 1
+                diff.append(e)
+
+        return diff
+
     def compareData(self, type, locale_data, reference_data, exception_id):
         errors = []
         if type == "links":
@@ -186,8 +199,10 @@ class DocumentCheck:
             ref_list = [e[0]["anchor"] for e in reference_data[type]]
 
         if l10n_list != ref_list:
-            missing = list(set(ref_list) - set(l10n_list))
-            additional = list(set(l10n_list) - set(ref_list))
+            # Cannot convert lists into set to find the differences,  because
+            # it will remove duplicates.
+            missing = self.list_difference(ref_list, l10n_list)
+            additional = self.list_difference(l10n_list, ref_list)
 
             differences = [f"-{e}" for e in missing] + [f"+{e}" for e in additional]
 
