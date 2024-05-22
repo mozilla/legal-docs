@@ -123,7 +123,7 @@ __Propiedad intelectual de Mozilla.__ Ni Mozilla ni sus licenciatarios le otorga
 
 ### Usted es responsable de las consecuencias del uso que haga de los Servicios
 
-* Además, acepta que su uso de los Servicios se regirá por las Condiciones de uso de Mozilla.
+* Además, usted acepta que su uso de los Servicios se regirá por la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla.
 * Usted asegura a Mozilla que no utilizará los Servicios para infringir los derechos de nadie ni violar ninguna ley.
 * En la medida en que lo permita la ley aplicable, usted acepta que Mozilla no será responsable de ninguna manera por la imposibilidad de utilizar los Servicios, por cualquier limitación de estos o por cualquier reclamación que resulte de estas Condiciones. Mozilla rechaza específicamente cualquier responsabilidad por lo siguiente: Daños indirectos, especiales, incidentales, consecuentes o ejemplares, daños directos o indirectos por pérdida de fondo de comercio, paralización del trabajo, pérdida de beneficios, pérdida de datos o mal funcionamiento del ordenador. Cualquier responsabilidad de Mozilla en virtud de este acuerdo está limitada a 500 $.
 * Usted acepta indemnizar y eximir a Mozilla de cualquier responsabilidad o reclamación que se derive de su participación en los Servicios, en la medida en que lo permita la legislación aplicable.

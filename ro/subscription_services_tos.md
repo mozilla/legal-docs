@@ -123,7 +123,7 @@ __Proprietatea intelectuală a Mozilla.__ Nici Mozilla și nici licențiatorii s
 
 ### Sunteți responsabil pentru consecințele modului în care utilizați Serviciul
 
-* De asemenea, sunteți de acord că modul în care utilizați Serviciile va fi conform cu Condițiile de utilizare Mozilla.
+* De asemenea, sunteți de acord să utilizați Serviciile în conformitate cu [Politica de utilizare acceptabilă](https://www.mozilla.org/about/legal/acceptable-use/) a Mozilla.
 * Furnizați Mozilla toate asigurările necesare că nu veți utiliza Serviciile pentru a încălca drepturile altei persoane sau orice lege.
 * În măsura permisă de legea aplicabilă, sunteți de acord că Mozilla nu va fi considerată răspunzătoare în niciun fel pentru orice imposibilitate de a utiliza Serviciile, pentru orice limitare a Serviciilor sau pentru orice solicitare rezultată din acești termeni. În mod explicit, Mozilla declină următoarele: daune indirecte, speciale, accidentale, indirecte sau punitive, daune directe sau indirecte rezultate din deprecierea activelor, întreruperea activității, pierderi de profit, pierderi de date sau defecțiuni ale calculatorului. Orice răspundere a Mozilla în cadrul acestui acord este limitată la suma de 500 USD.
 * Sunteți de acord să despăgubiți și să exonerați Mozilla de orice răspundere sau reclamație care rezultă din participarea dumneavoastră la Servicii, în măsura permisă de legea aplicabilă.

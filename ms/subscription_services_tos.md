@@ -123,7 +123,7 @@ __Hak Milik Intelek Mozilla.__ Mozilla mahupun pemberi lesennya tidak memberikan
 
 ### Anda Bertanggungjawab Terhadap Akibat daripada Penggunaan Perkhidmatan oleh Anda
 
-* Anda juga bersetuju bahawa penggunaan Perkhidmatan oleh anda akan mematuhi Syarat Penggunaan Mozilla.
+* Dengan menggunakan Perkhidmatan, anda juga bersetuju bahawa anda akan mematuhi [Dasar Penggunaan Boleh Diterima](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla.
 * Anda memberi jaminan kepada Mozilla bahawa anda tidak akan menggunakan Perkhidmatan untuk melanggar hak sesiapa atau melanggar sebarang undang-undang.
 * Setakat yang dibenarkan oleh undang-undang berkenaan, anda bersetuju bahawa Mozilla tidak akan bertanggungjawab dalam apa jua cara untuk sebarang ketidakupayaan dalam menggunakan Perkhidmatan, untuk sebarang batasan dalam perkhidmatan dan sebarang tuntutan yang timbul daripada terma-terma ini. Mozilla secara khusus menafikan yang berikut: Kerosakan tidak langsung, khas, sampingan, akibat, atau teladan, kerosakan langsung atau tidak langsung disebabkan kehilangan muhibah, penghentian kerja, kehilangan keuntungan, kehilangan data atau kerosakan komputer. Sebarang liabiliti untuk Mozilla di bawah perjanjian ini adalah terhad kepada $500.
 * Anda bersetuju untuk menanggung rugi dan memastikan Mozilla tidak menerima mudarat atas sebarang liabiliti atau tuntutan yang terhasil daripada penyertaan anda dalam Perkhidmatan, setakat yang dibenarkan oleh undang-undang berkenaan.
