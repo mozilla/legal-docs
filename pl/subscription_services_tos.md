@@ -123,7 +123,7 @@ __Własność intelektualna firmy Mozilla.__ Ani firma Mozilla, ani jej licencjo
 
 ### Użytkownik ponosi odpowiedzialność za konsekwencje korzystania z Usługi
 
-* Użytkownik zgadza się również, że korzystanie z Usług będzie zgodne z Warunkami korzystania firmy Mozilla.
+* Użytkownik zgadza się również używać Usług zgodnie z [Warunkami korzystania](https://www.mozilla.org/about/legal/acceptable-use/) firmy Mozilla.
 * Użytkownik zapewnia firmę Mozilla, że nie będzie korzystał z Usług w celu naruszania czyichkolwiek praw lub łamania jakichkolwiek przepisów prawa.
 * W zakresie dozwolonym przez obowiązujące prawo, użytkownik zgadza się, że Mozilla nie będzie w żaden sposób odpowiedzialna za niemożność korzystania z Usług, jakiekolwiek ograniczenia Usług ani za jakiekolwiek roszczenia wynikające z niniejszych warunków. Mozilla w szczególności zrzeka się odpowiedzialności za: pośrednie, specjalne, przypadkowe, wtórne lub przykładowe, bezpośrednie lub pośrednie szkody związane z utratą wartości firmy, przestojem w pracy, utratą zysków, utratą danych lub nieprawidłowym działaniem komputera. Jakakolwiek odpowiedzialność firmy Mozilla wynikająca z niniejszej umowy jest ograniczona do 500 dolarów.
 * W zakresie dozwolonym przez obowiązujące prawo, użytkownik zgadza się zwolnić firmę Mozilla z wszelkiej odpowiedzialności lub roszczeń, które wynikają z jego udziału w Usługach.
