@@ -123,7 +123,7 @@ __A Mozilla szellemi tulajdona.__ A jelen Feltételek szerint meghatározottakon
 
 ### Ön felelős a Szolgáltatás használatának következményeiért
 
-* Ön beleegyezik abba is, hogy a Szolgáltatások használata megfelel a Mozilla felhasználási feltételeinek.
+* Ön beleegyezik abba is, hogy a Szolgáltatások használata megfelel a Mozilla [elfogadható használatra vonatkozó szabályzatának](https://www.mozilla.org/about/legal/acceptable-use/).
 * Biztosítja a Mozillát, hogy nem használja a Szolgáltatásokat mások jogainak vagy a jogszabályok megsértésére.
 * A vonatkozó jogszabályok által megengedett mértékig Ön elfogadja, hogy a Mozilla semmilyen módon nem vállal felelősséget a Szolgáltatások használatának elérhetetlenségért, a Szolgáltatások korlátozásáért vagy a jelen Feltételekből eredő bármely követelésért. A Mozilla kifejezetten elzárkózik a következőktől: Közvetett, különleges, véletlen, következményes vagy példaértékű károk, közvetlen vagy közvetett károk cégértékcsökkenés, munkabeszüntetés, elmaradt haszon, adatvesztés vagy számítógép-meghibásodás miatt. A Mozilla felelőssége a jelen megállapodás értelmében 500 USD-re korlátozódik.
 * Ön beleegyezik abba, hogy a vonatkozó jogszabályok által megengedett mértékig kártalanítja és mentesíti a Mozillát minden olyan felelősségért vagy követelésért, amely a Szolgáltatások használatából ered.

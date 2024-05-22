@@ -123,7 +123,7 @@ __Geistiges Eigentum von Mozilla.__ Weder Mozilla noch seine Lizenzgeber erteile
 
 ### Sie sind für die Konsequenzen Ihrer Nutzung des Dienstes verantwortlich
 
-* Sie stimmen ferner zu, dass Ihre Nutzung der Dienste den Nutzungsbedingungen von Mozilla entsprechen wird.
+* Sie stimmen ferner zu, dass Ihre Nutzung der Dienste der [Nutzungsrichtlinie](https://www.mozilla.org/about/legal/acceptable-use/) von Mozilla entsprechen wird.
 * Sie versichern Mozilla, dass Sie die Dienste nicht verwenden werden, um Gesetze oder Rechte anderer zu verletzen.
 * Im gesetzlich zulässigen Umfang stimmen Sie zu, dass Mozilla in keiner Weise für die Nichtverwendbarkeit oder Einschränkungen der Dienste bzw. für einen Anspruch, der durch diese Bedingungen entsteht, haftet. Mozilla schließt Folgendes ausschließlich aus: Indirekte, besondere, beiläufige, exemplarische oder Folgeschäden, direkte oder indirekte Schäden durch Schmälerung des immateriellen Firmenwerts, Betriebsunterbrechung, Entgangenen Gewinn, Datenverlust oder Computerfehlfunktionen. Jegliche Haftung durch Mozilla im Rahmen dieser Vereinbarung ist auf US$ 500 beschränkt.
 * Sie stimmen zu, Mozilla von bzw. vor jeglicher Haftung oder Ansprüchen, die durch Ihre Teilnahme an den Diensten entstehen, im gesetzlich zulässigen Umfang schadlos zu halten und freizustellen.

@@ -123,7 +123,7 @@ __Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatel�
 
 ### Nesete odpovědnost za důsledky vašeho využívání služeb
 
-* Rovněž souhlasíte, že vaše využívání služeb bude v souladu s Podmínkami používání společnosti Mozilla.
+* Rovněž souhlasíte, že vaše využívání Služeb bude v souladu se [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla.
 * Společnosti Mozilla poskytujete ujištění, že služby nebudete využívat v rozporu s právem jakýchkoliv osob nebo v rozporu s jakýmikoliv právními předpisy.
 * V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání služeb, za jakákoliv omezení služeb ani za případné nároky vyplývající z těchto podmínek. Společnost Mozilla výslovně vylučuje následující: Nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, přerušení prací, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena maximální výši 500 USD.
 * Souhlasíte s tím, že společnost Mozilla odškodníte a budete bránit před veškerými závazky nebo nároky vyplývajícími z vaší účasti na službách, a to v rozsahu přípustném platnými právními předpisy.

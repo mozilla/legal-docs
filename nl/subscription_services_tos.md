@@ -123,7 +123,7 @@ __Intellectueel eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla
 
 ### U bent aansprakelijk voor de gevolgen van uw gebruik van de Service
 
-* U stemt er daarnaast mee in dat uw gebruik van de Services zal voldoen aan de Gebruiksvoorwaarden van Mozilla.
+* U stemt er daarnaast mee in dat uw gebruik van de Services zal voldoen aan het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla.
 * U garandeert Mozilla dat u de Services niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
 * Voor zover is toegestaan onder de toepasselijke wetgeving, stemt u ermee in dat Mozilla niet aansprakelijk is voor uw onmogelijkheid om de Services te gebruiken, voor eventuele beperkingen van de service of voor welke claim dan ook die voortvloeit uit deze voorwaarden. Mozilla wijst het volgende nadrukkelijk van de hand: Indirecte schade, speciale schade, incidentele schade, gevolgschade of morele schade en directe of indirecte schade als gevolg van het verlies van goodwill, werkstopzetting, winstderving, het verlies van gegevens of computerstoring. Elke aansprakelijkheid voor Mozilla uit hoofde van deze overeenkomst is beperkt tot $500.
 * U stemt ermee in om Mozilla te vrijwaren en schadeloos te stellen met betrekking tot welke aansprakelijkheid of claim dan ook voortvloeiend uit uw deelname aan de Services, voor zover dat is toegestaan onder de plaatselijke wetgeving.
