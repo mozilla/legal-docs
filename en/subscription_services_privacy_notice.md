@@ -1,7 +1,7 @@
 # Mozilla Subscription Services | Privacy Notice
 
-Version 1.2, Effective February 5, 2024
-{: datetime="2024-02-05" }
+Version 1.2, Effective May 31, 2024
+{: datetime="2024-05-31" }
 
 ## At Mozilla, we design products with your privacy in mind.
 
@@ -43,7 +43,9 @@ __Interaction data.__ Mozilla receives data about your interactions with the ser
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozilla Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription.
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users on account cancellation. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).   
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users on account cancellation. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor uses Google Analytics to obtain metrics on how users engage with our websites. This helps us to improve site content. For more information about how Google uses your personal information, please visit [Google Analytics’ Privacy & Security](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). You can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) to prevent data collection about your visits to the Service and prohibit data transmission to Google Analytics.
  
 ### Firefox Relay {: #relay }
 
