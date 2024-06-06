@@ -16,7 +16,7 @@ Não é permitido o uso de qualquer serviço da Mozilla para:
 * Violar qualquer direito autoral, marca registrada, patente ou outros direitos de propriedade intelectual de terceiros.
 * Violar os direitos de privacidade ou publicidade de qualquer pessoa.
 
-Você não pode usar os serviços da Mozilla de forma que viole os Termos de Uso, as Condições de Uso ou qualquer licença que se aplique a um serviço específico. Você também não pode vender, revender ou duplicar produtos ou serviços da Mozilla sem a permissão por escrito dela.
+Não é permitido usar o serviço da Mozilla de forma que viole esta Política de uso aceitável ou quaisquer outros termos vinculantes, incluindo licenças ou termos de serviço, que possam se aplicar a ele. Você também não pode vender, revender ou duplicar produtos ou serviços da Mozilla sem a permissão por escrito dela.
 
 Esses são apenas alguns exemplos. Essa não é uma lista completa. Podemos atualizá-la ocasionalmente. A Mozilla reserva-se o direito de remover qualquer conteúdo ou suspender qualquer usuário que, de acordo com seu entendimento, violar essas condições.
 

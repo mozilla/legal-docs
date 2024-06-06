@@ -1,7 +1,7 @@
 # Mozilla előfizetéses szolgáltatások | Adatvédelmi nyilatkozat
 
-1.2-es verzió, hatálybalépés dátuma: 2024. február 5.
-{: datetime="2024-02-05" }
+1.2-es verzió, hatálybalépés dátuma: 2024. május 31.
+{: datetime="2024-05-31" }
 
 ## A Mozillánál az Ön személyes adatainak védelmét szem előtt tartva tervezzük a termékeket.
 
@@ -44,7 +44,9 @@ __Interakciós adatok.__ A Mozilla adatokat kap a szolgáltatásokkal való inte
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) A Mozilla Monitor az AWS-t használja, hogy e-maileket tudjon küldeni Önnek a Mozilla Monitor szolgáltatással kapcsolatban, amelyek teljes jelentéseket, szabálysértési figyelmeztetéseket és biztonsági tanácsokat tartalmaznak. Ezek az adatok törlésre kerülnek, amikor befejezi a Monitor előfizetést. 
 
 * [Formstack.](https://www.formstack.com/) A Mozilla Monitor a Formstack segítségével rögzíti a felhasználók által a fiókok törlésével kapcsolatos visszajelzéseket. A Formstack adatvédelmi gyakorlatával kapcsolatos információkért lásd a [Formstack adatvédelmi szabályzatát](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) A Mozilla Monitor a Google Analytics segítségeket kap mérőszámokat arról, hogyan használják a felhasználók a webhelyeinket. Ez segít nekünk a webhelyek tartalmának fejlesztésében. Ha többet szeretne megtudni arról, hogy a Google hogyan használja az Ön személyes adatait, olvassa el a [Google Analytics Adatvédelem és biztonság](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) című részt. Telepítheti a [Google Analytics Opt-out böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), hogy megakadályozza az adatgyűjtést a Szolgáltatás látogatásairól, és megtiltsa az adattovábbítást a Google Analytics felé.
+ 
 ### Firefox Relay {: #relay }
 
 __Interakciós adatok.__ A Mozilla adatokat kap a Firefox Relay szolgáltatással végzett interakcióiról, például amikor be- és kijelentkezik, valamint az Ön által megadott beállításokról. Tudjon meg többet a [Relay interakciós adatokról](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); leiratkozhat az adatgyűjtésről, ha a böngészőjében bekapcsolja a [Követés letiltása (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) funkciót. 

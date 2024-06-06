@@ -1,7 +1,7 @@
 # Services d’abonnement Mozilla | Avis de confidentialité
 
-Version 1.2 - Date d’effet : lundi 5 février 2024
-{: datetime="2024-02-05" }
+Version 1.2 - Date d'effet : 31 mai 2024
+{: datetime="2024-05-31" }
 
 ## Chez Mozilla, nous concevons des produits respectant votre confidentialité.
 
@@ -44,7 +44,9 @@ __Données d’interaction.__ Mozilla reçoit des données relatives à vos inte
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor utilise AWS afin de vous envoyer des e-mails relatifs au service Mozilla Monitor, incluant des rapports complets, des alertes aux infractions et des conseils de sécurité. Ces données seront supprimées lorsque vous résiliez votre abonnement à Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor utilise Formstack pour capturer le feedback communiqué de manière facultative par les utilisateurs lors de l'annulation de leur compte. Pour en savoir plus sur les pratiques de confidentialité de Formstack, consultez la [Politique de confidentialité de Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor utilise Google Analytics pour obtenir des données sur la façon dont les utilisateurs interagissent avec nos sites Web. Cela nous aide à améliorer le contenu des sites. Pour en savoir plus sur la façon dont Google utilise vos informations personnelles, rendez-vous sur [Google Analytics - Confidentialité et sécurité](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Vous pouvez installer l'[extension de désactivation Google Analytics](https://tools.google.com/dlpage/gaoptout) pour empêcher toute collecte de données relatives à vos visites sur le Service et toute transmission de données vers Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Données d’interaction.__ Mozilla reçoit des données relatives à vos interactions avec Firefox Relay, par exemple lorsque vous vous connectez et déconnectez et les préférences que vous définissez. Plus d’informations sur les [Données d’interaction de Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). Vous pouvez annuler cette collecte en activant l’option [Ne pas me pister](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) (ou texte équivalent) dans votre navigateur. 

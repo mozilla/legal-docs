@@ -1,7 +1,7 @@
 # Servicios de suscripción de Mozilla | Aviso de privacidad
 
-Versión 1.2, en vigor desde el lunes, 05 de febrero de 2024
-{: datetime="2024-02-05" }
+Versión 1.2, en vigor el 31 de mayo de 2024
+{: datetime="2024-05-31" }
 
 ## En Mozilla, tenemos en cuenta su privacidad a la hora de diseñar un producto.
 
@@ -44,7 +44,9 @@ __Datos de interacción.__ Mozilla recibe datos sobre su interacción con los se
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor usa AWS para poderle mandar a usted correos electrónicos relativos al Servicio Mozilla Monitor, como, por ejemplo, Informes completos, Alertas de filtración y Consejos de seguridad. Estos datos serán borrados cuando usted se dé de baja de su suscripción a Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor usa Formstack para capturar la opinión proporcionada de forma opcional por los usuarios al cancelar la cuenta. Si quiere informaciones sobre las prácticas de privacidad de Formstack, vea la [Política de privacidad de Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor usa Google Analytics para obtener métricas sobre cómo interactúan los usuarios con nuestros sitios web. Esto nos ayuda a mejorar el contenido de un sitio web. Para saber más sobre cómo Google usa sus informaciones personales, visite [Privacidad y seguridad de Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Puede instalar el [complemento de inhabilitación de Google Analytics](https://tools.google.com/dlpage/gaoptout) para prevenir la recopilación de datos sobre sus visitas al Servicio y prohibir la transmisión de datos a Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Datos de interacción.__ Mozilla recibe sus datos sobre sus interacciones con Firefox Relay, por ejemplo, cuando inicia o cierra sesión y las preferencias que configura. Más información sobre [datos de interacción Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); usted puede desactivar la recopilación de datos de telemetría activando la función [No rastrear (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) en su navegador. 
