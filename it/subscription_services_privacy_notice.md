@@ -1,7 +1,7 @@
 # Servizi Mozilla in abbonamento | Informativa sulla privacy
 
-Versione 1.2, in vigore dal 5 febbraio 2024
-{: datetime="2024-02-05" }
+Versione 1.2, in vigore dal 31 maggio 2024
+{: datetime="2024-05-31" }
 
 ## Mozilla progetta i suoi prodotti dando priorità alla tua privacy.
 
@@ -44,7 +44,9 @@ __Dati relativi alle interazioni.__ Mozilla riceve dati sulle tue interazioni co
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor utilizza AWS per poterti inviare email in relazione al servizio Mozilla Monitor, che comprende rapporti completi, avvisi di violazione e suggerimenti per la sicurezza. Questi dati saranno cancellati nel momento in cui annulli l'abbonamento a Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor utilizza Formstack per acquisire il feedback fornito facoltativamente dagli utenti al momento della cancellazione dell'account. Per informazioni sulle pratiche di Formstack in materia di privacy, si rimanda all'[Informativa sulla privacy di Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor utilizza Google Analytics per ottenere dati sulle modalità di utilizzo dei nostri siti web da parte degli utenti. Questo ci aiuta a migliorare i contenuti dei siti. Per ulteriori informazioni sull'utilizzo dei dati personali da parte di Google, consultare la sezione [Privacy e sicurezza di Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). È possibile installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout) per impedire la raccolta dei dati relativi alle visite al Servizio e vietarne la trasmissione a Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Dati relativi alle interazioni.__ Mozilla riceve dati sulle tue interazioni con Firefox Relay, ad esempio quando effettui il login e il logout e le preferenze che hai impostato. Maggiori informazioni sui [dati relativi alle interazioni di Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); puoi disattivare la raccolta di questi dati attivando la funzione di [antitracciamento](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) nel tuo browser. 

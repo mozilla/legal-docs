@@ -16,7 +16,7 @@ Vous ne pouvez pas utiliser les services et produits de Mozilla dans les buts su
 * Porter atteinte aux droits d'auteur, marques de commerce ou droits de la propriété intellectuelle d'autres individus.
 * Porter atteinte aux droits à la vie privée de toute personne.
 
-Vous ne pouvez utiliser aucun des services de Mozilla d’une manière portant atteinte aux Conditions d’utilisation ou à la licence applicable(s) aux services concernés. En outre, vous ne pouvez pas vendre, revendre ni dupliquer tout produit ou service de Mozilla sans l’accord écrit de Mozilla.
+Vous ne pouvez pas utiliser les services de Mozilla d'une façon qui enfreigne cette Politique d'utilisation acceptable ou toute autre condition contraignante, notamment toute licence ou condition de service s'appliquant à ce service en particulier. En outre, vous ne pouvez pas vendre, revendre ni dupliquer tout produit ou service de Mozilla sans l’accord écrit de Mozilla.
 
 Il ne s’agit que d’exemples. Cette liste ne saurait être considérée comme exhaustive et pourra être modifiée de temps en temps. Mozilla se réserve le droit de retirer tout consentement ou de suspendre tout utilisateur que nous aurons considéré comme ayant enfreint les présentes conditions.
 

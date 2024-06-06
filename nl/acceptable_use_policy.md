@@ -16,7 +16,7 @@ Het is niet toegestaan om services van Mozilla te gebruiken voor het volgende:
 * Het schenden van auteursrechten, handelsmerken, patenten of andere intellectuele eigendomsrechten van anderen,
 * Het schenden van het recht van een persoon op privacy of publiciteit,
 
-U mag geen enkele Mozilla-service gebruiken op een wijze die inbreuk maakt op de gebruiksbepalingen, gebruiksvoorwaarden of licentie van een bepaalde service. U bent niet gerechtigd om welk Mozilla-product of welke Mozilla-service dan ook te verkopen, wederverkopen of dupliceren zonder schriftelijke toestemming van Mozilla.
+U mag geen enkele Mozilla-service gebruiken op een manier die in strijd is met dit Beleid voor aanvaardbaar gebruik of andere bindende voorwaarden, waaronder eventuele licenties of servicevoorwaarden die van toepassing zijn op de specifieke service. U bent niet gerechtigd om welk Mozilla-product of welke Mozilla-service dan ook te verkopen, wederverkopen of dupliceren zonder schriftelijke toestemming van Mozilla.
 
 Dit zijn slechts voorbeelden. Dit dient geenszins als een uitputtende lijst te worden beschouwd en we kunnen deze lijst van tijd tot tijd bijwerken. Mozilla behoudt zich het recht voor om inhoud te verwijderen of gebruikers te schorsen die het bedrijf in overtreding acht van deze voorwaarden.
 

@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
 
-Verze 1.2 platná od 5. února 2024
-{: datetime="2024-02-05" }
+Verze 1.2 platná od pátku, 31. května 2024
+{: datetime="2024-05-31" }
 
 ## Ve společnosti Mozilla při navrhování produktů pamatujeme na ochranu vašich osobních údajů.
 
@@ -44,7 +44,9 @@ __Údaje o interakci.__ Mozilla získává údaje o vašich interakcích se slu�
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Služba Mozilla Monitor využívá AWS, aby vám mohla zaslat e-mail v souvislosti se Službou Mozilla Monitor zahrnující Úplné zprávy, Upozornění na narušení a Bezpečnostní tipy. Tato data budou odstraněna v okamžiku, kdy zrušíte své předplatné služby Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Služba Mozilla Monitor využívá Formstack k zaznamenávání zpětné vazby volitelně poskytované uživateli u příležitosti zrušení účtu. Informace o postupech v oblasti ochrany osobních údajů Formstack najdete v [Zásadách ochrany osobních údajů Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Služba Mozilla Monitor používá Google Analytics k získání metrik ohledně toho, jak uživatelé s našimi webovými stránkami interagují. To nám pomáhá vylepšovat obsah stránek. Pro podrobnější informace o tom, jak společnost Google využívá vaše osobní informace navštivte prosím [Ochrana osobních údajů a zabezpečení Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Můžete nainstalovat [Doplněk vyloučení Google Analytics pro prohlížeč](https://tools.google.com/dlpage/gaoptout), čím zabráníte shromažďování dat ohledně vašich návštěv Služby a zakážete přenos dat do Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Údaje o interakci.__ Společnost Mozilla získává data o vaší interakci se službou Firefox Relay, například když se přihlásíte a odhlásíte, případně nastavíte prředvolby. Podrobnější informace najdete v části [Data o interakci se službou Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); shromažďování těchto dat můžete odmítnout zapnutím funkce [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) ve svém prohlížeči. 

@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Zasady prywatności
 
-Wersja 1.2, obowiązuje od 5 lutego 2024 r.
-{: datetime="2024-02-05" }
+Wersja 1.2, obowiązuje od 31 maja 2024 r.
+{: datetime="2024-05-31" }
 
 ## W firmie Mozilla projektujemy produkty z myślą o prywatności użytkowników.
 
@@ -44,7 +44,9 @@ __Dane dotyczące interakcji.__ Mozilla otrzymuje dane dotyczące interakcji uż
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor korzysta z AWS, aby móc wysyłać użytkownikowi wiadomości e-mail w związku z usługą Mozilla Monitor, co obejmuje pełne raporty, ostrzeżenia o naruszeniach i porady dotyczące bezpieczeństwa. Dane te zostaną usunięte po anulowaniu subskrypcji usługi Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor korzysta z usług firmy Formstack do zbierania informacji zwrotnych opcjonalnie przekazywanych przez użytkowników podczas anulowania konta. Informacje dotyczące praktyk w zakresie ochrony prywatności firmy Formstack zawiera [Polityka prywatności firmy Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor korzysta z usługi Google Analytics w celu uzyskiwania pomiarów dotyczących korzystania przez użytkowników z naszych witryn. Pomaga nam to zapewniać coraz lepszą zawartość witryn. Aby uzyskać więcej informacji o tym, w jaki sposób Google wykorzystuje Twoje dane osobowe, odwiedź stronę [Prywatność i bezpieczeństwo Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Można zainstalować [Dodatek do przeglądarki blokujący Google Analytics](https://tools.google.com/dlpage/gaoptout), aby zapobiec gromadzeniu danych o wizytach w Usłudze i zabronić przekazywania danych do usługi Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Dane dotyczące interakcji.__ Mozilla otrzymuje dane o interakcjach użytkownika z usługą Firefox Relay, na przykład o logowaniu i wylogowaniu oraz ustawionych preferencjach. Dowiedz się więcej na temat [danych dotyczących interakcji z usługą Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); użytkownik może zrezygnować z gromadzenia danych telemetrycznych, włączając funkcję [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) w swojej przeglądarce. 
