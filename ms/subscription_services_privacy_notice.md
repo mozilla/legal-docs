@@ -1,7 +1,7 @@
 # Perkhidmatan Langganan Mozilla | Notis Privasi
 
-Versi 1.2, Berkuat kuasa 05 Februari 2024
-{: datetime="2024-02-05" }
+Versi 1.2, berlaku mulai 31 Mei 2024
+{: datetime="2024-05-31" }
 
 ## Di Mozilla, kami menghasilkan produk dengan mengambil kira privasi anda.
 
@@ -44,7 +44,9 @@ __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan perkhidm
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor menggunakan AWS supaya dapat menghantar e-mel kepada anda berhubung dengan Perkhidmatan Mozilla Monitor, yang termasuk Laporan Penuh, Pemberitahuan Pelanggaran dan Petua Keselamatan. Data ini akan dihapuskan apabila anda menghentikan langganan Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor menggunakan Formstack untuk merakamkan maklum balas yang disediakan secara pilihan oleh pengguna tentang pembatalan akaun. Untuk maklumat tentang amalan privasi Formstack, baca [Dasar Privasi Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor menggunakan Google Analytics untuk mendapatkan metrik tentang bagaimana pengguna melibatkan diri dengan laman web kami. Ini membantu kami meningkatkan kandungan tapak. Untuk maklumat lanjut tentang bagaimana Google menggunakan maklumat peribadi anda, sila layari [Privasi & Keselamatan Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Anda boleh pasang [Alat Tambah Penyemak Imbas Pilihan Keluar Google Analytics](https://tools.google.com/dlpage/gaoptout) untuk menghalang pengumpulan data tentang kunjungan anda ke Perkhidmatan dan melarang transmisi data ke Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan Firefox Relay, sebagai contoh apabila anda log masuk dan keluar dan pilihan yang anda tetapkan. Ketahui lebih lanjut tentang [data interaksi Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); anda boleh memilih untuk keluar daripada pengumpulan ini dengan memasang ciri [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) pada penyemak imbas anda. 

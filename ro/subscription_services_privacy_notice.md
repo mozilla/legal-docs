@@ -1,7 +1,7 @@
 # Servicii de abonare Mozilla | Notificare privind confidențialitatea
 
-Versiunea 1.2, în vigoare de la 5 februarie 2024
-{: datetime="2024-02-05" }
+Versiunea 1.2, în vigoare de la 31 mai 2024
+{: datetime="2024-05-31" }
 
 ## La Mozilla, proiectăm produse fără a pierde din vedere confidențialitatea dumneavoastră.
 
@@ -44,7 +44,9 @@ __Date de interacțiune.__ Mozilla primește date despre interacțiunile dumneav
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor utilizează AWS pentru a vă putea trimite e-mailuri în legătură cu Serviciul Mozilla Monitor, inclusiv Rapoarte complete, Alerte de breșă și Sfaturi pentru siguranța datelor dumneavoastră. Aceste date vor fi șterse atunci când renunțați la abonamentul Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor utilizează Formstack pentru a capta feedback-ul furnizat de utilizatori, opțional, la anularea contului. Pentru informații despre practicile de confidențialitate ale Formstack, consultați [Politica de confidențialitate a Formstack](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor utilizează Google Analytics pentru a măsura modul în care utilizatorii interacționează cu siteurile noastre web. Acestea ne ajută să îmbunătățim conținutul siteurilor. Pentru mai multe informații despre modul în care Google utilizează informațiile dumneavoastră, vizitați [Confidențialitatea și securitatea Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Puteți instala [add-on-ul pentru browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) pentru a împiedica colectarea de date despre vizitele dumneavoastră la Serviciu și pentru a interzice transmiterea datelor către Google Analytics.
+ 
 ### Firefox Relay {: #relay }
 
 __Date de interacțiune.__ Mozilla primește date despre interacțiunile dumneavoastră cu Firefox Relay, de exemplu, când vă conectați și deconectați și preferințele pe care le-ați setat. Aflați mai multe despre [datele de interacțiune Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); puteți opri colectarea acestor date activând setarea [Nu mă urmări (Do Not Track DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) din browserul dumneavoastră. 

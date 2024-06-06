@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Privacyverklaring
 
-Versie 1.2, van kracht vanaf maandag 5 februari 2024
-{: datetime="2024-02-05" }
+Versie 1.2, geldig vanaf 31 mei 2024
+{: datetime="2024-05-31" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 
@@ -44,7 +44,9 @@ __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interacties met de Ser
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor gebruikt AWS om via e-mail contact met u op te nemen in verband met de Mozilla Monitor-service. Dit omvat volledige rapporten, inbreukmeldingen en veiligheidstips. Deze gegevens worden verwijderd wanneer u uw Monitor-abonnement opzegt. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor gebruikt Formstack om feedback te registeren die optioneel door gebruikers wordt vertrekt bij het opzeggen van hun account. Zie het [Formstack-beleid](https://www.formstack.com/legal) voor informatie over de privacyprocedures van Formstack.
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor gebruikt Google Analytics voor het verkrijgen van meetwaarden over de interactie van gebruikers met onze websites. Dit helpt ons om sitecontent te verbeteren. Bezoek [Privacy en Beveiliging voor Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) voor meer informatie over hoe Google uw persoonlijke informatie gebruikt. U kunt de [add-on Google Analytics Opt-out in uw browser](https://tools.google.com/dlpage/gaoptout) installeren om gegevensverzameling over uw bezoeken aan de Service te voorkomen en gegevensdoorgifte aan Google Analytics te verbieden.
+ 
 ### Firefox Relay {: #relay }
 
 __Interactiegegevens.__ Mozilla ontvangt bijvoorbeeld gegevens over uw interacties met Firefox Relay wanneer u zich aan- en afmeldt en wanneer u voorkeuren instelt. Meer informatie over [Relay-interactiegegevens](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); u kunt zich uitschrijven voor deze verzameling door de functie [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) in te schakelen in uw browser. 

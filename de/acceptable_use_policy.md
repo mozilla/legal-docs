@@ -16,7 +16,7 @@ Die Services von Mozilla dürfen nicht zu folgenden Zwecken verwendet werden:
 * Verstöße gegen Urheber und Markenrechte, Patente oder sonstige Immaterialgüterrechte Dritter
 * Verstöße gegen Datenschutz- und Werberechte jeglicher Personen
 
-Sie sind nicht berechtigt, einen Mozilla-Service in einer Weise zu verwenden, die gegen die Nutzungsbestimmungen und -bedingungen oder die für den betreffenden Service geltende Lizenz verstößt. Ferner sind Sie nicht berechtigt, jegliche Mozilla-Produkte oder -Services ohne schriftliche Genehmigung von Mozilla zu verkaufen, weiterzuverkaufen oder zu vervielfältigen.
+Sie sind nicht berechtigt, einen Mozilla-Service in einer Art und Weise zu verwenden, die gegen diese Nutzungsrichtlinie, andere geltende Bestimmungen oder die für den betreffenden Service geltende Lizenz verstößt. Ferner sind Sie nicht berechtigt, jegliche Mozilla-Produkte oder -Services ohne schriftliche Genehmigung von Mozilla zu verkaufen, weiterzuverkaufen oder zu vervielfältigen.
 
 Dies sind lediglich Beispiele. Es handelt sich nicht um eine erschöpfende Liste. Zudem sind wir berechtigt, gelegentlich Änderungen an der Liste vorzunehmen. Mozilla behält sich das Recht vor, Inhalte zu entfernen oder Benutzer auszuschließen, die nach Ermessen von Mozilla gegen die vorliegenden Bedingungen verstoßen.
 
