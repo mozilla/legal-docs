@@ -16,7 +16,7 @@ Si proibisce l’utilizzo di qualsiasi servizio di Mozilla per:
 * Violare copyright, marchi commerciali, brevetti o ledere i diritti di proprietà intellettuale di terze parti
 * Violare i diritti relativi alla privacy o alla divulgazione di altre persone.
 
-Si proibisce l’utilizzo di qualsiasi servizio di Mozilla in violazione dei Termini di servizio, delle Condizioni d’uso o di una qualsiasi altra licenza applicabile al servizio in questione. Si proibisce inoltre di vendere, rivendere o duplicare qualsiasi prodotto o servizio di Mozilla senza l’autorizzazione scritta di Mozilla.
+Non è consentito utilizzare alcun servizio Mozilla in violazione della presente Informativa sul corretto utilizzo o di qualsiasi altra condizione vincolante, comprese le licenze o i termini di servizio applicabili al servizio in questione. Si proibisce inoltre di vendere, rivendere o duplicare qualsiasi prodotto o servizio di Mozilla senza l’autorizzazione scritta di Mozilla.
 
 Questo elenco ha fini puramente esemplificativi, non è definitivo e può essere periodicamente aggiornato. Mozilla si riserva il diritto di rimuovere qualsiasi contenuto o sospendere qualsiasi utente che violi le presenti condizioni.
 

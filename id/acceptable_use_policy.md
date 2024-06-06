@@ -16,7 +16,7 @@ Anda tidak boleh menggunakan layanan Mozilla untuk:
 * Melanggar hak cipta, merek dagang, paten, atau hak kekayaan intelektual orang lain,
 * Melanggar hak privasi atau publisitas siapa pun,
 
-Anda tidak boleh menggunakan layanan Mozilla dengan cara apa pun yang melanggar Ketentuan Penggunaan, Syarat Penggunaan, atau lisensi yang berlaku pada layanan tertentu. Anda juga tidak boleh menjual, menjual kembali, atau menduplikasi semua produk atau layanan Mozilla tanpa izin tertulis dari Mozilla.
+Anda tidak dapat menggunakan layanan Mozilla dengan cara yang melanggar Kebijakan Penggunaan yang Dapat Diterima ini atau ketentuan mengikat lainnya, termasuk semua lisensi atau ketentuan layanan, yang berlaku untuk layanan tertentu. Anda juga tidak boleh menjual, menjual kembali, atau menduplikasi semua produk atau layanan Mozilla tanpa izin tertulis dari Mozilla.
 
 Larangan-larangan tersebut hanyalah contoh. Anda tidak boleh menganggapnya sebagai daftar lengkap, dan kami dapat memperbarui daftar ini dari waktu ke waktu. Mozilla berhak menghapus semua konten atau menangguhkan pengguna mana pun yang dianggap melanggar syarat ini.
 

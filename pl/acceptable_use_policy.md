@@ -16,7 +16,7 @@ Usług firmy Mozilla nie wolno używać w celu:
 * Naruszania praw autorskich, znaków towarowych, patentów lub praw własności intelektualnej innych osób.
 * Naruszać prawa dowolnej osoby do prywatności lub rozgłosu.
 
-Z żadnych usług firmy Mozilla nie można korzystać w sposób, który narusza Regulamin, Warunki użytkowania lub licencję odnoszącą się do określonej usługi. Nie można również sprzedawać, odsprzedawać ani duplikować żadnego produktu lub usługi firmy Mozilla bez pisemnej zgody firmy Mozilla.
+Nie można korzystać z żadnej usługi firmy Mozilla w sposób naruszający niniejsze Zasady dopuszczalnego użytkowania lub jakiekolwiek inne wiążące warunki, w tym licencje lub warunki świadczenia usług, które mają zastosowanie do danej usługi. Nie można również sprzedawać, odsprzedawać ani duplikować żadnego produktu lub usługi firmy Mozilla bez pisemnej zgody firmy Mozilla.
 
 Są to jedynie przykłady. Niniejsza lista nie jest ostateczna i może być od czasu do czasu aktualizowana. Mozilla zastrzega sobie prawo do usuwania treści i zawieszania użytkowników, naruszających w mniemaniu firmy te warunki.
 

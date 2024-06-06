@@ -1,7 +1,7 @@
 # Mozilla Abonnementdienste | Datenschutzhinweis
 
-Version 1.2, gültig ab Montag, 5. Februar 2024
-{: datetime="2024-02-05" }
+Version 1.2, gültig ab 31. Mai 2024
+{: datetime="2024-05-31" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 
@@ -44,7 +44,9 @@ __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit den Di
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor nutzt AWS, um Ihnen in Verbindung mit dem Mozilla Monitor Service E-Mails mit vollständigen Berichten, Mitteilungen über Datenverletzungen und Sicherheitstipps zu senden. Diese Daten werden gelöscht, sobald Sie das Monitor-Abonnement beenden. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor nutzt Formstack, um Feedback zu erfassen, das die Nutzer bei der Kündigung ihres Kontos optional geben können. Informationen zu den Datenschutzbestimmungen von Formstack entnehmen Sie den [Formstack-Datenschutzbestimmungen](https://www.formstack.com/legal).
-
+  
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor setzt Google Analytics ein, um Kennzahlen darüber zu erhalten, wie unsere Websites genutzt werden. Dadurch können wir die Website-Inhalte verbessern. Näheres zur Verwendung Ihrer personenbezogenen Daten durch Google finden Sie in den Informationen von [Google Analytics zu Schutz und Sicherheit Ihrer Daten ](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Um die Erfassung von Daten über Ihre Nutzung der Services und eine Datenübertragung an Google Analytics zu verhindern, können Sie das [Browser-Add-on zur Deaktivierung von Google Analytics](https://tools.google.com/dlpage/gaoptout) installieren.
+ 
 ### Firefox Relay {: #relay }
 
 __Interaktionsdaten.__ Mozilla empfängt Daten über Ihre Interaktionen mit Firefox Relay, beispielsweise, wann Sie sich an- und abmelden und welche Einstellungen Sie ausgewählt haben. Erfahren Sie mehr zu den [Relay-Interaktionsdaten](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); Sie können diese Erfassung per Opt-out abstellen, indem Sie die Funktion [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) in Ihrem Browser aktivieren. 
