@@ -2,29 +2,22 @@
 
 Služby společnosti Mozilla nesmíte používat k:
 
-* jakýmkoliv nezákonným aktivitám ani jinému porušování platných právních předpisů;
-* výhrůžkám, obtěžování nebo porušování práv na ochranu soukromí dalších osob; zasílání nevyžádaných
-sdělení; nebo zachycení, sledování či úpravě sdělení, které nejsou určeny pro vás;
-* porušování Zásad účasti v komunitě společnosti Mozilla (informace naleznete na adrese
-<https://www.mozilla.org/about/governance/policies/participation/>);
-* poškozování uživatelů formou virů, spywaru nebo malwaru, červů, trojských koní,
-časových bomb nebo jiných škodlivých kódů nebo pokynů;
-*	sběru nebo shromažďování osobně identifikovatelných údajů, zejména názvů účtu nebo e-mailových adres;
-* podílu na činnosti, která zasahuje do služeb nebo produktů společnosti Mozilla nebo
-je poškozuje (stejně jako servery a sítě, které jsou ke službám společnosti Mozilla připojeny);
-* reprodukci, duplikaci, kopírování, prodeji, obchodování nebo opětovnému prodeji služeb nebo produktů společnosti Mozilla za
-jakýmkoli účelem,
-* porušování autorských práv, ochranné známky nebo porušování práv k duševnímu vlastnictví jiných osob,
-* nahrávání, stahování, přenosu, zobrazení nebo udělení přístupu k obsahu, jenž:
-    * je nezákonný nebo propaguje nezákonné aktivity;
-    * je nevhodný, např. obscénní nebo pornografické materiály, grafická zobrazení sexuality či násilí nebo obrázky, které zneužívají či poškozují děti;
-    * porušuje něčí práva, včetně práv duševního vlastnictví nebo jiných vlastnických práv nebo práv na soukromí či publicitu;
-    * je klamný, zavádějící, podvodný nebo je určen k phishingu či provedení jiné krádeže identity;
-    * je určen k podpoře hazardních her;
-    * se zabývá reklamou či propagací nezákonných či kontrolovaných výrobků nebo služeb;
-    * degraduje, zastrašuje, podněcuje násilí nebo podporuje škodlivé jednání proti jednotlivci či skupině na základě věku, pohlaví, rasy, etnického původu, národnostního původu, vyznání, sexuální orientace, postižení, víry, geografické polohy nebo jiné chráněné kategorie nebo představuje nenávistný projev;
-    * zavádějícím způsobem uživatele navede k rozhodnutí o nákupu.
+* žádným nezákonným aktivitám ani jinému porušování platných právních předpisů;
+* ohrožování, obtěžování či porušování práva na soukromí druhých osob; zasílání nevyžádaných sdělení; ani zachycování, sledování či upravování komunikace, která nebyla určena vám;
+* poškozování uživatelů například používáním virů, spywaru či malwaru, trojských koní, časovaných bomb nebo jiného škodlivého kódu nebo pokynů;
+* klamání, obelhávání, podvádění, phishingu nebo ke spáchání krádeže identity či pokusu o ni;
+* zapojování se do nezákonných hazardních her nebo k jejich propagaci;
+* degradaci, zastrašování, podněcování násilí nebo podpoře škodlivého jednání proti jednotlivci či skupině na základě věku, pohlaví, rasy, etnického původu, národnostního původu, vyznání, sexuální orientace, postižení, víry, geografické polohy nebo jiné chráněné kategorie nebo které představuje nenávistný projev,
+* zneužívání či poškozování dětí;
+* prodeji, koupi nebo reklamě nezákonných či kontrolovaných produktů či služeb;
+* nahrávání, stahování, přenášení, zobrazování nebo poskytování přístupu k obsahu, který obsahuje grafické zobrazení sexuality nebo násilí;
+* shromažďování nebo sběr osobně identifikovatelných údajů bez souladu. To zahrnuje například názvy účtů a e-mailové adresy;
+* zapojení se do jakékoli činnosti, která by ovlivňovala či narušovala služby nebo produkty společnosti Mozilla (nebo servery a sítě spojené se službami společnosti Mozilla);
+* porušování autorských práv, ochranných známek, patentů nebo jiných práv duševního vlastnictví jiných osob;
+* porušování práv na soukromí či publicitu jakékoliv osoby.
 
-Tento seznam je ilustrativní, nikoliv vyčerpávající, a může být aktualizován.
+Žádné služby společnosti Mozilla nesmíte používat způsobem, který jakkoliv porušuje tyto Zásady přijatelného použití nebo jakékoliv jiné závazné podmínky, včetně případných licencí nebo podmínek poskytování služeb, které se vztahují ke konkrétní službě. Rovněž tak nesmíte prodávat, dále prodávat nebo duplikovat žádné produkty ani služby společnosti Mozilla bez písemného souhlasu společnosti Mozilla.
 
-Společnost Mozilla si vyhrazuje právo odstranit jakýkoli obsah nebo zablokovat jakékoli uživatele, pokud u nich shledá porušení těchto podmínek nebo příslušných podmínek služby.
+Toto jsou pouze příklady. Nelze je považovat za vyčerpávající seznam a tento seznam můžeme dle potřeby příležitostně aktualizovat, Společnost Mozilla si vyhrazuje právo odebrat jakýkoli obsah nebo zablokovat jakékoli uživatele, pokud u nich shledá porušení těchto podmínek.
+
+Rovněž si dovolujeme připomenout [Pokyny účasti v komunitě](https://www.mozilla.org/about/governance/policies/participation/) společnosti Mozilla, které upravují účast v komunitách společnosti Mozilla. 
