@@ -20,7 +20,7 @@ First, that your Contributions are entirely your own creation.
 
 Second, that your Contributions do not infringe on any third parties’ rights. 
 
-Third, that your Contributions comply with Mozilla's [Acceptable Use Policy](https://www.mozilla.org/en-US/about/legal/acceptable-use/).
+Third, that your Contributions comply with Mozilla's [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/).
 
 If you cannot make these assurances, you may not participate in Common Voice. 
 
