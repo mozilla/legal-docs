@@ -4,7 +4,7 @@ Effective June 27, 2024
 
 Through Common Voice, you can donate your voice, written sentences, and the other resources we need to build an open-source voice database that anyone can use to make innovative voice recognition apps for devices and the web.
 
-You may only participate in Common Voice if you agree to these Common Voice Legal Terms (the "Terms"). 
+You may only participate in Common Voice if you agree to these Common Voice Legal Terms (the “Terms”). 
 
 ## 1. Eligibility
 Common Voice is open to anyone over the age of 19. If you are 19 or under, you must have your parent or guardian’s consent and they must supervise your participation in Common Voice. 
@@ -12,7 +12,7 @@ Common Voice is open to anyone over the age of 19. If you are 19 or under, you m
 Common Voice is part of the Mozilla Community. As a result, if you chose to participate, you agree to follow the [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## 2. Your Contributions 
-We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common voice, we require that you do the same. You agree that Mozilla may offer all of your the contributions you make available to Common Voice, including text, recordings, validations, and feedback (the "Contributions") to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
+We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common voice, we require that you do the same. You agree that Mozilla may offer all of your the contributions you make available to Common Voice, including text, recordings, validations, and feedback (the “Contributions”) to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
 
 In order to participate in Common Voice, Mozilla also requires that you make three assurances: 
 
@@ -20,7 +20,7 @@ First, that your Contributions are entirely your own creation.
 
 Second, that your Contributions do not infringe on any third parties’ rights. 
 
-Third, that your Contributions comply with Mozilla's [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/).
+Third, that your Contributions comply with Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/).
 
 If you cannot make these assurances, you may not participate in Common Voice. 
 
