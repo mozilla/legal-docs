@@ -1,6 +1,6 @@
 # Common Voice Legal Terms 
 
-Effective June 27, 2024 
+Effective June 27, 2024 {: datetime="2024-06-27" }
 
 Through Common Voice, you can donate your voice, written sentences, and the other resources we need to build an open-source voice database that anyone can use to make innovative voice recognition apps for devices and the web.
 
