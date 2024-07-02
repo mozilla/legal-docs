@@ -14,7 +14,7 @@ Common Voice is part of the Mozilla Community. As a result, if you chose to part
 
 ## 2. Your Contributions
 
-We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common voice, we require that you do the same. You agree that Mozilla may offer all of your the contributions you make available to Common Voice, including text, recordings, validations, and feedback (the “Contributions”) to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
+We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common Voice, we require that you do the same. You agree that Mozilla may offer all of the contributions you make available to Common Voice, including text, recordings, validations, and feedback (the “Contributions”) to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
 
 In order to participate in Common Voice, Mozilla also requires that you make three assurances: 
 
