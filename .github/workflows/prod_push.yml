@@ -74,7 +74,7 @@ jobs:
             echo "No changes."
           else
             # Create pull request
-            hub pull-request -m "[prod] Publish document updates" -h prod_updates -b prod -l prod -r peiying2
+            hub pull-request -m "[prod] Publish document updates" -h prod_updates -b prod -l prod -r mozilla/legal-l10n
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
