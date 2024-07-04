@@ -1,6 +1,6 @@
 # Aviso de privacidad de Common Voice 
 
-Vigente desde el 15 de agosto de 2019 {: datetime="2019-08-15" }
+En vigor desde el día jueves, 27 de junio de 2024 {: datetime="2024-06-27" }
 
 ## Privacidad
 
@@ -10,11 +10,13 @@ Nuestra [Política de Privacidad de Mozilla](https://www.mozilla.org/privacy) de
 
 * **Datos de la cuenta.** No es necesario que cree una cuenta para usar Common Voice. Si decide crear una cuenta, recibiremos su nombre de usuario y su avatar (si proporciona uno). Su dirección de correo electrónico está asociada a sus datos demográficos y de interacción pero no se revelará públicamente. Mostramos tablas de clasificación con el número de grabaciones que realizan los usuarios, y si lo desea, tiene la opción de aparecer en ella. Usted puede eliminar su cuenta en cualquier momento. Si la elimina, se eliminarán su nombre de usuario y su dirección de correo electrónico.
 
+* **Correo electrónico.** Si participas en las pruebas Alfa o Beta del proyecto Common Voice Spontaneous Speech, debes proporcionar tu dirección de correo electrónico para que podamos enviarte un enlace para iniciar sesión y participar en el proyecto Common Voice Spontaneous Speech. En cualquier momento puedes crear una cuenta completa (como se indica anteriormente). Si no creas una cuenta completa al finalizar las pruebas Alfa o Beta, eliminaremos tu dirección de correo electrónico dentro de las dos semanas posteriores a la finalización de cada programa de prueba. Ciertos tipos de participación en las pruebas Beta (p. ej., para lenguajes de recursos ultra bajos) pueden no requerir un inicio de sesión por correo electrónico.
+
 * **Boletín de noticias.** Puede suscribirse a nuestro boletín, en cuyo caso se nos proporcionaría su dirección de correo. Puede cancelar su suscripción en cualquier momento. Si cancela se eliminará su correo electrónico de la lista de distribución del boletín.
 
-* **Grabaciones de voz.** Las grabaciones de voz, junto con cualquier dato demográfico asociado opcional, pueden estar disponibles al público en la base de datos de Common Voice para consumo y uso bajo la licencia de Creative Commons Zero ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+* **Grabaciones de voz.** Las grabaciones de voz, junto con cualquier dato demográfico proporcionado opcionalmente, pueden estar disponibles en las bases de datos de Common Voice para uso y consumo público bajo una Licencia Creative Commons Zero ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
-* **Texto escrito.** Si envía frases escritas, es posible que las pongamos a disposición del público en la base de datos de Common Voice [CC0](https://creativecommons.org/publicdomain/zero/1.0/) para su uso y consumo, de acuerdo con todos nuestros ejemplos. No asociaremos estas frases con los datos demográficos que usted envíe.
+* **Texto.** Si envías oraciones escritas, también podemos ponerlas a disposición en las bases de datos de Common Voice para el consumo público bajo [CC0](https://creativecommons.org/publicdomain/zero/1.0/), de acuerdo con todas nuestras muestras. No asociaremos estas oraciones con los datos demográficos que envíes.
 
 * **Datos de interacción.** Usamos Google Analytics para entender mejor cómo interactúa con la aplicación y el sitio web de Common Voice. Por ejemplo, podemos usar cookies para rastrear información desidentificada como la cantidad de muestras de voz que usted graba o escucha, las interacciones con botones y menús y la duración de las sesiones.
 
