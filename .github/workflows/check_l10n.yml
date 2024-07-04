@@ -84,4 +84,4 @@ jobs:
             hub pull-request -m "[l10n] Source document updates" -h l10n_updates -b l10n_reference -l l10n -r @mozilla/legal-l10n
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}

@@ -77,4 +77,4 @@ jobs:
             hub pull-request -m "[prod] Publish document updates" -h prod_updates -b prod -l prod -r @mozilla/legal-l10n
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}
