@@ -1,7 +1,7 @@
 # Formulaic Privacy Notice
 
-Last Updated May 24, 2024
-{: datetime="2024-05-24" }
+Last Updated July 3, 2024
+{: datetime="2024-07-03" }
 
 This privacy notice applies to Formulaic, a service that allows users to query, create, share, and manage templates for querying artificial intelligence (AI) based large language models (LLMs) (the “Service”). The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).  
 
@@ -16,6 +16,8 @@ We collect the following information directly from you when you use the Service:
 **Account information.** We may collect personal information, such as your name, username, contact information, and any other information that you provide to us in connection with the creation or administration of your account.
 
 **Formulas, Inputs and Outputs.** There are currently no LLM or similar AI-based platforms operated by or affiliated with Mozilla. However, the Service allows you to query selected LLMs offered by third parties (“Third-Party Models”) by inputting information into templates (“Formulas”) made available by the Service, as well as any Formulas that you yourself may choose to create and/or contribute to the Service. We process the content of your queries, as well as any amendments or updates you make to them, and any other content (including any media) you choose to upload to the Service (“Inputs”) in order to run them through Third-Party Models and generate results (“Outputs”). We also store Inputs and Outputs in your account, and you can choose to export your Outputs to your computer. 
+
+**Documents.** The Service allows you to upload documents that you can then run queries against using the Third-Party Models to create your own Formulas which you can also share with others via a direct link. You can also run queries on the documents using template Formulas. We will retain a copy of your document until you delete it. Deleting the document from a Formula does not delete your full Formula history. To delete not only the document, but your histories, you need to delete the Formula containing the document via your settings. After deletion in either instance, the document will no longer be available to any other users you have previously shared the Formula with.
 
 **Dashboard.** The Service also allows you to save your favorite Formulas, draft Formulas, and any published Formulas that you yourself may contribute via a non-public dashboard. We use any data that you provide via the Dashboard to deliver and improve your experience of the Service.
 
