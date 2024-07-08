@@ -1,9 +1,9 @@
 # Formulaic Terms of Service
 
-Last Updated May 24, 2024
+Last Updated July 3, 2024
 {: datetime="2024-05-24" }
 
-Formulaic (the “Service”) is a service that allows users to create, share, manage, and use templates (the “Formulas”) for querying Artificial Intelligence (AI) based Large Language Model (LLMs) (the “Service”). It also allows users to run those queries through a third-party LLM platform, and to view and store your queries and the resulting responses. (For the purposes of this Agreement, Formulas, instructions, descriptions, and responses will all be referred to as the “Content”.) The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).
+Formulaic (the “Service”) is a service that allows users to create, share, manage, and use templates (the “Formulas”) for querying Artificial Intelligence (AI) based Large Language Model (LLMs) (the “Service”). It also allows users to run those queries through a third-party LLM platform, and to view and store your queries and the resulting responses. (For the purposes of this Agreement, Formulas, instructions, your documents, descriptions, and responses will all be referred to as the “Content”.) The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).
 
 Please read these terms of service (“Agreement” or “Terms”) carefully before you sign up for or use the Service. The Terms constitute a binding legal agreement, which govern your use of the Service via any platform or device. By accessing, signing up for, or using the Service, you agree to be bound by these Terms.
 
@@ -15,7 +15,7 @@ By accepting these terms, you also accept the Formulaic Privacy Notice and Formu
 
 ### A. Creating an Account
 
-In order to view, store your queries and results, to view or run shared queries, or to share content of your own, you will need to create an account on the Service using your Google Account. You can create a Google Account on [Google’s signup page](https://accounts.google.com). More information about the information that we receive from Google, and how we use that information, is included in the Formulaic Privacy Notice. Google Accounts has its own [Privacy Notice](https://policies.google.com/privacy).
+In order to view, store your documents, queries and results, to view or run shared queries, or to share content of your own, you will need to create an account on the Service using your Google Account. You can create a Google Account on [Google’s signup page](https://accounts.google.com). More information about the information that we receive from Google, and how we use that information, is included in the Formulaic Privacy Notice. Google Accounts has its own [Privacy Notice](https://policies.google.com/privacy).
 
 ### B. Using the Service
 
