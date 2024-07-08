@@ -1,7 +1,7 @@
 # Formulaic Privacy Notice
 
 Last Updated July 3, 2024
-{: datetime="2024-05-24" }
+{: datetime="2024-07-03" }
 
 This privacy notice applies to Formulaic, a service that allows users to query, create, share, and manage templates for querying artificial intelligence (AI) based large language models (LLMs) (the “Service”). The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).  
 
