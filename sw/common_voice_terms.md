@@ -22,7 +22,7 @@ Kwanza, kwamba Michango yako ni kazi yako mwenyewe kabisa.
 
 Pili, kwamba Michango yako haikiuki haki zozote za washirika wengine. 
 
-Tatu, kwamba Michango yako inatii [Sera ya Matumizi Yanayokubalika](https://www.mozilla.org/about/legal/acceptable-use/)ya Mozilla.
+Tatu, kwamba Michango yako inatii [Sera ya Matumizi Yanayokubalika](https://www.mozilla.org/about/legal/acceptable-use/) ya Mozilla.
 
 Ikiwa huwezi kutoa uhakikisho mambo haya, hupaswi kushiriki katika mradi wa Common Voice. 
 
