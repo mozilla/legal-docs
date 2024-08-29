@@ -43,7 +43,7 @@ __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interacties met de Ser
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor gebruikt AWS om via e-mail contact met u op te nemen in verband met de Mozilla Monitor-service. Dit omvat volledige rapporten, inbreukmeldingen en veiligheidstips. Deze gegevens worden verwijderd wanneer u uw Monitor-abonnement opzegt. 
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor gebruikt Formstack om feedback te registeren die optioneel door gebruikers wordt vertrekt bij het opzeggen van hun account. Zie het [Formstack-beleid](https://www.formstack.com/legal) voor informatie over de privacyprocedures van Formstack.
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor gebruikt Formstack om feedback te registeren die optioneel door gebruikers wordt vertrekt. Zie het [Formstack-beleid](https://www.formstack.com/legal) voor informatie over de privacyprocedures van Formstack.
   
 * [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor gebruikt Google Analytics voor het verkrijgen van meetwaarden over de interactie van gebruikers met onze websites. Dit helpt ons om sitecontent te verbeteren. Bezoek [Privacy en Beveiliging voor Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) voor meer informatie over hoe Google uw persoonlijke informatie gebruikt. U kunt de [add-on Google Analytics Opt-out in uw browser](https://tools.google.com/dlpage/gaoptout) installeren om gegevensverzameling over uw bezoeken aan de Service te voorkomen en gegevensdoorgifte aan Google Analytics te verbieden.
  

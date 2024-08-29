@@ -43,7 +43,7 @@ __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit den Di
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor nutzt AWS, um Ihnen in Verbindung mit dem Mozilla Monitor Service E-Mails mit vollständigen Berichten, Mitteilungen über Datenverletzungen und Sicherheitstipps zu senden. Diese Daten werden gelöscht, sobald Sie das Monitor-Abonnement beenden. 
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor nutzt Formstack, um Feedback zu erfassen, das die Nutzer bei der Kündigung ihres Kontos optional geben können. Informationen zu den Datenschutzbestimmungen von Formstack entnehmen Sie den [Formstack-Datenschutzbestimmungen](https://www.formstack.com/legal).
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor nutzt Formstack, um Feedback zu erfassen, das die Nutzer optional geben können. Informationen zu den Datenschutzbestimmungen von Formstack entnehmen Sie den [Formstack-Datenschutzbestimmungen](https://www.formstack.com/legal).
   
 * [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor setzt Google Analytics ein, um Kennzahlen darüber zu erhalten, wie unsere Websites genutzt werden. Dadurch können wir die Website-Inhalte verbessern. Näheres zur Verwendung Ihrer personenbezogenen Daten durch Google finden Sie in den Informationen von [Google Analytics zu Schutz und Sicherheit Ihrer Daten ](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Um die Erfassung von Daten über Ihre Nutzung der Services und eine Datenübertragung an Google Analytics zu verhindern, können Sie das [Browser-Add-on zur Deaktivierung von Google Analytics](https://tools.google.com/dlpage/gaoptout) installieren.
  
