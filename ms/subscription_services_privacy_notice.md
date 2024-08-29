@@ -43,7 +43,7 @@ __Data interaksi.__ Mozilla menerima data tentang interaksi anda dengan perkhidm
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor menggunakan AWS supaya dapat menghantar e-mel kepada anda berhubung dengan Perkhidmatan Mozilla Monitor, yang termasuk Laporan Penuh, Pemberitahuan Pelanggaran dan Petua Keselamatan. Data ini akan dihapuskan apabila anda menghentikan langganan Monitor. 
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor menggunakan Formstack untuk merakamkan maklum balas yang disediakan secara pilihan oleh pengguna tentang pembatalan akaun. Untuk maklumat tentang amalan privasi Formstack, baca [Dasar Privasi Formstack](https://www.formstack.com/legal).
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor menggunakan Formstack untuk menangkap maklum balas yang disediakan oleh pengguna secara pilihan. Untuk maklumat tentang amalan privasi Formstack, baca [Dasar Privasi Formstack](https://www.formstack.com/legal).
   
 * [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor menggunakan Google Analytics untuk mendapatkan metrik tentang bagaimana pengguna melibatkan diri dengan laman web kami. Ini membantu kami meningkatkan kandungan tapak. Untuk maklumat lanjut tentang bagaimana Google menggunakan maklumat peribadi anda, sila layari [Privasi & Keselamatan Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). Anda boleh pasang [Alat Tambah Penyemak Imbas Pilihan Keluar Google Analytics](https://tools.google.com/dlpage/gaoptout) untuk menghalang pengumpulan data tentang kunjungan anda ke Perkhidmatan dan melarang transmisi data ke Google Analytics.
  
