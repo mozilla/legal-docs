@@ -56,9 +56,9 @@
     "locales": []
   },
   "common_voice_privacy_notice.md": {
-    "count": 49,
+    "count": 51,
     "has_source": true,
-    "last_update": "2019-08-15",
+    "last_update": "2024-06-27",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_privacy_notice.md",
     "locales": [
       "ab",
@@ -91,6 +91,7 @@
       "lv",
       "mk",
       "mn",
+      "ms",
       "mt",
       "nl",
       "pa",
@@ -105,6 +106,7 @@
       "sl",
       "sq",
       "sv",
+      "sw",
       "tr",
       "tt",
       "uk",
@@ -113,9 +115,9 @@
     ]
   },
   "common_voice_terms.md": {
-    "count": 49,
+    "count": 51,
     "has_source": true,
-    "last_update": "2018-11-30",
+    "last_update": "2024-06-27",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_terms.md",
     "locales": [
       "ab",
@@ -148,6 +150,7 @@
       "lv",
       "mk",
       "mn",
+      "ms",
       "mt",
       "nl",
       "pa",
@@ -162,6 +165,7 @@
       "sl",
       "sq",
       "sv",
+      "sw",
       "tr",
       "tt",
       "uk",
@@ -390,7 +394,7 @@
   "formulaic_privacy_notice.md": {
     "count": 0,
     "has_source": true,
-    "last_update": "2024-05-24",
+    "last_update": "2024-07-03",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_privacy_notice.md",
     "locales": []
   },
@@ -404,7 +408,7 @@
   "formulaic_tos.md": {
     "count": 0,
     "has_source": true,
-    "last_update": "2024-05-24",
+    "last_update": "2024-07-03",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_tos.md",
     "locales": []
   },
