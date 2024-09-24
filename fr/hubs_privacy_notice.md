@@ -38,7 +38,7 @@ __Information d’attribution :__ Lorsqu’un utilisateur publie une scène ou 
 __Informations du compte :__ Pour publier une scène ou un avatar dans Hubs, un utilisateur doit disposer d’un compte Hubs. Mozilla recevra et stockera une version hachée de son adresse électronique pour lui permettre de se connecter et de visualiser son modèle de salon 3D et ses avatars.
 
 ## Informations que nous collectons concernant votre abonnement
-__Informations de compte Mozilla.__ L’abonnement Hubs nécessite un compte Mozilla, qui envoie à Mozilla votre adresse électronique, vos paramètres régionaux (langue, etc.) et votre adresse IP. En savoir plus sur les [pratiques en matière de données de compte Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informations de compte Mozilla.__ L’abonnement Hubs nécessite un compte Mozilla, qui envoie à Mozilla votre adresse électronique, vos paramètres régionaux (langue, etc.) et votre adresse IP. En savoir plus sur les [pratiques en matière de données de compte Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informations de localisation.__ Mozilla reçoit votre adresse IP depuis votre compte Mozilla lorsque vous vous inscrivez au service et l’utilisez. Nous utilisons l’adresse IP pour en déduire approximativement votre localisation, car Mozilla VPN n’est actuellement disponible que dans certains pays.
 

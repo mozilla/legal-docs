@@ -13,7 +13,7 @@ Questa informativa sulla privacy spiega quali dati vengono raccolti da MDN Plus,
 
 ### Informazioni che raccogliamo {: #InfoWeCollect }
 
-__Informazioni sull'account Mozilla.__ Il servizio richiede un account Mozilla, che fornisce a MDN Plus accesso di sola lettura a informazioni del profilo dell'account Mozilla, come ID utente, nome visualizzato, avatar, indirizzo email, impostazioni locali e abbonamenti attivi al prodotto. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informazioni sull'account Mozilla.__ Il servizio richiede un account Mozilla, che fornisce a MDN Plus accesso di sola lettura a informazioni del profilo dell'account Mozilla, come ID utente, nome visualizzato, avatar, indirizzo email, impostazioni locali e abbonamenti attivi al prodotto. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informazioni sull'account MDN Plus.__ Quando utilizzi le funzioni di MDN Plus, riceviamo i dati necessari per fornirti tali funzioni. Ad esempio, se hai configurato delle pagine salvate, riceviamo le tue pagine salvate.
 

@@ -7,7 +7,7 @@ Firefox Relay le permite proteger la seguridad y privacidad de su dirección de 
 
 ### Información que recopilamos
 
-__Información de la cuenta de Firefox.__ Este servicio requiere una [cuenta de Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Mozilla conserva una copia de su información de la cuenta para poder proporcionar el servicio, en concreto, para asociar su dirección de correo electrónico principal con sus alias de correo electrónico.
+__Información de la cuenta de Firefox.__ Este servicio requiere una [cuenta de Firefox](https://www.mozilla.org/privacy/mozilla-accounts), que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Mozilla conserva una copia de su información de la cuenta para poder proporcionar el servicio, en concreto, para asociar su dirección de correo electrónico principal con sus alias de correo electrónico.
 
 __Mensajes de correo electrónico.__ Firefox Relay procesa sus mensajes de correo electrónico con el fin de enviar y reenviar sus mensajes de correo electrónico desde sus direcciones de correo electrónico alias a su dirección de correo electrónico principal. No leemos ni guardamos ninguno de sus mensajes. Si por algún motivo no podemos entregarle un mensaje de correo electrónico, lo guardamos temporalmente en nuestros servidores y lo eliminamos una vez que lo hemos entregado (en ningún caso se conservará durante más de tres días). Si usa la función para bloquear correos electrónicos promocionales, el Servicio verificará los encabezados de los correos electrónicos para determinar si el correo electrónico debe bloquearse.
 

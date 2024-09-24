@@ -38,7 +38,7 @@ __Hozzárendelési információk:__ Amikor egy felhasználó jelenetet vagy avat
 __Fiókadatok:__ A jelenetek vagy avatárok közzétételéhez a Hubs szolgáltatásban a felhasználónak Hubs-fiókkal kell rendelkeznie. A Mozilla megkapja és tárolja az e-mail-cím kivonatolt változatát, amely lehetővé teszi, hogy bejelentkezzen, és megtekintse 3D-szoba modelljeit és avatárjait.
 
 ## Az Ön előfizetésével kapcsolatban gyűjtött információk
-__A Mozilla-fiókra vonatkozó adatok.__ A Hubs-előfizetéshez Mozilla-fiók szükséges, amely elküldi a Mozillának az Ön e-mail-címét, területi beállításait és IP-címét. További információk [a Mozilla-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__A Mozilla-fiókra vonatkozó adatok.__ A Hubs-előfizetéshez Mozilla-fiók szükséges, amely elküldi a Mozillának az Ön e-mail-címét, területi beállításait és IP-címét. További információk [a Mozilla-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Helyadatok.__ A Mozilla megkapja az Ön IP-címét a Mozilla-fiókjától, amikor regisztrál és használja a szolgáltatást. Az IP-címet arra használjuk, hogy hozzávetőlegesen meghatározzuk a tartózkodási helyét, mivel a Mozilla VPN jelenleg csak bizonyos országokban érhető el.
 

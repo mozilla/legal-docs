@@ -38,7 +38,7 @@ __Zuordnungsinformationen:__ Wenn jemand eine Szene oder einen Avatar auf Hubs v
 __Kontoinformationen:__ Für das Veröffentlichen einer Szene oder eines Avatars auf Hubs benötigen Sie ein Hubs-Konto. Mozilla empfängt und speichert eine gehashte Version der entsprechenden E-Mail-Adresse, damit der Nutzer sich einloggen und seine 3D-Raum-Modelle und Avatare sehen kann.
 
 ## Daten, die wir zu Ihrem Abonnement erfassen
-__Mozilla-Kontoinformationen.__ Für ein Hubs-Abonnement ist ein Mozilla-Konto erforderlich, das Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse sendet. Weitere Informationen über [Mozilla-Konto-Datenpraktiken](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Mozilla-Kontoinformationen.__ Für ein Hubs-Abonnement ist ein Mozilla-Konto erforderlich, das Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse sendet. Weitere Informationen über [Mozilla-Konto-Datenpraktiken](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informationen zum Standort.__ Mozilla erhält Ihre IP-Adresse von Ihrem Mozilla-Konto, wenn Sie sich registrieren und den Dienst nutzen. Wir verwenden die IP-Adresse, um Ihren ungefähren Ort zu bestimmen, weil Mozilla VPN derzeit nur in bestimmten Ländern verfügbar ist.
 

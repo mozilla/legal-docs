@@ -13,7 +13,7 @@ Notis privasi ini menerangkan jenis data MDN Plus kumpul, kongsi, dan tujuannya.
 
 ### Maklumat yang kami kumpul {: #InfoWeCollect }
 
-__Maklumat akaun Mozilla.__ Perkhidmatan ini memerlukan akaun Mozilla, yang memberikan MDN Plus akses baca sahaja untuk maklumat profil akaun Mozilla anda, sebagai contoh ID pengguna, avatar, alamat e-mel, lokasi dan langganan produk aktif anda. Ketahui lebih lanjut tentang [amalan data akaun Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Maklumat akaun Mozilla.__ Perkhidmatan ini memerlukan akaun Mozilla, yang memberikan MDN Plus akses baca sahaja untuk maklumat profil akaun Mozilla anda, sebagai contoh ID pengguna, avatar, alamat e-mel, lokasi dan langganan produk aktif anda. Ketahui lebih lanjut tentang [amalan data akaun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Maklumat akaun MDN Plus.__ Apabila anda menggunakan ciri MDN Plus, kami terima data yang diperlukan untuk menyediakan ciri-ciri tersebut kepada anda. Sebagai contoh, jika anda menetapkan halaman disimpan, kami akan terima halaman tersimpan anda.
 

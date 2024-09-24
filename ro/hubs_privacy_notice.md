@@ -38,7 +38,7 @@ __Informații de atribuire:__ Atunci când cineva publică o scenă sau un avata
 __Informații privind contul:__ Pentru a publica o scenă sau un avatar pe Hubs, un utilizator trebuie să aibă un cont Hubs. Mozilla va primi și va stoca o versiune hașurată a adresei lor de e-mail pentru a le permite să se conecteze și să își vizualizeze modelele de camere 3D și avatarurile.
 
 ## Ce informații colectăm despre abonamentul dumneavoastră
-__Informații despre contul Mozilla.__ Un abonament Hubs necesită un cont Mozilla, care trimite către Mozilla adresa dumneavoastră de e-mail, locația și adresa IP. Aflați mai multe despre [practicile asociate datelor contului Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informații despre contul Mozilla.__ Un abonament Hubs necesită un cont Mozilla, care trimite către Mozilla adresa dumneavoastră de e-mail, locația și adresa IP. Aflați mai multe despre [practicile asociate datelor contului Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informații privind locația.__ Mozilla primește adresa dumneavoastră IP din contul dumneavoastră Mozilla atunci când vă înregistrați și utilizați serviciul. Utilizăm adresa IP pentru a aproxima locația dumneavoastră, deoarece Mozilla VPN este disponibil numai în anumite țări în acest moment.
 
