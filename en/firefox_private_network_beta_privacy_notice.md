@@ -13,7 +13,7 @@ This privacy notice explains what data FPN collects, shares, and why. We also ad
 
 ### Information we collect
 
-__Firefox Account Information.__ This service requires a Firefox Account, which sends FPN your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Firefox Account Information.__ This service requires a Firefox Account, which sends FPN your email address, locale, and IP address. Learn more about [Firefox Account data practices](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Location information.__ Firefox FPN receives your IP address from your Firefox Account when you sign up for and use the service. We use the IP address in order to approximate your location because FPN is currently only available in the United States.
 

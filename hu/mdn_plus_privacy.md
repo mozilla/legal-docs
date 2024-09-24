@@ -13,7 +13,7 @@ Ez az Adatvédelmi nyilatkozat elmagyarázza, hogy az MDN Plus milyen adatokat g
 
 ### Az általunk gyűjtött adatok {: #InfoWeCollect }
 
-__A Mozilla-fiókra vonatkozó adatok.__ A szolgáltatáshoz Mozilla-fiókra van szükség, amely kizárólag olvasási hozzáférést biztosít az MDN Plus számára a Mozilla-fiók profiladataihoz, például a felhasználói azonosítóhoz, a megjelenített névhez, az avatárhoz, az e-mail-címhez, a területi beállításokhoz és az aktív termék-előfizetésekhez. További információk [a Mozilla-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__A Mozilla-fiókra vonatkozó adatok.__ A szolgáltatáshoz Mozilla-fiókra van szükség, amely kizárólag olvasási hozzáférést biztosít az MDN Plus számára a Mozilla-fiók profiladataihoz, például a felhasználói azonosítóhoz, a megjelenített névhez, az avatárhoz, az e-mail-címhez, a területi beállításokhoz és az aktív termék-előfizetésekhez. További információk [a Mozilla-fiók adatkezelési gyakorlatairól](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Az MDN Plus-fiókra vonatkozó adatok.__ Amikor az MDN Plus funkcióit használja, megkapjuk azokat az adatokat, amelyek szükségesek ahhoz, hogy ezeket a funkciókat biztosítsuk Önnek. Például, ha mentett oldalakat állít be, elérjük a mentett oldalakat.
 

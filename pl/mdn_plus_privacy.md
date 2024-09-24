@@ -13,7 +13,7 @@ Niniejsze Zasady prywatności wyjaśniają, jakie dane usługa MDN Plus gromadzi
 
 ### Informacje, które gromadzimy {: #InfoWeCollect }
 
-__Dane konta Mozilla.__ Ta usługa wymaga konta Mozilla, które zapewnia usłudze MDN Plus dostęp tylko do odczytu do informacji zawartych w profilu konta Mozilla użytkownika, takich jak identyfikator użytkownika, nazwa wyświetlana, awatar, adres e-mail, ustawienia regionalne i aktywne subskrypcje produktów. Dowiedz się więcej na temat [praktyk dotyczących danych konta Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Dane konta Mozilla.__ Ta usługa wymaga konta Mozilla, które zapewnia usłudze MDN Plus dostęp tylko do odczytu do informacji zawartych w profilu konta Mozilla użytkownika, takich jak identyfikator użytkownika, nazwa wyświetlana, awatar, adres e-mail, ustawienia regionalne i aktywne subskrypcje produktów. Dowiedz się więcej na temat [praktyk dotyczących danych konta Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Dane konta MDN Plus.__ Gdy użytkownik korzysta z funkcji MDN Plus, otrzymujemy dane niezbędne do udostępnienia tych funkcji. Na przykład, jeśli ustawisz zapisane strony, otrzymamy Twoje zapisane strony.
 

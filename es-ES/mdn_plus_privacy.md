@@ -13,7 +13,7 @@ En este aviso de privacidad se explican los distintos tipos de datos que MDN Plu
 
 ### Información que recopilamos {: #InfoWeCollect }
 
-__Información de la cuenta de Mozilla.__ Este servicio requiere una cuenta de Mozilla, que le otorga a MDN Plus acceso de solo lectura a la información del perfil de su cuenta de Mozilla, como por ejemplo, su ID de usuario, nombre para mostrar, avatar, dirección de correo electrónico, configuración local y suscripciones a productos activas. Más información sobre las [prácticas relativas a los datos de cuentas de Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Información de la cuenta de Mozilla.__ Este servicio requiere una cuenta de Mozilla, que le otorga a MDN Plus acceso de solo lectura a la información del perfil de su cuenta de Mozilla, como por ejemplo, su ID de usuario, nombre para mostrar, avatar, dirección de correo electrónico, configuración local y suscripciones a productos activas. Más información sobre las [prácticas relativas a los datos de cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Información de la cuenta para MDN Plus.__ Cuando usa las funciones de MDN Plus, recibimos la información requerida para proporcionarle dichas funciones. Por ejemplo, si establece páginas guardadas, recibimos sus páginas guardadas.
 

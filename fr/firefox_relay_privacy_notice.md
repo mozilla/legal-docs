@@ -7,7 +7,7 @@ Firefox Relay vous permet de protéger votre adresse email principale des servic
 
 ### Informations que nous collectons
 
-__Informations de compte Firefox.__ Ce service nécessite un compte [compte Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), qui envoie à Mozilla votre adresse e-mail, langue et adresse IP. Mozilla conserve une copie des informations de votre compte pour fournir le Service, en particulier pour associer votre adresse email principale à votre ou vos alias.
+__Informations de compte Firefox.__ Ce service nécessite un compte [compte Firefox](https://www.mozilla.org/privacy/mozilla-accounts), qui envoie à Mozilla votre adresse e-mail, langue et adresse IP. Mozilla conserve une copie des informations de votre compte pour fournir le Service, en particulier pour associer votre adresse email principale à votre ou vos alias.
 
 __Messages email.__ Pour envoyer et transférer vos messages email depuis votre ou vos alias d’adresse(s) email vers votre adresse email principale, Firefox Relay doit traiter vos messages email. Nous ne lisons ni ne stockons le contenu de vos messages. Si un email ne peut pas vous être acheminé, nous le conservons sur nos serveurs et le supprimons après avoir été acheminé (dans tous les cas, nous ne le conservons pas plus de trois jours). Si vous utilisez la fonction de blocage des emails promotionnels, le Service vérifiera les en-têtes des emails pour déterminer si ces derniers doivent être bloqués.
 

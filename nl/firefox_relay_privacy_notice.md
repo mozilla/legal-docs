@@ -7,7 +7,7 @@ Met Firefox Relay (de Service) kunt u uw primaire e-mailadres veilig en privé h
 
 ### Informatie die we verzamelen
 
-__Firefox-accountinformatie.__ Deze service vereist een [Firefox-account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla verzendt. Mozilla bewaart een kopie van uw accountinformatie voor het verzorgen van de service en in het bijzonder om uw primaire e-mailadres te koppelen aan uw alias emailadres(sen).
+__Firefox-accountinformatie.__ Deze service vereist een [Firefox-account](https://www.mozilla.org/privacy/mozilla-accounts) dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla verzendt. Mozilla bewaart een kopie van uw accountinformatie voor het verzorgen van de service en in het bijzonder om uw primaire e-mailadres te koppelen aan uw alias emailadres(sen).
 
 __E-mailberichten.__ Als u uw e-mailberichten verzendt en doorstuurt vanaf uw alias-e-mailadressen naar uw primaire e-mailadres, verwerkt Firefox Relay uw e-mailberichten. We lezen en bewaren de content van uw berichten nooit. In het geval dat een e-mail niet aan u kan worden bezorgd, bewaren we deze op onze servers en verwijderen we deze nadat de e-mail is bezorgd (in geen enkel geval bewaren we het bericht langer dan drie dagen). Als u de functie gebruikt voor het blokkeren van reclamegebonden e-mail, controleert de Service de e-mailheaders om te bepalen of een e-mail wel of niet moet worden geblokkeerd.
 

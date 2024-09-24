@@ -13,7 +13,7 @@ This privacy notice explains what data MDN Plus collects, shares, and why. We al
 
 ### Information we collect {: #InfoWeCollect }
 
-__Mozilla account information.__ This service requires a Mozilla account, which provides MDN Plus read-only access to your Mozilla account profile information, for example your user ID, display name, avatar, email address, locale, and active product subscriptions. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Mozilla account information.__ This service requires a Mozilla account, which provides MDN Plus read-only access to your Mozilla account profile information, for example your user ID, display name, avatar, email address, locale, and active product subscriptions. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __MDN Plus account information.__ When you use MDN Plus features, we receive the data required to provide those features to you. For instance, if you set saved pages, we receive your saved pages.
 
