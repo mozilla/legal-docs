@@ -13,7 +13,7 @@ Este aviso de privacidade indica quais dados são coletados e compartilhados pel
 
 ### Informações que coletamos {: #InfoWeCollect }
 
-__Informações da conta da Mozilla.__ Esse serviço requer uma conta da Mozilla, que fornece ao MDN Plus acesso somente leitura às informações de perfil da sua conta, como identificação de usuário, nome de exibição, avatar, e-mail, localização e assinaturas de produtos ativas. Saiba mais sobre as [práticas de uso de dados da conta da Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informações da conta da Mozilla.__ Esse serviço requer uma conta da Mozilla, que fornece ao MDN Plus acesso somente leitura às informações de perfil da sua conta, como identificação de usuário, nome de exibição, avatar, e-mail, localização e assinaturas de produtos ativas. Saiba mais sobre as [práticas de uso de dados da conta da Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informações da conta do MDN Plus.__ Quando você usa os recursos do MDN Plus, nós recebemos os dados necessários para o funcionamento deles. Por exemplo, se você definiu páginas salvas, recebemos suas páginas salvas.
 

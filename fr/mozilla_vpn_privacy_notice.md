@@ -13,7 +13,7 @@ Cette politique de confidentialité explique quelles données Mozilla VPN collec
 
 ### Informations que nous collectons {: #markup }
 
-__Informations de compte Firefox.__ Ce service nécessite un compte Firefox, qui envoie à Mozilla VPN votre adresse e-mail, langue et adresse IP. En savoir plus sur les [pratiques en matière de données de compte Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informations de compte Firefox.__ Ce service nécessite un compte Firefox, qui envoie à Mozilla VPN votre adresse e-mail, langue et adresse IP. En savoir plus sur les [pratiques en matière de données de compte Firefox](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informations de localisation.__ Mozilla VPN reçoit votre adresse IP depuis votre compte Firefox lorsque vous vous inscrivez au service et l’utilisez. Nous utilisons l’adresse IP pour en déduire approximativement votre localisation, car Mozilla VPN n’est actuellement disponible que dans certains pays.
 

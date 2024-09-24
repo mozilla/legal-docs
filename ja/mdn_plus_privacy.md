@@ -13,7 +13,7 @@ MDN Plus は、優れた機能を提供するサブスクリプションサー�
 
 ### Mozilla が収集する情報 {: #InfoWeCollect }
 
-__Mozilla アカウント情報:__ 本サービスには Mozilla アカウントが必要で、MDN Plus には、皆様の Mozilla アカウントのプロフィール情報（ユーザーID、表示名、アバター、メールアドレス、ロケール、および有効な製品サブスクリプションなど）に対する読み取り専用のアクセス権が付与されます。[Mozilla アカウントデータの慣行](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox)の詳細をご覧ください。
+__Mozilla アカウント情報:__ 本サービスには Mozilla アカウントが必要で、MDN Plus には、皆様の Mozilla アカウントのプロフィール情報（ユーザーID、表示名、アバター、メールアドレス、ロケール、および有効な製品サブスクリプションなど）に対する読み取り専用のアクセス権が付与されます。[Mozilla アカウントデータの慣行](https://www.mozilla.org/privacy/mozilla-accounts)の詳細をご覧ください。
 
 __MDN Plus アカウント情報:__ 皆様が MDN Plus の機能を使用する際、Mozilla は、これらの機能を皆様に提供する上で必要なデータを受信します。たとえば、ページ保存の設定を行うと、皆様の保存したページを Mozilla が受信します。
 

@@ -13,7 +13,7 @@ Notis privasi ini menerangkan jenis data Mozilla VPN kumpul, kongsi, dan tujuann
 
 ### Maklumat yang kami kumpul {: #markup }
 
-__Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan Akaun Firefox, yang menghantar alamat e-mel anda ke Mozilla VPN, lokasi, dan alamat IP. Ketahui lebih lanjut tentang [amalan data Akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan Akaun Firefox, yang menghantar alamat e-mel anda ke Mozilla VPN, lokasi, dan alamat IP. Ketahui lebih lanjut tentang [amalan data Akaun Firefox](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Maklumat lokasi.__ Mozilla VPN menerima alamat IP anda dari Akaun Firefox apabila anda mendaftar dan menggunakan perkhidmatannya. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
 

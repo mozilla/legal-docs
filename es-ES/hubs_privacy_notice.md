@@ -38,7 +38,7 @@ __Información sobre atribución:__ Cuando alguien publica una escena o un avata
 __Información de cuenta:__ Para publicar una escena o un avatar en Hubs, el usuario debe disponer de una cuenta de Hubs. Mozilla recibirá y almacenará una versión en hash de su dirección de correo electrónica para permitirle iniciar sesión y visualizar sus modelos de 3D Room y sus avatares.
 
 ## Información que recopilamos acerca de su suscripción
-__Información de la cuenta de Mozilla.__ Una suscripción a Hubs requiere una cuenta de Mozilla, que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Más información sobre las [prácticas relativas a los datos de cuentas de Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Información de la cuenta de Mozilla.__ Una suscripción a Hubs requiere una cuenta de Mozilla, que enviará a Mozilla su dirección de correo electrónico, configuración regional y dirección IP. Más información sobre las [prácticas relativas a los datos de cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Información de ubicación.__ Mozilla recibe su dirección IP de su cuenta de Mozilla al registrarse en el servicio y durante su uso. Utilizamos la dirección IP para conocer su ubicación aproximada, ya que Mozilla VPN solo está disponible en determinados países.
 

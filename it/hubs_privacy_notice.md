@@ -38,7 +38,7 @@ __Informazioni di attribuzione:__ Quando qualcuno pubblica una scena o un avatar
 __Informazioni sull'account:__ Per pubblicare una scena o un avatar su Hubs, è necessario disporre di un account Hubs. Mozilla riceverà e memorizzerà una versione codificata dell'indirizzo email per consentire l'accesso e la visualizzazione dei modelli di stanza 3D e degli avatar.
 
 ## Informazioni raccolte sull'abbonamento
-__Informazioni sull'account Mozilla.__ L'abbonamento a Hubs richiede un account Mozilla, che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informazioni sull'account Mozilla.__ L'abbonamento a Hubs richiede un account Mozilla, che invia a Mozilla il tuo indirizzo email, le impostazioni locali e l'indirizzo IP. Ulteriori informazioni sulle [procedure riguardanti i dati dell'account Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informazioni sulla posizione.__ Mozilla riceve il tuo indirizzo IP dal tuo account Mozilla quando ti registri e usi il servizio. Usiamo l'indirizzo IP per individuare la tua posizione approssimativa in quanto Mozilla VPN attualmente è disponibile solo in alcuni Paesi.
 

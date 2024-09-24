@@ -13,7 +13,7 @@ In diesem Datenschutzhinweis wird erläutert, welche Daten MDN Plus erfasst, tei
 
 ### Von uns erfasste Informationen {: #InfoWeCollect }
 
-__Mozilla-Kontoinformationen.__ Für diesen Dienst benötigen Sie ein Mozilla-Konto, das MDN Plus die Leseberechtigung der Profilinformationen Ihres Mozilla-Kontos erlaubt. Zu den Profildaten gehören beispielsweise Benutzername, Anzeigename, Avatar, E-Mail, Gebietsschema und aktive Produktabonnements. Weitere Informationen über [Mozilla-Konto-Datenpraktiken](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Mozilla-Kontoinformationen.__ Für diesen Dienst benötigen Sie ein Mozilla-Konto, das MDN Plus die Leseberechtigung der Profilinformationen Ihres Mozilla-Kontos erlaubt. Zu den Profildaten gehören beispielsweise Benutzername, Anzeigename, Avatar, E-Mail, Gebietsschema und aktive Produktabonnements. Weitere Informationen über [Mozilla-Konto-Datenpraktiken](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __MDN Plus-Kontoinformationen.__ Bei Ihrer Nutzung von MDN Plus-Funktionen empfangen wir Daten, ohne die wir Ihnen diese Funktionen nicht bereitstellen können. Wenn Sie beispielsweise gespeicherte Seiten festlegen, empfangen wir Ihre gespeicherten Seiten.
 

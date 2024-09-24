@@ -13,7 +13,7 @@ MDN Plus 是一种提供付费功能的订阅服务。MDN Plus 旨在为开发�
 
 ### 我们收集的信息 {: #InfoWeCollect }
 
-__Mozilla 帐户信息。__ 此服务需要一个 Mozilla 帐户，该帐户为 MDN Plus 提供对您的 Mozilla 帐户个人资料信息的只读访问权限，例如您的用户 ID、显示名称、头像、电子邮件地址、区域设置和有效的产品订阅。了解有关 [Mozilla 帐户数据实践](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox)的更多信息。
+__Mozilla 帐户信息。__ 此服务需要一个 Mozilla 帐户，该帐户为 MDN Plus 提供对您的 Mozilla 帐户个人资料信息的只读访问权限，例如您的用户 ID、显示名称、头像、电子邮件地址、区域设置和有效的产品订阅。了解有关 [Mozilla 帐户数据实践](https://www.mozilla.org/privacy/mozilla-accounts)的更多信息。
 
 __MDN Plus 帐户信息。__ 当您使用 MDN Plus 功能时，我们会收到向您提供这些功能所需的数据。例如，如果您设置了保存的页面，我们会收到您保存的页面。
 

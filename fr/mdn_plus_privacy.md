@@ -13,7 +13,7 @@ Cette politique de confidentialité explique quelles données MDN Plus collecte
 
 ### Informations que nous collectons {: #InfoWeCollect }
 
-__Informations de compte Mozilla.__ Ce service nécessite un compte Mozilla, qui fournit à MDN Plus un accès en lecture seule aux informations du profil de votre compte Mozilla, par exemple votre identifiant utilisateur, nom d’affichage, avatar, adresse électronique, paramètres régionaux et abonnements en cours à des produits. En savoir plus sur les [pratiques en matière de données de compte Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informations de compte Mozilla.__ Ce service nécessite un compte Mozilla, qui fournit à MDN Plus un accès en lecture seule aux informations du profil de votre compte Mozilla, par exemple votre identifiant utilisateur, nom d’affichage, avatar, adresse électronique, paramètres régionaux et abonnements en cours à des produits. En savoir plus sur les [pratiques en matière de données de compte Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informations de compte MDN Plus.__ Lorsque vous utilisez des fonctionnalités de MDN Plus, nous recevons les données nécessaires pour vous fournir ces fonctionnalités. Par exemple, si vous avez configuré des pages enregistrées, nous recevons vos pages enregistrées.
 

@@ -7,7 +7,7 @@ Mit Firefox Relay können Sie Ihre primäre E-Mail-Adresse vor Onlinediensten sc
 
 ### Von uns erfasste Informationen
 
-__Firefox-Kontoinformationen.__ Für diesen Dienst ist ein [Firefox-Konto](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox) erforderlich. Hierüber übermitteln Sie Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse. Mozilla speichert eine Kopie Ihrer Kontoinformationen, um den Dienst zu erbringen, und insbesondere, um Ihre primäre E-Mail-Adresse mit Ihrer oder Ihren Alias-E-Mail-Adressen zu verknüpfen.
+__Firefox-Kontoinformationen.__ Für diesen Dienst ist ein [Firefox-Konto](https://www.mozilla.org/privacy/mozilla-accounts) erforderlich. Hierüber übermitteln Sie Mozilla Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse. Mozilla speichert eine Kopie Ihrer Kontoinformationen, um den Dienst zu erbringen, und insbesondere, um Ihre primäre E-Mail-Adresse mit Ihrer oder Ihren Alias-E-Mail-Adressen zu verknüpfen.
 
 __E-Mail-Nachrichten.__ Zum Senden und Weiterleiten Ihrer E-Mail-Nachrichten über Ihre Alias-E-Mail-Adresse(n) an Ihre Haupt-E-Mail-Adresse verarbeitet Firefox Relay Ihre E-Mail-Nachrichten. Wir lesen und speichern den Inhalt Ihrer Nachrichten nicht. Sollte eine E-Mail nicht zugestellt werden können, bewahren wir sie auf unseren Servern auf und löschen sie nach der Zustellung. (Keinesfalls jedoch wird eine E-Mail länger als drei Tage von uns aufbewahrt.) Wenn Sie die Funktion zum Blockieren von Werbemails nutzen, überprüft der Dienst den Header der E-Mails, um festzustellen, ob eine E-Mail blockiert werden muss.
 
