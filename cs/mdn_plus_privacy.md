@@ -13,7 +13,7 @@ Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje MDN Plus 
 
 ### Informace, které shromažďujeme {: #InfoWeCollect }
 
-__Informace o účtu Mozilla.__ Tato služba vyžaduje účet Mozilla, což službám MDN Plus poskytuje přístup k informacím o profilu vašeho účtu Mozilla pouze pro čtení, jako například k vašemu ID uživatele, zobrazovanému jménu, avataru e-mailové adrese, umístění a aktivním předplatným produktů. Podrobnější informace o [postupech zacházení s údaji účtu Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informace o účtu Mozilla.__ Tato služba vyžaduje účet Mozilla, což službám MDN Plus poskytuje přístup k informacím o profilu vašeho účtu Mozilla pouze pro čtení, jako například k vašemu ID uživatele, zobrazovanému jménu, avataru e-mailové adrese, umístění a aktivním předplatným produktů. Podrobnější informace o [postupech zacházení s údaji účtu Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informace o účtu MDN Plus.__ Pokud využíváte funkce služeb MDN Plus, získáváme data nezbytná k tomu, abychom vám dané funkce mohli poskytovat. Pokud například nastavíte uložené stránky, získáme vaše uložené stránky.
 

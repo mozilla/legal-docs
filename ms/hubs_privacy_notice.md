@@ -38,7 +38,7 @@ __Maklumat atribusi:__ Apabila seseorang menerbitkan pemandangan atau avatar di 
 __Maklumat akaun:__ Untuk menerbitkan pemandangan atau avatar di Hubs, pengguna perlu mempunyai akaun Hubs. Mozilla akan menerima dan menyimpan versi cincang alamat e-mel pengguna untuk membolehkan pengguna log masuk dan melihat model Bilik 3D dan Avatar.
 
 ## Maklumat yang Kami Kumpulkan berkenaan dengan Langganan Anda
-__Maklumat akaun Mozilla.__ Langganan Hubs memerlukan akaun Mozilla yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang [amalan data akaun Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Maklumat akaun Mozilla.__ Langganan Hubs memerlukan akaun Mozilla yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Ketahui lebih lanjut tentang [amalan data akaun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Maklumat lokasi.__ Mozilla menerima alamat IP anda daripada akaun Mozilla anda apabila anda mendaftar dan menggunakan perkhidmatan. Kami menggunakan alamat IP untuk menganggarkan lokasi anda kerana Mozilla VPN hanya tersedia di sesetengah negara pada masa ini.
 

@@ -13,7 +13,7 @@ Deze privacyverklaring gaat in op welke gegevens MDN Plus verzamelt en deelt en 
 
 ### Informatie die we verzamelen {: #InfoWeCollect }
 
-__Mozilla-accountinformatie.__ Deze service vereist een Mozilla-Account, dat MDN Plus alleen-lezen toegang biedt tot de profielinformatie in uw Mozilla-account, zoals uw gebruikers-ID, weergavenaam, avatar, e-mailadres, landinstellingen en actieve productabonnementen. Meer informatie over [procedures voor Mozilla-accountgegevens](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Mozilla-accountinformatie.__ Deze service vereist een Mozilla-Account, dat MDN Plus alleen-lezen toegang biedt tot de profielinformatie in uw Mozilla-account, zoals uw gebruikers-ID, weergavenaam, avatar, e-mailadres, landinstellingen en actieve productabonnementen. Meer informatie over [procedures voor Mozilla-accountgegevens](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __MDN Plus-accountinformatie.__ Wanneer u de MDN Plus-functies gebruikt, ontvangen we de gegevens die zijn vereist om die functies voor u te verzorgen. Als u bijvoorbeeld een reeks pagina's opslaat, ontvangen wij uw opgeslagen pagina's.
 

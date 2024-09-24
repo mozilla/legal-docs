@@ -38,7 +38,7 @@ __Informações de atribuição:__ Quando alguém publica uma cena ou um avatar 
 __Informações sobre a conta:__ Para publicar uma cena ou um avatar no Hubs, um utilizador tem de ter uma conta do Hubs. A Mozilla irá receber e guardar uma versão codificada do respetivo endereço de email para lhe permitir iniciar uma sessão e visualizar os respetivos Avatares e modelos de Sala em 3D.
 
 ## Informações que recolhemos sobre a sua subscrição
-__Informações sobre a conta da Mozilla.__ Uma subscrição do Hubs requer uma conta da Mozilla, a qual envia à Mozilla o seu endereço de email, idioma e endereço de IP. Obtenha mais informações sobre as [Práticas relativas aos dados da conta da Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informações sobre a conta da Mozilla.__ Uma subscrição do Hubs requer uma conta da Mozilla, a qual envia à Mozilla o seu endereço de email, idioma e endereço de IP. Obtenha mais informações sobre as [Práticas relativas aos dados da conta da Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informações sobre a localização.__ A Mozilla recebe o seu endereço de IP a partir da sua conta da Mozilla quando se inscreve no serviço e utiliza o mesmo. Utilizamos o endereço de IP para calcular a sua localização porque a VPN da Mozilla apenas está atualmente disponível em determinados países.
 

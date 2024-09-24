@@ -38,7 +38,7 @@ __Attribution information:__ When someone publishes a scene or avatar to Hubs, t
 __Account information:__ To publish a scene or avatar to Hubs, a user must have a Hubs account. Mozilla will receive and store a hashed version of their email address to allow them to log in and view their 3D Room models and Avatars.
 
 ## Information We Collect about Your Subscription
-__Mozilla account information.__ A Hubs subscription requires a Mozilla account, which sends Mozilla your email address, locale, and IP address. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Mozilla account information.__ A Hubs subscription requires a Mozilla account, which sends Mozilla your email address, locale, and IP address. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Location information.__ Mozilla receives your IP address from your Mozilla account when you sign up for and use the service. We use the IP address in order to approximate your location because Mozilla VPN is currently only available in certain countries.
 

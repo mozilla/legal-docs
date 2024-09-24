@@ -7,7 +7,7 @@ Firefox Relay allows you to keep your primary email address safe and private fro
 
 ### Information We Collect
 
-__Firefox Account information.__ This service requires a [Firefox Account](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), which sends Mozilla your email address, locale, and IP address. Mozilla maintains a copy of your account information to provide the service, in particular to associate your primary email address with your alias email address(es).
+__Firefox Account information.__ This service requires a [Firefox Account](https://www.mozilla.org/privacy/mozilla-accounts), which sends Mozilla your email address, locale, and IP address. Mozilla maintains a copy of your account information to provide the service, in particular to associate your primary email address with your alias email address(es).
 
 __Email messages.__ To send and forward your email messages from your alias email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked.
 

@@ -13,7 +13,7 @@ En este aviso de privacidad se explican los distintos tipos de datos que Mozilla
 
 ### Información que recopilamos {: #markup }
 
-__Información de la cuenta de Firefox.__ Este servicio requiere una cuenta de Firefox, que enviará a Mozilla VPN su dirección de correo electrónico, configuración regional y dirección IP. Obtenga más información sobre las [prácticas usadas en relación con los datos de cuentas de Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Información de la cuenta de Firefox.__ Este servicio requiere una cuenta de Firefox, que enviará a Mozilla VPN su dirección de correo electrónico, configuración regional y dirección IP. Obtenga más información sobre las [prácticas usadas en relación con los datos de cuentas de Firefox](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Información sobre la ubicación.__ Mozilla VPN recibe su dirección IP de su cuenta de Firefox al registrarse en el servicio y durante su uso. Utilizamos la dirección IP para conocer su ubicación aproximada, ya que Mozilla VPN solo está disponible en determinados países.
 

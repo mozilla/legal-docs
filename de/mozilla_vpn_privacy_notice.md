@@ -13,7 +13,7 @@ In diesem Datenschutzhinweis wird erläutert, welche Daten Mozilla VPN erfasst, 
 
 ### Von uns erfasste Informationen {: #markup }
 
-__Firefox-Kontoinformationen.__ Für diesen Dienst ist ein Firefox-Konto erforderlich, das Mozilla VPN Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse sendet. Weitere Informationen über [Firefox-Konto-Datenpraktiken](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Firefox-Kontoinformationen.__ Für diesen Dienst ist ein Firefox-Konto erforderlich, das Mozilla VPN Ihre E-Mail-Adresse, Ihr Gebietsschema und Ihre IP-Adresse sendet. Weitere Informationen über [Firefox-Konto-Datenpraktiken](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Ortsinformationen.__ Mozilla VPN erhält Ihre IP-Adresse von Ihrem Firefox-Konto, wenn Sie sich registrieren und den Dienst nutzen. Wir verwenden die IP-Adresse, um Ihren ungefähren Ort zu bestimmen, weil Mozilla VPN derzeit nur in bestimmten Ländern verfügbar ist.
 

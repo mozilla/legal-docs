@@ -38,7 +38,7 @@ __Informacje o autorze:__ Publikując scenę lub awatara w usłudze Hubs, użytk
 __Informacje o koncie:__ Aby opublikować scenę lub awatara w usłudze Hubs, użytkownik musi mieć konto Hubs. Mozilla będzie otrzymywać i przechowywać adres e-mail w postaci zaszyfrowanej, aby umożliwić użytkownikowi logowanie się oraz przeglądanie modeli pokoi 3D oraz awatarów.
 
 ## Gromadzone przez nas informacje dotyczące subskrypcji użytkownika
-__Dane konta Mozilla.__ Subskrypcja usługi Hubs wymaga konta Mozilla, które przesyła do firmy Mozilla adres e-mail, ustawienia regionalne i adres IP użytkownika. Dowiedz się więcej na temat [praktyk dotyczących danych konta Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Dane konta Mozilla.__ Subskrypcja usługi Hubs wymaga konta Mozilla, które przesyła do firmy Mozilla adres e-mail, ustawienia regionalne i adres IP użytkownika. Dowiedz się więcej na temat [praktyk dotyczących danych konta Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informacje dotyczące lokalizacji.__ Mozilla otrzymuje adres IP użytkownika z konta Mozilla, gdy użytkownik rejestruje się i korzysta z usługi. Na podstawie adresu IP określamy przybliżoną lokalizację, ponieważ usługa Hubs jest obecnie dostępna tylko w niektórych krajach.
 

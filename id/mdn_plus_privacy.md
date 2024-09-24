@@ -13,7 +13,7 @@ Pemberitahuan privasi ini menjelaskan tentang data apa saja yang dikumpulkan, di
 
 ### Informasi yang kami kumpulkan {: #InfoWeCollect }
 
-__Informasi akun Mozilla.__ Layanan ini memerlukan akun Mozilla, yang menyediakan akses baca-saja MDN Plus ke informasi profil akun Mozilla, misalnya ID pengguna, nama tampilan, avatar, alamat email, bahasa, dan langganan produk yang aktif. Pelajari selengkapnya tentang [praktik data Akun Mozilla](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Informasi akun Mozilla.__ Layanan ini memerlukan akun Mozilla, yang menyediakan akses baca-saja MDN Plus ke informasi profil akun Mozilla, misalnya ID pengguna, nama tampilan, avatar, alamat email, bahasa, dan langganan produk yang aktif. Pelajari selengkapnya tentang [praktik data Akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Informasi akun MDN Plus.__ Saat Anda menggunakan fitur-fitur MDN Plus, kami menerima data yang diperlukan untuk menyediakan fitur-fitur tersebut kepada Anda. Misalnya, jika menyimpan halaman, kami akan menerima halaman yang Anda simpan tersebut.
 

@@ -7,7 +7,7 @@ Firefox Relay membolehkan anda mengekalkan alamat e-mel utama anda selamat dan s
 
 ### Maklumat Yang Kami Kumpul
 
-__Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan [Akaun Firefox](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox), yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Mozilla menyimpan salinan maklumat akaun anda untuk memberikan perkhidmatan, khususnya untuk mengaitkan alamat e-mel utama anda dengan alamat e-mel alias anda.
+__Maklumat Akaun Firefox.__ Perkhidmatan ini memerlukan [Akaun Firefox](https://www.mozilla.org/privacy/mozilla-accounts), yang menghantar alamat e-mel, lokasi dan alamat IP anda ke Mozilla. Mozilla menyimpan salinan maklumat akaun anda untuk memberikan perkhidmatan, khususnya untuk mengaitkan alamat e-mel utama anda dengan alamat e-mel alias anda.
 
 __Mesej e-mel.__ Untuk mengirim dan menghantar mesej e-mel anda dari alamat e-mel alias anda ke alamat e-mel utama anda, Firefox Relay memproses mesej e-mel anda. Kami tidak membaca atau menyimpan kandungan apa-apa mesej anda. Sekiranya e-mel tidak dapat dihantar kepada anda, kami akan menyimpannya pada pelayan kami dan akan menghapuskannya selepas e-mel ini dihantar (kami tidak akan menyimpannya lebih daripada tiga hari). Jika anda menggunakan ciri untuk menyekat e-mel promosi, Perkhidmatan ini akan memeriksa pengepala e-mel untuk menentukan sama ada e-mel perlu disekat.
 

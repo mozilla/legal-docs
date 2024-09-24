@@ -13,7 +13,7 @@ Deze privacyverklaring gaat in op welke gegevens Mozilla VPN verzamelt en deelt 
 
 ### Informatie die we verzamelen {: #markup }
 
-__Firefox-accountinformatie.__ Deze service vereist een Firefox-account dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla VPN verzendt. Meer informatie over [procedures voor Firefox-accountgegevens](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+__Firefox-accountinformatie.__ Deze service vereist een Firefox-account dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla VPN verzendt. Meer informatie over [procedures voor Firefox-accountgegevens](https://www.mozilla.org/privacy/mozilla-accounts).
 
 __Locatie-information.__ Mozilla VPN ontvangt uw IP-adres via uw Firefox-account wanneer u zich registreert voor de service en wanneer u deze gebruikt. We gebruiken het IP-adres om uw locatie bij benadering te bepalen omdat Mozilla VPN momenteel alleen in bepaalde landen beschikbaar is.
 
