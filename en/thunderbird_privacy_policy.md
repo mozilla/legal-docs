@@ -3,13 +3,13 @@
 Last updated September 30, 2024
 {: datetime="2024-09-30" }
 
-The Thunderbird Desktop,Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
+The Thunderbird Desktop, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
 
 This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 ## Thunderbird Collects Data To:
 
-### Improve Performance, Stability and Functionality For Our Users
+### Improve Performance, Stability, and Functionality For Our Users
 
 Thunderbird sends telemetry about your interactions with Thunderbird to us. There are two types of telemetry data: interaction data and technical data.
 
