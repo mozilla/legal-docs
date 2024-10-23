@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Verze 2.0 platná od 5. února 2024
-{: datetime="2024-02-05" }
+Verze 2.0, platná od 4. listopadu 2024
+{: datetime="2024-11-04" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
@@ -40,7 +40,7 @@ Své předplatné služeb můžete kdykoliv zrušit. Můžete tak učinit kliknu
 Službu Mozilla VPN nabízíme pouze jako placenou předplacenou službu.
 
 ### Musíte splňovat podmínky služby
-Abyste si mohli stáhnout službu Mozilla VPN a používat ji, musíte se nacházet v zemi, kde je služba dostupná. V současné době je služba dostupná v Belgii, Bulharsku, České republice, Dánsku, Estonsku, Finsku, Francii, Irsku, Itálii, Kanadě, Kypru, Litvě, Lotyšsku, Lucembursku, Maďarsku, Malajsii, Maltě, Německu, Nizozemsku, Polsku, Portugalsku, Rakousku, Rumunsku, Slovensku, Slovinsku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.  
+Abyste si mohli stáhnout službu Mozilla VPN a používat ji, musíte se nacházet v zemi, kde je služba dostupná. V tuto chvíli je služba dostupná v následujících zemích: Austrálie, Rakousko, Bangladéš, Belgie, Brazílie, Bulharsko, Kanada, Chile, Kolumbie, Chorvatsko, Kypr, Česká republika, Dánsko, Egypt, Estonsko, Finsko, Francie, Německo, Řecko, Maďarsko, Indie, Indonésie, Irsko, Itálie, Keňa, Lotyšsko, Litva, Lucembursko, Malajsie, Malta, Mexiko, Maroko, Nizozemí, Nový Zéland, Nigérie, Norsko, Polsko, Portugalsko, Rumunsko, Saúdská Arábie, Senegal, Slovensko, Slovinsko, Singapur, Jihoafrická republika, Jižní Korea, Španělsko, Švédsko, Švýcarsko, Tchaj-wan, Thajsko, Turecko, Uganda, Ukrajina, Spojené království, Spojené státy americké a Vietnam.
 
 ### Oprávnění nutná k poskytování služby Mozilla VPN
 Mozilla VPN je virtuální privátní síť provozovaná ve spolupráci se společností Mullvad. Chcete-li se dozvědět více o tom, jak služba funguje, můžete si prohlédnout zdrojový kód programu VPN společnosti Mozilla.
