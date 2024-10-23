@@ -674,39 +674,53 @@
     ]
   },
   "subscription_services_privacy_notice.md": {
-    "count": 10,
+    "count": 17,
     "has_source": true,
     "last_update": "2024-05-31",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/subscription_services_privacy_notice.md",
     "locales": [
       "cs",
       "de",
+      "el",
       "es-ES",
       "fr",
       "hu",
       "it",
+      "ko",
       "ms",
       "nl",
       "pl",
-      "ro"
+      "pt-BR",
+      "ro",
+      "tr",
+      "uk",
+      "vi",
+      "zh-TW"
     ]
   },
   "subscription_services_tos.md": {
-    "count": 10,
+    "count": 17,
     "has_source": true,
-    "last_update": "2024-02-05",
+    "last_update": "2024-11-04",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/subscription_services_tos.md",
     "locales": [
       "cs",
       "de",
+      "el",
       "es-ES",
       "fr",
       "hu",
       "it",
+      "ko",
       "ms",
       "nl",
       "pl",
-      "ro"
+      "pt-BR",
+      "ro",
+      "tr",
+      "uk",
+      "vi",
+      "zh-TW"
     ]
   },
   "thunderbird_about_rights.md": {
