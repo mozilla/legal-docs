@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Wersja 2.0, obowiązuje od 5 lutego 2024 r.
-{: datetime="2024-02-05" }
+Wersja 2.0, obowiązuje od 4 listopada 2024 r.
+{: datetime="2024-11-04" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -40,7 +40,7 @@ Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, kli
 Oferujemy usługę Mozilla VPN tylko jako płatną usługę subskrypcji.
 
 ### Użytkownik musi się kwalifikować
-Aby pobrać aplikację Mozilla VPN i korzystać z Usługi, użytkownik musi znajdować się w kraju, w którym Usługa jest dostępna. Obecnie usługa jest dostępna w Austrii, Belgii, Bułgarii, Kanadzie, Chorwacji, na Cyprze, w Czechach, Danii, Estonii, Finlandii, Francji, Niemczech, na Węgrzech, w Irlandii, we Włoszech, na Łotwie, Litwie, w Luksemburgu, Malezji, na Malcie, w Holandii, Nowej Zelandii, Polsce, Portugalii, Rumunii, Słowacji, Słowenii, Singapurze, Hiszpanii, Szwecji, Szwajcarii, Wielkiej Brytanii i Stanach Zjednoczonych.  
+Aby pobrać aplikację Mozilla VPN i korzystać z Usługi, użytkownik musi znajdować się w kraju, w którym Usługa jest dostępna. Obecnie Usługa jest dostępna w następujących krajach: Australia, Austria, Bangladesz, Belgia, Brazylia, Bułgaria, Kanada, Chile, Kolumbia, Chorwacja, Cypr, Czechy, Dania, Egipt, Estonia, Finlandia, Francja, Niemcy, Grecja, Węgry, Indie, Indonezja, Irlandia, Włochy, Kenia, Łotwa, Litwa, Luksemburg, Malezja, Malta, Meksyk, Maroko, Holandia, Nowa Zelandia, Nigeria, Norwegia, Polska, Portugalia, Rumunia, Arabia Saudyjska, Senegal, Słowacja, Słowenia, Singapur, RPA, Korea Południowa, Hiszpania, Szwecja, Szwajcaria, Tajwan, Tajlandia, Turcja, Uganda, Ukraina, Wielka Brytania, Stany Zjednoczone i Wietnam.
 
 ### Wymagane uprawnienia w celu świadczenia usługi Mozilla VPN
 Mozilla VPN to wirtualna sieć prywatna obsługiwana we współpracy z firmą Mullvad. Aby dowiedzieć się więcej o tym, jak działa usługa, można zobaczyć kod źródłowy programu VPN firmy Mozilla.

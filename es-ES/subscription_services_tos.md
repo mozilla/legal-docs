@@ -1,7 +1,7 @@
 # Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Versión 2.0, en vigor desde el lunes, 05 de febrero de 2024
-{: datetime="2024-02-05" }
+Versión 2.0, en vigor desde el lunes, 4 de noviembre de 2024
+{: datetime="2024-11-04" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como, por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
@@ -40,7 +40,7 @@ Tiene derecho a cancelar su suscripción a los Servicios en cualquier momento. P
 El servicio de Mozilla VPN solo se ofrece como un servicio de suscripción de pago.
 
 ### Requisitos para usar el Servicio
-Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, el servicio está disponible en Alemania, Austria, Bélgica, Bulgaria, Canadá, Chipre, Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estados Unidos, Estonia, Finlandia, Francia, Hungría, Irlanda, Italia, Letonia, Lituania, Luxemburgo, Malasia, Malta, Nueva Zelanda, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumanía, Singapur, Suecia y Suiza.  
+Para descargar Mozilla VPN y usar el Servicio, debe encontrarse en un país en el que esté disponible este Servicio. Actualmente, el Servicio está disponible en Alemania, Arabia Saudita, Australia, Austria, Bangladesh, Bélgica, Brasil, Bulgaria, Canadá, Chile, Chipre, Colombia, Corea del Sur, Croacia, Dinamarca, Egipto,  España, Eslovaquia, Eslovenia, Estados Unidos, Estonia, Finlandia, Francia, Grecia, Hungría, India, Indonesia, Irlanda, Italia, Kenia, Letonia, Lituania, Luxemburgo, Malasia, Malta, Marruecos, México, Nigeria, Noruega, Nueva Zelanda, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumanía, Senegal, Singapur, Sudáfrica, Suecia, Suiza, Tailandia, Taiwán, Turquía, Ucrania, Uganda y Vietnam.
 
 ### Permisos necesarios para proporcionar el servicio Mozilla VPN
 Mozilla VPN es una red privada virtual ofrecida en colaboración con Mullvad. Si desea obtener más información sobre cómo funciona el Servicio, consulte el código fuente de Mozilla para el programa VPN.
