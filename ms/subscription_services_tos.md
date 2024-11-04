@@ -1,7 +1,7 @@
 # Perkhidmatan Langganan Mozilla | Terma Perkhidmatan
 
-Versi 2.0, berkuat kuasa 05 Februari 2024
-{: datetime="2024-02-05" }
+Versi 2.0, berkuat kuasa pada 04 November 2024
+{: datetime="2024-11-04" }
 
 Mozilla Corporation menawarkan pelbagai perkhidmatan untuk meningkatkan privasi dan keselamatan anda dalam talian, termasuk Mozilla VPN dan Firefox Relay (“Perkhidmatan”).
 
@@ -40,7 +40,7 @@ Anda boleh membatalkan langganan Perkhidmatan pada bila-bila masa. Anda boleh me
 Kami hanya menawarkan Mozilla VPN sebagai perkhidmatan langganan berbayar.
 
 ### Anda Mesti Layak
-Anda mesti berada di negara yang membolehkan Perkhidmatan memuat turun Mozilla VPN dan menggunakan Perkhidmatan. Pada masa ini, Perkhidmatan tersedia di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Itali, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Belanda, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapura, Sepanyol, Sweden, Switzerland,  United Kingdom dan Amerika Syarikat.  
+Anda mestilah menetap di negara yang perkhidmatan ini tersedia untuk memuat turun Mozilla VPN dan menggunakannya. Buat masa ini, Perkhidmatan ini tersedia di Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Kanada, Chile, Colombia, Croatia, Cyprus, Republik Czech, Denmark, Mesir, Estonia, Finland, Perancis, Jerman, Greece, Hungary, India, Indonesia, Ireland, Itali, Kenya, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Morocco, Belanda, New Zealand, Nigeria, Norway, Poland, Portugal, Romania, Arab Saudi, Senegal, Slovakia, Slovenia, Singapura, Afrika Selatan, Korea Selatan, Sepanyol, Sweden, Switzerland, Taiwan, Thailand, Türkiye, Uganda, Ukraine, United Kingdom, Amerika Syarikat dan Vietnam.
 
 ### Keizinan yang Diperlukan untuk Menyediakan Mozilla VPN
 Mozilla VPN merupakan Rangkaian Peribadi Maya yang dikongsi bersama Mullvad. Untuk mengetahui lebih lanjut tentang cara Perkhidmatan berfungsi, anda boleh melihat kod sumber Mozilla untuk program VPN.
