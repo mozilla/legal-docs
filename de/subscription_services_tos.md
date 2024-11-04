@@ -1,7 +1,7 @@
 # Mozilla Abonnementdienste | Servicebedingungen
 
-Version 2.0, gültig ab Montag, 5. Februar 2024
-{: datetime="2024-02-05" }
+Version 2.0, gültig ab 4. November 2024
+{: datetime="2024-11-04" }
 
 Mozilla Corporation bietet verschiedene Dienste an, um den Datenschutz und Ihre Sicherheit online zu verbessern, darunter Mozilla VPN und Firefox Relay (die „Dienste“).
 
@@ -40,7 +40,7 @@ Sie können Ihr Abonnement der Dienste jederzeit kündigen. Dazu klicken Sie auf
 Wir bieten Mozilla VPN nur als bezahlten Abonnementdienst an.
 
 ### Sie müssen qualifiziert sein
-Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit ist der Dienst verfügbar in Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Irland, Italien, Kanada, Kroatien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Neuseeland, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Schweiz, Slowakei, Slowenien, Singapur, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich, Vereinigte Staaten und Zypern.  
+Damit Sie Mozilla VPN herunterladen und diesen Dienst nutzen können, müssen Sie sich in einem Land befinden, in dem dieser Dienst verfügbar ist. Derzeit ist der Dienst in folgenden Ländern verfügbar: Australien, Ägypten, Bangladesch, Belgien, Brasilien, Bulgarien, Chile, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Indien, Indonesien, Irland, Italien, Kanada, Kenia, Kolumbien, Kroatien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Marokko, Mexiko, Neuseeland, Niederlande, Nigeria, Norwegen, Österreich, Polen, Portugal, Rumänien, Saudi-Arabien, Schweden, Schweiz, Senegal, Singapur, Slowakei, Slowenien, Spanien, Südafrika, Südkorea, Taiwan, Thailand, Tschechische Republik, Türkei, Uganda, Ukraine, Ungarn, USA, Vereinigtes Königreich, Vietnam und Zypern.
 
 ### Zur Bereitstellung von Mozilla VPN erforderliche Berechtigungen
 Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit Mullvad. Um mehr über die Funktionsweise des Dienstes zu erfahren, können Sie den Quellcode von Mozilla für das VPN-Programm einsehen.

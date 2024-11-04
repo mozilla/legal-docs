@@ -1,7 +1,7 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-2.0-s verzió, hatálybalépés dátuma: 2024. február 5.
-{: datetime="2024-02-05" }
+2.0-s verzió, hatálybalépés dátuma: 2024. november 4.
+{: datetime="2024-11-04" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
@@ -40,7 +40,7 @@ A Szolgáltatások előfizetését bármikor lemondhatja. Ezt megteheti, ha rák
 A Mozilla VPN-t kizárólag fizetős előfizetéses szolgáltatásként kínáljuk.
 
 ### Jogosultnak kell lennie
-A Mozilla VPN letöltéséhez és a Szolgáltatás használatához olyan országban kell tartózkodnia, ahol a Szolgáltatás elérhető. A szolgáltatás jelenleg a következő országokban érhető el: Ausztria, Belgium, Bulgária, Kanada, Horvátország, Ciprus, Cseh Köztársaság, Dánia, Észtország, Finnország, Franciaország, Németország, Magyarország, Írország, Olaszország, Lettország, Litvánia, Luxemburg, Malajzia, Málta, Hollandia, Új-Zéland, Lengyelország, Portugália , Románia, Szlovákia, Szlovénia, Szingapúr, Spanyolország, Svédország, Svájc, az Egyesült Királyság és az Egyesült Államok.  
+A Mozilla VPN letöltéséhez és a Szolgáltatás használatához olyan országban kell tartózkodnia, ahol a Szolgáltatás elérhető. A Szolgáltatás jelenleg a következő országokban érhető el: Ausztrália, Ausztria, Banglades, Belgium, Brazília, Bulgária, Chile, Ciprus, Csehország, Dánia, Dél-Afrika, Dél-Korea, az Egyesült Királyság, az Egyesült Államok, Egyiptom, Észtország, Finnország, Franciaország, Görögország, Hollandia, Horvátország, India, Indonézia, Írország, Kenya, Kolumbia, Lengyelország, Lettország, Litvánia, Luxemburg, Malajzia, Málta, Marokkó, Mexikó, Németország, Nigéria, Norvégia, Olaszország, Portugália, Románia, Szaúd-Arábia, Szenegál, Szingapúr, Szlovákia, Szlovénia, Spanyolország, Svájc, Svédország, Tajvan, Thaiföld, Törökország, Uganda, Ukrajna, Új-Zéland és Vietnám.
 
 ### A Mozilla VPN biztosításához szükséges engedélyek
 A Mozilla VPN egy virtuális magánhálózat a Mullvad támogatásával. Ha többet szeretne megtudni a Szolgáltatás működéséről, tekintse meg a Mozilla VPN forráskódját.

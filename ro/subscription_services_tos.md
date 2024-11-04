@@ -1,7 +1,7 @@
 # Servicii cu abonament Mozilla | Termenii de utilizare a Serviciilor
 
-Versiunea 2.0, în vigoare de la 5 februarie 2024
-{: datetime="2024-02-05" }
+Versiunea 2.0, în vigoare de la 4 noiembrie 2024
+{: datetime="2024-11-04" }
 
 Mozilla Corporation oferă diverse servicii pentru a vă îmbunătăți confidențialitatea și securitatea online, inclusiv Mozilla VPN și Firefox Relay ("Serviciile").
 
@@ -40,7 +40,7 @@ Vă puteți anula abonamentul la Servicii în orice moment. Puteți face acest l
 Mozilla VPN este disponibil doar ca serviciu cu abonament plătit.
 
 ### Trebuie să fiți eligibil
-Pentru a putea descărca Mozilla VPN și a utiliza serviciul, trebuie să vă aflați într-o țară în care Serviciul este disponibil. În prezent, serviciul este disponibil în Austria, Belgia, Bulgaria, Canada, Croația, Cipru, Republica Cehă, Danemarca, Estonia, Finlanda, Franța, Germania, Ungaria, Irlanda, Italia, Letonia, Lituania, Luxemburg, Malaezia, Malta, Olanda, Noua Zeelandă, Polonia, Portugalia, România, Slovacia, Slovenia, Singapore, Spania, Suedia, Elveția, Regatul Unit și Statele Unite.  
+Pentru a putea descărca Mozilla VPN și a utiliza serviciul, trebuie să vă aflați într-o țară în care Serviciul este disponibil. În prezent, serviciul este disponibil în Africa de Sud, Arabia Saudită, Australia, Austria, Bangladesh, Belgia, Brazilia, Bulgaria, Canada, Chile, Cipru, Columbia, Coreea de Sud, Croația, Danemarca, Egipt, Elveția, Estonia, Finlanda, Franța, Germania, Grecia, India, Indonezia, Irlanda, Italia, Kenya, Letonia, Lituania, Luxemburg, Malaezia, Malta, Maroc, Mexic, Nigeria, Norvegia, Noua Zeelandă, Olanda, Polonia, Portugalia, Republica Cehă, Regatul Unit al Marii Britanii, România, Senegal, Singapore, Slovacia, Slovenia, Spania, Statele Unite ale Americii, Suedia, Taiwan, Thailanda, Turcia, Ucraina, Uganda, Ungaria, și Vietnam.
 
 ### Permisiuni necesare pentru a furniza Mozilla VPN
 Mozilla VPN este o rețea privată virtuală în parteneriat cu Mullvad. Pentru a afla mai multe despre modul în care funcționează Serviciul, puteți accesa codul sursă al Mozilla pentru programul VPN.
