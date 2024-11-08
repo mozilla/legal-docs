@@ -1,6 +1,6 @@
 # Masharti ya Kisheria ya Mradi wa Common Voice 
 
-Ilianza kutumika tarehe 27 Juni 2024 {: datetime="2024-06-27" }
+Kuanzia tarehe 4 Novemba 2024 {: datetime="2024-11-04" }
 
 Kupitia mradi wa Common Voice, unaweza kuchangia sauti yako, sentensi zilizoandikwa na nyenzo zingine tunazohitaji kubuni hifadhidata huria ya sauti ambayo mtu yeyote anaweza kutumia kubuni programu bunifu za utambuzi wa sauti kwa vifaa na wavuti.
 
@@ -32,11 +32,11 @@ Zaidi ya hayo, ikiwa utashiriki katika mradi wa Common Voices Spontaneous Speech
 
 Si lazima ufungue akaunti ili kushiriki katika mradi wa Common Voice. 
 
-Ukifungua akaunti, Mozilla itaomba anwani yako ya barua pepe na jina la mtumiaji unalopendelea. Au, unaweza pia kuweka picha ya ishara na data fulani binafsi ambayo itatusaidia tuelewe jinsi ya kufundisha mashine kuelewa watu wa lugha, umri, jinsia na asili tofauti.
+Ili ushiriki katika majaribio ya vipengele vya ziada katika mradi wa Common Voice (kama vile kuweka mawasilisho ya sentensi ndogo au kubwa, kuhakiki sentensi au kuweka au kunukuu vidokezo), utahitaji kufungua akaunti ya Mozilla. Unaweza kufungua akaunti ya Mozilla [hapa](https://commonvoice.mozilla.org/login). Matumizi yako ya akaunti za Mozilla yanasimamiwa na [Masharti ya Huduma ya Akaunti za Mozilla](https://www.mozilla.org/about/legal/terms/services/) na [Taarifa ya Faragha ya Akaunti za Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Iwapo utafungua akaunti, Mozilla itaomba anwani yako ya barua pepe na jina la mtumiaji unalopendelea. Au, unaweza pia kuwasilisha aikoni na data fulani binafsi kupitia Mfumo wa Common Voice. Data binafsi hutusaidia sisi na watafiti wengine kuboresha na kubuni teknolojia na zana za kunukuu matamshi.
 
 Ukishiriki katika majaribio ya Alpha au Beta ya mradi wa Common Voice Spontaneous Speech, ni lazima utoe anwani yako ya barua pepe ili tuweze kukutumia kiungo cha kuingia ili ushiriki katika mradi wa Common Voice Spontaneous Speech. 
 
-Unapotoa maelezo ya akaunti yako, unaipa Mozilla ruhusa zote zinazohitajika ili: kufuatilia maelezo kuhusu Michango yako, kuhusisha Michango hiyo na akaunti, anwani ya barua pepe, jina lako la mtumiaji na maelezo binafsi unayotoa, kuchapisha Michango yako hadharani pamoja na maelezo yoyote binafsi, na kuchapisha vipimo kuhusu Michango yako (kama vile idadi ya rekodi na lugha) pamoja na jina lako la mtumiaji kwenye ubao wa wanaoongoza.
+Unapotoa maelezo ya akaunti yako ya Mozilla inayohusiana na mradi wa Common Voice, unaipa Mozilla ruhusa zote zinazohitajika ili: kufuatilia maelezo kuhusu Michango yako, kuhusisha Michango hiyo na akaunti yako, anwani ya barua pepe, jina la mtumiaji na maelezo binafsi unayotoa, kuchapisha Michango yako hadharani pamoja na maelezo yoyote binafsi, na kuchapisha vipimo kuhusu Michango yako (kama vile idadi ya rekodi na lugha) pamoja na jina lako la mtumiaji kwenye ubao wa wanaoongoza.  
 
 Mozilla haitachapisha au kutoa hadharani anwani yako ya barua pepe. 
 
@@ -44,7 +44,7 @@ Unaweza kuchagua kutoonekana kwenye bao za wanaoongoza. Ukifanya hivyo, Mozilla 
 
 ## 4. Mawasiliano
 
-Iwapo utajisajili ili kupokea majarida yetu au ukifungua akaunti inayohusiana na mradi wa Common Voice, unaweza kupokea barua pepe kutoka kwetu kuhusiana na akaunti yako. 
+Iwapo utajisajili ili kupokea majarida yetu au ukifungua akaunti ya Mozilla inayohusiana na mradi wa Common Voice, unaweza kupokea barua pepe kutoka kwetu kuhusiana na akaunti yako. 
 
 ## 5. Makanusho
 
