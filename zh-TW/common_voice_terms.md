@@ -1,6 +1,6 @@
 # Common Voice 法律條款 
 
-2024 年 6 月 27 日起生效 {: datetime="2024-06-27" }
+2024 年 11 月 4 日起生效 {: datetime="2024-11-04" }
 
 您可以透過 Common Voice 捐出您的聲音、書寫字句，以及各種我們建立開放原始碼語音資料庫所需的資源，好讓任何人都得以使用這個資料庫在裝置及網路上打造創新的語音辨識應用程式。
 
@@ -14,7 +14,7 @@ Common Voice 屬於 Mozilla 社群所有，因此如果您打算加入，即表�
 
 ## 2.您的貢獻
 
-Mozilla Common Voice 資料庫乃是按照 [Creative Commons CC0 公眾領域貢獻宣告](https://creativecommons.org/publicdomain/zero/1.0/)建立而成，這表示此資料庫為公開性質，同時我們也會在法律允許的範圍內放棄所有著作權。如果您參與 Common Voice，則您也必須如此。您同意，Mozilla 得按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 公眾領域貢獻宣告，將您貢獻給 Common Voice 的所有內容，包括文字、錄音、驗證、意見回饋 (下稱「貢獻內容」) 提供給公眾使用。 
+Mozilla Common Voice 資料集乃是按照 [Creative Commons CC0 公眾領域貢獻宣告](https://creativecommons.org/publicdomain/zero/1.0/)建立而成，這表示此資料庫為公開性質，同時我們也會在法律允許的範圍內放棄所有著作權。如果您參與 Common Voice，則您也必須如此。您同意，Mozilla 得按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 公眾領域貢獻宣告，將您貢獻給 Common Voice 的所有內容，包括文字、錄音、驗證、意見回饋 (下稱「貢獻內容」) 提供給公眾使用。 
 
 為參與 Common Voice，Mozilla 還必須要求您保證三件事： 
 
@@ -32,11 +32,11 @@ Mozilla Common Voice 資料庫乃是按照 [Creative Commons CC0 公眾領域貢
 
 您不用建立帳戶也能參與 Common Voice。 
 
-如果建立帳戶的話，Mozilla 會要求取得您的電子郵件地址以及您自選的使用者名稱。另外，您也可以提供頭像以及部分人口統計資料，幫助我們了解如何教導機器學習判別不同腔調、年紀、性別、背景的人所說的話。
+若要參加使用 Common Voice 其他部分功能 (例如追加提出少量或大量語句、檢閱語句，新增指令，或轉寫指令)，需建立 Mozilla 帳戶。您可以到[此處](https://commonvoice.mozilla.org/mozaws.net/signin)建立 Mozilla 帳戶。使用 Mozilla 帳戶時，須遵守 [Mozilla 帳戶服務條款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帳戶隱私權公告](https://www.mozilla.org/privacy/mozilla-accounts/)。如果建立帳戶的話，Mozilla 會要求取得您的電子郵件地址以及您自選的使用者名稱。您可能需透過 Common Voice 平台提供大頭照，以及特定人口統計資料。人口統計資料可以幫助我們和其他研究人員改善並創造語音轉文字的技術與工具。
 
 Common Voice Spontaneous Speech (自發性語言) 專案的 Alpha 或 Beta 測試參加者必須提供電子郵件地址，我們才能傳送連結給您登入並參加 Common Voice Spontaneous Speech 專案。 
 
-如果您提供帳戶資訊，表示您授予 Mozilla 所有必要權限，以便：追蹤貢獻內容相關資訊；將貢獻內容和帳戶、電子郵件、使用者名稱和您提供的人口統計資料連結；公開發佈您的貢獻內容，並附上任何人口統計資訊；以及透過排行榜發佈貢獻內容相關統計數據 (如錄音和語言數量)，並附上您的使用者名稱。
+如果您因為使用 Common Voice 而提供 Mozilla 帳戶資訊，表示您授予 Mozilla 所有必要權限，以便：追蹤貢獻內容相關資訊；將貢獻內容和帳戶、電子郵件、使用者名稱和您提供的人口統計資料連結；公開發佈您的貢獻內容，並附上任何人口統計資訊；以及透過排行榜發佈貢獻內容相關統計數據 (如錄音和語言數量)，並附上您的使用者名稱。  
 
 Mozilla 不會公開張貼或發佈您的電子郵件地址。 
 
@@ -44,7 +44,7 @@ Mozilla 不會公開張貼或發佈您的電子郵件地址。
 
 ## 4.通訊
 
-如果您訂閱我們的電子報，或註冊 Common Voice 相關帳戶，則您可能會收到我們就您的帳戶事宜所寄送的電子郵件。 
+如果您因為使用 Common Voice 而訂閱我們的電子報，或註冊 Mozilla 帳戶，可能會收到帳戶事宜相關電子郵件。 
 
 ## 5.免責聲明
 

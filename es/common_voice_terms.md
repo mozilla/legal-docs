@@ -1,6 +1,6 @@
 # Términos legales de Common Voice
 
-En vigor desde el día jueves, 27 de junio de 2024 {: datetime="2024-06-27" }
+En vigor desde el lunes, 4 de noviembre de 2024 {: datetime="2024-11-04" }
 
 Colabore con nosotros a través de Common Voice donando su voz, frases escritas y otros recursos para construir una base de datos de voz de código abierto disponible para cualquier persona que desee crear aplicaciones innovadoras de reconocimiento de voz para dispositivos y la web.
 
@@ -14,7 +14,7 @@ Common Voice forma parte de la comunidad de Mozilla. Es decir, que si decide par
 
 ## 2. Tus contribuciones
 
-Ponemos la base de datos de Common Voice de Mozilla a disposición bajo la [dedicación de dominio público Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Eso significa que es pública y hemos renunciado a todos los derechos de autor en la medida en que podamos bajo la ley. Si participas en Common Voice, requerimos que hagas lo mismo. Aceptas que Mozilla puede ofrecer al público todas tus contribuciones a Common Voice, incluyendo texto, grabaciones, validaciones y comentarios (las "Contribuciones") bajo la dedicación de dominio público de [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 
+Ponemos el conjunto de datos de Common Voice de Mozilla a disposición bajo la [dedicación de dominio público Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/). Eso significa que es pública y hemos renunciado a todos los derechos de autor en la medida en que podamos bajo la ley. Si participas en Common Voice, requerimos que hagas lo mismo. Aceptas que Mozilla puede ofrecer al público todas tus contribuciones a Common Voice, incluyendo texto, grabaciones, validaciones y comentarios (las "Contribuciones") bajo la dedicación de dominio público de [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 
 
 Para participar en Common Voice, Mozilla también requiere que nos des tres garantías: 
 
@@ -32,11 +32,11 @@ Además, si participas en el proyecto Common Voice Spontaneous Speech, aceptas n
 
 No es necesario que cree una cuenta para participar en Common Voice. 
 
-Si creas una cuenta, Mozilla te pedirá tu dirección de correo electrónico y un nombre de usuario de tu elección. Opcionalmente, también puedes proporcionar un avatar y ciertos datos demográficos que nos ayudarán a entender cómo enseñar a las máquinas a entender a las personas con diferentes acentos, edades, sexos y antecedentes.
+Para participar en algunas características adicionales de Common Voice (como agregar envíos de oraciones pequeñas o masivas, revisar oraciones o añadir o transcribir mensajes), necesitarás crear una cuenta de Mozilla. Puedes crear una cuenta de Mozilla [aquí](https://commonvoice.mozilla.org/mozaws.net/signin). Tu uso de las cuentas de Mozilla se rige por los [Términos de servicio de las cuentas de Mozilla](https://www.mozilla.org/about/legal/terms/services/) y el [Aviso de privacidad de las cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Si creas una cuenta, Mozilla te pedirá tu dirección de correo electrónico y un nombre de usuario de tu elección. Opcionalmente, también puedes proporcionar un avatar y ciertos datos demográficos a través de la plataforma de Common Voice. Los datos demográficos nos ayudan a nosotros y a otros investigadores a mejorar y crear tecnología y herramientas de voz a texto.
 
 Si participas en las pruebas Alfa o Beta del proyecto Common Voice Spontaneous Speech, debes proporcionar tu dirección de correo electrónico para que podamos enviarte un enlace para iniciar sesión y participar en el proyecto Common Voice Spontaneous Speech. 
 
-Cuando proporcionas información para tu cuenta, le das a Mozilla todos los permisos necesarios para: realizar un seguimiento de la información sobre tus contribuciones, asociar esas contribuciones con tu cuenta, correo electrónico, nombre de usuario e información demográfica que proporcionas, publicar tus Contribuciones públicamente junto con cualquier información demográfica, y publicar métricas sobre tus Contribuciones (como el número de grabaciones e idiomas) junto con tu nombre de usuario en la tabla de clasificación.
+Cuando proporcionas información para tu cuenta de Mozilla en relación con Common Voice, le das a Mozilla todos los permisos necesarios para: realizar un seguimiento de la información sobre tus contribuciones, asociar esas contribuciones con tu cuenta, correo electrónico, nombre de usuario e información demográfica que proporcionas, publicar tus Contribuciones públicamente junto con cualquier información demográfica, y publicar métricas sobre tus Contribuciones (como el número de grabaciones e idiomas) junto con tu nombre de usuario en la tabla de clasificación.  
 
 Mozilla no publicará públicamente ni revelará su dirección de correo electrónico.
 
@@ -44,7 +44,7 @@ Puede optar por no aparecer en las tablas de clasificación, si no lo desea. Per
 
 ## 4. Mensajes
 
-Si se suscribe para recibir nuestros boletines o se registra para obtener una cuenta en relación con Common Voice, es posible que reciba mensajes de correo electrónico nuestros relacionados con su cuenta.
+Si te suscribes para recibir nuestros boletines de noticias o creas una cuenta de Mozilla en relación con Common Voice, puedes recibir correo electrónico de nosotros en relación con tu cuenta. 
 
 ## 5. Descargo de responsabilidades
 
@@ -77,3 +77,4 @@ Las contribuciones que envíes a Mozilla seguirán estando disponibles públicam
 ## 9. Ley aplicable
 
 La ley de California se aplica a estos Términos. Estos Términos son el acuerdo completo entre tú y Mozilla con respecto a Common Voice. 
+
