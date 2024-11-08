@@ -8,7 +8,7 @@ Mozilla（就是我們）收到您提出的資訊後，我們的 [Mozilla 隱私
 
 * **人口統計資料。** 您可以選擇提供您的腔調、年紀、性別等資料。這可以幫助我們和其他研究人員改善並創造語音轉文字的技術與工具。
 
-* **帳戶資料.** 您不需要建立帳戶也能使用 Common Voice。如果您決定建立帳戶，需到[此處](https://commonvoice.mozilla.org/mozaws.net/signin)建立 Mozilla 帳戶。我們會在您提出後收到使用者名稱和大頭照資料。使用 Mozilla 帳戶時，須遵守 [Mozilla 帳戶服務條款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帳戶隱私權公告](https://www.mozilla.org/privacy/mozilla-accounts/)。您的電子郵件地址會連結到您的人口統計資料和互動資料，但是不會公開分享。我們的排行榜會顯示使用者錄音的數量。您可以選擇要不要顯示在排行榜上。您隨時都可以刪除帳戶，刪除後系統會移除您的使用者名稱和電子郵件。您隨時都可以刪除 Mozilla 帳戶，刪除後系統會移除您的使用者名稱和電子郵件。
+* **帳戶資料.** 您不需要建立帳戶也能使用 Common Voice。如果您決定建立帳戶，需到[此處](https://commonvoice.mozilla.org/login)建立 Mozilla 帳戶。我們會在您提出後收到使用者名稱和大頭照資料。使用 Mozilla 帳戶時，須遵守 [Mozilla 帳戶服務條款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帳戶隱私權公告](https://www.mozilla.org/privacy/mozilla-accounts/)。您的電子郵件地址會連結到您的人口統計資料和互動資料，但是不會公開分享。我們的排行榜會顯示使用者錄音的數量。您可以選擇要不要顯示在排行榜上。您隨時都可以刪除帳戶，刪除後系統會移除您的使用者名稱和電子郵件。您隨時都可以刪除 Mozilla 帳戶，刪除後系統會移除您的使用者名稱和電子郵件。
 
 * **電子郵件。** Common Voice Spontaneous Speech (自發性語言) 專案的 Alpha 或 Beta 測試參加者必須提供電子郵件地址，我們才能傳送連結給您登入並參加 Common Voice Spontaneous Speech 專案。您隨時都可以建立 Mozilla 帳戶 (如上所述)。如果您在完成 Alpha 或 Beta 測試時，尚未建立 Mozilla 帳戶，我們會在每次測試計畫完成後的兩個星期內刪除您的電子郵件地址。Beta 測試部分參加類型 (例如資源數超低的語言) 可能不需要使用電子郵件登入。
 

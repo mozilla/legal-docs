@@ -32,7 +32,7 @@ Mozilla Common Voice 資料集乃是按照 [Creative Commons CC0 公眾領域貢
 
 您不用建立帳戶也能參與 Common Voice。 
 
-若要參加使用 Common Voice 其他部分功能 (例如追加提出少量或大量語句、檢閱語句，新增指令，或轉寫指令)，需建立 Mozilla 帳戶。您可以到[此處](https://commonvoice.mozilla.org/mozaws.net/signin)建立 Mozilla 帳戶。使用 Mozilla 帳戶時，須遵守 [Mozilla 帳戶服務條款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帳戶隱私權公告](https://www.mozilla.org/privacy/mozilla-accounts/)。如果建立帳戶的話，Mozilla 會要求取得您的電子郵件地址以及您自選的使用者名稱。您可能需透過 Common Voice 平台提供大頭照，以及特定人口統計資料。人口統計資料可以幫助我們和其他研究人員改善並創造語音轉文字的技術與工具。
+若要參加使用 Common Voice 其他部分功能 (例如追加提出少量或大量語句、檢閱語句，新增指令，或轉寫指令)，需建立 Mozilla 帳戶。您可以到[此處](https://commonvoice.mozilla.org/login)建立 Mozilla 帳戶。使用 Mozilla 帳戶時，須遵守 [Mozilla 帳戶服務條款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帳戶隱私權公告](https://www.mozilla.org/privacy/mozilla-accounts/)。如果建立帳戶的話，Mozilla 會要求取得您的電子郵件地址以及您自選的使用者名稱。您可能需透過 Common Voice 平台提供大頭照，以及特定人口統計資料。人口統計資料可以幫助我們和其他研究人員改善並創造語音轉文字的技術與工具。
 
 Common Voice Spontaneous Speech (自發性語言) 專案的 Alpha 或 Beta 測試參加者必須提供電子郵件地址，我們才能傳送連結給您登入並參加 Common Voice Spontaneous Speech 專案。 
 
