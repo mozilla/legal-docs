@@ -32,7 +32,7 @@ Common Voice 是 Mozilla 社区的组成部分。因此，如果您选择参与�
 
 您无需创建帐户即可参与 Common Voice 项目。 
 
-若要使用 Common Voice 的某些附加功能（例如，添加小句或大句提交、检查句子、添加或转录提示），您将需要创建 Mozilla 帐户。您可以在[此处](https://commonvoice.mozilla.org/mozaws.net/signin)创建 Mozilla 帐户。使用 Mozilla 帐户期间需遵循 [Mozilla 帐户服务条款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帐户隐私声明](https://www.mozilla.org/privacy/mozilla-accounts/)。如果创建帐户，Mozilla 将要求您提供电子邮件地址和选择的用户名。您也可以选择通过 Common Voice 平台提供头像和某些人口统计数据。人口统计数据有助于我们及其他研究人员改进和创建语音转文本技术和工具。
+若要使用 Common Voice 的某些附加功能（例如，添加小句或大句提交、检查句子、添加或转录提示），您将需要创建 Mozilla 帐户。您可以在[此处](https://commonvoice.mozilla.org/login)创建 Mozilla 帐户。使用 Mozilla 帐户期间需遵循 [Mozilla 帐户服务条款](https://www.mozilla.org/about/legal/terms/services/)和 [Mozilla 帐户隐私声明](https://www.mozilla.org/privacy/mozilla-accounts/)。如果创建帐户，Mozilla 将要求您提供电子邮件地址和选择的用户名。您也可以选择通过 Common Voice 平台提供头像和某些人口统计数据。人口统计数据有助于我们及其他研究人员改进和创建语音转文本技术和工具。
 
 如果参与 Common Voice 自发语音项目 Alpha 或 Beta 测试，则必须提供电子邮件地址，以便我们向您发送参与 Common Voice 自发语音项目的登录链接。 
 
