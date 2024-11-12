@@ -56,9 +56,9 @@
     "locales": []
   },
   "common_voice_privacy_notice.md": {
-    "count": 51,
+    "count": 53,
     "has_source": true,
-    "last_update": "2024-06-27",
+    "last_update": "2024-11-04",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_privacy_notice.md",
     "locales": [
       "ab",
@@ -82,6 +82,7 @@
       "fy",
       "ga",
       "he",
+      "hi",
       "id",
       "it",
       "ja",
@@ -110,14 +111,15 @@
       "tr",
       "tt",
       "uk",
+      "ur",
       "zh-CN",
       "zh-TW"
     ]
   },
   "common_voice_terms.md": {
-    "count": 51,
+    "count": 53,
     "has_source": true,
-    "last_update": "2024-06-27",
+    "last_update": "2024-11-04",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_terms.md",
     "locales": [
       "ab",
@@ -141,6 +143,7 @@
       "fy",
       "ga",
       "he",
+      "hi",
       "id",
       "it",
       "ja",
@@ -169,6 +172,7 @@
       "tr",
       "tt",
       "uk",
+      "ur",
       "zh-CN",
       "zh-TW"
     ]
