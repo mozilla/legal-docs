@@ -14,7 +14,7 @@ Ketika Mozilla (kami) menerima informasi dari Anda, [Kebijakan Privasi Mozilla](
 
 * **Buletin.** Anda dapat berlangganan buletin kami. Dengan begitu, kami akan menerima alamat email Anda. Anda dapat berhenti berlangganan kapan saja, sehingga email Anda akan dihapus dari daftar distribusi buletin.
 
-* **Rekaman Suara.** Rekaman suara, beserta data demografis yang diberikan secara opsional, mungkin tersedia di basis data Common Voice untuk konsumsi dan penggunaan publik berdasarkan Lisensi Creative Commons ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+* **Rekaman Suara.** Rekaman suara, beserta data demografis yang diberikan secara opsional, mungkin tersedia di basis data Common Voice untuk konsumsi dan penggunaan publik berdasarkan Lisensi Creative Commons Zero [(CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 * **Teks.** Jika Anda mengirimkan kalimat tertulis, mungkin kami juga menyediakannya di basis data Common Voice untuk konsumsi publik berdasarkan [CC0](https://creativecommons.org/publicdomain/zero/1.0/), sesuai dengan semua sampel kami. Kami tidak akan mengaitkan kalimat ini dengan data demografis yang Anda kirimkan.
 
@@ -23,5 +23,4 @@ Ketika Mozilla (kami) menerima informasi dari Anda, [Kebijakan Privasi Mozilla](
 * **Data teknis.** Kami menggunakan Google Analytics untuk lebih memahami cara Anda berinteraksi dengan aplikasi atau situs web Common Voice. Misalnya, kami mungkin menggunakan kuki untuk melacak informasi tanpa identitas seperti jumlah sampel suara yang Anda rekam atau dengarkan, interaksi dengan tombol dan menu, serta durasi sesi. Kami juga mengumpulkan data URL dan judul laman Common Voice yang Anda kunjungi. Agar konsisten meningkatkan pengalaman Common Voice, kami mengumpulkan informasi tentang jenis dan versi peramban, ukuran viewport, dan resolusi layar Anda. Informasi ini memungkinkan kami memahami cara orang berinteraksi dengan Common Voice agar kami dapat menyempurnakannya. Kami juga mengumpulkan data lokasi dan pengaturan bahasa di peramban Anda agar sesuai dengan Anda. Jika Anda memilih untuk menolak pengumpulan data Google Analytics, Anda bisa menginstal [Add-on Browser Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout), yang akan menghentikan pengiriman data ke Google Analytics. 
 
 [Pelajari selengkapnya](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
-
 
