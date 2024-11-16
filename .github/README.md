@@ -4,8 +4,8 @@ List of translated files (number of locales between parentheses):
 
 * acceptable_use_policy.md (13)
 * amo_policies.md (13)
-* common_voice_privacy_notice.md (53)
-* common_voice_terms.md (53)
+* common_voice_privacy_notice.md (10)
+* common_voice_terms.md (10)
 * content_moderation_practices.md (13)
 * firefox_about_rights.md (12)
 * firefox_cloud_services_tos.md (12)
