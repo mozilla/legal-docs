@@ -115,4 +115,5 @@ USA
 compliance@mozilla.com
 
 [See here for Data Subject Access Requests](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you are under 13, we don’t want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please contact us to have your child’s information removed.
+
 For product support requests, please [visit our forums](https://support.mozilla.org/).
