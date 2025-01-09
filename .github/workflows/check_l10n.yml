@@ -19,10 +19,6 @@ jobs:
     name: L10n automation
     runs-on: ubuntu-latest
     steps:
-      - name: Install Linux packages
-        run: |
-          sudo apt update
-          sudo apt install git hub -y
       - name: Clone repository
         uses: actions/checkout@v4
         with:
@@ -81,7 +77,12 @@ jobs:
             echo "No changes."
           else
             # Create pull request
-            hub pull-request -m "[l10n] Source document updates" -h l10n_updates -b l10n_reference -l l10n -r @mozilla/legal-l10n
+            gh pr create \
+              --title "[l10n] Source document updates" \
+              --head l10n_updates \
+              --base l10n_reference \
+              --label l10n \
+              --reviewer @mozilla/legal-l10n
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}
