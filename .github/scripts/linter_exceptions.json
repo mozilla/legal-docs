@@ -1,4 +1,7 @@
 {
     "anchors": [],
-    "links": {}
+    "links": {
+        "zh-CN/firefox_privacy_notice.md": [
+            "+https://support.mozilla.org/kb/scan-qr-codes-firefox-android"
+        ]}
 }
