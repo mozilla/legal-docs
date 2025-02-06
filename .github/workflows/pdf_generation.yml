@@ -69,6 +69,7 @@ jobs:
             # Create pull request
             gh pr create \
               --title "[pdf] Update documents in PDF format" \
+              --body "Convert documents to PDF" \
               --head pdf_updates \
               --base main \
               --label l10n \

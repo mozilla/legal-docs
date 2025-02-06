@@ -72,6 +72,7 @@ jobs:
             # Create pull request
             gh pr create \
               --title "[prod] Publish document updates" \
+              --body "Publish documents to production" \
               --head prod_updates \
               --base prod \
               --label prod \
