@@ -13,18 +13,10 @@ def convertMdToHTML(file_path):
     output = io.BytesIO()
     try:
         # Parse the Markdown file
-        """
         md.markdownFromFile(
             input=str(file_path),
             output=output,
-            extensions=["markdown.extensions.attr_list",
-                        "markdown.extensions.toc", OutlineExtension((("wrapper_cls", ""),))],
-        )
-        """
-        md.markdownFromFile(
-            input=str(file_path),
-            output=output,
-            extensions=["markdown.extensions.attr_list", "markdown.extensions.toc"],
+            extensions=["markdown.extensions.attr_list", "markdown.extensions.toc", "tables"],
         )
         content = output.getvalue().decode("utf-8")
     except OSError:

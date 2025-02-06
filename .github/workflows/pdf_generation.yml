@@ -8,6 +8,7 @@ on:
       - '**.md'
       - '**.json'
       - '.github/workflows/pdf_generation.yml'
+      - '.github/requirements.txt'
       # Ignore Markdown files in the root
       - '!*.md'
   # Allows you to run this workflow manually from the Actions tab
