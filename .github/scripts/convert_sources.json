@@ -1,5 +1,6 @@
 {
-    "files": [
+    "html": [],
+    "pdf": [
         "firefox_relay_privacy_notice.md",
         "firefox_relay_tos.md",
         "hubs_privacy_notice.md",
