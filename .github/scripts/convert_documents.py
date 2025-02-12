@@ -4,9 +4,10 @@ import io
 import json
 import os
 import markdown as md
-from weasyprint import HTML
-from pathlib import Path
 from functions import findAllFiles
+from pathlib import Path
+from textwrap import dedent
+from weasyprint import HTML
 
 
 def convertMdToHTML(file_path):
@@ -45,29 +46,50 @@ def main():
     files_list = findAllFiles(root_path)
 
     for locale, filenames in files_list.items():
-        for f in filenames:
-            if f in files_to_convert:
+        for filename in filenames:
+            if filename in files_to_convert:
                 locale_folder = os.path.join(root_path, locale)
-                source_file = os.path.join(locale_folder, f)
+                source_file = os.path.join(locale_folder, filename)
 
                 # Convert Markdown to HTML
                 html_content = convertMdToHTML(source_file)
 
                 # Save HTML file if requested, creating `html` folder if missing
-                if f in html_files:
+                if filename in html_files:
                     Path(os.path.join(locale_folder, "html")).mkdir(exist_ok=True)
                     html_dest_file = os.path.join(
-                        locale_folder, "html", f"{f.rstrip('.md')}.html"
+                        locale_folder, "html", f"{filename.rstrip('.md')}.html"
                     )
-                    with open(html_dest_file, "w", encoding="utf-8") as f:
-                        f.write(html_content)
+                    with open(html_dest_file, "w", encoding="utf-8") as output_file:
+                        output_file.write(html_content)
 
                 # Save PDF file if requested, creating `pdf` folder if missing
-                if f in pdf_files:
+                if filename in pdf_files:
                     Path(os.path.join(locale_folder, "pdf")).mkdir(exist_ok=True)
                     pdf_dest_file = os.path.join(
-                        locale_folder, "pdf", f"{f.rstrip('.md')}.pdf"
+                        locale_folder, "pdf", f"{filename.rstrip('.md')}.pdf"
                     )
+                    # If the HTML includes <table> elements, add some basic CSS
+                    # for readability.
+                    if "<table>" in html_content:
+                        css = """
+                            <style>
+                            table {
+                                width: 100%;
+                                border-collapse: collapse;
+                                border: 1px solid #CCC;
+                            }
+                            th, td {
+                                border: 1px solid #CCC;
+                                padding: 8px;
+                            }
+                            
+                            th {
+                                background-color: #EEE;
+                            }
+                            </style>
+                        """
+                        html_content = dedent(css) + html_content
                     # Convert HTML to PDF
                     HTML(string=html_content).write_pdf(pdf_dest_file)
 
