@@ -1,87 +1,7 @@
 # **Firefox Privacy Notice**
 
-### **You’re in control** 
-
-Privacy isn’t just a setting—it’s your right. The Firefox Privacy Notice is built on clarity, control and responsible defaults. We believe you should always be in charge of what happens with your data. You can count on us to clearly explain what Firefox does by default and adjust your settings so you can browse the way you want.
-
-**CTA**
-
-Read our Privacy Notice
-
-### 
-
-### **Keeping you informed, every step of the way** 
-
-### We believe you should know how your data is used and why. Firefox is built with privacy in mind and transparency at every step. 
-
-## **Transparency first**
-
-## We're clear about what data we use and why. No surprises. The Firefox Privacy Notice details this for you.
-
-## 
-
-## **How we use data** 
-
-## We use data to keep Firefox running smoothly, improve features and help sustain our business — all while respecting your privacy. Some optional features may require additional data to function, and we make it easy to manage your preferences. 
-
-## 
-
-## 
-
-## **Built-in control**
-
-## Firefox gives you simple, yet powerful tools to manage your data the way you want.
-
-## You can fine-tune your settings, separate work from your personal life or erase unwanted history with just a few clicks.
-
-## 
-
-## **Always protected**
-
-## Firefox protects you from known third-party trackers, social media trackers, cryptominers, cookies and fingerprinting technologies that try to follow you around the web.
-
-## 
-
-## **Privacy that works for you**
-
-### Firefox makes it easy to manage your data with built-in privacy and security features, plus settings that let you fine-tune your browsing experience. 
-
-**Manage your privacy settings**
-
-[Firefox for Desktop](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop#w_adjust-your-global-enhanced-tracking-protection-settings)  
-[Firefox for](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-ios) [Mobile](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-android)
-
-## 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### **Quick Navigation (side navigation)**
-
-How is your data used?
-
-How is your data shared?
-
-How long is your data kept?
-
-Your rights and choices
-
-What happens with international data transfers? 
-
-Applicability and changes
-
-Types of data defined
-
-Lawful bases
-
-## 
+Effective February 25, 2025
+{: datetime="2025-02-25" }
 
 ## **At Mozilla, we believe that privacy is fundamental to a healthy internet**
 
@@ -326,7 +246,3 @@ We may need to change this policy and our notices, in which case the updates wil
 [Amazon.com](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)  
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)  
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-
-Take me back to the top
-
-Lost in the details? Get back to the Firefox privacy basics.
