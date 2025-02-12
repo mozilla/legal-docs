@@ -19,7 +19,7 @@ Some Firefox features, like automated [translation](https://support.mozilla.org/
 
 #### To adapt Firefox to your needs
 
-Firefox processes a variety of personal data in a way that does not leave your device, such as browsing history, web form data, temporary internet files, and cookies. This means the data stays on your device and is not sent to Mozilla’s servers unless it says otherwise in this Notice. If you choose to allow it, your precise location may also be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for \- it is not sent to Mozilla's servers. 
+Firefox processes a variety of personal data in a way that does not leave your device, such as browsing history, web form data, temporary internet files, and cookies. This means the data stays on your device and is not sent to Mozilla’s servers unless it says otherwise in this Notice. If you choose to allow it, your precise location may also be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for — it is not sent to Mozilla's servers. 
 
 *More details, including how to adjust your data settings:* Data processed on your device remains in your control. You can [manage your browsing data](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) and your [local storage settings](https://support.mozilla.org/kb/storage?as=u&utm_source=inproduct&redirectslug=permission-store-data&redirectlocale=en-US), or update your [location permissions](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) at any time. 
 
@@ -147,7 +147,7 @@ Our services also use encrypted backup storage as another layer of protection to
 
 As a Firefox user, you have the right to:
 
-1. Be informed about what data we process about you, why and who it’s shared with (that’s this Notice\!)  
+1. Be informed about what data we process about you, why and who it’s shared with (that’s this Notice!)  
 2. Request a copy of the data we have about you   
 3. Request portability of your data  
 4. Request correction of any data we hold about you that is inaccurate or incomplete  
@@ -199,7 +199,7 @@ We may need to change this policy and our notices, in which case the updates wil
 | Location | We infer your location from your IP address at the level of your country, city, or region. | Country code, city.  |
 | Precise Location | Your precise location (within a few feet or meters). | Precise location.  |
 | Language preference | Your inferred or preferred language (if you provide it in settings) for interacting with our services. | Language.  |
-| Unique identifiers  | These are unique identifiers, which may be created at various times to manage your interactions with the service.  | Client\_id, session\_id, cookie identifiers.  |
+| Unique identifiers  | These are unique identifiers, which may be created at various times to manage your interactions with the service.  | Client_id, session_id, cookie identifiers.  |
 | System performance data | This is data about how the services are operating on your device.  | Memory usage, page rendering speed. |
 | Interaction data | This is data about how you engage with our services, such as how many tabs you have open or what you’ve clicked on.  | Click counts, impression data, attribution data, how many searches performed, time on page, ad and sponsored tile clicks.  |
 | Browsing data | This is information about websites and URLs you’ve visited. This could include categories of browsing data (travel, shopping, social media), top level domains (example.com) or specific web pages visited.  | Browsing category, Top Level Domains (TLDs), specific URLs.  |
