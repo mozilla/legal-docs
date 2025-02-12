@@ -1,7 +1,7 @@
 # Firefox Terms of Use
 
-Version 1.0, effective March 4, 2025
-{: datetime="2025-03-04" }
+Effective February 25, 2025
+{: datetime="2025-02-25" }
 
 Firefox is free and open source web browser software, built by a community of thousands from all over the world.
 
