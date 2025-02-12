@@ -129,8 +129,9 @@ We may also be required to process your personal data to comply with applicable 
 	  
 To provide our services as described above, we may disclose personal data to: 
 
-| Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions.  |
+|  |  |
 | :---- | :---- |
+| Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions.  |
 | [Authorities](#bookmark-authorities)  | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity.  |
 | Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
 | Mozilla controlled entities and successors  | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
