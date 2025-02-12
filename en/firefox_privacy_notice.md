@@ -83,7 +83,7 @@ We also need to process data to keep Firefox operational, improve features and p
 
 On desktop and iOS, if Firefox encounters an unexpected issue, the [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) will also ask if you wish to send us additional information, which may include sites that were open at the time of the crash and other browsing data. On Desktop and Android if you opt in to sending us crash reports automatically, we collect this information without prompting you each time; on iOS, crash reports contain less information and are sent automatically to us by default. You can change your settings at any time. 
 
-*More information, including how to adjust your data settings:* You can [learn more](https://support.mozilla.org/kb/shield) about the studies you’re enrolled in and opt out of all (or a specific) studies at any time, and opt into experimental features through [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox).  \[Add link to new “telemetry” page\]. 
+*More information, including how to adjust your data settings:* You can [learn more](https://support.mozilla.org/kb/shield) about the studies you’re enrolled in and opt out of all (or a specific) studies at any time, and opt into experimental features through [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). You can also [learn more](https://support.mozilla.org/kb/technical-and-interaction-data) about the technical and interaction data we process, including how to turn it off.
 
 #### To improve security 
 
