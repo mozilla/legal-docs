@@ -209,23 +209,223 @@ We may need to change this policy and our notices, in which case the updates wil
 
 ## Lawful Bases
 
-| <a id="bookmark-how-we-use-data"></a>What we use your data for | What data we process | Our lawful basis | More information, including choosing how you want to share this data in Firefox |
-| :---- | :---- | :---- | :---- |
-| To provide you with the Firefox browser    | <ul> <li>Technical data</li> <li>Location</li> <li>Language preference</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> </ul> | **Contract** to provide you with the necessary functionality for Firefox to operate.  **Legitimate interest** in providing additional functionality, accessibility services and a more personalized experience.  | You can read more detailed information about the information we collect for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) or [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time. You can also learn more about [translation](https://support.mozilla.org/kb/website-translation) and [adding alt-text to images in PDFs](https://support.mozilla.org/kb/pdf-alt-text).  |
-| To adapt Firefox to your needs | <ul> <li>Any data type</li> </ul> | **Legitimate interest** in making the data on your device work for you. **Consent** where you choose to allow websites (like Google Maps) with access to your precise location to enable location-related functionality.  | Data processed on your device remains in your control. You can manage your [local storage settings](https://support.mozilla.org/kb/storage) or [clear your browsing history](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) at any time. |
-| To provide and improve search functionality   | <ul> <li>Technical data</li> <li>Location</li> <li>Language preference</li> <li>Settings data</li> <li>Unique identifiers</li> <li>System performance data</li> <li>Interaction data</li> <li>Search data</li> </ul> | **Legitimate interest** in providing and improving search functionality, as well as a more personalized search experience and sponsored results. **Consent** when you choose to opt into an enhanced search experience and share additional personal data.  | You can update your [Search settings](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) and [Search suggestion features](https://support.mozilla.org/kb/search-suggestions-firefox), at any time, and learn more about how we [categorize searches](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).  |
-| To serve relevant content and advertising on Firefox New Tab  | <ul> <li>Technical data</li> <li>Location</li> <li>Language preference</li> <li>Settings data</li> <li>Unique identifiers</li> <li>System performance data</li> <li>Interaction data</li> <li>Search data</li> </ul> | **Legitimate interest** in providing you content that you’re interested in and making sure that the ads you see are relevant (which supports our ability to provide our products and services)**.**  | You can read more information about [how to manage your New Tab page](https://support.mozilla.org/kb/customize-your-new-tab-page) including your [data settings](https://support.mozilla.org/kb/sponsor-privacy). You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time.  |
-| To provide Mozilla Accounts  | See our [Mozilla Accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/)  |  |  |
-| To provide AI Chatbots | <ul> <li>Technical data</li> <li>Location</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> </ul> | **Consent**, when you choose to enable an AI Chatbot. | You can read more about how to [manage](https://support.mozilla.org/kb/ai-chatbot) or [remove](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) AI chatbots in Firefox. |
-| To provide Review Checker, including serving sponsored content | <ul> <li>Technical data</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> <li>Browsing data</li> </ul> | **Consent**, when you choose to enable Review Checker.   | You can read more information about  [How to use Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) and how we implement privacy preserving tech such as OHTTP. |
-| To enable add-ons (addons.mozilla.org, “AMO”), including offering personalized suggestions | <ul> <li>Technical data</li> <li>Location</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> <li>Search data</li> </ul> | **Legitimate interest** in providing and understanding usage of the AMO infrastructure, including reviewing add-ons and blocking those known to cause security, stability or performance issues.  **Consent**, when you choose to enable a specific Mozilla provided add-on. Data processed by each add-on is governed by their own Privacy Policy.     | Learn [how to remove or enable add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).  You can also review the [Privacy Notice](https://www.mozilla.org/privacy/websites/) for the [add-ons website](https://addons.mozilla.org/firefox/).   |
-| To maintain and improve features, performance and stability  | <ul> <li>Technical data</li> <li>Location</li> <li>Settings data</li> <li>Unique identifiers</li> <li>System performance data</li> <li>Interaction data</li> <li>Browsing data</li> </ul> | **Contract** to ensure that Firefox remains operational. **Legitimate interest** in performing research and measures to improve features, performance and stability.  **Consent** when you choose to send us crash reports, which may include browsing data.  | You can [learn more](https://support.mozilla.org/kb/shield) about the studies you’re enrolled in and opt out of all (or a specific) studies at any time, and opt into experimental features through [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox).    |
-| To improve security | <ul> <li>Technical data</li> <li>Location</li> <li>Settings data</li> <li>Unique identifiers</li> <li>System performance data</li> <li>Browsing data (for DNS over HTTPs only)</li> </ul> | **Compliance with law** in securing personal data as required under applicable privacy and cybersecurity regulations.  **Legitimate interest** in providing  additional security measures for all our users and enhancing the overall security of the internet (such as our anti-fingerprinting work).  | Learn more about our [Upgrades and add-ons blocklist](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Google’s Safe Browsing Service](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/),  |
-| <a id="bookmark-understand-usage"></a>To understand usage of Firefox  | <ul> <li>Technical data</li> <li>Location</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> <li>Content data</li> <li>System performance data</li> <li>Language preference</li> </ul> | **Legitimate interest** in understanding how Firefox is used, enabling improvements and performing business functions such as usage reporting and forecasting.  **Consent**, where required under applicable law (e.g. when non-essential cookies are used), or where users engage with surveys or voluntarily submit other information.  | You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the [Daily Usage Ping](https://docs.google.com/document/d/1tndRHhHq8Qo4igaRwCLR1Hs35VkBMsY9WRe0oCIE2-s/edit?tab=t.0)). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings. |
-| To market our services. | <ul> <li>Technical data</li> <li>Location</li> <li>Language preference</li> <li>Settings data</li> <li>Unique identifiers</li> <li>Interaction data</li> <li>Browsing data</li> <li>System performance data</li> </ul> | **Legitimate interest** in promoting our products and services, including sending marketing communications and measuring and improving our marketing campaigns.  **Consent**, where required under applicable law (e.g. jurisdictions which require consent to receive marketing communications).  | Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/desktop-attribution-privacy) is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.  |
-| To pseudonymize, de-identify, aggregate or anonymize data.  | <ul> <li>All data types</li> </ul>  | **Legitimate interest** in taking privacy-enhancing measures prior to performing analytics or sharing data with partners.  |  |
-| To communicate with you.  | <ul> <li>Unique identifiers</li> <li>Interaction data</li> <li>Contact data</li> <li>Content data</li> <li>Language preference</li> </ul> | **Legitimate interest** in letting you know about improvements or changes to our products or services, as well as reviewing and responding to questions or other requests. |  |
-| To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity.  | <ul> <li>All data types</li> </ul> | **Compliance with law** in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.  **Legitimate interest**, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety. | Learn more about how we respond to [lawful requests](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process).  |
+<table>
+    <thead>
+        <tr>
+            <th><a id="bookmark-how-we-use-data"></a>What we use your data for</th>
+            <th>What data we process</th>
+            <th>Our lawful basis</th>
+            <th>More information, including choosing how you want to share this data in Firefox</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>To provide you with the Firefox browser</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                </ul>
+            </td>
+            <td><strong>Contract</strong> to provide you with the necessary functionality for Firefox to operate. <strong>Legitimate interest</strong> in providing additional functionality, accessibility services and a more personalized experience.</td>
+            <td>You can read more detailed information about the information we collect for <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> or <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. You can update your data collection settings for <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time. You can also learn more about <a href="https://support.mozilla.org/kb/website-translation">translation</a> and <a href="https://support.mozilla.org/kb/pdf-alt-text">adding alt-text to images in PDFs</a>.</td>
+        </tr>
+        <tr>
+            <td>To adapt Firefox to your needs</td>
+            <td>
+                <ul>
+                    <li>Any data type</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in making the data on your device work for you. <strong>Consent</strong> where you choose to allow websites (like Google Maps) with access to your precise location to enable location-related functionality.</td>
+            <td>Data processed on your device remains in your control. You can manage your <a href="https://support.mozilla.org/kb/storage">local storage settings</a> or <a href="https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox">clear your browsing history</a> at any time.</td>
+        </tr>
+        <tr>
+            <td>To provide and improve search functionality</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance data</li>
+                    <li>Interaction data</li>
+                    <li>Search data</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in providing and improving search functionality, as well as a more personalized search experience and sponsored results. <strong>Consent</strong> when you choose to opt into an enhanced search experience and share additional personal data.</td>
+            <td>You can update your <a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">Search settings</a> and <a href="https://support.mozilla.org/kb/search-suggestions-firefox">Search suggestion features</a>, at any time, and learn more about how we <a href="https://blog.mozilla.org/en/products/firefox/firefox-search-update/">categorize searches</a>.</td>
+        </tr>
+        <tr>
+            <td>To serve relevant content and advertising on Firefox New Tab</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance data</li>
+                    <li>Interaction data</li>
+                    <li>Search data</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in providing you content that you’re interested in and making sure that the ads you see are relevant (which supports our ability to provide our products and services)<strong>.</strong></td>
+            <td>You can read more information about <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">how to manage your New Tab page</a> including your <a href="https://support.mozilla.org/kb/sponsor-privacy">data settings</a>. You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time.</td>
+        </tr>
+        <tr>
+            <td>To provide Mozilla Accounts</td>
+            <td colspan="3">See our <a href="https://www.mozilla.org/privacy/mozilla-accounts/">Mozilla Accounts Privacy Notice</a></td>
+        </tr>
+        <tr>
+            <td>To provide AI Chatbots</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                </ul>
+            </td>
+            <td><strong>Consent</strong>, when you choose to enable an AI Chatbot.</td>
+            <td>You can read more about how to <a href="https://support.mozilla.org/kb/ai-chatbot">manage</a> or <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">remove</a> AI chatbots in Firefox.</td>
+        </tr>
+        <tr>
+            <td>To provide Review Checker, including serving sponsored content</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Browsing data</li>
+                </ul>
+            </td>
+            <td><strong>Consent</strong>, when you choose to enable Review Checker.</td>
+            <td>You can read more information about <a href="https://support.mozilla.org/kb/review-checker-review-quality">How to use Firefox Review Checker</a> and how we implement privacy preserving tech such as OHTTP.</td>
+        </tr>
+        <tr>
+            <td>To enable add-ons (addons.mozilla.org, “AMO”), including offering personalized suggestions</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Search data</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in providing and understanding usage of the AMO infrastructure, including reviewing add-ons and blocking those known to cause security, stability or performance issues. <strong>Consent</strong>, when you choose to enable a specific Mozilla provided add-on. Data processed by each add-on is governed by their own Privacy Policy.</td>
+            <td>Learn <a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">how to remove or enable add-ons</a>. You can also review the <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a> for the <a href="https://addons.mozilla.org/firefox/">add-ons website</a>.</td>
+        </tr>
+        <tr>
+            <td>To maintain and improve features, performance and stability</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance data</li>
+                    <li>Interaction data</li>
+                    <li>Browsing data</li>
+                </ul>
+            </td>
+            <td><strong>Contract</strong> to ensure that Firefox remains operational. <strong>Legitimate interest</strong> in performing research and measures to improve features, performance and stability. <strong>Consent</strong> when you choose to send us crash reports, which may include browsing data.</td>
+            <td>You can <a href="https://support.mozilla.org/kb/shield">learn more</a> about the studies you’re enrolled in and opt out of all (or a specific) studies at any time, and opt into experimental features through <a href="https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox">Firefox Labs</a>.</td>
+        </tr>
+        <tr>
+            <td>To improve security</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance data</li>
+                    <li>Browsing data (for DNS over HTTPs only)</li>
+                </ul>
+            </td>
+            <td><strong>Compliance with law</strong> in securing personal data as required under applicable privacy and cybersecurity regulations. <strong>Legitimate interest</strong> in providing additional security measures for all our users and enhancing the overall security of the internet (such as our anti-fingerprinting work).</td>
+            <td>Learn more about our <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Upgrades and add-ons blocklist</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google’s Safe Browsing Service</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>,</td>
+        </tr>
+        <tr>
+            <td><a id="bookmark-understand-usage"></a>To understand usage of Firefox</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Content data</li>
+                    <li>System performance data</li>
+                    <li>Language preference</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in understanding how Firefox is used, enabling improvements and performing business functions such as usage reporting and forecasting. <strong>Consent</strong>, where required under applicable law (e.g. when non-essential cookies are used), or where users engage with surveys or voluntarily submit other information.</td>
+            <td>You can update your data collection settings for <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the <a href="https://docs.google.com/document/d/1tndRHhHq8Qo4igaRwCLR1Hs35VkBMsY9WRe0oCIE2-s/edit?tab=t.0">Daily Usage Ping</a>). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings.</td>
+        </tr>
+        <tr>
+            <td>To market our services.</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Browsing data</li>
+                    <li>System performance data</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in promoting our products and services, including sending marketing communications and measuring and improving our marketing campaigns. <strong>Consent</strong>, where required under applicable law (e.g. jurisdictions which require consent to receive marketing communications).</td>
+            <td>Learn more about what <a href="https://support.mozilla.org/kb/desktop-attribution-privacy">Campaign Measurement data</a> is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.</td>
+        </tr>
+        <tr>
+            <td>To pseudonymize, de-identify, aggregate or anonymize data.</td>
+            <td>
+                <ul>
+                    <li>All data types</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in taking privacy-enhancing measures prior to performing analytics or sharing data with partners.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>To communicate with you.</td>
+            <td>
+                <ul>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Contact data</li>
+                    <li>Content data</li>
+                    <li>Language preference</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in letting you know about improvements or changes to our products or services, as well as reviewing and responding to questions or other requests.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity.</td>
+            <td>
+                <ul>
+                    <li>All data types</li>
+                </ul>
+            </td>
+            <td><strong>Compliance with law</strong> in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety. <strong>Legitimate interest</strong>, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety.</td>
+            <td>Learn more about how we respond to <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">lawful requests</a>.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Privacy Policies for Search Providers:
 
