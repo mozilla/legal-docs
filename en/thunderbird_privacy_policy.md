@@ -1,7 +1,7 @@
 # Thunderbird Privacy Notice
 
 Last updated February 12, 2025
-{: datetime="2024-02-12" }
+{: datetime="2025-02-12" }
 
 The Thunderbird Desktop, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
 
