@@ -1,13 +1,13 @@
-# **Firefox Privacy Notice**
+# Firefox Privacy Notice
 
 Effective February 25, 2025
 {: datetime="2025-02-25" }
 
-## **At Mozilla, we believe that privacy is fundamental to a healthy internet**
+## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
 That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information. 
 
-## **How is your data used?**
+## How is your data used?
 
 #### To provide you with the Firefox browser
 
@@ -38,7 +38,6 @@ You may be able to opt into an enhanced search experience, which will result in 
 *More details, including how to adjust your data settings:* You can update your [Search settings](https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox) and [Search suggestion features](https://support.mozilla.org/en-US/kb/search-suggestions-firefox), at any time, and learn more about how we [categorize searches](https://blog.mozilla.org/en/products/firefox/firefox-search-update/). 
 
 #### To serve relevant content and advertising on Firefox New Tab
-
 	  
 We use technical data, language preference, and location to serve content and advertising on the Firefox New Tab page in the correct format (i.e. for mobile vs desktop), language, and relevant location. Mozilla collects technical and interaction data, such as the position, size, views and clicks on New Tab content or ads, to understand how people are interacting with our content and to personalize future content, including sponsored content. This data may be shared with our advertising partners on a de-identified or aggregated basis. 
 
@@ -60,7 +59,6 @@ If you choose to enable a chatbot in the sidebar and/or through a shortcut, Mozi
 
 *More details, including how to adjust your data settings:* You can read more about how to [manage](https://support.mozilla.org/en-US/kb/ai-chatbot) or [remove](https://support.mozilla.org/en-US/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) AI chatbots in Firefox.   
  
-
 #### To provide Review Checker, including serving sponsored content
 
 Review Checker is a Firefox feature that helps you determine whether reviews are reliable when you shop online with sites like Amazon.com, BestBuy.com and Walmart.com. If you opt in to using Review Checker, Mozilla will process information about the website and the product identifier of the products you view using our privacy preserving technology called OHTTP. OHTTP combines encryption and a third party intermediary server, helping prevent Mozilla from linking you or your device to the products you have viewed. We also collect technical and interaction data on how this feature is used to help improve Firefox. 
@@ -98,7 +96,6 @@ For [some Firefox users](https://support.mozilla.org/kb/firefox-dns-over-https),
 
 *More details, including how to adjust your data settings:* [Upgrades and add-ons blocklist](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections), [Google’s Safe Browsing Service](https://support.mozilla.org/en-US/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/),   
  
-
 #### To understand usage of Firefox 
 
 We process [data](https://docs.google.com/document/d/1NbMoRIiMaZg1Ubvbu1fuLkuvVreNupOqBQtPMtLBTaY/edit?tab=t.0#bookmark=id.c4vd31yzoovg) to better understand how you engage with our services, such as how much you use Firefox, your language preference, how often you use our search tools or interact with search suggestions, how fast pages load for you and how many ads or [CAPTCHAs](https://en.wikipedia.org/wiki/CAPTCHA) you see. This allows us to measure how people access and use our services, which helps improve our business and the functionality of Firefox. 
@@ -115,7 +112,6 @@ When you allow us to do so, Firefox sends Mozilla data about the website domain 
 
 As part of the activities outlined above, such as understanding usage of Firefox and measuring our marketing, we may create pseudonymous, de-identified, aggregated or anonymized data. We use technology that is appropriate to the circumstances, including identifier removal, OHTTP, or DAP — these help prevent data from being linked to you. In some cases, we may share or publish aggregated and anonymized data to facilitate research or as part of the lawful business purposes outlined above (such as sharing aggregated insights with advertising partners).   
  
-
 #### To communicate with you
 
 Depending on your settings (and whether or not you have a Mozilla account), we may communicate with you via in-product messaging, send you communications (including marketing-related communications), or ask you to participate in research / surveys, or respond to customer support communications. You may also reach out to us directly, such as to [report a broken site within Firefox](https://support.mozilla.org/en-US/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). When you send us personal data via these methods, we will use the information only for the purpose you provided it. We also process interaction data related to these communications to better understand who has received our service-related announcements (such as new features, updates or security alerts). 
@@ -129,8 +125,7 @@ We may also be required to process your personal data to comply with applicable 
 * Identifying, investigating and addressing potential fraudulent activities, or other harmful activities such as illegal activities, cyberattacks or intellectual property infringement (including filing or defending legal claims).   
 * Performing internal compliance and security activities, such as audits and enterprise security management. 
 
-## **How is your data shared?**
-
+## How is your data shared?
 	  
 To provide our services as described above, we may disclose personal data to: 
 
@@ -140,15 +135,13 @@ To provide our services as described above, we may disclose personal data to:
 | Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
 | Mozilla controlled entities and successors  | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
-## **How long is your data kept?**
+## How long is your data kept?
 
 We only retain your personal data for as long as necessary to fulfill the purposes outlined in this Privacy Notice. In general, we do not retain personal data for more than 25 months, but actual retention periods may vary depending on the type of data and the purpose(s) for which it was collected (for example, we retain your “first seen” date for the period of your use of Firefox, so we know how long you’ve been a Firefox user). Specific retention periods may also depend on the sensitivity of the data, the context of its collection, your settings and preferences, and our legal or contractual obligations to retain or delete your data, such as for fraud prevention, regulatory compliance, or service continuity. Once the retention period expires we securely delete your data, unless otherwise required by law. 
 
 Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters; data in these environments is put beyond use and only processed for business continuity purposes. We may also retain data for extended periods of time on a de-identified or aggregated basis.
 
-## 
-
-## **Your rights and choices:** 
+## Your rights and choices:
 
 ### Your rights:
 
@@ -181,11 +174,11 @@ You can update your data collection settings for [Desktop](https://support.mozil
 
 Firefox also provides [Global Privacy Control](https://support.mozilla.org/en-US/kb/global-privacy-control) (GPC), which you can enable to automatically notify websites not to sell or share information about your browsing session on that website. GPC operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
 
-## **What happens with international data transfers?**
+## What happens with international data transfers?
 
 Mozilla (and our servers) are based in the United States. Because we are a global company, in order to provide the services outlined in this Privacy Notice, the information we collect may be accessed from locations where our people are located and data may also be transferred to other jurisdictions as a result of sharing data with our partners. Where appropriate, we ensure we have appropriate mechanisms in place (such as [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) approved by the European Commission and other relevant authorities) to protect your personal data. You can contact [dpo@mozilla.com](mailto:dpo@mozilla.com) for information on the safeguards implemented for international transfers, or for copies of the relevant standard contractual clauses.  
 
-## **Applicability (Firefox version) and changes**
+## Applicability (Firefox version) and changes
 
 ## Applicability  
 
@@ -197,7 +190,7 @@ Mozilla’s pre-release versions of Firefox (which are distributed through chann
 
 We may need to change this policy and our notices, in which case the updates will be posted online and we will update the effective date of this notice. If the changes are substantive, we will also announce the update more prominently through Mozilla's usual channels for such announcements, such as blog posts and forums. 
 
-## **Types of Data Defined**
+## Types of Data Defined
 
 | Data Type | Description | Examples for Firefox users |
 | :---- | :---- | :---- |
@@ -213,8 +206,6 @@ We may need to change this policy and our notices, in which case the updates wil
 | Search data | This is data about the search category, search keywords or search query of terms searched for.  | Search category (Food, Travel), keywords (“Boston”), search term (“current weather in Boston”).  |
 | Content | When you provide it to us, we may process data such as uploaded images or survey responses. | Uploaded image, bookmarks, comments, survey responses.  |
 | Contact data | When you provide it to us, we may process data about how to contact you.  | Email address, phone number. |
-
-## 
 
 ## Lawful Bases
 
@@ -235,8 +226,6 @@ We may need to change this policy and our notices, in which case the updates wil
 | To pseudonymize, de-identify, aggregate or anonymize data.  | All data types  | **Legitimate interest** in taking privacy-enhancing measures prior to performing analytics or sharing data with partners.  |  |
 | To communicate with you.  | Unique identifiers Interaction data Contact data Content data 	 Language preference  | **Legitimate interest** in letting you know about improvements or changes to our products or services, as well as reviewing and responding to questions or other requests. |  |
 | To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity.  | All data types  | **Compliance with law** in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.  **Legitimate interest**, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety. | Learn more about how we respond to [lawful requests](https://www.mozilla.org/en-US/about/policy/transparency/#dfn-legal-process).  |
-
-## 
 
 ## Privacy Policies for Search Providers:
 
