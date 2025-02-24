@@ -1,7 +1,7 @@
-# Firefox-Nutzungsbedingungen
+﻿# Firefox-Nutzungsbedingungen
 
-Version 1.0, gültig ab 4. März 2025
-{: datetime="2025-03-04" }
+Gültig ab 25. Februar 2025
+{: datetime="2025-02-25" }
 
 Firefox ist eine kostenlose Open-Source-Webbrowser-Software, die von einer Community mit Tausenden von Mitgliedern aus der ganzen Welt entwickelt wird.
 
@@ -11,29 +11,43 @@ Bitte lesen Sie die vorliegenden Nutzungsbedingungen („Bedingungen“) sorgfä
 
 Mozilla gewährt Ihnen eine persönliche, nicht exklusive Lizenz zur Installation und Nutzung der „Executable-Code-Version“ des Firefox-Webbrowsers, d. h. der direkt ausführbaren Version von Firefox aus einer autorisierten Quelle zum sofortigen Öffnen und Nutzen.
 
-**Firefox ist Open-Source-Software.** Wir stellen Ihnen den Quellcode für Firefox unter den Bedingungen verschiedener Open-Source-Lizenzen zur Verfügung, darunter die [Mozilla Public License](https://www.mozilla.org/MPL/). Das bedeutet, dass Sie berechtigt sind, Firefox zu nutzen, zu kopieren, zu ändern und an Dritte weiterzugeben, solange Sie die Open-Source-Lizenzen und die [Mozilla-Markenrichtlinien](https://www.mozilla.org/foundation/trademarks/policy/) einhalten. Die vorliegenden Bedingungen gelten nur für die „Executable-Code-Version“ von Firefox, nicht für den Firefox-Quellcode.
+### Firefox ist Open-Source-Software
+
+Wir stellen Ihnen den Quellcode für Firefox unter den Bedingungen verschiedener Open-Source-Lizenzen zur Verfügung, darunter die [Mozilla Public License](https://www.mozilla.org/MPL/). Das bedeutet, dass Sie berechtigt sind, Firefox zu nutzen, zu kopieren, zu ändern und an Dritte weiterzugeben, solange Sie die Open-Source-Lizenzen und die [Mozilla-Markenrichtlinien](https://www.mozilla.org/foundation/trademarks/policy/) einhalten. Die vorliegenden Bedingungen gelten nur für die „Executable-Code-Version“ von Firefox, nicht für den Firefox-Quellcode.
 
 Zum Abspielen bestimmter Videoformate lädt Firefox mitunter Module zur Entschlüsselung von Drittanbieterinhalten herunter, die nicht unbedingt quelloffen sind.
 
-**Geistiges Eigentum von Mozilla.** Mozilla räumt Ihnen keine Rechte an geistigem Eigentum von Firefox ein, soweit nicht ausdrücklich in den vorliegenden Bedingungen festgelegt. So räumen Ihnen die vorliegenden Bedingungen beispielsweise keine Rechte zur Nutzung von Urheberrechten, Marken oder sonstigen markenrechtlichen Merkmalen von Mozilla oder seinen Lizenzgebern ein.
+### Geistiges Eigentum von Mozilla
+
+Mozilla räumt Ihnen keine Rechte an geistigem Eigentum von Firefox ein, soweit nicht ausdrücklich in den vorliegenden Bedingungen festgelegt. So räumen Ihnen die vorliegenden Bedingungen beispielsweise keine Rechte zur Nutzung von Urheberrechten, Marken oder sonstigen markenrechtlichen Merkmalen von Mozilla oder seinen Lizenzgebern ein.
 
 ## Sie räumen Mozilla gewisse Rechte und Befugnisse ein
 
 Sie räumen Mozilla sämtliche Rechte ein, die für den Betrieb von Firefox erforderlich sind. Dies schließt Rechte zum Verarbeiten von Daten gemäß der Beschreibung im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) sowie das Recht ein, in Ihrem Namen zu handeln, um Ihnen die Navigation im Internet zu erleichtern. Wenn Sie Informationen über Firefox hochladen oder eingeben, räumen Sie uns hiermit eine nicht exklusive, gebührenfreie, weltweite Lizenz zur Nutzung dieser Informationen ein, um Ihnen beim Aufrufen und Nutzen von sowie beim Interagieren mit Online-Inhalten zu helfen, wie Sie es durch Ihre Nutzung von Firefox zum Ausdruck bringen.
 
-**Ihr Feedback und Ihre Vorschläge.** Falls Sie Mozilla Ideen, Vorschläge oder Feedback über die Dienste übermitteln, räumen Sie Mozilla das Recht ein, diese Vorschläge bzw. dieses Feedback kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
+### Ihr Feedback und Ihre Vorschläge
+
+Falls Sie Mozilla Ideen, Vorschläge oder Feedback über die Dienste übermitteln, räumen Sie Mozilla das Recht ein, diese Vorschläge bzw. dieses Feedback kostenlos und ohne jegliche weiteren Verpflichtungen zu nutzen.
 
 ## Falls Sie bestimmte optionale Funktionen oder Dienste von Firefox nutzen, gelten zusätzliche Bedingungen
 
-**Für einige Dienste in Firefox ist ein Mozilla-Konto erforderlich.** Wenn Sie bestimmte Dienste wie die Synchronisierung nutzen möchten, benötigen Sie ein Mozilla-Konto. Um ein Mozilla-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-accounts/) für Mozilla-Konten zustimmen.
+### Für einige Dienste in Firefox ist ein Mozilla-Konto erforderlich
 
-**Weitere optionale Dienste.** Einige Funktionen in Firefox erfordern Ihre ausdrückliche Einwilligung. Um sie nutzen zu können, müssen Sie den Nutzungsbedingungen und Datenschutzhinweisen für den jeweiligen von Ihnen genutzten Dienst zustimmen.
+Wenn Sie bestimmte Dienste wie die Synchronisierung nutzen möchten, benötigen Sie ein Mozilla-Konto. Um ein Mozilla-Konto zu erstellen, müssen Sie auch den [Servicebedingungen](https://www.mozilla.org/about/legal/terms/services/) und dem [Datenschutzhinweis](https://www.mozilla.org/privacy/mozilla-accounts/) für Mozilla-Konten zustimmen.
+
+### Weitere optionale Dienste
+
+Einige Funktionen in Firefox erfordern Ihre ausdrückliche Einwilligung. Um sie nutzen zu können, müssen Sie den Nutzungsbedingungen und Datenschutzhinweisen für den jeweiligen von Ihnen genutzten Dienst zustimmen.
 
 ## Mozilla kann die vorliegende Vereinbarung überarbeiten oder kündigen
 
-**Mozilla kann die vorliegenden Bedingungen überarbeiten.** Mozilla behält sich vor, die vorliegenden Bedingungen bei Bedarf zu aktualisieren. Die aktualisierten Bedingungen werden dann online veröffentlicht. Die fortgesetzte Nutzung des Diensts durch Sie gilt als Zustimmung zu solchen Änderungen. Wir werden das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen, um eindeutig anzugeben, wann die jüngste Aktualisierung erfolgt ist.
+### Mozilla kann die vorliegenden Bedingungen überarbeiten
 
-**Beendigung.** Die vorliegenden Bedingungen gelten, bis Sie oder Mozilla beschließen, sie zu kündigen. Sie können die vorliegende Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie die Nutzung von Firefox beenden. Mozilla kann den Zugriff auf Firefox durch jegliche Personen jederzeit und aus beliebigem Grund aussetzen oder beenden, unter anderem auch dann, wenn Mozilla beschließt, Firefox nicht mehr anzubieten. Falls wir beschließen, Ihren Zugriff auszusetzen oder zu beenden, werden wir versuchen, Sie unter der Ihrem Konto zugeordneten E-Mail-Adresse oder bei Ihrem nächsten Versuch, auf das Konto zuzugreifen, zu benachrichtigen.
+Mozilla behält sich vor, die vorliegenden Bedingungen bei Bedarf zu aktualisieren. Die aktualisierten Bedingungen werden dann online veröffentlicht. Die fortgesetzte Nutzung des Diensts durch Sie gilt als Zustimmung zu solchen Änderungen. Wir werden das Datum des Inkrafttretens oben auf dieser Seite veröffentlichen, um eindeutig anzugeben, wann die jüngste Aktualisierung erfolgt ist.
+
+### Beendigung
+
+Die vorliegenden Bedingungen gelten, bis Sie oder Mozilla beschließen, sie zu kündigen. Sie können die vorliegende Vereinbarung jederzeit und aus beliebigem Grund kündigen, indem Sie die Nutzung von Firefox beenden. Mozilla kann den Zugriff auf Firefox durch jegliche Personen jederzeit und aus beliebigem Grund aussetzen oder beenden, unter anderem auch dann, wenn Mozilla beschließt, Firefox nicht mehr anzubieten. Falls wir beschließen, Ihren Zugriff auszusetzen oder zu beenden, werden wir versuchen, Sie unter der Ihrem Konto zugeordneten E-Mail-Adresse oder bei Ihrem nächsten Versuch, auf das Konto zuzugreifen, zu benachrichtigen.
 
 ## Sie haften für die Konsequenzen Ihrer Nutzung von Firefox
 
@@ -53,21 +67,23 @@ Möglicherweise genießen Sie nach den Gesetzen Ihres Landes weitergehende Recht
 
 ## Firefox wird „wie besehen“ bereitgestellt (Gewährleistungsausschluss)
 
-**Mozilla stellt Firefox „wie besehen“ und ohne Mängelgewähr bereit. Im größtmöglichen durch das anwendbare Recht gestatteten Umfang schließen Mozilla und seine Partner ausdrücklich jegliche gesetzlichen Garantien oder Gewährleistungen beispielsweise der „Marktgängigkeit“, der „Eignung für einen bestimmten Zweck“, der „Nichtverletzung von Rechten Dritter“ sowie Gewährleistungen aus, die sich aus einem Handelsbrauch, einer Nutzung oder einem Handelsgeschäft ergeben**.
+**Mozilla stellt Firefox „wie besehen“ und ohne Mängelgewähr bereit. Im größtmöglichen durch das anwendbare Recht gestatteten Umfang schließen Mozilla und seine Partner ausdrücklich jegliche gesetzlichen Garantien oder Gewährleistungen beispielsweise der „Marktgängigkeit“, der „Eignung für einen bestimmten Zweck“, der „Nichtverletzung von Rechten Dritter“ sowie Gewährleistungen aus, die sich aus einem Handelsbrauch, einer Nutzung oder einem Handelsgeschäft ergeben.**
 
 ## Weitere wissenswerte Informationen
 
-**Gerichtsstand.** Für den vorliegenden Vertrag gelten die Gesetze des US-Bundesstaats Kalifornien ausschließlich der kollisionsrechtlichen Bestimmungen.
+### Gerichtsstand
+
+Für den vorliegenden Vertrag gelten die Gesetze des US-Bundesstaats Kalifornien ausschließlich der kollisionsrechtlichen Bestimmungen.
 
 Im Falle etwaiger Widersprüche zwischen der englischen Ursprungsversion der vorliegenden Bedingungen und einer Übersetzung ist die englische Version maßgeblich.
 
-Sie können Mozilla kontaktieren unter:
+### Sie können Mozilla kontaktieren unter:
 
-Mozilla Corporation
-Attn: Mozilla – Legal Notices
-149 New Montgomery Street
-4th Floor
-San Francisco, CA 94105
+Mozilla Corporation <br>
+Attn: Mozilla – Legal Notices <br>
+149 New Montgomery Street <br>
+4th Floor <br>
+San Francisco, CA 94105, USA
 
 legal-notices@mozilla.com
 

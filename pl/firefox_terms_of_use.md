@@ -1,7 +1,7 @@
-# Warunki użytkowania przeglądarki Firefox
+﻿# Warunki użytkowania przeglądarki Firefox
 
-Wersja 1.0, obowiązuje od 4 marca 2025 r.
-{: datetime="2025-03-04" }
+Data wejścia w życie: 25 lutego 2025 r.
+{: datetime="2025-02-25" }
 
 Firefox to darmowa przeglądarka internetowa typu open source, stworzona przez wielotysięczną społeczność z całego świata.
 
@@ -11,29 +11,43 @@ Należy uważnie przeczytać niniejsze Warunki użytkowania („Warunki”), pon
 
 Mozilla udziela użytkownikowi osobistej, niewyłącznej licencji na instalację i korzystanie z wersji „Kod wykonywalny” przeglądarki internetowej Firefox, czyli gotową do uruchomienia wersją przeglądarki Firefox z autoryzowanego źródła, którą można otworzyć i używać od razu.
 
-**Firefox to oprogramowanie typu open source.** Kod źródłowy przeglądarki Firefox jest udostępniany użytkownikowi na warunkach różnych licencji open source, w tym [Licencji publicznej firmy Mozilla](https://www.mozilla.org/MPL/). Oznacza to, że użytkownik może używać, kopiować, modyfikować i rozpowszechniać przeglądarkę Firefox wśród innych osób, pod warunkiem przestrzegania licencji open source i [Wytycznych firmy Mozilla dotyczących znaków towarowych](https://www.mozilla.org/foundation/trademarks/policy/). Niniejsze Warunki mają zastosowanie wyłącznie do wersji „Kod wykonywalny” przeglądarki Firefox, a nie do kodu źródłowego przeglądarki Firefox.
+### Firefox to oprogramowanie typu open source
+
+Kod źródłowy przeglądarki Firefox jest udostępniany użytkownikowi na warunkach różnych licencji open source, w tym [Licencji publicznej firmy Mozilla](https://www.mozilla.org/MPL/). Oznacza to, że użytkownik może używać, kopiować, modyfikować i rozpowszechniać przeglądarkę Firefox wśród innych osób, pod warunkiem przestrzegania licencji open source i [Wytycznych firmy Mozilla dotyczących znaków towarowych](https://www.mozilla.org/foundation/trademarks/policy/). Niniejsze Warunki mają zastosowanie wyłącznie do wersji „Kod wykonywalny” przeglądarki Firefox, a nie do kodu źródłowego przeglądarki Firefox.
 
 Aby odtwarzać niektóre rodzaje wideo, Firefox może pobierać moduły deszyfrujące treści od stron trzecich, które mogą nie być open source.
 
-**Własność intelektualna firmy Mozilla.** Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących przeglądarki Firefox, których nie nadano wyraźnie na mocy niniejszych Warunków. Niniejsze Warunki nie przyznają na przykład praw do korzystanie przez użytkownika z jakichkolwiek praw autorskich, znaków towarowych ani innych cech charakterystycznych marek należących do firmy Mozilla lub jej licencjodawców.
+### Własność intelektualna firmy Mozilla
+
+Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej dotyczących przeglądarki Firefox, których nie nadano wyraźnie na mocy niniejszych Warunków. Niniejsze Warunki nie przyznają na przykład praw do korzystanie przez użytkownika z jakichkolwiek praw autorskich, znaków towarowych ani innych cech charakterystycznych marek należących do firmy Mozilla lub jej licencjodawców.
 
 ## Użytkownik przyznaje firmie Mozilla pewne prawa i uprawnienia
 
 Użytkownik przyznaje firmie Mozilla wszelkie prawa niezbędne do obsługi przeglądarki Firefox, w tym do przetwarzania danych w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/), a także do działania w imieniu użytkownika w celu ułatwienia mu poruszania się po Internecie. Przesyłając lub wprowadzając informacje za pośrednictwem przeglądarki Firefox, użytkownik niniejszym udziela nam niewyłącznej, nieodpłatnej, obowiązującej na całym świecie licencji na wykorzystywanie tych informacji w celu ułatwienia użytkownikowi nawigacji, korzystania z treści online i interakcji z nimi w sposób wskazany przez użytkownika podczas korzystania z przeglądarki Firefox.
 
-**Opinie i sugestie użytkownika.** Jeśli użytkownik przekaże firmie Mozilla jakiekolwiek pomysły, sugestie lub opinie na temat Usług, przyzna firmie Mozilla zezwolenie na ich bezpłatne wykorzystanie bez żadnych dodatkowych zobowiązań.
+### Opinie i sugestie użytkownika
+
+Jeśli użytkownik przekaże firmie Mozilla jakiekolwiek pomysły, sugestie lub opinie na temat Usług, przyzna firmie Mozilla zezwolenie na ich bezpłatne wykorzystanie bez żadnych dodatkowych zobowiązań.
 
 ## W przypadku korzystania z niektórych opcjonalnych funkcji lub usług przeglądarki Firefox obowiązują dodatkowe warunki
 
-**Niektóre usługi w przeglądarce Firefox wymagają konta Mozilla.** Do korzystania z niektórych usług, takich jak synchronizacja, wymagane jest konto Mozilla. Aby utworzyć konto Mozilla, należy również zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/mozilla-accounts/) dotyczące kont Mozilla.
+### Niektóre usługi w przeglądarce Firefox wymagają konta Mozilla
 
-**Inne opcjonalne usługi.** Niektóre funkcje przeglądarki Firefox wymagają wyrażenia na nie zgody. Aby z nich korzystać, użytkownik musi zaakceptować Warunki i Zasady prywatności obowiązujące dla każdej z usług.
+Do korzystania z niektórych usług, takich jak synchronizacja, wymagane jest konto Mozilla. Aby utworzyć konto Mozilla, należy również zaakceptować [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/) i [Zasady prywatności](https://www.mozilla.org/privacy/mozilla-accounts/) dotyczące kont Mozilla.
+
+### Inne opcjonalne usługi
+
+Niektóre funkcje przeglądarki Firefox wymagają wyrażenia na nie zgody. Aby z nich korzystać, użytkownik musi zaakceptować Warunki i Zasady prywatności obowiązujące dla każdej z usług.
 
 ## Mozilla może zaktualizować lub rozwiązać niniejszą Umowę
 
-**Mozilla może zaktualizować niniejsze Warunki.** Od czasu do czasu Mozilla może zaktualizować niniejsze Warunki. Zaktualizowane Warunki opublikujemy online. Dalsze korzystanie z przeglądarki Firefox przez użytkownika będzie traktowane jako akceptacja takich zmian. Na górze tej strony umieścimy datę wejścia w życie, aby było jasne, kiedy dokonaliśmy ostatniej aktualizacji.
+### Mozilla może zaktualizować niniejsze Warunki
 
-**Rozwiązanie.** Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z przeglądarki Firefox. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do przeglądarki Firefox z dowolnej przyczyny, łącznie z zakończeniem oferowania przeglądarki Firefox. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do konta.
+Od czasu do czasu Mozilla może zaktualizować niniejsze Warunki. Zaktualizowane Warunki opublikujemy online. Dalsze korzystanie z przeglądarki Firefox przez użytkownika będzie traktowane jako akceptacja takich zmian. Na górze tej strony umieścimy datę wejścia w życie, aby było jasne, kiedy dokonaliśmy ostatniej aktualizacji.
+
+### Rozwiązanie
+
+Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z przeglądarki Firefox. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do przeglądarki Firefox z dowolnej przyczyny, łącznie z zakończeniem oferowania przeglądarki Firefox. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do konta.
 
 ## Użytkownik ponosi odpowiedzialność za konsekwencje korzystania z przeglądarki Firefox
 
@@ -53,20 +67,22 @@ Użytkownikowi mogą przysługiwać inne prawa wynikające z przepisów obowiąz
 
 ## Firefox jest dostarczany w stanie „jak jest” (wyłączenie gwarancji)
 
-**Mozilla zapewnia przeglądarkę Firefox w stanie „jak jest”. W zakresie dozwolonym przez obowiązujące prawo, Mozilla i jej podmioty stowarzyszone wyraźnie wyłączają wszelkie gwarancje prawne lub rękojmie, takie jak „przydatność handlowa”, „przydatność do określonego celu” i „nienaruszalność”, oraz gwarancji wynikających z przebiegu transakcji, użytkowania lub handlu**.
+**Mozilla zapewnia przeglądarkę Firefox w stanie „jak jest”. W zakresie dozwolonym przez obowiązujące prawo, Mozilla i jej podmioty stowarzyszone wyraźnie wyłączają wszelkie gwarancje prawne lub rękojmie, takie jak „przydatność handlowa”, „przydatność do określonego celu” i „nienaruszalność”, oraz gwarancji wynikających z przebiegu transakcji, użytkowania lub handlu.**
 
 ## Inne kwestie, o których należy wiedzieć
 
-**Wybór prawa.** Do niniejszej umowy zastosowanie ma prawo stanu Kalifornia, z wyjątkiem występujących konfliktów z prawem stanu Kalifornia.
+### Wybór prawa
+
+Do niniejszej umowy zastosowanie ma prawo stanu Kalifornia, z wyjątkiem występujących konfliktów z prawem stanu Kalifornia.
 
 W przypadku sprzeczności pomiędzy niniejszą angielską wersją Warunków a jej tłumaczeniem, obowiązuje niniejsza wersja angielska.
 
-Z firmą Mozilla można skontaktować się pod następującym adresem:
+### Z firmą Mozilla można skontaktować się pod następującym adresem:
 
-Mozilla Corporation
-Attn: Mozilla – Legal Notices
-149 New Montgomery Street
-4th Floor
+Mozilla Corporation <br>
+Attn: Mozilla – Legal Notices <br>
+149 New Montgomery Street <br>
+4th Floor <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
