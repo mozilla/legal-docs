@@ -163,7 +163,7 @@ Przechowujemy dane osobowe użytkownika tylko tak długo, jak jest to konieczne 
 
 Nasze usługi wykorzystują również zaszyfrowane kopie zapasowe jako kolejną warstwę ochrony, aby pomóc w odzyskaniu danych po potencjalnych katastrofach; dane w tych środowiskach są wyłączone z użytku i przetwarzane wyłącznie w celu zapewnienia ciągłości działania. Możemy również przechowywać dane przez dłuższe okresy czasu w postaci zdeidentyfikowanej lub zagregowanej.
 
-## Prawa i wybory użytkownika:
+## Prawa i wybory użytkownika
 
 ### Prawa użytkownika:
 
@@ -477,7 +477,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
     </tbody>
 </table>
 
-## Zasady prywatności dostawców usług wyszukiwania:
+## Zasady prywatności dostawców usług wyszukiwania
 
 [Google](https://policies.google.com/privacy)
 

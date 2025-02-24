@@ -94,7 +94,7 @@ Mozilla menjalankan [studi](https://support.mozilla.org/kb/shield) di Firefox da
 
 Kami juga perlu memproses data untuk memastikan Firefox terus beroperasi, meningkatkan fitur dan kinerja, serta mengidentifikasi, memecahkan masalah, dan mendiagnosis masalah. Untuk ini, kami menggunakan data teknis, lokasi, dan pengaturan, serta data interaksi dan kinerja sistem (seperti jumlah tab yang terbuka, penggunaan memori, atau hasil proses otomatis seperti pembaruan). Dalam situasi yang jarang terjadi ketika informasi yang diperlukan juga mencakup data penjelajahan terbatas (misalnya, anotasi Domain Tingkat Atas untuk pemantauan kinerja pemuatan halaman), informasi tersebut akan dikirimkan menggunakan OHTTP; ini membantu mencegah Mozilla menghubungkan Anda atau perangkat Anda ke data yang dikumpulkan untuk tujuan ini.
 
-Di desktop dan iOS, jika Firefox mengalami masalah yang tidak terduga, [Pelapor Kerusakan Mozilla](https://support.mozilla.org/kb/mozillacrashreporter) juga akan menanyakan apakah Anda ingin mengirimkan informasi tambahan kepada kami, yang mungkin mencakup situs yang dibuka pada saat terjadi kerusakan dan data penjelajahan lainnya. Di Desktop dan Android jika Anda memilih untuk mengirimkan laporan kerusakan secara otomatis kepada kami, kami mengumpulkan informasi ini tanpa meminta Anda setiap saat; di iOS, laporan kerusakan memuat lebih sedikit informasi dan dikirimkan secara otomatis kepada kami secara baku. Anda dapat mengubah pengaturan ini kapan saja.
+Di desktop dan Android, jika Firefox mengalami masalah yang tidak terduga, [Pelapor Kerusakan Mozilla](https://support.mozilla.org/kb/mozillacrashreporter) juga akan menanyakan apakah Anda ingin mengirimkan informasi tambahan kepada kami, yang mungkin mencakup situs yang dibuka pada saat terjadi kerusakan dan data penjelajahan lainnya. Di Desktop dan Android jika Anda memilih untuk mengirimkan laporan kerusakan secara otomatis kepada kami, kami mengumpulkan informasi ini tanpa meminta Anda setiap saat; di iOS, laporan kerusakan memuat lebih sedikit informasi dan dikirimkan secara otomatis kepada kami secara baku. Anda dapat mengubah pengaturan ini kapan saja.
 
 #### Informasi selengkapnya, termasuk cara menyesuaikan pengaturan data Anda:
 
@@ -163,7 +163,7 @@ Kami hanya menyimpan data pribadi Anda selama diperlukan untuk memenuhi tujuan y
 
 Layanan kami juga menggunakan penyimpanan cadangan terenkripsi sebagai lapisan perlindungan tambahan untuk membantu pemulihan dari potensi bencana; data di lingkungan ini tidak dapat digunakan lagi dan hanya diproses untuk tujuan keberlanjutan bisnis. Kami juga dapat menyimpan data untuk jangka waktu yang lama dengan tanpa identitas atau agregat.
 
-## Hak dan pilihan Anda:
+## Hak dan pilihan Anda
 
 ### Hak Anda:
 
@@ -477,7 +477,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
     </tbody>
 </table>
 
-## Kebijakan Privasi untuk Penyedia Pencarian:
+## Kebijakan Privasi untuk Penyedia Pencarian
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

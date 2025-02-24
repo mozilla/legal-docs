@@ -163,7 +163,7 @@ Nous ne conservons vos données personnelles que le temps nécessaire à la réa
 
 Nos services utilisent également un stockage de sauvegarde chiffré comme autre couche de protection pour aider à récupérer des éventuels désastres ; les données dans ces environnements sont mises hors d'usage et ne sont traitées qu'à des fins de continuité des activités. Nous pouvons également conserver des données pendant de longues périodes sur une base dépersonnalisée ou agrégée.
 
-## Vos droits et vos choix :
+## Vos droits et vos choix
 
 ### Vos droits :
 
@@ -477,7 +477,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
     </tbody>
 </table>
 
-## Politiques de confidentialité des services de recherches :
+## Politiques de confidentialité des services de recherches
 
 [Google](https://policies.google.com/privacy)
 

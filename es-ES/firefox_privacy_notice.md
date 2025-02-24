@@ -163,7 +163,7 @@ Solo conservamos sus datos personales durante el tiempo necesario para cumplir l
 
 Nuestros servicios también utilizan el almacenamiento de copias de seguridad cifradas como otra capa de protección para ayudar a recuperarse de posibles desastres; los datos en estos entornos se ponen fuera de uso y solo se procesan con fines de continuidad del negocio. También podemos retener datos durante períodos prolongados de tiempo de forma agregada o desidentificada.
 
-## Sus derechos y opciones:
+## Sus derechos y opciones
 
 ### Sus derechos:
 
@@ -477,7 +477,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
     </tbody>
 </table>
 
-## Políticas de privacidad para proveedores de búsqueda:
+## Políticas de privacidad para proveedores de búsqueda
 
 [Google](https://policies.google.com/privacy)
 

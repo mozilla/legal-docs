@@ -94,7 +94,7 @@ A Mozilla [tanulmányokat](https://support.mozilla.org/kb/shield) végez a Firef
 
 Adatokat is kell kezelnünk a Firefox működőképességének megőrzéséhez, a szolgáltatások és a teljesítmény javításához, valamint a problémák azonosításához, hibaelhárításához és diagnosztizálásához. Ehhez technikai, hely- és beállításadatokat, valamint interakciós és rendszerteljesítmény-adatokat használunk (mint például a megnyitott lapok száma, a memóriahasználat vagy az automatizált folyamatok, például a frissítések eredménye). Azokban a ritka esetekben, amikor a szükséges adatok korlátozott böngészési adatokat is tartalmaznak (pl. legfelső szintű tartománymegjegyzések az oldalbetöltési teljesítmény figyeléséhez), az OHTTP használatával kerül továbbításra – ez segít megakadályozni, hogy a Mozilla összekapcsolja Önt vagy az eszközét az erre a célra gyűjtött adatokkal.
 
-Asztali számítógépen és iOS rendszeren, ha a Firefox váratlan problémába ütközik, a [Mozilla Összeomlás-jelentő](https://support.mozilla.org/kb/mozillacrashreporter) azt is megkérdezi, hogy kíván-e további adatokat küldeni nekünk, amelyek magukban foglalhatják az összeomlás idején nyitva lévő webhelyeket és egyéb böngészési adatokat. Asztali számítógépen és Androidon, ha bekapcsolja a hibajelentések automatikus küldését, ezeket az adatokat anélkül gyűjtjük, hogy minden alkalommal megkérdeznénk – iOS rendszeren a hibajelentések kevesebb adatot tartalmaznak, és alapértelmezés szerint automatikusan megkapjuk ezeket. Bármikor módosíthatja a beállításokat.
+Asztali számítógépen és Androidon, ha a Firefox váratlan problémába ütközik, a [Mozilla Összeomlás-jelentő](https://support.mozilla.org/kb/mozillacrashreporter) azt is megkérdezi, hogy kíván-e további adatokat küldeni nekünk, amelyek magukban foglalhatják az összeomlás idején nyitva lévő webhelyeket és egyéb böngészési adatokat. Asztali számítógépen és Androidon, ha bekapcsolja a hibajelentések automatikus küldését, ezeket az adatokat anélkül gyűjtjük, hogy minden alkalommal megkérdeznénk – iOS rendszeren a hibajelentések kevesebb adatot tartalmaznak, és alapértelmezés szerint automatikusan megkapjuk ezeket. Bármikor módosíthatja a beállításokat.
 
 #### További adatok, beleértve az adatbeállítások módosítását:
 
@@ -163,7 +163,7 @@ A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi n
 
 A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
 
-## Az Ön jogai és döntései:
+## Az Ön jogai és döntései
 
 ### Az Ön jogai:
 
@@ -477,7 +477,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
     </tbody>
 </table>
 
-## A keresőszolgáltatók adatvédelmi szabályzatai:
+## A keresőszolgáltatók adatvédelmi szabályzatai
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

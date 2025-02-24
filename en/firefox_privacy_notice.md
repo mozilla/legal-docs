@@ -163,7 +163,7 @@ We only retain your personal data for as long as necessary to fulfill the purpos
 
 Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters; data in these environments is put beyond use and only processed for business continuity purposes. We may also retain data for extended periods of time on a de-identified or aggregated basis.
 
-## Your rights and choices:
+## Your rights and choices
 
 ### Your rights:
 
@@ -477,7 +477,7 @@ We may need to change this policy and our notices, in which case the updates wil
     </tbody>
 </table>
 
-## Privacy Policies for Search Providers:
+## Privacy Policies for Search Providers
 
 [Google](https://policies.google.com/privacy)
 

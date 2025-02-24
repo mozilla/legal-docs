@@ -163,7 +163,7 @@ Vaše osobní údaje uchováváme pouze po dobu nezbytně nutnou ke splnění ú
 
 Naše služby rovněž využívají šifrované záložní úložiště jako další vrstvu ochrany, která nám má pomoci s obnovením po případných nehodách údaje v těchto prostředích jsou vyřazeny z použití a jsou zpracovávány pouze za účelem zajištění kontinuity podnikání. Údaje po delší dobu rovněž uchováváme v deidentifikované nebo souhrnné podobě.
 
-## Vaše právo a volby:
+## Vaše právo a volby
 
 ### Vaše práva:
 
@@ -477,7 +477,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
     </tbody>
 </table>
 
-## Zásady ochrany osobních údajů pro poskytovatele vyhledávání:
+## Zásady ochrany osobních údajů pro poskytovatele vyhledávání
 
 [Google](https://policies.google.com/privacy)
 

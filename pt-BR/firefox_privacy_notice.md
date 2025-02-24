@@ -94,7 +94,7 @@ A Mozilla realiza [estudos](https://support.mozilla.org/kb/shield) no Firefox e 
 
 Também precisam tratar dados para manter o Firefox funcionando, melhorar os recursos e o desempenho, e identificar e solucionar problemas. Para essa finalidade, usamos dados técnicos, de localização e de configurações, além de dados de interação e de desempenho do sistema (como número de abas abertas, uso de memória ou resultado de processos automatizados, como atualizações). Em raras situações nas quais as informações necessárias também incluem dados limitados de navegação (por exemplo, anotações de TLD para monitoramento de desempenho de carregamento de página), elas serão transferidas usando OHTTP, ajudando a impedir que a Mozilla vincule você ou seu dispositivo aos dados coletados para essa finalidade.
 
-No computador e no iOS, se o Firefox encontrar um problema inesperado, o [Crash Reporter da Mozilla](https://support.mozilla.org/kb/mozillacrashreporter) perguntará se você deseja nos enviar outras informações, que podem incluir sites abertos no momento do travamento e outros dados de navegação. No computador e no Android, se você ativar o envio automático de relatórios de travamento, coletaremos essas informações sem avisar sempre que isso ocorrer. Os relatórios de travamento contêm menos informações e são enviados automaticamente para nós por padrão. Você pode alterar suas configurações a qualquer momento.
+No computador e no Android, se o Firefox encontrar um problema inesperado, o [Crash Reporter da Mozilla](https://support.mozilla.org/kb/mozillacrashreporter) perguntará se você deseja nos enviar outras informações, que podem incluir sites abertos no momento do travamento e outros dados de navegação. No computador e no Android, se você ativar o envio automático de relatórios de travamento, coletaremos essas informações sem avisar sempre que isso ocorrer. Os relatórios de travamento contêm menos informações e são enviados automaticamente para nós por padrão. Você pode alterar suas configurações a qualquer momento.
 
 #### Mais informações, incluindo como ajustar suas configurações de dados:
 
@@ -477,7 +477,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
     </tbody>
 </table>
 
-## Políticas de privacidade de provedores de pesquisa:
+## Políticas de privacidade de provedores de pesquisa
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipédia](https://en.wikipedia.org/wiki/Privacy_policy)
-

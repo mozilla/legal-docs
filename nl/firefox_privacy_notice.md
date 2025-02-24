@@ -163,7 +163,7 @@ Persoonlijke gegevens worden uitsluitend zolang bewaard als nodig is om te voldo
 
 Onze services maken ook gebruik van versleutelde back-upopslag als een extra beschermingslaag voor hersteldoeleinden met betrekking tot potentiële rampen. Gegevens in deze omgevingen worden buiten gebruik gesteld en worden alleen verwerkt voor doeleinden voor bedrijfscontinuïteit. We kunnen af en toe gegevens ook gedurende langere perioden bewaren in een gedeïdentificeerde of samengevoegde vorm.
 
-## Uw rechten en keuzemogelijkheden:
+## Uw rechten en keuzemogelijkheden
 
 ### Uw rechten:
 
@@ -477,7 +477,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
     </tbody>
 </table>
 
-## Privacybeleid voor leveranciers van zoekservices:
+## Privacybeleid voor leveranciers van zoekservices
 
 [Google](https://policies.google.com/privacy)
 

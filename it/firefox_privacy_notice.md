@@ -163,7 +163,7 @@ Conserviamo i tuoi dati personali solo per il tempo necessario a soddisfare gli 
 
 I nostri servizi utilizzano anche l'archiviazione di backup crittografata come ulteriore livello di protezione per aiutare il recupero da potenziali incidenti; i dati in questi ambienti non vengono utilizzati e sono elaborati solo per scopi di continuità aziendale. Possiamo anche conservare i dati per periodi di tempo prolungati su base de-identificata o aggregata.
 
-## I tuoi diritti e le tue scelte:
+## I tuoi diritti e le tue scelte
 
 ### I tuoi diritti:
 
@@ -477,7 +477,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
     </tbody>
 </table>
 
-## Informativa sulla privacy per i provider di ricerca:
+## Informativa sulla privacy per i provider di ricerca
 
 [Google](https://policies.google.com/privacy)
 
