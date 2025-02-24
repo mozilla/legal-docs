@@ -94,7 +94,7 @@ Mozilla realiza [estudios](https://support.mozilla.org/kb/shield) dentro de Fire
 
 También necesitamos procesar datos para mantener Firefox operativo, mejorar las funciones y el rendimiento, e identificar, solucionar y diagnosticar problemas. Para ello utilizamos datos técnicos, de ubicación y configuración, así como datos de interacción y rendimiento del sistema (como el número de pestañas abiertas, el uso de la memoria o el resultado de procesos automatizados como las actualizaciones). En las raras situaciones en que la información necesaria también incluye datos de navegación limitados (por ejemplo, anotaciones del dominio de nivel superior para el seguimiento del rendimiento de carga de páginas), se transmitirá mediante OHTTP; esto ayuda a evitar que Mozilla le vincule a usted o a su dispositivo con los datos recopilados para este propósito.
 
-En el escritorio y en iOS, si Firefox encuentra un problema inesperado, el [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) también le preguntará si usted desea enviarnos información adicional, que puede incluir sitios que estaban abiertos en el momento del crash y otros datos de navegación. En Desktop y Android, si usted decide enviarnos informes de fallos automáticamente, recopilamos esta información sin solicitárselo cada vez; en iOS, los informes de fallos contienen menos información y se nos envían automáticamente por defecto. Usted puede cambiar su configuración en cualquier momento.
+En Desktop y Android, si Firefox encuentra un problema inesperado, el [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) también le preguntará si usted desea enviarnos información adicional, que puede incluir sitios que estaban abiertos en el momento del crash y otros datos de navegación. En Desktop y Android, si usted decide enviarnos informes de fallos automáticamente, recopilamos esta información sin solicitárselo cada vez; en iOS, los informes de fallos contienen menos información y se nos envían automáticamente por defecto. Usted puede cambiar su configuración en cualquier momento.
 
 #### Más información, incluyendo cómo ajustar la configuración de sus datos:
 
@@ -163,7 +163,7 @@ Solo conservamos sus datos personales durante el tiempo necesario para cumplir l
 
 Nuestros servicios también utilizan el almacenamiento de copias de seguridad cifradas como otra capa de protección para ayudar a recuperarse de posibles desastres; los datos en estos entornos se ponen fuera de uso y solo se procesan con fines de continuidad del negocio. También podemos retener datos durante períodos prolongados de tiempo de forma agregada o desidentificada.
 
-## Sus derechos y opciones:
+## Sus derechos y opciones
 
 ### Sus derechos:
 
@@ -477,7 +477,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
     </tbody>
 </table>
 
-## Políticas de privacidad para proveedores de búsqueda:
+## Políticas de privacidad para proveedores de búsqueda
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

@@ -94,7 +94,7 @@ Mozilla runs [studies](https://support.mozilla.org/kb/shield) within Firefox and
 
 We also need to process data to keep Firefox operational, improve features and performance, and identify, troubleshoot and diagnose issues. For this we use technical, location and settings data, as well as interaction and system performance data (such as number of tabs open, memory usage or the outcome of automated processes like updates). In the rare situations where the information needed also includes limited browsing data (e.g., Top Level Domain annotations for page-load performance monitoring), it will be transmitted using OHTTP; this helps prevent Mozilla from linking you or your device to the data collected for this purpose.
 
-On desktop and iOS, if Firefox encounters an unexpected issue, the [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) will also ask if you wish to send us additional information, which may include sites that were open at the time of the crash and other browsing data. On Desktop and Android if you opt in to sending us crash reports automatically, we collect this information without prompting you each time; on iOS, crash reports contain less information and are sent automatically to us by default. You can change your settings at any time.
+On Desktop and Android, if Firefox encounters an unexpected issue, the [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) will also ask if you wish to send us additional information, which may include sites that were open at the time of the crash and other browsing data. On Desktop and Android if you opt in to sending us crash reports automatically, we collect this information without prompting you each time; on iOS, crash reports contain less information and are sent automatically to us by default. You can change your settings at any time.
 
 #### More information, including how to adjust your data settings:
 
@@ -163,7 +163,7 @@ We only retain your personal data for as long as necessary to fulfill the purpos
 
 Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters; data in these environments is put beyond use and only processed for business continuity purposes. We may also retain data for extended periods of time on a de-identified or aggregated basis.
 
-## Your rights and choices:
+## Your rights and choices
 
 ### Your rights:
 
@@ -477,7 +477,7 @@ We may need to change this policy and our notices, in which case the updates wil
     </tbody>
 </table>
 
-## Privacy Policies for Search Providers:
+## Privacy Policies for Search Providers
 
 [Google](https://policies.google.com/privacy)
 

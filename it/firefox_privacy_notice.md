@@ -94,7 +94,7 @@ Mozilla conduce [studi](https://support.mozilla.org/kb/shield) all'interno di Fi
 
 Abbiamo inoltre bisogno di elaborare i dati per mantenere Firefox operativo, migliorarne le funzioni e le prestazioni e identificare, risolvere e diagnosticare i problemi. A tal fine utilizziamo dati tecnici, di localizzazione e di impostazione, nonché dati relativi alle interazioni e alle prestazioni del sistema (come il numero di schede aperte, l'utilizzo della memoria o l'esito di processi automatizzati come gli aggiornamenti). Nei rari casi in cui le informazioni necessarie includano anche dati di navigazione limitati (ad esempio, annotazioni del dominio di primo livello per il monitoraggio delle prestazioni di caricamento delle pagine), questi verranno trasmessi tramite OHTTP per evitare che Mozilla possa collegare te o il tuo dispositivo ai dati raccolti per questo scopo.
 
-Su desktop e iOS, se Firefox riscontra un problema imprevisto, il [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) ti chiederà anche se desideri inviarci ulteriori informazioni, che possono includere i siti aperti al momento dell'arresto anomalo e altri dati di navigazione. Su Desktop e Android, se scegli di inviarci automaticamente le segnalazioni di arresti anomali, raccoglieremo queste informazioni senza richiederle ogni volta; su iOS, le segnalazioni di arresti anomali contengono meno informazioni e ci vengono inviate automaticamente per impostazione predefinita. Puoi modificare le impostazioni in qualsiasi momento.
+Su Desktop e Android, se Firefox riscontra un problema imprevisto, il [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) ti chiederà anche se desideri inviarci ulteriori informazioni, che possono includere i siti aperti al momento dell'arresto anomalo e altri dati di navigazione. Su Desktop e Android, se scegli di inviarci automaticamente le segnalazioni di arresti anomali, raccoglieremo queste informazioni senza richiederle ogni volta; su iOS, le segnalazioni di arresti anomali contengono meno informazioni e ci vengono inviate automaticamente per impostazione predefinita. Puoi modificare le impostazioni in qualsiasi momento.
 
 #### Ulteriori informazioni, tra cui come regolare le impostazioni dei dati:
 
@@ -163,7 +163,7 @@ Conserviamo i tuoi dati personali solo per il tempo necessario a soddisfare gli 
 
 I nostri servizi utilizzano anche l'archiviazione di backup crittografata come ulteriore livello di protezione per aiutare il recupero da potenziali incidenti; i dati in questi ambienti non vengono utilizzati e sono elaborati solo per scopi di continuità aziendale. Possiamo anche conservare i dati per periodi di tempo prolungati su base de-identificata o aggregata.
 
-## I tuoi diritti e le tue scelte:
+## I tuoi diritti e le tue scelte
 
 ### I tuoi diritti:
 
@@ -477,7 +477,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
     </tbody>
 </table>
 
-## Informativa sulla privacy per i provider di ricerca:
+## Informativa sulla privacy per i provider di ricerca
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

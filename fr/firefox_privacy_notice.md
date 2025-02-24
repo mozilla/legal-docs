@@ -94,7 +94,7 @@ Mozilla mène des [études](https://support.mozilla.org/kb/shield) dans Firefox 
 
 Nous avons également besoin de traiter des données pour maintenir Firefox opérationnel, améliorer les fonctionnalités et les performances, et identifier, dépanner et diagnostiquer les problèmes. Pour cela, nous utilisons des données techniques, de localisation et de paramétrage, ainsi que des données d'interaction et de performance du système (comme le nombre d'onglets ouverts, l'utilisation de la mémoire ou le résultat de processus automatisés comme les mises à jour). Dans de rares cas où les informations nécessaires comprennent également des données de navigation limitées (par exemple, des annotations de domaine de premier niveau pour le suivi des performances de chargement des pages), elles seront transmises en utilisant OHTTP ; cela permet d'empêcher Mozilla de vous associer ou d'associer votre appareil aux données collectées à cette fin.
 
-Sur les versions Ordinateur et iOS, si Firefox rencontre un problème inattendu, le [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) vous demandera également si vous souhaitez nous envoyer des informations supplémentaires, qui peuvent inclure les sites qui étaient ouverts au moment du crash et d'autres données de navigation. Sur les versions Ordinateur et Android, si vous choisissez de nous envoyer automatiquement des rapports de panne, nous collectons ces informations sans vous le demander à chaque fois ; sur iOS, les rapports de panne contiennent moins d'informations et nous sont envoyés automatiquement par défaut. Vous pouvez modifier vos paramètres à tout moment.
+Sur les versions Ordinateur et Android, si Firefox rencontre un problème inattendu, le [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) vous demandera également si vous souhaitez nous envoyer des informations supplémentaires, qui peuvent inclure les sites qui étaient ouverts au moment du crash et d'autres données de navigation. Sur les versions Ordinateur et Android, si vous choisissez de nous envoyer automatiquement des rapports de panne, nous collectons ces informations sans vous le demander à chaque fois ; sur iOS, les rapports de panne contiennent moins d'informations et nous sont envoyés automatiquement par défaut. Vous pouvez modifier vos paramètres à tout moment.
 
 #### Plus de détails, notamment sur l'ajustement de vos paramètres de données :
 
@@ -163,7 +163,7 @@ Nous ne conservons vos données personnelles que le temps nécessaire à la réa
 
 Nos services utilisent également un stockage de sauvegarde chiffré comme autre couche de protection pour aider à récupérer des éventuels désastres ; les données dans ces environnements sont mises hors d'usage et ne sont traitées qu'à des fins de continuité des activités. Nous pouvons également conserver des données pendant de longues périodes sur une base dépersonnalisée ou agrégée.
 
-## Vos droits et vos choix :
+## Vos droits et vos choix
 
 ### Vos droits :
 
@@ -477,7 +477,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
     </tbody>
 </table>
 
-## Politiques de confidentialité des services de recherches :
+## Politiques de confidentialité des services de recherches
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

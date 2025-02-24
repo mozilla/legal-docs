@@ -94,7 +94,7 @@ Mozilla führt [Studien](https://support.mozilla.org/kb/shield) innerhalb von Fi
 
 Zudem müssen wir Daten verarbeiten, um Firefox funktionsfähig zu halten, Funktionen und Leistung zu verbessern und Probleme zu ermitteln, zu beheben und zu diagnostizieren. Hierfür verwenden wir technische Daten, Standort- und Einstellungsdaten sowie Interaktions- und Systemleistungsdaten (z. B. Anzahl der geöffneten Tabs, Speichernutzung oder das Ergebnis automatisierter Prozesse wie Updates). In den seltenen Fällen, in denen die benötigten Informationen auch nur begrenzte Browser-Daten umfassen (z. B. Anmerkungen zur Top-Level-Domain zwecks Überwachung der Seitenladezeit), werden diese über OHTTP übertragen. Dadurch wird verhindert, dass Mozilla Sie oder Ihr Gerät mit den zu diesem Zweck erfassten Daten verknüpfen kann.
 
-Wenn Firefox auf dem Desktop und unter iOS auf ein unerwartetes Problem stößt, fragt der [Mozilla-Absturzmelder](https://support.mozilla.org/kb/mozillacrashreporter) auch nach, ob Sie uns zusätzliche Informationen – z. B. welche Websites zum Zeitpunkt des Absturzes geöffnet waren, und weitere Browser-Daten – senden möchten. Wenn Sie auf dem Desktop und bei Android-Geräten die automatische Übermittlung von Absturzberichten an uns aktivieren, erfassen wir diese Informationen, ohne Sie jeweils zur Bestätigung aufzufordern. Bei iOS-Geräten enthalten Absturzberichte weniger Informationen und werden standardmäßig automatisch an uns übermittelt. Sie können Ihre Einstellungen jederzeit ändern.
+Wenn Firefox auf dem Desktop und unter Android auf ein unerwartetes Problem stößt, fragt der [Mozilla-Absturzmelder](https://support.mozilla.org/kb/mozillacrashreporter) auch nach, ob Sie uns zusätzliche Informationen – z. B. welche Websites zum Zeitpunkt des Absturzes geöffnet waren, und weitere Browser-Daten – senden möchten. Wenn Sie auf dem Desktop und bei Android-Geräten die automatische Übermittlung von Absturzberichten an uns aktivieren, erfassen wir diese Informationen, ohne Sie jeweils zur Bestätigung aufzufordern. Bei iOS-Geräten enthalten Absturzberichte weniger Informationen und werden standardmäßig automatisch an uns übermittelt. Sie können Ihre Einstellungen jederzeit ändern.
 
 #### Weitere Informationen, einschließlich der Anpassung Ihrer Dateneinstellungen:
 
@@ -163,7 +163,7 @@ Wir bewahren Ihre personenbezogenen Daten nur so lange auf, wie es für die Erf�
 
 Unsere Dienste nutzen außerdem verschlüsselte Sicherungsspeicher als weitere Schutzebene, um die Wiederherstellung nach eventuellen Katastrophen zu erleichtern. Daten in solchen Umgebungen werden außer Betrieb gestellt und ausschließlich für Zwecke der Geschäftskontinuität verarbeitet. Zudem sind wir berechtigt, Daten für längere Zeiträume in anonymisierter oder aggregierter Form aufzubewahren.
 
-## Ihre Rechte und Optionen:
+## Ihre Rechte und Optionen
 
 ### Ihre Rechte:
 
@@ -477,7 +477,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
     </tbody>
 </table>
 
-## Datenschutzbestimmungen von Suchmaschinen:
+## Datenschutzbestimmungen von Suchmaschinen
 
 [Google](https://policies.google.com/privacy)
 
@@ -490,4 +490,3 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-
