@@ -79,6 +79,7 @@ jobs:
             # Create pull request
             gh pr create \
               --title "[l10n] Source document updates" \
+              --body "Tracking document updates for l10n" \
               --head l10n_updates \
               --base l10n_reference \
               --label l10n \
