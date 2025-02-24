@@ -94,7 +94,7 @@ Mozilla prowadzi [badania](https://support.mozilla.org/kb/shield) w przeglądarc
 
 Musimy również przetwarzać dane, aby utrzymać działanie przeglądarki Firefox, ulepszać funkcje i wydajność oraz identyfikować, rozwiązywać i diagnozować problemy. W tym celu wykorzystujemy dane techniczne, dane o lokalizacji i ustawieniach, a także dane dotyczące interakcji i wydajności systemu (takie jak liczba otwartych kart, zużycie pamięci lub wyniki zautomatyzowanych procesów, takich jak aktualizacje). W rzadkich sytuacjach, gdy potrzebne informacje obejmują również ograniczone dane przeglądania (np. adnotacje domen najwyższego poziomu do monitorowania wydajności ładowania stron), będą one przesyłane za pomocą OHTTP; pomaga to zapobiec powiązaniu przez firmę Mozilla użytkownika lub jego urządzenia z danymi zebranymi w tym celu.
 
-Na komputerach i w systemie iOS, jeśli Firefox napotka nieoczekiwany problem, [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) wyświetli również monit, czy użytkownik chce przesłać nam dodatkowe informacje, które mogą obejmować witryny otwarte w momencie awarii i inne dane przeglądania. Na komputerach i w systemie Android, jeśli użytkownik wyrazi zgodę na automatyczne wysyłanie raportów o awariach, zbieramy te informacje bez każdorazowego monitowania użytkownika; w systemie iOS raporty o awariach zawierają mniej informacji i są domyślnie wysyłane do nas automatycznie. Ustawienia można zmienić w dowolnym momencie.
+Na komputerach i w systemie Android, jeśli Firefox napotka nieoczekiwany problem, [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) wyświetli również monit, czy użytkownik chce przesłać nam dodatkowe informacje, które mogą obejmować witryny otwarte w momencie awarii i inne dane przeglądania. Na komputerach i w systemie Android, jeśli użytkownik wyrazi zgodę na automatyczne wysyłanie raportów o awariach, zbieramy te informacje bez każdorazowego monitowania użytkownika; w systemie iOS raporty o awariach zawierają mniej informacji i są domyślnie wysyłane do nas automatycznie. Ustawienia można zmienić w dowolnym momencie.
 
 #### Więcej informacji, w tym sposób dostosowania ustawień danych:
 
@@ -490,4 +490,3 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

@@ -94,7 +94,7 @@ Mozilla voert [onderzoeken](https://support.mozilla.org/kb/shield) uit binnen Fi
 
 We moeten ook gegevens verwerken om Firefox operationeel te houden, voor het verbeteren van functies en prestaties en voor het identificeren, diagnosticeren en oplossen van problemen. Hiervoor gebruiken we technische gegevens, locatiegegevens, gegevens over instellingen, interactiegegevens en gegevens over systeemprestaties (zoals het aantal open tabbladen, het geheugengebruik of de uitkomst van geautomatiseerde processen, zoals updates). In de zeldzame situaties waarin deze informatie nodig is, omvat dit ook beperkte navigatiegegevens (zoals annotaties voor domeinen op het hoogste niveau voor het monitoren van laadprestaties van pagina's). Deze worden verzonden via OHTTP. Dit voorkomt dat Mozilla u of uw apparaat kan koppelen aan de gegevens die voor dit doel worden verzameld.
 
-Op desktops en onder iOS, vraagt [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) of u ons aanvullende gegevens wilt verzenden als Firefox op een onverwacht probleem stuit. Deze informatie omvat welke sites open waren op het moment van crashes, evenals andere navigatiegegevens. Als u zich inschrijft voor het automatisch verzamelen van crashrapporten, verzamelen we op desktops en onder Android informatie zonder dat dit telkens opnieuw wordt gevraagd. Onder iOS bevatten crashrapporten minder informatie en worden deze standaard automatisch naar ons verzonden. U kunt uw instellingen op elk gewenst moment wijzigen.
+Op desktops en onder Android, vraagt [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) of u ons aanvullende gegevens wilt verzenden als Firefox op een onverwacht probleem stuit. Deze informatie omvat welke sites open waren op het moment van crashes, evenals andere navigatiegegevens. Als u zich inschrijft voor het automatisch verzamelen van crashrapporten, verzamelen we op desktops en onder Android informatie zonder dat dit telkens opnieuw wordt gevraagd. Onder iOS bevatten crashrapporten minder informatie en worden deze standaard automatisch naar ons verzonden. U kunt uw instellingen op elk gewenst moment wijzigen.
 
 #### Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:
 
@@ -490,4 +490,3 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-

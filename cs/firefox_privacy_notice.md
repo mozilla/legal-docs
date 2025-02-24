@@ -94,7 +94,7 @@ Společnost Mozilla provádí [studie](https://support.mozilla.org/kb/shield) v 
 
 Rovněž potřebujeme zpracovávat údaje pro zachování provozuschopnosti Firefoxu, zlepšování funkcí a výkonu a pro identifikaci, řešení a diagnostiku problémů. Za tímto účelem využíváme technické údaje a data o lokalitě a nastaveních, jakož i o interakcích a údaje o výkonu systému (jako je počet otevřených karet, využití paměti nebo výsledky automatizovaných procesů jako jsou aktualizace). Ve vzácných případech, kdy potřebné informace zahrnují jako omezené údaje o procházení (např. Poznámky domény nejvyšší úrovně pro monitorování výkonu načítání stránek), tyto budou přeneseny pomocí technologie OHTTP; to pomáhá zabránit tomu, aby společnost Mozilla propojila vás nebo vaše zařízení s daty shromážděnými za tímto účelem.
 
-Na stolních počítačích a v systémech iOS, pokud Firefox narazí na nečekaný problém, funkce [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) se rovněž zeptá, zda si přejete odeslat nám další informace, které mohou zahrnovat stránky otevřené v okamžiku havárie a další údaje o procházení. V případě stolních počítačů a systémů Android, pokud se rozhodnete pro automatické odeslání hlášení o havárii, budeme tyto informace shromažďovat bez dalšího dotazu v každém případě; v případě systému iOS obsahují hlášení o havárii méně informací a dle výchozího nastavení jsou nám odesílány automaticky. Svá nastavení můžete kdykoliv upravit.
+Na stolních počítačích a v systémech Android, pokud Firefox narazí na nečekaný problém, funkce [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) se rovněž zeptá, zda si přejete odeslat nám další informace, které mohou zahrnovat stránky otevřené v okamžiku havárie a další údaje o procházení. V případě stolních počítačů a systémů Android, pokud se rozhodnete pro automatické odeslání hlášení o havárii, budeme tyto informace shromažďovat bez dalšího dotazu v každém případě; v případě systému iOS obsahují hlášení o havárii méně informací a dle výchozího nastavení jsou nám odesílány automaticky. Svá nastavení můžete kdykoliv upravit.
 
 #### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
 
@@ -490,4 +490,3 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
-
