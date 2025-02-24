@@ -58,7 +58,10 @@ class DocumentCheck:
         html_content = markdown.markdown(content)
         doc = BeautifulSoup(html_content, "html.parser")
         for link in doc.findAll("a"):
-            links.append(link.get("href"))
+            # For anchors without an href attribute, store the id
+            href = link.get("href", link.get("id", None))
+            if href:
+                links.append(href)
 
         return links
 
