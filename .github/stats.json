@@ -202,7 +202,7 @@
   "firefox_privacy_notice.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2024-05-13",
+    "last_update": "2025-02-25",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_privacy_notice.md",
     "locales": [
       "cs",
@@ -274,6 +274,27 @@
       "it",
       "ms",
       "nl"
+    ]
+  },
+  "firefox_terms_of_use.md": {
+    "count": 13,
+    "has_source": true,
+    "last_update": "2025-02-25",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_terms_of_use.md",
+    "locales": [
+      "cs",
+      "de",
+      "es-ES",
+      "fr",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
     ]
   },
   "focus_privacy_notice.md": {
@@ -651,7 +672,7 @@
   "thunderbird_privacy_policy.md": {
     "count": 0,
     "has_source": true,
-    "last_update": "2024-12-09",
+    "last_update": "2025-02-12",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/thunderbird_privacy_policy.md",
     "locales": []
   },
