@@ -13,6 +13,7 @@ List of translated files (number of locales between parentheses):
 * firefox_privacy_notice.md (13)
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
+* firefox_terms_of_use.md (13)
 * focus_privacy_notice.md (18)
 * hubs_privacy_notice.md (10)
 * hubs_tos.md (10)
