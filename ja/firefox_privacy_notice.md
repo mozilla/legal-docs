@@ -16,7 +16,7 @@ Mozilla は、Firefox ブラウザーの主要機能や関連サービスを提�
 ウェブページの自動[翻訳](https://support.mozilla.org/kb/website-translation)や[ PDF の画像をアップロードした際に提案される「代替テキスト」](https://support.mozilla.org/kb/pdf-alt-text)など、一部の Firefox 機能は、あなたのデバイスにダウンロードされた小規模言語モデルに基づく人工知能 (AI) を利用しています。これらの機能はローカルで実行されるため、ウェブページのコンテンツ、PDF、画像、タブの URL などは、あなたのデバイス上に存在するだけで、Mozilla に送信されることもなければ、明示的な同意なしに学習に使用されることもありません。その他の Firefox 機能の中には、サードパーティーの AI モデルを組み込んだものもあります。これについては、この通知でさらに詳しくご説明します。
 
 #### その他の詳細 (データの設定を変更する方法など):
-[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、[iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) で Mozilla が収集する情報について、詳細をご確認ください。[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)と[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)のデータ収集設定は、いつでも変更できます。
+[デスクトップ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、[iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) で Mozilla が収集する情報について、詳細をご確認ください。[デスクトップ](https://support.mozilla.org/kb/technical-and-interaction-data)と[モバイル](https://support.mozilla.org/kb/technical-and-interaction-data)のデータ収集設定は、いつでも変更できます。
 
 ### Firefox をニーズに合わせて調整するため
 
@@ -52,7 +52,7 @@ Mozilla は、Firefox の新しいタブページに、コンテンツや広告�
 
 #### その他の詳細 (データの設定を変更する方法など):
 
-[データ設定](https://support.mozilla.org/kb/sponsor-privacy)を含む[新しいタブページの管理方法](https://support.mozilla.org/kb/customize-your-new-tab-page)について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)および[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)上で「技術データと対話データ」をオフにすることで、いつでもオプトアウトできます。
+[データ設定](https://support.mozilla.org/kb/sponsor-privacy)を含む[新しいタブページの管理方法](https://support.mozilla.org/kb/customize-your-new-tab-page)について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、[デスクトップ](https://support.mozilla.org/kb/technical-and-interaction-data)および[モバイル](https://support.mozilla.org/kb/technical-and-interaction-data)上で「技術データと対話データ」をオフにすることで、いつでもオプトアウトできます。
 
 ### Mozilla アカウントを提供するため
 
@@ -70,13 +70,13 @@ Firefox で AI チャットボットを[管理](https://support.mozilla.org/kb/a
 
 ### レビューチェッカーを提供するため (スポンサー付きコンテンツの提供を含む)
 
-レビューチェッカーは、Amazon.com や BestBuy.com、Walmart.com のようなサイトでオンラインショッピングを行う際に、レビューの信頼性を判断できるようサポートする Firefox 機能です。あなたがレビューチェッカーを利用するようオプトインした場合、Mozilla は、OHTTP というプライバシー保護テクノロジーを使い、あなたが閲覧しているウェブサイトや製品の製品 ID に関する情報を処理します。OHTTP は、暗号化とサードパーティーの仲介サーバーを組み合わせたもので、Mozilla によってあなたまたはあなたのデバイスが、閲覧した製品と結び付けられることを防ぎます。Mozilla は、Firefox を改善するために、この機能がどのように使用されているかを示す技術データと対話データも収集します。
+レビューチェッカーは、Amazon.com や BestBuy.com、Walmart.com のようなサイトでオンラインショッピングを行う際に、レビューの信頼性を判断できるようサポートする Firefox 機能です。あなたがレビューチェッカーを利用するようオプトインした場合、Mozilla は、[OHTTP](https://support.mozilla.org/kb/ohttp-explained) というプライバシー保護テクノロジーを使い、あなたが閲覧しているウェブサイトや製品の製品 ID に関する情報を処理します。OHTTP は、暗号化とサードパーティーの仲介サーバーを組み合わせたもので、Mozilla によってあなたまたはあなたのデバイスが、閲覧した製品と結び付けられることを防ぎます。Mozilla は、Firefox を改善するために、この機能がどのように使用されているかを示す技術データと対話データも収集します。
 
 あなたは、レビューチェッカーの利用を選択することで、おすすめ製品やスポンサー付きコンテンツの表示にも同意したことになります。おすすめ製品やスポンサー付きコンテンツの表示を希望しない場合は、レビューチェッカーの設定でいつでもこの機能をオプトアウトすることができます。
 
 #### その他の詳細 (データの設定を変更する方法など):
 
-[Firefox レビューチェッカーの使用方法](https://support.mozilla.org/kb/review-checker-review-quality)や、OHTTP などのプライバシー保護テクノロジーの実装について詳細をご確認ください。
+[Firefox レビューチェッカーの使用方法](https://support.mozilla.org/kb/review-checker-review-quality)や、[OHTTP](https://support.mozilla.org/kb/ohttp-explained) などのプライバシー保護テクノロジーの実装について詳細をご確認ください。
 
 ### アドオンを提供・有効化するため (addons.mozilla.org)
 
@@ -86,7 +86,7 @@ Firefox で AI チャットボットを[管理](https://support.mozilla.org/kb/a
 
 #### その他の詳細 (データの設定を変更する方法など):
 
-[アドオンを削除または有効化する方法](https://support.mozilla.org/kb/disable-or-remove-add-ons)をご確認ください。[アドオンウェブサイト](https://addons.mozilla.org/firefox/)の[プライバシーに関する通知](https://www.mozilla.org/privacy/websites/)もご覧いただけます。
+[アドオンを削除または有効化する方法](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)をご確認ください。[アドオンウェブサイト](https://addons.mozilla.org/firefox/)の[プライバシーに関する通知](https://www.mozilla.org/privacy/websites/)もご覧いただけます。
 
 ### 機能、パフォーマンス、安定性を維持および改善するため
 
@@ -119,7 +119,7 @@ Mozilla は、あなたが Mozilla のサービスをどのように使用して
 
 #### その他の詳細 (データの設定を変更する方法など):
 
-[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)と[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、[毎日の使用頻度の送信](https://support.mozilla.org/kb/usage-ping-settings)には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。
+[デスクトップ](https://support.mozilla.org/kb/technical-and-interaction-data)と[モバイル](https://support.mozilla.org/kb/technical-and-interaction-data)のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、[毎日の使用頻度の送信](https://support.mozilla.org/kb/usage-ping-settings)には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。
 
 ### Mozilla のサービスのマーケティングのため
 
@@ -127,7 +127,7 @@ Firefox は、あなたが許可した場合に、どのウェブサイトドメ
 
 #### その他の詳細 (データの設定を変更する方法など):
 
-収集・共有される[キャンペーン測定データ](https://support.mozilla.org/kb/desktop-attribution-privacy)の詳細とオプトアウト方法をご覧ください。注: Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。
+収集・共有される[キャンペーン測定データ](https://support.mozilla.org/kb/marketing-data)の詳細とオプトアウト方法をご覧ください。注: Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。
 
 ### データを仮名化・匿名化・集計するため
 
@@ -192,7 +192,7 @@ Mozilla は、適用されるデータ保護法に従ってデータ保護権を
 
 ### あなたの選択肢:
 
-[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)と[モバイル](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers)のデータ収集設定は、いつでも変更できます。
+[デスクトップ](https://support.mozilla.org/kb/technical-and-interaction-data)と[モバイル](https://support.mozilla.org/kb/technical-and-interaction-data)のデータ収集設定は、いつでも変更できます。
 
 Firefox は、[グローバルプライバシーコントロール](https://support.mozilla.org/kb/global-privacy-control) (GPC) も提供しています。これを有効にすると、ウェブサイトに対し、そのサイトにおけるあなたのブラウジングセッションに関する情報を販売または共有しないよう、自動的に通知されます。GPC は、カリフォルニア州、コロラド州、コネチカット州など、米国の一部の州において「販売しない」メカニズムとして機能します。また、GPC は、それらの地域や、EU、英国、米国のネバダ州、ユタ州、バージニア州といった地域において、ターゲティング広告のオプトアウト、または個人データの販売・共有の全般的な制限を求めるリクエストを示唆するためにも使用できます。
 
@@ -257,7 +257,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Firefox の操作に必要な機能をあなたに提供するという<strong>契約</strong>。</p>
                 <p>追加の機能性やアクセシビリティ、サービス、よりパーソナライズされた体験を提供することについての<strong>正当な利益</strong>。</p>
             </td>
-            <td><a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">デスクトップ</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> で Mozilla が収集する情報について、詳細をご確認ください。<a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">デスクトップ</a>と<a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">モバイル</a>のデータ収集設定は、いつでも変更できます。また、<a href="https://support.mozilla.org/kb/website-translation">翻訳</a>や <a href="https://support.mozilla.org/kb/pdf-alt-text">PDF の画像に代替テキストを追加する</a>ことについての詳細をご確認ください。</td>
+            <td><a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">デスクトップ</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> で Mozilla が収集する情報について、詳細をご確認ください。<a href="https://support.mozilla.org/kb/technical-and-interaction-data">デスクトップ</a>と<a href="https://support.mozilla.org/kb/technical-and-interaction-data">モバイル</a>のデータ収集設定は、いつでも変更できます。また、<a href="https://support.mozilla.org/kb/website-translation">翻訳</a>や <a href="https://support.mozilla.org/kb/pdf-alt-text">PDF の画像に代替テキストを追加する</a>ことについての詳細をご確認ください。</td>
         </tr>
         <tr>
             <td>Firefox をニーズに合わせて調整するため</td>
@@ -307,7 +307,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 </ul>
             </td>
             <td>あなたに興味のあるコンテンツを提供し、関連性の高い広告を表示 (して Mozilla による製品やサービスの提供に役立つように) することについての<strong>正当な利益</strong>。</td>
-            <td><a href="https://support.mozilla.org/kb/sponsor-privacy">データ設定</a>を含む<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">新しいタブページの管理方法</a>について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、<a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">デスクトップ</a>および<a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">モバイル</a>上で「技術データと対話データ」をオフにすることで、いつでもオプトアウトできます。</td>
+            <td><a href="https://support.mozilla.org/kb/sponsor-privacy">データ設定</a>を含む<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">新しいタブページの管理方法</a>について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、<a href="https://support.mozilla.org/kb/technical-and-interaction-data">デスクトップ</a>および<a href="https://support.mozilla.org/kb/technical-and-interaction-data">モバイル</a>上で「技術データと対話データ」をオフにすることで、いつでもオプトアウトできます。</td>
         </tr>
         <tr>
             <td>Mozilla アカウントを提供するため</td>
@@ -339,7 +339,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 </ul>
             </td>
             <td>あなたがレビューチェッカーの有効化を選択した場合の<strong>同意</strong>。</td>
-            <td><a href="https://support.mozilla.org/kb/review-checker-review-quality">Firefox レビューチェッカーの使用方法</a>や、OHTTP などのプライバシー保護テクノロジーの実装について詳細をご確認ください。</td>
+            <td><a href="https://support.mozilla.org/kb/review-checker-review-quality">Firefox レビューチェッカーの使用方法</a>や、<a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a> などのプライバシー保護テクノロジーの実装について詳細をご確認ください。</td>
         </tr>
         <tr>
             <td>アドオン (addons.mozilla.org、「AMO」) を有効化するため (パーソナライズされた提案の提供を含む)</td>
@@ -358,7 +358,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Mozilla が提供する特定のアドオンの有効化をあなたが選択した場合の<strong>同意</strong>。各アドオンによって処理されるデータには、そのアドオンのプライバシーポリシーが適用されます。</p>
             </td>
             <td>
-                <p><a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">アドオンを削除または有効化する方法</a>をご確認ください。</p>
+                <p><a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">アドオンを削除または有効化する方法</a>をご確認ください。</p>
                 <p><a href="https://addons.mozilla.org/firefox/">アドオンウェブサイト</a>の<a href="https://www.mozilla.org/privacy/websites/">プライバシーに関する通知</a>もご覧いただけます。</p>
             </td>
         </tr>
@@ -418,7 +418,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Firefox の使用状況を理解して改善に役立て、使用状況レポートおよび予測のようなビジネス機能を実行することについての<strong>正当な利益。</strong></p>
                 <p>適用法の下で求められる場合 (たとえば、必須でない Cookie が使用される場合)、またはユーザーがアンケートに回答したり、自発的にその他の情報を送信した場合の<strong>同意</strong>。</p>
             </td>
-            <td><a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">デスクトップ</a>と<a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">モバイル</a>のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、<a href="https://support.mozilla.org/kb/usage-ping-settings">毎日の使用頻度の送信</a>には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。</td>
+            <td><a href="https://support.mozilla.org/kb/technical-and-interaction-data">デスクトップ</a>と<a href="https://support.mozilla.org/kb/technical-and-interaction-data">モバイル</a>のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、<a href="https://support.mozilla.org/kb/usage-ping-settings">毎日の使用頻度の送信</a>には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。</td>
         </tr>
         <tr>
             <td>Mozilla のサービスのマーケティングのため</td>
@@ -438,7 +438,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Mozilla の製品・サービスを宣伝すること (マーケティングメッセージの送信、マーケティングキャンペーンの測定・改善を含む) についての<strong>正当な利益</strong>。</p>
                 <p>適用法の下で求められる場合 (たとえば、マーケティングメッセージの受信について同意を必要とする地域など) の<strong>同意</strong>。</p>
             </td>
-            <td>収集・共有される<a href="https://support.mozilla.org/kb/desktop-attribution-privacy">キャンペーン測定データ</a>の詳細とオプトアウト方法をご覧ください。注: Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。</td>
+            <td>収集・共有される<a href="https://support.mozilla.org/kb/marketing-data">キャンペーン測定データ</a>の詳細とオプトアウト方法をご覧ください。注: Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。</td>
         </tr>
         <tr>
             <td>データを仮名化・匿名化・集計するため。</td>

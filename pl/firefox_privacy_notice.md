@@ -16,7 +16,7 @@ Mozilla gromadzi [pewne dane](#bookmark-how-we-use-data), takie jak dane technic
 Niektóre funkcje przeglądarki Firefox, takie jak automatyczne [tłumaczenie](https://support.mozilla.org/kb/website-translation) stron internetowych i [sugestie „tekstu alternatywnego” podczas przesyłania obrazów w plikach PDF](https://support.mozilla.org/kb/pdf-alt-text), są obsługiwane przez sztuczną inteligencję (SI) w oparciu o małe modele językowe pobrane na urządzenie. Działają one lokalnie – zawartość stron internetowych, pliki PDF, obrazy i adresy URL kart pozostają na urządzeniu i nie są wysyłane na serwery firmy Mozilla ani wykorzystywane do celów szkoleniowych bez wyraźnej zgody użytkownika. Należy pamiętać, że inne funkcje przeglądarki Firefox mogą integrować modele sztucznej inteligencji innych firm, jak opisano szczegółowo w niniejszych Zasadach.
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
-Dostępne są bardziej szczegółowe informacje dotyczące informacji, które gromadzimy na [komputerze](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) oraz w systemach [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) i [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) i [urządzeniu mobilnym](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) można zaktualizować w dowolnym momencie.
+Dostępne są bardziej szczegółowe informacje dotyczące informacji, które gromadzimy na [komputerze](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) oraz w systemach [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) i [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/technical-and-interaction-data) i [urządzeniu mobilnym](https://support.mozilla.org/kb/technical-and-interaction-data) można zaktualizować w dowolnym momencie.
 
 ### Aby dostosować przeglądarkę Firefox do potrzeb użytkownika
 
@@ -52,7 +52,7 @@ Gdy użytkownik odwiedza witrynę internetową strony trzeciej, klikając reklam
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
 
-Możesz uzyskać więcej informacji na temat [sposobu zarządzania stroną Nowa karta](https://support.mozilla.org/kb/customize-your-new-tab-page), w tym [ustawieniami danych](https://support.mozilla.org/kb/sponsor-privacy). Użytkownik może w dowolnym momencie zrezygnować z przetwarzania jego danych do celów personalizacji lub reklamy, wyłączając opcję „dane techniczne i dane dotyczące interakcji” na [komputerze](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) lub [urządzeniu mobilnym](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
+Możesz uzyskać więcej informacji na temat [sposobu zarządzania stroną Nowa karta](https://support.mozilla.org/kb/customize-your-new-tab-page), w tym [ustawieniami danych](https://support.mozilla.org/kb/sponsor-privacy). Użytkownik może w dowolnym momencie zrezygnować z przetwarzania jego danych do celów personalizacji lub reklamy, wyłączając opcję „dane techniczne i dane dotyczące interakcji” na [komputerze](https://support.mozilla.org/kb/technical-and-interaction-data) lub [urządzeniu mobilnym](https://support.mozilla.org/kb/technical-and-interaction-data).
 
 ### Aby zapewniać konta Mozilla
 
@@ -70,13 +70,13 @@ Możesz uzyskać więcej informacji na temat sposobu [zarządzania](https://supp
 
 ### Aby zapewniać usługę Review Checker, w tym wyświetlanie treści sponsorowanych
 
-Review Checker to funkcja przeglądarki Firefox, która pomaga określić, czy recenzje są wiarygodne podczas zakupów online w witrynach takich jak Amazon.com, BestBuy.com i Walmart.com. Jeśli użytkownik wyrazi zgodę na korzystanie z funkcji Review Checker, Mozilla będzie przetwarzać informacje o witrynie i identyfikatorze przeglądanych produktów przy użyciu naszej technologii ochrony prywatności o nazwie OHTTP. OHTTP łączy w sobie szyfrowanie i serwer pośredniczący strony trzeciej, pomagając uniemożliwić firmie Mozilla powiązanie użytkownika lub jego urządzenia z przeglądanymi produktami. Gromadzimy również dane techniczne i dane dotyczące interakcji w zakresie korzystania z tej funkcji, aby pomóc w ulepszaniu przeglądarki Firefox.
+Review Checker to funkcja przeglądarki Firefox, która pomaga określić, czy recenzje są wiarygodne podczas zakupów online w witrynach takich jak Amazon.com, BestBuy.com i Walmart.com. Jeśli użytkownik wyrazi zgodę na korzystanie z funkcji Review Checker, Mozilla będzie przetwarzać informacje o witrynie i identyfikatorze przeglądanych produktów przy użyciu naszej technologii ochrony prywatności o nazwie [OHTTP](https://support.mozilla.org/kb/ohttp-explained). OHTTP łączy w sobie szyfrowanie i serwer pośredniczący strony trzeciej, pomagając uniemożliwić firmie Mozilla powiązanie użytkownika lub jego urządzenia z przeglądanymi produktami. Gromadzimy również dane techniczne i dane dotyczące interakcji w zakresie korzystania z tej funkcji, aby pomóc w ulepszaniu przeglądarki Firefox.
 
 Wyrażając zgodę na korzystanie z Review Checker, użytkownik wyraża również zgodę na wyświetlanie mu rekomendacji produktów i treści sponsorowanych. Jeśli użytkownik nie chce otrzymywać rekomendacji produktów i treści sponsorowanych, może w dowolnym momencie zrezygnować z tej funkcji w ustawieniach Review Checker.
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
 
-Możesz uzyskać więcej informacji na temat [sposobu korzystania z funkcji Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) oraz sposobu implementacji technologii chroniących prywatność, takich jak OHTTP.
+Możesz uzyskać więcej informacji na temat [sposobu korzystania z funkcji Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) oraz sposobu implementacji technologii chroniących prywatność, takich jak [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
 ### Aby zapewniać i włączać dodatki (addons.mozilla.org)
 
@@ -86,7 +86,7 @@ Gdy użytkownik odwiedza [witrynę AMO](https://addons.mozilla.org/firefox/), Mo
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
 
-Dowiedz się, [jak usuwać lub włączać dodatki](https://support.mozilla.org/kb/disable-or-remove-add-ons). Możesz także zapoznać się z [Zasadami prywatności](https://www.mozilla.org/privacy/websites/) [witryny z dodatkami](https://addons.mozilla.org/firefox/).
+Dowiedz się, [jak usuwać lub włączać dodatki](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Możesz także zapoznać się z [Zasadami prywatności](https://www.mozilla.org/privacy/websites/) [witryny z dodatkami](https://addons.mozilla.org/firefox/).
 
 ### Aby utrzymywać i ulepszać funkcje, wydajność i stabilność
 
@@ -119,7 +119,7 @@ Przetwarzamy [dane](#bookmark-understand-usage), aby lepiej zrozumieć, w jaki s
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
 
-Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) i [urządzeniu mobilnym](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) można zaktualizować w dowolnym momencie (należy zwrócić uwagę, że usunięcie zaznaczenia opcji „Zezwalaj Firefoksowi na wysyłanie danych technicznych i o interakcjach do Mozilli” nie wpłynie na funkcję [Dzienny sygnał o użyciu](https://support.mozilla.org/kb/usage-ping-settings)). Funkcja Dzienny sygnał o użyciu dostarcza nam wyłącznie zdeidentyfikowanych informacji o tym, że użytkownik korzysta z przeglądarki Firefox. nie jest powiązana z żadnymi innymi danymi o użytkowniku i można z niej zrezygnować w ustawieniach.
+Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/technical-and-interaction-data) i [urządzeniu mobilnym](https://support.mozilla.org/kb/technical-and-interaction-data) można zaktualizować w dowolnym momencie (należy zwrócić uwagę, że usunięcie zaznaczenia opcji „Zezwalaj Firefoksowi na wysyłanie danych technicznych i o interakcjach do Mozilli” nie wpłynie na funkcję [Dzienny sygnał o użyciu](https://support.mozilla.org/kb/usage-ping-settings)). Funkcja Dzienny sygnał o użyciu dostarcza nam wyłącznie zdeidentyfikowanych informacji o tym, że użytkownik korzysta z przeglądarki Firefox. nie jest powiązana z żadnymi innymi danymi o użytkowniku i można z niej zrezygnować w ustawieniach.
 
 ### Aby promować nasze usługi
 
@@ -127,7 +127,7 @@ Jeśli użytkownik wyrazi na to zgodę, przeglądarka Firefox wysyła do firmy M
 
 #### Więcej szczegółów, w tym sposób dostosowania ustawień danych:
 
-Dowiedz się więcej o [danych pomiaru kampanii](https://support.mozilla.org/kb/desktop-attribution-privacy), które są gromadzone i udostępniane, a także jak zrezygnować. Uwaga: Firefox nie udostępnia partnerom marketingowym informacji takich jak historia przeglądania, zapytania wyszukiwania czy zapisane hasła. Mozilla gromadzi wyłącznie dane niezbędne do mierzenia i ulepszania naszych kampanii marketingowych.
+Dowiedz się więcej o [danych pomiaru kampanii](https://support.mozilla.org/kb/marketing-data), które są gromadzone i udostępniane, a także jak zrezygnować. Uwaga: Firefox nie udostępnia partnerom marketingowym informacji takich jak historia przeglądania, zapytania wyszukiwania czy zapisane hasła. Mozilla gromadzi wyłącznie dane niezbędne do mierzenia i ulepszania naszych kampanii marketingowych.
 
 ### Aby pseudonimizować, deidentyfikować, agregować lub anonimizować dane
 
@@ -192,7 +192,7 @@ Dane użytkownika zebrane za pośrednictwem przeglądarki Firefox, co do któryc
 
 ### Wybory użytkownika:
 
-Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) i [urządzeniu mobilnym](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) można zaktualizować w dowolnym momencie.
+Ustawienia gromadzenia danych na [komputerze](https://support.mozilla.org/kb/technical-and-interaction-data) i [urządzeniu mobilnym](https://support.mozilla.org/kb/technical-and-interaction-data) można zaktualizować w dowolnym momencie.
 
 Firefox udostępnia również funkcję [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), którą można włączyć w celu automatycznego powiadamiania witryn internetowych, aby nie sprzedawały ani nie udostępniały informacji o sesji przeglądania w danej witrynie. GPC działa jako mechanizm „Nie sprzedawaj” w niektórych stanach USA, takich jak Kalifornia, Kolorado i Connecticut. Ta funkcja może być również używana do wskazania rezygnacji z ukierunkowanych reklam lub ogólnej prośby o ograniczenie sprzedaży lub udostępniania danych osobowych użytkownika w tych jurysdykcjach, a także w jurysdykcjach takich jak UE, Wielka Brytania, Nevada, Utah i Wirginia.
 
@@ -257,7 +257,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 <p><strong>Umowa</strong> w celu zapewnienia użytkownikowi funkcji niezbędnych do działania przeglądarki Firefox.</p>
                 <p><strong>Uzasadniony interes</strong> w zapewnieniu dodatkowych funkcji, usług dostępności i bardziej spersonalizowanego doświadczenia.</p>
             </td>
-            <td>Dostępne są bardziej szczegółowe informacje dotyczące informacji, które gromadzimy na <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">komputerze</a> oraz w systemach <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> i <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Ustawienia gromadzenia danych na <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">komputerze</a> i <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">urządzeniu mobilnym</a> można zaktualizować w dowolnym momencie. Możesz także dowiedzieć się więcej o <a href="https://support.mozilla.org/kb/website-translation">tłumaczeniu</a> i <a href="https://support.mozilla.org/kb/pdf-alt-text">dodawaniu tekstu alternatywnego do obrazów w plikach PDF</a>.</td>
+            <td>Dostępne są bardziej szczegółowe informacje dotyczące informacji, które gromadzimy na <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">komputerze</a> oraz w systemach <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> i <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Ustawienia gromadzenia danych na <a href="https://support.mozilla.org/kb/technical-and-interaction-data">komputerze</a> i <a href="https://support.mozilla.org/kb/technical-and-interaction-data">urządzeniu mobilnym</a> można zaktualizować w dowolnym momencie. Możesz także dowiedzieć się więcej o <a href="https://support.mozilla.org/kb/website-translation">tłumaczeniu</a> i <a href="https://support.mozilla.org/kb/pdf-alt-text">dodawaniu tekstu alternatywnego do obrazów w plikach PDF</a>.</td>
         </tr>
         <tr>
             <td>Aby dostosować przeglądarkę Firefox do potrzeb użytkownika</td>
@@ -307,7 +307,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 </ul>
             </td>
             <td><strong>Uzasadniony interes</strong> w dostarczaniu użytkownikowi treści, które go interesują, i upewnianiu się, że wyświetlane reklamy są odpowiednie (co wspiera naszą zdolność do dostarczania naszych produktów i usług).</td>
-            <td>Możesz uzyskać więcej informacji na temat <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">sposobu zarządzania stroną Nowa karta</a>, w tym <a href="https://support.mozilla.org/kb/sponsor-privacy">ustawieniami danych</a>. Użytkownik może w dowolnym momencie zrezygnować z przetwarzania jego danych do celów personalizacji lub reklamy, wyłączając opcję „dane techniczne i dane dotyczące interakcji” na <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">komputerze</a> lub <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">urządzeniu mobilnym</a>.</td>
+            <td>Możesz uzyskać więcej informacji na temat <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">sposobu zarządzania stroną Nowa karta</a>, w tym <a href="https://support.mozilla.org/kb/sponsor-privacy">ustawieniami danych</a>. Użytkownik może w dowolnym momencie zrezygnować z przetwarzania jego danych do celów personalizacji lub reklamy, wyłączając opcję „dane techniczne i dane dotyczące interakcji” na <a href="https://support.mozilla.org/kb/technical-and-interaction-data">komputerze</a> lub <a href="https://support.mozilla.org/kb/technical-and-interaction-data">urządzeniu mobilnym</a>.</td>
         </tr>
         <tr>
             <td>Aby zapewniać konta Mozilla</td>
@@ -339,7 +339,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 </ul>
             </td>
             <td><strong>Zgoda</strong>, gdy użytkownik zdecyduje się włączyć funkcję Review Checker.</td>
-            <td>Możesz uzyskać więcej informacji na temat <a href="https://support.mozilla.org/kb/review-checker-review-quality">sposobu korzystania z funkcji Firefox Review Checker</a> oraz sposobu implementacji technologii chroniących prywatność, takich jak OHTTP.</td>
+            <td>Możesz uzyskać więcej informacji na temat <a href="https://support.mozilla.org/kb/review-checker-review-quality">sposobu korzystania z funkcji Firefox Review Checker</a> oraz sposobu implementacji technologii chroniących prywatność, takich jak <a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a>.</td>
         </tr>
         <tr>
             <td>Aby włączyć dodatki (addons.mozilla.org, „AMO”), w tym oferowanie spersonalizowanych sugestii</td>
@@ -358,7 +358,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 <p><strong>Zgoda</strong>, gdy użytkownik zdecyduje się włączyć określony dodatek dostarczony przez firmę Mozilla. Dane przetwarzane przez poszczególne dodatki podlegają ich własnym Zasadom prywatności.</p>
             </td>
             <td>
-                <p>Dowiedz się, <a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">jak usuwać lub włączać dodatki</a>.</p>
+                <p>Dowiedz się, <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">jak usuwać lub włączać dodatki</a>.</p>
                 <p>Możesz także zapoznać się z <a href="https://www.mozilla.org/privacy/websites/">Zasadami prywatności</a> <a href="https://addons.mozilla.org/firefox/">witryny z dodatkami</a>.</p>
             </td>
         </tr>
@@ -418,7 +418,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 <p><strong>Uzasadniony interes</strong> w zrozumieniu sposobu korzystania z przeglądarki Firefox, wprowadzaniu ulepszeń i wykonywaniu funkcji biznesowych, takich jak raportowanie i prognozowanie użytkowania.</p>
                 <p><strong>Zgoda</strong>, gdy jest wymagana na mocy obowiązującego prawa (np. gdy używane są nieistotne pliki cookie) lub gdy użytkownicy angażują się w ankiety lub dobrowolnie przekazują inne informacje.</p>
             </td>
-            <td>Ustawienia gromadzenia danych na <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">komputerze</a> i <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">urządzeniu mobilnym</a> można zaktualizować w dowolnym momencie (należy zwrócić uwagę, że usunięcie zaznaczenia opcji „Zezwalaj Firefoksowi na wysyłanie danych technicznych i o interakcjach do Mozilli” nie wpłynie na funkcję <a href="https://support.mozilla.org/kb/usage-ping-settings">Dzienny sygnał o użyciu</a>). Funkcja Dzienny sygnał o użyciu dostarcza nam wyłącznie zdeidentyfikowanych informacji o tym, że użytkownik korzysta z przeglądarki Firefox. nie jest powiązana z żadnymi innymi danymi o użytkowniku i można z niej zrezygnować w ustawieniach.</td>
+            <td>Ustawienia gromadzenia danych na <a href="https://support.mozilla.org/kb/technical-and-interaction-data">komputerze</a> i <a href="https://support.mozilla.org/kb/technical-and-interaction-data">urządzeniu mobilnym</a> można zaktualizować w dowolnym momencie (należy zwrócić uwagę, że usunięcie zaznaczenia opcji „Zezwalaj Firefoksowi na wysyłanie danych technicznych i o interakcjach do Mozilli” nie wpłynie na funkcję <a href="https://support.mozilla.org/kb/usage-ping-settings">Dzienny sygnał o użyciu</a>). Funkcja Dzienny sygnał o użyciu dostarcza nam wyłącznie zdeidentyfikowanych informacji o tym, że użytkownik korzysta z przeglądarki Firefox. nie jest powiązana z żadnymi innymi danymi o użytkowniku i można z niej zrezygnować w ustawieniach.</td>
         </tr>
         <tr>
             <td>Aby promować nasze usługi.</td>
@@ -438,7 +438,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 <p><strong>Uzasadniony interes</strong> w promowaniu naszych produktów i usług, w tym wysyłaniu komunikatów marketingowych oraz mierzeniu i ulepszaniu naszych kampanii marketingowych.</p>
                 <p><strong>Zgoda</strong>, gdy jest wymagana na mocy obowiązującego prawa (np. jurysdykcje, które wymagają zgody na otrzymywanie komunikatów marketingowych).</p>
             </td>
-            <td>Dowiedz się więcej o <a href="https://support.mozilla.org/kb/desktop-attribution-privacy">danych pomiaru kampanii</a>, które są gromadzone i udostępniane, a także jak zrezygnować. Uwaga: Firefox nie udostępnia partnerom marketingowym informacji takich jak historia przeglądania, zapytania wyszukiwania czy zapisane hasła. Mozilla gromadzi wyłącznie dane niezbędne do mierzenia i ulepszania naszych kampanii marketingowych.</td>
+            <td>Dowiedz się więcej o <a href="https://support.mozilla.org/kb/marketing-data">danych pomiaru kampanii</a>, które są gromadzone i udostępniane, a także jak zrezygnować. Uwaga: Firefox nie udostępnia partnerom marketingowym informacji takich jak historia przeglądania, zapytania wyszukiwania czy zapisane hasła. Mozilla gromadzi wyłącznie dane niezbędne do mierzenia i ulepszania naszych kampanii marketingowych.</td>
         </tr>
         <tr>
             <td>Aby pseudonimizować, deidentyfikować, agregować lub anonimizować dane.</td>

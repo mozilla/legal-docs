@@ -16,7 +16,7 @@ A Mozilla coleta [alguns dados](#bookmark-how-we-use-data), como técnicos e de 
 Alguns recursos do Firefox, como a [tradução](https://support.mozilla.org/kb/website-translation) automática de páginas e as [sugestões de texto alternativo ao enviar imagens em PDFs](https://support.mozilla.org/kb/pdf-alt-text), são fornecidos por inteligência artificial (IA) baseada em pequenos modelos de linguagem baixados em seu dispositivo. Eles operam localmente: o conteúdo das páginas, os PDFs, as imagens e as URLs de abas não são enviadas para os servidores da Mozilla ou usadas para fins de treinamento sem seu consentimento explícito. Outros recursos do Firefox podem integrar modelos de IA de terceiros, conforme explicado posteriormente neste Aviso.
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
-Saiba mais sobre as informações que coletamos em [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) e dispositivos [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) e [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e [dispositivos móveis](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) a qualquer momento.
+Saiba mais sobre as informações que coletamos em [computadores](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) e dispositivos [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) e [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/technical-and-interaction-data) e [dispositivos móveis](https://support.mozilla.org/kb/technical-and-interaction-data) a qualquer momento.
 
 ### Para adaptar o Firefox às suas necessidades
 
@@ -52,7 +52,7 @@ Quando usuários acessam sites de terceiros ao clicar em um anúncio ou link no 
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
 
-Saiba mais sobre [como gerenciar sua página de nova aba](https://support.mozilla.org/kb/customize-your-new-tab-page), incluindo suas [configurações de dados](https://support.mozilla.org/kb/sponsor-privacy). Você pode desativar o tratamento dos seus dados para fins de personalização ou publicidade desativando os “dados técnicos e de interação” no [computador](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e [dispositivo móvel](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) a qualquer momento.
+Saiba mais sobre [como gerenciar sua página de nova aba](https://support.mozilla.org/kb/customize-your-new-tab-page), incluindo suas [configurações de dados](https://support.mozilla.org/kb/sponsor-privacy). Você pode desativar o tratamento dos seus dados para fins de personalização ou publicidade desativando os “dados técnicos e de interação” no [computador](https://support.mozilla.org/kb/technical-and-interaction-data) e [dispositivo móvel](https://support.mozilla.org/kb/technical-and-interaction-data) a qualquer momento.
 
 ### Para fornecer as contas da Mozilla
 
@@ -70,13 +70,13 @@ Saiba mais sobre como [gerenciamos](https://support.mozilla.org/kb/ai-chatbot) o
 
 ### Para fornecer o Verificador de Avaliações, incluindo conteúdo patrocinado
 
-O Verificador de Avaliações é um recurso do Firefox que ajuda a determinar o nível de confiança de avaliações ao comprar em sites como Amazon.com, BestBuy.com e Walmart.com. Se você ativar o Verificador de Avaliações, a Mozilla tratará informações sobre o site e o identificador dos produtos visualizados usando nossa tecnologia de preservação de privacidade OHTTP. O OHTTP combina criptografia e um servidor intermediário terceirizado, ajudando a impedir que a Mozilla vincule você ou seu dispositivo aos produtos que visualizar. Também coletamos dados técnicos e de interação sobre como esse recurso é usado para ajudar a melhorar o Firefox.
+O Verificador de Avaliações é um recurso do Firefox que ajuda a determinar o nível de confiança de avaliações ao comprar em sites como Amazon.com, BestBuy.com e Walmart.com. Se você ativar o Verificador de Avaliações, a Mozilla tratará informações sobre o site e o identificador dos produtos visualizados usando nossa tecnologia de preservação de privacidade [OHTTP](https://support.mozilla.org/kb/ohttp-explained). O OHTTP combina criptografia e um servidor intermediário terceirizado, ajudando a impedir que a Mozilla vincule você ou seu dispositivo aos produtos que visualizar. Também coletamos dados técnicos e de interação sobre como esse recurso é usado para ajudar a melhorar o Firefox.
 
 Ao ativar o Verificador de Avaliações, você indica que concorda em receber recomendações de produtos e conteúdo patrocinado. Se não quiser receber esse conteúdo, desative o recurso nas configurações dele.
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
 
-Saiba mais sobre [como usar o Verificador de Avaliações](https://support.mozilla.org/kb/review-checker-review-quality) e implementar tecnologia de preservação de privacidade, como o OHTTP.
+Saiba mais sobre [como usar o Verificador de Avaliações](https://support.mozilla.org/kb/review-checker-review-quality) e implementar tecnologia de preservação de privacidade, como o [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
 ### Para fornecer e habilitar extensões (addons.mozilla.org)
 
@@ -86,7 +86,7 @@ Quando você acessa o [site AMO](https://addons.mozilla.org/firefox/), a Mozilla
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
 
-Saiba [como remover ou habilitar extensões](https://support.mozilla.org/kb/disable-or-remove-add-ons). Consulte também o [Aviso de privacidade](https://www.mozilla.org/privacy/websites/) do [site de extensões](https://addons.mozilla.org/firefox/).
+Saiba [como remover ou habilitar extensões](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Consulte também o [Aviso de privacidade](https://www.mozilla.org/privacy/websites/) do [site de extensões](https://addons.mozilla.org/firefox/).
 
 ### Para manter e melhorar os recursos, o desempenho e a estabilidade
 
@@ -119,7 +119,7 @@ Tratamos [dados](#bookmark-understand-usage) para entender melhor como você eng
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
 
-Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e [dispositivos móveis](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) a qualquer momento. Mesmo que a opção “Permitir que o Firefox envie dados técnicos e de interação para a Mozilla” seja desmarcada, o [ping de uso diário](https://support.mozilla.org/kb/usage-ping-settings) não é afetado. O ping de uso diário nos fornece somente informações não identificadas de uso do Firefox que não são vinculadas a outros dados sobre você. Esse fornecimento pode ser alterado nas configurações.
+Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/technical-and-interaction-data) e [dispositivos móveis](https://support.mozilla.org/kb/technical-and-interaction-data) a qualquer momento. Mesmo que a opção “Permitir que o Firefox envie dados técnicos e de interação para a Mozilla” seja desmarcada, o [ping de uso diário](https://support.mozilla.org/kb/usage-ping-settings) não é afetado. O ping de uso diário nos fornece somente informações não identificadas de uso do Firefox que não são vinculadas a outros dados sobre você. Esse fornecimento pode ser alterado nas configurações.
 
 ### Para comercializar nossos serviços
 
@@ -127,7 +127,7 @@ Com sua permissão, o Firefox envia para a Mozilla dados sobre o domínio do sit
 
 #### Mais detalhes, incluindo como ajustar suas configurações de dados:
 
-Saiba mais sobre quais [dados de medição da campanha](https://support.mozilla.org/kb/desktop-attribution-privacy) são coletados e compartilhados, e como cancelar essa coleta e esse compartilhamento. Observação: o Firefox não compartilha informações como histórico de navegação, consultas de pesquisa e senhas salvas com parceiros de tecnologia de marketing. A Mozilla coleta somente os dados necessários para avaliar e melhorar nossas campanhas de marketing.
+Saiba mais sobre quais [dados de medição da campanha](https://support.mozilla.org/kb/marketing-data) são coletados e compartilhados, e como cancelar essa coleta e esse compartilhamento. Observação: o Firefox não compartilha informações como histórico de navegação, consultas de pesquisa e senhas salvas com parceiros de tecnologia de marketing. A Mozilla coleta somente os dados necessários para avaliar e melhorar nossas campanhas de marketing.
 
 ### Para pseudonimizar, desidentificar, agregar ou anonimizar dados
 
@@ -192,7 +192,7 @@ Ao solicitar a exclusão dos seus dados do Firefox, eles são excluídos em até
 
 ### Suas escolhas
 
-Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) e [dispositivos móveis](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) a qualquer momento.
+Você pode atualizar suas configurações de coleta de dados em [computadores](https://support.mozilla.org/kb/technical-and-interaction-data) e [dispositivos móveis](https://support.mozilla.org/kb/technical-and-interaction-data) a qualquer momento.
 
 O Firefox também fornece o [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), que pode ser habilitado para avisar automaticamente os sites a não vender ou compartilhar informações sobre sua sessão de navegação neles. O GPC funciona como a solicitação “Não vender” em alguns estados dos EUA, como Califórnia, Colorado e Connecticut. Ele também pode ser usado para indicar o descadastramento de publicidade segmentada ou uma solicitação geral de limitação de venda ou compartilhamento de dados pessoais nesses estados, como também em Nevada, Utah e Virginia, na UE e no Reino Unido.
 
@@ -257,7 +257,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 <p><strong>Contrato</strong> para fornecer as funcionalidades necessárias para o funcionamento do Firefox.</p>
                 <p><strong>Interesse legítimo</strong> no fornecimento de outras funcionalidades, serviços de acessibilidade e uma experiência mais personalizada.</p>
             </td>
-            <td>Saiba mais sobre as informações que coletamos em <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">computadores</a> e dispositivos <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> e <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Você pode atualizar suas configurações de coleta de dados em <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">computadores</a> e <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">dispositivos móveis</a> a qualquer momento. Saiba mais sobre a <a href="https://support.mozilla.org/kb/website-translation">tradução</a> e a <a href="https://support.mozilla.org/kb/pdf-alt-text">inclusão de texto alternativo a imagens de PDFs</a>.</td>
+            <td>Saiba mais sobre as informações que coletamos em <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">computadores</a> e dispositivos <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> e <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Você pode atualizar suas configurações de coleta de dados em <a href="https://support.mozilla.org/kb/technical-and-interaction-data">computadores</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">dispositivos móveis</a> a qualquer momento. Saiba mais sobre a <a href="https://support.mozilla.org/kb/website-translation">tradução</a> e a <a href="https://support.mozilla.org/kb/pdf-alt-text">inclusão de texto alternativo a imagens de PDFs</a>.</td>
         </tr>
         <tr>
             <td>Para adaptar o Firefox às suas necessidades</td>
@@ -307,7 +307,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 </ul>
             </td>
             <td><strong>Interesse legítimo</strong> no fornecimento de conteúdo de seu interesse e em garantir que os anúncios que você vê sejam relevantes (permitindo o fornecimento de nossos produtos e serviços).</td>
-            <td>Saiba mais sobre <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">como gerenciar sua página de nova aba</a>, incluindo suas <a href="https://support.mozilla.org/kb/sponsor-privacy">configurações de dados</a>. Você pode desativar o tratamento dos seus dados para fins de personalização ou publicidade desativando os “dados técnicos e de interação” no <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">computador</a> e <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">dispositivo móvel</a> a qualquer momento.</td>
+            <td>Saiba mais sobre <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">como gerenciar sua página de nova aba</a>, incluindo suas <a href="https://support.mozilla.org/kb/sponsor-privacy">configurações de dados</a>. Você pode desativar o tratamento dos seus dados para fins de personalização ou publicidade desativando os “dados técnicos e de interação” no <a href="https://support.mozilla.org/kb/technical-and-interaction-data">computador</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">dispositivo móvel</a> a qualquer momento.</td>
         </tr>
         <tr>
             <td>Para fornecer as contas da Mozilla</td>
@@ -339,7 +339,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 </ul>
             </td>
             <td><strong>Consentimento</strong> quando você habilita o Verificador de Avaliações.</td>
-            <td>Saiba mais sobre <a href="https://support.mozilla.org/kb/review-checker-review-quality">como usar o Verificador de Avaliações</a> e como implementar tecnologia de preservação de privacidade, como o OHTTP.</td>
+            <td>Saiba mais sobre <a href="https://support.mozilla.org/kb/review-checker-review-quality">como usar o Verificador de Avaliações</a> e como implementar tecnologia de preservação de privacidade, como o <a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a>.</td>
         </tr>
         <tr>
             <td>Para habilitar extensões (addons.mozilla.org, “AMO”), incluindo sugestões de ofertas personalizadas</td>
@@ -358,7 +358,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 <p><strong>Consentimento</strong> quando você habilita uma extensão específica fornecida pela Mozilla. Os dados tratados por cada extensão são regidos pela política de privacidade da extensão em questão.</p>
             </td>
             <td>
-                <p>Saiba <a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">como remover ou habilitar extensões</a>.</p>
+                <p>Saiba <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">como remover ou habilitar extensões</a>.</p>
                 <p>Consulte também o <a href="https://www.mozilla.org/privacy/websites/">Aviso de privacidade</a> do <a href="https://addons.mozilla.org/firefox/">site de extensões</a>.</p>
             </td>
         </tr>
@@ -418,7 +418,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 <p><strong>Interesse legítimo</strong> em entender como o Firefox é usado, permitir melhorias e realizar funções de negócios, como relatórios e previsões de uso.</p>
                 <p><strong>Consentimento</strong> quando exigido pela legislação aplicável (por exemplo, quando cookies não essenciais são usados) ou quando os usuários engajam com pesquisas ou enviam outras informações de forma voluntária.</p>
             </td>
-            <td>Você pode atualizar suas configurações de coleta de dados em <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">computadores</a> e <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">dispositivos móveis</a> a qualquer momento. Mesmo que a opção “Permitir que o Firefox envie dados técnicos e de interação para a Mozilla” seja desmarcada, o <a href="https://support.mozilla.org/kb/usage-ping-settings">ping de uso diário</a> não é afetado. O ping de uso diário nos fornece somente informações não identificadas de uso do Firefox que não vinculadas a outros dados sobre você. Esse fornecimento pode ser alterado nas configurações.</td>
+            <td>Você pode atualizar suas configurações de coleta de dados em <a href="https://support.mozilla.org/kb/technical-and-interaction-data">computadores</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">dispositivos móveis</a> a qualquer momento. Mesmo que a opção “Permitir que o Firefox envie dados técnicos e de interação para a Mozilla” seja desmarcada, o <a href="https://support.mozilla.org/kb/usage-ping-settings">ping de uso diário</a> não é afetado. O ping de uso diário nos fornece somente informações não identificadas de uso do Firefox que não vinculadas a outros dados sobre você. Esse fornecimento pode ser alterado nas configurações.</td>
         </tr>
         <tr>
             <td>Para comercializar nossos serviços</td>
@@ -438,7 +438,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 <p><strong>Interesse legítimo</strong> na promoção de nossos produtos e serviços, incluindo no envio de comunicações de marketing, e na medição e melhoria de nossas campanhas de marketing.</p>
                 <p><strong>Consentimento</strong> quando exigido pela legislação aplicável (por exemplo, em competências que exigem consentimento para o recebimento de comunicações de marketing).</p>
             </td>
-            <td>Saiba mais sobre quais <a href="https://support.mozilla.org/kb/desktop-attribution-privacy">dados de medição da campanha</a> são coletados e compartilhados, e como cancelar essa coleta e esse compartilhamento. Observação: o Firefox não compartilha informações como histórico de navegação, consultas de pesquisa e senhas salvas com parceiros de tecnologia de marketing. A Mozilla coleta somente os dados necessários para avaliar e melhorar nossas campanhas de marketing.</td>
+            <td>Saiba mais sobre quais <a href="https://support.mozilla.org/kb/marketing-data">dados de medição da campanha</a> são coletados e compartilhados, e como cancelar essa coleta e esse compartilhamento. Observação: o Firefox não compartilha informações como histórico de navegação, consultas de pesquisa e senhas salvas com parceiros de tecnologia de marketing. A Mozilla coleta somente os dados necessários para avaliar e melhorar nossas campanhas de marketing.</td>
         </tr>
         <tr>
             <td>Para pseudonimizar, desidentificar, agregar ou anonimizar dados</td>
