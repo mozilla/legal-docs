@@ -14,13 +14,14 @@ from functions import findAllFiles
 
 
 class DocumentCheck:
-    def __init__(self, files_path, ref_locale, exceptions_path):
+    def __init__(self, files_path, ref_locale, exceptions_path, check_type):
         self.files_path = files_path
         self.ref_locale = ref_locale
         self.errors = []
 
         self.allowed_characters = set(string.ascii_lowercase + string.digits + "_")
 
+        self.check_type = check_type
         self.files_list = findAllFiles(self.files_path)
         self.extractData()
         self.loadExceptions(exceptions_path)
@@ -31,6 +32,8 @@ class DocumentCheck:
     def extractData(self):
         data = defaultdict(dict)
         for locale, filenames in self.files_list.items():
+            if self.check_type == "ref" and locale != self.ref_locale:
+                continue
             locale_data = defaultdict(dict)
             for f in filenames:
                 # Extract links
@@ -268,7 +271,9 @@ def main():
     )
     args = parser.parse_args()
 
-    checks = DocumentCheck(args.files_path, args.ref_locale, args.exceptions_file)
+    checks = DocumentCheck(
+        args.files_path, args.ref_locale, args.exceptions_file, args.type
+    )
     repo_errors = checks.checkDocuments(args.type)
 
     if repo_errors:
