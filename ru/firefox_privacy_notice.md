@@ -16,7 +16,7 @@ Mozilla собирает [определенные данные](#bookmark-how-w
 Некоторые функции Firefox, такие как автоматический [перевод](https://support.mozilla.org/kb/website-translation) веб-страниц и [генерирование альтернативного текста при загрузке изображений в PDF-файлы](https://support.mozilla.org/kb/pdf-alt-text), работают на основе искусственного интеллекта (ИИ) с использованием небольших языковых моделей, загруженных на ваше устройство. Они работают локально — контент веб-страниц, PDF-файлы, изображения и URL-адреса вкладок остаются на вашем устройстве и не отправляются на серверы Mozilla или не используются в учебных целях без вашего явного согласия. Обратите внимание, что другие функции Firefox могут интегрировать сторонние модели искусственного интеллекта, что более подробно описано в настоящем Уведомлении.
 
 #### Более подробная информация, включая информацию о том, как изменить настройки использования данных:
-Вы можете ознакомиться с более подробной информацией о данных, которые мы собираем при использовании  [ПК](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) или [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Вы можете обновить настройки сбора данных для  [ПК](https://support.mozilla.org/kb/technical-and-interaction-data) и [мобильных устройств](https://support.mozilla.org/kb/technical-and-interaction-data) в любое время.
+Вы можете ознакомиться с более подробной информацией о данных, которые мы собираем при использовании [ПК](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) или [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Вы можете обновить настройки сбора данных для [ПК](https://support.mozilla.org/kb/technical-and-interaction-data) и [мобильных устройств](https://support.mozilla.org/kb/technical-and-interaction-data) в любое время.
 
 ### Чтобы адаптировать Firefox к вашим потребностям,
 
@@ -192,7 +192,7 @@ Belgium (Бельгия)
 
 ### Ваш выбор:
 
-Вы можете обновить настройки сбора данных для  [ПК](https://support.mozilla.org/kb/technical-and-interaction-data) и [мобильных устройств](https://support.mozilla.org/kb/technical-and-interaction-data) в любое время.
+Вы можете обновить настройки сбора данных для [ПК](https://support.mozilla.org/kb/technical-and-interaction-data) и [мобильных устройств](https://support.mozilla.org/kb/technical-and-interaction-data) в любое время.
 
 Firefox также предоставляет функцию [Глобального контроля конфиденциальности (GPC)](https://support.mozilla.org/kb/global-privacy-control), которую вы можете включить, чтобы автоматически уведомлять веб-сайты о недопустимости продажи или распространения информации о вашем поисковом сеансе на этом веб-сайте. В некоторых штатах США, таких как Калифорния, Колорадо и Коннектикут, GPC действует как механизм «Не продавать». Его также можно использовать для указания отказа от целевой рекламы или общего запроса на ограничение продаж или распространения ваших персональных данных в этих юрисдикциях, а также в таких юрисдикциях, как ЕС, Великобритания, Невада, Юта и Вирджиния.
 

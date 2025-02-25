@@ -76,7 +76,7 @@ By opting in to using Review Checker you also agree to be shown product recommen
 
 #### More details, including how to adjust your data settings:
 
-You can read more information about  [How to use Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) and how we implement privacy preserving tech such as [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
+You can read more information about [How to use Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) and how we implement privacy preserving tech such as [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
 ### To provide and enable add-ons (addons.mozilla.org)
 
