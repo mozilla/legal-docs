@@ -16,7 +16,7 @@ Mozilla collects [certain data](#bookmark-how-we-use-data), like technical and s
 Some Firefox features, like automated [translation](https://support.mozilla.org/kb/website-translation) for web pages and [“alt-text” suggestions when you upload images in your PDFs](https://support.mozilla.org/kb/pdf-alt-text), are powered by artificial intelligence (AI) based on small language models downloaded to your device. These operate locally — web page content, PDFs, images and tab URLs stay on your device and are not sent to Mozilla’s servers or used for training purposes without your explicit consent. Note that other Firefox features may integrate third-party AI models, as further detailed in this Notice.
 
 #### More details, including how to adjust your data settings:
-You can read more detailed information about the information we collect for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) or [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time.
+You can read more detailed information about the information we collect for [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) or [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) and [Mobile](https://support.mozilla.org/kb/technical-and-interaction-data) at any time.
 
 ### To adapt Firefox to your needs
 
@@ -52,7 +52,7 @@ When a user visits a third-party website by clicking an advertisement or link in
 
 #### More details, including how to adjust your data settings:
 
-You can read more information about [how to manage your New Tab page](https://support.mozilla.org/kb/customize-your-new-tab-page) including your [data settings](https://support.mozilla.org/kb/sponsor-privacy). You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time.
+You can read more information about [how to manage your New Tab page](https://support.mozilla.org/kb/customize-your-new-tab-page) including your [data settings](https://support.mozilla.org/kb/sponsor-privacy). You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) and [Mobile](https://support.mozilla.org/kb/technical-and-interaction-data) at any time.
 
 ### To provide Mozilla accounts
 
@@ -70,13 +70,13 @@ You can read more about how to [manage](https://support.mozilla.org/kb/ai-chatbo
 
 ### To provide Review Checker, including serving sponsored content
 
-Review Checker is a Firefox feature that helps you determine whether reviews are reliable when you shop online with sites like Amazon.com, BestBuy.com and Walmart.com. If you opt in to using Review Checker, Mozilla will process information about the website and the product identifier of the products you view using our privacy preserving technology called OHTTP. OHTTP combines encryption and a third party intermediary server, helping prevent Mozilla from linking you or your device to the products you have viewed. We also collect technical and interaction data on how this feature is used to help improve Firefox.
+Review Checker is a Firefox feature that helps you determine whether reviews are reliable when you shop online with sites like Amazon.com, BestBuy.com and Walmart.com. If you opt in to using Review Checker, Mozilla will process information about the website and the product identifier of the products you view using our privacy preserving technology called [OHTTP](https://support.mozilla.org/kb/ohttp-explained). OHTTP combines encryption and a third party intermediary server, helping prevent Mozilla from linking you or your device to the products you have viewed. We also collect technical and interaction data on how this feature is used to help improve Firefox.
 
 By opting in to using Review Checker you also agree to be shown product recommendations and sponsored content. If you do not want to receive product recommendations and sponsored content, you can opt out of this feature under Review Checker settings at any time.
 
 #### More details, including how to adjust your data settings:
 
-You can read more information about  [How to use Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) and how we implement privacy preserving tech such as OHTTP.
+You can read more information about  [How to use Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) and how we implement privacy preserving tech such as [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
 ### To provide and enable add-ons (addons.mozilla.org)
 
@@ -86,7 +86,7 @@ When you visit the [AMO website](https://addons.mozilla.org/firefox/), Mozilla c
 
 #### More details, including how to adjust your data settings:
 
-Learn [how to remove or enable add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons). You can also review the [Privacy Notice](https://www.mozilla.org/privacy/websites/) for the [add-ons website](https://addons.mozilla.org/firefox/).
+Learn [how to remove or enable add-ons](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). You can also review the [Privacy Notice](https://www.mozilla.org/privacy/websites/) for the [add-ons website](https://addons.mozilla.org/firefox/).
 
 ### To maintain and improve features, performance and stability
 
@@ -119,7 +119,7 @@ We process [data](#bookmark-understand-usage) to better understand how you engag
 
 #### More details, including how to adjust your data settings:
 
-You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the [Daily Usage Ping](https://support.mozilla.org/kb/usage-ping-settings)). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings.
+You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) and [Mobile](https://support.mozilla.org/kb/technical-and-interaction-data) at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the [Daily Usage Ping](https://support.mozilla.org/kb/usage-ping-settings)). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings.
 
 ### To market our services
 
@@ -127,7 +127,7 @@ When you allow us to do so, Firefox sends Mozilla data about the website domain 
 
 #### More details, including how to adjust your data settings:
 
-Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/desktop-attribution-privacy) is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.
+Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/marketing-data) is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.
 
 ### To pseudonymize, de-identify, aggregate or anonymize data
 
@@ -192,7 +192,7 @@ Please note that, when you request deletion of your Firefox data, it will be del
 
 ### Your choices:
 
-You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers) at any time.
+You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) and [Mobile](https://support.mozilla.org/kb/technical-and-interaction-data) at any time.
 
 Firefox also provides [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), which you can enable to automatically notify websites not to sell or share information about your browsing session on that website. GPC operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
 
@@ -257,7 +257,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Contract</strong> to provide you with the necessary functionality for Firefox to operate.</p>
                 <p><strong>Legitimate interest</strong> in providing additional functionality, accessibility services and a more personalized experience.</p>
             </td>
-            <td>You can read more detailed information about the information we collect for <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> or <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. You can update your data collection settings for <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time. You can also learn more about <a href="https://support.mozilla.org/kb/website-translation">translation</a> and <a href="https://support.mozilla.org/kb/pdf-alt-text">adding alt-text to images in PDFs</a>.</td>
+            <td>You can read more detailed information about the information we collect for <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> or <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. You can update your data collection settings for <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> and <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Mobile</a> at any time. You can also learn more about <a href="https://support.mozilla.org/kb/website-translation">translation</a> and <a href="https://support.mozilla.org/kb/pdf-alt-text">adding alt-text to images in PDFs</a>.</td>
         </tr>
         <tr>
             <td>To adapt Firefox to your needs</td>
@@ -307,7 +307,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 </ul>
             </td>
             <td><strong>Legitimate interest</strong> in providing you content that you’re interested in and making sure that the ads you see are relevant (which supports our ability to provide our products and services).</td>
-            <td>You can read more information about <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">how to manage your New Tab page</a> including your <a href="https://support.mozilla.org/kb/sponsor-privacy">data settings</a>. You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time.</td>
+            <td>You can read more information about <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">how to manage your New Tab page</a> including your <a href="https://support.mozilla.org/kb/sponsor-privacy">data settings</a>. You can opt out of having your data processed for personalization or advertising purposes by turning off “technical and interaction data” on <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> and <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Mobile</a> at any time.</td>
         </tr>
         <tr>
             <td>To provide Mozilla Accounts</td>
@@ -339,7 +339,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 </ul>
             </td>
             <td><strong>Consent</strong>, when you choose to enable Review Checker.</td>
-            <td>You can read more information about <a href="https://support.mozilla.org/kb/review-checker-review-quality">How to use Firefox Review Checker</a> and how we implement privacy preserving tech such as OHTTP.</td>
+            <td>You can read more information about <a href="https://support.mozilla.org/kb/review-checker-review-quality">How to use Firefox Review Checker</a> and how we implement privacy preserving tech such as <a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a>.</td>
         </tr>
         <tr>
             <td>To enable add-ons (addons.mozilla.org, “AMO”), including offering personalized suggestions</td>
@@ -358,7 +358,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Consent</strong>, when you choose to enable a specific Mozilla provided add-on. Data processed by each add-on is governed by their own Privacy Policy.</p>
             </td>
             <td>
-                <p>Learn <a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">how to remove or enable add-ons</a>.</p>
+                <p>Learn <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">how to remove or enable add-ons</a>.</p>
                 <p>You can also review the <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a> for the <a href="https://addons.mozilla.org/firefox/">add-ons website</a>.</p>
             </td>
         </tr>
@@ -418,7 +418,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Legitimate interest</strong> in understanding how Firefox is used, enabling improvements and performing business functions such as usage reporting and forecasting.</p>
                 <p><strong>Consent</strong>, where required under applicable law (e.g. when non-essential cookies are used), or where users engage with surveys or voluntarily submit other information.</p>
             </td>
-            <td>You can update your data collection settings for <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a> at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the <a href="https://support.mozilla.org/kb/usage-ping-settings">Daily Usage Ping</a>). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings.</td>
+            <td>You can update your data collection settings for <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> and <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Mobile</a> at any time (note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the <a href="https://support.mozilla.org/kb/usage-ping-settings">Daily Usage Ping</a>). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox and is not tied to any other data about you and can be opted out in the settings.</td>
         </tr>
         <tr>
             <td>To market our services.</td>
@@ -438,7 +438,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Legitimate interest</strong> in promoting our products and services, including sending marketing communications and measuring and improving our marketing campaigns.</p>
                 <p><strong>Consent</strong>, where required under applicable law (e.g. jurisdictions which require consent to receive marketing communications).</p>
             </td>
-            <td>Learn more about what <a href="https://support.mozilla.org/kb/desktop-attribution-privacy">Campaign Measurement data</a> is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.</td>
+            <td>Learn more about what <a href="https://support.mozilla.org/kb/marketing-data">Campaign Measurement data</a> is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.</td>
         </tr>
         <tr>
             <td>To pseudonymize, de-identify, aggregate or anonymize data.</td>
