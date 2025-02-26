@@ -1,159 +1,492 @@
-## <span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">adatvédelmi nyilatkozat</span>
+﻿# A Firefox adatvédelmi nyilatkozata
 
-*Hatályos: 2024. május 13-tól
-{: datetime="2024-05-13" }
+Hatályos: 2025. február 25-tól
+{: datetime="2025-02-25" }
 
-## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú az egészséges internethez.
+## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú a biztonságos internethez
 
-Ezért a Firefoxot és minden más termékünket úgy fejlesztettük ki, hogy nagyobb ellenőrzést biztosítsunk Önnek az online és a velünk megosztott adatok felett. Arra törekszünk, hogy csak azt gyűjtsük össze, amire szükségünk van ahhoz, hogy mindenki számára javítsuk a Firefoxot.
+Ezért a Firefoxot és minden más termékünket úgy fejlesztettük ki, hogy nagyobb ellenőrzést biztosítsunk Önnek az online és a velünk megosztott adatok felett. A jelen adatvédelmi nyilatkozatban ismertetjük, hogy milyen adatokat, hogyan kezelünk és milyen célból. Ezt követően elmagyarázzuk, hogyan dönthet arról, hogyan kezeljük az adatait.
 
-Ebben az adatvédelmi tájékoztatóban elmagyarázzuk, hogy a Firefox milyen adatokat oszt meg, és megmutatjuk, hogy milyen beállítások segítségével oszthat meg még kevesebbet. Mi is betartjuk a Mozilla [adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) ismertetett gyakorlatokat arra vonatkozóan, hogyan fogadjuk, kezeljük és osztjuk meg a Firefoxról gyűjtött adatokat.
+## Hogyan használják fel az adatait?
 
-## Alapértelmezés szerint a Mozilla a Firefox személyes adatait a következő célokra kezeli:
+### A Firefox böngésző biztosításához
 
-### A funkciók, a teljesítmény és a stabilitás javítása a felhasználók számára mindenhol {: #health-report }
+A Mozilla gyűjt [bizonyos adatokat](#bookmark-how-we-use-data), például műszaki és beállítási adatokat, hogy biztosítsa a Firefox böngésző és a kapcsolódó szolgáltatások alapvető funkcióit, megkülönböztesse az eszközt a többitől, emlékezzen és tiszteletben tartsa a beállításait, valamint olyan alapértelmezett funkciókat kínáljon Önnek, mint az [Új lap](https://support.mozilla.org/kb/about-new-tab-page), a [PDF-szerkesztés](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), a [jelszókezelő](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) és a [Teljes cookie-védelem](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). Tovább személyre szabhatja a Firefox élményét, ha módosítja a [vezérlőket, gombokat és eszköztárakat](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars), valamint [funkciókat ad hozzá kiegészítőkkel](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-* __Interakciós adatok__: A Firefox adatokat küld nekünk a Firefox-szal való interakcióiról (például a megnyitott lapok és ablakok számáról, a meglátogatott weboldalak számáról, a telepített Firefox-kiegészítők számáról és típusáról és a munkamenet hosszáról), valamint a Mozilla vagy partnereink által kínált Firefox-funkciókról (például a Firefox keresési funkcióival való interakciókról és a keresőpartnerek ajánlásáról).
+A Firefox egyes funkciói, például a weboldalak automatikus [fordítása](https://support.mozilla.org/kb/website-translation) és az [„alternatív szöveg” javaslatok, amikor képeket tölt fel PDF-fájljaiba](https://support.mozilla.org/kb/pdf-alt-text), mesterséges intelligencia (AI) segítségével működnek, amelyek az eszközére letöltött kis nyelvi modelleken alapulnak. Ezek helyileg működnek – a weboldal tartalma, a PDF-fájlok, a képek és a lapok URL-címei az eszközön maradnak, és nem kerülnek elküldésre a Mozilla kiszolgálóira, illetve nem használhatók fel oktatási célokra az Ön kifejezett beleegyezése nélkül. Vegye figyelembe, hogy a Firefox egyéb funkciói külső féltől származó MI-modelleket is integrálhatnak, amint azt ebben a nyilatkozatban részletesen ismertetjük.
 
-* __Műszaki adatok__: A Firefox adatokat küld nekünk a Firefox verziójáról és nyelvéről; az eszköz operációs rendszeréről és hardverkonfigurációjáról; a memóriáról, az összeomlásokra és hibákra vonatkozó alapvető információkról; az automatikus folyamatok, például a frissítések, a biztonságos böngészés és az aktiválás eredményéről. Amikor a Firefox adatokat küld nekünk, az Ön IP-címét ideiglenesen összegyűjtjük a szervernaplóink részeként.
+#### További részletek, beleértve az adatbeállítások módosítását:
+Részletesebb információkat olvashat az [asztali számítógépeken](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Androidon](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy [iOS-en](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) gyűjtött adatokról. Bármikor frissítheti az adatgyűjtési beállításait az [asztali számítógépen](https://support.mozilla.org/kb/technical-and-interaction-data) és a [mobileszközön](https://support.mozilla.org/kb/technical-and-interaction-data).
 
-Olvassza el a telemetriai dokumentációt: [asztali számítógép](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) vagy [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Tudja meg, hogyan tilthatja le az ilyen jellegű adatgyűjtést [asztali számítógépen](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) és [mobileszközön](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), illetve hogyan tilthatja le a [kutatásokat](https://support.mozilla.org/kb/shield).
-{: #telemetry }
+### A Firefox hozzáigazítása az Ön igényeihez
 
-### Keresési funkciók biztosítása és fejlesztése {: #defaultsearch }
+A Firefox számos személyes adatot kezel úgy, hogy ne hagyja el az eszközt, például a böngészési előzményeket, a webes űrlapadatokat, az ideiglenes internetes fájlokat és a cookie-kat. Ez azt jelenti, hogy az adatok az eszközön maradnak, és nem kerülnek elküldésre a Mozilla kiszolgálóira, hacsak a jelen nyilatkozat másként nem rendelkezik. Ha úgy dönt, hogy engedélyezi, az Ön pontos tartózkodási helyét is kezelhetjük a helyhez kapcsolódó funkciókhoz az olyan webhelyek esetében, mint a Google Térkép – ezekhez az adatokhoz csak az Ön által engedélyezett webhely(ek) fér(nek) hozzá az eszközről – a Mozilla kiszolgálóira nem küldik el őket.
 
-A Firefoxban több helyről is végezhet keresést közvetlenül, például a csodálatos sávból, a keresősávból vagy egy új lapon. Adatokat kapunk arról, hogy Ön hogyan használja a Firefox keresési funkcióit, és hány keresést kér a keresőpartnereinktől, valamint arról, hogy mikor lép kapcsolatba egy hirdetéssel (de arról nem, hogy mely hirdetésekkel). Emellett: 
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-* __Helyadatok__: Amikor először használja a Firefoxot, az az IP-címét használja az alapértelmezett keresőszolgáltató beállításához az országa alapján. [További információk](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+Az eszközön kezelt adatok az Ön ellenőrzése alatt maradnak. Bármikor [kezelheti a böngészési adatait](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) és a [helyi tárhelybeállításait](https://support.mozilla.org/kb/storage), vagy frissítheti a [helyengedélyeit](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
 
-* __Keresési lekérdezések__: A Firefox keresési lekérdezéseket küld a keresőszolgáltatónak, hogy lehetővé tegye a keresést, hogy segítsen megtalálni a mások által keresett gyakori kifejezéseket, és javítsa a keresési élményt (ha a kiválasztott keresőszolgáltató támogatja a keresési javaslatokat). Az Ön által kiválasztott keresőszolgáltató adatvédelmi nyilatkozata szabályozza az Ön adatainak a keresőszolgáltató általi gyűjtését és felhasználását, amikor Ön a keresőszolgáltató szolgáltatásait használja. [Tudjon meg többet](https://support.mozilla.org/kb/search-suggestions-firefox), többek között ennek a funkciónak a letiltásáról. Az alapértelmezett keresőszolgáltatóink adatvédelmi szabályzataira mutató hivatkozások a következők:
+### Keresési funkciók biztosítása és fejlesztése
 
-* [Google](https://policies.google.com/privacy)
-* [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+Amikor keresést végez a Firefoxban, a keresési lekérdezést, az eszközadatokat és a helyadatokat az alapértelmezett keresőmotorja kezeli (a [vonatkozó adatvédelmi közleményüknek](#privacy-policies-for-search-providers) megfelelően), hogy elérje a keresési eredményeket és keresési javaslatokat.
 
-A Mozilla általában akkor kap jogdíjat, ha Ön a Firefox webböngészőjének valamelyik alapértelmezett vagy opcionális keresési lehetőségét használja, többek között a következőket: Google, Bing, DuckDuckGo vagy eBay. 
+A Firefox saját [keresési javaslatait](https://support.mozilla.org/kb/search-suggestions-firefox) is megjeleníti a helyi eszközön tárolt adatok alapján (beleértve a legutóbbi keresési kifejezéseket, a megnyitott lapokat és a korábban felkeresett URL-címeket). Ezek a javaslatok tartalmazhatnak a Mozilla partnereitől származó szponzorált javaslatokat, a gyakori internetes forrásokból (például a Wikipédia) származó releváns tartalmakat vagy az Ön országában népszerű releváns URL-címeket. A Mozilla bizonyos technikai és interakciós adatokat kezel, például hány keresést hajt végre, hány szponzorált javaslatot lát, és hogy interakcióba lép-e velük. A Mozilla partnerei nem beazonosítható adatokat kapnak az általuk kiszolgált javaslatokkal kapcsolatos interakciókról. A [Keresési javaslatokat](https://support.mozilla.org/kb/search-suggestions-firefox) bármikor engedélyezheti vagy letilthatja.
 
-* __Keresési kategóriák__: Az Egyesült Államokban a Firefox elküldi a Mozillának a keresések dolgok magas szintű kategóriáit (pl. sport, utazás, étel stb.), de nem a tényleges keresési kifejezéseket, hacsak Ön kifejezetten nem vállalja, hogy elküldi nekünk ezeket az információkat. Ebben az esetben a keresési kategóriát nem osztjuk meg a partnereinkkel, és a Mozilla nem tudja társítani a keresési kategóriát egy adott felhasználóhoz, miután a keresési eredmények megjelennek. A keresési kategória adatgyűjtését bármikor elutasíthatja. [További információk](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
+Az Ön tartózkodási helyétől függően a Mozilla a keresés magas szintű kategóriáját (pl. utazás, vásárlás) a lekérdezés kulcsszavaiból vezeti le, hogy megértse a keresések típusait és számát. Olyan adatvédelmi technológiákat alkalmazunk, amelyekkel a Mozilla csak azt tudja meg, hogy valaki valahol, valakiként keresést végzett egy adott kategóriával kapcsolatban, de nem tudja, hogy ki. [Tudjon meg többet](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) arról, hogyan kategorizáljuk a kereséseket, és arról is, hogy miként mondhatja ezt le.
 
-A __Firefox Suggest__ adatokat használ fel, hogy jobb információkat biztosítson kevesebb erőfeszítéssel. Alapértelmezés szerint a Firefox Suggest a saját számítógépén tárolt helyi adatok, például a böngészési előzmények, könyvjelzők és megnyitott lapok webhelyei (amelyeket nem küld el a Mozilla) alapján ajánlott és szponzorált tartalmakat mutat Önnek. A Firefox Suggest a következőket küldi el a Mozillának:
+A Mozilla az Ön kereséséből helyhez kapcsolódó kulcsszavakat is kaphat (például amikor a „Boston” kifejezésre keres), és ezt megoszthatja partnereinkkel, hogy ajánlott és szponzorált tartalmakat nyújthasson. Ahol ez előfordul, a Mozilla nem tudja a kulcsszavas keresést egy adott felhasználóhoz társítani, miután a keresési javaslatot már kiszolgálták, és a partnerek soha nem tudják a keresési javaslatokat egy adott felhasználóhoz társítani. Ezt a funkciót bármikor eltávolíthatja a Szponzorált javaslatok kikapcsolásával – ennek módjáról további információkat a megfelelő [Firefox-súgóoldalon](https://support.mozilla.org/kb/firefox-suggest?as=u) talál.
 
-* __Helyadatok__: A Firefox ideiglenesen elküldi a Mozillának az Ön IP-címét, amelyet arra használunk, hogy az Ön országa, állama és városa alapján tartalmakat javasoljunk. A Mozilla megoszthatja a helymeghatározási adatokat [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), de a partnerek nem kapják meg az Ön IP-címét.
+Lehetősége van arra, hogy a Mozilla további személyes adatok, többek között az Ön műszaki adatai, tartózkodási helye és keresési adatai kezelését is elvégezze. Ezen adatok egy részét megoszthatjuk partnereinkkel nem beazonosítható és/vagy összesített alapon. További részletekért lásd az „Adatok és Firefox-javaslatok” című [blogbejegyzésünket](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/).
 
-Az Egyesült Államokban a Mozilla kulcsszóhely-keresési adatokat is kaphat (például amikor Ön a „Boston” kifejezésre keres), és megoszthatja ezeket partnereinkkel, hogy ajánlott és szponzorált tartalmat biztosítsanak. Ha ez megtörténik, sem a Mozilla, sem a partnereink nem tudják társítani a kulcsszókeresést egy adott felhasználóhoz, miután a keresési javaslatot biztosították. Ezt a funkciót bármikor eltávolíthatja a szponzorált javaslatok kikapcsolásával – ennek módjáról további információkat a megfelelő [Firefox-súgóoldalon](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct) talál.
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-* __Műszaki és interakciós adatok__: A Firefox olyan adatokat küld a Mozillának, mint például a Firefox által javasolt vagy megjelenített tartalmak száma és a tartalomra történő kattintások száma, valamint alapvető adatokat a Firefox Suggest megoldással való interakcióiról. A Mozilla megosztja a [partnereinkkel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) a javaslatok megjelenítésének gyakoriságát, a javaslat pozícióját és a kattintással rendelkező javaslatokat az ellenőrzés és a funkciók fejlesztése céljából.
+A [Keresési beállításokat](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) és a [Keresési javaslatok funkcióit](https://support.mozilla.org/kb/search-suggestions-firefox) bármikor frissítheti, és többet megtudhat arról, hogyan [kategorizáljuk a kereséseket](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).
 
-Ha úgy dönt, hogy engedélyezi a „Firefox Suggest-élmény javítása” lehetőséget a beállítások oldalán, a Mozilla a következő adatokat kapja meg és kezeli az Ön böngészési élményének javítása és a szolgáltatás fejlesztése érdekében:
+### Releváns tartalom és hirdetések megjelenítése a Firefox Új lapján
 
-* __Keresési lekérdezések__: A Firefox elküldi a Mozillának, hogy mit ír be a keresősávba, és a Mozilla megoszthatja ezeket az adatokat [partnereivel](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). Intézkedéseket teszünk annak érdekében, hogy korlátozzuk saját és partnereink azonosítási képességét. [További információk](https://support.mozilla.org/kb/firefox-suggest).
+Technikai adatokat, nyelvi beállításokat és helyet használunk a tartalom és a hirdetések megjelenítéséhez a Firefox Új lap oldalán a megfelelő formátumban (azaz mobileszközhöz vagy asztali számítógéphez), nyelven és helyen. A Mozilla technikai és interakciós adatokat gyűjt, például pozíciót, méretet, megtekintést és az Új lapon található tartalmakra vagy hirdetések kattintásait, hogy megértse, hogyan lépnek kapcsolatba a felhasználók a tartalommal, és személyre szabhatja a jövőbeli tartalmakat, beleértve a szponzorált tartalmakat is. Ezen adatokat megoszthatjuk a hirdetési partnereinkkel nem beazonosítható vagy összesített alapon.
 
-### A releváns tartalom ajánlása
+Egyes esetekben, amikor a hirdetések engedélyezve vannak az Új lapon, további böngészési adatok is kezelhetők helyileg az eszközön a hirdetések hatékonyságának mérésére. ezeket az adatokat csak összesített és/vagy nem beazonosítható alapon osztjuk meg a Mozillával és/vagy a hirdetési partnereinkkel az adatvédelmi technológiáink segítségével.
 
-A Firefox olyan tartalmakat jelenít meg, mint például a Bővítményajánlások, a Top Site-ok (a Mozilla által az első Firefox-felhasználók számára javasolt webhelyek) és az Ajánlások.
+Amikor egy felhasználó felkeresi egy külső fél webhelyét úgy, hogy a Firefoxban egy hirdetésre vagy hivatkozásra kattint, az adott webhely cookie-kat és egyéb webes API-kat használhat bármely webhely számára az adott webhely adatvédelmi és/vagy cookie-kra vonatkozó nyilatkozatainak hatálya alá tartozó adatok gyűjtésére.
 
-* __Helyadatok__: A Firefox az Ön IP-címét használja arra, hogy az ország és az állam alapján releváns tartalmat javasoljon.
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-* __Műszaki és interakciós adatok__: A Firefox olyan adatokat küld nekünk, mint az általunk javasolt tartalmak helyzete, mérete és elhelyezése, valamint alapvető adatokat a tartalommal való interakcióiról. Ez magában foglalja a tartalom megjelenítésének vagy kattintásának számát. Technikai és interakciós adatokat használunk fel annak érdekében, hogy jobban megértsük felhasználóinkat és javítsuk termékünket. 
+További információkat olvashat az [Új lap oldal kezeléséről](https://support.mozilla.org/kb/customize-your-new-tab-page), beleértve az [adatbeállításokat](https://support.mozilla.org/kb/sponsor-privacy) is. Bármikor letilthatja az adatai személyre szabási vagy hirdetési célú kezelését, ha kikapcsolja a „műszaki és interakciós adatok” funkciót az [asztali számítógépen](https://support.mozilla.org/kb/technical-and-interaction-data) és a [mobileszközön](https://support.mozilla.org/kb/technical-and-interaction-data).
 
-* __Ajánlások__: A böngészési előzmények, a nyelv és az ország elhelyezkedése alapján ajánlhatunk tartalmakat Önnek. Az arról való döntés, hogy a böngészési előzmények alapján mely történeteket kell látnia, helyben, a Firefoxban történik, és a Mozilla nem kap másolatot a böngészési előzményekről. A Mozilla összesített adatokat kap azokról az ajánlásokról, amelyeket Ön látott, és amelyekre kattintott. A szponzorált tartalmakra vonatkozó összesített adatokat is megosztjuk a [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) harmadik fél hirdetési platformjával, hogy a hirdetők láthassák, hányan kattintanak a cikkeikre. Ezek az összesített adatok nem azonosítják Önt személyesen.
+### Mozilla-fiókok biztosítása
 
-* __Kiemelt webhelyek__: Amikor egy új lapon egy szponzorált Kiemelt webhelyek elemre kattint, megosztjuk az országát, régióját, megyéjét (ha az Egyesült Államokban tartózkodik), az elemet, amelyre kattintott és a kattintás idejét az AdMarketplace-szel (egy harmadik fél ajánló platformjával), hogy ellenőrizhessük, hogy a webhelyre navigált. A Firefox nem osztja meg az Ön IP-címét vagy más olyan információt, amely felhasználható az Ön azonosítására.
+Ha Mozilla-fiókot regisztrál, a jelen nyilatkozatban meghatározott adatok mellett további információkat is kezelhetünk, például fiókadatokat, kapcsolatfelvételi adatokat és szinkronizálási adatokat, a [Mozilla-fiókokra vonatkozó adatvédelmi nyilatkozatnak](https://www.mozilla.org/privacy/mozilla-accounts/) megfelelően.
 
-* __Bővítmény- és funkcióajánlatok__: A bővítményeket két helyen ajánljuk: a bővítmények kezelése oldalon (about:addons) és a csodálatos keresősávban, ahol kereshet vagy beírhat URL-címeket. Ajánlhatjuk még a Firefox funkciókat a csodálatos keresősávban. Az about:addons-ban található ajánlásokat egy sütire alapozzuk. A csodálatos keresősáv ajánlásait a Firefox-szal való interakcióira alapozzuk. A Mozilla nem kapja meg a böngészési előzményeit. A folyamat helyileg történik a saját számítógépének Firefox-példányában. Tudjon meg többet a [csodálatos keresősáv ajánlásairól](https://support.mozilla.org/kb/extension-recommendations) vagy a [bővítmények oldal ajánlásairól](https://support.mozilla.org/kb/personalized-extension-recommendations).
+### MI-csevegőbotok biztosítása
 
-### A felhasználók biztonságának javítása mindenütt {: #security }
+Lehetősége van arra, hogy külső féltől származó MI-csevegőbotot használjon, hogy segítsen például az olvasottak összefoglalásában, az írásban és az ötletek kidolgozásában, az adott szolgáltató [használati feltételeinek és adatvédelmi nyilatkozatának](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) megfelelően.
 
-**Weboldaladatok a DNS Resolver szolgáltatáshoz**: [Egyes Firefox-felhasználók](https://support.mozilla.org/kb/firefox-dns-over-https) esetében a Firefox a DNS-kérelmeket egy olyan resolver szolgáltatáshoz irányítja, amely elfogadta a Mozilla szigorú [adatvédelmi előírásait a resolverekre vonatkozóan](https://wiki.mozilla.org/Security/DOH-resolver-policy). Ez további védelmet nyújt a helyi hálózatokba történő adatszivárgással és bizonyos DNS biztonsági támadásokkal szemben. A DNS-kérések rendszernaplói 24 órán belül törlődnek a szolgáltatásból, és csak a DNS-feloldás céljából kerülnek felhasználásra. [Tudjon meg többet](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers), vagy tekintse meg az alábbiakban az alapértelmezett DNS resolver szolgáltatókat:
+Ha úgy dönt, hogy engedélyezi a csevegőbotot az oldalsávon és/vagy egy parancsikonon keresztül, a Mozilla nem fér hozzá az Ön beszélgetéseihez vagy a kiválasztott csevegőbotba bevitt mögöttes tartalomhoz. Technikai és interakciós adatokat gyűjtünk arról, hogy ezt a funkciót hogyan használják a Firefox fejlesztésére, például milyen gyakran választják ki az egyes külső csevegőbot-szolgáltatókat, milyen gyakran használják a javasolt promptokat és milyen hosszú a kiválasztott szöveg.
 
-* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
-* [__NextDNS__](https://nextdns.io/privacy)
-* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
-* [__CIRA__](https://www.cira.ca/en/canadian-shield/privacy/)
-* [__Shaw__](https://www.shaw.ca/dns-statement)
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-**Technikai adatok a frissítésekhez**: A Firefox legújabb verziójának karbantartása fontos a biztonsági rések elleni védelem érdekében. A Firefox asztali változatai a Mozilla-szerverekhez való folyamatos csatlakozással ellenőrzik a böngésző frissítéseit. A Firefox verzióját, nyelvét és az eszköz operációs rendszerét használjuk a megfelelő frissítések alkalmazásához. A Firefox mobilverziói más szolgáltatáshoz is kapcsolódhatnak, ha a Firefox letöltéséhez és telepítéséhez ilyen szolgáltatást használt. [További információk](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
-{: #auto-updates }
+További információ az MI-csevegőbotok [kezeléséről](https://support.mozilla.org/kb/ai-chatbot) vagy [eltávolításáról](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) a Firefoxban.
 
-**Technikai adatok a bővítmények-blokklistához**: Az asztali géphez és az Androidhoz készült Firefox rendszeresen csatlakozik a Mozillához, hogy megvédje Önt és másokat a rosszindulatú bővítményektől. A Firefox verziója és nyelve, az eszköz operációs rendszere és a telepített bővítmények listája szükséges a bővítmények blokklistájának alkalmazásához és frissítéséhez. [További információk](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
+### Értékelés-ellenőrző szolgáltatás biztosítása, beleértve a szponzorált tartalom kiszolgálását
 
-**Weboldal és technikai adatok a Google SafeBrowsing szolgáltatásához**: A rosszindulatú letöltések elleni védelem érdekében a Firefox alapvető információkat küld a Google SafeBrowsing szolgáltatásának a fel nem ismert letöltésekről, beleértve a fájlnevet és az URL-címet, ahonnan letöltötték. [Tudjon meg többet](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) a [Google adatvédelmi szabályzatában](https://www.google.com/policies/privacy/). A letiltás megakadályozza, hogy a Firefox figyelmeztesse Önt a potenciálisan törvénytelen vagy rosszindulatú webhelyekre vagy letöltött fájlokra.
+Az Értékelés-ellenőrző egy Firefox-funkció, amely segít meghatározni, hogy az értékelések megbízhatók-e, amikor olyan webhelyeken vásárol, mint az Amazon.com, a BestBuy.com és a Walmart.com. Ha engedélyezi az Értékelés-ellenőrző használatát, a Mozilla az [OHTTP](https://support.mozilla.org/kb/ohttp-explained) nevű adatvédelmi technológiánk segítségével kezeli a webhelyre vonatkozó adatokat és a megtekintett termékek termékazonosítóit. Az OHTTP egyesíti a titkosítást és egy külső fél közvetítő kiszolgálóját, így megakadályozza, hogy a Mozilla összekapcsolja Önt vagy az eszközét a megtekintett termékekkel. Technikai és interakciós adatokat is gyűjtünk arról, hogy miként használják a funkciót a Firefox fejlesztéséhez.
 
-**Weboldal és technikai adatok a tanúsító hatóságoknak**: Amikor meglátogat egy biztonságos webhelyet (általában „HTTPS” kezdetű URL-címmel azonosítva), a Firefox ellenőrzi a webhely [tanúsítványát](https://support.mozilla.org/kb/secure-website-certificate). Ez azzal járhat, hogy a Firefox a webhelyről elküld bizonyos információkat a weboldal által azonosított tanúsító hatóságnak. A leiratkozás növeli annak kockázatát, hogy személyes adatait lehalásszák. [További információk](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+Azzal, hogy engedélyezi az Értékelés-ellenőrző használatát, beleegyezik abba is, hogy termékajánlatokat és szponzorált tartalmat jelenítsen meg. Ha nem szeretne termékajánlatokat és szponzorált tartalmat látni, bármikor leiratkozhat erről a funkcióról az Értékelés-ellenőrző beállításai alatt.
 
-### Összeomlásról szóló jelentések küldése {: #crash-reporter }
-A Firefox asztali változatainál alapértelmezés szerint megkérjük, hogy ossza meg a Mozillával az összeomlásokra vonatkozó részletesebb adatokat tartalmazó jelentést, de mindig van lehetősége visszautasítani. Ha úgy dönt, hogy megosztja a jelentést, a következő adatokat küldi el nekünk:
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-* __Memóriatartalmak__: Az összeomlásról szóló jelentések tartalmaznak egy „dump fájlt” a Firefox memóriatartalmáról az összeomlás időpontjában, amely magában foglalhat Önt azonosító vagy más módon érzékeny adatokat.
+További információkat olvashat a [Firefox Értékelés-ellenőrző használatáról](https://support.mozilla.org/kb/review-checker-review-quality), és arról, hogyan alkalmazzuk az adatvédelmi technológiákat, például az [OHTTP-t](https://support.mozilla.org/kb/ohttp-explained).
 
-* __Weboldaladatok__: Az összeomlásról szóló jelentések tartalmazzák az összeomlás időpontjában aktív URL-címet.
+### Bővítmények biztosítása és engedélyezése (addons.mozilla.org)
 
-* __Műszaki adatok__: Az összeomlásról szóló jelentések tartalmaznak adatokat arról, hogy a Firefox miért omlott össze, valamint az eszköz memóriájának és végrehajtásának állapotáról az összeomlás során.
+A bővítményeket az addons.mozilla.org („AMO”) webhelyről vagy a Firefox Bővítménykezelőjéből telepítheti, amely az eszköztár Firefox menügombjával érhető el. A Bővítménykezelő kezeli a keresési lekérdezéseit, hogy javasolt bővítményeket biztosíthassuk. Ha úgy dönt, hogy bármilyen bővítményt telepít, a Firefox kezeli a műszaki, hely- és beállítási adatokat, és rendszeresen csatlakozik a Mozilla kiszolgálóihoz, hogy telepítse és alkalmazza a bővítmények megfelelő frissítéseit. Technikai és interakciós adatokat is gyűjtünk a bővítmények használatáról a Firefox fejlesztéséhez.
 
-Olvassa el a teljes dokumentációt [itt](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
+Amikor felkeresi az [AMO webhelyét](https://addons.mozilla.org/firefox/), a Mozilla technikai és interakciós adatokat gyűjt a webhely Ön általi használatáról a [Mozilla webhelyekre, kommunikációra és cookie-kra vonatkozó nyilatkozatának](https://www.mozilla.org/privacy/websites/) megfelelően.
 
-### Mérje és támogassa marketingünket
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-__Kampány- és ajánlási adatok__: Ez segít a Mozillának megérteni marketingkampányai hatékonyságát.
-{: #referraltracking }
+További információ a [bővítmények eltávolításáról vagy engedélyezéséről](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Megtekintheti a [bővítmények webhelyének](https://addons.mozilla.org/firefox/) [adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/websites/) is.
 
-A Firefox alapértelmezés szerint Mozilla HTTP-adatokat küld, amelyeket a Firefox telepítője tartalmazhat. Ez lehetővé teszi számunkra, hogy meghatározzuk a webhely tartományát vagy a reklámkampányt (ha van ilyen), amely a letöltési oldalunkra irányította Önt. Olvassa el a [dokumentációt](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution), vagy [tiltsa le](https://support.mozilla.org/kb/desktop-attribution-privacy) a telepítés előtt. 
+### A funkciók, a teljesítmény és a stabilitás fenntartása és fejlesztése
 
-A Firefox alapértelmezés szerint az anonimizált marketingkampány-adatokat is megosztja a kampánymarketing-szolgáltatóinkkal, hogy mérje és javítsa a marketingkampányainkat. Ide tartozik az Adjust, amely saját [adatvédelmi szabályzattal](https://www.adjust.com/terms/privacy-policy/) rendelkezik. Ide tartozik a Google is. A kampányok adatai tartalmazzák a Google hirdetési azonosítót vagy az Android-azonosítót, az IP-címet, az időbélyeget, az országot, a nyelvet/helyszínt, az operációs rendszert és az alkalmazás verzióját. Olvassa el a [dokumentációt](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust).
-{: #thirdparty }
+A Mozilla [tanulmányokat](https://support.mozilla.org/kb/shield) végez a Firefoxon belül, és bizonyos [kísérleti funkciókat](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) tesz elérhetővé a Firefox Labsen keresztül, hogy teszteljék a különböző funkciókat és ötleteket, mielőtt azok minden Firefox-felhasználó számára elérhetővé válnak, vagy a Firefox alapvető kínálatának részévé válnának – ez lehetővé teszi számunkra, hogy megalapozottabb döntéseket hozzunk arról, hogy felhasználóinknak mire van szüksége. Ez a kutatás technikai, rendszerteljesítmény-, hely-, beállítás- és interakciós adatokat használ.
 
----
+Adatokat is kell kezelnünk a Firefox működőképességének megőrzéséhez, a szolgáltatások és a teljesítmény javításához, valamint a problémák azonosításához, hibaelhárításához és diagnosztizálásához. Ehhez technikai, hely- és beállításadatokat, valamint interakciós és rendszerteljesítmény-adatokat használunk (mint például a megnyitott lapok száma, a memóriahasználat vagy az automatizált folyamatok, például a frissítések eredménye). Azokban a ritka esetekben, amikor a szükséges adatok korlátozott böngészési adatokat is tartalmaznak (pl. legfelső szintű tartománymegjegyzések az oldalbetöltési teljesítmény figyeléséhez), az OHTTP használatával kerül továbbításra – ez segít megakadályozni, hogy a Mozilla összekapcsolja Önt vagy az eszközét az erre a célra gyűjtött adatokkal.
 
-## Ha ezeket a funkciókat használja, a Firefox adatokat fog megosztani, hogy funkciókat biztosítson Önnek, és segítsen nekünk termékeink és szolgáltatásaink fejlesztésében: {: #optional-features }
+Asztali számítógépen és Androidon, ha a Firefox váratlan problémába ütközik, a [Mozilla Összeomlás-jelentő](https://support.mozilla.org/kb/mozillacrashreporter) azt is megkérdezi, hogy kíván-e további adatokat küldeni nekünk, amelyek magukban foglalhatják az összeomlás idején nyitva lévő webhelyeket és egyéb böngészési adatokat. Asztali számítógépen és Androidon, ha bekapcsolja a hibajelentések automatikus küldését, ezeket az adatokat anélkül gyűjtjük, hogy minden alkalommal megkérdeznénk – iOS rendszeren a hibajelentések kevesebb adatot tartalmaznak, és alapértelmezés szerint automatikusan megkapjuk ezeket. Bármikor módosíthatja a beállításokat.
 
-### Mozilla-fiókok {: #Mozilla-accounts }
+#### További adatok, beleértve az adatbeállítások módosítását:
 
-A Mozilla regisztrációs, hely-, interakciós és technikai adatokat kap, amikor Ön Mozilla-fiókot hoz létre és használ. További információért tekintse meg a [Mozilla-fiókok adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/mozilla-accounts/).
+Bármikor [többet megtudhat](https://support.mozilla.org/kb/shield) azokról a tanulmányokról, amelyekre regisztrált, és bármikor leiratkozhat az összes (vagy egy adott) tanulmányról, valamint regisztrálhat a [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) kísérleti funkcióira. [További információkat](https://support.mozilla.org/kb/technical-and-interaction-data) is megtudhat az általunk kezelt technikai és interakciós adatokról, beleértve a kikapcsolás módját is.
 
-### Értékelés-ellenőrző {: #review-checker }
+### A biztonság javítása
 
-Az egyesült államokbeli felhasználók engedélyezhetik az Értékelés-ellenőrző megoldást, a Mozilla [Fakespot](https://www.fakespot.com/) szolgáltatása által működtetett termékértékelési ismertetőnket, amely segít megérteni, mennyire megbízhatóak a termékértékelések [bizonyos vásárlási webhelyeken](https://support.mozilla.org/kb/review-checker-review-quality).
+Mivel a Firefox legfrissebb verziójának fenntartása segít megőrizni a biztonságot a sebezhetőségekkel szemben, a Firefox asztali verziói rendszeresen csatlakoznak a Mozilla kiszolgálóihoz (vagy más olyan szolgáltatáshoz, amelyet a Firefox telepítéséhez használt) a szoftverfrissítések kereséséhez – a Firefox Android- és iOS-verzióinak frissítéseit a Google Play Áruház, illetve az Apple App Store kezeli.
 
-* __Műszaki és interakciós adatok__: Partnerünkkel, a [Fastly](https://www.fastly.com/privacy/) szolgáltatóval az Oblivious HTTP-t ([OHTTP](https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/)) használjuk a szolgáltatás nyújtásához, miközben biztosítjuk, hogy a termékeket, URL-címeket és kéréseket azonosító adatok ne legyenek összekapcsolhatók Önnel. Az Értékelés-ellenőrző megoldással kapcsolatos további információkért, beleértve a kikapcsolását is, olvassa el a [dokumentációt](https://support.mozilla.org/kb/review-checker-review-quality).
+A rosszindulatú bővítmények elleni védelem érdekében technikai adatokat és beállításokat is kezelünk.
+E szabványos folyamatok mellett a [Google Biztonságos böngészés szolgáltatását](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) is használjuk, hogy megvédjük Önt a rosszindulatú letöltésektől és az adathalász támadásoktól, valamint ellenőrizzük a weboldalakat és a műszaki adatokat a [tanúsító hatóságokkal](https://support.mozilla.org/kb/secure-website-certificate). Az összes internetfelhasználó adatvédelmének és biztonságának javítására irányuló munkánk részeként az [OHTTP-n](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) keresztül gyűjtünk műszaki adatokat, hogy jobban megértsük, megelőzzük és megvédjük az ujjlenyomatvételt.
 
-### Sync {: #sync }
+[Egyes Firefox-felhasználók](https://support.mozilla.org/kb/firefox-dns-over-https) esetében a Firefox a DNS-kérelmeket egy olyan resolver szolgáltatáshoz irányítja, amely elfogadta a Mozilla szigorú [adatvédelmi előírásait a resolverekre vonatkozóan](https://wiki.mozilla.org/Security/DOH-resolver-policy). Ez további védelmet nyújt a helyi hálózatokba történő adatszivárgással és bizonyos DNS biztonsági támadásokkal szemben. A DNS-kérések rendszernaplói 24 órán belül törlődnek a szolgáltatásból, és csak a DNS-feloldás céljából kerülnek felhasználásra. [További információk](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) a HTTPS-en keresztüli DNS-ről.
 
-* __Szinkronizált adatok__: Ha engedélyezi a szinkronizálást, a Mozilla titkosított formában kapja meg az eszközök között szinkronizált információkat. Ez magában foglalhat Firefox lapokat, bővítményeket, jelszavakat, automatikus űrlapkitöltési adatokat, könyvjelzőket, előzményeket és beállításokat. A Mozilla-fiók törlése törli a kapcsolódó Firefox szinkronizálási tartalmat. A [dokumentációt](https://moz-services-docs.readthedocs.io/en/latest/sync/) is elolvashatja.
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-* __Műszaki és interakciós adatok__: Ha engedélyezi a szinkronizálást, a Firefox a telemetria segítségével rendszeresen elküldi az alapvető információkat az adatok szinkronizálásának legutóbbi kísérletéről, például hogy mikor történt, sikeres volt-e vagy sikertelen, és milyen típusú eszközzel próbálta a szinkronizálást. A [dokumentációt](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html) is elolvashatja.
+[Frissítések és bővítmények tiltólistája](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), a [Google Biztonságos böngészés szolgáltatása](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/),
 
-[Tudjon meg többet](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), többek között arról, hogyan engedélyezheti vagy tilthatja le a szinkronizációt.
+### A Firefox használatának megértése
 
-### Hely {: #location-services }
+[Adatokat](#bookmark-understand-usage) kezelünk annak érdekében, hogy jobban megértsük, hogyan veszi igénybe a szolgáltatásainkat, például mennyit használja a Firefoxot, milyen nyelvi beállításokat használ, milyen gyakran használja keresőeszközeinket vagy milyen gyakran lép interakcióba a keresési javaslatokkal, milyen gyorsan töltődnek be az oldalak, és hány hirdetést vagy [CAPTCHA-t](https://en.wikipedia.org/wiki/CAPTCHA) lát. Ez lehetővé teszi számunkra, hogy mérjük, hogy a felhasználók hogyan férnek hozzá és használják a szolgáltatásainkat, ami segít javítani a folyamatainkat és a Firefox funkcionalitását.
 
-* __Helyadatok a Google geolokációs szolgáltatásához__: A Firefox mindig megkérdezi, mielőtt meghatározza és megosztja az Ön tartózkodási helyét a kérő webhelyekkel (például ha egy térképes webhelynek szüksége van az Ön tartózkodási helyére az útbaigazításhoz). A Firefox a helymeghatározáshoz használhatja az operációs rendszer geolokációs funkcióit, Wi-Fi-hálózatokat, mobiltelefon-tornyokat vagy IP-címet, és ezeket az adatokat elküldheti a Google geolokációs szolgáltatásának, amely saját [adatvédelmi szabályzattal](https://www.google.com/privacy/lsf.html) rendelkezik.
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-[További információk](https://www.mozilla.org/firefox/geolocation/).
+Bármikor frissítheti az adatgyűjtési beállításait az [asztali számítógépen](https://support.mozilla.org/kb/technical-and-interaction-data) és a [mobileszközön](https://support.mozilla.org/kb/technical-and-interaction-data) (tartsa szem előtt, hogy az „Műszaki és interakciós adatok küldésének engedélyezése a Firefoxnak a Mozillának” kijelölésének törlését, ez nincs hatással a [Napi használati pingre](https://support.mozilla.org/kb/usage-ping-settings)). Ez a Napi használati ping kizárólag nem beazonosítható adatokkal szolgál számunkra arról, hogy a felhasználó Firefoxot használ, és nem kapcsolódik semmilyen más Önre vonatkozó adathoz, és a beállításokban letiltható.
 
-### Értesítések a webhelyen {: #push-notifications }
+### A szolgáltatásaink hirdetése
 
-* __Kapcsolati adatok__: Ha engedélyezi, hogy egy webhely értesítéseket küldjön Önnek, a Firefox csatlakozik a Mozillához, és az Ön IP-címét használja az üzenet továbbításához. A Mozilla nem fér hozzá az üzenetek tartalmához.
+Ha ezt engedélyezi, a Firefox elküldi a Mozilla-adatokat a webhely tartományáról vagy adott hirdetési kampányáról (ha van ilyen), amely a letöltési oldalunkra irányította Önt, hogy segítsen nekünk megérteni és javítani a marketing-erőfeszítéseinket. A Firefox emellett adatokat oszt meg a marketingpartnereinkkel a kampányok mérése és fejlesztése érdekében; hogy milyen adatokat osztanak meg konkrétan, az változó (attól függően, hogy hogyan fedezte fel a Firefoxot és az operációs rendszerét), de általában azt is magában foglalja, hogy hogyan került a letöltési oldalunkra, és hogy aktívan használja-e a Firefoxot. Ahol a Firefox előre telepítve van az eszközén, ott a technikai és interakciós adatokat (az eszköz típusát és azt, hogy használják-e a Firefoxot) elküldjük a marketingpartnereinknek, és megosztjuk a Mozillával. További információk arról, hogy mit gyűjtenek és osztanak meg, és hogyan lehet leiratkozni.
 
-* __Interakciós adatok__: Olyan összesített adatokat kapunk, mint például a Firefox-feliratkozások és -leiratkozások száma a webhelyértesítésekre, az elküldött üzenetek száma, az időbélyegek és a küldő (amelyek magukban foglalhatnak bizonyos webhelyszolgáltatókat).
+#### További részletek, beleértve az adatbeállítások módosítását:
 
-Olvassa el a [teljes dokumentációt](https://mozilla-push-service.readthedocs.io/en/latest/), vagy [tudjon meg többet](https://support.mozilla.org/kb/push-notifications-firefox) arról, hogyan vonhatja vissza a webhelyértesítéseket.
+További információk arról, hogy milyen [Kampánymérési adatokat](https://support.mozilla.org/kb/marketing-data) gyűjtenek és osztanak meg, és hogyan lehet leiratkozni. Megjegyzés: A Firefox nem oszt meg olyan adatokat a marketingtechnológiai partnerekkel, mint a böngészési előzmények, a keresési lekérdezések vagy a mentett jelszavak. A Mozilla csak a marketingkampányaink méréséhez és fejlesztéséhez szükséges adatokat gyűjti.
 
-### Bővítmények {: #addons }
+### Az adatok álnevesítése, nem beazonosíthatóvá tétele, összesítése vagy anonimizálása
 
-A bővítményeket az addons.mozilla.org ("AMO") oldalról vagy a Firefox bővítménykezelőjéből telepítheti, amely az eszköztár Firefox-menü gombjával érhető el.
+A fent vázolt tevékenységek részeként, mint például a Firefox használatának megértése és marketingünk mérése, létrehozhatunk álnevesített, nem beazonosítható, összesített vagy anonimizált adatokat. A körülményeknek megfelelő technológiát használunk, beleértve az azonosító eltávolítását, az OHTTP-t vagy a DAP-t – ezek segítenek megakadályozni, hogy az adatok összekapcsolhatók legyenek Önnel. Bizonyos esetekben megoszthatunk vagy közzétehetünk összesített és anonimizált adatokat a kutatás megkönnyítése érdekében, vagy a fent vázolt törvényes üzleti célok részeként (például az összesített betekintések megosztása hirdetési partnerekkel).
 
-* __Keresési lekérdezések__: Az Add-on Managerben található keresési lekérdezéseket elküldik a Mozillának, hogy bővítményeket javasoljon Önnek.
+### Kommunikáció Önnel
 
-* __Interakciós adatok__: Összesített adatokat kapunk az AMO webhelyének és a Firefox bővítménykezelőjének látogatásairól, valamint az ezeken az oldalakon található tartalmakkal való interakciókról. Olvasson az adatkezelési gyakorlatról a [Mozilla webhelyein](https://www.mozilla.org/privacy/websites/).
+A beállításaitól függően (és attól függően, hogy van-e Mozilla-fiókja vagy sem), terméken belüli üzenetküldés útján kommunikálhatunk Önnel, kommunikációt küldhetünk Önnek (beleértve a marketinggel kapcsolatos kommunikációt is), vagy megkérhetjük Önt, hogy vegyen részt kutatásokban/felmérésekben, vagy válaszoljon az ügyfélszolgálati kommunikációra. Közvetlenül is kapcsolatba léphet velünk, például [bejelenthet egy meghibásodott webhelyet a Firefoxban](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). Amikor személyes adatokat küld nekünk ezekkel a módszerekkel, az adatokat csak az Ön által megadott célra használjuk fel. Az e kommunikációhoz kapcsolódó interakciós adatokat is kezeljük, hogy jobban megértsük, ki kapta meg a szolgáltatással kapcsolatos bejelentéseinket (például új funkciók, frissítések vagy biztonsági figyelmeztetések).
 
-* __Technikai adatok a frissítésekhez__: A Firefox rendszeresen csatlakozik a Mozillához, hogy frissítéseket telepítsen a bővítményekhez. A telepített bővítményeit, Firefox verzióját, nyelvét és az eszköz operációs rendszerét használjuk a megfelelő frissítések alkalmazásához.
+### A vonatkozó jogszabályok betartása, valamint a káros, jogosulatlan vagy illegális tevékenységek azonosítása és megelőzése
 
----
+Előfordulhat, hogy a személyes adatait is kezeljük a vonatkozó jogszabályoknak és védelmi céloknak való megfelelés érdekében, mint például:
 
-### Lábjegyzet
+* <a id="bookmark-authorities"></a>[Jogszerű kérések](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
+* Adatvédelmi jogok gyakorlására irányuló kérések megválaszolása, például az Ön személyes adataihoz való hozzáféréshez vagy azok törléséhez való joga.
+* Lehetséges csalárd tevékenységek vagy egyéb káros tevékenységek, például illegális tevékenységek, kibertámadások vagy szellemi tulajdonjogok megsértése azonosítása, kivizsgálása és kezelése (beleértve a jogi igények benyújtását vagy védelmét).
+* Belső megfelelőségi és biztonsági tevékenységek végrehajtása, például auditok és vállalati biztonságkezelés.
 
-A személyes adatokkal kapcsolatos kérelmek benyújtásához vegye fel velünk a kapcsolatot az [Érintett hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül. Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a compliance@mozilla.com címen, vagy értesítse az adatvédelmi tisztviselőnket a dpo@mozilla.com címen. Minden olyan megkeresésre válaszolunk, amelyet olyan egyénektől kapunk, akik a vonatkozó adatvédelmi jogszabályokkal összhangban kívánják gyakorolni adatvédelmi jogaikat. Amikor a Firefox-adatai törlését kérelmezi, azokat a kérelemtől számított 30 napon belül töröljük (az interakciós adatok kivételével, amelynek normál megőrzési ideje 90 nap, és ezen időszak végét követően automatikusan törlésre kerülnek).
+## Hogyan osztják meg az adatait?
 
-Ez az adatvédelmi tájékoztató a Mozilla által forgalmazott Firefox legújabb általános verziójára vonatkozik. Ha a Firefoxot máshonnan szerzi be, vagy régebbi verziót használ, a Firefox másolatának adatvédelmi jellemzői eltérőek lehetnek.
-{: #pre-release }
+A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közölhetjük a személyes adatait:
 
-A Mozilla Firefox kiadás előtti változatai (amelyeket olyan csatornákon keresztül terjesztenek, mint a Nightly, Beta, Developer Edition és TestFlight) olyan fejlesztési platformok, amelyeket gyakran frissítenek kísérleti funkciókkal és tanulmányokkal. A jelen adatvédelmi nyilatkozatban leírt adatgyűjtésen kívül ezek a verziók alapértelmezés szerint bizonyos típusú webes tevékenységekre és összeomlásokra vonatkozó adatokat küldhetnek a Mozillának és bizonyos esetekben partnereinknek. Bármilyen adatgyűjtés vagy -megosztás a [Firefox adatgyűjtési szabályzatának](https://wiki.mozilla.org/Firefox/Data_Collection) megfelelően történik, mindig átláthatóak leszünk, és mindig biztosítani fogjuk Önnek az ellenőrzéseket.
+|  |  |
+| :---- | :---- |
+| Partnerek, szolgáltatók, beszállítók és vállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni.  |
+| [Hatóságok](#bookmark-authorities)  | A Mozilla érvényes [jogi eljárást](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket.  |
+| Kutatók | A nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítése érdekében. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
+| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
+
+## Mennyi ideig tárolják az adatait?
+
+A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi nyilatkozatban meghatározott célok teljesítéséhez szükséges. Általánosságban elmondható, hogy a személyes adatokat nem őrizzük meg 25 hónapnál tovább, de a tényleges megőrzési időszakok az adatok típusától és a gyűjtés céljától függően változhatnak (például megőrizzük az Ön „első megjelenésének” dátumát a Firefox használatának időtartama alatt, így tudjuk, mióta Firefox-felhasználó). A konkrét megőrzési időszakok az adatok érzékenységétől, gyűjtésük kontextusától, az Ön beállításaitól és preferenciáitól, valamint az adatok megőrzésére vagy törlésére vonatkozó jogi vagy szerződéses kötelezettségeinktől is függhetnek, például a csalás megelőzése, a szabályozási megfelelés vagy a szolgáltatás folytonossága érdekében. A megőrzési időszak lejártával biztonságosan töröljük az adatait, hacsak a jogszabályok másként nem rendelkeznek.
+
+A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
+
+## Az Ön jogai és döntései
+
+### Az Ön jogai:
+
+Firefox-felhasználóként joga van a következőkre:
+
+1. Tájékozódás arról, hogy milyen adatokat kezelünk Önről, miért és kivel osztjuk meg azokat (ez a nyilatkozat)
+2. Másolat kérése az Önről rendelkezésünkre álló adatokról
+3. Az adatai hordozhatóságának kérése
+4. Az Önről tárolt, pontatlan vagy hiányos adatok helyesbítésének kérése
+5. Az Önről tárolt személyes adatok törlése (bizonyos körülmények között)
+6. Bizonyos esetekben az Ön személyes adatainak felhasználásának korlátozása vagy az ez ellen való tiltakozás
+7. Panasztétel az illetékes adatvédelmi hatóságnál, ha aggályai vannak azzal kapcsolatban, hogy miként kezeljük a személyes adatait. Szeretnénk, ha először velünk venné fel a kapcsolatot (a [dpo@mozilla.com](mailto:dpo@mozilla.com) címen), de az illetékes [uniós adatvédelmi hatósághoz](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en) is fordulhat, vagy megkeresheti (és kapcsolatba léphet) a helyi adatvédelmi hatósággal.
+
+A személyes adataival kapcsolatos fenti kérések benyújtásához vegye fel velünk a kapcsolatot (Mozilla Corporation) az [Érintetti hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül – soha senkit nem fogunk megkülönböztetni a személyiségi jogok gyakorlása miatt. Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a [compliance@mozilla.com](mailto:compliance@mozilla.com) címen.
+
+Ha az Egyesült Királyságban vagy az EGT-ben tartózkodik, felveheti a kapcsolatot adatvédelmi tisztviselőnkkel is a [dpo@mozilla.com](mailto:dpo@mozilla.com) címen, vagy postai úton a következő címen:
+
+Bird & Bird DPO Services SRL <br>
+Avenue Louise 235 b 1 <br>
+1050 Brüsszel <br>
+Belgium
+
+Válaszolunk minden olyan kérésre, amelyet olyan egyénektől kapunk, akik a vonatkozó adatvédelmi jogszabályokkal összhangban élni kívánnak adatvédelmi jogaikkal, és előfordulhat, hogy további információkat kell kérnünk Öntől személyazonosságának megerősítése érdekében, mielőtt folytatnánk a kérelmét.
+
+Tartsa szem előtt, hogy amikor a Firefox-adatai törlését kérelmezi, azokat a kérelemtől számított 30 napon belül töröljük (az interakciós adatok kivételével, amelynek normál megőrzési ideje 90 nap, és ezen időszak végét követően automatikusan törlésre kerülnek).
+
+### Az Ön döntései:
+
+Bármikor frissítheti az adatgyűjtési beállításait az [asztali számítógépen](https://support.mozilla.org/kb/technical-and-interaction-data) és a [mobileszközön](https://support.mozilla.org/kb/technical-and-interaction-data).
+
+A Firefox [Globális adatvédelmi felügyeletet](https://support.mozilla.org/kb/global-privacy-control) (GPC) is biztosít, amely lehetővé teszi, hogy automatikusan értesítse a webhelyeket arról, hogy ne adják el vagy osszák meg az Ön böngészési munkamenetével kapcsolatos információkat az adott webhelyen. A GPC „Nincs értékesítés” mechanizmusként működik egyes amerikai államokban, például Kaliforniában, Coloradóban és Connecticutban. Használható arra is, hogy jelezze a célzott hirdetésekről való leiratkozást, vagy általános kérést személyes adatai értékesítésének vagy megosztásának korlátozására ezekben a joghatóságokban, valamint olyan joghatóságokban, mint az Európai Unió, az Egyesült Királyság, Nevada, Utah és Virginia.
+
+## Mi történik a nemzetközi adattovábbítás során?
+
+A Mozilla (és a kiszolgálóink) az Egyesült Államokban találhatók. Mivel globális vállalat vagyunk, a jelen Adatvédelmi nyilatkozatban vázolt szolgáltatások nyújtása érdekében az általunk gyűjtött adatokhoz hozzáférhetünk azokról a helyekről, ahol munkatársaink tartózkodnak, és az adatok más joghatóságokba is átkerülhetnek a partnereinkkel való adatmegosztás eredményeként. Adott esetben biztosítjuk, hogy megfelelő mechanizmusokkal rendelkezzünk (például az Európai Bizottság és más illetékes hatóságok által jóváhagyott [általános szerződési feltételek](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses)) az Ön személyes adatainak védelmére. A [dpo@mozilla.com](mailto:dpo@mozilla.com) címen tájékozódhat a nemzetközi továbbításokra alkalmazott biztosítékokról, illetve a vonatkozó általános szerződési feltételek másolataiért.
+
+## Alkalmazhatóság (Firefox-verzió) és változtatások
+
+### Alkalmazhatóság
+
+A jelen Adatvédelmi nyilatkozat a Mozilla által forgalmazott Firefox legújabb általános verziójára vonatkozik. Ha a Firefoxot máshonnan szerzi be, vagy régebbi verziót használ, a Firefox másolatának adatvédelmi jellemzői eltérőek lehetnek.
+
+A Mozilla Firefox kiadás előtti változatai (amelyeket olyan csatornákon keresztül terjesztenek, mint a Nightly, Beta, Developer Edition és TestFlight) olyan fejlesztési platformok, amelyeket gyakran frissítenek kísérleti funkciókkal és tanulmányokkal. A jelen Adatvédelmi nyilatkozatban leírt adatgyűjtésen kívül ezek a verziók alapértelmezés szerint bizonyos típusú webes tevékenységekre és összeomlásokra vonatkozó adatokat küldhetnek a Mozillának és bizonyos esetekben partnereinknek.
+
+### Változtatások
+
+Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozatainkat, ebben az esetben a frissítéseket az interneten közzétesszük, és frissítjük ezen nyilatkozat hatályba lépésének dátumát. Érdemi változások esetén a frissítést bejelentjük a Mozilla bejelentések céljára használt szokásos csatornáin, például blogbejegyzésekben és fórumokon.
+
+## Meghatározott adattípusok
+
+| Adattípus | Leírás | Példák Firefox-elhasználóknak |
+| :---- | :---- | :---- |
+| Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a Firefoxhoz való csatlakozásáról.  | Eszköztípus, operációs rendszer, IP-cím, ISP (internetszolgáltató).  |
+| Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások vagy az eszköztár beállításai. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások.  | Továbbfejlesztett követésvédelmi beállítások, cookie-beállítások, engedélyek (hely, kamera, mikrofon), eszköztár testreszabása. |
+| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város.  |
+| Pontos hely | A pontos tartózkodási helye (néhány méteren belül). | Pontos hely.  |
+| Nyelvi beállítások | Az Ön által kikövetkeztetett vagy előnyben részesített nyelv (ha megadja a beállításokban) a szolgáltatásainkkal való interakcióhoz. | Nyelv.  |
+| Egyedi azonosítók | Ezek egyedi azonosítók, amelyek különböző időpontokban hozhatók létre a szolgáltatással való interakciók kezelésére.  | Client_id, session_id, cookie-azonosítók.  |
+| Rendszerteljesítmény-adatok | Adatok arról, hogy a szolgáltatások hogyan működnek az Ön eszközén.  | Memóriahasználat, oldalleképezési sebesség. |
+| Interakciós adatok | Adatok arról, hogy Ön hogyan használja a szolgáltatásainkat, például hány lap van nyitva, vagy mire kattintott.  | Kattintások száma, megjelenítési adatok, hozzárendelési adatok, a végrehajtott keresések száma, az oldalon töltött idő, a hirdetésekre és a szponzorált csempére leadott kattintások.  |
+| Böngészési adatok | Az Ön által meglátogatott webhelyekre és URL-címekre vonatkozó információk. Ez magában foglalhatja a böngészési adatok kategóriáit (utazás, vásárlás, közösségi média), legfelső szintű tartományok (example.com) vagy konkrét meglátogatott weboldalakat.  | Böngészési kategória, legfelső szintű tartományok (TLD), adott URL-címek.  |
+| Keresési adatok | Ezek a keresési kategóriákra, a keresési kulcsszavakra vagy a keresett kifejezések keresési lekérdezésére vonatkozó adatok.  | Keresési kategória (élelmiszer, utazás), kulcsszavak („Boston”), keresési kifejezés („időjárás Bostonban”).  |
+| Tartalom | Amikor megadja nekünk, kezelhetünk adatokat, például feltöltött képeket vagy felmérésválaszokat. | Feltöltött kép, könyvjelzők, megjegyzések, felmérésválaszok.  |
+| Kapcsolattartási adatok | Amikor megadja nekünk, kezelhetünk adatokat az Önnel való kapcsolatfelvétel módjáról.  | E-mail-cím, telefonszám. |
+
+## Jogalapok
+
+<table>
+    <thead>
+        <tr>
+            <th><a id="bookmark-how-we-use-data"></a>Az adatok felhasználásának célja</th>
+            <th>A kezelt adatok</th>
+            <th>A jogalapjaink</th>
+            <th>További információk, beleértve az adatok megosztásának módját a Firefoxban</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A Firefox böngésző biztosításához</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Nyelvi beállítások</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Szerződés</strong> a Firefox működéséhez szükséges funkciók biztosítására.</p>
+                <p><strong>Jogos érdek</strong> további funkciók, akadálymentesítési szolgáltatások és személyre szabottabb élmény biztosítása iránt.</p>
+            </td>
+            <td>Részletesebb információkat olvashat az <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">asztali számítógépeken</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Androidon</a> vagy <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS-en</a> gyűjtött adatokról. Bármikor frissítheti az adatgyűjtési beállításait az <a href="https://support.mozilla.org/kb/technical-and-interaction-data">asztali számítógépen</a> és a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobileszközön</a>. További információkat is megtudhat a <a href="https://support.mozilla.org/kb/website-translation">fordításról</a> és az <a href="https://support.mozilla.org/kb/pdf-alt-text">alternatív szövegek hozzáadásáról a PDF-fájlokban lévő képekhez </a>.</td>
+        </tr>
+        <tr>
+            <td>A Firefox hozzáigazítása az Ön igényeihez</td>
+            <td>
+                <ul>
+                    <li>Bármely adattípus</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogos érdek</strong>, hogy az eszközén lévő adatok működjenek az Ön számára.</p>
+                <p><strong>Hozzájárulás</strong>, ha úgy dönt, hogy engedélyezi a webhelyek (például a Google Térkép) számára a hozzáférést az Ön pontos helyéhez, hogy engedélyezze a helyhez kapcsolódó funkciókat.</p>
+            </td>
+            <td>Az eszközön kezelt adatok az Ön ellenőrzése alatt maradnak. Bármikor kezelheti a <a href="https://support.mozilla.org/kb/storage">helyi tárhelybeállításait</a>, vagy <a href="https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox">törölheti a böngészési előzményeket</a>.</td>
+        </tr>
+        <tr>
+            <td>Keresési funkciók biztosítása és fejlesztése</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Nyelvi beállítások</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                    <li>Interakciós adatok</li>
+                    <li>Keresési adatok</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogos érdek</strong> a keresési funkciók biztosítása és fejlesztése, valamint a személyre szabottabb keresési élmény és a szponzorált találatok iránt.</p>
+                <p><strong>Hozzájárulás</strong>, ha úgy dönt, hogy használja a továbbfejlesztett keresési élményt, és további személyes adatokat oszt meg.</p>
+            </td>
+            <td>A <a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">Keresési beállításokat</a> és a <a href="https://support.mozilla.org/kb/search-suggestions-firefox">Keresési javaslatok funkcióit</a> bármikor frissítheti, és többet megtudhat arról, hogyan <a href="https://blog.mozilla.org/en/products/firefox/firefox-search-update/">kategorizáljuk a kereséseket</a>.</td>
+        </tr>
+        <tr>
+            <td>Releváns tartalom és hirdetések megjelenítése a Firefox Új lapján</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Nyelvi beállítások</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                    <li>Interakciós adatok</li>
+                    <li>Keresési adatok</li>
+                </ul>
+            </td>
+            <td><strong>Jogos érdek</strong> az Önt érdeklő tartalom megjelenítésére és annak biztosítására, hogy az Ön által látott hirdetések relevánsak legyenek (ami támogatja termékeink és szolgáltatásaink biztosítását).</td>
+            <td>További információkat olvashat az <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">Új lap oldal kezeléséről</a>, beleértve az <a href="https://support.mozilla.org/kb/sponsor-privacy">adatbeállításokat</a> is. Bármikor letilthatja az adatai személyre szabási vagy hirdetési célú kezelését, ha kikapcsolja a „műszaki és interakciós adatok” funkciót az <a href="https://support.mozilla.org/kb/technical-and-interaction-data">asztali számítógépen</a> és a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobileszközön</a>.</td>
+        </tr>
+        <tr>
+            <td>Mozilla-fiókok biztosítása</td>
+            <td colspan="3">Tekintse meg a <a href="https://www.mozilla.org/privacy/mozilla-accounts/">Mozilla-fiókok adatvédelmi nyilatkozatát</a></td>
+        </tr>
+        <tr>
+            <td>Mi-csevegőbotok biztosítása</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                </ul>
+            </td>
+            <td><strong>Hozzájárulás</strong>, ha úgy dönt, hogy engedélyez egy MI-csevegőbotot.</td>
+            <td>További információ az MI-csevegőbotok <a href="https://support.mozilla.org/kb/ai-chatbot">kezeléséről</a> vagy <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">eltávolításáról</a> a Firefoxban.</td>
+        </tr>
+        <tr>
+            <td>Értékelés-ellenőrző szolgáltatás biztosítása, beleértve a szponzorált tartalom kiszolgálását</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                    <li>Böngészési adatok</li>
+                </ul>
+            </td>
+            <td><strong>Hozzájárulás</strong>, ha úgy dönt, hogy engedélyezi az Értékelés-ellenőrzőt.</td>
+            <td>További információkat olvashat a <a href="https://support.mozilla.org/kb/review-checker-review-quality">Firefox Értékelés-ellenőrző használatáról</a>, és arról, hogyan alkalmazzuk az adatvédelmi technológiákat, például az <a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP-t</a>.</td>
+        </tr>
+        <tr>
+            <td>Kiegészítők engedélyezése (addons.mozilla.org, „AMO”), beleértve a személyre szabott javaslatokat</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                    <li>Keresési adatok</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogos érdek</strong> az AMO-infrastruktúra biztosításához és használatának megértéséhez, ideértve a bővítmények áttekintését és azok letiltását, amelyekről ismert, hogy biztonsági, stabilitási vagy teljesítménybeli problémákat okoznak.</p>
+                <p><strong>Hozzájárulás</strong>, ha úgy dönt, hogy engedélyez egy adott Mozilla által biztosított bővítményt. Az egyes bővítmények által kezelt adatokra a saját adatvédelmi szabályzatuk vonatkozik.</p>
+            </td>
+            <td>
+                <p>További információ a <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">bővítmények eltávolításáról vagy engedélyezéséről</a>.</p>
+                <p>Megtekintheti a <a href="https://addons.mozilla.org/firefox/">bővítmények webhelyének</a> <a href="https://www.mozilla.org/privacy/websites/">adatvédelmi nyilatkozatát</a> is.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>A funkciók, a teljesítmény és a stabilitás fenntartása és fejlesztése</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                    <li>Interakciós adatok</li>
+                    <li>Böngészési adatok</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Szerződés</strong> a Firefox működésének biztosítására.</p>
+                <p><strong>Jogos érdek</strong> a funkciók, a teljesítmény és a stabilitás javítását célzó kutatások és intézkedések iránt.</p>
+                <p><strong>Hozzájárulás</strong>, ha úgy dönt, hogy hibajelentéseket küld nekünk, amelyek tartalmazhatnak böngészési adatokat.</p>
+            </td>
+            <td>Bármikor <a href="https://support.mozilla.org/kb/shield">többet megtudhat</a> azokról a tanulmányokról, amelyekre regisztrált, és bármikor leiratkozhat az összes (vagy egy adott) tanulmányról, valamint regisztrálhat a <a href="https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox">Firefox Labs</a> kísérleti funkcióira.</td>
+        </tr>
+        <tr>
+            <td>A biztonság javítása</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                    <li>Böngészési adatok (csak HTTPS-en keresztüli DNS-hez)</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogszabályok betartása</strong> a személyes adatok védelmében, ahogy azt a vonatkozó adatvédelmi és kiberbiztonsági előírások megkövetelik.</p>
+                <p><strong>Jogos érdek</strong>, hogy további biztonsági intézkedéseket biztosítsunk minden felhasználónk számára, és fokozzuk az internet általános biztonságát (például ujjlenyomat-ellenőrzés elleni tevékenység).</p>
+            </td>
+            <td>További információk: <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Frissítések és bővítmények tiltólistája</a>, a <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google Biztonságos böngészés szolgáltatása</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>,</td>
+        </tr>
+        <tr>
+            <td><a id="bookmark-understand-usage"></a>A Firefox használatának megértése</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                    <li>Tartalomadatok</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                    <li>Nyelvi beállítások</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogos érdek</strong> a Firefox használatának megértéséhez, a fejlesztések lehetővé tételéhez és az olyan üzleti funkciók végrehajtásához, mint a használati jelentések és előrejelzések.</p>
+                <p><strong>Hozzájárulás</strong>, ha azt a vonatkozó jogszabályok előírják (például ha nem alapvető cookie-kat használnak), vagy ha a felhasználók felméréseket végeznek, vagy önkéntesen küldenek be egyéb adatokat.</p>
+            </td>
+            <td>Bármikor frissítheti az adatgyűjtési beállításait az <a href="https://support.mozilla.org/kb/technical-and-interaction-data">asztali számítógépen</a> és a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobileszközön</a> (tartsa szem előtt, hogy az „Műszaki és interakciós adatok küldésének engedélyezése a Firefoxnak a Mozillának” kijelölésének törlését, ez nincs hatással a <a href="https://support.mozilla.org/kb/usage-ping-settings">Napi használati pingre</a>). Ez a Napi használati ping kizárólag nem beazonosítható adatokkal szolgál számunkra arról, hogy a felhasználó Firefoxot használ, és nem kapcsolódik semmilyen más Önre vonatkozó adathoz, és a beállításokban letiltható.</td>
+        </tr>
+        <tr>
+            <td>A szolgáltatásaink hirdetése.</td>
+            <td>
+                <ul>
+                    <li>Technikai adatok</li>
+                    <li>Hely</li>
+                    <li>Nyelvi beállítások</li>
+                    <li>Beállításadatok</li>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                    <li>Böngészési adatok</li>
+                    <li>Rendszerteljesítmény-adatok</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Jogos érdek</strong> a termékeink és szolgáltatásaink népszerűsítése iránt, beleértve a marketingkommunikáció küldését, valamint marketingkampányaink mérését és fejlesztését.</p>
+                <p><strong>Hozzájárulás</strong>, ha azt a vonatkozó jogszabályok megkövetelik (pl. olyan joghatóságok, amelyekhez marketingkommunikáció fogadásához hozzájárulás szükséges).</p>
+            </td>
+            <td>További információk arról, hogy milyen <a href="https://support.mozilla.org/kb/marketing-data">Kampánymérési adatokat</a> gyűjtenek és osztanak meg, és hogyan lehet leiratkozni. Megjegyzés: A Firefox nem oszt meg olyan adatokat a marketingtechnológiai partnerekkel, mint a böngészési előzmények, a keresési lekérdezések vagy a mentett jelszavak. A Mozilla csak a marketingkampányaink méréséhez és fejlesztéséhez szükséges adatokat gyűjti.</td>
+        </tr>
+        <tr>
+            <td>Az adatok álnevesítése, nem beazonosíthatóvá tétele, összesítése vagy anonimizálása.</td>
+            <td>
+                <ul>
+                    <li>Minden adattípus</li>
+                </ul>
+            </td>
+            <td><strong>Jogos érdek</strong> az adatvédelmi intézkedések meghozatalához, mielőtt elemzéseket végeznének vagy megosztanák az adatokat a partnerekkel.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Kommunikáció Önnel.</td>
+            <td>
+                <ul>
+                    <li>Egyedi azonosítók</li>
+                    <li>Interakciós adatok</li>
+                    <li>Kapcsolattartási adatok</li>
+                    <li>Tartalomadatok</li>
+                    <li>Nyelvi beállítások</li>
+                </ul>
+            </td>
+            <td><strong>Jogos érdek</strong>, hogy tájékoztassuk Önt a termékeinket vagy szolgáltatásainkat érintő fejlesztésekről vagy változásokról, valamint kérdések vagy egyéb kérések áttekintése és megválaszolása.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>A vonatkozó jogszabályok betartása, valamint a káros, jogosulatlan vagy illegális tevékenységek azonosítása és megelőzése.</td>
+            <td>
+                <ul>
+                    <li>Minden adattípus</li>
+                </ul>
+            </td>
+            <td><strong>Jogszabályi megfelelés</strong> az érintettek jogaival kapcsolatos megkeresések megválaszolása, a bűnüldözési kérelmek megválaszolása, a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme során. <strong>Jogos érdek</strong>, ahol a megfelelés nem megfelelő, a jogi vagy szabályozási folyamatok vagy kérések támogatása, a csalás megelőzése, valamint a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme.</td>
+            <td>További információk arról, hogyan válaszolunk a <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">jogszerű kérésekre</a>.</td>
+        </tr>
+    </tbody>
+</table>
+
+## A keresőszolgáltatók adatvédelmi szabályzatai
+
+[Google](https://policies.google.com/privacy)
+
+[Microsoft (Bing)](https://www.microsoft.com/privacy/privacystatement#mainsearchaimodule)
+
+[DuckDuckGo](https://duckduckgo.com/privacy)
+
+[Amazon.com](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+
+[eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
