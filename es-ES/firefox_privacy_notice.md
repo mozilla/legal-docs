@@ -1,159 +1,492 @@
-## <span class="privacy-header-firefox">Aviso de privacidad</span> <span class="privacy-header-policy">de Firefox</span>
+﻿# Aviso de privacidad de Firefox
 
-*En vigor desde el lunes, 13 de mayo de 2024
-{: datetime="2024-05-13" }
+Vigente desde el 25 de febrero de 2025
+{: datetime="2025-02-25" }
 
 ## En Mozilla, consideramos que la privacidad es fundamental para tener un Internet sano.
 
-Por este motivo hemos creado Firefox, y todos nuestros productos, para darle mayor control sobre la información que comparte online y la información que comparte con nosotros. Nuestro objetivo es recopilar solo la información que necesitamos para mejorar Firefox para todo el mundo.
+Por este motivo hemos creado Firefox, y todos nuestros productos, para darle mayor control sobre la información que comparte en línea y la información que comparte con nosotros. En este Aviso de privacidad, explicamos qué datos procesamos, cómo los procesamos y para qué fines. Luego, explicamos cómo puede ejercer opciones sobre cómo procesamos su información.
 
-En este aviso de privacidad, especificamos los datos que comparte Firefox y los ajustes que le permiten a usted compartir menos. Asimismo, nos adherimos a las prácticas descritas en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/) sobre cómo recibimos, usamos y compartimos la información que recopilamos de Firefox.
+## ¿Cómo se utilizan sus datos?
 
-## Por defecto, Mozilla procesa sus datos personales de Firefox para:
+### Para proporcionarle el navegador Firefox
 
-### Mejorar las funciones, el rendimiento y la estabilidad para los usuarios de todo el mundo {: #health-report }
+Mozilla recopila [ciertos datos](#bookmark-how-we-use-data), como datos técnicos y de configuración, para proporcionar la funcionalidad básica del navegador Firefox y los servicios asociados, distinguir su dispositivo de otros, recordar y respetar sus configuraciones, y proporcionarle funciones predeterminadas como [Nueva pestaña](https://support.mozilla.org/kb/about-new-tab-page), [Edición de PDF](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [administrador de contraseñas](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) y [protección total de cookies](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). Usted puede personalizar aún más su experiencia de Firefox ajustando sus [controles, botones y barras de herramientas](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) y agregando [características con complementos](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-* __Datos de interacción__: Firefox nos envía datos sobre su interacción con Firefox (p. ej., número de pestañas y ventanas abiertas, número de páginas web visitadas, número y tipo de complementos de Firefox instalados y duración de las sesiones) y las funciones de Firefox ofrecidas por Mozilla o nuestros socios (p. ej., interacción con las funciones de búsqueda de Firefox y referencias de búsqueda de socios).
+Algunas características de Firefox, como la [traducción automática](https://support.mozilla.org/kb/website-translation) para páginas web y las [sugerencias de "texto alternativo" cuando usted sube imágenes a sus archivos PDF](https://support.mozilla.org/kb/pdf-alt-text), están impulsadas por inteligencia artificial (IA) basada en modelos de lenguaje pequeño descargados en su dispositivo. Estos operan localmente - el contenido de la página web, los archivos PDF, las imágenes y las direcciones URL de pestañas permanecen en su dispositivo y no se envían a los servidores de Mozilla ni se utilizan con fines formativos sin su consentimiento explícito. Tenga en cuenta que otras características de Firefox pueden integrar modelos de IA de terceros, como se detalla más a fondo en este Aviso.
 
-* __Datos técnicos__: Firefox nos envía datos sobre su versión e idioma de Firefox, sistema operativo y configuración de hardware del dispositivo, memoria, información básica sobre cierres y fallos, resultados de procesos automatizados como actualizaciones, navegación segura y activación. Cuando Firefox nos envía datos, su dirección IP se guarda temporalmente como parte de los registros del servidor.
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
+Usted puede leer información más detallada sobre la información que recopilamos para [Escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Usted puede actualizar la configuración de recopilación de datos para [Escritorio](https://support.mozilla.org/kb/technical-and-interaction-data) y [Móvil](https://support.mozilla.org/kb/technical-and-interaction-data) en cualquier momento.
 
-Lea la documentación de telemetría para las versiones de [escritorio](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Conozca cómo inhabilitar esta recopilación de datos en las versiones de [escritorio](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) y [móviles](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers), o cómo no participar de los [estudios](https://support.mozilla.org/kb/shield).
-{: #telemetry }
+### Para adaptar Firefox a sus necesidades
 
-### Brindar y mejorar las funciones de búsqueda {: #defaultsearch }
+Firefox procesa una variedad de datos personales de una manera que no sale de su dispositivo, como el historial de navegación, los datos del formulario web, los archivos temporales de internet y las cookies. Esto significa que los datos permanecen en su dispositivo y no se envían a los servidores de Mozilla, a menos que se indique lo contrario en este Aviso. Si usted elige permitirlo, su ubicación exacta también puede ser procesada para la funcionalidad relacionada con la ubicación de sitios web como Google Maps; estos datos solo son accesibles desde su dispositivo por el(los) sitio(s) que usted elija habilitar - no son enviados a los servidores de Mozilla.
 
-Puede buscar directamente desde varios lugares en Firefox, como, por ejemplo, la Barra alucinante, la Barra de búsqueda y en una Nueva pestaña. Recibimos datos sobre cómo usted interactúa con la búsqueda en Firefox y el número de búsquedas que realiza desde los servicios de búsqueda de nuestros socios, y también sobre cuando interactúa con un anuncio (aunque no con qué anuncios). Además: 
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-* __Datos de ubicación__: La primera vez que use Firefox, este utilizará su dirección IP para establecer su buscador predeterminado en función de su país. [Más información](https://support.mozilla.org/kb/change-your-default-search-settings-firefox).
+Los datos procesados en su dispositivo permanecen bajo su control. Usted puede [administrar sus datos de navegación](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) y su [configuración de almacenamiento local](https://support.mozilla.org/kb/storage), o actualizar los [permisos de ubicación](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) en cualquier momento.
 
-* __Solicitudes de búsqueda__: Firefox envía solicitudes de búsqueda a su proveedor de búsqueda para habilitar su búsqueda y para ayudarle a descubrir frases populares que otras personas han buscado y mejorar así su experiencia de búsqueda (si su proveedor de búsqueda seleccionado permite sugerencias de búsquedas). El aviso de privacidad de su proveedor de búsquedas seleccionado gobierna la recogida y el uso de sus datos por parte de dicho proveedor de búsqueda cuando utilice los servicios de este proveedor de búsqueda. [Haga clic aquí si desea obtener información sobre esta función](https://support.mozilla.org/kb/search-suggestions-firefox), así como las instrucciones para desactivarla. A continuación le proporcionamos enlaces a las políticas de privacidad de nuestros proveedores de búsqueda predeterminados:
+### Para brindar y mejorar las funciones de búsqueda 
 
-* [Google](https://policies.google.com/privacy)
-* [Microsoft (Bing)](https://privacy.microsoft.com/privacystatement)
+Cuando usted realiza una búsqueda en Firefox, su consulta de búsqueda, los datos del dispositivo y los datos de ubicación serán procesados por su motor de búsqueda predeterminado (según su [Aviso de privacidad aplicable](#privacy-policies-for-search-providers)) para proporcionar sus resultados de búsqueda y sugerencias de búsqueda.
 
-En general, Mozilla recibe regalías cuando utiliza una de las opciones predeterminadas u opcionales de búsqueda en el navegador web Firefox, incluida, entre otras, las de Google, Bing, DuckDuckGo e eBay. 
+Firefox también muestra sus propias [sugerencias de búsqueda](https://support.mozilla.org/kb/search-suggestions-firefox) basadas en la información almacenada en su dispositivo local (incluyendo términos de búsqueda recientes, pestañas abiertas y URL visitadas anteriormente). Estas sugerencias pueden incluir sugerencias patrocinadas por socios de Mozilla, contenido relevante de recursos comunes de internet (como Wikipedia), o URLs relevantes que son populares en su país. Mozilla procesa ciertos datos técnicos y de interacción, como cuántas búsquedas usted realiza, cuántas sugerencias patrocinadas ve y si interactúa con ellas. Los socios de Mozilla reciben información desidentificada sobre las interacciones con las sugerencias que han brindado. Usted puede activar o desactivar las [sugerencias de búsqueda](https://support.mozilla.org/kb/search-suggestions-firefox) en cualquier momento.
 
-* __Categorías de búsqueda__: En los Estados Unidos, Firefox envía a Mozilla las categorías de alto nivel de las cosas que usted busca (por ejemplo, deportes, viajes, comida, etc.) pero no sus términos de búsqueda reales, a no ser que usted acepte de manera específica enviarnos dicha información. Cuando esto ocurre, la categoría de búsqueda no se comparte con nuestros socios y Mozilla no es capaz de asociar la categoría de búsqueda con un usuario individual una vez que los resultados de búsqueda se han entregado. Puede optar por no participar en la recopilación de datos de categorías de búsqueda en cualquier momento. [Más información](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox).  
+Dependiendo de su ubicación, Mozilla deriva la categoría de alto nivel (por ejemplo, viajes, compras) de su búsqueda de las palabras clave en esa consulta, con el fin de entender los tipos y número de búsquedas que se realizan. Utilizamos tecnologías que preservan la privacidad de tal manera que Mozilla solo se entera de que alguien, en algún lugar, realizó una búsqueda relacionada con una categoría particular, sin saber quién. [Obtenga más información](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) sobre cómo categorizamos las búsquedas, incluida la forma de optar por no participar.
 
-__Firefox Suggest__ usa datos para proporcionar mejor información con menos esfuerzo. Firefox Suggest le muestra, por defecto, recomendaciones y contenido patrocinado en base a los datos locales guardados en su ordenador, como los sitios web de su historial de navegación, marcadores y pestañas abiertas (que no se envía a Mozilla). Firefox Suggest envía a Mozilla:
+Mozilla también puede recibir palabras clave relacionadas con la ubicación de su búsqueda (como cuando busca "Boston") y compartir esta información con nuestros socios para proporcionar contenido recomendado y patrocinado. Cuando esto ocurre, Mozilla no puede asociar la búsqueda por palabras clave con un usuario individual una vez que se ha brindado la sugerencia de búsqueda y los socios nunca son capaces de asociar las sugerencias de búsqueda con un usuario individual. Usted puede eliminar esta funcionalidad cuando lo desee desactivando las sugerencias patrocinadas. Más informaciones sobre cómo hacerlo se encuentran en la página pertinente de la [Asistencia Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u).
 
-* __Datos de ubicación__: Mozilla recibe temporalmente de Firefox su dirección IP para poder sugerirle contenido en función de su país, estado y ciudad. Mozilla puede enviar información sobre su ubicación a nuestros [socios](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners), pero no compartirá su dirección IP con ellos.
+Es posible que usted pueda optar por una experiencia de búsqueda mejorada, lo que hará que Mozilla procese datos personales adicionales, incluidos sus datos técnicos, de ubicación y de búsqueda. Parte de esa información puede ser compartida con nuestros socios en forma anónima y/o agregada. Consulte nuestra [publicación de blog](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/) "Datos y Firefox Suggest" para obtener más detalles.
 
-En EE. UU., Mozilla también puede recibir datos de búsqueda de ubicación de palabras clave (como cuando busca "Boston") y compartir esta información con nuestros socios para proporcionarle contenido recomendado y patrocinado. Cuando esto sucede, ni Mozilla ni nuestros socios pueden asociar la búsqueda de la palabra clave con un usuario individual una vez que se haya hecho la sugerencia de búsqueda. Usted puede eliminar esta funcionalidad cuando lo desee desactivando las sugerencias patrocinadas. Más informaciones sobre cómo hacerlo se encuentran en la página pertinente de la [Asistencia Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u&utm_source=inproduct).
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-* __Datos técnicos y de interacción__: Mozilla recibe datos de Firefox, tales como la frecuencia con la que Firefox sugiere o muestra contenido específico y la frecuencia con la que usted hace clic en dicho contenido, así como datos básicos sobre su interacción con Firefox Suggest. Mozilla comparte la información de cuántas veces se muestran las sugerencias, la posición de la sugerencia y las sugerencias a las que hizo clic en nuestros [socios](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners) para mejorar la verificación y las funciones.
+Usted puede actualizar su [configuración de búsqueda](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) y las [funciones de sugerencias de búsqueda](https://support.mozilla.org/kb/search-suggestions-firefox) en cualquier momento, y obtener más información sobre cómo [categorizamos las búsquedas](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).
 
-Si decide habilitar la opción para "Mejorar las sugerencias de Firefox" en nuestra página de configuración, Mozilla recibe y procesa la siguiente información con el fin de mejorar su experiencia de navegación y el servicio:
+### Para brindar contenido relevante y publicidad en Nueva pestaña de Firefox
 
-* __Solicitudes de búsqueda__: Mozilla recibe de Firefox las consultas que introduce en la barra de búsqueda y puede compartir estos datos con sus [socios](https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners). Tomamos todas las medidas necesarias para reducir el riesgo de que usted sea identificable tanto para nosotros como nuestros socios. [Más información](https://support.mozilla.org/kb/firefox-suggest).
+Utilizamos datos técnicos, preferencia de idioma y ubicación para ofrecer contenido y publicidad en la página Nueva pestaña de Firefox en el formato correcto (p. ej., para móviles vs. escritorio), idioma y ubicación relevante. Mozilla recopila datos técnicos y de interacción, como la posición, el tamaño, las vistas y los clics en el contenido o anuncios de Nueva pestaña, para comprender cómo interactúan las personas con nuestro contenido y personalizar el futuro contenido, incluido el contenido patrocinado. Estos datos pueden ser compartidos con nuestros socios publicitarios en forma anónima y/o agregada.
 
-### Recomendar contenido relevante
+En algunos casos, cuando los anuncios están habilitados en Nueva pestaña, también se pueden procesar datos de navegación adicionales localmente en su dispositivo para medir la eficacia de esos anuncios; dichos datos solo se compartirán con Mozilla y/o nuestros socios publicitarios a través de nuestras tecnologías de protección de la privacidad de forma agregada y/o sin identificar.
 
-Firefox muestra contenido como recomendaciones de complementos, sitios populares (páginas sugeridas por Mozilla a los usuarios que usan Firefox por primera vez) y recomendaciones.
+Cuando un usuario visita un sitio web de terceros haciendo clic en un anuncio o enlace en Firefox, ese sitio puede utilizar cookies y otras web APIs disponibles para cualquier sitio web para recopilar datos sujetos a los avisos de privacidad y/o las cookies de ese sitio web.
 
-* __Datos de ubicación__: Firefox utiliza su dirección IP para sugerir contenido relevante en función de su país y región.
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-* __Datos técnicos y de interacción__: Firefox nos envía datos como la posición, el tamaño y ubicación del contenido que sugerimos, así como datos básicos sobre su interacción con este contenido. Estos datos incluyen la frecuencia con la que se muestra el contenido o se hace clic en él. Usamos datos técnicos y de interacción para entender mejor a nuestros usuarios y mejorar nuestro producto. 
+Usted puede leer más información sobre [cómo administrar su página de Nueva pestaña](https://support.mozilla.org/kb/customize-your-new-tab-page), incluyendo sus [ajustes de datos](https://support.mozilla.org/kb/sponsor-privacy). Puede optar por que sus datos no se procesen para fines de personalización o publicidad desactivando "datos técnicos y de interacción" en [Escritorio](https://support.mozilla.org/kb/technical-and-interaction-data) y [Móvil](https://support.mozilla.org/kb/technical-and-interaction-data) en cualquier momento.
 
-* __Recomendaciones__: Las recomendaciones de contenido se pueden realizar en base a su historial de navegación, idioma y país. El proceso de selección de las historias que se le van a mostrar basada en su historial de navegación se produce localmente en su copia de Firefox, y Mozilla no recibe una copia de su historial de navegación. Mozilla sí recibe datos agregados sobre las recomendaciones que ve y con las que interactúa. Compartimos también datos agregados con nuestra plataforma publicitaria de terceros [Kevel](https://dev.kevel.com/docs/privacy-policy-customers) acerca del contenido patrocinado que usted ve y con el que interactúa, para que los anunciantes puedan conocer el número de personas que ven y hacen clic en sus artículos. Estos datos agregados no lo identifican a usted personalmente.
+### Para proporcionar cuentas de Mozilla
 
-* __Datos de sitios populares__: Cuando hace clic en el icono de un sitio web popular patrocinado en Nueva pestaña, compartimos con AdMarketplace (una plataforma de referencia de terceros) información sobre su país, región, condado (si se encuentra en EE. UU.), el icono en el que hizo clic y la hora a la que lo hizo a fin de verificar que visitó dicho sitio web. Firefox no comparte su dirección IP ni ninguna otra información que pueda servir para identificarle.
+Si usted se registra para una cuenta de Mozilla, procesamos información adicional junto con los datos establecidos en este Aviso, como los detalles de la cuenta, la información de contacto y los datos de sincronización, de acuerdo con el [Aviso de privacidad de las cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-* __Recomendaciones de complementos y funciones__: Podrá encontrar nuestras recomendaciones de complementos en dos lugares, la página para administrar sus complementos (about:addons) y la Barra alucinante, donde puede buscar o introducir las direcciones URL. Podemos mostrarle funciones de Firefox también a través de La Barra alucinante. Las recomendaciones mostradas en "about:addons" se realizan en función de las cookies. Las recomendaciones mostradas en la Barra alucinante se realizan en función de su interacción con Firefox. Mozilla no recibe su historial de navegación. Se trata de un proceso local que ocurre en el navegador de Firefox instalado en su ordenador. Para más información, consulte las [recomendaciones de la Barra alucinante](https://support.mozilla.org/kb/extension-recommendations) o las [recomendaciones de la página Extensiones](https://support.mozilla.org/kb/personalized-extension-recommendations).
+### Para proporcionar Chatbots de IA
 
-### Mejorar la seguridad para todos los usuarios {: #security }
+Tienes la opción de usar un chatbot de IA de terceros que elijas para ayudarte con cosas como resumir lo que estás leyendo, escribir y hacer lluvia de ideas, sujeto a los [términos de uso y el aviso de privacidad](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) del proveedor.
 
-**Datos de páginas web para el servicio de resolución de DNS**: Para [algunos usuarios de Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox dirige las solicitudes de DNS a un servicio de resolución que cumple las [estrictas normas de privacidad establecidas por Mozilla para los servicios de resolución de DNS](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan con fines de resolución de DNS. [Para obtener información detallada, visite la siguiente página](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o consulte las páginas web de nuestros proveedores predeterminados de servicios de resolución de DNS indicadas a continuación:
+Si eliges habilitar un chatbot en la barra lateral y/o a través de un acceso directo, Mozilla no tendrá acceso a tus conversaciones ni al contenido subyacente que hayas introducido en el chatbot seleccionado. Recopilamos datos técnicos e interactivos sobre cómo se utiliza esta función para ayudar a mejorar Firefox, como la frecuencia con la que se elige cada proveedor de chatbots de terceros, la frecuencia con la que se utilizan los mensajes sugeridos y la longitud del texto seleccionado.
 
-* [__Cloudflare__](https://developers.cloudflare.com/1.1.1.1/privacy/firefox/)
-* [__NextDNS__](https://nextdns.io/privacy)
-* [__Comcast__](https://www.xfinity.com/privacy/policy/dns)
-* [__CIRA__](https://www.cira.ca/en/canadian-shield/privacy/)
-* [__Shaw__](https://www.shaw.ca/dns-statement)
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-**Datos técnicos para actualizaciones**: Es importante mantener la última versión de Firefox para estar protegido contra las vulnerabilidades. Las versiones de Firefox para ordenadores de escritorio buscan periódicamente actualizaciones conectándose a los servidores de Mozilla. Los datos como su versión de Firefox, idioma y sistema operativo de su dispositivo se utilizan para aplicar las actualizaciones correctas. Las versiones móviles de Firefox pueden conectarse a otro servicio si se usa uno para descargar e instalar Firefox. [Más información](https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking).
-{: #auto-updates }
+Usted puede leer más sobre cómo [administrar](https://support.mozilla.org/kb/ai-chatbot) o [eliminar](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) chatbots de IA en Firefox.
 
-**Datos técnicos para la lista de complementos bloqueados**: Las versiones de Firefox de escritorio y Android se conectan periódicamente a Mozilla para protegerle a usted y a otros usuarios de complementos malintencionados. Se requieren datos como su versión de Firefox, idioma, el sistema operativo de su dispositivo, y la lista de los complementos instalados para aplicar y actualizar la lista de complementos bloqueados. [Más información](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections).
+### Para proporcionar Review Checker, incluyendo la entrega de contenido patrocinado
 
-**Datos técnicos y de páginas web para el servicio SafeBrowsing de Google**: Para ayudar a protegerle de descargas malintencionadas, Firefox envía información básica sobre las descargas desconocidas al servicio Google SafeBrowsing, incluyendo el nombre del archivo y la dirección URL desde la cual se descargó. [Para más información, consulte](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) o lea [la Política de privacidad de Google](https://www.google.com/policies/privacy/). La exclusión voluntaria de este servicio evita que Firefox le advierta de sitios web o archivos descargados potencialmente ilegítimos o maliciosos.
+Review Checker es una función de Firefox que le ayuda a determinar si las revisiones son confiables cuando usted compra en línea con sitios como Amazon.com, BestBuy.com y Walmart.com. Si usted decide utilizar Review Checker, Mozilla procesará la información sobre el sitio web y el identificador del producto que usted visualiza utilizando nuestra tecnología de protección de la privacidad llamada [OHTTP](https://support.mozilla.org/kb/ohttp-explained). OHTTP combina el cifrado y un servidor intermediario de terceros, ayudando a evitar que Mozilla le vincule a usted o a su dispositivo con los productos que ha visto. También recopilamos datos técnicos y de interacción sobre cómo se utiliza esta función para ayudar a mejorar Firefox.
 
-**Datos técnicos y de páginas web para las autoridades de certificación**: Cuando visita un sitio web seguro (normalmente identificado con una URL que comienza por "HTTPS"), Firefox valida el [certificado del sitio web](https://support.mozilla.org/kb/secure-website-certificate). Es posible que Firefox envíe cierta información sobre el sitio web a las Autoridades certificadores identificadas por ese sitio web. La exclusión aumenta el riesgo de que sus datos privados sean interceptados. [Más información](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
+Al optar por utilizar el Review Checker, usted también acepta que se le muestren recomendaciones de productos y contenido patrocinado. Si no desea recibir recomendaciones de productos y contenido patrocinado, usted puede optar por no utilizar esta función en cualquier momento en la configuración de Review Checker.
 
-### Enviar informes de error {: #crash-reporter }
-Por defecto, en las versiones de escritorio de Firefox, le pediremos que comparta con Mozilla un informe con información más detallada sobre los errores, pero siempre tendrá la opción de rechazarlo. Si decide compartir el informe, recibiremos la siguiente información:
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-* __Contenidos de la memoria__: Los informes de error incluyen un archivo de volcado del contenido de la memoria de Firefox en el momento en el que se produce el error. Este archivo puede incluir datos que le identifiquen o que sean de alguna manera confidenciales.
+Usted puede leer más información sobre [cómo usar Review Checker de Firefox](https://support.mozilla.org/kb/review-checker-review-quality) y cómo implementamos la tecnología de protección de privacidad como [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
-* __Datos de página web__: Los informes de error incluyen la URL que estaba activa en el momento del error.
+### Para proporcionar y activar complementos (addons.mozilla.org)
 
-* __Datos técnicos__: Los informes de error incluyen datos sobre el motivo del fallo de Firefox y el estado de la memoria y ejecución del dispositivo durante el fallo.
+Usted puede instalar complementos desde la página addons.mozilla.org («AMO») o a través del Administrador de complementos de Firefox, al que puede acceder mediante el botón de menú de Firefox ubicado en la barra de herramientas. Las solicitudes de búsqueda que usted realiza en el Administrador de complementos se envían a Mozilla para proporcionarle complementos sugeridos. Si usted elige instalar cualquier complemento, Firefox procesará los datos técnicos, de ubicación y configuración, y periódicamente se conectará con los servidores de Mozilla para instalar y aplicar las actualizaciones correctas a sus complementos. También recopilamos datos técnicos y de interacción sobre la utilización de esta función para ayudar a mejorar Firefox.
 
-Puede consultar los documentos completos [aquí](https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html).
+Cuando usted visita el [sitio web de AMO](https://addons.mozilla.org/firefox/), Mozilla recopila datos técnicos y de interacción sobre su uso del sitio de acuerdo con nuestro aviso de [sitios web, comunicaciones y cookies de Mozilla](https://www.mozilla.org/privacy/websites/).
 
-### Medir y apoyar nuestras campañas de marketing
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-__Datos de campaña y de referencia__: Estos datos le permiten a Mozilla entender mejor la efectividad de nuestras campañas de marketing.
-{: #referraltracking }
+Aprenda [cómo quitar o habilitar complementos](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). También puede revisar el [Aviso de privacidad](https://www.mozilla.org/privacy/websites/) para el [sitio web del complemento](https://addons.mozilla.org/firefox/).
 
-Firefox envía por defecto datos HTTP a Mozilla que pueden estar incluidos en el instalador de Firefox. Esto nos permite determinar el dominio del sitio web o campaña de publicidad (si procede) que le envió a nuestra página de descarga. Consulte los [documentos relacionados](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution) o [inhabilite el servicio](https://support.mozilla.org/kb/desktop-attribution-privacy) antes de la instalación. 
+### Para mantener y mejorar las funciones, el rendimiento y la estabilidad
 
-Firefox por defecto también comparte datos de campañas de marketing no identificados con nuestros vendedores de las campañas de marketing para medir y mejorar nuestras campañas de marketing. Esto incluye Adjust, que tiene su propia [política de privacidad](https://www.adjust.com/terms/privacy-policy/). También incluye Google. Los datos de la campaña de marketing incluyen un identificador de publicidad de Google o un identificador de Android, dirección IP, fecha y hora, país, idioma, configuración regional, sistema operativo y versión de la aplicación. Consulte la [documentación](https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&page=1&search=adjust) para más información.
-{: #thirdparty }
+Mozilla realiza [estudios](https://support.mozilla.org/kb/shield) dentro de Firefox y hace disponibles ciertas [funciones experimentales](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) a través de Firefox Labs para probar diferentes funciones e ideas antes de ponerlas a disposición de todos los usuarios de Firefox o convertirlas en parte de la oferta principal de Firefox; esto nos permite tomar decisiones más informadas sobre lo que nuestros usuarios quieren y necesitan. Esta investigación utiliza datos técnicos, de rendimiento del sistema, ubicación, configuración e interacción.
 
----
+También necesitamos procesar datos para mantener Firefox operativo, mejorar las funciones y el rendimiento, e identificar, solucionar y diagnosticar problemas. Para ello utilizamos datos técnicos, de ubicación y configuración, así como datos de interacción y rendimiento del sistema (como el número de pestañas abiertas, el uso de la memoria o el resultado de procesos automatizados como las actualizaciones). En las raras situaciones en que la información necesaria también incluye datos de navegación limitados (por ejemplo, anotaciones del dominio de nivel superior para el seguimiento del rendimiento de carga de páginas), se transmitirá mediante OHTTP; esto ayuda a evitar que Mozilla le vincule a usted o a su dispositivo con los datos recopilados para este propósito.
 
-## Si usa estas funciones, Firefox compartirá datos para proporcionarle funcionalidad y ayudarnos a mejorar nuestros productos y servicios: {: #optional-features }
+En Desktop y Android, si Firefox encuentra un problema inesperado, el [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) también le preguntará si usted desea enviarnos información adicional, que puede incluir sitios que estaban abiertos en el momento del crash y otros datos de navegación. En Desktop y Android, si usted decide enviarnos informes de fallos automáticamente, recopilamos esta información sin solicitárselo cada vez; en iOS, los informes de fallos contienen menos información y se nos envían automáticamente por defecto. Usted puede cambiar su configuración en cualquier momento.
 
-### Cuentas de Mozilla {: #Mozilla-accounts }
+#### Más información, incluyendo cómo ajustar la configuración de sus datos:
 
-Mozilla recibe datos de registro, de ubicación, de interacción y técnicos cuando crea y usa una cuentas de Mozilla. Consulte el [Aviso de privacidad de las cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/) para obtener más información.
+Usted puede [obtener más información](https://support.mozilla.org/kb/shield) sobre los estudios en los que está matriculado y optar por no participar en todos ellos (o en un estudio específico) en cualquier momento, así como optar por participar en las funciones experimentales a través de [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). También puede [obtener más información](https://support.mozilla.org/kb/technical-and-interaction-data) sobre los datos técnicos y de interacción que procesamos, incluida la forma de desactivarlos.
 
-### Verificador de reseñas {: #review-checker }
+### Para mejorar la seguridad
 
-Los usuarios de EE. UU. pueden habilitar el verificador de reseñas, nuestra guía para las reseñas de productos de parte de [Fakespot](https://www.fakespot.com/) de Mozilla, que lo ayuda a entender qué tan confiables son las reseñas de los productos que están en [determinados sitios de compras](https://support.mozilla.org/kb/review-checker-review-quality).
+Debido a que mantener la última versión de Firefox le ayuda a usted a mantenerse seguro contra las vulnerabilidades, las versiones de escritorio de Firefox se conectan regularmente a los servidores de Mozilla (u otro servicio que usted usó para instalar Firefox) para comprobar si hay actualizaciones de software; las actualizaciones para las versiones de Android y de iOS de Firefox son administradas por la tienda Google Play y la tienda Apple App, respectivamente.
 
-* __Datos técnicos y de interacción__: Usamos Oblivious HTTP ([OHTTP](https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/)) con nuestro socio [Fastly](https://www.fastly.com/privacy/) para prestar el servicio, mientras nos aseguramos de que los datos que identifican productos, URL y cargas útiles de solicitudes no se puedan vincular con usted. Si desea obtener más información acerca del verificador de reseñas, lo que incluye cómo apagarlo, puede leer la [documentación](https://support.mozilla.org/kb/review-checker-review-quality).
+También procesamos datos técnicos y de configuración para protegernos contra complementos maliciosos.
+Además de estos procesos estándar, utilizamos el [servicio de navegación segura de Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) para protegerle a usted contra descargas maliciosas y ataques de phishing, y validamos la página web y los datos técnicos con las [autoridades de certificación](https://support.mozilla.org/kb/secure-website-certificate). Como parte de nuestro trabajo para mejorar la privacidad y seguridad de todos los usuarios de internet, recopilamos datos técnicos a través de [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), para comprender mejor, prevenir y defender contra el registro de las huellas dactilares.
 
-### Sincronización {: #sync }
+Para [algunos usuarios de Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox dirige las solicitudes de DNS a un servicio de resolución que cumple las [estrictas normas de privacidad de Mozilla para los servicios de resolución](https://wiki.mozilla.org/Security/DOH-resolver-policy). Esto proporciona una protección adicional contra las filtraciones de privacidad en las redes locales y también contra ciertos ataques a la seguridad del DNS. Los registros del sistema de sus solicitudes de DNS se eliminan del servicio en un plazo de 24 horas y solo se utilizan con fines de resolución de DNS. [Más información](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) sobre DNS over HTTPS.
 
-* __Datos sincronizados__: Si activa la sincronización, Mozilla recibirá la información que usted sincroniza entre dispositivos de forma cifrada. Esta información puede incluir las pestañas, complementos, contraseñas, información de autorrelleno de formularios, marcadores, historial y preferencias. Al eliminar su cuenta de Mozilla, se eliminará todo el contenido de Firefox sincronizado relacionado. Para leer los documentos correspondientes, [haga clic aquí](https://moz-services-docs.readthedocs.io/en/latest/sync/).
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-* __Datos técnicos y de interacción__: Si activa la sincronización, Firefox enviará de forma periódica información básica mediante telemetría sobre los intentos de sincronización de sus datos más recientes, como por ejemplo, cuándo se produjo, si llegó a completarse o no y qué tipo de dispositivo está intentando sincronizar. Para leer los documentos correspondientes, [haga clic aquí](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html).
+[Actualizaciones y complementos blocklist](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Servicio de navegación segura de Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
 
-[Haga clic aquí](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer), si desea obtener información sobre la sincronización, así como las instrucciones para activar y desactivarla.
+### Para entender el uso de Firefox
 
-### Ubicación {: #location-services }
+Procesamos [datos](#bookmark-understand-usage) para comprender mejor cómo usted interactúa con nuestros servicios, como la cantidad de veces que utiliza Firefox, su preferencia de idioma, la frecuencia con la que usa nuestras herramientas de búsqueda o interactúa con sugerencias de búsqueda, la velocidad de carga de las páginas y la cantidad de anuncios o [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) que ve. Esto nos permite medir cómo las personas acceden y usan nuestros servicios, lo que ayuda a mejorar nuestro negocio y la funcionalidad de Firefox.
 
-* __Datos de ubicación para el servicio de geolocalización de Google__: Firefox siempre pregunta antes de determinar y compartir su ubicación con el sitio web que lo solicita (por ejemplo, cuando un sitio web de mapas requiere su ubicación para proporcionar indicaciones). Para determinar su ubicación, Firefox puede usar sus funciones de geolocalización del sistema, redes wifi, torres de telefonía móvil o dirección IP y enviar estos datos al servicio de geolocalización de Google, que tiene su propia [política de privacidad](https://www.google.com/privacy/lsf.html).
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-[Más información](https://www.mozilla.org/firefox/geolocation/).
+Usted puede actualizar la configuración de recopilación de datos para [Escritorio](https://support.mozilla.org/kb/technical-and-interaction-data) y [Móvil](https://support.mozilla.org/kb/technical-and-interaction-data) en cualquier momento (tenga en cuenta que deseleccionar "Permitir a Firefox enviar datos técnicos e interacciones a Mozilla" no afectará al [ping de uso diario](https://support.mozilla.org/kb/usage-ping-settings)). Este ping de uso diario nos proporciona únicamente información anonimizada que un usuario está usando Firefox y no está vinculado a ningún otro dato sobre usted y puede ser excluido en la configuración.
 
-### Notificaciones de sitios web {: #push-notifications }
+### Para promocionar nuestros servicios
 
-* __Datos de conexión__: Si permite que un sitio web le envíe notificaciones, Firefox se conecta con Mozilla y usa su dirección IP para transmitir el mensaje. Mozilla no puede acceder al contenido de los mensajes.
+Cuando usted nos permite hacerlo, Firefox envía a Mozilla datos sobre el dominio del sitio web o una campaña publicitaria específica (si la hubiera) que le remiten a nuestra página de descarga para ayudarnos a entender y mejorar nuestros esfuerzos de marketing. Firefox también comparte información con nuestros socios de marketing para medir y mejorar estas campañas; la información que se comparte específicamente varía (dependiendo de cómo usted descubrió Firefox y su sistema operativo) pero generalmente incluye cómo se le ha referido a nuestra página de descarga y si usa activamente Firefox. Cuando Firefox esté preinstalado en su dispositivo, los datos técnicos y de interacción (el tipo de dispositivo y si se utiliza Firefox) se enviarán a nuestros socios de marketing y se compartirán con Mozilla. Obtenga más información sobre lo que se recopila y comparte, y cómo darse de baja.
 
-* __Datos de interacción__: Recibimos datos como el número de suscripciones y cancelaciones de suscripciones a las notificaciones de sitios web de Firefox, el número de mensajes enviados, fecha y hora y los remitentes (que pueden incluir proveedores de sitios web específicos.)
+#### Más detalles, incluyendo cómo ajustar la configuración de sus datos:
 
-Consulte los [documentos completos](https://mozilla-push-service.readthedocs.io/en/latest/) o [esta página](https://support.mozilla.org/kb/push-notifications-firefox) para obtener más información. Aquí encontrará también las instrucciones para revocar las notificaciones de sitios web.
+Obtenga más información sobre qué [datos de medición de campañas](https://support.mozilla.org/kb/marketing-data) se recopilan y comparten, y cómo darse de baja. Nota: Firefox no comparte información como su historial de navegación, consultas de búsqueda o contraseñas guardadas con socios tecnológicos de marketing. Mozilla solo recopila los datos necesarios para medir y mejorar nuestras campañas de marketing.
 
-### Complementos {: #addons }
+### Para seudonimizar, desidentificar, agregar o anonimizar datos
 
-Puede instalar complementos desde la página addons.mozilla.org ("AMO") o a través del Administrador de complementos de Firefox, al que puede acceder mediante el botón de menú de Firefox ubicado en la barra de herramientas.
+Como parte de las actividades descritas anteriormente, como comprender el uso de Firefox y medir nuestro marketing, podemos crear datos seudonimizados, desidentificados, agregados o anonimizados. Utilizamos tecnología que es apropiada para las circunstancias, incluyendo la eliminación de identificador, OHTTP o DAP - esto ayudan a evitar que los datos se vinculen con usted. En algunos casos, podemos compartir o publicar datos agregados y anonimizados para facilitar la investigación o como parte de los fines comerciales legales descritos anteriormente (como compartir información agregada con socios publicitarios).
 
-* __Solicitudes de búsqueda__: Las solicitudes de búsqueda que se realizan en el Administrador de complementos se envían a Mozilla para proporcionarle complementos sugeridos.
+### Para comunicarnos con usted
 
-* __Datos de interacción__: Recibimos datos sobre las visitas al sitio web AMO y al Administrador de complementos de Firefox, así como datos sobre las interacciones con contenido en dichas páginas. [Visite esta página](https://www.mozilla.org/privacy/websites/) para obtener información sobre las prácticas relacionadas con datos en los sitios web de Mozilla.
+Dependiendo de sus ajustes (y si tiene o no una cuenta de Mozilla), podemos comunicarnos con usted a través de mensajería integrada en productos, enviarle comunicaciones (incluidas las relacionadas con marketing) o pedirle que participe en investigaciones/encuestas, o responder a las comunicaciones de soporte al cliente. Usted también puede ponerse en contacto con nosotros directamente, por ejemplo para [informar de un sitio roto dentro de Firefox](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). Cuando nos envíe datos personales a través de estos métodos, usaremos la información solo para el propósito que usted nos proporcionó. También procesamos datos de interacción relacionados con estas comunicaciones para comprender mejor quién ha recibido nuestros anuncios relacionados con el servicio (como nuevas características, actualizaciones o alertas de seguridad).
 
-* __Datos técnicos para actualizaciones__: Firefox se conecta periódicamente con Mozilla para instalar actualizaciones para complementos. Sus complementos instalados, su versión de Firefox, idioma y sistema operativo de su dispositivo se utilizan para aplicar las actualizaciones correctas.
+### Para cumplir con las leyes aplicables, e identificar y prevenir actividades dañinas, no autorizadas o ilegales
 
----
+También podemos estar obligados a procesar sus datos personales para cumplir con las leyes aplicables y los fines de protección, tales como:
 
-### Nota de pie de página
+* <a id="bookmark-authorities"></a>Responder a [solicitudes legales](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) y cumplir con los [procesos legales](https://www.mozilla.org/about/policy/transparency/), como responder a citaciones, investigaciones o solicitudes de autoridades gubernamentales. Mozilla requiere un proceso legal válido para obligar a revelar datos de usuarios específicos a un gobierno.
+* Responder a solicitudes de ejercer derechos de privacidad, como su derecho a acceder o eliminar sus datos personales.
+* Identificar, investigar y abordar actividades fraudulentas potenciales u otras actividades perjudiciales como actividades ilegales, ciberataques o infracción de la propiedad intelectual (incluida la presentación o defensa de reclamaciones legales).
+* Realizar actividades de seguridad interna y cumplimiento, como auditoría y gestión de la seguridad empresarial.
 
-En el caso de que desee realizar una solicitud acerca de sus datos personales, póngase en contacto con nosotros a través de nuestro [Portal de solicitud de acceso a datos](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas en relación con la protección de la privacidad, envíe un correo electrónico a compliance@mozilla.com o contacte con nuestro responsable de protección de datos en dpo@mozilla.com. Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos de acuerdo con la legislación aplicable en materia de protección de datos. Cuando usted pide la cancelación de sus datos de Firefox, serán cancelados en un plazo de 30 días desde su pedido (con la excepción de los datos sobre la interacción, que tienen un período de retención estándar de 90 días y son automáticamente eliminados al terminar dicho período).
+## ¿Cómo se comparten sus datos?
 
-Este aviso de privacidad se aplica a la versión más reciente de lanzamiento general de Firefox distribuido por Mozilla. Si adquiere Firefox de otro sitio, o está usando una versión anterior, su copia de Firefox puede incluir términos de privacidad distintos.
-{: #pre-release }
+Para proporcionar nuestros servicios como se describe anteriormente, podemos divulgar datos personales a:
 
-Las versiones de prelanzamiento de Mozilla de Firefox (que se distribuyen a través de canales como Nightly, Beta, Developer Edition y TestFlight) son plataformas de desarrollo frecuentemente actualizadas con características y estudios experimentales. Además de la recopilación de datos descrita en este Aviso de privacidad, estas versiones pueden enviar de forma predeterminada ciertos tipos de actividad web y datos de bloqueo a Mozilla y, en algunos casos, a nuestros socios. Cualquier recopilación o intercambio de datos se adhiere a nuestra [política de recopilación de datos de Firefox](https://wiki.mozilla.org/Firefox/Data_Collection) y siempre seremos transparentes y le proporcionar el control al respecto.
+|  |  |
+| :---- | :---- |
+| Socios, proveedores de servicios, proveedores y contratistas | Para realizar los fines enumerados anteriormente, trabajamos con socios, proveedores de servicios, proveedores y contratistas. Tenemos protecciones contractuales en vigor, de modo que las entidades que reciben datos personales están obligadas contractualmente a manejar los datos de acuerdo con las instrucciones de Mozilla.  |
+| [Autoridades](#bookmark-authorities)  | Mozilla requiere un [proceso legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para obligar a revelar datos de usuarios específicos a un gobierno. En esos casos, es posible que tengamos que revelar los datos personales establecidos en este Aviso a las autoridades policiales, gubernamentales o entidades similares para cumplir con las leyes aplicables e identificar y prevenir actividades dañinas, no autorizadas o ilegales.  |
+| Investigadores | Cuando estamos cumpliendo nuestra [misión](https://www.mozilla.org/about/manifesto/) de ser abiertos. A veces, divulgamos información para mejorar nuestros productos y promover una web abierta, pero cuando lo hacemos, lo haremos en un [formato](https://wiki.mozilla.org/Data_Publishing) desidentificado o agregado. |
+| Entidades controladas y sucesores de Mozilla | Como empresa global, compartimos datos con todas las filiales y subsidiarias controladas por Mozilla. También podemos necesitar revelar datos personales como parte de una transacción corporativa, como una fusión, adquisición, venta de activos o una transacción similar. |
+
+## ¿Por cuánto tiempo se conservan sus datos?
+
+Solo conservamos sus datos personales durante el tiempo necesario para cumplir los fines descritos en este Aviso de privacidad. En general, no conservamos los datos personales durante más de 25 meses, pero los períodos de retención reales pueden variar dependiendo del tipo de datos y el(los) propósito(s) para el que se recogieron (por ejemplo, conservamos la fecha de "visto por primera vez" por el período en que utilizas Firefox, así sabemos cuánto tiempo llevas como usuario de Firefox). Los períodos de retención específicos también pueden depender del carácter sensible de los datos, el contexto de su recopilación, sus ajustes y preferencias, y nuestras obligaciones legales o contractuales para retener o eliminar sus datos, como por ejemplo, para la prevención del fraude, cumplimiento normativo o continuidad del servicio. Una vez que el período de retención expire, eliminaremos sus datos de forma segura, a menos que la ley exija lo contrario.
+
+Nuestros servicios también utilizan el almacenamiento de copias de seguridad cifradas como otra capa de protección para ayudar a recuperarse de posibles desastres; los datos en estos entornos se ponen fuera de uso y solo se procesan con fines de continuidad del negocio. También podemos retener datos durante períodos prolongados de tiempo de forma agregada o desidentificada.
+
+## Sus derechos y opciones
+
+### Sus derechos:
+
+Como usuario de Firefox, tiene derecho a:
+
+1. Ser informado sobre qué datos procesamos acerca de usted, por qué y con quién se comparten (¡que es este Aviso!)
+2. Solicitar una copia de los datos que tenemos sobre usted
+3. Solicitar la portabilidad de sus datos
+4. Solicitar la corrección de cualquier dato que tengamos sobre usted que sea inexacto o incompleto
+5. Eliminar los datos personales que tenemos sobre usted (en determinadas circunstancias)
+6. En algunos casos, restringir u objetar nuestro tratamiento de sus datos personales
+7. Presentar una reclamación ante la autoridad de protección de datos pertinente si tiene alguna inquietud sobre cómo estamos tratando sus datos personales. Preferimos que se ponga en contacto con nosotros primero (vía [dpo@mozilla.com](mailto:dpo@mozilla.com)), pero también puede ponerse en contacto con su [autoridad de protección de datos de la UE](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en) pertinente o buscar (y ponerse en contacto) con su autoridad local de protección de datos
+
+Para hacer cualquiera de las solicitudes anteriores con respecto a sus datos personales, por favor contáctenos (Mozilla Corporation) a través de nuestro [Portal de Solicitud de Acceso de Sujeto de Datos](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); nunca discriminaremos a nadie por ejercer sus derechos de privacidad. Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas en relación con la protección de la privacidad, envíe un correo electrónico a [compliance@mozilla.com](mailto:compliance@mozilla.com).
+
+Si usted se encuentra en el Reino Unido o en el EEE, también puede ponerse en contacto con nuestro responsable de la protección de datos en [dpo@mozilla.com](mailto:dpo@mozilla.com), o por correo electrónico a:
+
+Bird & Bird DPO Services SRL <br>
+Avenue Louise 235 b 1 <br>
+1050 Bruxelles <br>
+Belgium
+
+Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos de acuerdo con las leyes de protección de datos aplicables, y es posible que necesitemos pedirle información adicional para confirmar su identidad antes de poder proceder con su solicitud.
+
+Tenga en cuenta que cuando usted pide la cancelación de sus datos de Firefox, estos serán cancelados en un plazo de 30 días desde su pedido (con la excepción de los datos sobre la interacción, que tienen un período de retención estándar de 90 días y son automáticamente eliminados al terminar dicho período).
+
+### Sus opciones:
+
+Usted puede actualizar la configuración de recopilación de datos para [Escritorio](https://support.mozilla.org/kb/technical-and-interaction-data) y [Móvil](https://support.mozilla.org/kb/technical-and-interaction-data) en cualquier momento.
+
+Firefox también proporciona [Control de privacidad global](https://support.mozilla.org/kb/global-privacy-control) (GPC), que usted puede habilitar para notificar automáticamente a los sitios web que no vendan o compartan información sobre su sesión de navegación en ese sitio. El GPC funciona como un mecanismo de "no vender" en algunos estados de los Estados Unidos, como California, Colorado y Connecticut. También se puede utilizar para indicar una opción de exclusión de publicidad dirigida o solicitud general para limitar la venta o el intercambio de sus datos personales en esas jurisdicciones, así como en jurisdicciones como la UE, el Reino Unido, Nevada, Utah y Virginia.
+
+## ¿Qué ocurre con las transferencias internacionales de datos?
+
+Mozilla (y nuestros servidores) están ubicados en los Estados Unidos. Porque somos una empresa global, para poder prestar los servicios descritos en este Aviso de privacidad, la información que recopilamos puede ser accesible desde las ubicaciones donde se encuentran nuestros empleados y los datos también pueden transferirse a otras jurisdicciones como resultado del intercambio de datos con nuestros socios. Cuando sea apropiado, nos aseguraremos de contar con mecanismos adecuados (como [cláusulas contractuales estándar](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) aprobadas por la Comisión Europea y otras autoridades pertinentes) para proteger sus datos personales. Puede ponerse en contacto con [dpo@mozilla.com](mailto:dpo@mozilla.com) para obtener información sobre las salvaguardias aplicadas a las transferencias internacionales, o para obtener copias de las cláusulas contractuales estándar pertinentes.
+
+## Aplicabilidad (versión de Firefox) y cambios
+
+### Aplicabilidad
+
+Este aviso de privacidad se aplica a la versión más reciente de lanzamiento general de Firefox distribuido por Mozilla. Si usted adquiere Firefox de otro sitio, o está usando una versión anterior, su copia de Firefox puede incluir términos de privacidad distintos.
+
+Las versiones de prelanzamiento de Mozilla de Firefox (que se distribuyen a través de canales como Nightly, Beta, Developer Edition y TestFlight) son plataformas de desarrollo frecuentemente actualizadas con características y estudios experimentales. Además de la recopilación de datos descrita en este Aviso de privacidad, estas versiones pueden enviar de forma predeterminada ciertos tipos de actividad web y datos de bloqueo a Mozilla (y, en algunos casos, a nuestros socios).
+
+### Cambios
+
+Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo caso las actualizaciones se publicarán en línea y actualizaremos la fecha de vigencia de este aviso. Si los cambios realizados fuesen sustanciales, anunciaremos la actualización también de manera más destacada mediante los canales que Mozilla utiliza habitualmente para tal fin, como las publicaciones en blogs y los foros.
+
+## Tipos de datos definidos
+
+| Tipo de datos | Descripción | Ejemplos para usuarios de Firefox |
+| :---- | :---- | :---- |
+| Datos técnicos | Esta es información sobre el hardware desde el que usted está accediendo a nuestros servicios (como su ordenador, smartphone o tablet), sus configuraciones y su conexión a Firefox.  | Tipo de dispositivo, sistema operativo, dirección IP, ISP (proveedor de servicios de Internet).  |
+| Configuración | Estas son sus preferencias o configuraciones sobre cómo se proporcionan los servicios, como sus preferencias de privacidad o las configuraciones de la barra de herramientas. Si usted no ha realizado ninguna elección específica, estos serán los ajustes por defecto.  | Configuración de la protección mejorada del seguimiento, configuración de cookies, permisos (ubicación, cámara, micrófono), personalización de la barra de herramientas. |
+| Ubicación | Deducimos su ubicación a partir de su dirección IP a nivel de su país, ciudad o región. | Código del país, ciudad.  |
+| Ubicación precisa | Su ubicación exacta (con una diferencia de hasta unos pocos pies o metros). | Ubicación precisa.  |
+| Preferencia de idioma | Su idioma inferido o preferido (si usted lo proporciona en las configuraciones) para interactuar con nuestros servicios. | Idioma.  |
+| Identificadores únicos  | Se trata de identificadores únicos, que pueden crearse en distintos momentos para gestionar sus interacciones con el servicio.  | Identificadores de cliente, sesión y cookie.  |
+| Datos de rendimiento del sistema | Estos son datos sobre cómo los servicios están funcionando en su dispositivo.  | Uso de memoria, velocidad de renderizado de página. |
+| Datos de interacción | Estos son datos sobre cómo usted se involucra con nuestros servicios, como cuántas pestañas tiene abiertas o en qué ha hecho clic.  | Cuenta de clics, datos de impresiones, datos de atribución, cuántas búsquedas se realizaron, tiempo en la página, anuncios y clics en mosaicos patrocinados.  |
+| Datos de navegación | Esta es información sobre sitios web y URL que usted ha visitado. Esto podría incluir categorías de datos de navegación (viajes, compras, redes sociales), dominios de primer nivel (ejemplo.com) o páginas web específicas visitadas.  | Categoría de navegación, dominios de nivel superior (TLD), URLs específicas.  |
+| Datos de búsqueda | Se trata de datos sobre la categoría de búsqueda, palabras clave de búsqueda o consulta de búsqueda de términos buscados.  | Categoría de búsqueda (Comida, Viajes), palabras clave ("Boston"), término de búsqueda ("tiempo actual en Boston").  |
+| Contenido | Cuando usted nos lo proporciona, podemos procesar datos como las imágenes cargadas o las respuestas a encuestas. | Imagen cargada, marcadores, comentarios, respuestas de la encuesta.  |
+| Datos de contacto | Cuando usted nos los proporcione, podremos procesar datos sobre cómo contactarlo.  | Dirección de correo electrónico, número de teléfono. |
+
+## Fundamentos legales
+
+<table>
+    <thead>
+        <tr>
+            <th><a id="bookmark-how-we-use-data"></a>Para qué utilizamos sus datos</th>
+            <th>Qué datos tratamos</th>
+            <th>Nuestros fundamentos legales</th>
+            <th>Más información, incluyendo elegir cómo usted quiere compartir estos datos en Firefox</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Para proporcionarle el navegador Firefox</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Preferencia de idioma</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Contrato</strong> para proporcionarle la funcionalidad necesaria para que Firefox funcione.</p>
+                <p><strong>Interés legítimo</strong> en proporcionar funcionalidad adicional, servicios de accesibilidad y una experiencia más personalizada.</p>
+            </td>
+            <td>Usted puede leer información más detallada sobre la información que recopilamos para <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Escritorio</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> o <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Usted puede actualizar la configuración de recopilación de datos para <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Escritorio</a> y <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Móvil</a> en cualquier momento. También puede aprender más sobre la <a href="https://support.mozilla.org/kb/website-translation">traducción</a> y la <a href="https://support.mozilla.org/kb/pdf-alt-text">adición de texto alternativo a las imágenes en PDF</a>.</td>
+        </tr>
+        <tr>
+            <td>Para adaptar Firefox a sus necesidades</td>
+            <td>
+                <ul>
+                    <li>Cualquier tipo de datos</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Interés legítimo</strong> en que los datos de su dispositivo funcionen para usted.</p>
+                <p><strong>Consentimiento</strong> cuando usted elige permitir que sitios web (como Google Maps) tengan acceso a su ubicación exacta para habilitar la funcionalidad de ubicación.</p>
+            </td>
+            <td>Los datos procesados en su dispositivo permanecen bajo su control. Usted puede administrar sus <a href="https://support.mozilla.org/kb/storage">ajustes de almacenamiento local</a> o <a href="https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox">borrar su historial de navegación</a> en cualquier momento.</td>
+        </tr>
+        <tr>
+            <td>Para brindar y mejorar las funciones de búsqueda</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Preferencia de idioma</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de rendimiento del sistema</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de búsqueda</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Interés legítimo</strong> en proporcionar y mejorar la funcionalidad de búsqueda, así como una experiencia de búsqueda más personalizada y resultados patrocinados.</p>
+                <p><strong>Consentimiento</strong> cuando usted opta por una experiencia de búsqueda mejorada y comparte datos personales adicionales.</p>
+            </td>
+            <td>Usted puede actualizar su <a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">configuración de búsqueda</a> y las <a href="https://support.mozilla.org/kb/search-suggestions-firefox">funciones de sugerencias de búsqueda</a> en cualquier momento, y obtener más información sobre cómo <a href="https://blog.mozilla.org/en/products/firefox/firefox-search-update/">categorizamos las búsquedas</a>.</td>
+        </tr>
+        <tr>
+            <td>Para brindar contenido relevante y publicidad en Nueva pestaña de Firefox</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Preferencia de idioma</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de rendimiento del sistema</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de búsqueda</li>
+                </ul>
+            </td>
+            <td><strong>Interés legítimo</strong> en proporcionarle contenido que le interese y asegurarnos de que los anuncios que ve son relevantes (lo que respalda nuestra capacidad para proporcionar nuestros productos y servicios).</td>
+            <td>Usted puede leer más información sobre <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">cómo administrar su página de Nueva pestaña</a>, incluyendo sus <a href="https://support.mozilla.org/kb/sponsor-privacy">ajustes de datos</a>. Puede optar por que sus datos no se procesen para fines de personalización o publicidad desactivando "datos técnicos y de interacción" en <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Escritorio</a> y <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Móvil</a> en cualquier momento.</td>
+        </tr>
+        <tr>
+            <td>Para proporcionar cuentas de Mozilla</td>
+            <td colspan="3">Ver nuestra <a href="https://www.mozilla.org/privacy/mozilla-accounts/">Política de privacidad de cuentas de Mozilla</a></td>
+        </tr>
+        <tr>
+            <td>Para proporcionar Chatbots de IA</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                </ul>
+            </td>
+            <td><strong>Consentimiento</strong>, cuando eliges habilitar un chatbot de IA.</td>
+            <td>Usted puede leer más sobre cómo <a href="https://support.mozilla.org/kb/ai-chatbot">administrar</a> o <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">eliminar</a> chatbots de IA en Firefox.</td>
+        </tr>
+        <tr>
+            <td>Para proporcionar Review Checker, incluyendo la entrega de contenido patrocinado</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de navegación</li>
+                </ul>
+            </td>
+            <td><strong>Consentimiento</strong>, cuando eliges habilitar Review Checker.</td>
+            <td>Usted puede leer más información sobre <a href="https://support.mozilla.org/kb/review-checker-review-quality">Cómo usar Review Checker de Firefox</a> y cómo implementamos la tecnología de protección de privacidad como <a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a>.</td>
+        </tr>
+        <tr>
+            <td>Habilitar complementos (addons.mozilla.org, "AMO"), incluyendo la oferta de sugerencias personalizadas</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de búsqueda</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Interés legítimo</strong> en proporcionar y comprender el uso de la infraestructura AMO, incluida la revisión de los complementos y el bloqueo de aquellos que se sabe que causan problemas de seguridad, estabilidad o rendimiento.</p>
+                <p><strong>Consentimiento</strong>, cuando usted decide habilitar un complemento específico proporcionado por Mozilla. Los datos procesados por cada complemento se rigen por su propia política de privacidad.</p>
+            </td>
+            <td>
+                <p>Aprenda <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">cómo quitar o habilitar complementos</a>.</p>
+                <p>También puede revisar el <a href="https://www.mozilla.org/privacy/websites/">Aviso de privacidad</a> para el <a href="https://addons.mozilla.org/firefox/">sitio web del complemento</a>.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>Para mantener y mejorar las funciones, el rendimiento y la estabilidad</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de rendimiento del sistema</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de navegación</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Contrato</strong> para garantizar que Firefox siga funcionando.</p>
+                <p><strong>Interés legítimo</strong> en realizar investigaciones y medidas para mejorar las características, el rendimiento y la estabilidad.</p>
+                <p><strong>Consentimiento</strong> cuando usted decide enviarnos informes de errores, que pueden incluir datos de navegación.</p>
+            </td>
+            <td>Usted puede <a href="https://support.mozilla.org/kb/shield">obtener más información</a> sobre los estudios en los que está matriculado y optar por no participar en todos ellos (o en un estudio específico) en cualquier momento, así como optar por participar en las funciones experimentales a través de <a href="https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox">Firefox Labs</a>.</td>
+        </tr>
+        <tr>
+            <td>Para mejorar la seguridad</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de rendimiento del sistema</li>
+                    <li>Datos de navegación (solo para DNS over HTTPs)</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Cumplimiento de la ley</strong> en la protección de datos personales según lo exigido por las regulaciones aplicables sobre privacidad y ciberseguridad.</p>
+                <p><strong>Interés legítimo</strong> en proporcionar medidas de seguridad adicionales para todos nuestros usuarios y mejorar la seguridad general de Internet (como nuestro trabajo contra el registro de las huellas dactilares).</p>
+            </td>
+            <td>Más informaciones sobre nuestras <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Actualizaciones y lista de bloqueos  de complementos</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Servicio de navegación segura de Google</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>.</td>
+        </tr>
+        <tr>
+            <td><a id="bookmark-understand-usage"></a>Para entender el uso de Firefox</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de contenido</li>
+                    <li>Datos de rendimiento del sistema</li>
+                    <li>Preferencia de idioma</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Interés legítimo</strong> en comprender cómo se usa Firefox, para permitir mejoras y realizar funciones comerciales como informes de uso y previsiones.</p>
+                <p><strong>Consentimiento</strong>, cuando lo exija la ley aplicable (p. ej., cuando se utilicen cookies no esenciales), o cuando los usuarios participen en encuestas o envíen voluntariamente otra información.</p>
+            </td>
+            <td>Usted puede actualizar la configuración de recopilación de datos para <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Escritorio</a> y <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Móvil</a> en cualquier momento (tenga en cuenta que deseleccionar "Permitir a Firefox enviar datos técnicos e interacciones a Mozilla" no afectará al <a href="https://support.mozilla.org/kb/usage-ping-settings">ping de uso diario</a>). Este ping de uso diario nos proporciona únicamente información anonimizada que un usuario está usando Firefox y no está vinculado a ningún otro dato sobre usted y puede ser excluido en la configuración.</td>
+        </tr>
+        <tr>
+            <td>Para promocionar nuestros servicios.</td>
+            <td>
+                <ul>
+                    <li>Datos técnicos</li>
+                    <li>Ubicación</li>
+                    <li>Preferencia de idioma</li>
+                    <li>Datos de configuración</li>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de navegación</li>
+                    <li>Datos de rendimiento del sistema</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Interés legítimo</strong> en promover nuestros productos y servicios, incluyendo el envío de comunicaciones de marketing y la medición y mejora de nuestras campañas de marketing.</p>
+                <p><strong>Consentimiento</strong>, cuando lo exija la ley aplicable (p. ej., jurisdicciones que requieren el consentimiento para recibir comunicaciones de marketing).</p>
+            </td>
+            <td>Obtenga más información sobre qué <a href="https://support.mozilla.org/kb/marketing-data">datos de medición de campañas</a> se recopilan y comparten, y cómo darse de baja. Nota: Firefox no comparte información como su historial de navegación, consultas de búsqueda o contraseñas guardadas con socios tecnológicos de marketing. Mozilla solo recopila los datos necesarios para medir y mejorar nuestras campañas de marketing.</td>
+        </tr>
+        <tr>
+            <td>Para seudonimizar, desidentificar, agregar o anonimizar datos.</td>
+            <td>
+                <ul>
+                    <li>Cualquier tipo de datos</li>
+                </ul>
+            </td>
+            <td><strong>Interés legítimo</strong> en tomar medidas para mejorar la privacidad antes de realizar análisis o compartir datos con socios.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Para comunicarnos con usted.</td>
+            <td>
+                <ul>
+                    <li>Identificadores únicos</li>
+                    <li>Datos de interacción</li>
+                    <li>Datos de contacto</li>
+                    <li>Datos de contenido</li>
+                    <li>Preferencia de idioma</li>
+                </ul>
+            </td>
+            <td><strong>Interés legítimo</strong> en informarle sobre mejoras o cambios en nuestros productos o servicios, así como para revisar y responder a preguntas u otras solicitudes.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Para cumplir con las leyes aplicables, e identificar y prevenir actividades dañinas, no autorizadas o ilegales.</td>
+            <td>
+                <ul>
+                    <li>Cualquier tipo de datos</li>
+                </ul>
+            </td>
+            <td><strong>Cumplimiento de la ley</strong> al responder a las solicitudes de derechos del sujeto de datos, responder a las solicitudes de aplicación de la ley, gestionar y proteger nuestros derechos (y los de nuestros usuarios), propiedad y/o seguridad. <strong>Interés legítimo</strong>, cuando el cumplimiento no sea apropiado, en apoyar procesos o solicitudes legales o regulatorias, prevenir fraudes y gestionar y proteger nuestros derechos (y los de nuestros usuarios), propiedad y/o seguridad.</td>
+            <td>Obtenga más información sobre cómo respondemos a las <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">solicitudes legales</a>.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Políticas de privacidad para proveedores de búsqueda
+
+[Google](https://policies.google.com/privacy)
+
+[Microsoft (Bing)](https://www.microsoft.com/privacy/privacystatement#mainsearchaimodule)
+
+[DuckDuckGo](https://duckduckgo.com/privacy)
+
+[Amazon.com](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+
+[eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
