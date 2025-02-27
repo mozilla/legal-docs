@@ -151,7 +151,7 @@ Előfordulhat, hogy a személyes adatait is kezeljük a vonatkozó jogszabályok
 A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közölhetjük a személyes adatait:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partnerek, szolgáltatók, beszállítók és vállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni.  |
 | [Hatóságok](#bookmark-authorities)  | A Mozilla érvényes [jogi eljárást](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket.  |
 | Kutatók | A nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítése érdekében. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
@@ -215,7 +215,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 ## Meghatározott adattípusok
 
 | Adattípus | Leírás | Példák Firefox-elhasználóknak |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a Firefoxhoz való csatlakozásáról.  | Eszköztípus, operációs rendszer, IP-cím, ISP (internetszolgáltató).  |
 | Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások vagy az eszköztár beállításai. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások.  | Továbbfejlesztett követésvédelmi beállítások, cookie-beállítások, engedélyek (hely, kamera, mikrofon), eszköztár testreszabása. |
 | Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város.  |

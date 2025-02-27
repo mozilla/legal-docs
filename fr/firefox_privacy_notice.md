@@ -151,7 +151,7 @@ Nous pouvons également être amenés à traiter vos données à caractère pers
 Pour fournir nos services tels que décrits ci-dessus, nous pouvons divulguer des données personnelles aux parties suivantes :
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partenaires, prestataires de services, fournisseurs et sous-traitants | Pour atteindre les objectifs énumérés ci-dessus, nous travaillons avec des partenaires, des prestataires de services, des fournisseurs et des sous-traitants. Nous avons mis en place des protections contractuelles afin que les entités recevant des données personnelles soient contractuellement obligées de traiter les données conformément aux instructions de Mozilla.  |
 | [Autorités](#bookmark-authorities)  | | Mozilla a besoin d'une [procédure légale](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement. Dans ces cas, nous pouvons être amenés à divulguer les données personnelles décrites dans le présent avis aux forces de l'ordre, aux autorités gouvernementales ou à des entités similaires afin de respecter les lois en vigueur et d'identifier et de prévenir les activités préjudiciables, non autorisées ou illégales.  |
 | Chercheurs | Lorsque nous accomplissons notre [mission](https://www.mozilla.org/about/manifesto/) qui est celle d'être ouvert. Nous publions parfois des informations pour améliorer nos produits et favoriser un web ouvert, mais lorsque nous le faisons, nous le faisons dans un [format](https://wiki.mozilla.org/Data_Publishing) dépersonnalisé ou agrégé. |
@@ -215,7 +215,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
 ## Types de données définis
 
 | Type de données | Description | Exemples pour les utilisateurs de Firefox |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Données techniques | Il s'agit d'informations sur le matériel à partir duquel vous accédez à nos services (comme votre ordinateur de bureau, votre smartphone ou votre tablette), ses configurations et sa connexion à Firefox.  | Type d'appareil, du système d'exploitation, de l'adresse IP, du fournisseur d'accès Internet (FAI).  |
 | Paramètres | Il s'agit de vos préférences ou de vos paramètres concernant la manière dont les services sont fournis, tels que vos préférences en matière de confidentialité ou les paramètres de la barre d'outils. Si vous n'avez pas fait de choix spécifiques, il s'agit des paramètres par défaut.  | Les paramètres de protection contre le suivi amélioré, les paramètres des cookies, les autorisations (emplacement, caméra, microphone), la personnalisation de la barre d'outils. |
 | Localisation | Nous déduisons votre localisation à partir de votre adresse IP au niveau de votre pays, de votre ville ou de votre région. | Code pays, ville.  |

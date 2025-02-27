@@ -151,7 +151,7 @@ También podemos estar obligados a procesar sus datos personales para cumplir co
 Para proporcionar nuestros servicios como se describe anteriormente, podemos divulgar datos personales a:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Socios, proveedores de servicios, proveedores y contratistas | Para realizar los fines enumerados anteriormente, trabajamos con socios, proveedores de servicios, proveedores y contratistas. Tenemos protecciones contractuales en vigor, de modo que las entidades que reciben datos personales están obligadas contractualmente a manejar los datos de acuerdo con las instrucciones de Mozilla.  |
 | [Autoridades](#bookmark-authorities)  | Mozilla requiere un [proceso legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para obligar a revelar datos de usuarios específicos a un gobierno. En esos casos, es posible que tengamos que revelar los datos personales establecidos en este Aviso a las autoridades policiales, gubernamentales o entidades similares para cumplir con las leyes aplicables e identificar y prevenir actividades dañinas, no autorizadas o ilegales.  |
 | Investigadores | Cuando estamos cumpliendo nuestra [misión](https://www.mozilla.org/about/manifesto/) de ser abiertos. A veces, divulgamos información para mejorar nuestros productos y promover una web abierta, pero cuando lo hacemos, lo haremos en un [formato](https://wiki.mozilla.org/Data_Publishing) desidentificado o agregado. |
@@ -215,7 +215,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
 ## Tipos de datos definidos
 
 | Tipo de datos | Descripción | Ejemplos para usuarios de Firefox |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Datos técnicos | Esta es información sobre el hardware desde el que usted está accediendo a nuestros servicios (como su ordenador, smartphone o tablet), sus configuraciones y su conexión a Firefox.  | Tipo de dispositivo, sistema operativo, dirección IP, ISP (proveedor de servicios de Internet).  |
 | Configuración | Estas son sus preferencias o configuraciones sobre cómo se proporcionan los servicios, como sus preferencias de privacidad o las configuraciones de la barra de herramientas. Si usted no ha realizado ninguna elección específica, estos serán los ajustes por defecto.  | Configuración de la protección mejorada del seguimiento, configuración de cookies, permisos (ubicación, cámara, micrófono), personalización de la barra de herramientas. |
 | Ubicación | Deducimos su ubicación a partir de su dirección IP a nivel de su país, ciudad o región. | Código del país, ciudad.  |

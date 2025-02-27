@@ -151,7 +151,7 @@ We may also be required to process your personal data to comply with applicable 
 To provide our services as described above, we may disclose personal data to:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions.  |
 | [Authorities](#bookmark-authorities)  | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity.  |
 | Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
@@ -215,7 +215,7 @@ We may need to change this policy and our notices, in which case the updates wil
 ## Types of Data Defined
 
 | Data Type | Description | Examples for Firefox users |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Technical data | This is information about the hardware you are accessing our services from (such as your desktop computer, smartphone or tablet), its configurations and its connection to Firefox.  | Device type, operating system, IP address, ISP (Internet Service Provider).  |
 | Settings | These are your preferences or settings as to how the services are provided, such as your privacy preferences or toolbar settings. If you have not made any specific choices, these will be the default settings.  | Enhanced Tracking Protection settings, cookie settings, permissions (location, camera, microphone), toolbar customization. |
 | Location | We infer your location from your IP address at the level of your country, city, or region. | Country code, city.  |
