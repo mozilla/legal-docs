@@ -1,7 +1,7 @@
 # Zasady prywatności dotyczące kont Mozilla
 
-Wersja 1.0, obowiązuje od 1 listopada 2023 r.
-{: datetime="2023-11-01" }
+Wersja 1.1, obowiązuje od 3 kwietnia 2024 r.
+{: datetime="2024-04-03" }
 
 W niniejszych Zasadach prywatności wyjaśniamy, jakie dane na temat użytkownika gromadzi i udostępnia firma Mozilla. Stosujemy się również do praktyk przedstawionych w [Polityce prywatności firmy Mozilla](https://www.mozilla.org/privacy/) w zakresie sposobów, w jakie otrzymujemy, obsługujemy i udostępniamy informacje, gdy użytkownik posiada [konto Mozilla](https://accounts.firefox.com/). Dodatkowe informacje mogą być gromadzone i udostępniane przez różne produkty i usługi, do których użytkownik ma dostęp za pośrednictwem konta Mozilla. Przeczytaj pełną dokumentację lub uzyskaj więcej informacji, łączenie ze sposobem [zarządzania danych konta Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) i naszymi zasadami przetwarzania danych w zakresie [witryn i poczty e-mail](https://www.mozilla.org/privacy/websites/). Możesz także przeczytać Zasady prywatności dotyczące usług połączonych z kontem Mozilla, takich jak:
 
@@ -17,7 +17,7 @@ W niniejszych Zasadach prywatności wyjaśniamy, jakie dane na temat użytkownik
 
 ## Co warto wiedzieć
 
-__Dane dotyczące rejestracji.__ Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Mozilla. Użytkownik może podać swój wiek, a także dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy Acoustic, która ma własne [zasady prywatności](https://acoustic.com/privacy-notice/); do komunikacji z użytkownikiem używamy usług firmy Acoustic.
+__Dane dotyczące rejestracji.__ Mozilla otrzymuje adres e-mail użytkownika i skrót hasła podczas tworzenia konta Mozilla. Użytkownik może podać swój wiek, a także dołączyć nazwę wyświetlaną lub zdjęcie profilowe. Adres e-mail jest wysyłany do naszego dostawcy usług e-mail, firmy Braze, która ma własne [zasady prywatności](https://www.braze.com/company/legal/privacy); do komunikacji z użytkownikiem używamy usług firmy Braze.
 
 __Dane lokalizacji.__ Używamy adresu IP w celu przybliżenia lokalizacji użytkownika, aby zapobiegać oszustwom i nadużyciom w naszych produktach. Będziemy wysyłać alerty e-mail, jeśli wykryjemy podejrzaną aktywność, taką jako logowanie na konto z innych lokalizacji. 
 
