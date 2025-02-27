@@ -75,8 +75,7 @@ jobs:
               --body "Publish documents to production" \
               --head prod_updates \
               --base prod \
-              --label prod \
-              --reviewer @mozilla/legal-l10n
+              --label prod
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}

@@ -76,8 +76,7 @@ jobs:
               --body "Convert documents to PDF/HTML" \
               --head doc_updates \
               --base main \
-              --label l10n \
-              --reviewer @mozilla/legal-l10n
+              --label l10n
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}

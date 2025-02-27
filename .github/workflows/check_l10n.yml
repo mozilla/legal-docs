@@ -82,8 +82,7 @@ jobs:
               --body "Tracking document updates for l10n" \
               --head l10n_updates \
               --base l10n_reference \
-              --label l10n \
-              --reviewer @mozilla/legal-l10n
+              --label l10n
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}
