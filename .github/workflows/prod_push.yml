@@ -46,10 +46,10 @@ jobs:
           if [[ "${{ github.event.inputs.files }}" = "ALL" ]];
           then
             # Also remove files, ignore hidden folders, Markdown files in the root
-            rsync -av --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json"} "${SUPPORT_DIR}/" ./ --delete
+            rsync -av --checksum --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json"} "${SUPPORT_DIR}/" ./ --delete
           else
             # Only copy new files
-            rsync -av "${SUPPORT_DIR}/" ./
+            rsync -av --checksum "${SUPPORT_DIR}/" ./
           fi
       - name: Commit changes to prod_updates branch
         continue-on-error: true
