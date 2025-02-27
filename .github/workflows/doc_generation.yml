@@ -36,6 +36,10 @@ jobs:
         run: |
           pip install -r .github/requirements.txt
 
+      - name: Remove existing documents
+        run: |
+          find . -type f \( -name "*.pdf" -o -name "*.html" \) ! -path "*/.*/*" -delete
+
       - name: Run generation script
         run: |
           # Set arbitrary EPOCH date to get reproducible PDF generation.
