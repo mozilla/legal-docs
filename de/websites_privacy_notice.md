@@ -1,7 +1,7 @@
 # Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
 
-Mittwoch, 1. November 2023
-{: datetime="2023-11-01" }
+Mittwoch, 3. April 2024
+{: datetime="2024-04-03" }
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
@@ -20,7 +20,7 @@ Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um eine
 
 * **Benutzer-Feedback**: Auf Webseiten wie [connect.mozilla.org](https://connect.mozilla.org/), über eine produktinterne Funktion oder Kanäle wie E-Mail, Bugzilla, Matrix, ein Social-Media-Konto, eine „Machen Sie mit“-Seite oder eine Gruppe wie Student Ambassadors können Sie uns Feedback zu unseren Produkten und Services geben. Bitte halten Sie die persönlichen Informationen, die Sie auf diesen Foren preisgeben, so knapp wie möglich, weil Ihre Anmerkungen evtl. öffentlich zugänglich sind.
 
-* **Konten und Abonnements**: Manche Websites wie z. B. [Add-ons für Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/) und [MDN](https://developer.mozilla.org/), erfordern, dass ein Konto erstellt wird. Für die Kontoverwaltung verwenden wir [Mozilla-Konten](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) oder spezielle Systeme. [Erfahren Sie mehr](https://support.mozilla.org/kb/managing-account-data) darüber, wie wir Ihre Mozilla-Kontendaten verwalten. Sie erhalten evtl. regelmäßig E-Mails in Verbindung mit Ihrem Konto oder mit Abonnements. Unsere E-Mail-Verwaltungsanbieter sind [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) oder [Acoustic](https://acoustic.com/privacy-notice/). Sie können Ihr Abonnement über den Link unten in der jeweiligen E-Mail stornieren. 
+* **Konten und Abonnements**: Manche Websites wie z. B. [Add-ons für Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/) und [MDN](https://developer.mozilla.org/), erfordern, dass ein Konto erstellt wird. Für die Kontoverwaltung verwenden wir [Mozilla-Konten](https://www.mozilla.org/privacy/mozilla-accounts/), [Github](https://support.github.com/#our-use-of-cookies-and-tracking) oder spezielle Systeme. [Erfahren Sie mehr](https://support.mozilla.org/kb/managing-account-data) darüber, wie wir Ihre Mozilla-Kontendaten verwalten. Sie erhalten evtl. regelmäßig E-Mails in Verbindung mit Ihrem Konto oder mit Abonnements. Unsere E-Mail-Verwaltungsanbieter sind [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) oder [Braze](https://www.braze.com/company/legal/privacy). Sie können Ihr Abonnement über den Link unten in der jeweiligen E-Mail stornieren. 
 
 * **Produkt- und politische Kampagnen**: Einige unserer Webseiten enthalten Produkt- oder politische Kampagnen. Zum Beispiel können Sie per E-Mail oder SMS einen Link zur Installation von Firefox auf Ihrem Mobilgerät anfordern oder eine Petition zur Internetpolitik unterzeichnen. Diese Kampagnen wickeln wir evtl. über Drittanbieter ab, die die Daten verarbeiten, die Sie einsenden. 
 {: #campaigns }
@@ -63,7 +63,7 @@ Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-Einstellung
     * Convert.com: [Opt-out auf www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
     * ShareProgress und Fathom.com: Sie können [in Ihrem Browser Do Not Track aktivieren](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 
-* **Social Media**: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für den jeweiligen Social-Media-Anbieter freigegeben werden, wenn Sie auf das Symbol  jeweiligen Social-Media-Anbieters klicken.
+* **Social Media**: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für den jeweiligen Social-Media-Anbieter freigegeben werden, wenn Sie auf das Symbol jeweiligen Social-Media-Anbieters klicken.
 
 ---------------------------------------
 

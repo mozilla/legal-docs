@@ -1,7 +1,7 @@
 # Mozilla 帐户隐私声明
 
-1.0 版，2023 年 11 月 1 日生效
-{: datetime="2023-11-01" }
+1.1 版，2024 年 4 月 3 日生效
+{: datetime="2024-04-03" }
 
 在本隐私声明中，我们针对 Mozilla 收集和共享您相关的数据类型进行说明。我们还遵守 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)中描述的做法，在您拥有 [Mozilla 帐户](https://accounts.firefox.com/)后，作为我们如何接收、处理和共享我们所收集信息的准则。您使用 Mozilla 帐户访问的不同产品和服务可能会收集和共享其他信息。阅读完整文档或了解更多信息，包括如何[管理您的 Mozilla 帐户数据](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)或我们的[网站和电子邮件](https://www.mozilla.org/privacy/websites/)数据实践。您也可以阅读我们的 Mozilla 帐户连接服务隐私声明，如下所示：
 
@@ -17,7 +17,7 @@
 
 ## 须知
 
-__注册数据。__ 当您注册 Mozilla 帐户时，Mozilla 会收到您的电子邮件地址和哈希密码。您可以选择提供您的年龄，以及显示名称或个人资料图像。我们会将您的电子邮件地址发送给电子邮件供应商 Acoustic，该供应商具有自身的[隐私声明](https://acoustic.com/privacy-notice/)；我们使用 Acoustic 的服务与您沟通。
+__注册数据。__ 当您注册 Mozilla 帐户时，Mozilla 会收到您的电子邮件地址和哈希密码。您可以选择提供您的年龄，以及显示名称或个人资料图像。我们会将您的电子邮件地址发送给电子邮件供应商 Braze，该供应商具有自身的[隐私声明](https://www.braze.com/company/legal/privacy)；我们使用 Braze 的服务与您沟通。
 
 __定位数据。__ 我们使用 IP 地址来大致确定您的位置，以防止在我们产品使用过程中出现欺诈和滥用。如果我们检测到可疑活动，例如有人从其他位置登录帐户，我们会向您发送电子邮件警报。 
 
