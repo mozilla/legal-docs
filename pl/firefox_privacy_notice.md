@@ -151,7 +151,7 @@ Możemy być również zobowiązani do przetwarzania danych osobowych użytkowni
 Aby świadczyć nasze usługi opisane powyżej, możemy ujawniać dane osobowe:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partnerom, usługodawcom, dostawcom i wykonawcom | Aby realizować cele wymienione powyżej, współpracujemy z partnerami, usługodawcami, dostawcami i wykonawcami. Stosujemy zabezpieczenia umowne, aby podmioty otrzymujące dane osobowe były umownie zobowiązane do przetwarzania danych zgodnie z instrukcjami firmy Mozilla.  |
 | [Władze](#bookmark-authorities) | Mozilla wymaga ważnego [procesu prawnego](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process), aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika. W takich przypadkach Mozilla może być zmuszona do ujawnienia danych osobowych określonych w niniejszych Zasadach organom ścigania, organom rządowym lub podobnym podmiotom w celu zapewnienia zgodności z obowiązującymi przepisami prawa oraz w celu identyfikacji i zapobiegania szkodliwym, nieautoryzowanym lub nielegalnym działaniom.  |
 | Badacze | Gdy realizujemy naszą [misję](https://www.mozilla.org/about/manifesto/) otwartości. Czasami udostępniamy informacje, aby ulepszać nasze produkty i wspierać otwartą sieć, ale kiedy to robimy, robimy to w formacie pozbawionym elementów umożliwiających identyfikację lub w zagregowanym [formacie](https://wiki.mozilla.org/Data_Publishing). |
@@ -215,7 +215,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
 ## Zdefiniowane typy danych
 
 | Typ danych | Opis | Przykłady dla użytkowników Firefoksa |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Dane techniczne | Są to informacje o sprzęcie, z którego użytkownik uzyskuje dostęp do naszych usług (takim jak komputer, smartfon lub tablet), jego konfiguracji i połączeniu z przeglądarką Firefox.  | Typ urządzenia, system operacyjny, adres IP, dostawca usług internetowych.  |
 | Ustawienia | Są to preferencje lub ustawienia użytkownika dotyczące sposobu świadczenia usług, takie jak preferencje prywatności lub ustawienia paska narzędzi. Jeśli użytkownik nie dokonał żadnych konkretnych wyborów, będą to ustawienia domyślne.  | Ustawienia rozszerzonej ochrony przed śledzeniem, ustawienia plików cookie, uprawnienia (lokalizacja, kamera, mikrofon), dostosowanie paska narzędzi. |
 | Lokalizacja | Określamy lokalizację użytkownika na podstawie jego adresu IP na poziomie kraju, miasta lub regionu. | Kod kraju, miasto.  |
