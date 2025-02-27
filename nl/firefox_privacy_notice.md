@@ -151,7 +151,7 @@ Het kan ook zijn dat we verplicht worden om uw persoonlijke gegevens te verwerke
 Voor het verzorgen van onze services zoals deze hiervoor reeds zijn beschreven, kunnen we persoonlijke gegevens openbaar maken aan:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partners, dienstverleners, leveranciers en aannemers | We werken samen met partners, dienstverleners, leveranciers en aannemers om te voldoen aan de doeleinden die hiervoor worden vermeld. Er zijn contractuele waarborgen geïmplementeerd, zodat rechtspersonen die persoonlijke gegevens ontvangen, contractueel verplicht zijn om de gegevens te verwerken in overeenstemming met de instructies van Mozilla.  |
 | [Autoriteiten](#bookmark-authorities) | Mozilla vereist een [geldig juridisch proces om openbaarmaking](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) van specifieke gebruikersgegevens aan een overheid af te dwingen. In die gevallen moeten we mogelijk de persoonlijke gegevens die zijn beschreven in deze Verklaring, openbaar maken aan wetshandhavingsinstanties, overheidsinstanties of soortgelijke rechtspersonen om te voldoen aan toepasselijke wetten en om schadelijke, ongeautoriseerde of illegale activiteiten te identificeren en te voorkomen.  |
 | Onderzoekers | Wanneer we onze [missie](https://www.mozilla.org/about/manifesto/) om open te zijn, vervullen. We geven soms informatie vrij om onze producten beter te maken en een open web te bevorderen. Wanneer we dat doen, gebeurt dat in een gedeïdentificeerde of samengevoegde [indeling](https://wiki.mozilla.org/Data_Publishing). |
@@ -215,7 +215,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
 ## Gedefinieerde gegevenstypen
 
 | Gegevenstype | Beschrijving | Voorbeelden voor Firefox-gebruikers |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Technische gegevens | Dit is informatie over de hardware via welke u onze services gebruikt (zoals uw desktopcomputer, smartphone of tablet), de configuraties daarvan en de verbindingen daarvan met Firefox.  | Apparaattype, besturingssysteem, IP-adres, internetprovider.  |
 | Instellingen | Dit zijn uw voorkeuren of instellingen voor hoe de services worden verzorgd, zoals uw privacyvoorkeuren of werkbalkinstellingen. Als u geen specifieke keuzes hebt gemaakt, zijn dit de standaardinstellingen.  | Verbeterde bescherming tegen volgen-instellingen, cookie-instellingen, toestemmingen(locatie, camera, microfoon), werkbalkaanpassing. |
 | Locatie | We leiden uw locatie af van uw IP-adres op het niveau van uw land, plaats of regio. | Landcode, plaats.  |

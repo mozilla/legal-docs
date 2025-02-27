@@ -151,7 +151,7 @@ Stejně tak můžeme být povinni zpracovávat vaše osobní údaje za účelem 
 Pro poskytování našich výše popsaných služeb můžeme osobní údaje poskytovat následujícím subjektům:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partneři, poskytovatelé služeb, dodavatelé a smluvní partneři | Na plnění výše uvedených účelů spolupracujeme s partnery, poskytovateli služeb, dodavateli a smluvními partnery. Zavedli jsme smluvní ochranné prostředky, takže subjekty, které osobní údaje získávají, jsou smluvní povinny s těmito údaji zacházet v souladu s pokyny společnosti Mozilla.  |
 | [Orgány](#bookmark-authorities) | Společnost Mozilla vyžaduje platný [zákonný postup](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) pro vynucení poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností.  |
 | Výzkumníci | Při plnění našeho [poslání](https://www.mozilla.org/about/manifesto/) zachování otevřenosti. Někdy poskytujeme informace pro vylepšení a rozvoj našich produktů na otevřeném webu, nicméně v takových případech tak učiníme v deidentifikované nebo souhrnné [formě](https://wiki.mozilla.org/Data_Publishing). |
@@ -215,7 +215,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 ## Definované typy údajů
 
 | Typ údajů | Popis | Příklady uživatelů Firefoxu |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Technické údaje | Toto jsou informace o hardwaru, z něhož k našim službám přistupujete (jako např. váš stolní počítač, chytrý telefon nebo tablet), jeho konfigurace a jeho připojení k Firefoxu.  | Typ zařízení, operační systém, adresa IP, ISP (Poskytovatel internetových služeb).  |
 | Nastavení | Toto jsou předvolby či nastavení ohledně způsobu poskytování služeb, jako jsou vaše předvolby ochrany osobních údajů nebo nastavení lišty nástrojů. Pokud jste neprovedli žádné konkrétní volby, bude se jednat o výchozí nastavení.  | Nastavení pokročilé ochrany proti sledování, nastavení souborů cookie, oprávnění (lokalita, kamera, mikrofon), přizpůsobení lišty nástrojů. |
 | Lokalita | Vaši lokalitu odhadujeme na základě vaší adresy IP na úrovni země, města nebo regionu. | Kód země, město.  |

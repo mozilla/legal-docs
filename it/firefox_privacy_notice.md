@@ -151,7 +151,7 @@ Potremmo anche dover elaborare i tuoi dati personali per rispettare i requisiti 
 Per fornire i nostri servizi come sopra descritto, possiamo divulgare i tuoi dati personali a:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partner, fornitori di servizi, fornitori e collaboratori | Per le finalità sopra elencate, collaboriamo con partner, fornitori di servizi, fornitori e collaboratori. Abbiamo predisposto delle protezioni contrattuali, in modo che le entità che ricevono i dati personali dei nostri utenti siano contrattualmente obbligate a trattarli secondo le istruzioni di Mozilla.  |
 | [Autorità](#bookmark-authorities)  | Mozilla richiede un [procedimento legale valido](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) per imporre la divulgazione di dati specifici dell'utente a un organo governativo. In questi casi, potremmo aver bisogno di divulgare i dati personali di cui alla presente Informativa alle forze dell'ordine, alle autorità governative o a enti simili per ottemperare alle leggi vigenti e per identificare e prevenire attività dannose, non autorizzate o illegali.  |
 | Società di ricerca | Nell'adempimento della nostra [missione](https://www.mozilla.org/about/manifesto/) di trasparenza. A volte rilasciamo informazioni per migliorare i nostri prodotti e promuovere un web aperto, ma quando lo facciamo, ci assicuriamo che tali dati siano in [formato](https://wiki.mozilla.org/Data_Publishing) de-identificato o aggregato. |
@@ -215,7 +215,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
 ## Tipi di dati definiti
 
 | Tipi di dati | Descrizione | Esempi di utenti Firefox |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Dati tecnici | Si tratta di informazioni sull'hardware che usi per accedere ai nostri servizi (ad esempio il computer desktop, lo smartphone o il tablet), sulle sue configurazioni e sulla sua connessione a Firefox.  | Tipo di dispositivo, sistema operativo, indirizzo IP, ISP (Internet Service Provider).  |
 | Impostazioni | Si tratta di preferenze o impostazioni personali relative alle modalità di fornitura dei servizi, come ad esempio le preferenze sulla privacy o le impostazioni della barra degli strumenti. Se non hai fatto alcuna scelta specifica, si tratterà delle impostazioni predefinite.  | Impostazioni della Protezione antitracciamento avanzata, impostazioni dei cookie, autorizzazioni (posizione, fotocamera, microfono), personalizzazione della barra degli strumenti. |
 | Posizione | La tua posizione viene dedotta dal tuo indirizzo IP a livello di paese, città o regione. | Codice paese, città.  |
