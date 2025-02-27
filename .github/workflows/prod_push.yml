@@ -25,19 +25,19 @@ jobs:
           python-version: '3.11'
       - name: Set up git credentials
         run : |
-          git config --global user.email 'MozmarRobot@users.noreply.github.com'
-          git config --global user.name 'MozMEAO Bot'
+          git config --global user.email 'mozilla-pontoon@users.noreply.github.com'
+          git config --global user.name 'L10n Bot'
       - name: Update files in repository
         run: |
           cd clone
           git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
 
           # Use temporary folder to store files from the default branch
-          TMP_DIR="../temp_files"
-          mkdir "$TMP_DIR"
+          SUPPORT_DIR="../temp_files"
+          mkdir "$SUPPORT_DIR"
 
           # Copy files, excluding scripts and workflows
-          python .github/scripts/copy_files.py "${{ github.event.inputs.files }}" "$TMP_DIR"
+          python .github/scripts/copy_files.py "${{ github.event.inputs.files }}" "$SUPPORT_DIR"
 
           git reset --hard origin/prod
           git checkout -B prod_updates
@@ -46,10 +46,10 @@ jobs:
           if [[ "${{ github.event.inputs.files }}" = "ALL" ]];
           then
             # Also remove files, ignore hidden folders, Markdown files in the root
-            rsync -av --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json"} "${TMP_DIR}/" ./ --delete
+            rsync -av --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json"} "${SUPPORT_DIR}/" ./ --delete
           else
             # Only copy new files
-            rsync -av "${TMP_DIR}/" ./
+            rsync -av "${SUPPORT_DIR}/" ./
           fi
       - name: Commit changes to prod_updates branch
         continue-on-error: true
