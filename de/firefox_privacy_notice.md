@@ -151,7 +151,7 @@ Wir sind möglicherweise auch verpflichtet, Ihre personenbezogenen Daten zu vera
 Zur Erbringung unserer oben beschriebenen Leistungen sind wir berechtigt, personenbezogene Daten an folgende Empfänger weiterzugeben:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Partner, Service-Provider, Lieferanten und Auftragnehmer | Zur Erfüllung der oben genannten Zwecke arbeiten wir mit Partnern, Service-Providern, Lieferanten und Auftragnehmern zusammen. Wir haben vertragliche Schutzmaßnahmen getroffen, damit die Stellen, die personenbezogene Daten erhalten, vertraglich verpflichtet sind, diese Daten gemäß den Weisungen von Mozilla zu verarbeiten.  |
 | [Staatliche Stellen](#bookmark-authorities)  | Mozilla verlangt für die Offenlegung bestimmter Benutzerdaten gegenüber staatlichen Stellen ein [rechtsgültiges Verfahren](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process). In solchen Fällen sind wir möglicherweise gezwungen, die in dieser Erklärung genannten personenbezogenen Daten an Strafverfolgungsbehörden, staatliche Stellen oder ähnliche Einrichtungen weiterzugeben, um geltende Gesetze einzuhalten und schädliche, unbefugte oder illegale Aktivitäten zu erkennen und zu verhindern.  |
 | Forschende | Wenn wir unsere [Mission](https://www.mozilla.org/about/manifesto/) der Offenheit erfüllen. Manchmal legen wir dann Informationen offen, um unsere Produkte zu verbessern und ein offenes Internet zu fördern. Wenn wir dies tun, geschieht dies jedoch in [anonymisierter oder aggregierter Form](https://wiki.mozilla.org/Data_Publishing). |
@@ -215,7 +215,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 ## Definierte Datentypen
 
 | Datentyp | Beschreibung | Beispiele für Firefox-Benutzer |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Technische Daten | Hierbei handelt es sich um Informationen über die Hardware, mit der Sie auf unsere Dienste zugreifen (z. B. Ihren Desktop-Computer, Ihr Smartphone oder Ihr Tablet), deren Konfigurationen und deren Verbindung zu Firefox.  | Gerätetyp, Betriebssystem, IP-Adresse, ISP (Internet Service Provider).  |
 | Einstellungen | Dies sind Ihre Vorlieben oder Einstellungen in Bezug auf die Bereitstellung der Dienste, z. B. Ihre Datenschutz- oder Symbolleisteneinstellungen. Wenn Sie keine Auswahl getroffen haben, gelten die Standardeinstellungen.  | Einstellungen für verbesserten Tracking-Schutz, Cookie-Einstellungen, Berechtigungen (Standort, Kamera, Mikrofon), Symbolleisteneinstellungen. |
 | Standort | Wir leiten Ihren Standort aus Ihrer IP-Adresse auf der Ebene Ihres Landes, Ihres Orts oder Ihrer Region ab. | Ländercode, Ort.  |

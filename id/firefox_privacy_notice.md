@@ -151,7 +151,7 @@ Kami juga dapat diharuskan memproses data pribadi Anda untuk mematuhi undang-und
 Untuk menyediakan layanan kami sebagaimana dijelaskan di atas, kami dapat mengungkapkan data pribadi kepada:
 
 |  |  |
-| :---- | :---- |
+| ----- | ----- |
 | Mitra, penyedia layanan, pemasok dan kontraktor | Untuk melaksanakan tujuan yang tercantum di atas, kami bekerja sama dengan mitra, penyedia layanan, pemasok, dan kontraktor. Kami memiliki perlindungan kontrak, sehingga entitas yang menerima data pribadi secara kontrak wajib menangani data tersebut sesuai dengan instruksi Mozilla.  |
 | [Pihak berwenang](#bookmark-authorities) | Mozilla mewajibkan [Proses Hukum](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal.  |
 | Peneliti | Saat kami memenuhi [misi](https://www.mozilla.org/about/manifesto/) kami untuk bersikap terbuka. Terkadang kami merilis informasi untuk membuat produk kami lebih baik dan mengembangkan web terbuka, tetapi ketika kami melakukannya, kami akan melakukannya dalam [format](https://wiki.mozilla.org/Data_Publishing) tanpa identitas atau agregat. |
@@ -215,7 +215,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 ## Jenis Data yang Ditentukan
 
 | Jenis Data | Deskripsi | Contoh untuk pengguna Firefox |
-| :---- | :---- | :---- |
+| ----- | ----- | ----- |
 | Data teknis | Ini adalah informasi tentang perangkat keras yang Anda gunakan untuk mengakses layanan kami (seperti komputer desktop, ponsel cerdas, atau tablet), konfigurasinya, dan koneksinya ke Firefox.  | Jenis perangkat, sistem operasi, alamat IP, ISP (Penyedia Layanan Internet).  |
 | Pengaturan | Ini adalah preferensi atau pengaturan Anda mengenai bagaimana layanan disediakan, seperti preferensi privasi atau pengaturan bilah alat Anda. Jika Anda belum membuat pilihan tertentu, ini akan menjadi pengaturan baku.  | Pengaturan Perlindungan Pelacakan yang Ditingkatkan, pengaturan kuki, izin (lokasi, kamera, mikrofon), penyesuaian bilah alat. |
 | Lokasi | Kami menyimpulkan lokasi Anda dari alamat IP Anda di tingkat negara, kota, atau wilayah Anda. | Kode negara, kota.  |
