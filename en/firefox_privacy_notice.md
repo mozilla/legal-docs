@@ -123,7 +123,7 @@ You can update your data collection settings for [Desktop](https://support.mozil
 
 ### To market our services
 
-When you allow us to do so, Firefox sends Mozilla data about the website domain or specific advertising campaign (if any) that referred you to our download page to help us understand and improve our marketing efforts. Firefox also shares information with our marketing partners to measure and improve these campaigns; what information is specifically shared varies (depending on how you discovered Firefox and your operating system) but generally includes how you were referred to our download page and whether you actively use Firefox. Where Firefox is pre-installed on your device, technical and interaction data (your device type and whether Firefox is used) will be sent to our marketing partners, and shared with Mozilla. Learn more about what is collected and shared, and how to opt out.
+When you allow us to do so, Firefox sends Mozilla data about the website domain or specific advertising campaign (if any) that referred you to our download page to help us understand and improve our marketing efforts. Firefox also shares information with our marketing partners to measure and improve these campaigns; what information is specifically shared varies (depending on how you discovered Firefox and your operating system) but generally includes how you were referred to our download page and whether you actively use Firefox. Where Firefox is pre-installed on your device, technical and interaction data (your device type and whether Firefox is used) will be sent to our marketing partners, and shared with Mozilla.
 
 #### More details, including how to adjust your data settings:
 
