@@ -166,32 +166,6 @@
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_firetv_privacy_notice.md",
     "locales": []
   },
-  "firefox_monitor_terms_privacy.md": {
-    "count": 18,
-    "has_source": true,
-    "last_update": "2018-09-25",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_monitor_terms_privacy.md",
-    "locales": [
-      "ar",
-      "de",
-      "es-ES",
-      "es-MX",
-      "fr",
-      "hi",
-      "id",
-      "it",
-      "ja",
-      "ko",
-      "nl",
-      "pl",
-      "pt-BR",
-      "ru",
-      "tr",
-      "vi",
-      "zh-CN",
-      "zh-TW"
-    ]
-  },
   "firefox_os_privacy_notice.md": {
     "count": 0,
     "has_source": true,
