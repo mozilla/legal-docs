@@ -9,7 +9,6 @@ List of translated files (number of locales between parentheses):
 * content_moderation_practices.md (13)
 * firefox_about_rights.md (12)
 * firefox_cloud_services_tos.md (12)
-* firefox_monitor_terms_privacy.md (18)
 * firefox_privacy_notice.md (13)
 * firefox_relay_privacy_notice.md (6)
 * firefox_relay_tos.md (6)
