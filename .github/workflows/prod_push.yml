@@ -46,7 +46,7 @@ jobs:
           if [[ "${{ github.event.inputs.files }}" = "ALL" ]];
           then
             # Also remove files, ignore hidden folders, Markdown files in the root
-            rsync -aIv --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json"} "${SUPPORT_DIR}/" ./ --delete
+            rsync -aIv --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json","en/archive"} "${SUPPORT_DIR}/" ./ --delete
           else
             # Only copy new files
             rsync -aIv "${SUPPORT_DIR}/" ./
