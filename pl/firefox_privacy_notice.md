@@ -234,7 +234,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Do czego wykorzystujemy dane użytkownika</th>
+            <th>Do czego wykorzystujemy dane użytkownika</th>
             <th>Jakie dane przetwarzamy</th>
             <th>Nasza podstawa prawna</th>
             <th>Więcej informacji, w tym wybór sposobu udostępniania tych danych w przeglądarce Firefox</th>
@@ -242,7 +242,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
     </thead>
     <tbody>
         <tr>
-            <td>Aby zapewnić użytkownikowi przeglądarkę Firefox</td>
+            <td><a id="bookmark-how-we-use-data"></a>Aby zapewnić użytkownikowi przeglądarkę Firefox</td>
             <td>
                 <ul>
                     <li>Dane techniczne</li>

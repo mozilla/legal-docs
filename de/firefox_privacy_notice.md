@@ -234,7 +234,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Wofür wir Ihre Daten nutzen</th>
+            <th>Wofür wir Ihre Daten nutzen</th>
             <th>Welche Daten wir verarbeiten</th>
             <th>Unsere Rechtsgrundlage</th>
             <th>Weitere Informationen, einschließlich der Option, wie Sie diese Daten in Firefox teilen möchten</th>
@@ -242,7 +242,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
     </thead>
     <tbody>
         <tr>
-            <td>Zur Bereitstellung des Firefox-Browsers</td>
+            <td><a id="bookmark-how-we-use-data"></a>Zur Bereitstellung des Firefox-Browsers</td>
             <td>
                 <ul>
                     <li>Technische Daten</li>

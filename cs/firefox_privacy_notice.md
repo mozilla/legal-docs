@@ -234,7 +234,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>K čemu vaše údaje používáme</th>
+            <th>K čemu vaše údaje používáme</th>
             <th>Jaké údaje zpracováváme</th>
             <th>Naše právní základy</th>
             <th>Podrobnější informace včetně volby jak chcete tyto údaje s Firefoxem sdílet</th>
@@ -242,7 +242,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
     </thead>
     <tbody>
         <tr>
-            <td>Za účelem poskytnutí prohlížeče Firefox pro vás</td>
+            <td><a id="bookmark-how-we-use-data"></a>Za účelem poskytnutí prohlížeče Firefox pro vás</td>
             <td>
                 <ul>
                     <li>Technické údaje</li>
