@@ -234,7 +234,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>データの使用目的</th>
+            <th>データの使用目的</th>
             <th>処理されるデータ</th>
             <th>法的根拠</th>
             <th>詳細 (Firefox におけるこのデータの共有方法の選択など)</th>
@@ -242,7 +242,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
     </thead>
     <tbody>
         <tr>
-            <td>Firefox ブラウザーを提供するため</td>
+            <td><a id="bookmark-how-we-use-data"></a>Firefox ブラウザーを提供するため</td>
             <td>
                 <ul>
                     <li>技術データ</li>

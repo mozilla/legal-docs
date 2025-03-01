@@ -234,7 +234,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>我们使用您的数据的目的</th>
+            <th>我们使用您的数据的目的</th>
             <th>我们处理哪些数据</th>
             <th>我们的法律依据</th>
             <th>更多信息，包括选择您希望如何在 Firefox 中共享这些数据</th>
@@ -242,7 +242,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
     </thead>
     <tbody>
         <tr>
-            <td>为向您提供 Firefox 浏览器</td>
+            <td><a id="bookmark-how-we-use-data"></a>为向您提供 Firefox 浏览器</td>
             <td>
                 <ul>
                     <li>技术数据</li>

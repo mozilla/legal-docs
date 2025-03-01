@@ -234,7 +234,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Waar we uw gegevens voor gebruiken</th>
+            <th>Waar we uw gegevens voor gebruiken</th>
             <th>Welke gegevens we verwerken</th>
             <th>Onze wettige basis</th>
             <th>Meer informatie, waaronder hoe u deze gegevens wilt delen in Firefox</th>
@@ -242,7 +242,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
     </thead>
     <tbody>
         <tr>
-            <td>U voorzien van de Firefox-browser</td>
+            <td><a id="bookmark-how-we-use-data"></a>U voorzien van de Firefox-browser</td>
             <td>
                 <ul>
                     <li>Technische gegevens</li>
