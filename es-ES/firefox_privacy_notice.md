@@ -234,7 +234,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Para qué utilizamos sus datos</th>
+            <th>Para qué utilizamos sus datos</th>
             <th>Qué datos tratamos</th>
             <th>Nuestros fundamentos legales</th>
             <th>Más información, incluyendo elegir cómo usted quiere compartir estos datos en Firefox</th>
@@ -242,7 +242,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
     </thead>
     <tbody>
         <tr>
-            <td>Para proporcionarle el navegador Firefox</td>
+            <td><a id="bookmark-how-we-use-data"></a>Para proporcionarle el navegador Firefox</td>
             <td>
                 <ul>
                     <li>Datos técnicos</li>

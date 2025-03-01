@@ -234,7 +234,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Az adatok felhasználásának célja</th>
+            <th>Az adatok felhasználásának célja</th>
             <th>A kezelt adatok</th>
             <th>A jogalapjaink</th>
             <th>További információk, beleértve az adatok megosztásának módját a Firefoxban</th>
@@ -242,7 +242,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
     </thead>
     <tbody>
         <tr>
-            <td>A Firefox böngésző biztosításához</td>
+            <td><a id="bookmark-how-we-use-data"></a>A Firefox böngésző biztosításához</td>
             <td>
                 <ul>
                     <li>Technikai adatok</li>

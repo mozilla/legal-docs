@@ -234,7 +234,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Per cosa utilizziamo i tuoi dati</th>
+            <th>Per cosa utilizziamo i tuoi dati</th>
             <th>Quali dati elaboriamo</th>
             <th>Le nostre basi legali</th>
             <th>Ulteriori informazioni, tra cui la scelta della modalità di condivisione dei dati in Firefox</th>
@@ -242,7 +242,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
     </thead>
     <tbody>
         <tr>
-            <td>Per fornirti il browser Firefox</td>
+            <td><a id="bookmark-how-we-use-data"></a>Per fornirti il browser Firefox</td>
             <td>
                 <ul>
                     <li>Dati tecnici</li>

@@ -234,7 +234,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>Untuk tujuan apa kami menggunakan data Anda</th>
+            <th>Untuk tujuan apa kami menggunakan data Anda</th>
             <th>Data apa yang kami proses</th>
             <th>Dasar hukum kami</th>
             <th>Informasi selengkapnya, termasuk memilih cara yang Anda inginkan untuk membagikan data ini di Firefox</th>
@@ -242,7 +242,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
     </thead>
     <tbody>
         <tr>
-            <td>Untuk menyediakan browser Firefox bagi Anda</td>
+            <td><a id="bookmark-how-we-use-data"></a>Untuk menyediakan browser Firefox bagi Anda</td>
             <td>
                 <ul>
                     <li>Data teknis</li>
