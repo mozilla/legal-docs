@@ -253,7 +253,7 @@
   "firefox_terms_of_use.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2025-02-25",
+    "last_update": "2025-02-28",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_terms_of_use.md",
     "locales": [
       "cs",
@@ -325,42 +325,6 @@
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_tos.md",
     "locales": []
   },
-  "hubs_privacy_notice.md": {
-    "count": 10,
-    "has_source": true,
-    "last_update": "2023-11-01",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/hubs_privacy_notice.md",
-    "locales": [
-      "de",
-      "el",
-      "es-ES",
-      "fr",
-      "hu",
-      "it",
-      "ms",
-      "pl",
-      "pt",
-      "ro"
-    ]
-  },
-  "hubs_tos.md": {
-    "count": 10,
-    "has_source": true,
-    "last_update": "2023-11-01",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/hubs_tos.md",
-    "locales": [
-      "de",
-      "el",
-      "es-ES",
-      "fr",
-      "hu",
-      "it",
-      "ms",
-      "pl",
-      "pt",
-      "ro"
-    ]
-  },
   "mdn_plus_privacy.md": {
     "count": 14,
     "has_source": true,
@@ -424,20 +388,6 @@
       "tr",
       "zh-CN"
     ]
-  },
-  "mozilla_hubs_privacy_notice.md": {
-    "count": 0,
-    "has_source": true,
-    "last_update": "2021-08-04",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_hubs_privacy_notice.md",
-    "locales": []
-  },
-  "mozilla_hubs_tos.md": {
-    "count": 0,
-    "has_source": true,
-    "last_update": "2020-02-09",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/mozilla_hubs_tos.md",
-    "locales": []
   },
   "mozilla_location_services_privacy_notice.md": {
     "count": 0,
