@@ -5,7 +5,7 @@ Hatályos: 2025. február 25-tól
 
 A Firefox egy ingyenes és nyílt forráskódú webböngészőszoftver, amelyet a világ minden tájáról származó, több ezer felhasználóból álló közösség hozott létre.
 
-Figyelmesen olvassa el a jelen Felhasználási feltételeket („Feltételek”), mert fontos információkat tartalmaznak a Firefox szoftver példányának használatával kapcsolatban. A jelen Feltételek kötelező érvényű megállapodást jelentenek a Mozilla Corporation („Mozilla”) és Ön között. A Firefox adatvédelmi gyakorlatával kapcsolatos részletekért olvassa el a [Firefox adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/firefox/).
+Figyelmesen olvassa el a jelen Felhasználási feltételeket („Feltételek”), mert fontos információkat tartalmaznak a Firefox szoftver példányának használatával kapcsolatban. A jelen Feltételek kötelező érvényű megállapodást jelentenek a Mozilla Corporation („Mozilla”) és Ön között. A Firefox adatvédelmi gyakorlatával kapcsolatos részletekért olvassa el a [Firefox adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## A Mozilla bizonyos jogokat és engedélyeket biztosít Önnek
 
@@ -23,7 +23,7 @@ A Mozilla nem biztosít Önnek olyan szellemi tulajdonjogot a Firefox esetében,
 
 ## Ön bizonyos jogokat és engedélyeket biztosít a Mozillának
 
-Ön megadja a Mozillának a Firefox üzemeltetéséhez szükséges összes jogot, beleértve az adatok kezelését a [Firefox adatvédelmi nyilatkozatában](https://www.mozilla.org/privacy/firefox/) leírtak szerint, valamint az Ön nevében való fellépést, hogy segítse az interneten való navigálást. Amikor Ön a Firefoxon keresztül adatokat tölt fel vagy ad meg, ezennel nem kizárólagos, jogdíjmentes, világméretű licencet biztosít számunkra arra, hogy ezeket az adatokat felhasználjuk az online tartalmakban való navigáció, az online tartalmak megtapasztalása és az azzal való interakció elősegítésére, ahogyan azt a Firefox használatával jelzi.
+Ön megadja a Mozillának a Firefox üzemeltetéséhez szükséges összes jogot, beleértve az adatok kezelését a [Firefox adatvédelmi nyilatkozatában](https://www.mozilla.org/privacy/firefox/#notice) leírtak szerint, valamint az Ön nevében való fellépést, hogy segítse az interneten való navigálást. Amikor Ön a Firefoxon keresztül adatokat tölt fel vagy ad meg, ezennel nem kizárólagos, jogdíjmentes, világméretű licencet biztosít számunkra arra, hogy ezeket az adatokat felhasználjuk az online tartalmakban való navigáció, az online tartalmak megtapasztalása és az azzal való interakció elősegítésére, ahogyan azt a Firefox használatával jelzi.
 
 ### Az Ön visszajelzése és javaslatai
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

@@ -5,7 +5,7 @@
 
 Firefox は、世界中から多くの人々が結集したコミュニティによって開発された、無料で使えるオープンソースのウェブブラウザーソフトウェアです。
 
-こちらの利用規約 (以下「規約」) には、Firefox ソフトウェアをご利用になる上で重要な情報が説明されていますので、注意してお読みください。本規約は、Mozilla Corporation (以下「Mozilla」) と皆様の間で交わされる拘束力のある合意です。Firefox のプライバシー慣行の詳細については、[Firefox のプライバシーに関する通知](https://www.mozilla.org/privacy/firefox/) をお読みください。
+こちらの利用規約 (以下「規約」) には、Firefox ソフトウェアをご利用になる上で重要な情報が説明されていますので、注意してお読みください。本規約は、Mozilla Corporation (以下「Mozilla」) と皆様の間で交わされる拘束力のある合意です。Firefox のプライバシー慣行の詳細については、[Firefox のプライバシーに関する通知](https://www.mozilla.org/privacy/firefox/#notice) をお読みください。
 
 ## Mozilla が皆様に付与する権利と許可
 
@@ -23,7 +23,7 @@ Mozilla は、本規約に特段記載されていない Firefox の知的財産
 
 ## 皆様が Mozilla に付与する権利と許可
 
-皆様は Mozilla に、Firefox を運営するために必要な全権を付与するものとします。これには、[Firefox のプライバシーに関する通知](https://www.mozilla.org/privacy/firefox/) に記載されているようにデータを処理することや、皆様がインターネットを使いやすいように皆様に代わって操作することなどが含まれます。Firefox を介して情報をアップロードまたは入力する際、皆様は、Firefox の使用について皆様が指示したようにオンラインコンテンツを移動、体験、および操作するため、当該情報を使用する非独占的で使用料免除の、世界的な許可を Mozilla に与えるものとします。
+皆様は Mozilla に、Firefox を運営するために必要な全権を付与するものとします。これには、[Firefox のプライバシーに関する通知](https://www.mozilla.org/privacy/firefox/#notice) に記載されているようにデータを処理することや、皆様がインターネットを使いやすいように皆様に代わって操作することなどが含まれます。Firefox を介して情報をアップロードまたは入力する際、皆様は、Firefox の使用について皆様が指示したようにオンラインコンテンツを移動、体験、および操作するため、当該情報を使用する非独占的で使用料免除の、世界的な許可を Mozilla に与えるものとします。
 
 ### フィードバックと提案:
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

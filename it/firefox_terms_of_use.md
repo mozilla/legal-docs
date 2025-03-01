@@ -5,7 +5,7 @@ In vigore dal 25 febbraio 2025
 
 Firefox è un browser web gratuito e open source, creato da una comunità di migliaia di persone di tutto il mondo.
 
-Ti preghiamo di leggere attentamente i seguenti Termini di utilizzo (“Termini”) in quanto contengono importanti informazioni sull'utilizzo della tua copia del software Firefox. I presenti Termini costituiscono un accordo vincolante tra te e Mozilla Corporation (“Mozilla”). Per maggiori informazioni sulle prassi di Firefox in materia di privacy, consulta l'[Informativa sulla privacy di Firefox](https://www.mozilla.org/privacy/firefox/).
+Ti preghiamo di leggere attentamente i seguenti Termini di utilizzo (“Termini”) in quanto contengono importanti informazioni sull'utilizzo della tua copia del software Firefox. I presenti Termini costituiscono un accordo vincolante tra te e Mozilla Corporation (“Mozilla”). Per maggiori informazioni sulle prassi di Firefox in materia di privacy, consulta l'[Informativa sulla privacy di Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Diritti e autorizzazioni che Mozilla concede a te
 
@@ -23,7 +23,7 @@ Mozilla non ti concede alcun diritto di proprietà intellettuale su Firefox non 
 
 ## Diritti e autorizzazioni che tu concedi a Mozilla
 
-Tu concedi a Mozilla tutti i diritti necessari a far funzionare Firefox, tra cui quello di elaborare i dati come descritto nell'[Informativa sulla privacy di Firefox](https://www.mozilla.org/privacy/firefox/), e di agire per tuo conto per agevolarti nella navigazione in Internet. Quando carichi o inserisci informazioni tramite Firefox, ci concedi una licenza non esclusiva, esente da royalty e valida in tutto il mondo, per l'utilizzo di tali informazioni per aiutarti a esplorare, fruire e interagire con i contenuti online, come da te accettato con l'utilizzo di Firefox.
+Tu concedi a Mozilla tutti i diritti necessari a far funzionare Firefox, tra cui quello di elaborare i dati come descritto nell'[Informativa sulla privacy di Firefox](https://www.mozilla.org/privacy/firefox/#notice), e di agire per tuo conto per agevolarti nella navigazione in Internet. Quando carichi o inserisci informazioni tramite Firefox, ci concedi una licenza non esclusiva, esente da royalty e valida in tutto il mondo, per l'utilizzo di tali informazioni per aiutarti a esplorare, fruire e interagire con i contenuti online, come da te accettato con l'utilizzo di Firefox.
 
 ### Feedback e suggerimenti
 
@@ -86,4 +86,3 @@ Att.: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

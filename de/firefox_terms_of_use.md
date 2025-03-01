@@ -5,7 +5,7 @@ Gültig ab 25. Februar 2025
 
 Firefox ist eine kostenlose Open-Source-Webbrowser-Software, die von einer Community mit Tausenden von Mitgliedern aus der ganzen Welt entwickelt wird.
 
-Bitte lesen Sie die vorliegenden Nutzungsbedingungen („Bedingungen“) sorgfältig durch. Darin werden wichtige Informationen über die Nutzung Ihrer Kopie der Firefox-Software durch Sie erläutert. Die vorliegenden Bedingungen stellen eine verbindliche Vereinbarung zwischen der Mozilla Corporation („Mozilla“) und Ihnen dar. Ausführliche Informationen zu den Firefox-Datenschutzpraktiken finden Sie im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/).
+Bitte lesen Sie die vorliegenden Nutzungsbedingungen („Bedingungen“) sorgfältig durch. Darin werden wichtige Informationen über die Nutzung Ihrer Kopie der Firefox-Software durch Sie erläutert. Die vorliegenden Bedingungen stellen eine verbindliche Vereinbarung zwischen der Mozilla Corporation („Mozilla“) und Ihnen dar. Ausführliche Informationen zu den Firefox-Datenschutzpraktiken finden Sie im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Mozilla räumt Ihnen gewisse Rechte und Befugnisse ein
 
@@ -23,7 +23,7 @@ Mozilla räumt Ihnen keine Rechte an geistigem Eigentum von Firefox ein, soweit 
 
 ## Sie räumen Mozilla gewisse Rechte und Befugnisse ein
 
-Sie räumen Mozilla sämtliche Rechte ein, die für den Betrieb von Firefox erforderlich sind. Dies schließt Rechte zum Verarbeiten von Daten gemäß der Beschreibung im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/) sowie das Recht ein, in Ihrem Namen zu handeln, um Ihnen die Navigation im Internet zu erleichtern. Wenn Sie Informationen über Firefox hochladen oder eingeben, räumen Sie uns hiermit eine nicht exklusive, gebührenfreie, weltweite Lizenz zur Nutzung dieser Informationen ein, um Ihnen beim Aufrufen und Nutzen von sowie beim Interagieren mit Online-Inhalten zu helfen, wie Sie es durch Ihre Nutzung von Firefox zum Ausdruck bringen.
+Sie räumen Mozilla sämtliche Rechte ein, die für den Betrieb von Firefox erforderlich sind. Dies schließt Rechte zum Verarbeiten von Daten gemäß der Beschreibung im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/#notice) sowie das Recht ein, in Ihrem Namen zu handeln, um Ihnen die Navigation im Internet zu erleichtern. Wenn Sie Informationen über Firefox hochladen oder eingeben, räumen Sie uns hiermit eine nicht exklusive, gebührenfreie, weltweite Lizenz zur Nutzung dieser Informationen ein, um Ihnen beim Aufrufen und Nutzen von sowie beim Interagieren mit Online-Inhalten zu helfen, wie Sie es durch Ihre Nutzung von Firefox zum Ausdruck bringen.
 
 ### Ihr Feedback und Ihre Vorschläge
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105, USA
 
 legal-notices@mozilla.com
-

@@ -5,7 +5,7 @@ Vigente desde el martes, 25 de febrero de 2025
 
 Firefox es un navegador web de código abierto y gratuito, creado por una comunidad de miles de personas de todo el mundo.
 
-Le rogamos que lea atentamente estas Condiciones del servicio («Condiciones»), ya que en ellas se explica información importante sobre el uso que usted hace de su copia del software de Firefox. Estas Condiciones son un acuerdo vinculante entre Mozilla Corporation ("Mozilla") y usted. Para obtener detalles sobre las prácticas de privacidad de Firefox, lea el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/).
+Le rogamos que lea atentamente estas Condiciones del servicio («Condiciones»), ya que en ellas se explica información importante sobre el uso que usted hace de su copia del software de Firefox. Estas Condiciones son un acuerdo vinculante entre Mozilla Corporation ("Mozilla") y usted. Para obtener detalles sobre las prácticas de privacidad de Firefox, lea el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Mozilla le otorga ciertos derechos y permisos
 
@@ -23,7 +23,7 @@ Mozilla no le otorga ningún derecho de propiedad intelectual en Firefox que no 
 
 ## Mozilla le otorga ciertos derechos y permisos
 
-Usted le da a Mozilla todos los derechos necesarios para operar Firefox, incluyendo el procesamiento de datos como describimos en el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/), así como para actuar en su nombre para ayudarle a navegar por internet. Cuando usted sube o introduce información a través de Firefox, usted nos concede una licencia mundial no exclusiva y libre de derechos de autor para usar esa información para ayudarle a navegar, experimentar e interactuar con el contenido en línea según usted indique al usar Firefox.
+Usted le da a Mozilla todos los derechos necesarios para operar Firefox, incluyendo el procesamiento de datos como describimos en el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/#notice), así como para actuar en su nombre para ayudarle a navegar por internet. Cuando usted sube o introduce información a través de Firefox, usted nos concede una licencia mundial no exclusiva y libre de derechos de autor para usar esa información para ayudarle a navegar, experimentar e interactuar con el contenido en línea según usted indique al usar Firefox.
 
 ### Sus comentarios y sugerencias
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

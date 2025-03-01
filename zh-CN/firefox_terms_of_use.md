@@ -5,7 +5,7 @@
 
 Firefox 是一款免费的开源 Web 浏览器软件，由来自全球各地的数千人组成的社区构建。
 
-请仔细阅读使用条款（下称本“条款”），因为它们解释了有关您使用 Firefox 软件副本的重要信息。本条款是 Mozilla Corporation（以下简称“Mozilla”）与您达成的具有约束力的协议。有关 Firefox 隐私政策的详细信息，请阅读 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/)。
+请仔细阅读使用条款（下称本“条款”），因为它们解释了有关您使用 Firefox 软件副本的重要信息。本条款是 Mozilla Corporation（以下简称“Mozilla”）与您达成的具有约束力的协议。有关 Firefox 隐私政策的详细信息，请阅读 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/#notice)。
 
 ## Mozilla 授予您某些权利和权限
 
@@ -23,7 +23,7 @@ Mozilla 不在 Firefox 中向您授予本文条款未明确规定的任何知识
 
 ## 您授予 Mozilla 某些权利和权限
 
-您授予 Mozilla 运营 Firefox 所需的一切权利，包括按照 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/)中的描述处理数据，以及代表您帮助您浏览互联网。当您通过 Firefox 上传或输入信息时，您特此授予我们非排他性、免版税的全球许可，以使用该信息来帮助您导航、体验在线内容并与之交互，就像您在使用 Firefox 时所表明的那样。
+您授予 Mozilla 运营 Firefox 所需的一切权利，包括按照 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/#notice)中的描述处理数据，以及代表您帮助您浏览互联网。当您通过 Firefox 上传或输入信息时，您特此授予我们非排他性、免版税的全球许可，以使用该信息来帮助您导航、体验在线内容并与之交互，就像您在使用 Firefox 时所表明的那样。
 
 ### 您的反馈和建议
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-
