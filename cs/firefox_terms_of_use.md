@@ -5,7 +5,7 @@
 
 Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým vytvořený komunitou tisíců lidí z celého světa.
 
-Pečlivě si prosím přečtěte tyto Podmínky používání (dále jen „Podmínky“) poskytování služeb, neboť vysvětlují důležité informace ohledně využívání kopie softwaru Firefox. Tyto Podmínky představují závaznou smlouvu mezi společností Mozilla Corporation (dále jen „Mozilla“) a vámi. Podrobnosti o postupech ochrany osobních údajů Firefox najdete v dokumentu [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/).
+Pečlivě si prosím přečtěte tyto Podmínky používání (dále jen „Podmínky“) poskytování služeb, neboť vysvětlují důležité informace ohledně využívání kopie softwaru Firefox. Tyto Podmínky představují závaznou smlouvu mezi společností Mozilla Corporation (dále jen „Mozilla“) a vámi. Podrobnosti o postupech ochrany osobních údajů Firefox najdete v dokumentu [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Mozilla vám poskytuje určitá práva a oprávnění
 
@@ -23,7 +23,7 @@ Mozilla vám neposkytuje žádná práva duševního vlastnictví k Firefox, je�
 
 ## Vy společnosti Mozilla poskytuje určitá práva a oprávnění
 
-Společnosti Mozilla udílíte veškerá práva nezbytná pro provozování Firefoxu, včetně zpracování dat tak, jak je popsáno v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/), stejně jako k jednání vaším jménem v rámci pomoci s vaší navigací na internetu. Když nahrajete nebo vložíte informace prostřednictvím Firefoxu, tímto nám udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání takových informací v rámci pomoci při vaší navigaci, zkušenostech a interakcích s online obsahem, který svým používáním Firefox určíte.
+Společnosti Mozilla udílíte veškerá práva nezbytná pro provozování Firefoxu, včetně zpracování dat tak, jak je popsáno v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice), stejně jako k jednání vaším jménem v rámci pomoci s vaší navigací na internetu. Když nahrajete nebo vložíte informace prostřednictvím Firefoxu, tímto nám udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání takových informací v rámci pomoci při vaší navigaci, zkušenostech a interakcích s online obsahem, který svým používáním Firefox určíte.
 
 ### Vaše zpětná vazba a návrhy
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

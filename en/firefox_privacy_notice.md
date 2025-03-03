@@ -489,4 +489,4 @@ We may need to change this policy and our notices, in which case the updates wil
 
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
+[Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)

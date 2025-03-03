@@ -5,7 +5,7 @@ Data de vigência: terça-feira, 25 de fevereiro de 2025
 
 O Firefox é um software de navegador livre e de código aberto criado por uma comunidade de milhares de pessoas de todo o mundo.
 
-Leia estes Termos de uso (“Termos”) com atenção, pois eles contêm informações importantes sobre o uso da sua cópia do software do Firefox. Estes Termos são um acordo vinculante entre a Mozilla Corporation (“Mozilla”) e você. Para saber mais sobre as práticas de privacidade do Firefox, consulte o [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/).
+Leia estes Termos de uso (“Termos”) com atenção, pois eles contêm informações importantes sobre o uso da sua cópia do software do Firefox. Estes Termos são um acordo vinculante entre a Mozilla Corporation (“Mozilla”) e você. Para saber mais sobre as práticas de privacidade do Firefox, consulte o [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Direitos e permissões concedidos pela Mozilla
 
@@ -23,7 +23,7 @@ A Mozilla não concede a você quaisquer direitos de propriedade intelectual sob
 
 ## Direitos e permissões concedidos por você à Mozilla
 
-Você concede à Mozilla todos os direitos necessários para operar o Firefox, incluindo tratar dados, conforme descrito no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/), e agir em seu nome para ajudar você a navegar na internet. Ao carregar ou fornecer informações pelo Firefox, você nos concede, por meio deste, uma licença mundial não exclusiva isenta de royalties para usar essas informações para ajudar você a navegar na internet e interagir com conteúdo online conforme indicado por seu uso do Firefox.
+Você concede à Mozilla todos os direitos necessários para operar o Firefox, incluindo tratar dados, conforme descrito no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice), e agir em seu nome para ajudar você a navegar na internet. Ao carregar ou fornecer informações pelo Firefox, você nos concede, por meio deste, uma licença mundial não exclusiva isenta de royalties para usar essas informações para ajudar você a navegar na internet e interagir com conteúdo online conforme indicado por seu uso do Firefox.
 
 ### Feedback e sugestões
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

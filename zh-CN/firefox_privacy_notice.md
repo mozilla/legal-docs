@@ -489,4 +489,4 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
 
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
+[Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
