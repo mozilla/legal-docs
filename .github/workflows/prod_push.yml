@@ -49,7 +49,7 @@ jobs:
             rsync -aIv --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json","en/archive"} "${SUPPORT_DIR}/" ./ --delete
           else
             # Only copy new files
-            rsync -aIv "${SUPPORT_DIR}/" ./
+            rsync -aIv --exclude={"/*.md","en/archive"} "${SUPPORT_DIR}/" ./
           fi
       - name: Commit changes to prod_updates branch
         continue-on-error: true
