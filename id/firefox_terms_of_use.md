@@ -5,7 +5,7 @@ Berlaku 25 Februari 2025
 
 Firefox adalah perangkat lunak browser web sumber terbuka dan gratis, yang dibangun komunitas yang terdiri dari ribuan orang dari seluruh dunia.
 
-Silakan baca Ketentuan Penggunaan (“Ketentuan”) ini dengan saksama karena terdapat informasi penting tentang penggunaan salinan perangkat lunak Firefox Anda. Ketentuan ini adalah perjanjian yang mengikat antara Mozilla Corporation (“Mozilla”) dan Anda. Untuk detail tentang praktik privasi Firefox, silakan baca [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/).
+Silakan baca Ketentuan Penggunaan (“Ketentuan”) ini dengan saksama karena terdapat informasi penting tentang penggunaan salinan perangkat lunak Firefox Anda. Ketentuan ini adalah perjanjian yang mengikat antara Mozilla Corporation (“Mozilla”) dan Anda. Untuk detail tentang praktik privasi Firefox, silakan baca [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Mozilla Memberi Anda Beberapa Hak dan Izin tertentu
 
@@ -23,7 +23,7 @@ Mozilla tidak memberi Anda hak kekayaan intelektual apa pun atas Firefox yang ti
 
 ## Anda Memberi Mozilla Beberapa Hak dan Izin tertentu
 
-Anda memberi Mozilla semua hak yang diperlukan untuk mengoperasikan Firefox, termasuk memproses data seperti yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/), serta bertindak atas nama Anda untuk membantu Anda menavigasi internet. Saat Anda mengunggah atau memasukkan informasi melalui Firefox, Anda dengan ini memberi kami lisensi non-eksklusif, bebas royalti, dan berlaku di seluruh dunia untuk menggunakan informasi tersebut guna membantu Anda menavigasi, merasakan, dan berinteraksi dengan konten online sebagaimana yang Anda indikasikan dengan penggunaan Anda atas Firefox.
+Anda memberi Mozilla semua hak yang diperlukan untuk mengoperasikan Firefox, termasuk memproses data seperti yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice), serta bertindak atas nama Anda untuk membantu Anda menavigasi internet. Saat Anda mengunggah atau memasukkan informasi melalui Firefox, Anda dengan ini memberi kami lisensi non-eksklusif, bebas royalti, dan berlaku di seluruh dunia untuk menggunakan informasi tersebut guna membantu Anda menavigasi, merasakan, dan berinteraksi dengan konten online sebagaimana yang Anda indikasikan dengan penggunaan Anda atas Firefox.
 
 ### Masukan dan Saran Anda
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-

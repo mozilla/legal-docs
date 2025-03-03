@@ -5,7 +5,7 @@ Van kracht vanaf dinsdag 25 februari 2025
 
 Firefox is gratis webbrowsersoftware op basis van open broncode, gebouwd door een community van duizenden mensen van over de hele wereld.
 
-Lees deze Gebruiksvoorwaarden (Voorwaarden) zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Firefox-software. Deze Voorwaarden zijn een bindende overeenkomst tussen Mozilla Corporation (Mozilla) en u. Lees de [Firefox-privacyverklaring](https://www.mozilla.org/privacy/firefox/) voor meer informatie over privacyprocedures van Firefox.
+Lees deze Gebruiksvoorwaarden (Voorwaarden) zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Firefox-software. Deze Voorwaarden zijn een bindende overeenkomst tussen Mozilla Corporation (Mozilla) en u. Lees de [Firefox-privacyverklaring](https://www.mozilla.org/privacy/firefox/#notice) voor meer informatie over privacyprocedures van Firefox.
 
 ## Mozilla verleent u bepaalde rechten en toestemmingen
 
@@ -23,7 +23,7 @@ Mozilla verleent u geen intellectuele eigendomsrechten in Firefox die niet nadru
 
 ## U verleent bepaalde rechten en toestemmingen aan Mozilla
 
-U verleent Mozilla alle benodigde rechten voor het verzorgen van Firefox, waaronder het verwerken van gegevens, zoals is beschreven in de [Firefox-privacyverklaring](https://www.mozilla.org/privacy/firefox/), en voor het handelen namens u, zodat u op internet kunt navigeren. Wanneer u informatie uploadt of invoert via Firefox, verleent u ons hierbij een niet-exclusieve, royaltyvrije, wereldwijde licentie om die informatie te gebruiken om u te helpen bij het navigeren, ervaren en gebruiken van online content, zoals u dat aangeeft via uw gebruik van Firefox.
+U verleent Mozilla alle benodigde rechten voor het verzorgen van Firefox, waaronder het verwerken van gegevens, zoals is beschreven in de [Firefox-privacyverklaring](https://www.mozilla.org/privacy/firefox/#notice), en voor het handelen namens u, zodat u op internet kunt navigeren. Wanneer u informatie uploadt of invoert via Firefox, verleent u ons hierbij een niet-exclusieve, royaltyvrije, wereldwijde licentie om die informatie te gebruiken om u te helpen bij het navigeren, ervaren en gebruiken van online content, zoals u dat aangeeft via uw gebruik van Firefox.
 
 ### Uw feedback en suggesties
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-
