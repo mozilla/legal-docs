@@ -5,7 +5,7 @@ Data wejścia w życie: 25 lutego 2025 r.
 
 Firefox to darmowa przeglądarka internetowa typu open source, stworzona przez wielotysięczną społeczność z całego świata.
 
-Należy uważnie przeczytać niniejsze Warunki użytkowania („Warunki”), ponieważ wyjaśniają one ważne informacje dotyczące korzystania z kopii oprogramowania Firefox. Niniejsze Warunki stanowią wiążącą umowę pomiędzy firmą Mozilla Corporation („Mozilla”) a użytkownikiem. Aby uzyskać szczegółowe informacje na temat praktyk przeglądarki Firefox w zakresie ochrony prywatności, zapoznaj się z [Zasadami prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/).
+Należy uważnie przeczytać niniejsze Warunki użytkowania („Warunki”), ponieważ wyjaśniają one ważne informacje dotyczące korzystania z kopii oprogramowania Firefox. Niniejsze Warunki stanowią wiążącą umowę pomiędzy firmą Mozilla Corporation („Mozilla”) a użytkownikiem. Aby uzyskać szczegółowe informacje na temat praktyk przeglądarki Firefox w zakresie ochrony prywatności, zapoznaj się z [Zasadami prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ## Mozilla przyznaje użytkownikowi pewne prawa i uprawnienia
 
@@ -23,7 +23,7 @@ Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej
 
 ## Użytkownik przyznaje firmie Mozilla pewne prawa i uprawnienia
 
-Użytkownik przyznaje firmie Mozilla wszelkie prawa niezbędne do obsługi przeglądarki Firefox, w tym do przetwarzania danych w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/), a także do działania w imieniu użytkownika w celu ułatwienia mu poruszania się po Internecie. Przesyłając lub wprowadzając informacje za pośrednictwem przeglądarki Firefox, użytkownik niniejszym udziela nam niewyłącznej, nieodpłatnej, obowiązującej na całym świecie licencji na wykorzystywanie tych informacji w celu ułatwienia użytkownikowi nawigacji, korzystania z treści online i interakcji z nimi w sposób wskazany przez użytkownika podczas korzystania z przeglądarki Firefox.
+Użytkownik przyznaje firmie Mozilla wszelkie prawa niezbędne do obsługi przeglądarki Firefox, w tym do przetwarzania danych w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice), a także do działania w imieniu użytkownika w celu ułatwienia mu poruszania się po Internecie. Przesyłając lub wprowadzając informacje za pośrednictwem przeglądarki Firefox, użytkownik niniejszym udziela nam niewyłącznej, nieodpłatnej, obowiązującej na całym świecie licencji na wykorzystywanie tych informacji w celu ułatwienia użytkownikowi nawigacji, korzystania z treści online i interakcji z nimi w sposób wskazany przez użytkownika podczas korzystania z przeglądarki Firefox.
 
 ### Opinie i sugestie użytkownika
 
@@ -86,4 +86,3 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
-
