@@ -1,7 +1,7 @@
 ﻿# Gebruiksvoorwaarden van Firefox
 
-Van kracht vanaf dinsdag 25 februari 2025
-{: datetime="2025-02-25" }
+Van kracht vanaf 28 februari 2025
+{: datetime="2025-02-28" }
 
 Firefox is gratis webbrowsersoftware op basis van open broncode, gebouwd door een community van duizenden mensen van over de hele wereld.
 
@@ -23,7 +23,7 @@ Mozilla verleent u geen intellectuele eigendomsrechten in Firefox die niet nadru
 
 ## U verleent bepaalde rechten en toestemmingen aan Mozilla
 
-U verleent Mozilla alle benodigde rechten voor het verzorgen van Firefox, waaronder het verwerken van gegevens, zoals is beschreven in de [Firefox-privacyverklaring](https://www.mozilla.org/privacy/firefox/#notice), en voor het handelen namens u, zodat u op internet kunt navigeren. Wanneer u informatie uploadt of invoert via Firefox, verleent u ons hierbij een niet-exclusieve, royaltyvrije, wereldwijde licentie om die informatie te gebruiken om u te helpen bij het navigeren, ervaren en gebruiken van online content, zoals u dat aangeeft via uw gebruik van Firefox.
+U verleent Mozilla de benodigde rechten voor het verzorgen van Firefox. Dit omvat het verwerken van uw gegevens zoals is beschreven in de [Privacyverklaring van Firefox](https://www.mozilla.org/privacy/firefox/#notice). Dit omvat ook een niet-exclusieve, royaltyvrije, wereldwijde licentie om te doen wat u aanvraagt via de content die u invoert in Firefox. U verleent Mozilla hierdoor geen enkel eigendomsrecht met betrekking tot die content.
 
 ### Uw feedback en suggesties
 
@@ -51,7 +51,7 @@ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt
 
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van Firefox
 
-Uw gebruik van Firefox moet in overeenstemming zijn met het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla, en u stemt ermee in dat u Firefox niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
+U stemt ermee in dat u Firefox niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van wetten of voorschriften.
 
 U onthoudt zich van welke activiteit dan ook die services of producten van Mozilla (of de servers en netwerken die zijn verbonden met services van Mozilla) stoort of onderbreekt.
 
