@@ -1,7 +1,7 @@
 ﻿# Conditions d'utilisation de Firefox
 
-Date d'effet : mardi 25 février 2025
-{: datetime="2025-02-25" }
+Date d'effet : vendredi 28 février 2025
+{: datetime="2025-02-28" }
 
 Firefox est un logiciel de navigation Web open source gratuit, développé par une communauté de millions de personnes dans le monde entier.
 
@@ -23,7 +23,7 @@ Mozilla ne vous cède aucun droit de propriété intellectuelle sur Firefox, qui
 
 ## Vous accordez à Mozilla certains droits et autorisations
 
-Vous accordez à Mozilla tous les droits nécessaires au fonctionnement de Firefox, dont les données de traitement tel que décrit dans l'[Avis de confidentialité de Firefox](https://www.mozilla.org/privacy/firefox/#notice), et toutes actions en votre nom destinées à aider à naviguer sur Internet. Lorsque vous chargez ou entrez des informations par le biais de Firefox, vous nous accordez une licence mondiale non exclusive et excluant toute redevance pour l'utilisation de ces informations pour vous aider à naviguer, utiliser et interagir avec du contenu en ligne dans le cadre de votre utilisation de Firefox.
+Vous accordez à Mozilla les droits nécessaires au fonctionnement de Firefox. Cela inclut le traitement de vos données, tel que décrit dans l'[Avis de confidentialité de Firefox](https://www.mozilla.org/privacy/firefox/#notice). Est également incluse une licence non exclusive, libre de droits et mondiale pour faire ce que vous demandez avec le contenu que vous entrez dans Firefox. Cela ne donne à Mozilla aucun droit de propriété sur ce contenu.
 
 ### Vos commentaires et suggestions
 
@@ -51,7 +51,7 @@ Ces Conditions resteront en vigueur jusqu’à ce que vous ou Mozilla décidiez 
 
 ## Vous êtes responsable des conséquences de votre utilisation de Firefox
 
-Votre utilisation de Firefox doit se conformer à la [Politique d'utilisation acceptable](https://www.mozilla.org/about/legal/acceptable-use/), et vous acceptez de ne pas utiliser Firefox pour violer les droits de quiconque ou d'enfreindre la législation ou la réglementation en vigueur.
+Vous acceptez de ne pas utiliser Firefox de manière à empiéter sur les droits de quiconque ou pour enfreindre les lois ou règlements en vigueur.
 
 Vous ne participerez pas à des activités qui empêchent ou interrompent les services ou produits de Mozilla (ou les serveurs et réseaux connectés aux services de Mozilla).
 

@@ -1,7 +1,7 @@
 ﻿# Firefox 使用条款
 
-2025 年 2 月 25 日生效
-{: datetime="2025-02-25" }
+2025 年 02 月 28 日生效
+{: datetime="2025-02-28" }
 
 Firefox 是一款免费的开源 Web 浏览器软件，由来自全球各地的数千人组成的社区构建。
 
@@ -23,7 +23,7 @@ Mozilla 不在 Firefox 中向您授予本文条款未明确规定的任何知识
 
 ## 您授予 Mozilla 某些权利和权限
 
-您授予 Mozilla 运营 Firefox 所需的一切权利，包括按照 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/#notice)中的描述处理数据，以及代表您帮助您浏览互联网。当您通过 Firefox 上传或输入信息时，您特此授予我们非排他性、免版税的全球许可，以使用该信息来帮助您导航、体验在线内容并与之交互，就像您在使用 Firefox 时所表明的那样。
+您允许 Mozilla 获取必要的权限，以确保 Firefox 正常运行。其中包括按照 [Firefox 隐私声明](https://www.mozilla.org/privacy/firefox/#notice)中的规定处理您的数据。此外，这还授予 Mozilla 一项非独占、免版税、全球适用的许可，以便其能够按照您的请求处理您在 Firefox 中输入的内容。但这并不赋予 Mozilla 对该内容的任何所有权。
 
 ### 您的反馈和建议
 
@@ -51,7 +51,7 @@ Mozilla 可能会每隔一段时间决定更新本条款。我们将在线发布
 
 ## 您对使用 Firefox 的后果负责
 
-您对 Firefox 的使用必须遵循 Mozilla 的[可接受使用政策](https://www.mozilla.org/about/legal/acceptable-use/)，并且您同意不会使用 Firefox 侵犯任何人的权利或违反任何适用的法律或法规。
+您同意，不得利用 Firefox 侵犯他人的合法权益或违反适用的法律法规。
 
 您不会做出任何干扰或破坏 Mozilla 服务或产品（或者连接 Mozilla 服务的服务器和网络）的行为。
 

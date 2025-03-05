@@ -1,7 +1,7 @@
 ﻿# Firefox felhasználási feltételek
 
-Hatályos: 2025. február 25-tól
-{: datetime="2025-02-25" }
+Hatályos: 2025. február 28-tól
+{: datetime="2025-02-28" }
 
 A Firefox egy ingyenes és nyílt forráskódú webböngészőszoftver, amelyet a világ minden tájáról származó, több ezer felhasználóból álló közösség hozott létre.
 
@@ -23,7 +23,7 @@ A Mozilla nem biztosít Önnek olyan szellemi tulajdonjogot a Firefox esetében,
 
 ## Ön bizonyos jogokat és engedélyeket biztosít a Mozillának
 
-Ön megadja a Mozillának a Firefox üzemeltetéséhez szükséges összes jogot, beleértve az adatok kezelését a [Firefox adatvédelmi nyilatkozatában](https://www.mozilla.org/privacy/firefox/#notice) leírtak szerint, valamint az Ön nevében való fellépést, hogy segítse az interneten való navigálást. Amikor Ön a Firefoxon keresztül adatokat tölt fel vagy ad meg, ezennel nem kizárólagos, jogdíjmentes, világméretű licencet biztosít számunkra arra, hogy ezeket az adatokat felhasználjuk az online tartalmakban való navigáció, az online tartalmak megtapasztalása és az azzal való interakció elősegítésére, ahogyan azt a Firefox használatával jelzi.
+Ön megadja a Mozillának a Firefox működtetéséhez szükséges jogokat. Ez magában foglalja az adatainak a [Firefox adatvédelmi közleményében](https://www.mozilla.org/privacy/firefox/#notice) leírtak szerinti kezelését. Ez egy nem kizárólagos, jogdíjmentes, globális licencet is magában foglal, amelynek célja, hogy Ön a kérésének megfelelően használhassa a Firefoxba bevitt tartalmakat. Ezzel nem ad a Mozillának tulajdonjogot az adott tartalom esetében.
 
 ### Az Ön visszajelzése és javaslatai
 
@@ -51,7 +51,7 @@ Ezek a feltételek mindaddig érvényesek, amíg Ön vagy a Mozilla úgy dönt, 
 
 ## Ön felelős a Firefox használatának következményeiért
 
-A Firefox használata közben be kell tartania a Mozilla [Elfogadható használatra vonatkozó szabályzatát](https://www.mozilla.org/about/legal/acceptable-use/), és beleegyezik abba, hogy a Firefox használatával nem sérti meg senki jogait, illetve nem sérti meg a vonatkozó jogszabályokat vagy rendelkezéseket.
+Ön vállalja, hogy nem arra használja a Firefoxot, hogy mások jogait megsértse, vagy bármilyen alkalmazandó jogszabályt vagy rendeletet megszegjen.
 
 Nem vesz részt olyan tevékenységben, amely zavarja vagy megszakítja a Mozilla szolgáltatásainak nyújtását vagy termékeinek rendelkezésre bocsátását (vagy a Mozilla szolgáltatásaival kapcsolatos szervereket vagy hálózatokat).
 

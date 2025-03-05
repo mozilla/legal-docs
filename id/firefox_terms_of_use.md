@@ -1,7 +1,7 @@
 ﻿# Ketentuan Penggunaan Firefox
 
-Berlaku 25 Februari 2025
-{: datetime="2025-02-25" }
+Berlaku 28 Februari 2025
+{: datetime="2025-02-28" }
 
 Firefox adalah perangkat lunak browser web sumber terbuka dan gratis, yang dibangun komunitas yang terdiri dari ribuan orang dari seluruh dunia.
 
@@ -23,7 +23,7 @@ Mozilla tidak memberi Anda hak kekayaan intelektual apa pun atas Firefox yang ti
 
 ## Anda Memberi Mozilla Beberapa Hak dan Izin tertentu
 
-Anda memberi Mozilla semua hak yang diperlukan untuk mengoperasikan Firefox, termasuk memproses data seperti yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice), serta bertindak atas nama Anda untuk membantu Anda menavigasi internet. Saat Anda mengunggah atau memasukkan informasi melalui Firefox, Anda dengan ini memberi kami lisensi non-eksklusif, bebas royalti, dan berlaku di seluruh dunia untuk menggunakan informasi tersebut guna membantu Anda menavigasi, merasakan, dan berinteraksi dengan konten online sebagaimana yang Anda indikasikan dengan penggunaan Anda atas Firefox.
+Anda memberi Mozilla hak yang diperlukan untuk mengoperasikan Firefox. Hak ini termasuk memproses data Anda sebagaimana yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice). Ini juga termasuk lisensi non-eksklusif, bebas royalti, dan berlaku di seluruh dunia untuk tujuan melakukan apa yang Anda minta dengan konten yang Anda masukkan di Firefox. Ini tidak memberi Mozilla kepemilikan apa pun atas konten tersebut.
 
 ### Masukan dan Saran Anda
 
@@ -51,7 +51,7 @@ Ketentuan ini berlaku hingga Anda atau Mozilla memutuskan untuk mengakhirinya. A
 
 ## Anda Bertanggung Jawab atas Konsekuensi Penggunaan Layanan Anda
 
-Penggunaan Anda atas Firefox harus mematuhi [Kebijakan Penggunaan yang Dapat Diterima](https://www.mozilla.org/about/legal/acceptable-use/) Mozilla, dan Anda setuju bahwa Anda tidak akan menggunakan Firefox untuk melanggar hak siapa pun atau melanggar hukum atau peraturan apa pun yang berlaku.
+Anda setuju bahwa Anda tidak akan menggunakan Firefox untuk melanggar hak siapa pun atau melanggar peraturan perundang-undangan yang berlaku.
 
 Anda tidak akan terlibat dalam segala aktivitas yang mengganggu atau mengacaukan layanan atau produk Mozilla (atau server dan jaringan yang tersambung ke layanan Mozilla).
 
