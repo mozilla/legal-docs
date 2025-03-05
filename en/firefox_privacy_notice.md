@@ -234,7 +234,7 @@ We may need to change this policy and our notices, in which case the updates wil
 <table>
     <thead>
         <tr>
-            <th><a id="bookmark-how-we-use-data"></a>What we use your data for</th>
+            <th>What we use your data for</th>
             <th>What data we process</th>
             <th>Our lawful basis</th>
             <th>More information, including choosing how you want to share this data in Firefox</th>
@@ -242,7 +242,7 @@ We may need to change this policy and our notices, in which case the updates wil
     </thead>
     <tbody>
         <tr>
-            <td>To provide you with the Firefox browser</td>
+            <td><a id="bookmark-how-we-use-data"></a>To provide you with the Firefox browser</td>
             <td>
                 <ul>
                     <li>Technical data</li>
@@ -489,4 +489,4 @@ We may need to change this policy and our notices, in which case the updates wil
 
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
+[Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
