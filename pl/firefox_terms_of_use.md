@@ -1,7 +1,7 @@
 ﻿# Warunki użytkowania przeglądarki Firefox
 
-Data wejścia w życie: 25 lutego 2025 r.
-{: datetime="2025-02-25" }
+Data wejścia w życie: 28 lutego 2025 r.
+{: datetime="2025-02-28" }
 
 Firefox to darmowa przeglądarka internetowa typu open source, stworzona przez wielotysięczną społeczność z całego świata.
 
@@ -23,7 +23,7 @@ Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej
 
 ## Użytkownik przyznaje firmie Mozilla pewne prawa i uprawnienia
 
-Użytkownik przyznaje firmie Mozilla wszelkie prawa niezbędne do obsługi przeglądarki Firefox, w tym do przetwarzania danych w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice), a także do działania w imieniu użytkownika w celu ułatwienia mu poruszania się po Internecie. Przesyłając lub wprowadzając informacje za pośrednictwem przeglądarki Firefox, użytkownik niniejszym udziela nam niewyłącznej, nieodpłatnej, obowiązującej na całym świecie licencji na wykorzystywanie tych informacji w celu ułatwienia użytkownikowi nawigacji, korzystania z treści online i interakcji z nimi w sposób wskazany przez użytkownika podczas korzystania z przeglądarki Firefox.
+Użytkownik nadaje firmie Mozilla uprawnienia wymagane do obsługi przeglądarki Firefox. Obejmuje to przetwarzanie danych użytkownika w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice). Obejmuje to również niewyłączną, wolną od tantiem, ważną na całym świecie licencję na wykonywanie żądanych przez użytkownika czynności dotyczących zawartości wprowadzanej przez użytkownika do przeglądarki Firefox. Nie powoduje to nadania firmie Mozilla jakichkolwiek praw własności do takiej zawartości.
 
 ### Opinie i sugestie użytkownika
 
@@ -51,7 +51,7 @@ Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zde
 
 ## Użytkownik ponosi odpowiedzialność za konsekwencje korzystania z przeglądarki Firefox
 
-Korzystanie z przeglądarki Firefox przez użytkownika musi być zgodne z [Zasadami dopuszczalnego użytkowania firmy Mozilla](https://www.mozilla.org/about/legal/acceptable-use/), a użytkownik zobowiązuje się, że nie będzie korzystał z przeglądarki Firefox w celu naruszania czyichkolwiek praw lub łamania jakichkolwiek obowiązujących przepisów prawa lub regulacji.
+Użytkownik zobowiązuje się nie korzystać z przeglądarki Firefox w celu naruszania czyichkolwiek praw lub łamania jakichkolwiek przepisów prawa i regulacji.
 
 Użytkownik nie będzie podejmować żadnych działań zakłócających działanie usług lub produktów firmy Mozilla (lub powiązanych z nimi serwerów i sieci).
 

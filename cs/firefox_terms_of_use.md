@@ -1,7 +1,7 @@
 ﻿# Podmínky používání Firefoxu
 
-Účinné od 25. února 2025
-{: datetime="2025-02-25" }
+Účinné od 28. února 2025
+{: datetime="2025-02-28" }
 
 Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým vytvořený komunitou tisíců lidí z celého světa.
 
@@ -23,7 +23,7 @@ Mozilla vám neposkytuje žádná práva duševního vlastnictví k Firefox, je�
 
 ## Vy společnosti Mozilla poskytuje určitá práva a oprávnění
 
-Společnosti Mozilla udílíte veškerá práva nezbytná pro provozování Firefoxu, včetně zpracování dat tak, jak je popsáno v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice), stejně jako k jednání vaším jménem v rámci pomoci s vaší navigací na internetu. Když nahrajete nebo vložíte informace prostřednictvím Firefoxu, tímto nám udílíte nevýhradní, bezplatnou, celosvětovou licenci k používání takových informací v rámci pomoci při vaší navigaci, zkušenostech a interakcích s online obsahem, který svým používáním Firefox určíte.
+Společnosti Mozilla udílíte práva nezbytná pro provozování Firefox. To zahrnuje zpracovávání vašich údajů v souladu s popisem v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice). To zahrnuje rovněž nevýhradní, bezplatnou, celosvětovou licenci pro účely splnění vašich požadavků ohledně obsahu vámi vloženého do Firefoxu. To společnosti Mozilla neposkytuje žádné vlastnictví k příslušnému obsahu.
 
 ### Vaše zpětná vazba a návrhy
 
@@ -51,7 +51,7 @@ Tyto Podmínky platí, dokud se vy nebo společnost Mozilla nerozhodnete je ukon
 
 ## Nesete odpovědnost za důsledky vašeho využívání Firefoxu
 
-Vaše používání Firefoxu musí být v souladu se [Zásadami přijatelného použití](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla a souhlasíte, že Firefox nebudete používat k narušení práv žádných osob ani porušování jakýchkoliv platných právních předpis.ů či nařízení.
+Souhlasíte, že Firefox nebudete používat k porušování práv žádných dalších osob, ani k porušování žádných platných právních předpisů či nařízení.
 
 Nebudete dělat nic, co by ovlivňovalo či narušovalo služby nebo produkty společnosti Mozilla (nebo servery a sítě spojené se službami společnosti Mozilla).
 
