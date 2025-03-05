@@ -1,7 +1,7 @@
 ﻿# Condiciones de uso de Firefox
 
-Vigente desde el martes, 25 de febrero de 2025
-{: datetime="2025-02-25" }
+Vigente desde el 28 de febrero de 2025
+{: datetime="2025-02-28" }
 
 Firefox es un navegador web de código abierto y gratuito, creado por una comunidad de miles de personas de todo el mundo.
 
@@ -23,7 +23,7 @@ Mozilla no le otorga ningún derecho de propiedad intelectual en Firefox que no 
 
 ## Mozilla le otorga ciertos derechos y permisos
 
-Usted le da a Mozilla todos los derechos necesarios para operar Firefox, incluyendo el procesamiento de datos como describimos en el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/#notice), así como para actuar en su nombre para ayudarle a navegar por internet. Cuando usted sube o introduce información a través de Firefox, usted nos concede una licencia mundial no exclusiva y libre de derechos de autor para usar esa información para ayudarle a navegar, experimentar e interactuar con el contenido en línea según usted indique al usar Firefox.
+Usted le da a Mozilla los derechos necesarios para operar Firefox. Esto incluye el procesamiento de sus datos según lo descrito en el [Aviso de privacidad de Firefox](https://www.mozilla.org/privacy/firefox/#notice). También incluye una licencia mundial, no exclusiva y libre de regalías con el propósito de hacer lo que usted solicite con el contenido que ingrese en Firefox. Esto no le da a Mozilla ningún derecho de propiedad sobre ese contenido.
 
 ### Sus comentarios y sugerencias
 
@@ -51,7 +51,7 @@ El Servicio se regirá por las presentes Condiciones hasta que usted o Mozilla d
 
 ## Usted es responsable de las consecuencias del uso que haga de Firefox
 
-Su uso de Firefox debe seguir la [Política de uso aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla, y usted acepta que no usará Firefox para infringir los derechos de nadie o violar ninguna ley o regulación aplicable.
+Usted acepta que no usará Firefox para infringir los derechos de nadie ni violar ninguna ley o regulación aplicable.
 
 Usted no hará nada que interfiera en los servicios o productos de Mozilla (o los servidores y las redes relacionados con los servicios de Mozilla), o que los interrumpa.
 
