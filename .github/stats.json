@@ -333,15 +333,6 @@
       "zh-CN"
     ]
   },
-  "ossn_site_privacy_notice.md": {
-    "count": 1,
-    "has_source": true,
-    "last_update": "2019-03-01",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/ossn_site_privacy_notice.md",
-    "locales": [
-      "es"
-    ]
-  },
   "pocket_privacy_policy.md": {
     "count": 12,
     "has_source": true,
@@ -395,13 +386,6 @@
       "zh-CN",
       "zh-TW"
     ]
-  },
-  "privacy_notice_summary.md": {
-    "count": 0,
-    "has_source": true,
-    "last_update": "2016-03-17",
-    "link": "https://github.com/mozilla/legal-docs/tree/main/en/privacy_notice_summary.md",
-    "locales": []
   },
   "report_infringement.md": {
     "count": 13,

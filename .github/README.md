@@ -16,7 +16,6 @@ List of translated files (number of locales between parentheses):
 * mdn_plus_terms.md (14)
 * mozilla_accounts_privacy_notice.md (12)
 * mozilla_privacy_policy.md (13)
-* ossn_site_privacy_notice.md (1)
 * pocket_privacy_policy.md (12)
 * pocket_privacy_policy_eu.md (6)
 * pocket_tos.md (12)
@@ -34,6 +33,5 @@ List of files not translated:
 * formulaic_report_violation.md
 * formulaic_tos.md
 * mozilla_location_services_privacy_notice.md
-* privacy_notice_summary.md
 * thunderbird_about_rights.md
 * thunderbird_privacy_policy.md
