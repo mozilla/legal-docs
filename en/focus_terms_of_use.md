@@ -1,7 +1,7 @@
 # Firefox Focus and Klar Terms of Use
 
-Effective February 28, 2025
-{: datetime="2025-02-28" }
+Effective April 22, 2025
+{: datetime="2025-04-22" }
 
 Firefox is free and open source web browser software, built by a community of thousands from all over the world.
 
