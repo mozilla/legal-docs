@@ -15,7 +15,7 @@ That’s why we build Firefox Focus and Klar, and all our products, to give you 
 
 Focus and Klar process technical and settings data, as well as browsing history, web form data, temporary internet files, and cookies **on your device** to provide the core functionality of the browser, distinguish your device from others, remember and respect your settings. This means the data stays on your device unless it says otherwise in this Notice. Your browsing data is cleared from your device whenever you close your browser.
 
-Additionally, if you choose to allow it, your precise location may be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for —— it is not sent to Mozilla's servers. You can tap the trash can icon in the toolbar at any time to delete your browsing data or update your [location permissions](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) at any time.
+Additionally, if you choose to allow it, your precise location may be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for — it is not sent to Mozilla's servers. You can tap the trash can icon in the toolbar at any time to delete your browsing data or update your [location permissions](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) at any time.
 
 #### Provide and improve search functionality
 
@@ -41,8 +41,9 @@ You can see more detail about the information we collect for [Focus on Android](
 
 To provide our services as described above, we may disclose personal data to:
 
-| Search Engine Providers | To offer you a variety of search engine providers, we have contractual agreements in place with various search providers. |
+|  |  |
 | ----- | ----- |
+| Search Engine Providers | To offer you a variety of search engine providers, we have contractual agreements in place with various search providers. |
 | Mozilla controlled entities and successors | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
 ## International Transfers of Data
@@ -67,9 +68,9 @@ To make any of the above requests regarding your personal data, please contact u
 
 If you’re in the UK or EEA, you can also contact our Data Protection Officer at [dpo@mozilla.com](mailto:dpo@mozilla.com), or by mail at:
 
-Bird & Bird DPO Services SRL
-Avenue Louise 235 b 1
-1050 Brussels
+Bird & Bird DPO Services SRL<br>
+Avenue Louise 235 b 1<br>
+1050 Brussels<br>
 Belgium
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws, and we may need to ask you for additional information to confirm your identity before we can proceed with your request.
@@ -105,7 +106,7 @@ We may need to change this policy and our notices, in which case the updates wil
 
 | What your data is used for | What data is processed | Our lawful basis |
 | ----- | ----- | ----- |
-| To provide you with the Firefox Focus and Klar browser | Any data type may be processed locally on your device.  | **Contract** to provide you with the necessary functionality for Focus and Klar to operate.  **Legitimate interest** in making the data on your device work for you. |
+| To provide you with the Firefox Focus and Klar browser | Any data type may be processed locally on your device.  | **Contract** to provide you with the necessary functionality for Focus and Klar to operate. <br>**Legitimate interest** in making the data on your device work for you. |
 | To provide and improve search functionality | Location Language preference  Search data | **Legitimate interest** in providing search functionality. |
 | To maintain and improve features, performance and stability | Technical data Unique identifiers System performance Browsing data | **Consent** when you choose to send us crash reports. |
 | To improve security | Technical data Location  Unique identifiers  Browsing data (for DNS over HTTPs only) | **Legitimate interest** in providing  additional security measures. |
@@ -114,7 +115,11 @@ We may need to change this policy and our notices, in which case the updates wil
 ## Privacy Notices for Search Providers
 
 [Google](https://policies.google.com/privacy)
+
 [DuckDuckGo](https://duckduckgo.com/privacy)
+
 [Amazon.com](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
+
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
