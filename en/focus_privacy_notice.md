@@ -7,31 +7,29 @@ Effective April 22, 2025
 
 That’s why we build Firefox Focus and Klar, and all our products, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information.
 
-## Full Privacy Notice for Firefox Focus and Klar
+## How Mozilla processes your data
 
-### Mozilla processes your data to:
-
-#### Provide you with the Firefox Focus and Klar browser
+### To provide you with the Firefox Focus and Klar browser
 
 Focus and Klar process technical and settings data, as well as browsing history, web form data, temporary internet files, and cookies **on your device** to provide the core functionality of the browser, distinguish your device from others, remember and respect your settings. This means the data stays on your device unless it says otherwise in this Notice. Your browsing data is cleared from your device whenever you close your browser.
 
 Additionally, if you choose to allow it, your precise location may be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for — it is not sent to Mozilla's servers. You can tap the trash can icon in the toolbar at any time to delete your browsing data or update your [location permissions](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) at any time.
 
-#### Provide and improve search functionality
+### To provide and improve search functionality
 
 When you perform a search, your search query, device information and location data will be processed by your default search engine (according to their [applicable Privacy Notice](#privacy-notices-for-search-providers)) to provide your search results. You can also choose to enable your default search engine to provide search suggestions.
 
-#### Maintain and improve performance and stability
+### To maintain and improve performance and stability
 
 If Focus or Klar (on Android) encounters an unexpected issue, the [Mozilla Crash Reporter](https://support.mozilla.org/kb/how-send-crash-report-firefox-android) will ask if you wish to send us information, which may include sites that were open at the time of the crash and other browsing data. On iOS, crash reports contain less information and are sent automatically by default; you can [change your iOS settings](https://support.mozilla.org/kb/ios-crash-reports-pref) at any time.
 
-#### Improve security
+### To improve security
 
 We use [Google’s Safe Browsing Service](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) to protect you from malicious downloads and phishing attacks, and validate webpage and technical data with [Certificate Authorities](https://support.mozilla.org/kb/secure-website-certificate).
 
 For [some users](https://support.mozilla.org/kb/firefox-dns-over-https), Focus and Klar route DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution. [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) about DNS over HTTPS.
 
-#### Understand usage of Firefox Focus
+### To understand usage of Firefox Focus
 
 We collect a minimal amount of technical and interaction data in order to understand how many daily active users Focus has. For a technical overview of the data collected in this daily usage ping, see more detail for [Focus on Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [Focus on iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). This data is retained for no more than 25 months, and you can opt out of sending the Daily Usage Ping in your [data collection settings](https://support.mozilla.org/kb/usage-ping-settings) at any time. Klar does not collect data on daily active users.
 
@@ -46,7 +44,7 @@ To provide our services as described above, we may disclose personal data to:
 | Search Engine Providers | To offer you a variety of search engine providers, we have contractual agreements in place with various search providers. |
 | Mozilla controlled entities and successors | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
-## International Transfers of Data
+## International transfers of data
 
 Mozilla Corporation (and our servers) are based in the United States. Because we are a global company, in order to provide the services outlined in this Privacy Notice, the information we collect may be accessed from locations where our people are located and data may also be transferred to other jurisdictions as a result of sharing data with our partners. Whenever data is transferred across international borders, we ensure we have appropriate mechanisms in place (such as [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) approved by the European Commission and other relevant authorities) to protect your personal data. You can contact [dpo@mozilla.com](mailto:dpo@mozilla.com) for information on the safeguards implemented for international transfers, or for copies of the relevant standard contractual clauses.
 
@@ -87,7 +85,7 @@ This privacy notice is for the most recent general release version of Focus or K
 
 We may need to change this policy and our notices, in which case the updates will be posted online and we will update the effective date of this notice. If the changes are substantive, we will also announce the update more prominently through Mozilla's usual channels for such announcements, such as blog posts and forums.
 
-## **Types of Data Defined**
+## Types of data defined
 
 | Data Type | Description | Examples for Focus / Klar users |
 | ----- | ----- | ----- |
@@ -102,7 +100,7 @@ We may need to change this policy and our notices, in which case the updates wil
 | Search data | This is data about the search query searched for. | Search term (“current weather in Boston”). |
 | Browsing data | This is information about websites and URLs you’ve visited. | Specific URLs. |
 
-## Lawful Basis
+## Lawful basis
 
 | What your data is used for | What data is processed | Our lawful basis |
 | ----- | ----- | ----- |
@@ -112,7 +110,7 @@ We may need to change this policy and our notices, in which case the updates wil
 | To improve security | Technical data Location  Unique identifiers  Browsing data (for DNS over HTTPs only) | **Legitimate interest** in providing  additional security measures. |
 | To understand usage of Firefox | Technical data Interaction data | **Legitimate interest** in understanding how much Focus is used, enabling business functions such as usage reporting and forecasting. Klar does not collect data for this purpose. |
 
-## Privacy Notices for Search Providers
+## Privacy notices for search providers
 
 [Google](https://policies.google.com/privacy)
 
