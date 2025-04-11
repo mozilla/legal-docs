@@ -27,7 +27,7 @@ If Focus or Klar (on Android) encounters an unexpected issue, the [Mozilla Crash
 
 We use [Google’s Safe Browsing Service](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) to protect you from malicious downloads and phishing attacks, and validate webpage and technical data with [Certificate Authorities](https://support.mozilla.org/kb/secure-website-certificate).
 
-For [some users](https://support.mozilla.org/kb/firefox-dns-over-https), Focus and Klar route DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution. [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) about DNS over HTTPS.
+For some users, Focus and Klar route DNS requests to a resolver service that has agreed to Mozilla’s [strict privacy standards for resolvers](https://wiki.mozilla.org/Security/DOH-resolver-policy). This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution. [Learn more](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) about DNS over HTTPS.
 
 ### To understand usage of Firefox Focus
 
