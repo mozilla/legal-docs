@@ -161,7 +161,10 @@ We may need to change this policy and our notices, in which case the updates wil
                     <li>Interaction data</li>
                 </ul>            
             </td>
-            <td><strong>Legitimate interest</strong> in understanding how much Focus is used, enabling business functions such as usage reporting and forecasting. Klar does not collect data for this purpose.</td>
+            <td>
+                <p><strong>Legitimate interest</strong> in understanding how much Focus is used, enabling business functions such as usage reporting and forecasting. Klar does not collect data for this purpose.</p>
+                <p><strong>Consent</strong> when Klar users opt in to sending this data for usage reporting.</td>
+            </td>
         </tr>
     <tbody>
     </tbody>
