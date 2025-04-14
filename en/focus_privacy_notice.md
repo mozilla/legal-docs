@@ -31,7 +31,7 @@ For some users, Focus and Klar route DNS requests to a resolver service that has
 
 ### To understand usage of Firefox Focus
 
-We collect a minimal amount of technical and interaction data in order to understand how many daily active users Focus has. For a technical overview of the data collected in this daily usage ping, see more detail for [Focus on Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [Focus on iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). This data is retained for no more than 25 months, and you can opt out of sending the Daily Usage Ping in your [data collection settings](https://support.mozilla.org/kb/usage-ping-settings) at any time. Klar does not collect data on daily active users.
+We collect a minimal amount of technical and interaction data in order to understand how many daily active users Focus has. For a technical overview of the data collected in this daily usage ping, see more detail for [Focus on Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) and [Focus on iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). This data is retained for no more than 25 months, and you can opt out of sending the Daily Usage Ping in your [data collection settings](https://support.mozilla.org/en-US/kb/usage-ping-settings) at any time. Klar does not collect data on daily active users by default, but Klar users can opt in to sending it in their [data collection settings](https://support.mozilla.org/en-US/kb/usage-ping-settings).
 
 You can see more detail about the information we collect for [Focus on Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus on iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar on Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) or [Klar on iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -102,13 +102,70 @@ We may need to change this policy and our notices, in which case the updates wil
 
 ## Lawful basis
 
-| What your data is used for | What data is processed | Our lawful basis |
-| ----- | ----- | ----- |
-| To provide you with the Firefox Focus and Klar browser | Any data type may be processed locally on your device.  | **Contract** to provide you with the necessary functionality for Focus and Klar to operate. <br>**Legitimate interest** in making the data on your device work for you. |
-| To provide and improve search functionality | Location Language preference  Search data | **Legitimate interest** in providing search functionality. |
-| To maintain and improve features, performance and stability | Technical data Unique identifiers System performance Browsing data | **Consent** when you choose to send us crash reports. |
-| To improve security | Technical data Location  Unique identifiers  Browsing data (for DNS over HTTPs only) | **Legitimate interest** in providing  additional security measures. |
-| To understand usage of Firefox | Technical data Interaction data | **Legitimate interest** in understanding how much Focus is used, enabling business functions such as usage reporting and forecasting. Klar does not collect data for this purpose. |
+<table>
+    <thead>
+        <tr>
+            <th>What we use your data for</th>
+            <th>What data we process</th>
+            <th>Our lawful basis</th>
+        </tr>
+    </thead>
+        <tr>
+            <td>To provide you with the Firefox Focus and Klar browser</td>
+            <td>Any data type may be processed locally on your device.</td>
+            <td>
+                <p><strong>Contract</strong> to provide you with the necessary functionality for Focus and Klar to operate.</p>
+                <p><strong>Legitimate interest</strong> in making the data on your device work for you.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>To provide and improve search functionality</td>
+            <td>
+                <ul>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Search data</li>
+                </ul>
+            </td>
+            <td><strong>Legitimate interest</strong> in providing search functionality.</td>
+        </tr>
+        <tr>
+            <td>To maintain and improve features, performance and stability</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance</li>
+                    <li>Browsing data</li>
+                </ul>            
+            </td>
+            <td><strong>Consent</strong> when you choose to send us crash reports.</td>
+        </tr>
+        <tr>
+            <td>To improve security</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Unique identifiers</li>
+                    <li>Browsing data (for DNS over HTTPs only)</li>
+                </ul>            
+            </td>
+            <td><strong>Legitimate interest</strong> in providing  additional security measures.</td>
+        </tr>
+        <tr>
+            <td>To understand usage of Firefox</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Interaction data</li>
+                </ul>            
+            </td>
+            <td><strong>Legitimate interest</strong> in understanding how much Focus is used, enabling business functions such as usage reporting and forecasting. Klar does not collect data for this purpose.</td>
+        </tr>
+    <tbody>
+    </tbody>
+</table>
 
 ## Privacy notices for search providers
 
