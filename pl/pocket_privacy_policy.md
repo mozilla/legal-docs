@@ -1,7 +1,7 @@
 # Zasady ochrony prywatności
 
-*Data wejścia w życie: 3 kwietnia 2024 r.*
-{: datetime="2024-04-03" }
+*Data wejścia w życie: 16 kwietnia 2025 r.*
+{: datetime="2025-04-16" }
 
 Niniejsze powiadomienie opisuje Zasady ochrony prywatności, które mają zastosowanie do wszystkich informacji zbieranych lub przekazywanych podczas instalowania lub używania aplikacji Pocket albo jakiegokolwiek innego oprogramowania własnościowego lub usług, które dostarczamy, a także podczas odwiedzania naszej witryny internetowej (wszystkie te elementy są określane zbiorczo w niniejszym dokumencie jako „Technologie Pocket”). Technologie Pocket są własnością firmy Mozilla Corporation (dalej nazywaną „my”, „nas”, „nasze”, „Mozilla”), są przez nią licencjonowane oraz są obsługiwane przez jednostkę biznesową firmy Mozilla znaną jako „Pocket”, która opracowała aplikacje i usługi do użytku w połączeniu z różnymi urządzeniami i platformami, w tym między innymi Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows Phone, Chrome, Safari, Firefox oraz innymi urządzeniami mobilnymi i komputerami.
 
@@ -43,7 +43,7 @@ Korzystamy z czterech typów plików cookie i narzędzi analitycznych w następu
 * Niezbędne: Te pliki cookie są niezbędne do funkcjonowania naszej witryny internetowej. Nie można ich wyłączyć. Użytkownik może ustawić swoją przeglądarkę tak, aby blokowała te pliki cookie lub ostrzegała o nich, ale może to spowodować, że część witryny nie będzie działać prawidłowo. Te pliki cookie nie przechowują żadnych informacji umożliwiających identyfikację użytkownika i o ile nie włączono spersonalizowanych reklamowych plików cookie, reklamy nie są spersonalizowane.
 * Preferencyjne: Umieszczamy te pliki cookie na urządzeniu użytkownika, aby zapamiętać preferencje konta i ustawienia językowe użytkownika. Wyłączenie tych plików cookie może spowodować uszkodzenie niektórych funkcji. 
 * Analityczne: Umieszczamy te pliki cookie na urządzeniu użytkownika, aby pomóc nam zrozumieć, jak użytkownicy angażują się w naszą witrynę internetową i produkt. Na przykład korzystamy z Google Analytics i innych narzędzi, aby zrozumieć, które strony internetowe Pocket są popularne. W naszych wiadomościach e-mail używamy również pikseli w celu gromadzenia informacji o użytkowaniu.
-* Spersonalizowane reklamowe: Niektóre strony internetowe Pocket zawierają reklamy. Jeśli użytkownik wyrazi na to zgodę, partnerzy reklamowi Pocket będą umieszczać reklamowe pliki cookie na urządzeniu użytkownika, aby spersonalizować reklamy, które użytkownik widzi tutaj i w innych witrynach internetowych. Jeśli użytkownik odtwarza film z YouTube w Pocket, YouTube może umieścić na urządzeniu użytkownika pliki cookie, które mogą być wykorzystane do personalizacji. Freestar, nasz partner w zakresie spersonalizowanych reklam na naszych stronach z artykułami syndykowanymi, ma własne [Zasady ochrony prywatności](https://freestar.com/privacy-policy/).
+* Spersonalizowane reklamowe: Niektóre strony internetowe Pocket zawierają reklamy. Jeśli użytkownik wyrazi na to zgodę, partnerzy reklamowi Pocket będą umieszczać reklamowe pliki cookie na urządzeniu użytkownika, aby spersonalizować reklamy, które użytkownik widzi tutaj i w innych witrynach internetowych. Jeśli użytkownik odtwarza film z YouTube w Pocket, YouTube może umieścić na urządzeniu użytkownika pliki cookie, które mogą być wykorzystane do personalizacji. PubMatic, nasz partner w zakresie spersonalizowanych reklam na naszych stronach z artykułami syndykowanymi, ma własne [Zasady ochrony prywatności](https://pubmatic.com/legal/privacy-policy/).
 
 ### Wybory użytkownika
 

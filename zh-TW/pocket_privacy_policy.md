@@ -1,7 +1,7 @@
 # 隱私權政策
 
-*2024 年 4 月 3 日起生效*
-{: datetime="2024-04-03" }
+*2025 年 4 月 16 日起生效*
+{: datetime="2025-04-16" }
 
 本公告將說明在安裝或使用 Pocket 應用程式、我們提供的其他專有軟體應用程式或服務，或進入我們的網站（本文統稱為「Pocket 技術」）時，所有收集或送出之資訊所須遵守的隱私權政策。Pocket 技術由 Mozilla Corporation（本文稱「我們」、「Mozilla」) 擁有及授權，並由稱為「Pocket」的 Mozilla 事業單位營運，Pocket 曾開發多種應用程式及服務，以便搭配多種裝置及平台使用，包含但不限於 Windows、Mac、iPhone、iPad、Kindle Fire、Android、BlackBerry、Windows phone、Chrome、Safari、Firefox 以及其他行動裝置及電腦。
 
@@ -43,7 +43,7 @@
 * 必要：這些 Cookie 是運作網站功能不可或缺的要素。您無法關閉這些 Cookie。您可以調整瀏覽器設定，以便封鎖或對這些 Cookie 提出警示，不過這樣做可能會導致網站某些部份無法正常運作。這些 Cookie 並未儲存任何可辨識個人身分的資訊，而除非啟用「個人化廣告 Cookie」(Personalized Advertising Cookies)，否則廣告皆未經過個人化。
 * 偏好設定：我們會在您的裝置內置入這些 Cookie，以便記憶您的帳號偏好設定及語言設定。如果停用這些 Cookie，可能會導致部分功能故障。 
 * 分析術：我們會在您的裝置內置入這些 Cookie，以便幫助我們瞭解使用者與網站及產品的互動方式。舉例來說，我們會利用 Google Analytics（分析）及其他工具瞭解哪些 Pocket 網頁較為熱門。我們也會在電子郵件內使用像素收集使用資訊。
-* 個人化廣告：部份 Pocket 網頁會顯示廣告。在您同意之後，Pocket 廣告合作夥伴將會在您的裝置中置入廣告 Cookie，藉此個人化本網站及其他網站上顯示的廣告。如果您在 Pocket 播放 YouTube 影片，則 YouTube 可能會在裝置中置入 Cookie 並用來個人化內容。我們的聯合文章頁面上的個人化廣告合作夥伴 Freestar 有自己的 [隱私權政策](https://freestar.com/privacy-policy/)。
+* 個人化廣告：部份 Pocket 網頁會顯示廣告。在您同意之後，Pocket 廣告合作夥伴將會在您的裝置中置入廣告 Cookie，藉此個人化本網站及其他網站上顯示的廣告。如果您在 Pocket 播放 YouTube 影片，則 YouTube 可能會在裝置中置入 Cookie 並用來個人化內容。我們的聯合文章頁面上的個人化廣告合作夥伴 PubMatic 有自己的 [隱私權政策](https://pubmatic.com/legal/privacy-policy/)。
 
 ### 您的選擇
 

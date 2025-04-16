@@ -1,7 +1,7 @@
 # 隐私政策
 
-*2024 年 4 月 3 日生效*
-{: datetime="2024-04-03" }
+*2025 年 4 月 16 日生效*
+{: datetime="2025-04-16" }
 
 本声明所述的隐私政策适用于您在安装或使用 Pocket 应用程序或我们提供的任何其他专有软件应用程序或服务以及访问我们的网站（统称“Pocket 技术”）时收集或提交的所有信息。Pocket 技术由 Mozilla Corporation（以下简称“我们”、“我们的”、“Mozilla”）所有和授权，并通过 Mozilla 业务部门“Pocket”运营。Pocket 已开发多个应用程序和服务用于连接各种设备和平台，包括但不限于 Windows、Mac、iPhone、iPad、Kindle Fire、Android、BlackBerry、Windows phone、Chrome、Safari、Firefox 及其他移动设备和计算机。
 
@@ -43,7 +43,7 @@
 * 必要原则：Cookie 是运行网站的必要条件。我们不能将其关闭。您可以设置浏览器阻止这些 Cookie 或发出相关提醒，但这可能会导致网站的某些部分无法正常运行。这些 Cookie 不存储任何个人身份信息，除非启用个性化广告 Cookie，否则不会根据个性化需求展示广告。
 * 首选项：我们在您的设备上保存 Cookie，旨在记住您的帐号首选项和语言设置。禁用 Cookie 可能会破坏某些功能。
 * 分析：我们在您的设备上保存 Cookie，旨在了解用户如何使用我们的网站和产品。例如，我们使用 Google Analytics 及其他一些工具了解哪些 Pocket 网页比较受欢迎。我们还在电子邮件中使用像素收集使用信息。
-* 个性化广告：部分 Pocket 网页包含广告。在征得您的同意后，Pocket 广告合作伙伴便会在您的设备上保存广告 Cookie，个性化展示您在 Pocket 网页及其他网站上看到的广告。如果在 Pocket 上播放 YouTube 视频，YouTube 可能会在您的设备上保存 Cookie，以便实现个性化展示。我们的联合文章页面个性化广告合作伙伴 Freestar 拥有自己的[隐私政策](https://freestar.com/privacy-policy/)。
+* 个性化广告：部分 Pocket 网页包含广告。在征得您的同意后，Pocket 广告合作伙伴便会在您的设备上保存广告 Cookie，个性化展示您在 Pocket 网页及其他网站上看到的广告。如果在 Pocket 上播放 YouTube 视频，YouTube 可能会在您的设备上保存 Cookie，以便实现个性化展示。我们的联合文章页面个性化广告合作伙伴 PubMatic 拥有自己的[隐私政策](https://pubmatic.com/legal/privacy-policy/)。
 
 ### 您的选择
 

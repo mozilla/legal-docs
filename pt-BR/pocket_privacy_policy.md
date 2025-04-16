@@ -1,7 +1,7 @@
 # Política de Privacidade
 
-*Data de vigência: quarta-feira, 3 de abril de 2024*
-{: datetime="2024-04-03" }
+*Data de vigência: quarta-feira, 16 de abril de 2025*
+{: datetime="2025-04-16" }
 
 Este aviso descreve a Política de Privacidade que se aplica a todas as informações coletadas ou enviadas quando você instala ou usa o aplicativo Pocket ou qualquer outro aplicativo de software proprietário ou serviços que fornecemos, e quando você visita nosso website (todos os quais são referidos coletivamente aqui como "Tecnologias Pocket"). As Tecnologias Pocket são de propriedade e licenciadas pela Mozilla Corporation (aqui referida como "nós", "nos", "nosso", "Mozilla"), e são operadas pela unidade de negócios da Mozilla conhecida como "Pocket", que desenvolveu aplicativos e serviços para uso em conexão com uma variedade de dispositivos e plataformas, incluindo, sem limitação, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox e outros dispositivos móveis e computadores.
 
@@ -43,7 +43,7 @@ Usamos quatro tipos de cookies e ferramentas de análise para as seguintes final
 * Necessários: Esses cookies são necessários para o funcionamento do nosso site. Não é possível desativá-los. Você pode definir o navegador para bloquear esses cookies ou alertar sobre eles, mas isso pode fazer com que partes do site não funcionem adequadamente. Esses cookies não armazenam informações de identificação pessoal. Além disso, a menos que os Cookies de anúncios personalizados estejam ativados, os anúncios não são personalizados.
 * Preferência: Colocamos esses cookies no seu dispositivo para lembrar as preferências da sua conta e as configurações de idioma. A desativação desses cookies pode interromper alguns recursos. 
 * Ferramentas analíticas: Colocamos esses cookies no seu dispositivo para nos ajudar a entender como os usuários se envolvem com nosso site e produto. Por exemplo, usamos o Google Analytics e outras ferramentas para entender quais páginas do Pocket são populares. Também usamos pixels em nossos e-mails para coletar informações de uso.
-* Anúncios personalizados: algumas páginas do Pocket têm anúncios. Com o seu consentimento, os parceiros de publicidade da Pocket colocarão cookies de publicidade no seu dispositivo para personalizar os anúncios que você vê aqui e em outros sites. Se você reproduzir vídeos do YouTube no Pocket, o YouTube poderá inserir cookies no seu aparelho, que podem ser usados para personalização. Nosso parceiros de anúncios personalizados em nossas páginas de artigos pagos, a Freestar, tem sua própria [política de privacidade](https://freestar.com/privacy-policy/)
+* Anúncios personalizados: algumas páginas do Pocket têm anúncios. Com o seu consentimento, os parceiros de publicidade da Pocket colocarão cookies de publicidade no seu dispositivo para personalizar os anúncios que você vê aqui e em outros sites. Se você reproduzir vídeos do YouTube no Pocket, o YouTube poderá inserir cookies no seu aparelho, que podem ser usados para personalização. Nosso parceiros de anúncios personalizados em nossas páginas de artigos pagos, a PubMatic, tem sua própria [política de privacidade](https://pubmatic.com/legal/privacy-policy/)
 
 ### Suas escolhas
 

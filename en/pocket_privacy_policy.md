@@ -1,7 +1,7 @@
 # Privacy Policy
 
 *Effective April 3, 2024*
-{: datetime="2024-04-03" }
+{: datetime="2025-04-16" }
 
 This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the “Pocket Technologies”). The Pocket Technologies are owned and licensed by Mozilla Corporation (referred to herein as “we,” “us,” “our,” “Mozilla”), and are operated by Mozilla's business unit known as “Pocket,” which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
 

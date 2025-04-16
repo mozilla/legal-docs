@@ -1,7 +1,7 @@
 # Datenschutzrichtlinie
 
-*Gültig ab Mittwoch, 3. April 2024*
-{: datetime="2024-04-03" }
+*Gültig ab Mittwoch, 16. April 2025*
+{: datetime="2025-04-16" }
 
 Dieser Hinweis beschreibt die Datenschutzrichtlinie, die für alle Informationen gilt, die erfasst oder übermittelt werden, wenn Sie die Pocket-Anwendung oder eine(n) der anderen proprietären Softwareanwendungen oder Dienste, die wir anbieten, installieren oder nutzen, und/oder Sie unsere Website besuchen (im Folgenden zusammenfassend „Pocket-Technologien“). Die Pocket-Technologien sind Eigentum der Mozilla Corporation (im Folgenden „wir“, „uns“, „unser“ und/oder „Mozilla“) und werden vom Mozilla-Unternehmensbereich „Pocket“ betrieben, der Anwendungen und Dienste zur Nutzung in Verbindung mit einer Vielzahl von Geräten und Plattformen wie Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows Phone, Chrome, Safari, Firefox und sonstigen Mobilgeräten und Computern entwickelt.
 
@@ -43,7 +43,7 @@ Wir nutzen vier Arten von Cookies und Analysetools für folgende Zwecke:
 * Erforderliche Cookies: Diese Cookies sind für das Funktionieren unserer Website erforderlich. Sie können nicht deaktiviert werden. Sie können Ihren Browser so konfigurieren, dass diese Cookies blockiert oder Sie auf diese Cookies hingewiesen werden; dies kann jedoch zur Folge haben, dass Teile der Website nicht richtig funktionieren. Diese Cookies speichern keine personenbezogenen Informationen und personalisierte Werbung wird nur angezeigt, wenn die Cookies für die Werbepersonalisierung aktiviert sind.
 * Cookies für Voreinstellungen: Wir setzen diese Cookies auf Ihrem Gerät, um Ihre Konto- und Spracheinstellungen zu speichern. Die Deaktivierung dieser Cookies kann einige Funktionen beeinträchtigen. 
 * Analyse-Cookies: Wir setzen diese Cookies auf Ihrem Gerät, um nachvollziehen zu können, wie Nutzer unsere Website und unsere Produkte nutzen. So verwenden wir beispielsweise Google Analytics und andere Tools, um zu erkennen, welche Pocket-Webseiten beliebt sind. Ferner verwenden wir Pixel in unseren E-Mails, um Nutzungsinformationen zu erfassen.
-* Cookies für die Werbepersonalisierung: Einige Pocket-Webseiten enthalten Werbung. Vorbehaltlich Ihrer Zustimmung setzen Werbepartner von Pocket Werbe-Cookies auf Ihrem Gerät, um Werbung, die Sie hier und auf anderen Websites sehen, zu personalisieren. Wenn Sie ein YouTube-Video auf Pocket abspielen, setzt YouTube ggf. Cookies auf Ihrem Gerät, die zur Personalisierung verwendet werden können. Unser Partner für personalisierte Werbung auf unseren syndizierten Artikelseiten, Freestar, hat seine eigene [Datenschutzrichtlinie](https://freestar.com/privacy-policy/).
+* Cookies für die Werbepersonalisierung: Einige Pocket-Webseiten enthalten Werbung. Vorbehaltlich Ihrer Zustimmung setzen Werbepartner von Pocket Werbe-Cookies auf Ihrem Gerät, um Werbung, die Sie hier und auf anderen Websites sehen, zu personalisieren. Wenn Sie ein YouTube-Video auf Pocket abspielen, setzt YouTube ggf. Cookies auf Ihrem Gerät, die zur Personalisierung verwendet werden können. Unser Partner für personalisierte Werbung auf unseren syndizierten Artikelseiten, PubMatic, hat seine eigene [Datenschutzrichtlinie](https://pubmatic.com/legal/privacy-policy/).
 
 ### Ihre Optionen
 
