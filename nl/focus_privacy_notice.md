@@ -31,7 +31,7 @@ Voor sommige gebruikers sturen Focus en Klar DNS-aanvragen naar een resolverserv
 
 ### Het doorgronden van het gebruik van Firefox Focus
 
-We verzamelen een minimale hoeveelheid technische en interactiegegevens om inzicht te krijgen in hoeveel dagelijks actieve gebruikers Focus heeft. Zie [Focus onder Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) en [Focus onder iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios) voor een technisch overzicht van de gegevens die worden verzameld via deze dagelijkse gebruiksping. Deze gegevens worden maximaal 25 maanden bewaard, en u kunt zich op elk gewenst moment uitschrijven voor het verzenden van de dagelijkse gebruiksping in uw [instellingen voor gegevensverzameling](https://support.mozilla.org/kb/usage-ping-settings). Klar verzamelt standaard geen informatie over dagelijks actieve gebruikers, maar gebruikers kunnen zich inschrijven voor het verzenden van deze informatie in hun [instellingen voor gegevensverzameling](https://support.mozilla.org/kb/usage-ping-settings).
+We verzamelen een minimale hoeveelheid technische en interactiegegevens om inzicht te krijgen in hoeveel dagelijks actieve gebruikers Focus heeft. Zie [Focus onder Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) en [Focus onder iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting) voor een technisch overzicht van de gegevens die worden verzameld via deze dagelijkse gebruiksping. Deze gegevens worden maximaal 25 maanden bewaard, en u kunt zich op elk gewenst moment uitschrijven voor het verzenden van de dagelijkse gebruiksping in uw [instellingen voor gegevensverzameling](https://support.mozilla.org/kb/usage-ping-settings). Klar verzamelt standaard geen informatie over dagelijks actieve gebruikers, maar gebruikers kunnen zich inschrijven voor het verzenden van deze informatie in hun [instellingen voor gegevensverzameling](https://support.mozilla.org/kb/usage-ping-settings).
 
 U kunt meer informatie weergeven over de gegevens die we verzamelen voor [Focus onder Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus onder iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar onder Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) of [Klar onder iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

@@ -31,7 +31,7 @@
 
 ### Понимание, как используется браузер Firefox Focus
 
-Мы собираем минимальный объем технических и интерактивных данных, чтобы понять, сколько ежедневных активных пользователей у Focus. Технический обзор данных, собранных в ходе Ежедневного пинга использования, см. в разделе [Focus на Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) и [Focus на iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Эти данные хранятся не более 25 месяцев, и вы можете в любое время отказаться от отправки Ежедневного пинга использования в [настройках сбора данных](https://support.mozilla.org/kb/usage-ping-settings). По умолчанию Klar не собирает данные о ежедневных активных пользователях, но пользователи Klar могут включить отправку таких данных в [настройках сбора данных](https://support.mozilla.org/kb/usage-ping-settings).
+Мы собираем минимальный объем технических и интерактивных данных, чтобы понять, сколько ежедневных активных пользователей у Focus. Технический обзор данных, собранных в ходе Ежедневного пинга использования, см. в разделе [Focus на Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) и [Focus на iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Эти данные хранятся не более 25 месяцев, и вы можете в любое время отказаться от отправки Ежедневного пинга использования в [настройках сбора данных](https://support.mozilla.org/kb/usage-ping-settings). По умолчанию Klar не собирает данные о ежедневных активных пользователях, но пользователи Klar могут включить отправку таких данных в [настройках сбора данных](https://support.mozilla.org/kb/usage-ping-settings).
 
 Вы можете увидеть более подробную информацию об информации, которую мы собираем для [Focus на Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus на iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar на Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) или [Klar на iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Belgium (Бельгия)
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

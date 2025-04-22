@@ -31,7 +31,7 @@ Bagi beberapa pengguna, Focus dan Klar merutekan permintaan DNS kepada layanan r
 
 ### Untuk memahami penggunaan Firefox Focus
 
-Kami mengumpulkan sedikit data teknis dan interaksi untuk memahami berapa banyak pengguna aktif harian Focus. Untuk gambaran umum teknis tentang data yang dikumpulkan dalam ping penggunaan harian ini, lihat detail selengkapnya untuk [Focus di Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) dan [Focus di iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Data ini disimpan tidak lebih dari 25 bulan, dan Anda dapat menolak pengiriman Ping Penggunaan Harian di [pengaturan pengumpulan data](https://support.mozilla.org/kb/usage-ping-settings) Anda kapan saja. Klar tidak mengumpulkan data tentang pengguna aktif harian secara baru, tetapi pengguna Klar dapat menyetujui untuk mengirimkannya di [pengaturan pengumpulan data](https://support.mozilla.org/kb/usage-ping-settings) mereka.
+Kami mengumpulkan sedikit data teknis dan interaksi untuk memahami berapa banyak pengguna aktif harian Focus. Untuk gambaran umum teknis tentang data yang dikumpulkan dalam ping penggunaan harian ini, lihat detail selengkapnya untuk [Focus di Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) dan [Focus di iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Data ini disimpan tidak lebih dari 25 bulan, dan Anda dapat menolak pengiriman Ping Penggunaan Harian di [pengaturan pengumpulan data](https://support.mozilla.org/kb/usage-ping-settings) Anda kapan saja. Klar tidak mengumpulkan data tentang pengguna aktif harian secara baru, tetapi pengguna Klar dapat menyetujui untuk mengirimkannya di [pengaturan pengumpulan data](https://support.mozilla.org/kb/usage-ping-settings) mereka.
 
 Anda dapat melihat detail selengkapnya tentang informasi yang kami kumpulkan untuk [Focus di Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus di iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar di Android](https://dictionary.telemetry.mozilla.org/apps/klar_android), atau [Klar di iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

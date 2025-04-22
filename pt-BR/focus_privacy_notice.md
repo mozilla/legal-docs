@@ -31,7 +31,7 @@ Para alguns usuários, o Focus e o Klar encaminham solicitações DNS para um se
 
 ### Para entender o uso do Firefox Focus
 
-Coletamos um volume mínimo de dados técnicos e de interação para entender quantos usuários ativos diários o Focus tem. Para uma visão geral técnica dos dados coletados nesse ping de uso diário, consulte mais detalhes sobre o [Focus no Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) e o [Focus no iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Esses dados são mantidos por, no máximo, 25 meses. Você pode cancelar o envio do ping de uso diário a qualquer momento nas suas [configurações de coleta de dados](https://support.mozilla.org/kb/usage-ping-settings). O Klar não coleta dados de usuários ativos diários por padrão, mas seus usuários podem optar por enviá-los nas [configurações de coleta de dados](https://support.mozilla.org/kb/usage-ping-settings).
+Coletamos um volume mínimo de dados técnicos e de interação para entender quantos usuários ativos diários o Focus tem. Para uma visão geral técnica dos dados coletados nesse ping de uso diário, consulte mais detalhes sobre o [Focus no Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) e o [Focus no iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Esses dados são mantidos por, no máximo, 25 meses. Você pode cancelar o envio do ping de uso diário a qualquer momento nas suas [configurações de coleta de dados](https://support.mozilla.org/kb/usage-ping-settings). O Klar não coleta dados de usuários ativos diários por padrão, mas seus usuários podem optar por enviá-los nas [configurações de coleta de dados](https://support.mozilla.org/kb/usage-ping-settings).
 
 Confira mais detalhes sobre as informações que coletamos no [Focus no Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus no iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar no Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) ou [Klar no iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipédia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

@@ -31,7 +31,7 @@ Für manche Benutzer leiten Focus und Klar DNS-Anfragen an einen Resolver-Dienst
 
 ### Zum Nachvollziehen der Nutzung von Firefox Focus
 
-Wir erfassen eine minimale Menge an technischen und Interaktionsdaten, um zu ermitteln, wie viele aktive Benutzer Focus täglich hat. Einen technischen Überblick über die im Rahmen dieses täglichen Nutzungs-Pings erfassten Daten finden Sie unter [Fokus auf Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) bzw. [Fokus auf iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Diese Daten werden nicht länger als 25 Monate gespeichert, und Sie können die Übermittlung des täglichen Nutzungs-Pings jederzeit in Ihren [Einstellungen zur Datenerhebung](https://support.mozilla.org/kb/usage-ping-settings) deaktivieren. Klar erfasst standardmäßig keine Daten über täglich aktive Benutzer. Klar-Benutzer können die Übermittlung dieser Daten jedoch in ihren [Einstellungen zur Datenerhebung](https://support.mozilla.org/kb/usage-ping-settings) aktivieren.
+Wir erfassen eine minimale Menge an technischen und Interaktionsdaten, um zu ermitteln, wie viele aktive Benutzer Focus täglich hat. Einen technischen Überblick über die im Rahmen dieses täglichen Nutzungs-Pings erfassten Daten finden Sie unter [Fokus auf Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) bzw. [Fokus auf iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Diese Daten werden nicht länger als 25 Monate gespeichert, und Sie können die Übermittlung des täglichen Nutzungs-Pings jederzeit in Ihren [Einstellungen zur Datenerhebung](https://support.mozilla.org/kb/usage-ping-settings) deaktivieren. Klar erfasst standardmäßig keine Daten über täglich aktive Benutzer. Klar-Benutzer können die Übermittlung dieser Daten jedoch in ihren [Einstellungen zur Datenerhebung](https://support.mozilla.org/kb/usage-ping-settings) aktivieren.
 
 Über die folgenden Links können Sie ausführlichere Informationen zu den Daten abrufen, die wir für [Focus auf Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus auf iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar auf Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) oder [Klar auf iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios) erfassen.
 
@@ -181,4 +181,3 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

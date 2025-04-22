@@ -31,7 +31,7 @@ V případě některých uživatelů služby Focus a Klar směřují požadavky 
 
 ### Pochopení používání služby Firefox Focus
 
-Shromažďujeme minimální množství technických dat a údajů o interakci, abychom pochopili kolik aktivních uživatelů denně služba Focus má. V případě technického přehledu dat shromážděných tímto denním voláním ping využití najdete podrobnější informace v částech [Focus v systému Android](https://dictionary.telemetry.mozilla.org/apps/focus_android) a [Focus v systému iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Tyto údaje jsou uchovávány maximálně 25 měsíců a vy můžete kdykoliv zrušit odesílání Denního volání ping využití ve svých [nastaveních shromažďování údajů](https://support.mozilla.org/kb/usage-ping-settings). Klar dle výchozího nastavení neshromažďuje údaje o denních aktivních uživatelích, nicméně uživatelé služby Klar se mohou přihlásit k odesílání těchto informací ve svých [nastaveních shromažďování údajů](https://support.mozilla.org/kb/usage-ping-settings).
+Shromažďujeme minimální množství technických dat a údajů o interakci, abychom pochopili kolik aktivních uživatelů denně služba Focus má. V případě technického přehledu dat shromážděných tímto denním voláním ping využití najdete podrobnější informace v částech [Focus v systému Android](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) a [Focus v systému iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Tyto údaje jsou uchovávány maximálně 25 měsíců a vy můžete kdykoliv zrušit odesílání Denního volání ping využití ve svých [nastaveních shromažďování údajů](https://support.mozilla.org/kb/usage-ping-settings). Klar dle výchozího nastavení neshromažďuje údaje o denních aktivních uživatelích, nicméně uživatelé služby Klar se mohou přihlásit k odesílání těchto informací ve svých [nastaveních shromažďování údajů](https://support.mozilla.org/kb/usage-ping-settings).
 
 Podrobnější informace o námi shromažďovaných informacích najdete v částech [Focus v systému Android](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus v systému iOS](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar v systému Android](https://dictionary.telemetry.mozilla.org/apps/klar_android) nebo [Klar v systému iOS](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

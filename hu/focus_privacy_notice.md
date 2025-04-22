@@ -31,7 +31,7 @@ Egyes felhasználók esetében a Focus és a Klar a DNS-kérelmeket egy olyan re
 
 ### A Firefox Focus használatának megértése
 
-Minimális mennyiségű technikai és interakciós adatot gyűjtünk, hogy megértsük, hány napi aktív felhasználója van a Focus szolgáltatásnak. A napi használati ping során gyűjtött adatok technikai áttekintését itt találja: [Focus az Androidon](https://dictionary.telemetry.mozilla.org/apps/focus_android) és [Focus az iOS-en](https://dictionary.telemetry.mozilla.org/apps/focus_ios). Ezeket az adatokat legfeljebb 25 hónapig őrzik meg, és az [adatgyűjtési beállításokban](https://support.mozilla.org/kb/usage-ping-settings) bármikor letilthatja a napi használati ping küldését. A Klar alapértelmezés szerint nem gyűjt adatokat a napi aktív felhasználókról, de a Klar-felhasználók az [adatgyűjtési beállításaikban](https://support.mozilla.org/kb/usage-ping-settings) engedélyezhetik a küldést.
+Minimális mennyiségű technikai és interakciós adatot gyűjtünk, hogy megértsük, hány napi aktív felhasználója van a Focus szolgáltatásnak. A napi használati ping során gyűjtött adatok technikai áttekintését itt találja: [Focus az Androidon](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) és [Focus az iOS-en](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting). Ezeket az adatokat legfeljebb 25 hónapig őrzik meg, és az [adatgyűjtési beállításokban](https://support.mozilla.org/kb/usage-ping-settings) bármikor letilthatja a napi használati ping küldését. A Klar alapértelmezés szerint nem gyűjt adatokat a napi aktív felhasználókról, de a Klar-felhasználók az [adatgyűjtési beállításaikban](https://support.mozilla.org/kb/usage-ping-settings) engedélyezhetik a küldést.
 
 További részletek a gyűjtött adatokról: [Focus az Androidon](https://dictionary.telemetry.mozilla.org/apps/focus_android), [Focus az iOS-en](https://dictionary.telemetry.mozilla.org/apps/focus_ios), [Klar az Androidon](https://dictionary.telemetry.mozilla.org/apps/klar_android) és [Klar az iOS-en](https://dictionary.telemetry.mozilla.org/apps/klar_ios).
 
@@ -181,4 +181,3 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-
