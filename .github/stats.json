@@ -188,29 +188,45 @@
     ]
   },
   "focus_privacy_notice.md": {
-    "count": 18,
+    "count": 13,
     "has_source": true,
-    "last_update": "2021-10-14",
+    "last_update": "2025-04-22",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/focus_privacy_notice.md",
     "locales": [
-      "ar",
+      "cs",
       "de",
-      "es-ES",
-      "es-MX",
+      "es",
       "fr",
-      "hi",
+      "hu",
       "id",
       "it",
       "ja",
-      "ko",
       "nl",
       "pl",
       "pt-BR",
       "ru",
-      "tr",
-      "vi",
-      "zh-CN",
-      "zh-TW"
+      "zh-CN"
+    ]
+  },
+  "focus_terms_of_use.md": {
+    "count": 13,
+    "has_source": true,
+    "last_update": "2025-04-22",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/focus_terms_of_use.md",
+    "locales": [
+      "cs",
+      "de",
+      "es",
+      "fr",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
     ]
   },
   "formulaic_content_policies.md": {
