@@ -31,7 +31,7 @@ Focus 和 Klar 会处理技术及设置数据，以及**您设备上**的浏览�
 
 ### 为了解 Firefox Focus 的使用情况
 
-我们仅收集少量的技术和交互数据，以便了解 Focus 每日的活跃用户数量。如需了解在这一每日使用情况数据反馈中所收集数据的技术概述，请查看关于[安卓版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android) 以及 [iOS 版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios) 的更多详细信息。这些数据的保留时间不会超过 25 个月，并且您可以随时在[数据收集设置](https://support.mozilla.org/kb/usage-ping-settings)中选择不发送每日使用情况数据反馈。默认情况下，Klar 不会收集每日活跃用户的数据，但 Klar 用户可以在其[数据收集设置](https://support.mozilla.org/kb/usage-ping-settings)中选择开启发送功能。
+我们仅收集少量的技术和交互数据，以便了解 Focus 每日的活跃用户数量。如需了解在这一每日使用情况数据反馈中所收集数据的技术概述，请查看关于[安卓版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting) 以及 [iOS 版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting) 的更多详细信息。这些数据的保留时间不会超过 25 个月，并且您可以随时在[数据收集设置](https://support.mozilla.org/kb/usage-ping-settings)中选择不发送每日使用情况数据反馈。默认情况下，Klar 不会收集每日活跃用户的数据，但 Klar 用户可以在其[数据收集设置](https://support.mozilla.org/kb/usage-ping-settings)中选择开启发送功能。
 
 您可以查看有关我们为[安卓版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android)、[iOS 版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios)、[安卓版 Klar](https://dictionary.telemetry.mozilla.org/apps/klar_android) 或 [iOS 版 Klar](https://dictionary.telemetry.mozilla.org/apps/klar_ios) 所收集信息的更多详细内容。
 
@@ -181,4 +181,3 @@ Belgium
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-

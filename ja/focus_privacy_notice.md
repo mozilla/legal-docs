@@ -31,7 +31,7 @@ Mozilla は、[Google のセーフブラウジングサービス](https://suppor
 
 ### Firefox Focus の使用状況を理解するため
 
-毎日、何人のFocus アクティブユーザーがいるかを理解するために、最小量の技術的および対話データを収集します。この日別の使用状況 ping で収集されるデータの技術的な概要については、[Android 版Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android)および[iOS 版Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios)の詳細をご覧ください。このデータは、最長で 25 か月保持され、[データ収集設定](https://support.mozilla.org/kb/usage-ping-settings)から日別の使用状況  ping の送信をいつでもオプトアウトできます。Klar はデフォルトで日別のアクティブユーザーに関するデータを収集しませんが、Klar のユーザーは[データ収集設定](https://support.mozilla.org/kb/usage-ping-settings)から送信をオプトインすることができます。
+毎日、何人のFocus アクティブユーザーがいるかを理解するために、最小量の技術的および対話データを収集します。この日別の使用状況 ping で収集されるデータの技術的な概要については、[Android 版Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android/pings/usage-reporting)および[iOS 版Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios/pings/usage-reporting)の詳細をご覧ください。このデータは、最長で 25 か月保持され、[データ収集設定](https://support.mozilla.org/kb/usage-ping-settings)から日別の使用状況  ping の送信をいつでもオプトアウトできます。Klar はデフォルトで日別のアクティブユーザーに関するデータを収集しませんが、Klar のユーザーは[データ収集設定](https://support.mozilla.org/kb/usage-ping-settings)から送信をオプトインすることができます。
 
 収集している情報の詳細については、[Android 版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_android)、[iOS 版 Focus](https://dictionary.telemetry.mozilla.org/apps/focus_ios)、[Android 版 Klar](https://dictionary.telemetry.mozilla.org/apps/klar_android)、[iOS 版 Klar](https://dictionary.telemetry.mozilla.org/apps/klar_ios)の各ページをご覧いただけます。
 
@@ -181,4 +181,3 @@ Mozilla は、適用されるデータ保護法に従ってデータ保護権を
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
-
