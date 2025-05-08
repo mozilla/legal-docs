@@ -5,7 +5,7 @@ Mardi 10 mai 2022
 
 Nous nous soucions de votre vie privée. Lorsque Mozilla (nous) recueille des informations vous concernant, la [politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/) décrit la façon dont nous gérons ces informations.
 
-Le présent avis de confidentialité est applicable aux sites Web et applications mobiles exploités par Mozilla, qui comprennent notamment les domaines mozillians.org, mozilla.org et firefox.com. Sont inclus, par exemple, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org et wiki.mozilla.org.
+Le présent avis de confidentialité est applicable aux sites Web et applications mobiles exploités par Mozilla, qui comprennent notamment les domaines mozillians.org, mozilla.org et firefox.com. Sont inclus, par exemple, mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org et wiki.mozilla.org.
 
 ## Ce que vous devez savoir
 

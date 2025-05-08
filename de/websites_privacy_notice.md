@@ -5,7 +5,7 @@ Dienstag, 10. Mai 2022
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
-Dieser Datenschutz-Hinweis gilt für von Mozilla betriebene Websites und Mobil-Apps einschließlich der Domains mozillians.org, mozilla.org und firefox.com. Dies umfasst z. B. foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org und wiki.mozilla.org.
+Dieser Datenschutz-Hinweis gilt für von Mozilla betriebene Websites und Mobil-Apps einschließlich der Domains mozillians.org, mozilla.org und firefox.com. Dies umfasst z. B. mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org und wiki.mozilla.org.
 
 ## Folgendes sollten Sie wissen
 

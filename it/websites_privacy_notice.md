@@ -5,7 +5,7 @@
 
 Per Mozilla la privacy degli utenti è importante. Quando Mozilla (noi) raccoglie informazioni su di voi, la [Politica sulla privacy Mozilla](https://www.mozilla.org/privacy/) descrive come vengono gestite queste informazioni.
 
-Questa informativa sulla privacy si applica alle app per dispositivi mobili e ai siti web gestiti da Mozilla, che includono, tra gli altri, i domini mozillians.org, mozilla.org e firefox.com, che includono, ad esempio, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Questa informativa sulla privacy si applica alle app per dispositivi mobili e ai siti web gestiti da Mozilla, che includono, tra gli altri, i domini mozillians.org, mozilla.org e firefox.com, che includono, ad esempio, mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## Cose da sapere
 

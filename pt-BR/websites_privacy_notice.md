@@ -5,7 +5,7 @@ terça-feira, 10 de maio de 2022
 
 Nós nos importamos com sua privacidade. Quando a Mozilla (ou seja, nós) coleta informações sobre você, nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/) descreve de que forma gerenciamos essas informações.
 
-Este aviso de privacidade se aplica aos sites e aplicativos móveis administrados pela Mozilla, inclusive os domínios mozillians.org, mozilla.org, firefox.com, entre outros. Eles incluem, por exemplo, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
+Este aviso de privacidade se aplica aos sites e aplicativos móveis administrados pela Mozilla, inclusive os domínios mozillians.org, mozilla.org, firefox.com, entre outros. Eles incluem, por exemplo, mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org e wiki.mozilla.org.
 
 ## O que você deve saber
 

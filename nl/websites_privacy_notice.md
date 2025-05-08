@@ -5,7 +5,7 @@ dinsdag 10 mei 2022
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
-Deze privacyverklaring is van toepassing op door Mozilla verzorgde websites en mobiele apps, waaronder de domeinen mozillians.org, mozilla.org en firefox.com. Hieronder vallen bijvoorbeeeld foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org en wiki.mozilla.org.
+Deze privacyverklaring is van toepassing op door Mozilla verzorgde websites en mobiele apps, waaronder de domeinen mozillians.org, mozilla.org en firefox.com. Hieronder vallen bijvoorbeeeld mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org en wiki.mozilla.org.
 
 ## Zaken die u moet weten
 

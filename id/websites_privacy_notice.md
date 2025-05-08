@@ -5,7 +5,7 @@
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla ](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
-Pemberitahuan privasi ini berlaku untuk situs web dan aplikasi seluler yang dioperasikan menggunakan Mozilla, termasuk domain mozillians.org, mozilla.org, dan firefox.com. Beberapa contohnya, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, dan wiki.mozilla.org.
+Pemberitahuan privasi ini berlaku untuk situs web dan aplikasi seluler yang dioperasikan menggunakan Mozilla, termasuk domain mozillians.org, mozilla.org, dan firefox.com. Beberapa contohnya, mozillafoundation.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, dan wiki.mozilla.org.
 
 ## Beberapa hal yang perlu Anda ketahui
 
