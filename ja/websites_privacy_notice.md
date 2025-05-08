@@ -5,7 +5,7 @@
 
 Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) は、Mozilla (当社) が皆様の情報を収集した場合に、その情報をどのように取り扱うかについて、説明しています。
 
-このプライバシーに関する通知は、mozilla.org および firefox.com といったドメインを含む Mozilla が運営するウェブサイトおよびモバイルアプリに適用されます。これには例えば、addons.mozilla.org、bugzilla.mozilla.org、careers.mozilla.org、community.mozilla.org、developer.mozilla.org、foundation.mozilla.org、people.mozilla.org、support.mozilla.org、wiki.mozilla.org が該当します。
+このプライバシーに関する通知は、mozilla.org および firefox.com といったドメインを含む Mozilla が運営するウェブサイトおよびモバイルアプリに適用されます。これには例えば、addons.mozilla.org、bugzilla.mozilla.org、careers.mozilla.org、community.mozilla.org、developer.mozilla.org、mozillafoundation.org、people.mozilla.org、support.mozilla.org、wiki.mozilla.org が該当します。
 
 ## 留意事項
 

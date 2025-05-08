@@ -5,7 +5,7 @@
 
 Мы заботимся о вашей конфиденциальности. Когда корпорация Mozilla (то есть мы) собирает информацию о вас, обработка нами этой информации выполняется в соответствии с [Политикой конфиденциальности Mozilla](https://www.mozilla.org/privacy/).
 
-Настоящее уведомление об использовании конфиденциальной информации распространяется на веб-сайты корпорации Mozilla со следующими доменами: mozilla.org, firefox.com и т. д. Сюда входят, например, addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org, и wiki.mozilla.org.
+Настоящее уведомление об использовании конфиденциальной информации распространяется на веб-сайты корпорации Mozilla со следующими доменами: mozilla.org, firefox.com и т. д. Сюда входят, например, addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org, и wiki.mozilla.org.
 
 ## Что вам следует знать
 

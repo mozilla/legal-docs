@@ -5,7 +5,7 @@ Mittwoch, 3. April 2024
 
 Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir) Informationen über Sie erfasst, gilt unsere [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/). Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
 
-Dieser Datenschutzhinweis gilt für von Mozilla betriebene Websites und Mobil-Apps einschließlich der Domains mozilla.org und firefox.com. Dies umfasst zum Beispiel addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org und wiki.mozilla.org.
+Dieser Datenschutzhinweis gilt für von Mozilla betriebene Websites und Mobil-Apps einschließlich der Domains mozilla.org und firefox.com. Dies umfasst zum Beispiel addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org und wiki.mozilla.org.
 
 ## Sie sollten Folgendes wissen
 

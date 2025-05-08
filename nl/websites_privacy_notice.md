@@ -5,7 +5,7 @@ woensdag 3 april 2024
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
-Deze privacykennisgeving is van toepassing op door Mozilla verzorgde websites en mobiele apps, waaronder de domeinen mozilla.org en firefox.com. Dit omvat bijvoorbeeld ook addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org en wiki.mozilla.org.
+Deze privacykennisgeving is van toepassing op door Mozilla verzorgde websites en mobiele apps, waaronder de domeinen mozilla.org en firefox.com. Dit omvat bijvoorbeeld ook addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org en wiki.mozilla.org.
 
 ## Zaken die u moet weten
 

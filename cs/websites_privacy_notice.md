@@ -5,7 +5,7 @@
 
 Na ochraně vašeho soukromí nám záleží. Když o vás společnost Mozilla (to jsme my) shromažďuje informace, naše [Zásady ochrany osobních údajů společnosti Mozilla](https://www.mozilla.org/privacy/) popisují, jak s těmito informacemi budeme nakládat.
 
-Tyto zásady ochrany osobních údajů platí pro webové stránky a mobilní aplikace provozované společností Mozilla, což kromě dalších zahrnuje domény mozilla.org a firefox.com. Patří sem například domény addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org a wiki.mozilla.org.
+Tyto zásady ochrany osobních údajů platí pro webové stránky a mobilní aplikace provozované společností Mozilla, což kromě dalších zahrnuje domény mozilla.org a firefox.com. Patří sem například domény addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org a wiki.mozilla.org.
 
 ## Co byste měli vědět
 

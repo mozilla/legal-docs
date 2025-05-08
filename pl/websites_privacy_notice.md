@@ -5,7 +5,7 @@
 
 Przywiązujemy dużą wagę do ochrony prywatności użytkowników. Jeśli Mozilla (czyli my) zbiera informacje o użytkowniku, sposób ich wykorzystania reguluje [Polityka prywatności firmy Mozilla](https://www.mozilla.org/privacy/).
 
-Niniejsze zasady prywatności dotyczą witryn i aplikacji mobilnych obsługiwanych przez firmę Mozilla, co obejmuje m.in. domeny mozilla.org i firefox.com. Obejmuje to na przykład domeny addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org oraz wiki.mozilla.org.
+Niniejsze zasady prywatności dotyczą witryn i aplikacji mobilnych obsługiwanych przez firmę Mozilla, co obejmuje m.in. domeny mozilla.org i firefox.com. Obejmuje to na przykład domeny addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org oraz wiki.mozilla.org.
 
 ## Co warto wiedzieć
 
