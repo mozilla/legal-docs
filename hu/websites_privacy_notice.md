@@ -5,7 +5,7 @@
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
-Ez az adatvédelmi nyilatkozat a Mozilla által működtetett webhelyekre és mobilalkalmazásokra egyaránt vonatkozik, beleértve többek között a következő tartományokat: mozilla.org és firefox.com. Ezek közé tartozik például az addons.mozilla.org, a bugzilla.mozilla.org, a careers.mozilla.org, a community.mozilla.org, a developer.mozilla.org, a foundation.mozilla.org, a people.mozilla.org, a support.mozilla.org és a wiki.mozilla.org.
+Ez az adatvédelmi nyilatkozat a Mozilla által működtetett webhelyekre és mobilalkalmazásokra egyaránt vonatkozik, beleértve többek között a következő tartományokat: mozilla.org és firefox.com. Ezek közé tartozik például az addons.mozilla.org, a bugzilla.mozilla.org, a careers.mozilla.org, a community.mozilla.org, a developer.mozilla.org, a mozillafoundation.org, a people.mozilla.org, a support.mozilla.org és a wiki.mozilla.org.
 
 ## Tudnivalók
 
