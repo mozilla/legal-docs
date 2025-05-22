@@ -473,7 +473,10 @@ We may need to change this policy and our notices, in which case the updates wil
                     <li>All data types</li>
                 </ul>
             </td>
-            <td><strong>Compliance with law</strong> in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety. <strong>Legitimate interest</strong>, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety.</td>
+            <td>
+                <p><strong>Compliance with law</strong> in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.</p>
+                <p><strong>Legitimate interest</strong>, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety.</p>
+            </td>
             <td>Learn more about how we respond to <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">lawful requests</a>.</td>
         </tr>
     </tbody>
