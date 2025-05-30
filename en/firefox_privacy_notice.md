@@ -1,6 +1,6 @@
 # Firefox Privacy Notice
 
-Effective June 2nd, 2025
+Effective June 2, 2025
 {: datetime="2025-06-02" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
