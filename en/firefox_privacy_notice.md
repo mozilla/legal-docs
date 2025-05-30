@@ -1,7 +1,7 @@
 # Firefox Privacy Notice
 
-Effective February 25, 2025
-{: datetime="2025-02-25" }
+Effective June 2nd, 2025
+{: datetime="2025-06-02" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
@@ -29,7 +29,7 @@ Data processed on your device remains in your control. You can [manage your brow
 
 ### To provide and improve search functionality
 
-When you perform a search in Firefox, your search query, device data and location data will be processed by your default search engine (according to their [applicable Privacy Notice](#privacy-policies-for-search-providers)) to provide your search results and search suggestions. Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser, including but not limited to Google, Bing, DuckDuckGo, and eBay.
+When you perform a search in Firefox, your search query, device data and location data will be processed by your default search engine (according to their [applicable Privacy Notice](#privacy-policies-for-search-providers)) to provide your search results and search suggestions. Mozilla generally receives royalties when you use one of the default or optional search options in the Firefox web browser.
 
 Firefox also shows its own [search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) based on information stored on your local device (including recent search terms, open tabs, and previously visited URLs). These suggestions may include sponsored suggestions from Mozilla’s partners, relevant content from common internet resources (such as Wikipedia), or relevant URLs that are popular in your country. Mozilla processes certain technical and interaction data, such as how many searches you perform, how many sponsored suggestions you see and whether you interact with them. Mozilla's partners receive de-identified information about interactions with the suggestions they've served. You can enable or disable [Search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) at any time.
 
