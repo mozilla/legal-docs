@@ -1,7 +1,7 @@
 # Mozilla Accounts Terms of Service
 
-Last Updated November 1, 2023
-{: datetime="2023-11-01" }
+Last Updated May 13, 2025
+{: datetime="2025-05-13" }
 
 ## Summary
 
@@ -18,7 +18,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 2. #### Mozilla Accounts
 
-    In order to use some of the Services, you'll need to create a Mozilla account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Mozilla account. Mozilla is not responsible for any losses arising out of unauthorized use of your Mozilla account.
+    In order to use some of the Services, you'll need to create a Mozilla account. You must be 13 years old or older to create a Mozilla account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and for the activity that happens through your Mozilla account. Mozilla is not responsible for any losses arising out of unauthorized use of your Mozilla account.
 
 3. #### Services 
 
