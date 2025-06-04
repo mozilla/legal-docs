@@ -1,7 +1,7 @@
 # Mozilla 帐户服务条款
 
-最后更新于 2023 年 11 月 1 日
-{: datetime="2023-11-01" }
+最后更新于 2025 年 5 月 13 日
+{: datetime="2025-05-13" }
 
 ## 摘要
 
@@ -18,7 +18,7 @@
 
 2. #### Mozilla 帐户
 
-     要使用某些服务，您将需要创建一个 Mozilla 帐户。在注册过程中，系统将提示您设置密码。您有责任对自己的密码保密，并对通过 Mozilla 帐户进行的活动负责。对于因您的 Mozilla 帐户遭到未经授权使用而造成的任何损失，Mozilla 概不负责。
+    要使用某些服务，您将需要创建一个 Mozilla 帐户。您必须年满 13 岁才能创建 Mozilla 帐户。在注册过程中，系统将提示您设置密码。您有责任对自己的密码保密，并对通过 Mozilla 帐户进行的活动负责。对于因您的 Mozilla 帐户遭到未经授权使用而造成的任何损失，Mozilla 概不负责。
 
 3. #### 服务
 
@@ -58,7 +58,7 @@
     
     另外，我们还可能会向您发送一些重要的帐户信息，如法律或隐私条款更新，或者密码重置、电子邮件验证和链接设备等安全消息。这些信息是我们服务的必要组成部分，无法取消订阅。
     
-	您可以写信至 _Mozilla 企业收件人与 Mozilla 联系：Mozilla – Legal Notices 149 New Montgomery St, 4th Floor, San Francisco, CA 94105 或者，发送电子邮件至：legal-notices@mozilla.com_
+您可以写信至 _Mozilla 企业收件人与 Mozilla 联系：Mozilla – Legal Notices 149 New Montgomery St, 4th Floor, San Francisco, CA 94105 或者，发送电子邮件至：legal-notices@mozilla.com_
 
 6. #### Services 中您的内容
 

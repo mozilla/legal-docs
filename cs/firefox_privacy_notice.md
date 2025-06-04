@@ -1,7 +1,7 @@
 ﻿# Prohlášení o ochraně osobních údajů Firefox
 
-Účinné od 25. února 2025
-{: datetime="2025-02-25" }
+Účinné od 2. červen 2025
+{: datetime="2025-06-02" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -15,44 +15,46 @@ Společnost Mozilla shromažďuje [určité údaje](#bookmark-how-we-use-data), 
 
 Některé funkce Firefox, jako jsou automatický [překlad](https://support.mozilla.org/kb/website-translation) webových stránek a [doporučení „alternativního textu“ při nahrávání obrázků do vašich souborů PDF](https://support.mozilla.org/kb/pdf-alt-text), jsou podporovány umělou inteligencí (AI) na základě malých jazykových modelů stažených do vašeho zařízení. Tyto fungují lokálně — obsah webových stránek, soubory PDF, adresy URL obrázků a karet zůstávají ve vašem zařízení a bez vašeho výslovného souhlasu se neodesílají na servery společnosti Mozilla ani se nepoužívají pro účely učení. Upozorňujeme, že ostatní funkce Firefox mohou být integrovány s nezávislými modely AI třetích stran, v souladu s podrobnými informacemi uvedenými níže v tomto Oznámení.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
-Podrobnosti o tom, jaké údaje shromažďujeme pro [stolní počítače ](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), systémy [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) nebo [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Svá nastavení shromažďování údajů pro [stolní počítač ](https://support.mozilla.org/kb/technical-and-interaction-data) a [mobilní zařízení ](https://support.mozilla.org/kb/technical-and-interaction-data) můžete kdykoliv upravit.
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
+
+Podrobnosti o tom, jaké údaje shromažďujeme pro [stolní počítače ](https://dictionary.telemetry.mozilla.org/apps/firefox_desktop), systémy [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) nebo [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Svá nastavení shromažďování údajů pro [stolní počítač ](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) a [mobilní zařízení ](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) můžete kdykoliv upravit.
 
 ### Přizpůsobení Firefoxu vašim potřebám
 
 Firefox zpracovává různé osobní údaje způsobem, který neopouští vaše zařízení, jako je historie procházení, data webových formulářů, dočasné internetové soubory a soubory cookies. To znamená, že tyto údaje zůstávají ve vašem zařízení a nejsou odesílány na servery společnosti Mozilla, pokud není v tomto Oznámení výslovně uvedeno jinak. Pokud se rozhodnete takovou možnost povolit, zpracováváno může být i vaše přesné místo pro funkce související s místem pro webové stránky, jako jsou Mapy Google; přístup k těmto údajům z vašeho zařízení je využíván výhradně webovými stránkami, u kterých to povolíte - nejsou odesílány na servery společnosti Mozilla.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Nad údaji zpracovávanými ve vašem zařízení si uchováváte kontrolu. Kdykoliv můžete [spravovat své údaje procházení ](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) a [nastavení místního úložiště ](https://support.mozilla.org/kb/storage), nebo aktualizovat svá [povolení lokalizace](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
 
 ### Poskytování a vylepšování funkce vyhledávání 
 
-Když na Firefoxu provedete vyhledávání, váš vyhledávací dotaz, údaje o zařízení a údaje o lokalitě budou zpracovány vaším výchozím vyhledávačem (v souladu s jejich [příslušným Oznámením o ochraně osobních údajů](#privacy-policies-for-search-providers)) za účelem poskytnutí výsledků vyhledávání a doporučení pro vyhledávání.
+Když na Firefoxu provedete vyhledávání, váš vyhledávací dotaz, údaje o zařízení a údaje o lokalitě budou zpracovány vaším výchozím vyhledávačem (v souladu s jejich [příslušným Oznámením o ochraně osobních údajů](#privacy-policies-for-search-providers)) za účelem poskytnutí výsledků vyhledávání a doporučení pro vyhledávání. Společnost Mozilla obvykle dostává licenční poplatky, pokud používáte výchozí nebo volitelné možnosti vyhledávání ve webovém prohlížeči Firefox.
 
 Firefox rovněž zobrazí své vlastní [doporučení pro vyhledávání](https://support.mozilla.org/kb/search-suggestions-firefox) na základě informací uložených ve vašem místním zařízení (včetně posledních hledaných pojmů, otevřených karet a dříve navštívených adres URL). Tyto doporučení mohou zahrnovat sponzorovaná doporučení od partnerů společnosti Mozilla, relevantní obsah z obecných internetových zdrojů (jako je například Wikipedie) nebo relevantní adresy URL, které jsou ve vaší zemi populární. Společnost Mozilla zpracovává určité technické údaje a data o interakcích, jako například kolik vyhledávání provádíte, kolik sponzorovaných doporučení se vám zobrazuje a zda na ně reagujete. Partneři společnosti Mozilla získají deidentifikované údaje ohledně interakcí s doporučeními, která nabízejí. [Doporučení pro vyhledávání](https://support.mozilla.org/kb/search-suggestions-firefox) můžete kdykoliv povolit nebo zakázat.
 
-V závislosti na vaší lokalitě společnost Mozilla odvodí obecnou kategorii (např. cestování, nakupování) vašeho vyhledávání na základě klíčových slov dotazu za účelem pochopení typů a počtu prováděných vyhledávání. Využíváme technologie ochrany osobních údajů, které zajistí, že společnost Mozilla se dozví pouze, že někdo, někde provedl vyhledávání týkající se konkrétní kategorie, aniž by věděla, kdo přesně. [Podrobnější informace](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) o tom, jak vyhledávání rozdělujeme do kategorií, včetně postupu vyloučení použití.
+[V závislosti na vaší lokalitě](https://support.mozilla.org/kb/firefox-suggest) společnost Mozilla odvodí obecnou kategorii (např. cestování, nakupování) vašeho vyhledávání na základě klíčových slov dotazu za účelem pochopení typů a počtu prováděných vyhledávání. Využíváme technologie ochrany osobních údajů, které zajistí, že společnost Mozilla se dozví pouze, že někdo, někde provedl vyhledávání týkající se konkrétní kategorie, aniž by věděla, kdo přesně. [Podrobnější informace](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) o tom, jak vyhledávání rozdělujeme do kategorií, včetně postupu vyloučení použití.
 
 Společnost Mozilla může z vašeho vyhledávání rovněž získat klíčová slova související s lokalitou (jako například, když vyhledáváte pojem „Boston“) a tyto údaje sdílet se svými partnery za účelem poskytování doporučeného a sponzorovaného obsahu. Pokud k tomu dojde, společnost Mozilla nemůže přiřadit vyhledávání klíčových slov je konkrétnímu uživateli bezprostředně po doručení doporučení a partneři nemohou přiřadit doporučení pro vyhledávání s konkrétním uživatelem nikdy. Tuto funkci můžete kdykoliv odebrat vypnutím Sponzorovaných doporučení — podrobnější informace o tom, jak postupovat, najdete na příslušné stránce [Podpory Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u).
 
 Rovněž můžete mít možnost zaregistrovat se k použití pokročilého prostředí vyhledávání, což povede k tomu, že společnost Mozilla bude zpracovávat dodatečné osobní údaje, včetně vašich technických údajů, lokality a dat o vyhledávání. Některé z těchto informací mohou být sdíleny s našimi partnery v deidentifikované a/nebo souhrnné formě. Podrobnější informace najdete v našem [příspěvku na blogu](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/) „Data a doporučení Firefox“.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Svá [Nastavení vyhledávání](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) a [Funkce doporučení pro vyhledávání](https://support.mozilla.org/kb/search-suggestions-firefox) můžete kdykoliv aktualizovat a podívat se podobnější informace o tom, jak [vyhledávání dělíme do kategorií](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).
 
+<a id="recommend-relevant-content"></a>
 ### Poskytování relevantního obsahu a reklam na nové kartě Firefoxu
 
-Pro poskytování obsahu a reklamy na stránce Nová karta Firefoxu ve správném formátu (tj. pro mobilní zařízení vs. stolní počítač), jaky a relevantní lokalitu používáme technické údaje, jazykové předvolby a údaje o lokalitě. Společnost Mozilla shromažďuje technické informace a data o interakcích, jako jsou poloha, velikost, zobrazení a kliknutí na obsah nebo reklamu Nové karty s cílem pochopit, jak lidé s naším obsahem interagují, a pro přizpůsobení budoucího obsahu, včetně sponzorovaného obsahu. Tyto údaje mohou být sdíleny s našimi reklamními partnery v deidentifikované nebo souhrnné formě.
+Pro poskytování obsahu a reklamy na stránce Nová karta Firefoxu ve správném formátu (tj. Jako domovskou stránku na mobilním zařízení vs. Na stolním počítači), jazyce a pro relevantní lokalitu používáme technické údaje, jazykové předvolby a údaje o lokalitě. Společnost Mozilla shromažďuje technické informace a data o interakcích, jako jsou poloha, velikost, zobrazení a kliknutí na obsah nebo reklamu Nové karty s cílem pochopit, jak lidé s naším obsahem interagují, a pro přizpůsobení budoucího obsahu, včetně sponzorovaného obsahu. Tyto údaje mohou být sdíleny s našimi reklamními partnery v deidentifikované nebo souhrnné formě.
 
 V určitých případech, pokud jsou na Nové kartě povoleny reklamy, místně ve vašem zařízení mohou být zpracovávány určité dodatečné údaje o procházení za účelem měření efektivity takových reklam; tyto údaje budou sdíleny se společností Mozilla a/nebo našimi reklamními partnery pouze prostřednictvím našich technologií zabezpečení ochrany osobních údajů v souhrnné a/nebo deidentifikované formě.
 
 Když uživatel navštíví webové stránky třetích osob kliknutím na reklamu nebo odkaz ve Firefoxu, takové stránky mohou využívat soubory cookies nebo jiná webová rozhraní API dostupná pro libovolné webové stránky za účelem shromažďování dat v souladu s oznámením o ochraně osobních údajů a/nebo používání souborů cookie příslušných webových stránek.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
-Můžete si přečíst podrobnější informace o [postupu správy vaší stránky Nová karta](https://support.mozilla.org/kb/customize-your-new-tab-page) včetně vašich [nastavení dat](https://support.mozilla.org/kb/sponsor-privacy). Kdykoliv můžete vyloučit možnost zpracování vašich údajů pro účely přizpůsobení nebo reklamní účely vypnutím „technických údajů a dat o interakcích“ na [stolním počítači](https://support.mozilla.org/kb/technical-and-interaction-data) a [mobilním zařízení](https://support.mozilla.org/kb/technical-and-interaction-data).
+Podrobnější informace o tom, [jak spravujeme vaši stránku Nová karta](https://support.mozilla.org/kb/customize-your-new-tab-page) včetně nastavení údajů pro [stolní počítač](https://support.mozilla.org/kb/sponsor-privacy), systém [Android](https://support.mozilla.org/kb/customize-firefox-home-screen) nebo [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios). Možnost zpracování vašich údajů pro účely přizpůsobení nebo reklamní účely můžete kdykoliv vyloučit vypnutím dat na [stolním počítači](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) a [mobilním zařízení](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy).
 
 ### Poskytování účtů Mozilla
 
@@ -64,7 +66,7 @@ Máte k dispozici možnost využívat chatboty AI třetích osob dle vaší volb
 
 Pokud se rozhodnete povolit chatbota v boční liště a/nebo formou zkratky, společnost Mozilla nebude mít přístup k vašim konverzacím nebo souvisejícímu obsahu, který zadáte do vybraného chatbota. Shromažďujeme technické údaje a data o interakcích v souvislosti s používáním této funkce pro vylepšení Firefoxu, jako například jak často je vybrán konkrétní chatbot AI třetí strany, jak často jsou používány doporučené výzvy a délka vybraného textu.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Můžete si přečíst podrobnější informace o [správě](https://support.mozilla.org/kb/ai-chatbot) nebo [odebrání](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) chatbotů AI ve Firefoxu.
 
@@ -74,7 +76,7 @@ Kontrola recenzí je funkce Firefoxu, která vám pomáhá zjistit, zda jsou rec
 
 V případě povolení funkce Kontroly recenzí rovněž souhlasíte, že vám budou zobrazovány doporučené produkty a sponzorovaný obsah. Pokud si nepřejete dostávat doporučení produktů a sponzorovaný obsah, můžete tuto funkci kdykoliv vyloučit v nastavení Kontroly recenzí.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Můžete si přečíst podrobnější informace o [Způsobu používání Kontroly recenzí Firefoxu](https://support.mozilla.org/kb/review-checker-review-quality) a našich postupech uplatňování technologie chránící osobní údaje, jako je [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
@@ -84,7 +86,7 @@ Doplňky můžete nainstalovat ze stránky addons.mozilla.org („AMO“) nebo z
 
 Pokud navštívíte [webové stránky AMO](https://addons.mozilla.org/firefox/), společnost Mozilla shromažďuje technické údaje a data o interakcích v souvislosti s vaším využitím stránek v souladu s naším oznámením o [Webových stránkách, komunikaci a souborech cookie společnosti Mozilla](https://www.mozilla.org/privacy/websites/).
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Zjistěte, [jak odebrat nebo povolit doplňky](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Rovněž si můžete prohlédnout [Oznámení o ochraně osobních údajů](https://www.mozilla.org/privacy/websites/) pro [webové stránky doplňků](https://addons.mozilla.org/firefox/).
 
@@ -92,11 +94,11 @@ Zjistěte, [jak odebrat nebo povolit doplňky](https://support.mozilla.org/kb/fi
 
 Společnost Mozilla provádí [studie](https://support.mozilla.org/kb/shield) v rámci Firefoxu a nabízí určité [experimentální funkce](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) dostupné prostřednictvím Firefox Labs za účelem testování různých funkcí a nápadů před jejich poskytnutím všem uživatelům Firefoxu nebo než se stanou součástí základní nabídky Firefoxu - tom nám umožňuje přijímat lépe informovaná rozhodnutí ohledně toho, co naši uživatelé chtějí a potřebují. Tento výzkum využívá technické údaje, systémová data, údaje o lokalitě, nastaveních a interakcích.
 
-Rovněž potřebujeme zpracovávat údaje pro zachování provozuschopnosti Firefoxu, zlepšování funkcí a výkonu a pro identifikaci, řešení a diagnostiku problémů. Za tímto účelem využíváme technické údaje a data o lokalitě a nastaveních, jakož i o interakcích a údaje o výkonu systému (jako je počet otevřených karet, využití paměti nebo výsledky automatizovaných procesů jako jsou aktualizace). Ve vzácných případech, kdy potřebné informace zahrnují jako omezené údaje o procházení (např. Poznámky domény nejvyšší úrovně pro monitorování výkonu načítání stránek), tyto budou přeneseny pomocí technologie OHTTP; to pomáhá zabránit tomu, aby společnost Mozilla propojila vás nebo vaše zařízení s daty shromážděnými za tímto účelem.
+Rovněž potřebujeme zpracovávat údaje pro zachování provozuschopnosti Firefoxu, zlepšování funkcí a výkonu a pro identifikaci, řešení a diagnostiku problémů. Za tímto účelem využíváme technické údaje a data o lokalitě a nastaveních, jakož i o interakcích a údaje o výkonu systému (jako je počet otevřených karet, využití paměti nebo výsledky automatizovaných procesů jako jsou aktualizace). Ve vzácných případech, kdy potřebné informace zahrnují jako omezené údaje o procházení (např. poznámky domény nejvyšší úrovně pro monitorování výkonu načítání stránek), tyto budou přeneseny pomocí technologie [OHTTP](https://support.mozilla.org/kb/ohttp-explained); to pomáhá zabránit tomu, aby společnost Mozilla propojila vás nebo vaše zařízení s daty shromážděnými za tímto účelem.
 
 Na stolních počítačích a v systémech Android, pokud Firefox narazí na nečekaný problém, funkce [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) se rovněž zeptá, zda si přejete odeslat nám další informace, které mohou zahrnovat stránky otevřené v okamžiku havárie a další údaje o procházení. V případě stolních počítačů a systémů Android, pokud se rozhodnete pro automatické odeslání hlášení o havárii, budeme tyto informace shromažďovat bez dalšího dotazu v každém případě; v případě systému iOS obsahují hlášení o havárii méně informací a dle výchozího nastavení jsou nám odesílány automaticky. Svá nastavení můžete kdykoliv upravit.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Můžete si přečíst [podrobnější informace](https://support.mozilla.org/kb/shield) o studiích, kterých se účastníte, a možnosti libovolném čase odhlášení se ze všech (nebo některých konkrétních) studií, stejně jako registraci k používání experimentálních funkcí prostřednictvím [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Můžete si rovněž přečíst [podrobnější informace](https://support.mozilla.org/kb/technical-and-interaction-data) o technických údajů a datech o interakcích, které zpracováváme, a to včetně postupu jejich vypnutí.
 
@@ -109,23 +111,23 @@ Kromě těchto standardních procesů využíváme [službu Safe Browsing Servic
 
 V případě [některých uživatelů Firefoxu](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox směřuje požadavky DNS do služby resolveru, která souhlasila s [přísnými zásadami ochrany osobních údajů pro resolvery](https://wiki.mozilla.org/Security/DOH-resolver-policy) společnosti Mozilla. To zabezpečuje dodatečnou ochranu před úniky osobních údajů do místních sítí, stejně jako obranu proti některým útokům na zabezpečení DNS. Systémové protokoly vašich požadavků DNS se odstraňují ze služby do 24 hodin a používají se pouze pro účely rozlišení DNS. [Podrobnější informace](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) o DNS přes HTTPS.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
-[Seznam zakázaných upgradů a doplňků](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [služba Safe Browsing Service společnosti Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/),
+Podrobnější informace o [seznamech blokování upgradů a doplňků](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [službě Safe Browsing Service společnosti Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) a [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) nebo vypnutí [technických údajů a dat o interakcích](https://support.mozilla.org/kb/technical-and-interaction-data). 
 
 ### Pochopení používání Firefoxu
 
 [Data](#bookmark-understand-usage) zpracováváme pro lepší pochopení vaší interakce s našimi službami, jako například jak často Firefox používáte, vaše jazykové předvolby, jak často používáte naše nástroje vyhledávání nebo interagujete s doporučeními pro vyhledávání, jak rychle se stránky načítají a kolik reklam nebo [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) se vám zobrazuje. To nám umožňuje měřit,jak lidé využívají přístup k našim službám a jak je využívají, což nám pomáhá vylepšovat naše podnikání a funkce Firefoxu.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
-Svá nastavení shromažďování osobních údajů pro [stolní počítač](https://support.mozilla.org/kb/technical-and-interaction-data) a [mobilní zařízení](https://support.mozilla.org/kb/technical-and-interaction-data) můžete kdykoliv upravit (upozorňujeme, že zrušení volby „Povolit Firefoxu odesílat technické údaje a data o interakcích společnosti Mozilla“ nebude mít dopad na [Denní volání ping ohledně využití](https://support.mozilla.org/kb/usage-ping-settings)). Toto Denní volání ping ohledně využití nám poskytuje výhradně deidentifikované informace, že uživatel používá Firefox, a nejsou vázány na žádné další údaje o vás, přičemž v nastavení lze tuto možnost vyloučit.
+Svá nastavení shromažďování osobních údajů pro [stolní počítač](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) a [mobilní zařízení](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) můžete kdykoliv upravit (upozorňujeme, že zrušení volby „Povolit Firefoxu odesílat technické údaje a data o interakcích společnosti Mozilla“ nebude mít dopad na [Denní volání ping ohledně využití](https://support.mozilla.org/kb/usage-ping-settings)). Toto Denní volání ping ohledně využití nám poskytuje výhradně deidentifikované informace, že uživatel používá Firefox, a nejsou vázány na žádné další údaje o vás, přičemž v nastavení lze tuto možnost vyloučit.
 
 ### Nabídka našich služeb
 
 Pokud nám to umožníte, Firefox bude zasílat společnosti Mozilla data ohledně domén webových stránek nebo konkrétních reklamních kampaních (v příslušných případech), které vás odkázaly na naše stránky souborů ke stažení, abychom lépe pochopili fungování našeho marketingového úsilí a mohli jej zlepšit. Firefox rovněž sdílí informace s našimi marketingovými partnery pro měření a vylepšení těchto kampaní; konkrétně sdílené informace se liší (v závislosti na tom, jak jste Firefox objevili, a v závislosti na vašem operačním systému), nicméně v obecnosti zahrnují způsob, jak jste byli na naše stránky se soubory ke stažení odkázání a zda Firefox aktivně používáte. Pokud je Firefox ve vašem zařízení předem nainstalován, technické údaje a data o interakcích (typ vašeho zařízení a zda je Firefox používán) budou zasílány naším marketingovým partnerům a sdíleny se společností Mozilla.
 
-#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:
+#### Podrobnější informace včetně postupu úpravy vašeho nastavení údajů
 
 Podrobnější informace o tom, která [Data měření kampaně](https://support.mozilla.org/kb/marketing-data) jsou shromažďována a sdílena, a postup vyloučení možnosti. Poznámka: Firefox nesdílí s partnery marketingových technologií informace, jako jsou historie prohlížení, dotazy vyhledávání nebo uložená hesla. Společnost Mozilla shromažďuje pouze údaje nezbytné pro měření a vylepšení našich marketingových kampaní.
 
@@ -141,7 +143,7 @@ V závislosti na vašich nastaveních (a na tom, zda máte účet Mozilla, či n
 
 Stejně tak můžeme být povinni zpracovávat vaše osobní údaje za účelem splnění platných právních předpisů a za účelem ochrany, jako např.:
 
-* <a id="bookmark-authorities"></a>reakce na [požadavky vyplývající z právních předpisů](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na výzvy, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě.
+* <a id="bookmark-authorities"></a>Reakce na [požadavky vyplývající z právních předpisů](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na předvolání, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný zákonný postup pro nucené poskytnutí údajů o konkrétním uživateli vládě.
 * Reakce na požadavky ohledně uplatnění práva na ochranu osobních údajů, jako jsou práva na přístup k vašim osobních údajům nebo jejich odstranění.
 * Identifikace, vyšetřování a řešení potenciálních podvodních činností nebo jiných škodlivých aktivit, jako jsou nezákonné činnosti, kybernetické útoky či porušení práv duševního vlastnictví (včetně podávání návrhů nebo obrany zákonných nároků).
 * Provádění interních činností souladu s předpisy a zabezpečením,, jako jsou audity a správa firemního zabezpečení.
@@ -165,7 +167,7 @@ Naše služby rovněž využívají šifrované záložní úložiště jako dal
 
 ## Vaše právo a volby
 
-### Vaše práva:
+### Vaše práva
 
 Jako uživatel Firefoxu máte následující práva:
 
@@ -190,9 +192,9 @@ Na všechny žádosti, které obdržíme od fyzických osob, které si přejí u
 
 Dovolujeme si upozornit, že pokud požadujete odstranění svých údajů Firefox, tyto budou odstraněny během 30 dní od žádosti (s výjimkou Údajů o interakci, které mají standardní dobu uchovávání 90 dní a které se automaticky odstraní po uplynutí této lhůty).
 
-### Vaše volby:
+### Vaše volby
 
-Svá nastavení shromažďování údajů pro [stolní počítač ](https://support.mozilla.org/kb/technical-and-interaction-data) a [mobilní zařízení ](https://support.mozilla.org/kb/technical-and-interaction-data) můžete kdykoliv upravit.
+Svá nastavení shromažďování údajů pro [stolní počítač ](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) a [mobilní zařízení ](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) můžete kdykoliv upravit.
 
 Firefox rovněž poskytuje funkci [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), která vám umožňuje automaticky informovat webové stránky, aby neprodávaly ani nesdílely vaše informace o relaci procházení příslušných webových stránek. GPC funguje na základě mechanizmu „Neprodávat“ v některých amerických státech jako jsou Kalifornie, Colorado a Connecticut. Lze ji rovněž využít pro označení zrušení souhlasu s cílenou reklamou nebo obecného požadavku na omezení prodeje nebo sdílení vašich osobních údajů v těchto právních řádech, stejně jako v právních řádech jako jsou EU, Spojené království, Nevada a Virginie.
 
@@ -257,7 +259,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
                 <p><strong>Smlouva</strong>, abychom vám poskytli nezbytné funkce, díky kterým může Firefox fungovat.</p>
                 <p><strong>Zákonný zájem</strong> na poskytování dodatečných služeb, služeb usnadnění přístupu a lépe přizpůsobeného prostředí.</p>
             </td>
-            <td>Podrobnosti o tom, jaké údaje shromažďujeme pro <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">stolní počítače </a>, systémy <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> nebo <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Svá nastavení shromažďování údajů pro <a href="https://support.mozilla.org/kb/technical-and-interaction-data">stolní počítač </a> a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobilní zařízení </a> můžete kdykoliv upravit. Můžete si rovněž přečíst podrobnější informace o <a href="https://support.mozilla.org/kb/website-translation">překladech</a> a <a href="https://support.mozilla.org/kb/pdf-alt-text">doplňování alternativních textů k obrázkům v souborech PDF</a>.</td>
+            <td>Podrobnosti o tom, jaké údaje shromažďujeme pro <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_desktop">stolní počítače </a>, systémy <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> nebo <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Svá nastavení shromažďování údajů pro <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">stolní počítač </a> a <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobilní zařízení </a> můžete kdykoliv upravit. Můžete si rovněž přečíst podrobnější informace o <a href="https://support.mozilla.org/kb/website-translation">překladech</a> a <a href="https://support.mozilla.org/kb/pdf-alt-text">doplňování alternativních textů k obrázkům v souborech PDF</a>.</td>
         </tr>
         <tr>
             <td>Přizpůsobení Firefoxu vašim potřebám</td>
@@ -307,7 +309,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
                 </ul>
             </td>
             <td><strong>Zákonný zájem</strong> na poskytování obsahu, o který se zajímáte, a zajištění, aby zobrazované reklamy pro vás byly relevantní (což podporuje naši schopnost poskytovat naše produkty a služby).</td>
-            <td>Můžete si přečíst podrobnější informace o <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">postupu správy vaší stránky Nová karta</a> včetně vašich <a href="https://support.mozilla.org/kb/sponsor-privacy">nastavení dat</a>. Kdykoliv můžete vyloučit možnost zpracování vašich údajů pro účely přizpůsobení nebo reklamní účely vypnutím „technických údajů a dat o interakcích“ na <a href="https://support.mozilla.org/kb/technical-and-interaction-data">stolním počítači</a> a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobilním zařízení</a>.</td>
+            <td>Podrobnější informace o tom, <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">jak spravujeme vaši stránku Nová karta</a> včetně nastavení údajů pro <a href="https://support.mozilla.org/kb/sponsor-privacy">stolní počítač</a>, systém <a href="https://support.mozilla.org/kb/customize-firefox-home-screen">Android</a> nebo <a href="https://support.mozilla.org/kb/customize-firefox-home-ios">iOS</a>. Možnost zpracování vašich údajů pro účely přizpůsobení nebo reklamní účely můžete kdykoliv vyloučit vypnutím dat na <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">stolním počítači</a> a <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobilním zařízení</a>.</td>
         </tr>
         <tr>
             <td>Poskytování účtů Mozilla</td>
@@ -398,7 +400,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
                 <p><strong>Soulad s předpisy</strong> při zajištění osobních údajů v souladu s požadavky platných právních předpisů o ochraně osobních údajů a kybernetické bezpečnosti.</p>
                 <p><strong>Zákonný zájem</strong> na poskytování dodatečných opatření zabezpečení pro všechny naše uživatele a posílení celkového zabezpečení internetu (jako je ochrana proti zaznamenávání otisků prstů).</p>
             </td>
-            <td>Přečtěte si více o našich <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Seznamech zakázaných upgradů a doplňků</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">službě Safe Browsing Service společnosti Google</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>,</td>
+            <td>Podrobnější informace o <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">seznamech blokování upgradů a doplňků</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">službě Safe Browsing Service společnosti Google</a> a <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a> nebo vypnutí <a href="https://support.mozilla.org/kb/technical-and-interaction-data">technických údajů a dat o interakcích</a>.</td>
         </tr>
         <tr>
             <td><a id="bookmark-understand-usage"></a>Pochopení využití Firefoxu</td>
@@ -418,10 +420,10 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
                 <p><strong>Zákonný zájem</strong> na pochopení způsobu využití Firefoxu, umožnění zlepšení a poskytování firemních funkcí, jako je vykazování využití a předpovědi.</p>
                 <p><strong>Souhlas</strong>, pokud se vyžaduje v souladu s platnými právními předpisy (např. V případě použití jiných než nezbytných souborů cookie), nebo v případě, že uživatelé interagují s průzkumy nebo dobrovolně poskytují další informace.</p>
             </td>
-            <td>Svá nastavení shromažďování osobních údajů pro <a href="https://support.mozilla.org/kb/technical-and-interaction-data">stolní počítač</a> a <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobilní zařízení</a> můžete kdykoliv upravit (upozorňujeme, že zrušení volby „Povolit Firefoxu odesílat technické údaje a data o interakcích společnosti Mozilla“ nebude mít dopad na <a href="https://support.mozilla.org/kb/usage-ping-settings">Denní volání ping ohledně využití</a>). Toto Denní volání ping ohledně využití nám poskytuje výhradně deidentifikované informace, že uživatel používá Firefox, a nejsou vázány na žádné další údaje o vás, přičemž v nastavení lze tuto možnost vyloučit.</td>
+            <td>Svá nastavení shromažďování osobních údajů pro <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">stolní počítač</a> a <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobilní zařízení</a> můžete kdykoliv upravit (upozorňujeme, že zrušení volby „Povolit Firefoxu odesílat technické údaje a data o interakcích společnosti Mozilla“ nebude mít dopad na <a href="https://support.mozilla.org/kb/usage-ping-settings">Denní volání ping ohledně využití</a>). Toto Denní volání ping ohledně využití nám poskytuje výhradně deidentifikované informace, že uživatel používá Firefox, a nejsou vázány na žádné další údaje o vás, přičemž v nastavení lze tuto možnost vyloučit.</td>
         </tr>
         <tr>
-            <td>Nabídka našich služeb.</td>
+            <td>Nabídka našich služeb</td>
             <td>
                 <ul>
                     <li>Technické údaje</li>
@@ -441,7 +443,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
             <td>Podrobnější informace o tom, která <a href="https://support.mozilla.org/kb/marketing-data">Data měření kampaně</a> jsou shromažďována a sdílena, a postup vyloučení možnosti. Poznámka: Firefox nesdílí s partnery marketingových technologií informace, jako jsou historie prohlížení, dotazy vyhledávání nebo uložená hesla. Společnost Mozilla shromažďuje pouze údaje nezbytné pro měření a vylepšení našich marketingových kampaní.</td>
         </tr>
         <tr>
-            <td>Pseudonymizace, deidentifikace, shrnutí nebo anonymizace dat.</td>
+            <td>Pseudonymizace, deidentifikace, shrnutí nebo anonymizace dat</td>
             <td>
                 <ul>
                     <li>Všechny typy údajů</li>
@@ -451,7 +453,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
             <td></td>
         </tr>
         <tr>
-            <td>Komunikace s vámi.</td>
+            <td>Komunikace s vámi</td>
             <td>
                 <ul>
                     <li>Jedinečné identifikační kódy</li>
@@ -465,13 +467,16 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
             <td></td>
         </tr>
         <tr>
-            <td>Splnění platných právních předpisů a identifikace a prevence škodlivé, neoprávněné nebo nezákonné činnosti.</td>
+            <td>Splnění platných právních předpisů a identifikace a prevence škodlivé, neoprávněné nebo nezákonné činnosti</td>
             <td>
                 <ul>
                     <li>Všechny typy údajů</li>
                 </ul>
             </td>
-            <td><strong>Soulad s právními předpisy</strong> v rámci reakce na žádosti ze strany subjektů o uplatnění jejich práv, reakce na žádosti orgánů činných v trestním řízení, správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti. <strong>Zákonný zájem</strong>, pokud se neuplatní předpoklad souladu s předpisy, v rámci podpory zákonných nebo regulačních procesů nebo žádostí, pro prevenci podvodů a správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</td>
+            <td>
+                <p><strong>Soulad s právními předpisy</strong> v rámci reakce na žádosti ze strany subjektů o uplatnění jejich práv, reakce na žádosti orgánů činných v trestním řízení, správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
+                <p><strong>Zákonný zájem</strong>, pokud se neuplatní předpoklad souladu s předpisy, v rámci podpory zákonných nebo regulačních procesů nebo žádostí, pro prevenci podvodů a správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
+            </td>
             <td>Informujte se, jak reagujeme na <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">zákonné požadavky</a>.</td>
         </tr>
     </tbody>

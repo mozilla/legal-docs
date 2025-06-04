@@ -1,7 +1,7 @@
 # Servicevoorwaarden van de Mozilla-accounts
 
-Laatst bij gewerkt op woensdag 1 november 2023
-{: datetime="2023-11-01" }
+Laatst bij gewerkt op dinsdag 13 mei 2025
+{: datetime="2025-05-13" }
 
 ## Overzicht
 
@@ -18,7 +18,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
 2. #### Mozilla-accounts
 
-    Als u de Services wilt gebruiken, moet u een Mozilla-account maken. Tijdens de registratie wordt u gevraagd om een wachtwoord in te stellen. U bent verantwoordelijk voor het vertrouwelijk houden van uw wachtwoord en voor de activiteiten die plaatsvinden via uw Mozilla-account. Mozilla is niet verantwoordelijk voor eventuele verliezen die voortvloeien uit ongeautoriseerd gebruik van uw Mozilla-account.
+    Als u de Services wilt gebruiken, moet u een Mozilla-account maken. U moet minimaal 13 jaar oud zijn als u een Mozilla-account wilt maken. Tijdens de registratie wordt u gevraagd om een wachtwoord in te stellen. U bent verantwoordelijk voor het vertrouwelijk houden van uw wachtwoord en voor de activiteiten die plaatsvinden via uw Mozilla-account. Mozilla is niet verantwoordelijk voor eventuele verliezen die voortvloeien uit ongeautoriseerd gebruik van uw Mozilla-account.
 
 3. #### Services 
 
