@@ -1,7 +1,7 @@
 # Servicebedingungen für Mozilla-Konten
 
-Zuletzt aktualisiert am Mittwoch, 1. November 2023
-{: datetime="2023-11-01" }
+Zuletzt aktualisiert am Dienstag, 13. Mai 2025
+{: datetime="2025-05-13" }
 
 ## Zusammenfassung
 
@@ -18,7 +18,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 2. #### Mozilla-Konten
 
-    Um einige der Services nutzen zu können, müssen Sie ein Mozilla-Konto erstellen. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Mozilla-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Mozilla-Kontos ergeben.
+    Um einige der Services nutzen zu können, müssen Sie ein Mozilla-Konto erstellen. Sie müssen mindestens 13 Jahre alt sein, um ein Mozilla-Konto erstellen zu können. Bei der Registrierung werden Sie aufgefordert, ein Passwort festzulegen. Sie sind für die Geheimhaltung Ihres Passworts und für die Aktivitäten, die über Ihr Mozilla-Konto erfolgen, verantwortlich. Mozilla ist nicht verantwortlich für Verluste, die sich aus der nicht genehmigten Verwendung Ihres Mozilla-Kontos ergeben.
 
 3. #### Services 
 

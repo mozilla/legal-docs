@@ -1,7 +1,7 @@
 # Ketentuan Layanan Akun Mozilla
 
-Terakhir Diperbarui 01 November 2023
-{: datetime="2023-11-01" }
+Terakhir Diperbarui 13 Mei 2025
+{: datetime="2025-05-13" }
 
 ## Rangkuman
 
@@ -18,7 +18,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
 2. #### Akun Mozilla
 
-    Untuk menggunakan beberapa Layanan, Anda perlu membuat akun Mozilla. Saat pendaftaran, Anda akan diminta mengatur kata sandi. Anda bertanggung jawab untuk merahasiakan kata sandi dan aktivitas yang dilakukan dengan akun Mozilla Anda. Mozilla tidak bertanggung jawab atas segala kerugian akibat penggunaan akun Mozilla Anda yang tidak sah.
+    Untuk menggunakan beberapa Layanan, Anda perlu membuat akun Mozilla. Anda harus berusia 13 tahun atau lebih untuk membuat akun Mozilla. Saat pendaftaran, Anda akan diminta mengatur kata sandi. Anda bertanggung jawab untuk merahasiakan kata sandi dan aktivitas yang dilakukan dengan akun Mozilla Anda. Mozilla tidak bertanggung jawab atas segala kerugian akibat penggunaan akun Mozilla Anda yang tidak sah.
 
 3. #### Layanan 
 

@@ -1,7 +1,7 @@
 ﻿# Firefox 隐私声明
 
-2025 年 2 月 25 日生效
-{: datetime="2025-02-25" }
+2025 年 6 月 2 日生效
+{: datetime="2025-06-02" }
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
@@ -15,44 +15,46 @@ Mozilla 会收集[某些数据](#bookmark-how-we-use-data)，例如技术和设�
 
 某些 Firefox 功能，例如网页的自动[翻译](https://support.mozilla.org/kb/website-translation)和[在 PDF 中上传图片时的“替代文本”建议](https://support.mozilla.org/kb/pdf-alt-text)，是由基于小型语言模型的人工智能 (AI) 驱动的，这些模型会下载到您的设备上。这些功能在本地运行，即网页内容、PDF、图片和标签页 URL 都会保留在您的设备上，未经您的明确同意，不会被发送到 Mozilla 的服务器或用于训练目的。请注意，其他 Firefox 功能可能会集成第三方 AI 模型，本声明中会进一步详细说明。
 
-#### 更多详情，包括如何调整您的数据设置：
-您可以查阅我们为[桌面端](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 设备收集信息的详细说明。您可随时调整[桌面端](https://support.mozilla.org/kb/technical-and-interaction-data)与[移动端](https://support.mozilla.org/kb/technical-and-interaction-data)的数据收集设置。
+#### 更多详情，包括如何调整您的数据设置
+
+您可以查阅我们为[桌面端](https://dictionary.telemetry.mozilla.org/apps/firefox_desktop)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix) 或 [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) 设备收集信息的详细说明。您可随时调整[桌面端](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)与[移动端](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)的数据收集设置。
 
 ### 为了根据您的需求调整 Firefox
 
 Firefox 会处理多种个人数据，这些数据不会离开您的设备，例如浏览历史、网页表单数据、临时互联网文件和 Cookie。这意味着数据会保留在您的设备上，除非本声明中另有说明，否则不会发送到 Mozilla 的服务器。如果您选择允许，您的精确位置也可能会被处理，以用于 Google Maps 等网站提供与位置相关的功能；这些数据仅由您选择启用该功能的网站从您的设备访问，不会被发送到 Mozilla 的服务器。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 在您的设备上处理的数据仍由您掌控。您可以随时[管理您的浏览数据](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox)和[本地存储设置](https://support.mozilla.org/kb/storage)，或更新您的[位置权限](https://support.mozilla.org/kb/does-firefox-share-my-location-websites)。
 
 ### 为提供和改进搜索功能
 
-当您在 Firefox 中进行搜索时，您的搜索查询、设备数据和位置数据将由您的默认搜索引擎（根据其[适用的隐私声明](#privacy-policies-for-search-providers)）处理，以提供搜索结果和搜索建议。
+当您在 Firefox 中进行搜索时，您的搜索查询、设备数据和位置数据将由您的默认搜索引擎（根据其[适用的隐私声明](#privacy-policies-for-search-providers)）处理，以提供搜索结果和搜索建议。当您在 Firefox 网页浏览器中使用默认或可选搜索选项时，Mozilla 通常会收取特许权使用费。
 
 Firefox 还会根据存储在您本地设备上的信息（包括最近的搜索词、打开的标签页和之前访问的 URL）显示其自身的[搜索建议](https://support.mozilla.org/kb/search-suggestions-firefox)。这些建议可能包括来自 Mozilla 合作伙伴的推广建议、来自常见互联网资源（如维基百科）的相关内容，或您所在国家/地区流行的相关 URL。Mozilla 会处理某些技术和交互数据，例如您执行了多少次搜索、看到了多少推广建议以及您是否与这些建议进行了互动。Mozilla 的合作伙伴会收到关于与他们提供的建议交互的去标识化信息。您可以随时启用或禁用[搜索建议](https://support.mozilla.org/kb/search-suggestions-firefox)。
 
-根据您所在的位置，Mozilla 会通过查询中的关键词推导出搜索的高级类别（例如旅游、购物），以便了解用户进行的搜索类型和数量。我们采用隐私保护技术，确保 Mozilla 仅能获悉“某地某人进行过某类别搜索”的群体信息，而无法识别具体用户身份。[详细了解](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)我们如何对搜索进行分类，包括如何选择退出。
+[根据您所在的位置](https://support.mozilla.org/kb/firefox-suggest)，Mozilla 会通过查询中的关键词推导出搜索的高级类别（例如旅游、购物），以便了解用户进行的搜索类型和数量。我们采用隐私保护技术，确保 Mozilla 仅能获悉“某地某人进行过某类别搜索”的群体信息，而无法识别具体用户身份。[详细了解](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)我们如何对搜索进行分类，包括如何选择退出。
 
 Mozilla 还可能会从您的搜索中接收与位置相关的关键词（例如当您搜索“Boston”时），并与我们的合作伙伴共享这些信息，以提供推荐和推广的内容。在此过程中，一旦搜索建议被提供，Mozilla 便无法将关键词搜索与个人用户关联，且合作伙伴永远无法将搜索建议与个人用户关联起来。您可以随时通过关闭“赞助建议”来禁用此功能；如欲详细了解如何执行该操作，请参阅相关 [Firefox 支持](https://support.mozilla.org/kb/firefox-suggest?as=u)页面。
 
 您可以选择加入增强的搜索体验，这将导致 Mozilla 处理额外的个人数据，包括您的技术数据、位置和搜索数据。其中部分信息可能会在去标识化和/或聚合化的基础上与我们的合作伙伴共享。有关更多详细信息，请参阅我们的“数据和 Firefox 建议”[博客文章](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/)。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 您可以随时更新[搜索设置](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)和[搜索建议](https://support.mozilla.org/kb/search-suggestions-firefox)功能，并详细了解我们如何[对搜索进行分类](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)。
 
+<a id="recommend-relevant-content"></a>
 ### 为在 Firefox 新标签页上提供相关内容和广告
 
-我们使用技术数据、语言偏好和位置信息，以正确的格式（例如针对移动设备与桌面设备）、语言和相关位置在 Firefox 新标签页上提供内容和广告。Mozilla 收集技术和交互数据，例如新标签页内容或广告的位置、大小、浏览量和点击量，以了解用户如何与我们的内容交互，并个性化未来的内容，包括推广内容。这些数据可能会在去标识化或聚合化的基础上与我们的广告合作伙伴共享。
+我们使用技术数据、语言偏好和位置信息，以正确的格式（例如针对移动设备与桌面设备）、语言和相关位置在 Firefox 新标签页（移动端称为“主页”）上提供内容和广告。Mozilla 收集技术和交互数据，例如新标签页内容或广告的位置、大小、浏览量和点击量，以了解用户如何与我们的内容交互，并个性化未来的内容，包括推广内容。这些数据可能会在去标识化或聚合化的基础上与我们的广告合作伙伴共享。
 
 在某些情况下，当在新标签页上启用广告功能后，可能会在您的设备上本地处理额外的浏览数据，以衡量这些广告的效果；此类数据仅会通过我们的隐私保护技术以聚合化和/或去标识化的方式与 Mozilla 和/或我们的广告合作伙伴共享。
 
 当用户通过点击 Firefox 中的广告或链接访问第三方网站时，该网站可能会使用任何网站均可使用的 Cookie 和其他网络 API 来收集数据，这些数据的使用将受该网站的隐私政策和/或 Cookie 声明的约束。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
-您可以阅读更多关于[如何管理新标签页](https://support.mozilla.org/kb/customize-your-new-tab-page)的信息，包括您的[数据设置](https://support.mozilla.org/kb/sponsor-privacy)。您可以随时在[桌面端](https://support.mozilla.org/kb/technical-and-interaction-data)和[移动端](https://support.mozilla.org/kb/technical-and-interaction-data)上关闭“技术和交互数据”选项，选择不允许为个性化或广告目的处理您的数据。
+您可以阅读更多关于[如何管理新标签页](https://support.mozilla.org/kb/customize-your-new-tab-page)的信息，包括您[桌面端](https://support.mozilla.org/kb/sponsor-privacy)、[Android](https://support.mozilla.org/kb/customize-firefox-home-screen) 或 [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios) 设备的数据设置。您可以随时在[桌面端](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)和[移动端](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)上关闭数据选项，选择不允许为个性化或广告目的处理您的数据。
 
 ### 为提供 Mozilla 帐户
 
@@ -64,7 +66,7 @@ Mozilla 还可能会从您的搜索中接收与位置相关的关键词（例如
 
 如果您选择在侧边栏和/或通过快捷方式启用聊天机器人，Mozilla 将无法访问您的对话内容或您输入到所选聊天机器人中的底层内容。我们会收集有关此功能使用情况的技术和交互数据，以帮助改进 Firefox，例如每个第三方聊天机器人提供商的被选择频率、建议提示的使用频率以及所选文本的长度。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 您可以阅读更多有关如何在 Firefox 中[管理](https://support.mozilla.org/kb/ai-chatbot)或[删除](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) AI 聊天机器人的信息。
 
@@ -74,7 +76,7 @@ Review Checker 是 Firefox 的一项功能，旨在帮助您在通过 Amazon.com
 
 选择使用 Review Checker，即表示您还同意显示产品推荐和推广内容。如果您不想接收产品推荐和推广内容，可以随时在 Review Checker 设置下选择关闭此功能。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 您可以阅读更多有关[如何使用 Firefox Review Checker](https://support.mozilla.org/kb/review-checker-review-quality) 以及我们如何实施 [OHTTP](https://support.mozilla.org/kb/ohttp-explained) 等隐私保护技术的信息。
 
@@ -84,7 +86,7 @@ Review Checker 是 Firefox 的一项功能，旨在帮助您在通过 Amazon.com
 
 当您访问 [AMO 网站](https://addons.mozilla.org/firefox/)时，Mozilla 会根据我们的 [Mozilla 网站、通信和 Cookie](https://www.mozilla.org/privacy/websites/) 声明收集有关您使用该网站的技术与交互数据。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 了解[如何删除或启用附加组件](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)。您还可以查看[附加组件网站](https://addons.mozilla.org/firefox/)的[隐私声明](https://www.mozilla.org/privacy/websites/)。
 
@@ -92,11 +94,11 @@ Review Checker 是 Firefox 的一项功能，旨在帮助您在通过 Amazon.com
 
 Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)，并通过 Firefox 实验室提供某些[实验性功能](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)，以便在向所有 Firefox 用户提供不同的功能和想法或将其纳入 Firefox 核心功能之前对其进行测试，这使我们能够就用户的需求和期望做出更明智的决定。此类研究使用技术数据、系统性能数据、位置数据、设置数据和交互数据。
 
-我们还需要处理数据以保持 Firefox 的正常运行、改进功能和性能，并识别、排查和诊断问题。为此，我们使用技术数据、位置数据和设置数据，以及交互数据和系统性能数据（例如打开的标签页数量、内存使用情况或更新等自动化过程的结果）。在极少数情况下，如果所需信息还包括有限的浏览数据（例如，用于页面加载性能监控的顶级域名注释），这些数据将使用 OHTTP 进行传输；这有助于防止 Mozilla 将您或您的设备与为此目的收集的数据关联起来。
+我们还需要处理数据以保持 Firefox 的正常运行、改进功能和性能，并识别、排查和诊断问题。为此，我们使用技术数据、位置数据和设置数据，以及交互数据和系统性能数据（例如打开的标签页数量、内存使用情况或更新等自动化过程的结果）。在极少数情况下，如果所需信息还包括有限的浏览数据（例如，用于页面加载性能监控的顶级域名注释），这些数据将使用 [OHTTP](https://support.mozilla.org/kb/ohttp-explained) 进行传输；这有助于防止 Mozilla 将您或您的设备与为此目的收集的数据关联起来。
 
 在桌面端和 iOS 设备上，如果 Firefox 遇到意外问题，[Mozilla 崩溃报告器](https://support.mozilla.org/kb/mozillacrashreporter)还会询问您是否希望向我们发送额外信息，其中可能包括崩溃时打开的网站和其他浏览数据。在桌面端和 Android 设备上，如果您选择自动向我们发送崩溃报告，我们会在每次崩溃时自动收集这些信息，而无需每次提示您；在 iOS 设备上，崩溃报告包含的信息较少，并且默认会自动发送给我们。您可以随时更改您的设置。
 
-#### 更多信息，包括如何调整您的数据设置：
+#### 更多信息，包括如何调整您的数据设置
 
 您可随时[了解](https://support.mozilla.org/kb/shield)已参与的研究项目详情，并选择退出全部或特定研究，同时通过 [Firefox 实验室](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)选择启用实验性功能。此外，您还可[详细了解](https://support.mozilla.org/kb/technical-and-interaction-data)我们处理的各项技术与交互数据，包括如何关闭相关数据收集功能。
 
@@ -109,23 +111,23 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 对于[部分 Firefox 用户](https://support.mozilla.org/kb/firefox-dns-over-https)，Firefox 会将 DNS 请求路由到已同意 Mozilla [严格的解析器隐私标准](https://wiki.mozilla.org/Security/DOH-resolver-policy)的解析器服务。这提供了额外的保护，可防止隐私泄露到本地网络以及某些 DNS 安全攻击。DNS 请求的系统日志会在 24 小时内从服务中删除，并且仅用于 DNS 解析目的。[详细了解](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)基于 HTTPS 的 DNS 的相关信息。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
-[升级和附加组件黑名单](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)、[Google 安全浏览服务](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)、[OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/)
+您可以了解有关[升级项与附加组件禁用列表](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)、[谷歌安全浏览服务](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)及 [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/)，或关闭[技术与交互数据](https://support.mozilla.org/kb/technical-and-interaction-data)的更多信息。 
 
 ### 为了解 Firefox 的使用情况
 
 我们通过处理相关[数据](#bookmark-understand-usage)，深入了解您与服务的互动情况，包括 Firefox 使用时长、语言偏好设置、搜索工具使用频率、搜索建议交互情况、网页加载速度，以及广告或[验证码](https://en.wikipedia.org/wiki/CAPTCHA)展示数量等指标。这些数据分析有助于我们评估用户访问和使用服务的模式，从而持续优化 Firefox 的功能体验，推动业务的改进升级。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
-您可随时调整[桌面端](https://support.mozilla.org/kb/technical-and-interaction-data)与[移动端](https://support.mozilla.org/kb/technical-and-interaction-data)的数据收集设置（请注意：取消勾选“允许 Firefox 向 Mozilla 发送技术和交互数据”选项不会影响[每日使用数据上传](https://support.mozilla.org/kb/usage-ping-settings)）。该“每日使用数据上传”仅向我们提供用户正在使用 Firefox 的匿名信息，这些信息不会与您的其他个人数据相关联，且可通过设置选择关闭此项功能。
+您可随时调整[桌面端](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)与[移动端](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)的数据收集设置（请注意：取消勾选“允许 Firefox 向 Mozilla 发送技术和交互数据”选项不会影响[每日使用数据上传](https://support.mozilla.org/kb/usage-ping-settings)）。该“每日使用数据上传”仅向我们提供用户正在使用 Firefox 的匿名信息，这些信息不会与您的其他个人数据相关联，且可通过设置选择关闭此项功能。
 
 ### 为营销我们的服务
 
 在获得您授权的情况下，Firefox 会向 Mozilla 发送相关数据，包括引导您访问下载页面的网站域名或特定广告活动信息（如有），以帮助我们了解和改进营销效果。Firefox 还会与营销合作伙伴共享信息，用于衡量和优化营销活动。具体共享的信息内容因用户发现 Firefox 的途径和操作系统而异，通常包括用户访问下载页面的来源渠道以及是否活跃使用 Firefox 等信息。如果您的设备预装了 Firefox，则会将技术数据和交互数据（如设备类型和 Firefox 使用情况）发送至我们的营销合作伙伴，并与 Mozilla 共享。
 
-#### 更多详情，包括如何调整您的数据设置：
+#### 更多详情，包括如何调整您的数据设置
 
 详细了解收集和共享的[活动衡量数据](https://support.mozilla.org/kb/marketing-data)，以及如何选择退出相关设置。请注意：Firefox 不会与营销技术合作伙伴共享您的浏览历史、搜索查询或保存的密码等信息。Mozilla 仅收集衡量和改进我们的营销活动所需的数据。
 
@@ -165,7 +167,7 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 ## 您的权利和选择：
 
-### 您的权利：
+### 您的权利
 
 作为 Firefox 用户，您享有以下权利：
 
@@ -190,9 +192,9 @@ Belgium
 
 请注意,如果您请求删除您的 Firefox 数据，系统将在请求后 30 天内删除该数据（交互数据除外，交互数据的标准保留期限是 90 天，到期后，数据会自动删除）。
 
-### 您的选择：
+### 您的选择
 
-您可随时调整[桌面端](https://support.mozilla.org/kb/technical-and-interaction-data)与[移动端](https://support.mozilla.org/kb/technical-and-interaction-data)的数据收集设置。
+您可随时调整[桌面端](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)与[移动端](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)的数据收集设置。
 
 Firefox 还提供[全球隐私控制](https://support.mozilla.org/kb/global-privacy-control) (GPC) 功能，启用后可在您访问网站时自动通知该网站不要出售或共享您的浏览会话信息。在美国加利福尼亚州、科罗拉多州和康涅狄格州等部分州，GPC 作为“请勿出售”机制运行。该功能还可用于在上述司法管辖区，以及欧盟、英国、内华达州、犹他州和弗吉尼亚州等司法管辖区，表明您选择退出定向广告或限制出售或共享个人数据的一般请求。
 
@@ -257,7 +259,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
                 <p><strong>合同</strong>旨在为您提供 Firefox 正常运行所需的必要功能。</p>
                 <p>出于提供额外功能、辅助功能服务和更个性化体验的<strong>合法利益</strong>考虑。</p>
             </td>
-            <td>您可以查阅我们为<a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">桌面端</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> 或 <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> 设备收集信息的详细说明。您可随时调整<a href="https://support.mozilla.org/kb/technical-and-interaction-data">桌面端</a>与<a href="https://support.mozilla.org/kb/technical-and-interaction-data">移动端</a>的数据收集设置。您还可以了解有关<a href="https://support.mozilla.org/kb/website-translation">翻译</a>和<a href="https://support.mozilla.org/kb/pdf-alt-text">向 PDF 中的图像添加替代文本</a>的更多信息。</td>
+            <td>您可以查阅我们为<a href="https://dictionary.telemetry.mozilla.org/apps/firefox_desktop">桌面端</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> 或 <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> 设备收集信息的详细说明。您可随时调整<a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">桌面端</a>与<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">移动端</a>的数据收集设置。您还可以了解有关<a href="https://support.mozilla.org/kb/website-translation">翻译</a>和<a href="https://support.mozilla.org/kb/pdf-alt-text">向 PDF 中的图像添加替代文本</a>的更多信息。</td>
         </tr>
         <tr>
             <td>为了根据您的需求调整 Firefox</td>
@@ -307,7 +309,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
                 </ul>
             </td>
             <td>出于为您提供感兴趣的内容并确保您看到的广告具有相关性的<strong>合法利益</strong>考虑（这有助于提升我们提供产品和服务的能力）。</td>
-            <td>您可以阅读更多关于<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">如何管理新标签页</a>的信息，包括您的<a href="https://support.mozilla.org/kb/sponsor-privacy">数据设置</a>。您可以随时在<a href="https://support.mozilla.org/kb/technical-and-interaction-data">桌面端</a>和<a href="https://support.mozilla.org/kb/technical-and-interaction-data">移动端</a>上关闭“技术和交互数据”选项，选择不允许为个性化或广告目的处理您的数据。</td>
+            <td>您可以阅读更多关于<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">如何管理新标签页</a>的信息，包括您<a href="https://support.mozilla.org/kb/sponsor-privacy">桌面端</a>、<a href="https://support.mozilla.org/kb/customize-firefox-home-screen">Android</a> 或 <a href="https://support.mozilla.org/kb/customize-firefox-home-ios">iOS</a> 设备的数据设置。您可以随时在<a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">桌面端</a>和<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">移动端</a>上关闭数据选项，选择不允许为个性化或广告目的处理您的数据。</td>
         </tr>
         <tr>
             <td>为提供 Mozilla 帐户</td>
@@ -398,7 +400,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
                 <p><strong>遵守法律</strong>，根据适用的隐私和网络安全法规保护个人数据。</p>
                 <p>出于为所有用户提供额外安全措施并增强互联网整体安全性（例如我们的反指纹追踪工作）的<strong>合法利益</strong>考虑。</p>
             </td>
-            <td>详细了解我们的<a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">升级和附加组件黑名单</a>、<a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google 安全浏览服务</a>、<a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a></td>
+            <td>您可以了解有关<a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">升级项与附加组件禁用列表</a>、<a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">谷歌安全浏览服务</a>及 <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>，或关闭<a href="https://support.mozilla.org/kb/technical-and-interaction-data">技术与交互数据</a>的更多信息。</td>
         </tr>
         <tr>
             <td><a id="bookmark-understand-usage"></a>为了解 Firefox 的使用情况</td>
@@ -418,10 +420,10 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
                 <p>出于了解 Firefox 使用情况、推动改进并执行业务功能（如使用情况报告和预测）的<strong>合法利益</strong>考虑。</p>
                 <p>在适用法律要求的情况下（例如使用非必要 Cookie 时），或用户参与调查或自愿提交其他信息时，需获得用户<strong>同意</strong>。</p>
             </td>
-            <td>您可随时调整<a href="https://support.mozilla.org/kb/technical-and-interaction-data">桌面端</a>与<a href="https://support.mozilla.org/kb/technical-and-interaction-data">移动端</a>的数据收集设置（请注意：取消勾选“允许 Firefox 向 Mozilla 发送技术和交互数据”选项不会影响<a href="https://support.mozilla.org/kb/usage-ping-settings">每日使用数据上传</a>）。该“每日使用数据上传”仅向我们提供用户正在使用 Firefox 的匿名信息，这些信息不会与您的其他个人数据相关联，且可通过设置选择关闭此项功能。</td>
+            <td>您可随时调整<a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">桌面端</a>与<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">移动端</a>的数据收集设置（请注意：取消勾选“允许 Firefox 向 Mozilla 发送技术和交互数据”选项不会影响<a href="https://support.mozilla.org/kb/usage-ping-settings">每日使用数据上传</a>）。该“每日使用数据上传”仅向我们提供用户正在使用 Firefox 的匿名信息，这些信息不会与您的其他个人数据相关联，且可通过设置选择关闭此项功能。</td>
         </tr>
         <tr>
-            <td>为营销我们的服务。</td>
+            <td>为营销我们的服务</td>
             <td>
                 <ul>
                     <li>技术数据</li>
@@ -441,7 +443,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
             <td>详细了解收集和共享的<a href="https://support.mozilla.org/kb/marketing-data">活动衡量数据</a>，以及如何选择退出相关设置。请注意：Firefox 不会与营销技术合作伙伴共享您的浏览历史、搜索查询或保存的密码等信息。Mozilla 仅收集衡量和改进我们的营销活动所需的数据。</td>
         </tr>
         <tr>
-            <td>为实现数据的假名化、去标识化、聚合化或匿名化处理。</td>
+            <td>为实现数据的假名化、去标识化、聚合化或匿名化处理</td>
             <td>
                 <ul>
                     <li>所有数据类型</li>
@@ -451,7 +453,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
             <td></td>
         </tr>
         <tr>
-            <td>为实现用户沟通。</td>
+            <td>为实现用户沟通</td>
             <td>
                 <ul>
                     <li>唯一标识符</li>
@@ -465,19 +467,22 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
             <td></td>
         </tr>
         <tr>
-            <td>为遵守适用法律并识别和预防有害、未经授权或非法活动。</td>
+            <td>为遵守适用法律并识别和预防有害、未经授权或非法活动</td>
             <td>
                 <ul>
                     <li>所有数据类型</li>
                 </ul>
             </td>
-            <td><strong>遵守法律</strong>，以响应数据主体权利请求、回应执法请求、管理并保护我们（及用户）的权利、财产和/或安全。在合规性不适用的情况下，出于支持法律或监管程序或请求、防止欺诈以及管理并保护我们（及用户）的权利、财产和/或安全的<strong>合法利益</strong>考虑。</td>
+            <td>
+                <p><strong>遵守法律</strong>，以响应数据主体权利请求、回应执法请求、管理并保护我们（及用户）的权利、财产和/或安全。</p>
+                <p>在合规性不适用的情况下，出于支持法律或监管程序或请求、防止欺诈以及管理并保护我们（及用户）的权利、财产和/或安全的<strong>合法利益</strong>考虑。</p>
+            </td>
             <td>详细了解我们如何响应<a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">合法请求</a>。</td>
         </tr>
     </tbody>
 </table>
 
-## 搜索提供商的隐私政策：
+## 搜索提供商的隐私政策
 
 [Google](https://policies.google.com/privacy)
 

@@ -1,7 +1,7 @@
 # Termos de serviço das contas da Mozilla
 
-Última atualização em quarta-feira, 1 de novembro de 2023
-{: datetime="2023-11-01" }
+Última atualização em terça-feira, 13 de maio de 2025
+{: datetime="2025-05-13" }
 
 ## Resumo
 
@@ -18,7 +18,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
 2. #### Contas da Mozilla
 
-    Para usar alguns dos Serviços, você precisará criar uma conta da Mozilla. Durante o registro, será solicitado que você configure uma senha. Você é responsável por manter sua senha em sigilo e pela atividade na conta da Mozilla. A Mozilla não é responsável por quaisquer perdas resultantes do uso não autorizado de sua conta dela.
+    Para usar alguns dos Serviços, você precisará criar uma conta da Mozilla. Você precisa ter no mínimo 13 anos de idade para criar uma conta da Mozilla. Durante o registro, será solicitado que você configure uma senha. Você é responsável por manter sua senha em sigilo e pela atividade na conta da Mozilla. A Mozilla não é responsável por quaisquer perdas resultantes do uso não autorizado de sua conta dela.
 
 3. #### Serviços 
 
