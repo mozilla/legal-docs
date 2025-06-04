@@ -1,7 +1,7 @@
 ﻿# Informativa sulla privacy di Firefox
 
-In vigore dal 25 febbraio 2025
-{: datetime="2025-02-25" }
+In vigore da lunedì 2 giugno 2025
+{: datetime="2025-06-02" }
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet
 
@@ -15,44 +15,46 @@ Mozilla raccoglie [alcune tipologie di dati](#bookmark-how-we-use-data), come i 
 
 Alcune funzionalità di Firefox, come la [traduzione](https://support.mozilla.org/kb/website-translation) automatica delle pagine web e i [suggerimenti per il “testo alternativo” delle immagini caricate nei file PDF](https://support.mozilla.org/kb/pdf-alt-text), si basano sull'intelligenza artificiale (IA) e su piccoli modelli linguistici scaricati sul tuo dispositivo. Questi funzionano localmente: il contenuto delle pagine web, i PDF, le immagini e gli URL delle schede rimangono sul tuo dispositivo e non vengono inviati ai server di Mozilla o utilizzati per scopi di formazione senza il tuo esplicito consenso. Tieni presente che altre funzioni di Firefox possono integrare modelli di intelligenza artificiale di terze parti, come descritto in dettaglio nella presente Informativa.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
-Puoi trovare informazioni più dettagliate sui dati che raccogliamo per i dispositivi [desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/technical-and-interaction-data) e [mobili](https://support.mozilla.org/kb/technical-and-interaction-data) in qualsiasi momento.
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
+
+Puoi trovare informazioni più dettagliate sui dati che raccogliamo per i dispositivi [desktop](https://dictionary.telemetry.mozilla.org/apps/firefox_desktop), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix) o [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) e [mobili](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) in qualsiasi momento.
 
 ### Per adattare Firefox alle tue esigenze
 
 Firefox elabora diversi dati personali senza spostarli dal tuo dispositivo, come la cronologia di navigazione, i dati dei moduli web, i file temporanei di Internet e i cookie. Ciò significa che i dati rimangono nel tuo dispositivo e non vengono inviati ai server di Mozilla, a meno che non sia indicato diversamente nella presente Informativa. Se lo consenti, anche la tua posizione esatta può essere elaborata per le funzionalità di localizzazione di alcuni siti web come Google Maps; tali dati sono accessibili dal tuo dispositivo solo ai siti per i quali hai scelto di abilitarli e non vengono inviati ai server di Mozilla.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 I dati elaborati sul tuo dispositivo rimangono in tuo controllo. Puoi [gestire i tuoi dati di navigazione](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) e le tue [impostazioni di archiviazione locale](https://support.mozilla.org/kb/storage) o aggiornare le tue [autorizzazioni di localizzazione](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) in qualsiasi momento.
 
 ### Per fornire e migliorare la funzionalità di ricerca 
 
-Quando esegui una ricerca in Firefox, la query di ricerca, i dati del dispositivo e i dati relativi alla tua posizione vengono elaborati dal motore di ricerca predefinito (secondo quanto previsto dall'[Informativa sulla privacy applicabile](#privacy-policies-for-search-providers)) per fornirti risultati e suggerimenti di ricerca.
+Quando esegui una ricerca in Firefox, la query di ricerca, i dati del dispositivo e i dati relativi alla tua posizione vengono elaborati dal motore di ricerca predefinito (secondo quanto previsto dall'[Informativa sulla privacy applicabile](#privacy-policies-for-search-providers)) per fornirti risultati e suggerimenti di ricerca. Mozilla riceve generalmente delle royalties quando utilizzi una delle opzioni di ricerca predefinite o aggiuntive del browser Web Firefox.
 
 Firefox mostra inoltre i propri [suggerimenti di ricerca](https://support.mozilla.org/kb/search-suggestions-firefox) sulla base delle informazioni memorizzate sul dispositivo locale (come i termini di ricerca recenti, le schede aperte e gli URL visitati in precedenza). Questi suggerimenti possono includere consigli sponsorizzati dai partner di Mozilla, contenuti rilevanti provenienti da risorse Internet comuni (come Wikipedia) o URL popolari nel tuo Paese. Mozilla elabora alcuni dati tecnici e relativi alle interazioni, come il numero di ricerche che hai effettuato, il numero di suggerimenti sponsorizzati che hai visualizzato e come hai interagito con essi. I partner di Mozilla ricevono informazioni de-identificate sulle tue interazioni con i suggerimenti da loro proposti. Puoi abilitare o disabilitare i [suggerimenti di ricerca](https://support.mozilla.org/kb/search-suggestions-firefox) in qualsiasi momento.
 
-A seconda del luogo in cui ti trovi, Mozilla ricava la categoria di primo livello (ad esempio, viaggi, shopping) della tua ricerca dalle parole chiave contenute nella query, per capire il tipo e il numero di ricerche effettuate. Utilizziamo tecnologie di tutela della privacy che permettono a Mozilla di sapere solo che qualcuno, da qualche parte, ha effettuato una ricerca relativa a una particolare categoria, senza conoscerne l'identità. [Ulteriori informazioni](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) su come classifichiamo le ricerche, comprese le modalità di rinuncia.
+[A seconda del luogo in cui ti trovi](https://support.mozilla.org/kb/firefox-suggest), Mozilla ricava la categoria di primo livello (ad esempio, viaggi, shopping) della tua ricerca dalle parole chiave contenute nella query, per capire il tipo e il numero di ricerche effettuate. Utilizziamo tecnologie di tutela della privacy che permettono a Mozilla di sapere solo che qualcuno, da qualche parte, ha effettuato una ricerca relativa a una particolare categoria, senza conoscerne l'identità. [Ulteriori informazioni](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) su come classifichiamo le ricerche, comprese le modalità di rinuncia.
 
 Mozilla può inoltre ricevere parole chiave di ricerche relative alla posizione (ad esempio, se cerchi “Boston”) e condividerle con i propri partner per fornirti contenuti consigliati e sponsorizzati. In questo caso, Mozilla non può associare la ricerca per parola chiave a un singolo utente dopo che il suggerimento di ricerca è stato fornito e i partner non sono mai in grado di associare i suggerimenti di ricerca a un singolo utente. È possibile rimuovere questa funzionalità in qualsiasi momento disattivando i Suggerimenti sponsorizzati; ulteriori informazioni su come farlo sono disponibili nella relativa pagina di [Supporto Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u).
 
 Puoi scegliere di usufruire di un'esperienza di ricerca avanzata, il che comporterà l'elaborazione da parte di Mozilla di ulteriori dati personali, tra cui i tuoi dati tecnici, la tua posizione e i dati di ricerca. Alcune di queste informazioni possono essere condivise con i nostri partner su base de-identificata e/o aggregata. Consulta il [post del blog](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/) “Data and Firefox Suggest” per maggiori informazioni.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Puoi aggiornare le [impostazioni di ricerca](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) e le [funzionalità dei suggerimenti di ricerca](https://support.mozilla.org/kb/search-suggestions-firefox) in qualsiasi momento, e scoprire come [classifichiamo le ricerche](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).
 
+<a id="recommend-relevant-content"></a>
 ### Per proporre contenuti e pubblicità pertinenti nella Nuova scheda di Firefox
 
-Utilizziamo i dati tecnici, delle preferenze linguistiche e della posizione per proporre contenuti e pubblicità nella pagina Nuova scheda di Firefox nel formato corretto (ad esempio, per dispositivi mobili o desktop), nella lingua appropriata e in base alla posizione. Mozilla raccoglie dati tecnici e relativi alle interazioni, come la posizione, il formato, le visualizzazioni e i clic sui contenuti o sugli annunci della Nuova scheda, per capire come le persone interagiscono con i nostri contenuti e per personalizzare i contenuti futuri, compresi quelli sponsorizzati. Questi dati possono essere condivisi con i nostri partner su base de-identificata o aggregata.
+Utilizziamo i dati tecnici, delle preferenze linguistiche e della posizione per proporre contenuti e pubblicità nella pagina Nuova scheda di Firefox (indicata come home page sui dispositivi mobili) nel formato corretto (ad esempio, per dispositivi mobili o desktop), nella lingua appropriata e in base alla posizione. Mozilla raccoglie dati tecnici e relativi alle interazioni, come la posizione, il formato, le visualizzazioni e i clic sui contenuti o sugli annunci della Nuova scheda, per capire come le persone interagiscono con i nostri contenuti e per personalizzare i contenuti futuri, compresi quelli sponsorizzati. Questi dati possono essere condivisi con i nostri partner su base de-identificata o aggregata.
 
 In alcuni casi, quando nella Nuova scheda sono abilitati gli annunci pubblicitari, è possibile che sul tuo dispositivo vengano elaborati dati di navigazione aggiuntivi per misurare l'efficacia di tali annunci; questi dati saranno condivisi con Mozilla e/o con i nostri partner pubblicitari tramite le nostre tecnologie di tutela della privacy solo su base aggregata e/o de-identificata.
 
 Quando un utente visita un sito web di terzi facendo clic su una pubblicità o su un link in Firefox, tale sito può utilizzare i cookie e altre API web presenti in qualsiasi sito web per raccogliere dati, nel rispetto delle informative sulla privacy e/o sui cookie di tale sito web.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
-Puoi consultare ulteriori informazioni su [come gestire la tua pagina Nuova scheda](https://support.mozilla.org/kb/customize-your-new-tab-page) e le tue [impostazioni dei dati](https://support.mozilla.org/kb/sponsor-privacy). Puoi rinunciare al trattamento dei tuoi dati per scopi di personalizzazione o pubblicità disattivando l'opzione “Dati tecnici e relativi alle interazioni” su [desktop](https://support.mozilla.org/kb/technical-and-interaction-data) e [dispositivo mobile](https://support.mozilla.org/kb/technical-and-interaction-data) in qualsiasi momento.
+Puoi consultare ulteriori informazioni su [come gestire la pagina Nuova scheda](https://support.mozilla.org/kb/customize-your-new-tab-page) e le tue impostazioni dei dati per dispositivi [desktop](https://support.mozilla.org/kb/sponsor-privacy), [Android](https://support.mozilla.org/kb/customize-firefox-home-screen) e [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios). Puoi rinunciare al trattamento dei tuoi dati per scopi di personalizzazione o pubblicità disattivando l'opzione relativa ai dati su [desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) o [dispositivo mobile](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) in qualsiasi momento.
 
 ### Per fornire account Mozilla
 
@@ -64,7 +66,7 @@ Puoi utilizzare un chatbot basato sull'IA di terze parti di tua scelta per aiuta
 
 Se decidi di attivare un chatbot nella barra laterale e/o tramite una scorciatoia, Mozilla non potrà accedere alle tue conversazioni o ai contenuti che inserisci nel chatbot scelto. Raccogliamo dati tecnici e sulle interazioni che riguardano l'utilizzo di questa funzione per contribuire a migliorare Firefox, come la frequenza con cui viene scelto un provider di chatbot di terze parti, la frequenza con cui vengono utilizzati i prompt suggeriti e la lunghezza del testo selezionato.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Scopri di più su come [gestire](https://support.mozilla.org/kb/ai-chatbot) o [rimuovere](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) i chatbot basati sull'IA in Firefox.
 
@@ -74,7 +76,7 @@ La Verifica recensioni è una funzione di Firefox che ti aiuta a determinare se 
 
 Accettando di utilizzare la Verifica recensioni, accetti anche che ti vengano mostrati consigli su prodotti e contenuti sponsorizzati. Se non desideri ricevere consigli su prodotti e contenuti sponsorizzati, puoi disattivare la funzione nelle impostazioni della Verifica recensioni in qualsiasi momento.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Scopri di più su [come utilizzare la Verifica recensioni di Firefox](https://support.mozilla.org/kb/review-checker-review-quality) e su come implementiamo le tecnologie per la tutela della privacy come [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
@@ -84,7 +86,7 @@ Scopri di più su [come utilizzare la Verifica recensioni di Firefox](https://su
 
 Quando visiti il [sito web AMO](https://addons.mozilla.org/firefox/), Mozilla raccoglie dati tecnici e di interazione relativi al tuo utilizzo del sito, in conformità alla nostra informativa su [siti web, comunicazioni, privacy e cookie](https://www.mozilla.org/privacy/websites/).
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Maggiori informazioni su [come rimuovere o abilitare i componenti aggiuntivi](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Puoi anche consultare l'[Informativa sulla privacy](https://www.mozilla.org/privacy/websites/) del [sito web dei componenti aggiuntivi](https://addons.mozilla.org/firefox/).
 
@@ -92,11 +94,11 @@ Maggiori informazioni su [come rimuovere o abilitare i componenti aggiuntivi](ht
 
 Mozilla conduce [studi](https://support.mozilla.org/kb/shield) all'interno di Firefox e rende disponibili alcune [funzioni sperimentali](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) attraverso Firefox Labs per testare diverse funzioni e idee prima che vengano rese disponibili a tutti gli utenti o diventino parte dell'offerta principale di Firefox; questo ci permette di prendere decisioni più informate su ciò che i nostri utenti desiderano e di cui hanno bisogno. Queste ricerche utilizzano dati tecnici, sulle prestazioni del sistema, sulla posizione, sulle impostazioni e sulle interazioni.
 
-Abbiamo inoltre bisogno di elaborare i dati per mantenere Firefox operativo, migliorarne le funzioni e le prestazioni e identificare, risolvere e diagnosticare i problemi. A tal fine utilizziamo dati tecnici, di localizzazione e di impostazione, nonché dati relativi alle interazioni e alle prestazioni del sistema (come il numero di schede aperte, l'utilizzo della memoria o l'esito di processi automatizzati come gli aggiornamenti). Nei rari casi in cui le informazioni necessarie includano anche dati di navigazione limitati (ad esempio, annotazioni del dominio di primo livello per il monitoraggio delle prestazioni di caricamento delle pagine), questi verranno trasmessi tramite OHTTP per evitare che Mozilla possa collegare te o il tuo dispositivo ai dati raccolti per questo scopo.
+Abbiamo inoltre bisogno di elaborare i dati per mantenere Firefox operativo, migliorarne le funzioni e le prestazioni e identificare, risolvere e diagnosticare i problemi. A tal fine utilizziamo dati tecnici, di localizzazione e di impostazione, nonché dati relativi alle interazioni e alle prestazioni del sistema (come il numero di schede aperte, l'utilizzo della memoria o l'esito di processi automatizzati come gli aggiornamenti). Nei rari casi in cui le informazioni necessarie includano anche dati di navigazione limitati (ad esempio, annotazioni del dominio di primo livello per il monitoraggio delle prestazioni di caricamento delle pagine), questi verranno trasmessi tramite [OHTTP](https://support.mozilla.org/kb/ohttp-explained) per evitare che Mozilla possa collegare te o il tuo dispositivo ai dati raccolti per questo scopo.
 
 Su Desktop e Android, se Firefox riscontra un problema imprevisto, il [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) ti chiederà anche se desideri inviarci ulteriori informazioni, che possono includere i siti aperti al momento dell'arresto anomalo e altri dati di navigazione. Su Desktop e Android, se scegli di inviarci automaticamente le segnalazioni di arresti anomali, raccoglieremo queste informazioni senza richiederle ogni volta; su iOS, le segnalazioni di arresti anomali contengono meno informazioni e ci vengono inviate automaticamente per impostazione predefinita. Puoi modificare le impostazioni in qualsiasi momento.
 
-#### Ulteriori informazioni, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Puoi richiedere [maggiori informazioni](https://support.mozilla.org/kb/shield) sugli studi che ti coinvolgono, scegliere di non partecipare a nessuno studio (o a uno specifico) in qualsiasi momento, e scegliere di prendere parte alla sperimentazione di funzioni tramite [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Puoi inoltre ottenere [maggiori informazioni ](https://support.mozilla.org/kb/technical-and-interaction-data) sui dati tecnici e relativi alle interazioni che elaboriamo e su disattivarli.
 
@@ -109,23 +111,23 @@ Oltre a queste procedure standard, utilizziamo il [servizio di navigazione sicur
 
 Per [alcuni utenti di Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox indirizza le richieste DNS a un servizio ricorsivo che ha accettato di aderire ai [rigidi standard di riservatezza di Mozilla per i servizi DNS ricorsivi](https://wiki.mozilla.org/Security/DOH-resolver-policy). Questo servizio garantisce una protezione aggiuntiva dalle violazioni della privacy alle reti locali, oltre che da alcuni attacchi alla sicurezza DNS. I registri di sistema delle richieste DNS vengono cancellati dal servizio entro 24 ore e sono utilizzati esclusivamente per finalità di risoluzione DNS. [Maggiori informazioni](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) sul protocollo DNS over HTTPS (DoH).
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
-[Blocklist degli aggiornamenti e dei componenti aggiuntivi](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [servizio di Navigazione sicura di Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
+Puoi consultare ulteriori informazioni sul [blocco di aggiornamenti e componenti aggiuntivi](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), sul [servizio di navigazione sicura di Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) e su [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), oppure disattivare i [dati tecnici e relativi alle interazioni](https://support.mozilla.org/kb/technical-and-interaction-data). 
 
 ### Per capire come viene utilizzato Firefox
 
 Elaboriamo i [dati](#bookmark-understand-usage) per comprendere meglio come usi i nostri servizi, per esempio quanto spesso utilizzi Firefox, le tue preferenze linguistiche, la frequenza con cui impieghi i nostri strumenti di ricerca o interagisci con i suggerimenti di ricerca, la velocità di caricamento delle pagine che apri e il numero di annunci o verifiche [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) che visualizzi. Questo ci permette di monitorare il modo in cui le persone accedono e utilizzano i nostri servizi, contribuendo così a migliorare la nostra attività e la funzionalità di Firefox.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
-Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/technical-and-interaction-data) e [mobili](https://support.mozilla.org/kb/technical-and-interaction-data) in qualsiasi momento (tieni presente che la deselezione dell'opzione “Consenti a Firefox di inviare a Mozilla dati tecnici e relativi all'interazione con il browser” non avrà alcun impatto sul [ping di utilizzo giornaliero](https://support.mozilla.org/kb/usage-ping-settings)). Questo ping ci fornisce esclusivamente informazioni de-identificate sull'uso di Firefox da parte dell'utente, non è legato ad altri dati sull'utente e può essere eliminato nelle impostazioni.
+Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) e [mobili](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) in qualsiasi momento (tieni presente che la deselezione dell'opzione “Consenti a Firefox di inviare a Mozilla dati tecnici e relativi all'interazione con il browser” non avrà alcun impatto sul [ping di utilizzo giornaliero](https://support.mozilla.org/kb/usage-ping-settings)). Questo ping ci fornisce esclusivamente informazioni de-identificate sull'uso di Firefox da parte dell'utente, non è legato ad altri dati sull'utente e può essere eliminato nelle impostazioni.
 
 ### Per commercializzare i nostri servizi
 
 Se ci autorizzi a farlo, Firefox invierà a Mozilla i dati relativi al dominio del sito web o alla campagna pubblicitaria specifica (se del caso) che ti ha portato alla nostra pagina di download, per aiutarci a capire e migliorare le nostre iniziative di marketing. Firefox condivide anche informazioni con i nostri partner di marketing per monitorare e migliorare queste campagne; le informazioni condivise variano (in base al modo in cui hai scoperto Firefox e al tuo sistema operativo), ma generalmente includono la modalità con cui hai raggiunto la nostra pagina di download e se utilizzi attivamente Firefox. Se Firefox è preinstallato sul tuo dispositivo, i dati tecnici e relativi alle interazioni (il tipo di dispositivo e l'utilizzo o meno di Firefox) saranno inviati ai nostri partner di marketing e condivisi con Mozilla.
 
-#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:
+#### Ulteriori dettagli, tra cui come regolare le impostazioni dei dati
 
 Ulteriori informazioni sui [dati di misurazione della campagna pubblicitaria](https://support.mozilla.org/kb/marketing-data) che vengono raccolti e condivisi e su come rinunciare. Nota: Firefox non condivide informazioni come la cronologia di navigazione, le query di ricerca o le password salvate con partner tecnologici di marketing. Mozilla raccoglie solo i dati necessari per misurare e migliorare le proprie campagne pubblicitarie.
 
@@ -165,7 +167,7 @@ I nostri servizi utilizzano anche l'archiviazione di backup crittografata come u
 
 ## I tuoi diritti e le tue scelte
 
-### I tuoi diritti:
+### I tuoi diritti
 
 In qualità di utente di Firefox, hai il diritto di:
 
@@ -190,9 +192,9 @@ Rispondiamo a tutte le richieste che riceviamo da persone che desiderano esercit
 
 Tieni presente che se richiedi la cancellazione dei tuoi dati da Firefox, l'eliminazione avverrà entro 30 giorni dalla richiesta (a eccezione dei dati relativi alle interazioni, che hanno un periodo di conservazione standard di 90 giorni e vengono automaticamente eliminati al termine di tale periodo).
 
-### Le tue scelte:
+### Le tue scelte
 
-Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/technical-and-interaction-data) e [mobili](https://support.mozilla.org/kb/technical-and-interaction-data) in qualsiasi momento.
+Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi [desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) e [mobili](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) in qualsiasi momento.
 
 Firefox offre anche la funzione [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), che puoi attivare per notificare automaticamente ai siti web di non vendere o condividere le informazioni sulla tua sessione di navigazione in tale sito. GPC opera come meccanismo di “non vendita” in alcuni stati americani come la California, il Colorado e il Connecticut. Può anche essere utilizzato per indicare una rinuncia alla pubblicità mirata o una richiesta generale di limitare la vendita o la condivisione dei tuoi dati personali in tali giurisdizioni, nonché in giurisdizioni come l'UE, il Regno Unito, il Nevada, lo Utah e la Virginia.
 
@@ -257,7 +259,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
                 <p><strong>Contratto</strong> per fornirti le funzionalità necessarie a garantire l'operatività di Firefox.</p>
                 <p><strong>Legittimo interesse</strong> a fornire funzionalità aggiuntive, servizi di accessibilità e un'esperienza più personalizzata.</p>
             </td>
-            <td>Puoi trovare informazioni più dettagliate sui dati che raccogliamo per i dispositivi <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> o <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi <a href="https://support.mozilla.org/kb/technical-and-interaction-data">desktop</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobili</a> in qualsiasi momento. Puoi inoltre saperne di più sulla <a href="https://support.mozilla.org/kb/website-translation">traduzione</a> e sull'<a href="https://support.mozilla.org/kb/pdf-alt-text">aggiunta di testo alternativo alle immagini nei PDF</a>.</td>
+            <td>Puoi trovare informazioni più dettagliate sui dati che raccogliamo per i dispositivi <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_desktop">desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> o <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">desktop</a> e <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobili</a> in qualsiasi momento. Puoi inoltre saperne di più sulla <a href="https://support.mozilla.org/kb/website-translation">traduzione</a> e sull'<a href="https://support.mozilla.org/kb/pdf-alt-text">aggiunta di testo alternativo alle immagini nei PDF</a>.</td>
         </tr>
         <tr>
             <td>Per adattare Firefox alle tue esigenze</td>
@@ -307,7 +309,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
                 </ul>
             </td>
             <td><strong>Legittimo interesse</strong> a fornirti contenuti di tuo interesse e ad assicurarti che gli annunci che vedi siano pertinenti (a sostegno della nostra capacità di fornire i nostri prodotti e servizi).</td>
-            <td>Puoi consultare ulteriori informazioni su <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">come gestire la tua pagina Nuova scheda</a> e le tue <a href="https://support.mozilla.org/kb/sponsor-privacy">impostazioni dei dati</a>. Puoi rinunciare al trattamento dei tuoi dati per scopi di personalizzazione o pubblicità disattivando l'opzione “Dati tecnici e relativi alle interazioni” su <a href="https://support.mozilla.org/kb/technical-and-interaction-data">desktop</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">dispositivo mobile</a> in qualsiasi momento.</td>
+            <td>Puoi consultare ulteriori informazioni su <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">come gestire la pagina Nuova scheda</a> e le tue impostazioni dei dati per dispositivi <a href="https://support.mozilla.org/kb/sponsor-privacy">desktop</a>, <a href="https://support.mozilla.org/kb/customize-firefox-home-screen">Android</a> e <a href="https://support.mozilla.org/kb/customize-firefox-home-ios">iOS</a>. Puoi rinunciare al trattamento dei tuoi dati per scopi di personalizzazione o pubblicità disattivando l'opzione relativa ai dati su <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">desktop</a> o <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">dispositivo mobile</a> in qualsiasi momento.</td>
         </tr>
         <tr>
             <td>Per fornire account Mozilla</td>
@@ -398,7 +400,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
                 <p><strong>Conformità alle normative</strong> in materia di protezione dei dati personali, come richiesto dalla legge sulla privacy e dalle norme di cybersecurity.</p>
                 <p><strong>Legittimo interesse</strong> a fornire misure di sicurezza aggiuntive per tutti i nostri utenti e a migliorare la sicurezza generale di Internet (come il nostro lavoro anti-fingerprinting).</p>
             </td>
-            <td>Ulteriori informazioni sulla <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">blocklist degli aggiornamenti e dei componenti aggiuntivi</a>, sul <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">servizio di Navigazione sicura di Google</a> e su <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>.</td>
+            <td>Puoi consultare ulteriori informazioni sul <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">blocco di aggiornamenti e componenti aggiuntivi</a>, sul <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">servizio di navigazione sicura di Google</a> e su <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>, oppure disattivare i <a href="https://support.mozilla.org/kb/technical-and-interaction-data">dati tecnici e relativi alle interazioni</a>.</td>
         </tr>
         <tr>
             <td><a id="bookmark-understand-usage"></a>Per capire come viene utilizzato Firefox</td>
@@ -418,10 +420,10 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
                 <p><strong>Legittimo interesse</strong> a capire come viene utilizzato Firefox, a consentirne il miglioramento e a svolgere attività aziendali come la redazione di rapporti e previsioni sull'utilizzo.</p>
                 <p><strong>Consenso</strong>, se richiesto dalla legge applicabile (ad esempio quando vengono utilizzati cookie non essenziali), o se gli utenti partecipano a sondaggi o inviano volontariamente altre informazioni.</p>
             </td>
-            <td>Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi <a href="https://support.mozilla.org/kb/technical-and-interaction-data">desktop</a> e <a href="https://support.mozilla.org/kb/technical-and-interaction-data">mobili</a> in qualsiasi momento (tieni presente che la deselezione dell'opzione “Consenti a Firefox di inviare a Mozilla dati tecnici e relativi all'interazione con il browser” non avrà alcun impatto sul <a href="https://support.mozilla.org/kb/usage-ping-settings">ping di utilizzo giornaliero</a>). Questo ping ci fornisce esclusivamente informazioni de-identificate sull'uso di Firefox da parte dell'utente, non è legato ad altri dati sull'utente e può essere eliminato nelle impostazioni.</td>
+            <td>Puoi aggiornare le impostazioni di raccolta dei dati per i dispositivi <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">desktop</a> e <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobili</a> in qualsiasi momento (tieni presente che la deselezione dell'opzione “Consenti a Firefox di inviare a Mozilla dati tecnici e relativi all'interazione con il browser” non avrà alcun impatto sul <a href="https://support.mozilla.org/kb/usage-ping-settings">ping di utilizzo giornaliero</a>). Questo ping ci fornisce esclusivamente informazioni de-identificate sull'uso di Firefox da parte dell'utente, non è legato ad altri dati sull'utente e può essere eliminato nelle impostazioni.</td>
         </tr>
         <tr>
-            <td>Per commercializzare i nostri servizi.</td>
+            <td>Per commercializzare i nostri servizi</td>
             <td>
                 <ul>
                     <li>Dati tecnici</li>
@@ -441,7 +443,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
             <td>Ulteriori informazioni sui <a href="https://support.mozilla.org/kb/marketing-data">dati di misurazione della campagna pubblicitaria</a> che vengono raccolti e condivisi e su come rinunciare. Nota: Firefox non condivide informazioni come la cronologia di navigazione, le query di ricerca o le password salvate con partner tecnologici di marketing. Mozilla raccoglie solo i dati necessari per misurare e migliorare le proprie campagne pubblicitarie.</td>
         </tr>
         <tr>
-            <td>Per pseudonimizzare, de-identificare, aggregare o anonimizzare i dati.</td>
+            <td>Per pseudonimizzare, de-identificare, aggregare o anonimizzare i dati</td>
             <td>
                 <ul>
                     <li>Tutti i tipi di dati</li>
@@ -451,7 +453,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
             <td></td>
         </tr>
         <tr>
-            <td>Per comunicare con te.</td>
+            <td>Per comunicare con gli utenti</td>
             <td>
                 <ul>
                     <li>Identificativi univoci</li>
@@ -465,19 +467,22 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
             <td></td>
         </tr>
         <tr>
-            <td>Per rispettare le leggi vigenti, identificare e prevenire attività dannose, non autorizzate o illegali.</td>
+            <td>Per rispettare le leggi vigenti, identificare e prevenire attività dannose, non autorizzate o illegali</td>
             <td>
                 <ul>
                     <li>Tutti i tipi di dati</li>
                 </ul>
             </td>
-            <td><strong>Conformità agli obblighi di legge</strong> per rispondere alle richieste degli interessati di esercitare i propri diritti in materia di dati, per rispondere alle richieste delle forze dell'ordine, per gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti). <strong>Legittimo interesse</strong>, laddove la conformità non sia appropriata, a supportare processi o richieste legali o regolamentari, prevenire le frodi e gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti).</td>
+            <td>
+                <p><strong>Conformità agli obblighi di legge</strong> per rispondere alle richieste degli interessati di esercitare i propri diritti in materia di dati, per rispondere alle richieste delle forze dell'ordine, per gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti).</p>
+                <p><strong>Legittimo interesse</strong>, laddove la conformità non sia appropriata, a supportare processi o richieste legali o regolamentari, prevenire le frodi e gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti).</p>
+            </td>
             <td>Ulteriori informazioni su come rispondiamo alle <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">richieste legali</a>.</td>
         </tr>
     </tbody>
 </table>
 
-## Informativa sulla privacy per i provider di ricerca
+## Informative sulla privacy per i provider di ricerca
 
 [Google](https://policies.google.com/privacy)
 

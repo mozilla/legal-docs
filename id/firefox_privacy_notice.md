@@ -1,7 +1,7 @@
 ﻿# Pemberitahuan Privasi Firefox
 
-Berlaku 25 Februari 2025
-{: datetime="2025-02-25" }
+Berlaku 02 Juni 2025
+{: datetime="2025-06-02" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 
@@ -15,56 +15,58 @@ Mozilla mengumpulkan [data tertentu](#bookmark-how-we-use-data), seperti data te
 
 Beberapa fitur Firefox, seperti [terjemahan](https://support.mozilla.org/kb/website-translation) otomatis untuk halaman web dan [saran “teks alternatif” saat Anda mengunggah gambar dalam PDF](https://support.mozilla.org/kb/pdf-alt-text), didukung oleh kecerdasan buatan (AI) berdasarkan model bahasa kecil yang diunduh ke perangkat Anda. Ini beroperasi secara lokal — konten halaman web, PDF, gambar, dan URL tab tetap ada di perangkat Anda dan tidak dikirimkan ke server Mozilla atau digunakan untuk tujuan pelatihan tanpa izin yang tegas dari Anda. Perhatikan bahwa fitur Firefox lainnya mungkin mengintegrasikan model AI pihak ketiga, sebagaimana dijelaskan lebih lanjut dalam Pemberitahuan ini.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
-Anda dapat membaca informasi lebih detail tentang informasi yang kami kumpulkan untuk [Desktop](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) dan [Perangkat Seluler](https://support.mozilla.org/kb/technical-and-interaction-data) kapan saja.
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
+
+Anda dapat membaca informasi lebih detail tentang informasi yang kami kumpulkan untuk [Desktop](https://dictionary.telemetry.mozilla.org/apps/firefox_desktop), [Android](https://dictionary.telemetry.mozilla.org/apps/fenix), atau [iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios). Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) dan [Perangkat Seluler](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) kapan saja.
 
 ### Untuk menyesuaikan Firefox dengan kebutuhan Anda
 
 Firefox memproses berbagai data pribadi dengan cara yang tidak meninggalkan perangkat Anda, seperti riwayat penjelajahan, data formulir web, file internet sementara, dan kuki. Artinya, data tetap ada di perangkat Anda dan tidak dikirimkan ke server Mozilla kecuali dinyatakan sebaliknya dalam Pemberitahuan ini. Jika Anda memilih untuk mengizinkannya, lokasi akurat Anda juga dapat diproses untuk fungsi terkait lokasi untuk situs web seperti Peta Google; data ini hanya diakses dari perangkat Anda melalui situs web yang Anda pilih untuk mengaktifkannya — data ini tidak dikirim ke server Mozilla.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Data yang diproses di perangkat Anda tetap berada dalam kendali Anda. Anda dapat [mengelola data penjelajahan](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) dan [pengaturan penyimpanan lokal Anda](https://support.mozilla.org/kb/storage), atau memperbarui [izin lokasi](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) kapan saja.
 
 ### Untuk menyediakan dan meningkatkan fungsi pencarian
 
-Saat Anda melakukan pencarian di Firefox, kueri pencarian, data perangkat, dan data lokasi Anda akan diproses oleh mesin pencarian baku Anda (sesuai dengan [Pemberitahuan Privasi yang berlaku](#privacy-policies-for-search-providers)) untuk memberikan hasil pencarian dan saran pencarian Anda.
+Saat Anda melakukan pencarian di Firefox, kueri pencarian, data perangkat, dan data lokasi Anda akan diproses oleh mesin pencarian baku Anda (sesuai dengan [Pemberitahuan Privasi yang berlaku](#privacy-policies-for-search-providers)) untuk memberikan hasil pencarian dan saran pencarian Anda. Mozilla umumnya menerima royalti saat Anda menggunakan salah satu opsi pencarian default atau opsional di browser web Firefox.
 
 Firefox juga menampilkan [saran pencarian](https://support.mozilla.org/kb/search-suggestions-firefox) berdasarkan informasi yang disimpan di perangkat lokal Anda (termasuk istilah pencarian terbaru, tab terbuka, dan URL yang sebelumnya dikunjungi). Saran ini mungkin mencakup saran bersponsor dari mitra Mozilla, konten relevan dari sumber informasi internet umum (seperti Wikipedia), atau URL relevan yang populer di negara Anda. Mozilla memproses data teknis dan interaksi tertentu, seperti berapa banyak pencarian yang Anda lakukan, berapa banyak saran bersponsor yang Anda lihat, dan apakah Anda berinteraksi dengan saran tersebut. Mitra Mozilla menerima informasi yang sudah dihapus identifikasinya tentang interaksi dengan saran yang mereka berikan. Anda dapat mengaktifkan atau menonaktifkan [Saran pencarian](https://support.mozilla.org/kb/search-suggestions-firefox) kapan saja.
 
-Bergantung pada lokasi Anda, Mozilla memperoleh kategori tingkat tinggi (misalnya, perjalanan, belanja) pencarian Anda dari kata kunci dalam kueri tersebut, untuk memahami jenis dan jumlah pencarian yang dilakukan. Kami menggunakan teknologi yang menjaga privasi sedemikian rupa sehingga Mozilla hanya mengetahui bahwa seseorang, di suatu tempat, melakukan pencarian terkait kategori tertentu, tanpa mengetahui siapa yang melakukannya. [Pelajari lebih lanjut](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) tentang cara kami mengategorikan pencarian, termasuk cara menolaknya.
+[Bergantung pada lokasi Anda](https://support.mozilla.org/kb/firefox-suggest), Mozilla memperoleh kategori tingkat tinggi pencarian Anda (misalnya, perjalanan, belanja) dari kata kunci dalam kueri tersebut, untuk memahami jenis dan jumlah pencarian yang dilakukan. Kami menggunakan teknologi yang menjaga privasi sedemikian rupa sehingga Mozilla hanya mengetahui bahwa seseorang, di suatu tempat, melakukan pencarian terkait kategori tertentu, tanpa mengetahui siapa yang melakukannya. [Pelajari lebih lanjut](https://blog.mozilla.org/en/products/firefox/firefox-search-update/) tentang cara kami mengategorikan pencarian, termasuk cara menolaknya.
 
 Mozilla juga dapat menerima kata kunci terkait lokasi dari pencarian Anda (seperti saat Anda mencari "Boston") dan membagikannya kepada mitra kami untuk menyediakan saran konten dan konten bersponsor. Jika ini terjadi, Mozilla tidak dapat mengaitkan pencarian kata kunci dengan pengguna individu setelah saran pencarian ditampilkan dan mitra tidak pernah dapat mengaitkan saran pencarian dengan pengguna individu. Anda dapat menghapus fungsi ini kapan saja dengan menonaktifkan Saran Bersponsor — informasi lebih lanjut tentang cara melakukannya ada di bagian halaman [Dukungan Firefox](https://support.mozilla.org/kb/firefox-suggest?as=u) yang relevan.
 
 Anda mungkin dapat menyetujui pengalaman pencarian yang ditingkatkan. Dengan begitu, Mozilla akan memproses data pribadi tambahan, termasuk data teknis, lokasi, dan data pencarian Anda. Beberapa informasi tersebut mungkin dibagikan kepada mitra kami dengan terlebih dahulu menghapus identitasnya dan/atau secara agregat. Lihat [postingan blog](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/) “Saran Data dan Firefox” kami untuk detail lebih lanjut.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Anda dapat memperbarui [Pengaturan pencarian](https://support.mozilla.org/kb/change-your-default-search-settings-firefox) dan [fitur Saran pencarian](https://support.mozilla.org/kb/search-suggestions-firefox) kapan saja, serta mempelajari lebih lanjut tentang cara kami [mengategorikan pencarian](https://blog.mozilla.org/en/products/firefox/firefox-search-update/).
 
+<a id="recommend-relevant-content"></a>
 ### Untuk menampilkan konten dan iklan yang relevan di Tab Baru Firefox
 
-Kami menggunakan data teknis, preferensi bahasa, dan lokasi untuk menampilkan konten dan iklan di halaman Tab Baru Firefox dalam format yang benar (yaitu untuk perangkat seluler vs desktop), bahasa, dan lokasi yang relevan. Mozilla mengumpulkan data teknis dan interaksi, seperti posisi, ukuran, tayangan, dan klik pada konten atau iklan Tab Baru, untuk memahami cara orang berinteraksi dengan konten kami dan untuk mempersonalisasi konten selanjutnya, termasuk konten bersponsor. Data ini dapat dibagikan kepada mitra periklanan kami dengan tanpa identitas atau secara agregat.
+Kami menggunakan data teknis, preferensi bahasa, dan lokasi untuk menampilkan konten dan iklan di halaman Tab Baru Firefox (disebut sebagai beranda di perangkat seluler) dalam format yang benar (yaitu untuk perangkat seluler vs desktop), bahasa, dan lokasi yang relevan. Mozilla mengumpulkan data teknis dan interaksi, seperti posisi, ukuran, tayangan, dan klik pada konten atau iklan Tab Baru, untuk memahami cara orang berinteraksi dengan konten kami dan untuk mempersonalisasi konten selanjutnya, termasuk konten bersponsor. Data ini dapat dibagikan kepada mitra periklanan kami dengan tanpa identitas atau secara agregat.
 
 Dalam beberapa kasus, saat iklan diaktifkan di Tab Baru, data penjelajahan tambahan juga dapat diproses secara lokal di perangkat Anda untuk mengukur efektivitas iklan tersebut; data tersebut hanya akan dibagikan kepada Mozilla dan/atau mitra periklanan kami melalui teknologi kami yang melindungi privasi secara agregat dan/atau tanpa identitas.
 
 Saat pengguna mengunjungi situs web pihak ketiga dengan mengklik iklan atau tautan di Firefox, situs tersebut dapat menggunakan kuki dan API web lain yang tersedia di situs web mana pun untuk mengumpulkan data dengan tunduk pada privasi dan/atau pemberitahuan kuki situs web tersebut.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
-Anda dapat membaca informasi selengkapnya tentang [cara mengelola halaman Tab Baru](https://support.mozilla.org/kb/customize-your-new-tab-page) termasuk [pengaturan data](https://support.mozilla.org/kb/sponsor-privacy) Anda. Anda dapat menolak pemrosesan data Anda untuk tujuan personalisasi atau iklan dengan menonaktifkan “data teknis dan interaksi” di [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) dan [Perangkat Seluler](https://support.mozilla.org/kb/technical-and-interaction-data) kapan saja.
+Anda dapat membaca informasi selengkapnya tentang [cara mengelola halaman Tab Baru](https://support.mozilla.org/kb/customize-your-new-tab-page) termasuk pengaturan data Anda untuk [Desktop](https://support.mozilla.org/kb/sponsor-privacy), [Android](https://support.mozilla.org/kb/customize-firefox-home-screen), atau [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios). Anda dapat menolak pemrosesan data Anda untuk tujuan personalisasi atau iklan dengan menonaktifkan data di [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) dan [Perangkat Seluler](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) kapan saja.
 
 ### Untuk menyediakan akun Mozilla
 
 Jika Anda mendaftar akun Mozilla, kami memproses informasi tambahan bersama dengan data yang dijelaskan dalam Pemberitahuan ini, seperti detail akun, informasi kontak, dan data sinkronisasi, sesuai dengan [Pemberitahuan Privasi Akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-### Untuk menyediakan Chatbot AI
+### Untuk menyediakan chatbot AI
 
 Anda memiliki opsi untuk menggunakan chatbot AI pihak ketiga pilihan Anda guna membantu Anda melakukan beberapa hal, seperti merangkum apa yang Anda baca, tulis, dan bertukar pikiran, sesuai dengan [ketentuan penggunaan dan pemberitahuan privasi](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) penyedia tersebut.
 
 Jika Anda memilih untuk mengaktifkan chatbot di bilah sisi dan/atau melalui pintasan, Mozilla tidak memiliki akses ke percakapan Anda atau konten dasar yang Anda masukkan ke chatbot yang dipilih. Kami mengumpulkan data teknis dan interaksi tentang bagaimana fitur ini digunakan untuk membantu menyempurnakan Firefox, seperti seberapa sering setiap penyedia chatbot pihak ketiga dipilih, seberapa sering perintah yang disarankan digunakan, dan panjang teks yang dipilih.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Anda dapat membaca selengkapnya tentang cara [mengelola](https://support.mozilla.org/kb/ai-chatbot) atau [menghapus](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar) chatbot AI di Firefox.
 
@@ -74,7 +76,7 @@ Pemeriksa Ulasan adalah fitur Firefox yang membantu Anda menentukan apakah ulasa
 
 Dengan memilih untuk menggunakan Pemeriksa Ulasan, Anda juga setuju untuk diperlihatkan rekomendasi produk dan konten bersponsor. Jika Anda tidak ingin menerima rekomendasi produk dan konten bersponsor, Anda dapat memilih untuk menolak fitur ini di pengaturan Pemeriksa Ulasan kapan saja.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Anda dapat membaca informasi selengkapnya tentang [Cara menggunakan Pemeriksa Ulasan Firefox](https://support.mozilla.org/kb/review-checker-review-quality) dan cara kami menerapkan teknologi yang menjaga privasi seperti [OHTTP](https://support.mozilla.org/kb/ohttp-explained).
 
@@ -84,7 +86,7 @@ Anda bisa menginstal pengaya dari addons.mozilla.org (“AMO”) atau dari Penge
 
 Saat Anda mengunjungi [situs web AMO](https://addons.mozilla.org/firefox/), Mozilla mengumpulkan data teknis dan interaksi tentang penggunaan Anda terhadap situs tersebut sesuai dengan pemberitahuan [Situs Web, Komunikasi, dan Kuki Mozilla](https://www.mozilla.org/privacy/websites/) kami.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Pelajari [cara menghapus atau mengaktifkan pengaya](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox). Anda juga dapat meninjau [Pemberitahuan Privasi](https://www.mozilla.org/privacy/websites/) untuk [situs web pengaya](https://addons.mozilla.org/firefox/).
 
@@ -92,11 +94,11 @@ Pelajari [cara menghapus atau mengaktifkan pengaya](https://support.mozilla.org/
 
 Mozilla menjalankan [studi](https://support.mozilla.org/kb/shield) di Firefox dan memastikan [fitur eksperimental](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) tersedia melalui Firefox Labs untuk menguji berbagai fitur dan ide sebelum menyediakannya kepada semua pengguna Firefox atau ditawarkan sebagai bagian dari penawaran inti Firefox — Dengan begitu, kami dapat membuat keputusan yang lebih tepat tentang apa yang diinginkan dan dibutuhkan pengguna kami. Penelitian ini menggunakan data teknis, kinerja sistem, lokasi, pengaturan, dan interaksi.
 
-Kami juga perlu memproses data untuk memastikan Firefox terus beroperasi, meningkatkan fitur dan kinerja, serta mengidentifikasi, memecahkan masalah, dan mendiagnosis masalah. Untuk ini, kami menggunakan data teknis, lokasi, dan pengaturan, serta data interaksi dan kinerja sistem (seperti jumlah tab yang terbuka, penggunaan memori, atau hasil proses otomatis seperti pembaruan). Dalam situasi yang jarang terjadi ketika informasi yang diperlukan juga mencakup data penjelajahan terbatas (misalnya, anotasi Domain Tingkat Atas untuk pemantauan kinerja pemuatan halaman), informasi tersebut akan dikirimkan menggunakan OHTTP; ini membantu mencegah Mozilla menghubungkan Anda atau perangkat Anda ke data yang dikumpulkan untuk tujuan ini.
+Kami juga perlu memproses data untuk memastikan Firefox terus beroperasi, meningkatkan fitur dan kinerja, serta mengidentifikasi, memecahkan masalah, dan mendiagnosis masalah. Untuk ini, kami menggunakan data teknis, lokasi, dan pengaturan, serta data interaksi dan kinerja sistem (seperti jumlah tab yang terbuka, penggunaan memori, atau hasil proses otomatis seperti pembaruan). Dalam situasi yang jarang terjadi ketika informasi yang diperlukan juga mencakup data penjelajahan terbatas (misalnya, anotasi Domain Tingkat Atas untuk pemantauan kinerja pemuatan halaman), informasi tersebut akan dikirimkan menggunakan [OHTTP](https://support.mozilla.org/kb/ohttp-explained); ini membantu mencegah Mozilla menghubungkan Anda atau perangkat Anda ke data yang dikumpulkan untuk tujuan ini.
 
 Di desktop dan Android, jika Firefox mengalami masalah yang tidak terduga, [Pelapor Kerusakan Mozilla](https://support.mozilla.org/kb/mozillacrashreporter) juga akan menanyakan apakah Anda ingin mengirimkan informasi tambahan kepada kami, yang mungkin mencakup situs yang dibuka pada saat terjadi kerusakan dan data penjelajahan lainnya. Di Desktop dan Android jika Anda memilih untuk mengirimkan laporan kerusakan secara otomatis kepada kami, kami mengumpulkan informasi ini tanpa meminta Anda setiap saat; di iOS, laporan kerusakan memuat lebih sedikit informasi dan dikirimkan secara otomatis kepada kami secara baku. Anda dapat mengubah pengaturan ini kapan saja.
 
-#### Informasi selengkapnya, termasuk cara menyesuaikan pengaturan data Anda:
+#### Informasi selengkapnya, termasuk cara menyesuaikan pengaturan data Anda
 
 Anda dapat [mempelajari lebih lanjut](https://support.mozilla.org/kb/shield) tentang studi yang Anda setujui dan memilih untuk menolak semua (atau studi tertentu) kapan saja, dan menyetujui fitur eksperimental melalui [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Anda juga dapat [mempelajari lebih lanjut](https://support.mozilla.org/kb/technical-and-interaction-data) tentang data teknis dan interaksi yang kami proses, termasuk cara menonaktifkannya.
 
@@ -109,23 +111,23 @@ Selain proses standar ini, kami menggunakan [Layanan Penjelajahan Aman Google](h
 
 Untuk [beberapa pengguna Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox merutekan permintaan DNS ke layanan resolver yang [telah menyetujui standar privasi Mozilla yang ketat untuk resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy). Proses ini memberikan perlindungan tambahan dari kebocoran privasi ke jaringan lokal dan juga dari serangan keamanan DNS tertentu. Log sistem permintaan DNS dihapus dari layanan dalam waktu 24 jam dan hanya digunakan untuk tujuan resolusi DNS. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) tentang DNS melalui HTTPS.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
-[Daftar blokir pengaya dan peningkatan](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Layanan Penjelajahan Aman Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work),[ OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/),
+Anda dapat mempelajari lebih lanjut tentang [peningkatan dan daftar blokir pengaya](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Layanan Penjelajahan Aman Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), dan [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), atau menonaktifkan [data teknis dan interaksi](https://support.mozilla.org/kb/technical-and-interaction-data). 
 
 ### Untuk memahami penggunaan Firefox
 
 Kami memproses [data](#bookmark-understand-usage) untuk lebih memahami cara Anda berinteraksi dengan layanan kami, seperti seberapa sering Anda menggunakan Firefox, preferensi bahasa Anda, seberapa sering Anda menggunakan alat pencarian kami atau berinteraksi dengan saran pencarian, seberapa cepat halaman dimuat untuk Anda, dan berapa banyak iklan atau [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) yang Anda lihat. Hal ini memungkinkan kami mengukur cara orang mengakses dan menggunakan layanan kami, sehingga membantu meningkatkan bisnis kami dan fungsi Firefox.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
-Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) dan [Perangkat Seluler](https://support.mozilla.org/kb/technical-and-interaction-data) kapan saja (perhatikan bahwa membatalkan pilihan “Izinkan Firefox mengirim data teknis dan interaksi ke Mozilla” tidak akan memengaruhi [Ping Penggunaan Harian](https://support.mozilla.org/kb/usage-ping-settings)). Ping Penggunaan Harian ini hanya memberi kami informasi tanpa identitas bahwa pengguna menggunakan Firefox dan tidak terikat dengan data lain apa pun tentang Anda dan dapat ditolak dalam pengaturan.
+Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) dan [Perangkat Seluler](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) kapan saja (perhatikan bahwa membatalkan pilihan “Izinkan Firefox mengirim data teknis dan interaksi ke Mozilla” tidak akan memengaruhi [Ping Penggunaan Harian](https://support.mozilla.org/kb/usage-ping-settings)). Ping Penggunaan Harian ini hanya memberi kami informasi tanpa identitas bahwa pengguna menggunakan Firefox dan tidak terikat dengan data lain apa pun tentang Anda dan dapat ditolak dalam pengaturan.
 
 ### Untuk memasarkan layanan kami
 
 Ketika Anda mengizinkan kami melakukannya, Firefox mengirimkan data Mozilla tentang domain situs web atau kampanye iklan tertentu (jika ada) yang mengarahkan Anda ke halaman unduh kami untuk membantu kami memahami dan meningkatkan upaya pemasaran kami. Firefox juga membagikan informasi kepada mitra pemasaran kami untuk mengukur dan meningkatkan kampanye ini; informasi apa yang dibagikan secara spesifik berbeda-beda (tergantung cara Anda menemukan Firefox dan sistem operasi Anda), tetapi umumnya mencakup bagaimana Anda diarahkan ke halaman unduh kami dan apakah Anda aktif menggunakan Firefox. Jika Firefox sudah diinstal sebelumnya di perangkat Anda, data teknis dan interaksi (jenis perangkat Anda dan apakah Firefox digunakan) akan dikirim ke mitra pemasaran kami, dan dibagikan kepada Mozilla.
 
-#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:
+#### Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda
 
 Pelajari selengkapnya tentang [data Pengukuran Kampanye](https://support.mozilla.org/kb/marketing-data) apa yang dikumpulkan dan dibagikan, serta cara menolaknya. Catatan: Firefox tidak membagikan informasi seperti riwayat penjelajahan Anda, permintaan pencarian, atau kata sandi yang disimpan kepada mitra teknologi pemasaran. Mozilla hanya mengumpulkan data yang diperlukan untuk mengukur dan meningkatkan kampanye pemasaran kami.
 
@@ -141,7 +143,7 @@ Tergantung pengaturan Anda (dan apakah Anda memiliki akun Mozilla atau tidak), k
 
 Kami juga dapat diharuskan memproses data pribadi Anda untuk mematuhi undang-undang yang berlaku dan tujuan perlindungan, seperti:
 
-* <a id="bookmark-authorities"></a>Menanggapi [permintaan yang sah](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dari otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data Pengguna Tertentu kepada pemerintah.
+* <a id="bookmark-authorities"></a>Menanggapi [permintaan yang sah](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dan otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah.
 * Menanggapi permintaan untuk menggunakan hak privasi, seperti hak Anda untuk mengakses atau menghapus data pribadi Anda.
 * Mengidentifikasi, menyelidiki, dan menangani potensi aktivitas penipuan, atau aktivitas berbahaya lainnya seperti aktivitas ilegal, serangan siber, atau pelanggaran kekayaan intelektual (termasuk mengajukan atau membela tuntutan hukum).
 * Melakukan aktivitas kepatuhan dan keamanan internal, seperti audit dan manajemen keamanan perusahaan.
@@ -165,7 +167,7 @@ Layanan kami juga menggunakan penyimpanan cadangan terenkripsi sebagai lapisan p
 
 ## Hak dan pilihan Anda
 
-### Hak Anda:
+### Hak Anda
 
 Sebagai pengguna Firefox, Anda berhak untuk:
 
@@ -190,9 +192,9 @@ Kami menanggapi semua permintaan yang kami terima dari individu yang ingin mengg
 
 Perlu diperhatikan bahwa, saat Anda meminta penghapusan data Firefox, data itu akan dihapus dalam 30 hari sejak permintaan (kecuali Data Interaksi, yang memiliki periode retensi standar selama 90 hari dan akan otomatis dihapus pada akhir periode ini).
 
-### Pilihan Anda:
+### Pilihan Anda
 
-Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/technical-and-interaction-data) dan [Perangkat Seluler](https://support.mozilla.org/kb/technical-and-interaction-data) kapan saja.
+Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) dan [Perangkat Seluler](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) kapan saja.
 
 Firefox juga menyediakan [Kontrol Privasi Global](https://support.mozilla.org/kb/global-privacy-control) (GPC), yang dapat Anda aktifkan untuk secara otomatis memberi tahu situs web agar tidak menjual atau berbagi informasi tentang sesi penjelajahan Anda di situs web tersebut. GPC beroperasi sebagai mekanisme “Jangan Jual” di beberapa negara bagian AS seperti California, Colorado, dan Connecticut. Ini juga dapat digunakan untuk menunjukkan penolakan terhadap iklan bertarget atau permintaan umum untuk membatasi penjualan atau pembagian data pribadi Anda di yurisdiksi tersebut, serta di yurisdiksi seperti UE, Inggris, Nevada, Utah, dan Virginia.
 
@@ -212,7 +214,7 @@ Firefox versi pra-rilis Mozilla (yang didistribusikan melalui saluran seperti Ni
 
 Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruannya akan diposting secara online dan kami akan memperbarui tanggal berlaku pemberitahuan ini. Jika perubahannya substantif, kami juga akan mengumumkan pembaruan tersebut secara lebih kentara melalui saluran umum Mozilla untuk pengumuman tersebut, seperti postingan blog dan forum.
 
-## Jenis Data yang Ditentukan
+## Jenis data yang ditentukan
 
 | Jenis Data | Deskripsi | Contoh untuk pengguna Firefox |
 | ----- | ----- | ----- |
@@ -229,7 +231,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 | Konten | Saat Anda memberikannya kepada kami, kami dapat memproses data seperti gambar yang diunggah atau tanggapan survei. | Gambar yang diunggah, bookmark, komentar, tanggapan survei.  |
 | Data kontak | Saat Anda memberikannya kepada kami, kami mungkin memproses data tentang cara menghubungi Anda.  | Alamat email, nomor telepon. |
 
-## Dasar Hukum
+## Dasar hukum
 
 <table>
     <thead>
@@ -257,7 +259,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                 <p><strong>Kontrak</strong> untuk memberi Anda fungsionalitas yang diperlukan agar Firefox dapat beroperasi.</p>
                 <p><strong>Kepentingan yang sah</strong> dalam menyediakan fungsionalitas tambahan, layanan aksesibilitas, dan pengalaman yang lebih dipersonalisasi.</p>
             </td>
-            <td>Anda dapat membaca informasi lebih detail tentang informasi yang kami kumpulkan untuk <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>, atau <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Anda dapat memperbarui pengaturan pengumpulan data untuk <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> dan <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Perangkat Seluler</a> kapan saja. Anda juga dapat mempelajari lebih lanjut tentang <a href="https://support.mozilla.org/kb/website-translation">terjemahan</a> dan <a href="https://support.mozilla.org/kb/pdf-alt-text">menambahkan teks alternatif ke gambar di PDF</a>.</td>
+            <td>Anda dapat membaca informasi lebih detail tentang informasi yang kami kumpulkan untuk <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_desktop">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>, atau <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. Anda dapat memperbarui pengaturan pengumpulan data untuk <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">Desktop</a> dan <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">Perangkat Seluler</a> kapan saja. Anda juga dapat mempelajari lebih lanjut tentang <a href="https://support.mozilla.org/kb/website-translation">terjemahan</a> dan <a href="https://support.mozilla.org/kb/pdf-alt-text">menambahkan teks alternatif ke gambar di PDF</a>.</td>
         </tr>
         <tr>
             <td>Untuk menyesuaikan Firefox dengan kebutuhan Anda</td>
@@ -307,7 +309,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                 </ul>
             </td>
             <td><strong>Kepentingan sah</strong> dalam menyediakan konten yang Anda minati dan memastikan iklan yang Anda lihat relevan (yang mendukung kemampuan kami menyediakan produk dan layanan).</td>
-            <td>Anda dapat membaca informasi selengkapnya tentang <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">cara mengelola halaman Tab Baru</a> termasuk <a href="https://support.mozilla.org/kb/sponsor-privacy">pengaturan data</a> Anda. Anda dapat menolak pemrosesan data Anda untuk tujuan personalisasi atau iklan dengan menonaktifkan “data teknis dan interaksi” di <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> dan <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Perangkat Seluler</a> kapan saja.</td>
+            <td>Anda dapat membaca informasi selengkapnya tentang <a href="https://support.mozilla.org/kb/customize-your-new-tab-page">cara mengelola halaman Tab Baru</a> termasuk pengaturan data Anda untuk <a href="https://support.mozilla.org/kb/sponsor-privacy">Desktop</a>, <a href="https://support.mozilla.org/kb/customize-firefox-home-screen">Android</a>, atau <a href="https://support.mozilla.org/kb/customize-firefox-home-ios">iOS</a>. Anda dapat menolak pemrosesan data Anda untuk tujuan personalisasi atau iklan dengan menonaktifkan data di <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">Desktop</a> dan <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">Perangkat Seluler</a> kapan saja.</td>
         </tr>
         <tr>
             <td>Untuk menyediakan Akun Mozilla</td>
@@ -398,7 +400,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                 <p><strong>Kepatuhan terhadap undang-undang</strong> dalam mengamankan data pribadi sebagaimana diwajibkan berdasarkan peraturan privasi dan keamanan siber yang berlaku.</p>
                 <p><strong>Kepentingan yang sah</strong> dalam menyediakan langkah-langkah keamanan tambahan untuk semua pengguna kami dan meningkatkan keamanan internet secara keseluruhan (seperti upaya anti-sidik jari kami).</p>
             </td>
-            <td>Pelajari lebih lanjut tentang <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Daftar blokir pengaya dan peningkatan</a> kami, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Layanan Penjelajahan Aman Google</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>,</td>
+            <td>Anda dapat mempelajari lebih lanjut tentang <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">peningkatan dan daftar blokir pengaya</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Layanan Penjelajahan Aman Google</a>, dan <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>, atau menonaktifkan <a href="https://support.mozilla.org/kb/technical-and-interaction-data">data teknis dan interaksi</a>.</td>
         </tr>
         <tr>
             <td><a id="bookmark-understand-usage"></a>Untuk memahami penggunaan Firefox</td>
@@ -418,10 +420,10 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                 <p><strong>Kepentingan yang sah</strong> dalam memahami cara Firefox digunakan, mendukung peningkatan, dan menjalankan fungsi bisnis seperti pelaporan dan perkiraan penggunaan.</p>
                 <p><strong>Persetujuan</strong>, jika diwajibkan berdasarkan undang-undang yang berlaku (misalnya saat kuki yang tidak penting digunakan), atau saat pengguna menanggapi survei atau secara sukarela mengirimkan informasi lainnya.</p>
             </td>
-            <td>Anda dapat memperbarui pengaturan pengumpulan data untuk <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Desktop</a> dan <a href="https://support.mozilla.org/kb/technical-and-interaction-data">Perangkat Seluler</a> kapan saja (perhatikan bahwa membatalkan pilihan “Izinkan Firefox mengirim data teknis dan interaksi ke Mozilla” tidak akan memengaruhi <a href="https://support.mozilla.org/kb/usage-ping-settings">Ping Penggunaan Harian</a>). Ping Penggunaan Harian ini hanya memberi kami informasi tanpa identitas bahwa pengguna menggunakan Firefox dan tidak terikat dengan data lain apa pun tentang Anda dan dapat ditolak dalam pengaturan.</td>
+            <td>Anda dapat memperbarui pengaturan pengumpulan data untuk <a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">Desktop</a> dan <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">Perangkat Seluler</a> kapan saja (perhatikan bahwa membatalkan pilihan “Izinkan Firefox mengirim data teknis dan interaksi ke Mozilla” tidak akan memengaruhi <a href="https://support.mozilla.org/kb/usage-ping-settings">Ping Penggunaan Harian</a>). Ping Penggunaan Harian ini hanya memberi kami informasi tanpa identitas bahwa pengguna menggunakan Firefox dan tidak terikat dengan data lain apa pun tentang Anda dan dapat ditolak dalam pengaturan.</td>
         </tr>
         <tr>
-            <td>Untuk memasarkan layanan kami.</td>
+            <td>Untuk memasarkan layanan kami</td>
             <td>
                 <ul>
                     <li>Data teknis</li>
@@ -441,7 +443,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
             <td>Pelajari selengkapnya tentang <a href="https://support.mozilla.org/kb/marketing-data">data Pengukuran Kampanye</a> apa yang dikumpulkan dan dibagikan, serta cara menolaknya. Catatan: Firefox tidak membagikan informasi seperti riwayat penjelajahan Anda, permintaan pencarian, atau kata sandi yang disimpan kepada mitra teknologi pemasaran. Mozilla hanya mengumpulkan data yang diperlukan untuk mengukur dan meningkatkan kampanye pemasaran kami.</td>
         </tr>
         <tr>
-            <td>Untuk membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim.</td>
+            <td>Untuk membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim</td>
             <td>
                 <ul>
                     <li>Semua jenis data</li>
@@ -451,7 +453,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
             <td></td>
         </tr>
         <tr>
-            <td>Untuk berkomunikasi dengan Anda.</td>
+            <td>Untuk berkomunikasi dengan Anda</td>
             <td>
                 <ul>
                     <li>Pengidentifikasi unik</li>
@@ -465,19 +467,22 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
             <td></td>
         </tr>
         <tr>
-            <td>Untuk mematuhi undang-undang yang berlaku, dan mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal.</td>
+            <td>Untuk mematuhi undang-undang yang berlaku, dan mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal</td>
             <td>
                 <ul>
                     <li>Semua jenis data</li>
                 </ul>
             </td>
-            <td><strong>Kepatuhan terhadap undang-undang</strong> dalam menanggapi permintaan hak subjek data, menanggapi permintaan penegakan hukum, mengelola dan melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami). <strong>Kepentingan yang sah</strong>, jika kepatuhan tidak sesuai, dalam mendukung proses atau permintaan hukum atau peraturan, mencegah penipuan dan mengelola serta melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</td>
+            <td>
+                <p><strong>Kepatuhan terhadap undang-undang</strong> dalam menanggapi permintaan hak subjek data, menanggapi permintaan penegakan hukum, mengelola dan melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
+                <p><strong>Kepentingan yang sah</strong>, jika kepatuhan tidak sesuai, dalam mendukung proses atau permintaan hukum atau peraturan, mencegah penipuan dan mengelola serta melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
+            </td>
             <td>Pelajari lebih lanjut cara kami menanggapi <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">permintaan sah</a>.</td>
         </tr>
     </tbody>
 </table>
 
-## Kebijakan Privasi untuk Penyedia Pencarian
+## Kebijakan privasi untuk penyedia pencarian
 
 [Google](https://policies.google.com/privacy)
 

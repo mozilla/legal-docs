@@ -1,7 +1,7 @@
 # Condiciones del servicio de las cuentas de Mozilla
 
-Última actualización: miércoles, 1 de noviembre de 2023
-{: datetime="2023-11-01" }
+Última actualización: martes, 13 de mayo de 2025
+{: datetime="2025-05-13" }
 
 ## Resumen
 
@@ -18,7 +18,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 2. #### Cuentas de Mozilla
 
-    Para poder utilizar algunos de los Servicios, deberá crear una cuenta de Mozilla. Durante el registro, se le pedirá crear una contraseña. Usted es el único responsable de la confidencialidad de su contraseña y la actividad realizada con su cuenta de Mozilla. Mozilla no se responsabiliza de las pérdidas que se producen como consecuencia del uso no autorizado de su cuenta de Mozilla.
+    Para poder utilizar algunos de los Servicios, deberá crear una cuenta de Mozilla. Usted debe tener 13 años o más para crear una cuenta de Mozilla. Durante el proceso de registro, se le pedirá que establezca una contraseña. Usted es el único responsable de la confidencialidad de su contraseña y la actividad realizada con su cuenta de Mozilla. Mozilla no se responsabiliza de las pérdidas que se producen como consecuencia del uso no autorizado de su cuenta de Mozilla.
 
 3. #### Servicios 
 
