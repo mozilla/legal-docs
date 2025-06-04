@@ -1,7 +1,7 @@
 # Comptes Mozilla - Conditions d’utilisation
 
-Dernière mise à jour : mercredi 1er novembre 2023
-{: datetime="2023-11-01" }
+Dernière mise à jour : 13 mai 2025
+{: datetime="2025-05-13" }
 
 ## Résumé
 
@@ -18,7 +18,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
 
 2. #### Comptes Mozilla
 
-    Pour pouvoir bénéficier de certains des Services, vous devez créer un compte Mozilla. Lors de la procédure d’inscription, il vous est demandé de définir un mot de passe. Il vous incombe de préserver la confidentialité de votre mot de passe et vous êtes responsable des activités exécutées avec votre compte Mozilla. Mozilla n’est pas responsable de toutes pertes découlant d’une utilisation non autorisée de votre compte Mozilla.
+    Pour pouvoir bénéficier de certains des Services, vous devez créer un compte Mozilla. Vous devez avoir 13 ans ou plus pour créer un compte Mozilla. Lors de la procédure d’inscription, il vous est demandé de définir un mot de passe. Il vous incombe de préserver la confidentialité de votre mot de passe et vous êtes responsable des activités exécutées avec votre compte Mozilla. Mozilla n’est pas responsable de toutes pertes découlant d’une utilisation non autorisée de votre compte Mozilla.
 
 3. #### Services 
 

@@ -1,7 +1,7 @@
 # Mozilla Hesapları Hizmet Koşulları
 
-Son Güncelleme: 01 Kasım 2023 Çarşamba
-{: datetime="2023-11-01" }
+Son Güncelleme: 13 Mayıs 2025 Salı
+{: datetime="2025-05-13" }
 
 ## Özet
 
@@ -18,7 +18,7 @@ Son Güncelleme: 01 Kasım 2023 Çarşamba
 
 2. #### Mozilla Hesapları
 
-    Bazı Hizmetleri kullanmak için bir Mozilla hesabı oluşturmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Mozilla hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olursunuz. Mozilla, Mozilla hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
+    Bazı Hizmetleri kullanmak için bir Mozilla hesabı oluşturmanız gerekir. Mozilla hesabı oluşturmak için 13 veya üzeri yaşta olmanız gerekir. Kayıt sırasında bir şifre belirlemeniz istenir. Şifrenizi gizli tutmaktan ve Mozilla hesabınız üzerinden gerçekleşen etkinliklerden siz sorumlu olursunuz. Mozilla, Mozilla hesabınızın yetkisiz kullanımından doğan hiçbir kayıptan sorumlu olmayacaktır.
 
 3. #### Hizmetler 
 

@@ -1,7 +1,7 @@
 # Warunki korzystania z kont Mozilla
 
-Ostatnia aktualizacja: 1 listopada 2023
-{: datetime="2023-11-01" }
+Ostatnia aktualizacja: 13 maja 2025
+{: datetime="2025-05-13" }
 
 ## Streszczenie
 
@@ -18,7 +18,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 2. #### Konta Mozilla
 
-    Do korzystania z określonych Usług wymagane jest utworzenie konta Mozilla. Podczas rejestracji użytkownik zostanie poproszony o ustawienie hasła. Użytkownik ponosi odpowiedzialność w zakresie zachowania poufności hasła oraz działań wykonywanych za pośrednictwem jego konta Mozilla. Firma Mozilla nie ponosi odpowiedzialności za jakiekolwiek straty wynikające z nieautoryzowanego użycia konta Mozilla użytkownika.
+    Do korzystania z określonych Usług wymagane jest utworzenie konta Mozilla. Aby utworzyć konto Mozilla, musisz mieć ukończone 13 lat. Podczas rejestracji użytkownik zostanie poproszony o ustawienie hasła. Użytkownik ponosi odpowiedzialność w zakresie zachowania poufności hasła oraz działań wykonywanych za pośrednictwem jego konta Mozilla. Firma Mozilla nie ponosi odpowiedzialności za jakiekolwiek straty wynikające z nieautoryzowanego użycia konta Mozilla użytkownika.
 
 3. #### Usługi 
 
