@@ -18,7 +18,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
 2. #### Account Mozilla
 
-    Per utilizzare alcuni Servizi, l'utente dovrà creare un account Mozilla. Per creare un account Moziella, è necessario avere compiuto 13 anni. Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Mozilla. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Mozilla da parte dell'utente.
+    Per utilizzare alcuni Servizi, l'utente dovrà creare un account Mozilla. Per creare un account Mozilla, è necessario avere compiuto 13 anni. Durante la registrazione, all'utente sarà chiesto di impostare una password. L'utente è responsabile di mantenere riservata la password e delle attività svolte nell'ambito del proprio account Mozilla. Mozilla non sarà responsabile di eventuali perdite derivanti da un uso non autorizzato dell'account Mozilla da parte dell'utente.
 
 3. #### Servizi 
 
