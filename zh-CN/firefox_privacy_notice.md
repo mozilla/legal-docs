@@ -482,6 +482,22 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
     </tbody>
 </table>
 
+<!-- Additional section for zh-CN. Do not remove when translating. -->
+
+### 扫描二维码
+
+**相机权限：** Firefox在访问您设备上的相机之前总是询问使用权限。您可以授予 Firefox 访问您相机的权限，以便扫描二维码并打开相关网站。此信息会保留在您的设备上。当您使用此功能时，Mozilla 不会接收或共享您的相机信息或浏览活动。[了解更多](https://support.mozilla.org/kb/scan-qr-codes-firefox-android).
+
+### 剪贴板
+
+剪贴板权限：Firefox 请求获取剪贴板访问权限，以自动将复制或剪切的文本粘贴到浏览器栏中。此信息将保留在您的设备中。使用此功能时，Mozilla 不会收集剪贴板信息或浏览的活动记录。
+
+### 加速度计 
+
+加速度计权限：Firefox 在访问您设备中的加速度计或陀螺仪功能之前总是询问使用权限（例如，如果健身网站需要加速度计来跟踪步数）。如果您允许某个网站访问您的加速度计，Firefox 会将该信息发送至该网站。在您使用此功能时，Mozilla 不会收到您的加速度计信息。
+
+<!-- End of additional section. -->
+
 ## 搜索提供商的隐私政策
 
 [Google](https://policies.google.com/privacy)
