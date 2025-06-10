@@ -1,7 +1,7 @@
 # Mozilla Accounts Terms of Service
 
-Last Updated May 13, 2025
-{: datetime="2025-05-13" }
+Last Updated June 10, 2025
+{: datetime="2025-06-10" }
 
 ## Summary
 
@@ -42,7 +42,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 4. #### Privacy Policy
 
-    We use the information we receive through the Services as described in our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/). Our Privacy Notices describe in more detail the data we receive from each service:
+    We use the information we receive through the Services as described in our [Mozilla accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/). Our Privacy Notices describe in more detail the data we receive from each service:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
