@@ -1,7 +1,7 @@
 ﻿# Conditions d'utilisation de Firefox
 
-Date d'effet : vendredi 28 février 2025
-{: datetime="2025-02-28" }
+Date d'effet : mardi 10 juin 2025
+{: datetime="2025-06-10" }
 
 Firefox est un logiciel de navigation Web open source gratuit, développé par une communauté de millions de personnes dans le monde entier.
 
@@ -23,7 +23,7 @@ Mozilla ne vous cède aucun droit de propriété intellectuelle sur Firefox, qui
 
 ## Vous accordez à Mozilla certains droits et autorisations
 
-Vous accordez à Mozilla les droits nécessaires au fonctionnement de Firefox. Cela inclut le traitement de vos données, tel que décrit dans l'[Avis de confidentialité de Firefox](https://www.mozilla.org/privacy/firefox/#notice). Est également incluse une licence non exclusive, libre de droits et mondiale pour faire ce que vous demandez avec le contenu que vous entrez dans Firefox. Cela ne donne à Mozilla aucun droit de propriété sur ce contenu.
+Vous accordez à Mozilla les droits nécessaires au fonctionnement de Firefox. Cela inclut le traitement de vos données, tel que décrit dans l'[Avis de confidentialité de Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Vos commentaires et suggestions
 

@@ -1,7 +1,7 @@
 ﻿# Firefox-Nutzungsbedingungen
 
-Gültig ab 28. Februar 2025
-{: datetime="2025-02-28" }
+Gültig ab 10. Juni 2025
+{: datetime="2025-06-10" }
 
 Firefox ist eine kostenlose Open-Source-Webbrowser-Software, die von einer Community mit Tausenden von Mitgliedern aus der ganzen Welt entwickelt wird.
 
@@ -23,7 +23,7 @@ Mozilla räumt Ihnen keine Rechte an geistigem Eigentum von Firefox ein, soweit 
 
 ## Sie räumen Mozilla gewisse Rechte und Befugnisse ein
 
-Sie räumen Mozilla die erforderlichen Rechte ein, um Firefox zu betreiben. Dies umfasst die Verarbeitung Ihrer Daten wie im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/#notice) beschrieben. Ferner umfasst dies eine nichtexklusive, unentgeltliche und weltweit gültige Lizenz, damit Sie mit den Inhalten, die Sie in Firefox eingeben, wie gewünscht verfahren können. Dadurch erwirbt Mozilla keinerlei Eigentumsrechte an solchen Inhalten.
+Sie räumen Mozilla die erforderlichen Rechte ein, um Firefox zu betreiben. Dies umfasst die Verarbeitung Ihrer Daten wie im [Firefox-Datenschutzhinweis](https://www.mozilla.org/privacy/firefox/#notice) beschrieben.
 
 ### Ihr Feedback und Ihre Vorschläge
 

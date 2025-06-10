@@ -1,7 +1,7 @@
 ﻿# Termos de uso do Firefox
 
-Data de vigência: sexta-feira, 28 de fevereiro de 2025
-{: datetime="2025-02-28" }
+Data de vigência: terça-feira, 10 de junho de 2025
+{: datetime="2025-06-10" }
 
 O Firefox é um software de navegador livre e de código aberto criado por uma comunidade de milhares de pessoas de todo o mundo.
 
@@ -23,7 +23,7 @@ A Mozilla não concede a você quaisquer direitos de propriedade intelectual sob
 
 ## Direitos e permissões concedidos por você à Mozilla
 
-Você concede à Mozilla os direitos necessários para operar o Firefox. Isso inclui processar seus dados das maneiras descritas no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice). Isso também inclui uma licença não exclusiva, livre de direitos autorais e de vigência mundial para a finalidade de executar suas requisições com o conteúdo que você inserir no Firefox. Isso não dá à Mozilla nenhum direito de propriedade sobre esse conteúdo.
+Você concede à Mozilla os direitos necessários para operar o Firefox. Isso inclui processar seus dados das maneiras descritas no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice)
 
 ### Feedback e sugestões
 

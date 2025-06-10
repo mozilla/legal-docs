@@ -1,7 +1,7 @@
 ﻿# Podmínky používání Firefoxu
 
-Účinné od 28. února 2025
-{: datetime="2025-02-28" }
+Účinné od 10. června 2025
+{: datetime="2025-06-10" }
 
 Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým vytvořený komunitou tisíců lidí z celého světa.
 
@@ -23,7 +23,7 @@ Mozilla vám neposkytuje žádná práva duševního vlastnictví k Firefox, je�
 
 ## Vy společnosti Mozilla poskytuje určitá práva a oprávnění
 
-Společnosti Mozilla udílíte práva nezbytná pro provozování Firefox. To zahrnuje zpracovávání vašich údajů v souladu s popisem v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice). To zahrnuje rovněž nevýhradní, bezplatnou, celosvětovou licenci pro účely splnění vašich požadavků ohledně obsahu vámi vloženého do Firefoxu. To společnosti Mozilla neposkytuje žádné vlastnictví k příslušnému obsahu.
+Společnosti Mozilla udílíte práva nezbytná pro provozování Firefox. To zahrnuje zpracovávání vašich údajů v souladu s popisem v [Oznámení o ochraně osobních údajů Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Vaše zpětná vazba a návrhy
 

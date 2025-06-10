@@ -1,7 +1,7 @@
 ﻿# Gebruiksvoorwaarden van Firefox
 
-Van kracht vanaf 28 februari 2025
-{: datetime="2025-02-28" }
+Van kracht vanaf 10 juni 2025
+{: datetime="2025-06-10" }
 
 Firefox is gratis webbrowsersoftware op basis van open broncode, gebouwd door een community van duizenden mensen van over de hele wereld.
 
@@ -23,7 +23,7 @@ Mozilla verleent u geen intellectuele eigendomsrechten in Firefox die niet nadru
 
 ## U verleent bepaalde rechten en toestemmingen aan Mozilla
 
-U verleent Mozilla de benodigde rechten voor het verzorgen van Firefox. Dit omvat het verwerken van uw gegevens zoals is beschreven in de [Privacyverklaring van Firefox](https://www.mozilla.org/privacy/firefox/#notice). Dit omvat ook een niet-exclusieve, royaltyvrije, wereldwijde licentie om te doen wat u aanvraagt via de content die u invoert in Firefox. U verleent Mozilla hierdoor geen enkel eigendomsrecht met betrekking tot die content.
+U verleent Mozilla de benodigde rechten voor het verzorgen van Firefox. Dit omvat het verwerken van uw gegevens zoals is beschreven in de [Privacyverklaring van Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Uw feedback en suggesties
 

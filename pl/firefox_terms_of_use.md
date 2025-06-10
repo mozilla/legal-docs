@@ -1,7 +1,7 @@
 ﻿# Warunki użytkowania przeglądarki Firefox
 
-Data wejścia w życie: 28 lutego 2025 r.
-{: datetime="2025-02-28" }
+Data wejścia w życie: 10 czerwca 2025 r.
+{: datetime="2025-06-10" }
 
 Firefox to darmowa przeglądarka internetowa typu open source, stworzona przez wielotysięczną społeczność z całego świata.
 
@@ -23,7 +23,7 @@ Firma Mozilla nie nadaje użytkownikowi żadnych praw własności intelektualnej
 
 ## Użytkownik przyznaje firmie Mozilla pewne prawa i uprawnienia
 
-Użytkownik nadaje firmie Mozilla uprawnienia wymagane do obsługi przeglądarki Firefox. Obejmuje to przetwarzanie danych użytkownika w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice). Obejmuje to również niewyłączną, wolną od tantiem, ważną na całym świecie licencję na wykonywanie żądanych przez użytkownika czynności dotyczących zawartości wprowadzanej przez użytkownika do przeglądarki Firefox. Nie powoduje to nadania firmie Mozilla jakichkolwiek praw własności do takiej zawartości.
+Użytkownik nadaje firmie Mozilla uprawnienia wymagane do obsługi przeglądarki Firefox. Obejmuje to przetwarzanie danych użytkownika w sposób opisany w [Zasadach prywatności przeglądarki Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Opinie i sugestie użytkownika
 
