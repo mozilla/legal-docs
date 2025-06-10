@@ -128,7 +128,7 @@
   "firefox_cloud_services_tos.md": {
     "count": 12,
     "has_source": true,
-    "last_update": "2025-05-13",
+    "last_update": "2025-06-10",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_cloud_services_tos.md",
     "locales": [
       "de",
@@ -169,7 +169,7 @@
   "firefox_terms_of_use.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2025-02-28",
+    "last_update": "2025-06-10",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_terms_of_use.md",
     "locales": [
       "cs",
