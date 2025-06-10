@@ -1,7 +1,7 @@
 ﻿# Firefox felhasználási feltételek
 
-Hatályos: 2025. február 28-tól
-{: datetime="2025-02-28" }
+Hatályos: 2025. június 10-től
+{: datetime="2025-06-10" }
 
 A Firefox egy ingyenes és nyílt forráskódú webböngészőszoftver, amelyet a világ minden tájáról származó, több ezer felhasználóból álló közösség hozott létre.
 
@@ -23,7 +23,7 @@ A Mozilla nem biztosít Önnek olyan szellemi tulajdonjogot a Firefox esetében,
 
 ## Ön bizonyos jogokat és engedélyeket biztosít a Mozillának
 
-Ön megadja a Mozillának a Firefox működtetéséhez szükséges jogokat. Ez magában foglalja az adatainak a [Firefox adatvédelmi közleményében](https://www.mozilla.org/privacy/firefox/#notice) leírtak szerinti kezelését. Ez egy nem kizárólagos, jogdíjmentes, globális licencet is magában foglal, amelynek célja, hogy Ön a kérésének megfelelően használhassa a Firefoxba bevitt tartalmakat. Ezzel nem ad a Mozillának tulajdonjogot az adott tartalom esetében.
+Ön megadja a Mozillának a Firefox működtetéséhez szükséges jogokat. Ez magában foglalja az adatainak a [Firefox adatvédelmi közleményében](https://www.mozilla.org/privacy/firefox/#notice) leírtak szerinti kezelését.
 
 ### Az Ön visszajelzése és javaslatai
 

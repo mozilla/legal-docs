@@ -1,7 +1,7 @@
 ﻿# Ketentuan Penggunaan Firefox
 
-Berlaku 28 Februari 2025
-{: datetime="2025-02-28" }
+Berlaku 10 Juni 2025
+{: datetime="2025-06-10" }
 
 Firefox adalah perangkat lunak browser web sumber terbuka dan gratis, yang dibangun komunitas yang terdiri dari ribuan orang dari seluruh dunia.
 
@@ -23,7 +23,7 @@ Mozilla tidak memberi Anda hak kekayaan intelektual apa pun atas Firefox yang ti
 
 ## Anda Memberi Mozilla Beberapa Hak dan Izin tertentu
 
-Anda memberi Mozilla hak yang diperlukan untuk mengoperasikan Firefox. Hak ini termasuk memproses data Anda sebagaimana yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice). Ini juga termasuk lisensi non-eksklusif, bebas royalti, dan berlaku di seluruh dunia untuk tujuan melakukan apa yang Anda minta dengan konten yang Anda masukkan di Firefox. Ini tidak memberi Mozilla kepemilikan apa pun atas konten tersebut.
+Anda memberi Mozilla hak yang diperlukan untuk mengoperasikan Firefox. Hak ini termasuk memproses data Anda sebagaimana yang kami jelaskan dalam [Pemberitahuan Privasi Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Masukan dan Saran Anda
 
