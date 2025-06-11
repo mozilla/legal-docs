@@ -102,6 +102,7 @@ Yalnızca Hizmetleri size sağlama amacıyla Veri Aracısı Sitelerinde sizin ad
 * Belirtilen önlemleri sizin adınıza almak.
 
 Aşağıdakileri kabul etmektesiniz ve Mozilla’ya temin etmektesiniz:
+
 * Sağladığınız tüm bilgiler doğru ve gerçeğe uygun olacaktır;
 * Düzmece, yanlış yönlendirici veya doğru olmayan hiçbir bilgi kullanmayacaksınız veya sağlamayacaksınız; 
 * Herhangi bir kişiyi taklit etmeyecek, kimliğinizi veya herhangi bir kişiyle yakınlığınızı yanlış tanıtmayacaksınız;
@@ -149,4 +150,3 @@ Dikkatine: Mozilla - Yasal Bildirimler
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
-

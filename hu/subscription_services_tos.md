@@ -102,6 +102,7 @@ __A Monitor használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a 
 * A fent leírt műveletek elvégzéséhez az Ön nevében.
 
 Ön egyetért, és biztosítja a Mozillát arról, hogy:
+
 * Minden Ön által megadott információ pontos és valós;
 * Nem használ fel és nem ad meg csalárd, félrevezető vagy pontatlan információkat; 
 * Ön nem adja ki magát másnak, és nem adja meg hamisan a személyazonosságát vagy egy személyhez fűződő kapcsolatát;

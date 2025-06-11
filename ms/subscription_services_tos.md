@@ -102,6 +102,7 @@ Anda memberikan Mozilla, OneRep dan HIBP semua hak yang perlu untuk mengendali M
 * Untuk mengambil tindakan yang dinyatakan di atas bagi pihak anda.
 
 Anda setuju dan meyakinkan Mozilla bahawa:
+
 * Semua maklumat yang anda sediakan adalah tepat dan benar;
 * Anda tidak akan menggunakan atau menyediakan sebarang maklumat yang palsu, menipu atau tidak tepat; 
 * Anda tidak akan menyamar sebagai sesiapa atau menyalahgambarkan identiti anda atau gabungan anda dengan mana-mana orang;

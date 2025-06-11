@@ -102,6 +102,7 @@ __Monitor 使用方式。__ 如果您目前已付費訂閱 Mozilla Monitor，Moz
 * 代表您進行上述行動。
 
 您同意並向 Mozilla 保證：
+
 * 您提供的所有資訊均正確且真實內容；
 * 您不會使用或提供任何詐騙、誤導或有誤的資訊； 
 * 您不會假冒任何人士，也不會偽裝身分，或假稱和任何人士之間的關係；
@@ -149,4 +150,3 @@ Mozilla Corporation
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
-

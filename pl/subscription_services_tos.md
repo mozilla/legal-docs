@@ -102,6 +102,7 @@ Użytkownik udziela Mozilli, OneRep i HIBP wszelkich praw niezbędnych do świad
 * podejmowania działań opisanych powyżej w imieniu użytkownika.
 
 Użytkownik akceptuje i zapewnia firmę Mozilla, że:
+
 * wszystkie podane przez użytkownika informacje będą dokładne i zgodne z prawdą;
 * użytkownik nie będzie używał ani podawał oszukańczych, wprowadzających w błąd lub niedokładnych informacji; 
 * użytkownik nie będzie podszywał się pod żadną osobę ani fałszywie przedstawiał swojej tożsamości lub powiązań z jakąkolwiek osobą;
