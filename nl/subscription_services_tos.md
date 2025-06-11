@@ -102,6 +102,7 @@ U geeft Mozilla, OneRep en HIBP alle benodigde rechten voor het verzorgen van Mo
 * De hiervoor beschreven acties namens u uit te voeren.
 
 U stemt ermee in en garandeert Mozilla dat:
+
 * Alle informatie die u hebt verstrekt, nauwkeurig en waarheidsgetrouw is;
 * U geen frauduleuze, misleidende of onnauwkeurige informatie zult gebruiken of verstrekken; 
 * U zich niet zult voordoen als iemand anders en dat u geen andere voorstelling van zaken zult gegeven over uw identiteit of uw band met welke persoon dan ook;

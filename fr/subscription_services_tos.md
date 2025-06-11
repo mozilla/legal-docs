@@ -102,6 +102,7 @@ Vous accordez à Mozilla, OneRep et HIBP tous droits nécessaires pour exploiter
 * Effectuer les actions décrites ci-dessus en votre nom.
 
 Vous acceptez et assurez Mozilla de ce qui suit :
+
 * Toutes les informations que vous avez fournies sont exactes et sincères.
 * Vous n’utiliserez ni ne fournirez d’informations frauduleuses, trompeuses ou inexactes. 
 * Vous ne vous ferez pas passer pour une autre personne ni ne déformerez votre identité ou votre relation avec une personne.

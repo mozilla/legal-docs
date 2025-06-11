@@ -102,6 +102,7 @@ Você concede à Mozilla, OneRep e HIBP todos os direitos necessários para oper
 * Tomar as medidas descritas acima em seu nome.
 
 Você concorda e confirma à Mozilla que:
+
 * Todas as informações fornecidas por você sejam precisas e verdadeiras.
 * Não usará ou fornecerá informações fraudulentas, incorretas ou imprecisas. 
 * Não assumirá a identidade de outras pessoas ou deturpará sua identidade ou seu vínculo com qualquer pessoa.
@@ -149,4 +150,3 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94105  
 
 legal-notices@mozilla.com
-

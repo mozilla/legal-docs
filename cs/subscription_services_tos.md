@@ -102,6 +102,7 @@ Společnostem Mozilla, OneRep a HIBP poskytujete veškerá práva nezbytná pro 
 * k podniknutí kroků popsaných výše vaším jménem.
 
 Souhlasíte a ujišťujete společnost Mozilla, že:
+
 * veškeré vámi poskytnuté informace jsou přesné a pravdivé,
 * nebudete používat ani poskytovat žádné podvodné, zavádějící nebo nepřesné informace; 
 * nebudete vystupovat jako jakákoliv jiná osoba ani nebudete chybně interpretovat vaši identitu nebo vaše spojení s jakoukoliv osobou;

@@ -102,6 +102,7 @@ Bạn cấp cho Mozilla, OneRep và HIBP mọi quyền cần thiết để vận
 * Thay mặt cho bạn thực hiện các thao tác được mô tả ở trên.
 
 Bạn chấp thuận và đảm bảo với Mozilla rằng:
+
 * Tất cả các thông tin bạn cung cấp là chính xác và trung thực;
 * Bạn sẽ không sử dụng hoặc cung cấp bất kỳ thông tin giả mạo, sai lệch hoặc không chính xác nào; 
 * Bạn không mạo danh bất kỳ ai hoặc thể hiện sai lệch danh tính hoặc mối quan hệ của bạn với bất kỳ ai;
@@ -149,4 +150,3 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94105  
 
 legal-notices@mozilla.comlegal-notices@mozilla.com
-

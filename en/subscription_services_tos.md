@@ -102,6 +102,7 @@ You give Mozilla, OneRep, and HIBP all rights necessary to operate Mozilla Monit
 * To take the actions described above on your behalf.
 
 You agree and assure Mozilla that:
+
 * All information you provided will be accurate and truthful;
 * You will not use or provide any fraudulent, misleading or inaccurate information; 
 * You will not impersonate any person nor misrepresent your identity or your affiliation with any person;
