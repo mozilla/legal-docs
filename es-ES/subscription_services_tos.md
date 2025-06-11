@@ -102,6 +102,7 @@ Usted le concede a Mozilla, OneRep y HIBP todos los derechos necesarios para ofr
 * Realizar las acciones anteriormente descritas en su nombre.
 
 Usted acepta y asegura a Mozilla que:
+
 * Todas las informaciones que usted proporcionará serán exactas y verdaderas;
 * Usted no usará ni proporcionará informaciones fraudulentas, engañosas o inexactas; 
 * Usted no suplantará a otras personas ni tergiversará su identidad o su afiliación con otras personas;

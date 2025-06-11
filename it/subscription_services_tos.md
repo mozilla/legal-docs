@@ -102,6 +102,7 @@ Concedi a Mozilla, OneRep e HIBP tutti i diritti necessari per gestire Mozilla M
 * Intraprendere le azioni sopra descritte a tuo nome.
 
 Accetti e garantisci a Mozilla che:
+
 * Tutte le informazioni fornite saranno accurate e veritiere;
 * Non utilizzerai o fornirai informazioni fraudolente, fuorvianti o imprecise; 
 * Non impersonerai nessuno né falsificherai la tua identità o la tua affiliazione nei confronti di qualcuno;

@@ -102,6 +102,7 @@ Sie erteilen Mozilla, OneRep und HIBP alle für den Betrieb von Mozilla Monitor 
 * Das Recht, die oben beschriebenen Aktionen in Ihrem Namen auszuführen.
 
 Sie erklären sich mit Folgendem einverstanden und versichern Mozilla, dass:
+
 * Alle Informationen, die Sie bereitstellen, genau und wahrheitsgetreu sind;
 * Sie keine betrügerischen, irreführenden oder falschen Informationen bereitstellen; 
 * Sie sich nicht als eine andere Person ausgeben oder Ihre Identität oder Ihre Zugehörigkeit zu einer Person nicht falsch darstellen;

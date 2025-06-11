@@ -102,6 +102,7 @@ Oferiți Mozilla, OneRep și HIBP toate drepturile necesare pentru a opera Mozil
 * Întreprinde acțiunile descrise mai sus în numele dumneavoastră.
 
 Sunteți de acord și garantați Mozilla că:
+
 * Toate informațiile pe care le-ați furnizat vor fi corecte și conforme cu realitatea;
 * Nu veți utiliza sau furniza informații frauduloase, înșelătoare sau inexacte; 
 * Nu vă veți asuma o identitate falsă și nu veți furniza informații false despre identitatea dumneavoastră sau despre afilierea dumneavoastră cu orice altă persoană;
