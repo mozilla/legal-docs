@@ -1,7 +1,7 @@
 # Servicebedingungen für Mozilla-Konten
 
-Zuletzt aktualisiert am Dienstag, 13. Mai 2025
-{: datetime="2025-05-13" }
+Zuletzt aktualisiert am Dienstag, 10. Juni 2025
+{: datetime="2025-06-10" }
 
 ## Zusammenfassung
 
@@ -42,7 +42,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
 4. #### Datenschutzerklärung
 
-    Wir verwenden die über die Services erhaltenen Daten wie in der [Mozilla-Datenschutzerklärung](https://www.mozilla.org/privacy/) beschrieben. Unsere Datenschutzhinweise beschreiben ausführlicher, welche Daten wir von jedem Service erhalten:
+    Wir verwenden die über die Services erhaltenen Daten wie im [Datenschutzhinweis für Mozilla-Konten](https://www.mozilla.org/privacy/mozilla-accounts/) beschrieben. Unsere Datenschutzhinweise beschreiben ausführlicher, welche Daten wir von jedem Service erhalten:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

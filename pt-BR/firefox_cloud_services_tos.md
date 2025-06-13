@@ -1,7 +1,7 @@
 # Termos de serviço das contas da Mozilla
 
-Última atualização em terça-feira, 13 de maio de 2025
-{: datetime="2025-05-13" }
+Última atualização em terça-feira, 10 de junho de 2025
+{: datetime="2025-06-10" }
 
 ## Resumo
 
@@ -42,7 +42,7 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
 
 4. #### Política de privacidade
 
-    Utilizamos as informações recebidas pelos Serviços conforme descrito em nossa [Política de privacidade da Mozilla](https://www.mozilla.org/privacy/). Nossos Avisos de privacidade descrevem os dados que recebemos de cada serviço em mais detalhes:
+    Utilizamos as informações recebidas pelos Serviços conforme descrito em nosso [Aviso de Privacidade das Contas da Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nossos Avisos de privacidade descrevem os dados que recebemos de cada serviço em mais detalhes:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

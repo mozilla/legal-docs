@@ -1,7 +1,7 @@
 # Ketentuan Layanan Akun Mozilla
 
-Terakhir Diperbarui 13 Mei 2025
-{: datetime="2025-05-13" }
+Terakhir Diperbarui 10 Juni 2025
+{: datetime="2025-06-10" }
 
 ## Rangkuman
 
@@ -42,7 +42,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
 4. #### Kebijakan Privasi
 
-    Kami menggunakan informasi yang diterima melalui Layanan seperti yang dijelaskan di [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami. Pemberitahuan Privasi kami menjelaskan data yang kami terima dari setiap layanan secara lebih rinci:
+    Kami menggunakan informasi yang diterima melalui Layanan seperti yang dijelaskan di [Pemberitahuan Privasi Akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/) kami. Pemberitahuan Privasi kami menjelaskan data yang kami terima dari setiap layanan secara lebih rinci:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

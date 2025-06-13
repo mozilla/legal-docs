@@ -1,7 +1,7 @@
 # Mozilla アカウントサービス規約
 
-最終更新　2025 年 5 月 13 日
-{: datetime="2025-05-13" }
+最終更新　2025 年 6 月 10 日
+{: datetime="2025-06-10" }
 
 ## 概要
 
@@ -42,7 +42,7 @@
 
 4. #### プライバシーポリシー
 
-    Mozilla は、本サービスを通じて受信する情報を、[Mozilla プライバシーポリシー](https://www.mozilla.org/privacy/)の記載に従って利用します。弊社のプライバシーポリシーには、弊社が以下の各サービスから受け取るデータについての詳細が記載されています。
+    Mozilla は、本サービスを通じて受信する情報を、[Mozilla アカウントのプライバシーに関する通知](https://www.mozilla.org/privacy/mozilla-accounts/)の記載に従って利用します。弊社のプライバシーポリシーには、弊社が以下の各サービスから受け取るデータについての詳細が記載されています。
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/)
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
