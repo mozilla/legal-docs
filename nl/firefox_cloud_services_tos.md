@@ -1,7 +1,7 @@
 # Servicevoorwaarden van de Mozilla-accounts
 
-Laatst bij gewerkt op dinsdag 13 mei 2025
-{: datetime="2025-05-13" }
+Laatst bij gewerkt op dinsdag 10 juni 2025
+{: datetime="2025-06-10" }
 
 ## Overzicht
 
@@ -42,7 +42,7 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
 
 4. #### Privacybeleid
 
-    We gebruiken de informatie die we ontvangen via de Services op de wijze die is beschreven in ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/). Onze Privacykennisgevingen beschrijven op een uitgebreidere wijze de gegevens die we via de afzonderlijke services ontvangen:
+    We gebruiken de informatie die we ontvangen via de Services op de wijze die is beschreven in de [Privacyverklaring voor Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/). Onze Privacykennisgevingen beschrijven op een uitgebreidere wijze de gegevens die we via de afzonderlijke services ontvangen:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

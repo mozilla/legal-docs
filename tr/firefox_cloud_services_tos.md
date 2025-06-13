@@ -1,7 +1,7 @@
 # Mozilla Hesapları Hizmet Koşulları
 
-Son Güncelleme: 13 Mayıs 2025 Salı
-{: datetime="2025-05-13" }
+Son Güncelleme: 10 Haziran 2025 Salı
+{: datetime="2025-06-10" }
 
 ## Özet
 
@@ -42,7 +42,7 @@ Son Güncelleme: 13 Mayıs 2025 Salı
 
 4. #### Gizlilik Politikası
 
-    Hizmetler aracılığıyla aldığımız bilgileri [Mozilla Gizlilik Politikamızda](https://www.mozilla.org/privacy/) açıklandığı şekilde kullanırız. Gizlilik Bildirimlerimiz, her bir hizmetten aldığımız verileri daha ayrıntılı olarak açıklar:
+    Hizmetler aracılığıyla aldığımız bilgileri [Mozilla Hesapları Gizlilik Bildirimi](https://www.mozilla.org/privacy/mozilla-accounts/) açıklandığı şekilde kullanırız. Gizlilik Bildirimlerimiz, her bir hizmetten aldığımız verileri daha ayrıntılı olarak açıklar:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

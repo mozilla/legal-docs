@@ -1,7 +1,7 @@
 # Condiciones del servicio de las cuentas de Mozilla
 
-Última actualización: martes, 13 de mayo de 2025
-{: datetime="2025-05-13" }
+Última actualización: martes, 10 de junio de 2025
+{: datetime="2025-06-10" }
 
 ## Resumen
 
@@ -42,7 +42,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 4. #### Política de privacidad
 
-    Utilizamos la información que recibimos a través de los Servicios del modo descrito en la [Política de privacidad de Mozilla](https://www.mozilla.org/privacy/). Nuestros Avisos de privacidad especifican de forna detallada la información que recibimos de estos servicios:
+    Utilizamos la información que recibimos a través de los Servicios del modo descrito en nuestro [Aviso de privacidad de cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nuestros Avisos de privacidad especifican de forna detallada la información que recibimos de estos servicios:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
