@@ -1,7 +1,7 @@
 # Comptes Mozilla - Conditions d’utilisation
 
-Dernière mise à jour : 13 mai 2025
-{: datetime="2025-05-13" }
+Dernière mise à jour le 10 juin 2025
+{: datetime="2025-06-10" }
 
 ## Résumé
 
@@ -42,7 +42,7 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
 
 4. #### Politique de confidentialité
 
-    Les informations que nous recevons via les Services sont utilisées conformément à la [Politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/). Nos avis de confidentialité offrent une description plus détaillée des données que nous recevons de chaque service :
+    Les informations que nous recevons via les Services sont utilisées conformément à la [Politique de confidentialité relative aux comptes Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nos avis de confidentialité offrent une description plus détaillée des données que nous recevons de chaque service :
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)

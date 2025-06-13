@@ -1,7 +1,7 @@
 # Warunki korzystania z kont Mozilla
 
-Ostatnia aktualizacja: 13 maja 2025
-{: datetime="2025-05-13" }
+Ostatnia aktualizacja: 10 czerwca 2025
+{: datetime="2025-06-10" }
 
 ## Streszczenie
 
@@ -42,7 +42,7 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 4. #### Zasady prywatności
 
-    Z informacji otrzymanych za pośrednictwem Usług korzystamy zgodnie z postanowieniami dokumentu [Polityka prywatności Mozilla](https://www.mozilla.org/privacy/). Nasze zasady prywatności określają bardziej szczegółowo dane, które otrzymujemy z każdej usługi:
+    Wykorzystujemy informacje otrzymane za pośrednictwem Usług zgodnie z postanowieniami dokumentu [Zasady prywatności dotyczącymi kont Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nasze zasady prywatności określają bardziej szczegółowo dane, które otrzymujemy z każdej usługi:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
