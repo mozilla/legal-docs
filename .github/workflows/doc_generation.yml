@@ -25,7 +25,7 @@ jobs:
           sudo apt install -y git libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 fonts-wqy-microhei
 
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python 3
         uses: actions/setup-python@v5
