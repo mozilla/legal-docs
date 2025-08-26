@@ -3,5 +3,42 @@
     "links": {
         "zh-CN/firefox_privacy_notice.md": [
             "+https://support.mozilla.org/kb/scan-qr-codes-firefox-android"
-        ]}
+        ],
+        "de/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "es-ES/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "fr/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "it/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "ja/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "ko/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "nl/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "pl/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "pt-BR/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "ru/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "zh-CN/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ],
+        "zh-TW/pocket_privacy_policy.md": [
+            "+https://freestar.com/privacy-policy/"
+        ]
+    }
 }
