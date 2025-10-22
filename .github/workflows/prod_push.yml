@@ -28,6 +28,8 @@ jobs:
           git config --global user.email 'mozilla-pontoon@users.noreply.github.com'
           git config --global user.name 'L10n Bot'
       - name: Update files in repository
+        env:
+          FILES: ${{ github.event.inputs.files }}
         run: |
           cd clone
           git fetch origin '+refs/heads/*:refs/heads/*' --update-head-ok
@@ -37,13 +39,13 @@ jobs:
           mkdir "$SUPPORT_DIR"
 
           # Copy files, excluding scripts and workflows
-          python .github/scripts/copy_files.py "${{ github.event.inputs.files }}" "$SUPPORT_DIR"
+          python .github/scripts/copy_files.py "$FILES" "$SUPPORT_DIR"
 
           git reset --hard origin/prod
           git checkout -B prod_updates
 
           # Restore files from the default branch
-          if [[ "${{ github.event.inputs.files }}" = "ALL" ]];
+          if [[ "$FILES" = "ALL" ]];
           then
             # Also remove files, ignore hidden folders, Markdown files in the root
             rsync -aIv --exclude={".git",".github",".gitignore",".vscode","/*.md","package.json","en/archive"} "${SUPPORT_DIR}/" ./ --delete
