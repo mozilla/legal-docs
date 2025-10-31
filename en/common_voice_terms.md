@@ -1,6 +1,6 @@
 # Common Voice Legal Terms 
 
-Effective November 4, 2025 {: datetime="2025-11-04" }
+Effective October 31, 2025 {: datetime="2025-10-31" }
 
 As of the “Last Updated” date above, the information and datasets we make available through Common Voice will now be accessible through Mozilla Data Collective (“MDC”). 
 
