@@ -6,7 +6,7 @@ As of the “Last Updated” date above, the information and datasets we make av
 
 Through Common Voice, you can donate your voice, written sentences, and the other resources we need to build an open-source voice database that anyone can use to make innovative voice recognition apps for devices and the web.
 
-You may only participate in Common Voice if you agree to these Common Voice Legal Terms (the “Terms”). Your use of Mozilla Common Voice is governed by these Terms and [Common Voice Privacy Notice](https://commonvoice.mozilla.org/en/privacy).
+You may only participate in Common Voice if you agree to these Common Voice Legal Terms (the “Terms”). Your use of Mozilla Common Voice is governed by these Terms and [Common Voice Privacy Notice](https://commonvoice.mozilla.org/privacy).
 
 ## 1. Eligibility
 
