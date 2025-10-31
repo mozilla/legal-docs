@@ -1,6 +1,6 @@
 # Common Voice Privacy Notice 
 
-Effective October 31, 2025 {: datetime="2025-10-31" }
+Effective November 4, 2025 {: datetime="2025-11-04" }
 
 ## Privacy
 
