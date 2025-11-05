@@ -1,10 +1,14 @@
 # Common Voice 隐私声明 
 
-2024 年 11 月 4 日生效 {: datetime="2024-11-04" }
+2025 年 10 月 31 日生效 {: datetime="2025-10-31" }
 
 ## 隐私
 
 Mozilla（即我们）收到您的信息时，[Mozilla 隐私政策](https://www.mozilla.org/privacy)描述了我们如何处理此类信息。
+
+自本通知生效之日起，我们通过 Common Voice 提供的信息现在可通过 Mozilla 数据集合平台（以下简写为“MDC”）进行访问。请查阅 MDC 的[隐私政策](https://datacollective.mozillafoundation.org/privacy)以了解关于该集合平台的更多信息。 
+
+此外，针对 Common Voice，我们还会处理以下信息：
 
 * **个人信息数据。** 您可以选择向我们发送您的口音、年龄和性别等信息。这有助于我们和其他研究人员改进和创建语音转文本技术和工具。
 
@@ -22,5 +26,8 @@ Mozilla（即我们）收到您的信息时，[Mozilla 隐私政策](https://www
 
 * **技术数据。** 我们使用 Google Analytics 更好地了解您与 Common Voice 应用或网站的交互方式。例如，我们可能使用 Cookie 来跟踪已除去识别信息的数据，例如您录制或收听的语音样本数量、与按钮和菜单的交互以及会话长度。我们还会收集您访问的 Common Voice 页面的 URL 和标题。为了不断改善 Common Voice 体验，我们收集有关浏览器类型和版本、网页可视区域大小和屏幕分辨率的信息。这使我们能够理解人们如何与 Common Voice 交互，以便我们对其加以改进。我们还会收集您的位置以及您的浏览器的语言设置，以确保您看到合适的内容。如果您选择不加入 Google Analytics 数据收集，则可以安装 [Google Analytics 停用浏览器插件](https://tools.google.com/dlpage/gaoptout)，该插件将阻止向 Google Analytics 传输数据。 
 
+我们可能会向关联方披露 Common Voice 数据库，包括 Mozilla Foundation 当前或未来的母公司、子公司、关联公司及其他受共同控制或所有权约束的组织。
+
 [了解更多](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
+
 

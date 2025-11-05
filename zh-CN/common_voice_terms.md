@@ -1,10 +1,12 @@
 # Common Voice 法律条款 
 
-2024 年 11 月 4 日生效 {: datetime="2024-11-04" }
+2025 年 10 月 31 日生效 {: datetime="2025-10-31" }
 
-通过 Common Voice，您可以提供您的语音、书面句子以及我们构建开源语音数据库所需的其他资源，任何人都可以使用该数据库为设备和网络制作创新的语音识别应用程序。
+自上述“最后更新”日期起，我们通过 Common Voice 提供的信息和数据库现在可通过 Mozilla 数据集合平台（以下简写为“MDC”）进行访问。 
 
 只有在您同意这些 Common Voice 法律条款（以下简称“条款”）的前提下才能参与 Common Voice 项目。 
+
+只有在您同意这些 Common Voice 法律条款（以下简称“条款”）的前提下才能参与 Common Voice 项目。您对 Mozilla Common Voice 的使用受本条款和 [Common Voice 隐私声明](https://commonvoice.mozilla.org/privacy)的约束。
 
 ## 1.资格条件
 
@@ -27,6 +29,8 @@ Common Voice 是 Mozilla 社区的组成部分。因此，如果您选择参与�
 如果您无法做出这些保证，则无法参与 Common Voice 项目。 
 
 此外，如果您参与 Common Voices 自发语音项目，即表示您同意不在您提交的录音中包含有关您自己和他人的任何敏感信息或私人信息。 
+
+最后，除非另有说明，Mozilla 仅通过 MDC 向公众提供遵循 Creative Common Zero (CC0) 许可协议的 Common Voice 数据集。根据我们的数据管理原则，我们要求您不得在其他平台或服务上发布、分发或镜像任何 Common Voice 数据集（无论全部或部分），且他人仅能通过 MDC 访问这些数据。
 
 ## 3.您的帐户
 
@@ -77,3 +81,4 @@ Mozilla 可以出于任何原因随时暂停或终止任何人对 Common Voice �
 ## 9.适用法律
 
 这些条款受美国加州法律的管辖。这些条款是您与 Mozilla 之间关于 Common Voice 的完整协议。 
+
