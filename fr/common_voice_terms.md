@@ -1,10 +1,12 @@
 # Conditions d’utilisation de Common Voice 
 
-Date d'effet : lundi 4 novembre 2024 {: datetime="2024-11-04" }
+Date d'effet : vendredi 31 octobre 2025 {: datetime="2025-10-31" }
 
-Grâce à Common Voice, vous pouvez donner un peu de votre voix, proposer des phrases écrites et d’autres ressources dont nous avons besoin pour créer une base de données vocales libre, utilisable par n’importe qui pour créer des applications de reconnaissance vocale sur différents appareils et sur le Web.
+À compter de la date de « dernière mise à jour » indiquée ci-dessus, les informations et les ensembles de données que nous mettons à disposition via Common Voice seront désormais accessibles via Mozilla Data Collective (« MDC »). 
 
 Vous ne pourrez participer au projet Common Voice que si vous acceptez les présentes conditions juridiques Common Voice (« Conditions »). 
+
+Vous ne pourrez participer au projet Common Voice que si vous acceptez les présentes conditions juridiques Common Voice (« Conditions »). Votre utilisation de Mozilla Common Voice est régie par les présentes Conditions d'utilisation et la [Politique de confidentialité de Common Voice](https://commonvoice.mozilla.org/privacy).
 
 ## 1. Éligibilité
 
@@ -27,6 +29,8 @@ Troisièmement, que vos contributions soient conformes à la [Politique d'utilis
 Si vous ne pouvez pas garantir ces deux points, vous ne pouvez pas participer à Common Voice. 
 
 De plus, si vous participez au projet Common Voices Spontaneous Speech, vous acceptez de ne pas inclure dans les enregistrements que vous soumettez des données sensibles ou personnelles vous concernant ou concernant des tiers. 
+
+Enfin, Mozilla met les ensembles de données Common Voice à la disposition du grand public exclusivement par l'intermédiaire de MDC sous une licence Creative Common Zero (CC0), sauf indication contraire. Conformément à nos principes de gestion des données, nous vous demandons de ne pas publier, distribuer ou reproduire tout ou partie des ensembles de données Common Voice sur d'autres plateformes ou services, et de ne permettre l'accès à ces données à des tiers que par l'intermédiaire du MDC.
 
 ## 3. Votre compte
 

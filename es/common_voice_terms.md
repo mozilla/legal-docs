@@ -1,10 +1,12 @@
 # Términos legales de Common Voice
 
-En vigor desde el lunes, 4 de noviembre de 2024 {: datetime="2024-11-04" }
+Vigente desde el viernes, 31 de octubre de 2025 {: datetime="2025-10-31" }
 
-Colabore con nosotros a través de Common Voice donando su voz, frases escritas y otros recursos para construir una base de datos de voz de código abierto disponible para cualquier persona que desee crear aplicaciones innovadoras de reconocimiento de voz para dispositivos y la web.
+A partir de la fecha de la "Última actualización" acá arriba, la información y los conjuntos de datos que ponemos a disposición a través de Common Voice ahora serán accesibles a través de Mozilla Data Collective ("MDC"). 
 
 Solo puedes participar en Common Voice si aceptas estos Términos Legales de Common Voice (los "Términos"). 
+
+Usted solo puede participar en Common Voice si acepta estos Términos Legales de Common Voice (los "Términos"). Su uso de Mozilla Common Voice se rige por estos Términos y el [Aviso de privacidad de Common Voice](https://commonvoice.mozilla.org/privacy).
 
 ## 1. Eligibilidad
 
@@ -27,6 +29,8 @@ Tercero, tus contribuciones deben cumplir con la [Política de uso aceptable](ht
 Si usted no puede cumplir estos requisitos, no puede participar en Common Voice. 
 
 Además, si participas en el proyecto Common Voice Spontaneous Speech, aceptas no incluir ningún dato confidencial o personal sobre ti y otros en las grabaciones que envíes. 
+
+Por último, Mozilla pone los conjuntos de datos de Common Voice a disposición del público en general exclusivamente a través de MDC bajo una licencia Creative Common Zero (CC0), a menos que se especifique lo contrario. De acuerdo con nuestros principios de administración de datos, le pedimos que no publique, distribuya ni reproduzca ningún conjunto de datos de Common Voice, en su totalidad o en parte, en otras plataformas o servicios, y que el acceso de terceros se realice únicamente a través de MDC.
 
 ## 3. Su cuenta
 
