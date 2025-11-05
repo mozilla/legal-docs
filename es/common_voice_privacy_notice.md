@@ -1,10 +1,14 @@
 # Aviso de privacidad de Common Voice 
 
-En vigor desde el lunes, 4 de noviembre de 2024 {: datetime="2024-11-04" }
+Vigente desde el viernes, 31 de octubre de 2025 {: datetime="2025-10-31" }
 
 ## Privacidad
 
 Nuestra [Política de Privacidad de Mozilla](https://www.mozilla.org/privacy) describe cómo usamos la información que nos envía.
+
+A partir de la fecha de entrada en vigor de este Aviso, la información que ponemos a disposición a través de Common Voice será accesible a través del Mozilla Data Collective («MDC»). Visite la [Política de privacidad](https://datacollective.mozillafoundation.org/privacy) de MDC para obtener más información sobre el Colectivo. 
+
+Además, específicamente para Common Voice, también procesamos la siguiente información:
 
 * **Datos demográficos.** Puede optar por enviarnos información sobre usted, como su acento, edad y género. Esta información nos ayuda a nosotros y a otros investigadores a mejorar y crear tecnología y herramientas para convertir voz en texto.
 
@@ -21,6 +25,8 @@ Nuestra [Política de Privacidad de Mozilla](https://www.mozilla.org/privacy) de
 * **Datos de interacción.** Usamos Google Analytics para entender mejor cómo interactúa con la aplicación y el sitio web de Common Voice. Por ejemplo, podemos usar cookies para rastrear información desidentificada como la cantidad de muestras de voz que usted graba o escucha, las interacciones con botones y menús y la duración de las sesiones.
 
 * **Datos técnicos.** Usamos Google Analytics para entender mejor cómo interactúa con la aplicación y el sitio web de Common Voice. Por ejemplo, podemos usar cookies para rastrear información desidentificada como la cantidad de muestras de voz que usted graba o escucha, las interacciones con botones y menús y la duración de las sesiones. Además recopilamos la URL el título de las páginas de Common Voice que visita. Con el fin de seguir mejorando la experiencia de Common Voice, recogemos información sobre el tipo y la versión del navegador que usa, el tamaño de la ventana de visualización y la resolución de la pantalla. Esto nos permite entender cómo las personas interactúan con Common Voice para poder mejorarlo. También recopilamos su ubicación y la configuración de idioma del navegador para que se adapte a sus necesidades. Si prefiere no participar en la recopilación de datos de Google Analytics, puede instalar el [Complemento de inhabilitación para navegadores de Google Analytics](https://tools.google.com/dlpage/gaoptout), que detiene la transmisión de datos a Google Analytics. 
+
+Podemos divulgar las bases de datos de Common Voice con afiliados, incluidas las actuales o futuras empresas matrices, subsidiarias, afiliadas y otras organizaciones bajo control común o propiedad de Mozilla Foundation.
 
 [Más información](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
