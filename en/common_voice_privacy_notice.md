@@ -1,10 +1,14 @@
 # Common Voice Privacy Notice 
 
-Effective November 4, 2024 {: datetime="2024-11-04" }
+Effective October 31, 2025 {: datetime="2025-10-31" }
 
 ## Privacy
 
 When Mozilla (that’s us), receives information from you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy) describes how we handle that information.
+
+As of the Effective Date of this Notice, the information we make available through Common Voice will now be accessible through the Mozilla Data Collective (“MDC”). Please visit MDC’s [Privacy Policy](https://datacollective.mozillafoundation.org/privacy) to learn more about the Collective. 
+
+In addition, specific to Common Voice, we also process the following information:
 
 * **Demographic data.** You can optionally send us information such as your accent, age, and gender. This helps us and other researchers improve and create speech-to-text technology and tools.
 
@@ -20,7 +24,9 @@ When Mozilla (that’s us), receives information from you, our [Mozilla Privacy 
 
 * **Interaction data.** We use Google Analytics to better understand how you interact with the Common Voice app or website. For example, we may use cookies to track de-identified information such as the number of voice samples you record or listen to, interactions with buttons and menus, and session length.
 
-* **Technical data.** We use Google Analytics to better understand how you interact with the Common Voice app or website. For example, we may use cookies to track de-identified information such as the number of voice samples you record or listen to, interactions with buttons and menus, and session length. We also collect the URL and title of the Common Voice pages you visit. To consistently improve the Common Voice experience, we collect information about browser type and version, viewport size, and screen resolution. This allows us to understand how people interact with Common Voice so we can improve it. We also collect your location, and the language setting in your browser to make sure it looks right for you. If you’d prefer to opt out of Google Analytics data collection, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which stops data transmission to Google Analytics. 
+* **Technical data.** We use Google Analytics to better understand how you interact with the Common Voice app or website. For example, we may use cookies to track de-identified information such as the number of voice samples you record or listen to, interactions with buttons and menus, and session length. We also collect the URL and title of the Common Voice pages you visit. To consistently improve the Common Voice experience, we collect information about browser type and version, viewport size, and screen resolution. This allows us to understand how people interact with Common Voice so we can improve it. We also collect your location, and the language setting in your browser to make sure it looks right for you. If you’d prefer to opt out of Google Analytics data collection, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which stops data transmission to Google Analytics.
+
+We may disclose the Common Voice databases with affiliates, including current or future parents, subsidiaries, affiliates, and other organizations under common control or ownership with Mozilla Foundation.
 
 [Learn more](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
