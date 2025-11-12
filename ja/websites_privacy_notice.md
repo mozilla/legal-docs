@@ -1,7 +1,7 @@
 # ウェブサイト、コミュニケーションおよび Cookie プライバシーに関する通知
 
-2024年4月3日
-{: datetime="2024-04-03" }
+2025年11月5日
+{: datetime="2025-11-05" }
 
 Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプライバシーポリシー](https://www.mozilla.org/privacy/) は、Mozilla (当社) が皆様の情報を収集した場合に、その情報をどのように取り扱うかについて、説明しています。
 
@@ -20,7 +20,7 @@ Mozilla は、皆様のプライバシーを尊重します。[Mozilla のプラ
 
 * **ユーザフィードバック**:皆様は、[connect.mozilla.org](https://connect.mozilla.org/) などのウェブページにおいて、製品内での体験を通じて、電子メール、Bugzilla、Matrix、ソーシャルメディアのアカウント、Mozilla の Get Involved ページなどのチャネルを通じて、または Student Ambassadors といったグループを通じて、Mozilla の製品およびサービスに対するフィードバックを Mozilla に提供することができます。皆様のコメントは一般公開される場合がありますので、これらのフォーラム上で共有する個人情報は最小限に抑えるようにしてください。
 
-* **アカウントおよびメール購読**:例えば [Firefox 向けアドオン](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/)、[MDN](https://developer.mozilla.org/) などの一部のウェブサイトでは、アカウントを作成する必要があります。Mozilla では、アカウント管理に [Mozilla アカウント](https://www.mozilla.org/privacy/mozilla-accounts/)、[Github](https://support.github.com/#our-use-of-cookies-and-tracking)、またはカスタムのシステムを利用します。Mozilla アカウントのデータを管理するには [詳細](https://support.mozilla.org/kb/managing-account-data) をご覧ください。皆様は、アカウントに関する電子メールやメールニュース購読を通じた電子メールを定期的に受信する場合があります。Mozilla が電子メール管理にあたって利用するベンダーは、[SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices)、または [Braze](https://www.braze.com/company/legal/privacy) です。皆様は、該当する電子メールの一番下にあるリンクを使用して購読を解除することができます。
+* **アカウントおよびメール購読**: 例えば [Firefox 向けアドオン](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/)、[MDN](https://developer.mozilla.org/) などの一部のウェブサイトでは、アカウントを作成する必要があります。Mozilla では、アカウント管理に [Mozilla アカウント](https://www.mozilla.org/privacy/mozilla-accounts/)、[Github](https://support.github.com/#our-use-of-cookies-and-tracking)、またはカスタムのシステムを利用します。Mozilla アカウントのデータを管理するには [詳細](https://support.mozilla.org/kb/managing-account-data) をご覧ください。皆様は、アカウントに関する電子メールやメールニュース購読を通じた電子メールを定期的に受信する場合があります。Mozilla が電子メール管理にあたって利用するベンダーは、[SalesForce](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices)、または [Braze](https://www.braze.com/company/legal/privacy) です。皆様は、該当する電子メールの一番下にあるリンクを使用して購読を解除することができます。 
 
 * **製品およびポリシーのキャンペーン**:Mozilla のウェブサイトでは、製品やポリシーのキャンペーンを行うことがあります。例えば、Firefox をモバイルデバイスにインストールしたり、国会議員にインターネットに関する件で請願したりするために、電子メールや SMS でリンクをリクエストすることができます。Mozilla はこれらのキャンペーンを管理し、皆様から提供頂いたデータを取り扱うために第三者を利用する場合があります。 
 {: #campaigns }
@@ -54,7 +54,7 @@ Mozilla は、機能性の向上、並びに Mozilla の製品、サービスお
 
 * **トラッキング拒否**:Mozilla が、皆様に向けた広告を表示する目的で第三者のウェブサイトでのユーザの行動を追跡することはありません。加えて、Mozilla ウェブサイトへのアクセス時に「トラッキング拒否」信号を送信するようにブラウザを設定してある場合、Mozilla は [メトリクス](https://www.mozilla.org/privacy/websites/#data-tools) の節に記載されているいかなるツールも利用しません。
 
-* **電子メール**:皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターまたは [Mozilla 電子メール設定](https://www.mozilla.org/newsletter/recovery/) を通じて、あるいは Thunderbird のニュースレターについては [Thunderbird のウェブサイト](https://www.thunderbird.net/newsletter/) で、受信を中止することができます。
+* **電子メール**:  皆様は、Mozilla の電子メールマーケティングを受信するかどうかを選択することができ、電子メールのフッターを通じて受信を中止することができます。[設定センター](https://www.mozilla.org/newsletter/recovery/) (Mozilla ニュースレター)、[購読解除ページ](https://www.mozillafoundation.org/newsletter/unsubscribe/) (Mozilla Foundation ニュースレター)、または [Thunderbird ウェブサイト](https://www.thunderbird.net/newsletter/) (Thunderbird ニュースレター) 経由でも受信を中止することができます。
 
 
 * **解析および最適化**:Mozilla ウェブサイトの閲覧情報を収集されたくない場合は、以下の手順に従ってください。
@@ -72,7 +72,7 @@ Mozilla のウェブサイトには、(アプリやギアなどの) 購入、特
 
 * **決済処理**:皆様が Mozilla のウェブサイトでの購入、資金提供、または寄付をされる場合には、第三者決済プロバイダであるStripe、Apple Pay、PayPal、Venmo または Google Pay のいずれかを通じて支払いを行います。Mozilla は、皆様のアカウントの記録 (請求先住所とお支払い方法の下4桁を含む) および (該当する場合) アカウントのサブスクリプションの状態を受信します。また、皆様の氏名、住所、もしくは電子メールアドレス、またはそれらすべてを受信することがあります。このデータは、決済処理、不正行為の検出、および記録保管の目的で使用されます。 
 
-* **連絡先および寄付の情報**:Mozilla は、電子メール受信と記録保管のために [Acoustic](https://acoustic.com/privacy-notice/)、[Salesforce](https://www.salesforce.com/company/privacy/)、[Fundraise Up](https://fundraiseup.com/privacy/)、および [Campaign Monitor](https://meetmarigold.com/privacy-notices/) を利用し、これらの情報は最後の支払日から10年間保持されます。皆様が Mozilla Foundation または Thunderbird に寄付される場合、Mozilla は寄付を管理し、寄付者に送金の領収書を提供するため、[Fundraise Up](https://fundraiseup.com/privacy/) を利用します。
+* **連絡先および寄付の情報**: Mozilla は、電子メール受信と記録保管のために [Braze](https://www.braze.com/company/legal/privacy)、[Salesforce](https://www.salesforce.com/company/privacy/)、[Fundraise Up](https://fundraiseup.com/privacy/)、および [Campaign Monitor](https://meetmarigold.com/privacy-notices/) を利用し、これらの情報は最後の支払日から10年間保持されます。皆様が Mozilla Foundation または Thunderbird に寄付される場合、Mozilla は寄付を管理し、寄付者に送金の領収書を提供するため、[Fundraise Up](https://fundraiseup.com/privacy/) を利用します。
 
 ---------------------------------------
 
