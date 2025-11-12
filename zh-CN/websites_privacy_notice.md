@@ -1,7 +1,7 @@
 # 网站、通信和 Cookie 隐私声明
 
-2024 年 4 月 3 日
-{: datetime="2024-04-03" }
+2025 年 11 月 5 日
+{: datetime="2025-11-05" }
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
@@ -20,7 +20,7 @@
 
 * **用户反馈**：您可以通过网页（如 [connect.mozilla.org](https://connect.mozilla.org/)）、通过产品内体验，或通过电子邮件、Bugzilla、Matrix、社交媒体帐户、我们的 Get Involved 页面或通过“学生大使”等组织之类的渠道，提供有关我们产品和服务的反馈。请尽量减少您选择在这些论坛上分享的个人信息，因为您的评论可能会向公众开放。
 
-* **账户与订阅**：有些网站，例如 [Firefox 的 Add-Ons ](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/) 和 [MDN](https://developer.mozilla.org/)，需要创建帐户。我们使用 [Mozilla 帐户](https://www.mozilla.org/privacy/mozilla-accounts/)、[GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) 或自定义系统进行帐户管理；[了解](https://support.mozilla.org/kb/managing-account-data)有关如何管理 Mozilla 帐户数据的更多信息。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices)或 [Braze](https://www.braze.com/company/legal/privacy)，您可以使用相关电子邮件底部的链接取消订阅。
+* **账户与订阅**：有些网站，例如 [Firefox 的 Add-Ons ](https://addons.mozilla.org/firefox/)、[Relay](https://relay.firefox.com/)、[Monitor](https://monitor.firefox.com/) 和 [MDN](https://developer.mozilla.org/)，需要创建帐户。我们使用 [Mozilla 帐户](https://www.mozilla.org/privacy/mozilla-accounts/)、[GitHub](https://support.github.com/#our-use-of-cookies-and-tracking) 或自定义系统进行帐户管理；[了解](https://support.mozilla.org/kb/managing-account-data)有关如何管理 Mozilla 帐户数据的更多信息。您可能会定期收到与您的账户或订阅相关的电子邮件。我们的电子邮件管理供应商是 [SalesForce](https://www.salesforce.com/company/privacy/)、[Amazon Simple Email Service](https://aws.amazon.com/privacy/)、[Mailchimp](https://www.intuit.com/privacy/statement/)、[SocketLabs](https://www.socketlabs.com/legal/service-privacy/)、[Campaign Monitor](https://meetmarigold.com/privacy-notices) 或 [Braze](https://www.braze.com/company/legal/privacy)，您可以使用相关电子邮件底部的链接取消订阅。 
 
 * **产品和政策活动**：我们的某些网页会举行产品或政策活动。例如，您可以通过电子邮件或短信请求链接，以便在您的移动设备上安装 Firefox，或者在互联网问题上向立法者提出诉求。我们可能会使用第三方来管理这些活动并处理您选择提交的所有数据。 
 {: #campaigns }
@@ -54,7 +54,7 @@
 
 * **请勿跟踪**：Mozilla 不会在第三方网站中跟踪用户，以提供有针对性的广告。此外，如果您已将浏览器配置为在访问我们网站时发送“请勿跟踪”信号，则 Mozilla 将不会利用[指标](https://www.mozilla.org/privacy/websites/#data-tools)部分中描述的任何工具。
 
-* **电子邮件**：我们的营销通信为可选接收，您可以在电子邮件的页脚取消订阅，更新您的 [Mozilla 电子邮件首选项](https://www.mozilla.org/newsletter/recovery/)或在 [Thunderbird 网站](https://www.thunderbird.net/newsletter/)上查看 Thunderbird 的时事通讯。
+* **电子邮件**： 我们的营销通信为可选接收，您可以在电子邮件的页脚取消订阅。您也可以通过[首选项中心](https://www.mozilla.org/newsletter/recovery/)（Mozilla 新闻通讯）、[退订页面](https://www.mozillafoundation.org/newsletter/unsubscribe/)（Mozilla Foundation 新闻通讯）或 [Thunderbird 网站](https://www.thunderbird.net/newsletter/)（Thunderbird 新闻通讯）进行退订。
 
 
 * **分析与优化**：请按照以下说明，阻止收集有关您访问 Mozilla 网站的数据：
@@ -72,7 +72,7 @@
 
 * **付款处理**：当您通过 Mozilla 网站购买东西或捐款时，您将通过我们其中一家第三方支付服务提供商来支付款项：Stripe、Apple Pay、PayPal、Venmo 或 Google Pay。Mozilla 会收到您的帐户记录（包括您的账单地址和付款方式的最后四位数字）以及您的帐户订阅状态（倘若相关）；我们还可能收到您的姓名、邮寄地址和/或电子邮件地址。这些数据将用于付款处理、欺诈检测和记录保存。 
 
-* **联系方式和捐赠信息**：我们使用 [Acoustic](https://acoustic.com/privacy-notice/)、[Salesforce](https://www.salesforce.com/company/privacy/)、[Fundraise Up](https://fundraiseup.com/privacy/) 和 [Campaign Monitor](https://meetmarigold.com/privacy-notices/) 发送收据和店铺记录，这些收据和记录将自上次付款之日起保留 10 年。如果您向 Mozilla 基金会或 Thunderbird 捐款，我们将使用 [Fundraise Up](https://fundraiseup.com/privacy/) 来管理我们的捐款，并向捐赠者提供交易收据。
+* **联系方式和捐赠信息**：我们使用 [Braze](https://www.braze.com/company/legal/privacy)、[Salesforce](https://www.salesforce.com/company/privacy/)、[Fundraise Up](https://fundraiseup.com/privacy/) 和 [Campaign Monitor](https://meetmarigold.com/privacy-notices/) 发送收据和店铺记录，这些收据和记录将自上次付款之日起保留 10 年。如果您向 Mozilla 基金会或 Thunderbird 捐款，我们将使用 [Fundraise Up](https://fundraiseup.com/privacy/) 来管理我们的捐款，并向捐赠者提供交易收据。
 
 ---------------------------------------
 

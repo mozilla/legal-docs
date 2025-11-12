@@ -1,7 +1,7 @@
 # Webhelyekre, kommunikációra és cookie-kra vonatkozó adatvédelmi nyilatkozat
 
-2024. április 3.
-{: datetime="2024-04-03" }
+2025. november 5.
+{: datetime="2025-11-05" }
 
 Fontos számunkra az Ön adatainak védelme. Amikor a Mozilla (vagyis mi) adatokat gyűjtünk Önről, a [Mozilla adatvédelmi szabályzatában](https://www.mozilla.org/privacy/) olvashat az adatok kezelésének módjáról.
 
@@ -20,7 +20,7 @@ Személyes adataihoz hozzáférhetünk például a közösségi oldalakon velün
 
 * **Felhasználói visszajelzés**: Termékeinkkel és szolgáltatásainkkal kapcsolatos visszajelzést küldhet például a [connect.mozilla.org](https://connect.mozilla.org/) weboldalon, egy termék kipróbálása során, vagy más csatornákon keresztül, e-mailen, a Bugzillán, a Matrixon, közösségi oldalakon, Get Involved oldalunkon, vagy olyan csoportokon keresztül, mint például a Student Ambassadors. Kérjük, hogy ezeken a fórumokon a lehető legkevesebb személyes adatot ossza meg, mert hozzászólásai elérhetővé válhatnak a nyilvánosság számára.
 
-* **Fiókok és előfizetések**: Egyes webhelyek, például a [Firefox-bővítmények](https://addons.mozilla.org/firefox/), a [Relay](https://relay.firefox.com/), a [Monitor](https://monitor.firefox.com/) és az [MDN](https://developer.mozilla.org/) fiók létrehozását igényelnek. A fiókkezeléshez a [Mozilla-fiókokat](https://www.mozilla.org/privacy/mozilla-accounts/), a [GitHubot](https://support.github.com/#our-use-of-cookies-and-tracking) vagy egyedi rendszereket használunk – [tudjon meg többet](https://support.mozilla.org/kb/managing-account-data) a Mozilla-fiók adatainak kezeléséről. A fiókjával vagy előfizetéseivel kapcsolatban rendszeresen kaphat e-maileket. E-mail-kezelési szolgáltatóink a [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), az [Amazon Simple Email Service](https://aws.amazon.com/privacy/), a [Mailchimp](https://www.intuit.com/privacy/statement/), a [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), a [Campaign Monitor](https://meetmarigold.com/privacy-notices) és a [Braze](https://www.braze.com/company/legal/privacy) – a megfelelő e-mail alján található hivatkozás segítségével iratkozhat le. 
+* **Fiókok és előfizetések**: Egyes webhelyek, például a [Firefox-bővítmények](https://addons.mozilla.org/firefox/), a [Relay](https://relay.firefox.com/), a [Monitor](https://monitor.firefox.com/) és az [MDN](https://developer.mozilla.org/) fiók létrehozását igényelnek. A fiókkezeléshez a [Mozilla-fiókokat](https://www.mozilla.org/privacy/mozilla-accounts/), a [GitHubot](https://support.github.com/#our-use-of-cookies-and-tracking) vagy egyedi rendszereket használunk – [tudjon meg többet](https://support.mozilla.org/kb/managing-account-data) a Mozilla-fiók adatainak kezeléséről. A fiókjával vagy előfizetéseivel kapcsolatban rendszeresen kaphat e-maileket. E-mail-kezelési szolgáltatóink a [SalesForce](https://www.salesforce.com/company/privacy/), az [Amazon Simple Email Service](https://aws.amazon.com/privacy/), a [Mailchimp](https://www.intuit.com/privacy/statement/), a [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), a [Campaign Monitor](https://meetmarigold.com/privacy-notices) és a [Braze](https://www.braze.com/company/legal/privacy) – a megfelelő e-mail alján található hivatkozás segítségével iratkozhat le. 
 
 * **Termék- és szabályzati kampányok**: Néhány weblapunk termék- vagy szabályzati kampányokat tartalmaz. Például e-mailben vagy SMS-ben linket kérhet a Firefox mobileszközön történő telepítéséhez, vagy petíciót nyújthat be a jogalkotóknak internetes kérdésekben. Harmadik feleket használunk a kampányok és a benyújtani kívánt adatok kezelésére. 
 {: #campaigns }
@@ -54,7 +54,7 @@ Cookie-kat, tiszta GIF-eket, harmadik féltől származó webstatisztikákat, es
 
 * **Követés letiltása**: A Mozilla nem követi nyomon felhasználóit harmadik felek webhelyein célzott hirdetések használata céljából. Emellett, ha úgy állította be a böngészőt, hogy „Követés letiltása” jelet küldjön a webhelyeink elérésekor, akkor a Mozilla nem fogja használni a [Metrikák](https://www.mozilla.org/privacy/websites/#data-tools) szakaszban leírt eszközök egyikét sem.
 
-* **E-mail**: Marketingkommunikációnk fogadása opcionális, Önnek lehetősége van leiratkozni az e-mail láblécében, a [Mozilla e-mail-beállításai](https://www.mozilla.org/newsletter/recovery/) frissítésével, vagy a Thunderbird-hírlevél esetében a [Thunderbird webhelyén](https://www.thunderbird.net/newsletter/).
+* **E-mail**: A marketingkommunikációnk fogadása opcionális, Önnek lehetősége van leiratkozni az e-mail láblécében. Leiratkozhat a [preferenciaközpontban](https://www.mozilla.org/newsletter/recovery/) (Mozilla-hírlevelek), a [leiratkozási oldalon](https://www.mozillafoundation.org/newsletter/unsubscribe/) (Mozilla Foundation-hírlevelek) vagy a [Thunderbird webhelyén](https://www.thunderbird.net/newsletter/) (Thunderbird-hírlevél) is.
 
 
 * **Elemzés és optimalizálás**: Ha meg szeretné akadályozni a Mozilla-webhelyek látogatása során az adatgyűjtést, kövesse az alábbi utasításokat:
@@ -72,7 +72,7 @@ Némelyik Mozilla-webhelyen vásárolhat (például alkalmazásokat vagy eszköz
 
 * **Fizetések feldolgozása**: Ha vásárol valamit a Mozilla webhelyén, befizet vagy pénzt adományoz, a kifizetést harmadik fél fizetési szolgáltatónk egyikén keresztül küldi el: Stripe, Apple Pay, PayPal, Venmo vagy Google Pay. A Mozilla nyilvántartást kap a fiókjáról (beleértve a számlázási címét és a fizetési mód utolsó négy számjegyét), valamint eléri a fiók előfizetésének állapotát, az Ön nevét, levelezési címét és/vagy e-mail-címét is (ahol releváns). Ezeket az adatokat fizetésfeldolgozási, csalásészlelési és nyilvántartási célokra használjuk. 
 
-* **Elérhetőségek és adományozási információk**: Az [Acoustic](https://acoustic.com/privacy-notice/), a [Salesforce](https://www.salesforce.com/company/privacy/), a [Fundraise Up](https://fundraiseup.com/privacy/) és a [Campaign Monitor](https://meetmarigold.com/privacy-notices/) megoldásokat használjuk nyugták e-mailben történő elküldésére és nyilvántartások tárolására, amelyeket az utolsó fizetés dátumától számított 10 évig őrizzük meg. Ha a Mozilla Foundationnek vagy a Thunderbirdnek adományoz, a [Fundraise Up](https://fundraiseup.com/privacy/) segítségével kezeljük az adományokat és nyújtunk tranzakciós nyugtákat az adományozóknak.
+* **Elérhetőségek és adományozási információk**: A [Braze](https://www.braze.com/company/legal/privacy), a [Salesforce](https://www.salesforce.com/company/privacy/), a [Fundraise Up](https://fundraiseup.com/privacy/) és a [Campaign Monitor](https://meetmarigold.com/privacy-notices/) megoldásokat használjuk nyugták e-mailben történő elküldésére és nyilvántartások tárolására, amelyeket az utolsó fizetés dátumától számított 10 évig őrizzük meg. Ha a Mozilla Foundationnek vagy a Thunderbirdnek adományoz, a [Fundraise Up](https://fundraiseup.com/privacy/) segítségével kezeljük az adományokat és nyújtunk tranzakciós nyugtákat az adományozóknak.
 
 ---------------------------------------
 
