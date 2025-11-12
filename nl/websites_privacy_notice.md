@@ -1,7 +1,7 @@
 # Privacykennisgeving voor websites, communications en cookies
 
-woensdag 3 april 2024
-{: datetime="2024-04-03" }
+5 november 2025
+{: datetime="2025-11-05" }
 
 Uw privacy is belangrijk voor ons. Wanneer Mozilla (dat zijn wij) informatie over u verzamelt, beschrijft ons [Mozilla-privacybeleid](https://www.mozilla.org/privacy/) hoe we met die informatie omgaan.
 
@@ -20,7 +20,7 @@ We ontvangen mogelijk persoonlijke informatie van u op basis van uw interactie m
 
 * **Gebruikersfeedback**: U kunt ons feedback geven over onze producten en services op webpagina's, zoals [connect.mozilla.org](https://connect.mozilla.org/), via een ervaring binnen een product of via kanalen, zoals e-mail, Bugzilla, Matrix, een sociale media-account, onze Get Involved-pagina of via een groep, zoals Student Ambassadors. Minimaliseer de persoonlijke informatie die u op deze forums deelt omdat uw opmerkingen mogelijk toegankelijk zijn voor het publiek.
 
-* **Accounts en abonnementen**: Sommige websites, zoals [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), vereisen dat er een account wordt gemaakt. Voor accountbeheer gebruiken we [Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [Github](https://support.github.com/#our-use-of-cookies-and-tracking) of aangepaste systemen. [Hier](https://support.mozilla.org/kb/managing-account-data) vindt u informatie over hoe Mozilla accountgegevens beheert. U ontvangt mogelijk periodiek e-mails in verband met uw account of via abonnementen. Onze leveranciers voor e-mailbeheer zijn [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) en [Braze](https://www.braze.com/company/legal/privacy), en u kunt zich uitschrijven via de link onderaan de e-mail. 
+* **Accounts en abonnementen**: Sommige websites, zoals [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/) en [MDN](https://developer.mozilla.org/), vereisen dat er een account wordt gemaakt. Voor accountbeheer gebruiken we [Mozilla-accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [Github](https://support.github.com/#our-use-of-cookies-and-tracking) of aangepaste systemen. [Hier](https://support.mozilla.org/kb/managing-account-data) vindt u informatie over hoe Mozilla accountgegevens beheert. U ontvangt mogelijk periodiek e-mails in verband met uw account of via abonnementen. Onze leveranciers voor e-mailbeheer zijn  [SalesForce](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) en [Braze](https://www.braze.com/company/legal/privacy), en u kunt zich uitschrijven via de link onderaan de e-mail. 
 
 * **Product- en beleidcampagnes**: Sommige van onze webpagina's hosten product- of beleidcampagnes. U kunt bijvoorbeeld een link per e-mail of sms aanvragen voor het installeren van Firefox op uw mobiele apparaat of om uw wetgevers verzoeken sturen ten aanzien van internetkwesties. We kunnen derde partijen gebruiken voor het beheren van deze campagnes en het behandelen van gegevens als u ervoor kiest deze te verzenden. 
 {: #campaigns }
@@ -54,7 +54,7 @@ U kunt afzonderlijke cookievoorkeuren beheren, uw cookievoorkeuren aangeven voor
 
 * **Do Not Track**: Mozilla volgt gebruikers niet over websites van derden voor het bieden van gerichte reclame. Als u daarnaast uw browser hebt geconfigureerd voor het verzenden van een Do Not Track-signaal bij toegang tot onze websites, gebruikt Mozilla geen van de tools die zijn beschreven in de sectie [Meetwaarden](https://www.mozilla.org/privacy/websites/#data-tools).
 
-* **E-mail**: Onze marketingcommunicaties zijn optioneel en u kunt zich uitschrijven via de voettekst van de e-mail of door het bijwerken van uw [voorkeuren voor e-mail van Mozilla](https://www.mozilla.org/newsletter/recovery/), of in het geval van de Thunderbird-nieuwsbrief, op de [Thunderbird-website](https://www.thunderbird.net/newsletter/)
+* **E-mail**: Onze marketingberichten zijn optioneel en u kunt zich uitschrijven via de voettekst van de e-mail. U kunt zich ook uitschrijven via het [voorkeurencentrum](https://www.mozilla.org/newsletter/recovery/) (Mozilla-nieuwsbrieven), [de pagina voor uitschrijven](https://www.mozillafoundation.org/newsletter/unsubscribe/) (Mozilla Foundation-nieuwsbrieven) of via de [Thunderbird-website](https://www.thunderbird.net/newsletter/) (Thunderbird-nieuwsbrief).
 
 
 * **Analyse en optimalisering**: Volg de onderstaande instructies om het verzamelen van gegevens over uw bezoeken aan Mozilla-websites te voorkomen:
@@ -72,7 +72,7 @@ Sommige Mozilla-websites stellen u in staat om aankopen te doen (zoals apps of a
 
 * **Betalingsverwerking**: Wanneer u iets koopt via een Mozilla-website, geld bijdraagt of schenkingen doet, verloopt uw betaling via een van onze externe betalingsleveranciers: Stripe, Apple Pay, PayPal, Venmo of Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en (waar relevant) de status van het abonnement van uw account. We ontvangen mogelijk ook uw naam, adres en/of e-mailadres. Deze gegevens worden gebruikt voor betalingsverwerking, fraudedetectie en registratiedoeleinden. 
 
-* **Contact- en schenkingsinformatie**: We gebruiken [Acoustic](https://acoustic.com/privacy-notice/), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) en [Campaign Monitor](https://meetmarigold.com/privacy-notices/) voor het per e-mail verzenden van betalingsbewijzen en het opslaan van geregistreerde gegevens. Deze worden 10 jaar lang bewaard, gerekend vanaf de laatste betalingsdatum. Als u een schenking doet aan de Mozilla Foundation of Thunderbird, gebruiken we [Fundraise Up](https://fundraiseup.com/privacy/) om onze schenkingen te beheren en betalingsbewijzen voor transacties te verstrekken aan donateurs.
+* **Contact- en schenkingsinformatie**: We gebruiken [Braze](https://www.braze.com/company/legal/privacy), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) en [Campaign Monitor](https://meetmarigold.com/privacy-notices/) voor het per e-mail verzenden van betalingsbewijzen en het opslaan van geregistreerde gegevens. Deze worden 10 jaar lang bewaard, gerekend vanaf de laatste betalingsdatum. Als u een schenking doet aan de Mozilla Foundation of Thunderbird, gebruiken we [Fundraise Up](https://fundraiseup.com/privacy/) om onze schenkingen te beheren en betalingsbewijzen voor transacties te verstrekken aan donateurs.
 
 ---------------------------------------
 
