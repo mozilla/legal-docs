@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Situs Web, Komunikasi & Cookie
 
-03 April 2024
-{: datetime="2024-04-03" }
+05 November 2025
+{: datetime="2025-11-05" }
 
 Kami peduli dengan privasi Anda. [Kebijakan Privasi Mozilla](https://www.mozilla.org/privacy/) kami menjelaskan bagaimana kami menangani informasi tersebut saat Mozilla (kami) mengumpulkan informasi tentang Anda.
 
@@ -20,7 +20,7 @@ Kami mungkin menerima informasi pribadi dari Anda berdasarkan interaksi Anda den
 
 * **Umpan Balik Pengguna**: Anda dapat memberikan umpan balik kepada kami tentang produk dan layanan kami di halaman web seperti [connect.mozilla.org](https://connect.mozilla.org/), melalui pengalaman dalam produk, atau melalui saluran seperti email, Bugzilla, Matrix, akun media sosial, halaman Mari Berperan kami, atau melalui grup seperti Duta Pelajar. Harap minimalkan informasi pribadi yang Anda pilih untuk dibagikan pada forum-forum ini karena komentar Anda mungkin dapat diakses publik.
 
-* **Akun & Langganan**: Beberapa situs web, misalnya [Add-Ons untuk Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), dan [MDN](https://developer.mozilla.org/), memerlukan pembuatan akun. Untuk manajemen akun, kami menggunakan [akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), atau sistem kustom; pelajari selengkapnya [di sini](https://support.mozilla.org/kb/managing-account-data) tentang cara mengelola data akun Mozilla Anda. Anda terkadang mungkin menerima email terkait akun atau langganan Anda. Vendor manajemen email kami adalah [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), atau [Braze](https://www.braze.com/company/legal/privacy), dan Anda bisa berhenti berlangganan menggunakan tautan di bagian bawah email yang relevan. 
+* **Akun & Langganan**: Beberapa situs web, misalnya [Add-Ons untuk Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), dan [MDN](https://developer.mozilla.org/), memerlukan pembuatan akun. Untuk manajemen akun, kami menggunakan [akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), atau sistem kustom; [pelajari selengkapnya](https://support.mozilla.org/kb/managing-account-data) tentang cara mengelola data akun Mozilla Anda. Anda terkadang mungkin menerima email terkait akun atau langganan Anda. Vendor manajemen email kami adalah [SalesForce](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), atau [Braze](https://www.braze.com/company/legal/privacy), dan Anda bisa berhenti berlangganan menggunakan tautan di bagian bawah email yang relevan. 
 
 * **Kampanye Produk & Kebijakan**: Beberapa halaman web kami mengadakan kampanye produk atau kebijakan. Misalnya, Anda dapat meminta tautan melalui email atau SMS untuk menginstal Firefox di perangkat seluler Anda atau mengirimkan petisi kepada legislator tentang masalah internet. Kami mungkin menggunakan pihak ketiga untuk mengelola kampanye ini dan menangani semua data yang Anda pilih untuk dikirimkan. 
 {: #campaigns }
@@ -54,7 +54,7 @@ Anda bisa mengontrol masing-masing preferensi cookie, menunjukkan preferensi coo
 
 * **Jangan Lacak**: Mozilla tidak melacak pengguna di seluruh situs web pihak ketiga untuk menyediakan iklan dengan sasaran tertentu. Jika Anda sudah mengonfigurasi browser untuk mengirim sinyal “Do Not Track” (Jangan Lacak) saat mengakses situs web kami, Mozilla tidak akan menggunakan alat-alat yang dijelaskan di bagian [Metrik](https://www.mozilla.org/privacy/websites/#data-tools).
 
-* **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan footer email atau dengan memperbarui [preferensi email Mozilla](https://www.mozilla.org/newsletter/recovery/), atau untuk buletin Thunderbird, di [situs web Thunderbird](https://www.thunderbird.net/newsletter/).
+* **Email**: Komunikasi pemasaran kami bersifat opsional jika Anda ingin menerimanya dan Anda dapat berhenti berlangganan dari footer email. Anda juga bisa berhenti berlangganan melalui [pusat preferensi](https://www.mozilla.org/newsletter/recovery/) (buletin Mozilla), [halaman berhenti berlangganan](https://www.mozillafoundation.org/newsletter/unsubscribe/) (buletin Mozilla Foundation), atau [situs web Thunderbird](https://www.thunderbird.net/newsletter/) (Buletin Thunderbird).
 
 
 * **Analitik & Pengoptimalan**: Ikuti petunjuk di bawah ini untuk mencegah pengumpulan data tentang kunjungan Anda ke situs web Mozilla:
@@ -72,7 +72,7 @@ Beberapa situs web Mozilla memungkinkan Anda melakukan pembelian (seperti aplika
 
 * **Pemrosesan Pembayaran**: Saat Anda membeli sesuatu di situs web Mozilla, menyumbangkan dana atau berdonasi, Anda akan mengirim pembayaran melalui salah satu penyedia layanan pembayaran pihak ketiga kami: Stripe, Apple Pay, PayPal, Venmo, atau Google Pay. Mozilla menerima catatan rekening Anda (termasuk alamat penagihan dan empat digit terakhir dari metode pembayaran Anda) serta status langganan akun Anda (jika relevan); mungkin kami juga menerima nama, alamat email, dan/atau alamat email Anda. Data ini digunakan untuk tujuan pemrosesan pembayaran, deteksi penipuan, dan pengarsipan. 
 
-* **Informasi Kontak dan Donasi**: Kami menggunakan [Acoustic](https://acoustic.com/privacy-notice/), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/), dan [Campaign Monitor](https://meetmarigold.com/privacy-notices/) untuk mengirim tanda terima melalui email dan menyimpan catatan, yang disimpan selama 10 tahun terhitung sejak tanggal pembayaran terakhir. Jika Anda memberikan donasi ke Mozilla Foundation atau Thunderbird, kami menggunakan [Fundraise Up](https://fundraiseup.com/privacy/) untuk mengelola donasi kami dan menyediakan tanda terima transaksi kepada para donatur.
+* **Informasi Kontak dan Donasi**: Kami menggunakan [Braze](https://www.braze.com/company/legal/privacy), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/), dan [Campaign Monitor](https://meetmarigold.com/privacy-notices/) untuk mengirim tanda terima melalui email dan menyimpan catatan, yang disimpan selama 10 tahun terhitung sejak tanggal pembayaran terakhir. Jika Anda memberikan donasi ke Mozilla Foundation atau Thunderbird, kami menggunakan [Fundraise Up](https://fundraiseup.com/privacy/) untuk mengelola donasi kami dan menyediakan tanda terima transaksi kepada para donatur.
 
 ---------------------------------------
 
