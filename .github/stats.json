@@ -49,27 +49,25 @@
     ]
   },
   "common_voice_privacy_notice.md": {
-    "count": 4,
+    "count": 3,
     "has_source": true,
     "last_update": "2025-10-31",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_privacy_notice.md",
     "locales": [
       "es",
       "fr",
-      "zh-CN",
-      "zh-TW"
+      "zh-CN"
     ]
   },
   "common_voice_terms.md": {
-    "count": 4,
+    "count": 3,
     "has_source": true,
     "last_update": "2025-10-31",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/common_voice_terms.md",
     "locales": [
       "es",
       "fr",
-      "zh-CN",
-      "zh-TW"
+      "zh-CN"
     ]
   },
   "content_moderation_practices.md": {
@@ -138,6 +136,27 @@
     "has_source": true,
     "last_update": "2025-06-02",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_privacy_notice.md",
+    "locales": [
+      "cs",
+      "de",
+      "es-ES",
+      "fr",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "nl",
+      "pl",
+      "pt-BR",
+      "ru",
+      "zh-CN"
+    ]
+  },
+  "firefox_privacy_notice_preview.md": {
+    "count": 13,
+    "has_source": true,
+    "last_update": "2025-06-02",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_privacy_notice_preview.md",
     "locales": [
       "cs",
       "de",
