@@ -38,9 +38,7 @@ __Network data.__ When you activate Mozilla VPN, it will encrypt your internet t
 __Interaction data.__ Mozilla receives data about your interactions with the services. For instance, when you log in and out and the preferences you set; learn more about [Monitor interaction data](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). More generally, Mozilla may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned receives a hashed version of your email address in order to perform a scan of where your personal data may have been compromised. HaveIbeenpwned keeps this personal data to continuously scan for new breaches; you can request removal of your email address from HaveIbeenpwned via their [opt-out mechanism](https://haveibeenpwned.com/OptOut).
-  
-* [OneRep.](https://onerep.com/) If you are located in the United States and have a Monitor Plus subscription, OneRep receives your first and last name, email address, phone number, physical address and date of birth in order to scan data broker sites to find your personal data and request its removal. OneRep keeps your personal data until you end your Monitor subscription in order to check whether your information shows up on additional sites, or has reappeared on the sites you’ve already been removed from.
-  
+    
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozilla Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription.
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).
