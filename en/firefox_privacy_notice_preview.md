@@ -442,7 +442,7 @@ We may need to change this policy and our notices, in which case the updates wil
     </tbody>
 </table>
 
-## Privacy notices for search providers
+## Privacy notices for select search providers
 
 [Google](https://policies.google.com/privacy)
 
