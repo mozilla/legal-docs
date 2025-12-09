@@ -80,4 +80,4 @@ Les Contributions que vous soumettez à Mozilla resteront à la disposition du p
 
 ## 9. Droit applicable
 
-La loi de Californie s'applique aux présentes. Les présentes Conditions constituent l'intégralité de l'accord entre vous et Mozilla relatif à Common Voice. 
+La loi de Californie s'applique aux présentes. Les présentes Conditions constituent l'intégralité de l'accord entre vous et Mozilla relatif à Common Voice.

@@ -20,4 +20,4 @@ Služby společnosti Mozilla nesmíte používat k:
 
 Toto jsou pouze příklady. Nelze je považovat za vyčerpávající seznam a tento seznam můžeme dle potřeby příležitostně aktualizovat, Společnost Mozilla si vyhrazuje právo odebrat jakýkoli obsah nebo zablokovat jakékoli uživatele, pokud u nich shledá porušení těchto podmínek.
 
-Rovněž si dovolujeme připomenout [Pokyny účasti v komunitě](https://www.mozilla.org/about/governance/policies/participation/) společnosti Mozilla, které upravují účast v komunitách společnosti Mozilla. 
+Rovněž si dovolujeme připomenout [Pokyny účasti v komunitě](https://www.mozilla.org/about/governance/policies/participation/) společnosti Mozilla, které upravují účast v komunitách společnosti Mozilla.
