@@ -1,7 +1,9 @@
-# Firefox のプライバシーに関する通知 - Preview
+# Firefox のプライバシーに関する通知
 
-発効日 2025 年 6 月 2 日
-{: datetime="2025-06-02" }
+発効日 2025 年 12 月 17 日
+{: datetime="2025-12-17" }
+
+<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">最新版の通知を表示するには、こちらをクリックします。</a>
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています
 
@@ -15,151 +17,130 @@ Mozilla は、Firefox ブラウザーの主要機能や関連サービスを提�
 
 ウェブページの自動[翻訳](https://support.mozilla.org/kb/website-translation)や[ PDF の画像をアップロードした際に提案される「代替テキスト」](https://support.mozilla.org/kb/pdf-alt-text)など、一部の Firefox 機能は、あなたのデバイスにダウンロードされた小規模言語モデルに基づく人工知能 (AI) を利用しています。これらの機能はローカルで実行されるため、ウェブページのコンテンツ、PDF、画像、タブの URL などは、あなたのデバイス上に存在するだけで、Mozilla に送信されることもなければ、明示的な同意なしに学習に使用されることもありません。その他の Firefox 機能の中には、サードパーティーの AI モデルを組み込んだものもあります。これについては、この通知でさらに詳しくご説明します。
 
-#### その他の詳細 (データの設定を変更する方法など)
-
-[デスクトップ](https://dictionary.telemetry.mozilla.org/apps/firefox_desktop)、[Android](https://dictionary.telemetry.mozilla.org/apps/fenix)、[iOS](https://dictionary.telemetry.mozilla.org/apps/firefox_ios) で Mozilla が収集する情報について、詳細をご確認ください。[デスクトップ](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)と[モバイル](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)のデータ収集設定は、いつでも変更できます。
-
 ### Firefox をニーズに合わせて調整するため
 
 Firefox は、各種の個人データを、履歴、ウェブフォームデータ、インターネット一時ファイル、Cookie など、あなたのデバイス上のみで完結する形で処理しています。つまり、データは、あなたのデバイス上に存在し、この通知に明記されている場合を除き、Mozilla のサーバーに送信されることはありません。Google マップのようなウェブサイトでは、あなたが許可した場合に、位置情報が位置関連機能のために処理されることがあります。ただし、デバイスにある位置情報にアクセスできるのは、あなたが許可したウェブサイトのみであり、それらの情報が Mozilla のサーバーに送信されることはありません。
 
-#### その他の詳細 (データの設定を変更する方法など)
+Apple Intelligence 搭載の（iOS 26 以降の iPhone 15 Pro 以上）デバイスで Firefox モバイルから「Shake to Summarize（振って要約）」機能を有効にした場合、要約はリクエストされた時にお使いのデバイスでローカルに生成されます。Apple Intelligence のないデバイスでこの機能を有効にした場合、要約をリクエストすると、ページのコンテンツが処理のために Mozilla のサーバーへ送信され、要約が生成された後で、その結果がお使いのデバイスに返されます。送信されたコンテンツや生成された要約が Mozilla に保存されることはありません。
 
-あなたのデバイス上で処理されるデータは、あなただけが制御できます。いつでも、[ブラウジングデータ](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox)や[ローカルストレージ設定](https://support.mozilla.org/kb/storage)を管理し、[位置情報の許可](https://support.mozilla.org/kb/does-firefox-share-my-location-websites)を変更することができます。
+*その他の詳細 (データの設定を変更する方法など):*あなたのデバイス上で処理されるデータは、あなただけが制御できます。いつでも、[ブラウジングデータ](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox)や[ローカルストレージ設定](https://support.mozilla.org/kb/storage)を管理し、[位置情報の許可](https://support.mozilla.org/kb/does-firefox-share-my-location-websites)を変更することができます。
 
-### 検索機能を提供して改善するため
+### 検索機能の提供と提案の改善
 
-Firefox で検索を行う場合、デフォルトの検索エンジンが、あなたに検索結果や検索候補を提供する目的で (当該の検索エンジンの[プライバシーに関する通知](#privacy-policies-for-search-providers)にしたがって) あなたの検索クエリーやデバイスデータ、位置データを処理します。Mozilla は通常、あなたが Firefox ウェブブラウザーで初期設定またはオプションの検索方法のいずれかを使用した際にロイヤルティを受け取ります。
+Firefox で検索クエリーを入力すると、探している情報により速く、より直接アクセスできるよう、[検索候補](https://support.mozilla.org/kb/search-suggestions-firefox)が表示されます。検索候補の一部は、検索プロバイダーから提供されるものです（「検索候補」など）。その他の候補は Firefox から提供されるもので、お使いのローカルデバイス上に保存されている情報（最近の検索語句、開いているタブ、以前に訪問した URL など）や、Mozilla および Mozilla のパートナーが提供するコンテンツ（有料スポンサーの情報や、Wikipedia などのインターネットリソースを含む）に基づいて表示されます（「Firefox からのおすすめ」）。
 
-Firefox も、あなたのローカルデバイスに保管されている情報 (最近の検索ワード、開いているタブ、これまでに訪問した URL など) に基づいて独自の[検索候補](https://support.mozilla.org/kb/search-suggestions-firefox)を表示します。これらの候補には、Mozilla のパートナーによるスポンサー付きの提案や、一般的なインターネットリソース (Wikipedia など) からの関連コンテンツ、あなたの国で広く利用されている関連 URL などが含まれます。Mozilla は、特定の技術データと対話データを処理します。これには、あなたが検索を行った回数、スポンサー付きの提案が表示された回数、あなたが提案と対話したかどうか、などが含まれます。Mozilla のパートナーは、スポンサーとして提供した提案との対話について、匿名化された情報を受け取ります。[検索候補](https://support.mozilla.org/kb/search-suggestions-firefox)は、いつでも有効または無効にできます。
+初期設定では、Firefox では検索候補が表示されます。検索候補のリクエスト（入力中のリアルタイムの検索クエリ―や技術データを含む）は、文字が入力されるたびに検索プロバイダーへ直接送信され、検索プロバイダーのプライバシーに関する通知（[下記にリンク](#privacy-notices-for-search-providers)）に従って処理されます。この [Firefox サポート](https://support.mozilla.org/kb/firefox-suggest)ページに記載されている手順に従って、検索候補をいつでも無効にしたり、デフォルトの検索プロバイダーを変更したりすることができます。
 
-[あなたの位置によって](https://support.mozilla.org/kb/firefox-suggest)は、Mozilla は、検索の種類や回数を理解するために、クエリーに使われたキーワードから検索を分類し、大まかなカテゴリー (たとえば、旅行やショッピング) を導き出します。Mozilla は、プライバシー保護テクノロジーを通じて、誰かがどこかで、ある特定のカテゴリーに関する検索を行った、という情報だけを入手します。それが具体的に誰であるかという情報は入手しません。Mozilla による検索の分類について、また、そこからオプトアウトする方法について、[詳細](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)をご覧ください。
+米国およびその他の一部の地域のユーザーには、「Firefox からのおすすめ」も表示されます。ブラウザーの設定を使用して、これらの提案を完全に無効にすることも、Firefox のスポンサー付き提案だけを無効にすることもできます。
 
-また、Mozilla は、位置に関する検索キーワード (「ボストン」と検索したときなど) も受信し、おすすめやスポンサー付きのコンテンツを提供するためにこのデータを Mozilla のパートナーと共有します。その際、検索候補が提供された後に Mozilla が検索キーワードと個々のユーザーを結びつけることはできず、パートナーは、いかなる時点でも検索候補と個々のユーザーを結びつけることはできません。この機能は、スポンサー付きの提案を無効にすることでいつでも削除できます。無効にする方法については、[Firefox サポート](https://support.mozilla.org/kb/firefox-suggest?as=u)の対応するページでご覧ください。
+米国の場合、検索クエリ―を入力すると、Firefox が Mozilla のサーバーから提案を取得します。Mozilla では [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) と呼ばれるプライバシー保護技術を使用しています。これは暗号化とプロキシサーバーを組み合わせて、こちらの IP アドレスやその他の識別情報を隠す仕組みとなっています。リアルタイムの検索クエリーは、技術データ、対話データ、IP から推定される位置データとともに、デフォルトでこの OHTTP プロキシを経由して Mozilla に送信されます。これにより、（Mozilla を含めて）誰もこちらの特定の検索クエリ―を紐づけたり、閲覧履歴に関する他の情報と組み合わされたりすることをを防ぐことができます。Mozilla はこのデータを処理して、関連性の高い提案を提供したり、その提案がどれだけ役立つかを把握したり、サービスを改善したりします。場合によっては、Mozilla のパートナーが匿名化された検索および操作データを受け取り、関連性の高い提案を提供したり、提案コンテンツに対するユーザーの関与状況を測定したりすることがあります。
 
-高度な検索体験をオプトインした場合、Mozilla によってさらなる個人データ (技術データ、位置データ、検索データなど) が処理されることになります。それらの情報の一部は、匿名化または集計した形で弊社パートナーと共有される場合があります。詳細は、[ブログの投稿](https://blog.mozilla.org/data/2021/09/15/data-and-firefox-suggest/)「データと Firefox Suggest」でご確認ください。
+一部のユーザー（米国外の特定の地域に在住のユーザーや、設定で「入力に応じて Mozilla からの候補を取得する」をオフにした米国在住ユーザーを含む）は、Firefox からの提案機能を使用する際、代わりにローカルで処理された結果を受け取ります。これらのユーザーの場合、提案はお使いのデバイス上、つまりお使いの Firefox に保存されている情報を使ってローカルで提供されます。特定の検索キーワードに対する匿名化されたクリックデータおよび対話データ（検索クエリ―は除く）は、IP アドレスやその他の識別情報を隠すため、OHTTP を介して Mozilla に送信されます。スポンサー付き提案については、パートナーはどの提案が表示されクリックされたかといった集計情報を受け取ることがありますが、どのユーザーがその提案を見たか、またどのキーワードがその提案を表示させたかといった情報は受け取りません。（お住まいの地域で「Firefox からのおすすめ」が利用できない場合は、検索候補のみが表示されます。）
 
-#### その他の詳細 (データの設定を変更する方法など)
+### Firefox の新しいタブに関連性の高いコンテンツや広告を表示する
 
-[検索設定](https://support.mozilla.org/kb/change-your-default-search-settings-firefox)と[検索候補機能](https://support.mozilla.org/kb/search-suggestions-firefox)は、いつでも変更できます。[検索の分類](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)について、詳細をご覧ください。
+Firefox では、新しいタブにコンテンツが表示されるとともに、その開発を支援するための広告も表示されます。これらは、ブラウザーの設定でいつでもオフにすることができます。
 
-<a id="recommend-relevant-content"></a>
-### Firefox の新しいタブに関連性の高いコンテンツや広告を表示するため
+Mozilla は、このコンテンツを正しい形式 (モバイルかデスクトップか)、言語、地域で表示するために、技術データ、言語設定、IP から推定される位置情報を使用しています。Mozilla は、ユーザーがスポンサー付きコンテンツを含む Mozilla のコンテンツとどのように対話しているかを理解し、今後のコンテンツをパーソナライズするために、新しいタブに表示されるコンテンツや広告の配置、サイズ、閲覧回数、クリック数といった技術データと対話データを収集しています。このデータの一部は、集計化または匿名化した形で広告パートナーと共有される場合があります。
 
-Mozilla は、Firefox の新しいタブページ (モバイルではホームページ) に、コンテンツや広告を正しい形式 (モバイルかデスクトップか)、言語、地域で表示するために技術データ、言語設定、位置情報を使用しています。Mozilla は、ユーザーがスポンサー付きコンテンツを含む Mozilla のコンテンツとどのように対話しているかを理解し、今後のコンテンツをパーソナライズするために、新しいタブに表示されるコンテンツや広告の配置、サイズ、閲覧回数、クリック数といった技術データと対話データを収集しています。このデータの一部は、匿名化または集計した形で広告パートナーと共有される場合があります。
+一部の地域では、共通の属性に基づいてユーザーをグループ分けしたり、モデルを構築したりするために、このデータを使用することがあります。このようなグループ分けをすることは、人々がどのようにコンテンツと対話しているかを理解し、将来のコンテンツ（スポンサー付きコンテンツを含む）をパーソナライズするのに役立ちます。特定のユーザーの属性が Mozilla に明かされることがないように、デバイス上での処理と OHTTP が使用されています。[詳細はこちら](https://support.mozilla.org/kb/firefox-new-tab-personalization)。
 
-新しいタブで広告が有効になっている場合は、広告の効果を測定するためにさらなるブラウジングデータがあなたのデバイス上でローカルに処理される可能性があります。これらのデータは、必ず Mozilla のプライバシー保護テクノロジーを介し、集計または匿名化された形で Mozilla または広告パートナーと共有されます。
+また、広告提供者と共同で、プログラミング技術を用いて、関連性の高いスポンサー付きコンテンツを提供しています。この支援に伴い、表示する広告の決定に役立てるため、デバイスの種類、IP から推定される位置情報、閲覧したコンテンツのカテゴリーなど、限定的で個人を特定できない情報を共有することがあります。個人を識別できる情報を共有することはありません。新しいタブの設定で、スポンサー付きコンテンツをいつでもオフにすることができます。
+
+場合によっては、新しいタブで広告が有効になっていると、広告の効果を測定するために、追加の閲覧および対話データ（広告主との対話を含む）がデバイスでローカル処理されることがあります。また、[ショートカット](https://support.mozilla.org/kb/about-new-tab-page#w_shortcuts)機能も、デバイスに保存されているブラウジングデータを使用して上位のショートカットを選択しており、その中にはスポンサー付きのものが含まれる場合もあります。そのようなデータは、集計化または匿名化された形で、プライバシー保護技術を通じてのみ Mozilla および広告パートナーと共有されます。
 
 ユーザーが Firefox に表示された広告またはリンクをクリックしてサードパーティーのウェブサイトを訪問した場合、そのサイトは、そのウェブサイトのプライバシーまたは Cookie に関する通知にしたがって Cookie または任意のウェブサイトで利用可能なウェブ API を使用している可能性があります。
 
-#### その他の詳細 (データの設定を変更する方法など)
+これらの新しいタブ機能およびそれに関連したデータ処理は、ブラウザーの設定（[デスクトップ](https://support.mozilla.org/kb/customize-your-new-tab-page)、[Android](https://support.mozilla.org/kb/customize-firefox-home-screen)、[iOS](https://support.mozilla.org/kb/customize-firefox-home-ios)）でオフにしたり、カスタマイズしたりすることができます。あるいは、残りの機能を引き続き利用しながら、[スポンサー付きコンテンツを無効にする](https://support.mozilla.org/kb/sponsor-privacy)こともできます。
 
-[デスクトップ](https://support.mozilla.org/kb/sponsor-privacy)、[Android](https://support.mozilla.org/kb/customize-firefox-home-screen)、または [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios) のデータ設定を含む、[新しいタブページの管理方法](https://support.mozilla.org/kb/customize-your-new-tab-page)について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、[デスクトップ](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)および[モバイル](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)上でデータをオフにすることで、いつでもオプトアウトできます。
-
-### Mozilla アカウントを提供するため
+### Mozilla アカウントを提供する
 
 Mozilla アカウントに登録した場合、この通知で規定されているデータに加えて、アカウントの詳細、連絡先情報、同期データといった情報も、[Mozilla アカウントのプライバシーに関する通知](https://www.mozilla.org/privacy/mozilla-accounts/)にしたがって処理されます。
 
-### AI チャットボットを提供するため
+### AI チャットボットを提供する
 
 あなたは、記事の要約や、草案・アイデアの提案などのために、ご自身で選択したサードパーティーの AI チャットボットを、その[利用規約およびプライバシー通知](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers)にしたがって使用することができます。
 
 あなたがサイドバーまたはショートカットを通じてチャットボットを有効にした場合、Mozilla は、そのチャットボットにあなたが入力したテキストやコンテンツにアクセスできません。Mozilla は、Firefox を改善するために、この機能がどのように使用されているかを示す技術データと対話データを収集します。それには、どのサードパーティーチャットボットプロバイダーが頻繁に選択されているか、提案されたプロンプトがどの程度の頻度で使用されているか、選択されたテキストの長さなどが含まれます。
 
-#### その他の詳細 (データの設定を変更する方法など)
+*その他の詳細 (データの設定を変更する方法など):*Firefox で AI チャットボットを[管理または削除](https://support.mozilla.org/kb/ai-chatbot)する方法についての詳細をご確認ください。
 
-Firefox で AI チャットボットを[管理](https://support.mozilla.org/kb/ai-chatbot)または[削除](https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar)する方法についての詳細をご確認ください。
+### アドオンを提供・有効化する (addons.mozilla.org):
 
-### レビューチェッカーを提供するため (スポンサー付きコンテンツの提供を含む)
-
-レビューチェッカーは、Amazon.com や BestBuy.com、Walmart.com のようなサイトでオンラインショッピングを行う際に、レビューの信頼性を判断できるようサポートする Firefox 機能です。あなたがレビューチェッカーを利用するようオプトインした場合、Mozilla は、[OHTTP](https://support.mozilla.org/kb/ohttp-explained) というプライバシー保護テクノロジーを使い、あなたが閲覧しているウェブサイトや製品の製品 ID に関する情報を処理します。OHTTP は、暗号化とサードパーティーの仲介サーバーを組み合わせたもので、Mozilla によってあなたまたはあなたのデバイスが、閲覧した製品と結び付けられることを防ぎます。Mozilla は、Firefox を改善するために、この機能がどのように使用されているかを示す技術データと対話データも収集します。
-
-あなたは、レビューチェッカーの利用を選択することで、おすすめ製品やスポンサー付きコンテンツの表示にも同意したことになります。おすすめ製品やスポンサー付きコンテンツの表示を希望しない場合は、レビューチェッカーの設定でいつでもこの機能をオプトアウトすることができます。
-
-#### その他の詳細 (データの設定を変更する方法など)
-
-[Firefox レビューチェッカーの使用方法](https://support.mozilla.org/kb/review-checker-review-quality)や、[OHTTP](https://support.mozilla.org/kb/ohttp-explained) などのプライバシー保護テクノロジーの実装について詳細をご確認ください。
-
-### アドオンを提供・有効化するため (addons.mozilla.org)
-
-あなたは、addons.mozilla.org (「AMO」)、またはツールバーの Firefox メニューボタンからアクセスできる Firefox アドオンマネージャーからアドオンをインストールできます。Mozilla は、あなたがアドオンマネージャーに入力した検索クエリーを、おすすめのアドオンを提案する目的で処理します。あなたがいずれかのアドオンのインストールを選択した場合、Firefox は、技術データや位置データ、設定データを処理し、さらに、あなたのアドオンに適切なアップデートをインストールおよび適用するために定期的に Mozilla のサーバーに接続します。Mozilla は、Firefox を改善するために、アドオンの使用状況に関する技術データと対話データも収集します。
+あなたは、[addons.mozilla.org](http://addons.mozilla.org) (「AMO」)、またはツールバーの Firefox メニューボタンからアクセスできる Firefox アドオンマネージャーからアドオンをインストールできます。Mozilla は、あなたがアドオンマネージャーに入力した検索クエリーを、おすすめのアドオンを提案する目的で処理します。あなたがいずれかのアドオンのインストールを選択した場合、Firefox は、技術データや IP から推定される位置データ、設定データを処理し、さらに、あなたのアドオンに適切なアップデートをインストールおよび適用するために定期的に Mozilla のサーバーに接続します。Mozilla は、Firefox を改善するために、アドオンの使用状況に関する技術データと対話データも収集します。
 
 あなたが [AMO ウェブサイト](https://addons.mozilla.org/firefox/)を訪問した場合、Mozilla は、[Mozilla ウェブサイト、コミュニケーションおよび Cookie ](https://www.mozilla.org/privacy/websites/)に関する通知にしたがって、そのサイトの使用状況に関する技術データと対話データを収集します。
 
-#### その他の詳細 (データの設定を変更する方法など)
+*その他の詳細 (データの設定を変更する方法など):*[アドオンを削除または有効化する方法](https://support.mozilla.org/kb/disable-or-remove-add-ons)をご確認ください。[アドオンウェブサイト](https://addons.mozilla.org/firefox/)の[プライバシーに関する通知](https://www.mozilla.org/privacy/websites/)もご覧いただけます。
 
-[アドオンを削除または有効化する方法](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)をご確認ください。[アドオンウェブサイト](https://addons.mozilla.org/firefox/)の[プライバシーに関する通知](https://www.mozilla.org/privacy/websites/)もご覧いただけます。
+### 機能、パフォーマンス、安定性を維持および改善する
 
-### 機能、パフォーマンス、安定性を維持および改善するため
+Mozilla は、Firefox 内で[調査](https://support.mozilla.org/kb/shield)を行い、Firefox Labs を通じて特定の[実験的な機能](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)を提供することで、各種の機能やアイデアを、Firefox の全ユーザーに提供する前、または Firefox の中核製品に含める前にテストしています。これにより、ユーザーの要望やニーズに関して情報に基づいた判断を下すことができます。この調査では、技術、システムパフォーマンス、IP から推定される位置、設定、対話のデータが使用されます。
 
-Mozilla は、Firefox 内で[調査](https://support.mozilla.org/kb/shield)を行い、Firefox Labs を通じて特定の[実験的な機能](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)を提供することで、各種の機能やアイデアを、Firefox の全ユーザーに提供する前、または Firefox の中核製品に含める前にテストしています。これにより、ユーザーの要望やニーズに関して情報に基づいた判断を下すことができます。この調査では、技術、システムパフォーマンス、位置、設定、対話のデータが使用されます。
-
-また、Mozilla は、Firefox の操作性を維持し、機能やパフォーマンスを改善し、問題を特定・解決・診断するためにデータを処理する必要があります。これには、技術データ、位置データ、設定データのほか、対話データとシステムパフォーマンスデータ (開いたタブの数、メモリ使用量、アップデートのような自動プロセスの結果など) が使用されます。まれに、必要な情報の中にわずかなブラウジングデータ (たとえば、ページロードパフォーマンスモニタリングのトップレベルドメインなど) が含まれることがありますが、そのようなブラウジングデータは [OHTTP](https://support.mozilla.org/kb/ohttp-explained) を使って伝送されます。そのため、Mozilla は、この目的で収集したデータにあなたまたはあなたのデバイスを結びつけることはできません。
+また、Mozilla は、Firefox の操作性を維持し、機能やパフォーマンスを改善し、問題を特定・解決・診断するためにデータを処理する必要があります。これには、技術データ、IP から推定される位置データ、設定データのほか、対話データとシステムパフォーマンスデータ (開いたタブの数、メモリ使用量、アップデートのような自動プロセスの結果など) が使用されます。まれに、必要な情報の中にわずかなブラウジングデータ (たとえば、ページロードパフォーマンスモニタリングのトップレベルドメインなど) が含まれることがありますが、そのようなブラウジングデータは OHTTP を使って伝送されます。そのため、Mozilla は、この目的で収集したデータにあなたまたはあなたのデバイスを結びつけることはできません。
 
 デスクトップと Android で Firefox が予期しない問題に遭遇した場合、[Mozilla クラッシュレポーター](https://support.mozilla.org/kb/mozillacrashreporter)が、あなたに追加情報を送信する意思があるかどうかを確認します。この追加情報には、クラッシュの発生時に開いていたサイトなど、ブラウジングデータが含まれる場合があります。デスクトップと Android であなたがクラッシュレポートの自動送信を選択した場合、Mozilla は、毎回確認することなく、この情報を収集します。iOS のクラッシュレポートは、含む情報が少なく、デフォルトで自動送信されます。設定はいつでも変更できます。
 
-#### その他の情報 (データの設定を変更する方法など)
+*その他の詳細 (データの設定を変更する方法など):*[Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) を通じて、いつでも、登録している調査の[詳細を確認](https://support.mozilla.org/kb/shield)したり、すべての (または特定の) 調査をオプトアウトしたり、実験的な機能をオプトインしたりできます。また、Mozilla によって処理される技術データと対話データについて、無効化する方法を含めた[詳細を確認](https://support.mozilla.org/kb/technical-and-interaction-data)できます。
 
-[Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) を通じて、いつでも、登録している調査の[詳細を確認](https://support.mozilla.org/kb/shield)したり、すべての (または特定の) 調査をオプトアウトしたり、実験的な機能をオプトインしたりできます。また、Mozilla によって処理される技術データと対話データについて、無効化する方法を含めた[詳細を確認](https://support.mozilla.org/kb/technical-and-interaction-data)できます。
-
-### セキュリティを改善するため
+### セキュリティを改善する
 
 常に Firefox の最新バージョンを使用することが、脆弱性に対する安全の確保につながるため、Firefox のデスクトップバージョンは、定期的に Mozilla のサーバー (またはあなたが Firefox のインストールに使用した別のサービス) に接続し、ソフトウェアアップデートの有無を確認します。Firefox の Android 版と iOS 版のアップデートは、それぞれ Google Play ストアと Apple App Store によって管理されます。
 
 Mozilla は、悪意のあるアドオンを阻止するためにも技術データと設定データを処理します。
-これらの標準的なプロセスに加え、Mozilla は、[Google のセーフブラウジングサービス](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)を利用してあなたを悪意のあるダウンロードやフィッシング攻撃から守り、[証明書認証局](https://support.mozilla.org/kb/secure-website-certificate)を使ってウェブページと技術データを検証します。Mozilla は、全インターネットユーザーのプライバシーとセキュリティを改善する取り組みの一環として、フィンガープリント採取をより良く理解し、防止・阻止するために [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) を介して技術データを収集します。
+これらの標準的なプロセスに加え、Mozilla は、[Google のセーフブラウジングサービス](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)を利用してあなたを悪意のあるダウンロードやフィッシング攻撃から守り、[証明書認証局](https://support.mozilla.org/kb/secure-website-certificate)を使ってウェブページと技術データを検証します。Mozilla は、全インターネットユーザーのプライバシーとセキュリティを改善する取り組みの一環として、フィンガープリント採取をより良く理解し、防止・阻止するために OHTTP を介して技術データを収集します。
 
 [一部の Firefox ユーザー](https://support.mozilla.org/kb/firefox-dns-over-https)の方については、Firefox が DNS リクエストを、Mozilla の[リゾルバに対する厳格なプライバシー基準](https://wiki.mozilla.org/Security/DOH-resolver-policy)に同意したリゾルバサービスにルーティングします。これによって、ローカルネットワークへのプライバシー情報の漏洩および DNS セキュリティ攻撃に備えた対策を強化することができます。あなたの DNS リクエストのシステムログは、24 時間以内に当該サービスから削除され、DNS 解決以外の目的には使用されません。DNS over HTTPS の[詳細](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers)をご覧ください。
 
-#### その他の詳細 (データの設定を変更する方法など)
+*その他の詳細 (データの設定を変更する方法など):*[アップグレードとアドオンのブロックリスト](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)、[Google のセーフブラウジングサービス](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)、[OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/)、
 
-[アップグレードとアドオンのブロックリスト](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)、[Google のセーフブラウジングサービス](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)、および [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) の詳細をご覧いただくか、[技術データと対話データ](https://support.mozilla.org/kb/technical-and-interaction-data)をオフにすることができます。 
-
-### Firefox の使用状況を理解するため
+### Firefox の使用状況を理解する
 
 Mozilla は、あなたが Mozilla のサービスをどのように使用しているかを理解するために、 Firefox の使用量、設定言語、検索ツールの使用頻度、検索候補との対話頻度、ページのロード速度、表示される広告または [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) の数といった[データ](#bookmark-understand-usage)を処理します。これにより、Mozilla は、ユーザーが Mozilla のサービスにどのようにアクセスし、どのように使用しているかを測定し、ビジネスと Firefox の機能の改善に役立てることができます。
 
-#### その他の詳細 (データの設定を変更する方法など)
+*その他の詳細 (データの設定を変更する方法など):*[デスクトップ](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)と[モバイル](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)のデータ収集設定は、いつでも変更できます。「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、[毎日の使用頻度を送信する](https://support.mozilla.org/kb/usage-ping-settings)には影響しません。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。
 
-[デスクトップ](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings)と[モバイル](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、[毎日の使用頻度の送信](https://support.mozilla.org/kb/usage-ping-settings)には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。
-
-### Mozilla のサービスのマーケティングのため
+### Mozilla のサービスのマーケティング
 
 Firefox は、あなたが許可した場合に、どのウェブサイトドメインまたは広告キャンペーンがあなたに Mozilla のダウンロードページを紹介したのかに関するデータを Mozilla に送信します。このデータは、マーケティングの取り組みの理解と改善に役立ちます。また、Firefox は、これらのキャンペーンを測定・改善するために、情報をマーケティングパートナーと共有します。具体的にどの情報が共有されるかは、(Firefox とオペレーティングシステムをどこで見つけたかによって) 異なりますが、一般に、ダウンロードページがどのようにしてあなたに紹介されたか、あなたが Firefox をアクティブに使用しているか、が含まれます。デバイスに Firefox が事前インストールされている場合は、技術データと対話データ (デバイスの種類と、Firefox が使用されているかどうか) がマーケティングパートナーに送信され、また、Mozilla と共有されます。
 
-#### その他の詳細 (データの設定を変更する方法など)
-
-収集・共有される[キャンペーン測定データ](https://support.mozilla.org/kb/marketing-data)の詳細とオプトアウト方法をご覧ください。注: Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。
+*その他の詳細 (データの設定を変更する方法など):*収集・共有される[キャンペーン測定データ](https://support.mozilla.org/kb/desktop-attribution-privacy)の詳細とオプトアウト方法をご覧ください。Firefox が、履歴や検索クエリー、保存されたパスワードなどの情報をマーケティングテクノロジーパートナーと共有することはありません。Mozilla は、マーケティングキャンペーンの測定・改善に必要なデータのみを収集します。
 
 ### データを仮名化・匿名化・集計するため
 
-Mozilla は、Firefox の使用状況を理解する、マーケティングを測定するなど、前述のアクティビティの一環として、仮名化、匿名化、または集計したデータを作成することがあります。その際、識別子の削除、OFTTP、DAP など、状況に適したテクノロジーを利用して、データがあなたに結び付けられることを防ぎます。場合によっては、調査に役立てるため、または前述の合法なビジネス目的の一環として、集計・匿名化したデータを共有または公開することがあります (集計したインサイトを広告パートナーと共有するなど)。
+Mozilla は、Firefox の使用状況を理解する、マーケティングを測定するなど、前述のアクティビティの一環として、仮名化、匿名化、または集計したデータを作成することがあります。その際、識別子の削除、OHTTP、[DAP](https://divviup.org/about/) など、状況に適したテクノロジーを利用して、データがあなたに結び付けられることを防ぎます。場合によっては、調査に役立てるため、または前述の合法なビジネス目的の一環として、集計・匿名化したデータを共有または公開することがあります (集計したインサイトを広告パートナーと共有するなど)。
 
-### あなたと通信するため
+### あなたとの連絡
 
-Mozilla は、あなたの設定 (と、あなたが Mozilla アカウントを持っているかどうか) に応じて、製品内メッセージを介してあなたと通信したり、あなたにメッセージを送ったり (マーケティング関連のメッセージを含む)、あなたに調査・アンケートへの参加を依頼したり、カスタマーサポートへの連絡に応えたりすることがあります。あなたは、[Firefox 内で動作しないサイトを報告する](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report)など、Mozilla と直接連絡を取ることもできます。あなたがこのような手段を通じて Mozilla に個人データを送信した場合、Mozilla はそのデータを、あなたが送信した際の目的にのみ使用します。また、Mozilla は、サービス関連の連絡 (新機能、アップデート、セキュリティアラートなど) を誰が受け取ったかを把握するために、これらのコミュニケーションに関連する対話データを処理します。
+Mozilla は、あなたの設定 (と、あなたが Mozilla アカウントを持っているかどうか) に応じて、製品内メッセージを介してあなたと通信したり、あなたにメッセージを送ったり (マーケティング関連のメッセージを含む)、あなたに調査・アンケートへの参加を依頼したり、カスタマーサポートへの連絡に応えたりすることがあります。あなたは、[Firefox 内で動作しないサイトを報告する](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report)など、Mozilla と直接連絡を取ることもできます。あなたがこのような手段を通じて Mozilla に連絡を取った場合、Mozilla は共有いただいたデータを、あなたが送信した際の目的にのみ使用します。また、Mozilla は、サービス関連の連絡 (新機能、アップデート、セキュリティアラートなど) を誰が受け取ったかを把握するために、これらのコミュニケーションに関連する対話データを処理します。
 
-### 適用法に従い、有害、不正、または不法なアクティビティを特定・防止するため
+あなたが Firefox に関連して Mozilla のヘルプページを訪問した場合、Mozilla は[Mozilla ウェブサイト、コミュニケーション、および Cookie に関する通知](https://www.mozilla.org/privacy/websites/)に従って、そのサイトの使用状況に関する技術データと対話データを収集します。これは、サポートやヘルプページの使用状況を理解し、それらを改善するために行われます。
+
+### 適用法に従い、有害、不正、または不法なアクティビティを特定・防止する
 
 Mozilla は、適用法および保護目的に沿うためにあなたの個人データを処理することを求められる場合があります。たとえば
 
-* <a id="bookmark-authorities"></a>[法的要求](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)に応えるため、および[法的手続き](https://www.mozilla.org/about/policy/transparency/) (たとえば、政府当局からの召喚令状、取り調べ、または要求に応えるなど) に従うためMozilla に対し、特定のユーザーデータを政府に開示することを強制するには、有効な法的手続きが必要です。
+*[法的要求](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)に応えるため、および[法的手続き](https://www.mozilla.org/about/policy/transparency/) (たとえば、政府当局からの召喚令状、取り調べ、または要求に応えるなど) に従うMozilla に対し、特定のユーザーデータを政府に開示することを強制するには、有効な[法的手続き](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)が必要です。
 * 個人データにアクセスする権利や個人データを削除する権利など、プライバシー権の行使を求めるリクエストに応えるため。
 * 詐欺かも知れないアクティビティ、または、不法行為、サイバー攻撃、知的財産の侵害などの有害なアクティビティを特定・調査し、それに対処するするため (法的要求の提出または弁護を含む)。
 * 監査や企業セキュリティ管理などの社内コンプライアンスおよびセキュリティアクティビティを実行するため。
 
-## データの共有方法
+## あなたの個人データをどのように共有するか
 
 Mozilla は、前述のサービスを提供するために、個人データを次の者に開示する場合があります:
 
 |  |  |
 | ----- | ----- |
-| パートナー、サービスプロバイダー、サプライヤー、提携業者 | Mozilla は、上記の目的を果たすため、パートナー、サービスプロバイダー、サプライヤーおよび提携業者と協力します。Mozilla は、契約による保護を実施しているため、個人データを受け取る事業体は、契約を通じて、データを Mozilla の指示に従って取り扱うことを義務付けられます。  |
-| [当局](#bookmark-authorities)  | Mozilla に対し、特定のユーザーデータを政府に開示することを強制するには、有効な[法的手続き](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)が必要です。このような状況で、Mozilla は、適用法に従うため、および有害、不正または不法なアクティビティを特定・防止するために、この通知で規定している個人データを法執行機関、政府当局、または類似の機関に開示しなければならない場合があります。  |
-| リサーチャー | Mozilla がオープンソースという[ミッション](https://www.mozilla.org/about/manifesto/)を果たすとき。Mozilla は、時に、製品を改善し、オープンなウェブを促進するために情報を発表することがありますが、その際は、匿名化または集計した[形](https://wiki.mozilla.org/Data_Publishing)で発表します。|
-| Mozilla の管理下にある事業体と後継者  | グローバルな会社である Mozilla は、Mozilla の管理下にある関連会社および子会社とデータを共有します。合併、買収、資産売却といった企業取引の一環として個人データの開示が必要になることもあります。|
+| パートナー、サービスプロバイダー、サプライヤー、提携業者 | Mozilla は、上記の目的を果たすため、パートナー、サービスプロバイダー、サプライヤーおよび提携業者と協力します。Mozilla は、契約による保護を実施しているため、個人データを受け取る事業体は、契約を通じて、データを Mozilla の指示に従って取り扱うことを義務付けられます。[詳細はこちら](https://support.mozilla.org/kb/firefox-subprocessor-list)。 |
+| 法的権限を持つ機関 | Mozilla に対し、特定のユーザーデータを政府に開示することを強制するには、有効な[法的手続き](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)が必要です。このような状況で、Mozilla は、適用法に従うため、および有害、不正または不法なアクティビティを特定・防止するために、この通知で規定している個人データを法執行機関、政府当局、または類似の機関に開示しなければならない場合があります。 |
+| リサーチャー | Mozilla がオープンソースという[ミッション](https://www.mozilla.org/about/manifesto/)を果たすとき。Mozilla は、時に、製品を改善し、オープンなウェブを促進するために情報を発表することがありますが、その際は、匿名化または集計した[形](https://wiki.mozilla.org/Data_Publishing)で発表します。 |
+| Mozilla の管理下にある事業体および後継者 | グローバルな会社である Mozilla は、Mozilla の管理下にある関連会社および子会社とデータを共有します。合併、買収、資産売却といった企業取引の一環として個人データの開示が必要になることもあります。 |
 
-## データの保存期間
+## データの国際的な転送
+
+Mozilla (とそのサービス) は、米国を本拠としています。Mozilla はグローバルな会社であるため、このプライバシーに関する通知で言及しているサービスを提供するために、収集した情報に各地の従業員がアクセスする場合があり、また、データを弊社パートナーと共有した結果、それらのデータが他の地域に転送されることもあります。Mozilla は、必要に応じて、あなたの個人データを保護するために適切なメカニズム (欧州委員会その他の該当する機関によって承認された[標準契約条項](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses)など) を設置することを保証します。国際転送の際に実施される保護措置の情報、または関連する標準契約条項のコピーをご希望の場合は、[dpo@mozilla.com](mailto:dpo@mozilla.com) までご連絡ください。
+
+## データの保持期間
 
 Mozilla は、あなたの個人データを、このプライバシーに関する通知で概説した目的を果たすのに必要な期間のみ、保持します。一般に、個人データが 25 か月以上保持されることはありませんが、実際の保持期間は、データタイプや収集の目的によって異なります (たとえば、あなたがいつから Firefox ユーザーなのかを把握するため、「初見」の日付は、あなたが Firefox を使用する期間にわたって保持されます)。具体的な保持期間は、データの機密性、収集のコンテキスト、あなたの設定にもより、さらに、詐欺の防止、規制への準拠、またはサービスの継続などのために法的または契約上 Mozilla に課される、あなたのデータを保持する義務または削除する義務によっても異なります。Mozilla は、保持期間が過ぎた時点で、法律によって保持が求められない限り、あなたのデータを安全に削除します。
 
@@ -181,12 +162,12 @@ Firefox ユーザーは、次のような権利を有します。
 
 個人データに関して上記のいずれかの要求を行う場合は、Mozilla Corporation まで、[データ主体アクセス要求ポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)を通じてご連絡ください。プライバシーの権利を行使したがために Mozilla から差別を受けることは絶対にありません。個人データまたは Mozilla のプライバシー慣行について他にご不明な点がある場合は、[compliance@mozilla.com](mailto:compliance@mozilla.com) までお問い合わせください。
 
-UK または EEA にお住まいの方は、Mozilla のデータ保護責任者に連絡することもできます。[dpo@mozilla.com](mailto:dpo@mozilla.com) にメールを送信するか、以下の住所に郵送してください: 
+UK または EEA にお住まいの方は、Mozilla のデータ保護責任者に連絡することもできます。[dpo@mozilla.com](mailto:dpo@mozilla.com) にメールを送信するか、以下の住所に郵送してください:
 
-Bird & Bird DPO Services SRL <br>
-Avenue Louise 235 b 1 <br>
-1050 Brussels <br>
-Belgium
+Bird & Bird DPO Services SRL<br/>
+Avenue Louise 235 b 1<br/>
+1050 Brussels<br/>
+Belgium<br/>
 
 Mozilla は、適用されるデータ保護法に従ってデータ保護権を行使することを希望する個人からのリクエストにすべて応えます。Mozilla は、リクエストへの対応を進める前に、あなたの身元を確認するためにさらなる情報の提供を要請しなければならない場合があります。
 
@@ -198,38 +179,32 @@ Mozilla は、適用されるデータ保護法に従ってデータ保護権を
 
 Firefox は、[グローバルプライバシーコントロール](https://support.mozilla.org/kb/global-privacy-control) (GPC) も提供しています。これを有効にすると、ウェブサイトに対し、そのサイトにおけるあなたのブラウジングセッションに関する情報を販売または共有しないよう、自動的に通知されます。GPC は、カリフォルニア州、コロラド州、コネチカット州など、米国の一部の州において「販売しない」メカニズムとして機能します。また、GPC は、それらの地域や、EU、英国、米国のネバダ州、ユタ州、バージニア州といった地域において、ターゲティング広告のオプトアウト、または個人データの販売・共有の全般的な制限を求めるリクエストを示唆するためにも使用できます。
 
-## 国際データ転送で起こること
-
-Mozilla (とそのサービス) は、米国を本拠としています。Mozilla はグローバルな会社であるため、このプライバシーに関する通知で言及しているサービスを提供するために、収集した情報に各地の従業員がアクセスする場合があり、また、データを弊社パートナーと共有した結果、それらのデータが他の地域に転送されることもあります。Mozilla は、必要に応じて、あなたの個人データを保護するために適切なメカニズム (欧州委員会その他の該当する機関によって承認された[標準契約条項](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses)など) を設置することを保証します。国際転送の際に実施される保護措置の情報、または関連する標準契約条項のコピーをご希望の場合は、[dpo@mozilla.com](mailto:dpo@mozilla.com) までご連絡ください。
-
-## 適用性 (Firefox バージョン) と変更
-
-### 適用性
+## 適用範囲（Firefox バージョン）
 
 このプライバシーに関する通知は、Mozilla により配布された最新の通常版 Firefox に対するものです。別のところで Firefox を入手された場合、または古いバージョンを実行されている場合、お使いの Firefox は異なるプライバシー上の特性を含んでいる可能性があります。
 
 Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition、TestFlight などのチャンネルを通じて配布されたもの) は開発プラットフォームであり、試験的な機能や調査を含めて頻繁に更新されます。このプライバシーに関する通知に記載されているデータ収集に加え、これらのバージョンは初期設定で、特定のタイプのウェブアクティビティやクラッシュデータを Mozilla (および場合によっては弊社パートナー) に送信することがあります。
 
-### 変更
+## 変更
 
 このポリシーおよび通知に変更を加える必要が生じた場合、Mozilla は、更新内容をオンラインで掲載し、この通知の発効日を更新します。変更が多い場合には、目に付きやすいように、ブログ投稿やフォーラムなど、Mozilla が同様のお知らせに使用している通常の媒体でもその更新内容を発表します。
 
-## データタイプの定義
+## データの定義
 
 | データタイプ | 説明 | Firefox ユーザーの例 |
 | ----- | ----- | ----- |
-| 技術データ | あなたが Mozilla のサービスへのアクセスに使用しているハードウェアやその構成、Firefox との接続に関する情報。  | デバイスの種類、オペレーティングシステム、IP アドレス、ISP (インターネットサービスプロバイダー)。  |
-| 設定 | プライバシー設定やツールバー設定など、サービスの提供方法に関するあなたの設定。特に選択を行っていない場合は、デフォルト設定が使用されます。  | 強化型トラッキング防止機能の設定、Cookie の設定、許可 (位置情報、カメラ、マイク)、ツールバーのカスタマイズ。|
-| 位置 | Mozilla は、IP アドレスから国、都市、または地域レベルであなたの位置を推測します。| 国コード、都市。  |
-| 正確な位置 | あなたの正確な位置 (数フィート・数メートル範囲)。| 正確な位置。  |
-| 言語設定 | Mozilla のサービスとの対話にあなたが使用していると推測される言語、または設定言語 (設定で選択されている場合)| 言語。  |
-| 一意識別子  | サービスとの対話を管理するためにさまざまな時点で生成される一意の識別子。  | クライアント ID、セッション ID、Cookie識別子。  |
-| システムパフォーマンスデータ | サービスがあなたのデバイスでどのように機能しているかを示すデータ。  | メモリ使用量、ページのレンダリング速度。|
-| 対話データ | タブをいくつ開いたか、何をクリックしたかなど、あなたが Mozilla のサービスをどのように使用しているかを示すデータ。  | クリック回数、インプレッションデータ、アトリビューションデータ、検索回数、ページ滞在時間、広告・スポンサータイルのクリック回数。  |
-| ブラウジングデータ | あなたが訪問したウェブサイトと URL に関する情報。これには、ブラウジングデータのカテゴリー (旅行、ショッピング、SNS)、トップレベルドメイン (example.com)、または訪問したウェブページが含まれることがあります。  | ブラウジングカテゴリー、トップレベルドメイン (TLD)、 特定の URL。  |
-| 検索データ | 検索された言葉の検索カテゴリー、検索キーワード、または検索クエリー。  | 検索カテゴリー (食品、旅行)、キーワード (「ボストン」)、検索語句 (「ボストンの今日の天気」)。  |
-| コンテンツ | 画像をアップロードしたり、アンケートに答えたりした場合は、そのデータが処理されることがあります。| アップロード画像、ブックマーク、コメント、アンケート回答。  |
-| 連絡先データ | 連絡先データを提供した場合は、そのデータが処理されることがあります。  | メールアドレス、電話番号。|
+| 技術データ | あなたが Mozilla のサービスへのアクセスに使用しているハードウェアやその構成、Firefox との接続に関する情報。 | デバイスの種類、オペレーティングシステム、IP アドレス、ISP (インターネットサービスプロバイダー)。 |
+| 設定 | プライバシー設定やツールバー設定など、サービスの提供方法に関するあなたの設定。特に選択を行っていない場合は、デフォルト設定が使用されます。 | 強化型トラッキング防止機能の設定、Cookie の設定、許可 (位置情報、カメラ、マイク)、ツールバーのカスタマイズ。 |
+| 位置情報 | Mozilla は、IP アドレスから国、都市、または地域レベルであなたの位置を推測します。 | 国コード、都市。 |
+| 正確な位置 | あなたの正確な位置 (数フィート・数メートル範囲) | 正確な位置。 |
+| 言語設定 | Mozilla のサービスとの対話にあなたが使用していると推測される言語、または設定言語 (設定で選択されている場合) | 言語。 |
+| 一意識別子 | サービスとの対話を管理するためにさまざまな時点で生成される一意の識別子。 | クライアント ID、セッション ID、Cookie 識別子。 |
+| システムパフォーマンスデータ | サービスがあなたのデバイスでどのように機能しているかを示すデータ。 | メモリ使用量、ページのレンダリング速度。 |
+| 対話データ | タブをいくつ開いたか、何をクリックしたかなど、あなたが Mozilla のサービスをどのように使用しているかを示すデータ。 | クリック回数、インプレッションデータ、アトリビューションデータ、検索回数、ページ滞在時間、広告・スポンサータイルのクリック回数。 |
+| ブラウジングデータ | あなたが訪問したウェブサイトと URL に関する情報。これには、ブラウジングデータのカテゴリー (旅行、ショッピング、SNS)、トップレベルドメイン (example.com)、または訪問したウェブページが含まれることがあります。 | ブラウジングカテゴリー、トップレベルドメイン (TLD)、 特定の URL。 |
+| 検索データ | 検索された言葉の検索カテゴリー、検索キーワード、または検索クエリー。 | 検索カテゴリー (食品、旅行)、キーワード (「ボストン」)、検索語句 (「ボストンの今日の天気」)。 |
+| コンテンツ | 画像をアップロードしたり、アンケートに答えたりした場合は、そのデータが処理されることがあります。 | アップロード画像、ブックマーク、コメント、アンケート回答。 |
+| 連絡先データ | 連絡先データを提供した場合は、そのデータが処理されることがあります。 | メールアドレス、電話番号。 |
 
 ## 法的根拠
 
@@ -259,7 +234,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Firefox の操作に必要な機能をあなたに提供するという<strong>契約</strong>。</p>
                 <p>追加の機能性やアクセシビリティ、サービス、よりパーソナライズされた体験を提供することについての<strong>正当な利益</strong>。</p>
             </td>
-            <td><a href="https://dictionary.telemetry.mozilla.org/apps/firefox_desktop">デスクトップ</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> で Mozilla が収集する情報について、詳細をご確認ください。<a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">デスクトップ</a>と<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">モバイル</a>のデータ収集設定は、いつでも変更できます。また、<a href="https://support.mozilla.org/kb/website-translation">翻訳</a>や <a href="https://support.mozilla.org/kb/pdf-alt-text">PDF の画像に代替テキストを追加する</a>ことについての詳細をご確認ください。</td>
+            <td>また、<a href="https://support.mozilla.org/kb/website-translation">翻訳</a>や <a href="https://support.mozilla.org/kb/pdf-alt-text">PDF の画像に代替テキストを追加する</a>ことについての詳細をご確認ください。</td>
         </tr>
         <tr>
             <td>Firefox をニーズに合わせて調整するため</td>
@@ -270,7 +245,6 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
             </td>
             <td>
                 <p>あなたのデバイス上のデータを機能させることについての<strong>正当な利益</strong>。</p>
-                <p>(Google マップなどの) ウェブサイトに対し、位置関連の機能を利用するためにあなたの正確な位置情報へのアクセスを許可した場合の<strong>同意</strong>。</p>
             </td>
             <td>あなたのデバイス上で処理されるデータは、あなただけが制御できます。<a href="https://support.mozilla.org/kb/storage">ローカルストレージの設定</a>の管理、または<a href="https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox">ブラウジング履歴の消去</a>はいつでもできます。</td>
         </tr>
@@ -290,7 +264,6 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
             </td>
             <td>
                 <p>検索機能の提供と改善、およびよりパーソナライズした検索体験とスポンサー付き検索結果の提供についての<strong>正当な利益</strong>。</p>
-                <p>強化型検索体験をオプトインしてさらなる個人データを共有することをあなたが選択した場合の<strong>同意</strong>。</p>
             </td>
             <td><a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">検索設定</a>と<a href="https://support.mozilla.org/kb/search-suggestions-firefox">検索候補機能</a>は、いつでも変更できます。<a href="https://blog.mozilla.org/en/products/firefox/firefox-search-update/">検索の分類</a>について、詳細をご覧ください。</td>
         </tr>
@@ -306,10 +279,11 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                     <li>システムパフォーマンスデータ</li>
                     <li>対話データ</li>
                     <li>検索データ</li>
+                    <li>ブラウジングデータ</li>
                 </ul>
             </td>
             <td>あなたに興味のあるコンテンツを提供し、関連性の高い広告を表示 (して Mozilla による製品やサービスの提供に役立つように) することについての<strong>正当な利益</strong>。</td>
-            <td><a href="https://support.mozilla.org/kb/sponsor-privacy">デスクトップ</a>、<a href="https://support.mozilla.org/kb/customize-firefox-home-screen">Android</a>、または <a href="https://support.mozilla.org/kb/customize-firefox-home-ios">iOS</a> のデータ設定を含む、<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">新しいタブページの管理方法</a>について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、<a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">デスクトップ</a>および<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">モバイル</a>上でデータをオフにすることで、いつでもオプトアウトできます。</td>
+            <td><a href="https://support.mozilla.org/kb/sponsor-privacy">データ設定</a>を含む<a href="https://support.mozilla.org/kb/customize-your-new-tab-page">新しいタブページの管理方法</a>について詳細をご確認ください。あなたのデータがパーソナライズ目的または広告目的で処理されることを望まない場合は、パーソナライズまたはスポンサー付きコンテンツをオフにすることで、いつでもオプトアウトできます。</td>
         </tr>
         <tr>
             <td>Mozilla アカウントを提供するため</td>
@@ -328,20 +302,6 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
             </td>
             <td>あなたが AI チャットボットの有効化を選択した場合の<strong>同意</strong>。</td>
             <td>Firefox で AI チャットボットを<a href="https://support.mozilla.org/kb/ai-chatbot">管理</a>または<a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">削除</a>する方法についての詳細をご確認ください。</td>
-        </tr>
-        <tr>
-            <td>レビューチェッカーを提供するため (スポンサー付きコンテンツの提供を含む)</td>
-            <td>
-                <ul>
-                    <li>技術データ</li>
-                    <li>設定データ</li>
-                    <li>一意識別子</li>
-                    <li>対話データ</li>
-                    <li>ブラウジングデータ</li>
-                </ul>
-            </td>
-            <td>あなたがレビューチェッカーの有効化を選択した場合の<strong>同意</strong>。</td>
-            <td><a href="https://support.mozilla.org/kb/review-checker-review-quality">Firefox レビューチェッカーの使用方法</a>や、<a href="https://support.mozilla.org/kb/ohttp-explained">OHTTP</a> などのプライバシー保護テクノロジーの実装について詳細をご確認ください。</td>
         </tr>
         <tr>
             <td>アドオン (addons.mozilla.org、「AMO」) を有効化するため (パーソナライズされた提案の提供を含む)</td>
@@ -400,7 +360,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>適用されるプライバシー規制およびサイバーセキュリティ規制の要件にしたがって個人データを保護することによる<strong>法律の遵守</strong>。</p>
                 <p>全ユーザーに追加のセキュリティ措置を提供し、インターネット全体のセキュリティを強化すること (フィンガープリント採取防止の取り組みなど) についての<strong>正当な利益</strong>。</p>
             </td>
-            <td><a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">アップグレードとアドオンのブロックリスト</a>、<a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google のセーフブラウジングサービス</a>、および <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a> の詳細をご覧いただくか、<a href="https://support.mozilla.org/kb/technical-and-interaction-data">技術データと対話データ</a>をオフにすることができます。</td>
+            <td><a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">アップグレードとアドオンのブロックリスト</a>、<a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google のセーフブラウジングサービス</a>、<a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a> の詳細をご覧ください。</td>
         </tr>
         <tr>
             <td><a id="bookmark-understand-usage"></a>Firefox の使用状況を理解するため</td>
@@ -420,7 +380,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
                 <p>Firefox の使用状況を理解して改善に役立て、使用状況レポートおよび予測のようなビジネス機能を実行することについての<strong>正当な利益。</strong></p>
                 <p>適用法の下で求められる場合 (たとえば、必須でない Cookie が使用される場合)、またはユーザーがアンケートに回答したり、自発的にその他の情報を送信した場合の<strong>同意</strong>。</p>
             </td>
-            <td><a href="https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings">デスクトップ</a>と<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">モバイル</a>のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、<a href="https://support.mozilla.org/kb/usage-ping-settings">毎日の使用頻度の送信</a>には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。</td>
+            <td><a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">デスクトップ</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>、<a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> で Mozilla が収集する情報について、詳細をご確認ください。<a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">デスクトップ</a>と<a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">モバイル</a>のデータ収集設定は、いつでも変更できます (「Firefox が技術データと対話データを Mozilla に送信することを許可する」の選択を解除しても、<a href="https://support.mozilla.org/kb/usage-ping-settings">毎日の使用頻度の送信</a>には影響しません)。「毎日の使用頻度を送信する」は、あるユーザーが Firefox を使用している、という匿名化された情報を Mozilla に提供するだけで、この情報はあなたに関するその他のデータに紐づけられていません。この機能は、設定でオプトアウトできます。</td>
         </tr>
         <tr>
             <td>Mozilla のサービスのマーケティングのため</td>
@@ -482,7 +442,7 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
     </tbody>
 </table>
 
-## 検索プロバイダーのプライバシーポリシー
+## 検索プロバイダーのプライバシー通知
 
 [Google](https://policies.google.com/privacy)
 
@@ -495,3 +455,5 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+
+[Perplexity](https://www.perplexity.ai/hub/legal/privacy-policy)
