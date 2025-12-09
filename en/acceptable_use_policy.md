@@ -20,4 +20,4 @@ You may not use any Mozilla service in a way that violates this Acceptable Use P
 
 These are only examples. You should not consider this a complete list, and we may update the list from time to time. Mozilla reserves the right to remove any content or suspend any users that it deems in violation of these conditions.
 
-Please also be aware of Mozilla’s [Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/), which address participation in Mozilla communities. 
+Please also be aware of Mozilla’s [Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/), which address participation in Mozilla communities.

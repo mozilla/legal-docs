@@ -1,4 +1,4 @@
-﻿# Condiciones de uso de Firefox
+# Condiciones de uso de Firefox
 
 Vigente desde el 10 de junio de 2025
 {: datetime="2025-06-10" }

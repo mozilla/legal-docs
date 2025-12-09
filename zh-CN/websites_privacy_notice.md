@@ -5,7 +5,7 @@
 
 我们十分重视您的隐私。当 Mozilla（即我们）收集您的信息时，我们的 [Mozilla 隐私政策](https://www.mozilla.org/privacy/)描述了我们如何处理这些信息。
 
-本隐私声明适用于 Mozilla 运营的网站及移动应用程序，包括域名 mozilla.org、firefox.com 等。例如，这包括 addons.mozilla.org、 bugzilla.mozilla.org、 careers.mozilla.org、 community.mozilla.org、 developer.mozilla.org、 foundation.mozilla.org、 people.mozilla.org、 support.mozilla.org 和 wiki.mozilla.org。
+本隐私声明适用于 Mozilla 运营的网站及移动应用程序，包括域名 mozilla.org、firefox.com 等。例如，这包括 addons.mozilla.org、 bugzilla.mozilla.org、 careers.mozilla.org、 community.mozilla.org、 developer.mozilla.org、 mozillafoundation.org、 people.mozilla.org、 support.mozilla.org 和 wiki.mozilla.org。
 
 ## 须知
 

@@ -1,4 +1,4 @@
-﻿# Gebruiksvoorwaarden van Firefox
+# Gebruiksvoorwaarden van Firefox
 
 Van kracht vanaf 10 juni 2025
 {: datetime="2025-06-10" }

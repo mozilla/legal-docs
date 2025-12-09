@@ -1,4 +1,4 @@
-﻿# Aviso de privacidade do Firefox Focus e do Firefox Klar
+# Aviso de privacidade do Firefox Focus e do Firefox Klar
 
 Data de vigência: terça-feira, 22 de abril de 2025
 {: datetime="2025-04-22" }

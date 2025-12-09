@@ -1,4 +1,4 @@
-﻿# Zasady prywatności przeglądarki Firefox - Preview
+# Zasady prywatności przeglądarki Firefox - Preview
 
 Data wejścia w życie: 2 czerwca 2025 r.
 {: datetime="2025-06-02" }

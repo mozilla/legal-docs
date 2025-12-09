@@ -1,7 +1,9 @@
-﻿# Prohlášení o ochraně osobních údajů Firefox
+# Prohlášení o ochraně osobních údajů Firefox
 
 Účinné od 2. červen 2025
 {: datetime="2025-06-02" }
+
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Aktualizujeme naše Oznámení o ochraně osobních údajů. Kliknutím sem zobrazíte novou verzi.</a>
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 

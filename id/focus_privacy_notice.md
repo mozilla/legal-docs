@@ -1,4 +1,4 @@
-﻿# Pemberitahuan Privasi Firefox Focus dan Klar
+# Pemberitahuan Privasi Firefox Focus dan Klar
 
 Berlaku 22 April 2025
 {: datetime="2025-04-22" }

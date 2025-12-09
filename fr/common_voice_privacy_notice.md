@@ -29,5 +29,3 @@ En outre, dans le cadre spécifique de Common Voice, nous traitons également le
 Nous pouvons divulguer les bases de données Common Voice à des sociétés affiliées, y compris des sociétés mères, filiales, sociétés affiliées actuelles ou futures, et d'autres organisations sous contrôle ou propriété communs avec la Fondation Mozilla.
 
 [En savoir plus](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
-
-

@@ -1,4 +1,4 @@
-﻿# Firefox Focus 和 Firefox Klar 隐私声明
+# Firefox Focus 和 Firefox Klar 隐私声明
 
 2025 年 4 月 22 日生效
 {: datetime="2025-04-22" }

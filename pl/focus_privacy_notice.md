@@ -1,4 +1,4 @@
-﻿# Firefox Focus i Firefox Klar — powiadomienie o ochronie prywatności
+# Firefox Focus i Firefox Klar — powiadomienie o ochronie prywatności
 
 Data wejścia w życie: 22 kwietnia 2025 r.
 {: datetime="2025-04-22" }
