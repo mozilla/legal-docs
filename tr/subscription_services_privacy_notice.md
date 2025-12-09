@@ -80,4 +80,3 @@ Kişisel verilerinizle veya gizlilik uygulamalarımızla ilgili başka soruları
 Yaşadıkları yer neresi olursa olsun, veri koruma haklarını kullanmak isteyen kişilerden aldığımız tüm taleplere yanıt veriyoruz. Yasal bir gereksinim yapmamızı engellemediği veya yasal bir istisna geçerli olmadığı sürece taleplerinizi yerine getiriyoruz.
 
 Lütfen genel destek yardımı için [forumlarımızı](https://support.mozilla.org/) ziyaret edin.
-

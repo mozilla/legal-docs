@@ -81,4 +81,3 @@ Se você tiver outras dúvidas relacionadas a dados pessoais ou às nossas prát
 Respondemos a todas as solicitações recebidas de pessoas que desejam exercer seus direitos de proteção de dados, independentemente de seu país de residência. Atenderemos à sua solicitação, a menos que não tenhamos permissão legal ou se uma exceção legal for aplicável.
 
 Acesse nossos [fóruns](https://support.mozilla.org/) para obter ajuda geral.
-

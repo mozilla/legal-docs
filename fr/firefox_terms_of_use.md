@@ -1,4 +1,4 @@
-﻿# Conditions d'utilisation de Firefox
+# Conditions d'utilisation de Firefox
 
 Date d'effet : mardi 10 juin 2025
 {: datetime="2025-06-10" }

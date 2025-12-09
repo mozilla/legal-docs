@@ -80,5 +80,4 @@ Mozilla 可以出于任何原因随时暂停或终止任何人对 Common Voice �
 
 ## 9.适用法律
 
-这些条款受美国加州法律的管辖。这些条款是您与 Mozilla 之间关于 Common Voice 的完整协议。 
-
+这些条款受美国加州法律的管辖。这些条款是您与 Mozilla 之间关于 Common Voice 的完整协议。

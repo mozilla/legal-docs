@@ -109,4 +109,3 @@ USA
 电话：650-903-0800  
 传真：650-903-0875  
 Legal-notices at mozilla.com
-

@@ -1,4 +1,4 @@
-﻿# Firefox felhasználási feltételek
+# Firefox felhasználási feltételek
 
 Hatályos: 2025. június 10-től
 {: datetime="2025-06-10" }

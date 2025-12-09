@@ -80,4 +80,3 @@ Nếu có bất kỳ câu hỏi nào khác liên quan đến dữ liệu cá nh�
 Chúng tôi trả lời mọi yêu cầu mà chúng tôi nhận được từ những cá nhân muốn thực hiện quyền bảo vệ dữ liệu của họ, bất kể cá nhân đó sống ở đâu. Chúng tôi sẽ tôn trọng yêu cầu của bạn trừ khi có yêu cầu pháp lý ngăn cản chúng tôi làm như vậy hoặc có ngoại lệ pháp lý được áp dụng.
 
 Vui lòng truy cập [diễn đàn](https://support.mozilla.org/) của chúng tôi để được trợ giúp về các vấn đề thường gặp.
-

@@ -80,5 +80,4 @@ Las contribuciones que envíes a Mozilla seguirán estando disponibles públicam
 
 ## 9. Ley aplicable
 
-La ley de California se aplica a estos Términos. Estos Términos son el acuerdo completo entre tú y Mozilla con respecto a Common Voice. 
-
+La ley de California se aplica a estos Términos. Estos Términos son el acuerdo completo entre tú y Mozilla con respecto a Common Voice.

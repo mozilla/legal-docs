@@ -1,4 +1,4 @@
-﻿# Informativa sulla privacy di Firefox Focus e Firefox Klar
+# Informativa sulla privacy di Firefox Focus e Firefox Klar
 
 In vigore da martedì 22 aprile 2025
 {: datetime="2025-04-22" }
