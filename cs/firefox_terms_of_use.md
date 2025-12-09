@@ -1,4 +1,4 @@
-﻿# Podmínky používání Firefoxu
+# Podmínky používání Firefoxu
 
 Účinné od 10. června 2025
 {: datetime="2025-06-10" }

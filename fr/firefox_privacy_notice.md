@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité de Firefox
+# Politique de confidentialité de Firefox
 
 Date d'effet : lundi 2 juin 2025
 {: datetime="2025-06-02" }

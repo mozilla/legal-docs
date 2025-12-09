@@ -1,4 +1,4 @@
-﻿# Prohlášení o ochraně osobních údajů Firefox
+# Prohlášení o ochraně osobních údajů Firefox
 
 Účinné od 2. červen 2025
 {: datetime="2025-06-02" }

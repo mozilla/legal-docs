@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité de Firefox Focus et Klar
+# Politique de confidentialité de Firefox Focus et Klar
 
 Date d'effet : mardi 22 avril 2025
 {: datetime="2025-04-22" }

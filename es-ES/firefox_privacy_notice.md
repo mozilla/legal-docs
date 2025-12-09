@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad de Firefox
+# Aviso de privacidad de Firefox
 
 Vigente desde el lunes, 2 de junio de 2025
 {: datetime="2025-06-02" }

@@ -1,4 +1,4 @@
-﻿# Pemberitahuan Privasi Firefox
+# Pemberitahuan Privasi Firefox
 
 Berlaku 02 Juni 2025
 {: datetime="2025-06-02" }

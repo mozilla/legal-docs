@@ -1,4 +1,4 @@
-﻿# Firefox Focus és Firefox Klar adatvédelmi nyilatkozat
+# Firefox Focus és Firefox Klar adatvédelmi nyilatkozat
 
 Hatályos: 2025. április 22-től
 {: datetime="2025-04-22" }

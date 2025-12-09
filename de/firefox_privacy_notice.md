@@ -1,4 +1,4 @@
-﻿# Firefox-Datenschutzhinweis
+# Firefox-Datenschutzhinweis
 
 Gültig ab Montag, 2. Juni 2025
 {: datetime="2025-06-02" }

@@ -1,4 +1,4 @@
-﻿# Oznámení o ochraně osobních údajů Firefox Focus a Firefox Klar
+# Oznámení o ochraně osobních údajů Firefox Focus a Firefox Klar
 
 Účinné od 22. dubna 2025
 {: datetime="2025-04-22" }

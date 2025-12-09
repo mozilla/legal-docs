@@ -1,4 +1,4 @@
-﻿# Firefox-privacyverklaring
+# Firefox-privacyverklaring
 
 Van kracht vanaf maandag 2 juni 2025
 {: datetime="2025-06-02" }
