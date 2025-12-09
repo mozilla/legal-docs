@@ -81,3 +81,4 @@ The Contributions you submit to Mozilla will remain publicly available as part o
 ## 9. Governing Law
 
 California law applies to these Terms. These Terms are the entire agreement between you and Mozilla regarding Common Voice. 
+
