@@ -3,6 +3,8 @@
 Gültig ab Montag, 2. Juni 2025
 {: datetime="2025-06-02" }
 
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Wir aktualisieren unseren Datenschutzhinweis. Klicken Sie hier, um die neue Version anzuzeigen.</a>
+
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
 Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontrolle über die Informationen haben, die Sie online teilen, sowie die Informationen, die Sie mit uns teilen. In diesem Datenschutzhinweis erläutern wir, welche Daten wir wie und zu welchen Zwecken verarbeiten. Dann erklären wir, wie Sie Entscheidungen darüber treffen können, wie wir Ihre Daten verarbeiten.

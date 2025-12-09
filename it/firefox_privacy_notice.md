@@ -3,6 +3,8 @@
 In vigore da lunedì 2 giugno 2025
 {: datetime="2025-06-02" }
 
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Stiamo aggiornando la nostra Informativa sulla privacy. Clicca qui per vedere la nuova versione.</a>
+
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet
 
 Per questo Firefox, così come tutti i nostri prodotti, è stato creato in modo da offrire agli utenti maggiore controllo sulle informazioni condivise online e con noi. In questa Informativa sulla privacy spieghiamo quali dati trattiamo, come lo facciamo e per quali scopi. Quindi, spieghiamo come puoi esercitare le tue scelte sulle modalità di trattamento dei tuoi dati.

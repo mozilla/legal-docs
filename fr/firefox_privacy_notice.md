@@ -3,6 +3,8 @@
 Date d'effet : lundi 2 juin 2025
 {: datetime="2025-06-02" }
 
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Nous avons mis à jour notre Politique de confidentialité. Cliquez ici pour voir la nouvelle version.</a>
+
 ## Chez Mozilla, nous pensons que la confidentialité est fondamentale pour sécuriser Internet
 
 C’est pourquoi nous avons développé Firefox, et tous nos autres produits, pour vous permettre de garder le contrôle des informations que vous partagez en ligne et de celles que vous partagez avec nous. Dans cette Politique de confidentialité, nous expliquons quelles données nous traitons, comment nous les traitons, et à quelles fins. Nous expliquons d'autre part comment vous pouvez exercer vos choix sur la façon dont nous traitons vos informations.
