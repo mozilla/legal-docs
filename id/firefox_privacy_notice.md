@@ -3,6 +3,8 @@
 Berlaku 02 Juni 2025
 {: datetime="2025-06-02" }
 
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Kami memperbarui Pemberitahuan Privasi kami. Klik di sini untuk melihat versi barunya.</a>
+
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 
 Oleh karena itu, kami membangun Firefox, dan semua produk kami, untuk memberi Anda kontrol lebih atas informasi yang dibagikan online dan dibagikan kepada kami. Dalam Pemberitahuan Privasi ini, kami menjelaskan data apa saja yang kami proses, cara kami memprosesnya, dan untuk tujuan apa. Kemudian, kami menjelaskan cara Anda menentukan pilihan tentang cara kami memproses informasi Anda.

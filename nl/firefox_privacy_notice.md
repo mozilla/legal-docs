@@ -3,6 +3,8 @@
 Van kracht vanaf maandag 2 juni 2025
 {: datetime="2025-06-02" }
 
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">We werken onze privacyverklaring bij. Klik hier om de nieuwe versie te bekijken.</a>
+
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
 
 Dat is de reden waarom we Firefox en al onze producten maken: zodat u meer controle hebt over de informatie die u online deelt en over de informatie die u met ons deelt. In deze Privacyverklaring leggen we uit welke gegevens we verwerken, hoe we dat doen en voor welk doel. Vervolgens leggen we uit welke keuzes u hebt voor hoe we uw informatie verwerken en hoe u deze kunt uitoefenen.
