@@ -67,7 +67,7 @@ Se você habilitar o chatbot na barra lateral e/ou pelo atalho, a Mozilla não t
 
 ### Fornecer e habilitar extensões (addons.mozilla.org):
 
-Você pode instalar extensões no site [addons.mozilla.org](http://addons.mozilla.org) (“AMO”) ou no Gerenciador de extensões do Firefox, acessível no botão de menu do navegador, na barra de ferramentas. Tratamos suas consultas de pesquisa no Gerenciador de extensões para fornecer sugestões de extensões para você. Ao instalar uma extensão, o Firefox trata dados técnicos, de localização baseada no IP e de configurações, e se conecta periodicamente aos servidores da Mozilla para instalar e aplicar as atualizações corretas à extensão. Também coletamos dados técnicos e de interação sobre o uso de extensões para ajudar a melhorar o Firefox.
+Você pode instalar extensões no site [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) ou no Gerenciador de extensões do Firefox, acessível no botão de menu do navegador, na barra de ferramentas. Tratamos suas consultas de pesquisa no Gerenciador de extensões para fornecer sugestões de extensões para você. Ao instalar uma extensão, o Firefox trata dados técnicos, de localização baseada no IP e de configurações, e se conecta periodicamente aos servidores da Mozilla para instalar e aplicar as atualizações corretas à extensão. Também coletamos dados técnicos e de interação sobre o uso de extensões para ajudar a melhorar o Firefox.
 
 Quando você acessa o [site AMO](https://addons.mozilla.org/firefox/), a Mozilla coleta dados técnicos e de interação sobre seu uso do site, de acordo com [Sites, Comunicações e aviso de privacidade de cookies](https://www.mozilla.org/privacy/websites/) da Mozilla.
 

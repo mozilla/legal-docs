@@ -67,7 +67,7 @@ Ha úgy dönt, hogy engedélyezi a csevegőbotot az oldalsávon és/vagy egy par
 
 ### Bővítmények biztosítása és engedélyezése (addons.mozilla.org):
 
-A bővítményeket az [addons.mozilla.org](http://addons.mozilla.org) („AMO”) webhelyről vagy a Firefox Bővítménykezelőjéből telepítheti, amely az eszköztár Firefox menügombjával érhető el. A Bővítménykezelő kezeli a keresési lekérdezéseit, hogy javasolt bővítményeket biztosíthassuk. Ha úgy dönt, hogy bármilyen bővítményt telepít, a Firefox kezeli a műszaki, IP-címből származó hely- és beállítási adatokat, és rendszeresen csatlakozik a Mozilla kiszolgálóihoz, hogy telepítse és alkalmazza a bővítmények megfelelő frissítéseit. Technikai és interakciós adatokat is gyűjtünk a bővítmények használatáról a Firefox fejlesztéséhez.
+A bővítményeket az [addons.mozilla.org](https://addons.mozilla.org) („AMO”) webhelyről vagy a Firefox Bővítménykezelőjéből telepítheti, amely az eszköztár Firefox menügombjával érhető el. A Bővítménykezelő kezeli a keresési lekérdezéseit, hogy javasolt bővítményeket biztosíthassuk. Ha úgy dönt, hogy bármilyen bővítményt telepít, a Firefox kezeli a műszaki, IP-címből származó hely- és beállítási adatokat, és rendszeresen csatlakozik a Mozilla kiszolgálóihoz, hogy telepítse és alkalmazza a bővítmények megfelelő frissítéseit. Technikai és interakciós adatokat is gyűjtünk a bővítmények használatáról a Firefox fejlesztéséhez.
 
 Amikor felkeresi az [AMO webhelyét](https://addons.mozilla.org/firefox/), a Mozilla technikai és interakciós adatokat gyűjt a webhely Ön általi használatáról a [Mozilla webhelyekre, kommunikációra és cookie-kra vonatkozó nyilatkozatának](https://www.mozilla.org/privacy/websites/) megfelelően.
 

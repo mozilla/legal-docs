@@ -67,7 +67,7 @@ If you choose to enable a chatbot in the sidebar and/or through a shortcut, Mozi
 
 ### Provide and enable add-ons (addons.mozilla.org):
 
-You can install add-ons from [addons.mozilla.org](http://addons.mozilla.org) (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar. We process your search queries in the Add-ons Manager to be able to provide you with suggested add-ons. If you choose to install any add-ons, Firefox will process technical, IP-derived location, and settings data, and periodically connect with Mozilla’s servers to install and apply the correct updates to your add-ons. We also collect technical and interaction data on usage of add-ons, to help improve Firefox.
+You can install add-ons from [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar. We process your search queries in the Add-ons Manager to be able to provide you with suggested add-ons. If you choose to install any add-ons, Firefox will process technical, IP-derived location, and settings data, and periodically connect with Mozilla’s servers to install and apply the correct updates to your add-ons. We also collect technical and interaction data on usage of add-ons, to help improve Firefox.
 
 When you visit the [AMO website](https://addons.mozilla.org/firefox/), Mozilla collects technical and interaction data about your usage of the site in accordance with our [Mozilla Websites, Communications and Cookies](https://www.mozilla.org/privacy/websites/) notice.
 
