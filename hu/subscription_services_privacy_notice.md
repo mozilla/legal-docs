@@ -80,3 +80,4 @@ Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi g
 Az adatvédelmi jogaikat gyakorolni kívánó egyénektől kapott minden megkeresésre válaszolunk, függetlenül attól, hogy az egyének hol tartózkodnak. Eleget teszünk kérésének, kivéve, ha ezt jogszabályi előírás akadályozza meg, vagy ha jogszabályi kivétel vonatkozik rá.
 
 Keresse fel [fórumainkat](https://support.mozilla.org/) az általános támogatásért.
+

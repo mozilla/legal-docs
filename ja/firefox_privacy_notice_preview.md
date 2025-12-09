@@ -1,4 +1,4 @@
-﻿# Firefox のプライバシーに関する通知 - Preview
+# Firefox のプライバシーに関する通知 - Preview
 
 発効日 2025 年 6 月 2 日
 {: datetime="2025-06-02" }
@@ -495,3 +495,4 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

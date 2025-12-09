@@ -1,4 +1,4 @@
-﻿# Warunki użytkowania przeglądarki Firefox
+# Warunki użytkowania przeglądarki Firefox
 
 Data wejścia w życie: 10 czerwca 2025 r.
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

@@ -94,3 +94,4 @@ Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla –
 12. #### Verschiedenes
 
     Diese Bedingungen unterliegen den Gesetzen des Bundesstaates Kalifornien, USA, ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte eine dieser Bedingungen für ungültig oder nicht durchsetzbar erklärt werden, bleiben die übrigen Bedingungen davon unberührt. Im Falle eines Konflikts zwischen der übersetzten Version dieser Bedingungen und der englischen Fassung gilt die englische Fassung.
+

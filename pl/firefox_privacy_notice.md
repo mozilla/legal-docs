@@ -1,4 +1,4 @@
-﻿# Zasady prywatności przeglądarki Firefox
+# Zasady prywatności przeglądarki Firefox
 
 Data wejścia w życie: 2 czerwca 2025 r.
 {: datetime="2025-06-02" }
@@ -497,3 +497,4 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

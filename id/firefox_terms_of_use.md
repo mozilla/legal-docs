@@ -1,4 +1,4 @@
-﻿# Ketentuan Penggunaan Firefox
+# Ketentuan Penggunaan Firefox
 
 Berlaku 10 Juni 2025
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

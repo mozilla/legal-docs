@@ -1,4 +1,4 @@
-﻿# Условия использования браузера Firefox
+# Условия использования браузера Firefox
 
 Дата вступления в силу: 10 июня 2025 г.
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

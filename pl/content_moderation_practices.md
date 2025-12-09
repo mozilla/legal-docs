@@ -51,3 +51,4 @@ Jeśli nie zgadzasz się z wynikiem naszego wewnętrznego procesu odwoławczego 
 ## Bezpodstawne zgłoszenia
 
 Uporczywe składanie bezpodstawnych zgłoszeń spowoduje cofnięcie uprawnień do zgłaszania na okres do 6 miesięcy. Przesyłając zgłoszenie, należy upewnić się, że doszło do faktycznego naruszenia naszych zasad lub prawa.
+

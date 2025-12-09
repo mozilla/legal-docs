@@ -94,3 +94,4 @@ Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporatio
 12. #### Muhtelif Hususlar
 
     Bu Koşullar, kanun hükümleri ihtilafı hariç olmak üzere, ABD'nin Kaliforniya eyaletinin kanunlarına tabidir. İşbu Koşulların herhangi bir bölümünün geçersiz veya uygulanamaz olması durumunda kalan bölümler, tam olarak yürürlükte kalmaya devam edecektir. Bu koşulların tercüme edilmiş versiyonu ve İngilizce dilindeki versiyonu arasında bir çatışma olması halinde, İngilizce dilindeki versiyon geçerli olacaktır.
+

@@ -1,4 +1,4 @@
-﻿# Gebruiksvoorwaarden van Firefox
+# Gebruiksvoorwaarden van Firefox
 
 Van kracht vanaf 10 juni 2025
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

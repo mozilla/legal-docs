@@ -1,4 +1,4 @@
-﻿# Firefox 使用条款
+# Firefox 使用条款
 
 2025 年 06 月 10 日生效
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

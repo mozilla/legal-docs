@@ -1,4 +1,4 @@
-﻿# Termos de uso do Firefox
+# Termos de uso do Firefox
 
 Data de vigência: terça-feira, 10 de junho de 2025
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

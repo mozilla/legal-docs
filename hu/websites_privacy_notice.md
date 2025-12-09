@@ -77,3 +77,4 @@ Némelyik Mozilla-webhelyen vásárolhat (például alkalmazásokat vagy eszköz
 ---------------------------------------
 
 A személyes adatokkal kapcsolatos kérelmek benyújtásához vegye fel velünk a kapcsolatot az [Érintett hozzáférési kérelmező portálunkon](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) keresztül. Ha bármilyen egyéb kérdése van a személyes adatokkal vagy az adatvédelmi gyakorlatunkkal kapcsolatban, vegye fel velünk a kapcsolatot a [compliance@mozilla.com](mailto:compliance@mozilla.com) címen. Minden olyan megkeresésre válaszolunk, amelyet olyan egyénektől kapunk, akik a vonatkozó adatvédelmi jogszabályokkal összhangban kívánják gyakorolni adatvédelmi jogaikat.
+

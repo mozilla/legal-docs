@@ -1,4 +1,4 @@
-﻿# Firefox-Datenschutzhinweis
+# Firefox-Datenschutzhinweis
 
 Gültig ab Montag, 2. Juni 2025
 {: datetime="2025-06-02" }
@@ -497,3 +497,4 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

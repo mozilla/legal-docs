@@ -1,4 +1,4 @@
-﻿# Aviso de privacidad de Firefox - Preview
+# Aviso de privacidad de Firefox - Preview
 
 Vigente desde el lunes, 2 de junio de 2025
 {: datetime="2025-06-02" }
@@ -495,3 +495,4 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

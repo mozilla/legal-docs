@@ -80,3 +80,4 @@ Pokud máte jakékoliv dotazy ohledně vašich osobních údajů nebo našich po
 Na veškeré žádosti doručené od fyzických osob s žádostí o uplatnění jejich práv na ochranu osobních údajů budeme reagovat bez ohledu na to, kde daná osoba žije. Vaší žádosti vyhovíme, pokud nám v tom nebrání zákonný požadavek nebo se na ni nevztahuje zákonná výjimka.
 
 Pro obecnou nápovědu a podporu navštivte naše [fóra](https://support.mozilla.org/).
+

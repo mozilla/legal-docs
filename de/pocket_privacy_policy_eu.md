@@ -122,3 +122,4 @@ Avenue Louise 235 b 1
 Belgium  
 
 Wir beantworten alle Anfragen, die wir von Einzelpersonen erhalten, die ihre Datenschutzrechte gemäß den geltenden Datenschutzgesetzen ausüben möchten. Sie haben ferner das Recht, bei Ihrer lokalen Datenschutzbehörde Beschwerde einzureichen.
+

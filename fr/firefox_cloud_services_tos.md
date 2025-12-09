@@ -94,3 +94,4 @@ Pour contacter Mozilla : _Mozilla Corporation, Attn: Mozilla – Legal Notices 
 12. #### Dispositions diverses
 
     Les présentes Conditions sont gouvernées par les lois de l’État de Californie, aux États-Unis, à l’exception de leurs dispositions relatives aux conflits de loi. Si une partie quelconque des présentes Conditions est déterminée comme étant non valable ou inapplicable, les parties restantes resteront en vigueur et de plein effet. En cas de conflit entre une version traduite des présentes conditions et la version en langue anglaise, c’est la version en langue anglaise qui sera valable.
+

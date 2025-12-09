@@ -85,3 +85,4 @@ Settings / Privacy / Data Choices.
 We aggregate location points sent to Mozilla from users around the world in our
 [data map](https://location.services.mozilla.com/map).  Location points are
 blurred to promote anonymity.
+

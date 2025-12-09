@@ -1,4 +1,4 @@
-﻿# Politique de confidentialité de Firefox - Preview
+# Politique de confidentialité de Firefox - Preview
 
 Date d'effet : lundi 2 juin 2025
 {: datetime="2025-06-02" }
@@ -495,3 +495,4 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

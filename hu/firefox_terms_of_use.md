@@ -1,4 +1,4 @@
-﻿# Firefox felhasználási feltételek
+# Firefox felhasználási feltételek
 
 Hatályos: 2025. június 10-től
 {: datetime="2025-06-10" }
@@ -86,3 +86,4 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94105
 
 legal-notices@mozilla.com
+

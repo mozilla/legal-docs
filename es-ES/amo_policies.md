@@ -13,3 +13,4 @@ Cuando un usuario comparte contenido que infringe estas políticas, podríamos e
 - Para valoraciones: haga clic en el enlace “Marcar” al pie de la reseña
 
 Los complementos que no cumplan con estas políticas no están permitidos y si descubiertos serán eliminados de AMO y/o desactivados en Firefox. Para saber más sobre cómo se aplican las políticas de contenidos de Mozilla, puede visitar la [página web de Moderación de contenidos en Mozilla](https://www.mozilla.org/about/legal/content-moderation).
+

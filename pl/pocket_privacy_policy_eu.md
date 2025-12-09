@@ -122,3 +122,4 @@ Avenue Louise 235 b 1
 Belgium  
 
 Odpowiadamy na wszystkie wnioski otrzymywane od osób pragnących skorzystać z przysługujących im praw w zakresie ochrony danych zgodnie z obowiązującymi przepisami o ochronie danych. Użytkownik ma również prawo złożyć skargę do lokalnego organu ochrony danych.
+

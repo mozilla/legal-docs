@@ -35,3 +35,4 @@ Se você não quiser usar um ou mais Serviços ou não aceitar os termos a segui
 >* Digite geo.enabled
 >* Dê um duplo clique na preferência geo.enabled
 >* O serviço de Navegação sensível à localização agora está desativado
+

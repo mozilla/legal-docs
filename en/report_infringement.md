@@ -58,3 +58,4 @@ Upon receipt of a valid Counter Notification, we will promptly forward a copy to
 ## Trademark Notices
 
 If you are a trademark owner, or agent of the owner, and believe that content available by means of one or more of our services infringes one or more of your trademarks, please send us a notice containing the information requested for a DMCA Notice as described above. We deem this to be a “**Trademark Notice**” and will handle reports of trademark violations in Trademark Notices similarly to the process described above for copyright violations.
+

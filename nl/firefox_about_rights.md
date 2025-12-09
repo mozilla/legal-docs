@@ -35,3 +35,4 @@ Als u een of meer van de diensten niet wilt gebruiken of de bovenstaande voorwaa
 >* Typ geo.enabled
 >* Dubbelklik op de voorkeursinstelling geo.enabled
 >* Locatiebewust navigeren is nu uitgeschakeld
+

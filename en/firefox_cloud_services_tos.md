@@ -94,3 +94,4 @@ You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 
 12. #### Miscellaneous
 
     These Terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+

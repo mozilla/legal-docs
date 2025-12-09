@@ -21,3 +21,4 @@ U mag geen enkele Mozilla-service gebruiken op een manier die in strijd is met d
 Dit zijn slechts voorbeelden. Dit dient geenszins als een uitputtende lijst te worden beschouwd en we kunnen deze lijst van tijd tot tijd bijwerken. Mozilla behoudt zich het recht voor om inhoud te verwijderen of gebruikers te schorsen die het bedrijf in overtreding acht van deze voorwaarden.
 
 Houd bovendien rekening met de [Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) van Mozilla. Deze gaan in op deelname in Mozilla-community's.
+

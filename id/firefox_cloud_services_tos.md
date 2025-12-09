@@ -94,3 +94,4 @@ Anda bisa menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal No
 12. #### Lain-Lain
 
     Ketentuan ini diatur oleh undang-undang negara bagian California, AS, kecuali ketetapan undang-undang yang bertentangan. Jika ada bagian dari Ketentuan ini yang tidak valid atau tidak dapat dilaksanakan, bagian lainnya tetap berkekuatan dan berlaku penuh. Jika ada pertentangan antara versi terjemahan ketentuan ini dan versi dalam bahasa Inggris, maka yang berlaku adalah versi dalam bahasa Inggris.
+

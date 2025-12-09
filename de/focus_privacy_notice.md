@@ -1,4 +1,4 @@
-﻿# Datenschutzhinweis zu Firefox Focus und Firefox Klar
+# Datenschutzhinweis zu Firefox Focus und Firefox Klar
 
 Gültig ab 22. April 2025
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

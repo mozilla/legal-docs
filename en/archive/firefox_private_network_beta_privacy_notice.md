@@ -30,3 +30,4 @@ FPN shares data with certain third parties in order to provide the service to yo
 __Cloudflare.__ As you browse, Firefox will encrypt the data you send to websites and send it to Cloudflare. Cloudflare will also receive your computer’s IP address, the IP address of the site you are browsing to, the timestamp, and a unique identifier. Cloudflare does not share this data with others and deletes this after 24 hours unless necessary for its security or legal obligations. Learn more at [Cloudflare’s Privacy Notice](https://www.cloudflare.com/mozilla/firefox-private-network-privacy-notice/).
 
 __Stripe.__ Mozilla uses Stripe to process your payment information. Mozilla receives a record of your subscription and information about the status of your account’s subscription and payment. Mozilla does not receive or store your payment card details. You can learn more about Stripe’s data practices by reading their [Global Privacy Policy](https://stripe.com/privacy).
+

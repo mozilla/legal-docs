@@ -1,4 +1,4 @@
-﻿# Уведомление о конфиденциальности для браузера Firefox - Preview
+# Уведомление о конфиденциальности для браузера Firefox - Preview
 
 Дата вступления в силу: 2 июня 2025 г.
 {: datetime="2025-06-02" }
@@ -495,3 +495,4 @@ Firefox также предоставляет функцию [Глобально
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

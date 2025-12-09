@@ -38,3 +38,4 @@ Pokud máte jakékoliv dotazy ohledně našich postupů ochrany osobních údaj�
 Na veškeré žádosti doručené od fyzických osob s žádostí o uplatnění jejich práv na ochranu osobních údajů budeme reagovat bez ohledu na to, kde daná osoba žije. Vaší žádosti vyhovíme, pokud nám v tom nebrání zákonný požadavek nebo se na ni nevztahuje zákonná výjimka.
 
 Pro obecnou nápovědu a podporu ve vztahu ke službám MDN Plus navštivte naše [fóra](https://support.mozilla.org/).
+

@@ -35,3 +35,4 @@ Si no quiere usar uno o más de los Servicios, o los términos anteriores no son
 >* Escriba “geo.enabled”
 >* Haga doble clic en la preferencia geo.enabled
 >* La navegación basada en ubicación está ahora desactivada
+

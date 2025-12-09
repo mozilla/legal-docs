@@ -13,3 +13,4 @@ Quando usuários compartilham conteúdo que viola essas políticas, podemos remo
 - Para avaliações: clique no link “Marcar”, na parte inferior da avaliação.
 
 As extensões que não estiverem em conformidade com essas políticas serão removidas do AMO e/ou desabilitadas do Firefox. Para saber mais sobre a aplicação das políticas de conteúdo da Mozilla, acesse a [página “Moderação de conteúdo” no site da Mozilla](https://www.mozilla.org/about/legal/content-moderation).
+

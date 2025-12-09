@@ -1,4 +1,4 @@
-﻿# Aviso de privacidade do Firefox Focus e do Firefox Klar
+# Aviso de privacidade do Firefox Focus e do Firefox Klar
 
 Data de vigência: terça-feira, 22 de abril de 2025
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipédia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

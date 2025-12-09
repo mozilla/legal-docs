@@ -1,4 +1,4 @@
-﻿# Firefox Focus および Firefox Klar のプライバシーに関する通知
+# Firefox Focus および Firefox Klar のプライバシーに関する通知
 
 発効日 2025 年 4 月 22 日
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Mozilla は、適用されるデータ保護法に従ってデータ保護権を
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

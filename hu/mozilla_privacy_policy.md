@@ -46,3 +46,4 @@ Személyes adataira kizárólag az adatkezelési cél megvalósulásához szüks
 ## Mi történik akkor, ha módosítjuk a jelen adatvédelmi szabályzatot vagy bármelyik adatvédelemmel kapcsolatos megjegyzésünket?
 
 Előfordulhat, hogy meg kell változtatnunk a szabályzatot és a megjegyzéseinket. A frissítéseket online tesszük közzé. Érdemi változások esetén a frissítést bejelentjük a Mozilla bejelentések céljára használt szokásos csatornáin, például blogbejegyzésben és fórumokon. Ha a változások hatályba lépése után tovább használja a terméket vagy a szolgáltatást, az azt jelenti, hogy elfogadta a változásokat. Hogy az értékelése még kényelmesebb legyen, a hatálybalépés dátumát az oldal tetején tesszük közzé.
+

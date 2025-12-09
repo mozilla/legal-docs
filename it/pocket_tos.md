@@ -181,3 +181,4 @@ Possiamo, in qualsiasi momento, rivedere il presente Accordo. Se modifichiamo i 
 ## Informazioni sul copyright {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation. Tutti i diritti riservati.
+

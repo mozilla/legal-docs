@@ -1,4 +1,4 @@
-﻿# A Firefox adatvédelmi nyilatkozata
+# A Firefox adatvédelmi nyilatkozata
 
 Hatályos: 2025. június 2-től
 {: datetime="2025-06-02" }
@@ -497,3 +497,4 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

@@ -1,4 +1,4 @@
-﻿# Pemberitahuan Privasi Firefox Focus dan Klar
+# Pemberitahuan Privasi Firefox Focus dan Klar
 
 Berlaku 22 April 2025
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

@@ -1,4 +1,4 @@
-﻿# Firefox Focus 和 Firefox Klar 隐私声明
+# Firefox Focus 和 Firefox Klar 隐私声明
 
 2025 年 4 月 22 日生效
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Belgium
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

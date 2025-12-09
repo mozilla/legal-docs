@@ -1,4 +1,4 @@
-﻿# Oznámení o ochraně osobních údajů Firefox Focus a Firefox Klar
+# Oznámení o ochraně osobních údajů Firefox Focus a Firefox Klar
 
 Účinné od 22. dubna 2025
 {: datetime="2025-04-22" }
@@ -181,3 +181,4 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 [eBay.com](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
 
 [Wikipedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+

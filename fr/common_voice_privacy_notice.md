@@ -30,4 +30,3 @@ Nous pouvons divulguer les bases de données Common Voice à des sociétés affi
 
 [En savoir plus](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
-
