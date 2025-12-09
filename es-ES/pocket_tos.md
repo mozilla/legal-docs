@@ -181,4 +181,3 @@ Podemos, en cualquier momento, revisar el presente Acuerdo. Si modificamos los T
 ## Aviso de copyright {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation Reservados todos los derechos.
-

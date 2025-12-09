@@ -51,4 +51,3 @@ Als u het niet eens bent met de uitkomst van ons interne beroepsproces en u in d
 ## Ongegronde meldingen
 
 Herhaaldelijke indiening van ongegronde meldingen leidt tot intrekking van de meldingsrechten gedurende een periode van maximaal 6 maanden. Zorg er bij het indienen van een melding voor dat er sprake is van een daadwerkelijke schending van ons beleid of de wet.
-

@@ -38,4 +38,3 @@ W razie jakichkolwiek innych pytań dotyczących naszych praktyk w zakresie ochr
 Odpowiadamy na wszystkie wnioski otrzymywane od osób pragnących skorzystać z przysługujących im praw w zakresie ochrony danych, niezależnie od ich miejsca zamieszkania. Uwzględnimy wniosek użytkownika, chyba że uniemożliwi nam to wymóg prawny lub ma zastosowanie wyjątek prawny.
 
 Aby uzyskać ogólną pomocą dotyczącą usługi MDN Plus, prosimy odwiedzić nasze [fora](https://support.mozilla.org/).
-

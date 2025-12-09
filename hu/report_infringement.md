@@ -58,4 +58,3 @@ Az érvényes ellentájékoztatás kézhezvételét követően haladéktalanul t
 ## Védjeggyel kapcsolatos tájékoztatás
 
 Ha Ön a védjegy tulajdonosa vagy a tulajdonos képviselője, és úgy gondolja, hogy egy vagy több szolgáltatásunkon keresztül elérhető tartalom sérti egy vagy több védjegyét, küldjön egy tájékoztatást, amely tartalmazza a DMCA-tájékoztatáshoz kért információkat a fent leírtak szerint. Ezt „**védjeggyel kapcsolatos tájékoztatásnak**” tekintjük, és az védjeggyel kapcsolatos tájékoztatásokban szereplő védjegymegsértésekről szóló bejelentéseket a fentebb a szerzői jogok megsértésére vonatkozó eljáráshoz hasonlóan kezeljük.
-

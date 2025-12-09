@@ -46,4 +46,3 @@ Tampoco es nuestra voluntad mantener sus informaciones personales por más tiemp
 ## ¿Y si estas políticas son alteradas?
 
 Es posible que haya alteraciones en esta política y nuestros avisos. Las actualizaciones se publicarán en la web. Si los cambios son significativos, notificaremos las actualizaciones a través de los canales habituales de Mozilla para información de este tipo como los blogs y los foros. Su uso continuo del producto o servicio después de la fecha de entrada en vigor de los cambios confirman su aceptación de dichos cambios. Para facilitar la comprobación, publicaremos la fecha de entrada en vigor en la parte superior de la página.
-

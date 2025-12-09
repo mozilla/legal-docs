@@ -181,4 +181,3 @@ W dowolnym momencie możemy wprowadzić zmiany do niniejszej Umowy. Jeśli zmody
 ## Powiadomienie o prawach autorskich {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation Wszelkie prawa zastrzeżone.
-

@@ -35,4 +35,3 @@ Dacă nu doriți să utilizați unul sau mai multe dintre Servicii sau termenii 
 >* Tastați geo.enabled în câmpul de căutare
 >* Dublu clic pe preferința geo.enabled
 >* Navigarea conștientă de locație este acum dezactivată
-

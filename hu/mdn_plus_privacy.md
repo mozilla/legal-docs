@@ -38,4 +38,3 @@ Ha bármilyen egyéb kérdése van az adatvédelmi gyakorlatunkkal kapcsolatban,
 Az adatvédelmi jogaikat gyakorolni kívánó egyénektől kapott minden megkeresésre válaszolunk, függetlenül attól, hogy az egyének hol tartózkodnak. Eleget teszünk kérésének, kivéve, ha ezt jogszabályi előírás akadályozza meg, vagy ha jogszabályi kivétel vonatkozik rá.
 
 Keresse fel [fórumainkat](https://support.mozilla.org/) az MDN Plusszal kapcsolatos általános támogatásért.
-

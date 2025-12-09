@@ -23,4 +23,3 @@ The device you are using, like most mobile devices, is created by several partie
 
 * If you use apps made by someone other than Mozilla, their privacy policies will apply.
 * Firefox OS allows you to use several integrated third party services, such as your email or social provider. The privacy policy of those services will apply to your use of them.
-

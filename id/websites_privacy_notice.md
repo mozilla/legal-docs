@@ -77,4 +77,3 @@ Beberapa situs web Mozilla memungkinkan Anda melakukan pembelian (seperti aplika
 ---------------------------------------
 
 Untuk mengajukan permintaan terkait data pribadi Anda, hubungi kami melalui [Portal Permintaan Akses Subjek Data](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Jika ada pertanyaan lain terkait data pribadi atau praktik kebijakan kami, silakan hubungi kami di [compliance@mozilla.com](mailto:compliance@mozilla.com). Kami akan menanggapi semua permintaan yang diterima dari tiap individu yang ingin menjalankan hak perlindungan data mereka sesuai dengan undang-undang perlindungan data yang berlaku.
-

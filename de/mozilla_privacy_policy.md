@@ -46,4 +46,3 @@ Wir wollen Ihre personenbezogenen Daten nicht länger aufbewahren, als wir sie b
 ## Was geschieht im Falle von Änderungen dieser Datenschutzerklärung?
 
 Es kann erforderlich sein, dass wir diese Datenschutzerklärung ändern. Die Aktualisierungen werden im Internet veröffentlicht. Bei wesentlichen Änderungen werden wir die Aktualisierungen über die üblichen Kanäle von Mozilla für solche Ankündigungen, wie Blog-Beiträge und Foren, ankündigen. Wenn Sie das Produkt bzw. den Dienst nach dem Datum des Inkrafttretens solcher Änderungen weiterhin nutzen, bedeutet dies, dass Sie mit den Änderungen einverstanden sind. Damit Sie einen besseren Überblick haben, geben wir das Datum des Inkrafttretens im oberen Bereich der Seite an.
-

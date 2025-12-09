@@ -13,4 +13,3 @@ Ha egy felhasználó olyan tartalmat oszt meg, amely sérti ezeket a jelen szab�
 - Értékelések esetén: kattintson a „Megjelölés” hivatkozásra a vélemény alján
 
 Azok a bővítmények, amelyek nem felelnek meg a jelen szabályzatnak, nem engedélyezettek, és eltávolítják az AMO felületéről és/vagy letiltják ezeket a Firefoxban a felfedezés esetén. Ha többet szeretne megtudni a Mozilla tartalomszabályzatának érvényesítéséről, keresse fel a [Tartalommoderálás menüpontot a Mozilla weboldalán](https://www.mozilla.org/about/legal/content-moderation).
-

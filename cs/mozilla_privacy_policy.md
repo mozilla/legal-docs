@@ -46,4 +46,3 @@ Vaše osobní údaje nechceme uchovávat po dobu delší než nezbytnou, takže 
 ## Co se stane, když změníme tyto nebo kterékoliv jiné zásady ochrany osobních údajů?
 
 Možná budeme potřebovat tyto zásady a naše oznámení změnit. Aktualizace budou zveřejněny online. Pokud budou změny podstatného charakteru, aktuální znění oznámíme prostřednictvím běžných kanálů společnosti Mozilla pro taková oznámení, jako jsou uveřejnění na blogu nebo ve fórech. Budete-li produkt či službu dále používat po datu účinnosti takových změn, bude to znamenat váš souhlas s takovými změnami. Abyste měli lepší přehled o verzích, datum účinnosti budeme uvádět v horní části stránky.
-

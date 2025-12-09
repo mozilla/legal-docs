@@ -51,4 +51,3 @@ Jika Anda tidak setuju dengan hasil proses banding internal kami dan berdomisili
 ## Laporan tidak berdasar
 
 Penyampaian laporan yang tidak berdasar secara terus-menerus akan mengakibatkan dicabutnya hak pelaporan hingga 6 bulan. Saat mengirimkan laporan, pastikan memang benar-benar terjadi pelanggan kebijakan kami atau perundang-undangan.
-

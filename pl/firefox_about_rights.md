@@ -35,4 +35,3 @@ Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasa
 >* W polu filtru wpisz: „geo.enabled”
 >* Kliknij dwukrotnie opcję „geo.enabled”
 >* Udostępnianie witrynom położenia geograficznego zostanie wyłączone
-

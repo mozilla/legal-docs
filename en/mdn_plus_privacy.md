@@ -38,4 +38,3 @@ If you have any other questions regarding our privacy practices, please contact 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights regardless of where the individual lives. We will honor your request unless a legal requirement prevents us from doing so or a legal exception applies.
 
 Please visit our [forums](https://support.mozilla.org/) for general MDN Plus related support help.
-

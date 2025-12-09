@@ -58,4 +58,3 @@ Dès réception d’une contre-notification valide, nous en transmettrons rapide
 ## Notifications de marques de commerce
 
 Si vous êtes détenteur d’une marque de commerce, ou agent d’un détenteur, et estimez que du contenu mis à disposition par ou plusieurs de nos services viole votre marque de commerce, veuillez nous envoyer un e-mail ou un fax avec les informations décrites pour une notification DMCA, comme décrit plus haut. Nous considèrerons qu’il s’agit d’une **notification de marque de commerce** et nous traiterons les signalements de violation de marque de commerce de la même manière que par la procédure décrite ci-dessus pour les violations de droits d’auteur.
-

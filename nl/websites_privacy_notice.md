@@ -77,4 +77,3 @@ Sommige Mozilla-websites stellen u in staat om aankopen te doen (zoals apps of a
 ---------------------------------------
 
 Neem bij aanvragen met betrekking tot uw persoonlijke gegevens contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Als u andere vragen hebt over persoonlijke gegevens of onze privacyprocedures, kunt u contact met ons opnemen via [compliance@mozilla.com](mailto:compliance@mozilla.com). We reageren op alle aanvragen van individuen die hun gegevensbeschermingsrechten willen uitoefenen in overeenstemming met toepasselijke gegevensbeschermingswetgeving.
-

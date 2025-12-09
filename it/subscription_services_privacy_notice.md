@@ -80,4 +80,3 @@ Per qualsiasi altra domanda in merito alle tue informazioni personali o alle nos
 Rispondiamo a tutte le richieste che riceviamo da individui che desiderano esercitare i propri diritti di protezione dei dati, indipendentemente dal luogo in cui risiedono. La tua richiesta verrà accolta, a meno che un requisito legale non ci impedisca di farlo o si applichi un'eccezione legale.
 
 Per supporto generale, puoi visitare i nostri [forum](https://support.mozilla.org/).
-

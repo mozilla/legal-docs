@@ -30,4 +30,3 @@ Voice commands use Amazon’s Alexa.
 {: #Alexa }
 
 * **Voice Commands**: When you use voice commands to control Firefox, Amazon receives and interprets your voice data to carry out your instructions. Amazon’s Alexa has its own privacy notice, which you can find [here](https://www.alexa.com/help/privacy).  
-

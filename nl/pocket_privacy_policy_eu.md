@@ -122,4 +122,3 @@ Avenue Louise 235 b 1
 Belgium  
 
 We reageren op alle aanvragen van individuen die hun gegevensbeschermingsrechten willen uitoefenen in overeenstemming met toepasselijke gegevensbeschermingswetgeving. U heeft ook het recht om een klacht in te dienen bij uw plaatselijke gegevensbeschermingsautoriteit.
-

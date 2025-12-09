@@ -58,4 +58,3 @@ Al ricevimento di una Contro notifica valida, ne inoltreremo prontamente una cop
 ## Avvisi di violazione del marchio
 
 I proprietari di marchi, o i loro agenti, che ritengono che i contenuti disponibili tramite uno o più dei nostri servizi violino uno o più dei loro marchi, sono pregati di inviarci una comunicazione contenente le informazioni richieste per la Notifica DMCA, come descritto sopra. Consideriamo questo tipo di segnalazioni come "**Avvisi di violazione del marchio**" e le gestiremo in modo analogo al processo descritto sopra per le violazioni di copyright.
-

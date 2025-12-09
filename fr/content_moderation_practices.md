@@ -51,4 +51,3 @@ Si vous n’êtes pas d’accord avec le résultat de notre procédure de recour
 ## Rapports sans fondement
 
 L’envoi régulier de rapports sans fondement entraînera la révocation du droit de signalement pendant un maximum de 6 mois. Lorsque vous envoyez un rapport, veillez à ce qu’il signale une violation avérée de nos politiques ou des lois en vigueur.
-

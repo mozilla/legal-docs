@@ -38,4 +38,3 @@ Bei anderen Fragen zu unseren Datenschutzpraktiken können Sie sich jederzeit un
 Wir beantworten alle Anfragen, die wir von Einzelpersonen erhalten, die ihre Datenschutzrechte ausüben möchten, ungeachtet des Wohnorts der Person. Wir werden Ihrer Anfrage nachkommen, es sei denn, eine gesetzliche Vorschrift hindert uns daran oder es gilt eine gesetzliche Ausnahme.
 
 In unseren [Foren](https://support.mozilla.org/) finden Sie allgemeine Support- und Hilfeinformationen zu MDN Plus.
-

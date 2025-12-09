@@ -29,4 +29,3 @@ In addition, specific to Common Voice, we also process the following information
 We may disclose the Common Voice databases with affiliates, including current or future parents, subsidiaries, affiliates, and other organizations under common control or ownership with Mozilla Foundation.
 
 [Learn more](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
-

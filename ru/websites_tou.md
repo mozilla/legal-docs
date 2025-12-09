@@ -109,4 +109,3 @@ USA
 Телефон: 650-903-0800  
 Факс: 650-903-0875  
 Legal-notices at mozilla.com
-

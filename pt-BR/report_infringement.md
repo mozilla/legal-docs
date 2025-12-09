@@ -58,4 +58,3 @@ Ao recebermos uma Notificação de Contrarresposta válida, enviamos uma cópia 
 ## Notificações de marca comercial
 
 Se você é titular ou representante do titular de uma marca comercial e acredita que o conteúdo disponibilizado em um ou mais de nossos serviços viola uma ou mais das suas marcas comerciais, envie-nos uma notificação que contenha as informações solicitadas para a Notificação da DMCA indicadas acima. Consideraremos isso como uma “**Notificação de marca comercial**” e faremos a tramitação das denúncias de violações de marcas comerciais das Notificações de marca comercial com o mesmo procedimento descrito acima para as violações de direitos autorais.
-

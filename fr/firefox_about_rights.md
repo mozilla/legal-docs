@@ -35,4 +35,3 @@ Si vous ne voulez pas utiliser l’un ou l’autre de ces Services ou si vous tr
 >* Recherchez *geo.enabled*.
 >* Double-cliquez sur la préférence *geo.enabled*.
 >* La localisation géographique est alors désactivée.
-

@@ -35,4 +35,3 @@ Se non si desidera utilizzare uno o più di tali Servizi oppure i termini di uti
 >* Digitare *geo.enabled* nel campo di ricerca.
 >* Fare doppio clic sulla voce *geo.enabled*.
 >* Da questo momento la navigazione geolocalizzata è disattivata.
-

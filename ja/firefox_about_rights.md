@@ -35,4 +35,3 @@ Mozilla Firefox は、搭載された機能のために用意された Web ベ�
 >* フィルタ欄に geo.enabled と入力します。
 >* geo.enabled 設定をダブルクリックして値を false に変更してください。
 >* 位置情報検出機能が無効になります。
-

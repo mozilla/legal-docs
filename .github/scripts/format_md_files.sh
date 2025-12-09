@@ -9,19 +9,26 @@ for f in $(find . -type f -name "*.md"); do
     # Remove BOM if present
     if [ "$(head -c3 "$f" | xxd -p)" = "efbbbf" ]; then
         tail -c +4 "$f" > "$f.tmp" && mv "$f.tmp" "$f"
-        echo "Removed BOM from $f"
+        echo "Removed BOM: $f"
     fi
     
-    # Normalize line endings to LF
-    # Remove CR from CRLF line endings
-    sed -i '' 's/\r$//' "$f"
+    # Normalize line endings to LF if necessary
+    lineinfo=$(file "$f")
 
-    # Convert legacy CR-only files
-    tr '\r' '\n' < "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+    if [[ "$lineinfo" == *"CRLF"* ]]; then
+        # Convert CRLF -> LF
+        sed -i '' 's/\r$//' "$f"
+        echo "Converted CRLF to LF: $f"
+    elif [[ "$lineinfo" == *"CR line terminators"* ]]; then
+        # Convert CR -> LF
+        tr '\r' '\n' < "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+        echo "Converted CR to LF: $f"
+    fi    
     
-    # Normalize trailing newlines
-    # Step 1: remove all trailing blank lines
-    sed -i '' -e :a -e '/^\n*$/{$d;N;ba' -e '}' "$f"
-    # Step 2: add exactly one ending newline
-    printf '\n' >> "$f"
+    # Ensure single trailing newline. Using awf since sed behaves 
+    # differently on macOS and Linux.
+    awk 'NF { last = NR } { lines[NR] = $0 } END {
+        for (i = 1; i <= last; i++) print lines[i]
+    }' "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+    echo "Normalized trailing newline: $f"
 done

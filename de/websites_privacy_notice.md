@@ -77,4 +77,3 @@ Auf manchen Mozilla-Websites können Sie etwas kaufen (wie z. B. Apps oder Merc
 ---------------------------------------
 
 Für Anfragen bezüglich Ihrer personenbezogenen Daten kontaktieren Sie uns bitte über unser [Portal für Zugangsanfragen von betroffenen Personen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Bei anderen Fragen zu Ihren personenbezogenen Daten oder unseren Datenschutzpraktiken können Sie sich jederzeit unter [compliance@mozilla.com](mailto:compliance@mozilla.com) an uns wenden. Wir beantworten alle Anfragen, die wir von Einzelpersonen erhalten, die ihre Datenschutzrechte gemäß den geltenden Datenschutzgesetzen ausüben möchten.
-

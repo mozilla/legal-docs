@@ -181,4 +181,3 @@ Mozilla は、いつでも本契約を改訂できるものとします。Mozill
 ## 著作権通知 {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation All rights reserved.
-

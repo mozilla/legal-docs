@@ -94,4 +94,3 @@ U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – L
 12. #### Diversen
 
     Deze voorwaarden worden beheerst door de wetgeving van de staat Californië van de Verenigde Staten, met uitsluiting van bepalingen inzake conflicterende wetgeving. Als een gedeelte van deze voorwaarden nietig of onafdwingbaar wordt geacht, zullen de resterende gedeelten onverminderd van kracht blijven. In het geval van een conflict tussen een vertaalde versie van deze Voorwaarden en de Engelstalige versie, prevaleert de Engelstalige versie.
-

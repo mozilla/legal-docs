@@ -51,4 +51,3 @@ Se usted no está de acuerdo con el resultado de nuestro proceso de apelación i
 ## Informes infundados
 
 La presentación persistente de informes infundados determinará la revocación de los privilegios de presentación de informes por hasta 6 meses. Al presentar un informe, le rogamos que se asegure que haya una real violación de nuestras políticas o de la ley.
-

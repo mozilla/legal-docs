@@ -46,4 +46,3 @@ Kami juga tidak ingin menyimpan informasi pribadi Anda lebih lama daripada yang 
 ## Bagaimana jika kami mengubah kebijakan privasi atau pemberitahuan privasi kami?
 
 Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami. Pembaruan ini akan diposting di internet. Jika perubahannya banyak, kami akan mengumumkan pembaruan tersebut melalui saluran umum Mozilla dalam bentuk postingan blog dan forum. Jika Anda terus menggunakan produk atau layanan setelah tanggal berlaku perubahan tersebut, berarti Anda menyetujui perubahan tersebut. Agar Anda lebih mudah mempelajarinya, kami akan memposting tanggal mulai berlakunya di bagian atas halaman.
-

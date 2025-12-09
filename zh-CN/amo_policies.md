@@ -13,4 +13,3 @@
 - 对于评分：点击评论底部的“小旗子”链接
 
 不符合这些政策的附加内容是不允许出现的，如果发现，将从 AMO 中删除和/或在 Firefox 中禁用。要了解有关 Mozilla 内容政策如何执行的更多信息，您可以访问 [Mozilla 网页上的“内容审核”](https://www.mozilla.org/about/legal/content-moderation)。
-

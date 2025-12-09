@@ -21,4 +21,3 @@ Sie sind nicht berechtigt, einen Mozilla-Service in einer Art und Weise zu verwe
 Dies sind lediglich Beispiele. Es handelt sich nicht um eine erschöpfende Liste. Zudem sind wir berechtigt, gelegentlich Änderungen an der Liste vorzunehmen. Mozilla behält sich das Recht vor, Inhalte zu entfernen oder Benutzer auszuschließen, die nach Ermessen von Mozilla gegen die vorliegenden Bedingungen verstoßen.
 
 Beachten Sie außerdem die [Richtlinien für das Mitwirken in der Community](https://www.mozilla.org/about/governance/policies/participation/) von Mozilla. Diese behandeln die Teilnahme an den Mozilla-Communitys.
-

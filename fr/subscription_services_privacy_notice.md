@@ -80,4 +80,3 @@ Si vous avez d’autres questions concernant vos données personnelles ou nos pr
 Nous répondons à toutes les demandes des personnes désireuses d’exercer leurs droits de protection des données, quelle que soit leur localisation (pays/région). Nous répondrons à votre demande, à moins qu’une disposition ou exclusion légale nous en empêche.
 
 Visitez nos [forums](https://support.mozilla.org/) pour obtenir de l’assistance.
-

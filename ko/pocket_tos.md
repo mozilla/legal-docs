@@ -181,4 +181,3 @@ Pocket Technologies는 미국 이외의 국가에서 액세스할 수 있습니�
 ## 저작권 고지 사항 {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation 모든 권리 보유.
-

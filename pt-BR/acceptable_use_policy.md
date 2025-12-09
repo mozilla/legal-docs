@@ -21,4 +21,3 @@ Não é permitido usar o serviço da Mozilla de forma que viole esta Política d
 Esses são apenas alguns exemplos. Essa não é uma lista completa. Podemos atualizá-la ocasionalmente. A Mozilla reserva-se o direito de remover qualquer conteúdo ou suspender qualquer usuário que, de acordo com seu entendimento, violar essas condições.
 
 Consulte as [Diretrizes de participação da comunidade](https://www.mozilla.org/about/governance/policies/participation/) da Mozilla, que trata da participação em comunidades da Mozilla.
-

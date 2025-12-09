@@ -46,4 +46,3 @@ Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n�
 ## Que se passe-t-il si nous modifions cette politique ?
 
 Nous pouvons être amenés à modifier cette politique. Les mises à jour seront publiées en ligne. Si les modifications sont importantes, nous annoncerons la mise à jour par le biais des canaux habituels de Mozilla, tels que des billets de blog et des forums. Votre utilisation continue du produit ou service après la date effective de ces modifications signifie que vous acceptez ces modifications. Pour que vous soyez mieux informé, nous publierons la date effective en haut de la page.
-

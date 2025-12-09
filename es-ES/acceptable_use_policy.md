@@ -21,4 +21,3 @@ Usted no puede utilizar ningún servicio de Mozilla de manera que infrinja esta 
 Estos son solo ejemplos. Usted no debe considerar esto como una lista completa, y es posible que actualicemos la lista de vez en cuando. Mozilla se reserva el derecho a eliminar los contenidos o a expulsar a los usuarios que incumplan las presentes condiciones.
 
 Por favor, tenga en cuenta también las [Pautas para la participación en la comunidad de Mozilla](https://www.mozilla.org/about/governance/policies/participation/), que tratan de la participación en las comunidades de Mozilla.
-

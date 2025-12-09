@@ -122,4 +122,3 @@ Avenue Louise 235 b 1
 Belgium  
 
 Nous répondons à toutes les demandes de personnes désireuses d'exercer leurs droits de protection des données conformément aux lois en vigueur sur la protection de données. Vous allez le droit de poser une réclamation auprès de votre organisme local de protection des données (par exemple la CNIL en France).
-

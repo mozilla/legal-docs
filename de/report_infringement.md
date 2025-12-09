@@ -58,4 +58,3 @@ Nach Erhalt einer gültigen Gegendarstellung werden wir eine Kopie umgehend an d
 ## Meldung von Markenverletzungen
 
 Falls Sie ein Markeninhaber oder sein Vertreter und der Auffassung sind, dass über einen oder mehrere der Mozilla-Services verfügbare Inhalte ein oder mehrere Ihrer Marken verletzen, senden Sie uns bitte eine Mitteilung, in der die für eine DMCA-Meldung erforderlichen, oben beschriebenen Informationen enthalten sind. Wir erachten dies dann als eine „**Markenverletzungsmeldung**“ und behandeln Meldungen von Markenverletzungen ähnlich, wie oben für Urheberrechtsverletzungen beschrieben.
-

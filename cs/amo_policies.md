@@ -13,4 +13,3 @@ Pokud uživatel sdílí obsah, který porušuje tyto zásady, můžeme příslu�
 - V případě hodnocení: klikněte na odkaz „Příznak“ v dolní části hodnocení.
 
 Doplňky, které nejsou v souladu s těmito zásadami, nejsou povoleny a budou z AMO odstraněny a/nebo zakázány ve Firefoxu, pokud budou zjištěny. Podrobnější informace o vymáhání zásad pro obsah společnosti Mozilla najdete v čísti [Moderování obsahu na webové stránce společnosti Mozilla](https://www.mozilla.org/about/legal/content-moderation).
-

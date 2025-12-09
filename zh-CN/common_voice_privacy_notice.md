@@ -29,4 +29,3 @@ Mozilla（即我们）收到您的信息时，[Mozilla 隐私政策](https://www
 我们可能会向关联方披露 Common Voice 数据库，包括 Mozilla Foundation 当前或未来的母公司、子公司、关联公司及其他受共同控制或所有权约束的组织。
 
 [了解更多](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
-

@@ -80,4 +80,3 @@ Sekiranya anda mempunyai sebarang pertanyaan lain tentang amalan data peribadi a
 Kami memberi maklum balas kepada semua permohonan yang kami terima daripada individu yang ingin melaksanakan hak perlindungan data mereka tanpa mengira tempat tinggal mereka. Kami akan menghormati permohonan anda melainkan keperluan undang-undang menghalang kami daripada berbuat demikian atau pengecualian undang-undang dikenakan.
 
 Sila kunjungi [forum](https://support.mozilla.org/) kami untuk bantuan sokongan umum.
-

@@ -51,4 +51,3 @@ Wenn Sie mit dem Ergebnis unseres internen Beschwerdeverfahrens nicht einverstan
 ## Unbegründete Meldungen
 
 Die wiederholte Einreichung unbegründeter Meldungen führt zum Entzug des Rechts auf Meldung für bis zu 6 Monate. Wenn Sie eine Meldung abgeben, achten Sie bitte darauf, dass tatsächlich ein Verstoß gegen unsere Richtlinien oder geltendes Recht vorliegt.
-

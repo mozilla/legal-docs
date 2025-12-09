@@ -30,4 +30,3 @@ __技術データ:__ 皆様の Mozilla アカウントと同期している端�
 [皆様のデータの管理](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) および [同期の有効化・無効化](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) の方法について詳細をご覧いただけます。皆様はアカウントに [サインイン](https://accounts.firefox.com/signin) することで、Mozilla アカウントのユーザーに関して Mozilla が保存する大半の情報に簡単にアクセスすることができ、また、[データ共有設定](https://accounts.firefox.com/settings/) も変更することができます。皆様の個人データのリクエストを行うには、Mozilla の [データ主体のアクセスリクエストポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) 経由でお問い合わせください。
 
 Mozilla の個人データまたはプライバシー慣行について他にご不明な点がある場合は、compliance@mozilla.com までお問い合わせください。Mozilla は、適用されるデータ保護法に従って、データ保護の権利の行使を希望する個人から受け取ったすべてのリクエストに対応いたします。
-

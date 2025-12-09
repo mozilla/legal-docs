@@ -126,4 +126,3 @@ Content intended to support the glorification or promotion of terrorist or extre
 Mozilla will remove content that contains derogatory and/or hateful language about any protected group or class, as well as content that appears intended to single out such groups for mistreatment or abuse, or to disseminate hatred or stereotypes.
 
 Accounts that violate this policy repeatedly, or who violate it in an egregious manner, will be suspended.
-

@@ -13,4 +13,3 @@ W przypadku udostępnienia przez użytkownika treści naruszających te zasady m
 - Recenzje: kliknij łącze „Zgłoś” u dołu recenzji
 
 Dodatki, które są niezgodne z zasadami lub są niedozwolone, zostaną usunięte z AMO i/lub zablokowane w przeglądarce Firefox, jeśli zostaną wykryte. Aby dowiedzieć się więcej na temat egzekwowania zasad firmy Mozilla dotyczących treści, przejdź do sekcji [Moderacja treści w witrynie firmy Mozilla](https://www.mozilla.org/about/legal/content-moderation).
-

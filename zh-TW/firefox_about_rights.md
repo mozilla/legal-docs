@@ -35,4 +35,3 @@ Mozilla Firefox 依照下列方式使用以網頁為基礎的資訊（以下簡�
 >* 輸入 geo.enabled
 >* 雙擊 geo.enabled 這個項目
 >* 位置感知瀏覽就會被停用
-

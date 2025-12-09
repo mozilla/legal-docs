@@ -150,4 +150,3 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94105 (США)  
 
 legal-notices@mozilla.com
-

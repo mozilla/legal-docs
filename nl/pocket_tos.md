@@ -181,4 +181,3 @@ Wij kunnen deze Overeenkomst te allen tijde herzien. Indien wij de Gebruiksvoorw
 ## Copyright {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation. Alle rechten voorbehouden.
-

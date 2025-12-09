@@ -21,4 +21,3 @@
 以上仅举几例。不得将此视为完整列表，我们可能会不时更新列表。一经认定内容或用户违反上述条件，Mozilla 保留删除内容或暂停用户的权利。
 
 另请参见 Mozilla [社区参与指南](https://www.mozilla.org/about/governance/policies/participation/)，其中详细说明了 Mozilla 社区参与问题。
-

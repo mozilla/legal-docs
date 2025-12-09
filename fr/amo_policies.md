@@ -13,4 +13,3 @@ Lorsqu’un utilisateur partage un contenu qui enfreint ces politiques, nous pou
 - Pour les évaluations : cliquez sur le lien « Signaler » (Flag), en bas de l’évaluation.
 
 Les modules complémentaires qui ne respectent pas ces politiques ne sont pas autorisés et seront supprimés d’AMO et/ou désactivés dans Firefox s’ils sont découverts. Pour en savoir plus sur la manière dont les politiques en matière de contenu sont appliquées, vous pouvez consulter [la page Modération du contenu chez Mozilla](https://www.mozilla.org/about/legal/content-moderation).
-

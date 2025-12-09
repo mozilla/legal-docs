@@ -94,4 +94,3 @@ Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation 
 12. #### Aspectos varios
 
     Las presentes Condiciones se rigen por las leyes del estado de California, EE. UU., excluyendo sus disposiciones sobre conflicto de leyes. Si alguna parte de las presentes Condiciones se considera no válida o no ejecutable, el resto tendrá plena vigencia y efecto. En caso de que existan discrepancias entre una versión traducida de las presentes Condiciones y la versión en inglés, será esta última la que rija.
-

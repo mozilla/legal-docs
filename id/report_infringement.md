@@ -58,4 +58,3 @@ Setelah menerima Pemberitahuan Tanggapan yang sah, kami akan segera meneruskan s
 ## Pemberitahuan Merek Dagang
 
 Jika Anda adalah pemilik atau agen dari pemilik merek dagang, dan yakin bahwa konten yang tersedia melalui salah satu atau beberapa layanan kami melanggar salah satu atau beberapa merek dagang Anda, silakan kirim pemberitahuan kepada kami berisi informasi yang diminta untuk Pemberitahuan DMCA seperti yang dijelaskan di atas. Kami menganggapnya sebagai “**Pemberitahuan Merek Dagang**” dan akan menangani laporan pelanggaran merek dagang dalam Pemberitahuan Merek Dagang seperti pada proses yang dijelaskan di atas untuk pelanggaran hak cipta.
-

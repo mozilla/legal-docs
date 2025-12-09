@@ -8,4 +8,3 @@ We care about your privacy. That’s why Mozilla (that's us) puts you in charge 
 * **Cookies and Analytics.** To improve our website, we use Google Analytics which places a cookie on your device to obtain metrics (such as number of site visits, source of web traffic, duration people stay on the site, and bounce rates). For more information, see our [Websites, Communications and Cookies Privacy Notice](https://www.mozilla.org/privacy/websites/). 
 
 * **Emails.** If you subscribe to our newsletter, we may send you occasional emails about topics we think you’d be interested in. We use [MailChimp](https://mailchimp.com/legal/privacy/) to send these emails and you can unsubscribe from the footer of the email.
-

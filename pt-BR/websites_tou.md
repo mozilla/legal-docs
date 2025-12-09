@@ -109,4 +109,3 @@ USA
 Telefone: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
-

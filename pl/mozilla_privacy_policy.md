@@ -46,4 +46,3 @@ Mozilla nie wykorzystuje informacji osobowych dłużej niż jest to konieczne. M
 ## Co w przypadku zmiany tej polityki prywatności lub innych zasad prywatności?
 
 Możemy zmienić tę politykę i nasze zasady. Zmiany zostaną opublikowane w Internecie. Jeżeli zmiany będą istotne, ogłosimy aktualizację za pośrednictwem typowych kanałów firmy służących do tego typu komunikacji, takich jak blogi czy fora. Użytkowanie produktów lub usług po dacie wejścia w życie takich zmian jest równoważne z ich akceptacją przez użytkownika. Aby ułatwić zapoznawanie się ze zmianami, datę ich wejścia w życie zamieścimy u góry tej strony.
-

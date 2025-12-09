@@ -80,4 +80,3 @@ Dacă aveți alte întrebări referitoare la datele cu caracter personal sau la 
 Răspundem tuturor cererilor pe care le primim de la persoanele care doresc să își exercite drepturile de protecție a datelor, indiferent de locația persoanei respective. Vom onora cererea dumneavoastră, cu excepția cazului în care o cerință legală ne împiedică să facem acest lucru sau dacă se aplică o excepție legală.
 
 Vizitați [forumurile](https://support.mozilla.org/) noastre dacă aveți nevoie de asistență generală.
-

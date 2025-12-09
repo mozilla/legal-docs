@@ -51,4 +51,3 @@ Se l'utente non è d'accordo con l'esito del nostro processo di ricorso interno 
 ## Segnalazioni infondate
 
 L'invio ripetuto di segnalazioni infondate comporterà la revoca dei privilegi di segnalazione per un massimo di 6 mesi. Quando si invia una segnalazione, accertarsi che vi sia un'effettiva violazione delle nostre politiche o della legge.
-

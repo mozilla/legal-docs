@@ -94,4 +94,3 @@ Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporatio
 12. #### Inne postanowienia
 
     Niniejsze Warunki podlegają prawu stanu Kalifornia (Stany Zjednoczone), z wyłączeniem przepisów o konflikcie norm prawnych. Jeśli jakakolwiek część niniejszych Warunków zostanie uznana za nieważną lub niemożliwą do wyegzekwowania, pozostałe ich postanowienia pozostaną w pełni mocy. W przypadku rozbieżności między przetłumaczoną wersją Warunków a wersją w języku angielskim, za nadrzędną uznaje ich wersję w języku angielskim.
-

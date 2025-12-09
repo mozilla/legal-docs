@@ -46,4 +46,3 @@ Verder willen we niet langer over uw persoonlijke gegevens beschikken dan dat we
 ## Wat als we dit privacybeleid of een van onze verklaringen wijzigen?
 
 Vroeg of laat kunnen we dit beleid of onze verklaringen wijzigen. Wijzigingen worden online gepubliceerd. Als de wijzigingen aanzienlijk zijn, zullen we de update aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals blogberichten en forums. Uw voortgezet gebruik van het product of de service na de ingangsdatum van dergelijke wijzigingen geeft aan dat u akkoord gaat met dergelijke wijzigingen. We publiceren de ingangsdatum bovenaan de pagina, zodat u weet waar u aan toe bent.
-

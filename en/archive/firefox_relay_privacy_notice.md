@@ -26,4 +26,3 @@ Read the telemetry documentation for [Firefox Relay](https://github.com/mozilla/
 Firefox Relay shares information with a third party to provide the service to you. Mozilla has contracted with this company requiring them to protect your information. Here’s who we use to support Firefox Relay:
 
 __[Amazon Web Services](https://aws.amazon.com/privacy/)__. Amazon Web Services (AWS) is a cloud-computing platform. Firefox Relay uses AWS to receive emails sent to your alias email address(es) and to forward them to the primary email address associated with your Firefox account. Only Mozilla knows the association between your primary email address and your alias email address(es).
-

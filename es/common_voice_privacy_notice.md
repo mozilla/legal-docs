@@ -29,4 +29,3 @@ Además, específicamente para Common Voice, también procesamos la siguiente in
 Podemos divulgar las bases de datos de Common Voice con afiliados, incluidas las actuales o futuras empresas matrices, subsidiarias, afiliadas y otras organizaciones bajo control común o propiedad de Mozilla Foundation.
 
 [Más información](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
-

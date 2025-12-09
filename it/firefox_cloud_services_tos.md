@@ -94,4 +94,3 @@ Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal
 12. #### Varie ed eventuali
 
     I presenti Termini sono governati dalle leggi dello Stato della California, USA, con esclusione delle disposizioni in materia di conflitto di leggi. Se una qualsiasi parte dei presenti Termini sarà ritenuta non valida o non applicabile, le parti rimanenti resteranno in vigore a tutti gli effetti. In caso di conflitto tra una versione tradotta dei presenti Termini e la versione in lingua inglese, prevarrà la versione in lingua inglese.
-

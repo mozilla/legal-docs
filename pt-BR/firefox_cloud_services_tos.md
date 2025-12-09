@@ -94,4 +94,3 @@ Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla
 12. #### Disposições Gerais
 
     Estes Termos são regidos pelas leis do estado da Califórnia, EUA, excluindo suas disposições de conflito de leis. Se qualquer parte destes Termos for considerada inválida ou inexequível, as partes restantes permanecerão em pleno vigor e efeito. Na hipótese de conflito entre a versão traduzida destes termos e a versão em inglês, a versão em inglês prevalecerá.
-

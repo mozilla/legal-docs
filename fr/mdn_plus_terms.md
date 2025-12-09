@@ -71,4 +71,3 @@ Mozilla Corporation
 San Francisco, CA 94105, États-Unis  
 
 legal-notices@mozilla.com
-

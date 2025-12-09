@@ -51,4 +51,3 @@ If you disagree with the outcome of our internal appeals process and are based i
 ## Unfounded reports
 
 Persistent submission of unfounded reports will result in the revocation of reporting privileges for up to 6 months. When submitting a report, please make sure there is an actual violation of our policies or the law.
-

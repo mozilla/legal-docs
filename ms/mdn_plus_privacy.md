@@ -38,4 +38,3 @@ Sekiranya anda mempunyai sebarang pertanyaan lain tentang amalan privasi kami, s
 Kami memberi maklum balas kepada semua permohonan yang kami terima daripada individu yang ingin melaksanakan hak perlindungan data mereka tanpa mengira tempat tinggal mereka. Kami akan menghormati permohonan anda melainkan keperluan undang-undang menghalang kami daripada berbuat demikian atau pengecualian undang-undang dikenakan.
 
 Sila lawati [forum](https://support.mozilla.org/) kami untuk mendapat bantuan sokongan berkaitan MDN Plus secara umum.
-

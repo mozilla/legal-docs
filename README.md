@@ -71,4 +71,3 @@ https://www.mozilla.org/about/legal/.
     * https://www.mozilla.org/en-US/privacy/
 * /websites_privacy_notice
     * https://www.mozilla.org/en-US/privacy/websites/
-

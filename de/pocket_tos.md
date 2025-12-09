@@ -181,4 +181,3 @@ Wir sind berechtigt, die vorliegende Vereinbarung jederzeit zu überarbeiten. So
 ## Urheberrechtsvermerk {: #notice }
 
 Copyright © 2012–2022 Mozilla Corporation. Alle Rechte vorbehalten.
-

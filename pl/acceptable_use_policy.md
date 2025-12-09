@@ -21,4 +21,3 @@ Nie można korzystać z żadnej usługi firmy Mozilla w sposób naruszający nin
 Są to jedynie przykłady. Niniejsza lista nie jest ostateczna i może być od czasu do czasu aktualizowana. Mozilla zastrzega sobie prawo do usuwania treści i zawieszania użytkowników, naruszających w mniemaniu firmy te warunki.
 
 Należy również zwrócić uwagę na [Wytyczne dotyczące udziału w społeczności](https://www.mozilla.org/about/governance/policies/participation/), które omawiają kwestie udziału w społecznościach firmy Mozilla.
-

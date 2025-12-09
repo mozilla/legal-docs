@@ -38,4 +38,3 @@ Als u andere vragen hebt over onze privacyprocedures, kunt u contact met ons opn
 We reageren op alle aanvragen van personen die hun gegevensbeschermingsrechten willen uitoefenen, ongeacht waar deze personen wonen. Wij zullen uw verzoek inwilligen, tenzij er een wettelijke verplichting bestaat die ons belet dit te doen of er een wettelijke uitzondering van toepassing is.
 
 Bezoek onze [forums](https://support.mozilla.org/) voor algemene Help-ondersteuning met betrekking tot MDN Plus.
-
