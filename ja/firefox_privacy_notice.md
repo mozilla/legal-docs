@@ -1,9 +1,7 @@
-# Firefox のプライバシーに関する通知
+﻿# Firefox のプライバシーに関する通知
 
 発効日 2025 年 6 月 2 日
 {: datetime="2025-06-02" }
-
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">プライバシーに関する通知を更新しました。新しいバージョンを表示するには、こちらをクリックしてください。</a>
 
 ## Mozilla は、プライバシーが健全なインターネットの基盤であると信じています
 

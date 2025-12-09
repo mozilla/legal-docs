@@ -1,4 +1,4 @@
-# A Firefox adatvédelmi nyilatkozata - Preview
+﻿# A Firefox adatvédelmi nyilatkozata - Preview
 
 Hatályos: 2025. június 2-től
 {: datetime="2025-06-02" }

@@ -3,8 +3,6 @@
 Effective June 2, 2025
 {: datetime="2025-06-02" }
 
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">We’re updating our Privacy Notice. Click here to see the new version.</a>
-
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
 That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information.

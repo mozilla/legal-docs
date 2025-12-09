@@ -1,4 +1,4 @@
-# Aviso de privacidade do Firefox - Preview
+﻿# Aviso de privacidade do Firefox - Preview
 
 Data de vigência: segunda-feira, 2 de junho de 2025
 {: datetime="2025-06-02" }

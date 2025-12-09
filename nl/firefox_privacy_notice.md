@@ -1,9 +1,7 @@
-# Firefox-privacyverklaring
+﻿# Firefox-privacyverklaring
 
 Van kracht vanaf maandag 2 juni 2025
 {: datetime="2025-06-02" }
-
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">We werken onze privacyverklaring bij. Klik hier om de nieuwe versie te bekijken.</a>
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
 

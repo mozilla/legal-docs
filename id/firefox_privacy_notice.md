@@ -1,9 +1,7 @@
-# Pemberitahuan Privasi Firefox
+﻿# Pemberitahuan Privasi Firefox
 
 Berlaku 02 Juni 2025
 {: datetime="2025-06-02" }
-
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Kami memperbarui Pemberitahuan Privasi kami. Klik di sini untuk melihat versi barunya.</a>
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 

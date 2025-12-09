@@ -1,9 +1,7 @@
-# Firefox-Datenschutzhinweis
+﻿# Firefox-Datenschutzhinweis
 
 Gültig ab Montag, 2. Juni 2025
 {: datetime="2025-06-02" }
-
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Wir aktualisieren unseren Datenschutzhinweis. Klicken Sie hier, um die neue Version anzuzeigen.</a>
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 

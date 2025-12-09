@@ -1,4 +1,4 @@
-# Informativa sulla privacy di Firefox - Preview
+﻿# Informativa sulla privacy di Firefox - Preview
 
 In vigore da lunedì 2 giugno 2025
 {: datetime="2025-06-02" }

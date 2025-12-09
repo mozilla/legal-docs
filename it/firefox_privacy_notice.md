@@ -1,9 +1,7 @@
-# Informativa sulla privacy di Firefox
+﻿# Informativa sulla privacy di Firefox
 
 In vigore da lunedì 2 giugno 2025
 {: datetime="2025-06-02" }
-
-<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">Stiamo aggiornando la nostra Informativa sulla privacy. Clicca qui per vedere la nuova versione.</a>
 
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet
 
