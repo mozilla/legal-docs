@@ -35,3 +35,4 @@ If you do not want to use one or more of the Services or the terms above are una
 >* Type geo.enabled
 >* Double click on the geo.enabled preference
 >* Location-Aware Browsing is now disabled
+

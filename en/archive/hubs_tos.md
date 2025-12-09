@@ -90,3 +90,4 @@ San Francisco, CA 94105
 legal-notices@mozilla.com
 
 If there is a conflict or ambiguity between a translated version of these terms and the English language version, the English language version applies.
+

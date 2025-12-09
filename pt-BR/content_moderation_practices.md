@@ -51,3 +51,4 @@ Caso seja residente na União Europeia e discorde do resultado do nosso processo
 ## Denúncias sem fundamento
 
 O envio persistente de denúncias sem fundamento resulta na revogação dos privilégios de denúncia por até seis meses. Ao fazer uma denúncia, certifique-se de que haja uma violação real das nossas políticas ou da lei.
+

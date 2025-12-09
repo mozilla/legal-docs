@@ -51,3 +51,4 @@ Pokud s výsledkem našeho interního odvolacího procesu nebudete souhlasit a p
 ## Nepodložená hlášení
 
 Neustále zasílání nepodložených hlášení povede k odvolání oprávnění k podání hlášení po dobu až 6 měsíců. V případě podání hlášení se prosím ujistěte, zda došlo ke skutečnému porušení zásad nebo právních předpisů.
+

@@ -80,3 +80,4 @@ Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas d
 Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos independientemente de donde residan. Cumpliremos con su solicitud a menos que un requisito legal lo impida o se aplique una excepción legal.
 
 Visite nuestros [foros](https://support.mozilla.org/) si desea obtener ayuda general.
+

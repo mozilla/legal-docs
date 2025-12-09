@@ -13,3 +13,4 @@ Se un utente condivide contenuti che violano queste politiche, possiamo rimuover
 - Per valutazioni: fai clic sul link " Segnala" in fondo alla recensione.
 
 I componenti aggiuntivi che non rispettano queste norme non sono consentiti e, se rilevati, saranno rimossi da AMO e/o disabilitati in Firefox. Per saperne di più su come vengono applicate le politiche sui contenuti di Mozilla, è possibile visitare la [pagina web dedicata alla moderazione dei contenuti di Mozilla](https://www.mozilla.org/about/legal/content-moderation).
+

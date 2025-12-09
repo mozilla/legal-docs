@@ -181,3 +181,4 @@ We may, at any time, revise this Agreement. If we modify the Terms of Service, w
 ## Copyright Notice {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation All rights reserved.
+

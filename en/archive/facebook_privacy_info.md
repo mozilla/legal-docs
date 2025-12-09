@@ -61,3 +61,4 @@ If you remove the application, we will delete your Affiliates Facebook profile a
 To view Mozilla’s Online Privacy Policy, [click here](https://www.mozilla.org/privacy/).
 
 For an FAQ on the Affiliates Facebook App, [click here](https://affiliates.mozilla.org/fb/faq).
+

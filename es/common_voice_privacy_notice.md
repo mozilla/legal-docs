@@ -30,4 +30,3 @@ Podemos divulgar las bases de datos de Common Voice con afiliados, incluidas las
 
 [Más información](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
-

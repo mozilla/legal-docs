@@ -21,3 +21,4 @@ Vous ne pouvez pas utiliser les services de Mozilla d'une façon qui enfreigne c
 Il ne s’agit que d’exemples. Cette liste ne saurait être considérée comme exhaustive et pourra être modifiée de temps en temps. Mozilla se réserve le droit de retirer tout consentement ou de suspendre tout utilisateur que nous aurons considéré comme ayant enfreint les présentes conditions.
 
 Veuillez également prendre connaissance des [Directives de participation à la communauté](https://www.mozilla.org/about/governance/policies/participation/), qui traite de la participation aux communautés de Mozilla.
+

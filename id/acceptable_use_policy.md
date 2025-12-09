@@ -21,3 +21,4 @@ Anda tidak dapat menggunakan layanan Mozilla dengan cara yang melanggar Kebijaka
 Larangan-larangan tersebut hanyalah contoh. Anda tidak boleh menganggapnya sebagai daftar lengkap, dan kami dapat memperbarui daftar ini dari waktu ke waktu. Mozilla berhak menghapus semua konten atau menangguhkan pengguna mana pun yang dianggap melanggar syarat ini.
 
 Harap perhatikan juga [Panduan Partisipasi Komunitas](https://www.mozilla.org/about/governance/policies/participation/) Mozilla, yang membahas partisipasi dalam komunitas Mozilla.
+

@@ -86,3 +86,4 @@ For support, to provide feedback, or to report abuse of Hubs or Spoke or violati
 To report a claim of copyright or trademark infringement, see [our policy](https://www.mozilla.org/about/legal/report-infringement/).
 
 For other notices, you may email us at [legal-notices@mozilla.com](mailto:legal-notices@mozilla.com) or write to us at Mozilla Corporation (Attn: Mozilla  Legal Notices, 149 New Montgomery Street, 4th Floor, San Francisco CA 94105).
+

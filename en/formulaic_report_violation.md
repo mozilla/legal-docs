@@ -52,3 +52,4 @@ If you no longer have the violation email we sent, you may also appeal by emaili
 ## Severe or repeated violations
 
 Depending on the severity of a violation or a repeated pattern of content violations, users may be suspended, removed, or permanently banned from using Formulaic.
+

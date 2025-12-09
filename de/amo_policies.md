@@ -13,3 +13,4 @@ Wenn ein Benutzer Inhalte teilt, die gegen diese Richtlinien verstoßen, sind wi
 - Bei Bewertungen: Klicken Sie unter der betreffenden Bewertung auf den Link „Kennzeichnung“.
 
 Add-ons, die diesen Richtlinien nicht entsprechen, sind nicht zulässig und werden bei Entdeckung aus AMO entfernt und/oder in Firefox deaktiviert. Wenn Sie mehr darüber erfahren möchten, wie die Inhaltsrichtlinien von Mozilla durchgesetzt werden, besuchen Sie die Seite [„Inhaltsmoderation bei Mozilla“](https://www.mozilla.org/about/legal/content-moderation).
+

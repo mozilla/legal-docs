@@ -181,3 +181,4 @@ Podemos revisar este Contrato a qualquer momento. Se fizermos qualquer alteraç�
 ## Aviso de direito autoral {: #notice }
 
 Copyright © 2012-2022 Mozilla Corporation. Todos os direitos reservados.
+

@@ -58,3 +58,4 @@ V případě doručení platného Protioznámení DMCA jeho kopii neprodleně od
 ## Oznámení o ochranných známkách
 
 Pokud jste vlastníkem ochranných známek nebo zástupcem jejich vlastníka a domníváte se, že obsah dostupný prostřednictvím jedné či několika našich služeb porušuje jednu či více vašich ochranných známek, zašlete prosím oznámení, v němž budou uvedeny informace stanovené pro Oznámení DMCA výše. To budeme považovat za „**Oznámení o ochranných známkách**“ a hlášení o porušení uvedené v Oznámení o ochranných známkách budete zpracovávat obdobně jako ve výše popsaném případě porušení autorských práv.
+

@@ -42,3 +42,4 @@ If you have any other questions regarding our privacy practices, please contact 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
 Please visit our [forums](https://support.mozilla.org/) for general VPN related support help.
+

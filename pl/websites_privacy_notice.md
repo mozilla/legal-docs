@@ -77,3 +77,4 @@ Niektóre witryny firmy Mozilla umożliwiają zakupy (np. aplikacji lub urządze
 ---------------------------------------
 
 Aby złożyć wniosek dotyczący danych osobowych, należy skontaktować się z nami za pośrednictwem [Portalu wniosków o dostęp do danych osobowych](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). W razie jakichkolwiek innych pytań dotyczących danych osobowych lub naszych praktyk w zakresie ochrony prywatności, prosimy o kontakt pod adresem [compliance@mozilla.com](mailto:compliance@mozilla.com). Odpowiadamy na wszystkie wnioski otrzymywane od osób pragnących skorzystać z przysługujących im praw w zakresie ochrony danych zgodnie z obowiązującymi przepisami o ochronie danych.
+

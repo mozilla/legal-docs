@@ -71,3 +71,4 @@ A la atención de: Mozilla – Legal Notices
 San Francisco, CA 94105, EE.UU.  
 
 legal-notices@mozilla.com
+

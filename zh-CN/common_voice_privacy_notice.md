@@ -30,4 +30,3 @@ Mozilla（即我们）收到您的信息时，[Mozilla 隐私政策](https://www
 
 [了解更多](https://github.com/common-voice/common-voice/blob/main/docs/data_dictionary.md)
 
-

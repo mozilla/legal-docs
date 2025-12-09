@@ -77,3 +77,4 @@ Alguns sites da Mozilla possibilitam fazer compras (como aplicativos ou produtos
 ---------------------------------------
 
 Para fazer solicitações relacionadas aos seus dados pessoais, entre em contato conosco pelo nosso [portal de solicitações de acesso de sujeitos de dados](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Se você tiver outras dúvidas relacionadas a dados pessoais ou às nossas práticas de privacidade, envie-nos um e-mail para [compliance@mozilla.com](mailto:compliance@mozilla.com). Respondemos a todas as solicitações recebidas de pessoas que queiram exercer seus direitos de proteção de dados em conformidade com a legislação de proteção de dados aplicável.
+

@@ -46,3 +46,4 @@ Também não queremos manter suas informações pessoais por um prazo mais longo
 ## O que acontecerá se esta Política de Privacidade ou qualquer aviso de privacidade for alterado?
 
 A alteração desta Política e dos nossos avisos pode ser necessária. As atualizações serão divulgadas online. Se as alterações forem consideráveis, anunciaremos a atualização nos canais normais da Mozilla para esse tipo de aviso, como no blog e em fóruns. Seu uso contínuo do produto ou serviço após a data de vigência dessas alterações constitui sua aceitação delas. Para tornar sua análise mais conveniente, publicaremos a data de vigência na parte superior da página.
+

@@ -46,3 +46,4 @@ Mozilla non vuole conservare i dati personali dell’utente più a lungo del nec
 ## Che cosa succede se Mozilla modifica la presente informativa?
 
 Qualora Mozilla dovesse modificare la presente informativa e/o altre informative, gli aggiornamenti saranno pubblicati online. Se tali aggiornamenti saranno sostanziali ne verrà dato annuncio nei canali normalmente utilizzati per questo tipo di annunci, come blog e forum. L’utente che continui a utilizzare i nostri prodotti o servizi in data successiva all’entrata in vigore di tali modifiche, confermerà di accettare implicitamente tali modifiche. Al fine di rendere trasparente l’entrata in vigore di tali modifiche, la data effettiva verrà indicata nella parte superiore di questa pagina.
+

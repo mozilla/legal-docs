@@ -58,3 +58,4 @@ Po otrzymaniu ważnego Kontrpowiadomienia niezwłocznie prześlemy jego kopię o
 ## Powiadomienia o znakach towarowych
 
 Jeśli jesteś właścicielem znaku towarowego lub agentem właściciela i uważasz, że treść dostępna za pośrednictwem jednej lub więcej naszych usług narusza jedno lub więcej Twoich znaków towarowych, należy wysłać nam powiadomienie zawierające informacje wymagane dla Powiadomienia DMCA, jak opisano powyżej. Uznajemy to za „**Powiadomienie o znaku towarowym**” i będziemy rozpatrywać zgłoszenia naruszeń znaków towarowych w Powiadomieniach o znakach towarowych podobnie do procesu opisanego powyżej dla naruszeń praw autorskich.
+

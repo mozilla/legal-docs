@@ -21,3 +21,4 @@ A Mozilla egyik szolgáltatását sem használhatja olyan módon, amely sérti e
 Ezek csak példák. Ezt nem szabad teljes listának tekintenie, és időről időre frissíthetjük a listát. A Mozilla fenntartja a jogot, hogy eltávolítson minden olyan tartalmat, vagy felfüggesszen minden olyan felhasználót, amelyről úgy ítéli meg, hogy megsérti a jelen feltételeket.
 
 Tartsa szem előtt a Mozilla [közösségi részvételre vonatkozó irányelveit](https://www.mozilla.org/about/governance/policies/participation/) is, amelyek a Mozilla-közösségekben való részvételre vonatkoznak. 
+

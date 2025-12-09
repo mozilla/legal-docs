@@ -65,3 +65,4 @@ You can learn more by looking at the [code itself](https://github.com/mozilla/sp
 **Twitter**: If you connect Twitter to Hubs, you can tweet and share 2D images from Hubs rooms. Any content you tweet will be shared with Twitter and published on the Twitter platform. You can see Twitter’s [Privacy Policy](https://twitter.com/en/privacy) for more information.
 
 **Discord**: If you connect Discord to Hubs, we store access tokens and the server and channel IDs that have been connected. We will synchronize chat messages, room changes, 2D and 3D objects you create, and whether you join or leave with the connected Discord channel. Hubs does not log any synchronized messages. You can see [Discord’s Privacy Policy](https://discordapp.com/privacy) for more information.
+

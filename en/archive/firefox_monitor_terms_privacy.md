@@ -30,3 +30,4 @@ When Mozilla receives information from you, our [Mozilla Privacy Policy](https:/
 ## 5. Your and Our Rights
 
 The [Websites and Communications Terms](https://www.mozilla.org/about/legal/terms/mozilla/) of Use governs Mozilla websites and emails we send, including those of Firefox Monitor.  **It includes an indemnification, disclaimer, and limitation on liability.** Although Firefox Monitor and [Have I Been Pwned?](https://haveibeenpwned.com/), strive to have current data, there is no guarantee that either will have complete or timely records of all public data breaches.                           
+

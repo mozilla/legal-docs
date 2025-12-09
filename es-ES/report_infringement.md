@@ -58,3 +58,4 @@ Una vez recibida una Contranotificación válida, enviaremos de inmediato una co
 ## Notificaciones sobre marcas comerciales
 
 Si usted es propietario de una marca comercial o agente del propietario y considera que el contenido disponible por medio de uno o más de nuestros servicios infringe una o más de sus marcas comerciales, sírvase enviarnos un aviso que contenga la información requerida para un Aviso de DMCA según se especificó anteriormente. Consideramos que esto es un “**Aviso de marca comercial**” y manejaremos los reportes de violaciones a marcas comerciales contenidos en los Avisos de marcas comerciales de un modo similar al proceso descrito anteriormente para las violaciones de copyright.
+

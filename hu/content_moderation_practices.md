@@ -51,3 +51,4 @@ Ha nem ért egyet a belső fellebbezési eljárásunk eredményével, és az EU 
 ## Megalapozatlan jelentések
 
 A megalapozatlan jelentések folyamatos beküldése a jelentési jogosultság legfeljebb 6 hónapra történő visszavonását vonja maga után. A jelentés beküldésekor győződjön meg arról, hogy annak tárgya a szabályzatunkat vagy jogszabályokat sért.
+

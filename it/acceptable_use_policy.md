@@ -21,3 +21,4 @@ Non è consentito utilizzare alcun servizio Mozilla in violazione della presente
 Questo elenco ha fini puramente esemplificativi, non è definitivo e può essere periodicamente aggiornato. Mozilla si riserva il diritto di rimuovere qualsiasi contenuto o sospendere qualsiasi utente che violi le presenti condizioni.
 
 Si rimanda inoltre l’utente alle [linee guida sulla partecipazione alla Comunità](https://www.mozilla.org/about/governance/policies/participation/) di Mozilla, che regolano la partecipazione alle comunità di Mozilla.
+

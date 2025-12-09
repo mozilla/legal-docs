@@ -38,3 +38,4 @@ Jika ada pertanyaan lain terkait praktik kebijakan, silakan hubungi kami di comp
 Kami akan menanggapi semua permintaan yang diterima dari tiap individu yang ingin menjalankan hak perlindungan data mereka di mana pun mereka tinggal. Kami akan menghargai permintaan Anda kecuali jika ada persyaratan hukum yang mencegah kami melakukannya atau ada pengecualian hukum yang berlaku.
 
 Kunjungi [forum](https://support.mozilla.org/) kami untuk bantuan dukungan terkait MDN Plus.
+

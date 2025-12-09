@@ -23,3 +23,4 @@ The following are approved targeting tactics for all marketing, advertising and 
 * Daypart Targeting - Tailoring advertisements to show only certain times of day. For example, daily 8am-8pm.
 * Browser & Browser Version Targeting - Targeting segmented by only showing ads to users on a specific browser or browser version. For example, IE v 6.0.
 * Demographic / Audience targeting  - Targeting an audience based on demographic profiles based on the vendor site or network’s 1st party data. For example, if a user has already signed up for a Yahoo account where the user has agreed to the terms of use, the use of Yahoo’s 1st or 3rd-party data is acceptable.
+

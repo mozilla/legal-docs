@@ -35,3 +35,4 @@ Wenn Sie einen oder mehrere Dienste nicht nutzen oder die obenstehenden Bedingun
 >* Geben Sie „geo.enabled“ ein.
 >* Doppelklicken Sie auf die Einstellung „geo.enabled“.
 >* Standortbezogenes Browsing ist nun deaktiviert.
+

@@ -77,3 +77,4 @@ Some Mozilla websites allow you to make purchases (such as apps or gear), contri
 ---------------------------------------
 
 To make requests regarding your personal data, please contact us through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you have any other questions regarding personal data or our privacy practices, please contact us at [compliance@mozilla.com](mailto:compliance@mozilla.com). We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+

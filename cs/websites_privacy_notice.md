@@ -77,3 +77,4 @@ Některé webové stránky Mozilla umožňují provádět nákupy (např. aplika
 ---------------------------------------
 
 V případě zaslání žádosti ohledně vašich osobních údajů nás prosím kontaktujte prostřednictvím našeho [Portálu žádosti o přístup subjektů údajů](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). Pokud máte jakékoliv dotazy ohledně vašich osobních údajů nebo našich postupů ochrany osobních údajů, kontaktujte nás na adrese [compliance@mozilla.com](mailto:compliance@mozilla.com). Na veškeré žádosti doručené od fyzických osob s žádostí o uplatnění jejich práv na ochranu osobních údajů budeme reagovat v souladu s platnými právními předpisy o ochraně osobních údajů.
+

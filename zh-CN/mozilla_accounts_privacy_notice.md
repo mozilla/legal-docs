@@ -30,3 +30,4 @@ __技术数据。__ 为显示哪些设备与您的 Mozilla 帐户同步以及发
 您可以了解更多关于[管理您的数据](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) 以及如何[启用或禁用同步](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer)的信息。此外，我们存储的关于 Mozilla 帐户用户的许多信息可以通过[登录](https://accounts.firefox.com/signin)您的帐户轻松访问，您也可以在其中更新您的[数据共享设置](https://accounts.firefox.com/settings/)。如果您对于您的个人数据有任何请求，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)与我们联系。
 
 如果您对个人数据或我们的隐私保护措施有任何其他问题，请发送电子邮件至 compliance@mozilla.com 与我们联系。我们会回应所有从个人用户处收到的希望根据适用的数据保护法行使其数据保护权利的请求。
+

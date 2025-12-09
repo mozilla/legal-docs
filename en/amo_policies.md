@@ -13,3 +13,4 @@ When a user shares content that violates these policies, we may remove the conte
 - For ratings: click the “Flag” link, at the bottom of the review
 
 Add-ons that do not comply with these policies are not permitted, and will be removed from AMO and/or disabled in Firefox if discovered. To learn more about how Mozilla’s content policies are enforced, you can visit the [Content Moderation at Mozilla web page](https://www.mozilla.org/about/legal/content-moderation).
+

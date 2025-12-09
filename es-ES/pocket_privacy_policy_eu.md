@@ -122,3 +122,4 @@ Avenue Louise 235 b 1
 Belgium  
 
 Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos de acuerdo con la legislación aplicable en materia de protección de datos. Usted también tiene derecho a presentar una reclamación ante la autoridad local de protección de datos.
+

@@ -58,3 +58,4 @@ Na ontvangst van een geldige tegenkennisgeving sturen we direct een exemplaar na
 ## Kennisgevingen over handelsmerken
 
 Als u de eigenaar van een handelsmerk bent, of de vertegenwoordiger van de eigenaar, en van mening bent dat de content die beschikbaar is via een of meer van de diensten van Mozilla een inbreuk is op een of meer van uw handelsmerken, stuur ons dan een kennisgeving met de informatie die we nodig hebben voor een DMCA-kennisgeving, zoals hierboven wordt beschreven. We noemen dit een ‘**Handelsmerkkennisgeving**’ en behandelen meldingen van handelsmerkschendingen op een vergelijkbare manier als het hierboven beschreven proces voor schendingen van het auteursrecht.
+

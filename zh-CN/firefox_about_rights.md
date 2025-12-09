@@ -35,3 +35,4 @@ Mozilla Firefox 在下述条款下，为该二进制版本 Firefox 用户使用�
 >* 输入 geo.enabled
 >* 双击 geo.enabled 项目
 >* 位置感知现在已禁用
+

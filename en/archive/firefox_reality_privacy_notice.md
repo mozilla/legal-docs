@@ -34,3 +34,4 @@ If you turn crash reporting on Mozilla will receive a report with more informati
 * **Crash information:** This provides information about the crash, including a report of Firefox Reality’s subroutines at the time of the crash, and a whether a crash happened before Firefox Reality finished starting up, what type of process caused the crash and the information in device memory at the time of the crash. 
 
 For more information, and to see examples of real crash reports, see [Crash Data](https://crash-stats.mozilla.com/).
+

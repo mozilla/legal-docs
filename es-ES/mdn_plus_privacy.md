@@ -38,3 +38,4 @@ Si tiene alguna otra pregunta sobre nuestras prácticas en relación con la prot
 Respondemos a todas las solicitudes que recibimos de personas que desean ejercer sus derechos de protección de datos independientemente de donde residan. Cumpliremos con sus solicitud a menos que un requisito legal lo impida o se aplique una excepción legal.
 
 Puede visitar nuestros [foros](https://support.mozilla.org/) para obtener ayuda general en relación con el servicio de MDN Plus.
+
