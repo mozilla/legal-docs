@@ -1,6 +1,6 @@
 # Mozilla Subscription Services | Terms of Service
 
-Version 3.0, effective December 17, 2025
+Effective December 17, 2025
 {: datetime="2025-12-17" }
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
