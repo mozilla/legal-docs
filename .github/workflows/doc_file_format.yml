@@ -1,0 +1,46 @@
+name: Check file format
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '.github/workflows/doc_file_format.yml'
+      # Ignore Markdown files in the root
+      - '!*.md'
+  pull_request:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    name: Check markdown files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v5
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Python dependencies
+        run: |
+          pip install -r .github/requirements.txt
+      - name: Run formatter
+        run: >
+          python .github/scripts/format_md_files.py
+      - name: Fail if there are unformatted files
+        run: |
+          if ! git diff --quiet; then
+            echo "::error ::Markdown files are not properly formatted. Please run:"
+            echo "  python .github/scripts/format_md_files.py"
+            echo "and commit the changes."
+            echo
+            echo "List of files changed:"
+            git status --porcelain | awk '{print $2}'
+            echo
+            echo "Changes:"
+            git diff
+            exit 1
+          fi          

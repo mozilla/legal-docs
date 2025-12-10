@@ -40,13 +40,14 @@ def normalize_file(path: Path) -> None:
     changed = normalized_text != original_text
     if changed:
         print(f"Normalized file ending: {path}")
-        try:
-            # Writing in text mode ensures UTF-8 encoding.
-            # newline="" ensures Python doesn't convert LF back to CRLF.
-            with path.open("w", encoding="utf-8", newline="") as f:
-                f.write(normalized_text)
-        except Exception as e:
-            print(f"Error writing {path}: {e}", file=sys.stderr)
+
+    try:
+        # Writing in text mode ensures UTF-8 encoding.
+        # newline="" ensures Python doesn't convert LF back to CRLF.
+        with path.open("w", encoding="utf-8", newline="") as f:
+            f.write(normalized_text)
+    except Exception as e:
+        print(f"Error writing {path}: {e}", file=sys.stderr)
 
 
 def main() -> None:
