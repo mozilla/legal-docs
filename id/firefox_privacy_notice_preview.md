@@ -29,7 +29,7 @@ Jika Anda memilih untuk mengaktifkan fitur Goyang untuk Meringkas di Firefox sel
 
 Saat Anda mengetik kueri pencarian dalam Firefox, Firefox menawarkan [saran pencarian](https://support.mozilla.org/kb/search-suggestions-firefox) untuk memberi Anda akses yang lebih cepat dan langsung pada apa yang Anda cari. Beberapa saran pencarian berasal dari penyedia pencarian Anda (“Saran Pencarian”). Saran lainnya berasal dari Firefox, dan didasarkan pada informasi yang disimpan di perangkat lokal Anda (termasuk istilah pencarian, tab yang dibuka, dan URL yang sebelumnya dikunjungi), atau konten dari Mozilla dan mitra Mozilla, termasuk sponsor berbayar dan referensi internet seperti Wikipedia (“Saran dari Firefox”).
 
-Secara default, Firefox menampilkan Saran Pencarian. Permintaan saran — termasuk data teknis dan kueri waktu nyata Anda — dikirim langsung ke penyedia pencarian Anda saat Anda mengetik, dan diproses sesuai pemberitahuan privasi penyedia pencarian Anda ([ditautkan di bawah ini](#privacy-notices-for-search-providers)). Anda bisa menonaktifkan Saran Pencarian atau mengubah penyedia pencarian default kapan saja, sebagaimana dijabarkan di halaman [Dukungan Firefox](https://support.mozilla.org/kb/firefox-suggest) ini.
+Secara default, Firefox menampilkan Saran Pencarian. Permintaan saran — termasuk data teknis dan kueri waktu nyata Anda — dikirim langsung ke penyedia pencarian Anda saat Anda mengetik, dan diproses sesuai pemberitahuan privasi penyedia pencarian Anda ([ditautkan di bawah ini](#bookmark-search-pns)). Anda bisa menonaktifkan Saran Pencarian atau mengubah penyedia pencarian default kapan saja, sebagaimana dijabarkan di halaman [Dukungan Firefox](https://support.mozilla.org/kb/firefox-suggest) ini.
 
 Pengguna di Amerika Serikat dan beberapa wilayah lainnya juga akan menerima Saran dari Firefox. Anda bisa menonaktifkannya secara menyeluruh, atau hanya menonaktifkan Saran bersponsor dari Firefox, di pengaturan peramban Anda.
 
@@ -442,7 +442,8 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
     </tbody>
 </table>
 
-## Pemberitahuan Privasi untuk penyedia pencarian
+<a id="bookmark-search-pns"></a>
+## Pemberitahuan Privasi untuk penyedia pencarian tertentu
 
 [Google](https://policies.google.com/privacy)
 

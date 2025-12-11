@@ -29,7 +29,7 @@ Als u ervoor kiest om de functie Schudden voor een samenvatting in te schakelen 
 
 Wanneer u een zoekopdracht typt in Firefox, biedt Firefox [zoeksuggesties](https://support.mozilla.org/kb/search-suggestions-firefox) om u snelle en rechtstreekse toegang te bieden tot wat u zoekt. Enkele van de zoeksuggesties zijn afkomstig van uw zoekservice (Zoeksuggesties). Andere zijn afkomstig van Firefox en worden gebaseerd op informatie die is opgeslagen op uw lokale apparaat (waaronder recente zoektermen, open tabbladen en eerder bezochte URL’s) of op content van Mozilla en partners van Mozilla, waaronder betaalde sponsors en internetbronnen, zoals Wikipedia (Suggesties van Firefox).
 
-Firefox geeft standaard zoeksuggesties weer. Suggestieaanvragen, waaronder uw realtime zoekopdracht- en technische gegevens, worden rechtstreeks naar uw zoekservice verzonden, terwijl u typt. Deze gegevens worden verwerkt in overeenstemming met de privacyverklaring van uw zoekservice ([waarnaar u hieronder een koppeling vindt](#privacy-notices-for-search-providers)). U kunt Zoeksuggesties op elk gewenst moment uitschakelen of uw standaard zoekservice wijzigen via deze [Firefox-ondersteuningspagina](https://support.mozilla.org/kb/firefox-suggest).
+Firefox geeft standaard zoeksuggesties weer. Suggestieaanvragen, waaronder uw realtime zoekopdracht- en technische gegevens, worden rechtstreeks naar uw zoekservice verzonden, terwijl u typt. Deze gegevens worden verwerkt in overeenstemming met de privacyverklaring van uw zoekservice ([waarnaar u hieronder een koppeling vindt](#bookmark-search-pns)). U kunt Zoeksuggesties op elk gewenst moment uitschakelen of uw standaard zoekservice wijzigen via deze [Firefox-ondersteuningspagina](https://support.mozilla.org/kb/firefox-suggest).
 
 Gebruikers in de Verenigde Staten en bepaalde andere regio’s, ontvangen eveneens suggesties van Firefox. U kunt deze volledig uitschakelen of alleen gesponsorde suggesties van Firefox uitschakelen. U doet dit in uw browserinstellingen.
 
@@ -442,7 +442,8 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
     </tbody>
 </table>
 
-## Privacyverklaringen voor leveranciers van zoekservices
+<a id="bookmark-search-pns"></a>
+## Privacyverklaringen voor geselecteerde leveranciers van zoekservices
 
 [Google](https://policies.google.com/privacy)
 

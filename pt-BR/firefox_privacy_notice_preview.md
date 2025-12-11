@@ -29,7 +29,7 @@ Se você habilitar o recurso Agitar para resumir no Firefox para dispositivos m�
 
 Ao digitar uma consulta de pesquisa no Firefox, ele oferece [sugestões de pesquisa](https://support.mozilla.org/kb/search-suggestions-firefox) para que você tenha acesso mais rápido e direto ao que está procurando. Algumas dessas sugestões de pesquisa são provenientes do seu provedor de pesquisa (“Sugestões de pesquisa”). Outras, são provenientes do Firefox e baseadas em informações armazenadas no seu aparelho local (incluindo termos de pesquisa recentes, abas abertas e URLS acessadas anteriormente) ou conteúdo da Mozilla e de seus parceiros, incluindo patrocinadores e recursos da internet, como Wikipédia (“Sugestões do Firefox”).
 
-Por padrão, o Firefox mostra Sugestões de pesquisa. As solicitações de sugestões, incluindo sua consulta de pesquisa em tempo real e dados técnicos, são enviadas diretamente para seu provedor de pesquisa enquanto você digita e são tratadas de acordo com o aviso de privacidade dele ([link abaixo](#privacy-notices-for-search-providers)). É possível desativar as Sugestões de pesquisa ou alterar seu provedor de pesquisa padrão a qualquer momento, conforme descrito na página de [Suporte do Firefox](https://support.mozilla.org/kb/firefox-suggest).
+Por padrão, o Firefox mostra Sugestões de pesquisa. As solicitações de sugestões, incluindo sua consulta de pesquisa em tempo real e dados técnicos, são enviadas diretamente para seu provedor de pesquisa enquanto você digita e são tratadas de acordo com o aviso de privacidade dele ([link abaixo](#bookmark-search-pns)). É possível desativar as Sugestões de pesquisa ou alterar seu provedor de pesquisa padrão a qualquer momento, conforme descrito na página de [Suporte do Firefox](https://support.mozilla.org/kb/firefox-suggest).
 
 Usuários nos EUA e em algumas outras regiões também recebem Sugestões do Firefox. É possível desativá-las totalmente ou apenas as Sugestões do Firefox patrocinadas nas configurações do navegador.
 
@@ -442,7 +442,8 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
     </tbody>
 </table>
 
-## Avisos de privacidade de provedores de pesquisa
+<a id="bookmark-search-pns"></a>
+## Avisos de privacidade de provedores de pesquisa selecionados
 
 [Google](https://policies.google.com/privacy)
 

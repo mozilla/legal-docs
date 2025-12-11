@@ -29,7 +29,7 @@ Apple Intelligence 搭載の（iOS 26 以降の iPhone 15 Pro 以上）デバイ
 
 Firefox で検索クエリーを入力すると、探している情報により速く、より直接アクセスできるよう、[検索候補](https://support.mozilla.org/kb/search-suggestions-firefox)が表示されます。検索候補の一部は、検索プロバイダーから提供されるものです（「検索候補」など）。その他の候補は Firefox から提供されるもので、お使いのローカルデバイス上に保存されている情報（最近の検索語句、開いているタブ、以前に訪問した URL など）や、Mozilla および Mozilla のパートナーが提供するコンテンツ（有料スポンサーの情報や、Wikipedia などのインターネットリソースを含む）に基づいて表示されます（「Firefox からのおすすめ」）。
 
-初期設定では、Firefox では検索候補が表示されます。検索候補のリクエスト（入力中のリアルタイムの検索クエリ―や技術データを含む）は、文字が入力されるたびに検索プロバイダーへ直接送信され、検索プロバイダーのプライバシーに関する通知（[下記にリンク](#privacy-notices-for-search-providers)）に従って処理されます。この [Firefox サポート](https://support.mozilla.org/kb/firefox-suggest)ページに記載されている手順に従って、検索候補をいつでも無効にしたり、デフォルトの検索プロバイダーを変更したりすることができます。
+初期設定では、Firefox では検索候補が表示されます。検索候補のリクエスト（入力中のリアルタイムの検索クエリ―や技術データを含む）は、文字が入力されるたびに検索プロバイダーへ直接送信され、検索プロバイダーのプライバシーに関する通知（[下記にリンク](#bookmark-search-pns)）に従って処理されます。この [Firefox サポート](https://support.mozilla.org/kb/firefox-suggest)ページに記載されている手順に従って、検索候補をいつでも無効にしたり、デフォルトの検索プロバイダーを変更したりすることができます。
 
 米国およびその他の一部の地域のユーザーには、「Firefox からのおすすめ」も表示されます。ブラウザーの設定を使用して、これらの提案を完全に無効にすることも、Firefox のスポンサー付き提案だけを無効にすることもできます。
 
@@ -442,7 +442,8 @@ Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition�
     </tbody>
 </table>
 
-## 検索プロバイダーのプライバシー通知
+<a id="bookmark-search-pns"></a>
+## 一部の検索プロバイダーのプライバシー通知
 
 [Google](https://policies.google.com/privacy)
 

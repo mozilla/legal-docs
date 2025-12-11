@@ -29,7 +29,7 @@ Firefox 会处理多种个人数据，这些数据不会离开您的设备，例
 
 当您在 Firefox 中输入搜索查询时，Firefox 会提供[搜索建议](https://support.mozilla.org/kb/search-suggestions-firefox)，以助您更快、更直接地找到所需内容。部分搜索建议来自您的搜索提供商（即“搜索建议”）。其他建议则来自 Firefox，其依据包括存储在您本地设备上的信息（如近期搜索词、打开的标签页和曾访问的网址），或来自 Mozilla 及其合作伙伴（包括付费赞助方和维基百科等网络资源）的内容（即“Firefox 建议”）。
 
-默认情况下，Firefox 会显示搜索建议。在您输入时，建议请求（包括您的实时搜索查询与技术数据）将直接发送至您的搜索提供商，并按该提供商的隐私声明（[链接如下](#privacy-notices-for-search-providers)）进行处理。您可以随时根据此 [Firefox 支持](https://support.mozilla.org/kb/firefox-suggest)页面的说明，关闭搜索建议或更改默认搜索提供商。
+默认情况下，Firefox 会显示搜索建议。在您输入时，建议请求（包括您的实时搜索查询与技术数据）将直接发送至您的搜索提供商，并按该提供商的隐私声明（[链接如下](#bookmark-search-pns)）进行处理。您可以随时根据此 [Firefox 支持](https://support.mozilla.org/kb/firefox-suggest)页面的说明，关闭搜索建议或更改默认搜索提供商。
 
 美国及部分其他地区的用户还将收到 Firefox 建议。您可以在浏览器设置中完全关闭此类建议，或仅关闭 Firefox 中的赞助类建议。
 
@@ -458,7 +458,8 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
 
 <!-- End of additional section. -->
 
-## 搜索提供商的隐私声明
+<a id="bookmark-search-pns"></a>
+## 部分搜索提供商的隐私声明
 
 [Google](https://policies.google.com/privacy)
 

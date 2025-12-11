@@ -29,7 +29,7 @@ Wenn Sie die Funktion „Zum Zusammenfassen schütteln“ in Firefox Mobile auf 
 
 Wenn Sie eine Suchanfrage in Firefox eingeben, bietet Firefox [Suchvorschläge an](https://support.mozilla.org/kb/search-suggestions-firefox), um Ihnen einen schnelleren und direkteren Zugriff auf das Gewünschte zu ermöglichen. Einige der Suchvorschläge stammen von Ihrem Suchanbieter („Suchvorschläge“). Andere kommen von Firefox und basieren auf Informationen, die auf Ihrem lokalen Gerät gespeichert sind (insbesondere kürzlich verwendete Suchbegriffe, offene Tabs und zuvor besuchte URLs), oder auf Inhalten von Mozilla und Partnerunternehmen von Mozilla, einschließlich zahlender Sponsoren und Internetressourcen wie Wikipedia („Vorschläge von Firefox“).
 
-Standardmäßig zeigt Firefox Suchvorschläge an. Vorschlagsanfragen – einschließlich Ihrer Echtzeitsuchanfrage und technischer Daten – werden bei der Eingabe direkt an Ihren Suchanbieter gesendet und gemäß dessen Datenschutzerklärung ([Link nachstehend](#privacy-notices-for-search-providers)) verarbeitet. Sie können Suchvorschläge jederzeit deaktivieren oder Ihren Standardsuchanbieter ändern, wie auf [dieser Firefox-Supportseite](https://support.mozilla.org/kb/firefox-suggest) beschrieben.
+Standardmäßig zeigt Firefox Suchvorschläge an. Vorschlagsanfragen – einschließlich Ihrer Echtzeitsuchanfrage und technischer Daten – werden bei der Eingabe direkt an Ihren Suchanbieter gesendet und gemäß dessen Datenschutzerklärung ([Link nachstehend](#bookmark-search-pns)) verarbeitet. Sie können Suchvorschläge jederzeit deaktivieren oder Ihren Standardsuchanbieter ändern, wie auf [dieser Firefox-Supportseite](https://support.mozilla.org/kb/firefox-suggest) beschrieben.
 
 Benutzer in den Vereinigten Staaten von Amerika und bestimmten weiteren Regionen erhalten ebenfalls Vorschläge von Firefox. In Ihren Browser-Einstellungen können Sie diese Vorschläge vollständig oder aber lediglich die gesponserten Vorschläge von Firefox deaktivieren.
 
@@ -442,7 +442,8 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
     </tbody>
 </table>
 
-## Datenschutzhinweise von Suchmaschinen
+<a id="bookmark-search-pns"></a>
+## Datenschutzhinweise ausgewählter Suchmaschinen
 
 [Google](https://policies.google.com/privacy)
 

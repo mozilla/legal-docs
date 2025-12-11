@@ -29,7 +29,7 @@ Pokud se rozhodnete povolit funkci Shake to Summarize v aplikaci Firefox pro mob
 
 Když ve Firefoxu píšete dotaz, Firefox nabízí [návrhy vyhledávání](https://support.mozilla.org/kb/search-suggestions-firefox), aby vám poskytl rychlejší a přímější přístup k tomu, co hledáte. Některé návrhy vyhledávání pocházejí z vašeho poskytovatele vyhledávání („Návrhy vyhledávání“). Další pocházejí z Firefoxu a vycházejí z informací uložených ve vašem místním zařízení (včetně nedávno vyhledávaných pojmů, otevřených karet a dříve navštívených adres URL) nebo z obsahu společnosti Mozilla a partnerů společnosti Mozilla, včetně placených sponzorů a internetových zdrojů, jako je Wikipedia („Návrhy od Firefoxu“).
 
-Dle výchozího nastavení Firefox zobrazuje Návrhy vyhledávání. Žádosti o návrhy — včetně vašich vyhledávacích dotazů a technických dat v reálném čase — jsou odesílány přímo vašemu poskytovateli vyhledávání během psaní a jsou zpracovávány v souladu se zásadami ochrany osobních údajů vašeho poskytovatele vyhledávání ([odkaz uveden níže](#privacy-notices-for-search-providers)). Návrhy vyhledávání můžete kdykoliv vypnout, stejně jako změnit vašeho výchozího poskytovatele vyhledávání, jak je uvedeno na této stránce [Podpory Firefox](https://support.mozilla.org/kb/firefox-suggest).
+Dle výchozího nastavení Firefox zobrazuje Návrhy vyhledávání. Žádosti o návrhy — včetně vašich vyhledávacích dotazů a technických dat v reálném čase — jsou odesílány přímo vašemu poskytovateli vyhledávání během psaní a jsou zpracovávány v souladu se zásadami ochrany osobních údajů vašeho poskytovatele vyhledávání ([odkaz uveden níže](#bookmark-search-pns)). Návrhy vyhledávání můžete kdykoliv vypnout, stejně jako změnit vašeho výchozího poskytovatele vyhledávání, jak je uvedeno na této stránce [Podpory Firefox](https://support.mozilla.org/kb/firefox-suggest).
 
 Uživatelé ve Spojených státech amerických a některých dalších regionech rovněž získají Návrhy od Firefoxu. Tyto můžete v nastavení vašeho prohlížeče vypnout zcela, nebo vypnout jen sponzorované Návrhy od Firefoxu.
 
@@ -442,7 +442,8 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
     </tbody>
 </table>
 
-## Zásady ochrany osobních údajů pro poskytovatele vyhledávání
+<a id="bookmark-search-pns"></a>
+## Zásady ochrany osobních údajů pro vybrané poskytovatele vyhledávání
 
 [Google](https://policies.google.com/privacy)
 

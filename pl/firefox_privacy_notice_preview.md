@@ -29,7 +29,7 @@ Jeśli użytkownik zdecyduje się włączyć funkcję „Potrząśnij, aby stre�
 
 Podczas wpisywania zapytania w przeglądarce Firefox przeglądarka ta wyświetla [podpowiedzi wyszukiwania](https://support.mozilla.org/kb/search-suggestions-firefox), aby zapewnić szybszy i bardziej bezpośredni dostęp do poszukiwanych informacji. Niektóre podpowiedzi wyszukiwania pochodzą od dostawcy usług wyszukiwania („Podpowiedzi wyszukiwania”). Inne pochodzą z Firefoksa i są oparte na informacjach przechowywanych na urządzeniu lokalnym użytkownika (w tym ostatnich wyszukiwanych hasłach, otwartych kartach i wcześniej odwiedzanych adresach URL) lub treściach pochodzących od firmy Mozilla i partnerów firmy Mozilla, w tym płacących sponsorów i zasobów internetowych, takich jak Wikipedia („Podpowiedzi z Firefoksa”).
 
-Domyślnie Firefox wyświetla Podpowiedzi wyszukiwania. Żądania podpowiedzi — w tym wyszukiwane hasła w czasie rzeczywistym i dane techniczne — są wysyłane bezpośrednio do dostawcy usług wyszukiwania podczas wpisywania i przetwarzane zgodnie z zasadami prywatności dostawcy usług wyszukiwania ([łącze poniżej](#privacy-notices-for-search-providers)). W każdej chwili użytkownik może wyłączyć podpowiedzi wyszukiwania lub zmienić domyślnego dostawcę usług wyszukiwania, zgodnie z opisem na stronie [Pomoc dla Firefoksa](https://support.mozilla.org/kb/firefox-suggest).
+Domyślnie Firefox wyświetla Podpowiedzi wyszukiwania. Żądania podpowiedzi — w tym wyszukiwane hasła w czasie rzeczywistym i dane techniczne — są wysyłane bezpośrednio do dostawcy usług wyszukiwania podczas wpisywania i przetwarzane zgodnie z zasadami prywatności dostawcy usług wyszukiwania ([łącze poniżej](#bookmark-search-pns)). W każdej chwili użytkownik może wyłączyć podpowiedzi wyszukiwania lub zmienić domyślnego dostawcę usług wyszukiwania, zgodnie z opisem na stronie [Pomoc dla Firefoksa](https://support.mozilla.org/kb/firefox-suggest).
 
 Użytkownicy w Stanach Zjednoczonych i niektórych innych regionach będą również otrzymywać podpowiedzi z Firefoksa. Można je całkowicie wyłączyć lub wyłączyć tylko sponsorowane podpowiedzi z Firefoksa w ustawieniach przeglądarki.
 
@@ -442,7 +442,8 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
     </tbody>
 </table>
 
-## Zasady prywatności dostawców usług wyszukiwania
+<a id="bookmark-search-pns"></a>
+## Zasady prywatności wybranych dostawców usług wyszukiwania
 
 [Google](https://policies.google.com/privacy)
 

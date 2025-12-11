@@ -29,7 +29,7 @@ Si usted elije habilitar la función Agitar para resumir en Firefox móvil o en 
 
 Cuando usted escribe una consulta de búsqueda en Firefox, Firefox ofrece [sugerencias de búsqueda](https://support.mozilla.org/kb/search-suggestions-firefox) para proporcionarle un acceso más rápido y directo a lo que usted está buscando. Algunas sugerencias de búsqueda llegan de su proveedor de búsqueda («Sugerencias de búsqueda»). Otras llegan de Firefox, y están basadas en información almacenada en su dispositivo local (incluidos términos de búsqueda recientes, pestañas abiertas y URLs que usted visitó previamente), o contenido de Mozilla y sus socios, incluidos los socios pagos y los recursos de internet como Wikipedia («Sugerencias de Firefox»).
 
-Por defecto, Firefox muestra las Sugerencias de búsqueda. Solicitudes de sugerencias: incluyen su consulta de búsqueda en tiempo real y los datos técnicos, y se le mandan directamente a su proveedor de búsqueda mientras usted escribe, y se procesan según el aviso de privacidad de su proveedor de búsqueda ([enlace a continuación](#privacy-notices-for-search-providers)). Usted puede desactivar las Sugerencias de búsqueda o cambiar el proveedor de búsqueda por defecto en cualquier momento, como indicado en esta página de [Ayuda de Firefox](https://support.mozilla.org/kb/firefox-suggest).
+Por defecto, Firefox muestra las Sugerencias de búsqueda. Solicitudes de sugerencias: incluyen su consulta de búsqueda en tiempo real y los datos técnicos, y se le mandan directamente a su proveedor de búsqueda mientras usted escribe, y se procesan según el aviso de privacidad de su proveedor de búsqueda ([enlace a continuación](#bookmark-search-pns)). Usted puede desactivar las Sugerencias de búsqueda o cambiar el proveedor de búsqueda por defecto en cualquier momento, como indicado en esta página de [Ayuda de Firefox](https://support.mozilla.org/kb/firefox-suggest).
 
 Los usuarios en los Estados Unidos y en algunas otras regiones también recibirán Sugerencias de Firefox. Usted puede desactivarlas por completo, o desactivar solo las Sugerencias de Firefox patrocinadas, en los ajustes de su navegador.
 
@@ -442,7 +442,8 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
     </tbody>
 </table>
 
-## Políticas de privacidad para proveedores de búsqueda
+<a id="bookmark-search-pns"></a>
+## Políticas de privacidad para proveedores de búsqueda seleccionados
 
 [Google](https://policies.google.com/privacy)
 

@@ -29,7 +29,7 @@ Ha Apple Intelligence rendszerű eszközön (iPhone 15 Pro+ iOS 26+ rendszerrel)
 
 Amikor megad egy keresési lekérdezést a Firefoxban, a Firefox [keresési javaslatokat](https://support.mozilla.org/kb/search-suggestions-firefox) kínál, hogy gyorsabban és közvetlenebbül hozzáférhessen a keresett információkhoz. Néhány keresési javaslat a keresőszolgáltatótól származik („Keresési javaslatok”). Mások a Firefoxtól származnak, és a helyi eszközön tárolt információkon (beleértve a legutóbbi keresési kifejezéseket, a megnyitott lapokat és a korábban meglátogatott URL-címeket), vagy a Mozillától és a Mozilla partnereitől, beleértve a fizetett szponzorokat és az olyan internetes forrásokat, mint a Wikipédia („Javaslatok a Firefoxtól”) származó tartalmakon alapulnak.
 
-Alapértelmezés szerint a Firefox keresési javaslatokat jelenít meg. A javaslatkéréseket – beleértve a valós idejű keresési lekérdezést és a technikai adatokat – közvetlenül a keresőmotorhoz küldjük gépelés közben, és a keresőmotor adatvédelmi nyilatkozatának ([hivatkozás alább](#privacy-notices-for-search-providers)) megfelelően kezeljük. A keresési javaslatokat bármikor kikapcsolhatja, vagy módosíthatja az alapértelmezett keresési szolgáltatót, a [Firefox Támogatás](https://support.mozilla.org/kb/firefox-suggest) oldalán leírtak szerint.
+Alapértelmezés szerint a Firefox keresési javaslatokat jelenít meg. A javaslatkéréseket – beleértve a valós idejű keresési lekérdezést és a technikai adatokat – közvetlenül a keresőmotorhoz küldjük gépelés közben, és a keresőmotor adatvédelmi nyilatkozatának ([hivatkozás alább](#bookmark-search-pns)) megfelelően kezeljük. A keresési javaslatokat bármikor kikapcsolhatja, vagy módosíthatja az alapértelmezett keresési szolgáltatót, a [Firefox Támogatás](https://support.mozilla.org/kb/firefox-suggest) oldalán leírtak szerint.
 
 Az Egyesült Államokban és bizonyos más régiókban élő felhasználók javaslatokat is kapnak a Firefoxtól. Ezeket teljesen kikapcsolhatja, vagy akár csak a Firefox szponzorált javaslatait is kikapcsolhatja a böngésző beállításaiban.
 
@@ -442,7 +442,8 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
     </tbody>
 </table>
 
-## A keresőszolgáltatók adatvédelmi nyilatkozatai
+<a id="bookmark-search-pns"></a>
+## Egyes keresőszolgáltatók adatvédelmi nyilatkozatai
 
 [Google](https://policies.google.com/privacy)
 

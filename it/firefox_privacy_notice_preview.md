@@ -29,7 +29,7 @@ Se scegli di abilitare la funzione Shake to Summarize (Scuoti per riassumere) su
 
 Quando digiti una query di ricerca in Firefox, Firefox ti offre [suggerimenti di ricerca](https://support.mozilla.org/kb/search-suggestions-firefox) per consentirti di accedere in modo più rapido e diretto a ciò che stai cercando. Alcuni di questi suggerimenti provengono dal tuo provider di ricerca (“Suggerimenti di ricerca”). Altri provengono da Firefox e si basano sulle informazioni memorizzate sul tuo dispositivo locale (compresi i termini di ricerca recenti, le schede aperte e gli URL visitati in precedenza) o sui contenuti di Mozilla e dei suoi partner, inclusi sponsor a pagamento e risorse Internet come Wikipedia (“Suggerimenti da Firefox”).
 
-Per impostazione predefinita, Firefox mostra i Suggerimenti di ricerca. Le richieste di suggerimenti, comprese le query di ricerca in tempo reale e i dati tecnici, vengono inviate direttamente al motore di ricerca mentre digiti e vengono elaborate in base all'informativa sulla privacy del motore di ricerca ([consultabile di seguito](#privacy-notices-for-search-providers)). Puoi disattivare i Suggerimenti di ricerca o modificare il tuo provider di ricerca predefinito in qualsiasi momento, come indicato in questa pagina di [Supporto Firefox](https://support.mozilla.org/kb/firefox-suggest).
+Per impostazione predefinita, Firefox mostra i Suggerimenti di ricerca. Le richieste di suggerimenti, comprese le query di ricerca in tempo reale e i dati tecnici, vengono inviate direttamente al motore di ricerca mentre digiti e vengono elaborate in base all'informativa sulla privacy del motore di ricerca ([consultabile di seguito](#bookmark-search-pns)). Puoi disattivare i Suggerimenti di ricerca o modificare il tuo provider di ricerca predefinito in qualsiasi momento, come indicato in questa pagina di [Supporto Firefox](https://support.mozilla.org/kb/firefox-suggest).
 
 Gli utenti degli Stati Uniti e di alcune altre aree geografiche riceveranno anche Suggerimenti da Firefox. Puoi disattivarli completamente o disattivare solo i suggerimenti sponsorizzati da Firefox nelle impostazioni del browser.
 
@@ -442,7 +442,8 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
     </tbody>
 </table>
 
-## Informative sulla privacy per i provider di ricerca
+<a id="bookmark-search-pns"></a>
+## Informative sulla privacy per i provider di ricerca selezionati
 
 [Google](https://policies.google.com/privacy)
 

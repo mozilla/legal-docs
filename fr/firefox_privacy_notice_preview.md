@@ -29,7 +29,7 @@ Si vous choisissez d'activer la fonctionnalité Secouer pour résumer dans Firef
 
 Lorsque vous tapez une requête de recherche dans Firefox, Firefox vous propose des [suggestions de recherche](https://support.mozilla.org/kb/search-suggestions-firefox) pour vous procurer un accès plus rapide et direct à ce que vous cherchez. Certaines des suggestions de recherche proviennent de votre fournisseur de recherche (« Suggestions de recherche »). D'autres proviennent de Firefox, et sont basées sur des informations stockées sur votre appareil local (notamment des termes recherchés récemment, les onglets ouverts et des pages récemment consultées), ou du contenu de Mozilla et des partenaires de Mozilla, notamment les sponsors payants et des ressources Internet comme Wikipédia (« Suggestions de Firefox »).
 
-Par défaut, Firefox affiche les Suggestions de recherche. Les requêtes de suggestions (notamment votre requête de recherche en temps réel et vos données techniques) sont envoyées directement à votre fournisseur de recherche au fil de votre frappe, et traitées selon la politique de confidentialité de votre fournisseur de recherche ([lien ci-dessous](#privacy-notices-for-search-providers)). Vous pouvez désactiver les Suggestions de recherche ou changer de fournisseur de recherche à tout moment, comme décrit dans cette page [Assistance de Firefox](https://support.mozilla.org/kb/firefox-suggest).
+Par défaut, Firefox affiche les Suggestions de recherche. Les requêtes de suggestions (notamment votre requête de recherche en temps réel et vos données techniques) sont envoyées directement à votre fournisseur de recherche au fil de votre frappe, et traitées selon la politique de confidentialité de votre fournisseur de recherche ([lien ci-dessous](#bookmark-search-pns)). Vous pouvez désactiver les Suggestions de recherche ou changer de fournisseur de recherche à tout moment, comme décrit dans cette page [Assistance de Firefox](https://support.mozilla.org/kb/firefox-suggest).
 
 Les utilisateurs aux États-Unis et certains autres pays recevront également des Suggestions de Firefox. Vous pouvez toutes les désactiver, ou ne désactiver que les Suggestions sponsorisées de Firefox (dans les paramètres de votre navigateur).
 
@@ -442,7 +442,8 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
     </tbody>
 </table>
 
-## Avis de confidentialité des fournisseurs de moteurs de recherche
+<a id="bookmark-search-pns"></a>
+## Avis de confidentialité de certains fournisseurs de moteurs de recherche
 
 [Google](https://policies.google.com/privacy)
 

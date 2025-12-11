@@ -29,7 +29,7 @@ If you choose to enable the Shake to Summarize feature in Firefox mobile on a de
 
 As you type a search query within Firefox, Firefox offers [search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) to provide you with faster and more direct access to what you’re looking for. Some of the search suggestions come from your search provider (“Search Suggestions”). Others come from Firefox, and are based on information stored on your local device (including recent search terms, open tabs, and previously visited URLs), or content from Mozilla and Mozilla’s partners, including paid sponsors and internet resources like Wikipedia (“Suggestions from Firefox”).
 
-By default, Firefox shows Search Suggestions. Suggestion requests — including your real-time search query and technical data — are sent directly to your search provider as you type, and processed according to your search provider’s privacy notice ([linked below](#privacy-notices-for-search-providers)). You can turn off Search Suggestions or change your default search provider at any time, as outlined on this [Firefox Support](https://support.mozilla.org/kb/firefox-suggest) page.
+By default, Firefox shows Search Suggestions. Suggestion requests — including your real-time search query and technical data — are sent directly to your search provider as you type, and processed according to your search provider’s privacy notice ([linked below](#bookmark-search-pns)). You can turn off Search Suggestions or change your default search provider at any time, as outlined on this [Firefox Support](https://support.mozilla.org/kb/firefox-suggest) page.
 
 Users in the United States and certain other regions will also receive Suggestions from Firefox. You can turn these off entirely, or just turn off sponsored Suggestions from Firefox, in your browser settings.
 
@@ -442,6 +442,7 @@ We may need to change this policy and our notices, in which case the updates wil
     </tbody>
 </table>
 
+<a id="bookmark-search-pns"></a>
 ## Privacy notices for select search providers
 
 [Google](https://policies.google.com/privacy)
