@@ -1,7 +1,9 @@
-﻿# Firefox 隐私声明
+# Firefox 隐私声明
 
 2025 年 6 月 2 日生效
 {: datetime="2025-06-02" }
+
+<a class="link-next-pn" href="https://www.mozilla.org/privacy/firefox/next">我们正在更新《隐私声明》。点击此处查看新版本。</a>
 
 ## Mozilla 坚信，隐私是保障互联网健康运转的基础。
 
