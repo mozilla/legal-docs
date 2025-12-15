@@ -65,7 +65,7 @@ Pokud se rozhodnete povolit chatbota v boční liště a/nebo formou zkratky, sp
 
 *Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:* Můžete si přečíst podrobnější informace o [správě nebo odebrání](https://support.mozilla.org/kb/ai-chatbot) chatbotů AI ve Firefoxu.
 
-### Poskytování a povolení doplňků (addons.mozilla.org):
+### Poskytování a povolení doplňků (addons.mozilla.org)
 
 Doplňky můžete nainstalovat ze stránky [addons.mozilla.org](https://addons.mozilla.org) („AMO“) nebo ze Správce doplňků Firefoxu, který je dostupný pomocí tlačítka nabídky Firefoxu v liště nástrojů. Vaše dotazy vyhledávání ve Správci doplňků zpracováváme, abychom vám mohli poskytovat doporučení na další doplňky. Pokud se rozhodnete k instalaci libovolného doplňku, Firefox bude zpracovávat technické údaje, data o lokalitě odvozené podle adresy IP a údaje o nastavení, a bude se pravidelně připojovat k serverům společnosti Mozilla za účelem instalace a uplatnění správných aktualizací vašich doplňků. Rovněž shromažďujeme technické údaje a data o interakcích v souvislosti s použitím doplňků za účelem vylepšení Firefoxu.
 

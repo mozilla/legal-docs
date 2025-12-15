@@ -65,7 +65,7 @@ Si eliges habilitar un chatbot en la barra lateral y/o a través de un acceso di
 
 *Más detalles, incluyendo cómo ajustar la configuración de sus datos:* Usted puede leer más sobre cómo [administrar o eliminar](https://support.mozilla.org/kb/ai-chatbot) chatbots de IA en Firefox.
 
-### Para proporcionar y activar complementos (addons.mozilla.org):
+### Para proporcionar y activar complementos (addons.mozilla.org)
 
 Usted puede instalar complementos desde la página [addons.mozilla.org](https://addons.mozilla.org) («AMO») o a través del Administrador de complementos de Firefox, al que puede acceder mediante el botón de menú de Firefox ubicado en la barra de herramientas. Las solicitudes de búsqueda que usted realiza en el Administrador de complementos se envían a Mozilla para proporcionarle complementos sugeridos. Si usted elige instalar cualquier complemento, Firefox procesará los datos técnicos, de ubicación determinada por IP y de configuración, y periódicamente se conectará con los servidores de Mozilla para instalar y aplicar las actualizaciones correctas a sus complementos. También recopilamos datos técnicos y de interacción sobre la utilización de esta función para ayudar a mejorar Firefox.
 

@@ -65,7 +65,7 @@ Se você habilitar o chatbot na barra lateral e/ou pelo atalho, a Mozilla não t
 
 *Mais detalhes, incluindo como ajustar suas configurações de dados:* Saiba mais sobre como [gerenciamos ou removemos](https://support.mozilla.org/kb/ai-chatbot) chatbots de IA no Firefox.
 
-### Fornecer e habilitar extensões (addons.mozilla.org):
+### Fornecer e habilitar extensões (addons.mozilla.org)
 
 Você pode instalar extensões no site [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) ou no Gerenciador de extensões do Firefox, acessível no botão de menu do navegador, na barra de ferramentas. Tratamos suas consultas de pesquisa no Gerenciador de extensões para fornecer sugestões de extensões para você. Ao instalar uma extensão, o Firefox trata dados técnicos, de localização baseada no IP e de configurações, e se conecta periodicamente aos servidores da Mozilla para instalar e aplicar as atualizações corretas à extensão. Também coletamos dados técnicos e de interação sobre o uso de extensões para ajudar a melhorar o Firefox.
 

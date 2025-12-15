@@ -65,7 +65,7 @@ Jeśli użytkownik zdecyduje się włączyć chatbota na pasku bocznym i/lub za 
 
 *Więcej szczegółów, w tym sposób dostosowania ustawień danych:* Możesz uzyskać więcej informacji na temat sposobu [zarządzania chatbotami SI lub usuwania](https://support.mozilla.org/kb/ai-chatbot) ich w przeglądarce Firefox.
 
-### Zapewnianie i włączanie dodatków (addons.mozilla.org):
+### Zapewnianie i włączanie dodatków (addons.mozilla.org)
 
 Dodatki można instalować na stronie [addons.mozilla.org](https://addons.mozilla.org) („AMO”) lub przy użyciu Menedżera dodatków Firefoksa, który jest dostępny za pośrednictwem przycisku menu Firefoksa na pasku narzędzi. Przetwarzamy zapytania użytkownika w Menedżerze dodatków w celu dostarczenia rekomendacji dodatków. Jeśli użytkownik zdecyduje się zainstalować dodatki, Firefox będzie przetwarzać dane techniczne, informacje o lokalizacji uzyskane na podstawie adresu IP i ustawieniach oraz okresowo łączyć się z serwerami firmy Mozilla w celu zainstalowania i zastosowania odpowiednich aktualizacji dodatków. Gromadzimy również dane techniczne i dane dotyczące użycia dodatków, aby pomóc w ulepszaniu przeglądarki Firefox.
 

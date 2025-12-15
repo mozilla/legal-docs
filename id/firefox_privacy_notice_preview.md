@@ -65,7 +65,7 @@ Jika Anda memilih untuk mengaktifkan chatbot di bilah sisi dan/atau melalui pint
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Anda dapat membaca selengkapnya tentang cara [mengelola atau menghapus](https://support.mozilla.org/kb/ai-chatbot) chatbot AI di Firefox.
 
-### Menyediakan dan mengaktifkan pengaya (addons.mozilla.org):
+### Menyediakan dan mengaktifkan pengaya (addons.mozilla.org)
 
 Anda bisa menginstal pengaya dari [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) atau dari Pengelola Pengaya Firefox, yang dapat diakses dari tombol menu Firefox di bilah alat. Kami memproses kueri pencarian Anda di Pengelola Pengaya agar dapat memberikan saran pengaya kepada Anda. Jika Anda memilih untuk menginstal pengaya apa pun, Firefox akan memproses data teknis, lokasi, dan pengaturan, serta secara berkala terhubung dengan server Mozilla untuk menginstal dan menerapkan pembaruan yang sesuai pada pengaya Anda. Kami juga mengumpulkan data teknis dan interaksi mengenai penggunaan pengaya, untuk membantu menyempurnakan Firefox.
 

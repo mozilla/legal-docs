@@ -65,7 +65,7 @@ Ha úgy dönt, hogy engedélyezi a csevegőbotot az oldalsávon és/vagy egy par
 
 *További részletek, beleértve az adatbeállítások módosítását:* További információ az MI-csevegőbotok [kezeléséről vagy eltávolításáról](https://support.mozilla.org/kb/ai-chatbot) a Firefoxban.
 
-### Bővítmények biztosítása és engedélyezése (addons.mozilla.org):
+### Bővítmények biztosítása és engedélyezése (addons.mozilla.org)
 
 A bővítményeket az [addons.mozilla.org](https://addons.mozilla.org) („AMO”) webhelyről vagy a Firefox Bővítménykezelőjéből telepítheti, amely az eszköztár Firefox menügombjával érhető el. A Bővítménykezelő kezeli a keresési lekérdezéseit, hogy javasolt bővítményeket biztosíthassuk. Ha úgy dönt, hogy bármilyen bővítményt telepít, a Firefox kezeli a műszaki, IP-címből származó hely- és beállítási adatokat, és rendszeresen csatlakozik a Mozilla kiszolgálóihoz, hogy telepítse és alkalmazza a bővítmények megfelelő frissítéseit. Technikai és interakciós adatokat is gyűjtünk a bővítmények használatáról a Firefox fejlesztéséhez.
 

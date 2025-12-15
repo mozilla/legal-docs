@@ -65,7 +65,7 @@ Als u ervoor kiest om een chatbot in te schakelen in de zijbalk en/of via een sn
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt meer lezen over hoe u AI-chatbots kunt [beheren of verwijderen](https://support.mozilla.org/kb/ai-chatbot) in Firefox.
 
-### Het verzorgen en inschakelen van add-ons (addons.mozilla.org):
+### Het verzorgen en inschakelen van add-ons (addons.mozilla.org)
 
 U kunt add-ons installeren vanaf [addons.mozilla.org](https://addons.mozilla.org) (AMO) of via de optie voor add-on-beheer in Firefox. Deze is toegankelijk via de Firefox-menuknop op de werkbalk. We verwerken zoekquery's via de functie voor add-on-beheer, zodat u voorgestelde add-ons kunnen worden aangeboden. Als u ervoor kies om add-ons te installeren, verwerkt Firefox technische, van IP afgeleide locatie- en instellingsgegevens. Firefox maakt dan bovendien periodiek verbinding met servers van Mozilla om de juiste updates voor uw add-ons te installeren. We verzamelen ook technische en interactiegegevens over uw gebruik van addons om Firefox te helpen verbeteren.
 

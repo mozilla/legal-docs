@@ -65,7 +65,7 @@ Si vous choisissez d'activer un chatbot dans la barre latérale et/ou par le bia
 
 *En savoir plus, notamment sur l'ajustement de vos paramètres de données :* Vous pouvez en savoir plus sur la [façon de gérer ou supprimer](https://support.mozilla.org/kb/ai-chatbot) les chatbots IA dans Firefox.
 
-### Fournir et activer des modules complémentaires (addons.mozilla.org) :
+### Fournir et activer des modules complémentaires (addons.mozilla.org)
 
 Vous pouvez installer des modules complémentaires depuis [addons.mozilla.org](https://addons.mozilla.org) (« AMO ») ou depuis le gestionnaire de modules complémentaires de Firefox, présent dans le menu Outils de Firefox. Nous traitons vos requêtes de recherche dans le gestionnaire de modules complémentaires afin de pouvoir vous proposer des modules complémentaires. Si vous choisissez d'installer des modules complémentaires, Firefox traitera des données techniques, de localisation dérivée de l'adresse IP et de paramétrage, et se connectera périodiquement aux serveurs de Mozilla pour installer et appliquer les mises à jour associées à vos modules complémentaires. Nous collectons également des données techniques et d'interaction sur l'utilisation des modules complémentaires, afin d'améliorer Firefox.
 

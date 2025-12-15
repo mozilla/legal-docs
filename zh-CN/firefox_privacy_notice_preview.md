@@ -65,7 +65,7 @@ Firefox 会在新标签页上显示内容，并通过广告支持其发展。您
 
 *更多详情，包括如何调整您的数据设置：*您可以阅读更多有关如何在 Firefox 中[管理或删除](https://support.mozilla.org/kb/ai-chatbot) AI 聊天机器人的信息。
 
-### 提供并启用附加组件 (addons.mozilla.org)：
+### 提供并启用附加组件 (addons.mozilla.org)
 
 您可以从 [addons.mozilla.org](https://addons.mozilla.org)（以下简称“AMO”）或 Firefox Add-ons Manager 安装附加组件，可使用工具栏中的 Firefox 菜单按钮进行访问。我们会处理您在 Add-on Manager 中的搜索查询，以便为您提供建议的附加组件。如果您选择安装任何附加组件，Firefox 将处理技术数据、基于 IP 推断的位置信息和设置数据，并定期与 Mozilla 的服务器连接，以便为您的附加组件安装并应用正确的更新。我们还会收集有关附加组件使用情况的技术和交互数据，以帮助改进 Firefox。
 

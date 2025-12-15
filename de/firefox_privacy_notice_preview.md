@@ -65,7 +65,7 @@ Wenn Sie einen Chatbot in der Seitenleiste und/oder über eine Verknüpfung akti
 
 *Weitere Informationen, einschließlich der Anpassung Ihrer Dateneinstellungen:* Sie können mehr darüber nachlesen, wie Sie KI-Chatbots in Firefox [verwalten oder entfernen](https://support.mozilla.org/kb/ai-chatbot) können.
 
-### Zur Bereitstellung und Aktivierung von Add-ons (addons.mozilla.org):
+### Zur Bereitstellung und Aktivierung von Add-ons (addons.mozilla.org)
 
 Sie können Add-ons von [addons.mozilla.org](https://addons.mozilla.org) („AMO“) oder von der Firefox-Add-on-Verwaltung aus installieren, die über die Firefox-Menüschaltfläche in der Symbolleiste zugänglich ist. Wir verarbeiten Ihre Suchanfragen in der Add-ons-Verwaltung, um Ihnen Add-ons vorschlagen zu können. Wenn Sie Add-ons installieren, verarbeitet Firefox technische Daten, aus der IP-Adresse abgeleitete Standortdaten sowie Einstellungsdaten und stellt regelmäßig eine Verbindung mit den Servern von Mozilla her, um die entsprechenden Updates Ihrer Add-ons zu installieren und auszuführen. Ferner erfassen wir technische Daten und Interaktionsdaten über die Nutzung von Add-ons, um Firefox zu verbessern.
 
