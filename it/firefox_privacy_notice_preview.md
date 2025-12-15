@@ -65,7 +65,7 @@ Se decidi di attivare un chatbot nella barra laterale e/o tramite una scorciatoi
 
 *Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:* Scopri di più su come [gestire o rimuovere](https://support.mozilla.org/kb/ai-chatbot) i chatbot basati sull'IA in Firefox.
 
-### Fornitura e abilitazione dei componenti aggiuntivi (addons.mozilla.org):
+### Fornitura e abilitazione dei componenti aggiuntivi (addons.mozilla.org)
 
 È possibile installare componenti aggiuntivi dal sito [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) o da Gestione estensioni di Firefox, accessibile tramite il pulsante di menu Firefox nella barra degli strumenti. Elaboriamo le tue query di ricerca in Gestione estensioni per fornirti i componenti aggiuntivi consigliati. Se decidi di installare dei componenti aggiuntivi, Firefox elaborerà i dati tecnici, di localizzazione derivati dall'indirizzo IP e di impostazione e si connetterà periodicamente con i server di Mozilla per installare e applicare gli aggiornamenti corretti ai tuoi componenti aggiuntivi. Raccogliamo inoltre dati tecnici e di interazione relativi all'utilizzo dei componenti aggiuntivi per migliorare Firefox.
 
