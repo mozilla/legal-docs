@@ -3,8 +3,6 @@
 Gültig ab 17. Dezember 2025
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Zum Anzeigen unseres aktuellen Hinweises hier klicken.</a>
-
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
 Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontrolle über die Informationen haben, die Sie online teilen, sowie die Informationen, die Sie mit uns teilen. In diesem Datenschutzhinweis erläutern wir, welche Daten wir wie und zu welchen Zwecken verarbeiten. Dann erklären wir, wie Sie Entscheidungen darüber treffen können, wie wir Ihre Daten verarbeiten.

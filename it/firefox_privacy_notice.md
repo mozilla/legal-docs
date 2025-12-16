@@ -3,8 +3,6 @@
 In vigore da mercoledì 17 dicembre 2025
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Per consultare la nostra attuale informativa, fai  clic qui.</a>
-
 ## Noi di Mozilla riteniamo che la salvaguardia della privacy sia fondamentale per un buon funzionamento di Internet
 
 Per questo Firefox, così come tutti i nostri prodotti, è stato creato in modo da offrire agli utenti maggiore controllo sulle informazioni condivise online e con noi. In questa Informativa sulla privacy spieghiamo quali dati trattiamo, come lo facciamo e per quali scopi. Quindi, spieghiamo come puoi esercitare le tue scelte sulle modalità di trattamento dei tuoi dati.

@@ -3,8 +3,6 @@
 Hatályos: 2025. december 17-től
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">A jelenlegi nyilatkozat megtekintéséhez kattintson ide.</a>
-
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú a biztonságos internethez
 
 Ezért a Firefoxot és minden más termékünket úgy fejlesztettük ki, hogy nagyobb ellenőrzést biztosítsunk Önnek az online és a velünk megosztott adatok felett. A jelen adatvédelmi nyilatkozatban ismertetjük, hogy milyen adatokat, hogyan kezelünk és milyen célból. Ezt követően elmagyarázzuk, hogyan dönthet arról, hogyan kezeljük az adatait.

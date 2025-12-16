@@ -3,8 +3,6 @@
 Vigente desde el 17 de diciembre de 2025
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Para ver nuestro aviso corriente, haga clic aquí.</a>
-
 ## En Mozilla, consideramos que la privacidad es fundamental para tener un Internet sano.
 
 Por este motivo hemos creado Firefox, y todos nuestros productos, para darle mayor control sobre la información que comparte en línea y la información que comparte con nosotros. En este Aviso de privacidad, explicamos qué datos procesamos, cómo los procesamos y para qué fines. Luego, explicamos cómo puede ejercer opciones sobre cómo procesamos su información.

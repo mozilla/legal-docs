@@ -3,8 +3,6 @@
 Berlaku 17 Desember 2025
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Untuk melihat pemberitahuan terbaru kami, klik di sini.</a>
-
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 
 Oleh karena itu, kami membangun Firefox, dan semua produk kami, untuk memberi Anda kontrol lebih atas informasi yang dibagikan online dan dibagikan kepada kami. Dalam Pemberitahuan Privasi ini, kami menjelaskan data apa saja yang kami proses, cara kami memprosesnya, dan untuk tujuan apa. Kemudian, kami menjelaskan cara Anda menentukan pilihan tentang cara kami memproses informasi Anda.

@@ -3,8 +3,6 @@
 Data wejścia w życie: 17 grudnia 2025 r.
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Aby zobaczyć aktualne Zasady, kliknij tutaj.</a>
-
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego
 
 Dlatego właśnie tworzymy przeglądarkę Firefox i wszystkie nasze produkty, aby zapewnić użytkownikom większą kontrolę nad informacjami, które udostępniają online, oraz informacjami, które są nam udostępniane. W niniejszej Zasadach prywatności wyjaśniamy, jakie dane przetwarzamy, w jaki sposób je przetwarzamy i w jakich celach. Następnie wyjaśniamy, w jaki sposób użytkownik może dokonać wyboru sposobu przetwarzania przez nas jego danych.

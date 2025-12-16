@@ -3,8 +3,6 @@
 Data de vigência: quarta-feira, 17 de dezembro de 2025
 {: datetime="2025-12-17" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Clique aqui para acessar nosso aviso atual.</a>
-
 ## Na Mozilla, acreditamos que a privacidade seja fundamental para uma internet segura.
 
 É por isso que criamos o Firefox e todos os nossos produtos, a fim de proporcionar a você mais controle sobre as informações que compartilha online e conosco. Neste Aviso de privacidade, explicamos quais dados tratamos, como e com qual finalidade. Também explicamos como exercemos as opções sobre a forma como tratamos suas informações.
