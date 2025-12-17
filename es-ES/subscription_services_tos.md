@@ -1,7 +1,7 @@
 # Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Versión 2.0, en vigor desde el lunes, 4 de noviembre de 2024
-{: datetime="2024-11-04" }
+Vigente desde el 17 de diciembre de 2025
+{: datetime="2025-12-17" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como, por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ es una red privada virtual ofrecida en colaboración con [Mullva
 
 __Firefox Relay__ le permite proteger la seguridad y privacidad de su número de teléfono y dirección de correo electrónico principal mediante la creación de máscaras para su número de teléfono y dirección de correo electrónico con las que podrá enviar y recibir mensajes de correo electrónico, llamadas y mensajes de texto sin tener que revelar su información de contacto verdadera.
 
-__Mozilla Monitor__ puede monitorear para averiguar si alguna de sus cuentas ha sido involucrada en una filtración de datos conocida. Ver [Condiciones del servicio y Privacidad de Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ escanea para ver si sus contraseñas, números de teléfono u otras informaciones personales han sido involucrados en una filtración de datos, y la ayudará a dar los pasos necesarios para eliminar sus datos de los corredores de datos. 
+__Mozilla Monitor__ examina para ver si sus contraseñas, números de teléfono u otra información personal han sido filtrados en cualquier violación de dato conocida. 
 
 Por favor, lea detenidamente las presentes Condiciones del servicio porque contienen información importante relacionada con el uso de los Servicios.
 
@@ -26,11 +24,11 @@ El [Aviso de privacidad de los servicios de suscripción de Mozilla](https://www
 Puesto que Mozilla es una organización mundial, nuestros ordenadores y los ordenadores de los proveedores de servicios pueden estar en distintos países, como, por ejemplo, en Estados Unidos. Esto quiere decir que su información puede ser procesada en servidores ubicados en un país distinto a su país de residencia y que el nivel de protección de datos reflejado en las normas de dicho país pueda ser distinto a nivel de protección del suyo. Al proporcionarnos información, usted acepta que su información sea transferida de esta forma.
 
 ### Su pago
-__Pago.__ Los Servicios se ofrecen como servicios de suscripción de renovación automática. Al suscribirse nos autoriza cargar el pago en el método de pago proporcionado para cubrir las cuotas para el primer período de suscripción a los Servicios. Su plan se renovará automáticamente al final de cada período, y usted nos autoriza a cobrar las cuotas de suscripción cada período de suscripción. Si deja de pagar, su cuenta se suspenderá inmediatamente y se eliminará después de 2 meses sin pagar las cuotas.
+__Pago.__ Los Servicios se ofrecen como servicios de suscripción de renovación automática. Al suscribirse a la versión de pago de uno de los servicios, usted nos autoriza a cargar el pago en el método de pago proporcionado para cubrir las cuotas para el primer período de suscripción al (o a los) Servicio(s). Su plan se renovará automáticamente al final de cada período, y usted nos autoriza a cobrar las cuotas de suscripción cada período de suscripción. Si deja de pagar, suspenderemos inmediatamente su cuenta y la eliminaremos después de 2 meses sin pagar las cuotas.
 
 __Política de reembolso de 30 días.__ Si la primera vez que se suscribe a los Servicios a través de la página web de Mozilla cancela su cuenta durante los primeros 30 días, puede solicitar un reembolso y Mozilla le devolverá el pago por el primer período de suscripción. Esta oferta solo se aplica la primera vez que se suscribe. Esto se suma a los derechos que pueda tener en virtud de las leyes de consumo de su país.
 
-__Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si compró su suscripción en App Store de Apple o Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
+__Comprar a través de las tiendas de aplicaciones de Apple o Google.__ Si usted compró su suscripción en Apple App Store o en Google Play Store a través de la aplicación, su pago está sujeto a los términos y condiciones de la tienda de aplicaciones en la que realizó la compra. Debe dirigir cualquier consulta en relación con las facturas y reembolsos de dichas compras a Apple o Google.
 
 ### Puede cancelar su suscripción en cualquier momento
 Tiene derecho a cancelar su suscripción a los Servicios en cualquier momento. Puede hacerlo haciendo clic en el enlace "Cancelar suscripción" incluido en cualquier correo electrónico que le enviemos en relación con los Servicios o haciendo clic en "Cancelar" en la sección [Suscripciones y pagos](https://accounts.firefox.com/subscriptions/) de su cuenta de Mozilla. Si decide cancelar la suscripción, se detendrá la renovación automática, se desactivarán los cargos automáticos para futuros períodos de suscripción y usted perderá el acceso a los Servicios al final del ciclo de facturación actual.
@@ -84,22 +82,16 @@ Si desea obtener más información sobre cómo funciona Firefox Relay y qué tip
 
 ## Mozilla Monitor
 
-Mozilla Monitor se ofrece como un servicio gratuito y como un servicio de suscripción de pago. El servicio gratuito de notificación de filtración de datos se ofrece en colaboración con Have I Been Pwned (“HIBP”). El servicio de eliminación de datos automatizada se ofrece en colaboración con OneRep para cancelar informaciones personales publicados en directorios en línea y otros agregadores de información sobre personas (“Páginas de corredores de datos”).
-
-### Requisitos para usar el Servicio
-El servicio gratuito de notificación de filtración de datos está disponible en todo el mundo. Actualmente, el servicio de eliminación de datos automatizada está disponible solo si usted vive en Estados Unidos.
+Ofrecemos Mozilla Monitor como servicio gratuito, en colaboración con Have I Been Pwned («HIBP»). Este servicio está disponible para los usuarios en todo el mundo. 
 
 ### Permisos necesarios para proporcionar el servicio Mozilla Monitor
 
-__Su uso de Monitor.__ Si dispone actualmente de una suscripción de pago a Mozilla Monitor, Mozilla le permite usarlo de acuerdo con estas Condiciones del servicio. Este permiso es únicamente para su uso personal. No se le permite transferir, sublicenciar, revender o explotar comercialmente Mozilla Monitor. Usted es el único responsable del Contenido que transfiere, así como de sus consecuencias.
+__Su uso de Monitor.__ Si usted dispone actualmente de una suscripción a Mozilla Monitor, Mozilla le permite usarlo de acuerdo con estas Condiciones del servicio. Este permiso es únicamente para su uso personal. No se le permite transferir, sublicenciar, revender o explotar comercialmente Mozilla Monitor. Usted es el único responsable del Contenido que transfiere, así como de sus consecuencias.
 
-Usted le concede a Mozilla, OneRep y HIBP todos los derechos necesarios para ofrecer Mozilla Monitor, como, por ejemplo:
+Usted le concede a Mozilla y HIBP todos los derechos necesarios para ofrecer Mozilla Monitor, como, por ejemplo:
 
 * El uso de las informaciones que usted nos haya proporcionado, como, por ejemplo, información de identificación personal, para realizar los Servicios;
-* Examinar filtraciones de datos conocidas públicamente a la búsqueda de información personal que usted nos haya proporcionado para dicho propósito; 
-* Contactar terceros, como, por ejemplo, Páginas de corredores de datos, que publiquen sus informaciones sobre usted;
-* Crear cuentas en línea en Páginas de corredores de datos en su nombre para el solo propósito de proporcionarle los Servicios (por ejemplo, cuando sea necesario establecer una cuenta con una Página de corredor de datos para poder mandar solicitudes de exclusión voluntaria o para realizar otras acciones para eliminar su información);
-* Realizar las acciones anteriormente descritas en su nombre.
+* Examinar violaciones de datos conocidas públicamente a la búsqueda de información personal que usted nos haya proporcionado para dicho propósito.
 
 Usted acepta y asegura a Mozilla que:
 
@@ -111,10 +103,9 @@ Usted acepta y asegura a Mozilla que:
 
 Por favor, considere que pueden pasar hasta 2 meses desde el momento en que recibiremos todas las informaciones necesarias para proporcionarle a los Servicios para que las solicitudes de exclusión voluntarias sean gestionadas por las Páginas de corredores de datos
 
-__Límites.__ Usted entiende que los resultados de los Servicios están directamente relacionados con la rapidez y exhaustividad de la información que usted nos provea. Aunque Mozilla Monitor y [Have I Been Pwned](https://haveibeenpwned.com/) se esfuerzan por tener datos actualizados, no hay garantía de que ninguno de estos servicios tenga los registros completos y puntuales de todas las filtraciones de datos públicos. 
+__Límites.__ Usted entiende que los resultados de los Servicios están directamente relacionados con la rapidez y exhaustividad de la información que usted nos proporcione. Aunque Mozilla Monitor y [Have I Been Pwned?](https://haveibeenpwned.com/) se esfuerzan por tener los datos actualizados, no hay garantía de que ninguno de estos servicios tenga los registros completos de todas las violaciones de datos públicas en el momento oportuno. 
 
-_Usted entiende también que Mozilla no controla los corredores de datos y que por lo tanto no puede garantizar que estos aceptarán las solicitudes de eliminación de datos._
-Para más informaciones sobre los datos procesados por Mozilla, HIBP y OneRep, usted puede ver el [Aviso de privacidad de los Servicios de suscripción de Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Para más informaciones sobre los datos procesados por Mozilla y HIBP, usted puede ver el [Aviso de privacidad de los Servicios de suscripción de Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Otros aspectos importantes que debe conocer
 

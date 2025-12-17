@@ -1,7 +1,7 @@
 # Services d’abonnements Mozilla - Conditions d’utilisation
 
-Version 2.0 - Date d’effet : lundi 4 novembre 2024
-{: datetime="2024-11-04" }
+Date d’effet : 17 décembre 2025
+{: datetime="2025-12-17" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ est un réseau virtuel privé fourni en partenariat avec [Mullva
 
 __Firefox Relay__ vous permet de protéger votre adresse e-mail principale et votre numéro de téléphone en créant des alias pour votre adresse e-mail et numéro de téléphone que vous utilisez pour envoyer et recevoir des e-mails, appels et SMS sans révéler vos coordonnées réelles.
 
-__Mozilla Monitor__ peut vérifier si l’un de vos comptes a fait l’objet d’une atteinte à la protection des données connue. Consultez [Conditions d’utilisation et politique de confidentialité de Mozilla](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ vérifie si vos mots de passe, numéros de téléphone ou d’autres informations personnelles ont fuité lors d'une atteinte à la protection des données connue, puis vous aide à supprimer vos données des courtiers de données. 
+__Mozilla Monitor__ analyse vos mots de passe, numéros de téléphone et autres informations personnelles afin de vérifier qu’ils n'ont pas été divulgués dans le cadre d’une violation de données connue. 
 
 Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation des Services.
 
@@ -26,11 +24,11 @@ La [Politique de confidentialité des services d’abonnement Mozilla](https://w
 Mozilla est une organisation de dimension mondiale, et nos ordinateurs et ceux de nos prestataires de services peuvent se trouver dans différents pays du monde, dont les États-Unis. Cela signifie que vos informations peuvent être traitées sur des serveurs situés dans un pays autre que celui où vous résidez, et ce pays peut avoir des réglementations différentes des vôtres en matière de protection des données. En nous communiquant vos informations, vous nous autorisez à effectuer ce transfert d’informations.
 
 ### Votre paiement
-__Paiement.__ Nos Services sont proposés sous la forme d’abonnement à renouvellement automatique. Lors de votre inscription, vous nous autorisez à débiter le mode de paiement que vous avez fourni des frais d’abonnement pour la première période d’utilisation des Services auxquels vous vous êtes abonné. Votre abonnement est renouvelé automatiquement à la fin de chaque période, et vous nous autorisez à vous facturer les frais d’abonnement à chaque début de période. Si vous cessez les paiements, nous suspendrons immédiatement votre compte et pourrons le supprimer après 2 mois sans paiement.
+__Paiement.__ Nos Services sont proposés sous la forme d’abonnement à renouvellement automatique. Lors de votre inscription à la version payante de l’un des Services, vous nous autorisez à débiter le mode de paiement que vous avez fourni des frais d’abonnement pour la première période d’utilisation des Services auxquels vous vous êtes abonné. Votre abonnement est renouvelé automatiquement à la fin de chaque période, et vous nous autorisez à vous facturer les frais d’abonnement à chaque début de période. Si vous cessez les paiements, nous suspendrons immédiatement votre compte et pourrons le supprimer après 2 mois sans paiement.
 
 __Politique de remboursement à 30 jours.__ Lors de votre premier abonnement aux Services via le site web de Mozilla, si vous annulez votre compte dans les 30 premiers jours, vous pourrez demander un remboursement ; Mozilla vous remboursera le premier mois d’abonnement. Cette offre ne concerne que votre premier abonnement. Ces dispositions s’ajoutent aux droits qui vous sont éventuellement conférés par les lois de protection des consommateurs de votre pays.
 
-__Achat sur Apple Store ou Google Play.__ Si vous avez acheté votre abonnement à partir d’une application dans un Apple Store, votre paiement doit respecter les conditions d’utilisation de l’Apple Store. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
+__Achat sur Apple Store ou Google Play.__ Si vous avez acheté votre abonnement à partir d’une application dans Apple Store ou Google Play Store, votre paiement doit respecter les conditions d’utilisation de ces applications. Vous devez adresser toute demande concernant la facturation et le remboursement à Apple ou Google, selon le cas.
 
 ### Vous pouvez annuler votre abonnement à tout moment
 Vous pouvez annuler votre abonnement aux Services à tout moment. Pour ce faire, cliquez sur le lien « Annuler l’abonnement » dans un des e-mails que nous vous envoyons à propos des Services ou en accédant à la section [Abonnements et paiements](https://accounts.firefox.com/subscriptions/) de votre compte Mozilla, puis en cliquant sur « Annuler ». Si vous décidez d’annuler, le renouvellement automatique s’arrêtera, nous ne vous facturerons aucun frais à venir et vous perdrez l’accès aux Services à la fin de la période de facturation en cours.
@@ -84,22 +82,16 @@ Pour en savoir plus sur le fonctionnement de Firefox Relay et les données trait
 
 ## Mozilla Monitor
 
-Nous proposons Mozilla Monitor soit en tant que service gratuit, soit en tant que service par abonnement payant. Le service gratuit de notification de violation des données est un partenariat avec Have I Been Pwned (« HIBP »). Le service de suppression des données automatisée est un partenariat avec OneRep pour supprimer les informations personnelles publiées sur des répertoires en ligne et agrégateurs d’informations concernant des personnes (« Sites de courtage de données »).
-
-### Éligibilité
-Le service de notification de violation des données est disponible gratuitement dans le monde entier. Actuellement, le service automatisé de suppression des données chez les courtiers n’est disponible qu’aux États-Unis.
+Nous proposons Mozilla Monitor en tant que service gratuit, en partenariat avec le service « Have I Been Pwned » (HIBP). Ce service est accessible aux utilisateurs du monde entier. 
 
 ### Autorisations nécessaires pour fournir Mozilla Monitor
 
-__Votre utilisation de Monitor.__ Si vous disposez actuellement d’un abonnement payant à Mozilla Monitor, Mozilla vous autorise à l’utiliser conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence, revendre ou exploiter commercialement Mozilla Monitor. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
+__Votre utilisation de Monitor.__ Si vous disposez actuellement d’un abonnement à Mozilla Monitor, Mozilla vous autorise à l’utiliser conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence ou exploiter commercialement Mozilla Monitor. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
 
-Vous accordez à Mozilla, OneRep et HIBP tous droits nécessaires pour exploiter Mozilla Monitor, notamment :
+Vous accordez à Mozilla et HIBP tous droits nécessaires pour exploiter Mozilla Monitor, notamment :
 
 * Utiliser les informations pour l’exécution des Services que vous nous avez fournies, dont les informations vous identifiant personnellement.
-* Analyser les violations de données connues publiquement pour identifier les informations personnelles que vous nous avez fournies à cet effet. 
-* Contacter des tiers, notamment les sites de courtage de données, qui publient des informations vous concernant.
-* Créer des comptes en ligne sur les sites de courtage de données en votre nom à seule fin de vous fournir les Services (p. ex. en cas de nécessité pour configurer un compte sur un site de courtage de données pour envoyer des demandes de retrait ou effectuer d’autres actions pour supprimer vos informations).
-* Effectuer les actions décrites ci-dessus en votre nom.
+* Analyser les violations de données connues publiquement pour identifier les informations personnelles que vous nous avez fournies à cet effet.
 
 Vous acceptez et assurez Mozilla de ce qui suit :
 
@@ -111,10 +103,9 @@ Vous acceptez et assurez Mozilla de ce qui suit :
 
 Veuillez noter qu’un délai allant jusqu’à 2 mois peut s’écouler avant notre réception de toutes les informations demandées pour que nous puissions fournir les Services pour les demandes de retrait traitées par les sites de courtage de données.
 
-__Limitations.__ Vous comprenez que la qualité des Services est directement liée à la rapidité avec laquelle vous nous fournissez des informations complètes. Bien que Mozilla Monitor et [Have I Been Pwned?](https://haveibeenpwned.com/) s’efforcent de maintenir leurs données à jour, il n’y a aucune garantie que ces services pourront proposer des dossiers complets ou à jour de toutes les atteintes à la protection des données publiques. 
+__Limitations.__ Vous comprenez que la qualité des Services est directement liée à la rapidité avec laquelle vous nous fournissez des informations complètes. Bien que Mozilla Monitor et [« Have I Been Pwned? »](https://haveibeenpwned.com/) s’efforcent de maintenir leurs données à jour, il n’y a aucune garantie que ces services pourront disposer d’enregistrements complets ou à jour de toutes les atteintes à la protection des données publiques. 
 
-_Vous comprenez d’autre part que Mozilla ne contrôle pas les courtiers de données et ne peut donc pas garantir qu’ils répondront favorablement à votre demande de suppression des données._
-Pour en savoir plus sur les données que traitent Mozilla, HIBP et OneRep, consultez l’[Avis de confidentialité des services d’abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Pour en savoir plus sur les données que traitent Mozilla et HIBP, consultez l’[« Avis de confidentialité des services d’abonnement Mozilla »](https://www.mozilla.org/privacy/subscription-services).
 
 ## Autres choses importantes à savoir
 

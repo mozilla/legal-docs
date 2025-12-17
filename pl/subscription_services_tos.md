@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Wersja 2.0, obowiązuje od 4 listopada 2024 r.
-{: datetime="2024-11-04" }
+Data wejścia w życie: 17 grudnia 2025 r.
+{: datetime="2025-12-17" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ to wirtualna sieć prywatna obsługiwana we współpracy z firm�
 
 __Firefox Relay__ pozwala zachować bezpieczeństwo i prywatność podstawowego adresu e-mail i numeru telefonu, tworząc maski dla adresu e-mail i numeru telefonu użytkownika, które umożliwiają wysyłanie i odbieranie wiadomości e-mail, połączeń i SMS-ów bez ujawniania rzeczywistych danych kontaktowych użytkownika.
 
-__Mozilla Monitor__ może prowadzić monitorowanie, aby sprawdzać, czy którekolwiek z Twoich kont padło ofiarą znanych naruszeń bezpieczeństwa danych. Zobacz dokument [Regulamin usługi Mozilla Monitor i ochrona prywatności](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ wykonuje skanowanie, aby sprawdzić, czy hasła, numery telefonów lub inne dane osobowe użytkownika zostały ujawnione w wyniku znanego naruszenia danych, i pomaga podjąć kroki w celu usunięcia danych z brokerów danych. 
+__Mozilla Monitor__ wykonuje skanowanie, aby sprawdzić, czy hasła, numery telefonów lub inne dane osobowe użytkownika zostały ujawnione w wyniku znanych naruszeń danych. 
 
 Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usług przez użytkownika.
 
@@ -26,11 +24,11 @@ Do korzystania z Usług wymagane jest posiadanie konta Mozilla. Aby utworzyć ko
 Mozilla jest organizacją globalną, a komputery nasze i usługodawców mogą znajdować się w różnych krajach świata, w tym w Stanach Zjednoczonych. Oznacza to, że informacje użytkownika mogą być przetwarzane na serwerach znajdujących się poza krajem zamieszkania użytkownika, a w kraju tym mogą obowiązywać inne przepisy dotyczące ochrony danych niż w kraju użytkownika. Udzielając nam informacji, użytkownik wyraża zgodę na tego rodzaju przekazywanie danych.
 
 ### Płatność użytkownika
-__Płatność.__ Oferujemy Usługi jako automatycznie odnawiane usługi subskrypcyjne. Rejestrując się, użytkownik upoważnia nas do obciążenia podanej przez siebie metody płatności opłatami za subskrypcję za pierwszy okres korzystania z Usług, w których użytkownik się rejestruje. Plan użytkownika odnawia się automatycznie na koniec każdego okresu, a użytkownik upoważnia nas do pobierania opłat za subskrypcję w każdym okresie. Jeśli użytkownik przestanie płacić, natychmiast zawiesimy jego konto, a po 2 miesiącach niepłacenia możemy je usunąć.
+__Płatność.__ Oferujemy Usługi jako automatycznie odnawiane usługi subskrypcyjne. Rejestrując się w płatnej wersji jednej z Usług, użytkownik upoważnia nas do obciążenia podanej przez siebie metody płatności opłatami za subskrypcję za pierwszy okres korzystania z Usług, w których użytkownik się rejestruje. Plan użytkownika odnawia się automatycznie na koniec każdego okresu, a użytkownik upoważnia nas do pobierania opłat za subskrypcję w każdym okresie. Jeśli użytkownik przestanie płacić, natychmiast zawiesimy jego konto, a po 2 miesiącach niepłacenia możemy je usunąć.
 
 __Zasady zwrotu kosztów w ciągu 30 dni.__ Przy pierwszej subskrypcji Usług za pośrednictwem witryny firma Mozilla, jeśli użytkownik zrezygnuje z konta w ciągu pierwszych 30 dni, może zażądać zwrotu pieniędzy, a Mozilla zwróci pieniądze za pierwszy okres subskrypcji. Ta oferta obowiązuje tylko przy pierwszej subskrypcji. Stanowi to dodatek do praw przysługujących użytkownikowi na mocy przepisów konsumenckich obowiązujących w danym kraju.
 
-__Zakup w sklepie z aplikacjami Apple lub Google.__ Jeśli subskrypcja została zakupiona poprzez zakup w aplikacji w sklepie Apple App Store lub Google Play, płatność podlega warunkom sklepu z aplikacjami. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy należy kierować odpowiednio do firmy Apple lub Google.
+__Zakup w sklepie z aplikacjami Apple lub Google.__ Jeśli subskrypcja została zakupiona poprzez zakup w aplikacji w sklepie Apple App Store lub Google Play, płatność podlega warunkom odnośnego sklepu z aplikacjami. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy należy kierować odpowiednio do firmy Apple lub Google.
 
 ### Użytkownik może anulować subskrypcję w dowolnym momencie
 Subskrypcję Usług można anulować w dowolnym momencie. Można to zrobić, klikając łącze „Anuluj subskrypcję” w dowolnej wysłanej przez nas wiadomości e-mail dotyczącej Usług lub przechodząc do sekcji [Subskrypcje i płatności](https://accounts.firefox.com/subscriptions/) na swoim koncie Mozilla i klikając opcję „Anuluj”. Jeśli użytkownik zdecyduje się na anulowanie, automatyczne odnawianie zostanie zatrzymane, nie będziemy pobierać opłat za żadne przyszłe okresy płatności, a użytkownik straci dostęp do Usług z końcem bieżącego cyklu rozliczeniowego.
@@ -84,22 +82,16 @@ Aby dowiedzieć się więcej na temat działania Firefox Relay i danych przetwar
 
 ## Mozilla Monitor
 
-Oferujemy usługę Mozilla Relay jako usługę bezpłatną lub płatną subskrypcję. Bezpłatna usługa powiadamiania o naruszeniu danych jest wynikiem współpracy z Have I Been Pwned („HIBP”). Usługa automatycznego usuwania danych polega na współpracy z OneRep w celu usunięcia danych osobowych opublikowanych w publicznie dostępnych katalogach internetowych i innych agregatorach informacji o osobach fizycznych („Witryny brokerów danych”).
-
-### Użytkownik musi się kwalifikować
-Bezpłatna usługa powiadamiania o naruszeniu danych jest dostępna na całym świecie. Obecnie usługa automatycznego usuwania danych u brokerów jest dostępna tylko dla użytkowników mieszkających w Stanach Zjednoczonych.
+Oferujemy Mozilla Monitor jako bezpłatną usługę we współpracy z Have I Been Pwned („HIBP”). Ta usługa jest dostępna dla użytkowników na całym świecie. 
 
 ### Wymagane uprawnienia w celu świadczenia usługi Mozilla Monitor
 
-__Korzystanie z usługi Monitor.__ Jeśli użytkownik posiada aktualną, płatną subskrypcję Mozilla Monitor, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. To pozwolenie jest przeznaczone wyłącznie do użytku osobistego. Użytkownik nie może przekazywać, udzielać sublicencji, odsprzedawać ani wykorzystywać usługi Mozilla Monitor do celów komercyjnych. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje.
+__Korzystanie z usługi Monitor.__ Jeśli użytkownik posiada aktualną subskrypcję Mozilla Monitor, Mozilla zezwala użytkownikowi na korzystanie z niej zgodnie z niniejszymi Warunkami korzystania z usługi. To pozwolenie jest przeznaczone wyłącznie do użytku osobistego. Użytkownik nie może przekazywać, udzielać sublicencji ani wykorzystywać usługi Mozilla Monitor do celów komercyjnych. Użytkownik ponosi wyłączną odpowiedzialność za przesyłaną Zawartość i wynikające z tego konsekwencje.
 
-Użytkownik udziela Mozilli, OneRep i HIBP wszelkich praw niezbędnych do świadczenia usługi Mozilla Monitor, w tym prawa do:
+Użytkownik udziela Mozilli i HIBP wszelkich praw niezbędnych do świadczenia usługi Mozilla Monitor, w tym prawa do:
 
 * wykorzystywania informacji przekazanych nam przez użytkownika, w tym danych osobowych, w celu świadczenia Usług;
-* skanowania publicznie znanych naruszeń ochrony danych w odniesieniu do danych osobowych przekazanych nam w tym celu przez użytkownika; 
-* kontaktowania się ze stronami trzecimi, w tym z witrynami brokerów danych, które publikują informacje o użytkowniku;
-* tworzenia kont online w witrynach brokerów danych w imieniu użytkownika wyłącznie w celu świadczenia mu Usług (np. gdy wymagane jest założenie konta w witrynie brokera danych w celu wysłania żądania rezygnacji lub podjęcia innych działań w celu usunięcia informacji o użytkowniku);
-* podejmowania działań opisanych powyżej w imieniu użytkownika.
+* skanowania publicznie znanych naruszeń ochrony danych w odniesieniu do danych osobowych przekazanych nam w tym celu przez użytkownika.
 
 Użytkownik akceptuje i zapewnia firmę Mozilla, że:
 
@@ -113,8 +105,7 @@ Należy pamiętać, że obsługa żądań rezygnacji przez witryny brokerów dan
 
 __Ograniczenia.__ Użytkownik rozumie, że wyniki Usług są bezpośrednio skorelowane z terminowością i kompletnością informacji przekazywanych nam przez użytkownika. Mimo że operatorzy usługi Mozilla Monitor i witryny [Have I Been Pwned](https://haveibeenpwned.com/) dokładają wszelkich starań, aby zapewnić aktualność danych, nie ma gwarancji, że którekolwiek z tych źródeł będzie dysponować kompletnymi lub aktualnymi informacjami dotyczącymi wszystkich publicznych wycieków danych. 
 
-_Użytkownik przyjmuje również do wiadomości, że Mozilla nie kontroluje brokerów danych i dlatego nie może zagwarantować, że będą oni honorować żądania usunięcia danych._
-Aby dowiedzieć się więcej na temat działania i danych przetwarzanych przez firmy Mozilla, HIBP, i OneRep, zobacz [Zasady prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Aby dowiedzieć się więcej na temat działania i danych przetwarzanych przez firmy Mozilla i HIBP, zobacz [Zasady prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Inne ważne informacje
 

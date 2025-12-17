@@ -1,7 +1,7 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-2.0-s verzió, hatálybalépés dátuma: 2024. november 4.
-{: datetime="2024-11-04" }
+Hatályos: 2025. december 17-től
+{: datetime="2025-12-17" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
@@ -9,9 +9,7 @@ A __Mozilla VPN__ egy virtuális magánhálózat a [Mullvad](https://mullvad.net
 
 A __Firefox Relay__ lehetővé teszi az elsődleges e-mail-címének és telefonszámának biztonságban és titokban tartását azáltal, hogy maszkokat hoz létre az e-mail-címéhez és telefonszámához, amelyek lehetővé teszik az e-mailek, hívások és szöveges üzenetek küldését és fogadását anélkül, hogy felfedné tényleges kapcsolatfelvételi adatait.
 
-A __Mozilla Monitor__ képes figyelni , hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Lásd a [Mozilla Monitor feltételeit és adatvédelmi szabályzatát](https://www.mozilla.org/privacy/firefox-monitor/).
-
-A __Mozilla Monitor__ ellenőrzi, hogy jelszavai, telefonszámai vagy egyéb személyes adatai kiszivárogtak-e egy ismert adatvédelmi incidens során, és segít az Ön adatainak eltávolításában az adatközvetítőktől. 
+__Mozilla Monitor__ ellenőrzi, hogy kiszivárogtak-e a jelszavai, a telefonszámai vagy más személyes adatai valamilyen ismert adatvédelmi incidens során. 
 
 Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatások használatával kapcsolatban.
 
@@ -26,11 +24,11 @@ A [Mozilla előfizetéses szolgáltatások adatvédelmi nyilatkozata](https://ww
 A Mozilla egy globális szervezet, és számítógépeink és szolgáltatóink számítógépei a világ különböző országaiban találhatók, beleértve az Egyesült Államokat is. Ez azt jelenti, hogy előfordulhat, hogy az Ön adatait olyan kiszolgálókon kezelik, amelyek az Ön lakóhelye szerinti országon kívül találhatók, és előfordulhat, hogy az adott ország adatvédelmi szabályozása eltérő szintű, mint az Öné. Az adatok megadásával Ön hozzájárul adatainak ilyen jellegű továbbításához.
 
 ### Fizetés
-__Fizetés.__ A Szolgáltatásokat automatikusan megújuló előfizetési szolgáltatásként kínáljuk. Regisztrációjával felhatalmaz bennünket arra, hogy az Ön által megadott fizetési módot terheljük az Ön által regisztrált Szolgáltatás(ok) első időszakára vonatkozó előfizetési díjával. Előfizetése minden időszak végén automatikusan megújul, és Ön felhatalmaz bennünket, hogy minden egyes időszakra előfizetési díjat terheljünk. Ha leállítja a fizetést, azonnal felfüggesztjük fiókját, amelyet 2 hónapos fizetéselmaradást követően törölhetünk.
+__Fizetés.__ A Szolgáltatásokat automatikusan megújuló előfizetési szolgáltatásként kínáljuk. Amikor regisztrál valamelyik Szolgáltatás fizetős verziójára, felhatalmaz minket arra, hogy az Ön által megadott fizetési módot terheljük az Ön által regisztrált Szolgáltatás(ok) első időszakára vonatkozó előfizetési díjával. Előfizetése minden időszak végén automatikusan megújul, és Ön felhatalmaz bennünket, hogy minden egyes időszakra előfizetési díjat terheljünk. Ha leállítja a fizetést, azonnal felfüggesztjük fiókját, amelyet 2 hónapos fizetéselmaradást követően törölhetünk.
 
 __30 napos visszatérítési szabályzat.__ Amikor először fizet elő a Szolgáltatásokra a Mozilla webhelyén keresztül, ha az első 30 napon belül törli fiókját, visszatérítést kérelmezhet, és a Mozilla visszatéríti az első előfizetési időszakot. Ez az ajánlat kizárólag az első előfizetésre érvényes. Ez az Ön országa fogyasztóvédelmi jogszabályai alapján esetlegesen megillető jogok kiegészítése.
 
-__Vásárlás az Apple Store-on vagy Google Play Áruházon keresztül.__ Ha az előfizetést alkalmazáson belüli vásárlással vásárolta meg az Apple App Store-ból vagy a Google Play Áruházból, akkor fizetésére az alkalmazás-áruház általános szerződési feltételei vonatkoznak. Az ilyen vásárlásokra vonatkozó számlázással és visszatérítéssel kapcsolatos kérdéseket az Apple-hez vagy a Google-hoz kell irányítania.
+__Vásárlás az Apple Store-on vagy Google Play Áruházon keresztül.__ Ha az előfizetést alkalmazáson belüli vásárlással vásárolta meg az Apple App Store-ból vagy a Google Play Áruházból, akkor fizetésére az adott alkalmazás-áruház általános szerződési feltételei vonatkoznak. Az ilyen vásárlásokra vonatkozó számlázással és visszatérítéssel kapcsolatos kérdéseket az Apple-hez vagy a Google-hoz kell irányítania.
 
 ### Előfizetését bármikor lemondhatja
 A Szolgáltatások előfizetését bármikor lemondhatja. Ezt megteheti, ha rákattint az „Előfizetés lemondása” hivatkozásra bármely e-mailben, amelyet a Szolgáltatásokkal kapcsolatban küldünk Önnek, vagy lépjen Mozilla-fiókja [Előfizetések és fizetések](https://accounts.firefox.com/subscriptions/) részére, és kattintson a „Lemondás” lehetőségre. Ha a lemondás mellett dönt, az automatikus megújítás leáll, a jövőbeli fizetési időszakokért nem számítunk fel díjat, és az aktuális számlázási ciklus végén elveszíti hozzáférését a Szolgáltatáshoz.
@@ -84,22 +82,16 @@ Ha többet szeretne megtudni a Firefox Relay működéséről, valamint a Mozill
 
 ## Mozilla Monitor
 
-A Mozilla Monitor szolgáltatást ingyenes vagy fizetős előfizetéses szolgáltatásként kínáljuk. Az ingyenes adatvédelmiincidens-bejelentési szolgáltatás a Have I Been Pwned („HIBP”) szolgáltatóval való együttműködés. Az automatizált adattörlési szolgáltatás a OneRep szolgáltatóval való együttműködés, amelynek célja a nyilvánosan elérhető online könyvtárakban és más, magánszemélyekre vonatkozó információk gyűjtőhelyein („adatközvetítő-webhelyek”) közzétett személyes adatok eltávolítása.
-
-### Jogosultnak kell lennie
-Az ingyenes adatvédelmiincidens-bejelentési szolgáltatás világszerte elérhető. Jelenleg az automatizált adatközvetítő-törlési szolgáltatás csak akkor érhető el, ha Ön az Egyesült Államokban él.
+A Mozilla Monitort ingyenes szolgáltatásként kínáljuk, a Have I Been Pwned („HIBP”) vállalattal együttműködve. Ez a szolgáltatás világszerte elérhető a felhasználók számára. 
 
 ### A Mozilla Monitor biztosításához szükséges engedélyek
 
-__A Monitor használata.__ Ha aktuális, fizetett előfizetéssel rendelkezik a Mozilla Monitor szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Ez az engedély csak az Ön személyes használatára vonatkozik. A Mozilla Monitort nem ruházhatja át, nem allicencelheti, nem értékesítheti, illetve nem használhatja kereskedelmi célokra. Az Ön által továbbított Tartalmak kapcsán kizárólag Önt terheli felelősség.
+__A Monitor használata.__ Ha aktuális előfizetéssel rendelkezik a Mozilla Monitor szolgáltatásra, a Mozilla engedélyt ad Önnek a használatára a jelen Szolgáltatási feltételek szerint. Ez az engedély csak az Ön személyes használatára vonatkozik. A Mozilla Monitort nem ruházhatja át, nem allicencelheti, illetve nem használhatja kereskedelmi célokra. Az Ön által továbbított Tartalmak kapcsán kizárólag Önt terheli felelősség.
 
-Ön megadja a Mozillának, a OneRepnek és a HIBP-nek a Mozilla Monitor működéséhez szükséges összes jogot, beleértve a következőket:
+Ön megadja a Mozillának és a HIBP-nek a Mozilla Monitor működéséhez szükséges összes jogot, beleértve a következőket:
 
 * Az Ön által rendelkezésünkre bocsátott információk, köztük a személyazonosításra alkalmas adatok felhasználása a Szolgáltatások biztosításához;
-* A nyilvánosan ismert adatvédelmi incidensek vizsgálata az Ön által e célból rendelkezésünkre bocsátott személyes adatok tekintetében; 
-* Kapcsolatfelvétel harmadik felekkel, beleértve az adatközvetítő-webhelyeket, amelyek közzéteszik az Ön adatait;
-* Online fiókok létrehozása az adatközvetítő-webhelyeken az Ön nevében abból a célból, hogy Szolgáltatásokat nyújtsunk Önnek (pl. amikor fiókot kell létrehozni egy adatközvetítő webhelyen ahhoz, hogy leiratkozási kérelmeket küldhessünk vagy egyéb lépéseket tehessünk az Ön adatainak eltávolítása érdekében.);
-* A fent leírt műveletek elvégzéséhez az Ön nevében.
+* A nyilvánosan ismert adatvédelmi incidensek vizsgálata az Ön által e célból rendelkezésünkre bocsátott személyes adatok tekintetében;
 
 Ön egyetért, és biztosítja a Mozillát arról, hogy:
 
@@ -113,8 +105,7 @@ Tartsa szem előtt, hogy akár 2 hónapig is eltarthat attól számítva, hogy 
 
 __Korlátok.__ Ön tudomásul veszi, hogy a Szolgáltatások eredményei közvetlen összefüggésben állnak az Ön által részünkre bocsátott információk gyorsaságával és teljességével. Bár a Mozilla Monitor és a [Have I Been Pwned](https://haveibeenpwned.com/) arra törekszik, hogy naprakész adatokkal rendelkezzen, nincs garancia arra, hogy bármelyikük teljes vagy időben rögzíti az összes nyilvános adatvédelmi incidenst. 
 
-_Azt is tudomásul vegye, hogy a Mozilla nem ellenőrzi az adatközvetítőket, ezért nem tudja garantálni, hogy eleget tesznek az adatok törlésére vonatkozó kérelmeknek._
-Ha többet szeretne megtudni a Mozilla, a HIBP és a OneRep által kezelt adatokról, tekintse meg a [Mozilla előfizetési szolgáltatások adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/subscription-services).
+Ha többet szeretne megtudni a Mozilla és a HIBP által kezelt adatokról, tekintse meg a [Mozilla előfizetési szolgáltatások adatvédelmi nyilatkozatát](https://www.mozilla.org/privacy/subscription-services).
 
 ## Egyéb fontos tudnivalók
 
