@@ -1,7 +1,7 @@
 # Serviços de assinatura da Mozilla | Aviso de privacidade
 
-Versão 1.2, sexta-feira, 31 de maio de 2024
-{: datetime="2024-05-31" }
+Data de vigência: quarta-feira, 17 de dezembro de 2025
+{: datetime="2025-12-17" }
 
 ## Na Mozilla, nossos produtos são sempre desenvolvidos com sua privacidade em mente.
 
@@ -39,8 +39,6 @@ __Dados de interação.__ A Mozilla recebe dados sobre suas interações com os 
 
 * [Have I Been Pwned.](https://haveibeenpwned.com/) A Have I Been Pwned recebe uma versão protegida por hash do seu endereço de email para verificar onde seus dados pessoais possam ter sido comprometidos. Ela mantém esses dados pessoais para verificar novas violações de forma constante. Você pode solicitar a remoção do seu endereço de email da Have I Been Pwned pelo [mecanismo de cancelamento](https://haveibeenpwned.com/OptOut).
   
-* [OneRep.](https://onerep.com/) Se você mora nos Estados Unidos e tem uma assinatura do Monitor Plus, a OneRep recebe seu nome e sobrenome, email, telefone, endereço e data de nascimento para verificar sites de corretores de dados em busca de seus dados pessoais e solicitar sua remoção. A OneRep mantém seus dados pessoais até você cancelar sua assinatura do Monitor para verificar se as suas informações aparecem em outros sites ou reaparecem nos sites dos quais já foram removidas.
-  
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) O Mozilla Monitor usa o AWS para enviar emails relacionados ao Serviço dele, que inclui relatórios completos, alertas de violação e dicas de segurança. Esses dados são excluídos quando você cancela a assinatura do Monitor.
 
 * [Formstack.](https://www.formstack.com/) O Mozilla Monitor usa o Formstack para coletar feedback opcional de usuários. Para informações sobre as práticas de privacidade do serviço, consulte a [política de privacidade do Formstack](https://www.formstack.com/legal).
@@ -70,7 +68,6 @@ __Informações que compartilhamos.__ O Firefox Relay compartilha informações 
 * __[Amazon Web Services.](https://aws.amazon.com/privacy/)__ O Amazon Web Services (AWS) é uma plataforma de computação em nuvem. O Firefox Relay usa o AWS para receber emails enviados para seus endereços de email mascarados e encaminhá-los para o email principal associado à sua conta da Mozilla. Somente a Mozilla sabe a associação entre seu email principal e seus endereços de email mascarados.
 
 * __[Twilio.](https://www.twilio.com/en-us/legal/privacy)__ A Twilio recebe seu telefone, sua máscara de telefone e os telefones com os quais você troca ligações e mensagens de texto. A Twilio também recebe o conteúdo das mensagens de texto enviadas e recebidas pelo Firefox Relay. A Mozilla exige que o serviço da Twilio exclua seus registros de mensagens de texto que você envia e recebe pelo Firefox Relay após sete dias.
-
 
 ## Outras informações importantes
 
