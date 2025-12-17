@@ -1,7 +1,7 @@
 # Mozilla Abonnementdienste | Servicebedingungen
 
-Version 2.0, gültig ab 4. November 2024
-{: datetime="2024-11-04" }
+Gültig ab 17. Dezember 2025
+{: datetime="2025-12-17" }
 
 Mozilla Corporation bietet verschiedene Dienste an, um den Datenschutz und Ihre Sicherheit online zu verbessern, darunter Mozilla VPN und Firefox Relay (die „Dienste“).
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](
 
 __Firefox Relay__ ermöglicht die Sicherheit und Geheimhaltung Ihrer primären E-Mail-Adresse und Telefonnummer, indem Masken für Ihre E-Mail-Adresse und Telefonnummer erstellt werden, mit deren Hilfe Sie E-Mails, Anrufe und SMS-Nachrichten senden und empfangen können, ohne dass Ihre Kontaktinformationen bekannt gegeben werden.
 
-__Mozilla Monitor__ kann überprüfen, ob Ihre Konten von bereits bekannten Datenlecks betroffen sind. Siehe die [Bedingungen und Datenschutzerklärung von Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ sucht im Web, ob Ihre Passwörter, Telefonnummern oder andere personenbezogene Daten von einem bereits bekannten Datenleck betroffen sind, und hilft Ihnen dabei, Ihre Daten von Datenbroker-Websites zu löschen. 
+__Mozilla Monitor__ überprüft, ob Ihre Passwörter, Telefonnummern oder sonstige personenbezogene Daten bei bekannten Datenverstößen offengelegt wurden. 
 
 Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung der Dienste erläutert.
 
@@ -26,11 +24,11 @@ Im [Datenschutzhinweis zu Mozilla-Abonnementdiensten](https://www.mozilla.org/pr
 Mozilla ist ein weltweites Unternehmen und unsere Computer und die unserer Dienstanbieter können sich in verschiedenen Ländern weltweit befinden, darunter auch in den USA. Das bedeutet, dass Ihre Informationen auf Servern verarbeitet werden könnten, die sich außerhalb des Landes befinden, in dem Sie leben, und dass dieses Land andere Datenschutzgesetze haben kann als Ihres. Indem Sie uns die Informationen geben, stimmen Sie dieser Art von Übertragung Ihrer Informationen zu.
 
 ### Ihre Zahlung
-__Zahlung.__ Wir bieten die Dienste als Abonnements mit automatischer Verlängerung an. Wenn Sie sich registrieren, erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit der von Ihnen abonnierten Dienste der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten der unterlassenen Zahlung gelöscht.
+__Zahlung.__ Wir bieten die Dienste als Abonnements mit automatischer Verlängerung an. Durch Registrierung für die kostenpflichtige Version eines unserer Dienste erteilen Sie uns die Berechtigung, die Abonnementgebühren für die erste Laufzeit der von Ihnen abonnierten Dienste der von Ihnen angegebenen Zahlungsweise in Rechnung zu stellen. Ihr Plan verlängert sich automatisch jeweils zum Ende der Laufzeit und Sie bevollmächtigen uns, in jeder Laufzeit die Abonnementgebühren in Rechnung zu stellen. Falls Sie die Zahlung einstellen, wird Ihr Konto umgehend ausgesetzt und nach 2 Monaten unterlassener Zahlungen gelöscht.
 
 __30-Tage-Rückerstattungs-Richtlinie.__ Wenn Sie Dienste zum ersten Mal über die Website von Mozilla abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung anfordern und Mozilla wird Ihnen den Betrag für Ihre erste Abonnementlaufzeit zurückerstatten. Dieses Angebot gilt nur für das erstmalige Abonnieren. Dies gilt zusätzlich zu allen anderen Rechten, die Sie ggf. im Rahmen der Verbrauchergesetze Ihres Landes haben können.
 
-__Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
+__Kauf über Apple oder Google App Stores.__ Wenn Sie Ihr Abonnement über einen In-App-Kauf aus dem Apple App Store oder dem Google Play Store erworben haben, gelten für Ihre Zahlung die entsprechenden Bedingungen des betreffenden App Stores. Sämtliche Anfragen zu Abrechnung und Erstattung für solche Käufe müssen an Apple bzw. Google gerichtet werden.
 
 ### Sie können Ihr Abonnement jederzeit kündigen
 Sie können Ihr Abonnement der Dienste jederzeit kündigen. Dazu klicken Sie auf den Link „Abonnement kündigen“ in jeder E-Mail, die wir zu den Diensten an Sie senden, oder wechseln zum Bereich [Abonnements und Zahlungen](https://accounts.firefox.com/subscriptions/) in Ihrem Mozilla-Konto und klicken auf „Abbrechen“. Falls Sie das Abo kündigen, wird die automatische Verlängerung gestoppt. Wir stellen Ihnen dann keine zukünftigen Zahlungszeiträume mehr in Rechnung und Sie verlieren den Zugang zu den Diensten am Ende des aktuellen Abrechnungszyklus.
@@ -84,22 +82,16 @@ Um mehr über die Funktionsweise von Firefox Relay und die von Mozilla und Twili
 
 ## Mozilla Monitor
 
-Wir bieten Mozilla Monitor entweder als kostenlosen Dienst oder als kostenpflichtigen Abonnementdienst an. Der kostenlose Dienst für Mitteilungen bei Datenlecks ist eine Partnerschaft mit Have I Been Pwned („HIBP“). Der Dienst für automatische Datenlöschung ist eine Partnerschaft mit OneRep zur Entfernung personenbezogener Daten, die in öffentlich zugänglichen Online-Verzeichnissen oder anderen Aggregatoren von Personendaten („Datenbroker-Websites“) veröffentlicht worden sind.
-
-### Sie müssen qualifiziert sein
-Der kostenlose Dienst für Mitteilungen bei Datenlecks ist weltweit verfügbar. Derzeit ist der Dienst für automatische Datenlöschung aus Datenbroker-Websites nur für Personen verfügbar, die in den USA leben.
+Wir bieten Mozilla Monitor als kostenlosen Dienst in Kooperation mit unserem Partner Have I Been Pwned („HIBP“) an. Dieser Service steht Benutzern weltweit zur Verfügung. 
 
 ### Zur Bereitstellung von Mozilla Monitor erforderliche Berechtigungen
 
-__Ihre Nutzung von Monitor.__ Falls Sie ein aktuelles bezahltes Abonnement von Mozilla Monitor haben, erteilt Ihnen Mozilla die Berechtigung, den Dienst diesen Servicebedingungen entsprechend zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Mozilla Monitor darf nicht übertragen, unterlizenziert, weiterverkauft oder kommerziell genutzt werden. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
+__Ihre Nutzung von Monitor.__ Falls Sie ein aktuelles Abonnement von Mozilla Monitor haben, räumt Mozilla Ihnen die Berechtigung ein, den Dienst gemäß den vorliegenden Nutzungsbedingungen zu verwenden. Diese Berechtigung gilt nur für Ihre persönliche, private Nutzung. Mozilla Monitor darf nicht übertragen, unterlizenziert oder kommerziell ausgewertet werden. Sie allein sind für den von Ihnen übertragenen Inhalt und dessen Folgen verantwortlich.
 
-Sie erteilen Mozilla, OneRep und HIBP alle für den Betrieb von Mozilla Monitor erforderlichen Rechte, darunter die folgenden:
+Sie erteilen Mozilla und HIBP alle für den Betrieb von Mozilla Monitor erforderlichen Rechte, darunter die folgenden:
 
 * Das Recht auf Verwendung der Daten, auch der personenbezogenen Daten, die Sie uns zur Verfügung gestellt haben, um die Dienste ausführen zu können;
-* Das Recht, Suchläufe nach Ihren personenbezogenen Daten, die Sie uns zu diesem Zweck bereitgestellt haben, durchzuführen, um zu prüfen, ob Sie von öffentlich bekannten Datenlecks betroffen sind; 
-* Das Recht, Dritte wie Datenbroker-Websites zu kontaktieren, die Informationen über Sie veröffentlichen;
-* Das Recht, auf Datenbroker-Websites in Ihrem Namen Online-Konten zu eröffnen und zwar einzig und allein zu dem Zweck, Ihnen die Dienste bereitstellen zu können (d. h., wenn es nötig ist, ein Konto auf einer Datenbroker-Website anzulegen, um Opt-out-Anfragen zu senden oder andere Aktionen einzuleiten, damit Ihre Daten entfernt werden).
-* Das Recht, die oben beschriebenen Aktionen in Ihrem Namen auszuführen.
+* Das Recht, Suchläufe nach Ihren personenbezogenen Daten, die Sie uns zu diesem Zweck bereitgestellt haben, durchzuführen, um zu prüfen, ob Sie von öffentlich bekannt gewordenen Datenlecks betroffen sind.
 
 Sie erklären sich mit Folgendem einverstanden und versichern Mozilla, dass:
 
@@ -111,10 +103,9 @@ Sie erklären sich mit Folgendem einverstanden und versichern Mozilla, dass:
 
 Beachten Sie bitte, dass es von dem Zeitpunkt an, an dem wir Ihre vollständigen Informationen erhalten, die wir für die Bereitstellung der Dienste für Opt-out-Anfragen, die von Datenbroker-Websites bearbeitet werden müssen, benötigen, bis zu 2 (zwei) Monate dauern kann.
 
-__Limits.__ Ihnen ist bekannt, dass die Ergebnisse der Dienste in direktem Zusammenhang damit stehen, wie schnell Sie uns die erforderlichen Informationen vollständig zur Verfügung stellen. Obgleich sich Mozilla Monitor und [Have I Been Pwned](https://haveibeenpwned.com/) bemühen, stets aktuelle Daten zu verwenden, besteht keine Garantie, dass die Services vollständige oder zeitgerechte Datensätze zu allen öffentlich bekannten Datensicherheitsverletzungen führen. 
+__Beschränkungen.__ Ihnen ist bekannt, dass die Ergebnisse der Dienste in direktem Zusammenhang damit stehen, wie schnell Sie uns die erforderlichen Informationen vollständig zur Verfügung stellen. Auch wenn Mozilla Monitor und [Have I Been Pwned](https://haveibeenpwned.com/) bestrebt sind, jederzeit aktuelle Daten vorzuhalten, kann nicht garantiert werden, dass beide Dienste über vollständige oder aktuelle Datensätze zu sämtlichen öffentlich bekannt gewordenen Datenverstößen verfügen. 
 
-_Ihnen ist ebenfalls bekannt, dass Mozilla über Datenbroker keine Kontrolle hat und daher nicht garantieren kann, dass sie Anfragen zur Löschung von Daten nachkommen werden._
-Weitere Informationen zur Verarbeitung der Daten durch Mozilla, HIBP und OneRep können Sie im [Datenschutzhinweis zu Mozilla-Abonnementdiensten](https://www.mozilla.org/privacy/subscription-services) nachlesen.
+Weitere Informationen zur Verarbeitung der Daten durch Mozilla und HIBP können Sie im [Datenschutzhinweis zu Mozilla-Abonnementdiensten](https://www.mozilla.org/privacy/subscription-services) nachlesen.
 
 ## Andere wichtige Informationen
 

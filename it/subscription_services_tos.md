@@ -1,7 +1,7 @@
 # Servizi Mozilla in abbonamento | Termini di servizio
 
-Versione 2.0, in vigore dal 4 novembre 2024
-{: datetime="2024-11-04" }
+In vigore dal 17 dicembre 2025
+{: datetime="2025-12-17" }
 
 Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza online, tra cui Mozilla VPN e Firefox Relay (i "Servizi").
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ è una Virtual Private Network, ossia una rete privata virtuale 
 
 __Firefox Relay__ ti consente di mantenere privato e al sicuro il tuo indirizzo email e numero di telefono principale, creando degli alias che consentono di inviare e ricevere email, chiamate e SMS senza rivelare le tue informazioni di contatto reali.
 
-__Mozilla Monitor__ è in grado di monitorare se uno dei tuoi account è stato oggetto di violazioni pubbliche di dati. Consulta i [Termini e l'Informativa sulla privacy di Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ verifica se le tue password, i tuoi numeri di telefono o altre informazioni personali sono state divulgate nell'ambito di una violazione pubblica di dati e ti aiuta a rimuovere i tuoi dati personali dai siti di intermediazione di dati. 
+__Mozilla Monitor__ esegue scansioni per verificare se le tue password, i tuoi numeri di telefono o altre informazioni personali sono stati divulgati in violazioni dei dati note. 
 
 Ti preghiamo di leggere attentamente i seguenti Termini di servizio in quanto contengono importanti informazioni sull'utilizzo dei Servizi.
 
@@ -26,11 +24,11 @@ L'[Informativa sulla privacy dei Servizi Mozilla in abbonamento](https://www.moz
 Mozilla è un'organizzazione globale e i nostri computer e quelli dei nostri fornitori di servizi possono trovarsi in Paesi diversi nel mondo, inclusi gli Stati Uniti. Questo significa che i dati possono essere elaborati su server situati al di fuori del Paese in cui risiedi, in una nazione in cui le leggi potrebbero garantire un diverso livello di protezione. Fornendoci le tue informazioni, acconsenti a questo tipo di trasferimento dei dati.
 
 ### Pagamento
-__Pagamento.__ Offriamo i Servizi con abbonamento a rinnovo automatico. Registrandoti, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo dei Servizi scelti sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
+__Pagamento.__ Offriamo i Servizi con abbonamento a rinnovo automatico. Registrandoti alla versione a pagamento di uno dei Servizi, ci autorizzi ad addebitare i canoni di abbonamento del primo periodo dei Servizi scelti sul metodo di pagamento da te fornito. Il piano si rinnova automaticamente al termine di ogni periodo e ci autorizzi ad addebitare i canoni di abbonamento a ogni periodo successivo. Se smetti di pagare, sospenderemo immediatamente l'account e potremmo annullarlo dopo 2 mesi di mancato pagamento.
 
 __Politica di rimborso di 30 giorni.__ La prima volta che ti iscrivi ai Servizi tramite il sito web di Mozilla, se annulli l'account entro i primi 30 giorni, puoi richiedere un rimborso e Mozilla ti restituirà la somma corrispondente al primo periodo di abbonamento. Questa offerta si applica solo alla prima volta che ti abboni. Questo è in aggiunta a qualsiasi diritto concessoti dalle leggi a tutela dei consumatori nel tuo Paese.
 
-__Acquisto tramite App Store di Apple o Google.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni di Apple App Store. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
+__Acquisto tramite App Store di Apple o Google.__ Se hai sottoscritto il tuo abbonamento come acquisto in-app dall'Apple App Store o da Google Play Store, il tuo pagamento è soggetto ai termini e alle condizioni dello store utilizzato. Eventuali richieste di rimborso o quesiti sulla fatturazione di tali acquisti dovranno essere rivolti ad Apple o a Google.
 
 ### Puoi annullare l'abbonamento in qualsiasi momento
 Puoi annullare il tuo abbonamento ai Servizi in qualsiasi momento. A tal fine devi fare clic sul link "Annulla abbonamento" in qualsiasi email che ti inviamo in relazione ai Servizi oppure selezionare "Annulla" nella sezione [Abbonamenti e pagamenti](https://accounts.firefox.com/subscriptions/) del tuo account Mozilla. Se scegli di annullare, il rinnovo automatico si interromperà, non ti verrà addebitata alcuna somma per periodi di pagamento futuri e perderai l'accesso ai Servizi al termine del ciclo di fatturazione corrente.
@@ -84,22 +82,16 @@ Per ulteriori informazioni sul funzionamento di Firefox Relay e sui dati elabora
 
 ## Mozilla Monitor
 
-Offriamo Mozilla Monitor come servizio gratuito o in abbonamento a pagamento. Il servizio gratuito di notifica delle violazioni dei dati è frutto della collaborazione con Have I Been Pwned ("HIBP"). Il servizio di cancellazione automatica dei dati è gestito in collaborazione con OneRep per rimuovere le informazioni personali pubblicate su elenchi online pubblicamente disponibili e altri aggregatori di informazioni individuali ("Siti di intermediazione dati").
-
-### Requisiti di idoneità
-Il servizio gratuito di notifica delle violazioni dei dati è disponibile in tutto il mondo. Al momento, il servizio di cancellazione automatica dei dati da siti di intermediazione è disponibile solo per chi risiede negli Stati Uniti.
+Offriamo Mozilla Monitor come servizio gratuito, in collaborazione con Have I Been Pwned (“HIBP”). Il servizio è disponibile agli utenti di tutto il mondo. 
 
 ### Autorizzazioni necessarie per fornire Mozilla Monitor
 
-__Utilizzo di Monitor.__ Se disponi di un abbonamento a pagamento a Mozilla Monitor, Mozilla ti concede il permesso di utilizzarlo in base ai presenti Termini di servizio. Questa autorizzazione si estende esclusivamente all'uso personale. Non puoi trasferire, rivendere, concedere in sublicenza o sfruttare commercialmente Mozilla Monitor. Sei responsabile in prima persona dei Contenuti che trasmetti e delle conseguenze che ne derivano.
+__Utilizzo di Monitor.__ Se disponi di un abbonamento attivo a Mozilla Monitor, Mozilla ti autorizza a utilizzarlo in base ai presenti Termini di servizio. Questa autorizzazione si estende esclusivamente all'uso personale. Non puoi trasferire, concedere in sublicenza o sfruttare commercialmente Mozilla Monitor. L’utente è l’unico responsabile dei Contenuti trasmessi e delle relative conseguenze.
 
-Concedi a Mozilla, OneRep e HIBP tutti i diritti necessari per gestire Mozilla Monitor, compreso il diritto di:
+Concedi a Mozilla e HIBP tutti i diritti necessari per gestire Mozilla Monitor, compreso il diritto di:
 
 * Utilizzare le informazioni da te fornite, comprese le informazioni di identificazione personale, per erogare i Servizi;
-* Eseguire scansioni di violazioni pubbliche di dati per verificare la presenza delle informazioni personali che ci hai fornito a tale scopo; 
-* Contattare terze parti, compresi i Siti di intermediazione di dati, che pubblicano informazioni su di te;
-* Creare account online su Siti di intermediazione di dati a tuo nome al solo scopo di fornirti i Servizi (ad esempio, quando è necessario creare un account su un Sito di intermediazione di dati per inviare richieste di esclusione o intraprendere altre azioni per rimuovere le tue informazioni);
-* Intraprendere le azioni sopra descritte a tuo nome.
+* Eseguire scansioni di violazioni pubbliche di dati per verificare la presenza delle informazioni personali che ci hai fornito a tale scopo.
 
 Accetti e garantisci a Mozilla che:
 
@@ -113,8 +105,7 @@ Tieni presente che per la gestione delle richieste di esclusione da parte dei Si
 
 __Limiti.__ Riconosci che i risultati dei Servizi sono in diretta correlazione con la tempestività e la completezza delle informazioni da te fornite. Nonostante Mozilla Monitor e il servizio [Have I Been Pwned](https://haveibeenpwned.com/) facciano il possibile per avere sempre dati aggiornati, non vi è alcuna garanzia che le informazioni di cui dispongono sulle violazioni pubbliche di dati siano complete e tempestive. 
 
-_Riconosci inoltre che Mozilla non controlla i Siti di intermediazione di dati e pertanto non può garantire che questi ultimi rispettino le richieste di cancellazione delle informazioni._
-Per maggiori informazioni sui dati elaborati da Mozilla, HIBP e OneRep, consulta l'[Informativa sulla privacy dei Servizi Mozilla in abbonamento](https://www.mozilla.org/privacy/subscription-services).
+Per maggiori informazioni sui dati elaborati da Mozilla e HIBP, consulta l'[Informativa sulla privacy dei Servizi Mozilla in abbonamento](https://www.mozilla.org/privacy/subscription-services).
 
 ## Altre cose importanti da sapere
 
