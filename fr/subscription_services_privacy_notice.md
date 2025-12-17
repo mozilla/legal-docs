@@ -1,7 +1,7 @@
 # Services d’abonnement Mozilla | Avis de confidentialité
 
-Version 1.2 - Date d'effet : 31 mai 2024
-{: datetime="2024-05-31" }
+Date d’effet : 17 décembre 2025
+{: datetime="2025-12-17" }
 
 ## Chez Mozilla, nous concevons des produits respectant votre confidentialité.
 
@@ -38,9 +38,7 @@ __Données réseau.__ Une fois Mozilla VPN activé, celui-ci chiffre votre trafi
 __Données d’interaction.__ Mozilla reçoit des données relatives à vos interactions avec les services, Par exemple, lorsque vous vous connectez et déconnectez et les préférences que vous définissez. Pour en savoir plus : [Données d’interaction Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Plus généralement, Mozilla utilise les cookies, les informations sur les appareils, les adresses IP, ainsi que les pixels transparents (clear GIF) et les services tiers pour comprendre globalement la façon dont les utilisateurs interagissent avec nos produits, services, communications, sites web, campagnes en ligne, snippets, appareils et autres plateformes. Nous utilisons ce qui suit :
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned reçoit une version hachée de votre adresse e-mail afin de rechercher où vos données personnelles ont pu être compromises. HaveIbeenpwned conserve ces données personnelles pour rechercher continuellement de nouvelles infractions ; vous pouvez demander à ce que votre adresse e-mail soit supprimée de HaveIbeenpwned via leur [mécanisme d’annulation](https://haveibeenpwned.com/OptOut).
-  
-* [OneRep.](https://onerep.com/) Si vous résidez aux États-Unis et que vous avez un abonnement à Monitor Plus, OneRep reçoit votre nom et prénom, adresse e-mail, numéro de téléphone, adresse physique et date de naissance afin de rechercher sur les sites de courtage vos données personnelles et demander leur suppression. OneRep conserve vos données personnelles (jusqu’à ce que vous résiliez votre abonnement à Monitor) afin de déterminer si vos informations apparaissent sur d’autres sites, ou réapparaissent sur les sites desquels elles ont été supprimées.
-  
+    
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor utilise AWS afin de vous envoyer des e-mails relatifs au service Mozilla Monitor, incluant des rapports complets, des alertes aux infractions et des conseils de sécurité. Ces données seront supprimées lorsque vous résiliez votre abonnement à Monitor. 
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor utilise Formstack pour capturer le feedback communiqué de manière facultative par les utilisateurs. Pour en savoir plus sur les pratiques de confidentialité de Formstack, consultez la [Politique de confidentialité de Formstack](https://www.formstack.com/legal).

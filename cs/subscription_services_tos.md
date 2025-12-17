@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Verze 2.0, platná od 4. listopadu 2024
-{: datetime="2024-11-04" }
+Účinné od 17. prosince 2025
+{: datetime="2025-12-17" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
@@ -9,9 +9,7 @@ __Mozilla VPN__ je virtuální privátní síť provozovaná ve spolupráci se s
 
 Služba __Firefox Relay__ vám umožní udržet vaši primární e-mailovou adresu a telefonní číslo v bezpečí a soukromí tak, že pro e-mailovou adresu a telefonní číslo vytvoří masky, které vám umožní odesílat a přijímat e-maily, hovory a textové zprávy, aniž by odhalily vaše skutečné kontaktní údaje.
 
-__Mozilla Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. Viz [Zásady a ochrana osobních údajů Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__Mozilla Monitor__ provádí skenování s cílem zjistit, zda v rámci známého narušení dat došlo k úniku vašich hesel, telefonních čísel nebo jiných osobních informací, a pomáhá vám podniknout kroky k odebrání dat jejich zprostředkovatelům. 
+__Mozilla Monitor__ provádí skenování s cílem zjistit, zda nedošlo k úniku vašich hesel, telefonních čísel nebo jiných osobních údajů v rámci jakýchkoliv známých prolomení dat. 
 
 Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání služeb.
 
@@ -26,11 +24,11 @@ K využívání služeb se vyžaduje účet Mozilla. Pro založení účtu Mozil
 Společnost Mozilla je globální organizací a naše počítače a počítače našich poskytovatelů služeb se mohou nacházet v různých zemích po celém světě, včetně USA. To znamená, že vaše údaje mohou být zpracovávány na serverech umístěných mimo zemi, kde žijete, a tato země může mít odlišnou úroveň předpis ohledně ochrany osobních údajů než je tomu ve vaší zemi. Tím, že nám své údaje poskytnete, udílíte souhlas s tímto druhem převodů vašich údajů.
 
 ### Vaše platba
-__Platba.__ Služby nabízíme jako automaticky obnovované předplatné. Když se zaregistrujete, udílíte nám právo účtovat prostřednictvím vámi uvedené platební metody poplatky za předplatné za první období služeb, které si objednáte. Vaše předplatné se obnoví automaticky na konci každého období a vy nám udílíte oprávnění účtovat poplatek za předplatné pro každé období. Pokud přestanete platit, okamžitě pozastavíme váš účet a pokud nezaplatíte, můžeme jej po 2 měsících odstranit.
+__Platba.__ Služby nabízíme jako automaticky obnovované předplatné. Když se zaregistrujete pro placenou verzi některé z našich služeb, udílíte nám právo účtovat prostřednictvím vámi uvedené platební metody poplatky za předplatné za první období služeb, které si objednáte. Vaše předplatné se obnoví automaticky na konci každého období a vy nám udílíte oprávnění účtovat poplatek za předplatné pro každé období. Pokud přestanete platit, okamžitě pozastavíme váš účet a pokud nezaplatíte, můžeme jej po 2 měsících odstranit.
 
 __Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k předplatnému služeb prostřednictvím webových stránek společnosti Mozilla, pokud účet zrušíte během prvních 30 dní, můžete požádat o vrácení peněz a společnost Mozilla vám poplatek za prví období předplatného vrátí. Tato nabídka se vztahuje pouze na první předplatné. Toto platí navíc vedle všech případných dalších práv, které vám náleží v souladu s právními předpisy o ochraně spotřebitele vaší země.
 
-__Nákup přes Apple Store nebo Google Play Store.__ Pokud jste si předplatné zakoupili prostřednictvím obchodu s aplikacemi Apple Store nebo Google Play Store, vaše platba se řídí podmínkami daného obchodu s aplikacemi. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy je nutné směřovat na společnost Apple, případně Google.
+__Nákup přes Apple Store nebo Google Play Store.__ Pokud jste si předplatné zakoupili prostřednictvím obchodu s aplikacemi Apple Store nebo Google Play Store, vaše platba se řídí podmínkami příslušného obchodu s aplikacemi. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy je nutné směřovat na společnost Apple, případně Google.
 
 ### Své předplatné můžete kdykoliv zrušit
 Své předplatné služeb můžete kdykoliv zrušit. Můžete tak učinit kliknutím na odkaz „Zrušit předplatné“ v jakémkoli e-mailu, který vám zašleme ohledně služeb, nebo přejít do sekce [Předplatné a platby](https://accounts.firefox.com/subscriptions/) ve svém účtu Mozilla a kliknout na „Zrušit“. Pokud se rozhodnete pro zrušení, automatické obnovení se zastaví, nebudeme vám účtovat za žádné budoucí platební období a vy ztratíte přístup ke službám po uplynutí stávajícího fakturačního cyklu.
@@ -84,22 +82,16 @@ Chcete-li se dozvědět více o tom, jak služba Firefox Relay funguje, a o úda
 
 ## Mozilla Monitor
 
-Službu Mozilla Monitor nabízíme buď jako bezplatnou službu, nebo jako placenou službu. Bezplatná služba hlášení narušení dat je poskytována v partnerství s organizací Have I Been Pwned („HIBP“). Služba automatického vymazávání dat je poskytována v partnerství s organizací OneRep a slouží k odstranění osobních informací zveřejněných ve veřejně dostupných online rejstřících a u dalších agregátorů informací o fyzických osobách („Stránky zprostředkovatelů údajů“).
-
-### Musíte splňovat podmínky služby
-Bezplatná služba narušení dat je k dispozici po celém světě. V tuto chvíli je služba automatického vymazání dat u zprostředkovatele k dispozici, pouze pokud žijete ve Spojených státech amerických.
+Službu Mozilla Monitor nabízíme jako bezplatnou v partnerství s organizací Have I Been Pwned („HIBP“). Tato služba je k dispozici uživatelům po celém světě. 
 
 ### Oprávnění nutná k poskytování služby Mozilla Monitor
 
-__Vaše používání služby Monitor.__ Pokud máte v platnosti placenou službu Mozilla Monitor, společnost Mozilla vám uděluje povolení k jejímu používání v souladu s těmito podmínkami služby. Toto oprávnění slouží pouze k osobnímu využití. Službu Mozilla Monitor nesmíte převádět, udílet k ní podlicenci, dále ji prodávat ani komerčně využívat. Nesete výhradní odpovědnost za Obsah, který přenášíte, a za důsledky.
+__Vaše používání služby Monitor.__ Pokud máte aktuální předplatné služby Mozilla Monitor, společnost Mozilla vám uděluje povolení k jejímu používání v souladu s těmito podmínkami služby. Toto oprávnění slouží pouze k osobnímu využití. Službu Mozilla Monitor nesmíte převádět, udílet k ní podlicenci ani komerčně využívat. Nesete výhradní odpovědnost za Obsah, který přenášíte, a za důsledky.
 
-Společnostem Mozilla, OneRep a HIBP poskytujete veškerá práva nezbytná pro provozování služby Mozilla Monitor, včetně práv:
+Společnostem Mozilla a HIBP udílíte veškerá práva nezbytná pro provozování služby Mozilla Monitor, včetně práv:
 
 * na používání informací, které nám poskytnete, včetně osobně identifikujících informací, a to za účelem poskytování Služeb;
-* pro provádění skenování veřejně známých narušení dat s cílem vyhledat osobní údaje, které nám za tímto účelem poskytnete; 
-* ke kontaktování třetích osob, včetně Stránek zprostředkovatelů dat, které zveřejňují vaše informace o vás;
-* k vytváření online účtů na Stránkách zprostředkovatelů dat vaším jménem výhradně za účelem poskytování Služeb vám (např. pokud se pro odeslání zrušení registrace vyžaduje založení účtu na Stránkách zprostředkovatele dat nebo jsou k odstranění vašich informací nezbytné další kroky);
-* k podniknutí kroků popsaných výše vaším jménem.
+* pro provádění skenování veřejně známých narušení dat s cílem vyhledat osobní údaje, které nám za tímto účelem poskytnete.
 
 Souhlasíte a ujišťujete společnost Mozilla, že:
 
@@ -111,10 +103,9 @@ Souhlasíte a ujišťujete společnost Mozilla, že:
 
 Dovolujeme si upozornit, že zahájení poskytování Služeb může trvat až 2 měsíce od chvíle, kdy nám poskytnete informace potřebné pro zaslání žádostí o zrušení registrací a jejich zpracování Stránkami zprostředkovatelů údajů.
 
-__Limity.__ Chápete, že výsledky Služeb nepřímo souvisí s rychlostí poskytnutí a úplností informací, která nám poskytnete. Ačkoliv se Mozilla Monitor a [Have I Been Pwned](https://haveibeenpwned.com/) pokouší uchovávat aktuální data, neexistuje záruka, že budeme mít kompletní či včasné záznamy o všech veřejně známých narušeních dat. 
+__Limity.__ Chápete, že výsledky Služeb nepřímo souvisí s rychlostí poskytnutí a úplností informací, která nám poskytnete. Ačkoliv se služba Mozilla Monitor a organizace [Have I Been Pwned](https://haveibeenpwned.com/) pokouší získávat aktuální data, neexistuje záruka, že budeme mít kompletní či včasné záznamy o všech veřejně známých narušeních dat. 
 
-_Rovněž chápete, že společnost Mozilla zprostředkovatele dat nekontroluje a nemůže zaručit, že žádosti o vymazání dat vyhoví._
-Pro podrobnější informace o datech, které Mozilla, HIBP a OneRep zpracovávají najdete v [Oznámení o ochraně osobních údajů předplatného služeb Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Pro podrobnější informace o datech, které společnost Mozilla a organizace HIBP zpracovávají najdete v [Oznámení o ochraně osobních údajů předplatného služeb Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Další důležité informace
 

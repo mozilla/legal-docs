@@ -1,7 +1,7 @@
 # Mozilla előfizetéses szolgáltatások | Adatvédelmi nyilatkozat
 
-1.2-es verzió, hatálybalépés dátuma: 2024. május 31.
-{: datetime="2024-05-31" }
+Hatályos: 2025. december 17-től
+{: datetime="2025-12-17" }
 
 ## A Mozillánál az Ön személyes adatainak védelmét szem előtt tartva tervezzük a termékeket.
 
@@ -38,8 +38,6 @@ __Hálózati adatok.__ Amikor aktiválja a Mozilla VPN-t, az titkosítja az inte
 __Interakciós adatok.__ A Mozilla adatokat kap a szolgáltatásokkal való interakciójáról. Például amikor be- és kijelentkezik, valamint az Ön által megadott beállításokat. Tudjon meg többet a [Monitor interakciós adatokról](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). A Mozilla a cookie-kat, az eszközinformációkat és az IP-címeket, valamint a tiszta GIF-eket, a cookie-kat és a harmadik fél által nyújtott szolgáltatásokat is felhasználhatja annak megértéséhez, hogy a felhasználók összességében hogyan kommunikálnak termékeinkkel, szolgáltatásainkkal, közleményeinkkel, webhelyeinkkel, online kampányainkkal, kódrészleteinkkel, eszközeinkkel és más platformokkal. Az alábbiakat használjuk:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) A HaveIbeenpwned megkapja az Ön e-mail-címének kivonatolt változatát, hogy megvizsgálja, hol kerülhettek veszélybe a személyes adatai. A HaveIbeenpwned megőrzi ezeket a személyes adatokat, hogy folyamatosan keresse az új jogsértéseket; kérheti e-mail-címének eltávolítását a HaveIbeenpwned szolgáltatásból a [leiratkozási mechanizmusukon](https://haveibeenpwned.com/OptOut) keresztül.
-  
-* [OneRep.](https://onerep.com/) Ha Ön az Egyesült Államokban tartózkodik, és Monitor Plus előfizetéssel rendelkezik, a OneRep megkapja az Ön utó- és vezetéknevét, e-mail-címét, telefonszámát, fizikai címét és születési dátumát, hogy átvizsgálja az adatközvetítő-webhelyeket, hogy megtalálja személyes adatait, és azok eltávolítását kérelmezze. A OneRep megőrzi a személyes adatait mindaddig, amíg be nem fejezi a Monitor előfizetést, hogy ellenőrizhesse, hogy az adatai megjelennek-e további webhelyeken, vagy újra megjelentek-e azokon a webhelyeken, amelyekről már eltávolították azokat.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) A Mozilla Monitor az AWS-t használja, hogy e-maileket tudjon küldeni Önnek a Mozilla Monitor szolgáltatással kapcsolatban, amelyek teljes jelentéseket, szabálysértési figyelmeztetéseket és biztonsági tanácsokat tartalmaznak. Ezek az adatok törlésre kerülnek, amikor befejezi a Monitor előfizetést. 
 

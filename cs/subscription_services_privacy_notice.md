@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Oznámení o ochraně osobních údajů
 
-Verze 1.2 platná od pátku, 31. května 2024
-{: datetime="2024-05-31" }
+Účinné od 17. prosince 2025
+{: datetime="2025-12-17" }
 
 ## Ve společnosti Mozilla při navrhování produktů pamatujeme na ochranu vašich osobních údajů.
 
@@ -38,8 +38,6 @@ __Údaje o síti.__ Když aktivujete službu Mozilla VPN, zašifruje váš inter
 __Údaje o interakci.__ Mozilla získává údaje o vašich interakcích se službami. Pokud se například přihlásíte nebo odhlásíte, případně vámi nastavené preference; podrobnější informace o [Údajích o interakci se službou Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Obecněji může společnost Mozilla rovněž používat soubory cookies, informace o zařízení a adresy IP, společně s jednopixelovými gify, soubory cookies a službami třetích stran, aby jí pomohly souhrnně pochopit způsob, jakým uživatelé využívají naše produkty, služby, sdělení, webové stránky, online kampaně, snippety, zařízení a další platformy. Používáme:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned obdrží hashovanou verzi vaší e-mailové adresy pro provedení vyhledávání případných míst narušení vašich osobních údajů. HaveIbeenpwned uchovává tyto informace pro průběžné vyhledávání nových narušení; o odstranění své e-mailové adresy z HaveIbeenpwned můžete požádat prostřednictvím jejich [mechanizmu zrušení odběru](https://haveibeenpwned.com/OptOut).
-  
-* [OneRep.](https://onerep.com/) Pokud se nacházíte ve Spojených státech amerických a máte předplatné Monitor Plus, OneRep získá vaše jméno a příjmení, e-mailovou adresu, telefonní číslo, fyzickou adresu a datum narození pro vyhledávání stránek zprostředkovatelů údajů s cílem najít vaše osobní údaje a vyžádat si jejich odstranění. OneRep uchovává vaše osobní údaje po dobu trvání vašeho předplatného služby Monitor s cílem kontrolovat, zda se vaše údaje neobjeví na dalších stránkách, či zda se znovu neobjeví na stránkách, z nichž již byly jednou odstraněny.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Služba Mozilla Monitor využívá AWS, aby vám mohla zaslat e-mail v souvislosti se Službou Mozilla Monitor zahrnující Úplné zprávy, Upozornění na narušení a Bezpečnostní tipy. Tato data budou odstraněna v okamžiku, kdy zrušíte své předplatné služby Monitor. 
 

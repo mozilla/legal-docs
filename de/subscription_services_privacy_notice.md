@@ -1,7 +1,7 @@
 # Mozilla Abonnementdienste | Datenschutzhinweis
 
-Version 1.2, gültig ab 31. Mai 2024
-{: datetime="2024-05-31" }
+Gültig ab 17. Dezember 2025
+{: datetime="2025-12-17" }
 
 ## Wir bei Mozilla entwickeln Produkte, bei denen Ihre Privatsphäre an oberster Stelle steht.
 
@@ -38,8 +38,6 @@ __Netzwerkdaten.__ Wenn Sie Mozilla VPN aktivieren, wird Ihr Internet-Traffic ve
 __Interaktionsdaten.__ Mozilla erhält Daten über Ihre Interaktionen mit den Diensten, beispielsweise wann Sie sich an- und abmelden und welche Einstellungen Sie vorgenommen haben. Erfahren Sie mehr über [Monitor-Interaktionsdaten](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Mozilla verwendet zusätzlich zu Zählpixeln (Clear-GIFs), Cookies und Diensten von Drittanbietern evtl. auch Geräteinformationen und IP-Adressen, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned empfängt eine Hash-Version Ihrer E-Mail-Adresse, um über einen Suchlauf zu ermitteln, wo Ihre personenbezogenen Daten möglicherweise kompromittiert wurden. HaveIbeenpwned speichert diese Daten, um regelmäßig nach neuen Datenverletzungen zu suchen; Sie können die Entfernung Ihrer E-Mail-Adresse von HaveIbeenpwned über deren [Opt-out-Mechanismus](https://haveibeenpwned.com/OptOut) anfordern.
-  
-* [OneRep.](https://onerep.com/) Wenn Sie in den USA wohnhaft sind und ein Monitor Plus-Abonnement besitzen, erhält OneRep Ihren Vor- und Nachnamen, Ihre E-Mail-Adresse, Telefonnummer, Postadresse und das Geburtsdatum, um Websites von Datenbrokern nach Ihren personenbezogenen Daten zu durchsuchen und deren Entfernung zu fordern. OneRep speichert Ihre personenbezogenen Daten bis zur Beendigung Ihres Monitor-Abonnements, um zu prüfen, ob Ihre Daten eventuell auch auf anderen Websites auftauchen oder ob sie erneut auf den Websites erscheinen, von denen Ihre Daten bereits entfernt wurden.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor nutzt AWS, um Ihnen in Verbindung mit dem Mozilla Monitor Service E-Mails mit vollständigen Berichten, Mitteilungen über Datenverletzungen und Sicherheitstipps zu senden. Diese Daten werden gelöscht, sobald Sie das Monitor-Abonnement beenden. 
 

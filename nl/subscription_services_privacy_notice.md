@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Privacyverklaring
 
-Versie 1.2, geldig vanaf 31 mei 2024
-{: datetime="2024-05-31" }
+Van kracht vanaf woensdag 17 december 2025
+{: datetime="2025-12-17" }
 
 ## Bij Mozilla ontwerpen we producten met uw privacy in gedachten.
 
@@ -38,8 +38,6 @@ __Netwerkgegevens.__ Wanneer u Mozilla VPN activeert, versleutelt dit uw interne
 __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interacties met de Services. Dit is bijvoorbeeld wanneer u zich aan- en afmeldt en over de voorkeuren die u instelt. Lees meer over [Monitor-interactiegegevens](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Algemener, gebruiken we mogelijk ook cookies, apparaatinformatie en IP-adressen en clear GIFs, cookies en services van derde partijen om ons op basis van samengevoegde gegevens te helpen doorgronden hoe gebruikers gebruikmaken van onze producten, services, communicaties, websites, online campagnes, snippets, apparaten en andere platforms. We gebruiken:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned ontvangt een gehashte versie van uw e-mailadres om te scannen op welk punt uw persoonlijke gegevens mogelijk zijn gecompromitteerd. HaveIbeenpwned bewaart deze persoonlijke gegevens om onafgebroken te scannen op nieuwe inbreuken. U kunt via het [uitschrijfmechanisme](https://haveibeenpwned.com/OptOut) van HaveIbeenpwned om verwijdering van uw e-mailadres aanvragen.
-  
-* [OneRep.](https://onerep.com/) Als u zich in de Verenigde Staten bevindt en een Monitor Plus-abonnement hebt, ontvangt OneRep uw voornaam en achternaam, e-mailadres, telefoonnummer, fysieke adres en geboortedatum om sites van gegevenshandelaren te scannen op uw persoonlijke gegevens en om verwijdering daarvan aan te vragen. OneRep bewaart uw persoonlijke gegevens tot u uw Monitor-abonnement opzegt om te controleren of uw informatie wordt weergegeven op aanvullende sites of opnieuw verschijnt op sites waarop deze al is verwijderd.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor gebruikt AWS om via e-mail contact met u op te nemen in verband met de Mozilla Monitor-service. Dit omvat volledige rapporten, inbreukmeldingen en veiligheidstips. Deze gegevens worden verwijderd wanneer u uw Monitor-abonnement opzegt. 
 

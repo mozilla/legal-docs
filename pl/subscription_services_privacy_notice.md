@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Zasady prywatności
 
-Wersja 1.2, obowiązuje od 31 maja 2024 r.
-{: datetime="2024-05-31" }
+Data wejścia w życie: 17 grudnia 2025 r.
+{: datetime="2025-12-17" }
 
 ## W firmie Mozilla projektujemy produkty z myślą o prywatności użytkowników.
 
@@ -38,8 +38,6 @@ __Dane dotyczące sieci.__ Po aktywowaniu usługa Mozilla VPN będzie szyfrować
 __Dane dotyczące interakcji.__ Mozilla otrzymuje dane dotyczące interakcji użytkownika z usługami. Na przykład, kiedy użytkownik się loguje i wylogowuje, oraz preferencje ustawione przez użytkownika; dowiedz się więcej o [danych dotyczących interakcji z usługą Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). Ogólnie rzecz biorąc, Mozilla może także używać ciasteczek, danych urządzeń i adresów IP, przezroczystych plików GIF i usług podmiotów zewnętrznych. Pomaga nam to uzyskać ogólne zrozumienie tego, w jaki sposób użytkownicy korzystają z naszych produktów, usług, metod komunikacji, witryn, kampanii online, wycinków, urządzeń i innych platform. Używamy tych rozwiązań:
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned otrzymuje zaszyfrowaną wersję adresu e-mail użytkownika w celu przeskanowania miejsc, w których jego dane osobowe mogły zostać naruszone. HaveIbeenpwned przechowuje te dane osobowe w celu ciągłego skanowania w poszukiwaniu nowych naruszeń; użytkownik może zażądać usunięcia swojego adresu e-mail z usługi HaveIbeenpwned za pomocą jej [mechanizmu rezygnacji](https://haveibeenpwned.com/OptOut).
-  
-* [OneRep.](https://onerep.com/) Jeśli użytkownik znajduje się w Stanach Zjednoczonych i posiada subskrypcję Monitor Plus, OneRep otrzymuje jego imię i nazwisko, adres e-mail, numer telefonu, adres fizyczny i datę urodzenia w celu przeskanowania witryn brokerów danych, aby znaleźć jego dane osobowe i zażądać ich usunięcia. OneRep przechowuje dane osobowe użytkownika do momentu zakończenia przez niego subskrypcji usługi Monitor w celu sprawdzania, czy informacje o użytkowniku pojawiają się w dodatkowych witrynach lub czy pojawiły się ponownie w witrynach, z których użytkownik został już usunięty.
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor korzysta z AWS, aby móc wysyłać użytkownikowi wiadomości e-mail w związku z usługą Mozilla Monitor, co obejmuje pełne raporty, ostrzeżenia o naruszeniach i porady dotyczące bezpieczeństwa. Dane te zostaną usunięte po anulowaniu subskrypcji usługi Monitor. 
 

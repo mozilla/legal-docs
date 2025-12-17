@@ -1,7 +1,7 @@
 # Serviços de assinatura da Mozilla | Termos de serviço
 
-Versão 2.0, segunda-feira, 4 de novembro de 2024
-{: datetime="2024-11-04" }
+Data de vigência: quarta-feira, 17 de dezembro de 2025
+{: datetime="2025-12-17" }
 
 A Mozilla Corporation oferece vários serviços para melhorar sua privacidade e segurança on-line, incluindo a VPN da Mozilla e o Firefox Relay (os “Serviços”).
 
@@ -9,9 +9,7 @@ __A VPN da Mozilla__ é uma rede privada virtual em parceria com a [Mullvad](htt
 
 __O Firefox Relay__ permite manter seu email e telefone protegidos e privados criando máscaras que permitem enviar e receber emails, ligações e mensagens de texto sem revelar suas informações de contato reais.
 
-__O Mozilla Monitor__ monitora para ver se as suas contas constam em violações de dados conhecidas. Consulte os [termos e a privacidade do Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor/).
-
-__O Mozilla Monitor__ verifica se as suas senhas, os seus números de telefone ou outras informações pessoais foram vazados em violações de dados conhecidas e ajuda a tomar medidas para removê-los de negociadores de dados. 
+__Mozilla Monitor__ verifica possível vazamento de senhas, números de telefone ou outras informações pessoais em violações de dados conhecidas. 
 
 Leia estes Termos de serviço com atenção, pois eles contêm informações importantes sobre seu uso dos Serviços.
 
@@ -26,7 +24,7 @@ O [Aviso de privacidade dos serviços de assinatura da Mozilla](https://www.mozi
 A Mozilla é uma organização mundial, por isso, os computadores nossos e dos nossos prestadores de serviços estão localizados em diferentes países, como nos Estados Unidos. Portanto, suas informações podem ser processadas em servidores localizados em outro país com um nível diferente de regulamentação de proteção de dados. Ao nos fornecer informações, você indica que concorda com essa transferência delas.
 
 ### Seu pagamento
-__Pagamento.__ Os Serviços são fornecidos na forma de assinatura com renovação automática. Ao se inscrever nos Serviços, você nos autoriza a realizar a cobrança das taxas de assinatura referentes ao primeiro período na sua forma de pagamento fornecida. Seu plano é renovado automaticamente no fim de cada período, e você nos autoriza a realizar a cobrança das taxas de assinatura de cada um deles. Se você interromper o pagamento, suspenderemos imediatamente a sua conta e podemos exclui-la após dois meses.
+__Pagamento.__ Os Serviços são fornecidos na forma de assinatura com renovação automática. Ao se inscrever na versão paga de um dos Serviços, você nos autoriza a realizar a cobrança das taxas de assinatura referentes ao primeiro período na sua forma de pagamento fornecida. Seu plano é renovado automaticamente no fim de cada período, e você nos autoriza a realizar a cobrança das taxas de assinatura de cada um deles. Se você interromper o pagamento, suspenderemos imediatamente a sua conta e podemos exclui-la após dois meses.
 
 __Política de reembolso de 30 dias.__ Na primeira assinatura, você pode solicitar reembolso do valor pago pelo primeiro período se cancelar a conta em até 30 dias. Essa oferta só é válida para a primeira assinatura e não exclui quaisquer direitos que você possa ter segundo a legislação do consumidor do seu país.
 
@@ -84,22 +82,16 @@ Para saber mais sobre como funciona o Firefox Relay e os dados tratados pela Moz
 
 ## Mozilla Monitor
 
-Oferecemos o Mozilla Monitor como serviço gratuito ou como serviço de assinatura paga. O serviço gratuito de aviso de violação de dados é fornecido em parceria com a Have I Been Pwned (“HIBP”). O serviço de exclusão automática de dados é fornecido em parceria com a OneRep para remoção de dados pessoais publicados em diretórios on-line públicos e outros agregadores de informações pessoais (“Sites de Corretores de Dados”).
-
-### É preciso ser elegível
-O serviço gratuito de aviso de violação de dados está disponível no mundo todo. No momento, o serviço de exclusão automática por corretora da dados só está disponível para residentes nos Estados Unidos.
+Oferecemos o Mozilla Monitor como um serviço gratuito em parceria com a Have I Been Pwned (“HIBP”). Esse serviço está disponível para usuários no mundo todo. 
 
 ### Permissões necessárias para o fornecimento do Mozilla Monitor
 
-__Seu uso do Monitor.__ Se você tem uma assinatura paga do Mozilla Monitor, a Mozilla dará permissão para usá-lo de acordo com estes Termos de serviço. Essa permissão é exclusivamente para seu uso pessoal. Você não pode transferir, sublicenciar, revender ou explorar comercialmente o Mozilla Monitor. Você é exclusivamente responsável pelo seu Conteúdo transmitido e pelas consequências deste.
+__Seu uso do Monitor.__ Se você tem uma assinatura do Mozilla Monitor, a Mozilla dará permissão para usá-lo de acordo com estes Termos de serviço. Essa permissão é exclusivamente para seu uso pessoal. Você não pode transferir, sublicenciar ou explorar comercialmente o Mozilla Monitor. Você é exclusivamente responsável pelo seu Conteúdo transmitido e pelas consequências deste.
 
-Você concede à Mozilla, OneRep e HIBP todos os direitos necessários para operar o Mozilla Monitor, incluindo para:
+Você concede à Mozilla e HIBP todos os direitos necessários para operar o Mozilla Monitor, incluindo para:
 
 * Usar as informações que você nos fornece, como informações de identificação pessoal, para fornecer os Serviços.
-* Realizar verificações de violações conhecidas de dados pelas informações pessoais que você nos fornecer para esse fim. 
-* Entrar em contato com terceiros, como Sites de Corretores de Dados, que publicam suas informações.
-* Criar contas on-line com Sites de Corretores de Dados em seu nome exclusivamente para fornecer os Serviços para você (por exemplo, quando for necessário criar uma conta com um Site de Corretores de Dados para enviar solicitações de cancelamento ou tomar outras medidas para remover suas informações).
-* Tomar as medidas descritas acima em seu nome.
+* Realizar verificações de violações conhecidas de dados pelas informações pessoais que você nos fornecer para esse fim.
 
 Você concorda e confirma à Mozilla que:
 
@@ -111,10 +103,9 @@ Você concorda e confirma à Mozilla que:
 
 Os Sites de Corretores de Dados podem demorar até dois meses após nosso recebimento de todas as informações necessárias para fornecer os Serviços para atender a solicitações de cancelamento.
 
-__Limites.__ Você entende que os resultados dos Serviços dependem diretamente da celeridade e integralidade das informações que nos fornecer. Embora o Mozilla Monitor e a [Have I Been Pwned, ](https://haveibeenpwned.com/) tentem obter dados atuais, não é garantido que eles tenham registros completos e atuais de todas as violações públicas de dados. 
+__Limites.__ Você entende que os resultados dos Serviços dependem diretamente da celeridade e integralidade das informações que nos fornecer. Embora o Mozilla Monitor e a [Have I Been Pwned](https://haveibeenpwned.com/) tentem obter dados atuais, não é garantido que eles tenham registros completos e atuais de todas as violações públicas de dados. 
 
-_Você também entende que a Mozilla não tem controle sobre corretores de dados e, portanto, não pode garantir seu cumprimento de solicitações de exclusão de dados._
-Para saber mais sobre os dados tratados pela Mozilla, HIBP e OneRep, consulte o [Aviso de privacidade dos serviços de assinatura da Mozilla](https://www.mozilla.org/privacy/subscription-services).
+Para saber mais sobre os dados tratados pela Mozilla e HIBP, consulte o [Aviso de privacidade dos serviços de assinatura da Mozilla](https://www.mozilla.org/privacy/subscription-services).
 
 ## Outros pontos importantes
 
