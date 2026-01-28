@@ -30,7 +30,7 @@ We process technical and interaction data to better understand how you engage wi
 When you use connected services, your data will be processed in accordance with the relevant service’s privacy notice:
 
 * [Firefox Browser](https://www.mozilla.org/privacy/firefox/)  
-* Mozilla [Monitor](https://www.mozilla.org/privacy/firefox-monitor)  
+* [Mozilla Monitor](https://www.mozilla.org/privacy/firefox-monitor)  
 * [Firefox Relay](https://www.mozilla.org/privacy/firefox-relay/)  
 * [Mozilla VPN](https://www.mozilla.org/privacy/mozilla-vpn/)  
 * [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)  
