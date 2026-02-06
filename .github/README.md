@@ -16,7 +16,7 @@ List of translated files (number of locales between parentheses):
 * focus_terms_of_use.md (13)
 * mdn_plus_privacy.md (14)
 * mdn_plus_terms.md (14)
-* mozilla_accounts_privacy_notice.md (12)
+* mozilla_accounts_privacy_notice.md (14)
 * mozilla_privacy_policy.md (13)
 * pocket_privacy_policy.md (12)
 * pocket_privacy_policy_eu.md (6)
