@@ -231,4 +231,3 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
     </tr>
   </tbody>
 </table>
-

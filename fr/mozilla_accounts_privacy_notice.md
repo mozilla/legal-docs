@@ -231,4 +231,3 @@ Nous pouvons être amenés à modifier cette politique et nos avis. Dans ce cas,
     </tr>
   </tbody>
 </table>
-

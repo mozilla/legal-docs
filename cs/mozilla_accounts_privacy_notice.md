@@ -231,4 +231,3 @@ Může se stát, že tyto zásady a naše oznámení budeme muset upravit, a v t
     </tr>
   </tbody>
 </table>
-

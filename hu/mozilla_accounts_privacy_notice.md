@@ -231,4 +231,3 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleménye
     </tr>
   </tbody>
 </table>
-

@@ -231,4 +231,3 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
     </tr>
   </tbody>
 </table>
-

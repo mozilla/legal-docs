@@ -231,4 +231,3 @@ Podemos alterar esta política e nossos avisos. Nesse caso, as atualizações se
     </tr>
   </tbody>
 </table>
-
