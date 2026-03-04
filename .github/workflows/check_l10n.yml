@@ -61,12 +61,14 @@ jobs:
           rsync -aIv ../temp_files/ ./
       - name: Commit changes to l10n_updates branch
         continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}
         run: |
           # Commit changes. Failure is allowed if there is nothing to commit.
           cd clone
           git add .
           git commit -m "Update documents relevant for l10n"
-          git push -f origin l10n_updates
+          git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git l10n_updates
       - name: Open pull request
         continue-on-error: true
         run: |

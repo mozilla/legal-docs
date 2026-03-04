@@ -56,13 +56,15 @@ jobs:
           fi
       - name: Commit changes to prod_updates branch
         continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.L10N_LEGAL }}
         run: |
           # Commit changes. Failure is allowed if there is nothing to commit.
           cd clone
           git status
           git add .
           git commit -m "Publish documents to production"
-          git push -f origin prod_updates
+          git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git prod_updates
       - name: Open pull request
         continue-on-error: true
         run: |
