@@ -70,7 +70,7 @@ We store a log of the phone numbers you’ve contacted through Relay in order to
 
 We do not read or store the content of any of your email messages for longer than it takes to deliver them to you. If you use the feature to block promotional emails, the Service will check email headers to determine whether the email should be blocked.
 
-__Limits and Customization.__ With the free service, you can create up to 5 random email masks and no phone number masks. With the paid subscription, you can create one phone number mask, an unlimited number of email masks, and you have the option to create a custom subdomain for your email masks.
+__Limits and Customization.__ With the free service, you can create up to 50 random email masks and no phone number masks. With the paid subscription, you can create one phone number mask, an unlimited number of email masks, and you have the option to create a custom subdomain for your email masks.
 
 Firefox Relay allows up to 50 minutes of phone calls and up to 75 SMS text messages (including sent and received) per month. Any further text messages will be deleted and any further phone calls will not go through. Firefox Relay does not support MMS messages. You may be charged your carrier’s normal rates for phone minutes and text messages. 
 
