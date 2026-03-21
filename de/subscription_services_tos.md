@@ -70,7 +70,7 @@ Wir speichern ein Log der Telefonnummern, die Sie über Relay kontaktiert haben,
 
 Wir lesen oder speichern den Inhalt Ihrer E-Mail-Nachrichten nicht länger, als für die Lieferung an Sie nötig. Wenn Sie die Funktion zum Blockieren von Werbemails nutzen, überprüft der Dienst den Header der E-Mails, um festzustellen, ob eine E-Mail blockiert werden muss.
 
-__Einschränkungen und Anpassung.__ Mit dem kostenlosen Dienst können Sie bis zu 5 beliebige E-Mail-Masken, aber keine Telefonnummer-Masken erstellen. Mit dem bezahlten Abonnement können Sie eine Telefonnummer-Maske und eine unbegrenzte Anzahl an E-Mail-Masken erstellen und haben die Option, eine spezifische Subdomain für Ihre E-Mail-Masken zu erstellen.
+__Einschränkungen und Anpassung.__ Mit dem kostenlosen Dienst können Sie bis zu 50 beliebige E-Mail-Masken, aber keine Telefonnummer-Masken erstellen. Mit dem bezahlten Abonnement können Sie eine Telefonnummer-Maske und eine unbegrenzte Anzahl an E-Mail-Masken erstellen und haben die Option, eine spezifische Subdomain für Ihre E-Mail-Masken zu erstellen.
 
 Firefox Relay ermöglicht bis zu 50 Minuten Telefongespräche und 75 SMS-Nachrichten (gesendete und empfangene insgesamt) pro Monat. Alle weiteren SMS-Nachrichten werden gelöscht und alle weiteren Telefongespräche nicht verbunden. Firefox Relay unterstützt keine MMS-Nachrichten. Für Telefonminuten und SMS-Nachrichten werden Ihnen evtl. die normalen Tarife Ihres Anbieters berechnet. 
 

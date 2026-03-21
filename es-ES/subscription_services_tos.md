@@ -70,7 +70,7 @@ Guardamos un registro de los números de teléfono a los que contacta a través 
 
 No leemos ni guardamos el contenido de sus mensajes de correo electrónico durante más tiempo que el requerido para entregárselos. Si usa la función para bloquear mensajes de correo electrónico promocionales, el Servicio revisará los encabezados de los mensajes de correo electrónico para determinar si debe bloquearse algún mensaje.
 
-__Limitaciones y personalización.__ El servicio gratuito le permite crear hasta 5 máscaras de correo electrónico, pero no le permite crear máscaras de número de teléfono. El servicio de suscripción de pago le permite crear una máscara de número de teléfono, un número ilimitado de máscaras de correo electrónico y tiene la opción de crear un subdominio personalizado para sus máscaras de correo electrónico.
+__Limitaciones y personalización.__ El servicio gratuito le permite crear hasta 50 máscaras de correo electrónico, pero no le permite crear máscaras de número de teléfono. El servicio de suscripción de pago le permite crear una máscara de número de teléfono, un número ilimitado de máscaras de correo electrónico y tiene la opción de crear un subdominio personalizado para sus máscaras de correo electrónico.
 
 Firefox Relay ofrece hasta 50 minutos en llamadas telefónicas y hasta 75 mensajes de texto SMS (total de mensajes enviados y recibidos) al mes. Cualquier mensaje de texto adicional se eliminará y no podrá efectuarse ninguna llamada de teléfono adicional. Firefox Relay no es compatible con los mensajes MMS. Es posible que se apliquen las tarifas normales de su proveedor de servicio móvil para llamadas y mensajes de texto. 
 
