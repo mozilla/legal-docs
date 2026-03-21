@@ -70,7 +70,7 @@ Naplót tárolunk azokról a telefonszámokról, amelyeket a Relay megoldáson k
 
 Egyetlen e-mail-üzenet tartalmát sem olvassuk el és nem tároljuk tovább, mint amennyi idő alatt eljuttatjuk Önhöz. Ha a funkciót promóciós e-mailek letiltására használja, a Szolgáltatás ellenőrzi az e-mailek fejléceit, hogy eldöntse, le kell-e tiltani az e-mailt.
 
-__Korlátok és testreszabás.__ Az ingyenes szolgáltatással akár 5 véletlenszerű e-mail-maszkot is létrehozhat, viszont telefonszámmaszkot nem. A fizetős előfizetéssel létrehozhat egy telefonszámmaszkot, korlátlan számú e-mail-maszkot, valamint lehetősége van egyéni altartomány létrehozására az e-mail-maszkokhoz.
+__Korlátok és testreszabás.__ Az ingyenes szolgáltatással akár 50 véletlenszerű e-mail-maszkot is létrehozhat, viszont telefonszámmaszkot nem. A fizetős előfizetéssel létrehozhat egy telefonszámmaszkot, korlátlan számú e-mail-maszkot, valamint lehetősége van egyéni altartomány létrehozására az e-mail-maszkokhoz.
 
 A Firefox Relay havonta legfeljebb 50 perc telefonhívást és 75 SMS-üzenet küldését teszi lehetővé (beleértve az elküldött és fogadott üzeneteket). A további szöveges üzenetek törlésre kerülnek, és a további telefonhívások nem érik el a másik felet. A Firefox Relay nem támogatja az MMS-üzeneteket. Előfordulhat, hogy a szolgáltatója a normál díjszabást számítja fel a telefonpercekért és a szöveges üzenetekért. 
 

@@ -70,7 +70,7 @@ Memorizziamo un registro dei numeri di telefono che hai contattato tramite Relay
 
 Non leggiamo né memorizziamo il contenuto dei tuoi messaggi email per un tempo superiore a quello necessario per consegnarteli. Se usi la funzione di blocco delle email promozionali, il Servizio verificherà le intestazioni delle email per determinare se devono essere bloccate.
 
-__Limiti e personalizzazione.__ Con il servizio gratuito, puoi creare fino a 5 alias email casuali e nessun alias per numeri di telefono. Con l'abbonamento a pagamento puoi creare un alias per il numero di telefono, un numero illimitato di alias email e hai la possibilità di creare un sottodominio personalizzato per gli alias email.
+__Limiti e personalizzazione.__ Con il servizio gratuito, puoi creare fino a 50 alias email casuali e nessun alias per numeri di telefono. Con l'abbonamento a pagamento puoi creare un alias per il numero di telefono, un numero illimitato di alias email e hai la possibilità di creare un sottodominio personalizzato per gli alias email.
 
 Firefox Relay consente fino a 50 minuti di telefonate in entrata e in uscita e fino a 75 SMS inviati e ricevuti al mese. Ogni ulteriore messaggio di testo verrà cancellato e ogni ulteriore telefonata non verrà inoltrata. Firefox Relay non supporta i messaggi MMS. Potrebbero esserti addebitate le normali tariffe del tuo operatore per i minuti telefonici e gli SMS. 
 

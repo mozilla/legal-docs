@@ -70,7 +70,7 @@ Ukládáme protokol telefonních čísel, která jste kontaktovali prostřednict
 
 Nečteme ani neukládáme obsah žádných vašich e-mailových zpráv po dobu delší, než je nutné k jejich doručení. Pokud použijete funkci blokování reklamních e-mailů, služba zkontroluje hlavičky e-mailů, aby zjistila, zda je potřeba e-mail zablokovat.
 
-__Omezení a přizpůsobení.__ V bezplatné službě můžete vytvořit až 5 náhodných masek e-mailů, ale žádné masky telefonních čísel. S placeným předplatným můžete vytvořit jednu masku telefonního čísla, neomezený počet e-mailových masek a máte možnost vytvořit vlastní subdoménu pro e-mailové masky.
+__Omezení a přizpůsobení.__ V bezplatné službě můžete vytvořit až 50 náhodných masek e-mailů, ale žádné masky telefonních čísel. S placeným předplatným můžete vytvořit jednu masku telefonního čísla, neomezený počet e-mailových masek a máte možnost vytvořit vlastní subdoménu pro e-mailové masky.
 
 Služba Firefox Relay umožňuje měsíčně až 50 minut telefonních hovorů a až 75 SMS zpráv (včetně odeslaných a přijatých). Veškeré další textové zprávy budou smazány a další telefonní hovory se neuskuteční. Služba Firefox Relay nepodporuje zprávy MMS. Za telefonní minuty a textové zprávy vám mohou být účtovány běžné sazby vašeho operátora. 
 
