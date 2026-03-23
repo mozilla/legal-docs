@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Data wejścia w życie: 17 grudnia 2025 r.
-{: datetime="2025-12-17" }
+Data wejścia w życie: 24 marca 2026 r.
+{: datetime="2026-03-24" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -70,7 +70,7 @@ Przechowujemy rejestr numerów telefonów, z którymi użytkownik kontaktował s
 
 Nie czytamy ani nie przechowujemy treści wiadomości e-mail użytkownika dłużej niż jest to konieczne do ich dostarczenia. Jeśli użytkownik korzysta z funkcji blokowania promocyjnych wiadomości e-mail, Usługa sprawdzi nagłówki wiadomości e-mail w celu ustalenia, czy wiadomość e-mail powinna zostać zablokowana.
 
-__Ograniczenia i personalizacja.__ W ramach bezpłatnej usługi można utworzyć do 5 losowych masek adresów e-mail, ale nie można utworzyć żadnych masek numerów telefonów. W ramach płatnej subskrypcji można utworzyć jedną maskę numeru telefonu i nieograniczoną liczbę masek adresów e-mail. Ponadto dostępna jest możliwość utworzenia niestandardowej subdomeny dla swoich masek adresów e-mail.
+__Ograniczenia i personalizacja.__ W ramach bezpłatnej usługi można utworzyć do 50 losowych masek adresów e-mail, ale nie można utworzyć żadnych masek numerów telefonów. W ramach płatnej subskrypcji można utworzyć jedną maskę numeru telefonu i nieograniczoną liczbę masek adresów e-mail. Ponadto dostępna jest możliwość utworzenia niestandardowej subdomeny dla swoich masek adresów e-mail.
 
 Usługa Firefox Relay zapewnia do 50 minut rozmów telefonicznych i do 75 wiadomości SMS (w tym wysłanych i odebranych) miesięcznie. Wszelkie dalsze wiadomości tekstowe będą usuwane, a połączenia telefoniczne nie będą realizowane. Usługa Firefox Relay nie obsługuje wiadomości MMS. Użytkownik może zostać obciążony normalnymi stawkami operatora za minuty połączeń telefonicznych i wiadomości tekstowe. 
 

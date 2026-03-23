@@ -1,7 +1,7 @@
 # Layanan Langganan Mozilla | Ketentuan Layanan
 
-Berlaku 17 Desember 2025
-{: datetime="2025-12-17" }
+Berlaku 24 Maret 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation menawarkan beragam layanan untuk meningkatkan privasi dan keamanan Anda secara online, termasuk Mozilla VPN dan Firefox Relay (“Layanan”).
 
@@ -70,7 +70,7 @@ Kami menyimpan log nomor telepon yang sudah Anda hubungi melalui Relay untuk men
 
 Kami tidak membaca atau menyimpan konten pesan email Anda selama lebih dari yang diperlukan untuk mengirimkannya kepada Anda. Jika Anda menggunakan fitur ini untuk memblokir email promosi, Layanan ini akam memeriksa header email untuk menentukan apakah email tersebut harus diblokir.
 
-__Batas dan Penyesuaian.__ Dengan layanan gratis, Anda dapat membuat hingga 5 penyamaran email acak dan nol penyamaran nomor telepon. Dengan langganan berbayar, Anda dapat membuat satu penyamaran nomor telepon, penyamaran email tak terbatas, dan Anda memiliki opsi untuk membuat subdomain khusus untuk penyamaran email Anda.
+__Batas dan Penyesuaian.__ Dengan layanan gratis, Anda dapat membuat hingga 50 penyamaran email acak dan nol penyamaran nomor telepon. Dengan langganan berbayar, Anda dapat membuat satu penyamaran nomor telepon, penyamaran email tak terbatas, dan Anda memiliki opsi untuk membuat subdomain khusus untuk penyamaran email Anda.
 
 Firefox Relay memungkinkan hingga 50 menit panggilan telepon dan hingga 75 pesan SMS (termasuk yang dikirim dan diterima) per bulan. Pesan SMS lainnya akan dihapus dan panggilan telepon lainnya tidak akan diterima. Firefox Relay tidak mendukung pesan MMS. Anda dapat dikenai tarif normal operator untuk biaya pesan SMS dan durasi menelepon. 
 
