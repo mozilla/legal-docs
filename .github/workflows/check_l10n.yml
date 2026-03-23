@@ -74,7 +74,7 @@ jobs:
         run: |
           # continue-on-error is needed in case there is already an open PR
           cd clone
-          changes=$(git diff --name-only origin/l10n_reference origin/l10n_updates -- | wc -l | awk '{print $1}')
+          changes=$(git diff --name-only origin/l10n_reference HEAD -- | wc -l | awk '{print $1}')
           if [[ "$changes" = "0" ]];
           then
             echo "No changes."
