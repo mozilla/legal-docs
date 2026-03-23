@@ -1,7 +1,7 @@
 # Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Vigente desde el 17 de diciembre de 2025
-{: datetime="2025-12-17" }
+Vigente desde el 24 de marzo de 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como, por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
