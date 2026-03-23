@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Účinné od 17. prosince 2025
-{: datetime="2025-12-17" }
+Účinné od 24. března 2026
+{: datetime="2026-03-24" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 

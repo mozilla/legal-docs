@@ -1,7 +1,7 @@
 # Layanan Langganan Mozilla | Ketentuan Layanan
 
-Berlaku 17 Desember 2025
-{: datetime="2025-12-17" }
+Berlaku 24 Maret 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation menawarkan beragam layanan untuk meningkatkan privasi dan keamanan Anda secara online, termasuk Mozilla VPN dan Firefox Relay (“Layanan”).
 

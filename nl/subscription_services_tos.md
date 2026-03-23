@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Servicevoorwaarden
 
-Van kracht vanaf woensdag 17 december 2025
-{: datetime="2025-12-17" }
+Van kracht vanaf dinsdag 24 maart 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 

@@ -1,7 +1,7 @@
 # Mozilla 订阅服务 | 服务条款
 
-2025 年 12 月 17 日生效
-{: datetime="2025-12-17" }
+2026 年 3 月 24 日生效
+{: datetime="2026-03-24" }
 
 Mozilla Corporation 提供多种服务以提升您的在线隐私与安全，包括 Mozilla VPN 和 Firefox Relay（统称“服务”）。
 

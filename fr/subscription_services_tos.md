@@ -1,7 +1,7 @@
 # Services d’abonnements Mozilla - Conditions d’utilisation
 
-Date d’effet : 17 décembre 2025
-{: datetime="2025-12-17" }
+Date d’effet : 24 mars 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 

@@ -1,7 +1,7 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-Hatályos: 2025. december 17-től
-{: datetime="2025-12-17" }
+Hatályos: 2026. március 24-től
+{: datetime="2026-03-24" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 

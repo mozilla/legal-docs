@@ -1,7 +1,7 @@
 # Mozilla Abonnementdienste | Servicebedingungen
 
-Gültig ab 17. Dezember 2025
-{: datetime="2025-12-17" }
+Gültig ab 24. März 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation bietet verschiedene Dienste an, um den Datenschutz und Ihre Sicherheit online zu verbessern, darunter Mozilla VPN und Firefox Relay (die „Dienste“).
 
