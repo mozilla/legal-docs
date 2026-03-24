@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Servicevoorwaarden
 
-Van kracht vanaf woensdag 17 december 2025
-{: datetime="2025-12-17" }
+Van kracht vanaf dinsdag 24 maart 2026
+{: datetime="2026-03-24" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
@@ -70,7 +70,7 @@ Wij slaan een logboek op van de telefoonnummers waarmee u via Relay contact hebt
 
 Wij lezen of bewaren de inhoud van uw e-mailberichten niet langer dan nodig is om deze bij u te bezorgen. Als u de functie gebruikt voor het blokkeren van reclamegebonden e-mail, controleert de Service de e-mailheaders om te bepalen of een e-mail wel of niet moet worden geblokkeerd.
 
-__Beperkingen en aanpassingen.__ Met de gratis service kunt u tot 5 willekeurige e-mailmaskers en geen telefoonnummermaskers maken. Met het betaalde abonnement kunt u één telefoonnummermasker maken, een onbeperkt aantal e-mailmaskers maken en hebt u de mogelijkheid om een aangepast subdomein voor uw e-mailmaskers te maken.
+__Beperkingen en aanpassingen.__ Met de gratis service kunt u tot 50 willekeurige e-mailmaskers en geen telefoonnummermaskers maken. Met het betaalde abonnement kunt u één telefoonnummermasker maken, een onbeperkt aantal e-mailmaskers maken en hebt u de mogelijkheid om een aangepast subdomein voor uw e-mailmaskers te maken.
 
 Firefox Relay staat maximaal 50 minuten aan telefoongesprekken en maximaal 75 sms-berichten (verzonden en ontvangen) per maand toe. Alle verdere sms-berichten worden gewist en alle verdere telefoongesprekken kunnen niet plaatsvinden. Firefox Relay biedt geen ondersteuning voor mms-berichten. De normale tarieven van uw provider van telefoonminuten en sms-berichten kunnen bij u in rekening worden gebracht. 
 

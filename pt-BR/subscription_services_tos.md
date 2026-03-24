@@ -1,7 +1,7 @@
 # Serviços de assinatura da Mozilla | Termos de serviço
 
-Data de vigência: quarta-feira, 17 de dezembro de 2025
-{: datetime="2025-12-17" }
+Data de vigência: terça-feira, 24 de março de 2026
+{: datetime="2026-03-24" }
 
 A Mozilla Corporation oferece vários serviços para melhorar sua privacidade e segurança on-line, incluindo a VPN da Mozilla e o Firefox Relay (os “Serviços”).
 
@@ -70,7 +70,7 @@ Armazenamos um registro dos números de telefone para os quais você liga pelo R
 
 Não lemos ou armazenamos o conteúdo de emails por períodos superiores ao necessário para o envio. Se você usar o recurso para bloquear emails promocionais, o Serviço verificará o cabeçalho do email para determinar se ele deve ser bloqueado.
 
-__Limites e personalização.__ Com o serviço gratuito, você pode criar até cinco mascaramentos aleatórios de email. Não é possível criar mascaramento de telefone. Com a assinatura paga, você pode criar um mascaramento de telefone e não há limite de mascaramento de email. Você também pode criar um subdomínio personalizado para seus mascaramentos de email.
+__Limites e personalização.__ Com o serviço gratuito, você pode criar até 50 mascaramentos aleatórios de email. Não é possível criar mascaramento de telefone. Com a assinatura paga, você pode criar um mascaramento de telefone e não há limite de mascaramento de email. Você também pode criar um subdomínio personalizado para seus mascaramentos de email.
 
 O Firefox Relay permite até 50 minutos de ligações e 75 mensagens de texto (enviadas e recebidas) por mês. As mensagens de texto acima desse limite serão excluídas e as ligações não serão realizadas. O Firefox Relay não é compatível com mensagens MMS. As tarifas normais de minuto de ligação e de mensagem de texto da sua operadora poderão ser aplicáveis. 
 
