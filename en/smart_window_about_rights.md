@@ -1,11 +1,11 @@
 # Smart Window Terms of Use
 
-To enable Smart Window, you must accept these additional terms, and the accompanying Smart Window Privacy Notice, which supplement the following Firefox and [Mozilla accounts](https://www.mozilla.org/en-US/account/) Terms and Privacy Notices that you have already accepted:
+To enable Smart Window, you must accept these additional terms, and the accompanying Smart Window Privacy Notice, which supplement the following Firefox and [Mozilla accounts](https://www.mozilla.org/account/) Terms and Privacy Notices that you have already accepted:
 
-- [Firefox Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
-- [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/)
-- [Mozilla accounts Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/services/)
-- [Mozilla accounts Privacy Notice](https://www.mozilla.org/en-US/privacy/mozilla-accounts/)
+- [Firefox Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/)
+- [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/)
+- [Mozilla accounts Terms of Use](https://www.mozilla.org/about/legal/terms/services/)
+- [Mozilla accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/)
 
 The above Terms and Notices are cumulative and complementary, so that all may be applied at once depending on the data in question and the related circumstances. In the event of a conflict, the Smart Window Terms and Privacy Notice will govern.
 
@@ -21,7 +21,7 @@ Subject to the terms below, Mozilla grants you a personal, non-exclusive license
 
 Your use of Smart Window must comply with all applicable laws, as well as applicable guidelines or policies published by Mozilla. You are responsible for all activities that occur in Smart Window using your account.
 
-You may not use Smart Window or its Outputs for any illegal, harmful, or abusive activity, or to violate Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/en-US/about/legal/acceptable-use/). You also may not use the Smart Window in a way that interrupts or interferes with Mozilla’s business or its services, including but not limited to Smart Window itself.
+You may not use Smart Window or its Outputs for any illegal, harmful, or abusive activity, or to violate Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/). You also may not use the Smart Window in a way that interrupts or interferes with Mozilla’s business or its services, including but not limited to Smart Window itself.
 
 ## Rate Limit
 
