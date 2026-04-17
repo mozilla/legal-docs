@@ -1,5 +1,8 @@
 # Smart Window Terms of Use
 
+April 21, 2026
+{: datetime="2026-04-21" }
+
 To enable Smart Window, you must accept these additional terms, and the accompanying Smart Window Privacy Notice, which supplement the following Firefox and [Mozilla accounts](https://www.mozilla.org/account/) Terms and Privacy Notices that you have already accepted:
 
 - [Firefox Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/)
