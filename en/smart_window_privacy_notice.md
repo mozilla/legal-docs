@@ -1,15 +1,17 @@
 # Smart Window Privacy Policy
 
-April 17, 2026
-{: datetime="2026-04-17" }
+April 21, 2026
+{: datetime="2026-04-21" }
 
 ## Smart Window allows you to use AI to enhance your browsing experience
 
 Safety, transparency, privacy, and user choice have always been core to Firefox, and those values also guide the design of its AI-enhanced version, Smart Window.
 
-Smart Window is completely optional and opt-in. If activated, it builds on the classic Firefox experience (classic window) by using AI to enhance your browsing experience. It allows you to interact with a digital assistant that learns how you use the web, adapts to your preferences, and helps you complete tasks more efficiently. To do so, it collects and processes certain information about your browsing, including real-time Smart Window activity.
+Smart Window is completely optional and opt-in. If activated, it builds on the classic Firefox experience (classic window) by using AI to enhance your browsing experience. It allows you to interact with a digital assistant that learns how you use the web, adapts to your preferences, and helps you complete tasks more efficiently. To do so, it collects and processes certain information about your browsing activity.
 
-When using Smart Window, Mozilla processes certain data specifically to provide these AI-enhanced features. That processing is governed by this Smart Window Privacy Notice, in addition to the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/), which continues to apply to your use of classic Firefox. To the extent there is any inconsistency between them with respect to Smart Window-related processing, this notice will govern.  Your use of Smart Window is also subject to the [Smart Window Terms of Use](https://www.mozilla.org/about/legal/terms/smart-window/) and the [Firefox Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/).
+When you use Smart Window, Mozilla processes certain data specifically to provide AI-enhanced features. That processing is governed by this Smart Window Privacy Notice, in addition to the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/). You can open a Firefox classic window at any time in the File menu of your browser, or toggle between Smart and classic windows using the icon in the top right corner. Your use of classic windows will be governed by the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/), unless and until you choose to open a new Smart Window.
+
+To the extent there is any inconsistency between the Firefox and Smart Window privacy notices, this notice will govern with respect to Smart Window-related processing.  Your use of Smart Window is also subject to the [Smart Window Terms of Use](https://www.mozilla.org/about/legal/terms/smart-window/) and the [Firefox Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/).
 
 You need a Mozilla account to use Smart Window. Creating and using that account involves processing additional data — such as account activity and contact information — as described in the [Mozilla Accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/).
 
