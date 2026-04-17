@@ -35,5 +35,7 @@ List of files not translated:
 * formulaic_report_violation.md
 * formulaic_tos.md
 * mozilla_location_services_privacy_notice.md
+* smart_window_about_rights.md
+* smart_window_privacy_notice.md
 * thunderbird_about_rights.md
 * thunderbird_privacy_policy.md

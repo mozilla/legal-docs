@@ -433,6 +433,20 @@
       "zh-CN"
     ]
   },
+  "smart_window_about_rights.md": {
+    "count": 0,
+    "has_source": true,
+    "last_update": "-",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/smart_window_about_rights.md",
+    "locales": []
+  },
+  "smart_window_privacy_notice.md": {
+    "count": 0,
+    "has_source": true,
+    "last_update": "2026-04-17",
+    "link": "https://github.com/mozilla/legal-docs/tree/main/en/smart_window_privacy_notice.md",
+    "locales": []
+  },
   "subscription_services_privacy_notice.md": {
     "count": 13,
     "has_source": true,
