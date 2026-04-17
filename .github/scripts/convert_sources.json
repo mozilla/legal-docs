@@ -1,5 +1,8 @@
 {
-    "html": [],
+    "html": [
+        "firefox_cloud_services_tos.md",
+        "mozilla_accounts_privacy_notice.md"
+    ],
     "pdf": [
         "mdn_plus_privacy.md",
         "mdn_plus_terms.md",
