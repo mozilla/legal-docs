@@ -1,7 +1,7 @@
 # Smart Window Privacy Policy
 
-March 6, 2026
-{: datetime="2026-03-06" }
+April 17, 2026
+{: datetime="2026-04-17" }
 
 ## Smart Window allows you to use AI to enhance your browsing experience
 
@@ -21,9 +21,9 @@ You can choose to use Smart Window with a model endpoint other than those provid
 
 ### To create Memories about your activity
 
-Smart Window infers information about you based on your interactions with the assistant and your [recent Firefox browsing activity](#missing-link), including websites you have visited. This may include activity outside of Smart Window (such as in classic windows), but it does not include activity in Private Windows. By default, this information is processed on a Mozilla server to infer your interests, which we call Memories. For example, if you search for “vegan restaurants,” chat about vegan recipe substitutions, and submit queries like “are Oreos vegan?,” the assistant may infer an interest in veganism. We do not retain this information on our servers after processing. Instead, Memories are stored locally on your device and automatically expire after a limited period unless your subsequent activity indicates continued relevance.
+Smart Window infers information about you based on your interactions with the assistant and your [Firefox browsing activity](https://support.mozilla.org/kb/smart-window-memories), including websites you have visited. This may include activity outside of Smart Window (such as in classic windows), but it does not include activity in Private Windows. By default, this information is processed on a Mozilla server to infer your interests, which we call Memories. For example, if you search for “vegan restaurants,” chat about vegan recipe substitutions, and submit queries like “are Oreos vegan?,” the assistant may infer an interest in veganism. We do not retain this information on our servers after processing. Instead, Memories are stored locally on your device and automatically expire after a limited period unless your subsequent activity indicates continued relevance.
 
-You can review or delete a specific Memory in your settings, block all Memories from being used in a particular chat, or remove a specific Memory from a chat and re-run the associated query without it. More information about how to manage your Memories can be found [here](#missing-link).
+You can review or delete a specific Memory in your settings, block all Memories from being used in a particular chat, or remove a specific Memory from a chat and re-run the associated query without it. More information about how to manage your Memories can be found [here](https://support.mozilla.org/kb/smart-window-memories).
 
 ### To provide the Smart Window Assistant
 
@@ -35,7 +35,7 @@ Where your query appears to contain location-related information, the assistant 
 
 The assistant sends the full prompt (including your query, any relevant Memories, and any additional relevant browsing context) to a Mozilla server.
 
-Upon receipt, Mozilla forwards the request to a third-party large language model (LLM) on your behalf. The LLM receives the request from Mozilla, not directly from you, and sees a Mozilla IP address rather than your own. The request includes only the information needed to generate a response. Additional information about our LLM partners, and how you can select which LLM you use, is available [here](#missing-link).
+Upon receipt, Mozilla forwards the request to a third-party large language model (LLM) on your behalf. The LLM receives the request from Mozilla, not directly from you, and sees a Mozilla IP address rather than your own. The request includes only the information needed to generate a response. Additional information about our LLM partners, and how you can select which LLM you use, is available [here](https://support.mozilla.org/kb/smart-window-models).
 
 The LLM provides a response based on information in its knowledge base and information included in the prompt. We share that response with you in the chat, along with the specific Memories included in the prompt. You can then choose to disable Memories and re-run the prompt without them, continue or close the chat, or initiate a broader web search.
 
