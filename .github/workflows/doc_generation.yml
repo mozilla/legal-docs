@@ -76,7 +76,7 @@ jobs:
           else
             # Create pull request
             gh pr create \
-              --title "[pdf] Update converted documents" \
+              --title "Update converted documents (PDF/HTML)" \
               --body "Convert documents to PDF/HTML" \
               --head doc_updates \
               --base main \
