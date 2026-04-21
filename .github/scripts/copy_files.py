@@ -17,7 +17,7 @@ def copy_files(filename, dest):
     src_path = Path(".")
     num_files = 0
     if filename == "ALL":
-        extensions = [".md", ".pdf"]
+        extensions = [".html", ".md", ".pdf"]
         file_paths = [p for p in src_path.rglob("*/*") if p.suffix in extensions]
     else:
         file_paths = src_path.rglob(f"*/{filename}")
