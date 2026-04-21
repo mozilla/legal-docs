@@ -4,10 +4,113 @@ import io
 import json
 import os
 import markdown as md
+from bs4 import BeautifulSoup, Tag, NavigableString
 from functions import findAllFiles
+from html import escape
 from pathlib import Path
 from textwrap import dedent
 from weasyprint import HTML
+
+
+BLOCK_ELEMENTS = {
+    "blockquote",
+    "dd",
+    "div",
+    "dl",
+    "dt",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "li",
+    "ol",
+    "p",
+    "pre",
+    "table",
+    "tbody",
+    "td",
+    "tfoot",
+    "th",
+    "thead",
+    "tr",
+    "ul",
+}
+
+VOID_ELEMENTS = {
+    "area",
+    "base",
+    "br",
+    "col",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr",
+}
+
+
+def _open_tag(tag):
+    attrs = ""
+    for key, val in tag.attrs.items():
+        if isinstance(val, list):
+            val = " ".join(val)
+        attrs += f' {key}="{escape(str(val))}"'
+    return f"<{tag.name}{attrs}>"
+
+
+def _format(node, depth=0):
+    pad = "  " * depth
+
+    if isinstance(node, NavigableString):
+        return node.strip()
+
+    if node.name in VOID_ELEMENTS:
+        return f"{pad}{_open_tag(node)}"
+
+    has_block_child = any(
+        isinstance(c, Tag) and c.name in BLOCK_ELEMENTS for c in node.children
+    )
+
+    if has_block_child:
+        parts = []
+        for child in node.children:
+            if isinstance(child, NavigableString):
+                text = child.strip()
+                if text:
+                    parts.append("  " * (depth + 1) + text)
+            else:
+                result = _format(child, depth + 1)
+                if result:
+                    parts.append(result)
+        inner = "\n".join(parts)
+        return f"{pad}{_open_tag(node)}\n{inner}\n{pad}</{node.name}>"
+    else:
+        inner = "".join(str(c) for c in node.children).strip()
+        if not inner:
+            return f"{pad}{_open_tag(node)}</{node.name}>"
+        return f"{pad}{_open_tag(node)}{inner}</{node.name}>"
+
+
+def format_html(html_content):
+    soup = BeautifulSoup(html_content, "html.parser")
+    parts = []
+    for child in soup.children:
+        if isinstance(child, NavigableString):
+            text = child.strip()
+            if text:
+                parts.append(text)
+        elif isinstance(child, Tag):
+            result = _format(child)
+            if result:
+                parts.append(result)
+    return "\n".join(parts)
 
 
 def convertMdToHTML(file_path):
@@ -61,7 +164,7 @@ def main():
                         locale_folder, "html", f"{filename.rstrip('.md')}.html"
                     )
                     with open(html_dest_file, "w", encoding="utf-8") as output_file:
-                        output_file.write(html_content)
+                        output_file.write(format_html(html_content))
 
                 # Save PDF file if requested, creating `pdf` folder if missing
                 if filename in pdf_files:
