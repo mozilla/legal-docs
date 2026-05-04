@@ -1,7 +1,7 @@
 # Firefox-privacyverklaring
 
-Van kracht vanaf woensdag 17 december 2025
-{: datetime="17-12-2025" }
+Van kracht vanaf maandag 4 mei 2026
+{: datetime="2026-05-04" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
 
@@ -13,15 +13,23 @@ Dat is de reden waarom we Firefox en al onze producten maken: zodat u meer contr
 
 Mozilla verzamelt [bepaalde gegevens](#bookmark-how-we-use-data), zoals technische gegevens of gegevens over instellingen,voor het verzorgen van de kernfunctionaliteit van de Firefox-browser en gekoppelde services, zoals uw apparaat onderscheiden van dat van anderen, het onthouden en respecteren van uw instellingen en u voorzien van standaardfuncties, zoals [Nieuw tabblad](https://support.mozilla.org/kb/about-new-tab-page), [PDF bewerken](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [wachtwoordbeheer](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) en [Totale cookiebescherming](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). U kunt uw Firefox-ervaring verder aanpassen door uw [besturingselementen, knoppen en werkbalken](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) aan te passen en [functies toe te voegen via add-ons](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Sommige Firefox-functies, zoals geautomatiseerde [vertaling](https://support.mozilla.org/kb/website-translation) voor webpagina's en [suggesties voor alternatieve tekst wanneer u afbeeldingen in uw PDF's uploadt](https://support.mozilla.org/kb/pdf-alt-text), worden mogelijk gemaakt door artificiële intelligentie (AI) op basis van kleine taalmodellen die naar uw apparaat worden gedownload. Deze werken lokaal. Content van webpagina's, PDF's, afbeeldingen en tabblad-URL's blijft op uw apparaat en wordt niet zonder uw nadrukkelijke toestemming naar servers van Mozilla verzonden of gebruikt voor trainingsdoeleinden. Houd er rekening mee dat Firefox-functies AI-modellen van derde partijen kunnen integreren, zoals gedetailleerd is beschreven in deze Verklaring.
+Sommige Firefox-functies, zoals geautomatiseerde [vertaling](https://support.mozilla.org/kb/website-translation) voor webpagina's en [suggesties voor alternatieve tekst wanneer u afbeeldingen in uw PDF's uploadt](https://support.mozilla.org/kb/pdf-alt-text), worden mogelijk gemaakt door artificiële intelligentie (AI) op basis van kleine taalmodellen die naar uw apparaat worden gedownload. Deze werken lokaal. Content van webpagina's, PDF's, afbeeldingen en tabblad-URL's blijft op uw apparaat en wordt niet zonder uw nadrukkelijke toestemming naar servers van Mozilla verzonden of gebruikt voor trainingsdoeleinden. Houd er rekening mee dat Firefox-functies AI-modellen van derde partijen kunnen integreren, zoals gedetailleerd is beschreven in deze Verklaring. Meer informatie, waaronder over het [beheren van op AI gebaseerde functies](https://support.mozilla.org/kb/firefox-ai-controls) en modellen vindt u in uw instellingen.
+
+Als u ervoor kiest om de functie Smart Window te gebruiken, wordt uw gebruik van de functie beheerst door de [Privacy verklaring van Smart Window](https://www.mozilla.org/privacy/smart-window/). Daarin wordt uitgelegd hoe gegevens worden verwerkt in verband met Smart Window.
 
 ### Firefox aanpassen aan uw behoeften
 
 Firefox verwerkt een verscheidenheid aan persoonlijke gegevens op een manier waarop deze uw apparaat niet verlaten, zoals uw navigatiegeschiedenis, tijdelijke internetbestanden en cookies. Dit betekent dat de gegevens op uw apparaat blijven en niet naar Mozilla worden verzonden, tenzij anders is aangegeven in deze Verklaring. Als u dat toestaat, kan uw exacte locatie ook worden verwerkt voor aan locatie gerelateerde functionaliteit voor websites, zoals Google Maps. Deze gegevens worden alleen geopend vanaf uw apparaat door de website(s) waarvoor u dit inschakelt. Deze gegevens worden niet naar servers van Mozilla verzonden.
 
-Als u ervoor kiest om de functie Schudden voor een samenvatting in te schakelen in Firefox mobile op een apparaat met Apple Intelligence (iPhone 15 Pro+ met iOS 26+), worden er lokaal op uw apparaat samenvattingen gemaakt wanneer u deze aanvraagt. Als u deze functie inschakelt op een apparaat zonder Apple Intelligence, wordt uw paginacontent met een samenvattingsaanvraag naar een Mozilla-server verzonden voor verwerking. Er wordt een samenvatting als resultaat gegevens op uw apparaat. Deze content of samenvattingen die daarvan het resultaat zijn, worden niet opgeslagen voor Mozilla.
+Als u de functie Summarize inschakelt op een compatibel apparaat waarop een ondersteund besturingssysteem wordt uitgevoerd dat intelligentie op het apparaat ondersteunt, worden overzichten die u aanvraagt, lokaal gemaakt op uw apparaat. Als u deze niet inschakelt, wordt wanneer u een overzicht aanvraagt, uw paginacontent naar een Mozilla-server verzonden voor verwerking en geretourneerd naar uw apparaat. Mozilla slaat deze content of overzichten die daarvan het resultaat zijn niet op. Lees meer over Shake to Summarize onder [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) en [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* Gegevens die op uw apparaat worden verwerkt, blijven onder uw controle. U kunt uw [navigatiegegevens](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) en uw [instellingen voor lokale opslag](https://support.mozilla.org/kb/storage) beheren, en u kunt uw [locatiemachtigingen](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) op elk gewenst moment bijwerken.
+
+### U voorzien van de Firefox VPN
+
+Als u zich hebt aangemeld bij een Mozilla-account, kunt u een Firefox-functie inschakelen om uw IP-adres te verbergen via een proxyserver (VPN). Wanneer deze functie is ingeschakeld, wordt Firefox-netwerkverkeer via een tussenliggende proxy omgeleid om te voorkomen dat uw netwerkprovider kan zien met welke servers u verbinding maakt en om uw IP-adres te verbergen voor sites die u bezoekt. Verkeer vanuit andere toepassingen op het apparaat worden niet via een proxy omgeleid. Het gebruik van alleen deze functie garandeert niet dat u volledig anoniem kunt browsen. Het gebruik van VPN kan van invloed zijn op uw browse-ervaring, waaronder de weergave van content die niet specifiek is voor uw regio.
+
+We gebruiken een proxyserver die namens u wordt gebruikt om de VPN-functie te verzorgen. Deze proxyserver heeft geen toegang tot webpaginacontent of andere gevoelige informatie, zoals berichten of wachtwoorden, en verzamelt geen gegevens over de websites die u bezoekt of de content op die sites. We verwerken wel beperkte technische gegevens(zoals de clientversie, verbindingsstatus en het apparaattype/besturingssysteem) voor het verzorgen, onderhouden en waarborgen van de prestaties en stabiliteit van de service, evenals interactiegegevens om het gebruik van de functie te doorgronden en als richtsnoer voor verbeteringen.
 
 ### Zoekfunctionaliteit en suggesties bieden en verbeteren
 
@@ -71,7 +79,7 @@ Wanneer u de [AMO-website](https://addons.mozilla.org/firefox/) bezoekt, verzame
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* Lees [hoe u add-ons kunt verwijderen of inschakelen](https://support.mozilla.org/kb/disable-or-remove-add-ons). U kunt ook de [Privacyverklaring](https://www.mozilla.org/privacy/websites/) voor de [add-ons-website](https://addons.mozilla.org/firefox/) bekijken.
 
-### Voor het handhaven en verbeteren van functies, prestaties en stabiliteit
+### Het handhaven en verbeteren van functies, prestaties en stabiliteit
 
 Mozilla voert [onderzoeken](https://support.mozilla.org/kb/shield) uit binnen Firefox en stelt bepaalde [experimentele functies](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) beschikbaar via Firefox Labs om verschillende functies en ideeën te testen voordat deze beschikbaar worden voor alle Firefox-gebruikers of onderdeel worden van het kernaanbod van Firefox. Hierdoor kunnen we beter geïnformeerde beslissingen nemen over wat onze gebruikers willen en nodig hebben. Dit onderzoek gebruikt technische gegevens, gegevens over systeemprestaties, van IP afgeleide locatiegegevens, gegevens over instellingen en interactiegegevens.
 
@@ -108,13 +116,13 @@ Wanneer u dat toestaat, verzendt Firefox gegevens naar Mozilla over het websited
 
 Als onderdeel van de hiervoor beschreven activiteiten, zoals het gebruik van Firefox doorgronden en het meten van onze marketing, kunnen we pseudonieme, gedeïdentificeerde, samengevoegde of geanonimiseerde gegevens verzamelen. We gebruiken technologie die geschikt is voor de omstandigheden, waaronder id-verwijdering, OHTTP of [DAP](https://divviup.org/about/). Deze helpt voorkomen dat gegevens aan u worden gekoppeld. In sommige gevallen kunnen we samengevoegde en geanonimiseerde gegevens publiceren om onderzoek te bevorderen of als onderdeel van de wettelijke zakelijke doeleinden die hiervoor zijn beschreven (zoals het delen van samengevoegde inzichten met reclamepartners).
 
-### Met u communiceren
+### Voor communicatie met u
 
 Afhankelijk van uw instellingen (en of u wel of geen Mozilla-account hebt), kunnen we met u communiceren via berichten in producten, u berichten sturen (waaronder aan marketing gerelateerde berichten), u vragen om deel te nemen aan onderzoeken/enquêtes, of u vragen om te reageren op berichten van de klantenondersteuning. U kunt ook rechtstreeks contact met ons opnemen, zoals voor het [melden van een beschadigde site binnen Firefox](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). Wanneer u met ons communiceert via deze methoden, gebruiken we deze informatie alleen voor het doel waarvoor u deze verstrekt. We verwerken ook interactiegegevens die betrekking hebben op deze berichten om meer inzicht te krijgen in wie onze servicegerelateerde kennisgevingen (zoals die voor nieuwe functies, updates of beveiligingswaarschuwingen) hebben ontvangen.
 
 Wanneer u pagina’s met Help van Mozilla bezoekt in verband met Firefox, verzamelt Mozilla technische en interactiegegevens over uw gebruik van onze websites in overeenstemming met onze [Privacyverklaring voor websites, communicaties en cookies](https://www.mozilla.org/privacy/websites/) om inzicht te krijgen in uw gebruik van onze pagina’s met Help en ondersteuning en om deze te verbeteren.
 
-### Het voldoen aan toepasselijke wetgeving en het identificeren en voorkomen van schadelijke, niet-toegestane of illegale activiteit
+### Het voldoen aan toepasselijke wetgeving en het identificeren en voorkomen van schadelijke, niet-toegestane of illegale activiteit.
 
 Het kan ook zijn dat we verplicht worden om uw persoonlijke gegevens te verwerken om te voldoen aan toepasselijke wetten en voor beschermingsdoeleinden, zoals:
 
@@ -433,7 +441,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
             </td>
             <td>
                 <p><strong>Naleving van de wet</strong> door te reageren op aanvragen met betrekking tot rechten van betrokkenen, op aanvragen van wetshandhavingsinstanties, het beheren en beschermen van onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
-                <p><strong>Legitiem belang</strong>, waar naleving niet toepasselijk is, bij het ondersteunen van juridische of regelgevende processen of aanvragen, het voorkomen van fraude en het beheren en beschermen onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
+                <p><strong>Legitiem belang</strong>, waar naleving niet strikt wordt vereist door wetgeving, bij het ondersteunen van juridische of regelgevende processen of aanvragen, het voorkomen van fraude en het beheren en beschermen onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
             </td>
             <td>Meer informatie over hoe we reageren op <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">wettelijke aanvragen</a>.</td>
         </tr>
