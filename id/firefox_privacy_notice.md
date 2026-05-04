@@ -1,7 +1,7 @@
 # Pemberitahuan Privasi Firefox
 
-Berlaku 17 Desember 2025
-{: datetime="2025-12-17" }
+Berlaku 04 Mei 2026
+{: datetime="2026-05-04" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 
@@ -13,17 +13,25 @@ Oleh karena itu, kami membangun Firefox, dan semua produk kami, untuk memberi An
 
 Mozilla mengumpulkan [data tertentu](#bookmark-how-we-use-data), seperti data teknis dan pengaturan, untuk menyediakan fungsi inti peramban Firefox dan layanan terkait, membedakan perangkat Anda dari perangkat lain, mengingat dan menerapkan pengaturan Anda, dan menyediakan fitur baku seperti [Tab Baru](https://support.mozilla.org/kb/about-new-tab-page), [Pengeditan PDF](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [pengelola kata sandi](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) dan [Perlindungan Kuki Total](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). Anda dapat menyesuaikan lebih jauh pengalaman Firefox Anda dengan menyesuaikan [kontrol, tombol, dan bilah alat](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) serta menambahkan [fitur dengan pengaya](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Beberapa fitur Firefox, seperti [terjemahan](https://support.mozilla.org/kb/website-translation) otomatis untuk halaman web dan [saran “teks alternatif” saat Anda mengunggah gambar dalam PDF](https://support.mozilla.org/kb/pdf-alt-text), didukung oleh kecerdasan buatan (AI) berdasarkan model bahasa kecil yang diunduh ke perangkat Anda. Ini beroperasi secara lokal — konten halaman web, PDF, gambar, dan URL tab tetap ada di perangkat Anda dan tidak dikirimkan ke server Mozilla atau digunakan untuk tujuan pelatihan tanpa izin yang tegas dari Anda. Perhatikan bahwa fitur Firefox lainnya mungkin mengintegrasikan model AI pihak ketiga, sebagaimana dijelaskan lebih lanjut dalam Pemberitahuan ini.
+Beberapa fitur Firefox, seperti [terjemahan](https://support.mozilla.org/kb/website-translation) otomatis untuk halaman web dan [saran “teks alternatif” saat Anda mengunggah gambar dalam PDF](https://support.mozilla.org/kb/pdf-alt-text), didukung oleh kecerdasan buatan (AI) berdasarkan model bahasa kecil yang diunduh ke perangkat Anda. Ini beroperasi secara lokal — konten halaman web, PDF, gambar, dan URL tab tetap ada di perangkat Anda dan tidak dikirimkan ke server Mozilla atau digunakan untuk tujuan pelatihan tanpa izin yang tegas dari Anda. Perhatikan bahwa fitur Firefox lainnya mungkin mengintegrasikan model AI pihak ketiga, sebagaimana dijelaskan lebih lanjut dalam Pemberitahuan ini. Pelajari lebih lanjut, termasuk cara [mengontrol fitur](https://support.mozilla.org/kb/firefox-ai-controls) dan model berbasis AI di pengaturan Anda.
+
+Jika Anda memilih untuk menggunakan fitur Smart Window, penggunaan Anda atas fitur tersebut diatur oleh [Pemberitahuan Privasi Smart Window](https://www.mozilla.org/privacy/smart-window/), yang menjelaskan cara data diproses sehubungan dengan Smart Window.
 
 ### Untuk menyesuaikan Firefox dengan kebutuhan Anda
 
 Firefox memproses berbagai data pribadi dengan cara yang tidak meninggalkan perangkat Anda, seperti riwayat penjelajahan, data formulir web, file internet sementara, dan kuki. Artinya, data tetap ada di perangkat Anda dan tidak dikirimkan ke server Mozilla kecuali dinyatakan sebaliknya dalam Pemberitahuan ini. Jika Anda memilih untuk mengizinkannya, lokasi akurat Anda juga dapat diproses untuk fungsi terkait lokasi untuk situs web seperti Peta Google; data ini hanya diakses dari perangkat Anda melalui situs web yang Anda pilih untuk mengaktifkannya — data ini tidak dikirim ke server Mozilla.
 
-Jika Anda memilih untuk mengaktifkan fitur Goyang untuk Meringkas di Firefox seluler pada perangkat dengan Apple Intelligence (iPhone 15 Pro+ dengan iOS 26+), ringkasan akan dibuat secara lokal di perangkat Anda saat Anda memintanya. Jika Anda mengaktifkannya di perangkat tanpa Apple Intelligence, konten halaman Anda akan dikirim ke server Mozilla untuk diproses saat Anda meminta ringkasan, dan ringkasan itu akan ditampilkan di perangkat Anda; Mozilla tidak menyimpan konten ini atau ringkasan yang dihasilkan.
+Jika Anda mengaktifkan fitur Goyang untuk Meringkas di perangkat yang kompatibel dan menjalankan sistem operasi yang didukung serta mengaktifkan kecerdasan di perangkat, ringkasan yang Anda minta akan dibuat secara lokal di perangkat Anda. Atau, jika Anda meminta ringkasan, konten halaman Anda akan dikirimkan ke server Mozilla untuk diproses dan dikembalikan ke perangkat Anda; Mozilla tidak menyimpan konten ini atau ringkasan yang dihasilkan. Pelajari lebih lanjut tentang Goyang untuk Meringkas di [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) dan [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Data yang diproses di perangkat Anda tetap berada dalam kendali Anda. Anda dapat [mengelola data penjelajahan](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) dan [pengaturan penyimpanan lokal Anda](https://support.mozilla.org/kb/storage), atau memperbarui [izin lokasi](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) kapan saja.
 
-### Menyediakan dan meningkatkan fungsi dan saran pencarian 
+### Untuk menyediakan VPN Firefox kepada Anda
+
+Jika Anda masuk ke akun Mozilla, Anda bisa mengaktifkan fitur Firefox untuk menyembunyikan alamat IP Anda melalui server proksi (“VPN”). Jika diaktifkan, fitur ini memproksikan lalu lintas jaringan Firefox melalui perantara agar penyedia jaringan Anda tidak melihat server yang Anda hubungkan dan untuk menyembunyikan alamat IP Anda dari situs yang dikunjungi. Fitur ini tidak memproksikan lalu lintas dari aplikasi lain di perangkat, dan dengan sendirinya, tidak menjadikan penelusuran situs web Anda sepenuhnya anonim. Penggunaan VPN dapat memengaruhi pengalaman penelusuran Anda, termasuk dengan menampilkan konten yang tidak spesifik dengan wilayah Anda.
+
+Kami menggunakan server proksi yang dioperasikan atas nama kami untuk menyediakan fitur VPN. Server proksi tidak memiliki akses ke konten halaman web atau informasi sensitif lainnya, seperti pesan atau kata sandi, dan tidak mengumpulkan data tentang situs web yang Anda kunjungi atau konten situs tersebut. Kami memproses data teknis terbatas (seperti versi klien, status koneksi, dan jenis perangkat/sistem operasi) untuk menghadirkan, memelihara, dan memastikan kinerja dan stabilitas layanan, serta data interaksi untuk memahami penggunaan fitur dan membantu memandu peningkatan.
+
+### Untuk menyediakan dan meningkatkan fungsi dan saran pencarian
 
 Saat Anda mengetik kueri pencarian dalam Firefox, Firefox menawarkan [saran pencarian](https://support.mozilla.org/kb/search-suggestions-firefox) untuk memberi Anda akses yang lebih cepat dan langsung pada apa yang Anda cari. Beberapa saran pencarian berasal dari penyedia pencarian Anda (“Saran Pencarian”). Saran lainnya berasal dari Firefox, dan didasarkan pada informasi yang disimpan di perangkat lokal Anda (termasuk istilah pencarian, tab yang dibuka, dan URL yang sebelumnya dikunjungi), atau konten dari Mozilla dan mitra Mozilla, termasuk sponsor berbayar dan referensi internet seperti Wikipedia (“Saran dari Firefox”).
 
@@ -35,7 +43,7 @@ Di Amerika Serikat, Firefox mengambil saran dari server Mozilla saat Anda menget
 
 Beberapa pengguna — termasuk pengguna di beberapa wilayah di luar AS dan pengguna yang berbasis di AS yang tidak memilih “ambil Saran dari Mozilla saat Anda mengetik” di pengaturan mereka — akan menerima hasil yang diproses secara lokal saat menggunakan fitur Saran dari Firefox. Untuk pengguna ini, saran akan ditampilkan secara lokal, menggunakan informasi yang disimpan di perangkat Anda, dalam salinan Firefox Anda. Data klik dan interaksi Anda yang dihapus identitasnya untuk kata kunci kueri spesifik (tetapi bukan kueri pencarian Anda) dikirim ke Mozilla melalui OHTTP untuk menyembunyikan alamat IP Anda dan informasi pengidentifikasi lainnya. Untuk saran bersponsor, mitra kami mungkin menerima informasi agregat tentang saran yang ditampilkan dan diklik, tetapi bukan saran yang dilihat pengguna atau kata kunci yang menyebabkan saran tersebut ditampilkan. (Jika Saran dari Firefox tidak tersedia di wilayah Anda, Anda hanya akan menerima saran dari Saran Pencarian).
 
-### Menampilkan konten dan iklan yang relevan di Tab Baru Firefox
+### Untuk menampilkan konten dan iklan yang relevan di Tab Baru Firefox
 
 Firefox menampilkan konten di Tab Baru, beserta iklan untuk mendukung pengembangannya. Anda juga bisa menonaktifkannya kapan saja di pengaturan peramban Anda.
 
@@ -51,11 +59,11 @@ Saat pengguna mengunjungi situs web pihak ketiga dengan mengklik iklan atau taut
 
 Anda bisa menonaktifkan atau menyesuaikan fitur Tab Baru ini beserta pemrosesan data terkaitnya di pengaturan peramban Anda ([Desktop](https://support.mozilla.org/kb/customize-your-new-tab-page), [Android](https://support.mozilla.org/kb/customize-firefox-home-screen), [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios)). Anda juga bisa [menonaktifkan konten bersponsor](https://support.mozilla.org/kb/sponsor-privacy) sambil terus menggunakan fitur lainnya.
 
-### Menyediakan akun Mozilla
+### Untuk menyediakan akun Mozilla
 
 Jika Anda mendaftar akun Mozilla, kami memproses informasi tambahan bersama dengan data yang dijelaskan dalam Pemberitahuan ini, seperti detail akun, informasi kontak, dan data sinkronisasi, sesuai dengan [Pemberitahuan Privasi Akun Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-### Menyediakan chatbot AI
+### Untuk menyediakan chatbot AI
 
 Anda memiliki opsi untuk menggunakan chatbot AI pihak ketiga pilihan Anda guna membantu Anda melakukan beberapa hal, seperti merangkum apa yang Anda baca, tulis, dan bertukar pikiran, sesuai dengan [ketentuan penggunaan dan pemberitahuan privasi](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) penyedia tersebut.
 
@@ -63,7 +71,7 @@ Jika Anda memilih untuk mengaktifkan chatbot di bilah sisi dan/atau melalui pint
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Anda dapat membaca selengkapnya tentang cara [mengelola atau menghapus](https://support.mozilla.org/kb/ai-chatbot) chatbot AI di Firefox.
 
-### Menyediakan dan mengaktifkan pengaya (addons.mozilla.org)
+### Untuk menyediakan dan mengaktifkan pengaya (addons.mozilla.org)
 
 Anda bisa menginstal pengaya dari [addons.mozilla.org](https://addons.mozilla.org) (“AMO”) atau dari Pengelola Pengaya Firefox, yang dapat diakses dari tombol menu Firefox di bilah alat. Kami memproses kueri pencarian Anda di Pengelola Pengaya agar dapat memberikan saran pengaya kepada Anda. Jika Anda memilih untuk menginstal pengaya apa pun, Firefox akan memproses data teknis, lokasi, dan pengaturan, serta secara berkala terhubung dengan server Mozilla untuk menginstal dan menerapkan pembaruan yang sesuai pada pengaya Anda. Kami juga mengumpulkan data teknis dan interaksi mengenai penggunaan pengaya, untuk membantu menyempurnakan Firefox.
 
@@ -71,7 +79,7 @@ Saat Anda mengunjungi [situs web AMO](https://addons.mozilla.org/firefox/), Mozi
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Pelajari [cara menghapus atau mengaktifkan pengaya](https://support.mozilla.org/kb/disable-or-remove-add-ons). Anda juga dapat meninjau [Pemberitahuan Privasi](https://www.mozilla.org/privacy/websites/) untuk [situs web pengaya](https://addons.mozilla.org/firefox/).
 
-### Mempertahankan dan meningkatkan fitur, kinerja, dan stabilitas
+### Untuk mempertahankan dan meningkatkan fitur, kinerja, dan stabilitas
 
 Mozilla menjalankan [studi](https://support.mozilla.org/kb/shield) di Firefox dan memastikan [fitur eksperimental](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) tersedia melalui Firefox Labs untuk menguji berbagai fitur dan ide sebelum menyediakannya kepada semua pengguna Firefox atau ditawarkan sebagai bagian dari penawaran inti Firefox — Dengan begitu, kami dapat membuat keputusan yang lebih tepat tentang apa yang diinginkan dan dibutuhkan pengguna kami. Penelitian ini menggunakan data teknis, kinerja sistem, lokasi yang diambil dari alamat IP, pengaturan, dan interaksi.
 
@@ -81,7 +89,7 @@ Di desktop dan iOS, jika Firefox mengalami masalah yang tidak terduga, [Pelapor 
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Anda dapat [mempelajari lebih lanjut](https://support.mozilla.org/kb/shield) tentang studi yang Anda setujui dan memilih untuk menolak semua (atau studi tertentu) kapan saja, dan menyetujui fitur eksperimental melalui [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Anda juga dapat [mempelajari lebih lanjut](https://support.mozilla.org/kb/technical-and-interaction-data) tentang data teknis dan interaksi yang kami proses, termasuk cara menonaktifkannya.
 
-### Meningkatkan keamanan
+### Untuk meningkatkan keamanan
 
 Karena mempertahankan versi terbaru Firefox membantu menjaga Anda tetap aman dari kerentanan, Firefox versi desktop secara rutin terhubung ke server Mozilla (atau layanan lain yang Anda gunakan untuk menginstal Firefox) untuk memeriksa pembaruan perangkat lunak; pembaruan untuk Firefox versi Android dan iOS masing-masing dikelola oleh Google Play Store dan Apple App Store.
 
@@ -92,13 +100,13 @@ Untuk [beberapa pengguna Firefox](https://support.mozilla.org/kb/firefox-dns-ove
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* [Daftar blokir pengaya dan peningkatan](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Layanan Penjelajahan Aman Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work),[ OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
 
-### Memahami penggunaan Firefox
+### Untuk memahami penggunaan Firefox
 
 Kami memproses [data](#bookmark-understand-usage) untuk lebih memahami cara Anda berinteraksi dengan layanan kami, seperti seberapa sering Anda menggunakan Firefox, preferensi bahasa Anda, seberapa sering Anda menggunakan alat pencarian kami atau berinteraksi dengan saran pencarian, seberapa cepat halaman dimuat untuk Anda, dan berapa banyak iklan atau [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) yang Anda lihat. Hal ini memungkinkan kami mengukur cara orang mengakses dan menggunakan layanan kami, sehingga membantu meningkatkan bisnis kami dan fungsi Firefox.
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Anda dapat memperbarui pengaturan pengumpulan data untuk [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) dan [Perangkat Seluler](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) kapan saja. Ingat bahwa batal memilih “Izinkan Firefox mengirimkan data teknis dan interaksi ke Mozilla” tidak akan memengaruhi [Ping Penggunaan Harian](https://support.mozilla.org/kb/usage-ping-settings). Ping Penggunaan Harian ini hanya memberi kami informasi tanpa identitas bahwa pengguna menggunakan Firefox; fitur ini tidak terikat dengan data lain apa pun tentang Anda dan dapat menolaknya dalam pengaturan.
 
-### Memasarkan layanan kami
+### Untuk memasarkan layanan kami
 
 Ketika Anda mengizinkan kami melakukannya, Firefox mengirimkan data Mozilla tentang domain situs web atau kampanye iklan tertentu (jika ada) yang mengarahkan Anda ke halaman unduh kami untuk membantu kami memahami dan meningkatkan upaya pemasaran kami. Firefox juga membagikan informasi kepada mitra pemasaran kami untuk mengukur dan meningkatkan kampanye ini; informasi apa yang dibagikan secara spesifik berbeda-beda (tergantung cara Anda menemukan Firefox dan sistem operasi Anda), tetapi umumnya mencakup bagaimana Anda diarahkan ke halaman unduh kami dan apakah Anda aktif menggunakan Firefox. Jika Firefox sudah diinstal sebelumnya di perangkat Anda, data teknis dan interaksi (jenis perangkat Anda dan apakah Firefox digunakan) akan dikirim ke mitra pemasaran kami, dan dibagikan kepada Mozilla.
 
@@ -108,13 +116,13 @@ Ketika Anda mengizinkan kami melakukannya, Firefox mengirimkan data Mozilla tent
 
 Sebagai bagian dari aktivitas yang diuraikan di atas, seperti memahami penggunaan Firefox dan mengukur pemasaran kami, kami dapat membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim. Kami menggunakan teknologi yang sesuai dengan keadaan, termasuk penghapusan pengindentifikasi, OHTTP, atau [DAP](https://divviup.org/about/) — hal ini membantu mencegah data ditautkan ke Anda. Dalam beberapa kasus, kami mungkin membagikan atau menerbitkan data agregat dan anonim untuk memfasilitasi penelitian atau sebagai bagian dari tujuan bisnis sah yang diuraikan di atas (seperti membagikan wawasan agregat kepada mitra periklanan).
 
-### Berkomunikasi dengan Anda
+### Untuk berkomunikasi dengan Anda
 
 Tergantung pengaturan Anda (dan apakah Anda memiliki akun Mozilla atau tidak), kami dapat berkomunikasi dengan Anda melalui pesan dalam produk, mengirimi Anda komunikasi (termasuk komunikasi terkait pemasaran), atau meminta Anda berpartisipasi dalam penelitian/survei, atau menanggapi komunikasi dukungan pelanggan. Anda juga dapat langsung menghubungi kami, seperti [melaporkan situs yang rusak di Firefox](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). Saat Anda berkomunikasi dengan kami melalui metode ini, kami akan menggunakan informasi yang Anda bagikan hanya untuk tujuan pemberian data tersebut. Kami juga memproses data interaksi yang terkait dengan komunikasi ini untuk lebih memahami siapa yang telah menerima pengumuman terkait layanan kami (seperti fitur baru, pembaruan, atau peringatan keamanan).
 
 Saat Anda mengunjungi halaman bantuan Mozilla sehubungan dengan Firefox, Mozilla akan mengumpulkan data teknis dan interaksi tentang penggunaan Anda atas situs web kami sesuai dengan pemberitahuan [Kuki, Komunikasi, dan Situs Web Mozilla](https://www.mozilla.org/privacy/websites/) agar kami bisa memahami penggunaan Anda atas dukungan dan halaman bantuan kami serta meningkatkannya.
 
-### Mematuhi undang-undang yang berlaku, dan mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal
+### Untuk mematuhi undang-undang yang berlaku, dan mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal
 
 Kami juga dapat diharuskan memproses data pribadi Anda untuk mematuhi undang-undang yang berlaku dan tujuan perlindungan, seperti:
 
@@ -433,7 +441,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
             </td>
             <td>
                 <p><strong>Kepatuhan terhadap undang-undang</strong> dalam menanggapi permintaan hak subjek data, menanggapi permintaan penegakan hukum, mengelola dan melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
-                <p><strong>Kepentingan yang sah</strong>, jika kepatuhan tidak sesuai, dalam mendukung proses atau permintaan hukum atau peraturan, mencegah penipuan dan mengelola serta melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
+                <p><strong>Kepentingan yang sah</strong>, jika tidak secara ketat diwajibkan oleh hukum, untuk mendukung proses atau permintaan hukum atau peraturan, mencegah penipuan dan mengelola serta melindungi hak, kepemilikan, dan/atau keselamatan kami (dan pengguna kami).</p>
             </td>
             <td>Pelajari lebih lanjut cara kami menanggapi <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">permintaan sah</a>.</td>
         </tr>
