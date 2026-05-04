@@ -1,7 +1,7 @@
 # Firefox-Datenschutzhinweis
 
-Gültig ab 17. Dezember 2025
-{: datetime="2025-12-17" }
+Gültig ab Montag, 4. Mai 2026
+{: datetime="2026-05-04" }
 
 ## Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.
 
@@ -13,17 +13,25 @@ Deshalb legen wir Firefox und alle unsere Produkte so an, dass Sie mehr Kontroll
 
 Mozilla erhebt [bestimmte Daten](#bookmark-how-we-use-data), wie technische Daten und Einstellungsdaten, um die Kernfunktionalität des Firefox-Browsers und der damit verbundenen Dienste bereitzustellen, Ihr Gerät von anderen zu unterscheiden, Ihre Einstellungen zu speichern und zu beachten und Ihnen Standardfunktionen wie [„Neuer Tab“](https://support.mozilla.org/kb/about-new-tab-page), [PDF-Bearbeitung](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [Passwort-Manager](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) und [vollständigen Cookie-Schutz](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode) zur Verfügung zu stellen. Sie können Ihre Firefox-Nutzung weiter anpassen, indem Sie Einstellungen für Ihre [Bedienelemente, Schaltflächen und Symbolleisten](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) vornehmen und [mit Add-ons weitere Funktionen hinzufügen](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Einige Firefox-Funktionen, wie die automatische [Übersetzung](https://support.mozilla.org/kb/website-translation) von Webseiten und [„Alt-Text“-Vorschläge beim Hochladen von Bildern in Ihre PDF-Dateien](https://support.mozilla.org/kb/pdf-alt-text), werden durch künstliche Intelligenz (KI) auf der Grundlage von Small Language Models (SLMs) unterstützt, die auf Ihr Gerät heruntergeladen werden. Diese funktionieren nur lokal, d. h., Webseiteninhalte, PDFs, Bilder und Registerkarten-URLs bleiben auf Ihrem Gerät und werden ohne Ihre ausdrückliche Zustimmung nicht an die Server von Mozilla gesendet oder für Schulungszwecke genutzt. Beachten Sie, dass andere Firefox-Funktionen unter Umständen KI-Modelle von Drittanbietern integrieren, wie in diesem Hinweis näher erläutert.
+Einige Firefox-Funktionen, wie die automatische [Übersetzung](https://support.mozilla.org/kb/website-translation) von Webseiten und [„Alt-Text“-Vorschläge beim Hochladen von Bildern in Ihre PDF-Dateien](https://support.mozilla.org/kb/pdf-alt-text), werden durch künstliche Intelligenz (KI) auf der Grundlage von Small Language Models (SLMs) unterstützt, die auf Ihr Gerät heruntergeladen werden. Diese funktionieren nur lokal, d. h., Webseiteninhalte, PDFs, Bilder und Tab-URLs bleiben auf Ihrem Gerät und werden ohne Ihre ausdrückliche Zustimmung nicht an die Server von Mozilla gesendet oder für Schulungszwecke genutzt. Beachten Sie, dass andere Firefox-Funktionen unter Umständen KI-Modelle von Drittanbietern integrieren, wie in diesem Hinweis näher erläutert. Erfahren Sie mehr, unter anderem darüber, wie Sie in Ihren Einstellungen [KI-basierte Funktionen und Modelle steuern](https://support.mozilla.org/kb/firefox-ai-controls) können.
+
+Wenn Sie sich für die Nutzung der Funktion Smart Window entscheiden, unterliegt die Nutzung dieser Funktion durch Sie dem [Datenschutzhinweis zu Smart Window](https://www.mozilla.org/privacy/smart-window/). Dort wird erläutert, wie Daten im Zusammenhang mit Smart Window verarbeitet werden.
 
 ### Zum Anpassen von Firefox an Ihre Bedürfnisse
 
 Firefox verarbeitet eine Vielzahl personenbezogener Daten, die Ihr Gerät nicht verlassen, wie z. B. Ihre Browser-Chronik, Daten aus Webformularen, temporäre Internetdateien und Cookies. Das bedeutet, dass die Daten auf Ihrem Gerät verbleiben und nicht an die Server von Mozilla gesendet werden, soweit im vorliegenden Datenschutzhinweis nichts anderes angegeben ist. Sofern Sie dies zulassen, kann Ihr exakter Standort auch für standortbezogene Funktionen von Websites wie Google Maps verarbeitet werden. Diese Daten werden nur von Websites, für die Sie die Standortbestimmung zulassen, von Ihrem Gerät abgerufen und nicht an Server von Mozilla gesendet.
 
-Wenn Sie die Funktion „Zum Zusammenfassen schütteln“ in Firefox Mobile auf einem Gerät mit Apple Intelligence (iPhone 15 Pro+ mit iOS 26 oder höher) aktivieren, werden Zusammenfassungen lokal auf Ihrem Gerät erstellt, wenn Sie sie anfordern. Aktivieren Sie diese Funktion auf einem Gerät ohne Apple Intelligence, dann werden Ihre Seiteninhalte bei Anforderung einer Zusammenfassung zur Verarbeitung an einen Mozilla-Server gesendet, und die Zusammenfassung wird an Ihr Gerät zurückgesendet. Mozilla speichert weder diese Inhalte noch die resultierenden Zusammenfassungen.
+Wenn Sie die Funktion „Zum Zusammenfassen schütteln“ auf einem kompatiblen Gerät mit unterstütztem Betriebssystem aktivieren, das eine geräteinterne Datenverarbeitung erlaubt, werden die von Ihnen angeforderten Zusammenfassungen lokal auf Ihrem Gerät erstellt. Andernfalls wird beim Anfordern einer Zusammenfassung der Inhalt Ihrer Seite zur Verarbeitung an einen Mozilla-Server gesendet und anschließend an Ihr Gerät zurückgeschickt. Mozilla speichert weder diesen Inhalt noch die daraus resultierenden Zusammenfassungen. Erfahren Sie mehr zu „Zum Zusammenfassen schütteln“ in [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) und [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 *Weitere Informationen, einschließlich der Anpassung Ihrer Dateneinstellungen:* Die auf Ihrem Gerät verarbeiteten Daten unterliegen Ihrer Kontrolle. Sie können [Ihre Browser-Daten](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) und Ihre [lokalen Speichereinstellungen](https://support.mozilla.org/kb/storage) verwalten und [den Standortzugriff jederzeit aktualisieren](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
 
-### Suchfunktionalität und Vorschläge bereitstellen und optimieren
+### Zur Bereitstellung von Firefox-VPN
+
+Wenn Sie bei einem Mozilla-Konto angemeldet sind, können Sie eine Firefox-Funktion aktivieren, mit der Ihre IP-Adresse über einen Proxy-Server („VPN“) anonymisiert wird. Bei Aktivierung leitet diese Funktion den Netzwerkverkehr von Firefox über einen zwischengeschalteten Server um. Dadurch wird verhindert, dass Ihr Netzbetreiber einsehen kann, mit welchen Servern Sie Verbindung aufnehmen, und Ihre IP-Adresse bleibt vor den von Ihnen besuchten Websites verborgen. Datenverkehr anderer Anwendungen auf dem Gerät wird nicht weitergeleitet, d. h., das Surfen im Internet wird durch diese Funktion allein nicht vollständig anonymisiert. Die VPN-Nutzung kann Ihr Surferlebnis verändern, etwa durch die Bereitstellung von Inhalten, die nicht für Ihre Region vorgesehen sind.
+
+Zur Bereitstellung der VPN-Funktion nutzen wir einen Proxy-Server, der in unserem Auftrag betrieben wird. Der Proxy-Server greift nicht auf Webseiteninhalte oder sonstige sensible Informationen wie Nachrichten oder Passwörter zu und erfasst auch keine Daten zu den von Ihnen besuchten Websites oder deren Inhalten. Wir verarbeiten in begrenztem Umfang technische Daten (wie beispielsweise Client-Version, Verbindungsstatus sowie Gerätetyp und Betriebssystem), um den Dienst bereitzustellen, zu warten und seine Leistung und Stabilität zu gewährleisten, sowie Interaktionsdaten, um die Nutzung der Funktion zu verstehen und Verbesserungen zu ermöglichen.
+
+### Zur Bereitstellung und Optimierung von Suchfunktionalität und Vorschlägen
 
 Wenn Sie eine Suchanfrage in Firefox eingeben, bietet Firefox [Suchvorschläge an](https://support.mozilla.org/kb/search-suggestions-firefox), um Ihnen einen schnelleren und direkteren Zugriff auf das Gewünschte zu ermöglichen. Einige der Suchvorschläge stammen von Ihrem Suchanbieter („Suchvorschläge“). Andere kommen von Firefox und basieren auf Informationen, die auf Ihrem lokalen Gerät gespeichert sind (insbesondere kürzlich verwendete Suchbegriffe, offene Tabs und zuvor besuchte URLs), oder auf Inhalten von Mozilla und Partnerunternehmen von Mozilla, einschließlich zahlender Sponsoren und Internetressourcen wie Wikipedia („Vorschläge von Firefox“).
 
@@ -114,7 +122,7 @@ Abhängig von Ihren Einstellungen (und davon, ob Sie ein Mozilla-Konto haben ode
 
 Wenn Sie die Hilfeseiten von Mozilla in Verbindung mit Firefox besuchen, erfasst Mozilla technische und Interaktionsdaten über die Nutzung unserer Websites durch Sie gemäß unserem Hinweis [„Mozilla-Websites, Mitteilungen und Cookies“](https://www.mozilla.org/privacy/websites/), um die Nutzung unserer Support- und Hilfeseiten durch Sie besser zu verstehen und sie zu optimieren.
 
-### Zur Einhaltung geltender Gesetze und zur Identifizierung und Verhinderung schädlicher, nicht autorisierter oder illegaler Aktivitäten.
+### Zur Einhaltung geltender Gesetze und zur Identifizierung und Verhinderung schädlicher, nicht autorisierter oder illegaler Aktivitäten
 
 Wir sind möglicherweise auch verpflichtet, Ihre personenbezogenen Daten zu verarbeiten, um geltende Gesetze einzuhalten oder Schutzzwecke zu verfolgen, wie z. B.:
 
@@ -433,7 +441,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
             </td>
             <td>
                 <p><strong>Rechtskonformität</strong> bei der Beantwortung von Anfragen zu den Rechten betroffener Personen, bei der Beantwortung von Anfragen von Strafverfolgungsbehörden sowie beim Verwalten und Schützen unserer Rechte, unseres Eigentums und/oder unserer Sicherheit (wie auch der unserer Benutzer).</p>
-                <p><strong>Berechtigtes Interesse</strong>, soweit rechtlich nicht vorgeschrieben, an der Unterstützung von rechtlichen oder regulatorischen Prozessen oder Anfragen, der Verhinderung von Betrug und am Verwalten und Schützen unserer Rechte, unseres Eigentums und/oder unserer Sicherheit (wie auch der unserer Benutzer).</p>
+                <p><strong>Berechtigtes Interesse</strong>, sofern nicht ohnehin rechtlich zwingend vorgeschrieben, an der Unterstützung rechtlicher oder regulatorischer Verfahren oder Anfragen, der Verhinderung von Betrug sowie an der Verwaltung und dem Schutz unserer Rechte, unseres Eigentums und/oder unserer Sicherheit (wie auch der unserer Benutzer).</p>
             </td>
             <td>Erfahren Sie mehr darüber, wie wir auf <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">rechtliche Anfragen</a> reagieren.</td>
         </tr>

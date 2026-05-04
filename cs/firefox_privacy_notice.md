@@ -1,7 +1,7 @@
 # Prohlášení o ochraně osobních údajů Firefox
 
-Účinné od 17. prosince 2025
-{: datetime="2025-12-17" }
+Účinné od 4. května 2026
+{: datetime="2026-05-04" }
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
@@ -13,15 +13,23 @@ Proto vytváříme Firefox a veškeré naše produkty tak, abyste měli větší
 
 Společnost Mozilla shromažďuje [určité údaje](#bookmark-how-we-use-data), jako jsou technické údaje a informace o nastavení, aby vám mohla poskytovat základní funkce prohlížeče Firefox a související služby, rozpoznat vaše zařízení od ostatních, zapamatovat si a respektovat vaše nastavení a poskytovat vám výchozí funkce, jako jsou např. [Nová karta](https://support.mozilla.org/kb/about-new-tab-page), [Úpravy PDF](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [správce hesla](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) a [Celková ochrana souborů cookie](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). Své prostředí Firefoxu si můžete dále přizpůsobit úpravou svých [ovladačů, tlačítek a nástrojových lišt](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) a přidáním [funkcí s doplňky](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Některé funkce Firefox, jako jsou automatický [překlad](https://support.mozilla.org/kb/website-translation) webových stránek a [doporučení „alternativního textu“ při nahrávání obrázků do vašich souborů PDF](https://support.mozilla.org/kb/pdf-alt-text), jsou podporovány umělou inteligencí (AI) na základě malých jazykových modelů stažených do vašeho zařízení. Tyto fungují lokálně — obsah webových stránek, soubory PDF, adresy URL obrázků a karet zůstávají ve vašem zařízení a bez vašeho výslovného souhlasu se neodesílají na servery společnosti Mozilla ani se nepoužívají pro účely učení. Upozorňujeme, že ostatní funkce Firefox mohou být integrovány s nezávislými modely AI třetích stran, v souladu s podrobnými informacemi uvedenými níže v tomto Oznámení.
+Některé funkce Firefox, jako jsou automatický [překlad](https://support.mozilla.org/kb/website-translation) webových stránek a [doporučení „alternativního textu“ při nahrávání obrázků do vašich souborů PDF](https://support.mozilla.org/kb/pdf-alt-text), jsou podporovány umělou inteligencí (AI) na základě malých jazykových modelů stažených do vašeho zařízení. Tyto fungují lokálně — obsah webových stránek, soubory PDF, adresy URL obrázků a karet zůstávají ve vašem zařízení a bez vašeho výslovného souhlasu se neodesílají na servery společnosti Mozilla ani se nepoužívají pro účely učení. Upozorňujeme, že ostatní funkce Firefox mohou být integrovány s nezávislými modely AI třetích stran, v souladu s podrobnými informacemi uvedenými níže v tomto Oznámení. Zjistěte více, včetně toho, jak [ovládat funkce vycházející z AI](https://support.mozilla.org/kb/firefox-ai-controls) a modely ve vašem nastavení.
+
+Pokud se rozhodnete používat funkci Smart Window, vaše používání této funkce se bude řídit [Oznámením o ochraně osobních údajů Smart Window](https://www.mozilla.org/privacy/smart-window/), které vysvětluje, jak jsou vaše údaje zpracovávány v souvislosti s funkcí Smart Window.
 
 ### Přizpůsobení Firefoxu vašim potřebám
 
 Firefox zpracovává různé osobní údaje způsobem, který neopouští vaše zařízení, jako je historie procházení, data webových formulářů, dočasné internetové soubory a soubory cookies. To znamená, že tyto údaje zůstávají ve vašem zařízení a nejsou odesílány na servery společnosti Mozilla, pokud není v tomto Oznámení výslovně uvedeno jinak. Pokud se rozhodnete takovou možnost povolit, zpracováváno může být i vaše přesné místo pro funkce související s místem pro webové stránky, jako jsou Mapy Google; přístup k těmto údajům z vašeho zařízení je využíván výhradně webovými stránkami, u kterých to povolíte - nejsou odesílány na servery společnosti Mozilla.
 
-Pokud se rozhodnete povolit funkci Shake to Summarize v aplikaci Firefox pro mobilní zařízení na zařízení s Apple Intelligence (iPhone 15 Pro+ s iOS 26+), shrnutí budou vytvořena místně ve vašem zařízení v okamžiku jejich vyžádání. Pokud ji povolíte v zařízení bez Apple Intelligence obsah vaší stránky bude odeslán na server Mozilla ke zpracování v okamžiku vyžádání přehledu a přehled bude vrácen do vašeho zařízení; společnost Mozilla tento obsah ani výsledné přehledy neuchovává.
+Pokud povolíte funkci Shake to Summarize na kompatibilním zařízením, které běží na podporovaném operačním systému, který umožňuje zpravodajské služby v zařízení, vámi vytvořené souhrny budou vytvářeny místně ve vašem zařízení. V opačném případě, pokud požádáte o souhrn, obsah vaší stránky se odešle na server Mozilla ke zpracování a bude vrácen do vašeho zařízení; společnost Mozilla tento obsah ani výsledné souhrny neukládá. Podrobnější informace o funkci Shake to Summarize v systémech [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) a [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 *Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:* Nad údaji zpracovávanými ve vašem zařízení si uchováváte kontrolu. Kdykoliv můžete [spravovat své údaje procházení ](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) a [nastavení místního úložiště ](https://support.mozilla.org/kb/storage), nebo aktualizovat svá [povolení lokalizace](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
+
+### Za účelem poskytování Firefox VPN
+
+Pokud jste přihlášeni k účtu Mozilla, můžete povolit funkci Firefox, která skryje vaši IP adresu prostřednictvím proxy serveru („VPN“). Pokud je funkce povolena, odklání síťový provoz Firefox přes prostředníka, aby váš poskytovatel sítě neviděl, ke kterým serverům se připojujete, a skryje vaši IP adresu před stránkami, které navštěvujete. Neodklání provoz z jiných aplikací v zařízení a samostatně nezajišťuje plnou anonymitu vašeho procházení stránek. Použití VPN může mít dopad na vaši zkušenost s prohlížením, včetně nabídky obsahu, který není specifický pro váš region.
+
+K poskytování funkce VPN používáme proxy server, který je provozován naším jménem. Proxy server nemá přístup k obsahu webových stránek nebo jiným citlivým údajům, jako jsou zprávy či hesla, a neshromažďuje údaje o vámi navštívených webových stránkách nebo jejich obsahu. Zpracováváme omezené technické údaje (jako jsou verze klienta, stav připojení a typ/operační systém zařízení), abychom mohli poskytovat, udržovat a zajistit výkon a stabilitu služby, stejně jako údaje o interakci pro pochopení využití funkce a ke zlepšení návodu nápovědy.
 
 ### Poskytování a vylepšování funkce vyhledávání a návrhů
 
@@ -433,7 +441,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
             </td>
             <td>
                 <p><strong>Soulad s právními předpisy</strong> v rámci reakce na žádosti ze strany subjektů o uplatnění jejich práv, reakce na žádosti orgánů činných v trestním řízení, správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
-                <p><strong>Zákonný zájem</strong>, pokud se neuplatní předpoklad souladu s předpisy, v rámci podpory zákonných nebo regulačních procesů nebo žádostí, pro prevenci podvodů a správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
+                <p><strong>Oprávněný zájem</strong>, pokud se nutně nevyžaduje v souladu s právními předpisy, v rámci podpory zákonných nebo regulačních procesů nebo žádostí, pro prevenci podvodů a správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
             </td>
             <td>Informujte se, jak reagujeme na <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">zákonné požadavky</a>.</td>
         </tr>
