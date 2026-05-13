@@ -1,7 +1,6 @@
 # Mozilla Accounts Privacy Notice
 
 Effective February 10, 2026
-{: datetime="2026-02-10" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
