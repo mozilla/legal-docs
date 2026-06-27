@@ -121,6 +121,5 @@ Wenn Sie Fragen oder Bedenken zur vorliegenden Datenschutzrichtlinie haben, empf
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105, USA
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103, USA

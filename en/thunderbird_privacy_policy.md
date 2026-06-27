@@ -118,8 +118,8 @@ If you want to make a correction to your information, or you have any questions 
 
 __MZLA Technologies Corporation__
 Attn: Mozilla - Privacy
-149 New Montgomery St, 4th Floor,
-San Francisco, CA 94105
+1875 Mission Street, Suite 103,
+San Francisco, CA 94103
 USA
 compliance@mozilla.com
 
