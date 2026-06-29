@@ -97,6 +97,5 @@ For other concerns, you may email us at [legal-notices@mozilla.com](mailto:legal
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103

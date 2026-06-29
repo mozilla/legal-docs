@@ -81,8 +81,7 @@ Im Falle etwaiger Widersprüche zwischen der englischen Ursprungsversion der vor
 
 Mozilla Corporation <br>
 Attn: Mozilla – Legal Notices <br>
-149 New Montgomery Street <br>
-4th Floor <br>
-San Francisco, CA 94105, USA
+1875 Mission Street, Suite 103 <br>
+San Francisco, CA 94103, USA
 
 legal-notices@mozilla.com

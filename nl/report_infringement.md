@@ -21,9 +21,8 @@ De snelste manier om een vermoedelijk inbreuk te melden, is door het indienen va
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105, Verenigde Staten  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103, Verenigde Staten  
 
 Het telefoonnummer van Mozilla’s Designated Agent is +1 650-903-0800.
 

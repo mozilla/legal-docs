@@ -102,9 +102,8 @@ Mozilla 创作的内容通常通过开放许可协议，如知识共享（用于
 
 Mozilla   
 Attn:Mozilla – Legal Notices  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103  
 USA  
 电话：650-903-0800  
 传真：650-903-0875  

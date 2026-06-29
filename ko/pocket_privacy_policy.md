@@ -121,6 +121,5 @@ Pocket 프로필에서 개인 정보에 액세스하거나 개인 정보를 수�
 
 Mozilla Corporation  
 ATTN: Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103
