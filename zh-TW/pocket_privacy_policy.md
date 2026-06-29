@@ -121,6 +121,5 @@ Pocket 非常關心身分盜竊及稱為「網路釣魚」的行徑。我們將�
 
 Mozilla Corporation  
 ATTN:Pocket Business Unit  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103

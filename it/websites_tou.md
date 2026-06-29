@@ -102,9 +102,8 @@ I presenti Termini costituiscono l’intero accordo tra Mozilla e l’utente rel
 
 Mozilla  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery Street  
-4th Floor  
-San Francisco, CA 94105  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103  
 USA  
 Telefono: 650-903-0800  
 Fax: 650-903-0875  

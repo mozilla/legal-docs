@@ -66,8 +66,7 @@ __取消。__ 您可以随时取消订阅 MDN Plus。您可以通过单击我们
 
 Mozilla Corporation  
 Attn: Mozilla – Legal Notices  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103  
 
 legal-notices@mozilla.com

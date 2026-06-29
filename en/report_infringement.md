@@ -21,9 +21,8 @@ The quickest way to report suspected infringement is to submit [this form](https
 
 Mozilla  
 Attn: Mozilla’s Designated DMCA Agent  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103  
 
 Mozilla’s Designated Agent’s phone is +1 650-903-0800.
 
