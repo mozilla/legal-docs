@@ -66,8 +66,7 @@ Si nous résilions votre accès au Service sans raison spécifique, vous continu
 
 Mozilla Corporation  
 À l’attention de : Mozilla – Legal Notices  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105, États-Unis  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103, États-Unis  
 
 legal-notices@mozilla.com

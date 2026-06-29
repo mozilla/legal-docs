@@ -21,9 +21,8 @@ Il modo più rapido per segnalare una presunta violazione è quello di inviare [
 
 Mozilla  
 Attn: Mozilla's Designated DMCA Agent  
-149 New Montgomery St.  
-4th Floor  
-San Francisco, CA 94105, U.S.A.  
+1875 Mission Street, Suite 103  
+San Francisco, CA 94103, U.S.A.  
 
 Il numero di telefono dell'agente Mozilla designato è +1 650-903-0800.
 
