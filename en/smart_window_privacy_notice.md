@@ -1,4 +1,4 @@
-# Smart Window Privacy Policy
+# Smart Window Privacy Notice
 
 April 21, 2026
 {: datetime="2026-04-21" }
