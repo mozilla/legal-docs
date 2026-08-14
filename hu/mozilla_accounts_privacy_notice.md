@@ -1,11 +1,11 @@
 # A Mozilla-fiókok adatvédelmi nyilatkozata
 
-Hatályos: 2026. február 10-től
-{: datetime="2026-02-10" }
+Utoljára frissítve: 2026. augusztus 10.
+{: datetime="2026-08-10" }
 
 ## A Mozillánál hiszünk abban, hogy az adatvédelem alapvető fontosságú a biztonságos internethez
 
-Ezért minden termékünket úgy fejlesztettük ki, hogy nagyobb ellenőrzést biztosítsunk Önnek az online és a velünk megosztott adatok felett. A jelen adatvédelmi nyilatkozatban ismertetjük, hogy milyen adatokat, hogyan kezelünk és milyen célból. Ezt követően elmagyarázzuk, hogyan dönthet arról, hogyan kezeljük az adatait.
+Ezért minden termékünket és szolgáltatásunkat úgy fejlesztettük ki, hogy nagyobb ellenőrzést biztosítsunk Önnek az online és a velünk megosztott adatok felett. A jelen adatvédelmi nyilatkozatban ismertetjük, hogy milyen adatokat, hogyan kezelünk és milyen célból. Ezt követően elmagyarázzuk, hogyan dönthet arról, hogyan kezeljük az adatait.
 
 ## Hogyan kezeli a Mozilla az adatait?
 
@@ -13,9 +13,9 @@ Ezért minden termékünket úgy fejlesztettük ki, hogy nagyobb ellenőrzést b
 
 A Mozilla-fiókok lehetővé teszik, hogy egyetlen bejelentkezéssel hozzáférjen a Mozilla szolgáltatásaihoz több eszközön. Ennek érdekében a Mozilla kezeli az Ön fiókadatait, elérhetőségi adatait (e-mail-cím) és engedélyezési adatait. Lehetőség van további tartalomadatok, például megjelenített név vagy profilkép megadására is.
 
-A Mozilla [bizonyos adatokat](#bookmark-how-we-use-data), például technikai és beállítási adatokat is gyűjt, hogy biztosítsa a Mozilla-fiókok és a kapcsolódó szolgáltatások alapvető funkcióit, új eszközöket csatlakoztasson, megjegyezze és tiszteletben tartsa a beállításait, valamint biztosítsa az alapértelmezett funkciókat, például a szinkronizálást és a beépített VPN-t.
+A Mozilla [bizonyos adatokat](#bookmark-how-we-use-data), például technikai és beállítási adatokat is gyűjt, hogy biztosítsa a Mozilla-fiókok és a kapcsolódó szolgáltatások alapvető funkcióit, új eszközöket csatlakoztasson, megjegyezze és tiszteletben tartsa a beállításait, valamint biztosítsa a funkciókat, például a szinkronizálást, a beépített VPN-t és a hivatkozásgyűjteményeket.
 
-Ha engedélyezi a szinkronizálást, a Mozilla titkosított formában kapja meg az eszközök között szinkronizált információkat; ezek tartalmazhatják a Firefox lapjait, bővítményeit, jelszavait, az űrlapok automatikus kitöltési információit, könyvjelzőit, előzményeit és beállításait. Ez a titkosítás végponttól végpontig terjed: az adatai titkosításra kerülnek, mielőtt elhagynák a böngészőjét, és csak egy másik szinkronizálási kliens képes visszafejteni őket a titkosítási kulcsok birtokában – a Mozilla nem tudja visszafejteni ezeket az információkat.
+Ha engedélyezi a szinkronizálást, a Mozilla titkosított formában kapja meg az eszközök között szinkronizált információkat; ezek tartalmazhatják a Firefox lapjait, bővítményeit, jelszavait, az űrlapok automatikus kitöltési információit, könyvjelzőit, előzményeit és beállításait. Ez a titkosítás végponttól végpontig terjed: a szinkronizált adatai titkosításra kerülnek, mielőtt elhagynák a böngészőjét, és csak egy másik szinkronizálási kliens képes visszafejteni őket a titkosítási kulcsok birtokában – a Mozilla nem tudja visszafejteni ezeket az információkat.
 
 Amikor előfizetést igénylő szolgáltatásokra fizet elő, a fizetését a [Mozilla előfizetési szolgáltatások adatvédelmi nyilatkozatával](https://www.mozilla.org/privacy/subscription-services/) összhangban dolgozzák fel. A Mozilla nyilvántartást kap a fiókjáról (beleértve a számlázási címét és a fizetési mód utolsó négy számjegyét), valamint eléri a fiók előfizetésének állapotát is. A Mozilla nem tárolja az Ön teljes fizetési adatait.
 
@@ -25,19 +25,21 @@ Amikor előfizetést igénylő szolgáltatásokra fizet elő, a fizetését a [M
 
 Adatokat is kell kezelnünk a Mozilla-fiók működőképességének megőrzéséhez, a szolgáltatások és a teljesítmény javításához, valamint a problémák azonosításához, hibaelhárításához és diagnosztizálásához. Ehhez technikai, helymeghatározási és beállítási adatokat, valamint interakciós és rendszerteljesítményi adatokat használunk.
 
-Technikai és interakciós adatokat kezelünk annak érdekében, hogy jobban megértsük, hogyan használja szolgáltatásainkat, például a [Mozilla-fiókok webhelyének](https://accounts.firefox.com/) vagy [súgóoldalainknak](https://support.mozilla.org/), irányítópultjainknak és menübeállításainknak a látogatásait, a Mozilla-fiókjával kapcsolatban használt termékeket és szolgáltatásokat (beleértve a Firefox használatát is, például a Firefox használatának gyakoriságát és az adatok utolsó szinkronizálásának időpontját), a velünk való interakcióhoz használt eszközöket, valamint az e-mailjeinkkel és SMS-üzeneteinkkel kapcsolatos interakcióit. Ez lehetővé teszi számunkra, hogy megértsük, hogy a felhasználók hogyan férnek hozzá és használják a szolgáltatásainkat, ami segít javítani a folyamatainkat és a szolgáltatásaink funkcionalitását.
+Technikai és interakciós adatokat kezelünk annak érdekében, hogy jobban megértsük, hogyan használja szolgáltatásainkat, például a [Mozilla-fiókok webhelyének](https://accounts.firefox.com/) vagy [súgóoldalainknak](https://support.mozilla.org/), irányítópultjainknak és menübeállításainknak a látogatásait, a Mozilla-fiókjával kapcsolatban használt termékeket, szolgáltatásokat és funkciókat (beleértve a Firefox használatát is, például a Firefox használatának gyakoriságát és az adatok utolsó szinkronizálásának időpontját), a velünk való interakcióhoz használt eszközöket, valamint a kommunikációnkkal kapcsolatos interakcióit. Ez lehetővé teszi számunkra, hogy megértsük, hogy a felhasználók hogyan férnek hozzá és használják a szolgáltatásainkat, ami segít javítani a folyamatainkat és a szolgáltatásaink funkcionalitását.
 
 Amikor összekapcsolt szolgáltatásokat használ, az adatait az adott szolgáltatás adatvédelmi nyilatkozatának megfelelően kezeljük:
 
 * [Firefox böngésző](https://www.mozilla.org/privacy/firefox/)
-* [Smart Window](https://www.mozilla.org/privacy/smart-window/)
+* [Intelligens ablak](https://www.mozilla.org/privacy/smart-window/)
 * [Mozilla előfizetési szolgáltatások](https://www.mozilla.org/privacy/subscription-services/) a Mozilla VPN, Mozilla Monitor és Firefox Relay esetében
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 Ha egy Mozilla-fiókhoz kapcsolódó szolgáltatás váratlan problémát tapasztal (például összeomlást), egy külső szolgáltatást használunk technikai és interakciós adatok, például hibaüzenetek, eszközinformációk és az alkalmazás állapotának gyűjtésére a összeomlás időpontjában, hogy segítsen diagnosztizálni és kijavítani a szolgáltatásainkban felmerülő problémákat.
 
 *További részletek, beleértve az adatbeállítások módosítását:* Bármikor frissítheti az [Mozilla-fiók adatgyűjtési beállításait](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Tekintse meg a kapcsolódó szolgáltatásokkal kapcsolatos adatbeállításaira vonatkozó tájékoztatót.
+
+### Firefox-hivatkozás-gyűjtemények biztosítása
+
+A Firefox-hivatkozásgyűjtemények funkciójához szintén fiók szükséges. Ha a hivatkozásgyűjtemények létrehozása mellett dönt, a megosztott hivatkozásokkal és a kapcsolódó metaadatokkal kapcsolatos adatokat feldolgozzuk a funkció biztosítása és a [Szolgáltatási feltételeink](https://www.mozilla.org/about/legal/terms/services/) betartatása érdekében.
 
 ### A biztonság és annak javítása érdekében
 
@@ -45,11 +47,11 @@ A Mozilla technikai és interakciós adatokat használ a Mozilla-fiókokhoz val�
 
 ### Az adatok álnevesítése, nem beazonosíthatóvá tétele, összesítése vagy anonimizálása
 
-A fent vázolt tevékenységek részeként, mint például a Mozilla-fiókok használatának megértése és marketingünk mérése, létrehozhatunk álnevesített, nem beazonosítható, összesített vagy anonimizált adatokat. Bizonyos esetekben megoszthatunk vagy közzétehetünk összesített és anonimizált adatokat a kutatás megkönnyítése érdekében, vagy a fent vázolt törvényes üzleti célok részeként.
+A jelen közleményben vázolt tevékenységek részeként, mint például a Mozilla-fiókok használatának megértése és marketingünk mérése, létrehozhatunk álnevesített, nem beazonosítható, összesített vagy anonimizált adatokat. Bizonyos esetekben megoszthatunk vagy közzétehetünk összesített és anonimizált adatokat a kutatás megkönnyítése érdekében, vagy egyéb törvényes üzleti célok részeként.
 
 ### Az Önnel való kommunikációhoz, beleértve szolgáltatásaink marketingjét is
 
-Az elérhetőségi adatait az Önnel való kommunikációhoz használjuk. Felvehetjük Önnel a kapcsolatot olyan okokból, mint például hogy figyelmeztessük, ha gyanús tevékenységet észlelünk a fiókjában, ellenőrizzük a fiókadataiban bekövetkezett változásokat, marketinggel kapcsolatos kommunikációt küldjünk Önnek, vagy válaszoljunk az ügyfélszolgálati üzenetekre, és harmadik fél szolgáltatókat is igénybe vehetünk az Önnel folytatott kommunikáció kezeléséhez. Az ilyen kommunikációkhoz kapcsolódó interakciós adatokat is kezeljük, hogy jobban megértsük, kik kapták meg azokat.
+Az elérhetőségi adatait az Önnel való kommunikációhoz használjuk. Felvehetjük Önnel a kapcsolatot olyan okokból, mint például hogy figyelmeztessük, ha gyanús tevékenységet észlelünk a fiókjában, ellenőrizzük a fiókadataiban bekövetkezett változásokat, marketinggel kapcsolatos kommunikációt küldjünk Önnek, vagy válaszoljunk az ügyfélszolgálati üzenetekre, és harmadik fél szolgáltatókat is igénybe vehetünk az Önnel folytatott kommunikáció kezeléséhez. Az ilyen kommunikációkhoz kapcsolódó interakciós adatokat is feldolgozzuk, hogy jobban megértsük, kik kapták meg azokat, és hogy a kommunikációnkat relevánsabbá és hasznosabbá tegyük az Ön számára.
 
 ### A vonatkozó jogszabályok betartása, valamint a káros, jogosulatlan vagy illegális tevékenységek azonosítása és megelőzése
 
@@ -69,7 +71,7 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 | ----- | ----- |
 | Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Hatóságok  | A Mozilla érvényes [jogi eljárást](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket.  |
-| Kutatók | Amikor a nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítjük. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
+| Kutatók | Amikor a nyíltság [küldetésén](https://www.mozilla.org/about/manifesto/) dolgozunk, időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
 | A Mozilla által ellenőrzött jogalanyok és utódaik  | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
 ## Nemzetközi adattovábbítás
@@ -78,9 +80,11 @@ A Mozilla Corporation (és a kiszolgálóink) az Egyesült Államokban találhat
 
 ## Az adatok tárolásának időtartama
 
-A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi nyilatkozatban meghatározott célok teljesítéséhez szükséges. Általánosságban elmondható, hogy a fiókadatait addig őrizzük meg, amíg a fiókja aktív. Tartsa szem előtt, hogy a Mozilla [rendszeresen törli](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) azokat a fiókokat, amelyekbe több mint két éve nem jelentkeztek be (a művelet előtt megpróbálunk emlékeztetőt küldeni).
+A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi nyilatkozatban meghatározott célok teljesítéséhez szükséges. Általánosságban elmondható, hogy a fiókadatait addig őrizzük meg, amíg a fiókja aktív. Tartsa szem előtt, hogy a Mozilla [rendszeresen törli](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) azokat a fiókokat, amelyekbe több mint két éve nem jelentkeztek be (észszerű erőfeszítéseket teszünk, hogy emlékeztetőt küldjünk Önnek, mielőtt ezt megtennénk).
 
 Az általunk gyűjtött technikai, beállítási és interakciós adatokat általában legfeljebb 25 hónapig őrizzük meg, de a tényleges megőrzési időszakok az adatok típusától és a gyűjtés céljaitól függően változhatnak (például megőrizzük fiókja „első megnyitásának” dátumát, így tudjuk, hogy mennyi ideje rendelkezik Mozilla-fiókkal). A konkrét megőrzési időszakok az adatok érzékenységétől, gyűjtésük kontextusától, az Ön beállításaitól és preferenciáitól, valamint az adatok megőrzésére vagy törlésére vonatkozó jogi vagy szerződéses kötelezettségeinktől is függhetnek, például a csalás megelőzése, a szabályozási megfelelés vagy a szolgáltatás folytonossága érdekében. A megőrzési időszak lejártával biztonságosan töröljük az adatait, hacsak a jogszabályok másként nem rendelkeznek.
+
+Ha töröl egy hivatkozást vagy hivatkozásgyűjteményt a Firefox-hivatkozásgyűjteményeiből, biztonsági és visszaélés-megelőzési okokból megőrizhetjük a kapcsolódó adatokat. A [Szolgáltatási feltételeinket](https://www.mozilla.org/about/legal/terms/services/) sértő tartalmakat határozatlan ideig megőrizhetjük, hogy megelőzhessük és felmérhessük a jövőbeli visszaéléseket.
 
 A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
 
@@ -115,7 +119,7 @@ Bármikor frissítheti az [Mozilla-fiók beállításait](https://support.mozill
 
 ## Változtatások
 
-Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleményeinket, ebben az esetben a frissítéseket online tesszük közzé, frissítjük a közlemény hatálybalépési dátumát, és a frissítést kiemeltebb módon hirdetjük ki a Mozilla ilyen bejelentésekre szokásos csatornáin, például blogbejegyzéseken és fórumokon.
+Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleményeinket, ebben az esetben a frissítéseket online tesszük közzé, frissítjük a közlemény hatálybalépési dátumát, és a frissítést kiemeltebb módon hirdethetjük ki a Mozilla ilyen bejelentésekre szokásos csatornáin, például blogbejegyzéseken és fórumokon.
 
 ## Adatdefiníciók
 
@@ -165,7 +169,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleménye
       <td>
         <ul>
           <li>Technikai adatok</li>
-          <li>Helyadatok</li>
+          <li>Hely</li>
           <li>Beállításadatok</li>
           <li>Interakciós adatok</li>
           <li>Egyedi azonosítók</li>
@@ -177,6 +181,23 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleménye
         <p><strong>Jogos érdek</strong> a Mozilla-fiókok (és a kapcsolódó szolgáltatások) használatának megértéséhez, valamint a teljesítmény, a funkciók és a stabilitás javításához.</p>
       </td>
     </tr>
+    <tr>
+      <td>Firefox-hivatkozás-gyűjtemények biztosítása</td>
+      <td>
+        <ul>
+          <li>Fiókadatok</li>
+          <li>Kapcsolattartási adatok</li>
+          <li>Interakciós adatok</li>
+          <li>Technikai adatok</li>
+          <li>Egyedi azonosítók</li>
+          <li>Hely</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Szerződés</strong> a funkció használatához szükséges funkcionalitás biztosítására és a Felhasználási feltételeink betartatására.</p>
+        <p><strong>Jogos érdek</strong> a funkció használatának megértéséhez, valamint a termék karbantartásához és fejlesztéséhez.</p>
+      </td>
+    </tr>    
     <tr>
       <td>A biztonság és annak javítása érdekében</td>
       <td>
