@@ -253,4 +253,3 @@ Bu politikayı ve bildirimlerimizi değiştirmemiz gerekebilir. Bu durumda, gün
     </tr>
   </tbody>
 </table>
-
