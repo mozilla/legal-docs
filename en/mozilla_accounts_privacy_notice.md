@@ -1,11 +1,11 @@
 # Mozilla Accounts Privacy Notice
 
-Effective February 10, 2026
-{: datetime="2026-02-10" }
+Last updated August 10, 2026
+{: datetime="2026-08-10" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
-That’s why we build our products, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information.
+That’s why we build our products and services, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information.
 
 ## How Mozilla processes your data
 
@@ -13,9 +13,9 @@ That’s why we build our products, to give you greater control over the informa
 
 Mozilla accounts allow you to access Mozilla services across devices with a single login. To enable this, Mozilla processes your account data, contact data (email address) and authorization data. You can also choose to provide additional content data, such as a display name or profile image.
 
-Mozilla also collects [certain data](#bookmark-how-we-use-data), like technical and settings data, to provide the core functionality of Mozilla accounts and its connected services, connect new devices, remember and respect your settings, and provide you with default features such as sync and our built-in VPN.
+Mozilla also collects [certain data](#bookmark-how-we-use-data), like technical and settings data, to provide the core functionality of Mozilla accounts and its connected services, connect new devices, remember and respect your settings, and provide you with features such as sync, our built-in VPN and Link collections.
 
-If you enable sync, Mozilla receives the information that you sync across devices in encrypted form; this may include Firefox tabs, add-ons, passwords, form autofill information, bookmarks, history, and preferences. This encryption is end-to-end: your data is encrypted before it ever leaves your browser and can only be decrypted by another sync client with the encryption keys; Mozilla cannot decrypt this information.
+If you enable sync, Mozilla receives the information that you sync across devices in encrypted form; this may include Firefox tabs, add-ons, passwords, form autofill information, bookmarks, history, and preferences. This encryption is end-to-end: your synced data is encrypted before it ever leaves your browser and can only be decrypted by another sync client with the encryption keys; Mozilla cannot decrypt this information.
 
 When you subscribe to services that require a paid subscription, your payment will be processed in accordance with the [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services/). Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
 
@@ -25,19 +25,21 @@ When you subscribe to services that require a paid subscription, your payment wi
 
 We also need to process data to keep Mozilla accounts operational, improve features and performance, and identify, troubleshoot and diagnose issues. For this we use technical, location and settings data, as well as interaction and system performance data.
 
-We process technical and interaction data to better understand how you engage with our services, such as your visits to the [Mozilla accounts website](https://accounts.firefox.com/) or our [help pages](https://support.mozilla.org/), dashboards and menu preferences, what products and services you use in connection with your Mozilla account (including your use of Firefox, such as how often you use Firefox and when you last synced your data), what devices you’ve used to engage with us and your interactions with our emails and SMS messages. This allows us to understand how people access and use our services, which helps improve our business and the functionality of our services.
+We process technical and interaction data to better understand how you engage with our services, such as your visits to the [Mozilla accounts website](https://accounts.firefox.com/) or our [help pages](https://support.mozilla.org/), dashboards and menu preferences, what products, services, and features you use in connection with your Mozilla account (including your use of Firefox, such as how often you use Firefox and when you last synced your data), what devices you’ve used to engage with us and your interactions with our communications. This allows us to understand how people access and use our services, which helps improve our business and the functionality of our services.
 
 When you use connected services, your data will be processed in accordance with the relevant service’s privacy notice:
 
 * [Firefox Browser](https://www.mozilla.org/privacy/firefox/)
 * [Smart Window](https://www.mozilla.org/privacy/smart-window/)
 * [Mozilla Subscription Services](https://www.mozilla.org/privacy/subscription-services/) for Mozilla VPN, Mozilla Monitor, and Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 If a Mozilla account connected service experiences an unexpected issue (for example, a crash) we use a third-party service to collect technical and interaction data such as error messages, device information and application state at the time of the crash, in order to help us diagnose and fix issues in our services.
 
 *More details, including how to adjust your data settings:* You can update your [Mozilla accounts data collection settings](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) at any time. Please see the relevant notice for your data settings in relation to any connected services.
+
+### To provide Firefox Link collections
+
+The Firefox Link collections feature also requires an account. If you choose to create Link collections, we will process data about the links and related metadata that you choose to share in order to provide the feature and enforce our [Terms of Service](https://www.mozilla.org/about/legal/terms/services/).
 
 ### To provide and improve security
 
@@ -45,11 +47,11 @@ Mozilla uses technical and interaction data to help secure access to Mozilla acc
 
 ### To pseudonymize, de-identify, aggregate or anonymize data
 
-As part of the activities outlined above, such as understanding usage of Mozilla accounts and measuring our marketing, we may create pseudonymous, de-identified, aggregated or anonymized data. In some cases, we may share or publish aggregated and anonymized data to facilitate research or as part of the lawful business purposes outlined above.
+As part of the activities outlined in this notice, such as understanding usage of Mozilla accounts and measuring our marketing, we may create pseudonymous, de-identified, aggregated or anonymized data. In some cases, we may share or publish aggregated and anonymized data to facilitate research or as part of other lawful business purposes.
 
 ### To communicate with you, including when marketing our services
 
-We use your contact data to communicate with you. We may contact you for reasons such as to alert you if we detect suspicious activity on your account, to verify changes to your account information, to send you marketing-related communications or to respond to customer support communications, and we may use third-party service providers to manage our communications with you. We also process interaction data related to these communications to better understand who has received them.
+We use your contact data to communicate with you. We may contact you for reasons such as to alert you if we detect suspicious activity on your account, to verify changes to your account information, to send you marketing-related communications or to respond to customer support communications, and we may use third-party service providers to manage our communications with you. We also process interaction data related to these communications to better understand who has received them, and to make our communications more relevant and useful to you.
 
 ### To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity
 
@@ -69,7 +71,7 @@ To provide our services as described above, we may disclose personal data to:
 | ----- | ----- |
 | Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions. [Learn more](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Authorities  | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity.  |
-| Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
+| Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open, we sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
 | Mozilla controlled entities and successors  | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
 ## International transfers of data
@@ -78,9 +80,11 @@ Mozilla Corporation (and our servers) are based in the United States. Because we
 
 ## How long we keep your data
 
-We only retain your personal data for as long as necessary to fulfill the purposes outlined in this Privacy Notice. In general, your account data is retained for as long as your account is active. You should note that Mozilla [periodically deletes](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) accounts that have not been signed in for more than two years (we’ll attempt to send you a reminder prior to taking this action).
+We only retain your personal data for as long as necessary to fulfill the purposes outlined in this Privacy Notice. In general, your account data is retained for as long as your account is active. You should note that Mozilla [periodically deletes](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) accounts that have not been signed in for more than two years (we’ll use reasonable efforts to send you a reminder prior to taking this action).
 
 With regard to the technical, settings and interaction data we collect, we generally maintain this data for up to 25 months, but actual retention periods may vary depending on the type of data and the purpose(s) for which it was collected (for example, we retain your “first opened” date of your account, so we know how long you’ve been a Mozilla account holder). Specific retention periods may also depend on the sensitivity of the data, the context of its collection, your settings and preferences, and our legal or contractual obligations to retain or delete your data, such as for fraud prevention, regulatory compliance, or service continuity. Once the retention period expires we securely delete your data, unless otherwise required by law.
+
+If you delete a link or link collection from Firefox Link collections, we may retain associated data for security and abuse prevention purposes. Content that is found to violate our [Terms of Service](https://www.mozilla.org/about/legal/terms/services/) may be retained indefinitely, to allow us to prevent and assess future abuse.
 
 Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters; data in these environments is put beyond use and only processed for business continuity purposes. We may also retain data for extended periods of time on a de-identified or aggregated basis.
 
@@ -115,7 +119,7 @@ You can update your [Mozilla account settings](https://support.mozilla.org/kb/fi
 
 ## Changes
 
-We may need to change this policy and our notices, in which case the updates will be posted online, we will update the effective date of this notice and announce the update more prominently through Mozilla's usual channels for such announcements, such as blog posts and forums.
+We may need to change this policy and our notices, in which case the updates will be posted online, we will update the effective date of this notice and may announce the update more prominently through Mozilla's usual channels for such announcements, such as blog posts and forums.
 
 ## Data definitions
 
@@ -165,7 +169,7 @@ We may need to change this policy and our notices, in which case the updates wil
       <td>
         <ul>
           <li>Technical data</li>
-          <li>Location data</li>
+          <li>Location</li>
           <li>Settings data</li>
           <li>Interaction data</li>
           <li>Unique identifiers</li>
@@ -177,6 +181,23 @@ We may need to change this policy and our notices, in which case the updates wil
         <p><strong>Legitimate interest</strong> in understanding how Mozilla accounts (and connected services) are used, and improving performance, features and stability.</p>
       </td>
     </tr>
+    <tr>
+      <td>To provide Firefox Link collections</td>
+      <td>
+        <ul>
+          <li>Account data</li>
+          <li>Contact data</li>
+          <li>Interaction data</li>
+          <li>Technical data</li>
+          <li>Unique identifiers</li>
+          <li>Location</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Contract</strong> to provide you with the necessary functionality to utilize the feature, and to enforce our Terms of Use.</p>
+        <p><strong>Legitimate interest</strong> in understanding how the feature is used, and maintaining and improving the product.</p>
+      </td>
+    </tr>    
     <tr>
       <td>To provide and improve security</td>
       <td>
