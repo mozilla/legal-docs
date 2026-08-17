@@ -1,233 +1,254 @@
-# Mozilla Accounts Privacy Notice
+# Mozilla Hesapları Gizlilik Bildirimi
 
-Effective February 10, 2026
-{: datetime="2026-02-10" }
+Son güncelleme: 10 Ağustos 2026 Pazartesi
+{: datetime="2026-08-10" }
 
-## At Mozilla, we believe that privacy is fundamental to a healthy internet
+## Mozilla'da gizliliğin sağlıklı bir internet deneyiminin temel ilkesi olduğuna inanırız
 
-That’s why we build our products, to give you greater control over the information you share online and the information you share with us. In this Privacy Notice, we explain what data we process, how we process it, and for what purposes. Then, we explain how you can exercise choices about how we process your information.
+Bu nedenle ürünlerimizi ve hizmetlerimizi, gerek çevrim içi olarak gerekse de bizimle paylaştığınız bilgiler üzerindeki kontrolünüzü arttıracak şekilde geliştiririz. Bu Gizlilik Bildiriminde, hangi verileri nasıl ve hangi amaçlarla işlediğimizi açıklıyoruz. Ardından, bilgilerinizi işleme şeklimizle ilgili seçeneklerinizi nasıl kullanabileceğinizi belirtiyoruz.
 
-## How Mozilla processes your data
+## Mozilla verilerinizi nasıl işliyor?
 
-### To provide you with your Mozilla account
+### Size Mozilla hesabınızı sağlamak
 
-Mozilla accounts allow you to access Mozilla services across devices with a single login. To enable this, Mozilla processes your account data, contact data (email address) and authorization data. You can also choose to provide additional content data, such as a display name or profile image.
+Mozilla hesapları, bir kez oturum açarak farklı cihazlarda Mozilla hizmetlerine erişmenizi sağlar. Bu özelliği etkinleştirmek için, Mozilla hesap verilerinizi, iletişim verilerinizi (e-posta adresi) ve yetkilendirme verilerinizi işler. Dilerseniz görünen adınız veya profil resminiz gibi ek içerik verileri sağlamayı da seçebilirsiniz.
 
-Mozilla also collects [certain data](#bookmark-how-we-use-data), like technical and settings data, to provide the core functionality of Mozilla accounts and its connected services, connect new devices, remember and respect your settings, and provide you with default features such as sync and our built-in VPN.
+Mozilla ayrıca Mozilla hesaplarının ve bağlı hizmetlerinin temel işlevlerini sağlamak, yeni cihazları bağlamak, ayarlarınızı hatırlamak ve bunlara saygı göstermek ve eşitleme, yerleşik VPN'imiz ve Bağlantı koleksiyonlarımız gibi özellikleri sizlere sağlamak amacıyla, teknik veriler ve ayar verileri gibi [belirli verileri](#bookmark-how-we-use-data) de toplar.
 
-If you enable sync, Mozilla receives the information that you sync across devices in encrypted form; this may include Firefox tabs, add-ons, passwords, form autofill information, bookmarks, history, and preferences. This encryption is end-to-end: your data is encrypted before it ever leaves your browser and can only be decrypted by another sync client with the encryption keys; Mozilla cannot decrypt this information.
+Senkronizasyonu etkinleştirmeniz durumunda Mozilla cihazlar genelinde eşitlediğiniz bilgileri şifrelenmiş bir şekilde alır. Bu bilgiler Firefox sekmelerini, eklentileri, parolaları, form otomatik doldurma bilgilerini, yer imlerini, geçmişi ve tercihleri içerebilir. Bu şifreleme uçtan uca yapılır. Yani eşitlenen verileriniz tarayıcınızdan ayrılmadan önce şifrelenir ve yalnızca şifreleme anahtarları olan başka bir eşitleme işlemcisi tarafından çözülebilir. Mozilla bu bilgileri çözemez.
 
-When you subscribe to services that require a paid subscription, your payment will be processed in accordance with the [Mozilla Subscription Services Privacy Notice](https://www.mozilla.org/privacy/subscription-services/). Mozilla hesabınızın (fatura adresiniz ve ödeme yönteminizin son dört hanesi de dahil olmak üzere) ve hesabınızın abonelik durumu kaydeder. Mozilla ödeme bilgilerinizin tamamını saklamaz.
+Ücretli abonelik gerektiren hizmetlere abone olduğunuzda ödemeniz [Mozilla Aboneliği Hizmetleri Gizlilik Bildirimi](https://www.mozilla.org/privacy/subscription-services/)'ne uygun olarak işlenir. Mozilla hesabınızın (fatura adresiniz ve ödeme yönteminizin son dört hanesi de dahil olmak üzere) ve hesabınızın abonelik durumu kaydeder. Mozilla ödeme bilgilerinizin tamamını saklamaz.
 
-*More details, including how to adjust your data settings:* You can learn more about how to [manage your Mozilla account](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [how to enable sync](https://support.mozilla.org/kb/sync-firefox-desktop), more details on [how sync works](https://support.mozilla.org/kb/sync) and more details on the [data](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) we collect for accounts.
+*Veri ayarlarınızı nasıl değiştirebileceğiniz de dahil olmak üzere daha fazla bilgi:* [Mozilla hesabınızı nasıl yöneteceğiniz](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [eşitlememeyi nasıl etkinleştireceğiniz](https://support.mozilla.org/kb/sync-firefox-desktop), [eşitlemenin nasıl çalıştığı](https://support.mozilla.org/kb/sync) ve hesaplar için topladığımız [veriler](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) hakkında daha fazla bilgi edinebilirsiniz.
 
-### To provide and improve Mozilla accounts and connected services
+### Mozilla hesaplarını ve bağlı hizmetleri sağlamak ve iyileştirmek
 
-We also need to process data to keep Mozilla accounts operational, improve features and performance, and identify, troubleshoot and diagnose issues. For this we use technical, location and settings data, as well as interaction and system performance data.
+Mozilla hesaplarını çalışır durumda tutmak, özellikleri ve performansı iyileştirmek ve sorunları tespit edip gidermek ve tanılamak için de verileri işlemeye ihtiyaç duyarız. Bu amaç doğrultusunda, etkileşim ve sistem performansı verilerinin yanı sıra konum ve ayar verilerini ve teknik verileri kullanırız.
 
-We process technical and interaction data to better understand how you engage with our services, such as your visits to the [Mozilla accounts website](https://accounts.firefox.com/) or our [help pages](https://support.mozilla.org/), dashboards and menu preferences, what products and services you use in connection with your Mozilla account (including your use of Firefox, such as how often you use Firefox and when you last synced your data), what devices you’ve used to engage with us and your interactions with our emails and SMS messages. This allows us to understand how people access and use our services, which helps improve our business and the functionality of our services.
+Teknik verileri ve iletişim verilerini bu konuları daha iyi anlamak için işleriz: [Mozilla hesapları web sitesine](https://accounts.firefox.com/) veya [yardım sayfalarımıza](https://support.mozilla.org/), panolarımıza ve menü tercihlerine yaptığınız ziyaretler gibi, hizmetlerimizle etkileşim kurma şekliniz; Mozilla hesabınızla bağlantılı olarak hangi ürünleri, hizmetleri ve özellikleri kullandığınız (Firefox'u ne sıklıkla kullandığınız ve verilerinizi en son ne zaman eşitlediğiniz gibi Firefox kullanımınız dahil); bizimle etkileşimde bulunmak için hangi cihazları kullandığınız ve mesajlarımızla etkileşimleriniz. Bu verileri işlemek insanların hizmetlerimize nasıl eriştiğini ve bunları nasıl kullandığını anlamamızı sağlayarak işimizi ve hizmetlerimizin işlevlerini geliştirmeye yardımcı olur.
 
-When you use connected services, your data will be processed in accordance with the relevant service’s privacy notice:
+Bağlı hizmetleri kullandığınızda verileriniz ilgili hizmetin gizlilik bildirimine uygun olarak işlenecektir:
 
 * [Firefox Browser](https://www.mozilla.org/privacy/firefox/)
 * [Smart Window](https://www.mozilla.org/privacy/smart-window/)
-* [Mozilla Subscription Services](https://www.mozilla.org/privacy/subscription-services/) for Mozilla VPN, Mozilla Monitor, and Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
+* Mozilla VPN, Mozilla Monitor ve Firefox Relay'e yönelik [Mozilla Abonelik Hizmetleri](https://www.mozilla.org/privacy/subscription-services/)
 
-If a Mozilla account connected service experiences an unexpected issue (for example, a crash) we use a third-party service to collect technical and interaction data such as error messages, device information and application state at the time of the crash, in order to help us diagnose and fix issues in our services.
+Mozilla hesabına bağlı bir hizmetin beklenmedik bir sorunla karşılaşması durumunda (örneğin çökme) hizmetlerimizdeki sorunları tanılamak ve düzeltmek amacıyla hata mesajları, cihaz bilgileri ve çökme anındaki uygulama durumu gibi teknik verileri ve etkileşim verilerini toplamak için üçüncü taraf hizmet kullanırız.
 
-*More details, including how to adjust your data settings:* You can update your [Mozilla accounts data collection settings](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) at any time. Please see the relevant notice for your data settings in relation to any connected services.
+*Veri ayarlarınızı nasıl değiştirebileceğiniz de dahil olmak üzere daha fazla bilgi:* [Mozilla hesaplarınızın veri toplama ayarlarını](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) dilediğiniz zaman güncelleyebilirsiniz. Lütfen bağlı tüm hizmetlere ilişkin veri ayarlarınız için ilgili bildirime bakın.
 
-### To provide and improve security
+### Firefox Bağlantı koleksiyonlarını sağlamak amacıyla
 
-Mozilla uses technical and interaction data to help secure access to Mozilla accounts, enable transfer of encrypted data for sync and detect suspicious activity. Mozilla also uses a third-party Web Application Firewall to improve protection against web-application and [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) attacks. All data stored on Mozilla servers is encrypted.
+Firefox Bağlantı koleksiyonları özelliği de hesap gerektirir. Bağlantı koleksiyonları oluşturmayı seçmeniz durumunda özelliği sağlamak ve [Hizmet Koşullarımızı](https://www.mozilla.org/about/legal/terms/services/) uygulamak için, paylaşmayı seçtiğiniz bağlantılar ve ilişkili meta verilerle ilgili verileri işleriz.
 
-### To pseudonymize, de-identify, aggregate or anonymize data
+### Güvenliği sağlamak ve iyileştirmek
 
-As part of the activities outlined above, such as understanding usage of Mozilla accounts and measuring our marketing, we may create pseudonymous, de-identified, aggregated or anonymized data. In some cases, we may share or publish aggregated and anonymized data to facilitate research or as part of the lawful business purposes outlined above.
+Mozilla; Mozilla hesaplarına erişimin güvenliğini sağlamaya yardımcı olmak, eşitleme için şifreli verilerin aktarılmasını sağlamak ve şüpheli aktiviteleri tespit etmek için teknik verileri ve etkileşim verilerini kullanır. Mozilla ayrıca web uygulaması ve [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) saldırılarına karşı korumayı iyileştirmek üzere bir üçüncü taraf Web Uygulaması Güvenlik Duvarı'ndan yararlanır. Mozilla sunucularında saklanan tüm veriler şifrelidir.
 
-### To communicate with you, including when marketing our services
+### Verileri toplu hale getirmek, isimsizleştirmek, kimliksizleştirmek veya verilere takma ad vermek
 
-We use your contact data to communicate with you. We may contact you for reasons such as to alert you if we detect suspicious activity on your account, to verify changes to your account information, to send you marketing-related communications or to respond to customer support communications, and we may use third-party service providers to manage our communications with you. We also process interaction data related to these communications to better understand who has received them.
+Mozilla hesaplarının kullanımını anlama ve pazarlama çalışmalarımızı ölçme gibi bu bildirimde özetlenen faaliyetlerin bir parçası olarak, toplu hale getirilmiş, isimsizleştirilmiş, kimliksizleştirilmiş veya takma ad verilmiş veriler oluşturabiliriz. Bazı durumlarda, araştırmaları kolaylaştırmak amacıyla veya diğer meşru iş amaçlarının bir parçası olarak, toplu hale getirilmiş ve isimsizleştirilmiş veriler paylaşabilir veya yayınlayabiliriz.
 
-### To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity
+### Hizmetlerimizi pazarladığımız zamanlar da dahil olmak üzere sizinle iletişim kurmak
 
-We may also be required to process your personal data to comply with applicable laws and data protection purposes, such as:
+İletişim verilerinizi sizinle iletişim kurmak için kullanırız. Hesabınızda şüpheli aktiviteler tespit ettiğimizde sizi uyarmak, hesabınızda yapılan değişiklikleri doğrulamak, pazarlamayla ilgili mesajlar göndermek veya müşteri desteği mesajlarına yanıt vermek gibi nedenlerle sizinle iletişime geçebiliriz ve sizinle iletişimlerimizi yönetmek için üçüncü taraf hizmet sağlayıcıları kullanabiliriz. Ayrıca mesajlarımızı kimlerin aldığını daha iyi anlamak ve bunları sizinle daha ve size daha faydalı hale getirmek için bu mesajlarla ilgili etkileşim verilerini işleriz.
 
-* Responding to [lawful requests](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) and complying with [legal processes](https://www.mozilla.org/about/policy/transparency/), such as responding to subpoenas, investigations, or requests from government authorities. Mozilla requires a valid Legal Process to compel the disclosure of Specific User data to a government.
-* Responding to requests to exercise privacy rights, such as your right to access or delete your personal data.
-* Identifying, investigating and addressing potential fraudulent activities, or other harmful activities such as illegal activities, cyberattacks or intellectual property infringement (including filing or defending legal claims).
-* Performing content moderation and related trust and safety activities.
-* Performing internal compliance and security activities, such as audits and enterprise security management.
+### İlgili yasalara uyum sağlamak ve zararlı, yetkisiz veya yasa dışı faaliyetleri tespit edip önlemek
 
-## How we share your personal data
+İlgili yasalara uymak amacıyla veya veri koruma amaçları doğrultusunda kişisel verilerinizi işlememiz gerekebilir. Bu amaçlardan bazıları şunlardır:
 
-To provide our services as described above, we may disclose personal data to:
+* Mahkeme celplerine, soruşturmalarına veya yetkili makamların taleplerine yanıt vermek gibi [meşru taleplere](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yanıt vermek ve [hukuki süreçlere](https://www.mozilla.org/about/policy/transparency/) uyum sağlamak. Mozilla, Belirli Kullanıcı verilerinin devlete ifşa edilmesinin zorunlu kılınabilmesi için geçerli bir Yasal Süreç şartı arar.
+* Kişisel verilerinize erişme veya bu verilerinizi silme hakkınız gibi gizlilik haklarını kullanma taleplerine yanıt vermek.
+* Olası dolandırıcılık faaliyetlerini veya yasa dışı eylemler, siber saldırılar veya fikri mülkiyet hakkının ihlal edilmesi gibi diğer zararlı faaliyetleri tespit etmek, araştırmak ve bunlara müdahale etmek (hukuki taleplerde bulunmak veya bunlara karşı savunma yapmak dahil).
+* İçerik moderasyonu faaliyetleri ve ilgili güven ve güvenlik faaliyetleri gerçekleştirmek.
+* Denetlemeler ve kurumsal güvenlik yönetimi gibi kurum içi uyumluluk ve güvenlik faaliyetleri gerçekleştirmek.
+
+## Kişisel verilerinizi nasıl paylaşırız?
+
+Hizmetlerimizi yukarıda açıklandığı şekilde sağlamak amacıyla kişisel verilerinizi aşağıdaki taraflara ifşa edebiliriz:
 
 |  |  |
 | ----- | ----- |
-| Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions. [Daha fazla bilgi alın](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Authorities  | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity.  |
-| Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
-| Mozilla controlled entities and successors  | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
+| İş ortakları, hizmet sağlayıcılar, tedarikçiler ve yükleniciler | Yukarıda sıralanan amaçları yerine getirmek için iş ortakları, hizmet sağlayıcılar, tedarikçiler ve yüklenicilerle çalışırız. Kişisel verileri alan kuruluşların, verileri Mozilla'nın talimatları doğrultusunda işlemekle sözleşme kapsamında yükümlü olmasını sağlayan sözleşmesel korumalara sahibiz. [Daha fazla bilgi alın](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
+| Yetkili Makamlar  | Mozilla, belirli kullanıcı verilerinin devlete ifşa edilmesinin zorunlu kılınabilmesi için geçerli bir [Yasal Süreç](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) şartı arar. Bu tür durumlarda, ilgili yasalara uymak ve zararlı, yetkisiz veya yasa dışı faaliyetleri tespit etmek ve bunları önlemek amacıyla, bu Bildirimde öngörülen kişisel verileri kolluk güçlerine, devlet makamlarına veya benzer kurumlara ifşa etmemiz gerekebilir.  |
+| Araştırmacılar | Açıklık ilkesine dayanan [misyonumuzu](https://www.mozilla.org/about/manifesto/) yerine getirirken, ürünlerimizi geliştirmek ve açık bir web ortamını desteklemek amacıyla zaman zaman bilgi paylaşırız; ancak bunu yaptığımızda, söz konusu paylaşımı kimliksizleştirilmiş veya toplu hale getirilmiş veri [biçiminde](https://wiki.mozilla.org/Data_Publishing) gerçekleştiririz. |
+| Mozilla tarafından kontrol edilen kuruluşlar ve halefler  | Küresel bir şirket olarak, Mozilla tarafından kontrol edilen bağlı kuruluşlar ve iştiraklerle veri paylaşımında bulunuruz. Ayrıca birleşme, satın alma, varlık satışı gibi kurumsal işlemler veya benzer işlemlerin bir parçası olarak kişisel verileri ifşa etmemiz gerekebilir. |
 
-## International transfers of data
+## Uluslararası veri aktarımları
 
-Mozilla Corporation (and our servers) are based in the United States. Because we are a global company, in order to provide the services outlined in this Privacy Notice, the information we collect may be accessed from locations where our people are located and may also be transferred to other jurisdictions as a result of sharing data with our partners. Whenever data is transferred across international borders, we ensure we have appropriate mechanisms in place (such as [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) approved by the European Commission and other relevant authorities) to protect your personal data. You can contact [dpo@mozilla.com](mailto:dpo@mozilla.com) for information on the safeguards implemented for international transfers, or for copies of the relevant standard contractual clauses.
+Mozilla Corporation (ve sunucularımız) Amerika Birleşik Devletleri'nde bulunmaktadır. Küresel bir şirket olmamız nedeniyle, bu Gizlilik Bildiriminde özetlenen hizmetleri sağlayabilmemiz için, topladığımız bilgilere çalışanlarımızın bulunduğu konumlardan erişilmesi ve ayrıca iş ortaklarımızla veri paylaşımının bir sonucu olarak bu bilgilerin diğer yargı bölgelerine aktarılması gerekebilir. Verilerin uluslararası sınırlar arasında aktarıldığı tüm durumlarda, kişisel verileri korumak için uygun mekanizmaları (Avrupa Komisyonu ve diğer ilgili yetkili makamlar tarafından onaylanmış [standart sözleşme maddeleri](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) gibi) hayata geçirdiğimizden emin oluruz. Uluslararası aktarımlar için uygulanan önlemler hakkında bilgi almak veya ilgili standart sözleşme maddelerinin nüshaları için [dpo@mozilla.com](mailto:dpo@mozilla.com) adresiyle iletişime geçebilirsiniz.
 
-## How long we keep your data
+## Verilerinizi ne kadar süreyle saklarız?
 
-We only retain your personal data for as long as necessary to fulfill the purposes outlined in this Privacy Notice. In general, your account data is retained for as long as your account is active. You should note that Mozilla [periodically deletes](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) accounts that have not been signed in for more than two years (we’ll attempt to send you a reminder prior to taking this action).
+Kişisel verilerinizi yalnızca bu Gizlilik Bildirisinde özetlenen amaçları yerine getirmek için gerekli olan süre boyunca saklarız. Genel olarak, hesabınız etkin olduğu sürece hesap verileriniz saklanır. Mozilla'nın iki yıldan uzun bir süre giriş yapmamış hesapları [periyodik olarak sildiğini](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) unutmayın (bu eyleme gerçekleştirmeden önce size hatırlatma göndermek için makul çabayı göstereceğiz).
 
-With regard to the technical, settings and interaction data we collect, we generally maintain this data for up to 25 months, but actual retention periods may vary depending on the type of data and the purpose(s) for which it was collected (for example, we retain your “first opened” date of your account, so we know how long you’ve been a Mozilla account holder). Specific retention periods may also depend on the sensitivity of the data, the context of its collection, your settings and preferences, and our legal or contractual obligations to retain or delete your data, such as for fraud prevention, regulatory compliance, or service continuity. Once the retention period expires we securely delete your data, unless otherwise required by law.
+Topladığımız teknik veriler, ayar verileri ve etkileşim verileriyle ilgili olarak, genellikle bu verileri 25 ayla sınırlı olmak üzere elimizde tutarız, ancak gerçek saklama süreleri verilerin türüne ve toplanma amacına bğalı olarak değişiklik gösterebilir (örneğin, hesabınızın "ilk açılma" tarihi verisini tutarız ve böylece ne kadar süredir Mozilla hesap sahibi olduğunuzu biliriz). Belirli saklama süreleri; verilerinizin hassaslığına, toplandıkları koşullara, ayar ve tercihlerinize ve verilerinizi saklamaya ya da silmeye ilişkin yasal veya sözleşmesel yükümlülüklerimize (örneğin; dolandırıcılığı önleme, mevzuata uyumluluk veya hizmet devamlılığı gibi nedenlerle) göre de değişebilir. Saklama süresi sona erdiğinde, yasada aksi zorunlu kılınmadığı sürece verilerinizi güvenli biçimde sileriz.
 
-Our services also use encrypted backup storage as another layer of protection to help recover from potential disasters; data in these environments is put beyond use and only processed for business continuity purposes. We may also retain data for extended periods of time on a de-identified or aggregated basis.
+Bir bağlantıyı veya bağlantı koleksiyonunu Firefox Bağlantı koleksiyonlarından silmeniz durumunda güvenliği ve kötüye kullanımı önleme amaçları doğrultusunda ilişkili verileri saklayabiliriz. [Hizmet Koşullarımızı](https://www.mozilla.org/about/legal/terms/services/) ihlal ettiği tespit edilen içerikler, gelecekteki kötüye kullanımları önlememize ve değerlendirmemize olanak sağlamaları için süresiz olarak saklanabilir.
 
-## Your rights and choices
+Hizmetlerimiz olası felaketlerden kurtulmaya yardımcı olacak ek bir koruma katmanı olarak şifreli yedek depolama da kullanır. Bu ortamlardaki veriler kullanım dışı bırakılır ve yalnızca iş sürekliliği amacıyla işlenir. Ayrıca verileri, kimliksizleştirilmiş veya toplu hale getirilmiş biçimde daha uzun süreler boyunca saklayabiliriz.
 
-### Your rights
+## Haklarınız ve tercihleriniz
 
-You have the right to:
+### Haklarınız
 
-1. Be informed about what data we process about you, why and who it’s shared with (that’s this Notice!)
-2. Request a copy of the data we have about you
-3. Request portability of your data
-4. Request correction of any data we hold about you that is inaccurate or incomplete
-5. Have personal data we hold about you deleted (in certain circumstances)
-6. In some cases, restrict or object to how we use your personal data
-7. Complain to your relevant data protection authority if you have concerns about how we’re handling your personal data. We’d prefer it if you contact us first (via [dpo@mozilla.com](mailto:dpo@mozilla.com)), but you can also reach out to your relevant [EU data protection authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), or search for (and contact) your local data protection authority
+Aşağıdakileri yapma hakkına sahip olursunuz:
 
-To make any of the above requests regarding your personal data, please contact us (Mozilla Corporation) through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); we will never discriminate against anyone for exercising their privacy rights. If you have any other questions regarding personal data or our privacy practices, please contact us at [compliance@mozilla.com](mailto:compliance@mozilla.com).
+1. Hakkınızda hangi verileri, neden işlediğimiz ve bu verilerin kimlerle paylaşıldığı konusunda bilgilendirilme (aynı bu Bildirimde yaptığımız gibi)
+2. Sizin hakkınızda elimizde bulundurduğumuz verilerin bir nüshasını talep etme
+3. Verilerinizin taşınabilirliğini talep etme
+4. Sizin hakkınızda elimizde bulundurduğumuz, doğru olmayan veya eksik her türlü verinin düzeltilmesini talep etme
+5. Sizin hakkınızda elimizde bulundurduğumuz verileri sildirme (belirli koşullarda)
+6. Bazı durumlarda, kişisel verilerinizi kullanma şeklimizi kısıtlama veya kullanma şeklimize itiraz etme
+7. Kişisel verilerinizi işleme şeklimizle ilgili endişeleriniz olması halinde ilgili veri koruma makamına şikâyette bulunma. İlk olarak bizimle iletişime geçmenizi ([dpo@mozilla.com](mailto:dpo@mozilla.com)) aracılığıyla tercih ederiz ancak ilgili [AB veri koruma makamınıza](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en) da ulaşabilir veya yerel veri koruma makamınızı arayabilirsiniz (ve bu makamla iletişime geçebilirsiniz).
 
-If you’re in the UK or EEA, you can also contact our Data Protection Officer at [dpo@mozilla.com](mailto:dpo@mozilla.com), or by mail at:
+Kişisel verilerinizle ilgili yukarıdaki taleplerden herhangi birini iletmek için lütfen [Veri Sahibi Erişim Talebi Portalı](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) aracılığıyla bizimle (Mozilla Corporation) iletişime geçin; gizlilik haklarını kullandığı için hiç kimseye ayrımcılık yapmayız. Kişisel verilerinizle veya gizlilik uygulamalarımızla ilgili başka sorularınız olması halinde lütfen [compliance@mozilla.com](mailto:compliance@mozilla.com) adresinden bize ulaşın.
+
+Birleşik Krallık'ta veya AEA'da bulunuyorsanız [dpo@mozilla.com](mailto:dpo@mozilla.com) adresinden veya aşağıdaki adrese posta göndererek de bize ulaşabilirsiniz:
 
 Bird & Bird DPO Services SRL<br>
 Avenue Louise 235 b 1<br>
 1050 Brussels<br>
 Belgium<br>
 
-We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws, and we may need to ask you for additional information to confirm your identity before we can proceed with your request.
+İlgili veri koruma yasalarına uygun olarak veri koruma haklarını kullanma isteyen kişilerden aldığımız tüm taleplere yanıt veririz ve talebinizi işleme alabilmek için kimliğinizi doğrulamak üzere ek bilgiler paylaşmanızı isteyebiliriz.
 
-### Your choices
+### Tercihleriniz
 
-You can update your [Mozilla account settings](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) at any time.
+[Mozilla hesabı ayarlarınızı](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) dilediğiniz zaman güncelleyebilirsiniz.
 
-## Changes
+## Değişiklikler
 
-We may need to change this policy and our notices, in which case the updates will be posted online, we will update the effective date of this notice and announce the update more prominently through Mozilla's usual channels for such announcements, such as blog posts and forums.
+Bu politikayı ve bildirimlerimizi değiştirmemiz gerekebilir. Bu durumda, güncellemeler çevrim içi olarak yayınlanacaktır, bu bildirimin yürürlük tarihini güncelleyeceğiz ve güncellemeyi, blog gönderileri ve forumlar gibi Mozilla'nın söz konusu duyurulara yönelik olağan kanalları üzerinden daha görünür olacak şekilde duyurabiliriz.
 
-## Data definitions
+## Veri tanımları
 
-| Data Type | Description | Examples for Mozilla account users |
+| Veri Türü | Açıklama | Mozilla hesap kullanıcısı örnekleri |
 | ----- | ----- | ----- |
-| Account data | This is data related to the management of your Mozilla account, such as registration information.  | Account username, display name, Mozilla account ID.  |
-| Authentication data | We receive data to secure your accounts, and also create authentication-related data to maintain your account security.  | Password hash, tokenData. |
-| Contact data | The email address you provide as part of your account registration, in addition to any other contact data you may choose to provide to us.  | Email address, secondary email address, phone number. |
-| Interaction data | This is data about how you engage with our services. | Click counts, event logs, usage data.  |
-| Language preference | Your inferred or preferred language (if you provide it in settings) for interacting with our services. | Language.  |
-| Location | We infer your location from your IP address at the level of your country, city, or region. | Country code, city.  |
-| Settings | These are your preferences or settings as to how the services are provided, such as your privacy preferences. If you have not made any specific choices, these will be the default settings.  | Privacy settings, account settings.  |
-| System performance data | This is data about how the services are operating on your device.  | Timestamps, submission success/failure.  |
-| Technical data | This is information about the hardware you are accessing our services from (such as your desktop computer, smartphone or tablet), its configurations and connections.  | Device operating system, browser and version, timestamp, locale. |
-| Unique identifiers  | These are unique identifiers, which may be created at various times to manage your interactions with the service.  | Accounts_id, session_id.  |
+| Hesap verileri | Bunlar, bilgi kaydı gibi Mozilla hesabınızın yönetimiyle ilgili verilerdir.  | Hesap kullanıcı adı, görünen ad, Mozilla hesap kimliği.  |
+| Kimlik doğrulama verileri | Hesaplarınızı güvence altına almak için veriler alırız ve ayrıca hesap güvenliğinizi sürdürmek için kimlik doğrulamayla ilgili veriler oluştururuz.  | Parola hash'i, tokenData. |
+| İletişim verileri | Bizimle paylaşmayı seçtiğiniz başka her türlü iletişim verisine ek olarak, hesap kaydınızın bir parçası olarak girdiğiniz e-posta adresidir.  | E-posta adresi, ikincil e-posta adresi, telefon numarası. |
+| Etkileşim verileri | Hizmetlerimizle etkileşim kurma şeklimizle ilgili verilerdir. | Sayılar, etkinlik günlükleri, kullanım verileri.  |
+| Dil tercihi | Hizmetlerimizle etkileşimde bulunmak için çıkarımda bulunulan veya tercih edilen (ayarlar bölümünde belirtirseniz) dilinizdir. | Dil.  |
+| Konum | IP adresinizi kullanarak ülke, şehir veya bölge düzeyinde konumunuza dair çıkarımlarda bulunuruz. | Ülke kodu, şehir.  |
+| Ayarlar | Bunlar gizlilik tercihleriniz gibi hizmetlerin sağlanma şekline ilişkin tercihleriniz veya ayarlarınızdır. Herhangi bir özel tercih yapmamanız durumunda bunlar varsayılan ayarlarınız olur.  | Gizlilik ayarları, hesap ayarları.  |
+| Sistem performansı verileri | Bunlar, hizmetlerin cihazınızda çalıştırılma şekline ilişkin verilerdir.  | Zaman damgaları, gönderim başarısı/hatası.  |
+| Teknik veriler | Bunlar, hizmetlerimize eriştiğiniz donanımlar (masaüstü bilgisayarınız, akıllı telefon veya tablet gibi) hizmetlerimize eriştiğiniz donanımlar, yapılandırmaları ve bağlantıları hakkındaki bilgilerdir.  | Cihaz işletim sistemi, tarayıcı ve sürümü, zaman damgası, dil. |
+| Benzersiz tanımlayıcılar  | Bunlar, hizmetle etkileşimlerinizi yönetmek için muhtelif zamanlarda oluşturulabilen benzersiz tanımlayıcılardır.  | Accounts_id, session_id.  |
 
-## Lawful bases
+## Yasal dayanaklar
 
 <table>
   <thead>
     <tr>
-      <th>What we use your data for</th>
-      <th>What data we process</th>
-      <th>Our lawful basis</th>
+      <th>Verilerinizi hangi amaçla kullandığımız</th>
+      <th>Hangi verileri işlediğimiz</th>
+      <th>Yasal dayanaklarımız</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a id="bookmark-how-we-use-data"></a>To provide you with your Mozilla account</td>
+      <td><a id="bookmark-how-we-use-data"></a>Size Mozilla hesabınızı sağlamak</td>
       <td>
         <ul>
-          <li>Technical data</li>
-          <li>Unique identifiers</li>
-          <li>System performance</li>
-          <li>Authorization data</li>
-          <li>Content data</li>
-          <li>Contact data</li>
+          <li>Teknik veriler</li>
+          <li>Benzersiz tanımlayıcılar</li>
+          <li>Sistem performansı</li>
+          <li>Yetkilendirme verileri</li>
+          <li>İçerik verileri</li>
+          <li>İletişim verileri</li>
         </ul>
       </td>
       <td>
-        <p><strong>Contract</strong> to provide you with the necessary functionality for Mozilla accounts to operate.</p>
-        <p><strong>Legitimate interest</strong> in providing additional functionality, such as the use of optional avatars and display names.</p>
+        <p>Mozilla hesaplarının çalışması için gereken işlevleri size sunmak amacıyla yapılan <strong>sözleşme</strong>.</p>
+        <p>İsteğe bağlı avatarların ve görünen adların kullanılması gibi ek işlevlerin sağlanmasındaki <strong>meşru çıkar</strong>.</p>
       </td>
     </tr>
     <tr>
-      <td>To provide and improve Mozilla accounts and connected services</td>
+      <td>Mozilla hesaplarını ve bağlı hizmetleri sağlamak ve iyileştirmek</td>
       <td>
         <ul>
-          <li>Technical data</li>
-          <li>Location data</li>
-          <li>Settings data</li>
-          <li>Interaction data</li>
-          <li>Unique identifiers</li>
-          <li>System performance</li>
+          <li>Teknik veriler</li>
+          <li>Konum</li>
+          <li>Ayar verileri</li>
+          <li>Etkileşim verileri</li>
+          <li>Benzersiz tanımlayıcılar</li>
+          <li>Sistem performansı</li>
         </ul>
       </td>
       <td>
-        <p><strong>Contract</strong> to ensure Mozilla accounts remain operational.</p>
-        <p><strong>Legitimate interest</strong> in understanding how Mozilla accounts (and connected services) are used, and improving performance, features and stability.</p>
+        <p>Mozilla hesaplarının çalışmaya devam etmesini sağlayan <strong>sözleşme</strong>.</p>
+        <p>Mozilla hesaplarının (ve bağlı hizmetlerin) nasıl kullanıldığının anlaşılmasındaki ve performansın, özelliklerin ve istikrarın iyileştirilmesindeki <strong>meşru çıkar</strong>.</p>
       </td>
     </tr>
     <tr>
-      <td>To provide and improve security</td>
+      <td>Firefox Bağlantı koleksiyonları sağlamak</td>
       <td>
         <ul>
-          <li>Technical data</li>
-          <li>Location</li>
-          <li>Unique identifiers</li>
-          <li>Authorization data</li>
-          <li>Contact data</li>
+          <li>Hesap verileri</li>
+          <li>İletişim verileri</li>
+          <li>Etkileşim verileri</li>
+          <li>Teknik veriler</li>
+          <li>Benzersiz tanımlayıcılar</li>
+          <li>Konum</li>
         </ul>
       </td>
       <td>
-        <p><strong>Contract</strong> to provide a secure infrastructure to enable Mozilla accounts to operate.</p>
-        <p><strong>Legitimate interest</strong> in providing additional security measures, such as the ability to use 2-factor authentication.</p>
+        <p>Özelliği kullanmak ve Hizmet Koşullarımızı uygulamaya koymak için gerekli olan işlevleri size sağlamak için yapılan <strong>sözleşme</strong>.</p>
+        <p>Özelliğin nasıl kullandığının anlaşılmasındaki ve ürünün sürdürülüp iyileştirilmesindeki <strong>meşru çıkar</strong>.</p>
+      </td>
+    </tr>    
+    <tr>
+      <td>Güvenliği sağlamak ve iyileştirmek</td>
+      <td>
+        <ul>
+          <li>Teknik veriler</li>
+          <li>Konum</li>
+          <li>Benzersiz tanımlayıcılar</li>
+          <li>Yetkilendirme verileri</li>
+          <li>İletişim verileri</li>
+        </ul>
+      </td>
+      <td>
+        <p>Mozilla hesaplarının çalışmasını sağlamak üzere güvenli bir altyapı sağlamak için yapılan <strong>sözleşme</strong>.</p>
+        <p>İki faktörlü kimlik doğrulama kullanma olanağı gibi ek güvenlik önlemleri sağlanmasındaki <strong>meşru çıkar</strong>.</p>
       </td>
     </tr>
     <tr>
-      <td>To pseudonymize, de-identify, aggregate or anonymize data</td>
+      <td>Verileri toplu hale getirmek, isimsizleştirmek, kimliksizleştirmek veya verilere takma ad vermek</td>
       <td>
         <ul>
-          <li>All data types</li>
+          <li>Tüm veri türleri</li>
         </ul>
       </td>
       <td>
-        <strong>Legitimate interest</strong> in taking privacy-enhancing measures prior to performing analytics or sharing data with partners.
+        Analizler gerçekleştirmeden veya iş ortaklarıyla veri paylaşmadan önce alınan, gizliliği geliştirici önlemlerdeki <strong>meşru çıkar</strong>.
       </td>
     </tr>
     <tr>
-      <td>To communicate with you, including marketing our services</td>
+      <td>Hizmetlerimizi pazarlamamız dahil olmak üzere sizinle iletişim kurmak</td>
       <td>
         <ul>
-          <li>Contact information</li>
-          <li>Unique identifiers</li>
-          <li>Interaction data</li>
+          <li>İletişim bilgileri</li>
+          <li>Benzersiz tanımlayıcılar</li>
+          <li>Etkileşim verileri</li>
         </ul>
       </td>
       <td>
-        <p><strong>Legitimate interest</strong> in providing important account related updates and in promoting our products and services, including sending marketing communications and measuring and improving our marketing campaigns.</p>
-        <p><strong>Consent</strong>, where required under applicable law (e.g. jurisdictions which require consent to receive marketing communications).</p>
+        <p>Pazarlama mesajları göndermek ve pazarlama kampanyalarımızı ölçüp iyileştirmek dahil olmak üzere hesabınızla ilgili önemli güncellemeler gönderilmesindeki ve ürünlerimiz ile hizmetlerimizin tanıtılmasındaki <strong>meşru çıkar</strong>.</p>
+        <p>İlgili yasalar çerçevesinde zorunlu olduğu durumlarda (ör. pazarlama mesajları almak için onay verilmesini zorunlu kılan yargı bölgeleri) <strong>onay</strong>.</p>
       </td>
     </tr>
     <tr>
-      <td>To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity</td>
+      <td>İlgili yasalara uyum sağlamak ve zararlı, yetkisiz veya yasa dışı faaliyetleri tespit edip önlemek</td>
       <td>
         <ul>
-          <li>All data types</li>
+          <li>Tüm veri türleri</li>
         </ul>
       </td>
       <td>
-        <p><strong>Compliance with law</strong> in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users’) rights, property and/or safety.</p>
-        <p><strong>Legitimate interest</strong>, where not strictly required by law, to support legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety.</p>
+        <p>Veri sahibi haklarına ilişkin taleplere yanıt verilmesine, kolluk kuvvetlerinin taleplerine yanıt verilmesinde, haklarımızın, mülklerimizin ve/veya güvenliğimizin (ve kullanıcılarımızın haklarının, mülklerinin ve güvenliğinin) yönetilmesi ve korunmasında <strong>yasalarla uyumluluk</strong>.</p>
+        <p>Yasalarca kati bir şekilde zorunlu kılınmadığı hallerde, yasal ve düzenleyici süreçleri veya talepleri destekleme amacıyla, dolandırıcılığın önlenmesindeki ve haklarımızın, mülklerimizin ve/veya güvenliğimizin (ve kullanıcılarımızın haklarının, mülklerinin ve güvenliğinin) yönetilmesi ve korunmasındaki <strong>meşru çıkar</strong>.</p>
       </td>
     </tr>
   </tbody>

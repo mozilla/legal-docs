@@ -1,11 +1,11 @@
 # Aviso de privacidad de cuentas de Mozilla
 
-Vigente desde el martes, 10 de febrero de 2026
-{: datetime="2026-02-10" }
+Última actualización: lunes, 10 de agosto de 2026
+{: datetime="2026-08-10" }
 
 ## En Mozilla, consideramos que la privacidad es fundamental para tener un Internet sano.
 
-Por esto creamos nuestros productos, para darle a usted mayor control sobre la información que comparte en línea y la información que comparte con nosotros. En este Aviso de privacidad, explicamos qué datos procesamos, cómo los procesamos y para qué fines. Luego, explicamos cómo usted puede ejercer opciones sobre cómo procesamos su información.
+Por esto creamos nuestros productos y servicios, para darle a usted mayor control sobre la información que comparte en línea y la información que comparte con nosotros. En este Aviso de privacidad, explicamos qué datos procesamos, cómo los procesamos y para qué fines. Luego, explicamos cómo usted puede ejercer opciones sobre cómo procesamos su información.
 
 ## Cómo Mozilla procesa sus datos
 
@@ -13,7 +13,7 @@ Por esto creamos nuestros productos, para darle a usted mayor control sobre la i
 
 Las cuentas de Mozilla le permiten acceder a varios dispositivos con un solo inicio de sesión. Para hacerlo posible, Mozilla procesa sus datos de la cuenta, datos de contacto (dirección de correo electrónico) y datos de autorización. Usted también puede optar por facilitar datos de contenido adicionales, como un nombre de visualización o imagen del perfil.
 
-Mozilla también recopila [ciertos datos](#bookmark-how-we-use-data), como datos técnicos y datos de configuración, para proporcionar la funcionalidad principal de las cuentas de Mozilla y los servicios conectados, conectar nuevos dispositivos, recordar y respetar sus configuraciones, y proporcionarle funciones predeterminadas como sincronización y nuestra VPN integrada.
+Mozilla también recopila [ciertos datos](#bookmark-how-we-use-data), como datos técnicos y datos de configuración, para proporcionar la funcionalidad principal de las cuentas de Mozilla y los servicios conectados, conectar nuevos dispositivos, recordar y respetar sus configuraciones, y proporcionarle funciones como sincronización, nuestra VPN integrada y colecciones de Link.
 
 Si usted activa la sincronización, Mozilla recibirá la información que usted sincroniza entre dispositivos de forma cifrada; esto puede incluir pestañas de Firefox, complementos, contraseñas, información de relleno automático, marcadores, historial y preferencias. Este cifrado es de extremo a extremo: sus datos se cifran antes de que salgan de su navegador y solo pueden ser descifrados por otro cliente de sincronización con las claves de cifrado; Mozilla no puede descifrar esta información.
 
@@ -25,19 +25,21 @@ Cuando usted se suscribe a servicios que requieren una suscripción de pago, su 
 
 También necesitamos procesar datos para mantener operativas las cuentas de Mozilla, mejorar las funciones y el rendimiento, e identificar, solucionar y diagnosticar problemas. Para hacerlo, usamos datos técnicos, de ubicación y de configuración, así como los datos de interacción y de rendimiento del sistema.
 
-Procesamos datos técnicos y de interacción para entender mejor de qué forma usted interactúa con nuestro servicios, como sus visitas al [sitio web de las cuentas de Mozilla](https://accounts.firefox.com/) o nuestras [páginas de soporte](https://support.mozilla.org/), preferencias de menú y panel, qué productos y servicios usted utiliza en relación con su cuenta de Mozilla (incluido su uso de Firefox, como la frecuencia con la que usa Firefox y cuándo sincronizó sus datos por última vez), qué dispositivos ha utilizado para interactuar con nosotros y sus interacciones con nuestros correos electrónicos y mensajes SMS. Esto nos permite entender cómo las personas acceden y usan nuestros servicios, lo que ayuda a mejorar nuestro negocio y la funcionalidad de nuestros servicios.
+Procesamos datos técnicos y de interacción para entender mejor de qué forma usted interactúa con nuestro servicios, como sus visitas al [sitio web de las cuentas de Mozilla](https://accounts.firefox.com/) o nuestras [páginas de soporte](https://support.mozilla.org/), preferencias de menú y panel, qué productos y servicios usted utiliza en relación con su cuenta de Mozilla (incluido su uso de Firefox, como la frecuencia con la que usa Firefox y cuándo sincronizó sus datos por última vez), qué dispositivos ha utilizado para interactuar con nosotros y sus interacciones con nuestras comunicaciones. Esto nos permite entender cómo las personas acceden y usan nuestros servicios, lo que ayuda a mejorar nuestro negocio y la funcionalidad de nuestros servicios.
 
 Al usar los servicios conectados, sus datos serán tratados de acuerdo con el aviso de privacidad del servicio correspondiente:
 
 * [Navegador Firefox](https://www.mozilla.org/privacy/firefox/)
 * [Smart Window](https://www.mozilla.org/privacy/smart-window/)
 * [Servicios de suscripción de Mozilla](https://www.mozilla.org/privacy/subscription-services/) para Mozilla VPN, Mozilla Monitor y Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 Si un servicio conectado a una cuenta de Mozilla experimenta un problema inesperado (por ejemplo, un fallo), utilizamos un servicio de terceros para recopilar datos técnicos y de interacción, como mensajes de error, información del dispositivo y estado de la aplicación en el momento del fallo, para ayudarnos a diagnosticar y solucionar problemas en nuestros servicios.
 
 *Más detalles, incluyendo cómo ajustar la configuración de sus datos:* Usted puede actualizar sus [ajustes de recopilación de datos de las cuentas de Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) en cualquier momento. Consulte el aviso correspondiente para la configuración de sus datos en relación con cualquier servicio conectado.
+
+### Para proporcionar colecciones de Link de Firefox
+
+La función de colecciones de Link de Firefox también requiere una cuenta. Si usted decide crear colecciones de Link, procesaremos datos sobre los enlaces y los metadatos relacionados que usted elija compartir para proporcionar la función y cumplir con nuestros [Términos de servicio](https://www.mozilla.org/about/legal/terms/services/).
 
 ### Para proporcionar y mejorar la seguridad
 
@@ -45,11 +47,11 @@ Mozilla utiliza datos técnicos y de interacción para ayudar a proteger el acce
 
 ### Para seudonimizar, desidentificar, agregar o anonimizar datos
 
-Como parte de las actividades descritas anteriormente, como comprender el uso de las cuentas de Mozilla y medir nuestro marketing, podemos crear datos seudonimizados, desidentificados, agregados o anonimizados. En algunos casos, podemos compartir o publicar datos agregados y anonimizados para facilitar la investigación o como parte de los fines comerciales legales descritos anteriormente.
+Como parte de las actividades descritas en este aviso, como comprender el uso de las cuentas de Mozilla y medir nuestro marketing, podemos crear datos seudonimizados, desidentificados, agregados o anonimizados. En algunos casos, podemos compartir o publicar datos agregados y anonimizados para facilitar la investigación o como parte de otros fines comerciales legales.
 
 ### Para comunicar con usted, incluso cuando promocionamos nuestros servicios
 
-Usamos sus datos de contacto para comunicar con usted. Podemos ponernos en contacto con usted por razones como por ejemplo para alertarle si detectamos actividad sospechosa en su cuenta, para verificar cambios en la información de su cuenta, para enviarle comunicaciones relacionadas con el marketing o para responder a comunicaciones de soporte al cliente, y podemos utilizar proveedores de servicios de terceros para gestionar nuestras comunicaciones con usted. También procesamos datos de interacción relacionados con estas comunicaciones para entender mejor quién los recibió.
+Usamos sus datos de contacto para comunicar con usted. Podemos ponernos en contacto con usted por razones como por ejemplo para alertarle si detectamos actividad sospechosa en su cuenta, para verificar cambios en la información de su cuenta, para enviarle comunicaciones relacionadas con el marketing o para responder a comunicaciones de soporte al cliente, y podemos utilizar proveedores de servicios de terceros para gestionar nuestras comunicaciones con usted. También procesamos datos de interacción relacionados con dichas comunicaciones para entender mejor quién las ha recibido, y para lograr que nuestras comunicaciones sean más relevantes y útiles para usted.
 
 ### Para cumplir con las leyes aplicables, e identificar y prevenir actividades dañinas, no autorizadas o ilegales
 
@@ -69,7 +71,7 @@ Para proporcionar nuestros servicios como se describe anteriormente, podemos div
 | ----- | ----- |
 | Socios, proveedores de servicios, proveedores y contratistas | Para realizar los fines enumerados anteriormente, trabajamos con socios, proveedores de servicios, proveedores y contratistas. Tenemos protecciones contractuales en vigor, de modo que las entidades que reciben datos personales están obligadas contractualmente a manejar los datos de acuerdo con las instrucciones de Mozilla. [Más información](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Autoridades  | Mozilla requiere un [proceso legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para obligar a revelar datos de usuarios específicos a un gobierno. En esos casos, es posible que tengamos que revelar los datos personales establecidos en este Aviso a las autoridades policiales, gubernamentales o entidades similares para cumplir con las leyes aplicables e identificar y prevenir actividades dañinas, no autorizadas o ilegales.  |
-| Investigadores | Cuando estamos cumpliendo nuestra [misión](https://www.mozilla.org/about/manifesto/) de ser abiertos. A veces, divulgamos información para mejorar nuestros productos y promover una web abierta, pero cuando lo hacemos, lo haremos en un [formato](https://wiki.mozilla.org/Data_Publishing) desidentificado o agregado. |
+| Investigadores | Al cumplir con nuestra [misión](https://www.mozilla.org/about/manifesto/) de transparencia, a veces divulgamos información para mejorar nuestros productos y promover una web abierta, pero cuando lo hacemos, usamos un [formato](https://wiki.mozilla.org/Data_Publishing) desidentificado o agregado. |
 | Entidades controladas por Mozilla y sus sucesores  | Como empresa global, compartimos datos con todas las filiales y subsidiarias controladas por Mozilla. También podemos necesitar revelar datos personales como parte de una transacción corporativa, como una fusión, adquisición, venta de activos o una transacción similar. |
 
 ## Transferencias internacionales de datos
@@ -78,9 +80,11 @@ Mozilla Corporation (y nuestros servidores) están ubicados en los Estados Unido
 
 ## Por cuánto tiempo conservamos sus datos
 
-Solo conservamos sus datos personales durante el tiempo necesario para cumplir los fines descritos en este Aviso de privacidad. En general, los datos de su cuenta se conservan durante el tiempo que su cuenta permanezca activa. Usted debe tener en cuenta que Mozilla [elimina periódicamente](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) las cuentas que no han iniciado sesión desde hace más de dos años (intentaremos enviarle un recordatorio antes de emprender esta acción). 
+Solo conservamos sus datos personales durante el tiempo necesario para cumplir los fines descritos en este Aviso de privacidad. En general, los datos de su cuenta se conservan durante el tiempo que su cuenta permanezca activa. Usted debe tener en cuenta que Mozilla [elimina periódicamente](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) las cuentas que no han iniciado sesión desde hace más de dos años (nos esforzaremos dentro de lo razonable para enviarle un recordatorio antes de emprender esta acción).
 
 Con respecto a los datos técnicos, de configuración y interacción que recopilamos, generalmente conservamos estos datos durante un máximo de 25 meses, pero los períodos de conservación reales pueden variar dependiendo del tipo de datos y el propósito o los propósitos para los que se recogieron (por ejemplo, conservamos la fecha de "primera apertura" de su cuenta, para saber cuánto tiempo lleva como titular de una cuenta de Mozilla). Los períodos de retención específicos también pueden depender del carácter sensible de los datos, el contexto de su recopilación, sus ajustes y preferencias, y nuestras obligaciones legales o contractuales para retener o eliminar sus datos, como por ejemplo, para la prevención del fraude, cumplimiento normativo o continuidad del servicio. Una vez que el período de retención expire, eliminaremos sus datos de forma segura, a menos que la ley exija lo contrario.
+
+Si usted elimina un enlace o una colección de enlaces de la colección de Link de Firefox, podríamos conservar datos asociados por razones de seguridad y prevención de abusos. Los contenidos que violan nuestros [Términos de servicio](https://www.mozilla.org/about/legal/terms/services/) podrían ser conservados indefinidamente, para permitirnos prevenir y evaluar abusos futuros.
 
 Nuestros servicios también utilizan el almacenamiento de copias de seguridad cifradas como otra capa de protección para ayudar a recuperarse de posibles desastres; los datos en estos entornos se ponen fuera de uso y solo se procesan con fines de continuidad del negocio. También podemos retener datos durante períodos prolongados de tiempo de forma agregada o desidentificada.
 
@@ -115,7 +119,7 @@ Usted puede actualizar los [ajustes de su cuenta de Mozilla ](https://support.mo
 
 ## Cambios
 
-Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo caso las actualizaciones se publicarán en línea, actualizaremos la fecha de vigencia de este aviso y anunciaremos la actualización de forma más prominente a través de los canales habituales de Mozilla para tales anuncios, como entradas de blogs y foros.
+Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo caso las actualizaciones se publicarán en línea, actualizaremos la fecha de vigencia de este aviso y podremos anunciar la actualización de forma más prominente a través de los canales habituales de Mozilla para tales anuncios, como entradas de blogs y foros.
 
 ## Definiciones de los datos
 
@@ -165,7 +169,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
       <td>
         <ul>
           <li>Datos técnicos</li>
-          <li>Datos de ubicación</li>
+          <li>Ubicación</li>
           <li>Datos de configuración</li>
           <li>Datos de interacción</li>
           <li>Identificadores únicos</li>
@@ -177,6 +181,23 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
         <p><strong>Interés legítimo</strong>en entender cómo se usan las cuentas de Mozilla (y los servicios conectados) y mejorar el rendimiento, las características y la estabilidad.</p>
       </td>
     </tr>
+    <tr>
+      <td>Para proporcionar colecciones de Link de Firefox</td>
+      <td>
+        <ul>
+          <li>Datos de la cuenta</li>
+          <li>Datos de contacto</li>
+          <li>Datos de interacción</li>
+          <li>Datos técnicos</li>
+          <li>Identificadores únicos</li>
+          <li>Ubicación</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Contrato</strong> para proporcionarle la funcionalidad necesaria para usar la función y para hacer cumplir nuestros Términos de uso.</p>
+        <p><strong>Legítimo interés</strong> en entender cómo se utiliza la función y mantener y mejorar el producto.</p>
+      </td>
+    </tr>    
     <tr>
       <td>Para proporcionar y mejorar la seguridad</td>
       <td>
