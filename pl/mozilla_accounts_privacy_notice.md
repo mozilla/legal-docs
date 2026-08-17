@@ -1,11 +1,11 @@
 # Zasady prywatności dotyczące kont Mozilla
 
-Data wejścia w życie: 10 lutego 2026 r.
-{: datetime="2026-02-10" }
+Ostatnia aktualizacja: 10 sierpnia 2026
+{: datetime="2026-08-10" }
 
 ## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego
 
-Dlatego właśnie tworzymy nasze produkty, aby zapewnić użytkownikom większą kontrolę nad informacjami, które udostępniają online, oraz informacjami, które są nam udostępniane. W niniejszej Zasadach prywatności wyjaśniamy, jakie dane przetwarzamy, w jaki sposób je przetwarzamy i w jakich celach. Następnie wyjaśniamy, w jaki sposób użytkownik może dokonać wyboru sposobu przetwarzania przez nas jego danych.
+Dlatego właśnie tworzymy nasze produkty i usługi, aby zapewnić użytkownikom większą kontrolę nad informacjami, które udostępniają online, oraz informacjami, które są nam udostępniane. W niniejszej Zasadach prywatności wyjaśniamy, jakie dane przetwarzamy, w jaki sposób je przetwarzamy i w jakich celach. Następnie wyjaśniamy, w jaki sposób użytkownik może dokonać wyboru sposobu przetwarzania przez nas jego danych.
 
 ## Jak Mozilla przetwarza dane użytkownika
 
@@ -13,9 +13,9 @@ Dlatego właśnie tworzymy nasze produkty, aby zapewnić użytkownikom większą
 
 Konta Mozilla umożliwiają dostęp do usług firmy Mozilla na różnych urządzeniach za pomocą jednego loginu. Aby to umożliwić, Mozilla przetwarza dane konta, dane kontaktowe (adres e-mail) i dane autoryzacyjne. Użytkownik może również podać w niektórych przypadkach dodatkowe dane dotyczące treści, takie jak nazwa wyświetlana lub zdjęcie profilowe.
 
-Mozilla gromadzi [pewne dane](#bookmark-how-we-use-data), takie jak dane techniczne i dane ustawień, aby zapewnić podstawową funkcjonalność kont Mozilla i powiązanych usług, łączyć nowe urządzenia, zapamiętywać i respektować ustawienia użytkownika oraz zapewniać domyślne funkcje, takie jak synchronizacja i wbudowana sieć VPN.
+Mozilla gromadzi [pewne dane](#bookmark-how-we-use-data), takie jak dane techniczne i dane ustawień, aby zapewnić podstawową funkcjonalność kont Mozilla i powiązanych usług, łączyć nowe urządzenia, zapamiętywać i respektować ustawienia użytkownika oraz zapewniać funkcje, takie jak synchronizacja, wbudowana sieć VPN i kolekcje kart.
 
-Po włączeniu synchronizacji Mozilla otrzymuje informacje synchronizowane między urządzeniami użytkownika w zaszyfrowanej formie; obejmuje to karty, dodatki, hasła, automatycznie uzupełniane dane formularzy, zakładki, historię i preferencje przeglądarki Firefox. To szyfrowanie jest kompleksowe: dane użytkownika są szyfrowane, zanim opuszczą przeglądarkę, i mogą być odszyfrowane wyłącznie przez innego klienta synchronizacji posiadającego klucze szyfrujące; Mozilla nie ma możliwości odszyfrowania tych informacji.
+Po włączeniu synchronizacji Mozilla otrzymuje informacje synchronizowane między urządzeniami użytkownika w zaszyfrowanej formie; obejmuje to karty, dodatki, hasła, automatycznie uzupełniane dane formularzy, zakładki, historię i preferencje przeglądarki Firefox. To szyfrowanie jest kompleksowe: zsynchronizowane dane użytkownika są szyfrowane, zanim opuszczą przeglądarkę, i mogą być odszyfrowane wyłącznie przez innego klienta synchronizacji posiadającego klucze szyfrujące; Mozilla nie ma możliwości odszyfrowania tych informacji.
 
 Kiedy użytkownik rozpocznie subskrypcję usług wymagających płatnej subskrypcji, jego płatność będzie przetwarzana zgodnie z [Zasadami prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services/). Mozilla otrzymuje dane dotyczące konta użytkownika (w tym jego adres rozliczeniowy i cztery ostatnie cyfry metody płatności) oraz status subskrypcji konta. Mozilla nie przechowuje pełnych danych dotyczących płatności.
 
@@ -25,19 +25,21 @@ Więcej szczegółów, w tym sposób dostosowania ustawień danych:* Możesz dow
 
 Musimy również przetwarzać dane, aby utrzymać działanie przeglądarki kont Mozilla, ulepszać funkcje i wydajność oraz identyfikować, rozwiązywać i diagnozować problemy. W tym celu wykorzystujemy dane techniczne, dane o lokalizacji i ustawieniach, a także dane dotyczące interakcji i wydajności systemu.
 
-Przetwarzamy dane techniczne i dane dotyczące interakcji, aby lepiej zrozumieć, w jaki sposób użytkownik korzysta z naszych usług, np. odwiedziny w [witrynie kont Mozilla](https://accounts.firefox.com/) lub na naszych [stronach pomocy](https://support.mozilla.org/), preferencje dotyczące paneli i menu, produkty i usługi, z których użytkownik korzysta w związku z kontem Mozilla (w tym korzystanie z przeglądarki Firefox, np. częstotliwość korzystania z przeglądarki Firefox i data ostatniej synchronizacji danych), urządzenia, z których użytkownik korzysta, aby nawiązać kontakt z nami, oraz interakcje użytkownika z naszymi wiadomościami e-mail i SMS. Pozwala nam to zrozumieć, w jaki sposób użytkownicy uzyskują dostęp do naszych usług i z nich korzystają, co pomaga nam ulepszać naszą działalność i funkcjonalność naszych usług.
+Przetwarzamy dane techniczne i dane dotyczące interakcji, aby lepiej zrozumieć, w jaki sposób użytkownik korzysta z naszych usług, np. odwiedziny w [witrynie kont Mozilla](https://accounts.firefox.com/) lub na naszych [stronach pomocy](https://support.mozilla.org/), preferencje dotyczące paneli i menu, produkty, usługi i funkcje, z których użytkownik korzysta w związku z kontem Mozilla (w tym korzystanie z przeglądarki Firefox, np. częstotliwość korzystania z przeglądarki Firefox i data ostatniej synchronizacji danych), urządzenia, z których użytkownik korzysta, aby nawiązać kontakt z nami, oraz interakcje użytkownika z naszą komunikacją. Pozwala nam to zrozumieć, w jaki sposób użytkownicy uzyskują dostęp do naszych usług i z nich korzystają, co pomaga nam ulepszać naszą działalność i funkcjonalność naszych usług.
 
 Podczas korzystania z powiązanych usług dane użytkownika będą przetwarzane zgodnie z zasadami prywatności danej usługi:
 
 * [Przeglądarka Firefox](https://www.mozilla.org/privacy/firefox/)
-* [Smart Window](https://www.mozilla.org/privacy/smart-window/)
+* [Inteligentne okno](https://www.mozilla.org/privacy/smart-window/)
 * [Usługi subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services/) dla usług Mozilla VPN, Mozilla Monitor i Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 Jeśli usługa powiązana z kontem Mozilla napotka nieoczekiwany problem (na przykład awarię), korzystamy z usług zewnętrznego dostawcy w celu zebrania danych technicznych i danych dotyczących interakcji, takich jak komunikaty o błędach, informacje o urządzeniu i stanie aplikacji w momencie awarii, aby pomóc nam zdiagnozować i naprawić problemy w naszych usługach.
 
 Więcej szczegółów, w tym sposób dostosowania ustawień danych:* [Ustawienia gromadzenia danych dotyczących kont Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) można zmienić w dowolnym momencie. Należy zapoznać się z odpowiednią informacją dotyczącą ustawień danych w odniesieniu do wszelkich powiązanych usług.
+
+### W celu obsługi kolekcji kart Firefox
+
+Funkcja kolekcji kart Firefox także wymaga konta. Jeśli użytkownik zdecyduje się utworzyć kolekcje kart, będziemy przetwarzać dane dotyczące kart oraz powiązanych metadanych, które użytkownik zdecyduje się udostępnić, w celu zapewnienia działania tej funkcji oraz egzekwowania naszych [Warunków korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/).
 
 ### Aby zapewniać i ulepszać bezpieczeństwo
 
@@ -45,11 +47,11 @@ Mozilla wykorzystuje dane techniczne i dane dotyczące interakcji, aby zapewnić
 
 ### Aby pseudonimizować, deidentyfikować, agregować lub anonimizować dane
 
-W ramach działań opisanych powyżej, takich jak zrozumienie korzystania z kont Mozilla i pomiar naszych działań marketingowych, możemy tworzyć dane pseudonimizowane, deidentyfikowane, zagregowane lub zanonimizowane. W niektórych przypadkach możemy udostępniać lub publikować zagregowane i zanonimizowane dane w celu ułatwienia badań lub w ramach zgodnych z prawem celów biznesowych opisanych powyżej.
+W ramach działań opisanych w niniejszych zasadach, takich jak zrozumienie korzystania z kont Mozilla i pomiar naszych działań marketingowych, możemy tworzyć dane pseudonimizowane, deidentyfikowane, zagregowane lub zanonimizowane. W niektórych przypadkach możemy udostępniać lub publikować zagregowane i zanonimizowane dane w celu ułatwienia badań lub w ramach innych zgodnych z prawem celów biznesowych.
 
 ### Aby komunikować się z użytkownikiem, w tym w zakresie marketingu naszych usług
 
-Wykorzystujemy dane kontaktowe użytkownika do komunikacji z nim. Możemy kontaktować się z użytkownikiem w takich celach, jak powiadomienie go o wykryciu podejrzanej aktywności na jego koncie, weryfikacja zmian w informacjach dotyczących konta, wysyłanie wiadomości marketingowych lub odpowiadanie na wiadomości kierowane do działu obsługi klienta. Do zarządzania komunikacją z użytkownikiem możemy korzystać z usług zewnętrznych dostawców. Przetwarzamy również dane dotyczące interakcji związane z tą komunikacją, aby lepiej zrozumieć, kto otrzymał nasze ogłoszenia związane z usługami.
+Wykorzystujemy dane kontaktowe użytkownika do komunikacji z nim. Możemy kontaktować się z użytkownikiem w takich celach, jak powiadomienie go o wykryciu podejrzanej aktywności na jego koncie, weryfikacja zmian w informacjach dotyczących konta, wysyłanie wiadomości marketingowych lub odpowiadanie na wiadomości kierowane do działu obsługi klienta. Do zarządzania komunikacją z użytkownikiem możemy korzystać z usług zewnętrznych dostawców. Przetwarzamy również dane dotyczące interakcji związane z tą komunikacją, aby lepiej zrozumieć, kto ją otrzymał, oraz aby nasza komunikacja była dla użytkownika bardziej trafna i przydatna.
 
 ### Aby przestrzegać obowiązujących przepisów prawa oraz identyfikować i zapobiegać szkodliwym, nieautoryzowanym lub nielegalnym działaniom
 
@@ -69,7 +71,7 @@ Aby świadczyć nasze usługi opisane powyżej, możemy ujawniać dane osobowe:
 | ----- | ----- |
 | Partnerzy, dostawcy usług, dostawcy i wykonawcy | Aby realizować cele wymienione powyżej, współpracujemy z partnerami, usługodawcami, dostawcami i wykonawcami. Stosujemy zabezpieczenia umowne, aby podmioty otrzymujące dane osobowe były umownie zobowiązane do przetwarzania danych zgodnie z instrukcjami firmy Mozilla. [Więcej informacji](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Organy rządowe  | Mozilla wymaga ważnego [procesu prawnego](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process), aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika. W takich przypadkach Mozilla może być zmuszona do ujawnienia danych osobowych określonych w niniejszych Zasadach organom ścigania, organom rządowym lub podobnym podmiotom w celu zapewnienia zgodności z obowiązującymi przepisami prawa oraz w celu identyfikacji i zapobiegania szkodliwym, nieautoryzowanym lub nielegalnym działaniom.  |
-| Badacze | Gdy realizujemy naszą [misję](https://www.mozilla.org/about/manifesto/) otwartości. Czasami udostępniamy informacje, aby ulepszać nasze produkty i wspierać otwartą sieć, ale kiedy to robimy, robimy to w formacie pozbawionym elementów umożliwiających identyfikację lub w zagregowanym [formacie](https://wiki.mozilla.org/Data_Publishing). |
+| Badacze | Gdy realizujemy naszą [misję](https://www.mozilla.org/about/manifesto/) otwartości, czasami udostępniamy informacje, aby ulepszać nasze produkty i wspierać otwartą sieć, ale kiedy to robimy, robimy to w formacie pozbawionym elementów umożliwiających identyfikację lub w zagregowanym [formacie](https://wiki.mozilla.org/Data_Publishing). |
 | Podmioty kontrolowane przez firmę Mozilla i następcy prawni  | Jako firma globalna udostępniamy dane podmiotom stowarzyszonym i zależnym kontrolowanym przez firmę Mozilla. Możemy również być zmuszeni do ujawnienia danych osobowych w ramach transakcji korporacyjnej, takiej jak fuzja, przejęcie, sprzedaż aktywów lub podobna transakcja. |
 
 ## Międzynarodowe transfery danych
@@ -78,9 +80,11 @@ Firma Mozilla Corporation (i jej serwery) ma siedzibę w Stanach Zjednoczonych. 
 
 ## Jak długo przechowywane są dane użytkownika
 
-Przechowujemy dane osobowe użytkownika tylko tak długo, jak jest to konieczne do realizacji celów określonych w niniejszych Zasadach prywatności. Ogólnie rzecz biorąc, dane konta użytkownika są przechowywane tak długo, jak długo konto jest aktywne. Należy pamiętać, że Mozilla okresowo [usuwa konta](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity), na które nie logowano się przez ponad dwa lata (przed podjęciem tej czynności postaramy się wysłać użytkownikowi przypomnienie).
+Przechowujemy dane osobowe użytkownika tylko tak długo, jak jest to konieczne do realizacji celów określonych w niniejszych Zasadach prywatności. Ogólnie rzecz biorąc, dane konta użytkownika są przechowywane tak długo, jak długo konto jest aktywne. Należy pamiętać, że Mozilla okresowo [usuwa konta](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity), na które nie logowano się przez ponad dwa lata (przed podjęciem tej czynności dołożymy wszelkich starań, aby wysłać użytkownikowi przypomnienie).
 
 Jeśli chodzi o dane techniczne, ustawienia i dane dotyczące interakcji, które gromadzimy, zazwyczaj przechowujemy je przez okres do 25 miesięcy, ale rzeczywiste okresy przechowywania mogą się różnić w zależności od rodzaju danych i celów, dla których zostały zebrane (na przykład przechowujemy datę „pierwszego otwarcia” konta użytkownika, dzięki czemu wiemy, jak długo użytkownik jest posiadaczem konta Mozilla). Konkretne okresy przechowywania mogą również zależeć od wrażliwości danych, kontekstu ich gromadzenia, ustawień i preferencji użytkownika oraz naszych prawnych lub umownych zobowiązań do przechowywania lub usuwania danych użytkownika, takich jak zapobieganie oszustwom, zgodność z przepisami lub ciągłość świadczenia usług. Po upływie okresu przechowywania bezpiecznie usuwamy dane użytkownika, chyba że przepisy prawa stanowią inaczej.
+
+Jeśli użytkownik usunie kartę lub kolekcję kart z kolekcji kart Firefox, możemy zachować powiązane dane ze względów bezpieczeństwa oraz w celu zapobiegania nadużyciom. Treści, co do których stwierdzono, że naruszają nasze [Warunki korzystania z usługi](https://www.mozilla.org/about/legal/terms/services/), mogą być przechowywane przez czas nieokreślony, aby umożliwić nam zapobieganie przyszłym nadużyciom oraz ich ocenę.
 
 Nasze usługi wykorzystują również zaszyfrowane kopie zapasowe jako kolejną warstwę ochrony, aby pomóc w odzyskaniu danych po potencjalnych katastrofach; dane w tych środowiskach są wyłączone z użytku i przetwarzane wyłącznie w celu zapewnienia ciągłości działania. Możemy również przechowywać dane przez dłuższe okresy czasu w postaci zdeidentyfikowanej lub zagregowanej.
 
@@ -165,7 +169,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
       <td>
         <ul>
           <li>Dane techniczne</li>
-          <li>Dane lokalizacji</li>
+          <li>Lokalizacja</li>
           <li>Dane ustawień</li>
           <li>Dane interakcji</li>
           <li>Unikatowe identyfikatory</li>
@@ -177,6 +181,23 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
         <p><strong>Uzasadniony interes</strong> w zrozumieniu sposobu korzystania z kont Mozilla (i powiązanych usług) oraz poprawie wydajności, funkcji i stabilności.</p>
       </td>
     </tr>
+    <tr>
+      <td>W celu obsługi kolekcji kart Firefox</td>
+      <td>
+        <ul>
+          <li>Dane konta</li>
+          <li>Dane kontaktowe</li>
+          <li>Dane interakcji</li>
+          <li>Dane techniczne</li>
+          <li>Unikatowe identyfikatory</li>
+          <li>Lokalizacja</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Umowa</strong> w celu zapewnienia użytkownikowi funkcji niezbędnych do korzystania z tej funkcji oraz egzekwowanie naszych Warunków korzystania z usługi.</p>
+        <p><strong>Uzasadniony interes</strong> polegający na zrozumieniu sposobu korzystania z tej funkcji oraz na utrzymaniu i ulepszaniu produktu.</p>
+      </td>
+    </tr>    
     <tr>
       <td>Aby zapewniać i ulepszać bezpieczeństwo</td>
       <td>
