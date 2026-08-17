@@ -1,11 +1,11 @@
 # Privacymelding voor Mozilla-accounts
 
-Van kracht vanaf dinsdag 10 februari 2026
-{: datetime="2026-02-10" }
+Laatst bij gewerkt op 10 augustus 2026
+{: datetime="2026-08-10" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
 
-Dat is de reden waarom we onze producten maken: zodat u meer controle hebt over de informatie die u online deelt en over de informatie die u met ons deelt. In deze Privacyverklaring leggen we uit welke gegevens we verwerken, hoe we dat doen en voor welk doel. Vervolgens leggen we uit welke keuzes u hebt voor hoe we uw informatie verwerken en hoe u deze kunt uitoefenen.
+Dat is de reden waarom we onze producten en services maken: zodat u meer controle hebt over de informatie die u online deelt en over de informatie die u met ons deelt. In deze Privacyverklaring leggen we uit welke gegevens we verwerken, hoe we dat doen en voor welk doel. Vervolgens leggen we uit welke keuzes u hebt voor hoe we uw informatie verwerken en hoe u deze kunt uitoefenen.
 
 ## Hoe Mozilla uw gegevens verwerkt
 
@@ -13,9 +13,9 @@ Dat is de reden waarom we onze producten maken: zodat u meer controle hebt over 
 
 Mozilla-accounts bieden u toegang tot Mozilla-services op verschillende apparaten via eenmalige aanmelding. Om dit mogelijk te maken, verwerkt Mozilla uw accountgegevens, contactgegevens (e-mailadres) en autorisatiegegevens. U kunt ervoor kiezen om aanvullende gegevens op te geven, zoals een weergavenaam of profielafbeelding.
 
-Mozilla verzamelt ook [bepaalde gegevens](#bookmark-how-we-use-data), zoals technisch gegevens en instellingsgegevens, voor het bieden van de kernfunctionaliteit van Mozilla-accounts en bijbehorende services, het koppelen van nieuwe apparaten, het registreren en respecteren van uw instellingen en het voor u verzorgen van standaardfuncties, waaronder Synchronisatie en onze ingebouwde VPN.
+Mozilla verzamelt daarnaast [bepaalde gegevens](#bookmark-how-we-use-data), zoals technische gegevens en instellingsgegevens, voor het bieden van de kernfunctionaliteit van Mozilla-accounts en bijbehorende services, het koppelen van nieuwe apparaten, het registreren en respecteren van uw instellingen en het voor u verzorgen van functies, waaronder Synchronisatie, onze ingebouwde VPN en Koppelingsverzamelingen.
 
-Als u Synchronisatie inschakelt, ontvangt Mozilla de informatie die u via apparaten synchroniseert in versleutelde vorm. Deze informatie omvat mogelijk Firefox-tabbladen, add-ons, wachtwoorden, formulierinformatie die automatisch wordt ingevuld, bladwijzers, uw geschiedenis en voorkeuren. Deze versleuteling is end-to-end: uw gegevens worden versleuteld voordat deze uw browser verlaten en kunnen alleen worden ontsleuteld door een andere synchronisatieclient met de versleutelingscode. Mozilla kan deze informatie niet ontsleutelen.
+Als u Synchronisatie inschakelt, ontvangt Mozilla de informatie die u via apparaten synchroniseert in versleutelde vorm. Deze informatie omvat mogelijk Firefox-tabbladen, add-ons, wachtwoorden, formulierinformatie die automatisch wordt ingevuld, bladwijzers, uw geschiedenis en voorkeuren. Deze versleuteling is end-to-end: uw gesynchroniseerde gegevens worden versleuteld voordat deze uw browser verlaten en kunnen alleen worden ontsleuteld door een andere synchronisatieclient met de versleutelingscode. Mozilla kan deze informatie niet ontsleutelen.
 
 Wanneer u zich abonneert op een service waarvoor een betaald abonnement nodig is, wordt uw betaling verwerkt in overeenstemming met de [Privacyverklaring voor abonnementsservices van Mozilla](https://www.mozilla.org/privacy/subscription-services/). Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
 
@@ -25,19 +25,21 @@ Wanneer u zich abonneert op een service waarvoor een betaald abonnement nodig is
 
 We moeten ook gegevens verwerken om Mozilla-accounts operationeel te houden, voor het verbeteren van functies en prestaties en voor het identificeren, diagnosticeren en oplossen van problemen. Hiervoor gebruiken we technische gegevens, locatiegegevens en instellingsgegevens, evenals interactiegegevens en gegevens over systeemprestaties.
 
-We verwerken technische gegevens en interactiegegevens voor een beter inzicht in hoe u onze services gebruikt, zoals uw bezoeken aan de [website voor Mozilla-accounts](https://accounts.firefox.com/) of onze [Help-pagina’s](https://support.mozilla.org/), dashboards en menuvoorkeuren, welke producten en services u gebruikt in verband met uw Mozilla-account (waaronder uw gebruik van Firefox, zoals hoe vaak u Firefox gebruikt en wanneer u uw gegevens voor het laatst hebt gesynchroniseerd), welke apparaten u hebt gebruikt voor uw interactie met ons en uw interactie met onze e-mails en sms-berichten. We kunnen hierdoor doorgronden hoe mensen toegang krijgen tot onze services en hoe ze deze gebruiken, zodat we onze organisatie en de functionaliteit van onze services kunnen verbeteren.
+We verwerken technische gegevens en interactiegegevens voor een beter inzicht in hoe u onze services gebruikt, zoals uw bezoeken aan de [website voor Mozilla-accounts](https://accounts.firefox.com/) of onze [Help-pagina’s](https://support.mozilla.org/), dashboards en menuvoorkeuren, welke producten en functies u gebruikt in verband met uw Mozilla-account (waaronder uw gebruik van Firefox, zoals hoe vaak u Firefox gebruikt en wanneer u uw gegevens voor het laatst hebt gesynchroniseerd), welke apparaten u hebt gebruikt voor uw interactie met ons en uw interactie met onze communicaties. We kunnen hierdoor doorgronden hoe mensen toegang krijgen tot onze services en hoe ze deze gebruiken, zodat we onze organisatie en de functionaliteit van onze services kunnen verbeteren.
 
 Wanneer u gekoppelde services gebruikt, worden uw gegevens verwerkt in overeenstemming met de privacyverklaring van de relevante service:
 
 * [Firefox Browser](https://www.mozilla.org/privacy/firefox/)
-* [Smart Window](https://www.mozilla.org/privacy/smart-window/)
+* [Slim venster](https://www.mozilla.org/privacy/smart-window/)
 * [Abonnementsservice van Mozilla](https://www.mozilla.org/privacy/subscription-services/) voor Mozilla VPN, Mozilla Monitor en Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 Als aan een Mozilla-account verbonden service te maken krijgt met een onverwachte probleem (zoals crashen), gebruiken we een service van een derde partij om technische gegevens en interactiegegevens te verzamelen, zoals foutberichten, apparaatinformatie en de status van de toepassing op het tijdstip van het crashen, om ons te helpen problemen in onze services te diagnosticeren en corrigeren.
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt uw [Mozilla-accountinstellingen voor gegevensverzameling](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) op elk gewenst moment wijzigen. Zie de relevante verklaring voor uw gegevensinstellingen met betrekking tot eventuele gekoppelde services.
+
+### Voor het verzorgen van Firefox Koppelingsverzamelingen
+
+Voor de Firefox-functie Koppelingsverzamelingen is ook een account vereist. Als u ervoor kies om Koppelingsverzamelingen te maken, verwerken we gegevens over de koppelingen en gerelateerde metagegevens die u deelt om de functie te verzorgen en onze [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) af te dwingen.
 
 ### Beveiliging bieden en verbeteren
 
@@ -45,11 +47,12 @@ Mozilla gebruikt technische gegevens en interactiegegevens om Mozilla-accounts t
 
 ### Voor het pseudonimiseren, deïdentificeren, samenvoegen of anonimiseren van gegevens
 
-Als onderdeel van de hiervoor beschreven activiteiten, zoals het gebruik van Mozilla-accounts doorgronden en het meten van onze marketing, kunnen we pseudonieme, gedeïdentificeerde, samengevoegde of geanonimiseerde gegevens verzamelen. In sommige gevallen kunnen we samengevoegde en geanonimiseerde gegevens publiceren om onderzoek te bevorderen of als onderdeel van de wettelijke zakelijke doeleinden die hiervoor zijn beschreven.
+Als onderdeel van de in deze kennisgeving beschreven activiteiten, zoals het gebruik van Mozilla-accounts doorgronden en het meten van onze marketing, kunnen we pseudonieme, gedeïdentificeerde, samengevoegde of geanonimiseerde gegevens verzamelen. In sommige gevallen kunnen we samengevoegde en geanonimiseerde gegevens publiceren om onderzoek te bevorderen of als onderdeel van andere wettelijke zakelijke doeleinden.
 
 ### Het communiceren met u, waaronder met betrekking tot marketing voor onze services
 
-We gebruiken uw contactgegevens om met u te communiceren. We kunnen contact met u opnemen om redenen, zoals u waarschuwen als we verdachte activiteit detecteren in uw account, om wijzigingen in uw accountinformatie te verifiëren, om u marketinggebonden berichten te sturen of om te reageren op klantenondersteuningsberichten. We kunnen ook externe dienstverleners gebruiken om onze communicatie met u te beheren. We verwerken daarnaast procesinteractiegegevens die betrekking hebben op deze communicatie om beter te doorgronden wie deze hebben ontvangen.
+We gebruiken uw contactgegevens om met u te communiceren. We kunnen contact met u opnemen om redenen, zoals u waarschuwen als we verdachte activiteit detecteren in uw account, om wijzigingen in uw accountinformatie te verifiëren, om u marketinggebonden berichten te sturen of om te reageren op klantenondersteuningsberichten. We kunnen ook externe dienstverleners gebruiken om onze communicatie met u te beheren. We verwerken daarnaast procesinteractiegegevens die betrekking hebben op deze communicaties om beter te doorgronden wie deze hebben ontvangen en om onze communicaties relevanter en nuttiger voor u te maken.
+
 
 ### Het voldoen aan toepasselijke wetgeving en het identificeren en voorkomen van schadelijke, niet-toegestane of illegale activiteit.
 
@@ -69,7 +72,7 @@ Voor het verzorgen van onze services zoals deze hiervoor reeds zijn beschreven, 
 | ----- | ----- |
 | Partners, dienstverleners, leveranciers en aannemers | We werken samen met partners, dienstverleners, leveranciers en aannemers om te voldoen aan de doeleinden die hiervoor worden vermeld. Er zijn contractuele waarborgen geïmplementeerd, zodat rechtspersonen die persoonlijke gegevens ontvangen, contractueel verplicht zijn om de gegevens te verwerken in overeenstemming met de instructies van Mozilla. [Meer informatie](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Autoriteiten  | Mozilla vereist een [geldig wettig proces](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) om openbaarmaking van specifieke gebruikersgegevens aan een overheid af te dwingen. In die gevallen moeten we mogelijk de persoonlijke gegevens die zijn beschreven in deze Verklaring, openbaar maken aan wetshandhavingsinstanties, overheidsinstanties of soortgelijke rechtspersonen om te voldoen aan toepasselijke wetten en om schadelijke, ongeautoriseerde of illegale activiteiten te identificeren en te voorkomen.  |
-| Onderzoekers | Wanneer we onze [missie](https://www.mozilla.org/about/manifesto/) om open te zijn, vervullen. We geven soms informatie vrij om onze producten beter te maken en een open web te bevorderen. Wanneer we dat doen, gebeurt dat in een gedeïdentificeerde of samengevoegde [indeling](https://wiki.mozilla.org/Data_Publishing). |
+| Onderzoekers | Wanneer we onze [missie om open te zijn, vervullen](https://www.mozilla.org/about/manifesto/), geven we soms informatie vrij om onze producten beter te maken en een open web te bevorderen. Wanneer we dat doen, gebeurt dat in een gedeïdentificeerde of samengevoegde [indeling](https://wiki.mozilla.org/Data_Publishing). |
 | Door Mozilla beheerde rechtspersonen en opvolgers  | Als een mondiaal bedrijf, delen we gegevens met door Mozilla beheerde filialen en dochterondernemingen. Het kan ook zijn dat we persoonlijke gegevens openbaar moeten maken als onderdeel van een bedrijfstransactie, zoals een fusie, een aankoop, de verkoop van activa of een soortgelijke transactie. |
 
 ## Internationale gegevensoverdrachten
@@ -78,9 +81,11 @@ Mozilla Corporation (en onze servers) is gevestigd in de Verenigde Staten. Voor 
 
 ## Hoelang we uw gegevens bewaren
 
-Persoonlijke gegevens worden uitsluitend zolang bewaard als nodig is om te voldoen aan de doeleinden die zijn beschreven in deze Privacyverklaring. Over het algemeen worden uw accountgegevens zolang bewaard als uw account actief is. U moet er rekening mee houden dat Mozilla [periodiek](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) accounts verwijdert waarbij u zich al meer dan twee jaar niet hebt aangemeld (we proberen u een herinnering te sturen voordat dit wordt gedaan).
+Persoonlijke gegevens worden uitsluitend zolang bewaard als nodig is om te voldoen aan de doeleinden die zijn beschreven in deze Privacyverklaring. Over het algemeen worden uw accountgegevens zolang bewaard als uw account actief is. U moet er rekening mee houden dat Mozilla [periodiek](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) accounts verwijdert, waarbij u zich al meer dan twee jaar niet hebt aangemeld (we proberen u een herinnering te sturen voordat dit wordt gedaan).
 
 Met betrekking tot gegevens over technische zaken, instellingen en interactie, bewaren we uw gegevens niet langer dan 25 maanden, maar de daadwerkelijke bewaarperiode kan variëren, afhankelijk van het type gegevens en de doeleinden waarvoor deze zijn verzameld (we bewaren bijvoorbeeld de datum waarop u 'voor het eerst bent gezien' gedurende de periode dat u uw account gebruikt, zodat we weten hoelang u al Mozilla-accounthouder bent). Specifieke bewaarperioden kunnen ook afhangen van de gevoeligheid van de gegevens, de context van het verzamelen ervan, uw instellingen en voorkeuren, en onze wettelijke of contractuele verplichtingen voor het bewaren of verwijderen van gegevens, zoals voor fraudepreventie, wettelijke naleving of servicecontinuïteit. Als de bewaarperiode verloopt, verwijderen we uw gegevens op een veilige manier, tenzij de wet anders vereist.
+
+Als u een koppeling of koppelingsverzameling verwijdert uit Firefox Koppelingsverzamelingen, bewaren we mogelijk gekoppelde gegevens voor doeleinden die verband houden met beveiliging en misbruikpreventie. Content die onze [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) schendt, kan gedurende een onbepaalde periode worden bewaard om ons in staat te stellen om toekomstig misbruik te voorkomen en te beoordelen.
 
 Onze services maken ook gebruik van versleutelde back-upopslag als een extra beschermingslaag voor hersteldoeleinden met betrekking tot potentiële rampen. Gegevens in deze omgevingen worden buiten gebruik gesteld en worden alleen verwerkt voor doeleinden voor bedrijfscontinuïteit. We kunnen af en toe gegevens ook gedurende langere perioden bewaren in een gedeïdentificeerde of samengevoegde vorm.
 
@@ -115,7 +120,7 @@ U kunt de [instellingen voor uw Mozilla-account](https://support.mozilla.org/kb/
 
 ## Wijzigen
 
-Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, zullen we  ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals via blogberichten en forums.
+Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, kunnen we  ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals via blogberichten en forums.
 
 ## Gegevensdefinities
 
@@ -165,7 +170,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
       <td>
         <ul>
           <li>Technische gegevens</li>
-          <li>Locatiegegevens</li>
+          <li>Locatie</li>
           <li>Instellingsgegevens</li>
           <li>Interactiegegevens</li>
           <li>Unieke id's</li>
@@ -177,6 +182,23 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
         <p><strong>Legitiem belang</strong> bij het doorgronden van hoe Mozilla-accounts (en gekoppelde services) worden gebruikt en het verbeteren van prestaties, functies en stabiliteit.</p>
       </td>
     </tr>
+    <tr>
+      <td>Voor het verzorgen van Firefox Koppelingsverzamelingen</td>
+      <td>
+        <ul>
+          <li>Accountgegevens</li>
+          <li>Contactgegevens</li>
+          <li>Interactiegegevens</li>
+          <li>Technische gegevens</li>
+          <li>Unieke id's</li>
+          <li>Locatie</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Contract</strong> om u te voorzien van de benodigde functionaliteit voor de werking van de functie en om onze gebruiksvoorwaarden af te dwingen.</p>
+        <p><strong>Legitiem belang</strong> bij het doorgronden van hoe de functie wordt gebruikt en het handhaven en verbeteren van het product.</p>
+      </td>
+    </tr>    
     <tr>
       <td>Beveiliging bieden en verbeteren</td>
       <td>

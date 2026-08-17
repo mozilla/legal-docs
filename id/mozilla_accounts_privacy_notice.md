@@ -1,11 +1,11 @@
 # Pemberitahuan Privasi Akun Mozilla
 
-Berlaku 10 Februari 2026
-{: datetime="2026-02-10" }
+Terakhir diperbarui 10 Agustus 2026
+{: datetime="2026-08-10" }
 
 ## Di Mozilla, kami percaya bahwa privasi adalah hal yang mendasar bagi internet yang sehat
 
-Oleh karena itu, kami membangun produk kami, untuk memberi Anda kontrol lebih atas informasi yang dibagikan secara online dan yang dibagikan kepada kami. Dalam Pemberitahuan Privasi ini, kami menjelaskan data apa saja yang kami proses, cara kami memprosesnya, dan untuk tujuan apa. Kemudian, kami menjelaskan cara Anda menentukan pilihan tentang cara kami memproses informasi Anda.
+Oleh karena itu, kami membangun produk dan layanan kami, untuk memberi Anda kontrol lebih atas informasi yang dibagikan secara online dan yang dibagikan kepada kami. Dalam Pemberitahuan Privasi ini, kami menjelaskan data apa saja yang kami proses, cara kami memprosesnya, dan untuk tujuan apa. Kemudian, kami menjelaskan cara Anda menentukan pilihan tentang cara kami memproses informasi Anda.
 
 ## Cara Mozilla memproses data Anda
 
@@ -13,9 +13,9 @@ Oleh karena itu, kami membangun produk kami, untuk memberi Anda kontrol lebih at
 
 Akun Mozilla memungkinkan Anda mengakses layanan Mozilla di seluruh perangkat dengan kredensial masuk tunggal. Untuk memungkinkan fitur ini, Mozilla memproses data akun, data kontak (alamat email), dan data otorisasi Anda. Anda juga dapat memilih untuk memberikan data konten tambahan, seperti nama tampilan atau gambar profil.
 
-Mozilla juga mengumpulkan [data tertentu](#bookmark-how-we-use-data), seperti data teknis dan pengaturan, untuk menyediakan fungsi inti akun Mozilla dan layanan terhubungnya, menghubungkan perangkat baru, mengingat dan menerapkan pengaturan Anda, serta menyediakan fitur default seperti sinkronisasi dan VPN bawaan kami.
+Mozilla juga mengumpulkan [data tertentu](#bookmark-how-we-use-data), seperti data teknis dan pengaturan, untuk menyediakan fungsi inti akun Mozilla dan layanan terhubungnya, menghubungkan perangkat baru, mengingat dan menerapkan pengaturan Anda, serta menyediakan fitur default seperti sinkronisasi, VPN bawaan kami, dan koleksi Tautan.
 
-Jika Anda mengaktifkan sinkronisasi, Mozilla menerima informasi yang Anda sinkronkan di seluruh perangkat dalam bentuk terenkripsi; ini bisa mencakup tab Firefox, pengaya, kata sandi, informasi isi otomatis formulir, markah, riwayat, dan preferensi. Enkripsi ini bersifat end-to-end: data Anda dienkripsi sebelum keluar dari peramban Anda dan hanya bisa didekripsi oleh klien sinkronisasi lain dengan kunci enkripsi; Mozilla tidak dapat mendekripsi informasi ini.
+Jika Anda mengaktifkan sinkronisasi, Mozilla menerima informasi yang Anda sinkronkan di seluruh perangkat dalam bentuk terenkripsi; ini bisa mencakup tab Firefox, pengaya, kata sandi, informasi isi otomatis formulir, markah, riwayat, dan preferensi. Enkripsi ini bersifat end-to-end: data Anda yang disinkronkan dienkripsi sebelum keluar dari peramban Anda dan hanya bisa didekripsi oleh klien sinkronisasi lain dengan kunci enkripsi; Mozilla tidak dapat mendekripsi informasi ini.
 
 Jika Anda berlangganan layanan yang memerlukan langgan berbayar, pembayaran Anda akan diproses sesuai [Pemberitahuan Privasi Layanan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services/). Mozilla menerima catatan rekening Anda (termasuk alamat penagihan dan empat digit terakhir dari metode pembayaran Anda) dan status langganan akun Anda. Mozilla tidak menyimpan detail pembayaran lengkap.
 
@@ -25,19 +25,21 @@ Jika Anda berlangganan layanan yang memerlukan langgan berbayar, pembayaran Anda
 
 Kami juga perlu memproses data untuk memastikan akun Mozilla terus beroperasi, meningkatkan fitur dan kinerja, serta mengidentifikasi, memecahkan masalah, dan mendiagnosis masalah. Untuk itu, kami menggunakan data teknis, lokasi, dan pengaturan, serta data interaksi dan kinerja sistem.
 
-Kami memproses data teknis dan interaksi untuk lebih memahami cara Anda menggunakan layanan kami, seperti kunjungan Anda ke [situs web akun Mozilla](https://accounts.firefox.com/) atau [halaman bantuan](https://support.mozilla.org/) kami, dasbor dan preferensi menu, produk dan layanan yang digunakan sehubungan dengan akun Mozilla Anda (termasuk penggunaan Firefox, seperti seberapa sering Anda menggunakan Firefox dan kapan terakhir kali Anda menyinkronkan data), perangkat yang Anda gunakan untuk berinteraksi dengan kami, dan interaksi Anda dengan email dan pesan SMS kami. Hal ini memungkinkan kami memahami cara orang mengakses dan menggunakan layanan kami, sehingga membantu meningkatkan bisnis dan fungsi layanan kami.
+Kami memproses data teknis dan interaksi untuk lebih memahami cara Anda menggunakan layanan kami, seperti kunjungan Anda ke [situs web akun Mozilla](https://accounts.firefox.com/) atau [halaman bantuan](https://support.mozilla.org/) kami, dasbor dan preferensi menu, produk, layanan, dan fitur yang digunakan sehubungan dengan akun Mozilla Anda (termasuk penggunaan Firefox, seperti seberapa sering Anda menggunakan Firefox dan kapan terakhir kali Anda menyinkronkan data), perangkat yang Anda gunakan untuk berinteraksi dengan kami, dan interaksi Anda dengan komunikasi kami. Hal ini memungkinkan kami memahami cara orang mengakses dan menggunakan layanan kami, sehingga membantu meningkatkan bisnis dan fungsi layanan kami.
 
 Saat Anda menggunakan layanan terhubung, data Anda akan diproses sesuai dengan pemberitahuan privasi layanan terkait:
 
 * [Peramban Firefox](https://www.mozilla.org/privacy/firefox/)
 * [Smart Window](https://www.mozilla.org/privacy/smart-window/)
 * [Layanan Langganan Mozilla](https://www.mozilla.org/privacy/subscription-services/) untuk Mozilla VPN, Mozilla Monitor, dan Firefox Relay
-* [MDN Plus](https://www.mozilla.org/privacy/mdn-plus/)
-* [Thunderbird](https://www.mozilla.org/privacy/thunderbird/)
 
 Jika layanan terhubung akun Mozilla mengalami masalah tak terduga (misalnya, kerusakan), kami menggunakan layanan pihak ketiga untuk mengumpulkan data teknis dan interaksi seperti pesan kesalahan, informasi perangkat, dan kondisi aplikasi pada saat terjadi kerusakan, agar kami bisa mendiagnosis dan mengatasi masalah dalam layanan kami.
 
 *Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* Anda dapat memperbarui [pengaturan pengumpulan data akun Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) Anda kapan saja. Lihat pemberitahuan terkait untuk pengaturan data Anda sehubungan dengan layanan terhubung apa pun.
+
+### Untuk menyediakan koleksi Tautan Firefox
+
+Fitur koleksi Tautan Firefox juga memerlukan akun. Jika Anda memilih untuk membuat koleksi Tautan, kami akan memproses data tentang tautan tersebut dan metadata terkait yang Anda pilih untuk dibagikan guna menyediakan fitur tersebut dan menegakkan [Ketentuan Layanan](https://www.mozilla.org/about/legal/terms/services/) kami.
 
 ### Untuk menyediakan dan meningkatkan keamanan
 
@@ -45,11 +47,11 @@ Mozilla menggunakan data teknis dan interaksi untuk membantu mengamankan akses k
 
 ### Untuk membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim
 
-Sebagai bagian dari aktivitas yang diuraikan di atas, seperti memahami penggunaan akun Mozilla dan mengukur pemasaran kami, kami dapat membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim. Dalam beberapa kasus, kami mungkin membagikan atau menerbitkan data agregat dan anonim untuk memfasilitasi penelitian atau sebagai bagian dari tujuan bisnis sah yang diuraikan di atas.
+Sebagai bagian dari aktivitas yang diuraikan dalam pemberitahuan ini, seperti memahami penggunaan akun Mozilla dan mengukur pemasaran kami, kami dapat membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim. Dalam beberapa kasus, kami mungkin membagikan atau menerbitkan data agregat dan anonim untuk memfasilitasi penelitian atau sebagai bagian dari tujuan bisnis sah lainnya.
 
 ### Untuk berkomunikasi dengan Anda, termasuk ketika memasarkan layanan kami
 
-Kami menggunakan data kontak Anda untuk berkomunikasi dengan Anda. Kami dapat menghubungi Anda untuk beberapa alasan seperti menginformasikan jika kami mendeteksi aktivitas mencurigakan di akun Anda, memverifikasi perubahan pada informasi akun Anda, mengirimkan komunikasi terkait pemasaran, atau menanggapi komunikasi dukungan pelanggan, serta kami mungkin dapat menggunakan penyedia layanan pihak ketiga untuk mengelola komunikasi dengan Anda. Kami juga memproses data interaksi yang terkait dengan komunikasi ini untuk lebih memahami siapa saja yang telah menerimanya.
+Kami menggunakan data kontak Anda untuk berkomunikasi dengan Anda. Kami dapat menghubungi Anda untuk beberapa alasan seperti menginformasikan jika kami mendeteksi aktivitas mencurigakan di akun Anda, memverifikasi perubahan pada informasi akun Anda, mengirimkan komunikasi terkait pemasaran, atau menanggapi komunikasi dukungan pelanggan, serta kami mungkin dapat menggunakan penyedia layanan pihak ketiga untuk mengelola komunikasi dengan Anda. Kami juga memproses data interaksi yang terkait dengan komunikasi ini untuk lebih memahami siapa saja yang menerimanya, dan untuk menjadikan komunikasi kami lebih relevan dan berguna untuk Anda.
 
 ### Untuk mematuhi undang-undang yang berlaku, dan mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal
 
@@ -69,7 +71,7 @@ Untuk menyediakan layanan kami sebagaimana dijelaskan di atas, kami dapat mengun
 | ----- | ----- |
 | Mitra, penyedia layanan, pemasok, dan kontraktor | Untuk melaksanakan tujuan yang tercantum di atas, kami bekerja sama dengan mitra, penyedia layanan, dan kontraktor. Kami memiliki perlindungan kontrak, sehingga entitas yang menerima data pribadi secara kontrak wajib menangani data tersebut sesuai dengan instruksi Mozilla. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Otoritas  | Mozilla mewajibkan [Proses Hukum](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal.  |
-| Penelitian | Saat kami memenuhi [misi](https://www.mozilla.org/about/manifesto/) kami untuk bersikap terbuka. Terkadang kami merilis informasi untuk membuat produk kami lebih baik dan mengembangkan web terbuka, tetapi ketika kami melakukannya, kami akan melakukannya dalam [format](https://wiki.mozilla.org/Data_Publishing) tanpa identitas atau agregat. |
+| Penelitian | Saat kami memenuhi [misi](https://www.mozilla.org/about/manifesto/) kami untuk menjadi terbuka, kami kadang merilis informasi untuk membuat produk kami lebih baik dan mengembangkan web terbuka, tetapi ketika kami melakukannya, kami akan melakukannya dalam [format](https://wiki.mozilla.org/Data_Publishing) tanpa identitas atau agregat. |
 | Entitas dan penerus yang dikontrol Mozilla  | Sebagai perusahaan global, kami membagikan data ke seluruh afiliasi dan anak perusahaan yang dikontrol Mozilla. Kami mungkin juga perlu mengungkapkan data pribadi sebagai bagian dari transaksi perusahaan, seperti merger, akuisisi, penjualan aset, atau transaksi serupa. |
 
 ## Transfer data internasional
@@ -78,9 +80,11 @@ Mozilla Corporation (dan server kami) berbasis di Amerika Serikat. Karena kami a
 
 ## Berapa lama kami menyimpan data Anda
 
-Kami hanya menyimpan data pribadi Anda selama diperlukan untuk memenuhi tujuan yang diuraikan dalam Pemberitahuan Privasi ini. Secara umum, data akun Anda disimpan selama akun Anda aktif. Anda harus memperhatikan bahwa Mozilla [secara berkala menghapus](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) akun yang tidak diakses selama lebih dari dua tahun (kami akan berusaha mengirimkan pengingat sebelum mengambil tindakan ini).
+Kami hanya menyimpan data pribadi Anda selama diperlukan untuk memenuhi tujuan yang diuraikan dalam Pemberitahuan Privasi ini. Secara umum, data akun Anda disimpan selama akun Anda aktif. Anda pasti memperhatikan bahwa Mozilla [secara berkala menghapus](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) akun yang tidak diakses selama lebih dari dua tahun (kami akan berupaya mengirimkan pengingat sebelum mengambil tindakan ini).
 
 Sehubungan dengan data teknis, pengaturan, dan interaksi yang kami kumpulkan, secara umum, kami menyimpan data ini selama maksimal 25 bulan, tetapi periode penyimpanan sebenarnya dapat bervariasi tergantung jenis data dan tujuan pengumpulannya (misalnya, kami menyimpan tanggal “pertama kali akun Anda dibuka”, agar kami tahu berapa lama Anda telah menjadi pemilih akun Mozilla). Periode penyimpanan tertentu mungkin juga bergantung pada sensitivitas data, konteks pengumpulannya, pengaturan dan preferensi Anda, serta kewajiban hukum atau kontrak kami untuk menyimpan atau menghapus data Anda, seperti untuk pencegahan penipuan, kepatuhan terhadap peraturan, atau keberlanjutan layanan. Setelah periode penyimpanan berakhir, kami menghapus data Anda dengan aman, kecuali diwajibkan lain oleh undang-undang.
+
+Jika Anda menghapus tautan atau koleksi tautan dari koleksi Tautan Firefox, kami mungkin menyimpan data terkait demi keamanan dan pencegahan penyalahgunaan. Konten yang ternyata melanggar [Ketentuan Layanan](https://www.mozilla.org/about/legal/terms/services/) kami dapat disimpan tanpa batas waktu, agar kami dapat mencegah dan menilai potensi penyalahgunaan di kemudian hari.
 
 Layanan kami juga menggunakan penyimpanan cadangan terenkripsi sebagai lapisan perlindungan tambahan untuk membantu pemulihan dari potensi bencana; data di lingkungan ini tidak dapat digunakan lagi dan hanya diproses untuk tujuan keberlanjutan bisnis. Kami juga dapat menyimpan data untuk jangka waktu yang lama dengan tanpa identitas atau agregat.
 
@@ -115,7 +119,7 @@ Anda dapat memperbarui [pengaturan akun Mozilla](https://support.mozilla.org/kb/
 
 ## Perubahan
 
-Kami mungkin perlu mengubah privasi ini dan pemberitahuan kami, yang akan diposting secara online. Kami akan memperbarui tanggal berlaku pemberitahuan ini dan mengumumkan pembaruan secara lebih menonjol melalui saluran Mozilla biasanya untuk pengumuman tersebut, seperti postingan blog dan forum.
+Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang akan diposting secara online. Kami akan memperbarui tanggal berlaku pemberitahuan ini dan mengumumkan pembaruan secara lebih menonjol melalui saluran Mozilla biasanya untuk pengumuman tersebut, seperti postingan blog dan forum.
 
 ## Definisi data
 
@@ -165,7 +169,7 @@ Kami mungkin perlu mengubah privasi ini dan pemberitahuan kami, yang akan dipost
       <td>
         <ul>
           <li>Data teknis</li>
-          <li>Data lokasi</li>
+          <li>Lokasi</li>
           <li>Data pengaturan</li>
           <li>Data interaksi</li>
           <li>Pengidentifikasi unik</li>
@@ -177,6 +181,23 @@ Kami mungkin perlu mengubah privasi ini dan pemberitahuan kami, yang akan dipost
         <p><strong>Kepentingan yang sah</strong> dalam memahami bagaimana akun Mozilla (dan layanan terhubung) digunakan, dan meningkatkan kinerja, fitur, dan kestabilan.</p>
       </td>
     </tr>
+    <tr>
+      <td>Untuk menyediakan koleksi Tautan Firefox</td>
+      <td>
+        <ul>
+          <li>Data akun</li>
+          <li>Data kontak</li>
+          <li>Data interaksi</li>
+          <li>Data teknis</li>
+          <li>Pengidentifikasi unik</li>
+          <li>Lokasi</li>
+        </ul>
+      </td>
+      <td>
+        <p><strong>Kontrak</strong> untuk menyediakan fungsi yang diperlukan untuk memanfaatkan fitur, dan untuk menegakkan Ketentuan Layanan kami.</p>
+        <p><strong>Kepentingan yang sah</strong> dalam memahami bagaimana fitur digunakan, mempertahankan, dan meningkatkan produk.</p>
+      </td>
+    </tr>    
     <tr>
       <td>Untuk menyediakan dan meningkatkan keamanan</td>
       <td>
