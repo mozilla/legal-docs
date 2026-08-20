@@ -55,10 +55,74 @@ Mozilla aims to remain at the forefront of AI browser technology and may update 
 
 ## Lawful bases
 
-Smart Window’s lawful basis table defines terms as laid out in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/).
+Smart Window’s lawful basis table defines terms as laid out in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#notice). 
 
-| What we use your data for | What data we process | Our lawful basis | More information, including choosing how you want to share this data in Firefox |
-| ------------------------- | -------------------- | ---------------- | ------------------------------------------------------------------------------ |
-| To create Memories about your activity | Settings<br><br>Browsing data<br><br>Search data<br><br>Content | **Consent** when you ask Smart Window to remember things about you, or deliberately provide it with certain pieces of information.<br><br>**Legitimate interest** in providing additional functionality, and a more personalized experience. | Memories are stored locally on your device, and remain within your control. You can turn off Memory creation, or delete specific Memories at any time. |
-| To provide the Smart Window assistant | Location<br><br>Language preference<br><br>Unique identifiers<br><br>Interaction data<br><br>Browsing data<br><br>Search data<br><br>Content | **Contract** to provide you with the necessary functionality for Smart Window to operate.<br><br>**Consent** when processing is necessary to perform specific tasks that you have requested.<br><br>**Legitimate interest** in providing additional functionality and a personalized experience. | You can choose which AI model powers the assistant, and can switch models at any time, or can customize Smart Window with your own model.<br><br>Mozilla does not train models on your Smart Window interactions, and works to protect your data, as described [here](https://support.mozilla.org/kb/smart-window-safety). |
-| To maintain and improve features, performance and stability | Technical data<br><br>Location<br><br>Settings data<br><br>Unique identifiers<br><br>System performance data<br><br>Interaction data<br><br>Browsing data<br><br>Content | **Contract** to ensure that Smart Window continues to function as intended.<br><br>**Legitimate interest** in improving features, performance and stability.<br><br>**Consent** when you choose to share chat logs or browsing data to help us identify, troubleshoot and diagnose issues, or improve the Smart Window product. | You can choose to share feedback about Smart Window, including sharing chat logs for human review. We never review this data without your consent. |
+<table>
+    <thead>
+        <tr>
+            <th>What we use your data for</th>
+            <th>What data we process</th>
+            <th>Our lawful basis</th>
+            <th>More information, including choosing how you want to share this data in Firefox</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>To create Memories about your activity</td>
+            <td>
+                <ul>
+                    <li>Settings</li>
+                    <li>Browsing data</li>
+                    <li>Search data</li>
+                    <li>Content</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Consent</strong> when you ask Smart Window to remember things about you, or deliberately provide it with certain pieces of information.</p>
+                <p><strong>Legitimate interest</strong> in providing additional functionality, and a more personalized experience.</p>
+            </td>
+            <td>Memories are stored locally on your device, and remain within your control. You can <a href="https://support.mozilla.org/kb/smart-window-memories">turn off Memory creation, or delete specific Memories</a> at any time.</td>
+        </tr>
+        <tr>
+            <td>To provide the Smart Window assistant</td>
+            <td>
+                <ul>
+                    <li>Location</li>
+                    <li>Language preference</li>
+                    <li>Unique identifiers</li>
+                    <li>Interaction data</li>
+                    <li>Browsing data</li>
+                    <li>Search data</li>
+                    <li>Content</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Contract</strong> to provide you with the necessary functionality for Smart Window to operate.</p>
+                <p><strong>Consent</strong> when processing is necessary to perform specific tasks that you have requested.</p>
+                <p><strong>Legitimate interest</strong> in providing additional functionality and a personalized experience.</p>
+            </td>
+            <td><a href="https://support.mozilla.org/kb/smart-window-models">You can choose which AI model powers the assistant</a>, and can switch models at any time, or can <a href="https://support.mozilla.org/kb/smart-window-byom">customize</a> Smart Window with your own model. Mozilla does not train models on your Smart Window interactions, and works to protect your data, as described <a href="https://support.mozilla.org/kb/smart-window-safety">here</a>.</td>
+        </tr>
+        <tr>
+            <td>To maintain and improve features, performance and stability</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location</li>
+                    <li>Settings data</li>
+                    <li>Unique identifiers</li>
+                    <li>System performance data</li>
+                    <li>Interaction data</li>
+                    <li>Browsing data</li>
+                    <li>Content</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Contract</strong> to ensure that Smart Window continues to function as intended.</p>
+                <p><strong>Legitimate interest</strong> in improving features, performance and stability.</p>
+                <p><strong>Consent</strong> when you choose to share chat logs or browsing data to help us identify, troubleshoot and diagnose issues, or improve the Smart Window product.</p>
+            </td>
+            <td>You <a href="https://support.mozilla.org/kb/smart-window-user-feedback">can choose to share feedback</a> about Smart Window, including sharing chat logs for human review. We never review this data without your consent.</td>
+        </tr>
+    </tbody>
+</table>
