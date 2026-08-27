@@ -126,9 +126,3 @@ Le tableau des bases juridiques de Fenêtre intelligente définit les termes tel
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-	
