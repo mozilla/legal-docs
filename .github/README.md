@@ -22,6 +22,7 @@ List of translated files (number of locales between parentheses):
 * pocket_privacy_policy_eu.md (6)
 * pocket_tos.md (12)
 * report_infringement.md (13)
+* smart_window_privacy_notice.md (1)
 * subscription_services_privacy_notice.md (13)
 * subscription_services_tos.md (13)
 * websites_privacy_notice.md (13)
@@ -36,6 +37,5 @@ List of files not translated:
 * formulaic_tos.md
 * mozilla_location_services_privacy_notice.md
 * smart_window_about_rights.md
-* smart_window_privacy_notice.md
 * thunderbird_about_rights.md
 * thunderbird_privacy_policy.md
