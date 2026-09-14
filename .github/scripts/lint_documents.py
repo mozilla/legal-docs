@@ -41,14 +41,16 @@ class DocumentCheck:
                 content = Path(filename).read_text()
                 links = self.extractLinks(content)
 
-                # Extract anchors
+                # Extract anchors and lines with multiple spaces
                 with open(filename, "r") as fp:
                     content = fp.readlines()
                     anchors = self.extractAnchors(content)
+                    multiple_spaces = self.extractMultipleSpaces(content)
 
                 locale_data[f] = {
                     "anchors": anchors,
                     "links": links,
+                    "multiple_spaces": multiple_spaces,
                 }
             data[locale] = locale_data
 
@@ -91,6 +93,23 @@ class DocumentCheck:
 
         return anchors
 
+    def extractMultipleSpaces(self, content):
+        """Extract lines with multiple consecutive spaces"""
+
+        lines = []
+        spaces_pattern = re.compile(r" {2,}")
+        empty_cell_pattern = re.compile(r"\| +(?=\|)")
+        for line_number, line in enumerate(content, start=1):
+            # Ignore leading spaces (indentation) and trailing spaces (used
+            # in Markdown to force a line break)
+            line = line.strip()
+            # Ignore empty table cells, e.g. "|  |  |"
+            text = empty_cell_pattern.sub("|", line)
+            if spaces_pattern.search(text):
+                lines.append((line_number, line))
+
+        return lines
+
     def loadExceptions(self, exceptions_path):
         exceptions = defaultdict(list)
         if exceptions_path and os.path.exists(exceptions_path):
@@ -122,6 +141,14 @@ class DocumentCheck:
                     if set(f.removesuffix(".md")) - self.allowed_characters:
                         file_errors.append(
                             f"The filename should only user lowercase letters, digits, and underscores ({f})"
+                        )
+
+                    # Multiple consecutive spaces are collapsed when rendering
+                    # Markdown, unless they're at the end of a line.
+                    for line_number, line in f_data["multiple_spaces"]:
+                        file_errors.append(
+                            f"Multiple consecutive spaces should only be used at the end of a line.\n"
+                            f"      Line {line_number}: {line}"
                         )
 
                 # Check anchors

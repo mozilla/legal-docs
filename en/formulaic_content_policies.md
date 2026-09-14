@@ -45,7 +45,7 @@ A trademark is a word, name, logo, brand, catchphrase, or similar device used to
 
 Referencing or discussing a third party’s trademark may not, on its own, violate this policy. Mozilla will not remove a prompt for using a trademark to accurately identify something, or where an exception to trademark law, such as fair use, applies.
 
-If you are a trademark owner or a trademark owner’s authorized agent, and you believe that content shared on the Formulaic app infringes one or more of your trademarks, please send us a “Trademark Notice.”  We handle Trademark Notices similarly to how we handle notices of copyright infringement, and require that they contain each of the following items:
+If you are a trademark owner or a trademark owner’s authorized agent, and you believe that content shared on the Formulaic app infringes one or more of your trademarks, please send us a “Trademark Notice.” We handle Trademark Notices similarly to how we handle notices of copyright infringement, and require that they contain each of the following items:
 
 - A physical or electronic signature from the trademark owner or its authorized representative;
 - Identification of the word, name, logo, brand, catchphrase, or other mark that you claim has been infringed;

@@ -14,7 +14,7 @@ Agencies conducting work for Mozilla must avoid targeting tactics that utilize s
 
 ### Approved Targeting Tactics:
 
-The following are approved targeting tactics for all marketing, advertising and promotional Services that Agency may provide under applicable Statements of Work.  Agency will not engage in any advertising/targeting tactics that are not expressly set forth below, unless Agency receives Client’s prior written approval before engaging in any such additional advertising/targeting. 
+The following are approved targeting tactics for all marketing, advertising and promotional Services that Agency may provide under applicable Statements of Work. Agency will not engage in any advertising/targeting tactics that are not expressly set forth below, unless Agency receives Client’s prior written approval before engaging in any such additional advertising/targeting. 
 
 * Contextual Targeting (Content Themes/Site Themes & Keyword Targeting) - Contextual targeting identifies content themes on pages across the web and allows a brand to align messaging/advertisements with specific content across the web to increase response. For example, reading a fitness website and being advertised a wearable fitness device
 * Device Targeting - Device targeting gives advertisers the ability to target by desktop, mobile, or tablet device. For example, your laptop computer vs your cell phone. Desktop, Mobile, and Tablet are all approved devices for the Mozilla campaign.
@@ -22,4 +22,4 @@ The following are approved targeting tactics for all marketing, advertising and 
 * Geographic Targeting - Allows targeting by country, region, and in some cases zip-level. For example, US only. US only is the approved targeting tactic for the campaign.
 * Daypart Targeting - Tailoring advertisements to show only certain times of day. For example, daily 8am-8pm.
 * Browser & Browser Version Targeting - Targeting segmented by only showing ads to users on a specific browser or browser version. For example, IE v 6.0.
-* Demographic / Audience targeting  - Targeting an audience based on demographic profiles based on the vendor site or network’s 1st party data. For example, if a user has already signed up for a Yahoo account where the user has agreed to the terms of use, the use of Yahoo’s 1st or 3rd-party data is acceptable.
+* Demographic / Audience targeting - Targeting an audience based on demographic profiles based on the vendor site or network’s 1st party data. For example, if a user has already signed up for a Yahoo account where the user has agreed to the terms of use, the use of Yahoo’s 1st or 3rd-party data is acceptable.
