@@ -28,9 +28,9 @@ Content authored by Mozilla is generally made available for public sharing and r
 
 Some Content in our Communications is acquired from sources that prohibit further use of their Content without advance permission.  Where possible, the Content or Website footer will display a notice with the applicable license. You agree to abide by such notices.  Note the following specifics:
 
-* Some Content expressly indicates that the author does not intend for an open license to apply.  You should contact the author or author’s agent for permission to use such Content.  Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
+* Some Content expressly indicates that the author does not intend for an open license to apply. You should contact the author or author’s agent for permission to use such Content.  Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
 * Some Content contains trademarks, trade dress, logos and brand assets of Mozilla and other parties (“Trademarks”).  Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark.  [Learn more on Mozilla trademarks.](https://www.mozilla.org/foundation/trademarks/policy/)
-* Software used by our Websites is licensed under the MPL or similarly permissive open source licenses.  For more information on the specific license, please see the applicable source code or GitHub repository. 
+* Software used by our Websites is licensed under the MPL or similarly permissive open source licenses. For more information on the specific license, please see the applicable source code or GitHub repository. 
 
 
 #### 4\. Content Submissions
