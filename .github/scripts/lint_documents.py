@@ -97,11 +97,15 @@ class DocumentCheck:
         """Extract lines with multiple consecutive spaces"""
 
         lines = []
+        spaces_pattern = re.compile(r" {2,}")
+        empty_cell_pattern = re.compile(r"\| +(?=\|)")
         for line_number, line in enumerate(content, start=1):
             # Ignore leading spaces (indentation) and trailing spaces (used
             # in Markdown to force a line break)
             line = line.strip()
-            if "  " in line:
+            # Ignore empty table cells, e.g. "|  |  |"
+            text = empty_cell_pattern.sub("|", line)
+            if spaces_pattern.search(text):
                 lines.append((line_number, line))
 
         return lines
