@@ -138,14 +138,15 @@ class DocumentCheck:
                         file_errors.append(
                             f"The filename should only user lowercase letters, digits, and underscores ({f})"
                         )
+
                     # Multiple consecutive spaces are collapsed when rendering
                     # Markdown, unless they're at the end of a line.
                     for line_number, line in f_data["multiple_spaces"]:
                         file_errors.append(
                             f"Multiple consecutive spaces should only be used at the end of a line.\n"
                             f"      Line {line_number}: {line}"
-                            )
-                        
+                        )
+
                 # Check anchors
                 if exception_id not in self.exceptions["anchors"]:
                     file_errors.extend(self.checkAnchors(f_data["anchors"]))
