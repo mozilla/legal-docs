@@ -69,10 +69,10 @@ To provide our services as described above, we may disclose personal data to:
 
 |  |  |
 | ----- | ----- |
-| Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions. [Learn more](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Authorities  | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity.  |
+| Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions. [Learn more](https://support.mozilla.org/kb/firefox-subprocessor-list). |
+| Authorities | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity. |
 | Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open, we sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
-| Mozilla controlled entities and successors  | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
+| Mozilla controlled entities and successors | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
 ## International transfers of data
 
@@ -125,16 +125,16 @@ We may need to change this policy and our notices, in which case the updates wil
 
 | Data Type | Description | Examples for Mozilla account users |
 | ----- | ----- | ----- |
-| Account data | This is data related to the management of your Mozilla account, such as registration information.  | Account username, display name, Mozilla account ID.  |
-| Authentication data | We receive data to secure your accounts, and also create authentication-related data to maintain your account security.  | Password hash, tokenData. |
-| Contact data | The email address you provide as part of your account registration, in addition to any other contact data you may choose to provide to us.  | Email address, secondary email address, phone number. |
-| Interaction data | This is data about how you engage with our services. | Click counts, event logs, usage data.  |
-| Language preference | Your inferred or preferred language (if you provide it in settings) for interacting with our services. | Language.  |
-| Location | We infer your location from your IP address at the level of your country, city, or region. | Country code, city.  |
-| Settings | These are your preferences or settings as to how the services are provided, such as your privacy preferences. If you have not made any specific choices, these will be the default settings.  | Privacy settings, account settings.  |
-| System performance data | This is data about how the services are operating on your device.  | Timestamps, submission success/failure.  |
-| Technical data | This is information about the hardware you are accessing our services from (such as your desktop computer, smartphone or tablet), its configurations and connections.  | Device operating system, browser and version, timestamp, locale. |
-| Unique identifiers  | These are unique identifiers, which may be created at various times to manage your interactions with the service.  | Accounts_id, session_id.  |
+| Account data | This is data related to the management of your Mozilla account, such as registration information. | Account username, display name, Mozilla account ID. |
+| Authentication data | We receive data to secure your accounts, and also create authentication-related data to maintain your account security. | Password hash, tokenData. |
+| Contact data | The email address you provide as part of your account registration, in addition to any other contact data you may choose to provide to us. | Email address, secondary email address, phone number. |
+| Interaction data | This is data about how you engage with our services. | Click counts, event logs, usage data. |
+| Language preference | Your inferred or preferred language (if you provide it in settings) for interacting with our services. | Language. |
+| Location | We infer your location from your IP address at the level of your country, city, or region. | Country code, city. |
+| Settings | These are your preferences or settings as to how the services are provided, such as your privacy preferences. If you have not made any specific choices, these will be the default settings. | Privacy settings, account settings. |
+| System performance data | This is data about how the services are operating on your device. | Timestamps, submission success/failure. |
+| Technical data | This is information about the hardware you are accessing our services from (such as your desktop computer, smartphone or tablet), its configurations and connections. | Device operating system, browser and version, timestamp, locale. |
+| Unique identifiers | These are unique identifiers, which may be created at various times to manage your interactions with the service. | Accounts_id, session_id. |
 
 ## Lawful bases
 

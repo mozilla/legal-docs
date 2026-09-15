@@ -151,7 +151,7 @@ We may need to change this policy and our notices, in which case the updates wil
                     <li>Browsing data (for DNS over HTTPs only)</li>
                 </ul>            
             </td>
-            <td><strong>Legitimate interest</strong> in providing  additional security measures.</td>
+            <td><strong>Legitimate interest</strong> in providing additional security measures.</td>
         </tr>
         <tr>
             <td>To understand usage of Firefox</td>
