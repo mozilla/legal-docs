@@ -1,6 +1,6 @@
 # Websites & Communications Terms of Use
 
-June 23, 2016
+September 22, 2026
 
 ### Terms of Use
 
@@ -108,3 +108,5 @@ USA
 Telephone: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
+
+Please note that we do not accept information requests from government agencies at the above address. See our [Transparency Page](https://www.mozilla.org/about/policy/transparency/) for details about how to submit such requests.
