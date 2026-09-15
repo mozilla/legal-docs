@@ -1,7 +1,7 @@
 # MDN Plus Terms of Service
 
-Version 1.2, Effective November 1, 2023
-{: datetime="2023-11-01" }
+Version 1.3, Effective September 22, 2026
+{: datetime="2026-09-22" }
 
 MDN Plus is a subscription service providing premium functionality, including MDN offline, collections, themes, and updates. (the “Service”). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Please note that we do not accept information requests from government agencies at the above address. See our [Transparency Page](https://www.mozilla.org/about/policy/transparency/) for details about how to submit such requests.
