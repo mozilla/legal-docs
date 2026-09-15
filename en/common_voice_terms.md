@@ -60,7 +60,7 @@ Any liability of Mozilla under these Terms is limited to $500.
 
 You agree to indemnify and hold Mozilla harmless for any liability or claim that results from your participation in Common Voice. 
 
-Mozilla provides Common Voice “as is.”  Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
+Mozilla provides Common Voice “as is.” Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
 
 ## 6. Notices of Infringement
 
