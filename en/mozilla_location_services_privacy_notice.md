@@ -22,7 +22,7 @@ request is made:
 __Location data__: Information about the publicly observable Wi-Fi access
 points, cell towers and Bluetooth beacons closest to you. We may also
 determine your location from your device’s (e.g., computer, phone, tablet) IP
-address.  You can prevent your Wi-Fi access points from being reported to
+address. You can prevent your Wi-Fi access points from being reported to
 Mozilla - see how to disable this on the
 [Opt-Out page](https://location.services.mozilla.com/optout) on MLS.
 
@@ -83,5 +83,5 @@ change your Firefox for Android (versions 69 and earlier) preference under
 Settings / Privacy / Data Choices.
 
 We aggregate location points sent to Mozilla from users around the world in our
-[data map](https://location.services.mozilla.com/map).  Location points are
+[data map](https://location.services.mozilla.com/map). Location points are
 blurred to promote anonymity.
