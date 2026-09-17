@@ -1,7 +1,7 @@
 # Mozilla Subscription Services | Terms of Service
 
-Effective March 24, 2026
-{: datetime="2026-03-24" }
+Effective September 16, 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Please note that we do not accept information requests from government agencies at the above address. See our [Transparency Page](https://www.mozilla.org/about/policy/transparency/) for details about how to submit such requests.

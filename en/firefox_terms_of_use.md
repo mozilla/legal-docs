@@ -1,7 +1,7 @@
 # Firefox Terms of Use
 
-Effective June 10, 2025
-{: datetime="2025-06-10" }
+Effective September 16, 2026
+{: datetime="2026-09-16" }
 
 Firefox is free and open source web browser software, built by a community of thousands from all over the world.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Please note that we do not accept information requests from government agencies at the above address. See our [Transparency Page](https://www.mozilla.org/about/policy/transparency/) for details about how to submit such requests.
