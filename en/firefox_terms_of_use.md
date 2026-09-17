@@ -1,7 +1,7 @@
 # Firefox Terms of Use
 
-Effective September 22, 2026
-{: datetime="2026-09-22" }
+Effective September 16, 2026
+{: datetime="2026-09-16" }
 
 Firefox is free and open source web browser software, built by a community of thousands from all over the world.
 

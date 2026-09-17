@@ -114,7 +114,7 @@
   "firefox_cloud_services_tos.md": {
     "count": 12,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_cloud_services_tos.md",
     "locales": [
       "de",
@@ -176,7 +176,7 @@
   "firefox_terms_of_use.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_terms_of_use.md",
     "locales": [
       "cs",
@@ -218,7 +218,7 @@
   "focus_terms_of_use.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/focus_terms_of_use.md",
     "locales": [
       "cs",
@@ -260,7 +260,7 @@
   "formulaic_tos.md": {
     "count": 0,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/formulaic_tos.md",
     "locales": []
   },
@@ -289,7 +289,7 @@
   "mdn_plus_terms.md": {
     "count": 14,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/mdn_plus_terms.md",
     "locales": [
       "cs",
@@ -473,7 +473,7 @@
   "subscription_services_tos.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/subscription_services_tos.md",
     "locales": [
       "cs",
@@ -529,7 +529,7 @@
   "websites_tou.md": {
     "count": 13,
     "has_source": true,
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/websites_tou.md",
     "locales": [
       "cs",

@@ -1,7 +1,7 @@
 # Mozilla Accounts Terms of Service
 
-Last Updated September 22, 2026
-{: datetime="2026-09-22" }
+Last Updated September 16, 2026
+{: datetime="2026-09-16" }
 
 ## Summary
 
