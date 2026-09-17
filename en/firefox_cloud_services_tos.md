@@ -1,7 +1,7 @@
 # Mozilla Accounts Terms of Service
 
-Last Updated June 10, 2025
-{: datetime="2025-06-10" }
+Last Updated September 16, 2026
+{: datetime="2026-09-16" }
 
 ## Summary
 
@@ -59,7 +59,10 @@ This top section summarizes the terms below. This summary is provided to help yo
     You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage account / Email Preferences).
     
     We may also send you important account information such as updates to legal or privacy terms, or security messages like password resets, email verification, and linked devices. These are necessary to our services and cannot be unsubscribed from. 
-You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+    You can contact Mozilla at _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+    Please note that we do not accept information requests from government agencies at the above address. See our [Transparency Page](https://www.mozilla.org/about/policy/transparency/) for details about how to submit such requests.
 
 6. #### Your Content in Our Services
 
