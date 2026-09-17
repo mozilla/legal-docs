@@ -1,7 +1,7 @@
 # Websites & Communications Terms of Use
 
-September 22, 2026
-{: datetime="2026-09-22" }
+September 16, 2026
+{: datetime="2026-09-16" }
 
 ### Terms of Use
 

@@ -1,7 +1,7 @@
 # MDN Plus Terms of Service
 
-Version 1.3, Effective September 22, 2026
-{: datetime="2026-09-22" }
+Version 1.3, Effective September 16, 2026
+{: datetime="2026-09-16" }
 
 MDN Plus is a subscription service providing premium functionality, including MDN offline, collections, themes, and updates. (the “Service”). Please read these Terms of Service carefully because they explain important information about your use of the Service.
 

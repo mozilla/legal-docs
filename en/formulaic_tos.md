@@ -1,7 +1,7 @@
 # Formulaic Terms of Service
 
-Last Updated September 22, 2026
-{: datetime="2026-09-22" }
+Last Updated September 16, 2026
+{: datetime="2026-09-16" }
 
 Formulaic (the “Service”) is a service that allows users to create, share, manage, and use templates (the “Formulas”) for querying Artificial Intelligence (AI) based Large Language Model (LLMs) (the “Service”). It also allows users to run those queries through a third-party LLM platform, and to view and store your queries and the resulting responses. (For the purposes of this Agreement, Formulas, instructions, your documents, descriptions, and responses will all be referred to as the “Content”.) The Service is owned, licensed, and operated by Mozilla Corporation (referred to herein as “we,” “us,” “our,” or “Mozilla”).
 
