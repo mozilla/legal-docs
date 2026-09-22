@@ -120,7 +120,7 @@ Wanneer u pagina’s met Help van Mozilla bezoekt in verband met Firefox, verzam
 
 Het kan ook zijn dat we verplicht worden om uw persoonlijke gegevens te verwerken om te voldoen aan toepasselijke wetten en voor beschermingsdoeleinden, zoals:
 
-* Reageren op[ wettelijke aanvragen](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) en het naleven van [juridische processen](https://www.mozilla.org/about/policy/transparency/), zoals reageren op dagvaardingen, onderzoeken of verzoeken van overheidsautoriteiten. Mozilla vereist een [geldig wettig proces](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) om openbaarmaking van specifieke gebruikersgegevens aan een overheid af te dwingen.
+* Reageren op wettelijke aanvragen en het naleven van [juridische processen](https://www.mozilla.org/about/policy/transparency/), zoals reageren op dagvaardingen, onderzoeken of verzoeken van overheidsautoriteiten. Mozilla vereist een geldig wettig proces om openbaarmaking van specifieke gebruikersgegevens aan een overheid af te dwingen.
 * Reageren op aanvragen voor het uitoefenen van uw privacyrechten, zoals uw recht op toegang tot of verwijdering van uw persoonlijke gegevens.
 * Het identificeren, onderzoeken en aanpakken van potentiële frauduleuze activiteiten of andere schadelijke activiteiten, zoals illegale activiteiten, cyberaanvallen of inbreuken op intellectuele eigendom (waaronder wettelijke claims aanhangig maken of zich daartegen verdedigen).
 * Het uitvoeren van activiteiten op het gebied van naleving en beveiliging zoals audits en bedrijfsveiligheidsbeheer.
@@ -132,7 +132,7 @@ Voor het verzorgen van onze services zoals deze hiervoor reeds zijn beschreven, 
 |  |  |
 | ----- | ----- |
 | Partners, dienstverleners, leveranciers en aannemers | We werken samen met partners, dienstverleners, leveranciers en aannemers om te voldoen aan de doeleinden die hiervoor worden vermeld. Er zijn contractuele waarborgen geïmplementeerd, zodat rechtspersonen die persoonlijke gegevens ontvangen, contractueel verplicht zijn om de gegevens te verwerken in overeenstemming met de instructies van Mozilla. [Meer informatie](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Autoriteiten | Mozilla vereist een [geldig wettig proces](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) om openbaarmaking van specifieke gebruikersgegevens aan een overheid af te dwingen. In die gevallen moeten we mogelijk de persoonlijke gegevens die zijn beschreven in deze Verklaring, openbaar maken aan wetshandhavingsinstanties, overheidsinstanties of soortgelijke rechtspersonen om te voldoen aan toepasselijke wetten en om schadelijke, ongeautoriseerde of illegale activiteiten te identificeren en te voorkomen. |
+| Autoriteiten | Mozilla vereist een geldig wettig proces om openbaarmaking van specifieke gebruikersgegevens aan een overheid af te dwingen. In die gevallen moeten we mogelijk de persoonlijke gegevens die zijn beschreven in deze Verklaring, openbaar maken aan wetshandhavingsinstanties, overheidsinstanties of soortgelijke rechtspersonen om te voldoen aan toepasselijke wetten en om schadelijke, ongeautoriseerde of illegale activiteiten te identificeren en te voorkomen. |
 | Onderzoekers | Wanneer we onze [missie](https://www.mozilla.org/about/manifesto/) om open te zijn, vervullen. We geven soms informatie vrij om onze producten beter te maken en een open web te bevorderen. Wanneer we dat doen, gebeurt dat in een gedeïdentificeerde en/of samengevoegde [indeling](https://wiki.mozilla.org/Data_Publishing). |
 | Door Mozilla beheerde rechtspersonen en opvolgers | Als een mondiaal bedrijf, delen we gegevens met door Mozilla beheerde filialen en dochterondernemingen. Het kan ook zijn dat we persoonlijke gegevens openbaar moeten maken als onderdeel van een bedrijfstransactie, zoals een fusie, een aankoop, de verkoop van activa of een soortgelijke transactie. |
 
@@ -437,7 +437,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
                 <p><strong>Naleving van de wet</strong> door te reageren op aanvragen met betrekking tot rechten van betrokkenen, op aanvragen van wetshandhavingsinstanties, het beheren en beschermen van onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
                 <p><strong>Legitiem belang</strong>, waar naleving niet toepasselijk is, bij het ondersteunen van juridische of regelgevende processen of aanvragen, het voorkomen van fraude en het beheren en beschermen onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
             </td>
-            <td>Meer informatie over hoe we reageren op <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">wettelijke aanvragen</a>.</td>
+            <td>Meer informatie over hoe we reageren op <a href="https://www.mozilla.org/about/policy/transparency/">wettelijke aanvragen</a>.</td>
         </tr>
     </tbody>
 </table>

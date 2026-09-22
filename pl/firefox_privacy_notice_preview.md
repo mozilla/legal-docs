@@ -120,7 +120,7 @@ Kiedy użytkownik odwiedza strony pomocy firmy Mozilla związane z Firefoksem, M
 
 Możemy być również zobowiązani do przetwarzania danych osobowych użytkownika w celu zapewnienia zgodności z obowiązującymi przepisami prawa i celami ochrony, takimi jak:
 
-*Odpowiadanie na [zgodne z prawem żądania](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) i przestrzeganie [procesów prawnych](https://www.mozilla.org/about/policy/transparency/), takich jak odpowiadanie na wezwania sądowe, dochodzenia lub żądania organów rządowych. Mozilla wymaga ważnego [procesu prawnego](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process), aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika.
+*Odpowiadanie na zgodne z prawem żądania i przestrzeganie [procesów prawnych](https://www.mozilla.org/about/policy/transparency/), takich jak odpowiadanie na wezwania sądowe, dochodzenia lub żądania organów rządowych. Mozilla wymaga ważnego procesu prawnego, aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika.
 * Odpowiadanie na wnioski o skorzystanie z praw do prywatności, takich jak prawo do dostępu lub usunięcia danych osobowych.
 * Identyfikowanie, badanie i reagowanie na potencjalne nieuczciwe działania lub inne szkodliwe działania, takie jak nielegalne działania, cyberataki lub naruszenia własności intelektualnej (w tym zgłaszanie lub obrona roszczeń prawnych).
 * Wykonywanie wewnętrznych działań związanych ze zgodnością i bezpieczeństwem, takich jak audyty i zarządzanie bezpieczeństwem przedsiębiorstwa.
@@ -132,7 +132,7 @@ Aby świadczyć nasze usługi opisane powyżej, możemy ujawniać dane osobowe:
 |  |  |
 | ----- | ----- |
 | Partnerzy, dostawcy usług, dostawcy i wykonawcy | Aby realizować cele wymienione powyżej, współpracujemy z partnerami, usługodawcami, dostawcami i wykonawcami. Stosujemy zabezpieczenia umowne, aby podmioty otrzymujące dane osobowe były umownie zobowiązane do przetwarzania danych zgodnie z instrukcjami firmy Mozilla. [Więcej informacji](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Organy rządowe | Mozilla wymaga ważnego [procesu prawnego](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process), aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika. W takich przypadkach Mozilla może być zmuszona do ujawnienia danych osobowych określonych w niniejszych Zasadach organom ścigania, organom rządowym lub podobnym podmiotom w celu zapewnienia zgodności z obowiązującymi przepisami prawa oraz w celu identyfikacji i zapobiegania szkodliwym, nieautoryzowanym lub nielegalnym działaniom. |
+| Organy rządowe | Mozilla wymaga ważnego procesu prawnego, aby zmusić do ujawnienia instytucji rządowej określonych danych użytkownika. W takich przypadkach Mozilla może być zmuszona do ujawnienia danych osobowych określonych w niniejszych Zasadach organom ścigania, organom rządowym lub podobnym podmiotom w celu zapewnienia zgodności z obowiązującymi przepisami prawa oraz w celu identyfikacji i zapobiegania szkodliwym, nieautoryzowanym lub nielegalnym działaniom. |
 | Badacze | Gdy realizujemy naszą [misję](https://www.mozilla.org/about/manifesto/) otwartości. Czasami udostępniamy informacje, aby ulepszać nasze produkty i wspierać otwartą sieć, ale kiedy to robimy, robimy to w formacie pozbawionym elementów umożliwiających identyfikację i/lub w zagregowanym [formacie](https://wiki.mozilla.org/Data_Publishing). |
 | Podmioty kontrolowane przez firmę Mozilla i następcy prawni | Jako firma globalna udostępniamy dane podmiotom stowarzyszonym i zależnym kontrolowanym przez firmę Mozilla. Możemy również być zmuszeni do ujawnienia danych osobowych w ramach transakcji korporacyjnej, takiej jak fuzja, przejęcie, sprzedaż aktywów lub podobna transakcja. |
 
@@ -437,7 +437,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                 <p><strong>Zgodność z prawem</strong> w zakresie reagowania na żądania dotyczące praw osób, których dane dotyczą, reagowania na żądania organów ścigania, zarządzania i ochrony naszych (i naszych użytkowników) praw, własności i/lub bezpieczeństwa.</p>
                 <p><strong>Uzasadniony interes</strong>, w przypadku gdy zgodność nie jest właściwa, we wspieraniu procesów lub żądań prawnych lub regulacyjnych, zapobieganiu oszustwom oraz zarządzaniu i ochronie naszych (i naszych użytkowników) praw, własności i/lub bezpieczeństwa.</p>
             </td>
-            <td>Dowiedz się więcej o tym, jak odpowiadamy na <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">zgodne z prawem żądania</a>.</td>
+            <td>Dowiedz się więcej o tym, jak odpowiadamy na <a href="https://www.mozilla.org/about/policy/transparency/">zgodne z prawem żądania</a>.</td>
         </tr>
     </tbody>
 </table>

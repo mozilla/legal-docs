@@ -120,7 +120,7 @@ Saat Anda mengunjungi halaman bantuan Mozilla sehubungan dengan Firefox, Mozilla
 
 Kami juga dapat diharuskan memproses data pribadi Anda untuk mematuhi undang-undang yang berlaku dan tujuan perlindungan, seperti:
 
-* Menanggapi [permintaan yang sah](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dari otoritas pemerintah. Mozilla mewajibkan [Proses Hukum](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah.
+* Menanggapi permintaan yang sah dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dari otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah.
 * Menanggapi permintaan untuk menggunakan hak privasi, seperti hak Anda untuk mengakses atau menghapus data pribadi Anda.
 * Mengidentifikasi, menyelidiki, dan menangani potensi aktivitas penipuan, atau aktivitas berbahaya lainnya seperti aktivitas ilegal, serangan siber, atau pelanggaran kekayaan intelektual (termasuk mengajukan atau membela tuntutan hukum).
 * Melakukan aktivitas kepatuhan dan keamanan internal, seperti audit dan manajemen keamanan perusahaan.
@@ -132,7 +132,7 @@ Untuk menyediakan layanan kami sebagaimana dijelaskan di atas, kami dapat mengun
 |  |  |
 | ----- | ----- |
 | Mitra, penyedia layanan, pemasok, dan kontraktor | Untuk melaksanakan tujuan yang tercantum di atas, kami bekerja sama dengan mitra, penyedia layanan, dan kontraktor. Kami memiliki perlindungan kontrak, sehingga entitas yang menerima data pribadi secara kontrak wajib menangani data tersebut sesuai dengan instruksi Mozilla. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Otoritas | Mozilla mewajibkan [Proses Hukum](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal. |
+| Otoritas | Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal. |
 | Penelitian | Saat kami memenuhi [misi](https://www.mozilla.org/about/manifesto/) kami untuk bersikap terbuka. Terkadang kami merilis informasi untuk membuat produk kami lebih baik dan mengembangkan web terbuka, tetapi ketika kami melakukannya, kami akan melakukannya dalam [format](https://wiki.mozilla.org/Data_Publishing) tanpa identitas atau agregat. |
 | Entitas dan penerus yang dikontrol Mozilla | Sebagai perusahaan global, kami membagikan data ke seluruh afiliasi dan anak perusahaan yang dikontrol Mozilla. Kami mungkin juga perlu mengungkapkan data pribadi sebagai bagian dari transaksi perusahaan, seperti merger, akuisisi, penjualan aset, atau transaksi serupa. |
 
@@ -437,7 +437,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                 <p><strong>Kepatuhan terhadap undang-undang</strong> dalam menanggapi permintaan hak subjek data, menanggapi permintaan penegakan hukum, mengelola dan melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
                 <p><strong>Kepentingan yang sah</strong>, jika kepatuhan tidak sesuai, dalam mendukung proses atau permintaan hukum atau peraturan, mencegah penipuan dan mengelola serta melindungi hak, properti, dan/atau keselamatan kami (dan pengguna kami).</p>
             </td>
-            <td>Pelajari lebih lanjut cara kami menanggapi <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">permintaan sah</a>.</td>
+            <td>Pelajari lebih lanjut cara kami menanggapi <a href="https://www.mozilla.org/about/policy/transparency/">permintaan sah</a>.</td>
         </tr>
     </tbody>
 </table>
