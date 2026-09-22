@@ -1,7 +1,7 @@
 # A Firefox Focus és Klar használati feltételei
 
-Hatályos: 2025. április 22-től
-{: datetime="2025-04-22" }
+Hatályos: 2026. szeptember 16-tól
+{: datetime="2026-09-16" }
 
 A Firefox egy ingyenes és nyílt forráskódú webböngészőszoftver, amelyet a világ minden tájáról származó, több ezer felhasználóból álló közösség hozott létre.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Tartsa szem előtt, hogy a fenti címen nem fogadunk kormányzati szervektől érkező adatkérelmeket. Az ilyen jellegű kérelmek benyújtására vonatkozó részletekért tekintse meg az [átláthatósági oldalunkat](https://www.mozilla.org/about/policy/transparency/).

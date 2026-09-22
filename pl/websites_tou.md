@@ -1,6 +1,7 @@
 # Warunki użytkowania witryn i kanałów komunikacyjnych
 
-23 czerwca 2016 r.
+Data wejścia w życie: 16 września 2026 r.
+{: datetime="2026-09-16" }
 
 ### Warunki użytkowania
 
@@ -108,3 +109,5 @@ USA
 Telefon: 650-903-0800  
 Faks: 650-903-0875  
 Legal-notices at mozilla.com
+
+Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).

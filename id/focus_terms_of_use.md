@@ -1,7 +1,7 @@
 # Ketentuan Penggunaan Firefox Focus dan Klar
 
-Berlaku 22 April 2025
-{: datetime="2025-04-22" }
+Berlaku 16 September 2026
+{: datetime="2026-09-16" }
 
 Firefox adalah perangkat lunak browser web sumber terbuka dan gratis, yang dibangun komunitas yang terdiri dari ribuan orang dari seluruh dunia.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.

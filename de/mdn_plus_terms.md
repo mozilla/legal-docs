@@ -1,7 +1,7 @@
 # MDN Plus-Servicebedingungen
 
-Version 1.2, gültig ab Mittwoch, 1. November 2023
-{: datetime="2023-11-01" }
+Gültig ab 16. September 2026
+{: datetime="2026-09-16" }
 
 MDN Plus ist ein Abonnementservice mit Premium-Funktionen, darunter MDN offline, Sammlungen, Themes und Updates. (der „Dienst“). Bitte lesen Sie diese Servicebedingungen sorgfältig durch. Darin werden wichtige Informationen über Ihre Nutzung des Diensts erläutert.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103 USA  
 
 legal-notices@mozilla.com
+
+Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.

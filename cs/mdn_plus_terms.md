@@ -1,7 +1,7 @@
 # Podmínky poskytování služeb MDN Plus
 
-Verze 1.12 platná od 1. listopadu 2023
-{: datetime="2023-11-01" }
+Účinné od 16. září 2026
+{: datetime="2026-09-16" }
 
 MDN Plus se služba předplatného, která poskytuje prémiové funkce, včetně MDN offline, sbírek, motivů a aktualizací. (dále jen „Služby“). Pečlivě si prosím přečtěte tyto Podmínky poskytování služeb, neboť vysvětlují důležité informace ohledně vašeho využívání Služeb.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Dovolujeme si upozornit, že na výše uvedené adrese nepřijímáme žádosti o informace od vládních orgánů. Podrobnosti o tom, jak takové žádosti předkládat, najdete na našich [stránkách Transparentnost](https://www.mozilla.org/about/policy/transparency/).

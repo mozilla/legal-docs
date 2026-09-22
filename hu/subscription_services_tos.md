@@ -1,7 +1,7 @@
 # Mozilla előfizetési szolgáltatások | Szolgáltatási feltételek
 
-Hatályos: 2026. március 24-től
-{: datetime="2026-03-24" }
+Hatályos: 2026. szeptember 16-tól
+{: datetime="2026-09-16" }
 
 A Mozilla Corporation különféle szolgáltatásokat kínál az Ön adatvédelmének és online biztonságának javítására, beleértve a Mozilla VPN-t és a Firefox Relay-t (a „Szolgáltatások”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Tartsa szem előtt, hogy a fenti címen nem fogadunk kormányzati szervektől érkező adatkérelmeket. Az ilyen jellegű kérelmek benyújtására vonatkozó részletekért tekintse meg az [átláthatósági oldalunkat](https://www.mozilla.org/about/policy/transparency/).

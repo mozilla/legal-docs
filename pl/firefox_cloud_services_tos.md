@@ -1,7 +1,7 @@
 # Warunki korzystania z kont Mozilla
 
-Ostatnia aktualizacja: 10 czerwca 2025
-{: datetime="2025-06-10" }
+Data wejścia w życie: 16 września 2026 r.
+{: datetime="2026-09-16" }
 
 ## Streszczenie
 
@@ -60,6 +60,8 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
     
     Możemy również przesyłać użytkownikom ważne informacje dotyczące konta, takie jak aktualizacje postanowień prawnych lub zasad ochrony prywatności, a także wiadomości bezpieczeństwa, umożliwiające zresetowanie hasła, weryfikację adresu e-mail czy kojarzenie urządzeń. Wiadomości takie są wymagane w celu korzystania z naszych usług i nie można zrezygnować z ich subskrypcji. 
 Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 lub adres e-mail legal-notices@mozilla.com_ 
+
+Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).
 
 6. #### Zawartość użytkownika w naszych Usługach
 

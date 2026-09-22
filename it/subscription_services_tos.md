@@ -1,7 +1,7 @@
 # Servizi Mozilla in abbonamento | Termini di servizio
 
-In vigore dal 24 marzo 2026
-{: datetime="2026-03-24" }
+In vigore dal 16 settembre 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation offre vari servizi per migliorare la privacy e la sicurezza online, tra cui Mozilla VPN e Firefox Relay (i "Servizi").
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).

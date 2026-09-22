@@ -1,7 +1,7 @@
 # Firefox Focus 和 Klar 使用条款
 
-2025 年 4 月 22 日生效
-{: datetime="2025-04-22" }
+2026 年 9 月 16 日生效
+{: datetime="2026-09-16" }
 
 Firefox 是一款免费的开源 Web 浏览器软件，由来自全球各地的数千人组成的社区构建。
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+请注意，我方不接受政府机构通过上述地址提交的信息调取申请。有关此类申请的提交方式，请详见我们的[透明度页面](https://www.mozilla.org/about/policy/transparency/)。
