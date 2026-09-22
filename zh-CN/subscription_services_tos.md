@@ -1,7 +1,7 @@
 # Mozilla 订阅服务 | 服务条款
 
-2026 年 3 月 24 日生效
-{: datetime="2026-03-24" }
+2026 年 9 月 16 日生效
+{: datetime="2026-09-16" }
 
 Mozilla Corporation 提供多种服务以提升您的在线隐私与安全，包括 Mozilla VPN 和 Firefox Relay（统称“服务”）。
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+请注意，我方不接受政府机构通过上述地址提交的信息调取申请。有关此类申请的提交方式，请详见我们的[透明度页面](https://www.mozilla.org/about/policy/transparency/)。

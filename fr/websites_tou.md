@@ -1,6 +1,7 @@
 # Conditions d’utilisation des sites Web et Communications
 
-23 juin 2016
+Date d'effet : mercredi 16 septembre 2026
+{: datetime="2026-09-16" }
 
 ### Conditions d’utilisation
 
@@ -108,3 +109,5 @@ USA
 Téléphone : 650-903-0800  
 Fax : 650-903-0875  
 Legal-notices at mozilla.com
+
+Veuillez noter que nous n'acceptons pas les demandes de renseignements provenant d'organismes gouvernementaux à l'adresse ci-dessus. Consultez notre page [Transparence](https://www.mozilla.org/about/policy/transparency/) pour plus de détails sur la manière de soumettre de telles demandes.

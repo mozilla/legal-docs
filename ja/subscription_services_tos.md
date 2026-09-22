@@ -1,7 +1,7 @@
 # Mozilla サブスクリプションサービス | 利用規約
 
-発効日 2026 年 3 月 24 日
-{: datetime="2026-03-24" }
+発効日 2026 年 9 月 16 日
+{: datetime="2026-09-16" }
 
 Mozilla Corporation では、Mozilla VPN や Firefox Relay など、オンラインでのプライバシーとセキュリティを向上させるための各種サービス（以下「サービス」）を提供しています。
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+上記住所では、政府機関からの情報開示要求は受け付けておりませんので、ご了承ください。このような要求の詳しい送付方法については、[透明性ページ](https://www.mozilla.org/about/policy/transparency/)をご覧ください。

@@ -1,7 +1,7 @@
 # Servicios de suscripción de Mozilla | Condiciones del servicio
 
-Vigente desde el 24 de marzo de 2026
-{: datetime="2026-03-24" }
+Vigente desde el miércoles, 16 de septiembre de 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation ofrece diversos servicios para mejorar su privacidad y seguridad online, como, por ejemplo, Mozilla VPN y Firefox Relay (en adelante, los “Servicios”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Tenga en cuenta que no aceptamos solicitudes de información de las agencias gubernamentales en la dirección anterior. Consulte nuestra [Página de transparencia](https://www.mozilla.org/about/policy/transparency/) para obtener más información sobre cómo presentar dichas solicitudes.

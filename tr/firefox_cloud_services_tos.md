@@ -1,7 +1,7 @@
 # Mozilla Hesapları Hizmet Koşulları
 
-Son Güncelleme: 10 Haziran 2025 Salı
-{: datetime="2025-06-10" }
+Yürürlük Tarihi: 16 Eylül 2026
+{: datetime="2026-09-16" }
 
 ## Özet
 
@@ -60,6 +60,8 @@ Son Güncelleme: 10 Haziran 2025 Salı
     
     Ayrıca yasal koşullar veya gizlilik koşullarına ilişkin güncellemeler veya şifre sıfırlama ve e-posta doğrulaması gibi mesajlar ile bağlantılı cihazlara yönelik önemli hesap bilgilerini de size gönderebiliriz. Bu bilgiler, hizmetlerimiz için gereklidir ve bunları almayı bırakmak mümkün değildir. 
 Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 veya legal-notices@mozilla.com_ 
+
+Lütfen yukarıdaki adreste devlet kurumlarından bilgi taleplerini kabul etmediğimizi unutmayın. Söz konusu taleplerin nasıl gönderileceği hakkında bilgi almak için [Şeffaflık Sayfamıza](https://www.mozilla.org/about/policy/transparency/) bakın.
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 

@@ -1,7 +1,7 @@
 # Nutzungsbedingungen für Firefox Focus und Klar
 
-Gültig ab Dienstag, 22. April 2025
-{: datetime="2025-04-22" }
+Gültig ab 16. September 2026
+{: datetime="2026-09-16" }
 
 Firefox ist eine kostenlose Open-Source-Webbrowser-Software, die von einer Community mit Tausenden von Mitgliedern aus der ganzen Welt entwickelt wird.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103, USA
 
 legal-notices@mozilla.com
+
+Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.

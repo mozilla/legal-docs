@@ -1,6 +1,7 @@
 # Ketentuan Penggunaan Situs Web & Komunikasi
 
-23 Juni 2016
+Berlaku 16 September 2026
+{: datetime="2026-09-16" }
 
 ### Ketentuan Penggunaan
 
@@ -108,3 +109,5 @@ AS
 Telepon: 650-903-0800  
 Faks: 650-903-0875  
 Legal-notices di mozilla.com
+
+Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.

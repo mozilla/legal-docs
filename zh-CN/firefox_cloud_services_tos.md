@@ -1,7 +1,7 @@
 # Mozilla 帐户服务条款
 
-最后更新于 2025 年 6 月 10 日
-{: datetime="2025-06-10" }
+2026 年 9 月 16 日生效
+{: datetime="2026-09-16" }
 
 ## 摘要
 
@@ -59,6 +59,8 @@
     另外，我们还可能会向您发送一些重要的帐户信息，如法律或隐私条款更新，或者密码重置、电子邮件验证和链接设备等安全消息。这些信息是我们服务的必要组成部分，无法取消订阅。
     
 您可以写信至 _Mozilla 企业收件人与 Mozilla 联系：Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 或者，发送电子邮件至：legal-notices@mozilla.com_
+
+请注意，我方不接受政府机构通过上述地址提交的信息调取申请。有关此类申请的提交方式，请详见我们的[透明度页面](https://www.mozilla.org/about/policy/transparency/)。
 
 6. #### Services 中您的内容
 

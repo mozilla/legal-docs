@@ -1,7 +1,7 @@
 # Serviços de assinatura da Mozilla | Termos de serviço
 
-Data de vigência: terça-feira, 24 de março de 2026
-{: datetime="2026-03-24" }
+Data de vigência: 16 de setembro de 2026
+{: datetime="2026-09-16" }
 
 A Mozilla Corporation oferece vários serviços para melhorar sua privacidade e segurança on-line, incluindo a VPN da Mozilla e o Firefox Relay (os “Serviços”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.

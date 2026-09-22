@@ -1,7 +1,7 @@
 # Termini di servizio degli account Mozilla
 
-Ultimo aggiornamento martedì 10 giugno 2025
-{: datetime="2025-06-10" }
+In vigore dal 16 settembre 2026
+{: datetime="2026-09-16" }
 
 ## Riepilogo
 
@@ -60,6 +60,8 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
     
     Possiamo inoltre inviare importanti informazioni sull'account, come aggiornamenti ai termini legali o all'informativa sulla privacy, oppure messaggi relativi alla sicurezza, come reimpostazioni di password o verifiche di indirizzi email e dispositivi collegati. Tali comunicazioni sono necessarie per il corretto funzionamento dei nostri servizi, pertanto non è possibile scegliere di non riceverle. 
 Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 oppure a legal-notices@mozilla.com_ 
+
+Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).
 
 6. #### Contenuti dell'utente nei nostri Servizi
 

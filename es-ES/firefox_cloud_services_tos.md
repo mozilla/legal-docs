@@ -1,7 +1,7 @@
 # Condiciones del servicio de las cuentas de Mozilla
 
-Última actualización: martes, 10 de junio de 2025
-{: datetime="2025-06-10" }
+Vigente desde el miércoles, 16 de septiembre de 2026
+{: datetime="2026-09-16" }
 
 ## Resumen
 
@@ -60,6 +60,8 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     
     Asimismo, le podemos enviar información importante relacionada con su cuenta como actualizaciones de términos legales y de privacidad, o mensajes de seguridad en relación con el restablecimiento de la contraseña, la verificación de la dirección de correo electrónico y los dispositivos vinculados. Estos mensajes son imprescindibles para el correcto funcionamiento de nuestros servicios y no se pueden cancelar. 
 Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 o enviando un correo electrónico a legal-notices@mozilla.com_ 
+
+Tenga en cuenta que no aceptamos solicitudes de información de las agencias gubernamentales en la dirección anterior. Consulte nuestra [Página de transparencia](https://www.mozilla.org/about/policy/transparency/) para obtener más información sobre cómo presentar dichas solicitudes.
 
 6. #### Su contenido en nuestros Servicios
 

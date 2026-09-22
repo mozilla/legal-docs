@@ -1,7 +1,7 @@
 # Firefox Focus およびKlar の利用規約
 
-発効日 2025 年 4 月 22 日
-{: datetime="2025-04-22" }
+発効日 2026 年 9 月 16 日
+{: datetime="2026-09-16" }
 
 Firefox は、世界中から多くの人々が結集したコミュニティによって開発された、無料で使えるオープンソースのウェブブラウザーソフトウェアです。
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+上記住所では、政府機関からの情報開示要求は受け付けておりませんので、ご了承ください。このような要求の詳しい送付方法については、[透明性ページ](https://www.mozilla.org/about/policy/transparency/)をご覧ください。

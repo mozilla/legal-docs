@@ -1,6 +1,7 @@
 # Termini di utilizzo di siti web e comunicazioni
 
-23 giugno 2016
+In vigore dal 16 settembre 2026
+{: datetime="2026-09-16" }
 
 ### Termini di utilizzo
 
@@ -108,3 +109,5 @@ USA
 Telefono: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
+
+Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).
