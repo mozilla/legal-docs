@@ -1,6 +1,7 @@
 # Gebruiksvoorwaarden voor Websites en Communicaties
 
-23 juni 2016
+Van kracht vanaf woensdag 16 september 2026
+{: datetime="2026-09-16" }
 
 ### Gebruiksvoorwaarden
 
@@ -108,3 +109,5 @@ Verenigde Staten
 Telefoon: 650-903-0800  
 Fax: 650-903-0875  
 Juridische kennisgevingen op mozilla.com
+
+Houd er rekening mee dat we geen informatieaanvragen van overheidsinstanties accepteren op het bovenstaande adres. Zie onze [pagina over transparantie](https://www.mozilla.org/about/policy/transparency/) voor meer informatie over hoe dergelijke aanvragen kunnen worden ingediend.

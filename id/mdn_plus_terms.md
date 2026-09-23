@@ -1,7 +1,7 @@
 # Ketentuan Layanan MDN Plus
 
-Versi 1.2, Berlaku 01 November 2023
-{: datetime="2023-11-01" }
+Berlaku 16 September 2026
+{: datetime="2026-09-16" }
 
 MDN Plus adalah layanan langganan yang menyediakan fungsi, premium, termasuk MDN offline, koleksi, tema, dan pembaruan. (“Layanan”). Silakan baca Ketentuan Layanan ini dengan saksama karena terdapat informasi penting tentang penggunaan Layanan Anda.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.

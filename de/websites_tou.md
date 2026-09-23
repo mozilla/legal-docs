@@ -1,6 +1,7 @@
 # Nutzungsbedingungen für Websites und Kommunikation
 
-23.06.2016
+Gültig ab 16. September 2026
+{: datetime="2026-09-16" }
 
 ### Nutzungsbedingungen
 
@@ -108,3 +109,5 @@ USA
 Tel.: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices (bei) mozilla.com
+
+Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.

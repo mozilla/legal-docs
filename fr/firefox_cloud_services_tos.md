@@ -1,7 +1,7 @@
 # Comptes Mozilla - Conditions d’utilisation
 
-Dernière mise à jour le 10 juin 2025
-{: datetime="2025-06-10" }
+Date d'effet : mercredi 16 septembre 2026
+{: datetime="2026-09-16" }
 
 ## Résumé
 
@@ -60,6 +60,8 @@ Cette première section offre un résumé des conditions d’utilisation. Ce ré
     
     Nous pouvons également vous envoyer des informations importantes concernant votre compte, telles que les mises à jour des dispositions légales ou des dispositions sur la protection de la confidentialité, ou des messages de sécurité concernant notamment la réinitialisation des mots de passe, les vérifications par email et les appareils associés. Ces messages sont indispensables à nos services et vous ne pouvez pas vous désinscrire. 
 Pour contacter Mozilla : _Mozilla Corporation, Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+Veuillez noter que nous n'acceptons pas les demandes de renseignements provenant d'organismes gouvernementaux à l'adresse ci-dessus. Consultez notre page [Transparence](https://www.mozilla.org/about/policy/transparency/) pour plus de détails sur la manière de soumettre de telles demandes.
 
 6. #### Vos contenus dans nos services
 

@@ -1,7 +1,7 @@
 # Warunki korzystania z usługi MDN Plus
 
-Wersja 1.2, obowiązuje od 1 listopada 2023 r.
-{: datetime="2023-11-01" }
+Data wejścia w życie: 16 września 2026 r.
+{: datetime="2026-09-16" }
 
 MDN Plus to usługa subskrypcji zapewniająca funkcjonalność premium, w tym MDN offline, kolekcje, motywy i aktualizacje („Usługa”). Należy uważnie przeczytać niniejsze Warunki korzystania z usługi, ponieważ zawierają one ważne informacje dotyczące korzystania z Usługi przez użytkownika.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).

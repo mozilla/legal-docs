@@ -1,7 +1,7 @@
 # Servicebedingungen für Mozilla-Konten
 
-Zuletzt aktualisiert am Dienstag, 10. Juni 2025
-{: datetime="2025-06-10" }
+Gültig ab 16. September 2026
+{: datetime="2026-09-16" }
 
 ## Zusammenfassung
 
@@ -60,6 +60,8 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     
     Wir senden Ihnen evtl. auch wichtige Kontoinformationen wie Aktualisierungen der rechtlichen oder Datenschutzbestimmungen oder Sicherheitsnachrichten wie solche zu Passwort-Rücksetzungen, E-Mail-Bestätigung und verknüpften Geräten. Diese Nachrichten sind für unsere Services notwendig. Sie können daher nicht abbestellt werden. 
 Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.
 
 6. #### Ihre Inhalte in unseren Services
 

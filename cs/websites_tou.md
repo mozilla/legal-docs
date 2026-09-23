@@ -1,6 +1,7 @@
 # Podmínky používání webů a sdělení
 
-23. června 2016
+Účinné od 16. září 2026
+{: datetime="2026-09-16" }
 
 ### Podmínky používání
 
@@ -108,3 +109,5 @@ USA
 Telefon: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
+
+Dovolujeme si upozornit, že na výše uvedené adrese nepřijímáme žádosti o informace od vládních orgánů. Podrobnosti o tom, jak takové žádosti předkládat, najdete na našich [stránkách Transparentnost](https://www.mozilla.org/about/policy/transparency/).

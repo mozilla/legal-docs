@@ -1,7 +1,7 @@
 # ウェブサイトおよびコミュニケーション　利用規約
 
-2016 年 6 月 23 日
-
+発効日 2026 年 9 月 16 日
+{: datetime="2026-09-16" }
 ［この文書は、日本のFirefoxブラウザのユーザ等の便宜を図るために掲載している、Websites & Communications Terms of Useの参考訳です。］
 
 ### 利用規約
@@ -109,3 +109,5 @@ USA
 電話: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
+
+上記住所では、政府機関からの情報開示要求は受け付けておりませんので、ご了承ください。このような要求の詳しい送付方法については、[透明性ページ](https://www.mozilla.org/about/policy/transparency/)をご覧ください。

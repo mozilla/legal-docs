@@ -1,7 +1,7 @@
 # Odběr služeb Mozilla | Podmínky služby
 
-Účinné od 24. března 2026
-{: datetime="2026-03-24" }
+Účinné od 16. září 2026
+{: datetime="2026-09-16" }
 
 Společnost Mozilla Corporation nabízí různé služby pro lepší ochranu vašeho soukromí a zabezpečení online, včetně služeb Mozilla VPN a Firefox Relay (dále jen „služby“).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Dovolujeme si upozornit, že na výše uvedené adrese nepřijímáme žádosti o informace od vládních orgánů. Podrobnosti o tom, jak takové žádosti předkládat, najdete na našich [stránkách Transparentnost](https://www.mozilla.org/about/policy/transparency/).

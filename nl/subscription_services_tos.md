@@ -1,7 +1,7 @@
 # Mozilla Abonnementsservices | Servicevoorwaarden
 
-Van kracht vanaf dinsdag 24 maart 2026
-{: datetime="2026-03-24" }
+Van kracht vanaf woensdag 16 september 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation biedt verschillende services aan om uw privacy en veiligheid online te verbeteren, waaronder Mozilla VPN en Firefox Relay (de "Services").
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103, Verenigde Staten  
 
 legal-notices@mozilla.com
+
+Houd er rekening mee dat we geen informatieaanvragen van overheidsinstanties accepteren op het bovenstaande adres. Zie onze [pagina over transparantie](https://www.mozilla.org/about/policy/transparency/) voor meer informatie over hoe dergelijke aanvragen kunnen worden ingediend.

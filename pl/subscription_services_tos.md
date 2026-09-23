@@ -1,7 +1,7 @@
 # Usługi subskrypcji Mozilla | Warunki korzystania z usługi
 
-Data wejścia w życie: 24 marca 2026 r.
-{: datetime="2026-03-24" }
+Data wejścia w życie: 16 września 2026 r.
+{: datetime="2026-09-16" }
 
 Mozilla Corporation oferuje różne usługi mające na celu poprawę prywatności i bezpieczeństwa użytkownika w Internecie, w tym Mozilla VPN i Firefox Relay („Usługi”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).

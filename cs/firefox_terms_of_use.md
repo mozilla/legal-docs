@@ -1,7 +1,7 @@
 # Podmínky používání Firefoxu
 
-Účinné od 10. června 2025
-{: datetime="2025-06-10" }
+Účinné od 16. září 2026
+{: datetime="2026-09-16" }
 
 Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým vytvořený komunitou tisíců lidí z celého světa.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Dovolujeme si upozornit, že na výše uvedené adrese nepřijímáme žádosti o informace od vládních orgánů. Podrobnosti o tom, jak takové žádosti předkládat, najdete na našich [stránkách Transparentnost](https://www.mozilla.org/about/policy/transparency/).

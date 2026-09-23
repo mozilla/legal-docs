@@ -1,7 +1,7 @@
 # Termini di utilizzo di Firefox
 
-In vigore dal 10 giugno 2025
-{: datetime="2025-06-10" }
+In vigore dal 16 settembre 2026
+{: datetime="2026-09-16" }
 
 Firefox è un browser web gratuito e open source, creato da una comunità di migliaia di persone di tutto il mondo.
 
@@ -85,3 +85,5 @@ Att.: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).

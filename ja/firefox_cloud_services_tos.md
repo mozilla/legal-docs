@@ -1,7 +1,7 @@
 # Mozilla アカウントサービス規約
 
-最終更新　2025 年 6 月 10 日
-{: datetime="2025-06-10" }
+発効日 2026 年 9 月 16 日
+{: datetime="2026-09-16" }
 
 ## 概要
 
@@ -60,6 +60,8 @@
     
     Mozilla は、法的情報やプライバシー条件の更新、あるいはパスワードのリセット、メールアドレスの確認、リンクされているデバイスといったセキュリティに関するメッセージなど、重要なアカウント情報を皆様にお送りすることもあります。これらは弊社サービスにとって必要な情報であるため、受信登録を解除することはできません。
 Mozilla の連絡先情報：_Mozilla Corporation Attn:Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 または legal-notices@mozilla.com_
+
+上記住所では、政府機関からの情報開示要求は受け付けておりませんので、ご了承ください。このような要求の詳しい送付方法については、[透明性ページ](https://www.mozilla.org/about/policy/transparency/)をご覧ください。
 
 6. #### 本サービスのコンテンツ
 

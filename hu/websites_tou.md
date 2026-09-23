@@ -1,6 +1,7 @@
 # Webhelyekre és közleményekre vonatkozó Felhasználási feltételek
 
-2016. június 23.
+Hatályos: 2026. szeptember 16-tól
+{: datetime="2026-09-16" }
 
 ### Felhasználási feltételek
 
@@ -108,3 +109,5 @@ USA
 Telefon: 650-903-0800  
 Fax: 650-903-0875  
 Legal-notices at mozilla.com
+
+Tartsa szem előtt, hogy a fenti címen nem fogadunk kormányzati szervektől érkező adatkérelmeket. Az ilyen jellegű kérelmek benyújtására vonatkozó részletekért tekintse meg az [átláthatósági oldalunkat](https://www.mozilla.org/about/policy/transparency/).

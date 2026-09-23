@@ -1,7 +1,7 @@
 # Servicevoorwaarden van de Mozilla-accounts
 
-Laatst bij gewerkt op dinsdag 10 juni 2025
-{: datetime="2025-06-10" }
+Van kracht vanaf woensdag 16 september 2026
+{: datetime="2026-09-16" }
 
 ## Overzicht
 
@@ -60,6 +60,8 @@ Dit bovenste gedeelte biedt een overzicht van de voorwaarden hieronder. Dit over
     
     We sturen mogelijk ook belangrijke accountinformatie, zoals updates voor juridische of privacyvoorwaarden of beveiligingsberichten, zoals voor het opnieuw instellen van wachtwoorden, e-mailverificatie en gekoppelde apparaten. Deze zijn noodzakelijke voor onze services en u kunt zich hier niet voor uitschrijven. 
 U kunt contact op nemen met Mozilla via _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 of legal-notices@mozilla.com_ 
+
+Houd er rekening mee dat we geen informatieaanvragen van overheidsinstanties accepteren op het bovenstaande adres. Zie onze [pagina over transparantie](https://www.mozilla.org/about/policy/transparency/) voor meer informatie over hoe dergelijke aanvragen kunnen worden ingediend.
 
 6. #### Uw content in onze Services
 
