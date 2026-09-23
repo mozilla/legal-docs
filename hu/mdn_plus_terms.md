@@ -1,7 +1,7 @@
 # MDN Plus szolgáltatási feltételek
 
-1.2-es verzió, hatálybalépés dátuma: 2023. november 1.
-{: datetime="2023-11-01" }
+Hatályos: 2026. szeptember 16-tól
+{: datetime="2026-09-16" }
 
 Az MDN Plus egy előfizetéses szolgáltatás, amely prémium funkciókat nyújt, beleértve az offline MDN-t, a gyűjteményeket, a témákat és a frissítéseket. (a „Szolgáltatás”). Kérjük, figyelmesen olvassa el a jelen Szolgáltatási feltételeket, mert fontos információkat tartalmaznak a Szolgáltatás használatával kapcsolatban.
 
@@ -70,3 +70,5 @@ Címzett: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Tartsa szem előtt, hogy a fenti címen nem fogadunk kormányzati szervektől érkező adatkérelmeket. Az ilyen jellegű kérelmek benyújtására vonatkozó részletekért tekintse meg az [átláthatósági oldalunkat](https://www.mozilla.org/about/policy/transparency/).

@@ -1,7 +1,7 @@
 # Services d’abonnements Mozilla - Conditions d’utilisation
 
-Date d’effet : 24 mars 2026
-{: datetime="2026-03-24" }
+Date d'effet : mercredi 16 septembre 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation propose différents services pour améliorer votre confidentialité et sécurité en ligne, notamment Mozilla VPN et Firefox Relay (les « Services »).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Veuillez noter que nous n'acceptons pas les demandes de renseignements provenant d'organismes gouvernementaux à l'adresse ci-dessus. Consultez notre page [Transparence](https://www.mozilla.org/about/policy/transparency/) pour plus de détails sur la manière de soumettre de telles demandes.

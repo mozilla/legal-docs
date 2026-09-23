@@ -1,7 +1,7 @@
 # Warunki użytkowania przeglądarki Firefox
 
-Data wejścia w życie: 10 czerwca 2025 r.
-{: datetime="2025-06-10" }
+Data wejścia w życie: 16 września 2026 r.
+{: datetime="2026-09-16" }
 
 Firefox to darmowa przeglądarka internetowa typu open source, stworzona przez wielotysięczną społeczność z całego świata.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).

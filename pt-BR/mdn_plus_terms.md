@@ -1,7 +1,7 @@
 # Termos de serviço do MDN Plus
 
-Versão 1.2, 1o de novembro de 2023
-{: datetime="2023-11-01" }
+Data de vigência: 16 de setembro de 2026
+{: datetime="2026-09-16" }
 
 O MDN Plus é um serviço de assinatura com recursos avançados, como Coleções, Temas, Atualizações e o MDN Offline (o “Serviço”). Leia estes Termos de serviço com atenção, pois eles contêm informações importantes sobre seu uso do Serviço.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.

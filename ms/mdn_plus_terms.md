@@ -1,7 +1,7 @@
 # Terma Perkhidmatan MDN Plus
 
-Versi 1.2, berkuat kuasa pada 01 November 2023
-{: datetime="2023-11-01" }
+Berkuat kuasa pada 16 September 2026
+{: datetime="2026-09-16" }
 
 MDN Plus ialah perkhidmatan langganan yang menyediakan fungsian premium termasuk MDN luar talian, kutipan, tema dan kemas kini. (“Perkhidmatan”). Sila baca Terma Perkhidmatan ini dengan teliti. Ia akan menerangkan maklumat penting tentang penggunaan Perkhidmatan oleh anda.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Sila ambil perhatian bahawa kami tidak menerima permintaan maklumat daripada agensi kerajaan di alamat di atas. Lihat [Halaman Ketelusan](https://www.mozilla.org/about/policy/transparency/)kami untuk mendapatkan butiran tentang cara menyerahkan permintaan sedemikian.

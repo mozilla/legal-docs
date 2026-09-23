@@ -1,7 +1,7 @@
 # Servicevoorwaarden van MDN Plus
 
-Versie 1.2, van kracht vanaf woensdag 1 november 2023
-{: datetime="2023-11-01" }
+Van kracht vanaf woensdag 16 september 2026
+{: datetime="2026-09-16" }
 
 MDN Plus is een abonnementsservice die premium functionaliteit verzorgt, waaronder MDN offline, collecties, thema's en updates. (de Service). Lees deze Servicevoorwaarden zorgvuldig door omdat deze ingaan op belangrijke informatie over uw gebruik van de Service.
 
@@ -70,3 +70,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Houd er rekening mee dat we geen informatieaanvragen van overheidsinstanties accepteren op het bovenstaande adres. Zie onze [pagina over transparantie](https://www.mozilla.org/about/policy/transparency/) voor meer informatie over hoe dergelijke aanvragen kunnen worden ingediend.

@@ -1,7 +1,7 @@
 # Layanan Langganan Mozilla | Ketentuan Layanan
 
-Berlaku 24 Maret 2026
-{: datetime="2026-03-24" }
+Berlaku 16 September 2026
+{: datetime="2026-09-16" }
 
 Mozilla Corporation menawarkan beragam layanan untuk meningkatkan privasi dan keamanan Anda secara online, termasuk Mozilla VPN dan Firefox Relay (“Layanan”).
 
@@ -140,3 +140,5 @@ Attn: Mozilla – Legal Notices
 San Francisco, CA 94103  
 
 legal-notices@mozilla.com
+
+Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.

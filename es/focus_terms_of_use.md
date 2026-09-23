@@ -1,7 +1,7 @@
 # Términos de uso de Firefox Focus y Klar
 
-Vigente desde el martes, 22 de abril de 2025
-{: datetime="2025-04-22" }
+Vigente desde el miércoles, 16 de septiembre de 2026
+{: datetime="2026-09-16" }
 
 Firefox es un navegador web de código abierto y gratuito, creado por una comunidad de miles de personas de todo el mundo.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Tenga en cuenta que no aceptamos solicitudes de información de las agencias gubernamentales en la dirección anterior. Consulte nuestra [Página de transparencia](https://www.mozilla.org/about/policy/transparency/) para obtener más información sobre cómo presentar dichas solicitudes.

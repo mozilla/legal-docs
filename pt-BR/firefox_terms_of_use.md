@@ -1,7 +1,7 @@
 # Termos de uso do Firefox
 
-Data de vigência: terça-feira, 10 de junho de 2025
-{: datetime="2025-06-10" }
+Data de vigência: 16 de setembro de 2026
+{: datetime="2026-09-16" }
 
 O Firefox é um software de navegador livre e de código aberto criado por uma comunidade de milhares de pessoas de todo o mundo.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.

@@ -1,7 +1,7 @@
 # Termos de serviço das contas da Mozilla
 
-Última atualização em terça-feira, 10 de junho de 2025
-{: datetime="2025-06-10" }
+Data de vigência: 16 de setembro de 2026
+{: datetime="2026-09-16" }
 
 ## Resumo
 
@@ -60,6 +60,8 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     
     Também podemos enviar informações importantes sobre sua conta, como atualizações dos termos legais ou de privacidade ou mensagens de segurança, como redefinição de senha, confirmação de e-mail e dispositivos vinculados. Elas são necessárias para nossos serviços e não podem ser canceladas. 
 Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 ou pelo e-mail legal-notices@mozilla.com_ 
+
+Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.
 
 6. #### Seu conteúdo em nossos Serviços
 

@@ -1,7 +1,7 @@
 # Ketentuan Layanan Akun Mozilla
 
-Terakhir Diperbarui 10 Juni 2025
-{: datetime="2025-06-10" }
+Berlaku 16 September 2026
+{: datetime="2026-09-16" }
 
 ## Rangkuman
 
@@ -60,6 +60,8 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     
     Kami juga mungkin mengirim informasi akun seperti pembaruan ketentuan hukum atau privasi, atau pesan keamanan seperti reset kata sandi, verifikasi email, dan perangkat yang ditautkan. Informasi ini penting bagi layanan kami dan tidak dapat dihentikan langganannya. 
 Anda bisa menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.
 
 6. #### Konten Anda di Layanan Kami
 

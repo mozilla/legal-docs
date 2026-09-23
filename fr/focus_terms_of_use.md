@@ -1,7 +1,7 @@
 # Conditions d'utilisation de Firefox Focus et Firefox Klar
 
-Date d'effet : mardi 22 avril 2025
-{: datetime="2025-04-22" }
+Date d'effet : mercredi 16 septembre 2026
+{: datetime="2026-09-16" }
 
 Firefox est un logiciel de navigation Web open source gratuit, développé par une communauté de millions de personnes dans le monde entier.
 
@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Veuillez noter que nous n'acceptons pas les demandes de renseignements provenant d'organismes gouvernementaux à l'adresse ci-dessus. Consultez notre page [Transparence](https://www.mozilla.org/about/policy/transparency/) pour plus de détails sur la manière de soumettre de telles demandes.

@@ -1,7 +1,7 @@
 # MDN Plus - Conditions d’utilisation
 
-Version 1.2 - Date d’effet : mercredi 1er novembre 2023
-{: datetime="2023-11-01" }
+Date d'effet : mercredi 16 septembre 2026
+{: datetime="2026-09-16" }
 
 MDN Plus est un service d’abonnement fournissant des fonctionnalités premium, notamment MDN hors ligne, des collections, thèmes et mises à jour. (le « Service »). Veuillez lire avec attention ces Conditions d’utilisation ; elles contiennent des informations importantes concernant votre utilisation du Service.
 
@@ -70,3 +70,5 @@ Mozilla Corporation
 San Francisco, CA 94103, États-Unis  
 
 legal-notices@mozilla.com
+
+Veuillez noter que nous n'acceptons pas les demandes de renseignements provenant d'organismes gouvernementaux à l'adresse ci-dessus. Consultez notre page [Transparence](https://www.mozilla.org/about/policy/transparency/) pour plus de détails sur la manière de soumettre de telles demandes.
