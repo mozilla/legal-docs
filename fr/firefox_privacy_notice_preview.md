@@ -120,7 +120,7 @@ Lorsque vous consultez les pages d'aide de Mozilla relatives à Firefox, Mozilla
 
 Nous pouvons également être amenés à traiter vos données à caractère personnel pour nous conformer aux lois en vigueur et à des fins de protection, par exemple :
 
-*Répondre à des [demandes légales](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) et se conformer à des [procédures légales](https://www.mozilla.org/about/policy/transparency/), telles que répondre à des citations à comparaître, des enquêtes ou des demandes émanant d'autorités gouvernementales. Mozilla a besoin d'une [procédure juridique](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement.
+*Répondre à des demandes légales et se conformer à des [procédures légales](https://www.mozilla.org/about/policy/transparency/), telles que répondre à des citations à comparaître, des enquêtes ou des demandes émanant d'autorités gouvernementales. Mozilla a besoin d'une procédure juridique valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement.
 * Répondre aux demandes d'exercice des droits à la vie privée, tels que votre droit d'accès ou de suppression de vos données personnelles.
 * Identifier, enquêter et traiter les activités frauduleuses potentielles, ou d'autres activités nuisibles telles que les activités illégales, les cyberattaques ou la violation de la propriété intellectuelle (y compris le dépôt ou la défense de réclamations légales).
 * Mener des activités internes de conformité et de sécurité, telles que des audits et la gestion de la sécurité de l'entreprise.
@@ -132,7 +132,7 @@ Pour fournir nos services tels que décrits ci-dessus, nous pouvons divulguer de
 |  |  |
 | ----- | ----- |
 | Partenaires, prestataires de services, fournisseurs et sous-traitants | Pour atteindre les objectifs énumérés ci-dessus, nous travaillons avec des partenaires, des prestataires de services, des fournisseurs et des sous-traitants. Nous avons mis en place des protections contractuelles afin que les entités recevant des données personnelles soient contractuellement obligées de traiter les données conformément aux instructions de Mozilla. [En savoir plus](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Autorités | Mozilla a besoin d'une [procédure juridique](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement. Dans ces cas, nous pouvons être amenés à divulguer les données personnelles décrites dans le présent avis aux forces de l'ordre, aux autorités gouvernementales ou à des entités similaires afin de respecter les lois en vigueur et d'identifier et de prévenir les activités préjudiciables, non autorisées ou illégales. |
+| Autorités | Mozilla a besoin d'une procédure juridique valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement. Dans ces cas, nous pouvons être amenés à divulguer les données personnelles décrites dans le présent avis aux forces de l'ordre, aux autorités gouvernementales ou à des entités similaires afin de respecter les lois en vigueur et d'identifier et de prévenir les activités préjudiciables, non autorisées ou illégales. |
 | Chercheurs | Lorsque nous accomplissons notre [mission](https://www.mozilla.org/about/manifesto/) qui est celle d'être ouverts. Nous publions parfois des informations pour améliorer nos produits et favoriser un web ouvert, mais lorsque nous le faisons, nous le faisons dans un [format](https://wiki.mozilla.org/Data_Publishing) dépersonnalisé et/ou agrégé. |
 | Entités et successeurs contrôlés de Mozilla | En tant qu'entreprise internationale, nous partageons des données avec les sociétés affiliées et les filiales contrôlées par Mozilla. Nous pouvons également être amenés à divulguer des données personnelles dans le cadre d'une transaction d'entreprise, telle qu'une fusion, une acquisition, une vente d'actifs ou une transaction similaire. |
 
@@ -437,7 +437,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
                 <p><strong>Respect de la loi</strong> en répondant aux demandes de droits des personnes concernées, en répondant aux demandes d'application de la loi, en gérant et en protégeant nos droits, notre propriété et/ou notre sécurité (ainsi que ceux de nos utilisateurs).</p>
                 <p><strong>Intérêt légitime</strong>, lorsque la conformité n'est pas appropriée, pour soutenir les processus ou demandes juridiques ou réglementaires, prévenir la fraude et gérer et protéger nos droits, nos biens et/ou notre sécurité (ainsi que ceux de nos utilisateurs).</p>
             </td>
-            <td>En savoir plus sur la manière dont <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">nous répondons aux demandes légales</a>.</td>
+            <td>En savoir plus sur la manière dont <a href="https://www.mozilla.org/about/policy/transparency/">nous répondons aux demandes légales</a>.</td>
         </tr>
     </tbody>
 </table>
