@@ -57,7 +57,7 @@ Kami menggunakan data kontak Anda untuk berkomunikasi dengan Anda. Kami dapat me
 
 Kami mungkin juga diminta memproses data pribadi Anda untuk mematuhi undang-undang yang berlaku dan tujuan perlindungan data, seperti:
 
-* Menanggapi [permintaan yang sah](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dan otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data Pengguna Tertentu kepada pemerintah.
+* Menanggapi permintaan yang sah dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dan otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data Pengguna Tertentu kepada pemerintah.
 * permintaan untuk menggunakan hak privasi, seperti hak Anda untuk mengakses atau menghapus data pribadi Anda.
 * Mengidentifikasi, menyelidiki, dan menangani potensi aktivitas penipuan, atau aktivitas berbahaya lainnya seperti aktivitas ilegal, serangan siber, atau pelanggaran kekayaan intelektual (termasuk mengajukan atau membela tuntutan hukum).
 * Melakukan moderasi konten dan aktivitas kepercayaan dan keamanan terkait.
@@ -70,7 +70,7 @@ Untuk menyediakan layanan kami sebagaimana dijelaskan di atas, kami dapat mengun
 |  |  |
 | ----- | ----- |
 | Mitra, penyedia layanan, pemasok, dan kontraktor | Untuk melaksanakan tujuan yang tercantum di atas, kami bekerja sama dengan mitra, penyedia layanan, dan kontraktor. Kami memiliki perlindungan kontrak, sehingga entitas yang menerima data pribadi secara kontrak wajib menangani data tersebut sesuai dengan instruksi Mozilla. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Otoritas  | Mozilla mewajibkan [Proses Hukum](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal.  |
+| Otoritas  | Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data pengguna tertentu kepada pemerintah. Dalam hal ini kami mungkin perlu mengungkapkan data pribadi yang tercantum dalam Pemberitahuan ini kepada penegak hukum, otoritas pemerintah, atau entitas serupa untuk mematuhi undang-undang yang berlaku, dan untuk mengidentifikasi serta mencegah aktivitas berbahaya, tidak sah, atau ilegal.  |
 | Penelitian | Saat kami memenuhi [misi](https://www.mozilla.org/about/manifesto/) kami untuk menjadi terbuka, kami kadang merilis informasi untuk membuat produk kami lebih baik dan mengembangkan web terbuka, tetapi ketika kami melakukannya, kami akan melakukannya dalam [format](https://wiki.mozilla.org/Data_Publishing) tanpa identitas atau agregat. |
 | Entitas dan penerus yang dikontrol Mozilla  | Sebagai perusahaan global, kami membagikan data ke seluruh afiliasi dan anak perusahaan yang dikontrol Mozilla. Kami mungkin juga perlu mengungkapkan data pribadi sebagai bagian dari transaksi perusahaan, seperti merger, akuisisi, penjualan aset, atau transaksi serupa. |
 

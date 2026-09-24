@@ -120,7 +120,7 @@ Wenn Sie die Hilfeseiten von Mozilla in Verbindung mit Firefox besuchen, erfasst
 
 Wir sind möglicherweise auch verpflichtet, Ihre personenbezogenen Daten zu verarbeiten, um geltende Gesetze einzuhalten oder Schutzzwecke zu verfolgen, wie z. B.:
 
-* Reaktion auf [rechtmäßige Anfragen](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) und Einhaltung [rechtlicher Verfahren](https://www.mozilla.org/about/policy/transparency/), wie z. B. die Reaktion auf Vorladungen, Untersuchungen oder Anfragen staatlicher Behörden. Mozilla verlangt für die Offenlegung bestimmter Benutzerdaten gegenüber staatlichen Stellen ein [rechtsgültiges Verfahren](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process).
+* Reaktion auf rechtmäßige Anfragen und Einhaltung [rechtlicher Verfahren](https://www.mozilla.org/about/policy/transparency/), wie z. B. die Reaktion auf Vorladungen, Untersuchungen oder Anfragen staatlicher Behörden. Mozilla verlangt für die Offenlegung bestimmter Benutzerdaten gegenüber staatlichen Stellen ein rechtsgültiges Verfahren.
 * Reaktion auf Anfragen zur Ausübung von Datenschutzrechten, wie z. B. Ihr Recht auf Zugriff auf Ihrer personenbezogenen Daten oder die Löschung dieser Daten.
 * Ermittlung, Untersuchung und Bekämpfung potenzieller betrügerischer Aktivitäten oder sonstiger schädlicher Aktivitäten wie illegale Handlungen, Cyberangriffe oder Verstöße gegen das Urheberrecht (einschließlich der Einreichung bzw. Verteidigung von Rechtsansprüchen).
 * Durchführung interner Compliance- und Sicherheitsaktivitäten, wie z. B. Audits und Unternehmenssicherheitsmanagement.
@@ -132,7 +132,7 @@ Zur Erbringung unserer oben beschriebenen Leistungen sind wir berechtigt, person
 |  |  |
 | ----- | ----- |
 | Partner, Dienstleister, Lieferanten und Auftragnehmer | Zur Erfüllung der oben genannten Zwecke arbeiten wir mit Partnern, Dienstleistern, Lieferanten und Auftragnehmern zusammen. Wir haben vertragliche Schutzmaßnahmen getroffen, damit die Stellen, die personenbezogene Daten erhalten, vertraglich verpflichtet sind, diese Daten gemäß den Weisungen von Mozilla zu verarbeiten. [Weitere Informationen](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Behörden | Mozilla verlangt für die Offenlegung bestimmter Benutzerdaten gegenüber staatlichen Stellen ein [rechtsgültiges Verfahren](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process). In solchen Fällen sind wir möglicherweise gezwungen, die in dieser Erklärung genannten personenbezogenen Daten an Strafverfolgungsbehörden, staatliche Stellen oder ähnliche Einrichtungen weiterzugeben, um geltende Gesetze einzuhalten und schädliche, unbefugte oder illegale Aktivitäten zu erkennen und zu verhindern. |
+| Behörden | Mozilla verlangt für die Offenlegung bestimmter Benutzerdaten gegenüber staatlichen Stellen ein rechtsgültiges Verfahren. In solchen Fällen sind wir möglicherweise gezwungen, die in dieser Erklärung genannten personenbezogenen Daten an Strafverfolgungsbehörden, staatliche Stellen oder ähnliche Einrichtungen weiterzugeben, um geltende Gesetze einzuhalten und schädliche, unbefugte oder illegale Aktivitäten zu erkennen und zu verhindern. |
 | Forschende | Wenn wir unsere [Mission](https://www.mozilla.org/about/manifesto/) der Offenheit erfüllen. Manchmal legen wir dann Informationen offen, um unsere Produkte zu verbessern und ein offenes Internet zu fördern. Wenn wir dies tun, geschieht dies jedoch in [anonymisierter oder aggregierter Form](https://wiki.mozilla.org/Data_Publishing). |
 | Von Mozilla kontrollierte Rechtsträger und Rechtsnachfolger | Als globales Unternehmen legen wir Daten gegenüber von Mozilla kontrollierten Partnern und Tochtergesellschaften offen. Ferner müssen wir personenbezogene Daten möglicherweise im Rahmen einer Unternehmenstransaktion wie z. B. einer Fusion, einer Übernahme, einem Verkauf von Vermögenswerten oder einer ähnlichen Transaktion offenlegen. |
 
@@ -437,7 +437,7 @@ Unter Umständen sind wir gezwungen, die vorliegende Richtlinie und unsere Hinwe
                 <p><strong>Rechtskonformität</strong> bei der Beantwortung von Anfragen zu den Rechten betroffener Personen, bei der Beantwortung von Anfragen von Strafverfolgungsbehörden sowie beim Verwalten und Schützen unserer Rechte, unseres Eigentums und/oder unserer Sicherheit (wie auch der unserer Benutzer).</p>
                 <p><strong>Berechtigtes Interesse</strong>, soweit rechtlich nicht vorgeschrieben, an der Unterstützung von rechtlichen oder regulatorischen Prozessen oder Anfragen, der Verhinderung von Betrug und am Verwalten und Schützen unserer Rechte, unseres Eigentums und/oder unserer Sicherheit (wie auch der unserer Benutzer).</p>
             </td>
-            <td>Erfahren Sie mehr darüber, wie wir auf <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">rechtliche Anfragen</a> reagieren.</td>
+            <td>Erfahren Sie mehr darüber, wie wir auf <a href="https://www.mozilla.org/about/policy/transparency/">rechtliche Anfragen</a> reagieren.</td>
         </tr>
     </tbody>
 </table>

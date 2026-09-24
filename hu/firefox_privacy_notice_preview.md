@@ -120,7 +120,7 @@ Amikor a Firefoxszal kapcsolatban felkeresi a Mozilla súgóoldalait, a Mozilla 
 
 Előfordulhat, hogy a személyes adatait is kezeljük a vonatkozó jogszabályoknak és védelmi céloknak való megfelelés érdekében, mint például:
 
-*[Jogszerű kérések](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes [jogi eljárást](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
+*Jogszerű kérések megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
 * Adatvédelmi jogok gyakorlására irányuló kérések megválaszolása, például az Ön személyes adataihoz való hozzáféréshez vagy azok törléséhez való joga.
 * Lehetséges csalárd tevékenységek vagy egyéb káros tevékenységek, például illegális tevékenységek, kibertámadások vagy szellemi tulajdonjogok megsértése azonosítása, kivizsgálása és kezelése (beleértve a jogi igények benyújtását vagy védelmét).
 * Belső megfelelőségi és biztonsági tevékenységek végrehajtása, például auditok és vállalati biztonságkezelés.
@@ -132,7 +132,7 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 |  |  |
 | ----- | ----- |
 | Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Hatóságok | A Mozilla érvényes [jogi eljárást](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket. |
+| Hatóságok | A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket. |
 | Kutatók | Amikor a nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítjük. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan és/vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
 | A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
@@ -437,7 +437,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
                 <p><strong>Jogszabályi megfelelés</strong> az érintettek jogaival kapcsolatos megkeresések megválaszolása, a bűnüldözési kérelmek megválaszolása, a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme során.</p>
                 <p><strong>Jogos érdek</strong>, ahol a megfelelés nem megfelelő, a jogi vagy szabályozási folyamatok vagy kérések támogatása, a csalás megelőzése, valamint a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme.</p>
             </td>
-            <td>További információk arról, hogyan válaszolunk a <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">jogszerű kérésekre</a>.</td>
+            <td>További információk arról, hogyan válaszolunk a <a href="https://www.mozilla.org/about/policy/transparency/">jogszerű kérésekre</a>.</td>
         </tr>
     </tbody>
 </table>

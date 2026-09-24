@@ -57,7 +57,7 @@ V rámci činností uvedených v tomto oznámení, jako je pochopení používá
 
 Stejně tak můžeme být povinni zpracovávat vaše osobní údaje za účelem splnění platných právních předpisů a za účelem ochrany údajů, jako např.:
 
-* Reakce na [požadavky vyplývající z právních předpisů](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na předvolání, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě.
+* Reakce na požadavky vyplývající z právních předpisů a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na předvolání, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě.
 * Reakce na požadavky ohledně uplatnění práva na ochranu osobních údajů, jako jsou práva na přístup k vašim osobních údajům nebo jejich odstranění.
 * Identifikace, vyšetřování a řešení potenciálních podvodních činností nebo jiných škodlivých aktivit, jako jsou nezákonné činnosti, kybernetické útoky či porušení práv duševního vlastnictví (včetně podávání návrhů nebo obrany zákonných nároků).
 * Zajištění moderování obsahu a souvisejících činností zachování důvěry a bezpečnosti.
@@ -70,7 +70,7 @@ Pro poskytování našich výše popsaných služeb můžeme osobní údaje posk
 |  |  |
 | ----- | ----- |
 | Partneři, poskytovatelé služeb, dodavatelé a smluvní partneři | Na plnění výše uvedených účelů spolupracujeme s partnery, poskytovateli služeb, dodavateli a smluvními partnery. Zavedli jsme smluvní ochranné prostředky, takže subjekty, které osobní údaje získávají, jsou smluvní povinny s těmito údaji zacházet v souladu s pokyny společnosti Mozilla. [Podrobnější informace](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Orgány  | Společnost Mozilla vyžaduje platný [zákonný postup](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) pro vynucení poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností.  |
+| Orgány  | Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností.  |
 | Výzkumníci | Při plnění našeho [poslání](https://www.mozilla.org/about/manifesto/) otevřenosti někdy poskytujeme informace pro vylepšení a rozvoj našich produktů na otevřeném webu, nicméně v takových případech tak učiníme v deidentifikované nebo souhrnné [formě](https://wiki.mozilla.org/Data_Publishing). |
 | Subjekty kontrolované společností Mozilla a její nástupci  | Jako globální společnost sdílíme údaje mezi přidruženými a dceřinými společnostmi kontrolovanými společností Mozilla. Rovněž může být třeba, abychom osobní údaje poskytli v rámci firemních transakcí, jako jsou fúze, akvizice, prodej aktiv nebo podobné transakce. |
 

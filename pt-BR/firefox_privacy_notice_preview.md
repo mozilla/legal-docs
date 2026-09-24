@@ -120,7 +120,7 @@ Quando você acessa as páginas de ajuda da Mozilla vinculadas ao Firefox, a Moz
 
 Também podemos ser obrigados a tratar seus dados pessoais para cumprir com a legislação aplicável e para fins de proteção, como:
 
-* Responder a [pedidos legais](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) e cumprir com [processos jurídicos](https://www.mozilla.org/about/policy/transparency/), como responder a intimações, investigações ou pedidos de autoridades governamentais. A Mozilla exige um [Processo Legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para a divulgação de dados de um usuário específico para o governo.
+* Responder a pedidos legais e cumprir com [processos jurídicos](https://www.mozilla.org/about/policy/transparency/), como responder a intimações, investigações ou pedidos de autoridades governamentais. A Mozilla exige um Processo Legal válido para a divulgação de dados de um usuário específico para o governo.
 * Responder a solicitações de exercício de direitos de privacidade, como o direito ao acesso ou à exclusão de dados pessoais.
 * Identificar, investigar e solucionar possíveis atividades fraudulentas ou outras atividades prejudiciais, como atividades ilegais, ataques cibernéticos ou violação de propriedade intelectual (incluindo apresentação e defesa de ações judiciais).
 * Realizar atividades de segurança e conformidade interna, como auditorias e gerenciamento empresarial de segurança.
@@ -132,7 +132,7 @@ Para fornecer nossos serviços, conforme descrito acima, podemos divulgar dados 
 |  |  |
 | ----- | ----- |
 | Parceiros, prestadores de serviços, fornecedores e contratantes | Para cumprir com as finalidades indicadas acima, trabalhamos com parceiros, prestadores de serviços, fornecedores e contratantes. Temos proteções contratuais em vigor para que as entidades que recebem dados pessoais sejam contratualmente obrigadas a tratar os dados de acordo com as instruções da Mozilla. [Saiba mais.](https://support.mozilla.org/kb/firefox-subprocessor-list) |
-| Autoridades | A Mozilla exige um [Processo Legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para a divulgação de dados de um usuário específico para o governo. Nos casos em que precisarmos divulgar os dados pessoais descritos neste Aviso para órgãos de aplicação da lei, autoridades governamentais ou entidades semelhantes para cumprir com a legislação aplicável, e identificar e prevenir atividades prejudiciais, não autorizadas ou ilegais. |
+| Autoridades | A Mozilla exige um Processo Legal válido para a divulgação de dados de um usuário específico para o governo. Nos casos em que precisarmos divulgar os dados pessoais descritos neste Aviso para órgãos de aplicação da lei, autoridades governamentais ou entidades semelhantes para cumprir com a legislação aplicável, e identificar e prevenir atividades prejudiciais, não autorizadas ou ilegais. |
 | Pesquisadores | Ao cumprir com a nossa [missão](https://www.mozilla.org/about/manifesto/) de sermos abertos. Ocasionalmente, divulgamos informações para melhorar nossos produtos e promover uma internet aberta. Nesses casos, elas não são identificadas e/ou são compartilhadas em [formato](https://wiki.mozilla.org/Data_Publishing) agregado. |
 | Entidades controladas e sucessoras da Mozilla | Como empresa global, compartilhamos dados entre afiliadas controladas pela Mozilla e suas subsidiárias. Também podemos divulgar dados pessoais como parte de uma transação corporativa, como fusão, aquisição, venda de ativos ou transação semelhante. |
 
@@ -437,7 +437,7 @@ Também podemos alterar esta política e nossos avisos. Nesse caso, as atualiza�
                 <p><strong>Conformidade legal</strong> ao responder a solicitações de exercício de direitos de titulares de dados, responder a solicitações de órgãos de aplicação da lei, gerenciar e proteger nossos direitos, nossa propriedade e/ou nossa segurança e os de nossos usuários.</p>
                 <p><strong>Interesse legítimo</strong> no suporte a processos ou solicitações legais ou regulamentares, na prevenção de fraude, e no gerenciamento e na proteção de nossos direitos, nossa propriedade e/ou nossa segurança e os de nossos usuários, quando a conformidade for adequada.</p>
             </td>
-            <td>Saiba mais sobre a forma como respondemos a <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">pedidos legais</a>.</td>
+            <td>Saiba mais sobre a forma como respondemos a <a href="https://www.mozilla.org/about/policy/transparency/">pedidos legais</a>.</td>
         </tr>
     </tbody>
 </table>

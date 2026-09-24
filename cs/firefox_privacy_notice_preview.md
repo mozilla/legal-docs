@@ -120,7 +120,7 @@ Pokdu navštívíte stránky nápovědy společnosti Mozilla v souvislosti s Fir
 
 Stejně tak můžeme být povinni zpracovávat vaše osobní údaje za účelem splnění platných právních předpisů a za účelem ochrany, jako např.:
 
-* Reakce na [požadavky vyplývající z právních předpisů](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na předvolání, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný [zákonný postup](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) pro nucené poskytnutí údajů o konkrétním uživateli vládě.
+* Reakce na požadavky vyplývající z právních předpisů a dodržení [zákonných procesů](https://www.mozilla.org/about/policy/transparency/), jako jsou reakce na předvolání, vyšetřování nebo žádosti od vládních orgánů. Společnost Mozilla vyžaduje platný zákonný postup pro nucené poskytnutí údajů o konkrétním uživateli vládě.
 * Reakce na požadavky ohledně uplatnění práva na ochranu osobních údajů, jako jsou práva na přístup k vašim osobních údajům nebo jejich odstranění.
 * Identifikace, vyšetřování a řešení potenciálních podvodních činností nebo jiných škodlivých aktivit, jako jsou nezákonné činnosti, kybernetické útoky či porušení práv duševního vlastnictví (včetně podávání návrhů nebo obrany zákonných nároků).
 * Provádění interních činností souladu s předpisy a zabezpečením,, jako jsou audity a správa firemního zabezpečení.
@@ -132,7 +132,7 @@ Pro poskytování našich výše popsaných služeb můžeme osobní údaje posk
 |  |  |
 | ----- | ----- |
 | Partneři, poskytovatelé služeb, dodavatelé a smluvní partneři | Na plnění výše uvedených účelů spolupracujeme s partnery, poskytovateli služeb, dodavateli a smluvními partnery. Zavedli jsme smluvní ochranné prostředky, takže subjekty, které osobní údaje získávají, jsou smluvní povinny s těmito údaji zacházet v souladu s pokyny společnosti Mozilla. [Podrobnější informace](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Orgány | Společnost Mozilla vyžaduje platný [zákonný postup](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) pro nucené poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností. |
+| Orgány | Společnost Mozilla vyžaduje platný zákonný postup pro nucené poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností. |
 | Výzkumníci | Při plnění našeho [poslání](https://www.mozilla.org/about/manifesto/) zachování otevřenosti. Někdy poskytujeme informace pro vylepšení a rozvoj našich produktů na otevřeném webu, nicméně v takových případech tak učiníme v deidentifikované a/nebo souhrnné [formě](https://wiki.mozilla.org/Data_Publishing). |
 | Subjekty kontrolované společností Mozilla a její nástupci | Jako globální společnost sdílíme údaje mezi přidruženými a dceřinými společnostmi kontrolovanými společností Mozilla. Rovněž může být třeba, abychom osobní údaje poskytli v rámci firemních transakcí, jako jsou fúze, akvizice, prodej aktiv nebo podobné transakce. |
 
@@ -437,7 +437,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
                 <p><strong>Soulad s právními předpisy</strong> v rámci reakce na žádosti ze strany subjektů o uplatnění jejich práv, reakce na žádosti orgánů činných v trestním řízení, správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
                 <p><strong>Zákonný zájem</strong>, pokud se neuplatní předpoklad souladu s předpisy, v rámci podpory zákonných nebo regulačních procesů nebo žádostí, pro prevenci podvodů a správu a ochranu našich (a našich uživatelů) práv, majetku a/nebo bezpečnosti.</p>
             </td>
-            <td>Informujte se, jak reagujeme na <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">zákonné požadavky</a>.</td>
+            <td>Informujte se, jak reagujeme na <a href="https://www.mozilla.org/about/policy/transparency/">zákonné požadavky</a>.</td>
         </tr>
     </tbody>
 </table>

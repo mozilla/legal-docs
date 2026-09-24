@@ -126,7 +126,7 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 我们可能需要处理您的个人数据以遵守适用法律和保护目的，具体包括：
 
-*响应[合法请求](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的[法律程序](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)才能向政府披露特定用户数据。
+*响应合法请求并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。
 * 响应行使隐私权的请求，例如您访问或删除个人数据的权利。
 * 识别、调查和处理潜在的欺诈活动或其他有害活动，例如非法活动、网络攻击或知识产权侵权（包括提出或辩护法律索赔）。
 * 执行内部合规和安全活动，例如审计和企业安全管理。
@@ -138,7 +138,7 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 |  |  |
 | ----- | ----- |
 | 合作伙伴、服务提供商、供应商与承包商 | 为实现上述目的，我们与合作伙伴、服务提供商、供应商和承包商开展合作。我们已建立完善的合同保护机制，确保接收个人数据的实体必须按照 Mozilla 的指示处理数据。[了解更多信息](https://support.mozilla.org/kb/firefox-subprocessor-list)。 |
-| 主管部门 | Mozilla 要求提供有效的[法律程序](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process)才能向政府披露特定用户数据。在这些情况下，我们可能需要向执法部门、政府机构或类似实体披露本声明中列出的个人数据，以遵守适用法律，并识别和预防有害、未经授权或非法的活动。 |
+| 主管部门 | Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。在这些情况下，我们可能需要向执法部门、政府机构或类似实体披露本声明中列出的个人数据，以遵守适用法律，并识别和预防有害、未经授权或非法的活动。 |
 | 研究人员 | 当我们履行开放[使命](https://www.mozilla.org/about/manifesto/)时。我们有时会发布信息以改进产品并促进开放网络，但在发布时，我们将以去标识化和/或聚合化的[形式](https://wiki.mozilla.org/Data_Publishing)提供数据。 |
 | Mozilla 旗下实体及继任者 | 作为一家全球性公司，我们在 Mozilla 旗下的关联公司和子公司之间共享数据。在企业交易（如合并、收购、资产出售或类似交易）中，我们可能也需要披露个人数据。 |
 
@@ -443,7 +443,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
                 <p><strong>遵守法律</strong>，以响应数据主体权利请求、回应执法请求、管理并保护我们（及用户）的权利、财产和/或安全。</p>
                 <p>在法律未严格要求的情况下，出于支持法律或监管程序或请求、防止欺诈以及管理并保护我们（及用户）的权利、财产和/或安全的<strong>合法利益</strong>考虑。</p>
             </td>
-            <td>详细了解我们如何响应<a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">合法请求</a>。</td>
+            <td>详细了解我们如何响应<a href="https://www.mozilla.org/about/policy/transparency/">合法请求</a>。</td>
         </tr>
     </tbody>
 </table>

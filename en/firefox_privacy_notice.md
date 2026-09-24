@@ -126,7 +126,7 @@ When you visit Mozilla’s help pages in connection with Firefox, Mozilla collec
 
 We may also be required to process your personal data to comply with applicable laws and protection purposes, such as:
 
-* Responding to [lawful requests](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) and complying with [legal processes](https://www.mozilla.org/about/policy/transparency/), such as responding to subpoenas, investigations, or requests from government authorities. Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government.
+* Responding to lawful requests and complying with [legal processes](https://www.mozilla.org/about/policy/transparency/), such as responding to subpoenas, investigations, or requests from government authorities. Mozilla requires a valid Legal Process to compel the disclosure of specific user data to a government.
 * Responding to requests to exercise privacy rights, such as your right to access or delete your personal data.
 * Identifying, investigating and addressing potential fraudulent activities, or other harmful activities such as illegal activities, cyberattacks or intellectual property infringement (including filing or defending legal claims).
 * Performing internal compliance and security activities, such as audits and enterprise security management.
@@ -138,7 +138,7 @@ To provide our services as described above, we may disclose personal data to:
 |  |  |
 | ----- | ----- |
 | Partners, service providers, suppliers and contractors | To perform the purposes listed above, we work with partners, service providers, suppliers and contractors. We have contractual protections in place, so that the entities receiving personal data are contractually obligated to handle the data in accordance with Mozilla’s instructions. [Learn more](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Authorities | Mozilla requires a valid [Legal Process](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity. |
+| Authorities | Mozilla requires a valid Legal Process to compel the disclosure of specific user data to a government. In those instances we may need to disclose the personal data set out in this Notice to law enforcement, government authorities, or similar entities to comply with applicable laws, and to identify and prevent harmful, unauthorized or illegal activity. |
 | Researchers | When we are fulfilling our [mission](https://www.mozilla.org/about/manifesto/) of being open. We sometimes release information to make our products better and foster an open web, but when we do, we will do so in a de-identified and/or aggregated [format](https://wiki.mozilla.org/Data_Publishing). |
 | Mozilla controlled entities and successors | As a global company, we share data across Mozilla-controlled affiliates and subsidiaries. We may also need to disclose personal data as part of a corporate transaction, such as a merger, acquisition, sale of assets or similar transaction. |
 
@@ -443,7 +443,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Compliance with law</strong> in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.</p>
                 <p><strong>Legitimate interest</strong>, where not strictly required by law, to support legal or regulatory processes or requests, prevent fraud, and manage and protect our (and our users’) rights, property and/or safety.</p>
             </td>
-            <td>Learn more about how we respond to <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">lawful requests</a>.</td>
+            <td>Learn more about how we respond to <a href="https://www.mozilla.org/about/policy/transparency/">lawful requests</a>.</td>
         </tr>
     </tbody>
 </table>
