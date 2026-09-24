@@ -126,7 +126,7 @@ Quando visiti le pagine di aiuto di Mozilla in connessione a Firefox, Mozilla ra
 
 Potremmo anche dover elaborare i tuoi dati personali per rispettare i requisiti di legge e le finalità di protezione applicabili, come ad esempio:
 
-* Soddisfare [richieste legittime](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) e rispettare [procedure legali](https://www.mozilla.org/about/policy/transparency/), come rispondere a citazioni in giudizio, indagini o richieste da parte di autorità governative. Mozilla richiede un [procedimento legale](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) valido per imporre la divulgazione di dati specifici dell'utente a un organo governativo.
+* Soddisfare richieste legittime e rispettare [procedure legali](https://www.mozilla.org/about/policy/transparency/), come rispondere a citazioni in giudizio, indagini o richieste da parte di autorità governative. Mozilla richiede un procedimento legale valido per imporre la divulgazione di dati specifici dell'utente a un organo governativo.
 * Rispondere a richieste di esercizio dei diritti sulla privacy, come il diritto di accesso o di cancellazione dei dati personali.
 * Identificare, indagare e affrontare potenziali attività fraudolente o altre attività dannose come attività illegali, attacchi informatici o violazioni della proprietà intellettuale (inclusa la presentazione o la difesa di richieste legali).
 * Svolgere attività interne di conformità e sicurezza, come audit e gestione della sicurezza aziendale.
@@ -138,7 +138,7 @@ Per fornire i nostri servizi come sopra descritto, possiamo divulgare i tuoi dat
 |  |  |
 | ----- | ----- |
 | Partner, fornitori di servizi, fornitori e collaboratori | Per le finalità sopra elencate, collaboriamo con partner, fornitori di servizi, fornitori e collaboratori. Abbiamo predisposto delle protezioni contrattuali, in modo che le entità che ricevono i dati personali dei nostri utenti siano contrattualmente obbligate a trattarli secondo le istruzioni di Mozilla. [Per saperne di più](https://support.mozilla.org/kb/firefox-subprocessor-list). |
-| Autorità | Mozilla richiede un [procedimento legale](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) valido per imporre la divulgazione di dati specifici dell'utente a un organo governativo. In questi casi, potremmo aver bisogno di divulgare i dati personali di cui alla presente Informativa alle forze dell'ordine, alle autorità governative o a enti simili per ottemperare alle leggi vigenti e per identificare e prevenire attività dannose, non autorizzate o illegali. |
+| Autorità | Mozilla richiede un procedimento legale valido per imporre la divulgazione di dati specifici dell'utente a un organo governativo. In questi casi, potremmo aver bisogno di divulgare i dati personali di cui alla presente Informativa alle forze dell'ordine, alle autorità governative o a enti simili per ottemperare alle leggi vigenti e per identificare e prevenire attività dannose, non autorizzate o illegali. |
 | Società di ricerca | Nell'adempimento della nostra [missione](https://www.mozilla.org/about/manifesto/) di trasparenza. A volte rilasciamo informazioni per migliorare i nostri prodotti e promuovere un web aperto, ma quando lo facciamo, ci assicuriamo che tali dati siano in [formato](https://wiki.mozilla.org/Data_Publishing) de-identificato e/o aggregato. |
 | Entità controllate da Mozilla e relativi successori | In quanto azienda globale, condividiamo i dati con le affiliate e le filiali controllate da Mozilla. Potremmo anche dover divulgare i dati personali degli utenti nell'ambito di una transazione aziendale, come una fusione, un'acquisizione, una vendita di beni o una transazione simile. |
 
@@ -443,7 +443,7 @@ Potremmo dover modificare questa informativa e le nostre comunicazioni, nel qual
                 <p><strong>Conformità agli obblighi di legge</strong> per rispondere alle richieste degli interessati di esercitare i propri diritti in materia di dati, per rispondere alle richieste delle forze dell'ordine, per gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti).</p>
                 <p><strong>Legittimo interesse</strong>, laddove non strettamente richiesto dalla legge, a supportare processi o richieste legali o regolamentari, prevenire le frodi e gestire e proteggere i diritti, la proprietà e/o la sicurezza nostri (e dei nostri utenti).</p>
             </td>
-            <td>Ulteriori informazioni su come rispondiamo alle <a href="https://www.mozilla.org/about/policy/transparency/#dfn-legal-process">richieste legali</a>.</td>
+            <td>Ulteriori informazioni su come rispondiamo alle <a href="https://www.mozilla.org/about/policy/transparency/">richieste legali</a>.</td>
         </tr>
     </tbody>
 </table>

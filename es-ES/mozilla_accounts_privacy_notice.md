@@ -57,7 +57,7 @@ Usamos sus datos de contacto para comunicar con usted. Podemos ponernos en conta
 
 También podemos estar obligados a procesar sus datos personales para cumplir con las leyes aplicables y los fines de protección de datos, tales como:
 
-* Responder a [solicitudes legales](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) y cumplir con los [procesos legales](https://www.mozilla.org/about/policy/transparency/), como responder a citaciones, investigaciones o solicitudes de autoridades gubernamentales. Mozilla requiere un proceso legal válido para obligar a revelar datos de usuarios específicos a un gobierno.
+* Responder a solicitudes legales y cumplir con los [procesos legales](https://www.mozilla.org/about/policy/transparency/), como responder a citaciones, investigaciones o solicitudes de autoridades gubernamentales. Mozilla requiere un proceso legal válido para obligar a revelar datos de usuarios específicos a un gobierno.
 * Responder a solicitudes de ejercer derechos de privacidad, como su derecho a acceder o eliminar sus datos personales.
 * Identificar, investigar y abordar actividades fraudulentas potenciales u otras actividades perjudiciales como actividades ilegales, ciberataques o infracción de la propiedad intelectual (incluida la presentación o defensa de reclamaciones legales).
 * Efectuar la moderación de contenidos y actividades relacionadas con la confianza y la seguridad.
@@ -70,7 +70,7 @@ Para proporcionar nuestros servicios como se describe anteriormente, podemos div
 |  |  |
 | ----- | ----- |
 | Socios, proveedores de servicios, proveedores y contratistas | Para realizar los fines enumerados anteriormente, trabajamos con socios, proveedores de servicios, proveedores y contratistas. Tenemos protecciones contractuales en vigor, de modo que las entidades que reciben datos personales están obligadas contractualmente a manejar los datos de acuerdo con las instrucciones de Mozilla. [Más información](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Autoridades  | Mozilla requiere un [proceso legal](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process) válido para obligar a revelar datos de usuarios específicos a un gobierno. En esos casos, es posible que tengamos que revelar los datos personales establecidos en este Aviso a las autoridades policiales, gubernamentales o entidades similares para cumplir con las leyes aplicables e identificar y prevenir actividades dañinas, no autorizadas o ilegales.  |
+| Autoridades  | Mozilla requiere un proceso legal válido para obligar a revelar datos de usuarios específicos a un gobierno. En esos casos, es posible que tengamos que revelar los datos personales establecidos en este Aviso a las autoridades policiales, gubernamentales o entidades similares para cumplir con las leyes aplicables e identificar y prevenir actividades dañinas, no autorizadas o ilegales.  |
 | Investigadores | Al cumplir con nuestra [misión](https://www.mozilla.org/about/manifesto/) de transparencia, a veces divulgamos información para mejorar nuestros productos y promover una web abierta, pero cuando lo hacemos, usamos un [formato](https://wiki.mozilla.org/Data_Publishing) desidentificado o agregado. |
 | Entidades controladas por Mozilla y sus sucesores  | Como empresa global, compartimos datos con todas las filiales y subsidiarias controladas por Mozilla. También podemos necesitar revelar datos personales como parte de una transacción corporativa, como una fusión, adquisición, venta de activos o una transacción similar. |
 
