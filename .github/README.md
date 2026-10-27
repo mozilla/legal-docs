@@ -30,7 +30,6 @@ List of translated files (number of locales between parentheses):
 
 List of files not translated:
 
-* adtargeting_guidelines.md
 * formulaic_content_policies.md
 * formulaic_privacy_notice.md
 * formulaic_report_violation.md
