@@ -87,4 +87,3 @@ San Francisco, CA 94103
 legal-notices@mozilla.com
 
 請注意，我們不接受政府機關透過上述地址提出的資訊請求。有關如何提出此類請求的詳細資訊，請參閱我們的[透明度頁面](https://www.mozilla.org/about/policy/transparency/)。
-

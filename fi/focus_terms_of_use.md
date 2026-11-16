@@ -87,4 +87,3 @@ San Francisco, CA 94103
 legal-notices@mozilla.com
 
 Huomaa, että emme vastaanota tietopyyntöjä viranomaisilta yllä olevaan osoitteeseen. Saat lisätietoja tämän tyyppisten pyyntöjen lähettämisestä [Transparency](https://www.mozilla.org/about/policy/transparency/)-sivultamme.
-

@@ -87,4 +87,3 @@ San Francisco, CA 94103
 legal-notices@mozilla.com
 
 Lütfen yukarıdaki adreste devlet kurumlarından bilgi taleplerini kabul etmediğimizi unutmayın. Söz konusu taleplerin nasıl gönderileceği hakkında bilgi almak için [Şeffaflık Sayfamıza](https://www.mozilla.org/about/policy/transparency/) bakın.
-
