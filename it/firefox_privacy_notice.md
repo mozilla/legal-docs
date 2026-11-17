@@ -87,7 +87,7 @@ Abbiamo inoltre bisogno di elaborare i dati per mantenere Firefox operativo, mig
 
 Su dispositivi desktop e Android, se Firefox riscontra un problema imprevisto, il [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) ti chiederà anche se desideri inviarci ulteriori informazioni, che possono includere i siti aperti al momento dell'arresto anomalo e altri dati di navigazione. Su dispositivi desktop e Android, se scegli di inviarci automaticamente le segnalazioni di arresti anomali, raccoglieremo queste informazioni senza richiederle ogni volta; su iOS, le segnalazioni di arresti anomali contengono meno informazioni e ci vengono inviate automaticamente per impostazione predefinita. Puoi modificare le impostazioni in qualsiasi momento.
 
-*Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:* Puoi richiedere [maggiori informazioni](https://support.mozilla.org/kb/shield) sugli studi che ti coinvolgono, scegliere di non partecipare a nessuno studio (o a uno specifico) in qualsiasi momento, e scegliere di prendere parte alla sperimentazione di funzioni tramite [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Puoi inoltre ottenere [maggiori informazioni ](https://support.mozilla.org/kb/technical-and-interaction-data) sui dati tecnici e relativi alle interazioni che elaboriamo e su disattivarli.
+*Ulteriori dettagli, tra cui come regolare le impostazioni dei dati:* Puoi richiedere [maggiori informazioni](https://support.mozilla.org/kb/shield) sugli studi che ti coinvolgono, scegliere di non partecipare a nessuno studio (o a uno specifico) in qualsiasi momento, e scegliere di prendere parte alla sperimentazione di funzioni tramite [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). Puoi inoltre ottenere [maggiori informazioni ](https://support.mozilla.org/kb/technical-and-interaction-data) sui dati tecnici e relativi alle interazioni che elaboriamo e su come disattivarli.
 
 ### Per migliorare la sicurezza
 
@@ -168,7 +168,7 @@ In qualità di utente di Firefox, hai il diritto di:
 
 Per avanzare una qualsiasi delle richieste di cui sopra in merito ai tuoi dati personali, puoi contattarci (Mozilla Corporation) tramite il nostro portale [Data Subject Access Request](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); non discrimineremo mai nessuno per aver esercitato i propri diritti alla privacy. Per qualsiasi altra domanda in merito ai tuoi dati personali o alle nostre pratiche di privacy puoi contattarci all'indirizzo [compliance@mozilla.com](mailto:compliance@mozilla.com).
 
-Se ti trovi nel Regno Unito o nello Spazio Economico Europeo, puoi anche contattare il nostro DPO all'indirizzo[dpo@mozilla.com](mailto:dpo@mozilla.com), o per posta ordinaria all'indirizzo:
+Se ti trovi nel Regno Unito o nello Spazio Economico Europeo, puoi anche contattare il nostro DPO all'indirizzo [dpo@mozilla.com](mailto:dpo@mozilla.com), o per posta ordinaria all'indirizzo:
 
 Bird & Bird DPO Services SRL<br/>
 Avenue Louise 235 b 1<br/>

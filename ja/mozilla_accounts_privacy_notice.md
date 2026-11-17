@@ -19,7 +19,7 @@ Mozilla では、Mozilla アカウントおよびそれに連携されたサー�
 
 有料のサブスクリプションが必要なサービスを購読した場合、お支払いは [Mozilla サブスクリプションサービスのプライバシーに関する通知](https://www.mozilla.org/privacy/subscription-services/)に従って処理されます。Mozilla は、皆様のアカウントの記録（請求先住所とお支払い方法の下4桁を含む）およびアカウントのサブスクリプションの状態を受信します。Mozilla が皆様のお支払い情報すべてを保管することはありません。
 
-*その他の詳細 (データの設定を変更する方法など): * [Mozilla アカウントの管理方法](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)や[同期を有効にする方法](https://support.mozilla.org/kb/sync-firefox-desktop)、[同期の動作についての詳細](https://support.mozilla.org/kb/sync)、およびアカウントに対して Mozilla が収集する[データ](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts)の詳細について確認することができます。
+*その他の詳細 (データの設定を変更する方法など):*[Mozilla アカウントの管理方法](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)や[同期を有効にする方法](https://support.mozilla.org/kb/sync-firefox-desktop)、[同期の動作についての詳細](https://support.mozilla.org/kb/sync)、およびアカウントに対して Mozilla が収集する[データ](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts)の詳細について確認することができます。
 
 ### Mozilla アカウントおよび連携サービスを提供・改善するため
 
@@ -35,7 +35,7 @@ Mozilla では、技術データや対話データを処理することで、皆
 
 Mozilla アカウントの連携サービスで予期しない問題（例：クラッシュ）が発生した場合、Mozilla はサードパーティのサービスを利用して、エラーメッセージやデバイス情報、クラッシュ発生時のアプリケーションの状態などの技術データや対話データを収集して、Mozilla のサービスにおける問題を診断し、修正するのに役立てます。
 
-*その他の詳細 (データの設定を変更する方法など): * [Mozilla アカウントデータ収集設定](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)はいつでも変更できます。連携サービスに関連したデータ設定については、該当する通知をご覧ください。
+*その他の詳細 (データの設定を変更する方法など):*[Mozilla アカウントデータ収集設定](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)はいつでも変更できます。連携サービスに関連したデータ設定については、該当する通知をご覧ください。
 
 ### Firefox Link コレクションを提供するため
 
@@ -59,7 +59,7 @@ Mozilla は、適用法およびデータ保護目的に沿うためにあなた
 
 * 法的要求に応えるため、および[法的手続き](https://www.mozilla.org/about/policy/transparency/) (たとえば、政府当局からの召喚令状、取り調べ、または要求に応えるなど) に従うため。Mozilla に対し、特定のユーザーデータを政府に開示することを強制するには、有効な法的手続きが必要です。
 * 個人データにアクセスする権利や個人データを削除する権利など、プライバシー権の行使を求めるリクエストに応えるため。
-* 詐欺かも知れないアクティビティ、または、不法行為、サイバー攻撃、知的財産の侵害などの有害なアクティビティを特定・調査し、それに対処するするため (法的要求の提出または弁護を含む)。
+* 詐欺かも知れないアクティビティ、または、不法行為、サイバー攻撃、知的財産の侵害などの有害なアクティビティを特定・調査し、それに対処するため (法的要求の提出または弁護を含む)。
 * コンテンツのモデレーションおよび関連した信頼性・安全性アクティビティを実行するため。
 * 監査や企業セキュリティ管理などの社内コンプライアンスおよびセキュリティアクティビティを実行するため。
 
@@ -94,13 +94,13 @@ Firefox Link コレクションからリンクまたはリンクコレクショ�
 
 次のことに対する権利があります:
 
-1.Mozilla があなたに関するどのデータをどのような理由で処理し、誰と共有しているのかを知る権利 (この通知がそれです!)
-2.Mozilla が持っているあなたに関するデータについて、コピーを要求する権利
-3.データの移植性を要求する権利
-4.Mozilla が持っているあなたに関するデータのうち、不正確または不完全であるものについて、訂正を要求する権利
-5.Mozilla が持っているあなたに関する個人データを (特定の条件下において) 削除させる権利
-6.場合によっては、Mozilla によるあなたの個人データの使用を制限する、または使用に異議を唱える権利
-7.Mozilla による個人データの扱いに懸念がある場合に当該のデータ保護機関に苦情を提出する権利。Mozilla は、まず Mozilla に ([dpo@mozilla.com](mailto:dpo@mozilla.com) を介して) 連絡してくださることを望んでいますが、当該の [EU データ保護機関](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)に連絡するか、地域のデータ保護機関を検索 (して連絡) することもできます。
+1. Mozilla があなたに関するどのデータをどのような理由で処理し、誰と共有しているのかを知る権利 (この通知がそれです!)
+2. Mozilla が持っているあなたに関するデータについて、コピーを要求する権利
+3. データの移植性を要求する権利
+4. Mozilla が持っているあなたに関するデータのうち、不正確または不完全であるものについて、訂正を要求する権利
+5. Mozilla が持っているあなたに関する個人データを (特定の条件下において) 削除させる権利
+6. 場合によっては、Mozilla によるあなたの個人データの使用を制限する、または使用に異議を唱える権利
+7. Mozilla による個人データの扱いに懸念がある場合に当該のデータ保護機関に苦情を提出する権利。Mozilla は、まず Mozilla に ([dpo@mozilla.com](mailto:dpo@mozilla.com) を介して) 連絡してくださることを望んでいますが、当該の [EU データ保護機関](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)に連絡するか、地域のデータ保護機関を検索 (して連絡) することもできます。
 
 個人データに関して上記のいずれかの要求を行う場合は、Mozilla Corporation まで、[データ主体アクセス要求ポータル](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)を通じてご連絡ください。プライバシーの権利を行使したがために Mozilla から差別を受けることは絶対にありません。個人データまたは Mozilla のプライバシー慣行について他にご不明な点がある場合は、[compliance@mozilla.com](mailto:compliance@mozilla.com) までお問い合わせください。
 

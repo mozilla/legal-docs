@@ -15,7 +15,7 @@ Com uma conta Mozilla, você pode acessar os serviços da Mozilla em diferentes 
 
 A Mozilla também coleta [alguns dados](#bookmark-how-we-use-data), como dados técnicos e de configurações, para fornecer a funcionalidade principal das contas Mozilla e seus serviços vinculados, conectar novos dispositivos, lembrar e respeitar suas configurações, e fornecer recursos, como sincronização, nossa VPN integrada e Coleções de links.
 
-Se você habilitar a sincronização, a Mozilla receberá as informações sincronizadas entre os dispositivos em um formato criptografado. Elas podem incluir abas do Firefox, extensões, senhas, informações de preenchimento automático de formulários, favoritos, histórico e preferências. Essa criptografia é de ponta a ponta: seus dados sincronizados são criptografados antes de sair do navegador e só podem ser descriptografados por outro cliente de sincronização com chaves de criptografia. A Mozilla não pode pode descriptografar essas informações.
+Se você habilitar a sincronização, a Mozilla receberá as informações sincronizadas entre os dispositivos em um formato criptografado. Elas podem incluir abas do Firefox, extensões, senhas, informações de preenchimento automático de formulários, favoritos, histórico e preferências. Essa criptografia é de ponta a ponta: seus dados sincronizados são criptografados antes de sair do navegador e só podem ser descriptografados por outro cliente de sincronização com chaves de criptografia. A Mozilla não pode descriptografar essas informações.
 
 Ao assinar os serviços que requerem uma assinatura paga, seu pagamento será realizado de acordo com o [Aviso de privacidade dos serviços de assinatura da Mozilla](https://www.mozilla.org/privacy/subscription-services/). A Mozilla recebe um registro da sua conta (incluindo seu endereço de cobrança e os quatro últimos dígitos do seu cartão de pagamento) e o status da sua assinatura. Nós não armazenamos todos os seus dados de pagamento.
 
@@ -23,9 +23,9 @@ Ao assinar os serviços que requerem uma assinatura paga, seu pagamento será re
 
 ### Para fornecer as contas Mozilla e os serviços conectados e melhorá-los
 
-Também precisam tratar dados para manter as contas Mozilla funcionando, melhorar os recursos e o desempenho, e identificar e solucionar problemas. Para isso, usamos dados técnicos, de localização e de configurações, além de dados de interação e de desempenho do sistema.
+Também precisamos tratar dados para manter as contas Mozilla funcionando, melhorar os recursos e o desempenho, e identificar e solucionar problemas. Para isso, usamos dados técnicos, de localização e de configurações, além de dados de interação e de desempenho do sistema.
 
-Tratamos dados técnicos e de interação para entender melhor como você interage com nossos serviços, como suas visitas no [site de contas Mozilla](https://accounts.firefox.com/) ou nossas [páginas de ajuda](https://support.mozilla.org/), preferências de painéis e do menu, produtos, serviços e recursos que você usa vinculados à sua conta Mozilla (incluindo seu uso do Firefox, como frequência e última sincronização dos dados), dispositivos que usou para interagir conosco e suas interações com nossas comunicações. Dessa forma, conseguimos entender como as pessoas acessam e usam nossos serviços, ajudando a melhorar nossos negócios e as funcionalidades do nossos serviços.
+Tratamos dados técnicos e de interação para entender melhor como você interage com nossos serviços, como suas visitas no [site de contas Mozilla](https://accounts.firefox.com/) ou nossas [páginas de ajuda](https://support.mozilla.org/), preferências de painéis e do menu, produtos, serviços e recursos que você usa vinculados à sua conta Mozilla (incluindo seu uso do Firefox, como frequência e última sincronização dos dados), dispositivos que usou para interagir conosco e suas interações com nossas comunicações. Dessa forma, conseguimos entender como as pessoas acessam e usam nossos serviços, ajudando a melhorar nossos negócios e as funcionalidades dos nossos serviços.
 
 Quando você usa os serviços conectados, seus dados são tratados de acordo com o aviso de privacidade do serviço em questão:
 
@@ -53,7 +53,7 @@ Como parte das atividades descritas neste aviso, como entender o uso das contas 
 
 Usamos seus dados de contato para nos comunicarmos com você. Podemos entrar em contato com você por motivos como: alertar caso detectemos atividade suspeita na sua conta, confirmar alterações das informações da sua conta, enviar comunicações de marketing ou responder a comunicações de suporte a clientes. Também podemos usar prestadores de serviços terceirizados para gerenciar nossas comunicações com você. Também tratamos dados de interação relacionados a essas comunicações para entender melhor quem as recebeu e torná-las mais relevantes e úteis para você.
 
-### Para fins de conformidade com a legislação aplicável, e identificação e prevenção atividades prejudiciais, não autorizadas ou ilegais
+### Para fins de conformidade com a legislação aplicável, e identificação e prevenção de atividades prejudiciais, não autorizadas ou ilegais
 
 Também podemos ser obrigados a tratar seus dados pessoais para cumprir com a legislação aplicável e para fins de proteção de dados, como:
 
@@ -76,13 +76,13 @@ Para fornecer nossos serviços, conforme descrito acima, podemos divulgar dados 
 
 ## Transferências internacionais de dados
 
-A Mozilla Corporation e nossos servidores estão localizados nos EUA. Por sermos uma empresa global, a fim de prestar os serviços descritos neste Aviso de privacidade, as informações que coletamos podem ser acessadas de localizações nas quais estão nossa equipe e transferidas para outras competências como resultado do compartilhamento de dados com nossos parceiros. Sem que há transferência de dados entre países, garantimos ter os mecanismos adequados em vigor (como [cláusulas contratuais padrão](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) aprovadas pela Comissão Europeia e por outras autoridades relevantes) para proteger seus dados pessoais. Você pode enviar um email para [dpo@mozilla.com](mailto:dpo@mozilla.com) para obter informações sobre as proteções implementadas para transferências internacionais ou solicitar cópias das cláusulas contratuais padrão relevantes.
+A Mozilla Corporation e nossos servidores estão localizados nos EUA. Por sermos uma empresa global, a fim de prestar os serviços descritos neste Aviso de privacidade, as informações que coletamos podem ser acessadas de localizações nas quais estão nossa equipe e transferidas para outras competências como resultado do compartilhamento de dados com nossos parceiros. Sempre que houver transferência de dados entre países, garantimos ter os mecanismos adequados em vigor (como [cláusulas contratuais padrão](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) aprovadas pela Comissão Europeia e por outras autoridades relevantes) para proteger seus dados pessoais. Você pode enviar um email para [dpo@mozilla.com](mailto:dpo@mozilla.com) para obter informações sobre as proteções implementadas para transferências internacionais ou solicitar cópias das cláusulas contratuais padrão relevantes.
 
 ## Por quanto tempo mantemos seus dados
 
 Retemos seus dados pessoais somente pelo tempo necessário para o cumprimento das finalidades descritas neste Aviso de privacidade. Em geral, os dados da sua conta são mantidos durante todo o período em que a conta está ativa. A Mozilla [exclui periodicamente](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) contas não acessadas há mais de dois anos. Envidamos esforços razoáveis para enviar um lembrete da exclusão.
 
-Com relação aos dados técnicos, de configurações e de interação que coletamos, normalmente os mantemos por até 25 meses, mas o período certo de retenção pode variar de acordo com o tipo de dados e a finalidade da coleta (por exemplo, retemos a data da primeira visualização da conta para sabermos há quanto você é titular da conta Mozilla). Ele também pode depender da confidencialidade dos dados, do contexto de sua coleta, de suas configurações e preferências, e de nossas obrigações legais ou contratuais de retenção ou exclusão dos seus dados, como para prevenção de fraude, conformidade regulamentar ou continuidade do serviço. Após o término do período de retenção, excluímos seus dados de maneira segura, exceto se exigido por lei de outra forma.
+Com relação aos dados técnicos, de configurações e de interação que coletamos, normalmente os mantemos por até 25 meses, mas o período certo de retenção pode variar de acordo com o tipo de dados e a finalidade da coleta (por exemplo, retemos a data da primeira visualização da conta para sabermos há quanto tempo você é titular da conta Mozilla). Ele também pode depender da confidencialidade dos dados, do contexto de sua coleta, de suas configurações e preferências, e de nossas obrigações legais ou contratuais de retenção ou exclusão dos seus dados, como para prevenção de fraude, conformidade regulamentar ou continuidade do serviço. Após o término do período de retenção, excluímos seus dados de maneira segura, exceto se exigido por lei de outra forma.
 
 Se você excluir um link ou uma Coleção de links do Firefox, poderemos reter dados associados para fins de segurança e prevenção de abuso. Conteúdo que viole nossos [Termos do serviço](https://www.mozilla.org/about/legal/terms/services/) pode ser retido por tempo indefinido a fim de que possamos avaliar e evitar abuso futuro.
 
@@ -111,7 +111,7 @@ Avenue Louise 235 b 1<br>
 1050 Brussels<br>
 Bélgica<br>
 
-Respondemos a todas as solicitações de pessoas que desejam exercer seus direitos de proteção de dados de acordo com a legislação de proteção de dados aplicável. Podemos solicitar informações adicionais para confirmar sua identidade antes de procederemos com sua solicitação.
+Respondemos a todas as solicitações de pessoas que desejam exercer seus direitos de proteção de dados de acordo com a legislação de proteção de dados aplicável. Podemos solicitar informações adicionais para confirmar sua identidade antes de procedermos com sua solicitação.
 
 ### Suas escolhas
 
@@ -240,7 +240,7 @@ Podemos alterar esta política e nossos avisos. Nesse caso, as atualizações se
       </td>
     </tr>
     <tr>
-      <td>Para fins de conformidade com a legislação aplicável, e identificação e prevenção atividades prejudiciais, não autorizadas ou ilegais</td>
+      <td>Para fins de conformidade com a legislação aplicável, e identificação e prevenção de atividades prejudiciais, não autorizadas ou ilegais</td>
       <td>
         <ul>
           <li>Todos os tipos de dados</li>

@@ -67,7 +67,7 @@ Előfordulhat, hogy az országa jogszabályai szerint más jogokkal is rendelkez
 
 ## A Firefox „jelen állapotában” van biztosítva (jótállási nyilatkozat)
 
-**A Mozilla a Firefoxot „jelen állapotában” biztosítja. Amennyiben az alkalmazandó jogszabályok lehetővé teszik, a Mozilla és leányvállalatai kifejezetten elutasítanak minden olyan jogi garanciát, mint például az „eladhatóság”, „egy adott célra való alkalmasság”, „nemlegesség”, valamint a kereskedésből vagy használatból eredő garanciák**
+**A Mozilla a Firefoxot „jelen állapotában” biztosítja. Amennyiben az alkalmazandó jogszabályok lehetővé teszik, a Mozilla és leányvállalatai kifejezetten elutasítanak minden olyan jogi garanciát, mint például az „eladhatóság”, „egy adott célra való alkalmasság”, „nemlegesség”, valamint a kereskedésből vagy használatból eredő garanciák.**
 
 ## További tudnivalók
 

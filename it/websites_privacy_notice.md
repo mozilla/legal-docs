@@ -35,7 +35,7 @@ Possiamo utilizzare cookie, GIF trasparenti, web analytics di terze parti, infor
     * Gli indirizzi IP vengono utilizzati per personalizzare le comunicazioni in base alla lingua e al Paese.
     * Le informazioni sui dispositivi, come Paese, lingua operatore e OEM, vengono utilizzate per personalizzare la vostra esperienza.
 
-* **Metriche**: possiamo, inoltre, usare cookie, informazioni sul dispositivo e indirizzi IP, insieme a GIF trasparenti, cookie e servizi di terzi per per comprendere nell'insieme il modo in cui vi relazionate ai nostri prodotti, servizi, comunicazioni, siti web, campagne online, frammenti di codice, dispositivi e altre piattaforme. Utilizziamo:
+* **Metriche**: possiamo, inoltre, usare cookie, informazioni sul dispositivo e indirizzi IP, insieme a GIF trasparenti, cookie e servizi di terzi per comprendere nell'insieme il modo in cui vi relazionate ai nostri prodotti, servizi, comunicazioni, siti web, campagne online, frammenti di codice, dispositivi e altre piattaforme. Utilizziamo:
     * Mozilla Glean, la nostra piattaforma proprietaria di telemetria e analytics. Per maggiori informazioni sugli specifici tipi di dati raccolti, consulta il [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, che inserisce un cookie nel dispositivo in uso, per ottenere metriche relative alle modalità di interazione degli utenti con i nostri siti web. Questo ci aiuta a migliorare i contenuti dei siti.
     * Convert.com e ShareProgress, che inseriscono un cookie nel dispositivo in uso, per aiutarci a testare le varianti di contenuti web. Questo ci consente di offrire una migliore esperienza utente.

@@ -13,13 +13,13 @@ Nous développons nos produits et services de telle sorte que vous puissiez mieu
 
 Les comptes Mozilla vous permettent d'accéder aux services Mozilla sur tous vos appareils à l'aide d'un seul identifiant. Pour ce faire, Mozilla traite les données de votre compte, vos coordonnées (adresse e-mail) et vos données d'autorisation. Vous pouvez aussi choisir de fournir des données de contenu supplémentaires, comme un pseudo ou une image de profil.
 
-Mozilla collecte également [certaines données](#bookmark-how-we-use-data), telles que des données techniques et de configuration, afin de fournir les fonctionnalités de base des comptes Mozilla et de ses services connectés, de connecter de nouveaux appareils, de mémoriser et de respecter vos paramètres, et de vous proposer des fonctionnalités telles que la synchronisation, notre VPN intégré et les collections de liens
+Mozilla collecte également [certaines données](#bookmark-how-we-use-data), telles que des données techniques et de configuration, afin de fournir les fonctionnalités de base des comptes Mozilla et de ses services connectés, de connecter de nouveaux appareils, de mémoriser et de respecter vos paramètres, et de vous proposer des fonctionnalités telles que la synchronisation, notre VPN intégré et les collections de liens.
 
-Si vous activez la synchronisation, Mozilla reçoit les informations que vous synchronisez entre vos appareils sous forme chiffrée ; celles-ci peuvent inclure les onglets Firefox, les extensions, les mots de passe, les informations de remplissage automatique des formulaires, les marque-pages, l’historique et les préférences. Le chiffrement est effectué de bout en bout : vos données sont chiffrées avant même de quitter votre navigateur et ne peuvent être déchiffrées que par un autre client de synchronisation disposant des clés de chiffrement ; Mozilla ne peut pas déchiffrer ces informat.
+Si vous activez la synchronisation, Mozilla reçoit les informations que vous synchronisez entre vos appareils sous forme chiffrée ; celles-ci peuvent inclure les onglets Firefox, les extensions, les mots de passe, les informations de remplissage automatique des formulaires, les marque-pages, l’historique et les préférences. Le chiffrement est effectué de bout en bout : vos données sont chiffrées avant même de quitter votre navigateur et ne peuvent être déchiffrées que par un autre client de synchronisation disposant des clés de chiffrement ; Mozilla ne peut pas déchiffrer ces informations.
 
-Lorsque vous vous abonnez à des services nécessitant un abonnement payant, votre paiement sera traité conformément à la [Politique de confidentialité des services d'abonnement Mozilla.](https://www.mozilla.org/privacy/subscription-services/). Mozilla reçoit un enregistrement de votre compte (comprenant votre adresse de facturation et les quatre derniers chiffres de votre mode de paiement) et le statut de l’abonnement de votre compte. Mozilla ne stocke pas tous les détails de vos paiements.
+Lorsque vous vous abonnez à des services nécessitant un abonnement payant, votre paiement sera traité conformément à la [Politique de confidentialité des services d'abonnement Mozilla](https://www.mozilla.org/privacy/subscription-services/). Mozilla reçoit un enregistrement de votre compte (comprenant votre adresse de facturation et les quatre derniers chiffres de votre mode de paiement) et le statut de l’abonnement de votre compte. Mozilla ne stocke pas tous les détails de vos paiements.
 
-* Plus de détails, notamment comment modifier vos paramètres de données :* Vous pouvez en savoir plus sur la [gestion de votre compte Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), l'[activation de la synchronisation](https://support.mozilla.org/kb/sync-firefox-desktop), le [fonctionnement de la synchronisation](https://support.mozilla.org/kb/sync) et les [données](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) que nous collectons pour les comptes.
+*Plus de détails, notamment comment modifier vos paramètres de données :* Vous pouvez en savoir plus sur la [gestion de votre compte Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), l'[activation de la synchronisation](https://support.mozilla.org/kb/sync-firefox-desktop), le [fonctionnement de la synchronisation](https://support.mozilla.org/kb/sync) et les [données](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) que nous collectons pour les comptes.
 
 ### Pour fournir et améliorer les comptes Mozilla et les services connectés
 
@@ -35,7 +35,7 @@ Lorsque vous utilisez des services connectés, vos données sont traitées confo
 
 Si un service connecté à un compte Mozilla rencontre un problème inattendu (par exemple, un plantage), nous utilisons un service tiers pour collecter des données techniques et d'interaction telles que les messages d'erreur, les informations sur l'appareil et l'état de l'application au moment du plantage, afin de nous aider à diagnostiquer et à résoudre les problèmes dans nos services.
 
-* Plus de détails, notamment comment modifier vos paramètres de données :* Vous pouvez modifier vos [paramètres de collecte de données de comptes Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) à tout moment. Veuillez consulter l'avis correspondant à vos paramètres de données pour tout service connecté.
+*Plus de détails, notamment comment modifier vos paramètres de données :* Vous pouvez modifier vos [paramètres de collecte de données de comptes Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) à tout moment. Veuillez consulter l'avis correspondant à vos paramètres de données pour tout service connecté.
 
 ### Proposer les collections de liens Firefox
 
@@ -132,7 +132,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis. Dans ce cas,
 | Langue préférée | Votre langue préférée (si vous l'indiquez dans les paramètres) pour interagir avec nos services. | Langue.  |
 | Localisation | Nous déduisons votre localisation à partir de votre adresse IP au niveau de votre pays, de votre ville ou de votre région. | Code pays, ville.  |
 | Paramètres | Il s'agit de vos préférences ou de vos paramètres concernant la manière dont les services sont fournis, tels que vos préférences en matière de confidentialité. Si vous n'avez pas fait de choix spécifiques, il s'agit des paramètres par défaut.  | Paramètres de confidentialité, paramètres du compte.  |
-| Données relatives aux performances du système | Il s'agit de données sur le fonctionnement des services sur votre appareil.  | THorodatage, réussite/échec des soumissions.  |
+| Données relatives aux performances du système | Il s'agit de données sur le fonctionnement des services sur votre appareil.  | Horodatage, réussite/échec des soumissions.  |
 | Données techniques | Il s'agit d'informations sur le matériel à partir duquel vous accédez à nos services (comme votre ordinateur de bureau, votre smartphone ou votre tablette), ses configurations et connexions.  | Système d'exploitation de l'appareil, navigateur et version, horodatage, paramètres régionaux. |
 | Identifiants uniques  | Il s'agit d'identifiants uniques, qui peuvent être créés à différents moments pour gérer vos interactions avec le service.  | Accounts_id, session_id.  |
 
@@ -154,7 +154,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis. Dans ce cas,
           <li>Données techniques</li>
           <li>Identifiants uniques</li>
           <li>Performances du système</li>
-          <li>Donn&es d'autorisation</li>
+          <li>Données d'autorisation</li>
           <li>Données de contenu</li>
           <li>Données de contact</li>
         </ul>
@@ -205,7 +205,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis. Dans ce cas,
           <li>Données techniques</li>
           <li>Localisation</li>
           <li>Identifiants uniques</li>
-          <li>Donn&es d'autorisation</li>
+          <li>Données d'autorisation</li>
           <li>Données de contact</li>
         </ul>
       </td>
@@ -247,7 +247,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis. Dans ce cas,
         </ul>
       </td>
       <td>
-        <p><strong>Respect de la loi</strong> en répondant aux demandes de droits des personnes concernées, en répondant aux demandes d'application de la loi, en gérant et en protégeant nos droits, notre propriété et/ou notre sécurité (ainsi que ceux de nos utilisateurs’).</p>
+        <p><strong>Respect de la loi</strong> en répondant aux demandes de droits des personnes concernées, en répondant aux demandes d'application de la loi, en gérant et en protégeant nos droits, notre propriété et/ou notre sécurité (ainsi que ceux de nos utilisateurs).</p>
         <p><strong>Intérêt légitime</strong>, lorsque cela n'est pas strictement requis par la loi, pour soutenir des processus ou des demandes juridiques ou réglementaires, prévenir la fraude et gérer et protéger nos droits, notre propriété et/ou notre sécurité (et ceux/celle de nos utilisateurs).</p>
       </td>
     </tr>

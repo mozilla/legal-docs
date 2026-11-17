@@ -74,7 +74,7 @@ __Limitaciones y personalización.__ El servicio gratuito le permite crear hasta
 
 Firefox Relay ofrece hasta 50 minutos en llamadas telefónicas y hasta 75 mensajes de texto SMS (total de mensajes enviados y recibidos) al mes. Cualquier mensaje de texto adicional se eliminará y no podrá efectuarse ninguna llamada de teléfono adicional. Firefox Relay no es compatible con los mensajes MMS. Es posible que se apliquen las tarifas normales de su proveedor de servicio móvil para llamadas y mensajes de texto. 
 
-Una vez que elija una máscara de número de teléfono, no podrá cambiarla. Dado que solo se puede elegir una máscara de número de teléfono, solo podrá responder al último mensaje de texto que haya recibido. Firefox Relay no permite el envío de mensajes de texto, solo permite responder al último mensaje que texto que haya recibido. 
+Una vez que elija una máscara de número de teléfono, no podrá cambiarla. Dado que solo se puede elegir una máscara de número de teléfono, solo podrá responder al último mensaje de texto que haya recibido. Firefox Relay no permite el envío de mensajes de texto, solo permite responder al último mensaje de texto que haya recibido. 
 
 Firefox Relay solo enviará archivos adjuntos de correo electrónico de hasta 10 megabytes. Los mensajes de correo electrónico de mayor tamaño se eliminarán.
 
@@ -101,7 +101,7 @@ Usted acepta y asegura a Mozilla que:
 * Su uso del Servicio se regirá por la [Política de Uso Aceptable](https://www.mozilla.org/about/legal/acceptable-use/) de Mozilla.
 * No utilizará los Servicios para infringir los derechos de nadie ni violar ninguna ley.
 
-Por favor, considere que pueden pasar hasta 2 meses desde el momento en que recibiremos todas las informaciones necesarias para proporcionarle a los Servicios para que las solicitudes de exclusión voluntarias sean gestionadas por las Páginas de corredores de datos
+Por favor, considere que pueden pasar hasta 2 meses desde el momento en que recibiremos todas las informaciones necesarias para proporcionarle los Servicios para que las solicitudes de exclusión voluntarias sean gestionadas por las Páginas de corredores de datos.
 
 __Límites.__ Usted entiende que los resultados de los Servicios están directamente relacionados con la rapidez y exhaustividad de la información que usted nos proporcione. Aunque Mozilla Monitor y [Have I Been Pwned?](https://haveibeenpwned.com/) se esfuerzan por tener los datos actualizados, no hay garantía de que ninguno de estos servicios tenga los registros completos de todas las violaciones de datos públicas en el momento oportuno. 
 

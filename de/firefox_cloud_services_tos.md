@@ -24,7 +24,7 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
 
     (a) Mozilla VPN ist ein Virtual Private Network in Zusammenarbeit mit [Mullvad](https://mullvad.net/). Dazu ist ein Mozilla-Konto erforderlich.
     
-    (b) Firefox Relay ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellen, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen. Dazu ist ein Mozilla-Konto erforderlich.
+    (b) Firefox Relay ermöglicht Ihnen, Ihre Haupt-E-Mail-Adresse vor Online-Diensten zu schützen. Zu diesem Zweck werden eindeutige Alias-E-Mail-Adressen erstellt, über die Sie E-Mails senden und empfangen können, ohne Ihre Haupt-E-Mail-Adresse offenzulegen. Dazu ist ein Mozilla-Konto erforderlich.
     
     (c) Firefox Monitor ist ein Informationsservice zur Förderung der Online-Sicherheit. Dabei werden Sie über öffentliche Datensicherheitsverletzungen informiert. Sie können E-Mail-Adressen auf unserer Website scannen, um die meisten öffentlich bekannten Verletzungen anzuzeigen. Falls Sie diesen Service mit einem Mozilla-Konto abonnieren, erhalten Sie Folgendes: 
 
@@ -59,9 +59,10 @@ Dieser vorangestellte Abschnitt fasst die unten im Einzelnen genannten Bedingung
     Sie können Ihre E-Mail-Abonnements bei Mozilla über unsere E-Mails (durch Klick auf den Link unten) oder den Browser (besuchen Sie Firefox/Einstellungen/Synchronisation/Konto verwalten/E-Mail-Einstellungen) ändern.
     
     Wir senden Ihnen evtl. auch wichtige Kontoinformationen wie Aktualisierungen der rechtlichen oder Datenschutzbestimmungen oder Sicherheitsnachrichten wie solche zu Passwort-Rücksetzungen, E-Mail-Bestätigung und verknüpften Geräten. Diese Nachrichten sind für unsere Services notwendig. Sie können daher nicht abbestellt werden. 
-Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
 
-Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.
+    Sie können sich an Mozilla wenden unter: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+    Bitte beachten Sie, dass wir unter der obigen Adresse keine Auskunftsersuchen von Behörden entgegennehmen. Auf unserer [Seite „Transparency“ (Transparenz)](https://www.mozilla.org/about/policy/transparency/) finden Sie weitere Informationen dazu, wie Sie solche Ersuchen stellen können.
 
 6. #### Ihre Inhalte in unseren Services
 

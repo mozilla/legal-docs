@@ -23,7 +23,7 @@ A Mozilla não concede a você quaisquer direitos de propriedade intelectual sob
 
 ## Direitos e permissões concedidos por você à Mozilla
 
-Você concede à Mozilla os direitos necessários para operar o Firefox. Isso inclui processar seus dados das maneiras descritas no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice)
+Você concede à Mozilla os direitos necessários para operar o Firefox. Isso inclui processar seus dados das maneiras descritas no [Aviso de privacidade do Firefox](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Feedback e sugestões
 

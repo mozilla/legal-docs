@@ -19,7 +19,7 @@ Mozilla 还会收集[某些数据](#bookmark-how-we-use-data)，例如技术数�
 
 当您订阅需要付费的服务时，您的付款将依据[《Mozilla 订阅服务隐私声明》](https://www.mozilla.org/privacy/subscription-services/)进行处理。Mozilla 会收到您的帐户记录（包括您的账单地址和付款方式的最后四位数字）以及您的帐户订阅状态。Mozilla 不会存储您的全部付款详情。
 
-更多详情，包括如何调整您的数据设置：* 您可以进一步了解如何[管理您的 Mozilla 帐户](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)，[如何启用同步功能](https://support.mozilla.org/kb/sync-firefox-desktop)，关于[同步工作方式](https://support.mozilla.org/kb/sync)的更多详情，以及我们为帐户所收集[数据](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts)的更多细节。
+*更多详情，包括如何调整您的数据设置：* 您可以进一步了解如何[管理您的 Mozilla 帐户](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)，[如何启用同步功能](https://support.mozilla.org/kb/sync-firefox-desktop)，关于[同步工作方式](https://support.mozilla.org/kb/sync)的更多详情，以及我们为帐户所收集[数据](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts)的更多细节。
 
 ### 为提供并改进 Mozilla 帐户及关联服务
 
@@ -35,7 +35,7 @@ Mozilla 还会收集[某些数据](#bookmark-how-we-use-data)，例如技术数�
 
 如果 Mozilla 帐户关联服务发生意外问题（例如崩溃），我们会使用第三方服务收集技术与交互数据，如错误信息、设备信息和崩溃时的应用程序状态，以帮助我们诊断并修复服务中的问题。
 
-更多详情，包括如何调整您的数据设置：* 您可以随时调整 [Mozilla 帐户的数据收集设置](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)。关于任何关联服务的数据设置，请参见相关声明。
+*更多详情，包括如何调整您的数据设置：* 您可以随时调整 [Mozilla 帐户的数据收集设置](https://support.mozilla.org/kb/firefox-accounts-managing-account-data)。关于任何关联服务的数据设置，请参见相关声明。
 
 ### 为提供 Firefox 链接收藏功能
 
@@ -94,13 +94,13 @@ Mozilla Corporation（以及我们的服务器）位于美国。由于我们是�
 
 您有权：
 
-1.被告知我们处理您的哪些数据、处理原因及数据共享对象（即本声明！）
-2.要求获取我们持有的您的数据副本
-3.要求数据可携权
-4.要求更正我们持有的有关您的不准确或不完整数据
-5.在特定情况下要求删除我们持有的您的个人数据
-6.在某些情况下，限制或反对我们使用您的个人数据的方式
-7.如果您对我们的数据处理方式存在疑虑，可向相关数据保护机构投诉。我们建议您首先联系我们（通过 [dpo@mozilla.com](mailto:dpo@mozilla.com)），但您也可以联系[欧盟相关数据保护机构](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)，或查找（并联系）您本地的数据保护机构
+1. 被告知我们处理您的哪些数据、处理原因及数据共享对象（即本声明！）
+2. 要求获取我们持有的您的数据副本
+3. 要求数据可携权
+4. 要求更正我们持有的有关您的不准确或不完整数据
+5. 在特定情况下要求删除我们持有的您的个人数据
+6. 在某些情况下，限制或反对我们使用您的个人数据的方式
+7. 如果您对我们的数据处理方式存在疑虑，可向相关数据保护机构投诉。我们建议您首先联系我们（通过 [dpo@mozilla.com](mailto:dpo@mozilla.com)），但您也可以联系[欧盟相关数据保护机构](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)，或查找（并联系）您本地的数据保护机构
 
 如您希望对您的个人数据行使上述任何权利，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)联系我们 (Mozilla Corporation)；我们绝不会因任何人行使其隐私权利而对其进行任何形式的歧视。如果您对个人数据或我们的隐私保护措施有任何其他问题，请发送电子邮件至 [compliance@mozilla.com](mailto:compliance@mozilla.com) 与我们联系。
 

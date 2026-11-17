@@ -13,7 +13,7 @@ Data de vigência: terça-feira, 22 de abril de 2025
 
 O Focus e o Klar tratam dados técnicos e de configurações, o histórico de navegação, dados de formulários da web, arquivos temporários da internet e cookies **no seu dispositivo** para fornecer as principais funcionalidades do navegador, distinguir seu aparelho, e lembrar e respeitar suas configurações. Ou seja, esses dados permanecem em seu dispositivo, salvo indicação contrária neste Aviso. Seus dados de navegação são apagados do seu dispositivo ao fechar o navegador.
 
-Além disso, Se você permitir, sua localização exata será tratada para funcionalidades relacionadas à localização para sites como o Google Maps. Esses dados são acessados por seu dispositivo somente pelos sites que você permitir. Eles não são enviados aos servidores da Mozilla. Toque no ícone de lixo na barra de ferramentas para excluir seus dados de navegação ou atualizar suas [permissões de localização](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) quando quiser.
+Além disso, se você permitir, sua localização exata será tratada para funcionalidades relacionadas à localização para sites como o Google Maps. Esses dados são acessados por seu dispositivo somente pelos sites que você permitir. Eles não são enviados aos servidores da Mozilla. Toque no ícone de lixo na barra de ferramentas para excluir seus dados de navegação ou atualizar suas [permissões de localização](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) quando quiser.
 
 ### Para fornecer funcionalidades de pesquisa e aprimorá-las
 
@@ -46,7 +46,7 @@ Para fornecer nossos serviços, conforme descrito acima, podemos divulgar dados 
 
 ## Transferências internacionais de dados
 
-A Mozilla Corporation e nossos servidores estão localizados nos EUA. Por sermos uma empresa global, a fim de prestar os serviços descritos neste Aviso de privacidade, as informações que coletamos podem ser acessadas de localizações nas quais estão nossa equipe, e os dados também podem ser transferidos para outras competências como resultado do compartilhamento de dados com nossos parceiros. Sem que há transferência de dados entre países, garantimos ter os mecanismos adequados em vigor (como [cláusulas contratuais padrão](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) aprovadas pela Comissão Europeia e por outras autoridades relevantes) para proteger seus dados pessoais. Você pode enviar um email para [dpo@mozilla.com](mailto:dpo@mozilla.com) para obter informações sobre as proteções implementadas para transferências internacionais ou solicitar cópias das cláusulas contratuais padrão relevantes.
+A Mozilla Corporation e nossos servidores estão localizados nos EUA. Por sermos uma empresa global, a fim de prestar os serviços descritos neste Aviso de privacidade, as informações que coletamos podem ser acessadas de localizações nas quais estão nossa equipe, e os dados também podem ser transferidos para outras competências como resultado do compartilhamento de dados com nossos parceiros. Sempre que houver transferência de dados entre países, garantimos ter os mecanismos adequados em vigor (como [cláusulas contratuais padrão](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) aprovadas pela Comissão Europeia e por outras autoridades relevantes) para proteger seus dados pessoais. Você pode enviar um email para [dpo@mozilla.com](mailto:dpo@mozilla.com) para obter informações sobre as proteções implementadas para transferências internacionais ou solicitar cópias das cláusulas contratuais padrão relevantes.
 
 ## Seus direitos e suas escolhas
 
@@ -71,7 +71,7 @@ Avenue Louise 235 b 1<br>
 1050 Brussels<br>
 Bélgica
 
-Respondemos a todas as solicitações de pessoas que desejam exercer seus direitos de proteção de dados de acordo com a legislação de proteção de dados aplicável. Podemos solicitar informações adicionais para confirmar sua identidade antes de procederemos com sua solicitação.
+Respondemos a todas as solicitações de pessoas que desejam exercer seus direitos de proteção de dados de acordo com a legislação de proteção de dados aplicável. Podemos solicitar informações adicionais para confirmar sua identidade antes de procedermos com sua solicitação.
 
 ### Suas escolhas
 

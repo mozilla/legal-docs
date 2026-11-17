@@ -60,7 +60,7 @@ __Kündigung.__ Sie können Ihr MDN Plus-Abonnement jederzeit kündigen. Dazu kl
 
 Falls wir Ihren Zugriff auf den Dienst ohne spezifische Angabe von Gründen beenden, haben Sie weiter für den aktuellen Abrechnungszeitraum Zugriff auf den Dienst, ansonsten werden wir den Betrag für den aktuellen Monat zurückerstatten. Wir behalten uns aber das Recht vor, Ihre Nutzung des Dienstes sofort zu beenden, wenn wir angemessenen Grund zu der Annahme haben, dass Sie die Nutzungsbedingungen verletzt oder diese Bedingungen auf sonstige Weise verletzt haben.
 
-* __Wahl des Rechtsgebiets.__ Für diesen Vertrag gelten die Gesetze des US-Bundesstaats Kalifornien ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte ein Konflikt zwischen der englischsprachigen Originalversion dieses Vertrags und einer Übersetzung vorlegen, hat die englischsprachige Originalversion Vorrang.
+* __Wahl des Rechtsgebiets.__ Für diesen Vertrag gelten die Gesetze des US-Bundesstaats Kalifornien ausschließlich der kollisionsrechtlichen Bestimmungen. Sollte ein Konflikt zwischen der englischsprachigen Originalversion dieses Vertrags und einer Übersetzung vorliegen, hat die englischsprachige Originalversion Vorrang.
 
 ## Kontaktadresse Mozilla:
 

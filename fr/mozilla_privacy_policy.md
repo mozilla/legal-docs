@@ -32,7 +32,7 @@ Pour les utilisateurs de l’UE, de l’EEE, de Suisse et de Californie : voir 
 
 * Lorsque vous nous avez autorisé à le faire.
 * Pour le traitement ou la fourniture des produits et services, mais uniquement si les entités qui reçoivent vos informations sont obligées contractuellement d’utiliser les procédures de gestion des données approuvées par Mozilla.
-* Lorsque nous accomplissons notre mission qui est celle [d’être ouvert](https://www.mozilla.org/about/manifesto/). Parfois, nous publions des informations pour améliorer nos produits et favoriser un Web ouvert.Cependant, nous éliminons vos informations personnelles et essayons de divulguer des informations tout en minimisant le risque que vous soyez ré-identifié(e).
+* Lorsque nous accomplissons notre mission qui est celle [d’être ouvert](https://www.mozilla.org/about/manifesto/). Parfois, nous publions des informations pour améliorer nos produits et favoriser un Web ouvert. Cependant, nous éliminons vos informations personnelles et essayons de divulguer des informations tout en minimisant le risque que vous soyez ré-identifié(e).
 * Lorsque la loi l’exige. Nous respectons la loi chaque fois que nous recevons des requêtes d’informations sur vous de la part d’un gouvernement ou dans le cadre d’un procès. Nous vous avertirons dans ces cas de la transmission de vos informations personnelles, sauf si ceci est interdit par la loi. Lorsque nous recevons ce type de requête, nous ne communiquons vos informations personnelles que si nous estimons de bonne foi que la loi l’exige. Dans cette politique, rien n’entend limiter votre droit de défense ou opposition légale à divulguer vos informations sur la requête d’une tierce partie.
 * Lorsque nous jugeons qu’il est nécessaire d’éviter tout préjudice à votre personne ou à un tiers. Nous ne partagerons vos informations de cette manière que si nous estimons de bonne foi qu’il est raisonnablement nécessaire de protéger vos droits, votre propriété ou votre sécurité ou ceux d’autres utilisateurs, de Mozilla ou du public.
 * Si notre structure organisationnelle ou notre statut change (si nous sommes soumis à une restructuration, acquisition ou faisons faillite), nous pourrions passer vos informations à un successeur ou affilié.
@@ -41,7 +41,7 @@ Pour les utilisateurs de l’UE, de l’EEE, de Suisse et de Californie : voir 
 
 Nous nous engageons à protéger vos informations personnelles une fois que nous les avons obtenues. Nous mettons en place des mesures de sécurité physiques, commerciales et techniques. Malgré nos efforts, si nous avons connaissance d’une effraction dans notre sécurité, nous vous avertirons pour que vous puissiez adopter des mesures de protection adéquates.
 
-Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n’en avons plus besoin.Par conséquent nous ne les garderons que le temps nécessaire pour réaliser les actions pour lesquelles nous les avons collectées. Lorsque nous n’en avons plus besoin, nous les détruisons sauf si la loi exige que nous les conservions plus longtemps.
+Aussi, nous ne souhaitons pas conserver vos informations personnelles si nous n’en avons plus besoin. Par conséquent nous ne les garderons que le temps nécessaire pour réaliser les actions pour lesquelles nous les avons collectées. Lorsque nous n’en avons plus besoin, nous les détruisons sauf si la loi exige que nous les conservions plus longtemps.
 
 ## Que se passe-t-il si nous modifions cette politique ?
 

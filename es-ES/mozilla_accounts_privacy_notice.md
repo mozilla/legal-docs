@@ -25,7 +25,7 @@ Cuando usted se suscribe a servicios que requieren una suscripción de pago, su 
 
 También necesitamos procesar datos para mantener operativas las cuentas de Mozilla, mejorar las funciones y el rendimiento, e identificar, solucionar y diagnosticar problemas. Para hacerlo, usamos datos técnicos, de ubicación y de configuración, así como los datos de interacción y de rendimiento del sistema.
 
-Procesamos datos técnicos y de interacción para entender mejor de qué forma usted interactúa con nuestro servicios, como sus visitas al [sitio web de las cuentas de Mozilla](https://accounts.firefox.com/) o nuestras [páginas de soporte](https://support.mozilla.org/), preferencias de menú y panel, qué productos y servicios usted utiliza en relación con su cuenta de Mozilla (incluido su uso de Firefox, como la frecuencia con la que usa Firefox y cuándo sincronizó sus datos por última vez), qué dispositivos ha utilizado para interactuar con nosotros y sus interacciones con nuestras comunicaciones. Esto nos permite entender cómo las personas acceden y usan nuestros servicios, lo que ayuda a mejorar nuestro negocio y la funcionalidad de nuestros servicios.
+Procesamos datos técnicos y de interacción para entender mejor de qué forma usted interactúa con nuestros servicios, como sus visitas al [sitio web de las cuentas de Mozilla](https://accounts.firefox.com/) o nuestras [páginas de soporte](https://support.mozilla.org/), preferencias de menú y panel, qué productos y servicios usted utiliza en relación con su cuenta de Mozilla (incluido su uso de Firefox, como la frecuencia con la que usa Firefox y cuándo sincronizó sus datos por última vez), qué dispositivos ha utilizado para interactuar con nosotros y sus interacciones con nuestras comunicaciones. Esto nos permite entender cómo las personas acceden y usan nuestros servicios, lo que ayuda a mejorar nuestro negocio y la funcionalidad de nuestros servicios.
 
 Al usar los servicios conectados, sus datos serán tratados de acuerdo con el aviso de privacidad del servicio correspondiente:
 
@@ -43,7 +43,7 @@ La función de colecciones de Link de Firefox también requiere una cuenta. Si u
 
 ### Para proporcionar y mejorar la seguridad
 
-Mozilla utiliza datos técnicos y de interacción para ayudar a proteger el acceso a las cuentas de Mozilla, permitir la transferencia de datos cifrados para la sincronización y detectar actividades sospechosas. Mozilla también utiliza un firewall de aplicaciones web de terceros para mejorar la protección contra las aplicaciones web y los ataques [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack). Todos los datos guardados en los servidores de Mozilla está cifrado.
+Mozilla utiliza datos técnicos y de interacción para ayudar a proteger el acceso a las cuentas de Mozilla, permitir la transferencia de datos cifrados para la sincronización y detectar actividades sospechosas. Mozilla también utiliza un firewall de aplicaciones web de terceros para mejorar la protección contra las aplicaciones web y los ataques [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack). Todos los datos guardados en los servidores de Mozilla están cifrados.
 
 ### Para seudonimizar, desidentificar, agregar o anonimizar datos
 
@@ -104,7 +104,7 @@ Usted tiene derecho a:
 
 Para hacer cualquiera de las solicitudes anteriores con respecto a sus datos personales, por favor contáctenos (Mozilla Corporation) a través de nuestro [Portal de Solicitud de Acceso de Sujeto de Datos](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); nunca discriminaremos a nadie por ejercer sus derechos de privacidad. Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas en relación con la protección de la privacidad, envíe un correo electrónico a [compliance@mozilla.com](mailto:compliance@mozilla.com).
 
-Si usted se encuentra en el Reino Unido o en el EEE, también puede ponerse en contacto con nuestro responsable de la protección de datos en [dpo@mozilla.com](mailto:dpo@mozilla.com), o por correo electrónico a:
+Si usted se encuentra en el Reino Unido o en el EEE, también puede ponerse en contacto con nuestro responsable de la protección de datos en [dpo@mozilla.com](mailto:dpo@mozilla.com), o por correo postal a:
 
 Bird & Bird DPO Services SRL<br>
 Avenue Louise 235 b 1<br>
@@ -115,7 +115,7 @@ Respondemos a todas las solicitudes que recibimos de personas que desean ejercer
 
 ### Sus opciones
 
-Usted puede actualizar los [ajustes de su cuenta de Mozilla ](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) en cualquier momento.
+Usted puede actualizar los [ajustes de su cuenta de Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) en cualquier momento.
 
 ## Cambios
 
@@ -178,7 +178,7 @@ Es posible que tengamos que cambiar esta política y nuestros avisos, en cuyo ca
       </td>
       <td>
         <p><strong>Contrato</strong> para garantizar que las cuentas de Mozilla sigan funcionando.</p>
-        <p><strong>Interés legítimo</strong>en entender cómo se usan las cuentas de Mozilla (y los servicios conectados) y mejorar el rendimiento, las características y la estabilidad.</p>
+        <p><strong>Interés legítimo</strong> en entender cómo se usan las cuentas de Mozilla (y los servicios conectados) y mejorar el rendimiento, las características y la estabilidad.</p>
       </td>
     </tr>
     <tr>
