@@ -98,7 +98,7 @@ Selain proses standar ini, kami menggunakan [Layanan Penjelajahan Aman Google](h
 
 Untuk [beberapa pengguna Firefox](https://support.mozilla.org/kb/firefox-dns-over-https), Firefox merutekan permintaan DNS ke layanan resolver yang [telah menyetujui standar privasi Mozilla yang ketat untuk resolver](https://wiki.mozilla.org/Security/DOH-resolver-policy). Proses ini memberikan perlindungan tambahan dari kebocoran privasi ke jaringan lokal dan juga dari serangan keamanan DNS tertentu. Log sistem permintaan DNS dihapus dari layanan dalam waktu 24 jam dan hanya digunakan untuk tujuan resolusi DNS. [Pelajari selengkapnya](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) tentang DNS melalui HTTPS.
 
-*Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* [Daftar blokir pengaya dan peningkatan](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Layanan Penjelajahan Aman Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work),[ OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
+*Detail lebih lanjut, termasuk cara menyesuaikan pengaturan data Anda:* [Daftar blokir pengaya dan peningkatan](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Layanan Penjelajahan Aman Google](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
 
 ### Untuk memahami penggunaan Firefox
 
@@ -114,7 +114,7 @@ Ketika Anda mengizinkan kami melakukannya, Firefox mengirimkan data Mozilla tent
 
 ### Untuk membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim
 
-Sebagai bagian dari aktivitas yang diuraikan di atas, seperti memahami penggunaan Firefox dan mengukur pemasaran kami, kami dapat membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim. Kami menggunakan teknologi yang sesuai dengan keadaan, termasuk penghapusan pengindentifikasi, OHTTP, atau [DAP](https://divviup.org/about/) — hal ini membantu mencegah data ditautkan ke Anda. Dalam beberapa kasus, kami mungkin membagikan atau menerbitkan data agregat dan anonim untuk memfasilitasi penelitian atau sebagai bagian dari tujuan bisnis sah yang diuraikan di atas (seperti membagikan wawasan agregat kepada mitra periklanan).
+Sebagai bagian dari aktivitas yang diuraikan di atas, seperti memahami penggunaan Firefox dan mengukur pemasaran kami, kami dapat membuat data dengan nama samaran, tanpa identitas, agregat, atau anonim. Kami menggunakan teknologi yang sesuai dengan keadaan, termasuk penghapusan pengidentifikasi, OHTTP, atau [DAP](https://divviup.org/about/) — hal ini membantu mencegah data ditautkan ke Anda. Dalam beberapa kasus, kami mungkin membagikan atau menerbitkan data agregat dan anonim untuk memfasilitasi penelitian atau sebagai bagian dari tujuan bisnis sah yang diuraikan di atas (seperti membagikan wawasan agregat kepada mitra periklanan).
 
 ### Untuk berkomunikasi dengan Anda
 
@@ -189,7 +189,7 @@ Firefox juga menyediakan [Kontrol Privasi Global](https://support.mozilla.org/kb
 
 Pemberitahuan Privasi ini ditujukan untuk Firefox versi rilis umum terbaru yang didistribusikan oleh Mozilla. Jika Anda mendapatkan Firefox dari pihak lain, atau menjalankan versi lawas, salinan Firefox Anda mungkin memuat karakteristik privasi yang berbeda.
 
-Firefox versi pra-rilis Mozilla (yang didistribusikan melalui saluran seperti Nightly, Beta, Developer Edition, dan TestFlight) merupakan platform pengembangan yang sering diperbarui dengan fitur dan kajian eksperimental. Selain pengumpulan data yang dijelaskan dalam Pemberitahuan Privasi ini, secara baku versi ini mungkin mengirimkan jenis aktivitas web dan data kerusakan tertentu kepada Mozilla dan di beberapa kasus kepada mitra kami).
+Firefox versi pra-rilis Mozilla (yang didistribusikan melalui saluran seperti Nightly, Beta, Developer Edition, dan TestFlight) merupakan platform pengembangan yang sering diperbarui dengan fitur dan kajian eksperimental. Selain pengumpulan data yang dijelaskan dalam Pemberitahuan Privasi ini, secara baku versi ini mungkin mengirimkan jenis aktivitas web dan data kerusakan tertentu kepada Mozilla (dan di beberapa kasus kepada mitra kami).
 
 ## Perubahan
 
@@ -359,7 +359,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang pembaruan
                     <li>Data pengaturan</li>
                     <li>Pengidentifikasi unik</li>
                     <li>Data kinerja sistem</li>
-                    <li>Menjelajahi data (hanya untuk DNS melalui HTTP)</li>
+                    <li>Data penjelajahan (hanya untuk DNS melalui HTTPS)</li>
                 </ul>
             </td>
             <td>

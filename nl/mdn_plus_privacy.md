@@ -19,7 +19,7 @@ __MDN Plus-accountinformatie.__ Wanneer u de MDN Plus-functies gebruikt, ontvang
 
 __Locatie-information.__ MDN Plus ontvangt uw IP-adres wanneer u zich registreert voor de service en wanneer u deze gebruikt. We gebruiken het IP-adres om uw locatie bij benadering te bepalen omdat MDN Plus momenteel alleen in bepaalde landen beschikbaar is.
 
-__Betalingsinformatie.__ Wanneer u zich abonneert op MDN Plus, doet u een betaling via een van onze externe betalingsproviders: Stripe, Apple, PayPal, or Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
+__Betalingsinformatie.__ Wanneer u zich abonneert op MDN Plus, doet u een betaling via een van onze externe betalingsproviders: Stripe, Apple, PayPal of Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
 
 __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interactie met MDN Plus, waaronder gegevens over wanneer u zich aanmeldt en wanneer u wijzigingen aanbrengt in uw Mozilla-account, zoals het wijzigen van uw e-mailadres of productabonnementen.
 

@@ -44,7 +44,7 @@ __Lemondás.__ Az MDN Plus-előfizetést bármikor lemondhatja. Ezt megteheti, h
 
 * Biztosítja a Mozillát, hogy nem használja a Szolgáltatást mások jogainak vagy a jogszabályok megsértésére.
 
-* A vonatkozó jogszabályok által megengedett mértékig Ön elfogadja, hogy a Mozilla semmilyen módon nem vállal felelősséget a Szolgáltatás használatának elérhetetlenségért, a Szolgáltatás korlátozásáért vagy a jelen Feltételekből eredő bármely követelésért. A Mozilla kifejezetten elzárkózik a következőktől: közvetett, különleges, véletlen, következményes vagy példaértékű károk, közvetlen vagy közvetett károk cégértékcsökkenés, munkabeszüntetés, elmaradt haszon, adatvesztés vagy számítógép-meghibásodás miatt. A Mozilla felelőssége a jelen megállapodás értelmében 500 USD-re korlátozódik.
+* A vonatkozó jogszabályok által megengedett mértékig Ön elfogadja, hogy a Mozilla semmilyen módon nem vállal felelősséget a Szolgáltatás használatának elérhetetlenségéért, a Szolgáltatás korlátozásáért vagy a jelen Feltételekből eredő bármely követelésért. A Mozilla kifejezetten elzárkózik a következőktől: közvetett, különleges, véletlen, következményes vagy példaértékű károk, közvetlen vagy közvetett károk cégértékcsökkenés, munkabeszüntetés, elmaradt haszon, adatvesztés vagy számítógép-meghibásodás miatt. A Mozilla felelőssége a jelen megállapodás értelmében 500 USD-re korlátozódik.
 
 * Ön beleegyezik abba, hogy a vonatkozó jogszabályok által megengedett mértékig kártalanítja és mentesíti a Mozillát minden olyan felelősségért vagy követelésért, amely az MDN Plus használatából ered.
 

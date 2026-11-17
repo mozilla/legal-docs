@@ -26,7 +26,7 @@ Mozilla acquisisce dati sull’utente:
 
 Quando l’utente fornisce a Mozilla dati personali, essi vengono utilizzati nei modi per i quali l’utente ha espresso il proprio consenso. In generale, Mozilla utilizza i dati dell’utente per fornire e migliorare i propri prodotti e servizi.
 
-Per utenti di Unione Europea, Area Economica Europea e California: ulteriori informazioni sono disponibili [qui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
+Per utenti di Unione Europea, Area Economica Europea, Svizzera e California: ulteriori informazioni sono disponibili [qui](https://support.mozilla.org/kb/information-eu-eea-and-swiss-users).
 
 ## In quali casi Mozilla condivide con altri le informazioni dell’utente?
 

@@ -68,7 +68,7 @@ Anda memberi Mozilla dan Twilio semua hak yang diperlukan untuk mengoperasikan F
 
 Kami menyimpan log nomor telepon yang sudah Anda hubungi melalui Relay untuk menampilkan log telepon dan SMS Anda, mengirimkan balasan SMS, dan memblokir nomor telepon. Mozilla telah mengatur layanan Twilio untuk menghapus catatan pesan SMS yang Anda kirim dan terima melalui Firefox Relay setelah 7 hari. Kami tidak memantau atau menyimpan konten panggilan telepon yang Anda lakukan melalui Firefox Relay.
 
-Kami tidak membaca atau menyimpan konten pesan email Anda selama lebih dari yang diperlukan untuk mengirimkannya kepada Anda. Jika Anda menggunakan fitur ini untuk memblokir email promosi, Layanan ini akam memeriksa header email untuk menentukan apakah email tersebut harus diblokir.
+Kami tidak membaca atau menyimpan konten pesan email Anda selama lebih dari yang diperlukan untuk mengirimkannya kepada Anda. Jika Anda menggunakan fitur ini untuk memblokir email promosi, Layanan ini akan memeriksa header email untuk menentukan apakah email tersebut harus diblokir.
 
 __Batas dan Penyesuaian.__ Dengan layanan gratis, Anda dapat membuat hingga 50 penyamaran email acak dan nol penyamaran nomor telepon. Dengan langganan berbayar, Anda dapat membuat satu penyamaran nomor telepon, penyamaran email tak terbatas, dan Anda memiliki opsi untuk membuat subdomain khusus untuk penyamaran email Anda.
 

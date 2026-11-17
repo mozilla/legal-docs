@@ -126,7 +126,7 @@ Lorsque vous consultez les pages d'aide de Mozilla relatives à Firefox, Mozilla
 
 Nous pouvons également être amenés à traiter vos données à caractère personnel pour nous conformer aux lois en vigueur et à des fins de protection, par exemple :
 
-*Répondre à des demandes légales et se conformer à des [procédures légales](https://www.mozilla.org/about/policy/transparency/), telles que répondre à des citations à comparaître, des enquêtes ou des demandes émanant d'autorités gouvernementales. Mozilla a besoin d'une procédure juridique valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement.
+* Répondre à des demandes légales et se conformer à des [procédures légales](https://www.mozilla.org/about/policy/transparency/), telles que répondre à des citations à comparaître, des enquêtes ou des demandes émanant d'autorités gouvernementales. Mozilla a besoin d'une procédure juridique valide pour exiger la divulgation de données d'utilisateurs spécifiques à un gouvernement.
 * Répondre aux demandes d'exercice des droits à la vie privée, tels que votre droit d'accès ou de suppression de vos données personnelles.
 * Identifier, enquêter et traiter les activités frauduleuses potentielles, ou d'autres activités nuisibles telles que les activités illégales, les cyberattaques ou la violation de la propriété intellectuelle (y compris le dépôt ou la défense de réclamations légales).
 * Mener des activités internes de conformité et de sécurité, telles que des audits et la gestion de la sécurité de l'entreprise.

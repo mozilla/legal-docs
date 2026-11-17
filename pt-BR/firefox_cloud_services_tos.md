@@ -59,9 +59,10 @@ Esta seção resume os termos abaixo. Este resumo pretende ajudá-lo a compreend
     Você pode alterar suas inscrições de e-mail com a Mozilla diretamente em nossos e-mails (clique no link na parte inferior) ou pelo navegador (no Firefox, acesse: Preferências > Sync > Gerenciar conta > Preferências de e-mail).
     
     Também podemos enviar informações importantes sobre sua conta, como atualizações dos termos legais ou de privacidade ou mensagens de segurança, como redefinição de senha, confirmação de e-mail e dispositivos vinculados. Elas são necessárias para nossos serviços e não podem ser canceladas. 
-Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 ou pelo e-mail legal-notices@mozilla.com_ 
 
-Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.
+    Entre em contato com a Mozilla pelo endereço _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 ou pelo e-mail legal-notices@mozilla.com_ 
+
+    Não aceitamos solicitações de informações de órgãos governamentais no endereço acima. Consulte nossa [página de transparência](https://www.mozilla.org/about/policy/transparency/) para saber como enviar esse tipo de solicitação.
 
 6. #### Seu conteúdo em nossos Serviços
 
