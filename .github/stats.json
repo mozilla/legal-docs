@@ -172,14 +172,17 @@
     ]
   },
   "firefox_terms_of_use.md": {
-    "count": 13,
+    "count": 18,
     "has_source": true,
     "last_update": "2026-09-16",
     "link": "https://github.com/mozilla/legal-docs/tree/main/en/firefox_terms_of_use.md",
     "locales": [
+      "ar",
       "cs",
       "de",
+      "el",
       "es-ES",
+      "fi",
       "fr",
       "hu",
       "id",
@@ -189,7 +192,9 @@
       "pl",
       "pt-BR",
       "ru",
-      "zh-CN"
+      "tr",
+      "zh-CN",
+      "zh-TW"
     ]
   },
   "focus_privacy_notice.md": {

@@ -11,7 +11,7 @@ List of translated files (number of locales between parentheses):
 * firefox_cloud_services_tos.md (12)
 * firefox_privacy_notice.md (18)
 * firefox_privacy_notice_preview.md (13)
-* firefox_terms_of_use.md (13)
+* firefox_terms_of_use.md (18)
 * focus_privacy_notice.md (13)
 * focus_terms_of_use.md (18)
 * mdn_plus_privacy.md (14)
