@@ -26,7 +26,7 @@ Yürürlük Tarihi: 16 Eylül 2026
     
     (b) Firefox Relay, birincil e-posta adresinizi açıklamadan e-posta gönderip almanıza olanak tanıyan benzersiz, takma ad e-posta adresleri oluşturarak birincil e-posta adresinizi çevrimiçi hizmetlerden güvenli ve gizli tutmanıza olanak tanır. Bir Mozilla hesabı gereklidir.
     
-    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitenizdeki e-posta adreslerini tarayabilirsiniz. Bir Mozilla hesabı ile kayıt yaptırırsanız aşağıdakileri alırsınız: 
+    (c) Firefox Monitor, herkese açık veri ihlalleri konusunda sizi bilgilendirerek çevrimiçi güvenliği güçlendiren bir bilgilendirme hizmetidir. En bilinen herkese açık veri ihlallerini görüntülemek için web sitemizdeki e-posta adreslerini tarayabilirsiniz. Bir Mozilla hesabı ile kayıt yaptırırsanız aşağıdakileri alırsınız: 
 
     * Tam Rapor: Bu rapor, çocuklar için hassas olan siteler veya yetişkin siteleri ve arkadaş bulma siteleri gibi hassas web sitelerinin ihlalleri de dahil olmak üzere, herkese açık saldırıların tam bir listesini içerir (bu tür siteler, söz konusu bireylerin gizliliğini korumak için web sitesi taramalarına dahil edilmez). 
     * İhlal Uyarıları: E-posta adresinizin yeni bir veri ihlalinde görüntülenmesi durumunda sizi bilgilendirir. 
@@ -36,7 +36,7 @@ Yürürlük Tarihi: 16 Eylül 2026
 
     (d) Firefox Notes, Firefox’ta notlar oluşturabilmenizi sağlar. Cihazlarınızdaki notlarınızı görüntülemek, düzenlemek ve silmek için bir Mozilla hesabı gereklidir. 
 
-    (e) Firefox sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tarihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox sync’i Firefox’un Ayarlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Bir Mozilla hesabı gereklidir. 
+    (e) Firefox sync; sekmeler, muhteşem çubuk, şifreler, yer imleri ve tarayıcı tercihleri dahil olmak üzere cihazlar genelinde Firefox’ta saklanan bilgilere erişmenize izin verir. Firefox sync’i Firefox’un Ayarlar bölümünden etkinleştirebilir ve devre dışı bırakabilirsiniz. Bir Mozilla hesabı gereklidir. 
     
     (f) Pocket, ilgi alanlarınıza göre kişiselleştirilmiş harika içeriği keşfetmenize ve bu içeriği daha sonra herhangi bir cihazda, istediğiniz zaman geri dönebilmeniz için kaydetmenize yardımcı olur. 
 
@@ -59,13 +59,14 @@ Yürürlük Tarihi: 16 Eylül 2026
     Mozilla ile e-posta aboneliklerinizi e-postalarımızdan (alttaki bağlantıyı tıklayın) veya tarayıcıdan (Firefox / Tercihler / Sync / Hesabı yönet / E-posta Tercihleri sayfasını ziyaret edin) değiştirebilirsiniz.
     
     Ayrıca yasal koşullar veya gizlilik koşullarına ilişkin güncellemeler veya şifre sıfırlama ve e-posta doğrulaması gibi mesajlar ile bağlantılı cihazlara yönelik önemli hesap bilgilerini de size gönderebiliriz. Bu bilgiler, hizmetlerimiz için gereklidir ve bunları almayı bırakmak mümkün değildir. 
-Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 veya legal-notices@mozilla.com_ 
 
-Lütfen yukarıdaki adreste devlet kurumlarından bilgi taleplerini kabul etmediğimizi unutmayın. Söz konusu taleplerin nasıl gönderileceği hakkında bilgi almak için [Şeffaflık Sayfamıza](https://www.mozilla.org/about/policy/transparency/) bakın.
+    Mozilla ile şu adres üzerinden iletişime geçebilirsiniz: _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 veya legal-notices@mozilla.com_ 
+
+    Lütfen yukarıdaki adreste devlet kurumlarından bilgi taleplerini kabul etmediğimizi unutmayın. Söz konusu taleplerin nasıl gönderileceği hakkında bilgi almak için [Şeffaflık Sayfamıza](https://www.mozilla.org/about/policy/transparency/) bakın.
 
 6. #### Hizmetlerimizde Yer Alan İçerikleriniz
 
-    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için](https://www.mozilla.org/about/legal/report-infringement/)buraya bakın. 
+    Hizmetler’in özellikleri kapsamında Mozilla’ya içerik yükleyebilirsiniz. İçerik yükleyerek, Hizmetler’in sunulmasıyla içeriklerinizi kullanmamız için tarafımıza özel olmayan, telifsiz ve dünya genelinde geçerli bir lisans vermiş olursunuz. İçeriklerinizin herhangi bir üçüncü tarafın haklarını ihlal etmeyeceğini ve Mozilla tarafından sunulan her türlü içerik ilkesine uygun olacağını beyan ve tekeffül edersiniz. [Telif hakkı veya ticari marka ihlaline ilişkin hak taleplerini bildirmek için](https://www.mozilla.org/about/legal/report-infringement/) buraya bakın. 
 
 7. #### Mozilla'nın Mülkiyet Hakları
 
@@ -85,9 +86,9 @@ Lütfen yukarıdaki adreste devlet kurumlarından bilgi taleplerini kabul etmedi
 
 10. #### Sorumluluk Reddi; Sorumluluğun Sınırlandırılması
 
-    HİZMETLERİ, TÜM KUSURLARIYLA BİRLİKTE “OLDUĞU GİBİ” SUNULUR. MOZİLLA VE TAZMİN EDİLEN TARAFLAR; YASALAR TARAFINDAN İZİN VERİLDİĞİ SÜRECE, BUNLARLA SINIRLI OLMAMAK KAYDIYLA HİZMETLERİN KUSURSUZ OLMASI, TİCARİ DEĞERİNİN OLMASI, BELİRLİ BİR AMACI UYGUN OLMASI VE İHLAL EDİCİ NİTELİKTE OLMAMASINA İLİŞKİN GARANTİLER DE DAHİL OLMAK ÜZERE, TÜM GARANTİLERİ AÇIKÇA VEYA İMA YOLUYLA REDDEDER. BUNLARLA SINIRLI OLMAMAK KAYDIYLA İÇERİKLERİNİZİN SİLİNMESİ VEYA BOZULMASI YA DA BAŞKA BİRİNİN ÇEVRİMİÇİ HESAPLARINIZA ERİŞMESİ DAHİL OLMAK ÜZERE, HİZMETLERİ AMAÇLARINIZ DOĞRULTUSUNDA SEÇME VE HİZMETLERİN KALİTESİ VE PERFORMANSI KONUSUNDAKİ TÜM RİSKLERİ KENDİNİZ ÜSTLENİRSİNİZ. İŞBU SINIRLAMA, HERHANGİ BİR YASAL YOLUN ESAS AMACININ BAŞARISIZ OLMASINA BAĞLI OLMAKSIZIN GEÇERLİ OLACAKTIR. BAZI YARGI YETKİLERİ, İMA EDİLEN GARANTİLERİN HARİÇ TUTULMASINA VEYA SINIRLANDIRILMASINA İZİN VERMEMEKTEDİR; BU NEDENLE İŞBU SORUMLULUK REDDİ, SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
+    HİZMETLERİ, TÜM KUSURLARIYLA BİRLİKTE “OLDUĞU GİBİ” SUNULUR. MOZILLA VE TAZMİN EDİLEN TARAFLAR; YASALAR TARAFINDAN İZİN VERİLDİĞİ SÜRECE, BUNLARLA SINIRLI OLMAMAK KAYDIYLA HİZMETLERİN KUSURSUZ OLMASI, TİCARİ DEĞERİNİN OLMASI, BELİRLİ BİR AMACI UYGUN OLMASI VE İHLAL EDİCİ NİTELİKTE OLMAMASINA İLİŞKİN GARANTİLER DE DAHİL OLMAK ÜZERE, TÜM GARANTİLERİ AÇIKÇA VEYA İMA YOLUYLA REDDEDER. BUNLARLA SINIRLI OLMAMAK KAYDIYLA İÇERİKLERİNİZİN SİLİNMESİ VEYA BOZULMASI YA DA BAŞKA BİRİNİN ÇEVRİMİÇİ HESAPLARINIZA ERİŞMESİ DAHİL OLMAK ÜZERE, HİZMETLERİ AMAÇLARINIZ DOĞRULTUSUNDA SEÇME VE HİZMETLERİN KALİTESİ VE PERFORMANSI KONUSUNDAKİ TÜM RİSKLERİ KENDİNİZ ÜSTLENİRSİNİZ. İŞBU SINIRLAMA, HERHANGİ BİR YASAL YOLUN ESAS AMACININ BAŞARISIZ OLMASINA BAĞLI OLMAKSIZIN GEÇERLİ OLACAKTIR. BAZI YARGI YETKİLERİ, İMA EDİLEN GARANTİLERİN HARİÇ TUTULMASINA VEYA SINIRLANDIRILMASINA İZİN VERMEMEKTEDİR; BU NEDENLE İŞBU SORUMLULUK REDDİ, SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
 
-    MOZILLA VE TAZMİN EDİLEN TARAFLAR, YASA UYARINCA GEREKEN DURUMLAR DIŞINDA; BUNLARLA SINIRLI OLMAMAK KAYDIYLA İTİBAR KAYBINDAN KAYNAKLANAN DOĞRUDAN VE DOLAYLI ZARARLAR, GREV, KÂR KAYIPLARI, VERİ KAYIPLARI, BİLGİSAYAR ARIZALARI VEYA BOZULMASI DA DAHİL OLMAK ÜZERE, SÖZ KONUSU ZARARLARIN GERÇEKLEŞEBİLECEĞİ KONUSUNDA ÖNERİDE BULUNULMUŞ OLMASINA VE SÖZ KONUSU İDDİANIN DAYANAĞI OLAN TEORİYE (SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA DURUMLAR) BAKILMAKSIZIN İŞBU KOŞULLARDAN YA DA HİZMETLERİ KULLANMAKTAN VEYA KULLANAMAMAKTAN KAYNAKLANAN VEYA BUNLARLA HERHANGİ BİR ŞEKİLDE İLİŞKİLİ OLAN HİÇBİR DOLAYLI, ÖZEL, RASTLANTISAL, SONUÇSAL VEYA ÖRNEK LİTELİĞİNDEKİ HASARLAR HUSUSUNDA SORUMLU OLMAYACAKTIR. MOZILLA VE TAZMİN EDİLEN TARAFLARIN İŞBU ANLAŞMA ALTINDAKİ MÜŞTEREK SORUMLULUĞU, 500 DOLARI (BEŞ YÜZ DOLAR) AŞMAYACAKTIR. BAZI YARGI YETKİLERİ, DOLAYLI, RASTLANTISAL, SONUÇSAL VEYA ÖZEL HARİÇ TUTULMASINA VEYA SINIRLANDIRILMASINA İZİN VERMEMEKTEDİR; BU NEDENLE İŞBU HARİÇ TUTMA VE SINIRLANDIRMA, SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
+    MOZILLA VE TAZMİN EDİLEN TARAFLAR, YASA UYARINCA GEREKEN DURUMLAR DIŞINDA; BUNLARLA SINIRLI OLMAMAK KAYDIYLA İTİBAR KAYBINDAN KAYNAKLANAN DOĞRUDAN VE DOLAYLI ZARARLAR, GREV, KÂR KAYIPLARI, VERİ KAYIPLARI, BİLGİSAYAR ARIZALARI VEYA BOZULMASI DA DAHİL OLMAK ÜZERE, SÖZ KONUSU ZARARLARIN GERÇEKLEŞEBİLECEĞİ KONUSUNDA ÖNERİDE BULUNULMUŞ OLMASINA VE SÖZ KONUSU İDDİANIN DAYANAĞI OLAN TEORİYE (SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA DURUMLAR) BAKILMAKSIZIN İŞBU KOŞULLARDAN YA DA HİZMETLERİ KULLANMAKTAN VEYA KULLANAMAMAKTAN KAYNAKLANAN VEYA BUNLARLA HERHANGİ BİR ŞEKİLDE İLİŞKİLİ OLAN HİÇBİR DOLAYLI, ÖZEL, RASTLANTISAL, SONUÇSAL VEYA ÖRNEK NİTELİĞİNDEKİ HASARLAR HUSUSUNDA SORUMLU OLMAYACAKTIR. MOZILLA VE TAZMİN EDİLEN TARAFLARIN İŞBU ANLAŞMA ALTINDAKİ MÜŞTEREK SORUMLULUĞU, 500 DOLARI (BEŞ YÜZ DOLAR) AŞMAYACAKTIR. BAZI YARGI YETKİLERİ, DOLAYLI, RASTLANTISAL, SONUÇSAL VEYA ÖZEL ZARARLARIN HARİÇ TUTULMASINA VEYA SINIRLANDIRILMASINA İZİN VERMEMEKTEDİR; BU NEDENLE İŞBU HARİÇ TUTMA VE SINIRLANDIRMA, SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
 
 11. #### Bu Koşullara Yönelik Değişiklikler
 

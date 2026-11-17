@@ -56,11 +56,13 @@
 
     我们会定期发送消息，帮助您发挥 Mozilla 帐户的最大价值。您可能会在产品中收到这些消息，也可能发送至注册地址；其中包括入门指导、各种不同的 Mozilla 帐户服务，以及相关优惠和调查。也可以选择接收其他类型的电子邮件。
     
+    您可以通过我们的电子邮件（点击底部的链接）或浏览器（访问 Firefox / 设置 / 同步 / 管理帐户 / 电子邮件偏好设置）更改您在 Mozilla 的电子邮件订阅。
+    
     另外，我们还可能会向您发送一些重要的帐户信息，如法律或隐私条款更新，或者密码重置、电子邮件验证和链接设备等安全消息。这些信息是我们服务的必要组成部分，无法取消订阅。
     
-您可以写信至 _Mozilla 企业收件人与 Mozilla 联系：Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 或者，发送电子邮件至：legal-notices@mozilla.com_
+    您可以写信至 _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 或者，发送电子邮件至：legal-notices@mozilla.com_
 
-请注意，我方不接受政府机构通过上述地址提交的信息调取申请。有关此类申请的提交方式，请详见我们的[透明度页面](https://www.mozilla.org/about/policy/transparency/)。
+    请注意，我方不接受政府机构通过上述地址提交的信息调取申请。有关此类申请的提交方式，请详见我们的[透明度页面](https://www.mozilla.org/about/policy/transparency/)。
 
 6. #### Services 中您的内容
 

@@ -3,7 +3,7 @@
 Ostatnia aktualizacja: 10 sierpnia 2026
 {: datetime="2026-08-10" }
 
-## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego
+## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego internetu
 
 Dlatego właśnie tworzymy nasze produkty i usługi, aby zapewnić użytkownikom większą kontrolę nad informacjami, które udostępniają online, oraz informacjami, które są nam udostępniane. W niniejszej Zasadach prywatności wyjaśniamy, jakie dane przetwarzamy, w jaki sposób je przetwarzamy i w jakich celach. Następnie wyjaśniamy, w jaki sposób użytkownik może dokonać wyboru sposobu przetwarzania przez nas jego danych.
 
@@ -19,11 +19,11 @@ Po włączeniu synchronizacji Mozilla otrzymuje informacje synchronizowane międ
 
 Kiedy użytkownik rozpocznie subskrypcję usług wymagających płatnej subskrypcji, jego płatność będzie przetwarzana zgodnie z [Zasadami prywatności usług subskrypcji Mozilla](https://www.mozilla.org/privacy/subscription-services/). Mozilla otrzymuje dane dotyczące konta użytkownika (w tym jego adres rozliczeniowy i cztery ostatnie cyfry metody płatności) oraz status subskrypcji konta. Mozilla nie przechowuje pełnych danych dotyczących płatności.
 
-Więcej szczegółów, w tym sposób dostosowania ustawień danych:* Możesz dowiedzieć się więcej, [jak zarządzać swoim kontem Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [jak włączyć synchronizację](https://support.mozilla.org/kb/sync-firefox-desktop) lub [jak działa synchronizacja](https://support.mozilla.org/kb/sync), a także uzyskać więcej informacji na temat [danych](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts), które gromadzimy w związku z kontami.
+*Więcej szczegółów, w tym sposób dostosowania ustawień danych:* Możesz dowiedzieć się więcej, [jak zarządzać swoim kontem Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [jak włączyć synchronizację](https://support.mozilla.org/kb/sync-firefox-desktop) lub [jak działa synchronizacja](https://support.mozilla.org/kb/sync), a także uzyskać więcej informacji na temat [danych](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts), które gromadzimy w związku z kontami.
 
 ### Aby udostępniać i ulepszać konta Mozilla i powiązane usługi
 
-Musimy również przetwarzać dane, aby utrzymać działanie przeglądarki kont Mozilla, ulepszać funkcje i wydajność oraz identyfikować, rozwiązywać i diagnozować problemy. W tym celu wykorzystujemy dane techniczne, dane o lokalizacji i ustawieniach, a także dane dotyczące interakcji i wydajności systemu.
+Musimy również przetwarzać dane, aby utrzymać działanie kont Mozilla, ulepszać funkcje i wydajność oraz identyfikować, rozwiązywać i diagnozować problemy. W tym celu wykorzystujemy dane techniczne, dane o lokalizacji i ustawieniach, a także dane dotyczące interakcji i wydajności systemu.
 
 Przetwarzamy dane techniczne i dane dotyczące interakcji, aby lepiej zrozumieć, w jaki sposób użytkownik korzysta z naszych usług, np. odwiedziny w [witrynie kont Mozilla](https://accounts.firefox.com/) lub na naszych [stronach pomocy](https://support.mozilla.org/), preferencje dotyczące paneli i menu, produkty, usługi i funkcje, z których użytkownik korzysta w związku z kontem Mozilla (w tym korzystanie z przeglądarki Firefox, np. częstotliwość korzystania z przeglądarki Firefox i data ostatniej synchronizacji danych), urządzenia, z których użytkownik korzysta, aby nawiązać kontakt z nami, oraz interakcje użytkownika z naszą komunikacją. Pozwala nam to zrozumieć, w jaki sposób użytkownicy uzyskują dostęp do naszych usług i z nich korzystają, co pomaga nam ulepszać naszą działalność i funkcjonalność naszych usług.
 
@@ -35,7 +35,7 @@ Podczas korzystania z powiązanych usług dane użytkownika będą przetwarzane 
 
 Jeśli usługa powiązana z kontem Mozilla napotka nieoczekiwany problem (na przykład awarię), korzystamy z usług zewnętrznego dostawcy w celu zebrania danych technicznych i danych dotyczących interakcji, takich jak komunikaty o błędach, informacje o urządzeniu i stanie aplikacji w momencie awarii, aby pomóc nam zdiagnozować i naprawić problemy w naszych usługach.
 
-Więcej szczegółów, w tym sposób dostosowania ustawień danych:* [Ustawienia gromadzenia danych dotyczących kont Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) można zmienić w dowolnym momencie. Należy zapoznać się z odpowiednią informacją dotyczącą ustawień danych w odniesieniu do wszelkich powiązanych usług.
+*Więcej szczegółów, w tym sposób dostosowania ustawień danych:* [Ustawienia gromadzenia danych dotyczących kont Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) można zmienić w dowolnym momencie. Należy zapoznać się z odpowiednią informacją dotyczącą ustawień danych w odniesieniu do wszelkich powiązanych usług.
 
 ### W celu obsługi kolekcji kart Firefox
 
@@ -76,7 +76,7 @@ Aby świadczyć nasze usługi opisane powyżej, możemy ujawniać dane osobowe:
 
 ## Międzynarodowe transfery danych
 
-Firma Mozilla Corporation (i jej serwery) ma siedzibę w Stanach Zjednoczonych. Ponieważ jesteśmy firmą globalną, w celu świadczenia usług określonych w niniejszej Informacji o ochronie prywatności, gromadzone przez nas informacje mogą być dostępne z lokalizacji, w których znajdują się nasi pracownicy, a także mogą być przekazywane do innych jurysdykcji w wyniku naszym partnerom. Za każdym razem, gdy dane są przekazywane za granicę, zapewniamy, że posiadamy odpowiednie mechanizmy (takie jak [standardowe klauzule umowne](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) zatwierdzone przez Komisję Europejską i inne odpowiednie organy) w celu ochrony danych osobowych użytkownika. Użytkownik może skontaktować się pod adresem [dpo@mozilla.com](mailto:dpo@mozilla.com) w celu uzyskania informacji na temat zabezpieczeń wdrożonych w odniesieniu do międzynarodowych transferów danych lub kopii odpowiednich standardowych klauzul umownych.
+Firma Mozilla Corporation (i jej serwery) ma siedzibę w Stanach Zjednoczonych. Ponieważ jesteśmy firmą globalną, w celu świadczenia usług określonych w niniejszej Informacji o ochronie prywatności, gromadzone przez nas informacje mogą być dostępne z lokalizacji, w których znajdują się nasi pracownicy, a także mogą być przekazywane do innych jurysdykcji w wyniku udostępniania danych naszym partnerom. Za każdym razem, gdy dane są przekazywane za granicę, zapewniamy, że posiadamy odpowiednie mechanizmy (takie jak [standardowe klauzule umowne](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) zatwierdzone przez Komisję Europejską i inne odpowiednie organy) w celu ochrony danych osobowych użytkownika. Użytkownik może skontaktować się pod adresem [dpo@mozilla.com](mailto:dpo@mozilla.com) w celu uzyskania informacji na temat zabezpieczeń wdrożonych w odniesieniu do międzynarodowych transferów danych lub kopii odpowiednich standardowych klauzul umownych.
 
 ## Jak długo przechowywane są dane użytkownika
 
@@ -99,7 +99,7 @@ Użytkownik ma prawo do:
 3. Żądania przeniesienia danych
 4. Żądania korekty wszelkich przechowywanych przez nas danych, które są niedokładne lub niekompletne
 5. Usunięcia przechowywanych przez nas danych osobowych użytkownika (w określonych okolicznościach)
-6. Usunięcia przechowywanych przez nas danych osobowych użytkownika (w określonych okolicznościach)
+6. Ograniczenia lub sprzeciwu wobec sposobu, w jaki wykorzystujemy dane osobowe użytkownika (w niektórych przypadkach)
 7. Złożenia skargi do odpowiedniego organu ochrony danych, jeśli użytkownik ma obawy dotyczące sposobu, w jaki postępujemy z jego danymi osobowymi. Wolimy, aby użytkownik najpierw skontaktował się z nami (na adres [dpo@mozilla.com](mailto:dpo@mozilla.com)), ale może również skontaktować się z odpowiednim [organem ochrony danych w UE](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en) lub wyszukać (i skontaktować się) z lokalnym organem ochrony danych
 
 Aby złożyć którykolwiek z powyższych wniosków dotyczących danych osobowych, należy skontaktować się z nami (Mozilla Corporation) za pośrednictwem naszego [Portalu wniosków o dostęp do danych](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); nigdy nie będziemy dyskryminować nikogo za korzystanie z jego praw do prywatności. W razie jakichkolwiek innych pytań dotyczących danych osobowych lub naszych praktyk w zakresie ochrony prywatności, prosimy o kontakt pod adresem [compliance@mozilla.com](mailto:compliance@mozilla.com).
@@ -247,7 +247,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
         </ul>
       </td>
       <td>
-        <p><strong>Zgodność z prawem</strong> w zakresie reagowania na żądania dotyczące praw osób, których dane dotyczą, reagowania na żądania organów ścigania, zarządzania i ochrony naszych (i naszych użytkowników’) praw, własności i/lub bezpieczeństwa.</p>
+        <p><strong>Zgodność z prawem</strong> w zakresie reagowania na żądania dotyczące praw osób, których dane dotyczą, reagowania na żądania organów ścigania, zarządzania i ochrony naszych (i naszych użytkowników) praw, własności i/lub bezpieczeństwa.</p>
         <p><strong>Uzasadniony interes</strong>, o ile nie jest to ściśle wymagane przez prawo, we wspieraniu procesów lub żądań prawnych lub regulacyjnych, zapobieganiu oszustwom oraz zarządzaniu i ochronie naszych (i naszych użytkowników) praw, własności i/lub bezpieczeństwa.</p>
       </td>
     </tr>

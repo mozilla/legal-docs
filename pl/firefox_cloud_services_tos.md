@@ -54,14 +54,15 @@ Niniejsza najwyższa sekcja zawiera streszczenie poniższych warunków. Streszcz
 
 5. #### Komunikacja
 
-    Regularnie przesyłamy użytkownikom wiadomości pomagające w pełni skorzystać z możliwości konta Mozilla. Wiadomości takie mogą być wyświetlane w produktach lub przesyłane na adres użyty do rejestracji przez a użytkownik i obejmować informacje wdrożeniowe, różne usługi związane z kontem Mozilla oraz pokrewne oferty i ankiety. Użytkownik może również zdecydować się na otrzymywanie innych rodzajów wiadomości e-mail. 
+    Regularnie przesyłamy użytkownikom wiadomości pomagające w pełni skorzystać z możliwości konta Mozilla. Wiadomości takie mogą być wyświetlane w produktach lub przesyłane na adres użyty do rejestracji przez użytkownika i obejmować informacje wdrożeniowe, różne usługi związane z kontem Mozilla oraz pokrewne oferty i ankiety. Użytkownik może również zdecydować się na otrzymywanie innych rodzajów wiadomości e-mail. 
     
     Subskrypcje wiadomości e-mail od firmy Mozilli można zmienić w naszych wiadomościach e-mail (przez kliknięcie łącza u dołu strony) lub w przeglądarce (należy wybrać kolejno Firefox / Preferencje / Synchronizacja / Zarządzaj kontem / Ustawienia poczty).
     
     Możemy również przesyłać użytkownikom ważne informacje dotyczące konta, takie jak aktualizacje postanowień prawnych lub zasad ochrony prywatności, a także wiadomości bezpieczeństwa, umożliwiające zresetowanie hasła, weryfikację adresu e-mail czy kojarzenie urządzeń. Wiadomości takie są wymagane w celu korzystania z naszych usług i nie można zrezygnować z ich subskrypcji. 
-Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 lub adres e-mail legal-notices@mozilla.com_ 
 
-Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).
+    Z firmą Mozilla można skontaktować się, pisząc na adres _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 lub adres e-mail legal-notices@mozilla.com_ 
+
+    Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji pochodzących od agencji państwowych. Szczegółowe informacje na temat sposobu składania takich wniosków można znaleźć na naszej [stronie dotyczącej przejrzystości](https://www.mozilla.org/about/policy/transparency/).
 
 6. #### Zawartość użytkownika w naszych Usługach
 
@@ -95,4 +96,4 @@ Uwaga: Pod powyższym adresem nie przyjmujemy wniosków o ujawnienie informacji 
 
 12. #### Inne postanowienia
 
-    Niniejsze Warunki podlegają prawu stanu Kalifornia (Stany Zjednoczone), z wyłączeniem przepisów o konflikcie norm prawnych. Jeśli jakakolwiek część niniejszych Warunków zostanie uznana za nieważną lub niemożliwą do wyegzekwowania, pozostałe ich postanowienia pozostaną w pełni mocy. W przypadku rozbieżności między przetłumaczoną wersją Warunków a wersją w języku angielskim, za nadrzędną uznaje ich wersję w języku angielskim.
+    Niniejsze Warunki podlegają prawu stanu Kalifornia (Stany Zjednoczone), z wyłączeniem przepisów o konflikcie norm prawnych. Jeśli jakakolwiek część niniejszych Warunków zostanie uznana za nieważną lub niemożliwą do wyegzekwowania, pozostałe ich postanowienia pozostaną w pełnej mocy. W przypadku rozbieżności między przetłumaczoną wersją Warunków a wersją w języku angielskim, za nadrzędną uznaje się wersję w języku angielskim.

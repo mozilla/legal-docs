@@ -19,7 +19,7 @@ Senkronizasyonu etkinleştirmeniz durumunda Mozilla cihazlar genelinde eşitledi
 
 Ücretli abonelik gerektiren hizmetlere abone olduğunuzda ödemeniz [Mozilla Aboneliği Hizmetleri Gizlilik Bildirimi](https://www.mozilla.org/privacy/subscription-services/)'ne uygun olarak işlenir. Mozilla hesabınızın (fatura adresiniz ve ödeme yönteminizin son dört hanesi de dahil olmak üzere) ve hesabınızın abonelik durumu kaydeder. Mozilla ödeme bilgilerinizin tamamını saklamaz.
 
-*Veri ayarlarınızı nasıl değiştirebileceğiniz de dahil olmak üzere daha fazla bilgi:* [Mozilla hesabınızı nasıl yöneteceğiniz](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [eşitlememeyi nasıl etkinleştireceğiniz](https://support.mozilla.org/kb/sync-firefox-desktop), [eşitlemenin nasıl çalıştığı](https://support.mozilla.org/kb/sync) ve hesaplar için topladığımız [veriler](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) hakkında daha fazla bilgi edinebilirsiniz.
+*Veri ayarlarınızı nasıl değiştirebileceğiniz de dahil olmak üzere daha fazla bilgi:* [Mozilla hesabınızı nasıl yöneteceğiniz](https://support.mozilla.org/kb/firefox-accounts-managing-account-data), [eşitlemeyi nasıl etkinleştireceğiniz](https://support.mozilla.org/kb/sync-firefox-desktop), [eşitlemenin nasıl çalıştığı](https://support.mozilla.org/kb/sync) ve hesaplar için topladığımız [veriler](https://dictionary.telemetry.mozilla.org/?page%3D1%26search%3Dmozilla%2520accounts) hakkında daha fazla bilgi edinebilirsiniz.
 
 ### Mozilla hesaplarını ve bağlı hizmetleri sağlamak ve iyileştirmek
 
@@ -51,7 +51,7 @@ Mozilla hesaplarının kullanımını anlama ve pazarlama çalışmalarımızı 
 
 ### Hizmetlerimizi pazarladığımız zamanlar da dahil olmak üzere sizinle iletişim kurmak
 
-İletişim verilerinizi sizinle iletişim kurmak için kullanırız. Hesabınızda şüpheli aktiviteler tespit ettiğimizde sizi uyarmak, hesabınızda yapılan değişiklikleri doğrulamak, pazarlamayla ilgili mesajlar göndermek veya müşteri desteği mesajlarına yanıt vermek gibi nedenlerle sizinle iletişime geçebiliriz ve sizinle iletişimlerimizi yönetmek için üçüncü taraf hizmet sağlayıcıları kullanabiliriz. Ayrıca mesajlarımızı kimlerin aldığını daha iyi anlamak ve bunları sizinle daha ve size daha faydalı hale getirmek için bu mesajlarla ilgili etkileşim verilerini işleriz.
+İletişim verilerinizi sizinle iletişim kurmak için kullanırız. Hesabınızda şüpheli aktiviteler tespit ettiğimizde sizi uyarmak, hesabınızda yapılan değişiklikleri doğrulamak, pazarlamayla ilgili mesajlar göndermek veya müşteri desteği mesajlarına yanıt vermek gibi nedenlerle sizinle iletişime geçebiliriz ve sizinle iletişimlerimizi yönetmek için üçüncü taraf hizmet sağlayıcıları kullanabiliriz. Ayrıca mesajlarımızı kimlerin aldığını daha iyi anlamak ve bunları sizin için daha ilgili ve daha faydalı hale getirmek için bu mesajlarla ilgili etkileşim verilerini işleriz.
 
 ### İlgili yasalara uyum sağlamak ve zararlı, yetkisiz veya yasa dışı faaliyetleri tespit edip önlemek
 
@@ -82,7 +82,7 @@ Mozilla Corporation (ve sunucularımız) Amerika Birleşik Devletleri'nde bulunm
 
 Kişisel verilerinizi yalnızca bu Gizlilik Bildirisinde özetlenen amaçları yerine getirmek için gerekli olan süre boyunca saklarız. Genel olarak, hesabınız etkin olduğu sürece hesap verileriniz saklanır. Mozilla'nın iki yıldan uzun bir süre giriş yapmamış hesapları [periyodik olarak sildiğini](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) unutmayın (bu eyleme gerçekleştirmeden önce size hatırlatma göndermek için makul çabayı göstereceğiz).
 
-Topladığımız teknik veriler, ayar verileri ve etkileşim verileriyle ilgili olarak, genellikle bu verileri 25 ayla sınırlı olmak üzere elimizde tutarız, ancak gerçek saklama süreleri verilerin türüne ve toplanma amacına bğalı olarak değişiklik gösterebilir (örneğin, hesabınızın "ilk açılma" tarihi verisini tutarız ve böylece ne kadar süredir Mozilla hesap sahibi olduğunuzu biliriz). Belirli saklama süreleri; verilerinizin hassaslığına, toplandıkları koşullara, ayar ve tercihlerinize ve verilerinizi saklamaya ya da silmeye ilişkin yasal veya sözleşmesel yükümlülüklerimize (örneğin; dolandırıcılığı önleme, mevzuata uyumluluk veya hizmet devamlılığı gibi nedenlerle) göre de değişebilir. Saklama süresi sona erdiğinde, yasada aksi zorunlu kılınmadığı sürece verilerinizi güvenli biçimde sileriz.
+Topladığımız teknik veriler, ayar verileri ve etkileşim verileriyle ilgili olarak, genellikle bu verileri 25 ayla sınırlı olmak üzere elimizde tutarız, ancak gerçek saklama süreleri verilerin türüne ve toplanma amacına bağlı olarak değişiklik gösterebilir (örneğin, hesabınızın "ilk açılma" tarihi verisini tutarız ve böylece ne kadar süredir Mozilla hesap sahibi olduğunuzu biliriz). Belirli saklama süreleri; verilerinizin hassaslığına, toplandıkları koşullara, ayar ve tercihlerinize ve verilerinizi saklamaya ya da silmeye ilişkin yasal veya sözleşmesel yükümlülüklerimize (örneğin; dolandırıcılığı önleme, mevzuata uyumluluk veya hizmet devamlılığı gibi nedenlerle) göre de değişebilir. Saklama süresi sona erdiğinde, yasada aksi zorunlu kılınmadığı sürece verilerinizi güvenli biçimde sileriz.
 
 Bir bağlantıyı veya bağlantı koleksiyonunu Firefox Bağlantı koleksiyonlarından silmeniz durumunda güvenliği ve kötüye kullanımı önleme amaçları doğrultusunda ilişkili verileri saklayabiliriz. [Hizmet Koşullarımızı](https://www.mozilla.org/about/legal/terms/services/) ihlal ettiği tespit edilen içerikler, gelecekteki kötüye kullanımları önlememize ve değerlendirmemize olanak sağlamaları için süresiz olarak saklanabilir.
 
@@ -111,7 +111,7 @@ Avenue Louise 235 b 1<br>
 1050 Brussels<br>
 Belgium<br>
 
-İlgili veri koruma yasalarına uygun olarak veri koruma haklarını kullanma isteyen kişilerden aldığımız tüm taleplere yanıt veririz ve talebinizi işleme alabilmek için kimliğinizi doğrulamak üzere ek bilgiler paylaşmanızı isteyebiliriz.
+İlgili veri koruma yasalarına uygun olarak veri koruma haklarını kullanmak isteyen kişilerden aldığımız tüm taleplere yanıt veririz ve talebinizi işleme alabilmek için kimliğinizi doğrulamak üzere ek bilgiler paylaşmanızı isteyebiliriz.
 
 ### Tercihleriniz
 
@@ -128,12 +128,12 @@ Bu politikayı ve bildirimlerimizi değiştirmemiz gerekebilir. Bu durumda, gün
 | Hesap verileri | Bunlar, bilgi kaydı gibi Mozilla hesabınızın yönetimiyle ilgili verilerdir.  | Hesap kullanıcı adı, görünen ad, Mozilla hesap kimliği.  |
 | Kimlik doğrulama verileri | Hesaplarınızı güvence altına almak için veriler alırız ve ayrıca hesap güvenliğinizi sürdürmek için kimlik doğrulamayla ilgili veriler oluştururuz.  | Parola hash'i, tokenData. |
 | İletişim verileri | Bizimle paylaşmayı seçtiğiniz başka her türlü iletişim verisine ek olarak, hesap kaydınızın bir parçası olarak girdiğiniz e-posta adresidir.  | E-posta adresi, ikincil e-posta adresi, telefon numarası. |
-| Etkileşim verileri | Hizmetlerimizle etkileşim kurma şeklimizle ilgili verilerdir. | Sayılar, etkinlik günlükleri, kullanım verileri.  |
+| Etkileşim verileri | Hizmetlerimizle etkileşim kurma şeklinizle ilgili verilerdir. | Sayılar, etkinlik günlükleri, kullanım verileri.  |
 | Dil tercihi | Hizmetlerimizle etkileşimde bulunmak için çıkarımda bulunulan veya tercih edilen (ayarlar bölümünde belirtirseniz) dilinizdir. | Dil.  |
 | Konum | IP adresinizi kullanarak ülke, şehir veya bölge düzeyinde konumunuza dair çıkarımlarda bulunuruz. | Ülke kodu, şehir.  |
 | Ayarlar | Bunlar gizlilik tercihleriniz gibi hizmetlerin sağlanma şekline ilişkin tercihleriniz veya ayarlarınızdır. Herhangi bir özel tercih yapmamanız durumunda bunlar varsayılan ayarlarınız olur.  | Gizlilik ayarları, hesap ayarları.  |
 | Sistem performansı verileri | Bunlar, hizmetlerin cihazınızda çalıştırılma şekline ilişkin verilerdir.  | Zaman damgaları, gönderim başarısı/hatası.  |
-| Teknik veriler | Bunlar, hizmetlerimize eriştiğiniz donanımlar (masaüstü bilgisayarınız, akıllı telefon veya tablet gibi) hizmetlerimize eriştiğiniz donanımlar, yapılandırmaları ve bağlantıları hakkındaki bilgilerdir.  | Cihaz işletim sistemi, tarayıcı ve sürümü, zaman damgası, dil. |
+| Teknik veriler | Bunlar, hizmetlerimize eriştiğiniz donanımlar (masaüstü bilgisayarınız, akıllı telefon veya tablet gibi), yapılandırmaları ve bağlantıları hakkındaki bilgilerdir.  | Cihaz işletim sistemi, tarayıcı ve sürümü, zaman damgası, dil. |
 | Benzersiz tanımlayıcılar  | Bunlar, hizmetle etkileşimlerinizi yönetmek için muhtelif zamanlarda oluşturulabilen benzersiz tanımlayıcılardır.  | Accounts_id, session_id.  |
 
 ## Yasal dayanaklar

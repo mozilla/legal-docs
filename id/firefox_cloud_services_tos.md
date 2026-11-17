@@ -36,7 +36,7 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
 
     (d) Firefox Notes memungkinkan Anda untuk mencatat di Firefox. Anda perlu Akun Mozilla untuk melihat, mengedit, dan menghapus Catatan Anda di seluruh perangkat. 
 
-    (e) Firefox Sync memungkinkan Anda mengakses informasi yang disimpan di Firefox melalui berbagai perangkat, termasuk tab, bilah, kata sandi, dan preferensi peramban. Anda bisa mengaktifkan dan menonaktifkan Firefox Sync melalui bagian Pengaturan Firefox. Diperlukan akun Mozilla. 
+    (e) Firefox Sync memungkinkan Anda mengakses informasi yang disimpan di Firefox melalui berbagai perangkat, termasuk tab, bilah alamat, kata sandi, markah, dan preferensi peramban. Anda bisa mengaktifkan dan menonaktifkan Firefox Sync melalui bagian Pengaturan Firefox. Diperlukan akun Mozilla. 
     
     (f) Pocket membantu Anda menemukan konten yang bagus sesuai dengan minat Anda dan menyimpan konten ini untuk dilihat nanti – di perangkat apa pun, kapan pun. 
 
@@ -59,9 +59,10 @@ Bagian atas ini merangkum ketentuan di bawah ini. Rangkuman ini dibuat untuk mem
     Anda bisa mengubah langganan email Mozilla dari email kami (klik tautan di bagian bawah) atau dari peramban (kunjungi Firefox/Preferensi/Sinkronisasi/Kelola akun/Preferensi Email).
     
     Kami juga mungkin mengirim informasi akun seperti pembaruan ketentuan hukum atau privasi, atau pesan keamanan seperti reset kata sandi, verifikasi email, dan perangkat yang ditautkan. Informasi ini penting bagi layanan kami dan tidak dapat dihentikan langganannya. 
-Anda bisa menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
 
-Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.
+    Anda bisa menghubungi Mozilla di _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 or legal-notices@mozilla.com_ 
+
+    Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga pemerintah di alamat di atas. Lihat [Halaman Transparansi](https://www.mozilla.org/about/policy/transparency/) kami untuk detail tentang cara mengirimkan pertanyaan tersebut.
 
 6. #### Konten Anda di Layanan Kami
 
@@ -87,7 +88,7 @@ Perlu diperhatikan bahwa kita tidak menerima permintaan informasi dari lembaga p
 
     LAYANAN INI DISEDIAKAN "APA ADANYA" DENGAN SEGALA KEKURANGAN. SEJAUH YANG DIIZINKAN OLEH UNDANG-UNDANG, MOZILLA DAN PARA PIHAK PENERIMA GANTI RUGI DENGAN INI MENYANGKAL SEMUA JAMINAN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TANPA TERBATAS PADA JAMINAN BAHWA LAYANAN INI BEBAS DARI CACAT, DAPAT DIPERDAGANGKAN, SESUAI UNTUK TUJUAN TERTENTU, DAN TIDAK MELANGGAR. ANDA MENANGGUNG SEMUA RISIKO SEHUBUNGAN DENGAN PEMILIHAN LAYANAN UNTUK TUJUAN ANDA DAN SEHUBUNGAN DENGAN KUALITAS DAN KINERJA LAYANAN, TERMASUK TANPA TERBATAS PADA RISIKO BAHWA KONTEN AKAN DIHAPUS ATAU RUSAK ATAU ORANG LAIN MENGAKSES AKUN ONLINE ANDA. BATASAN INI AKAN BERLAKU MESKIPUN ADA KEGAGALAN TUJUAN UTAMA DARI SETIAP PENYELESAIAN. BEBERAPA YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN JAMINAN TERSIRAT, SEHINGGA SANGKALAN INI MUNGKIN TIDAK BERLAKU UNTUK ANDA.
 
-    KECUALI SEBAGAIMANA YANG DISYARATKAN OLEH UNDANG-UNDANG, MOZILLA, DAN PARA PIHAK PENERIMA GANTI RUGI TIDAK AKAN BERTANGGUNG JAWAB ATAS SEMUA KERUGIAN TAK LANGSUNG, KHUSUS, INSIDENTAL, SEBAB AKIBAT, ATAU MENJERAKAN YANG TIMBUL DARI ATAU DENGAN CARA APA PUN YANG TERKAIT DENGAN KETENTUAN ATAU PENGGUNAAN ATAU KETIDAKMAMPUAN UNTUK MENGGUNAKAN LAYANAN INI, TERMASUK TANPA TERBATAS PADA KERUGIAN LANGSUNG ATAS HILANGNYA REPUTASI, MOGOK KERJA, HILANGNYA LABA, HILANGNYA DATA, DAN KEGAGALAN ATAU KERUSAKAN KOMPUTER, BAHKAN JIKA SUDAH DIBERI TAHU KEMUNGKINAN KERUGIAN TERSEBUT DAN TERLEPAS DARI TEORI (KONTRAK, DI LUAR KONTRAK, ATAU LAINNYA) YANG DIJADIKAN LANDASAN KLAIM TERSEBUT. TOTAL KEWAJIBAN MOZILLA DAN PIHAK PENERIMA GANTI RUGI DALAM PERJANJIAN INI TIDAK AKAN MELEBIHI $500 (LIMA RATUS DOLAR). BEBERAPA YURIDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN KERUGIAN INSIDENTAL, SEBAB AKIBAT, ATAU KHUSUS, SEHINGGA PENGECUALIAN DAN PEMBATASAN INI MUNGKIN TIDAK BERLAKU UNTUK ANDA.
+    KECUALI SEBAGAIMANA YANG DISYARATKAN OLEH UNDANG-UNDANG, MOZILLA, DAN PARA PIHAK PENERIMA GANTI RUGI TIDAK AKAN BERTANGGUNG JAWAB ATAS SEMUA KERUGIAN TAK LANGSUNG, KHUSUS, INSIDENTAL, SEBAB AKIBAT, ATAU MENJERAKAN YANG TIMBUL DARI ATAU DENGAN CARA APA PUN YANG TERKAIT DENGAN KETENTUAN ATAU PENGGUNAAN ATAU KETIDAKMAMPUAN UNTUK MENGGUNAKAN LAYANAN INI, TERMASUK TANPA TERBATAS PADA KERUGIAN LANGSUNG ATAS HILANGNYA REPUTASI, MOGOK KERJA, HILANGNYA LABA, HILANGNYA DATA, DAN KEGAGALAN ATAU KERUSAKAN KOMPUTER, BAHKAN JIKA SUDAH DIBERI TAHU KEMUNGKINAN KERUGIAN TERSEBUT DAN TERLEPAS DARI TEORI (KONTRAK, DI LUAR KONTRAK, ATAU LAINNYA) YANG DIJADIKAN LANDASAN KLAIM TERSEBUT. TOTAL KEWAJIBAN MOZILLA DAN PIHAK PENERIMA GANTI RUGI DALAM PERJANJIAN INI TIDAK AKAN MELEBIHI $500 (LIMA RATUS DOLAR). BEBERAPA YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN KERUGIAN INSIDENTAL, SEBAB AKIBAT, ATAU KHUSUS, SEHINGGA PENGECUALIAN DAN PEMBATASAN INI MUNGKIN TIDAK BERLAKU UNTUK ANDA.
 
 11. #### Perubahan Ketentuan ini
 

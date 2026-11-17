@@ -47,7 +47,7 @@ Od czasu do czasu Mozilla może zaktualizować niniejsze Warunki. Zaktualizowane
 
 ### Rozwiązanie
 
-Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z przeglądarki Firefox. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do przeglądarki Firefox z dowolnej przyczyny, łącznie z zakończeniem oferowania przeglądarki Firefox. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym raz podejmie próbę uzyskania dostępu do konta.
+Niniejsze Warunki obowiązują do momentu, w którym użytkownik lub Mozilla zdecydują się je wypowiedzieć. Użytkownik może w każdej chwili i z dowolnego powodu wypowiedzieć Warunki przez zaprzestanie korzystania z przeglądarki Firefox. Mozilla może w dowolnym momencie zawiesić lub zakończyć dostęp dowolnego użytkownika do przeglądarki Firefox z dowolnej przyczyny, łącznie z zakończeniem oferowania przeglądarki Firefox. Jeśli zdecydujemy się zawiesić lub zakończyć dostęp użytkownika, podejmiemy próbę powiadomienia go przy użyciu adresu e-mail powiązanego z kontem użytkownika lub kiedy następnym razem podejmie próbę uzyskania dostępu do konta.
 
 ## Użytkownik ponosi odpowiedzialność za konsekwencje korzystania z przeglądarki Firefox
 

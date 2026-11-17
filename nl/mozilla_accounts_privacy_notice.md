@@ -1,6 +1,6 @@
 # Privacymelding voor Mozilla-accounts
 
-Laatst bij gewerkt op 10 augustus 2026
+Laatst bijgewerkt op 10 augustus 2026
 {: datetime="2026-08-10" }
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
@@ -39,7 +39,7 @@ Als aan een Mozilla-account verbonden service te maken krijgt met een onverwacht
 
 ### Voor het verzorgen van Firefox Koppelingsverzamelingen
 
-Voor de Firefox-functie Koppelingsverzamelingen is ook een account vereist. Als u ervoor kies om Koppelingsverzamelingen te maken, verwerken we gegevens over de koppelingen en gerelateerde metagegevens die u deelt om de functie te verzorgen en onze [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) af te dwingen.
+Voor de Firefox-functie Koppelingsverzamelingen is ook een account vereist. Als u ervoor kiest om Koppelingsverzamelingen te maken, verwerken we gegevens over de koppelingen en gerelateerde metagegevens die u deelt om de functie te verzorgen en onze [Servicevoorwaarden](https://www.mozilla.org/about/legal/terms/services/) af te dwingen.
 
 ### Beveiliging bieden en verbeteren
 
@@ -112,7 +112,7 @@ Avenue Louise 235 b 1<br>
 1050 Brussel<br>
 België<br>
 
-We reageren op alleen aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
+We reageren op alle aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
 
 ### Uw keuzemogelijkheden
 
@@ -120,7 +120,7 @@ U kunt de [instellingen voor uw Mozilla-account](https://support.mozilla.org/kb/
 
 ## Wijzigen
 
-Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, kunnen we  ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals via blogberichten en forums.
+Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, kunnen we  ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigingen, zoals via blogberichten en forums.
 
 ## Gegevensdefinities
 
@@ -236,7 +236,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
         </ul>
       </td>
       <td>
-        <p><strong>Legitiem belang</strong> bij het verzorgen van belangrijke aan uw account gebonden updates en bij het promoten van onze producten en services, waaronder het verzenden van marketingberichten en het meten en verbeteren va onze marketingcampagnes.</p>
+        <p><strong>Legitiem belang</strong> bij het verzorgen van belangrijke aan uw account gebonden updates en bij het promoten van onze producten en services, waaronder het verzenden van marketingberichten en het meten en verbeteren van onze marketingcampagnes.</p>
         <p><strong>Toestemming</strong>, waar vereist onder toepasselijke wetgeving (zoals in rechtsgebieden die toestemming vereisen voor het verzenden van marketingberichten).</p>
       </td>
     </tr>
