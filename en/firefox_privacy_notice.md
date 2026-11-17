@@ -1,7 +1,7 @@
 # Firefox Privacy Notice
 
-Effective May 4, 2026
-{: datetime="2026-05-04" }
+Effective January 1, 2027
+{: datetime="2027-01-01" }
 
 ## At Mozilla, we believe that privacy is fundamental to a healthy internet
 
@@ -27,41 +27,49 @@ If you enable the Shake to Summarize feature on a compatible device running a su
 
 ### To provide you with Firefox VPN
 
-If you are signed in to a Mozilla account, you can enable a Firefox feature to conceal your IP address through a proxy server (“VPN”). When enabled, it proxies Firefox network traffic through an intermediary to prevent your network provider from seeing which servers you connect to and to hide your IP address from the sites you visit. It does not proxy traffic from other applications on the device, and does not, on its own, make your website browsing fully anonymous. Use of VPN may impact your browsing experience, including by serving content not specific to your region.
+You can enable a Firefox feature to conceal your IP address through a proxy server (“VPN”). When enabled, it proxies Firefox network traffic through an intermediary to prevent your network provider from seeing which servers you connect to and to hide your IP address from the sites you visit. It does not proxy traffic from other applications on the device, and does not, on its own, make your website browsing fully anonymous. Use of VPN may impact your browsing experience, including by serving content not specific to your region.
 
-We use a proxy server operated on our behalf to provide the VPN feature. The proxy server does not have access to webpage content or other sensitive information, such as messages or passwords, and does not collect data about the websites you visit or the content of those sites. We do process limited technical data (such as the client version, connection status, and device type/operating system) to provide, maintain, and ensure the performance and stability of the service, as well as interaction data to understand usage of the feature and help guide improvements.
+We use a proxy server operated on our behalf to provide the VPN feature. The proxy server does not have access to webpage content or other sensitive information, such as messages or passwords, and does not collect data about the websites you visit or the content of those sites. We process limited technical data (such as the client version, connection status, device type/operating system, and certain app store attestation information) to provide, maintain, and ensure the performance and stability of the service, as well as interaction data to understand usage of the feature and help guide improvements.
+
+When using VPN on Desktop, you will need to create or sign into a Mozilla account. On mobile devices, you have the option to use it with or without an account. If you enable VPN without an account, Firefox requests app store attestation information from your device and sends this information, along with a generated user identifier, to Mozilla to enable your VPN session. This helps us prevent fraudulent or unauthorized use of the VPN infrastructure. Learn more about VPN on [desktop](https://support.mozilla.org/kb/built-in-vpn) and mobile.
 
 ### To provide and improve search functionality and suggestions
 
-As you type a search query within Firefox, Firefox offers [search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) to provide you with faster and more direct access to what you’re looking for. Some of the search suggestions come from your search provider (“Search Suggestions”). Others come from Firefox, and are based on information stored on your local device (including recent search terms, open tabs, and previously visited URLs), or content from Mozilla and Mozilla’s partners, including paid sponsors and internet resources like Wikipedia (“Suggestions from Firefox”).
+As you type a search query within Firefox, Firefox offers [search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) to provide you with faster and more direct access to what you’re looking for. Some of the search suggestions come from your search provider (“Search Suggestions”). Others come from Firefox and are based on information stored on your local device (including recent search terms, open tabs, and previously visited URLs), or content from Mozilla and Mozilla’s partners, including paid sponsors and internet resources like Wikipedia (“Suggestions from Firefox”).
 
-By default, Firefox shows Search Suggestions. Suggestion requests — including your real-time search query and technical data — are sent directly to your search provider as you type, and processed according to your search provider’s privacy notice ([linked below](#bookmark-search-pns)). You can turn off Search Suggestions or change your default search provider at any time, as outlined on this [Firefox Support](https://support.mozilla.org/kb/firefox-suggest) page.
+By default, Firefox shows Search Suggestions. Suggestion requests — including your real-time search query and technical data — are sent directly to your search provider as you type and processed according to your search provider’s privacy notice ([linked below](#bookmark-search-pns)). You can turn off Search Suggestions or change your default search provider at any time, as outlined on this [Firefox Support](https://support.mozilla.org/kb/firefox-suggest) page.
 
-Users in the United States and certain other regions will also receive Suggestions from Firefox. You can turn these off entirely, or just turn off sponsored Suggestions from Firefox, in your browser settings.
+Users in some regions may also receive Suggestions from Firefox. You can turn these off entirely, or just turn off sponsored Suggestions from Firefox, in your browser settings.
 
-In the United States, Firefox fetches suggestions from Mozilla’s servers as you type your query. We use a privacy preserving technology called [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), which combines encryption and a proxy server to conceal your IP address and other identifying information. Your real-time search query, along with technical, interaction, and IP-derived location data are passed through this OHTTP proxy by default before being sent to Mozilla. This helps prevent anyone (including Mozilla) from associating your specific query with you, or from combining it with unrelated information about your browsing activity. Mozilla processes this data to serve you relevant suggestions, understand how useful the suggestions are to you, and improve the service. In some circumstances Mozilla’s partners will receive de-identified search and interaction data, in order to serve relevant suggestions and measure user engagement with suggested content.
+Firefox fetches suggestions from Mozilla’s servers as you type your query. We use a privacy preserving technology called [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), which combines encryption and a proxy server to conceal your IP address and other identifying information. Your real-time search query, along with technical, interaction, and IP-derived location data are passed through this OHTTP proxy by default before being sent to Mozilla. This helps prevent anyone (including Mozilla) from associating your specific query with you, or from combining it with unrelated information about your browsing activity. Mozilla processes this data to serve you relevant suggestions, understand how useful the suggestions are to you, and improve the service. In some circumstances Mozilla’s partners will receive de-identified search and interaction data, in order to serve relevant suggestions and measure user engagement with suggested content.
 
-Some users — including users in some regions outside the U.S. and U.S.-based users who deselect “retrieve Suggestions from Mozilla as you type” in their settings — will instead receive locally processed results when using the Suggestions from Firefox feature. For these users, the suggestions will be served locally, using information stored on your device, in your copy of Firefox. Your de-identified click and interaction data for specific query keywords (but not your search query) are sent to Mozilla via OHTTP to conceal your IP address and other identifying information. For sponsored suggestions, our partners may receive aggregated information about which of their suggestions are shown and clicked on, but not which users saw the suggestions or which keywords caused those suggestions to be served. (If Suggestions from Firefox are unavailable in your region, you will only receive suggestions Search Suggestions).
+If server-side Suggestions from Mozilla are unavailable in your region or you deselect “retrieve Suggestions from Mozilla as you type” in your settings — the Suggestions from Firefox feature will generate suggestions locally. Your de-identified click and interaction data for specific query keywords (but not your search query) are sent to Mozilla via OHTTP to conceal your IP address and other identifying information. For sponsored suggestions, our partners may receive aggregated information about which of their suggestions are shown and clicked on, but not which users saw the suggestions or which keywords caused those suggestions to be served. (If Suggestions from Firefox are unavailable in your region, you will only receive Search Suggestions).
+
+Firefox mobile has an optional Quick Answers feature, which you can use by tapping the voice icon on your Firefox home page and speaking your search query. When you use this feature, your query will be routed to a Mozilla server and processed by a large language model (“LLM”). If the LLM can answer the question without performing an Internet search, it will respond to the query directly. Where it cannot do so, it may use information from web search results to generate a response. [Learn more](https://support.mozilla.org/kb/quick-answers-mobile). 
 
 ### To serve relevant content and advertising on Firefox New Tab
 
 Firefox shows content on New Tab, along with advertising to support its development. You can turn these off at any time in your browser settings.
 
-We use technical data, language preference, and IP-derived location to serve this content in the correct format (i.e. for mobile vs desktop), language, and relevant location. Mozilla collects technical and interaction data, such as the position, size, views and clicks on New Tab content or ads, to understand how people are interacting with our content and to personalize future content, including sponsored content. This data may be shared with our advertising partners on an aggregated and/or de-identified basis.
+We use technical data, language preference, and IP-derived location to serve this content in the correct format (i.e. for mobile vs desktop), language, and relevant location. We also use browsing data locally on your device to calculate privacy-preserving relevance scores for features like shortcuts. Mozilla collects technical and interaction data, such as the position, size, views and clicks on New Tab content or ads, to understand how people are interacting with our content and to personalize future content, including sponsored content. This data will only be shared with our advertising partners on an aggregated and/or de-identified basis.
 
 In some regions, we use this data to build models and group users based on common attributes. These groupings help us understand how people are interacting with our content and to personalize future content, including sponsored content. We use on-device processing and OHTTP to avoid revealing to Mozilla the attributes of any specific user. [Learn more](https://support.mozilla.org/kb/firefox-new-tab-personalization).
 
-We also work with advertising providers to deliver relevant sponsored content using programmatic technologies. To support this, we may share limited, non-identifying information — such as device type, IP-derived location information, and category of content viewed — to help determine which ads to display. We don’t share any information that identifies you. You can turn off sponsored content in your New Tab settings at any time.
+When ads are enabled on New Tab, additional browsing and interaction data (including interactions with our advertisers) may also be processed locally on your device to measure the effectiveness of those ads. Any such data will only be shared with Mozilla and/or our advertising partners via our privacy-preserving technologies on an aggregated and/or de-identified basis.
 
-In some cases, when ads are enabled on New Tab, additional browsing and interaction data (including interactions with our advertisers) may also be processed locally on your device to measure the effectiveness of those ads; the [shortcuts](https://support.mozilla.org/kb/about-new-tab-page#w_shortcuts) feature also uses browsing data locally on your device to select top shortcuts, some of which may be sponsored. Any such data will only be shared with Mozilla and/or our advertising partners via our privacy-preserving technologies on an aggregated and/or de-identified basis.
+Some users may see widgets on New Tab or may choose to add them. Most widgets operate locally on your device, but some may connect to third-party services to retrieve information (such as sports scores) or provide requested features. [Learn more](https://support.mozilla.org/kb/firefox-new-tab-widgets).
 
-When a user visits a third-party website by clicking an advertisement or link in Firefox, that site may use cookies and other web APIs available to any website to collect data subject to that website’s privacy and/or cookie notices.
+If you visit a third-party website by clicking an advertisement or link in Firefox, that site may use cookies and other web APIs available to any website to collect data subject to that website’s privacy and/or cookie notices.
 
 You can turn off or customize any of these New Tab features along with their associated data processing in your browser settings ([Desktop](https://support.mozilla.org/kb/customize-your-new-tab-page), [Android](https://support.mozilla.org/kb/customize-firefox-home-screen), [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios)). You can also [disable sponsored content](https://support.mozilla.org/kb/sponsor-privacy) while continuing to use the rest of the features.
 
 ### To provide Mozilla accounts
 
 If you sign up for a Mozilla account, we process additional information alongside the data set out in this Notice, such as account details, contact information and sync data, in accordance with the [Mozilla Accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/).
+
+### To provide Firefox Link collections
+
+If you choose to use Firefox Link collections, which requires a Mozilla account, we process information as outlined in the [Mozilla Accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/).
 
 ### To provide AI chatbots
 
@@ -108,9 +116,11 @@ We process [data](#bookmark-understand-usage) to better understand how you engag
 
 ### To market our services
 
-When you allow us to do so, Firefox sends Mozilla data about the website domain or specific advertising campaign (if any) that referred you to our download page to help us understand and improve our marketing efforts. Firefox also shares information with our marketing partners to measure and improve these campaigns; what information is specifically shared varies (depending on how you discovered Firefox and your operating system) but generally includes how you were referred to our download page and whether you actively use Firefox. When Firefox is pre-installed on your device, technical and interaction data (your device type and whether Firefox is used) will be sent to our marketing partners, and shared with Mozilla.
+In some regions, when you click on an ad for Firefox, Mozilla receives data about the website domain or specific advertising campaign (if any) that referred you to our download page to help us understand and improve our marketing efforts. When you allow us to do so, Firefox also shares information with our marketing partners to measure and improve these campaigns; what information is specifically shared varies (depending on how you discovered Firefox and your operating system) but generally includes how you were referred to our download page and whether you actively use Firefox. When Firefox is pre-installed on your device, technical and interaction data (your device type and whether Firefox is used) will be sent to our marketing partners, and shared with Mozilla.
 
-*More details, including how to adjust your data settings:* Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/desktop-attribution-privacy) is collected and shared, and how to opt out. Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns.
+If you share Firefox with a friend using your personal referral link, we use the referral code in that link to count when someone installs Firefox through it, and to credit that installation to your referral total. We don't use this code for advertising or any other purpose.
+
+*More details, including how to adjust your data settings:* Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/desktop-attribution-privacy) is collected and shared, and how to opt out, or about how [referral links](https://support.mozilla.org/kb/firefox-referrals) work. Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns and referral programs.
 
 ### To pseudonymize, de-identify, aggregate or anonymize data
 
@@ -164,24 +174,33 @@ As a Firefox user, you have the right to:
 4. Request correction of any data we hold about you that is inaccurate or incomplete
 5. Have personal data we hold about you deleted (in certain circumstances)
 6. In some cases, restrict or object to how we use your personal data
-7. Complain to your relevant data protection authority if you have concerns about how we’re handling your personal data. We’d prefer it if you contact us first (via [dpo@mozilla.com](mailto:dpo@mozilla.com)), but you can also reach out to your relevant [EU data protection authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), or search for (and contact) your local data protection authority
 
-To make any of the above requests regarding your personal data, please contact us (Mozilla Corporation) through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); we will never discriminate against anyone for exercising their privacy rights. If you have any other questions regarding personal data or our privacy practices, please contact us at [compliance@mozilla.com](mailto:compliance@mozilla.com).
+### How to exercise your rights
 
-If you’re in the UK or EEA, you can also contact our Data Protection Officer at [dpo@mozilla.com](mailto:dpo@mozilla.com), or by mail at:
-
-Bird & Bird DPO Services SRL<br/>
-Avenue Louise 235 b 1<br/>
-1050 Brussels<br/>
-Belgium<br/>
+To exercise any of these rights, you can submit a request to us (Mozilla Corporation) through our [Data Subject Access Request Portal](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0) ...or by contacting [compliance@mozilla.com](mailto:compliance@mozilla.com); we will never discriminate against anyone for exercising their privacy rights.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws, and we may need to ask you for additional information to confirm your identity before we can proceed with your request.
 
-Please note that, when you request deletion of your Firefox data, it will be deleted within 30 days of the request (with the exception of Interaction Data, which has a standard retention period of 90 days and is automatically deleted at the end of this period).
+### Questions and complaints
+
+If you have any other questions regarding how we handle your personal data or our privacy practices, please contact us at [compliance@mozilla.com](mailto:compliance@mozilla.com).
+
+If you’re in the UK or EEA and have concerns about how we handle your personal data, ...you can contact our Data Protection Officer at [dpo@mozilla.com](mailto:dpo@mozilla.com). We encourage you to contact us first so we can address your concerns, but you also have the right to lodge a complaint with your local data protection authority:
+
+* EEA: Find your relevant [data protection authority](https://www.edpb.europa.eu/about-edpb/our-members_en).
+* UK: Contact the [Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/) (ICO).
+
+We acknowledge complaints within 30 days and provide an outcome without undue delay.
+You can also contact our DPO by mail at:
+
+Bird & Bird DPO Services SRL
+Avenue Louise 235 b 1
+1050 Brussels
+Belgium
 
 ### Your choices
 
-You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) and [Mobile](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) at any time.
+You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/manage-firefox-data-collection-privacy-settings) and [Mobile](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) at any time. Please note that, when you request deletion of your Firefox data, it will be deleted within 30 days of the request (with the exception of Interaction Data, which is automatically deleted after a standard 90-day retention period).
 
 Firefox also provides [Global Privacy Control](https://support.mozilla.org/kb/global-privacy-control) (GPC), which you can enable to automatically notify websites not to sell or share information about your browsing session on that website. GPC operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
 
@@ -209,7 +228,7 @@ We may need to change this policy and our notices, in which case the updates wil
 | Interaction data | This is data about how you engage with our services, such as how many tabs you have open or what you’ve clicked on. | Click counts, impression data, attribution data, how many searches performed, time on page, ad and sponsored tile clicks. |
 | Browsing data | This is information about websites and URLs you’ve visited. This could include categories of browsing data (travel, shopping, social media), top level domains (example.com) or specific web pages visited. | Browsing category, Top Level Domains (TLDs), specific URLs. |
 | Search data | This is data about the search category, search keywords or search query of terms searched for. | Search category (Food, Travel), keywords (“Boston”), search term (“current weather in Boston”). |
-| Content | When you provide it to us, we may process data such as uploaded images or survey responses. | Uploaded image, bookmarks, comments, survey responses. |
+| Content | When you provide it to us, we may process data such as uploaded images, survey responses, or Smart Window chats. | Uploaded image, bookmarks, comments, survey responses, and Smart Window chats. |
 | Contact data | When you provide it to us, we may process data about how to contact you. | Email address, phone number. |
 
 ## Lawful bases
@@ -253,6 +272,21 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Legitimate interest</strong> in making the data on your device work for you.</p>
             </td>
             <td>Data processed on your device remains in your control. You can manage your <a href="https://support.mozilla.org/kb/storage">local storage settings</a> or <a href="https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox">clear your browsing history</a> at any time.</td>
+        </tr>
+        <tr>
+            <td>To provide you with Firefox VPN</td>
+            <td>
+                <ul>
+                    <li>Technical data</li>
+                    <li>Location Unique identifiers</li>
+                    <li>Interaction data</li>
+                </ul>
+            </td>
+            <td>
+                <p><strong>Consent</strong>, when you choose to enable Firefox VPN.</p>
+                <p><strong>Legitimate interest</strong> in maintaining performance and stability, preventing fraudulent or unauthorized use, understanding how the feature is used, and maintaining and improving the product.</p>
+            </td>
+            <td>Learn more about VPN on <a href="https://support.mozilla.org/kb/built-in-vpn">desktop</a> and mobile.</td>
         </tr>
         <tr>
             <td>To provide and improve search functionality</td>
@@ -310,6 +344,23 @@ We may need to change this policy and our notices, in which case the updates wil
             <td>You can read more about how to <a href="https://support.mozilla.org/kb/ai-chatbot">manage</a> or <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">remove</a> AI chatbots in Firefox.</td>
         </tr>
         <tr>
+            <td>To provide Firefox Link collections</td>
+            <td>
+                <ul>
+                    <li>Account data</li>
+                    <li>Contact data</li>
+                    <li>Interaction data</li>
+                    <li>Technical data</li>
+                    <li>Unique identifiers</li>
+                    <li>Location</li>
+                </ul>
+            </td>
+            <td><strong>Contract</strong> to provide you with the necessary functionality to utilize the feature.</p>
+            <td><strong>Legitimate interest</strong>in understanding how the feature is used, and maintaining and improving the product.</p>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
             <td>To enable add-ons (addons.mozilla.org, “AMO”), including offering personalized suggestions</td>
             <td>
                 <ul>
@@ -326,7 +377,7 @@ We may need to change this policy and our notices, in which case the updates wil
                 <p><strong>Consent</strong>, when you choose to enable a specific Mozilla provided add-on. Data processed by each add-on is governed by their own Privacy Policy.</p>
             </td>
             <td>
-                <p>Learn <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">how to remove or enable add-ons</a>.</p>
+                <p>Learn <a href="https://support.mozilla.org/kb/disable-or-remove-add-ons">how to remove or enable add-ons</a>.</p>
                 <p>You can also review the <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a> for the <a href="https://addons.mozilla.org/firefox/">add-ons website</a>.</p>
             </td>
         </tr>
