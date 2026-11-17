@@ -21,7 +21,7 @@ Para reproducir ciertos tipos de vídeo, Firefox puede descargar módulos de des
 
 Mozilla no le otorga ningún derecho de propiedad intelectual en Firefox que no se haya incluido específicamente en las presentes Condiciones. Por ejemplo, las presentes Condiciones no le otorgan el derecho a utilizar los derechos de copyright, marcas comerciales u otras características distintivas de la marca Mozilla o de sus licenciatarios.
 
-## Mozilla le otorga ciertos derechos y permisos
+## Usted le otorga a Mozilla ciertos derechos y permisos
 
 Usted le da a Mozilla los derechos necesarios para operar Firefox. Esto incluye el procesamiento de sus datos según lo descrito en el [Aviso de privacidad de Firefox Focus y Klar](https://www.mozilla.org/privacy/firefox-focus/). También incluye una licencia mundial, no exclusiva y libre de regalías con el propósito de hacer lo que usted solicite con el contenido que ingrese en Firefox. Esto no le da a Mozilla ningún derecho de propiedad sobre ese contenido.
 

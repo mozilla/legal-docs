@@ -14,7 +14,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 1. #### Introducción
 
-    Las presentes Condiciones del servicio (en adelante, las ""<u>Condiciones</u>"") rigen el uso de las cuentas de Mozilla, un paquete de servicios en línea ofrecido por Mozilla (en adelante, los "Servicios").
+    Las presentes Condiciones del servicio (en adelante, las "<u>Condiciones</u>") rigen el uso de las cuentas de Mozilla, un paquete de servicios en línea ofrecido por Mozilla (en adelante, los "Servicios").
 
 2. #### Cuentas de Mozilla
 
@@ -42,7 +42,7 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
 
 4. #### Política de privacidad
 
-    Utilizamos la información que recibimos a través de los Servicios del modo descrito en nuestro [Aviso de privacidad de cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nuestros Avisos de privacidad especifican de forna detallada la información que recibimos de estos servicios:
+    Utilizamos la información que recibimos a través de los Servicios del modo descrito en nuestro [Aviso de privacidad de cuentas de Mozilla](https://www.mozilla.org/privacy/mozilla-accounts/). Nuestros Avisos de privacidad especifican de forma detallada la información que recibimos de estos servicios:
 
     * [Firefox Monitor](https://www.mozilla.org/privacy/firefox-monitor/) 
     * [Firefox Notes](https://addons.mozilla.org/firefox/addon/notes-by-firefox/)
@@ -59,13 +59,14 @@ Esta sección inicial resume las condiciones descritas a continuación. El prese
     Puede cambiar sus suscripciones de correo electrónico de Mozilla desde nuestros mensajes de correo electrónico pulsando el enlace en la parte inferior del mensaje o a través del navegador accediendo a Firefox > Preferencias > Sincronización > Gestionar cuenta > Preferencias de correo electrónico.
     
     Asimismo, le podemos enviar información importante relacionada con su cuenta como actualizaciones de términos legales y de privacidad, o mensajes de seguridad en relación con el restablecimiento de la contraseña, la verificación de la dirección de correo electrónico y los dispositivos vinculados. Estos mensajes son imprescindibles para el correcto funcionamiento de nuestros servicios y no se pueden cancelar. 
-Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 o enviando un correo electrónico a legal-notices@mozilla.com_ 
 
-Tenga en cuenta que no aceptamos solicitudes de información de las agencias gubernamentales en la dirección anterior. Consulte nuestra [Página de transparencia](https://www.mozilla.org/about/policy/transparency/) para obtener más información sobre cómo presentar dichas solicitudes.
+    Puede ponerse en contacto con Mozilla enviando una carta a _Mozilla Corporation Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 o enviando un correo electrónico a legal-notices@mozilla.com_ 
+
+    Tenga en cuenta que no aceptamos solicitudes de información de las agencias gubernamentales en la dirección anterior. Consulte nuestra [Página de transparencia](https://www.mozilla.org/about/policy/transparency/) para obtener más información sobre cómo presentar dichas solicitudes.
 
 6. #### Su contenido en nuestros Servicios
 
-    Usted puede cargar contenido a Mozilla como parte de las funciones de los Servicio. Al hacerlo, usted nos otorga permiso no exclusivo, exento de derechos y de ámbito internacional mediante el que podemos utilizar su contenido en función de la prestación de los Servicios. Por la presente, usted manifiesta y garantiza que el contenido que cargue no infringirá los derechos de terceros y que cumplirá las directrices de contenido de Mozilla. Haga clic [aquí](https://www.mozilla.org/about/legal/report-infringement/) para denunciar infracciones de derechos de copyright o marca comercial. 
+    Usted puede cargar contenido a Mozilla como parte de las funciones de los Servicios. Al hacerlo, usted nos otorga permiso no exclusivo, exento de derechos y de ámbito internacional mediante el que podemos utilizar su contenido en función de la prestación de los Servicios. Por la presente, usted manifiesta y garantiza que el contenido que cargue no infringirá los derechos de terceros y que cumplirá las directrices de contenido de Mozilla. Haga clic [aquí](https://www.mozilla.org/about/legal/report-infringement/) para denunciar infracciones de derechos de copyright o marca comercial. 
 
 7. #### Derechos de propiedad intelectual de Mozilla
 

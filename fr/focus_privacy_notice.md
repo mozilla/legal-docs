@@ -21,7 +21,7 @@ Lorsque vous effectuez une recherche, votre requête de recherche, les données 
 
 ### Pour maintenir et améliorer les performances et la stabilité
 
-Si Firefox ou Klar (sur Android) rencontre un problème inattendu, le [Mozilla Crash Reporter](https://support.mozilla.org/kb/how-send-crash-report-firefox-android) vous demandera également si vous souhaitez nous envoyer des informations, qui peuvent inclure les sites qui étaient ouverts au moment du crash, et d'autres données de navigation. Sur iOS, les rapports de crash contiennent moins d'informations et sont envoyés automatiquement par défaut ; vous pouvez [modifier vos paramètres iOS](https://support.mozilla.org/kb/ios-crash-reports-pref) à tout moment.
+Si Focus ou Klar (sur Android) rencontre un problème inattendu, le [Mozilla Crash Reporter](https://support.mozilla.org/kb/how-send-crash-report-firefox-android) vous demandera également si vous souhaitez nous envoyer des informations, qui peuvent inclure les sites qui étaient ouverts au moment du crash, et d'autres données de navigation. Sur iOS, les rapports de crash contiennent moins d'informations et sont envoyés automatiquement par défaut ; vous pouvez [modifier vos paramètres iOS](https://support.mozilla.org/kb/ios-crash-reports-pref) à tout moment.
 
 ### Pour améliorer la sécurité
 
@@ -96,7 +96,7 @@ Nous pouvons être amenés à modifier cette politique et nos avis, auquel cas l
 | Localisation précise | Votre localisation précise (à quelques mètres près) | Localisation précise. |
 | Langue préférée | Votre langue préférée (si vous l'indiquez dans les paramètres) pour interagir avec nos services. | Langue. |
 | Identifiants uniques | Il s'agit d'identifiants uniques, qui peuvent être créés à différents moments pour gérer vos interactions avec le service. | Client_id, session_id. |
-| Données d’interaction | IL s'agit des données relatives à la manière dont vous utilisez nos services, par exemple combien de recherches vous avez effectuées. | Nombre de clics, nombre de recherche effectuées, temps passé sur des pages. |
+| Données d’interaction | Il s'agit des données relatives à la manière dont vous utilisez nos services, par exemple combien de recherches vous avez effectuées. | Nombre de clics, nombre de recherche effectuées, temps passé sur des pages. |
 | Données de recherche | Il s'agit des données relatives aux requêtes de recherche. | Termes de recherche (« météo du jour à Bordeaux »). |
 | Données de navigation | Il s'agit d'informations sur les sites web et les URL que vous avez visités. | URL spécifiques. |
 

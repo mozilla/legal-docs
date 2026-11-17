@@ -64,7 +64,7 @@ Usted tiene derecho a:
 
 Para hacer cualquiera de las solicitudes anteriores con respecto a sus datos personales, por favor contáctenos (Mozilla Corporation) a través de nuestro [Portal de Solicitud de Acceso de Sujeto de Datos](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); nunca discriminaremos a nadie por ejercer sus derechos de privacidad. Si tiene alguna otra pregunta sobre los datos personales y nuestras prácticas en relación con la protección de la privacidad, envíe un correo electrónico a [compliance@mozilla.com](mailto:compliance@mozilla.com).
 
-Si usted se encuentra en el Reino Unido o en el EEE, también puede ponerse en contacto con nuestro responsable de la protección de datos en [dpo@mozilla.com](mailto:dpo@mozilla.com), o por correo electrónico a:
+Si usted se encuentra en el Reino Unido o en el EEE, también puede ponerse en contacto con nuestro responsable de la protección de datos en [dpo@mozilla.com](mailto:dpo@mozilla.com), o por correo postal a:
 
 Bird & Bird DPO Services SRL<br>
 Avenue Louise 235 b 1<br>

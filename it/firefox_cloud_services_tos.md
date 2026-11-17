@@ -38,7 +38,7 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
 
     (e) La funzione di sincronizzazione dati di Firefox consente all'utente l'accesso alle informazioni memorizzate in Firefox, quali schede, barra degli indirizzi intelligente, password, segnalibri e preferenze del browser, da diversi dispositivi. La funzione di sincronizzazione dati può essere attivata e disattivata dalla sezione Impostazioni di Firefox. Per utilizzare questo servizio è richiesto un account Mozilla. 
     
-    (f) Pocket aiuta a trovare contenuti personalizzati in base ai propri interessi e a salvarli per visualizzarli in successivamente, su qualsiasi dispositivo, in qualsiasi momento. 
+    (f) Pocket aiuta a trovare contenuti personalizzati in base ai propri interessi e a salvarli per visualizzarli successivamente, su qualsiasi dispositivo, in qualsiasi momento. 
 
 4. #### Informativa sulla privacy
 
@@ -59,9 +59,10 @@ La sezione in alto riepiloga i termini descritti sotto. Questo riepilogo viene f
     L'utente può modificare l'iscrizione alle email di Mozilla direttamente dalle nostre email (facendo clic sul link in fondo al messaggio) o dal browser (selezionando Firefox / Preferenze / Sincronizzazione / Gestisci account / Preferenze email).
     
     Possiamo inoltre inviare importanti informazioni sull'account, come aggiornamenti ai termini legali o all'informativa sulla privacy, oppure messaggi relativi alla sicurezza, come reimpostazioni di password o verifiche di indirizzi email e dispositivi collegati. Tali comunicazioni sono necessarie per il corretto funzionamento dei nostri servizi, pertanto non è possibile scegliere di non riceverle. 
-Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 oppure a legal-notices@mozilla.com_ 
 
-Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).
+    Per contattare Mozilla, scrivere a _Mozilla Corporation Attn.: Mozilla – Legal Notices 1875 Mission Street, Suite 103, San Francisco, CA 94103 oppure a legal-notices@mozilla.com_ 
+
+    Si precisa che non accettiamo richieste di informazioni da parte di enti governativi all'indirizzo sopra indicato. Per informazioni su come inviare tali richieste, consulta la nostra [pagina della trasparenza](https://www.mozilla.org/about/policy/transparency/).
 
 6. #### Contenuti dell'utente nei nostri Servizi
 
@@ -75,7 +76,7 @@ Si precisa che non accettiamo richieste di informazioni da parte di enti governa
 
     I presenti Termini continueranno ad essere applicati fino alla cessazione da parte dell'utente o di Mozilla. L'utente potrà scegliere di interromperne la validità in qualsiasi momento e per qualsiasi ragione, eliminando il proprio account Mozilla, interrompendo l'uso dei Servizi e, se applicabile, annullando l'iscrizione alle nostre email. 
 
-    Possiamo sospendere o interrompere l'accesso ai Servizi dal parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo email associato al suo account Mozilla, oppure al suo successivo tentativo di accesso ai Servizi.
+    Possiamo sospendere o interrompere l'accesso ai Servizi da parte dell'utente in qualsiasi momento e per qualsiasi motivo, incluso, senza limitazioni, nel caso in cui ragionevolmente riteniamo che: (i) l'utente abbia violato questi Termini, (ii) l'utente abbia creato un rischio di fatto o ci abbia esposto a possibili rischi legali; oppure (iii) la fornitura dei Servizi all'utente non sia più commercialmente valida. Faremo il possibile per inviare una notifica all'utente utilizzando l'indirizzo email associato al suo account Mozilla, oppure al suo successivo tentativo di accesso ai Servizi.
 
     In tutti questi casi, i presenti Termini saranno considerati conclusi, inclusa, senza limitazioni, la licenza dell'utente all'utilizzo dei Servizi, fatta eccezione per le seguenti sezioni, che continueranno a essere applicabili: Indennizzo, Esclusione di garanzia, Limitazione di responsabilità, Varie ed eventuali.
 
@@ -87,7 +88,7 @@ Si precisa che non accettiamo richieste di informazioni da parte di enti governa
 
     I SERVIZI SONO FORNITI "COSÌ COME SONO" CON TUTTI I DIFETTI. NELLA MISURA CONSENTITA DALLA LEGGE, MOZILLA E LE PARTI INDENNIZZATE ESCLUDONO CON LA PRESENTE OGNI GARANZIA, ESPRESSA O IMPLICITA, INCLUSE, SENZA LIMITAZIONI, GARANZIE CHE I SERVIZI SIANO PRIVI DI DIFETTI, COMMERCIABILI, IDONEI A UNO SCOPO PARTICOLARE E CHE NON VIOLINO ALCUN DIRITTO. L'UTENTE SI ASSUME L'INTERO RISCHIO SIA PER QUANTO RIGUARDA LA SCELTA DI UTILIZZARE I SERVIZI PER I PROPRI FINI, SIA PER LA QUALITÀ SIA PER LE PRESTAZIONI DEI SERVIZI STESSI, INCLUSI, SENZA LIMITAZIONI, IL RISCHIO CHE I PROPRI CONTENUTI VENGANO ELIMINATI O DANNEGGIATI O CHE QUALCUN ALTRO ACCEDA AL PROPRIO ACCOUNT. LA PRESENTE LIMITAZIONE SARÀ APPLICATA INDIPENDENTEMENTE DAL FALLIMENTO DELLO SCOPO ESSENZIALE DI QUALSIASI RIMEDIO. ALCUNE GIURISDIZIONI NON CONSENTONO L’ESCLUSIONE O LA LIMITAZIONE DELLE GARANZIE IMPLICITE, PERTANTO QUEST'ESCLUSIONE DI GARANZIA POTREBBE NON ESSERE APPLICABILE ALL’UTENTE.
 
-    FATTA ECCEZIONE PER QUANTO PREVISTO DALLA LEGGE, MOZILLA E LE PARTI INDENNIZZATE NON SARANNO RESPONSABILI PER NESSUN DANNO INDIRETTO, SPECIALE, INCIDENTALE, CONSEQUENZIALE O ESEMPLARE DERIVANTE O IN QUALSIASI MODO RELATIVO AI PRESENTI TERMINI O ALL'USO O ALL'INCAPACITÀ DI USARE I SERVIZI, INCLUSI, SENZA LIMITAZIONI, DANNI DIRETTI E INDIRETTI PER PERDITA DI REPUTAZIONE, INTERRUZIONE DEL LAVORO, PERDITA DI PROFITTI, PERDITA DI DATI E GUASTI O MALFUNZIONAMENTI DEL COMPUTER, ANCHE SE LE PARTI SONO STATE AVVISATE DELLA POSSIBILITÀ DI TALI DANNI E INDIPENDENTEMENTE DALLA SPIEGAZIONE (CONTRATTO, ILLECITO E ALTRO) SUI CUI SI BASA TALE RIVENDICAZIONE. LA RESPONSABILITÀ COLLETTIVA DI MOZILLA E DELLE PARTI INDENNIZZATE IN BASE A QUESTO CONTRATTO, NON SUPERERÀ L’IMPORTO DI 500$ (CINQUECENTO DOLLARI USA). ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DEI DANNI INCIDENTALI, CONSEQUENZIALI O SPECIALI, PERTANTO QUESTA ESCLUSIONE E LIMITAZIONE POTREBBE NON ESSERE APPLICABILE ALL'UTENTE.
+    FATTA ECCEZIONE PER QUANTO PREVISTO DALLA LEGGE, MOZILLA E LE PARTI INDENNIZZATE NON SARANNO RESPONSABILI PER NESSUN DANNO INDIRETTO, SPECIALE, INCIDENTALE, CONSEQUENZIALE O ESEMPLARE DERIVANTE O IN QUALSIASI MODO RELATIVO AI PRESENTI TERMINI O ALL'USO O ALL'INCAPACITÀ DI USARE I SERVIZI, INCLUSI, SENZA LIMITAZIONI, DANNI DIRETTI E INDIRETTI PER PERDITA DI REPUTAZIONE, INTERRUZIONE DEL LAVORO, PERDITA DI PROFITTI, PERDITA DI DATI E GUASTI O MALFUNZIONAMENTI DEL COMPUTER, ANCHE SE LE PARTI SONO STATE AVVISATE DELLA POSSIBILITÀ DI TALI DANNI E INDIPENDENTEMENTE DALLA SPIEGAZIONE (CONTRATTO, ILLECITO E ALTRO) SU CUI SI BASA TALE RIVENDICAZIONE. LA RESPONSABILITÀ COLLETTIVA DI MOZILLA E DELLE PARTI INDENNIZZATE IN BASE A QUESTO CONTRATTO, NON SUPERERÀ L’IMPORTO DI 500$ (CINQUECENTO DOLLARI USA). ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DEI DANNI INCIDENTALI, CONSEQUENZIALI O SPECIALI, PERTANTO QUESTA ESCLUSIONE E LIMITAZIONE POTREBBE NON ESSERE APPLICABILE ALL'UTENTE.
 
 11. #### Modifiche ai presenti Termini
 

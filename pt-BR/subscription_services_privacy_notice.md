@@ -35,7 +35,7 @@ __Dados de rede.__ Quando ativada, a VPN da Mozilla criptografa o tráfego de in
 
 ### Mozilla Monitor {: #monitor }
 
-__Dados de interação.__ A Mozilla recebe dados sobre suas interações com os serviços. Por exemplo, quando você faz login e logout, e as preferências definidas. Saiba mais sobre os [dados de interação do Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). De forma mais geral, a Mozilla também podem usar cookies, informações do dispositivo e endereços IP, além de GIFs transparentes, cookies e serviços de terceiros, para nos ajudar a entender como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
+__Dados de interação.__ A Mozilla recebe dados sobre suas interações com os serviços. Por exemplo, quando você faz login e logout, e as preferências definidas. Saiba mais sobre os [dados de interação do Monitor](https://dictionary.telemetry.mozilla.org/apps/monitor_frontend). De forma mais geral, a Mozilla também pode usar cookies, informações do dispositivo e endereços IP, além de GIFs transparentes, cookies e serviços de terceiros, para nos ajudar a entender como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
 
 * [Have I Been Pwned.](https://haveibeenpwned.com/) A Have I Been Pwned recebe uma versão protegida por hash do seu endereço de email para verificar onde seus dados pessoais possam ter sido comprometidos. Ela mantém esses dados pessoais para verificar novas violações de forma constante. Você pode solicitar a remoção do seu endereço de email da Have I Been Pwned pelo [mecanismo de cancelamento](https://haveibeenpwned.com/OptOut).
   
@@ -49,7 +49,7 @@ __Dados de interação.__ A Mozilla recebe dados sobre suas interações com os 
 
 __Dados de interação.__ A Mozilla recebe dados sobre suas interações com o Firefox Relay, por exemplo, quando você faz login e logout, e as preferências que você define. Saiba mais sobre os [dados de interação do Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md). Você pode cancelar essa coleta ativando o recurso de [Não rastrear](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) no navegador. 
 
-De forma mais geral, a Mozilla também podem usar cookies, informações do dispositivo e endereços IP, além de cookies e serviços de terceiros, para nos ajudar a entender como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
+De forma mais geral, a Mozilla também pode usar cookies, informações do dispositivo e endereços IP, além de cookies e serviços de terceiros, para nos ajudar a entender como os usuários interagem com nossos produtos, serviços, comunicações, sites, campanhas on-line, trechos de código, dispositivos e outras plataformas. Usamos:
 
 * Google Analytics: adiciona um cookie no dispositivo para obter métricas sobre como os usuários interagem com nossos sites. Essas métricas nos ajudam a melhorar o conteúdo do site. Para impedir que o Google Analytics colete dados sobre seu uso do Mozilla Monitor, você pode instalar o [Add-on do navegador para desativação do Google Analytics](https://tools.google.com/dlpage/gaoptout).
 

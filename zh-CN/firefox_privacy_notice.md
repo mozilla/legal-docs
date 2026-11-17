@@ -13,7 +13,7 @@
 
 Mozilla 会收集[某些数据](#bookmark-how-we-use-data)，例如技术和设置数据，以提供 Firefox 浏览器及其相关服务的核心功能，区分您的设备与其他设备，记住并遵守您的设置，以及为您提供默认功能，如[新标签页](https://support.mozilla.org/kb/about-new-tab-page)、[PDF 编辑](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer)、[密码管理器](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager)和[全面 Cookie 保护](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode)。您可以通过调整[控件、按钮和工具栏](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars)以及添加[附加组件功能](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)来进一步定制您的 Firefox 体验。
 
-某些 Firefox 功能，例如网页的自动[翻译](https://support.mozilla.org/kb/website-translation)和[在 PDF 中上传图片时的“替代文本”建议](https://support.mozilla.org/kb/pdf-alt-text)，是由基于小型语言模型的人工智能 (AI) 驱动的，这些模型会下载到您的设备上。这些功能在本地运行，即网页内容、PDF、图片和标签页 URL 都会保留在您的设备上，未经您的明确同意，不会被发送到 Mozilla 的服务器或用于训练目的。请注意，其他 Firefox 功能可能会集成第三方 AI 模型，本声明中会进一步详细说明。了解详情，包括如何在设置中[管理基于 AI 的功能 ](https://support.mozilla.org/kb/firefox-ai-controls)和相关模型。
+某些 Firefox 功能，例如网页的自动[翻译](https://support.mozilla.org/kb/website-translation)和[在 PDF 中上传图片时的“替代文本”建议](https://support.mozilla.org/kb/pdf-alt-text)，是由基于小型语言模型的人工智能 (AI) 驱动的，这些模型会下载到您的设备上。这些功能在本地运行，即网页内容、PDF、图片和标签页 URL 都会保留在您的设备上，未经您的明确同意，不会被发送到 Mozilla 的服务器或用于训练目的。请注意，其他 Firefox 功能可能会集成第三方 AI 模型，本声明中会进一步详细说明。了解详情，包括如何在设置中[管理基于 AI 的功能](https://support.mozilla.org/kb/firefox-ai-controls)和相关模型。
 
 如果您选择使用 Smart Window 功能，则该功能的使用受 [Smart Window 隐私声明](https://www.mozilla.org/privacy/smart-window/)约束，该声明对与 Smart Window 相关的数据处理方式作出了说明。
 
@@ -126,7 +126,7 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 我们可能需要处理您的个人数据以遵守适用法律和保护目的，具体包括：
 
-*响应合法请求并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。
+* 响应合法请求并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。
 * 响应行使隐私权的请求，例如您访问或删除个人数据的权利。
 * 识别、调查和处理潜在的欺诈活动或其他有害活动，例如非法活动、网络攻击或知识产权侵权（包括提出或辩护法律索赔）。
 * 执行内部合规和安全活动，例如审计和企业安全管理。

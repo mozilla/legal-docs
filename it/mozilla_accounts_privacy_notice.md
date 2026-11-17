@@ -76,11 +76,11 @@ Per fornire i nostri servizi come sopra descritto, possiamo divulgare i tuoi dat
 
 ## Trasferimenti internazionali dei dati
 
-Mozilla Corporation (e i relativi server) hanno sede negli Stati Uniti. Dal momento che siamo un'azienda globale, per fornire i servizi descritti nella presente Informativa sulla privacy, le informazioni che raccogliamo possono essere accessibili dalle sedi in cui si trova il nostro personale e i possono anche essere trasferite in altre giurisdizioni come conseguenza della loro condivisione con i nostri partner. Ogni volta che i dati vengono trasferiti oltre i confini internazionali, ci assicuriamo di disporre di meccanismi adeguati (come le [clausole contrattuali standard](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) approvate dalla Commissione europea e da altre autorità competenti) per proteggere i tuoi dati personali. Puoi contattare [dpo@mozilla.com](mailto:dpo@mozilla.com) per avere informazioni sulle tutele adottate per i trasferimenti internazionali o per ottenere copie delle relative clausole contrattuali standard.
+Mozilla Corporation (e i relativi server) hanno sede negli Stati Uniti. Dal momento che siamo un'azienda globale, per fornire i servizi descritti nella presente Informativa sulla privacy, le informazioni che raccogliamo possono essere accessibili dalle sedi in cui si trova il nostro personale e i dati possono anche essere trasferiti in altre giurisdizioni come conseguenza della loro condivisione con i nostri partner. Ogni volta che i dati vengono trasferiti oltre i confini internazionali, ci assicuriamo di disporre di meccanismi adeguati (come le [clausole contrattuali standard](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en#eu-standard-contractual-clauses) approvate dalla Commissione europea e da altre autorità competenti) per proteggere i tuoi dati personali. Puoi contattare [dpo@mozilla.com](mailto:dpo@mozilla.com) per avere informazioni sulle tutele adottate per i trasferimenti internazionali o per ottenere copie delle relative clausole contrattuali standard.
 
 ## Durata della conservazione dei dati
 
-Conserviamo i tuoi dati personali solo per il tempo necessario a soddisfare gli scopi indicati nella presente Informativa sulla privacy. In generale, i dati del tuo account vengono conservati fintato che l'account rimane attivo. Tieni presente che Mozilla [elimina periodicamente](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) gli account che non vengono utilizzati da più di due anni (faremo il possibile per inviarti un promemoria prima di procedere con questa operazione).
+Conserviamo i tuoi dati personali solo per il tempo necessario a soddisfare gli scopi indicati nella presente Informativa sulla privacy. In generale, i dati del tuo account vengono conservati fintanto che l'account rimane attivo. Tieni presente che Mozilla [elimina periodicamente](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) gli account che non vengono utilizzati da più di due anni (faremo il possibile per inviarti un promemoria prima di procedere con questa operazione).
 
 Per quanto riguarda i dati tecnici, di configurazione e di interazione che raccogliamo, in genere conserviamo tali dati per un massimo di 25 mesi, ma i periodi di conservazione effettivi possono variare a seconda del tipo di dati e delle finalità per cui sono stati raccolti (ad esempio, conserviamo la data di “prima apertura” del tuo account, in modo da sapere da quanto tempo sei titolare di un account Mozilla). I periodi di conservazione specifici possono dipendere anche dalla sensibilità dei dati, dal contesto della loro raccolta, dalle tue impostazioni e preferenze e dai nostri obblighi legali o contrattuali di conservare o eliminare i tuoi dati, ad esempio per la prevenzione delle frodi, la conformità normativa o la continuità del servizio. Una volta scaduto il periodo di conservazione, i dati vengono cancellati in modo sicuro, a meno che non sia altrimenti richiesto dalla legge.
 
@@ -104,7 +104,7 @@ Hai il diritto di:
 
 Per avanzare una qualsiasi delle richieste di cui sopra in merito ai tuoi dati personali, puoi contattarci (Mozilla Corporation) tramite il nostro portale [Data Subject Access Request](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); non discrimineremo mai nessuno per aver esercitato i propri diritti alla privacy. Per qualsiasi altra domanda in merito ai tuoi dati personali o alle nostre pratiche di privacy puoi contattarci all'indirizzo [compliance@mozilla.com](mailto:compliance@mozilla.com).
 
-Se ti trovi nel Regno Unito o nello Spazio Economico Europeo, puoi anche contattare il nostro DPO all'indirizzo[dpo@mozilla.com](mailto:dpo@mozilla.com), o per posta ordinaria all'indirizzo:
+Se ti trovi nel Regno Unito o nello Spazio Economico Europeo, puoi anche contattare il nostro DPO all'indirizzo [dpo@mozilla.com](mailto:dpo@mozilla.com), o per posta ordinaria all'indirizzo:
 
 Bird & Bird DPO Services SRL<br>
 Avenue Louise 235 b 1<br>
@@ -178,7 +178,7 @@ Potremmo dover modificare la presente informativa e le nostre comunicazioni; in 
       </td>
       <td>
         <p><strong>Contratto</strong> per mantenere l'operatività degli account Mozilla.</p>
-        <p><strong>Legittimo interesse</strong> a comprendere in che modo gli account Mozilla (e i servizi a essi collegati) vengono usati, e a migliorarne prestazioni, funzionai e stabilità.</p>
+        <p><strong>Legittimo interesse</strong> a comprendere in che modo gli account Mozilla (e i servizi a essi collegati) vengono usati, e a migliorarne prestazioni, funzionalità e stabilità.</p>
       </td>
     </tr>
     <tr>

@@ -75,7 +75,7 @@ Anda mungkin memiliki hak lainnya berdasarkan undang-undang negara Anda. Tidak a
 
 Undang-undang California berlaku untuk kontrak ini, kecuali konflik hukum California.
 
-Jika terdapat pertentangan apa pun antara versi bahasa Inggris terjemahan dari Ketentuan ini, versi bahasa Inggris akan berlaku.
+Jika terdapat pertentangan apa pun antara versi bahasa Inggris dan terjemahan dari Ketentuan ini, versi bahasa Inggris akan berlaku.
 
 ### Anda dapat menghubungi Mozilla di:
 

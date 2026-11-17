@@ -58,9 +58,9 @@ Nous proposons Firefox Relay soit en tant que service gratuit, soit en tant que 
 Pour pouvoir utiliser le service par abonnement, vous devez résider dans un pays où Firefox Relay est disponible. 
 
 * À ce stade, le service d’alias des numéros de téléphone n’est disponible qu’au Canada et aux États-Unis. 
-* Le service d’alias des adresses e-mail est proposé dans les pays suivants : Allemagne, Australie, Belgique, Canada, Espagne, États-Unis, Finlande, France, Irlande, Italie, Malaisie, Nouvelle-Zélande, Pays-Bas, Royaume-Uni, Singapour, Suède et Suisse.
+* Le service d’alias des adresses e-mail est proposé dans les pays suivants : Allemagne, Autriche, Belgique, Canada, Espagne, États-Unis, Finlande, France, Irlande, Italie, Malaisie, Nouvelle-Zélande, Pays-Bas, Royaume-Uni, Singapour, Suède et Suisse.
 
-### Autorisations nécessaires pour fournir Mozilla Relay
+### Autorisations nécessaires pour fournir Firefox Relay
 
 __Votre utilisation de Relay.__ Si vous disposez actuellement d’un abonnement payant à Firefox Relay, Mozilla vous autorise à l’utiliser conformément aux présentes Conditions d’utilisation. Cette autorisation ne concerne que votre usage personnel. Vous n’êtes pas autorisé à transférer, concéder en sous-licence, revendre ou exploiter commercialement Firefox Relay. Vous êtes seul responsable du Contenu que vous transmettez et de ses conséquences.
 
