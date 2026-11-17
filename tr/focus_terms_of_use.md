@@ -5,7 +5,7 @@ Yürürlük Tarihi: 16 Eylül 2026 Çarşamba
 
 Firefox, dünyanın dört bir yanından binlerce kullanıcının oluşturduğu bir topluluk tarafından geliştirilen, ücretsiz ve açık kaynaklı bir web tarayıcısı yazılımıdır.
 
-Firefox yazılımı kopyanızı kullanma hakkındaki önemli bilgileri açıklaması nedeniyle lütfen bu Kullanım Koşullarını (“Koşullar”) dikkatli bir şekilde okuyun. Bu Koşullar Mozilla Corporation (“Mozilla”) ve Sizin aranızda bağlayıcı bir anlaşmadır. Firefox gizlilik uygulamaları hakkında ayrıntılı bilgi için lütfen [Firefox Focuss ve Klar Gizlilik Bildirimi](https://www.mozilla.org/privacy/firefox-focus/)’ni okuyun.
+Firefox yazılımı kopyanızı kullanma hakkındaki önemli bilgileri açıklaması nedeniyle lütfen bu Kullanım Koşullarını (“Koşullar”) dikkatli bir şekilde okuyun. Bu Koşullar Mozilla Corporation (“Mozilla”) ve Sizin aranızda bağlayıcı bir anlaşmadır. Firefox gizlilik uygulamaları hakkında ayrıntılı bilgi için lütfen [Firefox Focus ve Klar Gizlilik Bildirimi](https://www.mozilla.org/privacy/firefox-focus/)’ni okuyun.
 
 ## Mozilla Size Belirli Haklar ve İzinler Verir
 
@@ -57,7 +57,7 @@ Mozilla'nın hizmetlerine veya ürünlerine (ya da Mozilla’nın hizmetleriyle 
 
 ## Mozilla’nın Firefox’u Kullanımınızdan Sorumlu Olduğunu İddia Etmeyeceksiniz (Tazminat)
 
-Yürürlükteki yasalar tarafından izin verildiği ölçüde, Firefox’u kullanımınızdan kaynaklanan herhangi bir sorumluluk veya hak talebi için Mozilla’yı ve iş ortaklarını tazmin etmeyi kabul etmektesiniz.
+**Yürürlükteki yasalar tarafından izin verildiği ölçüde, Firefox’u kullanımınızdan kaynaklanan herhangi bir sorumluluk veya hak talebi için Mozilla’yı ve iş ortaklarını tazmin etmeyi kabul etmektesiniz.**
 
 ## Mozilla’nın Sorumluluğu Konusunda Bazı Önemli Sınırlamalar Bulunmaktadır
 
@@ -67,7 +67,7 @@ Yürürlükteki yasalar tarafından izin verildiği ölçüde, Firefox’u kulla
 
 ## Firefox “Olduğu Gibi” Sağlanmaktadır (Garanti Sorumluluk Reddi)
 
-** Mozilla, Firefox’u “olduğu gibi” sağlamaktadır. Yürürlükteki yasalar tarafından izin verildiği ölçüde, Mozilla ve iş ortakları “ticarete elverişlilik”, belirli bir amaca uygunluk”, “ihlal etmeme” gibi her türlü garantiyi ya da güvenceyi ve bir anlaşma, kullanım ya da ticaret sırasında ortaya çıkan güvenceleri özel olarak reddetmektedir.**
+**Mozilla, Firefox’u “olduğu gibi” sağlamaktadır. Yürürlükteki yasalar tarafından izin verildiği ölçüde, Mozilla ve iş ortakları “ticarete elverişlilik”, “belirli bir amaca uygunluk”, “ihlal etmeme” gibi her türlü garantiyi ya da güvenceyi ve bir anlaşma, kullanım ya da ticaret sırasında ortaya çıkan güvenceleri özel olarak reddetmektedir.**
 
 ## Bilmeniz Gereken Diğer Şeyler
 

@@ -41,7 +41,7 @@ Yhdysvalloissa ja tietyillä muilla alueilla asuvat käyttäjät saavat myös eh
 
 Yhdysvalloissa Firefox hakee ehdotuksia Mozillan palvelimilta kirjoittaessasi hakukyselyä. Käytämme yksityisyyttä suojaavaa tekniikkaa nimeltä [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/), jossa yhdistyvät salauksen ja välityspalvelimen käyttö IP-osoitteesi ja muiden tunnistetietojen piilottamiseksi. Reaaliaikainen hakukyselysi sekä tekninen data, vuorovaikutustiedot ja IP-osoitteesta johdetut sijaintitiedot välitetään oletusarvoisesti tämän OHTTP-välityspalvelimen kautta ennen niiden lähettämistä Mozillalle. Tämä estää kaikkia tahoja (mukaan lukien Mozilla) liittämästä tiettyä hakukyselyä sinuun tai yhdistämästä sitä selaustoimintaasi koskeviin epäolennaisiin tietoihin. Mozilla käsittelee näitä tietoja voidakseen tarjota sinulle olennaisia ehdotuksia, ymmärtääkseen, missä määrin hyödyllisiä ehdotukset ovat sinulle, ja parantaakseen tarjoamaansa palvelua. Joissakin olosuhteissa Mozillan kumppanit vastaanottavat anonymisoitua haku- ja vuorovaikutusdataa, jonka avulla ne voivat tarjota relevantteja ehdotuksia ja mitata käyttäjien toimintaa ehdotettuun sisältöön liittyen.
 
-Jotkut käyttäjät – mukaan lukien Yhdysvaltojen ulkopuolisilla alueilla asuvat käyttäjät sekä Yhdysvalloissa asuvat käyttäjät, jotka poistavat asetuksen ”Vastaanota ehdotuksia Mozillalta kirjoittaessasi” käytöstä – saavat sen sijaan paikallisesti käsiteltyjä tuloksia käyttäessään Ehdotuksia Firefoxilta -ominaisuutta. Näiden käyttäjien kohdalla ehdotukset näytetään paikallisesti Firefox-asennukseesi tallennettujen tietojen perusteella. Tiettyjen hakusanojen (mutta ei varsinaisen hakukyselysi) anonymisoidut napsautus- ja vuorovaikutustiedot lähetetään Mozillalle OHTTP:n kautta IP-osoitteesi ja muiden tunnistetietojen piilottamiseksi. Sponsoroitujen ehdotusten osalta kumppanimme voivat saada koostemuotoisia tietoja siitä, mitkä heidän ehdotuksistaan näytetään ja mitä napsautetaan, mutta eivät sitä, ketkä käyttäjät näkivät ehdotukset tai mitkä avainsanat aiheuttivat niiden näyttämisen. (Jos Firefoxin ehdotukset eivät ole saatavilla alueellasi, saat vain hakuehdotuksia).
+Jotkut käyttäjät – mukaan lukien Yhdysvaltojen ulkopuolisilla alueilla asuvat käyttäjät sekä Yhdysvalloissa asuvat käyttäjät, jotka poistavat asetuksen ”Vastaanota ehdotuksia Mozillalta kirjoittaessasi” käytöstä – saavat sen sijaan paikallisesti käsiteltyjä tuloksia käyttäessään Ehdotuksia Firefoxilta -ominaisuutta. Näiden käyttäjien kohdalla ehdotukset näytetään paikallisesti Firefox-asennukseesi tallennettujen tietojen perusteella. Tiettyjen hakusanojen (mutta ei varsinaisen hakukyselysi) anonymisoidut napsautus- ja vuorovaikutustiedot lähetetään Mozillalle OHTTPS:n kautta IP-osoitteesi ja muiden tunnistetietojen piilottamiseksi. Sponsoroitujen ehdotusten osalta kumppanimme voivat saada koostemuotoisia tietoja siitä, mitkä heidän ehdotuksistaan näytetään ja mitä napsautetaan, mutta eivät sitä, ketkä käyttäjät näkivät ehdotukset tai mitkä avainsanat aiheuttivat niiden näyttämisen. (Jos Firefoxin ehdotukset eivät ole saatavilla alueellasi, saat vain hakuehdotuksia).
 
 ### Asiaankuuluvan sisällön ja mainosten näyttäminen uuden Firefox-välilehden avaamisen yhteydessä
 
@@ -94,7 +94,7 @@ Jos Firefox kohtaa odottamattoman ongelman käytettäessä tietokonetta ja Andro
 Koska Firefoxin uusimman version ylläpitäminen auttaa suojaamaan sinua haavoittuvuuksilta, Firefoxin työpöytäversiot muodostavat säännöllisesti yhteyden Mozillan palvelimiin (tai muuhun palveluun, jota käytit Firefoxin asentamiseen) tarkistaakseen, onko saatavilla ohjelmistopäivityksiä. Firefoxin Android- ja iOS-versioiden päivityksiä hallinnoivat Googlen Play Store ja Applen App Store.
 
 Käsittelemme myös teknistä dataa ja asetustietoja suojautuaksemme haitallisilta lisäosilta.
-Näiden vakioprosessien lisäksi käytämme [Googlen Safe Browsing -palvelua](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) suojataksemme sinua haitallisilta latauksilta ja tietojenkalasteluhyökkäyksiltä. Verkkosivujen tiedot ja tekninen data validoidaan [virallisten sertifiointitahojen](https://support.mozilla.org/kb/secure-website-certificate) kanssa. Osana työtämme kaikkien internetin käyttäjien yksityisyyden ja turvallisuuden parantamiseksi keräämme teknistä dataa OHTTP:n kautta. Tavoitteenamme on ymmärtää ja estää verkossa tehtäviä tunnistusyrityksiä entistä tehokkaammin.
+Näiden vakioprosessien lisäksi käytämme [Googlen Safe Browsing -palvelua](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work) suojataksemme sinua haitallisilta latauksilta ja tietojenkalasteluhyökkäyksiltä. Verkkosivujen tiedot ja tekninen data validoidaan [virallisten sertifiointitahojen](https://support.mozilla.org/kb/secure-website-certificate) kanssa. Osana työtämme kaikkien internetin käyttäjien yksityisyyden ja turvallisuuden parantamiseksi keräämme teknistä dataa OHTTPS:n kautta. Tavoitteenamme on ymmärtää ja estää verkossa tehtäviä tunnistusyrityksiä entistä tehokkaammin.
 
 [Joidenkin Firefox-käyttäjien](https://support.mozilla.org/kb/firefox-dns-over-https) kohdalla Firefox reitittää DNS-pyynnöt resolver-palveluun, joka on hyväksynyt Mozillan [tiukat tietosuojastandardit resolver-palveluille](https://wiki.mozilla.org/Security/DOH-resolver-policy). Tämä tarjoaa lisäsuojaa tietosuojavuotoja vastaan paikallisverkoissa ja myös tiettyjä DNS-tietoturvahyökkäyksiä vastaan. DNS-pyyntöjesi järjestelmälokit poistetaan palvelusta 24 tunnin kuluessa, ja niitä käytetään vain DNS-selvityksiin. [Lue lisää](https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers) DNS:n käytöstä HTTPS-protokollan kanssa.
 
@@ -327,7 +327,7 @@ Saatamme joutua muuttamaan tätä käytäntöä ja ilmoituksiamme. Tässä tapau
             </td>
             <td>
                 <p>Opi <a href="https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox">poistamaan lisäosia tai ottamaan niitä käyttöön</a>.</p>
-                <p>Voit myös tarkastella <a href="https://www.mozilla.org/privacy/websites/">lisäosien verkkosivuston</a> <a href="https://addons.mozilla.org/firefox/">tietosuojaselostetta</a>.</p>
+                <p>Voit myös tarkastella <a href="https://addons.mozilla.org/firefox/">lisäosien verkkosivuston</a> <a href="https://www.mozilla.org/privacy/websites/">tietosuojaselostetta</a>.</p>
             </td>
         </tr>
         <tr>
@@ -359,7 +359,7 @@ Saatamme joutua muuttamaan tätä käytäntöä ja ilmoituksiamme. Tässä tapau
                     <li>Asetusdata</li>
                     <li>Yksilölliset tunnisteet</li>
                     <li>Järjestelmän suorituskykytiedot</li>
-                    <li>Selaustiedot (vain DNS käytettynä HTTP:n kautta)</li>
+                    <li>Selaustiedot (vain DNS käytettynä HTTPS:n kautta)</li>
                 </ul>
             </td>
             <td>

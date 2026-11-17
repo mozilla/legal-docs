@@ -158,13 +158,13 @@ Mozilla（及我們的伺服器）位於美國。由於我們是全球性公司�
 
 身為 Firefox 使用者，您有權：
 
-1.了解我們處理您哪些資料、處理原因及資料分享對象（本公告即為相關說明！）
-2.要求提供我們持有之您個人資料的副本
-3.要求攜出您的資料
-4.要求更正我們持有之不正確或不完整的個人資料
-5.要求刪除我們持有之您的個人資料（在特定情況下）
-6.在某些情況下，限制我們使用您的個人資料，或對此提出異議
-7.如果您對我們處理個人資料的方式有疑慮，可向相關資料保護主管機關提出申訴。我們希望您能先透過 [dpo@mozilla.com](mailto:dpo@mozilla.com) 與我們聯絡，但您也可以直接向相關[歐盟資料保護主管機關](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)反映，或尋找並聯絡當地的資料保護主管機關。
+1. 了解我們處理您哪些資料、處理原因及資料分享對象（本公告即為相關說明！）
+2. 要求提供我們持有之您個人資料的副本
+3. 要求攜出您的資料
+4. 要求更正我們持有之不正確或不完整的個人資料
+5. 要求刪除我們持有之您的個人資料（在特定情況下）
+6. 在某些情況下，限制我們使用您的個人資料，或對此提出異議
+7. 如果您對我們處理個人資料的方式有疑慮，可向相關資料保護主管機關提出申訴。我們希望您能先透過 [dpo@mozilla.com](mailto:dpo@mozilla.com) 與我們聯絡，但您也可以直接向相關[歐盟資料保護主管機關](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)反映，或尋找並聯絡當地的資料保護主管機關。
 
 如需就您的個人資料提出上述任何請求，請透過我們的[資料當事人存取請求入口網站](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)聯絡我們（Mozilla Corporation）；我們絕不會因任何人行使隱私權而予以歧視。如果您對個人資料，或我們的隱私原則有其他任何疑問，請透過 [compliance@mozilla.com](mailto:compliance@mozilla.com) 聯絡我們。
 
@@ -307,7 +307,7 @@ Mozilla 的預先釋出版 Firefox（透過 Nightly、Beta、Developer Edition�
                 </ul>
             </td>
             <td><strong>同意</strong>：當您選擇啟用 AI 聊天機器人時。</td>
-            <td>您可以進一步了解如何在 Firefox 中<a href="https://support.mozilla.org/kb/ai-chatbot">管理</a>或<a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">移除 </a>AI 聊天機器人。</td>
+            <td>您可以進一步了解如何在 Firefox 中<a href="https://support.mozilla.org/kb/ai-chatbot">管理</a>或<a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">移除</a> AI 聊天機器人。</td>
         </tr>
         <tr>
             <td>啟用附加元件（addons.mozilla.org，簡稱「AMO」），包括提供個人化建議</td>
