@@ -40,13 +40,21 @@ NOTICES = {
 
 # Localized text of links pointing to each version
 PREAMBLES = {
+    "ar": {
+        "preview": "نحن نحدّث إشعار الخصوصية الخاص بنا. انقر هنا لرؤية الإصدار الجديد.",
+        "current": "لرؤية إشعارنا الحالي، انقر هنا.",
+    },
     "cs": {
-        "preview": "Aktualizujeme naše Oznámení o ochraně osobních údajů. Kliknutím sem zobrazíte novou verzi.",
-        "current": "Pro zobrazení našeho aktuálního oznámení klikněte sem.",
+        "preview": "Aktualizujeme naše Prohlášení o ochraně osobních údajů. Kliknutím sem zobrazíte novou verzi.",
+        "current": "Pro zobrazení našeho aktuálního prohlášení klikněte sem.",
     },
     "de": {
         "preview": "Wir aktualisieren unseren Datenschutzhinweis. Klicken Sie hier, um die neue Version anzuzeigen.",
-        "current": "Zum Anzeigen unseres aktuellen Hinweises hier klicken.",
+        "current": "Klicken Sie hier, um unseren aktuellen Datenschutzhinweis zu lesen.",
+    },
+    "el": {
+        "preview": "Ενημερώνουμε τη Δήλωση απορρήτου μας. Κάντε κλικ εδώ για να δείτε τη νέα έκδοση.",
+        "current": "Για να δείτε την τρέχουσα δήλωσή μας, κάντε κλικ εδώ.",
     },
     "en": {
         "preview": "We’re updating our Privacy Notice. Click here to see the new version.",
@@ -54,10 +62,14 @@ PREAMBLES = {
     },
     "es-ES": {
         "preview": "Estamos actualizando nuestro Aviso de privacidad. Haga clic aquí para ver la nueva versión.",
-        "current": "Para ver nuestro aviso corriente, haga clic aquí.",
+        "current": "Para consultar nuestro aviso vigente, haga clic aquí.",
+    },
+    "fi": {
+        "preview": "Päivitämme tietosuojaselostettamme. Napsauta tästä nähdäksesi uuden version.",
+        "current": "Napsauta tästä nähdäksesi nykyisen tietosuojaselosteemme.",
     },
     "fr": {
-        "preview": "Nous avons mis à jour notre Politique de confidentialité. Cliquez ici pour voir la nouvelle version.",
+        "preview": "Nous mettons à jour notre Politique de confidentialité. Cliquez ici pour voir la nouvelle version.",
         "current": "Pour consulter notre politique actuelle, cliquez ici.",
     },
     "hu": {
@@ -66,19 +78,19 @@ PREAMBLES = {
     },
     "id": {
         "preview": "Kami memperbarui Pemberitahuan Privasi kami. Klik di sini untuk melihat versi barunya.",
-        "current": "Untuk melihat pemberitahuan terbaru kami, klik di sini.",
+        "current": "Untuk melihat Pemberitahuan Privasi kami yang berlaku saat ini, klik di sini.",
     },
     "it": {
         "preview": "Stiamo aggiornando la nostra Informativa sulla privacy. Fai clic qui per vedere la nuova versione.",
         "current": "Per consultare la nostra attuale informativa, fai clic qui.",
     },
     "ja": {
-        "preview": "プライバシーに関する通知を更新しました。新しいバージョンを表示するには、こちらをクリックしてください。",
-        "current": "最新版の通知を表示するには、こちらをクリックします。",
+        "preview": "プライバシーに関する通知を更新しています。新しいバージョンを表示するには、こちらをクリックしてください。",
+        "current": "現行の通知を確認するには、こちらをクリックしてください。",
     },
     "nl": {
         "preview": "We werken onze privacyverklaring bij. Klik hier om de nieuwe versie te bekijken.",
-        "current": "Klik hier als u onze huidige verklaring wilt weergeven.",
+        "current": "Klik hier om onze huidige privacyverklaring te bekijken.",
     },
     "pl": {
         "preview": "Aktualizujemy nasze Zasady prywatności. Kliknij tutaj, aby zobaczyć nową wersję.",
@@ -90,11 +102,19 @@ PREAMBLES = {
     },
     "ru": {
         "preview": "Мы обновляем наше Уведомление о конфиденциальности. Нажмите здесь, чтобы ознакомиться с новой версией.",
-        "current": "Для знакомства с нашим текущим уведомлением нажмите здесь.",
+        "current": "Нажмите здесь, чтобы ознакомиться с действующим Уведомлением о конфиденциальности.",
+    },
+    "tr": {
+        "preview": "Gizlilik Bildirimimizi güncelliyoruz. Yeni sürümü görmek için buraya tıklayın.",
+        "current": "Geçerli bildirimimizi görmek için buraya tıklayın.",
     },
     "zh-CN": {
         "preview": "我们正在更新《隐私声明》。点击此处查看新版本。",
         "current": "如需查看当前声明，请点击此处。",
+    },
+    "zh-TW": {
+        "preview": "我們正在更新隱私權公告。點擊此處查看新版本。",
+        "current": "若要查看目前的公告，請點擊此處。",
     },
 }
 
