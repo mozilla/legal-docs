@@ -3,7 +3,7 @@
 Data wejścia w życie: 22 kwietnia 2025 r.
 {: datetime="2025-04-22" }
 
-## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego
+## W firmie Mozilla wierzymy, że prywatność ma fundamentalne znaczenie dla zdrowego Internetu
 
 Dlatego właśnie tworzymy przeglądarki Firefox Focus i Klar oraz wszystkie nasze produkty, aby zapewnić użytkownikom większą kontrolę nad informacjami, które udostępniają online, oraz informacjami, które są nam udostępniane. W niniejszej Zasadach prywatności wyjaśniamy, jakie dane przetwarzamy, w jaki sposób je przetwarzamy i w jakich celach. Następnie wyjaśniamy, w jaki sposób użytkownik może dokonać wyboru sposobu przetwarzania przez nas jego danych.
 
@@ -59,7 +59,7 @@ Użytkownik ma prawo do:
 3. Żądania przeniesienia danych
 4. Żądania korekty wszelkich przechowywanych przez nas danych, które są niedokładne lub niekompletne
 5. Usunięcia przechowywanych przez nas danych osobowych użytkownika (w określonych okolicznościach)
-6. Usunięcia przechowywanych przez nas danych osobowych użytkownika (w określonych okolicznościach)
+6. Ograniczenia lub sprzeciwu wobec sposobu, w jaki wykorzystujemy dane osobowe użytkownika (w niektórych przypadkach)
 7. Złożenia skargi do odpowiedniego organu ochrony danych, jeśli użytkownik ma obawy dotyczące sposobu, w jaki postępujemy z jego danymi osobowymi. Wolimy, aby użytkownik najpierw skontaktował się z nami (na adres [dpo@mozilla.com](mailto:dpo@mozilla.com)), ale może również skontaktować się z odpowiednim [organem ochrony danych w UE](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en) lub wyszukać (i skontaktować się) z lokalnym organem ochrony danych
 
 Aby złożyć którykolwiek z powyższych wniosków dotyczących danych osobowych, należy skontaktować się z nami (Mozilla Corporation) za pośrednictwem naszego [Portalu wniosków o dostęp do danych](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0); nigdy nie będziemy dyskryminować nikogo za korzystanie z jego praw do prywatności. W razie jakichkolwiek innych pytań dotyczących danych osobowych lub naszych praktyk w zakresie ochrony prywatności, prosimy o kontakt pod adresem [compliance@mozilla.com](mailto:compliance@mozilla.com).
@@ -148,7 +148,7 @@ Może zaistnieć potrzeba zmiany niniejszych zasad i naszych powiadomień, w kt�
                     <li>Dane techniczne</li>
                     <li>Lokalizacja</li>
                     <li>Unikatowe identyfikatory</li>
-                    <li>Dane przeglądania (tylko protokół DNS over HTTP)</li>
+                    <li>Dane przeglądania (tylko protokół DNS over HTTPS)</li>
                 </ul>            
             </td>
             <td><strong>Uzasadniony interes</strong> w zapewnieniu dodatkowych środków bezpieczeństwa.</td>

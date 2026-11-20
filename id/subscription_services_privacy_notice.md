@@ -21,7 +21,7 @@ __Informasi pembayaran.__ Saat Anda berlangganan layanan yang mengharuskan langg
 
 ### Mozilla VPN {: #vpn }
 
-__Data interaksi.__ Pengumpulan data interaksi dinonaktifkan secara default. Jika Anda setuju, Mozilla akan menerima data tentang interaksi Anda dengan Mozilla VPN. Misalnya, kami akan bisa mengetahui beberapa hal seperti apakah Anda telah mengecualikan Aplikasi dari perlindungan (tetapi bukan aplikasinya), di berapa banyak perangkat Anda menggunakan Langganan Mozilla VPN, dan apakah Anda mengaktifkan fitur pembrokiran iklan atau tidak. Untuk tinjauan lengkap telemetri kami, Anda dapat mempelajari lebih lanjut dalam [data interaksi VPN](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn). Kami menggunakan data interaksi untuk meningkatkan kinerja dan stabilitas bagi pengguna kami, dan untuk mengukur kinerja layanan.
+__Data interaksi.__ Pengumpulan data interaksi dinonaktifkan secara default. Jika Anda setuju, Mozilla akan menerima data tentang interaksi Anda dengan Mozilla VPN. Misalnya, kami akan bisa mengetahui beberapa hal seperti apakah Anda telah mengecualikan Aplikasi dari perlindungan (tetapi bukan aplikasinya), di berapa banyak perangkat Anda menggunakan Langganan Mozilla VPN, dan apakah Anda mengaktifkan fitur pemblokiran iklan atau tidak. Untuk tinjauan lengkap telemetri kami, Anda dapat mempelajari lebih lanjut dalam [data interaksi VPN](https://dictionary.telemetry.mozilla.org/apps/mozilla_vpn). Kami menggunakan data interaksi untuk meningkatkan kinerja dan stabilitas bagi pengguna kami, dan untuk mengukur kinerja layanan.
 
 Selain itu, untuk membantu memahami efektivitas kampanye pemasaran kami, Mozilla dapat menerima alamat IP Anda selain data kampanye dan data perujuk seperti kampanye iklan yang Anda tanggapi dan sistem operasi Anda, jenis perangkat, pengidentifikasi perangkat, dan versi sistem operasi. Mozilla membagikannya kepada Adjust, tetapi kami tidak membagikan atau menyimpan alamat IP Anda. Baca [dokumentasi Adjust](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
@@ -39,7 +39,7 @@ __Data interaksi.__ Mozilla menerima data tentang interaksi Anda dengan layanan.
 
 * [HaveIbeenpwned.](https://haveibeenpwned.com/) HaveIbeenpwned menerima versi alamat email Anda yang sudah di-hash untuk melakukan pemindaian di mana data pribadi Anda mungkin sudah dibobol. HaveIbeenpwned menyimpan data pribadi ini untuk terus memindai pelanggaran baru; Anda dapat meminta penghapusan alamat email Anda dari HaveIbeenpwned melalui [mekanisme penolakan](https://haveibeenpwned.com/OptOut) mereka.
     
-* [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor menggunakan AWS agar dapat mengirimi Anda email sehubungan dengan Layanan Mozilla Monitor, yang mencakup Laporan Lengkap. Peringatan Pelanggaran, dan Tips Keamanan. Data ini akan dihapus jika Anda berhenti menghentikan langganan Monitor Anda.
+* [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor menggunakan AWS agar dapat mengirimi Anda email sehubungan dengan Layanan Mozilla Monitor, yang mencakup Laporan Lengkap, Peringatan Pelanggaran, dan Tips Keamanan. Data ini akan dihapus jika Anda menghentikan langganan Monitor Anda.
 
 * [Formstack.](https://www.formstack.com/) Mozilla Monitor menggunakan Formstack untuk menyimpan umpan balik yang secara opsional diberikan oleh pengguna. Untuk informasi tentang praktik privasi Formstack, baca [Kebijakan Privasi Formstack](https://www.formstack.com/legal).
   

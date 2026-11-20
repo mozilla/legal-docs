@@ -9,7 +9,7 @@ __Mozilla VPN__ beschermt internetverbindingen vanaf uw apparaat. Mozilla werkt 
 
 __Mozilla Monitor__ kan controleren of uw accounts betrokken zijn geweest in bekende gegevensinbreuken. In sommige regio's kan deze service u ook helpen bij het scannen op en het verwijderen van uw informatie op het web. 
 
-__Firefox Relay__ beschermt uw identiteit met veilige e-mailmaskering en, in sommige regio's, telefoonmaskering. Onze veilige en eenvoudig te gebruiken maskers voor e-mailadressen en telefoonnummers helpen uw identiteit privé te houden. U kunt zich daarmee anoniem kunt aanmelden voor nieuwe accounts en spamberichten, ongewenste oproepen en ongewenste e-mail voorkomen.  
+__Firefox Relay__ beschermt uw identiteit met veilige e-mailmaskering en, in sommige regio's, telefoonmaskering. Onze veilige en eenvoudig te gebruiken maskers voor e-mailadressen en telefoonnummers helpen uw identiteit privé te houden. U kunt zich daarmee anoniem aanmelden voor nieuwe accounts en spamberichten, ongewenste oproepen en ongewenste e-mail voorkomen.  
 
 In deze privacyverklaring wordt uitgelegd welke gegevens Mozilla VPN, Mozilla Monitor en Firefox Relay verzamelen en delen, en waarom. We houden ons daarnaast aan het [Privacybeleid van Mozilla](https://www.mozilla.org/privacy/) ten aanzien van hoe we informatie ontvangen, verzamelen en delen.
 
@@ -17,7 +17,7 @@ In deze privacyverklaring wordt uitgelegd welke gegevens Mozilla VPN, Mozilla Mo
 
 __Mozilla-accountinformatie.__ Voor deze services is een Mozilla-account vereist, dat uw e-mailadres, landinstellingen en IP-adres naar Mozilla verzendt. Meer informatie over [procedures voor Mozilla-accountgegevens](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-__Betalingsinformatie.__ Wanneer u zich abonneert op de services, verricht u een betaling via een van onze externe betalingsproviders: Stripe, Apple, PayPal, or Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
+__Betalingsinformatie.__ Wanneer u zich abonneert op de services, verricht u een betaling via een van onze externe betalingsproviders: Stripe, Apple, PayPal of Google Pay. Mozilla ontvangt een registratie van uw account (met onder meer uw factureringsadres en de laatste vier cijfers van uw betalingsmethode) en de status van het abonnement van uw account. Uw volledige betalingsgegevens worden niet opgeslagen door Mozilla.
 
 ### Mozilla VPN {: #vpn }
 
@@ -41,7 +41,7 @@ __Interactiegegevens.__ Mozilla ontvangt gegevens over uw interacties met de Ser
   
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor gebruikt AWS om via e-mail contact met u op te nemen in verband met de Mozilla Monitor-service. Dit omvat volledige rapporten, inbreukmeldingen en veiligheidstips. Deze gegevens worden verwijderd wanneer u uw Monitor-abonnement opzegt. 
 
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor gebruikt Formstack om feedback te registeren die optioneel door gebruikers wordt vertrekt. Zie het [Formstack-beleid](https://www.formstack.com/legal) voor informatie over de privacyprocedures van Formstack.
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor gebruikt Formstack om feedback te registreren die optioneel door gebruikers wordt verstrekt. Zie het [Formstack-beleid](https://www.formstack.com/legal) voor informatie over de privacyprocedures van Formstack.
   
 * [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor gebruikt Google Analytics voor het verkrijgen van meetwaarden over de interactie van gebruikers met onze websites. Dit helpt ons om sitecontent te verbeteren. Bezoek [Privacy en Beveiliging voor Google Analytics](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) voor meer informatie over hoe Google uw persoonlijke informatie gebruikt. U kunt de [add-on Google Analytics Opt-out in uw browser](https://tools.google.com/dlpage/gaoptout) installeren om gegevensverzameling over uw bezoeken aan de Service te voorkomen en gegevensdoorgifte aan Google Analytics te verbieden.
  
@@ -71,7 +71,7 @@ __Informatie die wij delen.__ Firefox Relay deelt informatie met derden om u de 
 
 ## Andere informatie die u moet weten
 
-U kunt meer te weten komen over het [beheren van uw gegevens](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) en hoe [synchroniseren inschakelt of uitschakelt](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer). Verder is veel van de informatie die we opslaan over Mozilla-accountgebruikers, eenvoudig toegankelijk door u [aan te melden](https://accounts.firefox.com/signin) bij uw account. Daar kunt u ook uw [instellingen voor het delen van gegevens](https://accounts.firefox.com/settings/) bijwerken. Neem bij aanvragen met betrekking tot uw persoonlijke gegevens contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
+U kunt meer te weten komen over het [beheren van uw gegevens](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) en hoe u [synchroniseren inschakelt of uitschakelt](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer). Verder is veel van de informatie die we opslaan over Mozilla-accountgebruikers, eenvoudig toegankelijk door u [aan te melden](https://accounts.firefox.com/signin) bij uw account. Daar kunt u ook uw [instellingen voor het delen van gegevens](https://accounts.firefox.com/settings/) bijwerken. Neem bij aanvragen met betrekking tot uw persoonlijke gegevens contact met ons op via onze [Portal voor toegangsaanvragen voor betrokkenen](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0).
 
 Als u andere vragen hebt over persoonlijke gegevens of onze privacyprocedures, kunt u contact met ons opnemen via compliance@mozilla.com.
 
