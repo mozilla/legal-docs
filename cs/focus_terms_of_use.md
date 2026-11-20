@@ -3,15 +3,15 @@
 Účinné od 16. září 2026
 {: datetime="2026-09-16" }
 
-Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým vytvořený komunitou tisíců lidí z celého světa.
+Firefox je bezplatný software webového prohlížeče s otevřeným zdrojovým kódem vytvořený komunitou tisíců lidí z celého světa.
 
-Pečlivě si prosím přečtěte tyto Podmínky používání (dále jen „Podmínky“) poskytování služeb, neboť vysvětlují důležité informace ohledně využívání kopie softwaru Firefox. Tyto Podmínky představují závaznou smlouvu mezi společností Mozilla Corporation (dále jen „Mozilla“) a vámi. Podrobnosti o postupech ochrany osobních údajů Firefox najdete v dokumentu [Oznámení o ochraně osobních údajů Firefox Focus a Klar](https://www.mozilla.org/privacy/firefox-focus/).
+Pečlivě si prosím přečtěte tyto Podmínky používání (dále jen „Podmínky“), neboť vysvětlují důležité informace ohledně využívání kopie softwaru Firefox. Tyto Podmínky představují závaznou smlouvu mezi společností Mozilla Corporation (dále jen „Mozilla“) a vámi. Podrobnosti o postupech ochrany osobních údajů Firefox najdete v dokumentu [Oznámení o ochraně osobních údajů Firefox Focus a Klar](https://www.mozilla.org/privacy/firefox-focus/).
 
 ## Mozilla vám poskytuje určitá práva a oprávnění
 
 Mozilla vám udílí osobní, nevýhradní licenci k instalaci a používání verze webového prohlížeče Firefox se „spustitelným kódem“, což je verze Firefox připravená ke spuštění z autorizovaného zdroje, které můžete otevřít a přímo používat.
 
-### Firefox je software s otevřeným zdrojovým
+### Firefox je software s otevřeným zdrojovým kódem
 
 Zdrojový kód pro Firefox vám poskytujeme za podmínek různých licencí s otevřeným zdrojovým kódem, včetně [Veřejné licence Mozilla](https://www.mozilla.org/MPL/). To znamená, že můžete používat, kopírovat, upravovat a distribuovat Firefox ostatním, pokud dodržujete licence s otevřeným zdrojovým kódem a [Pokyny pro ochranné známky Mozilla](https://www.mozilla.org/foundation/trademarks/policy/). Tyto podmínky se vztahují pouze na verzi Firefox se spustitelným kódem, nikoliv na zdrojový kód Firefox.
 
@@ -19,9 +19,9 @@ Pro přehrávání některých typů videí může Firefox stahovat moduly pro d
 
 ### Duševní vlastnictví společnosti Mozilla
 
-Mozilla vám neposkytuje žádná práva duševního vlastnictví k Firefox, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky vám například neposkytují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebí jejích poskytovatelů licence.
+Mozilla vám neposkytuje žádná práva duševního vlastnictví k Firefox, jež nejsou v těchto Podmínkách výslovně uvedeny. Tyto Podmínky vám například neposkytují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebo jejích poskytovatelů licence.
 
-## Vy společnosti Mozilla poskytuje určitá práva a oprávnění
+## Vy společnosti Mozilla poskytujete určitá práva a oprávnění
 
 Společnosti Mozilla udílíte práva nezbytná pro provozování Firefox. To zahrnuje zpracovávání vašich údajů v souladu s popisem v [Oznámení o ochraně osobních údajů Firefox Focus a Klar](https://www.mozilla.org/privacy/firefox-focus/). To zahrnuje rovněž nevýhradní, bezplatnou, celosvětovou licenci pro účely splnění vašich požadavků ohledně obsahu vámi vloženého do Firefoxu. To společnosti Mozilla neposkytuje žádné vlastnictví k příslušnému obsahu.
 
@@ -47,7 +47,7 @@ Společnost Mozilla se občas může rozhodnout tyto Podmínky aktualizovat. Akt
 
 ### Ukončení
 
-Tyto Podmínky platí, dokud se vy nebo společnost Mozilla nerozhodnete je ukončit. Vypovědět je můžete kdykoliv bez udání důvodu tím, přestanete Firefox používat. Společnost Mozilla je oprávněna pozastavit nebo ukončit přístup kohokoliv k Firefoxu kdykoliv z libovolného důvodu, včetně případu, kdy se společnost Mozilla rozhodne Firefox nadále nenabízet. Pokud se rozhodneme pozastavit nebo ukončit váš přístup, pokusíme se vás o tom informovat na e-mailovou adresu přiřazenou k vašemu účtu nebo při vašem následujícím pokusu o přístup k vašemu účtu.
+Tyto Podmínky platí, dokud se vy nebo společnost Mozilla nerozhodnete je ukončit. Vypovědět je můžete kdykoliv bez udání důvodu tím, že přestanete Firefox používat. Společnost Mozilla je oprávněna pozastavit nebo ukončit přístup kohokoliv k Firefoxu kdykoliv z libovolného důvodu, včetně případu, kdy se společnost Mozilla rozhodne Firefox nadále nenabízet. Pokud se rozhodneme pozastavit nebo ukončit váš přístup, pokusíme se vás o tom informovat na e-mailovou adresu přiřazenou k vašemu účtu nebo při vašem následujícím pokusu o přístup k vašemu účtu.
 
 ## Nesete odpovědnost za důsledky vašeho využívání Firefoxu
 
@@ -61,7 +61,7 @@ Nebudete dělat nic, co by ovlivňovalo či narušovalo služby nebo produkty sp
 
 ## Existují určitá důležitá omezení odpovědnosti společnosti Mozilla
 
-**V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání Firefoxu nebo jakákoliv omezení Firefoxu. Společnost Mozilla výslovně vylučuje následující: Nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, narušení podnikání, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena maximální výši 500 USD.**
+**V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání Firefoxu nebo jakákoliv omezení Firefoxu. Společnost Mozilla výslovně vylučuje následující: Nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, narušení podnikání, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena na maximální výši 500 USD.**
 
 V souladu s právními předpisy vaší země vám mohou náležet další práva. Nic, co je uvedeno v těchto Podmínkách nebude mít dopad na taková práva, pokud se uplatní.
 

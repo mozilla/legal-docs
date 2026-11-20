@@ -7,11 +7,11 @@
 
 __Mozilla VPN__ chrání internetové připojení vašeho zařízení. Mozilla spolupracuje se společností Mullvad na soukromém a bezpečném šifrování vašeho internetového provozu.
 
-__Mozilla Monitor__ může provádět monitorování za účelem sledování, zda některý z vašich účtů nestal předmětem známých narušení dat. V některých regionech vám rovněž pomáhá vyhledávat a odstraňovat informace z míst na webu. 
+__Mozilla Monitor__ může provádět monitorování za účelem sledování, zda se některý z vašich účtů nestal předmětem známých narušení dat. V některých regionech vám rovněž pomáhá vyhledávat a odstraňovat informace z míst na webu. 
 
 __Firefox Relay__ chrání vaši identitu formou zabezpečeného e-mailu a v některých regionech zajišťuje maskování telefonního čísla. Náš zabezpečený e-mail se snadným použitím a maskování telefonního čísla pomáhají se zachováním utajení vaší identity, abyste si mohli nové účty zakládat anonymně, zastavit nevyžádané textové zprávy a hromadná volání a ve své složce došlé pošty našli pouze e-maily, které skutečně chcete.  
 
-Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje Mozilla VPN, Mozilla Monitor a Firefox Relay shromažďují, sdílejí a proč. S ohledem na způsob získáváními, zpracovávání a sdílení informací rovněž dodržujeme [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
+Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje Mozilla VPN, Mozilla Monitor a Firefox Relay shromažďují, sdílejí a proč. S ohledem na způsob získávání, zpracovávání a sdílení informací rovněž dodržujeme [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
 
 ## Co byste měli vědět
 
@@ -29,7 +29,7 @@ __Technické údaje.__ V rámci všech služeb je vaše IP adresa dočasně ucho
 
 Pokud navíc poskytnete souhlas se shromažďováním dat v rámci aplikace, náš partner Sentry.io bude získávat technické údaje pro účely monitorování chyb a výkonu. Podrobnější informace získáte v [Zásadách ochrany osobních údajů Sentry.io](https://sentry.io/privacy/).
 
-__Údaje o poloze.__ Společnost Mozilla získává vaši adresu IP v případě, že se zaregistrujete k používání našich služeb a budete je používat, přičemž takové informace jsou shromažďovány v rámci protokolů našich serverů po dobu 90 dní; adresu IP používáme pro přibližné určení vašeho místa, protože dostupnost služeb předplatného Mozillla, ceny a nabídky mohou záviset na vaší zemi. Rovněž je používáme pro účely zabránění podvodům a zneužití napříč našimi produkty.
+__Údaje o poloze.__ Společnost Mozilla získává vaši adresu IP v případě, že se zaregistrujete k používání našich služeb a budete je používat, přičemž takové informace jsou shromažďovány v rámci protokolů našich serverů po dobu 90 dní; adresu IP používáme pro přibližné určení vašeho místa, protože dostupnost služeb předplatného Mozilla, ceny a nabídky mohou záviset na vaší zemi. Rovněž je používáme pro účely zabránění podvodům a zneužití napříč našimi produkty.
 
 __Údaje o síti.__ Když aktivujete službu Mozilla VPN, zašifruje váš internetový provoz a odešle jej společnosti Mullvad. Při používání služby Mozilla VPN neuchovává společnost Mozilla ani náš partner Mullvad za žádných okolností žádné protokoly o vaší síťové aktivitě. Další informace najdete v [Zásadách ochrany osobních údajů společnosti Mullvad](https://mullvad.net/help/no-logging-data-policy/).
 
@@ -47,13 +47,13 @@ __Údaje o interakci.__ Mozilla získává údaje o vašich interakcích se slu�
  
 ### Firefox Relay {: #relay }
 
-__Údaje o interakci.__ Společnost Mozilla získává data o vaší interakci se službou Firefox Relay, například když se přihlásíte a odhlásíte, případně nastavíte prředvolby. Podrobnější informace najdete v části [Data o interakci se službou Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); shromažďování těchto dat můžete odmítnout zapnutím funkce [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) ve svém prohlížeči. 
+__Údaje o interakci.__ Společnost Mozilla získává data o vaší interakci se službou Firefox Relay, například když se přihlásíte a odhlásíte, případně nastavíte předvolby. Podrobnější informace najdete v části [Data o interakci se službou Relay](https://github.com/mozilla/fx-private-relay/blob/main/METRICS.md); shromažďování těchto dat můžete odmítnout zapnutím funkce [Do Not Track (DNT)](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature) ve svém prohlížeči. 
 
 Obecněji může společnost Mozilla rovněž používat soubory cookies, informace o zařízení a adresy IP, společně se soubory cookies a službami třetích stran, aby jí pomohly souhrnně pochopit způsob, jakým uživatelé využívají naše produkty, služby, sdělení, webové stránky, online kampaně, snippety, zařízení a další platformy. Používáme:
 
-* Google Analytics, která umisťuje soubor cookie do vašeho zařízení za účelem získání metrik o tom, jak uživatelé používají naše webové stránky. To nám pomáhá vylepšovat obsah stránek. Pokud chcete zabránit Google Analytics ve shromažďování dat o vašem používání služby Mozilla Monitor, můžete nainstalovat [Doplněk prohlížeče odmítnutí Google Analyticson](https://tools.google.com/dlpage/gaoptout).
+* Google Analytics, která umisťuje soubor cookie do vašeho zařízení za účelem získání metrik o tom, jak uživatelé používají naše webové stránky. To nám pomáhá vylepšovat obsah stránek. Pokud chcete zabránit Google Analytics ve shromažďování dat o vašem používání služby Mozilla Monitor, můžete nainstalovat [Doplněk prohlížeče odmítnutí Google Analytics](https://tools.google.com/dlpage/gaoptout).
 
-__Technické údaje.__ Mozilla obdrží základní informace o nainstalované verzi softwaru doplňku Relaya o zařízení, na kterém je instalován, včetně operačního systému a konfigurace hardwaru. V rámci všech služeb je vaše IP adresa dočasně uchovávána po dobu 90 dnů jako součást protokolů našeho serveru. Technické údaje používáme k vylepšení výkonu a stability pro naše uživatele a k měření výkonu služeb.
+__Technické údaje.__ Mozilla obdrží základní informace o nainstalované verzi softwaru doplňku Relay a o zařízení, na kterém je instalován, včetně operačního systému a konfigurace hardwaru. V rámci všech služeb je vaše IP adresa dočasně uchovávána po dobu 90 dnů jako součást protokolů našeho serveru. Technické údaje používáme k vylepšení výkonu a stability pro naše uživatele a k měření výkonu služeb.
 
 __Údaje o poloze.__ Společnost Mozilla získává vaši adresu IP, když se zaregistrujete ke službám a využíváte je. IP adresu používáme k přibližnému určení vaší polohy, neboť dostupnost, ceny a nabídky služeb předplatného Mozilla mohou záviset na vaší zemi. Vaši adresu IP rovněž používáme pro účely zabránění podvodům a zneužití napříč našimi produkty.
 

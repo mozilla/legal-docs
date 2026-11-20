@@ -26,7 +26,7 @@ Společnost Mozilla je globální organizací a naše počítače a počítače 
 ### Vaše platba
 __Platba.__ Služby nabízíme jako automaticky obnovované předplatné. Když se zaregistrujete pro placenou verzi některé z našich služeb, udílíte nám právo účtovat prostřednictvím vámi uvedené platební metody poplatky za předplatné za první období služeb, které si objednáte. Vaše předplatné se obnoví automaticky na konci každého období a vy nám udílíte oprávnění účtovat poplatek za předplatné pro každé období. Pokud přestanete platit, okamžitě pozastavíme váš účet a pokud nezaplatíte, můžeme jej po 2 měsících odstranit.
 
-__Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k předplatnému služeb prostřednictvím webových stránek společnosti Mozilla, pokud účet zrušíte během prvních 30 dní, můžete požádat o vrácení peněz a společnost Mozilla vám poplatek za prví období předplatného vrátí. Tato nabídka se vztahuje pouze na první předplatné. Toto platí navíc vedle všech případných dalších práv, které vám náleží v souladu s právními předpisy o ochraně spotřebitele vaší země.
+__Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k předplatnému služeb prostřednictvím webových stránek společnosti Mozilla, pokud účet zrušíte během prvních 30 dní, můžete požádat o vrácení peněz a společnost Mozilla vám poplatek za první období předplatného vrátí. Tato nabídka se vztahuje pouze na první předplatné. Toto platí navíc vedle všech případných dalších práv, které vám náleží v souladu s právními předpisy o ochraně spotřebitele vaší země.
 
 __Nákup přes Apple Store nebo Google Play Store.__ Pokud jste si předplatné zakoupili prostřednictvím obchodu s aplikacemi Apple Store nebo Google Play Store, vaše platba se řídí podmínkami příslušného obchodu s aplikacemi. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy je nutné směřovat na společnost Apple, případně Google.
 
@@ -111,13 +111,13 @@ Pro podrobnější informace o datech, které společnost Mozilla a organizace H
 
 __Vaše zpětná vazba a návrhy.__ Pokud společnosti Mozilla předložíte jakékoliv nápady, návrhy nebo zpětnou vazbu ohledně služeb, udílíte společnosti Mozilla oprávnění tyto informace využívat bezplatně a bez jakýchkoliv dalších závazků.
 
-__Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatelé licence vám neposkytují žádná práva k duševnímu vlastnictví v rámci služeb, jež nejsou v těchto Podmínkách výslovně uvedena. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebí jejích poskytovatelů licence. 
+__Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatelé licence vám neposkytují žádná práva k duševnímu vlastnictví v rámci služeb, jež nejsou v těchto Podmínkách výslovně uvedena. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebo jejích poskytovatelů licence. 
 
 ### Nesete odpovědnost za důsledky vašeho využívání služeb
 
 * Rovněž souhlasíte, že vaše využívání Služeb bude v souladu se [Zásadami přijatelného používání](https://www.mozilla.org/about/legal/acceptable-use/) společnosti Mozilla.
 * Společnosti Mozilla poskytujete ujištění, že služby nebudete využívat v rozporu s právem jakýchkoliv osob nebo v rozporu s jakýmikoliv právními předpisy.
-* V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání služeb, za jakákoliv omezení služeb ani za případné nároky vyplývající z těchto podmínek. Společnost Mozilla výslovně vylučuje následující: Nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, přerušení prací, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena maximální výši 500 USD.
+* V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání služeb, za jakákoliv omezení služeb ani za případné nároky vyplývající z těchto podmínek. Společnost Mozilla výslovně vylučuje následující: Nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, přerušení prací, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena na maximální výši 500 USD.
 * Souhlasíte s tím, že společnost Mozilla odškodníte a budete bránit před veškerými závazky nebo nároky vyplývajícími z vaší účasti na službách, a to v rozsahu přípustném platnými právními předpisy.
 * Společnost Mozilla služby poskytuje „tak jak jsou“. V rozsahu přípustném platnými právními předpisy společnost Mozilla výslovně vylučuje veškeré zákonné záruky nebo garance, jako jsou záruky „prodejnosti“, „vhodnosti ke konkrétnímu účelu“, „neporušování práv třetích osob“ a záruky vyplývající z jednání, využití nebo obchodu.
 * V souladu s právními předpisy vaší země vám mohou náležet další práva. Nic, co je uvedeno v těchto Podmínkách poskytování služeb nebude mít dopad na taková práva, pokud se uplatní.
@@ -130,7 +130,7 @@ __Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatel�
 
 Pokud ukončíme váš přístup ke službám bez konkrétní příčiny, budete mít nadále přístup ke službám po dobu stávajícího fakturačního období, nebo vám vrátíme částku za aktuální měsíc. Vyhrazujeme si nicméně právo ukončit vaše používání služeb s okamžitou platností, pokud se rozumně domníváme, že jste se dopustili porušení Podmínek používání, nebo způsobili jakékoliv jiné porušení těchto Podmínek.
 
-__Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu touto mezi anglickou verzí smlouvy a překladem má tato anglická verze přednost.
+__Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu mezi touto anglickou verzí smlouvy a překladem má tato anglická verze přednost.
 
 ## Kontaktní údaje společnosti Mozilla
 

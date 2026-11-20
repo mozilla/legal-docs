@@ -26,7 +26,7 @@ Rovněž souhlasíte, že vaše využívání Služeb bude v souladu se [Zásada
 
 __Vaše zpětná vazba a návrhy.__ Pokud společnosti Mozilla předložíte jakékoliv nápady, návrhy nebo zpětnou vazbu ohledně MDN Plus nebo služeb, které v rámci MDN Plus využíváte, udílíte společnosti Mozilla oprávnění tyto informace využívat bezplatně a bez jakýchkoliv dalších závazků.
 
-__Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatelé licence vám neposkytují žádná práva k duševnímu vlastnictví v rámci Služeb, jež nejsou v těchto Podmínkách výslovně uvedena. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebí jejích poskytovatelů licence. Software společnosti Mozilla se distribuuje pod aktuální verzí licence Mozilla Public License či jiných podobně permisivních licencí a za jejich podmínek.
+__Duševní vlastnictví společnosti Mozilla.__ Mozilla ani její poskytovatelé licence vám neposkytují žádná práva k duševnímu vlastnictví v rámci Služeb, jež nejsou v těchto Podmínkách výslovně uvedena. Tyto Podmínky například neupravují právo užívání jakýchkoliv autorských práv, ochranných známek či jiných odlišných znaků značky společnosti Mozilla nebo jejích poskytovatelů licence. Software společnosti Mozilla se distribuuje pod aktuální verzí licence Mozilla Public License či jiných podobně permisivních licencí a za jejich podmínek.
 
 Pro podrobnější informace o způsobu fungování MDN Plus se můžete podívat na zdrojový kód, který služby využívají, [yari](https://github.com/mdn/yari), [kuma](https://github.com/mdn/kuma) a [infra](https://github.com/mdn/infra).
 
@@ -34,7 +34,7 @@ Pro podrobnější informace o způsobu fungování MDN Plus se můžete podíva
 
 __Platba.__ Službu MDN Plus nabízíme formou automaticky se obnovující předplacené služby. Když se zaregistrujete, udílíte nám právo účtovat prostřednictvím vámi uvedené platební metody poplatky za předplatné za první období Služeb. Vaše předplatné se obnoví automaticky na konci každého období a vy nám udílíte oprávnění účtovat poplatek za předplatné pro každé období. Pokud přestanete platit, okamžitě pozastavíme váš účet a pokud nezaplatíte, můžeme jej po 2 měsících odstranit.
 
-__Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k předplatnému MDN Plus prostřednictvím webových stránek společnosti Mozilla, pokud účet zrušíte během prvních 30 dní, můžete požádat o vrácení peněz a společnost Mozilla vám poplatek za prví období předplatného vrátí. Tato nabídka se vztahuje pouze na první předplatné. Toto platí navíc vedle všech případných dalších práv, které vám náleží v souladu s právními předpisy o ochraně spotřebitele vaší země.
+__Zásada 30denního vrácení peněz.__ Když se poprvé zaregistrujete k předplatnému MDN Plus prostřednictvím webových stránek společnosti Mozilla, pokud účet zrušíte během prvních 30 dní, můžete požádat o vrácení peněz a společnost Mozilla vám poplatek za první období předplatného vrátí. Tato nabídka se vztahuje pouze na první předplatné. Toto platí navíc vedle všech případných dalších práv, které vám náleží v souladu s právními předpisy o ochraně spotřebitele vaší země.
 
 ## Své předplatné můžete kdykoliv zrušit.
 
@@ -44,7 +44,7 @@ __Zrušení.__ Své předplatné MDN Plus můžete kdykoliv zrušit. Můžete ta
 
 * Společnosti Mozilla poskytujete ujištění, že Služby nebudete využívat v rozporu s právem jakýchkoliv osob nebo v rozporu s jakýmikoliv právními předpisy.
 
-* V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání Služeb, za jakákoliv omezení služeb ani za případné nároky vyplývající z těchto podmínek. Společnost Mozilla výslovně vylučuje následující: nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, přerušení prací, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena maximální výši 500 USD.
+* V rozsahu povoleném platnými právními předpisy souhlasíte, že společnost Mozilla neponese žádnou odpovědnost žádným způsobem za případnou nemožnost využívání Služeb, za jakákoliv omezení služeb ani za případné nároky vyplývající z těchto podmínek. Společnost Mozilla výslovně vylučuje následující: nepřímé, speciální, náhodné, následné nebo příkladné škody, přímé nebo nepřímé škody ze ztráty goodwillu, přerušení prací, ztráty zisku, ztráty dat nebo poruch počítače. Veškerá odpovědnost společnosti Mozilla související s touto smlouvou je omezena na maximální výši 500 USD.
 
 * Souhlasíte s tím, že společnost Mozilla odškodníte a budete bránit před veškerými závazky nebo nároky vyplývajícími z vaší účasti ve MDN Plus, a to v rozsahu přípustném platnými právními předpisy.
 
@@ -60,7 +60,7 @@ __Zrušení.__ Své předplatné MDN Plus můžete kdykoliv zrušit. Můžete ta
 
 Pokud ukončíme váš přístup ke Službám bez konkrétní příčiny, budete mít nadále přístup ke Službám po dobu stávajícího fakturačního období, nebo vám vrátíme částku za aktuální měsíc. Vyhrazujeme si nicméně právo ukončit vaše používání Služeb s okamžitou platností, pokud se rozumně domníváme, že jste se dopustili porušení Podmínek používání, nebo způsobili jakékoliv jiné porušení těchto Podmínek.
 
-* __Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu touto mezi anglickou verzí smlouvy a překladem má tato anglická verze přednost.
+* __Volba práva.__ Na tuto smlouvu se uplatní zákony státu Kalifornie s vyloučením ustanovení kolizních norem státu Kalifornie. V případě jakéhokoliv rozporu mezi touto anglickou verzí smlouvy a překladem má tato anglická verze přednost.
 
 ## Kontaktní údaje společnosti Mozilla:
 

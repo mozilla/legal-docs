@@ -5,15 +5,15 @@
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
-Proto vytváříme Firefox Focus a Klar a veškeré naše produkty tak, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. V tomto oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje zpracováváme, jak je zpracováváni a k jakým účelům. Následně vysvětlujeme, jak můžete uplatnit své volby ohledně našeho způsobu zpracování vašich informací.
+Proto vytváříme Firefox Focus a Klar a veškeré naše produkty tak, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. V tomto oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje zpracováváme, jak je zpracováváme a k jakým účelům. Následně vysvětlujeme, jak můžete uplatnit své volby ohledně našeho způsobu zpracování vašich informací.
 
 ## Jak společnost Mozilla zpracovává vaše údaje
 
 ### Poskytování služeb Firefox Focus a Klar pro vás
 
-Focus a Klar zpracovávají technická data a data nastavení, stejně jako historii prohlížení, data o webovém formátu, dočasné internetové soubory a soubory cookies **ve vašem zařízení** za účelem poskytování základních funkcí prohlížeče, odlišení vašeho zařízení od ostatních, zapamatování a zachovávání vašich nastavení. To znamená, že tyto údaje zůstávají ve vašem zařízení, pokud není v tomto Oznámení výslovně uvedeno jinak. Vaše údaje o prohlížení se z vašeho zařízení vymažou vždy, když svůj prohlížeč zavřete.
+Focus a Klar zpracovávají technická data a data nastavení, stejně jako historii prohlížení, data webových formulářů, dočasné internetové soubory a soubory cookies **ve vašem zařízení** za účelem poskytování základních funkcí prohlížeče, odlišení vašeho zařízení od ostatních, zapamatování a zachovávání vašich nastavení. To znamená, že tyto údaje zůstávají ve vašem zařízení, pokud není v tomto Oznámení výslovně uvedeno jinak. Vaše údaje o prohlížení se z vašeho zařízení vymažou vždy, když svůj prohlížeč zavřete.
 
-Navíc, pokud se rozhodnete takovou možnost povolit, zpracováváno může být i vaše přesné místo pro funkce související s místem pro webové stránky, jako jsou Mapy Google; přístup k těmto údajům z vašeho zařízení je využíván výhradně webovými stránkami, u kterých to povolíte - nejsou odesílány na servery společnosti Mozilla. Kdykoliv můžete kdykoliv klepnout na ikonu odpadkového koše ve své liště nástrojů a odstranit tak své údaje o prohlížení nebo aktualizovat vaše [oprávnění pro lokalizaci](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
+Navíc, pokud se rozhodnete takovou možnost povolit, zpracováváno může být i vaše přesné místo pro funkce související s místem pro webové stránky, jako jsou Mapy Google; přístup k těmto údajům z vašeho zařízení je využíván výhradně webovými stránkami, u kterých to povolíte - nejsou odesílány na servery společnosti Mozilla. Kdykoliv můžete klepnout na ikonu odpadkového koše ve své liště nástrojů a odstranit tak své údaje o prohlížení nebo aktualizovat vaše [oprávnění pro lokalizaci](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
 
 ### Poskytování a vylepšování funkce vyhledávání
 
@@ -55,7 +55,7 @@ Společnost Mozilla Corporation (a naše servery) jsou umístěny ve Spojených 
 Náleží vám následující práva:
 
 1. být informován/a o tom, které údaje o vás zpracováváme, proč a s kým jsou sdíleny (to je toto Oznámení!);
-2. požadovat kopii údajů, které o váš uchováváme;
+2. požadovat kopii údajů, které o vás uchováváme;
 3. požadovat přenositelnost vašich údajů;
 4. požadovat nápravu jakýchkoliv údajů, které o vás uchováváme, pokud jsou nepřesné nebo neúplné;
 5. nechat odstranit osobní údaje, které o vás uchováváme (za určitých okolností);
@@ -97,7 +97,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
 | Jazykové předvolby | Váš odvozený nebo preferovaný jazyk (pokud jej uvedete v nastavení) pro interakci s našimi službami. | Jazyk. |
 | Jedinečné identifikační kódy | Toto jsou jedinečné identifikační kódy, které mohou být vytvořeny v různých okamžicích pro správu vašich interakcí se službou. | Client_id, session_id. |
 | Data o interakcích | Toto jsou údaje o tom, jak s našimi službami interagujete, jako například kolik vyhledávání jste uskutečnili. | Počet kliknutí, počet provedených vyhledávání, čas strávený na stránce. |
-| Údaje o vyhledávání | Toto jsou údaje o dotazech hledaných v rámci vyhledávání. | Vyhledávaná pojem („aktuální počasí v Bostonu“). |
+| Údaje o vyhledávání | Toto jsou údaje o dotazech hledaných v rámci vyhledávání. | Vyhledávaný pojem („aktuální počasí v Bostonu“). |
 | Údaje o procházení | Toto jsou informace o navštívených webových stránkách a adresách URL. | Konkrétní adresy URL. |
 
 ## Právní základy
@@ -130,7 +130,7 @@ Tyto zásady a naše oznámení budeme v určitých případech muset upravit, a
             <td><strong>Zákonný zájem</strong> na poskytování funkce vyhledávání.</td>
         </tr>
         <tr>
-            <td>Údržba zlepšování funkcí, výkonu a stability</td>
+            <td>Údržba a zlepšování funkcí, výkonu a stability</td>
             <td>
                 <ul>
                     <li>Technické údaje</li>

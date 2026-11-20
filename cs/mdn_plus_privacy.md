@@ -7,7 +7,7 @@ Verze 1.12 platná od 1. listopadu 2023
 
 MDN Plus je předplatné služby, které poskytuje prémiové funkce. Cílem MDN Plus je poskytnout vývojářům přizpůsobené zkušenosti na platformě MDN, čímž se zvyšuje jejich produktivita a úspěch roste každým dnem.
 
-Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje MDN Plus shromažďuje, sdílí a proč. S ohledem na způsob získáváními, zpracovávání a sdílení informací rovněž dodržujeme [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
+Toto oznámení o ochraně osobních údajů vysvětluje, jaké údaje MDN Plus shromažďuje, sdílí a proč. S ohledem na způsob získávání, zpracovávání a sdílení informací rovněž dodržujeme [Zásady ochrany osobních údajů Mozilla](https://www.mozilla.org/privacy/).
 
 ## Co byste měli vědět:
 

@@ -5,7 +5,7 @@ Poslední aktualizace 10. srpna 2026
 
 ## Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.
 
-Proto vytváříme naše produkty a služby, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. V tomto oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje zpracováváme, jak je zpracováváni a k jakým účelům. Následně vysvětlujeme, jak můžete uplatnit své volby ohledně našeho způsobu zpracování vašich informací.
+Proto vytváříme naše produkty a služby, abyste měli větší kontrolu nad informacemi, které sdílíte online, a informacemi, které sdílíte s námi. V tomto oznámení o ochraně osobních údajů vysvětlujeme, jaké údaje zpracováváme, jak je zpracováváme a k jakým účelům. Následně vysvětlujeme, jak můžete uplatnit své volby ohledně našeho způsobu zpracování vašich informací.
 
 ## Jak společnost Mozilla zpracovává vaše údaje
 
@@ -15,7 +15,7 @@ Proto vytváříme naše produkty a služby, abyste měli větší kontrolu nad 
 
 Společnost Mozilla rovněž shromažďuje [určité údaje](#bookmark-how-we-use-data), jako jsou technická data a údaje o nastavení, aby bylo možné poskytovat základní funkce účtu Mozilla a příslušné propojené služby, připojovat nová zařízení, zapamatovat si a respektovat vaše nastavení a poskytovat vám funkce, jako jsou synchronizace, naše zabudovaná VPN nebo Kolekce odkazů.
 
-Pokud povolíte synchronizaci, společnost Mozilla získá informace, že provádíte synchronizaci mezi svými zařízeními v šifrované podobě; ty mohou zahrnovat karty Firefox, doplňky, hesla, informace pro automatické vyplňování formulářům záložky, historii a předvolby. Toto šifrování je komplexní: vaše synchronizované údaje jsou šifrovány před opuštěním vašeho prohlížeče a dešifrovat je může pouze další klient synchronizace s šifrovacími klíči; společnost Mozilla tyto informace dešifrovat nemůže.
+Pokud povolíte synchronizaci, společnost Mozilla získá informace, že provádíte synchronizaci mezi svými zařízeními v šifrované podobě; ty mohou zahrnovat karty Firefox, doplňky, hesla, informace pro automatické vyplňování formulářů, záložky, historii a předvolby. Toto šifrování je komplexní: vaše synchronizované údaje jsou šifrovány před opuštěním vašeho prohlížeče a dešifrovat je může pouze další klient synchronizace s šifrovacími klíči; společnost Mozilla tyto informace dešifrovat nemůže.
 
 Pokud si zakoupíte předplatné služeb, které vyžadují placené předplatné, vaše platba bude zpracována v souladu s dokumentem [Oznámení o ochraně osobních údajů služeb s předplatným společnosti Mozilla](https://www.mozilla.org/privacy/subscription-services/). Společnost Mozilla obdrží záznam o vašem účtu (včetně vaší fakturační adresy a posledních čtyř číslic vaší platební metody) a informaci o stavu předplatného vašeho účtu. Společnost Mozilla neukládá úplné podrobnosti o vaší platbě.
 
@@ -33,7 +33,7 @@ Pokud používáte propojené služby, vaše údaje budou zpracovávány v soula
 * [Smart Window](https://www.mozilla.org/privacy/smart-window/)
 * [Služby s předplatným společnosti Mozilla](https://www.mozilla.org/privacy/subscription-services/) pro Mozilla VPN, Mozilla Monitor a Firefox Relay
 
-Pokud služby propojené s účtem Mozilla zaznamenají nečekaný problém (například pád), využijeme služeb třetích osob ke shromažďování technických dat a údajů o interakcích, jako jsou chybová hlášení, informace o zařízení a stav aplikace v okamžiku pásu, které nám pomohou diagnostikovat a opravit problémy našich služeb.
+Pokud služby propojené s účtem Mozilla zaznamenají nečekaný problém (například pád), využijeme služeb třetích osob ke shromažďování technických dat a údajů o interakcích, jako jsou chybová hlášení, informace o zařízení a stav aplikace v okamžiku pádu, které nám pomohou diagnostikovat a opravit problémy našich služeb.
 
 *Podrobnější informace včetně postupu úpravy vašeho nastavení údajů:* Svá [nastavení shromažďování údajů účtů Mozilla](https://support.mozilla.org/kb/firefox-accounts-managing-account-data) můžete kdykoliv aktualizovat. Podívejte se prosím na příslušné oznámení pro nastavení vašich údajů v souvislosti s případnými propojenými službami.
 
@@ -51,7 +51,7 @@ V rámci činností uvedených v tomto oznámení, jako je pochopení používá
 
 ### Komunikace s vámi, včetně v rámci marketingu našich služeb
 
-Údaje o vašem účtu využíváme ke komunikaci s vámi. Můžeme vás kontaktovat z důvodů jako jsou upozornění v případ, že zjistíte podezřelé aktivity na vašem účtu, k ověření změn informací vašeho účtu, o odesílání marketingových sdělení nebo k odpovědím na komunikaci zákaznické podpory a pro řízení naší komunikace s vámi využíváme nezávislé poskytovatele služeb. Rovněž zpracováváme data o interakci související s těmito sděleními pro lepší pochopení, kdo je obdržel, a pro zajištění zvýšení relevance našich sdělení a jejich užitečnosti pro vás.
+Údaje o vašem účtu využíváme ke komunikaci s vámi. Můžeme vás kontaktovat z důvodů jako jsou upozornění v případě, že zjistíme podezřelé aktivity na vašem účtu, k ověření změn informací vašeho účtu, o odesílání marketingových sdělení nebo k odpovědím na komunikaci zákaznické podpory a pro řízení naší komunikace s vámi využíváme nezávislé poskytovatele služeb. Rovněž zpracováváme data o interakci související s těmito sděleními pro lepší pochopení, kdo je obdržel, a pro zajištění zvýšení relevance našich sdělení a jejich užitečnosti pro vás.
 
 ### Splnění platných právních předpisů a identifikace a prevence škodlivé, neoprávněné nebo nezákonné činnosti
 
@@ -61,7 +61,7 @@ Stejně tak můžeme být povinni zpracovávat vaše osobní údaje za účelem 
 * Reakce na požadavky ohledně uplatnění práva na ochranu osobních údajů, jako jsou práva na přístup k vašim osobních údajům nebo jejich odstranění.
 * Identifikace, vyšetřování a řešení potenciálních podvodních činností nebo jiných škodlivých aktivit, jako jsou nezákonné činnosti, kybernetické útoky či porušení práv duševního vlastnictví (včetně podávání návrhů nebo obrany zákonných nároků).
 * Zajištění moderování obsahu a souvisejících činností zachování důvěry a bezpečnosti.
-* Provádění interních činností souladu s předpisy a zabezpečením,, jako jsou audity a správa firemního zabezpečení.
+* Provádění interních činností souladu s předpisy a zabezpečením, jako jsou audity a správa firemního zabezpečení.
 
 ## Jak sdílíme vaše osobní údaje
 
@@ -70,7 +70,7 @@ Pro poskytování našich výše popsaných služeb můžeme osobní údaje posk
 |  |  |
 | ----- | ----- |
 | Partneři, poskytovatelé služeb, dodavatelé a smluvní partneři | Na plnění výše uvedených účelů spolupracujeme s partnery, poskytovateli služeb, dodavateli a smluvními partnery. Zavedli jsme smluvní ochranné prostředky, takže subjekty, které osobní údaje získávají, jsou smluvní povinny s těmito údaji zacházet v souladu s pokyny společnosti Mozilla. [Podrobnější informace](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
-| Orgány  | Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnou osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobný subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností.  |
+| Orgány  | Společnost Mozilla vyžaduje platný zákonný postup pro vynucení poskytnutí údajů o konkrétním uživateli vládě. V případech, kdy budeme případně povinni poskytnout osobní údaje uvedené v tomto Oznámení orgánům činným v trestním řízení, vládním orgánům nebo podobným subjektům za účelem splnění zákonných povinností, jakož i za účelem identifikace a prevence škodlivých, neoprávněných nebo nezákonných činností.  |
 | Výzkumníci | Při plnění našeho [poslání](https://www.mozilla.org/about/manifesto/) otevřenosti někdy poskytujeme informace pro vylepšení a rozvoj našich produktů na otevřeném webu, nicméně v takových případech tak učiníme v deidentifikované nebo souhrnné [formě](https://wiki.mozilla.org/Data_Publishing). |
 | Subjekty kontrolované společností Mozilla a její nástupci  | Jako globální společnost sdílíme údaje mezi přidruženými a dceřinými společnostmi kontrolovanými společností Mozilla. Rovněž může být třeba, abychom osobní údaje poskytli v rámci firemních transakcí, jako jsou fúze, akvizice, prodej aktiv nebo podobné transakce. |
 
@@ -82,7 +82,7 @@ Společnost Mozilla Corporation (a naše servery) jsou umístěny ve Spojených 
 
 Vaše osobní údaje uchováváme pouze po dobu nezbytně nutnou ke splnění účelů vymezených v tomto Oznámení o ochraně osobních údajů. V obecnosti jsou údaje o vašem účtu uchovávány po dobu, po kterou je váš účet aktivní. Dovolujeme si upozornit, že společnost Mozilla [pravidelně odstraňuje](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) účty, ke kterým se nikdo nepřihlásil po dobu přesahující dva roky (před podniknutím jakýchkoliv kroků vynaložíme rozumné úsilí, abychom vám zaslali upomínku).
 
-Ve vztahu k technickým datům, údajům o nastavení a interakcích, které shromažďujeme, tyto údaje v obecnosti uchováváme až 25 měsíců, nicméně skutečné lhůty uchovávání se mohou lišit v závislosti na typu údajů a účelech, pro které byly shromážděny (například uchováváme „datum prvního otevření“ vašeho účtu, abychom věděli, jak dlouho již jste uživatelem účtu Mozilla). Specifické lhůty uchovávání mohou rovněž záviset na citlivosti údajů, kontextu jejich shromažďování, vašem nastavení a předvolbách, a na našich zákonných nebo smluvních závazcích uchovávat nebo odstraňovat vaše údaje, jako jsou prevence podvodů, soulad s předpisy nebo kontinuita služeb. PO vypršení lhůty uchovávání vaše údaje bezpečně odstraníme, pokud zákon nevyžaduje jinak.
+Ve vztahu k technickým datům, údajům o nastavení a interakcích, které shromažďujeme, tyto údaje v obecnosti uchováváme až 25 měsíců, nicméně skutečné lhůty uchovávání se mohou lišit v závislosti na typu údajů a účelech, pro které byly shromážděny (například uchováváme „datum prvního otevření“ vašeho účtu, abychom věděli, jak dlouho již jste uživatelem účtu Mozilla). Specifické lhůty uchovávání mohou rovněž záviset na citlivosti údajů, kontextu jejich shromažďování, vašem nastavení a předvolbách, a na našich zákonných nebo smluvních závazcích uchovávat nebo odstraňovat vaše údaje, jako jsou prevence podvodů, soulad s předpisy nebo kontinuita služeb. Po vypršení lhůty uchovávání vaše údaje bezpečně odstraníme, pokud zákon nevyžaduje jinak.
 
 Pokud odstraníte odkaz nebo kolekci odkazů z Kolekce odkazů Firefox, můžeme uchovávat související data pro účely zachování bezpečnosti a prevence zneužití. Obsah, u kterého bude zjištěno, že porušuje naše [Podmínky služeb](https://www.mozilla.org/about/legal/terms/services/), může být po neomezenou dobu zadržen, abychom mohli zabránit a posoudit pozdější zneužití.
 
@@ -95,7 +95,7 @@ Naše služby rovněž využívají šifrované záložní úložiště jako dal
 Náleží vám následující práva:
 
 1. být informován/a o tom, které údaje o vás zpracováváme, proč a s kým jsou sdíleny (to je toto Oznámení!);
-2. požadovat kopii údajů, které o váš uchováváme;
+2. požadovat kopii údajů, které o vás uchováváme;
 3. požadovat přenositelnost vašich údajů;
 4. požadovat nápravu jakýchkoliv údajů, které o vás uchováváme, pokud jsou nepřesné nebo neúplné;
 5. nechat odstranit osobní údaje, které o vás uchováváme (za určitých okolností);
