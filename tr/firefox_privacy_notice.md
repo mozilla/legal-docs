@@ -100,7 +100,7 @@ Firefox, [bazı Firefox kullanıcıları](https://support.mozilla.org/kb/firefox
 
 *Veri ayarlarınızı nasıl değiştireceğiniz dahil olmak üzere daha fazla bilgi:* [Yükseltmeler ve eklentiler engelleme listesi](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Google’ın Güvenli Tarama Hizmeti](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
 
-### Firefox’un kullanımı anlamak için
+### Firefox’un kullanımını anlamak için
 
 Firefox’u ne kadar kullandığınız, dil tercihleriniz, arama araçlarımızı ne kadar sık kullandığınız veya arama öneriyle ne kadar sık etkileşimde bulunduğunuz, sayfaların sizin için ne kadar hızlı yüklendiği ve ne kadar reklam ya da [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) gördüğünüz gibi hizmetlerimizle etkileşimde bulunma şeklinizi daha iyi anlamak için [verileri](#bookmark-understand-usage) işleriz. Bu verileri işlemek insanların hizmetlerimize nasıl eriştiğini ve bunları nasıl kullandığını ölçmemizi sağlayarak işimizi ve Firefox’un işlevlerini geliştirmeye yardımcı olur.
 
@@ -175,7 +175,7 @@ Avenue Louise 235 b 1<br/>
 1050 Brüksel<br/>
 Belçika<br/>
 
-İlgili veri koruma yasalarına uygun olarak veri koruma haklarını kullanma isteyen kişilerden aldığımız tüm taleplere yanıt veririz ve talebinizi işleme alabilmek için kimliğinizi doğrulamak üzere ek bilgiler paylaşmanızı isteyebiliriz.
+İlgili veri koruma yasalarına uygun olarak veri koruma haklarını kullanmak isteyen kişilerden aldığımız tüm taleplere yanıt veririz ve talebinizi işleme alabilmek için kimliğinizi doğrulamak üzere ek bilgiler paylaşmanızı isteyebiliriz.
 
 Lütfen Firefox verilerinizin silinmesini talep ettiğinizde verilerin talebinizden sonraki 30 gün içinde silineceğini unutmayın (90 günlük standart saklama dönemi olan ve bu dönemin sonunda otomatik olarak silinen Etkileşim Verileri hariç).
 
@@ -307,7 +307,7 @@ Bu ilkeyi ve bildirimlerimizi değiştirmemiz gerekebilir. Böyle bir durumda g�
                 </ul>
             </td>
             <td>Bir yapay zeka sohbet botunu etkinleştirmeyi tercih etmeniz durumunda verdiğiniz <strong>izin</strong>.</td>
-            <td>Firefox’ta yapay zeka sohbet botlarını <a href="https://support.mozilla.org/kb/ai-chatbot">yönetme</a> ve <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">kaldırma</a> hakkında daha fazla bilgi edilebilirsiniz.</td>
+            <td>Firefox’ta yapay zeka sohbet botlarını <a href="https://support.mozilla.org/kb/ai-chatbot">yönetme</a> ve <a href="https://support.mozilla.org/kb/ai-chatbot#w_how-to-remove-the-ai-chatbot-shortcut-from-your-firefox-sidebar">kaldırma</a> hakkında daha fazla bilgi edinebilirsiniz.</td>
         </tr>
         <tr>
             <td>Kişiselleştirilmiş öneriler sunma dahil olmak üzere eklentileri (addons.mozilla.org, “AMO”) etkinleştirmek</td>
@@ -369,7 +369,7 @@ Bu ilkeyi ve bildirimlerimizi değiştirmemiz gerekebilir. Böyle bir durumda g�
             <td><a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Yükseltmeler ve eklentiler engelleme listesi</a>, <a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Google’ın Güvenli Tarama Hizmeti</a>, <a href="https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/">OHTTP</a>.</td>
         </tr>
         <tr>
-            <td><a id="bookmark-understand-usage"></a>Firefox’un kullanımı anlamak için</td>
+            <td><a id="bookmark-understand-usage"></a>Firefox’un kullanımını anlamak için</td>
             <td>
                 <ul>
                     <li>Teknik veriler</li>

@@ -57,8 +57,8 @@ Kami menggunakan data kontak Anda untuk berkomunikasi dengan Anda. Kami dapat me
 
 Kami mungkin juga diminta memproses data pribadi Anda untuk mematuhi undang-undang yang berlaku dan tujuan perlindungan data, seperti:
 
-* Menanggapi permintaan yang sah dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dan otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data Pengguna Tertentu kepada pemerintah.
-* permintaan untuk menggunakan hak privasi, seperti hak Anda untuk mengakses atau menghapus data pribadi Anda.
+* Menanggapi permintaan yang sah dan mematuhi [proses hukum](https://www.mozilla.org/about/policy/transparency/), seperti menanggapi panggilan pengadilan, investigasi, atau permintaan dari otoritas pemerintah. Mozilla mewajibkan Proses Hukum yang valid untuk memaksa pengungkapan data Pengguna Tertentu kepada pemerintah.
+* Menanggapi permintaan untuk menggunakan hak privasi, seperti hak Anda untuk mengakses atau menghapus data pribadi Anda.
 * Mengidentifikasi, menyelidiki, dan menangani potensi aktivitas penipuan, atau aktivitas berbahaya lainnya seperti aktivitas ilegal, serangan siber, atau pelanggaran kekayaan intelektual (termasuk mengajukan atau membela tuntutan hukum).
 * Melakukan moderasi konten dan aktivitas kepercayaan dan keamanan terkait.
 * Melakukan aktivitas kepatuhan dan keamanan internal, seperti audit dan manajemen keamanan perusahaan.
@@ -82,7 +82,7 @@ Mozilla Corporation (dan server kami) berbasis di Amerika Serikat. Karena kami a
 
 Kami hanya menyimpan data pribadi Anda selama diperlukan untuk memenuhi tujuan yang diuraikan dalam Pemberitahuan Privasi ini. Secara umum, data akun Anda disimpan selama akun Anda aktif. Anda pasti memperhatikan bahwa Mozilla [secara berkala menghapus](https://support.mozilla.org/kb/mozilla-account-deletion-inactivity) akun yang tidak diakses selama lebih dari dua tahun (kami akan berupaya mengirimkan pengingat sebelum mengambil tindakan ini).
 
-Sehubungan dengan data teknis, pengaturan, dan interaksi yang kami kumpulkan, secara umum, kami menyimpan data ini selama maksimal 25 bulan, tetapi periode penyimpanan sebenarnya dapat bervariasi tergantung jenis data dan tujuan pengumpulannya (misalnya, kami menyimpan tanggal “pertama kali akun Anda dibuka”, agar kami tahu berapa lama Anda telah menjadi pemilih akun Mozilla). Periode penyimpanan tertentu mungkin juga bergantung pada sensitivitas data, konteks pengumpulannya, pengaturan dan preferensi Anda, serta kewajiban hukum atau kontrak kami untuk menyimpan atau menghapus data Anda, seperti untuk pencegahan penipuan, kepatuhan terhadap peraturan, atau keberlanjutan layanan. Setelah periode penyimpanan berakhir, kami menghapus data Anda dengan aman, kecuali diwajibkan lain oleh undang-undang.
+Sehubungan dengan data teknis, pengaturan, dan interaksi yang kami kumpulkan, secara umum, kami menyimpan data ini selama maksimal 25 bulan, tetapi periode penyimpanan sebenarnya dapat bervariasi tergantung jenis data dan tujuan pengumpulannya (misalnya, kami menyimpan tanggal “pertama kali akun Anda dibuka”, agar kami tahu berapa lama Anda telah menjadi pemilik akun Mozilla). Periode penyimpanan tertentu mungkin juga bergantung pada sensitivitas data, konteks pengumpulannya, pengaturan dan preferensi Anda, serta kewajiban hukum atau kontrak kami untuk menyimpan atau menghapus data Anda, seperti untuk pencegahan penipuan, kepatuhan terhadap peraturan, atau keberlanjutan layanan. Setelah periode penyimpanan berakhir, kami menghapus data Anda dengan aman, kecuali diwajibkan lain oleh undang-undang.
 
 Jika Anda menghapus tautan atau koleksi tautan dari koleksi Tautan Firefox, kami mungkin menyimpan data terkait demi keamanan dan pencegahan penyalahgunaan. Konten yang ternyata melanggar [Ketentuan Layanan](https://www.mozilla.org/about/legal/terms/services/) kami dapat disimpan tanpa batas waktu, agar kami dapat mencegah dan menilai potensi penyalahgunaan di kemudian hari.
 
@@ -126,7 +126,7 @@ Kami mungkin perlu mengubah kebijakan ini dan pemberitahuan kami, yang akan dipo
 | Jenis Data | Deskripsi | Contoh untuk pengguna akun Mozilla |
 | ----- | ----- | ----- |
 | Data akun | Ini adalah data terkait pengelolaan akun Mozilla Anda, seperti informasi pendaftaran.  | Nama pengguna akun, nama tampilan, ID akun Mozilla.  |
-| Data autentikasi | Kami menerima data untuk mengamankan akun Anda, dan juga membuat data terkait auntentikasi untuk mempertahankan keamanan akun Anda.  | Hash kata sandi, tokenData. |
+| Data autentikasi | Kami menerima data untuk mengamankan akun Anda, dan juga membuat data terkait autentikasi untuk mempertahankan keamanan akun Anda.  | Hash kata sandi, tokenData. |
 | Data kontak | Alamat email yang Anda berikan sebagai bagian dari pendaftaran akun Anda, selain data kontak lain yang mungkin Anda pilih untuk diberikan kepada kami.  | Alamat email, alamat email sekunder, nomor telepon. |
 | Data interaksi | Ini adalah data tentang cara Anda berinteraksi dengan layanan kami. | Jumlah klik, log peristiwa, data penggunaan.  |
 | Preferensi bahasa | Bahasa yang Anda simpulkan atau Anda pilih (jika Anda menyediakannya di pengaturan) untuk berinteraksi dengan layanan kami. | Bahasa.  |

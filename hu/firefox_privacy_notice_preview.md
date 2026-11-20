@@ -1,7 +1,7 @@
 # A Firefox adatvédelmi nyilatkozata
 
-Hatályos: 2025. december 17-től
-{: datetime="2025-12-17" }
+Hatályos: 2026. május 4-től
+{: datetime="2026-05-04" }
 
 <a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">A jelenlegi nyilatkozat megtekintéséhez kattintson ide.</a>
 
@@ -15,15 +15,23 @@ Ezért a Firefoxot és minden más termékünket úgy fejlesztettük ki, hogy na
 
 A Mozilla gyűjt [bizonyos adatokat](#bookmark-how-we-use-data), például műszaki és beállítási adatokat, hogy biztosítsa a Firefox böngésző és a kapcsolódó szolgáltatások alapvető funkcióit, megkülönböztesse az eszközt a többitől, emlékezzen és tiszteletben tartsa a beállításait, valamint olyan alapértelmezett funkciókat kínáljon Önnek, mint az [Új lap](https://support.mozilla.org/kb/about-new-tab-page), a [PDF-szerkesztés](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), a [jelszókezelő](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) és a [Teljes cookie-védelem](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). Tovább személyre szabhatja a Firefox élményét, ha módosítja a [vezérlőket, gombokat és eszköztárakat](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars), valamint [funkciókat ad hozzá kiegészítőkkel](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-A Firefox egyes funkciói, például a weboldalak automatikus [fordítása](https://support.mozilla.org/kb/website-translation) és az [„alternatív szöveg” javaslatok, amikor képeket tölt fel PDF-fájljaiba](https://support.mozilla.org/kb/pdf-alt-text), mesterséges intelligencia (AI) segítségével működnek, amelyek az eszközére letöltött kis nyelvi modelleken alapulnak. Ezek helyileg működnek – a weboldal tartalma, a PDF-fájlok, a képek és a lapok URL-címei az eszközön maradnak, és nem kerülnek elküldésre a Mozilla kiszolgálóira, illetve nem használhatók fel oktatási célokra az Ön kifejezett beleegyezése nélkül. Vegye figyelembe, hogy a Firefox egyéb funkciói külső féltől származó MI-modelleket is integrálhatnak, amint azt ebben a nyilatkozatban részletesen ismertetjük.
+A Firefox egyes funkciói, például a weboldalak automatikus [fordítása](https://support.mozilla.org/kb/website-translation) és az [„alternatív szöveg” javaslatok, amikor képeket tölt fel PDF-fájljaiba](https://support.mozilla.org/kb/pdf-alt-text), mesterséges intelligencia (MI) segítségével működnek, amelyek az eszközére letöltött kis nyelvi modelleken alapulnak. Ezek helyileg működnek – a weboldal tartalma, a PDF-fájlok, a képek és a lapok URL-címei az eszközön maradnak, és nem kerülnek elküldésre a Mozilla kiszolgálóira, illetve nem használhatók fel oktatási célokra az Ön kifejezett beleegyezése nélkül. Vegye figyelembe, hogy a Firefox egyéb funkciói külső féltől származó MI-modelleket is integrálhatnak, amint azt ebben a nyilatkozatban részletesen ismertetjük. Tudjon meg többet, beleértve azt is, hogyan [vezérelheti az MI-alapú funkciókat](https://support.mozilla.org/kb/firefox-ai-controls) és modelleket a beállításaiban.
+
+Ha a Smart Window funkció használatát választja, a funkció használatára a [Smart Window adatvédelmi nyilatkozata](https://www.mozilla.org/privacy/smart-window/) vonatkozik, amely elmagyarázza, hogyan történik az adatok kezelése a Smart Window szolgáltatással kapcsolatban.
 
 ### A Firefox hozzáigazítása az Ön igényeihez
 
 A Firefox számos személyes adatot kezel úgy, hogy ne hagyja el az eszközt, például a böngészési előzményeket, a webes űrlapadatokat, az ideiglenes internetes fájlokat és a cookie-kat. Ez azt jelenti, hogy az adatok az eszközön maradnak, és nem kerülnek elküldésre a Mozilla kiszolgálóira, hacsak a jelen nyilatkozat másként nem rendelkezik. Ha úgy dönt, hogy engedélyezi, az Ön pontos tartózkodási helyét is kezelhetjük a helyhez kapcsolódó funkciókhoz az olyan webhelyek esetében, mint a Google Térkép – ezekhez az adatokhoz csak az Ön által engedélyezett webhely(ek) fér(nek) hozzá az eszközről – a Mozilla kiszolgálóira nem küldik el őket.
 
-Ha Apple Intelligence rendszerű eszközön (iPhone 15 Pro+ iOS 26+ rendszerrel) engedélyezi a Firefox mobilverziójában az Összefoglalás rázással funkciót, akkor az összefoglalók kérésre helyben, az eszközén kerülnek létrehozásra. Ha egy Apple Intelligence nélküli eszközön engedélyezi, akkor az oldal tartalma egy Mozilla-kiszolgálóra lesz küldve kezelésre, amikor összefoglalót kér, és az összefoglaló visszakerül az eszközére – a Mozilla nem tárolja ezeket a tartalmakat vagy a kapott összefoglalókat.
+Ha engedélyezi az Összefoglalás rázással funkciót egy kompatibilis eszközön, amelyen egy támogatott operációs rendszer fut, és amely engedélyezi az eszközön belüli intelligenciát, akkor a kért összefoglalók helyben, az eszközén jönnek létre. Ellenkező esetben, amikor összefoglalót kér, az oldal tartalma feldolgozásra egy Mozilla-kiszolgálóra kerül, és visszakerül az eszközére – a Mozilla nem tárolja ezt a tartalmat vagy az ebből származó összefoglalókat. Tudjon meg többet az [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) és [Android](https://support.mozilla.org/kb/summarize-pages-android) Összefoglalás rázással funkciójáról.
 
 *További részletek, beleértve az adatbeállítások módosítását:* Az eszközön kezelt adatok az Ön ellenőrzése alatt maradnak. Bármikor [kezelheti a böngészési adatait](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) és a [helyi tárhelybeállításait](https://support.mozilla.org/kb/storage), vagy frissítheti a [helyengedélyeit](https://support.mozilla.org/kb/does-firefox-share-my-location-websites).
+
+### A Firefox VPN biztosítása
+
+Ha bejelentkezett egy Mozilla-fiókba, engedélyezheti a Firefox egyik funkcióját, amely elrejti az IP-címét egy proxykiszolgálón („VPN”) keresztül. Ha engedélyezve van, a Firefox hálózati forgalmát egy közvetítőn keresztül proxyzza, hogy megakadályozza a hálózati szolgáltatóját abban, hogy lássa, mely kiszolgálókhoz csatlakozik, és hogy elrejtse az IP-címét a meglátogatott webhelyek elől. Nem irányítja át a forgalmat az eszközön lévő más alkalmazásokból, és önmagában nem teszi teljesen anonimmá a webhelyböngészést. A VPN használata befolyásolhatja a böngészési élményt, beleértve a nem az Ön régiójára jellemző tartalmak megjelenítését is.
+
+A VPN funkció biztosításához egy, a nevünkben üzemeltetett proxykiszolgálót használunk. A proxykiszolgáló nem fér hozzá a weboldalak tartalmához vagy más érzékeny információkhoz, például üzenetekhez vagy jelszavakhoz, és nem gyűjt adatokat a meglátogatott webhelyekről vagy azok tartalmáról. Korlátozott technikai adatokat (például a kliensverziót, a kapcsolat állapotát és az eszköz típusát/operációs rendszerét) kezelünk a szolgáltatás teljesítményének és stabilitásának kínálása, fenntartása és biztosítása érdekében, valamint interakciós adatokat a funkció használatának megértése és a fejlesztések irányítása érdekében.
 
 ### Keresési funkciók és javaslatok biztosítása és fejlesztése
 
@@ -57,7 +65,7 @@ A böngésző beállításaiban ([asztali](https://support.mozilla.org/kb/custom
 
 Ha Mozilla-fiókot regisztrál, a jelen nyilatkozatban meghatározott adatok mellett további információkat is kezelhetünk, például fiókadatokat, kapcsolatfelvételi adatokat és szinkronizálási adatokat, a [Mozilla-fiókokra vonatkozó adatvédelmi nyilatkozatnak](https://www.mozilla.org/privacy/mozilla-accounts/) megfelelően.
 
-### Mi-csevegőbotok biztosítása
+### MI-csevegőbotok biztosítása
 
 Lehetősége van arra, hogy külső féltől származó MI-csevegőbotot használjon, hogy segítsen például az olvasottak összefoglalásában, az írásban és az ötletek kidolgozásában, az adott szolgáltató [használati feltételeinek és adatvédelmi nyilatkozatának](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) megfelelően.
 
@@ -120,7 +128,7 @@ Amikor a Firefoxszal kapcsolatban felkeresi a Mozilla súgóoldalait, a Mozilla 
 
 Előfordulhat, hogy a személyes adatait is kezeljük a vonatkozó jogszabályoknak és védelmi céloknak való megfelelés érdekében, mint például:
 
-*Jogszerű kérések megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
+* Jogszerű kérések megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
 * Adatvédelmi jogok gyakorlására irányuló kérések megválaszolása, például az Ön személyes adataihoz való hozzáféréshez vagy azok törléséhez való joga.
 * Lehetséges csalárd tevékenységek vagy egyéb káros tevékenységek, például illegális tevékenységek, kibertámadások vagy szellemi tulajdonjogok megsértése azonosítása, kivizsgálása és kezelése (beleértve a jogi igények benyújtását vagy védelmét).
 * Belső megfelelőségi és biztonsági tevékenységek végrehajtása, például auditok és vállalati biztonságkezelés.
@@ -131,10 +139,10 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 
 |  |  |
 | ----- | ----- |
-| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list). |
+| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list). |
 | Hatóságok | A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket. |
 | Kutatók | Amikor a nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítjük. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan és/vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
-| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
+| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolt vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
 ## Nemzetközi adattovábbítás
 
@@ -144,7 +152,7 @@ A Mozilla (és a kiszolgálóink) az Egyesült Államokban találhatók. Mivel g
 
 A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi nyilatkozatban meghatározott célok teljesítéséhez szükséges. Általánosságban elmondható, hogy a személyes adatokat nem őrizzük meg 25 hónapnál tovább, de a tényleges megőrzési időszakok az adatok típusától és a gyűjtés céljától függően változhatnak (például megőrizzük az Ön „első megjelenésének” dátumát a Firefox használatának időtartama alatt, így tudjuk, mióta Firefox-felhasználó). A konkrét megőrzési időszakok az adatok érzékenységétől, gyűjtésük kontextusától, az Ön beállításaitól és preferenciáitól, valamint az adatok megőrzésére vagy törlésére vonatkozó jogi vagy szerződéses kötelezettségeinktől is függhetnek, például a csalás megelőzése, a szabályozási megfelelés vagy a szolgáltatás folytonossága érdekében. A megőrzési időszak lejártával biztonságosan töröljük az adatait, hacsak a jogszabályok másként nem rendelkeznek.
 
-A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
+A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonosítható vagy összesített alapon.
 
 ## Az Ön jogai és döntései
 
@@ -195,7 +203,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 | ----- | ----- | ----- |
 | Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a Firefoxhoz való csatlakozásáról. | Eszköztípus, operációs rendszer, IP-cím, ISP (internetszolgáltató). |
 | Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások vagy az eszköztár beállításai. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások. | Továbbfejlesztett követésvédelmi beállítások, cookie-beállítások, engedélyek (hely, kamera, mikrofon), eszköztár testreszabása. |
-| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város. |
+| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetünk az IP-címe alapján. | Országkód, város. |
 | Pontos hely | A pontos tartózkodási helye (néhány méteren belül) | Pontos hely. |
 | Nyelvi beállítások | Az Ön által kikövetkeztetett vagy előnyben részesített nyelv (ha megadja a beállításokban) a szolgáltatásainkkal való interakcióhoz. | Nyelv. |
 | Egyedi azonosítók | Ezek egyedi azonosítók, amelyek különböző időpontokban hozhatók létre a szolgáltatással való interakciók kezelésére. | Client_id, session_id, cookie-azonosítók. |
@@ -290,7 +298,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
             <td colspan="3">Tekintse meg a <a href="https://www.mozilla.org/privacy/mozilla-accounts/">Mozilla-fiókok adatvédelmi nyilatkozatát</a></td>
         </tr>
         <tr>
-            <td>Mi-csevegőbotok biztosítása</td>
+            <td>MI-csevegőbotok biztosítása</td>
             <td>
                 <ul>
                     <li>Technikai adatok</li>
@@ -435,7 +443,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
             </td>
             <td>
                 <p><strong>Jogszabályi megfelelés</strong> az érintettek jogaival kapcsolatos megkeresések megválaszolása, a bűnüldözési kérelmek megválaszolása, a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme során.</p>
-                <p><strong>Jogos érdek</strong>, ahol a megfelelés nem megfelelő, a jogi vagy szabályozási folyamatok vagy kérések támogatása, a csalás megelőzése, valamint a (és felhasználóink) jogaink, tulajdonunk és/vagy biztonságunk kezelése és védelme.</p>
+                <p> <strong>Jogos érdek</strong>, amennyiben azt jogszabály nem írja elő szigorúan, jogi vagy szabályozási folyamatok vagy kérések támogatása, a csalás megelőzése, valamint a saját (és felhasználóink) jogainak, tulajdonának és/vagy biztonságának kezelése és védelme érdekében.</p>
             </td>
             <td>További információk arról, hogyan válaszolunk a <a href="https://www.mozilla.org/about/policy/transparency/">jogszerű kérésekre</a>.</td>
         </tr>

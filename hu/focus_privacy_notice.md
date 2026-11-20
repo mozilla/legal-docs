@@ -42,7 +42,7 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 |  |  |
 | ----- | ----- |
 | Keresőmotor-szolgáltatók | Annak érdekében, hogy számos keresőmotor-szolgáltatót kínálhassunk Önnek, szerződéses megállapodásokat kötöttünk különböző keresőszolgáltatókkal. |
-| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
+| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolt vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
 ## Nemzetközi adattovábbítás
 
@@ -75,7 +75,7 @@ Válaszolunk minden olyan kérésre, amelyet olyan egyénektől kapunk, akik a v
 
 ### Az Ön döntései
 
-Bármikor Frissítheti az [adatgyűjtési beállításait](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
+Bármikor frissítheti az [adatgyűjtési beállításait](https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers).
 
 ## Alkalmazhatóság (Focus-/Klar-verzió)
 
@@ -92,7 +92,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 | Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a Focushoz/Klarhoz való csatlakozásáról. | Eszköztípus, operációs rendszer, IP-cím, ISP (internetszolgáltató). |
 | Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások vagy az eszköztár beállításai. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások. | Továbbfejlesztett követésvédelmi beállítások, cookie-beállítások, engedélyek (hely, kamera, mikrofon), eszköztár testreszabása. |
 | Rendszerteljesítmény-adatok | Adatok arról, hogy a szolgáltatások hogyan működnek az Ön eszközén. | Memóriahasználat, oldalleképezési sebesség. |
-| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város. |
+| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetünk az IP-címe alapján. | Országkód, város. |
 | Pontos hely | A pontos tartózkodási helye (néhány méteren belül). | Pontos hely. |
 | Nyelvi beállítások | Az Ön által kikövetkeztetett vagy előnyben részesített nyelv (ha megadja a beállításokban) a szolgáltatásainkkal való interakcióhoz. | Nyelv. |
 | Egyedi azonosítók | Ezek egyedi azonosítók, amelyek különböző időpontokban hozhatók létre a szolgáltatással való interakciók kezelésére. | Client_id, session_id. |

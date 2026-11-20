@@ -114,7 +114,7 @@ Kun annat meille luvan tehdä niin, Firefox lähettää Mozillalle tietoja verkk
 
 ### Tietojen pseudonymisointi, tunnistamattomaksi tekeminen, koostaminen tai anonymisointi
 
-Osana edellä kuvattuja toimia (kuten Firefoxin käytön ymmärtämistä ja markkinointimme mittaamista) saatamme luoda pseudonymisoitua, anonymisoitua, koostemuotoista tai anonymisoitua dataa. Käytämme olosuhteisiin sopivaa teknologiaa, mukaan lukien tunnisteiden poisto, OHTTP tai [DAP](https://divviup.org/about/). Tämän avulla estetään tietojen yhdistäminen sinuun. Joissakin tapauksissa voimme jakaa tai julkaista koostemuotoista ja anonymisoitua dataa tutkimuksen helpottamiseksi tai osana edellä kuvattuja laillisia liiketoimintatarkoituksia (kuten koostemuotoisten havaintojen jakaminen mainoskumppaneiden kanssa).
+Osana edellä kuvattuja toimia (kuten Firefoxin käytön ymmärtämistä ja markkinointimme mittaamista) saatamme luoda pseudonymisoitua, tunnistamattomaksi tehtyä, koostemuotoista tai anonymisoitua dataa. Käytämme olosuhteisiin sopivaa teknologiaa, mukaan lukien tunnisteiden poisto, OHTTP tai [DAP](https://divviup.org/about/). Tämän avulla estetään tietojen yhdistäminen sinuun. Joissakin tapauksissa voimme jakaa tai julkaista koostemuotoista ja anonymisoitua dataa tutkimuksen helpottamiseksi tai osana edellä kuvattuja laillisia liiketoimintatarkoituksia (kuten koostemuotoisten havaintojen jakaminen mainoskumppaneiden kanssa).
 
 ### Viestintä kanssasi
 

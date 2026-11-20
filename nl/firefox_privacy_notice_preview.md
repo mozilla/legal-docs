@@ -1,9 +1,9 @@
 # Firefox-privacyverklaring
 
-Van kracht vanaf woensdag 17 december 2025
-{: datetime="17-12-2025" }
+Van kracht vanaf maandag 4 mei 2026
+{: datetime="2026-05-04" }
 
-<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Klik hier als u onze huidige verklaring wilt weergeven.</a>
+<a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">Klik hier om onze huidige privacyverklaring te bekijken.</a>
 
 ## Bij Mozilla zijn we ervan overtuigd dat privacy van essentieel belang is voor een gezond internet
 
@@ -13,17 +13,25 @@ Dat is de reden waarom we Firefox en al onze producten maken: zodat u meer contr
 
 ### U voorzien van de Firefox-browser
 
-Mozilla verzamelt [bepaalde gegevens](#bookmark-how-we-use-data), zoals technische gegevens of gegevens over instellingen,voor het verzorgen van de kernfunctionaliteit van de Firefox-browser en gekoppelde services, zoals uw apparaat onderscheiden van dat van anderen, het onthouden en respecteren van uw instellingen en u voorzien van standaardfuncties, zoals [Nieuw tabblad](https://support.mozilla.org/kb/about-new-tab-page), [PDF bewerken](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [wachtwoordbeheer](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) en [Totale cookiebescherming](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). U kunt uw Firefox-ervaring verder aanpassen door uw [besturingselementen, knoppen en werkbalken](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) aan te passen en [functies toe te voegen via add-ons](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
+Mozilla verzamelt [bepaalde gegevens](#bookmark-how-we-use-data), zoals technische gegevens of gegevens over instellingen, voor het verzorgen van de kernfunctionaliteit van de Firefox-browser en gekoppelde services, zoals uw apparaat onderscheiden van dat van anderen, het onthouden en respecteren van uw instellingen en u voorzien van standaardfuncties, zoals [Nieuw tabblad](https://support.mozilla.org/kb/about-new-tab-page), [PDF bewerken](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [wachtwoordbeheer](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) en [Totale cookiebescherming](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). U kunt uw Firefox-ervaring verder aanpassen door uw [besturingselementen, knoppen en werkbalken](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) aan te passen en [functies toe te voegen via add-ons](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Sommige Firefox-functies, zoals geautomatiseerde [vertaling](https://support.mozilla.org/kb/website-translation) voor webpagina's en [suggesties voor alternatieve tekst wanneer u afbeeldingen in uw PDF's uploadt](https://support.mozilla.org/kb/pdf-alt-text), worden mogelijk gemaakt door artificiële intelligentie (AI) op basis van kleine taalmodellen die naar uw apparaat worden gedownload. Deze werken lokaal. Content van webpagina's, PDF's, afbeeldingen en tabblad-URL's blijft op uw apparaat en wordt niet zonder uw nadrukkelijke toestemming naar servers van Mozilla verzonden of gebruikt voor trainingsdoeleinden. Houd er rekening mee dat Firefox-functies AI-modellen van derde partijen kunnen integreren, zoals gedetailleerd is beschreven in deze Verklaring.
+Sommige Firefox-functies, zoals geautomatiseerde [vertaling](https://support.mozilla.org/kb/website-translation) voor webpagina's en [suggesties voor alternatieve tekst wanneer u afbeeldingen in uw PDF's uploadt](https://support.mozilla.org/kb/pdf-alt-text), worden mogelijk gemaakt door artificiële intelligentie (AI) op basis van kleine taalmodellen die naar uw apparaat worden gedownload. Deze werken lokaal. Content van webpagina's, PDF's, afbeeldingen en tabblad-URL's blijft op uw apparaat en wordt niet zonder uw nadrukkelijke toestemming naar servers van Mozilla verzonden of gebruikt voor trainingsdoeleinden. Houd er rekening mee dat Firefox-functies AI-modellen van derde partijen kunnen integreren, zoals gedetailleerd is beschreven in deze Verklaring. Meer informatie, waaronder over het [beheren van op AI gebaseerde functies](https://support.mozilla.org/kb/firefox-ai-controls) en modellen vindt u in uw instellingen.
+
+Als u ervoor kiest om de functie Smart Window te gebruiken, wordt uw gebruik van de functie beheerst door de [Privacyverklaring van Smart Window](https://www.mozilla.org/privacy/smart-window/). Daarin wordt uitgelegd hoe gegevens worden verwerkt in verband met Smart Window.
 
 ### Firefox aanpassen aan uw behoeften
 
 Firefox verwerkt een verscheidenheid aan persoonlijke gegevens op een manier waarop deze uw apparaat niet verlaten, zoals uw navigatiegeschiedenis, tijdelijke internetbestanden en cookies. Dit betekent dat de gegevens op uw apparaat blijven en niet naar Mozilla worden verzonden, tenzij anders is aangegeven in deze Verklaring. Als u dat toestaat, kan uw exacte locatie ook worden verwerkt voor aan locatie gerelateerde functionaliteit voor websites, zoals Google Maps. Deze gegevens worden alleen geopend vanaf uw apparaat door de website(s) waarvoor u dit inschakelt. Deze gegevens worden niet naar servers van Mozilla verzonden.
 
-Als u ervoor kiest om de functie Schudden voor een samenvatting in te schakelen in Firefox mobile op een apparaat met Apple Intelligence (iPhone 15 Pro+ met iOS 26+), worden er lokaal op uw apparaat samenvattingen gemaakt wanneer u deze aanvraagt. Als u deze functie inschakelt op een apparaat zonder Apple Intelligence, wordt uw paginacontent met een samenvattingsaanvraag naar een Mozilla-server verzonden voor verwerking. Er wordt een samenvatting als resultaat gegevens op uw apparaat. Deze content of samenvattingen die daarvan het resultaat zijn, worden niet opgeslagen voor Mozilla.
+Als u de functie Summarize inschakelt op een compatibel apparaat waarop een ondersteund besturingssysteem wordt uitgevoerd dat intelligentie op het apparaat ondersteunt, worden overzichten die u aanvraagt, lokaal gemaakt op uw apparaat. Als u deze niet inschakelt, wordt wanneer u een overzicht aanvraagt, uw paginacontent naar een Mozilla-server verzonden voor verwerking en geretourneerd naar uw apparaat. Mozilla slaat deze content of overzichten die daarvan het resultaat zijn niet op. Lees meer over Shake to Summarize onder [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) en [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* Gegevens die op uw apparaat worden verwerkt, blijven onder uw controle. U kunt uw [navigatiegegevens](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) en uw [instellingen voor lokale opslag](https://support.mozilla.org/kb/storage) beheren, en u kunt uw [locatiemachtigingen](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) op elk gewenst moment bijwerken.
+
+### U voorzien van de Firefox VPN
+
+Als u zich hebt aangemeld bij een Mozilla-account, kunt u een Firefox-functie inschakelen om uw IP-adres te verbergen via een proxyserver (VPN). Wanneer deze functie is ingeschakeld, wordt Firefox-netwerkverkeer via een tussenliggende proxy omgeleid om te voorkomen dat uw netwerkprovider kan zien met welke servers u verbinding maakt en om uw IP-adres te verbergen voor sites die u bezoekt. Verkeer vanuit andere toepassingen op het apparaat worden niet via een proxy omgeleid. Het gebruik van alleen deze functie garandeert niet dat u volledig anoniem kunt browsen. Het gebruik van VPN kan van invloed zijn op uw browse-ervaring, waaronder de weergave van content die niet specifiek is voor uw regio.
+
+We gebruiken een proxyserver die namens u wordt gebruikt om de VPN-functie te verzorgen. Deze proxyserver heeft geen toegang tot webpaginacontent of andere gevoelige informatie, zoals berichten of wachtwoorden, en verzamelt geen gegevens over de websites die u bezoekt of de content op die sites. We verwerken wel beperkte technische gegevens (zoals de clientversie, verbindingsstatus en het apparaattype/besturingssysteem) voor het verzorgen, onderhouden en waarborgen van de prestaties en stabiliteit van de service, evenals interactiegegevens om het gebruik van de functie te doorgronden en als richtsnoer voor verbeteringen.
 
 ### Zoekfunctionaliteit en suggesties bieden en verbeteren
 
@@ -35,7 +43,7 @@ Gebruikers in de Verenigde Staten en bepaalde andere regio’s, ontvangen evenee
 
 In de Verenigde Staten haalt Firefox suggesties op vanaf servers van Mozilla terwijl u uw zoekopdracht typt. We gebruiken technologie voor privacybehoud die [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/) wordt genoemd. Deze technologie combineert versleuteling en een proxyserver om uw IP-adres en andere identificerende informatie te verbergen. Uw realtime zoekopdracht wordt standaard samen met technische, interactie- en van IP afgeleide locatiegegevens doorgegeven naar deze OHTTP-proxy voordat deze informatie naar Mozilla wordt verzonden. Dit helpt voorkomen dat iemand (inclusief Mozilla) uw specifieke zoekopdracht aan u kan koppelen of kan combineren met niet-gerelateerde informatie over uw navigatieactiviteit. Mozilla verwerkt deze gegevens om relevante suggesties voor u te verzorgen, om te doorgronden hoe bruikbaar de suggesties voor u zijn en om de service te verbeteren. Onder enkele omstandigheden ontvangen partners van Mozilla gedeïdentificeerde zoek- en interactiegegevens om relevante suggesties te verzorgen en gebruikersbetrokkenheid bij voorgestelde content te meten.
 
-Sommige gebruikers, waaronder gebruikers in enkele regio’s buiten de Verenigde Staten en in de Verenigde Staten die de optie Suggesties van Mozilla ophalen terwijl u typt uitschakelen in hun instellingen, ontvangen in plaats daarvan lokaal verwerkte resultaten wanneer de functie Suggesties van Firefox wordt gebruikt. Voor deze gebruikers worden de suggesties lokaal verzorgd via informatie die in uw exemplaar van Firefox is opgeslagen op uw apparaat. Uw gedeïdentificeerde klik- en interactiegegevens voor specifieke zoektermen (maar niet uw zoekopdracht) worden via OHTTP naar Mozilla verzonden om uw IP-adres en andere identificerende informatie te verbergen. Bij gesponsorde suggesties ontvangen onze partners mogelijk samengevoegde informatie over welke van hun suggesties worden weergegeven en op welke suggesties is geklikt. Ze ontvangen echter geen informatie over welk gebruikers de suggesties hebben bekeken of over welke trefwoorden tot het verzorgen van de suggestie hebben geleid. (Als suggesties van Firefox niet beschikbaar zijn in uw regio, ontvangt u alleen zoeksuggesties.
+Sommige gebruikers, waaronder gebruikers in enkele regio’s buiten de Verenigde Staten en in de Verenigde Staten die de optie Suggesties van Mozilla ophalen terwijl u typt uitschakelen in hun instellingen, ontvangen in plaats daarvan lokaal verwerkte resultaten wanneer de functie Suggesties van Firefox wordt gebruikt. Voor deze gebruikers worden de suggesties lokaal verzorgd via informatie die in uw exemplaar van Firefox is opgeslagen op uw apparaat. Uw gedeïdentificeerde klik- en interactiegegevens voor specifieke zoektermen (maar niet uw zoekopdracht) worden via OHTTP naar Mozilla verzonden om uw IP-adres en andere identificerende informatie te verbergen. Bij gesponsorde suggesties ontvangen onze partners mogelijk samengevoegde informatie over welke van hun suggesties worden weergegeven en op welke suggesties is geklikt. Ze ontvangen echter geen informatie over welk gebruikers de suggesties hebben bekeken of over welke trefwoorden tot het verzorgen van de suggestie hebben geleid. (Als suggesties van Firefox niet beschikbaar zijn in uw regio, ontvangt u alleen zoeksuggesties).
 
 ### Het verzorgen van relevante content en reclame op Firefox Nieuw tabblad
 
@@ -67,13 +75,13 @@ Als u ervoor kiest om een chatbot in te schakelen in de zijbalk en/of via een sn
 
 ### Het verzorgen en inschakelen van add-ons (addons.mozilla.org)
 
-U kunt add-ons installeren vanaf [addons.mozilla.org](https://addons.mozilla.org) (AMO) of via de optie voor add-on-beheer in Firefox. Deze is toegankelijk via de Firefox-menuknop op de werkbalk. We verwerken zoekquery's via de functie voor add-on-beheer, zodat u voorgestelde add-ons kunnen worden aangeboden. Als u ervoor kies om add-ons te installeren, verwerkt Firefox technische, van IP afgeleide locatie- en instellingsgegevens. Firefox maakt dan bovendien periodiek verbinding met servers van Mozilla om de juiste updates voor uw add-ons te installeren. We verzamelen ook technische en interactiegegevens over uw gebruik van addons om Firefox te helpen verbeteren.
+U kunt add-ons installeren vanaf [addons.mozilla.org](https://addons.mozilla.org) (AMO) of via de optie voor add-on-beheer in Firefox. Deze is toegankelijk via de Firefox-menuknop op de werkbalk. We verwerken zoekquery's via de functie voor add-on-beheer, zodat u voorgestelde add-ons kunnen worden aangeboden. Als u ervoor kiest om add-ons te installeren, verwerkt Firefox technische, van IP afgeleide locatie- en instellingsgegevens. Firefox maakt dan bovendien periodiek verbinding met servers van Mozilla om de juiste updates voor uw add-ons te installeren. We verzamelen ook technische en interactiegegevens over uw gebruik van addons om Firefox te helpen verbeteren.
 
 Wanneer u de [AMO-website](https://addons.mozilla.org/firefox/) bezoekt, verzamelt Mozilla technische en interactiegegevens over uw gebruik van de site. Dit doen we in overeenstemming met onze [Privacyverklaring voor Websites, Communicaties en Cookies](https://www.mozilla.org/privacy/websites/).
 
 *Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* Lees [hoe u add-ons kunt verwijderen of inschakelen](https://support.mozilla.org/kb/disable-or-remove-add-ons). U kunt ook de [Privacyverklaring](https://www.mozilla.org/privacy/websites/) voor de [add-ons-website](https://addons.mozilla.org/firefox/) bekijken.
 
-### Voor het handhaven en verbeteren van functies, prestaties en stabiliteit
+### Het handhaven en verbeteren van functies, prestaties en stabiliteit
 
 Mozilla voert [onderzoeken](https://support.mozilla.org/kb/shield) uit binnen Firefox en stelt bepaalde [experimentele functies](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) beschikbaar via Firefox Labs om verschillende functies en ideeën te testen voordat deze beschikbaar worden voor alle Firefox-gebruikers of onderdeel worden van het kernaanbod van Firefox. Hierdoor kunnen we beter geïnformeerde beslissingen nemen over wat onze gebruikers willen en nodig hebben. Dit onderzoek gebruikt technische gegevens, gegevens over systeemprestaties, van IP afgeleide locatiegegevens, gegevens over instellingen en interactiegegevens.
 
@@ -81,7 +89,7 @@ We moeten ook gegevens verwerken om Firefox operationeel te houden, voor het ver
 
 Op desktops en onder Android, vraagt [Mozilla Crash Reporter](https://support.mozilla.org/kb/mozillacrashreporter) of u ons aanvullende gegevens wilt verzenden als Firefox op een onverwacht probleem stuit. Deze informatie omvat welke sites open waren op het moment van crashes, evenals andere navigatiegegevens. Als u zich inschrijft voor het automatisch verzamelen van crashrapporten, verzamelen we op desktops en onder Android informatie zonder dat dit telkens opnieuw wordt gevraagd. Onder iOS bevatten crashrapporten minder informatie en worden deze standaard automatisch naar ons verzonden. U kunt uw instellingen op elk gewenst moment wijzigen.
 
-*Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt zich via [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)inschrijven voor experimentele functies en [meer informatie](https://support.mozilla.org/kb/shield) weergeven over de onderzoeken waarvoor u bent ingeschreven en over hoe u zich op elk gewenst moment kunt uitschrijven voor al deze onderzoeken (of een specifiek onderzoek). U kunt ook [meer informatie](https://support.mozilla.org/kb/technical-and-interaction-data) weergeven over de technische en interactiegegevens die we verwerken, waaronder hoe u dit kunt uitschakelen.
+*Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt zich via [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) inschrijven voor experimentele functies en [meer informatie](https://support.mozilla.org/kb/shield) weergeven over de onderzoeken waarvoor u bent ingeschreven en over hoe u zich op elk gewenst moment kunt uitschrijven voor al deze onderzoeken (of een specifiek onderzoek). U kunt ook [meer informatie](https://support.mozilla.org/kb/technical-and-interaction-data) weergeven over de technische en interactiegegevens die we verwerken, waaronder hoe u dit kunt uitschakelen.
 
 ### Het verbeteren van beveiliging
 
@@ -98,7 +106,7 @@ Voor [sommige Firefox-gebruikers](https://support.mozilla.org/kb/firefox-dns-ove
 
 We verwerken [gegevens](#bookmark-understand-usage) voor een beter inzicht in hoe u onze services gebruikt. Dit omvat hoe vaak u Firefox gebruikt, uw voorkeurstaal, hoe vaak u hulpprogramma's voor zoeken of hoe vaak u zoeksuggesties gebruikt, hoe snel pagina's bij u laden en hoeveel advertenties of [CAPTCHA's](https://en.wikipedia.org/wiki/CAPTCHA) u ziet. We kunnen hierdoor meten hoe mensen toegang krijgen tot onze services en hoe ze deze gebruiken, zodat we onze organisatie en de functionaliteit van Firefox kunnen verbeteren.
 
-*Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt uw instellingen voor gegevensverzameling voor [desktops](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) op elk gewenst moment wijzigen. Houd er rekening mee dat als u Firefox toestaan om technische en interactiegegevens naar Mozilla te verzenden uitschakelt, dit niet van invloed is op de [dagelijkse gebruiksping](https://support.mozilla.org/kb/usage-ping-settings)). Deze dagelijkse gebruiksping biedt ons uitsluitend gedeïdentificeerde informatie over dat een gebruiker Firefox gebruikt, en deze informatie is niet gekoppeld aan eventuele andere gegevens over u. U kunt zich hiervoor bovendien uitschrijven via de instellingen.
+*Meer informatie, waaronder hoe u uw gegevensinstellingen kunt aanpassen:* U kunt uw instellingen voor gegevensverzameling voor [desktops](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) en [mobiele apparaten](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) op elk gewenst moment wijzigen. Houd er rekening mee dat als u Firefox toestaan om technische en interactiegegevens naar Mozilla te verzenden uitschakelt, dit niet van invloed is op de [dagelijkse gebruiksping](https://support.mozilla.org/kb/usage-ping-settings). Deze dagelijkse gebruiksping biedt ons uitsluitend gedeïdentificeerde informatie over dat een gebruiker Firefox gebruikt, en deze informatie is niet gekoppeld aan eventuele andere gegevens over u. U kunt zich hiervoor bovendien uitschrijven via de instellingen.
 
 ### Het op de markt brengen van onze services
 
@@ -110,13 +118,13 @@ Wanneer u dat toestaat, verzendt Firefox gegevens naar Mozilla over het websited
 
 Als onderdeel van de hiervoor beschreven activiteiten, zoals het gebruik van Firefox doorgronden en het meten van onze marketing, kunnen we pseudonieme, gedeïdentificeerde, samengevoegde of geanonimiseerde gegevens verzamelen. We gebruiken technologie die geschikt is voor de omstandigheden, waaronder id-verwijdering, OHTTP of [DAP](https://divviup.org/about/). Deze helpt voorkomen dat gegevens aan u worden gekoppeld. In sommige gevallen kunnen we samengevoegde en geanonimiseerde gegevens publiceren om onderzoek te bevorderen of als onderdeel van de wettelijke zakelijke doeleinden die hiervoor zijn beschreven (zoals het delen van samengevoegde inzichten met reclamepartners).
 
-### Met u communiceren
+### Voor communicatie met u
 
 Afhankelijk van uw instellingen (en of u wel of geen Mozilla-account hebt), kunnen we met u communiceren via berichten in producten, u berichten sturen (waaronder aan marketing gerelateerde berichten), u vragen om deel te nemen aan onderzoeken/enquêtes, of u vragen om te reageren op berichten van de klantenondersteuning. U kunt ook rechtstreeks contact met ons opnemen, zoals voor het [melden van een beschadigde site binnen Firefox](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). Wanneer u met ons communiceert via deze methoden, gebruiken we deze informatie alleen voor het doel waarvoor u deze verstrekt. We verwerken ook interactiegegevens die betrekking hebben op deze berichten om meer inzicht te krijgen in wie onze servicegerelateerde kennisgevingen (zoals die voor nieuwe functies, updates of beveiligingswaarschuwingen) hebben ontvangen.
 
 Wanneer u pagina’s met Help van Mozilla bezoekt in verband met Firefox, verzamelt Mozilla technische en interactiegegevens over uw gebruik van onze websites in overeenstemming met onze [Privacyverklaring voor websites, communicaties en cookies](https://www.mozilla.org/privacy/websites/) om inzicht te krijgen in uw gebruik van onze pagina’s met Help en ondersteuning en om deze te verbeteren.
 
-### Het voldoen aan toepasselijke wetgeving en het identificeren en voorkomen van schadelijke, niet-toegestane of illegale activiteit
+### Het voldoen aan toepasselijke wetgeving en het identificeren en voorkomen van schadelijke, niet-toegestane of illegale activiteit.
 
 Het kan ook zijn dat we verplicht worden om uw persoonlijke gegevens te verwerken om te voldoen aan toepasselijke wetten en voor beschermingsdoeleinden, zoals:
 
@@ -169,7 +177,7 @@ Avenue Louise 235 b 1<br/>
 1050 Brussel<br/>
 België<br/>
 
-We reageren op alleen aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
+We reageren op alle aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
 
 Houd er rekening mee dat wanneer u om verwijdering van uw Firefox-gegevens vraagt, deze binnen 30 dagen na ontvangst van de aanvraag worden verwijderd (met uitzondering van interactiegegevens, waarvoor een standaardbewaarperiode van 90 dagen geldt. De gegevens worden aan het einde van deze periode automatisch verwijderd).
 
@@ -187,14 +195,14 @@ Pre-release-versies van Firefox van Mozilla (die worden gedistribueerd via kanal
 
 ## Wijzigen
 
-Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, kondigen we ook de update opvallender aan via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals via blogberichten en forums.
+Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, kondigen we ook de update opvallender aan via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigingen, zoals via blogberichten en forums.
 
 ## Gegevensdefinities
 
 | Gegevenstype | Beschrijving | Voorbeelden voor Firefox-gebruikers |
 | ----- | ----- | ----- |
 | Technische gegevens | Dit is informatie over de hardware via welke u onze services gebruikt (zoals uw desktopcomputer, smartphone of tablet), de configuraties daarvan en de verbindingen daarvan met Firefox. | Apparaattype, besturingssysteem, IP-adres, internetprovider. |
-| Instellingen | Dit zijn uw voorkeuren of instellingen voor hoe de services worden verzorgd, zoals uw privacyvoorkeuren of werkbalkinstellingen. Als u geen specifieke keuzes hebt gemaakt, zijn dit de standaardinstellingen. | Verbeterde bescherming tegen volgen-instellingen, cookie-instellingen, toestemmingen(locatie, camera, microfoon), werkbalkaanpassing. |
+| Instellingen | Dit zijn uw voorkeuren of instellingen voor hoe de services worden verzorgd, zoals uw privacyvoorkeuren of werkbalkinstellingen. Als u geen specifieke keuzes hebt gemaakt, zijn dit de standaardinstellingen. | Verbeterde bescherming tegen volgen-instellingen, cookie-instellingen, toestemmingen (locatie, camera, microfoon), werkbalkaanpassing. |
 | Locatie | We leiden uw locatie af van uw IP-adres op het niveau van uw land, plaats of regio. | Landcode, plaats. |
 | Exacte locatie | Uw exacte locatie (binnen enkele meters) | Exacte locatie. |
 | Taalvoorkeur | Uw afgeleide taal of voorkeurstaal (als u deze hebt opgegeven in instellingen) voor interactie met onze services. | Taal. |
@@ -202,7 +210,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
 | Gegevens over systeemprestaties | Dit zijn gegevens over hoe de service werken op uw apparaat. | Geheugengebruik, weergavesnelheid van pagina's. |
 | Interactiegegevens | Dit zijn gegevens over hoe u omgaat met onze services, zoals hoeveel tabbladen u open hebt of waarop u hebt geklikt. | Kliktellingen, impressiegegevens, attributiegegevens, hoeveel zoekopdrachten zijn uitgevoerd, tijd op pagina, klikken op advertenties en gesponsorde tegels. |
 | Navigatiegegevens | Dit is informatie over websites en URL's die u hebt bezocht. Dit kan unieke categorieën navigatiegegevens (reizen, winkelen, sociale media), domeinen op het hoogste niveau (example.com) of specifieke bezochte webpagina's omvatten. | Navigatiegegevens, domeinen op het hoogste niveau (Top Level Domains of TLD's), specifieke URL's. |
-| Zoekgegevens | Dit zijn gegevens over de zoekcategorie, zoektrefwoorden of zoekquerytermen waarnaar wordt gezocht. | Zoekcategorieën(Voedsel, Reizen), trefwoorden ('Boston'), zoektermen ('huidige weer in Boston'). |
+| Zoekgegevens | Dit zijn gegevens over de zoekcategorie, zoektrefwoorden of zoekquerytermen waarnaar wordt gezocht. | Zoekcategorieën (Voedsel, Reizen), trefwoorden ('Boston'), zoektermen ('huidige weer in Boston'). |
 | Content | Wanneer u deze aan ons verstrekt, kunnen we gegevens verwerken, zoals geüploade afbeeldingen of enquêtereacties. | Geüploade afbeeldingen, bladwijzers, commentaren, enquêtereacties. |
 | Contactgegevens | Wanneer u deze aan ons verstrekt, kunnen we gegevens verwerken over hoe we contact met u kunnen opnemen. | E-mailadres, telefoonnummer. |
 
@@ -340,9 +348,9 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
             <td>
                 <p><strong>Contract</strong> om te waarborgen dat Firefox operationeel blijft.</p>
                 <p><strong>Legitiem belang</strong> bij het verrichten van onderzoek en metingen voor het verbeteren van functies, prestaties en stabiliteit.</p>
-                <p><strong>Toestemming</strong> wanneer u ervoor kies om ons crashrapporten te sturen die navigatiegegevens kunnen bevatten.</p>
+                <p><strong>Toestemming</strong> wanneer u ervoor kiest om ons crashrapporten te sturen die navigatiegegevens kunnen bevatten.</p>
             </td>
-            <td>U kunt zich via <a href="https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox">Firefox Labs</a>inschrijven voor experimentele functies en <a href="https://support.mozilla.org/kb/shield">meer informatie</a> weergeven over de onderzoeken waarvoor u bent ingeschreven en over hoe u zich op elk gewenst moment kunt uitschrijven voor al deze onderzoeken (of een specifiek onderzoek).</td>
+            <td>U kunt zich via <a href="https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox">Firefox Labs</a> inschrijven voor experimentele functies en <a href="https://support.mozilla.org/kb/shield">meer informatie</a> weergeven over de onderzoeken waarvoor u bent ingeschreven en over hoe u zich op elk gewenst moment kunt uitschrijven voor al deze onderzoeken (of een specifiek onderzoek).</td>
         </tr>
         <tr>
             <td>Het verbeteren van beveiliging</td>
@@ -377,10 +385,10 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
                 </ul>
             </td>
             <td>
-                <p><strong>Legitiem belang bij</strong> bij het doorgronden van hoe Firefox wordt gebruikt, waardoor verbeteringen en het uitvoeren van zakelijke functies mogelijk worden, zoals gebruiksrapportages en gebruiksprognoses.</p>
+                <p><strong>Legitiem belang</strong> bij het doorgronden van hoe Firefox wordt gebruikt, waardoor verbeteringen en het uitvoeren van zakelijke functies mogelijk worden, zoals gebruiksrapportages en gebruiksprognoses.</p>
                 <p><strong>Toestemming</strong>, waar dat is vereist onder toepasselijke wetgeving (bijvoorbeeld wanneer niet-essentiële cookies worden gebruikt) of wanneer gebruikers enquêtes invullen of vrijwillig andere informatie indienen.</p>
             </td>
-            <td>U kunt meer gedetailleerde informatie lezen over de informatie die we verzamelen voor <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">desktops</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> of <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. U kunt uw instellingen voor gegevensverzameling voor <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">desktops</a> en <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobiele apparaten</a> op elk gewenst moment bijwerken(houd er rekening mee dat als u Firefox toestaan om technische en interactiegegevens naar Mozilla te verzenden uitschakelt, dit niet van invloed is op de <a href="https://support.mozilla.org/kb/usage-ping-settings">dagelijkse gebruiksping</a>). Deze dagelijkse gebruiksping biedt ons uitsluitend gedeïdentificeerde informatie over dat een gebruiker Firefox gebruikt, en deze informatie is niet gekoppeld aan eventuele andere gegevens over u. U kunt zich hiervoor bovendien uitschrijven via de instellingen.</td>
+            <td>U kunt meer gedetailleerde informatie lezen over de informatie die we verzamelen voor <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">desktops</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a> of <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a>. U kunt uw instellingen voor gegevensverzameling voor <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">desktops</a> en <a href="https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy">mobiele apparaten</a> op elk gewenst moment bijwerken (houd er rekening mee dat als u Firefox toestaan om technische en interactiegegevens naar Mozilla te verzenden uitschakelt, dit niet van invloed is op de <a href="https://support.mozilla.org/kb/usage-ping-settings">dagelijkse gebruiksping</a>). Deze dagelijkse gebruiksping biedt ons uitsluitend gedeïdentificeerde informatie over dat een gebruiker Firefox gebruikt, en deze informatie is niet gekoppeld aan eventuele andere gegevens over u. U kunt zich hiervoor bovendien uitschrijven via de instellingen.</td>
         </tr>
         <tr>
             <td>Het op de markt brengen van onze services</td>
@@ -397,7 +405,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
                 </ul>
             </td>
             <td>
-                <p><strong>Legitiem belang</strong> bij het promoten van onze producten en services, waaronder het verzenden van marketingberichten en het meten en verbeteren va onze marketingcampagnes.</p>
+                <p><strong>Legitiem belang</strong> bij het promoten van onze producten en services, waaronder het verzenden van marketingberichten en het meten en verbeteren van onze marketingcampagnes.</p>
                 <p><strong>Toestemming</strong>, waar vereist onder toepasselijke wetgeving (zoals in rechtsgebieden die toestemming vereisen voor het verzenden van marketingberichten).</p>
             </td>
             <td>Lees meer over welke <a href="https://support.mozilla.org/kb/marketing-data">meetgegevens voor campagnes</a> worden verzameld en gedeeld en over hoe u zich kunt uitschrijven. Opmerking: Firefox deelt geen informatie zoals uw navigatiegeschiedenis, zoekquery's of opgeslagen wachtwoorden met marketingtechnologiepartners. Mozilla verzamelt alleen de benodigde gegevens voor het meten en verbeteren van onze marketingcampagnes.</td>
@@ -423,7 +431,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
                     <li>Taalvoorkeur</li>
                 </ul>
             </td>
-            <td><strong>Legitiem belang</strong> bij u informeren over verbeteringen of wijzigen in onze producten of services, evenals het bekijken van en reageren op relevante vragen of andere aanvragen.</td>
+            <td><strong>Legitiem belang</strong> bij u informeren over verbeteringen of wijzigingen in onze producten of services, evenals het bekijken van en reageren op relevante vragen of andere aanvragen.</td>
             <td></td>
         </tr>
         <tr>
@@ -435,7 +443,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
             </td>
             <td>
                 <p><strong>Naleving van de wet</strong> door te reageren op aanvragen met betrekking tot rechten van betrokkenen, op aanvragen van wetshandhavingsinstanties, het beheren en beschermen van onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
-                <p><strong>Legitiem belang</strong>, waar naleving niet toepasselijk is, bij het ondersteunen van juridische of regelgevende processen of aanvragen, het voorkomen van fraude en het beheren en beschermen onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
+                <p><strong>Legitiem belang</strong>, waar naleving niet strikt wordt vereist door wetgeving, bij het ondersteunen van juridische of regelgevende processen of aanvragen, het voorkomen van fraude en het beheren en beschermen onze eigendom, veiligheid en/of rechten (en die van andere gebruikers).</p>
             </td>
             <td>Meer informatie over hoe we reageren op <a href="https://www.mozilla.org/about/policy/transparency/">wettelijke aanvragen</a>.</td>
         </tr>

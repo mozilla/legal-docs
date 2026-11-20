@@ -24,7 +24,7 @@ In de [Privacyverklaring voor Mozilla Abonnementsservices](https://www.mozilla.o
 Mozilla is een wereldwijde organisatie en onze computers en de computers van onze serviceproviders kunnen zich in verschillende landen over de hele wereld bevinden, waaronder de Verenigde Staten. Dit betekent dat uw informatie kan worden verwerkt op servers die zich buiten het land bevinden waarin u woont en dat het desbetreffende land mogelijk een ander niveau aan voorschriften op het vlak van gegevensbescherming heeft dan dat van u. Door ons informatie te verstrekken, stemt u in met dergelijke overdrachten van uw informatie.
 
 ### Uw Betaling
-__Betaling.__ Wij bieden de Services aan als abonnementsservices die automatisch worden verlengd. Wanneer u zich registreert voor de betaalde versie van een van de Services, machtigt u ons om de abonnementskosten in rekening te brengen bij de betalingsmethode die u hebt opgegeven voor de eerste termijn van de Service(s) waarvoor u zich hebt geregistreerd. Uw abonnement wordt aan het einde van elke termijn automatisch verlengt en u machtig ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van 2 onbetaalde maanden verwijderen.
+__Betaling.__ Wij bieden de Services aan als abonnementsservices die automatisch worden verlengd. Wanneer u zich registreert voor de betaalde versie van een van de Services, machtigt u ons om de abonnementskosten in rekening te brengen bij de betalingsmethode die u hebt opgegeven voor de eerste termijn van de Service(s) waarvoor u zich hebt geregistreerd. Uw abonnement wordt aan het einde van elke termijn automatisch verlengd en u machtigt ons om de abonnementskosten elke termijn in rekening te brengen. Als u stopt met betalen, wordt uw account onmiddellijk opgeschort en kunnen we dit na verloop van 2 onbetaalde maanden verwijderen.
 
 __Restitutiebeleid van 30 dagen.__ De eerste keer dat u zich via de website van Mozilla op de Services abonneert, kunt u restitutie aanvragen als u uw account binnen de eerste 30 dagen opzegt. Mozilla zal in dat geval uw eerste abonnementstermijn terugbetalen. Dit aanbod geldt alleen de eerste keer dat u zich abonneert. Dit geldt naast eventuele rechten die u mogelijk hebt onder consumentenwetgeving in uw land.
 
@@ -62,7 +62,7 @@ Als u de betaalde abonnementsservice wilt gebruiken, moet u zich in een land bev
 
 ### Toestemming die nodig is om Firefox Relay aan te bieden
 
-__Uw gebruik van Relay.__ Als u een betaald abonnement op Mozilla Relay hebt en geen betalingsachterstand hebt, geeft Mozilla u toestemming om dit te gebruiken in overeenstemming met deze Servicevoorwaarden. Deze toestemming geldt uitsluitend voor uw persoonlijke gebruik. Het is u niet toegestaan om de Firefox Relay over te dragen, in sublicentie te geven, door te verkopen of commercieel te benutten. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
+__Uw gebruik van Relay.__ Als u een betaald abonnement op Firefox Relay hebt en geen betalingsachterstand hebt, geeft Mozilla u toestemming om dit te gebruiken in overeenstemming met deze Servicevoorwaarden. Deze toestemming geldt uitsluitend voor uw persoonlijke gebruik. Het is u niet toegestaan om de Firefox Relay over te dragen, in sublicentie te geven, door te verkopen of commercieel te benutten. U bent de enige die verantwoordelijk en aansprakelijk is voor de content die u verzendt en de gevolgen daarvan.
 
 U geeft Mozilla en Twilio alle rechten die nodig zijn om Firefox Relay te exploiteren, waaronder verwerking van uw e-mailadres en telefoonnummer en het verzenden en ontvangen van de e-mails, telefoongesprekken en sms-berichten die naar en van de door u gemaakte maskers worden verzonden. In het geval dat een e-mail niet aan u kan worden bezorgd, bewaren we deze op onze servers en verwijderen we deze nadat de e-mail is bezorgd (in geen enkel geval bewaren we het bericht langer dan drie dagen). 
 
@@ -74,7 +74,7 @@ __Beperkingen en aanpassingen.__ Met de gratis service kunt u tot 50 willekeurig
 
 Firefox Relay staat maximaal 50 minuten aan telefoongesprekken en maximaal 75 sms-berichten (verzonden en ontvangen) per maand toe. Alle verdere sms-berichten worden gewist en alle verdere telefoongesprekken kunnen niet plaatsvinden. Firefox Relay biedt geen ondersteuning voor mms-berichten. De normale tarieven van uw provider van telefoonminuten en sms-berichten kunnen bij u in rekening worden gebracht. 
 
-Als u eenmaal een telefoonnummermasker hebt gekozen, kunt u dit niet meer wijzigen. Omdat u slechts één telefoonnummermasker kunt kiezen, kunt u alleen reageren op het laatste sms-bericht dat u hebt ontvangen. Firefox Relay biedt geen ondersteuning voor het verzenden van andere sms-berichten als behalve het beantwoorden van het laatste sms-bericht dat u hebt ontvangen. 
+Als u eenmaal een telefoonnummermasker hebt gekozen, kunt u dit niet meer wijzigen. Omdat u slechts één telefoonnummermasker kunt kiezen, kunt u alleen reageren op het laatste sms-bericht dat u hebt ontvangen. Firefox Relay biedt geen ondersteuning voor het verzenden van andere sms-berichten behalve het beantwoorden van het laatste sms-bericht dat u hebt ontvangen. 
 
 Firefox Relay verzendt alleen e-mailbijlagen tot een maximale grootte van 10 MB. Grotere e-mailbijlagen worden geblokkeerd.
 
@@ -97,11 +97,11 @@ U stemt ermee in en garandeert Mozilla dat:
 
 * Alle informatie die u hebt verstrekt, nauwkeurig en waarheidsgetrouw is;
 * U geen frauduleuze, misleidende of onnauwkeurige informatie zult gebruiken of verstrekken; 
-* U zich niet zult voordoen als iemand anders en dat u geen andere voorstelling van zaken zult gegeven over uw identiteit of uw band met welke persoon dan ook;
+* U zich niet zult voordoen als iemand anders en dat u geen andere voorstelling van zaken zult geven over uw identiteit of uw band met welke persoon dan ook;
 * Uw gebruik van de Service zal voldoen aan het [Beleid voor aanvaardbaar gebruik](https://www.mozilla.org/about/legal/acceptable-use/) van Mozilla.
-* U zult de Services niet zult gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
+* U zult de Services niet gebruiken om inbreuk te maken op rechten van wie dan ook of voor schending van de wet.
 
-Houd er rekening mee dat het twee maanden kan duren om uitschrijvingsaanvragen voor de Services te verzorgen die moeten worden behandeld door sites van gegevenshandelaren. Dit is gerekend vanaf onze ontvangst van volledige informatie die daarvoor is vereist.
+Houd er rekening mee dat het maximaal twee maanden kan duren om uitschrijvingsaanvragen voor de Services te verzorgen die moeten worden behandeld door sites van gegevenshandelaren. Dit is gerekend vanaf onze ontvangst van volledige informatie die daarvoor is vereist.
 
 __Beperkingen.__ U begrijpt dat er sprake is van een rechtstreekse correlatie tussen de resultaten van de Services en de snelheid en volledigheid van informatie die u aan ons verstrekt. Hoewel Mozilla Monitor en [Have I Been Pwned](https://haveibeenpwned.com/) streven naar actuele gegevens, is er geen garantie dat ze over volledige en tijdige informatie beschikken over alle openbare gegevensinbreuken. 
 
@@ -126,7 +126,7 @@ __Intellectueel eigendom van Mozilla.__ Mozilla en de licentiegevers van Mozilla
 
 * __Mozilla kan deze Voorwaarden bijwerken.__ Mozilla kan er van tijd tot tijd toe besluiten om deze voorwaarden bij te werken. Bijgewerkte voorwaarden worden online gepubliceerd. Uw voortgezette gebruik van de Services wordt opgevat als uw aanvaarding van dergelijke wijzigingen. We publiceren een ingangsdatum bovenaan deze pagina om aan te geven wanneer onze recentste update is uitgevoerd.
 
-* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Services te staken en uw abonnement te annuleren. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Services op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Services te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
+* __Beëindiging.__ Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigt. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van de Services te staken en uw abonnement te annuleren. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot de Services op elk gewenst moment opschorten of beëindigen, waaronder wanneer Mozilla besluit om de Services te beëindigen. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
 
 Als we uw toegang tot de Services beëindigen zonder specifieke oorzaak, blijft u gedurende de huidige factureringsperiode toegang tot de Services houden of betalen we u de huidige maand terug. We behouden ons echter het recht voor om uw gebruik van de Service onmiddellijk te beëindigen als we er in alle redelijkheid van overtuigd zijn dat u de Gebruiksvoorwaarden hebt geschonden of dat u deze Voorwaarden anderszins hebt geschonden.
 

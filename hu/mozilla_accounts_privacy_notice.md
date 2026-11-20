@@ -33,9 +33,9 @@ Amikor összekapcsolt szolgáltatásokat használ, az adatait az adott szolgált
 * [Intelligens ablak](https://www.mozilla.org/privacy/smart-window/)
 * [Mozilla előfizetési szolgáltatások](https://www.mozilla.org/privacy/subscription-services/) a Mozilla VPN, Mozilla Monitor és Firefox Relay esetében
 
-Ha egy Mozilla-fiókhoz kapcsolódó szolgáltatás váratlan problémát tapasztal (például összeomlást), egy külső szolgáltatást használunk technikai és interakciós adatok, például hibaüzenetek, eszközinformációk és az alkalmazás állapotának gyűjtésére a összeomlás időpontjában, hogy segítsen diagnosztizálni és kijavítani a szolgáltatásainkban felmerülő problémákat.
+Ha egy Mozilla-fiókhoz kapcsolódó szolgáltatás váratlan problémát tapasztal (például összeomlást), egy külső szolgáltatást használunk technikai és interakciós adatok, például hibaüzenetek, eszközinformációk és az alkalmazás állapotának gyűjtésére az összeomlás időpontjában, hogy segítsen diagnosztizálni és kijavítani a szolgáltatásainkban felmerülő problémákat.
 
-*További részletek, beleértve az adatbeállítások módosítását:* Bármikor frissítheti az [Mozilla-fiók adatgyűjtési beállításait](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Tekintse meg a kapcsolódó szolgáltatásokkal kapcsolatos adatbeállításaira vonatkozó tájékoztatót.
+*További részletek, beleértve az adatbeállítások módosítását:* Bármikor frissítheti a [Mozilla-fiók adatgyűjtési beállításait](https://support.mozilla.org/kb/firefox-accounts-managing-account-data). Tekintse meg a kapcsolódó szolgáltatásokkal kapcsolatos adatbeállításaira vonatkozó tájékoztatót.
 
 ### Firefox-hivatkozás-gyűjtemények biztosítása
 
@@ -69,10 +69,10 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 
 |  |  |
 | ----- | ----- |
-| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
+| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list).  |
 | Hatóságok  | A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket.  |
 | Kutatók | Amikor a nyíltság [küldetésén](https://www.mozilla.org/about/manifesto/) dolgozunk, időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
-| A Mozilla által ellenőrzött jogalanyok és utódaik  | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
+| A Mozilla által ellenőrzött jogalanyok és utódaik  | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolt vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
 ## Nemzetközi adattovábbítás
 
@@ -86,7 +86,7 @@ Az általunk gyűjtött technikai, beállítási és interakciós adatokat álta
 
 Ha töröl egy hivatkozást vagy hivatkozásgyűjteményt a Firefox-hivatkozásgyűjteményeiből, biztonsági és visszaélés-megelőzési okokból megőrizhetjük a kapcsolódó adatokat. A [Szolgáltatási feltételeinket](https://www.mozilla.org/about/legal/terms/services/) sértő tartalmakat határozatlan ideig megőrizhetjük, hogy megelőzhessük és felmérhessük a jövőbeli visszaéléseket.
 
-A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
+A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonosítható vagy összesített alapon.
 
 ## Az Ön jogai és döntései
 
@@ -115,7 +115,7 @@ Válaszolunk minden olyan kérésre, amelyet olyan egyénektől kapunk, akik a v
 
 ### Az Ön döntései
 
-Bármikor frissítheti az [Mozilla-fiók beállításait](https://support.mozilla.org/kb/firefox-accounts-managing-account-data).
+Bármikor frissítheti a [Mozilla-fiók beállításait](https://support.mozilla.org/kb/firefox-accounts-managing-account-data).
 
 ## Változtatások
 
@@ -130,7 +130,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a közleménye
 | Kapcsolattartási adatok | Az Ön által a fiókregisztráció részeként megadott e-mail-cím, valamint minden egyéb elérhetőségi adat, amelyet megadhat nekünk.  | E-mail-cím, másodlagos e-mail-cím, telefonszám. |
 | Interakciós adatok | Ezek az adatok arra vonatkoznak, hogyan veszi igénybe a szolgáltatásainkat. | Kattintásszámok, eseménynaplók, használati adatok.  |
 | Nyelvi beállítások | Az Ön által kikövetkeztetett vagy előnyben részesített nyelv (ha megadja a beállításokban) a szolgáltatásainkkal való interakcióhoz. | Nyelv.  |
-| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város.  |
+| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetünk az IP-címe alapján. | Országkód, város.  |
 | Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások.  | Adatvédelmi beállítások, fiókbeállítások.  |
 | Rendszerteljesítmény-adatok | Adatok arról, hogy a szolgáltatások hogyan működnek az Ön eszközén.  | Időbélyegek, beküldés sikeressége/sikertelensége.  |
 | Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a kapcsolatairól.  | Eszköz operációs rendszere, böngészője és verziója, időbélyeg, területi beállítás. |
