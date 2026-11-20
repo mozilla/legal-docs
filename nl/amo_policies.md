@@ -1,6 +1,6 @@
 # AMO-beleid
 
-Laatst bij gewerkt op 18 maart 2024
+Laatst bijgewerkt op 18 maart 2024
 {: datetime="2024-03-18" }
 
 [addons.mozilla.org (AMO)](https://addons.mozilla.org/) is een online community die content host die is gemaakt door Firefox-gebruikers en -ontwikkelaars. Door deel te nemen aan deze community, stemt u ermee in dat u voldoet aan de [Gebruikersvoorwaarden voor Services voor Websites en Communicaties](https://www.mozilla.org/about/legal/terms/mozilla/) van Mozilla, en dat uw gebruik is onderworpen aan de [Privacyverklaring voor Websites, Communicaties en Cookies](https://www.mozilla.org/privacy/websites/).

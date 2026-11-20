@@ -1,7 +1,7 @@
 # Firefox 隐私声明
 
-2025 年 12 月 17 日生效
-{: datetime="2025-12-17" }
+2026 年 5 月 4 日生效
+{: datetime="2026-05-04" }
 
 <a class="link-current-pn" href="https://www.mozilla.org/privacy/firefox/">如需查看当前声明，请点击此处。</a>
 
@@ -15,17 +15,25 @@
 
 Mozilla 会收集[某些数据](#bookmark-how-we-use-data)，例如技术和设置数据，以提供 Firefox 浏览器及其相关服务的核心功能，区分您的设备与其他设备，记住并遵守您的设置，以及为您提供默认功能，如[新标签页](https://support.mozilla.org/kb/about-new-tab-page)、[PDF 编辑](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer)、[密码管理器](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager)和[全面 Cookie 保护](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode)。您可以通过调整[控件、按钮和工具栏](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars)以及添加[附加组件功能](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)来进一步定制您的 Firefox 体验。
 
-某些 Firefox 功能，例如网页的自动[翻译](https://support.mozilla.org/kb/website-translation)和[在 PDF 中上传图片时的“替代文本”建议](https://support.mozilla.org/kb/pdf-alt-text)，是由基于小型语言模型的人工智能 (AI) 驱动的，这些模型会下载到您的设备上。这些功能在本地运行，即网页内容、PDF、图片和标签页 URL 都会保留在您的设备上，未经您的明确同意，不会被发送到 Mozilla 的服务器或用于训练目的。请注意，其他 Firefox 功能可能会集成第三方 AI 模型，本声明中会进一步详细说明。
+某些 Firefox 功能，例如网页的自动[翻译](https://support.mozilla.org/kb/website-translation)和[在 PDF 中上传图片时的“替代文本”建议](https://support.mozilla.org/kb/pdf-alt-text)，是由基于小型语言模型的人工智能 (AI) 驱动的，这些模型会下载到您的设备上。这些功能在本地运行，即网页内容、PDF、图片和标签页 URL 都会保留在您的设备上，未经您的明确同意，不会被发送到 Mozilla 的服务器或用于训练目的。请注意，其他 Firefox 功能可能会集成第三方 AI 模型，本声明中会进一步详细说明。了解详情，包括如何在设置中[管理基于 AI 的功能](https://support.mozilla.org/kb/firefox-ai-controls)和相关模型。
+
+如果您选择使用 Smart Window 功能，则该功能的使用受 [Smart Window 隐私声明](https://www.mozilla.org/privacy/smart-window/)约束，该声明对与 Smart Window 相关的数据处理方式作出了说明。
 
 ### 为了根据您的需求调整 Firefox
 
 Firefox 会处理多种个人数据，这些数据不会离开您的设备，例如浏览历史、网页表单数据、临时互联网文件和 Cookie。这意味着数据会保留在您的设备上，除非本声明中另有说明，否则不会发送到 Mozilla 的服务器。如果您选择允许，您的精确位置也可能会被处理，以用于 Google Maps 等网站提供与位置相关的功能；这些数据仅由您选择启用该功能的网站从您的设备访问，不会被发送到 Mozilla 的服务器。
 
-如果您选择在搭载 Apple Intelligence 的设备（iPhone 15 Pro+ 且运行 iOS 26+ 系统）上的 Firefox 移动版中启用“摇一摇总结”功能，总结内容将在您提出请求时于设备上本地创建。如果您在未搭载 Apple Intelligence 的设备上启用此功能，当您请求总结时，页面内容将被发送至 Mozilla 服务器进行处理，总结结果将返回至您的设备；Mozilla 不会存储此内容或生成的总结内容。
+当您在兼容设备上运行支持设备端智能的受支持操作系统，并启用“摇一摇总结”功能时，所请求的总结将在您的设备本地生成。否则，当您请求总结时，相关页面内容会发送到 Mozilla 服务器进行处理，并将结果返回到您的设备；Mozilla 不会保存这些内容或生成的总结。了解 [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) 和 [Android](https://support.mozilla.org/kb/summarize-pages-android) 设备上的“摇一摇总结”功能详情。
 
 *更多详情，包括如何调整您的数据设置：*在您的设备上处理的数据仍由您掌控。您可以随时[管理您的浏览数据](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox)和[本地存储设置](https://support.mozilla.org/kb/storage)，或更新您的[位置权限](https://support.mozilla.org/kb/does-firefox-share-my-location-websites)。
 
-### 提供并改进搜索功能与建议
+### 为向您提供 Firefox VPN
+
+当您登录 Mozilla 帐户后，可启用 Firefox 的相关功能，通过代理服务器（“VPN”）对您的 IP 地址进行隐藏。启用该功能后，Firefox 的网络流量将通过中间节点进行代理转发，以避免您的网络服务提供商获知您所连接的服务器，并对您访问网站时的 IP 地址进行隐藏。该功能不代理设备上其他应用的网络流量，且其本身并不能使您的网站浏览实现完全匿名。使用 VPN 可能会对您的浏览体验产生影响，包括向您提供与您所在地区不完全匹配的内容。
+
+我们使用代表我们运营的代理服务器来提供 VPN 功能。该代理服务器不具备访问网页内容或其他敏感信息（如消息或密码）的能力，也不会收集您所访问网站或其内容的任何数据。我们将处理有限的技术数据（包括客户端版本、连接状态和设备类型/操作系统），以提供、维护并确保服务的性能与稳定性；同时处理交互数据，以了解功能的使用情况并指导后续改进。
+
+### 为提供并改进搜索功能与建议
 
 当您在 Firefox 中输入搜索查询时，Firefox 会提供[搜索建议](https://support.mozilla.org/kb/search-suggestions-firefox)，以助您更快、更直接地找到所需内容。部分搜索建议来自您的搜索提供商（即“搜索建议”）。其他建议则来自 Firefox，其依据包括存储在您本地设备上的信息（如近期搜索词、打开的标签页和曾访问的网址），或来自 Mozilla 及其合作伙伴（包括付费赞助方和维基百科等网络资源）的内容（即“Firefox 建议”）。
 
@@ -37,7 +45,7 @@ Firefox 会处理多种个人数据，这些数据不会离开您的设备，例
 
 部分用户（包括美国以外某些地区的用户，以及在设置中取消勾选“输入时从 Mozilla 获取建议”的美国用户）在使用 Firefox 建议功能时，将转而接收本地处理的结果。对这些用户而言，建议将根据您设备上 Firefox 副本中存储的信息在本地生成。针对特定查询关键词（而非您的搜索查询）的去标识化点击与交互数据将通过 OHTTP 发送至 Mozilla，以隐藏您的 IP 地址及其他识别信息。对于赞助类建议，我们的合作伙伴可能会收到关于其建议展示与点击情况的汇总信息，但无法获知具体查看建议的用户或触发建议的关键词。（如果您所在地区无法使用 Firefox 建议，您将仅接收搜索建议）。
 
-### 在 Firefox 新标签页上提供相关内容和广告
+### 为在 Firefox 新标签页上提供相关内容和广告
 
 Firefox 会在新标签页上显示内容，并通过广告支持其发展。您可以随时在浏览器设置中将其关闭。
 
@@ -53,11 +61,11 @@ Firefox 会在新标签页上显示内容，并通过广告支持其发展。您
 
 您可以在浏览器设置（[桌面端](https://support.mozilla.org/kb/customize-your-new-tab-page)、[Android](https://support.mozilla.org/kb/customize-firefox-home-screen)、[iOS](https://support.mozilla.org/kb/customize-firefox-home-ios)）中关闭或自定义任何此类新标签页功能及其关联的数据处理。您也可以在继续使用其余功能的同时，[禁用赞助内容](https://support.mozilla.org/kb/sponsor-privacy)。
 
-### 提供 Mozilla 帐户
+### 为提供 Mozilla 帐户
 
 如果您注册了 Mozilla 帐户，我们将根据 [Mozilla 帐户隐私声明](https://www.mozilla.org/privacy/mozilla-accounts/)处理额外的信息，包括帐户详情、联系信息和同步数据，以及本声明中列出的数据。
 
-### 提供 AI 聊天机器人服务
+### 为提供 AI 聊天机器人服务
 
 您可以选择使用您选择的第三方 AI 聊天机器人来帮助您完成诸如总结您正在阅读的内容、写作和头脑风暴等任务，但需遵守该服务提供商的[使用条款和隐私声明](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers)。
 
@@ -65,7 +73,7 @@ Firefox 会在新标签页上显示内容，并通过广告支持其发展。您
 
 *更多详情，包括如何调整您的数据设置：*您可以阅读更多有关如何在 Firefox 中[管理或删除](https://support.mozilla.org/kb/ai-chatbot) AI 聊天机器人的信息。
 
-### 提供并启用附加组件 (addons.mozilla.org)
+### 为提供并启用附加组件 (addons.mozilla.org)
 
 您可以从 [addons.mozilla.org](https://addons.mozilla.org)（以下简称“AMO”）或 Firefox Add-ons Manager 安装附加组件，可使用工具栏中的 Firefox 菜单按钮进行访问。我们会处理您在 Add-on Manager 中的搜索查询，以便为您提供建议的附加组件。如果您选择安装任何附加组件，Firefox 将处理技术数据、基于 IP 推断的位置信息和设置数据，并定期与 Mozilla 的服务器连接，以便为您的附加组件安装并应用正确的更新。我们还会收集有关附加组件使用情况的技术和交互数据，以帮助改进 Firefox。
 
@@ -73,7 +81,7 @@ Firefox 会在新标签页上显示内容，并通过广告支持其发展。您
 
 *更多详情，包括如何调整您的数据设置：*了解[如何删除或启用附加组件](https://support.mozilla.org/kb/disable-or-remove-add-ons)。您还可以查看[附加组件网站](https://addons.mozilla.org/firefox/)的[隐私声明](https://www.mozilla.org/privacy/websites/)。
 
-### 维护和改进功能、性能与稳定性
+### 为维护和改进功能、性能与稳定性
 
 Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)，并通过 Firefox 实验室提供某些[实验性功能](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)，以便在向所有 Firefox 用户提供不同的功能和想法或将其纳入 Firefox 核心功能之前对其进行测试，这使我们能够就用户的需求和期望做出更明智的决定。此项研究使用技术数据、系统性能数据、基于 IP 推断的位置数据、设置数据以及交互数据。
 
@@ -83,7 +91,7 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 *更多详情，包括如何调整您的数据设置：*您可随时[了解](https://support.mozilla.org/kb/shield)已参与的研究项目详情，并选择退出全部或特定研究，同时通过 [Firefox 实验室](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox)选择启用实验性功能。此外，您还可[详细了解](https://support.mozilla.org/kb/technical-and-interaction-data)我们处理的各项技术与交互数据，包括如何关闭相关数据收集功能。
 
-### 提升安全防护
+### 为提升安全防护
 
 为确保用户免受安全漏洞威胁，Firefox 桌面版会定期连接至 Mozilla 服务器（或您安装 Firefox 时使用的其他服务）以检查软件更新。而 Firefox 的 Android 和 iOS 版本更新，则分别由 Google Play Store 和 Apple App Store 进行管理。
 
@@ -94,13 +102,13 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 *更多详情，包括如何调整您的数据设置：*[升级和附加组件黑名单](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections)、[Google 安全浏览服务](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work)、[OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/)。
 
-### 了解 Firefox 的使用情况
+### 为了解 Firefox 的使用情况
 
 我们通过处理相关[数据](#bookmark-understand-usage)，深入了解您与服务的互动情况，包括 Firefox 使用时长、语言偏好设置、搜索工具使用频率、搜索建议交互情况、网页加载速度，以及广告或[验证码](https://en.wikipedia.org/wiki/CAPTCHA)展示数量等指标。这些数据分析有助于我们评估用户访问和使用服务的模式，从而持续优化 Firefox 的功能体验，推动业务的改进升级。
 
 *更多详情，包括如何调整您的数据设置：*您可随时调整[桌面端](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox)与[移动端](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy)的数据收集设置。请注意：取消勾选“允许 Firefox 向 Mozilla 发送技术和交互数据”选项不会影响[每日使用数据上传](https://support.mozilla.org/kb/usage-ping-settings)。该“每日使用数据上传”仅向我们提供用户正在使用 Firefox 的匿名信息，这些信息不会与您的其他个人数据相关联，且您可通过设置选择关闭此项功能。
 
-### 营销我们的服务
+### 为营销我们的服务
 
 在获得您授权的情况下，Firefox 会向 Mozilla 发送相关数据，包括引导您访问下载页面的网站域名或特定广告活动信息（如有），以帮助我们了解和改进营销效果。Firefox 还会与营销合作伙伴共享信息，用于衡量和优化营销活动。具体共享的信息内容因用户发现 Firefox 的途径和操作系统而异，通常包括用户访问下载页面的来源渠道以及是否活跃使用 Firefox 等信息。如果您的设备预装了 Firefox，则会将技术数据和交互数据（如设备类型和 Firefox 使用情况）发送至我们的营销合作伙伴，并与 Mozilla 共享。
 
@@ -110,17 +118,17 @@ Mozilla 在 Firefox 内部进行[研究](https://support.mozilla.org/kb/shield)�
 
 作为上述活动（如分析 Firefox 使用情况和评估营销效果）的一部分，我们可能会创建假名化、去标识化、聚合化或匿名化的数据。我们采用适合具体场景的技术手段，包括标识符移除、OHTTP 协议或 [DAP 协议](https://divviup.org/about/)等，这些技术有助于防止数据与您产生关联。在某些情况下，我们可能会共享或发布经过聚合和匿名化处理的数据，以促进相关研究或实现上述合法商业目的（例如与广告合作伙伴共享聚合分析结果）。
 
-### 与您沟通
+### 为实现用户沟通
 
 根据您的设置（以及是否拥有 Mozilla 帐户），我们可能会通过产品内消息、发送通知（包括营销相关通信）、邀请参与调研/问卷调查或回复客户支持请求等方式与您沟通。您也可直接联系我们，例如报告 [Firefox 中的网站异常情况](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report)。当您通过这些方式与我们联系时，我们仅会将您分享的信息用于您提供信息时所对应的用途。同时，我们会处理与这些沟通相关的交互数据，以便更好地了解服务相关公告（如新功能、更新或安全警报）的接收情况。
 
 当您访问与 Firefox 相关的 Mozilla 帮助页面时，Mozilla 会根据我们的 [Mozilla 网站、通信和 Cookie](https://www.mozilla.org/privacy/websites/)声明收集关于您使用我们网站的技术数据和交互数据，以便我们了解您对我们支持和帮助页面的使用情况并对其进行改进。
 
-### 遵守适用法律，并识别和防止有害、未经授权或非法的活动
+### 为遵守适用法律并识别和预防有害、未经授权或非法活动
 
 我们可能需要处理您的个人数据以遵守适用法律和保护目的，具体包括：
 
-*响应合法请求并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。
+* 响应合法请求并遵守[法律程序](https://www.mozilla.org/about/policy/transparency/)，例如响应传票、调查或政府机构的要求。Mozilla 要求提供有效的法律程序才能向政府披露特定用户数据。
 * 响应行使隐私权的请求，例如您访问或删除个人数据的权利。
 * 识别、调查和处理潜在的欺诈活动或其他有害活动，例如非法活动、网络攻击或知识产权侵权（包括提出或辩护法律索赔）。
 * 执行内部合规和安全活动，例如审计和企业安全管理。
@@ -152,13 +160,13 @@ Mozilla（以及我们的服务器）位于美国。由于我们是一家全球�
 
 作为 Firefox 用户，您享有以下权利：
 
-1.被告知我们处理您的哪些数据、处理原因及数据共享对象（即本声明！）
-2.要求获取我们持有的您的数据副本
-3.要求数据可携权
-4.要求更正我们持有的有关您的不准确或不完整数据
-5.在特定情况下要求删除我们持有的您的个人数据
-6.在某些情况下，限制或反对我们使用您的个人数据的方式
-7.如果您对我们的数据处理方式存在疑虑，可向相关数据保护机构投诉。我们建议您首先联系我们（通过 [dpo@mozilla.com](mailto:dpo@mozilla.com)），但您也可以联系[欧盟相关数据保护机构](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)，或查找（并联系）您本地的数据保护机构
+1. 被告知我们处理您的哪些数据、处理原因及数据共享对象（即本声明！）
+2. 要求获取我们持有的您的数据副本
+3. 要求数据可携权
+4. 要求更正我们持有的有关您的不准确或不完整数据
+5. 在特定情况下要求删除我们持有的您的个人数据
+6. 在某些情况下，限制或反对我们使用您的个人数据的方式
+7. 如果您对我们的数据处理方式存在疑虑，可向相关数据保护机构投诉。我们建议您首先联系我们（通过 [dpo@mozilla.com](mailto:dpo@mozilla.com)），但您也可以联系[欧盟相关数据保护机构](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)，或查找（并联系）您本地的数据保护机构
 
 如您希望对您的个人数据行使上述任何权利，请通过我们的[数据主体访问请求门户](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0)联系我们 (Mozilla Corporation)；我们绝不会因任何人行使其隐私权利而对其进行任何形式的歧视。如果您对个人数据或我们的隐私保护措施有任何其他问题，请发送电子邮件至 [compliance@mozilla.com](mailto:compliance@mozilla.com) 与我们联系。
 
@@ -435,7 +443,7 @@ Mozilla 预发布的 Firefox 版本（通过 Nightly、Beta、Developer Edition 
             </td>
             <td>
                 <p><strong>遵守法律</strong>，以响应数据主体权利请求、回应执法请求、管理并保护我们（及用户）的权利、财产和/或安全。</p>
-                <p>在合规性不适用的情况下，出于支持法律或监管程序或请求、防止欺诈以及管理并保护我们（及用户）的权利、财产和/或安全的<strong>合法利益</strong>考虑。</p>
+                <p>在法律未严格要求的情况下，出于支持法律或监管程序或请求、防止欺诈以及管理并保护我们（及用户）的权利、财产和/或安全的<strong>合法利益</strong>考虑。</p>
             </td>
             <td>详细了解我们如何响应<a href="https://www.mozilla.org/about/policy/transparency/">合法请求</a>。</td>
         </tr>

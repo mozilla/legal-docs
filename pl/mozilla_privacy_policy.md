@@ -19,7 +19,7 @@ Informacje na temat Użytkownika są zbierane:
 
 * gdy użytkownik przekazuje je nam bezpośrednio (np. przesyłając raporty o awariach);
 * automatycznie w związku z korzystaniem z produktów oraz usług Mozilla (np. gdy Mozilla weryfikuje, czy system Firefox jest aktualny);
-* gdy zostaną przekazuje Mozilla przez osobę trzecią (np. gdy Thunderbird współpracuje z operatorem skrzynki pocztowej Użytkownika przy zakładaniu konta Użytkownika);
+* gdy zostaną przekazane Mozilla przez osobę trzecią (np. gdy Thunderbird współpracuje z operatorem skrzynki pocztowej Użytkownika przy zakładaniu konta Użytkownika);
 * gdy Mozilla wyciąga wnioski z informacji wcześniej pozyskanych od Użytkownika (np. gdy Mozilla wykorzystuje numer IP Użytkownika do ustawienia języka niektórych usług).
 
 ## Do czego Mozilla wykorzystuje zebrane informacje?
