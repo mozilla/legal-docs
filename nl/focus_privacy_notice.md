@@ -11,13 +11,13 @@ Dat is de reden waarom we Firefox Focus en Klar en al onze producten maken: zoda
 
 ### U voorzien van de Firefox Focus- en Klar-browser
 
-Focus en Klar verwerken technische en instellingsgegevens, navigatieschiedenis, webformuliergegevens, tijdelijke internetbestanden en cookies **op uw apparaat** om u de kernfunctionaliteit van de browser te bieden, uw apparaat te onderscheiden van dat van anderen en om uw instellingen in acht te nemen. Dit betekent dat de gegevens op uw apparaat blijven, tenzij anders is aangegeven in deze Verklaring. Uw navigatiegegevens worden van uw apparaat verwijdert wanneer u uw browser sluit.
+Focus en Klar verwerken technische en instellingsgegevens, navigatiegeschiedenis, webformuliergegevens, tijdelijke internetbestanden en cookies **op uw apparaat** om u de kernfunctionaliteit van de browser te bieden, uw apparaat te onderscheiden van dat van anderen en om uw instellingen in acht te nemen. Dit betekent dat de gegevens op uw apparaat blijven, tenzij anders is aangegeven in deze Verklaring. Uw navigatiegegevens worden van uw apparaat verwijderd wanneer u uw browser sluit.
 
 Daarnaast kan, als u dat toestaat, uw exacte locatie ook worden verwerkt voor aan locatie gerelateerde functionaliteit voor websites, zoals Google Maps. Deze gegevens worden alleen geopend vanaf uw apparaat door de website(s) waarvoor u dit inschakelt. Deze gegevens worden niet naar servers van Mozilla verzonden. U kunt op elk gewenst moment op het prullenbakpictogram op de werkbalk tikken om uw navigatiegegevens te verwijderen of uw [locatiemachtigingen](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) bij te werken.
 
 ### Zoekfunctionaliteit bieden en verbeteren
 
-Wanneer u een zoekopdracht uitvoert, worden uw zoekopdracht, apparaatinformatie en locatiegegevens verwerkt door uw standaard zoekmachine (op basis van hun [toepasselijke privacyverklaring](#privacy-notices-for-search-providers)) om u zoekresultaten te bieden. U kunt er ook voor kiezen om u standaardzoekmachine in te schakelen, zodat deze zoeksuggesties biedt.
+Wanneer u een zoekopdracht uitvoert, worden uw zoekopdracht, apparaatinformatie en locatiegegevens verwerkt door uw standaard zoekmachine (op basis van hun [toepasselijke privacyverklaring](#privacy-notices-for-search-providers)) om u zoekresultaten te bieden. U kunt er ook voor kiezen om uw standaardzoekmachine in te schakelen, zodat deze zoeksuggesties biedt.
 
 ### Voor het handhaven en verbeteren van prestaties en stabiliteit
 
@@ -41,7 +41,7 @@ Voor het verzorgen van onze services zoals deze hiervoor reeds zijn beschreven, 
 
 |  |  |
 | ----- | ----- |
-| Leveranciers van zoekmachines | We hebben contractuele overeenkomsten afsloten met verschillende leveranciers van zoekmachines om u een verscheidenheid aan leveranciers van zoekmachines te bieden. |
+| Leveranciers van zoekmachines | We hebben contractuele overeenkomsten afgesloten met verschillende leveranciers van zoekmachines om u een verscheidenheid aan leveranciers van zoekmachines te bieden. |
 | Door Mozilla beheerde rechtspersonen en opvolgers | Als een mondiaal bedrijf, delen we gegevens met door Mozilla beheerde filialen en dochterondernemingen. Het kan ook zijn dat we persoonlijke gegevens openbaar moeten maken als onderdeel van een bedrijfstransactie, zoals een fusie, een aankoop, de verkoop van activa of een soortgelijke transactie. |
 
 ## Internationale gegevensoverdrachten
@@ -71,7 +71,7 @@ Avenue Louise 235 b 1<br>
 1050 Brussel<br>
 België
 
-We reageren op alleen aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
+We reageren op alle aanvragen die we ontvangen van individuen die hun gegevensbeschermingsrechten wensen uit te oefenen in overeenstemming met toepasselijke wetten voor gegevensbescherming. Het kan zijn dat we u om aanvullende informatie moeten vragen om uw identiteit te bevestigen voordat we kunnen doorgaan met uw aanvraag.
 
 ### Uw keuzemogelijkheden
 
@@ -83,14 +83,14 @@ Deze privacykennisgeving is bestemd voor de recentste algemene releaseversie van
 
 ## Wijzigen
 
-Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, zullen we ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigen, zoals via blogberichten en forums.
+Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geval worden de updates online gepubliceerd en werken we de ingangsdatum van deze verklaring bij. Als de wijzigingen aanzienlijk zijn, zullen we ook de update opvallender aankondigen via de gebruikelijke kanalen van Mozilla voor dergelijke aankondigingen, zoals via blogberichten en forums.
 
 ## Gedefinieerde gegevenstypen
 
 | Gegevenstype | Beschrijving | Voorbeelden voor Focus/Klar-gebruikers |
 | ----- | ----- | ----- |
 | Technische gegevens | Dit is informatie over de hardware via welke u onze services gebruikt (zoals uw desktopcomputer, smartphone of tablet), de configuraties daarvan en de verbindingen daarvan met Focus/Klar. | Apparaattype, besturingssysteem, IP-adres, internetprovider. |
-| Instellingen | Dit zijn uw voorkeuren of instellingen voor hoe de services worden verzorgd, zoals uw privacyvoorkeuren of werkbalkinstellingen. Als u geen specifieke keuzes hebt gemaakt, zijn dit de standaardinstellingen. | Verbeterde bescherming tegen volgen-instellingen, cookie-instellingen, toestemmingen(locatie, camera, microfoon), werkbalkaanpassing. |
+| Instellingen | Dit zijn uw voorkeuren of instellingen voor hoe de services worden verzorgd, zoals uw privacyvoorkeuren of werkbalkinstellingen. Als u geen specifieke keuzes hebt gemaakt, zijn dit de standaardinstellingen. | Verbeterde bescherming tegen volgen-instellingen, cookie-instellingen, toestemmingen (locatie, camera, microfoon), werkbalkaanpassing. |
 | Gegevens over systeemprestaties | Dit zijn gegevens over hoe de service werken op uw apparaat. | Geheugengebruik, weergavesnelheid van pagina's. |
 | Locatie | We leiden uw locatie af van uw IP-adres op het niveau van uw land, plaats of regio. | Landcode, plaats. |
 | Exacte locatie | Uw exacte locatie (binnen enkele meters). | Exacte locatie. |
@@ -162,7 +162,7 @@ Het kan zijn dat we dit beleid en onze verklaringen moeten wijzigen. In dat geva
                 </ul>            
             </td>
             <td>
-                <p><strong>Legitiem belang bij</strong> bij het doorgronden van hoe vaak Focus wordt gebruikt, waardoor het uitvoeren van zakelijke functies mogelijk wordt, zoals gebruiksrapportages en gebruiksprognoses.</p>
+                <p><strong>Legitiem belang</strong> bij het doorgronden van hoe vaak Focus wordt gebruikt, waardoor het uitvoeren van zakelijke functies mogelijk wordt, zoals gebruiksrapportages en gebruiksprognoses.</p>
                 <p><strong>Toestemming</strong> wanneer Klar-gebruikers ervoor kiezen om deze gegevens te verzenden voor gebruiksrapportages.</td>
             </td>
         </tr>

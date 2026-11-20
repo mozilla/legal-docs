@@ -63,7 +63,7 @@ A böngésző beállításaiban ([asztali](https://support.mozilla.org/kb/custom
 
 Ha Mozilla-fiókot regisztrál, a jelen nyilatkozatban meghatározott adatok mellett további információkat is kezelhetünk, például fiókadatokat, kapcsolatfelvételi adatokat és szinkronizálási adatokat, a [Mozilla-fiókokra vonatkozó adatvédelmi nyilatkozatnak](https://www.mozilla.org/privacy/mozilla-accounts/) megfelelően.
 
-### Mi-csevegőbotok biztosítása
+### MI-csevegőbotok biztosítása
 
 Lehetősége van arra, hogy külső féltől származó MI-csevegőbotot használjon, hogy segítsen például az olvasottak összefoglalásában, az írásban és az ötletek kidolgozásában, az adott szolgáltató [használati feltételeinek és adatvédelmi nyilatkozatának](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers) megfelelően.
 
@@ -126,7 +126,7 @@ Amikor a Firefoxszal kapcsolatban felkeresi a Mozilla súgóoldalait, a Mozilla 
 
 Előfordulhat, hogy a személyes adatait is kezeljük a vonatkozó jogszabályoknak és védelmi céloknak való megfelelés érdekében, mint például:
 
-*Jogszerű kérések megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
+* Jogszerű kérések megválaszolása és [jogi eljárások](https://www.mozilla.org/about/policy/transparency/) betartása, például válaszadás az idézésekre, vizsgálatokra vagy kormányzati hatóságok megkereséseire. A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel.
 * Adatvédelmi jogok gyakorlására irányuló kérések megválaszolása, például az Ön személyes adataihoz való hozzáféréshez vagy azok törléséhez való joga.
 * Lehetséges csalárd tevékenységek vagy egyéb káros tevékenységek, például illegális tevékenységek, kibertámadások vagy szellemi tulajdonjogok megsértése azonosítása, kivizsgálása és kezelése (beleértve a jogi igények benyújtását vagy védelmét).
 * Belső megfelelőségi és biztonsági tevékenységek végrehajtása, például auditok és vállalati biztonságkezelés.
@@ -137,10 +137,10 @@ A fent leírt szolgáltatásaink nyújtása érdekében a következőknek közö
 
 |  |  |
 | ----- | ----- |
-| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt ​​célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list). |
+| Partnerek, szolgáltatók, beszállítók és alvállalkozók | A fent felsorolt célok megvalósítása érdekében partnerekkel, szolgáltatókkal, beszállítókkal és vállalkozókkal dolgozunk együtt. Szerződéses védelmet alkalmazunk, így a személyes adatokat fogadó jogalanyok szerződésben kötelesek az adatokat a Mozilla utasításainak megfelelően kezelni. [További információk](https://support.mozilla.org/kb/firefox-subprocessor-list). |
 | Hatóságok | A Mozilla érvényes jogi eljárást követel meg ahhoz, hogy meghatározott felhasználói adatokat a kormány felé tárjon fel. Ilyen esetekben előfordulhat, hogy a jelen nyilatkozatban meghatározott személyes adatokat át kell adnunk a bűnüldöző szerveknek, kormányzati hatóságoknak vagy hasonló szerveknek, hogy megfeleljünk a vonatkozó jogszabályoknak, és azonosítsuk és megelőzzük a káros, jogosulatlan vagy illegális tevékenységeket. |
 | Kutatók | Amikor a nyitottság iránti [küldetésünket](https://www.mozilla.org/about/manifesto/) teljesítjük. Időről időre kiadunk adatokat, hogy a termékeinket jobbá tegyük, és elősegítsük a nyílt webet, de ha megtesszük, akkor ezt azonosítatlan és/vagy összesített [formátumban](https://wiki.mozilla.org/Data_Publishing) tesszük. |
-| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolat vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
+| A Mozilla által ellenőrzött jogalanyok és utódaik | Globális vállalatként adatokat osztunk meg a Mozilla által ellenőrzött leányvállalatok és kapcsolt vállalkozások között. Előfordulhat, hogy egy vállalati tranzakció, például egyesülés, felvásárlás, vagyonértékesítés vagy hasonló ügylet részeként is közölnünk kell a személyes adatokat. |
 
 ## Nemzetközi adattovábbítás
 
@@ -150,7 +150,7 @@ A Mozilla (és a kiszolgálóink) az Egyesült Államokban találhatók. Mivel g
 
 A személyes adatait csak addig őrizzük meg, ameddig az a jelen adatvédelmi nyilatkozatban meghatározott célok teljesítéséhez szükséges. Általánosságban elmondható, hogy a személyes adatokat nem őrizzük meg 25 hónapnál tovább, de a tényleges megőrzési időszakok az adatok típusától és a gyűjtés céljától függően változhatnak (például megőrizzük az Ön „első megjelenésének” dátumát a Firefox használatának időtartama alatt, így tudjuk, mióta Firefox-felhasználó). A konkrét megőrzési időszakok az adatok érzékenységétől, gyűjtésük kontextusától, az Ön beállításaitól és preferenciáitól, valamint az adatok megőrzésére vagy törlésére vonatkozó jogi vagy szerződéses kötelezettségeinktől is függhetnek, például a csalás megelőzése, a szabályozási megfelelés vagy a szolgáltatás folytonossága érdekében. A megőrzési időszak lejártával biztonságosan töröljük az adatait, hacsak a jogszabályok másként nem rendelkeznek.
 
-A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonsoítható vagy összesített alapon.
+A szolgáltatásaink titkosított biztonsági mentési tárhelyet is használnak, mint egy másik védelmi réteget a lehetséges katasztrófák utáni helyreállításhoz – az ezekben a környezetekben található adatok felhasználáson kívülre kerülnek, és csak üzletmenet-folytonossági célokra kezelik azokat. Az adatokat huzamosabb ideig is megőrizhetjük nem beazonosítható vagy összesített alapon.
 
 ## Az Ön jogai és döntései
 
@@ -201,7 +201,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
 | ----- | ----- | ----- |
 | Technikai adatok | Ez az információ arról a hardverről szól, amelyről szolgáltatásainkat eléri (például asztali számítógépéről, okostelefonjáról vagy táblagépéről), annak konfigurációjáról és a Firefoxhoz való csatlakozásáról. | Eszköztípus, operációs rendszer, IP-cím, ISP (internetszolgáltató). |
 | Beállítások | Ezek az Ön preferenciái vagy beállításai a szolgáltatások nyújtására vonatkozóan, például az adatvédelmi beállítások vagy az eszköztár beállításai. Ha nem választott konkrétan, ezek lesznek az alapértelmezett beállítások. | Továbbfejlesztett követésvédelmi beállítások, cookie-beállítások, engedélyek (hely, kamera, mikrofon), eszköztár testreszabása. |
-| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetjük az IP-címét. | Országkód, város. |
+| Hely | A tartózkodási helyére az Ön országa, városa vagy régiója szintjén következtetünk az IP-címe alapján. | Országkód, város. |
 | Pontos hely | A pontos tartózkodási helye (néhány méteren belül) | Pontos hely. |
 | Nyelvi beállítások | Az Ön által kikövetkeztetett vagy előnyben részesített nyelv (ha megadja a beállításokban) a szolgáltatásainkkal való interakcióhoz. | Nyelv. |
 | Egyedi azonosítók | Ezek egyedi azonosítók, amelyek különböző időpontokban hozhatók létre a szolgáltatással való interakciók kezelésére. | Client_id, session_id, cookie-azonosítók. |
@@ -296,7 +296,7 @@ Előfordulhat, hogy módosítanunk kell a jelen szabályzatot és a nyilatkozata
             <td colspan="3">Tekintse meg a <a href="https://www.mozilla.org/privacy/mozilla-accounts/">Mozilla-fiókok adatvédelmi nyilatkozatát</a></td>
         </tr>
         <tr>
-            <td>Mi-csevegőbotok biztosítása</td>
+            <td>MI-csevegőbotok biztosítása</td>
             <td>
                 <ul>
                     <li>Technikai adatok</li>

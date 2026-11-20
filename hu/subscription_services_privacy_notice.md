@@ -7,7 +7,7 @@ Hatályos: 2025. december 17-től
 
 A __Mozilla VPN__ eszköze internetkapcsolatait védi. A Mozilla együttműködik a Mullvaddal, hogy privát módon és biztonságosan titkosítsa internetes forgalmát.
 
-A __Mozilla Monitor__ képes figyelni , hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Egyes régiókban segíthet az adatok keresésében és eltávolításában az interneten. 
+A __Mozilla Monitor__ képes figyelni, hogy valamelyik fiókja esetében történt-e ismert adatvédelmi incidens. Egyes régiókban segíthet az adatok keresésében és eltávolításában az interneten. 
 
 A __Firefox Relay__ biztonságos e-mail- és telefonmaszkokkal (bizonyos régiókban) védi személyazonosságát. Biztonságos és könnyen használható e-mail- és telefonmaszkjaink segítenek megvédeni személyazonosságát, így névtelenül regisztrálhat új fiókokat, megállíthatja a levélszemetet és a kéretlen hívásokat, és csak a kívánt e-maileket kaphatja meg a postaládájában.  
 
@@ -25,7 +25,7 @@ __Interakciós adatok.__ Az interakciós adatgyűjtés alapértelmezés szerint 
 
 Emellett marketingkampányaink hatékonyságának megértése érdekében a Mozilla megkaphatja az Ön IP-címét a kampányadatokon és hivatkozási adatokon kívül, például, hogy milyen hirdetési kampányokkal lépett kapcsolatba, valamint az operációs rendszert, az eszköztípust, az eszközazonosítókat és az operációs rendszer verzióját. A Mozilla megosztja ezt az Adjusttal, de nem osztjuk meg és nem tároljuk az Ön IP-címét. Olvassa el az [Adjust dokumentációját](https://github.com/mozilla-mobile/mozilla-vpn-client/blob/main/src/adjust/adjust.md).
 
-__Műszaki adatok.__ A szolgáltatásokban az IP-címét ideiglenesen gyűjtjük kiszolgálónaplóinak részeként 90 napig. A VPN esetében a Mozilla adatokat kap a Mozilla VPN kliensszoftver telepített verziójáról és azokról az eszközökről is, amelyekre telepítve van, beleértve az operációs rendszert és a hardverkonfigurációt is. Az műszaki adatokat a teljesítmény és stabilitás javítására, valamint a szolgáltatások teljesítményének mérésére használjuk. 
+__Műszaki adatok.__ A szolgáltatásokban az IP-címét ideiglenesen gyűjtjük kiszolgálónaplóinak részeként 90 napig. A VPN esetében a Mozilla adatokat kap a Mozilla VPN kliensszoftver telepített verziójáról és azokról az eszközökről is, amelyekre telepítve van, beleértve az operációs rendszert és a hardverkonfigurációt is. A műszaki adatokat a teljesítmény és stabilitás javítására, valamint a szolgáltatások teljesítményének mérésére használjuk. 
 
 Ezen túlmenően, ha hozzájárulását adta az alkalmazáson belüli adatgyűjtéshez, a Sentry.io partnerünk technikai adatokat kap hiba- és teljesítményfigyelés céljából. Tudjon meg többet a [Sentry.io adatvédelmi szabályzatában](https://sentry.io/privacy/).
 
@@ -43,7 +43,7 @@ __Interakciós adatok.__ A Mozilla adatokat kap a szolgáltatásokkal való inte
 
 * [Formstack.](https://www.formstack.com/) A Mozilla Monitor a Formstacket használja a felhasználók által opcionálisan megadott visszajelzések rögzítésére. A Formstack adatvédelmi gyakorlatával kapcsolatos információkért lásd a [Formstack adatvédelmi szabályzatát](https://www.formstack.com/legal).
   
-* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) A Mozilla Monitor a Google Analytics segítségeket kap mérőszámokat arról, hogyan használják a felhasználók a webhelyeinket. Ez segít nekünk a webhelyek tartalmának fejlesztésében. Ha többet szeretne megtudni arról, hogy a Google hogyan használja az Ön személyes adatait, olvassa el a [Google Analytics Adatvédelem és biztonság](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) című részt. Telepítheti a [Google Analytics Opt-out böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), hogy megakadályozza az adatgyűjtést a Szolgáltatás látogatásairól, és megtiltsa az adattovábbítást a Google Analytics felé.
+* [Google Analytics.](https://marketingplatform.google.com/about/analytics/) A Mozilla Monitor a Google Analytics segítségével kap mérőszámokat arról, hogyan használják a felhasználók a webhelyeinket. Ez segít nekünk a webhelyek tartalmának fejlesztésében. Ha többet szeretne megtudni arról, hogy a Google hogyan használja az Ön személyes adatait, olvassa el a [Google Analytics Adatvédelem és biztonság](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA) című részt. Telepítheti a [Google Analytics Opt-out böngészőbővítményt](https://tools.google.com/dlpage/gaoptout), hogy megakadályozza az adatgyűjtést a Szolgáltatás látogatásairól, és megtiltsa az adattovábbítást a Google Analytics felé.
  
 ### Firefox Relay {: #relay }
 
@@ -53,7 +53,7 @@ A Mozilla a cookie-kat, az eszközinformációkat és az IP-címeket, valamint a
 
 * Google Analytics, amely cookie-t helyez az eszközre, és statisztikákat készít a felhasználók webhelyeinkkel való interakciójának módjáról. Ez segít nekünk a webhelyek tartalmának fejlesztésében. Ha meg szeretné akadályozni, hogy a Google Analytics adatokat gyűjtsön a Mozilla Monitor használatáról, telepítse a [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) böngészőbővítményt.
 
-__Műszaki adatok.__ A Mozilla alapvető adatokat kap a Relay szoftver telepített verziójáról, valamint arról, hogy melyik eszközre vannak telepítve, beleértve az operációs rendszert és a hardverkonfigurációt. A szolgáltatásokban az IP-címét ideiglenesen gyűjtjük kiszolgálónaplóinak részeként 90 napig. Az műszaki adatokat a teljesítmény és stabilitás javítására, valamint a szolgáltatások teljesítményének mérésére használjuk.
+__Műszaki adatok.__ A Mozilla alapvető adatokat kap a Relay szoftver telepített verziójáról, valamint arról, hogy melyik eszközre vannak telepítve, beleértve az operációs rendszert és a hardverkonfigurációt. A szolgáltatásokban az IP-címét ideiglenesen gyűjtjük kiszolgálónaplóinak részeként 90 napig. A műszaki adatokat a teljesítmény és stabilitás javítására, valamint a szolgáltatások teljesítményének mérésére használjuk.
 
 __Helyadatok.__ A Mozilla megkapja az Ön IP-címét, amikor regisztrál és használja a szolgáltatást. Az IP-címet az Ön tartózkodási helyének hozzávetőleges meghatározásához használjuk, mivel a Mozilla Előfizetéses szolgáltatások elérhetősége, árai és ajánlatai az Ön országától függhetnek. Az IP-címét termékeinkben csalás- és visszaélés-megelőzési célokra is használjuk.
 

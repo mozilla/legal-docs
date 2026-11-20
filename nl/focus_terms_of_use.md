@@ -47,7 +47,7 @@ Mozilla kan er van tijd tot tijd toe besluiten om deze Voorwaarden bij te werken
 
 ### Beëindiging
 
-Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigd. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van Firefox te staken. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot Firefox op elk gewenst opschorten of beëindigen, waaronder wanneer Mozilla besluit om Firefox niet langer aan te bieden. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
+Deze Voorwaarden zijn van toepassing totdat u of Mozilla deze beëindigt. U kunt ervoor kiezen om deze op elk gewenste moment en om welke reden dan ook te beëindigen door uw gebruik van Firefox te staken. Mozilla kan om welke reden dan ook de toegang van wie dan ook tot Firefox op elk gewenst moment opschorten of beëindigen, waaronder wanneer Mozilla besluit om Firefox niet langer aan te bieden. Als we besluiten om uw toegang op te schorten of te beëindigen, proberen we u per e-mail in kennis te stellen via het e-mailadres dat is gekoppeld aan uw account of de volgende keer dat u probeert toegang te krijgen tot uw account.
 
 ## U bent aansprakelijk voor de gevolgen van uw gebruik van Firefox
 
@@ -57,7 +57,7 @@ U onthoudt zich van welke activiteit dan ook die services of producten van Mozil
 
 ## U zult niet beweren dat Mozilla verantwoordelijk is voor uw gebruik van Firefox (Vrijwaring)
 
-**U stemt ermee om Mozilla en aan Mozilla gelieerde bedrijven te vrijwaren en schadeloos te stellen voor elke aansprakelijk of claim die voortvloeit uit uw gebruik van Firefox, voor zover is toegestaan onder de toepasselijke wetgeving.**
+**U stemt ermee in om Mozilla en aan Mozilla gelieerde bedrijven te vrijwaren en schadeloos te stellen voor elke aansprakelijkheid of claim die voortvloeit uit uw gebruik van Firefox, voor zover is toegestaan onder de toepasselijke wetgeving.**
 
 ## Er gelden enkele belangrijke beperkingen ten aanzien van de aansprakelijkheid van Mozilla
 

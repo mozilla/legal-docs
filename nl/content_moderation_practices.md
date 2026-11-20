@@ -1,6 +1,6 @@
 # Contentmoderatie bij Mozilla
 
-Laatst bij gewerkt op 29 april 2024
+Laatst bijgewerkt op 29 april 2024
 {: datetime="2024-04-29" }
 
 ## Regels voor Content
